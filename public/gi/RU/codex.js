@@ -5,53 +5,53 @@ var _codex = [
         "ID": 1,
         "Codex": [
             {
-                "Name": "Abandoned Capital of Howling Winds",
-                "Desc": "The one who once dwelt in that lonely tower is no more. The murmuring winds that shroud the desolate city tell of that most ancient of stories, which no mortal now remembers: they tell of their erstwhile master, the nameless wind sprite, and the chorus that caused the tower to quail...",
+                "Name": "Древняя столица пронзительных ветров",
+                "Desc": "Того, кто раньше жил в этой одинокой башне, больше нет. Грохочущие ветра, сотрясающие заброшенный город, рассказывают самые древние истории, которые не помнит ни один смертный. Истории о своём бывшем хозяине, о безымянном духе ветра, о хоре, что заставляет башню трепетать...",
                 "Image": "UI_Codex_Scenery_MDfenglongfeixu"
             },
             {
-                "Name": "Ancient Thousand Winds Temple",
-                "Desc": "The ruins of an ancient amphitheater. A thousand melodious winds gather here, bringing with them countless tales, and carrying those tales far and wide.",
+                "Name": "Пустынный храм Тысячи ветров",
+                "Desc": "Руины древнего амфитеатра. Звучные ветра собираются здесь, приносят с собой тысячи историй и затем разносят их по всему миру.",
                 "Image": "UI_Codex_Scenery_MDqianfengshendian"
             },
             {
-                "Name": "Manor of Daybreak",
-                "Desc": "Filled with the fragrance of grapes and wine, this is the estate of one of Mondstadt's distinguished houses. It has conquered drinkers the city over with its unmatched wines, and is in some ways the holy land to which all who love the bottle must make pilgrimage.",
+                "Name": "Усадьба лучей рассвета",
+                "Desc": "Родовое поместье одного из благороднейших кланов Мондштадта наполнено запахами вина и алкоголя. Превосходные вина местного производства завоевали место в сердцах городских любителей выпить. В некотором смысле, это место стало святым для последователей бутылки и бокала.",
                 "Image": "UI_Codex_Scenery_MDchenxijiuzhuang"
             },
             {
-                "Name": "Land of Clear Springs",
-                "Desc": "A peaceful and idyllic suburban town. It has a long history of hunting, of sweet spring water, and of passing down the legend of a beneficent spirit dwelling within the waters.",
+                "Name": "Колыбель родника",
+                "Desc": "Тихое и спокойное поселение на окраине города. Его история насчитывает долгие годы охоты, текущего родника и переходящей из уст в уста легенды о добродушном духе, обитающем в местных водах.",
                 "Image": "UI_Codex_Scenery_MDqingquanzhen"
             },
             {
-                "Name": "Forgotten Sword Cemetery",
-                "Desc": "Hundreds of years have passed, and the world is once again at peace. This forest of blades stands as testament to the song of clashing swords, the battle-hymns of warriors, the thundering footfalls of monsters, and the crimson sky, as red as blood.",
+                "Name": "Безымянное кладбище мечей",
+                "Desc": "Сотни лет прошли, и на земле вновь воцарился мир. Лес клинков остался свидетелем яростных схваток, боевых песен, грохочущего марша чудовищ и залитого багрянцем неба.",
                 "Image": "UI_Codex_Scenery_MDdadawupagu"
             },
             {
-                "Name": "Windswept Wilderness",
-                "Desc": "This plain bathes in an everlasting breeze. An ancient, monumental tree left behind by an ancient heroine speaks softly amidst the winds.",
+                "Name": "Долина, продуваемая ветром",
+                "Desc": "Равнина, залитая вечным свежим ветром. Древнее величественное дерево, посаженное героиней древности, тихо шепчет что-то своей листвой.",
                 "Image": "UI_Codex_Scenery_MDfengqidi"
             },
             {
-                "Name": "Favonius Cathedral",
-                "Desc": "A holy place managed by the devoted adherents of the Anemo Archon.\nIt was once a palatial estate from which the aristocracy flaunted their authority.",
+                "Name": "Собор Барбатоса",
+                "Desc": "Священное место, которым управляют послушники Анемо Архонта.\nРаньше это здание было дворцом аристократии и символизировало их крепкую власть.",
                 "Image": "UI_Codex_Scenery_MDxifengdajiaotang"
             },
             {
-                "Name": "Knights of Favonius - Library",
-                "Desc": "The library with the most books in all the northern lands. Other than those collected in the restricted section, all the books here are open for public reading.",
+                "Name": "Ордо Фавониус: Библиотека",
+                "Desc": "Самая крупная библиотека в северных землях. Все её богатства доступны для публичного пользования. Кроме книг из запретной секции библиотеки...",
                 "Image": "UI_Codex_Scenery_MDtushuguan"
             },
             {
-                "Name": "The City of Wind",
-                "Desc": "The wind will carry Dandelion Seeds, songs, and stories far afield, and it also guides gentle Travelers to its realm. Welcome to Mondstadt.",
+                "Name": "Город ветров",
+                "Desc": "Ветер разносит по миру семена одуванчиков, слова и песни. А ещё он указывает путь юным путешественникам. Добро пожаловать в Мондштадт.",
                 "Image": "UI_Codex_Scenery_MDmengdecheng"
             },
             {
-                "Name": "The Marsh of Celestial Guardians",
-                "Desc": "A poem says that a star once fell to the earth, forming this lake. But other tales say that even the stars would descend to apprehend this sight, which shines as brightly as the Anemo Archon's eyes.",
+                "Name": "Озеро, оберегающее статую",
+                "Desc": "Если верить стихам, то однажды на землю упала звезда, и на месте падения образовалось это озеро. Другие же легенды гласят, что звёзды, которые светят ярче глаз Анемо Архонта, однажды упадут в это озеро.",
                 "Image": "UI_Codex_Scenery_MDxingluohu"
             }
         ]
@@ -60,203 +60,203 @@ var _codex = [
         "ID": 2,
         "Codex": [
             {
-                "Name": "Bishui's Twilight Luster",
-                "Desc": "The final jade fell from here into the bottomless abyss. Here did the first wish become as but a river of smoke.",
+                "Name": "Сумеречный блеск Бишуй",
+                "Desc": "Здесь последний нефрит погрузился в бездонную пропасть, а первоначальное желание превратилось в густой туман над рекой.",
                 "Image": "UI_Codex_Scenery_LYZhuShiJue"
             },
             {
-                "Name": "The Blossoming Warmth of Qiaoying Sunlight",
-                "Desc": "When the gentle spring sun and winds caress the mountains of Chenyu, there will the rich fragrance of tea be accompanied by the dance of the Spiritscent Flower, just as in days past, drifting together through peaceful streets...",
+                "Name": "Тепло солнца и лёгкость цветов Цяоин",
+                "Desc": "Когда нежное весеннее солнце и ветер ласкают горы Чэньюй, насыщенный аромат чая вместе с призрачным ароматом танцующих лепестков, как в дни минувшие, проносятся по тихим улицам...",
                 "Image": "UI_Codex_Scenery_LYQiaoYingZhuang"
             },
             {
-                "Name": "Ancient Pact",
-                "Desc": "\"...Once this tree gets a bit larger, I'll pick its leaves and make some tea for all of you...\"",
+                "Name": "Обет прошлого",
+                "Desc": "«...Когда это дерево немного подрастёт, я сорву его листья и заварю вам здесь чай...»",
                 "Image": "UI_Codex_Scenery_LYGuShuChaWang"
             },
             {
-                "Name": "Chiwang Peak",
-                "Desc": "In the long-forgotten mists of time, the ancestors of Chenyu Vale named this place the \"Hanging Garden.\" Once-prosperous realms became divided into many tribes, and the tribes would later again unite into a prosperous realm, but the spirit veins of Chenyu Vale are as they ever were, gathering faithfully in this place.",
+                "Name": "Плато Чиван",
+                "Desc": "В давно забытые времена предки жителей Чэньюй назвали это место «Висячими садами». Некогда процветающие царства разделились на множество племён, а позже вновь объединились в процветающее царство. Но духовные артерии долины Чэньюй неизменно стекаются сюда, как и прежде.",
                 "Image": "UI_Codex_Scenery_LYLaiXinShanDing"
             },
             {
-                "Name": "Trails of Laixin",
-                "Desc": "\"Though stalwart stone may sink, it shall return rite-rightly.\"",
+                "Name": "Следы Лайсинь",
+                "Desc": "«Пусть этот камень утонул, но он вернётся в нужное время».",
                 "Image": "UI_Codex_Scenery_LYLaiXinShan"
             },
             {
-                "Name": "Desolate Foothill Shrines",
-                "Desc": "In the tales told by older folks, the ancestral peoples of Chenyu Vale migrated here from the far south, and they built a mighty ritual tower to touch the heavens and left many mighty temples. The jade tower is no more, and only silent, ancient ruins stand amidst the thick fog that shrouds the mountains, watching over a secret none now shall know.",
+                "Name": "Святыни пустынных предгорий",
+                "Desc": "По рассказам стариков, предки жителей долины Чэньюй пришли сюда с далёкого юга, построили массивную ритуальную башню до самых небес и оставили после себя множество величественных храмов. Нефритовая башня давно исчезла, и лишь безмолвные древние руины стоят средь густого тумана, окутавшего горы, охраняя тайну, которую больше никто не узнает.",
                 "Image": "UI_Codex_Scenery_LYXianMingYiJi"
             },
             {
-                "Name": "Clear Skies Over Xuanlian",
-                "Desc": "\"The weighty winds blow, yon' day is dark, the cascading falls flow clear.\"",
+                "Name": "Ясное небо над Сюаньлянь",
+                "Desc": "«Дуют тяжёлые ветра, день окутан мраком, каскады водопадов прозрачны и чисты».",
                 "Image": "UI_Codex_Scenery_LYXuanLianShan"
             },
             {
-                "Name": "Past Glories of Wangshan",
-                "Desc": "In days gone by, when Guhua was at the height of its strength, various heroes from all walks of life would gather here, mingle, and drink, and the sound of song would never cease. Though the school's reputation has since waned, its magnificent hall still stands, inscribed with the \"chivalry\" of yesteryear.",
+                "Name": "Былая слава Ваншань",
+                "Desc": "В далёком прошлом, когда процветала школа Гухуа, здесь собирались герои из всех слоёв общества. Они общались и пили, а звуки песен не смолкали. Сегодня популярность школы угасла, но её великолепный зал всё ещё стоит, сохранив доблестный духом прошлых лет.",
                 "Image": "UI_Codex_Scenery_LYGuHuaPaiDaMen"
             },
             {
-                "Name": "Clarion Echo",
-                "Desc": "\"...Jade shall rise from sunken mouth... Gain and loss are inextricable, rise and fall, inseparable. Wax and wane is but a dream — the river flows as it ever has...\"",
+                "Name": "Звучное эхо",
+                "Desc": "«...Нефрит поднимется из затонувшей пасти... Победы и поражения неразрывны, взлёты и падения неразлучны. Приливы времени - лишь сон, река продолжает течь, как прежде».",
                 "Image": "UI_Codex_Scenery_LYHuDiMiJing"
             },
             {
-                "Name": "Herb-Housing Hall",
-                "Desc": "The adeptus once revered as the \"Herblord\" has long since departed, and only empty medicinal containers remain. Even at war's very end, that desire to help those in need never once wavered.",
+                "Name": "Двор лекарственных корзин",
+                "Desc": "Адепт, некогда почитаемый как «Властительница лекарств», давно ушёл на покой, оставив лишь пустые корзины из-под лекарств. Но желание помочь нуждающимся не ослабевало до самого окончания войны.",
                 "Image": "UI_Codex_Scenery_LYYaoGuanZiDong"
             },
             {
-                "Name": "Valley of Vibrant Butterflies",
-                "Desc": "An adeptus's abode, far from the din of mortal comings and goings. In the distant past, it is said that the ancestral peoples who had lost their home due to war were taken in by an adeptus named Fujin, and here did they avoid the disaster that raged without. Thus did the flame of civilization endure rather than be snuffed out under titanic floods.",
+                "Name": "Долина ярких бабочек",
+                "Desc": "Обитель Адепта вдали от шума бренного мира. Легенда гласит, что в далёком прошлом людей, потерявших дом в войне, укрыл у себя Адепт по имени Фу Цзинь, и там они переждали бушевавшие в мире бедствия. Так пламя цивилизации смогло уцелеть и не погаснуть в колоссальных потопах.",
                 "Image": "UI_Codex_Scenery_LYYaoDieGu"
             },
             {
-                "Name": "The Clouds Cascade Around the Wharf",
-                "Desc": "If one follows the Bishui River upstream, the prosperous merchant port built next to a vast waterfall will come into view. Here, the laughter of countless sailors and merchants and the calls of people buying and selling on every street form a unique scenic tapestry here at Liyue's northern edge.",
+                "Name": "Каскад облаков над портом Илун",
+                "Desc": "Если идти вдоль реки Бишуй вверх по течению, то перед глазами откроется процветающий торговый порт рядом с огромным водопадом. Здесь смех бесчисленных моряков и торговцев, а также крики покупателей и продавцов на улицах создают уникальный живописный гобелен на северной окраине Ли Юэ.",
                 "Image": "UI_Codex_Scenery_LYYiLongBu"
             },
             {
-                "Name": "Jade Elegy of Bishui",
-                "Desc": "\"...The spring's cries ripple through the vales, the shrines depart from northeast shores. The heights and shallows in the southwest hide, sun and earth from each other divide, the eternal whirlpool that never churns, beautiful jade concealed within...\"",
+                "Name": "Нефритовая элегия Бишуй",
+                "Desc": "«...Весенние ручьи звенят переливом в долине, северо-восток покидают святыни. Горные пики укрыты от глаз юго-западной мглой. Вовеки не встретиться солнцу с луной, не бурлить воронкой водице речной, но таится меж ними прекрасный нефрит...»",
                 "Image": "UI_Codex_Scenery_LYBaoJueKou"
             },
             {
-                "Name": "The Court of Pillars",
-                "Desc": "#\"Despite the Traveler's warnings, I still followed in {M#his}{F#her} footsteps to arrive at this place.\"\n\"I can barely comprehend the sight of this huge sky-blue crystal pillar before me. It cannot be from this continent — only the heavens, with which it shares its shade, could have been its home.\"\n\"I have decided to explore deeper within through secret paths to uncover its secrets... I wonder how far I can press on, and what further records I shall leave behind...\"",
+                "Name": "Сад столпов",
+                "Desc": "#«Несмотря на предупреждения путешественни{M#ка}{F#цы}, мне удалось повторить {M#его}{F#её} путь и добраться до этого места.\nДаже в самых смелых мечтах я не мог представить себе этот огромный небесно-голубой хрустальный столб. Он не может быть с этого континента - только небеса, с которыми он разделяет свою тень, могли бы быть его домом.\nЯ хочу продолжить исследование, пройти тайными путями и раскрыть его секреты... Интересно, как далеко я смогу продвинуться и какие ещё записи я оставлю после себя...»",
                 "Image": "UI_Codex_Scenery_JYDaSuiPianJieSuo"
             },
             {
-                "Name": "The Great Mushroom's Place",
-                "Desc": "\"An underground cavern where a strange, gigantic mushroom grows. I could've sworn that I heard something strange calling to me. Perhaps it is just an illusion — or a hallucination, in which case this place must be full of poisonous gas, and I must leave as soon as possible.\"",
+                "Name": "Земля великого гриба",
+                "Desc": "«Подземная пещера, в которой растёт странный гигантский гриб. Могу поклясться, что я слышал, как кто-то зовёт меня. Возможно, это просто иллюзия или галлюцинация, а значит это место наполнено ядовитым газом, и нужно покинуть его как можно скорее».",
                 "Image": "UI_Codex_Scenery_JYDaMoGu"
             },
             {
-                "Name": "The Inverted City",
-                "Desc": "\"As I was traveling alone, I discovered this vast and terrible ruin. Perhaps this is all that remains of an ancient civilization that was punished and destroyed. This ancient city seems to resist the presence of any outsiders... It might even have something to do with those purple-black crystals, or that mud-like substance.\"\n\"I stayed for a time, but I had to leave its ominous, upended silhouette behind.\"",
+                "Name": "Перевёрнутый город",
+                "Desc": "«Во время одиночного путешествия мне попались эти огромные и ужасные руины. Возможно, это всё, что осталось от древней цивилизации, которая понесла наказание и была уничтожена. Этот древний город, кажется, сопротивляется присутствию любых посторонних... Возможно, это даже как-то связано с этими пурпурно-чёрными кристаллами или этим грязеподобным веществом.\nПосле недолгого времени мне пришлось покинуть этот зловещий перевёрнутый силуэт».",
                 "Image": "UI_Codex_Scenery_JYDianDaoYiJiJieSuo"
             },
             {
-                "Name": "Crystal Fragment",
-                "Desc": "\"The crystal that was once here was the very same 'culprit' that caused the closure of The Chasm back then. Its strange movements have again caused the Ministry of Civil Affairs much distress.\"\n\"Fortunately, the Traveler was on hand to return it to a place deeper below, leaving us with nothing but this empty, grim hall of stone.\"",
+                "Name": "Фрагмент кристалла",
+                "Desc": "#«Кристаллы, которые когда-то существовали здесь, привели к тому, что Разлом был запечатан. Сейчас их необычное поведение тревожит Департамент по делам граждан.\nК счастью, с помощью путешественни{M#ка}{F#цы} они вернулись в глубины земли. Они оставили после себя лишь этот холодный и пустой каменный зал».",
                 "Image": "UI_Codex_Scenery_JYXiaoSuiPianJieSuo"
             },
             {
-                "Name": "Underground Waterway",
-                "Desc": "\"As I was exploring by myself, I discovered this waterway. The waters here are clean and cool, perfect for taking a break and wash all the ill-fortune accumulated on the way off.\"\n\"There are some gentle elemental creatures nearby who move most slowly, rare beings who have no quarrel with the rest of the world... I drew the waterway on the map. I hope the Traveler can follow it and find this place.\"",
+                "Name": "Подземные воды",
+                "Desc": "#«Во время исследования мне попался этот пруд. Вода там была прохладной и чистой. Идеальное место для передышки. Здесь мне удалось смыть грязь и усталость, которые сковывали меня всю дорогу.\nНеподалёку медленно и беззаботно прогуливались какие-то кроткие элементальные существа. Как будто их совершенно не интересовало ничего, кроме здешней тишины... Вот этот пруд на карте. Надеюсь, путешественни{M#к}{F#ца} сможет отыскать это место...»",
                 "Image": "UI_Codex_Scenery_JYDiXiaShuiZe"
             },
             {
-                "Name": "The Blocked Path",
-                "Desc": "\"The miners sealed the tunnels that led further within when they dispersed, but they did leave one 'Mountainator' here.\"\n\"Perhaps it was the orders of the higher-ups... It's not as if it would be practical to separate Liyue's mercantile pursuits from Glazed Sand Crystal for too long.\"",
+                "Name": "Заблокированная штольня",
+                "Desc": "«В те времена перед эвакуацией из Разлома рабочие запечатали самые глубокие штольни, но оставили горовзрыватель.\nВероятно, по особому указанию руководства... Ведь торговля в Ли Юэ не могла процветать без кристаллов глазурного песка».",
                 "Image": "UI_Codex_Scenery_JYQianXianZhanDao"
             },
             {
-                "Name": "The Underground Mines",
-                "Desc": "\"I once grew up at the mines of Mingyun Village. The miners' rowdy labor, their joys and sorrows... Those encompassed my entire childhood.\"\n\"Looking upon these underground tunnels, far more vast yet silent and deserted, these memories of yesteryear resurface in my mind... albeit sadder and more lonesome.\"",
+                "Name": "Подземные шахты",
+                "Desc": "«Моё детство прошло в деревне Миньюнь, где жили и работали шахтёры. Их радости и несчастья наполняли мои годы.\nСейчас, глядя на эти величественные, но пустынные подземные шахты, я словно возвращаюсь в прошлое, только это прошлое гораздо более одинокое и мрачное...»",
                 "Image": "UI_Codex_Scenery_JYKaiCaiKuangQuZhu"
             },
             {
-                "Name": "The Ancient Battlefield of Fuao Vale",
-                "Desc": "\"This is the site of the deadly battle between Azhdaha and Rex Lapis. I'm just a young and inexperienced adventurer, and writing is not my forte... But I cannot help but stand in awe of this place.\"\n\"How small we mortals are before time, which respects neither night nor day, or gods, who can shake heaven and earth...\"",
+                "Name": "Древнее поле битвы в ущелье Фуао",
+                "Desc": "«Здесь Аждаха и Властелин Камня вели битву не на жизнь, а на смерть. Я всего лишь молодой и неопытный искатель приключений и красноречием не блещу... Но этот вид завораживает.\nПо сравнению с непостижимым временем и пространством, или могущественными божествами, способными изменить мир, как ничтожны мы, смертные».",
                 "Image": "UI_Codex_Scenery_CYGuZhanChang"
             },
             {
-                "Name": "Mouth of the Great Mine",
-                "Desc": "\"The entrance to The Chasm's mines, known to the miners as 'The Chasm's Maw.' Since the latest earthquake, the tunnels, which were already sealed by the Qixing, have been even more treacherous and inscrutable than ever...\"\n\"But with the Traveler's help, the array sealing the opening has been broken. Let's just hope that the Qixing don't come down too hard on us...\"",
+                "Name": "Устье шахты",
+                "Desc": "#«Вход в шахты Разлома ещё называют пастью Разлома. После последнего землетрясения проходы, запечатанные Цисин, стали куда коварнее и опаснее...\nНо усилиями путешественни{M#ка}{F#цы} печать была сломана. Надеюсь, Цисин не набросится на нас с обвинениями...»",
                 "Image": "UI_Codex_Scenery_CYJuYuanDongKouJieSuo"
             },
             {
-                "Name": "View from The Chasm's Surface",
-                "Desc": "\"When I first came here, the miraculous, terrifying geography silenced me... I have never forgotten the sense of utter awe and respect that I felt.\"\n\"But even such wondrous visions became monotonous after too much hustle and bustle on behalf of the Ministry of Civil Affairs...\"\n\"Speaking of which, I must thank the Traveler for helping me continue with my own adventure...\"",
+                "Name": "Поверхность Разлома",
+                "Desc": "#«В первый раз здесь меня до глубины души поразил завораживающий и ужасающий рельеф. Мне никогда не забыть то чувство благоговения и уважения.\nНо и эти чудесные видения поблекли и растворились в суете людей из Департамента по делам граждан.\nИ только благодаря путешественни{M#ку}{F#це} мне удалось продолжить свои приключения...»",
                 "Image": "UI_Codex_Scenery_CYCengYanJuYuanZhu"
             },
             {
-                "Name": "A Drop in the Ocean",
-                "Desc": "The proud, lonely stone mountains here are said to have been the place where Rex Lapis subdued a great sea monster. They say that those sensitive of heart can sometimes hear a strange, stirring rhythm emanating from deep within the oceanic abyss.",
+                "Name": "Безбрежное море Гуюнь",
+                "Desc": "Горделивые каменные глыбы. Однажды Властелин Камня победил здесь огромное морское чудище. Особенно чувствительные личности иногда слышат в этих краях странные, тревожные звуки, которые исходят из глубин океанской бездны.",
                 "Image": "UI_Codex_Scenery_LYguyunge"
             },
             {
-                "Name": "Feiyun Slope",
-                "Desc": "Here live those merchants who have made it. Here, the residents are prosperous and carefree. Here, the lights are bright and never go out.",
+                "Name": "Торговая площадь Фэйюнь",
+                "Desc": "Здесь обитают успешные купцы. Жители этого места богаты и беспечны, а яркие огни в их окнах никогда не гаснут.",
                 "Image": "UI_Codex_Scenery_LYfeiyunpo"
             },
             {
-                "Name": "Chihu Rock",
-                "Desc": "The ever-pulsating heart of Liyue Harbor that pumps lifeblood into its veins. The lively city scene here is the source of Liyue Harbor's limitless vitality.",
+                "Name": "Гора Тигра",
+                "Desc": "Ни на минуту не останавливающееся сердце Ли Юэ, которое качает жизненную энергию по венам и артериям города. Безграничные людские ресурсы питают оживлённый город.",
                 "Image": "UI_Codex_Scenery_LYchihuyan"
             },
             {
-                "Name": "Yujing Terrace",
-                "Desc": "Far from the bustling harbor, the Yujing Terrace rises along with Mt. Tianheng. Here, the Qixing and the leaders of many enterprises tirelessly drive Liyue's prosperity and stability.",
+                "Name": "Терраса Юйцзин",
+                "Desc": "Вдали от доков, где кипит жизнь, на горе Тяньхэн возвышается Терраса Юйцзин. Здесь члены Цисин и главы местных предприятий направляют Ли Юэ в сторону стабильности и процветания.",
                 "Image": "UI_Codex_Scenery_LYyujingtai"
             },
             {
-                "Name": "Where Merchants Flock And All Ships Dock",
-                "Desc": "A prosperous port city where a thousand ships drop anchor. Under the aegis of countless contracts and regulations, innumerable goods change hands and grace the seven nations with their presence. Welcome to Liyue, wayfaring Traveler.",
+                "Name": "Море кораблей и торговцев",
+                "Desc": "Процветающий порт, в котором стали на якорь тысячи кораблей. Века прочных контрактов и экономического регулирования привели к бурному развитию торговли в регионе и принесли сюда сокровища со всех семи королевств. Добро пожаловать в Ли Юэ, странник!",
                 "Image": "UI_Codex_Scenery_LYliyuegang"
             },
             {
-                "Name": "Beyond the Chasm",
-                "Desc": "The junction between Liyue Harbor and the great mines of the Chasm. Work has ceased here as of late due a shift deep within the Chasm.",
+                "Name": "Около Разлома",
+                "Desc": "Транспортное связующее звено между Ли Юэ и громадными шахтами Разлома. Добыча руды недавно была приостановлена из-за аварии в горных недрах.",
                 "Image": "UI_Codex_Scenery_LYkuangchang"
             },
             {
-                "Name": "Dunyu Ruins",
-                "Desc": "The Land of Hidden Jade. But the war of ages past is long over, and the mounds of glittering jade have long been destroyed. Now, only the whisper of flowing water remains.",
+                "Name": "Руины Дуньюй",
+                "Desc": "Земля укрытого нефрита. Война уже давно осталась в прошлом, а груды сверкающего нефрита превратились в пыль. Теперь здесь слышно лишь журчание текущих вод.",
                 "Image": "UI_Codex_Scenery_LYdunyuling"
             },
             {
-                "Name": "Qingxu's Forsaken Tower",
-                "Desc": "A ruined tower amid a verdant field. It still stands, defending a bygone age long returned to dust.",
+                "Name": "Одинокая башня Цинсю",
+                "Desc": "Разрушенная башня посреди зелёного поля по-прежнему стоит на страже эпохи, которая уже давно превратилась в пыль.",
                 "Image": "UI_Codex_Scenery_LYqingxupu"
             },
             {
-                "Name": "Nine Pillars of Peace",
-                "Desc": "Nine shackles of stone were said to have been laid down deep in the valleys of Cuijue Slope to drive off evil and cleanse the world.",
+                "Name": "Девять мировых колонн",
+                "Desc": "Говорят, что в глубинах склона Зимородка стоят девять каменных колонн, которые очищают этот мир и защищают его от зла.",
                 "Image": "UI_Codex_Scenery_LYjingshijiuzhu"
             },
             {
-                "Name": "Weeping Garden",
-                "Desc": "Legend has it that a deep, pure affection filled this ancient garden, creating the Luhua Pool as it is known today.",
+                "Name": "Колыбель слёз",
+                "Desc": "Легенды гласят, что чувство глубокой чистой любви питало этот древний сад. Так сформировалось озеро Лухуа, которое мы знаем сегодня.",
                 "Image": "UI_Codex_Scenery_LYluhuachi"
             },
             {
-                "Name": "Ruins of Guili",
-                "Desc": "Once, this was a thriving city where a certain flower bloomed in abundance. But all dreams must turn to waking. This earthly paradise was consumed by war, and those who gathered here were once again scattered.",
+                "Name": "Забытый город Гуйли",
+                "Desc": "Когда-то здесь был город с цветущими садами, в которых росли определённые цветы. Но все сны заканчиваются пробуждением. Беспечный мир был поглощён войной, и смутные времена разделили тех, кто здесь собрался.",
                 "Image": "UI_Codex_Scenery_LYguiliyuan"
             },
             {
-                "Name": "Moonlit Tree",
-                "Desc": "A strange tree whose branches flow with clear, cold moonlight. Perhaps its roots, which reach deep into the heart of the earth, are connected to something that awaits an opportunity to once again emerge and bask in the moon's light.",
+                "Name": "Дерево, купающееся в лунном свете",
+                "Desc": "Необычное дерево, ветви которого источают холодный лунный свет. Возможно, его корни, достигающие самого центра земли, связаны с чем-то... Чем-то, что ждёт возможности вновь выйти на поверхность и насладиться лунным светом.",
                 "Image": "UI_Codex_Scenery_LYnantianmen"
             },
             {
-                "Name": "Mist-Veiled Stone Forest",
-                "Desc": "These stone spires poke out of the clouds like great pavilions. Though this place is forbidden to mortal steps, such a beauteous sight is bound to attract the eyes of those who yearn for the sky, and for those who dwell in adepti realms.",
+                "Name": "Каменный лес в море облаков",
+                "Desc": "Огромные каменные шпили пронзают облака. Хотя это место недоступно для большинства смертных, но отсюда открываются бесподобные виды, которые привлекают тех, кто тоскует по небу, и тех, кто живёт в царстве Адептов.",
                 "Image": "UI_Codex_Scenery_LYhuaguanglin"
             },
             {
-                "Name": "Where Mountains Peak Beyond the Clouds",
-                "Desc": "They say that the adepti dwell somewhere within these countless towering, cloud-ringed peaks. Few mortals may set foot here.",
+                "Name": "Заоблачные вершины",
+                "Desc": "Легенды гласят, что среди этих высоких, пронзающих облака скал живут Адепты. Немногие смертные могут ступить в эти земли.",
                 "Image": "UI_Codex_Scenery_LYjueyunjian"
             },
             {
-                "Name": "Marsh of Rustling Reeds",
-                "Desc": "This is where the sifting of the wavy silvergrass and the croaking of frogs join in song, and it is also the final resting place of many a martial nomad.",
+                "Name": "Болота и тростники",
+                "Desc": "Шелест тростника и кваканье лягушек сливаются в заунывную песню в том месте, которое стало последним пристанищем для многих странствующих воинов.",
                 "Image": "UI_Codex_Scenery_LYdihuazhou"
             },
             {
-                "Name": "A Home in the Hills",
-                "Desc": "Mighty Mt. Qingce gently cradles this peaceful village, silently protecting the old, the young, and the abundant croplands within its embrace. The legend of the ancient threat subdued beneath the mountain has been consigned to legend along with those who know of it, never again to return.",
+                "Name": "Межгорье Цинцэ",
+                "Desc": "Величественные горы Цинцэ скрывают обильные пахотные земли и мирную деревушку, в которой спокойно живут старики и дети. Легенда о древней угрозе, которая таится под горой, остаётся лишь легендой, а те, кто помнит об этой угрозе, уже не вернутся.",
                 "Image": "UI_Codex_Scenery_LYqingcezhuang"
             },
             {
-                "Name": "Vigilant Guardians' Vantage Point",
-                "Desc": "The inn that stands at the southern end of Dihua Marsh seems to serve as something other than a resting place for guests. They say that Wangshu Inn is a haven for lovers' moonlit rendezvous. Folk stories also have it that even ones as august as the adepti sometimes bask in the moonlight here.",
+                "Name": "Точка бескрайнего взора",
+                "Desc": "Постоялый двор на юге Тростниковых островов на самом деле служит чем-то иным, нежели просто местом для отдыха путников. Говорят, что «Ваншу» - идеальное место для свиданий под луной. Если верить народным преданиям, то даже благородный Адепт порой наслаждается здесь лунным светом.",
                 "Image": "UI_Codex_Scenery_LYwangshukezhan"
             }
         ]
@@ -265,93 +265,93 @@ var _codex = [
         "ID": 3,
         "Codex": [
             {
-                "Name": "Tsurumi Island",
-                "Desc": "\"Pirka chikappo! Kapatcir kamuy!\"\n\"We slumber together in a spider-silk nest of fog.\"",
+                "Name": "Цуруми",
+                "Desc": "«Pirka chikappo! Kapatcir kamuy!»\n«Вместе мы дремлем в свитом из паутины гнезде тумана».",
                 "Image": "UI_Codex_Scenery_DQ3heguan"
             },
             {
-                "Name": "Where the Provisional Head Priestess Lives",
-                "Desc": "\"Hibiki will return.\"\n\"The shrine looks wonderful now, thanks to you. She will return very soon.\"",
+                "Name": "Владения временной настоятельницы",
+                "Desc": "«Хибики вернётся».\n«Благодаря вам святилище выглядит замечательно. Она вернётся очень скоро».",
                 "Image": "UI_Codex_Scenery_DQ2qianlaishenshe"
             },
             {
-                "Name": "The Silent Fishing Village",
-                "Desc": "The laughter of the old days and the cries of cicadas were at last lost to the thunder. The people of today only remember that this place was abandoned due to the furious, unchecked storms.",
+                "Name": "Тихая рыбацкая деревня",
+                "Desc": "Смех прошлого и пение цикад затерялись в раскатах грома. Сегодня люди помнят только, что это место было заброшено из-за яростных, безудержных штормов.",
                 "Image": "UI_Codex_Scenery_DQ2yueshicun"
             },
             {
-                "Name": "The Stranded Flagship",
-                "Desc": "This rundown atakebune warship was mighty once upon a time. In its remains, marked by starlit tears, one can still vaguely see the image of a vessel proudly sailing, blessed by the shrine maidens and villagers of a bygone age.",
+                "Name": "Севший на мель флагман",
+                "Desc": "Этот ветхий атакэбунэ когда-то был величественным. В его останках, озарённых слезами звёзд, всё ещё можно смутно разглядеть гордое судно, благословлённое жрицами и жителями деревни прошлого.",
                 "Image": "UI_Codex_Scenery_DQ2qinglaiwan"
             },
             {
-                "Name": "Where Swirling Storm Clouds Gather",
-                "Desc": "The great battle where the sea and sky changed color have become lost to time, but the vast storms that were called upon at this time still remain.",
+                "Name": "Обитель грозовых облаков",
+                "Desc": "Великая битва, изменившая цвет моря и неба, уже предана забвению, но грозы, вызванные ею, всё ещё остаются здесь.",
                 "Image": "UI_Codex_Scenery_DQ2leibao"
             },
             {
-                "Name": "Village of the People of the Deep",
-                "Desc": "An ancient village on Watatsumi Island. It is said that the ancestors of its people came from deep beneath the waves.\nIt is also an important rallying point for those who are opposed to the Vision Hunt Decree.",
+                "Name": "Деревня народа Бездны",
+                "Desc": "Древняя деревня на острове Ватацуми. Говорят, что предки этого народа вышли из глубоких морских пучин.\nЭто также важная база для всех, кто противостоит Охоте на Глаза Бога.",
                 "Image": "UI_Codex_Scenery_DQ2wanglongcun"
             },
             {
-                "Name": "The Moon-Bathed Deep",
-                "Desc": "The entrance to Enkanomiya. The water in this pool shine year in and year out with light akin to that of the moon, hence the name \"Moon-Bathed.\"",
+                "Name": "Лунная бездна",
+                "Desc": "Вход в Энканомию. Вода круглый год озарена светом, похожим на лунный, отсюда и название «Лунная бездна».",
                 "Image": "UI_Codex_Scenery_DQ2yuanxiagong"
             },
             {
-                "Name": "The Pearlescent Palace",
-                "Desc": "This is the center of government and religion alike on Watatsumi Island. Shells and skerries flank the palace in which lie the relics of the serpent god.",
+                "Name": "Жемчужный дворец",
+                "Desc": "Это центр правительства и религии на острове Ватацуми. Скалы и гигантские раковины окружают дворец, в котором покоятся останки змея.",
                 "Image": "UI_Codex_Scenery_DQ2shanhugong"
             },
             {
-                "Name": "Rift Valley, Yashiori Island",
-                "Desc": "According to legend, the blow that brought an end to the serpent god was struck right here. Even to this day, the remnant reverberations of lightning continue to ring across this deep canyon in Yashiori Island, as if the spirits of thunder still chatter about the legendary scene that tore through the sky and the earth thousands of years ago...",
+                "Name": "Ущелье, остров Ясиори",
+                "Desc": "По легенде удар, прервавший жизнь богу-змею, был нанесён именно здесь. В этом глубоком каньоне, пересекающем остров Ясиори, отблески молний вспыхивают и по сей день, так словно эльфы грома всё ещё пересказывают друг другу это легендарное событие, что раскололо небо и землю тысячи лет назад...",
                 "Image": "UI_Codex_Scenery_DQwuxiangrenxiajian"
             },
             {
-                "Name": "Tidal Flat Amidst the Flames of War",
-                "Desc": "In the ancient language of the Inazuma ancestors, \"Nazuchi\" means \"to be tenderly caressed by the hands of the gods.\" Ironically, Nazuchi Beach has been ravaged by war since a thousand years ago and has become a place for scavengers and pirates, with few inhabitants.",
+                "Name": "Приливная равнина в пламени войны",
+                "Desc": "На древнем языке предков Инадзумы «Надзути» означает «нежно ласкаемый руками богов». По иронии судьбы побережье Надзути вот уже тысячи лет разоряют войны, и он стал прибежищем мародёров и пиратов. При этом местное население составляет лишь небольшую часть обитателей пляжа.",
                 "Image": "UI_Codex_Scenery_DQmingzhuitan"
             },
             {
-                "Name": "Overlooking Serpent Head",
-                "Desc": "According to legend, the giant serpent that once ventured into the deep sea was finally slain on Yashiori Island. It is also said that when the sea breeze passes through the eyes and sharp fangs of the giant snake, sounds of a whistle will ring in the wind. That is the requiem it composed for itself. Now, this requiem also provides repose for those who have fallen or were displaced in the war.",
+                "Name": "Голова змея над морем",
+                "Desc": "По легенде гигантского змея, когда-то плававшего в морских глубинах, сумели наконец убить на острове Ясиори. А ещё говорят, что когда глаза и острые когти гигантского змея обдувает морской бриз, на ветру раздаётся свист. Это реквием, который змей сложил сам для себя. Сегодня этот реквием упокоивает также души всех тех, кто пал на войне или был вынужден покинуть из-за неё свои дома.",
                 "Image": "UI_Codex_Scenery_DQlongtou"
             },
             {
-                "Name": "Front Line, Kannazuka",
-                "Desc": "Legend has it that during a disaster hundreds of years ago, Kujou Shigeyori, a mortal general whom Her Highness valued greatly, built a battlefront fortress in just one night and fought valiantly against the forces of darkness, flying the banner of the Electro Mitsudomoe high. Hundreds of years later, the descendants of the Kujou family have also inherited outstanding military engineering skills.",
+                "Name": "Передний край, Каннадзука",
+                "Desc": "Согласно легенде во время катастрофы, случившейся сотни лет назад, Сигейори Кудзё, смертный генерал, которого высоко ценила её высочество, всего за ночь возвёл прифронтовую крепость и сдерживал там силы тьмы, высоко держа знамя Электро мицудомоэ. И сотни лет спустя потомков семьи Кудзё по-прежнему отличают выдающиеся способности к военно-инженерному делу.",
                 "Image": "UI_Codex_Scenery_DQjiutiaozhenwu"
             },
             {
-                "Name": "Tatara Islands' Vantage Point",
-                "Desc": "This ring of islands surrounded by jagged, rocky terrain.is the perfect topographic barrier to the Shogunate's smelting facilities. The magnificent giant Blast Furnace here is used to produce a steady stream of high-quality Jade Steel for Inazuma. Recently, however, due to the war, the Mikage Furnace that drove the production has been damaged.",
+                "Name": "Секрет островов Татары",
+                "Desc": "Это кольцо островов окружает изрезанная скалистая местность. Это идеальная естественная преграда для плавильных мастерских сёгуната. Находящийся здесь великолепный взрывной горн гигантских размеров неустанно изготавливает для Инадзумы высококачественную нефритовую сталь. Но недавно из-за войны горн Микагэ - основа производства - был повреждён.",
                 "Image": "UI_Codex_Scenery_DQgaolu"
             },
             {
-                "Name": "Grand Narukami Shrine, Mt. Yougou",
-                "Desc": "The Grand Narukami Shrine is located at the peak of Mt. Yougou and is the largest shrine in Inazuma, guarding the Sacred Sakura. It provides much-needed comfort and peace to the people of Inazuma in these unsettling times.",
+                "Name": "Великий храм Наруками, гора Ёго",
+                "Desc": "Великий храм Наруками расположен на вершине горы Ёго. Это крупнейший храм Инадзумы, который охраняет Священную сакуру. Храм дарует жителям Инадзумы покой и мир, столь необходимые в эти смутные времена.",
                 "Image": "UI_Codex_Scenery_DQmingshendashe"
             },
             {
-                "Name": "Suburbs, Inazuma City",
-                "Desc": "The outskirts of Inazuma City exude a time-worn and leisurely atmosphere as you make your way up the old paths. It seems that the prosperity of the city has not influenced the scenery here. The power and grace of the Shogun can also be observed here, bringing a quiet and different kind of vitality.",
+                "Name": "Пригороды, город Инадзума",
+                "Desc": "Когда прогуливаешься старыми тропками в окрестностях города Инадзумы, чувствуешь, что всё здесь словно покрыто налётом древности и неспешности. Похоже, богатство города никак не затронуло местные пейзажи. Но власть и милость сёгуна ощущаются и здесь, и жизнь течёт своим тихим, хоть и несколько своеобразным чередом.",
                 "Image": "UI_Codex_Scenery_DQdaoqichengyangjiao"
             },
             {
-                "Name": "Tenryou, Inazuma City",
-                "Desc": "The many streets and lanes of Tenryou intersect and cross paths, and finally gather in front of the Tenshukaku - the undisputed center of power in Inazuma. Under the eternal and silent gaze of Her Highness, the Ogosho Shogun, the people living in the hustle and bustle of the city will finally be free from the worries of obsession, and move to a paradise where they no longer need to chase and compete for their aspirations — but what is the view of the eternal paradise that the Shogun sees?",
+                "Name": "Тэнрё, город Инадзума",
+                "Desc": "Многочисленные улицы и переулки Тэнрё сплетаются, образуя перекрёстки, а затем собираются воедино напротив Тэнсюкаку - неоспоримого центра власти Инадзумы. Под вечным молчаливым взором её высочества сёгуна Огосё люди, жившие в городской суете, будут наконец свободны от тревог и смогут жить в раю, где им не нужно будет больше бороться с соперниками, чтобы реализовать свои мечты - но что такое вечный рай в глазах сёгуна?",
                 "Image": "UI_Codex_Scenery_DQdaoqichengfujiao"
             },
             {
-                "Name": "The Sacred Forest in the Moonlight",
-                "Desc": "Legend has it that in the past, this sacred forest was once home to many demons. To this day, the legend of the \"tanuki-bayashi\" still surrounds this tranquil woodland.",
+                "Name": "Священный лунный лес",
+                "Desc": "Легенда гласит, что когда-то в этом священном лесу обитало множество демонов. И по сей день об этом тихом лесе ходит легенда «Хаяси Тануки».",
                 "Image": "UI_Codex_Scenery_DQshouhuzhisen"
             },
             {
-                "Name": "Ritou, Narukami Island",
-                "Desc": "Legend has it that hundreds of years ago, Lord Hiiragi Hiroshi of the Kanjou Commission miraculously built a prosperous trade center from a deserted island, and greatly impressed the Shogun. In the days when the Sakoku Decree was in force, the headquarters of the Kanjou Commission still flourished. However, the merchants from faraway nations languished, and the streets were no longer the bustling appearance of a century ago. Perhaps this is the best reflection of the business of mortals: those who become successful overnight will also lose everything in a day.",
+                "Name": "Рито, остров Наруками",
+                "Desc": "Легенда гласит, что сотни лет назад властитель Хийраги Хироси из комиссии Кандзё чудесным образом возвёл на пустынном острове богатый торговый город, чем весьма впечатлил сёгуна. Во времена действия указа Сакоку центр комиссии Кандзё продолжает процветать, но постепенно дела купцов из дальних стран приходят в упадок, а на улицах уже не так многолюдно, как сто лет назад. Возможно, в этом вся суть деловых предприятий смертных людей: кто в одночасье сколачивает состояние, тот и теряет всё за день.",
                 "Image": "UI_Codex_Scenery_DQlidao"
             }
         ]
@@ -360,263 +360,263 @@ var _codex = [
         "ID": 4,
         "Codex": [
             {
-                "Name": "Sourcewater Nation",
-                "Desc": "Justice reveals the truth. Evil shall be punished, good shall be rewarded. You and I are but drops of water within the sourcewater, our original wishes carried into the depths on the rapid currents, buried alongside forgotten notes and codes.",
+                "Name": "Царство первозданных вод",
+                "Desc": "Справедливость раскроет правду, зло будет наказано, а добро вознаграждено. Мы лишь капля в воде источника, и наши изначальные чаяния в конце концов утонут в стремительном течении, погребённые вместе с забытыми музыкальными нотами и загадочными словами.",
                 "Image": "UI_Codex_Scenery_FDFengDanGang"
             },
             {
-                "Name": "Harvisptokhm",
-                "Desc": "\"Praise be the Harvisptokhm, extinguisher of the flaming sign searing the sky, and caller of the timely rains that will cleanse the land of its filth. The days that bask in the Khvarena's resplendence are as dawn rising through the murky fog crowning the mountains.\"",
+                "Name": "Харвисптохм",
+                "Desc": "«Хвала Всемогущей, погасительнице пламенных небесных знамений и призывательнице своевременных дождей, избавляющих землю от скверны. Дни, осенённые Хварной, подобны рассвету, пробивающемуся сквозь туман, венчающий горы».",
                 "Image": "UI_Codex_Scenery_XMWanZhongMuShu"
             },
             {
-                "Name": "Amrita-Nourished Nest",
-                "Desc": "The purest Amrita nourishes the homeland of the Pari, with only unbesmirched warriors allowed entry into these forbidden grounds. The countless scattered kindred of the Khvarena are fated to converge here in eventuality.",
+                "Name": "Гнездо, вскормленное амритой",
+                "Desc": "Чистейшая амрита питает родину пари, и только незапятнанным воинам разрешено входить в эти запретные земли. Бесчисленным разрозненным сородичам Хварны суждено в итоге собраться здесь.",
                 "Image": "UI_Codex_Scenery_XMHuaHai"
             },
             {
-                "Name": "Valley of the Unsullied",
-                "Desc": "\"...The filth pouring out from the abyss will eventually recede and the lost descendants of the Dahri will be shocked into uprightness. As a chorus of thousands sing their song, there will come a lull to the rains.\"",
+                "Name": "Долина безупречных",
+                "Desc": "«...Скверна, изливающаяся из бездны, в конце концов отступит, заблудшие потомки Дахри будут потрясены и станут праведными. Когда тысячный хор споёт свою песню, дожди временно прекратятся».",
                 "Image": "UI_Codex_Scenery_XMTuMiHeiYuan"
             },
             {
-                "Name": "Gate of Everlasting Mourning",
-                "Desc": "A grand and majestic gate leading to a world beneath the soil. It is sealed tight as of the present, and the once prosperous kingdom that lay behind the door has also long since turned to rubble.",
+                "Name": "Врата вечной скорби",
+                "Desc": "Грандиозные и величественные ворота, ведущие в подземный мир. В настоящее время они наглухо закрыты. Некогда процветающее королевство, которое находилось за ними, давно обратилось в руины.",
                 "Image": "UI_Codex_Scenery_XMKanRuiYaDaMen"
             },
             {
-                "Name": "Forge of the Abandoned Foundry",
-                "Desc": "In the past, there were humans that yearned to use their own might to surpass the gods. This massive furnace stands as some manner of symbol relating to that desire.\nAlthough the ancient foundry has long been abandoned, the sparks within the forge yet flicker still.",
+                "Name": "Горн заброшенной мастерской",
+                "Desc": "В прошлом существовали люди, жаждавшие превзойти богов. Этот массивный горн является своего рода символом этого стремления.\nХотя древняя мастерская давно заброшена, искры в горне ещё до конца не погасли.",
                 "Image": "UI_Codex_Scenery_XMShenKengYiJiDaLuZi"
             },
             {
-                "Name": "Elder Pine Atop the Wastes",
-                "Desc": "The kind spirit residing within the towering Barsom has sheltered a great many warriors returning from their trials. But now none remember the details of that ancient compact...",
+                "Name": "Сосна на голой вершине",
+                "Desc": "Добрый дух, обитающий в высоком барсоме, дал приют многим воинам, возвращающимся домой после тягот на чужбине. Но теперь никто не помнит подробностей того древнего договора...",
                 "Image": "UI_Codex_Scenery_XMJuanShuJuShu"
             },
             {
-                "Name": "The Paradise of Eternal Peace",
-                "Desc": "\"...Its leaves shall not be seized by autumn's arms, and the circles of time shall not avail to subject its newborn spring-joy to the curse of years...\"",
+                "Name": "Рай вечной тишины",
+                "Desc": "«...Листья его не будут схвачены руками осени, и круги времени не смогут подвергнуть его свежую весеннюю радость проклятию лет...»",
                 "Image": "UI_Codex_Scenery_XMyonghenglvzhou"
             },
             {
-                "Name": "Ad-Hoc Headquarters of the Fatui Expeditionary Force",
-                "Desc": "A vanguard troop from the snowy land in the far north has set up camp here amidst the whispers of ancient shrines.",
+                "Name": "Временный штаб экспедиционных сил Фатуи",
+                "Desc": "Авангардный отряд из заснеженных земель на севере разбил лагерь здесь, среди шёпота древних святынь.",
                 "Image": "UI_Codex_Scenery_XMyurenzhonglinshidian"
             },
             {
-                "Name": "Remnants of the Ancient Orchard",
-                "Desc": "Before it fell into the dark valley rift, the great gate of Gurabad was once a place where poetry and beauty gathered.\nOnly the cream of the crop had the privilege of standing here and beholding the noble mortal lord...",
+                "Name": "Останки древнего сада",
+                "Desc": "Прежде чем упасть в тёмный разлом долины, великие ворота Гюрабада были местом, где собирались поэты и красавицы.\nЛишь достойные из достойных имели право стоять здесь и созерцать благородного царя...",
                 "Image": "UI_Codex_Scenery_XMjuerchengdamen"
             },
             {
-                "Name": "Liloupar's Gaol",
-                "Desc": "What sort of dire criminal did this prison that has now become an oasis once hold?\nAnd what changes will her awakening bring to the lonesome desert tribes?",
+                "Name": "Тюрьма Лилупар",
+                "Desc": "Что за страшный преступник содержался в этой тюрьме, которая теперь стала оазисом?\nИ какие изменения принесёт её пробуждение одиноким племенам пустыни?",
                 "Image": "UI_Codex_Scenery_XMdashufang"
             },
             {
-                "Name": "Safhe Shatranj",
-                "Desc": "To the desert tribes, this abandoned, ruined square goes by the name \"Safhe Shatranj.\"\nResearchers believe that this was once a \"training field\" for ancient war machines.",
+                "Name": "Сафхе Шатрандж",
+                "Desc": "Племена пустыни называют это место Сафхе Шатрандж, хотя эта площадь давно заброшена и разрушена.\nИсследователи считают, что когда-то здесь было тренировочное поле для древних боевых машин.",
                 "Image": "UI_Codex_Scenery_XMshenzhiqipan"
             },
             {
-                "Name": "Where a Titan's Shins Were Broken",
-                "Desc": "Wounded Shin Valley has been its moniker for a long time, but now that an iron giant has lost its footing in this place, its name surely bears some extra weight now, no?",
+                "Name": "Там, где была сломлена голень великана",
+                "Desc": "Долина Переломай-ноги долгое время носила это прозвище, но теперь, когда железный великан потерял свою опору в этом месте, её название, несомненно, приобретает дополнительный вес, не так ли?",
                 "Image": "UI_Codex_Scenery_XMjiqirenshakeng"
             },
             {
-                "Name": "The Court of Withered Life",
-                "Desc": "The ancient people of Gurabad once planted many-hued plants and succulent fungi along these halls and courts, but forgetting caused all life here to become barren...",
+                "Name": "Храм увядающей жизни",
+                "Desc": "Когда-то древний народ Гюрабада высадил вдоль этих храмов и дворов пёстрые растения и сочные грибы, но забвение привело к тому, что всё живое здесь стало бесплодным...",
                 "Image": "UI_Codex_Scenery_XMcaoshendong"
             },
             {
-                "Name": "The Court of Dried Springs",
-                "Desc": "The ancient people of Gurabad memorialized the years of the gardens with wine, song, and dance. But forgetting caused all joys to wither and crumble to dust...",
+                "Name": "Храм пересохших источников",
+                "Desc": "Древний народ Гюрабада отмечал годы пышных садов вином, песнями и танцами. Но забвение привело к тому, что все радости увяли и обратились в прах...",
                 "Image": "UI_Codex_Scenery_XMhuashendong"
             },
             {
-                "Name": "The Gap of the Hidden Ruins",
-                "Desc": "Mighty Gurabad and the monumental buildings raised in its heyday could not, in the end, escape falling into the dark valley rift.\nAnd as if their destruction was not humiliation enough, their mansions and estates would come to be nests for roving bandits...",
+                "Name": "Трещина в скрытых руинах",
+                "Desc": "Величественный Гюрабад и монументальные здания, возведённые во времена его расцвета, не смогли избежать падения в тёмную долину.\nНо унизительным стало не только само разрушение, но и то, что руины их особняков и поместий стали гнездом для бродячих бандитов...",
                 "Image": "UI_Codex_Scenery_XMjurenxiagu"
             },
             {
-                "Name": "The Forgotten River Valley",
-                "Desc": "This great river valley once irrigated Panjvahe. Here, the nobles of Gurabad once sailed in ornate boats, releasing their sleek hunting falcons...\nBut even those proud hawks would devolve into the wild red vultures of the desert.",
+                "Name": "Забытая долина реки",
+                "Desc": "Долина этой великой реки когда-то орошала Панджвахе. Здесь некогда ходили богатые лодки вельмож Гюрабада, выпускавших на волю своих охотничьих соколов...\nНо даже эти гордые птицы превратились в диких стервятников пустыни.",
                 "Image": "UI_Codex_Scenery_XMtujiuchaoxue"
             },
             {
-                "Name": "The Lost Hermitage",
-                "Desc": "It is said that a friend of King Deshret once built their court in a great cavern beneath the dunes.\nWenut served here as court officials, and flying serpents as companions. But today, both creatures have lost their noble wit and vigor.",
+                "Name": "Затерянный дворец",
+                "Desc": "Говорят, что друг царя Дешрета когда-то построил дворец в большой пещере под дюнами.\nУнуты служили здесь придворными, а летучие змеи - компаньонами. Но сегодня они утратили своё благородное остроумие и энергичность.",
                 "Image": "UI_Codex_Scenery_XMcaolongdong"
             },
             {
-                "Name": "Wenut Tunnels",
-                "Desc": "The mortal palaces have long fallen, and the Wenut rule here now, transforming it into a court and garden more to their liking.",
+                "Name": "Тоннели унутов",
+                "Desc": "Дворцы смертных давно пали, и теперь здесь правят унуты, превратив их в своё пристанище.",
                 "Image": "UI_Codex_Scenery_XMshachongdong"
             },
             {
-                "Name": "The Temple of Buried Dominion",
-                "Desc": "The ancient people of Gurabad used to worship their God King of the desert in these long halls and grand courts. But forgetting caused the gulf between the noble and the base to lose its meaning...",
+                "Name": "Храм погребённой силы",
+                "Desc": "В этих длинных залах и величественных дворах народ Гюрабад поклонялся своему Царю богов пустыни. Но забвение привело к тому, что пропасть между благородными и простолюдинами потеряла своё значение...",
                 "Image": "UI_Codex_Scenery_XMchiwangdong"
             },
             {
-                "Name": "The Palace Abandoned by the Gods",
-                "Desc": "The ruins of the temple of Gurabad. The desert songs say that long-lived giants once dwelled here.\nBut they were cast down into a rift in the earth within a single night, never to be seen again... and so did the great temple also become some ruins in a valley rift.",
+                "Name": "Оставленный богами храм",
+                "Desc": "Руины храма Гюрабад. В песнях пустыни говорится, что когда-то здесь обитали великаны-долгожители.\nНо в одну ночь они были низвергнуты в разлом земли, и больше их никто не видел... И великий храм тоже превратился в руины, оставшиеся в ущелье...",
                 "Image": "UI_Codex_Scenery_XMliushayiji"
             },
             {
-                "Name": "The Tanit Encampment",
-                "Desc": "Part of an ancient structure's ruins, once home to the ghosts of people of old...\nNow, it is the home of a desert tribe known as the Tanit.",
+                "Name": "Ночлег племени Танит",
+                "Desc": "Часть руин древнего сооружения, где когда-то обитали призраки людей ушедших времён...\nТеперь же это место обитания пустынного племени, известного под именем Танит.",
                 "Image": "UI_Codex_Scenery_XMheishi"
             },
             {
-                "Name": "The Moonblue Canals",
-                "Desc": "The ancient tales of the desert people tell of this place being the site where three canals met, nourishing fertile fields and rich gardens.\nBut nothing remains now of those halcyon days, only the dulled shades of a dream...",
+                "Name": "Голубой канал",
+                "Desc": "Предания жителей пустыни гласят, что когда-то здесь пересекались три водных канала. Они снабжали водой поля и сады.\nНо сегодня от этой цветущей картины осталась лишь мечта, которая с каждым днём всё больше угасает...",
                 "Image": "UI_Codex_Scenery_XMsanyunhe"
             },
             {
-                "Name": "Mt. Damavand, Where Sandstorms Never Cease",
-                "Desc": "An unending sandstorm swirls at the heart of Mt. Damavand.\nThe desert people say that this sandstorm hides the location of the Eternal Oasis.",
+                "Name": "Неутихающая буря над горой Дамаванд",
+                "Desc": "Песчаная буря в центре горы Дамаванд, которая никогда не успокаивается.\nЖители пустынь говорят, что в её центре и спрятан Оазис вечности.",
                 "Image": "UI_Codex_Scenery_XMshavbaoyuanjing"
             },
             {
-                "Name": "Verdant Fields' Vantage Point",
-                "Desc": "From the barren desert, you can behold the forest realm of hidden wisdom, its verdant silhouette secure behind the mighty wall that blocks out the sandstorms, coldly looking down its nose at the desert realm swept by searing winds...\nSurely, the vassal lords whose fragmented kingdoms survived King Deshret's fall must also have looked upon that land of plenty with bitter jealousy...",
+                "Name": "Вид на зелёные долины",
+                "Desc": "Из бесплодной пустыни открывается вид на лесистую землю, скрывающую мудрость. Тёмно-зелёные силуэты стоят за высокой стеной, заслоняющей песчаную бурю, и безучастно взирают на колышущееся под горячим ветром песчаное царство...\nВ эпоху крушения королевств после гибели царя Дешрета вассальные короли, должно быть, с завистью смотрели на эту огромную территорию с богатыми ресурсами...",
                 "Image": "UI_Codex_Scenery_XMYuanTiaoXuMiCheng"
             },
             {
-                "Name": "Lifeless Dar al-Shifa",
-                "Desc": "The hospital, named after a prayer for patients, is now missing the busy figures of the doctors and the glad songs of those who have recovered, leaving naught but dilapidated remains.",
+                "Name": "Безжизненная Дар аль-Шифа",
+                "Desc": "В больнице, названной так в честь молитвы за пациентов, теперь нет ни оживлённых фигур врачей, ни песен пациентов. Остались лишь блёклые руины.",
                 "Image": "UI_Codex_Scenery_XMMoLinBingYiYuan"
             },
             {
-                "Name": "The Giant of the Wind-Eroded Valley",
-                "Desc": "The giant lies silent in the valley, and the demonic swarms from the abyss now seem almost like poetic exaggerations. Only a power great enough to destroy mountains serves as the best proof that what the researchers say is nothing but the truth.",
+                "Name": "Гигант изъеденной ветрами долины",
+                "Desc": "Гигант затих в долине, люди стали считать «демонические стаи из бездны» метафорой. Только сила, достаточная для разрушения гор, служит лучшим доказательством того, что исследователи говорят правду.",
                 "Image": "UI_Codex_Scenery_XMDaJiQiRen"
             },
             {
-                "Name": "Aaru's Shut",
-                "Desc": "There are neither coveted treasures nor gem-laden chambers at the pinnacle of the Mausoleum of King Deshret — only the desolation and decay of the desert, and the shreds of a grand dream.",
+                "Name": "Отражение Аару",
+                "Desc": "На вершине гробницы царя Дешрета нет ни заветных сокровищ, ни комнат, украшенных драгоценностями. Там лишь запустение и упадок, и только осколки той честолюбивой мечты.",
                 "Image": "UI_Codex_Scenery_XMARuDeDaoYing"
             },
             {
-                "Name": "The Bottomless Hall",
-                "Desc": "Legend has it that in the depths of the desert, an ancient god tried to recreate the underworld and the heavens, so that sinners would fall into the underworld and the ones favored by him would live in paradise.",
+                "Name": "Бездонный зал",
+                "Desc": "Легенда гласит, что в глубинах пустыни древнее божество пыталось воссоздать рай и ад, чтобы грешники попадали в подземный мир, а верные ему - на небо.",
                 "Image": "UI_Codex_Scenery_XMDuETing"
             },
             {
-                "Name": "Khaj-Nisut",
-                "Desc": "\"Yon golden slumber summons thee, wandering sand. Drink not that bitter salt water, for the sorrows of tomorrow have gone away.\"",
+                "Name": "Хадж-нисут",
+                "Desc": "«Сны золоты, бесприютны пески. И вода здесь сладка, и отступают печали».",
                 "Image": "UI_Codex_Scenery_XMSengXianTing"
             },
             {
-                "Name": "The Thousands of Entombed Chambers",
-                "Desc": "In dark places where the sands do not ravage, countless chambers and statues slumber, waiting for the time when their master shall visit them again...",
+                "Name": "Тысяча погребённых опочивален",
+                "Desc": "В тёмном месте, куда не может проникнуть песок, находятся бесчисленные помещения и статуи, ожидая того времени, когда их хозяин нанесёт новый визит...",
                 "Image": "UI_Codex_Scenery_XMDiXiaDongXue"
             },
             {
-                "Name": "The Mausoleum of King Deshret",
-                "Desc": "The huge cone is like a supporting pillar between the high sky and the yellow sands that has stood in the middle of the desert since time immemorial. Standing in front of it, be you a commoner, a wealthy man, or a well-informed researcher, you shall feel that you are but a few grains of sand all the same.",
+                "Name": "Гробница царя Дешрета",
+                "Desc": "Огромный конус, словно столб, связывающий небосвод и жёлтый песок, стоит посреди пустыни с неизвестных времён. Будь вы простолюдин, богатый ли человек или эрудированный исследователь, вы будете чувствовать себя песчинкой на фоне его величия.",
                 "Image": "UI_Codex_Scenery_XMChiWangLing"
             },
             {
-                "Name": "Thamud Oasis",
-                "Desc": "The golden-eyed Thamudians and the seven walls of their magnificent city-state rose up over the corpses of ancient kingdoms, and would itself be sucked down into the vortex of wars between nations and obliterated...\nThe short-lived kingdom has been lost for a long time, but the oases are still like gems that adorn the sea of sand, accommodating caravans and wanderers with springs and plants alike.",
+                "Name": "Тамудийский оазис",
+                "Desc": "Златоглазые тамудийцы и их великолепный град с несокрушимыми городскими стенами возвышались над останками древних царств, но вскоре были низвергнуты в водоворот войн между народами...\nНедолговечное царство было потеряно, но оазис, словно изумруд среди моря песков, радует караваны и странников.",
                 "Image": "UI_Codex_Scenery_XMLvZhou"
             },
             {
-                "Name": "Refugee Shelters",
-                "Desc": "The well-versed poets of Tulaytullah, \"the city of sapphire,\" Thamudian gladiators with golden eyes in Saleh, Jinn in Ay-Khanoum... Countless kingdoms that rose and fell after the great kingdom of King Deshret collapsed, together with their heroes and legends, were all immortalized in ancient nursery rhymes in this village, echoing around the children's beds...\nAfter all those years, the remnants of King Deshret have long muddled the boundaries between histories and myths, blending them all seamlessly into their memories...",
+                "Name": "Убежища беженцев",
+                "Desc": "Мастера слова из сапфирового города Тулайтуллы, тамудийские гладиаторы с золотыми глазами в Салехе, джинны в Ай-Хануме... После крушения великого царства Дешрета здесь возникали и приходили в упадок бесчисленные королевства со своими героями и легендами. Они были увековечены в древних сказках в этой деревне, их вновь и вновь рассказывали детям перед сном...\nНыне по прошествии многих лет потомки царя Дешрета перемешали подлинную историю с мифами, сохранив всё её в своей памяти...",
                 "Image": "UI_Codex_Scenery_XMARuCun"
             },
             {
-                "Name": "Towers of Betrayal",
-                "Desc": "These huge obelisks have been standing here since the death of King Deshret. The desert dwellers call them the \"Towers of Betrayal\" and regard them as symbols of shame that serve as constant reminders of the fact that the desert kings had broken their oath with King Deshret...\nThe obelisks' true history could date back to a period preceding that of those short-lived desert kingdoms, but it has unfortunately long been forgotten.",
+                "Name": "Башни предательства",
+                "Desc": "Эти огромные обелиски стоят здесь со времён смерти царя Дешрета. Жители пустыни называют их «Башнями предательства» и считают символом позора. Они напоминают о королях пустыни, которые нарушили клятву, данную царю Дешрету...\nПодлинная история обелисков, вероятно, восходит к более раннему периоду, чем история тех недолговечных королевств пустыни, которая, к сожалению, давно забыта.",
                 "Image": "UI_Codex_Scenery_XMJuDaFangJianBei"
             },
             {
-                "Name": "The Barren Land Where Sand Dances",
-                "Desc": "Once, a god resided to the west of the Wall of Samiel. Perhaps the desert was also a paradise for all living beings and a place where wisdom gathered at that time. It is indeed a shame that nothing but endless sandstorms and bleak ruins remain to be seen here today.",
+                "Name": "Бесплодная земля танцующих песков",
+                "Desc": "К западу от Стены Самиэль некогда находилась резиденция божества. Возможно, в те времена пустыня была раем для всех живых существ и местом, где собиралась мудрость. Жаль, что сегодня здесь остались лишь бесконечные песчаные бури и мрачные руины.",
                 "Image": "UI_Codex_Scenery_XMShaMoQuanJing"
             },
             {
-                "Name": "The Garden's New Sprouts",
-                "Desc": "The forest will remember.",
+                "Name": "Новые ростки питомника",
+                "Desc": "Лес помнит всё.",
                 "Image": "UI_Codex_Scenery_XMWuLiuTuoBOSSZhanChang"
             },
             {
-                "Name": "The Littlest Dream",
-                "Desc": "They might have done so clumsily, but they made many preparations to welcome their Nara friend nonetheless.",
+                "Name": "Крохотная мечта",
+                "Desc": "Пусть и несколько неуклюже, но они многое сделали, чтобы поприветствовать своего друга-нару.",
                 "Image": "UI_Codex_Scenery_XMShaZhongGuLiMengJing"
             },
             {
-                "Name": "Nursery of Lost Dreams",
-                "Desc": "\"Friends will stroll through the forest again. That which is good will return, and the painful memories will vanish. Just like a stream purifying itself or a withered tree sprouting once more.\"",
+                "Name": "Питомник утраченных грёз",
+                "Desc": "«Дорогие друзья снова пройдутся по густому лесу. Всё, что есть прекрасное, вернётся на круги своя, а печальные воспоминания уйдут в прошлое, подобно тому, как воды горного ручья очищают сами себя, а засохшее дерево даёт новый росток».",
                 "Image": "UI_Codex_Scenery_XMWangXiDeHengNaLanNa"
             },
             {
-                "Name": "The World of the Aranara",
-                "Desc": "\"No matter how dark the sky and land may get, as long as your spirit emits warmth like a golden sun, there will always be hope.\"",
+                "Name": "Мир аранар",
+                "Desc": "Пусть весь мир погрузится во мрак - пока сердце твоё светится и пылает, подобно солнцу, надежда ещё не потеряна.",
                 "Image": "UI_Codex_Scenery_XMHengNaLanNAMengJing"
             },
             {
-                "Name": "Aranaga's Little Garden",
-                "Desc": "Here, the pomegranate sings and the apples clap.",
+                "Name": "Маленький садик Аранаги",
+                "Desc": "Здесь гранатники поют под яблонь овации...",
                 "Image": "UI_Codex_Scenery_XMZhengFaJuShuDeMiaoPu"
             },
             {
-                "Name": "The Land of Mawtiyima",
-                "Desc": "This is where the memories and dreams of the forest gather. It seems to have its own consciousness.",
+                "Name": "Земли Мотийимы",
+                "Desc": "Там, где живут воспоминания и сны леса. Кажется, что у него есть собственное сознание.",
                 "Image": "UI_Codex_Scenery_XMDianDaoJuRenZhiBei"
             },
             {
-                "Name": "The Rain's End",
-                "Desc": "\"There is no rain here, and yet it is the birthplace of rain. The purification of Vana rains begins — and ends — here.\"",
+                "Name": "Исход дождя",
+                "Desc": "«Здесь нет дождя, и всё же здесь он рождается. Дождь, очищающий вану, начинается и заканчивается именно в этом месте».",
                 "Image": "UI_Codex_Scenery_XMYuDeJinTou"
             },
             {
-                "Name": "Varunastra",
-                "Desc": "The Varuna Contraption shows forth its power, bringing forth the water of life and turning Valuka into Vana, turning the barren lands into a land full of life.",
+                "Name": "Варунастра",
+                "Desc": "Машина Варуны демонстрирует свою силу, принося воду жизни и превращая валуку в вану, бесплодные земли - в землю, полную жизни.",
                 "Image": "UI_Codex_Scenery_XMHuiLiuZhiZhu"
             },
             {
-                "Name": "The Colossus Watching Devantaka",
-                "Desc": "\"Behold. Thousands of years of ancient Khaenri'ah history lie before us!\"",
+                "Name": "Колосс, наблюдающий за Девантакой",
+                "Desc": "«Узрите же! Прямо перед нами тысячелетняя история древней Каэнри'ах!»",
                 "Image": "UI_Codex_Scenery_XMDaJiQiRenYuanJin"
             },
             {
-                "Name": "The Frontier Beneath the High Wall",
-                "Desc": "The mighty wall defends against the searing sandstorms but has also blocked the spread of wisdom's blessing. Is divine wisdom not meant to shine on all people?",
+                "Name": "Граница под высокими стенами",
+                "Desc": "Крепкая стена защищает от жарких песчаных бурь, но также мешает распространению благословения мудрости. Разве божественная мудрость не предназначена для того, чтобы светить всем людям?",
                 "Image": "UI_Codex_Scenery_XMFangShaBi"
             },
             {
-                "Name": "The Garden of Deep Thought",
-                "Desc": "Countless flowers lie within the garden, each more lovely than the most beautiful crystalfly. This is the paradise of people of goodwill.",
+                "Name": "Сад размышлений",
+                "Desc": "В саду растут бесчисленные цветы, каждый из которых прекраснее самой красивой кристальной бабочки. Это рай, обещанный философам.",
                 "Image": "UI_Codex_Scenery_XMChanNaHuaYuan"
             },
             {
-                "Name": "Memory of Alcazarzaray",
-                "Desc": "A purple garden lies before the palace in the depths of the woods. The flowers dance and the warblers sing — a more fitting scene for a lovely encounter one could not find.",
+                "Name": "Воспоминание об Алькасар-сарае",
+                "Desc": "В глубине леса, перед дворцом, раскинулся лиловый сад. Там танцуют цветы и поют птицы. Идеальное место для прекрасной случайной встречи.",
                 "Image": "UI_Codex_Scenery_XMDaBieShu"
             },
             {
-                "Name": "The Harbor Betwixt the Two Trees",
-                "Desc": "\"Bah! The lectures of the sages are beyond boring. Why don't we get ourselves some fine wine garnished with floral honey and set out on a journey across the seven seas?\"",
+                "Name": "Гавань между двумя деревьями",
+                "Desc": "«Ох! Лекции мудрецов надоели до смерти. Почему бы нам не купить хорошего цветочного вина и не отправиться в путешествие по семи морям?»",
                 "Image": "UI_Codex_Scenery_XMAoMoSiGang"
             },
             {
-                "Name": "The Village by the River",
-                "Desc": "There is nothing to Vimara Village apart from a tranquil life. Come, exhausted traveler, rest here awhile.",
+                "Name": "Деревня у реки",
+                "Desc": "В деревне Вимара жизнь течёт спокойно. Милый путник, отдохни.",
                 "Image": "UI_Codex_Scenery_XMWeiMoZhuang"
             },
             {
-                "Name": "The City Above the Forest",
-                "Desc": "\"The city of wisdom is ours, as is the forest of ignorance. Atop the tree lies the remnants of the kingdom of lost dreams.\"",
+                "Name": "Город над лесом",
+                "Desc": "«Град мудрости теперь у нас под властью, как и тенистые леса. Остатки утерявшей сны страны покоятся на древе драгоценном».",
                 "Image": "UI_Codex_Scenery_XMHuaChengGuo"
             },
             {
-                "Name": "The City Where All Wisdom Resides",
-                "Desc": "The root of all wisdom on earth. Under the luxuriant Divine Tree, the sages of the academy city have accumulated all the knowledge there is to be gathered. Welcome to Sumeru, O Traveler seeking answers.",
+                "Name": "Город, где обитает вся мудрость",
+                "Desc": "Центр всей мудрости на земле. Под роскошным Священным древом мудрецы города-академии накопили все знания, которые только можно собрать. Добро пожаловать в Сумеру, о путешественник, ищущий ответы.",
                 "Image": "UI_Codex_Scenery_XMXuMiChengYuanJing"
             }
         ]
@@ -625,143 +625,143 @@ var _codex = [
         "ID": 5,
         "Codex": [
             {
-                "Name": "The World's Amniotic Fluid",
-                "Desc": "This was once to be, again, the cradle for all life.",
+                "Name": "Плодные воды мира",
+                "Desc": "Когда-то она должна была снова стать колыбелью для всего живого.",
                 "Image": "UI_Codex_Scenery_FDYuanShiTaiHai"
             },
             {
-                "Name": "Tower of Gestalt",
-                "Desc": "This was once many things and many dreams.",
+                "Name": "Башня гештальта",
+                "Desc": "Раньше было много вещей, много мечтаний.",
                 "Image": "UI_Codex_Scenery_FDFengYinTower"
             },
             {
-                "Name": "A Distant Harbor",
-                "Desc": "The main port leading to other nations. They say that there was once a plan to build a fourth aquabus line that would connect Lumidouce Harbor and the Court of Fontaine, but this plan died with the aquabus's most powerful backer.",
+                "Name": "Дальний порт",
+                "Desc": "Главный порт, откуда можно уплыть в другие страны. Говорят, что когда-то существовал план строительства четвёртой линии аквабуса, которая соединила бы порт Люмидус и Кур-де-Фонтейн, но этот план умер вместе с самым влиятельным сторонником аквабуса.",
                 "Image": "UI_Codex_Scenery_FDRouDengGang"
             },
             {
-                "Name": "The Drunkard's Ship",
-                "Desc": "A white ship that once glittered in the sun has now utterly rusted away. There are as many tales to be found here as currency, but outlanders who would step inside are as few as the moon.",
+                "Name": "Корабль пьяницы",
+                "Desc": "Белый корабль, некогда сверкавший на солнце. Теперь полностью проржавел. С ним связано столько же историй, сколько и монет в мире, но чужеземцев, желающих попасть сюда, по пальцам пересчитать.",
                 "Image": "UI_Codex_Scenery_FDJiuDianChuanDian"
             },
             {
-                "Name": "Erinnyes's Watery Weeping Willow",
-                "Desc": "In ancient times, the weeping willow of the lake was an object of reverence. All the water veins converge upon Erinnyes and the weeping willow flourishes or withers when the waters are sweet or bitter. The land of the lake is the same... Shame, then, that omens only arrive on the same moon as calamity.",
+                "Name": "Плакучая ива Эриний",
+                "Desc": "В древности плакучая ива на озере была объектом почитания. Все водные артерии сходятся на острове Эриний, и плакучая ива расцветает или увядает, когда воды становятся сладкими или горькими. Земля озера одна и та же... Жаль, что предзнаменования приходят только в ту же луну, что и беды.",
                 "Image": "UI_Codex_Scenery_FDDaPenQuanShu"
             },
             {
-                "Name": "Scattered References",
-                "Desc": "The aftershocks of that incident could not completely destroy it, and it would continue to exist in a form contrary to its original design. Perhaps this might be considered a form of continuation as well.",
+                "Name": "Разбросанные ориентиры",
+                "Desc": "Последствия того события не могли его полностью разрушить, поэтому он продолжил существование в форме, не соответствующей изначальному плану. Вероятно, и это можно считать продолжением дела.",
                 "Image": "UI_Codex_Scenery_FDShenMiGangTanKe"
             },
             {
-                "Name": "The Copper Keep",
-                "Desc": "\"A fastness of bronze and iron will collapse one day, but a city of law and justice will never fall.\"",
+                "Name": "Медная крепость",
+                "Desc": "«Медь и железо сгинут в веках, но город закона и справедливости не дрогнет».",
                 "Image": "UI_Codex_Scenery_FDDianYuZhangBanGongShi"
             },
             {
-                "Name": "A Sea of Exile",
-                "Desc": "\"No matter what the sin, it shall eventually be lost to the waves like sand.\"",
+                "Name": "Море изгнания",
+                "Desc": "«Каким бы ни был грех, он растворится в волнах, как песчинка в дюнах».",
                 "Image": "UI_Codex_Scenery_FDJianYu"
             },
             {
-                "Name": "The Wreck of Shattered Dreams",
-                "Desc": "When an ideal is destroyed, its most important responsibility is to hold its peace.\nHowever, some seem to believe that this burning energy serves some other purpose...",
+                "Name": "Следы разбившихся надежд",
+                "Desc": "Когда идеал разрушен, важно поддерживать мир.\nНо некоторые верят, будто столь горячая энергия может служить другим целям...",
                 "Image": "UI_Codex_Scenery_FDYiBianDaTing"
             },
             {
-                "Name": "The Remnants of Brilliant Wisdom",
-                "Desc": "When excess intelligence and passion came together, research brought about results in a manner that surpassed everyone's expectations. Now, however, there remains no one to applaud that achievement.",
+                "Name": "Остатки великой мудрости",
+                "Desc": "Когда избыток интеллекта и страсть объединились, исследования принесли результаты, превзошедшие все ожидания. Но теперь некому аплодировать этому достижению.",
                 "Image": "UI_Codex_Scenery_FDKongZhongShuiTi"
             },
             {
-                "Name": "Graveyard of Ships",
-                "Desc": "Following the white ironclad flagship, like tiny shimmering stars scattered through the velvet night, the battleships of the armada sank into the bowels of the trench in their clash with the great beast. The surface and depths are haunted by ghostly legends, but this makes it the perfect place to hide for those who seek secrecy.",
+                "Name": "Кладбище кораблей",
+                "Desc": "Вслед за белым бронированным флагманом, который распространяет слабое свечение, как звезда в ночи, многие корабли погружаются в морские глубины, где приходится сражаться с чудовищами. Поэтому воды здесь и на меньшей глубине по легенде населяют вредные призраки, поэтому здесь идеальное укрытие для тех, кто ищет тайны.",
                 "Image": "UI_Codex_Scenery_FDChuanZhongJiHuiTing"
             },
             {
-                "Name": "\"The Seaside Village\"",
-                "Desc": "Salsa once painted the scenery here.\nA beautiful seaside village whose peace and serenity evoke yearning for such a tranquil life in those who see it.",
+                "Name": "«Деревня у моря»",
+                "Desc": "Сальса рисовала здесь пейзаж.\nЖивописная прибрежная деревня, где хочется спокойной жизни.",
                 "Image": "UI_Codex_Scenery_FDXiaoZhen"
             },
             {
-                "Name": "\"Morning in the Beryl Mountains, Clear Weather\"",
-                "Desc": "Salsa once painted the scenery here.\nA clear morning in the Beryl Mountains, the dew left by the previous night's autumn winds has not yet evaporated...",
+                "Name": "«Ясное утро в горах Берилл»",
+                "Desc": "Сальса рисовала здесь пейзаж.\nЯсное утро в горах Берилл. Роса, оставленная на листьях влажным вечерним бризом, ещё не исчезла...",
                 "Image": "UI_Codex_Scenery_FDJuShenHouShan"
             },
             {
-                "Name": "\"Fontaine Hot Springs\"",
-                "Desc": "Salsa once painted the scenery here.\nThrough the mist steaming upwards from the hot springs, towering Mont Automnequi rises into the clouds, with the Clementine Line piercing through its base.",
+                "Name": "«Горячие источники Фонтейна»",
+                "Desc": "Сальса рисовала здесь пейзаж.\nСквозь туман, исходящий от горячих источников, вы можете увидеть насколько хватает глаз возвышающуюся гору Мон Атонеки и проходящую через неё линию Клементины.",
                 "Image": "UI_Codex_Scenery_FDFeiTengHu"
             },
             {
-                "Name": "\"View From Mont Automnequi\"",
-                "Desc": "Salsa once painted the scenery here.\nFrom Mont Automnequi, one can see the ridge of Elynas. Beneath the peaks and lakes, the homeland of the Melusines is hidden.",
+                "Name": "«Вид с горы Мон Атонеки»",
+                "Desc": "Сальса рисовала здесь пейзаж.\nС горы открывается вид на горный хребет Элинас. Под горами и озёрами лежит родина мелюзин.",
                 "Image": "UI_Codex_Scenery_FDXiaoBaoDao"
             },
             {
-                "Name": "\"Memories of Mont Esus\"",
-                "Desc": "Salsa once painted the scenery here.\nThe gentle breeze winds through the flowery meadows in Mont Esus, setting the creaking arms of the windmill turning lazily. The peaceful and relaxed atmosphere here causes people to naturally find themselves dwelling on their most pleasant memories.",
+                "Name": "«Воспоминания предгорья Эсус»",
+                "Desc": "Сальса рисовала здесь пейзаж.\nМягкий ветерок проносится по цветущим лугам у предгорья Манта и вращает лопасти ветряных мельниц. Спокойная и расслабляющая атмосфера навевает приятные воспоминания.",
                 "Image": "UI_Codex_Scenery_FDLieShuiHouShan"
             },
             {
-                "Name": "Erinnyes' Whirling Dance",
-                "Desc": "In this ancient ballad, the knight searching for water most pure encountered the spirit here, and they embarked upon a journey of redemption together. A thousand years pass like a dewy dawn, and whether laughter or tears, joy or sorrow, it all turns into a whirling illusory dance, disappearing into a sea of applause.",
+                "Name": "Танец Эриний",
+                "Desc": "Как поётся в древней народной песне, именно здесь рыцарь, ищущий чистую воду, встретил фею. Вместе они отправились в путь во искупление грехов. Тысячи лет пролетели в круговороте пейзажей. Смех или слёзы, счастье или горе - всё превратилось будто в танец грёз, рассеивающихся под шум аплодисментов.",
                 "Image": "UI_Codex_Scenery_FDGeJuYuan"
             },
             {
-                "Name": "\"Narzissenkreuz Kingdom\"",
-                "Desc": "\"A long, long time in the future, in a place far, far away... There was the beautiful Narzissenkreuz Kingdom...\"",
+                "Name": "«Королевство Нарциссенкрейц»",
+                "Desc": "«Давным-давно, далеко-далеко существовало прекрасное королевство Нарциссенкрейц...»",
                 "Image": "UI_Codex_Scenery_FDLieShui"
             },
             {
-                "Name": "Seaworn Cavern",
-                "Desc": "A jawbone as massive as a mountain, that could seemingly drink in and spew forth the tides. It is difficult to imagine such a massive creature ever walking this world.",
+                "Name": "Пещера морского пожирателя",
+                "Desc": "Челюсти огромные, как горы, почти способны поглотить прилив. Невозможно представить, что такой гигант когда-либо гулял по земле.",
                 "Image": "UI_Codex_Scenery_FDLongTou"
             },
             {
-                "Name": "Land of Corroded Shadows and Tainted Currents",
-                "Desc": "A tainted shadow hidden beneath the clear waters of Fontaine, a place of rest for outcasts.\n\"Even the ashes and the dregs cast off by the sifting of the law all return to the same river.\"",
+                "Name": "Земля порочных теней и мутных течений",
+                "Desc": "В мрачных тенях под ярким светом Фонтейна также обитают Изгнанники.\n«Даже остатки пепла, просеянного Законом, в конце концов, вновь соединятся в одну реку».",
                 "Image": "UI_Codex_Scenery_FDXiaShuiDao"
             },
             {
-                "Name": "Court of Dew and Springs",
-                "Desc": "\"This city alone stands above all waters.\"",
+                "Name": "Двор рос и родников",
+                "Desc": "«Над всеми водами лишь этот город».",
                 "Image": "UI_Codex_Scenery_FDFengDanCheng"
             },
             {
-                "Name": "Sunken Glory",
-                "Desc": "The once-prosperous avenues and alleys have now vanished into the depths along with all that was worthy of praise. Now, only schools of fish parade through the promenades, along with the lonely sound of the tides.",
+                "Name": "Подводная слава",
+                "Desc": "Некогда процветающие улицы погрузились в морские глубины вместе со всем, что было достойно восхищения. Теперь под сводами галерей гуляют только рыбы и одинокий шум прилива.",
                 "Image": "UI_Codex_Scenery_FDXinShouGuanKa"
             },
             {
-                "Name": "Where Dark Tides Echo",
-                "Desc": "Where the Spina di Rosula was born. Just as a tiny chick that will one day become a soaring eagle is hatched from an egg, so are grand and radiant ambitions hatched in a dark and cramped place.\nThe people of Poisson are like the residents of the Fleuve Cendre, and from the history of these places they understand that some things are worth being, and indeed must be, fought for and bought by blood.",
+                "Name": "Там, где раскатывается эхо тёмных волн",
+                "Desc": "Место появления Спина-ди-Росула. Подобно птенцу, который однажды станет орлом, вырвавшимся из скорлупы, великие и яркие амбиции зародились в укромных тенистых местах. \nУроженцев Пуассона и Флёв Сандр история этих мест научила тому, что есть вещи, за которые стоит и нужно бороться, иной раз проливая кровь.",
                 "Image": "UI_Codex_Scenery_FDYuSengZhen"
             },
             {
-                "Name": "Ancient Conch Melody of Yore",
-                "Desc": "\"Of the once-great empire of Remuria, today there remains but a lonely melody. Once heard by multitudes, but long lost to mortal ears...\"",
+                "Name": "Мелодия древней раковины",
+                "Desc": "«Ремурия некогда была великой, но теперь это лишь пустой звук. Мелодия, которая когда-то вела народы, больше никому не известна...»",
                 "Image": "UI_Codex_Scenery_FDHaiLuoWu"
             },
             {
-                "Name": "Foamy Home",
-                "Desc": "Beneath the verdant Beryl Mountains is the welcoming home of the Melusines. Little homes of fantastic and odd design are omnipresent, leaving a deep impression. Though, just who taught them these unique architectural styles?",
+                "Name": "Родина морской пены",
+                "Desc": "Под пышной зеленью гор располагается уютная родина мелюзин. Впечатляющие маленькие дома странной формы стоят повсюду. Но кто научил мелюзин этому уникальному способу строительства?",
                 "Image": "UI_Codex_Scenery_FDRenYuCun"
             },
             {
-                "Name": "\"Oratrice Mecanique d'Analyse Cardinale\"",
-                "Desc": "\"Before there was law, sins already ran rampant above the waters. But without law, how can sins be forgiven in the name of sin?\"",
+                "Name": "«Оратрис Меканик д'Анализ Кардиналь»",
+                "Desc": "«До того как появился закон, грех творился над всеми водами. Но если нет закона, то как простить грех во имя греха?»",
                 "Image": "UI_Codex_Scenery_FDGeJuYuanShiNei"
             },
             {
-                "Name": "Scenery Within Elynas' Deepest Depths",
-                "Desc": "\"Nice to meet you!\"",
+                "Name": "Пейзаж в сокровенных глубинах Элинаса",
+                "Desc": "«Приветствую тебя!»",
                 "Image": "UI_Codex_Scenery_FDXinZangNeiBu"
             },
             {
-                "Name": "Scenery Within Elynas' Depths",
-                "Desc": "The heart that was nearly awakened has now gone silent once more.",
+                "Name": "Пейзаж в глубинах Элинаса",
+                "Desc": "Почти пробудившееся сердце снова затихло.",
                 "Image": "UI_Codex_Scenery_FDXinZang"
             }
         ]

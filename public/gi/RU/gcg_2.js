@@ -3,8 +3,8 @@
 var _skills = {
     "11011": {
         "_id": 11011,
-        "Name": "Liutian Archery",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Небесная стрела",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -17,8 +17,8 @@ var _skills = {
     },
     "11012": {
         "_id": 11012,
-        "Name": "Trail of the Qilin",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Ice Lotus</color>.",
+        "Name": "След цилиня",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>1</b> ед. и создаёт <color style='color:#FFFFFFFF'>Ледяной лотос</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -32,8 +32,8 @@ var _skills = {
     },
     "11013": {
         "_id": 11013,
-        "Name": "Frostflake Arrow",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, deals 2 <color style='color:#FFFFFFFF'>Piercing DMG</color> to all opposing characters on standby.",
+        "Name": "Ледяная стрела-цветок",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>2</b> ед., наносит <color style='color:#FFFFFFFF'>Проникающий урон</color>, 2 ед. всем неактивным персонажам противника.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -45,8 +45,8 @@ var _skills = {
     },
     "11014": {
         "_id": 11014,
-        "Name": "Celestial Shower",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, deals 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to all opposing characters on standby, summons 1 <color style='color:#FFFFFFFF'>Sacred Cryo Pearl</color>.",
+        "Name": "Небесный дождь",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>2</b> ед., наносит <color style='color:#FFFFFFFF'>Проникающий урон</color>, 1 ед. всем неактивным персонажам противника, призывает помощника: <color style='color:#FFFFFFFF'>Священная Крио жемчужина</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -61,8 +61,8 @@ var _skills = {
     },
     "11021": {
         "_id": 11021,
-        "Name": "Kätzlein Style",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Стиль котёнка",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -75,8 +75,8 @@ var _skills = {
     },
     "11022": {
         "_id": 11022,
-        "Name": "Icy Paws",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Cat-Claw Shield</color>.",
+        "Name": "Морозные коготочки",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>2</b> ед. и создаёт <color style='color:#FFFFFFFF'>Щит кошачьих коготочков</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -90,8 +90,8 @@ var _skills = {
     },
     "11023": {
         "_id": 11023,
-        "Name": "Signature Mix",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, heals this character for 2 HP, summons 1 <color style='color:#FFFFFFFF'>Drunken Mist</color>.",
+        "Name": "Авторский коктейль",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>1</b> ед., исцеляет 2 HP персонажа, призывает помощника: <color style='color:#FFFFFFFF'>Пьянящий туман</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -106,8 +106,8 @@ var _skills = {
     },
     "11031": {
         "_id": 11031,
-        "Name": "Ceremonial Bladework",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Ритуальное фехтование",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -120,8 +120,8 @@ var _skills = {
     },
     "11032": {
         "_id": 11032,
-        "Name": "Frostgnaw",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Выпад холода",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -133,8 +133,8 @@ var _skills = {
     },
     "11033": {
         "_id": 11033,
-        "Name": "Glacial Waltz",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Icicle</color>.",
+        "Name": "Ледниковый вальс",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>1</b> ед. и создаёт <color style='color:#FFFFFFFF'>Льдинка</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -149,8 +149,8 @@ var _skills = {
     },
     "11041": {
         "_id": 11041,
-        "Name": "Demonbane",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Искоренение зла",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -163,8 +163,8 @@ var _skills = {
     },
     "11042": {
         "_id": 11042,
-        "Name": "Chonghua's Layered Frost",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Chonghua Frost Field</color>.",
+        "Name": "Холод Чунхуа",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>3</b> ед. и создаёт <color style='color:#FFFFFFFF'>Область холода Чунхуа</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -178,8 +178,8 @@ var _skills = {
     },
     "11043": {
         "_id": 11043,
-        "Name": "Cloud-Parting Star",
-        "Desc": "Deals <b>7</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Падение с небес",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>7</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -192,8 +192,8 @@ var _skills = {
     },
     "11051": {
         "_id": 11051,
-        "Name": "Kamisato Art: Kabuki",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Искусство Камисато: Нанамэ",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -206,8 +206,8 @@ var _skills = {
     },
     "11052": {
         "_id": 11052,
-        "Name": "Kamisato Art: Hyouka",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Искусство Камисато: Хёка",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -219,8 +219,8 @@ var _skills = {
     },
     "11053": {
         "_id": 11053,
-        "Name": "Kamisato Art: Soumetsu",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Frostflake Seki no To</color>.",
+        "Name": "Искусство Камисато: Сомэцу",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>4</b> ед. и призывает помощника: <color style='color:#FFFFFFFF'>Морозный сэки но то</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -235,8 +235,8 @@ var _skills = {
     },
     "11054": {
         "_id": 11054,
-        "Name": "Kamisato Art: Senho",
-        "Desc": "(Passive) When switched to be the active character, this character gains <color style='color:#FFFFFFFF'>Cryo Elemental Infusion</color>.",
+        "Name": "Искусство Камисато: Сэнхо",
+        "Desc": "(Пассивный навык) Когда этот персонаж становится активным, он получает <color style='color:#FFFFFFFF'>Элементальная Крио инфузия</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -248,8 +248,8 @@ var _skills = {
     },
     "11061": {
         "_id": 11061,
-        "Name": "Favonius Bladework - Edel",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Фехтовальный стиль Фавония: Знать",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -262,8 +262,8 @@ var _skills = {
     },
     "11062": {
         "_id": 11062,
-        "Name": "Icetide Vortex",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>. If this character has not yet gained <color style='color:#FFFFFFFF'>Grimheart</color>, they will gain <color style='color:#FFFFFFFF'>Grimheart</color>.",
+        "Name": "Ледяной прибой",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>2</b> ед. Если у текущего персонажа нет эффекта <color style='color:#FFFFFFFF'>Холодное сердце</color>, то даёт эффект <color style='color:#FFFFFFFF'>Холодное сердце</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -277,8 +277,8 @@ var _skills = {
     },
     "11063": {
         "_id": 11063,
-        "Name": "Glacial Illumination",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Lightfall Sword</color>.",
+        "Name": "Сумеречный меч",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>2</b> ед. и призывает помощника: <color style='color:#FFFFFFFF'>Меч света</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -293,8 +293,8 @@ var _skills = {
     },
     "11071": {
         "_id": 11071,
-        "Name": "Dawnstar Piercer",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Пронзая звёзды",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -307,8 +307,8 @@ var _skills = {
     },
     "11072": {
         "_id": 11072,
-        "Name": "Spring Spirit Summoning",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Icy Quill</color>.",
+        "Name": "Призыв духа",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>2</b> ед. и создаёт <color style='color:#FFFFFFFF'>Ледяное перо</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -322,8 +322,8 @@ var _skills = {
     },
     "11073": {
         "_id": 11073,
-        "Name": "Divine Maiden's Deliverance",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Talisman Spirit</color>.",
+        "Name": "Таинство освобождения",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>1</b> ед. и призывает помощника: <color style='color:#FFFFFFFF'>Дух талисмана</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -338,8 +338,8 @@ var _skills = {
     },
     "11081": {
         "_id": 11081,
-        "Name": "Ancient Sword Art",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Облачный меч",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -352,8 +352,8 @@ var _skills = {
     },
     "11082": {
         "_id": 11082,
-        "Name": "Adeptus Art: Herald of Frost",
-        "Desc": "Summons <color style='color:#FFFFFFFF'>Herald of Frost</color>.",
+        "Name": "Искусство Адепта: Вестник стужи",
+        "Desc": "Призывает помощника: <color style='color:#FFFFFFFF'>Вестник стужи</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -367,8 +367,8 @@ var _skills = {
     },
     "11083": {
         "_id": 11083,
-        "Name": "Adeptus Art: Preserver of Fortune",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Fortune-Preserving Talisman</color>.",
+        "Name": "Искусство Адепта: Хранитель Фортуны",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>3</b> ед. и создаёт <color style='color:#FFFFFFFF'>Талисман Фортуны</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -383,8 +383,8 @@ var _skills = {
     },
     "11091": {
         "_id": 11091,
-        "Name": "Sword of the Radiant Path",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Меч сияющей тропы",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -397,8 +397,8 @@ var _skills = {
     },
     "11092": {
         "_id": 11092,
-        "Name": "Nights of Formal Focus",
-        "Desc": "Creates 1 <color style='color:#FFFFFFFF'>Curtain of Slumber Shield</color> and <color style='color:#FFFFFFFF'>Shooting Star</color>.",
+        "Name": "Ночи почтенного сосредоточения",
+        "Desc": "Вы получаете <color style='color:#FFFFFFFF'>Полог сновидений</color> и <color style='color:#FFFFFFFF'>Метеор</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -413,8 +413,8 @@ var _skills = {
     },
     "11093": {
         "_id": 11093,
-        "Name": "Dream of the Star-Stream Shaker",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Celestial Dreamsphere</color>.",
+        "Name": "Сон колыбели звёзд",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>3</b> ед. Призывает помощника: <color style='color:#FFFFFFFF'>Небесная сфера снов</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -429,8 +429,8 @@ var _skills = {
     },
     "11101": {
         "_id": 11101,
-        "Name": "Cool-Color Capture",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Съёмка в холодных тонах",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -443,8 +443,8 @@ var _skills = {
     },
     "11102": {
         "_id": 11102,
-        "Name": "Framing: Freezing Point Composition",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>. Attach <color style='color:#FFFFFFFF'>Snappy Silhouette</color> to the target.",
+        "Name": "Съёмка: Композиция точки замерзания",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>1</b> ед. Цель получает <color style='color:#FFFFFFFF'>Скоростной силуэт</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -458,8 +458,8 @@ var _skills = {
     },
     "11103": {
         "_id": 11103,
-        "Name": "Still Photo: Comprehensive Confirmation",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, heals all your characters for 1 HP, summons 1 <color style='color:#FFFFFFFF'>Newsflash Field</color>.",
+        "Name": "Стоп-кадр: Всестороннее подтверждение",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>1</b> ед., восстанавливает 1 HP всем вашим персонажам, призывает помощника: <color style='color:#FFFFFFFF'>Место происшествия</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -474,8 +474,8 @@ var _skills = {
     },
     "12011": {
         "_id": 12011,
-        "Name": "Whisper of Water",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Шёпот воды",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -488,8 +488,8 @@ var _skills = {
     },
     "12012": {
         "_id": 12012,
-        "Name": "Let the Show Begin♪",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Melody Loop</color>.",
+        "Name": "Да начнётся шоу♪",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>1</b> ед. и призывает помощника: <color style='color:#FFFFFFFF'>Кольцо мелодии</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -503,8 +503,8 @@ var _skills = {
     },
     "12013": {
         "_id": 12013,
-        "Name": "Shining Miracle♪",
-        "Desc": "Heals all of your characters for 4 HP.",
+        "Name": "Чудесное сияние♪",
+        "Desc": "Восстанавливает 4 HP всем вашим персонажам.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -517,8 +517,8 @@ var _skills = {
     },
     "12021": {
         "_id": 12021,
-        "Name": "Guhua Style",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Стиль Гухуа",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -531,8 +531,8 @@ var _skills = {
     },
     "12022": {
         "_id": 12022,
-        "Name": "Fatal Rainscreen",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, grants this character <color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color>, creates 1 <color style='color:#FFFFFFFF'>Rain Sword</color>.",
+        "Name": "Завеса дождя",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>2</b> ед., даёт персонажу <color style='color:#80C0FFFF'>Эффект [b]2102[a]Гидро</color>, создаёт <color style='color:#FFFFFFFF'>Меч дождя</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -546,8 +546,8 @@ var _skills = {
     },
     "12023": {
         "_id": 12023,
-        "Name": "Raincutter",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, grants this character <color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color>, creates 1 <color style='color:#FFFFFFFF'>Rainbow Bladework</color>.",
+        "Name": "Радужная стойка",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>2</b> ед., даёт персонажу <color style='color:#80C0FFFF'>Эффект [b]2102[a]Гидро</color>, создаёт <color style='color:#FFFFFFFF'>Радужная стойка</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -562,8 +562,8 @@ var _skills = {
     },
     "12031": {
         "_id": 12031,
-        "Name": "Ripple of Fate",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Круги на воде",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -576,8 +576,8 @@ var _skills = {
     },
     "12032": {
         "_id": 12032,
-        "Name": "Mirror Reflection of Doom",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Reflection</color>.",
+        "Name": "Отражение фатума",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>1</b> ед., призывает помощника: <color style='color:#FFFFFFFF'>Фантом</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -591,8 +591,8 @@ var _skills = {
     },
     "12033": {
         "_id": 12033,
-        "Name": "Stellaris Phantasm",
-        "Desc": "Deals <b>4</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Illusory Bubble</color>.",
+        "Name": "Звёздный фантазм",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>4</b> ед., создаёт <color style='color:#FFFFFFFF'>Теневой пузырь</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -607,8 +607,8 @@ var _skills = {
     },
     "12034": {
         "_id": 12034,
-        "Name": "Illusory Torrent",
-        "Desc": "(Passive) <color style='color:#FFFFFFFF'>When you perform \"Switch Character\" while Mona is your active character:</color> This switch is considered a <color style='color:#FFFFFFFF'>Fast Action</color> instead of a <color style='color:#FFFFFFFF'>Combat Action</color>. (Once per Round)",
+        "Name": "Иллюзорный поток",
+        "Desc": "(Пассивный навык) <color style='color:#FFFFFFFF'>Когда этот персонаж является активным, ваша смена персонажа:</color> считается как <color style='color:#FFFFFFFF'>Быстрое действие</color>, а не как <color style='color:#FFFFFFFF'>Боевое действие</color>. Только 1 раз за раунд.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -618,8 +618,8 @@ var _skills = {
     },
     "12041": {
         "_id": 12041,
-        "Name": "Cutting Torrent",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Дождь расставаний",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -632,8 +632,8 @@ var _skills = {
     },
     "12042": {
         "_id": 12042,
-        "Name": "Foul Legacy: Raging Tide",
-        "Desc": "Switches to <color style='color:#FFFFFFFF'>Melee Stance</color> and deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, and attach <color style='color:#FFFFFFFF'>Riptide</color> to the target character.",
+        "Name": "Форма духа: Бушующие волны",
+        "Desc": "Активируется <color style='color:#FFFFFFFF'>Ближняя стойка</color>, затем наносится <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>2</b> ед., а цель получает <color style='color:#FFFFFFFF'>Отлив</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -648,8 +648,8 @@ var _skills = {
     },
     "12043": {
         "_id": 12043,
-        "Name": "Havoc: Obliteration",
-        "Desc": "Performs different attacks based on the current stance that <color style='color:#FFFFFFFF'>Tartaglia</color> is in.<br><color style='color:#FFFFFFFF'>Ranged Stance - Flash of Havoc: </color>Deal <b>5</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, reclaim 2 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>, and apply <color style='color:#FFFFFFFF'>Riptide</color> to the target character.<br><color style='color:#FFFFFFFF'>Melee Stance - Light of Obliteration</color>: Deal <b>7</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Хаос: Опустошение",
+        "Desc": "Проводит разные атаки в зависимости от статуса, в котором находится <color style='color:#FFFFFFFF'>Тарталья</color>.<br><color style='color:#FFFFFFFF'>Дальняя стойка - Вспышка хаоса:</color> наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>5</b> ед., возвращается <color style='color:#FFFFFFFF'>[b]1110[a]Энергия</color>, 2 ед. Целевой персонаж получает <color style='color:#FFFFFFFF'>Отлив</color>.<br><color style='color:#FFFFFFFF'>Ближняя стойка - Свет погибели:</color> наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>7</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -664,8 +664,8 @@ var _skills = {
     },
     "12044": {
         "_id": 12044,
-        "Name": "Tide Withholder",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Ranged Stance</color>. Once the <color style='color:#FFFFFFFF'>Melee Stance</color> attached to the character ends, reapplies <color style='color:#FFFFFFFF'>Ranged Stance</color>.",
+        "Name": "Останавливающий волну",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Дальняя стойка</color>.<br>Когда <color style='color:#FFFFFFFF'>Ближняя стойка</color> персонажа прекращает эффект, персонажу снова добавляется <color style='color:#FFFFFFFF'>Дальняя стойка</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -678,7 +678,7 @@ var _skills = {
     },
     "12045": {
         "_id": 12045,
-        "Name": "Ranged Stance",
+        "Name": "Дальняя стойка",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -689,7 +689,7 @@ var _skills = {
     },
     "12046": {
         "_id": 12046,
-        "Name": "Tide Withholder",
+        "Name": "Останавливающий волну",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -700,8 +700,8 @@ var _skills = {
     },
     "12051": {
         "_id": 12051,
-        "Name": "The Shape of Water",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Форма воды",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -714,8 +714,8 @@ var _skills = {
     },
     "12052": {
         "_id": 12052,
-        "Name": "Kurage's Oath",
-        "Desc": "This character gains <color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color> and summons 1 <color style='color:#FFFFFFFF'>Bake-Kurage</color>.",
+        "Name": "Клятва курагэ",
+        "Desc": "Текущий персонаж получает <color style='color:#80C0FFFF'>Эффект [b]2102[a]Гидро</color>, призывает <color style='color:#FFFFFFFF'>Бакэ-курагэ</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -729,8 +729,8 @@ var _skills = {
     },
     "12053": {
         "_id": 12053,
-        "Name": "Nereid's Ascension",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. Heals all allied characters for 1 point. This character gains <color style='color:#FFFFFFFF'>Ceremonial Garment</color>.",
+        "Name": "Вознесение нереиды",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>2</b> ед. Восстанавливает 1 HP всем вашим персонажам. Текущий персонаж получает <color style='color:#FFFFFFFF'>Церемониальное одеяние</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -745,8 +745,8 @@ var _skills = {
     },
     "12061": {
         "_id": 12061,
-        "Name": "Kamisato Art: Marobashi",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Искусство Камисато: Маробаси",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -759,8 +759,8 @@ var _skills = {
     },
     "12062": {
         "_id": 12062,
-        "Name": "Kamisato Art: Kyouka",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Takimeguri Kanka</color>.",
+        "Name": "Искусство Камисато: Кёка",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>2</b> ед. Персонажу достаётся <color style='color:#FFFFFFFF'>Такимэгури канка</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -774,8 +774,8 @@ var _skills = {
     },
     "12063": {
         "_id": 12063,
-        "Name": "Kamisato Art: Suiyuu",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Garden of Purity</color>.",
+        "Name": "Искусство Камисато: Суйю",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>1</b> ед. и призывает помощника: <color style='color:#FFFFFFFF'>Безмятежный сад</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -790,8 +790,8 @@ var _skills = {
     },
     "12071": {
         "_id": 12071,
-        "Name": "Gleaming Spear - Guardian Stance",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Сверкающее копьё: Оборона",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -804,8 +804,8 @@ var _skills = {
     },
     "12072": {
         "_id": 12072,
-        "Name": "Sacred Rite: Heron's Sanctum",
-        "Desc": "Attaches a <color style='color:#FFFFFFFF'>Heron Shield</color> to this character and <color style='color:#FFFFFFFF'>Prepare Skill</color> <color style='color:#FFFFFFFF'>Heron Strike</color>.",
+        "Name": "Священный обряд: Обитель цапли",
+        "Desc": "У персонажа добавляются <color style='color:#FFFFFFFF'>Защита цапли</color> и <color style='color:#FFFFFFFF'>Подготовка навыка</color>: <color style='color:#FFFFFFFF'>Удар цапли</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -819,8 +819,8 @@ var _skills = {
     },
     "12073": {
         "_id": 12073,
-        "Name": "Sacred Rite: Wagtail's Tide",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b> and creates 1 <color style='color:#FFFFFFFF'>Prayer of the Crimson Crown</color>.",
+        "Name": "Священный обряд: Прилив трясогузки",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>2</b> ед., создаётся <color style='color:#FFFFFFFF'>Молитва алой короны</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -835,8 +835,8 @@ var _skills = {
     },
     "12074": {
         "_id": 12074,
-        "Name": "Heron Strike",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>3</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Удар цапли",
+        "Desc": "(На подготовку нужен 1 ход)<br>Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -846,8 +846,8 @@ var _skills = {
     },
     "12081": {
         "_id": 12081,
-        "Name": "Dance of Samser",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Танец шамшира",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -860,8 +860,8 @@ var _skills = {
     },
     "12082": {
         "_id": 12082,
-        "Name": "Dance of Haftkarsvar",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, if the party includes <color style='color:#80C0FFFF'>[b]2102[a]Hydro Characters</color> and <color style='color:#7EC236FF'>[b]2107[a]Dendro Characters</color> and characters from no other Elements, create 1 <color style='color:#FFFFFFFF'>Golden Chalice's Bounty</color>.",
+        "Name": "Танец Хафткаршвар",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>3</b> ед. Даёт 1 <color style='color:#FFFFFFFF'>Изобилие золотого кубка</color>, если в отряде есть только <color style='color:#80C0FFFF'>персонажи [b]2102[a]Гидро</color> и <color style='color:#7EC236FF'>персонажи [b]2107[a]Дендро</color> (персонажей других элементов в отряде быть не должно).",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -875,8 +875,8 @@ var _skills = {
     },
     "12083": {
         "_id": 12083,
-        "Name": "Dance of Abzendegi: Distant Dreams, Listening Spring",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Lingering Aeon</color>.",
+        "Name": "Танец Абзендеги: Далёкие мечты, внемлющий ручей",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>2</b> ед. Цель получает <color style='color:#FFFFFFFF'>Течение вечности</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -891,8 +891,8 @@ var _skills = {
     },
     "12091": {
         "_id": 12091,
-        "Name": "Stealthy Bowshot",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Незаметная стрела",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -905,8 +905,8 @@ var _skills = {
     },
     "12092": {
         "_id": 12092,
-        "Name": "Lingering Lifeline",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. This character gains 2 <color style='color:#FFFFFFFF'>Breakthrough</color> stacks.",
+        "Name": "Переплетённая нить жизни",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>3</b> ед. Персонаж получает <color style='color:#FFFFFFFF'>Прорыв</color> (2 уровня).",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -920,8 +920,8 @@ var _skills = {
     },
     "12093": {
         "_id": 12093,
-        "Name": "Depth-Clarion Dice",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Exquisite Throw</color>.",
+        "Name": "Изысканные игральные кости",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>1</b> ед., создаёт <color style='color:#FFFFFFFF'>Изысканный бросок</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -936,8 +936,8 @@ var _skills = {
     },
     "12094": {
         "_id": 12094,
-        "Name": "Breakthrough",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Breakthrough</color>.",
+        "Name": "Прорыв",
+        "Desc": "(Пассивный) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Прорыв</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -949,8 +949,8 @@ var _skills = {
     },
     "12101": {
         "_id": 12101,
-        "Name": "As Water Seeks Equilibrium",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Подобно водной глади",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -963,8 +963,8 @@ var _skills = {
     },
     "12102": {
         "_id": 12102,
-        "Name": "O Tears, I Shall Repay",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Sourcewater Droplet</color>.",
+        "Name": "О слёзы, я воздам",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>2</b> ед., вы получаете <color style='color:#FFFFFFFF'>Капля источника</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -978,8 +978,8 @@ var _skills = {
     },
     "12103": {
         "_id": 12103,
-        "Name": "O Tides, I Have Returned",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, deals 1 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby, then creates a <color style='color:#FFFFFFFF'>Sourcewater Droplet</color> with 2 Usages.",
+        "Name": "О волны, я возвратился",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>2</b> ед., наносит <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Проникающий урон</color>, 1 ед.</color> всем неактивным персонажам противника, затем вы получаете <color style='color:#FFFFFFFF'>Капля источника</color> (2 применения).",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -994,8 +994,8 @@ var _skills = {
     },
     "12104": {
         "_id": 12104,
-        "Name": "Equitable Judgment",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. If character has at least 6 HP, then they deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to themselves and deal +1 DMG.",
+        "Name": "Взвешенный вердикт",
+        "Desc": "На подготовку требуется 1 раунд.<br>Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>2</b> ед. Если HP не менее 6, то <color style='color:#FFFFFFFF'>Проникающий урон</color>, который получает персонаж, увеличивается на 1 ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1005,7 +1005,7 @@ var _skills = {
     },
     "12105": {
         "_id": 12105,
-        "Name": "Sourcewater Droplet",
+        "Name": "Капля источника",
         "Desc": "",
         "Tag": [],
         "Cost": {},
@@ -1014,8 +1014,8 @@ var _skills = {
     },
     "13011": {
         "_id": 13011,
-        "Name": "Tempered Sword",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Закалённый меч",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1028,8 +1028,8 @@ var _skills = {
     },
     "13012": {
         "_id": 13012,
-        "Name": "Searing Onslaught",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. For the third use of this Skill each Round, deals +2 DMG.",
+        "Name": "Огненный натиск",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>3</b> ед. При третьем использовании этого навыка в каждом раунде наносит дополнительно 2 ед. урона.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1041,8 +1041,8 @@ var _skills = {
     },
     "13013": {
         "_id": 13013,
-        "Name": "Dawn",
-        "Desc": "Deals <b>8</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Pyro Infusion</color>.",
+        "Name": "Рассвет",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>8</b> ед. У персонажа возникает <color style='color:#FFFFFFFF'>Пиро инфузия</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1057,8 +1057,8 @@ var _skills = {
     },
     "13021": {
         "_id": 13021,
-        "Name": "Dough-Fu",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Кунг-Тесто",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1071,8 +1071,8 @@ var _skills = {
     },
     "13022": {
         "_id": 13022,
-        "Name": "Guoba Attack",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Guoba</color>.",
+        "Name": "Атака Гобы",
+        "Desc": "Призывает 1 помощника: <color style='color:#FFFFFFFF'>Гоба</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1086,8 +1086,8 @@ var _skills = {
     },
     "13023": {
         "_id": 13023,
-        "Name": "Pyronado",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Pyronado</color>.",
+        "Name": "Огневихрь",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>3</b> ед. и создаёт <color style='color:#FFFFFFFF'>Огневихрь</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1102,8 +1102,8 @@ var _skills = {
     },
     "13031": {
         "_id": 13031,
-        "Name": "Strike of Fortune",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Счастливый меч",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1116,8 +1116,8 @@ var _skills = {
     },
     "13032": {
         "_id": 13032,
-        "Name": "Passion Overload",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Чрезмерные стремления",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1129,8 +1129,8 @@ var _skills = {
     },
     "13033": {
         "_id": 13033,
-        "Name": "Fantastic Voyage",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Inspiration Field</color>.",
+        "Name": "Волнительное приключение",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>2</b> ед. и создаёт <color style='color:#FFFFFFFF'>Круг вдохновения</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1145,8 +1145,8 @@ var _skills = {
     },
     "13041": {
         "_id": 13041,
-        "Name": "Sharpshooter",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Первоклассный стрелок",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1159,8 +1159,8 @@ var _skills = {
     },
     "13042": {
         "_id": 13042,
-        "Name": "Explosive Puppet",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Baron Bunny</color>.",
+        "Name": "Барон Зайчик",
+        "Desc": "Призывает 1 помощника: <color style='color:#FFFFFFFF'>Барон Зайчик</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1174,8 +1174,8 @@ var _skills = {
     },
     "13043": {
         "_id": 13043,
-        "Name": "Fiery Rain",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, deals 2 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby.",
+        "Name": "Огненный дождь",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>2</b> ед., наносит <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Проникающий урон</color>, 2 ед.</color> всем неактивным персонажам противника.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1188,8 +1188,8 @@ var _skills = {
     },
     "13051": {
         "_id": 13051,
-        "Name": "Firework Flare-Up",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Вспышка фейерверка",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1202,8 +1202,8 @@ var _skills = {
     },
     "13052": {
         "_id": 13052,
-        "Name": "Niwabi Fire-Dance",
-        "Desc": "This character gains <color style='color:#FFFFFFFF'>Niwabi Enshou</color>. (This Skill does not grant [b]1110[a]Energy)",
+        "Name": "Огненный танец Ниваби",
+        "Desc": "Персонаж получает <color style='color:#FFFFFFFF'>Ниваби энсё</color>. Этот навык не создаёт [b]1110[a] энергию.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1217,8 +1217,8 @@ var _skills = {
     },
     "13053": {
         "_id": 13053,
-        "Name": "Ryuukin Saxifrage",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Aurous Blaze</color>.",
+        "Name": "Камнеломка Рюкин",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>3</b> ед. и создаёт <color style='color:#FFFFFFFF'>Золотое сияние</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1233,8 +1233,8 @@ var _skills = {
     },
     "13061": {
         "_id": 13061,
-        "Name": "Kaboom!",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Бабах!",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1247,8 +1247,8 @@ var _skills = {
     },
     "13062": {
         "_id": 13062,
-        "Name": "Jumpy Dumpty",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Explosive Spark</color>.",
+        "Name": "Прыг-скок бомба",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>3</b> ед. Персонажу достаётся <color style='color:#FFFFFFFF'>Взрывная искра</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1262,8 +1262,8 @@ var _skills = {
     },
     "13063": {
         "_id": 13063,
-        "Name": "Sparks 'n' Splash",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Sparks 'n' Splash</color> at the opponent's play area.",
+        "Name": "Грохот и искры",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>3</b> ед. Создаёт <color style='color:#FFFFFFFF'>Грохот и искры</color> в области противника.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1278,8 +1278,8 @@ var _skills = {
     },
     "13071": {
         "_id": 13071,
-        "Name": "Secret Spear of Wangsheng",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Скрытое копьё «Ваншэн»",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1292,8 +1292,8 @@ var _skills = {
     },
     "13072": {
         "_id": 13072,
-        "Name": "Guide to Afterlife",
-        "Desc": "This character gains <color style='color:#FFFFFFFF'>Paramita Papilio</color>.",
+        "Name": "Путеводитель по загробной жизни",
+        "Desc": "Персонаж получает <color style='color:#FFFFFFFF'>Танец бабочки</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1307,8 +1307,8 @@ var _skills = {
     },
     "13073": {
         "_id": 13073,
-        "Name": "Spirit Soother",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, heals herself for 2 HP. If this character's HP is no more than 6, DMG dealt and Healing are increased by 1.",
+        "Name": "Упокоение духов",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>4</b> ед. Восстанавливает себе 2 HP. Если HP не более 6, то добавляет 1 ед. к наносимому урону и лечению.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1321,8 +1321,8 @@ var _skills = {
     },
     "13081": {
         "_id": 13081,
-        "Name": "Seal of Approval",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Печать одобрения",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1335,8 +1335,8 @@ var _skills = {
     },
     "13082": {
         "_id": 13082,
-        "Name": "Signed Edict",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b> and attaches <color style='color:#FFFFFFFF'>Scarlet Seal</color> to this character.",
+        "Name": "Подписанный указ",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>3</b> ед. У персонажа возникает <color style='color:#FFFFFFFF'>Багровая печать</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1350,8 +1350,8 @@ var _skills = {
     },
     "13083": {
         "_id": 13083,
-        "Name": "Done Deal",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, attaches <color style='color:#FFFFFFFF'>Scarlet Seal</color> and <color style='color:#FFFFFFFF'>Brilliance</color> to this character.",
+        "Name": "По рукам",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>3</b> ед. У персонажа возникают <color style='color:#FFFFFFFF'>Багровая печать</color> и <color style='color:#FFFFFFFF'>Блеск</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1367,8 +1367,8 @@ var _skills = {
     },
     "13091": {
         "_id": 13091,
-        "Name": "Sandstorm Assault",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Нападение песчаной бури",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1381,8 +1381,8 @@ var _skills = {
     },
     "13092": {
         "_id": 13092,
-        "Name": "Molten Inferno",
-        "Desc": "Summon <color style='color:#FFFFFFFF'>Fiery Sanctum Field</color>. If Fiery Sanctum Field already exists, then first deal <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Расплавленное пекло",
+        "Desc": "Призывает <color style='color:#FFFFFFFF'>Область Огненного узилища</color>. Если Область Огненного узилища уже существует, сначала наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1396,8 +1396,8 @@ var _skills = {
     },
     "13093": {
         "_id": 13093,
-        "Name": "Leonine Bite",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, then performs \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Incineration Drive</color>.",
+        "Name": "Клыки львицы",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>3</b> ед., после чего начинается <color style='color:#FFFFFFFF'>Подготовка навыка</color>: <color style='color:#FFFFFFFF'>Сжигающий удар</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1410,8 +1410,8 @@ var _skills = {
     },
     "13095": {
         "_id": 13095,
-        "Name": "Incineration Drive",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Сжигающий удар",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1421,7 +1421,7 @@ var _skills = {
     },
     "13096": {
         "_id": 13096,
-        "Name": "Fiery Sanctum: Redmane's Blood",
+        "Name": "Огненное узилище: Кровь алой гривы",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -1432,8 +1432,8 @@ var _skills = {
     },
     "13101": {
         "_id": 13101,
-        "Name": "Card Force Translocation",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Форсирование карты с подменой",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1446,8 +1446,8 @@ var _skills = {
     },
     "13102": {
         "_id": 13102,
-        "Name": "Prop Arrow",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, summons a <color style='color:#FFFFFFFF'>Grin-Malkin Hat</color>, and gains 1 stack of <color style='color:#FFFFFFFF'>Prop Surplus</color>.<br>If this character has at least 6 HP, then they deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to themself.",
+        "Name": "Стрела-реквизит",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>2</b> ед., призывает помощника «<color style='color:#FFFFFFFF'>Хохочущий котошляп</color>», накапливается <color style='color:#FFFFFFFF'>Избыточный реквизит</color> (1 уровень).<br>Если у этого персонажа не менее 6 HP, он получает <color style='color:#FFFFFFFF'>Проникающий урон</color>, 1 ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1462,8 +1462,8 @@ var _skills = {
     },
     "13103": {
         "_id": 13103,
-        "Name": "Bewildering Lights",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Ошеломляющие огни",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1475,8 +1475,8 @@ var _skills = {
     },
     "13104": {
         "_id": 13104,
-        "Name": "Wondrous Trick: Miracle Parade",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Grin-Malkin Hat</color>, and gains 1 stack of <color style='color:#FFFFFFFF'>Prop Surplus</color>.",
+        "Name": "Великий фокус: Парад чудес",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>3</b> ед., призывается <color style='color:#FFFFFFFF'>Хохочущий котошляп</color>, накапливается <color style='color:#FFFFFFFF'>Избыточный реквизит</color> (1 уровень).",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1492,8 +1492,8 @@ var _skills = {
     },
     "13111": {
         "_id": 13111,
-        "Name": "Swiftshatter Spear",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Быстробойное копьё",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1506,8 +1506,8 @@ var _skills = {
     },
     "13112": {
         "_id": 13112,
-        "Name": "Blazing Blessing",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Blazing Barrier</color>.",
+        "Name": "Пылающий покров",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>2</b> ед. и создаёт <color style='color:#FFFFFFFF'>Пылающий щит</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1521,8 +1521,8 @@ var _skills = {
     },
     "13113": {
         "_id": 13113,
-        "Name": "Crimson Ooyoroi",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Blazing Barrier</color> and <color style='color:#FFFFFFFF'>Scorching Ooyoroi</color>.",
+        "Name": "Багровый оёрой",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>2</b> ед., создаются <color style='color:#FFFFFFFF'>Пылающий щит</color> и <color style='color:#FFFFFFFF'>Оёрой огня</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1538,8 +1538,8 @@ var _skills = {
     },
     "14011": {
         "_id": 14011,
-        "Name": "Bolts of Downfall",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Стрела возмездия",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1552,8 +1552,8 @@ var _skills = {
     },
     "14012": {
         "_id": 14012,
-        "Name": "Nightrider",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Oz</color>.",
+        "Name": "Тень расправленных крыльев",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>1</b> ед. и призывает помощника: <color style='color:#FFFFFFFF'>Оз</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1567,8 +1567,8 @@ var _skills = {
     },
     "14013": {
         "_id": 14013,
-        "Name": "Midnight Phantasmagoria",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, deals 2 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby.",
+        "Name": "Ночная иллюзия",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>4</b> ед., наносит <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Проникающий урон</color>, 2 ед.</color> всем неактивным персонажам противника.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1581,8 +1581,8 @@ var _skills = {
     },
     "14021": {
         "_id": 14021,
-        "Name": "Steel Fang",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Стальной клык",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1595,8 +1595,8 @@ var _skills = {
     },
     "14022": {
         "_id": 14022,
-        "Name": "Claw and Thunder",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Гром и когти",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1608,8 +1608,8 @@ var _skills = {
     },
     "14023": {
         "_id": 14023,
-        "Name": "Lightning Fang",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>The Wolf Within</color>.",
+        "Name": "Громовой клык",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>3</b> ед. Персонаж получает <color style='color:#FFFFFFFF'>Грозовой волк</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1624,8 +1624,8 @@ var _skills = {
     },
     "14031": {
         "_id": 14031,
-        "Name": "Yunlai Swordsmanship",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Грозовое фехтование",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1638,8 +1638,8 @@ var _skills = {
     },
     "14032": {
         "_id": 14032,
-        "Name": "Stellar Restoration",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Lightning Stiletto</color>.",
+        "Name": "Возвращение звезды",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>3</b> ед. и создаёт в руке <color style='color:#FFFFFFFF'>Громовой стилет</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1653,8 +1653,8 @@ var _skills = {
     },
     "14033": {
         "_id": 14033,
-        "Name": "Starward Sword",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, deals <color style='color:#FFFFFFFF'>3 <color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby.",
+        "Name": "Меч небесного тракта",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>4</b> ед., наносит <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Проникающий урон</color>, 3 ед.</color> всем неактивным персонажам противника.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1667,8 +1667,8 @@ var _skills = {
     },
     "14041": {
         "_id": 14041,
-        "Name": "Invoker's Spear",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Копьё призывателя",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1681,8 +1681,8 @@ var _skills = {
     },
     "14042": {
         "_id": 14042,
-        "Name": "Secret Rite: Chasmic Soulfarer",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Тайный обряд: Переправляющий души",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1694,8 +1694,8 @@ var _skills = {
     },
     "14043": {
         "_id": 14043,
-        "Name": "Sacred Rite: Wolf's Swiftness",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.<br><color style='color:#FFFFFFFF'>Pactsworn Pathclearer</color>'s Indwelling Level +2.",
+        "Name": "Священный обряд: Проворство шакала",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>4</b> ед.<br>Уровень [состояния]<color style='color:#FFFFFFFF'>Поклявшийся прокладывать путь</color> +2.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1710,8 +1710,8 @@ var _skills = {
     },
     "14044": {
         "_id": 14044,
-        "Name": "Lawful Enforcer",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Pactsworn Pathclearer</color>.",
+        "Name": "Исполнение наказания",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Поклявшийся прокладывать путь</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -1723,8 +1723,8 @@ var _skills = {
     },
     "14051": {
         "_id": 14051,
-        "Name": "Oceanborne",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "По волнам",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1737,8 +1737,8 @@ var _skills = {
     },
     "14052": {
         "_id": 14052,
-        "Name": "Tidecaller",
-        "Desc": "This character gains a <color style='color:#FFFFFFFF'>Tidecaller: Surf Embrace</color>. <color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Wavestrider</color>.",
+        "Name": "Призыв волны",
+        "Desc": "Персонаж получает <color style='color:#FFFFFFFF'>Призыв волны: Охват прибоя</color> и <color style='color:#FFFFFFFF'>Покоритель волн</color> (<color style='color:#FFFFFFFF'>Подготовка навыка</color>).",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1752,8 +1752,8 @@ var _skills = {
     },
     "14053": {
         "_id": 14053,
-        "Name": "Stormbreaker",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Thunderbeast's Targe</color>.",
+        "Name": "Крушитель бури",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>2</b> ед. и создаёт <color style='color:#FFFFFFFF'>Громовой щит</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1768,8 +1768,8 @@ var _skills = {
     },
     "14054": {
         "_id": 14054,
-        "Name": "Wavestrider",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Покоритель волн",
+        "Desc": "(На подготовку нужен 1 ход)<br>Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1779,8 +1779,8 @@ var _skills = {
     },
     "14061": {
         "_id": 14061,
-        "Name": "Tengu Bowmanship",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Стрелковое искусство тэнгу",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1793,8 +1793,8 @@ var _skills = {
     },
     "14062": {
         "_id": 14062,
-        "Name": "Tengu Stormcall",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Tengu Juurai: Ambush</color>.",
+        "Name": "Призыв грозы тэнгу",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>1</b> ед. и призывает помощника: <color style='color:#FFFFFFFF'>Тэнгу дзюрай: Засада</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1808,8 +1808,8 @@ var _skills = {
     },
     "14063": {
         "_id": 14063,
-        "Name": "Subjugation: Koukou Sendou",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Tengu Juurai: Stormcluster</color>.",
+        "Name": "Подчинение: Коко сэндо",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>1</b> ед. и призывает помощника: <color style='color:#FFFFFFFF'>Тэнгу дзюрай: Громокластер</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1824,8 +1824,8 @@ var _skills = {
     },
     "14071": {
         "_id": 14071,
-        "Name": "Origin",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Исток",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1838,8 +1838,8 @@ var _skills = {
     },
     "14072": {
         "_id": 14072,
-        "Name": "Transcendence: Baleful Omen",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Eye of Stormy Judgment</color>.",
+        "Name": "Превосходство: Зловещее знамение",
+        "Desc": "Призывает 1 помощника: <color style='color:#FFFFFFFF'>Глаз грозового наказания</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1853,8 +1853,8 @@ var _skills = {
     },
     "14073": {
         "_id": 14073,
-        "Name": "Secret Art: Musou Shinsetsu",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>. All of your other characters gain 2 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.",
+        "Name": "Тайное искусство: Мусо синсэцу",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>3</b> ед., <color style='color:#FFFFFFFF'>[b]1110[a]Энергия</color> всех ваших персонажей увеличивается на 2 ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1867,8 +1867,8 @@ var _skills = {
     },
     "14074": {
         "_id": 14074,
-        "Name": "Chakra Desiderata",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Chakra Desiderata</color>.",
+        "Name": "Чакра вожделения",
+        "Desc": "(Пассивный) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Чакра вожделения</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -1880,8 +1880,8 @@ var _skills = {
     },
     "14081": {
         "_id": 14081,
-        "Name": "Spiritfox Sin-Eater",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Пожирающая грехи кицунэ",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1894,8 +1894,8 @@ var _skills = {
     },
     "14082": {
         "_id": 14082,
-        "Name": "Yakan Evocation: Sesshou Sakura",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Sesshou Sakura</color>.",
+        "Name": "Проклятие якан: Сакура сэссё",
+        "Desc": "Призывает 1 помощника: <color style='color:#FFFFFFFF'>Сакура сэссё</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1909,8 +1909,8 @@ var _skills = {
     },
     "14083": {
         "_id": 14083,
-        "Name": "Great Secret Art: Tenko Kenshin",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>. If your side of the field has a <color style='color:#FFFFFFFF'>Sesshou Sakura</color>, destroy it and create <color style='color:#FFFFFFFF'>Tenko Thunderbolts</color>.",
+        "Name": "Великое тайное искусство: Тэнко кэнсин",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>4</b> ед. Если у вас на поле боя есть <color style='color:#FFFFFFFF'>Сакура сэссё</color>, она исчезает, а затем создаются <color style='color:#FFFFFFFF'>Молнии Небесной кицунэ</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1926,8 +1926,8 @@ var _skills = {
     },
     "14091": {
         "_id": 14091,
-        "Name": "Lightning Touch",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>:<br>If this Skill is a <color style='color:#FFFFFFFF'>Charged Attack</color>: Attach <color style='color:#FFFFFFFF'>Conductive</color> to the opponent's active character.",
+        "Name": "Касание молнии",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>1</b> ед.<br>Если навык - <color style='color:#FFFFFFFF'>Заряженная атака</color>, то персонаж противника получает состояние <color style='color:#FFFFFFFF'>Проводник</color>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1942,8 +1942,8 @@ var _skills = {
     },
     "14092": {
         "_id": 14092,
-        "Name": "Violet Arc",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>. If <color style='color:#FFFFFFFF'>Conductive</color> is not attached to the opponent's active character, <color style='color:#FFFFFFFF'>Conductive</color> will be attached.",
+        "Name": "Пурпурная дуга",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>2</b> ед. Если у активного персонажа противника отсутствует состояние <color style='color:#FFFFFFFF'>Проводник</color>, то он его получает.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1957,8 +1957,8 @@ var _skills = {
     },
     "14093": {
         "_id": 14093,
-        "Name": "Lightning Rose",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons <color style='color:#FFFFFFFF'>Lightning Rose</color>.",
+        "Name": "Громовая роза",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>2</b> ед. Призывает помощника: <color style='color:#FFFFFFFF'>Громовая роза</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1973,8 +1973,8 @@ var _skills = {
     },
     "14101": {
         "_id": 14101,
-        "Name": "Marvelous Sword-Dance (Modified)",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Чарующий танец мечей (модифицированный)",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1987,8 +1987,8 @@ var _skills = {
     },
     "14102": {
         "_id": 14102,
-        "Name": "Spirit-Warding Lamp: Troubleshooter Cannon",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>After-Sales Service Rounds</color>.",
+        "Name": "Лампа усмирения духов: Устраняющая проблемы пушка",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>2</b> ед. Призывает помощника: <color style='color:#FFFFFFFF'>Снаряд гарантийного обслуживания</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2002,8 +2002,8 @@ var _skills = {
     },
     "14103": {
         "_id": 14103,
-        "Name": "Alcazarzaray's Exactitude",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Jinni</color>.",
+        "Name": "Дотошность Алькасар-сарая",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>1</b> ед. Призывает помощника: <color style='color:#FFFFFFFF'>Джинн</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2018,8 +2018,8 @@ var _skills = {
     },
     "15011": {
         "_id": 15011,
-        "Name": "Wind Spirit Creation",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>.",
+        "Name": "Базовая эссенция ветра",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2032,8 +2032,8 @@ var _skills = {
     },
     "15012": {
         "_id": 15012,
-        "Name": "Astable Anemohypostasis Creation - 6308",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, the target is forcibly switched to the previous character.",
+        "Name": "Эксперимент №6308",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>3</b> ед. Принуждает соперника сделать активным предыдущего персонажа.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2045,8 +2045,8 @@ var _skills = {
     },
     "15013": {
         "_id": 15013,
-        "Name": "Forbidden Creation - Isomer 75 / Type II",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Large Wind Spirit</color>.",
+        "Name": "Запретно! Изомер 75 / Тип II",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>1</b> ед. и призывает помощника: <color style='color:#FFFFFFFF'>Большой Воздушный дух</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2061,8 +2061,8 @@ var _skills = {
     },
     "15021": {
         "_id": 15021,
-        "Name": "Favonius Bladework",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Фехтовальный стиль Фавония",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2075,8 +2075,8 @@ var _skills = {
     },
     "15022": {
         "_id": 15022,
-        "Name": "Gale Blade",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, the target is forcibly switched to the next character.",
+        "Name": "Клинок ветра",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>3</b> ед. Принуждает соперника сделать активным следующего персонажа.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2088,8 +2088,8 @@ var _skills = {
     },
     "15023": {
         "_id": 15023,
-        "Name": "Dandelion Breeze",
-        "Desc": "Heals all your characters for 2 HP, summons 1 <color style='color:#FFFFFFFF'>Dandelion Field</color>.",
+        "Name": "Одуванчиковый бриз",
+        "Desc": "Восстанавливает 2 HP всем вашим персонажам, призывает помощника: <color style='color:#FFFFFFFF'>Поле одуванчиков</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2104,8 +2104,8 @@ var _skills = {
     },
     "15031": {
         "_id": 15031,
-        "Name": "Divine Marksmanship",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Божественная точность",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2118,8 +2118,8 @@ var _skills = {
     },
     "15032": {
         "_id": 15032,
-        "Name": "Skyward Sonnet",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Stormzone</color>.",
+        "Name": "Небесная поэзия",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>2</b> ед., создаёт <color style='color:#FFFFFFFF'>Область ветра</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2133,8 +2133,8 @@ var _skills = {
     },
     "15033": {
         "_id": 15033,
-        "Name": "Wind's Grand Ode",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Stormeye</color>.",
+        "Name": "Великая ода ветру",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>2</b> ед., призывает помощника: <color style='color:#FFFFFFFF'>Глаз бури</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2149,8 +2149,8 @@ var _skills = {
     },
     "15041": {
         "_id": 15041,
-        "Name": "Whirlwind Thrust",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Вихревой удар",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2163,8 +2163,8 @@ var _skills = {
     },
     "15042": {
         "_id": 15042,
-        "Name": "Lemniscatic Wind Cycling",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>.",
+        "Name": "Лемниската ветра",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2176,8 +2176,8 @@ var _skills = {
     },
     "15043": {
         "_id": 15043,
-        "Name": "Bane of All Evil",
-        "Desc": "Deals <b>4</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Yaksha's Mask</color>.",
+        "Name": "Истребление всего зла",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>4</b> ед. У персонажа появляется <color style='color:#FFFFFFFF'>Маска Якса</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2192,8 +2192,8 @@ var _skills = {
     },
     "15051": {
         "_id": 15051,
-        "Name": "Garyuu Bladework",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Фехтовальный стиль Гарю",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2206,8 +2206,8 @@ var _skills = {
     },
     "15052": {
         "_id": 15052,
-        "Name": "Chihayaburu",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, attaches <color style='color:#FFFFFFFF'>Midare Ranzan</color> to this character. <br>If this skill triggers Swirl, <color style='color:#FFFFFFFF'>Midare Ranzan</color> is converted to the Swirled Element.<br><color style='color:#FFFFFFFF'>After the Skill DMG is finalized:</color> Your team switches to the next character.",
+        "Name": "Тихаяфуру",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>3</b> ед. У персонажа возникает <color style='color:#FFFFFFFF'>Мидарэ рандзан</color>.<br>Если этот навык вызвал Рассеивание, то <color style='color:#FFFFFFFF'>Мидарэ рандзан</color> наносит урон элементом, соответствующим Рассеиванию.<br><color style='color:#FFFFFFFF'>После подсчёта урона навыка:</color> у вас сменяется персонаж.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2221,8 +2221,8 @@ var _skills = {
     },
     "15053": {
         "_id": 15053,
-        "Name": "Kazuha Slash",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b> and summons <color style='color:#FFFFFFFF'>Autumn Whirlwind</color>.",
+        "Name": "Удар Кадзухи",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>3</b> ед. и призывает помощника: <color style='color:#FFFFFFFF'>Осенний вихрь</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2237,7 +2237,7 @@ var _skills = {
     },
     "15054": {
         "_id": 15054,
-        "Name": "Chihayaburu",
+        "Name": "Тихаяфуру",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -2248,8 +2248,8 @@ var _skills = {
     },
     "15061": {
         "_id": 15061,
-        "Name": "Yuuban Meigen",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>.",
+        "Name": "Юбан мэйгэн",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2262,8 +2262,8 @@ var _skills = {
     },
     "15062": {
         "_id": 15062,
-        "Name": "Hanega: Song of the Wind",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Windfavored</color>.",
+        "Name": "Ханэга: Песнь ветра",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>2</b> ед. У персонажа возникает <color style='color:#FFFFFFFF'>Избранник ветра</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2277,8 +2277,8 @@ var _skills = {
     },
     "15063": {
         "_id": 15063,
-        "Name": "Kyougen: Five Ceremonial Plays",
-        "Desc": "Deals <b>7</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>. If the character has <color style='color:#FFFFFFFF'>Windfavored</color> attached, then remove it and increase DMG by 1.",
+        "Name": "Кёгэн: Пять церемониальных актов",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>7</b> ед. Если у персонажа есть <color style='color:#FFFFFFFF'>Избранник ветра</color>, эта карта пропадает, а урон увеличивается на 1 ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2293,8 +2293,8 @@ var _skills = {
     },
     "15071": {
         "_id": 15071,
-        "Name": "Shuumatsuban Ninja Blade",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Ниндзюцу Сюмацубан",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2307,8 +2307,8 @@ var _skills = {
     },
     "15072": {
         "_id": 15072,
-        "Name": "Yoohoo Art: Fuuin Dash",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, and this character begins to <color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Fuufuu Whirlwind Kick</color>.<br>If this usage of the skill triggers Swirl, then <color style='color:#FFFFFFFF'>Fuufuu Whirlwind Kick</color> is converted to DMG of the Swirled Element.",
+        "Name": "Искусство Юху: Рывок Фуин",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>1</b> ед., у персонажа начинается <color style='color:#FFFFFFFF'>Подготовка навыка</color>: <color style='color:#FFFFFFFF'>Удар вихря Фуфу</color>.<br>Если текущее использование навыка вызвало Рассеивание, то <color style='color:#FFFFFFFF'>Удар вихря Фуфу</color> наносит урон элемента Рассеивания.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2320,8 +2320,8 @@ var _skills = {
     },
     "15073": {
         "_id": 15073,
-        "Name": "Yoohoo Art: Mujina Flurry",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Muji-Muji Daruma</color>.",
+        "Name": "Искусство Юху: Сумасшествие Мудзина",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>1</b> ед. Призывает помощника <color style='color:#FFFFFFFF'>Мудзи-Мудзи Дарума</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2336,8 +2336,8 @@ var _skills = {
     },
     "15074": {
         "_id": 15074,
-        "Name": "Fuufuu Whirlwind Kick",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b> (or the Swirled Element's DMG)",
+        "Name": "Удар вихря Фуфу",
+        "Desc": "(На подготовку нужен 1 ход)<br>Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>2</b> ед. (или урон элемента Рассеивания)",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2347,8 +2347,8 @@ var _skills = {
     },
     "15081": {
         "_id": 15081,
-        "Name": "Rapid Ritesword",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Стремительная церемониальная рапира",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2361,8 +2361,8 @@ var _skills = {
     },
     "15082": {
         "_id": 15082,
-        "Name": "Enigmatic Feint",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>. The first time this Skill is used this Round, heal the character for 2 HP if they have no more than 8 HP, but apply <color style='color:#FFFFFFFF'>Overawing Assault</color> to said character.",
+        "Name": "Таинственный трюк с исчезновением",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>3</b> ед. Когда навык используется первый раз в течение раунда, то использовавший его персонаж восстановит 2 HP (если его HP не более 8), но при этом получит <color style='color:#FFFFFFFF'>Ужасающий штурм</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2376,8 +2376,8 @@ var _skills = {
     },
     "15083": {
         "_id": 15083,
-        "Name": "Magic Trick: Astonishing Shift",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Bogglecat Box</color>.",
+        "Name": "Фокус: Удивительное превращение",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>2</b> ед. Призывается <color style='color:#FFFFFFFF'>Изумительная кошачья коробка</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2392,8 +2392,8 @@ var _skills = {
     },
     "16011": {
         "_id": 16011,
-        "Name": "Sparkling Scatter",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "Сверкающий дождь",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2406,8 +2406,8 @@ var _skills = {
     },
     "16012": {
         "_id": 16012,
-        "Name": "Jade Screen",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Jade Screen</color>.",
+        "Name": "Нефритовая ширма",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>2</b> ед. и создаёт <color style='color:#FFFFFFFF'>Нефритовая ширма</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2421,8 +2421,8 @@ var _skills = {
     },
     "16013": {
         "_id": 16013,
-        "Name": "Starshatter",
-        "Desc": "Deals <b>6</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. If <color style='color:#FFFFFFFF'>Jade Screen</color> is on the field, deals +2 DMG.",
+        "Name": "Осколки звёзд",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>6</b> ед. Если <color style='color:#FFFFFFFF'>Нефритовая ширма</color> на поле битвы, урон увеличивается на 2 ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2437,8 +2437,8 @@ var _skills = {
     },
     "16021": {
         "_id": 16021,
-        "Name": "Favonius Bladework - Maid",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Фехтовальный стиль Фавония: Горничная",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2451,8 +2451,8 @@ var _skills = {
     },
     "16022": {
         "_id": 16022,
-        "Name": "Breastplate",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Full Plate</color>.",
+        "Name": "Бронефартук",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>1</b> ед. и создаёт <color style='color:#FFFFFFFF'>Полная броня</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2466,8 +2466,8 @@ var _skills = {
     },
     "16023": {
         "_id": 16023,
-        "Name": "Sweeping Time",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Sweeping Time</color>.",
+        "Name": "Генеральная уборка",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>4</b> ед. Персонаж получает <color style='color:#FFFFFFFF'>Генеральная уборка</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2482,8 +2482,8 @@ var _skills = {
     },
     "16031": {
         "_id": 16031,
-        "Name": "Rain of Stone",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Каменный дождь",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2496,8 +2496,8 @@ var _skills = {
     },
     "16032": {
         "_id": 16032,
-        "Name": "Dominus Lapidis",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Stone Stele</color>.",
+        "Name": "Власть над камнем",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>1</b> ед. и призывает помощника: <color style='color:#FFFFFFFF'>Каменная стела</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2511,8 +2511,8 @@ var _skills = {
     },
     "16033": {
         "_id": 16033,
-        "Name": "Dominus Lapidis: Striking Stone",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Stone Stele</color>, creates 1 <color style='color:#FFFFFFFF'>Jade Shield</color>.",
+        "Name": "Власть над камнем: Внушительный удар",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>3</b> ед. Призывается <color style='color:#FFFFFFFF'>Каменная стела</color>, создаётся <color style='color:#FFFFFFFF'>Яшмовый щит</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2527,8 +2527,8 @@ var _skills = {
     },
     "16034": {
         "_id": 16034,
-        "Name": "Planet Befall",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Petrification</color>.",
+        "Name": "Падение кометы",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>4</b> ед., цель получает <color style='color:#FFFFFFFF'>Окаменение</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2543,8 +2543,8 @@ var _skills = {
     },
     "16041": {
         "_id": 16041,
-        "Name": "Favonius Bladework - Weiss",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Фехтовальный стиль Фавония: Мел",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2557,8 +2557,8 @@ var _skills = {
     },
     "16042": {
         "_id": 16042,
-        "Name": "Abiogenesis: Solar Isotoma",
-        "Desc": "Summons <color style='color:#FFFFFFFF'>Solar Isotoma</color>.",
+        "Name": "Абиогенез: Цветок солнца",
+        "Desc": "Призывает помощника: <color style='color:#FFFFFFFF'>Цветок солнца</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2572,8 +2572,8 @@ var _skills = {
     },
     "16043": {
         "_id": 16043,
-        "Name": "Rite of Progeniture: Tectonic Tide",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. If <color style='color:#FFFFFFFF'>Solar Isotoma</color> is on the field, deals +2 DMG.",
+        "Name": "Ритуал рождения: Тектоническая волна",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>4</b> ед. Если <color style='color:#FFFFFFFF'>Цветок солнца</color> на поле битвы, урон увеличивается на 2 ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2588,8 +2588,8 @@ var _skills = {
     },
     "16051": {
         "_id": 16051,
-        "Name": "Fight Club Legend",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Легенда бойцовского клуба",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2602,8 +2602,8 @@ var _skills = {
     },
     "16052": {
         "_id": 16052,
-        "Name": "Masatsu Zetsugi: Akaushi Burst!",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. Summons <color style='color:#FFFFFFFF'>Ushi</color>. This character gains <color style='color:#FFFFFFFF'>Superlative Superstrength</color>.",
+        "Name": "Масацу дзэцуги: Взрыв акауси!",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>1</b> ед. и призывает помощника: <color style='color:#FFFFFFFF'>Уси</color>. Персонажу достаётся <color style='color:#FFFFFFFF'>Невероятная сила</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2618,8 +2618,8 @@ var _skills = {
     },
     "16053": {
         "_id": 16053,
-        "Name": "Royal Descent: Behold, Itto the Evil!",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Raging Oni King</color>.",
+        "Name": "Явление короля: Итто Жестокий!",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>4</b> ед. Персонажу достаётся <color style='color:#FFFFFFFF'>Яростный король óни</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2634,8 +2634,8 @@ var _skills = {
     },
     "16061": {
         "_id": 16061,
-        "Name": "Ripping Fang Fletching",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Клыкастое оперение",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2648,8 +2648,8 @@ var _skills = {
     },
     "16062": {
         "_id": 16062,
-        "Name": "Inuzaka All-Round Defense",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>General's War Banner</color>.",
+        "Name": "Всесторонняя защита Инудзаки",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>2</b> ед., создаёт <color style='color:#FFFFFFFF'>Боевой штандарт генерала</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2663,8 +2663,8 @@ var _skills = {
     },
     "16063": {
         "_id": 16063,
-        "Name": "Juuga: Forward Unto Victory",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>General's War Banner</color>, summons <color style='color:#FFFFFFFF'>General's Glory</color>.",
+        "Name": "Дзюга: Вперёд к победе",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>2</b> ед., создаёт <color style='color:#FFFFFFFF'>Боевой штандарт генерала</color>, призывает <color style='color:#FFFFFFFF'>Влияние генерала</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2680,8 +2680,8 @@ var _skills = {
     },
     "17011": {
         "_id": 17011,
-        "Name": "Supplicant's Bowmanship",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Лук молельщицы",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2694,8 +2694,8 @@ var _skills = {
     },
     "17012": {
         "_id": 17012,
-        "Name": "Floral Brush",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "Сметающие цветы",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2707,8 +2707,8 @@ var _skills = {
     },
     "17013": {
         "_id": 17013,
-        "Name": "Trump-Card Kitty",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Cuilein-Anbar</color>.",
+        "Name": "Кошачье сокровище",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>2</b> ед. Призывает помощника: <color style='color:#FFFFFFFF'>Куйлейн-Анбар</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2723,8 +2723,8 @@ var _skills = {
     },
     "17021": {
         "_id": 17021,
-        "Name": "Khanda Barrier-Buster",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Крушащая преграды кханда",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2737,8 +2737,8 @@ var _skills = {
     },
     "17022": {
         "_id": 17022,
-        "Name": "Vijnana-Phala Mine",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Vijnana Suffusion</color>.",
+        "Name": "Мина виджняны-пхалы",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>2</b> ед. Персонажу достаётся <color style='color:#FFFFFFFF'>Прорыв виджняны</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2752,8 +2752,8 @@ var _skills = {
     },
     "17023": {
         "_id": 17023,
-        "Name": "Fashioner's Tanglevine Shaft",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, deals 1 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby.",
+        "Name": "Стрела-лиана жизни",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>4</b> ед., наносит <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Проникающий урон</color>, 1 ед.</color> всем неактивным персонажам противника.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2766,8 +2766,8 @@ var _skills = {
     },
     "17031": {
         "_id": 17031,
-        "Name": "Akara",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "Акара",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2780,8 +2780,8 @@ var _skills = {
     },
     "17032": {
         "_id": 17032,
-        "Name": "All Schemes to Know",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, applies <color style='color:#FFFFFFFF'>Seed of Skandha</color> to target character. If the target character already has <color style='color:#FFFFFFFF'>Seed of Skandha</color> applied to them, then apply <color style='color:#FFFFFFFF'>Seed of Skandha</color> to all opposing characters instead.",
+        "Name": "Пелена знаний",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>2</b> ед. Цель получит <color style='color:#FFFFFFFF'>Семя скандхи</color>. Если у цели уже было <color style='color:#FFFFFFFF'>Семя скандхи</color>, то <color style='color:#FFFFFFFF'>Семя скандхи</color> применяется ко всем персонажам противника.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2795,8 +2795,8 @@ var _skills = {
     },
     "17033": {
         "_id": 17033,
-        "Name": "All Schemes to Know: Tathata",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>. Applies <color style='color:#FFFFFFFF'>Seed of Skandha</color> to all opposing characters.",
+        "Name": "Пелена знаний: Татхата",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>3</b> ед. Всем персонажам противника достаётся <color style='color:#FFFFFFFF'>Семя скандхи</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2810,8 +2810,8 @@ var _skills = {
     },
     "17034": {
         "_id": 17034,
-        "Name": "Illusory Heart",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Shrine of Maya</color>.",
+        "Name": "Призрачное сердце",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>4</b> ед. и создаёт <color style='color:#FFFFFFFF'>Святилище Майи</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2826,8 +2826,8 @@ var _skills = {
     },
     "17041": {
         "_id": 17041,
-        "Name": "Toss 'N' Turn Spear",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Вращающееся копьё",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2840,8 +2840,8 @@ var _skills = {
     },
     "17042": {
         "_id": 17042,
-        "Name": "Raphanus Sky Cluster",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Yuegui: Throwing Mode</color>.",
+        "Name": "Небесное скопление редьки",
+        "Desc": "Призывает 1 помощника: <color style='color:#FFFFFFFF'>Бросающий Юэгуй</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2855,8 +2855,8 @@ var _skills = {
     },
     "17043": {
         "_id": 17043,
-        "Name": "Moonjade Descent",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Adeptal Legacy</color>.",
+        "Name": "Сошествие лунной яшмы",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>1</b> ед. и создаёт <color style='color:#FFFFFFFF'>Наследие Адептов</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2871,8 +2871,8 @@ var _skills = {
     },
     "17051": {
         "_id": 17051,
-        "Name": "The Classics of Acupuncture",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "Классика иглоукалывания",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2885,8 +2885,8 @@ var _skills = {
     },
     "17052": {
         "_id": 17052,
-        "Name": "Universal Diagnosis",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Gossamer Sprite</color>.",
+        "Name": "Универсальная диагностика",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>1</b> ед. Призывает помощника: <color style='color:#FFFFFFFF'>Летучий дух</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2900,8 +2900,8 @@ var _skills = {
     },
     "17053": {
         "_id": 17053,
-        "Name": "Holistic Revivification",
-        "Desc": "Creates 1 <color style='color:#FFFFFFFF'>Pulsing Clarity</color> and <color style='color:#FFFFFFFF'>Seamless Shield</color>.",
+        "Name": "Целостное восстановление",
+        "Desc": "Создаются <color style='color:#FFFFFFFF'>Пульсирующая ясность</color> и <color style='color:#FFFFFFFF'>Бесшовный щит</color> (по 1).",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2917,8 +2917,8 @@ var _skills = {
     },
     "17061": {
         "_id": 17061,
-        "Name": "Abductive Reasoning",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Абдуктивная аргументация",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2931,8 +2931,8 @@ var _skills = {
     },
     "17062": {
         "_id": 17062,
-        "Name": "Universality: An Elaboration on Form",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Chisel-Light Mirror</color>.",
+        "Name": "Универсалия: Совершенствование формы",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>2</b> ед. У персонажа возникает <color style='color:#FFFFFFFF'>Зеркало света</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2946,8 +2946,8 @@ var _skills = {
     },
     "17063": {
         "_id": 17063,
-        "Name": "Particular Field: Fetters of Phenomena",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, consumes <color style='color:#FFFFFFFF'>Chisel-Light Mirror</color>, with the DMG bonus based on <color style='color:#FFFFFFFF'>Chisel-Light Mirror</color>'s <color style='color:#FFFFFFFF'>Duration (Rounds)</color> consumed.<br>If <color style='color:#FFFFFFFF'>Chisel-Light Mirror</color> <color style='color:#FFFFFFFF'>Duration (Rounds)</color> consumed is 0/1/2, then apply <color style='color:#FFFFFFFF'>Chisel-Light Mirror</color> with 3/2/1 <color style='color:#FFFFFFFF'>Duration (Rounds)</color> to this character.",
+        "Name": "Особое поле: Взаимосвязь феноменов",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>4</b> ед., расходует <color style='color:#FFFFFFFF'>Зеркало света</color>. Урон эффекта <color style='color:#FFFFFFFF'>Зеркало света</color> повышается на истраченную <color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>.<br>Когда израсходованная у эффекта <color style='color:#FFFFFFFF'>Зеркало света</color> <color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color> равняется 0, 1 или 2, то этот персонаж получает 3, 2 или 1 <color style='color:#FFFFFFFF'>Зеркало света</color> соответственно.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2962,8 +2962,8 @@ var _skills = {
     },
     "17071": {
         "_id": 17071,
-        "Name": "Boxcutter",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Нарезка коробок",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2976,8 +2976,8 @@ var _skills = {
     },
     "17072": {
         "_id": 17072,
-        "Name": "Meow-teor Kick",
-        "Desc": "Creates 1 <color style='color:#FFFFFFFF'>Urgent Neko Parcel</color> and <color style='color:#FFFFFFFF'>Shield of Safe Transport</color>.",
+        "Name": "Мяутеоритный удар",
+        "Desc": "У вас появляется <color style='color:#FFFFFFFF'>Срочная посылка нэко</color> и <color style='color:#FFFFFFFF'>Щит безопасной перевозки</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2992,8 +2992,8 @@ var _skills = {
     },
     "17073": {
         "_id": 17073,
-        "Name": "Secret Art: Surprise Dispatch",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Cat Grass Cardamom</color> on the opponent's side of the field.",
+        "Name": "Неожиданное отправление",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>4</b> ед. Вызывает <color style='color:#FFFFFFFF'>Семена кошачьей мяты</color> в области противника.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3008,8 +3008,8 @@ var _skills = {
     },
     "21011": {
         "_id": 21011,
-        "Name": "Cicin Icicle",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Лёд цицина",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3022,8 +3022,8 @@ var _skills = {
     },
     "21012": {
         "_id": 21012,
-        "Name": "Misty Summons",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, summons <color style='color:#FFFFFFFF'>Cryo Cicins</color>.",
+        "Name": "Туманный призыв",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>1</b> ед. Призывает помощника: <color style='color:#FFFFFFFF'>Крио цицин</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3037,8 +3037,8 @@ var _skills = {
     },
     "21013": {
         "_id": 21013,
-        "Name": "Blizzard, Branch, Blossom",
-        "Desc": "Deals <b>5</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, grants this character <color style='color:#99FFFFFF'>[b]2101[a]Cryo Application</color>, creates 1 <color style='color:#FFFFFFFF'>Flowing Cicin Shield</color>.",
+        "Name": "Цветы и ветви вьюги",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>5</b> ед., даёт персонажу <color style='color:#99FFFFFF'>Эффект [b]2101[a]Крио</color>, создаёт 1 <color style='color:#FFFFFFFF'>Купол цицинов</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3053,8 +3053,8 @@ var _skills = {
     },
     "21021": {
         "_id": 21021,
-        "Name": "Frostblade Hailstorm",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Морозный град",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3067,8 +3067,8 @@ var _skills = {
     },
     "21022": {
         "_id": 21022,
-        "Name": "Biting Shards",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Sheer Cold</color>.",
+        "Name": "Острые осколки",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>2</b> ед. Цель получает <color style='color:#FFFFFFFF'>Лютый мороз</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3082,8 +3082,8 @@ var _skills = {
     },
     "21023": {
         "_id": 21023,
-        "Name": "Carmine Chrysalis",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, heals this character for 2 HP. Removes <color style='color:#FFFFFFFF'>Ice-Sealed Crimson Witch of Embers</color>. This character permanently switches to <color style='color:#FFFFFFFF'>Crimson Witch of Embers</color> state.",
+        "Name": "Пунцовый кокон",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>4</b> ед., восстанавливает 2 HP этому персонажу. Снимает состояние <color style='color:#FFFFFFFF'>Тлеющая алая ведьма во льду</color>. Этот персонаж навсегда переходит в состояние <color style='color:#FFFFFFFF'>Тлеющая алая ведьма</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3098,8 +3098,8 @@ var _skills = {
     },
     "21024": {
         "_id": 21024,
-        "Name": "Might of Delusion",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Ice-Sealed Crimson Witch of Embers</color>.",
+        "Name": "Сила порчи",
+        "Desc": "(Пассивный) В начале сражения персонаж будет в состоянии <color style='color:#FFFFFFFF'>Тлеющая алая ведьма во льду</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3111,7 +3111,7 @@ var _skills = {
     },
     "21025": {
         "_id": 21025,
-        "Name": "Inferno's Awakening",
+        "Name": "Пробуждение ада",
         "Desc": "",
         "Tag": [],
         "Cost": {},
@@ -3120,8 +3120,8 @@ var _skills = {
     },
     "21026": {
         "_id": 21026,
-        "Name": "Might of Delusion",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Ice-Sealed Crimson Witch of Embers</color>.",
+        "Name": "Сила порчи",
+        "Desc": "(Пассивный) В начале сражения персонаж будет в состоянии <color style='color:#FFFFFFFF'>Тлеющая алая ведьма во льду</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3133,8 +3133,8 @@ var _skills = {
     },
     "21027": {
         "_id": 21027,
-        "Name": "Might of Delusion",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Ice-Sealed Crimson Witch of Embers</color>.",
+        "Name": "Сила порчи",
+        "Desc": "(Пассивный) В начале сражения персонаж будет в состоянии <color style='color:#FFFFFFFF'>Тлеющая алая ведьма во льду</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3146,8 +3146,8 @@ var _skills = {
     },
     "63011": {
         "_id": 63011,
-        "Name": "Crimson Lotus Moth",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Алый мотылёк",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3160,8 +3160,8 @@ var _skills = {
     },
     "63012": {
         "_id": 63012,
-        "Name": "Decimating Lash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Blazing Heat</color>.",
+        "Name": "Хлыст опустошения",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>2</b> ед. Цель получает состояние <color style='color:#FFFFFFFF'>Пылающий жар</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3175,8 +3175,8 @@ var _skills = {
     },
     "63013": {
         "_id": 63013,
-        "Name": "Whirling Blaze",
-        "Desc": "Deals <b>6</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Кружащийся блеск",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>6</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3189,8 +3189,8 @@ var _skills = {
     },
     "63014": {
         "_id": 63014,
-        "Name": "Crimson Flamespin",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Алый огнесмерч",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3200,8 +3200,8 @@ var _skills = {
     },
     "21031": {
         "_id": 21031,
-        "Name": "Icespike Shot",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Ледовый выстрел",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3214,8 +3214,8 @@ var _skills = {
     },
     "21032": {
         "_id": 21032,
-        "Name": "Ice Ring Waltz",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Overwhelming Ice</color>.",
+        "Name": "Вальс на льду",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>3</b> ед. У персонажа возникает <color style='color:#FFFFFFFF'>Лёд повсюду</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3229,8 +3229,8 @@ var _skills = {
     },
     "21033": {
         "_id": 21033,
-        "Name": "Plunging Ice Shards",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, deals 1 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby, summons 1 <color style='color:#FFFFFFFF'>Piercing Iceridge</color>.",
+        "Name": "Град ледяных глыб",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>2</b> ед., наносит <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Проникающий урон</color></color>, 1 ед. всем неактивным персонажам противника, призывает помощника «<color style='color:#FFFFFFFF'>Пронзающая льдинка</color>».",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3245,8 +3245,8 @@ var _skills = {
     },
     "21034": {
         "_id": 21034,
-        "Name": "Cryo Crystal Core",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Cryo Crystal Core</color>.",
+        "Name": "Кристальное ядро Крио",
+        "Desc": "(Пассивный) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Кристальное ядро Крио</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3258,8 +3258,8 @@ var _skills = {
     },
     "21037": {
         "_id": 21037,
-        "Name": "Cryo Crystal Core",
-        "Desc": "(Passive) When the battle begins, starts with <color style='color:#FFFFFFFF'>Cryo Crystal Core</color>.<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> If this character has yet to gain a Cryo Crystal Core, then it will gain a Cryo Crystal Core again. (Triggers a maximum of once in a single duel)",
+        "Name": "Кристальное ядро Крио",
+        "Desc": "(Пассивный навык) В начала сражения у персонажа будет <color style='color:#FFFFFFFF'>Кристальное ядро Крио</color>.<br><color style='color:#FFFFFFFF'>Фаза ходов:</color> если у персонажа отсутствует Кристальное ядро Крио, то он снова его получает. Можно вызвать не более 1 раза за дуэль.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3271,8 +3271,8 @@ var _skills = {
     },
     "21038": {
         "_id": 21038,
-        "Name": "Cryo Crystal Core",
-        "Desc": "(Passive) When the battle begins, starts with <color style='color:#FFFFFFFF'>Cryo Crystal Core</color>.<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> If this character has yet to gain a Cryo Crystal Core, then it will gain a Cryo Crystal Core again. (Triggers a maximum of once in a single duel)",
+        "Name": "Кристальное ядро Крио",
+        "Desc": "(Пассивный навык) В начала сражения у персонажа будет <color style='color:#FFFFFFFF'>Кристальное ядро Крио</color>.<br><color style='color:#FFFFFFFF'>Фаза ходов:</color> если у персонажа отсутствует Кристальное ядро Крио, то он снова его получает. Можно вызвать не более 1 раза за дуэль.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3284,8 +3284,8 @@ var _skills = {
     },
     "22011": {
         "_id": 22011,
-        "Name": "Surge",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Прилив",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3298,8 +3298,8 @@ var _skills = {
     },
     "22012": {
         "_id": 22012,
-        "Name": "Oceanid Mimic Summoning",
-        "Desc": "Randomly summons 1 <color style='color:#FFFFFFFF'>Oceanid Mimic</color> (Prioritizes summoning a different type from preexisting ones, at most 2 types of Oceanid Mimic can exist at the same time in the summons area).",
+        "Name": "Иллюзорный океанид",
+        "Desc": "Случайным образом призывает: <color style='color:#FFFFFFFF'>Мимик океанида</color> (1 вид). В первую очередь создаёт разные виды. В зоне помощников может находиться не более двух видов Мимик океанида одновременно.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3313,8 +3313,8 @@ var _skills = {
     },
     "22013": {
         "_id": 22013,
-        "Name": "The Myriad Wilds",
-        "Desc": "Randomly summons 2 <color style='color:#FFFFFFFF'>Oceanid Mimic</color> (Prioritizes summoning a different type from preexisting ones, at most 2 types of Oceanid Mimic can exist at the same time in the summons area).",
+        "Name": "Лесное многообразие",
+        "Desc": "Случайным образом призывает: <color style='color:#FFFFFFFF'>Мимик океанида</color> (2 вида). В первую очередь создаёт разные виды. В зоне помощников может находиться не более двух видов Мимик океанида одновременно.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3328,8 +3328,8 @@ var _skills = {
     },
     "22014": {
         "_id": 22014,
-        "Name": "Tide and Torrent",
-        "Desc": "Deals <b>4</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. For each friendly Summon on the field, deals +1 additional DMG.",
+        "Name": "Приливы и течения",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>4</b> ед. За каждого вашего помощника дополнительно наносит 1 ед. урона.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3342,8 +3342,8 @@ var _skills = {
     },
     "22021": {
         "_id": 22021,
-        "Name": "Water Ball",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Водяной снаряд",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3356,8 +3356,8 @@ var _skills = {
     },
     "22022": {
         "_id": 22022,
-        "Name": "Influx Blast",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Refraction</color>.",
+        "Name": "Водяной хлопок",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>2</b> ед., цель получает <color style='color:#FFFFFFFF'>Преломление</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3371,8 +3371,8 @@ var _skills = {
     },
     "22023": {
         "_id": 22023,
-        "Name": "Rippled Reflection",
-        "Desc": "Deals <b>5</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Сверкающее преломление",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>5</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3385,8 +3385,8 @@ var _skills = {
     },
     "23011": {
         "_id": 23011,
-        "Name": "Thrust",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Укол",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3399,8 +3399,8 @@ var _skills = {
     },
     "23012": {
         "_id": 23012,
-        "Name": "Prowl",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Stealth</color>.",
+        "Name": "Подходящий момент",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>1</b> ед. Персонаж получает <color style='color:#FFFFFFFF'>Скрытность</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3414,8 +3414,8 @@ var _skills = {
     },
     "23013": {
         "_id": 23013,
-        "Name": "Blade Ablaze",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Испепеляющий кинжал",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>5</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3428,8 +3428,8 @@ var _skills = {
     },
     "23014": {
         "_id": 23014,
-        "Name": "Stealth Master",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Stealth</color>.",
+        "Name": "Мастер скрытности",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Скрытность</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3441,8 +3441,8 @@ var _skills = {
     },
     "23021": {
         "_id": 23021,
-        "Name": "Flame of Salvation",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Спасительное пламя",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3455,8 +3455,8 @@ var _skills = {
     },
     "23022": {
         "_id": 23022,
-        "Name": "Searing Precept",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Обжигающее предостережение",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3468,8 +3468,8 @@ var _skills = {
     },
     "23023": {
         "_id": 23023,
-        "Name": "Ominous Star",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Darkfire Furnace</color>.",
+        "Name": "Зловещая звезда",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>3</b> ед. Призывает помощника: <color style='color:#FFFFFFFF'>Очаг тёмного пламени</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3484,8 +3484,8 @@ var _skills = {
     },
     "23024": {
         "_id": 23024,
-        "Name": "Fiery Rebirth",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Fiery Rebirth</color>.",
+        "Name": "Огненное перерождение",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Огненное перерождение</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3497,8 +3497,8 @@ var _skills = {
     },
     "23025": {
         "_id": 23025,
-        "Name": "Shield of Surging Flame",
-        "Desc": "(Passive) When this character triggers <color style='color:#FFFFFFFF'>Fiery Rebirth</color>: attach <color style='color:#FFFFFFFF'>Shield of Surging Flame</color> to them.",
+        "Name": "Купол бушующего пламени",
+        "Desc": "(Пассивный навык) Когда персонаж вызывает <color style='color:#FFFFFFFF'>Огненное перерождение</color>: персонаж получает <color style='color:#FFFFFFFF'>Купол бушующего пламени</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3511,7 +3511,7 @@ var _skills = {
     },
     "23026": {
         "_id": 23026,
-        "Name": "Broken Shield",
+        "Name": "Сломанный щит",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -3522,8 +3522,8 @@ var _skills = {
     },
     "23031": {
         "_id": 23031,
-        "Name": "Searing Glare",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Палящий свет",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3536,8 +3536,8 @@ var _skills = {
     },
     "23032": {
         "_id": 23032,
-        "Name": "Blazing Strike",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Блестящий удар",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3549,8 +3549,8 @@ var _skills = {
     },
     "23033": {
         "_id": 23033,
-        "Name": "Spirit of Omen's Awakening: Pyro Scorpion",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Spirit of Omen: Pyro Scorpion</color>.",
+        "Name": "Пробуждение духа предзнаменования: Пиро скорпион",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>2</b> ед. Призывает помощника: <color style='color:#FFFFFFFF'>Дух предзнаменования: Пиро скорпион</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3565,8 +3565,8 @@ var _skills = {
     },
     "23034": {
         "_id": 23034,
-        "Name": "Spirit of Omen's Power",
-        "Desc": "(Passive) <color style='color:#FFFFFFFF'>After this character takes DMG:</color> If this character has no greater than 7 HP, they gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>. (Once per Match)",
+        "Name": "Сила духа предзнаменования",
+        "Desc": "(Пассивный навык) <color style='color:#FFFFFFFF'>Когда этот персонаж получает урон:</color> если его HP не более 7, у него прибавляется <color style='color:#FFFFFFFF'>[b]1110[a]Энергия</color>, 1 ед. Только 1 раз за игру.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3577,7 +3577,7 @@ var _skills = {
     "23035": {
         "_id": 23035,
         "Name": "",
-        "Desc": "This character's counters will be cleared at the beginning of each Round",
+        "Desc": "Счётчик этого персонажа обнуляется в начале каждого раунда",
         "Tag": [],
         "Cost": {},
         "SP": 0,
@@ -3585,8 +3585,8 @@ var _skills = {
     },
     "23036": {
         "_id": 23036,
-        "Name": "Pyro Scorpion: Guardian Stance",
-        "Desc": "If there are summoned entities on the field at the beginning of each Round, refresh shield",
+        "Name": "Пиро скорпион: На страже",
+        "Desc": "Если в начале раунда на поле есть помощник, щит обновляется",
         "Tag": [],
         "Cost": {},
         "SP": 0,
@@ -3594,8 +3594,8 @@ var _skills = {
     },
     "23037": {
         "_id": 23037,
-        "Name": "Pyro Scorpion: Guardian Stance",
-        "Desc": "If there are summoned entities on the field at the beginning of each Round, refresh shield (Talent)",
+        "Name": "Пиро скорпион: На страже",
+        "Desc": "Если в начале раунда на поле есть помощник, щит (талант) обновляется",
         "Tag": [],
         "Cost": {},
         "SP": 0,
@@ -3603,8 +3603,8 @@ var _skills = {
     },
     "24011": {
         "_id": 24011,
-        "Name": "Electro Crystal Projection",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Кристаллическая проекция Электро",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3617,8 +3617,8 @@ var _skills = {
     },
     "24012": {
         "_id": 24012,
-        "Name": "Rock-Paper-Scissors Combo",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b> and then separately performs \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Rock-Paper-Scissors Combo: Scissors</color> and <color style='color:#FFFFFFFF'>Rock-Paper-Scissors Combo: Paper</color>.",
+        "Name": "Тройное комбо",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>2</b> ед., после чего начинается <color style='color:#FFFFFFFF'>Подготовка навыка</color>: <color style='color:#FFFFFFFF'>Тройное комбо: Ножницы</color> и <color style='color:#FFFFFFFF'>Тройное комбо: Бумага</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3630,8 +3630,8 @@ var _skills = {
     },
     "24013": {
         "_id": 24013,
-        "Name": "Lightning Lockdown",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons <color style='color:#FFFFFFFF'>Chains of Warding Thunder</color>.",
+        "Name": "В тисках молний",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>2</b> ед. и призывает помощника: <color style='color:#FFFFFFFF'>Громовые оковы</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3646,8 +3646,8 @@ var _skills = {
     },
     "24014": {
         "_id": 24014,
-        "Name": "Electro Crystal Core",
-        "Desc": "(Passive) When the battle begins, this character gains an <color style='color:#FFFFFFFF'>Electro Crystal Core</color>.",
+        "Name": "Кристальное ядро Электро",
+        "Desc": "(Пассивный) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Кристальное ядро Электро</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3659,8 +3659,8 @@ var _skills = {
     },
     "24015": {
         "_id": 24015,
-        "Name": "Rock-Paper-Scissors Combo: Scissors",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>. Then, perform \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Rock-Paper-Scissors Combo: Paper</color>.",
+        "Name": "Тройное комбо: Ножницы",
+        "Desc": "(На подготовку требуется 1 раунд)<br>Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>2</b> ед., после чего начинается <color style='color:#FFFFFFFF'>Подготовка навыка</color> «<color style='color:#FFFFFFFF'>Тройное комбо: Бумага</color>».",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3670,8 +3670,8 @@ var _skills = {
     },
     "24016": {
         "_id": 24016,
-        "Name": "Rock-Paper-Scissors Combo: Paper",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Тройное комбо: Бумага",
+        "Desc": "(На подготовку нужен 1 ход)<br>Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3681,8 +3681,8 @@ var _skills = {
     },
     "24017": {
         "_id": 24017,
-        "Name": "Electro Crystal Core",
-        "Desc": "(Passive) When the battle begins, starts with <color style='color:#FFFFFFFF'>Electro Crystal Core</color>.<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> If this character has yet to gain Electro Crystal Core, then it will gain Electro Crystal Core again. (Triggers a maximum of twice in a single duel)",
+        "Name": "Кристальное ядро Электро",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Кристальное ядро Электро</color>.<br><color style='color:#FFFFFFFF'>Фаза ходов:</color> если у персонажа отсутствует Кристальное ядро Электро, то он снова получает Кристальное ядро Электро. (Можно вызвать не более 2 раз за дуэль).",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3694,8 +3694,8 @@ var _skills = {
     },
     "24018": {
         "_id": 24018,
-        "Name": "Electro Crystal Core",
-        "Desc": "(Passive) When the battle begins, starts with <color style='color:#FFFFFFFF'>Electro Crystal Core</color>.<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> If this character has yet to gain Electro Crystal Core, then it will gain Electro Crystal Core again. (Triggers a maximum of twice in a single duel)",
+        "Name": "Кристальное ядро Электро",
+        "Desc": "(Пассивный навык) В начала сражения у персонажа будет <color style='color:#FFFFFFFF'>Кристальное ядро Электро</color>.<br><color style='color:#FFFFFFFF'>Фаза ходов:</color> если у персонажа отсутствует Кристальное ядро Электро, то он снова получает Кристальное ядро Электро. (Можно вызвать не более 2 раз за дуэль).",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3707,8 +3707,8 @@ var _skills = {
     },
     "24021": {
         "_id": 24021,
-        "Name": "Thunderous Wingslash",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Грозовой ветровал",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3721,8 +3721,8 @@ var _skills = {
     },
     "24022": {
         "_id": 24022,
-        "Name": "Strifeful Lightning",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b> to the opposing character affected by <color style='color:#FFFFFFFF'>Lightning Rod</color>. (If there are no eligible opposing characters, deals DMG to the active character instead)",
+        "Name": "Сильная молния",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>3</b> ед. персонажам противника, на которых действует <color style='color:#FFFFFFFF'>Искатель молний</color>. Если у противника нет подходящих персонажей, урон наносится активному персонажу.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3736,8 +3736,8 @@ var _skills = {
     },
     "24023": {
         "_id": 24023,
-        "Name": "Thundering Shackles",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Thundering Shackles</color>.",
+        "Name": "Громовые оковы",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>2</b> ед. Призывает помощника: <color style='color:#FFFFFFFF'>Громовые оковы</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3752,8 +3752,8 @@ var _skills = {
     },
     "24024": {
         "_id": 24024,
-        "Name": "Lightning Probe",
-        "Desc": "(Passive) When battle begins, create a <color style='color:#FFFFFFFF'>Lightning Strike Probe</color> on the opponent's side of the field.",
+        "Name": "Молниеносный зонд",
+        "Desc": "(Пассивный навык) В начале битвы на стороне противника появляется <color style='color:#FFFFFFFF'>Зонд для поиска молнии</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3765,8 +3765,8 @@ var _skills = {
     },
     "24031": {
         "_id": 24031,
-        "Name": "Tail Sweep",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Круговой удар хвостом",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3779,8 +3779,8 @@ var _skills = {
     },
     "24032": {
         "_id": 24032,
-        "Name": "Swirling School of Fish",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.<br>If this character has <color style='color:#FFFFFFFF'>Fontemer Pearl</color> attached, that <color style='color:#FFFFFFFF'>Usage(s)</color> +1. (Once per Round)",
+        "Name": "Круговорот рыбьей стаи",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>3</b> ед.<br>Если у персонажа уже наложено состояние <color style='color:#FFFFFFFF'>Жемчужина Фонтмера</color>, то его <color style='color:#FFFFFFFF'>Кол-во применений</color> увеличатся на 1 ед. (1 раз за раунд).",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3794,8 +3794,8 @@ var _skills = {
     },
     "24033": {
         "_id": 24033,
-        "Name": "Fontemer Hoarthunder",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, attaches <color style='color:#FFFFFFFF'>Fontemer Pearl</color> to this character, and summons 1 <color style='color:#FFFFFFFF'>Resonant Coral Orb</color>.",
+        "Name": "Древний гром Фонтмера",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>1</b> ед. У персонажа возникает <color style='color:#FFFFFFFF'>Жемчужина Фонтмера</color>, призывается <color style='color:#FFFFFFFF'>Резонирующая коралловая сфера</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3811,8 +3811,8 @@ var _skills = {
     },
     "24034": {
         "_id": 24034,
-        "Name": "Pearl Armor",
-        "Desc": "(Passive) When the battle begins, attach <color style='color:#FFFFFFFF'>Fontemer Pearl</color> to this character.",
+        "Name": "Жемчужная броня",
+        "Desc": "(Пассивный) В начале сражения у этого персонажа будет <color style='color:#FFFFFFFF'>Жемчужина Фонтмера</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3824,8 +3824,8 @@ var _skills = {
     },
     "24035": {
         "_id": 24035,
-        "Name": "Pearl Armor",
-        "Desc": "(Passive) When the battle begins, attach <color style='color:#FFFFFFFF'>Fontemer Pearl</color> to this character.",
+        "Name": "Жемчужная броня",
+        "Desc": "(Пассивный) В начале сражения у этого персонажа будет <color style='color:#FFFFFFFF'>Жемчужина Фонтмера</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3837,8 +3837,8 @@ var _skills = {
     },
     "24036": {
         "_id": 24036,
-        "Name": "Fontemer Hoarthunder",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, attaches <color style='color:#FFFFFFFF'>Fontemer Pearl</color> to this character, and summons 1 <color style='color:#FFFFFFFF'>Resonant Coral Orb</color>.",
+        "Name": "Древний гром Фонтмера",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>1</b> ед. У персонажа возникает <color style='color:#FFFFFFFF'>Жемчужина Фонтмера</color>, призывается <color style='color:#FFFFFFFF'>Резонирующая коралловая сфера</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3854,7 +3854,7 @@ var _skills = {
     },
     "24037": {
         "_id": 24037,
-        "Name": "Swirling School of Fish",
+        "Name": "Круговорот рыбьей стаи",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -3865,8 +3865,8 @@ var _skills = {
     },
     "24038": {
         "_id": 24038,
-        "Name": "Swirling School of Fish",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.<br>If this character has <color style='color:#FFFFFFFF'>Fontemer Pearl</color> attached, that <color style='color:#FFFFFFFF'>Usage(s)</color> +1. (Once per Round)",
+        "Name": "Круговорот рыбьей стаи",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>3</b> ед.<br>Если у персонажа уже наложено состояние <color style='color:#FFFFFFFF'>Жемчужина Фонтмера</color>, то его <color style='color:#FFFFFFFF'>Кол-во применений</color> увеличатся на 1 ед. (1 раз за раунд).",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3880,8 +3880,8 @@ var _skills = {
     },
     "24041": {
         "_id": 24041,
-        "Name": "Hurtling Bolts",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Грозовые разряды ЪЪЪ",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3894,8 +3894,8 @@ var _skills = {
     },
     "24042": {
         "_id": 24042,
-        "Name": "Misty Call",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Electro Cicin</color>.",
+        "Name": "Зов в тумане ЪЪЪ",
+        "Desc": "Призывает помощника: <color style='color:#FFFFFFFF'>Электро цицин</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3909,8 +3909,8 @@ var _skills = {
     },
     "24043": {
         "_id": 24043,
-        "Name": "Thundering Shield",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, applies <color style='color:#FFACFFFF'>[b]2104[a]Electro Application</color> to this character, creates 1 <color style='color:#FFFFFFFF'>Electro Cicin Shield</color> and prepares <color style='color:#FFFFFFFF'>Surging Thunder</color>.",
+        "Name": "Громовая защита ЪЪЪ",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>1</b> ед., этот персонаж получает <color style='color:#FFACFFFF'>Эффект [b]2104[a]Электро</color>, создаёт <color style='color:#FFFFFFFF'>Купол Электро цицина</color> и подготавливает <color style='color:#FFFFFFFF'>Молниеносный взрыв</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3925,8 +3925,8 @@ var _skills = {
     },
     "24044": {
         "_id": 24044,
-        "Name": "Surging Thunder",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Молниеносный взрыв",
+        "Desc": "На подготовку требуется 1 раунд.<br>Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3936,8 +3936,8 @@ var _skills = {
     },
     "25011": {
         "_id": 25011,
-        "Name": "Ichimonji",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Итимондзи",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3950,8 +3950,8 @@ var _skills = {
     },
     "25012": {
         "_id": 25012,
-        "Name": "Blustering Blade",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Shadowsword: Lone Gale</color>.",
+        "Name": "Одинокий шторм",
+        "Desc": "Призывает 1 помощника: <color style='color:#FFFFFFFF'>Теневой клинок: Одинокий ветер</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3965,8 +3965,8 @@ var _skills = {
     },
     "25013": {
         "_id": 25013,
-        "Name": "Frosty Assault",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Shadowsword: Galloping Frost</color>.",
+        "Name": "Морозная тень",
+        "Desc": "Призывает 1 помощника: <color style='color:#FFFFFFFF'>Теневой клинок: Бегущий иней</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3980,8 +3980,8 @@ var _skills = {
     },
     "25014": {
         "_id": 25014,
-        "Name": "Pseudo Tengu Sweeper",
-        "Desc": "Deals <b>4</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, triggers the effect(s) of all your <color style='color:#FFFFFFFF'>Shadowsword</color> Summon(s). (Does not consume their Usages)",
+        "Name": "Ложный тэнгу",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>4</b> ед., вызывает эффекты всех <color style='color:#FFFFFFFF'>Теневых клинков</color> (не расходует их применения).",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3994,8 +3994,8 @@ var _skills = {
     },
     "25021": {
         "_id": 25021,
-        "Name": "Lacerating Slash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Рваная рана",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4008,8 +4008,8 @@ var _skills = {
     },
     "25022": {
         "_id": 25022,
-        "Name": "Tempestuous Barrage",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Total Collapse</color>.",
+        "Name": "Шквальное заграждение",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>2</b> ед. Цель получает <color style='color:#FFFFFFFF'>Коллапс</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4023,8 +4023,8 @@ var _skills = {
     },
     "25023": {
         "_id": 25023,
-        "Name": "Dvalin's Cleansing",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b> and then separately performs \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Perpetual Cleansing</color> and <color style='color:#FFFFFFFF'>Ultimate Cleansing</color>.",
+        "Name": "Очищение Двалина",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>2</b> ед., после чего начинается <color style='color:#FFFFFFFF'>Подготовка навыка</color>: <color style='color:#FFFFFFFF'>Вечное очищение</color> и <color style='color:#FFFFFFFF'>Финальная очистка</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4037,7 +4037,7 @@ var _skills = {
     "25024": {
         "_id": 25024,
         "Name": "Caelestinum Finale Termini",
-        "Desc": "Deals <b>5</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>. Applies <color style='color:#FFFFFFFF'>Total Collapse</color> to all opposing standby characters.",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>5</b> ед. Всем неактивным персонажам противника достаётся <color style='color:#FFFFFFFF'>Коллапс</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4052,8 +4052,8 @@ var _skills = {
     },
     "25025": {
         "_id": 25025,
-        "Name": "Perpetual Cleansing",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>1</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b> to the next opposing character on standby. After this, <color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Ultimate Cleansing</color>. (If there are no opposing characters on standby, deals DMG to active character instead)",
+        "Name": "Вечное очищение",
+        "Desc": "(На подготовку требуется 1 раунд)<br>Следующий неактивный персонаж противника получает <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>1</b> ед., после чего начинается <color style='color:#FFFFFFFF'>Подготовка навыка</color> <color style='color:#FFFFFFFF'>Финальная очистка</color>. Если у противника остался только активный персонаж, он и получает урон.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4063,8 +4063,8 @@ var _skills = {
     },
     "25026": {
         "_id": 25026,
-        "Name": "Ultimate Cleansing",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b> to the previous opposing character on standby. (If there are no opposing characters on standby, deals DMG to the active character instead)",
+        "Name": "Финальная очистка",
+        "Desc": "(На подготовку требуется 1 раунд)<br>Предыдущий неактивный персонаж противника получает <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>2</b> ед. Если у противника остался только активный персонаж, он и получает урон.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4075,7 +4075,7 @@ var _skills = {
     "26011": {
         "_id": 26011,
         "Name": "Plama Lawa",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4089,7 +4089,7 @@ var _skills = {
     "26012": {
         "_id": 26012,
         "Name": "Movo Lawa",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4102,7 +4102,7 @@ var _skills = {
     "26013": {
         "_id": 26013,
         "Name": "Upa Shato",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>5</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4115,8 +4115,8 @@ var _skills = {
     },
     "26014": {
         "_id": 26014,
-        "Name": "Infused Stonehide",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Stonehide</color> and <color style='color:#FFFFFFFF'>Stone Force</color>.",
+        "Name": "Каменная кожа",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Каменный панцирь</color> и <color style='color:#FFFFFFFF'>Сила камня</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4129,8 +4129,8 @@ var _skills = {
     },
     "26021": {
         "_id": 26021,
-        "Name": "Sundering Charge",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Разбивающий удар",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4143,8 +4143,8 @@ var _skills = {
     },
     "26022": {
         "_id": 26022,
-        "Name": "Aura of Majesty",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. If a Crystallize reaction occurs, then this character will perform <color style='color:#FFFFFFFF'>Elemental Absorption</color>.<br>If during the usage of this skill, the character hasn't absorbed an element's power yet, then <color style='color:#FFFFFFFF'>Stone Facets: Elemental Crystallization</color> will be attached.",
+        "Name": "Аура величия",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>3</b> ед. Если при этом происходит реакция Кристалл, персонаж выполняет <color style='color:#FFFFFFFF'>Поглощение силы элемента</color>.<br>Если персонаж ещё не поглотил силу элемента, то он получит <color style='color:#FFFFFFFF'>Каменный облик: Элементальная кристаллизация</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4158,8 +4158,8 @@ var _skills = {
     },
     "26024": {
         "_id": 26024,
-        "Name": "Decimating Rockfall",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. DMG +1 for each element previously absorbed.",
+        "Name": "Разрушительный камнепад",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>4</b> ед. Урон увеличивается на 1 ед. за каждый поглощённый ранее элемент.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4172,8 +4172,8 @@ var _skills = {
     },
     "26025": {
         "_id": 26025,
-        "Name": "Stone Facets",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Stone Facets: Elemental Absorption</color>.",
+        "Name": "Каменный облик",
+        "Desc": "(Пассивный) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Каменный облик: Элементальное поглощение</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4185,8 +4185,8 @@ var _skills = {
     },
     "66013": {
         "_id": 66013,
-        "Name": "Frostspike Wave",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Stone Facets: Elemental Crystallization</color>.",
+        "Name": "Волна колючей стужи",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>3</b> ед. У этого персонажа возникает <color style='color:#FFFFFFFF'>Каменный облик: Элементальная кристаллизация</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4200,8 +4200,8 @@ var _skills = {
     },
     "66023": {
         "_id": 66023,
-        "Name": "Torrential Rebuke",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Stone Facets: Elemental Crystallization</color>.",
+        "Name": "Ливень осуждения",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>3</b> ед. У этого персонажа возникает <color style='color:#FFFFFFFF'>Каменный облик: Элементальная кристаллизация</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4215,8 +4215,8 @@ var _skills = {
     },
     "66033": {
         "_id": 66033,
-        "Name": "Blazing Rebuke",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Stone Facets: Elemental Crystallization</color>.",
+        "Name": "Пламя осуждения",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>3</b> ед. У этого персонажа возникает <color style='color:#FFFFFFFF'>Каменный облик: Элементальная кристаллизация</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4230,8 +4230,8 @@ var _skills = {
     },
     "66043": {
         "_id": 66043,
-        "Name": "Thunderstorm Wave",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Stone Facets: Elemental Crystallization</color>.",
+        "Name": "Грозовая волна",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>3</b> ед. У этого персонажа возникает <color style='color:#FFFFFFFF'>Каменный облик: Элементальная кристаллизация</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4245,8 +4245,8 @@ var _skills = {
     },
     "27011": {
         "_id": 27011,
-        "Name": "Majestic Dance",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Танец плесенников",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4259,8 +4259,8 @@ var _skills = {
     },
     "27012": {
         "_id": 27012,
-        "Name": "Volatile Spore Cloud",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "Облако нестабильных спор",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4272,8 +4272,8 @@ var _skills = {
     },
     "27013": {
         "_id": 27013,
-        "Name": "Feather Spreading",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, then consumes all <color style='color:#FFFFFFFF'>Radical Vitality</color> stacks. For each stack consumed, this instance deals +1 DMG.",
+        "Name": "Величественное оперение",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>4</b> ед., затем расходует все уровни <color style='color:#FFFFFFFF'>Сила оживления</color>. За каждый уровень наносит +1 ед. урона.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4288,8 +4288,8 @@ var _skills = {
     },
     "27014": {
         "_id": 27014,
-        "Name": "Radical Vitality",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Radical Vitality</color>.",
+        "Name": "Сила оживления",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Сила оживления</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4301,8 +4301,8 @@ var _skills = {
     },
     "30011": {
         "_id": 30011,
-        "Name": "Hit",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Удар",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4314,8 +4314,8 @@ var _skills = {
     },
     "30012": {
         "_id": 30012,
-        "Name": "Jump and Hit",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Удар в прыжке",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4327,8 +4327,8 @@ var _skills = {
     },
     "30013": {
         "_id": 30013,
-        "Name": "Swing That Club",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Круговой удар",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>4</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4341,8 +4341,8 @@ var _skills = {
     },
     "30021": {
         "_id": 30021,
-        "Name": "Shooting",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Выстрел",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4354,8 +4354,8 @@ var _skills = {
     },
     "30022": {
         "_id": 30022,
-        "Name": "Multishot",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Многострел",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>5</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4368,8 +4368,8 @@ var _skills = {
     },
     "30023": {
         "_id": 30023,
-        "Name": "Hide",
-        "Desc": "(Passive) Switches to the next character after this character uses a Skill.",
+        "Name": "Укрытие",
+        "Desc": "(Пассивный навык) После использования навыка следующий персонаж автоматически станет активным.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4379,8 +4379,8 @@ var _skills = {
     },
     "30031": {
         "_id": 30031,
-        "Name": "Combo Slash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Непрерывный разрез",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4392,8 +4392,8 @@ var _skills = {
     },
     "30032": {
         "_id": 30032,
-        "Name": "Leap Attack",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Рассекающий прыжок",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4405,8 +4405,8 @@ var _skills = {
     },
     "30033": {
         "_id": 30033,
-        "Name": "Iai: Sheathed",
-        "Desc": "<color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Iai: Thrust</color>.",
+        "Name": "Иай: ното",
+        "Desc": "<color style='color:#FFFFFFFF'>Подготовка навыка</color>: <color style='color:#FFFFFFFF'>Иай: разрез</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4419,8 +4419,8 @@ var _skills = {
     },
     "30034": {
         "_id": 30034,
-        "Name": "Iai: Thrust",
-        "Desc": "(Prepare for 2 turns)<br>Deals <b>6</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Иай: разрез",
+        "Desc": "(На подготовку нужно 2 хода)<br>Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>6</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4430,8 +4430,8 @@ var _skills = {
     },
     "30035": {
         "_id": 30035,
-        "Name": "Iai: Breathing",
-        "Desc": "(Prepared for 1 Turn)<br>The next time this character acts, they will use the Skill <color style='color:#FFFFFFFF'>Iai: Thrust</color>.",
+        "Name": "Иай: дыхание",
+        "Desc": "(На подготовку нужен 1 ход)<br>При следующем действии используется навык <color style='color:#FFFFFFFF'>Иай: разрез</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4441,8 +4441,8 @@ var _skills = {
     },
     "30036": {
         "_id": 30036,
-        "Name": "Zanshin",
-        "Desc": "(Passive) End Phase: If this character is the active character, they gain 1 Energy.",
+        "Name": "Жестокое сердце",
+        "Desc": "(Пассивный навык) Финальная фаза: если персонаж является активным, то он получает 1 ед. энергии.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4452,8 +4452,8 @@ var _skills = {
     },
     "30041": {
         "_id": 30041,
-        "Name": "Stern Blow",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Твёрдый удар",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4465,8 +4465,8 @@ var _skills = {
     },
     "30042": {
         "_id": 30042,
-        "Name": "Spiral Close-In",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b> and then separately performs \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>High-Frequency Whirling Assault</color> and <color style='color:#FFFFFFFF'>Hyperspeed Whirling Assault</color>.",
+        "Name": "Спиральное приближение",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>1</b> ед., после чего начинается <color style='color:#FFFFFFFF'>Подготовка навыка</color>: <color style='color:#FFFFFFFF'>Частотный удар</color> и <color style='color:#FFFFFFFF'>Скоростной удар</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4478,8 +4478,8 @@ var _skills = {
     },
     "30043": {
         "_id": 30043,
-        "Name": "Suppressive Volley",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Seeking Missile</color> in the opponent's play area.",
+        "Name": "Залп на подавление",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>4</b> ед. Вызывает <color style='color:#FFFFFFFF'>Снаряд-следопыт</color> в области противника.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4494,8 +4494,8 @@ var _skills = {
     },
     "30044": {
         "_id": 30044,
-        "Name": "Standard Armor",
-        "Desc": "(Passive) The [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> this character receives is halved (Rounded up)",
+        "Name": "Стандартная броня",
+        "Desc": "(Пассивный навык) [b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color>, который получает этот персонаж, снижается вдвое (округляется в большую сторону)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4505,8 +4505,8 @@ var _skills = {
     },
     "30045": {
         "_id": 30045,
-        "Name": "High-Frequency Whirling Assault",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>. Then, perform \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Hyperspeed Whirling Assault</color>.",
+        "Name": "Частотный удар",
+        "Desc": "(На подготовку требуется 1 раунд)<br>Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>1</b> ед., после чего начинается <color style='color:#FFFFFFFF'>Подготовка навыка</color>: <color style='color:#FFFFFFFF'>Скоростной удар</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4516,8 +4516,8 @@ var _skills = {
     },
     "30046": {
         "_id": 30046,
-        "Name": "Hyperspeed Whirling Assault",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>. This character also gains 1 bonus Energy.",
+        "Name": "Скоростной удар",
+        "Desc": "(На подготовку нужен 1 ход)<br>Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>1</b> ед. У персонажа появляется бонусная энергия, 1 ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4527,8 +4527,8 @@ var _skills = {
     },
     "30051": {
         "_id": 30051,
-        "Name": "Close Expulsion",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Недалёкое изгнание",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4540,8 +4540,8 @@ var _skills = {
     },
     "30052": {
         "_id": 30052,
-        "Name": "Sudden Charge",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Внезапный выпад",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4553,8 +4553,8 @@ var _skills = {
     },
     "30053": {
         "_id": 30053,
-        "Name": "Energy Surge",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>. If this character has absorbed Elemental Energy, it will release that element for +1 DMG and change DMG type to the absorbed element.",
+        "Name": "Всплеск энергии",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>5</b> ед. Если этот персонаж поглотил энергию элемента, то элемент будет выпущен, усилив урон на 1 ед. и сменив тип урона на поглощённый элемент.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4567,8 +4567,8 @@ var _skills = {
     },
     "30054": {
         "_id": 30054,
-        "Name": "Standard Armor",
-        "Desc": "(Passive) The [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> this character receives is halved (Rounded up)",
+        "Name": "Стандартная броня",
+        "Desc": "(Пассивный навык) [b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color>, который получает этот персонаж, снижается вдвое (округляется в большую сторону)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4578,8 +4578,8 @@ var _skills = {
     },
     "30055": {
         "_id": 30055,
-        "Name": "Elemental Absorption",
-        "Desc": "(Passive) <color style='color:#FFFFFFFF'>When no element has been absorbed and this character takes Elemental DMG</color>, absorb that element.<br>Halve DMG of that element taken by this character. (Rounded up)",
+        "Name": "Элементальное поглощение",
+        "Desc": "(Пассивный навык) <color style='color:#FFFFFFFF'>Если элементы не были поглощены, а этот персонаж получил элементальный урон</color>, поглощает элемент этого урона.<br>В два раза снижает элементальный урон поглощённого элемента (округляется в большую сторону).",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4589,7 +4589,7 @@ var _skills = {
     },
     "30056": {
         "_id": 30056,
-        "Name": "Elemental Absorption",
+        "Name": "Элементальное поглощение",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -4600,8 +4600,8 @@ var _skills = {
     },
     "30061": {
         "_id": 30061,
-        "Name": "Offensive Shieldstrike",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Наступательный щит",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4613,8 +4613,8 @@ var _skills = {
     },
     "30062": {
         "_id": 30062,
-        "Name": "Double Strike",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Двойной налёт",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4626,8 +4626,8 @@ var _skills = {
     },
     "30063": {
         "_id": 30063,
-        "Name": "Leaping Smash",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Удар с наскока",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>4</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4640,8 +4640,8 @@ var _skills = {
     },
     "30071": {
         "_id": 30071,
-        "Name": "Long-Range Fire",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Одиночный выстрел на расстоянии",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4653,8 +4653,8 @@ var _skills = {
     },
     "30072": {
         "_id": 30072,
-        "Name": "Retreating Fire",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>, switches your character to the next character.",
+        "Name": "Прикрывающий огонь",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>3</b> ед. Принудительно делает активным вашего следующего персонажа.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4666,8 +4666,8 @@ var _skills = {
     },
     "30073": {
         "_id": 30073,
-        "Name": "Burst Fire",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Взрывной выстрел",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>4</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4681,7 +4681,7 @@ var _skills = {
     "31011": {
         "_id": 31011,
         "Name": "Plata Plama",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4695,7 +4695,7 @@ var _skills = {
     "31012": {
         "_id": 31012,
         "Name": "Da Plama",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4708,7 +4708,7 @@ var _skills = {
     "31013": {
         "_id": 31013,
         "Name": "Aba Movo",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>5</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4721,8 +4721,8 @@ var _skills = {
     },
     "31014": {
         "_id": 31014,
-        "Name": "Hoarfrost Greatshield",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Hoarfrost Greatshield</color>.",
+        "Name": "Ледяной щит",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Ледяной щит</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4734,7 +4734,7 @@ var _skills = {
     },
     "31015": {
         "_id": 31015,
-        "Name": "Shattered Shield",
+        "Name": "Разрушитель щитов",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -4745,8 +4745,8 @@ var _skills = {
     },
     "31021": {
         "_id": 31021,
-        "Name": "Ice Arrow",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Крио стрела",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4759,8 +4759,8 @@ var _skills = {
     },
     "31022": {
         "_id": 31022,
-        "Name": "Multishot",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Многострел",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>4</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4773,8 +4773,8 @@ var _skills = {
     },
     "31023": {
         "_id": 31023,
-        "Name": "Hide",
-        "Desc": "(Passive) Switches to the next character after this character attacks.",
+        "Name": "Укрытие",
+        "Desc": "(Пассивный навык) После атаки персонажа, следующий персонаж автоматически станет активным.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4784,8 +4784,8 @@ var _skills = {
     },
     "31031": {
         "_id": 31031,
-        "Name": "Cryo Thorns",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Крио укол",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4798,8 +4798,8 @@ var _skills = {
     },
     "31032": {
         "_id": 31032,
-        "Name": "Frostdrift Offering",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Воздаяние морозу",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4811,8 +4811,8 @@ var _skills = {
     },
     "31033": {
         "_id": 31033,
-        "Name": "Rimestorm Rite",
-        "Desc": "Deals <b>5</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Ритуал морозного вихря",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>5</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4825,8 +4825,8 @@ var _skills = {
     },
     "31034": {
         "_id": 31034,
-        "Name": "Cryo Shield",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Cryo Shield</color>.",
+        "Name": "Крио купол",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Крио купол</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4838,7 +4838,7 @@ var _skills = {
     },
     "31035": {
         "_id": 31035,
-        "Name": "Broken Shield",
+        "Name": "Сломанный щит",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -4849,8 +4849,8 @@ var _skills = {
     },
     "31041": {
         "_id": 31041,
-        "Name": "Close-Range Charge",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Ближнее наступление",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4863,8 +4863,8 @@ var _skills = {
     },
     "31042": {
         "_id": 31042,
-        "Name": "Freezing Spray",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Морозящий спрей",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4876,8 +4876,8 @@ var _skills = {
     },
     "31043": {
         "_id": 31043,
-        "Name": "Frost Cannon",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Cryo Elemental Equipment</color>.",
+        "Name": "Морозная пушка",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>3</b> ед. У персонажа появляется <color style='color:#FFFFFFFF'>Элементальная форма: Крио</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4892,8 +4892,8 @@ var _skills = {
     },
     "31044": {
         "_id": 31044,
-        "Name": "Combat Resupply",
-        "Desc": "(Passive) When the battle begins, this character gains 2 Energy.",
+        "Name": "Военные припасы",
+        "Desc": "(Пассивный навык) В начале битвы персонаж получает 2 ед. энергии.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4903,7 +4903,7 @@ var _skills = {
     },
     "31045": {
         "_id": 31045,
-        "Name": "Shattered Gun",
+        "Name": "Разрушительный заряд",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -4914,8 +4914,8 @@ var _skills = {
     },
     "31051": {
         "_id": 31051,
-        "Name": "Spore Bullet",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Выстрел спорами",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4928,8 +4928,8 @@ var _skills = {
     },
     "31052": {
         "_id": 31052,
-        "Name": "Rolling Spray",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Выстрел-переворот",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4941,8 +4941,8 @@ var _skills = {
     },
     "31053": {
         "_id": 31053,
-        "Name": "Divebomb",
-        "Desc": "Deals <b>5</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Пикирующая бомбардировка",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>5</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4955,8 +4955,8 @@ var _skills = {
     },
     "31054": {
         "_id": 31054,
-        "Name": "State Change",
-        "Desc": "(Passive) When the battle begins, the character will be in the <color style='color:#FFFFFFFF'>Aerial Superiority</color> State.<br>After this character takes [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>, it will become <color style='color:#FFFFFFFF'>Scorched</color>.<br>After this character takes [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>, it will become <color style='color:#FFFFFFFF'>Activated</color>.",
+        "Name": "Смена состояния",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Господство в воздухе</color>.<br>Получив [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>, сменит состояние на <color style='color:#FFFFFFFF'>Обожжение</color>.<br>Получив [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, сменит состояние на <color style='color:#FFFFFFFF'>Оживление</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4970,8 +4970,8 @@ var _skills = {
     },
     "31061": {
         "_id": 31061,
-        "Name": "Double Hack",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Двойной разрез",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4984,8 +4984,8 @@ var _skills = {
     },
     "31062": {
         "_id": 31062,
-        "Name": "Dual-Blade Chop",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Двусторонняя нарезка",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4997,8 +4997,8 @@ var _skills = {
     },
     "31063": {
         "_id": 31063,
-        "Name": "Stalwart Onslaught",
-        "Desc": "This character's <color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Stalwart Onslaught: All-Out Strike</color>.",
+        "Name": "Стойкий натиск",
+        "Desc": "У персонажа начинается <color style='color:#FFFFFFFF'>Подготовка навыка</color>: <color style='color:#FFFFFFFF'>Стойкий натиск: Удар по всем фронтам</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5011,8 +5011,8 @@ var _skills = {
     },
     "31064": {
         "_id": 31064,
-        "Name": "Ominous Spirit Unleashed (Cryo)",
-        "Desc": "(Passive) <color style='color:#FFFFFFFF'>After this character takes DMG:</color> If this character has no more than 7 HP, they gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color> and <color style='color:#FFFFFFFF'>Spirit of Omen's Awakening: Cryo</color> is attached. (Once per Match)",
+        "Name": "Зловещий дух (Крио)",
+        "Desc": "(Пассивный навык)<color style='color:#FFFFFFFF'>Когда этот персонаж получает урон:</color> если у этого персонажа не более 7 HP, ему добавляется 1 <color style='color:#FFFFFFFF'>[b]1110[a]Энергия</color> и <color style='color:#FFFFFFFF'>Пробуждение духа предзнаменования: Крио</color> (только 1 раз за игру).",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5024,8 +5024,8 @@ var _skills = {
     },
     "31065": {
         "_id": 31065,
-        "Name": "Stalwart Onslaught: All-Out Strike",
-        "Desc": "(Prepare for 2 turns)<br>Deals <b>6</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Стойкий натиск: Удар по всем фронтам",
+        "Desc": "(На подготовку нужно 2 хода)<br>Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>6</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5035,8 +5035,8 @@ var _skills = {
     },
     "31066": {
         "_id": 31066,
-        "Name": "Stalwart Onslaught: Charging Stance",
-        "Desc": "(Prepared for 1 Turn)<br>The next time this character acts, they will use the Skill <color style='color:#FFFFFFFF'>Stalwart Onslaught: All-Out Strike</color>.",
+        "Name": "Стойкий натиск: Изготовка",
+        "Desc": "(На подготовку нужен 1 ход)<br>При следующем действии используется навык <color style='color:#FFFFFFFF'>Стойкий натиск: Удар по всем фронтам</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5046,8 +5046,8 @@ var _skills = {
     },
     "31071": {
         "_id": 31071,
-        "Name": "Ram",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Таран",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5060,8 +5060,8 @@ var _skills = {
     },
     "31072": {
         "_id": 31072,
-        "Name": "Jumping Slam",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Шлепок в прыжке",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>4</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5074,8 +5074,8 @@ var _skills = {
     },
     "31073": {
         "_id": 31073,
-        "Name": "Elemental Sedimentation: Cryo",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Elemental Lifeform: Cryo</color>.",
+        "Name": "Скопление элементов: Крио",
+        "Desc": "(Пассивный) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Элементальное существо: Крио</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5087,8 +5087,8 @@ var _skills = {
     },
     "31081": {
         "_id": 31081,
-        "Name": "Bounce",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Прыгучая бомба ЪЪЪ",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5101,8 +5101,8 @@ var _skills = {
     },
     "31082": {
         "_id": 31082,
-        "Name": "Frigid Spray",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Ледяные брызги",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5114,8 +5114,8 @@ var _skills = {
     },
     "31083": {
         "_id": 31083,
-        "Name": "Slam",
-        "Desc": "Deals <b>5</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Сокрушительное падение",
+        "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>5</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5128,8 +5128,8 @@ var _skills = {
     },
     "32011": {
         "_id": 32011,
-        "Name": "Water Ball",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Водяной снаряд",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5142,8 +5142,8 @@ var _skills = {
     },
     "32012": {
         "_id": 32012,
-        "Name": "Bubbling Offering",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Mist Bubble</color>.",
+        "Name": "Воздаяние миражу",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>1</b> ед. Цель получает <color style='color:#FFFFFFFF'>Туманный пузырь</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5157,8 +5157,8 @@ var _skills = {
     },
     "32013": {
         "_id": 32013,
-        "Name": "Rite of Mortal Water",
-        "Desc": "Deals <b>4</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Mist Bubble</color>.",
+        "Name": "Ритуал жизни и смерти",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>4</b> ед. Цель получает <color style='color:#FFFFFFFF'>Туманный пузырь</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5173,8 +5173,8 @@ var _skills = {
     },
     "32014": {
         "_id": 32014,
-        "Name": "Hydro Shield",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Hydro Shield</color>.",
+        "Name": "Гидро купол",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Гидро купол</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5186,7 +5186,7 @@ var _skills = {
     },
     "32015": {
         "_id": 32015,
-        "Name": "Broken Shield",
+        "Name": "Сломанный щит",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -5197,8 +5197,8 @@ var _skills = {
     },
     "32016": {
         "_id": 32016,
-        "Name": "Aegis of the Abyss",
-        "Desc": "(Passive) When the shield is broken, after this character uses a Skill: Restore the <color style='color:#FFFFFFFF'>Hydro Shield</color>.",
+        "Name": "Защита бездны",
+        "Desc": "(Пассивный навык) Когда щит разрушается и персонаж применяет навык: восстанавливает <color style='color:#FFFFFFFF'>Гидро купол</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5210,8 +5210,8 @@ var _skills = {
     },
     "32021": {
         "_id": 32021,
-        "Name": "Staff Strike",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Удар посохом",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5223,8 +5223,8 @@ var _skills = {
     },
     "32022": {
         "_id": 32022,
-        "Name": "Prayer for Rain",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Healing Rain</color>.",
+        "Name": "Молитва о дожде",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>1</b> ед. Призывает помощника: <color style='color:#FFFFFFFF'>Целительный дождь</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5238,8 +5238,8 @@ var _skills = {
     },
     "32023": {
         "_id": 32023,
-        "Name": "Tidal Impact",
-        "Desc": "Deals <b>5</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Водоворотный удар",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>5</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5252,8 +5252,8 @@ var _skills = {
     },
     "32031": {
         "_id": 32031,
-        "Name": "Skilled Charge",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Искусный удар",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5266,8 +5266,8 @@ var _skills = {
     },
     "32032": {
         "_id": 32032,
-        "Name": "Curative Bullet",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, heals 2 of friendly characters on standby for 1 HP.",
+        "Name": "Целительная бомба",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>2</b> ед. Восстанавливает 1 HP у 2 неактивных персонажей.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5279,8 +5279,8 @@ var _skills = {
     },
     "32033": {
         "_id": 32033,
-        "Name": "Elemental Buff: Hydro",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Hydro Elemental Equipment</color>.",
+        "Name": "Элементальное улучшение: Гидро",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>3</b> ед. Персонаж получает <color style='color:#FFFFFFFF'>Элементальная форма: Гидро</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5295,8 +5295,8 @@ var _skills = {
     },
     "32034": {
         "_id": 32034,
-        "Name": "Combat Resupply",
-        "Desc": "(Passive) When the battle begins, this character gains 2 Energy.",
+        "Name": "Военные припасы",
+        "Desc": "(Пассивный навык) В начале битвы персонаж получает 2 ед. энергии.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5306,7 +5306,7 @@ var _skills = {
     },
     "32035": {
         "_id": 32035,
-        "Name": "Shattered Gun",
+        "Name": "Разрушитель брони",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -5317,8 +5317,8 @@ var _skills = {
     },
     "32041": {
         "_id": 32041,
-        "Name": "Bounce",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Прыгучая бомба",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5331,8 +5331,8 @@ var _skills = {
     },
     "32042": {
         "_id": 32042,
-        "Name": "Slam",
-        "Desc": "Deals <b>4</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Сокрушительное падение",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>4</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5345,8 +5345,8 @@ var _skills = {
     },
     "32043": {
         "_id": 32043,
-        "Name": "Elemental Sedimentation: Hydro",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Elemental Lifeform: Hydro</color>.",
+        "Name": "Скопление элементов: Гидро",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Элементальные существа: Гидро</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5358,8 +5358,8 @@ var _skills = {
     },
     "32051": {
         "_id": 32051,
-        "Name": "Spore Bullet",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Выстрел спорами",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5372,8 +5372,8 @@ var _skills = {
     },
     "32052": {
         "_id": 32052,
-        "Name": "Raging Breath",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Неистовый вздох",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5385,8 +5385,8 @@ var _skills = {
     },
     "32053": {
         "_id": 32053,
-        "Name": "Charging Blast",
-        "Desc": "Deals <b>5</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Пробивающий взрыв",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>5</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5399,8 +5399,8 @@ var _skills = {
     },
     "32054": {
         "_id": 32054,
-        "Name": "State Change",
-        "Desc": "(Passive) When the battle begins, the character will be in the <color style='color:#FFFFFFFF'>Terrain Advantage</color> State.<br>After this character takes [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>, it will become <color style='color:#FFFFFFFF'>Scorched</color>.<br>After this character takes [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>, it will become <color style='color:#FFFFFFFF'>Activated</color>.",
+        "Name": "Смена состояния",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Преимущество на земле</color>.<br>Получив [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>, сменит состояние на <color style='color:#FFFFFFFF'>Обожжение</color>.<br>Получив [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, сменит состояние на <color style='color:#FFFFFFFF'>Оживление</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5414,8 +5414,8 @@ var _skills = {
     },
     "32061": {
         "_id": 32061,
-        "Name": "Agile Thrust",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Ловкий выпад",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5428,8 +5428,8 @@ var _skills = {
     },
     "32062": {
         "_id": 32062,
-        "Name": "Blitz Strike",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Стремительный удар",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5441,8 +5441,8 @@ var _skills = {
     },
     "32063": {
         "_id": 32063,
-        "Name": "Whirling Lashes",
-        "Desc": "This character performs \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Whirling Lashes: First Strike</color> and <color style='color:#FFFFFFFF'>Whirling Lashes: Fixed Pattern</color> separately.",
+        "Name": "Вихрь плетей",
+        "Desc": "У персонажа происходит <color style='color:#FFFFFFFF'>Подготовка навыка</color> навыков <color style='color:#FFFFFFFF'>Вихрь плетей: Первый удар</color> и <color style='color:#FFFFFFFF'>Вихрь плетей: Стойкий пример</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5455,8 +5455,8 @@ var _skills = {
     },
     "32064": {
         "_id": 32064,
-        "Name": "Ominous Spirit Unleashed (Hydro)",
-        "Desc": "(Passive) <color style='color:#FFFFFFFF'>After this character takes DMG:</color> If this character has no more than 7 HP, they gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color> and <color style='color:#FFFFFFFF'>Spirit of Omen's Awakening: Hydro</color> is attached. (Once per Match)",
+        "Name": "Зловещий дух (Гидро)",
+        "Desc": "(Пассивный навык)<color style='color:#FFFFFFFF'>Когда этот персонаж получает урон:</color> если у этого персонажа не более 7 HP, ему добавляется 1 <color style='color:#FFFFFFFF'>[b]1110[a]Энергия</color> и <color style='color:#FFFFFFFF'>Пробуждение духа предзнаменования: Гидро</color> (только 1 раз за игру).",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5468,8 +5468,8 @@ var _skills = {
     },
     "32065": {
         "_id": 32065,
-        "Name": "Whirling Lashes: First Strike",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>. Then, perform \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Whirling Lashes: Fixed Pattern</color>.",
+        "Name": "Вихрь плетей: Первый удар",
+        "Desc": "(На подготовку требуется 1 раунд)<br>Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед., после чего начинается <color style='color:#FFFFFFFF'>Подготовка навыка</color>: <color style='color:#FFFFFFFF'>Вихрь плетей: Стойкий пример</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5479,8 +5479,8 @@ var _skills = {
     },
     "32066": {
         "_id": 32066,
-        "Name": "Whirling Lashes: Fixed Pattern",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Вихрь плетей: Стойкий пример",
+        "Desc": "(На подготовку нужен 1 ход)<br>Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5490,8 +5490,8 @@ var _skills = {
     },
     "32071": {
         "_id": 32071,
-        "Name": "Ram",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Таран",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5504,8 +5504,8 @@ var _skills = {
     },
     "32072": {
         "_id": 32072,
-        "Name": "Bubble Spray",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Gurgling Bubble</color>.",
+        "Name": "Пузыристый спрей",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>2</b> ед. Цель получает <color style='color:#FFFFFFFF'>Булькающий пузырь</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5519,8 +5519,8 @@ var _skills = {
     },
     "32073": {
         "_id": 32073,
-        "Name": "Jumping Slam",
-        "Desc": "Deals <b>5</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Шлепок в прыжке",
+        "Desc": "Наносит <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color></color></b>, <b>5</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5533,8 +5533,8 @@ var _skills = {
     },
     "33011": {
         "_id": 33011,
-        "Name": "Flamewave",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Огненная волна",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5547,8 +5547,8 @@ var _skills = {
     },
     "33012": {
         "_id": 33012,
-        "Name": "Blazing Visage",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Воздаяние огню",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5560,8 +5560,8 @@ var _skills = {
     },
     "33013": {
         "_id": 33013,
-        "Name": "Rite of the Molten Eruption",
-        "Desc": "Deals <b>7</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Ритуал огненного фонтана",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>7</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5574,8 +5574,8 @@ var _skills = {
     },
     "33014": {
         "_id": 33014,
-        "Name": "Pyro Shield",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Pyro Shield</color>.",
+        "Name": "Пиро купол",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Пиро купол</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5587,7 +5587,7 @@ var _skills = {
     },
     "33015": {
         "_id": 33015,
-        "Name": "Broken Shield",
+        "Name": "Сломанный щит",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -5598,8 +5598,8 @@ var _skills = {
     },
     "33016": {
         "_id": 33016,
-        "Name": "Aegis of the Abyss",
-        "Desc": "(Passive) When the shield is broken, after this character uses a Skill: Restore the <color style='color:#FFFFFFFF'>Pyro Shield</color>.",
+        "Name": "Защита бездны",
+        "Desc": "(Пассивный навык) Когда щит разрушается и персонаж применяет навык: восстанавливает <color style='color:#FFFFFFFF'>Пиро купол</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5612,7 +5612,7 @@ var _skills = {
     "33021": {
         "_id": 33021,
         "Name": "Du Plama",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5626,7 +5626,7 @@ var _skills = {
     "33022": {
         "_id": 33022,
         "Name": "Upa",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5639,7 +5639,7 @@ var _skills = {
     "33023": {
         "_id": 33023,
         "Name": "Oto Tiga",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>5</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5652,8 +5652,8 @@ var _skills = {
     },
     "33024": {
         "_id": 33024,
-        "Name": "Flowfire Edge",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Flowfire Edge</color>.",
+        "Name": "Остриё пламени",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Остриё пламени</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5665,8 +5665,8 @@ var _skills = {
     },
     "33031": {
         "_id": 33031,
-        "Name": "Three Point Slash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Тройной разрез",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5679,8 +5679,8 @@ var _skills = {
     },
     "33032": {
         "_id": 33032,
-        "Name": "Leaping Strike",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Рассекающий прыжок",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5692,8 +5692,8 @@ var _skills = {
     },
     "33033": {
         "_id": 33033,
-        "Name": "Iai: Sheathed",
-        "Desc": "<color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Iai: Fiery Wind</color>.",
+        "Name": "Иай: ното",
+        "Desc": "<color style='color:#FFFFFFFF'>Подготовка навыка</color>: <color style='color:#FFFFFFFF'>Иай: огненный вихрь</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5706,8 +5706,8 @@ var _skills = {
     },
     "33034": {
         "_id": 33034,
-        "Name": "Kamuna Talisman: Pyro",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Kamuna Talisman: Pyro</color>.",
+        "Name": "Амулет Камуны: Пламя",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Амулет Камуны: Пламя</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5719,8 +5719,8 @@ var _skills = {
     },
     "33035": {
         "_id": 33035,
-        "Name": "Final Frenzy",
-        "Desc": "When another of your Kairagi characters gets defeated, this character gains <color style='color:#FFFFFFFF'>Final Frenzy</color>.",
+        "Name": "Финальная лихорадка",
+        "Desc": "Когда другой ваш кайраги оказывается повержен, у персонажа добавляется <color style='color:#FFFFFFFF'>Финальная лихорадка</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5732,8 +5732,8 @@ var _skills = {
     },
     "33036": {
         "_id": 33036,
-        "Name": "Iai: Fiery Wind",
-        "Desc": "(Prepare for 2 turns)<br>Deals <b>6</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Иай: огненный вихрь",
+        "Desc": "(На подготовку нужно 2 хода)<br>Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>6</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5743,8 +5743,8 @@ var _skills = {
     },
     "33037": {
         "_id": 33037,
-        "Name": "Iai: Breathing",
-        "Desc": "(Prepared for 1 Turn)<br>The next time this character acts, they will use the Skill <color style='color:#FFFFFFFF'>Iai: Fiery Wind</color>.",
+        "Name": "Иай: дыхание",
+        "Desc": "(На подготовку нужен 1 ход)<br>При следующем действии этого персонажа используется навык <color style='color:#FFFFFFFF'>Иай: огненный вихрь</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5754,8 +5754,8 @@ var _skills = {
     },
     "33041": {
         "_id": 33041,
-        "Name": "Torch Strike",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Бросок факела",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5768,8 +5768,8 @@ var _skills = {
     },
     "33042": {
         "_id": 33042,
-        "Name": "Hit and Run",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Бей и беги",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5781,8 +5781,8 @@ var _skills = {
     },
     "33043": {
         "_id": 33043,
-        "Name": "Scorching Combo",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Факельное комбо",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>4</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5795,8 +5795,8 @@ var _skills = {
     },
     "33051": {
         "_id": 33051,
-        "Name": "Combo Slash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Непрерывный разрез",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5809,8 +5809,8 @@ var _skills = {
     },
     "33052": {
         "_id": 33052,
-        "Name": "Blaze Bloom",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, switches your character to the next character.",
+        "Name": "Дымная хлопушка",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>3</b> ед. Принудительно делает активным вашего следующего персонажа.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5822,8 +5822,8 @@ var _skills = {
     },
     "33061": {
         "_id": 33061,
-        "Name": "Single-Shot Bullet",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Одиночный выстрел",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5836,8 +5836,8 @@ var _skills = {
     },
     "33062": {
         "_id": 33062,
-        "Name": "Burning Barrage",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Огненный шквал",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5849,8 +5849,8 @@ var _skills = {
     },
     "33063": {
         "_id": 33063,
-        "Name": "Flaming Cannon",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Pyro Elemental Equipment</color>.",
+        "Name": "Палящая пушка",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>3</b> ед. У персонажа возникает <color style='color:#FFFFFFFF'>Элементальная форма: Пиро</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5865,8 +5865,8 @@ var _skills = {
     },
     "33064": {
         "_id": 33064,
-        "Name": "Combat Resupply",
-        "Desc": "(Passive) When the battle begins, this character gains 2 Energy.",
+        "Name": "Военные припасы",
+        "Desc": "(Пассивный навык) В начале битвы персонаж получает 2 ед. энергии.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5876,7 +5876,7 @@ var _skills = {
     },
     "33065": {
         "_id": 33065,
-        "Name": "Shattered Gun",
+        "Name": "Разрушительный заряд",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -5887,8 +5887,8 @@ var _skills = {
     },
     "33071": {
         "_id": 33071,
-        "Name": "Up-Close Pummelling",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Ближняя потасовка",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5901,8 +5901,8 @@ var _skills = {
     },
     "33072": {
         "_id": 33072,
-        "Name": "Multi-Smash",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b> and performs \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Tracking Truncheon</color>.",
+        "Name": "Мульти-побоище",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>1</b> ед., после чего начинается <color style='color:#FFFFFFFF'>Подготовка навыка</color>: <color style='color:#FFFFFFFF'>Ведущая дубинка</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5914,8 +5914,8 @@ var _skills = {
     },
     "33073": {
         "_id": 33073,
-        "Name": "Sprinting Strike",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Спринт-удар",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>5</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5928,8 +5928,8 @@ var _skills = {
     },
     "33074": {
         "_id": 33074,
-        "Name": "Arkhe: Pneuma",
-        "Desc": "<color style='color:#FFFFFFFF'>After being damaged by characters with \"[b]3504[a]Arkhe: Ousia,\"</color> this character will become <color style='color:#FFFFFFFF'>Deactivated</color>, and <color style='color:#FFFFFFFF'>cannot use skills</color> until this Round ends.",
+        "Name": "Энергетическое свойство: пневма",
+        "Desc": "<color style='color:#FFFFFFFF'>Получив урон от персонажа с [b]3504[a]архэ: усия,</color> этот персонаж получает состояние «<color style='color:#FFFFFFFF'>Деактивировано</color>» и <color style='color:#FFFFFFFF'>не может использовать навыки</color> до конца раунда.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5939,8 +5939,8 @@ var _skills = {
     },
     "33075": {
         "_id": 33075,
-        "Name": "Tracking Truncheon",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Ведущая дубинка",
+        "Desc": "(На подготовку нужен 1 ход)<br>Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5950,8 +5950,8 @@ var _skills = {
     },
     "33081": {
         "_id": 33081,
-        "Name": "Short-Range Snap Fire",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Ближний одиночный огонь",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5964,8 +5964,8 @@ var _skills = {
     },
     "33082": {
         "_id": 33082,
-        "Name": "Spread Fire",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, deals <color style='color:#FFFFFFFF'>1 <color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby.",
+        "Name": "Огонь по площади",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>1</b> ед., наносит <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Проникающий урон</color>, 1 ед.</color> всем неактивным персонажам противника.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5977,8 +5977,8 @@ var _skills = {
     },
     "33083": {
         "_id": 33083,
-        "Name": "Combined Fire",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b> and then separately performs \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Combined Fire: Light Barrage</color> and <color style='color:#FFFFFFFF'>Combined Fire: Piercing Salvo</color>.",
+        "Name": "Комбинированная стрельба",
+        "Desc": "Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>2</b> ед., после чего начинается <color style='color:#FFFFFFFF'>Подготовка навыка</color>: <color style='color:#FFFFFFFF'>Комбинированная стрельба: Лёгкое заграждение</color> и <color style='color:#FFFFFFFF'>Комбинированная стрельба: Бронебойный снаряд</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5991,8 +5991,8 @@ var _skills = {
     },
     "33084": {
         "_id": 33084,
-        "Name": "Arkhe: Ousia",
-        "Desc": "<color style='color:#FFFFFFFF'>After being damaged by characters with \"[b]3505[a]Arkhe: Pneuma,\"</color> this character will become <color style='color:#FFFFFFFF'>Deactivated</color>, and <color style='color:#FFFFFFFF'>cannot use skills</color> until this Round ends.",
+        "Name": "Энергетическое свойство: усия",
+        "Desc": "<color style='color:#FFFFFFFF'>Получив урон от персонажа с [b]3505[a]архэ: пневма,</color> этот персонаж получает состояние «<color style='color:#FFFFFFFF'>Деактивировано</color>» и <color style='color:#FFFFFFFF'>не может использовать навыки</color> до конца раунда.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6002,8 +6002,8 @@ var _skills = {
     },
     "33085": {
         "_id": 33085,
-        "Name": "Combined Fire: Light Barrage",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. Then, perform \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Combined Fire: Piercing Salvo</color>.",
+        "Name": "Комбинированная стрельба: Лёгкое заграждение",
+        "Desc": "(На подготовку требуется 1 раунд)<br>Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>2</b> ед., после чего начинается <color style='color:#FFFFFFFF'>Подготовка навыка</color>: <color style='color:#FFFFFFFF'>Комбинированная стрельба: Бронебойный снаряд</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6013,8 +6013,8 @@ var _skills = {
     },
     "33086": {
         "_id": 33086,
-        "Name": "Combined Fire: Piercing Salvo",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Комбинированная стрельба: Бронебойный снаряд",
+        "Desc": "(На подготовку нужен 1 ход)<br>Наносит <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6024,8 +6024,8 @@ var _skills = {
     },
     "34011": {
         "_id": 34011,
-        "Name": "Three Point Slash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Тройной разрез",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6038,8 +6038,8 @@ var _skills = {
     },
     "34012": {
         "_id": 34012,
-        "Name": "Leaping Strike",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Рассекающий прыжок",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6051,8 +6051,8 @@ var _skills = {
     },
     "34013": {
         "_id": 34013,
-        "Name": "Iai: Sheathed",
-        "Desc": "<color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Iai: Stormbreath</color>.",
+        "Name": "Иай: ното",
+        "Desc": "<color style='color:#FFFFFFFF'>Подготовка навыка</color>: <color style='color:#FFFFFFFF'>Иай: дыхание шторма</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6065,8 +6065,8 @@ var _skills = {
     },
     "34014": {
         "_id": 34014,
-        "Name": "Kamuna Talisman: Electro",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Kamuna Talisman: Electro</color>.",
+        "Name": "Амулет Камуны: Электро",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Амулет Камуны: Электро</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6078,8 +6078,8 @@ var _skills = {
     },
     "34015": {
         "_id": 34015,
-        "Name": "Final Frenzy",
-        "Desc": "When another of your Kairagi characters gets defeated, this character gains <color style='color:#FFFFFFFF'>Final Frenzy</color>.",
+        "Name": "Финальная лихорадка",
+        "Desc": "Когда другой ваш кайраги оказывается повержен, у персонажа добавляется <color style='color:#FFFFFFFF'>Финальная лихорадка</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6091,8 +6091,8 @@ var _skills = {
     },
     "34016": {
         "_id": 34016,
-        "Name": "Iai: Stormbreath",
-        "Desc": "(Prepare for 2 turns)<br>Deals <b>6</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Иай: дыхание шторма",
+        "Desc": "(На подготовку нужно 2 хода)<br>Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>6</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6102,8 +6102,8 @@ var _skills = {
     },
     "34017": {
         "_id": 34017,
-        "Name": "Iai: Breathing",
-        "Desc": "(Prepared for 1 Turn)<br>The next time this character acts, they will use the Skill <color style='color:#FFFFFFFF'>Iai: Stormbreath</color>.",
+        "Name": "Иай: дыхание",
+        "Desc": "(На подготовку нужен 1 ход)<br>При следующем действии этого персонажа используется навык <color style='color:#FFFFFFFF'>Иай: дыхание шторма</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6113,8 +6113,8 @@ var _skills = {
     },
     "34021": {
         "_id": 34021,
-        "Name": "Thunder Arrow",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Электро стрела",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6127,8 +6127,8 @@ var _skills = {
     },
     "34022": {
         "_id": 34022,
-        "Name": "Multishot",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Многострел",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>4</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6141,8 +6141,8 @@ var _skills = {
     },
     "34023": {
         "_id": 34023,
-        "Name": "Hide",
-        "Desc": "(Passive) Switches to the next character after this character attacks.",
+        "Name": "Укрытие",
+        "Desc": "(Пассивный навык) После атаки персонажа, следующий персонаж автоматически станет активным.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6153,7 +6153,7 @@ var _skills = {
     "34031": {
         "_id": 34031,
         "Name": "Du Plama",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6167,7 +6167,7 @@ var _skills = {
     "34032": {
         "_id": 34032,
         "Name": "Upa",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6180,7 +6180,7 @@ var _skills = {
     "34033": {
         "_id": 34033,
         "Name": "Oto Tiga",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>5</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6193,8 +6193,8 @@ var _skills = {
     },
     "34034": {
         "_id": 34034,
-        "Name": "Ripple Electro Edge",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Ripple Electro Edge</color>.",
+        "Name": "Пылающий топор Электро",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Пылающий топор Электро</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6206,8 +6206,8 @@ var _skills = {
     },
     "34041": {
         "_id": 34041,
-        "Name": "Thunderbolt",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Электробомба",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6220,8 +6220,8 @@ var _skills = {
     },
     "34042": {
         "_id": 34042,
-        "Name": "Lingering Light",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Tanglebolt Ring</color>.",
+        "Name": "Воздаяние свету",
+        "Desc": "Призывает 1 помощника: <color style='color:#FFFFFFFF'>Кольцо молний</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6235,8 +6235,8 @@ var _skills = {
     },
     "34043": {
         "_id": 34043,
-        "Name": "Rite of Rolling Thunder",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Tanglebolt Ring</color>.",
+        "Name": "Ритуал раскатов грома",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>4</b> ед. и призывает помощника: <color style='color:#FFFFFFFF'>Кольцо молний</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6251,8 +6251,8 @@ var _skills = {
     },
     "34044": {
         "_id": 34044,
-        "Name": "Electro Shield",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Electro Shield</color>.",
+        "Name": "Электро купол",
+        "Desc": "(Пассивный) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Электро купол</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6264,7 +6264,7 @@ var _skills = {
     },
     "34045": {
         "_id": 34045,
-        "Name": "Broken Shield",
+        "Name": "Сломанный щит",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -6275,8 +6275,8 @@ var _skills = {
     },
     "34051": {
         "_id": 34051,
-        "Name": "Combo Slash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Непрерывный разрез",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6289,8 +6289,8 @@ var _skills = {
     },
     "34052": {
         "_id": 34052,
-        "Name": "Mechanical Thunderbow",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Механический громолук",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6302,8 +6302,8 @@ var _skills = {
     },
     "34061": {
         "_id": 34061,
-        "Name": "Bounce",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Прыгучая бомба",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6316,8 +6316,8 @@ var _skills = {
     },
     "34062": {
         "_id": 34062,
-        "Name": "Slam",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Сокрушительное падение",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>4</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6330,8 +6330,8 @@ var _skills = {
     },
     "34063": {
         "_id": 34063,
-        "Name": "Elemental Sedimentation: Electro",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Elemental Lifeform: Electro</color>.",
+        "Name": "Скопление элементов: Электро",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Элементальные существа: Электро</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6343,8 +6343,8 @@ var _skills = {
     },
     "34071": {
         "_id": 34071,
-        "Name": "Rapid Hammer Strike",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Быстрый удар молота",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6357,8 +6357,8 @@ var _skills = {
     },
     "34072": {
         "_id": 34072,
-        "Name": "Raging Charge",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Бешеный заряд",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6370,8 +6370,8 @@ var _skills = {
     },
     "34073": {
         "_id": 34073,
-        "Name": "Thunderblast Hammer",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Electro Elemental Equipment</color>.",
+        "Name": "Громовой молот",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>3</b> ед. У персонажа возникает <color style='color:#FFFFFFFF'>Элементальная форма: Электро</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6386,8 +6386,8 @@ var _skills = {
     },
     "34074": {
         "_id": 34074,
-        "Name": "Combat Resupply",
-        "Desc": "(Passive) When the battle begins, this character gains 2 Energy.",
+        "Name": "Военные припасы",
+        "Desc": "(Пассивный навык) В начале битвы персонаж получает 2 ед. энергии.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6397,7 +6397,7 @@ var _skills = {
     },
     "34075": {
         "_id": 34075,
-        "Name": "Shattered Gun",
+        "Name": "Разрушительный заряд",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -6408,8 +6408,8 @@ var _skills = {
     },
     "34081": {
         "_id": 34081,
-        "Name": "Rapid Melee",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Схватка на ножах",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6422,8 +6422,8 @@ var _skills = {
     },
     "34082": {
         "_id": 34082,
-        "Name": "Shield Riposte",
-        "Desc": "This character gains a <color style='color:#FFFFFFFF'>Shield Block</color>. <color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Shield Slice</color>.",
+        "Name": "Ответ щитом",
+        "Desc": "У персонажа добавляется <color style='color:#FFFFFFFF'>Блок щита</color>. Начинается <color style='color:#FFFFFFFF'>Подготовка навыка</color>: <color style='color:#FFFFFFFF'>Разрез щитом</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6437,8 +6437,8 @@ var _skills = {
     },
     "34083": {
         "_id": 34083,
-        "Name": "Shield Sweep",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, deals 2 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby.",
+        "Name": "Взмах щитом",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>2</b> ед., наносит <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Проникающий урон</color>, 2 ед.</color>, всем неактивным персонажам противника.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6451,8 +6451,8 @@ var _skills = {
     },
     "34084": {
         "_id": 34084,
-        "Name": "Arkhe: Ousia",
-        "Desc": "<color style='color:#FFFFFFFF'>After being damaged by characters with \"[b]3505[a]Arkhe: Pneuma,\"</color> this character will become <color style='color:#FFFFFFFF'>Deactivated</color>, and <color style='color:#FFFFFFFF'>cannot use skills</color> until this Round ends.",
+        "Name": "Энергетическое свойство: усия",
+        "Desc": "<color style='color:#FFFFFFFF'>Получив урон от персонажа с [b]3505[a]архэ: пневма,</color> этот персонаж получает состояние «<color style='color:#FFFFFFFF'>Деактивировано</color>» и <color style='color:#FFFFFFFF'>не может использовать навыки</color> до конца раунда.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6462,8 +6462,8 @@ var _skills = {
     },
     "34085": {
         "_id": 34085,
-        "Name": "Shield Slice",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Разрез щитом",
+        "Desc": "(На подготовку нужен 1 ход)<br>Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6473,8 +6473,8 @@ var _skills = {
     },
     "34091": {
         "_id": 34091,
-        "Name": "Cankering Claws",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Corrosion</color> on the opponent's side of the field.",
+        "Name": "Губительные когти",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>1</b> ед. Вызывает <color style='color:#FFFFFFFF'>Разложение</color> у противника.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6489,8 +6489,8 @@ var _skills = {
     },
     "34092": {
         "_id": 34092,
-        "Name": "Corrosive Electro Crystal",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Corrosion</color> on the opponent's side of the field.",
+        "Name": "Губительный Электро кристалл",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>2</b> ед. Вызывает <color style='color:#FFFFFFFF'>Разложение</color> у противника.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6504,8 +6504,8 @@ var _skills = {
     },
     "34093": {
         "_id": 34093,
-        "Name": "Devouring Bite",
-        "Desc": "Deals <b>6</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Corrosion</color> on the opponent's side of the field.",
+        "Name": "Укус Пожирателя ЪЪЪ",
+        "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>6</b> ед. Вызывает <color style='color:#FFFFFFFF'>Разложение</color> у противника.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6520,8 +6520,8 @@ var _skills = {
     },
     "34094": {
         "_id": 34094,
-        "Name": "Elemental Devourer",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Elemental Devourer</color>.",
+        "Name": "Пожиратель элементов",
+        "Desc": "(Пассивный) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Пожиратель элементов</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6533,8 +6533,8 @@ var _skills = {
     },
     "35011": {
         "_id": 35011,
-        "Name": "Staff Strike",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Удар посохом",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6546,8 +6546,8 @@ var _skills = {
     },
     "35012": {
         "_id": 35012,
-        "Name": "Prayer to the Winds",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Whirlwind</color>.",
+        "Name": "Молитва ветру",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>2</b> ед. Призывает помощника: <color style='color:#FFFFFFFF'>Торнадо</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6561,8 +6561,8 @@ var _skills = {
     },
     "35013": {
         "_id": 35013,
-        "Name": "Galeforce Shock",
-        "Desc": "Deals <b>5</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>.",
+        "Name": "Удар циклона",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>5</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6575,8 +6575,8 @@ var _skills = {
     },
     "35021": {
         "_id": 35021,
-        "Name": "Hurricane Jab",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Ураганный удар",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6589,8 +6589,8 @@ var _skills = {
     },
     "35022": {
         "_id": 35022,
-        "Name": "Gathering the Winds",
-        "Desc": "This character gains a <color style='color:#FFFFFFFF'>Stormwind Barrier</color>. <color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Avenging Squall</color>.",
+        "Name": "Ветряной заряд",
+        "Desc": "У персонажа добавляются <color style='color:#FFFFFFFF'>Буревой заслон</color>. <color style='color:#FFFFFFFF'>Подготовка навыка</color>: <color style='color:#FFFFFFFF'>Против ветра</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6604,8 +6604,8 @@ var _skills = {
     },
     "35023": {
         "_id": 35023,
-        "Name": "Galeforce Agitation",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>. All of your other Fatui characters gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.",
+        "Name": "Ураганное движение",
+        "Desc": "Наносит <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color></color></b>, <b>3</b> ед., <color style='color:#FFFFFFFF'>[b]1110[a]Энергия</color> всех ваших Фатуи +1.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6618,7 +6618,7 @@ var _skills = {
     },
     "35024": {
         "_id": 35024,
-        "Name": "Stormwind Barrier",
+        "Name": "Буревой заслон",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -6629,8 +6629,8 @@ var _skills = {
     },
     "35025": {
         "_id": 35025,
-        "Name": "Avenging Squall",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Против ветра",
+        "Desc": "(На подготовку нужно 1 ход)<br>Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6641,7 +6641,7 @@ var _skills = {
     "36011": {
         "_id": 36011,
         "Name": "Plata Plama",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6655,7 +6655,7 @@ var _skills = {
     "36012": {
         "_id": 36012,
         "Name": "Da Plama",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6668,7 +6668,7 @@ var _skills = {
     "36013": {
         "_id": 36013,
         "Name": "Aba Movo",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>5</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6681,8 +6681,8 @@ var _skills = {
     },
     "36014": {
         "_id": 36014,
-        "Name": "Craggy Greatshield",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Craggy Greatshield</color>.",
+        "Name": "Каменный щит",
+        "Desc": "(Пассивный) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Каменный щит</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6694,8 +6694,8 @@ var _skills = {
     },
     "36021": {
         "_id": 36021,
-        "Name": "Corrosive Claws",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Corrosion</color> at the opponent's play area.",
+        "Name": "Разлагающиеся когти",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>1</b> ед. Вызывает <color style='color:#FFFFFFFF'>Разложение</color> у противника.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6710,8 +6710,8 @@ var _skills = {
     },
     "36022": {
         "_id": 36022,
-        "Name": "Crystal Cracker",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Corrosion</color> at the opponent's play area.",
+        "Name": "Расщепление кристалла",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>2</b> ед. Вызывает <color style='color:#FFFFFFFF'>Разложение</color> у противника.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6725,8 +6725,8 @@ var _skills = {
     },
     "36023": {
         "_id": 36023,
-        "Name": "Pursuer's Mark",
-        "Desc": "Deals <b>6</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Corrosion</color> at the opponent's play area.",
+        "Name": "Охотничья метка",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>6</b> ед. Вызывает <color style='color:#FFFFFFFF'>Разложение</color> у противника.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6741,8 +6741,8 @@ var _skills = {
     },
     "36024": {
         "_id": 36024,
-        "Name": "Elemental Devourer",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Elemental Devourer</color>.",
+        "Name": "Пожиратель элементов",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Пожиратель элементов</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6754,8 +6754,8 @@ var _skills = {
     },
     "36031": {
         "_id": 36031,
-        "Name": "Staff Strike",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Удар посохом",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6767,8 +6767,8 @@ var _skills = {
     },
     "36032": {
         "_id": 36032,
-        "Name": "Summoning of Stones",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Rocky Pedestal</color>.",
+        "Name": "Призыв камней",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>2</b> ед. и создаёт <color style='color:#FFFFFFFF'>Скалистый пьедестал</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6782,8 +6782,8 @@ var _skills = {
     },
     "36033": {
         "_id": 36033,
-        "Name": "Shockwave Smash",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "Разрушительная волна",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>5</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6796,8 +6796,8 @@ var _skills = {
     },
     "36041": {
         "_id": 36041,
-        "Name": "Rock Projectile",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "Каменный снаряд",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6810,8 +6810,8 @@ var _skills = {
     },
     "36042": {
         "_id": 36042,
-        "Name": "Geocrystal Beam",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "Геокристаллический луч",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6823,8 +6823,8 @@ var _skills = {
     },
     "36043": {
         "_id": 36043,
-        "Name": "Staff of Geo",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Geo Elemental Equipment</color>, creating 1 <color style='color:#FFFFFFFF'>Crystal Shield</color>.",
+        "Name": "Гео-посох",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>3</b> ед., персонаж получает <color style='color:#FFFFFFFF'>Элементальная форма: Гео</color> и создаёт <color style='color:#FFFFFFFF'>Кристаллический купол</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6840,8 +6840,8 @@ var _skills = {
     },
     "36044": {
         "_id": 36044,
-        "Name": "Combat Resupply",
-        "Desc": "(Passive) When the battle begins, this character gains 2 Energy.",
+        "Name": "Военные припасы",
+        "Desc": "(Пассивный навык) В начале битвы персонаж получает 2 ед. энергии.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6851,8 +6851,8 @@ var _skills = {
     },
     "36051": {
         "_id": 36051,
-        "Name": "Spore Bullet",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "Выстрел спорами",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6865,8 +6865,8 @@ var _skills = {
     },
     "36052": {
         "_id": 36052,
-        "Name": "Raging Breath",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "Неистовый вздох",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6878,8 +6878,8 @@ var _skills = {
     },
     "36053": {
         "_id": 36053,
-        "Name": "Charging Blast",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "Пробивающий взрыв",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>5</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6892,8 +6892,8 @@ var _skills = {
     },
     "36054": {
         "_id": 36054,
-        "Name": "State Change",
-        "Desc": "(Passive) When the battle begins, the character will be in the <color style='color:#FFFFFFFF'>Terrain Advantage</color> State.<br>After this character takes [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>, it will become <color style='color:#FFFFFFFF'>Scorched</color>.<br>After this character takes [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>, it will become <color style='color:#FFFFFFFF'>Activated</color>.",
+        "Name": "Смена состояния",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Преимущество на земле</color>.<br>Получив [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>, сменит состояние на <color style='color:#FFFFFFFF'>Обожжение</color>.<br>Получив [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, сменит состояние на <color style='color:#FFFFFFFF'>Оживление</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6907,8 +6907,8 @@ var _skills = {
     },
     "36061": {
         "_id": 36061,
-        "Name": "Triple Geosmash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Тройной камнепад",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6921,8 +6921,8 @@ var _skills = {
     },
     "36062": {
         "_id": 36062,
-        "Name": "Splitrock Slam",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "Скала пополам",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6934,8 +6934,8 @@ var _skills = {
     },
     "36063": {
         "_id": 36063,
-        "Name": "Ominous Spirit Unleashed (Geo)",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Spirit of Omen: Stone Drake</color>.",
+        "Name": "Зловещий дух (Гео)",
+        "Desc": "Наносит <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color></color></b>, <b>3</b> ед. Призывает помощника: <color style='color:#FFFFFFFF'>Дух предзнаменования: Каменный дракон</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6950,8 +6950,8 @@ var _skills = {
     },
     "36064": {
         "_id": 36064,
-        "Name": "Spirit of Omen's Power",
-        "Desc": "(Passive) If a character has no more than 7 HP after taking DMG, they gain 1 Energy. (Once per Match)",
+        "Name": "Сила духа предзнаменования",
+        "Desc": "(Пассивный навык) Если персонаж получает урон и у него остаётся не более 7 HP, он получает 1 ед. Энергии (только 1 раз за игру).",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6961,8 +6961,8 @@ var _skills = {
     },
     "36065": {
         "_id": 36065,
-        "Name": "Stone Drake: Guardian Stance",
-        "Desc": "(Passive) If there are summoned entities each Round, refresh shield",
+        "Name": "Каменный ящер: На страже",
+        "Desc": "(Пассивный навык) Если на поле есть помощник, щит обновляется",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6972,8 +6972,8 @@ var _skills = {
     },
     "37011": {
         "_id": 37011,
-        "Name": "Spore Bullet",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "Выстрел спорами",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6986,8 +6986,8 @@ var _skills = {
     },
     "37012": {
         "_id": 37012,
-        "Name": "Rolling Spray",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "Выстрел-переворот",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6999,8 +6999,8 @@ var _skills = {
     },
     "37013": {
         "_id": 37013,
-        "Name": "Divebomb",
-        "Desc": "Deals <b>5</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "Пикирующая бомбардировка",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>5</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -7013,8 +7013,8 @@ var _skills = {
     },
     "37014": {
         "_id": 37014,
-        "Name": "State Change",
-        "Desc": "(Passive) When the battle begins, the character will be in a <color style='color:#FFFFFFFF'>Aerial Superiority</color>.<br>After this character takes [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>, it will become <color style='color:#FFFFFFFF'>Scorched</color>.<br>After this character takes [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>, it will become <color style='color:#FFFFFFFF'>Activated</color>.",
+        "Name": "Смена состояния",
+        "Desc": "(Пассивный навык) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Господство в воздухе</color>.<br>Получив [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>, сменится на <color style='color:#FFFFFFFF'>Обожжение</color>.<br>Получив [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, сменится на <color style='color:#FFFFFFFF'>Оживление</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -7029,7 +7029,7 @@ var _skills = {
     "37021": {
         "_id": 37021,
         "Name": "Plata Plama",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>2</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -7043,7 +7043,7 @@ var _skills = {
     "37022": {
         "_id": 37022,
         "Name": "Da Plama",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -7056,7 +7056,7 @@ var _skills = {
     "37023": {
         "_id": 37023,
         "Name": "Aba Movo",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>5</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -7069,8 +7069,8 @@ var _skills = {
     },
     "37024": {
         "_id": 37024,
-        "Name": "Crudewood Greatshield",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Crudewood Greatshield</color>.",
+        "Name": "Большой деревянный щит",
+        "Desc": "(Пассивный) В начале сражения у персонажа будет <color style='color:#FFFFFFFF'>Большой деревянный щит</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -7082,7 +7082,7 @@ var _skills = {
     },
     "37025": {
         "_id": 37025,
-        "Name": "Shattered Shield",
+        "Name": "Разрушитель щитов",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -7093,8 +7093,8 @@ var _skills = {
     },
     "37031": {
         "_id": 37031,
-        "Name": "Staff Strike",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Удар посохом",
+        "Desc": "Наносит <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -7106,8 +7106,8 @@ var _skills = {
     },
     "37032": {
         "_id": 37032,
-        "Name": "Venomous Vines",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Vines</color> at the opponent's play area.",
+        "Name": "Разрастание лозы",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>1</b> ед. Создаёт <color style='color:#FFFFFFFF'>Лоза</color> противнику.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -7121,8 +7121,8 @@ var _skills = {
     },
     "37033": {
         "_id": 37033,
-        "Name": "Dendro Field",
-        "Desc": "Deals <b>5</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "Область Дендро",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>5</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -7135,8 +7135,8 @@ var _skills = {
     },
     "37041": {
         "_id": 37041,
-        "Name": "Precision Shot",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "Меткий выстрел",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -7149,8 +7149,8 @@ var _skills = {
     },
     "37042": {
         "_id": 37042,
-        "Name": "Wildgrass Ball",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "Шар-бурьян",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>3</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -7162,8 +7162,8 @@ var _skills = {
     },
     "37043": {
         "_id": 37043,
-        "Name": "Launch Grenade",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Delayed Fuse Munitions</color>.",
+        "Name": "Гранатомёт",
+        "Desc": "Наносит <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color></color></b>, <b>2</b> ед. Призывает помощника: <color style='color:#FFFFFFFF'>Снаряды с таймером</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -7178,8 +7178,8 @@ var _skills = {
     },
     "37044": {
         "_id": 37044,
-        "Name": "Arkhe: Pneuma",
-        "Desc": "<color style='color:#FFFFFFFF'>After being damaged by characters with \"[b]3504[a]Arkhe: Ousia,\"</color> this character will become <color style='color:#FFFFFFFF'>Deactivated</color>, and <color style='color:#FFFFFFFF'>cannot use skills</color> until this Round ends.",
+        "Name": "Энергетическое свойство: пневма",
+        "Desc": "<color style='color:#FFFFFFFF'>Получив урон от персонажа с [b]3504[a]архэ: усия,</color> этот персонаж получает состояние «<color style='color:#FFFFFFFF'>Деактивировано</color>» и <color style='color:#FFFFFFFF'>не может использовать навыки</color> до конца раунда.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -7192,8 +7192,8 @@ var _skills = {
 var _ref = {
     "111": {
         "_id": 111,
-        "Name": "Crystallize",
-        "Desc": "Grants <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point</color> to your active character. (Can stack. Max 2 points.)",
+        "Name": "Кристалл",
+        "Desc": "Активному персонажу добавляется <color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>Щит</color> ×1</color>. Складывается до 2 раз.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7201,8 +7201,8 @@ var _ref = {
     },
     "115": {
         "_id": 115,
-        "Name": "Burning Flame",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 2 stacks.)",
+        "Name": "Яркое пламя",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза: </color>наносит [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color> (складывается до 2 раз)",
         "Tag": [
             "GCG_TAG_DENDRO_PRODUCE"
         ],
@@ -7210,8 +7210,8 @@ var _ref = {
     },
     "116": {
         "_id": 116,
-        "Name": "Dendro Core",
-        "Desc": "<color style='color:#FFFFFFFF'>When you deal [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> or [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color> to an opposing active character, </color>DMG dealt +2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Дендро ядро",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда активный персонаж противника получает от вас [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color> или [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, </color>урон увеличивается на 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color>",
         "Tag": [
             "GCG_TAG_DENDRO_PRODUCE"
         ],
@@ -7219,8 +7219,8 @@ var _ref = {
     },
     "117": {
         "_id": 117,
-        "Name": "Catalyzing Field",
-        "Desc": "<color style='color:#FFFFFFFF'>When you deal [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color> or [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color> to an opposing active character, </color>DMG dealt +1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Область катализа",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда активный персонаж противника получает от вас [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color> или [b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color>,</color> урон увеличивается на 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [
             "GCG_TAG_DENDRO_PRODUCE"
         ],
@@ -7228,22 +7228,22 @@ var _ref = {
     },
     "111011": {
         "_id": 111011,
-        "Name": "Sacred Cryo Pearl",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>, deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to all opposing characters on standby.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Священная Крио жемчужина",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>, 1 ед., наносит <color style='color:#FFFFFFFF'>Проникающий урон</color>, 1 ед. всем неактивным персонажам противника.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111012": {
         "_id": 111012,
-        "Name": "Ice Lotus",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active character receives DMG: </color>Decreases DMG taken by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Ледяной лотос",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда ваш активный персонаж получает урон: </color>снижает получаемый урон на 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111021": {
         "_id": 111021,
-        "Name": "Cat-Claw Shield",
-        "Desc": "Grants <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point</color> for your active character.",
+        "Name": "Щит кошачьих коготочков",
+        "Desc": "У вашего персонажа прибавляется <color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>Щит</color> ×1</color>.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7251,85 +7251,85 @@ var _ref = {
     },
     "111023": {
         "_id": 111023,
-        "Name": "Drunken Mist",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>, heal your active character for 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Пьянящий туман",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>, 1 ед., восстанавливает 2 HP активному персонажу.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111031": {
         "_id": 111031,
-        "Name": "Icicle",
-        "Desc": "<color style='color:#FFFFFFFF'>After you switch characters:</color> Deal 2 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Льдинка",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда вы меняете активного персонажа:</color> наносит [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>, 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "111041": {
         "_id": 111041,
-        "Name": "Chonghua Frost Field",
-        "Desc": "Your Sword, Claymore, and Polearm-wielding characters' [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> is converted to [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Область холода Чунхуа",
+        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color> вашего персонажа с Одноручным, Двуручным или Древковым оружием заменяется на [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111051": {
         "_id": 111051,
-        "Name": "Frostflake Seki no To",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Морозный сэки но то",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>, 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111052": {
         "_id": 111052,
-        "Name": "Cryo Elemental Infusion",
-        "Desc": "The character to which this is attached has their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br>(Lasts until the Round ends)",
+        "Name": "Элементальная Крио инфузия",
+        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color> персонажа с этой картой становится [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>.<br>(Действует до следующего раунда)",
         "Tag": [],
         "Cost": {}
     },
     "111061": {
         "_id": 111061,
-        "Name": "Grimheart",
-        "Desc": "<color style='color:#FFFFFFFF'>After the character to which this is attached uses Icetide Vortex:</color> Remove this status, DMG +3 for this instance.",
+        "Name": "Холодное сердце",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж с этой картой использует Ледяной прибой: </color>снимает это состояние и увеличивает урон текущего удара на 3 ед.",
         "Tag": [],
         "Cost": {}
     },
     "111062": {
         "_id": 111062,
-        "Name": "Lightfall Sword",
-        "Desc": "<color style='color:#FFFFFFFF'>When Eula uses a Normal Attack or Elemental Skill</color>, this card will accumulate 2 Zeal stacks, but Eula will not gain Energy.<br><color style='color:#FFFFFFFF'>End Phase:</color> Discard this card and deal 3 [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color>. Each Zeal stack adds 1 DMG to this damage instance.<br>(Effects on this card's <color style='color:#FFFFFFFF'>Usage(s)</color> will apply to <color style='color:#FFFFFFFF'>Zeal</color>.)",
+        "Name": "Меч света",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда Эола использует обычную атаку или элементальный навык:</color> эта карта накапливает 2 уровня энергии, но Эола энергию не получит.<br><color style='color:#FFFFFFFF'>Финальная фаза:</color> карта сбрасывается, наносит [b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color>, 3 ед. За каждый уровень энергии добавляется 1 ед. урона.<br>Эффекты, влияющие на <color style='color:#FFFFFFFF'>Кол-во применений</color> этой карты, будут применяться к <color style='color:#FFFFFFFF'>уровням энергии</color>.",
         "Tag": [],
         "Cost": {}
     },
     "111071": {
         "_id": 111071,
-        "Name": "Icy Quill",
-        "Desc": "Your character deals 1 increased [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> (Includes the DMG triggered by <color style='color:#99FFFFFF'>[b]2101[a]Cryo-infused</color> Swirl reactions)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Ледяное перо",
+        "Desc": "Повышает [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color> вашего персонажа на 1 ед. (включая урон от <color style='color:#99FFFFFF'>[b]2101[a]Крио</color> Рассеивания, вызванного персонажем).<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111073": {
         "_id": 111073,
-        "Name": "Talisman Spirit",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>When this Summon is on the field:</color> Opposing character(s) take +1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> and [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color>.",
+        "Name": "Дух талисмана",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color><br><color style='color:#FFFFFFFF'>Когда этот помощник на поле боя: </color>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color> и [b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color>, которые получает персонаж противника, увеличиваются на 1 ед.",
         "Tag": [],
         "Cost": {}
     },
     "111081": {
         "_id": 111081,
-        "Name": "Herald of Frost",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>When this Summon is on the field, after Qiqi uses Normal Attack: </color>Heals your character that took the most DMG for 1 HP.",
+        "Name": "Вестник стужи",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color><br><color style='color:#FFFFFFFF'>Если этот помощник на поле боя и Ци Ци использует обычную атаку:</color> ваш персонаж, получивший наибольший урон, восстанавливает 1 HP.",
         "Tag": [],
         "Cost": {}
     },
     "111082": {
         "_id": 111082,
-        "Name": "Fortune-Preserving Talisman",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Skill: </color>If that character does not have full HP, heal that character for 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Талисман Фортуны",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда ваш персонаж использует навык:</color> если у персонажа не полное здоровье, то он восстанавливает 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "111091": {
         "_id": 111091,
-        "Name": "Curtain of Slumber Shield",
-        "Desc": "Grants <color style='color:#FFFFFFFF'> 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points</color> to defend your active character.",
+        "Name": "Полог сновидений",
+        "Desc": "Даёт вашему активному персонажу <color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>Щит</color></color>, 2 ед.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7337,120 +7337,120 @@ var _ref = {
     },
     "111092": {
         "_id": 111092,
-        "Name": "Shooting Star",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Skill:</color> Accumulate 1 <color style='color:#FFFFFFFF'>Night Star</color>. If you have at least 4 <color style='color:#FFFFFFFF'>Night Stars</color>, consume 4 <color style='color:#FFFFFFFF'>Night Stars</color> and deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>. (The Skill that causes this Combat Status will also trigger this effect)<br><color style='color:#FFFFFFFF'>When causing this Combat Status again:</color> Accumulate 2 <color style='color:#FFFFFFFF'>Night Stars</color>.",
+        "Name": "Метеор",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда ваш персонаж использует навык:</color> накапливается 1 <color style='color:#FFFFFFFF'>Ночная звезда</color>. Если уже накоплено хотя бы 4 <color style='color:#FFFFFFFF'>Ночных звезды</color>, то расходуется 4 <color style='color:#FFFFFFFF'>Ночных звезды</color> и наносится [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>, 1 ед. Навык, который вызвал этот боевой статус, тоже может вызвать этот эффект.<br><color style='color:#FFFFFFFF'>Если эффект вызывается повторно:</color> накапливается 2 <color style='color:#FFFFFFFF'>Ночных звезды</color>.",
         "Tag": [],
         "Cost": {}
     },
     "111093": {
         "_id": 111093,
-        "Name": "Celestial Dreamsphere",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>. If <color style='color:#FFFFFFFF'>Shooting Star</color> is in play, it will let it gain 1 <color style='color:#FFFFFFFF'>Night Star</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Небесная сфера снов",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>, 1 ед. Если на поле боя есть <color style='color:#FFFFFFFF'>Метеор</color>, накапливает 1 <color style='color:#FFFFFFFF'>Ночную звезду</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111101": {
         "_id": 111101,
-        "Name": "Snappy Silhouette",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> to attached character(s). If you have only 1 <color style='color:#FFFFFFFF'>Usage(s)</color> left, this instance of DMG +1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Скоростной силуэт",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза</color>: персонаж в этом состоянии получает [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>, 1 ед. Если <color style='color:#FFFFFFFF'>Кол-во применений</color> не более 1 ед., то этот урон увеличивается ещё на 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111102": {
         "_id": 111102,
-        "Name": "Newsflash Field",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>, heal your active character for 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Место происшествия",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>, 1 ед., восстанавливает 1 HP активному персонажу.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112011": {
         "_id": 112011,
-        "Name": "Melody Loop",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heal all your characters for 1 HP and your active character gains <color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Кольцо мелодии",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> восстанавливает 1 HP всем вашим персонажам и применяет к активному персонажу <color style='color:#80C0FFFF'>Эффект [b]2102[a]Гидро</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112021": {
         "_id": 112021,
-        "Name": "Rain Sword",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active character receives at least 3 DMG: </color>Decrease DMG taken by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Меч дождя",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда ваш активный персонаж получает не менее 3 ед. урона: </color>снижает получаемый урон на 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112022": {
         "_id": 112022,
-        "Name": "Rainbow Bladework",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Normal Attack:</color> Deal 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Радужная стойка",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда ваш персонаж использует обычную атаку:</color> наносится [b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "112031": {
         "_id": 112031,
-        "Name": "Reflection",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active character receives DMG: </color>Decrease DMG taken by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>. When the Usage is depleted, this card will not be discarded.<br><color style='color:#FFFFFFFF'>End Phase:</color> Discard this card, deal 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.",
+        "Name": "Фантом",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда ваш активный персонаж получает урон: </color>снижает получаемый урон на 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color>, карта не сбрасывается после использования.<br><color style='color:#FFFFFFFF'>Финальная фаза:</color> карта сбрасывается и наносит [b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color>, 1 ед.",
         "Tag": [],
         "Cost": {}
     },
     "112032": {
         "_id": 112032,
-        "Name": "Illusory Bubble",
-        "Desc": "<color style='color:#FFFFFFFF'>When dealing Skill DMG:</color> Remove this status and double the DMG dealt for this instance.",
+        "Name": "Теневой пузырь",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда вы наносите урон с помощью навыка:</color> снимает это состояние и удваивает урон от этого удара.",
         "Tag": [],
         "Cost": {}
     },
     "112041": {
         "_id": 112041,
-        "Name": "Ranged Stance",
-        "Desc": "<color style='color:#FFFFFFFF'>After the character to which this is attached uses <color style='color:#FFFFFFFF'>Charged Attack</color>:</color> Apply <color style='color:#FFFFFFFF'>Riptide</color> to target character.",
+        "Name": "Дальняя стойка",
+        "Desc": "<color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Заряженная атака</color> персонажа в этом состоянии даст</color> цели «<color style='color:#FFFFFFFF'>Отлив</color>».",
         "Tag": [],
         "Cost": {}
     },
     "112042": {
         "_id": 112042,
-        "Name": "Melee Stance",
-        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt by character is converted to [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses <color style='color:#FFFFFFFF'>Charged Attack</color>:</color> Apply <color style='color:#FFFFFFFF'>Riptide</color> to target character.<br>Character deals +1 DMG to target characters with <color style='color:#FFFFFFFF'>Riptide</color> attached.<br><color style='color:#FFFFFFFF'>After Skills are used against characters affected by <color style='color:#FFFFFFFF'>Riptide</color>:</color> Deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to the next opposing off-field character. (Twice per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Ближняя стойка",
+        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color>, который наносит персонаж, превращается в [b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Заряженная атака</color> персонажа даст</color> цели <color style='color:#FFFFFFFF'>Отлив</color>.<br>Персонаж наносит противнику, у которого есть <color style='color:#FFFFFFFF'>Отлив</color>, на 1 ед. урона больше.<br><color style='color:#FFFFFFFF'>Когда персонаж использует против врага, у которого есть <color style='color:#FFFFFFFF'>Отлив</color>, навык: </color>следующий неактивный персонаж противника получает <color style='color:#FFFFFFFF'>Проникающий урон</color>, 1 ед. (до 2 раз за раунд).<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112043": {
         "_id": 112043,
-        "Name": "Riptide",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached is defeated:</color> Apply Riptide to active character.<br>(When <color style='color:#FFFFFFFF'>Tartaglia</color> is in <color style='color:#FFFFFFFF'>Melee Stance</color>, he will deal additional DMG when attacking the character to which this is attached.)",
+        "Name": "Отлив",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии повержен:</color> активный персонаж в его отряде получает Отлив.<br>(<color style='color:#FFFFFFFF'>Тарталья</color>, если у него действует <color style='color:#FFFFFFFF'>Ближняя стойка</color>, наносит дополнительный урон, когда атакует персонажа в этом статусе.)",
         "Tag": [],
         "Cost": {}
     },
     "112051": {
         "_id": 112051,
-        "Name": "Bake-Kurage",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>, heal your active character for 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Бакэ-курагэ",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color>, 1 ед., восстанавливает 1 HP активному персонажу.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112052": {
         "_id": 112052,
-        "Name": "Ceremonial Garment",
-        "Desc": "The character to which this is attached has their <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 DMG.<br><color style='color:#FFFFFFFF'>After the character to which this is attached uses a Normal Attack:</color> Heal 1 HP for all your characters.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Церемониальное одеяние",
+        "Desc": "Когда персонаж с этой картой совершает <color style='color:#FFFFFFFF'>обычную атаку</color>, урон увеличивается на 1 ед.<br><color style='color:#FFFFFFFF'>После того, как персонаж с этой картой совершает обычную атаку:</color> исцеляет 1 HP всем вашим персонажам.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112061": {
         "_id": 112061,
-        "Name": "Takimeguri Kanka",
-        "Desc": "The character to which this is attached has their <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 DMG, and their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Такимэгури канка",
+        "Desc": "<color style='color:#FFFFFFFF'>Обычные атаки</color> персонажа с этой картой наносят на 1 ед. урона больше, а его [b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color> превращается в [b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "112062": {
         "_id": 112062,
-        "Name": "Garden of Purity",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>When this Summon is on the field:</color> Your characters' Normal Attacks deal +1 DMG.",
+        "Name": "Безмятежный сад",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color>, 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color><br><color style='color:#FFFFFFFF'>Когда этот помощник на поле боя: </color>обычная атака вашего персонажа наносит на 1 ед. урона больше.",
         "Tag": [],
         "Cost": {}
     },
     "112071": {
         "_id": 112071,
-        "Name": "Heron Shield",
-        "Desc": "The next time this character acts, they will immediately use the Skill <color style='color:#FFFFFFFF'>Heron Strike</color>.<br>While preparing this Skill: Grant 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points to the character to which this is attached.",
+        "Name": "Защита цапли",
+        "Desc": "Во время следующего действия этот персонаж использует навык: <color style='color:#FFFFFFFF'>Удар цапли</color>.<br>При подготовке навыка: даёт [b]4007[a]<color style='color:#FFFFFFFF'>Щит</color>, 2 ед., для защиты этого персонажа.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7458,162 +7458,162 @@ var _ref = {
     },
     "112072": {
         "_id": 112072,
-        "Name": "Prayer of the Crimson Crown",
-        "Desc": "Your characters' <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 DMG.<br>Your Sword, Claymore, and Polearm-wielding characters' [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> is converted to [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br><color style='color:#FFFFFFFF'>After you switch characters</color>, you deal 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>.",
+        "Name": "Молитва алой короны",
+        "Desc": "<color style='color:#FFFFFFFF'>Обычная атака</color> вашего персонажа наносит на 1 ед. урона больше.<br>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color> ваших персонажей с Одноручным, Двуручным или Древковым оружием будет превращён в [b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color>.<br><color style='color:#FFFFFFFF'>Когда вы сменяете персонажа:</color> наносится [b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color>, 1 ед. Один раз за раунд.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112081": {
         "_id": 112081,
-        "Name": "Golden Chalice's Bounty",
-        "Desc": "<color style='color:#FFFFFFFF'>After opponent's characters are affected by the Bloom reaction:</color> Your team no longer generates <color style='color:#FFFFFFFF'>Dendro Core</color>, but instead summons <color style='color:#FFFFFFFF'>Bountiful Core</color>.",
+        "Name": "Изобилие золотого кубка",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонажи противника подвергаются Бутонизации</color>, ваши персонажи больше не создают <color style='color:#FFFFFFFF'>Дендро ядро</color>, а вместо этого призывают <color style='color:#FFFFFFFF'>Ядро изобилия</color>.",
         "Tag": [],
         "Cost": {}
     },
     "112082": {
         "_id": 112082,
-        "Name": "Bountiful Core",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color><br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack, max 3 stacks)<br><color style='color:#FFFFFFFF'>When you declare the end of your Round:</color> If this summon has at least 2 <color style='color:#FFFFFFFF'>Usage(s)</color> remaining, deal 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>. (Consumes <color style='color:#FFFFFFFF'>Usage(s)</color>)",
+        "Name": "Ядро изобилия",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color>, 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color>, складываются до 3 раз.<br><color style='color:#FFFFFFFF'>Когда вы объявляете конец раунда:</color> если <color style='color:#FFFFFFFF'>Кол-во применений</color> карты составляют не меньше 2, то наносится [b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color>, 2 ед. При этом расходуются <color style='color:#FFFFFFFF'>Кол-во применений</color>.",
         "Tag": [],
         "Cost": {}
     },
     "112083": {
         "_id": 112083,
-        "Name": "Lingering Aeon",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 3 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> to affected character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Течение вечности",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> все персонажи в этом состоянии получают [b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color>, 3 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "112091": {
         "_id": 112091,
-        "Name": "Breakthrough",
-        "Desc": "This state starts with 1 <color style='color:#FFFFFFFF'>Breakthrough</color> stack. When re-attached, add 1 <color style='color:#FFFFFFFF'>Breakthrough</color> stack. <color style='color:#FFFFFFFF'>Breakthrough</color> can have a maximum of 3 stacks.<br><color style='color:#FFFFFFFF'>End Phase:</color> Gain 1 <color style='color:#FFFFFFFF'>Breakthrough</color> stack.<br><color style='color:#FFFFFFFF'>When the character to which this is attached uses a Normal Attack:</color> If <color style='color:#FFFFFFFF'>Breakthrough</color> has at least 2 stacks, consume 2 <color style='color:#FFFFFFFF'>Breakthrough</color> stacks to convert [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt into [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> and draw 1 card.",
+        "Name": "Прорыв",
+        "Desc": "Состояние начинается с 1 уровнем <color style='color:#FFFFFFFF'>Прорыва</color>. При повторном наложении состояния уровни <color style='color:#FFFFFFFF'>Прорыва</color> складываются (но не более 3 уровней).<br><color style='color:#FFFFFFFF'>Финальная фаза:</color> добавляется 1 уровень <color style='color:#FFFFFFFF'>Прорыва</color>.<br><color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии выполняет обычную атаку:</color> если есть 2 уровня <color style='color:#FFFFFFFF'>Прорыва</color>, они расходуются, чтобы превратить [b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color> в [b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color> и взять 1 карту.",
         "Tag": [],
         "Cost": {}
     },
     "112092": {
         "_id": 112092,
-        "Name": "Exquisite Throw",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Normal Attack:</color> Deal 2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Изысканный бросок",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда ваш персонаж использует обычную атаку:</color> наносится [b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color>, 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112101": {
         "_id": 112101,
-        "Name": "Sourcewater Droplet",
-        "Desc": "<color style='color:#FFFFFFFF'>After Neuvillette uses a Normal Attack:</color> Heals the character for 2 HP. After this, <color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Equitable Judgment</color></color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 3 stacks.)",
+        "Name": "Капля источника",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда Нёвиллет совершает обычную атаку:</color> персонаж восстанавливает 2 HP, и начинается <color style='color:#FFFFFFFF'>Подготовка навыка</color> <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Взвешенный вердикт</color></color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color>. Может складываться до 3 раз.",
         "Tag": [],
         "Cost": {}
     },
     "113011": {
         "_id": 113011,
-        "Name": "Pyro Infusion",
-        "Desc": "The character to which this is attached has their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Пиро инфузия",
+        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color> персонажа с этой картой превращается в [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113021": {
         "_id": 113021,
-        "Name": "Guoba",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Гоба",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>, 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113022": {
         "_id": 113022,
-        "Name": "Pyronado",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Skill:</color> Deal 2 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Огневихрь",
+        "Desc": "<color style='color:#FFFFFFFF'>После того как ваш персонаж использует навык:</color> наносит [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>, 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113031": {
         "_id": 113031,
-        "Name": "Inspiration Field",
-        "Desc": "<color style='color:#FFFFFFFF'>When your character uses a Skill:</color> If this character has at least 7 HP, deal +2 additional DMG for this instance. After the Skill DMG is finalized, if this character's HP is not greater than 6, heal this character for 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Круг вдохновения",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда ваш персонаж использует навык:</color> если у персонажа не менее 7 HP, текущий урон увеличится на 2 ед.; если после завершения навыка у персонажа остаётся не более 6 HP, персонаж восстановит 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113041": {
         "_id": 113041,
-        "Name": "Baron Bunny",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active character takes DMG: </color>Decrease DMG taken by 2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>. When the Usages are depleted, this card will not be discarded.<br><color style='color:#FFFFFFFF'>At the End Phase, if <color style='color:#FFFFFFFF'>Usage(s)</color> have been depleted:</color> Discard this card to deal 2 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.",
+        "Name": "Барон Зайчик",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда ваш активный персонаж получает урон:</color> снижает урон на 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color>, при израсходовании карта не сбрасывается.<br><color style='color:#FFFFFFFF'>Финальная фаза, если <color style='color:#FFFFFFFF'>Кол-во применений</color> израсходованы: </color>карта сбрасывается, наносит [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>, 2 ед.",
         "Tag": [],
         "Cost": {}
     },
     "113051": {
         "_id": 113051,
-        "Name": "Niwabi Enshou",
-        "Desc": "The character to which this is attached has their <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 DMG, and their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Ниваби энсё",
+        "Desc": "Персонаж с этой картой получает +1 к <color style='color:#FFFFFFFF'>обычной атаке</color> и нанесённый [b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color> превращается в [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113052": {
         "_id": 113052,
-        "Name": "Aurous Blaze",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character other than Yoimiya uses a Skill:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Золотое сияние",
+        "Desc": "<color style='color:#FFFFFFFF'>После того как любой ваш персонаж, если это не Ёимия, использует навык:</color> наносит [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113061": {
         "_id": 113061,
-        "Name": "Explosive Spark",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached uses a <color style='color:#FFFFFFFF'>Charged Attack</color>: </color>Spend 1 less <color style='color:#FF9999FF'>[b]1103[a]Pyro</color> and deal +1 DMG.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Взрывная искра",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж с этой картой использует <color style='color:#FFFFFFFF'>Заряженная атака</color>:</color> расходуется на 1 <color style='color:#FF9999FF'>[b]1103[a]Пиро дайс</color> меньше, а урон увеличивается на 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "113063": {
         "_id": 113063,
-        "Name": "Sparks 'n' Splash",
-        "Desc": "<color style='color:#FFFFFFFF'>After a character to which Sparks 'n' Splash is attached uses a Skill:</color> Deals 2 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> to their team's active character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Грохот и искры",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж в отряде использует навык: </color>активному персонажу наносится [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>, 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113071": {
         "_id": 113071,
-        "Name": "Paramita Papilio",
-        "Desc": "The character to which this is attached has their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>, and they will deal +1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'>When the character to which this is attached uses a <color style='color:#FFFFFFFF'>Charged Attack</color>:</color> Apply <color style='color:#FFFFFFFF'>Blood Blossom</color> to target character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Танец бабочки",
+        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color> персонажа в этом состоянии превращается в [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>, наносится на 1 ед. урона больше.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Заряженная атака</color> персонажа с этой картой</color> даст цели <color style='color:#FFFFFFFF'>Кровавый цветок</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113081": {
         "_id": 113081,
-        "Name": "Scarlet Seal",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character uses a <color style='color:#FFFFFFFF'>Charged Attack</color>: </color>Damage dealt +2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>. (Can stack up to 2 times)",
+        "Name": "Багровая печать",
+        "Desc": "<color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Заряженная атака</color> персонажа</color> наносит на 2 ед. урона больше.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color>. Может складываться до 2 раз.",
         "Tag": [],
         "Cost": {}
     },
     "113082": {
         "_id": 113082,
-        "Name": "Brilliance",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character uses a <color style='color:#FFFFFFFF'>Charged Attack</color>: </color>Spend 1 less <color style='color:#FF9999FF'>[b]1103[a]Pyro</color>. (Once every round.)<br><color style='color:#FFFFFFFF'>End Phase: </color>Attach <color style='color:#FFFFFFFF'>Scarlet Seal</color> to this character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>.",
+        "Name": "Блеск",
+        "Desc": "<color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Заряженная атака</color> вашего персонажа</color> расходует на 1 <color style='color:#FF9999FF'>[b]1103[a]Пиро</color> меньше (1 раз за раунд).<br><color style='color:#FFFFFFFF'>Финальная фаза:</color> персонажу даётся <color style='color:#FFFFFFFF'>Багровая печать</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113093": {
         "_id": 113093,
-        "Name": "Fiery Sanctum Field",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>When this Summon is on the field and Dehya is on standby on your side, then when your active character takes damage: </color>Decrease DMG taken by 1, and if Dehya has at least 7 HP, deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to her (once per round).",
+        "Name": "Область Огненного узилища",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color><br><color style='color:#FFFFFFFF'>Когда на поле боя есть этот помощник, а в вашем отряде есть Дэхья, то ваш активный персонаж получает на 1 ед. урона меньше.</color> После этого, если у персонажа Дэхья не менее 7 HP, она получит <color style='color:#FFFFFFFF'>Проникающий урон</color>, 1 ед. Только 1 раз за раунд.",
         "Tag": [],
         "Cost": {}
     },
     "113101": {
         "_id": 113101,
-        "Name": "Grin-Malkin Hat",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 2 stacks.)",
+        "Name": "Хохочущий котошляп",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза: </color>наносит [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color> (складывается до 2 раз).",
         "Tag": [],
         "Cost": {}
     },
     "113102": {
         "_id": 113102,
-        "Name": "Prop Surplus",
-        "Desc": "<color style='color:#FFFFFFFF'>Prop Surplus</color> can stack up to 3 times.<br><color style='color:#FFFFFFFF'>When this character uses <color style='color:#FFFFFFFF'>Bewildering Lights</color>:</color> +1 DMG for each <color style='color:#FFFFFFFF'>Prop Surplus</color> stack. After the skill is finalized, consume all <color style='color:#FFFFFFFF'>Prop Surplus</color>, healing 1 HP for this character per stack.",
+        "Name": "Избыточный реквизит",
+        "Desc": "<color style='color:#FFFFFFFF'>Избыточный реквизит</color> складывается до 3 раз.<br><color style='color:#FFFFFFFF'>Когда персонаж использует <color style='color:#FFFFFFFF'>Ошеломляющие огни</color>:</color> каждый уровень состояния <color style='color:#FFFFFFFF'>Избыточный реквизит</color> увеличивает урон на 1 ед. После подсчёта навыка расходуются все уровни состояния <color style='color:#FFFFFFFF'>Избыточный реквизит</color>, за каждый из уровней восстанавливается 1 HP.",
         "Tag": [],
         "Cost": {}
     },
     "113111": {
         "_id": 113111,
-        "Name": "Blazing Barrier",
-        "Desc": "Grants <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point</color> to your active character. (Can stack. Max 3 points.)",
+        "Name": "Пылающий щит",
+        "Desc": "Даёт <color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>Щит</color> (1 ед.)</color> вашему активному персонажу. Складывается до 3 раз.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7621,29 +7621,29 @@ var _ref = {
     },
     "113112": {
         "_id": 113112,
-        "Name": "Scorching Ooyoroi",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Normal Attack:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> and create a <color style='color:#FFFFFFFF'>Blazing Barrier</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Оёрой огня",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда ваш персонаж совершает обычную атаку:</color> наносит [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color> (1 ед.) и создаёт <color style='color:#FFFFFFFF'>Пылающий щит</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "114011": {
         "_id": 114011,
-        "Name": "Oz",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Оз",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "114021": {
         "_id": 114021,
-        "Name": "The Wolf Within",
-        "Desc": "<color style='color:#FFFFFFFF'>After the character to which this is attached uses a Normal Attack or an Elemental Skill:</color> Deal 2 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Грозовой волк",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж с этой картой использует обычную атаку или элементальный навык:</color> наносит [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "114031": {
         "_id": 114031,
-        "Name": "Lightning Stiletto",
-        "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: Switch your Keqing in to be the active character and immediately use Stellar Restoration once. This instance of Stellar Restoration will grant Keqing <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Electro Infusion</color></color> without creating another Lightning Stiletto.<br>(When Keqing uses Stellar Restoration with this card in Hand: Instead of creating another Lightning Stiletto, discard this card and Keqing gains <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Electro Infusion</color></color>)",
+        "Name": "Громовой стилет",
+        "Desc": "<color style='color:#FFFFFFFF'>Боевое действие</color>: Делает Кэ Цин вашим активным персонажем и применяет Возвращение звезды 1 раз. После применения навыка Возвращение звезды у Кэ Цин возникнет <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Электро инфузия</color></color> без создания ещё одного Громового стилета.<br>Когда Кэ Цин использует Возвращение звезды с этой картой в руке: вместо создания ещё одного Громового стилета карта сбрасывается и у Кэ Цин возникает <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Электро инфузия</color></color>.",
         "Tag": [
             "GCG_TAG_TALENT",
             "GCG_TAG_SLOWLY"
@@ -7655,22 +7655,22 @@ var _ref = {
     },
     "114032": {
         "_id": 114032,
-        "Name": "Electro Elemental Infusion",
-        "Desc": "The character to which this is attached has their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Электро инфузия",
+        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color> персонажа превращается в [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "114041": {
         "_id": 114041,
-        "Name": "Pactsworn Pathclearer",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Gain 1 level of Indwelling.<br><color style='color:#FFFFFFFF'>Create the following effects based on the Indwelling Level</color>:<br>If equal to or greater than 2: [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt is converted to [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>;<br>If equal to or greater than 4: DMG dealt +2;<br>If equal to or greater than 6: Indwelling Level -4.",
+        "Name": "Поклявшийся прокладывать путь",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color><br>Получите 1 ур. [состояния].<br><color style='color:#FFFFFFFF'>Получите эффект в зависимости от уровня [состояния]</color>:<br>Уровень 2 и выше: [b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color> превращается в [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>;<br>Уровень 4 и выше: наносимый урон +2;<br>Уровень 6 и выше: [состояние] -4.",
         "Tag": [],
         "Cost": {}
     },
     "114051": {
         "_id": 114051,
-        "Name": "Tidecaller: Surf Embrace",
-        "Desc": "The next time this character acts, they will immediately use the Skill <color style='color:#FFFFFFFF'>Wavestrider</color>.<br>While preparing this Skill: Grant 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points to the character to which this is attached.",
+        "Name": "Призыв волны: Охват прибоя",
+        "Desc": "Во время следующего действия этот персонаж использует навык: <color style='color:#FFFFFFFF'>Покоритель волн</color>.<br>При подготовке навыка: даёт [b]4007[a]<color style='color:#FFFFFFFF'>Щит</color>, 2 ед., для защиты этого персонажа.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7678,176 +7678,176 @@ var _ref = {
     },
     "114053": {
         "_id": 114053,
-        "Name": "Thunderbeast's Targe",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Normal Attack:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'>When your character receives at least 3 DMG: </color>Decrease DMG taken by 1.<br><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2",
+        "Name": "Громовой щит",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда ваш персонаж использует обычную атаку:</color> наносит [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'>Когда ваш персонаж получает не менее 3 ед. урона:</color> снижает этот получаемый урон на 1 ед.<br><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2",
         "Tag": [],
         "Cost": {}
     },
     "114061": {
         "_id": 114061,
-        "Name": "Tengu Juurai: Ambush",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>, applies <color style='color:#FFFFFFFF'>Crowfeather Cover</color> to friendly active character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Тэнгу дзюрай: Засада",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза: </color>наносит [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, 1 ед., применяет <color style='color:#FFFFFFFF'>Воронье покрывало</color> к вашему активному персонажу.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "114062": {
         "_id": 114062,
-        "Name": "Tengu Juurai: Stormcluster",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>, applies <color style='color:#FFFFFFFF'>Crowfeather Cover</color> to friendly active character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Тэнгу дзюрай: Громокластер",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, 2 ед., применяет <color style='color:#FFFFFFFF'>Воронье покрывало</color> к вашему активному персонажу.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "114063": {
         "_id": 114063,
-        "Name": "Crowfeather Cover",
-        "Desc": "The character with this attached deals +1 <color style='color:#FFFFFFFF'>Elemental Skill</color> and <color style='color:#FFFFFFFF'>Elemental Burst</color> DMG.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Воронье покрывало",
+        "Desc": "<color style='color:#FFFFFFFF'>Элементальный навык</color> и <color style='color:#FFFFFFFF'>взрыв стихии</color> персонажа с этой картой наносят на 1 ед. урона больше.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "114071": {
         "_id": 114071,
-        "Name": "Eye of Stormy Judgment",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>When this Summon is on the field:</color> Your characters' Elemental Bursts deal +1 DMG.",
+        "Name": "Глаз грозового наказания",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color><br><color style='color:#FFFFFFFF'>Когда этот помощник на поле боя: </color>взрыв стихии вашего персонажа наносит на 1 ед. урона больше.",
         "Tag": [],
         "Cost": {}
     },
     "114072": {
         "_id": 114072,
-        "Name": "Chakra Desiderata",
-        "Desc": "<color style='color:#FFFFFFFF'>After your other characters use Elemental Bursts:</color> Gain 1 Resolve. (Max 3)<br><color style='color:#FFFFFFFF'>When the character to which this is attached uses Secret Art: Musou Shinsetsu:</color> Consume all Resolve and deal +1 DMG per Resolve.",
+        "Name": "Чакра вожделения",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда другой ваш персонаж использует взрыв стихии:</color> накапливается 1 ед. Решимости (до 3 единиц).<br><color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии использует Тайное искусство: Мусо синсэцу:</color> расходуется вся Решимость, за каждую единицу Решимости наносится 1 ед. урона.",
         "Tag": [],
         "Cost": {}
     },
     "114081": {
         "_id": 114081,
-        "Name": "Sesshou Sakura",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color><br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color> (Can stack, max 6 stacks)<br><color style='color:#FFFFFFFF'>When you declare the end of your Round:</color> If this summon has at least 4 <color style='color:#FFFFFFFF'>Usage(s)</color> remaining, deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>. (Consumes <color style='color:#FFFFFFFF'>Usage(s)</color>)",
+        "Name": "Сакура сэссё",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color>, складываются до 6 раз.<br><color style='color:#FFFFFFFF'>Когда вы объявляете конец раунда:</color> если <color style='color:#FFFFFFFF'>Кол-во применений</color> карты составляют не меньше 4, то наносится [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, 1 ед. При этом расходуются <color style='color:#FFFFFFFF'>Кол-во применений</color>.",
         "Tag": [],
         "Cost": {}
     },
     "114083": {
         "_id": 114083,
-        "Name": "Tenko Thunderbolts",
-        "Desc": "<color style='color:#FFFFFFFF'>Before you choose your action:</color> Deal 3 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Молнии Небесной кицунэ",
+        "Desc": "<color style='color:#FFFFFFFF'>Прежде, чем вы выберете действие:</color> наносит [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, 3 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "114091": {
         "_id": 114091,
-        "Name": "Conductive",
-        "Desc": "This status starts with 2 stacks of Conductive. When attached repeatedly, Conductive stack +1. Conductive can be stacked to a maximum of 4 stacks.<br><color style='color:#FFFFFFFF'>End Phase: </color>Accumulate 1 stack of Conductive.<br><color style='color:#FFFFFFFF'>When the character attached with Conductive takes DMG from Violet Arc: </color>Remove this status and DMG +1 for each stack of Conductive.",
+        "Name": "Проводник",
+        "Desc": "В этом состоянии в начале даётся 2 уровня «Проводника». Повторное применение даёт ещё 1 уровень. Всего можно накопить 4 уровня.<br><color style='color:#FFFFFFFF'>Финальная фаза:</color> добавляется 1 уровень «Проводника».<br><color style='color:#FFFFFFFF'>Когда Пурпурная дуга наносит урон персонажу в этом состоянии:</color> состояние снимается, за каждый уровень «Проводника» добавляется 1 ед. урона.",
         "Tag": [],
         "Cost": {}
     },
     "114092": {
         "_id": 114092,
-        "Name": "Lightning Rose",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase: </color>Deal 2 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Громовая роза",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "114101": {
         "_id": 114101,
-        "Name": "After-Sales Service Rounds",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Снаряд гарантийного обслуживания",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "114102": {
         "_id": 114102,
-        "Name": "Jinni",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heal your active character for 2 HP and that character gains 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Джинн",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> у активного персонажа восстанавливается 2 HP и <color style='color:#FFFFFFFF'>[b]1110[a]Энергия</color> (1 ед.).<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "115011": {
         "_id": 115011,
-        "Name": "Large Wind Spirit",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>After your character or Summon triggers a Swirl reaction:</color> Convert the Elemental Type of this card and change its DMG dealt to the element Swirled. (Can only be converted once before leaving the field)",
+        "Name": "Большой Воздушный дух",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color>, 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color><br><color style='color:#FFFFFFFF'>Когда ваш персонаж или помощник вызывают реакцию Рассеивание:</color> конвертирует элемент этой карты и меняет её урон на элемент, которым было вызвано Рассеивание. Можно использовать только один раз, прежде чем покинуть поле боя.",
         "Tag": [],
         "Cost": {}
     },
     "115021": {
         "_id": 115021,
-        "Name": "Dandelion Field",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>, heal your active character for 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Поле одуванчиков",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color>, 1 ед., восстанавливает 1 HP активному персонажу.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "115031": {
         "_id": 115031,
-        "Name": "Stormzone",
-        "Desc": "<color style='color:#FFFFFFFF'>When you perform \"Switch Character\":</color> Spend 1 less Elemental Die.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Область ветра",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда вы сменяете персонажа:</color> расходуется на 1 дайс меньше.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "115034": {
         "_id": 115034,
-        "Name": "Stormeye",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>. Your opponent switches to: <color style='color:#FFFFFFFF'>Character Closest to Your Current Active Character</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>After your character or Summon triggers a Swirl reaction:</color> Convert the Elemental Type of this card and change its DMG dealt to the element Swirled. (Can only be converted once before leaving the field)",
+        "Name": "Глаз бури",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color>, 2 ед., переключает противника на <color style='color:#FFFFFFFF'>Персонаж противника, наиболее близкий к вашему активному персонажу</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color><br><color style='color:#FFFFFFFF'>Когда ваш персонаж или помощник вызывают реакцию «Рассеивание»:</color> конвертирует элемент этой карты и меняет её урон на элемент, которым было вызвано «Рассеивание». Можно использовать только один раз, прежде чем покинуть поле боя.",
         "Tag": [],
         "Cost": {}
     },
     "115041": {
         "_id": 115041,
-        "Name": "Yaksha's Mask",
-        "Desc": "The character to which this is attached has their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>, and they will deal +1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>.<br><color style='color:#FFFFFFFF'>When the character to which this is attached uses a <color style='color:#FFFFFFFF'>Plunging Attack</color>:</color> +2 additional DMG.<br><color style='color:#FFFFFFFF'>If the character this card is attached to is the active character, when you perform \"Switch Character\":</color> Spend 1 less Elemental Die. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Маска Якса",
+        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color> персонажа в этом состоянии превращается в [b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color> и увеличивается на 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Атака в падении</color> персонажа в этом состоянии</color> наносит дополнительно 2 ед. урона.<br><color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии является активным персонажем, ваша смена персонажа</color> стоит на 1 дайс меньше (1 раз за раунд).<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "115051": {
         "_id": 115051,
-        "Name": "Midare Ranzan",
-        "Desc": "<color style='color:#FFFFFFFF'>When the attached character uses a <color style='color:#FFFFFFFF'>Plunging Attack</color>: </color>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt becomes [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>, and deals +1 DMG.<br><color style='color:#FFFFFFFF'>After the character uses a skill:</color> This effect is removed.",
+        "Name": "Мидарэ рандзан",
+        "Desc": "<color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Атака в падении</color> персонажа в этом состоянии</color> преобразует [b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color> в [b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color> и увеличивает урон на 1 ед.<br><color style='color:#FFFFFFFF'>Когда персонаж использует навык:</color> эффект сбрасывается.",
         "Tag": [],
         "Cost": {}
     },
     "115052": {
         "_id": 115052,
-        "Name": "Autumn Whirlwind",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>After your Characters or Summons trigger a Swirl reaction:</color> Convert the Elemental Type of this card and change its DMG dealt to the element Swirled. (Can only be converted once before leaving the field)",
+        "Name": "Осенний вихрь",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color><br><color style='color:#FFFFFFFF'>Когда ваш персонаж или помощник вызывают реакцию Рассеивание:</color> конвертирует элемент этой карты и меняет её урон на элемент, которым было вызвано Рассеивание. Можно использовать только один раз, прежде чем покинуть поле боя.",
         "Tag": [],
         "Cost": {}
     },
     "115061": {
         "_id": 115061,
-        "Name": "Windfavored",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached performs a Normal Attack:</color> DMG dealt +2. If the opponent has characters on standby, then this Skill will deal damage to the next opposing character on standby instead.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Избранник ветра",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж с этой картой совершает обычную атаку:</color> урон увеличивается на 2 ед. Если у противника есть неактивные персонажи, то этот навык также нанесёт урон следующему неактивному персонажу.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "115072": {
         "_id": 115072,
-        "Name": "Muji-Muji Daruma",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>, heal the character on your team that has taken the most damage for 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Мудзи-Мудзи Дарума",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color>, 1 ед., восстанавливает 2 HP вашему персонажу, получившему максимальный урон.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "115081": {
         "_id": 115081,
-        "Name": "Overawing Assault",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> If this character's HP is at least 6, then they will take 2 <color style='color:#FFFFFFFF'>Piercing DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 1</color>",
+        "Name": "Ужасающий штурм",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> если у персонажа не менее 6 HP, он получает <color style='color:#FFFFFFFF'>Проникающий урон</color>, 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "115082": {
         "_id": 115082,
-        "Name": "Bogglecat Box",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>When your active character takes DMG:</color> Decreases DMG taken by 1. (Once per Round)<br><color style='color:#FFFFFFFF'>When your character(s) take [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color>/[b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>/[b]2103[a]<color style='color:#FF9999FF'>Pyro</color>/[b]2104[a]<color style='color:#FFACFFFF'>Electro</color> DMG:</color> Change the Elemental Type of this card to the element of the damage taken. (Once before leaving play)",
+        "Name": "Изумительная кошачья коробка",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color><br><color style='color:#FFFFFFFF'>Когда ваш активный персонаж получает урон:</color> этот урон снижается на 1 ед. (1 раз за раунд).<br><color style='color:#FFFFFFFF'>Когда ваш персонаж получает [b]2101[a]<color style='color:#99FFFFFF'>Крио</color>/[b]2102[a]<color style='color:#80C0FFFF'>Гидро</color>/[b]2103[a]<color style='color:#FF9999FF'>Пиро</color> или [b]2104[a]<color style='color:#FFACFFFF'>Электро</color> урон:</color> элемент этой карты меняется на элемент полученного урона (можно использовать только один раз, прежде чем покинуть поле боя).",
         "Tag": [],
         "Cost": {}
     },
     "116011": {
         "_id": 116011,
-        "Name": "Jade Screen",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active character receives at least 2 DMG: </color>Decrease DMG taken by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Нефритовая ширма",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда ваш активный персонаж получает не менее 2 ед. урона: </color>снижает получаемый урон на 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "116021": {
         "_id": 116021,
-        "Name": "Full Plate",
-        "Desc": "Grant <color style='color:#FFFFFFFF'>2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points</color> to your active character.<br>Before this [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> is fully consumed, the [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> you take is halved. (The figure will be rounded up)",
+        "Name": "Полная броня",
+        "Desc": "Даёт <color style='color:#FFFFFFFF'>2 ед. [b]4007[a]<color style='color:#FFFFFFFF'>Щит</color></color> вашему активному персонажу.<br>Прежде, чем [b]4007[a]<color style='color:#FFFFFFFF'>Щит</color> будет полностью использован, получаемый [b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color> будет снижен на 50% (округляется в большую сторону).",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7855,22 +7855,22 @@ var _ref = {
     },
     "116022": {
         "_id": 116022,
-        "Name": "Sweeping Time",
-        "Desc": "When your character uses a Normal Attack: Consume 1 less [b]1106[a]<color style='color:#FFE699FF'>Geo Die</color>. (Once per Round)<br>Character's <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +2 DMG, and their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt is converted to [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Генеральная уборка",
+        "Desc": "Когда персонаж использует обычную атаку: расходуется на 1 [b]1106[a]<color style='color:#FFE699FF'>Гео</color> меньше (1 раз за раунд).<br><color style='color:#FFFFFFFF'>Обычная атака</color> персонажа наносит на 2 ед. урона больше, наносимый [b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color> превращается в [b]2106[a]<color style='color:#FFE699FF'>Гео урон</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "116031": {
         "_id": 116031,
-        "Name": "Stone Stele",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Каменная стела",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2106[a]<color style='color:#FFE699FF'>Гео урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "116032": {
         "_id": 116032,
-        "Name": "Jade Shield",
-        "Desc": "Grants <color style='color:#FFFFFFFF'>2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points</color> to your active character.",
+        "Name": "Яшмовый щит",
+        "Desc": "У вашего активного персонажа прибавляется <color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>Щит</color> ×2 ед.</color>.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7878,8 +7878,8 @@ var _ref = {
     },
     "116033": {
         "_id": 116033,
-        "Name": "Petrification",
-        "Desc": "<color style='color:#FFFFFFFF'>Character cannot use Skills.</color> (Lasts until the end of this Round)",
+        "Name": "Окаменение",
+        "Desc": "<color style='color:#FFFFFFFF'>Персонаж не может использовать навыки.</color> Действует до конца раунда.",
         "Tag": [
             "GCG_TAG_FORBIDDEN_ATTACK"
         ],
@@ -7887,106 +7887,106 @@ var _ref = {
     },
     "116041": {
         "_id": 116041,
-        "Name": "Solar Isotoma",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase: </color>Deal 1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>When this Summon is on the field: </color>Your character's <color style='color:#FFFFFFFF'>Plunging Attack</color> spends 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>. (Once per Round)",
+        "Name": "Цветок солнца",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2106[a]<color style='color:#FFE699FF'>Гео урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color><br><color style='color:#FFFFFFFF'>Когда этот помощник на поле боя:</color> <color style='color:#FFFFFFFF'>Атака в падении</color> вашего персонажа расходует на 1 <color style='color:#FFFFFFFF'>[b]1109[a]Неопределённый элемент</color> меньше. Только 1 раз за раунд.",
         "Tag": [],
         "Cost": {}
     },
     "116051": {
         "_id": 116051,
-        "Name": "Ushi",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active character takes DMG: </color>Decrease DMG taken by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>. When the Usage is depleted, this card will not be discarded.<br><color style='color:#FFFFFFFF'>Can be triggered once while this Summon is present: </color>When your character takes DMG, Arataki Itto gains <color style='color:#FFFFFFFF'>Superlative Superstrength</color>.<br><color style='color:#FFFFFFFF'>End Phase:</color> Discard this card, deal 1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.",
+        "Name": "Уси",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда ваш активный персонаж получает урон: </color>снижает получаемый урон на 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color>, карта не сбрасывается после использования.<br><color style='color:#FFFFFFFF'>Может активироваться 1 раз, когда этот помощник на поле боя:</color> когда ваш персонаж получает урон, у Аратаки Итто добавляется <color style='color:#FFFFFFFF'>Невероятная сила</color>.<br><color style='color:#FFFFFFFF'>Финальная фаза:</color> карта сбрасывается и наносит [b]2106[a]<color style='color:#FFE699FF'>Гео урон</color>, 1 ед.",
         "Tag": [],
         "Cost": {}
     },
     "116053": {
         "_id": 116053,
-        "Name": "Raging Oni King",
-        "Desc": "The character to which this is attached has their <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 DMG, and their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color><br><color style='color:#FFFFFFFF'>After the character to which this is attached uses a Normal Attack:</color> Gains <color style='color:#FFFFFFFF'>Superlative Superstrength</color>. (Once per Round)",
+        "Name": "Яростный король óни",
+        "Desc": "Персонаж с этой картой при <color style='color:#FFFFFFFF'>обычной атаке</color> наносит на 1 ед. урона больше, а нанесённый [b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color> превращается в [b]2106[a]<color style='color:#FFE699FF'>Гео урон</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color><br><color style='color:#FFFFFFFF'>Когда персонаж с этой картой совершает обычную атаку:</color> ему добавляется <color style='color:#FFFFFFFF'>Невероятная сила</color> (1 раз за раунд).",
         "Tag": [],
         "Cost": {}
     },
     "116054": {
         "_id": 116054,
-        "Name": "Superlative Superstrength",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached uses a <color style='color:#FFFFFFFF'>Charged Attack</color>: </color>Deal +1 DMG. If there are at least 2 <color style='color:#FFFFFFFF'>Usage(s)</color>, spend 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 3 stacks.)",
+        "Name": "Невероятная сила",
+        "Desc": "<color style='color:#FFFFFFFF'>С этой картой <color style='color:#FFFFFFFF'>Заряженная атака</color> персонажа</color> наносит на 1 ед. урона больше. Если <color style='color:#FFFFFFFF'>Кол-во применений</color> равняются 2 и больше, то 1 раз в течение раунда будет потрачено на 1 <color style='color:#FFFFFFFF'>[b]1109[a]Неопределённый элемент</color> меньше. <br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color> (складывается до 3 раз).",
         "Tag": [],
         "Cost": {}
     },
     "116061": {
         "_id": 116061,
-        "Name": "General's War Banner",
-        "Desc": "Your party's characters deal +1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color> (Can stack, can stack till 3 Rounds)",
+        "Name": "Боевой штандарт генерала",
+        "Desc": "[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color> ваших персонажей увеличивается на 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color>, складывается до 3 раундов.",
         "Tag": [],
         "Cost": {}
     },
     "116062": {
         "_id": 116062,
-        "Name": "General's Glory",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>. If your party has 2 [b]2106[a]<color style='color:#FFE699FF'>Geo</color> characters, create 1 <color style='color:#FFFFFFFF'>Crystallize</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Влияние генерала",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2106[a]<color style='color:#FFE699FF'>Гео урон</color>, 1 ед. Если в отряде есть два [b]2106[a]<color style='color:#FFE699FF'>Гео</color> персонажа, вы получаете <color style='color:#FFFFFFFF'>Кристалл</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "117011": {
         "_id": 117011,
-        "Name": "Cuilein-Anbar",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Куйлейн-Анбар",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color>, 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "117021": {
         "_id": 117021,
-        "Name": "Vijnana Suffusion",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached uses a <color style='color:#FFFFFFFF'>Charged Attack</color>: </color>Their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt will be converted to [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color> and after the Skill DMG is finalized, summon 1 <color style='color:#FFFFFFFF'>Clusterbloom Arrow</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Прорыв виджняны",
+        "Desc": "<color style='color:#FFFFFFFF'>С этой картой <color style='color:#FFFFFFFF'>Заряженная атака</color> персонажа</color> меняет наносимый [b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color> на [b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color>, после подсчёта урона призывается 1 <color style='color:#FFFFFFFF'>Стрела соцветия</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "117031": {
         "_id": 117031,
-        "Name": "Seed of Skandha",
-        "Desc": "<color style='color:#FFFFFFFF'>After any character who has a Seed of Skandha takes Elemental Reaction DMG:</color> Deals 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to the character(s) to which the Seed of Skandha is attached on the same side of the field.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Семя скандхи",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда любой персонаж, у которого есть Семя скандхи, подвергается урону элементальной реакции:</color> персонажи на той же стороне поля в этом состоянии получают <color style='color:#FFFFFFFF'>Проникающий урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "117032": {
         "_id": 117032,
-        "Name": "Shrine of Maya",
-        "Desc": "<color style='color:#FFFFFFFF'>When your character triggers an Elemental Reaction: </color>+1 additional DMG.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Святилище Майи",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда ваш персонаж вызывает элементальную реакцию:</color> наносит дополнительно 1 ед. урона.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "117041": {
         "_id": 117041,
-        "Name": "Yuegui: Throwing Mode",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>, heal the character on your team that has taken the most damage for 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Бросающий Юэгуй",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color>, 1 ед., восстанавливает 1 HP вашему персонажу, получившему максимальный урон.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "117043": {
         "_id": 117043,
-        "Name": "Adeptal Legacy",
-        "Desc": "<color style='color:#FFFFFFFF'>After you switch characters:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>, heal your active character for 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Наследие Адептов",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда вы меняете активного персонажа:</color> наносит [b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color>, 1 ед., восстанавливает 1 HP вашему активному персонажу.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "117051": {
         "_id": 117051,
-        "Name": "Gossamer Sprite",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>, heal your active character for 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Летучий дух",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color>, 1 ед., восстанавливает 1 HP активному персонажу.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "117052": {
         "_id": 117052,
-        "Name": "Pulsing Clarity",
-        "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Create <color style='color:#FFFFFFFF'>Seamless Shield</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Пульсирующая ясность",
+        "Desc": "<color style='color:#FFFFFFFF'>В начале фазы ходов:</color> вы получаете <color style='color:#FFFFFFFF'>Бесшовный щит</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "117053": {
         "_id": 117053,
-        "Name": "Seamless Shield",
-        "Desc": "Provides <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color></color>, protecting your active character.<br><color style='color:#FFFFFFFF'>When this effect is removed, or generated again:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>, and heal your active character for 1 HP.",
+        "Name": "Бесшовный щит",
+        "Desc": "Даёт <color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>Щит</color>, 1 ед.</color> для защиты вашего активного персонажа.<br><color style='color:#FFFFFFFF'>Когда эффект снимается или активируется повторно:</color> наносит [b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color>, 1 ед., восстанавливает 1 HP вашему активному персонажу.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7994,22 +7994,22 @@ var _ref = {
     },
     "117061": {
         "_id": 117061,
-        "Name": "Chisel-Light Mirror",
-        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt by the character is converted to [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>.<br><color style='color:#FFFFFFFF'>After this character performs a Normal Attack:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>. If it is a <color style='color:#FFFFFFFF'>Charged Attack</color>, this state's <color style='color:#FFFFFFFF'>Duration (Rounds)</color> +1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color> (Can stack. Max 3 Rounds.)",
+        "Name": "Зеркало света",
+        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color> персонажа превращается в [b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color>.<br><color style='color:#FFFFFFFF'>Когда этот персонаж совершает обычную атаку:</color> наносит [b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color>, 1 ед. Если это <color style='color:#FFFFFFFF'>Заряженная атака</color>, <color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color> эффекта увеличивается на 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color> (складывается до 3 раундов)",
         "Tag": [],
         "Cost": {}
     },
     "117071": {
         "_id": 117071,
-        "Name": "Urgent Neko Parcel",
-        "Desc": "<color style='color:#FFFFFFFF'>When Kirara is your active character, after you switch characters:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color> and draw 1 card.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 2 stacks.)",
+        "Name": "Срочная посылка нэко",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда Кирара является активным персонажем, при смене персонажа</color> наносится [b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color>, 1 ед., и вы берёте 1 карту.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color>. Может складываться до 2 раз.",
         "Tag": [],
         "Cost": {}
     },
     "117072": {
         "_id": 117072,
-        "Name": "Shield of Safe Transport",
-        "Desc": "Grants <color style='color:#FFFFFFFF'>2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points</color> to your active character.",
+        "Name": "Щит безопасной перевозки",
+        "Desc": "У вашего активного персонажа прибавляется <color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>Щит</color>, 2 ед.</color>.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -8017,22 +8017,22 @@ var _ref = {
     },
     "117073": {
         "_id": 117073,
-        "Name": "Cat Grass Cardamom",
-        "Desc": "<color style='color:#FFFFFFFF'>After the side of the field that this card is on has played 2 Action Cards:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color> to the active character on that side.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Семена кошачьей мяты",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда на стороне с этой картой сыграют 2 карты действия:</color> активный персонаж на той стороне получает [b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "121011": {
         "_id": 121011,
-        "Name": "Cryo Cicins",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color><br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color> (Can stack, max 3 stacks)<br><color style='color:#FFFFFFFF'>After Fatui Cryo Cicin Mage performs a Normal Attack:</color> This card gains 1 <color style='color:#FFFFFFFF'>Usage(s)</color>.<br><color style='color:#FFFFFFFF'>After Fatui Cryo Cicin Mage takes Elemental Reaction DMG:</color>This card loses 1 <color style='color:#FFFFFFFF'>Usage(s)</color>.",
+        "Name": "Крио цицин",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза</color>: наносит [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color> (складывается до 3 раз).<br><color style='color:#FFFFFFFF'>Когда Фатуи: Маг Крио цицинов совершает обычную атаку: </color><color style='color:#FFFFFFFF'>Кол-во применений</color> этой карты увеличивается на 1 ед.<br><color style='color:#FFFFFFFF'>Когда Фатуи: Маг Крио цицинов получает урон, вызванный элементальной реакцией: </color> <color style='color:#FFFFFFFF'>Кол-во применений</color> карты уменьшается на 1 ед.",
         "Tag": [],
         "Cost": {}
     },
     "121012": {
         "_id": 121012,
-        "Name": "Flowing Cicin Shield",
-        "Desc": "Provides <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point</color> for your active character.<br><color style='color:#FFFFFFFF'>When created:</color> If you have <color style='color:#FFFFFFFF'>Cryo Cicins</color> on the field, additionally increase [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> by the amount of <color style='color:#FFFFFFFF'>Usage(s)</color> it has. (Adds a maximum of 3 additional [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>)",
+        "Name": "Купол цицинов",
+        "Desc": "Ваш активный персонаж получает <color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>Щит</color>, 1 ед.</color><br><color style='color:#FFFFFFFF'>При создании:</color> если у вас на поле есть <color style='color:#FFFFFFFF'>Крио цицин</color>, то полученный [b]4007[a]<color style='color:#FFFFFFFF'>Щит</color> увеличивает сдерживаемый <color style='color:#FFFFFFFF'>Кол-во применений</color>. [b]4007[a]<color style='color:#FFFFFFFF'>Щит</color> может увеличиться максимум на 3 ед.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -8040,232 +8040,232 @@ var _ref = {
     },
     "121021": {
         "_id": 121021,
-        "Name": "Ice-Sealed Crimson Witch of Embers",
-        "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase starts:</color> If the attached character has no more than 4 HP, remove this effect.<br><color style='color:#FFFFFFFF'>When attached character is defeated:</color> Remove this effect, ensure that character <color style='color:#FFFFFFFF'>Immunity to Defeat</color> and heal them to 1 HP.<br><color style='color:#FFFFFFFF'>When this effect is removed:</color> Attached character will transform into the <color style='color:#FFFFFFFF'>Crimson Witch of Embers</color> state.",
+        "Name": "Тлеющая алая ведьма во льду",
+        "Desc": "<color style='color:#FFFFFFFF'>В начале фазы ходов:</color> если у персонажа в этом состоянии не более 4 HP, эффект снимается.<br><color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии оказывается повержен:</color> эффект снимается, производится <color style='color:#FFFFFFFF'>Возврат на поле боя</color>, восстанавливается 1 HP.<br><color style='color:#FFFFFFFF'>Когда эффект снимается:</color> персонаж, на которого он действовал, переходит в состояние <color style='color:#FFFFFFFF'>Тлеющая алая ведьма</color>.",
         "Tag": [],
         "Cost": {}
     },
     "121022": {
         "_id": 121022,
-        "Name": "Sheer Cold",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deals 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> to attached character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color><br>When attached character has <color style='color:#FFFFFFFF'>Blazing Heat</color> attached, remove this effect.",
+        "Name": "Лютый мороз",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит персонажу в этом состоянии [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color><br>Когда у персонажа в этом состоянии есть <color style='color:#FFFFFFFF'>Пылающий жар</color>, эффект снимается.",
         "Tag": [],
         "Cost": {}
     },
     "121023": {
         "_id": 121023,
-        "Name": "Ice-Sealed Crimson Witch of Embers",
-        "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase starts:</color> If the attached character has no more than 15 HP, remove this effect.<br><color style='color:#FFFFFFFF'>When attached character is defeated:</color> Remove this effect, ensure that character <color style='color:#FFFFFFFF'>Immunity to Defeat</color> and heal them to 1 HP.<br><color style='color:#FFFFFFFF'>When this effect is removed:</color> Attached character will transform into the <color style='color:#FFFFFFFF'>Crimson Witch of Embers</color> state.",
+        "Name": "Тлеющая алая ведьма во льду",
+        "Desc": "<color style='color:#FFFFFFFF'>В начале фазы ходов:</color> если у персонажа в этом состоянии не более 15 HP, эффект снимается.<br><color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии оказывается повержен:</color> эффект снимается, производится <color style='color:#FFFFFFFF'>Возврат на поле боя</color>, восстанавливается 1 HP.<br><color style='color:#FFFFFFFF'>Когда эффект снимается:</color> персонаж, на которого он действовал, переходит в состояние <color style='color:#FFFFFFFF'>Тлеющая алая ведьма</color>.",
         "Tag": [],
         "Cost": {}
     },
     "121024": {
         "_id": 121024,
-        "Name": "Ice-Sealed Crimson Witch of Embers",
-        "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase starts:</color> If the attached character has no more than 25 HP, remove this effect.<br><color style='color:#FFFFFFFF'>When attached character is defeated:</color> Remove this effect, ensure that character <color style='color:#FFFFFFFF'>Immunity to Defeat</color> and heal them to 1 HP.<br><color style='color:#FFFFFFFF'>When this effect is removed:</color> Attached character will transform into the <color style='color:#FFFFFFFF'>Crimson Witch of Embers</color> state.",
+        "Name": "Тлеющая алая ведьма во льду",
+        "Desc": "<color style='color:#FFFFFFFF'>В начале фазы ходов:</color> если у персонажа в этом состоянии не более 25 HP, эффект снимается.<br><color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии оказывается повержен:</color> эффект снимается, производится <color style='color:#FFFFFFFF'>Возврат на поле боя</color>, восстанавливается 1 HP.<br><color style='color:#FFFFFFFF'>Когда эффект снимается:</color> персонаж, на которого он действовал, переходит в состояние <color style='color:#FFFFFFFF'>Тлеющая алая ведьма</color>.",
         "Tag": [],
         "Cost": {}
     },
     "163011": {
         "_id": 163011,
-        "Name": "Blazing Heat",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deals 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> to attached character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color><br>When attached character has <color style='color:#FFFFFFFF'>Sheer Cold</color> attached, remove this effect.",
+        "Name": "Пылающий жар",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит персонажу в этом состоянии [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color><br>Когда у персонажа в этом состоянии есть <color style='color:#FFFFFFFF'>Лютый мороз</color>, эффект снимается.",
         "Tag": [],
         "Cost": {}
     },
     "121031": {
         "_id": 121031,
-        "Name": "Overwhelming Ice",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character uses a Normal Attack:</color> Deal 1 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color> to all opposing characters on standby </color>. <br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Лёд повсюду",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж использует обычную атаку:</color> наносит всем неактивным персонажам противника <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Проникающий урон</color></color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "121033": {
         "_id": 121033,
-        "Name": "Piercing Iceridge",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> to the opposing <color style='color:#FFFFFFFF'>Character Closest to Your Current Active Character</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Пронзающая льдинка",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> <color style='color:#FFFFFFFF'>Персонаж противника, наиболее близкий к вашему активному персонажу</color>, получает [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "121034": {
         "_id": 121034,
-        "Name": "Cryo Crystal Core",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 1 HP.",
+        "Name": "Кристальное ядро Крио",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии оказывается повержен:</color> эффект снимается, срабатывает <color style='color:#FFFFFFFF'>Возврат на поле боя</color>, восстанавливается 1 HP.",
         "Tag": [],
         "Cost": {}
     },
     "121035": {
         "_id": 121035,
-        "Name": "Cryo Crystal Core",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 6 HP.",
+        "Name": "Кристальное ядро Крио",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии оказывается повержен:</color> эффект снимается, происходит <color style='color:#FFFFFFFF'>Возврат на поле боя</color>, восстанавливается 6 HP.",
         "Tag": [],
         "Cost": {}
     },
     "121036": {
         "_id": 121036,
-        "Name": "Cryo Crystal Core",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 10 HP.",
+        "Name": "Кристальное ядро Крио",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии оказывается повержен:</color> эффект снимается, происходит <color style='color:#FFFFFFFF'>Возврат на поле боя</color>, восстанавливается 10 HP.",
         "Tag": [],
         "Cost": {}
     },
     "122010": {
         "_id": 122010,
-        "Name": "Oceanid Mimic",
-        "Desc": "There are 3 kinds of Oceanid Mimics in total, and up 2 kinds can exist at once:<br><color style='color:#FFFFFFFF'>Squirrel</color>: Deal 2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> at the End Phase. 2 Usages.<br><color style='color:#FFFFFFFF'>Raptor</color>: Deal 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> at the End Phase. 3 Usages.<br><color style='color:#FFFFFFFF'>Frog</color>: Can take 1 DMG for active character. 1 Usage. Once this effect is depleted, deal 2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> during the End Phase.",
+        "Name": "Мимик океанида",
+        "Desc": "Есть три вида мимиков океанида, одновременно присутствовать может не более двух видов:<br><color style='color:#FFFFFFFF'>Белка</color>: в финальной фазе наносит [b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color>, 2 ед., может использоваться дважды.<br><color style='color:#FFFFFFFF'>Коршун</color>: в финальной фазе наносит [b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color>, 1 ед., можно использовать 3 раза.<br><color style='color:#FFFFFFFF'>Лягушка</color>: сдерживает 1 ед. урона, направленного на активного персонажа, можно использовать один раз. После израсходования в финальной фазе наносит [b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color>, 2 ед.",
         "Tag": [],
         "Cost": {}
     },
     "122021": {
         "_id": 122021,
-        "Name": "Refraction",
-        "Desc": "The character to which this is attached takes +1 Hydro DMG.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color><br>(Only one such status can be applied on the same side at a time)",
+        "Name": "Преломление",
+        "Desc": "Персонаж с этой картой получает +1 ед. Гидро урона.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color><br>(Только один такой статус может быть применён к одной стороне на поле одновременно)",
         "Tag": [],
         "Cost": {}
     },
     "123011": {
         "_id": 123011,
-        "Name": "Stealth",
-        "Desc": "The character to which this is attached takes -1 DMG and deals +1 DMG.<br><color style='color:#FFFFFFFF'>Usage(s)</color>: 2",
+        "Name": "Скрытность",
+        "Desc": "Персонаж с этой картой получает на 1 ед. урона меньше и наносит на 1 ед. урона больше.<br><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2",
         "Tag": [],
         "Cost": {}
     },
     "123012": {
         "_id": 123012,
-        "Name": "Stealth",
-        "Desc": "The character to which this is attached takes -1 DMG and deals +1 DMG.<br><color style='color:#FFFFFFFF'>Usage(s)</color>: 3<br>The character to which this is attached has their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.",
+        "Name": "Скрытность",
+        "Desc": "Персонаж с этой картой получает на 1 ед. урона меньше и наносит на 1 ед. урона больше.<br><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3<br>[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color>, который нанёс персонаж с этой картой, конвертируется в [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>.",
         "Tag": [],
         "Cost": {}
     },
     "123021": {
         "_id": 123021,
-        "Name": "Darkfire Furnace",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>, deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to all opposing characters on standby.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Очаг тёмного пламени",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>, 1 ед. Наносит <color style='color:#FFFFFFFF'>Проникающий урон</color>, 1 ед. всем неактивным персонажам противника.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "123022": {
         "_id": 123022,
-        "Name": "Fiery Rebirth",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 3 HP.",
+        "Name": "Огненное перерождение",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии оказывается повержен:</color> эффект снимается, срабатывает <color style='color:#FFFFFFFF'>Возврат на поле боя</color>, восстанавливается 3 HP.",
         "Tag": [],
         "Cost": {}
     },
     "123023": {
         "_id": 123023,
-        "Name": "Shield of Surging Flame",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes no DMG</color>.<br>This status will provide 2 instances of <color style='color:#FF9999FF'>Pyro Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this effect will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> and take 6 <color style='color:#FFFFFFFF'>Piercing DMG</color> at the End Phase.<br>While this effect is active, character deals +1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.",
+        "Name": "Купол бушующего пламени",
+        "Desc": "Персонаж в этом статусе обладает <color style='color:#FFFFFFFF'>иммунитетом к любому урону</color>.<br>Этот статус даёт 2 <color style='color:#FF9999FF'>эффекта Пиро</color> (будет расходоваться элементальными реакциями): когда эффекты закончатся, персонаж в этом статусе <color style='color:#FFFFFFFF'>не сможет использовать навык</color>, а в финальной фазе получит <color style='color:#FFFFFFFF'>Проникающий урон</color>, 6 ед.<br>Пока эффект существует, [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color> увеличивается на 1 ед.",
         "Tag": [],
         "Cost": {}
     },
     "123031": {
         "_id": 123031,
-        "Name": "Spirit of Omen: Pyro Scorpion",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>When entering play, when the Action Phase starts:</color> Attach Pyro Scorpion: Guardian Stance to your Eremite Scorching Loremaster. (When Spirit of Omen: Pyro Scorpion is in play, the character will take -1 DMG, once per Round.)",
+        "Name": "Дух предзнаменования: Пиро скорпион",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color><br><color style='color:#FFFFFFFF'>При выходе на поле боя, в начале фазы ходов:</color> ваш Пустынник: Пылающий повествователь получает состояние Пиро скорпион: На страже. Пока Дух предзнаменования: Пиро скорпион на поле боя, снижает получаемый персонажем урон на 1 ед. (1 раз за раунд).",
         "Tag": [],
         "Cost": {}
     },
     "123032": {
         "_id": 123032,
-        "Name": "Spirit of Omen: Pyro Scorpion",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>. If Eremite Scorching Loremaster has already used a <color style='color:#FFFFFFFF'>Normal Attack</color> or <color style='color:#FFFFFFFF'>Elemental Skill</color>, this DMG is increased by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>When entering play, when the Action Phase starts:</color> Attach Pyro Scorpion: Guardian Stance to your Eremite Scorching Loremaster. (Twice per Round when Spirit of Omen: Pyro Scorpion is in play, it will cause the character to take -1 DMG.)",
+        "Name": "Дух предзнаменования: Пиро скорпион",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>, 1 ед. Если персонаж Пустынник: Пылающий повествователь уже использовал <color style='color:#FFFFFFFF'>обычную атаку</color> или <color style='color:#FFFFFFFF'>элементальный навык</color>, этот урон увеличивается на 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color><br><color style='color:#FFFFFFFF'>При розыгрыше в начале фазы ходов:</color> ваш персонаж Пустынник: Пылающий повествователь получает состояние Пиро скорпион: На страже. Пока Дух предзнаменования: Пиро скорпион на поле боя, до 2 раз за раунд снизит получаемый персонажем урон на 1 ед.",
         "Tag": [],
         "Cost": {}
     },
     "123033": {
         "_id": 123033,
-        "Name": "Pyro Scorpion: Guardian Stance",
-        "Desc": "When <color style='color:#FFFFFFFF'>Spirit of Omen: Pyro Scorpion is on the field: </color>the equipping character takes -1 DMG. (Once each Round)",
+        "Name": "Пиро скорпион: На страже",
+        "Desc": "Пока <color style='color:#FFFFFFFF'>Дух предзнаменования: Пиро скорпион на поле боя</color>, снижает получаемый персонажем урон на 1 ед. (1 раз за раунд).",
         "Tag": [],
         "Cost": {}
     },
     "123034": {
         "_id": 123034,
-        "Name": "Pyro Scorpion: Guardian Stance",
-        "Desc": "When <color style='color:#FFFFFFFF'>Spirit of Omen: Pyro Scorpion is on the field: </color>the equipping character takes -1 DMG. (Max twice each Round)",
+        "Name": "Пиро скорпион: На страже",
+        "Desc": "Пока <color style='color:#FFFFFFFF'>Дух предзнаменования: Пиро скорпион на поле боя</color>, снижает получаемый персонажем урон на 1 ед. (До 2 раз за раунд).",
         "Tag": [],
         "Cost": {}
     },
     "124013": {
         "_id": 124013,
-        "Name": "Chains of Warding Thunder",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>When this Summon is on the field:</color> Your opponent will have to spend 1 additional Elemental Die when performing \"Switch Character.\" (Once per Round)",
+        "Name": "Громовые оковы",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color><br><color style='color:#FFFFFFFF'>Когда этот помощник на поле боя:</color> смена персонажа противником расходует на 1 дайс больше (1 раз за ход).",
         "Tag": [],
         "Cost": {}
     },
     "124014": {
         "_id": 124014,
-        "Name": "Electro Crystal Core",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 1 HP.",
+        "Name": "Кристальное ядро Электро",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии оказывается повержен:</color> эффект снимается, срабатывает <color style='color:#FFFFFFFF'>Возврат на поле боя</color>, восстанавливается 1 HP.",
         "Tag": [],
         "Cost": {}
     },
     "124015": {
         "_id": 124015,
-        "Name": "Electro Crystal Core",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 6 HP.",
+        "Name": "Кристальное ядро Электро",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии оказывается повержен:</color> эффект снимается, срабатывает <color style='color:#FFFFFFFF'>Возврат на поле боя</color>, восстанавливается 6 HP.",
         "Tag": [],
         "Cost": {}
     },
     "124016": {
         "_id": 124016,
-        "Name": "Electro Crystal Core",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 10 HP.",
+        "Name": "Кристальное ядро Электро",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии оказывается повержен:</color> эффект снимается, срабатывает <color style='color:#FFFFFFFF'>Возврат на поле боя</color>, восстанавливается 10 HP.",
         "Tag": [],
         "Cost": {}
     },
     "124021": {
         "_id": 124021,
-        "Name": "Lightning Strike Probe",
-        "Desc": "<color style='color:#FFFFFFFF'>After a character on whose side of the field this card is on uses a Skill:</color> Attach <color style='color:#FFFFFFFF'>Lightning Rod</color> to the active character on that side. (Once per Round)",
+        "Name": "Зонд для поиска молнии",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж, на чьей стороне поля находится эта карта, использует навык:</color> активный персонаж на той стороне получает <color style='color:#FFFFFFFF'>Искатель молний</color> (1 раз за раунд).",
         "Tag": [],
         "Cost": {}
     },
     "124022": {
         "_id": 124022,
-        "Name": "Lightning Rod",
-        "Desc": "<color style='color:#FFFFFFFF'>When the attached character takes DMG from Thunder Manifestation or its summons:</color> Remove this state, cause this DMG instance to increase by 1.<br>(Only one of this status can exist on the field at once. Some of Thunder Manifestation's skills will target the character to which this is attached.)",
+        "Name": "Искатель молний",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонажу в этом состоянии наносит урон Манифестация грома и её помощники</color>, статус снимается, урон увеличивается на 1 ед.<br>На поле боя может присутствовать только один такой статус. Манифестация грома нацелит некоторые свои навыки на персонажа в этом состоянии.",
         "Tag": [],
         "Cost": {}
     },
     "124023": {
         "_id": 124023,
-        "Name": "Thundering Shackles",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deals 3 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color> to the opposing character affected by <color style='color:#FFFFFFFF'>Lightning Rod</color>. (If there are no eligible opposing characters, deals DMG to the active character instead)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Громовые оковы",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> Наносит [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, 3 ед. персонажам противника, на которых действует <color style='color:#FFFFFFFF'>Искатель молний</color>. Если у противника нет подходящих персонажей, урон наносится активному персонажу.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "124031": {
         "_id": 124031,
-        "Name": "Resonant Coral Orb",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Резонирующая коралловая сфера",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "124032": {
         "_id": 124032,
-        "Name": "Fontemer Pearl",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached takes DMG:</color> Negate 1 DMG. Once per Round, <color style='color:#FFFFFFFF'>Usage(s)</color> will not be used when negating DMG from Summons.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>When you declare the end of your Round:</color> If the character to which this is attached is the active character, draw 1 card.",
+        "Name": "Жемчужина Фонтмера",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии получает урон:</color> урон снижается на 1 ед. Кроме того, 1 раз за раунд <color style='color:#FFFFFFFF'>Кол-во применений</color> не будут расходоваться для снижения урона от помощников.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color><br><color style='color:#FFFFFFFF'>Когда вы объявляете конец раунда:</color> если персонаж в этом состоянии является активным персонажем, вы берёте 1 карту.",
         "Tag": [],
         "Cost": {}
     },
     "124033": {
         "_id": 124033,
-        "Name": "Fontemer Pearl",
-        "Desc": "<color style='color:#FFFFFFFF'>When character to which this is attached takes DMG:</color> Negate 1 DMG. <color style='color:#FFFFFFFF'>Usage(s)</color> will not be used when negating DMG from Summons.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>During this effect's duration:</color> The character to which this is attached deals +1 DMG.",
+        "Name": "Жемчужина Фонтмера",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии получает урон:</color> урон снижается на 1 ед. <color style='color:#FFFFFFFF'>Кол-во применений</color> не будут расходоваться для снижения урона от помощников.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color><br><color style='color:#FFFFFFFF'>Пока этот статус действует:</color> урон персонажа увеличивается на 1 ед.",
         "Tag": [],
         "Cost": {}
     },
     "124041": {
         "_id": 124041,
-        "Name": "Electro Cicin",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color> (Can stack, max 3 stacks)<br><color style='color:#FFFFFFFF'>After your opponent plays a total of 3 Action Cards:</color> This card gains 1 <color style='color:#FFFFFFFF'>Usage(s)</color>. (Max 3 stacks)<br><color style='color:#FFFFFFFF'>After Fatui Electro Cicin Mage takes Elemental Reaction DMG:</color>This card loses 1 <color style='color:#FFFFFFFF'>Usage(s)</color>.",
+        "Name": "Электро цицин",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза</color>: наносит [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color> (складывается до 3 раз).<br><color style='color:#FFFFFFFF'>Когда противник разыграет суммарно 3 карты действия: </color><color style='color:#FFFFFFFF'>Кол-во применений</color> этой карты увеличиваются на 1 ед. (но не более 3 ед.)<br><color style='color:#FFFFFFFF'>Когда Фатуи: Маг Электро цицинов получает урон, вызванный элементальной реакцией:</color> эта карта теряет 1 ед. <color style='color:#FFFFFFFF'>Кол-во применений</color>.",
         "Tag": [],
         "Cost": {}
     },
     "124042": {
         "_id": 124042,
-        "Name": "Electro Cicin Shield",
-        "Desc": "Provides <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point</color> for your active character.<br><color style='color:#FFFFFFFF'>When created:</color> If you have <color style='color:#FFFFFFFF'>Electro Cicin</color> on the field, additionally increase [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> by the amount of <color style='color:#FFFFFFFF'>Usage(s)</color> it has. (Adds a maximum of 3 additional [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>)",
+        "Name": "Купол Электро цицина",
+        "Desc": "Ваш активный персонаж получает <color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>Щит</color>, 1 ед.</color><br><color style='color:#FFFFFFFF'>При создании:</color> если у вас на поле есть <color style='color:#FFFFFFFF'>Электро цицин</color>, то [b]4007[a]<color style='color:#FFFFFFFF'>Щит</color> увеличивается на число, равное числу <color style='color:#FFFFFFFF'>Кол-во применений</color>. [b]4007[a]<color style='color:#FFFFFFFF'>Щит</color> может увеличиться максимум на 3 ед.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -8273,99 +8273,99 @@ var _ref = {
     },
     "125011": {
         "_id": 125011,
-        "Name": "Shadowsword: Lone Gale",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Теневой клинок: Одинокий ветер",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "125012": {
         "_id": 125012,
-        "Name": "Shadowsword: Galloping Frost",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Теневой клинок: Бегущий иней",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "125021": {
         "_id": 125021,
-        "Name": "Total Collapse",
-        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> or [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color> taken by the affected character increased by 2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Коллапс",
+        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color> и [b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color>, который получает персонаж в этом состоянии, увеличиваются на 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "126011": {
         "_id": 126011,
-        "Name": "Stonehide",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached takes DMG: </color>Decrease 1 DMG. When [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color> is decreased, consume 1 additional <color style='color:#FFFFFFFF'>Usage(s)</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Каменный панцирь",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии получает урон</color>: получаемый урон снижается на 1 ед. Когда снижается [b]2106[a]<color style='color:#FFE699FF'>Гео урон</color>, <color style='color:#FFFFFFFF'>Кол-во применений</color> - 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "126012": {
         "_id": 126012,
-        "Name": "Stone Force",
-        "Desc": "The character to which this is attached has their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br><color style='color:#FFFFFFFF'>Once per Round:</color> The character deals +1 DMG.<br><color style='color:#FFFFFFFF'>Once the Stonehide attached to the character is removed</color>, this status will be removed alongside it.",
+        "Name": "Сила камня",
+        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color>, который наносит персонаж, превращается в [b]2106[a]<color style='color:#FFE699FF'>Гео урон</color>.<br><color style='color:#FFFFFFFF'>Один раз за раунд:</color> +1 к урону, который наносит персонаж.<br><color style='color:#FFFFFFFF'>Когда с персонажа снимается Каменный панцирь, это состояние снимается вместе с ним</color>.",
         "Tag": [],
         "Cost": {}
     },
     "126021": {
         "_id": 126021,
-        "Name": "Stone Facets: Elemental Absorption",
-        "Desc": "The character can absorb the power of the Elements, including [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color>/[b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>/[b]2103[a]<color style='color:#FF9999FF'>Pyro</color>/[b]2104[a]<color style='color:#FFACFFFF'>Electro</color>, and then based on the element absorbed, gain the skills [b]2101[a]<color style='color:#99FFFFFF'>Frostspike Wave</color>/[b]2102[a]<color style='color:#80C0FFFF'>Torrential Rebuke</color>/[b]2103[a]<color style='color:#FF9999FF'>Blazing Rebuke</color>/[b]2104[a]<color style='color:#FFACFFFF'>Thunderstorm Wave</color>. (The character can only have one Elemental Type absorbed at once, and this status will record the Elemental Type previously absorbed)<br><color style='color:#FFFFFFFF'>After this character absorbs an element of a different type than the currently absorbed element:</color> Generate 1 Elemental Die of the same type as the Element that was just absorbed.",
+        "Name": "Каменный облик: Элементальное поглощение",
+        "Desc": "Персонаж может поглотить силу [b]2101[a]<color style='color:#99FFFFFF'>Крио</color>/[b]2102[a]<color style='color:#80C0FFFF'>Гидро</color>/[b]2103[a]<color style='color:#FF9999FF'>Пиро</color>/[b]2104[a]<color style='color:#FFACFFFF'>Электро</color> и получить соответствующий навык - [b]2101[a]<color style='color:#99FFFFFF'>Волна колючей стужи</color> / [b]2102[a]<color style='color:#80C0FFFF'>Ливень осуждения</color> / [b]2103[a]<color style='color:#FF9999FF'>Пламя осуждения</color> / [b]2104[a]<color style='color:#FFACFFFF'>Грозовая волна</color>. В один момент времени персонаж может обладать силой только одного поглощённого элемента. Информация о поглощённых ранее элементах сохраняется в статусе.<br><color style='color:#FFFFFFFF'>Когда персонаж поглощает элемент, отличный от текущего,</color> вы получаете 1 дайс соответствующего элемента.",
         "Tag": [],
         "Cost": {}
     },
     "126022": {
         "_id": 126022,
-        "Name": "Stone Facets: Elemental Crystallization",
-        "Desc": "<color style='color:#FFFFFFFF'>After this character takes [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color>/[b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>/[b]2103[a]<color style='color:#FF9999FF'>Pyro</color>/[b]2104[a]<color style='color:#FFACFFFF'>Electro</color> DMG:</color> If this character currently has not absorbed the power of this element, remove this effect, and then this character performs <color style='color:#FFFFFFFF'>Elemental Absorption</color>.",
+        "Name": "Каменный облик: Элементальная кристаллизация",
+        "Desc": "Когда персонаж получает урон [b]2101[a]<color style='color:#99FFFFFF'>Крио</color>/[b]2102[a]<color style='color:#80C0FFFF'>Гидро</color>/[b]2103[a]<color style='color:#FF9999FF'>Пиро</color>/[b]2104[a]<color style='color:#FFACFFFF'>Электро</color>: если до этого не был поглощён такой же элемент, состояние снимается, и персонаж производит <color style='color:#FFFFFFFF'>Поглощение силы элемента</color>.",
         "Tag": [],
         "Cost": {}
     },
     "127011": {
         "_id": 127011,
-        "Name": "Radical Vitality",
-        "Desc": "<color style='color:#FFFFFFFF'>After this character deals or takes Elemental DMG:</color> Gain 1 stack of Radical Vitality. (Max 3 stacks)<br><color style='color:#FFFFFFFF'>End Phase:</color> If Radical Vitality stacks reach maximum, they will be cleared and the character will lose all Energy.",
+        "Name": "Сила оживления",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда этот персонаж наносит элементальный урон:</color> вы получаете 1 уровень Силы оживления (складывается до 3 раз).<br><color style='color:#FFFFFFFF'>Финальная фаза:</color> если Сила оживления достигла максимума, она сбрасывается, а персонаж теряет всю энергию.",
         "Tag": [],
         "Cost": {}
     },
     "130041": {
         "_id": 130041,
-        "Name": "Seeking Missile",
-        "Desc": "<color style='color:#FFFFFFFF'>After a character switch takes place in this play area:</color> Deal 2 [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> to the character activated.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Снаряд-следопыт",
+        "Desc": "<color style='color:#FFFFFFFF'>После смены персонажа в отряде:</color> тот персонаж, на которого вы переключились, получает [b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color>, 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "131011": {
         "_id": 131011,
-        "Name": "Hoarfrost Greatshield",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes -2 DMG</color>.<br>This status will provide 2 instances of <color style='color:#99FFFFFF'>Cryo Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed.",
+        "Name": "Ледяной щит",
+        "Desc": "Персонаж с этой картой <color style='color:#FFFFFFFF'>получает на 2 ед. урона меньше</color>.<br>Это состояние даёт 2 <color style='color:#99FFFFFF'>Крио эффекта</color> (может быть снят элементальной реакцией). Когда они потратятся, состояние будет снято.",
         "Tag": [],
         "Cost": {}
     },
     "131031": {
         "_id": 131031,
-        "Name": "Cryo Shield",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes no DMG</color> and cannot be Frozen.<br>This status will provide 2 instances of <color style='color:#99FFFFFF'>Cryo Infusion</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "Крио купол",
+        "Desc": "Персонаж с этой картой <color style='color:#FFFFFFFF'>избегает любого урона</color> и не может подвергнуться Заморозке.<br>Это состояние даёт <color style='color:#99FFFFFF'>эффект Крио</color> дважды (может быть снят элементальной реакцией): когда эффект заканчивается, состояние исчезает, а персонаж с этой картой <color style='color:#FFFFFFFF'>не сможет использовать навыки</color> до конца этого раунда.",
         "Tag": [],
         "Cost": {}
     },
     "131041": {
         "_id": 131041,
-        "Name": "Cryo Elemental Equipment",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes -1 DMG and deals +1 DMG</color>.<br>This status will provide 2 instances of <color style='color:#99FFFFFF'>Cryo Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "Элементальная форма: Крио",
+        "Desc": "Персонаж в этом состоянии <color style='color:#FFFFFFFF'>получает на 1 ед. урона меньше и увеличивает собственный урон на 1 ед</color>.<br>Это состояние даёт <color style='color:#99FFFFFF'>Крио эффект</color> дважды (может быть снят элементальной реакцией). Когда эффекты снимаются, состояние исчезает, а персонаж <color style='color:#FFFFFFFF'>не сможет использовать навыки</color> до конца этого раунда.",
         "Tag": [],
         "Cost": {}
     },
     "131061": {
         "_id": 131061,
-        "Name": "Spirit of Omen's Awakening: Cryo",
-        "Desc": "Character <color style='color:#FFFFFFFF'>deals +1 DMG</color> and converts [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> to [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br>This character takes +2 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Пробуждение духа предзнаменования: Крио",
+        "Desc": "Персонаж <color style='color:#FFFFFFFF'>наносит на 1 ед. урона больше</color>, [b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color> превращается в [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>.<br>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>, который получает этот персонаж, увеличивается на 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "131071": {
         "_id": 131071,
-        "Name": "Elemental Lifeform: Cryo",
-        "Desc": "This character always has [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color> applied, and it is immune to [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> and Frozen.",
+        "Name": "Элементальное существо: Крио",
+        "Desc": "У этого персонажа всегда есть [b]2101[a]<color style='color:#99FFFFFF'>Крио</color>, иммунитет: [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color> и Заморозка.",
         "Tag": [
             "GCG_TAG_IMMUNE_FREEZING"
         ],
@@ -8373,8 +8373,8 @@ var _ref = {
     },
     "132011": {
         "_id": 132011,
-        "Name": "Mist Bubble",
-        "Desc": "<color style='color:#FFFFFFFF'>The character cannot use Skills</color>.<br>End Phase: Remove this status, deal 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> to the character to which it is attached.",
+        "Name": "Туманный пузырь",
+        "Desc": "<color style='color:#FFFFFFFF'>Персонаж не может использовать навыки.</color><br>Финальная фаза: когда это состояние исчезает, наносит [b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color> 1 ед. персонажу с этой картой.",
         "Tag": [
             "GCG_TAG_FORBIDDEN_ATTACK"
         ],
@@ -8382,50 +8382,50 @@ var _ref = {
     },
     "132012": {
         "_id": 132012,
-        "Name": "Hydro Shield",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes no DMG</color>.<br>This status will provide 2 instances of <color style='color:#80C0FFFF'>Hydro Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "Гидро купол",
+        "Desc": "Персонаж с этой картой <color style='color:#FFFFFFFF'>не получает урон</color>.<br>Это состояние даёт 2 <color style='color:#80C0FFFF'>Гидро эффекта</color> (может быть снят элементальной реакцией). Когда они потратятся, состояние будет снято, а персонаж с этой картой до конца раунда <color style='color:#FFFFFFFF'>не сможет использовать навыки</color>.",
         "Tag": [],
         "Cost": {}
     },
     "132021": {
         "_id": 132021,
-        "Name": "Healing Rain",
-        "Desc": "End Phase: Heal your active character for 1 HP and grant both sides' active characters <color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Целительный дождь",
+        "Desc": "Финальная фаза: восстанавливает 1 HP всем вашим персонажам и применяет к активным персонажам с обеих сторон <color style='color:#80C0FFFF'>Эффект [b]2102[a]Гидро</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "132031": {
         "_id": 132031,
-        "Name": "Hydro Elemental Equipment",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes -1 DMG and deals +1 Healing</color>.<br>This status will provide 2 instances of <color style='color:#80C0FFFF'>Hydro Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "Элементальная форма: Гидро",
+        "Desc": "Персонаж с этой картой <color style='color:#FFFFFFFF'>получает на 1 ед. урона меньше</color> и восстанавливает 1 HP.<br>Это состояние даёт <color style='color:#80C0FFFF'>Гидро эффект</color> дважды (может быть снят элементальной реакцией). Когда эффект заканчивается, состояние исчезает, а персонаж с этой картой <color style='color:#FFFFFFFF'>не сможет использовать навыки</color> до конца этого раунда.",
         "Tag": [],
         "Cost": {}
     },
     "132041": {
         "_id": 132041,
-        "Name": "Elemental Lifeform: Hydro",
-        "Desc": "This character always has [b]2102[a]<color style='color:#80C0FFFF'>Hydro</color> applied, and it is immune to [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.",
+        "Name": "Элементальные существа: Гидро",
+        "Desc": "У этого персонажа всегда есть [b]2102[a]<color style='color:#80C0FFFF'>Гидро</color>, иммунитет: [b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color>.",
         "Tag": [],
         "Cost": {}
     },
     "132051": {
         "_id": 132051,
-        "Name": "Terrain Advantage",
-        "Desc": "The character <color style='color:#FFFFFFFF'>deals +1 DMG</color>. (This character will permanently change its State if they take [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> or [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.)",
+        "Name": "Преимущество на земле",
+        "Desc": "Персонаж <color style='color:#FFFFFFFF'>наносит на 1 ед. урона больше</color>. (Персонаж навсегда изменит состояние, если получит [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color> или [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>)",
         "Tag": [],
         "Cost": {}
     },
     "132061": {
         "_id": 132061,
-        "Name": "Spirit of Omen's Awakening: Hydro",
-        "Desc": "Character <color style='color:#FFFFFFFF'>deals +1 DMG</color> and converts [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> to [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br>This character takes +2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Пробуждение духа предзнаменования: Гидро",
+        "Desc": "Персонаж <color style='color:#FFFFFFFF'>наносит на 1 ед. урона больше</color>, [b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color> превращается в [b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color>.<br>[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color>, который получает этот персонаж, увеличивается на 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "132071": {
         "_id": 132071,
-        "Name": "Gurgling Bubble",
-        "Desc": "<color style='color:#FFFFFFFF'>Character cannot use Skills.</color> (Lasts until the end of this Round)",
+        "Name": "Булькающий пузырь",
+        "Desc": "<color style='color:#FFFFFFFF'>Персонаж не может использовать навыки.</color> Действует до конца раунда.",
         "Tag": [
             "GCG_TAG_FORBIDDEN_ATTACK"
         ],
@@ -8433,92 +8433,92 @@ var _ref = {
     },
     "133011": {
         "_id": 133011,
-        "Name": "Pyro Shield",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes no DMG</color>.<br>This status will provide 2 instances of <color style='color:#FF9999FF'>Pyro Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "Пиро купол",
+        "Desc": "Персонаж с этой картой <color style='color:#FFFFFFFF'>не получает урон</color>.<br>Это состояние даёт 2 <color style='color:#FF9999FF'>Пиро эффекта</color> (может быть снят элементальной реакцией). Когда они потратятся, состояние будет снято, а персонаж с этой картой до конца раунда <color style='color:#FFFFFFFF'>не сможет использовать навыки</color>.",
         "Tag": [],
         "Cost": {}
     },
     "133021": {
         "_id": 133021,
-        "Name": "Flowfire Edge",
-        "Desc": "The [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> this character deals is converted to [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Остриё пламени",
+        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color>, который наносит персонаж, конвертируется в [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color><br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "133031": {
         "_id": 133031,
-        "Name": "Kamuna Talisman: Pyro",
-        "Desc": "The [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> this character deals is converted to [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Амулет Камуны: Пламя",
+        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color>, который наносит персонаж, конвертируется в [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color><br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "133032": {
         "_id": 133032,
-        "Name": "Final Frenzy",
-        "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase starts:</color> If the character to which this is attached is the active character, remove this status, heal this character for 3 HP, and re-attach <color style='color:#FFFFFFFF'>Kamuna Talisman: Pyro</color>.",
+        "Name": "Финальная лихорадка",
+        "Desc": "<color style='color:#FFFFFFFF'>В начале фазы ходов:</color> если персонаж с этой картой является активным персонажем, состояние снимается, персонаж восстанавливает 3 HP, и снова прикрепляет <color style='color:#FFFFFFFF'>Амулет Камуны: Пламя</color>.",
         "Tag": [],
         "Cost": {}
     },
     "133061": {
         "_id": 133061,
-        "Name": "Pyro Elemental Equipment",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes -1 DMG and deals +1 DMG</color>.<br>This status will provide 2 instances of <color style='color:#FF9999FF'>Pyro Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "Элементальная форма: Пиро",
+        "Desc": "Персонаж в этом состоянии <color style='color:#FFFFFFFF'>получает на 1 ед. урона меньше</color> и увеличивает собственный урон на 1 ед.<br>Это состояние даёт <color style='color:#FF9999FF'>Пиро эффект</color> дважды (может быть снят элементальной реакцией). Когда эффект заканчивается, состояние исчезает, а персонаж <color style='color:#FFFFFFFF'>не сможет использовать навыки</color> до конца этого раунда.",
         "Tag": [],
         "Cost": {}
     },
     "134011": {
         "_id": 134011,
-        "Name": "Kamuna Talisman: Electro",
-        "Desc": "The [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> this character deals is converted to [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Амулет Камуны: Электро",
+        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color>, который наносит персонаж, конвертируется в [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color><br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "134012": {
         "_id": 134012,
-        "Name": "Final Frenzy",
-        "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase starts:</color> If the character to which this is attached is the active character, remove this status, heal this character for 3 HP, and re-attach <color style='color:#FFFFFFFF'>Kamuna Talisman: Electro</color>.",
+        "Name": "Финальная лихорадка",
+        "Desc": "<color style='color:#FFFFFFFF'>В начале фазы ходов:</color> если персонаж с этой картой является активным персонажем, состояние снимается, персонаж восстанавливает 3 HP, и снова прикрепляет <color style='color:#FFFFFFFF'>Амулет Камуны: Электро</color>.",
         "Tag": [],
         "Cost": {}
     },
     "134031": {
         "_id": 134031,
-        "Name": "Ripple Electro Edge",
-        "Desc": "The [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> this character deals is converted to [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Пылающий топор Электро",
+        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color>, который наносит персонаж, конвертируется в [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color><br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "134041": {
         "_id": 134041,
-        "Name": "Tanglebolt Ring",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Кольцо молний",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "134042": {
         "_id": 134042,
-        "Name": "Electro Shield",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes no DMG</color>.<br>This status will provide 2 instances of <color style='color:#FFACFFFF'>Electro Infusion</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "Электро купол",
+        "Desc": "Персонаж в этом состоянии <color style='color:#FFFFFFFF'>имеет иммунитет к любому урону</color>.<br>Это состояние даёт <color style='color:#FFACFFFF'>Электро эффект</color> дважды (может быть снят элементальной реакцией). Когда эффекты снимаются, состояние исчезает, а персонаж, на которого было наложено состояние, <color style='color:#FFFFFFFF'>не сможет использовать навыки</color> до конца этого раунда.",
         "Tag": [],
         "Cost": {}
     },
     "134061": {
         "_id": 134061,
-        "Name": "Elemental Lifeform: Electro",
-        "Desc": "This character always has [b]2104[a]<color style='color:#FFACFFFF'>Electro</color> applied, and it is immune to [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.",
+        "Name": "Элементальные существа: Электро",
+        "Desc": "У этого персонажа всегда есть [b]2104[a]<color style='color:#FFACFFFF'>Электро</color>, иммунитет: [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>.",
         "Tag": [],
         "Cost": {}
     },
     "134071": {
         "_id": 134071,
-        "Name": "Electro Elemental Equipment",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes -1 DMG and deals +1 DMG</color>.<br>This status will provide 2 instances of <color style='color:#FFACFFFF'>Electro Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "Элементальная форма: Электро",
+        "Desc": "Персонаж в этом состоянии <color style='color:#FFFFFFFF'>получает на 1 ед. урона меньше</color> и увеличивает собственный урон на 1 ед.<br>Это состояние даёт <color style='color:#FFACFFFF'>Электро эффект</color> дважды (может быть снят элементальной реакцией). Когда эффекты снимаются, состояние исчезает, а персонаж, на которого было наложено состояние, <color style='color:#FFFFFFFF'>не сможет использовать навыки</color> до конца этого раунда.",
         "Tag": [],
         "Cost": {}
     },
     "134081": {
         "_id": 134081,
-        "Name": "Shield Block",
-        "Desc": "The next time this character acts, they will immediately use the Skill <color style='color:#FFFFFFFF'>Shield Slice</color>.<br><color style='color:#FFFFFFFF'>While preparing Shield Slice:</color> Grant 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points to this character.",
+        "Name": "Блок щита",
+        "Desc": "Во время следующего действия этот персонаж сразу использует навык: <color style='color:#FFFFFFFF'>Разрез щитом</color>.<br><color style='color:#FFFFFFFF'>При подготовке навыка Разрез щитом</color>: даёт [b]4007[a]<color style='color:#FFFFFFFF'>Щит</color>, 2 ед., для защиты этого персонажа.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -8526,127 +8526,127 @@ var _ref = {
     },
     "134091": {
         "_id": 134091,
-        "Name": "Elemental Devourer",
-        "Desc": "After taking [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>, stack 1 level of Elemental Devourer. (Max 2 levels)<br>When 2 levels of Elemental Devourer have been gained, character deals +1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color> and takes +2 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.",
+        "Name": "Пожиратель элементов",
+        "Desc": "Когда обладатель статуса получает [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, ему добавляется 1 уровень Пожирателя элементов (суммарно не более 2 уровней).<br>Персонаж, достигший второго уровня Пожирателя элементов, увеличивает свой [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color> на 1 ед., а получаемый им [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color> увеличивается на 2 ед.",
         "Tag": [],
         "Cost": {}
     },
     "135011": {
         "_id": 135011,
-        "Name": "Whirlwind",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Торнадо",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "135021": {
         "_id": 135021,
-        "Name": "Stormwind Barrier",
-        "Desc": "The next time this character acts, they will immediately use the Skill <color style='color:#FFFFFFFF'>Avenging Squall</color>.<br><color style='color:#FFFFFFFF'>While preparing this Skill:</color> Grant the character to which this is attached 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points. Meanwhile, if the character takes <color style='color:#80C0FFFF'>[b]2102[a]Hydro</color>/<color style='color:#FF9999FF'>[b]2103[a]Pyro</color>/<color style='color:#99FFFFFF'>[b]2101[a]Cryo</color>/<color style='color:#FFACFFFF'>[b]2104[a]Electro</color> DMG, Avenging Squall will deal +1 DMG and its DMG type will be converted to the corresponding Element as well.",
+        "Name": "Буревой заслон",
+        "Desc": "В следующий раз, когда этот персонаж будет выполнять действие, активируется навык: <color style='color:#FFFFFFFF'>Против ветра</color>.<br><color style='color:#FFFFFFFF'>Пока готовится Против ветра: </color>даёт [b]4007[a]<color style='color:#FFFFFFFF'>Щит</color>, 2 ед. этому персонажу. Если этот персонаж получит <color style='color:#80C0FFFF'>[b]2102[a]Гидро</color>/<color style='color:#FF9999FF'>[b]2103[a]Пиро</color>/<color style='color:#99FFFFFF'>[b]2101[a]Крио</color>/<color style='color:#FFACFFFF'>[b]2104[a]Электро</color> урон, то урон Против ветра увеличится на 1 ед. и станет уроном такого же типа, который получил персонаж.",
         "Tag": [],
         "Cost": {}
     },
     "136011": {
         "_id": 136011,
-        "Name": "Craggy Greatshield",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached takes DMG: </color>Decrease a maximum of 2 DMG. When [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color> is decreased, consume 1 additional <color style='color:#FFFFFFFF'>Usage(s)</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Каменный щит",
+        "Desc": "Когда персонаж <color style='color:#FFFFFFFF'>в этом состоянии получает урон</color>: получаемый урон снижается на 2 ед. Когда снижается [b]2106[a]<color style='color:#FFE699FF'>Гео урон</color>, <color style='color:#FFFFFFFF'>Кол-во применений</color> -1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "136021": {
         "_id": 136021,
-        "Name": "Corrosion",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Apart from non-active characters who have no more than 3 HP, all of characters in this play area take 1 <color style='color:#FFFFFFFF'>Piercing DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 3 stacks.)",
+        "Name": "Разложение",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> все персонажи в отряде получают <color style='color:#FFFFFFFF'>Проникающий урон</color>, 1 ед., кроме неактивных с HP не более 3 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color></color>: 1. Складывается до 3 раз.",
         "Tag": [],
         "Cost": {}
     },
     "136022": {
         "_id": 136022,
-        "Name": "Elemental Devourer",
-        "Desc": "After taking [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>, stack 1 level of Elemental Devourer. (Max 2 levels)<br>When 2 levels of Elemental Devourer have been gained, character deals +1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color> and takes +2 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.",
+        "Name": "Пожиратель элементов",
+        "Desc": "Когда обладатель статуса получает [b]2106[a]<color style='color:#FFE699FF'>Гео урон</color>, ему добавляется 1 уровень Пожирателя элементов (суммарно не более 2 уровней).<br>Персонаж, достигший второго уровня Пожирателя элементов, увеличивает свой [b]2106[a]<color style='color:#FFE699FF'>Гео урон</color> на 1 ед., а получаемый им [b]2106[a]<color style='color:#FFE699FF'>Гео урон</color> увеличивается на 2 ед.",
         "Tag": [],
         "Cost": {}
     },
     "136031": {
         "_id": 136031,
-        "Name": "Rocky Pedestal",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active [b]3502[a]Hilichurl takes DMG: </color>Decreases DMG taken by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Скалистый пьедестал",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда ваш активный персонаж [b]3502[a]хиличурл получает урон: </color>снижает получаемый урон на 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "136041": {
         "_id": 136041,
-        "Name": "Geo Elemental Equipment",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached takes DMG: </color>Decrease 1 DMG. When [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color> is decreased, consume 1 additional <color style='color:#FFFFFFFF'>Usage(s)</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Элементальная форма: Гео",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии получает урон</color>: получаемый урон снижается на 1 ед. Когда снижается [b]2106[a]<color style='color:#FFE699FF'>Гео урон</color>, <color style='color:#FFFFFFFF'>Кол-во применений</color> - 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "136042": {
         "_id": 136042,
-        "Name": "Crystal Shield",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active character takes DMG: </color>Decrease DMG taken by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>When Geo Elemental Equipment leaves play:</color> Remove this effect.",
+        "Name": "Кристаллический купол",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда ваш персонаж получает урон: </color>снижает получаемый урон на 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color><br>Когда <color style='color:#FFFFFFFF'>Элементальная форма: Гео убирается с поля боя:</color> состояние исчезает.",
         "Tag": [],
         "Cost": {}
     },
     "136051": {
         "_id": 136051,
-        "Name": "Spirit of Omen: Stone Drake",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deals 1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>When this Summon is in play, when Eremite Stone Enchanter takes DMG:</color> DMG received reduced by 2. Consume 1 additional <color style='color:#FFFFFFFF'>Usage(s)</color> when negating [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>. (Once per Round. Usage consumption required)",
+        "Name": "Дух предзнаменования: Каменный дракон",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2106[a]<color style='color:#FFE699FF'>Гео урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color><br><color style='color:#FFFFFFFF'>Когда помощник на поле боя, а Пустынник: Зачарователь камней получает урон:</color> получаемый урон снижается на 2 ед. Когда снижается [b]2106[a]<color style='color:#FFE699FF'>Гео урон</color>, дополнительно расходуется <color style='color:#FFFFFFFF'>Кол-во применений</color>, 1 ед. (1 раз за раунд).",
         "Tag": [],
         "Cost": {}
     },
     "137011": {
         "_id": 137011,
-        "Name": "Aerial Superiority",
-        "Desc": "The character <color style='color:#FFFFFFFF'>takes -1 DMG</color>. (This character will permanently change its State if it takes [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> or [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.)",
+        "Name": "Господство в воздухе",
+        "Desc": "Персонаж <color style='color:#FFFFFFFF'>получает на 1 ед. урона меньше</color>. (Персонаж навсегда изменит состояние, если получит [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color> или [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>)",
         "Tag": [],
         "Cost": {}
     },
     "137012": {
         "_id": 137012,
-        "Name": "Scorched",
-        "Desc": "After this character becomes Scorched, it will lose its original buff.",
+        "Name": "Обожжение",
+        "Desc": "Получив Обожжение, персонаж лишается других имеющихся бонусов.",
         "Tag": [],
         "Cost": {}
     },
     "137013": {
         "_id": 137013,
-        "Name": "Activated",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> The character gains 1 Energy.<br><color style='color:#FFFFFFFF'>After the character goes down</color>: The opposing active character gains 1 Energy.",
+        "Name": "Оживление",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> персонаж получает 1 ед. энергии.<br><color style='color:#FFFFFFFF'>Когда персонажа побеждают</color>: активный персонаж противника получает 1 ед. энергии.",
         "Tag": [],
         "Cost": {}
     },
     "137021": {
         "_id": 137021,
-        "Name": "Crudewood Greatshield",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes -2 DMG</color>.<br>This status will provide 2 instances of <color style='color:#7EC236FF'>Dendro Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed.",
+        "Name": "Большой деревянный щит",
+        "Desc": "Персонаж в этом состоянии <color style='color:#FFFFFFFF'>получает на 2 ед. урона меньше</color>.<br>Это состояние даёт <color style='color:#7EC236FF'>Эффект Дендро</color> дважды (может быть снят элементальной реакцией): когда эффекты снимаются, состояние исчезает.",
         "Tag": [],
         "Cost": {}
     },
     "137031": {
         "_id": 137031,
-        "Name": "Vines",
-        "Desc": "<color style='color:#FFFFFFFF'>After a character switch takes place in this play area:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color> to the character activated.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Лоза",
+        "Desc": "<color style='color:#FFFFFFFF'>После смены персонажа в отряде:</color> тот персонаж, на которого вы переключились, получает [b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "137041": {
         "_id": 137041,
-        "Name": "Delayed Fuse Munitions",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>, deal <color style='color:#FFFFFFFF'>1 <color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Снаряды с таймером",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color>, 2 ед. и <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Проникающий урон</color>, 1 ед.</color> все неактивным персонажам противника.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "301102": {
         "_id": 301102,
-        "Name": "Millennial Movement: Farewell Song",
-        "Desc": "Your character deals 1 increased DMG.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Тысячелетняя симфония: Прощальный гимн",
+        "Desc": "Повышает урон вашего персонажа на 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "301201": {
         "_id": 301201,
-        "Name": "Unmovable Mountain",
-        "Desc": "Provides 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> to protect the equipped character.",
+        "Name": "Неподвижные скалы",
+        "Desc": "Даёт [b]4007[a]<color style='color:#FFFFFFFF'>Щит</color>, 2 ед., для защиты этого персонажа.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -8654,57 +8654,57 @@ var _ref = {
     },
     "301018": {
         "_id": 301018,
-        "Name": "Strictly Prohibited",
-        "Desc": "Event Cards played on this side of the field this Round will be invalid.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Строгий запрет",
+        "Desc": "При разыгрывании карт действий в этом раунде они не будут иметь никакого эффекта.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "303227": {
         "_id": 303227,
-        "Name": "Four-Leaf Sigil",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Switch to the attached character.",
+        "Name": "Четырёхлистный символ",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза</color>: переключается на персонажа с этой картой.",
         "Tag": [],
         "Cost": {}
     },
     "401001": {
         "_id": 401001,
-        "Name": "Hot Potato",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses Skill: </color>This effect will be transferred to the opposing side and accumulate 1 point of Piping Hot (max 4 points). <color style='color:#FFFFFFFF'>End Phase: </color>Remove this effect and deal 2 [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> to the side where this effect is attached to. Each point of Piping Hot grants +1 DMG to this effect.",
+        "Name": "Горячая картошка",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда ваш персонаж использует навык:</color> эффект переносится на противника, накапливая 1 единицу кипучего жара (можно накопить до 4 единиц).<color style='color:#FFFFFFFF'>Финальная фаза:</color> Когда эффект снимается, активный персонаж в отряде, на чьей стороне осталась картошка, получает [b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color>, 2 ед. За каждую единицу кипучего жара урон увеличивается ещё на 1 ед.",
         "Tag": [],
         "Cost": {}
     },
     "402002": {
         "_id": 402002,
-        "Name": "Mutation Stone: Shaman's Treasure",
-        "Desc": "Your active character <color style='color:#FFFFFFFF'>deals +2 DMG</color>.",
+        "Name": "Камень мутации: сокровище шамачурла",
+        "Desc": "Ваш активный персонаж <color style='color:#FFFFFFFF'>наносит на 2 ед. урона больше</color>.",
         "Tag": [],
         "Cost": {}
     },
     "402003": {
         "_id": 402003,
-        "Name": "Ignited Morale",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Пламенный дух",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии оказывается повержен:</color> эффект снимается, срабатывает <color style='color:#FFFFFFFF'>Возврат на поле боя</color>, восстанавливая 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "402004": {
         "_id": 402004,
-        "Name": "Belligerence Unfettered",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Боевая настороженность",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии оказывается повержен:</color> эффект снимается, срабатывает <color style='color:#FFFFFFFF'>Возврат на поле боя</color>, восстанавливая 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "402005": {
         "_id": 402005,
-        "Name": "Blazing Will",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color> and heal them to 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Горячая воля",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии оказывается повержен:</color> эффект снимается, срабатывает <color style='color:#FFFFFFFF'>Возврат на поле боя</color>, восстанавливая 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "402007": {
         "_id": 402007,
-        "Name": "Energy Revival",
-        "Desc": "This effect starts out with 3 Revival Phases. <color style='color:#FFFFFFFF'>After the Pure Electro Hypostasis uses a Skill:</color> -1 Revival Phase. If the Revival Phases are fully elapsed, remove this effect and end <color style='color:#FFFFFFFF'>Expose Weakness</color>. Then, each point remaining of the <color style='color:#FFFFFFFF'>Revival Prism</color>'s Prismatic Energy will heal the Pure Electro Hypostasis for 2 HP.",
+        "Name": "Восстановление энергии",
+        "Desc": "Этот эффект начинается с 3 ед. Таймера воскрешения.<color style='color:#FFFFFFFF'>Когда чистый Электро гипостазис использует навык:</color> Таймер воскрешения теряет 1 ед. Когда Таймер закончится, эффект снимается, а <color style='color:#FFFFFFFF'>Раскрытие слабости</color> завершается, после чего за каждую единицу Призматической энергии вычитаются <color style='color:#FFFFFFFF'>призмы возрождения</color>, восстанавливая чистому Электро гипостазису по 2 HP.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -8712,43 +8712,43 @@ var _ref = {
     },
     "402011": {
         "_id": 402011,
-        "Name": "Expose Weakness",
-        "Desc": "While this effect is active, <color style='color:#FFFFFFFF'>Pure Electro Hypostasis</color>'s <color style='color:#FFFFFFFF'>Revival Prism</color> will take damage on their behalf.<br>(When the character takes Elemental Reaction DMG, the Revival Prism's <color style='color:#FFFFFFFF'>Prismatic Energy</color> will be expended. Concurrently, character will be immune to all damage.)",
+        "Name": "Раскрытие слабости",
+        "Desc": "Пока этот эффект существует, <color style='color:#FFFFFFFF'>Призмы воскрешения</color> <color style='color:#FFFFFFFF'>чистого Электро гипостазиса</color> будут брать на себя урон.<br>Когда персонаж получает урон от элементальной реакции, у призмы возрождения расходуется <color style='color:#FFFFFFFF'>призматическая энергия</color>. При этом сам персонаж обладает иммунитетом к любому урону.",
         "Tag": [],
         "Cost": {}
     },
     "402013": {
         "_id": 402013,
-        "Name": "Amplified Enhancement: Ousia",
-        "Desc": "Your characters deal +1 DMG.<br><color style='color:#FFFFFFFF'>When your active character takes DMG that is not [b]3505[a]Arkhe: Pneuma aligned:</color> Negate 2 DMG.<br><color style='color:#FFFFFFFF'>After your active character takes DMG that is [b]3505[a]Arkhe: Pneuma aligned:</color> A Pneuma-Ousia Annihilation Reaction occurs, and remove this effect.",
+        "Name": "Максимальное усиление: Усия",
+        "Desc": "Ваш персонаж наносит на 1 ед. урона больше.<br><color style='color:#FFFFFFFF'>Когда ваш активный персонаж получает урон, не относящийся к [b]3505[a]архэ: пневма,</color> урон снижается на 2 ед.<br><color style='color:#FFFFFFFF'>Когда ваш персонаж получает урон [b]3505[a]архэ: пневма,</color> происходит Реакция аннигиляции пневмы и усии, эффект снимается.",
         "Tag": [],
         "Cost": {}
     },
     "402014": {
         "_id": 402014,
-        "Name": "Skyward Patrol",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached takes DMG:</color> Negate 2 DMG.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>. After uses are exhausted, the character enters \"Exhausted Plunge\" status.",
+        "Name": "Небесный патруль",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии получает урон:</color> получаемый урон снижается на 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color>. Когда применения закончатся, персонаж переходит в состояние Изнурительное падение.",
         "Tag": [],
         "Cost": {}
     },
     "402015": {
         "_id": 402015,
-        "Name": "Exhausted Plunge",
-        "Desc": "Attached character takes +1 DMG.<br>This effect starts off with 3 \"Takeoff Countdown Points.\"<br><color style='color:#FFFFFFFF'>After the character to which this is attached uses a skill:</color> Lose 1 \"Takeoff Countdown Point.\" Once all \"Takeoff Countdown Points\" are removed, this effect is removed, and the character returns to \"Skyward Patrol\" status.",
+        "Name": "Изнурительное падение",
+        "Desc": "Персонаж в этом состоянии получает на 1 ед. урона больше.<br>В начале Счётчик взлётов у эффекта равняется 3.<br><color style='color:#FFFFFFFF'>Когда персонаж в этом состоянии использует навык:</color> счётчик уменьшается на 1 единицу. Когда счётчик достигнет нуля, эффект снимается, а персонаж возвращается в состояние Небесный патруль.",
         "Tag": [],
         "Cost": {}
     },
     "402020": {
         "_id": 402020,
-        "Name": "Multiplied Damage",
-        "Desc": "DMG dealt by your characters +1; DMG further increased by 1 for each stack of Multiplied Damage.<br>Multiplied Damage can stack up to 3 times.",
+        "Name": "Множественный урон",
+        "Desc": "Урон ваших персонажей увеличивается на 1 ед. В дальнейшем урон увеличивается ещё на 1 ед. за каждый уровень Множественного урона.<br>Складывается до 3 раз.",
         "Tag": [],
         "Cost": {}
     },
     "403027": {
         "_id": 403027,
-        "Name": "Pneuma Block",
-        "Desc": "During this Round, DMG dealt by your characters has [b]3505[a]Arkhe: Pneuma. (Including DMG dealt by elemental reactions triggered by said characters)<br>After dealing DMG to a target with \"Ousia\" once, remove this effect.",
+        "Name": "Энергетический блок: Пневма",
+        "Desc": "В этом раунде ваш персонаж наносит урон [b]3505[a]архэ: пневма (в том числе при нанесении урона элементальной реакцией, которую вызывает персонаж).<br>Когда наносите эффект противнику в состоянии «усия», эффект снимается.",
         "Tag": [
             "GCG_TAG_ARKHE_OUSIA"
         ],
@@ -8756,8 +8756,8 @@ var _ref = {
     },
     "403028": {
         "_id": 403028,
-        "Name": "Ousia Block: Persistent",
-        "Desc": "DMG dealt by your characters has [b]3504[a]Arkhe: Ousia. (Including DMG dealt by elemental reactions triggered by said characters)",
+        "Name": "Энергетический блок: Усия (постоянство)",
+        "Desc": "Урон ваших персонажей обладает свойством [b]3504[a]архэ: усия (в том числе при нанесении урона элементальной реакцией, которую вызывает персонаж).",
         "Tag": [
             "GCG_TAG_ARKHE_PNEUMA"
         ],
@@ -8765,8 +8765,8 @@ var _ref = {
     },
     "403029": {
         "_id": 403029,
-        "Name": "Pneuma Block: Persistent",
-        "Desc": "DMG dealt by your characters has [b]3505[a]Arkhe: Pneuma. (Including DMG dealt by elemental reactions triggered by said characters)",
+        "Name": "Энергетический блок: Пневма (постоянство)",
+        "Desc": "Урон ваших персонажей обладает свойством [b]3505[a]архэ: пневма (в том числе при нанесении урона элементальной реакцией, которую вызывает персонаж).",
         "Tag": [
             "GCG_TAG_ARKHE_OUSIA"
         ],
@@ -8774,8 +8774,8 @@ var _ref = {
     },
     "403030": {
         "_id": 403030,
-        "Name": "Surging Will",
-        "Desc": "<color style='color:#FFFFFFFF'>After you play a Support Card:</color> Create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>, draw 1 card. (Once per Round)",
+        "Name": "Волевая подмога",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда вы разыгрываете карту поддержки</color>, то получаете 1 <color style='color:#FFFFFFFF'>[b]1111[a]Универсальный элемент</color> и берёте 1 карту (1 раз за раунд).",
         "Tag": [],
         "Cost": {}
     }
@@ -8783,80 +8783,80 @@ var _ref = {
 
 var _keyword = {
     "1": {
-        "Name": "<color style='color:#FFFFFFFF'>Combat Action</color>",
-        "Desc": "After you finish 1 Combat Action, it will be your opponent's turn.<br><color style='color:#FFFFFFFF'>Playing a card from your Hand with this rule is also a Combat Action rather than a Fast Action</color>."
+        "Name": "<color style='color:#FFFFFFFF'>Боевое действие</color>",
+        "Desc": "Когда вы совершите 1 боевое действие, ход перейдёт к противнику.<br><color style='color:#FFFFFFFF'>Разыгрывание этой карты из вашей руки относится к боевому действию, но не к быстрому действию.</color>"
     },
     "2": {
-        "Name": "<color style='color:#FFFFFFFF'>Fast Action</color>",
-        "Desc": "You can continue with other actions after conducting 1 Fast Action.<br>Only after conducting 1 Combat Action will the turn pass over to your opponent."
+        "Name": "<color style='color:#FFFFFFFF'>Быстрое действие</color>",
+        "Desc": "Быстрое действие не завершает ваш ход.<br>Только после выполнения боевого действия ход перейдёт к противнику."
     },
     "3": {
-        "Name": "<color style='color:#FFFFFFFF'>Usage(s)</color>",
-        "Desc": "After this card's effect is triggered, 1 <color style='color:#FFFFFFFF'>Usage</color> of it will be consumed.<br>This card will be discarded immediately once it has 0 <color style='color:#FFFFFFFF'>Usages</color> remaining."
+        "Name": "<color style='color:#FFFFFFFF'>Кол-во применений</color>",
+        "Desc": "Когда срабатывает эффект этой карты, расходуется 1 <color style='color:#FFFFFFFF'>применение</color>.<br>Когда <color style='color:#FFFFFFFF'>применения</color> кончаются, карта исчезает."
     },
     "4": {
-        "Name": "<color style='color:#FFFFFFFF'>Duration (Rounds)</color>",
-        "Desc": "Each time you reach the end of a Round, <color style='color:#FFFFFFFF'>Duration (Rounds)</color> -1.<br>This card will be discarded immediately once <color style='color:#FFFFFFFF'>Duration (Rounds)</color> runs out."
+        "Name": "<color style='color:#FFFFFFFF'>Продолжительность (в раундах)</color>",
+        "Desc": "Когда вы доходите до финальной фазы, <color style='color:#FFFFFFFF'>продолжительность (в раундах)</color> уменьшается на 1.<br>Когда <color style='color:#FFFFFFFF'>раундов</color> не останется, карта исчезает."
     },
     "5": {
-        "Name": "<color style='color:#FFFFFFFF'>Piercing DMG</color>",
-        "Desc": "Piercing DMG cannot be increased by any bonuses, but cannot be defended against using Shields or DMG Immunity either."
+        "Name": "<color style='color:#FFFFFFFF'>Проникающий урон</color>",
+        "Desc": "Проникающий урон нельзя усилить бонусами, зато от него нельзя защититься щитом, иммунитетом и другими способами."
     },
     "6": {
-        "Name": "[b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>",
-        "Desc": "This Shield will be consumed to protect the character who equips it from DMG."
+        "Name": "[b]4007[a]<color style='color:#FFFFFFFF'>Щит</color>",
+        "Desc": "Щит расходуется для защиты персонажа, который его экипировал, от урона."
     },
     "7": {
-        "Name": "<color style='color:#FFFFFFFF'>Character Closest to Your Current Active Character</color>",
-        "Desc": "The opposing \"character closest to your current active character\" is the opposing character whose position is closest to that of your active character.<br>If multiple such characters exist, the one with the foremost position will be viewed as being \"closest.\""
+        "Name": "<color style='color:#FFFFFFFF'>Персонаж противника, наиболее близкий к вашему активному персонажу</color>",
+        "Desc": "Персонажем противника, наиболее близким к вашему активному персонажу, считается персонаж противника, расположенный на наименьшей дистанции от вашего активного персонажа.<br>Если существует несколько равноудалённых персонажей, то наиболее близким из них будет считаться первый по порядку."
     },
     "51": {
-        "Name": "<color style='color:#FFFFFFFF'>Charged Attack</color>",
-        "Desc": "Before your Action Phase, should the total number of your Elemental Dice be even, your Normal Attack will be considered a Charged Attack."
+        "Name": "<color style='color:#FFFFFFFF'>Заряженная атака</color>",
+        "Desc": "Если перед началом хода ваше число дайсов чётное, то обычные атаки будут считаться заряженными атаками."
     },
     "52": {
-        "Name": "<color style='color:#FFFFFFFF'>Plunging Attack</color>",
-        "Desc": "After a character is switched in to be the Active Character, should their next Combat Action within this Round be a Normal Attack, it will be considered a Plunging Attack for the instance."
+        "Name": "<color style='color:#FFFFFFFF'>Атака в падении</color>",
+        "Desc": "Если следующим действием в текущем раунде, после того как персонаж стал активным, является обычная атака, она будет считаться атакой в падении."
     },
     "53": {
-        "Name": "<color style='color:#FFFFFFFF'>Prepare Skill</color>",
-        "Desc": "Some Skills cannot be used directly. Instead, they need to be <color style='color:#FFFFFFFF'>prepared</color> over a certain number of turns.<br>When it is a certain player's turn, and this player's active character is currently <color style='color:#FFFFFFFF'>preparing</color> a Skill, this player's turn will be skipped. If the Skill has finished being <color style='color:#FFFFFFFF'>prepared</color>, the character will directly use that Skill at this time. (Skills that require <color style='color:#FFFFFFFF'>preparing</color> cannot activate effects triggered by \"using a Skill\" or \"triggering an Elemental Reaction\" or other such effects.)<br>Only active characters can <color style='color:#FFFFFFFF'>prepare</color> Skills, and if an active character who is <color style='color:#FFFFFFFF'>preparing</color> a Skill gets switched off-field, their <color style='color:#FFFFFFFF'>preparation</color> will be interrupted."
+        "Name": "<color style='color:#FFFFFFFF'>Подготовка навыка</color>",
+        "Desc": "Некоторые навыки нельзя использовать сразу, им нужно несколько ходов на <color style='color:#FFFFFFFF'>подготовку</color>.<br>Когда ход переходит к сопернику, активный персонаж которого находится в состоянии <color style='color:#FFFFFFFF'>подготовки навыка</color>, то он пропускает этот ход. Если же <color style='color:#FFFFFFFF'>подготовка навыка</color> закончилась, то персонаж сразу использует навык. Навыки, требующие <color style='color:#FFFFFFFF'>подготовки</color>, не активируют эффекты, которые вызываются после использования навыка или после активации элементальной реакции.<br>Только активный персонаж может <color style='color:#FFFFFFFF'>подготавливать навык</color>. Если же <color style='color:#FFFFFFFF'>готовящего навык</color> персонажа сделать неактивным, то <color style='color:#FFFFFFFF'>подготовка</color> прервётся."
     },
     "54": {
-        "Name": "<color style='color:#FFFFFFFF'>Immunity to Defeat</color>",
-        "Desc": "Certain effects will grant characters an <color style='color:#FFFFFFFF'>immunity to being defeated</color> when their HP hits 0, and will heal them for a certain amount thereafter.<br>When this occurs, characters will not be regarded as having experienced a <color style='color:#FFFFFFFF'>defeat.</color> (Hence, their attached equipment and statuses will not be removed, and their Energy will remain uncleared.)"
+        "Name": "<color style='color:#FFFFFFFF'>Возврат на поле боя</color>",
+        "Desc": "Некоторые эффекты позволяют персонажу <color style='color:#FFFFFFFF'>избежать поражения</color>, когда его здоровье падает до 0, и восстановить некоторое количество HP.<br>При этом такое событие не считается <color style='color:#FFFFFFFF'>поражением</color> персонажа. Следовательно, экипировка и статусы персонажа не снимаются, энергия не сбрасывается."
     },
     "100": {
-        "Name": "[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color>",
-        "Desc": "Physical DMG will not apply any Elements, nor can it engage in Elemental Reactions."
+        "Name": "[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color>",
+        "Desc": "Физический урон не создаёт элементальных эффектов и не вступает в реакции."
     },
     "101": {
-        "Name": "[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>",
-        "Desc": "Applies [b]2101[a]Cryo and can trigger the following Elemental Reactions:<br>[b]2101[a][b]2103[a]<color style='color:#FFFFFFFF'>Melt</color>: DMG +2 for this instance<br>[b]2101[a][b]2104[a]<color style='color:#FFFFFFFF'>Superconduct</color>: DMG +1 for this instance, deal 1 Piercing DMG to all opposing characters except the target<br>[b]2101[a][b]2102[a]<color style='color:#FFFFFFFF'>Frozen</color>: DMG +1 for this instance, the target is unable to perform any Actions this Round (Can be removed in advance after the target receives Physical or Pyro DMG, in which case they will take +2 DMG)"
+        "Name": "[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>",
+        "Desc": "Создаёт эффект [b]2101[a]Крио и может вызвать следующие реакции:<br>[b]2101[a][b]2103[a]<color style='color:#FFFFFFFF'>Таяние</color>: урон +2 (в этот раз)<br>[b]2101[a][b]2104[a]<color style='color:#FFFFFFFF'>Сверхпроводник</color>: урон +1 (в этот раз), проникающий урон 1 ед. для всех персонажей противника, кроме цели<br>[b]2101[a][b]2102[a]<color style='color:#FFFFFFFF'>Заморозка</color>: урон +1 (в этот раз), цель не сможет двигаться в этом раунде (при получении физического или Пиро урона эффект снимается, но наносит урон +2)"
     },
     "102": {
-        "Name": "[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>",
-        "Desc": "Applies [b]2102[a]Hydro and can trigger the following Elemental Reactions:<br>[b]2102[a][b]2103[a]<color style='color:#FFFFFFFF'>Vaporize</color>: DMG +2 for this instance<br>[b]2102[a][b]2104[a]<color style='color:#FFFFFFFF'>Electro-Charged</color>：DMG +1 for this instance, deal 1 Piercing DMG to all opposing characters except the target<br>[b]2102[a][b]2101[a]<color style='color:#FFFFFFFF'>Frozen</color>: DMG +1 for this instance, the target is unable to perform any Actions this Round (Can be removed in advance after the target receives +2 Physical or Pyro DMG)<br>[b]2102[a][b]2107[a]<color style='color:#FFFFFFFF'>Bloom</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Dendro Core</color>] that grants +2 DMG to the next instance of Pyro or Electro DMG"
+        "Name": "[b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color>",
+        "Desc": "Создаёт эффект [b]2102[a]Гидро и может вызвать следующие реакции:<br>[b]2102[a][b]2103[a]<color style='color:#FFFFFFFF'>Пар</color>: урон +2 (в этот раз)<br>[b]2102[a][b]2104[a]<color style='color:#FFFFFFFF'>Заряжен</color>: урон +1 (в этот раз), наносит 1 ед. проникающего урона всем персонажам противника, кроме цели<br>[b]2102[a][b]2101[a]<color style='color:#FFFFFFFF'>Заморозка</color>: урон +1 (в этот раз), цель не сможет действовать в этом раунде (при получении физического или Пиро урона эффект снимается, но наносится на 2 ед. больше урона)<br>[b]2102[a][b]2107[a]<color style='color:#FFFFFFFF'>Бутонизация</color>: урон +1 (в этот раз), создаёт <color style='color:#FFFFFFFF'>Дендро ядро</color>, которое увеличит следующий Пиро или Электро урон на 2 ед."
     },
     "103": {
-        "Name": "[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>",
-        "Desc": "Applies [b]2103[a]Pyro and can trigger the following Elemental Reactions:<br>[b]2103[a][b]2101[a]<color style='color:#FFFFFFFF'>Melt</color>: DMG +2 for this instance<br>[b]2103[a][b]2102[a]<color style='color:#FFFFFFFF'>Vaporize</color>: DMG +2 for this instance<br>[b]2103[a][b]2104[a]<color style='color:#FFFFFFFF'>Overloaded</color>: DMG +2 for this instance, the target is forcibly switched to the next character<br>[b]2103[a][b]2107[a]<color style='color:#FFFFFFFF'>Burning</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Burning Flame</color>] that will deal 1 Pyro DMG at the end of the Round (Takes effect once, max 2 stacks)"
+        "Name": "[b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>",
+        "Desc": "Создаёт эффект [b]2103[a]Пиро и может вызвать следующие реакции:<br>[b]2103[a][b]2101[a]<color style='color:#FFFFFFFF'>Таяние</color>: урон +2 (в этот раз)<br>[b]2103[a][b]2102[a]<color style='color:#FFFFFFFF'>Пар</color>: урон +2 (в этот раз)<br>[b]2103[a][b]2104[a]<color style='color:#FFFFFFFF'>Перегрузка</color>: урон +2 (в этот раз), делает активным следующего персонажа противника<br>[b]2103[a][b]2107[a]<color style='color:#FFFFFFFF'>Горение</color>: урон +1 (в этот раз), создаёт <color style='color:#FFFFFFFF'>яркое пламя</color>, которое наносит 1 ед. Пиро урона в конце раунда (применения: 1, складывается до 2 раз)"
     },
     "104": {
-        "Name": "[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>",
-        "Desc": "Applies [b]2104[a]Electro and can trigger the following Elemental Reactions:<br>[b]2104[a][b]2103[a]<color style='color:#FFFFFFFF'>Overloaded</color>: DMG +2 for this instance, the target is forcibly switched to the next character<br>[b]2104[a][b]2101[a]<color style='color:#FFFFFFFF'>Superconduct</color>: DMG +1 for this instance, deal 1 Piercing DMG to all opposing characters except the target<br>[b]2104[a][b]2102[a]<color style='color:#FFFFFFFF'>Electro-Charged</color>: DMG +1 for this instance, deal 1 Piercing DMG to all opposing characters except the target<br>[b]2104[a][b]2107[a]<color style='color:#FFFFFFFF'>Quicken</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Catalyzing Field</color>] that grants +1 DMG to the next 2 instances of Dendro or Electro DMG"
+        "Name": "[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>",
+        "Desc": "Создаёт эффект [b]2104[a]Электро и вызывает следующие реакции:<br>[b]2104[a][b]2103[a]<color style='color:#FFFFFFFF'>Перегрузка</color>: урон +2 (в этот раз), делает активным следующего персонажа противника<br>[b]2104[a][b]2101[a]<color style='color:#FFFFFFFF'>Сверхпроводник</color>: урон +1 (в этот раз), наносит проникающий урон 1 ед. для всех персонажей противника, кроме цели<br>[b]2104[a][b]2102[a]<color style='color:#FFFFFFFF'>Заряжен</color>: урон +1 (в этот раз), наносит проникающий урон 1 ед. для всех персонажей противника, кроме цели<br>[b]2104[a][b]2107[a]<color style='color:#FFFFFFFF'>Стимуляция</color>: урон +1 (в этот раз), создаёт <color style='color:#FFFFFFFF'>область катализа</color>, которая увеличит следующие два Дендро или Электро урона на 1 ед."
     },
     "105": {
-        "Name": "[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>",
-        "Desc": "Reacts with Elements if they are already applied:<br>[b]2105[a][b]2101[a]<color style='color:#FFFFFFFF'>Cryo Swirl</color>: Deals 1 Cryo DMG to all opposing characters except the target<br>[b]2105[a][b]2102[a]<color style='color:#FFFFFFFF'>Hydro Swirl</color>: Deals 1 Hydro DMG to all opposing characters except the target<br>[b]2105[a][b]2103[a]<color style='color:#FFFFFFFF'>Pyro Swirl</color>: Deals 1 Pyro DMG to all opposing characters except the target<br>[b]2105[a][b]2104[a]<color style='color:#FFFFFFFF'>Electro Swirl</color>: Deals 1 Electro DMG to all opposing characters except the target"
+        "Name": "[b]2105[a]<color style='color:#80FFD7FF'>Анемо урон</color>",
+        "Desc": "При взаимодействии с наложенными эффектами других элементов создаёт реакции:<br>[b]2105[a][b]2101[a]<color style='color:#FFFFFFFF'>Рассеивание (Крио)</color>: наносит 1 ед. Крио урона всем персонажам противника, кроме цели<br>[b]2105[a][b]2102[a]<color style='color:#FFFFFFFF'>Рассеивание (Гидро)</color>: наносит 1 ед. Гидро урона всем персонажам противника, кроме цели<br>[b]2105[a][b]2103[a]<color style='color:#FFFFFFFF'>Рассеивание (Пиро)</color>: наносит 1 ед. Пиро урона всем персонажам противника, кроме цели<br>[b]2105[a][b]2104[a]<color style='color:#FFFFFFFF'>Рассеивание (Электро)</color>: наносит 1 ед. Электро урона всем персонажам противника, кроме цели"
     },
     "106": {
-        "Name": "[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>",
-        "Desc": "Reacts with Elements if they are already applied:<br>[b]2106[a][b]2101[a]<color style='color:#FFFFFFFF'>Cryo Crystallize</color>: DMG +1 for this instance, your active character gains 1 Shield point (Can stack, max 2 points)<br>[b]2106[a][b]2102[a]<color style='color:#FFFFFFFF'>Hydro Crystallize</color>: DMG +1 for this instance, your active character gains 1 Shield point (Can stack, max 2 points)<br>[b]2106[a][b]2103[a]<color style='color:#FFFFFFFF'>Pyro Crystallize</color>: DMG +1 for this instance, your active character gains 1 Shield point (Can stack, max 2 points)<br>[b]2106[a][b]2104[a]<color style='color:#FFFFFFFF'>Electro Crystallize</color>: DMG +1 for this instance, your active character gains 1 Shield point (Can stack, max 2 points)"
+        "Name": "[b]2106[a]<color style='color:#FFE699FF'>Гео урон</color>",
+        "Desc": "Взаимодействует с эффектами от других элементов:<br>[b]2106[a][b]2101[a]<color style='color:#FFFFFFFF'>Кристалл (Крио)</color>: урон +1 (в этот раз), ваш активный персонаж получает 1 ед. щита (складывается до 2 раз)<br>[b]2106[a][b]2102[a]<color style='color:#FFFFFFFF'>Кристалл (Гидро)</color>: урон +1 (в этот раз), ваш активный персонаж получает 1 ед. щита (складывается до 2 раз)<br>[b]2106[a][b]2103[a]<color style='color:#FFFFFFFF'>Кристалл (Пиро)</color>: урон +1 (в этот раз), ваш активный персонаж получает 1 ед. щита (складывается до 2 раз)<br>[b]2106[a][b]2104[a]<color style='color:#FFFFFFFF'>Кристалл (Электро)</color>: урон +1 (в этот раз), ваш активный персонаж получает 1 ед. щита (складывается до 2 раз)"
     },
     "107": {
-        "Name": "[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>",
-        "Desc": "Applies [b]2107[a]Dendro and can trigger the following Elemental Reactions:<br>[b]2107[a][b]2102[a]<color style='color:#FFFFFFFF'>Bloom</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Dendro Core</color>] that grants +2 DMG to the next instance of Pyro or Electro DMG<br>[b]2107[a][b]2103[a]<color style='color:#FFFFFFFF'>Burning</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Burning Flame</color>] that will deal 1 Pyro DMG at the end of the Round (Takes effect once, max 2 stacks)<br>[b]2107[a][b]2104[a]<color style='color:#FFFFFFFF'>Quicken</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Catalyzing Field</color>] that grants +1 DMG to the next 2 instances of Dendro or Electro DMG"
+        "Name": "[b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color>",
+        "Desc": "Создаёт эффект [b]2107[a]Дендро и вызывает следующие реакции:<br>[b]2107[a][b]2102[a]<color style='color:#FFFFFFFF'>Бутонизация</color>: урон +1 (в этот раз), создаёт <color style='color:#FFFFFFFF'>Дендро ядро</color>, которое увеличит следующий Пиро или Электро урон на 2 ед.<br>[b]2107[a][b]2103[a]<color style='color:#FFFFFFFF'>Горение</color>: урон +1 (в этот раз), создаёт <color style='color:#FFFFFFFF'>яркое пламя</color>, которое наносит 1 ед. Пиро урона в конце раунда (активируется 1 раз, складывается до 2 раз)<br>[b]2107[a][b]2104[a]<color style='color:#FFFFFFFF'>Стимуляция</color>: урон +1 (в этот раз), создаёт <color style='color:#FFFFFFFF'>область катализа</color>, которая увеличит следующие два Дендро или Электро урона на 1 ед."
     },
     "111": {
         "Name": "[b]2101[a]",
@@ -8887,226 +8887,226 @@ var _keyword = {
         "Desc": ""
     },
     "201": {
-        "Name": "<color style='color:#99FFFFFF'>[b]2101[a]Cryo Application</color>",
-        "Desc": "When [b]2101[a]Cryo is applied without dealing any DMG, the Elemental Reaction triggered will ignore DMG-dealing effects:<br>[b]2101[a][b]2103[a]<color style='color:#FFFFFFFF'>Melt</color>: No effect<br>[b]2101[a][b]2104[a]<color style='color:#FFFFFFFF'>Superconduct</color>: No effect<br>[b]2101[a][b]2102[a]<color style='color:#FFFFFFFF'>Frozen</color>: The target is unable to perform any Actions this Round (Can be removed in advance after the target receives Physical or Pyro DMG, in which case they will take +2 DMG)"
+        "Name": "<color style='color:#99FFFFFF'>Эффект [b]2101[a]Крио</color>",
+        "Desc": "Когда [b]2101[a]Крио применяется без урона, возникшая элементальная реакция проигнорирует эффекты, связанные с нанесением урона:<br>[b]2101[a][b]2103[a]<color style='color:#FFFFFFFF'>Таяние</color>: нет эффекта<br>[b]2101[a][b]2104[a]<color style='color:#FFFFFFFF'>Сверхпроводник</color>: нет эффекта<br>[b]2101[a][b]2102[a]<color style='color:#FFFFFFFF'>Заморозка</color>: цель не сможет двигаться в этом раунде (при получении физического или Пиро урона эффект снимается, но наносит урон +2)"
     },
     "202": {
-        "Name": "<color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color>",
-        "Desc": "When [b]2102[a]Hydro is applied without dealing any DMG, the Elemental Reaction triggered will ignore DMG-dealing effects:<br>[b]2102[a][b]2103[a]<color style='color:#FFFFFFFF'>Vaporize</color>: No effect<br>[b]2102[a][b]2104[a]<color style='color:#FFFFFFFF'>Electro-Charged</color>: No effect<br>[b]2102[a][b]2101[a]<color style='color:#FFFFFFFF'>Frozen</color>: The target is unable to perform any Actions this Round (Can be removed in advance after the target receives Physical or Pyro DMG, in which case they will take +2 DMG)<br>[b]2102[a][b]2107[a]<color style='color:#FFFFFFFF'>Bloom</color>: Creates a [<color style='color:#FFFFFFFF'>Dendro Core</color>] that grants +2 DMG to the next instance of Pyro or Electro DMG"
+        "Name": "<color style='color:#80C0FFFF'>Эффект [b]2102[a]Гидро</color>",
+        "Desc": "Если эффект [b]2102[a]Гидро наложен без нанесения урона, возникшая элементальная реакция проигнорирует эффекты, связанные с нанесением урона:<br>[b]2102[a][b]2103[a]<color style='color:#FFFFFFFF'>Пар</color>: нет эффекта<br>[b]2102[a][b]2104[a]<color style='color:#FFFFFFFF'>Заряжен</color>: нет эффекта<br>[b]2102[a][b]2101[a]<color style='color:#FFFFFFFF'>Заморозка</color>: цель не сможет двигаться в этом раунде (при получении физического или Пиро урона эффект снимается, но наносится на 2 ед. больше урона)<br>[b]2102[a][b]2107[a]<color style='color:#FFFFFFFF'>Бутонизация</color>: создаёт <color style='color:#FFFFFFFF'>Дендро ядро</color>, которое увеличивают следующий Пиро или Электро урон на 2 ед."
     },
     "203": {
-        "Name": "<color style='color:#FF9999FF'>[b]2103[a]Pyro Application</color>",
-        "Desc": "When [b]2103[a]Pyro is applied without dealing any DMG, the Elemental Reaction triggered will ignore DMG-dealing effects:<br>[b]2103[a][b]2101[a]<color style='color:#FFFFFFFF'>Melt</color>: No effect<br>[b]2103[a][b]2102[a]<color style='color:#FFFFFFFF'>Vaporize</color>: No effect<br>[b]2103[a][b]2104[a]<color style='color:#FFFFFFFF'>Overloaded</color>: The target is forcibly switched to the next character<br>[b]2103[a][b]2107[a]<color style='color:#FFFFFFFF'>Burning</color>: Creates a [<color style='color:#FFFFFFFF'>Burning Flame</color>] that will deal 1 Pyro DMG at the end of the Round (Takes effect once, max 2 stacks)"
+        "Name": "<color style='color:#FF9999FF'>Эффект [b]2103[a]Пиро</color>",
+        "Desc": "Если эффект [b]2103[a]Пиро наложен без нанесения урона, возникшая элементальная реакция проигнорирует эффекты, связанные с нанесением урона:<br>[b]2103[a][b]2101[a]<color style='color:#FFFFFFFF'>Таяние</color>: нет эффекта<br>[b]2103[a][b]2102[a]<color style='color:#FFFFFFFF'>Пар</color>: нет эффекта<br>[b]2103[a][b]2104[a]<color style='color:#FFFFFFFF'>Перегрузка</color>: делает активным следующего персонажа противника<br>[b]2103[a][b]2107[a]<color style='color:#FFFFFFFF'>Горение</color>: создаёт <color style='color:#FFFFFFFF'>яркое пламя</color>, которое наносит 1 ед. Пиро урона в конце раунда (применения: 1 раз, складывается до 2 раз)"
     },
     "204": {
-        "Name": "<color style='color:#FFACFFFF'>[b]2104[a]Electro Application</color>",
-        "Desc": "When [b]2104[a]Electro is applied without dealing any DMG, the Elemental Reactions triggered will ignore DMG-dealing effects:<br>[b]2104[a][b]2103[a]<color style='color:#FFFFFFFF'>Overloaded</color>: The target is forcibly switched to the next character<br>[b]2104[a][b]2101[a]<color style='color:#FFFFFFFF'>Superconduct</color>: No effect<br>[b]2104[a][b]2102[a]<color style='color:#FFFFFFFF'>Electro-Charged</color>: No effect<br>[b]2104[a][b]2107[a]<color style='color:#FFFFFFFF'>Quicken</color>: Creates a [<color style='color:#FFFFFFFF'>Catalyzing Field</color>] that grants +1 DMG to the next 2 instances of Dendro or Electro DMG"
+        "Name": "<color style='color:#FFACFFFF'>Эффект [b]2104[a]Электро</color>",
+        "Desc": "Если эффект [b]2104[a]Электро наложен без нанесения урона, возникшая элементальная реакция проигнорирует эффекты, связанные с нанесением урона:<br>[b]2104[a][b]2103[a]<color style='color:#FFFFFFFF'>Перегрузка</color>: делает активным следующего персонажа противника<br>[b]2104[a][b]2101[a]<color style='color:#FFFFFFFF'>Сверхпроводник</color>: нет эффекта<br>[b]2104[a][b]2102[a]<color style='color:#FFFFFFFF'>Заряжен</color>: нет эффекта<br>[b]2104[a][b]2107[a]<color style='color:#FFFFFFFF'>Стимуляция</color>: создаёт <color style='color:#FFFFFFFF'>область катализа</color>, которая увеличит следующие два Дендро или Электро урона на 1 ед."
     },
     "207": {
-        "Name": "<color style='color:#7EC236FF'>[b]2107[a]Dendro Application</color>",
-        "Desc": "When [b]2107[a]Dendro is applied without dealing any DMG, the Elemental Reaction triggered will ignore DMG-dealing effects:<br>[b]2107[a][b]2102[a]<color style='color:#FFFFFFFF'>Bloom</color>: Creates a [<color style='color:#FFFFFFFF'>Dendro Core</color>] that grants +2 DMG to the next instance of Pyro or Electro DMG<br>[b]2107[a][b]2103[a]<color style='color:#FFFFFFFF'>Burning</color>: Creates a [<color style='color:#FFFFFFFF'>Burning Flame</color>] that will deal 1 Pyro DMG at the end of the Round (Takes effect once, max 2 stacks)<br>[b]2107[a][b]2104[a]<color style='color:#FFFFFFFF'>Quicken</color>: Creates a [<color style='color:#FFFFFFFF'>Catalyzing Field</color>] that grants +1 DMG to the next 2 instances of Dendro or Electro DMG"
+        "Name": "<color style='color:#7EC236FF'>Эффект [b]2107[a]Дендро</color>",
+        "Desc": "Если эффект [b]2107[a]Дендро наложен без нанесения урона, возникшая элементальная реакция проигнорирует эффекты, связанные с нанесением урона:<br>[b]2107[a][b]2102[a]<color style='color:#FFFFFFFF'>Бутонизация</color>: создаёт <color style='color:#FFFFFFFF'>Дендро ядро</color>, которое увеличит следующий Пиро или Электро урон на 2 ед.<br>[b]2107[a][b]2103[a]<color style='color:#FFFFFFFF'>Горение</color>: создаёт <color style='color:#FFFFFFFF'>яркое пламя</color>, которое наносит 1 ед. Пиро урона в конце раунда (применения: 1, складывается до 2 раз)<br>[b]2107[a][b]2104[a]<color style='color:#FFFFFFFF'>Стимуляция</color>: создаёт <color style='color:#FFFFFFFF'>область катализа</color>, которая увеличит следующие два Дендро или Электро урона на 1 ед."
     },
     "212": {
-        "Name": "<color style='color:#80C0FFFF'>[b]2102[a]Hydro-Related Reactions</color>",
-        "Desc": "[b]2102[a][b]2103[a]<color style='color:#FFFFFFFF'>Vaporize</color>: DMG +2 for this instance<br>[b]2102[a][b]2104[a]<color style='color:#FFFFFFFF'>Electro-Charged</color>: DMG +1 for this instance, deal 1 Piercing DMG to all opposing characters except the target<br>[b]2102[a][b]2101[a]<color style='color:#FFFFFFFF'>Frozen</color>: DMG +1 for this instance, the target is unable to perform any Actions this Round (Can be removed in advance after the target receives Physical or Pyro DMG, in which case they will take +2 DMG)<br>[b]2102[a][b]2107[a]<color style='color:#FFFFFFFF'>Bloom</color>: Creates a [<color style='color:#FFFFFFFF'>Dendro Core</color>] that grants +2 DMG to the next instance of Pyro or Electro DMG<br>[b]2106[a][b]2102[a]<color style='color:#FFFFFFFF'>Hydro Crystallize</color>: DMG +1 for this instance, your active character gains 1 Shield point (Can stack, max 2 points)<br>[b]2105[a][b]2102[a]<color style='color:#FFFFFFFF'>Hydro Swirl</color>: Deals 1 Hydro DMG to all opposing characters except the target"
+        "Name": "<color style='color:#80C0FFFF'>[b]2102[a]Гидро реакция</color>",
+        "Desc": "[b]2102[a][b]2103[a]<color style='color:#FFFFFFFF'>Пар</color>: урон +2 (в этот раз).<br>[b]2102[a][b]2104[a]<color style='color:#FFFFFFFF'>Заряжен</color>: урон +1 (в этот раз), наносит 1 ед. проникающего урона всем персонажам противника, кроме цели.<br>[b]2102[a][b]2101[a]<color style='color:#FFFFFFFF'>Заморозка</color>: урон +1 (в этот раз), цель не сможет двигаться в этом раунде (при получении физического или Пиро урона эффект снимается, но наносится на 2 ед. больше урона)<br>[b]2102[a][b]2107[a]<color style='color:#FFFFFFFF'>Бутонизация</color>: создаёт <color style='color:#FFFFFFFF'>Дендро ядро</color> которое увеличит следующий Пиро или Электро урон на 2 ед.<br>[b]2106[a][b]2102[a]<color style='color:#FFFFFFFF'>Кристалл (Гидро)</color>: урон +1 (в этот раз), активный персонаж получает щит +1 (складывается до 2 раз)<br>[b]2105[a][b]2102[a]<color style='color:#FFFFFFFF'>Рассеивание (Гидро)</color>: все неактивные персонажи противника получают 1 ед. Гидро урона."
     },
     "213": {
-        "Name": "<color style='color:#FF9999FF'>[b]2103[a]Pyro-Related Reactions</color>",
-        "Desc": "[b]2103[a][b]2101[a]<color style='color:#FFFFFFFF'>Melt</color>: DMG +2 for this instance<br>[b]2103[a][b]2102[a]<color style='color:#FFFFFFFF'>Vaporize</color>: DMG +2 for this instance<br>[b]2103[a][b]2104[a]<color style='color:#FFFFFFFF'>Overloaded</color>: DMG +2 for this instance, the target is forcibly switched to the next character<br>[b]2103[a][b]2107[a]<color style='color:#FFFFFFFF'>Burning</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Burning Flame</color>] that will deal 1 Pyro DMG at the end of the Round (Takes effect once, max 2 stacks)<br>[b]2106[a][b]2103[a]<color style='color:#FFFFFFFF'>Pyro Crystallize</color>: DMG +1 for this instance, your active character gains 1 Shield point (Can stack, max 2 points)<br>[b]2105[a][b]2103[a]<color style='color:#FFFFFFFF'>Pyro Swirl</color>: Deals 1 Pyro DMG to all opposing characters except the target"
+        "Name": "<color style='color:#FF9999FF'>[b]2103[a]Пиро реакция</color>",
+        "Desc": "[b]2103[a][b]2101[a]<color style='color:#FFFFFFFF'>Таяние</color>: урон +2 (в этот раз)<br>[b]2103[a][b]2102[a]<color style='color:#FFFFFFFF'>Пар</color>: урон +2 (в этот раз)<br>[b]2103[a][b]2104[a]<color style='color:#FFFFFFFF'>Перегрузка</color>: урон +2 (в этот раз), делает активным следующего персонажа противника<br>[b]2103[a][b]2107[a]<color style='color:#FFFFFFFF'>Горение</color>: урон +1 (в этот раз), создаёт <color style='color:#FFFFFFFF'>яркое пламя</color>, которое наносит 1 ед. Пиро урона в конце раунда (1 применение, складывается до 2 раз)<br>[b]2106[a][b]2103[a]<color style='color:#FFFFFFFF'>Кристалл (Пиро)</color>: урон +1 (в этот раз), активный персонаж получает щит +1 (складывается до 2 раз)<br>[b]2105[a][b]2103[a]<color style='color:#FFFFFFFF'>Рассеивание (Пиро)</color>: наносит 1 ед. Пиро урона всем персонажам противника, кроме цели."
     },
     "217": {
-        "Name": "<color style='color:#7EC236FF'>[b]2107[a]Dendro-Related Reactions</color>",
-        "Desc": "[b]2107[a][b]2102[a]<color style='color:#FFFFFFFF'>Bloom</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Dendro Core</color>] that grants +2 DMG to the next instance of Pyro or Electro DMG<br>[b]2107[a][b]2103[a]<color style='color:#FFFFFFFF'>Burning</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Burning Flame</color>] that will deal 1 Pyro DMG at the end of the Round (Takes effect once, max 2 stacks)<br>[b]2107[a][b]2104[a]<color style='color:#FFFFFFFF'>Quicken</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Catalyzing Field</color>] that grants +1 DMG to the next 2 instances of Dendro or Electro DMG"
+        "Name": "<color style='color:#7EC236FF'>[b]2107[a]Дендро реакция</color>",
+        "Desc": "[b]2107[a][b]2102[a]<color style='color:#FFFFFFFF'>Бутонизация</color>: урон +1 (в этот раз), создаёт <color style='color:#FFFFFFFF'>Дендро ядро</color>, которое увеличит следующий Пиро или Электро урон на 2 ед.<br>[b]2107[a][b]2103[a]<color style='color:#FFFFFFFF'>Горение</color>: урон +1 (в этот раз), создаёт <color style='color:#FFFFFFFF'>яркое пламя</color>, которое наносит 1 ед. Пиро урона в конце раунда (применения: 1, складывается до 2 раз)<br>[b]2107[a][b]2104[a]<color style='color:#FFFFFFFF'>Стимуляция</color>: урон +1 (в этот раз), создаёт <color style='color:#FFFFFFFF'>область катализа</color>, которая увеличит следующие два Дендро или Электро урона на 1 ед."
     },
     "301": {
-        "Name": "[b]1101[a]Cryo",
-        "Desc": "Spend the <color style='color:#99FFFFFF'>[b]1101[a]Cryo</color> Dice you have rolled to pay for this cost.<br>([b]1111[a]Omni Dice may also be used to pay for this.)"
+        "Name": "[b]1101[a]Крио",
+        "Desc": "Потратьте на это <color style='color:#99FFFFFF'>[b]1101[a]Крио</color> дайс.<br>([b]1111[a]Универсальный дайс тоже подойдёт.)"
     },
     "302": {
-        "Name": "[b]1102[a]Hydro",
-        "Desc": "Spend the <color style='color:#80C0FFFF'>[b]1102[a]Hydro</color> Dice you have rolled to pay for this cost.<br>([b]1111[a]Omni Dice may also be used to pay for this.)"
+        "Name": "[b]1102[a]Гидро",
+        "Desc": "Потратьте на это <color style='color:#80C0FFFF'>[b]1102[a]Гидро</color> дайс.<br>([b]1111[a]Универсальный дайс тоже подойдёт.)"
     },
     "303": {
-        "Name": "[b]1103[a]Pyro",
-        "Desc": "Spend the <color style='color:#FF9999FF'>[b]1103[a]Pyro</color> Dice you have rolled to pay for this cost.<br>([b]1111[a]Omni Dice may also be used to pay for this.)"
+        "Name": "[b]1103[a]Пиро",
+        "Desc": "Потратьте на это <color style='color:#FF9999FF'>[b]1103[a]Пиро</color> дайс.<br>([b]1111[a]Универсальный дайс тоже подойдёт.)"
     },
     "304": {
-        "Name": "[b]1104[a]Electro",
-        "Desc": "Spend the <color style='color:#FFACFFFF'>[b]1104[a]Electro</color> Dice you have rolled to pay for this cost.<br>([b]1111[a]Omni Dice may also be used to pay for this.)"
+        "Name": "[b]1104[a]Электро",
+        "Desc": "Потратьте на это <color style='color:#FFACFFFF'>[b]1104[a]Электро</color> дайс.<br>([b]1111[a]Универсальный дайс тоже подойдёт.)"
     },
     "305": {
-        "Name": "[b]1105[a]Anemo",
-        "Desc": "Spend the <color style='color:#80FFD7FF'>[b]1105[a]Anemo</color> Dice you have rolled to pay for this cost.<br>([b]1111[a]Omni Dice may also be used to pay for this.)"
+        "Name": "[b]1105[a]Анемо",
+        "Desc": "Потратьте на это <color style='color:#80FFD7FF'>[b]1105[a]Анемо</color> дайс.<br>([b]1111[a]Универсальный дайс тоже подойдёт.)"
     },
     "306": {
-        "Name": "[b]1106[a]Geo",
-        "Desc": "Spend the <color style='color:#FFE699FF'>[b]1106[a]Geo</color> Dice you have rolled to pay for this cost.<br>([b]1111[a]Omni Dice may also be used to pay for this.)"
+        "Name": "[b]1106[a]Гео",
+        "Desc": "Потратьте на это <color style='color:#FFE699FF'>[b]1106[a]Гео</color> дайс.<br>([b]1111[a]Универсальный дайс тоже подойдёт.)"
     },
     "307": {
-        "Name": "[b]1107[a]Dendro",
-        "Desc": "Spend the <color style='color:#7EC236FF'>[b]1107[a]Dendro</color> Dice you have rolled to pay for this cost.<br>([b]1111[a]Omni Dice may also be used to pay for this.)"
+        "Name": "[b]1107[a]Дендро",
+        "Desc": "Потратьте на это <color style='color:#7EC236FF'>[b]1107[a]Дендро</color> дайс.<br>([b]1111[a]Универсальный дайс тоже подойдёт.)"
     },
     "308": {
-        "Name": "<color style='color:#FFFFFFFF'>[b]1108[a]Matching Element</color>",
-        "Desc": "You must use Elemental Dice that match the number and element featured here to pay this type of cost.<br>(An [b]1111[a]Omni Die can be considered of any Element.)"
+        "Name": "<color style='color:#FFFFFFFF'>[b]1108[a]Совпадающий элемент</color>",
+        "Desc": "На это нужно потратить указанное кол-во Элементальных дайсов с таким же элементом, как указано здесь.<br>([b]1111[a]Универсальный дайс считается за любой элемент)."
     },
     "309": {
-        "Name": "<color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>",
-        "Desc": "You may use Elemental Dice of any element to pay this type of cost."
+        "Name": "<color style='color:#FFFFFFFF'>[b]1109[a]Неопределённый элемент</color>",
+        "Desc": "За это можно платить дайсом любого элемента."
     },
     "310": {
-        "Name": "<color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>",
-        "Desc": "Characters must consume [b]1110[a]Energy to use their Elemental Bursts.<br>When characters use an Elemental Skill or a Normal Attack, they will gain 1 [b]1110[a]Energy."
+        "Name": "<color style='color:#FFFFFFFF'>[b]1110[a]Энергия</color>",
+        "Desc": "Персонаж должен использовать [b]1110[a]энергию, чтобы вызывать взрыв стихии.<br>За использование обычной атаки или элементального навыка персонаж получает 1 [b]1110[a]энергию."
     },
     "311": {
-        "Name": "<color style='color:#FFFFFFFF'>[b]1112[a]Arcane Edict</color>",
-        "Desc": "Each player can only use 1 [b]3007[a]Arcane Legend card per match.<br>An [b]3007[a]Arcane Legend card can only be played should an [b]1112[a]Arcane Edict still be present. After an [b]3007[a]Arcane Legend card is played, the current match's [b]1112[a]Arcane Edict use will be consumed."
+        "Name": "<color style='color:#FFFFFFFF'>[b]1112[a]Тайный указ</color>",
+        "Desc": "Во время дуэли можно использовать только одну карту «[b]3007[a]Тайное знание».<br>Тайное знание можно разыграть только тогда, когда на поле есть [b]1112[a]Тайный указ. Разыграв [b]3007[a]Тайное знание, вы потратите возможность использовать [b]1112[a]Тайный указ в этой дуэли."
     },
     "411": {
-        "Name": "<color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>",
-        "Desc": "The [b]1111[a]Omni Element can be considered as any kind of element, and can be used to pay for costs of various kinds."
+        "Name": "<color style='color:#FFFFFFFF'>[b]1111[a]Универсальный элемент</color>",
+        "Desc": "[b]1111[a]Универсальным элементом можно платить вместо любого требуемого элемента."
     },
     "501": {
-        "Name": "Elemental Burst",
-        "Desc": "When the character's [b]1110[a]Energy is maxed out, you can consume that [b]1110[a]Energy to use a powerful Elemental Burst."
+        "Name": "Взрыв стихии",
+        "Desc": "Когда [b]1110[a]энергия персонажа на максимуме, можно использовать [b]1110[a]энергию и вызывать взрыв стихии."
     },
     "502": {
-        "Name": "Passive Skill",
-        "Desc": "This Skill is constantly in effect and need not to be activated."
+        "Name": "Пассивный навык",
+        "Desc": "Этот навык действует постоянно и его не нужно дополнительно активировать."
     },
     "1001": {
-        "Name": "<color style='color:#FFFFFFFF'>Random Hilichurl Summon</color>",
-        "Desc": "There are 4 kinds of Hilichurl Summons in total:<br><color style='color:#FFFFFFFF'>Cryo Hilichurl Shooter</color>: Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> at the End Phase. Usage(s): 2.<br><color style='color:#FFFFFFFF'>Hydro Samachurl</color>: Deal 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> at the End Phase. Usage(s): 2.<br><color style='color:#FFFFFFFF'>Hilichurl Berserker</color>: Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> at the End Phase. Usage(s): 2.<br><color style='color:#FFFFFFFF'>Electro Hilichurl Shooter</color>: Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color> at the End Phase. Usage(s): 2."
+        "Name": "<color style='color:#FFFFFFFF'>Призыв случайного хиличурла</color>",
+        "Desc": "Есть 4 вида призыва хиличурлов:<br><color style='color:#FFFFFFFF'>Крио хиличурл-стрелок</color>: в финальной фазе наносит 1 ед. [b]2101[a]<color style='color:#99FFFFFF'>Крио урона</color>, применений: 2.<br><color style='color:#FFFFFFFF'>Гидро шамачурл</color>: в финальной фазе наносит 1 ед. [b]2102[a]<color style='color:#80C0FFFF'>Гидро урона</color>, применений: 2.<br><color style='color:#FFFFFFFF'>Хиличурл-берсерк</color>: в финальной фазе наносит 1 ед. [b]2103[a]<color style='color:#FF9999FF'>Пиро урона</color>, применений: 2.<br><color style='color:#FFFFFFFF'>Электро хиличурл-стрелок</color>: в финальной фазе наносит 1 ед. [b]2104[a]<color style='color:#FFACFFFF'>Электро урона</color>, применений: 2."
     },
     "1002": {
-        "Name": "<color style='color:#FFFFFFFF'>Electro Infusion</color>",
-        "Desc": "When the character to which it is attached to deals [b]2100[a]<color style='color:#FFFFFFFF'>Physical Damage</color>, it will be turned into [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2"
+        "Name": "<color style='color:#FFFFFFFF'>Электро инфузия</color>",
+        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Физический урон</color> персонажа с этой картой становится [b]2104[a]<color style='color:#FFACFFFF'>Электро уроном</color>.<br><color style='color:#FFFFFFFF'>Продолжительность</color>: 2 раунда"
     },
     "1003": {
-        "Name": "<color style='color:#FFFFFFFF'>Crowfeather Cover</color>",
-        "Desc": "The character with this attached deals +1 <color style='color:#FFFFFFFF'>Elemental Skill</color> and <color style='color:#FFFFFFFF'>Elemental Burst</color> DMG.<br><color style='color:#FFFFFFFF'>Usages: 2</color>"
+        "Name": "<color style='color:#FFFFFFFF'>Воронье покрывало</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>Элементальный навык</color> и <color style='color:#FFFFFFFF'>взрыв стихии</color> персонажа с этой картой наносят на 1 ед. урона больше.<br><color style='color:#FFFFFFFF'>Применения: 2</color>"
     },
     "1004": {
-        "Name": "<color style='color:#FFFFFFFF'>Fatui Ambusher</color>",
-        "Desc": "Fatui Ambushers will trigger their effects after characters on the side of the field they are at use Skills, and will deal DMG to the active character on that side of the field. (Once per Round)<br>There are 4 kinds of Fatui Ambushers in total:<br><color style='color:#FFFFFFFF'>Cryo Cicin Mage</color>: Deals 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> when triggered, 2 Usages.<br><color style='color:#FFFFFFFF'>Mirror Maiden</color>: Deals 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> when triggered, 2 Usages.<br><color style='color:#FFFFFFFF'>Pyroslinger Bracer</color>: Deals 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> when triggered, 2 Usages.<br><color style='color:#FFFFFFFF'>Electrohammer Vanguard</color>: Deals 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color> when triggered, 2 Usages."
+        "Name": "<color style='color:#FFFFFFFF'>Фатуи в засаде</color>",
+        "Desc": "Эффекты Фатуи в засаде срабатывают, когда кто-то из персонажей на их стороне поля использует навык. При этом активный персонаж получает урон (1 раз за раунд).<br>Фатуи в засаде бывают четырёх видов:<br><color style='color:#FFFFFFFF'>Маг Крио цицинов</color>: при срабатывании наносит 1 ед. [b]2101[a]<color style='color:#99FFFFFF'>Крио урона</color>, может использоваться 2 раза.<br><color style='color:#FFFFFFFF'>Зеркальная дева</color>: при срабатывании наносит 1 ед. [b]2102[a]<color style='color:#80C0FFFF'>Гидро урона</color>, может использоваться 2 раза.<br><color style='color:#FFFFFFFF'>Пиро мушкетёр</color>: при срабатывании наносит 1 ед. [b]2103[a]<color style='color:#FF9999FF'>Пиро урона</color>, может использоваться 2 раза.<br><color style='color:#FFFFFFFF'>Электро молотобоец</color>: при срабатывании наносит 1 ед. [b]2104[a]<color style='color:#FFACFFFF'>Электро урона</color>, может использоваться 2 раза."
     },
     "1005": {
-        "Name": "<color style='color:#FFFFFFFF'>Riptide</color>",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached is defeated: </color>Apply Riptide to active character.<br>When <color style='color:#FFFFFFFF'>Tartaglia</color> is in <color style='color:#FFFFFFFF'>Melee Stance</color>, he will deal additional DMG when attacking the character to which this is attached."
+        "Name": "<color style='color:#FFFFFFFF'>Отлив</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонажа в этом состоянии побеждают:</color> активный персонаж в его отряде получает Отлив.<br>Когда <color style='color:#FFFFFFFF'>Тарталья</color> в <color style='color:#FFFFFFFF'>ближней стойке</color> атакует персонажа в этом состоянии, то наносит дополнительный урон."
     },
     "1006": {
-        "Name": "<color style='color:#FFFFFFFF'>Aegis of Abyssal Flame</color>",
-        "Desc": "Grant the character to which this is attached <color style='color:#FFFFFFFF'>3 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points</color>.<br>Before this [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> is depleted, the character to which this is attached will deal +1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>."
+        "Name": "<color style='color:#FFFFFFFF'>Эгида пламени бездны</color>",
+        "Desc": "Даёт персонажу в этом состоянии <color style='color:#FFFFFFFF'>3 ед.[b]4007[a] <color style='color:#FFFFFFFF'>щита</color></color>.<br>Когда действие [b]4007[a]<color style='color:#FFFFFFFF'>щита</color> закончится, [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color> этого персонажа увеличится на 1 ед."
     },
     "1007": {
-        "Name": "<color style='color:#FFFFFFFF'>Superlative Superstrength</color>",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached uses a <color style='color:#FFFFFFFF'>Charged Attack</color>: </color>Deal +1 DMG. If the <color style='color:#FFFFFFFF'>Usages</color> are no less than 2, then costs 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 3 stacks.)"
+        "Name": "<color style='color:#FFFFFFFF'>Невероятная сила</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж с этой картой совершает <color style='color:#FFFFFFFF'>заряженную атаку</color>: </color>наносит на 1 ед. урона больше. Если <color style='color:#FFFFFFFF'>количество применений</color> не менее 2, тратит на 1 <color style='color:#FFFFFFFF'>[b]1109[a]Неопределённый элемент</color> меньше.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Применения</color>: 1</color> (складывается до 3 раз)."
     },
     "1008": {
-        "Name": "<color style='color:#FFFFFFFF'>Clusterbloom Arrow</color>",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>.<br><color style='color:#FFFFFFFF'>Usage(s): 1</color> (Can stack. Max 2 stacks.)"
+        "Name": "<color style='color:#FFFFFFFF'>Стрела соцветия</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'>Применения: 1 </color>(складывается до 2 раз)."
     },
     "1009": {
-        "Name": "<color style='color:#FFFFFFFF'>Blood Blossom</color>",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> to the character to which this is attached.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>:1</color>"
+        "Name": "<color style='color:#FFFFFFFF'>Кровавый цветок</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> персонажу в этом состоянии наносится [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Применения</color>: 1</color>"
     },
     "1010": {
-        "Name": "<color style='color:#FFFFFFFF'>Scarlet Seal</color>",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character uses a <color style='color:#FFFFFFFF'>Charged Attack</color>:</color> DMG dealt +2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 2 stacks.)"
+        "Name": "<color style='color:#FFFFFFFF'>Багровая печать</color>",
+        "Desc": "Когда персонаж совершает <color style='color:#FFFFFFFF'>заряженную атаку</color>: наносит на 2 ед. урона больше.<br><color style='color:#FFFFFFFF'>Количество применений: 1</color>, складывается до 2 раз."
     },
     "1011": {
-        "Name": "<color style='color:#FFFFFFFF'>Bountiful Core</color>",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s): </color>1</color> (Can stack, max 3 stacks)<br><color style='color:#FFFFFFFF'>When you declare the end of your Round:</color> If this summon has at least 2 Usages remaining, deal 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>. (Consumes <color style='color:#FFFFFFFF'>Usages</color>)"
+        "Name": "<color style='color:#FFFFFFFF'>Ядро изобилия</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> наносит [b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color>, 2 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Применения:</color> 1</color>, складывается до 3 раз.<br><color style='color:#FFFFFFFF'>Когда вы объявляете конец раунда:</color> если у карты осталось не менее 2 <color style='color:#FFFFFFFF'>применений</color>, дополнительно наносит [b]2107[a]<color style='color:#7EC236FF'>Дендро урон</color>, 2 ед., при этом расходуются <color style='color:#FFFFFFFF'>применения</color>."
     },
     "1012": {
-        "Name": "<color style='color:#FFFFFFFF'>Elemental Absorption</color>",
-        "Desc": "Azhdaha can absorb the power of [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color>/[b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>/[b]2103[a]<color style='color:#FF9999FF'>Pyro</color>/[b]2104[a]<color style='color:#FFACFFFF'>Electro</color>. (Only 1 can be absorbed at any one time)<br><color style='color:#FFFFFFFF'>When Azhdaha has absorbed any of the above Elements:</color> Based on the type of Element that was absorbed, gain the skills [b]2101[a]<color style='color:#99FFFFFF'>Frostspike Wave</color>/[b]2102[a]<color style='color:#80C0FFFF'>Torrential Rebuke</color>/[b]2103[a]<color style='color:#FF9999FF'>Blazing Rebuke</color>/[b]2104[a]<color style='color:#FFACFFFF'>Thunderstorm Wave</color>."
+        "Name": "<color style='color:#FFFFFFFF'>Поглощение силы элемента</color>",
+        "Desc": "Аждаха может получать силу [b]2101[a]<color style='color:#99FFFFFF'>Крио</color>, [b]2102[a]<color style='color:#80C0FFFF'>Гидро</color>, [b]2103[a]<color style='color:#FF9999FF'>Пиро</color> или [b]2104[a]<color style='color:#FFACFFFF'>Электро</color> (только один элемент за раз).<br><color style='color:#FFFFFFFF'>В зависимости от элемента</color>, Аждаха получает один из следующих навыков: [b]2101[a]<color style='color:#99FFFFFF'>Волна колючей стужи</color>, [b]2102[a]<color style='color:#80C0FFFF'>Ливень осуждения</color>, [b]2103[a]<color style='color:#FF9999FF'>Пламя осуждения</color>, [b]2104[a]<color style='color:#FFACFFFF'>Грозовая волна</color>."
     },
     "1013": {
-        "Name": "<color style='color:#FFFFFFFF'>Crimson Witch of Embers</color>",
-        "Desc": "La Signora can permanently change into the \"Crimson Witch of Embers\" state.<br>After changing, La Signora's Elemental Type changes from [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color> to [b]2103[a]<color style='color:#FF9999FF'>Pyro</color>.<br>After changing, this character can use the skills of the Crimson Witch of Embers, but can no longer use La Signora's original skills."
+        "Name": "<color style='color:#FFFFFFFF'>Тлеющая алая ведьма</color>",
+        "Desc": "Синьора может навсегда принять облик Тлеющей алой ведьмы.<br>После превращения её [b]2101[a]<color style='color:#99FFFFFF'>Крио</color> элемент сменится на [b]2103[a]<color style='color:#FF9999FF'>Пиро</color>.<br>Ей также станут доступны навыки Тлеющей алой ведьмы, но навыки Синьоры исчезнут."
     },
     "1014": {
-        "Name": "<color style='color:#FFFFFFFF'>Deactivated</color>",
-        "Desc": "When clockwork meka that have either Arkhe: Ousia or Arkhe: Pneuma receive DMG aligned with the opposite Arkhe, a pneuma-ousia annihilation reaction will occur, and they will become Deactivated.<br>Deactivated clockwork meka will not be able to use their original abilities, and can only use Deactivated abilities. Deactivated abilities cannot deal Elemental DMG, and can only deal Physical DMG."
+        "Name": "<color style='color:#FFFFFFFF'>Деактивировано</color>",
+        "Desc": "Когда мек, обладающий одним из двух энергетических свойств (усия или пневма) получает урон от противоположенного свойства, происходит аннигиляция, и он переходит в состояние «Деактивировано».<br>В этом состоянии мек не может использовать лишь «деактивированные» навыки, которые наносят только физический урон, а не элементальный. Изначальные способности мека будут ему недоступны."
     },
     "1015": {
-        "Name": "Pneuma-Ousia Annihilation Reaction",
-        "Desc": "After an Ousia-aligned character takes [b]3505[a]Arkhe: Pneuma-aligned DMG, or after Pneuma-aligned characters take [b]3504[a]Arkhe: Ousia-aligned DMG, a Pneuma-Ousia Annihilation Reaction will occur.<br>Pneuma-Ousia Annihilation reactions will have different effects on different types of cards."
+        "Name": "Реакция аннигиляции пневмы и усии",
+        "Desc": "Когда персонаж в состоянии [b]3505[a]усии получает урон архэ: пневмы или персонаж в состоянии [b]3504[a]пневмы получает урон архэ: усии, происходит аннигиляция.<br>Аннигиляция действует на разные виды карт по-разному."
     },
     "1016": {
-        "Name": "Sheer Cold",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> to the character to which this is attached.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>:1</color> (When the character with this attached has <color style='color:#FFFFFFFF'>Blazing Heat</color> attached to them, remove this effect.)"
+        "Name": "Лютый мороз",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> персонаж в этом состоянии получает [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'>Применения: 1</color>. Когда у персонажа в этом состоянии есть <color style='color:#FFFFFFFF'>Пылающий жар</color>, эффект снимается."
     },
     "1017": {
-        "Name": "Blazing Heat",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> to the character to which this is attached.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>:1</color> (When the character with this attached has <color style='color:#FFFFFFFF'>Sheer Cold</color> attached to them, remove this effect.)"
+        "Name": "Пылающий жар",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза:</color> персонаж в этом состоянии получает [b]2103[a]<color style='color:#FF9999FF'>Пиро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'>Применения: 1</color>. Когда у персонажа в этом состоянии есть <color style='color:#FFFFFFFF'>Лютый мороз</color>, эффект снимается."
     },
     "1018": {
-        "Name": "Blazing Barrier",
-        "Desc": "Grants <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point</color> to your active character. (Can stack. Max 3 points.)"
+        "Name": "Пылающий щит",
+        "Desc": "Даёт <color style='color:#FFFFFFFF'>[b]4007[a]Щит (1 ед.)</color> вашему активному персонажу. Складывается до 3 раз."
     },
     "1019": {
-        "Name": "Gurgling Bubble",
-        "Desc": "Character cannot use Skills. (Lasts until the end of this Round)"
+        "Name": "Булькающий пузырь",
+        "Desc": "Персонаж не может использовать навыки. Действует до конца раунда."
     },
     "1020": {
-        "Name": "<color style='color:#FFFFFFFF'>Equitable Judgment</color>",
-        "Desc": "<color style='color:#D3BC8E'>Normal Attack</color><br>(Prepare for 1 turn)<br>Deals 2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>. If character has at least 6 HP, then deal 1 Piercing DMG to yourself and gain +1 DMG."
+        "Name": "<color style='color:#FFFFFFFF'>Взвешенный вердикт</color>",
+        "Desc": "<color style='color:#D3BC8E'>Обычная атака</color><br>На подготовку требуется 1 раунд.<br>Наносит [b]2102[a]<color style='color:#80C0FFFF'>Гидро урон</color>, 2 ед. Если HP не менее 6 ед., то сам персонаж получает 1 ед. проникающего урона, урон увеличивается на 1 ед."
     }
 }
 
 var _tag = {
-    "GCG_TAG_UNIQUE": "Only One",
-    "GCG_TAG_SLOWLY": "Combat Action",
-    "GCG_TAG_FORBIDDEN_ATTACK": "Unable to Act",
-    "GCG_TAG_IMMUNE_FREEZING": "Immune to Frozen",
-    "GCG_TAG_IMMUNE_CONTROL": "Immune to Disables",
-    "GCG_TAG_NATION_MONDSTADT": "Mondstadt",
-    "GCG_TAG_NATION_LIYUE": "Liyue",
-    "GCG_TAG_NATION_INAZUMA": "Inazuma",
-    "GCG_TAG_NATION_SUMERU": "Sumeru",
-    "GCG_TAG_NATION_FONTAINE": "Fontaine",
-    "GCG_TAG_NATION_NATLAN": "Natlan",
-    "GCG_TAG_NATION_SNEZHNAYA": "Snezhnaya",
-    "GCG_TAG_NATION_KHAENRIAH": "Khaenri'ah",
-    "GCG_TAG_CAMP_FATUI": "Fatui",
-    "GCG_TAG_CAMP_HILICHURL": "Hilichurl",
-    "GCG_TAG_CAMP_MONSTER": "Monster",
-    "GCG_TAG_CAMP_KAIRAGI": "Kairagi",
-    "GCG_TAG_CAMP_EREMITE": "The Eremites",
-    "GCG_TAG_WEAPON_NONE": "Other Weapons",
-    "GCG_TAG_WEAPON_CATALYST": "Catalyst",
-    "GCG_TAG_WEAPON_BOW": "Bow",
-    "GCG_TAG_WEAPON_CLAYMORE": "Claymore",
-    "GCG_TAG_WEAPON_POLE": "Polearm",
-    "GCG_TAG_WEAPON_SWORD": "Sword",
-    "GCG_TAG_ELEMENT_NONE": "No Elemental Type",
-    "GCG_TAG_ELEMENT_CRYO": "Cryo",
-    "GCG_TAG_ELEMENT_HYDRO": "Hydro",
-    "GCG_TAG_ELEMENT_PYRO": "Pyro",
-    "GCG_TAG_ELEMENT_ELECTRO": "Electro",
-    "GCG_TAG_ELEMENT_ANEMO": "Anemo",
-    "GCG_TAG_ELEMENT_GEO": "Geo",
-    "GCG_TAG_ELEMENT_DENDRO": "Dendro",
-    "GCG_TAG_WEAPON": "Weapon",
-    "GCG_TAG_ARTIFACT": "Artifact",
-    "GCG_TAG_TALENT": "Talent",
-    "GCG_TAG_SHEILD": "Shield",
-    "GCG_TAG_PLACE": "Location",
-    "GCG_TAG_ALLY": "Companion",
-    "GCG_TAG_ITEM": "Item",
-    "GCG_TAG_RESONANCE": "Elemental Resonance",
-    "GCG_TAG_FOOD": "Food",
-    "GCG_TAG_LEGEND": "Arcane Legend",
-    "GCG_TAG_DENDRO_PRODUCE": "Dendro Construct",
-    "GCG_TAG_ARKHE_PNEUMA": "Arkhe: Ousia",
-    "GCG_TAG_ARKHE_OUSIA": "Arkhe: Pneuma"
+    "GCG_TAG_UNIQUE": "Уникальный",
+    "GCG_TAG_SLOWLY": "Боевое действие",
+    "GCG_TAG_FORBIDDEN_ATTACK": "Невозможно действовать",
+    "GCG_TAG_IMMUNE_FREEZING": "Иммунитет к заморозке",
+    "GCG_TAG_IMMUNE_CONTROL": "Иммунитет к контролю",
+    "GCG_TAG_NATION_MONDSTADT": "Мондштадт",
+    "GCG_TAG_NATION_LIYUE": "Ли Юэ",
+    "GCG_TAG_NATION_INAZUMA": "Инадзума",
+    "GCG_TAG_NATION_SUMERU": "Сумеру",
+    "GCG_TAG_NATION_FONTAINE": "Фонтейн",
+    "GCG_TAG_NATION_NATLAN": "Натлан",
+    "GCG_TAG_NATION_SNEZHNAYA": "Снежная",
+    "GCG_TAG_NATION_KHAENRIAH": "Каэнри'ах",
+    "GCG_TAG_CAMP_FATUI": "Фатуи",
+    "GCG_TAG_CAMP_HILICHURL": "Хиличурл",
+    "GCG_TAG_CAMP_MONSTER": "Монстр",
+    "GCG_TAG_CAMP_KAIRAGI": "Кайраги",
+    "GCG_TAG_CAMP_EREMITE": "Пустынники",
+    "GCG_TAG_WEAPON_NONE": "Прочее",
+    "GCG_TAG_WEAPON_CATALYST": "Катализатор",
+    "GCG_TAG_WEAPON_BOW": "Стрелковое",
+    "GCG_TAG_WEAPON_CLAYMORE": "Двуручное",
+    "GCG_TAG_WEAPON_POLE": "Древковое",
+    "GCG_TAG_WEAPON_SWORD": "Одноручное",
+    "GCG_TAG_ELEMENT_NONE": "Без элемента",
+    "GCG_TAG_ELEMENT_CRYO": "Крио",
+    "GCG_TAG_ELEMENT_HYDRO": "Гидро",
+    "GCG_TAG_ELEMENT_PYRO": "Пиро",
+    "GCG_TAG_ELEMENT_ELECTRO": "Электро",
+    "GCG_TAG_ELEMENT_ANEMO": "Анемо",
+    "GCG_TAG_ELEMENT_GEO": "Гео",
+    "GCG_TAG_ELEMENT_DENDRO": "Дендро",
+    "GCG_TAG_WEAPON": "Оружие",
+    "GCG_TAG_ARTIFACT": "Артефакт",
+    "GCG_TAG_TALENT": "Талант",
+    "GCG_TAG_SHEILD": "Щит",
+    "GCG_TAG_PLACE": "Место",
+    "GCG_TAG_ALLY": "Друзья",
+    "GCG_TAG_ITEM": "Предмет",
+    "GCG_TAG_RESONANCE": "Элементальный резонанс",
+    "GCG_TAG_FOOD": "Блюдо",
+    "GCG_TAG_LEGEND": "Тайное знание",
+    "GCG_TAG_DENDRO_PRODUCE": "Дендро конструкция",
+    "GCG_TAG_ARKHE_PNEUMA": "Архэ: Усия",
+    "GCG_TAG_ARKHE_OUSIA": "Архэ: Пневма"
 }
 
 var _skilltag = {
-    "GCG_SKILL_TAG_A": "Normal Attack",
-    "GCG_SKILL_TAG_E": "Elemental Skill",
-    "GCG_SKILL_TAG_Q": "Elemental Burst",
-    "GCG_SKILL_TAG_PASSIVE": "Passive Skill"
+    "GCG_SKILL_TAG_A": "Обычная атака",
+    "GCG_SKILL_TAG_E": "Элементальный навык",
+    "GCG_SKILL_TAG_Q": "Взрыв стихии",
+    "GCG_SKILL_TAG_PASSIVE": "Пассивный навык"
 }

@@ -6,9 +6,9 @@ var _eventvers = [
         "Events": [
             {
                 "_id": 2029,
-                "Name": "Alchemical Ascension",
+                "Name": "Алхимический прорыв ЪЪЪ",
                 "Desc": "？？？",
-                "Intro": "<color style='color:#D3BC8E;'>Event Guidelines</color><br>The Knights of Favonius are currently coming up with long-term plans to promote the achievements of alchemy. The person in charge, Lisa, seems to have a good idea and has invited you and Paimon to assist her.<br><br><color style='color:#D3BC8E;'>Eligibility</color><br>Reach Adventure Rank 20 and complete the following prerequisite quest(s): Song of the Dragon and Freedom. (Complete the Archon Quest \"Masquerade of the Guilty\" and the Story Quest \"Aphros Delos Chapter Act I\" for a better experience.)<br><br><color style='color:#D3BC8E;'>Event Rules</color><br>During \"Alchemical Ascension,\" you must cultivate ingredients, concoct potions, sell potions, and gain revenue from your business to fund the expansion of your operations:<br><br>Cultivating Ingredients<br>Ingredients that have been specially processed can be used to greater effect during the process of concocting potions.<br><br>Concocting Potions<br>Place your ingredients into the Alchemy Cauldron in a certain order in order to concoct potions with different effects and special characteristics.<br><br>Selling Potions<br>Make your plans according to market news and sell the potions that are in demand to seize business opportunities and garner greater profits.<br><br>Continue bringing in earnings to keep the shop on the right track, which will allow you to obtain various rewards.",
+                "Intro": "<color style='color:#D3BC8E;'>Описание события</color><br>Ордо Фавониус разрабатывает план, как в будущем популяризировать достижения алхимии. У Лизы, отвечающей за проект, кажется, возникла неплохая идея пригласить вас с Паймон присоединиться...<br><br><color style='color:#D3BC8E;'>Условия участия</color><br>Достигните Ранга приключений 20 и завершите задание Архонтов «Песнь о драконьей свободе». Чтобы проходить событие было ещё интереснее, рекомендуем сначала выполнить задание Архонтов «Маскарад виновных» и задание легенд «Морская Пена. Глава I».<br><br><color style='color:#D3BC8E;'>Правила события</color><br>В событии «Алхимический прорыв ЪЪЪ» Путешественникам предстоит выращивать ингредиенты, готовить и продавать зелья, чтобы непрерывно увеличивать выручку магазина и расширять масштаб его деятельности.<br><br>Выращивание ингредиентов<br>Выращивайте лекарственные ингредиенты, прошедшие специальную обработку, чтобы во время алхимических процессов они приносили больше пользы.<br><br>Приготовление зелья<br>Раскладывайте ингредиенты в определённой последовательности и добавляйте их в алхимический котёл, чтобы создавать зелья с разным эффектом и свойствами.<br><br>Продажа зелья<br>Оценивайте рыночную ситуацию и продавайте зелья, на которые есть спрос. Не упустите шанс получить максимальную выгоду.<br><br>Продолжайте увеличивать доход, чтобы поддерживать магазин на должном уровне, что позволит вам получать различные награды.",
                 "Reward": [
                     201,
                     104319,
@@ -23,88 +23,88 @@ var _eventvers = [
                 ],
                 "Tutorial": [
                     {
-                        "Desc": "Place ingredients and cover more area to increase the <color=#F39000>Tuning Rate</color> for this concoction. When the Tuning Rate reaches <color=#F39000>100% or higher</color>, you can concoct the potion and receive the finished product.",
+                        "Desc": "Помещая ингредиенты в котёл, старайтесь покрыть как можно большую площадь - это увеличит <color=#F39000>смешиваемость</color> данной трансмутации. Когда смешиваемость достигнет <color=#F39000>100% или выше</color>, вы сможете выполнить трансмутацию и получить зелье.",
                         "Img": "UI_Activity_AlchemySim_Potion_01"
                     },
                     {
-                        "Desc": "Once you have mastered the advanced technique of stacking ingredients, each time you concoct a potion, squares on which ingredients may be stacked will appear within the cauldron.<br>As your Alchemy Level increases, the number of stackable squares will increase.",
+                        "Desc": "Когда вы освоите продвинутый навык укладки ингредиентов, то во время трансмутации сможете размещать ингредиенты в одни и те же клетки в алхимическом котле.<br>По мере повышения уровня алхимии количество клеток, в которых можно накладывать ингредиенты друг на друга, будет увеличиваться.",
                         "Img": "UI_Activity_AlchemySim_Overlap_01"
                     },
                     {
-                        "Desc": "Save formulae to perform Quick Concoctions.<br>When you perform Quick Concoctions, <color=#F39000>your saved formula</color> will be automatically placed into the cauldron, though ingredients you do not have enough of in storage will not be automatically added.<br>Quick Concoctions will also consume the concoction chance you have during this operation cycle.",
+                        "Desc": "Сохранение формул трансмутации позволит вам выполнять Быструю трансмутацию.<br>При Быстрой трансмутации <color=#F39000>сохранённая формула</color> будет автоматически помещена в алхимический котёл. Ингредиенты, которых запасено недостаточно, автоматически помещаться в котёл не будут.<br>Быстрая трансмутация расходует попытки трансмутации текущего торгового цикла.",
                         "Img": "UI_Activity_AlchemySim_Template_01"
                     },
                     {
-                        "Desc": "Different cultivation areas can be assigned ingredients separately. After a certain number of operation cycles, your ingredients will mature and can be harvested. Once you complete this harvest, the cultivation area will <color=#F39000>automatically cultivate</color> the previously selected ingredients.<br>The cultivation progress of ingredients will not be saved if you change the ingredient assigned to the cultivation area.",
+                        "Desc": "В каждой области культивации можно выращивать определённые ингредиенты. Через некоторое количество торговых циклов ингредиенты созреют, и их можно будет собрать. Когда вы соберёте ингредиенты, в области культивации <color=#F39000>по умолчанию</color> будут выращиваться ранее выбранные ингредиенты.<br>Если изменить назначенные для выращивания ингредиенты, прогресс выращивания не сохранится.",
                         "Img": "UI_Activity_AlchemySim_Crop_01"
                     },
                     {
-                        "Desc": "After your Alchemy Level increases, you can unlock more cultivatable ingredients.<br>You will also be able to go to the Knights of Favonius support staff to expend funds and expand the cultivation area, allowing you to cultivate more ingredients at the same time.",
+                        "Desc": "С повышением уровня алхимии вы сможете открыть больше ингредиентов для выращивания.<br>Потратьте определённое количество средств у сотрудника Ордо Фавониус, чтобы расширить область культивации и выращивать больше ингредиентов.",
                         "Img": "UI_Activity_AlchemySim_Crop_02"
                     },
                     {
-                        "Desc": "You can directly consume ingredients to obtain EXP towards increasing your <color=#F39000>Ingredient Level</color> using the Analyze Ingredient function.<br>Use this function when you have ample stocks to provide considerable benefits to your store...",
+                        "Desc": "Используя функцию анализа ингредиентов, вы сможете напрямую потреблять ингредиенты и получать опыт, необходимый для повышения <color=#F39000>уровня ингредиентов</color>.<br>Если у вас запасено достаточно ингредиентов, эта функция принесёт немалую выгоду вашему магазину...",
                         "Img": "UI_Activity_AlchemySim_Refine_01"
                     },
                     {
-                        "Desc": "Potions you have concocted must be stocked before they can be sold (<color=#F39000>Potions with exactly identical efficacy cannot be stocked for sale at the same time</color>). <color=#F39000>Market News</color> is a guide to selling potions: The more the efficacy and characteristics of your potions can fulfill market demands, the greater your <color=#F39000>sales volume</color> will be and thus the greater your revenue.<br>During each operation cycle, Paimon will help <color=#F39000>record potion efficacies and characteristics that are in demand</color>. If you discover a potion with efficacy and characteristics that are even more suited to the current market, Paimon will update the record.",
+                        "Desc": "Готовые зелья можно выставлять на продажу (<color=#F39000>зелья с полностью одинаковыми эффектами продавать одновременно нельзя</color>). <color=#F39000>Сведения о рынке</color> - ваше руководство по продаже зелий: чем больше эффекты и особые свойства зелий соответствуют рыночному спросу, тем более высокого <color=#F39000>объёма продаж</color> и выручки вы добьётесь.<br>В каждом торговом цикле Паймон будет помогать вам <color=#F39000>фиксировать эффекты и особые свойства, соответствующие рыночному спросу</color>. Если обнаружатся такие эффекты и особые свойства, которые больше соответствуют рыночному спросу, Паймон обновит записи.",
                         "Img": "UI_Activity_AlchemySim_Sell_01"
                     },
                     {
-                        "Desc": "When each operation cycle ends, your potion sales will be totaled up, with the financial assessment based on sales volume. Check your financial reports to see if your potions are in tune with the market demand.",
+                        "Desc": "По окончании каждого торгового цикла подводится итог продаж зелий, который определяет оценку в финансовом отчёте. Финансовый отчёт покажет, соответствуют ли ваши зелья рыночному спросу.",
                         "Img": "UI_Activity_AlchemySim_Sell_02"
                     },
                     {
-                        "Desc": "While the shop is operating, potion distributors who can help sell potions may drop in. These distributors will have clear requests for the <color=#F39000>efficacy and amounts</color> of potions they want.<br>Develop a distribution strategy with them and select <color=#F39000>two advantageous strategies</color> out of several to gain great benefits.<br><color=#F39000>As these distributors will not change their area of operations, these advantageous strategies will be fixed for each location.</color><br>Analyze their sales and financial statements to see if your business tactics are working.",
+                        "Desc": "Магазин во время его работы могут посещать дистрибьюторы, которые помогают в продаже зелий. У них будут чёткие требования к <color=#F39000>эффектам и количеству зелий</color>, которые им нужны.<br>Разработайте стратегию сбыта вместе с ними и выберите <color=#F39000>две наиболее выгодных стратегии</color> из нескольких, чтобы увеличить доходы.<br><color=#F39000>Поскольку эти дистрибьюторы не меняют область деятельности, их стратегии остаются фиксированными для каждого места</color>.<br>Анализируйте их финансовые отчёты, чтобы проверить эффективность стратегий сбыта.",
                         "Img": "UI_Activity_AlchemySim_Dealer_01"
                     },
                     {
-                        "Desc": "Alchemy Exams are tests intended to assess your potioneering techniques. The exam is split into several stages that must be completed in sequence. You have 3 attempts for each stage. Additionally, <color=#F39000>potions produced during the exams will not be saved. You will instead be refunded the ingredients consumed during the exam.</color>.",
+                        "Desc": "Экзамен по алхимии - это проверка ваших умений варить зелья. Экзамен делится на несколько последовательных этапов, для прохождения каждого из которых отводится 3 попытки. Учтите, что <color=#F39000>зелья, приготовленные на экзамене, не сохраняются, тогда как все израсходованные ингредиенты будут возвращены</color>.",
                         "Img": "UI_Activity_AlchemySim_Exam_01"
                     },
                     {
-                        "Desc": "Each test stage comes with its primary and secondary objective(s).<color=#F39000>Complete the primary objective to pass the test</color>, and complete the secondary objective(s) to increase your test rating. Test rewards are based on your rating.<br>If you fail the exam, you must wait a certain period before retaking the exam.",
+                        "Desc": "На каждом этапе экзамена есть главные и второстепенные цели. <color=#F39000>Выполнив главные цели, вы сдадите экзамен</color>. Выполнение второстепенных целей повысит оценку экзамена. Награды экзамена зависят от полученной оценки.<br>Если вы провалили экзамен, то через некоторое время можете сдать его ещё раз.",
                         "Img": "UI_Activity_AlchemySim_Exam_02"
                     },
                     {
-                        "Desc": "Use your Operations Handbook to actively end the current operation cycle. Resting on Lisa's chair can also achieve the same result.",
+                        "Desc": "Используя торговый справочник, вы можете завершить текущий цикл заранее. Того же эффекта вы добьётесь, отдохнув у чайного столика Лизы.",
                         "Img": "UI_Activity_AlchemySim_Handbook_01"
                     },
                     {
-                        "Desc": "You can view the completion status of various tasks in the current cycle. Click the icons to track your objectives.",
+                        "Desc": "В торговом справочнике вы можете просматривать статус выполнения различных заданий. Нажимайте на иконки, чтобы отслеживать цели.",
                         "Img": "UI_Activity_AlchemySim_Handbook_02"
                     },
                     {
-                        "Desc": "You can expend funds and consume special alchemical fertilizers to increase the rate at which your ingredients will mature, allowing you to directly obtain them.<br>The funds consumed will be decided by <color=#F39000>the amount of operational cycles remaining before the given ingredient would have matured</color>.",
+                        "Desc": "Средства можно расходовать на специальные алхимические удобрения, которые ускоряют созревание ингредиентов и позволяют собрать их сразу.<br>Объём расходуемых средств зависит от <color=#F39000>количества торговых циклов, оставшихся до созревания определённых ингредиентов</color>.",
                         "Img": "UI_Activity_AlchemySim_Accelerate_01"
                     },
                     {
-                        "Desc": "You will initially have 1 chance to concoct a potion each operation cycle. By using more ingredients when concocting a potion, you can gain more <color=#F39000>Alchemy Level Experience</color> and <color=#F39000>potion ingredient experience</color>, and there is a chance to create an even stronger potion. Make good use of your opportunities to concoct potions!",
+                        "Desc": "В каждом торговом цикле у вас изначально будет 1 попытка трансмутации. Если вы добавите больше ингредиентов при трансмутации, то получите больше опыта уровня <color=#F39000>трансмутации</color> и <color=#F39000>ингредиентов</color>, а также шанс приготовить более сильные зелья. Используйте попытки трансмутации с умом.",
                         "Img": "UI_Activity_AlchemySim_Potion_04"
                     },
                     {
-                        "Desc": "When placing ingredients, you can cause the potion to gain <color=#F39000>efficacy</color> values of five different types, including Constitution and so on. When you finish concocting a potion, the efficacy value that is <color=#F39000>highest</color> will determine the potion's <color=#F39000>type</color> and <color=#F39000>grade</color>. There are four different potion grades: Beginner, Intermediate, Advanced, and Special, and this is the primary determinant of the <color=#F39000>sale price</color>.",
+                        "Desc": "Во время помещения ингредиентов в котёл зелья обретают 5 <color=#F39000>эффектов</color>. При завершении трансмутации эффект с <color=#F39000>наиболее высоким</color> показателем определяет <color=#F39000>тип</color> и <color=#F39000>класс</color> зелья. Классов зелий всего четыре: низкий, средний, высокий и высший. Они являются ключевым фактором, образующим <color=#F39000>цену</color>.",
                         "Img": "UI_Activity_AlchemySim_Potion_02"
                     },
                     {
-                        "Desc": "The efficacy value <color=#F39000>that was not sufficient to reach the next potion grade</color> will be converted to a <color=#F39000>potion level</color> of +0 to +10, <color=#F39000>increasing the sale price</color> of the potion. Increasing the Tuning Rate to over 100%, using a beautiful bottle, or receiving a Lucky Bonus can all increase the potion level.",
+                        "Desc": "Та часть значения эффекта зелья, которая <color=#F39000>не достигла следующего класса</color>, преобразуется в <color=#F39000>уровень зелья</color> от +0 до +10, тем самым повышая <color=#F39000>продажную стоимость</color> зелья. Уровень зелья также возрастёт в тех случаях, если смешиваемость превысит 100%, если использовать роскошный флакон, или будет получен бонус удачи.",
                         "Img": "UI_Activity_AlchemySim_Potion_03"
                     },
                     {
-                        "Desc": "Different ingredients also have 10 different <color=#F39000>characteristics</color>, including Warm, Endurance, and so on. If 2 or more of the corresponding ingredients are added, the potion may also gain this characteristic. Initially, potions can have up to 2 characteristics.",
+                        "Desc": "Ингредиенты обладают 10 <color=#F39000>особыми свойствами</color>, среди которых уют и выносливость. Зелье с 2 частями соответствующих ингредиентов и более приобретёт те же особые свойства. Изначально у зелья может быть до 2 особых свойств.",
                         "Img": "UI_Activity_AlchemySim_Potion_05"
                     },
                     {
-                        "Desc": "If the two highest effect values are <color=#F39000>of the same grade</color> and reach a certain standard, a Combination Potion will be produced. A Combination Potion will have <color=#F39000>two types of efficacy</color>, and though the sale price will not increase, they can more easily satisfy different market demands, increasing sales volume.",
+                        "Desc": "Если два эффекта зелья с самым высоким значением достигают <color=#F39000>одного класса</color> и уровня, оно становится комбинированным. Комбинированные зелья <color=#F39000>с двумя эффектами</color> не стоят дороже обычных, но эффективнее удовлетворяют рыночный спрос и отлично продаются.",
                         "Img": "UI_Activity_AlchemySim_Potion_06"
                     }
                 ]
             },
             {
                 "_id": 5182,
-                "Name": "The Great Fayz Reaction Debate",
-                "Desc": "Jami, the Amurta researcher who earlier developed the marvelous Fayz Potion, has once again encountered trouble. As such, he has adopted more efficient enhancement measures and is waiting for the right person to help verify his work...",
-                "Intro": "<color style='color:#D3BC8E;'>Event Guidelines</color><br>Jami, the Amurta researcher who earlier developed the marvelous Fayz Potion, has once again encountered trouble. As such, he has adopted more efficient enhancement measures and is waiting for the right person to help verify his work...<br><br><color style='color:#D3BC8E;'>Eligibility</color><br>Reach Adventure Rank 20 and complete the Archon Quest \"Song of the Dragon and Freedom.\"<br><br><color style='color:#D3BC8E;'>Event Rules</color><br>1. After entering the Fayz Discursive Facility and starting the challenge, if you stop moving and using skills, you will automatically enter the Time Dilation state. After conducting any movement or trying to use a Skill, you will cause time to flow normally again.<br><br>2. During the challenge, Fayz Force will accumulate over time. You can also obtain it by defeating opponents. Once Fayz Force reaches a certain level, after you use a special skill, you will take the opportunity to enter a Time Dilation state in which Supersense Particles will appear on the field. Adjust your camera angle such that your character blocks the Particles from view to collect them and use your Supersense Skill, and also obtain a random Fayz Furtherance.",
+                "Name": "Большие дебаты о реакции Фаиз ЪЪЪ",
+                "Desc": "Учёный из Амурты Джами, который изобрёл удивительное снадобье Фаиз, вновь столкнулся с трудностью. На этот раз он применил более действенные меры для её устранения. Теперь он ждёт того, кто сможет проверить результат его усилий...",
+                "Intro": "<color style='color:#D3BC8E;'>О событии</color><br>Учёный из Амурты Джами, который изобрёл удивительное снадобье Фаиз, вновь столкнулся с трудностью. На этот раз он применил более действенные меры для её устранения. Теперь он ждёт того, кто сможет проверить результат его усилий...<br><br><color style='color:#D3BC8E;'>Условия участия</color><br>Достигните Ранга приключений 20 и завершите задание Архонтов «Песнь о драконьей свободе».<br><br><color style='color:#D3BC8E;'>Правила события</color><br>1. Когда вы войдёте в Зал дискуссий Фаиз ЪЪЪ и начнёте битву, то автоматически перейдёте в состояние замедления времени, если перестанете двигаться и примените навык. После выполнения любого движения или попытки использования навыка время возобновит свой ход.<br><br>2. Во время испытания со временем накапливается энергия Фаиз. Вы также будете получать её за победу над противниками. Дождитесь момента, когда энергия Фаиз достигнет определённого уровня, и войдите в состояние замедления времени, чтобы на поле появились сверхчувствительные частицы. Тогда вы сможете собрать их и использовать Сверхвосприятие, а также получить случайное усиление Фаиз.",
                 "Reward": [
                     201,
                     114038,
@@ -117,32 +117,32 @@ var _eventvers = [
                 ],
                 "Tutorial": [
                     {
-                        "Desc": "After entering the Fayz Discursive Facility and starting the challenge, If you <color style='color:#FFCC33;'>cease movement and using Skills</color>, you will automatically enter the <color style='color:#FFCC33;'>Time Dilation state</color>. After conducting any movement or trying to use a Skill, time will flow normally again.",
+                        "Desc": "Во время события, когда вы начнёте испытание и окажетесь в Зале дискуссий Фаиз, то по умолчанию перейдёте в состояние <color style='color:#FFCC33;'>замедления времени</color>, если <color style='color:#FFCC33;'>остановитесь или перестанете использовать навыки</color>. После выполнения любого движения или использования навыка время на определённый период возобновит свой ход.",
                         "Img": "UI_Activity_AutoTimeStop_01"
                     },
                     {
-                        "Desc": "During combat, you will accumulate Fayz Force over time. You will also obtain it from defeating opponents. Once your Fayz Force hits a certain value and you have <color style='color:#FFCC33;'>stopped moving after unleashing a special skill</color>, Supersense Particles will appear on the field.",
+                        "Desc": "Во время испытания со временем накапливается энергия Фаиз. Вы также будете получать её за победу над противниками. Когда энергия Фаиз достигнет определённого уровня и <color style='color:#FFCC33;'>после использования особого навыка вы прекратите двигаться</color>, на поле появятся сверхчувствительные частицы.",
                         "Img": "UI_Activity_AutoTimeStop_02"
                     },
                     {
-                        "Desc": "Adjust your camera angle such that your character blocks the Particles from view to collect them and consume Fayz Force to use your Supersense Skill, and also obtain a random Fayz Furtherance. The maximum amount of Fayz Force that can be accumulated is sufficient to use the Supersense Skill <color style='color:#FFCC33;'>3</color> times. If you do not use a Supersense Skill for 50s, the DMG you deal will decrease precipitously.",
+                        "Desc": "Расположите камеру так, чтобы персонаж закрывал частицы собой. Тогда вы сможете собирать их и использовать Сверхвосприятие, расходуя энергию Фаиз, а также получать случайные усиления Фаиз. Максимума энергии Фаиз хватит для того, чтобы активировать Сверхвосприятие <color style='color:#FFCC33;'>3</color> раза. Если не активировать Сверхвосприятие в течение 50 секунд, наносимый вами урон значительно снизится.",
                         "Img": "UI_Activity_AutoTimeStop_05"
                     },
                     {
-                        "Desc": "<color style='color:#FFCC33;'>Focus Foes</color> will appear at intervals during this challenge. Focus Foes will become normal opponents after some time, but defeating Focus Foes will grant more Fayz Force.",
+                        "Desc": "В испытании появляются <color style='color:#FFCC33;'>сфокусированные враги ЪЪЪ</color>, которые через некоторое время превращаются в обычных. Победа над сфокусированными врагами принесёт вам больше энергии Фаиз.",
                         "Img": "UI_Activity_AutoTimeStop_04"
                     },
                     {
-                        "Desc": "<color style='color:#FFCC33;'>Menacing Projectiles</color> and <color style='color:#FFCC33;'>Energizing Projectiles</color> will appear at intervals during the challenge. You will take DMG if hit by Menacing Projectiles, while Energizing Projectiles will grant you Fayz Force and increase your Verification Score.",
+                        "Desc": "Во время испытания периодически появляются <color style='color:#FFCC33;'>угрожающие</color> и <color style='color:#FFCC33;'>заряжающие снаряды</color>. Угрожающие снаряды будут наносить вам урон, тогда как заряжающие снаряды - наделять вас энергией Фаиз и приносить очки.",
                         "Img": "UI_Activity_AutoTimeStop_03"
                     }
                 ]
             },
             {
                 "_id": 5183,
-                "Name": "Feline Fortress Furrdyssey",
-                "Desc": "Your recent travels have seen you and Paimon encounter all manner of strange creatures, but in light of various factors, Paimon would still like to have some fun with cats.<br>As such, you intend to return to Mondstadt and drop by The Cat's Tail...",
-                "Intro": "<color style='color:#D3BC8E;'>Event Guidelines</color><br>Your recent travels have seen you and Paimon encounter all manner of strange creatures, but in light of various factors, Paimon would still like to have some fun with cats.<br>As such, you intend to return to Mondstadt and drop by The Cat's Tail...<br><br><color style='color:#D3BC8E;'>Eligibility</color><br>Reach Adventure Rank 20 and complete the Archon Quest \"Song of the Dragon and Freedom.\" (Complete the Archon Quest \"As Light Rain Falls Without Reason\" and the World Quest \"A Teapot to Call Home Part I\" for a better experience.)<br><br><color style='color:#D3BC8E;'>Event Rules</color><br>A new stage will unlock each day for the first five days after the event starts. After you have furnished each Fluffy Feline Home, you can place food within the cat feeding bowl to call the corresponding cat. Once the Feline Favor value has reached its limit, you can call a special cat, and after completing its relevant quest, you can unlock a corresponding stage.<br>Set up your Fluffy Feline Homes with care to meet certain targets for Comfiness, Durability, and Aesthetics. You are required to select 1 suitable furnishing of each type and cause the overall area to fit the three attribute requirements exactly.<br>When playing with cats at the Throne of Meower, you must touch different parts of the cats to pet them and raise their Friendship level.",
+                "Name": "Мяудиссея Замка котиков",
+                "Desc": "Во время последних путешествий вам с Паймон встретилось немало удивительных животных, но в силу разных причин Паймон хочется как следует поиграть с котиками.<br>Вы решаете вернуться в Мондштадт и заглянуть в таверну «Кошкин хвост»...",
+                "Intro": "<color style='color:#D3BC8E;'>О событии</color><br>Во время последних путешествий вам с Паймон встретилось немало удивительных животных, но в силу разных причин Паймон хочется как следует поиграть с котиками.<br>Вы решаете вернуться в Мондштадт и заглянуть в таверну «Кошкин хвост»...<br><br><color style='color:#D3BC8E;'>Условия участия</color><br>Достигните Ранга приключений 20 и завершите задание Архонтов «Песнь о драконьей свободе». Чтобы проходить событие было ещё интереснее, сначала завершите задание Архонтов «Словно лёгкий дождь без причины» и задание мира «Чайник - полная чаша. Часть I».<br><br><color style='color:#D3BC8E;'>Правила события</color><br>Первые пять дней после начала события ежедневно будет открываться один новый уровень. Завершив обустройство мохнатого мяудомика ЪЪЪ, вы должны положить в миску корм, чтобы позвать кошку соответствующего уровня. Когда значение мяусчастья достигнет предела, вы сможете позвать особую кошку. Выполняйте задания, чтобы открывать соответствующие уровни.<br>При обустройстве мохнатого мяудомика ЪЪЪ внимательно подбирайте декор, чтобы достичь цели. Качество декора оценивается по трём показателям: комфорт, практичность и красота. Подберите по одному предмету декора для каждой категории, чтобы значения трёх характеристик всей области соответствовали требованиям.<br>Играя с котиком на мяупрестоле ЪЪЪ, нажимайте на разные части его тела, чтобы приласкать котика и повысить его дружелюбие.",
                 "Reward": [
                     201,
                     362264,
@@ -153,44 +153,44 @@ var _eventvers = [
                 ],
                 "Tutorial": [
                     {
-                        "Desc": "You must take various requirements into consideration when setting up your Fluffy Feline Home.<br>There are three attributes in this event: <color style='color:#FFCC33;'>Comfiness, Durability, and Aesthetics</color>. You are required to select 1 suitable furnishing of each type in such a way that the overall area fits the three attribute requirements <color style='color:#FFCC33;'>exactly, no more and no less</color>.",
+                        "Desc": "Обустройте пушистый мяудомик согласно различным требованиям.<br>У предметов декора три характеристики: <color style='color:#FFCC33;'>удобство, прочность и красота</color>. Подберите предметы декора каждого типа так, чтобы характеристики всех трёх предметов <color style='color:#FFCC33;'>в точности</color> (не больше и не меньше) соответствовали требованиям.",
                         "Img": "UI_Activity_Catcafe_01"
                     },
                     {
-                        "Desc": "The <color style='color:#FFCC33;'>icon</color> of the furnishing's primary attribute will be displayed in the upper left corner of the interface. In addition to the main attribute, it will also provide a small amount of other attributes.<br>There is only <color style='color:#FFCC33;'>one unique combination</color> of furnishings that furnishes the attributes needed to complete the challenge, and the furnishings that comprise that combination <color style='color:#FFCC33;'>have appearances that complement each other the best</color>.",
+                        "Desc": "Главные характеристики предметов декора отображаются в виде <color style='color:#FFCC33;'>иконки</color> в левом верхнем углу меню. В дополнение к основным характеристикам представлены некоторые другие.<br>Комбинация декора, необходимая для прохождения каждого испытания, <color style='color:#FFCC33;'>уникальная</color>, а <color style='color:#FFCC33;'>внешний вид</color> подбирается наилучшим образом.",
                         "Img": "UI_Activity_Catcafe_02"
                     },
                     {
-                        "Desc": "After you have completed your Fluffy Feline Home setup, you can <color style='color:#FFCC33;'>place food</color> into the cat food bowl to be acknowledged by them. After you have fed a cat, you can call the corresponding cat at the Throne of Meower or invite it to play directly.",
+                        "Desc": "Завершив обустройство пушистого мяудомика, <color style='color:#FFCC33;'> положите в миску корм</color>, чтобы получить признание кошек. После того как вы покормите кошек, то сможете позвать соответствующую кошку на мяупрестол или пригласить поиграть напрямую.",
                         "Img": "UI_Activity_Catcafe_03"
                     },
                     {
-                        "Desc": "You can select a cat from the Throne of Meower, or directly invite a cat to come and play.<br>The cat's Friendship levels are as follows: <color style='color:#FFCC33;'>Trusted, Cherished, Inseparable</color>.",
+                        "Desc": "Вы можете выбрать кошку на мяупрестол или пригласить поиграть напрямую.<br>Стадии дружелюбия кошки делятся на <color style='color:#FFCC33;'>доверие, близость и неразлучность</color>.",
                         "Img": "UI_Activity_Catcafe_04"
                     },
                     {
-                        "Desc": "The <color style='color:#FFCC33;'>8</color> points where you can pet the cat are the right ear, left ear, face, lower body, upper body, tail, right paw, and left paw. Different cats have their own preferences for where they wish to be petted.",
+                        "Desc": "У кошек <color style='color:#FFCC33;'>8</color> мест, которые можно гладить: правое и левое ухо, мордочку, низ и верх туловища, хвост, а также правую и левую лапу. Разные кошки любят, чтобы их гладили в определённых местах.",
                         "Img": "UI_Activity_Catcafe_05"
                     },
                     {
-                        "Desc": "<color style='color:#FFCC33;'>Press</color> in order pet the cat. If you pet <color style='color:#FFCC33;'>right where the cat likes it</color>, its friendliness to you will increase, but this value will remain the same or even decrease should you pet <color style='color:#FFCC33;'>a spot that displeases the feline</color>.",
+                        "Desc": "Чтобы погладить кошку, <color style='color:#FFCC33;'>нажимайте</color> на экран. Если погладить <color style='color:#FFCC33;'>любимое место кошки</color>, дружелюбие увеличится. Если погладить <color style='color:#FFCC33;'>то место, в котором ей не нравится</color>, дружелюбие останется прежним или даже снизится.",
                         "Img": "UI_Activity_Catcafe_06"
                     },
                     {
-                        "Desc": "Repeatedly petting the same part of a cat will cause friendliness <color style='color:#FFCC33;'>to increase by less and less</color>, until it no longer increases at all. As such, you must adjust your approach and pet the cat <color style='color:#FFCC33;'>in different spots</color>.<br>After you have switched up the places you are petting it a certain number of times, this cat's rate of friendliness increase will <color style='color:#FFCC33;'>reset</color> across all the body parts it likes to be petted.",
+                        "Desc": "Если гладить кошку в одном и том же месте, <color style='color:#FFCC33;'>прирост дружелюбия будет уменьшаться</color>, пока не остановится вовсе. Поэтому стоит изменять подход и гладить <color style='color:#FFCC33;'>разные места</color>.<br>Через определённое количество поглаживаний в другом месте прирост дружелюбия кошки <color style='color:#FFCC33;'>сбросится</color> во всех местах.",
                         "Img": "UI_Activity_Catcafe_07"
                     },
                     {
-                        "Desc": "Once a cat's Friendship level<color style='color:#FFCC33;'> has increased to the next stage</color>, <color style='color:#FFCC33;'>areas where it did not enjoy being petted may change</color>, and it may now permit you to pet it in new places.<br>Use your keen observation and get along with them, now!",
+                        "Desc": "С <color style='color:#FFCC33;'>повышением</color> дружелюбия <color style='color:#FFCC33;'>места кошки, в которых она не любила, чтобы её гладили, могут измениться</color>, и она позволит вам погладить их.<br>Наблюдательность поможет вам поладить с кошками!",
                         "Img": "UI_Activity_Catcafe_08"
                     }
                 ]
             },
             {
                 "_id": 5184,
-                "Name": "Rolling Crossfire",
-                "Desc": "The \"Genius Inventor\" of the Gardes has created a new kind of remote cannon. In order to test its combat effectiveness, they are looking for professionals to participate in firing experiments...",
-                "Intro": "<color style='color:#D3BC8E;'>Event Guidelines</color><br>The \"Genius Inventor\" of the Gardes has created a new kind of remote cannon. In order to test its combat effectiveness, they are looking for professionals to participate in firing experiments...<br><br><color style='color:#D3BC8E;'>Eligibility</color><br>Reach Adventure Rank 20 and complete the Archon Quest \"Song of the Dragon and Freedom.\"<br><br><color style='color:#D3BC8E;'>Event Rules</color><br>A new stage will unlock each day for the first five days after the event starts. Score a certain number of points in the previous stage to open the following one.<br>You must control the turret remotely and defeat as many of the endless hordes of Slimes that show up as possible to score the highest possible points.",
+                "Name": "Вихрь перекрёстного огня ЪЪЪ",
+                "Desc": "«Гениальный изобретатель ЪЪЪ» жандармов создал новый вид орудия для дальнего боя. Чтобы проверить его эффективность в реальном бою, жандармы набирают специалистов для участия в особом огневом испытании...",
+                "Intro": "<color style='color:#D3BC8E;'>О событии</color><br>«Гениальный изобретатель ЪЪЪ» жандармов создал новый вид орудия для дальнего боя. Чтобы проверить его эффективность в реальном бою, жандармы набирают специалистов для участия в особом огневом испытании...<br><br><color style='color:#D3BC8E;'>Условия участия</color><br>Достигните Ранга приключений 20 и выполните задание Архонтов «Песнь о драконьей свободе».<br><br><color style='color:#D3BC8E;'>Правила события</color><br>Ежедневно в течение первых пяти дней после начала события будет открываться по одному новому уровню. Наберите определённое количество очков в предшествующих уровнях, чтобы открыть последующие.<br>Путешественникам предстоит управлять орудием с помощью устройства для дистанционного управления, чтобы уничтожить как можно больше слаймов, которые непрерывно появляются в разных местах, и набрать максимум очков.",
                 "Reward": [
                     201,
                     104003,
@@ -203,63 +203,63 @@ var _eventvers = [
                 ],
                 "Tutorial": [
                     {
-                        "Desc": "In Rolling Crossfire challenges, you must use the remote-controlled turret to fire at Slimes. The more you defeat within the time limit, the higher your test score.<br>Large Slimes are harder to defeat, but award more points once felled.",
+                        "Desc": "В испытании Вихрь перекрёстного огня вам предстоит вести огонь по слаймам, используя турель с дистанционным управлением. Чем больше слаймов вы уничтожите за отведённое время, тем выше будет ваш тестовый счёт.<br>Крупных слаймов труднее победить, но за них вы получите больше очков.",
                         "Img": "UI_Activity_SlimeCannon_01"
                     },
                     {
-                        "Desc": "The cannon will face along the axis linking your character and the cannon. <color=#ffcc33>You can adjust the turret's aim by moving your character</color>.",
+                        "Desc": "Линия прицеливания турели проходит через ось, соединяющую вашего персонажа и турель. <color=#ffcc33>Прицел турели перемещается вместе с вашим персонажем</color>.",
                         "Img": "UI_Activity_SlimeCannon_02"
                     },
                     {
-                        "Desc": "<color=#ffcc33>Press the \"Fire\" button</color> to control the cannon remotely, causing it to <color=#ffcc33>fire the shell currently loaded</color> in the direction it is aiming. After firing, the cannon will immediately load one of three random elemental shell types: <color=#ffacff>Electro</color>, <color=#ff9999>Pyro</color>, or <color=#99ffff>Cryo</color>. <color=#ffcc33>Look at the color of the aiming guide line</color> to see which type of shell has been loaded.",
+                        "Desc": "<color=#ffcc33>Нажмите кнопку выстрела</color>, чтобы выпустить <color=#ffcc33>заряженный снаряд</color> турели с дистанционным управлением в том направлении, куда вы целитесь. После выстрела в случайном порядке будет заряжен один из трёх элементальных снарядов <color=#ffacff>Электро</color>, <color=#ff9999>Пиро</color> и <color=#99ffff>Крио</color>. Тип снаряда можно определить по <color=#ffcc33>цвету линии прицеливания</color>.",
                         "Img": "UI_Activity_SlimeCannon_03"
                     },
                     {
-                        "Desc": "After elemental shells hit different Slimes, they will deal the corresponding Elemental DMG and trigger special effects.<br>Operation Overload: Causes an explosion, sending nearby opponents flying.<br>Frigid Frost: Deals Cryo and Physical DMG over a wide area, decreasing All Elemental RES for opponents in the area.<br>Aggressive Ablation: Greatly enhances this attack, increasing its AoE and dealing additional Physical DMG.<br>Hitting Slimes of the same element as the shell will have no effect due to immunity.",
+                        "Desc": "Элементальные снаряды, попадая в разных слаймов, наносят соответствующий элементальный урон и активируют особые эффекты.<br>Перегрузка: вызывает взрыв, подбрасывающий врагов поблизости.<br>Заморозка: наносит Крио и физический урон по большой площади и снижает сопротивление всем элементам.<br>Растворение: значительно усиливает последующую атаку, увеличивает её площадь и наносит дополнительный физический урон.<br>Попадания в слаймов с тем же элементом неэффективны по причине их иммунитета.",
                         "Img": "UI_Activity_SlimeCannon_04"
                     },
                     {
-                        "Desc": "The turret will charge up over time. Once it has accumulated enough energy, you can <color=#ffcc33>approach the turret</color> and consume the energy to fire off a powerful Piercing Shell.<br>The turret can store energy for up to 2 such Piercing Shells.",
+                        "Desc": "Турель со временем заряжается. Когда соберётся достаточно энергии, вы сможете <color=#ffcc33>подойти к турели</color> и израсходовать энергию, чтобы выстрелить мощным пробивающим снарядом.<br>Турель может накопить энергию для 2 таких пробивающих снарядов.",
                         "Img": "UI_Activity_SlimeCannon_15"
                     },
                     {
-                        "Desc": "Standard Tests are time-limited challenges. In such tests, Slimes will not move. You can also use special equipment that will appear on the field as you operate the turret to defeat more Slimes.",
+                        "Desc": "Стандартные тесты - это испытания, ограниченные по времени. В таких испытаниях слаймы не передвигаются. Когда вы управляете турелью, на поле будут появляться специальные устройства. Используйте их, чтобы победить больше слаймов.",
                         "Img": "UI_Activity_SlimeCannon_05"
                     },
                     {
-                        "Desc": "Stress Tests are time-limited challenges. During such tests, Slimes will constantly <color=#ffcc33>move toward a withdrawal line</color>. Once a Slime reaches the withdrawal line, it will <color=#ffcc33>immediately retreat and not add to your test score</color>.<br>Seize the moment and defeat as many of them as possible before they withdraw!",
+                        "Desc": "Стресс-тесты - это испытания, ограниченные по времени. Во время таких испытаний слаймы будут непрерывно двигаться <color=#ffcc33>к линии отступления</color>. Достигнув её, слайм <color=#ffcc33>мгновенно покинет поле боя и в тестовом счёте не зачтётся</color>.<br>Воспользуйтесь моментом и победите как можно больше слаймов до того, как они отступят!",
                         "Img": "UI_Activity_SlimeCannon_06"
                     },
                     {
-                        "Desc": "Limit Tests are time-limited tests in which <color=#ffcc33>the remaining test progress will continuously tick down, with the challenge ending once the test progress hits zero</color>.<br>Use the turret to defeat slimes, receiving test time rewards and increasing your test progress.<br>After the test begins, the test difficulty will increase at intervals, which will increase both the rate at which test progress declines and the score multiplier for defeating slimes.",
+                        "Desc": "Лимит-тесты - это ограниченные по времени испытания, в которых <color=#ffcc33>оставшееся время отображается в виде непрерывно убывающего прогресса. Когда прогресс достигнет нуля, испытание завершится</color>.<br>Побеждайте слаймов с помощью турели, чтобы получить награду за время испытания и увеличить его прогресс.<br>После начала испытания его сложность периодически увеличивается: скорость убывания прогресса и множитель очков за победу над слаймами возрастают.",
                         "Img": "UI_Activity_SlimeCannon_07"
                     },
                     {
-                        "Desc": "Operation Overload: Causes an explosion that sends nearby opponents <color=#ffcc33>flying</color>.<br>Knock Slimes out of bounds from the field to defeat them quickly.",
+                        "Desc": "Перегрузка: вызывает взрыв, <color=#ffcc33>подбрасывающий</color> врагов поблизости.<br>Выбивайте слаймов за границы поля, чтобы быстрее одержать победу.",
                         "Img": "UI_Activity_SlimeCannon_08"
                     },
                     {
-                        "Desc": "Frigid Frost: Deals <color=#ffcc33>Cryo and Physical DMG</color> to opponents in an <color=#ffcc33>AoE</color> and <color=#ffcc33>decreases these opponents' All Elemental RES</color>.",
+                        "Desc": "Заморозка: наносит <color=#ffcc33>Крио и физический урон</color> внутри <color=#ffcc33>определённой площади</color> и <color=#ffcc33>снижает сопротивление всем элементам</color>.",
                         "Img": "UI_Activity_SlimeCannon_09"
                     },
                     {
-                        "Desc": "Aggressive Ablation: greatly enhances this attack, increasing its AoE and dealing additional <color=#ffcc33>Physical DMG</color>.",
+                        "Desc": "Растворение: значительно усиливает последующую атаку, увеличивает её площадь и наносит дополнительный <color=#ffcc33>физический урон</color>.",
                         "Img": "UI_Activity_SlimeCannon_10"
                     },
                     {
-                        "Desc": "This test adds the mechanical device known as \"Unending Firepower,\" which can be used to support the turret test.<br>After Unending Firepower is struck by any shell, the turret will switch to <color=#ffcc33>continuously firing special shells</color> which deal <color=#ffcc33>Physical DMG</color> to opponents， lasting for 6s.<br>If this device is not hit for a certain period of time, it will disappear.",
+                        "Desc": "В этом тесте добавлено механическое устройство под названием «Неисчерпаемая огневая мощь», которое поможет в прохождении.<br>Когда любой снаряд попадёт в Неисчерпаемую огневую мощь, турель переключится на <color=#ffcc33>непрерывную стрельбу особыми снарядами</color>, которые наносят противникам <color=#ffcc33>физический урон</color>. Это состояние длится 6 сек.<br>Если в устройство не попасть в течение определённого времени, оно исчезнет.",
                         "Img": "UI_Activity_SlimeCannon_11"
                     },
                     {
-                        "Desc": "This test adds the mechanical device known as the \"Loaded Field,\" which can be used to support the turret test.<br>After Loaded Field is struck by any shell, it will create a hazardous zone that <color=#ffcc33>continuously pulls nearby Slimes in and deals Physical DMG to them</color>.<br>If this device is not activated for a certain period of time, it will disappear.",
+                        "Desc": "В этом тесте добавлено механическое устройство под названием «Поле нагрузки», которое поможет в прохождении.<br>Когда любой снаряд попадёт в Поле нагрузки, образуется опасная область, которая будет <color=#ffcc33>непрерывно притягивать слаймов поблизости и наносить им физический урон</color>.<br>Если это устройство не активировать в течение определённого времени, оно исчезнет.",
                         "Img": "UI_Activity_SlimeCannon_12"
                     },
                     {
-                        "Desc": "This test adds the mechanical device known as the \"Solid Strike,\" which can be used to support the turret test.<br>Solid Strikes are divided into <color=#ffacff>Electro</color>, <color=#ff9999>Pyro</color>, and <color=#99ffff>Cryo</color> types. After a Solid Strike is hit by any shell, it will <color=#ffcc33>immediately defeat all Slimes of that same element on the field</color>.<br>If this device is not hit for a certain period of time, it will disppear.",
+                        "Desc": "В этом тесте добавлено механическое устройство под названием «Трёхмерный удар», которое поможет в прохождении.<br>Трёхмерные удары делятся на три типа: <color=#ffacff>Электро</color>, <color=#ff9999>Пиро</color> и <color=#99ffff>Крио</color>. Когда любой снаряд попадёт в Трёхмерный удар, он <color=#ffcc33>мгновенно победит всех слаймов того же элемента на поле боя</color>.<br>Если в устройство не попасть в течение определённого времени, оно исчезнет.",
                         "Img": "UI_Activity_SlimeCannon_13"
                     },
                     {
-                        "Desc": "This test adds the mechanical device known as the \"Simulated Obstacle,\" which can be used to support the turret test.<br><color=#ffcc33>Piercing Shells</color> can destroy this device. Simulated Obstacles can <color=#ffcc33>block all shells</color> other than Piercing Shells.",
+                        "Desc": "В этом тесте добавлено механическое устройство под названием «Моделируемое препятствие», можно использовать при прохождении.<br><color=#ffcc33>Пробивающие снаряды</color> могут разбить это устройство. Моделируемое препятствие способно <color=#ffcc33>блокировать все снаряды</color>, кроме пробивающих.",
                         "Img": "UI_Activity_SlimeCannon_14"
                     },
                     {

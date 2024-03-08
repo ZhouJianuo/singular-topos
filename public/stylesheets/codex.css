@@ -57,6 +57,16 @@ container {
     min-height: 600px;
 }
 
+popheader {
+    height: 40px;
+    line-height: 40px;
+    background: #fff;
+    color: #333;
+    font-size: 18px;
+    font-weight: 600;
+    overflow: hidden;
+}
+
 .path schedule {
     background-color: #27363e;
     width: 80px;
