@@ -6851,26 +6851,6 @@ var _changelog = [
         "Ver": "2.1v4",
         "Logs": [
             {
-                "Name": "「石心十人」诡弈砂金",
-                "Color": "Imaginary",
-                "Mon": true,
-                "Notes": [
-                    "<color style='color:#f29d38'>分散投资：</color>伤害 120% x5~8 → 110% x5~8",
-                    "<color style='color:#f29d38'>败者退席：</color>伤害 620% → 570%",
-                    "<color style='color:#f29d38'>胜者通杀：</color>伤害 620% → 570%"
-                ]
-            },
-            {
-                "Name": "忆域迷因「狂怒褪去之壳」",
-                "Color": "Quantum",
-                "Mon": true,
-                "Notes": [
-                    "<color style='color:#f29d38'>速度：</color>158 → 145（高等级）",
-                    "<color style='color:#f29d38'>宿怨如浪翻涌：</color>伤害 200% → 180%",
-                    "<color style='color:#f29d38'>痛恶如刺剔骨：</color>伤害 220% x3~8 → 200% x3~8"
-                ]
-            },
-            {
                 "Name": "黄泉",
                 "Color": "Elec",
                 "Notes": [
@@ -6898,6 +6878,26 @@ var _changelog = [
                 "Name": "无主荒星茨冈尼亚",
                 "Notes": [
                     "新增效果：暴击率提升 4%"
+                ]
+            },
+            {
+                "Name": "「石心十人」诡弈砂金",
+                "Color": "Imaginary",
+                "Mon": true,
+                "Notes": [
+                    "<color style='color:#f29d38'>分散投资：</color>伤害 120% x5~8 → 110% x5~8",
+                    "<color style='color:#f29d38'>败者退席：</color>伤害 620% → 570%",
+                    "<color style='color:#f29d38'>胜者通杀：</color>伤害 620% → 570%"
+                ]
+            },
+            {
+                "Name": "忆域迷因「狂怒褪去之壳」",
+                "Color": "Quantum",
+                "Mon": true,
+                "Notes": [
+                    "<color style='color:#f29d38'>速度：</color>158 → 145（高等级）",
+                    "<color style='color:#f29d38'>宿怨如浪翻涌：</color>伤害 200% → 180%",
+                    "<color style='color:#f29d38'>痛恶如刺剔骨：</color>伤害 220% x3~8 → 200% x3~8"
                 ]
             }
         ]

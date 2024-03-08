@@ -1,6 +1,6 @@
 $(function () {
 
-    var no_skillicon = [9001, 9002]
+    var no_skillicon = [1101]
 
     var imgpre = $('#IMGPRE').val()
     var avid = $('#AVID').val()
@@ -231,7 +231,7 @@ $(function () {
                                 style: {
                                     color: t.Color ? ('#' + elemcolor[t.Color]) : ''
                                 },
-                                class: t.Mon ? 'head_right' : t.Mon
+                                class: t.Mon ? 'head_right hr_1' : ''
                             }
                         ],
                         class: 'a_section_head head_withimg'
