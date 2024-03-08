@@ -3,9 +3,14 @@
 var _event = [
     {
         "_id": 114514021,
-        "Name": "2.1 New Playmodes",
+        "Name": "New Hanu Games & The Clockie's Extras",
         "Ver": "2.1",
         "Tutorial": [
+            709001,
+            709101,
+            709102,
+            709103,
+            709201,
             609501,
             610301,
             610401,
@@ -18,12 +23,7 @@ var _event = [
             605402,
             605403,
             605404,
-            605501,
-            709001,
-            709101,
-            709102,
-            709103,
-            709201
+            605501
         ]
     },
     {
@@ -1840,6 +1840,26 @@ var _tut = {
         "Desc": "The ally positioned first in the Team Setup <color=#f29e38ff>gains Energy</color> when <color=#f29e38ff>other allies</color> use their Ultimates, and there is a chance that the ally positioned first will have their next attack's DMG is increased.",
         "Img": "TutorialPage_811202.png"
     },
+    "709001": {
+        "Desc": "If you want to temporarily exit the game or end the transformation, you can interact with the shrinking machine again or teleport using the Map.",
+        "Img": "TutorialPage_709001.png"
+    },
+    "709101": {
+        "Desc": "Boss Stone's minions will experience true calamity when Hanu fires his missile! After taking aim at an enemy, hitting the fire button will unleash the Hanu Missile and consume ammunition.",
+        "Img": "TutorialPage_709101.png"
+    },
+    "709102": {
+        "Desc": "Enemies will drop ammo after being defeated. If 1 round of ammo hits multiple enemies, more ammo is dropped at once.",
+        "Img": "TutorialPage_709102.png"
+    },
+    "709103": {
+        "Desc": "If Brother Hanu has no more ammo left, you can return to Hanu Launcher's position to unlock the Hanu Missile again and replenish 1 ammo.",
+        "Img": "TutorialPage_709103.png"
+    },
+    "709201": {
+        "Desc": "If you use the Hanu Missile to ignite the fireworks, it will trigger an explosion that defeats enemies, and is even capable of destroying walls.",
+        "Img": "TutorialPage_709201.png"
+    },
     "609501": {
         "Desc": "The Clockie's Extras filming experience event now has more available activities. Guests are welcome to try them out!",
         "Img": "TutorialPage_609501.png"
@@ -1891,26 +1911,6 @@ var _tut = {
     "605501": {
         "Desc": "In the Sequel Mode, the tracks will continue <color=#f29e38ff>endlessly</color>. Challenge yourself and create your <color=#f29e38ff>highest all-time score</color>!",
         "Img": "TutorialPage_605501.png"
-    },
-    "709001": {
-        "Desc": "If you want to temporarily exit the game or end the transformation, you can interact with the shrinking machine again or teleport using the Map.",
-        "Img": "TutorialPage_709001.png"
-    },
-    "709101": {
-        "Desc": "Boss Stone's minions will experience true calamity when Hanu fires his missile! After taking aim at an enemy, hitting the fire button will unleash the Hanu Missile and consume ammunition.",
-        "Img": "TutorialPage_709101.png"
-    },
-    "709102": {
-        "Desc": "Enemies will drop ammo after being defeated. If 1 round of ammo hits multiple enemies, more ammo is dropped at once.",
-        "Img": "TutorialPage_709102.png"
-    },
-    "709103": {
-        "Desc": "If Brother Hanu has no more ammo left, you can return to Hanu Launcher's position to unlock the Hanu Missile again and replenish 1 ammo.",
-        "Img": "TutorialPage_709103.png"
-    },
-    "709201": {
-        "Desc": "If you use the Hanu Missile to ignite the fireworks, it will trigger an explosion that defeats enemies, and is even capable of destroying walls.",
-        "Img": "TutorialPage_709201.png"
     }
 }
 
