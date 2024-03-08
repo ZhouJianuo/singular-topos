@@ -356,7 +356,7 @@ $(function () {
                                                                     class: 'hpsp_img'
                                                                 },
                                                                 {
-                                                                    p: this_item.HP.toString(),
+                                                                    span: this_item.HP.toString(),
                                                                     class: 'hp_num',
                                                                     style: {
                                                                         'font-family': 'GCG'
@@ -372,7 +372,7 @@ $(function () {
                                                                     class: 'hpsp_img'
                                                                 },
                                                                 {
-                                                                    p: this_item.SP.toString(),
+                                                                    span: this_item.SP.toString(),
                                                                     class: 'sp_num',
                                                                     style: {
                                                                         'font-family': 'GCG'
@@ -579,7 +579,7 @@ $(function () {
                                                                         class: 'hpsp_img'
                                                                     },
                                                                     {
-                                                                        p: n.toString(),
+                                                                        span: n.toString(),
                                                                         class: 'sp_num',
                                                                         style: {
                                                                             'font-family': 'GCG'
@@ -597,7 +597,7 @@ $(function () {
                                                                         class: 'hpsp_img'
                                                                     },
                                                                     {
-                                                                        p: '0',
+                                                                        span: '0',
                                                                         class: 'sp_num',
                                                                         style: {
                                                                             'font-family': 'GCG'
@@ -695,7 +695,7 @@ $(function () {
                                                                         class: 'hpsp_img'
                                                                     },
                                                                     {
-                                                                        p: n.toString(),
+                                                                        span: n.toString(),
                                                                         class: 'sp_num',
                                                                         style: {
                                                                             'font-family': 'GCG'
@@ -713,7 +713,7 @@ $(function () {
                                                                         class: 'hpsp_img'
                                                                     },
                                                                     {
-                                                                        p: '0',
+                                                                        span: '0',
                                                                         class: 'sp_num',
                                                                         style: {
                                                                             'font-family': 'GCG'

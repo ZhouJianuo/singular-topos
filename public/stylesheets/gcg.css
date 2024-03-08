@@ -326,7 +326,7 @@ schedule {
     top: 0;
     left: 0;
     line-height: 60px;
-    font-size: 26px;
+    font-size: 26px!important;
     font-weight: bold;
     text-align: center;
     display: flex;
