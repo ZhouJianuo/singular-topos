@@ -336,10 +336,12 @@ schedule {
 
 .hp_num {
     color: white;
+    -webkit-text-stroke: 0.3px #000;
 }
 
 .sp_num {
     color: white;
+    -webkit-text-stroke: 0.3px #000;
 }
 
 .tags {
@@ -359,6 +361,7 @@ schedule {
     height: calc(150% / 7);
     top: 0;
     left: 0;
+    -webkit-text-stroke: 0.2px #000;
 }
 
 .out_sp {
@@ -387,7 +390,7 @@ schedule {
     position: absolute;
     height: 100%;
     width: 100%;
-    font-size: 20px;
+    font-size: 18px;
     text-align: center;
     font-weight: bold;
     color: white;
@@ -407,6 +410,8 @@ schedule {
     top: 20px;
     display: flex;
     flex-direction: column;
+    -webkit-text-stroke: 0.2px #000;
+    font-family: 'GCG';
 }
 
 .a_section_head,
@@ -430,6 +435,7 @@ schedule {
     top: -25%;
     right: 0;
     color: #fff;
+    font-family: 'GCG';
     width: 100%;
     height: 100%;
     text-align: center;
@@ -444,6 +450,7 @@ schedule {
     top: 0;
     right: 0;
     color: #fff;
+    font-family: 'GCG';
     width: 100%;
     height: 100%;
     text-align: center;
@@ -488,7 +495,7 @@ schedule {
         font-size: 19px;
     }
     .out_hp_num {
-        font-size: 22px;
+        font-size: 20px;
     }
     .weapon_title {
         font-size: 18px;
@@ -547,7 +554,7 @@ schedule {
         font-size: 20px;
     }
     .out_hp_num {
-        font-size: 24px;
+        font-size: 22px;
     }
     .weapon_title {
         font-size: 20px;
