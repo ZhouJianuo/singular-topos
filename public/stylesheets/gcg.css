@@ -79,7 +79,7 @@ popheader {
 
 popbody {
     overflow-y: scroll;
-    max-height: calc(100vh - 90px) !important
+    max-height: calc(100% - 40px) !important
 }
 
 popdialog {
