@@ -2,6 +2,31 @@
 
 var _event = [
     {
+        "_id": 114514021,
+        "Name": "2.1 New Playmodes",
+        "Ver": "2.1",
+        "Tutorial": [
+            609501,
+            610301,
+            610401,
+            605201,
+            605202,
+            605203,
+            605204,
+            605301,
+            605401,
+            605402,
+            605403,
+            605404,
+            605501,
+            709001,
+            709101,
+            709102,
+            709103,
+            709201
+        ]
+    },
+    {
         "_id": 50010,
         "Icon": "BtnQuestFeverTime.png",
         "Name": "Tides of War",
@@ -955,31 +980,6 @@ var _event = [
         "Story": "*Beta content. Not indicative of final quality<br><br><color=#f29e38ff>◆Event Details◆</color><br>Event Rewards: Tracks of Destiny and Stellar Jade<br><br><color=#f29e38ff>◆Event Rules◆</color><br>1. This event contains seven stages, with one new stage becoming available every day during the event. Each challenge stage will provide Trailblazers with several trial characters, which can be freely added to your team.<br>2. The ratings for each stage will be divided into several levels according to your scores.<br>3. Each challenge stage has multiple stage bonus conditions. In addition to completing the stages, Trailblazers should try to complete as many of these conditions as possible to gain more challenge points. Stages can be challenged multiple times during the event.<br>4. The challenge points of all stages represent your total score, and Trailblazers can claim rewards on the event page based on this score.",
         "Reward": [],
         "Ver": "1.x"
-    },
-    {
-        "_id": 114514,
-        "Name": "New",
-        "Ver": "2.1",
-        "Tutorial": [
-            609501,
-            610301,
-            610401,
-            605201,
-            605202,
-            605203,
-            605204,
-            605301,
-            605401,
-            605402,
-            605403,
-            605404,
-            605501,
-            709001,
-            709101,
-            709102,
-            709103,
-            709201
-        ]
     }
 ]
 
