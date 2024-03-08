@@ -8249,7 +8249,7 @@ var _monsterskill = {
         "SP": 5.0,
         "Elem": "Imaginary",
         "DMG": [
-            1.2
+            1.1
         ]
     },
     "803401003": {
@@ -8265,14 +8265,14 @@ var _monsterskill = {
     "803401004": {
         "Key": "Skill04",
         "Name": "Time For A Bet",
-        "Desc": "Summons <color style='color:#f29e38;'>2</color> <b>All or Nothing</b> and makes a single target enter the gamble, and chooses a random number for himself between 1 and 12.<br>During the gamble, Aventurine of Stratagems is unselectable. All or Nothing is always immune to all DMG.<br><br>When the gambling ally attacks All or Nothing, they will receive a random number between 1 and 6, which stacks when hitting multiple.<br><br>After the gambling target has finished their turn, the gamble finishes:<br>· If the gambling ally's number is lower than Aventurine of Stratagems, they lose the bet and will suffer from the skill <color style='color:#f29e38;'>The Loser's Time Is Over</color>.<br>· If the number is higher than Aventurine of Stratagems, they win the bet and their Ultimate is ready.<br><br><b><color style='color:#f29e38;'>Look, Don't Speak</color></b><br>Characters who have not taken part in the gamble will be inflicted with <b>Strong Reverberation</b> until the end of the Gamble, delaying their action by <color style='color:#f29e38;'>70%</color>. This effect cannot be immunized against or resisted.",
+        "Desc": "Summons <color style='color:#f29e38;'>2</color> <b>All or Nothing</b> and makes a single target enter the gamble, and chooses a random number for himself between 2 and 6.<br>During the gamble, Aventurine of Stratagems is unselectable. All or Nothing is always immune to all DMG.<br><br>When the gambling ally attacks All or Nothing, they will receive a random number between 1 and 6, which stacks when hitting multiple.<br><br>After the gambling target has finished their turn, the gamble finishes:<br>· If the gambling ally's number is lower than Aventurine of Stratagems, they lose the bet and will suffer from the skill <color style='color:#f29e38;'>The Loser's Time Is Over</color>.<br>· If the number is higher than Aventurine of Stratagems, they win the bet and their Ultimate is ready.<br><br><b><color style='color:#f29e38;'>Look, Don't Speak</color></b><br>Characters who have not taken part in the gamble will be inflicted with <b>Strong Reverberation</b> until the end of the Gamble, delaying their action by <color style='color:#f29e38;'>70%</color>. This effect cannot be immunized against or resisted.",
         "SP": 0,
         "Threat": true
     },
     "803401005": {
         "Key": "Skill05",
         "Name": "Big Spenders' Mad Party",
-        "Desc": "Summons <color style='color:#f29e38;'>4</color> <b>All or Nothing</b> and makes all targets enter the gamble, and chooses a random number for himself between 1 and 12.<br>During the gamble, Aventurine of Stratagems is unselectable. All or Nothing is always immune to all DMG.<br><br>When a gambling ally attacks All or Nothing, they will receive a random number between 1 and 6, which stacks when hitting multiple.<br><br>The next time Aventurine of Stratagems takes a turn, the gamble finishes:<br>· Targets with numbers lower than Aventurine of Stratagems will lose the bet and suffer from the skill <color style='color:#f29e38;'>The Winner Takes It All</color>.<br>· Targets with numbers higher than Aventurine of Stratagems win the bet and will have their Ultimate ready.",
+        "Desc": "Summons <color style='color:#f29e38;'>4</color> <b>All or Nothing</b> and makes all targets enter the gamble, and chooses a random number for himself between 5 and 9.<br>During the gamble, Aventurine of Stratagems is unselectable. All or Nothing is always immune to all DMG.<br><br>When a gambling ally attacks All or Nothing, they will receive a random number between 1 and 6, which stacks when hitting multiple.<br><br>The next time Aventurine of Stratagems takes a turn, the gamble finishes:<br>· Targets with numbers lower than Aventurine of Stratagems will lose the bet and suffer from the skill <color style='color:#f29e38;'>The Winner Takes It All</color>.<br>· Targets with numbers higher than Aventurine of Stratagems win the bet and will have their Ultimate ready.",
         "SP": 0,
         "Threat": true
     },
@@ -8283,7 +8283,7 @@ var _monsterskill = {
         "SP": 20.0,
         "Elem": "Imaginary",
         "DMG": [
-            6.2
+            5.7
         ]
     },
     "803401007": {
@@ -8293,12 +8293,12 @@ var _monsterskill = {
         "SP": 20.0,
         "Elem": "Imaginary",
         "DMG": [
-            6.2
+            5.7
         ]
     },
     "803401008": {
         "Key": "Skill08",
-        "Name": "Strategems' Wagering",
+        "Name": "Stratagems' Wagering",
         "Desc": "Every time a target wins the gamble, they receive the <b>Favored by Fortune</b> effect: increases DMG dealt by <color style='color:#f29e38;'>50%</color>.<br>Every time a target loses the gamble, they receive the <b>Down on Your Luck</b> effect: increases DMG taken by <color style='color:#f29e38;'>20%</color>.",
         "SP": 0
     },
@@ -10050,7 +10050,7 @@ var _monsterskill = {
         "SP": 10.0,
         "Elem": "Quantum",
         "DMG": [
-            2
+            1.8
         ],
         "Status": [
             230130101
@@ -10064,7 +10064,7 @@ var _monsterskill = {
         "Elem": "Quantum",
         "Threat": true,
         "DMG": [
-            2.2
+            2
         ],
         "Status": [
             230130101
@@ -10511,7 +10511,7 @@ var _monsterskill = {
         "SP": 10.0,
         "Elem": "Quantum",
         "DMG": [
-            2
+            1.8
         ],
         "Status": [
             230130101
@@ -10525,7 +10525,7 @@ var _monsterskill = {
         "Elem": "Quantum",
         "Threat": true,
         "DMG": [
-            2.2
+            2
         ],
         "Status": [
             230130101
