@@ -40,7 +40,7 @@ $(function () {
 
         if (avid) {
             for (const [ti, di] of Object.entries(_index)) {
-                if (di[avid]) {
+                if (di[avid] != undefined) {
                     I_TYPE = ti
                     if (has_2) {
                         popItem(di[avid] + 1)
