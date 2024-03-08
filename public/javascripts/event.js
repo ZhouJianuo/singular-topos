@@ -135,7 +135,8 @@ $(function () {
                                 'data-id': t._id
                             }
                         },
-                        class: 'event-sel'
+                        class: 'event-sel',
+                        when: t.Story && t.Story.length
                     },
                     {
                         p: t.Story,
