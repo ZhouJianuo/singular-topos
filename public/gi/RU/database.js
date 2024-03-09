@@ -3140,6 +3140,20 @@ var _SpiralAbyssAffixDescConfig = {
             "Text": " (Abyss Version)"
         },
         "Hover": "- All RES increased by 80% while Enhanced, instead of 60%.<br>- Interval between Enhancements decreased from 30s to 20s."
+    },
+    "43001": {
+        "Show": {
+            "Color": "Grey",
+            "Text": " (DMG Reduction)"
+        },
+        "Hover": "- DMG taken is reduced to 75% of the original DMG."
+    },
+    "43002": {
+        "Show": {
+            "Color": "Grey",
+            "Text": " (Entwined)"
+        },
+        "Hover": "- Special effect: when one vishap is defeated, the other will automatically be defeated."
     }
 }
 
@@ -44027,8 +44041,9 @@ var _SpiralAbyssFloorConfig = {
                                     1028
                                 ],
                                 "Note": {
-                                    "Text": "Smoldering<br>Flames",
-                                    "Color": "Fire"
+                                    "Text": "Smoldering Flames<br><color style='color:#808080;'>Defense Enhance</color>",
+                                    "Color": "Fire",
+                                    "Pop": 1028
                                 },
                                 "Pos": [
                                     [
@@ -44043,6 +44058,10 @@ var _SpiralAbyssFloorConfig = {
                                 "Affix": [
                                     4190
                                 ],
+                                "Note": {
+                                    "Text": "Abyss Version",
+                                    "Pop": 4190
+                                },
                                 "Pos": [
                                     [
                                         0,
@@ -44222,7 +44241,8 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Note": {
                                     "Text": "Rumbling<br>Stone",
-                                    "Color": "Rock"
+                                    "Color": "Rock",
+                                    "Pop": 6103
                                 },
                                 "Pos": [
                                     [
@@ -44249,7 +44269,8 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Note": {
                                     "Text": "Smoldering<br>Flames",
-                                    "Color": "Fire"
+                                    "Color": "Fire",
+                                    "Pop": 1028
                                 },
                                 "Pos": [
                                     [
@@ -44330,7 +44351,8 @@ var _SpiralAbyssFloorConfig = {
                                     40701
                                 ],
                                 "Note": {
-                                    "Text": "Abyss Version"
+                                    "Text": "Abyss Version",
+                                    "Pop": 40701
                                 },
                                 "Pos": [
                                     [
@@ -50931,7 +50953,8 @@ var _SpiralAbyssFloorConfig = {
                                     5002
                                 ],
                                 "Note": {
-                                    "Text": "Defense<br>Enhance"
+                                    "Text": "Defense<br>Enhance",
+                                    "Pop": 5002
                                 }
                             },
                             {
@@ -50941,7 +50964,8 @@ var _SpiralAbyssFloorConfig = {
                                     5002
                                 ],
                                 "Note": {
-                                    "Text": "Defense<br>Enhance"
+                                    "Text": "Defense<br>Enhance",
+                                    "Pop": 5002
                                 }
                             }
                         ]
@@ -50971,7 +50995,8 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Note": {
                                     "Text": "Mist<br>Bubbles",
-                                    "Color": "Water"
+                                    "Color": "Water",
+                                    "Pop": 6106
                                 }
                             },
                             {
@@ -50982,7 +51007,8 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Note": {
                                     "Text": "Slowing<br>Water",
-                                    "Color": "Water"
+                                    "Color": "Water",
+                                    "Pop": 1026
                                 }
                             }
                         ]
@@ -51056,7 +51082,8 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Note": {
                                     "Text": "Mist<br>Bubbles",
-                                    "Color": "Water"
+                                    "Color": "Water",
+                                    "Pop": 6106
                                 }
                             },
                             {
@@ -51067,7 +51094,8 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Note": {
                                     "Text": "Ice Cage",
-                                    "Color": "Ice"
+                                    "Color": "Ice",
+                                    "Pop": 6101
                                 }
                             },
                             {
@@ -51078,7 +51106,8 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Note": {
                                     "Text": "Lightning<br>Matrix",
-                                    "Color": "Elec"
+                                    "Color": "Elec",
+                                    "Pop": 6104
                                 }
                             }
                         ]
@@ -51095,7 +51124,8 @@ var _SpiralAbyssFloorConfig = {
                                     5427
                                 ],
                                 "Note": {
-                                    "Text": "Abyss Version"
+                                    "Text": "Abyss Version",
+                                    "Pop": 5427
                                 }
                             }
                         ]
@@ -51145,7 +51175,8 @@ var _SpiralAbyssFloorConfig = {
                                     61801
                                 ],
                                 "Note": {
-                                    "Text": "Abyss Version"
+                                    "Text": "Abyss Version",
+                                    "Pop": 61801
                                 }
                             }
                         ]
@@ -51162,7 +51193,8 @@ var _SpiralAbyssFloorConfig = {
                                     4190
                                 ],
                                 "Note": {
-                                    "Text": "Abyss Version"
+                                    "Text": "Abyss Version",
+                                    "Pop": 4190
                                 }
                             }
                         ]
@@ -51231,7 +51263,8 @@ var _SpiralAbyssFloorConfig = {
                                     5427
                                 ],
                                 "Note": {
-                                    "Text": "Abyss Version"
+                                    "Text": "Abyss Version",
+                                    "Pop": 5427
                                 },
                                 "HPOverride": 11.62
                             }
@@ -51250,7 +51283,8 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Note": {
                                     "Text": "Slowing<br>Water",
-                                    "Color": "Water"
+                                    "Color": "Water",
+                                    "Pop": 1026
                                 },
                                 "HPOverride": 4.2
                             },
@@ -51271,7 +51305,7 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 20301,
-                                "Num": 2,
+                                "Num": 1,
                                 "HPOverride": 11.2
                             },
                             {
@@ -51282,7 +51316,8 @@ var _SpiralAbyssFloorConfig = {
                                     4190
                                 ],
                                 "Note": {
-                                    "Text": "Abyss Version"
+                                    "Text": "Abyss Version",
+                                    "Pop": 4190
                                 }
                             }
                         ]
@@ -51329,13 +51364,15 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 20103,
-                                "Num": 2,
+                                "Num": 1,
                                 "Affix": [
                                     5002,
                                     1026
                                 ],
                                 "Note": {
-                                    "Text": "Slowing<br>Water"
+                                    "Text": "Slowing Water<br><color style='color:#808080;'>Defense Enhance</color>",
+                                    "Color": "Water",
+                                    "Pop": 1026
                                 },
                                 "HPOverride": 2.8
                             },
@@ -51383,7 +51420,8 @@ var _SpiralAbyssFloorConfig = {
                                     4181
                                 ],
                                 "Note": {
-                                    "Text": "Abyss Version"
+                                    "Text": "Abyss Version",
+                                    "Pop": 4181
                                 },
                                 "HPOverride": 11.9
                             }
@@ -51438,7 +51476,8 @@ var _SpiralAbyssFloorConfig = {
                                     4185
                                 ],
                                 "Note": {
-                                    "Text": "Abyss Version"
+                                    "Text": "Abyss Version",
+                                    "Pop": 4185
                                 },
                                 "HPOverride": 9.8
                             }
@@ -51469,6 +51508,291 @@ var _SpiralAbyssFloorConfig = {
                                 "ID": 20301,
                                 "Num": 2,
                                 "HPOverride": 11.2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "1038": {
+        "Disorder": "",
+        "ShowVers": [
+            7
+        ],
+        "Chambers": [
+            {
+                "Name": "12-1",
+                "Level": 95,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "DPS": {
+                    "7": 5247010
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 512,
+                        "Monsters": [
+                            {
+                                "ID": 512,
+                                "Num": 1,
+                                "Affix": [
+                                    512,
+                                    43001
+                                ],
+                                "Note": {
+                                    "Text": "Abyss Version<br>DMG Reduction",
+                                    "Pop": 43001
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "ExtraDesc": "Keep 5 on field, spawn one after each kill",
+                        "Monsters": [
+                            {
+                                "ID": 21104,
+                                "Num": 5,
+                                "Affix": [
+                                    4190
+                                ]
+                            },
+                            {
+                                "ID": 20402,
+                                "Num": 5
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 61004,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 21103,
+                                "Num": 2,
+                                "Affix": [
+                                    4190
+                                ],
+                                "Note": {
+                                    "Text": "Abyss Version",
+                                    "Pop": 4190
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "12-2",
+                "Level": 98,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "DPS": {
+                    "7": 5193046
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 60507,
+                        "Monsters": [
+                            {
+                                "ID": 60507,
+                                "Num": 1,
+                                "Affix": [
+                                    43002,
+                                    43001
+                                ],
+                                "HPOverride": 9,
+                                "Note": {
+                                    "Text": "Entwined<br>DMG Reduction",
+                                    "Pop": 43001
+                                }
+                            },
+                            {
+                                "ID": 60508,
+                                "Num": 1,
+                                "Affix": [
+                                    43002,
+                                    43001
+                                ],
+                                "HPOverride": 9,
+                                "Note": {
+                                    "Text": "Entwined<br>DMG Reduction",
+                                    "Pop": 43001
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 20302,
+                                "Num": 1,
+                                "HPOverride": 11.2
+                            },
+                            {
+                                "ID": 20201,
+                                "Num": 2,
+                                "HPOverride": 11.2
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 21005,
+                        "Monsters": [
+                            {
+                                "ID": 21001,
+                                "Note": {
+                                    "Text": "<color style='color:#FF0000;'>Pyro</color> <color style='color:#00B0F0;'>Cryo</color> <color style='color:#7030A0;'>Electro</color><br>Abyss Version",
+                                    "Pop": 5282
+                                },
+                                "Num": 1,
+                                "Affix": [
+                                    5282
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "12-3",
+                "Level": 100,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        19
+                    ]
+                },
+                "DPS": {
+                    "7": 4699181
+                },
+                "Gadgets": [
+                    0,
+                    553
+                ],
+                "Upper": [
+                    {
+                        "WaveDesc": 701,
+                        "Monsters": [
+                            {
+                                "ID": 701,
+                                "Num": 1,
+                                "Affix": [
+                                    43001
+                                ],
+                                "Note": {
+                                    "Text": "DMG Reduction",
+                                    "Pop": 43001
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 61003,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 61001,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 61003,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 61001,
+                                "Num": 1
                             }
                         ]
                     }

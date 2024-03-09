@@ -3140,6 +3140,20 @@ var _SpiralAbyssAffixDescConfig = {
             "Text": " (深渊特化)"
         },
         "Hover": "- 增幅期间全部抗性提升80%而不是60%。<br>- 增幅状态之间的间隔由30s缩短至20s。"
+    },
+    "43001": {
+        "Show": {
+            "Color": "Grey",
+            "Text": " (减伤)"
+        },
+        "Hover": "- 由地脉异常施加的效果：受到的伤害降低为原本的75%。"
+    },
+    "43002": {
+        "Show": {
+            "Color": "Grey",
+            "Text": " (同生共死)"
+        },
+        "Hover": "- 挑战特殊效果：当一只深海龙蜥死亡时，另一只深海龙蜥也会死亡。"
     }
 }
 
@@ -44027,8 +44041,9 @@ var _SpiralAbyssFloorConfig = {
                                     1028
                                 ],
                                 "Note": {
-                                    "Text": "阴燃之火",
-                                    "Color": "Fire"
+                                    "Text": "阴燃之火<br><color style='color:#808080;'>防护强化</color>",
+                                    "Color": "Fire",
+                                    "Pop": 1028
                                 },
                                 "Pos": [
                                     [
@@ -44043,6 +44058,10 @@ var _SpiralAbyssFloorConfig = {
                                 "Affix": [
                                     4190
                                 ],
+                                "Note": {
+                                    "Text": "深渊特化",
+                                    "Pop": 4190
+                                },
                                 "Pos": [
                                     [
                                         0,
@@ -44222,7 +44241,8 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Note": {
                                     "Text": "翻涌岩潮",
-                                    "Color": "Rock"
+                                    "Color": "Rock",
+                                    "Pop": 6103
                                 },
                                 "Pos": [
                                     [
@@ -44249,7 +44269,8 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Note": {
                                     "Text": "阴燃之火",
-                                    "Color": "Fire"
+                                    "Color": "Fire",
+                                    "Pop": 1028
                                 },
                                 "Pos": [
                                     [
@@ -44330,7 +44351,8 @@ var _SpiralAbyssFloorConfig = {
                                     40701
                                 ],
                                 "Note": {
-                                    "Text": "深渊特化"
+                                    "Text": "深渊特化",
+                                    "Pop": 40701
                                 },
                                 "Pos": [
                                     [
@@ -50931,7 +50953,8 @@ var _SpiralAbyssFloorConfig = {
                                     5002
                                 ],
                                 "Note": {
-                                    "Text": "防护强化"
+                                    "Text": "防护强化",
+                                    "Pop": 5002
                                 }
                             },
                             {
@@ -50941,7 +50964,8 @@ var _SpiralAbyssFloorConfig = {
                                     5002
                                 ],
                                 "Note": {
-                                    "Text": "防护强化"
+                                    "Text": "防护强化",
+                                    "Pop": 5002
                                 }
                             }
                         ]
@@ -50971,7 +50995,8 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Note": {
                                     "Text": "水泡",
-                                    "Color": "Water"
+                                    "Color": "Water",
+                                    "Pop": 6106
                                 }
                             },
                             {
@@ -50982,7 +51007,8 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Note": {
                                     "Text": "迟滞之水",
-                                    "Color": "Water"
+                                    "Color": "Water",
+                                    "Pop": 1026
                                 }
                             }
                         ]
@@ -51056,7 +51082,8 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Note": {
                                     "Text": "水泡",
-                                    "Color": "Water"
+                                    "Color": "Water",
+                                    "Pop": 6106
                                 }
                             },
                             {
@@ -51067,7 +51094,8 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Note": {
                                     "Text": "冰牢",
-                                    "Color": "Ice"
+                                    "Color": "Ice",
+                                    "Pop": 6101
                                 }
                             },
                             {
@@ -51078,7 +51106,8 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Note": {
                                     "Text": "雷光矩阵",
-                                    "Color": "Elec"
+                                    "Color": "Elec",
+                                    "Pop": 6104
                                 }
                             }
                         ]
@@ -51095,7 +51124,8 @@ var _SpiralAbyssFloorConfig = {
                                     5427
                                 ],
                                 "Note": {
-                                    "Text": "深渊特化"
+                                    "Text": "深渊特化",
+                                    "Pop": 5427
                                 }
                             }
                         ]
@@ -51145,7 +51175,8 @@ var _SpiralAbyssFloorConfig = {
                                     61801
                                 ],
                                 "Note": {
-                                    "Text": "深渊特化"
+                                    "Text": "深渊特化",
+                                    "Pop": 61801
                                 }
                             }
                         ]
@@ -51162,7 +51193,8 @@ var _SpiralAbyssFloorConfig = {
                                     4190
                                 ],
                                 "Note": {
-                                    "Text": "深渊特化"
+                                    "Text": "深渊特化",
+                                    "Pop": 4190
                                 }
                             }
                         ]
@@ -51231,7 +51263,8 @@ var _SpiralAbyssFloorConfig = {
                                     5427
                                 ],
                                 "Note": {
-                                    "Text": "深渊特化"
+                                    "Text": "深渊特化",
+                                    "Pop": 5427
                                 },
                                 "HPOverride": 11.62
                             }
@@ -51250,7 +51283,8 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Note": {
                                     "Text": "迟滞之水",
-                                    "Color": "Water"
+                                    "Color": "Water",
+                                    "Pop": 1026
                                 },
                                 "HPOverride": 4.2
                             },
@@ -51271,7 +51305,7 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 20301,
-                                "Num": 2,
+                                "Num": 1,
                                 "HPOverride": 11.2
                             },
                             {
@@ -51282,7 +51316,8 @@ var _SpiralAbyssFloorConfig = {
                                     4190
                                 ],
                                 "Note": {
-                                    "Text": "深渊特化"
+                                    "Text": "深渊特化",
+                                    "Pop": 4190
                                 }
                             }
                         ]
@@ -51329,13 +51364,15 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 20103,
-                                "Num": 2,
+                                "Num": 1,
                                 "Affix": [
                                     5002,
                                     1026
                                 ],
                                 "Note": {
-                                    "Text": "防护强化<br>迟滞之水"
+                                    "Text": "迟滞之水<br><color style='color:#808080;'>防护强化</color>",
+                                    "Color": "Water",
+                                    "Pop": 1026
                                 },
                                 "HPOverride": 2.8
                             },
@@ -51383,7 +51420,8 @@ var _SpiralAbyssFloorConfig = {
                                     4181
                                 ],
                                 "Note": {
-                                    "Text": "初始飞天"
+                                    "Text": "初始飞天",
+                                    "Pop": 4181
                                 },
                                 "HPOverride": 11.9
                             }
@@ -51438,7 +51476,8 @@ var _SpiralAbyssFloorConfig = {
                                     4185
                                 ],
                                 "Note": {
-                                    "Text": "深渊沙虫"
+                                    "Text": "深渊沙虫",
+                                    "Pop": 4185
                                 },
                                 "HPOverride": 9.8
                             }
@@ -51469,6 +51508,291 @@ var _SpiralAbyssFloorConfig = {
                                 "ID": 20301,
                                 "Num": 2,
                                 "HPOverride": 11.2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "1038": {
+        "Disorder": "本层部分挑战中，所有敌人拥有减伤效果：受到的伤害降低为原本的75%。<br>具有减伤效果的敌人受到当前场上角色普通攻击、重击、元素战技或元素爆发造成的伤害后，该敌人累计1层【生灭】，最多叠加10层。每层【生灭】使当前场上角色对该敌人造成的暴击伤害提高20%，且持有至少5层【生灭】的敌人减伤效果失效。<br>场上最多一名敌人持有【生灭】。当新的敌人被附加【生灭】时，会先移除其它敌人拥有的【生灭】效果。",
+        "ShowVers": [
+            7
+        ],
+        "Chambers": [
+            {
+                "Name": "12-1",
+                "Level": 95,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "DPS": {
+                    "7": 5247010
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 512,
+                        "Monsters": [
+                            {
+                                "ID": 512,
+                                "Num": 1,
+                                "Affix": [
+                                    512,
+                                    43001
+                                ],
+                                "Note": {
+                                    "Text": "深渊特化<br><color style='color:#FFCC00;'>减伤</color>",
+                                    "Pop": 43001
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "ExtraDesc": "维持 5 个在场，杀一个出一个",
+                        "Monsters": [
+                            {
+                                "ID": 21104,
+                                "Num": 5,
+                                "Affix": [
+                                    4190
+                                ]
+                            },
+                            {
+                                "ID": 20402,
+                                "Num": 5
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 61004,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 21103,
+                                "Num": 2,
+                                "Affix": [
+                                    4190
+                                ],
+                                "Note": {
+                                    "Text": "深渊特化",
+                                    "Pop": 4190
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "12-2",
+                "Level": 98,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "DPS": {
+                    "7": 5193046
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 60507,
+                        "Monsters": [
+                            {
+                                "ID": 60507,
+                                "Num": 1,
+                                "Affix": [
+                                    43002,
+                                    43001
+                                ],
+                                "HPOverride": 9,
+                                "Note": {
+                                    "Text": "同生共死<br>减伤",
+                                    "Pop": 43001
+                                }
+                            },
+                            {
+                                "ID": 60508,
+                                "Num": 1,
+                                "Affix": [
+                                    43002,
+                                    43001
+                                ],
+                                "HPOverride": 9,
+                                "Note": {
+                                    "Text": "同生共死<br>减伤",
+                                    "Pop": 43001
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 20302,
+                                "Num": 1,
+                                "HPOverride": 11.2
+                            },
+                            {
+                                "ID": 20201,
+                                "Num": 2,
+                                "HPOverride": 11.2
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 21005,
+                        "Monsters": [
+                            {
+                                "ID": 21001,
+                                "Note": {
+                                    "Text": "<color style='color:#FF0000;'>火</color> <color style='color:#00B0F0;'>冰</color> <color style='color:#7030A0;'>雷</color><br>深渊特化",
+                                    "Pop": 5282
+                                },
+                                "Num": 1,
+                                "Affix": [
+                                    5282
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "12-3",
+                "Level": 100,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        19
+                    ]
+                },
+                "DPS": {
+                    "7": 4699181
+                },
+                "Gadgets": [
+                    0,
+                    553
+                ],
+                "Upper": [
+                    {
+                        "WaveDesc": 701,
+                        "Monsters": [
+                            {
+                                "ID": 701,
+                                "Num": 1,
+                                "Affix": [
+                                    43001
+                                ],
+                                "Note": {
+                                    "Text": "减伤",
+                                    "Pop": 43001
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 61003,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 61001,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 61003,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 61001,
+                                "Num": 1
                             }
                         ]
                     }
