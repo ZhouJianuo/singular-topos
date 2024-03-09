@@ -51222,23 +51222,18 @@ var _SpiralAbyssFloorConfig = {
                 },
                 "Upper": [
                     {
-                        "WaveDesc": 1,
+                        "WaveDesc": 61901,
                         "Monsters": [
                             {
-                                "WaveDesc": 61901,
-                                "Monsters": [
-                                    {
-                                        "ID": 61901,
-                                        "Num": 1,
-                                        "Affix": [
-                                            5427
-                                        ],
-                                        "Note": {
-                                            "Text": "深渊特化"
-                                        },
-                                        "HPOverride": 11.62
-                                    }
-                                ]
+                                "ID": 61901,
+                                "Num": 1,
+                                "Affix": [
+                                    5427
+                                ],
+                                "Note": {
+                                    "Text": "深渊特化"
+                                },
+                                "HPOverride": 11.62
                             }
                         ]
                     }
