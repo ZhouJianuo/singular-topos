@@ -1,0 +1,14 @@
+extends __
+block head
+  link(rel="stylesheet", href="/stylesheets/quest.css")
+block content
+  container.ignore
+    input(type="hidden" id="LANG" value=lang)
+    input(type="hidden" id="IMGPRE" value=imgpre)
+    h3
+      span.title
+      em.subtitle
+      em.links
+      em.tlsub 
+  script(src="/javascripts/computerJson.js")
+  script(src="/javascripts/quest.js")

@@ -206,7 +206,7 @@ $(function () {
     function popItem(y) {
         this_item = _items[y]
         poplayer({
-            header: computer_.MiscText.Affix[lang2].substring(3),
+            header: VER_GI + computer_.MiscText.Affix[lang2],
             width: '90%',
             template: [
                 {

@@ -33,7 +33,7 @@ schedule {
 }
 
 .icon {
-    height: 140px;
+    height: 90px;
     margin: auto;
     display: block;
     margin-top: 15px;
@@ -46,7 +46,7 @@ schedule {
 }
 
 .desc {
-    font-size: 15px;
+    font-size: 13px;
 }
 
 .info {
@@ -91,7 +91,7 @@ schedule {
         font-size: 15px;
     }
     .icon {
-        height: 160px;
+        height: 105px;
     }
     .curio {
         width: calc((100% - 140px) / 2);
@@ -100,7 +100,7 @@ schedule {
         font-size: 18px;
     }
     .desc {
-        font-size: 15px;
+        font-size: 14px;
     }
 }
 
@@ -109,7 +109,7 @@ schedule {
         font-size: 16px;
     }
     .icon {
-        height: 180px;
+        height: 120px;
     }
     .curio {
         width: calc((100% - 200px) / 3);
@@ -118,6 +118,6 @@ schedule {
         font-size: 19px;
     }
     .desc {
-        font-size: 16px;
+        font-size: 15px;
     }
 }

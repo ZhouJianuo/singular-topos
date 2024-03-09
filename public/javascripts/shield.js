@@ -185,7 +185,7 @@ $(function () {
         $(this).addClass('active').siblings('schedule').removeClass('active')
         typ = $(this).attr('data-id')
         $('.ach-table').empty().render(MSTable(typ))
-        $('.desc').html(computer_.MiscText.MS_Desc[typ - 1][lang])
+        $('.desc').html(computer_.MiscText.MS_Desc[typ - 1][lang2])
     });
 
     $('body').on('click', '.hp', function () {

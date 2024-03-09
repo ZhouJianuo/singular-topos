@@ -1,0 +1,16 @@
+extends _
+block head
+    link(rel="stylesheet", href="/stylesheets/message.css")
+block content
+    input(type="hidden" id="LANG" value=lang)
+    input(type="hidden" id="AVID" value=avid)
+    input(type="hidden" id="IMGPRE" value=imgpre)
+    container
+        h3
+            span.title
+            em.subtitle
+            em.links
+            em.lang
+    script(src="/javascripts/sr_lang.js")
+    script(src="/javascripts/message.js")
+    script(src="/javascripts/txt.js")

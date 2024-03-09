@@ -6308,6 +6308,18 @@ var links = [
     },
     {
         "Name": {
+            "CH": "<b>妮可少女</b>",
+            "EN": "<b>HomDGCat</b>",
+            "RU": "<b>HomDGCat</b>"
+        },
+        "Link": {
+            "CH": "https://t.me/homdgcat",
+            "EN": "https://t.me/homdgcat",
+            "RU": "https://t.me/homdgcat"
+        }
+    },
+    {
+        "Name": {
             "CH": "怪物",
             "EN": "Monsters",
             "RU": "Противники"
@@ -6340,6 +6352,42 @@ var links = [
             "CH": "/gi/abyss",
             "EN": "/gi/abyss",
             "RU": "/gi/abyss"
+        }
+    },
+    {
+        "Name": {
+            "CH": "地理志",
+            "EN": "Geography Codex",
+            "RU": "География"
+        },
+        "Link": {
+            "CH": "/gi/geo",
+            "EN": "/gi/geo",
+            "RU": "/gi/geo"
+        }
+    },
+    {
+        "Name": {
+            "CH": "任务剧情",
+            "EN": "Quest Stories",
+            "RU": "Задания, Истории"
+        },
+        "Link": {
+            "CH": "/gi/quest",
+            "EN": "/gi/quest",
+            "RU": "/gi/quest"
+        }
+    },
+    {
+        "Name": {
+            "CH": "活动",
+            "EN": "Events",
+            "RU": "Событие"
+        },
+        "Link": {
+            "CH": "/gi/event",
+            "EN": "/gi/event",
+            "RU": "/gi/event"
         }
     },
     {
@@ -6380,18 +6428,6 @@ var links = [
     },
     {
         "Name": {
-            "CH": "活动",
-            "EN": "Events",
-            "RU": "Событие"
-        },
-        "Link": {
-            "CH": "/gi/event",
-            "EN": "/gi/event",
-            "RU": "/gi/event"
-        }
-    },
-    {
-        "Name": {
             "CH": "加载提示",
             "EN": "Loading Tips",
             "RU": "Подсказки на экране загрузки"
@@ -6404,14 +6440,14 @@ var links = [
     },
     {
         "Name": {
-            "CH": "地理志",
-            "EN": "Geography Codex",
-            "RU": "География"
+            "CH": "尘歌壶",
+            "EN": "Serenitea Pot",
+            "RU": "Чайник безмятежности"
         },
         "Link": {
-            "CH": "/gi/geo",
-            "EN": "/gi/geo",
-            "RU": "/gi/geo"
+            "CH": "/gi/teapot",
+            "EN": "/gi/teapot",
+            "RU": "/gi/teapot"
         }
     },
     {
@@ -6507,9 +6543,12 @@ $('body').on('click', '._menu_', function () {
                                     }
                                 },
                                 style: {
-                                    display: 'block'
+                                    display: 'block',
+                                    'text-decoration': 'none',
+                                    'color': 'black'
                                 }
                             },
+                            class: 'hover-shadow',
                             style: {
                                 'text-align': 'center',
                                 padding: '10px 0px',

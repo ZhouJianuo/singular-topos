@@ -545,6 +545,13 @@ var links = [
     },
     {
         "Name": {
+            "CH": "<b>妮可少女</b>",
+            "EN": "<b>HomDGCat</b>"
+        },
+        "Link": "https://t.me/homdgcat"
+    },
+    {
+        "Name": {
             "CH": "怪物",
             "EN": "Monsters"
         },
@@ -573,10 +580,31 @@ var links = [
     },
     {
         "Name": {
+            "CH": "任务剧情",
+            "EN": "Missions Stories"
+        },
+        "Link" : "/sr/mission"
+    },
+    {
+        "Name": {
+            "CH": "活动",
+            "EN": "Events"
+        },
+        "Link" : "/sr/event"
+    },
+    {
+        "Name": {
             "CH": "物品",
             "EN": "Items"
         },
         "Link" : "/sr/item"
+    },
+    {
+        "Name": {
+            "CH": "短信",
+            "EN": "Messages"
+        },
+        "Link" : "/sr/message"
     },
     {
         "Name": {
@@ -594,20 +622,6 @@ var links = [
     },
     {
         "Name": {
-            "CH": "活动",
-            "EN": "Events"
-        },
-        "Link" : "/sr/event"
-    },
-    {
-        "Name": {
-            "CH": "留声机碟片",
-            "EN": "Phonograph Records"
-        },
-        "Link" : "/sr/rec"
-    },
-    {
-        "Name": {
             "CH": "模拟宇宙 · 祝福",
             "EN": "SU Blessings"
         },
@@ -619,6 +633,13 @@ var links = [
             "EN": "SU Curios"
         },
         "Link" : "/sr/curio"
+    },
+    {
+        "Name": {
+            "CH": "留声机碟片",
+            "EN": "Phonograph Records"
+        },
+        "Link" : "/sr/rec"
     },
 ]
 
@@ -664,9 +685,12 @@ function popLinks(l) {
                                     }
                                 },
                                 style: {
-                                    display: 'block'
+                                    display: 'block',
+                                    'text-decoration': 'none',
+                                    'color': 'black'
                                 }
                             },
+                            class: 'hover-shadow',
                             style: {
                                 'text-align': 'center',
                                 padding: '10px 0px',
@@ -683,7 +707,7 @@ function popLinks(l) {
                     'flex-wrap': 'wrap',
                     'justify-content': 'space-evenly',
                     width: '100%',
-                    margin: '0px auto 60px'
+                    margin: '0px auto 60px',
                 }
             }
         ]

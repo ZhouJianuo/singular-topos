@@ -28,10 +28,20 @@ $(function () {
     var showtop = 1
     var show_arena = 0
 
+    var did_2_load = 0
+
     let script_computer = document.createElement('script')
     script_computer.src = '/gi/' + lang2 + '/database.js'
     document.head.append(script_computer)
     script_computer.onload = begin1
+
+    let script_computer_2 = document.createElement('script')
+    script_computer_2.src = '/gi/' + lang2 + '/database_extra.js'
+    document.head.append(script_computer_2)
+    script_computer_2.onload = function () {
+        _SpiralAbyssFloorConfig = {..._SpiralAbyssFloorConfig, ..._SpiralAbyssFloorConfig_2}
+        did_2_load = 1
+    }
 
     function begin1() {
         DPSDict = dpsdict(_SpiralAbyssDPSData)
@@ -93,6 +103,9 @@ $(function () {
                                     'data-json': function (d) {
                                         return JSON.stringify(d.data)
                                     },
+                                    'data-gen': function (d) {
+                                        return d.data.Generation
+                                    },
                                     style: function (d) {
                                         var dsp = d.data.Generation == currentGeneration ? '' : 'none'
                                         return 'display:' + dsp + ";"
@@ -119,7 +132,23 @@ $(function () {
             return;
         }
         _this.addClass('active').siblings('schedule').removeClass('active');
-        renderResultPre()
+        var _this_generation = parseInt($(this).attr('data-gen'))
+        if (_this_generation > 3 && _this_generation < 99) {
+            renderResultPre()
+        } else {
+            if (did_2_load) {
+                renderResultPre()
+            } else {
+                $('.lt').show()
+                var gu = setInterval(function () {
+                    if (did_2_load) {
+                        $('.lt').hide()
+                        clearInterval(gu)
+                        renderResultPre()
+                    }
+                }, 200)
+            }
+        }
     })
 
     $(document).on('click', '.generation schedule', function () {

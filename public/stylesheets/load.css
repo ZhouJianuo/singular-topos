@@ -18,6 +18,22 @@ h3 span {
     color: #fff;
 }
 
+.showtop {
+    font-size: 38px;
+    text-align: center;
+    margin-top: -15px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    width: 100%;
+}
+
+.load-ver-select {
+    width: 100px;
+    padding: 6px;
+    font-size: 16px;
+    text-align: center;
+}
+
 h3 .subtitle {
     padding: 10px;
     display: block;

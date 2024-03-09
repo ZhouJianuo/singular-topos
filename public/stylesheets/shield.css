@@ -50,10 +50,13 @@ container {
 }
 
 .content {
-    padding: 20px;
+    padding: 20px 0;
     width: 100%;
     background-color: rgba(255, 255, 255, 1);
     min-height: 600px;
+}
+.desc {
+    padding: 0 20px;
 }
 
 popheader {

@@ -1,0 +1,164 @@
+header {
+    display: none;
+}
+
+h3 {
+    margin: 0px auto 10px;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+h3 span {
+    position: relative;
+}
+
+h3 span {
+    color: #fff;
+}
+
+h3 .subtitle {
+    padding: 10px;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    font-style: normal;
+    margin-bottom: -20px;
+}
+
+h3 a {
+    color: #df903b;
+}
+
+h3 .tlsub {
+    margin-bottom: 15px;
+    font-style: normal;
+    cursor: pointer;
+    display: block;
+}
+
+h3 .links {
+    font-style: normal;
+    line-height: 1.6;
+    cursor: pointer;
+}
+
+container {
+    display: block;
+    max-width: 2000px;
+}
+
+.content {
+    padding-top: 15px;
+    padding-bottom: 30px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    min-height: 600px;
+}
+
+popheader {
+    height: 40px;
+    line-height: 40px;
+    background: #fff;
+    color: #333;
+    font-size: 18px;
+    font-weight: 600;
+    overflow: hidden;
+}
+
+.path schedule {
+    background-color: #27363e;
+    width: 80px;
+    border-radius: 9px;
+    border-width: 0px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.path schedule.active {
+    background-color: #2545ba;
+}
+
+.path img {
+    width: 60px;
+}
+
+schedule.active {
+    background-color: rgb(37, 69, 186);
+    color: #fff;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0px 15px;
+}
+
+.blessing_card_area {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card {
+    background-color: #27363e;
+    border-radius: 5px;
+    margin: 5px 0px;
+    padding: 10px;
+    color: #dddddd;
+    width: calc(100% - 20px);
+}
+
+.name {
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.desc {
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 5px;
+    line-height: 2;
+}
+.image {
+    width: calc(100%);
+    margin: 0px 0px 10px 0px;
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+    .name {
+        font-size: 19px;
+    }
+    .desc {
+        font-size: 15px;
+    }
+    .card {
+        width: calc(100% - 40px);
+    }
+    .image {
+        width: calc(100% - 20px);
+        margin: 10px;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .name {
+        font-size: 20px;
+    }
+    .desc {
+        font-size: 16px;
+    }
+    .card {
+        width: calc(50% - 20px);
+    }
+    .image {
+        width: calc(100% - 20px);
+        margin: 10px;
+    }
+}

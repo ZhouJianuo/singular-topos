@@ -123,6 +123,45 @@ var GI = [
     },
     {
         "Title": {
+            "CH": "地理志",
+            "EN": "Geography Codex",
+            "RU": "География"
+        },
+        "Features": [],
+        "Href": {
+            "CH": "/gi/geo",
+            "EN": "/gi/geo",
+            "RU": "/gi/geo"
+        }
+    },
+    {
+        "Title": {
+            "CH": "任务剧情",
+            "EN": "Quest Stories",
+            "RU": "Задания, Истории"
+        },
+        "Features": [],
+        "Href": {
+            "CH": "/gi/quest",
+            "EN": "/gi/quest",
+            "RU": "/gi/quest"
+        }
+    },
+    {
+        "Title": {
+            "CH": "活动",
+            "EN": "Events",
+            "RU": "Событие"
+        },
+        "Features": [],
+        "Href": {
+            "CH": "/gi/event",
+            "EN": "/gi/event",
+            "RU": "/gi/event"
+        }
+    },
+    {
+        "Title": {
             "CH": "材料 食物 名片",
             "EN": "Materials Food Namecards",
             "RU": "Материал, Еда, Именные карта"
@@ -162,19 +201,6 @@ var GI = [
     },
     {
         "Title": {
-            "CH": "活动",
-            "EN": "Events",
-            "RU": "Событие"
-        },
-        "Features": [],
-        "Href": {
-            "CH": "/gi/event",
-            "EN": "/gi/event",
-            "RU": "/gi/event"
-        }
-    },
-    {
-        "Title": {
             "CH": "加载提示",
             "EN": "Loading Tips",
             "RU": "Подсказки на экране загрузки"
@@ -188,15 +214,15 @@ var GI = [
     },
     {
         "Title": {
-            "CH": "地理志",
-            "EN": "Geography Codex",
-            "RU": "География"
+            "CH": "尘歌壶",
+            "EN": "Serenitea Pot",
+            "RU": "Чайник безмятежности"
         },
         "Features": [],
         "Href": {
-            "CH": "/gi/geo",
-            "EN": "/gi/geo",
-            "RU": "/gi/geo"
+            "CH": "/gi/teapot",
+            "EN": "/gi/teapot",
+            "RU": "/gi/teapot"
         }
     },
     {
@@ -316,6 +342,28 @@ var SR = [
     },
     {
         "Title": {
+            "CH": "任务剧情",
+            "EN": "Missions Stories"
+        },
+        "Features": [],
+        "Href": {
+            "CH": "/sr/mission",
+            "EN": "/sr/mission"
+        }
+    },
+    {
+        "Title": {
+            "CH": "活动",
+            "EN": "Events"
+        },
+        "Features": [],
+        "Href": {
+            "CH": "/sr/event",
+            "EN": "/sr/event"
+        }
+    },
+    {
+        "Title": {
             "CH": "物品",
             "EN": "Items"
         },
@@ -323,6 +371,17 @@ var SR = [
         "Href": {
             "CH": "/sr/item",
             "EN": "/sr/item"
+        }
+    },
+    {
+        "Title": {
+            "CH": "短信",
+            "EN": "Messages"
+        },
+        "Features": [],
+        "Href": {
+            "CH": "/sr/message",
+            "EN": "/sr/message"
         }
     },
     {
@@ -349,28 +408,6 @@ var SR = [
     },
     {
         "Title": {
-            "CH": "活动",
-            "EN": "Events"
-        },
-        "Features": [],
-        "Href": {
-            "CH": "/sr/event",
-            "EN": "/sr/event"
-        }
-    },
-    {
-        "Title": {
-            "CH": "留声机碟片",
-            "EN": "Phonograph Records"
-        },
-        "Features": [],
-        "Href": {
-            "CH": "/sr/rec",
-            "EN": "/sr/rec"
-        }
-    },
-    {
-        "Title": {
             "CH": "模拟宇宙 · 祝福",
             "EN": "Simulated Universe<br>Blessings"
         },
@@ -389,6 +426,17 @@ var SR = [
         "Href": {
             "CH": "/sr/curio",
             "EN": "/sr/curio"
+        }
+    },
+    {
+        "Title": {
+            "CH": "留声机碟片",
+            "EN": "Phonograph Records"
+        },
+        "Features": [],
+        "Href": {
+            "CH": "/sr/rec",
+            "EN": "/sr/rec"
         }
     },
 ]

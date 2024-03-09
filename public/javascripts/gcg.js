@@ -322,7 +322,7 @@ $(function () {
         if (show_talent) this_K = this_item_2.K.concat(this_K)
         this_K_remove_duplicate = Array.from(new Set(this_K))
         poplayer({
-            header: computer_.MiscText.Affix[lang2].substring(3),
+            header: VER_GI + computer_.MiscText.Affix[lang2],
             width: '100%',
             template: {
                 div: [
@@ -660,7 +660,7 @@ $(function () {
     function popItem_2(y) {
         this_item = _card[parseInt(I_TYPE)][y - 1]
         poplayer({
-            header: computer_.MiscText.Affix[lang2].substring(3),
+            header: VER_GI + computer_.MiscText.Affix[lang2],
             width: '100%',
             template: {
                 div: [
@@ -849,7 +849,7 @@ $(function () {
     function popItem_3(y) {
         this_item = _card[parseInt(I_TYPE)][y - 1]
         poplayer({
-            header: computer_.MiscText.Affix[lang2].substring(3),
+            header: VER_GI + computer_.MiscText.Affix[lang2],
             width: '100%',
             template: {
                 div: [

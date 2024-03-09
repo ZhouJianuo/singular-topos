@@ -5,6 +5,7 @@ $(function () {
 
     var cur_group = 0
     var cur_ver = ""
+    var showing = 0
 
     $('.tls' + lang).css("color", "#df903b");
     $('h3 .title').html(computer_.MiscText.Load_Title[lang] + "<color style='font-size: 28px;'><br><b>" + VER_GI + "</b></color>");
@@ -37,20 +38,21 @@ $(function () {
         $('container').render({
             div: [{
                 section: function (d) {
+                    var ver_dict = {}
                     _AchievementData[0].Data.Vers.forEach(function (me, ind) {
-                        $(d.container).render({
-                            schedule: me.Name,
-                            a: {
-                                'data-id': me.ID,
-                                'class': function () {
-                                    if (ind == 0) selected_ver = me.ID
-                                    return ind == 0 ? 'active' : ''
-                                }
-                            }
-                        })
+                        ver_dict[me.Name] = me.ID ? me.ID : "-"
                     })
+                    $(d.container).render({
+                        select: '',
+                        options: ver_dict,
+                        class: 'load-ver-select'
+                    })
+                    $('.load-ver-select').val("-")
                 },
                 class: 'load-ver'
+            }, {
+                p: '+',
+                class: 'showtop',
             }, {
                 section: function (d) {
                     _LoadTipGroup[0].Data.forEach(function (me, ind) {
@@ -59,7 +61,6 @@ $(function () {
                             a: {
                                 'data-id': ind == 0 ? 114514 : ind,
                                 'class': function () {
-                                    if (ind == 0) selected_ver = me.ID
                                     return ind == 0 ? 'active' : ''
                                 }
                             }
@@ -78,19 +79,27 @@ $(function () {
             class: 'content'
         })
 
+        $('.load-group').hide()
+
     }
+
+    $('body').on('click', '.showtop', function () {
+        showing = 1 - showing
+        if (showing) {
+            $('.load-group').show()
+        } else {
+            $('.load-group').hide()
+        }
+    })
 
     function c(arr1, arr2) {
         if (arr1.length && arr2.length) return arr1.some(item => arr2.includes(item))
         return true
     }
 
-    $('body').on('click', '.load-ver schedule', function () {
-        if ($(this).hasClass('active')) {
-            return
-        }
+    $('body').on('change', '.load-ver-select', function () {
         $(this).addClass('active').siblings('schedule').removeClass('active')
-        cur_ver = $(this).attr('data-id')
+        cur_ver = $(this).val().replace("-", "")
         $('.ach-table').empty().render(achTable(cur_ver, cur_group))
     });
 
