@@ -56551,6 +56551,414 @@ var _AvatarSkillPConfig = {
                         "Icon": "UI_Talent_S_Chiori_04"
                     }
                 ]
+            },
+            "4": {
+                "BattleSkills": [
+                    {
+                        "Name": "Normal Attack: Weaving Blade",
+                        "Desc": "<color style='color:#FFD780;'>Normal Attack</color><br>Performs up to 4 rapid strikes.<br><br><color style='color:#FFD780;'>Charged Attack</color><br>Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.<br><br><color style='color:#FFD780;'>Plunging Attack</color><br>Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+                        "Num": 1,
+                        "Lock": 5.0,
+                        "ParamDesc": [
+                            {
+                                "Desc": "1-Hit DMG",
+                                "ParamLevelList": [
+                                    "49.41%",
+                                    "53.432%",
+                                    "57.454%",
+                                    "63.199%",
+                                    "67.221%",
+                                    "71.817%",
+                                    "78.137%",
+                                    "84.457%",
+                                    "90.777%",
+                                    "97.672%",
+                                    "104.566%",
+                                    "111.461%",
+                                    "118.355%",
+                                    "125.25%",
+                                    "132.144%"
+                                ]
+                            },
+                            {
+                                "Desc": "2-Hit DMG",
+                                "ParamLevelList": [
+                                    "46.834%",
+                                    "50.646%",
+                                    "54.458%",
+                                    "59.904%",
+                                    "63.716%",
+                                    "68.072%",
+                                    "74.063%",
+                                    "80.053%",
+                                    "86.044%",
+                                    "92.579%",
+                                    "99.114%",
+                                    "105.649%",
+                                    "112.183%",
+                                    "118.718%",
+                                    "125.253%"
+                                ]
+                            },
+                            {
+                                "Desc": "3-Hit DMG",
+                                "ParamLevelList": [
+                                    "30.417%+30.417%",
+                                    "32.892%+32.892%",
+                                    "35.368%+35.368%",
+                                    "38.905%+38.905%",
+                                    "41.381%+41.381%",
+                                    "44.21%+44.21%",
+                                    "48.101%+48.101%",
+                                    "51.991%+51.991%",
+                                    "55.881%+55.881%",
+                                    "60.126%+60.126%",
+                                    "64.37%+64.37%",
+                                    "68.614%+68.614%",
+                                    "72.858%+72.858%",
+                                    "77.102%+77.102%",
+                                    "81.346%+81.346%"
+                                ]
+                            },
+                            {
+                                "Desc": "4-Hit DMG",
+                                "ParamLevelList": [
+                                    "75.123%",
+                                    "81.237%",
+                                    "87.352%",
+                                    "96.087%",
+                                    "102.202%",
+                                    "109.19%",
+                                    "118.799%",
+                                    "128.407%",
+                                    "138.016%",
+                                    "148.498%",
+                                    "158.981%",
+                                    "169.463%",
+                                    "179.945%",
+                                    "190.427%",
+                                    "200.91%"
+                                ]
+                            },
+                            {
+                                "Desc": "Charged Attack DMG",
+                                "ParamLevelList": [
+                                    "54.309%+54.309%",
+                                    "58.729%+58.729%",
+                                    "63.15%+63.15%",
+                                    "69.465%+69.465%",
+                                    "73.886%+73.886%",
+                                    "78.938%+78.938%",
+                                    "85.884%+85.884%",
+                                    "92.83%+92.83%",
+                                    "99.777%+99.777%",
+                                    "107.355%+107.355%",
+                                    "114.933%+114.933%",
+                                    "122.511%+122.511%",
+                                    "130.089%+130.089%",
+                                    "137.667%+137.667%",
+                                    "145.245%+145.245%"
+                                ]
+                            },
+                            {
+                                "Desc": "Charged Attack Stamina Cost",
+                                "ParamLevelList": [
+                                    "20.0",
+                                    "20.0",
+                                    "20.0",
+                                    "20.0",
+                                    "20.0",
+                                    "20.0",
+                                    "20.0",
+                                    "20.0",
+                                    "20.0",
+                                    "20.0",
+                                    "20.0",
+                                    "20.0",
+                                    "20.0",
+                                    "20.0",
+                                    "20.0"
+                                ]
+                            },
+                            {
+                                "Desc": "Plunge DMG",
+                                "ParamLevelList": [
+                                    "63.932%",
+                                    "69.136%",
+                                    "74.34%",
+                                    "81.774%",
+                                    "86.978%",
+                                    "92.925%",
+                                    "101.102%",
+                                    "109.28%",
+                                    "117.457%",
+                                    "126.378%",
+                                    "135.299%",
+                                    "144.22%",
+                                    "153.14%",
+                                    "162.061%",
+                                    "170.982%"
+                                ]
+                            },
+                            {
+                                "Desc": "Low/High Plunge DMG",
+                                "ParamLevelList": [
+                                    "127.838%/159.676%",
+                                    "138.243%/172.673%",
+                                    "148.649%/185.67%",
+                                    "163.513%/204.237%",
+                                    "173.919%/217.234%",
+                                    "185.811%/232.087%",
+                                    "202.162%/252.511%",
+                                    "218.513%/272.935%",
+                                    "234.865%/293.359%",
+                                    "252.702%/315.639%",
+                                    "270.54%/337.919%",
+                                    "288.378%/360.2%",
+                                    "306.216%/382.48%",
+                                    "324.054%/404.761%",
+                                    "341.892%/427.041%"
+                                ]
+                            }
+                        ],
+                        "Icon": "Skill_A_01"
+                    },
+                    {
+                        "Name": "Fluttering Hasode",
+                        "Desc": "Dashes nimbly forward with silken steps. Once this dash ends, Chiori will summon the automaton doll \"Sode\" beside her and sweep her blade upward, dealing <color style='color:#FFE699;'>AoE Geo DMG</color> to nearby opponents based on her ATK and DEF.<br>Holding the Skill will cause it to behave differently.<br><br><color style='color:#FFD780;'>Hold</color><br>Enter Aiming Mode to adjust the dash direction.<br><br><color style='color:#FFD780;'>Sode</color><br> ·  Will slash at nearby opponents at intervals, dealing <color style='color:#FFE699;'>AoE Geo DMG</color> based on Chiori's ATK and DEF.<br> ·  While active, if there are nearby <color style='color:#FFE699;'>Geo Construct(s)</color> or <color style='color:#FFE699;'>Geo Construct(s)</color> are created nearby, an additional Sode will be summoned next to your active character. Only 1 additional Sode can be summoned in this manner, and its duration is independently counted.<br><br><i>\"Sakura red dyes the brocade, the fragrance suffuses the sleeves, the orioles intoxicated.\"</i>",
+                        "Num": 1,
+                        "Lock": 15.0,
+                        "ParamDesc": [
+                            {
+                                "Desc": "Sode DMG",
+                                "ParamLevelList": [
+                                    "82.08% ATK+102.6% DEF",
+                                    "88.236% ATK+110.295% DEF",
+                                    "94.392% ATK+117.99% DEF",
+                                    "102.6% ATK+128.25% DEF",
+                                    "108.756% ATK+135.945% DEF",
+                                    "114.912% ATK+143.64% DEF",
+                                    "123.12% ATK+153.9% DEF",
+                                    "131.328% ATK+164.16% DEF",
+                                    "139.536% ATK+174.42% DEF",
+                                    "147.744% ATK+184.68% DEF",
+                                    "155.952% ATK+194.94% DEF",
+                                    "164.16% ATK+205.2% DEF",
+                                    "174.42% ATK+218.025% DEF",
+                                    "184.68% ATK+230.85% DEF",
+                                    "194.94% ATK+243.675% DEF"
+                                ]
+                            },
+                            {
+                                "Desc": "Sode Duration",
+                                "ParamLevelList": [
+                                    "17.0s",
+                                    "17.0s",
+                                    "17.0s",
+                                    "17.0s",
+                                    "17.0s",
+                                    "17.0s",
+                                    "17.0s",
+                                    "17.0s",
+                                    "17.0s",
+                                    "17.0s",
+                                    "17.0s",
+                                    "17.0s",
+                                    "17.0s",
+                                    "17.0s",
+                                    "17.0s"
+                                ]
+                            },
+                            {
+                                "Desc": "Sode Attack Interval",
+                                "ParamLevelList": [
+                                    "3.6s",
+                                    "3.6s",
+                                    "3.6s",
+                                    "3.6s",
+                                    "3.6s",
+                                    "3.6s",
+                                    "3.6s",
+                                    "3.6s",
+                                    "3.6s",
+                                    "3.6s",
+                                    "3.6s",
+                                    "3.6s",
+                                    "3.6s",
+                                    "3.6s",
+                                    "3.6s"
+                                ]
+                            },
+                            {
+                                "Desc": "Upward Sweep Attack DMG",
+                                "ParamLevelList": [
+                                    "149.28% ATK+186.6% DEF",
+                                    "160.476% ATK+200.595% DEF",
+                                    "171.672% ATK+214.59% DEF",
+                                    "186.6% ATK+233.25% DEF",
+                                    "197.796% ATK+247.245% DEF",
+                                    "208.992% ATK+261.24% DEF",
+                                    "223.92% ATK+279.9% DEF",
+                                    "238.848% ATK+298.56% DEF",
+                                    "253.776% ATK+317.22% DEF",
+                                    "268.704% ATK+335.88% DEF",
+                                    "283.632% ATK+354.54% DEF",
+                                    "298.56% ATK+373.2% DEF",
+                                    "317.22% ATK+396.525% DEF",
+                                    "335.88% ATK+419.85% DEF",
+                                    "354.54% ATK+443.175% DEF"
+                                ]
+                            },
+                            {
+                                "Desc": "CD",
+                                "ParamLevelList": [
+                                    "16.0s",
+                                    "16.0s",
+                                    "16.0s",
+                                    "16.0s",
+                                    "16.0s",
+                                    "16.0s",
+                                    "16.0s",
+                                    "16.0s",
+                                    "16.0s",
+                                    "16.0s",
+                                    "16.0s",
+                                    "16.0s",
+                                    "16.0s",
+                                    "16.0s",
+                                    "16.0s"
+                                ]
+                            }
+                        ],
+                        "Icon": "Skill_S_Chiori_01",
+                        "Icon2": "Skill_S_Chiori_02",
+                        "Icon3": "Skill_S_Chiori_03"
+                    },
+                    {
+                        "Name": "Hiyoku: Twin Blades",
+                        "Desc": "Twin blades leave their sheaths as Chiori slices with the clean cuts of a master tailor, dealing <color style='color:#FFE699;'>AoE Geo DMG</color> based on her ATK and DEF.<br><br><i>\"Master one principle, and the path to all others shall open to you.\"</i>",
+                        "Num": 1,
+                        "Lock": 15.0,
+                        "ParamDesc": [
+                            {
+                                "Desc": "Skill DMG",
+                                "ParamLevelList": [
+                                    "256.32% ATK+320.4% DEF",
+                                    "275.544% ATK+344.43% DEF",
+                                    "294.768% ATK+368.46% DEF",
+                                    "320.4% ATK+400.5% DEF",
+                                    "339.624% ATK+424.53% DEF",
+                                    "358.848% ATK+448.56% DEF",
+                                    "384.48% ATK+480.6% DEF",
+                                    "410.112% ATK+512.64% DEF",
+                                    "435.744% ATK+544.68% DEF",
+                                    "461.376% ATK+576.72% DEF",
+                                    "487.008% ATK+608.76% DEF",
+                                    "512.64% ATK+640.8% DEF",
+                                    "544.68% ATK+680.85% DEF",
+                                    "576.72% ATK+720.9% DEF",
+                                    "608.76% ATK+760.95% DEF"
+                                ]
+                            },
+                            {
+                                "Desc": "CD",
+                                "ParamLevelList": [
+                                    "13.5s",
+                                    "13.5s",
+                                    "13.5s",
+                                    "13.5s",
+                                    "13.5s",
+                                    "13.5s",
+                                    "13.5s",
+                                    "13.5s",
+                                    "13.5s",
+                                    "13.5s",
+                                    "13.5s",
+                                    "13.5s",
+                                    "13.5s",
+                                    "13.5s",
+                                    "13.5s"
+                                ]
+                            },
+                            {
+                                "Desc": "Energy Cost",
+                                "ParamLevelList": [
+                                    "50.0",
+                                    "50.0",
+                                    "50.0",
+                                    "50.0",
+                                    "50.0",
+                                    "50.0",
+                                    "50.0",
+                                    "50.0",
+                                    "50.0",
+                                    "50.0",
+                                    "50.0",
+                                    "50.0",
+                                    "50.0",
+                                    "50.0",
+                                    "50.0"
+                                ]
+                            }
+                        ],
+                        "Icon": "Skill_E_Chiori_01"
+                    }
+                ],
+                "PassiveSkills": [
+                    {
+                        "Name": "Tailor-Made",
+                        "Desc": "Gain different effects depending on the next action you take within 1s after using <color style='color:#FFD780;'>Fluttering Hasode</color>'s upward sweep, during which Chiori is uninterruptible. If you Press the Elemental Skill, you will trigger the Tapestry effect. If you Press your Normal Attack, the Tailoring effect will be triggered instead.<br><br><color style='color:#FFD780;'>Tapestry</color><br> ·  Switches to the next character in your roster.<br> ·  Grants all your party members \"Seize the Moment\": When your active party member's Normal Attacks, Charged Attacks, and Plunging Attacks hit an opponent, \"Sode\" will execute a coordinated attack, dealing 100% of Fluttering Hasode's upward sweep DMG as <color style='color:#FFE699;'>AoE Geo DMG</color> at the opponent's location. DMG dealt this way is considered Elemental Skill DMG.<br> ·  \"Seize the Moment\" lasts 8s, and 1 of \"Sode\"'s coordinated attack can be unleashed every 2s. 2 such coordinated attacks can occur per \"Seize the Moment\" effect duration.<br><br><color style='color:#FFD780;'>Tailoring</color><br> ·  Chiori gains <color style='color:#FFE699;'>Geo infusion</color> for 5s.<br><br>When on the field, if Chiori does not either Press her Elemental Skill or use a Normal Attack within a short time after using Fluttering Hasode's upward sweep, the Tailoring effect will be triggered by default.",
+                        "Icon": "UI_Talent_S_Chiori_05"
+                    },
+                    {
+                        "Name": "The Finishing Touch",
+                        "Desc": "When a nearby party member creates a <color style='color:#FFE699;'>Geo Construct</color>, Chiori will gain 20% <color style='color:#FFE699;'>Geo DMG Bonus</color> for 20s.",
+                        "Icon": "UI_Talent_S_Chiori_06"
+                    },
+                    {
+                        "Name": "Brocaded Collar's Beauteous Silhouette",
+                        "Desc": "When any party member is wearing an outfit apart from their default outfit, or is wearing a wind glider other than the Wings of First Flight, your party members will obtain the Swift Stride effect: Movement SPD is increased by 10%.<br>This effect does not take effect in Domains, Trounce Domains, and the Spiral Abyss. Swift Stride does not stack.",
+                        "Icon": "UI_Talent_S_Chiori_07"
+                    }
+                ],
+                "Constellations": [
+                    {
+                        "Level": 1,
+                        "Name": "Six Paths of Sage Silkcraft",
+                        "Desc": "The AoE of the automaton doll \"Sode\" summoned by <color style='color:#FFD780;'>Fluttering Hasode</color> is increased by 50%.<br>Additionally, if there is a <color style='color:#FFE699;'>Geo</color> party member other than Chiori, Fluttering Hasode will trigger the following after the dash is completed:<br> ·  Summon an additional Sode. Only one additional Sode can exist at the same time, whether summoned by Chiori this way or through the presence of a Geo Construct.<br> ·  Triggers the Passive Talent \"The Finishing Touch.\" This effect requires you to first unlock the Passive Talent \"The Finishing Touch.\"",
+                        "Icon": "UI_Talent_S_Chiori_01"
+                    },
+                    {
+                        "Level": 2,
+                        "Name": "In Five Colors Dyed",
+                        "Desc": "For 10s after using <color style='color:#FFD780;'>Hiyoku: Twin Blades</color>, a simplified automaton doll, \"Kinu,\" will be summoned next to your active character every 3s. Kinu will attack nearby opponents, dealing <color style='color:#FFE699;'>AoE Geo DMG</color> equivalent to 170% of Sode's DMG. DMG dealt this way is considered Elemental Skill DMG.<br>Kinu will leave the field after 1 attack or after lasting 3s.",
+                        "Icon": "UI_Talent_S_Chiori_03"
+                    },
+                    {
+                        "Level": 3,
+                        "Name": "Four Brocade Embellishments",
+                        "Desc": "Increases the Level of <color style='color:#FFD780;'>Fluttering Hasode</color> by 3.<br>Maximum upgrade level is 15.",
+                        "Icon": "UI_Talent_U_Chiori_01"
+                    },
+                    {
+                        "Level": 4,
+                        "Name": "A Tailor's Three Courtesies",
+                        "Desc": "For 8s after triggering either follow-up effect of the Passive Talent \"Tailor-Made,\" when your current active character's Normal, Charged, or Plunging Attacks hit a nearby opponent, a simplified automaton doll, \"Kinu,\" will be summoned near this opponent. You can summon 1 Kinu every 1s in this way, and up to 3 Kinu may be summoned this way during each instance of \"Tailor-Made\"'s Seize the Moment or Tailoring effect. The above effect can be triggered up to once every 15s.<br>Must unlock the Passive Talent \"Tailor-Made\" first.",
+                        "Icon": "UI_Talent_S_Chiori_02"
+                    },
+                    {
+                        "Level": 5,
+                        "Name": "Two Silken Plumules",
+                        "Desc": "Increases the Level of <color style='color:#FFD780;'>Hiyoku: Twin Blades</color> by 3.<br>Maximum upgrade level is 15.",
+                        "Icon": "UI_Talent_U_Chiori_02"
+                    },
+                    {
+                        "Level": 6,
+                        "Name": "Sole Principle Pursuit",
+                        "Desc": "After triggering a follow-up effect of the Passive Talent \"Tailor-Made,\" Chiori's own <color style='color:#FFD780;'>Fluttering Hasode</color>'s CD is decreased by 12s. Must unlock the Passive \"Tailor-Made\" first.<br>In addition, the DMG dealt by Chiori's own Normal Attacks is increased by an amount equal to 235% of her own DEF.",
+                        "Icon": "UI_Talent_S_Chiori_04"
+                    }
+                ]
             }
         }
     }

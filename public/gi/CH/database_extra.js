@@ -25092,8 +25092,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     5002
                                 ],
                                 "Note": {
-                                    "Text": "防护强化",
-                                    "Pop": 5002
+                                    "Text": "防护强化"
                                 }
                             },
                             {
@@ -25103,8 +25102,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     5002
                                 ],
                                 "Note": {
-                                    "Text": "防护强化",
-                                    "Pop": 5002
+                                    "Text": "防护强化"
                                 }
                             }
                         ]
@@ -25134,8 +25132,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                 ],
                                 "Note": {
                                     "Text": "水泡",
-                                    "Color": "Water",
-                                    "Pop": 6106
+                                    "Color": "Water"
                                 }
                             },
                             {
@@ -25146,8 +25143,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                 ],
                                 "Note": {
                                     "Text": "迟滞之水",
-                                    "Color": "Water",
-                                    "Pop": 1026
+                                    "Color": "Water"
                                 }
                             }
                         ]
@@ -25221,8 +25217,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                 ],
                                 "Note": {
                                     "Text": "水泡",
-                                    "Color": "Water",
-                                    "Pop": 6106
+                                    "Color": "Water"
                                 }
                             },
                             {
@@ -25233,8 +25228,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                 ],
                                 "Note": {
                                     "Text": "冰牢",
-                                    "Color": "Ice",
-                                    "Pop": 6101
+                                    "Color": "Ice"
                                 }
                             },
                             {
@@ -25245,8 +25239,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                 ],
                                 "Note": {
                                     "Text": "雷光矩阵",
-                                    "Color": "Elec",
-                                    "Pop": 6104
+                                    "Color": "Elec"
                                 }
                             }
                         ]
@@ -25263,8 +25256,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     5427
                                 ],
                                 "Note": {
-                                    "Text": "深渊特化",
-                                    "Pop": 5427
+                                    "Text": "深渊特化"
                                 }
                             }
                         ]
@@ -25314,8 +25306,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     61801
                                 ],
                                 "Note": {
-                                    "Text": "深渊特化",
-                                    "Pop": 61801
+                                    "Text": "深渊特化"
                                 }
                             }
                         ]
@@ -25332,8 +25323,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     4190
                                 ],
                                 "Note": {
-                                    "Text": "深渊特化",
-                                    "Pop": 4190
+                                    "Text": "深渊特化"
                                 }
                             }
                         ]
@@ -25402,8 +25392,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     5427
                                 ],
                                 "Note": {
-                                    "Text": "深渊特化",
-                                    "Pop": 5427
+                                    "Text": "深渊特化"
                                 },
                                 "HPOverride": 11.62
                             }
@@ -25422,8 +25411,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                 ],
                                 "Note": {
                                     "Text": "迟滞之水",
-                                    "Color": "Water",
-                                    "Pop": 1026
+                                    "Color": "Water"
                                 },
                                 "HPOverride": 4.2
                             },
@@ -25455,8 +25443,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     4190
                                 ],
                                 "Note": {
-                                    "Text": "深渊特化",
-                                    "Pop": 4190
+                                    "Text": "深渊特化"
                                 }
                             }
                         ]
@@ -25510,8 +25497,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                 ],
                                 "Note": {
                                     "Text": "迟滞之水<br><color style='color:#808080;'>防护强化</color>",
-                                    "Color": "Water",
-                                    "Pop": 1026
+                                    "Color": "Water"
                                 },
                                 "HPOverride": 2.8
                             },
@@ -25559,8 +25545,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     4181
                                 ],
                                 "Note": {
-                                    "Text": "初始飞天",
-                                    "Pop": 4181
+                                    "Text": "初始飞天"
                                 },
                                 "HPOverride": 11.9
                             }
@@ -25615,8 +25600,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     4185
                                 ],
                                 "Note": {
-                                    "Text": "深渊沙虫",
-                                    "Pop": 4185
+                                    "Text": "深渊沙虫"
                                 },
                                 "HPOverride": 9.8
                             }
@@ -25706,8 +25690,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     43001
                                 ],
                                 "Note": {
-                                    "Text": "深渊特化<br><color style='color:#FFCC00;'>减伤</color>",
-                                    "Pop": 43001
+                                    "Text": "深渊特化<br><color style='color:#FFCC00;'>减伤</color>"
                                 }
                             }
                         ]
@@ -25745,8 +25728,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     4190
                                 ],
                                 "Note": {
-                                    "Text": "深渊特化",
-                                    "Pop": 4190
+                                    "Text": "深渊特化"
                                 }
                             }
                         ]
@@ -25800,8 +25782,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                 ],
                                 "HPOverride": 9,
                                 "Note": {
-                                    "Text": "同生共死<br><color style='color:#FFCC00;'>减伤</color>",
-                                    "Pop": 43001
+                                    "Text": "同生共死<br><color style='color:#FFCC00;'>减伤</color>"
                                 }
                             },
                             {
@@ -25813,8 +25794,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                 ],
                                 "HPOverride": 9,
                                 "Note": {
-                                    "Text": "同生共死<br><color style='color:#FFCC00;'>减伤</color>",
-                                    "Pop": 43001
+                                    "Text": "同生共死<br><color style='color:#FFCC00;'>减伤</color>"
                                 }
                             }
                         ]
@@ -25827,8 +25807,7 @@ var _SpiralAbyssFloorConfig_2 = {
                             {
                                 "ID": 21001,
                                 "Note": {
-                                    "Text": "<color style='color:#FF0000;'>火</color> <color style='color:#00B0F0;'>冰</color> <color style='color:#7030A0;'>雷</color><br>深渊特化",
-                                    "Pop": 5282
+                                    "Text": "<color style='color:#FF0000;'>火</color> <color style='color:#00B0F0;'>冰</color> <color style='color:#7030A0;'>雷</color><br>深渊特化"
                                 },
                                 "Num": 1,
                                 "Affix": [
@@ -25880,9 +25859,12 @@ var _SpiralAbyssFloorConfig_2 = {
                                 "Num": 1,
                                 "Name": "霜剑律从 · 安娜",
                                 "HPOverride": 9.9,
+                                "Affix": [
+                                    43002,
+                                    43001
+                                ],
                                 "Note": {
-                                    "Text": "地方传奇<br>同生共死<br><color style='color:#FFCC00;'>减伤</color>",
-                                    "Pop": 43001
+                                    "Text": "地方传奇<br>同生共死<br><color style='color:#FFCC00;'>减伤</color>"
                                 }
                             },
                             {
@@ -25890,9 +25872,12 @@ var _SpiralAbyssFloorConfig_2 = {
                                 "Num": 1,
                                 "Name": "幽风铃兰 · 齐万卡",
                                 "HPOverride": 9.39,
+                                "Affix": [
+                                    43002,
+                                    43001
+                                ],
                                 "Note": {
-                                    "Text": "地方传奇<br>同生共死<br><color style='color:#FFCC00;'>减伤</color>",
-                                    "Pop": 43001
+                                    "Text": "地方传奇<br>同生共死<br><color style='color:#FFCC00;'>减伤</color>"
                                 }
                             }
                         ]

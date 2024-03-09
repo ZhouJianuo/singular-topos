@@ -35,15 +35,16 @@ $(function () {
     document.head.append(script_computer)
     script_computer.onload = begin1
 
-    let script_computer_2 = document.createElement('script')
-    script_computer_2.src = '/gi/' + lang2 + '/database_extra.js'
-    document.head.append(script_computer_2)
-    script_computer_2.onload = function () {
-        _SpiralAbyssFloorConfig = {..._SpiralAbyssFloorConfig, ..._SpiralAbyssFloorConfig_2}
-        did_2_load = 1
-    }
-
     function begin1() {
+
+        let script_computer_2 = document.createElement('script')
+        script_computer_2.src = '/gi/' + lang2 + '/database_extra.js'
+        document.head.append(script_computer_2)
+        script_computer_2.onload = function () {
+            _SpiralAbyssFloorConfig = {..._SpiralAbyssFloorConfig, ..._SpiralAbyssFloorConfig_2}
+            did_2_load = 1
+        }
+
         DPSDict = dpsdict(_SpiralAbyssDPSData)
         currentSpiralAbyss = _SpiralAbyssSchedule[0].Name;
         var non_break = 1;
@@ -1643,18 +1644,7 @@ $(function () {
             moster: {
                 div: [
                     {
-                        a: function (d) {
-                            var monsterId = d.data.ID;
-                            var interval = $(d.container).parents('.up_low').siblings('h6').attr('data-name')
-                            return '/gi/monster?lang=' + (lang2) + '&id=' + monsterId + '&level=' + interval
-                        },
-                        attr: {
-                            target: '_blank',
-                            class: function (d) {
-                                return 'monster_card'
-                            }
-                        },
-                        t: function (m) {
+                        div: function (m) {
                             var monster = _Monsters[m.data.ID];
                             var num = m.data.Num;
                             var mask = m.data.Mark || false;
@@ -1664,6 +1654,9 @@ $(function () {
                             var nameOverride = m.data.Name || false;
                             var choose_icon = monster.Icon[Math.floor(Math.random() * monster.Icon.length)]
                             if (!monster) return;
+                            var interval = $(m.container).parents('.up_low').siblings('h6').attr('data-name')
+                            var this_link = '/gi/monster?lang=' + (lang2) + '&id=' + m.data.ID + '&level=' + interval
+                            var affix_ids = m.data.Affix ? JSON.stringify(m.data.Affix) : '[]'
                             $(m.container).render([
                                 {
                                     div: [
@@ -1682,7 +1675,10 @@ $(function () {
                                             when: num,
                                         }
                                     ],
-                                    class: 'monicon_container'
+                                    class: 'monicon_container',
+                                    a: {
+                                        'data-link': this_link
+                                    }
                                 },
                                 {
                                     div: [
@@ -1700,7 +1696,10 @@ $(function () {
                                             }
                                         },
                                     ],
-                                    class: 'monbelow'
+                                    class: 'monbelow',
+                                    a: {
+                                        'data-link': this_link
+                                    }
                                 },
                                 {
                                     div: {
@@ -1719,10 +1718,14 @@ $(function () {
                                         },
                                     },
                                     class: 'monnote',
-                                    when: (m.data.Note != undefined)
+                                    when: (m.data.Note != undefined),
+                                    a: {
+                                        'data-id': affix_ids
+                                    }
                                 }
                             ])
                         },
+                        class: 'monster_card',
                     },
                     {
                         div: {
@@ -1870,5 +1873,31 @@ $(function () {
         $('.p_b').addClass('p_b_')
         $('h3 .tlsub').html(computer_.MiscText.Translate_Abyss2[lang2])
     }
+
+    $('body').on('click', '.monicon_container, .monbelow', function () {
+        window.open($(this).attr('data-link'))
+    })
+
+    $('body').on('click', '.monnote', function () {
+        var affix_id = $(this).attr('data-id')
+        if (!affix_id) return
+        var affix_id_list = JSON.parse(affix_id)
+        poplayer({
+            header: computer_.MiscText.Abyss_Show[lang],
+            width: '50%',
+            height: '400px',
+            template: {
+                div: function (l) {
+                    for (var ii = affix_id_list.length - 1; ii >= 0; ii--) {
+                        var affix_data = _SpiralAbyssAffixDescConfig[affix_id_list[ii]]
+                        $(l.container).render({
+                            p: '<b>' + affix_data.Show.Text + '</b><br><span style=\'font-size:0.85em;margin:0;\'>' + affix_data.Hover + '</span><br><br>'
+                        })
+                    }
+                },
+            },
+            class: 'need_header'
+        })
+    })
 
 })

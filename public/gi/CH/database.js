@@ -16013,7 +16013,7 @@ var _Monsters = {
             "Drop": "1113"
         },
         "Icon": [
-            "rbv"
+            "cd"
         ],
         "Grade": 3,
         "Weight": 250,
@@ -16047,7 +16047,7 @@ var _Monsters = {
             "Drop": "1113"
         },
         "Icon": [
-            "bbv"
+            "cd"
         ],
         "Grade": 3,
         "Weight": 250,
@@ -25511,13 +25511,12 @@ var _SpiralAbyssFloorConfig = {
                                 "ID": 20101,
                                 "Num": 1,
                                 "Affix": [
-                                    5001,
+                                    5002,
                                     1028
                                 ],
                                 "Note": {
                                     "Text": "阴燃之火<br><color style='color:#808080;'>防护强化</color>",
-                                    "Color": "Fire",
-                                    "Pop": 1028
+                                    "Color": "Fire"
                                 },
                                 "Pos": [
                                     [
@@ -25533,8 +25532,7 @@ var _SpiralAbyssFloorConfig = {
                                     4190
                                 ],
                                 "Note": {
-                                    "Text": "深渊特化",
-                                    "Pop": 4190
+                                    "Text": "深渊特化"
                                 },
                                 "Pos": [
                                     [
@@ -25715,8 +25713,7 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Note": {
                                     "Text": "翻涌岩潮",
-                                    "Color": "Rock",
-                                    "Pop": 6103
+                                    "Color": "Rock"
                                 },
                                 "Pos": [
                                     [
@@ -25743,8 +25740,7 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Note": {
                                     "Text": "阴燃之火",
-                                    "Color": "Fire",
-                                    "Pop": 1028
+                                    "Color": "Fire"
                                 },
                                 "Pos": [
                                     [
@@ -25825,8 +25821,7 @@ var _SpiralAbyssFloorConfig = {
                                     40701
                                 ],
                                 "Note": {
-                                    "Text": "深渊特化",
-                                    "Pop": 40701
+                                    "Text": "深渊特化"
                                 },
                                 "Pos": [
                                     [

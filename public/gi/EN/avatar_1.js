@@ -18230,6 +18230,11 @@ var _WeaponAffixPConfig = {
                 "Affix": [
                     "Normal Attack DMG is increased by <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  and Elemental Skill DMG is increased by <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> . After a nearby active character deals Geo DMG, the aforementioned effects increase by 100% for 15s. Additionally, the wielder's DEF is increased by <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> ."
                 ]
+            },
+            "4": {
+                "Affix": [
+                    "Normal Attack DMG is increased by <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  and Elemental Skill DMG is increased by <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> . After a nearby active character deals Geo DMG, the aforementioned effects increase by 100% for 15s. Additionally, the wielder's DEF is increased by <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> ."
+                ]
             }
         }
     },
@@ -18402,6 +18407,11 @@ var _WeaponAffixPConfig = {
                 ]
             },
             "3": {
+                "Affix": [
+                    "When the wielder performs healing, restore <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>16</color>  Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field."
+                ]
+            },
+            "4": {
                 "Affix": [
                     "When the wielder performs healing, restore <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>16</color>  Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field."
                 ]

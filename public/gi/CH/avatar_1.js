@@ -18230,6 +18230,11 @@ var _WeaponAffixPConfig = {
                 "Affix": [
                     "普通攻击造成的伤害提升 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> ，元素战技造成的伤害提升 <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> ；队伍中附近的角色在场上造成岩元素伤害后，上述效果进一步提升100%，持续15秒。此外，装备者的防御力提升 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。"
                 ]
+            },
+            "4": {
+                "Affix": [
+                    "普通攻击造成的伤害提升 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> ，元素战技造成的伤害提升 <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> ；队伍中附近的角色在场上造成岩元素伤害后，上述效果进一步提升100%，持续15秒。此外，装备者的防御力提升 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。"
+                ]
             }
         }
     },
@@ -18402,6 +18407,11 @@ var _WeaponAffixPConfig = {
                 ]
             },
             "3": {
+                "Affix": [
+                    "进行治疗时，恢复 <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>16</color> 点能量，该效果每10秒至多触发一次，角色处于队伍后台时也能触发。"
+                ]
+            },
+            "4": {
                 "Affix": [
                     "进行治疗时，恢复 <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>16</color> 点能量，该效果每10秒至多触发一次，角色处于队伍后台时也能触发。"
                 ]

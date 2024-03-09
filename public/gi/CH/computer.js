@@ -14181,7 +14181,7 @@ var _Monsters = {
             "Drop": "1113"
         },
         "Icon": [
-            "rbv"
+            "cd"
         ],
         "Grade": 3,
         "Weight": 250,
@@ -14215,7 +14215,7 @@ var _Monsters = {
             "Drop": "1113"
         },
         "Icon": [
-            "bbv"
+            "cd"
         ],
         "Grade": 3,
         "Weight": 250,

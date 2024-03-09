@@ -25092,8 +25092,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     5002
                                 ],
                                 "Note": {
-                                    "Text": "Defense<br>Enhance",
-                                    "Pop": 5002
+                                    "Text": "Defense<br>Enhance"
                                 }
                             },
                             {
@@ -25103,8 +25102,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     5002
                                 ],
                                 "Note": {
-                                    "Text": "Defense<br>Enhance",
-                                    "Pop": 5002
+                                    "Text": "Defense<br>Enhance"
                                 }
                             }
                         ]
@@ -25134,8 +25132,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                 ],
                                 "Note": {
                                     "Text": "Mist<br>Bubbles",
-                                    "Color": "Water",
-                                    "Pop": 6106
+                                    "Color": "Water"
                                 }
                             },
                             {
@@ -25146,8 +25143,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                 ],
                                 "Note": {
                                     "Text": "Slowing<br>Water",
-                                    "Color": "Water",
-                                    "Pop": 1026
+                                    "Color": "Water"
                                 }
                             }
                         ]
@@ -25221,8 +25217,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                 ],
                                 "Note": {
                                     "Text": "Mist<br>Bubbles",
-                                    "Color": "Water",
-                                    "Pop": 6106
+                                    "Color": "Water"
                                 }
                             },
                             {
@@ -25233,8 +25228,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                 ],
                                 "Note": {
                                     "Text": "Ice Cage",
-                                    "Color": "Ice",
-                                    "Pop": 6101
+                                    "Color": "Ice"
                                 }
                             },
                             {
@@ -25245,8 +25239,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                 ],
                                 "Note": {
                                     "Text": "Lightning<br>Matrix",
-                                    "Color": "Elec",
-                                    "Pop": 6104
+                                    "Color": "Elec"
                                 }
                             }
                         ]
@@ -25263,8 +25256,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     5427
                                 ],
                                 "Note": {
-                                    "Text": "Abyss Version",
-                                    "Pop": 5427
+                                    "Text": "Abyss Version"
                                 }
                             }
                         ]
@@ -25314,8 +25306,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     61801
                                 ],
                                 "Note": {
-                                    "Text": "Abyss Version",
-                                    "Pop": 61801
+                                    "Text": "Abyss Version"
                                 }
                             }
                         ]
@@ -25332,8 +25323,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     4190
                                 ],
                                 "Note": {
-                                    "Text": "Abyss Version",
-                                    "Pop": 4190
+                                    "Text": "Abyss Version"
                                 }
                             }
                         ]
@@ -25402,8 +25392,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     5427
                                 ],
                                 "Note": {
-                                    "Text": "Abyss Version",
-                                    "Pop": 5427
+                                    "Text": "Abyss Version"
                                 },
                                 "HPOverride": 11.62
                             }
@@ -25422,8 +25411,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                 ],
                                 "Note": {
                                     "Text": "Slowing<br>Water",
-                                    "Color": "Water",
-                                    "Pop": 1026
+                                    "Color": "Water"
                                 },
                                 "HPOverride": 4.2
                             },
@@ -25455,8 +25443,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     4190
                                 ],
                                 "Note": {
-                                    "Text": "Abyss Version",
-                                    "Pop": 4190
+                                    "Text": "Abyss Version"
                                 }
                             }
                         ]
@@ -25510,8 +25497,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                 ],
                                 "Note": {
                                     "Text": "Slowing Water<br><color style='color:#808080;'>Defense Enhance</color>",
-                                    "Color": "Water",
-                                    "Pop": 1026
+                                    "Color": "Water"
                                 },
                                 "HPOverride": 2.8
                             },
@@ -25559,8 +25545,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     4181
                                 ],
                                 "Note": {
-                                    "Text": "Abyss Version",
-                                    "Pop": 4181
+                                    "Text": "Abyss Version"
                                 },
                                 "HPOverride": 11.9
                             }
@@ -25615,8 +25600,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     4185
                                 ],
                                 "Note": {
-                                    "Text": "Abyss Version",
-                                    "Pop": 4185
+                                    "Text": "Abyss Version"
                                 },
                                 "HPOverride": 9.8
                             }
@@ -25706,8 +25690,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     43001
                                 ],
                                 "Note": {
-                                    "Text": "Abyss Version<br><color style='color:#FFCC00;'>DMG Reduction</color>",
-                                    "Pop": 43001
+                                    "Text": "Abyss Version<br><color style='color:#FFCC00;'>DMG Reduction</color>"
                                 }
                             }
                         ]
@@ -25745,8 +25728,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                     4190
                                 ],
                                 "Note": {
-                                    "Text": "Abyss Version",
-                                    "Pop": 4190
+                                    "Text": "Abyss Version"
                                 }
                             }
                         ]
@@ -25800,8 +25782,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                 ],
                                 "HPOverride": 9,
                                 "Note": {
-                                    "Text": "Entwined<br><color style='color:#FFCC00;'>DMG Reduction</color>",
-                                    "Pop": 43001
+                                    "Text": "Entwined<br><color style='color:#FFCC00;'>DMG Reduction</color>"
                                 }
                             },
                             {
@@ -25813,8 +25794,7 @@ var _SpiralAbyssFloorConfig_2 = {
                                 ],
                                 "HPOverride": 9,
                                 "Note": {
-                                    "Text": "Entwined<br><color style='color:#FFCC00;'>DMG Reduction</color>",
-                                    "Pop": 43001
+                                    "Text": "Entwined<br><color style='color:#FFCC00;'>DMG Reduction</color>"
                                 }
                             }
                         ]
@@ -25827,8 +25807,7 @@ var _SpiralAbyssFloorConfig_2 = {
                             {
                                 "ID": 21001,
                                 "Note": {
-                                    "Text": "<color style='color:#FF0000;'>Pyro</color> <color style='color:#00B0F0;'>Cryo</color> <color style='color:#7030A0;'>Electro</color><br>Abyss Version",
-                                    "Pop": 5282
+                                    "Text": "<color style='color:#FF0000;'>Pyro</color> <color style='color:#00B0F0;'>Cryo</color> <color style='color:#7030A0;'>Electro</color><br>Abyss Version"
                                 },
                                 "Num": 1,
                                 "Affix": [
@@ -25880,9 +25859,12 @@ var _SpiralAbyssFloorConfig_2 = {
                                 "Num": 1,
                                 "Name": "Rimesword Servant: Anna",
                                 "HPOverride": 9.9,
+                                "Affix": [
+                                    43002,
+                                    43001
+                                ],
                                 "Note": {
-                                    "Text": "Local Legend<br>Entwined<br><color style='color:#FFCC00;'>DMG Reduction</color>",
-                                    "Pop": 43001
+                                    "Text": "Local Legend<br>Entwined<br><color style='color:#FFCC00;'>DMG Reduction</color>"
                                 }
                             },
                             {
@@ -25890,9 +25872,12 @@ var _SpiralAbyssFloorConfig_2 = {
                                 "Num": 1,
                                 "Name": "Gale-Lily Servant: Zivanka",
                                 "HPOverride": 9.39,
+                                "Affix": [
+                                    43002,
+                                    43001
+                                ],
                                 "Note": {
-                                    "Text": "Local Legend<br>Entwined<br><color style='color:#FFCC00;'>DMG Reduction</color>",
-                                    "Pop": 43001
+                                    "Text": "Local Legend<br>Entwined<br><color style='color:#FFCC00;'>DMG Reduction</color>"
                                 }
                             }
                         ]

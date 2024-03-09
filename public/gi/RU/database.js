@@ -16013,7 +16013,7 @@ var _Monsters = {
             "Drop": "1113"
         },
         "Icon": [
-            "rbv"
+            "cd"
         ],
         "Grade": 3,
         "Weight": 250,
@@ -16047,7 +16047,7 @@ var _Monsters = {
             "Drop": "1113"
         },
         "Icon": [
-            "bbv"
+            "cd"
         ],
         "Grade": 3,
         "Weight": 250,
@@ -25511,13 +25511,12 @@ var _SpiralAbyssFloorConfig = {
                                 "ID": 20101,
                                 "Num": 1,
                                 "Affix": [
-                                    5001,
+                                    5002,
                                     1028
                                 ],
                                 "Note": {
                                     "Text": "Smoldering Flames<br><color style='color:#808080;'>Defense Enhance</color>",
-                                    "Color": "Fire",
-                                    "Pop": 1028
+                                    "Color": "Fire"
                                 },
                                 "Pos": [
                                     [
@@ -25533,8 +25532,7 @@ var _SpiralAbyssFloorConfig = {
                                     4190
                                 ],
                                 "Note": {
-                                    "Text": "Abyss Version",
-                                    "Pop": 4190
+                                    "Text": "Abyss Version"
                                 },
                                 "Pos": [
                                     [
@@ -25715,8 +25713,7 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Note": {
                                     "Text": "Rumbling<br>Stone",
-                                    "Color": "Rock",
-                                    "Pop": 6103
+                                    "Color": "Rock"
                                 },
                                 "Pos": [
                                     [
@@ -25743,8 +25740,7 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Note": {
                                     "Text": "Smoldering<br>Flames",
-                                    "Color": "Fire",
-                                    "Pop": 1028
+                                    "Color": "Fire"
                                 },
                                 "Pos": [
                                     [
@@ -25825,8 +25821,7 @@ var _SpiralAbyssFloorConfig = {
                                     40701
                                 ],
                                 "Note": {
-                                    "Text": "Abyss Version",
-                                    "Pop": 40701
+                                    "Text": "Abyss Version"
                                 },
                                 "Pos": [
                                     [

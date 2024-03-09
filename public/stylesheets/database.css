@@ -601,11 +601,10 @@ i.affix_hover {
 }
 
 .monnote {
-    padding: 5px;
     font-weight: bold;
     font-size: 13px;
     text-align: center;
-    line-height: 18px;
+    line-height: 1.5;
 }
 
 section>span,
@@ -698,7 +697,6 @@ section>schedule,
     
     .monnote {
         font-size: 14px;
-        line-height: 19px;
     }
 
     .a_floor h6 {
@@ -765,7 +763,6 @@ section>schedule,
 
     .monnote {
         font-size: 15px;
-        line-height: 20px;
     }
 
     .a_floor>ul {
