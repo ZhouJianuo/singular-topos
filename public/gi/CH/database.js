@@ -16013,7 +16013,7 @@ var _Monsters = {
             "Drop": "1113"
         },
         "Icon": [
-            "cd"
+            "rbv"
         ],
         "Grade": 3,
         "Weight": 250,
@@ -16047,7 +16047,7 @@ var _Monsters = {
             "Drop": "1113"
         },
         "Icon": [
-            "cd"
+            "bbv"
         ],
         "Grade": 3,
         "Weight": 250,
@@ -51553,7 +51553,7 @@ var _SpiralAbyssFloorConfig = {
                     ]
                 },
                 "DPS": {
-                    "7": 5247010
+                    "7": 4065865
                 },
                 "Upper": [
                     {
@@ -51646,7 +51646,7 @@ var _SpiralAbyssFloorConfig = {
                     ]
                 },
                 "DPS": {
-                    "7": 5193046
+                    "7": 3605041
                 },
                 "Upper": [
                     {
@@ -51661,7 +51661,7 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "HPOverride": 9,
                                 "Note": {
-                                    "Text": "同生共死<br>减伤",
+                                    "Text": "同生共死<br><color style='color:#FFCC00;'>减伤</color>",
                                     "Pop": 43001
                                 }
                             },
@@ -51674,24 +51674,9 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "HPOverride": 9,
                                 "Note": {
-                                    "Text": "同生共死<br>减伤",
+                                    "Text": "同生共死<br><color style='color:#FFCC00;'>减伤</color>",
                                     "Pop": 43001
                                 }
-                            }
-                        ]
-                    },
-                    {
-                        "WaveDesc": 2,
-                        "Monsters": [
-                            {
-                                "ID": 20302,
-                                "Num": 1,
-                                "HPOverride": 11.2
-                            },
-                            {
-                                "ID": 20201,
-                                "Num": 2,
-                                "HPOverride": 11.2
                             }
                         ]
                     }
@@ -51745,12 +51730,8 @@ var _SpiralAbyssFloorConfig = {
                     ]
                 },
                 "DPS": {
-                    "7": 4699181
+                    "7": 3882201
                 },
-                "Gadgets": [
-                    0,
-                    553
-                ],
                 "Upper": [
                     {
                         "WaveDesc": 701,
@@ -51762,7 +51743,7 @@ var _SpiralAbyssFloorConfig = {
                                     43001
                                 ],
                                 "Note": {
-                                    "Text": "减伤",
+                                    "Text": "<color style='color:#FFCC00;'>减伤</color>",
                                     "Pop": 43001
                                 }
                             }
