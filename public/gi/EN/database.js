@@ -949,6 +949,34 @@ var _SpiralAbyssSchedule = [
             69,
             1034
         ]
+    },
+    {
+        "Name": "17",
+        "Show": "Surprise 17",
+        "Generation": 99,
+        "OpenTime": "By 白鹭の宠儿<br>2024/03/09",
+        "Phases": [],
+        "Blessings": [],
+        "Floors": [
+            57,
+            58,
+            69,
+            1036
+        ]
+    },
+    {
+        "Name": "18",
+        "Show": "Surprise 18",
+        "Generation": 99,
+        "OpenTime": "By 白鹭の宠儿<br>2024/03/09",
+        "Phases": [],
+        "Blessings": [],
+        "Floors": [
+            57,
+            58,
+            69,
+            1038
+        ]
     }
 ]
 
@@ -51145,6 +51173,307 @@ var _SpiralAbyssFloorConfig = {
                             {
                                 "ID": 30601,
                                 "Num": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "1036": {
+        "Disorder": "",
+        "ShowVers": [
+            7
+        ],
+        "Chambers": [
+            {
+                "Name": "12-1",
+                "Level": 95,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "DPS": {
+                    "7": 5247010
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "WaveDesc": 61901,
+                                "Monsters": [
+                                    {
+                                        "ID": 61901,
+                                        "Num": 1,
+                                        "Affix": [
+                                            5427
+                                        ],
+                                        "Note": {
+                                            "Text": "Abyss Version"
+                                        },
+                                        "HPOverride": 11.62
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 30501,
+                                "Num": 1,
+                                "Affix": [
+                                    1026
+                                ],
+                                "Note": {
+                                    "Text": "Slowing<br>Water",
+                                    "Color": "Water"
+                                },
+                                "HPOverride": 4.2
+                            },
+                            {
+                                "ID": 30602,
+                                "Num": 1,
+                                "HPOverride": 4.9
+                            },
+                            {
+                                "ID": 30601,
+                                "Num": 1,
+                                "HPOverride": 5.6
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 20301,
+                                "Num": 2,
+                                "HPOverride": 11.2
+                            },
+                            {
+                                "ID": 21103,
+                                "Num": 2,
+                                "HPOverride": 5.88,
+                                "Affix": [
+                                    4190
+                                ],
+                                "Note": {
+                                    "Text": "Abyss Version"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "12-2",
+                "Level": 98,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "DPS": {
+                    "7": 5193046
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 20103,
+                                "Num": 2,
+                                "Affix": [
+                                    5002,
+                                    1026
+                                ],
+                                "Note": {
+                                    "Text": "Slowing<br>Water"
+                                },
+                                "HPOverride": 2.8
+                            },
+                            {
+                                "ID": 20802,
+                                "Num": 1,
+                                "HPOverride": 5.6
+                            },
+                            {
+                                "ID": 20801,
+                                "Num": 1,
+                                "HPOverride": 4.9
+                            },
+                            {
+                                "ID": 20702,
+                                "Num": 1,
+                                "HPOverride": 4.2
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 20302,
+                                "Num": 1,
+                                "HPOverride": 11.2
+                            },
+                            {
+                                "ID": 20201,
+                                "Num": 2,
+                                "HPOverride": 11.2
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 40303,
+                        "Monsters": [
+                            {
+                                "ID": 40303,
+                                "Num": 1,
+                                "Affix": [
+                                    4181
+                                ],
+                                "Note": {
+                                    "Text": "Abyss Version"
+                                },
+                                "HPOverride": 11.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "12-3",
+                "Level": 100,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        19
+                    ]
+                },
+                "DPS": {
+                    "7": 4699181
+                },
+                "Gadgets": [
+                    0,
+                    553
+                ],
+                "Upper": [
+                    {
+                        "WaveDesc": 61301,
+                        "Monsters": [
+                            {
+                                "ID": 61301,
+                                "Num": 1,
+                                "Affix": [
+                                    4185
+                                ],
+                                "Note": {
+                                    "Text": "Abyss Version"
+                                },
+                                "HPOverride": 9.8
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "ExtraDesc": "Keep 3 on field, spawn one after each kill alternately",
+                        "Monsters": [
+                            {
+                                "ID": 60102,
+                                "Num": 5,
+                                "HPOverride": 4.2
+                            },
+                            {
+                                "ID": 60103,
+                                "Num": 4,
+                                "HPOverride": 4.2
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 20301,
+                                "Num": 2,
+                                "HPOverride": 11.2
                             }
                         ]
                     }
