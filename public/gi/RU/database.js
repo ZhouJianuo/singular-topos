@@ -51730,20 +51730,29 @@ var _SpiralAbyssFloorConfig = {
                     ]
                 },
                 "DPS": {
-                    "7": 3882201
+                    "7": 4686372
                 },
                 "Upper": [
                     {
-                        "WaveDesc": 701,
+                        "WaveDesc": 1,
                         "Monsters": [
                             {
-                                "ID": 701,
+                                "ID": 30605,
                                 "Num": 1,
-                                "Affix": [
-                                    43001
-                                ],
+                                "Name": "Rimesword Servant: Anna",
+                                "HPOverride": 9.9,
                                 "Note": {
-                                    "Text": "<color style='color:#FFCC00;'>DMG Reduction</color>",
+                                    "Text": "Local Legend<br>Entwined<br><color style='color:#FFCC00;'>DMG Reduction</color>",
+                                    "Pop": 43001
+                                }
+                            },
+                            {
+                                "ID": 30606,
+                                "Num": 1,
+                                "Name": "Gale-Lily Servant: Zivanka",
+                                "HPOverride": 9.39,
+                                "Note": {
+                                    "Text": "Local Legend<br>Entwined<br><color style='color:#FFCC00;'>DMG Reduction</color>",
                                     "Pop": 43001
                                 }
                             }

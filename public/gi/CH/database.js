@@ -51730,20 +51730,29 @@ var _SpiralAbyssFloorConfig = {
                     ]
                 },
                 "DPS": {
-                    "7": 3882201
+                    "7": 4686372
                 },
                 "Upper": [
                     {
-                        "WaveDesc": 701,
+                        "WaveDesc": 1,
                         "Monsters": [
                             {
-                                "ID": 701,
+                                "ID": 30605,
                                 "Num": 1,
-                                "Affix": [
-                                    43001
-                                ],
+                                "Name": "霜剑律从 · 安娜",
+                                "HPOverride": 9.9,
                                 "Note": {
-                                    "Text": "<color style='color:#FFCC00;'>减伤</color>",
+                                    "Text": "地方传奇<br>同生共死<br><color style='color:#FFCC00;'>减伤</color>",
+                                    "Pop": 43001
+                                }
+                            },
+                            {
+                                "ID": 30606,
+                                "Num": 1,
+                                "Name": "幽风铃兰 · 齐万卡",
+                                "HPOverride": 9.39,
+                                "Note": {
+                                    "Text": "地方传奇<br>同生共死<br><color style='color:#FFCC00;'>减伤</color>",
                                     "Pop": 43001
                                 }
                             }
