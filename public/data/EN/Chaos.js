@@ -6,7 +6,7 @@ var _chaos = [
         "Name": "Chronicle of the White Nights Dream Kingdom",
         "Buff": {
             "Name": "Memory Turbulence",
-            "Desc": "After every attack launched by an ally, apply 1 stack of Memory Imprint to all enemies. Enemies with Memory Imprint receive <color style='color:#f29e38;'>5.0%</color> more DMG. This effect stacks up to <color style='color:#f29e38;'>6.0</color> stack(s). When Memory Imprint stacks to maximum stacks, immediately deal DMG based on a certain percentage of each enemy's respective Max HP 1 time to all enemies.\nWhen enemy targets enter battle and other units in the field currently have Memory Imprints, the new enemies will receive the same number of Memory Imprint stacks as those on the field.\nAt the start of every wave of Cycle, remove Memory Imprint from all enemies."
+            "Desc": "After every attack launched by an ally, apply 1 stack of Memory Imprint to all enemies. Enemies with Memory Imprint receive <color style='color:#f29e38;'>5.0%</color> more DMG. This effect stacks up to <color style='color:#f29e38;'>6.0</color> stack(s). When Memory Imprint stacks to maximum stacks, immediately deal DMG based on a certain percentage of each enemy's respective Max HP 1 time to all enemies.<br>When enemy targets enter battle and other units in the field currently have Memory Imprints, the new enemies will receive the same number of Memory Imprint stacks as those on the field.<br>At the start of every wave of Cycle, remove Memory Imprint from all enemies."
         },
         "Floors": [
             {
@@ -1274,7 +1274,7 @@ var _chaos = [
         "Name": "Eve of Wanton Feast",
         "Buff": {
             "Name": "Memory Turbulence",
-            "Desc": "Summons a Trotter at the beginning of each wave or each cycle. The Trotter takes <color style='color:#f29e38;'>200.0%</color> increased DMG from Basic ATKs and DoT effects.\nWhen the Trotter is defeated, if any enemies are in <color style='color:#f29e38;'>Bleed</color>, <color style='color:#f29e38;'>Shock</color>, <color style='color:#f29e38;'>Burn</color>, or <color style='color:#f29e38;'>Wind Shear</color> state, immediately deals DMG equal to <color style='color:#f29e38;'>50.0%</color> of the original DoT effect to them, with a high chance to inflict Bleed, Shock, Burn, or Wind Shear on all enemies for <color style='color:#f29e38;'>3.0</color> turn(s)."
+            "Desc": "Summons a Trotter at the beginning of each wave or each cycle. The Trotter takes <color style='color:#f29e38;'>200.0%</color> increased DMG from Basic ATKs and DoT effects.<br>When the Trotter is defeated, if any enemies are in <color style='color:#f29e38;'>Bleed</color>, <color style='color:#f29e38;'>Shock</color>, <color style='color:#f29e38;'>Burn</color>, or <color style='color:#f29e38;'>Wind Shear</color> state, immediately deals DMG equal to <color style='color:#f29e38;'>50.0%</color> of the original DoT effect to them, with a high chance to inflict Bleed, Shock, Burn, or Wind Shear on all enemies for <color style='color:#f29e38;'>3.0</color> turn(s)."
         },
         "Floors": [
             {
@@ -2544,7 +2544,7 @@ var _chaos = [
         "Name": "Dreamland of Longing",
         "Buff": {
             "Name": "Memory Turbulence",
-            "Desc": "All allies' Basic ATKs and Skills deal <color style='color:#f29e38;'>50.0%</color> increased DMG. Whenever a Skill Point is consumed, Memory Turbulence gains <color style='color:#f29e38;'>1.0</color> hit(s) per action, up to a maximum of <color style='color:#f29e38;'>10.0</color>.\nAt the beginning of each Cycle, for each Hit Per Action, Memory Turbulence deals DMG to a random enemy based on the target's Max HP."
+            "Desc": "All allies' Basic ATKs and Skills deal <color style='color:#f29e38;'>50.0%</color> increased DMG. Whenever a Skill Point is consumed, Memory Turbulence gains <color style='color:#f29e38;'>1.0</color> hit(s) per action, up to a maximum of <color style='color:#f29e38;'>10.0</color>.<br>At the beginning of each Cycle, for each Hit Per Action, Memory Turbulence deals DMG to a random enemy based on the target's Max HP."
         },
         "Floors": [
             {
@@ -5050,7 +5050,7 @@ var _chaos = [
         "Name": "Enigma in Deep Space",
         "Buff": {
             "Name": "Memory Turbulence",
-            "Desc": "After an ally Breaks enemies' Weaknesses or attacks Weakness Broken enemies, add <color style='color:#f29e38;'>1.0</color> Hit(s) Per Action to Memory Turbulence, up to <color style='color:#f29e38;'>10.0</color> extra hits.\nAt the start of every Cycle, every hit will deal DMG based on the enemy targets' respective Max HP to random enemy targets 1 time."
+            "Desc": "After an ally Breaks enemies' Weaknesses or attacks Weakness Broken enemies, add <color style='color:#f29e38;'>1.0</color> Hit(s) Per Action to Memory Turbulence, up to <color style='color:#f29e38;'>10.0</color> extra hits.<br>At the start of every Cycle, every hit will deal DMG based on the enemy targets' respective Max HP to random enemy targets 1 time."
         },
         "Floors": [
             {
@@ -7476,7 +7476,7 @@ var _chaos = [
         "Name": "Oath of Eternal Alliance",
         "Buff": {
             "Name": "Memory Turbulence",
-            "Desc": "After an ally uses their Skill or Ultimate to attack, add <color style='color:#f29e38;'>1.0</color> Hit(s) Per Action to Memory Turbulence, up to <color style='color:#f29e38;'>10.0</color> extra hits.\nAt the start of every Cycle, every hit will deal DMG based on the enemy targets' respective Max HP to random enemy targets 1 time."
+            "Desc": "After an ally uses their Skill or Ultimate to attack, add <color style='color:#f29e38;'>1.0</color> Hit(s) Per Action to Memory Turbulence, up to <color style='color:#f29e38;'>10.0</color> extra hits.<br>At the start of every Cycle, every hit will deal DMG based on the enemy targets' respective Max HP to random enemy targets 1 time."
         },
         "Floors": [
             {
@@ -10868,7 +10868,7 @@ var _chaos = [
         "Name": "Living and Flaming Catastrophes",
         "Buff": {
             "Name": "Memory Turbulence",
-            "Desc": "When the same ally acts consecutively, they receive 1 stack of Memory Imprint. When allies with Memory Imprint attack, every Memory Imprint stack has a <color style='color:#f29e38;'>40.0%</color> fixed chance to inflict the target with Dissociation that lasts for 1 turn. Allies with Memory Imprint deal <color style='color:#f29e38;'>40.0%</color> more DMG. This effect cannot be stacked. When a different ally acts, remove all Memory Imprint stacks on the field.\nDissociation: This state is considered as the Freeze state. Affected units cannot take action. When this state is removed, the affected target receives Additional Ice DMG equal to <color style='color:#f29e38;'>15.0%</color> of their respective Max HP."
+            "Desc": "When the same ally acts consecutively, they receive 1 stack of Memory Imprint. When allies with Memory Imprint attack, every Memory Imprint stack has a <color style='color:#f29e38;'>40.0%</color> fixed chance to inflict the target with Dissociation that lasts for 1 turn. Allies with Memory Imprint deal <color style='color:#f29e38;'>40.0%</color> more DMG. This effect cannot be stacked. When a different ally acts, remove all Memory Imprint stacks on the field.<br>Dissociation: This state is considered as the Freeze state. Affected units cannot take action. When this state is removed, the affected target receives Additional Ice DMG equal to <color style='color:#f29e38;'>15.0%</color> of their respective Max HP."
         },
         "Floors": [
             {
@@ -18419,7 +18419,7 @@ var _chaos = [
         "Name": "Adrift in Astral Seas",
         "Buff": {
             "Name": "Memory Turbulence",
-            "Desc": "When an ally is hit or consumes their own HP, gain 1 stack of Memory Imprint. Each stack of Memory Imprint reduces DMG taken by the target by <color style='color:#f29e38;'>12.0%</color>, up to <color style='color:#f29e38;'>3.0</color> stack(s).\nAt the start of each Cycle, deals a set amount of DMG to all enemies based on the highest Memory Imprint stack count on an ally. Then, remove all Memory Imprint stacks from all allies."
+            "Desc": "When an ally is hit or consumes their own HP, gain 1 stack of Memory Imprint. Each stack of Memory Imprint reduces DMG taken by the target by <color style='color:#f29e38;'>12.0%</color>, up to <color style='color:#f29e38;'>3.0</color> stack(s).<br>At the start of each Cycle, deals a set amount of DMG to all enemies based on the highest Memory Imprint stack count on an ally. Then, remove all Memory Imprint stacks from all allies."
         },
         "Floors": [
             {
@@ -24499,7 +24499,7 @@ var _chaos = [
                 ],
                 "Buff": {
                     "Name": "Memory Turbulence",
-                    "Desc": "All enemies receive increased <color style='color:#f29e38;'>DoT</color> by <color style='color:#f29e38;'>50.0%</color>.\nAt the start of every Cycle, there is a high chance of inflicting <color style='color:#f29e38;'>Bleed</color>, <color style='color:#f29e38;'>Shock</color>, <color style='color:#f29e38;'>Burn</color>, and <color style='color:#f29e38;'>Wind Shear</color> on all enemies. Status inflicted in this way will last for <color style='color:#f29e38;'>2.0</color> turn(s)."
+                    "Desc": "All enemies receive increased <color style='color:#f29e38;'>DoT</color> by <color style='color:#f29e38;'>50.0%</color>.<br>At the start of every Cycle, there is a high chance of inflicting <color style='color:#f29e38;'>Bleed</color>, <color style='color:#f29e38;'>Shock</color>, <color style='color:#f29e38;'>Burn</color>, and <color style='color:#f29e38;'>Wind Shear</color> on all enemies. Status inflicted in this way will last for <color style='color:#f29e38;'>2.0</color> turn(s)."
                 }
             },
             {
@@ -24872,7 +24872,7 @@ var _chaos = [
                 ],
                 "Buff": {
                     "Name": "Memory Turbulence",
-                    "Desc": "At the start of every Cycle, summon 2 <color style='color:#f29e38;'>Mara-Struck Soldiers</color> or <color style='color:#f29e38;'>Abundance Sprite: Golden Hounds</color>.\nAfter an enemy target is defeated, deals a <color style='color:#f29e38;'>set amount of DMG</color> to all enemies."
+                    "Desc": "At the start of every Cycle, summon 2 <color style='color:#f29e38;'>Mara-Struck Soldiers</color> or <color style='color:#f29e38;'>Abundance Sprite: Golden Hounds</color>.<br>After an enemy target is defeated, deals a <color style='color:#f29e38;'>set amount of DMG</color> to all enemies."
                 }
             },
             {
@@ -25012,7 +25012,7 @@ var _chaos = [
                 ],
                 "Buff": {
                     "Name": "Memory Turbulence",
-                    "Desc": "After an ally <color style='color:#f29e38;'>uses their Skill</color> on any ally (including on themselves), dispels 1 <color style='color:#f29e38;'>debuff</color> on the ally which the Skill was used on. For each <color style='color:#f29e38;'>debuff</color> dispelled, increases the DMG dealt by all allies by <color style='color:#f29e38;'>20.0%</color>. This effect can stack up to <color style='color:#f29e38;'>10.0</color> stacks.\nDefeating the <color style='color:#f29e38;'>Elite or stronger enemy</color> in the final wave will immediately result in victory."
+                    "Desc": "After an ally <color style='color:#f29e38;'>uses their Skill</color> on any ally (including on themselves), dispels 1 <color style='color:#f29e38;'>debuff</color> on the ally which the Skill was used on. For each <color style='color:#f29e38;'>debuff</color> dispelled, increases the DMG dealt by all allies by <color style='color:#f29e38;'>20.0%</color>. This effect can stack up to <color style='color:#f29e38;'>10.0</color> stacks.<br>Defeating the <color style='color:#f29e38;'>Elite or stronger enemy</color> in the final wave will immediately result in victory."
                 }
             }
         ]

@@ -53580,7 +53580,7 @@ var _status = {
     "30020027": {
         "Name": "纠缠",
         "Modifier": "MCommon_Entangle",
-        "Desc": "行动延后，下个回合开始时受到量子属性附加伤害。\n纠缠状态下的目标每次受到攻击后，都会使该附加伤害提高，该效果最多叠加5层。",
+        "Desc": "行动延后，下个回合开始时受到量子属性附加伤害。<br>纠缠状态下的目标每次受到攻击后，都会使该附加伤害提高，该效果最多叠加5层。",
         "Type": "Debuff"
     },
     "30020028": {
@@ -53897,7 +53897,7 @@ var _status = {
     "220220204": {
         "Name": "结丹者",
         "Modifier": "Monster_W2_Abomi02_00_TargetList",
-        "Desc": "受到致命攻击时，对所有陷入被自身添加的【引动雷劫】状态的我方目标造成1次伤害。\n当前陷入【引动雷劫】状态的我方目标有：<color style='color:#f29e38;'>%DynamicTargetName</color>。",
+        "Desc": "受到致命攻击时，对所有陷入被自身添加的【引动雷劫】状态的我方目标造成1次伤害。<br>当前陷入【引动雷劫】状态的我方目标有：<color style='color:#f29e38;'>%DynamicTargetName</color>。",
         "Type": "Buff",
         "CanNotDispel": true
     },

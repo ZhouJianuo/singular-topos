@@ -53580,7 +53580,7 @@ var _status = {
     "30020027": {
         "Name": "Entanglement",
         "Modifier": "MCommon_Entangle",
-        "Desc": "Action delayed and receives Additional Quantum DMG at the start of the next turn.\nThis Additional DMG is increased when Entangled enemies are attacked. This effect can stack up to 5 times.",
+        "Desc": "Action delayed and receives Additional Quantum DMG at the start of the next turn.<br>This Additional DMG is increased when Entangled enemies are attacked. This effect can stack up to 5 times.",
         "Type": "Debuff"
     },
     "30020028": {
@@ -53897,7 +53897,7 @@ var _status = {
     "220220204": {
         "Name": "Core Formation",
         "Modifier": "Monster_W2_Abomi02_00_TargetList",
-        "Desc": "Upon receiving a killing blow, the unit deals DMG 1 time to targets that are afflicted with Spur of Thunderwoe by them.\nThe current targets who have Spur of Thunderwoe on them are: <color style='color:#f29e38;'>%DynamicTargetName</color>.",
+        "Desc": "Upon receiving a killing blow, the unit deals DMG 1 time to targets that are afflicted with Spur of Thunderwoe by them.<br>The current targets who have Spur of Thunderwoe on them are: <color style='color:#f29e38;'>%DynamicTargetName</color>.",
         "Type": "Buff",
         "CanNotDispel": true
     },

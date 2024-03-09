@@ -16380,7 +16380,7 @@ var _avatarskill = {
             "MaxLevel": 9,
             "Type": "Basic ATK",
             "Tag": "Single Target",
-            "Desc": "Deals Wind DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Black Swan's ATK to a single target enemy, with a <color style='color:#f29e38;'><b>#2[p]</b></color> <u>base chance</u> of inflicting 1 stack of <u>Arcana</u> on the target. Additionally, when attacking a target that suffers Wind Shear, Bleed, Burn, or Shock, there is respectively a <color style='color:#f29e38;'><b>#3[p]</b></color> <u>base chance</u> of inflicting 1 extra stack of <u>Arcana</u> on the target.<br><br><color style='color:#f29e38;'><b>Arcana</b></color><br>Arcana is a debuff that deals DMG over time. This debuff cannot be dispelled.\nWhile in the Arcana sate, the unit is also considered to be in the Wind Shear state and takes Wind DoT at the start of each turn.\nThe infliction of Arcana ignores the target's Wind Shear RES, Bleed RES, Burn RES, and Shock RES.",
+            "Desc": "Deals Wind DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Black Swan's ATK to a single target enemy, with a <color style='color:#f29e38;'><b>#2[p]</b></color> <u>base chance</u> of inflicting 1 stack of <u>Arcana</u> on the target. Additionally, when attacking a target that suffers Wind Shear, Bleed, Burn, or Shock, there is respectively a <color style='color:#f29e38;'><b>#3[p]</b></color> <u>base chance</u> of inflicting 1 extra stack of <u>Arcana</u> on the target.<br><br><color style='color:#f29e38;'><b>Arcana</b></color><br>Arcana is a debuff that deals DMG over time. This debuff cannot be dispelled.<br>While in the Arcana sate, the unit is also considered to be in the Wind Shear state and takes Wind DoT at the start of each turn.<br>The infliction of Arcana ignores the target's Wind Shear RES, Bleed RES, Burn RES, and Shock RES.",
             "Params": [
                 [
                     0.3,
@@ -19752,7 +19752,7 @@ var _avatarskill = {
             "MaxLevel": 15,
             "Type": "Talent",
             "Tag": "Impair",
-            "Desc": "Every time an enemy target receives DoT at the start of each turn, there is a <color style='color:#f29e38;'><b>#2[p]</b></color> <u>base chance</u> for it to be inflicted with 1 stack of <u>Arcana</u>.<br>While afflicted with <u>Arcana</u>, enemy targets receive Wind DoT equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Black Swan's ATK at the start of each turn. Each stack of <u>Arcana</u> increases this DMG multiplier by <color style='color:#f29e38;'><b>#3[p]</b></color>. Then <u>Arcana</u> resets to 1 stack. <u>Arcana</u> can stack up to <b>#8[f]</b> times.<br>Only when <u>Arcana</u> causes DMG at the start of an enemy target's turn, Black Swan triggers additional effects based on the number of <u>Arcana</u> stacks inflicted on the target:<br>When there are <b>#4[f]</b> or more <u>Arcana</u> stacks, deals Wind DoT equal to <color style='color:#f29e38;'><b>#5[p]</b></color> of Black Swan's ATK to adjacent targets, with a <color style='color:#f29e38;'><b>#2[p]</b></color> <u>base chance</u> of inflicting 1 stack of <u>Arcana</u> on adjacent targets.<br>When there are <b>#6[f]</b> or more <u>Arcana</u> stacks, enables the current DoT dealt this time to ignore <b>#7[p]</b> of the target's and adjacent targets' DEF.<br><br><color style='color:#f29e38;'><b>Arcana</b></color><br>Arcana is a debuff that deals DMG over time. This debuff cannot be dispelled.\nWhile in the Arcana sate, the unit is also considered to be in the Wind Shear state and takes Wind DoT at the start of each turn.\nThe infliction of Arcana ignores the target's Wind Shear RES, Bleed RES, Burn RES, and Shock RES.",
+            "Desc": "Every time an enemy target receives DoT at the start of each turn, there is a <color style='color:#f29e38;'><b>#2[p]</b></color> <u>base chance</u> for it to be inflicted with 1 stack of <u>Arcana</u>.<br>While afflicted with <u>Arcana</u>, enemy targets receive Wind DoT equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Black Swan's ATK at the start of each turn. Each stack of <u>Arcana</u> increases this DMG multiplier by <color style='color:#f29e38;'><b>#3[p]</b></color>. Then <u>Arcana</u> resets to 1 stack. <u>Arcana</u> can stack up to <b>#8[f]</b> times.<br>Only when <u>Arcana</u> causes DMG at the start of an enemy target's turn, Black Swan triggers additional effects based on the number of <u>Arcana</u> stacks inflicted on the target:<br>When there are <b>#4[f]</b> or more <u>Arcana</u> stacks, deals Wind DoT equal to <color style='color:#f29e38;'><b>#5[p]</b></color> of Black Swan's ATK to adjacent targets, with a <color style='color:#f29e38;'><b>#2[p]</b></color> <u>base chance</u> of inflicting 1 stack of <u>Arcana</u> on adjacent targets.<br>When there are <b>#6[f]</b> or more <u>Arcana</u> stacks, enables the current DoT dealt this time to ignore <b>#7[p]</b> of the target's and adjacent targets' DEF.<br><br><color style='color:#f29e38;'><b>Arcana</b></color><br>Arcana is a debuff that deals DMG over time. This debuff cannot be dispelled.<br>While in the Arcana sate, the unit is also considered to be in the Wind Shear state and takes Wind DoT at the start of each turn.<br>The infliction of Arcana ignores the target's Wind Shear RES, Bleed RES, Burn RES, and Shock RES.",
             "Params": [
                 [
                     0.96,
@@ -29373,7 +29373,7 @@ var _avatarskilltree = {
             },
             "Tree1": {
                 "Name": "Starfire",
-                "Desc": "After using an attack, there is a <b><color style='color:#f29e38'>50.0%</color></b> base chance to inflict Burn on enemies for <b><color style='color:#f29e38'>2.0</color></b> turn(s).\nWhen afflicted with Burn, enemies take Fire DoT equal to <b><color style='color:#f29e38'>30.0%</color></b> of Himeko's ATK at the start of each turn.",
+                "Desc": "After using an attack, there is a <b><color style='color:#f29e38'>50.0%</color></b> base chance to inflict Burn on enemies for <b><color style='color:#f29e38'>2.0</color></b> turn(s).<br>When afflicted with Burn, enemies take Fire DoT equal to <b><color style='color:#f29e38'>30.0%</color></b> of Himeko's ATK at the start of each turn.",
                 "Icon": "SkillIcon_1003_SkillTree1"
             },
             "Tree2": {
@@ -29493,7 +29493,7 @@ var _avatarskilltree = {
             },
             "Tree1": {
                 "Name": "Sparks",
-                "Desc": "Asta's Basic ATK has a <b><color style='color:#f29e38'>80.0%</color></b> base chance to Burn an enemy target for <b><color style='color:#f29e38'>3.0</color></b> turn(s).\nBurned enemies take Fire DoT equal to <b><color style='color:#f29e38'>50.0%</color></b> of DMG dealt by Asta's Basic ATK at the start of each turn.",
+                "Desc": "Asta's Basic ATK has a <b><color style='color:#f29e38'>80.0%</color></b> base chance to Burn an enemy target for <b><color style='color:#f29e38'>3.0</color></b> turn(s).<br>Burned enemies take Fire DoT equal to <b><color style='color:#f29e38'>50.0%</color></b> of DMG dealt by Asta's Basic ATK at the start of each turn.",
                 "Icon": "SkillIcon_1009_SkillTree1"
             },
             "Tree2": {
@@ -30985,7 +30985,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Memory of Everything",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1001_Ultra"
         }
     },
@@ -31001,7 +31001,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Never Forget Again",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1001_BP"
         }
     },
@@ -31033,7 +31033,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Seen and Unseen",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1002_BP"
         }
     },
@@ -31049,7 +31049,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "A Drop of Rain Feeds a Torrent",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1002_Ultra"
         }
     },
@@ -31081,7 +31081,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Poised",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1003_BP"
         }
     },
@@ -31097,7 +31097,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Aspiration",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1003_Ultra"
         }
     },
@@ -31129,7 +31129,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Prayer of Peace",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1004_BP"
         }
     },
@@ -31145,7 +31145,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Power of Kindness",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1004_Ultra"
         }
     },
@@ -31177,7 +31177,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Capriccio",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1005_BP"
         }
     },
@@ -31193,7 +31193,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Doloroso",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1005_Ultra"
         }
     },
@@ -31217,7 +31217,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Power Through",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1008_BP"
         }
     },
@@ -31233,7 +31233,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Hammer and Tongs",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1008_Ultra"
         }
     },
@@ -31265,7 +31265,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Meteor Showers for Wish and Want",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1009_BP"
         }
     },
@@ -31281,7 +31281,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Nebula Secludes in Runes and Riddles",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1009_Ultra"
         }
     },
@@ -31313,7 +31313,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "That's the Kind of Girl I Am",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1013_BP"
         }
     },
@@ -31329,7 +31329,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Cuss Big or Cuss Nothing",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1013_Ultra"
         }
     },
@@ -31361,7 +31361,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Bombardment",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1101_Ultra"
         }
     },
@@ -31377,7 +31377,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Unstoppable",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1101_BP"
         }
     },
@@ -31409,7 +31409,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Dazzling Tumult",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1102_BP"
         }
     },
@@ -31425,7 +31425,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Piercing Shards",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1102_Ultra"
         }
     },
@@ -31433,7 +31433,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 6,
             "Name": "Shattering Shambles",
-            "Desc": "After Seele uses her Ultimate, inflict the target enemy with Butterfly Flurry for <b><color style='color:#f29e38'>1.0</color></b> turn(s). Enemies suffering from Butterfly Flurry will take Additional Quantum DMG equal to <b><color style='color:#f29e38'>15.0%</color></b> of Seele's Ultimate DMG every time they are attacked. If the target enemy is defeated by the Butterfly Flurry DMG triggered by other allies' attacks, Seele's Talent will not be triggered.\nWhen Seele is knocked down, the Butterfly Flurry inflicted on the enemies will be removed.",
+            "Desc": "After Seele uses her Ultimate, inflict the target enemy with Butterfly Flurry for <b><color style='color:#f29e38'>1.0</color></b> turn(s). Enemies suffering from Butterfly Flurry will take Additional Quantum DMG equal to <b><color style='color:#f29e38'>15.0%</color></b> of Seele's Ultimate DMG every time they are attacked. If the target enemy is defeated by the Butterfly Flurry DMG triggered by other allies' attacks, Seele's Talent will not be triggered.<br>When Seele is knocked down, the Butterfly Flurry inflicted on the enemies will be removed.",
             "Icon": "SkillIcon_1102_Rank6"
         }
     },
@@ -31457,7 +31457,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Listen, the Heartbeat of the Gears",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1103_BP"
         }
     },
@@ -31473,7 +31473,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Belobog's Loudest Roar!",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1103_Ultra"
         }
     },
@@ -31505,7 +31505,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Never Surrender",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1104_Ultra"
         }
     },
@@ -31521,7 +31521,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Cold Iron Fist",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1104_BP"
         }
     },
@@ -31553,7 +31553,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "The Right Cure",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1105_BP"
         }
     },
@@ -31569,7 +31569,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Preventive Treatment",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1105_Ultra"
         }
     },
@@ -31601,7 +31601,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Suppressive Force",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1106_BP"
         }
     },
@@ -31617,7 +31617,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Absolute Jeopardy",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1106_Ultra"
         }
     },
@@ -31649,7 +31649,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Cold Steel Armor",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1107_BP"
         }
     },
@@ -31665,7 +31665,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "A Small Promise",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1107_Ultra"
         }
     },
@@ -31681,7 +31681,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Big Money!",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1108_BP"
         }
     },
@@ -31697,7 +31697,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Huuuuge Money!",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1108_Ultra"
         }
     },
@@ -31729,7 +31729,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Don't Be Picky, Nothing's Icky",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1109_BP"
         }
     },
@@ -31745,7 +31745,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Let the Moles' Deeds Be Known",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1109_Ultra"
         }
     },
@@ -31777,7 +31777,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Afternoon of Avalanche Beacon",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1110_BP"
         }
     },
@@ -31793,7 +31793,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Night of Aurora Tea",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1110_Ultra"
         }
     },
@@ -31825,7 +31825,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Born for the Ring",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1111_BP"
         }
     },
@@ -31841,7 +31841,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "The Spirit of Wildfire",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1111_Ultra"
         }
     },
@@ -31873,7 +31873,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Read Between the Tiles",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1201_Ultra"
         }
     },
@@ -31881,7 +31881,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 4,
             "Name": "Right on the Tiles",
-            "Desc": "After this character's Skill is used, there is a <b><color style='color:#f29e38'>24.0%</color></b> fixed chance to gain Autarky, which lasts until the end of the current turn. \nWith Autarky, using Basic ATK or Enhanced Basic ATK immediately launches 1 follow-up attack on the same target, dealing Quantum DMG equal to <b><color style='color:#f29e38'>100%</color></b> of the previous Basic ATK (or Enhanced Basic ATK)'s DMG.",
+            "Desc": "After this character's Skill is used, there is a <b><color style='color:#f29e38'>24.0%</color></b> fixed chance to gain Autarky, which lasts until the end of the current turn. <br>With Autarky, using Basic ATK or Enhanced Basic ATK immediately launches 1 follow-up attack on the same target, dealing Quantum DMG equal to <b><color style='color:#f29e38'>100%</color></b> of the previous Basic ATK (or Enhanced Basic ATK)'s DMG.",
             "Icon": "SkillIcon_1201_Rank4"
         }
     },
@@ -31889,7 +31889,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Gambit for the Tiles",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1201_BP"
         }
     },
@@ -31921,7 +31921,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Halcyon Bequest",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1202_Ultra"
         }
     },
@@ -31937,7 +31937,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Sauntering Coquette",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1202_BP"
         }
     },
@@ -31953,7 +31953,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Surveyal by the Fool",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1203_BP"
         }
     },
@@ -31969,7 +31969,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Cicatrix 'Neath the Pain",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1203_Ultra"
         }
     },
@@ -31993,7 +31993,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Strike, Suns Subdued",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1204_Ultra"
         }
     },
@@ -32001,7 +32001,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Stride, Spoils Seized",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1204_BP"
         }
     },
@@ -32009,7 +32009,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 1,
             "Name": "Blade Cuts the Deepest in Hell",
-            "Desc": "Blade's Ultimate deals additionally increased DMG to a single enemy target, with the increased amount equal to <b><color style='color:#f29e38'>150.0%</color></b> of the tally of Blade's HP loss in the current battle.\nThe tally of Blade's HP loss in the current battle is capped at <b><color style='color:#f29e38'>90.0%</color></b> of his Max HP. The tally value will be reset and re-accumulated after his Ultimate has been used.",
+            "Desc": "Blade's Ultimate deals additionally increased DMG to a single enemy target, with the increased amount equal to <b><color style='color:#f29e38'>150.0%</color></b> of the tally of Blade's HP loss in the current battle.<br>The tally of Blade's HP loss in the current battle is capped at <b><color style='color:#f29e38'>90.0%</color></b> of his Max HP. The tally value will be reset and re-accumulated after his Ultimate has been used.",
             "Icon": "SkillIcon_1205_Rank1"
         }
     },
@@ -32025,7 +32025,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Hardened Blade Bleeds Coldest Shade",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1205_Ultra"
         }
     },
@@ -32041,7 +32041,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Death By Ten Lords' Gaze",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1205_BP"
         }
     },
@@ -32073,7 +32073,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Rise From Fame",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1206_Ultra"
         }
     },
@@ -32089,7 +32089,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Prevail via Taixu",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1206_BP"
         }
     },
@@ -32121,7 +32121,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Torrential Fusillade",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1207_BP"
         }
     },
@@ -32137,7 +32137,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "August Deadshot",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1207_Ultra"
         }
     },
@@ -32169,7 +32169,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Apex Nexus",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1208_BP"
         }
     },
@@ -32185,7 +32185,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Arbiter Primus",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1208_Ultra"
         }
     },
@@ -32193,7 +32193,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 6,
             "Name": "Omnia Vita",
-            "Desc": "Once Matrix of Prescience is activated, it will keep a tally of the total HP lost by all team members in the current battle. Fu Xuan's Ultimate DMG will increase by <b><color style='color:#f29e38'>200.0%</color></b> of this tally of HP loss.\nThis tally is also capped at <b><color style='color:#f29e38'>120.0%</color></b> of Fu Xuan's Max HP and the tally value will reset and re-accumulate after Fu Xuan's Ultimate is used.",
+            "Desc": "Once Matrix of Prescience is activated, it will keep a tally of the total HP lost by all team members in the current battle. Fu Xuan's Ultimate DMG will increase by <b><color style='color:#f29e38'>200.0%</color></b> of this tally of HP loss.<br>This tally is also capped at <b><color style='color:#f29e38'>120.0%</color></b> of Fu Xuan's Max HP and the tally value will reset and re-accumulate after Fu Xuan's Ultimate is used.",
             "Icon": "SkillIcon_1208_Rank6"
         }
     },
@@ -32217,7 +32217,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Sword Savant",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1209_BP"
         }
     },
@@ -32233,7 +32233,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Surging Strife",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1209_Ultra"
         }
     },
@@ -32265,7 +32265,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Smashing Boulder on Chest",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1210_BP"
         }
     },
@@ -32281,7 +32281,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Swallowing Sword to Stomach",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1210_Ultra"
         }
     },
@@ -32313,7 +32313,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Omniscient Opulence",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1211_BP"
         }
     },
@@ -32329,7 +32329,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Waning Worries",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1211_Ultra"
         }
     },
@@ -32361,7 +32361,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Halfmoon Gapes Mercurial Haze",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1212_Ultra"
         }
     },
@@ -32377,7 +32377,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Night Shades Astral Radiance",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1212_BP"
         }
     },
@@ -32409,7 +32409,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Clothed in Clouds",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1213_BP"
         }
     },
@@ -32425,7 +32425,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Fall is the Pride",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1213_Ultra"
         }
     },
@@ -32457,7 +32457,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Duḥkha, Ceased",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1214_BP"
         }
     },
@@ -32473,7 +32473,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Deva, Enthralled",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1214_Ultra"
         }
     },
@@ -32505,7 +32505,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "A Leading Whisper",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_8001_BP"
         }
     },
@@ -32521,7 +32521,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "A Surviving Hope",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_8001_Ultra"
         }
     },
@@ -32553,7 +32553,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "A Leading Whisper",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_8001_BP"
         }
     },
@@ -32569,7 +32569,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "A Surviving Hope",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_8001_Ultra"
         }
     },
@@ -32601,7 +32601,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Trail-Blazing Blueprint",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_8003_BP"
         }
     },
@@ -32617,7 +32617,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Spirit-Warming Flame",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_8003_Ultra"
         }
     },
@@ -32649,7 +32649,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Trail-Blazing Blueprint",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_8003_BP"
         }
     },
@@ -32665,7 +32665,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Spirit-Warming Flame",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_8003_Ultra"
         }
     },
@@ -32697,7 +32697,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Payload",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1006_BP"
         }
     },
@@ -32713,7 +32713,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Brute Force Attack",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1006_Ultra"
         }
     },
@@ -32737,7 +32737,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 6,
             "Name": "Sweep, Souls Slain",
-            "Desc": "Each hit performed by the Lightning-Lord when it takes action will make the target enemy Vulnerable.\nWhile Vulnerable, enemies receive <b><color style='color:#f29e38'>12.0%</color></b> more DMG until the end of the Lightning-Lord's current turn, stacking up to <b><color style='color:#f29e38'>3.0</color></b> time(s).",
+            "Desc": "Each hit performed by the Lightning-Lord when it takes action will make the target enemy Vulnerable.<br>While Vulnerable, enemies receive <b><color style='color:#f29e38'>12.0%</color></b> more DMG until the end of the Lightning-Lord's current turn, stacking up to <b><color style='color:#f29e38'>3.0</color></b> time(s).",
             "Icon": "SkillIcon_1204_Rank6"
         }
     },
@@ -32777,7 +32777,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Three Temptations",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1215_BP"
         }
     },
@@ -32793,7 +32793,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Five Skandhas",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1215_Ultra"
         }
     },
@@ -32833,7 +32833,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Thorny Road's Glory",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1302_BP"
         }
     },
@@ -32849,7 +32849,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Snow, From Somewhere in Cosmos",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1302_Ultra"
         }
     },
@@ -32881,7 +32881,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Viridescent Pirouette",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1303_Ultra"
         }
     },
@@ -32897,7 +32897,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Languid Barrette",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1303_BP"
         }
     },
@@ -32913,7 +32913,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 1,
             "Name": "Future Market",
-            "Desc": "When enemies afflicted with Proof of Debt receive follow-up attacks, they will enter the Debtor state. This can take effect only once within a single attack.\nThe Debtor state increases the CRIT DMG of follow-up attacks inflicted on the target enemies by <b><color style='color:#f29e38'>25.0%</color></b>, stacking up to <b><color style='color:#f29e38'>2.0</color></b> time(s). When Proof of Debt is removed, the Debtor state is also removed.",
+            "Desc": "When enemies afflicted with Proof of Debt receive follow-up attacks, they will enter the Debtor state. This can take effect only once within a single attack.<br>The Debtor state increases the CRIT DMG of follow-up attacks inflicted on the target enemies by <b><color style='color:#f29e38'>25.0%</color></b>, stacking up to <b><color style='color:#f29e38'>2.0</color></b> time(s). When Proof of Debt is removed, the Debtor state is also removed.",
             "Icon": "SkillIcon_1112_Rank1"
         }
     },
@@ -32929,7 +32929,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Seize the Big and Free the Small",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1112_BP"
         }
     },
@@ -32945,7 +32945,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Inflationary Demand",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1112_Ultra"
         }
     },
@@ -32977,7 +32977,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Cursed by Fate, Moths to Flame",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1217_Ultra"
         }
     },
@@ -32993,7 +32993,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Mandated by Edict, Evils Evicted",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1217_BP"
         }
     },
@@ -33037,7 +33037,7 @@ var _avatarrank = {
         "v5": {
             "Rank": 3,
             "Name": "Pipedream",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1306_BP"
         },
         "Live": {
@@ -33065,7 +33065,7 @@ var _avatarrank = {
         "v5": {
             "Rank": 5,
             "Name": "Parallax Truth",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1306_Ultra"
         },
         "Live": {
@@ -33121,7 +33121,7 @@ var _avatarrank = {
         "v5": {
             "Rank": 3,
             "Name": "Vestige of Happiness",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1312_Ultra"
         },
         "Live": {
@@ -33149,7 +33149,7 @@ var _avatarrank = {
         "v5": {
             "Rank": 5,
             "Name": "Genesis of First Love",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1312_BP"
         },
         "Live": {
@@ -33229,7 +33229,7 @@ var _avatarrank = {
         "v5": {
             "Rank": 3,
             "Name": "As Above, So Below",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1307_BP"
         },
         "Live": {
@@ -33257,7 +33257,7 @@ var _avatarrank = {
         "v5": {
             "Rank": 5,
             "Name": "Linnutee Flyway",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1307_Ultra"
         },
         "Live": {
@@ -33287,7 +33287,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 3,
             "Name": "Know Thyself",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1305_Ultra"
         }
     },
@@ -33303,7 +33303,7 @@ var _avatarrank = {
         "Pre": {
             "Rank": 5,
             "Name": "Sic Itur Ad Astra",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1305_BP"
         }
     },
@@ -33319,7 +33319,7 @@ var _avatarrank = {
         "v5": {
             "Rank": 6,
             "Name": "Pantheon Merciful, Masses Pitiful",
-            "Desc": "When enemy targets get attacked by Black Swan's allies, Black Swan has a <b><color style='color:#f29e38'>65.0%</color></b> base chance of inflicting 1 stack of Arcana on the target.\nEach time Black Swan inflicts Arcana on an enemy target, there is a <b><color style='color:#f29e38'>50.0%</color></b> fixed chance to additionally increase the number of Arcana stacks afflicted this time by <b><color style='color:#f29e38'>1.0</color></b>.",
+            "Desc": "When enemy targets get attacked by Black Swan's allies, Black Swan has a <b><color style='color:#f29e38'>65.0%</color></b> base chance of inflicting 1 stack of Arcana on the target.<br>Each time Black Swan inflicts Arcana on an enemy target, there is a <b><color style='color:#f29e38'>50.0%</color></b> fixed chance to additionally increase the number of Arcana stacks afflicted this time by <b><color style='color:#f29e38'>1.0</color></b>.",
             "Icon": "SkillIcon_1307_Rank6"
         },
         "Live": {

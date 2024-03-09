@@ -36,7 +36,7 @@ var _codex = [
             },
             {
                 "Name": "Favonius Cathedral",
-                "Desc": "A holy place managed by the devoted adherents of the Anemo Archon.\nIt was once a palatial estate from which the aristocracy flaunted their authority.",
+                "Desc": "A holy place managed by the devoted adherents of the Anemo Archon.<br>It was once a palatial estate from which the aristocracy flaunted their authority.",
                 "Image": "UI_Codex_Scenery_MDxifengdajiaotang"
             },
             {
@@ -126,7 +126,7 @@ var _codex = [
             },
             {
                 "Name": "The Court of Pillars",
-                "Desc": "#\"Despite the Traveler's warnings, I still followed in {M#his}{F#her} footsteps to arrive at this place.\"\n\"I can barely comprehend the sight of this huge sky-blue crystal pillar before me. It cannot be from this continent — only the heavens, with which it shares its shade, could have been its home.\"\n\"I have decided to explore deeper within through secret paths to uncover its secrets... I wonder how far I can press on, and what further records I shall leave behind...\"",
+                "Desc": "#\"Despite the Traveler's warnings, I still followed in {M#his}{F#her} footsteps to arrive at this place.\"<br>\"I can barely comprehend the sight of this huge sky-blue crystal pillar before me. It cannot be from this continent — only the heavens, with which it shares its shade, could have been its home.\"<br>\"I have decided to explore deeper within through secret paths to uncover its secrets... I wonder how far I can press on, and what further records I shall leave behind...\"",
                 "Image": "UI_Codex_Scenery_JYDaSuiPianJieSuo"
             },
             {
@@ -136,42 +136,42 @@ var _codex = [
             },
             {
                 "Name": "The Inverted City",
-                "Desc": "\"As I was traveling alone, I discovered this vast and terrible ruin. Perhaps this is all that remains of an ancient civilization that was punished and destroyed. This ancient city seems to resist the presence of any outsiders... It might even have something to do with those purple-black crystals, or that mud-like substance.\"\n\"I stayed for a time, but I had to leave its ominous, upended silhouette behind.\"",
+                "Desc": "\"As I was traveling alone, I discovered this vast and terrible ruin. Perhaps this is all that remains of an ancient civilization that was punished and destroyed. This ancient city seems to resist the presence of any outsiders... It might even have something to do with those purple-black crystals, or that mud-like substance.\"<br>\"I stayed for a time, but I had to leave its ominous, upended silhouette behind.\"",
                 "Image": "UI_Codex_Scenery_JYDianDaoYiJiJieSuo"
             },
             {
                 "Name": "Crystal Fragment",
-                "Desc": "\"The crystal that was once here was the very same 'culprit' that caused the closure of The Chasm back then. Its strange movements have again caused the Ministry of Civil Affairs much distress.\"\n\"Fortunately, the Traveler was on hand to return it to a place deeper below, leaving us with nothing but this empty, grim hall of stone.\"",
+                "Desc": "\"The crystal that was once here was the very same 'culprit' that caused the closure of The Chasm back then. Its strange movements have again caused the Ministry of Civil Affairs much distress.\"<br>\"Fortunately, the Traveler was on hand to return it to a place deeper below, leaving us with nothing but this empty, grim hall of stone.\"",
                 "Image": "UI_Codex_Scenery_JYXiaoSuiPianJieSuo"
             },
             {
                 "Name": "Underground Waterway",
-                "Desc": "\"As I was exploring by myself, I discovered this waterway. The waters here are clean and cool, perfect for taking a break and wash all the ill-fortune accumulated on the way off.\"\n\"There are some gentle elemental creatures nearby who move most slowly, rare beings who have no quarrel with the rest of the world... I drew the waterway on the map. I hope the Traveler can follow it and find this place.\"",
+                "Desc": "\"As I was exploring by myself, I discovered this waterway. The waters here are clean and cool, perfect for taking a break and wash all the ill-fortune accumulated on the way off.\"<br>\"There are some gentle elemental creatures nearby who move most slowly, rare beings who have no quarrel with the rest of the world... I drew the waterway on the map. I hope the Traveler can follow it and find this place.\"",
                 "Image": "UI_Codex_Scenery_JYDiXiaShuiZe"
             },
             {
                 "Name": "The Blocked Path",
-                "Desc": "\"The miners sealed the tunnels that led further within when they dispersed, but they did leave one 'Mountainator' here.\"\n\"Perhaps it was the orders of the higher-ups... It's not as if it would be practical to separate Liyue's mercantile pursuits from Glazed Sand Crystal for too long.\"",
+                "Desc": "\"The miners sealed the tunnels that led further within when they dispersed, but they did leave one 'Mountainator' here.\"<br>\"Perhaps it was the orders of the higher-ups... It's not as if it would be practical to separate Liyue's mercantile pursuits from Glazed Sand Crystal for too long.\"",
                 "Image": "UI_Codex_Scenery_JYQianXianZhanDao"
             },
             {
                 "Name": "The Underground Mines",
-                "Desc": "\"I once grew up at the mines of Mingyun Village. The miners' rowdy labor, their joys and sorrows... Those encompassed my entire childhood.\"\n\"Looking upon these underground tunnels, far more vast yet silent and deserted, these memories of yesteryear resurface in my mind... albeit sadder and more lonesome.\"",
+                "Desc": "\"I once grew up at the mines of Mingyun Village. The miners' rowdy labor, their joys and sorrows... Those encompassed my entire childhood.\"<br>\"Looking upon these underground tunnels, far more vast yet silent and deserted, these memories of yesteryear resurface in my mind... albeit sadder and more lonesome.\"",
                 "Image": "UI_Codex_Scenery_JYKaiCaiKuangQuZhu"
             },
             {
                 "Name": "The Ancient Battlefield of Fuao Vale",
-                "Desc": "\"This is the site of the deadly battle between Azhdaha and Rex Lapis. I'm just a young and inexperienced adventurer, and writing is not my forte... But I cannot help but stand in awe of this place.\"\n\"How small we mortals are before time, which respects neither night nor day, or gods, who can shake heaven and earth...\"",
+                "Desc": "\"This is the site of the deadly battle between Azhdaha and Rex Lapis. I'm just a young and inexperienced adventurer, and writing is not my forte... But I cannot help but stand in awe of this place.\"<br>\"How small we mortals are before time, which respects neither night nor day, or gods, who can shake heaven and earth...\"",
                 "Image": "UI_Codex_Scenery_CYGuZhanChang"
             },
             {
                 "Name": "Mouth of the Great Mine",
-                "Desc": "\"The entrance to The Chasm's mines, known to the miners as 'The Chasm's Maw.' Since the latest earthquake, the tunnels, which were already sealed by the Qixing, have been even more treacherous and inscrutable than ever...\"\n\"But with the Traveler's help, the array sealing the opening has been broken. Let's just hope that the Qixing don't come down too hard on us...\"",
+                "Desc": "\"The entrance to The Chasm's mines, known to the miners as 'The Chasm's Maw.' Since the latest earthquake, the tunnels, which were already sealed by the Qixing, have been even more treacherous and inscrutable than ever...\"<br>\"But with the Traveler's help, the array sealing the opening has been broken. Let's just hope that the Qixing don't come down too hard on us...\"",
                 "Image": "UI_Codex_Scenery_CYJuYuanDongKouJieSuo"
             },
             {
                 "Name": "View from The Chasm's Surface",
-                "Desc": "\"When I first came here, the miraculous, terrifying geography silenced me... I have never forgotten the sense of utter awe and respect that I felt.\"\n\"But even such wondrous visions became monotonous after too much hustle and bustle on behalf of the Ministry of Civil Affairs...\"\n\"Speaking of which, I must thank the Traveler for helping me continue with my own adventure...\"",
+                "Desc": "\"When I first came here, the miraculous, terrifying geography silenced me... I have never forgotten the sense of utter awe and respect that I felt.\"<br>\"But even such wondrous visions became monotonous after too much hustle and bustle on behalf of the Ministry of Civil Affairs...\"<br>\"Speaking of which, I must thank the Traveler for helping me continue with my own adventure...\"",
                 "Image": "UI_Codex_Scenery_CYCengYanJuYuanZhu"
             },
             {
@@ -266,12 +266,12 @@ var _codex = [
         "Codex": [
             {
                 "Name": "Tsurumi Island",
-                "Desc": "\"Pirka chikappo! Kapatcir kamuy!\"\n\"We slumber together in a spider-silk nest of fog.\"",
+                "Desc": "\"Pirka chikappo! Kapatcir kamuy!\"<br>\"We slumber together in a spider-silk nest of fog.\"",
                 "Image": "UI_Codex_Scenery_DQ3heguan"
             },
             {
                 "Name": "Where the Provisional Head Priestess Lives",
-                "Desc": "\"Hibiki will return.\"\n\"The shrine looks wonderful now, thanks to you. She will return very soon.\"",
+                "Desc": "\"Hibiki will return.\"<br>\"The shrine looks wonderful now, thanks to you. She will return very soon.\"",
                 "Image": "UI_Codex_Scenery_DQ2qianlaishenshe"
             },
             {
@@ -291,7 +291,7 @@ var _codex = [
             },
             {
                 "Name": "Village of the People of the Deep",
-                "Desc": "An ancient village on Watatsumi Island. It is said that the ancestors of its people came from deep beneath the waves.\nIt is also an important rallying point for those who are opposed to the Vision Hunt Decree.",
+                "Desc": "An ancient village on Watatsumi Island. It is said that the ancestors of its people came from deep beneath the waves.<br>It is also an important rallying point for those who are opposed to the Vision Hunt Decree.",
                 "Image": "UI_Codex_Scenery_DQ2wanglongcun"
             },
             {
@@ -386,7 +386,7 @@ var _codex = [
             },
             {
                 "Name": "Forge of the Abandoned Foundry",
-                "Desc": "In the past, there were humans that yearned to use their own might to surpass the gods. This massive furnace stands as some manner of symbol relating to that desire.\nAlthough the ancient foundry has long been abandoned, the sparks within the forge yet flicker still.",
+                "Desc": "In the past, there were humans that yearned to use their own might to surpass the gods. This massive furnace stands as some manner of symbol relating to that desire.<br>Although the ancient foundry has long been abandoned, the sparks within the forge yet flicker still.",
                 "Image": "UI_Codex_Scenery_XMShenKengYiJiDaLuZi"
             },
             {
@@ -406,17 +406,17 @@ var _codex = [
             },
             {
                 "Name": "Remnants of the Ancient Orchard",
-                "Desc": "Before it fell into the dark valley rift, the great gate of Gurabad was once a place where poetry and beauty gathered.\nOnly the cream of the crop had the privilege of standing here and beholding the noble mortal lord...",
+                "Desc": "Before it fell into the dark valley rift, the great gate of Gurabad was once a place where poetry and beauty gathered.<br>Only the cream of the crop had the privilege of standing here and beholding the noble mortal lord...",
                 "Image": "UI_Codex_Scenery_XMjuerchengdamen"
             },
             {
                 "Name": "Liloupar's Gaol",
-                "Desc": "What sort of dire criminal did this prison that has now become an oasis once hold?\nAnd what changes will her awakening bring to the lonesome desert tribes?",
+                "Desc": "What sort of dire criminal did this prison that has now become an oasis once hold?<br>And what changes will her awakening bring to the lonesome desert tribes?",
                 "Image": "UI_Codex_Scenery_XMdashufang"
             },
             {
                 "Name": "Safhe Shatranj",
-                "Desc": "To the desert tribes, this abandoned, ruined square goes by the name \"Safhe Shatranj.\"\nResearchers believe that this was once a \"training field\" for ancient war machines.",
+                "Desc": "To the desert tribes, this abandoned, ruined square goes by the name \"Safhe Shatranj.\"<br>Researchers believe that this was once a \"training field\" for ancient war machines.",
                 "Image": "UI_Codex_Scenery_XMshenzhiqipan"
             },
             {
@@ -436,17 +436,17 @@ var _codex = [
             },
             {
                 "Name": "The Gap of the Hidden Ruins",
-                "Desc": "Mighty Gurabad and the monumental buildings raised in its heyday could not, in the end, escape falling into the dark valley rift.\nAnd as if their destruction was not humiliation enough, their mansions and estates would come to be nests for roving bandits...",
+                "Desc": "Mighty Gurabad and the monumental buildings raised in its heyday could not, in the end, escape falling into the dark valley rift.<br>And as if their destruction was not humiliation enough, their mansions and estates would come to be nests for roving bandits...",
                 "Image": "UI_Codex_Scenery_XMjurenxiagu"
             },
             {
                 "Name": "The Forgotten River Valley",
-                "Desc": "This great river valley once irrigated Panjvahe. Here, the nobles of Gurabad once sailed in ornate boats, releasing their sleek hunting falcons...\nBut even those proud hawks would devolve into the wild red vultures of the desert.",
+                "Desc": "This great river valley once irrigated Panjvahe. Here, the nobles of Gurabad once sailed in ornate boats, releasing their sleek hunting falcons...<br>But even those proud hawks would devolve into the wild red vultures of the desert.",
                 "Image": "UI_Codex_Scenery_XMtujiuchaoxue"
             },
             {
                 "Name": "The Lost Hermitage",
-                "Desc": "It is said that a friend of King Deshret once built their court in a great cavern beneath the dunes.\nWenut served here as court officials, and flying serpents as companions. But today, both creatures have lost their noble wit and vigor.",
+                "Desc": "It is said that a friend of King Deshret once built their court in a great cavern beneath the dunes.<br>Wenut served here as court officials, and flying serpents as companions. But today, both creatures have lost their noble wit and vigor.",
                 "Image": "UI_Codex_Scenery_XMcaolongdong"
             },
             {
@@ -461,27 +461,27 @@ var _codex = [
             },
             {
                 "Name": "The Palace Abandoned by the Gods",
-                "Desc": "The ruins of the temple of Gurabad. The desert songs say that long-lived giants once dwelled here.\nBut they were cast down into a rift in the earth within a single night, never to be seen again... and so did the great temple also become some ruins in a valley rift.",
+                "Desc": "The ruins of the temple of Gurabad. The desert songs say that long-lived giants once dwelled here.<br>But they were cast down into a rift in the earth within a single night, never to be seen again... and so did the great temple also become some ruins in a valley rift.",
                 "Image": "UI_Codex_Scenery_XMliushayiji"
             },
             {
                 "Name": "The Tanit Encampment",
-                "Desc": "Part of an ancient structure's ruins, once home to the ghosts of people of old...\nNow, it is the home of a desert tribe known as the Tanit.",
+                "Desc": "Part of an ancient structure's ruins, once home to the ghosts of people of old...<br>Now, it is the home of a desert tribe known as the Tanit.",
                 "Image": "UI_Codex_Scenery_XMheishi"
             },
             {
                 "Name": "The Moonblue Canals",
-                "Desc": "The ancient tales of the desert people tell of this place being the site where three canals met, nourishing fertile fields and rich gardens.\nBut nothing remains now of those halcyon days, only the dulled shades of a dream...",
+                "Desc": "The ancient tales of the desert people tell of this place being the site where three canals met, nourishing fertile fields and rich gardens.<br>But nothing remains now of those halcyon days, only the dulled shades of a dream...",
                 "Image": "UI_Codex_Scenery_XMsanyunhe"
             },
             {
                 "Name": "Mt. Damavand, Where Sandstorms Never Cease",
-                "Desc": "An unending sandstorm swirls at the heart of Mt. Damavand.\nThe desert people say that this sandstorm hides the location of the Eternal Oasis.",
+                "Desc": "An unending sandstorm swirls at the heart of Mt. Damavand.<br>The desert people say that this sandstorm hides the location of the Eternal Oasis.",
                 "Image": "UI_Codex_Scenery_XMshavbaoyuanjing"
             },
             {
                 "Name": "Verdant Fields' Vantage Point",
-                "Desc": "From the barren desert, you can behold the forest realm of hidden wisdom, its verdant silhouette secure behind the mighty wall that blocks out the sandstorms, coldly looking down its nose at the desert realm swept by searing winds...\nSurely, the vassal lords whose fragmented kingdoms survived King Deshret's fall must also have looked upon that land of plenty with bitter jealousy...",
+                "Desc": "From the barren desert, you can behold the forest realm of hidden wisdom, its verdant silhouette secure behind the mighty wall that blocks out the sandstorms, coldly looking down its nose at the desert realm swept by searing winds...<br>Surely, the vassal lords whose fragmented kingdoms survived King Deshret's fall must also have looked upon that land of plenty with bitter jealousy...",
                 "Image": "UI_Codex_Scenery_XMYuanTiaoXuMiCheng"
             },
             {
@@ -521,17 +521,17 @@ var _codex = [
             },
             {
                 "Name": "Thamud Oasis",
-                "Desc": "The golden-eyed Thamudians and the seven walls of their magnificent city-state rose up over the corpses of ancient kingdoms, and would itself be sucked down into the vortex of wars between nations and obliterated...\nThe short-lived kingdom has been lost for a long time, but the oases are still like gems that adorn the sea of sand, accommodating caravans and wanderers with springs and plants alike.",
+                "Desc": "The golden-eyed Thamudians and the seven walls of their magnificent city-state rose up over the corpses of ancient kingdoms, and would itself be sucked down into the vortex of wars between nations and obliterated...<br>The short-lived kingdom has been lost for a long time, but the oases are still like gems that adorn the sea of sand, accommodating caravans and wanderers with springs and plants alike.",
                 "Image": "UI_Codex_Scenery_XMLvZhou"
             },
             {
                 "Name": "Refugee Shelters",
-                "Desc": "The well-versed poets of Tulaytullah, \"the city of sapphire,\" Thamudian gladiators with golden eyes in Saleh, Jinn in Ay-Khanoum... Countless kingdoms that rose and fell after the great kingdom of King Deshret collapsed, together with their heroes and legends, were all immortalized in ancient nursery rhymes in this village, echoing around the children's beds...\nAfter all those years, the remnants of King Deshret have long muddled the boundaries between histories and myths, blending them all seamlessly into their memories...",
+                "Desc": "The well-versed poets of Tulaytullah, \"the city of sapphire,\" Thamudian gladiators with golden eyes in Saleh, Jinn in Ay-Khanoum... Countless kingdoms that rose and fell after the great kingdom of King Deshret collapsed, together with their heroes and legends, were all immortalized in ancient nursery rhymes in this village, echoing around the children's beds...<br>After all those years, the remnants of King Deshret have long muddled the boundaries between histories and myths, blending them all seamlessly into their memories...",
                 "Image": "UI_Codex_Scenery_XMARuCun"
             },
             {
                 "Name": "Towers of Betrayal",
-                "Desc": "These huge obelisks have been standing here since the death of King Deshret. The desert dwellers call them the \"Towers of Betrayal\" and regard them as symbols of shame that serve as constant reminders of the fact that the desert kings had broken their oath with King Deshret...\nThe obelisks' true history could date back to a period preceding that of those short-lived desert kingdoms, but it has unfortunately long been forgotten.",
+                "Desc": "These huge obelisks have been standing here since the death of King Deshret. The desert dwellers call them the \"Towers of Betrayal\" and regard them as symbols of shame that serve as constant reminders of the fact that the desert kings had broken their oath with King Deshret...<br>The obelisks' true history could date back to a period preceding that of those short-lived desert kingdoms, but it has unfortunately long been forgotten.",
                 "Image": "UI_Codex_Scenery_XMJuDaFangJianBei"
             },
             {
@@ -666,7 +666,7 @@ var _codex = [
             },
             {
                 "Name": "The Wreck of Shattered Dreams",
-                "Desc": "When an ideal is destroyed, its most important responsibility is to hold its peace.\nHowever, some seem to believe that this burning energy serves some other purpose...",
+                "Desc": "When an ideal is destroyed, its most important responsibility is to hold its peace.<br>However, some seem to believe that this burning energy serves some other purpose...",
                 "Image": "UI_Codex_Scenery_FDYiBianDaTing"
             },
             {
@@ -681,27 +681,27 @@ var _codex = [
             },
             {
                 "Name": "\"The Seaside Village\"",
-                "Desc": "Salsa once painted the scenery here.\nA beautiful seaside village whose peace and serenity evoke yearning for such a tranquil life in those who see it.",
+                "Desc": "Salsa once painted the scenery here.<br>A beautiful seaside village whose peace and serenity evoke yearning for such a tranquil life in those who see it.",
                 "Image": "UI_Codex_Scenery_FDXiaoZhen"
             },
             {
                 "Name": "\"Morning in the Beryl Mountains, Clear Weather\"",
-                "Desc": "Salsa once painted the scenery here.\nA clear morning in the Beryl Mountains, the dew left by the previous night's autumn winds has not yet evaporated...",
+                "Desc": "Salsa once painted the scenery here.<br>A clear morning in the Beryl Mountains, the dew left by the previous night's autumn winds has not yet evaporated...",
                 "Image": "UI_Codex_Scenery_FDJuShenHouShan"
             },
             {
                 "Name": "\"Fontaine Hot Springs\"",
-                "Desc": "Salsa once painted the scenery here.\nThrough the mist steaming upwards from the hot springs, towering Mont Automnequi rises into the clouds, with the Clementine Line piercing through its base.",
+                "Desc": "Salsa once painted the scenery here.<br>Through the mist steaming upwards from the hot springs, towering Mont Automnequi rises into the clouds, with the Clementine Line piercing through its base.",
                 "Image": "UI_Codex_Scenery_FDFeiTengHu"
             },
             {
                 "Name": "\"View From Mont Automnequi\"",
-                "Desc": "Salsa once painted the scenery here.\nFrom Mont Automnequi, one can see the ridge of Elynas. Beneath the peaks and lakes, the homeland of the Melusines is hidden.",
+                "Desc": "Salsa once painted the scenery here.<br>From Mont Automnequi, one can see the ridge of Elynas. Beneath the peaks and lakes, the homeland of the Melusines is hidden.",
                 "Image": "UI_Codex_Scenery_FDXiaoBaoDao"
             },
             {
                 "Name": "\"Memories of Mont Esus\"",
-                "Desc": "Salsa once painted the scenery here.\nThe gentle breeze winds through the flowery meadows in Mont Esus, setting the creaking arms of the windmill turning lazily. The peaceful and relaxed atmosphere here causes people to naturally find themselves dwelling on their most pleasant memories.",
+                "Desc": "Salsa once painted the scenery here.<br>The gentle breeze winds through the flowery meadows in Mont Esus, setting the creaking arms of the windmill turning lazily. The peaceful and relaxed atmosphere here causes people to naturally find themselves dwelling on their most pleasant memories.",
                 "Image": "UI_Codex_Scenery_FDLieShuiHouShan"
             },
             {
@@ -721,7 +721,7 @@ var _codex = [
             },
             {
                 "Name": "Land of Corroded Shadows and Tainted Currents",
-                "Desc": "A tainted shadow hidden beneath the clear waters of Fontaine, a place of rest for outcasts.\n\"Even the ashes and the dregs cast off by the sifting of the law all return to the same river.\"",
+                "Desc": "A tainted shadow hidden beneath the clear waters of Fontaine, a place of rest for outcasts.<br>\"Even the ashes and the dregs cast off by the sifting of the law all return to the same river.\"",
                 "Image": "UI_Codex_Scenery_FDXiaShuiDao"
             },
             {
@@ -736,7 +736,7 @@ var _codex = [
             },
             {
                 "Name": "Where Dark Tides Echo",
-                "Desc": "Where the Spina di Rosula was born. Just as a tiny chick that will one day become a soaring eagle is hatched from an egg, so are grand and radiant ambitions hatched in a dark and cramped place.\nThe people of Poisson are like the residents of the Fleuve Cendre, and from the history of these places they understand that some things are worth being, and indeed must be, fought for and bought by blood.",
+                "Desc": "Where the Spina di Rosula was born. Just as a tiny chick that will one day become a soaring eagle is hatched from an egg, so are grand and radiant ambitions hatched in a dark and cramped place.<br>The people of Poisson are like the residents of the Fleuve Cendre, and from the history of these places they understand that some things are worth being, and indeed must be, fought for and bought by blood.",
                 "Image": "UI_Codex_Scenery_FDYuSengZhen"
             },
             {

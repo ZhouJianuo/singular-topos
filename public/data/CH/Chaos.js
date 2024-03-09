@@ -6,7 +6,7 @@ var _chaos = [
         "Name": "白夜梦国记",
         "Buff": {
             "Name": "记忆紊流",
-            "Desc": "我方每次攻击后使敌方全体陷入1层【记忆印记】，处于【记忆印记】状态中的敌方目标受到的伤害提高<color style='color:#f29e38;'> 5.0% </color>，该效果最多叠加<color style='color:#f29e38;'> 6.0 </color>层。当【记忆印记】叠加至上限时，立即对敌方全体造成1次基于各自生命上限一定百分比的伤害。\n当敌方目标进入战斗时，若场上其他目标处于【记忆印记】状态，则使其获得同样层数的【记忆印记】。\n每个波次或轮开始时，清除敌方全体的【记忆印记】。"
+            "Desc": "我方每次攻击后使敌方全体陷入1层【记忆印记】，处于【记忆印记】状态中的敌方目标受到的伤害提高<color style='color:#f29e38;'> 5.0% </color>，该效果最多叠加<color style='color:#f29e38;'> 6.0 </color>层。当【记忆印记】叠加至上限时，立即对敌方全体造成1次基于各自生命上限一定百分比的伤害。<br>当敌方目标进入战斗时，若场上其他目标处于【记忆印记】状态，则使其获得同样层数的【记忆印记】。<br>每个波次或轮开始时，清除敌方全体的【记忆印记】。"
         },
         "Floors": [
             {
@@ -1274,7 +1274,7 @@ var _chaos = [
         "Name": "一晌荒宴",
         "Buff": {
             "Name": "记忆紊流",
-            "Desc": "每个波次或轮开始时，召唤1只扑满到场上，该扑满受到的普攻和持续伤害提高<color style='color:#f29e38;'> 200.0% </color>。\n在消灭扑满后，若敌方目标处于<color style='color:#f29e38;'>裂伤</color>、<color style='color:#f29e38;'>触电</color>、<color style='color:#f29e38;'>灼烧</color>或<color style='color:#f29e38;'>风化</color>状态，使其当前承受的对应状态立即产生相当于原伤害<color style='color:#f29e38;'> 50.0% </color>的伤害，并对敌方全体大概率施加裂伤、触电、灼烧、风化状态，持续<color style='color:#f29e38;'> 3.0 </color>回合。"
+            "Desc": "每个波次或轮开始时，召唤1只扑满到场上，该扑满受到的普攻和持续伤害提高<color style='color:#f29e38;'> 200.0% </color>。<br>在消灭扑满后，若敌方目标处于<color style='color:#f29e38;'>裂伤</color>、<color style='color:#f29e38;'>触电</color>、<color style='color:#f29e38;'>灼烧</color>或<color style='color:#f29e38;'>风化</color>状态，使其当前承受的对应状态立即产生相当于原伤害<color style='color:#f29e38;'> 50.0% </color>的伤害，并对敌方全体大概率施加裂伤、触电、灼烧、风化状态，持续<color style='color:#f29e38;'> 3.0 </color>回合。"
         },
         "Floors": [
             {
@@ -2544,7 +2544,7 @@ var _chaos = [
         "Name": "难舍梦乡",
         "Buff": {
             "Name": "记忆紊流",
-            "Desc": "我方全体普攻和战技造成的伤害提高<color style='color:#f29e38;'> 50.0% </color>，且每消耗1点战技点，为【记忆紊流】增加<color style='color:#f29e38;'> 1.0 </color>段攻击段数，最多增加<color style='color:#f29e38;'> 10.0 </color>段。\n每个轮开始时，每段攻击对随机敌方目标造成1次基于目标生命上限的伤害。"
+            "Desc": "我方全体普攻和战技造成的伤害提高<color style='color:#f29e38;'> 50.0% </color>，且每消耗1点战技点，为【记忆紊流】增加<color style='color:#f29e38;'> 1.0 </color>段攻击段数，最多增加<color style='color:#f29e38;'> 10.0 </color>段。<br>每个轮开始时，每段攻击对随机敌方目标造成1次基于目标生命上限的伤害。"
         },
         "Floors": [
             {
@@ -5050,7 +5050,7 @@ var _chaos = [
         "Name": "藏于深空之秘",
         "Buff": {
             "Name": "记忆紊流",
-            "Desc": "我方目标击破敌方目标弱点或攻击处于弱点击破状态的敌方目标后，为【记忆紊流】增加<color style='color:#f29e38;'> 1.0 </color>段攻击段数，最多叠加<color style='color:#f29e38;'> 10.0 </color>段。\n每个轮开始时，每段攻击对随机敌方目标造成1次基于目标生命上限的伤害。"
+            "Desc": "我方目标击破敌方目标弱点或攻击处于弱点击破状态的敌方目标后，为【记忆紊流】增加<color style='color:#f29e38;'> 1.0 </color>段攻击段数，最多叠加<color style='color:#f29e38;'> 10.0 </color>段。<br>每个轮开始时，每段攻击对随机敌方目标造成1次基于目标生命上限的伤害。"
         },
         "Floors": [
             {
@@ -6385,7 +6385,7 @@ var _chaos = [
         "Name": "饮月之乱",
         "Buff": {
             "Name": "记忆紊流",
-            "Desc": "我方目标施放终结技时，获得【记忆印记】，该效果最多叠加<color style='color:#f29e38;'> 10.0 </color>层。\n每个轮开始时，为我方全体恢复基于【记忆印记】层数的能量（每层恢复<color style='color:#f29e38;'> 10.0 </color>点能量），该效果恢复的能量可以超出目标的能量上限。"
+            "Desc": "我方目标施放终结技时，获得【记忆印记】，该效果最多叠加<color style='color:#f29e38;'> 10.0 </color>层。<br>每个轮开始时，为我方全体恢复基于【记忆印记】层数的能量（每层恢复<color style='color:#f29e38;'> 10.0 </color>点能量），该效果恢复的能量可以超出目标的能量上限。"
         },
         "Floors": [
             {
@@ -7476,7 +7476,7 @@ var _chaos = [
         "Name": "万载盟誓",
         "Buff": {
             "Name": "记忆紊流",
-            "Desc": "我方目标施放战技或终结技进行攻击后，为【记忆紊流】增加<color style='color:#f29e38;'> 1.0 </color>段攻击段数，最多叠加<color style='color:#f29e38;'> 10.0 </color>段。\n每个轮开始时，每段攻击对随机敌方目标造成1次基于目标生命上限的伤害。"
+            "Desc": "我方目标施放战技或终结技进行攻击后，为【记忆紊流】增加<color style='color:#f29e38;'> 1.0 </color>段攻击段数，最多叠加<color style='color:#f29e38;'> 10.0 </color>段。<br>每个轮开始时，每段攻击对随机敌方目标造成1次基于目标生命上限的伤害。"
         },
         "Floors": [
             {
@@ -10868,7 +10868,7 @@ var _chaos = [
         "Name": "生劫火劫",
         "Buff": {
             "Name": "记忆紊流",
-            "Desc": "我方相同目标连续行动时，获得1层【记忆印记】。【记忆印记】的持有者施放攻击后，每层【记忆印记】有<color style='color:#f29e38;'> 40.0% </color>固定概率使目标陷入【离神】 状态，持续1回合。拥有【记忆印记】的目标造成的伤害提高<color style='color:#f29e38;'> 40.0% </color>，该效果不可以叠加。在行动者改变后，移除场上所有【记忆印记】。\n【离神】：被视为冻结状态，期间无法行动，当该状态解除时，目标受到等同于生命上限<color style='color:#f29e38;'> 15.0% </color>的冰属性附加伤害。"
+            "Desc": "我方相同目标连续行动时，获得1层【记忆印记】。【记忆印记】的持有者施放攻击后，每层【记忆印记】有<color style='color:#f29e38;'> 40.0% </color>固定概率使目标陷入【离神】 状态，持续1回合。拥有【记忆印记】的目标造成的伤害提高<color style='color:#f29e38;'> 40.0% </color>，该效果不可以叠加。在行动者改变后，移除场上所有【记忆印记】。<br>【离神】：被视为冻结状态，期间无法行动，当该状态解除时，目标受到等同于生命上限<color style='color:#f29e38;'> 15.0% </color>的冰属性附加伤害。"
         },
         "Floors": [
             {
@@ -18419,7 +18419,7 @@ var _chaos = [
         "Name": "孤航天海",
         "Buff": {
             "Name": "记忆紊流",
-            "Desc": "我方目标受到攻击或消耗生命值时，获得1层【记忆印记】。每层【记忆印记】使目标受到的伤害降低<color style='color:#f29e38;'> 12.0% </color>，该效果最多叠加<color style='color:#f29e38;'> 3.0 </color>层。\n每个轮开始时，依据我方目标当前最高的【记忆印记】层数对敌方全体造成固定数值的伤害，并解除我方全体所有的【记忆印记】。"
+            "Desc": "我方目标受到攻击或消耗生命值时，获得1层【记忆印记】。每层【记忆印记】使目标受到的伤害降低<color style='color:#f29e38;'> 12.0% </color>，该效果最多叠加<color style='color:#f29e38;'> 3.0 </color>层。<br>每个轮开始时，依据我方目标当前最高的【记忆印记】层数对敌方全体造成固定数值的伤害，并解除我方全体所有的【记忆印记】。"
         },
         "Floors": [
             {
@@ -24499,7 +24499,7 @@ var _chaos = [
                 ],
                 "Buff": {
                     "Name": "记忆紊流",
-                    "Desc": "敌方全体受到的<color style='color:#f29e38;'>持续伤害</color>提高<color style='color:#f29e38;'> 50.0% </color>。\n每个轮开始时，大概率对敌方全体施加<color style='color:#f29e38;'>裂伤</color>、<color style='color:#f29e38;'>触电</color>、<color style='color:#f29e38;'>灼烧</color>、<color style='color:#f29e38;'>风化</color>状态，持续<color style='color:#f29e38;'> 2.0 </color>回合。"
+                    "Desc": "敌方全体受到的<color style='color:#f29e38;'>持续伤害</color>提高<color style='color:#f29e38;'> 50.0% </color>。<br>每个轮开始时，大概率对敌方全体施加<color style='color:#f29e38;'>裂伤</color>、<color style='color:#f29e38;'>触电</color>、<color style='color:#f29e38;'>灼烧</color>、<color style='color:#f29e38;'>风化</color>状态，持续<color style='color:#f29e38;'> 2.0 </color>回合。"
                 }
             },
             {
@@ -24872,7 +24872,7 @@ var _chaos = [
                 ],
                 "Buff": {
                     "Name": "记忆紊流",
-                    "Desc": "每个轮开始时，召唤2名<color style='color:#f29e38;'>魔阴身士卒</color>或<color style='color:#f29e38;'>丰饶灵兽•娄金</color>。\n敌方目标被消灭后，对敌方全体造成<color style='color:#f29e38;'>固定数值的伤害</color>。"
+                    "Desc": "每个轮开始时，召唤2名<color style='color:#f29e38;'>魔阴身士卒</color>或<color style='color:#f29e38;'>丰饶灵兽•娄金</color>。<br>敌方目标被消灭后，对敌方全体造成<color style='color:#f29e38;'>固定数值的伤害</color>。"
                 }
             },
             {
@@ -25012,7 +25012,7 @@ var _chaos = [
                 ],
                 "Buff": {
                     "Name": "记忆紊流",
-                    "Desc": "我方目标对我方任意目标<color style='color:#f29e38;'>施放战技</color>后，解除被施放战技目标的1个<color style='color:#f29e38;'>负面效果</color>。每解除1个我方目标的<color style='color:#f29e38;'>负面效果</color>，使我方全体造成的伤害提高<color style='color:#f29e38;'> 20.0% </color>，该效果最多叠加<color style='color:#f29e38;'> 10.0 </color>层。\n在最终波次中消灭<color style='color:#f29e38;'>精英级别及以上的敌方目标</color>，将直接获得胜利。"
+                    "Desc": "我方目标对我方任意目标<color style='color:#f29e38;'>施放战技</color>后，解除被施放战技目标的1个<color style='color:#f29e38;'>负面效果</color>。每解除1个我方目标的<color style='color:#f29e38;'>负面效果</color>，使我方全体造成的伤害提高<color style='color:#f29e38;'> 20.0% </color>，该效果最多叠加<color style='color:#f29e38;'> 10.0 </color>层。<br>在最终波次中消灭<color style='color:#f29e38;'>精英级别及以上的敌方目标</color>，将直接获得胜利。"
                 }
             }
         ]
