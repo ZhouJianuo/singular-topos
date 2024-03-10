@@ -358,7 +358,7 @@ $(function () {
                             }, {
                                 ul: {
                                     li: [{
-                                        p: `[[ShockWaveDesc}]]`
+                                        p: `[[ShockWaveDesc]]`
                                     }, {
                                         ul: {
                                             li: {
