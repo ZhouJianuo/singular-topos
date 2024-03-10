@@ -38255,7 +38255,7 @@ var _AvatarSkillConfig = {
             {
                 "Level": 6,
                 "Name": "Sole Principle Pursuit",
-                "Desc": "After triggering a follow-up effect of the Passive Talent \"Tailor-Made,\" Chiori's own <color style='color:#FFD780;'>Fluttering Hasode</color>'s CD is decreased by 12s. Must unlock the Passive \"Tailor-Made\" first.<br>In addition, the DMG dealt by Chiori's own Normal Attacks is increased by an amount equal to 235% of her own DEF.",
+                "Desc": "The DMG dealt by Chiori's Normal Attacks is increased by an amount equal to 235% of her DEF.<br>If the Passive \"Tailor-Made\" is unlocked, after triggering any follow-up effect of \"Tailor-Made,\" the CD of <color style='color:#FFD780;'>Fluttering Hasode</color> is decreased by 12s.",
                 "Icon": "UI_Talent_S_Chiori_04"
             }
         ]

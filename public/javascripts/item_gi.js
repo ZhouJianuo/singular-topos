@@ -72,7 +72,7 @@ $(function () {
                         section: [
                             {
                                 schedule: {
-                                    img: imgpre + 'images/Item/UI_ItemIcon_113002.png',
+                                    img: imgpre + 'homdgcat-res/Mat/UI_ItemIcon_113002.png',
                                 },
                                 class: (I_TYPE == '1') ? 'active' : '',
                                 a: {
@@ -81,7 +81,7 @@ $(function () {
                             },
                             {
                                 schedule: {
-                                    img: imgpre + 'images/Item/UI_ItemIcon_112040.png',
+                                    img: imgpre + 'homdgcat-res/Mat/UI_ItemIcon_112040.png',
                                 },
                                 class: (I_TYPE == '2') ? 'active' : '',
                                 a: {
@@ -90,7 +90,7 @@ $(function () {
                             },
                             {
                                 schedule: {
-                                    img: imgpre + 'images/Item/UI_ItemIcon_104312.png',
+                                    img: imgpre + 'homdgcat-res/Mat/UI_ItemIcon_104312.png',
                                 },
                                 class: (I_TYPE == '3') ? 'active' : '',
                                 a: {
@@ -99,7 +99,7 @@ $(function () {
                             },
                             {
                                 schedule: {
-                                    img: imgpre + 'images/Item/UI_ItemIcon_114020.png',
+                                    img: imgpre + 'homdgcat-res/Mat/UI_ItemIcon_114020.png',
                                 },
                                 class: (I_TYPE == '4') ? 'active' : '',
                                 a: {
@@ -108,7 +108,7 @@ $(function () {
                             },
                             {
                                 schedule: {
-                                    img: imgpre + 'images/Item/UI_ItemIcon_100058.png',
+                                    img: imgpre + 'homdgcat-res/Mat/UI_ItemIcon_100058.png',
                                 },
                                 class: (I_TYPE == '5') ? 'active' : '',
                                 a: {
@@ -117,7 +117,7 @@ $(function () {
                             },
                             {
                                 schedule: {
-                                    img: imgpre + 'images/Item/UI_NameCardIcon_Keqing.png',
+                                    img: imgpre + 'homdgcat-res/Mat/UI_NameCardIcon_Keqing.png',
                                 },
                                 class: (I_TYPE == '6') ? 'active' : '',
                                 a: {
@@ -126,7 +126,7 @@ $(function () {
                             },
                             {
                                 schedule: {
-                                    img: imgpre + 'images/Item/UI_ItemIcon_108126.png',
+                                    img: imgpre + 'homdgcat-res/Mat/UI_ItemIcon_108126.png',
                                 },
                                 class: (I_TYPE == '7') ? 'active' : '',
                                 a: {
@@ -135,7 +135,7 @@ $(function () {
                             },
                             {
                                 schedule: {
-                                    img: imgpre + 'images/Item/UI_ItemIcon_110014.png',
+                                    img: imgpre + 'homdgcat-res/Mat/UI_ItemIcon_110014.png',
                                 },
                                 class: (I_TYPE == '8') ? 'active' : '',
                                 a: {
@@ -179,7 +179,7 @@ $(function () {
                 div: [
                     {
                         div: {
-                            img: imgpre + 'images/Item/' + t.Icon + '.png',
+                            img: imgpre + 'homdgcat-res/Mat/' + t.Icon + '.png',
                             class: 'item-icon',
                             when: (t.Icon != undefined) && (t.Icon != '')
                         },
@@ -221,7 +221,7 @@ $(function () {
             width: '95%',
             template: [
                 {
-                    img: imgpre + (this_item.Pic ? ('homdgcat-res/Avatar/' + this_item.Pic + '.png') : ('images/Item/' + this_item.Icon + '.png')),
+                    img: imgpre + (this_item.Pic ? ('homdgcat-res/Avatar/' + this_item.Pic + '.png') : ('homdgcat-res/Mat/' + this_item.Icon + '.png')),
                     class: 'icon'
                 },
                 {
@@ -288,7 +288,7 @@ $(function () {
                 $('.recipe').render({
                     div: [
                         {
-                            img: imgpre + 'images/Item/UI_ItemIcon_' + this_recipe[j] + '.png'
+                            img: imgpre + 'homdgcat-res/Mat/UI_ItemIcon_' + this_recipe[j] + '.png'
                         },
                         {
                             span: this_recipe[j + 1].toString(),

@@ -87,7 +87,7 @@ $(function () {
                         div: {
                             img: function (k) {
                                 if (_items[k.data].Type == 1) return imgpre + 'homdgcat-res/Weapon/' + _items[k.data].Icon + '.png'
-                                return imgpre + 'images/Item/' + _items[k.data].Icon + '.png'
+                                return imgpre + 'homdgcat-res/Mat/' + _items[k.data].Icon + '.png'
                             },
                             data: t.Reward,
                             class: 'hover-shadow-',
@@ -210,7 +210,7 @@ $(function () {
             width: '90%',
             template: [
                 {
-                    img: imgpre + (this_item.Pic ? ('homdgcat-res/Avatar/' + this_item.Pic + '.png') : ('images/Item/' + this_item.Icon + '.png')),
+                    img: imgpre + (this_item.Pic ? ('homdgcat-res/Avatar/' + this_item.Pic + '.png') : ('homdgcat-res/Mat/' + this_item.Icon + '.png')),
                     class: 'icon',
                 },
                 {
