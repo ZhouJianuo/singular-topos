@@ -12249,15 +12249,15 @@ var _Monsters = {
             {
                 "Name": "(Ousia Power) Crystal Waves *Undodgable",
                 "DMG": [
-                    4.8,
-                    4.8,
-                    4.8
+                    7.2,
+                    7.2,
+                    7.2
                 ]
             },
             {
                 "Name": "(Ousia Power) Continuous Ground Spurt",
                 "DMG": [
-                    3.84
+                    6.48
                 ]
             }
         ],
