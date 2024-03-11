@@ -25511,11 +25511,11 @@ var _SpiralAbyssFloorConfig = {
                                 "ID": 20101,
                                 "Num": 1,
                                 "Affix": [
-                                    5002,
+                                    5001,
                                     1028
                                 ],
                                 "Note": {
-                                    "Text": "阴燃之火<br><color style='color:#808080;'>防护强化</color>",
+                                    "Text": "阴燃之火<br><color style='color:#808080;'>强攻强化</color>",
                                     "Color": "Fire"
                                 },
                                 "Pos": [

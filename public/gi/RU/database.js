@@ -25511,11 +25511,11 @@ var _SpiralAbyssFloorConfig = {
                                 "ID": 20101,
                                 "Num": 1,
                                 "Affix": [
-                                    5002,
+                                    5001,
                                     1028
                                 ],
                                 "Note": {
-                                    "Text": "Smoldering Flames<br><color style='color:#808080;'>Defense Enhance</color>",
+                                    "Text": "Smoldering Flames<br><color style='color:#808080;'>Attack Enhance</color>",
                                     "Color": "Fire"
                                 },
                                 "Pos": [
