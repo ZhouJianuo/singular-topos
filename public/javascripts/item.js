@@ -255,7 +255,7 @@ $(function () {
                 {
                     div: {
                         p: function (k) {
-                            return '- ' + k.data
+                            return k.data
                         },
                         class: 'desc',
                         data: this_item.Src,

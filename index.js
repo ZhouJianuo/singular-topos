@@ -413,6 +413,16 @@ app.get('/sr/rec', async (req, res) => {
     res.render('rec', result);
 });
 
+app.get('/sr/mission/', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = id;
+    result.imgpre = '../../';
+    result.title = 'HomDGCat Wiki';
+    res.render('mission', result);
+});
+
 app.get('/sr/mission', async (req, res) => {
     let result = {};
     let { lang = '', id = '' } = req.query;
@@ -422,6 +432,17 @@ app.get('/sr/mission', async (req, res) => {
     result.title = 'HomDGCat Wiki';
     res.render('mission', result);
 });
+
+app.get('/sr/message/', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = id;
+    result.imgpre = '../../';
+    result.title = 'HomDGCat Wiki';
+    res.render('message', result);
+});
+
 
 app.get('/sr/message', async (req, res) => {
     let result = {};
@@ -811,6 +832,15 @@ app.get('/gi/gcg/:id', async (req, res) => {
     res.render('gcg', result);
 });
 
+app.get('/gi/quest/', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = id;
+    result.imgpre = '../../';
+    res.render('quest', result);
+});
+
 app.get('/gi/quest', async (req, res) => {
     let result = {};
     let { lang = '', id = '' } = req.query;
@@ -818,6 +848,24 @@ app.get('/gi/quest', async (req, res) => {
     result.avid = id;
     result.imgpre = '../';
     res.render('quest', result);
+});
+
+app.get('/gi/quest/:id', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = req.params.id;
+    result.imgpre = '../../';
+    res.render('quest_2', result);
+});
+
+app.get('/gi/teapot/', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = id;
+    result.imgpre = '../../';
+    res.render('teapot', result);
 });
 
 app.get('/gi/teapot', async (req, res) => {

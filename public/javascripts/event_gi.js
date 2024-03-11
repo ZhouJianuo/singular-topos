@@ -205,6 +205,10 @@ $(function () {
 
     function popItem(y) {
         this_item = _items[y]
+        if (this_item.Link) {
+            window.open(`item/${this_item._id}`)
+            return
+        }
         poplayer({
             header: VER_GI + computer_.MiscText.Affix[lang2],
             width: '90%',
@@ -235,7 +239,7 @@ $(function () {
                 {
                     div: {
                         p: function (k) {
-                            return '- ' + k.data
+                            return k.data
                         },
                         class: 'desc',
                         data: this_item.Src,

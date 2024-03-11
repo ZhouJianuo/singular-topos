@@ -67,6 +67,10 @@ popheader {
     overflow: hidden;
 }
 
+.path {
+    margin-bottom: 10px
+}
+
 .path schedule {
     background-color: #27363e;
     width: 80px;
@@ -114,6 +118,10 @@ section {
     width: calc(100% - 20px);
 }
 
+.avatar-card p {
+    text-align: center;
+}
+
 .name {
     font-size: 18px;
     text-align: center;
@@ -131,7 +139,50 @@ section {
     margin: 0px 0px 10px 0px;
 }
 
+.avatar-card {
+    border-radius: 5px;
+    padding: 14px;
+    margin-top: 7px;
+    margin-bottom: 13px;
+    width: calc(50% - 15px);
+    line-height: 2;
+    background-color: #27363E;
+    color: #dddddd;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+}
+
+.avatar-head {
+    width: 90%;
+    margin: auto;
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 6px;
+    max-width: 150px;
+}
+
+.avatar-head2 {
+    width: 90%;
+    margin: auto;
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 6px;
+    max-width: 150px;
+}
+
+.avatar-head img {
+    width: 80%;
+}
+
+.avatar-head2 img {
+    width: 80%;
+}
+
 @media screen and (min-width: 500px) and (max-width: 800px) {
+    .avatar-card {
+        width: calc(33% - 10px);
+    }
     .name {
         font-size: 19px;
     }
@@ -160,5 +211,17 @@ section {
     .image {
         width: calc(100% - 20px);
         margin: 10px;
+    }
+}
+
+@media screen and (min-width: 800px) and (max-width: 1000px) {
+    .avatar-card {
+        width: calc(25% - 12px);
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .avatar-card {
+        width: calc(20% - 14px);
     }
 }

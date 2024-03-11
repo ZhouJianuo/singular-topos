@@ -334,7 +334,8 @@ var _items = {
             "Check the Enemies Tab in the Adventurer Handbook",
             "Purchase from the Souvenir Shop"
         ],
-        "Icon": "UI_ItemIcon_104111"
+        "Icon": "UI_ItemIcon_104111",
+        "Link": 1
     },
     "104112": {
         "_id": 104112,
@@ -345,7 +346,8 @@ var _items = {
             "Check the Enemies Tab in the Adventurer Handbook",
             "Crafted"
         ],
-        "Icon": "UI_ItemIcon_104112"
+        "Icon": "UI_ItemIcon_104112",
+        "Link": 1
     },
     "104302": {
         "_id": 104302,
@@ -355,7 +357,8 @@ var _items = {
         "Src": [
             "Crafted"
         ],
-        "Icon": "UI_ItemIcon_104302"
+        "Icon": "UI_ItemIcon_104302",
+        "Link": 1
     },
     "104303": {
         "_id": 104303,
@@ -365,7 +368,8 @@ var _items = {
         "Src": [
             "Crafted"
         ],
-        "Icon": "UI_ItemIcon_104303"
+        "Icon": "UI_ItemIcon_104303",
+        "Link": 1
     },
     "104319": {
         "_id": 104319,
@@ -375,7 +379,8 @@ var _items = {
         "Src": [
             "Limited-Duration Event Reward"
         ],
-        "Icon": "UI_ItemIcon_104319"
+        "Icon": "UI_ItemIcon_104319",
+        "Link": 1
     },
     "105002": {
         "_id": 105002,
@@ -393,7 +398,8 @@ var _items = {
         "Src": [
             "Crafted"
         ],
-        "Icon": "UI_ItemIcon_114003"
+        "Icon": "UI_ItemIcon_114003",
+        "Link": 1
     },
     "114038": {
         "_id": 114038,
@@ -403,7 +409,8 @@ var _items = {
         "Src": [
             "Crafted"
         ],
-        "Icon": "UI_ItemIcon_114038"
+        "Icon": "UI_ItemIcon_114038",
+        "Link": 1
     },
     "114042": {
         "_id": 114042,
@@ -413,7 +420,8 @@ var _items = {
         "Src": [
             "Crafted"
         ],
-        "Icon": "UI_ItemIcon_114042"
+        "Icon": "UI_ItemIcon_114042",
+        "Link": 1
     },
     "114046": {
         "_id": 114046,
@@ -423,7 +431,8 @@ var _items = {
         "Src": [
             "Crafted"
         ],
-        "Icon": "UI_ItemIcon_114046"
+        "Icon": "UI_ItemIcon_114046",
+        "Link": 1
     },
     "114050": {
         "_id": 114050,
@@ -433,7 +442,8 @@ var _items = {
         "Src": [
             "Crafted"
         ],
-        "Icon": "UI_ItemIcon_114050"
+        "Icon": "UI_ItemIcon_114050",
+        "Link": 1
     },
     "114054": {
         "_id": 114054,
@@ -443,7 +453,8 @@ var _items = {
         "Src": [
             "Crafted"
         ],
-        "Icon": "UI_ItemIcon_114054"
+        "Icon": "UI_ItemIcon_114054",
+        "Link": 1
     },
     "114058": {
         "_id": 114058,
@@ -453,7 +464,8 @@ var _items = {
         "Src": [
             "Crafted"
         ],
-        "Icon": "UI_ItemIcon_114058"
+        "Icon": "UI_ItemIcon_114058",
+        "Link": 1
     },
     "390524": {
         "_id": 390524,

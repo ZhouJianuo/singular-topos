@@ -85,6 +85,11 @@ var computer_ = {
             "EN": "<a class='translate_' href='/gi/gcg?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/gcg?lang=RU'><b>Русский</b></a>",
             "RU": "<a class='translate_' href='/gi/gcg?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/gcg?lang=EN'><b>English</b></a> | <b>Русский</b>"
         },
+        "Translate_": {
+            "CH": "<b>中文</b> | <a class='translate_' href='?lang=EN'><b>English</b></a> | <a class='translate_' href='?lang=RU'><b>Русский</b></a>",
+            "EN": "<a class='translate_' href='?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='?lang=RU'><b>Русский</b></a>",
+            "RU": "<a class='translate_' href='?lang=CH'><b>中文</b></a> | <a class='translate_' href='?lang=EN'><b>English</b></a> | <b>Русский</b>"
+        },
         "Abyss_Reminder": {
             "CH": "<color style='color:#0066FF;'>玉衡杯数据库 abyss.wiki</color>",
             "EN": "<color style='color:#0066FF;'>homdgcat.wiki | t.me/homdgcat</color>",
