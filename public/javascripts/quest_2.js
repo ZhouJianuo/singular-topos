@@ -20,6 +20,9 @@ $(function () {
         }
     ]);
 
+    var l1 = 0
+    var l2 = 0
+
     let script_computer = document.createElement('script')
     script_computer.src = '/gi/' + lang2 + '/quest/chapter_' + avid + '.js'
     document.head.append(script_computer)
