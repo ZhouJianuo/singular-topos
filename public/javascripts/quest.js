@@ -102,7 +102,7 @@ $(function () {
                         div: {
                             img: imgpre + 'images/ChapterIcon/' + t.Icon + '.png',
                         },
-                        when: (t.Tab == "") && t.Icon,
+                        when: (t.Tab == "") && (t.Icon != ""),
                         class: 'avatar-head2'
                     },
                     {

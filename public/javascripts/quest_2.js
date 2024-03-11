@@ -87,7 +87,7 @@ $(function () {
                                     div: {
                                         img: imgpre + 'images/ChapterIcon/' + _mq.Icon + '.png',
                                     },
-                                    when: (_mq.Tab == "") && _mq.Icon,
+                                    when: (_mq.Tab == "") && (_mq.Icon != ""),
                                     class: 'weapon_left'
                                 },
                                 {
