@@ -77,14 +77,14 @@ $(function () {
                                     div: {
                                         img: imgpre + 'images/ChapterIcon/' + _mq.Tab + '.png',
                                     },
-                                    when: false,
+                                    when: _mq.Tab != "",
                                     class: 'weapon_left'
                                 },
                                 {
                                     div: {
                                         img: imgpre + 'images/ChapterIcon/' + _mq.Icon + '.png',
                                     },
-                                    when: true,
+                                    when: (_mq.Tab == "") && _mq.Icon,
                                     class: 'weapon_left'
                                 },
                                 {

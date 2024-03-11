@@ -2013,7 +2013,7 @@ var _chapter = [
         "Num": "",
         "Title": "",
         "IT": "",
-        "Tab": "UI_LegendQuestImg_Qiqi",
+        "Tab": "",
         "Icon": "UI_ChapterIcon_Qiqi",
         "Intro": ""
     },

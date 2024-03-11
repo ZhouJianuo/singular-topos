@@ -153,13 +153,12 @@ section {
     cursor: pointer;
 }
 
-.avatar-head {
+.avatar-head1 {
     width: 90%;
     margin: auto;
     display: block;
     margin-bottom: 10px;
     margin-top: 6px;
-    max-width: 150px;
 }
 
 .avatar-head2 {
@@ -171,8 +170,8 @@ section {
     max-width: 150px;
 }
 
-.avatar-head img {
-    width: 80%;
+.avatar-head1 img {
+    width: 100%;
 }
 
 .avatar-head2 img {

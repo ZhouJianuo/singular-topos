@@ -95,14 +95,14 @@ $(function () {
                         div: {
                             img: imgpre + 'images/ChapterIcon/' + t.Tab + '.png',
                         },
-                        when: false,
+                        when: t.Tab != "",
                         class: 'avatar-head1'
                     },
                     {
                         div: {
                             img: imgpre + 'images/ChapterIcon/' + t.Icon + '.png',
                         },
-                        when: true,
+                        when: (t.Tab == "") && t.Icon,
                         class: 'avatar-head2'
                     },
                     {

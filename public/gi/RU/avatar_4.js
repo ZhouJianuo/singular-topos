@@ -36292,106 +36292,106 @@ var _AvatarTeapotTalk = {
                     690940418
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "We can start whenever you're ready. I've got my own pair of hagoita that I can use."
             },
             "690940417": {
                 "Next": [
                     690940419
                 ],
                 "Type": 0,
-                "Text": ""
+                "Text": "...You're gonna use both?"
             },
             "690940418": {
                 "Next": [
                     690940419
                 ],
                 "Type": 0,
-                "Text": ""
+                "Text": "...Isn't that a bit unfair?"
             },
             "690940419": {
                 "Next": [
                     690940420
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "There's nothing in the rules that says you can't use two. I use twin blades in combat, what's so strange about using twin hagoita?"
             },
             "690940420": {
                 "Next": [
                     690940421
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "You can go ahead and use four hagoita against me, if you want. I don't mind."
             },
             "690940421": {
                 "Next": [
                     690940422
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Unless... you'd rather forfeit right now?"
             },
             "690940422": {
                 "Next": [
                     690940423
                 ],
                 "Type": 0,
-                "Text": ""
+                "Text": "...I just hope you're not a sore loser!"
             },
             "690940423": {
                 "Next": [
                     690940424
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Oh, don't you worry about that. Even though the Chioriya brand is all about never admitting defeat, I have no problem with accepting a loss in a game between friends."
             },
             "690940424": {
                 "Next": [],
                 "Type": 1,
-                "Text": ""
+                "Text": "On one condition, of course... You have to actually beat me first."
             },
             "690940501": {
                 "Next": [
                     690940502
                 ],
                 "Type": 0,
-                "Text": ""
+                "Text": "Good morning, Chiori."
             },
             "690940502": {
                 "Next": [
                     690940503
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Morning. I'm still waking up... Need to make myself some coffee."
             },
             "690940503": {
                 "Next": [],
                 "Type": 1,
-                "Text": ""
+                "Text": "Mind if I borrow your kitchen? I promise I'll clean up afterwards."
             },
             "690940601": {
                 "Next": [
                     690940602
                 ],
                 "Type": 0,
-                "Text": ""
+                "Text": "Good night, Chiori."
             },
             "690940602": {
                 "Next": [
                     690940603
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Another day, gone... How time flies."
             },
             "690940603": {
                 "Next": [],
                 "Type": 1,
-                "Text": ""
+                "Text": "I'm gonna take another look at my pattern pieces. Go get some rest — no need to wait up for me."
             },
             "690940101": {
                 "Next": [
                     690940102
                 ],
                 "Type": 1,
-                "Text": "",
+                "Text": "Ah, you're here, Traveller. I sort of assumed that you didn't make it home very often.",
                 "TNext": [
                     690940201,
                     690940301,
@@ -36403,40 +36403,40 @@ var _AvatarTeapotTalk = {
             "690940102": {
                 "Next": [],
                 "Type": 1,
-                "Text": ""
+                "Text": "So, how are the travels going? Anything exciting happen lately? Your stories might be just the inspiration I need."
             },
             "690940701": {
                 "Next": [
                     690940702
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "I haven't seen such a fine hot spring since before I left Inazuma... I've missed this."
             },
             "690940702": {
                 "Next": [
                     690940703
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "I got into the habit of taking a dip every day after work back when I still lived there. It's something I still enjoy... although in Fontaine, I'm limited to the humble bathtub in my home."
             },
             "690940703": {
                 "Next": [],
                 "Type": 1,
-                "Text": ""
+                "Text": "I'm gonna go ahead and jump in. Is there anywhere to put my clothes? Or shall I just fold them up and leave them on the ground?"
             },
             "690940201": {
                 "Next": [
                     690940202
                 ],
                 "Type": 0,
-                "Text": ""
+                "Text": "How do you like it here?"
             },
             "690940202": {
                 "Next": [
                     690940203
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "It's pretty good. Pleasant scenery, calm atmosphere... Good place to rest and rejuvenate your body and mind."
             },
             "690940203": {
                 "Next": [
@@ -36444,129 +36444,129 @@ var _AvatarTeapotTalk = {
                     690940209
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Sometimes, when I get sick of being in the Court of Fontaine, I get a strong urge to head off somewhere else for a while, and get a change of scenery. Somewhere without unruly customers, or tabloids spreading lies."
             },
             "690940204": {
                 "Next": [
                     690940205
                 ],
                 "Type": 0,
-                "Text": ""
+                "Text": "Any places you've already been?"
             },
             "690940205": {
                 "Next": [
                     690940206
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Oh yeah, loads. It was a long journey from Inazuma to Fontaine, after all."
             },
             "690940206": {
                 "Next": [
                     690940207
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "The wines and ballads of Mondstadt, the prosperous commercial hub that's Liyue Harbor, the bustling Grand Bazaar and the never-ending desert in Sumeru... I've seen it all."
             },
             "690940207": {
                 "Next": [
                     690940208
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "One thing I liked to do was head to the liveliest spot in town, find a seat, and just sit there people-watching all day. I wanted to get a sense of the local atmosphere, see the clothes people wore, imagine what kind of lives they lived..."
             },
             "690940208": {
                 "Next": [
                     690940213
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "I sometimes feel like to this day, most of the inspiration for my designs still comes from the things I saw back then on my travels... You of all people probably get what I'm talking about."
             },
             "690940209": {
                 "Next": [
                     690940210
                 ],
                 "Type": 0,
-                "Text": ""
+                "Text": "Where would you like to go?"
             },
             "690940210": {
                 "Next": [
                     690940211
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Somewhere I've never been before. That's the only way I can find new inspiration."
             },
             "690940211": {
                 "Next": [
                     690940212
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "You know what, I've never been to Natlan or Snezhnaya... Hmm, maybe it's time to make some travel plans."
             },
             "690940212": {
                 "Next": [
                     690940213
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Every nation has a completely different fashion sense rooted in its unique culture. I have to keep incorporating new styles, adapting them, combining them, and innovating... That's the only way Chioriya Boutique can continue to stand at the forefront of fashion."
             },
             "690940213": {
                 "Next": [
                     690940214
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Hah, look at me — chat about anything for long enough, and I'll always find a way to make it about work."
             },
             "690940214": {
                 "Next": [
                     690940215
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Hmm... I guess it's a deeply ingrained habit of mine. I'm always on the lookout for inspiration, and every aspect of daily life is a potential source."
             },
             "690940215": {
                 "Next": [],
                 "Type": 1,
-                "Text": ""
+                "Text": "Anyway. Basically, I love traveling. Maybe one day, our travel plans will overlap and we'll bump into each other somewhere out there."
             },
             "690940801": {
                 "Next": [
                     690940802
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "This was my favorite sight when I first moved to Fontaine. And now, it's one I get to see every day as I walk through the streets."
             },
             "690940802": {
                 "Next": [
                     690940803
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Here, on these dazzling streets that seem to go on forever, the first corner of the Chiori fashion kingdom has been established."
             },
             "690940803": {
                 "Next": [],
                 "Type": 1,
-                "Text": ""
+                "Text": "I will work hard to expand its territory over the coming years. In the meantime, you're always welcome to drop by for a visit."
             },
             "690940301": {
                 "Next": [
                     690940302
                 ],
                 "Type": 0,
-                "Text": ""
+                "Text": "Would you like to have a chat with me?"
             },
             "690940302": {
                 "Next": [
                     690940303
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Huh, this one is for the books. A lot of people avoid chatting with me whenever they can help it, because they don't like what I have to say."
             },
             "690940303": {
                 "Next": [
                     690940304
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "The truth is, I just prefer it when people can cut to the chase and be straight with one another. The amount of effort some people put into beating around the bush and being diplomatic... It'd be so much quicker to just hash it out and be done with it."
             },
             "690940304": {
                 "Next": [
@@ -36574,194 +36574,194 @@ var _AvatarTeapotTalk = {
                     690940307
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "What about you? What's your preferred communication style?"
             },
             "690940305": {
                 "Next": [
                     690940306
                 ],
                 "Type": 0,
-                "Text": ""
+                "Text": "Direct and to the point, like you."
             },
             "690940306": {
                 "Next": [
                     690940310
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Excellent. That'll save us a lot of trouble."
             },
             "690940307": {
                 "Next": [
                     690940308
                 ],
                 "Type": 0,
-                "Text": ""
+                "Text": "I think sometimes, being tactful is better than being blunt..."
             },
             "690940308": {
                 "Next": [
                     690940309
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "You do? Well, I just find it a headache."
             },
             "690940309": {
                 "Next": [
                     690940310
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Maybe it's because I always have a clear and firm opinion on things. My feelings are never ambiguous — either I like something, or I don't."
             },
             "690940310": {
                 "Next": [
                     690940311
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "I remember one time when I saw a customer hesitating between two different colored outfits."
             },
             "690940311": {
                 "Next": [
                     690940312
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "I told her that she should pick the cream-colored one, since it went well with her hair and also accentuated her figure. She turned her nose up at that, and said that stains would show up more on the cream one than the gray one."
             },
             "690940312": {
                 "Next": [
                     690940313
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "So I said sure thing — if you're set on the gray one, I can make some adjustments so it'll look more stylish. But she didn't like that idea either, and she started saying that maybe gray was a bit too dull."
             },
             "690940313": {
                 "Next": [
                     690940314
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "We went back and forth like that for a whole afternoon. In the end? She picked a red one..."
             },
             "690940314": {
                 "Next": [
                     690940315
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "I mean, I do understand where she was coming from. Her concerns were valid, it's just... People like that... they need to learn to prioritize between criteria when they're making a decision."
             },
             "690940315": {
                 "Next": [
                     690940316
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "If you want something that goes with your figure, pick the cream. If you want to get away with a few smudges and stains, pick the gray."
             },
             "690940316": {
                 "Next": [
                     690940317
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "But if what you really want is to stand out from the crowd so your crush will spot you as soon as they arrive at the party... then for goodness' sake, just tell me that as soon as you walk through my door!"
             },
             "690940317": {
                 "Next": [
                     690940318
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Phew... I'm getting all worked up just thinking about it. I need a moment to calm down..."
             },
             "690940318": {
                 "Next": [
                     690940319
                 ],
                 "Type": 0,
-                "Text": ""
+                "Text": "Maybe she was just shy?"
             },
             "690940319": {
                 "Next": [
                     690940320
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "You're right. She was hesitant about telling me. But if she'd just been direct with me, we could have saved so much time, and then I would have been able to do a better job of tailoring her outfit to suit her needs."
             },
             "690940320": {
                 "Next": [
                     690940321
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Things like that happen all the time. It makes me all the more determined to never beat around the bush, and always be upfront and direct."
             },
             "690940321": {
                 "Next": [
                     690940322
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Sure, it might not be the smartest approach. But for me at least, it's definitely the most efficient."
             },
             "690940322": {
                 "Next": [
                     690940323
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "All this is to say that I will never hide my true thoughts and feelings from you, and I'd like it if you could do the same for me."
             },
             "690940323": {
                 "Next": [
                     690940324
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Of course, if you ever find yourself compelled to say something like \"Chioriya Boutique's outfits are hideous\"... then I'd hope you at least follow it up with some sort of reasoned argument that I can consider."
             },
             "690940324": {
                 "Next": [],
                 "Type": 1,
-                "Text": ""
+                "Text": "You don't seem like the type of person who'd say something just to be provocative. Unless... I dunno, you secretly enjoy the feeling of being thrown out of my front door, or something."
             },
             "690940401": {
                 "Next": [
                     690940402
                 ],
                 "Type": 0,
-                "Text": ""
+                "Text": "Anything you want to do?"
             },
             "690940402": {
                 "Next": [
                     690940403
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Do you have any hagoita here? I could go for a round or two against you."
             },
             "690940403": {
                 "Next": [
                     690940404
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Hey, what's that look supposed to mean? Don't think I'm good for anything beyond sewing and stitching, huh?"
             },
             "690940404": {
                 "Next": [
                     690940405
                 ],
                 "Type": 0,
-                "Text": ""
+                "Text": "Nothing, just... Didn't know you were into that game. That's all."
             },
             "690940405": {
                 "Next": [
                     690940406
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "I played it all the time when I was growing up in Inazuma. I was actually one of the best players around."
             },
             "690940406": {
                 "Next": [
                     690940407
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "But no one knows how to play in Fontaine, and playing with beginners just feels... I don't know... kind of unfair to them?"
             },
             "690940407": {
                 "Next": [
                     690940408
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "You must have played it during your travels in Inazuma, right? I bet you're pretty good."
             },
             "690940408": {
                 "Next": [
@@ -36769,56 +36769,56 @@ var _AvatarTeapotTalk = {
                     690940412
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Well? You game? Don't tell me you're scared?"
             },
             "690940409": {
                 "Next": [
                     690940410
                 ],
                 "Type": 0,
-                "Text": ""
+                "Text": "Bring it on!"
             },
             "690940410": {
                 "Next": [
                     690940411
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Yeah, that's more like it! There's the Traveler everyone talks about."
             },
             "690940411": {
                 "Next": [
                     690940416
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "And just so we're clear, I will definitely exercise my bragging rights if you lose."
             },
             "690940412": {
                 "Next": [
                     690940413
                 ],
                 "Type": 0,
-                "Text": ""
+                "Text": "What's the penalty for the person who loses?"
             },
             "690940413": {
                 "Next": [
                     690940414
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "Huh? Ooh, you wanna raise the stakes, do you? Fine by me, that'll make this much more fun."
             },
             "690940414": {
                 "Next": [
                     690940415
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "If you lose... you come help out at my store for a few days. You can do some sweeping, organize the outfits, maybe do a little modeling..."
             },
             "690940415": {
                 "Next": [
                     690940416
                 ],
                 "Type": 1,
-                "Text": ""
+                "Text": "And if I lose, I help out at your place instead. It's up to you. I can sweep the place, or maybe do some decorating..."
             }
         }
     }
