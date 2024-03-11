@@ -66,7 +66,7 @@ var _mq = {
     "Num": "四叶草之章 第一幕",
     "Title": "真正的宝物",
     "IT": "可莉",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Klee",
     "Icon": "UI_ChapterIcon_Klee",
     "Intro": "",
     "MainQuests": [

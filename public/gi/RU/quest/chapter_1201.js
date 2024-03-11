@@ -81,7 +81,7 @@ var _mq = {
     "Num": "Том II. Пролог",
     "Title": "Осенний ветер, багряные листья",
     "IT": "Инадзума",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Dq",
     "Icon": "UI_ChapterIcon_Inazuma",
     "Intro": "",
     "MainQuests": [

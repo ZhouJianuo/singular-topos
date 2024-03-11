@@ -1021,7 +1021,7 @@ var _sq = {
         "Talk": []
     },
     "7110345": {
-        "Desc": "Try entering the waterfall",
+        "Desc": "",
         "Talk": []
     },
     "7110304": {

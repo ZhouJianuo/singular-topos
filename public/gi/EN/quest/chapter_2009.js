@@ -66,7 +66,7 @@ var _mq = {
     "Num": "Trifolium Chapter: Act I",
     "Title": "True Treasure",
     "IT": "Klee",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Klee",
     "Icon": "UI_ChapterIcon_Klee",
     "Intro": "",
     "MainQuests": [

@@ -126,7 +126,7 @@ var _mq = {
     "Num": "Interlude Chapter: Act III",
     "Title": "Inversion of Genesis",
     "IT": "Interlude Chapter",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xm",
     "Icon": "UI_ChapterIcon_Sumeru",
     "Intro": "",
     "MainQuests": [

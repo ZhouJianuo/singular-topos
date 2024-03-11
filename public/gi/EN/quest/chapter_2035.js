@@ -156,7 +156,7 @@ var _mq = {
     "Num": "Vultur Volans Chapter: Act I",
     "Title": "The Illusions of the Mob",
     "IT": "Alhaitham",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Alhatham",
     "Icon": "UI_ChapterIcon_Alhatham",
     "Intro": "Rumors about the Acting Grand Sage have become a popular topic at the Akademiya, while the Acting Grand Sage in question still remains as unbound by convention as ever.<br>Where there are people, there will be a collective. Those outside of it are desperate to fit in, while those already inside relish their false sense of bliss.<br>...Until the fragile bonds are broken, and the mindless crowd disperses like sand.",
     "MainQuests": [

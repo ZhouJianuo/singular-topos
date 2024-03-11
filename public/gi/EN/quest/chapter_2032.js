@@ -121,7 +121,7 @@ var _mq = {
     "Num": "Lupus Aureus Chapter: Act I",
     "Title": "Sands of Solitude",
     "IT": "Cyno",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Cyno",
     "Icon": "UI_ChapterIcon_Cyno",
     "Intro": "The suspicious case of smuggling Canned Knowledge occupies the minds of all matra. Little do they know of a lone wolf that silently investigates the truth behind it.<br>The chains of mutual benefit are getting tighter and tighter, trapping everyone involved in a whirlpool that no one can escape.<br>Planting evidence, luring others with promises of gain, threatening, begging, exhorting... They will stop at nothing. When the old bricks and mortar crumble down, some people resort to silence, some gather their baggage and carry on forward.",
     "MainQuests": [

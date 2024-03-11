@@ -1648,8 +1648,8 @@ var _Achievement = [
     {
         "_id": 84154,
         "Group": 17,
-        "Name": "",
-        "Desc": "",
+        "Name": "DECKS & DETECTIVES",
+        "Desc": "侦破走私案后，与琳妮特享受宁静的茶会时光。",
         "Ver": "4.5",
         "Hidden": true,
         "Reward": 5,
@@ -1658,8 +1658,8 @@ var _Achievement = [
     {
         "_id": 84153,
         "Group": 17,
-        "Name": "",
-        "Desc": "",
+        "Name": "SPEEDRUN",
+        "Desc": "说服琳妮特与你共度悠闲而平静的一天。",
         "Ver": "4.5",
         "Hidden": true,
         "Reward": 5,
@@ -1668,8 +1668,8 @@ var _Achievement = [
     {
         "_id": 84152,
         "Group": 17,
-        "Name": "",
-        "Desc": "",
+        "Name": "命运的示数",
+        "Desc": "完成「猫与随机数」，解锁全部结局。",
         "Ver": "4.5",
         "Hidden": false,
         "Reward": 20,

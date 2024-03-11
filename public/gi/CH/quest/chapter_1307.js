@@ -126,7 +126,7 @@ var _mq = {
     "Num": "间章 第三幕",
     "Title": "倾落伽蓝",
     "IT": "间章",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xm",
     "Icon": "UI_ChapterIcon_Sumeru",
     "Intro": "",
     "MainQuests": [

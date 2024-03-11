@@ -76,7 +76,7 @@ var _mq = {
     "Num": "Alatus Chapter: Act I",
     "Title": "Butterfly's Dream",
     "IT": "Xiao",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xiao",
     "Icon": "UI_ChapterIcon_Xiao",
     "Intro": "",
     "MainQuests": [

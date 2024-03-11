@@ -86,7 +86,7 @@ var _mq = {
     "Num": "Sinae Unicornis Chapter: Act I",
     "Title": "Sea of Clouds, Sea of People",
     "IT": "Ganyu",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Ganyu",
     "Icon": "UI_ChapterIcon_Ganyu",
     "Intro": "Ganyu has witnessed many a sea.<br>From the heights of Yuehai Pavilion she has viewed the ocean blue, and from the towering peaks of Jueyun Karst she has viewed the sea of clouds.<br>She has also walked in slow solitude amidst the vast sea of humanity in Liyue Harbor.<br>Neither fully illuminated beast nor fully human, her identity is caught somewhere in the gap between the two, and every type of sea she encounters leaves her feeling adrift and alone.<br>At least, that is until the day when a request from across time once again makes waves within her heart...",
     "MainQuests": [

@@ -81,7 +81,7 @@ var _mq = {
     "Num": "第二章 序幕",
     "Title": "振袖秋风问红叶",
     "IT": "稻妻",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Dq",
     "Icon": "UI_ChapterIcon_Inazuma",
     "Intro": "",
     "MainQuests": [

@@ -41,7 +41,7 @@ var _mq = {
     "Num": "Песочные Часы. Глава I",
     "Title": "Рутинная работа",
     "IT": "Лиза",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Lisa",
     "Icon": "UI_ChapterIcon_Lisa",
     "Intro": "",
     "MainQuests": [

@@ -71,7 +71,7 @@ var _mq = {
     "Num": "第一章 第四幕",
     "Title": "我们终将重逢",
     "IT": "旅人",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Lvren",
     "Icon": "UI_ChapterIcon_Traveler",
     "Intro": "",
     "MainQuests": [

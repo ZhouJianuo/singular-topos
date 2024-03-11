@@ -96,7 +96,7 @@ var _mq = {
     "Num": "序章 第二幕",
     "Title": "为了没有眼泪的明天",
     "IT": "蒙德",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Md",
     "Icon": "UI_ChapterIcon_Mengde",
     "Intro": "",
     "MainQuests": [

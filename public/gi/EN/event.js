@@ -7,7 +7,7 @@ var _eventvers = [
             {
                 "_id": 2029,
                 "Name": "Alchemical Ascension",
-                "Desc": "？？？",
+                "Desc": "The Knights of Favonius are currently coming up with long-term plans to promote the achievements of alchemy. The person in charge, Lisa, seems to have a good idea and has invited you and Paimon to assist her.",
                 "Intro": "<color style='color:#D3BC8E;'>Event Guidelines</color><br>The Knights of Favonius are currently coming up with long-term plans to promote the achievements of alchemy. The person in charge, Lisa, seems to have a good idea and has invited you and Paimon to assist her.<br><br><color style='color:#D3BC8E;'>Eligibility</color><br>Reach Adventure Rank 20 and complete the following prerequisite quest(s): Song of the Dragon and Freedom. (Complete the Archon Quest \"Masquerade of the Guilty\" and the Story Quest \"Aphros Delos Chapter Act I\" for a better experience.)<br><br><color style='color:#D3BC8E;'>Event Rules</color><br>During \"Alchemical Ascension,\" you must cultivate ingredients, concoct potions, sell potions, and gain revenue from your business to fund the expansion of your operations:<br><br>Cultivating Ingredients<br>Ingredients that have been specially processed can be used to greater effect during the process of concocting potions.<br><br>Concocting Potions<br>Place your ingredients into the Alchemy Cauldron in a certain order in order to concoct potions with different effects and special characteristics.<br><br>Selling Potions<br>Make your plans according to market news and sell the potions that are in demand to seize business opportunities and garner greater profits.<br><br>Continue bringing in earnings to keep the shop on the right track, which will allow you to obtain various rewards.",
                 "Reward": [
                     201,
@@ -27,11 +27,11 @@ var _eventvers = [
                         "Img": "UI_Activity_AlchemySim_Potion_01"
                     },
                     {
-                        "Desc": "Once you have mastered the advanced technique of stacking ingredients, each time you concoct a potion, squares on which ingredients may be stacked will appear within the cauldron.<br>As your Alchemy Level increases, the number of stackable squares will increase.",
+                        "Desc": "Once you have mastered the advanced technique of stacking ingredients, each time you concoct a potion, there will be squares on which ingredients may be stacked within the cauldron.<br>As your Alchemy Level increases, the number of stackable squares will increase.",
                         "Img": "UI_Activity_AlchemySim_Overlap_01"
                     },
                     {
-                        "Desc": "Save formulae to perform Quick Concoctions.<br>When you perform Quick Concoctions, <color=#F39000>your saved formula</color> will be automatically placed into the cauldron, though ingredients you do not have enough of in storage will not be automatically added.<br>Quick Concoctions will also consume the concoction chance you have during this operation cycle.",
+                        "Desc": "Save formulae to perform Quick Concoctions.<br>When you perform Quick Concoctions, <color=#F39000>your saved formula</color> will be automatically placed into the cauldron, though ingredients you do not have enough of in storage will not be automatically added.",
                         "Img": "UI_Activity_AlchemySim_Template_01"
                     },
                     {
@@ -43,15 +43,15 @@ var _eventvers = [
                         "Img": "UI_Activity_AlchemySim_Crop_02"
                     },
                     {
-                        "Desc": "You can directly consume ingredients to obtain EXP towards increasing your <color=#F39000>Ingredient Level</color> using the Analyze Ingredient function.<br>Use this function when you have ample stocks to provide considerable benefits to your store...",
+                        "Desc": "You can directly consume ingredients to obtain EXP towards increasing your <color=#F39000>Ingredient Level</color> using the Analyze Ingredient function.<br>Use this function when you have ample stocks to provide considerable benefits to your shop...",
                         "Img": "UI_Activity_AlchemySim_Refine_01"
                     },
                     {
-                        "Desc": "Potions you have concocted must be stocked before they can be sold (<color=#F39000>Potions with exactly identical efficacy cannot be stocked for sale at the same time</color>). <color=#F39000>Market News</color> is a guide to selling potions: The more the efficacy and characteristics of your potions can fulfill market demands, the greater your <color=#F39000>sales volume</color> will be and thus the greater your revenue.<br>During each operation cycle, Paimon will help <color=#F39000>record potion efficacies and characteristics that are in demand</color>. If you discover a potion with efficacy and characteristics that are even more suited to the current market, Paimon will update the record.",
+                        "Desc": "Potions you have concocted must be stocked before they can be sold (<color=#F39000>Potions with exactly identical efficacy cannot be stocked for sale at the same time</color>). <color=#F39000>Market News</color> is a guide to selling potions: The more the efficacies and characteristics of your potions can fulfill market demands, the greater your <color=#F39000>sales volume</color> will be and thus the greater your revenue.<br>During each operation cycle, Paimon will help <color=#F39000>record potion efficacies and characteristics that are in demand</color>. If you discover a potion with efficacies and characteristics that are even more suited to the current market, Paimon will update the record.",
                         "Img": "UI_Activity_AlchemySim_Sell_01"
                     },
                     {
-                        "Desc": "When each operation cycle ends, your potion sales will be totaled up, with the financial assessment based on sales volume. Check your financial reports to see if your potions are in tune with the market demand.",
+                        "Desc": "When each operation cycle ends, your potion sales will be totaled up, with the financial assessment based on sales volume. Check your financial report to see if your potions are in tune with the market demand.",
                         "Img": "UI_Activity_AlchemySim_Sell_02"
                     },
                     {
@@ -59,11 +59,11 @@ var _eventvers = [
                         "Img": "UI_Activity_AlchemySim_Dealer_01"
                     },
                     {
-                        "Desc": "Alchemy Exams are tests intended to assess your potioneering techniques. The exam is split into several stages that must be completed in sequence. You have 3 attempts for each stage. Additionally, <color=#F39000>potions produced during the exams will not be saved. You will instead be refunded the ingredients consumed during the exam.</color>.",
+                        "Desc": "Alchemy Exams are tests intended to assess your potioneering techniques. The exam is split into several stages that must be completed in sequence. You have 3 attempts for each stage. Additionally, <color=#F39000>potions produced during the exams will not be saved. You will instead be refunded the ingredients consumed during the exam</color>.",
                         "Img": "UI_Activity_AlchemySim_Exam_01"
                     },
                     {
-                        "Desc": "Each test stage comes with its primary and secondary objective(s).<color=#F39000>Complete the primary objective to pass the test</color>, and complete the secondary objective(s) to increase your test rating. Test rewards are based on your rating.<br>If you fail the exam, you must wait a certain period before retaking the exam.",
+                        "Desc": "Each test stage comes with its primary and secondary objective(s). <color=#F39000>Complete the primary objective to pass the test</color>, and complete the secondary objective(s) to increase your test rating. Test rewards are based on your rating.<br>If you fail the exam, you must wait a certain period before retaking the exam.",
                         "Img": "UI_Activity_AlchemySim_Exam_02"
                     },
                     {
@@ -79,7 +79,7 @@ var _eventvers = [
                         "Img": "UI_Activity_AlchemySim_Accelerate_01"
                     },
                     {
-                        "Desc": "You will initially have 1 chance to concoct a potion each operation cycle. By using more ingredients when concocting a potion, you can gain more <color=#F39000>Alchemy Level Experience</color> and <color=#F39000>potion ingredient experience</color>, and there is a chance to create an even stronger potion. Make good use of your opportunities to concoct potions!",
+                        "Desc": "You will initially have 1 chance to concoct a potion each operation cycle. By using more ingredients when concocting a potion, you can gain more <color=#F39000>Alchemy Level Experience</color> and <color=#F39000>Potion Ingredient Experience</color>, and there is a chance to create an even stronger potion. Make good use of your opportunities to concoct potions!",
                         "Img": "UI_Activity_AlchemySim_Potion_04"
                     },
                     {
@@ -95,7 +95,7 @@ var _eventvers = [
                         "Img": "UI_Activity_AlchemySim_Potion_05"
                     },
                     {
-                        "Desc": "If the two highest effect values are <color=#F39000>of the same grade</color> and reach a certain standard, a Combination Potion will be produced. A Combination Potion will have <color=#F39000>two types of efficacy</color>, and though the sale price will not increase, they can more easily satisfy different market demands, increasing sales volume.",
+                        "Desc": "If the two highest efficacy values are <color=#F39000>of the same grade</color> and reach a certain standard, a Combination Potion will be produced. A Combination Potion will have <color=#F39000>two types of efficacy</color>, and though the sale price will not increase, it can more easily satisfy different market demands, increasing sales volume.",
                         "Img": "UI_Activity_AlchemySim_Potion_06"
                     }
                 ]
@@ -104,7 +104,7 @@ var _eventvers = [
                 "_id": 5182,
                 "Name": "The Great Fayz Reaction Debate",
                 "Desc": "Jami, the Amurta researcher who earlier developed the marvelous Fayz Potion, has once again encountered trouble. As such, he has adopted more efficient enhancement measures and is waiting for the right person to help verify his work...",
-                "Intro": "<color style='color:#D3BC8E;'>Event Guidelines</color><br>Jami, the Amurta researcher who earlier developed the marvelous Fayz Potion, has once again encountered trouble. As such, he has adopted more efficient enhancement measures and is waiting for the right person to help verify his work...<br><br><color style='color:#D3BC8E;'>Eligibility</color><br>Reach Adventure Rank 20 and complete the Archon Quest \"Song of the Dragon and Freedom.\"<br><br><color style='color:#D3BC8E;'>Event Rules</color><br>1. After entering the Fayz Discursive Facility and starting the challenge, if you stop moving and using skills, you will automatically enter the Time Dilation state. After conducting any movement or trying to use a Skill, you will cause time to flow normally again.<br><br>2. During the challenge, Fayz Force will accumulate over time. You can also obtain it by defeating opponents. Once Fayz Force reaches a certain level, after you use a special skill, you will take the opportunity to enter a Time Dilation state in which Supersense Particles will appear on the field. Adjust your camera angle such that your character blocks the Particles from view to collect them and use your Supersense Skill, and also obtain a random Fayz Furtherance.",
+                "Intro": "<color style='color:#D3BC8E;'>Event Guidelines</color><br>Jami, the Amurta researcher who earlier developed the marvelous Fayz Potion, has once again encountered trouble. As such, he has adopted more efficient enhancement measures and is waiting for the right person to help verify his work...<br><br><color style='color:#D3BC8E;'>Eligibility</color><br>Reach Adventure Rank 20 and complete the Archon Quest \"Song of the Dragon and Freedom.\"<br><br><color style='color:#D3BC8E;'>Event Rules</color><br>1. After entering the Fayz Discursive Facility and starting the challenge, if you stop moving and using skills, you will automatically enter the Time Dilation state. After conducting any movement or trying to use a Skill, you will cause time to flow normally again.<br><br>2. During the challenge, Fayz Force will accumulate over time. You can also obtain it by defeating opponents. Once Fayz Force reaches a certain level, after you use certain skills, you can take advantage of the Critical Moment to enter a Time Dilation state in which Supersense Particles will appear on the field. Adjust your camera angle such that your character blocks the Particles from view to collect them and use your Supersense Skill, and also obtain a random Fayz Furtherance.",
                 "Reward": [
                     201,
                     114038,
@@ -117,11 +117,11 @@ var _eventvers = [
                 ],
                 "Tutorial": [
                     {
-                        "Desc": "After entering the Fayz Discursive Facility and starting the challenge, If you <color style='color:#FFCC33;'>cease movement and using Skills</color>, you will automatically enter the <color style='color:#FFCC33;'>Time Dilation state</color>. After conducting any movement or trying to use a Skill, time will flow normally again.",
+                        "Desc": "After entering the Fayz Discursive Facility and starting the challenge, If you <color style='color:#FFCC33;'>cease movement or stop using skills</color>, you will automatically enter the <color style='color:#FFCC33;'>Time Dilation state</color>. After conducting any movement or trying to use a skill, time will flow normally again.",
                         "Img": "UI_Activity_AutoTimeStop_01"
                     },
                     {
-                        "Desc": "During combat, you will accumulate Fayz Force over time. You will also obtain it from defeating opponents. Once your Fayz Force hits a certain value and you have <color style='color:#FFCC33;'>stopped moving after unleashing a special skill</color>, Supersense Particles will appear on the field.",
+                        "Desc": "During combat, you will accumulate Fayz Force over time. You will also obtain it from defeating opponents. Once your Fayz Force hits a certain value and you have <color style='color:#FFCC33;'>stopped all actions after unleashing certain skills</color>, Supersense Particles will appear on the field.",
                         "Img": "UI_Activity_AutoTimeStop_02"
                     },
                     {
@@ -173,7 +173,7 @@ var _eventvers = [
                         "Img": "UI_Activity_Catcafe_05"
                     },
                     {
-                        "Desc": "<color style='color:#FFCC33;'>Press</color> in order pet the cat. If you pet <color style='color:#FFCC33;'>right where the cat likes it</color>, its friendliness to you will increase, but this value will remain the same or even decrease should you pet <color style='color:#FFCC33;'>a spot that displeases the feline</color>.",
+                        "Desc": "<color style='color:#FFCC33;'>Press</color> in order to pet the cat. If you pet <color style='color:#FFCC33;'>right where the cat likes it</color>, its friendliness to you will increase, but this value will remain the same or even decrease should you pet <color style='color:#FFCC33;'>a spot that displeases the feline</color>.",
                         "Img": "UI_Activity_Catcafe_06"
                     },
                     {
@@ -190,7 +190,7 @@ var _eventvers = [
                 "_id": 5184,
                 "Name": "Rolling Crossfire",
                 "Desc": "The \"Genius Inventor\" of the Gardes has created a new kind of remote cannon. In order to test its combat effectiveness, they are looking for professionals to participate in firing experiments...",
-                "Intro": "<color style='color:#D3BC8E;'>Event Guidelines</color><br>The \"Genius Inventor\" of the Gardes has created a new kind of remote cannon. In order to test its combat effectiveness, they are looking for professionals to participate in firing experiments...<br><br><color style='color:#D3BC8E;'>Eligibility</color><br>Reach Adventure Rank 20 and complete the Archon Quest \"Song of the Dragon and Freedom.\"<br><br><color style='color:#D3BC8E;'>Event Rules</color><br>A new stage will unlock each day for the first five days after the event starts. Score a certain number of points in the previous stage to open the following one.<br>You must control the turret remotely and defeat as many of the endless hordes of Slimes that show up as possible to score the highest possible points.",
+                "Intro": "<color style='color:#D3BC8E;'>Event Guidelines</color><br>The \"Genius Inventor\" of the Gardes has created a new kind of remote cannon. In order to test its combat effectiveness, they are looking for professionals to participate in firing experiments...<br><br><color style='color:#D3BC8E;'>Eligibility</color><br>Reach Adventure Rank 20 and complete the Archon Quest \"Song of the Dragon and Freedom.\"<br><br><color style='color:#D3BC8E;'>Event Rules</color><br>A new stage will unlock each day for the first five days after the event starts. Score a certain number of points in the previous stage to open the following one.<br>You must control the turret remotely and defeat as many of the endless hordes of Slimes that show up as possible to earn more points.",
                 "Reward": [
                     201,
                     104003,
@@ -203,7 +203,7 @@ var _eventvers = [
                 ],
                 "Tutorial": [
                     {
-                        "Desc": "In Rolling Crossfire challenges, you must use the remote-controlled turret to fire at Slimes. The more you defeat within the time limit, the higher your test score.<br>Large Slimes are harder to defeat, but award more points once felled.",
+                        "Desc": "In Rolling Crossfire challenges, you must use the remote-controlled cannon to fire at Slimes. The more Slimes you defeat within the time limit, the higher your test score will be.<br>Large Slimes are harder to defeat, but award more points once felled.",
                         "Img": "UI_Activity_SlimeCannon_01"
                     },
                     {
@@ -211,11 +211,11 @@ var _eventvers = [
                         "Img": "UI_Activity_SlimeCannon_02"
                     },
                     {
-                        "Desc": "<color=#ffcc33>Press the \"Fire\" button</color> to control the cannon remotely, causing it to <color=#ffcc33>fire the shell currently loaded</color> in the direction it is aiming. After firing, the cannon will immediately load one of three random elemental shell types: <color=#ffacff>Electro</color>, <color=#ff9999>Pyro</color>, or <color=#99ffff>Cryo</color>. <color=#ffcc33>Look at the color of the aiming guide line</color> to see which type of shell has been loaded.",
+                        "Desc": "<color=#ffcc33>Press the \"Fire\" button</color> to control the cannon remotely, causing it to <color=#ffcc33>fire the shell currently loaded</color> in the direction it is aiming. After firing, the cannon will immediately load one of the three random elemental shell types: <color=#ffacff>Electro</color>, <color=#ff9999>Pyro</color>, or <color=#99ffff>Cryo</color>. <color=#ffcc33>Look at the color of the aiming guide line</color> to see which type of shell has been loaded.",
                         "Img": "UI_Activity_SlimeCannon_03"
                     },
                     {
-                        "Desc": "After elemental shells hit different Slimes, they will deal the corresponding Elemental DMG and trigger special effects.<br>Operation Overload: Causes an explosion, sending nearby opponents flying.<br>Frigid Frost: Deals Cryo and Physical DMG over a wide area, decreasing All Elemental RES for opponents in the area.<br>Aggressive Ablation: Greatly enhances this attack, increasing its AoE and dealing additional Physical DMG.<br>Hitting Slimes of the same element as the shell will have no effect due to immunity.",
+                        "Desc": "After elemental shells hit different Slimes, they will deal the corresponding Elemental DMG and trigger special effects.<br>Operation Overload: Causes an explosion, sending nearby opponents flying.<br>Frigid Frost: Deals Cryo and Physical DMG over a wide area, decreasing All Elemental RES for opponents in the area.<br>Aggressive Ablation: Greatly enhances this attack, increasing its AoE and dealing additional Physical DMG.<br>Hitting Slimes of the same Elemental Type as the shell will have no effect due to immunity.",
                         "Img": "UI_Activity_SlimeCannon_04"
                     },
                     {
@@ -247,15 +247,15 @@ var _eventvers = [
                         "Img": "UI_Activity_SlimeCannon_10"
                     },
                     {
-                        "Desc": "This test adds the mechanical device known as \"Unending Firepower,\" which can be used to support the turret test.<br>After Unending Firepower is struck by any shell, the turret will switch to <color=#ffcc33>continuously firing special shells</color> which deal <color=#ffcc33>Physical DMG</color> to opponents， lasting for 6s.<br>If this device is not hit for a certain period of time, it will disappear.",
+                        "Desc": "This test adds the mechanical device known as the \"Unending Firepower,\" which can be used to support the turret test.<br>After Unending Firepower is struck by any shell, the turret will switch to <color=#ffcc33>continuously firing special shells</color> that deal <color=#ffcc33>Physical DMG</color> to opponents, lasting for 6s.<br>If this device is not hit within a certain period of time, it will disappear.",
                         "Img": "UI_Activity_SlimeCannon_11"
                     },
                     {
-                        "Desc": "This test adds the mechanical device known as the \"Loaded Field,\" which can be used to support the turret test.<br>After Loaded Field is struck by any shell, it will create a hazardous zone that <color=#ffcc33>continuously pulls nearby Slimes in and deals Physical DMG to them</color>.<br>If this device is not activated for a certain period of time, it will disappear.",
+                        "Desc": "This test adds the mechanical device known as the \"Loaded Field,\" which can be used to support the turret test.<br>After Loaded Field is struck by any shell, it will create a hazardous zone that <color=#ffcc33>continuously pulls nearby Slimes in and deals Physical DMG to them</color>.<br>If this device is not activated within a certain period of time, it will disappear.",
                         "Img": "UI_Activity_SlimeCannon_12"
                     },
                     {
-                        "Desc": "This test adds the mechanical device known as the \"Solid Strike,\" which can be used to support the turret test.<br>Solid Strikes are divided into <color=#ffacff>Electro</color>, <color=#ff9999>Pyro</color>, and <color=#99ffff>Cryo</color> types. After a Solid Strike is hit by any shell, it will <color=#ffcc33>immediately defeat all Slimes of that same element on the field</color>.<br>If this device is not hit for a certain period of time, it will disppear.",
+                        "Desc": "This test adds the mechanical device known as the \"Solid Strike,\" which can be used to support the turret test.<br>Solid Strikes are divided into <color=#ffacff>Electro</color>, <color=#ff9999>Pyro</color>, and <color=#99ffff>Cryo</color> types. After a Solid Strike is hit by any shell, it will <color=#ffcc33>immediately defeat all Slimes of that same Elemental Type on the field</color>.<br>If this device is not hit within a certain period of time, it will disappear.",
                         "Img": "UI_Activity_SlimeCannon_13"
                     },
                     {
@@ -470,8 +470,8 @@ var _items = {
     "390524": {
         "_id": 390524,
         "R": 4,
-        "Name": "？？？",
-        "Desc": "？？？",
+        "Name": "\"Site of Artful Ascension\"",
+        "Desc": "A detailed step-by-step blueprint for making a \"Site of Artful Ascension.\"<br>After using this item, you can view it in the Creation Screen.",
         "Src": [],
         "Icon": "UI_ItemIcon_Home_Common"
     },
@@ -484,14 +484,14 @@ var _items = {
     },
     "410020": {
         "R": 4,
-        "Name": "Amazing (Accidental) Adoption",
+        "Name": "Unexpectedly Adopted Fantastic Feline",
         "Desc": "You met an unexpected guest during the Furball Fortress trial period and adopted a cat as a result. Analysis indicates that it seems to get along with you...",
         "Icon": "UI_DisplayItemIcon_410020",
         "Type": 2
     },
     "362264": {
-        "Name": "？？？",
-        "Desc": "？？？",
+        "Name": "Throne of Meower",
+        "Desc": "A combination of cat furnishings forming the shape of a throne. It comes equipped with yarn ornaments beloved by cats and soft, comfy raspberry-red pallets. Can be found in the Fluffball Fortress.<br>It is said amongst cats that \"When the fated moment arrives, the bowl shall be filled with delicious food, and the cat called upon shall enjoy that meal, ascend to the throne, and take the crown of undisputed ruler...\" As such, you can always find many cats surrounding the throne, waiting for that moment of destiny to arrive...",
         "Icon": "UI_Homeworld_Interior_Common_Decoration_Prop_Lumaotai_01_Lod0",
         "Type": 3
     }

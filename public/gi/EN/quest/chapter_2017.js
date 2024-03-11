@@ -81,7 +81,7 @@ var _mq = {
     "Num": "Princeps Cretaceus Chapter: Act I",
     "Title": "Traveler Observation Report",
     "IT": "Albedo",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Albedo",
     "Icon": "UI_ChapterIcon_Albedo",
     "Intro": "",
     "MainQuests": [

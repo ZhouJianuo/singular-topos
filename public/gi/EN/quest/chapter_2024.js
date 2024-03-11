@@ -156,7 +156,7 @@ var _mq = {
     "Num": "Dracaena Somnolenta Chapter: Act I",
     "Title": "Warriors' Dreams Like Spring Grass Renewing",
     "IT": "Sangonomiya Kokomi",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Kokomi",
     "Icon": "UI_ChapterIcon_Kokomi",
     "Intro": "The curtain has fallen on the Vision Hunt Decree, and Kokomi invites you to return to Watatsumi Island and join their Victory Feast.<br>The post-war peace talks are coming soon, and yet rumors that are hard to verify are beginning to spread. Some plot is clearly afoot.<br>It is time to bear witness to Kokomi's resolve and the future of Watatsumi Island.",
     "MainQuests": [

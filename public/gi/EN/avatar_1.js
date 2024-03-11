@@ -52,7 +52,7 @@ var __AvatarInfoConfig = [
             "_JP": "Kayli Mills",
             "_KR": "Lee Bo-hee"
         },
-        "Note": "4.5v4"
+        "Note": "4.5"
     },
     {
         "_name": "Chiori",
@@ -97,13 +97,13 @@ var __AvatarInfoConfig = [
             "Custom": 0.192,
             "Norm": 26134
         },
-        "Version": "<b>4.5v4</b>",
+        "Version": "4.5",
         "Fetter": 94,
         "_CV": {
-            "_CH": "？？？",
-            "_EN": "？？？",
-            "_JP": "？？？",
-            "_KR": "？？？"
+            "_CH": "陈阳",
+            "_EN": "竹達彩奈",
+            "_JP": "Brittany Lauda",
+            "_KR": "Lee Da-eun"
         }
     },
     {
@@ -4661,9 +4661,9 @@ var _AvatarPromoteConfig = {
             }
         ],
         "CV": {
-            "CH": "？？？",
-            "EN": "？？？",
-            "RU": "？？？"
+            "CH": "竹达彩奈",
+            "EN": "竹達彩奈",
+            "RU": "竹達彩奈"
         }
     },
     "Liuyun": {
@@ -12930,7 +12930,7 @@ var _WeaponConfig = [
     {
         "_id": "11514",
         "Name": "Uraku Misugiri",
-        "Desc": "This famous blade was once created by the hand of Urakusai, the renowned literato. Legend has it that it has never cut any living creature in all these hundreds of years.",
+        "Desc": "This famous blade was once created by the hand of Urakusai, the renowned literatus. Legend has it that it has never cut any living creature in all these hundreds of years.",
         "Type": 1,
         "Rank": 5,
         "Icons": [
@@ -16699,8 +16699,8 @@ var _AvatarCostumeConfig = {
             }
         ],
         "Namecard": {
-            "Name": "<b>？？？</b>",
-            "Desc": "？？？",
+            "Name": "<b>Chiori: Spectacular Sleeves</b>",
+            "Desc": "Namecard style.<br>The doll known as \"Tamoto-chan\" was one of Chiori's earliest works, and is also the model that requires the least fabric and tailoring.",
             "Pic": "UI_NameCardPic_Chiori_P"
         }
     }

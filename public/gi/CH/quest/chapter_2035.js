@@ -156,7 +156,7 @@ var _mq = {
     "Num": "天隼之章 第一幕",
     "Title": "乌合的虚像",
     "IT": "艾尔海森",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Alhatham",
     "Icon": "UI_ChapterIcon_Alhatham",
     "Intro": "关于代理贤者的传说成了教令院的热门话题，话题中的贤者本人却依旧特立独行。<br>有人的地方就会形成集群，集群之外的人渴望融入其中，集群之内的人沉沦在虚假的惬意里。<br>…直至脆弱的链接断裂，乌合之众散如泥沙。",
     "MainQuests": [

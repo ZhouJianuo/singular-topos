@@ -136,7 +136,7 @@ var _mq = {
     "Num": "Chapter II: Act III",
     "Title": "Omnipresence Over Mortals",
     "IT": "Inazuma",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Dq",
     "Icon": "UI_ChapterIcon_Inazuma",
     "Intro": "",
     "MainQuests": [

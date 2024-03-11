@@ -61,7 +61,7 @@ var _mq = {
     "Num": "第二章 第四幕",
     "Title": "回响渊底的安魂曲",
     "IT": "旅人",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Lvren",
     "Icon": "UI_ChapterIcon_Traveler",
     "Intro": "",
     "MainQuests": [

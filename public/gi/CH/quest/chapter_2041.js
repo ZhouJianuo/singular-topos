@@ -246,7 +246,7 @@ var _mq = {
     "Num": "潮涌之章 第一幕",
     "Title": "往日留痕",
     "IT": "那维莱特",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Neuvillette",
     "Icon": "UI_ChapterIcon_Neuvillette",
     "Intro": "绝大部分枫丹人脑海中都有这样一幅画面：<br>最高审判官那维莱特端坐于歌剧院的高处，降下令人叹服的裁决。<br>他的身上仿佛没有岁月留下的痕迹，也没有名为「情感」的负累。公正如水，却也冰冷如水。<br>…真的是这样吗？当回忆如暴雨般不期而至，不擅表露情感的人亦有动容之时。",
     "MainQuests": [

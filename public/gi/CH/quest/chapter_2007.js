@@ -46,7 +46,7 @@ var _mq = {
     "Num": "长杓之章 第一幕",
     "Title": "蒙德食遇之旅",
     "IT": "香菱",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xiangling",
     "Icon": "UI_ChapterIcon_Xiangling",
     "Intro": "",
     "MainQuests": [

@@ -141,7 +141,7 @@ var _mq = {
     "Num": "Chapter III: Act IV",
     "Title": "King Deshret and the Three Magi",
     "IT": "Sumeru",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xm",
     "Icon": "UI_ChapterIcon_Sumeru",
     "Intro": "",
     "MainQuests": [

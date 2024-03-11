@@ -126,7 +126,7 @@ var _mq = {
     "Num": "Chapter IV: Act II",
     "Title": "As Light Rain Falls Without Reason",
     "IT": "Fontaine",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Fd",
     "Icon": "UI_ChapterIcon_Fontaine",
     "Intro": "",
     "MainQuests": [

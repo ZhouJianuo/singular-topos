@@ -81,7 +81,7 @@ var _mq = {
     "Num": "Пёстрый Гобелен. Глава I",
     "Title": "Мечник, который любит читать",
     "IT": "Син Цю",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xingqiu",
     "Icon": "UI_ChapterIcon_Xingqiu",
     "Intro": "",
     "MainQuests": [

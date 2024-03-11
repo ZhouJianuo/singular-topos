@@ -3,11 +3,11 @@
 var _chapter = [
     {
         "_id": 108301,
-        "Num": "",
-        "Title": "",
+        "Num": "Hangout Event: Lynette - Act I",
+        "Title": "Checks & Cats",
         "IT": "Lynette",
         "Tab": "",
-        "Icon": "",
+        "Icon": "UI_ChapterIcon_Linette",
         "Intro": ""
     },
     {
@@ -48,38 +48,38 @@ var _chapter = [
     },
     {
         "_id": 10173,
-        "Num": "",
-        "Title": "",
+        "Num": "Alchemy and Business Operations: IV",
+        "Title": "A Job Well Done",
         "IT": "",
         "Tab": "",
-        "Icon": "",
+        "Icon": "UI_ChapterIcon_AlchemySim",
         "Intro": ""
     },
     {
         "_id": 10172,
-        "Num": "",
-        "Title": "",
+        "Num": "Alchemy and Business Operations: III",
+        "Title": "International Markets",
         "IT": "",
         "Tab": "",
-        "Icon": "",
+        "Icon": "UI_ChapterIcon_AlchemySim",
         "Intro": ""
     },
     {
         "_id": 10171,
-        "Num": "",
-        "Title": "",
+        "Num": "Alchemy and Business Operations: II",
+        "Title": "A Breakthrough in Craft",
         "IT": "",
         "Tab": "",
-        "Icon": "",
+        "Icon": "UI_ChapterIcon_AlchemySim",
         "Intro": ""
     },
     {
         "_id": 10170,
-        "Num": "",
-        "Title": "",
+        "Num": "Alchemy and Business Operations: I",
+        "Title": "Potions Most Potent",
         "IT": "",
         "Tab": "",
-        "Icon": "",
+        "Icon": "UI_ChapterIcon_AlchemySim",
         "Intro": ""
     },
     {
@@ -354,19 +354,19 @@ var _chapter = [
     },
     {
         "_id": 2046,
-        "Num": "",
-        "Title": "",
+        "Num": "Cisoria Chapter: Act I",
+        "Title": "When They Talk About Tonight",
         "IT": "Chiori",
-        "Tab": "",
-        "Icon": "",
-        "Intro": ""
+        "Tab": "UI_LegendQuestImg_Chiori",
+        "Icon": "UI_ChapterIcon_Chiori",
+        "Intro": "Plain or ostentatious? Traditional or avant-garde? Stick to the rules, or pursue freedom? These are the questions that designers often ask, and the answers lie within their works.<br>But the owner of Chioriya Boutique, \"The Thundering Seamstress,\" is difficult to read. As the edges of her incisive blades dance to and fro across the fabric, it seems as though there was never such a choice at all, or perhaps there was only ever one choice for her — the one she likes."
     },
     {
         "_id": 2045,
         "Num": "Grus Serena Chapter: Act I",
         "Title": "A Thousand Moonlit Miles",
         "IT": "Xianyun",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Liuyun",
         "Icon": "UI_ChapterIcon_Liuyun",
         "Intro": "There is a saying that goes: \"Adepti come and go without a trace, green moss grows on stones in the spring breeze.\"<br>Adepti are hard to find, and their blessings harder still. Just how many went on pilgrimages to Mt. Aocang since ancient times, yet returned empty-handed, none know.<br>But now, that once captivating figure has voluntarily absconded from her abode, looking in the direction of Liyue Harbor."
     },
@@ -375,7 +375,7 @@ var _chapter = [
         "Num": "Rosa Multiflora Chapter: Act I",
         "Title": "Braving the Tides Together",
         "IT": "Navia",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Navia",
         "Icon": "UI_ChapterIcon_Navia",
         "Intro": "Just as flowers bloom and fall and clouds swirl and disperse, so do all things in the world ebb and flow.<br>There will always be those who seek to bask in the glory's glow alone atop the highest peaks, yet languish in the valley of despair, bemoaning fate's unwillingness to realize their desires, even as they finally depart along with their fury.<br>The young girl gifted her blessings to the silhouettes of the past, and with the mutual encouragement of those companions left behind, they embarked together upon the long road towards the distant summits.<br>Just like when Spina di Rosula was first founded."
     },
@@ -384,7 +384,7 @@ var _chapter = [
         "Num": "Animula Choragi Chapter: Act I",
         "Title": "\"The Little Oceanid\"",
         "IT": "Furina",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Furina",
         "Icon": "UI_ChapterIcon_Furina",
         "Intro": "The curtain has fallen on the grand act, the performance has ended, the true appearance of day and night reflected in the pupils of the eyes.<br>On what should have been the road home for the triumphant hero, there are neither bouquets of flowers tossed nor the echo of applause, only the murmuring of the Fountain of Lucine.<br>The future is as long as the past. Like a gentle ripple, she merges with the throng of humanity..."
     },
@@ -393,7 +393,7 @@ var _chapter = [
         "Num": "Cerberus Chapter: Act I",
         "Title": "Reborn in the Land of Grievances",
         "IT": "Wriothesley",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Wriothesley",
         "Icon": "UI_ChapterIcon_Wriothesley",
         "Intro": "Impulsive emotions drown out reason, and mistaken choices lead us down the wrong road. It is these multitudes of complex entanglements that forge \"sin.\"<br>Being cast into the depths of the waters is seen as a punishment, but in the eyes of the administrator of the Fortress of Meropide, it is in fact a perfect opportunity to reflect on the past.<br>No-one can give salvation, there is only becoming master of the tides of one's own fortune."
     },
@@ -402,7 +402,7 @@ var _chapter = [
         "Num": "Diluvies Chapter: Act I",
         "Title": "The Remains of the Past Day",
         "IT": "Neuvillette",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Neuvillette",
         "Icon": "UI_ChapterIcon_Neuvillette",
         "Intro": "Most Fontainians have an image like this in their minds: <br>Iudex Neuvillette sits upright in the vaulted heights of the Opera House, handing down eminently praiseworthy verdicts.<br>The vicissitudes of time leave no mark nor trace on his body, nor does he seem burdened by \"emotion.\" As equitable as water, but also as cold as water.<br>...Is this really the case? When memories flood in like a torrent, even those not predisposed to revealing their emotions may yet find themselves stirred."
     },
@@ -411,7 +411,7 @@ var _chapter = [
         "Num": "Felis Fuscus Chapter: Act I",
         "Title": "The Forgotten Thief",
         "IT": "Lyney",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Liney",
         "Icon": "UI_ChapterIcon_Liney",
         "Intro": "The \"Phantom Weasel\" who brought the Court of Fontaine to its knees has resurfaced once again after ten years. Behind a tangled web of doubt and suspicion, a meticulously-planned magic show is about to begin.<br>\"Let's fulfill his past dream for him. It feels like those happy moments are right in front of us.\"<br>\"The petals of Lumidouce Bell flutter, as the stars illuminate our stage.\"<br>Until the finale arrives... may all grievances be gone with the wind, and all glory endure in legacy."
     },
@@ -420,7 +420,7 @@ var _chapter = [
         "Num": "Sapientia Oromasdis Chapter: Act II",
         "Title": "Homecoming",
         "IT": "Nahida",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Nahida",
         "Icon": "UI_ChapterIcon_Nahida",
         "Intro": "In the Sanctuary of Surasthana lies a crystal of unknown origin, which holds a promise destined to remain unfulfilled.<br>In the long river of time, all beings are but passers-by. Humans and gods create history, but even they cannot ensure that these stories will not be forgotten by generations to come.<br>\"Why are we born? What do we love? Why can't we let go?\"<br>Listen to the answer of the oldest, and yet also the youngest being in the world."
     },
@@ -429,7 +429,7 @@ var _chapter = [
         "Num": "Carassius Auratus Chapter: Act II",
         "Title": "Star-Pickers' Passage",
         "IT": "Yoimiya",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Yoimiya",
         "Icon": "UI_ChapterIcon_Yoimiya",
         "Intro": "Many folktales hold that meteor showers symbolize a sort of romanticism and fantasy.<br>Imagination frolics amidst the starry skies, while love and sentiment are extinguished at the sky's edge, only to sprout anew in peoples' hearts.<br>A certain girl is about to set out on a quest to find this wondrous, fleeting sight..."
     },
@@ -438,7 +438,7 @@ var _chapter = [
         "Num": "Lagenaria Chapter: Act I",
         "Title": "The Heart of Healing",
         "IT": "Baizhu",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Baizhuer",
         "Icon": "UI_ChapterIcon_Baizhuer",
         "Intro": "The arrival of unexpected guests and news from old acquaintances have disturbed the usual peace of Bubu Pharmacy.<br>Every reunion is destined to end in farewell, even unto death. Such is a fate that all mortals face, scattered like mere dust.<br>The boundary between medicine and poison seems to have blurred, as has the line between life and death... Where can one find a truly perfect remedy, or does it exist at all?"
     },
@@ -447,7 +447,7 @@ var _chapter = [
         "Num": "Mantichora Chapter: Act I",
         "Title": "Lionsblood",
         "IT": "Dehya",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Dehya",
         "Icon": "UI_ChapterIcon_Dehya",
         "Intro": "Mercenaries often find themselves traveling through the desert, the blazing sun forging their tough characters, and the sandstorms hammering their resolve into shape.<br>The Flame-Mane, as she is named, never disappoints, and does not forsake her grip on her weapon no matter what riches or fame await.<br>All know her to be valiant and bold, but only after a drink (or many) will she confide some as-yet unresolved melancholy to her friends..."
     },
@@ -456,7 +456,7 @@ var _chapter = [
         "Num": "Vultur Volans Chapter: Act I",
         "Title": "The Illusions of the Mob",
         "IT": "Alhaitham",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Alhatham",
         "Icon": "UI_ChapterIcon_Alhatham",
         "Intro": "Rumors about the Acting Grand Sage have become a popular topic at the Akademiya, while the Acting Grand Sage in question still remains as unbound by convention as ever.<br>Where there are people, there will be a collective. Those outside of it are desperate to fit in, while those already inside relish their false sense of bliss.<br>...Until the fragile bonds are broken, and the mindless crowd disperses like sand."
     },
@@ -465,7 +465,7 @@ var _chapter = [
         "Num": "Chapter IV: Act V",
         "Title": "Masquerade of the Guilty",
         "IT": "Fontaine",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Fd",
         "Icon": "UI_ChapterIcon_Fontaine",
         "Intro": ""
     },
@@ -474,7 +474,7 @@ var _chapter = [
         "Num": "Chapter IV: Act IV",
         "Title": "Cataclysm's Quickening",
         "IT": "Fontaine",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Fd",
         "Icon": "UI_ChapterIcon_Fontaine",
         "Intro": ""
     },
@@ -483,7 +483,7 @@ var _chapter = [
         "Num": "Chapter IV: Act III",
         "Title": "To the Stars Shining in the Depths",
         "IT": "Fontaine",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Fd",
         "Icon": "UI_ChapterIcon_Fontaine",
         "Intro": ""
     },
@@ -492,7 +492,7 @@ var _chapter = [
         "Num": "Chapter IV: Act II",
         "Title": "As Light Rain Falls Without Reason",
         "IT": "Fontaine",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Fd",
         "Icon": "UI_ChapterIcon_Fontaine",
         "Intro": ""
     },
@@ -501,7 +501,7 @@ var _chapter = [
         "Num": "Chapter IV: Act I",
         "Title": "Prelude of Blancheur and Noirceur",
         "IT": "Fontaine",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Fd",
         "Icon": "UI_ChapterIcon_Fontaine",
         "Intro": ""
     },
@@ -510,7 +510,7 @@ var _chapter = [
         "Num": "Chapter III: Act VI",
         "Title": "Caribert",
         "IT": "Traveler",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Lvren",
         "Icon": "UI_ChapterIcon_Traveler",
         "Intro": ""
     },
@@ -519,7 +519,7 @@ var _chapter = [
         "Num": "Interlude Chapter: Act III",
         "Title": "Inversion of Genesis",
         "IT": "Interlude Chapter",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Xm",
         "Icon": "UI_ChapterIcon_Sumeru",
         "Intro": ""
     },
@@ -1842,7 +1842,7 @@ var _chapter = [
         "Num": "Sapientia Oromasdis Chapter: Act I",
         "Title": "Lingering Warmth",
         "IT": "Nahida",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Nahida",
         "Icon": "UI_ChapterIcon_Nahida",
         "Intro": "The Akasha has stopped functioning, the city of scholars is no longer fanatical about pursuing knowledge, and the right to dream has been returned to Sumeru's citizenry.<br>All of a sudden, dreams — erstwhile \"old friends\" that have become novelties — are the talk of the town in Sumeru City.<br>Even those poker-faced crocodiles must yawn sometimes. Now is the perfect time to loosen up and listen to their chit-chat!"
     },
@@ -1851,7 +1851,7 @@ var _chapter = [
         "Num": "Lotos Somno Chapter: Act I",
         "Title": "To the Wise",
         "IT": "Nilou",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Nilou",
         "Icon": "UI_ChapterIcon_Nilou",
         "Intro": "At the break of dawn, the Grand Bazaar is bustling with activity as usual.<br>Even though daily life may feel bland as water, the young girl on stage is able to depict a colorful world through her performance.<br>However, she seems to have encountered some trouble when preparing for this evening's play and banquet..."
     },
@@ -1860,7 +1860,7 @@ var _chapter = [
         "Num": "Lupus Aureus Chapter: Act I",
         "Title": "Sands of Solitude",
         "IT": "Cyno",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Cyno",
         "Icon": "UI_ChapterIcon_Cyno",
         "Intro": "The suspicious case of smuggling Canned Knowledge occupies the minds of all matra. Little do they know of a lone wolf that silently investigates the truth behind it.<br>The chains of mutual benefit are getting tighter and tighter, trapping everyone involved in a whirlpool that no one can escape.<br>Planting evidence, luring others with promises of gain, threatening, begging, exhorting... They will stop at nothing. When the old bricks and mortar crumble down, some people resort to silence, some gather their baggage and carry on forward."
     },
@@ -1869,7 +1869,7 @@ var _chapter = [
         "Num": "Acer Palmatum Chapter: Act I",
         "Title": "A Strange and Friendless Road",
         "IT": "Kaedehara Kazuha",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Kazuha",
         "Icon": "UI_ChapterIcon_Kazuha",
         "Intro": "The flowers fall and become soil, the wandering son returns home. Having stood against the lightning, the young man of the wind has seen his reputation rise.<br>Some admire him, while others view him askance with jealousy, all while the obsessions of history hang over them like a cloud.<br>Icy, iron-shod footsteps approach gradually, but what he hears is the wind, snow, and the hearth-fire..."
     },
@@ -1878,7 +1878,7 @@ var _chapter = [
         "Num": "Vulpes Zerda Chapter: Act I",
         "Title": "The Unanswerable Problems",
         "IT": "Tighnari",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Tighnari",
         "Icon": "UI_ChapterIcon_Tighnari",
         "Intro": "A contaminated area that seems to differ from the Withering Zone is spreading through Avidya Forest, disturbing the thoughts of many who pass through the area.<br>You take great pains to be fully prepared before you delve into this area, but your hard-come-by guide turns out to be a mechanical crab who cannot communicate with you.<br>Yet, is any one life greater than another? Perhaps its cold outer shield may yet hide thoughts that shall coalesce into a beating heart."
     },
@@ -1887,7 +1887,7 @@ var _chapter = [
         "Num": "Umbrabilis Orchis Chapter: Act I",
         "Title": "Calculated Gambit",
         "IT": "Yelan",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Yelan",
         "Icon": "UI_ChapterIcon_Yelan",
         "Intro": "The Tianshu of the Liyue Qixing is getting on in years, and the selection of his successor is nigh.<br>As the three candidates present themselves one after another, some force seems to be stirring the seemingly calm waters...<br>Now, even the greatest of chess-masters may play false, and thus set the game. Yet there are already precious few worthy players in the first place, and many more still are those who do not even comprehend that they are on the board."
     },
@@ -1896,7 +1896,7 @@ var _chapter = [
         "Num": "Cypressus Custos Chapter: Act I",
         "Title": "The Firmiana Leaf Falls",
         "IT": "Kamisato Ayato",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Ayato",
         "Icon": "UI_ChapterIcon_Ayato",
         "Intro": "Now that the dust has settled, life in Inazuma is finally returning to normal.<br>Bidding farewell to the old and ringing in the new, the two lovers from the Tenryou and Kanjou Commissions are also about to step out of their long stymied romance into a greater union.<br>But in the eyes of the current Yashiro Commissioner, Kamisato Ayato, this is no mere \"wedding\"..."
     },
@@ -1905,7 +1905,7 @@ var _chapter = [
         "Num": "Imperatrix Umbrosa Chapter: Act II",
         "Title": "Transient Dreams",
         "IT": "Raiden Shogun",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Shougun",
         "Icon": "UI_ChapterIcon_Shougun",
         "Intro": "Adventurers have recently found Rifthounds attempting to destroy the root system of the Sacred Sakura near Mt. Yougou.<br>Ferocious beasts, everything being destroyed, the humans fighting valiantly — just as the Raiden Shogun remembers happened during \"that catastrophe.\"<br>\"Where there is progress, there must be loss.\" By the time she had cut the darkness away then, she was already alone. But now..."
     },
@@ -1914,7 +1914,7 @@ var _chapter = [
         "Num": "Taurus Iracundus Chapter: Act I",
         "Title": "Rise Up, Golden Soul",
         "IT": "Arataki Itto",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Itto",
         "Icon": "UI_ChapterIcon_Itto",
         "Intro": "The Oni race has a diverse character in Inazuma: sometimes valiant, sometimes proud, sometimes eccentric, sometimes wicked.<br>These countless interpretations of who they are have left strong symbolic impressions behind, but have also caused their distinctive \"humanity\" to recede into the backdrop.<br>Which side of the oni will you witness as you search for the \"oni who dwells among humans?\""
     },
@@ -1923,7 +1923,7 @@ var _chapter = [
         "Num": "Divina Vulpes Chapter: Act I",
         "Title": "The Great Narukami Offering",
         "IT": "Yae Miko",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Yae",
         "Icon": "UI_ChapterIcon_Yae",
         "Intro": "\"If you speak a special incantation in the dead of night, your wish will come true, whatever it may be!\"<br>Such rumors have been spreading throughout Inazuma's streets and alleys and have gained quite the ardent following amongst the people.<br>A swordmaster whose behavior has been out of sorts, a storied light novel, and its mysterious author... Does the plot stop here, or is there more to it? The truth shall come to light on a moonless night.<br>All feasts will end, and all banquets cease. See them off with a smile, and thus bring the past, at last, to an end."
     },
@@ -1932,7 +1932,7 @@ var _chapter = [
         "Num": "Dracaena Somnolenta Chapter: Act I",
         "Title": "Warriors' Dreams Like Spring Grass Renewing",
         "IT": "Sangonomiya Kokomi",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Kokomi",
         "Icon": "UI_ChapterIcon_Kokomi",
         "Intro": "The curtain has fallen on the Vision Hunt Decree, and Kokomi invites you to return to Watatsumi Island and join their Victory Feast.<br>The post-war peace talks are coming soon, and yet rumors that are hard to verify are beginning to spread. Some plot is clearly afoot.<br>It is time to bear witness to Kokomi's resolve and the future of Watatsumi Island."
     },
@@ -1941,7 +1941,7 @@ var _chapter = [
         "Num": "Imperatrix Umbrosa Chapter: Act I",
         "Title": "Reflections of Mortality",
         "IT": "Raiden Shogun",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Shougun",
         "Icon": "UI_ChapterIcon_Shougun",
         "Intro": "The Omnipresent God is a thing of the past, and yet the storm has not abated, and the scars on this land have not healed.<br>She remains deep within her personal plane, balancing \"Eternity\" and \"Wishes\" in her hands as if on a scale.<br>Go forth and try to open this god's heart to the images of the transient mortal realm."
     },
@@ -1950,7 +1950,7 @@ var _chapter = [
         "Num": "Grus Nivis Chapter: Act I",
         "Title": "The Whispers of the Crane and the White Rabbit",
         "IT": "Kamisato Ayaka",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Ayaka",
         "Icon": "UI_ChapterIcon_Ayaka",
         "Intro": "An old notebook brings a forgotten name to light.<br>\"Tsubaki\" — a personality that shines through the pages like a brilliant red flower against a field of snow, an old friend of Ayaka's mother's who has now captivated Ayaka herself...<br>It's time to meet this extraordinary individual in the flesh! Take a greeting gift, prepare yourself, and join Ayaka on this journey of discovery."
     },
@@ -1959,7 +1959,7 @@ var _chapter = [
         "Num": "Carassius Auratus Chapter: Act I",
         "Title": "Dreamlike Timelessness",
         "IT": "Yoimiya",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Yoimiya",
         "Icon": "UI_ChapterIcon_Yoimiya",
         "Intro": "With the Naganohara Fireworks Show just around the corner, everyone is getting excited and the fireworks girl is getting busy.<br>But what is the place of a transitory flicker of flame in a nation that champions eternity?<br>If you have a moment to spare, pray stop and see for yourself. Some things may exist for only an instant, but their meaning endures for all time."
     },
@@ -1968,7 +1968,7 @@ var _chapter = [
         "Num": "Historia Antiqua Chapter: Act II",
         "Title": "No Mere Stone",
         "IT": "Zhongli",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Zhongli",
         "Icon": "UI_ChapterIcon_Zhongli",
         "Intro": "A curious case has come to light due to a new commission from the Liyue Adventurers' Guild.<br>Missing miners, confounding clues... a surplus of suspicious signs.<br>Even Zhongli, who has been enjoying the fine life in the city, has been roped into this investigation. What could the truth behind the mysterious missing miners be?"
     },
@@ -1977,7 +1977,7 @@ var _chapter = [
         "Num": "Aphros Delos Chapter: Act I",
         "Title": "The Spindrift Shall Never Return to the Sea",
         "IT": "Eula",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Eula",
         "Icon": "UI_ChapterIcon_Eula",
         "Intro": "Once upon a time, a noble crown was forged in Mondstadt from the blood and tears of the common folk.<br>The west wind blew, and those chains were shattered, and that crown fell into the flowing river of the years, raising naught but a few tiny spindrifts.<br>Time may have gradually healed the wounds of that old era, but the scars can still be clearly seen.<br>And where, oh where, shall those \"spindrifts\" go?"
     },
@@ -1986,7 +1986,7 @@ var _chapter = [
         "Num": "Papilio Charontis Chapter: Act I",
         "Title": "Yet the Butterfly Flutters Away",
         "IT": "Hu Tao",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Hutao",
         "Icon": "UI_ChapterIcon_Hutao",
         "Intro": "The spear opens the path to the afterlife, and the butterflies bridge this world and the next.<br>Wangsheng Funeral Parlor has overseen countless funerals for Liyue's residents in its time, guiding people along the final journey they shall embark on in this realm.<br>Yes, the current guide does uphold this solemn tradition in a somewhat unorthodox fashion...<br>But fear not! No matter what your background might be, she is passionate about ensuring that every client receives the send-off they deserve."
     },
@@ -1995,7 +1995,7 @@ var _chapter = [
         "Num": "Princeps Cretaceus Chapter: Act I",
         "Title": "Traveler Observation Report",
         "IT": "Albedo",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Albedo",
         "Icon": "UI_ChapterIcon_Albedo",
         "Intro": ""
     },
@@ -2004,7 +2004,7 @@ var _chapter = [
         "Num": "Sinae Unicornis Chapter: Act I",
         "Title": "Sea of Clouds, Sea of People",
         "IT": "Ganyu",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Ganyu",
         "Icon": "UI_ChapterIcon_Ganyu",
         "Intro": "Ganyu has witnessed many a sea.<br>From the heights of Yuehai Pavilion she has viewed the ocean blue, and from the towering peaks of Jueyun Karst she has viewed the sea of clouds.<br>She has also walked in slow solitude amidst the vast sea of humanity in Liyue Harbor.<br>Neither fully illuminated beast nor fully human, her identity is caught somewhere in the gap between the two, and every type of sea she encounters leaves her feeling adrift and alone.<br>At least, that is until the day when a request from across time once again makes waves within her heart..."
     },
@@ -2013,7 +2013,7 @@ var _chapter = [
         "Num": "",
         "Title": "",
         "IT": "",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Qiqi",
         "Icon": "UI_ChapterIcon_Qiqi",
         "Intro": ""
     },
@@ -2022,7 +2022,7 @@ var _chapter = [
         "Num": "Historia Antiqua Chapter: Act I",
         "Title": "Sal Flore",
         "IT": "Zhongli",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Zhongli",
         "Icon": "UI_ChapterIcon_Zhongli",
         "Intro": "He has just signed the contract to end all contracts. His stories are told all throughout this vast land.<br>Be that as it may, all shall be erased by the passage of time — and that is why a record must be left behind.<br>But even the firmest bedrock does not last forever.<br>And so, a medium more reliable than bedrock, deities, or anything else in this world must be found to store the legacy of Rex Lapis. That medium is you — the Traveler who traverses countless worlds."
     },
@@ -2031,7 +2031,7 @@ var _chapter = [
         "Num": "Carmen Dei Chapter: Act I",
         "Title": "Should You Be Trapped in a Windless Land",
         "IT": "Venti",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Venti",
         "Icon": "UI_ChapterIcon_Venti",
         "Intro": ""
     },
@@ -2040,7 +2040,7 @@ var _chapter = [
         "Num": "Monoceros Caeli Chapter: Act I",
         "Title": "Mighty Cyclops' Adventure!",
         "IT": "Tartaglia",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Tartaglia",
         "Icon": "UI_ChapterIcon_Tartaglia",
         "Intro": "After whipping up quite the storm in Liyue not so long ago, Fatui Harbinger Childe seems to have been lying low for a while...<br>But a chance encounter with someone from the other side of the ocean is about to reunite the two of you in Liyue once again.<br>A warrior through and through, Childe is always looking out for a chance to throw himself into battle. But this time, you encounter him not as a warrior but as a guardian, one who will do whatever it takes to protect what he treasures most — even if it means having to use his Foul Legacy Transformation once again..."
     },
@@ -2049,7 +2049,7 @@ var _chapter = [
         "Num": "Alatus Chapter: Act I",
         "Title": "Butterfly's Dream",
         "IT": "Xiao",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Xiao",
         "Icon": "UI_ChapterIcon_Xiao",
         "Intro": ""
     },
@@ -2058,7 +2058,7 @@ var _chapter = [
         "Num": "Astrolabos Chapter: Act I",
         "Title": "Beyond This World's Stars",
         "IT": "Mona",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Mona",
         "Icon": "UI_ChapterIcon_Mona",
         "Intro": "A traveling astrologer has stopped off in Liyue recently.<br>Well-versed in the ancient practice of astrology, she is intimately acquainted with the workings of fate and the nature of reality in this world. Surely she, of all people, must be able to provide some guidance on your quest to find your lost sibling.<br>And yet, you should not chase after her, for fate alone will decide if and when your paths should cross."
     },
@@ -2067,7 +2067,7 @@ var _chapter = [
         "Num": "Trifolium Chapter: Act I",
         "Title": "True Treasure",
         "IT": "Klee",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Klee",
         "Icon": "UI_ChapterIcon_Klee",
         "Intro": ""
     },
@@ -2076,7 +2076,7 @@ var _chapter = [
         "Num": "Fabulae Textile Chapter: Act I",
         "Title": "Bookworm Swordsman",
         "IT": "Xingqiu",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Xingqiu",
         "Icon": "UI_ChapterIcon_Xingqiu",
         "Intro": ""
     },
@@ -2085,7 +2085,7 @@ var _chapter = [
         "Num": "Trulla Chapter: Act I",
         "Title": "Mondstadt Gastronomy Trip",
         "IT": "Xiangling",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Xiangling",
         "Icon": "UI_ChapterIcon_Xiangling",
         "Intro": ""
     },
@@ -2094,7 +2094,7 @@ var _chapter = [
         "Num": "Leo Minor Chapter: Act I",
         "Title": "Master's Day Off",
         "IT": "Jean",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_QIN",
         "Icon": "UI_ChapterIcon_QIN",
         "Intro": ""
     },
@@ -2103,7 +2103,7 @@ var _chapter = [
         "Num": "Lupus Minor Chapter: Act I",
         "Title": "The Meaning of Lupical",
         "IT": "Razor",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Razor",
         "Icon": "UI_ChapterIcon_Razor",
         "Intro": ""
     },
@@ -2112,7 +2112,7 @@ var _chapter = [
         "Num": "Tempus Fugit Chapter: Act I",
         "Title": "Troublesome Work",
         "IT": "Lisa",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Lisa",
         "Icon": "UI_ChapterIcon_Lisa",
         "Intro": ""
     },
@@ -2121,7 +2121,7 @@ var _chapter = [
         "Num": "Lepus Chapter: Act I",
         "Title": "Wind, Courage, and Wings",
         "IT": "Amber",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Ambor",
         "Icon": "UI_ChapterIcon_Ambor",
         "Intro": ""
     },
@@ -2130,7 +2130,7 @@ var _chapter = [
         "Num": "Noctua Chapter: Act I",
         "Title": "Darknight Hero's Alibi",
         "IT": "Diluc",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Diluc",
         "Icon": "UI_ChapterIcon_Diluc",
         "Intro": ""
     },
@@ -2139,7 +2139,7 @@ var _chapter = [
         "Num": "Pavo Ocellus Chapter: Act I",
         "Title": "Secret Pirate Treasure",
         "IT": "Kaeya",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Kaeya",
         "Icon": "UI_ChapterIcon_Kaeya",
         "Intro": ""
     },
@@ -2148,7 +2148,7 @@ var _chapter = [
         "Num": "Chapter III: Act II",
         "Title": "The Morn a Thousand Roses Brings: Denouement",
         "IT": "Sumeru",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Xm",
         "Icon": "UI_ChapterIcon_Sumeru",
         "Intro": ""
     },
@@ -2157,7 +2157,7 @@ var _chapter = [
         "Num": "Chapter III: Act V",
         "Title": "Akasha Pulses, the Kalpa Flame Rises",
         "IT": "Sumeru",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Xm",
         "Icon": "UI_ChapterIcon_Sumeru",
         "Intro": ""
     },
@@ -2166,7 +2166,7 @@ var _chapter = [
         "Num": "Chapter III: Act IV",
         "Title": "King Deshret and the Three Magi",
         "IT": "Sumeru",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Xm",
         "Icon": "UI_ChapterIcon_Sumeru",
         "Intro": ""
     },
@@ -2175,7 +2175,7 @@ var _chapter = [
         "Num": "Chapter III: Act III",
         "Title": "Dreams, Emptiness, Deception",
         "IT": "Sumeru",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Xm",
         "Icon": "UI_ChapterIcon_Sumeru",
         "Intro": ""
     },
@@ -2184,7 +2184,7 @@ var _chapter = [
         "Num": "Chapter III: Act II",
         "Title": "The Morn a Thousand Roses Brings",
         "IT": "Sumeru",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Xm",
         "Icon": "UI_ChapterIcon_Sumeru",
         "Intro": ""
     },
@@ -2193,7 +2193,7 @@ var _chapter = [
         "Num": "Chapter III: Act I",
         "Title": "Through Mists of Smoke and Forests Dark",
         "IT": "Sumeru",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Xm",
         "Icon": "UI_ChapterIcon_Sumeru",
         "Intro": ""
     },
@@ -2202,7 +2202,7 @@ var _chapter = [
         "Num": "Interlude Chapter: Act II",
         "Title": "Perilous Trail",
         "IT": "Interlude Chapter",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Ly",
         "Icon": "UI_ChapterIcon_RogueLikeDiary",
         "Intro": ""
     },
@@ -2211,7 +2211,7 @@ var _chapter = [
         "Num": "Chapter II: Act IV",
         "Title": "Requiem of the Echoing Depths",
         "IT": "Traveler",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Lvren",
         "Icon": "UI_ChapterIcon_Traveler",
         "Intro": ""
     },
@@ -2220,7 +2220,7 @@ var _chapter = [
         "Num": "Interlude Chapter: Act I",
         "Title": "The Crane Returns on the Wind",
         "IT": "Interlude Chapter",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_SideStory",
         "Icon": "UI_ChapterIcon_Qunyuge",
         "Intro": ""
     },
@@ -2229,7 +2229,7 @@ var _chapter = [
         "Num": "Chapter II: Act III",
         "Title": "Omnipresence Over Mortals",
         "IT": "Inazuma",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Dq",
         "Icon": "UI_ChapterIcon_Inazuma",
         "Intro": ""
     },
@@ -2238,7 +2238,7 @@ var _chapter = [
         "Num": "Chapter II: Act II",
         "Title": "Stillness, the Sublimation of Shadow",
         "IT": "Inazuma",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Dq",
         "Icon": "UI_ChapterIcon_Inazuma",
         "Intro": ""
     },
@@ -2247,7 +2247,7 @@ var _chapter = [
         "Num": "Chapter II: Act I",
         "Title": "The Immovable God and the Eternal Euthymia",
         "IT": "Inazuma",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Dq",
         "Icon": "UI_ChapterIcon_Inazuma",
         "Intro": ""
     },
@@ -2256,7 +2256,7 @@ var _chapter = [
         "Num": "Chapter II: Prologue",
         "Title": "Autumn Winds, Scarlet Leaves",
         "IT": "Inazuma",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Dq",
         "Icon": "UI_ChapterIcon_Inazuma",
         "Intro": ""
     },
@@ -2265,7 +2265,7 @@ var _chapter = [
         "Num": "Chapter I: Act IV - Prelude",
         "Title": "Dainsleif",
         "IT": "Traveler",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Lvren",
         "Icon": "UI_ChapterIcon_Traveler",
         "Intro": ""
     },
@@ -2274,7 +2274,7 @@ var _chapter = [
         "Num": "Chapter I: Act IV",
         "Title": "We Will Be Reunited",
         "IT": "Traveler",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Lvren",
         "Icon": "UI_ChapterIcon_Traveler",
         "Intro": ""
     },
@@ -2283,7 +2283,7 @@ var _chapter = [
         "Num": "Chapter I: Act III",
         "Title": "A New Star Approaches",
         "IT": "Liyue",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Ly",
         "Icon": "UI_ChapterIcon_Liyue",
         "Intro": ""
     },
@@ -2292,7 +2292,7 @@ var _chapter = [
         "Num": "Chapter I: Act II",
         "Title": "Farewell, Archaic Lord",
         "IT": "Liyue",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Ly",
         "Icon": "UI_ChapterIcon_Liyue",
         "Intro": ""
     },
@@ -2301,7 +2301,7 @@ var _chapter = [
         "Num": "Chapter I: Act I",
         "Title": "Of the Land Amidst Monoliths",
         "IT": "Liyue",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Ly",
         "Icon": "UI_ChapterIcon_Liyue",
         "Intro": ""
     },
@@ -2310,7 +2310,7 @@ var _chapter = [
         "Num": "Prologue: Act III",
         "Title": "Song of the Dragon and Freedom",
         "IT": "Mondstadt",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Md",
         "Icon": "UI_ChapterIcon_Mengde",
         "Intro": ""
     },
@@ -2319,7 +2319,7 @@ var _chapter = [
         "Num": "Prologue: Act II",
         "Title": "For a Tomorrow Without Tears",
         "IT": "Mondstadt",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Md",
         "Icon": "UI_ChapterIcon_Mengde",
         "Intro": ""
     },
@@ -2328,7 +2328,7 @@ var _chapter = [
         "Num": "Prologue: Act I",
         "Title": "The Outlander Who Caught the Wind",
         "IT": "Mondstadt",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Md",
         "Icon": "UI_ChapterIcon_Mengde",
         "Intro": ""
     }

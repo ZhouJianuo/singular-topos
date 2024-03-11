@@ -71,7 +71,7 @@ var _mq = {
     "Num": "Том I. Глава IV",
     "Title": "Мы встретимся снова",
     "IT": "Близнецы",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Lvren",
     "Icon": "UI_ChapterIcon_Traveler",
     "Intro": "",
     "MainQuests": [

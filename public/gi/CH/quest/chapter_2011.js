@@ -76,7 +76,7 @@ var _mq = {
     "Num": "金翅鹏王之章 第一幕",
     "Title": "槐柯胡蝶，傩佑之梦",
     "IT": "魈",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xiao",
     "Icon": "UI_ChapterIcon_Xiao",
     "Intro": "",
     "MainQuests": [

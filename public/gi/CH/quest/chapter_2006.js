@@ -91,7 +91,7 @@ var _mq = {
     "Num": "幼狮之章 第一幕",
     "Title": "骑士团长的一日假期",
     "IT": "琴",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_QIN",
     "Icon": "UI_ChapterIcon_QIN",
     "Intro": "",
     "MainQuests": [

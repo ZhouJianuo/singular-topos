@@ -136,7 +136,7 @@ var _mq = {
     "Num": "Felis Fuscus Chapter: Act I",
     "Title": "The Forgotten Thief",
     "IT": "Lyney",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Liney",
     "Icon": "UI_ChapterIcon_Liney",
     "Intro": "The \"Phantom Weasel\" who brought the Court of Fontaine to its knees has resurfaced once again after ten years. Behind a tangled web of doubt and suspicion, a meticulously-planned magic show is about to begin.<br>\"Let's fulfill his past dream for him. It feels like those happy moments are right in front of us.\"<br>\"The petals of Lumidouce Bell flutter, as the stars illuminate our stage.\"<br>Until the finale arrives... may all grievances be gone with the wind, and all glory endure in legacy.",
     "MainQuests": [

@@ -91,7 +91,7 @@ var _mq = {
     "Num": "Благородная львица. Глава I",
     "Title": "У магистра выходной",
     "IT": "Джинн",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_QIN",
     "Icon": "UI_ChapterIcon_QIN",
     "Intro": "",
     "MainQuests": [

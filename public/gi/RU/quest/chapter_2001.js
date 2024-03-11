@@ -56,7 +56,7 @@ var _mq = {
     "Num": "Павлинье Перо. Глава I",
     "Title": "Пиратский клад",
     "IT": "Кэйа",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Kaeya",
     "Icon": "UI_ChapterIcon_Kaeya",
     "Intro": "",
     "MainQuests": [

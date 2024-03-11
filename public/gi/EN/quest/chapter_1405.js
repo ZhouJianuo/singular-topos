@@ -336,7 +336,7 @@ var _mq = {
     "Num": "Chapter IV: Act V",
     "Title": "Masquerade of the Guilty",
     "IT": "Fontaine",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Fd",
     "Icon": "UI_ChapterIcon_Fontaine",
     "Intro": "",
     "MainQuests": [
@@ -7185,7 +7185,7 @@ var _sq = {
             [
                 {
                     "N": "_1005",
-                    "T": "\"The Soil Renewed: The Spina Di Rosula Talks Post-Disaster Rebuilding.\" I recently visited Poisson to meet with Miss Navia, spokeperson of the Spina di Rosula, and we spoke about Poisson's present and future."
+                    "T": "\"The Soil Renewed: The Spina Di Rosula Talks Post-Disaster Rebuilding.\" I recently visited Poisson to meet with Miss Navia, spokesperson of the Spina di Rosula, and we spoke about Poisson's present and future."
                 },
                 {
                     "N": "_1005",

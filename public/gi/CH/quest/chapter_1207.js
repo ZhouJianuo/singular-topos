@@ -86,7 +86,7 @@ var _mq = {
     "Num": "间章 第二幕",
     "Title": "危途疑踪",
     "IT": "间章",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Ly",
     "Icon": "UI_ChapterIcon_RogueLikeDiary",
     "Intro": "",
     "MainQuests": [

@@ -101,7 +101,7 @@ var _mq = {
     "Num": "闲鹤之章 第一幕",
     "Title": "千里月明",
     "IT": "闲云",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Liuyun",
     "Icon": "UI_ChapterIcon_Liuyun",
     "Intro": "有道是：「仙人来往行无迹，石径春风长绿苔。」<br>仙人难觅、仙缘难求，古往今来不知多少人造访过奥藏山，却终究无功而返。<br>而现在，曾令人魂牵梦绕的身影却主动离开洞府，望向璃月港的方向。",
     "MainQuests": [

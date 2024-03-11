@@ -46,7 +46,7 @@ var _mq = {
     "Num": "Поварской Черпак. Глава I",
     "Title": "Кулинарный тур по Мондштадту",
     "IT": "Сян Лин",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xiangling",
     "Icon": "UI_ChapterIcon_Xiangling",
     "Intro": "",
     "MainQuests": [

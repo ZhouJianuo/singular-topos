@@ -4886,14 +4886,14 @@ var _material = {
         "Type": 3
     },
     "363364": {
-        "Name": "？？？",
-        "Desc": "？？？",
+        "Name": "Handmade Brooch: \"Woven Dreams\"",
+        "Desc": "A gift from Chiori.<br>A brooch in the style of Chioriya Boutique's current logo, of which only two exist in the entire world, both designed and made by the renowned designer Chiori herself.<br>\"Create something beautiful, and there will always be people who appreciate it.\"<br>The brooch's metal cannot hold the warmth once imparted by her hand, but her words and voice are nonetheless ingrained in your mind.",
         "Icon": "UI_Homeworld_Interior_Fd_Decoration_Prop_Qzxiongzhen_01_Vo",
         "Type": 3
     },
     "373184": {
-        "Name": "？？？",
-        "Desc": "？？？",
+        "Name": "Cleverly Crafted Cauldron: Potion Plans Aplenty",
+        "Desc": "A key device in the alchemy store that, with the expertise lent by Albedo and Sucrose, maintains a magnificent appearance and all the functionality of an alchemy cauldron while being more user-friendly (especially to less experienced alchemists) and more internally spacious, allowing for mass production to take place. This is the gift the Honorary Knight received in thanks for their aid in managing the alchemy store.<br>It is said that this cauldron's greatest advantage is the rate at which it can accelerate the fusion and transmutation of ingredients, thus shortening the potion manufacturing cycle. However, this also makes it unsuited as a tea-making or cooking implement. After all, you wouldn't call a bottle of highly concentrated ingredients a gourmet meal... would you?",
         "Icon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Ljtai_01",
         "Type": 3
     }

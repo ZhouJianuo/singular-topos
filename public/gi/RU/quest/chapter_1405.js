@@ -336,7 +336,7 @@ var _mq = {
     "Num": "Том IV. Глава V",
     "Title": "Маскарад виновных",
     "IT": "Фонтейн",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Fd",
     "Icon": "UI_ChapterIcon_Fontaine",
     "Intro": "",
     "MainQuests": [

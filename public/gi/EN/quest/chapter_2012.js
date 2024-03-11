@@ -81,7 +81,7 @@ var _mq = {
     "Num": "Monoceros Caeli Chapter: Act I",
     "Title": "Mighty Cyclops' Adventure!",
     "IT": "Tartaglia",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Tartaglia",
     "Icon": "UI_ChapterIcon_Tartaglia",
     "Intro": "After whipping up quite the storm in Liyue not so long ago, Fatui Harbinger Childe seems to have been lying low for a while...<br>But a chance encounter with someone from the other side of the ocean is about to reunite the two of you in Liyue once again.<br>A warrior through and through, Childe is always looking out for a chance to throw himself into battle. But this time, you encounter him not as a warrior but as a guardian, one who will do whatever it takes to protect what he treasures most — even if it means having to use his Foul Legacy Transformation once again...",
     "MainQuests": [

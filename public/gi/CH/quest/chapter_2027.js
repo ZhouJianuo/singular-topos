@@ -76,7 +76,7 @@ var _mq = {
     "Num": "天下人之章 第二幕",
     "Title": "须臾百梦",
     "IT": "雷电将军",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Shougun",
     "Icon": "UI_ChapterIcon_Shougun",
     "Intro": "冒险家们近日发现，兽境猎犬突然出现在影向山附近，试图破坏神樱树的根系。<br>凶恶的兽群，湮灭的万物，奋战的人类，一如雷电将军记忆中的「那场灾厄」。<br>「只要前进就会有所失去」，斩断黑暗的她已是孑然一人，而现在…",
     "MainQuests": [

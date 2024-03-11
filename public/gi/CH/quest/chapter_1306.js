@@ -26,7 +26,7 @@ var _mq = {
     "Num": "第三章 第二幕",
     "Title": "千朵玫瑰带来的黎明 · 尾声",
     "IT": "须弥",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xm",
     "Icon": "UI_ChapterIcon_Sumeru",
     "Intro": "",
     "MainQuests": [

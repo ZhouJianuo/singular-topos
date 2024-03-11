@@ -81,7 +81,7 @@ var _mq = {
     "Num": "Fabulae Textile Chapter: Act I",
     "Title": "Bookworm Swordsman",
     "IT": "Xingqiu",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xingqiu",
     "Icon": "UI_ChapterIcon_Xingqiu",
     "Intro": "",
     "MainQuests": [

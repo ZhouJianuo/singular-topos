@@ -101,7 +101,7 @@ var _mq = {
     "Num": "Том III. Глава VI",
     "Title": "Кариберт",
     "IT": "Путешественница",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Lvren",
     "Icon": "UI_ChapterIcon_Traveler",
     "Intro": "",
     "MainQuests": [

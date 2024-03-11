@@ -86,7 +86,7 @@ var _mq = {
     "Num": "Interlude Chapter: Act II",
     "Title": "Perilous Trail",
     "IT": "Interlude Chapter",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Ly",
     "Icon": "UI_ChapterIcon_RogueLikeDiary",
     "Intro": "",
     "MainQuests": [

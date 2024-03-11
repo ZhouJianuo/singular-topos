@@ -171,7 +171,7 @@ var _mq = {
     "Num": "间章 第一幕",
     "Title": "风起鹤归",
     "IT": "间章",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_SideStory",
     "Icon": "UI_ChapterIcon_Qunyuge",
     "Intro": "",
     "MainQuests": [

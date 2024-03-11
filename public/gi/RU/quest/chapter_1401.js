@@ -231,7 +231,7 @@ var _mq = {
     "Num": "Том IV. Глава I",
     "Title": "Прелюдия белых рос и чёрных волн",
     "IT": "Фонтейн",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Fd",
     "Icon": "UI_ChapterIcon_Fontaine",
     "Intro": "",
     "MainQuests": [

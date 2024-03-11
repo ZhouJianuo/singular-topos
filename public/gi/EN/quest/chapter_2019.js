@@ -96,7 +96,7 @@ var _mq = {
     "Num": "Aphros Delos Chapter: Act I",
     "Title": "The Spindrift Shall Never Return to the Sea",
     "IT": "Eula",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Eula",
     "Icon": "UI_ChapterIcon_Eula",
     "Intro": "Once upon a time, a noble crown was forged in Mondstadt from the blood and tears of the common folk.<br>The west wind blew, and those chains were shattered, and that crown fell into the flowing river of the years, raising naught but a few tiny spindrifts.<br>Time may have gradually healed the wounds of that old era, but the scars can still be clearly seen.<br>And where, oh where, shall those \"spindrifts\" go?",
     "MainQuests": [

@@ -116,7 +116,7 @@ var _mq = {
     "Num": "Cerberus Chapter: Act I",
     "Title": "Reborn in the Land of Grievances",
     "IT": "Wriothesley",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Wriothesley",
     "Icon": "UI_ChapterIcon_Wriothesley",
     "Intro": "Impulsive emotions drown out reason, and mistaken choices lead us down the wrong road. It is these multitudes of complex entanglements that forge \"sin.\"<br>Being cast into the depths of the waters is seen as a punishment, but in the eyes of the administrator of the Fortress of Meropide, it is in fact a perfect opportunity to reflect on the past.<br>No-one can give salvation, there is only becoming master of the tides of one's own fortune.",
     "MainQuests": [
@@ -2136,7 +2136,7 @@ var _sq = {
             [
                 {
                     "N": "Wriothesley",
-                    "T": "Oh, there you are. How was your luck with tonight's Welfare Meal lottery?"
+                    "T": "Oh, here you are. Did you manage to land a lucky pull on the Welfare Meals tonight?"
                 },
                 {
                     "N": "_1005",

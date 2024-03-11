@@ -96,7 +96,7 @@ var _mq = {
     "Num": "Lagenaria Chapter: Act I",
     "Title": "The Heart of Healing",
     "IT": "Baizhu",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Baizhuer",
     "Icon": "UI_ChapterIcon_Baizhuer",
     "Intro": "The arrival of unexpected guests and news from old acquaintances have disturbed the usual peace of Bubu Pharmacy.<br>Every reunion is destined to end in farewell, even unto death. Such is a fate that all mortals face, scattered like mere dust.<br>The boundary between medicine and poison seems to have blurred, as has the line between life and death... Where can one find a truly perfect remedy, or does it exist at all?",
     "MainQuests": [

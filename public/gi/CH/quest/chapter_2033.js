@@ -106,7 +106,7 @@ var _mq = {
     "Num": "睡莲之章 第一幕",
     "Title": "致智慧者",
     "IT": "妮露",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Nilou",
     "Icon": "UI_ChapterIcon_Nilou",
     "Intro": "旭日初升，大巴扎熙熙攘攘，热闹如常。<br>即使生活日复一日平淡似水，舞台上的少女也会描绘出五彩斑斓的世界。<br>只不过，她在筹备今夜的剧目与宴会的时候，好像遇到了一点小麻烦…",
     "MainQuests": [

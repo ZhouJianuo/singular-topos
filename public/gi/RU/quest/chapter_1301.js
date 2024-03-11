@@ -206,7 +206,7 @@ var _mq = {
     "Num": "Том III. Глава I",
     "Title": "Сквозь дым и тёмные леса",
     "IT": "Сумеру",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xm",
     "Icon": "UI_ChapterIcon_Sumeru",
     "Intro": "",
     "MainQuests": [

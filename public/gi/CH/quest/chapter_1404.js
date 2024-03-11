@@ -141,7 +141,7 @@ var _mq = {
     "Num": "第四章 第四幕",
     "Title": "谕示胎动的终焉之刻",
     "IT": "枫丹",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Fd",
     "Icon": "UI_ChapterIcon_Fontaine",
     "Intro": "",
     "MainQuests": [

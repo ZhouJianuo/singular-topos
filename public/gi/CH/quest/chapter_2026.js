@@ -101,7 +101,7 @@ var _mq = {
     "Num": "天牛之章 第一幕",
     "Title": "赤金魂",
     "IT": "荒泷一斗",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Itto",
     "Icon": "UI_ChapterIcon_Itto",
     "Intro": "鬼之一族在稻妻百貌千面，或勇武，或孤傲，或乖僻，或凶恶。<br>万种演绎为他们留下了强烈的符号化印象，却也淡化了本应鲜明的「人性」。<br>而即将追寻「人中之鬼」的你，见到的又会是哪一面呢？",
     "MainQuests": [

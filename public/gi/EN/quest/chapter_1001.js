@@ -36,7 +36,7 @@ var _mq = {
     "Num": "Prologue: Act I",
     "Title": "The Outlander Who Caught the Wind",
     "IT": "Mondstadt",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Md",
     "Icon": "UI_ChapterIcon_Mengde",
     "Intro": "",
     "MainQuests": [

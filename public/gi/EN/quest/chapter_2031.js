@@ -71,7 +71,7 @@ var _mq = {
     "Num": "Acer Palmatum Chapter: Act I",
     "Title": "A Strange and Friendless Road",
     "IT": "Kaedehara Kazuha",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Kazuha",
     "Icon": "UI_ChapterIcon_Kazuha",
     "Intro": "The flowers fall and become soil, the wandering son returns home. Having stood against the lightning, the young man of the wind has seen his reputation rise.<br>Some admire him, while others view him askance with jealousy, all while the obsessions of history hang over them like a cloud.<br>Icy, iron-shod footsteps approach gradually, but what he hears is the wind, snow, and the hearth-fire...",
     "MainQuests": [

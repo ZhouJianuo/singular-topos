@@ -76,7 +76,7 @@ var _mq = {
     "Num": "Златокрылая Птица. Глава I",
     "Title": "Сон бабочки",
     "IT": "Сяо",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xiao",
     "Icon": "UI_ChapterIcon_Xiao",
     "Intro": "",
     "MainQuests": [

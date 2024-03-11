@@ -91,7 +91,7 @@ var _mq = {
     "Num": "Leo Minor Chapter: Act I",
     "Title": "Master's Day Off",
     "IT": "Jean",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_QIN",
     "Icon": "UI_ChapterIcon_QIN",
     "Intro": "",
     "MainQuests": [

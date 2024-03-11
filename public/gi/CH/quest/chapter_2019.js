@@ -96,7 +96,7 @@ var _mq = {
     "Num": "浪沫之章 第一幕",
     "Title": "浪花不再归海",
     "IT": "优菈",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Eula",
     "Icon": "UI_ChapterIcon_Eula",
     "Intro": "从前，蒙德有一顶以平民的血与泪锻造的贵族王冠。<br>西风吹过，枷锁断裂，王冠坠入岁月的长河，只扬起几朵浪沫。<br>时间逐渐治愈了旧时代的创伤，但一道道战痕，依然清晰可见。<br>如今的「浪沫」，又该何去何从呢？",
     "MainQuests": [

@@ -96,7 +96,7 @@ var _mq = {
     "Num": "Carassius Auratus Chapter: Act II",
     "Title": "Star-Pickers' Passage",
     "IT": "Yoimiya",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Yoimiya",
     "Icon": "UI_ChapterIcon_Yoimiya",
     "Intro": "Many folktales hold that meteor showers symbolize a sort of romanticism and fantasy.<br>Imagination frolics amidst the starry skies, while love and sentiment are extinguished at the sky's edge, only to sprout anew in peoples' hearts.<br>A certain girl is about to set out on a quest to find this wondrous, fleeting sight...",
     "MainQuests": [

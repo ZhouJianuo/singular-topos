@@ -81,7 +81,7 @@ var _mq = {
     "Num": "Rosa Multiflora Chapter: Act I",
     "Title": "Braving the Tides Together",
     "IT": "Navia",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Navia",
     "Icon": "UI_ChapterIcon_Navia",
     "Intro": "Just as flowers bloom and fall and clouds swirl and disperse, so do all things in the world ebb and flow.<br>There will always be those who seek to bask in the glory's glow alone atop the highest peaks, yet languish in the valley of despair, bemoaning fate's unwillingness to realize their desires, even as they finally depart along with their fury.<br>The young girl gifted her blessings to the silhouettes of the past, and with the mutual encouragement of those companions left behind, they embarked together upon the long road towards the distant summits.<br>Just like when Spina di Rosula was first founded.",
     "MainQuests": [

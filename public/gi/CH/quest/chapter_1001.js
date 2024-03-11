@@ -36,7 +36,7 @@ var _mq = {
     "Num": "序章 第一幕",
     "Title": "捕风的异乡人",
     "IT": "蒙德",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Md",
     "Icon": "UI_ChapterIcon_Mengde",
     "Intro": "",
     "MainQuests": [

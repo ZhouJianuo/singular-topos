@@ -56,7 +56,7 @@ var _mq = {
     "Num": "Pavo Ocellus Chapter: Act I",
     "Title": "Secret Pirate Treasure",
     "IT": "Kaeya",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Kaeya",
     "Icon": "UI_ChapterIcon_Kaeya",
     "Intro": "",
     "MainQuests": [

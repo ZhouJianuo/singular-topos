@@ -46,7 +46,7 @@ var _mq = {
     "Num": "第一章 第四幕 · 报幕",
     "Title": "戴因斯雷布",
     "IT": "旅人",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Lvren",
     "Icon": "UI_ChapterIcon_Traveler",
     "Intro": "",
     "MainQuests": [

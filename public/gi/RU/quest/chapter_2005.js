@@ -51,7 +51,7 @@ var _mq = {
     "Num": "Проворный Волчонок. Глава I",
     "Title": "Что значит Лупикал?",
     "IT": "Рэйзор",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Razor",
     "Icon": "UI_ChapterIcon_Razor",
     "Intro": "",
     "MainQuests": [

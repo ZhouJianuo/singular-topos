@@ -231,7 +231,7 @@ var _mq = {
     "Num": "第四章 第一幕",
     "Title": "白露与黑潮的序诗",
     "IT": "枫丹",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Fd",
     "Icon": "UI_ChapterIcon_Fontaine",
     "Intro": "",
     "MainQuests": [

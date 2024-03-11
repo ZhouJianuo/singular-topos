@@ -46,7 +46,7 @@ var _mq = {
     "Num": "Trulla Chapter: Act I",
     "Title": "Mondstadt Gastronomy Trip",
     "IT": "Xiangling",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xiangling",
     "Icon": "UI_ChapterIcon_Xiangling",
     "Intro": "",
     "MainQuests": [

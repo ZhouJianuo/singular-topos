@@ -156,7 +156,7 @@ var _mq = {
     "Num": "Chapter I: Act III",
     "Title": "A New Star Approaches",
     "IT": "Liyue",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Ly",
     "Icon": "UI_ChapterIcon_Liyue",
     "Intro": "",
     "MainQuests": [

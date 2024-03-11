@@ -31,7 +31,7 @@ var _mq = {
     "Num": "小兔之章 第一幕",
     "Title": "风、勇气和翅膀",
     "IT": "安柏",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Ambor",
     "Icon": "UI_ChapterIcon_Ambor",
     "Intro": "",
     "MainQuests": [

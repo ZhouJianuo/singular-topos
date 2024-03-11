@@ -52,7 +52,7 @@ var __AvatarInfoConfig = [
             "_JP": "凯莉 · 米尔斯",
             "_KR": "李甫熙"
         },
-        "Note": "4.5v4"
+        "Note": "4.5"
     },
     {
         "_name": "Chiori",
@@ -97,13 +97,13 @@ var __AvatarInfoConfig = [
             "Custom": 0.192,
             "Norm": 26134
         },
-        "Version": "<b>4.5v4</b>",
+        "Version": "4.5",
         "Fetter": 94,
         "_CV": {
-            "_CH": "？？？",
-            "_EN": "？？？",
-            "_JP": "？？？",
-            "_KR": "？？？"
+            "_CH": "陈阳",
+            "_EN": "竹达彩奈",
+            "_JP": "布兰妮 · 劳达",
+            "_KR": "李多恩"
         }
     },
     {
@@ -4661,9 +4661,9 @@ var _AvatarPromoteConfig = {
             }
         ],
         "CV": {
-            "CH": "？？？",
-            "EN": "？？？",
-            "RU": "？？？"
+            "CH": "陈阳",
+            "EN": "陈阳",
+            "RU": "陈阳"
         }
     },
     "Liuyun": {
@@ -16699,8 +16699,8 @@ var _AvatarCostumeConfig = {
             }
         ],
         "Namecard": {
-            "Name": "<b>？？？</b>",
-            "Desc": "？？？",
+            "Name": "<b>千织 · 展袖</b>",
+            "Desc": "名片纹饰。<br>被叫做「阿袖」的娃娃是千织最早的作品，也是最省裁剪与布料的模特。",
             "Pic": "UI_NameCardPic_Chiori_P"
         }
     }

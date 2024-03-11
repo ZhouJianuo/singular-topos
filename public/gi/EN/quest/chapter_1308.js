@@ -101,7 +101,7 @@ var _mq = {
     "Num": "Chapter III: Act VI",
     "Title": "Caribert",
     "IT": "Traveler",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Lvren",
     "Icon": "UI_ChapterIcon_Traveler",
     "Intro": "",
     "MainQuests": [

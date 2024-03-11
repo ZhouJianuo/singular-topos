@@ -52,7 +52,7 @@ var __AvatarInfoConfig = [
             "_JP": "Kayli Mills",
             "_KR": "Lee Bo-hee"
         },
-        "Note": "4.5v4"
+        "Note": "4.5"
     },
     {
         "_name": "Chiori",
@@ -97,13 +97,13 @@ var __AvatarInfoConfig = [
             "Custom": 0.192,
             "Norm": 26134
         },
-        "Version": "<b>4.5v4</b>",
+        "Version": "4.5",
         "Fetter": 94,
         "_CV": {
-            "_CH": "？？？",
-            "_EN": "？？？",
-            "_JP": "？？？",
-            "_KR": "？？？"
+            "_CH": "陈阳",
+            "_EN": "竹達彩奈",
+            "_JP": "Brittany Lauda",
+            "_KR": "Lee Da-eun"
         }
     },
     {
@@ -4661,9 +4661,9 @@ var _AvatarPromoteConfig = {
             }
         ],
         "CV": {
-            "CH": "？？？",
-            "EN": "？？？",
-            "RU": "？？？"
+            "CH": "竹达彩奈",
+            "EN": "竹達彩奈",
+            "RU": "竹達彩奈"
         }
     },
     "Liuyun": {
@@ -16699,8 +16699,8 @@ var _AvatarCostumeConfig = {
             }
         ],
         "Namecard": {
-            "Name": "<b>？？？</b>",
-            "Desc": "？？？",
+            "Name": "<b>Развевающиеся рукава</b>",
+            "Desc": "Именная карта.<br>Кукла по имени «Тамото-тян» - одна из самых ранних работ Тиори и модель, для которой требуется меньше всего ткани и раскройки.",
             "Pic": "UI_NameCardPic_Chiori_P"
         }
     }

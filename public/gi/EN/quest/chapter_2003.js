@@ -31,7 +31,7 @@ var _mq = {
     "Num": "Lepus Chapter: Act I",
     "Title": "Wind, Courage, and Wings",
     "IT": "Amber",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Ambor",
     "Icon": "UI_ChapterIcon_Ambor",
     "Intro": "",
     "MainQuests": [

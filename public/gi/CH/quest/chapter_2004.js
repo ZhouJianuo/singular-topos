@@ -41,7 +41,7 @@ var _mq = {
     "Num": "沙漏之章 第一幕",
     "Title": "麻烦的工作",
     "IT": "丽莎",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Lisa",
     "Icon": "UI_ChapterIcon_Lisa",
     "Intro": "",
     "MainQuests": [

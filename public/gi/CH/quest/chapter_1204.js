@@ -136,7 +136,7 @@ var _mq = {
     "Num": "第二章 第三幕",
     "Title": "千手百眼，天下人间",
     "IT": "稻妻",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Dq",
     "Icon": "UI_ChapterIcon_Inazuma",
     "Intro": "",
     "MainQuests": [

@@ -116,7 +116,7 @@ var _mq = {
     "Num": "Sapientia Oromasdis Chapter: Act II",
     "Title": "Homecoming",
     "IT": "Nahida",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Nahida",
     "Icon": "UI_ChapterIcon_Nahida",
     "Intro": "In the Sanctuary of Surasthana lies a crystal of unknown origin, which holds a promise destined to remain unfulfilled.<br>In the long river of time, all beings are but passers-by. Humans and gods create history, but even they cannot ensure that these stories will not be forgotten by generations to come.<br>\"Why are we born? What do we love? Why can't we let go?\"<br>Listen to the answer of the oldest, and yet also the youngest being in the world.",
     "MainQuests": [

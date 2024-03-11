@@ -106,7 +106,7 @@ var _mq = {
     "Num": "天下人之章 第一幕",
     "Title": "影照浮世风流",
     "IT": "雷电将军",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Shougun",
     "Icon": "UI_ChapterIcon_Shougun",
     "Intro": "千手百眼已成往事，而今雷暴未歇，创伤未平。<br>她深居净土，依然在权衡手中的「永恒」与「愿望」。<br>去叩响心扉吧，愿如今这浮世风流，能映照于这位天下人的眼中。",
     "MainQuests": [

@@ -136,7 +136,7 @@ var _mq = {
     "Num": "第一章 第二幕",
     "Title": "辞行久远之躯",
     "IT": "璃月",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Ly",
     "Icon": "UI_ChapterIcon_Liyue",
     "Intro": "",
     "MainQuests": [

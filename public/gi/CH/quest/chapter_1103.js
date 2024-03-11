@@ -156,7 +156,7 @@ var _mq = {
     "Num": "第一章 第三幕",
     "Title": "迫近的客星",
     "IT": "璃月",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Ly",
     "Icon": "UI_ChapterIcon_Liyue",
     "Intro": "",
     "MainQuests": [

@@ -101,7 +101,7 @@ var _mq = {
     "Num": "第三章 第六幕",
     "Title": "卡利贝尔",
     "IT": "旅人",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Lvren",
     "Icon": "UI_ChapterIcon_Traveler",
     "Intro": "",
     "MainQuests": [

@@ -46,7 +46,7 @@ var _mq = {
     "Num": "Том I. Глава IV - Прелюдия",
     "Title": "Дайнслейф",
     "IT": "Близнецы",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Lvren",
     "Icon": "UI_ChapterIcon_Traveler",
     "Intro": "",
     "MainQuests": [

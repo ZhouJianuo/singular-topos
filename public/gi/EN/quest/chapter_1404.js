@@ -141,7 +141,7 @@ var _mq = {
     "Num": "Chapter IV: Act IV",
     "Title": "Cataclysm's Quickening",
     "IT": "Fontaine",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Fd",
     "Icon": "UI_ChapterIcon_Fontaine",
     "Intro": "",
     "MainQuests": [
@@ -1767,7 +1767,7 @@ var _sq = {
                 },
                 {
                     "N": "Lyney",
-                    "T": "No, I'm the leader of this operation, and I‘m the one responsible for this team... I was the one who failed to protect them."
+                    "T": "No, I'm the leader of this operation, and I'm the one responsible for this team... I was the one who failed to protect them."
                 },
                 {
                     "N": "Lyney",

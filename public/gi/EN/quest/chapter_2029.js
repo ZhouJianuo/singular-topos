@@ -141,7 +141,7 @@ var _mq = {
     "Num": "Umbrabilis Orchis Chapter: Act I",
     "Title": "Calculated Gambit",
     "IT": "Yelan",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Yelan",
     "Icon": "UI_ChapterIcon_Yelan",
     "Intro": "The Tianshu of the Liyue Qixing is getting on in years, and the selection of his successor is nigh.<br>As the three candidates present themselves one after another, some force seems to be stirring the seemingly calm waters...<br>Now, even the greatest of chess-masters may play false, and thus set the game. Yet there are already precious few worthy players in the first place, and many more still are those who do not even comprehend that they are on the board.",
     "MainQuests": [

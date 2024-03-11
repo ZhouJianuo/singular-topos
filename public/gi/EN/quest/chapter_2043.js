@@ -106,7 +106,7 @@ var _mq = {
     "Num": "Animula Choragi Chapter: Act I",
     "Title": "\"The Little Oceanid\"",
     "IT": "Furina",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Furina",
     "Icon": "UI_ChapterIcon_Furina",
     "Intro": "The curtain has fallen on the grand act, the performance has ended, the true appearance of day and night reflected in the pupils of the eyes.<br>On what should have been the road home for the triumphant hero, there are neither bouquets of flowers tossed nor the echo of applause, only the murmuring of the Fountain of Lucine.<br>The future is as long as the past. Like a gentle ripple, she merges with the throng of humanity...",
     "MainQuests": [
@@ -1274,7 +1274,7 @@ var _sq = {
                 },
                 {
                     "N": "Furina",
-                    "T": "Nothing... I suppose my presence will be indispendable if we are to restore his faith in the show."
+                    "T": "Nothing... I suppose my presence will be indispensable if we are to restore his faith in the show."
                 },
                 {
                     "N": "Furina",

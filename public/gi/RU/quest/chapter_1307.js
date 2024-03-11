@@ -126,7 +126,7 @@ var _mq = {
     "Num": "Промежуточный том. Глава III",
     "Title": "Инверсия бытия",
     "IT": "Промежуточный том",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xm",
     "Icon": "UI_ChapterIcon_Sumeru",
     "Intro": "",
     "MainQuests": [

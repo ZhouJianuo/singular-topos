@@ -106,7 +106,7 @@ var _mq = {
     "Num": "Imperatrix Umbrosa Chapter: Act I",
     "Title": "Reflections of Mortality",
     "IT": "Raiden Shogun",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Shougun",
     "Icon": "UI_ChapterIcon_Shougun",
     "Intro": "The Omnipresent God is a thing of the past, and yet the storm has not abated, and the scars on this land have not healed.<br>She remains deep within her personal plane, balancing \"Eternity\" and \"Wishes\" in her hands as if on a scale.<br>Go forth and try to open this god's heart to the images of the transient mortal realm.",
     "MainQuests": [

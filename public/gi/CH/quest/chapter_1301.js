@@ -206,7 +206,7 @@ var _mq = {
     "Num": "第三章 第一幕",
     "Title": "穿越烟帷与暗林",
     "IT": "须弥",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xm",
     "Icon": "UI_ChapterIcon_Sumeru",
     "Intro": "",
     "MainQuests": [

@@ -126,7 +126,7 @@ var _mq = {
     "Num": "Том IV. Глава II",
     "Title": "Словно лёгкий дождь без причины",
     "IT": "Фонтейн",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Fd",
     "Icon": "UI_ChapterIcon_Fontaine",
     "Intro": "",
     "MainQuests": [

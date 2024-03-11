@@ -96,7 +96,7 @@ var _mq = {
     "Num": "Пролог. Глава II",
     "Title": "Горькие слёзы",
     "IT": "Мондштадт",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Md",
     "Icon": "UI_ChapterIcon_Mengde",
     "Intro": "",
     "MainQuests": [

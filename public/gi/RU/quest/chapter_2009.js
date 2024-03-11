@@ -66,7 +66,7 @@ var _mq = {
     "Num": "Четырёхлистный Клевер. Глава I",
     "Title": "Настоящее сокровище",
     "IT": "Кли",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Klee",
     "Icon": "UI_ChapterIcon_Klee",
     "Intro": "",
     "MainQuests": [

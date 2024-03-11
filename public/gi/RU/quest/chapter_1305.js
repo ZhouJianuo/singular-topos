@@ -226,7 +226,7 @@ var _mq = {
     "Num": "Том III. Глава V",
     "Title": "Пульс Акаши и пламя кальпы",
     "IT": "Сумеру",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xm",
     "Icon": "UI_ChapterIcon_Sumeru",
     "Intro": "",
     "MainQuests": [

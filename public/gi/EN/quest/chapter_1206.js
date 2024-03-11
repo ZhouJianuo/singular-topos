@@ -61,7 +61,7 @@ var _mq = {
     "Num": "Chapter II: Act IV",
     "Title": "Requiem of the Echoing Depths",
     "IT": "Traveler",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Lvren",
     "Icon": "UI_ChapterIcon_Traveler",
     "Intro": "",
     "MainQuests": [

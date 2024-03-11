@@ -81,7 +81,7 @@ var _mq = {
     "Num": "锦织之章 第一幕",
     "Title": "江湖不问出处",
     "IT": "行秋",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xingqiu",
     "Icon": "UI_ChapterIcon_Xingqiu",
     "Intro": "",
     "MainQuests": [

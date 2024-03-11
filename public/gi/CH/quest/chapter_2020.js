@@ -91,7 +91,7 @@ var _mq = {
     "Num": "古闻之章 第二幕",
     "Title": "匪石",
     "IT": "钟离",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Zhongli",
     "Icon": "UI_ChapterIcon_Zhongli",
     "Intro": "来自璃月港冒险家协会的新委托引出了一起怪异案件。<br>失踪的矿工、神秘的线索…种种迹象都令人生疑。<br>在城中听戏品茶的钟离也被卷入了此次调查。然而，矿工离奇失踪，背后的真相究竟是…？",
     "MainQuests": [

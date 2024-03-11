@@ -121,7 +121,7 @@ var _mq = {
     "Num": "Sapientia Oromasdis Chapter: Act I",
     "Title": "Lingering Warmth",
     "IT": "Nahida",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Nahida",
     "Icon": "UI_ChapterIcon_Nahida",
     "Intro": "The Akasha has stopped functioning, the city of scholars is no longer fanatical about pursuing knowledge, and the right to dream has been returned to Sumeru's citizenry.<br>All of a sudden, dreams — erstwhile \"old friends\" that have become novelties — are the talk of the town in Sumeru City.<br>Even those poker-faced crocodiles must yawn sometimes. Now is the perfect time to loosen up and listen to their chit-chat!",
     "MainQuests": [

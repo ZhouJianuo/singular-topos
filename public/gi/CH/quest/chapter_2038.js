@@ -96,7 +96,7 @@ var _mq = {
     "Num": "琉金之章 第二幕",
     "Title": "拾星之旅",
     "IT": "宵宫",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Yoimiya",
     "Icon": "UI_ChapterIcon_Yoimiya",
     "Intro": "在坊间相传的诸多故事中，流星雨都是非常浪漫与梦幻的意象。<br>想象力在漫天的星光中肆意嬉闹，爱意与温情在天边熄灭，又在心中萌芽。<br>而那位少女，正要为了这场转瞬即逝的奇观而踏上旅途…",
     "MainQuests": [

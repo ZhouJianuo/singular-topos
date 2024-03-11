@@ -116,7 +116,7 @@ var _mq = {
     "Num": "Том I. Глава I",
     "Title": "Загадочная земля тысячи камней",
     "IT": "Ли Юэ",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Ly",
     "Icon": "UI_ChapterIcon_Liyue",
     "Intro": "",
     "MainQuests": [

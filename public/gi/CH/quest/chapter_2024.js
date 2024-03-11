@@ -156,7 +156,7 @@ var _mq = {
     "Num": "眠龙之章 第一幕",
     "Title": "兵戈梦去，春草如茵",
     "IT": "珊瑚宫心海",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Kokomi",
     "Icon": "UI_ChapterIcon_Kokomi",
     "Intro": "「眼狩令」落下帷幕，心海邀请你再赴海祇岛，参加庆功宴。<br>战后和平如约而至，难辨真假的流言却越传越广，新的阴谋正在酝酿。<br>一起去见证吧。心海的决意，以及海祇岛的未来。",
     "MainQuests": [

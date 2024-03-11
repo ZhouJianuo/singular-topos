@@ -96,7 +96,7 @@ var _mq = {
     "Num": "悬壶之章 第一幕",
     "Title": "「医心」",
     "IT": "白术",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Baizhuer",
     "Icon": "UI_ChapterIcon_Baizhuer",
     "Intro": "意料之外的来客，旧识故交的讯息，打破了不卜庐数年如一日的平静。<br>契阔多离别，绸缪到死生。凡人皆如此，濛濛若沙尘。<br>毒与药的界限已经模糊，生与死的边界也在动摇…问世间何处能求万全之方？",
     "MainQuests": [

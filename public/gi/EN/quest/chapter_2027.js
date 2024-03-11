@@ -76,7 +76,7 @@ var _mq = {
     "Num": "Imperatrix Umbrosa Chapter: Act II",
     "Title": "Transient Dreams",
     "IT": "Raiden Shogun",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Shougun",
     "Icon": "UI_ChapterIcon_Shougun",
     "Intro": "Adventurers have recently found Rifthounds attempting to destroy the root system of the Sacred Sakura near Mt. Yougou.<br>Ferocious beasts, everything being destroyed, the humans fighting valiantly — just as the Raiden Shogun remembers happened during \"that catastrophe.\"<br>\"Where there is progress, there must be loss.\" By the time she had cut the darkness away then, she was already alone. But now...",
     "MainQuests": [

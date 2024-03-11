@@ -96,7 +96,7 @@ var _mq = {
     "Num": "Prologue: Act II",
     "Title": "For a Tomorrow Without Tears",
     "IT": "Mondstadt",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Md",
     "Icon": "UI_ChapterIcon_Mengde",
     "Intro": "",
     "MainQuests": [

@@ -116,7 +116,7 @@ var _mq = {
     "Num": "智慧主之章 第二幕",
     "Title": "归乡",
     "IT": "纳西妲",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Nahida",
     "Icon": "UI_ChapterIcon_Nahida",
     "Intro": "净善宫中来历不明的晶体，承载了一段注定无法履行的承诺。<br>时光漫漫，万般生灵皆为过客，人类与神明创造历史，也无法保证历史不被后人遗忘。<br>「我们因何而生，我们所爱何物，我们为何如此不舍？」<br>去听听世间最古老，又最年轻的生命的回答吧。",
     "MainQuests": [

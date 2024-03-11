@@ -246,7 +246,7 @@ var _mq = {
     "Num": "Diluvies Chapter: Act I",
     "Title": "The Remains of the Past Day",
     "IT": "Neuvillette",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Neuvillette",
     "Icon": "UI_ChapterIcon_Neuvillette",
     "Intro": "Most Fontainians have an image like this in their minds: <br>Iudex Neuvillette sits upright in the vaulted heights of the Opera House, handing down eminently praiseworthy verdicts.<br>The vicissitudes of time leave no mark nor trace on his body, nor does he seem burdened by \"emotion.\" As equitable as water, but also as cold as water.<br>...Is this really the case? When memories flood in like a torrent, even those not predisposed to revealing their emotions may yet find themselves stirred.",
     "MainQuests": [
@@ -3349,7 +3349,7 @@ var _sq = {
                 },
                 {
                     "N": "Neuvillette",
-                    "T": "Let me ask this again: It was your idea to send that threat letter, correct?"
+                    "T": "Let me ask this another way: It was your idea to send that threat letter, correct?"
                 },
                 {
                     "N": "Domenico",

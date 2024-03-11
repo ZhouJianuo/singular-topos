@@ -41,7 +41,7 @@ var _mq = {
     "Num": "Tempus Fugit Chapter: Act I",
     "Title": "Troublesome Work",
     "IT": "Lisa",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Lisa",
     "Icon": "UI_ChapterIcon_Lisa",
     "Intro": "",
     "MainQuests": [

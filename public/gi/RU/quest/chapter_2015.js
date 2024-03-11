@@ -71,7 +71,7 @@ var _mq = {
     "Num": "",
     "Title": "",
     "IT": "",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Qiqi",
     "Icon": "UI_ChapterIcon_Qiqi",
     "Intro": "",
     "MainQuests": [

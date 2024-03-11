@@ -106,7 +106,7 @@ var _mq = {
     "Num": "第二章 第二幕",
     "Title": "无念无想，泡影断灭",
     "IT": "稻妻",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Dq",
     "Icon": "UI_ChapterIcon_Inazuma",
     "Intro": "",
     "MainQuests": [

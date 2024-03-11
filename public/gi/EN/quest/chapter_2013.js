@@ -61,7 +61,7 @@ var _mq = {
     "Num": "Carmen Dei Chapter: Act I",
     "Title": "Should You Be Trapped in a Windless Land",
     "IT": "Venti",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Venti",
     "Icon": "UI_ChapterIcon_Venti",
     "Intro": "",
     "MainQuests": [

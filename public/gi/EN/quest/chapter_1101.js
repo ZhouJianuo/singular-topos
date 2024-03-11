@@ -116,7 +116,7 @@ var _mq = {
     "Num": "Chapter I: Act I",
     "Title": "Of the Land Amidst Monoliths",
     "IT": "Liyue",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Ly",
     "Icon": "UI_ChapterIcon_Liyue",
     "Intro": "",
     "MainQuests": [

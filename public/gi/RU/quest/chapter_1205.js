@@ -171,7 +171,7 @@ var _mq = {
     "Num": "Промежуточный том. Глава I",
     "Title": "Ветер дует - журавли возвращаются",
     "IT": "Промежуточный том",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_SideStory",
     "Icon": "UI_ChapterIcon_Qunyuge",
     "Intro": "",
     "MainQuests": [

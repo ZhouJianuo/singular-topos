@@ -226,7 +226,7 @@ var _mq = {
     "Num": "Chapter III: Act V",
     "Title": "Akasha Pulses, the Kalpa Flame Rises",
     "IT": "Sumeru",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xm",
     "Icon": "UI_ChapterIcon_Sumeru",
     "Intro": "",
     "MainQuests": [

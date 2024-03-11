@@ -56,7 +56,7 @@ var _mq = {
     "Num": "孔雀羽之章 第一幕",
     "Title": "海盗秘宝",
     "IT": "凯亚",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Kaeya",
     "Icon": "UI_ChapterIcon_Kaeya",
     "Intro": "",
     "MainQuests": [

@@ -26,7 +26,7 @@ var _mq = {
     "Num": "Том III. Глава II",
     "Title": "Сто свежих роз приносит утро: Финал",
     "IT": "Сумеру",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xm",
     "Icon": "UI_ChapterIcon_Sumeru",
     "Intro": "",
     "MainQuests": [

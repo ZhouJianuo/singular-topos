@@ -91,7 +91,7 @@ var _mq = {
     "Num": "Мудрая Сова. Глава I",
     "Title": "Алиби Полуночного героя",
     "IT": "Дилюк",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Diluc",
     "Icon": "UI_ChapterIcon_Diluc",
     "Intro": "",
     "MainQuests": [

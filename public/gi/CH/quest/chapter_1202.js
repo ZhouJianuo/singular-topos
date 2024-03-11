@@ -231,7 +231,7 @@ var _mq = {
     "Num": "第二章 第一幕",
     "Title": "不动鸣神，恒常乐土",
     "IT": "稻妻",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Dq",
     "Icon": "UI_ChapterIcon_Inazuma",
     "Intro": "",
     "MainQuests": [

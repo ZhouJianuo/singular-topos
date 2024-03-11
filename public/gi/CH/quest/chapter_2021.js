@@ -91,7 +91,7 @@ var _mq = {
     "Num": "琉金之章 第一幕",
     "Title": "如梦如电的隽永",
     "IT": "宵宫",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Yoimiya",
     "Icon": "UI_ChapterIcon_Yoimiya",
     "Intro": "「长野原烟花会」举办在即，万众期待，而烟花少女仍在奔忙。<br>在永恒的国度，转瞬即逝的烟花之中究竟承载何物？<br>若有片刻闲暇，请驻足一观吧，此乃须臾，亦为隽永。",
     "MainQuests": [

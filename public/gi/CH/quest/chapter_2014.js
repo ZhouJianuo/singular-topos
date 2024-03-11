@@ -46,7 +46,7 @@ var _mq = {
     "Num": "古闻之章 第一幕",
     "Title": "盐花",
     "IT": "钟离",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Zhongli",
     "Icon": "UI_ChapterIcon_Zhongli",
     "Intro": "终结一切契约的契约已被签订，而他的故事仍然流传于广袤四方。<br>但时间会冲褪一切，因此，「记录」必须留存。<br>然而磐石虽坚，犹有竟时。<br>比磐石、神明与世界更加可靠的，唯有你——远渡重天之人。",
     "MainQuests": [

@@ -26,7 +26,7 @@ var _mq = {
     "Num": "Chapter III: Act II",
     "Title": "The Morn a Thousand Roses Brings: Denouement",
     "IT": "Sumeru",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xm",
     "Icon": "UI_ChapterIcon_Sumeru",
     "Intro": "",
     "MainQuests": [

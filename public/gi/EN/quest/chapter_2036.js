@@ -101,7 +101,7 @@ var _mq = {
     "Num": "Mantichora Chapter: Act I",
     "Title": "Lionsblood",
     "IT": "Dehya",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Dehya",
     "Icon": "UI_ChapterIcon_Dehya",
     "Intro": "Mercenaries often find themselves traveling through the desert, the blazing sun forging their tough characters, and the sandstorms hammering their resolve into shape.<br>The Flame-Mane, as she is named, never disappoints, and does not forsake her grip on her weapon no matter what riches or fame await.<br>All know her to be valiant and bold, but only after a drink (or many) will she confide some as-yet unresolved melancholy to her friends...",
     "MainQuests": [

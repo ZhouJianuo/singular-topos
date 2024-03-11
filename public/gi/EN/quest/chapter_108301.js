@@ -38,17 +38,17 @@ var _mq = {
             "Count": 1
         }
     ],
-    "Num": "",
-    "Title": "",
+    "Num": "Hangout Event: Lynette - Act I",
+    "Title": "Checks & Cats",
     "IT": "Lynette",
     "Tab": "",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_Linette",
     "Intro": "",
     "MainQuests": [
         {
             "_id": 19180,
-            "Name": "",
-            "Desc": "",
+            "Name": "A Decision",
+            "Desc": "There seems to be a familiar figure near the Hotel Debord...",
             "Track": [
                 19182,
                 19185
@@ -62,8 +62,8 @@ var _mq = {
         },
         {
             "_id": 19182,
-            "Name": "",
-            "Desc": "",
+            "Name": "Mask",
+            "Desc": "Lynette decides to return to the reception...",
             "Track": [
                 19184
             ],
@@ -97,8 +97,8 @@ var _mq = {
         },
         {
             "_id": 19184,
-            "Name": "",
-            "Desc": "",
+            "Name": "Break",
+            "Desc": "It's curtains for this act, and Lynette gets a long-overdue break...",
             "Track": [],
             "R": [],
             "RP": [],
@@ -108,8 +108,8 @@ var _mq = {
         },
         {
             "_id": 19185,
-            "Name": "",
-            "Desc": "",
+            "Name": "Detectives",
+            "Desc": "Lynette decides to head to the newspaper agency...",
             "Track": [
                 19187
             ],
@@ -148,8 +148,8 @@ var _mq = {
         },
         {
             "_id": 19187,
-            "Name": "",
-            "Desc": "",
+            "Name": "Closure",
+            "Desc": "The fog is lifting, and you are getting closer to the truth...",
             "Track": [],
             "R": [],
             "RP": [],
@@ -165,55 +165,60 @@ var _mq = {
 
 var _sq = {
     "1918002": {
-        "Desc": "",
+        "Desc": "Go to the area near Hotel Debord",
+        "Step": "There seems to be a familiar figure near the Hotel Debord...",
         "Talk": []
     },
     "1918001": {
-        "Desc": "",
+        "Desc": "Talk to Lynette",
         "Talk": []
     },
     "1918201": {
-        "Desc": "",
+        "Desc": "Enter Hotel Debord",
+        "Step": "You decide to return to the reception...",
         "Talk": []
     },
     "1918204": {
-        "Desc": "",
+        "Desc": "Go to the second floor to pass the time",
         "Talk": []
     },
     "1918202": {
-        "Desc": "",
+        "Desc": "Go back to the first floor to take the envelope",
+        "Step": "You decide to return to the reception...",
         "Talk": []
     },
     "1918203": {
-        "Desc": "",
+        "Desc": "Talk to Director Merieux",
+        "Step": "What does the sudden appearance of the threat letters and the hidden hostility mean?",
         "Talk": []
     },
     "1918205": {
-        "Desc": "",
+        "Desc": "Go to the Fleuve Cendre",
         "Talk": []
     },
     "1918206": {
-        "Desc": "",
+        "Desc": "Go to the tavern",
+        "Step": "What does the sudden appearance of the threat letters and the hidden hostility mean?",
         "Talk": []
     },
     "1918218": {
-        "Desc": "",
+        "Desc": "Activate search mode and investigate the documents",
         "Talk": []
     },
     "1918219": {
-        "Desc": "",
+        "Desc": "Activate search mode and investigate the documents",
         "Talk": []
     },
     "1918215": {
-        "Desc": "",
+        "Desc": "Activate search mode and investigate the documents",
         "Talk": []
     },
     "1918216": {
-        "Desc": "",
+        "Desc": "Activate search mode and investigate the documents",
         "Talk": []
     },
     "1918217": {
-        "Desc": "",
+        "Desc": "Activate search mode and investigate the documents",
         "Talk": []
     },
     "1918224": {
@@ -241,59 +246,67 @@ var _sq = {
         "Talk": []
     },
     "1918207": {
-        "Desc": "",
+        "Desc": "Discuss with everyone",
         "Talk": []
     },
     "1918209": {
-        "Desc": "",
+        "Desc": "Wait until two days later (16:00 – 18:00)",
+        "Step": "You come up with a plan to get everything back on track...",
+        "Tips": "Adjust the time to 16:00 – 18:00 the day after tomorrow",
         "Talk": []
     },
     "1918210": {
-        "Desc": "",
+        "Desc": "Go to the Opera Epiclese",
+        "Step": "You come up with a plan to get everything back on track...",
         "Talk": []
     },
     "1918211": {
-        "Desc": "",
+        "Desc": "Act as planned",
         "Talk": []
     },
     "1918212": {
-        "Desc": "",
+        "Desc": "Continue with the second half of the performance",
         "Talk": []
     },
     "1918213": {
-        "Desc": "",
+        "Desc": "Talk to Director Merieux",
+        "Step": "You come up with a plan to get everything back on track...",
         "Talk": []
     },
     "1918401": {
-        "Desc": "",
+        "Desc": "\"Recharge\" with Lynette",
         "Talk": []
     },
     "1918501": {
-        "Desc": "",
+        "Desc": "Go to The Steambird",
+        "Step": "You decide to head to the newspaper agency...",
         "Talk": []
     },
     "1918503": {
-        "Desc": "",
+        "Desc": "Wait till the next morning (07:00 – 09:00)",
+        "Step": "You and Lynette have agreed on the time of your next meeting...",
+        "Tips": "Adjust time to 07:00 – 09:00 the next day",
         "Talk": []
     },
     "1918504": {
-        "Desc": "",
+        "Desc": "Meet Lynette",
         "Talk": []
     },
     "1918505": {
-        "Desc": "",
+        "Desc": "Talk to Lynette",
         "Talk": []
     },
     "1918506": {
-        "Desc": "",
+        "Desc": "Go to the New Fontaine Research Institute",
+        "Step": "Bonnie's \"master\" seems to be a problematic character. You decide to investigate...",
         "Talk": []
     },
     "1918507": {
-        "Desc": "",
+        "Desc": "Go and check the suspicious location",
         "Talk": []
     },
     "1918523": {
-        "Desc": "",
+        "Desc": "Follow Bonnie",
         "Talk": [
             [
                 {
@@ -304,130 +317,131 @@ var _sq = {
         ]
     },
     "1918508": {
-        "Desc": "",
+        "Desc": "Defeat all opponents",
         "Talk": []
     },
     "1918509": {
-        "Desc": "",
+        "Desc": "Go near the base",
+        "Step": "Bonnie's \"master\" seems to be a problematic character. You decide to investigate...",
         "Talk": []
     },
     "1918512": {
-        "Desc": "",
+        "Desc": "Investigate the clues in the base",
         "Talk": [
             [
                 {
                     "N": "Chevreuse",
-                    "T": ""
+                    "T": "Aha, just as we thought — this is where the Imitation Sinthe was being made..."
                 },
                 {
                     "N": "_0",
-                    "T": ""
+                    "T": "[Medicine] (Help Chevreuse identify the drugs...)"
                 },
                 {
                     "N": "_0",
-                    "T": ""
+                    "T": "These bottles and jars... They're all Imitation Sinthe?"
                 },
                 {
                     "N": "Chevreuse",
-                    "T": ""
+                    "T": "...Looks like he's got more than just Imitation Sinthe stashed around here... In addition to the raw materials needed to synthesize the substance itself, there's a large quantity of cleaning agents and a few drugs I haven't been able to identify."
                 },
                 {
                     "N": "Chevreuse",
-                    "T": ""
+                    "T": "These cleaning agents are likely used to dispel traces of the substance... like its smell."
                 },
                 {
                     "N": "Chevreuse",
-                    "T": ""
+                    "T": "The Special Patrol did some digging into Imitation Sinthe. Our records indicate that it's very difficult for ordinary people to detect traces left behind by this stuff. I'm sure that was the case for Pierre as well."
                 },
                 {
                     "N": "Chevreuse",
-                    "T": ""
+                    "T": "It must have taken a considerable amount of time and skill to ensure all those traces get washed away."
                 },
                 {
                     "N": "Chevreuse",
-                    "T": ""
+                    "T": "But what are these other drugs for..."
                 }
             ]
         ]
     },
     "1918510": {
-        "Desc": "",
+        "Desc": "Investigate the clues in the base",
         "Talk": [
             [
                 {
                     "N": "Lynette",
-                    "T": ""
+                    "T": "...When the Marechaussee Phantom searched Pierre's house, there was no sign of these barrels, right?"
                 },
                 {
                     "N": "_0",
-                    "T": ""
+                    "T": "He must've moved them. But carrying them all the way out here would attract way too much attention."
                 },
                 {
                     "N": "Lynette",
-                    "T": ""
+                    "T": "You're right. That doesn't seem like his way of doing things... How did he get them here then?"
                 },
                 {
                     "N": "_0",
-                    "T": ""
+                    "T": "(Examine the barrels...)"
                 },
                 {
                     "N": "Investigate",
-                    "T": ""
+                    "T": "(The barrels show signs of water damage. Dried-up water stains can be seen around the circumference of the barrels...)"
                 },
                 {
                     "N": "Investigate",
-                    "T": ""
+                    "T": "(There seems to be a pattern to the location of the water stains. For some reason, they appear to be limited to the lower half of the barrels.)"
                 },
                 {
                     "N": "Investigate",
-                    "T": ""
+                    "T": "(The lids don't seem very tight, leaving sizeable gaps around the edges. But, there doesn't appear to be any traces of water inside the barrels.)"
                 },
                 {
                     "N": "Lynette",
-                    "T": ""
+                    "T": "Only the lower halves of the barrels appear to have been submerged in water..."
                 }
             ]
         ]
     },
     "1918511": {
-        "Desc": "",
+        "Desc": "Investigate the clues in the base",
         "Talk": [
             [
                 {
                     "N": "Lyney",
-                    "T": ""
+                    "T": "The material these bags are made of... It's quite rare..."
                 },
                 {
                     "N": "_0",
-                    "T": ""
+                    "T": "[Knowledge] (Help Lyney assess the material...)"
                 },
                 {
                     "N": "_0",
-                    "T": ""
+                    "T": "Doesn't it look similar to the material used for your Magic Pockets?"
                 },
                 {
                     "N": "Lyney",
-                    "T": ""
+                    "T": "...It's the very same, actually — Romaritime Flower fiber. But, there's something special about the composition of these bags. I took a closer look, and it appears they're not only waterproof but also corrosion and leak-resistant."
                 },
                 {
                     "N": "Lyney",
-                    "T": ""
+                    "T": "Even the strings look specially designed to keep the bags closed nice and tight."
                 },
                 {
                     "N": "Lyney",
-                    "T": ""
+                    "T": "I came across some bags made of the same material just now, but they were much smaller and thinner. From the look of them, they seemed far less durable as well."
                 },
                 {
                     "N": "_0",
-                    "T": ""
+                    "T": "So... kind of like one of those small, sealed bags?"
                 },
                 {
                     "N": "Lyney",
-                    "T": ""
+                    "T": "...Very similar, actually. Normally, it would be easy for a Guard Poodle to sniff out the Imitation Sinthe, but if it was sealed away in a bag like that, it might be possible to elude detection for some time."
                 },
                 {
                     "N": "Lyney",
-                    "T": ""
+                    "T": "But what could these big bags be for then... If the goal is to keep the Imitation Sinthe hidden and sealed away, these bags seem a bit too conspicuous..."
                 }
             ]
         ]
@@ -437,27 +451,28 @@ var _sq = {
         "Talk": []
     },
     "1918513": {
-        "Desc": "",
+        "Desc": "Talk to Lynette and the others",
         "Talk": []
     },
     "1918514": {
-        "Desc": "",
+        "Desc": "Head underwater and continue searching for clues",
         "Talk": []
     },
     "1918528": {
-        "Desc": "",
+        "Desc": "Go to your destination to search for clues",
         "Talk": []
     },
     "1918515": {
-        "Desc": "",
+        "Desc": "Talk to Lynette and the others",
         "Talk": []
     },
     "1918516": {
-        "Desc": "",
+        "Desc": "Go to Lumidouce Harbor",
+        "Step": "Bonnie's \"master\" seems to be a problematic character. You decide to investigate...",
         "Talk": []
     },
     "1918517": {
-        "Desc": "",
+        "Desc": "Go to the Humane Society",
         "Talk": []
     },
     "1918521": {
@@ -465,15 +480,16 @@ var _sq = {
         "Talk": []
     },
     "1918522": {
-        "Desc": "",
+        "Desc": "Hunt Bernard down",
         "Talk": []
     },
     "1918518": {
-        "Desc": "",
+        "Desc": "Interrogate Bernard",
+        "Step": "Bonnie's \"master\" seems to be a problematic character. You decide to investigate...",
         "Talk": []
     },
     "1918519": {
-        "Desc": "",
+        "Desc": "Attempt to close the case",
         "Talk": [
             [
                 {
@@ -507,23 +523,25 @@ var _sq = {
         "Talk": []
     },
     "1918520": {
-        "Desc": "",
+        "Desc": "Attempt to close the case",
         "Talk": []
     },
     "1918701": {
-        "Desc": "",
+        "Desc": "Talk to Elodie",
+        "Step": "The fog is lifting, and you are getting closer to the truth...",
         "Talk": []
     },
     "1918702": {
-        "Desc": "",
+        "Desc": "Defeat all opponents",
         "Talk": []
     },
     "1918703": {
-        "Desc": "",
+        "Desc": "Talk to Lynette and the others",
         "Talk": []
     },
     "1918705": {
-        "Desc": "",
+        "Desc": "\"Recharge\" with Lynette",
+        "Step": "Now that the case has been solved, it's time to keep your original appointment.",
         "Talk": []
     }
 }

@@ -91,7 +91,7 @@ var _mq = {
     "Num": "郭狐之章 第一幕",
     "Title": "没有答案的课题",
     "IT": "提纳里",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Tighnari",
     "Icon": "UI_ChapterIcon_Tighnari",
     "Intro": "不同于死域的「污染区」在道成林中蔓延，去过那里的人们纷纷陷入精神紊乱的状态。<br>想要抵达污染区深处需要做好充足准备，可千辛万苦找来的导游，却是言语不通的机械螃蟹…<br>生命万千、无分高低。冰冷的外壳下，思念终会汇聚成跳动的心。",
     "MainQuests": [

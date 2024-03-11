@@ -71,7 +71,7 @@ var _mq = {
     "Num": "Astrolabos Chapter: Act I",
     "Title": "Beyond This World's Stars",
     "IT": "Mona",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Mona",
     "Icon": "UI_ChapterIcon_Mona",
     "Intro": "A traveling astrologer has stopped off in Liyue recently.<br>Well-versed in the ancient practice of astrology, she is intimately acquainted with the workings of fate and the nature of reality in this world. Surely she, of all people, must be able to provide some guidance on your quest to find your lost sibling.<br>And yet, you should not chase after her, for fate alone will decide if and when your paths should cross.",
     "MainQuests": [

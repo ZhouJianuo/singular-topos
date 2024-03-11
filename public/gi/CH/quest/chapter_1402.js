@@ -126,7 +126,7 @@ var _mq = {
     "Num": "第四章 第二幕",
     "Title": "仿若无因飘落的轻雨",
     "IT": "枫丹",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Fd",
     "Icon": "UI_ChapterIcon_Fontaine",
     "Intro": "",
     "MainQuests": [

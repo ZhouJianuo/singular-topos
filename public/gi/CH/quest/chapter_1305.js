@@ -226,7 +226,7 @@ var _mq = {
     "Num": "第三章 第五幕",
     "Title": "虚空鼓动，劫火高扬",
     "IT": "须弥",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xm",
     "Icon": "UI_ChapterIcon_Sumeru",
     "Intro": "",
     "MainQuests": [

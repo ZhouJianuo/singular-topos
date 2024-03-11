@@ -156,7 +156,7 @@ var _mq = {
     "Num": "Том I. Глава III",
     "Title": "Приближение новой звезды",
     "IT": "Ли Юэ",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Ly",
     "Icon": "UI_ChapterIcon_Liyue",
     "Intro": "",
     "MainQuests": [

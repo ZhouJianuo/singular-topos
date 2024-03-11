@@ -61,7 +61,7 @@ var _mq = {
     "Num": "Grus Nivis Chapter: Act I",
     "Title": "The Whispers of the Crane and the White Rabbit",
     "IT": "Kamisato Ayaka",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Ayaka",
     "Icon": "UI_ChapterIcon_Ayaka",
     "Intro": "An old notebook brings a forgotten name to light.<br>\"Tsubaki\" — a personality that shines through the pages like a brilliant red flower against a field of snow, an old friend of Ayaka's mother's who has now captivated Ayaka herself...<br>It's time to meet this extraordinary individual in the flesh! Take a greeting gift, prepare yourself, and join Ayaka on this journey of discovery.",
     "MainQuests": [

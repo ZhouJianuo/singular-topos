@@ -1648,8 +1648,8 @@ var _Achievement = [
     {
         "_id": 84154,
         "Group": 17,
-        "Name": "",
-        "Desc": "",
+        "Name": "Decks & Detectives",
+        "Desc": "Have a peaceful tea party with Lynette after solving the smuggling case.",
         "Ver": "4.5",
         "Hidden": true,
         "Reward": 5,
@@ -1658,8 +1658,8 @@ var _Achievement = [
     {
         "_id": 84153,
         "Group": 17,
-        "Name": "",
-        "Desc": "",
+        "Name": "Speedrun",
+        "Desc": "Persuade Lynette to spend a leisurely, peaceful day with you.",
         "Ver": "4.5",
         "Hidden": true,
         "Reward": 5,
@@ -1668,8 +1668,8 @@ var _Achievement = [
     {
         "_id": 84152,
         "Group": 17,
-        "Name": "",
-        "Desc": "",
+        "Name": "Indicators of Fate",
+        "Desc": "Complete \"Checks & Cats\" and unlock all endings.",
         "Ver": "4.5",
         "Hidden": false,
         "Reward": 20,

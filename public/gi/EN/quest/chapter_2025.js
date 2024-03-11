@@ -121,7 +121,7 @@ var _mq = {
     "Num": "Divina Vulpes Chapter: Act I",
     "Title": "The Great Narukami Offering",
     "IT": "Yae Miko",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Yae",
     "Icon": "UI_ChapterIcon_Yae",
     "Intro": "\"If you speak a special incantation in the dead of night, your wish will come true, whatever it may be!\"<br>Such rumors have been spreading throughout Inazuma's streets and alleys and have gained quite the ardent following amongst the people.<br>A swordmaster whose behavior has been out of sorts, a storied light novel, and its mysterious author... Does the plot stop here, or is there more to it? The truth shall come to light on a moonless night.<br>All feasts will end, and all banquets cease. See them off with a smile, and thus bring the past, at last, to an end.",
     "MainQuests": [

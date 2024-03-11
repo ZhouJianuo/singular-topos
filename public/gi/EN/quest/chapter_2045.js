@@ -101,7 +101,7 @@ var _mq = {
     "Num": "Grus Serena Chapter: Act I",
     "Title": "A Thousand Moonlit Miles",
     "IT": "Xianyun",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Liuyun",
     "Icon": "UI_ChapterIcon_Liuyun",
     "Intro": "There is a saying that goes: \"Adepti come and go without a trace, green moss grows on stones in the spring breeze.\"<br>Adepti are hard to find, and their blessings harder still. Just how many went on pilgrimages to Mt. Aocang since ancient times, yet returned empty-handed, none know.<br>But now, that once captivating figure has voluntarily absconded from her abode, looking in the direction of Liyue Harbor.",
     "MainQuests": [

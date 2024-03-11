@@ -255,7 +255,7 @@ var _sq = {
                 },
                 {
                     "N": "_1005",
-                    "T": "Cool! Turns out you two and Ninguang like playing with toys just as much as Paimon!"
+                    "T": "Cool! Turns out you two and Ningguang like playing with toys just as much as Paimon!"
                 },
                 {
                     "N": "Keqing",

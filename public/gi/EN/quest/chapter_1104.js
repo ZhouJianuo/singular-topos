@@ -71,7 +71,7 @@ var _mq = {
     "Num": "Chapter I: Act IV",
     "Title": "We Will Be Reunited",
     "IT": "Traveler",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Lvren",
     "Icon": "UI_ChapterIcon_Traveler",
     "Intro": "",
     "MainQuests": [

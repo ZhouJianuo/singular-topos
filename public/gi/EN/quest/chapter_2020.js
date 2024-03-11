@@ -91,7 +91,7 @@ var _mq = {
     "Num": "Historia Antiqua Chapter: Act II",
     "Title": "No Mere Stone",
     "IT": "Zhongli",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Zhongli",
     "Icon": "UI_ChapterIcon_Zhongli",
     "Intro": "A curious case has come to light due to a new commission from the Liyue Adventurers' Guild.<br>Missing miners, confounding clues... a surplus of suspicious signs.<br>Even Zhongli, who has been enjoying the fine life in the city, has been roped into this investigation. What could the truth behind the mysterious missing miners be?",
     "MainQuests": [

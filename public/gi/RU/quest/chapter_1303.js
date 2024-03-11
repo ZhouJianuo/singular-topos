@@ -126,7 +126,7 @@ var _mq = {
     "Num": "Том III. Глава III",
     "Title": "Сны, пустота и обман",
     "IT": "Сумеру",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xm",
     "Icon": "UI_ChapterIcon_Sumeru",
     "Intro": "",
     "MainQuests": [

@@ -96,7 +96,7 @@ var _mq = {
     "Num": "引蝶之章 第一幕",
     "Title": "奈何蝶飞去",
     "IT": "胡桃",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Hutao",
     "Icon": "UI_ChapterIcon_Hutao",
     "Intro": "枪开黄泉路，蝶引来世桥。<br>「往生堂」主持举办的葬仪，已相伴璃月无数逝者走过最后一程。<br>如今这位引路者，虽然她的言行举止都和庄严稳重的传统相去甚远——<br>但大可放心，无论是从何方而来的「客人」，她都会好好送到的。",
     "MainQuests": [

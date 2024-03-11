@@ -46,7 +46,7 @@ var _mq = {
     "Num": "Historia Antiqua Chapter: Act I",
     "Title": "Sal Flore",
     "IT": "Zhongli",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Zhongli",
     "Icon": "UI_ChapterIcon_Zhongli",
     "Intro": "He has just signed the contract to end all contracts. His stories are told all throughout this vast land.<br>Be that as it may, all shall be erased by the passage of time — and that is why a record must be left behind.<br>But even the firmest bedrock does not last forever.<br>And so, a medium more reliable than bedrock, deities, or anything else in this world must be found to store the legacy of Rex Lapis. That medium is you — the Traveler who traverses countless worlds.",
     "MainQuests": [

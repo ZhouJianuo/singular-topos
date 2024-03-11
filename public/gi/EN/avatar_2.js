@@ -38025,12 +38025,12 @@ var _AvatarSkillConfig = {
             },
             {
                 "Name": "Fluttering Hasode",
-                "Desc": "Dashes nimbly forward with silken steps. Once this dash ends, Chiori will summon the automaton doll \"Sode\" beside her and sweep her blade upward, dealing <color style='color:#FFE699;'>AoE Geo DMG</color> to nearby opponents based on her ATK and DEF.<br>Holding the Skill will cause it to behave differently.<br><br><color style='color:#FFD780;'>Hold</color><br>Enter Aiming Mode to adjust the dash direction.<br><br><color style='color:#FFD780;'>Sode</color><br> ·  Will slash at nearby opponents at intervals, dealing <color style='color:#FFE699;'>AoE Geo DMG</color> based on Chiori's ATK and DEF.<br> ·  While active, if there are nearby <color style='color:#FFE699;'>Geo Construct(s)</color> or <color style='color:#FFE699;'>Geo Construct(s)</color> are created nearby, an additional Sode will be summoned next to your active character. Only 1 additional Sode can be summoned in this manner, and its duration is independently counted.<br><br><i>\"Sakura red dyes the brocade, the fragrance suffuses the sleeves, the orioles intoxicated.\"</i>",
+                "Desc": "Dashes nimbly forward with silken steps. Once this dash ends, Chiori will summon the automaton doll \"Tamoto\" beside her and sweep her blade upward, dealing <color style='color:#FFE699;'>AoE Geo DMG</color> to nearby opponents based on her ATK and DEF.<br>Holding the Skill will cause it to behave differently.<br><br><color style='color:#FFD780;'>Hold</color><br>Enter Aiming Mode to adjust the dash direction.<br><br><color style='color:#FFD780;'>Tamoto</color><br> ·  Will slash at nearby opponents at intervals, dealing <color style='color:#FFE699;'>AoE Geo DMG</color> based on Chiori's ATK and DEF.<br> ·  While active, if there are nearby <color style='color:#FFE699;'>Geo Construct(s)</color> or <color style='color:#FFE699;'>Geo Construct(s)</color> are created nearby, an additional Tamoto will be summoned next to your active character. Only 1 additional Tamoto can be summoned in this manner, and its duration is independently counted.<br><br><i>\"Sakura red dyes the brocade, the fragrance suffuses the sleeves, the orioles intoxicated.\"</i>",
                 "Num": 1,
                 "Lock": 15.0,
                 "ParamDesc": [
                     {
-                        "Desc": "Sode DMG",
+                        "Desc": "Tamoto DMG",
                         "ParamLevelList": [
                             "82.08% ATK+102.6% DEF",
                             "88.236% ATK+110.295% DEF",
@@ -38050,7 +38050,7 @@ var _AvatarSkillConfig = {
                         ]
                     },
                     {
-                        "Desc": "Sode Duration",
+                        "Desc": "Tamoto Duration",
                         "ParamLevelList": [
                             "17.0s",
                             "17.0s",
@@ -38070,7 +38070,7 @@ var _AvatarSkillConfig = {
                         ]
                     },
                     {
-                        "Desc": "Sode Attack Interval",
+                        "Desc": "Tamoto Attack Interval",
                         "ParamLevelList": [
                             "3.6s",
                             "3.6s",
@@ -38225,13 +38225,13 @@ var _AvatarSkillConfig = {
             {
                 "Level": 1,
                 "Name": "Six Paths of Sage Silkcraft",
-                "Desc": "The AoE of the automaton doll \"Sode\" summoned by <color style='color:#FFD780;'>Fluttering Hasode</color> is increased by 50%.<br>Additionally, if there is a <color style='color:#FFE699;'>Geo</color> party member other than Chiori, Fluttering Hasode will trigger the following after the dash is completed:<br> ·  Summon an additional Sode. Only one additional Sode can exist at the same time, whether summoned by Chiori this way or through the presence of a Geo Construct.<br> ·  Triggers the Passive Talent \"The Finishing Touch.\" This effect requires you to first unlock the Passive Talent \"The Finishing Touch.\"",
+                "Desc": "The AoE of the automaton doll \"Tamoto\" summoned by <color style='color:#FFD780;'>Fluttering Hasode</color> is increased by 50%.<br>Additionally, if there is a <color style='color:#FFE699;'>Geo</color> party member other than Chiori, Fluttering Hasode will trigger the following after the dash is completed:<br> ·  Summon an additional Tamoto. Only one additional Tamoto can exist at the same time, whether summoned by Chiori this way or through the presence of a Geo Construct.<br> ·  Triggers the Passive Talent \"The Finishing Touch.\" This effect requires you to first unlock the Passive Talent \"The Finishing Touch.\"",
                 "Icon": "UI_Talent_S_Chiori_01"
             },
             {
                 "Level": 2,
                 "Name": "In Five Colors Dyed",
-                "Desc": "For 10s after using <color style='color:#FFD780;'>Hiyoku: Twin Blades</color>, a simplified automaton doll, \"Kinu,\" will be summoned next to your active character every 3s. Kinu will attack nearby opponents, dealing <color style='color:#FFE699;'>AoE Geo DMG</color> equivalent to 170% of Sode's DMG. DMG dealt this way is considered Elemental Skill DMG.<br>Kinu will leave the field after 1 attack or after lasting 3s.",
+                "Desc": "For 10s after using <color style='color:#FFD780;'>Hiyoku: Twin Blades</color>, a simplified automaton doll, \"Kinu,\" will be summoned next to your active character every 3s. Kinu will attack nearby opponents, dealing <color style='color:#FFE699;'>AoE Geo DMG</color> equivalent to 170% of Tamoto's DMG. DMG dealt this way is considered Elemental Skill DMG.<br>Kinu will leave the field after 1 attack or after lasting 3s.",
                 "Icon": "UI_Talent_S_Chiori_03"
             },
             {

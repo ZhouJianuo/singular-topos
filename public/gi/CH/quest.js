@@ -3,11 +3,11 @@
 var _chapter = [
     {
         "_id": 108301,
-        "Num": "",
-        "Title": "",
+        "Num": "邀约事件 · 琳妮特 第一幕",
+        "Title": "猫与随机数",
         "IT": "琳妮特",
         "Tab": "",
-        "Icon": "",
+        "Icon": "UI_ChapterIcon_Linette",
         "Intro": ""
     },
     {
@@ -48,38 +48,38 @@ var _chapter = [
     },
     {
         "_id": 10173,
-        "Num": "",
-        "Title": "",
+        "Num": "炼金与经营 其四",
+        "Title": "完满收工",
         "IT": "",
         "Tab": "",
-        "Icon": "",
+        "Icon": "UI_ChapterIcon_AlchemySim",
         "Intro": ""
     },
     {
         "_id": 10172,
-        "Num": "",
-        "Title": "",
+        "Num": "炼金与经营 其三",
+        "Title": "远销各国",
         "IT": "",
         "Tab": "",
-        "Icon": "",
+        "Icon": "UI_ChapterIcon_AlchemySim",
         "Intro": ""
     },
     {
         "_id": 10171,
-        "Num": "",
-        "Title": "",
+        "Num": "炼金与经营 其二",
+        "Title": "工艺突破",
         "IT": "",
         "Tab": "",
-        "Icon": "",
+        "Icon": "UI_ChapterIcon_AlchemySim",
         "Intro": ""
     },
     {
         "_id": 10170,
-        "Num": "",
-        "Title": "",
+        "Num": "炼金与经营 其一",
+        "Title": "神奇药剂",
         "IT": "",
         "Tab": "",
-        "Icon": "",
+        "Icon": "UI_ChapterIcon_AlchemySim",
         "Intro": ""
     },
     {
@@ -354,19 +354,19 @@ var _chapter = [
     },
     {
         "_id": 2046,
-        "Num": "",
-        "Title": "",
+        "Num": "丝切铗之章 第一幕",
+        "Title": "当他们谈起今夜",
         "IT": "千织",
-        "Tab": "",
-        "Icon": "",
-        "Intro": ""
+        "Tab": "UI_LegendQuestImg_Chiori",
+        "Icon": "UI_ChapterIcon_Chiori",
+        "Intro": "要朴实还是华丽？要传统还是前卫？要规则还是自由？这是服装设计师们常常思考的问题，答案蕴藏于他们的作品之中。<br>但「千织屋」的老板，那位「鸣雷的裁锦师」，却让人难以看透。她锋利的刃铓穿梭于布料之间，似乎那里从不存在什么选择，又或者她向来只做一种选择——选择她喜欢的那个。"
     },
     {
         "_id": 2045,
         "Num": "闲鹤之章 第一幕",
         "Title": "千里月明",
         "IT": "闲云",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Liuyun",
         "Icon": "UI_ChapterIcon_Liuyun",
         "Intro": "有道是：「仙人来往行无迹，石径春风长绿苔。」<br>仙人难觅、仙缘难求，古往今来不知多少人造访过奥藏山，却终究无功而返。<br>而现在，曾令人魂牵梦绕的身影却主动离开洞府，望向璃月港的方向。"
     },
@@ -375,7 +375,7 @@ var _chapter = [
         "Num": "野蔷薇之章 第一幕",
         "Title": "共渡潮落",
         "IT": "娜维娅",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Navia",
         "Icon": "UI_ChapterIcon_Navia",
         "Intro": "正如花开花落，云卷云舒，世间诸事亦有高峰与低谷。<br>总有人想要在高峰之上独享荣耀，又要在低谷哀叹苍天不遂人愿，愤然离去。<br>少女为背影送上祝福，随后与留下的同伴互相鼓励，再度踏上攀登之路。<br>——就像刺玫会初建时那样。"
     },
@@ -384,7 +384,7 @@ var _chapter = [
         "Num": "司颂之章 第一幕",
         "Title": "「水的女儿」",
         "IT": "芙宁娜",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Furina",
         "Icon": "UI_ChapterIcon_Furina",
         "Intro": "大幕终落，演出散场，日夜方在眼瞳中倒映出真实的模样。<br>本应是英雄踏上归途，却无人献上鲜花与掌声，仅有露景泉水声潺潺。<br>未来和过去同样漫长，她宛如轻涟，融于人间…"
     },
@@ -393,7 +393,7 @@ var _chapter = [
         "Num": "守狱犬之章 第一幕",
         "Title": "于怨嗟之地重生",
         "IT": "莱欧斯利",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Wriothesley",
         "Icon": "UI_ChapterIcon_Wriothesley",
         "Intro": "冲动的情感淹没理智，错误的选择指向歧途，如此种种的复杂纠葛，共同铸造了「罪」。<br>坠入水之深渊被视为一种惩戒，但在梅洛彼得堡的管理者眼中，这亦是反思过去的良机。<br>无人可赐救赎，唯有自掌沉浮。"
     },
@@ -402,7 +402,7 @@ var _chapter = [
         "Num": "潮涌之章 第一幕",
         "Title": "往日留痕",
         "IT": "那维莱特",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Neuvillette",
         "Icon": "UI_ChapterIcon_Neuvillette",
         "Intro": "绝大部分枫丹人脑海中都有这样一幅画面：<br>最高审判官那维莱特端坐于歌剧院的高处，降下令人叹服的裁决。<br>他的身上仿佛没有岁月留下的痕迹，也没有名为「情感」的负累。公正如水，却也冰冷如水。<br>…真的是这样吗？当回忆如暴雨般不期而至，不擅表露情感的人亦有动容之时。"
     },
@@ -411,7 +411,7 @@ var _chapter = [
         "Num": "黑斑猫之章 第一幕",
         "Title": "被遗忘的怪盗",
         "IT": "林尼",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Liney",
         "Icon": "UI_ChapterIcon_Liney",
         "Intro": "时隔十年，曾让枫丹廷闻风丧胆的「怪盗貂」重现人间。疑窦丛生的背后，一场精心筹备的魔术秀也拉开帷幕。<br>「代他完成曾经的梦想吧，那些欢乐的岁月如在眼前。」<br>「柔灯铃的花瓣挥洒，星空照亮我们的舞台。」<br>直至终章到来之时…恩怨散落晚风，荣耀归于传承。"
     },
@@ -420,7 +420,7 @@ var _chapter = [
         "Num": "智慧主之章 第二幕",
         "Title": "归乡",
         "IT": "纳西妲",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Nahida",
         "Icon": "UI_ChapterIcon_Nahida",
         "Intro": "净善宫中来历不明的晶体，承载了一段注定无法履行的承诺。<br>时光漫漫，万般生灵皆为过客，人类与神明创造历史，也无法保证历史不被后人遗忘。<br>「我们因何而生，我们所爱何物，我们为何如此不舍？」<br>去听听世间最古老，又最年轻的生命的回答吧。"
     },
@@ -429,7 +429,7 @@ var _chapter = [
         "Num": "琉金之章 第二幕",
         "Title": "拾星之旅",
         "IT": "宵宫",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Yoimiya",
         "Icon": "UI_ChapterIcon_Yoimiya",
         "Intro": "在坊间相传的诸多故事中，流星雨都是非常浪漫与梦幻的意象。<br>想象力在漫天的星光中肆意嬉闹，爱意与温情在天边熄灭，又在心中萌芽。<br>而那位少女，正要为了这场转瞬即逝的奇观而踏上旅途…"
     },
@@ -438,7 +438,7 @@ var _chapter = [
         "Num": "悬壶之章 第一幕",
         "Title": "「医心」",
         "IT": "白术",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Baizhuer",
         "Icon": "UI_ChapterIcon_Baizhuer",
         "Intro": "意料之外的来客，旧识故交的讯息，打破了不卜庐数年如一日的平静。<br>契阔多离别，绸缪到死生。凡人皆如此，濛濛若沙尘。<br>毒与药的界限已经模糊，生与死的边界也在动摇…问世间何处能求万全之方？"
     },
@@ -447,7 +447,7 @@ var _chapter = [
         "Num": "蝎尾鬃狮之章 第一幕",
         "Title": "「狮之血」",
         "IT": "迪希雅",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Dehya",
         "Icon": "UI_ChapterIcon_Dehya",
         "Intro": "佣兵们常年在沙漠中游弋，烈日铸造了他们刚直的性格，风沙锤炼了他们顽强的毅力。<br>被誉为「炽鬃之狮」的她从不令雇主失望，也从不让手中的大剑在功名利诱中迷失方向。<br>世人皆知她有英雄豪胆，但只有酒过三巡，她才会和挚友吐露一些无法释怀的愁思乱绪…"
     },
@@ -456,7 +456,7 @@ var _chapter = [
         "Num": "天隼之章 第一幕",
         "Title": "乌合的虚像",
         "IT": "艾尔海森",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Alhatham",
         "Icon": "UI_ChapterIcon_Alhatham",
         "Intro": "关于代理贤者的传说成了教令院的热门话题，话题中的贤者本人却依旧特立独行。<br>有人的地方就会形成集群，集群之外的人渴望融入其中，集群之内的人沉沦在虚假的惬意里。<br>…直至脆弱的链接断裂，乌合之众散如泥沙。"
     },
@@ -465,7 +465,7 @@ var _chapter = [
         "Num": "第四章 第五幕",
         "Title": "罪人舞步旋",
         "IT": "枫丹",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Fd",
         "Icon": "UI_ChapterIcon_Fontaine",
         "Intro": ""
     },
@@ -474,7 +474,7 @@ var _chapter = [
         "Num": "第四章 第四幕",
         "Title": "谕示胎动的终焉之刻",
         "IT": "枫丹",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Fd",
         "Icon": "UI_ChapterIcon_Fontaine",
         "Intro": ""
     },
@@ -483,7 +483,7 @@ var _chapter = [
         "Num": "第四章 第三幕",
         "Title": "向深水中的晨星",
         "IT": "枫丹",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Fd",
         "Icon": "UI_ChapterIcon_Fontaine",
         "Intro": ""
     },
@@ -492,7 +492,7 @@ var _chapter = [
         "Num": "第四章 第二幕",
         "Title": "仿若无因飘落的轻雨",
         "IT": "枫丹",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Fd",
         "Icon": "UI_ChapterIcon_Fontaine",
         "Intro": ""
     },
@@ -501,7 +501,7 @@ var _chapter = [
         "Num": "第四章 第一幕",
         "Title": "白露与黑潮的序诗",
         "IT": "枫丹",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Fd",
         "Icon": "UI_ChapterIcon_Fontaine",
         "Intro": ""
     },
@@ -510,7 +510,7 @@ var _chapter = [
         "Num": "第三章 第六幕",
         "Title": "卡利贝尔",
         "IT": "旅人",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Lvren",
         "Icon": "UI_ChapterIcon_Traveler",
         "Intro": ""
     },
@@ -519,7 +519,7 @@ var _chapter = [
         "Num": "间章 第三幕",
         "Title": "倾落伽蓝",
         "IT": "间章",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Xm",
         "Icon": "UI_ChapterIcon_Sumeru",
         "Intro": ""
     },
@@ -1842,7 +1842,7 @@ var _chapter = [
         "Num": "智慧主之章 第一幕",
         "Title": "余温",
         "IT": "纳西妲",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Nahida",
         "Icon": "UI_ChapterIcon_Nahida",
         "Intro": "「虚空」停止运转，学城对智慧的追求不再狂热，须弥民众也迎回了做梦的权利。<br>一时间，梦的话题在须弥城的街头巷尾复苏，大家都对这位曾经的「老朋友」产生了新鲜感。<br>就连不苟言笑的鳄鱼都有打哈欠的时候，旅行者也大可放松一下，去听听他们的闲聊吧。"
     },
@@ -1851,7 +1851,7 @@ var _chapter = [
         "Num": "睡莲之章 第一幕",
         "Title": "致智慧者",
         "IT": "妮露",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Nilou",
         "Icon": "UI_ChapterIcon_Nilou",
         "Intro": "旭日初升，大巴扎熙熙攘攘，热闹如常。<br>即使生活日复一日平淡似水，舞台上的少女也会描绘出五彩斑斓的世界。<br>只不过，她在筹备今夜的剧目与宴会的时候，好像遇到了一点小麻烦…"
     },
@@ -1860,7 +1860,7 @@ var _chapter = [
         "Num": "金狼之章 第一幕",
         "Title": "沉沙归寂",
         "IT": "赛诺",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Cyno",
         "Icon": "UI_ChapterIcon_Cyno",
         "Intro": "走私罐装知识的疑案悬在所有风纪官的面前，黑暗之中的独狼默默调查着背后的真相。<br>利益的链条越来越紧，捆绑着身处旋涡的人们，谁都无法逃脱。<br>栽赃、利诱、威胁、乞求、劝诫…各种手段层出不穷。陈旧的砖石崩落，有人归于沉寂，有人背负一切继续向前。"
     },
@@ -1869,7 +1869,7 @@ var _chapter = [
         "Num": "枫红之章 第一幕",
         "Title": "陌野不识故人",
         "IT": "枫原万叶",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Kazuha",
         "Icon": "UI_ChapterIcon_Kazuha",
         "Intro": "落花作尘，游子归乡，风中少年因匹敌稻光而声名鹊起。<br>数以万计的视线中，有钦佩与仰慕，有揣测与嫉妒，还有蕴藏在历史中的执念。<br>冰冷似铁的脚步逐渐靠近，他听见的却是风雪与炉火的声音…"
     },
@@ -1878,7 +1878,7 @@ var _chapter = [
         "Num": "郭狐之章 第一幕",
         "Title": "没有答案的课题",
         "IT": "提纳里",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Tighnari",
         "Icon": "UI_ChapterIcon_Tighnari",
         "Intro": "不同于死域的「污染区」在道成林中蔓延，去过那里的人们纷纷陷入精神紊乱的状态。<br>想要抵达污染区深处需要做好充足准备，可千辛万苦找来的导游，却是言语不通的机械螃蟹…<br>生命万千、无分高低。冰冷的外壳下，思念终会汇聚成跳动的心。"
     },
@@ -1887,7 +1887,7 @@ var _chapter = [
         "Num": "幽客之章 第一幕",
         "Title": "棋生断处",
         "IT": "夜兰",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Yelan",
         "Icon": "UI_ChapterIcon_Yelan",
         "Intro": "璃月七星之一的「天枢星」身体抱恙，选拔继任者已经迫在眉睫。<br>三位候选人依次亮相，看似平静的考察背后，却似乎有一股力量在推波助澜…<br>人心无算，落子成局。可有资格执棋者寥寥无几，更多的人深陷局中而不自知。"
     },
@@ -1896,7 +1896,7 @@ var _chapter = [
         "Num": "神守柏之章 第一幕",
         "Title": "梧桐一叶落",
         "IT": "神里绫人",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Ayato",
         "Icon": "UI_ChapterIcon_Ayato",
         "Intro": "尘埃初定，万事待兴，稻妻终于重归正轨。<br>辞旧迎新之际，天领奉行与勘定奉行中的两位有情人也结束了漫长的苦恋，即将喜结连理。<br>但在现任社奉行神里绫人的眼里，此事绝非只是一场单纯的「婚姻」…"
     },
@@ -1905,7 +1905,7 @@ var _chapter = [
         "Num": "天下人之章 第二幕",
         "Title": "须臾百梦",
         "IT": "雷电将军",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Shougun",
         "Icon": "UI_ChapterIcon_Shougun",
         "Intro": "冒险家们近日发现，兽境猎犬突然出现在影向山附近，试图破坏神樱树的根系。<br>凶恶的兽群，湮灭的万物，奋战的人类，一如雷电将军记忆中的「那场灾厄」。<br>「只要前进就会有所失去」，斩断黑暗的她已是孑然一人，而现在…"
     },
@@ -1914,7 +1914,7 @@ var _chapter = [
         "Num": "天牛之章 第一幕",
         "Title": "赤金魂",
         "IT": "荒泷一斗",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Itto",
         "Icon": "UI_ChapterIcon_Itto",
         "Intro": "鬼之一族在稻妻百貌千面，或勇武，或孤傲，或乖僻，或凶恶。<br>万种演绎为他们留下了强烈的符号化印象，却也淡化了本应鲜明的「人性」。<br>而即将追寻「人中之鬼」的你，见到的又会是哪一面呢？"
     },
@@ -1923,7 +1923,7 @@ var _chapter = [
         "Num": "仙狐之章 第一幕",
         "Title": "鸣神御祓祈愿祭",
         "IT": "八重神子",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Yae",
         "Icon": "UI_ChapterIcon_Yae",
         "Intro": "「在深夜念诵特别的咒语，就可以实现任何愿望。」<br>这样的怪谈流传在稻妻的街头巷尾，引发了民众的狂热追捧。<br>举止异常的剑道家、流传甚广的轻小说，以及藏在暗处的神秘作者…阴谋将至或另有隐情，真相会随无月之夜一同到来。<br>筵席终有散场的时候，笑着告别，为往日岁月画下最后的句点。"
     },
@@ -1932,7 +1932,7 @@ var _chapter = [
         "Num": "眠龙之章 第一幕",
         "Title": "兵戈梦去，春草如茵",
         "IT": "珊瑚宫心海",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Kokomi",
         "Icon": "UI_ChapterIcon_Kokomi",
         "Intro": "「眼狩令」落下帷幕，心海邀请你再赴海祇岛，参加庆功宴。<br>战后和平如约而至，难辨真假的流言却越传越广，新的阴谋正在酝酿。<br>一起去见证吧。心海的决意，以及海祇岛的未来。"
     },
@@ -1941,7 +1941,7 @@ var _chapter = [
         "Num": "天下人之章 第一幕",
         "Title": "影照浮世风流",
         "IT": "雷电将军",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Shougun",
         "Icon": "UI_ChapterIcon_Shougun",
         "Intro": "千手百眼已成往事，而今雷暴未歇，创伤未平。<br>她深居净土，依然在权衡手中的「永恒」与「愿望」。<br>去叩响心扉吧，愿如今这浮世风流，能映照于这位天下人的眼中。"
     },
@@ -1950,7 +1950,7 @@ var _chapter = [
         "Num": "雪鹤之章 第一幕",
         "Title": "鹤与白兔的诉说",
         "IT": "神里绫华",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Ayaka",
         "Icon": "UI_ChapterIcon_Ayaka",
         "Intro": "一本旧笔记，引出了一个陌生名字。<br>「椿」——母亲的这位旧友犹如一朵赤红之花，落于雪上，也落在神里绫华心中……<br>随她一同出发吧！带上见面礼，准备好心情，去见见那位不可思议的故人。"
     },
@@ -1959,7 +1959,7 @@ var _chapter = [
         "Num": "琉金之章 第一幕",
         "Title": "如梦如电的隽永",
         "IT": "宵宫",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Yoimiya",
         "Icon": "UI_ChapterIcon_Yoimiya",
         "Intro": "「长野原烟花会」举办在即，万众期待，而烟花少女仍在奔忙。<br>在永恒的国度，转瞬即逝的烟花之中究竟承载何物？<br>若有片刻闲暇，请驻足一观吧，此乃须臾，亦为隽永。"
     },
@@ -1968,7 +1968,7 @@ var _chapter = [
         "Num": "古闻之章 第二幕",
         "Title": "匪石",
         "IT": "钟离",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Zhongli",
         "Icon": "UI_ChapterIcon_Zhongli",
         "Intro": "来自璃月港冒险家协会的新委托引出了一起怪异案件。<br>失踪的矿工、神秘的线索…种种迹象都令人生疑。<br>在城中听戏品茶的钟离也被卷入了此次调查。然而，矿工离奇失踪，背后的真相究竟是…？"
     },
@@ -1977,7 +1977,7 @@ var _chapter = [
         "Num": "浪沫之章 第一幕",
         "Title": "浪花不再归海",
         "IT": "优菈",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Eula",
         "Icon": "UI_ChapterIcon_Eula",
         "Intro": "从前，蒙德有一顶以平民的血与泪锻造的贵族王冠。<br>西风吹过，枷锁断裂，王冠坠入岁月的长河，只扬起几朵浪沫。<br>时间逐渐治愈了旧时代的创伤，但一道道战痕，依然清晰可见。<br>如今的「浪沫」，又该何去何从呢？"
     },
@@ -1986,7 +1986,7 @@ var _chapter = [
         "Num": "引蝶之章 第一幕",
         "Title": "奈何蝶飞去",
         "IT": "胡桃",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Hutao",
         "Icon": "UI_ChapterIcon_Hutao",
         "Intro": "枪开黄泉路，蝶引来世桥。<br>「往生堂」主持举办的葬仪，已相伴璃月无数逝者走过最后一程。<br>如今这位引路者，虽然她的言行举止都和庄严稳重的传统相去甚远——<br>但大可放心，无论是从何方而来的「客人」，她都会好好送到的。"
     },
@@ -1995,7 +1995,7 @@ var _chapter = [
         "Num": "白垩之章 第一幕",
         "Title": "旅行者观察报告",
         "IT": "阿贝多",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Albedo",
         "Icon": "UI_ChapterIcon_Albedo",
         "Intro": ""
     },
@@ -2004,7 +2004,7 @@ var _chapter = [
         "Num": "仙麟之章 第一幕",
         "Title": "云之海，人之海",
         "IT": "甘雨",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Ganyu",
         "Icon": "UI_ChapterIcon_Ganyu",
         "Intro": "甘雨曾见过许多种「海」。<br>亭台楼阁之上望见的大海，绝云间崖边缥缈的云海。<br>还有如今她独自于其间漫步的——璃月港的茫茫人海。<br>她既非仙兽，亦非人类，在自我认识的狭缝里，每一种「海」都只会给她带来孤独感。<br>直到一份「跨越时间的托付」，再次在她的内心掀起波澜…"
     },
@@ -2013,7 +2013,7 @@ var _chapter = [
         "Num": "",
         "Title": "",
         "IT": "",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Qiqi",
         "Icon": "UI_ChapterIcon_Qiqi",
         "Intro": ""
     },
@@ -2022,7 +2022,7 @@ var _chapter = [
         "Num": "古闻之章 第一幕",
         "Title": "盐花",
         "IT": "钟离",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Zhongli",
         "Icon": "UI_ChapterIcon_Zhongli",
         "Intro": "终结一切契约的契约已被签订，而他的故事仍然流传于广袤四方。<br>但时间会冲褪一切，因此，「记录」必须留存。<br>然而磐石虽坚，犹有竟时。<br>比磐石、神明与世界更加可靠的，唯有你——远渡重天之人。"
     },
@@ -2031,7 +2031,7 @@ var _chapter = [
         "Num": "歌仙之章 第一幕",
         "Title": "若你困于无风之地",
         "IT": "温迪",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Venti",
         "Icon": "UI_ChapterIcon_Venti",
         "Intro": ""
     },
@@ -2040,7 +2040,7 @@ var _chapter = [
         "Num": "鲸天之章 第一幕",
         "Title": "独眼小宝总动员",
         "IT": "达达利亚",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Tartaglia",
         "Icon": "UI_ChapterIcon_Tartaglia",
         "Intro": "愚人众的执行官「公子」，不久前曾在璃月掀起风浪，此后似乎销声匿迹了一段时间。<br>而一场远渡重洋的邂逅，令他与你再度相逢于璃月的舞台。<br>作为武者，「公子」总是试图将自己卷入斗争的中心。但这一次，他却以守护者的身份登场——为了保护珍视之物，不惜强行再次发动「魔王武装」。"
     },
@@ -2049,7 +2049,7 @@ var _chapter = [
         "Num": "金翅鹏王之章 第一幕",
         "Title": "槐柯胡蝶，傩佑之梦",
         "IT": "魈",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Xiao",
         "Icon": "UI_ChapterIcon_Xiao",
         "Intro": ""
     },
@@ -2058,7 +2058,7 @@ var _chapter = [
         "Num": "映天之章 第一幕",
         "Title": "在此世的星空之外",
         "IT": "莫娜",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Mona",
         "Icon": "UI_ChapterIcon_Mona",
         "Intro": "有一位四处游历的占星术士，最近在璃月稍作停留。<br>她继承了源远流长的占星术知识，通晓「此世」的一切命运与真实，在寻访神明与血亲的道路上，她或许是你绝佳的向导。<br>不过，大可不必刻意追寻她的踪迹，因为命运的邂逅，总是不期而至。"
     },
@@ -2067,7 +2067,7 @@ var _chapter = [
         "Num": "四叶草之章 第一幕",
         "Title": "真正的宝物",
         "IT": "可莉",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Klee",
         "Icon": "UI_ChapterIcon_Klee",
         "Intro": ""
     },
@@ -2076,7 +2076,7 @@ var _chapter = [
         "Num": "锦织之章 第一幕",
         "Title": "江湖不问出处",
         "IT": "行秋",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Xingqiu",
         "Icon": "UI_ChapterIcon_Xingqiu",
         "Intro": ""
     },
@@ -2085,7 +2085,7 @@ var _chapter = [
         "Num": "长杓之章 第一幕",
         "Title": "蒙德食遇之旅",
         "IT": "香菱",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Xiangling",
         "Icon": "UI_ChapterIcon_Xiangling",
         "Intro": ""
     },
@@ -2094,7 +2094,7 @@ var _chapter = [
         "Num": "幼狮之章 第一幕",
         "Title": "骑士团长的一日假期",
         "IT": "琴",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_QIN",
         "Icon": "UI_ChapterIcon_QIN",
         "Intro": ""
     },
@@ -2103,7 +2103,7 @@ var _chapter = [
         "Num": "小狼之章 第一幕",
         "Title": "卢皮卡的意义",
         "IT": "雷泽",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Razor",
         "Icon": "UI_ChapterIcon_Razor",
         "Intro": ""
     },
@@ -2112,7 +2112,7 @@ var _chapter = [
         "Num": "沙漏之章 第一幕",
         "Title": "麻烦的工作",
         "IT": "丽莎",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Lisa",
         "Icon": "UI_ChapterIcon_Lisa",
         "Intro": ""
     },
@@ -2121,7 +2121,7 @@ var _chapter = [
         "Num": "小兔之章 第一幕",
         "Title": "风、勇气和翅膀",
         "IT": "安柏",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Ambor",
         "Icon": "UI_ChapterIcon_Ambor",
         "Intro": ""
     },
@@ -2130,7 +2130,7 @@ var _chapter = [
         "Num": "夜枭之章 第一幕",
         "Title": "暗夜英雄的不在场证明",
         "IT": "迪卢克",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Diluc",
         "Icon": "UI_ChapterIcon_Diluc",
         "Intro": ""
     },
@@ -2139,7 +2139,7 @@ var _chapter = [
         "Num": "孔雀羽之章 第一幕",
         "Title": "海盗秘宝",
         "IT": "凯亚",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Kaeya",
         "Icon": "UI_ChapterIcon_Kaeya",
         "Intro": ""
     },
@@ -2148,7 +2148,7 @@ var _chapter = [
         "Num": "第三章 第二幕",
         "Title": "千朵玫瑰带来的黎明 · 尾声",
         "IT": "须弥",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Xm",
         "Icon": "UI_ChapterIcon_Sumeru",
         "Intro": ""
     },
@@ -2157,7 +2157,7 @@ var _chapter = [
         "Num": "第三章 第五幕",
         "Title": "虚空鼓动，劫火高扬",
         "IT": "须弥",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Xm",
         "Icon": "UI_ChapterIcon_Sumeru",
         "Intro": ""
     },
@@ -2166,7 +2166,7 @@ var _chapter = [
         "Num": "第三章 第四幕",
         "Title": "赤土之王与三朝圣者",
         "IT": "须弥",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Xm",
         "Icon": "UI_ChapterIcon_Sumeru",
         "Intro": ""
     },
@@ -2175,7 +2175,7 @@ var _chapter = [
         "Num": "第三章 第三幕",
         "Title": "迷梦与空幻与欺骗",
         "IT": "须弥",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Xm",
         "Icon": "UI_ChapterIcon_Sumeru",
         "Intro": ""
     },
@@ -2184,7 +2184,7 @@ var _chapter = [
         "Num": "第三章 第二幕",
         "Title": "千朵玫瑰带来的黎明",
         "IT": "须弥",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Xm",
         "Icon": "UI_ChapterIcon_Sumeru",
         "Intro": ""
     },
@@ -2193,7 +2193,7 @@ var _chapter = [
         "Num": "第三章 第一幕",
         "Title": "穿越烟帷与暗林",
         "IT": "须弥",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Xm",
         "Icon": "UI_ChapterIcon_Sumeru",
         "Intro": ""
     },
@@ -2202,7 +2202,7 @@ var _chapter = [
         "Num": "间章 第二幕",
         "Title": "危途疑踪",
         "IT": "间章",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Ly",
         "Icon": "UI_ChapterIcon_RogueLikeDiary",
         "Intro": ""
     },
@@ -2211,7 +2211,7 @@ var _chapter = [
         "Num": "第二章 第四幕",
         "Title": "回响渊底的安魂曲",
         "IT": "旅人",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Lvren",
         "Icon": "UI_ChapterIcon_Traveler",
         "Intro": ""
     },
@@ -2220,7 +2220,7 @@ var _chapter = [
         "Num": "间章 第一幕",
         "Title": "风起鹤归",
         "IT": "间章",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_SideStory",
         "Icon": "UI_ChapterIcon_Qunyuge",
         "Intro": ""
     },
@@ -2229,7 +2229,7 @@ var _chapter = [
         "Num": "第二章 第三幕",
         "Title": "千手百眼，天下人间",
         "IT": "稻妻",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Dq",
         "Icon": "UI_ChapterIcon_Inazuma",
         "Intro": ""
     },
@@ -2238,7 +2238,7 @@ var _chapter = [
         "Num": "第二章 第二幕",
         "Title": "无念无想，泡影断灭",
         "IT": "稻妻",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Dq",
         "Icon": "UI_ChapterIcon_Inazuma",
         "Intro": ""
     },
@@ -2247,7 +2247,7 @@ var _chapter = [
         "Num": "第二章 第一幕",
         "Title": "不动鸣神，恒常乐土",
         "IT": "稻妻",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Dq",
         "Icon": "UI_ChapterIcon_Inazuma",
         "Intro": ""
     },
@@ -2256,7 +2256,7 @@ var _chapter = [
         "Num": "第二章 序幕",
         "Title": "振袖秋风问红叶",
         "IT": "稻妻",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Dq",
         "Icon": "UI_ChapterIcon_Inazuma",
         "Intro": ""
     },
@@ -2265,7 +2265,7 @@ var _chapter = [
         "Num": "第一章 第四幕 · 报幕",
         "Title": "戴因斯雷布",
         "IT": "旅人",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Lvren",
         "Icon": "UI_ChapterIcon_Traveler",
         "Intro": ""
     },
@@ -2274,7 +2274,7 @@ var _chapter = [
         "Num": "第一章 第四幕",
         "Title": "我们终将重逢",
         "IT": "旅人",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Lvren",
         "Icon": "UI_ChapterIcon_Traveler",
         "Intro": ""
     },
@@ -2283,7 +2283,7 @@ var _chapter = [
         "Num": "第一章 第三幕",
         "Title": "迫近的客星",
         "IT": "璃月",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Ly",
         "Icon": "UI_ChapterIcon_Liyue",
         "Intro": ""
     },
@@ -2292,7 +2292,7 @@ var _chapter = [
         "Num": "第一章 第二幕",
         "Title": "辞行久远之躯",
         "IT": "璃月",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Ly",
         "Icon": "UI_ChapterIcon_Liyue",
         "Intro": ""
     },
@@ -2301,7 +2301,7 @@ var _chapter = [
         "Num": "第一章 第一幕",
         "Title": "浮世浮生千岩间",
         "IT": "璃月",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Ly",
         "Icon": "UI_ChapterIcon_Liyue",
         "Intro": ""
     },
@@ -2310,7 +2310,7 @@ var _chapter = [
         "Num": "序章 第三幕",
         "Title": "巨龙与自由之歌",
         "IT": "蒙德",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Md",
         "Icon": "UI_ChapterIcon_Mengde",
         "Intro": ""
     },
@@ -2319,7 +2319,7 @@ var _chapter = [
         "Num": "序章 第二幕",
         "Title": "为了没有眼泪的明天",
         "IT": "蒙德",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Md",
         "Icon": "UI_ChapterIcon_Mengde",
         "Intro": ""
     },
@@ -2328,7 +2328,7 @@ var _chapter = [
         "Num": "序章 第一幕",
         "Title": "捕风的异乡人",
         "IT": "蒙德",
-        "Tab": "",
+        "Tab": "UI_LegendQuestImg_Md",
         "Icon": "UI_ChapterIcon_Mengde",
         "Intro": ""
     }

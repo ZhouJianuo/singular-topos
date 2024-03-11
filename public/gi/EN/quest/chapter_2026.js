@@ -101,7 +101,7 @@ var _mq = {
     "Num": "Taurus Iracundus Chapter: Act I",
     "Title": "Rise Up, Golden Soul",
     "IT": "Arataki Itto",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Itto",
     "Icon": "UI_ChapterIcon_Itto",
     "Intro": "The Oni race has a diverse character in Inazuma: sometimes valiant, sometimes proud, sometimes eccentric, sometimes wicked.<br>These countless interpretations of who they are have left strong symbolic impressions behind, but have also caused their distinctive \"humanity\" to recede into the backdrop.<br>Which side of the oni will you witness as you search for the \"oni who dwells among humans?\"",
     "MainQuests": [

@@ -51,7 +51,7 @@ var _mq = {
     "Num": "小狼之章 第一幕",
     "Title": "卢皮卡的意义",
     "IT": "雷泽",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Razor",
     "Icon": "UI_ChapterIcon_Razor",
     "Intro": "",
     "MainQuests": [

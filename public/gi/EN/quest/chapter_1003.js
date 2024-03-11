@@ -71,7 +71,7 @@ var _mq = {
     "Num": "Prologue: Act III",
     "Title": "Song of the Dragon and Freedom",
     "IT": "Mondstadt",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Md",
     "Icon": "UI_ChapterIcon_Mengde",
     "Intro": "",
     "MainQuests": [

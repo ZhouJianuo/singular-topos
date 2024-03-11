@@ -126,7 +126,7 @@ var _mq = {
     "Num": "第三章 第三幕",
     "Title": "迷梦与空幻与欺骗",
     "IT": "须弥",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xm",
     "Icon": "UI_ChapterIcon_Sumeru",
     "Intro": "",
     "MainQuests": [

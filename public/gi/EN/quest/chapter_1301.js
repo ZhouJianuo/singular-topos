@@ -206,7 +206,7 @@ var _mq = {
     "Num": "Chapter III: Act I",
     "Title": "Through Mists of Smoke and Forests Dark",
     "IT": "Sumeru",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xm",
     "Icon": "UI_ChapterIcon_Sumeru",
     "Intro": "",
     "MainQuests": [

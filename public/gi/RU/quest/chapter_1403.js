@@ -151,7 +151,7 @@ var _mq = {
     "Num": "Том IV. Глава III",
     "Title": "К сиянию звёзд в глубине",
     "IT": "Фонтейн",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Fd",
     "Icon": "UI_ChapterIcon_Fontaine",
     "Intro": "",
     "MainQuests": [

@@ -81,7 +81,7 @@ var _mq = {
     "Num": "Меловой Принцепс. Глава I",
     "Title": "Опыты над путешественником",
     "IT": "Альбедо",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Albedo",
     "Icon": "UI_ChapterIcon_Albedo",
     "Intro": "",
     "MainQuests": [

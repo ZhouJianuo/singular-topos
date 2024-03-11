@@ -141,7 +141,7 @@ var _mq = {
     "Num": "第三章 第四幕",
     "Title": "赤土之王与三朝圣者",
     "IT": "须弥",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Xm",
     "Icon": "UI_ChapterIcon_Sumeru",
     "Intro": "",
     "MainQuests": [

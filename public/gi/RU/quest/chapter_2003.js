@@ -31,7 +31,7 @@ var _mq = {
     "Num": "Озорной Кролик. Глава I",
     "Title": "Ветер, храбрость и крылья",
     "IT": "Эмбер",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Ambor",
     "Icon": "UI_ChapterIcon_Ambor",
     "Intro": "",
     "MainQuests": [

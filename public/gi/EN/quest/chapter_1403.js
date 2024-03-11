@@ -151,7 +151,7 @@ var _mq = {
     "Num": "Chapter IV: Act III",
     "Title": "To the Stars Shining in the Depths",
     "IT": "Fontaine",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Fd",
     "Icon": "UI_ChapterIcon_Fontaine",
     "Intro": "",
     "MainQuests": [

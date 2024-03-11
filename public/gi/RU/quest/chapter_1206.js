@@ -61,7 +61,7 @@ var _mq = {
     "Num": "Том II. Глава IV",
     "Title": "Реквием гулких глубин",
     "IT": "Путешественница",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Lvren",
     "Icon": "UI_ChapterIcon_Traveler",
     "Intro": "",
     "MainQuests": [

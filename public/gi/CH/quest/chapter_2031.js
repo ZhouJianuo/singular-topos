@@ -71,7 +71,7 @@ var _mq = {
     "Num": "枫红之章 第一幕",
     "Title": "陌野不识故人",
     "IT": "枫原万叶",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Kazuha",
     "Icon": "UI_ChapterIcon_Kazuha",
     "Intro": "落花作尘，游子归乡，风中少年因匹敌稻光而声名鹊起。<br>数以万计的视线中，有钦佩与仰慕，有揣测与嫉妒，还有蕴藏在历史中的执念。<br>冰冷似铁的脚步逐渐靠近，他听见的却是风雪与炉火的声音…",
     "MainQuests": [

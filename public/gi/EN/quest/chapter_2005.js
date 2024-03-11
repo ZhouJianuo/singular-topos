@@ -51,7 +51,7 @@ var _mq = {
     "Num": "Lupus Minor Chapter: Act I",
     "Title": "The Meaning of Lupical",
     "IT": "Razor",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Razor",
     "Icon": "UI_ChapterIcon_Razor",
     "Intro": "",
     "MainQuests": [

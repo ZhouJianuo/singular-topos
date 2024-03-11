@@ -106,7 +106,7 @@ var _mq = {
     "Num": "司颂之章 第一幕",
     "Title": "「水的女儿」",
     "IT": "芙宁娜",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Furina",
     "Icon": "UI_ChapterIcon_Furina",
     "Intro": "大幕终落，演出散场，日夜方在眼瞳中倒映出真实的模样。<br>本应是英雄踏上归途，却无人献上鲜花与掌声，仅有露景泉水声潺潺。<br>未来和过去同样漫长，她宛如轻涟，融于人间…",
     "MainQuests": [

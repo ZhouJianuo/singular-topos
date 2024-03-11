@@ -91,7 +91,7 @@ var _mq = {
     "Num": "Carassius Auratus Chapter: Act I",
     "Title": "Dreamlike Timelessness",
     "IT": "Yoimiya",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Yoimiya",
     "Icon": "UI_ChapterIcon_Yoimiya",
     "Intro": "With the Naganohara Fireworks Show just around the corner, everyone is getting excited and the fireworks girl is getting busy.<br>But what is the place of a transitory flicker of flame in a nation that champions eternity?<br>If you have a moment to spare, pray stop and see for yourself. Some things may exist for only an instant, but their meaning endures for all time.",
     "MainQuests": [

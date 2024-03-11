@@ -5347,8 +5347,8 @@ var _items = [
         {
             "_id": 210193,
             "R": 4,
-            "Name": "？？？",
-            "Desc": "？？？",
+            "Name": "Chiori: Spectacular Sleeves",
+            "Desc": "Namecard style.<br>The doll known as \"Tamoto-chan\" was one of Chiori's earliest works, and is also the model that requires the least fabric and tailoring.",
             "Src": [
                 "Reward for reaching Friendship Lv. 10 with Chiori"
             ],
@@ -7446,8 +7446,8 @@ var _items = [
         {
             "_id": 108667,
             "R": 3,
-            "Name": "？？？",
-            "Desc": "？？？",
+            "Name": "Delicious Mega-Meaty Sushi",
+            "Desc": "Sushi made using barbecued meat. The tender meat bursting with rich juices quickly fills every nook and cranny of your mouth. Conquering the entire plate feels like you are standing atop a lofty summit, surveying the world below with pure satisfaction as contentment wells up from deep within.",
             "Eff": "Restores 34% of Max HP and an additional 1,900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108666",
             "Recipe": 3221,
@@ -7456,8 +7456,8 @@ var _items = [
         {
             "_id": 108666,
             "R": 3,
-            "Name": "？？？",
-            "Desc": "？？？",
+            "Name": "Mega-Meaty Sushi",
+            "Desc": "Sushi made using barbecued meat. Layer upon layer of meat, thin and tender, is piled up in the same way that earth and stone pack together to form a mountain, with the delicate radish paste forming its snow-capped peak. This dish is not only a feast for the eyes, but for the mouth also.",
             "Eff": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
             "Icon": "UI_ItemIcon_108666",
             "Recipe": 3221,
@@ -7466,8 +7466,8 @@ var _items = [
         {
             "_id": 108665,
             "R": 3,
-            "Name": "？？？",
-            "Desc": "？？？",
+            "Name": "Suspicious Mega-Meaty Sushi",
+            "Desc": "Sushi made using barbecued meat. The meat slices lean every which way, dry as firewood. To eat this is to climb peaks fraught with peril — an expedition for which retreating halfway might prove wise...",
             "Eff": "Restores 30% of Max HP and an additional 600 HP to the selected character.",
             "Icon": "UI_ItemIcon_108666",
             "Recipe": 3221,

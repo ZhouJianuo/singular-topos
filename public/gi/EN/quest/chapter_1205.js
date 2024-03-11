@@ -171,7 +171,7 @@ var _mq = {
     "Num": "Interlude Chapter: Act I",
     "Title": "The Crane Returns on the Wind",
     "IT": "Interlude Chapter",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_SideStory",
     "Icon": "UI_ChapterIcon_Qunyuge",
     "Intro": "",
     "MainQuests": [

@@ -81,7 +81,7 @@ var _mq = {
     "Num": "野蔷薇之章 第一幕",
     "Title": "共渡潮落",
     "IT": "娜维娅",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Navia",
     "Icon": "UI_ChapterIcon_Navia",
     "Intro": "正如花开花落，云卷云舒，世间诸事亦有高峰与低谷。<br>总有人想要在高峰之上独享荣耀，又要在低谷哀叹苍天不遂人愿，愤然离去。<br>少女为背影送上祝福，随后与留下的同伴互相鼓励，再度踏上攀登之路。<br>——就像刺玫会初建时那样。",
     "MainQuests": [

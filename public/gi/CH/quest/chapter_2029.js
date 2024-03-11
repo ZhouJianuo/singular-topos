@@ -141,7 +141,7 @@ var _mq = {
     "Num": "幽客之章 第一幕",
     "Title": "棋生断处",
     "IT": "夜兰",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Yelan",
     "Icon": "UI_ChapterIcon_Yelan",
     "Intro": "璃月七星之一的「天枢星」身体抱恙，选拔继任者已经迫在眉睫。<br>三位候选人依次亮相，看似平静的考察背后，却似乎有一股力量在推波助澜…<br>人心无算，落子成局。可有资格执棋者寥寥无几，更多的人深陷局中而不自知。",
     "MainQuests": [

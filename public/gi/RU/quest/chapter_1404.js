@@ -141,7 +141,7 @@ var _mq = {
     "Num": "Том IV. Глава IV",
     "Title": "Приближение катастрофы",
     "IT": "Фонтейн",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Fd",
     "Icon": "UI_ChapterIcon_Fontaine",
     "Intro": "",
     "MainQuests": [

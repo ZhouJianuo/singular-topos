@@ -136,7 +136,7 @@ var _mq = {
     "Num": "Том II. Глава III",
     "Title": "Всевидящий бог, бренный мир",
     "IT": "Инадзума",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Dq",
     "Icon": "UI_ChapterIcon_Inazuma",
     "Intro": "",
     "MainQuests": [

@@ -116,7 +116,7 @@ var _mq = {
     "Num": "守狱犬之章 第一幕",
     "Title": "于怨嗟之地重生",
     "IT": "莱欧斯利",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Wriothesley",
     "Icon": "UI_ChapterIcon_Wriothesley",
     "Intro": "冲动的情感淹没理智，错误的选择指向歧途，如此种种的复杂纠葛，共同铸造了「罪」。<br>坠入水之深渊被视为一种惩戒，但在梅洛彼得堡的管理者眼中，这亦是反思过去的良机。<br>无人可赐救赎，唯有自掌沉浮。",
     "MainQuests": [

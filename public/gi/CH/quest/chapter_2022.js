@@ -61,7 +61,7 @@ var _mq = {
     "Num": "雪鹤之章 第一幕",
     "Title": "鹤与白兔的诉说",
     "IT": "神里绫华",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Ayaka",
     "Icon": "UI_ChapterIcon_Ayaka",
     "Intro": "一本旧笔记，引出了一个陌生名字。<br>「椿」——母亲的这位旧友犹如一朵赤红之花，落于雪上，也落在神里绫华心中……<br>随她一同出发吧！带上见面礼，准备好心情，去见见那位不可思议的故人。",
     "MainQuests": [

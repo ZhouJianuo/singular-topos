@@ -61,7 +61,7 @@ var _mq = {
     "Num": "Бог Песен. Глава I",
     "Title": "Ежели тебя не поддерживают ветра",
     "IT": "Венти",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Venti",
     "Icon": "UI_ChapterIcon_Venti",
     "Intro": "",
     "MainQuests": [

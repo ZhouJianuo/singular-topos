@@ -61,7 +61,7 @@ var _mq = {
     "Num": "歌仙之章 第一幕",
     "Title": "若你困于无风之地",
     "IT": "温迪",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Venti",
     "Icon": "UI_ChapterIcon_Venti",
     "Intro": "",
     "MainQuests": [

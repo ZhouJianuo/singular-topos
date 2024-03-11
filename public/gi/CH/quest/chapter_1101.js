@@ -116,7 +116,7 @@ var _mq = {
     "Num": "第一章 第一幕",
     "Title": "浮世浮生千岩间",
     "IT": "璃月",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Ly",
     "Icon": "UI_ChapterIcon_Liyue",
     "Intro": "",
     "MainQuests": [

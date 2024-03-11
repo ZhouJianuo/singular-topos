@@ -136,7 +136,7 @@ var _mq = {
     "Num": "Том I. Глава II",
     "Title": "Прощайте, древний лорд.",
     "IT": "Ли Юэ",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Ly",
     "Icon": "UI_ChapterIcon_Liyue",
     "Intro": "",
     "MainQuests": [

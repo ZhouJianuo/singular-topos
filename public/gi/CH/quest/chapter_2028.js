@@ -141,7 +141,7 @@ var _mq = {
     "Num": "神守柏之章 第一幕",
     "Title": "梧桐一叶落",
     "IT": "神里绫人",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Ayato",
     "Icon": "UI_ChapterIcon_Ayato",
     "Intro": "尘埃初定，万事待兴，稻妻终于重归正轨。<br>辞旧迎新之际，天领奉行与勘定奉行中的两位有情人也结束了漫长的苦恋，即将喜结连理。<br>但在现任社奉行神里绫人的眼里，此事绝非只是一场单纯的「婚姻」…",
     "MainQuests": [

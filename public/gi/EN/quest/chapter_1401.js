@@ -231,7 +231,7 @@ var _mq = {
     "Num": "Chapter IV: Act I",
     "Title": "Prelude of Blancheur and Noirceur",
     "IT": "Fontaine",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Fd",
     "Icon": "UI_ChapterIcon_Fontaine",
     "Intro": "",
     "MainQuests": [

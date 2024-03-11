@@ -81,7 +81,7 @@ var _mq = {
     "Num": "白垩之章 第一幕",
     "Title": "旅行者观察报告",
     "IT": "阿贝多",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Albedo",
     "Icon": "UI_ChapterIcon_Albedo",
     "Intro": "",
     "MainQuests": [

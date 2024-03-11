@@ -141,7 +141,7 @@ var _mq = {
     "Num": "Cypressus Custos Chapter: Act I",
     "Title": "The Firmiana Leaf Falls",
     "IT": "Kamisato Ayato",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Ayato",
     "Icon": "UI_ChapterIcon_Ayato",
     "Intro": "Now that the dust has settled, life in Inazuma is finally returning to normal.<br>Bidding farewell to the old and ringing in the new, the two lovers from the Tenryou and Kanjou Commissions are also about to step out of their long stymied romance into a greater union.<br>But in the eyes of the current Yashiro Commissioner, Kamisato Ayato, this is no mere \"wedding\"...",
     "MainQuests": [

@@ -46,7 +46,7 @@ var _mq = {
     "Num": "Chapter I: Act IV - Prelude",
     "Title": "Dainsleif",
     "IT": "Traveler",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Lvren",
     "Icon": "UI_ChapterIcon_Traveler",
     "Intro": "",
     "MainQuests": [

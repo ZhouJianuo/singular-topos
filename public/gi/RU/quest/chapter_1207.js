@@ -86,7 +86,7 @@ var _mq = {
     "Num": "Промежуточный том. Глава II",
     "Title": "Опасная тропа",
     "IT": "Промежуточный том",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Ly",
     "Icon": "UI_ChapterIcon_RogueLikeDiary",
     "Intro": "",
     "MainQuests": [

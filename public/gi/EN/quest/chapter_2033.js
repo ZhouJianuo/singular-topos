@@ -106,7 +106,7 @@ var _mq = {
     "Num": "Lotos Somno Chapter: Act I",
     "Title": "To the Wise",
     "IT": "Nilou",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Nilou",
     "Icon": "UI_ChapterIcon_Nilou",
     "Intro": "At the break of dawn, the Grand Bazaar is bustling with activity as usual.<br>Even though daily life may feel bland as water, the young girl on stage is able to depict a colorful world through her performance.<br>However, she seems to have encountered some trouble when preparing for this evening's play and banquet...",
     "MainQuests": [

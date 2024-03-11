@@ -96,7 +96,7 @@ var _mq = {
     "Num": "Papilio Charontis Chapter: Act I",
     "Title": "Yet the Butterfly Flutters Away",
     "IT": "Hu Tao",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Hutao",
     "Icon": "UI_ChapterIcon_Hutao",
     "Intro": "The spear opens the path to the afterlife, and the butterflies bridge this world and the next.<br>Wangsheng Funeral Parlor has overseen countless funerals for Liyue's residents in its time, guiding people along the final journey they shall embark on in this realm.<br>Yes, the current guide does uphold this solemn tradition in a somewhat unorthodox fashion...<br>But fear not! No matter what your background might be, she is passionate about ensuring that every client receives the send-off they deserve.",
     "MainQuests": [

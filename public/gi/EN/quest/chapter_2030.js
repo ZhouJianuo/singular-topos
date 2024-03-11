@@ -91,7 +91,7 @@ var _mq = {
     "Num": "Vulpes Zerda Chapter: Act I",
     "Title": "The Unanswerable Problems",
     "IT": "Tighnari",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Tighnari",
     "Icon": "UI_ChapterIcon_Tighnari",
     "Intro": "A contaminated area that seems to differ from the Withering Zone is spreading through Avidya Forest, disturbing the thoughts of many who pass through the area.<br>You take great pains to be fully prepared before you delve into this area, but your hard-come-by guide turns out to be a mechanical crab who cannot communicate with you.<br>Yet, is any one life greater than another? Perhaps its cold outer shield may yet hide thoughts that shall coalesce into a beating heart.",
     "MainQuests": [

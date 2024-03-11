@@ -91,7 +91,7 @@ var _mq = {
     "Num": "Noctua Chapter: Act I",
     "Title": "Darknight Hero's Alibi",
     "IT": "Diluc",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Diluc",
     "Icon": "UI_ChapterIcon_Diluc",
     "Intro": "",
     "MainQuests": [

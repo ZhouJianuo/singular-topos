@@ -91,7 +91,7 @@ var _mq = {
     "Num": "夜枭之章 第一幕",
     "Title": "暗夜英雄的不在场证明",
     "IT": "迪卢克",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Diluc",
     "Icon": "UI_ChapterIcon_Diluc",
     "Intro": "",
     "MainQuests": [

@@ -36,7 +36,7 @@ var _mq = {
     "Num": "Пролог. Глава I",
     "Title": "Чужеземец, поймавший ветер",
     "IT": "Мондштадт",
-    "Tab": "",
+    "Tab": "UI_LegendQuestImg_Md",
     "Icon": "UI_ChapterIcon_Mengde",
     "Intro": "",
     "MainQuests": [
