@@ -41,7 +41,6 @@ $(function () {
                     var ver_dict = {}
                     _AchievementData[0].Data.Vers.forEach(function (me, ind) {
                         ver_dict[me.Name] = me.ID ? me.ID : "-"
-                        if (ind == 1) cur_ver = me.ID
                     })
                     $(d.container).render({
                         select: '',
