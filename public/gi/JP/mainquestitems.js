@@ -3973,334 +3973,334 @@ var _material = {
     "101": {
         "_id": 101,
         "R": 3,
-        "Name": "Character EXP",
-        "Desc": "Character EXP, used to level up characters.",
+        "Name": "キャラクター経験値",
+        "Desc": "キャラクター経験値。キャラクターLvUPに使用できる。",
         "Src": [],
         "Icon": "UI_ItemIcon_101"
     },
     "102": {
         "_id": 102,
         "R": 3,
-        "Name": "Adventure EXP",
-        "Desc": "Adventure EXP. Used to improve Adventure Rank.",
+        "Name": "冒険経験",
+        "Desc": "冒険の経験値。冒険ランクのアップに使用できる。",
         "Src": [],
         "Icon": "UI_ItemIcon_102"
     },
     "109": {
         "_id": 109,
         "R": 3,
-        "Name": "Fading Star's Might",
-        "Desc": "A collection of celestial energy.<br>Can be exchanged for treasure during the \"Unreconciled Stars\" event.",
+        "Name": "熄星エネルギー",
+        "Desc": "集めた天体エネルギー。<br>「帰らぬ熄星」の期間中に宝物と交換できる。",
         "Src": [
-            "Meteorite Shard Reward",
-            "Meteorite Remains Salvage Challenge Reward"
+            "「隕石の星屑」を獲得",
+            "「隕石の残骸の回収」挑戦にて獲得"
         ],
         "Icon": "UI_ItemIcon_109"
     },
     "116": {
         "_id": 116,
         "R": 3,
-        "Name": "Festive Fever",
-        "Desc": "The festive mood during Lantern Rite. Perhaps the atmosphere on the day of the Rite will be better the higher the Festive Fever is...",
+        "Name": "賑わい度",
+        "Desc": "海灯祭期間中の賑わい度。賑わい度が上がれば、海灯祭もより盛り上がるだろう…",
         "Src": [
-            "Obtained by completing Lantern Rite Tales"
+            "「海灯祭逸話」クリア後に獲得"
         ],
         "Icon": "UI_ItemIcon_116"
     },
     "138": {
         "_id": 138,
         "R": 4,
-        "Name": "Immaculate Talisman",
-        "Desc": "An exquisite talisman that seems quite valuable. You should be able to exchange this for certain items...",
+        "Name": "完璧玉佩",
+        "Desc": "かなり高価に見える精巧な玉佩。何かと交換する時に使えるかもしれない…",
         "Src": [
-            "Obtained by completing \"Fleeting Colors in Flight\""
+            "「華々しき流年」クリア後獲得"
         ],
         "Icon": "UI_ItemIcon_138"
     },
     "147": {
         "_id": 147,
         "R": 3,
-        "Name": "Festive Fever",
-        "Desc": "Weinlesefest Festive Fever",
+        "Name": "賑わい度",
+        "Desc": "ブリーズブリュー祭の賑わい度",
         "Src": [
-            "Obtained from the Of Ballads and Brews event"
+            "「杯の中のバラッド」で獲得"
         ],
         "Icon": "UI_ItemIcon_147"
     },
     "160": {
         "_id": 160,
         "R": 3,
-        "Name": "Invokation Coupons",
-        "Desc": "You can obtain these coupons after participating in various events at the King of Invokations Grand Prix. During the event, you can exchange them for rewards.",
+        "Name": "巧賽チケット",
+        "Desc": "「召喚王グランプリ」の会場で各種イベントに参加すると獲得できるチケット。イベント期間中、さまざまな報酬と交換できる。",
         "Src": [
-            "Claim from the \"Duel! The Summoners' Summit!\" event"
+            "イベント「決闘！召喚の頂！」で獲得"
         ],
         "Icon": "UI_ItemIcon_160"
     },
     "166": {
         "_id": 166,
         "R": 3,
-        "Name": "Thelxie's Badge",
-        "Desc": "A golden penguin badge that shines with a metallic glow. It seems to give the bearer a staunch resolve to move forward...<br>A precious reward that can be unlocked in the \"Thelxie's Fantastic Adventures\" event.",
+        "Name": "「トルクシーのバッジ」",
+        "Desc": "金属の輝きを放つペンギンのバッジ。身につける者に前へと進む不動の意志を与えてくれるようだ…<br>イベント「トルクシーの不思議な冒険」で、貴重なアイテムなどと交換できる。",
         "Src": [
-            "Obtained from the \"Thelxie's Fantastic Adventures\" Event"
+            "「トルクシーの不思議な冒険」イベント獲得"
         ],
         "Icon": "UI_ItemIcon_166"
     },
     "201": {
         "_id": 201,
         "R": 5,
-        "Name": "Primogem",
-        "Desc": "A primordial crystalline gem that's beyond the mundane world. Shines with the condensed hopes and dreams of universes that once were.",
+        "Name": "原石",
+        "Desc": "世界を超越した原初の晶石。暗闇の宇宙の中で、主無き夢と希望が結び合わさってできた光。",
         "Src": [],
         "Icon": "UI_ItemIcon_201"
     },
     "202": {
         "_id": 202,
         "R": 3,
-        "Name": "Mora",
-        "Desc": "Common currency. The one language everybody speaks.",
+        "Name": "モラ",
+        "Desc": "大陸で流通しているお金。世界で通用する共通言語、誰でも理解できる貴金属。",
         "Src": [
-            "Blossom of Wealth Revitalization Reward"
+            "蔵金の花で獲得"
         ],
         "Icon": "UI_ItemIcon_202"
     },
     "912": {
         "_id": 912,
         "R": 5,
-        "Name": "Memory of Running Stream",
-        "Desc": "The missing star from the Talents of a Hydro-aligned Traveler.",
+        "Name": "永久奔流の記憶",
+        "Desc": "水元素を持つ旅人の命ノ星座が欠けた星屑。",
         "Src": [
-            "Fontaine Archon Quest Reward",
-            "Obtained by making offerings to Statues of The Seven in Fontaine"
+            "フォンテーヌの魔神任務報酬",
+            "フォンテーヌの七天神像に奉納すると獲得"
         ],
         "Icon": "UI_ItemIcon_912"
     },
     "913": {
         "_id": 913,
         "R": 5,
-        "Name": "Memory of Flourishing Green",
-        "Desc": "The missing star from the Talents of a Dendro-aligned Traveler.",
+        "Name": "草木繁茂の記憶",
+        "Desc": "草元素を持つ旅人の命ノ星座が欠けた星屑。",
         "Src": [
-            "Sumeru Archon Quest Reward",
-            "Obtained by making offerings to Statues of The Seven in Sumeru"
+            "スメールの魔神任務報酬",
+            "スメールの七天神像に奉納すると獲得"
         ],
         "Icon": "UI_ItemIcon_913"
     },
     "914": {
         "_id": 914,
         "R": 5,
-        "Name": "Memory of Violet Flash",
-        "Desc": "The missing star from the Talents of an Electro-aligned Traveler.",
+        "Name": "蒼雷紫電の記憶",
+        "Desc": "雷元素を持つ旅人の命ノ星座が欠けた星屑。",
         "Src": [
-            "Inazuma Archon Quest Reward",
-            "Obtained by making offerings to Statues of The Seven in Inazuma"
+            "稲妻の魔神任務報酬",
+            "稲妻の七天神像に奉納すると獲得"
         ],
         "Icon": "UI_ItemIcon_914"
     },
     "915": {
         "_id": 915,
         "R": 5,
-        "Name": "Memory of Roving Gales",
-        "Desc": "The missing star from the Talents of an Anemo-aligned Traveler.",
+        "Name": "四方の風の記憶",
+        "Desc": "風元素を持つ旅人の命ノ星座が欠けた星屑。",
         "Src": [
-            "Mondstadt Archon Quest Reward",
-            "Adventure Rank Reward",
-            "Purchase from the Souvenir Shop"
+            "モンドの魔神任務報酬",
+            "冒険ランク報酬",
+            "記念品ショップ交換"
         ],
         "Icon": "UI_ItemIcon_915"
     },
     "917": {
         "_id": 917,
         "R": 5,
-        "Name": "Memory of Immovable Crystals",
-        "Desc": "The missing star from the Talents of a Geo-aligned Traveler.",
+        "Name": "不動晶石の記憶",
+        "Desc": "岩元素を持つ旅人の命ノ星座が欠けた星屑。",
         "Src": [
-            "Liyue Archon Quest Reward",
-            "Purchase from the Souvenir Shop"
+            "璃月の魔神任務報酬",
+            "記念品ショップ交換"
         ],
         "Icon": "UI_ItemIcon_917"
     },
     "1006": {
         "_id": 1006,
         "R": 4,
-        "Name": "Lisa",
-        "Desc": "The languid but knowledgeable Librarian of the Knights of Favonius, deemed by Sumeru Akademiya to be their most distinguished graduate in the past two centuries.",
+        "Name": "リサ",
+        "Desc": "無気力だが博学な図書館司書。スメール教令院「200年に1人」の天才卒業生。",
         "Src": [
-            "Wish"
+            "祈願"
         ],
         "Icon": "UI_AvatarIcon_Lisa_Card"
     },
     "1015": {
         "_id": 1015,
         "R": 4,
-        "Name": "Kaeya",
-        "Desc": "An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.",
+        "Name": "ガイア",
+        "Desc": "異国の顔を持つ剣士。西風騎士団の頭脳派である。",
         "Src": [
-            "Wish"
+            "祈願"
         ],
         "Icon": "UI_AvatarIcon_Kaeya_Card"
     },
     "1301": {
         "_id": 1301,
         "R": 4,
-        "Name": "An Appellative Stroke",
-        "Desc": "The brush with which you may bestow a new name upon a certain person.<br>Once the new name has been given, it cannot be changed.",
+        "Name": "新名撰筆",
+        "Desc": "ある者の「名前」を書き換える筆。<br>「名前」を書き換えた後は、変更することができない。",
         "Src": [],
         "Icon": "UI_ItemIcon_1301"
     },
     "100222": {
         "_id": 100222,
         "R": 1,
-        "Name": "1000 Years of Loneliness",
-        "Desc": "The beginning of the Springvale Hunter's tragic fantasy journey. Where did misfortune first befall him? What marks the start and finish of the 1000-year journey of loneliness? Let this first volume of 1000 Years of Loneliness be your guide through the fantastical fog that is the life of Gothson.",
+        "Name": "千年孤独",
+        "Desc": "清泉町の狩人の不思議な悲劇の旅の始まり、一体どこからが不幸の始まりなのだろう？千年間孤独の旅の始まりと終わりは一体…？『千年孤独』第1部、ゴドセの不思議な一生が明らかに！",
         "Src": [],
         "Icon": "UI_ItemIcon_100221"
     },
     "101644": {
         "_id": 101644,
         "R": 3,
-        "Name": "Lumenstone Ore",
-        "Desc": "The raw ore from which Lumenstone may be found. If processed properly, it can be used to strengthen the Lumenstone Adjuvant you have. Why not hit Jinwu up and ask her?",
+        "Name": "流明石の原鉱",
+        "Desc": "流明石の原鉱。加工すれば、所持している流明石の触媒を強化できるかもしれない。瑾武に聞いてみよう…",
         "Src": [],
         "Icon": "UI_ItemIcon_101644"
     },
     "101692": {
         "_id": 101692,
         "R": 3,
-        "Name": "Light Realm Sigil",
-        "Desc": "A mark symbolizing the recognition of Enkanomiya's Tokoyo Ookami.<br>They can be offered up to the Statue of the Vassals of Watatsumi, thus upgrading the Bokuso Box.",
+        "Name": "光界の印",
+        "Desc": "淵下宮の常世大神に認められ、授かった印記。<br>御使いの彫像に奉納すると、睦疎の箱をレベルアップできる。",
         "Src": [],
         "Icon": "UI_ItemIcon_101692"
     },
     "101832": {
         "_id": 101832,
         "R": 4,
-        "Name": "Stories of You and the Aranara",
-        "Desc": "So many wonderful things transpired during your adventures with the Aranara. In the world of the Aranara where stories are highly valued, maybe someone is willing to \"exchange\" these with you.",
+        "Name": "あなたとアランナラの物語",
+        "Desc": "アランナラと冒険する中で、沢山の不思議な物語が生まれた。物語を大切にするアランナラの世界には、これと何かを「交換」してくれるやつがいるかも。",
         "Src": [],
         "Icon": "UI_ItemIcon_101832"
     },
     "101854": {
         "_id": 101854,
         "R": 1,
-        "Name": "Leisurely Rocks: Left",
-        "Desc": "Slightly soft bonsai rocks. They seem to be able to summon a leisurely and comfy breeze. These can be placed on the left side of the bonsai.",
+        "Name": "優悠山石 · 左",
+        "Desc": "柔らかい質感をした盆景山石。のんびりと心地よい風を招くらしい。盆景の左側に配置することができる。",
         "Src": [],
         "Icon": "UI_ItemIcon_101854"
     },
     "101855": {
         "_id": 101855,
         "R": 1,
-        "Name": "Leisurely Rocks: Right",
-        "Desc": "Slightly soft bonsai rocks. They seem to be able to summon a leisurely and comfy breeze. These can be placed on the right side of the bonsai.",
+        "Name": "優悠山石 · 右",
+        "Desc": "柔らかい質感をした盆景山石。のんびりと心地よい風を招くらしい。盆景の右側に配置することができる。",
         "Src": [],
         "Icon": "UI_ItemIcon_101855"
     },
     "101856": {
         "_id": 101856,
         "R": 1,
-        "Name": "Hoverlight Rocks: Left",
-        "Desc": "Rocks of moderate hardness. It is said that a glimmer will dance across the surface of these rocks during stormy weather. These can be placed on the left side of the bonsai.",
+        "Name": "浮光山石 · 左",
+        "Desc": "硬い質感をした盆景山石。雷雨の日には、表面がキラキラ光ると言われている。盆景の左側に配置することができる。",
         "Src": [],
         "Icon": "UI_ItemIcon_101856"
     },
     "101857": {
         "_id": 101857,
         "R": 1,
-        "Name": "Hoverlight Rocks: Right",
-        "Desc": "Bonsai rocks of moderate hardness. It is said that a glimmer will dance across the surface of these rocks during stormy weather. These can be placed on the right side of the bonsai.",
+        "Name": "浮光山石 · 右",
+        "Desc": "硬い質感をした盆景山石。雷雨の日には、表面がキラキラ光ると言われている。盆景の右側に配置することができる。",
         "Src": [],
         "Icon": "UI_ItemIcon_101857"
     },
     "101858": {
         "_id": 101858,
         "R": 1,
-        "Name": "Unyielding Rocks: Left",
-        "Desc": "Very hard bonsai rocks that have an air of firmness to them. These can be placed on the left side of the bonsai.",
+        "Name": "磐固山石 · 左",
+        "Desc": "極めて硬質な盆景山石。重厚な岩の雰囲気を漂わせている。盆景の左側に配置することができる。",
         "Src": [],
         "Icon": "UI_ItemIcon_101858"
     },
     "101859": {
         "_id": 101859,
         "R": 1,
-        "Name": "Unyielding Rocks: Right",
-        "Desc": "Very hard bonsai rocks that have an air of firmness to them. These can be placed on the right side of the bonsai.",
+        "Name": "磐固山石 · 右",
+        "Desc": "極めて硬質な盆景山石。重厚な岩の雰囲気を漂わせている。盆景の右側に配置することができる。",
         "Src": [],
         "Icon": "UI_ItemIcon_101859"
     },
     "104001": {
         "_id": 104001,
         "R": 2,
-        "Name": "Wanderer's Advice",
-        "Desc": "Character EXP material. Gives 1000 EXP.<br>These experiences are still beneficial even if one does not live in Teyvat.",
+        "Name": "流浪者の経験",
+        "Desc": "キャラクターのLvUP用アイテム、使用すると経験値1000を獲得できる。<br>七国以外の地域で生きていくために必要なもの。",
         "Src": [
-            "Adventure and Exploration Reward",
-            "Exchanged from the Realm Depot"
+            "冒険と探索報酬",
+            "洞天百貨で交換"
         ],
         "Icon": "UI_ItemIcon_104001"
     },
     "104002": {
         "_id": 104002,
         "R": 3,
-        "Name": "Adventurer's Experience",
-        "Desc": "Character EXP material. Gives 5000 EXP.<br>These experiences are very beneficial for journeys into the unknown.",
+        "Name": "冒険家の経験",
+        "Desc": "キャラクターのLvUP用アイテム、使用すると経験値5000を獲得できる。<br>秘境に足を踏み入れるために大事なもの。",
         "Src": [
-            "Adventure and Exploration Reward",
-            "Blossom of Revelation Revitalization Reward"
+            "冒険と探索報酬",
+            "啓示の花で獲得"
         ],
         "Icon": "UI_ItemIcon_104002"
     },
     "104003": {
         "_id": 104003,
         "R": 4,
-        "Name": "Hero's Wit",
-        "Desc": "Character EXP material. Gives 20000 EXP.<br>These experiences are extremely precious for a pilgrim traveling through Teyvat in order to be closer to Celestia.",
+        "Name": "大英雄の経験",
+        "Desc": "キャラクターのLvUP用アイテム、使用すると経験値20000を獲得できる。<br>天空の島を目指して、大陸を巡礼するために貴重なもの。",
         "Src": [
-            "Random Event Reward",
-            "Blossom of Revelation Revitalization Reward",
-            "Exchanged from the Realm Depot"
+            "事件解決報酬",
+            "啓示の花で獲得",
+            "洞天百貨で交換"
         ],
         "Icon": "UI_ItemIcon_104003"
     },
     "104011": {
         "_id": 104011,
         "R": 1,
-        "Name": "Enhancement Ore",
-        "Desc": "Weapon EXP material. Gives 400 EXP.<br>A refined ingot with endless possibilities that can be used to enhance weapons.",
+        "Name": "仕上げ用雑鉱",
+        "Desc": "武器のLvUP用アイテム、使用すると経験値400を獲得できる。<br>無限な可能性が秘められた精錬鉱石の塊。武器の強化に使える。",
         "Src": [
-            "Forged",
-            "Random Event Reward"
+            "鍛造で獲得",
+            "クエストクリア報酬"
         ],
         "Icon": "UI_ItemIcon_104011"
     },
     "104012": {
         "_id": 104012,
         "R": 2,
-        "Name": "Fine Enhancement Ore",
-        "Desc": "Weapon EXP material. Gives 2,000 EXP.<br>For reasons unknown, this special and refined ore can be absorbed by weapons to greatly increase their strengths.",
+        "Name": "仕上げ用良鉱",
+        "Desc": "武器のLvUP用アイテム、使用すると経験値2000を獲得できる。<br>特殊な精錬鉱石の塊。これを吸い込むことにより、武器がさらに強くなる。",
         "Src": [
-            "Forged",
-            "Random Event Reward"
+            "鍛造で獲得",
+            "クエストクリア報酬"
         ],
         "Icon": "UI_ItemIcon_104012"
     },
     "104013": {
         "_id": 104013,
         "R": 3,
-        "Name": "Mystic Enhancement Ore",
-        "Desc": "Weapon EXP material. Gives 10,000 EXP.<br>Legend has it that this refined ingot contains the memories of battles that had taken place in the land. The weapons that benefit from these memories naturally become sentient.",
+        "Name": "仕上げ用魔鉱",
+        "Desc": "武器のLvUP用アイテム、使用すると経験値10000を獲得できる。<br>この大地にあった戦いの記憶をもつ精錬鉱石の塊。これを吸い込むことにより、武器も魂を持つようになる。",
         "Src": [
-            "Forged",
-            "Random Event Reward"
+            "鍛造で獲得",
+            "クエストクリア報酬"
         ],
         "Icon": "UI_ItemIcon_104013"
     },
     "104301": {
         "_id": 104301,
         "R": 2,
-        "Name": "Teachings of Freedom",
-        "Desc": "Talent Level-Up material.<br>Freedom is the spirit of the land of the wind.<br>The freedom to live is one of such. It is the freedom to live freely and healthily without concerns of one's own safety.",
+        "Name": "「自由」の教え",
+        "Desc": "天賦育成素材。<br>風の国の精神は自由である。<br>自由その1、生きる自由、すなわち健全、健康に生きること。いつ終わるか分からない自由の心配がないこと。",
         "Src": [],
         "Icon": "UI_ItemIcon_104301",
         "Link": 1
@@ -4308,10 +4308,10 @@ var _material = {
     "104302": {
         "_id": 104302,
         "R": 3,
-        "Name": "Guide to Freedom",
-        "Desc": "Talent Level-Up material.<br>Freedom is the spirit of the land of the wind.<br>The freedom of travel is one of such. It is the freedom to traverse the land freely without being obstructed.",
+        "Name": "「自由」の導き",
+        "Desc": "天賦育成素材。<br>風の国の精神は自由である。<br>自由その2、旅する自由、すなわち蒼翠なる土地で自由気ままに通行し、邪魔されない自由。",
         "Src": [
-            "Crafted"
+            "合成で獲得"
         ],
         "Icon": "UI_ItemIcon_104302",
         "Link": 1
@@ -4319,8 +4319,8 @@ var _material = {
     "104304": {
         "_id": 104304,
         "R": 2,
-        "Name": "Teachings of Resistance",
-        "Desc": "Talent Level-Up material.<br>Resistance is the backbone of the land of the wind.<br>The history of Mondstadt is one of resistances. People rose up to prevent past conflicts from ever being forgotten, like sprouts breaking through the soil, like the eternal wind eroding through stone walls.",
+        "Name": "「抗争」の教え",
+        "Desc": "天賦育成素材。<br>風の国の支柱は抗争である。<br>モンドの歴史はすなわち抗争の歴史。モンドの全ての抗争が忘れられないように抗争する、それは草木が土を破り、風が石の壁を穿つと同じである。",
         "Src": [],
         "Icon": "UI_ItemIcon_104304",
         "Link": 1
@@ -4328,10 +4328,10 @@ var _material = {
     "104305": {
         "_id": 104305,
         "R": 3,
-        "Name": "Guide to Resistance",
-        "Desc": "Talent Level-Up material.<br>Resistance is the backbone of the city of Wind.<br>The history of Mondstadt is one of resistances. People rose up to grant the citizens of Mondstadt the freedom they now enjoy, like the Anemo Archon blowing away the snow, or like Vennessa rising up to fight.",
+        "Name": "「抗争」の導き",
+        "Desc": "天賦育成素材。<br>風の国の支柱は抗争である。<br>モンドの歴史はすなわち抗争の歴史。モンドの人々が自由であるために抗争する、それは風神が氷雪を散らし、ヴァネッサが立ち上がって戦うと同じである。",
         "Src": [
-            "Crafted"
+            "合成で獲得"
         ],
         "Icon": "UI_ItemIcon_104305",
         "Link": 1
@@ -4339,8 +4339,8 @@ var _material = {
     "104307": {
         "_id": 104307,
         "R": 2,
-        "Name": "Teachings of Ballad",
-        "Desc": "Talent Level-Up material.<br>Poetry is the soul of the land of the wind.<br>Poetry is the manifestations of beautiful feelings. On a beautiful day, the breezes carry with them poetry that touches the heart of people like the wind caressing the leaves.",
+        "Name": "「詩文」の教え",
+        "Desc": "天賦育成素材。<br>風の国の魂は詩と文章である。<br>詩と文章は美しい気持ちである。美しい日々に野原の風が田園の詩や愛の詩を連れて、風が葉を撫でるように、人々の心を優しく撫でる。",
         "Src": [],
         "Icon": "UI_ItemIcon_104307",
         "Link": 1
@@ -4348,10 +4348,10 @@ var _material = {
     "104308": {
         "_id": 104308,
         "R": 3,
-        "Name": "Guide to Ballad",
-        "Desc": "Talent Level-Up material.<br>Poetry is the soul of the land of the wind.<br>Poetry is the manifestations of the will to encourage. In the dark days, the gales in the streets and alleyways whisper words of fury, like the battle drums, like the low rumbling before the storm.",
+        "Name": "「詩文」の導き",
+        "Desc": "天賦育成素材。<br>風の国の魂は詩と文章である。<br>詩と文章は激励の心意気。暗い日々の中で、巷を通る風は怒りの詩を囁き、それは戦鼓、嵐の前の呟きである。",
         "Src": [
-            "Crafted"
+            "合成で獲得"
         ],
         "Icon": "UI_ItemIcon_104308",
         "Link": 1
@@ -4359,10 +4359,10 @@ var _material = {
     "104311": {
         "_id": 104311,
         "R": 3,
-        "Name": "Guide to Prosperity",
-        "Desc": "Talent Level-Up material.<br>Prosperity is the people's pursuit in the land of Geo.<br>Prosperity is the promise made by Liyue to its children: To repay the hard-working laborers with enough gold to brighten up this land.",
+        "Name": "「繁栄」の導き",
+        "Desc": "天賦育成素材。<br>岩の国が追い求めるものは繁栄である。<br>繁栄は璃月がその民に対する約束である。働き者には繁栄を、この土地には黄金を。",
         "Src": [
-            "Crafted"
+            "合成で獲得"
         ],
         "Icon": "UI_ItemIcon_104311",
         "Link": 1
@@ -4370,8 +4370,8 @@ var _material = {
     "104313": {
         "_id": 104313,
         "R": 2,
-        "Name": "Teachings of Diligence",
-        "Desc": "Talent Level-Up material.<br>Industriousness is the foundation of the land of Geo.<br>Diligence is having the bravery and the strength to conquer mountains and seas and to pursue gold and prosperity through honest, hard work.",
+        "Name": "「勤労」の教え",
+        "Desc": "天賦育成素材。<br>岩の国の根本は勤労である。<br>勤労とは人の努力で山と海を越え、繁栄と黄金を追い求める勇気と力である。",
         "Src": [],
         "Icon": "UI_ItemIcon_104313",
         "Link": 1
@@ -4379,10 +4379,10 @@ var _material = {
     "104314": {
         "_id": 104314,
         "R": 3,
-        "Name": "Guide to Diligence",
-        "Desc": "Talent Level-Up material.<br>Industriousness is the foundation of the land of Geo.<br>Industriousness is the catalyst that flows in the blood of the people of Liyue, able to turn rocks into gold. It is what lies behind the greatness of its great commercial port.",
+        "Name": "「勤労」の導き",
+        "Desc": "天賦育成素材。<br>岩の国の根本は勤労である。<br>勤労は璃月の人々の血に流れる触媒、岩を黄金に変え、偉大なる商港が偉大なる商港になれる原因である。",
         "Src": [
-            "Crafted"
+            "合成で獲得"
         ],
         "Icon": "UI_ItemIcon_104314",
         "Link": 1
@@ -4390,8 +4390,8 @@ var _material = {
     "104316": {
         "_id": 104316,
         "R": 2,
-        "Name": "Teachings of Gold",
-        "Desc": "Talent Level-Up material.<br>Gold is the symbol of the land of Geo.<br>Gold is the blood that flows deep within Liyue's veins, the muscle that makes up Liyue's beating heart, and the bones that make Liyue stand proud.",
+        "Name": "「黄金」の教え",
+        "Desc": "天賦育成素材。<br>岩の国の象徴は黄金である。<br>黄金は璃月の深部に流れる血、璃月の心臓を動かす筋肉、璃月がまっすぐでいられるための骨である。",
         "Src": [],
         "Icon": "UI_ItemIcon_104316",
         "Link": 1
@@ -4399,10 +4399,10 @@ var _material = {
     "104317": {
         "_id": 104317,
         "R": 3,
-        "Name": "Guide to Gold",
-        "Desc": "Talent Level-Up material.<br>Gold is the symbol of the land of Geo.<br>Gold symbolizes conversion. This is the unspoken understanding between Liyue's mountains, land, city, and people. In Liyue, industriousness is converted into gold, and gold into prosperity.",
+        "Name": "「黄金」の導き",
+        "Desc": "天賦育成素材。<br>岩の国の象徴は黄金である。<br>黄金は転換を意味する。それは璃月の岩山、大地、港と人々の間では暗黙の了解である。璃月では、勤労は黄金に、そして黄金は繁栄に転換される。",
         "Src": [
-            "Crafted"
+            "合成で獲得"
         ],
         "Icon": "UI_ItemIcon_104317",
         "Link": 1
@@ -4410,10 +4410,10 @@ var _material = {
     "104319": {
         "_id": 104319,
         "R": 5,
-        "Name": "Crown of Insight",
-        "Desc": "A precious Talent Level-Up material.<br>Once a medium for the storage and transfer of wisdom in ancient times. Now, wisdom is found in ancient texts and in profound speech. Nevertheless, this Crown of Insight must still be able to impart some transcendent power and wisdom to its bearer.",
+        "Name": "知恵の冠",
+        "Desc": "天賦のLvUpに必要なレア素材。<br>遥か昔に、知恵の伝承に使用していた儀式の器具。現在、知恵はすでに言語や典籍と一体化している。しかし「知恵の冠」に残された力と知識は今の人に偉大なる突破をもたらしてくれる。",
         "Src": [
-            "Limited-Duration Event Reward"
+            "期間限定イベント報酬"
         ],
         "Icon": "UI_ItemIcon_104319",
         "Link": 1
@@ -4421,10 +4421,10 @@ var _material = {
     "104321": {
         "_id": 104321,
         "R": 3,
-        "Name": "Guide to Transience",
-        "Desc": "Talent Level-Up material.<br>Transience is the dream of the nation of thunder.<br>We find the greatest joys in mortal life in transient dreams, for is life itself not like the shadow of the thunder? Pursue your dreams into the clouds if you wish, and enjoy the unexpected silence of the dim lamp-lit nights.",
+        "Name": "「浮世」の導き",
+        "Desc": "天賦育成素材。<br>雷の国が抱く夢は浮世である。<br>浮世の追求は人生の美しさの価値。人の一生、この世にとっては驚雷の如く。手を伸ばして追求すれば、雲の上に飛んで行ってしまうが、心を落ち着かせれば、知らないうちにやってくる。",
         "Src": [
-            "Crafted"
+            "合成で獲得"
         ],
         "Icon": "UI_ItemIcon_104321",
         "Link": 1
@@ -4432,10 +4432,10 @@ var _material = {
     "104324": {
         "_id": 104324,
         "R": 3,
-        "Name": "Guide to Elegance",
-        "Desc": "Talent Level-Up material.<br>Elegance is the form of the nation of thunder.<br>Elegance shuns arrogance. The elegant are ever humble, and only by discarding vanity and sloth may one see clearly — and is there not beauty and loveliness even in the basest of appearances?",
+        "Name": "「風雅」の導き",
+        "Desc": "天賦育成素材。<br>雷の国が表す姿は風雅である。<br>風雅とは、傲慢にならぬこと。風雅たる者は常に謙虚である。虚飾と怠惰を排除すれば、人は目を輝かせ、どんなに見苦しい外観からでも真の美しさと優雅を求めることができる。",
         "Src": [
-            "Crafted"
+            "合成で獲得"
         ],
         "Icon": "UI_ItemIcon_104324",
         "Link": 1
@@ -4443,10 +4443,10 @@ var _material = {
     "104327": {
         "_id": 104327,
         "R": 3,
-        "Name": "Guide to Light",
-        "Desc": "Talent Level-Up material.<br>Light is the yearning of the land of thunder.<br>Though the sun rays themselves should be blocked by layers upon layers of clouds, there are still those in the thunder god's land who dream of piercing that wrathful sea of lightning to pursue the glory of the divine, fearing not that they shall be cruelly struck down.",
+        "Name": "「天光」の導き",
+        "Desc": "天賦育成素材。<br>雷の国が求めるのは天光である。<br>太陽の光が雷雲に覆われていても、鳴神の志士は冷酷たる死を恐れず。雲雀のように雷光と険しき空を突き破り、天光の痕跡を追い求める。",
         "Src": [
-            "Crafted"
+            "合成で獲得"
         ],
         "Icon": "UI_ItemIcon_104327",
         "Link": 1
@@ -4454,10 +4454,10 @@ var _material = {
     "104330": {
         "_id": 104330,
         "R": 3,
-        "Name": "Guide to Admonition",
-        "Desc": "Talent Level-Up material.<br>Admonition is the branches of the nation of wisdom.<br>Admonition is paired with wise thinking. Careful deliberation affords humble words a clarity that convinces the wise and enlightens the foolish. Such words allow wisdom to flow like an unobstructed river.",
+        "Name": "「忠言」の導き",
+        "Desc": "天賦育成素材。<br>「忠言」は知恵の国の枝と幹である。<br>巧妙な思慮には、忠言が伴う。考えを巡らせてこそ、謙虚に、また明晰に語ることができ、知者を納得させ、愚者を目覚めさせ、知恵を川の如く流させるのである。",
         "Src": [
-            "Crafted"
+            "合成で獲得"
         ],
         "Icon": "UI_ItemIcon_104330",
         "Link": 1
@@ -4465,10 +4465,10 @@ var _material = {
     "104333": {
         "_id": 104333,
         "R": 3,
-        "Name": "Guide to Ingenuity",
-        "Desc": "Talent Level-Up material.<br>Ingenuity is the leaf-veins of the nation of wisdom. Ingenuity sets words of integrity on the right path. One who thinks out of goodwill and in a clever and careful fashion never deviates from the path of boons. Yet one who thinks with contempt and malice shall taint their words with despicable colors.",
+        "Name": "「創意」の導き",
+        "Desc": "天賦育成素材。<br>「創意」は知恵の国の葉脈である。<br>創意は正直な言葉を導く。善に向かう巧みで思慮深い考えは、紡ぐ言葉を幸福への正しい道から遠ざけさせぬ。反対に、怠惰と悪意に向かう考えは、言葉を卑劣で聞くに堪えぬものにする。",
         "Src": [
-            "Crafted"
+            "合成で獲得"
         ],
         "Icon": "UI_ItemIcon_104333",
         "Link": 1
@@ -4476,10 +4476,10 @@ var _material = {
     "104336": {
         "_id": 104336,
         "R": 3,
-        "Name": "Guide to Praxis",
-        "Desc": "Talent Level-Up material.<br>Praxes are the roots of the nation of wisdom.<br>Praxes validate words of honesty. Though one speaks and acts out of goodwill, one has not yet obtained wisdom. Wisdom, born from action, is a signet pressed upon honest words.",
+        "Name": "「篤行」の導き",
+        "Desc": "天賦育成素材。<br>「篤行」は知恵の国の根である。<br>篤行は率直な言葉を実証する。思考、そして行動…すべてが善に向かっても、まだ知恵とは呼べない。知恵は行動から生まれるものであり、正直な言葉に封印を施す。",
         "Src": [
-            "Crafted"
+            "合成で獲得"
         ],
         "Icon": "UI_ItemIcon_104336",
         "Link": 1
@@ -4487,10 +4487,10 @@ var _material = {
     "104339": {
         "_id": 104339,
         "R": 3,
-        "Name": "Guide to Equity",
-        "Desc": "Talent Level-Up Material.<br>The shore of the Nation of Water is equity.<br>Equity is the foundation upon which Fontaine was founded. Equity forms the standard of the law. If law loses the essence of equity, it will become a chessboard played for profit.",
+        "Name": "「公平」の導き",
+        "Desc": "天賦育成素材。<br>水の国の堤は公平である。<br>公平はフォンテーヌが成り立つ礎となる。公平は法律の基準を形作っている。もし法律が公平という本質を失えば、必ず貪欲をむさぼる駒になってしまうだろう。",
         "Src": [
-            "Crafted"
+            "合成で獲得"
         ],
         "Icon": "UI_ItemIcon_104339",
         "Link": 1
@@ -4498,10 +4498,10 @@ var _material = {
     "104342": {
         "_id": 104342,
         "R": 3,
-        "Name": "Guide to Justice",
-        "Desc": "Talent Level-Up Material.<br>The sword of the Nation of Water is justice.<br>The law of Fontaine walks with the sword of justice in hand. Justice must be blind, and those who wield the sword of justice must not be led astray by their own interests or affairs.",
+        "Name": "「正義」の導き",
+        "Desc": "天賦育成素材。<br>水の国の剣は正義である。<br>フォンテーヌの法律は正義の剣をもって実行される。正義は盲目であり、正義を剣とする者は、利益や私情に惑わされたりしない。",
         "Src": [
-            "Crafted"
+            "合成で獲得"
         ],
         "Icon": "UI_ItemIcon_104342",
         "Link": 1
@@ -4509,10 +4509,10 @@ var _material = {
     "104345": {
         "_id": 104345,
         "R": 3,
-        "Name": "Guide to Order",
-        "Desc": "Talent Level-Up Material.<br>The shield of the Nation of Water is order.<br>All law in Fontaine ultimately serves to maintain a stable order. Without the guarantee provided by order, justice will be reduced to unlimited violence, a weapon used by all against all.",
+        "Name": "「秩序」の導き",
+        "Desc": "天賦育成素材。<br>水の国の盾は秩序である。<br>フォンテーヌのすべての法律は、最終的には安定した秩序を守るためにある。秩序の保障がなければ、正義は終わりなき暴力となり、すべての人がすべての人に反対するための武器になってしまう。",
         "Src": [
-            "Crafted"
+            "合成で獲得"
         ],
         "Icon": "UI_ItemIcon_104345",
         "Link": 1
@@ -4520,120 +4520,120 @@ var _material = {
     "107008": {
         "_id": 107008,
         "R": 1,
-        "Name": "Inazuma Shrine of Depths Key",
-        "Desc": "A key that can break the seal on the ancient Shrines of Depths scattered around Inazuma.<br>These Shrines of Depths sealed themselves off when the civilization that built them was lost. Keys lost deep within domains are able to break the seals. Or perhaps that, for a moment, these keys help the seals to forget all that they have lost.",
+        "Name": "稲妻の地霊壇の鍵",
+        "Desc": "稲妻各地に散らばった上古の地霊壇の封印を解除する鍵。<br>大地に聳え立つ古代の祭壇は、文明の破滅と共に封印された。幽深なる秘境で見つけた鍵だけがその封印を破ることができる。過去の時代の息吹で、祭壇に破滅の事実を忘れさせるだろう。",
         "Src": [],
         "Icon": "UI_ItemIcon_107008"
     },
     "107009": {
         "_id": 107009,
         "R": 4,
-        "Name": "Fragile Resin",
-        "Desc": "An item used to restore Original Resin by 60 points.<br>This crystalline substance pulsates with a little energy that can be absorbed by Original Resin.<br>The flow of energies of all sorts is the source of many wonders and challenges in this world. Those same energies are also contained within this crystal.",
+        "Name": "脆弱樹脂",
+        "Desc": "天然樹脂の補充に使えるアイテム、1個につき60を補充できる。<br>少量のエネルギーが含まれている結晶、天然樹脂に吸収されることができる。<br>様々なエネルギーの流れはこの世界の美しさと挑戦を構築した。この結晶の中にもそういうエネルギーが含まれている。",
         "Src": [],
         "Icon": "UI_ItemIcon_210"
     },
     "107022": {
         "_id": 107022,
         "R": 1,
-        "Name": "Plume of Purifying Light",
-        "Desc": "Fragment left by Khvarena. Carrier of past memories.",
+        "Name": "浄光の羽根",
+        "Desc": "霊光百種が残したもの。過去の記憶の断片が凝集している。",
         "Src": [],
         "Icon": "UI_ItemIcon_107022"
     },
     "108005": {
         "_id": 108005,
         "R": 1,
-        "Name": "Teyvat Fried Egg",
-        "Desc": "An egg fried on one side. The yolk flows out nicely when broken. So satisfying.",
-        "Eff": "Revives a character and restores 100 HP.",
+        "Name": "テイワット風目玉焼き",
+        "Desc": "鳥の卵の片面焼き。箸先で黄身をプチッと突つくと中身がとろりと流れ出て、食欲をそそられる。",
+        "Eff": "選択したキャラを復活させ、HPを100回復する。",
         "Icon": "UI_ItemIcon_Recipe_2001",
         "Link": 1
     },
     "108032": {
         "_id": 108032,
         "R": 2,
-        "Name": "Sweet Madame",
-        "Desc": "Honey-roasted fowl. The honey and sweet flowers come together to complement the tender fowl meat.",
-        "Eff": "Restores 22% of Max HP and an additional 1,200 HP to the selected character.",
+        "Name": "鳥肉のスイートフラワー漬け焼き",
+        "Desc": "蜜漬けにしてから焼いた鳥肉。ジューシーな鳥肉からスイートフラワーの蜜が滴り落ちる。甘くて美味しい。",
+        "Eff": "選択したキャラのHP上限の22%を回復し、さらにHPを1200回復する。",
         "Icon": "UI_ItemIcon_Recipe_1004",
         "Link": 1
     },
     "108056": {
         "_id": 108056,
         "R": 3,
-        "Name": "\"Pile 'Em Up\"",
-        "Desc": "A rich, meaty dish. Originally a Mondstadt dish made of steaks, potatoes and cheese, it has since become synonymous with Ludi Harpastum.",
-        "Eff": "Increases all party members' CRIT Rate by 15% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "Name": "「お肉ツミツミ」",
+        "Desc": "たくさんの材料を使った肉料理。ステーキ、ジャガイモ、チーズを積み重ねたモンドの家庭料理だったが、後にバドルドー祭のフィナーレ料理として有名になった。",
+        "Eff": "チーム全員の会心率+15%、継続時間300秒。マルチプレイ中、自分のキャラクターにのみ有効。",
         "Icon": "UI_ItemIcon_Recipe_3004",
         "Link": 1
     },
     "108419": {
         "_id": 108419,
         "R": 3,
-        "Name": "Tahchin",
-        "Desc": "A classic staple served in large quantities. Cooked rice is mixed with meat that was marinated in yogurt, then baked until its surface turns crispy. Don't forget to add a handful of Padisarah petals before serving! Both the rice and meat are enough to keep one's stomach full for a long time, making it a very popular dish at the Grand Bazaar.",
-        "Eff": "Restores 28% of Max HP to the selected character and regenerates 620 HP every 5s for 30s.",
+        "Name": "タフチーン",
+        "Desc": "量が多く、食べ応えのある定番の一品。まずは米を炊いて、ヨーグルトに漬け込んだ肉の塊を米の中央に据えて、表面がカリッとするまで焼き上げる。最後にパティサラを振りかけるのも忘れずに。ご飯も肉も満腹感抜群のため、グランドバザールではとても人気がある。",
+        "Eff": "選択したキャラのHP上限の28%を回復し、その後30秒間、5秒毎にHPを620回復する。",
         "Icon": "UI_ItemIcon_108419",
         "Link": 1
     },
     "109495": {
         "_id": 109495,
         "R": 2,
-        "Name": "Recipe: Selva Salad",
-        "Desc": "A recipe for making Selva Salad that you found during your adventure. It has been further refined by Paimon.",
+        "Name": "レシピ：雨林サラダ",
+        "Desc": "冒険で獲得し、パイモンが改良したレシピ。「雨林サラダ」の詳しい作り方が載っている。",
         "Src": [],
         "Icon": "UI_ItemIcon_109000"
     },
     "109496": {
         "_id": 109496,
         "R": 2,
-        "Name": "Recipe: Masala Cheese Balls",
-        "Desc": "A recipe for making Masala Cheese Balls that you found during your adventure. It has been further refined by Paimon.",
+        "Name": "レシピ：マサラチーズボール",
+        "Desc": "冒険で獲得し、パイモンが改良したレシピ。「マサラチーズボール」の詳しい作り方が載っている。",
         "Src": [],
         "Icon": "UI_ItemIcon_109000"
     },
     "109497": {
         "_id": 109497,
         "R": 2,
-        "Name": "Recipe: Mushroom Hodgepodge",
-        "Desc": "A recipe for making Mushroom Hodgepodge that you found during your adventure. It has been further refined by Paimon.",
+        "Name": "レシピ：山盛りキノコ",
+        "Desc": "冒険で獲得し、パイモンが改良したレシピ。「山盛りキノコ」の詳しい作り方が載っている。",
         "Src": [],
         "Icon": "UI_ItemIcon_109000"
     },
     "109498": {
         "_id": 109498,
         "R": 3,
-        "Name": "Recipe: Pita Pocket",
-        "Desc": "A handwritten Pita Pocket recipe, with detailed cooking tips in small letters. The writer's penmanship seems questionable. Some letters are shaky, perhaps due to the bad condition she was in. However, every word was written carefully.<br>If you have learned how to cook it, don't forget to enjoy this delicious food together with her the next time you visit Gandharva Ville.",
+        "Name": "レシピ：ピタ",
+        "Desc": "「ピタ」の手書きレシピ。調理ポイントが小文字で細かく書かれている。筆跡を見ると、これを書いた人はあまり書き慣れていないのか、あるいは病気の影響なのか、字がぐちゃぐちゃだ。しかしそれでも、丁寧に書かれていることは分かる。<br>この料理が作れるようになったら、またガンダルヴァー村で彼女とこの美味しいごはんを楽しもう。",
         "Src": [],
         "Icon": "UI_ItemIcon_109000"
     },
     "109560": {
         "_id": 109560,
         "R": 4,
-        "Name": "Recipe: Fontinalia Mousse",
-        "Desc": "A detailed step-by-step recipe for making Fontinalia Mousse.",
+        "Name": "レシピ：千霊ムース",
+        "Desc": "「千霊ムース」の詳しい作り方が載っているレシピ。",
         "Src": [],
         "Icon": "UI_ItemIcon_109000"
     },
     "113021": {
         "_id": 113021,
         "R": 4,
-        "Name": "Dream Solvent",
-        "Desc": "An item capable of changing Character Level-Up Materials obtained from memories and trials into whatever form is needed.<br>People once believed that spirits and memories had some material form. If someone dreamed of heaven before waking up clutching a flower, then that blossom must have been made from such a fantasy. Dream Solvent dissolves that which is obtained from memory and transforms it into some other dream.<br>Indeed, blows traded with the strong are stepping stones towards becoming stronger yourself.",
+        "Name": "異夢の溶媒",
+        "Desc": "追憶や試練で獲得したキャラクター育成素材を、思い通りの形態に変換することができる。<br>かつて、魂や記憶にも「材料」があると信じられていた。天国の夢を見た後、花を握りしめて目を覚ました人がいたとしたら、その花はきっとこれによって作られたものだろう。異夢の溶媒は、記憶の中で得たものを溶かし、別の夢に変えることができる。<br>強者との戦いの記憶は、さらなる強さへの道しるべとなる。",
         "Src": [
-            "Trounce Domain and Great Wolf King of the North Challenge Reward"
+            "征討領域と北風の王狼の挑戦報酬"
         ],
         "Icon": "UI_ItemIcon_113021"
     },
     "113031": {
         "_id": 113031,
         "R": 4,
-        "Name": "Dragonheir's False Fin",
-        "Desc": "A piece of biological tissue that you found after defeating the Bathysmal Vishaps.<br>Although it looks like a fin of some kind, it does not actually have any function at all.<br>The people of Byakuyakoku once investigated the Bathysmal Vishaps quite deeply. Their most distinctive feature was the ability to choose what traits it wished to pass on to its offspring. Because of their great hatred for man-made light sources, these vishaps will lose any visual acuity by the time they reach maturity. At the same time, they have also evolved a certain degree of elemental polymorphism for combat purposes.",
+        "Name": "ドラゴエアのニセヒレ",
+        "Desc": "アビサルヴィシャップを倒すと手に入る生体組織の一部。<br>サメのヒレのように見えるが、実用性はない。<br>かつて、白夜国の民はアビサルヴィシャップについて研究していた。それらが持つ特徴の中でも最も異質なのが、己の意志で自身の特徴を取り除くか継承するかを決められる点。人工的な光を嫌うため、ヴィシャップは成体になると視覚組織の多くが失われる。また戦うために元素の多様性を持ち、適したものへと進化してきた。",
         "Src": [
-            "Dropped by Lv. 30+ Bathysmal Vishap Herds"
+            "アビサルヴィシャップの群れ（Lv.30以上）がドロップ"
         ],
         "Icon": "UI_ItemIcon_113031",
         "Link": 1
@@ -4641,154 +4641,154 @@ var _material = {
     "115037": {
         "_id": 115037,
         "R": 4,
-        "Name": "Yashiro Commission Gift",
-        "Desc": "A gift from the Yashiro Commission. It appears to be an exquisitely-made furnishing.",
+        "Name": "社奉行からの贈り物。",
+        "Desc": "社奉行からの贈り物。精巧に作られた調度品のようだ。",
         "Src": [],
         "Icon": "UI_ItemIcon_115037"
     },
     "120400": {
         "_id": 120400,
         "R": 1,
-        "Name": "Credit Coupons",
-        "Desc": "A type of currency only used in the Fortress of Meropide.",
+        "Name": "特別許可券",
+        "Desc": "メロピデ要塞でのみ使用される通貨。",
         "Src": [],
         "Icon": "UI_ItemIcon_120400"
     },
     "120700": {
         "_id": 120700,
         "R": 3,
-        "Name": "Thelxie's Fantastic Adventures",
-        "Desc": "A children's fantasy book containing only three pages, it tells the story of a prince who overcomes loneliness.<br>It reads \"For anyone in a tough spot\" in small print on the back cover.",
+        "Name": "『トルクシーの不思議な冒険』",
+        "Desc": "たった三ページの絵本。孤独に打ち勝った、ひとりの王子を描いたファンタジー物語である。<br>「困難な状況に置かれた人々へ」——裏表紙には小さくそう書かれている。",
         "Src": [],
         "Icon": "UI_ItemIcon_120700"
     },
     "100584": {
         "_id": 100584,
         "R": 5,
-        "Name": "Tainted Blood",
-        "Desc": "Substance acquired from defeating Dvalin.<br>A crystal imbued with the winds of antiquity as well as another occult power from within the great dragon's body.<br><br>The mighty dragon was once a captive of a cage of toxicity, woven of three poisons:<br>The foul blood he once ingested, the lies whispered from the Abyss, and the anguish of abandonment.<br>Through tears shed and songs sung, the unholy spikes that had grown on Dvalin's body were smashed to pieces, and the web that had ensnared him was torn away...<br>Perhaps these feats were achievable only by a free-spirited traveler from a far-away land.",
+        "Name": "深邃の血",
+        "Desc": "トワリンを倒した後に取得したある物質。<br>トワリン体内の悠久の風とある幽邃なエネルギーの結晶。<br><br>崇高な風の龍が3つの劇毒で紡がれた檻に囚われていた。<br>過去に飲み込んだ血、アビスの魔手、そして見捨てられた慟哭。<br>涙と詩人の囁きの名で、毒血の釘を砕き、巨龍を禁錮した封印を破れ…<br>たぶん、これは風と共に流れてきた自由の異邦人にしかできないことだろう。",
         "Src": [],
         "Icon": "UI_ItemIcon_100584"
     },
     "100585": {
         "_id": 100585,
         "R": 5,
-        "Name": "Monolith Fragment",
-        "Desc": "Some kind of fragment recovered after defeating the Overlord of the Vortex in battle.<br>In the ancient past, it was used to pin the great beast down.<br><br>There once was a time when the inhabitants of this land were terrorized by waves as tall as mountains, torn from their dreams in the dead of night by the deafening roar of tidal waves that would shake the world to its core. Fear of such horrors gradually subsided over the years as peace became the norm.<br>But no matter: though That Which Lies In The Deep awakens once more, it is powerless to prevent the dawning of a new era.<br>Perhaps this is just what the one who suppressed the Overlord of the Vortex has been hoping to witness in the millennia since.",
+        "Name": "鎮石の欠片",
+        "Desc": "渦の魔神を撃破した後に手に入れた破片。<br>遠い昔に、渦の魔神を鎮圧するために使われた。<br><br>この土地の住民はかつて、山より高い波に襲われ、大地を震わす海の咆哮に揺り起こされた。だが、このような恐怖も、時間と共に忘れ去られていった。<br>長年海の中で眠る古い魔神が再び目覚めても、新時代の到来を防ぐことはできないだろう。<br>もしかしたら、当時魔神を封印したものは、数千年後にこのような景色を見られることを期待していたのかもしれない。",
         "Src": [],
         "Icon": "UI_ItemIcon_100585"
     },
     "100957": {
         "_id": 100957,
         "R": 5,
-        "Name": "Funerary Mask",
-        "Desc": "A trophy obtained from defeating Signora, Eighth of the Fatui Harbingers.<br>The Fatui often face the world from behind their masks, and it is said that this is because all they once were mean nothing once they become Fatui, and thus must they forsake their true names and faces alike.<br><br>—Yet the act of giving up all that makes up an \"I\" — one's past and the bonds that come with it — is no mean feat.<br>Perhaps it is fair to say that only those who possess an obsession close to or even exceeding the level of delusion might be willing to join this group that so rebels against the Heavenly Principles, binding their remaining days to their Delusions and burning as brightly as stars.<br>...Of course, many within the Fatui are simply consumed by power and are simple sadists — nor are these states necessarily in conflict.<br><br>The woman whose real name was Rosalyne-Kruzchka Lohefalter may have once led a more innocent, naive existence.<br>But that was before her eyes were filled with a raging fire, and her innocent days were burned away. Before the icy Delusion extinguished the flaming tongues that ever gnawed her. Before the frozen might that protected her was shattered by the eternal outlander, unbound yet no less determined than she was, causing the flames to burst forth once more...",
+        "Name": "弔いの仮面",
+        "Desc": "「ファトゥス第八位 · 淑女」を倒した後に獲得した戦利品。<br>ファデュイは常に仮面を被っている。それは、ファデュイになれば、過去も、自らの全ても無意味となったことを意味する。故に、本名も顔も捨てるべきだ。<br><br>——だが、「我」を構成する全ての過去と絆を捨てることは、どれほど難しいことか。<br>というよりも、それは妄念の執着に近い——あるいは超えたからこそ、天理に背く狂人の組織に入り、自らの余命を「邪眼」と繋ぎ、天蝎のように燃えていたいのだろう。<br>…もちろん、ファデュイの中には、権利を求める者や、単純に嗜虐性のある者も少なくない。しかし、それは矛盾していない。<br><br>「ロザリン · クルーズチカ · ローエファルタ」という名の女も、より純粋な過去を持っていただろう。<br>彼女の視野は烈火に呑まれ、純真な過去は焼き尽くされた。そして極寒の氷の邪眼が、彼女を永遠に蝕む炎をかき消した。そして、彼女を守る氷の権能は、意志が同様に固く、縛りのない異郷人によって砕かれ、再び熾焔が燃え始めた…",
         "Src": [],
         "Icon": "UI_ItemIcon_100957"
     },
     "120127": {
         "_id": 120127,
         "R": 5,
-        "Name": "Silver Twig",
-        "Desc": "A new branch taken from the center of the world.<br>There was once a giant tree that ran across the world, and this twig was part of it. Though it has been removed from the tree, their connection remains strong as ever. Therefore, as long as the giant white tree that symbolizes the center of the world does not die, it will never wither.<br><br>\"Trees\" symbolize life. In one of the stories from a certain place, there was a person who had entrusted her consciousness to the white tree's branches before she passed away. In that way, neither her life nor hope would be lost, since the branches would grow and sprout where there was sunshine and rain, and would one day blossom and bear fruits.<br>\"Trees\" also symbolize wisdom. In one of the legends, a sage hanging upside down on a tree had acquired the knowledge of how to inscribe runes and control sacred words, and thus followed the kingdom established along the tree's roots, eventually gaining a glimpse of the secret of the cosmos.<br>All knowledge, memory, and experience flow through this giant tree, just like a stream flows into a river, the river joins a sea, the sea turns into clouds, and the clouds rain onto the ground — just like life itself.",
+        "Name": "新生の白き枝",
+        "Desc": "世界の中心からとった新梢。<br>昔、とある巨木が世界の各地を貫いたが、この枝はその一部であった。圧し折られても尚、樹木との繋がりが断ち切られることはない。そのため、あの世界の中心を象徴する白い巨木が死なない限り、永遠に枯れないのである。<br><br>「樹木」とは生の象徴だ。ある物語では、ある人がいまわの時に自らの意志を白い木の枝に託した。そうすることで、命と希望は永遠に失われず、枝は光と雨と露のある場所で育ち、芽吹き…最後には花を咲かせて実を結ぶ。<br>また同時に、「樹木」は知恵の象徴でもある。どこかの伝説には、木で逆さ吊りにされた賢人は、符文を記して言霊を操る知性を獲得し、樹木の根に沿って作られた王国は、最後に魔天の秘密を垣間見たというものがある。<br>すべての知識と記憶、体験は大樹の根茎に流れ走る。それはまるで命のように、渓流は川に、川は海に、そして最後にはまた雨水となって大地の上へ落ちるのだ。",
         "Src": [],
         "Icon": "UI_ItemIcon_120127"
     },
     "129001": {
         "_id": 129001,
         "R": 5,
-        "Name": "Tears Among the Stars",
-        "Desc": "A drop of water obtained from within the colossal beast who coveted the primordial sea of life.<br><br>A philosopher in the faraway ancient world once posited that where there is life, there is death; naturally where there is death, there is life.<br>If not, then the fleeting light cannot resist the eternal darkness, and all withers into nothingness at the end of time.<br>The rules among the stars dictate that nature must be conserved, but the laws of the universe have never been conserved.<br>In a sealed box, destruction always overpowers new life. Millennia upon millennia of prosperity are but an instant in a span of billions of years. The greatest of achievements, the proudest accomplishments, in time all will tarnish, decay, dissipate, and ultimately fade into oblivion.<br>Thus there are things floating in among the stars, once adorned with countless prestigious titles from innumerable civilizations, shedding tears for their ordained demise.<br>Their tears stream down, out of desperation, out of hope, because all desperation and hope alike will be utterly extinguished along with the innumerable stars.<br>Their tears stream down out of sorrow, out of joy, because both will eventually scatter into the cold, dark endless void.<br>Every tiny yet beautiful silhouette and every moment worth remembering will fade with time, even stars.<br>And then there are these so-called \"gods\" that are determined to save everything worth saving, and devour everything that should be devoured.<br>Until the end of time, until the sea of stars recess into nothing but dying embers, until a newborn \"world\" moves for the first time in the stomach of the whale.<br>\"There will be no more sins, no more sadness, and no more tears, because everything died with the ancient stars.\"",
+        "Name": "星間の涙",
+        "Desc": "原始の生命の海を渇望した巨獣から落ちた一滴。<br><br>命があるところには死があり、ならば死があるところには必ず命が生まれる——遥か遠い昔の世界で、ある哲人はそう考えた。<br>そうでなければ、刹那の光も永遠の闇に打ち勝つことはできない。時の終わりに、全てのものは消える。<br>群星の法則——宇宙の法則は常に不変でなくてはならない。しかし、宇宙の法則は決して不変ではない。<br>密閉された箱の中では、滅亡が常に新生を圧倒する。幾千万年の繁栄は、億兆年の前では一瞬の出来事に過ぎない。栄光はやがて腐食、崩壊、散逸し、最後には忘れ去られる。<br>ゆえに、星間を漂うものが存在する。無数の文明において、無数の名で知られるものが、避けられぬ消滅のために涙を流す。<br>絶望のために涙を流し、希望のために涙を流す。なぜなら、すべての絶望と希望は、無数の輝く星々と共に消えてしまうから。<br>悲しみに涙を流し、喜びに涙を流す。なぜなら、すべての悲しみと喜びは、まるで浮き草のように、広大で冷たい漆黒の虚空に散らばるから。<br>すべての小さく美しいものの影、心に刻むべき瞬間、すべては時の中で消えてしまう。群星でさえ例外ではない。<br>そして、かつて「神」と呼ばれたものは、残すべきものを残し、飲み込むべきものを飲み込もうと決意をする。<br>時が終わり、荒涼とした星海が冷たい蛍火となって燃え尽きるころ、新しい「世界」が鯨の腹で胎動する。<br>「もう罪はない。悲しみも嘆きも涙もない。すべては悠久の群星へと過ぎ去ったのだ。」",
         "Src": [],
         "Icon": "UI_ItemIcon_129001"
     },
     "220027": {
         "_id": 220027,
         "R": 4,
-        "Name": "Wind-Blessed Harpastum",
-        "Desc": "A harpastum made from pure bird feathers and strong fabric. It is the centerpiece of Ludi Harpastum, the traditional festival of Mondstadt.<br>Birds are creatures that ride the wind, and thus do their feathers also carry \"blessings borne on the wind.\" As such, the people of Mondstadt believe that harpasta can not only bring the blessings of Barbatos but that they also contain a strange power...",
+        "Name": "風護のバドルドー",
+        "Desc": "穢れのない鳥の羽としなやかな布で作られた「特別なバドルドー」、モンドの伝統祭りである「バドルドー祭」の核心である。<br>鳥は風を御する生き物で、鳥の羽には「風に乗る」と言う祝福が込められている。そのため、バドルドーはバルバトスの加護をもたらすだけでなく、不思議な力があるとモンドの民は深く信じている…",
         "Src": [],
         "Icon": "UI_ItemIcon_220027"
     },
     "221015": {
         "_id": 221015,
         "R": 4,
-        "Name": "Diagram: Kitain Cross Spear",
-        "Desc": "A detailed step-by-step diagram for making a Kitain Cross Spear (Polearm).",
+        "Name": "図譜：喜多院十文字槍",
+        "Desc": "長柄武器「喜多院十文字槍」の詳しい作り方が載っている図譜。",
         "Src": [],
         "Icon": "UI_ItemIcon_221003"
     },
     "333045": {
         "_id": 333045,
         "R": 3,
-        "Name": "Friendship Eternal",
-        "Desc": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance.",
+        "Name": "永遠なる友情",
+        "Desc": "「七聖召喚」というボードゲームのカード。丈夫に作られており、カードスキンの挿絵はどんな特殊な方法で印刷されているのかは知らないが、とても精巧なものだ。",
         "Src": [],
         "Icon": "UI_Gcg_CardFace_Event_Event_Yongyuandeyouyi"
     },
     "339021": {
         "_id": 339021,
         "R": 3,
-        "Name": "Lazurite Swirl",
-        "Desc": "A Genius Invokation TCG card back that can be obtained and switched around. They say that card backs with different designs also come with minute differences in make and texture. Some players also make collecting card backs of different styles their pursuit and hobby.",
+        "Name": "ラピスラズリワール",
+        "Desc": "「七聖召喚」で獲得でき、切り替えられるカードの裏面。それぞれ異なるカードの裏面は、素材や手触りも微妙に違っているらしい。様々なカードの裏面を集めることを目標や趣味にしているプレイヤーもいる。",
         "Src": [],
         "Icon": "UI_Gcg_CardBack_Dvalin"
     },
     "339901": {
         "_id": 339901,
         "R": 4,
-        "Name": "Beginner Player Badge",
-        "Desc": "They say that anyone who starts out with Genius Invokation TCG can obtain this particular Player Badge.<br>Even the mightiest player starts from this point, building their personal legends as they go along.<br>Stay tuned, player — your saga begins here!",
+        "Name": "初心者プレイヤーメダル",
+        "Desc": "七聖召喚を始めたばかりのプレイヤーなら、誰でも獲得できるプレイヤーメダル。<br>どんなに立派なプレイヤーも、誰もがこのプレイヤーメダルから始まり、伝説になってきた。<br>すべてはここから始まる——これからが楽しみだ。",
         "Src": [],
         "Icon": "UI_GcgIcon_CardLevel1"
     },
     "394204": {
         "_id": 394204,
         "R": 3,
-        "Name": "Square Yumemiru Stool",
-        "Desc": "A detailed step-by-step blueprint for making a Square Yumemiru Stool.<br>After using this item, you can view it in the Creation Screen.",
+        "Name": "夢見材の腰掛け",
+        "Desc": "「夢見材の腰掛け」の詳しい作り方が載っている設計図。<br>使用後、製作画面で確認することができる。",
         "Src": [],
         "Icon": "UI_ItemIcon_Home_Common"
     },
     "11302": {
         "R": 3,
-        "Name": "Harbinger of Dawn",
-        "Desc": "A sword that once shone like the sun. The wielder of this sword will be blessed with a \"feel-good\" buff. The reflective material on the blade has long worn off.",
+        "Name": "黎明の神剣",
+        "Desc": "かつて朝日のように輝いていた宝剣。手にした人は「自己悦楽」の力を身に宿す。剣身にあった発光素材は既に失われている。",
         "Icon": "UI_EquipIcon_Sword_Dawn",
         "Type": 1
     },
     "11303": {
         "R": 3,
-        "Name": "Traveler's Handy Sword",
-        "Desc": "A handy steel sword which contains scissors, a magnifying glass, tinder, and other useful items in its sheath.",
+        "Name": "旅道の剣",
+        "Desc": "使いやすい鋼剣。柄にはハサミ、虫眼鏡、点火具など旅の必須品が隠されている。",
         "Icon": "UI_EquipIcon_Sword_Traveler",
         "Type": 1
     },
     "11416": {
         "R": 4,
-        "Name": "Kagotsurube Isshin",
-        "Desc": "This famed blade was born in a nation to the far north. But in the name of \"Isshin,\" it was stained with many a dark deed on its home-bound journey.",
+        "Name": "籠釣瓶一心",
+        "Desc": "遠い北国で造られた名刀。かつて「一心」という言葉のために、帰郷の途上、無数の罪に染まった。",
         "Icon": "UI_EquipIcon_Sword_Youtou",
         "Type": 1
     },
     "14303": {
         "R": 3,
-        "Name": "Otherworldly Story",
-        "Desc": "A cheap fantasy novel with no value whatsoever. Any claim that it possesses the power of catalysis is also pure fantasy.",
+        "Name": "異世界旅行記",
+        "Desc": "ファンタジー小説。参考の価値はない。法器としての力ももちろん幻想から来ている。",
         "Icon": "UI_EquipIcon_Catalyst_Lightnov",
         "Type": 1
     },
     "15303": {
         "R": 3,
-        "Name": "Recurve Bow",
-        "Desc": "It is said that this bow can shoot down eagles in flight, but ultimately how true that is depends on the skill of the archer.",
+        "Name": "リカーブボウ",
+        "Desc": "蒼鷹を射る狩弓だが、本当に射られるかどうかは弓使いの腕次第である。",
         "Icon": "UI_EquipIcon_Bow_Curve",
         "Type": 1
     },
     "15401": {
         "R": 4,
-        "Name": "Favonius Warbow",
-        "Desc": "A standard-issue recurve bow of the Knights of Favonius. Only the best archers can unleash its full potential.",
+        "Name": "西風猟弓",
+        "Desc": "西風騎士団でよく使われる弓。優れた弓使いだけがその優れた性能を発揮できる。",
         "Icon": "UI_EquipIcon_Bow_Zephyrus",
         "Type": 1
     },

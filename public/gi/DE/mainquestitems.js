@@ -3973,85 +3973,85 @@ var _material = {
     "101": {
         "_id": 101,
         "R": 3,
-        "Name": "Character EXP",
-        "Desc": "Character EXP, used to level up characters.",
+        "Name": "Figuren-EP",
+        "Desc": "Figuren-EP, wird zum Hochstufen von Figuren verwendet.",
         "Src": [],
         "Icon": "UI_ItemIcon_101"
     },
     "102": {
         "_id": 102,
         "R": 3,
-        "Name": "Adventure EXP",
-        "Desc": "Adventure EXP. Used to improve Adventure Rank.",
+        "Name": "Abenteuer-EP",
+        "Desc": "Abenteuer-EP, wird zum Erhöhen der Abenteuerstufe verwendet.",
         "Src": [],
         "Icon": "UI_ItemIcon_102"
     },
     "109": {
         "_id": 109,
         "R": 3,
-        "Name": "Fading Star's Might",
-        "Desc": "A collection of celestial energy.<br>Can be exchanged for treasure during the \"Unreconciled Stars\" event.",
+        "Name": "Kraft der schwindenden Sterne",
+        "Desc": "Gesammelte himmlische Energie.<br>Kann während des Aktionszeitraums von „Ferne Sterne“ gegen Schätze eingetauscht werden.",
         "Src": [
-            "Meteorite Shard Reward",
-            "Meteorite Remains Salvage Challenge Reward"
+            "Durch Meteoritensplitter zu erhalten",
+            "Bei der Herausforderung des Bergens von Meteoritentrümmer zu erhalten"
         ],
         "Icon": "UI_ItemIcon_109"
     },
     "116": {
         "_id": 116,
         "R": 3,
-        "Name": "Festive Fever",
-        "Desc": "The festive mood during Lantern Rite. Perhaps the atmosphere on the day of the Rite will be better the higher the Festive Fever is...",
+        "Name": "Festlichkeit",
+        "Desc": "Die Festlichkeit während des Laternenrituals. Vielleicht steigt mit dem Festfieber auch die Stimmung am Ritualtag ...",
         "Src": [
-            "Obtained by completing Lantern Rite Tales"
+            "Durch Abschließen von „Anekdoten des Laternenrituals“ zu erhalten"
         ],
         "Icon": "UI_ItemIcon_116"
     },
     "138": {
         "_id": 138,
         "R": 4,
-        "Name": "Immaculate Talisman",
-        "Desc": "An exquisite talisman that seems quite valuable. You should be able to exchange this for certain items...",
+        "Name": "Makelloser Talisman",
+        "Desc": "Ein kunstvoller Talisman, der ziemlich teuer aussieht und gegen bestimmte Gegenstände eingetauscht werden kann ...",
         "Src": [
-            "Obtained by completing \"Fleeting Colors in Flight\""
+            "Nach Abschließen von „Flüchtige Farben im Flug“ zu erhalten"
         ],
         "Icon": "UI_ItemIcon_138"
     },
     "147": {
         "_id": 147,
         "R": 3,
-        "Name": "Festive Fever",
-        "Desc": "Weinlesefest Festive Fever",
+        "Name": "Festlichkeit",
+        "Desc": "Festlichkeit des Weinlesefests",
         "Src": [
-            "Obtained from the Of Ballads and Brews event"
+            "Bei der Aktion „In Bechern schwingende Lieder“ zu erhalten"
         ],
         "Icon": "UI_ItemIcon_147"
     },
     "160": {
         "_id": 160,
         "R": 3,
-        "Name": "Invokation Coupons",
-        "Desc": "You can obtain these coupons after participating in various events at the King of Invokations Grand Prix. During the event, you can exchange them for rewards.",
+        "Name": "Beschwörerwürfel-Schein",
+        "Desc": "Schein, den man bei den verschiedenen Aktionen der „Ass-Beschwörer-Meisterschaft“ gewinnen kann. Tausche die Scheine während des Aktionszeitraums beim Aktionshändler gegen verschiedene Belohnungen ein.",
         "Src": [
-            "Claim from the \"Duel! The Summoners' Summit!\" event"
+            "Bei „Duell! Der Gipfel der Beschwörung!“ zu erhalten"
         ],
         "Icon": "UI_ItemIcon_160"
     },
     "166": {
         "_id": 166,
         "R": 3,
-        "Name": "Thelxie's Badge",
-        "Desc": "A golden penguin badge that shines with a metallic glow. It seems to give the bearer a staunch resolve to move forward...<br>A precious reward that can be unlocked in the \"Thelxie's Fantastic Adventures\" event.",
+        "Name": "„Thelxies Wappen“",
+        "Desc": "Ein Pinguin-Wappen, das in einem metallischen Glanz erstrahlt. Es scheint dem Träger eine feste Entschlossenheit zu geben, vorwärts zu streben ...<br>Du kannst hiermit während der Aktion „Thelxies fantastische Abenteuer“ wertvolle Belohnungen freischalten.",
         "Src": [
-            "Obtained from the \"Thelxie's Fantastic Adventures\" Event"
+            "Bei der Aktion „Thelxies fantastische Abenteuer“ zu erhalten."
         ],
         "Icon": "UI_ItemIcon_166"
     },
     "201": {
         "_id": 201,
         "R": 5,
-        "Name": "Primogem",
-        "Desc": "A primordial crystalline gem that's beyond the mundane world. Shines with the condensed hopes and dreams of universes that once were.",
+        "Name": "Urgestein",
+        "Desc": "Ein urzeitliches Mineral, das dem finsteren Universum einen Glanz, gemacht aus Träumen und Hoffnung, gibt.",
         "Src": [],
         "Icon": "UI_ItemIcon_201"
     },
@@ -4059,65 +4059,65 @@ var _material = {
         "_id": 202,
         "R": 3,
         "Name": "Mora",
-        "Desc": "Common currency. The one language everybody speaks.",
+        "Desc": "Überall in der Welt verwendetes Geld und damit die Sprache, die jeder unabhängig von seiner Herkunft spricht.",
         "Src": [
-            "Blossom of Wealth Revitalization Reward"
+            "Belohnung für das Aktivieren der Blüte des Reichtums"
         ],
         "Icon": "UI_ItemIcon_202"
     },
     "912": {
         "_id": 912,
         "R": 5,
-        "Name": "Memory of Running Stream",
-        "Desc": "The missing star from the Talents of a Hydro-aligned Traveler.",
+        "Name": "Erinnerung des reißenden Stroms",
+        "Desc": "Ein fehlender Stern im Hydro-Sternbild von Reisenden.",
         "Src": [
-            "Fontaine Archon Quest Reward",
-            "Obtained by making offerings to Statues of The Seven in Fontaine"
+            "Archontenauftragsbelohnung für Fontaine",
+            "Durch Opfer an die Statuen der Sieben in Fontaine zu erhalten"
         ],
         "Icon": "UI_ItemIcon_912"
     },
     "913": {
         "_id": 913,
         "R": 5,
-        "Name": "Memory of Flourishing Green",
-        "Desc": "The missing star from the Talents of a Dendro-aligned Traveler.",
+        "Name": "Erinnerung der prachtvollen Wälder",
+        "Desc": "Ein fehlender Stern im Dendro-Sternbild von Reisenden.",
         "Src": [
-            "Sumeru Archon Quest Reward",
-            "Obtained by making offerings to Statues of The Seven in Sumeru"
+            "Archontenauftragsbelohnung für Sumeru",
+            "Durch Opfer an die Statuen der Sieben in Sumeru zu erhalten"
         ],
         "Icon": "UI_ItemIcon_913"
     },
     "914": {
         "_id": 914,
         "R": 5,
-        "Name": "Memory of Violet Flash",
-        "Desc": "The missing star from the Talents of an Electro-aligned Traveler.",
+        "Name": "Erinnerung des krachenden Gewitters",
+        "Desc": "Ein fehlender Stern im Elektro-Sternbild von Reisenden.",
         "Src": [
-            "Inazuma Archon Quest Reward",
-            "Obtained by making offerings to Statues of The Seven in Inazuma"
+            "Archontenauftragsbelohnung für Inazuma",
+            "Durch Opfer an die Statuen der Sieben in Inazuma zu erhalten"
         ],
         "Icon": "UI_ItemIcon_914"
     },
     "915": {
         "_id": 915,
         "R": 5,
-        "Name": "Memory of Roving Gales",
-        "Desc": "The missing star from the Talents of an Anemo-aligned Traveler.",
+        "Name": "Erinnerung des sausenden Sturms",
+        "Desc": "Ein fehlender Stern im Anemo-Sternbild von Reisenden.",
         "Src": [
-            "Mondstadt Archon Quest Reward",
-            "Adventure Rank Reward",
-            "Purchase from the Souvenir Shop"
+            "Archontenauftragsbelohnung für Mondstadt",
+            "Belohnung für Abenteuerstufe",
+            "Bei Andenkenhändlern zu erhalten"
         ],
         "Icon": "UI_ItemIcon_915"
     },
     "917": {
         "_id": 917,
         "R": 5,
-        "Name": "Memory of Immovable Crystals",
-        "Desc": "The missing star from the Talents of a Geo-aligned Traveler.",
+        "Name": "Erinnerung der unbeweglichen Kristalle",
+        "Desc": "Ein fehlender Stern im Geo-Sternbild von Reisenden.",
         "Src": [
-            "Liyue Archon Quest Reward",
-            "Purchase from the Souvenir Shop"
+            "Archontenauftragsbelohnung für Liyue",
+            "Bei Andenkenhändlern zu erhalten"
         ],
         "Icon": "UI_ItemIcon_917"
     },
@@ -4125,9 +4125,9 @@ var _material = {
         "_id": 1006,
         "R": 4,
         "Name": "Lisa",
-        "Desc": "The languid but knowledgeable Librarian of the Knights of Favonius, deemed by Sumeru Akademiya to be their most distinguished graduate in the past two centuries.",
+        "Desc": "Die faule, aber wissbegierige Bibliothekarin, die als Absolventin der Sumeru-Akademie mit dem größten Talent der letzten zweihundert Jahre angesehen wird.",
         "Src": [
-            "Wish"
+            "Gebet"
         ],
         "Icon": "UI_AvatarIcon_Lisa_Card"
     },
@@ -4135,172 +4135,172 @@ var _material = {
         "_id": 1015,
         "R": 4,
         "Name": "Kaeya",
-        "Desc": "An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.",
+        "Desc": "Ein exzellenter Schwertkämpfer und Denker des Ordo Favonius.",
         "Src": [
-            "Wish"
+            "Gebet"
         ],
         "Icon": "UI_AvatarIcon_Kaeya_Card"
     },
     "1301": {
         "_id": 1301,
         "R": 4,
-        "Name": "An Appellative Stroke",
-        "Desc": "The brush with which you may bestow a new name upon a certain person.<br>Once the new name has been given, it cannot be changed.",
+        "Name": "Umschreibungspinsel",
+        "Desc": "Ein Pinsel, mit dem der „Name“ einer Person geändert werden kann.<br>Nach Durchführen dieser Namensänderung ist keine weitere Änderung mehr möglich.",
         "Src": [],
         "Icon": "UI_ItemIcon_1301"
     },
     "100222": {
         "_id": 100222,
         "R": 1,
-        "Name": "1000 Years of Loneliness",
-        "Desc": "The beginning of the Springvale Hunter's tragic fantasy journey. Where did misfortune first befall him? What marks the start and finish of the 1000-year journey of loneliness? Let this first volume of 1000 Years of Loneliness be your guide through the fantastical fog that is the life of Gothson.",
+        "Name": "Jahrtausende in Einsamkeit",
+        "Desc": "Der Beginn der fantastischen und tragischen Reise des Jägers aus Quellingen. Worin liegt der Ursprung all des Unglücks? Worin bestehen Anfang und Ende der Reise Jahrtausende in Einsamkeit? Der erste Teil der Reihe „Jahrtausende in Einsamkeit“ wird dich in den traumgleichen Nebel führen, der Gothsons Leben erfüllt.",
         "Src": [],
         "Icon": "UI_ItemIcon_100221"
     },
     "101644": {
         "_id": 101644,
         "R": 3,
-        "Name": "Lumenstone Ore",
-        "Desc": "The raw ore from which Lumenstone may be found. If processed properly, it can be used to strengthen the Lumenstone Adjuvant you have. Why not hit Jinwu up and ask her?",
+        "Name": "Lumensteinerz",
+        "Desc": "Das Roherz, aus dem Lumenstein gewonnen werden kann. Wenn es richtig verarbeitet wird, kann es verwendet werden, um deinen Lumenstein-Katalysator zu verstärken. Frage doch einfach Jinwu.",
         "Src": [],
         "Icon": "UI_ItemIcon_101644"
     },
     "101692": {
         "_id": 101692,
         "R": 3,
-        "Name": "Light Realm Sigil",
-        "Desc": "A mark symbolizing the recognition of Enkanomiya's Tokoyo Ookami.<br>They can be offered up to the Statue of the Vassals of Watatsumi, thus upgrading the Bokuso Box.",
+        "Name": "Siegel der Lichtwelt",
+        "Desc": "Ein Zeichen, das die Anerkennung von Tokoyo Ookami von Enkanomiya symbolisiert.<br>Es kann der Statue der Boten geopfert werden, wodurch die Stufe des Bokuso-Kastens erhöht wird.",
         "Src": [],
         "Icon": "UI_ItemIcon_101692"
     },
     "101832": {
         "_id": 101832,
         "R": 4,
-        "Name": "Stories of You and the Aranara",
-        "Desc": "So many wonderful things transpired during your adventures with the Aranara. In the world of the Aranara where stories are highly valued, maybe someone is willing to \"exchange\" these with you.",
+        "Name": "Geschichten von dir und den Aranara",
+        "Desc": "So viele wundervolle Geschichten hast du auf deinen Abenteuern mit den Aranara erlebt. Vielleicht ist jemand in der Welt der Aranara, in der Geschichten hochgeschätzt werden, bereit, einen „Austausch“ mit dir durchzuführen.",
         "Src": [],
         "Icon": "UI_ItemIcon_101832"
     },
     "101854": {
         "_id": 101854,
         "R": 1,
-        "Name": "Leisurely Rocks: Left",
-        "Desc": "Slightly soft bonsai rocks. They seem to be able to summon a leisurely and comfy breeze. These can be placed on the left side of the bonsai.",
+        "Name": "Ruhiger Felsen – Links",
+        "Desc": "Ein Felsen für die Miniaturlandschaft mit einer recht sanften Oberfläche, er scheint eine beruhigende Brise heraufbeschwören zu können. Er kann die Miniaturlandschaft auf der linken Seite flankieren.",
         "Src": [],
         "Icon": "UI_ItemIcon_101854"
     },
     "101855": {
         "_id": 101855,
         "R": 1,
-        "Name": "Leisurely Rocks: Right",
-        "Desc": "Slightly soft bonsai rocks. They seem to be able to summon a leisurely and comfy breeze. These can be placed on the right side of the bonsai.",
+        "Name": "Ruhiger Felsen – Rechts",
+        "Desc": "Ein Felsen für die Miniaturlandschaft mit einer recht sanften Oberfläche, er scheint eine beruhigende Brise heraufbeschwören zu können. Er kann die Miniaturlandschaft auf der rechten Seite flankieren.",
         "Src": [],
         "Icon": "UI_ItemIcon_101855"
     },
     "101856": {
         "_id": 101856,
         "R": 1,
-        "Name": "Hoverlight Rocks: Left",
-        "Desc": "Rocks of moderate hardness. It is said that a glimmer will dance across the surface of these rocks during stormy weather. These can be placed on the left side of the bonsai.",
+        "Name": "Leuchtender Felsen – Links",
+        "Desc": "Ein Felsen mittlerer Härte für die Miniaturlandschaft, es heißt, bei Gewittersturm und Regen würde die Oberfläche des Felsens aufleuchten. Er kann die Miniaturlandschaft auf der linken Seite flankieren.",
         "Src": [],
         "Icon": "UI_ItemIcon_101856"
     },
     "101857": {
         "_id": 101857,
         "R": 1,
-        "Name": "Hoverlight Rocks: Right",
-        "Desc": "Bonsai rocks of moderate hardness. It is said that a glimmer will dance across the surface of these rocks during stormy weather. These can be placed on the right side of the bonsai.",
+        "Name": "Leuchtender Felsen – Rechts",
+        "Desc": "Ein Felsen mittlerer Härte für die Miniaturlandschaft, es heißt, bei Gewittersturm und Regen würde die Oberfläche des Felsens aufleuchten. Er kann die Miniaturlandschaft auf der rechten Seite flankieren.",
         "Src": [],
         "Icon": "UI_ItemIcon_101857"
     },
     "101858": {
         "_id": 101858,
         "R": 1,
-        "Name": "Unyielding Rocks: Left",
-        "Desc": "Very hard bonsai rocks that have an air of firmness to them. These can be placed on the left side of the bonsai.",
+        "Name": "Harter Felsen – Links",
+        "Desc": "Ein außerordentlich harter Felsen für die Miniaturlandschaft, der einen unglaublich felsigen Duft beherbergt. Er kann die Miniaturlandschaft auf der linken Seite flankieren.",
         "Src": [],
         "Icon": "UI_ItemIcon_101858"
     },
     "101859": {
         "_id": 101859,
         "R": 1,
-        "Name": "Unyielding Rocks: Right",
-        "Desc": "Very hard bonsai rocks that have an air of firmness to them. These can be placed on the right side of the bonsai.",
+        "Name": "Harter Felsen – Rechts",
+        "Desc": "Ein außerordentlich harter Felsen für die Miniaturlandschaft, der einen unglaublich felsigen Duft beherbergt. Er kann die Miniaturlandschaft auf der rechten Seite flankieren.",
         "Src": [],
         "Icon": "UI_ItemIcon_101859"
     },
     "104001": {
         "_id": 104001,
         "R": 2,
-        "Name": "Wanderer's Advice",
-        "Desc": "Character EXP material. Gives 1000 EXP.<br>These experiences are still beneficial even if one does not live in Teyvat.",
+        "Name": "Eines Streuners Gedanken",
+        "Desc": "Material für Figuren-EP, enthält 1.000 EP.<br>Wenn man nicht gerade aus einer der Sieben Städte des Landes kommt, kann man diese Erfahrung gut gebrauchen.",
         "Src": [
-            "Adventure and Exploration Reward",
-            "Exchanged from the Realm Depot"
+            "Abenteuer- und Erkundungsbelohnung",
+            "Aus der Schatzkammer in der Kanne der Vergänglichkeit erworben"
         ],
         "Icon": "UI_ItemIcon_104001"
     },
     "104002": {
         "_id": 104002,
         "R": 3,
-        "Name": "Adventurer's Experience",
-        "Desc": "Character EXP material. Gives 5000 EXP.<br>These experiences are very beneficial for journeys into the unknown.",
+        "Name": "Eines Abenteurers Worte",
+        "Desc": "Material für Figuren-EP, enthält 5.000 EP.<br>Betritt man Gegenden, die noch nie ein Mensch zuvor gesehen hat, kann man diese Erfahrung sehr gut gebrauchen.",
         "Src": [
-            "Adventure and Exploration Reward",
-            "Blossom of Revelation Revitalization Reward"
+            "Abenteuer- und Erkundungsbelohnung",
+            "Belohnung für das Aktivieren der Blüte der Offenbarung"
         ],
         "Icon": "UI_ItemIcon_104002"
     },
     "104003": {
         "_id": 104003,
         "R": 4,
-        "Name": "Hero's Wit",
-        "Desc": "Character EXP material. Gives 20000 EXP.<br>These experiences are extremely precious for a pilgrim traveling through Teyvat in order to be closer to Celestia.",
+        "Name": "Eines Helden Weisheit",
+        "Desc": "Material für Figuren-EP, enthält 20.000 EP.<br>Wenn man auf dem Weg nach Celestia ist und sich ein Weilchen in diesen Landen aufhält, ist diese Erfahrung eine äußerst große Hilfe.",
         "Src": [
-            "Random Event Reward",
-            "Blossom of Revelation Revitalization Reward",
-            "Exchanged from the Realm Depot"
+            "Belohnung für das Auflösen von Ereignissen",
+            "Belohnung für das Aktivieren der Blüte der Offenbarung",
+            "Aus der Schatzkammer in der Kanne der Vergänglichkeit erworben"
         ],
         "Icon": "UI_ItemIcon_104003"
     },
     "104011": {
         "_id": 104011,
         "R": 1,
-        "Name": "Enhancement Ore",
-        "Desc": "Weapon EXP material. Gives 400 EXP.<br>A refined ingot with endless possibilities that can be used to enhance weapons.",
+        "Name": "Minderwertiges Verstärkungserz",
+        "Desc": "Material für Waffen-EP, enthält 400 EP.<br>Erz mit unvorstellbar vielen Möglichkeiten, das zum Verstärken von Waffen verwendet wird.",
         "Src": [
-            "Forged",
-            "Random Event Reward"
+            "Beim Schmieden zu erhalten",
+            "Belohnung für das Auflösen von Ereignissen"
         ],
         "Icon": "UI_ItemIcon_104011"
     },
     "104012": {
         "_id": 104012,
         "R": 2,
-        "Name": "Fine Enhancement Ore",
-        "Desc": "Weapon EXP material. Gives 2,000 EXP.<br>For reasons unknown, this special and refined ore can be absorbed by weapons to greatly increase their strengths.",
+        "Name": "Hochwertiges Verstärkungserz",
+        "Desc": "Material für Waffen-EP, enthält 2.000 EP.<br>Aufgrund der physischen Eigenheiten dieses Stoffes können Waffen damit besonders gut verstärkt werden.",
         "Src": [
-            "Forged",
-            "Random Event Reward"
+            "Beim Schmieden zu erhalten",
+            "Belohnung für das Auflösen von Ereignissen"
         ],
         "Icon": "UI_ItemIcon_104012"
     },
     "104013": {
         "_id": 104013,
         "R": 3,
-        "Name": "Mystic Enhancement Ore",
-        "Desc": "Weapon EXP material. Gives 10,000 EXP.<br>Legend has it that this refined ingot contains the memories of battles that had taken place in the land. The weapons that benefit from these memories naturally become sentient.",
+        "Name": "Mystisches Verstärkungserz",
+        "Desc": "Material für Waffen-EP, enthält 10.000 EP.<br>In diesem Erz sollen die Erinnerungen an unzählige Kämpfe auf der es bedeckenden Erde liegen. Waffen, die mit diesem Erz verstärkt werden, scheinen auch lebendiger zu wirken.",
         "Src": [
-            "Forged",
-            "Random Event Reward"
+            "Beim Schmieden zu erhalten",
+            "Belohnung für das Auflösen von Ereignissen"
         ],
         "Icon": "UI_ItemIcon_104013"
     },
     "104301": {
         "_id": 104301,
         "R": 2,
-        "Name": "Teachings of Freedom",
-        "Desc": "Talent Level-Up material.<br>Freedom is the spirit of the land of the wind.<br>The freedom to live is one of such. It is the freedom to live freely and healthily without concerns of one's own safety.",
+        "Name": "Lehren der „Freiheit“",
+        "Desc": "Material zum Verbessern von Talenten.<br>Freiheit ist der Geist des Reiches des Windes.<br>Freiheit ist erstens die Freiheit zu leben, gesund und unversehrt, ohne sich Sorgen über den nächsten Tag machen zu müssen.",
         "Src": [],
         "Icon": "UI_ItemIcon_104301",
         "Link": 1
@@ -4308,10 +4308,10 @@ var _material = {
     "104302": {
         "_id": 104302,
         "R": 3,
-        "Name": "Guide to Freedom",
-        "Desc": "Talent Level-Up material.<br>Freedom is the spirit of the land of the wind.<br>The freedom of travel is one of such. It is the freedom to traverse the land freely without being obstructed.",
+        "Name": "Anleitung zur „Freiheit“",
+        "Desc": "Material zum Verbessern von Talenten.<br>Freiheit ist der Geist des Reiches des Windes.<br>Freiheit ist zweitens, sich beliebig bewegen und überall unter dem blauen Himmel wandern zu können, ohne an einen Ort gebunden zu sein.",
         "Src": [
-            "Crafted"
+            "Kann hergestellt werden"
         ],
         "Icon": "UI_ItemIcon_104302",
         "Link": 1
@@ -4319,8 +4319,8 @@ var _material = {
     "104304": {
         "_id": 104304,
         "R": 2,
-        "Name": "Teachings of Resistance",
-        "Desc": "Talent Level-Up material.<br>Resistance is the backbone of the land of the wind.<br>The history of Mondstadt is one of resistances. People rose up to prevent past conflicts from ever being forgotten, like sprouts breaking through the soil, like the eternal wind eroding through stone walls.",
+        "Name": "Lehren des „Widerstands“",
+        "Desc": "Material zum Verbessern von Talenten.<br>Widerstand ist Stütze des Reiches des Windes.<br>Die Geschichte von Mondstadt ist die des Widerstands. Der Widerstand Mondstadts darf nicht vergessen werden. Er ist wie das Gras, das die Erdoberfläche durchbricht, wie der Wind, der die Mauer aushöhlt.",
         "Src": [],
         "Icon": "UI_ItemIcon_104304",
         "Link": 1
@@ -4328,10 +4328,10 @@ var _material = {
     "104305": {
         "_id": 104305,
         "R": 3,
-        "Name": "Guide to Resistance",
-        "Desc": "Talent Level-Up material.<br>Resistance is the backbone of the city of Wind.<br>The history of Mondstadt is one of resistances. People rose up to grant the citizens of Mondstadt the freedom they now enjoy, like the Anemo Archon blowing away the snow, or like Vennessa rising up to fight.",
+        "Name": "Anleitung zum „Widerstand“",
+        "Desc": "Material zum Verbessern von Talenten.<br>Widerstand ist Stütze des Reiches des Windes.<br>Die Geschichte von Mondstadt ist die des Widerstands. Der Widerstand Mondstadts lässt die Menschen in Freiheit leben. Er ist wie der Schnee, den der Gott des Windes durch das Land treibt, wie Vennessa im Kampf gegen die Unterdrücker.",
         "Src": [
-            "Crafted"
+            "Kann hergestellt werden"
         ],
         "Icon": "UI_ItemIcon_104305",
         "Link": 1
@@ -4339,8 +4339,8 @@ var _material = {
     "104307": {
         "_id": 104307,
         "R": 2,
-        "Name": "Teachings of Ballad",
-        "Desc": "Talent Level-Up material.<br>Poetry is the soul of the land of the wind.<br>Poetry is the manifestations of beautiful feelings. On a beautiful day, the breezes carry with them poetry that touches the heart of people like the wind caressing the leaves.",
+        "Name": "Lehren der „Poesie“",
+        "Desc": "Material zum Verbessern von Talenten.<br>Poesie ist die Seele des Reiches des Windes.<br>Die Poesie ist die Darstellung der Schönheit. An schönen Tagen trägt der Wind über den Feldern Gedichte über Heimat und Liebe mit sich. Die Poesie bewegt die Menschen wie der Wind das Gras.",
         "Src": [],
         "Icon": "UI_ItemIcon_104307",
         "Link": 1
@@ -4348,10 +4348,10 @@ var _material = {
     "104308": {
         "_id": 104308,
         "R": 3,
-        "Name": "Guide to Ballad",
-        "Desc": "Talent Level-Up material.<br>Poetry is the soul of the land of the wind.<br>Poetry is the manifestations of the will to encourage. In the dark days, the gales in the streets and alleyways whisper words of fury, like the battle drums, like the low rumbling before the storm.",
+        "Name": "Anleitung zur „Poesie“",
+        "Desc": "Material zum Verbessern von Talenten.<br>Poesie ist die Seele des Reiches des Windes.<br>Die Poesie ist die Darstellung des Tatendrangs. An düsteren Tagen trägt der Wind in den Gassen Geflüster über unheilvolle Gedanken mit sich. Die Poesie ist wie die Kriegstrommel, wie das leise Vogelgezwitscher vor dem Sturm.",
         "Src": [
-            "Crafted"
+            "Kann hergestellt werden"
         ],
         "Icon": "UI_ItemIcon_104308",
         "Link": 1
@@ -4359,10 +4359,10 @@ var _material = {
     "104311": {
         "_id": 104311,
         "R": 3,
-        "Name": "Guide to Prosperity",
-        "Desc": "Talent Level-Up material.<br>Prosperity is the people's pursuit in the land of Geo.<br>Prosperity is the promise made by Liyue to its children: To repay the hard-working laborers with enough gold to brighten up this land.",
+        "Name": "Anleitung zum „Wohlstand“",
+        "Desc": "Material zum Verbessern von Talenten.<br>Wohlstand ist das Ziel des Reiches des Gesteins.<br>Der Wohlstand ist Liyues Versprechen an seine Kinder: Er ist der Lohn für den Fleiß der Menschen, das funkelnde Gold im Herzen der Erde.",
         "Src": [
-            "Crafted"
+            "Kann hergestellt werden"
         ],
         "Icon": "UI_ItemIcon_104311",
         "Link": 1
@@ -4370,8 +4370,8 @@ var _material = {
     "104313": {
         "_id": 104313,
         "R": 2,
-        "Name": "Teachings of Diligence",
-        "Desc": "Talent Level-Up material.<br>Industriousness is the foundation of the land of Geo.<br>Diligence is having the bravery and the strength to conquer mountains and seas and to pursue gold and prosperity through honest, hard work.",
+        "Name": "Lehren des „Fleißes“",
+        "Desc": "Material zum Verbessern von Talenten.<br>Fleiß ist die Grundlage des Reiches des Gesteins.<br>Der Fleiß bringt die Menschen dazu, selbst die höchsten Berge und die tiefsten Gewässer zu bezwingen. Er gibt ihnen den Mut und die Kraft, nach Wohlstand und Gold zu streben.",
         "Src": [],
         "Icon": "UI_ItemIcon_104313",
         "Link": 1
@@ -4379,10 +4379,10 @@ var _material = {
     "104314": {
         "_id": 104314,
         "R": 3,
-        "Name": "Guide to Diligence",
-        "Desc": "Talent Level-Up material.<br>Industriousness is the foundation of the land of Geo.<br>Industriousness is the catalyst that flows in the blood of the people of Liyue, able to turn rocks into gold. It is what lies behind the greatness of its great commercial port.",
+        "Name": "Anleitung zum „Fleiß“",
+        "Desc": "Material zum Verbessern von Talenten.<br>Fleiß ist die Grundlage des Reiches des Gesteins.<br>Der Fleiß ist der Katalysator in den Menschen von Liyue, der Stein in Gold verwandelt. Er ist der Grund, weshalb Liyues Hafen so großen Einfluss ausübt.",
         "Src": [
-            "Crafted"
+            "Kann hergestellt werden"
         ],
         "Icon": "UI_ItemIcon_104314",
         "Link": 1
@@ -4390,8 +4390,8 @@ var _material = {
     "104316": {
         "_id": 104316,
         "R": 2,
-        "Name": "Teachings of Gold",
-        "Desc": "Talent Level-Up material.<br>Gold is the symbol of the land of Geo.<br>Gold is the blood that flows deep within Liyue's veins, the muscle that makes up Liyue's beating heart, and the bones that make Liyue stand proud.",
+        "Name": "Lehren des „Golds“",
+        "Desc": "Material zum Verbessern von Talenten.<br>Gold ist das Symbol des Reiches des Gesteins.<br>Das Gold fließt in den Adern Liyues. Es nährt Liyues Herz und gibt seinen Muskeln die Kraft, stolz und erhaben aufrecht zu stehen.",
         "Src": [],
         "Icon": "UI_ItemIcon_104316",
         "Link": 1
@@ -4399,10 +4399,10 @@ var _material = {
     "104317": {
         "_id": 104317,
         "R": 3,
-        "Name": "Guide to Gold",
-        "Desc": "Talent Level-Up material.<br>Gold is the symbol of the land of Geo.<br>Gold symbolizes conversion. This is the unspoken understanding between Liyue's mountains, land, city, and people. In Liyue, industriousness is converted into gold, and gold into prosperity.",
+        "Name": "Anleitung zum „Gold“",
+        "Desc": "Material zum Verbessern von Talenten.<br>Gold ist das Symbol des Reiches des Gesteins.<br>Das Gold bedeutet Umwandlung. Es steht für die Beziehung zwischen den Bergen, der Erde, dem Hafen und den Menschen. In Liyue wird Fleiß in Gold gewandelt und Gold in Wohlstand.",
         "Src": [
-            "Crafted"
+            "Kann hergestellt werden"
         ],
         "Icon": "UI_ItemIcon_104317",
         "Link": 1
@@ -4410,10 +4410,10 @@ var _material = {
     "104319": {
         "_id": 104319,
         "R": 5,
-        "Name": "Crown of Insight",
-        "Desc": "A precious Talent Level-Up material.<br>Once a medium for the storage and transfer of wisdom in ancient times. Now, wisdom is found in ancient texts and in profound speech. Nevertheless, this Crown of Insight must still be able to impart some transcendent power and wisdom to its bearer.",
+        "Name": "Krone der Weisheit",
+        "Desc": "Wertvolles Material, das zum Verbessern von Talenten benötigt wird.<br>Ein rituelles Hilfsmittel, das in alter Zeit für die Weitergabe von Wissen genutzt wurde. Heutzutage jedoch liegt Wissen in gesprochener und niedergeschriebener Sprache. Die in der Krone der Weisheit gespeicherte Kraft kann heute sicherlich immer noch auf den Menschen abfärben.",
         "Src": [
-            "Limited-Duration Event Reward"
+            "Belohnung zeitlich begrenzter Aktionen"
         ],
         "Icon": "UI_ItemIcon_104319",
         "Link": 1
@@ -4421,10 +4421,10 @@ var _material = {
     "104321": {
         "_id": 104321,
         "R": 3,
-        "Name": "Guide to Transience",
-        "Desc": "Talent Level-Up material.<br>Transience is the dream of the nation of thunder.<br>We find the greatest joys in mortal life in transient dreams, for is life itself not like the shadow of the thunder? Pursue your dreams into the clouds if you wish, and enjoy the unexpected silence of the dim lamp-lit nights.",
+        "Name": "Anleitung zur „Vergänglichkeit“",
+        "Desc": "Material zur Verbesserung von Talenten.<br>Vergänglichkeit ist der Traum des Reichs des Blitzes.<br>Wir finden die größten Freuden im sterblichen Leben in vergänglichen Träumen, denn ist das Leben selbst nicht wie der Schatten des Donners? Verfolge deine Träume bis in die Wolken, wenn du willst, und genieße die unerwartete Stille der schummrigen, lampenbeleuchteten Nächte.",
         "Src": [
-            "Crafted"
+            "Kann hergestellt werden"
         ],
         "Icon": "UI_ItemIcon_104321",
         "Link": 1
@@ -4432,10 +4432,10 @@ var _material = {
     "104324": {
         "_id": 104324,
         "R": 3,
-        "Name": "Guide to Elegance",
-        "Desc": "Talent Level-Up material.<br>Elegance is the form of the nation of thunder.<br>Elegance shuns arrogance. The elegant are ever humble, and only by discarding vanity and sloth may one see clearly — and is there not beauty and loveliness even in the basest of appearances?",
+        "Name": "Anleitung zur „Eleganz“",
+        "Desc": "Material zur Verbesserung von Talenten.<br>Eleganz ist die Form des Reichs des Blitzes.<br>Eleganz meidet Arroganz. Die Eleganten sind immer bescheiden und nur wenn man Eitelkeit und Trägheit ablegt, kann man klar sehen. Und gibt es nicht Schönheit und Liebenswürdigkeit selbst in den niedersten Äußerlichkeiten?",
         "Src": [
-            "Crafted"
+            "Kann hergestellt werden"
         ],
         "Icon": "UI_ItemIcon_104324",
         "Link": 1
@@ -4443,10 +4443,10 @@ var _material = {
     "104327": {
         "_id": 104327,
         "R": 3,
-        "Name": "Guide to Light",
-        "Desc": "Talent Level-Up material.<br>Light is the yearning of the land of thunder.<br>Though the sun rays themselves should be blocked by layers upon layers of clouds, there are still those in the thunder god's land who dream of piercing that wrathful sea of lightning to pursue the glory of the divine, fearing not that they shall be cruelly struck down.",
+        "Name": "Anleitung zum „Licht“",
+        "Desc": "Material zur Verbesserung von Talenten.<br>Licht ist die Sehnsucht des Reichs des Blitzes.<br>Auch wenn die Sonnenstrahlen selbst durch Schichten über Schichten von Wolken blockiert werden sollten, gibt es im Land des Donnergottes immer noch diejenigen, die davon träumen, dieses zornige Meer von Blitzen zu durchdringen, um die Herrlichkeit des Göttlichen zu verfolgen, ohne zu fürchten, dass sie grausam niedergestreckt werden.",
         "Src": [
-            "Crafted"
+            "Kann hergestellt werden"
         ],
         "Icon": "UI_ItemIcon_104327",
         "Link": 1
@@ -4454,10 +4454,10 @@ var _material = {
     "104330": {
         "_id": 104330,
         "R": 3,
-        "Name": "Guide to Admonition",
-        "Desc": "Talent Level-Up material.<br>Admonition is the branches of the nation of wisdom.<br>Admonition is paired with wise thinking. Careful deliberation affords humble words a clarity that convinces the wise and enlightens the foolish. Such words allow wisdom to flow like an unobstructed river.",
+        "Name": "Anleitung zur „Ermahnung“",
+        "Desc": "Material zur Verbesserung von Talenten.<br>„Ermahnung“ ist der Zweig des Reiches der Weisheit.<br>Ermahnung und sorgfältige Überlegung gehören untrennbar zusammen. Sich mit Demut und Klarheit auszudrücken, erfordert viel Nachdenken und Reflexion. Nur so kann man die Weisen überzeugen, die Narren erwecken, und die Weisheit wie einen Fluss fließen lassen.",
         "Src": [
-            "Crafted"
+            "Kann hergestellt werden"
         ],
         "Icon": "UI_ItemIcon_104330",
         "Link": 1
@@ -4465,10 +4465,10 @@ var _material = {
     "104333": {
         "_id": 104333,
         "R": 3,
-        "Name": "Guide to Ingenuity",
-        "Desc": "Talent Level-Up material.<br>Ingenuity is the leaf-veins of the nation of wisdom. Ingenuity sets words of integrity on the right path. One who thinks out of goodwill and in a clever and careful fashion never deviates from the path of boons. Yet one who thinks with contempt and malice shall taint their words with despicable colors.",
+        "Name": "Anleitung zur „Findigkeit“",
+        "Desc": "Material zur Verbesserung von Talenten.<br>„Findigkeit“ ist die Vene des Reichs der Weisheit.<br>Findigkeit führt zu aufrichtigen Worten. Wer aus gutem Willen denkt und klug überlegt, dessen Worte werden nie den Pfad des Wohlergehens verlassen. Wer aber aus Rücksichtslosigkeit und Boshaftigkeit spricht, dessen Worte werden verachtenswert und unwürdig.",
         "Src": [
-            "Crafted"
+            "Kann hergestellt werden"
         ],
         "Icon": "UI_ItemIcon_104333",
         "Link": 1
@@ -4476,10 +4476,10 @@ var _material = {
     "104336": {
         "_id": 104336,
         "R": 3,
-        "Name": "Guide to Praxis",
-        "Desc": "Talent Level-Up material.<br>Praxes are the roots of the nation of wisdom.<br>Praxes validate words of honesty. Though one speaks and acts out of goodwill, one has not yet obtained wisdom. Wisdom, born from action, is a signet pressed upon honest words.",
+        "Name": "Anleitung zur „Praxis“",
+        "Desc": "Material zur Verbesserung von Talenten.<br>Die „Praxis“ ist die Wurzel des Reichs der Weisheit.<br>Die Praxis bestätigt die Ehrlichkeit in den Worten. Auch wenn alles Denken, alles Handeln, gut ist, kann man dennoch es nicht als Weisheit nennen. Aus Taten geborene Weisheit legt ein Siegel auf ehrliche Worte.",
         "Src": [
-            "Crafted"
+            "Kann hergestellt werden"
         ],
         "Icon": "UI_ItemIcon_104336",
         "Link": 1
@@ -4487,10 +4487,10 @@ var _material = {
     "104339": {
         "_id": 104339,
         "R": 3,
-        "Name": "Guide to Equity",
-        "Desc": "Talent Level-Up Material.<br>The shore of the Nation of Water is equity.<br>Equity is the foundation upon which Fontaine was founded. Equity forms the standard of the law. If law loses the essence of equity, it will become a chessboard played for profit.",
+        "Name": "Anleitung zur „Fairness“",
+        "Desc": "Material zur Verbesserung von Talenten.<br>Denn der Damm des Reichs des Wassers ist Fairness.<br>Fairness ist das Fundament von Fontaines Staatlichkeit und wenn das Gesetz seine Fairness einbüßt, ist es nur noch ein Spielbrett des Profits.",
         "Src": [
-            "Crafted"
+            "Kann hergestellt werden"
         ],
         "Icon": "UI_ItemIcon_104339",
         "Link": 1
@@ -4498,10 +4498,10 @@ var _material = {
     "104342": {
         "_id": 104342,
         "R": 3,
-        "Name": "Guide to Justice",
-        "Desc": "Talent Level-Up Material.<br>The sword of the Nation of Water is justice.<br>The law of Fontaine walks with the sword of justice in hand. Justice must be blind, and those who wield the sword of justice must not be led astray by their own interests or affairs.",
+        "Name": "Anleitung zur „Gerechtigkeit“",
+        "Desc": "Material zur Verbesserung von Talenten.<br>Denn das Schwert des Reichs des Wassers ist Gerechtigkeit.<br>Die Gesetze von Fontaine werden mit dem Schwert der Gerechtigkeit geführt. Die Gerechtigkeit ist blind, denn die, die ihre scharfe Klinge führen, lassen sich weder von persönlichen Interessen noch von Eigennutz treiben.",
         "Src": [
-            "Crafted"
+            "Kann hergestellt werden"
         ],
         "Icon": "UI_ItemIcon_104342",
         "Link": 1
@@ -4509,10 +4509,10 @@ var _material = {
     "104345": {
         "_id": 104345,
         "R": 3,
-        "Name": "Guide to Order",
-        "Desc": "Talent Level-Up Material.<br>The shield of the Nation of Water is order.<br>All law in Fontaine ultimately serves to maintain a stable order. Without the guarantee provided by order, justice will be reduced to unlimited violence, a weapon used by all against all.",
+        "Name": "Anleitung zur „Ordnung“",
+        "Desc": "Material zur Verbesserung von Talenten.<br>Denn der Schild des Reichs des Wassers ist Ordnung.<br>Alle Gesetze Fontaines dienen schließlich der festen Ordnung. Ohne die Garantie der Ordnung wäre das Recht unendliche Gewalt, eine Waffe, geführt von jedem gegen jeden.",
         "Src": [
-            "Crafted"
+            "Kann hergestellt werden"
         ],
         "Icon": "UI_ItemIcon_104345",
         "Link": 1
@@ -4520,51 +4520,51 @@ var _material = {
     "107008": {
         "_id": 107008,
         "R": 1,
-        "Name": "Inazuma Shrine of Depths Key",
-        "Desc": "A key that can break the seal on the ancient Shrines of Depths scattered around Inazuma.<br>These Shrines of Depths sealed themselves off when the civilization that built them was lost. Keys lost deep within domains are able to break the seals. Or perhaps that, for a moment, these keys help the seals to forget all that they have lost.",
+        "Name": "Schlüssel zu den Schreinen der Tiefe in Inazuma",
+        "Desc": "Mit diesen Schlüsseln kannst du die Versieglung der alten Schreine der Tiefe, die überall in Inazuma zu finden sind, lösen.<br>Diese Schreine versiegelten sich selbst, als die alte Zivilisation, die sie erbaute, unterging. Diese Siegel können mithilfe der Schlüssel, die tief in bestimmten Sphären zu finden sind, gelöst werden. Möglicherweise vergessen die Schreine angesichts der Kraft der Vergangenheit einen Moment lang den Schmerz der Zerstörung.",
         "Src": [],
         "Icon": "UI_ItemIcon_107008"
     },
     "107009": {
         "_id": 107009,
         "R": 4,
-        "Name": "Fragile Resin",
-        "Desc": "An item used to restore Original Resin by 60 points.<br>This crystalline substance pulsates with a little energy that can be absorbed by Original Resin.<br>The flow of energies of all sorts is the source of many wonders and challenges in this world. Those same energies are also contained within this crystal.",
+        "Name": "Zerbrechliches Harz",
+        "Desc": "Ein Objekt zum Auffüllen von ursprünglichem Harz. Ein Stück stellt 60 Punkte wieder her.<br>Es ist ein kristalliner Körper, der eine geringe Menge Energie enthält, die vom ursprünglichen Harz aufgenommen werden kann.<br>Die Strömung vieler verschiedener Arten von Energien machen die Schönheit und die Herausforderungen dieser Welt aus. Auch in diesem kleinen Kristall fließen diese Energien.",
         "Src": [],
         "Icon": "UI_ItemIcon_210"
     },
     "107022": {
         "_id": 107022,
         "R": 1,
-        "Name": "Plume of Purifying Light",
-        "Desc": "Fragment left by Khvarena. Carrier of past memories.",
+        "Name": "Feder reinigenden Lichts",
+        "Desc": "Bruchstücke geronnener Erinnerungen, zurückgelassen von unzähligen Khvarena.",
         "Src": [],
         "Icon": "UI_ItemIcon_107022"
     },
     "108005": {
         "_id": 108005,
         "R": 1,
-        "Name": "Teyvat Fried Egg",
-        "Desc": "An egg fried on one side. The yolk flows out nicely when broken. So satisfying.",
-        "Eff": "Revives a character and restores 100 HP.",
+        "Name": "Teyvat-Spiegelei",
+        "Desc": "Ein auf nur einer Seite gebratenes Ei. Das Eigelb ist noch flüssig und lädt ein es aufzupieksen.",
+        "Eff": "Belebt die gewählte Figur wieder und stellt ihr 100 LP wieder her.",
         "Icon": "UI_ItemIcon_Recipe_2001",
         "Link": 1
     },
     "108032": {
         "_id": 108032,
         "R": 2,
-        "Name": "Sweet Madame",
-        "Desc": "Honey-roasted fowl. The honey and sweet flowers come together to complement the tender fowl meat.",
-        "Eff": "Restores 22% of Max HP and an additional 1,200 HP to the selected character.",
+        "Name": "Süß mariniertes Hühnchen",
+        "Desc": "Ein mariniertes und dann geschmortes Hühnchen. Das zarte Fleisch ist durchdrungen von dem Saft der Zuckerblume.",
+        "Eff": "Stellt der gewählten Figur 22 % LP sowie zusätzlich 1.200 LP wieder her.",
         "Icon": "UI_ItemIcon_Recipe_1004",
         "Link": 1
     },
     "108056": {
         "_id": 108056,
         "R": 3,
-        "Name": "\"Pile 'Em Up\"",
-        "Desc": "A rich, meaty dish. Originally a Mondstadt dish made of steaks, potatoes and cheese, it has since become synonymous with Ludi Harpastum.",
-        "Eff": "Increases all party members' CRIT Rate by 15% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "Name": "Hochgestapeltes",
+        "Desc": "Ein sehr reichhaltiges Fleischgericht. Eigentlich Hausmannskost aus Mondstadt bestehend aus Steaks, Kartoffeln und Käse übereinandergeschichtet steht es heute sinnbildlich für die Ludi Harpastum.",
+        "Eff": "Erhöht die KT aller Truppenmitglieder 300 s lang um 15 %. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
         "Icon": "UI_ItemIcon_Recipe_3004",
         "Link": 1
     },
@@ -4572,68 +4572,68 @@ var _material = {
         "_id": 108419,
         "R": 3,
         "Name": "Tahchin",
-        "Desc": "A classic staple served in large quantities. Cooked rice is mixed with meat that was marinated in yogurt, then baked until its surface turns crispy. Don't forget to add a handful of Padisarah petals before serving! Both the rice and meat are enough to keep one's stomach full for a long time, making it a very popular dish at the Grand Bazaar.",
-        "Eff": "Restores 28% of Max HP to the selected character and regenerates 620 HP every 5s for 30s.",
+        "Desc": "Ein sättigendes klassisches Reisgericht, das in großzügigen Portionen serviert wird. Zuerst den Reis kochen und das in Joghurt marinierte Fleisch in die Mitte des Reises legen. Der Reis wird dann geröstet, bis er knusprig ist. Vergiss nicht, es am Ende mit Padisarah zu garnieren. Sowohl Reis als auch Fleisch können Menschen satt machen, daher ist es auf dem Großen Basar sehr beliebt.",
+        "Eff": "Stellt der gewählten Figur sofort 28 % LP und innerhalb der nächsten 30 s alle 5 s 620 LP wieder her.",
         "Icon": "UI_ItemIcon_108419",
         "Link": 1
     },
     "109495": {
         "_id": 109495,
         "R": 2,
-        "Name": "Recipe: Selva Salad",
-        "Desc": "A recipe for making Selva Salad that you found during your adventure. It has been further refined by Paimon.",
+        "Name": "Rezept: Selva-Salat",
+        "Desc": "Ein auf Abenteuern erhaltenes, durch Paimon verfeinertes Rezept zur Zubereitung von „Selva-Salat“.",
         "Src": [],
         "Icon": "UI_ItemIcon_109000"
     },
     "109496": {
         "_id": 109496,
         "R": 2,
-        "Name": "Recipe: Masala Cheese Balls",
-        "Desc": "A recipe for making Masala Cheese Balls that you found during your adventure. It has been further refined by Paimon.",
+        "Name": "Rezept: Masala-Käsebällchen",
+        "Desc": "Ein auf Abenteuern erhaltenes, durch Paimon verfeinertes Rezept zur Zubereitung von „Masala-Käsebällchen“.",
         "Src": [],
         "Icon": "UI_ItemIcon_109000"
     },
     "109497": {
         "_id": 109497,
         "R": 2,
-        "Name": "Recipe: Mushroom Hodgepodge",
-        "Desc": "A recipe for making Mushroom Hodgepodge that you found during your adventure. It has been further refined by Paimon.",
+        "Name": "Rezept: Gemischte Pilzplatte",
+        "Desc": "Ein auf Abenteuern erhaltenes, durch Paimon verfeinertes Rezept zur Zubereitung von „gemischte Pilzplatte“.",
         "Src": [],
         "Icon": "UI_ItemIcon_109000"
     },
     "109498": {
         "_id": 109498,
         "R": 3,
-        "Name": "Recipe: Pita Pocket",
-        "Desc": "A handwritten Pita Pocket recipe, with detailed cooking tips in small letters. The writer's penmanship seems questionable. Some letters are shaky, perhaps due to the bad condition she was in. However, every word was written carefully.<br>If you have learned how to cook it, don't forget to enjoy this delicious food together with her the next time you visit Gandharva Ville.",
+        "Name": "Rezept: Taschenfladen",
+        "Desc": "Ein handgeschriebenes Rezept für „Taschenfladen“, bei dem mit kleiner Schrift alle wichtigen Einzelheiten der Zubereitung notiert sind. Am Schriftbild ist leicht erkennbar, dass die Verfasserin nicht allzu geübt im Schreiben ist, vielleicht aufgrund des Einflusses ihrer Krankheit, und einige Zeichen etwas verwackelt sind, allerdings ist jedes einzelne Zeichen sehr gewissenhaft geschrieben worden.<br>Nach Lernen dieses Rezeptes kannst du diese Köstlichkeit mit ihr teilen, wenn du das nächste Mal nach Gandharva zurückkommst.",
         "Src": [],
         "Icon": "UI_ItemIcon_109000"
     },
     "109560": {
         "_id": 109560,
         "R": 4,
-        "Name": "Recipe: Fontinalia Mousse",
-        "Desc": "A detailed step-by-step recipe for making Fontinalia Mousse.",
+        "Name": "Rezept: Fontainale-Mousse",
+        "Desc": "Rezept mit detaillierten Schritten zur Zubereitung von „Fontainale-Mousse“.",
         "Src": [],
         "Icon": "UI_ItemIcon_109000"
     },
     "113021": {
         "_id": 113021,
         "R": 4,
-        "Name": "Dream Solvent",
-        "Desc": "An item capable of changing Character Level-Up Materials obtained from memories and trials into whatever form is needed.<br>People once believed that spirits and memories had some material form. If someone dreamed of heaven before waking up clutching a flower, then that blossom must have been made from such a fantasy. Dream Solvent dissolves that which is obtained from memory and transforms it into some other dream.<br>Indeed, blows traded with the strong are stepping stones towards becoming stronger yourself.",
+        "Name": "Traumlösungsmittel",
+        "Desc": "Ein Gegenstand, der in der Lage ist, die aus Erinnerungen und Prüfungen gewonnenen Materialien zur Verbesserung von Figuren in jede beliebige Form zu verwandeln.<br>Die Menschen glaubten einst, dass Geister und Erinnerungen eine materielle Form hätten. Wenn jemand vom Himmel träumte, bevor er mit einer Blume in der Hand aufwachte, dann muss diese Blüte aus einer solchen Fantasie entstanden sein. Traumlösungsmittel löst das, was aus der Erinnerung gewonnen wurde, auf und verwandelt es in einen anderen Traum.<br>In der Tat sind Kämpfe, die gegen die Starken ausgetragen werden, ein Weg, um selbst stärker zu werden.",
         "Src": [
-            "Trounce Domain and Great Wolf King of the North Challenge Reward"
+            "Belohnung für die Herausforderungen für Gebietssäuberung und Großer Wolfskönig des Nordens"
         ],
         "Icon": "UI_ItemIcon_113021"
     },
     "113031": {
         "_id": 113031,
         "R": 4,
-        "Name": "Dragonheir's False Fin",
-        "Desc": "A piece of biological tissue that you found after defeating the Bathysmal Vishaps.<br>Although it looks like a fin of some kind, it does not actually have any function at all.<br>The people of Byakuyakoku once investigated the Bathysmal Vishaps quite deeply. Their most distinctive feature was the ability to choose what traits it wished to pass on to its offspring. Because of their great hatred for man-made light sources, these vishaps will lose any visual acuity by the time they reach maturity. At the same time, they have also evolved a certain degree of elemental polymorphism for combat purposes.",
+        "Name": "Falsche Flosse der Drachennachfahren",
+        "Desc": "Ein Stück biologisches Gewebe, das du gefunden hast, nachdem du die Tiefsee-Drachenechsen besiegt hattest. Obwohl es wie eine Art Flosse aussieht, hat es eigentlich gar keine Funktion.<br>Das Volk von Byakuyakoku hat die Tiefsee-Drachenechsen einst sehr gründlich untersucht. Ihr auffälligstes Merkmal war die Fähigkeit zu wählen, welche Eigenschaften sie an ihre Nachkommen weitergeben wollten. Wegen ihres großen Hasses auf die Menschheit verlieren diese Drachenechsen jede Sehkraft, wenn sie ausgewachsen sind. Gleichzeitig haben sie zu Kampfzwecken einen gewissen Polymorphismus der Elemente entwickelt.",
         "Src": [
-            "Dropped by Lv. 30+ Bathysmal Vishap Herds"
+            "Beute von Tiefsee-Drachenechsen-Herden ab Stufe 30"
         ],
         "Icon": "UI_ItemIcon_113031",
         "Link": 1
@@ -4641,154 +4641,154 @@ var _material = {
     "115037": {
         "_id": 115037,
         "R": 4,
-        "Name": "Yashiro Commission Gift",
-        "Desc": "A gift from the Yashiro Commission. It appears to be an exquisitely-made furnishing.",
+        "Name": "Geschenk der Yashiro-Verwaltung",
+        "Desc": "Es handelt sich um ein Geschenk der Yashiro-Verwaltung, das eine sehr anspruchsvolle Dekoration zu sein scheint.",
         "Src": [],
         "Icon": "UI_ItemIcon_115037"
     },
     "120400": {
         "_id": 120400,
         "R": 1,
-        "Name": "Credit Coupons",
-        "Desc": "A type of currency only used in the Fortress of Meropide.",
+        "Name": "Tauschschein",
+        "Desc": "Eine Währung, die nur im Fort Méropide akzeptiert wird.",
         "Src": [],
         "Icon": "UI_ItemIcon_120400"
     },
     "120700": {
         "_id": 120700,
         "R": 3,
-        "Name": "Thelxie's Fantastic Adventures",
-        "Desc": "A children's fantasy book containing only three pages, it tells the story of a prince who overcomes loneliness.<br>It reads \"For anyone in a tough spot\" in small print on the back cover.",
+        "Name": "„Thelxies fantastische Abenteuer“",
+        "Desc": "Ein dreiseitiges Märchenbuch, das die zauberhafte Geschichte eines Prinzen erzählt, der die Einsamkeit überwindet.<br>Auf der Rückseite findet sich in kleinen Buchstaben „Für alle, die es gerade schwer haben“ geschrieben.",
         "Src": [],
         "Icon": "UI_ItemIcon_120700"
     },
     "100584": {
         "_id": 100584,
         "R": 5,
-        "Name": "Tainted Blood",
-        "Desc": "Substance acquired from defeating Dvalin.<br>A crystal imbued with the winds of antiquity as well as another occult power from within the great dragon's body.<br><br>The mighty dragon was once a captive of a cage of toxicity, woven of three poisons:<br>The foul blood he once ingested, the lies whispered from the Abyss, and the anguish of abandonment.<br>Through tears shed and songs sung, the unholy spikes that had grown on Dvalin's body were smashed to pieces, and the web that had ensnared him was torn away...<br>Perhaps these feats were achievable only by a free-spirited traveler from a far-away land.",
+        "Name": "Unreines Blut",
+        "Desc": "Eine Substanz, die du nach dem Sieg über Dvalin erhalten hast.<br>Ein Kristall, der den uralten Wind in Dvalins Körper wie auch eine andere finstere Kraft enthält.<br><br>Der majestätische Winddrache wurde von einem Käfig aus drei Giften festgehalten:<br>Das Blut, das er schluckte, die Lügen aus dem Abgrund und der Schmerz, verlassen worden zu sein.<br>Mit tränenerfüllten Augen und den tröstenden Worten eines Barden im Ohr wurden die Gerinnsel gelöst und der Drache aus seinem Netz befreit.<br>Vielleicht war das alles nur möglich, weil eine vom Wind hergeführte Reisende aus der Ferne ihren Teil dazu beigetragen hat.",
         "Src": [],
         "Icon": "UI_ItemIcon_100584"
     },
     "100585": {
         "_id": 100585,
         "R": 5,
-        "Name": "Monolith Fragment",
-        "Desc": "Some kind of fragment recovered after defeating the Overlord of the Vortex in battle.<br>In the ancient past, it was used to pin the great beast down.<br><br>There once was a time when the inhabitants of this land were terrorized by waves as tall as mountains, torn from their dreams in the dead of night by the deafening roar of tidal waves that would shake the world to its core. Fear of such horrors gradually subsided over the years as peace became the norm.<br>But no matter: though That Which Lies In The Deep awakens once more, it is powerless to prevent the dawning of a new era.<br>Perhaps this is just what the one who suppressed the Overlord of the Vortex has been hoping to witness in the millennia since.",
+        "Name": "Monolithenbruchstück",
+        "Desc": "Ein Fragment, das du nach dem Sieg über den Herrscher des Wirbels erhalten hast.<br>Hiermit wurde in ferner Vergangenheit der Herrscher des Wirbels im Zaum gehalten.<br><br>Es war einmal eine Zeit, in der die Bewohner dieses Landes von berghohen Wellen terrorisiert wurden, die mitten in der Nacht durch das ohrenbetäubende Tosen der Flutwellen, die die Welt bis ins Mark erschütterten, alle Menschen aus ihren Träumen rissen. Die Angst vor solchen Schrecken ließ im Laufe der Jahre allmählich nach, als Frieden zur Norm wurde.<br>Auch wenn der alte Gott, der in der Tiefe liegt, wieder erwacht, ist er machtlos, den Anbruch einer neuen Ära zu verhindern.<br>Vielleicht ist dies genau das, was derjenige, der diesen mächtigen Gott versiegelt hatte, in den Jahrtausenden seither zu sehen gehofft hatte.",
         "Src": [],
         "Icon": "UI_ItemIcon_100585"
     },
     "100957": {
         "_id": 100957,
         "R": 5,
-        "Name": "Funerary Mask",
-        "Desc": "A trophy obtained from defeating Signora, Eighth of the Fatui Harbingers.<br>The Fatui often face the world from behind their masks, and it is said that this is because all they once were mean nothing once they become Fatui, and thus must they forsake their true names and faces alike.<br><br>—Yet the act of giving up all that makes up an \"I\" — one's past and the bonds that come with it — is no mean feat.<br>Perhaps it is fair to say that only those who possess an obsession close to or even exceeding the level of delusion might be willing to join this group that so rebels against the Heavenly Principles, binding their remaining days to their Delusions and burning as brightly as stars.<br>...Of course, many within the Fatui are simply consumed by power and are simple sadists — nor are these states necessarily in conflict.<br><br>The woman whose real name was Rosalyne-Kruzchka Lohefalter may have once led a more innocent, naive existence.<br>But that was before her eyes were filled with a raging fire, and her innocent days were burned away. Before the icy Delusion extinguished the flaming tongues that ever gnawed her. Before the frozen might that protected her was shattered by the eternal outlander, unbound yet no less determined than she was, causing the flames to burst forth once more...",
+        "Name": "Bestattungsmaske",
+        "Desc": "Eine Beute, die man erhält, wenn man La Signora, die achte der Elf der Fatui, besiegt.<br>Man sagt, dass die Fatui der Welt oft hinter ihren Masken gegenübertreten, weil alles, was sie einst waren, nichts mehr bedeutet, wenn sie erst einmal Fatui geworden sind, und sie deshalb ihren wahren Namen und ihr wahres Gesicht aufgeben müssen.<br><br>Doch der Akt, alles aufzugeben, was das „Ich“ ausmacht, und zwar die eigene Vergangenheit und die damit verbundenen Bindungen, ist keine leichte Aufgabe.<br>Vielleicht kann man sagen, dass nur diejenigen, die eine Besessenheit besitzen, die dem Wahn nahe kommt oder ihn sogar übertrifft, bereit sein könnten, sich dieser Gruppe anzuschließen, die so sehr gegen die himmlischen Ordnung auflehnt, ihre verbleibenden Tage an ihre Teuflischen Augen bindet und so hell wie Sterne brennt.<br>... Natürlich sind viele innerhalb der Fatui einfach nur machtbesessen oder einfache Sadisten. Sie hegen aber keine starke Abneigung gegeneinander. Für sie gilt wohl der Spruch: „Gleich und Gleich gesellt sich gern“.<br><br>Die Frau, deren richtiger Name Rosalyne-Kruzchka Lohefalter war, mag einst ein unschuldiges, naives Mädchen gewesen sein.<br>Aber das war, bevor ihre Augen von einem wütenden Feuer erfüllt wurden und ihre unschuldigen Tage weggebrannt wurden ... bevor das eisige Teuflische Auge die flammenden Zungen auslöschte, die jemals an ihr nagten ... bevor die gefrorene Macht, die sie schützte, von dem ewigen Fremden zerbrochen wurde, der ungebunden, aber nicht weniger entschlossen war als sie selbst ... Und dann wurden die Flammen erneut zum Ausbruch gebracht ...",
         "Src": [],
         "Icon": "UI_ItemIcon_100957"
     },
     "120127": {
         "_id": 120127,
         "R": 5,
-        "Name": "Silver Twig",
-        "Desc": "A new branch taken from the center of the world.<br>There was once a giant tree that ran across the world, and this twig was part of it. Though it has been removed from the tree, their connection remains strong as ever. Therefore, as long as the giant white tree that symbolizes the center of the world does not die, it will never wither.<br><br>\"Trees\" symbolize life. In one of the stories from a certain place, there was a person who had entrusted her consciousness to the white tree's branches before she passed away. In that way, neither her life nor hope would be lost, since the branches would grow and sprout where there was sunshine and rain, and would one day blossom and bear fruits.<br>\"Trees\" also symbolize wisdom. In one of the legends, a sage hanging upside down on a tree had acquired the knowledge of how to inscribe runes and control sacred words, and thus followed the kingdom established along the tree's roots, eventually gaining a glimpse of the secret of the cosmos.<br>All knowledge, memory, and experience flow through this giant tree, just like a stream flows into a river, the river joins a sea, the sea turns into clouds, and the clouds rain onto the ground — just like life itself.",
+        "Name": "Weißer Ast",
+        "Desc": "Ein frischer Ast aus dem Zentrum der Welt.<br>Es war einmal ein riesiger Baum, dessen Äste sich über die ganze Welt erstreckten, und dieser Ast war einer davon. Obwohl er vom Baum entfernt wurde, bleibt ihre Verbindung nicht unterbrochen. Daher wird dieser Ast niemals verdorren, solange der riesige weiße Baum, der das Zentrum der Welt symbolisiert, nicht stirbt.<br><br>„Bäume“ symbolisieren das Leben. In einer Geschichte gab es eine Person, die ihr Bewusstsein an die Äste des weißen Baums anvertraute, bevor sie starb. So gehen weder Leben noch Hoffnung verloren, denn wo Sonne und Regen ist, werden die Äste wachsen und sprießen und eines Tages Früchte tragen.<br>„Bäume“ symbolisieren auch die Weisheit. In einer Legende hing ein Weiser kopfüber an einem Baum, lernte, Runen zu gravieren und heilige Worte zu kontrollieren, und konnte schließlich durch das Reich aus Baumwurzeln einen Blick auf die Geheimnisse des Himmels werfen.<br>Alles Wissen, alle Erinnerungen und Erfahrungen fließen aus den Wurzeln dieses riesigen Baums, wie Bäche, die in Flüsse münden, Flüsse, die in Meere münden, Meere, die sich in Wolken und Regen verwandeln, die dann auf die Erde fallen – genauso wie das Leben selbst.",
         "Src": [],
         "Icon": "UI_ItemIcon_120127"
     },
     "129001": {
         "_id": 129001,
         "R": 5,
-        "Name": "Tears Among the Stars",
-        "Desc": "A drop of water obtained from within the colossal beast who coveted the primordial sea of life.<br><br>A philosopher in the faraway ancient world once posited that where there is life, there is death; naturally where there is death, there is life.<br>If not, then the fleeting light cannot resist the eternal darkness, and all withers into nothingness at the end of time.<br>The rules among the stars dictate that nature must be conserved, but the laws of the universe have never been conserved.<br>In a sealed box, destruction always overpowers new life. Millennia upon millennia of prosperity are but an instant in a span of billions of years. The greatest of achievements, the proudest accomplishments, in time all will tarnish, decay, dissipate, and ultimately fade into oblivion.<br>Thus there are things floating in among the stars, once adorned with countless prestigious titles from innumerable civilizations, shedding tears for their ordained demise.<br>Their tears stream down, out of desperation, out of hope, because all desperation and hope alike will be utterly extinguished along with the innumerable stars.<br>Their tears stream down out of sorrow, out of joy, because both will eventually scatter into the cold, dark endless void.<br>Every tiny yet beautiful silhouette and every moment worth remembering will fade with time, even stars.<br>And then there are these so-called \"gods\" that are determined to save everything worth saving, and devour everything that should be devoured.<br>Until the end of time, until the sea of stars recess into nothing but dying embers, until a newborn \"world\" moves for the first time in the stomach of the whale.<br>\"There will be no more sins, no more sadness, and no more tears, because everything died with the ancient stars.\"",
+        "Name": "Tränen zwischen den Sternen",
+        "Desc": "Ein Tropfen Wasser, der dem Ungetüm entnommen wurde, welchem es nach dem Urmeer des Lebens gelüstete.<br><br>Wo es Geburt gibt, da muss es auch Sterben geben. Und wo es Sterben gibt, da gibt es auch Geburt, so mutmaßte einst ein Philosoph einer fernen und uralten Welt.<br>Wäre dem nicht so, so könnte der flüchtige Strom des Lichts einer ewigen Finsternis nicht standhalten, und am Ende der Zeit würde alles verwelken in Dunkelheit.<br>Das Gesetz der Sterne, das Gesetz des Kosmos, es sollte auf natürliche Weise erhalten bleiben. Allerdings, das Gesetz des Kosmos, nie war es eine Konstante.<br>In einer geschlossenen Box obsiegt das Sterben immer über das Entstehen neuen Lebens. Millionen der Jahre des Wohlstandes sind nur ein Wimpernschlag in Milliarden von Jahren. Und der Ruhm, mit dem man sich schmücken kann, wird immer rosten, verfaulen, sich auflösen und schließlich in Vergessenheit geraten.<br>Und so vergossen die, die zwischen den Sternen schwebten, die, die zahllose Namen in zahllosen Zivilisationen trugen, für den Moment der verdammten Stille ihre Tränen.<br>Ihre Tränen der Verzweiflung, ihre Tränen der Hoffnung, denn alle Verzweiflung und alle Hoffnung, sie werden schließlich zusammen mit den Abermillionen leuchtender Sterne erlöschen.<br>Ihre Tränen des Kummers, ihre Tränen des Glücks, denn aller Kummer und alles Glück werden in der kalten, dunklen, endlosen Leere verstreut.<br>Alle Gestalten, klein, doch wunderschön, alle Momente, gehütet in Erinnerung, sie alle werden verblassen in der Zeit, ja selbst die Sterne sind nicht gefeit vor ihr.<br>Und so kam es, dass das, was dereinst „göttlich“ genannt wurde, entschlossen war, alles zu bewahren, was bewahrt werden sollte, entschlossen, alles zu verschlingen, was verschlungen werden sollte.<br>Bis ans Ende der Zeit, bis das Meer einsamer Sterne verbrannt war zu erkalteter Glut, in jenem Moment wird da entstehen eine ganz neue „Welt“, geboren im Leib des Narwals.<br>„Keine Sünde mehr, keine Trauer, kein Bedauern, keine Tränen. Denn alles ist längst entschwunden zu den Sternen alter Zeiten.“",
         "Src": [],
         "Icon": "UI_ItemIcon_129001"
     },
     "220027": {
         "_id": 220027,
         "R": 4,
-        "Name": "Wind-Blessed Harpastum",
-        "Desc": "A harpastum made from pure bird feathers and strong fabric. It is the centerpiece of Ludi Harpastum, the traditional festival of Mondstadt.<br>Birds are creatures that ride the wind, and thus do their feathers also carry \"blessings borne on the wind.\" As such, the people of Mondstadt believe that harpasta can not only bring the blessings of Barbatos but that they also contain a strange power...",
+        "Name": "Windsegen-Harpastum",
+        "Desc": "Ein Harpastum aus reinen Vogelfedern und starkem Stoff. Es ist das Herzstück von Ludi Harpastum, dem traditionellen Fest von Mondstadt.<br>Vögel sind Wesen, die auf dem Wind reiten, und so tragen ihre Federn auch „Segen, der vom Wind getragen wird.“ So glauben die Menschen in Mondstadt, dass Harpastum nicht nur den Segen Barbatos bringen kann, sondern auch eine seltsame Kraft in sich trägt ...",
         "Src": [],
         "Icon": "UI_ItemIcon_220027"
     },
     "221015": {
         "_id": 221015,
         "R": 4,
-        "Name": "Diagram: Kitain Cross Spear",
-        "Desc": "A detailed step-by-step diagram for making a Kitain Cross Spear (Polearm).",
+        "Name": "Bauplan: Kitain-Kreuzlanze",
+        "Desc": "Bauplan mit detaillierten Schritten zur Herstellung von der Stangenwaffe „Kitain-Kreuzlanze“.",
         "Src": [],
         "Icon": "UI_ItemIcon_221003"
     },
     "333045": {
         "_id": 333045,
         "R": 3,
-        "Name": "Friendship Eternal",
-        "Desc": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance.",
+        "Name": "Ewig währende Freundschaft",
+        "Desc": "Eine sehr feste Karte aus dem Kartenspiel „Geniale Beschwörung“. Die Illustration auf der Bildseite hat dank eines speziellen Druckverfahrens ein sehr feines Aussehen.",
         "Src": [],
         "Icon": "UI_Gcg_CardFace_Event_Event_Yongyuandeyouyi"
     },
     "339021": {
         "_id": 339021,
         "R": 3,
-        "Name": "Lazurite Swirl",
-        "Desc": "A Genius Invokation TCG card back that can be obtained and switched around. They say that card backs with different designs also come with minute differences in make and texture. Some players also make collecting card backs of different styles their pursuit and hobby.",
+        "Name": "Lasurit-Strudel",
+        "Desc": "Ein Kartenrücken, den man im Kartenspiel „Geniale Beschwörung“ erhalten und verwenden kann. Man sagt, verschiedene Kartenrücken sollen aus unterschiedlichen Materialien bestehen, die sich auch in der Haptik leicht unterscheiden. An Kartenbeschwörern, die diese Kartenrücken mit Freude sammeln, mangelt es nicht.",
         "Src": [],
         "Icon": "UI_Gcg_CardBack_Dvalin"
     },
     "339901": {
         "_id": 339901,
         "R": 4,
-        "Name": "Beginner Player Badge",
-        "Desc": "They say that anyone who starts out with Genius Invokation TCG can obtain this particular Player Badge.<br>Even the mightiest player starts from this point, building their personal legends as they go along.<br>Stay tuned, player — your saga begins here!",
+        "Name": "Kartenspielwappen – Anfänger",
+        "Desc": "Man sagt, dies sei ein Wappen, das jeder erhält, der anfängt, Geniale Beschwörung zu spielen.<br>Sogar die größten Kartenbeschwörer sind mit diesem kleinen Wappen ihren langen Weg zur „Legende“ angetreten.<br>Bleib daran, deine Legende fängt nun an!",
         "Src": [],
         "Icon": "UI_GcgIcon_CardLevel1"
     },
     "394204": {
         "_id": 394204,
         "R": 3,
-        "Name": "Square Yumemiru Stool",
-        "Desc": "A detailed step-by-step blueprint for making a Square Yumemiru Stool.<br>After using this item, you can view it in the Creation Screen.",
+        "Name": "Hocker aus Yumemiru-Holz",
+        "Desc": "Bauplan mit detaillierten Schritten zur Herstellung von „Hocker aus Yumemiru-Holz“.<br>Nach der Anwendung im Herstellungsmenü zu finden.",
         "Src": [],
         "Icon": "UI_ItemIcon_Home_Common"
     },
     "11302": {
         "R": 3,
-        "Name": "Harbinger of Dawn",
-        "Desc": "A sword that once shone like the sun. The wielder of this sword will be blessed with a \"feel-good\" buff. The reflective material on the blade has long worn off.",
+        "Name": "Schwert der Dämmerung",
+        "Desc": "Ein wertvolles Schwert, das einst wie die Sonne glänzte. Hält man es in der Hand, fühlt man sich überaus selbstbewusst. Das leuchtende Material hat sich mit der Zeit abgenutzt.",
         "Icon": "UI_EquipIcon_Sword_Dawn",
         "Type": 1
     },
     "11303": {
         "R": 3,
-        "Name": "Traveler's Handy Sword",
-        "Desc": "A handy steel sword which contains scissors, a magnifying glass, tinder, and other useful items in its sheath.",
+        "Name": "Reiseschwert",
+        "Desc": "Ein praktisches Schwert aus Stahl, in dessen Scheide sich unter anderem Schere, Fernglas und Zunder für die Reise befinden.",
         "Icon": "UI_EquipIcon_Sword_Traveler",
         "Type": 1
     },
     "11416": {
         "R": 4,
         "Name": "Kagotsurube Isshin",
-        "Desc": "This famed blade was born in a nation to the far north. But in the name of \"Isshin,\" it was stained with many a dark deed on its home-bound journey.",
+        "Desc": "Diese im fernen Norden geschmiedete Klinge wurde einst auf ihrem Heimweg im Namen „Isshin“ mit unzähligen Sünden befleckt.",
         "Icon": "UI_EquipIcon_Sword_Youtou",
         "Type": 1
     },
     "14303": {
         "R": 3,
-        "Name": "Otherworldly Story",
-        "Desc": "A cheap fantasy novel with no value whatsoever. Any claim that it possesses the power of catalysis is also pure fantasy.",
+        "Name": "Geschichten einer anderen Welt",
+        "Desc": "Ein nahezu wertloser Fantasyroman. Auch seine Nutzung als magischer Katalysator entspringt eher der Fantasie.",
         "Icon": "UI_EquipIcon_Catalyst_Lightnov",
         "Type": 1
     },
     "15303": {
         "R": 3,
-        "Name": "Recurve Bow",
-        "Desc": "It is said that this bow can shoot down eagles in flight, but ultimately how true that is depends on the skill of the archer.",
+        "Name": "Reflexbogen",
+        "Desc": "Mit diesem Jagdbogen soll man selbst einen Adler im Flug aus dem Himmel holen können. Das hängt aber doch sehr stark von der Kunst des Schützen ab.",
         "Icon": "UI_EquipIcon_Bow_Curve",
         "Type": 1
     },
     "15401": {
         "R": 4,
-        "Name": "Favonius Warbow",
-        "Desc": "A standard-issue recurve bow of the Knights of Favonius. Only the best archers can unleash its full potential.",
+        "Name": "Favonius-Jagdbogen",
+        "Desc": "Der Standardreflexbogen des Ordo Favonius, den nur die besten Schützen bedienen und seine Leistung voll ausnutzen können.",
         "Icon": "UI_EquipIcon_Bow_Zephyrus",
         "Type": 1
     },

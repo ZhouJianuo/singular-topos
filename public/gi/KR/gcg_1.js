@@ -9785,214 +9785,214 @@ var _card = [
         {
             "_id": 128,
             "Icon": "UI_Gcg_CardBack_Championship_04",
-            "Name": "The Chasm: Blue Crystal",
-            "Desc": "A Card Back won by achieving excellent results in open Genius Invokation TCG tournaments.<br>An indigo-colored mineral that signals the way forward, promising endless adventures along a road extending to the horizon. With its abundant mineral reserves, who knows what untold riches The Chasm still holds...",
+            "Name": "층암거연 · 짙푸른 결정",
+            "Desc": "일곱 성인의 소환 대회에서 우수한 성적을 거두면 획득할 수 있는 카드 뒷면.<br>짙푸른 광석의 색은 저 멀리 뻗어 나가는 모험의 길을 밝혀주는 신호다. 층암거연에 잠들어 있는 수많은 광물은 하나같이 엄청난 가치를 품고 있다…",
             "Unlock": ""
         },
         {
             "_id": 127,
             "Icon": "UI_Gcg_CardBack_Championship_03",
-            "Name": "The Chasm: Solid Iron",
-            "Desc": "A Card Back won by achieving excellent results in open Genius Invokation TCG tournaments.<br>An iron-colored mineral that forms the base of farm tools and weapons alike. With its abundant mineral reserves, who knows what untold riches The Chasm still holds...",
+            "Name": "층암거연 · 강철",
+            "Desc": "일곱 성인의 소환 대회에서 우수한 성적을 거두면 획득할 수 있는 카드 뒷면.<br>단단한 강철의 색은 농기구와 무기의 근본이 되는 색상이다. 층암거연에 잠들어 있는 수많은 광물은 하나같이 엄청난 가치를 품고 있다…",
             "Unlock": ""
         },
         {
             "_id": 126,
             "Icon": "UI_Gcg_CardBack_Championship_02",
-            "Name": "Dragonspine: Crown",
-            "Desc": "A Card Back won by achieving excellent results in open Genius Invokation TCG tournaments.<br>The splendor of Dragonspine at daybreak, as the symbol of a duelist, symbolizes the \"summit\" of their skill...",
+            "Name": "드래곤 스파인 · 왕관",
+            "Desc": "일곱 성인의 소환 공개 대회에 참여해 우수한 전적을 달성하면 얻을 수 있는 카드 뒷면.<br>동이 틀 때의 드래곤 스파인은 모험가에겐 마치 왕관과도 같다. 그리고 플레이어에게 주어지는 징표로서의 그것은 「정상」급의 실력을 상징한다",
             "Unlock": ""
         },
         {
             "_id": 125,
             "Icon": "UI_Gcg_CardBack_Championship_01",
-            "Name": "Dragonspine: Traces",
-            "Desc": "A Card Back won by achieving excellent results in open Genius Invokation TCG tournaments.<br>Silent Dragonspine under the starry night is one of the highest goals and most dangerous places for an adventurer to conquer.",
+            "Name": "드래곤 스파인 · 흔적",
+            "Desc": "일곱 성인의 소환 시 대회에서 우수한 전적을 기록하면 획득할 수 있는 카드 뒷면.<br>고요한 별밤 아래의 드래곤 스파인은 모험가들이 정복하기 힘든 위험 지대이자 지고의 목표다…",
             "Unlock": ""
         },
         {
             "_id": 124,
             "Icon": "UI_Gcg_CardBack_Prison",
-            "Name": "The Fortress of Meropide",
-            "Desc": "\"The underwater Fortress, where the exiles gather...\"",
-            "Unlock": "Rag and Bone Shop Credit Coupon Exchange"
+            "Name": "메로피드 요새",
+            "Desc": "「물 아래의 요새이자 추방자들이 모이는 곳이다…」",
+            "Unlock": "「허름한 뼈다귀 상점」에서 특별 허가 쿠폰으로 교환"
         },
         {
             "_id": 123,
             "Icon": "UI_Gcg_CardBack_Fontaine",
-            "Name": "Fontaine",
-            "Desc": "One must remember the various \"systems\" of card games by heart, before they can nimbly utilize the \"rules\" reasonably to put on a most spectacular \"performance.\"",
-            "Unlock": "Fontaine Reputation Level Reward"
+            "Name": "폰타인",
+            "Desc": "카드 게임의 「규칙」을 빠짐없이 기억해야만, 「법칙」을 유연하고 기민하게 활용하여 대전에서 최고의 「연출」을 선보일 수 있다",
+            "Unlock": "폰타인 평판 등급 보상에서 획득"
         },
         {
             "_id": 122,
             "Icon": "UI_Gcg_CardBack_Thoarder",
-            "Name": "Treasures of the Deck",
-            "Desc": "Treasures are gained and used only for the moment, and their contents are never quite the same. What treasures lie within your cards this time?",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "덱 속의 보물",
+            "Desc": "보물의 획득과 사용은 순식간에 이루어지지만, 그 속에 담긴 것은 매번 다르다. 지금 이 순간, 당신의 덱에는 어떤 보물이 숨겨져 있을까?",
+            "Unlock": "카드 상점 구매 획득"
         },
         {
             "_id": 121,
             "Icon": "UI_Gcg_CardBack_Dvalin",
-            "Name": "Lazurite Swirl",
-            "Desc": "A special card back customized by the renowned artist Calx.<br>\"Like the Dragon of the East, stretch your wings more freely on this battlefield of cards!\"",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "청금색 소용돌이",
+            "Desc": "유명 일러스트레이터 「백악」이 제작한 특수한 카드 뒷면.<br>「동풍의 용처럼 이 작은 전장에서 날개를 펼쳐라!」",
+            "Unlock": "카드 상점 구매 획득"
         },
         {
             "_id": 120,
             "Icon": "UI_Gcg_CardBack_Dendrobium",
-            "Name": "Dendrobium",
-            "Desc": "If only all battles could be fought on the tabletop...",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "혈곡",
+            "Desc": "모든 싸움이 테이블 안에서만 벌어질 수 있다면…",
+            "Unlock": "카드 상점 구매 획득"
         },
         {
             "_id": 119,
             "Icon": "UI_Gcg_CardBack_GlazeLily",
-            "Name": "Glaze Lily",
-            "Desc": "The ancient tales of mortal realms have passed away. Now, only the fragrant name of the flowers remains.",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "유리백합",
+            "Desc": "과거의 이야기는 모두 자취를 감췄고, 그곳에 남아있는 것은 오직 꽃의 이름뿐",
+            "Unlock": "카드 상점 구매 획득"
         },
         {
             "_id": 118,
             "Icon": "UI_Gcg_CardBack_Cecilia",
-            "Name": "Cecilia",
-            "Desc": "Are those who have the breeze and the dew for company the only ones who may enjoy the dawn's first light?",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "세실리아꽃",
+            "Desc": "서늘한 바람과 차가운 이슬을 택한 자만이 여명의 첫 빛줄기를 독차지할 수 있는 것일까?",
+            "Unlock": "카드 상점 구매 획득"
         },
         {
             "_id": 117,
             "Icon": "UI_Gcg_CardBack_DandelionSeed",
-            "Name": "Dandelion Seed",
-            "Desc": "Hope and patience are close companions.",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "민들레 씨앗",
+            "Desc": "희망과 기다림은 언제나 함께한다",
+            "Unlock": "카드 상점 구매 획득"
         },
         {
             "_id": 116,
             "Icon": "UI_Gcg_CardBack_ElectroCrystal",
-            "Name": "Electro Crystal",
-            "Desc": "Will aggressive methods be of any use? This is not the only thing balanced on a hair trigger!",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "전기 수정",
+            "Desc": "과연 자극 요법이 효과가 있을까? 불씨 하나에 폭발하는 건 이것뿐만이 아니다",
+            "Unlock": "카드 상점 구매 획득"
         },
         {
             "_id": 115,
             "Icon": "UI_Gcg_CardBack_MistFlowerCorolla",
-            "Name": "Mist Flower Corolla",
-            "Desc": "\"To concede gracefully is your inevitable end.\"",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "서리꽃 꽃술",
+            "Desc": "「얌전히 패배를 인정하는 것, 그것이 네게 예정된 결말이다」",
+            "Unlock": "카드 상점 구매 획득"
         },
         {
             "_id": 114,
             "Icon": "UI_Gcg_CardBack_FlamingFlowerStamen",
-            "Name": "Flaming Flower Stamen",
-            "Desc": "\"My duelist's soul is aflame!\"",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "화염꽃 꽃술",
+            "Desc": "「플레이어로서의 내 영혼이 불타오르고 있어!」",
+            "Unlock": "카드 상점 구매 획득"
         },
         {
             "_id": 113,
             "Icon": "UI_Gcg_CardBack_AmethystLump",
-            "Name": "Amethyst Lump",
-            "Desc": "Adapting to where you are is also a form of wisdom.",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "자수정 덩이",
+            "Desc": "적응하는 것, 그 또한 하나의 지혜다",
+            "Unlock": "카드 상점 구매 획득"
         },
         {
             "_id": 112,
             "Icon": "UI_Gcg_CardBack_MagicalCrystalChunk",
-            "Name": "Magical Crystal Chunk",
-            "Desc": "Time gives this value.",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "마법 수정석 조각",
+            "Desc": "시간은 이것에 가치를 부여한다",
+            "Unlock": "카드 상점 구매 획득"
         },
         {
             "_id": 111,
             "Icon": "UI_Gcg_CardBack_CrystalChunk",
-            "Name": "Crystal Chunk",
-            "Desc": "If well-honed, suitable material can truly show its quality.",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "수정덩이",
+            "Desc": "적절한 연마는 소재의 진가를 드러나게 한다",
+            "Unlock": "카드 상점 구매 획득"
         },
         {
             "_id": 110,
             "Icon": "UI_Gcg_CardBack_HandbookReward",
-            "Name": "Adept",
-            "Desc": "There is no conundrum you cannot solve, nothing beyond your power to do. We salute you!",
-            "Unlock": "Reward for completing all objectives in the 4th match of the TCG Player's Manual"
+            "Name": "달인",
+            "Desc": "풀리지 않는 난제란 없고, 불가능한 일은 존재하지 않는 법. 당신에게 갈채를 보낸다!",
+            "Unlock": "플레이어 핸드북 4라운드의 모든 목표 달성 후 획득"
         },
         {
             "_id": 109,
             "Icon": "UI_Gcg_CardBack_LevelReward",
-            "Name": "Legend",
-            "Desc": "You have come far indeed to become a Legend, but the road ahead is still long.",
-            "Unlock": "Reward for reaching Player Level 10"
+            "Name": "레전드",
+            "Desc": "플레이어로서 기나긴 길을 걸어왔지만, 아직도 가야 할 길은 많이 남아있다",
+            "Unlock": "플레이어 Lv.10 달성 후 레벨 보상에서 획득"
         },
         {
             "_id": 104,
             "Icon": "UI_Gcg_CardBack_Sumeru",
-            "Name": "Sumeru",
-            "Desc": "To think one or two steps ahead is amateur work. Truly expert players can even see fifty or a hundred steps ahead.<br>And it would be a simple matter, would it not?",
-            "Unlock": "Reward for reaching Player Level 8"
+            "Name": "수메르",
+            "Desc": "한두 수를 미리 읽는 것은 초보자도 가능한 일. 숙련된 플레이어라면 50수, 100수 앞까지도 읽어낼 수 있다.<br>사실 그리 어려운 일은 아니다. 그렇지 않은가?",
+            "Unlock": "플레이어 Lv.8 달성 후 레벨 보상에서 획득"
         },
         {
             "_id": 103,
             "Icon": "UI_Gcg_CardBack_Inazuma",
-            "Name": "Inazuma",
-            "Desc": "But an instant there is, for cards to be played. Play swiftly enough, and even transience itself shall fall before you.",
-            "Unlock": "Reward for reaching Player Level 6"
+            "Name": "이나즈마",
+            "Desc": "카드는 전광석화처럼 내야 하는 법. 그리고 그 순간, 승부는 결정이 난다",
+            "Unlock": "플레이어 Lv.6 달성 후 레벨 보상에서 획득"
         },
         {
             "_id": 102,
             "Icon": "UI_Gcg_CardBack_Liyue",
-            "Name": "Liyue",
-            "Desc": "Every journey must start with a first step. Build your deck with a steady hand, and steady shall the road to victory be.",
-            "Unlock": "Reward for reaching Player Level 4"
+            "Name": "리월",
+            "Desc": "천 리 길도 한걸음부터다. 승리를 향해 나아가려면 견고한 덱을 짜는 것부터 시작해야 한다",
+            "Unlock": "플레이어 Lv.4 달성 후 레벨 보상에서 획득"
         },
         {
             "_id": 101,
             "Icon": "UI_Gcg_CardBack_Mengde",
-            "Name": "Mondstadt",
-            "Desc": "Freedom is the first principle of cards.<br>Freely you organize your deck, freely you choose your opponents, and freely you play your hand.<br>...Or perhaps you might use that freedom to not play at all, and do something else with the cards you have in hand.",
-            "Unlock": "Reward for reaching Player Level 2"
+            "Name": "몬드",
+            "Desc": "카드 게임의 첫 번째 원칙은 자유로움이다.<br>자유롭게 덱을 구성하고, 자유롭게 상대를 선택하고, 자유롭게 다음 카드를 뽑는 것이다.<br>…어쩌면 그 자유를 사용해서 카드 게임 대신 다른 일을 할 수도 있고 말이다",
+            "Unlock": "플레이어 Lv.2 달성 후 레벨 보상에서 획득"
         },
         {
             "_id": 0,
             "Icon": "UI_Gcg_CardBack_01",
-            "Name": "Origin",
-            "Desc": "Betwixt day and night, between heaven and earth,<br>That is where hopes and dreams sojourn.",
-            "Unlock": "Obtain for the first time"
+            "Name": "태초",
+            "Desc": "어둠과 여명 사이, 대지와 하늘 사이<br>그곳이 바로 희망과 꿈이 머무는 곳이다",
+            "Unlock": "시작 획득"
         }
     ],
     [
         {
             "_id": 104,
             "Icon": "UI_Gcg_Cardtable_Fd",
-            "Name": "Fontaine",
-            "Desc": "The clear waters eternally flow, and with the light rain, they fall upon every corner of the continent. Finite sin will someday dissipate, yet the world's theatrics shall never cease.",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "폰타인",
+            "Desc": "맑은 물은 끝없이 흐르며 이슬비와 함께 대륙 곳곳에 내린다. 유한한 죄악은 언젠가 반드시 사라지겠지만 세계의 연극은 영원히 막을 내리지 않는다",
+            "Unlock": "카드 상점 구매 획득"
         },
         {
             "_id": 103,
             "Icon": "UI_Gcg_Cardtable_Xm",
-            "Name": "Sumeru",
-            "Desc": "Oh grass of wisdom, weep not!<br>Even the travail through searing winds must end.<br>The blessed rains will fall, and the flowers shall bloom...<br>Hearken! The song of the verdant garden is sung once more.",
-            "Unlock": "Reward for reaching Player Level 7"
+            "Name": "수메르",
+            "Desc": "지혜로운 풀이여, 슬퍼하지 말아라!<br>황량한 모래 위의 여정이 끝나간다.<br>자애로운 비가 모래를 적시고, 꽃이 피어난다…<br>들어라, 녹빛으로 물든 향원의 멜로디가 또다시 울려 퍼진다",
+            "Unlock": "플레이어 Lv.7 달성 후 레벨 보상에서 획득"
         },
         {
             "_id": 102,
             "Icon": "UI_Gcg_Cardtable_Dq",
-            "Name": "Inazuma",
-            "Desc": "Lightning flashes, then passes, illuminating the solitude of thunder.<br>Dreams of madness come and go — all things are impermanent.",
-            "Unlock": "Reward for reaching Player Level 5"
+            "Name": "이나즈마",
+            "Desc": "자색 뇌광은 찰나에 스치고, 뇌신은 홀로 방황한다.<br>미몽은 만남과 헤어짐을 반복하니, 세상사는 모두 무상하다",
+            "Unlock": "플레이어 Lv.5 달성 후 레벨 보상에서 획득"
         },
         {
             "_id": 101,
             "Icon": "UI_Gcg_Cardtable_Ly",
-            "Name": "Liyue",
-            "Desc": "As eternal as the moon, as long-lasting as the rising sun.<br>By earth and hill and bedrock shall all things prosper.",
-            "Unlock": "Reward for reaching Player Level 3"
+            "Name": "리월",
+            "Desc": "달이 차오르고 해가 떠오르는 것처럼.<br>지상의 반석, 만물이 형통하다",
+            "Unlock": "플레이어 Lv.3 달성 후 레벨 보상에서 획득"
         },
         {
             "_id": 0,
             "Icon": "UI_Gcg_Cardtable_Md",
-            "Name": "Mondstadt",
-            "Desc": "The ceaseless whisper of the breeze plays upon the strings, creating a lovely music.<br>The passionate talk of the wind and flowers is blown away, falling into the heart of the clear spring.",
-            "Unlock": "Obtain for the first time"
+            "Name": "몬드",
+            "Desc": "살랑이는 푸른 바람이 악기의 현을 튕겨 속삭임을 연주한다.<br>바람에 실린 다정한 이야기는 흩어지고, 나풀나풀 샘물 밑바닥에 가라앉네",
+            "Unlock": "시작 획득"
         }
     ]
 ]

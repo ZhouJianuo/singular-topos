@@ -9785,177 +9785,177 @@ var _card = [
         {
             "_id": 128,
             "Icon": "UI_Gcg_CardBack_Championship_04",
-            "Name": "The Chasm: Blue Crystal",
-            "Desc": "A Card Back won by achieving excellent results in open Genius Invokation TCG tournaments.<br>An indigo-colored mineral that signals the way forward, promising endless adventures along a road extending to the horizon. With its abundant mineral reserves, who knows what untold riches The Chasm still holds...",
+            "Name": "Große Kluft – Blauer Kristall",
+            "Desc": "Ein Kartenrücken, der für die beeindruckenden Ergebnisse bei der Teilnahme an Turnieren von Geniale Beschwörung gewonnen wurde.<br>Ein indigofarbenes Erz, das dafür steht, dass sich der Weg ins Abenteuer in die Ferne erstreckt. Die riesigen Mineralreserven, die die Große Kluft birgt, sind nach wie vor unermessliche Reichtümer ...",
             "Unlock": ""
         },
         {
             "_id": 127,
             "Icon": "UI_Gcg_CardBack_Championship_03",
-            "Name": "The Chasm: Solid Iron",
-            "Desc": "A Card Back won by achieving excellent results in open Genius Invokation TCG tournaments.<br>An iron-colored mineral that forms the base of farm tools and weapons alike. With its abundant mineral reserves, who knows what untold riches The Chasm still holds...",
+            "Name": "Große Kluft – Solides Eisen",
+            "Desc": "Ein Kartenrücken, der für die beeindruckenden Ergebnisse bei der Teilnahme an Turnieren von Geniale Beschwörung gewonnen wurde.<br>Ein eisenfarbenes Erz, das die Basis für landwirtschaftliche Werkzeuge und Waffen darstellt. Die riesigen Mineralreserven, die die Große Kluft birgt, sind nach wie vor unermessliche Reichtümer ...",
             "Unlock": ""
         },
         {
             "_id": 126,
             "Icon": "UI_Gcg_CardBack_Championship_02",
-            "Name": "Dragonspine: Crown",
-            "Desc": "A Card Back won by achieving excellent results in open Genius Invokation TCG tournaments.<br>The splendor of Dragonspine at daybreak, as the symbol of a duelist, symbolizes the \"summit\" of their skill...",
+            "Name": "Drachengrat – Krone",
+            "Desc": "Ein Kartenrücken, den man mit hervorragenden Leistungen bei einem bestimmten öffentlichen Wettbewerb von Geniale Beschwörung gewinnen kann.<br>Der Drachengrat im Morgengrauen ist wie eine Krone im Lebenslauf eines Abenteurers und repräsentiert den „Gipfel“ seiner Stärke und Ausdauer.",
             "Unlock": ""
         },
         {
             "_id": 125,
             "Icon": "UI_Gcg_CardBack_Championship_01",
-            "Name": "Dragonspine: Traces",
-            "Desc": "A Card Back won by achieving excellent results in open Genius Invokation TCG tournaments.<br>Silent Dragonspine under the starry night is one of the highest goals and most dangerous places for an adventurer to conquer.",
+            "Name": "Drachengrat – Spurensuche",
+            "Desc": "Ein Kartenrücken, den man erhält, indem man an einem öffentlichen Wettbewerb von „Geniale Beschwörung“ teilnimmt und beträchtliche Kampferfolge erhält.<br>Der Drachengrat in der stillen Sternennacht ist ein gefährlicher Ort, den Abenteurer schwer überwinden können, und deshalb auch eines ihrer höchsten Ziele ...",
             "Unlock": ""
         },
         {
             "_id": 124,
             "Icon": "UI_Gcg_CardBack_Prison",
-            "Name": "The Fortress of Meropide",
-            "Desc": "\"The underwater Fortress, where the exiles gather...\"",
-            "Unlock": "Rag and Bone Shop Credit Coupon Exchange"
+            "Name": "Fort Méropide",
+            "Desc": "„Die Unterwasserfestung, in der sich die Verbannten versammeln ...“",
+            "Unlock": "Beim Knochenbrecherladen im Tausch gegen Tauschscheine zu erhalten"
         },
         {
             "_id": 123,
             "Icon": "UI_Gcg_CardBack_Fontaine",
             "Name": "Fontaine",
-            "Desc": "One must remember the various \"systems\" of card games by heart, before they can nimbly utilize the \"rules\" reasonably to put on a most spectacular \"performance.\"",
-            "Unlock": "Fontaine Reputation Level Reward"
+            "Desc": "Eine außergewöhnliche „Schau“ ist nur dann möglich, wenn man alle „Regeln“ dieses Duells kennt und weiß, wie man sie in einem Duell am besten einsetzt.",
+            "Unlock": "Belohnung für Ansehensstufe in Fontaine"
         },
         {
             "_id": 122,
             "Icon": "UI_Gcg_CardBack_Thoarder",
-            "Name": "Treasures of the Deck",
-            "Desc": "Treasures are gained and used only for the moment, and their contents are never quite the same. What treasures lie within your cards this time?",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "Schätze des Decks",
+            "Desc": "Schätze kommen und gehen im Handumdrehen, aber sie sind jedes Mal anders. Was für ein Schatz schlummert dieses Mal unter deinen Karten?",
+            "Unlock": "Beim Kartenhändler zu erstehen"
         },
         {
             "_id": 121,
             "Icon": "UI_Gcg_CardBack_Dvalin",
-            "Name": "Lazurite Swirl",
-            "Desc": "A special card back customized by the renowned artist Calx.<br>\"Like the Dragon of the East, stretch your wings more freely on this battlefield of cards!\"",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "Lasurit-Strudel",
+            "Desc": "Ein Kartenrücken, der speziell vom berühmten Maler „Calx“ entworfen wurde.<br>„Breite deine Flügel aus auf diesem reduzierten Schlachtfeld, als wärst du der Drache des Ostens!“",
+            "Unlock": "Beim Kartenhändler zu erstehen"
         },
         {
             "_id": 120,
             "Icon": "UI_Gcg_CardBack_Dendrobium",
             "Name": "Dendrobium",
-            "Desc": "If only all battles could be fought on the tabletop...",
-            "Unlock": "Purchased at the Card Shop"
+            "Desc": "Wenn nur alle Schlachten auf der Tischplatte geschlagen werden könnten ...",
+            "Unlock": "Beim Kartenhändler zu erstehen"
         },
         {
             "_id": 119,
             "Icon": "UI_Gcg_CardBack_GlazeLily",
-            "Name": "Glaze Lily",
-            "Desc": "The ancient tales of mortal realms have passed away. Now, only the fragrant name of the flowers remains.",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "Glaslilie",
+            "Desc": "Die alten Erzählungen der Sterblichen sind verklungen. Jetzt bleibt nur noch der duftende Name der Blumen.",
+            "Unlock": "Beim Kartenhändler zu erstehen"
         },
         {
             "_id": 118,
             "Icon": "UI_Gcg_CardBack_Cecilia",
             "Name": "Cecilia",
-            "Desc": "Are those who have the breeze and the dew for company the only ones who may enjoy the dawn's first light?",
-            "Unlock": "Purchased at the Card Shop"
+            "Desc": "Sind nur diejenigen, die die Brise und den Tau begleiten, in der Lage, das erste Licht der Morgendämmerung zu genießen?",
+            "Unlock": "Beim Kartenhändler zu erstehen"
         },
         {
             "_id": 117,
             "Icon": "UI_Gcg_CardBack_DandelionSeed",
-            "Name": "Dandelion Seed",
-            "Desc": "Hope and patience are close companions.",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "Löwenzahnsamen",
+            "Desc": "Hoffnung und Geduld gehen immer Hand in Hand.",
+            "Unlock": "Beim Kartenhändler zu erstehen"
         },
         {
             "_id": 116,
             "Icon": "UI_Gcg_CardBack_ElectroCrystal",
-            "Name": "Electro Crystal",
-            "Desc": "Will aggressive methods be of any use? This is not the only thing balanced on a hair trigger!",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "Elektrisierter Kristall",
+            "Desc": "Wozu die ganze Provokation? Das hier ist nicht das Einzige, was jederzeit explodieren kann.",
+            "Unlock": "Beim Kartenhändler zu erstehen"
         },
         {
             "_id": 115,
             "Icon": "UI_Gcg_CardBack_MistFlowerCorolla",
-            "Name": "Mist Flower Corolla",
-            "Desc": "\"To concede gracefully is your inevitable end.\"",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "Eisnebelblumenblüte",
+            "Desc": "„Würdevoll aufzugeben ist dein unvermeidliches Ende.“",
+            "Unlock": "Beim Kartenhändler zu erstehen"
         },
         {
             "_id": 114,
             "Icon": "UI_Gcg_CardBack_FlamingFlowerStamen",
-            "Name": "Flaming Flower Stamen",
-            "Desc": "\"My duelist's soul is aflame!\"",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "Flammenblumenstaubblatt",
+            "Desc": "„Meine Seele als Kartenbeschwörer glänzt wie die Sterne!“",
+            "Unlock": "Beim Kartenhändler zu erstehen"
         },
         {
             "_id": 113,
             "Icon": "UI_Gcg_CardBack_AmethystLump",
-            "Name": "Amethyst Lump",
-            "Desc": "Adapting to where you are is also a form of wisdom.",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "Amethyst-Brocken",
+            "Desc": "Flexibilität ist auch eine Form von Weisheit.",
+            "Unlock": "Beim Kartenhändler zu erstehen"
         },
         {
             "_id": 112,
             "Icon": "UI_Gcg_CardBack_MagicalCrystalChunk",
-            "Name": "Magical Crystal Chunk",
-            "Desc": "Time gives this value.",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "Brocken magisches Kristall",
+            "Desc": "Der Wert ergibt sich aus der Zeit.",
+            "Unlock": "Beim Kartenhändler zu erstehen"
         },
         {
             "_id": 111,
             "Icon": "UI_Gcg_CardBack_CrystalChunk",
-            "Name": "Crystal Chunk",
-            "Desc": "If well-honed, suitable material can truly show its quality.",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "Brocken Kristall",
+            "Desc": "Mit dem richtigen Training kann dein Talent zum Vorschein kommen.",
+            "Unlock": "Beim Kartenhändler zu erstehen"
         },
         {
             "_id": 110,
             "Icon": "UI_Gcg_CardBack_HandbookReward",
-            "Name": "Adept",
-            "Desc": "There is no conundrum you cannot solve, nothing beyond your power to do. We salute you!",
-            "Unlock": "Reward for completing all objectives in the 4th match of the TCG Player's Manual"
+            "Name": "Profi",
+            "Desc": "Für dich gibt es keine Frage ohne Antworten, keine Dinge sind unmöglich. Wir bewundern dich!",
+            "Unlock": "Nach Erreichen aller Ziele im Kartenbeschwörerhandbuch – Partie 4 zu erhalten"
         },
         {
             "_id": 109,
             "Icon": "UI_Gcg_CardBack_LevelReward",
-            "Name": "Legend",
-            "Desc": "You have come far indeed to become a Legend, but the road ahead is still long.",
-            "Unlock": "Reward for reaching Player Level 10"
+            "Name": "Legende",
+            "Desc": "Du hast es weit gebracht, um ein ausgezeichneter Kartenbeschwörer zu werden, doch bleibt immer noch ein weiter Weg zu gehen.",
+            "Unlock": "Als Belohnung fürs Erreichen der Kartenbeschwörerstufe 10 zu erhalten"
         },
         {
             "_id": 104,
             "Icon": "UI_Gcg_CardBack_Sumeru",
             "Name": "Sumeru",
-            "Desc": "To think one or two steps ahead is amateur work. Truly expert players can even see fifty or a hundred steps ahead.<br>And it would be a simple matter, would it not?",
-            "Unlock": "Reward for reaching Player Level 8"
+            "Desc": "Ein oder zwei Schritte vorauszudenken, ist nur amateurhaft. Wirklich erfahrene Kartenbeschwörer können sogar fünfzig oder hundert Schritte vorausschauen.<br>Und das wäre doch ganz einfach, oder?",
+            "Unlock": "Als Belohnung fürs Erreichen der Kartenbeschwörerstufe 8 zu erhalten"
         },
         {
             "_id": 103,
             "Icon": "UI_Gcg_CardBack_Inazuma",
             "Name": "Inazuma",
-            "Desc": "But an instant there is, for cards to be played. Play swiftly enough, and even transience itself shall fall before you.",
-            "Unlock": "Reward for reaching Player Level 6"
+            "Desc": "Wenn du beim Kartenspielen blitzschnell Entscheidungen triffst, kannst du im Handumdrehen gewinnen.",
+            "Unlock": "Als Belohnung fürs Erreichen der Kartenbeschwörerstufe 6 zu erhalten"
         },
         {
             "_id": 102,
             "Icon": "UI_Gcg_CardBack_Liyue",
             "Name": "Liyue",
-            "Desc": "Every journey must start with a first step. Build your deck with a steady hand, and steady shall the road to victory be.",
-            "Unlock": "Reward for reaching Player Level 4"
+            "Desc": "Auch der weiteste Weg beginnt mit einem ersten Schritt. Dein Weg zum Sieg beginnt mit dem Erstellen eines zuverlässigen Decks.",
+            "Unlock": "Als Belohnung fürs Erreichen der Kartenbeschwörerstufe 4 zu erhalten"
         },
         {
             "_id": 101,
             "Icon": "UI_Gcg_CardBack_Mengde",
             "Name": "Mondstadt",
-            "Desc": "Freedom is the first principle of cards.<br>Freely you organize your deck, freely you choose your opponents, and freely you play your hand.<br>...Or perhaps you might use that freedom to not play at all, and do something else with the cards you have in hand.",
-            "Unlock": "Reward for reaching Player Level 2"
+            "Desc": "Freiheit ist das Allerwichtigste beim Kartenspiel.<br>Frei organisiert man sein Deck, frei wählt man seine Gegner, frei spielt man seine Karten aus.<br>... Oder vielleicht kannst du dir auch die Freiheit nehmen, mit diesen Karten etwas anderes zu tun.",
+            "Unlock": "Als Belohnung fürs Erreichen der Kartenbeschwörerstufe 2 zu erhalten"
         },
         {
             "_id": 0,
             "Icon": "UI_Gcg_CardBack_01",
-            "Name": "Origin",
-            "Desc": "Betwixt day and night, between heaven and earth,<br>That is where hopes and dreams sojourn.",
-            "Unlock": "Obtain for the first time"
+            "Name": "Anbeginn",
+            "Desc": "Zwischen Tag und Nacht, zwischen Himmel und Erde,<br>dort halten sich Träume und Hoffnungen auf.",
+            "Unlock": "Standardmäßig zu erhalten"
         }
     ],
     [
@@ -9963,36 +9963,36 @@ var _card = [
             "_id": 104,
             "Icon": "UI_Gcg_Cardtable_Fd",
             "Name": "Fontaine",
-            "Desc": "The clear waters eternally flow, and with the light rain, they fall upon every corner of the continent. Finite sin will someday dissipate, yet the world's theatrics shall never cease.",
-            "Unlock": "Purchased at the Card Shop"
+            "Desc": "Die klaren Wasser fließen unaufhörlich, während die Tropfen des Nieselregen in jedem Winkel des Kontinents herniedergehen. Die endlichen Übel werden schließlich vergehen, doch das Drama dieser Welt wird niemals enden.",
+            "Unlock": "Beim Kartenhändler zu erstehen"
         },
         {
             "_id": 103,
             "Icon": "UI_Gcg_Cardtable_Xm",
             "Name": "Sumeru",
-            "Desc": "Oh grass of wisdom, weep not!<br>Even the travail through searing winds must end.<br>The blessed rains will fall, and the flowers shall bloom...<br>Hearken! The song of the verdant garden is sung once more.",
-            "Unlock": "Reward for reaching Player Level 7"
+            "Desc": "O Gras der Weisheit, weine nicht!<br>Selbst die Bitterkeit der feurigen Winde muss ein Ende haben.<br>Der gesegnete Regen wird fallen und die Blumen werden blühen ...<br>Höre! Die Melodie vom grünenden Garten wird nochmal gesungen.",
+            "Unlock": "Als Belohnung fürs Erreichen der Kartenbeschwörerstufe 7 zu erhalten"
         },
         {
             "_id": 102,
             "Icon": "UI_Gcg_Cardtable_Dq",
             "Name": "Inazuma",
-            "Desc": "Lightning flashes, then passes, illuminating the solitude of thunder.<br>Dreams of madness come and go — all things are impermanent.",
-            "Unlock": "Reward for reaching Player Level 5"
+            "Desc": "Das lila Licht blitzt auf und erhellt flüchtig die Narukami und ihre Einsamkeit.<br>Verrückte Träume kommen und gehen. Nichts überstand den Wandel der Zeit.",
+            "Unlock": "Als Belohnung fürs Erreichen der Kartenbeschwörerstufe 5 zu erhalten"
         },
         {
             "_id": 101,
             "Icon": "UI_Gcg_Cardtable_Ly",
             "Name": "Liyue",
-            "Desc": "As eternal as the moon, as long-lasting as the rising sun.<br>By earth and hill and bedrock shall all things prosper.",
-            "Unlock": "Reward for reaching Player Level 3"
+            "Desc": "So altehrwürdig wie Mond, so majestätisch wie Sonne.<br>Hier soll alles prosperieren, und so beständig wie Berge.",
+            "Unlock": "Als Belohnung fürs Erreichen der Kartenbeschwörerstufe 3 zu erhalten"
         },
         {
             "_id": 0,
             "Icon": "UI_Gcg_Cardtable_Md",
             "Name": "Mondstadt",
-            "Desc": "The ceaseless whisper of the breeze plays upon the strings, creating a lovely music.<br>The passionate talk of the wind and flowers is blown away, falling into the heart of the clear spring.",
-            "Unlock": "Obtain for the first time"
+            "Desc": "Der Wind streichelt die Saiten einer alten Leier: eine zarte Melodie fließt hervor ...<br>Das Geflüster der Blumen kräuselt den Weiher. Verweht wird ihr quelliger Chor.",
+            "Unlock": "Standardmäßig zu erhalten"
         }
     ]
 ]

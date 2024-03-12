@@ -9785,214 +9785,214 @@ var _card = [
         {
             "_id": 128,
             "Icon": "UI_Gcg_CardBack_Championship_04",
-            "Name": "The Chasm: Blue Crystal",
-            "Desc": "A Card Back won by achieving excellent results in open Genius Invokation TCG tournaments.<br>An indigo-colored mineral that signals the way forward, promising endless adventures along a road extending to the horizon. With its abundant mineral reserves, who knows what untold riches The Chasm still holds...",
+            "Name": "層岩巨淵 · 藍晶",
+            "Desc": "七聖召喚の公開大会に参加し、良い成績を残すことで勝ち取れるカードの裏面。<br>藍色の鉱石は、冒険の道が遠くへと延びていることを示す標である。層岩巨淵に眠っている多くの鉱産は、いまでも人々に畏敬の念を抱かせる膨大な財産である…",
             "Unlock": ""
         },
         {
             "_id": 127,
             "Icon": "UI_Gcg_CardBack_Championship_03",
-            "Name": "The Chasm: Solid Iron",
-            "Desc": "A Card Back won by achieving excellent results in open Genius Invokation TCG tournaments.<br>An iron-colored mineral that forms the base of farm tools and weapons alike. With its abundant mineral reserves, who knows what untold riches The Chasm still holds...",
+            "Name": "層岩巨淵 · 堅鉄",
+            "Desc": "七聖召喚の公開大会に参加し、良い成績を残すことで勝ち取れるカードの裏面。<br>鉄色の鉱石は、農具と兵器の基本色となる。層岩巨淵に眠っている多くの鉱産は、いまでも人々に畏敬の念を抱かせる膨大な財産である…",
             "Unlock": ""
         },
         {
             "_id": 126,
             "Icon": "UI_Gcg_CardBack_Championship_02",
-            "Name": "Dragonspine: Crown",
-            "Desc": "A Card Back won by achieving excellent results in open Genius Invokation TCG tournaments.<br>The splendor of Dragonspine at daybreak, as the symbol of a duelist, symbolizes the \"summit\" of their skill...",
+            "Name": "ドラゴンスパイン · 冠",
+            "Desc": "七聖召喚の特定の公開大会に参加し、素晴らしい成績を残すことで勝ち取れるカードの裏面。<br>明け方のドラゴンスパインは、冒険者の生涯を表す冠のようだ。それはプレイヤーが「トップクラス」の実力の持ち主であることを象徴する…",
             "Unlock": ""
         },
         {
             "_id": 125,
             "Icon": "UI_Gcg_CardBack_Championship_01",
-            "Name": "Dragonspine: Traces",
-            "Desc": "A Card Back won by achieving excellent results in open Genius Invokation TCG tournaments.<br>Silent Dragonspine under the starry night is one of the highest goals and most dangerous places for an adventurer to conquer.",
+            "Name": "ドラゴンスパイン · 探訪",
+            "Desc": "七聖召喚の公開大会に参加し、良い成績を残すことで勝ち取れるカードの裏面。<br>静かな星夜のもとにそびえ立つドラゴンスパインは、冒険者たちにとって征服し難い険しき地であり、至高の目標でもある…",
             "Unlock": ""
         },
         {
             "_id": 124,
             "Icon": "UI_Gcg_CardBack_Prison",
-            "Name": "The Fortress of Meropide",
-            "Desc": "\"The underwater Fortress, where the exiles gather...\"",
-            "Unlock": "Rag and Bone Shop Credit Coupon Exchange"
+            "Name": "メロピデ要塞",
+            "Desc": "「水中の要塞、流浪者たちの集う場所…」",
+            "Unlock": "「ラグ＆ボーンショップ」特別許可券交換"
         },
         {
             "_id": 123,
             "Icon": "UI_Gcg_CardBack_Fontaine",
-            "Name": "Fontaine",
-            "Desc": "One must remember the various \"systems\" of card games by heart, before they can nimbly utilize the \"rules\" reasonably to put on a most spectacular \"performance.\"",
-            "Unlock": "Fontaine Reputation Level Reward"
+            "Name": "フォンテーヌ",
+            "Desc": "カードゲームの各「規則」をよく覚えてはじめて、柔軟かつ合理的な「法則」によって、対戦中に素晴らしい「演出」を上演できる。",
+            "Unlock": "フォンテーヌ評判ランク報酬で獲得"
         },
         {
             "_id": 122,
             "Icon": "UI_Gcg_CardBack_Thoarder",
-            "Name": "Treasures of the Deck",
-            "Desc": "Treasures are gained and used only for the moment, and their contents are never quite the same. What treasures lie within your cards this time?",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "札にある秘宝",
+            "Desc": "宝物の獲得と使用は一瞬のこと。しかし、中に収められた物はいずれも異なる。今この時、あなたのカードにはどんな宝物が隠されているのだろうか？",
+            "Unlock": "カードショップで購入"
         },
         {
             "_id": 121,
             "Icon": "UI_Gcg_CardBack_Dvalin",
-            "Name": "Lazurite Swirl",
-            "Desc": "A special card back customized by the renowned artist Calx.<br>\"Like the Dragon of the East, stretch your wings more freely on this battlefield of cards!\"",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "ラピスラズリワール",
+            "Desc": "有名な絵師「白亜」に特注したカードの裏面。<br>「この小さな戦場で、東風の龍のようにその翼をより自由に羽ばたかせよう！」",
+            "Unlock": "カードショップで購入"
         },
         {
             "_id": 120,
             "Icon": "UI_Gcg_CardBack_Dendrobium",
-            "Name": "Dendrobium",
-            "Desc": "If only all battles could be fought on the tabletop...",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "血石華",
+            "Desc": "すべての闘争が、このテーブルの上にあるならば…",
+            "Unlock": "カードショップで購入"
         },
         {
             "_id": 119,
             "Icon": "UI_Gcg_CardBack_GlazeLily",
-            "Name": "Glaze Lily",
-            "Desc": "The ancient tales of mortal realms have passed away. Now, only the fragrant name of the flowers remains.",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "琉璃百合",
+            "Desc": "人の世の旧事はすべて消え去り、ただ花の名前のみそこに残る。",
+            "Unlock": "カードショップで購入"
         },
         {
             "_id": 118,
             "Icon": "UI_Gcg_CardBack_Cecilia",
-            "Name": "Cecilia",
-            "Desc": "Are those who have the breeze and the dew for company the only ones who may enjoy the dawn's first light?",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "セシリアの花",
+            "Desc": "冷たい風と露を共にする者だけが、初生の曙を独占する資格を持つのだろうか？",
+            "Unlock": "カードショップで購入"
         },
         {
             "_id": 117,
             "Icon": "UI_Gcg_CardBack_DandelionSeed",
-            "Name": "Dandelion Seed",
-            "Desc": "Hope and patience are close companions.",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "蒲公英の種",
+            "Desc": "「待つ」のはいつも希望と隣り合わせ。",
+            "Unlock": "カードショップで購入"
         },
         {
             "_id": 116,
             "Icon": "UI_Gcg_CardBack_ElectroCrystal",
-            "Name": "Electro Crystal",
-            "Desc": "Will aggressive methods be of any use? This is not the only thing balanced on a hair trigger!",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "電気水晶",
+            "Desc": "発破をかけるのって、本当に効くの？炎で爆発するのはこれだけではない。",
+            "Unlock": "カードショップで購入"
         },
         {
             "_id": 115,
             "Icon": "UI_Gcg_CardBack_MistFlowerCorolla",
-            "Name": "Mist Flower Corolla",
-            "Desc": "\"To concede gracefully is your inevitable end.\"",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "霧氷花の花蕊",
+            "Desc": "「面子を保ったまま負けを認めるのが、あなたの結末だ。」",
+            "Unlock": "カードショップで購入"
         },
         {
             "_id": 114,
             "Icon": "UI_Gcg_CardBack_FlamingFlowerStamen",
-            "Name": "Flaming Flower Stamen",
-            "Desc": "\"My duelist's soul is aflame!\"",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "烈焔花の花蕊",
+            "Desc": "「我が燃え盛るプレイヤー魂よ！」",
+            "Unlock": "カードショップで購入"
         },
         {
             "_id": 113,
             "Icon": "UI_Gcg_CardBack_AmethystLump",
-            "Name": "Amethyst Lump",
-            "Desc": "Adapting to where you are is also a form of wisdom.",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "紫水晶の塊",
+            "Desc": "その土地に合わせて行動するのも知恵の一つである。",
+            "Unlock": "カードショップで購入"
         },
         {
             "_id": 112,
             "Icon": "UI_Gcg_CardBack_MagicalCrystalChunk",
-            "Name": "Magical Crystal Chunk",
-            "Desc": "Time gives this value.",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "魔晶の塊",
+            "Desc": "時間がそれに価値を与える。",
+            "Unlock": "カードショップで購入"
         },
         {
             "_id": 111,
             "Icon": "UI_Gcg_CardBack_CrystalChunk",
-            "Name": "Crystal Chunk",
-            "Desc": "If well-honed, suitable material can truly show its quality.",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "水晶の塊",
+            "Desc": "適切に鍛え上げることこそが、埋もれた原石に異彩を放たせる肝となる。",
+            "Unlock": "カードショップで購入"
         },
         {
             "_id": 110,
             "Icon": "UI_Gcg_CardBack_HandbookReward",
-            "Name": "Adept",
-            "Desc": "There is no conundrum you cannot solve, nothing beyond your power to do. We salute you!",
-            "Unlock": "Reward for completing all objectives in the 4th match of the TCG Player's Manual"
+            "Name": "達人",
+            "Desc": "解けない難題がなければ、できないこともない。あなたに祝杯を！",
+            "Unlock": "プレイヤーハンドブックの第四局にあるすべての目標をクリアすると獲得"
         },
         {
             "_id": 109,
             "Icon": "UI_Gcg_CardBack_LevelReward",
-            "Name": "Legend",
-            "Desc": "You have come far indeed to become a Legend, but the road ahead is still long.",
-            "Unlock": "Reward for reaching Player Level 10"
+            "Name": "レジェンド",
+            "Desc": "プレイヤーとしての道はかなり歩んできたが、目の前にはまだまだ長い道のりが待っている。",
+            "Unlock": "プレイヤーランクを10まで上げるとランク報酬で獲得"
         },
         {
             "_id": 104,
             "Icon": "UI_Gcg_CardBack_Sumeru",
-            "Name": "Sumeru",
-            "Desc": "To think one or two steps ahead is amateur work. Truly expert players can even see fifty or a hundred steps ahead.<br>And it would be a simple matter, would it not?",
-            "Unlock": "Reward for reaching Player Level 8"
+            "Name": "スメール",
+            "Desc": "一手、二手先を読むことは、初心者でもできること。手練れのプレイヤーなら五十手、百手先を読むことができるはず。<br>これくらい簡単だろう？",
+            "Unlock": "プレイヤーランクを8まで上げるとランク報酬で獲得"
         },
         {
             "_id": 103,
             "Icon": "UI_Gcg_CardBack_Inazuma",
-            "Name": "Inazuma",
-            "Desc": "But an instant there is, for cards to be played. Play swiftly enough, and even transience itself shall fall before you.",
-            "Unlock": "Reward for reaching Player Level 6"
+            "Name": "稲妻",
+            "Desc": "手札を出すのは電光石火の如く一瞬。手札を出すのが早ければ早いほど、須臾にして決着はつく。",
+            "Unlock": "プレイヤーランクを6まで上げるとランク報酬で獲得"
         },
         {
             "_id": 102,
             "Icon": "UI_Gcg_CardBack_Liyue",
-            "Name": "Liyue",
-            "Desc": "Every journey must start with a first step. Build your deck with a steady hand, and steady shall the road to victory be.",
-            "Unlock": "Reward for reaching Player Level 4"
+            "Name": "璃月",
+            "Desc": "千里の道も一歩から。盤石なデッキを組むことで勝利の道を歩もう。",
+            "Unlock": "プレイヤーランクを4まで上げるとランク報酬で獲得"
         },
         {
             "_id": 101,
             "Icon": "UI_Gcg_CardBack_Mengde",
-            "Name": "Mondstadt",
-            "Desc": "Freedom is the first principle of cards.<br>Freely you organize your deck, freely you choose your opponents, and freely you play your hand.<br>...Or perhaps you might use that freedom to not play at all, and do something else with the cards you have in hand.",
-            "Unlock": "Reward for reaching Player Level 2"
+            "Name": "モンド",
+            "Desc": "カードプレイでもっとも大切なのは自由である。<br>自由にデッキを組んで、自由に相手を選んで、そして自由に次の手札を出す。<br>…もしかしたら、自由にカードプレイせずに、自由に手札を持って自由なことをするのもいいかもしれない？",
+            "Unlock": "プレイヤーランクを2まで上げるとランク報酬で獲得"
         },
         {
             "_id": 0,
             "Icon": "UI_Gcg_CardBack_01",
-            "Name": "Origin",
-            "Desc": "Betwixt day and night, between heaven and earth,<br>That is where hopes and dreams sojourn.",
-            "Unlock": "Obtain for the first time"
+            "Name": "原初",
+            "Desc": "昼夜の間に、天地の間に、<br>それは様々な幻想と希望を歩む旅路である。",
+            "Unlock": "初期獲得"
         }
     ],
     [
         {
             "_id": 104,
             "Icon": "UI_Gcg_Cardtable_Fd",
-            "Name": "Fontaine",
-            "Desc": "The clear waters eternally flow, and with the light rain, they fall upon every corner of the continent. Finite sin will someday dissipate, yet the world's theatrics shall never cease.",
-            "Unlock": "Purchased at the Card Shop"
+            "Name": "フォンテーヌ",
+            "Desc": "澄み切った水は延々と流れ、霧雨と共に大陸の隅々まで行き渡る。有限の罪はいずれ消え去るが、世界の劇は永遠に幕を閉じることはない。",
+            "Unlock": "カードショップで購入"
         },
         {
             "_id": 103,
             "Icon": "UI_Gcg_Cardtable_Xm",
-            "Name": "Sumeru",
-            "Desc": "Oh grass of wisdom, weep not!<br>Even the travail through searing winds must end.<br>The blessed rains will fall, and the flowers shall bloom...<br>Hearken! The song of the verdant garden is sung once more.",
-            "Unlock": "Reward for reaching Player Level 7"
+            "Name": "スメール",
+            "Desc": "知恵ある草よ、悲しまないで。<br>荒砂と灼風の旅もいつか終わる。<br>慈雨が降り注ぎ、花々が咲き誇る…<br>耳を澄まして、緑灯る庭のメロディーを聴いてごらん。",
+            "Unlock": "プレイヤーランクを7まで上げるとランク報酬で獲得"
         },
         {
             "_id": 102,
             "Icon": "UI_Gcg_Cardtable_Dq",
-            "Name": "Inazuma",
-            "Desc": "Lightning flashes, then passes, illuminating the solitude of thunder.<br>Dreams of madness come and go — all things are impermanent.",
-            "Unlock": "Reward for reaching Player Level 5"
+            "Name": "稲妻",
+            "Desc": "須臾に消えゆく紫電、彷徨うは鳴神なり。<br>迷夢のような出会いと別れ、世は皆無常なり。",
+            "Unlock": "プレイヤーランクを5まで上げるとランク報酬で獲得"
         },
         {
             "_id": 101,
             "Icon": "UI_Gcg_Cardtable_Ly",
-            "Name": "Liyue",
-            "Desc": "As eternal as the moon, as long-lasting as the rising sun.<br>By earth and hill and bedrock shall all things prosper.",
-            "Unlock": "Reward for reaching Player Level 3"
+            "Name": "璃月",
+            "Desc": "月の恒の如く、日が升る如く。<br>山地盤石、万物は尽く通りて。",
+            "Unlock": "プレイヤーランクを3まで上げるとランク報酬で獲得"
         },
         {
             "_id": 0,
             "Icon": "UI_Gcg_Cardtable_Md",
-            "Name": "Mondstadt",
-            "Desc": "The ceaseless whisper of the breeze plays upon the strings, creating a lovely music.<br>The passionate talk of the wind and flowers is blown away, falling into the heart of the clear spring.",
-            "Unlock": "Obtain for the first time"
+            "Name": "モンド",
+            "Desc": "青い風の息吹は止むことなく、琴をつま弾いて悠々たる音を奏でる。<br>風情に満ちたウィンドブルームの歓談も吹き飛ばされ、ひらりと清泉の心へと落ちていく。",
+            "Unlock": "初期獲得"
         }
     ]
 ]
