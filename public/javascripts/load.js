@@ -47,7 +47,7 @@ $(function () {
                         options: ver_dict,
                         class: 'load-ver-select'
                     })
-                    $('.load-ver-select').val(cur_ver)
+                    $('.load-ver-select').val("-")
                 },
                 class: 'load-ver'
             }, {
