@@ -1,5 +1,7 @@
 $(function () {
 
+    var ICON_NOT_SHOW = [42]
+
     var this_ver_ = ""
     var pop_ver = ""
     var ou1;
@@ -700,6 +702,11 @@ $(function () {
         var this_avatar = _AvatarInfoConfig[char_id_list[avatar]]
         cur_avatar = this_avatar
 
+        var show_icon = true
+        if (ICON_NOT_SHOW.includes(this_avatar._id)) {
+            show_icon = false
+        }
+
         var nation = computer_.AvatarNationConfig[this_avatar.Nation]
         var color1 = colors[nation.Color]
 
@@ -1395,7 +1402,8 @@ $(function () {
                                                 img: function (k) {
                                                     return imgpre + 'homdgcat-res/AvatarSkill/' + k.data.Icon + '.png'
                                                 },
-                                                class: 'head_left'
+                                                class: 'head_left',
+                                                when: show_icon
                                             },
                                             {
                                                 img: function (k) {
@@ -1417,6 +1425,7 @@ $(function () {
                                                 },
                                                 a: {
                                                     class: function (k) {
+                                                        if (!show_icon) return ''
                                                         if (k.data.Icon3) return 'head_right hr_3'
                                                         if (k.data.Icon2) return 'head_right hr_2'
                                                         return 'head_right hr_1'
@@ -1631,7 +1640,8 @@ $(function () {
                                         img: function (k) {
                                             return imgpre + 'homdgcat-res/AvatarSkill/' + k.data.Icon + '.png'
                                         },
-                                        class: 'head_left'
+                                        class: 'head_left',
+                                        when: show_icon
                                     },
                                     {
                                         img: function (k) {
@@ -1653,6 +1663,7 @@ $(function () {
                                         },
                                         a: {
                                             class: function (k) {
+                                                if (!show_icon) return ''
                                                 if (k.data.Icon3) return 'head_right hr_3'
                                                 if (k.data.Icon2) return 'head_right hr_2'
                                                 return 'head_right hr_1'
@@ -1723,7 +1734,8 @@ $(function () {
                                         img: function (k) {
                                             return imgpre + 'homdgcat-res/AvatarSkill/' + k.data.Icon + '.png'
                                         },
-                                        class: 'head_left'
+                                        class: 'head_left',
+                                        when: show_icon
                                     },
                                     {
                                         img: function (k) {
@@ -1745,6 +1757,7 @@ $(function () {
                                         },
                                         a: {
                                             class: function (k) {
+                                                if (!show_icon) return ''
                                                 if (k.data.Icon3) return 'head_right hr_3'
                                                 if (k.data.Icon2) return 'head_right hr_2'
                                                 return 'head_right hr_1'

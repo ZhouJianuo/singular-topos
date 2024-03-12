@@ -39,15 +39,17 @@ $(function () {
             div: [{
                 section: function (d) {
                     var ver_dict = {}
+                    var get_thic = "-"
                     _AchievementData[0].Data.Vers.forEach(function (me, ind) {
                         ver_dict[me.Name] = me.ID ? me.ID : "-"
+                        if (ind == 1) get_thic = me.ID
                     })
                     $(d.container).render({
                         select: '',
                         options: ver_dict,
                         class: 'load-ver-select'
                     })
-                    $('.load-ver-select').val("-")
+                    $('.load-ver-select').val(get_thic)
                 },
                 class: 'load-ver'
             }, {
