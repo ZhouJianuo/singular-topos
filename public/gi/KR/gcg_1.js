@@ -5,7 +5,7 @@ var _card = [
     [
         {
             "_id": 1403,
-            "Name": "Keqing",
+            "Name": "각청",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -19,8 +19,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Keqing",
-            "Title": "\"Driving Thunder\" Keqing",
-            "Story": "She can build decks heretofore not conceived and win battles in which victory is unthinkable.",
+            "Title": "질뢰쾌우 · 각청",
+            "Story": "그녀는 누구도 생각지 못한 덱을 구축해서, 상상할 수조차 없는 승리를 수없이 거뒀다",
             "K": [
                 104,
                 100,
@@ -29,7 +29,7 @@ var _card = [
         },
         {
             "_id": 2404,
-            "Name": "Fatui Electro Cicin Mage",
+            "Name": "우인단 · 번개 치친 술사",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -44,8 +44,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_FatuusSummoner",
-            "Title": "Thunder in the Mist: Electro Cicin Mage",
-            "Story": "...Just as the scent of Mist Grass intoxicates the Electro Cicins, so too does the sadistic mage hanker after the pleasure of toying with her foe...",
+            "Title": "안개 속 섬광 · 번개 치친 술사",
+            "Story": "…안개풀의 향이 번개 치친을 홀리는 것처럼, 기학적인 술사도 상대를 괴롭히는 쾌감에 집착한다…",
             "K": [
                 104,
                 204
@@ -53,7 +53,7 @@ var _card = [
         },
         {
             "_id": 1707,
-            "Name": "Kirara",
+            "Name": "키라라",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -67,8 +67,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Momoka",
-            "Title": "\"Cat Upon the Eaves\" Kirara",
-            "Story": "On tails twain and padded feet, to all doors shall she deliver.",
+            "Title": "지붕을 누비는 고양이 · 키라라",
+            "Story": "어디든 달려가는 갈래 꼬리 배달부",
             "K": [
                 107,
                 100
@@ -76,7 +76,7 @@ var _card = [
         },
         {
             "_id": 1210,
-            "Name": "Neuvillette",
+            "Name": "느비예트",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -93,8 +93,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Neuvillette",
-            "Title": "\"Ordainer of Inexorable Judgment\" Neuvillette",
-            "Story": "He who looks down on all that are haughty.",
+            "Title": "훈시의 파도 소리 · 느비예트",
+            "Story": "모든 높은 자를 내려다보는 자",
             "K": [
                 5,
                 102
@@ -102,7 +102,7 @@ var _card = [
         },
         {
             "_id": 1110,
-            "Name": "Charlotte",
+            "Name": "샤를로트",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -117,15 +117,15 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Charlotte",
-            "Title": "\"Lens of Verity\" Charlotte",
-            "Story": "\"Your credible source of the unbelievable truth!\"",
+            "Title": "진실을 쫓는 렌즈 · 샤를로트",
+            "Story": "「진실과 놀라움을 이야기로 엮자!」",
             "K": [
                 101
             ]
         },
         {
             "_id": 2403,
-            "Name": "Millennial Pearl Seahorse",
+            "Name": "천년 묵은 진주 기린",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -141,8 +141,8 @@ var _card = [
             "HP": 8,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_SeaHorsePrimo",
-            "Title": "Millennial Pearl Seahorse",
-            "Story": "One of the two sovereigns standing at the apex of the Fontemer Aberrants. Poets and authors view it as a proud and noble creature, thus bestowing it with its high-flown title.",
+            "Title": "천년 묵은 진주 기린",
+            "Story": "원류바다 이종의 최정상에 있는 두 패자 중 하나. 자태가 아름다워서 시인과 작가들에게 고고하고 고결한 생명으로 여겨지며 「기린」이라고 불린다",
             "K": [
                 104,
                 3,
@@ -151,7 +151,7 @@ var _card = [
         },
         {
             "_id": 2103,
-            "Name": "Cryo Hypostasis",
+            "Name": "무상의 얼음",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -166,8 +166,8 @@ var _card = [
             "HP": 8,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_EffigyIce",
-            "Title": "Cryo Hypostasis",
-            "Story": "Code name: Daleth. A high-purity Cryo entity.<br>It doesn't seem all that good at ball sports...",
+            "Title": "무상의 얼음",
+            "Story": "코드 네임이 「달레트」인 고급 얼음 원소 생명체.<br>구기 종목에 서툰 것 같다…",
             "K": [
                 5,
                 101
@@ -175,7 +175,7 @@ var _card = [
         },
         {
             "_id": 1507,
-            "Name": "Sayu",
+            "Name": "사유",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_CLAYMORE",
@@ -190,8 +190,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Sayu",
-            "Title": "\"Mujina Ninja\" Sayu",
-            "Story": "By your side without a trace, like a character from a dream.",
+            "Title": "닌자 너구리 · 사유",
+            "Story": "종적을 감춘 꿈꾸는 동반자",
             "K": [
                 105,
                 100,
@@ -200,7 +200,7 @@ var _card = [
         },
         {
             "_id": 1311,
-            "Name": "Thoma",
+            "Name": "토마",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_POLE",
@@ -214,8 +214,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Tohma",
-            "Title": "\"Protector From Afar\" Thoma",
-            "Story": "A protector from abroad, loyal to the end.",
+            "Title": "바다 건너온 수호자 · 토마",
+            "Story": "바다 건너온 충실한 수호자",
             "K": [
                 100,
                 103
@@ -223,7 +223,7 @@ var _card = [
         },
         {
             "_id": 6604,
-            "Name": "Azhdaha",
+            "Name": "야타용왕",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -250,7 +250,7 @@ var _card = [
         },
         {
             "_id": 6603,
-            "Name": "Azhdaha",
+            "Name": "야타용왕",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -277,7 +277,7 @@ var _card = [
         },
         {
             "_id": 6602,
-            "Name": "Azhdaha",
+            "Name": "야타용왕",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -304,7 +304,7 @@ var _card = [
         },
         {
             "_id": 6601,
-            "Name": "Azhdaha",
+            "Name": "야타용왕",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -331,7 +331,7 @@ var _card = [
         },
         {
             "_id": 2602,
-            "Name": "Azhdaha",
+            "Name": "야타용왕",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -346,8 +346,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Dahaka",
-            "Title": "Ancient Geovishap Ancestor: Azhdaha",
-            "Story": "The faint rattling of this dragon lord's shackles and his deep, angry growl echo through the bowels of the mountains like memories of a bygone era.",
+            "Title": "고대 바위 용의 조상 · 야타용왕",
+            "Story": "족쇄가 흔들리는 소리와 용의 낮은 포효가 기억처럼 산골짜기에 울려 퍼진다",
             "K": [
                 106,
                 100,
@@ -356,7 +356,7 @@ var _card = [
         },
         {
             "_id": 2502,
-            "Name": "Dvalin",
+            "Name": "드발린",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -373,8 +373,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Dvalin",
-            "Title": "\"Dragon of the East\" Dvalin",
-            "Story": "\"How wonderful it would have been if you were as I, witnessing your noble, beautiful form as you soared through the blue sky.\"<br>\"Then you would know that this sky and this earth are both things worth fighting for.\"",
+            "Title": "동풍의 용 · 드발린",
+            "Story": "「네가 나였다면, 푸른 하늘을 누비는 고고하고 아름다운 네 자태를 볼 수 있을 텐데」<br>「그랬다면 너도 알 수 있겠지. 이런 하늘과 땅을 지키기 위해 싸울 가치가 있다는 걸」",
             "K": [
                 105,
                 100,
@@ -383,7 +383,7 @@ var _card = [
         },
         {
             "_id": 2402,
-            "Name": "Thunder Manifestation",
+            "Name": "뇌음의 권현",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -398,15 +398,15 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Raijin",
-            "Title": "\"Lingering Hatred\" Thunder Manifestation",
-            "Story": "As long as the grudges of the land do not fade, so will the roaring thunder persist.",
+            "Title": "남겨진 증오 · 뇌음의 권현",
+            "Story": "땅에 증오가 있는 한 번개는 끊이지 않을 것이다",
             "K": [
                 104
             ]
         },
         {
             "_id": 2303,
-            "Name": "Eremite Scorching Loremaster",
+            "Name": "도금 여단 · 모래의 이야기꾼",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -424,8 +424,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Muscleman",
-            "Title": "\"Poetry and Secret Histories\" Eremite Scorching Loremaster",
-            "Story": "Those who still remember will never betray the spirit of the sands yet flowing through their veins.",
+            "Title": "시와 비사 · 모래의 이야기꾼",
+            "Story": "오늘날에도 여전히 이야기를 기억하는 자는 몸속에 흐르는 사막의 피를 배신하지 않을 것이다",
             "K": [
                 310,
                 103
@@ -433,7 +433,7 @@ var _card = [
         },
         {
             "_id": 6301,
-            "Name": "Crimson Witch of Embers",
+            "Name": "사그라든 화염의 마녀",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -456,7 +456,7 @@ var _card = [
         },
         {
             "_id": 2102,
-            "Name": "La Signora",
+            "Name": "「시뇨라」",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -472,8 +472,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_LaSignora",
-            "Title": "\"The Eighth Harbinger\" La Signora",
-            "Story": "The crimson dawn was reflected in her pupils, and at last, she unfolded her flaming wings and flew towards the light.<br>\"But that light is not the dawn, dear Rosalyne. That is a sea of flame that will consume everything.\"<br>Yet it mattered not, for she knew in her heart that the flames had devoured her long ago.",
+            "Title": "서열 8위 집행관 · 「시뇨라」",
+            "Story": "눈동자에 붉은 새벽녘이 비치자 그녀는 화염의 날개를 펼쳐 여명을 향해 날아간다.<br>「친애하는 로잘린, 그건 서광이 아니라 모든 걸 불태워버리는 불바다야」<br>하지만 상관없다. 그녀는 자신이 이미 화염에 삼켜졌다는 것을 알고 있었기에",
             "K": [
                 1013,
                 101
@@ -481,7 +481,7 @@ var _card = [
         },
         {
             "_id": 1706,
-            "Name": "Alhaitham",
+            "Name": "알하이탐",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -495,8 +495,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Alhatham",
-            "Title": "\"Admonishing Instruction\" Alhaitham",
-            "Story": "Learning, thinking, and taking care of business.",
+            "Title": "충고와 직언 · 알하이탐",
+            "Story": "학습과 사고 그리고 처세술",
             "K": [
                 107,
                 100,
@@ -505,7 +505,7 @@ var _card = [
         },
         {
             "_id": 1606,
-            "Name": "Gorou",
+            "Name": "고로",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_BOW",
@@ -519,8 +519,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Gorou",
-            "Title": "\"Canine Warrior\" Gorou",
-            "Story": "The leader of the pack, leading the soldiers onward!",
+            "Title": "견족의 전사 · 고로",
+            "Story": "군대를 이끄는 충실한 대장!",
             "K": [
                 106,
                 100
@@ -528,7 +528,7 @@ var _card = [
         },
         {
             "_id": 1508,
-            "Name": "Lynette",
+            "Name": "리넷",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -544,8 +544,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Linette",
-            "Title": "\"Elegance in the Shadows\" Lynette",
-            "Story": "The firmament glimpsed in a reflected moon.",
+            "Title": "그림자 속 우아한 걸음 · 리넷",
+            "Story": "물에 비친 달빛",
             "K": [
                 105,
                 100
@@ -553,7 +553,7 @@ var _card = [
         },
         {
             "_id": 1310,
-            "Name": "Lyney",
+            "Name": "리니",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_BOW",
@@ -570,8 +570,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Liney",
-            "Title": "\"Spectacle of Phantasmagoria\" Lyney",
-            "Story": "Those flowers in the mirror... who are they for?",
+            "Title": "현란한 빛의 마술쇼 · 리니",
+            "Story": "거울에 비친 누군가를 위한 꽃",
             "K": [
                 100,
                 5,
@@ -580,7 +580,7 @@ var _card = [
         },
         {
             "_id": 1209,
-            "Name": "Yelan",
+            "Name": "야란",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_BOW",
@@ -595,8 +595,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Yelan",
-            "Title": "\"Valley Orchid\" Yelan",
-            "Story": "The world is vast and infinite, the solitary one comes and goes as she pleases.",
+            "Title": "유곡에 피어난 난초 · 야란",
+            "Story": "아득한 세상을 자유롭게 오고 가는 유객",
             "K": [
                 100,
                 102
@@ -604,7 +604,7 @@ var _card = [
         },
         {
             "_id": 1109,
-            "Name": "Layla",
+            "Name": "레일라",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -618,8 +618,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Layla",
-            "Title": "\"Fantastical Evening Star\" Layla",
-            "Story": "As night falls, the stars swirl and the moon wanders amidst dreams.",
+            "Title": "저녁별의 아름다운 사색 · 레일라",
+            "Story": "별 헤는 밤, 꿈속 달빛 산책",
             "K": [
                 100,
                 101
@@ -627,7 +627,7 @@ var _card = [
         },
         {
             "_id": 1705,
-            "Name": "Baizhu",
+            "Name": "백출",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -641,15 +641,15 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Baizhuer",
-            "Title": "\"Beyond Mortality\" Baizhu",
-            "Story": "Living with many maladies, where will one find a cure?",
+            "Title": "양생의 도 · 백출",
+            "Story": "만병을 달고 사는 삶, 치료법은 어디에?",
             "K": [
                 107
             ]
         },
         {
             "_id": 1410,
-            "Name": "Dori",
+            "Name": "도리",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_CLAYMORE",
@@ -663,8 +663,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Dori",
-            "Title": "\"Treasure of Dream Garden\" Dori",
-            "Story": "The Mora, the merrier!",
+            "Title": "꿈의 정원에 감춰진 보물 · 도리",
+            "Story": "모라가 많을수록, 기쁨도 배가 되지!",
             "K": [
                 104,
                 100
@@ -672,7 +672,7 @@ var _card = [
         },
         {
             "_id": 1208,
-            "Name": "Nilou",
+            "Name": "닐루",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -686,8 +686,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Nilou",
-            "Title": "\"Dance of Lotuslight\" Nilou",
-            "Story": "Steps floating like lotus petals, emerging from an intoxicating dream.",
+            "Title": "무대에 내려앉은 연꽃 · 닐루",
+            "Story": "몽롱한 꿈 위에서 피어나는 매혹적인 수련의 춤",
             "K": [
                 100,
                 102
@@ -695,7 +695,7 @@ var _card = [
         },
         {
             "_id": 1704,
-            "Name": "Yaoyao",
+            "Name": "요요",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_POLE",
@@ -709,8 +709,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Yaoyao",
-            "Title": "\"Burgeoning Grace\" Yaoyao",
-            "Story": "An adeptal constitution.",
+            "Title": "영롱한 선인의 꽃망울 · 요요",
+            "Story": "앙증맞은 몸속 선인의 기개",
             "K": [
                 107,
                 100
@@ -731,15 +731,15 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Wanderer",
-            "Title": "\"Eons Adrift\" Wanderer",
-            "Story": "Tribulations uncounted, trials unknowable.",
+            "Title": "기나긴 방황 · 방랑자",
+            "Story": "천겁의 고난, 얻지 못한 깨달음",
             "K": [
                 105
             ]
         },
         {
             "_id": 1309,
-            "Name": "Dehya",
+            "Name": "데히야",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_CLAYMORE",
@@ -756,8 +756,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Dehya",
-            "Title": "\"Flame-Mane\" Dehya",
-            "Story": "The eyes of a vulture, the spirit of a lion, an unbridled daughter of the desert.",
+            "Title": "화염 갈기의 사자 · 데히야",
+            "Story": "독수리의 눈과 사자의 영혼을 가진 자유로운 사막의 딸",
             "K": [
                 100,
                 53,
@@ -766,7 +766,7 @@ var _card = [
         },
         {
             "_id": 2701,
-            "Name": "Jadeplume Terrorshroom",
+            "Name": "공포의 취령 버섯",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -781,8 +781,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Fungusgrass",
-            "Title": "\"Lord of Fungi\" Jadeplume Terrorshroom",
-            "Story": "If you keep silent and listen closely, you can hear the sound of the ruler of the Shroom-Kin inspecting its territory...",
+            "Title": "버섯의 왕 · 공포의 취령 버섯",
+            "Story": "가만히 귀를 기울이면 고요한 숲 저 너머에서 영토를 시찰하는 버섯 왕의 발소리가 들려온다…",
             "K": [
                 107,
                 100
@@ -790,7 +790,7 @@ var _card = [
         },
         {
             "_id": 2601,
-            "Name": "Stonehide Lawachurl",
+            "Name": "츄츄 바위왕",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -806,15 +806,15 @@ var _card = [
             "HP": 8,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Bruterock",
-            "Title": "\"Vale-Crosser\" Stonehide Lawachurl",
-            "Story": "Go around — the way ahead is the realm of the \"king.\"",
+            "Title": "천장만행 · 츄츄 바위왕",
+            "Story": "멀리 돌아서 가자. 이 앞은 「왕」의 영역이니까",
             "K": [
                 100
             ]
         },
         {
             "_id": 2501,
-            "Name": "Maguu Kenki",
+            "Name": "꼭두각시 검귀",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -829,8 +829,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Ningyo",
-            "Title": "\"Ingenious Machine\" Maguu Kenki",
-            "Story": "Even today, it still patrols the place where fate was severed.",
+            "Title": "기발한 기계 · 꼭두각시 검귀",
+            "Story": "오늘도 그것은 인연의 흐름이 단절된 땅에서 배회하고 있다",
             "K": [
                 105,
                 100
@@ -838,7 +838,7 @@ var _card = [
         },
         {
             "_id": 2401,
-            "Name": "Electro Hypostasis",
+            "Name": "무상의 뇌전",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -855,8 +855,8 @@ var _card = [
             "HP": 8,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Effigyelectric",
-            "Title": "Electro Hypostasis",
-            "Story": "Code name: Aleph. A high-purity Electro entity.<br>Even if you win at rock-paper-scissors, Aleph is not one to admit defeat.",
+            "Title": "무상의 뇌전",
+            "Story": "코드 네임이 「알레프」인 고급 번개 원소 생명체.<br>녀석은 가위바위보에서 져도 좀처럼 승복하지 않는다",
             "K": [
                 104,
                 53
@@ -864,7 +864,7 @@ var _card = [
         },
         {
             "_id": 2302,
-            "Name": "Abyss Lector: Fathomless Flames",
+            "Name": "심연 봉독자 · 심연의 불꽃",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -879,15 +879,15 @@ var _card = [
             "HP": 6,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_DeaconFire",
-            "Title": "Abyss Lector: Fathomless Flames",
-            "Story": "From chapters of canon revealed come much heeded admonishments.",
+            "Title": "심연 봉독자 · 심연의 불꽃",
+            "Story": "장전이 나타났으니, 잠언을 들을지어다",
             "K": [
                 103
             ]
         },
         {
             "_id": 2301,
-            "Name": "Fatui Pyro Agent",
+            "Name": "우인단 · 화염 채무 처리인",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -902,8 +902,8 @@ var _card = [
             "HP": 9,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Fatuus",
-            "Title": "\"Blade of Settlement\" Agent",
-            "Story": "\"There is no running from your debt, be you living or otherwise.\"",
+            "Title": "청산의 칼날 · 채무 처리인",
+            "Story": "「죽음으로도 빚은 면할 수 없다. 빚은 반드시 갚아야 해…」",
             "K": [
                 100,
                 103
@@ -911,7 +911,7 @@ var _card = [
         },
         {
             "_id": 2202,
-            "Name": "Mirror Maiden",
+            "Name": "우인단 · 거울의 여인",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -925,15 +925,15 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Maidenwater",
-            "Title": "\"Snezhnayan Maiden\" Mirror Envoy",
-            "Story": "All secrets shall be concealed within the mirror of glaring brightness...",
+            "Title": "겨울 나라의 여인 · 물거울의 사자",
+            "Story": "비밀은 모두 물결치는 거울 속에 숨겨져 있겠지…",
             "K": [
                 102
             ]
         },
         {
             "_id": 2201,
-            "Name": "Rhodeia of Loch",
+            "Name": "물의 정령 · 로데이아",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -948,15 +948,15 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Oceanid",
-            "Title": "\"Lady of Clear Waters\" Rhodeia",
-            "Story": "\"As long as rain falls and rivers flow... water will exist forever... \"",
+            "Title": "물의 주인 · 로데이아",
+            "Story": "「하지만, 강과 계곡이 흐르고 비가 그치지 않는 한, 물은 사라지지 않아…」",
             "K": [
                 102
             ]
         },
         {
             "_id": 2101,
-            "Name": "Fatui Cryo Cicin Mage",
+            "Name": "우인단 · 얼음 치친 술사",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -970,8 +970,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Monster_FatuusMageice",
-            "Title": "\"Cicin of the Hollow Mist\" Cryo Cicin Mage",
-            "Story": "And so long as the Mist Grass yet lingers, the Cryo Cicins will not abandon her.",
+            "Title": "안개 소환 · 얼음 치친 술사",
+            "Story": "적어도 안개풀이 소진되기 전까진, 얼음 치친은 그녀의 곁을 떠나지 않을 것이다",
             "K": [
                 201,
                 101
@@ -979,7 +979,7 @@ var _card = [
         },
         {
             "_id": 1703,
-            "Name": "Nahida",
+            "Name": "나히다",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -994,15 +994,15 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Nahida",
-            "Title": "\"Physic of Purity\" Nahida",
-            "Story": "The panacea brings purity, and from the palace depths is spring renewed.",
+            "Title": "정화의 하얀 풀 · 나히다",
+            "Story": "깊은 궁전에서 깨어난 정화의 하얀 풀",
             "K": [
                 107
             ]
         },
         {
             "_id": 1702,
-            "Name": "Tighnari",
+            "Name": "타이나리",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_BOW",
@@ -1016,8 +1016,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Tighnari",
-            "Title": "\"Verdant Strider\" Tighnari",
-            "Story": "From a certain perspective, experience does not hold parity with wisdom.",
+            "Title": "신록의 발걸음 · 타이나리",
+            "Story": "어떤 면에서 경험은 지혜와 같지 않다",
             "K": [
                 107,
                 100,
@@ -1026,7 +1026,7 @@ var _card = [
         },
         {
             "_id": 1701,
-            "Name": "Collei",
+            "Name": "콜레이",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_BOW",
@@ -1040,8 +1040,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Collei",
-            "Title": "\"Sprout of Rebirth\" Collei",
-            "Story": "\"'Shouting the name of your card loudly will increase its power many-fold'... You've got to be kidding, right?\"",
+            "Title": "다시 움튼 새싹 · 콜레이",
+            "Story": "「카드의 이름을 크게 외치면 그 위력이 몇 배가 된다니… 거짓말이겠지?」",
             "K": [
                 107,
                 100
@@ -1049,7 +1049,7 @@ var _card = [
         },
         {
             "_id": 1605,
-            "Name": "Arataki Itto",
+            "Name": "아라타키 이토",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_CLAYMORE",
@@ -1063,8 +1063,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Itto",
-            "Title": "\"Hanamizaka Heroics\" Arataki Itto",
-            "Story": "Arataki \"The Ultimate TCG Champion\" Itto",
+            "Title": "하나미자카 쾌걸 · 아라타키 이토",
+            "Story": "「아라타키 카드 게임 왕중왕 이토」",
             "K": [
                 106,
                 100
@@ -1072,7 +1072,7 @@ var _card = [
         },
         {
             "_id": 1604,
-            "Name": "Albedo",
+            "Name": "알베도",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -1086,8 +1086,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Albedo",
-            "Title": "\"Kreideprinz\" Albedo",
-            "Story": "Nigredo and calx, rubedo and citrinitas.",
+            "Title": "백악의 아이 · 알베도",
+            "Story": "흑토와 백악, 적성과 황금",
             "K": [
                 106,
                 100
@@ -1095,7 +1095,7 @@ var _card = [
         },
         {
             "_id": 1603,
-            "Name": "Zhongli",
+            "Name": "종려",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_POLE",
@@ -1110,8 +1110,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Zhongli",
-            "Title": "\"Vago Mundo\" Zhongli",
-            "Story": "A hidden gemstone can illuminate the whole earth, bright and unrivaled as a star.",
+            "Title": "속세 한유 · 종려",
+            "Story": "감춰진 옥은 온 세상을 밝히고, 하늘의 찬란한 별은 자유롭기 그지없다",
             "K": [
                 106,
                 100
@@ -1119,7 +1119,7 @@ var _card = [
         },
         {
             "_id": 1602,
-            "Name": "Noelle",
+            "Name": "노엘",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_CLAYMORE",
@@ -1133,8 +1133,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Noel",
-            "Title": "\"Chivalric Blossom\" Noelle",
-            "Story": "You can leave arranging the table to her — really, you can.",
+            "Title": "수여받지 못한 꽃 · 노엘",
+            "Story": "테이블 정리만큼은 그녀에게 맡겨도 된다",
             "K": [
                 106,
                 100
@@ -1142,7 +1142,7 @@ var _card = [
         },
         {
             "_id": 1601,
-            "Name": "Ningguang",
+            "Name": "응광",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -1156,15 +1156,15 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Ningguang",
-            "Title": "\"Eclipsing Star\" Ningguang",
-            "Story": "The greatest secret she keeps is that she keeps a great many of Liyue's secrets.",
+            "Title": "엄월천권 · 응광",
+            "Story": "그녀가 가지고 있는 가장 큰 비밀은, 바로 자신이 리월항의 수많은 비밀을 지키고 있다는 것이다",
             "K": [
                 106
             ]
         },
         {
             "_id": 1505,
-            "Name": "Kaedehara Kazuha",
+            "Name": "카에데하라 카즈하",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -1179,8 +1179,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Kazuha",
-            "Title": "Scarlet Leaves Pursue Wild Waves: Kaedehara Kazuha",
-            "Story": "Flowers and birds are a dear pleasure to one winding under the moonlight.",
+            "Title": "파도를 쫓는 단풍 · 카에데하라 카즈하",
+            "Story": "꽃과 새들은 즐거움을 주고, 달빛은 바람이 가는 길을 비추네",
             "K": [
                 105,
                 100
@@ -1188,7 +1188,7 @@ var _card = [
         },
         {
             "_id": 1504,
-            "Name": "Xiao",
+            "Name": "소",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_POLE",
@@ -1202,8 +1202,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Xiao",
-            "Title": "\"Vigilant Yaksha\" Xiao",
-            "Story": "The Vigilant Yaksha, the bane of all evil.",
+            "Title": "호법야차 · 소",
+            "Story": "호법야차, 정요항마",
             "K": [
                 105,
                 100
@@ -1211,7 +1211,7 @@ var _card = [
         },
         {
             "_id": 1503,
-            "Name": "Venti",
+            "Name": "벤티",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_BOW",
@@ -1225,8 +1225,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Venti",
-            "Title": "\"Windborne Bard\" Venti",
-            "Story": "\"As the four seasons in turn shall say their piece, so the four winds too shall never cease. <br>\"Of course, to look at it differently, I am the one who should be credited here, and not they.\"<br>Credits should be given where credits belong — if not for the bard who pens the song, then who shall ensure that these tales are passed on!?\"",
+            "Title": "바람의 시인 · 벤티",
+            "Story": "「사계절이 지나도 서풍은 절대 그치지 않아」<br>「뭐, 당연하게도 이 노래의 주역은 그들이 아니라 나야」<br>「음유시인이 없다면 누가 이걸 노래하겠어?」",
             "K": [
                 105,
                 100
@@ -1234,7 +1234,7 @@ var _card = [
         },
         {
             "_id": 1502,
-            "Name": "Jean",
+            "Name": "진",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -1248,8 +1248,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Qin",
-            "Title": "\"Dandelion Knight\" Jean",
-            "Story": "Never believes that she has done well enough — not until final victory is hers, anyway.",
+            "Title": "민들레 기사 · 진",
+            "Story": "그녀는 언제나 자신이 아직 멀었다고 생각한다. 최종 승리를 거머쥐기 전까지는",
             "K": [
                 105,
                 100
@@ -1257,7 +1257,7 @@ var _card = [
         },
         {
             "_id": 1501,
-            "Name": "Sucrose",
+            "Name": "설탕",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -1271,15 +1271,15 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Sucrose",
-            "Title": "\"Harmless Sweetie\" Sucrose",
-            "Story": "\"You can't rate the strength of an as-yet untested deck!\"",
+            "Title": "무해한 달콤함 · 설탕",
+            "Story": "「실전을 거치지 않은 덱은 강한지 약한지를 평가할 수 없어!」",
             "K": [
                 105
             ]
         },
         {
             "_id": 1409,
-            "Name": "Lisa",
+            "Name": "리사",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -1293,8 +1293,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Lisa",
-            "Title": "\"Witch of Purple Rose\" Lisa",
-            "Story": "Pursuing the arcane mysteries of magic, and waiting quietly for an encounter with truth.",
+            "Title": "장미 마녀 · 리사",
+            "Story": "마도의 오의를 좇으며, 진실과 마주치는 순간을 조용히 기다린다",
             "K": [
                 104,
                 51
@@ -1302,7 +1302,7 @@ var _card = [
         },
         {
             "_id": 1408,
-            "Name": "Yae Miko",
+            "Name": "야에 미코",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -1316,15 +1316,15 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Yae",
-            "Title": "\"Astute Amusement\" Yae Miko",
-            "Story": "\"The wise and beautiful Yae Miko.\"",
+            "Title": "속세를 비웃는 백 가지 자태 · 야에 미코",
+            "Story": "「지혜와 미모를 겸비한 야에 미코 님」",
             "K": [
                 104
             ]
         },
         {
             "_id": 1407,
-            "Name": "Raiden Shogun",
+            "Name": "라이덴 쇼군",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_POLE",
@@ -1339,8 +1339,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Shougun",
-            "Title": "\"Plane of Euthymia\" Raiden Shogun",
-            "Story": "The tranquil thunder shall scatter this world most ephemeral.",
+            "Title": "일심정토 · 라이덴 쇼군",
+            "Story": "뇌명 적멸, 부세의 포영",
             "K": [
                 104,
                 100,
@@ -1349,7 +1349,7 @@ var _card = [
         },
         {
             "_id": 1406,
-            "Name": "Kujou Sara",
+            "Name": "쿠죠 사라",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_BOW",
@@ -1363,8 +1363,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Sara",
-            "Title": "\"Crowfeather Kaburaya\" Kujou Sara",
-            "Story": "\"This is an act of righteousness.\"",
+            "Title": "검은 깃의 효시 · 쿠죠 사라",
+            "Story": "「모든 것은 대의를 위해」",
             "K": [
                 104,
                 100
@@ -1372,7 +1372,7 @@ var _card = [
         },
         {
             "_id": 1405,
-            "Name": "Beidou",
+            "Name": "북두",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_CLAYMORE",
@@ -1387,8 +1387,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Beidou",
-            "Title": "\"Uncrowned Lord of the Ocean\" Beidou",
-            "Story": "\"Remember this day, you almost won money from the Captain of the Crux.\"",
+            "Title": "무관의 용왕 · 북두",
+            "Story": "「오늘을 기억해두라고, 남십자함대 우두머리의 돈을 딸 뻔했던 날이니까」",
             "K": [
                 104,
                 100,
@@ -1397,7 +1397,7 @@ var _card = [
         },
         {
             "_id": 1404,
-            "Name": "Cyno",
+            "Name": "사이노",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_POLE",
@@ -1412,8 +1412,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Cyno",
-            "Title": "\"Judicator of Secrets\" Cyno",
-            "Story": "The card bears the General Mahamatra's ardent fondness, which reminds one of the scorching sun hanging above the desert.",
+            "Title": "비밀 심판 · 사이노",
+            "Story": "카드에는 뜨거운 사막의 태양과도 같은 대풍기관의 열정이 간직되어 있다",
             "K": [
                 104,
                 100
@@ -1421,7 +1421,7 @@ var _card = [
         },
         {
             "_id": 1402,
-            "Name": "Razor",
+            "Name": "레이저",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_CLAYMORE",
@@ -1435,8 +1435,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Razor",
-            "Title": "\"Wolf Boy\" Razor",
-            "Story": "\"Cards, hard.\"<br>\"But... friends...\"",
+            "Title": "늑대소년 · 레이저",
+            "Story": "「카드, 어려워」<br>「그래도, 친구가 있어…」",
             "K": [
                 104,
                 100
@@ -1444,7 +1444,7 @@ var _card = [
         },
         {
             "_id": 1401,
-            "Name": "Fischl",
+            "Name": "피슬",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_BOW",
@@ -1458,8 +1458,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Fischl",
-            "Title": "\"Fischl, Prinzessin der Verurteilung!\" Fischl",
-            "Story": "\"Oz, mine familiar, spread thine wings and weave for me a new fate in the gloom of this night!\"<br>\"Mein Fräulein, you cannot expect me to fetch you a replacement card...\"",
+            "Title": "단죄의 황녀!! · 피슬",
+            "Story": "「오즈, 나의 권속이여! 그 날개를 펴고 유야 속에서 새로운 운명의 실을 자아내라!」<br>「아가씨, 그런다고 제가 카드를 바꿔드릴 수는 없습니다…」",
             "K": [
                 104,
                 100,
@@ -1468,7 +1468,7 @@ var _card = [
         },
         {
             "_id": 1308,
-            "Name": "Yanfei",
+            "Name": "연비",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -1482,15 +1482,15 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Feiyan",
-            "Title": "Wise Innocence: Yanfei",
-            "Story": "One who fails to revise the classics is liable to fall foul of the law.",
+            "Title": "순수한 지혜 · 연비",
+            "Story": "옛것을 익히려 하지 말고, 정해진 규칙을 본받지 말라",
             "K": [
                 103
             ]
         },
         {
             "_id": 1307,
-            "Name": "Hu Tao",
+            "Name": "호두",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_POLE",
@@ -1504,8 +1504,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Hutao",
-            "Title": "\"Fragrance in Thaw\" Hu Tao",
-            "Story": "\"Send one, send 'em all!\"",
+            "Title": "눈 그친 뒤의 매화향 · 호두",
+            "Story": "「전부 보내줄게」",
             "K": [
                 100,
                 103
@@ -1513,7 +1513,7 @@ var _card = [
         },
         {
             "_id": 1306,
-            "Name": "Klee",
+            "Name": "클레",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -1527,15 +1527,15 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Klee",
-            "Title": "\"Fleeing Sunlight\" Klee",
-            "Story": "Every card you draw may bring an \"explosive surprise.\"",
+            "Title": "도망치는 태양 · 클레",
+            "Story": "모든 카드 뽑기에는 「폭발적인 서프라이즈」가 숨어 있다",
             "K": [
                 103
             ]
         },
         {
             "_id": 1305,
-            "Name": "Yoimiya",
+            "Name": "요이미야",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_BOW",
@@ -1549,8 +1549,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Yoimiya",
-            "Title": "\"Frolicking Flames\" Yoimiya",
-            "Story": "Captain and Vanguard of Team Naganohara for the 11th Hanamizaka Street Invitational.",
+            "Title": "유염화무 · 요이미야",
+            "Story": "제11회 하나미자카 대회의 「나가노하라 팀」 팀장이자 선봉장이다",
             "K": [
                 100,
                 103
@@ -1558,7 +1558,7 @@ var _card = [
         },
         {
             "_id": 1304,
-            "Name": "Amber",
+            "Name": "엠버",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_BOW",
@@ -1572,8 +1572,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Ambor",
-            "Title": "\"Outrider\" Amber",
-            "Story": "If you want to be a great player...<br>First, you have to have the courage to sit down and play.",
+            "Title": "정찰 기사 · 엠버",
+            "Story": "위대한 플레이어가 되려면…<br>먼저 테이블에 앉을 용기가 필요하다",
             "K": [
                 100,
                 5,
@@ -1582,7 +1582,7 @@ var _card = [
         },
         {
             "_id": 1303,
-            "Name": "Bennett",
+            "Name": "베넷",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -1596,8 +1596,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Bennett",
-            "Title": "\"Trial by Fire\" Bennett",
-            "Story": "Once you know that you will certainly lose, then you must certainly know the way to win.",
+            "Title": "운명의 시금석 · 베넷",
+            "Story": "반드시 지게 된다는 것을 눈치채는 순간에는, 어떻게 해야 이길 수 있는지도 알게 되는 법이다",
             "K": [
                 100,
                 103
@@ -1605,7 +1605,7 @@ var _card = [
         },
         {
             "_id": 1302,
-            "Name": "Xiangling",
+            "Name": "향릉",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_POLE",
@@ -1619,8 +1619,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Xiangling",
-            "Title": "\"Exquisite Delicacy\" Xiangling",
-            "Story": "As a chef, she is practically omnipotent.",
+            "Title": "만민백미 · 향릉",
+            "Story": "요리사로서 그녀는 뭐든 해낼 수 있다",
             "K": [
                 100,
                 103
@@ -1628,7 +1628,7 @@ var _card = [
         },
         {
             "_id": 1301,
-            "Name": "Diluc",
+            "Name": "다이루크",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_CLAYMORE",
@@ -1642,8 +1642,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Diluc",
-            "Title": "\"Dark Side of Dawn\" Diluc",
-            "Story": "His heart is his greatest foe.",
+            "Title": "새벽의 어둠 · 다이루크",
+            "Story": "그의 가장 강력한 적은 바로 자신의 마음이다",
             "K": [
                 100,
                 103
@@ -1651,7 +1651,7 @@ var _card = [
         },
         {
             "_id": 1207,
-            "Name": "Candace",
+            "Name": "캔디스",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_POLE",
@@ -1666,8 +1666,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Candace",
-            "Title": "Golden Vow: Candace",
-            "Story": "The crimson sand flows, an oath to defend.",
+            "Title": "수면 위 금빛 결의 · 캔디스",
+            "Story": "적색 사막과 금빛 수면을 수호하기 위한 결의",
             "K": [
                 100,
                 53,
@@ -1676,7 +1676,7 @@ var _card = [
         },
         {
             "_id": 1206,
-            "Name": "Kamisato Ayato",
+            "Name": "카미사토 아야토",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -1690,8 +1690,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Ayato",
-            "Title": "\"Pillar of Fortitude\" Kamisato Ayato",
-            "Story": "The divinely-blessed cypress sprouts new leaves.",
+            "Title": "잎을 수호하는 반석 · 카미사토 아야토",
+            "Story": "신이 수호하는 떡갈나무에 새로운 가지가 자라났다",
             "K": [
                 100,
                 102
@@ -1699,7 +1699,7 @@ var _card = [
         },
         {
             "_id": 1205,
-            "Name": "Sangonomiya Kokomi",
+            "Name": "산고노미야 코코미",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -1713,8 +1713,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Kokomi",
-            "Title": "\"Pearl of Wisdom\" Sangonomiya Kokomi",
-            "Story": "To survive hardship, you must prepare for hardship.",
+            "Title": "진주의 지혜 · 산고노미야 코코미",
+            "Story": "미리 준비해둬야 위험이 다가와도 흐트러지지 않는다",
             "K": [
                 202,
                 102
@@ -1722,7 +1722,7 @@ var _card = [
         },
         {
             "_id": 1204,
-            "Name": "Tartaglia",
+            "Name": "타르탈리아",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_BOW",
@@ -1739,8 +1739,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Tartaglia",
-            "Title": "\"Childe\" Tartaglia",
-            "Story": "Should this table be considered a battlefield, then may the strongest claim the win.",
+            "Title": "「귀공자」 · 타르탈리아",
+            "Story": "카드 대전은 전장과도 같아서, 능력 있는 자가 앞설 수 있다",
             "K": [
                 310,
                 100,
@@ -1749,7 +1749,7 @@ var _card = [
         },
         {
             "_id": 1203,
-            "Name": "Mona",
+            "Name": "모나",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -1764,8 +1764,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Mona",
-            "Title": "\"Astral Reflection\" Mona",
-            "Story": "Victory or defeat — it has all been written in the stars.",
+            "Title": "별하늘의 물거울 · 모나",
+            "Story": "승리와 패배는 모두 운명으로 정해진 것",
             "K": [
                 1,
                 2,
@@ -1774,7 +1774,7 @@ var _card = [
         },
         {
             "_id": 1202,
-            "Name": "Xingqiu",
+            "Name": "행추",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -1788,8 +1788,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Xingqiu",
-            "Title": "\"Juvenile Galant\" Xingqiu",
-            "Story": "\"Is it just me, or are the protagonists in novels nowadays all students of some private school or another...\"",
+            "Title": "고화비운 · 행추",
+            "Story": "「어째 요즘 소설 주인공들은 죄다 학생이네…」",
             "K": [
                 202,
                 100,
@@ -1798,7 +1798,7 @@ var _card = [
         },
         {
             "_id": 1201,
-            "Name": "Barbara",
+            "Name": "바바라",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -1812,15 +1812,15 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Barbara",
-            "Title": "\"Shining Idol\" Barbara",
-            "Story": "Ready to heal hearts and soothe souls at any time.",
+            "Title": "빛나는 아이돌 · 바바라",
+            "Story": "언제든 사람의 마음을 치유해준다",
             "K": [
                 102
             ]
         },
         {
             "_id": 1108,
-            "Name": "Qiqi",
+            "Name": "치치",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -1834,8 +1834,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Qiqi",
-            "Title": "\"Icy Resurrection\" Qiqi",
-            "Story": "Circulating endlessly, life goes on.",
+            "Title": "차가운 환혼의 밤 · 치치",
+            "Story": "끝없는 순환, 끝없는 번성",
             "K": [
                 100,
                 101
@@ -1843,7 +1843,7 @@ var _card = [
         },
         {
             "_id": 1107,
-            "Name": "Shenhe",
+            "Name": "신학",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_POLE",
@@ -1857,8 +1857,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Shenhe",
-            "Title": "\"Lonesome Transcendence\" Shenhe",
-            "Story": "The mortal realm briefly gracing, like a wisp of smoke vanishing.",
+            "Title": "고독한 액신 · 신학",
+            "Story": "아득히 멀어진 속세, 연기처럼 사라진 인과",
             "K": [
                 100,
                 101
@@ -1866,7 +1866,7 @@ var _card = [
         },
         {
             "_id": 1106,
-            "Name": "Eula",
+            "Name": "유라",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_CLAYMORE",
@@ -1880,8 +1880,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Eula",
-            "Title": "\"Dance of the Shimmering Wave\" Eula",
-            "Story": "It's but a game. I won't hold a grudge should luck happen to be on your side.",
+            "Title": "물보라의 춤 · 유라",
+            "Story": "그저 게임일 뿐이다. 이기든 지든 원한을 살 일은 없다",
             "K": [
                 100,
                 101
@@ -1889,7 +1889,7 @@ var _card = [
         },
         {
             "_id": 1105,
-            "Name": "Kamisato Ayaka",
+            "Name": "카미사토 아야카",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -1904,8 +1904,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Ayaka",
-            "Title": "\"Frostflake Heron\" Kamisato Ayaka",
-            "Story": "As graceful as the frost drifting in the wind, as elegant as a heron perched in a courtyard.",
+            "Title": "눈꽃의 백로 · 카미사토 아야카",
+            "Story": "승화된 서리처럼, 정원의 백로처럼",
             "K": [
                 100,
                 101
@@ -1913,7 +1913,7 @@ var _card = [
         },
         {
             "_id": 1104,
-            "Name": "Chongyun",
+            "Name": "중운",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_CLAYMORE",
@@ -1927,8 +1927,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Chongyun",
-            "Title": "\"Frozen Ardor\" Chongyun",
-            "Story": "\"Ugh, summer... Please pass us by in peace...\"",
+            "Title": "얼어붙은 열정 · 중운",
+            "Story": "「여름아, 제발 조용히 지나가 주라…」",
             "K": [
                 100,
                 101
@@ -1936,7 +1936,7 @@ var _card = [
         },
         {
             "_id": 1103,
-            "Name": "Kaeya",
+            "Name": "케이아",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -1950,8 +1950,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Kaeya",
-            "Title": "\"Frostwind Swordsman\" Kaeya",
-            "Story": "Specializes in awakening knightly virtues in others.",
+            "Title": "한풍의 검사 · 케이아",
+            "Story": "그는 다른 사람에게서 「기사의 미덕」을 찾아내는 데 능하다",
             "K": [
                 100,
                 101
@@ -1959,7 +1959,7 @@ var _card = [
         },
         {
             "_id": 1102,
-            "Name": "Diona",
+            "Name": "디오나",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_BOW",
@@ -1973,8 +1973,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Diona",
-            "Title": "\"Kätzlein Cocktail\" Diona",
-            "Story": "1% energy dedicated to mixing drinks, 99% to... denying the reality of familiar.",
+            "Title": "캐츠라인 칵테일 · 디오나",
+            "Story": "1%의 힘으로 술을 섞고, 99%의 힘으로… 거절에 실패",
             "K": [
                 100,
                 101
@@ -1982,7 +1982,7 @@ var _card = [
         },
         {
             "_id": 1101,
-            "Name": "Ganyu",
+            "Name": "감우",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_BOW",
@@ -1997,8 +1997,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Ganyu",
-            "Title": "\"Plenilune Gaze\" Ganyu",
-            "Story": "\"This press release is due tomorrow... I suppose I could work through the night and get it done.\"",
+            "Title": "리월의 수호자 · 감우",
+            "Story": "「내일 아침까지 필요한 거라면 밤을 새워서 완성하면 되겠네요」",
             "K": [
                 5,
                 100,
@@ -2009,7 +2009,7 @@ var _card = [
     [
         {
             "_id": 4408,
-            "Name": "Fatui Electro Cicin Mage",
+            "Name": "우인단 · 번개 치친 술사",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2031,7 +2031,7 @@ var _card = [
         },
         {
             "_id": 3409,
-            "Name": "Thundercraven Rifthound",
+            "Name": "기뢰 · 수계(獸界) 사냥개",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2052,7 +2052,7 @@ var _card = [
         },
         {
             "_id": 3108,
-            "Name": "Large Cryo Slime",
+            "Name": "거대 얼음 슬라임",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2073,7 +2073,7 @@ var _card = [
         },
         {
             "_id": 4407,
-            "Name": "Millennial Pearl Seahorse",
+            "Name": "천년 묵은 진주 기린",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2096,7 +2096,7 @@ var _card = [
         },
         {
             "_id": 4406,
-            "Name": "Millennial Pearl Seahorse",
+            "Name": "천년 묵은 진주 기린",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2119,7 +2119,7 @@ var _card = [
         },
         {
             "_id": 4108,
-            "Name": "Cryo Hypostasis",
+            "Name": "무상의 얼음",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2142,7 +2142,7 @@ var _card = [
         },
         {
             "_id": 4107,
-            "Name": "Cryo Hypostasis",
+            "Name": "무상의 얼음",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2165,7 +2165,7 @@ var _card = [
         },
         {
             "_id": 4106,
-            "Name": "Cryo Hypostasis",
+            "Name": "무상의 얼음",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2188,7 +2188,7 @@ var _card = [
         },
         {
             "_id": 3207,
-            "Name": "Large Hydro Slime",
+            "Name": "거대 물 슬라임",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2209,7 +2209,7 @@ var _card = [
         },
         {
             "_id": 3107,
-            "Name": "Cryo Slime",
+            "Name": "얼음 슬라임",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2229,7 +2229,7 @@ var _card = [
         },
         {
             "_id": 4606,
-            "Name": "Azhdaha",
+            "Name": "야타용왕",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2252,7 +2252,7 @@ var _card = [
         },
         {
             "_id": 4605,
-            "Name": "Azhdaha",
+            "Name": "야타용왕",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2275,7 +2275,7 @@ var _card = [
         },
         {
             "_id": 4506,
-            "Name": "Dvalin",
+            "Name": "드발린",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2300,7 +2300,7 @@ var _card = [
         },
         {
             "_id": 4505,
-            "Name": "Dvalin",
+            "Name": "드발린",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2325,7 +2325,7 @@ var _card = [
         },
         {
             "_id": 4504,
-            "Name": "Dvalin",
+            "Name": "드발린",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2350,7 +2350,7 @@ var _card = [
         },
         {
             "_id": 4503,
-            "Name": "Dvalin",
+            "Name": "드발린",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2375,7 +2375,7 @@ var _card = [
         },
         {
             "_id": 4405,
-            "Name": "Thunder Manifestation",
+            "Name": "뇌음의 권현",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2397,7 +2397,7 @@ var _card = [
         },
         {
             "_id": 4404,
-            "Name": "Thunder Manifestation",
+            "Name": "뇌음의 권현",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2419,7 +2419,7 @@ var _card = [
         },
         {
             "_id": 4305,
-            "Name": "Eremite Scorching Loremaster",
+            "Name": "도금 여단 · 모래의 이야기꾼",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2444,7 +2444,7 @@ var _card = [
         },
         {
             "_id": 6304,
-            "Name": "Crimson Witch of Embers",
+            "Name": "사그라든 화염의 마녀",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2465,7 +2465,7 @@ var _card = [
         },
         {
             "_id": 6303,
-            "Name": "Crimson Witch of Embers",
+            "Name": "사그라든 화염의 마녀",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2486,7 +2486,7 @@ var _card = [
         },
         {
             "_id": 6302,
-            "Name": "Crimson Witch of Embers",
+            "Name": "사그라든 화염의 마녀",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2507,7 +2507,7 @@ var _card = [
         },
         {
             "_id": 4105,
-            "Name": "La Signora",
+            "Name": "「시뇨라」",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2530,7 +2530,7 @@ var _card = [
         },
         {
             "_id": 4104,
-            "Name": "La Signora",
+            "Name": "「시뇨라」",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2553,7 +2553,7 @@ var _card = [
         },
         {
             "_id": 4103,
-            "Name": "La Signora",
+            "Name": "「시뇨라」",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2576,7 +2576,7 @@ var _card = [
         },
         {
             "_id": 3704,
-            "Name": "Suppression Specialist Mek - Pneuma",
+            "Name": "제압 특화 타입 장치 · 프뉴마",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2598,7 +2598,7 @@ var _card = [
         },
         {
             "_id": 3606,
-            "Name": "Eremite Stone Enchanter",
+            "Name": "도금 여단 · 마암역사",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2621,7 +2621,7 @@ var _card = [
         },
         {
             "_id": 3408,
-            "Name": "Assault Specialist Mek - Ousia",
+            "Name": "돌격 특화 타입 장치 · 우시아",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2647,7 +2647,7 @@ var _card = [
         },
         {
             "_id": 3308,
-            "Name": "Suppression Specialist Mek - Ousia",
+            "Name": "제압 특화 타입 장치 · 우시아",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2673,7 +2673,7 @@ var _card = [
         },
         {
             "_id": 3307,
-            "Name": "Assault Specialist Mek - Pneuma",
+            "Name": "돌격 특화 타입 장치 · 프뉴마",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2698,7 +2698,7 @@ var _card = [
         },
         {
             "_id": 3206,
-            "Name": "Eremite Desert Clearwater",
+            "Name": "도금 여단 · 사막의 물",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2723,7 +2723,7 @@ var _card = [
         },
         {
             "_id": 3106,
-            "Name": "Eremite Sunfrost",
+            "Name": "도금 여단 · 태양의 서리",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2748,7 +2748,7 @@ var _card = [
         },
         {
             "_id": 3007,
-            "Name": "Suppression Specialist Mek",
+            "Name": "제압 특화 타입 장치",
             "Tag": [
                 "GCG_TAG_ELEMENT_NONE",
                 "GCG_TAG_WEAPON_NONE",
@@ -2768,7 +2768,7 @@ var _card = [
         },
         {
             "_id": 3006,
-            "Name": "Assault Specialist Mek",
+            "Name": "돌격 특화 타입 장치",
             "Tag": [
                 "GCG_TAG_ELEMENT_NONE",
                 "GCG_TAG_WEAPON_NONE",
@@ -2788,7 +2788,7 @@ var _card = [
         },
         {
             "_id": 3005,
-            "Name": "Ruin Drake: Earthguard",
+            "Name": "유적 드레이크 · 대지의 수호자",
             "Tag": [
                 "GCG_TAG_ELEMENT_NONE",
                 "GCG_TAG_WEAPON_NONE",
@@ -2811,7 +2811,7 @@ var _card = [
         },
         {
             "_id": 3004,
-            "Name": "Ruin Guard",
+            "Name": "유적 가디언",
             "Tag": [
                 "GCG_TAG_ELEMENT_NONE",
                 "GCG_TAG_WEAPON_NONE",
@@ -2835,7 +2835,7 @@ var _card = [
         },
         {
             "_id": 4205,
-            "Name": "Rhodeia of Loch",
+            "Name": "물의 정령 · 로데이아",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2857,7 +2857,7 @@ var _card = [
         },
         {
             "_id": 5301,
-            "Name": "Pyro Abyss Mage",
+            "Name": "화염의 심연 메이지",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2880,7 +2880,7 @@ var _card = [
         },
         {
             "_id": 5201,
-            "Name": "Hydro Abyss Mage",
+            "Name": "물의 심연 메이지",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2903,7 +2903,7 @@ var _card = [
         },
         {
             "_id": 4704,
-            "Name": "Jadeplume Terrorshroom",
+            "Name": "공포의 취령 버섯",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2925,7 +2925,7 @@ var _card = [
         },
         {
             "_id": 4703,
-            "Name": "Jadeplume Terrorshroom",
+            "Name": "공포의 취령 버섯",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2947,7 +2947,7 @@ var _card = [
         },
         {
             "_id": 4702,
-            "Name": "Jadeplume Terrorshroom",
+            "Name": "공포의 취령 버섯",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2969,7 +2969,7 @@ var _card = [
         },
         {
             "_id": 4701,
-            "Name": "Jadeplume Terrorshroom",
+            "Name": "공포의 취령 버섯",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2991,7 +2991,7 @@ var _card = [
         },
         {
             "_id": 4604,
-            "Name": "Stonehide Lawachurl",
+            "Name": "츄츄 바위왕",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3013,7 +3013,7 @@ var _card = [
         },
         {
             "_id": 4603,
-            "Name": "Stonehide Lawachurl",
+            "Name": "츄츄 바위왕",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3035,7 +3035,7 @@ var _card = [
         },
         {
             "_id": 4602,
-            "Name": "Stonehide Lawachurl",
+            "Name": "츄츄 바위왕",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3057,7 +3057,7 @@ var _card = [
         },
         {
             "_id": 4601,
-            "Name": "Stonehide Lawachurl",
+            "Name": "츄츄 바위왕",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3078,7 +3078,7 @@ var _card = [
         },
         {
             "_id": 4502,
-            "Name": "Maguu Kenki",
+            "Name": "꼭두각시 검귀",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3100,7 +3100,7 @@ var _card = [
         },
         {
             "_id": 4501,
-            "Name": "Maguu Kenki",
+            "Name": "꼭두각시 검귀",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3122,7 +3122,7 @@ var _card = [
         },
         {
             "_id": 4403,
-            "Name": "Pure Electro Hypostasis",
+            "Name": "순수한 무상의 뇌전",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3146,7 +3146,7 @@ var _card = [
         },
         {
             "_id": 4402,
-            "Name": "Electro Hypostasis",
+            "Name": "무상의 뇌전",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3171,7 +3171,7 @@ var _card = [
         },
         {
             "_id": 4401,
-            "Name": "Electro Hypostasis",
+            "Name": "무상의 뇌전",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3196,7 +3196,7 @@ var _card = [
         },
         {
             "_id": 4304,
-            "Name": "Abyss Lector: Fathomless Flames",
+            "Name": "심연 봉독자 · 심연의 불꽃",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3219,7 +3219,7 @@ var _card = [
         },
         {
             "_id": 4303,
-            "Name": "Abyss Lector: Fathomless Flames",
+            "Name": "심연 봉독자 · 심연의 불꽃",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3242,7 +3242,7 @@ var _card = [
         },
         {
             "_id": 4302,
-            "Name": "Fatui Pyro Agent",
+            "Name": "우인단 · 화염 채무 처리인",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3264,7 +3264,7 @@ var _card = [
         },
         {
             "_id": 4301,
-            "Name": "Fatui Pyro Agent",
+            "Name": "우인단 · 화염 채무 처리인",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3286,7 +3286,7 @@ var _card = [
         },
         {
             "_id": 4204,
-            "Name": "Mirror Maiden",
+            "Name": "우인단 · 거울의 여인",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3306,7 +3306,7 @@ var _card = [
         },
         {
             "_id": 4203,
-            "Name": "Mirror Maiden",
+            "Name": "우인단 · 거울의 여인",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3326,7 +3326,7 @@ var _card = [
         },
         {
             "_id": 4202,
-            "Name": "Rhodeia of Loch",
+            "Name": "물의 정령 · 로데이아",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3348,7 +3348,7 @@ var _card = [
         },
         {
             "_id": 4201,
-            "Name": "Rhodeia of Loch",
+            "Name": "물의 정령 · 로데이아",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3370,7 +3370,7 @@ var _card = [
         },
         {
             "_id": 4102,
-            "Name": "Fatui Cryo Cicin Mage",
+            "Name": "우인단 · 얼음 치친 술사",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3391,7 +3391,7 @@ var _card = [
         },
         {
             "_id": 4101,
-            "Name": "Fatui Cryo Cicin Mage",
+            "Name": "우인단 · 얼음 치친 술사",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3412,7 +3412,7 @@ var _card = [
         },
         {
             "_id": 3703,
-            "Name": "Dendro Samachurl",
+            "Name": "풀 츄츄 샤먼",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3434,7 +3434,7 @@ var _card = [
         },
         {
             "_id": 3702,
-            "Name": "Wooden Shieldwall Mitachurl",
+            "Name": "나무방패 츄츄 폭도",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3457,7 +3457,7 @@ var _card = [
         },
         {
             "_id": 3701,
-            "Name": "Winged Dendroshroom",
+            "Name": "포롱 풀 버섯몬",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3480,7 +3480,7 @@ var _card = [
         },
         {
             "_id": 3605,
-            "Name": "Grounded Geoshroom",
+            "Name": "뚜벅 바위 버섯몬",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3503,7 +3503,7 @@ var _card = [
         },
         {
             "_id": 3604,
-            "Name": "Fatui Skirmisher - Geochanter Bracer",
+            "Name": "우인단 선발대 · 바위 유격대",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3524,7 +3524,7 @@ var _card = [
         },
         {
             "_id": 3603,
-            "Name": "Geo Samachurl",
+            "Name": "바위 츄츄 샤먼",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3546,7 +3546,7 @@ var _card = [
         },
         {
             "_id": 3602,
-            "Name": "Rockfond Rifthound",
+            "Name": "기암 · 수계 사냥개",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3567,7 +3567,7 @@ var _card = [
         },
         {
             "_id": 3601,
-            "Name": "Rock Shieldwall Mitachurl",
+            "Name": "돌방패 츄츄 폭도",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3589,7 +3589,7 @@ var _card = [
         },
         {
             "_id": 3502,
-            "Name": "Fatui Skirmisher - Anemoboxer Vanguard",
+            "Name": "우인단 선발대 · 풍권 돌격대",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3614,7 +3614,7 @@ var _card = [
         },
         {
             "_id": 3501,
-            "Name": "Anemo Samachurl",
+            "Name": "바람 츄츄 샤먼",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3636,7 +3636,7 @@ var _card = [
         },
         {
             "_id": 3407,
-            "Name": "Fatui Skirmisher - Electrohammer Vanguard",
+            "Name": "우인단 선발대 · 번개 해머 돌격대",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3659,7 +3659,7 @@ var _card = [
         },
         {
             "_id": 3406,
-            "Name": "Electro Slime",
+            "Name": "번개 슬라임",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3679,7 +3679,7 @@ var _card = [
         },
         {
             "_id": 3405,
-            "Name": "Nobushi: Kikouban",
+            "Name": "「노부시 · 잔재주꾼」",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE"
@@ -3703,7 +3703,7 @@ var _card = [
         },
         {
             "_id": 3404,
-            "Name": "Electro Abyss Mage",
+            "Name": "번개의 심연 메이지",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3725,7 +3725,7 @@ var _card = [
         },
         {
             "_id": 3403,
-            "Name": "Crackling Axe Mitachurl",
+            "Name": "번개도끼 츄츄 폭도",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3747,7 +3747,7 @@ var _card = [
         },
         {
             "_id": 3402,
-            "Name": "Electro Hilichurl Shooter",
+            "Name": "츄츄 번개 궁수",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3768,7 +3768,7 @@ var _card = [
         },
         {
             "_id": 3401,
-            "Name": "Kairagi: Dancing Thunder",
+            "Name": "해란귀 · 뇌무",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3793,7 +3793,7 @@ var _card = [
         },
         {
             "_id": 3306,
-            "Name": "Fatui Skirmisher - Pyroslinger Bracer",
+            "Name": "우인단 선발대 · 화승총 유격대",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3815,7 +3815,7 @@ var _card = [
         },
         {
             "_id": 3305,
-            "Name": "Nobushi: Hitsukeban",
+            "Name": "「노부시 · 방화범」",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE"
@@ -3839,7 +3839,7 @@ var _card = [
         },
         {
             "_id": 3304,
-            "Name": "Hilichurl Berserker",
+            "Name": "츄츄 돌격병",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3860,7 +3860,7 @@ var _card = [
         },
         {
             "_id": 3303,
-            "Name": "Kairagi: Fiery Might",
+            "Name": "해란귀 · 염위",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3885,7 +3885,7 @@ var _card = [
         },
         {
             "_id": 3302,
-            "Name": "Blazing Axe Mitachurl",
+            "Name": "불도끼 츄츄 폭도",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3907,7 +3907,7 @@ var _card = [
         },
         {
             "_id": 3301,
-            "Name": "Pyro Abyss Mage",
+            "Name": "화염의 심연 메이지",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3929,7 +3929,7 @@ var _card = [
         },
         {
             "_id": 3205,
-            "Name": "Grounded Hydroshroom",
+            "Name": "뚜벅 물 버섯몬",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3952,7 +3952,7 @@ var _card = [
         },
         {
             "_id": 3204,
-            "Name": "Hydro Slime",
+            "Name": "물 슬라임",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3972,7 +3972,7 @@ var _card = [
         },
         {
             "_id": 3203,
-            "Name": "Fatui Skirmisher - Hydrogunner Legionnaire",
+            "Name": "우인단 선발대 · 물총 중보병",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3995,7 +3995,7 @@ var _card = [
         },
         {
             "_id": 3202,
-            "Name": "Hydro Samachurl",
+            "Name": "물 츄츄 샤먼",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -4017,7 +4017,7 @@ var _card = [
         },
         {
             "_id": 3201,
-            "Name": "Hydro Abyss Mage",
+            "Name": "물의 심연 메이지",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -4039,7 +4039,7 @@ var _card = [
         },
         {
             "_id": 3105,
-            "Name": "Winged Cryoshroom",
+            "Name": "포롱 얼음 버섯몬",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -4062,7 +4062,7 @@ var _card = [
         },
         {
             "_id": 3104,
-            "Name": "Fatui Skirmisher - Cryogunner Legionnaire",
+            "Name": "우인단 선발대 · 얼음총 중보병",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -4085,7 +4085,7 @@ var _card = [
         },
         {
             "_id": 3103,
-            "Name": "Cryo Abyss Mage",
+            "Name": "얼음의 심연 메이지",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -4107,7 +4107,7 @@ var _card = [
         },
         {
             "_id": 3102,
-            "Name": "Cryo Hilichurl Shooter",
+            "Name": "츄츄 얼음 궁수",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -4128,7 +4128,7 @@ var _card = [
         },
         {
             "_id": 3101,
-            "Name": "Ice Shieldwall Mitachurl",
+            "Name": "얼음방패 츄츄 폭도",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -4151,7 +4151,7 @@ var _card = [
         },
         {
             "_id": 3003,
-            "Name": "Nobushi: Jintouban",
+            "Name": "「노부시 · 칼잡이」",
             "Tag": [
                 "GCG_TAG_ELEMENT_NONE",
                 "GCG_TAG_WEAPON_NONE"
@@ -4174,7 +4174,7 @@ var _card = [
         },
         {
             "_id": 3002,
-            "Name": "Hilichurl Shooter",
+            "Name": "츄츄 궁수",
             "Tag": [
                 "GCG_TAG_ELEMENT_NONE",
                 "GCG_TAG_WEAPON_NONE",
@@ -4195,7 +4195,7 @@ var _card = [
         },
         {
             "_id": 3001,
-            "Name": "Hilichurl Fighter",
+            "Name": "츄츄 싸움꾼",
             "Tag": [
                 "GCG_TAG_ELEMENT_NONE",
                 "GCG_TAG_WEAPON_NONE",
@@ -4218,8 +4218,8 @@ var _card = [
     [
         {
             "_id": 323007,
-            "Name": "Lumenstone Adjuvant",
-            "Desc": "<color style='color:#FFFFFFFF'>After you play an Action Card:</color> If, while this card is on the field, you have already played 3 Action Cards this Round, draw 1 card and create 1 Omni Die. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+            "Name": "유명석 촉매",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 행동 카드 사용 후: </color>이 카드가 필드에 있는 동안 이번 턴에 아군이 행동 카드를 3장 사용했을 경우, 카드를 1장 드로우하고 만능 원소 주사위를 1개 생성한다. (턴당 1회)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color>",
             "Tag": [
                 "GCG_TAG_ITEM"
             ],
@@ -4234,8 +4234,8 @@ var _card = [
         },
         {
             "_id": 321018,
-            "Name": "Fortress of Meropide",
-            "Desc": "<color style='color:#FFFFFFFF'>When your active character takes DMG or is healed:</color> This card gains 1 \"Prohibition\" point. (Maximum 4 points)<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> If this card has accumulated 4 \"Prohibition\" points, then 4 points will be consumed and 1 <color style='color:#FFFFFFFF'>Strictly Prohibited</color> will be created in your opponent's playing field. (1 Event Card played by your opponent this Round will have no effect.)",
+            "Name": "메로피드 요새",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 출전 캐릭터가 피해 또는 치유를 받은 후:</color> 이 카드에 「금지령」을 1pt 누적한다. (최대 4pt까지 누적 가능)<br><color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 이 카드가 「금지령」을 4pt 보유한 경우, 4pt를 소모해 적 필드에 <color style='color:#FFFFFFFF'>엄격한 금지령</color>을 생성한다. (이번 턴에 사용한 이벤트 카드 1장 무효화)",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4250,8 +4250,8 @@ var _card = [
         },
         {
             "_id": 423049,
-            "Name": "Mastery Talisman: Sharp Focus",
-            "Desc": "Elemental DMG dealt by your characters' Normal Attacks +1.<br><color style='color:#FFFFFFFF'>After your active character takes DMG or is healed 3 times this Round:</color> Create 3 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. (Once per Round)",
+            "Name": "노련한 부적술 · 거센 집중",
+            "Desc": "아군 캐릭터가 일반 공격으로 주는 원소 피해+1pt<br><color style='color:#FFFFFFFF'>이번 턴에 아군 출전 캐릭터가 피해 또는 치유를 3회 받은 후: </color><color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color> 3개를 생성한다. (턴당 1회)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -4262,8 +4262,8 @@ var _card = [
         },
         {
             "_id": 423048,
-            "Name": "Mastery Talisman: Stalwart Frontline",
-            "Desc": "DMG dealt by your Summons +1.<br><color style='color:#FFFFFFFF'>When you declare the end of your Round:</color> Create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> at the start of the next Round's Action Phase for each Summon on your side of the field.",
+            "Name": "노련한 부적술 · 굳센 전선",
+            "Desc": "아군 소환물이 주는 피해+1pt<br><color style='color:#FFFFFFFF'>아군이 종료 선언 시:</color> 아군 필드에 존재하는 소환물 1개당 다음 턴 행동 단계 시작 시 <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 1개 생성한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -4274,8 +4274,8 @@ var _card = [
         },
         {
             "_id": 423047,
-            "Name": "Mastery Talisman: Formation Assault",
-            "Desc": "<color style='color:#FFFFFFFF'>When your character uses an Elemental Burst:</color> Spend 3 less Elemental Dice. (Once per Round)<br><color style='color:#FFFFFFFF'>After your characters take DMG or are healed:</color> This card gains 1 \"Formation\" point. If this card already has 5 \"Formation\" points, consume 5 points, and cause all of your characters to gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.",
+            "Name": "노련한 부적술 · 포진 돌격",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 「원소폭발」 사용 시:</color> 원소 주사위 소모 개수-3 (턴당 1회)<br><color style='color:#FFFFFFFF'>아군 캐릭터가 피해 또는 치유를 받은 후:</color> 이 카드에 「전세」를 1pt 누적한다. 이 카드에 「전세」가 5pt 누적된 경우, 5pt를 소모하고 모든 아군 캐릭터가 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>를 1pt 획득한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -4286,8 +4286,8 @@ var _card = [
         },
         {
             "_id": 423046,
-            "Name": "Mastery Talisman: Lightweight Tactics",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play an Action Card:</color> Spend 1 less Elemental Die and create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. (Up to 3 times per Round)",
+            "Name": "노련한 부적술 · 경량 전술",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 행동 카드 사용 시:</color> 원소 주사위 소모 개수가 1개 감소하고 <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 1개 생성한다. (턴당 최대 3회 발동)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -4298,8 +4298,8 @@ var _card = [
         },
         {
             "_id": 323006,
-            "Name": "Memento Lens",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3003[a]Weapon/[b]3004[a]Artifact/[b]3104[a]Location/[b]3103[a]Companion card:</color> If you have played a card with the same name previously during this match, spend 2 less Elemental Dice to play it. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "기억의 렌즈",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 「[b]3003[a]무기」/「[b]3004[a]성유물」/「[b]3104[a]필드」/「[b]3103[a]동료」 핸드 카드 사용 시:</color> 이번 대전에서 아군이 같은 이름의 카드를 사용한 적이 있다면 원소 주사위 소모 개수-2(턴당 1회)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
             "Tag": [
                 "GCG_TAG_ITEM"
             ],
@@ -4314,8 +4314,8 @@ var _card = [
         },
         {
             "_id": 323005,
-            "Name": "Seed Dispensary",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play an Equipment or Support Card with an original cost of 1 Elemental Die: </color>Spend 1 less Elemental Die. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "씨앗 함",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 기본 원소 주사위 코스트가 1인 장비 또는 서포트 카드 사용 시:</color> 원소 주사위 소모 개수-1(턴당 1회)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
             "Tag": [
                 "GCG_TAG_ITEM"
             ],
@@ -4328,8 +4328,8 @@ var _card = [
         },
         {
             "_id": 323004,
-            "Name": "Treasure-Seeking Seelie",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character uses a skill:</color> This card will accumulate 1 <color style='color:#FFFFFFFF'>Treasure Clue</color>.<br>If this card has stored 3 <color style='color:#FFFFFFFF'>Treasure Clues</color>, then discard this card and draw 3 cards.",
+            "Name": "보물 찾는 선령",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 스킬 사용 후:</color> 해당 카드가 <color style='color:#FFFFFFFF'>「보물찾기」</color>를 1개 누적한다. 해당 카드로 <color style='color:#FFFFFFFF'>「보물찾기」</color>를 3개 누적 시 이 카드를 버린 후 카드를 3장 드로우한다.",
             "Tag": [
                 "GCG_TAG_ITEM"
             ],
@@ -4342,8 +4342,8 @@ var _card = [
         },
         {
             "_id": 323003,
-            "Name": "Red Feather Fan",
-            "Desc": "<color style='color:#FFFFFFFF'>After you switch characters:</color> The next Switch Character action you perform this Round will be considered a <color style='color:#FFFFFFFF'>Fast Action</color> instead of a <color style='color:#FFFFFFFF'>Combat Action</color>. It will also cost 1 less Elemental Die. (Once per Round)",
+            "Name": "붉은 깃털 부채",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터 교체 후:</color> 이번 턴에서 아군의 다음번 「캐릭터 교체」 행동을 「<color style='color:#FFFFFFFF'>전투 행동</color>」이 아닌 「<color style='color:#FFFFFFFF'>빠른 행동</color>」으로 간주하며 원소 주사위 소모 개수가 1개 감소한다. (턴당 1회)",
             "Tag": [
                 "GCG_TAG_ITEM"
             ],
@@ -4359,8 +4359,8 @@ var _card = [
         },
         {
             "_id": 323002,
-            "Name": "NRE",
-            "Desc": "<color style='color:#FFFFFFFF'>When played:</color> Draw 1 random [b]3101[a]Food Event Card from your deck.<br><color style='color:#FFFFFFFF'>When you play a [b]3101[a]Food Event Card:</color> Draw 1 random [b]3101[a]Food Event Card from your deck (once per Round).",
+            "Name": "영양키트",
+            "Desc": "<color style='color:#FFFFFFFF'>필드 입장 시:</color> 덱에서 랜덤으로 「[b]3101[a]요리」 이벤트 카드를 1장 드로우한다.<br><color style='color:#FFFFFFFF'>아군이 「[b]3101[a]요리」 이벤트 카드 사용 시:</color> 덱에서 랜덤으로 「[b]3101[a]요리」 이벤트 카드를 1장 드로우한다. (턴당 1회)",
             "Tag": [
                 "GCG_TAG_ITEM"
             ],
@@ -4373,8 +4373,8 @@ var _card = [
         },
         {
             "_id": 323001,
-            "Name": "Parametric Transformer",
-            "Desc": "<color style='color:#FFFFFFFF'>When either side uses a Skill:</color> If Elemental DMG was dealt, this card gains 1 <color style='color:#FFFFFFFF'>Qualitative Progress</color>.<br>If this card has gained 3 <color style='color:#FFFFFFFF'>Qualitative Progress</color>, then discard this card and create 3 different Basic Elemental Dice.",
+            "Name": "매개 변수 변환기",
+            "Desc": "<color style='color:#FFFFFFFF'>양측 캐릭터가 스킬 사용 후:</color> 원소 피해를 줄 경우 해당 카드는 <color style='color:#FFFFFFFF'>「질적 변화 진도」</color>를 1개 누적한다. 해당 카드로 <color style='color:#FFFFFFFF'>「질적 변화 진도」</color>를 3개 누적 시 이 카드를 버린 후 각기 다른 타입의 일반 원소 주사위를 3개 생성한다.",
             "Tag": [
                 "GCG_TAG_ITEM"
             ],
@@ -4387,8 +4387,8 @@ var _card = [
         },
         {
             "_id": 322023,
-            "Name": "Silver and Melus",
-            "Desc": "This card will record the number of types of Elemental DMG opposing characters have taken during this match as points of Attendant's Attentiveness. (Max 4 points)<br><color style='color:#FFFFFFFF'>End Phase:</color> If you have at least 3 Attendant's Attentiveness points, discard this card and draw cards equal to the amount of Attendant's Attentiveness points.",
+            "Name": "실버와 마르시악",
+            "Desc": "이 카드는 이번 대전에서 적 캐릭터가 받은 원소 피해의 종류를 기록하고 이를 「부하의 꼼꼼함」이라 칭한다. (최대 4pt)<br><color style='color:#FFFFFFFF'>종료 단계:</color> 「부하의 꼼꼼함」이 3pt 이상이면 이 카드를 버리고 「부하의 꼼꼼함」 포인트만큼 카드를 드로우한다.",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4401,8 +4401,8 @@ var _card = [
         },
         {
             "_id": 322022,
-            "Name": "Jeht",
-            "Desc": "This card will record the number of cards discarded from your Support Zone during this match as Sophistication points. (Max 6 points)<br><color style='color:#FFFFFFFF'>After your characters use an Elemental Burst:</color> If this card has recorded at least 5 Sophistication points, discard this card and generate <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> equal to the number of <color style='color:#FFFFFFFF'>Sophistication points minus 2</color>.",
+            "Name": "제트",
+            "Desc": "이 카드는 이번 대전 중 아군 서포트 구역의 버려진 카드 수량을 기록하고 이를 「경험」이라 칭한다. (최대 6pt)<br><color style='color:#FFFFFFFF'>아군 캐릭터가 「원소폭발」 사용 후:</color> 「경험」이 5pt 이상이면 이 카드를 버리고 <color style='color:#FFFFFFFF'>「경험」에서 2pt를 제외한</color> 나머지 포인트와 같은 수량의 <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 생성한다.",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4417,8 +4417,8 @@ var _card = [
         },
         {
             "_id": 322021,
-            "Name": "Mamere",
-            "Desc": "<color style='color:#FFFFFFFF'>After you play a [b]3101[a]Food/[b]3104[a]Location/[b]3103[a]Companion/[b]3102[a]Item Action Card other than Mamere:</color> Randomly create 1 [b]3101[a]Food/[b]3104[a]Location/[b]3103[a]Companion/[b]3102[a]Item Action Card other than Mamere, and add it to your hand. (Once per Round).<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+            "Name": "마메흐",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 「마메흐」 이외의 「[b]3101[a]요리」/「[b]3104[a]필드」/「[b]3103[a]동료」/「[b]3102[a]아이템」 행동 카드 사용 후:</color> 「마메흐」 이외의 「[b]3101[a]요리」/「[b]3104[a]필드」/「[b]3103[a]동료」/「[b]3102[a]아이템」 행동 카드를 랜덤으로 1장 생성하여 핸드 카드로 가져온다. (턴당 1회)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color>",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4431,8 +4431,8 @@ var _card = [
         },
         {
             "_id": 322020,
-            "Name": "Yayoi Nanatsuki",
-            "Desc": "<color style='color:#FFFFFFFF'>When playing an [b]3004[a]Artifact card:</color> Spend 1 less Elemental Die. On top of that, for each of your characters already equipped with an [b]3004[a]Artifact on the field, you spend 1 less Elemental Die (once per Round).",
+            "Name": "야요이 나나츠키",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 「[b]3004[a]성유물」 카드 사용 시:</color> 원소 주사위 소모 개수-1. 아군 필드에 「[b]3004[a]성유물」을 장착한 캐릭터가 존재하면 1명당 추가로 원소 주사위 소모 개수-1 (턴당 1회)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4445,8 +4445,8 @@ var _card = [
         },
         {
             "_id": 322019,
-            "Name": "Setaria",
-            "Desc": "<color style='color:#FFFFFFFF'>After you perform any action, if you have 0 cards in your hand: </color>Draw 1 card.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+            "Name": "세타르",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 임의의 행동을 한 후, 핸드 카드 수량이 0일 경우:</color> 카드를 1장 드로우한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color>",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4461,8 +4461,8 @@ var _card = [
         },
         {
             "_id": 322018,
-            "Name": "Master Zhang",
-            "Desc": "<color style='color:#FFFFFFFF'>When playing a [b]3003[a]Weapon card:</color> Spend 1 less Elemental Die. On top of that, for each of your characters already equipped with a [b]3003[a]Weapon on the field, you spend 1 less Elemental Die. (Once per Round.)",
+            "Name": "장 씨",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 「[b]3003[a]무기」 카드 사용 시:</color> 원소 주사위 소모 개수-1<br>아군 필드에 「[b]3003[a]무기」를 장착한 캐릭터가 존재하면 1명당 추가로 원소 주사위 소모 개수-1 (턴당 1회)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4475,8 +4475,8 @@ var _card = [
         },
         {
             "_id": 322017,
-            "Name": "Rana",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character uses an Elemental Skill:</color> Create 1 Elemental Die of the same Type as your next off-field character. (Once per Round)",
+            "Name": "라나",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 「원소전투 스킬」 사용 후:</color> 아군 다음 대기 캐릭터와 같은 타입의 원소 주사위를 1개 생성한다. (턴당 1회)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4489,8 +4489,8 @@ var _card = [
         },
         {
             "_id": 322016,
-            "Name": "Dunyarzad",
-            "Desc": "<color style='color:#FFFFFFFF'>When playing a [b]3103[a]Companion Support Card:</color> Spend 1 less Elemental Die (once per Round).<br><color style='color:#FFFFFFFF'>After playing a [b]3103[a]Companion Support Card:</color>Draw 1 random [b]3103[a]Companion Support Card from your deck (once per match).",
+            "Name": "두냐르자드",
+            "Desc": "<color style='color:#FFFFFFFF'>「[b]3103[a]동료」 서포트 카드 사용 시:</color> 원소 주사위 소모 개수-1 (턴당 1회)<br><color style='color:#FFFFFFFF'>「[b]3103[a]동료」 서포트 카드 사용 후:</color> 덱에서 랜덤으로 「[b]3103[a]동료」 서포트 카드를 1장 드로우한다. (대전당 1회 제한)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4503,8 +4503,8 @@ var _card = [
         },
         {
             "_id": 322015,
-            "Name": "Xudong",
-            "Desc": "<color style='color:#FFFFFFFF'>When playing a [b]3101[a]Food Event Card:</color> Spend 2 less Elemental Dice. (Once per Round)",
+            "Name": "동욱",
+            "Desc": "<color style='color:#FFFFFFFF'>「[b]3101[a]요리」 이벤트 카드 사용 시:</color> 원소 주사위 소모 개수-2 (턴당 1회)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4517,8 +4517,8 @@ var _card = [
         },
         {
             "_id": 322014,
-            "Name": "Kid Kujirai",
-            "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase begins:</color> Create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. Then if your opponent's Support Zone is not full, transfer this card to your opponent's Support Zone.",
+            "Name": "쿠지라이",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 1개 생성한다. 그 후 상대의 서포트 구역에 빈 곳이 있을 경우, 해당 카드를 상대 서포트 구역으로 보낸다.",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4531,8 +4531,8 @@ var _card = [
         },
         {
             "_id": 322013,
-            "Name": "Hanachirusato",
-            "Desc": "<color style='color:#FFFFFFFF'>When a Summon disappears:</color> This card gains 1 <color style='color:#FFFFFFFF'>Cleansing Ritual Progress</color>. (Max 3)<br><color style='color:#FFFFFFFF'>When you play a [b]3003[a]Weapon or [b]3004[a]Artifact Card:</color> If you already have 3 <color style='color:#FFFFFFFF'>Cleansing Ritual Progress</color>, discard this card and cause the card you play to cost 2 less Elemental Dice.",
+            "Name": "하나치루사토",
+            "Desc": "<color style='color:#FFFFFFFF'>소환물이 사라질 시:</color> 해당 카드가 <color style='color:#FFFFFFFF'>「대규모 액막이」 진행도</color>를 1pt 누적한다. (최대 3pt까지 누적)<br><color style='color:#FFFFFFFF'>아군이 「[b]3003[a]무기」나 「[b]3004[a]성유물」 장착 시: </color>만약<color style='color:#FFFFFFFF'> 「대규모 액막이」 진행도</color>가 이미 3pt에 도달한 경우, 해당 카드를 버리고 카드 사용에 소모되는 원소 주사위가 2개 감소한다.",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4543,8 +4543,8 @@ var _card = [
         },
         {
             "_id": 322012,
-            "Name": "Liu Su",
-            "Desc": "<color style='color:#FFFFFFFF'>After you switch characters:</color> If the character you switched to does not have <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>, they will gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "유소",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터 교체 후:</color> 교체 후 출전한 캐릭터에게 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>가 없으면 해당 캐릭터가 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>를 1pt 획득한다. (턴당 1회)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4560,8 +4560,8 @@ var _card = [
         },
         {
             "_id": 322011,
-            "Name": "Iron Tongue Tian",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> One of your characters without maximum Energy gains 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>. (Active Character prioritized)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "전달변",
+            "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> 원소 에너지가 가득 차지 않은 아군 캐릭터 1명이 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>를 1pt 획득한다. (출전 캐릭터 우선)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4577,8 +4577,8 @@ var _card = [
         },
         {
             "_id": 322010,
-            "Name": "Ellin",
-            "Desc": "<color style='color:#FFFFFFFF'>When you use a Skill that has already been used in this Round:</color> Spend 1 less Elemental Die. (Once per Round)",
+            "Name": "엘린",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 이번 턴에 사용했던 스킬 사용 시:</color> 원소 주사위 소모 개수-1 (턴당 1회)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4591,8 +4591,8 @@ var _card = [
         },
         {
             "_id": 322009,
-            "Name": "Chang the Ninth",
-            "Desc": "<color style='color:#FFFFFFFF'>After either side uses a Skill:</color> If [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> or <color style='color:#FFFFFFFF'>Piercing DMG</color> was dealt, or an <color style='color:#FFFFFFFF'>Elemental Reaction</color> was triggered, this card gains 1 <color style='color:#FFFFFFFF'>Inspiration</color>.<br>When this card gains 3 <color style='color:#FFFFFFFF'>Inspiration</color>, then discard this card and draw 2 cards.",
+            "Name": "상구야",
+            "Desc": "<color style='color:#FFFFFFFF'>양측에서 스킬 발동 시:</color> [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>, <color style='color:#FFFFFFFF'>관통 피해</color> 또는 <color style='color:#FFFFFFFF'>원소 반응 발동</color> 후, 해당 카드는 <color style='color:#FFFFFFFF'>「영감」</color>을 1개 누적한다. 해당 카드로 <color style='color:#FFFFFFFF'>「영감」</color>을 3개 누적 시 이 카드를 버린 후 카드를 2장 드로우한다.",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4606,8 +4606,8 @@ var _card = [
         },
         {
             "_id": 322008,
-            "Name": "Liben",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Collect your unused Elemental Dice (Max 1 of each Elemental Type).<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> If this card has collected 3 Elemental Dice, draw 2 cards and create <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> ×2, then discard this card.",
+            "Name": "본이",
+            "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> 아군이 사용하지 않은 원소 주사위를 수집한다. (원소 타입마다 최대 1개)<br><color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 만약 해당 카드로 원소 주사위를 3개 수집했다면 카드를 2장 드로우하고 <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 2개 생성한 후 해당 카드를 버린다.",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4620,8 +4620,8 @@ var _card = [
         },
         {
             "_id": 322007,
-            "Name": "Timmie",
-            "Desc": "<color style='color:#FFFFFFFF'>Triggers automatically once per Round:</color> This card gains 1 <color style='color:#FFFFFFFF'>Pigeon</color>. When this card gains 3 <color style='color:#FFFFFFFF'>Pigeons</color>, discard this card, then draw 1 card and create <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> ×1.",
+            "Name": "티미",
+            "Desc": "<color style='color:#FFFFFFFF'>턴마다 자동으로 1회 발동:</color> <color style='color:#FFFFFFFF'>「비둘기」</color>를 1마리 누적한다. 해당 카드로 <color style='color:#FFFFFFFF'>「비둘기」</color> 3마리 누적 시 이 카드를 버린 후: 카드를 1장 드로우하고 <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 1개 생성한다.",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4634,8 +4634,8 @@ var _card = [
         },
         {
             "_id": 322006,
-            "Name": "Tubby",
-            "Desc": "<color style='color:#FFFFFFFF'>When playing a [b]3104[a]Location Support Card:</color> Spend 2 less Elemental Dice. (Once per Round)",
+            "Name": "포롱이",
+            "Desc": "<color style='color:#FFFFFFFF'>「[b]3104[a]필드」 서포트 카드 사용 시:</color> 원소 주사위 소모 개수-2 (턴당 1회)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4648,8 +4648,8 @@ var _card = [
         },
         {
             "_id": 322005,
-            "Name": "Chef Mao",
-            "Desc": "<color style='color:#FFFFFFFF'>After playing a [b]3101[a]Food Event Card:</color> Create 1 random Basic Elemental Die (once per Round).<br><color style='color:#FFFFFFFF'>After playing a [b]3101[a]Food Event Card:</color>Draw 1 random [b]3101[a]Food Event Card from your deck (once per match).",
+            "Name": "묘 사부",
+            "Desc": "<color style='color:#FFFFFFFF'>「[b]3101[a]요리」 이벤트 카드 사용 후:</color> 랜덤으로 일반 원소 주사위를 1개 생성한다. (턴당 1회)<br><color style='color:#FFFFFFFF'>「[b]3101[a]요리」 이벤트 카드 사용 후:</color> 덱에서 랜덤으로 「[b]3101[a]요리」 이벤트 카드를 1장 드로우한다. (대전당 1회 제한)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4662,8 +4662,8 @@ var _card = [
         },
         {
             "_id": 322004,
-            "Name": "Wagner",
-            "Desc": "<color style='color:#FFFFFFFF'>When played:</color> Comes with 2 <color style='color:#FFFFFFFF'>Forging Billets</color>. If your deck originally includes at least 3 different types of [b]3003[a]Weapons, you will randomly also draw 1 [b]3003[a]Weapon Card from your deck.<br><color style='color:#FFFFFFFF'>End Phase:</color> This card will gain 1 <color style='color:#FFFFFFFF'>Forging Billet</color>.<br><color style='color:#FFFFFFFF'>When playing a [b]3003[a]Weapon Card:</color> If possible, spend <color style='color:#FFFFFFFF'>Forging Billets</color> equal to the total cost of the [b]3003[a]Weapon and equip this [b]3003[a]Weapon for free. (Once per Round)",
+            "Name": "바그너",
+            "Desc": "<color style='color:#FFFFFFFF'>필드 입장 시:</color> <color style='color:#FFFFFFFF'>「단조 원형」</color> 2개 제공. 아군 카드 덱에 시작부터 최소 3종류의 서로 다른 「[b]3003[a]무기」가 포함되어 있을 경우, 카드 덱에서 랜덤으로 「[b]3003[a]무기」 카드를 1장 드로우한다.<br><color style='color:#FFFFFFFF'>종료 단계</color>: 해당 카드에 <color style='color:#FFFFFFFF'>「단조 원형」</color>을 1개 보충한다.<br><color style='color:#FFFFFFFF'>「[b]3003[a]무기」 핸드 카드 사용 시:</color> 「[b]3003[a]무기」의 총 코스트와 동일한 <color style='color:#FFFFFFFF'>「단조 원형」</color>이 모이면 이를 소모하여 해당 「[b]3003[a]무기」를 무료로 장착한다. (턴당 1회)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4676,8 +4676,8 @@ var _card = [
         },
         {
             "_id": 322003,
-            "Name": "Timaeus",
-            "Desc": "<color style='color:#FFFFFFFF'>When played: </color>Comes with 2 <color style='color:#FFFFFFFF'>Transmutation Materials</color>. If your deck originally includes at least 6 [b]3004[a]Artifact cards, you will randomly also draw 1 [b]3004[a]Artifact Card from your deck.<br><color style='color:#FFFFFFFF'>End Phase:</color> This card will gain 1 <color style='color:#FFFFFFFF'>Transmutation Material</color>.<br><color style='color:#FFFFFFFF'>When playing an [b]3004[a]Artifact Card:</color> If possible, spend <color style='color:#FFFFFFFF'>Transmutation Materials</color> equal to the total cost of the [b]3004[a]Artifact and equip this [b]3004[a]Artifact for free. (Once per Round)",
+            "Name": "데마로우스",
+            "Desc": "<color style='color:#FFFFFFFF'>필드 입장 시:</color> <color style='color:#FFFFFFFF'>「합성 재료」</color> 2개 제공. 아군 카드 덱에 시작부터 최소 6장의 「[b]3004[a]성유물」이 포함되어 있을 경우, 카드 덱에서 랜덤으로 「[b]3004[a]성유물」 카드를 1장 드로우한다.<br><color style='color:#FFFFFFFF'>종료 단계:</color> 해당 카드에 <color style='color:#FFFFFFFF'>「합성 재료」</color>를 1개 보충한다.<br><color style='color:#FFFFFFFF'>「[b]3004[a]성유물」 핸드 카드 사용 시:</color> 「[b]3004[a]성유물」의 총 코스트와 동일한 <color style='color:#FFFFFFFF'>「합성 재료」</color>가 모이면 이를 소모하여 해당 「[b]3004[a]성유물」을 무료로 장착한다. (턴당 1회)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4690,8 +4690,8 @@ var _card = [
         },
         {
             "_id": 322002,
-            "Name": "Katheryne",
-            "Desc": "<color style='color:#FFFFFFFF'>When you perform \"Switch Character\":</color> This switch is considered a <color style='color:#FFFFFFFF'>Fast Action</color> instead of a <color style='color:#FFFFFFFF'>Combat Action</color>. (Once per Round)",
+            "Name": "캐서린",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 「캐릭터 교체」 행동 진행 시:</color> 이번 교체를 「<color style='color:#FFFFFFFF'>전투 행동</color>」이 아닌 「<color style='color:#FFFFFFFF'>빠른 행동</color>」으로 간주한다. (턴당 1회)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4707,8 +4707,8 @@ var _card = [
         },
         {
             "_id": 322001,
-            "Name": "Paimon",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Create <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> ×2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "페이몬",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 2개 생성한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4724,8 +4724,8 @@ var _card = [
         },
         {
             "_id": 321017,
-            "Name": "Opera Epiclese",
-            "Desc": "<color style='color:#FFFFFFFF'>Before you choose an action:</color> If the original Elemental Dice cost of the cards equipped to your characters is not less than that of the opposing side, create 1 Elemental Die of your active character's element. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+            "Name": "에피클레스 오페라 하우스",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 행동하기 전:</color> 아군 캐릭터가 장착한 카드의 기본 원소 주사위 총 코스트가 상대보다 높을 경우, 출전 캐릭터 타입의 원소 주사위를 1개 생성한다. (턴당 1회)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4740,8 +4740,8 @@ var _card = [
         },
         {
             "_id": 321016,
-            "Name": "Weeping Willow of the Lake",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> If your Hand has no more than 2 cards, draw 2 cards.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "호수 위 버드나무",
+            "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> 아군 핸드 카드가 2장 이하일 경우, 카드를 2장 드로우한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4756,8 +4756,8 @@ var _card = [
         },
         {
             "_id": 321015,
-            "Name": "Stormterror's Lair",
-            "Desc": "<color style='color:#FFFFFFFF'>When played:</color> Draw a random [b]3006[a]Talent card from your deck.<br><color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card, or when your character uses a Skill with an original cost of at least 4 Elemental Dice: </color>Spend 1 less Elemental Die. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+            "Name": "바람 드래곤의 폐허",
+            "Desc": "<color style='color:#FFFFFFFF'>필드 입장 시:</color> 덱에서 랜덤으로 「[b]3006[a]특성」 카드를 1장 드로우한다.<br><color style='color:#FFFFFFFF'>아군이 「[b]3006[a]특성」 카드를 사용하거나 아군 캐릭터가 기본 원소 주사위 코스트가 4 이상인 스킬 사용 시:</color> 원소 주사위 소모 개수-1(턴당 1회)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4772,8 +4772,8 @@ var _card = [
         },
         {
             "_id": 321014,
-            "Name": "Gandharva Ville",
-            "Desc": "<color style='color:#FFFFFFFF'>Before you choose your action, when the number of Elemental Dice you have is 0:</color> Create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> (once per Round).<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+            "Name": "간다르바 성곽",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 행동하기 전에 원소 주사위가 0개일 시:</color> <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 1개 생성한다. (턴당 1회)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>：3</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4789,8 +4789,8 @@ var _card = [
         },
         {
             "_id": 321013,
-            "Name": "Golden House",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3003[a]Weapon card or an [b]3004[a]Artifact card with an original cost of at least 3: </color>Spend 1 less Elemental Die. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "황금옥",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 기본 원소 주사위 코스트가 3 이상인 「[b]3003[a]무기」 또는 「[b]3004[a]성유물」 카드 사용 시:</color> 원소 주사위 소모 개수-1(턴당 1회)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4803,8 +4803,8 @@ var _card = [
         },
         {
             "_id": 321012,
-            "Name": "Chinju Forest",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> If you do not start first, create 1 Elemental Die that matches the Type of your active character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+            "Name": "진수의 숲",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 만약 아군이 「선제 플레이어」가 아닐 경우, 출전 캐릭터와 같은 타입의 원소 주사위를 1개 생성한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4819,8 +4819,8 @@ var _card = [
         },
         {
             "_id": 321011,
-            "Name": "Vanarana",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Collect up to 2 unused Elemental Dice.<br><color style='color:#FFFFFFFF'>When the Action Phase begins:</color> Reclaim the dice you collected using this card.",
+            "Name": "바나라나",
+            "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> 사용하지 않은 원소 주사위를 최대 2개 수집한다.<br><color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 해당 카드로 수집한 원소 주사위를 가져온다.",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4831,8 +4831,8 @@ var _card = [
         },
         {
             "_id": 321010,
-            "Name": "Sumeru City",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or your character uses a Skill:</color> If you do not have more Elemental Dice than cards in your hand, spend 1 less Elemental Die. (Once per Round)",
+            "Name": "수메르성",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 「[b]3006[a]특성」 카드 사용 또는 아군 캐릭터가 스킬 사용 시:</color> 아군 원소 주사위가 핸드 카드보다 많지 않은 경우, 원소 주사위 소모 개수-1 (턴당 1회)",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4845,8 +4845,8 @@ var _card = [
         },
         {
             "_id": 321009,
-            "Name": "Sangonomiya Shrine",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heal all your characters for 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "산호궁",
+            "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> 모든 아군 캐릭터의 HP를 1pt 치유한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4861,8 +4861,8 @@ var _card = [
         },
         {
             "_id": 321008,
-            "Name": "Grand Narukami Shrine",
-            "Desc": "<color style='color:#FFFFFFFF'>Triggers automatically once per Round:</color> Create 1 random Basic Elemental Die.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>：3</color>",
+            "Name": "나루카미 다이샤",
+            "Desc": "<color style='color:#FFFFFFFF'>턴마다 자동으로 1회 발동: </color>랜덤으로 일반 원소 주사위를 1개 생성한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4877,8 +4877,8 @@ var _card = [
         },
         {
             "_id": 321007,
-            "Name": "Tenshukaku",
-            "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase begins:</color> If you have 5 different kinds of Elemental Die, create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>.",
+            "Name": "천수각",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 아군 원소 주사위에 5가지 다른 타입의 원소가 포함될 경우, <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 1개 생성한다.",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4893,8 +4893,8 @@ var _card = [
         },
         {
             "_id": 321006,
-            "Name": "Favonius Cathedral",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heals your active character for 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "페보니우스 대성당",
+            "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> 아군 「출전 캐릭터」의 HP를 2pt 치유한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4909,8 +4909,8 @@ var _card = [
         },
         {
             "_id": 321005,
-            "Name": "Wangshu Inn",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heal the most injured character on standby for 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "망서 객잔",
+            "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> 피해를 가장 많이 받은 아군 대기 캐릭터의 HP를 2pt 치유한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4925,8 +4925,8 @@ var _card = [
         },
         {
             "_id": 321004,
-            "Name": "Dawn Winery",
-            "Desc": "<color style='color:#FFFFFFFF'>When you perform \"Switch Character\":</color> Spend 1 less Elemental Die. (Once per Round)",
+            "Name": "다운 와이너리",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 「캐릭터 교체」 행동 진행 시:</color> 원소 주사위 소모 개수-1 (턴당 1회)",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4939,8 +4939,8 @@ var _card = [
         },
         {
             "_id": 321003,
-            "Name": "Jade Chamber",
-            "Desc": "<color style='color:#FFFFFFFF'>Roll Phase</color>: 2 initial Elemental Dice will be of the same Elemental type as your active character.<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> If you have no more than 3 cards in your Hand, discard this card and create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>.",
+            "Name": "군옥각",
+            "Desc": "<color style='color:#FFFFFFFF'>주사위 단계:</color> 초기 2개의 원소 주사위는 아군 출전 캐릭터 타입과 동일한 원소 유형을 가진다.<br><color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 만약 아군의 핸드 카드 수량이 3장 이하일 경우, 이 카드를 버리고 <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 1개 생성한다.",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4953,8 +4953,8 @@ var _card = [
         },
         {
             "_id": 321002,
-            "Name": "Knights of Favonius Library",
-            "Desc": "<color style='color:#FFFFFFFF'>When played:</color> Select any Elemental Dice to reroll.<br><color style='color:#FFFFFFFF'>Roll Phase:</color> Gain another chance to reroll.",
+            "Name": "기사단 도서관",
+            "Desc": "<color style='color:#FFFFFFFF'>필드 입장 시:</color> 임의의 원소 주사위를 선택 후 다시 굴린다.<br><color style='color:#FFFFFFFF'>주사위 단계:</color> 다시 굴리기 기회를 추가로 1회 획득한다.",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4965,8 +4965,8 @@ var _card = [
         },
         {
             "_id": 321001,
-            "Name": "Liyue Harbor Wharf",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Draw 2 cards.<br><color style='color:#FFFFFFFF'>Usage(s)</color>: 2",
+            "Name": "리월항",
+            "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> 카드를 2장 드로우한다.<br><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4981,8 +4981,8 @@ var _card = [
         },
         {
             "_id": 423045,
-            "Name": "Mastery Talisman: Burst Assault - Ousia",
-            "Desc": "<color style='color:#FFFFFFFF'>When your character uses their Elemental Burst:</color> Spend 3 fewer Elemental Dice. (Once per Round)<br><color style='color:#FFFFFFFF'>When you announce the end of your Round:</color> If your characters have used an Elemental Burst this Round, then deal 1 [b]3504[a]Arkhe: Ousia-aligned <color style='color:#FFFFFFFF'>Piercing DMG</color> to all of your opponent's characters.",
+            "Name": "노련한 부적술 · 폭발 공세 · 우시아",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 원소폭발 사용 시: </color>원소 주사위 소모 개수-3(턴당 1회)<br><color style='color:#FFFFFFFF'>아군이 종료 선언 시: </color>이번 턴에 아군 캐릭터가 원소폭발을 사용했을 경우, 모든 적 캐릭터에게 「[b]3504[a]아르케의 힘: 우시아」를 가진 <color style='color:#FFFFFFFF'>관통 피해</color>를 1pt 준다.",
             "Tag": [
                 "GCG_TAG_ARKHE_PNEUMA"
             ],
@@ -4995,8 +4995,8 @@ var _card = [
         },
         {
             "_id": 423044,
-            "Name": "Mastery Talisman: Enhancing Will",
-            "Desc": "<color style='color:#FFFFFFFF'>At the start of the match:</color> Discard this card and create Surging Will. (When you play a Support Card: Create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>, draw 1 card, up to once per Round)",
+            "Name": "노련한 부적술 · 의지 강화",
+            "Desc": "<color style='color:#FFFFFFFF'>대전 시작 시: </color>해당 카드를 버리고 지원 의지를 생성한다. (아군이 서포트 카드 사용 시: <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 1개 생성하고 카드를 1장 드로우한다. 턴당 1회)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5009,8 +5009,8 @@ var _card = [
         },
         {
             "_id": 423043,
-            "Name": "Mastery Talisman: Damage Control",
-            "Desc": "<color style='color:#FFFFFFFF'>After you play an Action Card:</color> Create an <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> and remove one of your opponent's Multiplied Damage stacks. (Can be triggered up to 3 times per Round)",
+            "Name": "노련한 부적술 · 파열 억제",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 행동 카드 1장 사용 후: </color><color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 1개 생성하고 적의 「다중 파열」을 1스택 제거한다. (턴당 최대 3회 발동)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5023,8 +5023,8 @@ var _card = [
         },
         {
             "_id": 423042,
-            "Name": "Mastery Talisman: Winterwind's Whip",
-            "Desc": "<color style='color:#FFFFFFFF'>After an opposing character is Frozen:</color> Create 2 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. (Can be triggered up to twice per Round)",
+            "Name": "노련한 부적술 · 삭풍의 공세",
+            "Desc": "<color style='color:#FFFFFFFF'>적 캐릭터가 빙결 반응을 받은 후: </color><color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 2개 생성한다. (턴당 최대 2회 발동)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5035,8 +5035,8 @@ var _card = [
         },
         {
             "_id": 423041,
-            "Name": "Elemental Orb: The Grand Banquet",
-            "Desc": "When Action Phase begins: All characters on both sides gain 2 Energy.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+            "Name": "원소 구슬 · 성대한 연회",
+            "Desc": "행동 단계 시작 시: 양측 모든 캐릭터가 원소 에너지를 2pt 획득한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5047,8 +5047,8 @@ var _card = [
         },
         {
             "_id": 423040,
-            "Name": "Ingenious Engineering: Pneuma Re-Creation",
-            "Desc": "<color style='color:#FFFFFFFF'>Before you choose your action:</color> If your side has no more than 4 Elemental Dice remaining, create a <color style='color:#FFFFFFFF'>Pneuma Block</color>. (Once per Round)<br><color style='color:#FFFFFFFF'>After a Pneuma-Ousia Annihilation Reaction occurs on an opponent's character:</color> Generate 3 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. (When a character is defeated, a Pneuma-Ousia Annihilation Reaction will not be triggered)",
+            "Name": "오토마톤 기술 · 프뉴마 재구성",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 행동하기 전:</color> 아군에게 남은 원소 주사위가 4개 이하일 경우, <color style='color:#FFFFFFFF'>프뉴마 에너지 덩어리</color>를 생성한다. (턴당 1회)<br><color style='color:#FFFFFFFF'>적 캐릭터에게 프뉴무시아 소멸 효과 발생 후 :</color> <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 3개 생성한다. (캐릭터가 처치될 시 프뉴무시아 소멸 효과가 발생하지 않는다)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5062,8 +5062,8 @@ var _card = [
         },
         {
             "_id": 423039,
-            "Name": "Ingenious Engineering: Pneuma-Ousia Conversion",
-            "Desc": "<color style='color:#FFFFFFFF'>When battle begins:</color> Create a <color style='color:#FFFFFFFF'>Pneuma Block: Persistent on your side of the field</color>.<br><color style='color:#FFFFFFFF'>After you switch characters:</color> If your side of the field has a Pneuma Block: Persistent, convert it to a Ousia Block: Persistent. If your side of the field has a Ousia Block: Persistent, convert it to a Pneuma Block: Persistent.<br><color style='color:#FFFFFFFF'>After a Pneuma-Ousia Annihilation Reaction occurs on an opponent's character:</color> Create 2 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. (When a character is defeated, a Pneuma-Ousia Annihilation Reaction will not be triggered)",
+            "Name": "오토마톤 기술 · 프뉴무시아 전환",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 시작 시: </color>아군에게 <color style='color:#FFFFFFFF'>프뉴마 에너지 덩어리 · 지속</color>이 생성된다.<br><color style='color:#FFFFFFFF'>아군 캐릭터 교체 후: </color>아군 필드에 프뉴마 에너지 덩어리 · 지속이 존재할 경우, 이를 우시아 에너지 덩어리 · 지속으로 교체한다. 아군 필드에 우시아 에너지 덩어리 · 지속이 존재할 경우, 이를 프뉴마 에너지 덩어리 · 지속으로 교체한다.<br><color style='color:#FFFFFFFF'>적 캐릭터에게 프뉴무시아 소멸 효과 발생 후: </color><color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 2개 생성한다. (캐릭터가 처치될 시 프뉴무시아 소멸 효과가 발생하지 않는다)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5078,8 +5078,8 @@ var _card = [
         },
         {
             "_id": 423038,
-            "Name": "Ingenious Engineering: Harnessing Annihilation",
-            "Desc": "<color style='color:#FFFFFFFF'>After a Pneuma-Ousia Annihilation Reaction occurs on an opponent's character:</color> Generate 2 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. (When a character is defeated, a Pneuma-Ousia Annihilation Reaction will not be triggered)",
+            "Name": "오토마톤 기술 · 소멸 버프",
+            "Desc": "<color style='color:#FFFFFFFF'>적 캐릭터에게 프뉴무시아 소멸 효과 발생 후: </color><color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 2개 생성한다. (캐릭터가 처치될 시 프뉴무시아 소멸 효과가 발생하지 않는다)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5091,8 +5091,8 @@ var _card = [
         },
         {
             "_id": 423037,
-            "Name": "Mastery Talisman: Supplementary Damage",
-            "Desc": "<color style='color:#FFFFFFFF'>After you use a Weapon Card: </color> Create 2 Omni Dice. (Can be triggered up to 2 times per Round)<br><color style='color:#FFFFFFFF'>At the start of the match:</color> Draw 1 random Weapon Card from the deck.",
+            "Name": "노련한 부적술 · 추가 보급",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 「무기」 장비 카드 사용 후: </color>만능 원소 주사위를 2개 생성한다. (턴당 최대 2회 발동)<br><color style='color:#FFFFFFFF'>대전 시작 시:</color> 카드 덱에서 랜덤으로 「무기」 장비 카드를 1장 드로우한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5101,8 +5101,8 @@ var _card = [
         },
         {
             "_id": 423036,
-            "Name": "Mastery Talisman: Battle Ready",
-            "Desc": "Your characters with Weapon Cards attached deal +1 DMG.<br><color style='color:#FFFFFFFF'>After your characters use a Skill:</color> If this character has a Weapon Card attached, return the Weapon Card to your Hand, and the next time you play a Weapon Card, spend 2 fewer Elemental Dice. (Each character can trigger this once per Round)",
+            "Name": "노련한 부적술 · 전투 정비",
+            "Desc": "무기를 장착한 아군 캐릭터가 주는 피해+1pt<br><color style='color:#FFFFFFFF'>아군 캐릭터가 스킬 사용 후:</color> 해당 캐릭터가 이미 「무기」 카드를 장착한 경우, 해당 카드를 핸드 카드로 반환하고 아군이 다음번에 「무기」 카드 사용 시 원소 주사위 소모 개수-2(캐릭터마다 턴당 1회 발동 가능)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5111,8 +5111,8 @@ var _card = [
         },
         {
             "_id": 423035,
-            "Name": "Mastery Talisman: Verdant Overgrowth",
-            "Desc": "<color style='color:#FFFFFFFF'>After opposing characters receive Bloom DMG:</color> Spend 2 less Elemental Dice when playing your next Action Card. The next time your characters deal [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> or [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color> to your opponent's active character, the DMG is increased by 2.",
+            "Name": "노련한 부적술 · 만생",
+            "Desc": "<color style='color:#FFFFFFFF'>적 캐릭터가 개화 반응 피해를 받은 후:</color> 아군이 다음번에 행동 카드 사용 시 원소 주사위 소모 개수-2, 아군이 다음번에 적 출전 캐릭터에게 주는 [b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color> 또는 [b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>+2pt",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5124,8 +5124,8 @@ var _card = [
         },
         {
             "_id": 423034,
-            "Name": "Mastery Talisman: Sympathetic Pain",
-            "Desc": "<color style='color:#FFFFFFFF'>When an opposing character is defeated:</color> Deal 2 <color style='color:#FFFFFFFF'>Piercing DMG</color> to all opposing characters.",
+            "Name": "노련한 부적술 · 부상병 효과",
+            "Desc": "<color style='color:#FFFFFFFF'>적 캐릭터 처치 시:</color> 모든 적 캐릭터에게 <color style='color:#FFFFFFFF'>관통 피해</color>를 2pt 준다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5136,8 +5136,8 @@ var _card = [
         },
         {
             "_id": 423033,
-            "Name": "Mastery Talisman: Unyielding Advance",
-            "Desc": "<color style='color:#FFFFFFFF'>When your character uses a Skill they have already used once this Round:</color> Spend 1 less Elemental Die. (Once per Round)<br><color style='color:#FFFFFFFF'>When your character uses a skill they have already used twice this Round:</color> Spend 2 less Elemental Dice. (Once per Round)",
+            "Name": "노련한 부적술 · 강력한 진격",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 이번 턴에 1회 사용했던 스킬 사용 시:</color> 원소 주사위 소모 개수-1(턴당 1회)<br><color style='color:#FFFFFFFF'>아군 캐릭터가 이번 턴에 2회 사용했던 스킬 사용 시:</color> 원소 주사위 소모 개수-2(턴당 1회)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5146,8 +5146,8 @@ var _card = [
         },
         {
             "_id": 423032,
-            "Name": "Mastery Talisman: Fierce Follow-Up",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Skill:</color> During this match, the DMG dealt by the character will be increased by 1 (Can stack up to 3 times, but 1 stack is lost at the end of each Round).",
+            "Name": "노련한 부적술 · 추격",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 스킬 사용 후:</color> 이번 대전에서 해당 캐릭터가 주는 피해+1pt(최대 중첩수: 3스택, 턴이 종료될 때마다 1스택 감소)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5156,8 +5156,8 @@ var _card = [
         },
         {
             "_id": 423031,
-            "Name": "Mastery Talisman: Buttressed Combined Assault",
-            "Desc": "<color style='color:#FFFFFFFF'>When a Summon disappears:</color> Gain 1 point of Buttressed Succor (up to 3 points).<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> Consume all points of Buttressed Succor. For each point consumed, generate 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>.",
+            "Name": "노련한 부적술 · 친위대 통솔",
+            "Desc": "<color style='color:#FFFFFFFF'>소환물이 사라질 시:</color> 「친위대의 지원」을 1pt 누적한다. (최대 3pt까지 누적)<br><color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 모든 「친위대의 지원」을 소모하고, 1pt 소모할 때마다 <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 1개 생성한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5168,8 +5168,8 @@ var _card = [
         },
         {
             "_id": 423030,
-            "Name": "Mastery Talisman: Dauntless Pursuit",
-            "Desc": "<color style='color:#FFFFFFFF'>When your characters use <color style='color:#FFFFFFFF'>Plunging Attack</color> to deal Elemental DMG:</color> The DMG is increased by 2. After the Skill finishes calculating, generate 2 Elemental Dice of the same type as your active character (once per Round).",
+            "Name": "노련한 부적술 · 사나운 추격",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 <color style='color:#FFFFFFFF'>낙하 공격</color>으로 원소 피해를 줄 시:</color> 피해 추가+2pt. 스킬 결산 후, 아군 출전 캐릭터 타입의 원소 주사위를 2개 생성한다. (턴당 1회)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5190,8 +5190,8 @@ var _card = [
         },
         {
             "_id": 423028,
-            "Name": "Mastery Talisman: Don't Push Your Luck",
-            "Desc": "<color style='color:#FFFFFFFF'>After an opponent takes Elemental Damage:</color> Grants 1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> to your active chracter (Up to 5 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>).",
+            "Name": "노련한 부적술 · 치고 빠지기",
+            "Desc": "<color style='color:#FFFFFFFF'>적 캐릭터에게 원소 피해를 준 후:</color> [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 1pt 제공해 아군 출전 캐릭터를 보호한다. ([b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>은 최대 5pt까지 중첩 가능)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5202,8 +5202,8 @@ var _card = [
         },
         {
             "_id": 423027,
-            "Name": "Mastery Talisman: Harmonic Tactics",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Draw 1 random [b]3006[a]Talent Card from your deck.<br><color style='color:#FFFFFFFF'>After your character takes DMG:</color> The DMG that character deals in this match increases by 1 (Up to 3 stacks, +3 DMG total).",
+            "Name": "노련한 부적술 · 협동 전술",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 덱에서 랜덤으로 「[b]3006[a]특성」 카드를 1장 드로우한다.<br><color style='color:#FFFFFFFF'>아군 캐릭터가 피해를 받은 후:</color> 해당 캐릭터가 이번 대전에서 주는 피해+1pt (최대 3pt까지 중첩 가능)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5212,8 +5212,8 @@ var _card = [
         },
         {
             "_id": 423026,
-            "Name": "Mastery Talisman: Swift Triumph",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins: </color>Create 4 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. However, you will lose this match in the End Phase of this Round.<br><color style='color:#FFFFFFFF'>After an opposing character is defeated or your character uses Elemental Burst: </color>Create 3 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>, draw 1 card, and you gain an extra move upon the completion of your current action.",
+            "Name": "노련한 부적술 · 빠른 승리",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 4개 생성한다. 단, 아군 플레이어는 이번 턴 종료 단계에 대전에서 패배한다.<br><color style='color:#FFFFFFFF'>적 캐릭터가 처치되거나 아군 캐릭터가 「원소폭발」 사용 후:</color> <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 3개 생성하고 카드를 1장 드로우한다. 또한, 이번 행동 종료 후 아군은 연속으로 한 번 더 행동할 수 있다",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5224,8 +5224,8 @@ var _card = [
         },
         {
             "_id": 423025,
-            "Name": "Game of Wits: Enduring Victory",
-            "Desc": "Start with 2 points of Victory Countdown.<br><color style='color:#FFFFFFFF'>End Phase: </color>Remove 1 point of Victory Countdown. If none of your characters are defeated when Victory Countdown points run out, you instantly win the match.<br><color style='color:#FFFFFFFF'>When Action Phase begins: </color>If there is exactly 1 point of Victory Countdown, create 4 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>.",
+            "Name": "묘수풀이 · 안전제일",
+            "Desc": "시작부터 「승리의 카운트다운」을 2pt 보유한다.<br><color style='color:#FFFFFFFF'>종료 단계:</color> 「승리의 카운트다운」-1pt. 만약 「승리의 카운트다운」이 전부 소진되었을 때 아군 캐릭터가 모두 생존한 상태면 아군 플레이어는 즉시 대전에서 승리한다.<br><color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 만약 「승리의 카운트다운」이 1pt 남았을 경우, <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 4개 생성한다",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5236,8 +5236,8 @@ var _card = [
         },
         {
             "_id": 423024,
-            "Name": "Mastery Talisman: Sudden Ambush",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Skill:</color> Create an Ambuscade Mine of your character's Element on the opposing side of the field. The Ambuscade Mine will deal 1 DMG of that corresponding element to opposing reinforcements after they enter play.",
+            "Name": "노련한 부적술 · 기책",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 스킬 사용 후:</color> 상대 필드에 캐릭터 원소 타입의 「부비트랩」을 1개 생성한다. 적 증원 캐릭터 입장 후, 「부비트랩」은 해당 캐릭터에게 상응하는 원소 피해를 1pt 준다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5246,8 +5246,8 @@ var _card = [
         },
         {
             "_id": 423023,
-            "Name": "Mastery Talisman: Chaotic Banners",
-            "Desc": "<color style='color:#FFFFFFFF'>After an opposing character takes Elemental Reaction damage:</color> Create <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> ×1. (Can be triggered up to 3 times per Round)",
+            "Name": "노련한 부적술 · 추격병",
+            "Desc": "<color style='color:#FFFFFFFF'>적 캐릭터가 원소 반응 피해를 받은 후:</color> <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 1개 생성한다. (턴당 최대 3회 발동)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5258,8 +5258,8 @@ var _card = [
         },
         {
             "_id": 423022,
-            "Name": "Mastery Talisman: Cascading Defeat",
-            "Desc": "<color style='color:#FFFFFFFF'>When an opposing character is defeated:</color> Deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to all opposing characters.",
+            "Name": "노련한 부적술 · 참패",
+            "Desc": "<color style='color:#FFFFFFFF'>적 캐릭터 처치 시:</color> 모든 적 캐릭터에게 <color style='color:#FFFFFFFF'>관통 피해</color>를 1pt 준다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5270,8 +5270,8 @@ var _card = [
         },
         {
             "_id": 423021,
-            "Name": "Mastery Talisman: Battle-Ready",
-            "Desc": "<color style='color:#FFFFFFFF'>When your character equipped with both a [b]3003[a]Weapon and an [b]3004[a]Artifact uses a Skill:</color> Spend 3 less Elemental Dice. (Once per Round)",
+            "Name": "노련한 부적술 · 전투 준비",
+            "Desc": "<color style='color:#FFFFFFFF'>「[b]3003[a]무기」와 「[b]3004[a]성유물」을 동시에 장착한 아군 캐릭터가 스킬 사용 시:</color> 원소 주사위 소모 개수-3 (턴당 1회)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5280,8 +5280,8 @@ var _card = [
         },
         {
             "_id": 423020,
-            "Name": "Mastery Talisman: Arms and Armor Honed",
-            "Desc": "<color style='color:#FFFFFFFF'>When your character uses a <color style='color:#FFFFFFFF'>Charged Attack</color>: </color>DMG dealt +1. Draw 1 card after finalization.",
+            "Name": "노련한 부적술 · 장비 보수",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 <color style='color:#FFFFFFFF'>강공격</color> 발동 시:</color> 주는 피해+1pt. 결산 후, 카드 1장을 드로우한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5292,8 +5292,8 @@ var _card = [
         },
         {
             "_id": 423019,
-            "Name": "Mastery Talisman: Planning Long-Term",
-            "Desc": "<color style='color:#FFFFFFFF'>When a [b]3003[a]Weapon or [b]3004[a]Artifact Equipment card with a cost of at least 3 is played:</color> Spend 3 less Elemental Dice. (Once per Round)",
+            "Name": "노련한 부적술 · 장기 전략",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 총 코스트가 최소 3인 「[b]3003[a]무기」 또는 「[b]3004[a]성유물」 장비 카드 사용 시:</color> 원소 주사위 소모 개수-3 (턴당 1회)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5302,8 +5302,8 @@ var _card = [
         },
         {
             "_id": 423018,
-            "Name": "Mastery Talisman: Victorious Repute",
-            "Desc": "<color style='color:#FFFFFFFF'>When an opposing character is defeated:</color> Draw 1 card. +1 to the DMG of the current active character in this match. (Can stack. Max 3 Stacks.)",
+            "Name": "노련한 부적술 · 승기 잡기",
+            "Desc": "<color style='color:#FFFFFFFF'>적 캐릭터 처치 시:</color> 아군이 카드 1장을 드로우하며, 현재 아군 출전 캐릭터가 이번 대전에서 주는 피해+1pt (최대 3pt까지 중첩 가능)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5312,8 +5312,8 @@ var _card = [
         },
         {
             "_id": 423017,
-            "Name": "Zero Hour Invokation: All-Out Aggression",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> All your characters gain 2 Energy.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+            "Name": "제로 아워 소환 · 맹공",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시: </color>모든 아군 캐릭터가 원소 에너지를 2pt 획득한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5324,8 +5324,8 @@ var _card = [
         },
         {
             "_id": 423016,
-            "Name": "Mastery Talisman: Dense Vegetation",
-            "Desc": "<color style='color:#FFFFFFFF'>After an opposing character takes Dendro-related Reaction DMG:</color> Create 2 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>.",
+            "Name": "노련한 부적술 · 대나무 숲",
+            "Desc": "<color style='color:#FFFFFFFF'>상대 캐릭터가 풀 원소 반응 피해를 받은 후:</color> <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 2개 생성한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5336,8 +5336,8 @@ var _card = [
         },
         {
             "_id": 423015,
-            "Name": "Mastery Talisman: Dual-Pronged Approach",
-            "Desc": "<color style='color:#FFFFFFFF'>After you use a Skill:</color> If your active character is being protected by a [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>, create 2 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> and 1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point. (Once per Round)",
+            "Name": "노련한 부적술 · 공수 겸비",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 스킬 사용 후:</color> 아군 출전 캐릭터가 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>의 보호를 받고 있을 경우, <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color> 2개와 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color> 1pt를 생성한다. (턴당 1회)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5349,8 +5349,8 @@ var _card = [
         },
         {
             "_id": 423014,
-            "Name": "Mastery Talisman: Intelligence Update",
-            "Desc": "<color style='color:#FFFFFFFF'>After you switch characters:</color> Create 1 Elemental Die of the same Type as your active character. (Twice per Round)",
+            "Name": "노련한 부적술 · 정보 공유",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터 교체 후:</color> 아군 출전 캐릭터 타입의 원소 주사위를 1개 생성한다. (턴당 최대 2회)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5359,8 +5359,8 @@ var _card = [
         },
         {
             "_id": 423013,
-            "Name": "Mastery Talisman: Practice Makes Perfect",
-            "Desc": "The first Skill used or first Talent equipped by each of your characters per Round will cost 1 less Elemental Die.",
+            "Name": "노련한 부적술 · 숙련",
+            "Desc": "아군의 모든 캐릭터가 턴마다 첫 번째로 사용하는 스킬 또는 장비하는 특성의 원소 주사위 소모 개수-1",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5369,8 +5369,8 @@ var _card = [
         },
         {
             "_id": 423012,
-            "Name": "Mastery Talisman: Extended Explosion",
-            "Desc": "<color style='color:#FFFFFFFF'>When an opposing character takes Elemental Reaction DMG:</color> Accumulate 1 Extension. If you have at least 3, consume 3 Extension and deal 4 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters.",
+            "Name": "노련한 부적술 · 연속 폭파",
+            "Desc": "<color style='color:#FFFFFFFF'>상대 캐릭터가 원소 반응 피해를 받을 시:</color> 「연속 폭파 진도」를 1pt 누적한다. 만약 이미 3pt 이상 보유한 경우, 즉시 「연속 폭파 진도」를 3pt 소모해 모든 상대 캐릭터에게 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>관통 피해</color></color>를 4pt 준다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5381,8 +5381,8 @@ var _card = [
         },
         {
             "_id": 423011,
-            "Name": "Mastery Talisman: Decisive Battle",
-            "Desc": "Your characters with 6 HP or less deal +2 DMG.",
+            "Name": "노련한 부적술 · 결전 태세",
+            "Desc": "HP가 6pt 이하인 아군 캐릭터가 주는 피해+2pt",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5391,8 +5391,8 @@ var _card = [
         },
         {
             "_id": 423010,
-            "Name": "Mastery Talisman: Cold War",
-            "Desc": "The first Skill used or first Talent equipped by each of your characters per Round will cost 1 less Elemental Die.<br>Your Cryo-related Reactions deal +2 DMG.",
+            "Name": "노련한 부적술 · 서리 전장",
+            "Desc": "아군의 모든 캐릭터가 턴마다 첫 번째로 사용하는 스킬 또는 장비하는 특성의 원소 주사위 소모 개수-1<br>아군이 일으킨 얼음 원소 반응 피해+2pt",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5401,8 +5401,8 @@ var _card = [
         },
         {
             "_id": 423009,
-            "Name": "Mastery Talisman: Cycle Charge",
-            "Desc": "<color style='color:#FFFFFFFF'>When you perform \"Switch Character\":</color> Spend 1 less Elemental Die. (Twice per Round)<br>When you perform a <color style='color:#FFFFFFFF'>Plunging Attack:</color> Deal +2 DMG.",
+            "Name": "노련한 부적술 · 차륜전",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 「캐릭터 교체」 행동 진행 시:</color> 원소 주사위 소모 개수-1 (턴당 2회)<br><color style='color:#FFFFFFFF'>아군이 낙하 공격 시: </color>주는 피해+2pt",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5411,8 +5411,8 @@ var _card = [
         },
         {
             "_id": 423008,
-            "Name": "Mastery Talisman: Immovable",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> If your active character is protected by a [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>, create 2 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> and draw 2 cards.<br><color style='color:#FFFFFFFF'>When you play any card:</color> Spend 2 less Elemental Dice. (Once per Round)",
+            "Name": "노련한 부적술 · 철옹성",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시: </color>아군 출전 캐릭터가 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>의 보호를 받고 있을 경우, <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 2개 생성하고 카드를 2장 드로우한다.<br><color style='color:#FFFFFFFF'>임의의 카드 사용 시: </color>원소 주사위 소모 개수-2 (턴당 1회)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5424,8 +5424,8 @@ var _card = [
         },
         {
             "_id": 423007,
-            "Name": "Mastery Talisman: Press the Attack",
-            "Desc": "<color style='color:#FFFFFFFF'>After an opposing character is defeated:</color> Create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> and draw 1 card.",
+            "Name": "노련한 부적술 · 진격",
+            "Desc": "<color style='color:#FFFFFFFF'>상대 캐릭터 처치 후: </color><color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 1개 생성하고 카드를 1장 드로우한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5436,8 +5436,8 @@ var _card = [
         },
         {
             "_id": 423006,
-            "Name": "Mastery Talisman: Surging Vigor",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Your active character gains 3 Energy.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+            "Name": "노련한 부적술 · 활력 충만",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시: </color>아군 출전 캐릭터가 원소 에너지를 3pt 획득한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5448,8 +5448,8 @@ var _card = [
         },
         {
             "_id": 423005,
-            "Name": "Ley Line Monolith: Frontline Fulcrum",
-            "Desc": "Starts with 20 Endurance. When Endurance is depleted, discard this card.<br><color style='color:#FFFFFFFF'>When your characters take DMG:</color> Consumes this card's Endurance to block DMG.<br><color style='color:#FFFFFFFF'>When this card is discarded:</color> You lose this match.",
+            "Name": "지맥 제압석 · 주요 거점",
+            "Desc": "시작부터 「내구성」을 20pt 보유한다. 소진 후 해당 카드를 버린다.<br><color style='color:#FFFFFFFF'>아군 출전 캐릭터가 피해를 받을 시: </color>해당 카드의 「내구성」을 소모해서 피해를 상쇄한다.<br><color style='color:#FFFFFFFF'>해당 카드가 버려질 시: </color>아군 플레이어는 대전에서 패배한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5458,8 +5458,8 @@ var _card = [
         },
         {
             "_id": 423004,
-            "Name": "Elemental Orb: Enduring",
-            "Desc": "When Action Phase begins: All your characters gain 1 Energy.",
+            "Name": "원소 구슬 · 지속",
+            "Desc": "행동 단계 시작 시: 모든 아군 캐릭터가 원소 에너지를 1pt 획득한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5468,8 +5468,8 @@ var _card = [
         },
         {
             "_id": 423003,
-            "Name": "Elemental Orb: Dissipated",
-            "Desc": "When Action Phase begins: All characters on both sides gain 1 Energy.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+            "Name": "원소 구슬 · 소실",
+            "Desc": "행동 단계 시작 시: 양측 모든 캐릭터가 원소 에너지를 1pt 획득한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5480,8 +5480,8 @@ var _card = [
         },
         {
             "_id": 423002,
-            "Name": "Elemental Orb: Plentiful",
-            "Desc": "When Action Phase begins: All your characters gain 2 Energy.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+            "Name": "원소 구슬 · 충만",
+            "Desc": "행동 단계 시작 시: 모든 아군 캐릭터가 원소 에너지를 2pt 획득한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5492,8 +5492,8 @@ var _card = [
         },
         {
             "_id": 423001,
-            "Name": "Elemental Orb",
-            "Desc": "When Action Phase begins: All your characters gain 1 Energy.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+            "Name": "원소 구슬",
+            "Desc": "행동 단계 시작 시: 모든 아군 캐릭터가 원소 에너지를 1pt 획득한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5504,8 +5504,8 @@ var _card = [
         },
         {
             "_id": 422046,
-            "Name": "Pneuma Node: Hold Fast - Basic",
-            "Desc": "<color style='color:#FFFFFFFF'>When one of your characters is defeated:</color> Ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color> and heal them to 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 4</color><br><color style='color:#FFFFFFFF'>After your characters receive [b]3504[a]Arkhe: Ousia aligned DMG:</color> This card's <color style='color:#FFFFFFFF'>Usage(s)</color> -1.",
+            "Name": "프뉴마 시련기 · 위치 사수 · 하급",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 처치될 시: </color>캐릭터가 <color style='color:#FFFFFFFF'>처치 면역</color>이 되고 해당 캐릭터의 HP를 2pt 회복한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 4</color><br><color style='color:#FFFFFFFF'>아군 캐릭터가 「[b]3504[a]아르케의 힘: 우시아」를 가진 피해를 받은 후: </color>해당 카드의 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>-1",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5517,8 +5517,8 @@ var _card = [
         },
         {
             "_id": 422045,
-            "Name": "Ley Line Disorder: Layered Defenses - Basic",
-            "Desc": "Your active character gains 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points.<br><color style='color:#FFFFFFFF'>When Action Phase begins: </color> Refresh the shield provided by this card.",
+            "Name": "지맥 이상 · 겹겹 방어 · 하급",
+            "Desc": "아군 출전 캐릭터에게 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 2pt 제공한다.<br><color style='color:#FFFFFFFF'>행동 단계 시작 시: </color>해당 카드가 제공하는 보호막을 회복한다.",
             "Tag": [
                 "GCG_TAG_SHEILD"
             ],
@@ -5531,8 +5531,8 @@ var _card = [
         },
         {
             "_id": 422044,
-            "Name": "Ley Line Disorder: Damage Concatenation - Basic",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> You gain 1 stack of Multiplied Damage. (DMG dealt by your characters +1; DMG further increased by 1 for each stack of Multiplied Damage; Multiplied Damage stacks up to 3 times)",
+            "Name": "지맥 이상 · 연쇄 파열 · 하급",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시: </color>아군이 「다중 파열」을 1스택 획득한다. (캐릭터가 주는 피해+1pt 및 「다중 파열」 1스택당 피해 추가+1pt. 「다중 파열」 최대 중첩수: 3스택)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5543,8 +5543,8 @@ var _card = [
         },
         {
             "_id": 422043,
-            "Name": "Ley Line Disorder: Bitter Belligerence - Basic",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heal all your characters who have not been afflicted by the Frozen Status and have also used a Skill this Round for 2 HP. If your opponent has a character afflicted by the Frozen Status, then the opponent's active character will have <color style='color:#FFFFFFFF'>Gurgling Bubble</color> attached at the start of the next Round's Action Phase.",
+            "Name": "지맥 이상 · 강렬한 전의 · 하급",
+            "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> 「빙결」 상태가 부착되어 있지 않고 이번 턴에 스킬을 사용한 모든 아군 캐릭터의 HP를 2pt 치유한다. 「빙결」 상태가 부착된 적 캐릭터가 존재할 경우, 다음 턴 행동 단계 시작 시 적 출전 캐릭터에게 <color style='color:#FFFFFFFF'>꾸륵 물방울</color>을 부착한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5555,8 +5555,8 @@ var _card = [
         },
         {
             "_id": 422042,
-            "Name": "Pneuma Node: Hold Fast - Intermediate",
-            "Desc": "<color style='color:#FFFFFFFF'>When one of your characters is defeated:</color> Ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color> and heal them to 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 8</color><br><color style='color:#FFFFFFFF'>After your characters receive [b]3504[a]Arkhe: Ousia aligned DMG:</color> This card's <color style='color:#FFFFFFFF'>Usage(s)</color> -1.",
+            "Name": "프뉴마 시련기 · 위치 사수 · 중급",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 처치될 시: </color>캐릭터가 <color style='color:#FFFFFFFF'>처치 면역</color>이 되고 해당 캐릭터의 HP를 2pt 회복한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 8</color><br><color style='color:#FFFFFFFF'>아군 캐릭터가 「[b]3504[a]아르케의 힘: 우시아」를 가진 피해를 받은 후: </color>해당 카드의 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>-1",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5568,8 +5568,8 @@ var _card = [
         },
         {
             "_id": 422041,
-            "Name": "Ley Line Disorder: Layered Defenses - Intermediate",
-            "Desc": "Your active character gains 4 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points.<br><color style='color:#FFFFFFFF'>When Action Phase begins: </color> Refresh the shield provided by this card.",
+            "Name": "지맥 이상 · 겹겹 방어 · 중급",
+            "Desc": "아군 출전 캐릭터에게 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 4pt 제공한다.<br><color style='color:#FFFFFFFF'>행동 단계 시작 시: </color>해당 카드가 제공하는 보호막을 회복한다.",
             "Tag": [
                 "GCG_TAG_SHEILD"
             ],
@@ -5582,8 +5582,8 @@ var _card = [
         },
         {
             "_id": 422040,
-            "Name": "Ley Line Disorder: Damage Concatenation - Intermediate",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> You gain 2 stacks of Multiplied Damage. (DMG dealt by your characters +1; DMG further increased by 1 for each stack of Multiplied Damage; Multiplied Damage stacks up to 3 times)",
+            "Name": "지맥 이상 · 연쇄 파열 · 중급",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시: </color>아군이 「다중 파열」을 2스택 획득한다. (캐릭터가 주는 피해+1pt 및 「다중 파열」 1스택당 피해 추가+1pt. 「다중 파열」 최대 중첩수: 3스택)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5594,8 +5594,8 @@ var _card = [
         },
         {
             "_id": 422039,
-            "Name": "Ley Line Disorder: Bitter Belligerence - Intermediate",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heal all your characters who have not been afflicted by the Frozen Status and have also used a Skill this Round for 4 HP. If your opponent has a character afflicted by the Frozen Status, then the opponent's active character will have <color style='color:#FFFFFFFF'>Gurgling Bubble</color> attached at the start of the next Round's Action Phase.",
+            "Name": "지맥 이상 · 강렬한 전의 · 중급",
+            "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> 「빙결」 상태가 부착되어 있지 않고 이번 턴에 스킬을 사용한 모든 아군 캐릭터의 HP를 4pt 치유한다. 「빙결」 상태가 부착된 적 캐릭터가 존재할 경우, 다음 턴 행동 단계 시작 시 적 출전 캐릭터에게 <color style='color:#FFFFFFFF'>꾸륵 물방울</color>을 부착한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5606,8 +5606,8 @@ var _card = [
         },
         {
             "_id": 422038,
-            "Name": "Ley Line Disorder: High Efficiency Supply - Pneuma",
-            "Desc": "<color style='color:#FFFFFFFF'>When you Switch Characters:</color> This action is considered a <color style='color:#FFFFFFFF'>Fast Action</color> and not a <color style='color:#FFFFFFFF'>Combat Action</color>.<br><color style='color:#FFFFFFFF'>End Phase:</color> The Pneuma Energy of the character to which this is attached is replenished, and that character changes to be in the \"Pneuma State.\"",
+            "Name": "지맥 이상 · 고효율 보급 · 프뉴마",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 「캐릭터 교체」 행동 진행 시: </color>이번 교체를 「<color style='color:#FFFFFFFF'>빠른 행동</color>」이 아닌 「<color style='color:#FFFFFFFF'>전투 행동</color>」으로 간주한다.<br><color style='color:#FFFFFFFF'>종료 단계:</color> 부착 캐릭터에게 프뉴마 에너지원을 보충해 「프뉴마 형태」로 전환시킨다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5619,8 +5619,8 @@ var _card = [
         },
         {
             "_id": 422037,
-            "Name": "Pneuma Node: Hold Fast - Advanced",
-            "Desc": "<color style='color:#FFFFFFFF'>When one of your characters is defeated:</color> Ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color> and heal them to 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 12</color><br><color style='color:#FFFFFFFF'>After your characters receive [b]3504[a]Arkhe: Ousia aligned DMG:</color> This card's <color style='color:#FFFFFFFF'>Usage(s)</color> -1.",
+            "Name": "프뉴마 시련기 · 위치 사수 · 고급",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 처치될 시: </color>캐릭터가 <color style='color:#FFFFFFFF'>처치 면역</color>이 되고 해당 캐릭터의 HP를 2pt 회복한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 12</color><br><color style='color:#FFFFFFFF'>아군 캐릭터가 「[b]3504[a]아르케의 힘: 우시아」를 가진 피해를 받은 후: </color>해당 카드의 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>-1",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5632,8 +5632,8 @@ var _card = [
         },
         {
             "_id": 422036,
-            "Name": "Ley Line Disorder: Layered Defenses - Advanced",
-            "Desc": "Your active character gains 6 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points.<br><color style='color:#FFFFFFFF'>When Action Phase begins: </color> Refresh the shield provided by this card.",
+            "Name": "지맥 이상 · 겹겹 방어 · 고급",
+            "Desc": "아군 출전 캐릭터에게 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 6pt 제공한다.<br><color style='color:#FFFFFFFF'>행동 단계 시작 시: </color>해당 카드가 제공하는 보호막을 회복한다.",
             "Tag": [
                 "GCG_TAG_SHEILD"
             ],
@@ -5646,8 +5646,8 @@ var _card = [
         },
         {
             "_id": 422035,
-            "Name": "Ley Line Disorder: Damage Concatenation - Advanced",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> You gain 3 stacks of Multiplied Damage. (DMG dealt by your characters +1; DMG further increased by 1 for each stack of Multiplied Damage; Multiplied Damage stacks up to 3 times)",
+            "Name": "지맥 이상 · 연쇄 파열 · 고급",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시: </color>아군이 「다중 파열」을 3스택 획득한다. (캐릭터가 주는 피해+1pt 및 「다중 파열」 1스택당 피해 추가+1pt. 「다중 파열」 최대 중첩수: 3스택)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5658,8 +5658,8 @@ var _card = [
         },
         {
             "_id": 422034,
-            "Name": "Ley Line Disorder: Bitter Belligerence - Advanced",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heal all your characters who have not been afflicted by the Frozen Status and have also used a Skill this Round for 6 HP. If your opponent has a character afflicted by the Frozen Status, then the opponent's active character will have <color style='color:#FFFFFFFF'>Gurgling Bubble</color> attached at the start of the next Round's Action Phase.",
+            "Name": "지맥 이상 · 강렬한 전의 · 고급",
+            "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> 「빙결」 상태가 부착되어 있지 않고 이번 턴에 스킬을 사용한 모든 아군 캐릭터의 HP를 6pt 치유한다. 「빙결」 상태가 부착된 적 캐릭터가 존재할 경우, 다음 턴 행동 단계 시작 시 적 출전 캐릭터에게 <color style='color:#FFFFFFFF'>꾸륵 물방울</color>을 부착한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5670,8 +5670,8 @@ var _card = [
         },
         {
             "_id": 422033,
-            "Name": "Ley Line Disorder: Energetic Arena",
-            "Desc": "When Action Phase begins: All your characters gain 1 Energy.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+            "Name": "지맥 이상 · 충만한 진형",
+            "Desc": "행동 단계 시작 시: 모든 아군 캐릭터가 원소 에너지를 1pt 획득한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5682,8 +5682,8 @@ var _card = [
         },
         {
             "_id": 422032,
-            "Name": "Ley Line Disorder: Skyward Patrol",
-            "Desc": "<color style='color:#FFFFFFFF'>When the battle begins:</color> Dvalin will begin with <color style='color:#FFFFFFFF'>Skyward Patrol</color> attached.<br><color style='color:#FFFFFFFF'>When the Skyward Patrol effect attached to Dvalin ends:</color> Attach <color style='color:#FFFFFFFF'>Exhausted Plunge</color>.<br><color style='color:#FFFFFFFF'>When the Exhausted Plunge effect attached to Dvalin ends:</color> Re-attach <color style='color:#FFFFFFFF'>Skyward Patrol</color>.",
+            "Name": "지맥 이상 · 하늘 순항",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 시작 시:</color> 드발린에게 시작부터 <color style='color:#FFFFFFFF'>하늘 순항</color>이 부착된다. <br><color style='color:#FFFFFFFF'>드발린에게 부착된 하늘 순항 효과 종료 시: </color><color style='color:#FFFFFFFF'>탈진 추락</color>이 부착된다.<br><color style='color:#FFFFFFFF'>드발린에게 부착된 탈진 추락 효과 종료 시: </color>다시 <color style='color:#FFFFFFFF'>하늘 순항</color>을 부착한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5695,8 +5695,8 @@ var _card = [
         },
         {
             "_id": 422031,
-            "Name": "Ousia Nodes: Power of Enhancement",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Create 1 <color style='color:#FFFFFFFF'>Amplified Enhancement: Ousia</color> on your side.",
+            "Name": "우시아 시련기 · 증폭의 힘",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 아군이 <color style='color:#FFFFFFFF'>증폭 강화 · 우시아</color>를 생성한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5707,8 +5707,8 @@ var _card = [
         },
         {
             "_id": 422030,
-            "Name": "Mastery Talisman: Arcane Secret to Elemental Victory",
-            "Desc": "<color style='color:#FFFFFFFF'>After your characters take 4 different types of Elemental Damage:</color> The opposing player immediately wins the match.",
+            "Name": "노련한 부적술 · 원소 승리법",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 4가지 다른 원소 피해를 받은 후: </color>상대 플레이어가 즉시 대전에서 승리한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5717,8 +5717,8 @@ var _card = [
         },
         {
             "_id": 422029,
-            "Name": "Ley Line Disorder: Pneumousia Suffusion",
-            "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase Begins:</color> The Pneuma or Ousia Energy of your characters is replenished, and they are changed to be in the corresponding state.",
+            "Name": "지맥 이상 · 충만한 프뉴무시아",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시: </color>아군 캐릭터에게 우시아 또는 프뉴마 에너지원을 보충해 해당 형태로 전환시킨다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5727,8 +5727,8 @@ var _card = [
         },
         {
             "_id": 422028,
-            "Name": "Ley Line Disorder: United Posture - Gentle War",
-            "Desc": "For each Summon on your side of the field, the Normal Attacks of your characters deal +1 DMG.",
+            "Name": "지맥 이상 · 협공 · 신중",
+            "Desc": "아군 필드에 존재하는 소환물 1개당 아군 캐릭터가 「일반 공격」으로 주는 피해+1pt",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5737,8 +5737,8 @@ var _card = [
         },
         {
             "_id": 422027,
-            "Name": "Ley Line Disorder: Attrition Posture - Encouragement",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Accumulate 3 Attrition Energy.<color style='color:#FFFFFFFF'>After the opponent's characters use a skill:</color> Remove 1 Attrition Energy.<br><color style='color:#FFFFFFFF'>End Phase:</color> If the amount of Attrition Energy remaining is not 0, then all your characters are healed for 1 HP, and all remaining Attrition Energy is consumed. For each point of Attrition Energy consumed, the amount of healing is increased by 1.",
+            "Name": "지맥 이상 · 소모전 · 격려",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 「소모의 힘」을 3pt 누적한다.<br><color style='color:#FFFFFFFF'>적 캐릭터 스킬 사용 후:</color> 「소모의 힘」이 1pt 감소한다.<br><color style='color:#FFFFFFFF'>종료 단계:</color> 「소모의 힘」이 0pt가 아닐 경우 모든 아군 캐릭터의 HP를 1pt 치유하고, 모든 「소모의 힘」을 소모한다. 소모한 「소모의 힘」 1pt마다 치유량+1pt",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5747,8 +5747,8 @@ var _card = [
         },
         {
             "_id": 422026,
-            "Name": "Ley Line Disorder: Vicious Posture - Blunt Force",
-            "Desc": "Your active character <color style='color:#FFFFFFFF'>deals +1 DMG</color>.",
+            "Name": "지맥 이상 · 공세 · 둔격",
+            "Desc": "아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>주는 피해+1pt</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5757,8 +5757,8 @@ var _card = [
         },
         {
             "_id": 422025,
-            "Name": "Ley Line Disorder: Defensive Posture - Light Armor",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Your active character gains 3 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points.",
+            "Name": "지맥 이상 · 방어 · 경무장",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 3pt 제공하여 아군 출전 캐릭터를 보호한다.",
             "Tag": [
                 "GCG_TAG_SHEILD"
             ],
@@ -5771,8 +5771,8 @@ var _card = [
         },
         {
             "_id": 422024,
-            "Name": "Ley Line Disorder: United Posture - Advance",
-            "Desc": "The Normal Attacks of your characters deal +1 DMG for each Summon on your side of the field.<br><color style='color:#FFFFFFFF'>End Phase:</color> If you have at least 2 Summons of your side of the field, your active character(s) gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.",
+            "Name": "지맥 이상 · 협공 · 돌격",
+            "Desc": "아군 필드에 존재하는 소환물 1개당 아군 캐릭터가 「일반 공격」으로 주는 피해+1pt<br><color style='color:#FFFFFFFF'>종료 단계:</color> 아군 필드에 소환물이 2개 이상 존재할 경우, 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>를 1pt 획득한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5783,8 +5783,8 @@ var _card = [
         },
         {
             "_id": 422023,
-            "Name": "Ley Line Disorder: Attrition Posture - Inspiration",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Accumulate 3 Attrition Energy.<br><color style='color:#FFFFFFFF'>After the opponent's characters use a skill:</color> Remove 1 Attrition Energy.<br><color style='color:#FFFFFFFF'>End Phase:</color> If the amount of Attrition Energy remaining is not 0, then all your characters are healed for 2 HP, and all remaining Attrition Energy is consumed. For each point of Attrition Energy consumed, the amount of healing is increased by 1.",
+            "Name": "지맥 이상 · 소모전 · 고취",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 「소모의 힘」을 3pt 누적한다.<br><color style='color:#FFFFFFFF'>적 캐릭터 스킬 사용 후:</color> 「소모의 힘」이 1pt 감소한다.<br><color style='color:#FFFFFFFF'>종료 단계:</color> 「소모의 힘」이 0pt가 아닐 경우 모든 아군 캐릭터의 HP를 2pt 치유하고, 모든 「소모의 힘」을 소모한다. 소모한 「소모의 힘」 1pt마다 치유량+1pt",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5793,8 +5793,8 @@ var _card = [
         },
         {
             "_id": 422022,
-            "Name": "Ley Line Disorder: Vicious Posture - Ferocity",
-            "Desc": "Your active character <color style='color:#FFFFFFFF'>deals +2 DMG</color>.",
+            "Name": "지맥 이상 · 공세 · 예리",
+            "Desc": "아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>주는 피해+2pt</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5803,8 +5803,8 @@ var _card = [
         },
         {
             "_id": 422021,
-            "Name": "Ley Line Disorder: Defensive Posture - Impregnable",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Your active character gains 6 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points.",
+            "Name": "지맥 이상 · 방어 · 중무장",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 6pt 제공하여 아군 출전 캐릭터를 보호한다.",
             "Tag": [
                 "GCG_TAG_SHEILD"
             ],
@@ -5817,8 +5817,8 @@ var _card = [
         },
         {
             "_id": 422020,
-            "Name": "Ley Line Disorder: Strong Feedback",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character triggers an Elemental Reaction:</color> Heal all of your characters for 3 HP.",
+            "Name": "지맥 이상 · 강력한 반동",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 원소 반응 발동 후:</color> 모든 아군 캐릭터의 HP를 3pt 치유한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5827,13 +5827,14 @@ var _card = [
         },
         {
             "_id": 422019,
-            "Name": "Ley Line Disorder: Blazing Will",
-            "Desc": "When the battle starts, all of your characters will have <color style='color:#FFFFFFFF'>Blazing Will</color> attached. When characters would be defeated, they <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 1 HP. 3 Usages.",
+            "Name": "지맥 이상 · 끓는 투지",
+            "Desc": "전투 시작 시, 모든 아군 캐릭터에게 시작부터 <color style='color:#FFFFFFFF'>끓는 투지</color>가 부착된다: 캐릭터가 처치될 시 <color style='color:#FFFFFFFF'>처치 면역</color> 및 HP를 1pt 회복한다. 사용 횟수: 3",
             "Tag": [],
             "Icon": "",
             "Cost": {},
             "C": [
-                402005
+                402005,
+                402003
             ],
             "K": [
                 54
@@ -5841,13 +5842,14 @@ var _card = [
         },
         {
             "_id": 422018,
-            "Name": "Ley Line Disorder: Belligerence Unfettered",
-            "Desc": "When the battle starts, all of your characters will have <color style='color:#FFFFFFFF'>Belligerence Unfettered</color> attached. When characters would be defeated, they <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 1 HP. 2 Usages.",
+            "Name": "지맥 이상 · 의지 상승",
+            "Desc": "전투 시작 시, 모든 아군 캐릭터에게 시작부터 <color style='color:#FFFFFFFF'>의지 상승</color>이 부착된다: 캐릭터가 처치될 시 <color style='color:#FFFFFFFF'>처치 면역</color> 및 HP를 1pt 회복한다. 사용 횟수: 2",
             "Tag": [],
             "Icon": "",
             "Cost": {},
             "C": [
-                402004
+                402004,
+                402003
             ],
             "K": [
                 54
@@ -5855,8 +5857,8 @@ var _card = [
         },
         {
             "_id": 422017,
-            "Name": "Ley Line Disorder: Ignited Morale",
-            "Desc": "When the battle starts, all of your characters will have <color style='color:#FFFFFFFF'>Ignited Morale</color> attached. When characters would be defeated, they <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 1 HP. 1 Usage.",
+            "Name": "지맥 이상 · 사기 증가",
+            "Desc": "전투 시작 시, 모든 아군 캐릭터에게 시작부터 <color style='color:#FFFFFFFF'>사기 증가</color>가 부착된다: 캐릭터가 처치될 시 <color style='color:#FFFFFFFF'>처치 면역</color> 및 HP를 1pt 회복한다. 사용 횟수: 1",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5869,8 +5871,8 @@ var _card = [
         },
         {
             "_id": 422016,
-            "Name": "Ley Line Disorder: Lightweight Defense",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Grant <color style='color:#FFFFFFFF'>6 points of [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color></color> to defend your active character, though this [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> cannot block Elemental Burst DMG.<br><color style='color:#FFFFFFFF'>After the opposing character uses an Elemental Burst:</color> Remove this [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>.",
+            "Name": "지맥 이상 · 가벼운 막",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시: </color><color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 6pt</color> 제공해 아군 출전 캐릭터를 보호한다. 단, 해당 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>은 원소폭발 피해를 상쇄하지 못한다.<br><color style='color:#FFFFFFFF'>적 캐릭터가 원소 폭발 사용 후:</color> 해당 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>은 제거된다.",
             "Tag": [
                 "GCG_TAG_SHEILD"
             ],
@@ -5883,8 +5885,8 @@ var _card = [
         },
         {
             "_id": 422015,
-            "Name": "Ley Line Disorder: Slim Shielding",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Grant <color style='color:#FFFFFFFF'>3 points of [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color></color> to defend your active character, though this [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> cannot block Elemental Burst DMG.<br><color style='color:#FFFFFFFF'>After the opposing character uses an Elemental Burst:</color> Remove this [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>.",
+            "Name": "지맥 이상 · 얇은 막",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시: </color><color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 3pt</color> 제공해 아군 출전 캐릭터를 보호한다. 단, 해당 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>은 원소폭발 피해를 상쇄하지 못한다.<br><color style='color:#FFFFFFFF'>적 캐릭터가 원소 폭발 사용 후:</color> 해당 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>은 제거된다.",
             "Tag": [
                 "GCG_TAG_SHEILD"
             ],
@@ -5897,8 +5899,8 @@ var _card = [
         },
         {
             "_id": 422014,
-            "Name": "Ley Line Disorder: Mechanics of Penetration",
-            "Desc": "You will deal <color style='color:#FFFFFFFF'>+2 DMG</color> to opposing characters not defended by [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>(s).",
+            "Name": "지맥 이상 · 관통 매커니즘",
+            "Desc": "아군이 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>의 보호를 받지 않는 적 캐릭터에게 <color style='color:#FFFFFFFF'>주는 피해+2pt</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5909,8 +5911,8 @@ var _card = [
         },
         {
             "_id": 422013,
-            "Name": "Ley Line Disorder: Honed Factor",
-            "Desc": "You will deal <color style='color:#FFFFFFFF'>+1 DMG</color> to opposing characters not defended by [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>(s).",
+            "Name": "지맥 이상 · 날카로운 요소",
+            "Desc": "아군이 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>의 보호를 받지 않는 적 캐릭터에게 <color style='color:#FFFFFFFF'>주는 피해+1pt</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5921,8 +5923,8 @@ var _card = [
         },
         {
             "_id": 422012,
-            "Name": "Mastery Talisman: The Elements Entwined",
-            "Desc": "<br><color style='color:#FFFFFFFF'>After either side's characters take Elemental Reaction DMG:</color> Obtain 1 Entwinement.<br><color style='color:#FFFFFFFF'>When Entwinement reaches 6:</color> You win the match.",
+            "Name": "노련한 부적술 · 원소 연결",
+            "Desc": "<color style='color:#FFFFFFFF'>양측 캐릭터가 원소 반응 피해를 받은 후:</color> 「연결 카운트」를 1pt 누적한다.<br><color style='color:#FFFFFFFF'>해당 카드로 「연결 카운트」 6pt 누적 시:</color> 아군 플레이어가 대전에서 승리한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5931,8 +5933,8 @@ var _card = [
         },
         {
             "_id": 422011,
-            "Name": "Ley Line Disorder: Shamanic Curse",
-            "Desc": "Your <color style='color:#FFFFFFFF'>Geo Samachurl</color> starts with <color style='color:#FFFFFFFF'>Mutation Stone: Shaman's Treasure</color>.",
+            "Name": "지맥 이상 · 샤먼의 저주",
+            "Desc": "아군 <color style='color:#FFFFFFFF'>바위 츄츄 샤먼</color>이 필드 입장 시 <color style='color:#FFFFFFFF'>이변의 돌 · 샤먼의 소장품</color>을 부착한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5943,8 +5945,8 @@ var _card = [
         },
         {
             "_id": 422010,
-            "Name": "Ley Line Disorder: Fight or Flight",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character triggers an Elemental Reaction:</color> Heal all of your characters for 2 HP.",
+            "Name": "지맥 이상 · 자극 반응",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 원소 반응 발동 후:</color> 모든 아군 캐릭터의 HP를 2pt 치유한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5953,8 +5955,8 @@ var _card = [
         },
         {
             "_id": 422009,
-            "Name": "Withering Corrosion",
-            "Desc": "Start with 4 Candle of Life points.<br><color style='color:#FFFFFFFF'>When your character uses a Skill:</color> Remove 1 Candle of Life point.<br><color style='color:#FFFFFFFF'>Once all Candle of Life points are depleted, the opposing duelist loses the match.</color>",
+            "Name": "죽음의 땅의 침식",
+            "Desc": "시작부터 「생명의 촛불 카운트」를 4pt 보유한다.<br><color style='color:#FFFFFFFF'>아군 캐릭터가 스킬 사용 후:</color> 「생명의 촛불 카운트」가 1pt 감소한다.<br><color style='color:#FFFFFFFF'>「생명의 촛불 카운트」가 0pt가 되면 상대 플레이어는 대전에서 패배한다.</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5963,8 +5965,8 @@ var _card = [
         },
         {
             "_id": 422008,
-            "Name": "Withering Corrosion",
-            "Desc": "Start with 5 Candle of Life points.<br><color style='color:#FFFFFFFF'>When your character uses a Skill:</color> Remove 1 Candle of Life point.<br><color style='color:#FFFFFFFF'>Once all Candle of Life points are depleted, the opposing duelist loses the match.</color>",
+            "Name": "죽음의 땅의 침식",
+            "Desc": "시작부터 「생명의 촛불 카운트」를 5pt 보유한다.<br><color style='color:#FFFFFFFF'>아군 캐릭터가 스킬 사용 후:</color> 「생명의 촛불 카운트」가 1pt 감소한다.<br><color style='color:#FFFFFFFF'>「생명의 촛불 카운트」가 0pt가 되면 상대 플레이어는 대전에서 패배한다.</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5973,8 +5975,8 @@ var _card = [
         },
         {
             "_id": 422007,
-            "Name": "Withering Corrosion",
-            "Desc": "Start with 4 Candle of Life points.<br><color style='color:#FFFFFFFF'>When your character uses a Skill:</color> Remove 1 Candle of Life point.<br><color style='color:#FFFFFFFF'>Once all Candle of Life points are depleted, the opposing duelist loses the match.</color>",
+            "Name": "죽음의 땅의 침식",
+            "Desc": "시작부터 「생명의 촛불 카운트」를 4pt 보유한다.<br><color style='color:#FFFFFFFF'>아군 캐릭터가 스킬 사용 후:</color> 「생명의 촛불 카운트」가 1pt 감소한다.<br><color style='color:#FFFFFFFF'>「생명의 촛불 카운트」가 0pt가 되면 상대 플레이어는 대전에서 패배한다.</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5983,8 +5985,8 @@ var _card = [
         },
         {
             "_id": 422006,
-            "Name": "Ley Line Disorder: Aegis of the Abyss",
-            "Desc": "<color style='color:#FFFFFFFF'>After your Abyss Mage uses a Skill when their Elemental Shield has been broken:</color> Restore the Elemental Shield.",
+            "Name": "지맥 이상 · 심연 가호",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 「심연 메이지」가 「원소 보호막」이 파괴된 상태에서 스킬 사용 후:</color> 「원소 보호막」을 회복한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5993,8 +5995,8 @@ var _card = [
         },
         {
             "_id": 422005,
-            "Name": "Ley Line Disorder: Dire Echoes",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> For each one of your characters downed during this Round, all of your remaining character(s) will gain 2 Shield points (Can stack, max 4 points) and permanently deal +1 DMG (Can stack, max +2 DMG).",
+            "Name": "지맥 이상 · 역경의 메아리",
+            "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> 이번 턴에 아군 캐릭터가 전투 불능이 될 때마다 남아있는 모든 아군은 보호막을 2pt 획득한다. (중첩 가능, 최대 4pt) 또한, 주는 피해가 영구적으로 1pt 증가한다. (중첩 가능, 최대 2pt)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6003,8 +6005,8 @@ var _card = [
         },
         {
             "_id": 422004,
-            "Name": "Ley Line Disorder: Fight or Flight",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character triggers an Elemental Reaction:</color> Heal all of your characters for 2 HP.",
+            "Name": "지맥 이상 · 스트레스 반응",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 원소 반응 발동 후:</color> 모든 아군 캐릭터 HP를 2pt 치유한다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6013,8 +6015,8 @@ var _card = [
         },
         {
             "_id": 422003,
-            "Name": "Giant Mutation Stone",
-            "Desc": "Your active character <color style='color:#FFFFFFFF'>deals +2 DMG</color>.<br>Starts with 3 Endurance when played. (Discard this card when Endurance is depleted)<br><color style='color:#FFFFFFFF'>After your character goes down</color>: This card loses 1 Endurance.",
+            "Name": "거대 이변의 돌",
+            "Desc": "아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>주는 피해+2pt</color><br>필드 진입 시 시작부터 「내구성」을 3pt 보유한다. (소진 후 해당 카드를 버린다)<br><color style='color:#FFFFFFFF'>아군 캐릭터가 전투 불능이 될 경우</color>: 해당 카드가 「내구성」을 1pt 잃는다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6023,8 +6025,8 @@ var _card = [
         },
         {
             "_id": 422002,
-            "Name": "Mutation Stone",
-            "Desc": "Your active character <color style='color:#FFFFFFFF'>deals +2 DMG</color>.<br>Starts with 2 Endurance when played. (Discard this card when Endurance is depleted)<br><color style='color:#FFFFFFFF'>After your character goes down</color>: This card loses 1 Endurance.",
+            "Name": "이변의 돌",
+            "Desc": "아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>주는 피해+2pt</color><br>필드 진입 시 시작부터 「내구성」을 2pt 보유한다. (소진 후 해당 카드를 버린다)<br><color style='color:#FFFFFFFF'>아군 캐릭터가 전투 불능이 될 경우</color>: 해당 카드가 「내구성」을 1pt 잃는다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6033,8 +6035,8 @@ var _card = [
         },
         {
             "_id": 422001,
-            "Name": "Hilichurl Arrow Tower",
-            "Desc": "Your active Hilichurl Shooter, Cryo Hilichurl Shooter, and Electro Hilichurl Shooter take -2 DMG. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "츄츄족 화살 타워",
+            "Desc": "출전 중인 아군 츄츄 궁수, 츄츄 얼음 궁수, 츄츄 번개 궁수가 받는 피해-2 (턴당 1회)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6045,8 +6047,8 @@ var _card = [
         },
         {
             "_id": 421013,
-            "Name": "Ley Line Disorder: Manifold Anguish",
-            "Desc": "Elemental DMG received by your characters +1.<br><color style='color:#FFFFFFFF'>After your character receives Elemental DMG:</color> If your opponent's Support Zone isn't full, transfer this card to their Support Zone.",
+            "Name": "지맥 이상 · 고통 중첩",
+            "Desc": "아군 캐릭터가 받는 원소 피해+1pt<br><color style='color:#FFFFFFFF'>아군 캐릭터가 원소 피해를 받은 후: </color>상대의 서포트 구역에 빈 곳이 있을 경우, 해당 카드를 상대 서포트 구역으로 보낸다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6055,8 +6057,8 @@ var _card = [
         },
         {
             "_id": 421012,
-            "Name": "Ley Line Disorder: Forerunner's Punishment",
-            "Desc": "<color style='color:#FFFFFFFF'>When a player declares the end of their Round:</color> All of that player's characters receive 1 <color style='color:#FFFFFFFF'>Piercing DMG</color>.",
+            "Name": "지맥 이상 · 선행 붕괴의 징벌",
+            "Desc": "<color style='color:#FFFFFFFF'>플레이어 한 명이 먼저 종료 선언 시: </color>해당 플레이어의 모든 캐릭터가 <color style='color:#FFFFFFFF'>관통 피해</color>를 1pt 받는다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6067,8 +6069,8 @@ var _card = [
         },
         {
             "_id": 421011,
-            "Name": "Game of Wits: Hot Pod Mechanism",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins: </color>Create Hot Potato on the side of the player who goes first.<br><color style='color:#FFFFFFFF'>End Phase: </color>If the effect of Hot Potato is calculated on the opposing side, player on the opposing side will lose the match.",
+            "Name": "묘수풀이 · 폭탄 장치",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 선제 플레이어 측에 화끈화끈 폭탄을 생성한다.<br><color style='color:#FFFFFFFF'>종료 단계: </color>화끈화끈 폭탄이 상대 측에서 결산될 경우, 상대 플레이어는 대전에서 패배한다",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6079,8 +6081,8 @@ var _card = [
         },
         {
             "_id": 421010,
-            "Name": "Ley Line Disorder: Soaring Winds",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Skill:</color> Switch to the next character. (Twice per Round)",
+            "Name": "지맥 이상 · 신속 윈드 필드",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 스킬 사용 후:</color> 다음 캐릭터로 교체된다. (턴당 2회)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6089,8 +6091,8 @@ var _card = [
         },
         {
             "_id": 421009,
-            "Name": "Ley Line Disorder: Thunderstorm",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Both sides' active characters gain <color style='color:#FFACFFFF'>[b]2104[a]Electro Application</color>.",
+            "Name": "지맥 이상 · 뇌정",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 양측의 출전 캐릭터에게 <color style='color:#FFACFFFF'>[b]2104[a]번개 원소 부착</color> 효과를 준다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6101,8 +6103,8 @@ var _card = [
         },
         {
             "_id": 421008,
-            "Name": "Ley Line Disorder: High Temperature",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Both sides' active characters gain <color style='color:#FF9999FF'>[b]2103[a]Pyro Application</color>.",
+            "Name": "지맥 이상 · 고온",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 양측의 출전 캐릭터에게 <color style='color:#FF9999FF'>[b]2103[a]불 원소 부착</color> 효과를 준다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6113,8 +6115,8 @@ var _card = [
         },
         {
             "_id": 421007,
-            "Name": "Ley Line Disorder: Overgrowth",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Both sides' active characters gain <color style='color:#7EC236FF'>[b]2107[a]Dendro Application</color>.",
+            "Name": "지맥 이상 · 만생",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 양측의 출전 캐릭터에게 <color style='color:#7EC236FF'>[b]2107[a]풀 원소 부착</color> 효과를 준다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6125,8 +6127,8 @@ var _card = [
         },
         {
             "_id": 421006,
-            "Name": "Ley Line Disorder: Freezing Ice",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Both sides' active characters gain <color style='color:#99FFFFFF'>[b]2101[a]Cryo Application</color>.",
+            "Name": "지맥 이상 · 빙결",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 양측의 출전 캐릭터에게 <color style='color:#99FFFFFF'>[b]2101[a]얼음 원소 부착</color> 효과를 준다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6137,8 +6139,8 @@ var _card = [
         },
         {
             "_id": 421005,
-            "Name": "Ley Line Disorder: Swift Wind",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Skill:</color> Switch to the next character. (Once per Round)",
+            "Name": "지맥 이상 · 신속의 윈드 필드",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 스킬 사용 후:</color> 다음 캐릭터로 교체된다. (턴당 1회)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6147,8 +6149,8 @@ var _card = [
         },
         {
             "_id": 421004,
-            "Name": "Ley Line Disorder: Engulfing Storm",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Both sides' active characters gain <color style='color:#FFACFFFF'>[b]2104[a]Electro Application</color>. Characters <color style='color:#FFACFFFF'>already affected by [b]2104[a]Electro</color> will lose 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color> instead.",
+            "Name": "지맥 이상 · 흡능의 번개",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 양측의 출전 캐릭터에게 <color style='color:#FFACFFFF'>[b]2104[a]번개 원소 부착</color> 효과를 준다. <color style='color:#FFACFFFF'>[b]2104[a]번개 원소가 부착된</color> 캐릭터에게는 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>를 1pt 주는 걸로 변경된다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6160,8 +6162,8 @@ var _card = [
         },
         {
             "_id": 421003,
-            "Name": "Ley Line Disorder: Wet",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Your active character gains <color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color>.",
+            "Name": "지맥 이상 · 습기",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 아군 출전 캐릭터에게 <color style='color:#80C0FFFF'>[b]2102[a]물 원소 부착</color> 효과를 준다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6172,8 +6174,8 @@ var _card = [
         },
         {
             "_id": 421002,
-            "Name": "Ley Line Disorder: Smoldering Flames",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Both sides' active characters gain <color style='color:#FF9999FF'>[b]2103[a]Pyro Application</color>. Characters <color style='color:#FF9999FF'>already affected by [b]2103[a]Pyro</color> will take 2 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> instead.",
+            "Name": "지맥 이상 · 무형의 불",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 양측의 출전 캐릭터에게 <color style='color:#FF9999FF'>[b]2103[a]불 원소 부착</color> 효과를 준다. <color style='color:#FF9999FF'>[b]2103[a]불 원소가 부착된</color> 캐릭터에게는 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 2pt 주는 걸로 변경된다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6185,8 +6187,8 @@ var _card = [
         },
         {
             "_id": 421001,
-            "Name": "Ley Line Disorder: Driving Rain",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Both sides' active characters gain <color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color>.",
+            "Name": "지맥 이상 · 강우",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 양측의 출전 캐릭터에게 <color style='color:#80C0FFFF'>[b]2102[a]물 원소 부착</color> 효과를 준다.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6199,8 +6201,8 @@ var _card = [
     [
         {
             "_id": 214031,
-            "Name": "Thundering Penance",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Keqing</color>, equip this card.<br>After Keqing equips this card, immediately use <color style='color:#FFD780FF'>Stellar Restoration</color> once.<br>When your Keqing, who has this card equipped, creates an <color style='color:#FFFFFFFF'>Electro Elemental Infusion</color>, it will have the following effects:<br>Starting <color style='color:#FFFFFFFF'>Duration (Rounds)</color> +1, [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color> dealt by the attached character +1.<br>(You must have Keqing in your deck to add this card to your deck.)",
+            "Name": "하늘에 닿은 뇌벌",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>각청</color>일 때 해당 카드를 장착할 수 있다.<br>각청이 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>성신 회귀</color>를 1회 사용한다.<br>해당 카드를 장착한 각청이 생성한 <color style='color:#FFFFFFFF'>번개 원소 부여</color>가 아래의 효과를 획득한다.<br>시작 <color style='color:#FFFFFFFF'>지속 턴</color>+1 및 부착 캐릭터가 주는 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>+1pt<br>(카드 덱에 각청이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -6220,8 +6222,8 @@ var _card = [
         },
         {
             "_id": 312025,
-            "Name": "Golden Troupe's Reward",
-            "Desc": "<color style='color:#FFFFFFFF'>When Played:</color> This card will have 1 \"Recompense\" point.<br><color style='color:#FFFFFFFF'>End Phase:</color> If the character to which this is attached is on standby, this card gains 1 \"Recompense\" point. (Max 2 points)<br><color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses an Elemental Skill:</color> For each \"Recompense\" point this card has, consume it to spend 1 less Elemental Die.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "황금 극단의 보상",
+            "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> 부착 캐릭터가 대기 중일 경우, 이 카드에 「보수」를 1pt 누적한다. (최대 2pt까지 누적 가능)<br><color style='color:#FFFFFFFF'>캐릭터에게 「[b]3006[a]특성」 사용 또는 캐릭터가 「원소전투 스킬」 사용 시:</color> 이 카드의 「보수」를 소모하고 1pt당 원소 주사위 소모 개수-1<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6232,8 +6234,8 @@ var _card = [
         },
         {
             "_id": 311108,
-            "Name": "Tome of the Eternal Flow",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After this character takes DMG or is healed:</color> If this character has already been damaged or healed 2 times this Round, then this character's next attack this Round deals +2 additional DMG. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3201[a]Catalyst Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "영원히 샘솟는 법전",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>캐릭터가 피해 또는 치유를 받은 후: </color>이번 턴에 받은 피해 또는 치유가 2회 누적된 경우, 캐릭터가 이번 턴에서 주는 다음번 피해+2pt(턴당 1회)<br>(<color style='color:#FFFFFFFF'>「[b]3201[a]법구」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -6247,8 +6249,8 @@ var _card = [
         },
         {
             "_id": 224041,
-            "Name": "Electro Cicin's Gleam",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Fatui Electro Cicin Mage</color>, equip this card.<br>After Fatui Electro Cicin Mage equips this card, immediately use <color style='color:#FFD780FF'>Misty Call</color> once.<br>If your Fatui Electro Cicin Mage who has this card equipped is on the field, before you choose an action: If <color style='color:#FFFFFFFF'>Electro Cicin</color>'s <color style='color:#FFFFFFFF'>Usage(s)</color> is at least 3, then <color style='color:#FFFFFFFF'>Electro Cicin</color> will immediately deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>. (<color style='color:#FFFFFFFF'>Usage(s)</color> will be consumed, once per Round)<br>(You must have Fatui Electro Cicin Mage in your deck to add this card to your deck.)",
+            "Name": "번개 치친의 섬광",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>우인단 · 번개 치친 술사</color>일 때 해당 카드를 장착할 수 있다.<br>우인단 · 번개 치친 술사가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>안개의 소환</color>을 1회 사용한다.<br>해당 카드를 장착한 우인단 · 번개 치친 술사가 필드에 있을 시 아군이 행동하기 전: <color style='color:#FFFFFFFF'>번개 치친</color>의 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>가 3 이상이면 <color style='color:#FFFFFFFF'>번개 치친</color>이 즉시 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 1pt 준다. (<color style='color:#FFFFFFFF'>사용 가능 횟수</color> 소모 필요, 턴당 1회)<br>(카드 덱에 우인단 · 번개 치친 술사가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -6268,8 +6270,8 @@ var _card = [
         },
         {
             "_id": 217071,
-            "Name": "Countless Sights to See",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Kirara</color>, equip this card.<br>After Kirara equips this card, immediately use <color style='color:#FFD780FF'>Meow-teor Kick</color> once.<br>When your <color style='color:#FFFFFFFF'>Kirara</color> who has this card equipped is the active character, spend 1 less Elemental Die when switching characters. (Once per Round)<br>(You must have Kirara in your deck to add this card to your deck.)",
+            "Name": "배송 중의 경치",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>키라라</color>일 때 해당 카드를 장착할 수 있다.<br>키라라가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>냥냥 골목 누비기</color>를 1회 사용한다.<br>해당 카드를 장착한 <color style='color:#FFFFFFFF'>키라라</color>가 출전 캐릭터일 때 아군이 「캐릭터 교체」 행동 시: 원소 주사위 소모 개수-1 (턴당 1회)<br>(카드 덱에 키라라가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -6285,8 +6287,8 @@ var _card = [
         },
         {
             "_id": 212101,
-            "Name": "Heir to the Ancient Sea's Authority",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Neuvillette</color>, equip this card.<br>After Neuvillette equips this card, immediately use <color style='color:#FFD780FF'>As Water Seeks Equilibrium</color> once.<br>After your characters trigger <color style='color:#80C0FFFF'>[b]2102[a]Hydro-Related Reactions</color>: Neuvillette, who has this card equipped, deals +1 DMG for the next 2 instances.<br>(You must have Neuvillette in your deck to add this card to your deck.)",
+            "Name": "생존한 고대바다의 계승자",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>느비예트</color>일 때 해당 카드를 장착할 수 있다.<br>느비예트가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>공평한 물처럼</color>을 1회 사용한다.<br>아군 캐릭터가 <color style='color:#80C0FFFF'>[b]2102[a]물 원소 관련 반응</color> 발동 후: 해당 카드를 장착한 느비예트가 주는 다음 2회의 피해+1pt<br>(카드 덱에 느비예트가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -6304,8 +6306,8 @@ var _card = [
         },
         {
             "_id": 211101,
-            "Name": "A Summation of Interest",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Charlotte</color>, equip this card.<br>After Charlotte equips this card, immediately use <color style='color:#FFD780FF'>Framing: Freezing Point Composition</color> once.<br>When your Charlotte, who has this card equipped, is on the field, and after any of your characters uses a Normal Attack: If your opponent has a character on the field with <color style='color:#FFFFFFFF'>Snappy Silhouette</color> attached, heal your active character for 2 HP. (Once per Round)<br>(You must have Charlotte in your deck to add this card to your deck.)",
+            "Name": "흥미 추구의 요지",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>샤를로트</color>일 때 해당 카드를 장착할 수 있다.<br>샤를로트가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>프레이밍 · 빙점 구도법</color>을 1회 사용한다.<br>해당 카드를 장착한 샤를로트가 필드에 있을 때 아군 캐릭터가 일반 공격 후: 상대 캐릭터에게 <color style='color:#FFFFFFFF'>순간 실루엣</color>이 부착되었을 시, 아군 출전 캐릭터의 HP를 2pt 치유한다. (턴당 1회)<br>(카드 덱에 샤를로트가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -6323,8 +6325,8 @@ var _card = [
         },
         {
             "_id": 312702,
-            "Name": "Deepwood Memories",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1107[a]<color style='color:#7EC236FF'>Dendro</color> Die. (Once per Round)<br><color style='color:#FFFFFFFF'>Roll Phase:</color> 2 of the starting Elemental Dice you roll are always guaranteed to be [b]1107[a]<color style='color:#7EC236FF'>Dendro</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "숲의 기억",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터에게 「[b]3006[a]특성」 사용 또는 캐릭터가 스킬 사용 시:</color> [b]1107[a]<color style='color:#7EC236FF'>풀 원소</color> 소모 개수-1 (턴당 1회)<br><color style='color:#FFFFFFFF'>주사위 단계:</color> 시작 주사위를 굴릴 때 확정으로 [b]1107[a]<color style='color:#7EC236FF'>풀 원소</color>를 2개 획득한다.<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6337,8 +6339,8 @@ var _card = [
         },
         {
             "_id": 312701,
-            "Name": "Laurel Coronet",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1107[a]<color style='color:#7EC236FF'>Dendro</color> Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "월계수 왕관",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터에게 「[b]3006[a]특성」 사용 또는 캐릭터가 스킬 사용 시:</color> [b]1107[a]<color style='color:#7EC236FF'>풀 원소</color> 소모 개수-1 (턴당 1회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6351,8 +6353,8 @@ var _card = [
         },
         {
             "_id": 312602,
-            "Name": "Archaic Petra",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1106[a]<color style='color:#FFE699FF'>Geo</color> Die. (Once per Round)<br><color style='color:#FFFFFFFF'>Roll Phase:</color> 2 of the starting Elemental Dice you roll are always guaranteed to be [b]1106[a]<color style='color:#FFE699FF'>Geo</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "유구한 반암",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터에게 「[b]3006[a]특성」 사용 또는 캐릭터가 스킬 사용 시:</color> [b]1106[a]<color style='color:#FFE699FF'>바위 원소</color> 소모 개수-1 (턴당 1회)<br><color style='color:#FFFFFFFF'>주사위 단계:</color> 시작 주사위를 굴릴 때 확정으로 [b]1106[a]<color style='color:#FFE699FF'>바위 원소</color>를 2개 획득한다.<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6365,8 +6367,8 @@ var _card = [
         },
         {
             "_id": 312601,
-            "Name": "Mask of Solitude Basalt",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1106[a]<color style='color:#FFE699FF'>Geo</color> Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "부동현석의 상",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터에게 「[b]3006[a]특성」 사용 또는 캐릭터가 스킬 사용 시:</color> [b]1106[a]<color style='color:#FFE699FF'>바위 원소</color> 소모 개수-1 (턴당 1회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6379,8 +6381,8 @@ var _card = [
         },
         {
             "_id": 312502,
-            "Name": "Viridescent Venerer",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1105[a]<color style='color:#80FFD7FF'>Anemo</color> Die. (Once per Round)<br><color style='color:#FFFFFFFF'>Roll Phase:</color> 2 of the starting Elemental Dice you roll are always guaranteed to be [b]1105[a]<color style='color:#80FFD7FF'>Anemo</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "청록색 그림자",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터에게 「[b]3006[a]특성」 사용 또는 캐릭터가 스킬 사용 시:</color> [b]1105[a]<color style='color:#80FFD7FF'>바람 원소</color> 소모 개수-1 (턴당 1회)<br><color style='color:#FFFFFFFF'>주사위 단계:</color> 시작 주사위를 굴릴 때 확정으로 [b]1105[a]<color style='color:#80FFD7FF'>바람 원소</color>를 2개 획득한다.<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6393,8 +6395,8 @@ var _card = [
         },
         {
             "_id": 312501,
-            "Name": "Viridescent Venerer's Diadem",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1105[a]<color style='color:#80FFD7FF'>Anemo</color> Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "청록색 사냥꾼의 모자",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터에게 「[b]3006[a]특성」 사용 또는 캐릭터가 스킬 사용 시:</color> [b]1105[a]<color style='color:#80FFD7FF'>바람 원소</color> 소모 개수-1 (턴당 1회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6407,8 +6409,8 @@ var _card = [
         },
         {
             "_id": 312402,
-            "Name": "Thundering Fury",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1104[a]<color style='color:#FFACFFFF'>Electro</color> Die. (Once per Round)<br><color style='color:#FFFFFFFF'>Roll Phase:</color> 2 of the starting Elemental Dice you roll are always guaranteed to be [b]1104[a]<color style='color:#FFACFFFF'>Electro</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "번개 같은 분노",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터에게 「[b]3006[a]특성」 사용 또는 캐릭터가 스킬 사용 시:</color> [b]1104[a]<color style='color:#FFACFFFF'>번개 원소</color> 소모 개수-1 (턴당 1회)<br><color style='color:#FFFFFFFF'>주사위 단계:</color> 시작 주사위를 굴릴 때 확정으로 [b]1104[a]<color style='color:#FFACFFFF'>번개 원소</color>를 2개 획득한다.<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6421,8 +6423,8 @@ var _card = [
         },
         {
             "_id": 312401,
-            "Name": "Thunder Summoner's Crown",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1104[a]<color style='color:#FFACFFFF'>Electro</color> Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "번개를 부르는 모자",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터에게 「[b]3006[a]특성」 사용 또는 캐릭터가 스킬 사용 시:</color> [b]1104[a]<color style='color:#FFACFFFF'>번개 원소</color> 소모 개수-1 (턴당 1회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6435,8 +6437,8 @@ var _card = [
         },
         {
             "_id": 312302,
-            "Name": "Crimson Witch of Flames",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1103[a]<color style='color:#FF9999FF'>Pyro</color> Die. (Once per Round)<br><color style='color:#FFFFFFFF'>Roll Phase:</color> 2 of the starting Elemental Dice you roll are always guaranteed to be [b]1103[a]<color style='color:#FF9999FF'>Pyro</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "불타오르는 화염의 마녀",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터에게 「[b]3006[a]특성」 사용 또는 캐릭터가 스킬 사용 시:</color> [b]1103[a]<color style='color:#FF9999FF'>불 원소</color> 소모 개수-1 (턴당 1회)<br><color style='color:#FFFFFFFF'>주사위 단계:</color> 시작 주사위를 굴릴 때 확정으로 [b]1103[a]<color style='color:#FF9999FF'>불 원소</color>를 2개 획득한다.<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6449,8 +6451,8 @@ var _card = [
         },
         {
             "_id": 312301,
-            "Name": "Witch's Scorching Hat",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1103[a]<color style='color:#FF9999FF'>Pyro</color> Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "불타오르는 마녀 모자",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터에게 「[b]3006[a]특성」 사용 또는 캐릭터가 스킬 사용 시:</color> [b]1103[a]<color style='color:#FF9999FF'>불 원소</color> 소모 개수-1 (턴당 1회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6463,8 +6465,8 @@ var _card = [
         },
         {
             "_id": 312202,
-            "Name": "Heart of Depth",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1102[a]<color style='color:#80C0FFFF'>Hydro</color> Die. (Once per Round)<br><color style='color:#FFFFFFFF'>Roll Phase:</color> 2 of the starting Elemental Dice you roll are always guaranteed to be [b]1102[a]<color style='color:#80C0FFFF'>Hydro</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "몰락한 마음",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터에게 「[b]3006[a]특성」 사용 또는 캐릭터가 스킬 사용 시:</color> [b]1102[a]<color style='color:#80C0FFFF'>물 원소</color> 소모 개수-1 (턴당 1회)<br><color style='color:#FFFFFFFF'>주사위 단계:</color> 시작 주사위를 굴릴 때 확정으로 [b]1102[a]<color style='color:#80C0FFFF'>물 원소</color>를 2개 획득한다.<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6477,8 +6479,8 @@ var _card = [
         },
         {
             "_id": 312201,
-            "Name": "Wine-Stained Tricorne",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1102[a]<color style='color:#80C0FFFF'>Hydro</color> Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "술로 얼룩진 수병모",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터에게 「[b]3006[a]특성」 사용 또는 캐릭터가 스킬 사용 시:</color> [b]1102[a]<color style='color:#80C0FFFF'>물 원소</color> 소모 개수-1 (턴당 1회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6491,8 +6493,8 @@ var _card = [
         },
         {
             "_id": 312102,
-            "Name": "Blizzard Strayer",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1101[a]<color style='color:#99FFFFFF'>Cryo</color> Die. (Once per Round)<br><color style='color:#FFFFFFFF'>Roll Phase:</color> 2 of the starting Elemental Dice you roll are always guaranteed to be [b]1101[a]<color style='color:#99FFFFFF'>Cryo</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "얼음바람 속에서 길잃은 용사",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터에게 「[b]3006[a]특성」 사용 또는 캐릭터가 스킬 사용 시:</color> [b]1101[a]<color style='color:#99FFFFFF'>얼음 원소</color> 소모 개수-1 (턴당 1회)<br><color style='color:#FFFFFFFF'>주사위 단계:</color> 시작 주사위를 굴릴 때 확정으로 [b]1101[a]<color style='color:#99FFFFFF'>얼음 원소</color>를 2개 획득한다.<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6505,8 +6507,8 @@ var _card = [
         },
         {
             "_id": 312101,
-            "Name": "Broken Rime's Echo",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1101[a]<color style='color:#99FFFFFF'>Cryo</color> Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "빙설을 밟는 소리",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터에게 「[b]3006[a]특성」 사용 또는 캐릭터가 스킬 사용 시:</color> [b]1101[a]<color style='color:#99FFFFFF'>얼음 원소</color> 소모 개수-1 (턴당 1회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6519,8 +6521,8 @@ var _card = [
         },
         {
             "_id": 312023,
-            "Name": "Veteran's Visage",
-            "Desc": "<color style='color:#FFFFFFFF'>After this character takes DMG or is healed:</color> Based on the number of times this effect has been triggered this Round, the effects will be different.<br><color style='color:#FFFFFFFF'>First Trigger:</color> Create 1 Elemental Die of the character's Elemental Type.<br><color style='color:#FFFFFFFF'>Second Trigger:</color> Draw 1 card.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "노병의 얼굴",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 피해 또는 치유를 받은 후:</color> 이번 턴에 이 효과를 발동한 횟수에 따라 서로 다른 효과를 발동한다.<br><color style='color:#FFFFFFFF'>첫 번째 발동:</color> 이 캐릭터 타입의 원소 주사위를 1개 생성한다.<br><color style='color:#FFFFFFFF'>두 번째 발동:</color> 카드를 1장 드로우한다.<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6533,8 +6535,8 @@ var _card = [
         },
         {
             "_id": 312022,
-            "Name": "Vourukasha's Glow",
-            "Desc": "<color style='color:#FFFFFFFF'>After this character takes DMG:</color> If the character to which this is attached is the active character, then draw 1 card. During this End Phase, heal the attached character for 1 HP. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "감로빛 꽃바다",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 피해를 받은 후:</color> 부착 캐릭터가 「출전 캐릭터」일 경우 카드를 1장 드로우하고 이번 턴의 종료 단계에 부착 캐릭터의 HP를 1pt 치유한다. (턴당 1회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6547,8 +6549,8 @@ var _card = [
         },
         {
             "_id": 312021,
-            "Name": "Heart of Khvarena's Brilliance",
-            "Desc": "<color style='color:#FFFFFFFF'>After this character takes DMG:</color> If the character to which this is attached is the active character, then draw 1 card. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "크바레나의 눈부신 심장",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 피해를 받은 후:</color> 부착 캐릭터가 「출전 캐릭터」일 경우 카드를 1장 드로우한다. (턴당 1회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6559,8 +6561,8 @@ var _card = [
         },
         {
             "_id": 312020,
-            "Name": "Echoes of an Offering",
-            "Desc": "<color style='color:#FFFFFFFF'>After this character uses Normal Attack:</color> Draw 1 card. (Once per Round)<br><color style='color:#FFFFFFFF'>After this character uses a Skill:</color> If you do not have more Elemental Dice than cards in your Hand, you will gain 1 Elemental Die of the attached character's Type. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "제사의 여운",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 「일반 공격」 사용 후:</color> 카드를 1장 드로우한다. (턴당 1회)<br><color style='color:#FFFFFFFF'>캐릭터가 스킬 사용 후:</color> 아군 원소 주사위가 핸드 카드보다 적은 경우, 부착 캐릭터 타입의 원소 주사위를 1개 생성한다. (턴당 1회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6573,8 +6575,8 @@ var _card = [
         },
         {
             "_id": 312019,
-            "Name": "Flowing Rings",
-            "Desc": "<color style='color:#FFFFFFFF'>After the character uses a Normal Attack:</color> Draw 1 card. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "추억의 보옥",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 「일반 공격」 사용 후:</color> 카드를 1장 드로우한다. (턴당 1회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6585,8 +6587,8 @@ var _card = [
         },
         {
             "_id": 312018,
-            "Name": "Gilded Dreams",
-            "Desc": "<color style='color:#FFFFFFFF'>When played: </color>Generate 1 Die of the same Element as the attached character. If you have 3 different Elemental Types in your party, generate 2 such Dice instead.<br><color style='color:#FFFFFFFF'>When the character to which this card is attached is your active character, then when an opposing character takes Elemental Reaction DMG: </color>Draw 1 card. (Up to twice per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "도금된 꿈",
+            "Desc": "<color style='color:#FFFFFFFF'>필드 입장 시:</color> 부착 캐릭터 타입의 원소 주사위를 1개 생성한다. 만약 아군 파티 내 각기 다른 원소 타입의 캐릭터가 3명 존재할 경우, 2개 생성하는 것으로 전환한다.<br><color style='color:#FFFFFFFF'>부착 캐릭터가 출전 캐릭터일 때, 적 캐릭터가 원소 반응 피해를 받을 시:</color> 카드를 1장 드로우한다. (턴당 최대 2회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6599,8 +6601,8 @@ var _card = [
         },
         {
             "_id": 312017,
-            "Name": "Shadow of the Sand King",
-            "Desc": "<color style='color:#FFFFFFFF'>When played: </color>Draw a card.<br><color style='color:#FFFFFFFF'>When the character to which this card is attached is your active character, then when an opposing character takes Elemental Reaction DMG: </color>Draw a card. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "모래왕의 그림자",
+            "Desc": "<color style='color:#FFFFFFFF'>필드 입장 시:</color> 카드를 1장 드로우한다.<br><color style='color:#FFFFFFFF'>부착 캐릭터가 출전 캐릭터일 때 적 캐릭터가 원소 반응 피해를 받을 시:</color> 카드를 1장 드로우한다. (턴당 1회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6613,8 +6615,8 @@ var _card = [
         },
         {
             "_id": 312016,
-            "Name": "Ocean-Hued Clam",
-            "Desc": "<color style='color:#FFFFFFFF'>When played:</color> Heal the attached character for 2 HP.<br>For every 3 HP of healing your characters receive, this card accumulates 1 Sea-Dyed Foam (maximum of 2).<br><color style='color:#FFFFFFFF'>When this character deals DMG:</color> Consume all Sea-Dyed Foam. DMG is increased by 1 for each Sea-Dyed Foam consumed.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "바다에 물든 거대 조개",
+            "Desc": "<color style='color:#FFFFFFFF'>필드 입장 시:</color> 부착 캐릭터의 HP를 2pt 치유한다.<br>아군 캐릭터가 치유를 3pt 받을 때마다, 해당 카드는 「바다에 물든 거품」을 1개 누적한다. (최대 2개 누적 가능)<br><color style='color:#FFFFFFFF'>캐릭터가 피해를 줄 시:</color> 모든 「바다에 물든 거품」을 소모하며 1개당 주는 피해가 1pt 증가한다.<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6627,8 +6629,8 @@ var _card = [
         },
         {
             "_id": 312015,
-            "Name": "Crown of Watatsumi",
-            "Desc": "For every 3 HP of healing your characters receive, this card accumulates 1 Sea-Dyed Foam (maximum of 2).<br><color style='color:#FFFFFFFF'>When this character deals DMG:</color> Consume all Sea-Dyed Foam. DMG is increased by 1 for each Sea-Dyed Foam consumed.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "와타츠미의 왕관",
+            "Desc": "아군 캐릭터가 치유를 3pt 받을 때마다, 해당 카드는 「바다에 물든 거품」을 1개 누적한다. (최대 2개 누적 가능)<br><color style='color:#FFFFFFFF'>캐릭터가 피해를 줄 시:</color> 모든 「바다에 물든 거품」을 소모하며 1개당 주는 피해가 1pt 증가한다.<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6641,8 +6643,8 @@ var _card = [
         },
         {
             "_id": 312014,
-            "Name": "Shimenawa's Reminiscence",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses an Elemental Skill:</color> Spend 1 less Elemental Die. (Once per Round)<br><color style='color:#FFFFFFFF'>If the character has at least 2 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>,</color> this character's Normal Attacks and Elemental Skills will deal +1 DMG.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "추억의 시메나와",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터에게 「[b]3006[a]특성」 사용 또는 캐릭터가 「원소전투 스킬」 사용 시:</color> 원소 주사위 소모 개수-1 (턴당 1회)<br><color style='color:#FFFFFFFF'>만약 캐릭터가 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>를 2pt 이상 보유하면</color> 캐릭터의 「일반 공격」과 「원소전투 스킬」로 주는 피해+1pt<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6657,8 +6659,8 @@ var _card = [
         },
         {
             "_id": 312013,
-            "Name": "Capricious Visage",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses an Elemental Skill:</color> Spend 1 less Elemental Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "무상의 가면",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터에게 「[b]3006[a]특성」 사용 또는 캐릭터가 「원소전투 스킬」 사용 시:</color> 원소 주사위 소모 개수-1 (턴당 1회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6671,8 +6673,8 @@ var _card = [
         },
         {
             "_id": 312012,
-            "Name": "Vermillion Hereafter",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Normal Attack:</color> Spend 1 less Elemental Die. (Once per Round)<br><color style='color:#FFFFFFFF'>After a character is switched to the active character:</color> During this Round, character deals +1 Normal Attack DMG.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "진사 왕생록",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터에게 「[b]3006[a]특성」 사용 또는 캐릭터가 「일반 공격」 사용 시:</color> 원소 주사위 소모 개수-1 (턴당 1회)<br><color style='color:#FFFFFFFF'>캐릭터가 「출전 캐릭터」로 교체된 후:</color> 이번 턴에서 캐릭터의 「일반 공격」이 주는 피해+1pt<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6685,8 +6687,8 @@ var _card = [
         },
         {
             "_id": 312011,
-            "Name": "Thundering Poise",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Normal Attack:</color> Spend 1 less Elemental Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "번개의 자태",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터에게 「[b]3006[a]특성」 사용 또는 캐릭터가 「일반 공격」 사용 시:</color> 원소 주사위 소모 개수-1 (턴당 1회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6699,8 +6701,8 @@ var _card = [
         },
         {
             "_id": 312010,
-            "Name": "Tenacity of the Millelith",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> The character to which this is attached gains <color style='color:#FFFFFFFF'>Unmovable Mountain</color> that provides 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points.<br><color style='color:#FFFFFFFF'>After this character takes DMG:</color> If the character this card is attached to is the active character, create 1 Elemental Die matching this character's Elemental Type. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "견고한 천암",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 캐릭터에게 <color style='color:#FFFFFFFF'>「변하지 않는 위상」</color>을 부착한다. ([b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 2pt 제공해 해당 캐릭터를 보호)<br><color style='color:#FFFFFFFF'>캐릭터가 피해를 받은 후:</color> 만약 부착 캐릭터가 「출전 캐릭터」인 경우, 해당 캐릭터 원소 타입의 원소 주사위를 1개 생성한다. (턴당 1회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6717,8 +6719,8 @@ var _card = [
         },
         {
             "_id": 312009,
-            "Name": "General's Ancient Helm",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> The character to which this is attached gains <color style='color:#FFFFFFFF'>Unmovable Mountain</color> that provides 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "장수의 투구",
+            "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 캐릭터에게 <color style='color:#FFFFFFFF'>「변하지 않는 위상」</color>을 부착한다. ([b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 2pt 제공해 해당 캐릭터를 보호)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6735,8 +6737,8 @@ var _card = [
         },
         {
             "_id": 312008,
-            "Name": "Emblem of Severed Fate",
-            "Desc": "<color style='color:#FFFFFFFF'>After another character of yours uses an Elemental Burst: </color>The character to which this is attached gains 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.<br>The DMG dealt by the character's Elemental Bursts is increased by 2 (once per Round).<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "절연의 기치",
+            "Desc": "<color style='color:#FFFFFFFF'>다른 아군 캐릭터가 「원소폭발」 사용 후:</color> 부착 캐릭터가 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>를 1pt 획득한다.<br>캐릭터가 「원소폭발」로 주는 피해+2pt (턴당 1회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6751,8 +6753,8 @@ var _card = [
         },
         {
             "_id": 312007,
-            "Name": "Ornate Kabuto",
-            "Desc": "<color style='color:#FFFFFFFF'>After another character of yours uses an Elemental Burst: </color>The character to which this is attached gains 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "화려한 투구",
+            "Desc": "<color style='color:#FFFFFFFF'>다른 아군 캐릭터가 「원소폭발」 사용 후: </color>부착 캐릭터가 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>를 1pt 획득한다.<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6767,8 +6769,8 @@ var _card = [
         },
         {
             "_id": 312006,
-            "Name": "Exile's Circlet",
-            "Desc": "<color style='color:#FFFFFFFF'>After the character uses an Elemental Burst:</color> All your characters on standby gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "유배자의 머리장식",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 「원소폭발」 사용 후:</color> 대기 상태인 모든 아군 캐릭터의 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>+1pt (턴당 1회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6783,8 +6785,8 @@ var _card = [
         },
         {
             "_id": 312005,
-            "Name": "Instructor's Cap",
-            "Desc": "<color style='color:#FFFFFFFF'>After the character triggers an Elemental Reaction:</color> Create 1 Elemental Die that matches this Character's Elemental Type. (Max 3 times per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "교관의 모자",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 원소 반응 발동 후:</color> 해당 캐릭터 원소 타입의 원소 주사위를 1개 생성한다. (턴당 최대 3회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6797,8 +6799,8 @@ var _card = [
         },
         {
             "_id": 312004,
-            "Name": "Gambler's Earrings",
-            "Desc": "<color style='color:#FFFFFFFF'>After an opposing character is defeated:</color> If the character this card is attached to is the active character, create <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> ×2. (Can happen 3 times per match)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "노름꾼의 귀걸이",
+            "Desc": "<color style='color:#FFFFFFFF'>상대 캐릭터 처치 후:</color> 부착 캐릭터가 「출전 캐릭터」일 경우 <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 2개 생성한다. (대전당 3회 제한)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6813,8 +6815,8 @@ var _card = [
         },
         {
             "_id": 312003,
-            "Name": "Traveling Doctor's Handkerchief",
-            "Desc": "<color style='color:#FFFFFFFF'>After the character uses an Elemental Burst:</color> Heal all your characters for 1 HP. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "떠돌이 의사의 두건",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 「원소폭발」 사용 후:</color> 모든 아군 캐릭터 HP를 1pt 치유한다. (턴당 1회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6827,8 +6829,8 @@ var _card = [
         },
         {
             "_id": 312002,
-            "Name": "Lucky Dog's Silver Circlet",
-            "Desc": "<color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> Heal self for 2 HP. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "행운아의 은관",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 「원소전투 스킬」 사용 후:</color> 자신의 HP를 2pt 치유한다. (턴당 1회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6841,8 +6843,8 @@ var _card = [
         },
         {
             "_id": 312001,
-            "Name": "Adventurer's Bandana",
-            "Desc": "<color style='color:#FFFFFFFF'>After the character uses a Normal Attack:</color> Heal self for 1 HP. (Max 3 times per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "모험가의 머리띠",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 「일반 공격」 사용 후:</color> 자신의 HP를 1pt 치유한다. (턴당 최대 3회)<br>(캐릭터는 「[b]3004[a]성유물」을 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6855,8 +6857,8 @@ var _card = [
         },
         {
             "_id": 311507,
-            "Name": "Sapwood Blade",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When entering play:</color> When the character to which this is attached next uses a Normal Attack during this Round: Create 2 Elemental Dice of this character's Elemental Type.<br>(<color style='color:#FFFFFFFF'>Only [b]3205[a]Sword Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "원목 검",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>필드 입장 시: </color>이번 턴에서 부착 캐릭터가 다음번 「일반 공격」 사용 후: 해당 캐릭터와 동일한 타입의 원소 주사위를 2개 생성한다.<br>(<color style='color:#FFFFFFFF'>「[b]3205[a]한손검」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_SWORD"
@@ -6870,8 +6872,8 @@ var _card = [
         },
         {
             "_id": 311506,
-            "Name": "Light of Foliar Incision",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses a Normal Attack:</color> Create 1 random basic Elemental Die. (Can be triggered up to twice per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3205[a]Sword Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "잎을 가르는 빛",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>캐릭터가 「일반 공격」 사용 후: </color>랜덤으로 일반 원소 주사위를 1개 생성한다. (턴당 최대 2회 발동)<br>(<color style='color:#FFFFFFFF'>「[b]3205[a]한손검」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_SWORD"
@@ -6885,8 +6887,8 @@ var _card = [
         },
         {
             "_id": 311505,
-            "Name": "Favonius Sword",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> The character gains 1 additional <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3205[a]Sword Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "페보니우스 검",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>캐릭터가 「원소전투 스킬」 사용 후:</color> 캐릭터가 추가로 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>를 1pt 획득한다. (턴당 1회)<br>(<color style='color:#FFFFFFFF'>「[b]3205[a]한손검」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_SWORD"
@@ -6902,8 +6904,8 @@ var _card = [
         },
         {
             "_id": 311504,
-            "Name": "Skyward Blade",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>Once per Round:</color> This character's <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 additional DMG.<br>(<color style='color:#FFFFFFFF'>Only [b]3205[a]Sword Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "천공의 검",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>턴당 1회:</color> 캐릭터가 <color style='color:#FFFFFFFF'>「일반 공격」</color>으로 주는 피해 추가+1pt<br>(<color style='color:#FFFFFFFF'>[b]3205[a]「한손검」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_SWORD"
@@ -6917,8 +6919,8 @@ var _card = [
         },
         {
             "_id": 311503,
-            "Name": "Aquila Favonia",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the opposing character uses a Skill:</color> If the character with this attached is the active character, heal this character for 1 HP. (Max twice per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3205[a]Sword Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "매의 검",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>상대방이 스킬 사용 후:</color> 부착 캐릭터가 「출전 캐릭터」일 경우, 해당 캐릭터의 HP를 1pt 치유한다. (턴당 최대 2회)<br>(<color style='color:#FFFFFFFF'>「[b]3205[a]한손검」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_SWORD"
@@ -6932,8 +6934,8 @@ var _card = [
         },
         {
             "_id": 311502,
-            "Name": "Sacrificial Sword",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3205[a]Sword Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "제례검",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>캐릭터가 「원소전투 스킬」 사용 후:</color> 해당 캐릭터와 동일한 타입의 원소 주사위를 1개 생성한다. (턴당 1회)<br>(<color style='color:#FFFFFFFF'>「[b]3205[a]한손검」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_SWORD"
@@ -6947,8 +6949,8 @@ var _card = [
         },
         {
             "_id": 311501,
-            "Name": "Traveler's Handy Sword",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br>(<color style='color:#FFFFFFFF'>Only [b]3205[a]Sword Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "여행자의 검",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br>(<color style='color:#FFFFFFFF'>「[b]3205[a]한손검」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_SWORD"
@@ -6962,8 +6964,8 @@ var _card = [
         },
         {
             "_id": 311407,
-            "Name": "Primordial Jade Winged-Spear",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After this character uses a Skill:</color> Until the end of this Round, +1 additional DMG provided by this card. (Up to +2 DMG total.)<br>(<color style='color:#FFFFFFFF'>Only [b]3204[a]Polearm Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "화박연",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>캐릭터가 스킬 사용 후: </color>턴이 종료되기 전까지 해당 카드가 제공하는 피해 보너스 추가+1pt(최대 2pt까지 누적)<br>(<color style='color:#FFFFFFFF'>「[b]3204[a]장병기」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_POLE"
@@ -6977,8 +6979,8 @@ var _card = [
         },
         {
             "_id": 311406,
-            "Name": "Moonpiercer",
-            "Desc": "<color style='color:#FFFFFFFF'>Character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When played: </color>During this Round, the next time you play a [b]3006[a]Talent card or a Character uses an Elemental Skill, spend 2 fewer Elemental Dice.<br>(Only <color style='color:#FFFFFFFF'>[b]3204[a]Polearm Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon.)",
+            "Name": "달을 꿰뚫는 화살",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>필드 입장 시:</color> 이번 턴에서 다음번에 캐릭터에게 「[b]3006[a]특성」 사용 또는 캐릭터가 「원소전투 스킬」 사용 시 원소 주사위 소모 개수-2<br>(<color style='color:#FFFFFFFF'>「[b]3204[a]장병기」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_POLE"
@@ -6992,8 +6994,8 @@ var _card = [
         },
         {
             "_id": 311405,
-            "Name": "Engulfing Lightning",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>Triggers automatically once per Round:</color> If the character to which this is attached does not have <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>, they will gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.<br>(<color style='color:#FFFFFFFF'>Only [b]3204[a]Polearm Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "예초의 번개",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>턴마다 자동으로 1회 발동:</color> 부착 캐릭터에게 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>가 없을 시, 해당 캐릭터에게 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>를 1pt 제공한다.<br>(<color style='color:#FFFFFFFF'>「[b]3204[a]장병기」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_POLE"
@@ -7009,8 +7011,8 @@ var _card = [
         },
         {
             "_id": 311404,
-            "Name": "Vortex Vanquisher",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br>When your active character is protected by a [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> Character Status or a [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> Combat Status, you deal +1 DMG.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> If you have a Combat Status that grants a [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> on your side, add 1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point to that Combat Status. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3204[a]Polearm Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "관홍의 창",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br>만약 캐릭터가 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color> 캐릭터 상태 또는 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color> 출전 상태의 보호를 받고 있으면 주는 피해 추가+1pt<br><color style='color:#FFFFFFFF'>캐릭터가 「원소전투 스킬」 사용 후:</color> 아군에 「[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>」을 제공하는 출전 상태가 존재할 경우, 해당 유형의 출전 상태 1개에 「[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>」을 1pt 보충한다. (턴당 1회)<br>(<color style='color:#FFFFFFFF'>「[b]3204[a]장병기」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_POLE"
@@ -7026,8 +7028,8 @@ var _card = [
         },
         {
             "_id": 311403,
-            "Name": "Skyward Spine",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>Once per Round:</color> This character's <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 additional DMG.<br>(<color style='color:#FFFFFFFF'>Only [b]3204[a]Polearm Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "천공의 마루",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>턴당 1회:</color> 캐릭터가 <color style='color:#FFFFFFFF'>「일반 공격」</color>으로 주는 피해 추가+1pt<br>(<color style='color:#FFFFFFFF'>[b]3204[a]장병기」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_POLE"
@@ -7041,8 +7043,8 @@ var _card = [
         },
         {
             "_id": 311402,
-            "Name": "Lithic Spear",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When played:</color> For each of your party members from [b]3402[a]Liyue, grant <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point</color> to the character to which this is attached. (Max 3 points)<br>(<color style='color:#FFFFFFFF'>Only [b]3204[a]Polearm Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "천암장창",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>필드 입장 시:</color> 아군의 파티에 「[b]3402[a]리월」 캐릭터가 1명 존재할 때마다 해당 카드는 부착 캐릭터에게 <color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 1pt 제공한다</color>. (최대 3pt)<br>(<color style='color:#FFFFFFFF'>「[b]3204[a]장병기」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_POLE"
@@ -7058,8 +7060,8 @@ var _card = [
         },
         {
             "_id": 311401,
-            "Name": "White Tassel",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br>(<color style='color:#FFFFFFFF'>Only [b]3204[a]Polearm Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "백술창",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br>(<color style='color:#FFFFFFFF'>「[b]3204[a]장병기」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_POLE"
@@ -7073,8 +7075,8 @@ var _card = [
         },
         {
             "_id": 311306,
-            "Name": "Beacon of the Reed Sea",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> +1 additional DMG dealt by character this Round the next time they deal DMG. (Once per Round)<br><color style='color:#FFFFFFFF'>After this character takes DMG:</color> +1 additional DMG dealt by character this Round the next time they deal DMG. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3203[a]Claymore Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "갈대 바다의 등대",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>캐릭터가 「원소전투 스킬」 사용 후: </color>이번 턴에서 캐릭터가 다음에 주는 피해 추가+1pt(턴당 1회)<br><color style='color:#FFFFFFFF'>캐릭터가 피해를 받은 후: </color>이번 턴에서 캐릭터가 다음에 주는 피해 추가+1pt(턴당 1회)<br>(<color style='color:#FFFFFFFF'>「[b]3203[a]양손검」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CLAYMORE"
@@ -7088,8 +7090,8 @@ var _card = [
         },
         {
             "_id": 311305,
-            "Name": "The Bell",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses a skill:</color> Gives 1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point to your active character. (Once per Round, stacks up to 2 points)<br>(<color style='color:#FFFFFFFF'>Only [b]3203[a]Claymore Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "시간의 검",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>캐릭터 스킬 사용 후:</color> 아군 출전 캐릭터에게 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 1pt 제공한다. (턴당 1회, 최대 2pt)<br>(<color style='color:#FFFFFFFF'>「[b]3203[a]양손검」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CLAYMORE"
@@ -7105,8 +7107,8 @@ var _card = [
         },
         {
             "_id": 311304,
-            "Name": "Skyward Pride",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>Once per Round:</color> This character's <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 additional DMG.<br>(<color style='color:#FFFFFFFF'>Only [b]3203[a]Claymore Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "천공의 긍지",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>턴당 1회:</color> 캐릭터가 <color style='color:#FFFFFFFF'>「일반 공격」</color>으로 주는 피해 추가+1pt<br>(<color style='color:#FFFFFFFF'>「[b]3203[a]양손검」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CLAYMORE"
@@ -7120,8 +7122,8 @@ var _card = [
         },
         {
             "_id": 311303,
-            "Name": "Wolf's Gravestone",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br>Deal +2 additional DMG if the target's remaining HP is equal to or less than 6.<br>(<color style='color:#FFFFFFFF'>Only [b]3203[a]Claymore Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "늑대의 말로",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br>HP가 6pt 이하인 대상을 공격 시 주는 피해 추가+2pt<br>(<color style='color:#FFFFFFFF'>「[b]3203[a]양손검」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CLAYMORE"
@@ -7135,8 +7137,8 @@ var _card = [
         },
         {
             "_id": 311302,
-            "Name": "Sacrificial Greatsword",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3203[a]Claymore Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "제례 대검",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>캐릭터가 「원소전투 스킬」 사용 후:</color> 해당 캐릭터와 동일한 타입의 원소 주사위를 1개 생성한다. (턴당 1회)<br>(<color style='color:#FFFFFFFF'>「[b]3203[a]양손검」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CLAYMORE"
@@ -7150,8 +7152,8 @@ var _card = [
         },
         {
             "_id": 311301,
-            "Name": "White Iron Greatsword",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br>(<color style='color:#FFFFFFFF'>Only [b]3203[a]Claymore Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "백철 대검",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br>(<color style='color:#FFFFFFFF'>「[b]3203[a]양손검」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CLAYMORE"
@@ -7165,8 +7167,8 @@ var _card = [
         },
         {
             "_id": 311206,
-            "Name": "King's Squire",
-            "Desc": "<color style='color:#FFFFFFFF'>Character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When played: </color>During this Round, the next time you play a [b]3006[a]Talent card or a Character using an Elemental Skill, spend 2 fewer Elemental Dice.<br>(Only <color style='color:#FFFFFFFF'>[b]3202[a]Bow Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon.)",
+            "Name": "왕의 측근",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>필드 입장 시:</color> 이번 턴에서 다음번에 캐릭터에게 「[b]3006[a]특성」 사용 또는 캐릭터가 「원소전투 스킬」 사용 시 원소 주사위 소모 개수-2<br>(<color style='color:#FFFFFFFF'>「[b]3202[a]활」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_BOW"
@@ -7180,8 +7182,8 @@ var _card = [
         },
         {
             "_id": 311205,
-            "Name": "Elegy for the End",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Burst:</color> Create <color style='color:#FFFFFFFF'>Millennial Movement: Farewell Song</color>. (Your character deals +1 DMG, <color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2)<br>(<color style='color:#FFFFFFFF'>Only [b]3202[a]Bow Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "종말 탄식의 노래",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>캐릭터가 「원소폭발」 사용 후:</color> <color style='color:#FFFFFFFF'>「천년의 대악장 · 이별의 노래」</color>를 생성한다. (아군 캐릭터가 주는 피해+1pt, <color style='color:#FFFFFFFF'>지속 턴</color>: 2)<br>(<color style='color:#FFFFFFFF'>「[b]3202[a]활」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_BOW"
@@ -7199,8 +7201,8 @@ var _card = [
         },
         {
             "_id": 311204,
-            "Name": "Amos' Bow",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When the character uses a Skill that costs at least a total of 5 Elemental Dice and Energy</color>, +2 additional DMG. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3202[a]Bow Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "아모스의 활",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>캐릭터가 기본 원소 주사위 코스트와 원소 에너지 코스트 합이 최소 5pt인 스킬을 사용 시</color> 주는 피해 추가+2pt (턴당 1회)<br>(<color style='color:#FFFFFFFF'>「[b]3202[a]활」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_BOW"
@@ -7214,8 +7216,8 @@ var _card = [
         },
         {
             "_id": 311203,
-            "Name": "Skyward Harp",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>Once per Round:</color> This character's <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 additional DMG.<br>(<color style='color:#FFFFFFFF'>Only [b]3202[a]Bow Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "천공의 날개",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>턴당 1회:</color> 캐릭터가 <color style='color:#FFFFFFFF'>「일반 공격」</color>으로 주는 피해 추가+1pt<br>(<color style='color:#FFFFFFFF'>[b]3202[a]활」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_BOW"
@@ -7229,8 +7231,8 @@ var _card = [
         },
         {
             "_id": 311202,
-            "Name": "Sacrificial Bow",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3202[a]Bow Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "제례활",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>캐릭터가 「원소전투 스킬」 사용 후:</color> 해당 캐릭터와 동일한 타입의 원소 주사위를 1개 생성한다. (턴당 1회)<br>(<color style='color:#FFFFFFFF'>「[b]3202[a]활」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_BOW"
@@ -7244,8 +7246,8 @@ var _card = [
         },
         {
             "_id": 311201,
-            "Name": "Raven Bow",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br>(<color style='color:#FFFFFFFF'>Only [b]3202[a]Bow Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "까마귀깃 활",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br>(<color style='color:#FFFFFFFF'>「[b]3202[a]활」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_BOW"
@@ -7259,8 +7261,8 @@ var _card = [
         },
         {
             "_id": 311107,
-            "Name": "Tulaytullah's Remembrance",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When the character uses a <color style='color:#FFFFFFFF'>Charged Attack</color>:</color> Spend 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>. (Can be triggered up to twice per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3201[a]Catalyst Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "툴레이툴라의 기억",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>캐릭터가 <color style='color:#FFFFFFFF'>강공격</color> 시:</color> <color style='color:#FFFFFFFF'>[b]1109[a]무색 원소</color> 소모 개수-1(턴당 최대 2회)<br>(<color style='color:#FFFFFFFF'>「[b]3201[a]법구」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -7277,8 +7279,8 @@ var _card = [
         },
         {
             "_id": 311106,
-            "Name": "Lost Prayer to the Sacred Winds",
-            "Desc": "<color style='color:#FFFFFFFF'>For each point of \"Bonus DMG\" this card has, character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>End Phase:</color> This card gains 1 point of \"Bonus DMG.\" (Max 2 points)<br>(Can only be equipped by <color style='color:#FFFFFFFF'>[b]3201[a]Catalyst Characters</color>. Each Character can equip at most 1 [b]3003[a]Weapon.)",
+            "Name": "사풍 원서",
+            "Desc": "<color style='color:#FFFFFFFF'>해당 카드의 「피해 보너스」 1pt당 캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>종료 단계:</color> 해당 카드가 「피해 보너스」를 1pt 누적한다. (최대 2pt까지 누적)<br>(<color style='color:#FFFFFFFF'>「[b]3201[a]법구」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -7292,8 +7294,8 @@ var _card = [
         },
         {
             "_id": 311105,
-            "Name": "Fruit of Fulfillment",
-            "Desc": "<color style='color:#FFFFFFFF'>Character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When played:</color> Draw 2 cards.<br>(Can only be equipped by <color style='color:#FFFFFFFF'>[b]3201[a]Catalyst characters</color>. Characters can equip at most 1 [b]3003[a]Weapon)",
+            "Name": "충만의 열매",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>필드 입장 시:</color> 카드를 2장 드로우한다.<br>(<color style='color:#FFFFFFFF'>「[b]3201[a]법구」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -7307,8 +7309,8 @@ var _card = [
         },
         {
             "_id": 311104,
-            "Name": "A Thousand Floating Dreams",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When your character triggers an Elemental Reaction:</color> Deal +1 DMG. (Twice per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3201[a]Catalyst Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "떠오르는 천일 밤의 꿈",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>아군 캐릭터가 원소 반응 발동 시:</color> 주는 피해+1pt (턴당 최대 2회 발동)<br>(<color style='color:#FFFFFFFF'>「[b]3201[a]법구」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -7322,8 +7324,8 @@ var _card = [
         },
         {
             "_id": 311103,
-            "Name": "Skyward Atlas",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>Once per Round:</color> This character's <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 additional DMG.<br>(<color style='color:#FFFFFFFF'>Only [b]3201[a]Catalyst Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "천공의 두루마리",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>턴당 1회:</color> 캐릭터가 <color style='color:#FFFFFFFF'>「일반 공격」</color>으로 주는 피해 추가+1pt<br>(<color style='color:#FFFFFFFF'>[b]3201[a]법구」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -7337,8 +7339,8 @@ var _card = [
         },
         {
             "_id": 311102,
-            "Name": "Sacrificial Fragments",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3201[a]Catalyst Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "제례의 악장",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br><color style='color:#FFFFFFFF'>캐릭터가 「원소전투 스킬」 사용 후:</color> 해당 캐릭터와 동일한 타입의 원소 주사위를 1개 생성한다. (턴당 1회)<br>(<color style='color:#FFFFFFFF'>「[b]3201[a]법구」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -7352,8 +7354,8 @@ var _card = [
         },
         {
             "_id": 311101,
-            "Name": "Magic Guide",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br>(<color style='color:#FFFFFFFF'>Only [b]3201[a]Catalyst Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "마도 서론",
+            "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 주는 피해+1pt</color><br>(<color style='color:#FFFFFFFF'>「[b]3201[a]법구」 캐릭터</color>만 장착 가능. 캐릭터는 「[b]3003[a]무기」를 1개만 장착할 수 있다)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -7367,8 +7369,8 @@ var _card = [
         },
         {
             "_id": 227011,
-            "Name": "Proliferating Spores",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Jadeplume Terrorshroom</color>, equip this card.<br>After Jadeplume Terrorshroom equips this card, immediately use <color style='color:#FFD780FF'>Volatile Spore Cloud</color> once.<br>Your Jadeplume Terrorshroom, who has this card equipped, can accumulate 1 more stack of Radical Vitality.<br>(You must have Jadeplume Terrorshroom in your deck to add this card to your deck.)",
+            "Name": "포자 증식",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>공포의 취령 버섯</color>일 때 해당 카드를 장착할 수 있다.<br>공포의 취령 버섯이 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>불안정한 포자 구름</color>을 1회 사용한다.<br>해당 카드를 장착한 공포의 취령 버섯의 「활력 자극」 누적 스택 최대치+1<br>(카드 덱에 공포의 취령 버섯이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7384,8 +7386,8 @@ var _card = [
         },
         {
             "_id": 226011,
-            "Name": "Stonehide Reforged",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Stonehide Lawachurl</color>, equip this card.<br>After Stonehide Lawachurl equips this card, immediately use <color style='color:#FFD780FF'>Upa Shato</color> once.<br>When your Stonehide Lawachurl, who has this card equipped, defeats an opposing character: Stonehide Lawachurl will re-attach <color style='color:#FFFFFFFF'>Stonehide</color> and <color style='color:#FFFFFFFF'>Stone Force</color>.<br>(You must have Stonehide Lawachurl in your deck to add this card to your deck.)",
+            "Name": "재건: 바위 투구",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>츄츄 바위왕</color>일 때 해당 카드를 장착할 수 있다.<br>츄츄 바위왕이 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>Upa Shato</color>를 1회 사용한다.<br>해당 카드를 장착한 츄츄 바위왕이 상대 캐릭터 처치 후: 츄츄 바위왕에게 <color style='color:#FFFFFFFF'>바위 투구</color>와 <color style='color:#FFFFFFFF'>견고한 바위의 힘</color>이 다시 부착된다.<br>(카드 덱에 츄츄 바위왕이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7405,8 +7407,8 @@ var _card = [
         },
         {
             "_id": 225021,
-            "Name": "Rending Vortex",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Dvalin</color>, equip this card.<br>After Dvalin equips this card, immediately use <color style='color:#FFD780FF'>Tempestuous Barrage</color> once.<br>When your Dvalin, who has this card equipped, is on the field, when <color style='color:#FFFFFFFF'>Total Collapse</color> attached to an opposing character is removed: Apply <color style='color:#FFFFFFFF'>Total Collapse</color> to the next opposing standby character. (Once per Round)<br>(You must have Dvalinin your deck to add this card to your deck.)",
+            "Name": "파열의 소용돌이",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>드발린</color>일 시 해당 카드를 장착할 수 있다.<br>드발린해당 카드를 장착 후 즉시 <color style='color:#FFD780FF'>몰아치는 폭풍</color>을 1회 사용한다.<br>해당 카드를 장착한 드발린이 필드에 있을 시 적 캐릭터에게 부착된 <color style='color:#FFFFFFFF'>와해</color> 상태가 제거된 후: 다음 적 대기 캐릭터에게 <color style='color:#FFFFFFFF'>와해</color>를 부착한다. (턴당 1회)<br>(카드 덱에 드발린이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7424,8 +7426,8 @@ var _card = [
         },
         {
             "_id": 225011,
-            "Name": "Transcendent Automaton",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Maguu Kenki</color>, equip this card.<br>After Maguu Kenki equips this card, immediately use <color style='color:#FFD780FF'>Blustering Blade</color> once.<br>After your Maguu Kenki, who has this card equipped, uses <color style='color:#FFFFFFFF'>Blustering Blade</color>, you will switch to your next character. You will switch to your previous character when your Maguu Kenki, who has this card equipped, uses <color style='color:#FFFFFFFF'>Frosty Assault</color>.<br>(You must have Maguu Kenki in your deck to add this card to your deck.)",
+            "Name": "신통방통",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>꼭두각시 검귀</color>일 때 해당 카드를 장착할 수 있다.<br>꼭두각시 검귀가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>고독한 바람의 검세</color>를 1회 사용한다.<br>해당 카드를 장착한 꼭두각시 검귀가 <color style='color:#FFFFFFFF'>고독한 바람의 검세</color>를 사용하면 다음 아군 캐릭터로 교체되며 <color style='color:#FFFFFFFF'>서리 낀 그림자의 돌진</color>을 사용하면 이전 아군 캐릭터로 교체된다.<br>(카드 덱에 꼭두각시 검귀가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7441,8 +7443,8 @@ var _card = [
         },
         {
             "_id": 224031,
-            "Name": "Pearl Solidification",
-            "Desc": "Can only be played if your active character is <color style='color:#FFFFFFFF'>Millennial Pearl Seahorse</color>: When played, Millennial Pearl Seahorse will have <color style='color:#FFFFFFFF'>Fontemer Pearl</color> with 1 <color style='color:#FFFFFFFF'>Usage(s)</color> attached to them. If they already have Fontemer Pearl attached, <color style='color:#FFFFFFFF'>Usage(s)</color> +1 instead.<br>When the <color style='color:#FFFFFFFF'>Fontemer Pearl</color> attached to Millennial Pearl Seahorse negates DMG from Summons, change to <color style='color:#FFFFFFFF'>Usage(s)</color> not being consumed twice per Round.<br>(Your deck must contain Millennial Pearl Seahorse to add this card to your deck)",
+            "Name": "진주 응고",
+            "Desc": "아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>천년 묵은 진주 기린</color>일 때 사용 가능: 필드 입장 시 천년 묵은 진주 기린에게 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>가 1인 <color style='color:#FFFFFFFF'>원류바다 진주</color>를 부착한다. 이미 원류바다 진주가 부착되어 있다면 해당 효과의 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>+1<br>해당 장비를 장착한 천년 묵은 진주 기린에 부착된 <color style='color:#FFFFFFFF'>원류바다 진주</color>가 소환물 피해를 상쇄할 경우, 턴마다 2회씩 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>를 소모하지 않는 것으로 전환된다.<br>(카드 덱에 천년 묵은 진주 기린이 있어야만 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT"
             ],
@@ -7457,8 +7459,8 @@ var _card = [
         },
         {
             "_id": 224021,
-            "Name": "Grieving Echo",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Thunder Manifestation</color>, equip this card.<br>After Thunder Manifestation equips this card, immediately use <color style='color:#FFD780FF'>Strifeful Lightning</color> once.<br>When your <color style='color:#FFFFFFFF'>Thunder Manifestation</color> is on the field and has this card equipped, when an opponent with <color style='color:#FFFFFFFF'>Lightning Rod</color> attached takes DMG: You draw 1 card. (Once per Round)<br>(You must have Thunder Manifestation in your deck to add this card to your deck.)",
+            "Name": "통곡의 메아리",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>뇌음의 권현</color>일 때 해당 카드를 장착할 수 있다.<br>뇌음의 권현이 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>배척의 번개 벽</color>을 1회 사용한다.<br>해당 카드를 장착한 <color style='color:#FFFFFFFF'>뇌음의 권현</color>이 필드에 있고 <color style='color:#FFFFFFFF'>뇌명 탐지</color>가 부착된 적 캐릭터가 피해를 받을 시: 아군이 카드를 1장 드로우한다. (턴당 1회)<br>(카드 덱에 뇌음의 권현이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7476,8 +7478,8 @@ var _card = [
         },
         {
             "_id": 223031,
-            "Name": "Scorpocalypse",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Eremite Scorching Loremaster</color>, equip this card.<br>After Eremite Scorching Loremaster equips this card, immediately use <color style='color:#FFD780FF'>Spirit of Omen's Awakening: Pyro Scorpion</color> once.<br><color style='color:#FFFFFFFF'>Spirit of Omen: Pyro Scorpion</color> created by Eremite Scorching Loremaster with this card equipped will deal +1 DMG in Rounds when Eremite Scorching Loremaster has used a <color style='color:#FFFFFFFF'>Normal Attack</color> or <color style='color:#FFFFFFFF'>Elemental Skill</color>.<br><color style='color:#FFFFFFFF'>Spirit of Omen: Pyro Scorpion</color>'s DMG reduction effect can now be triggered twice per Round.<br>(Your deck must contain Eremite Scorching Loremaster to add this card to it)",
+            "Name": "전갈의 큰 재앙",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>도금 여단 · 모래의 이야기꾼</color>일 때 해당 카드를 장착할 수 있다.<br>도금 여단 · 모래의 이야기꾼이 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>악령 소생 · 마의 화염 전갈</color>을 1회 사용한다.<br>해당 카드를 장착한 도금 여단 · 모래의 이야기꾼이 생성한 <color style='color:#FFFFFFFF'>악령 · 마의 화염 전갈</color>은 도금 여단 · 모래의 이야기꾼이 <color style='color:#FFFFFFFF'>「일반 공격」</color> 또는 <color style='color:#FFFFFFFF'>「원소전투 스킬」</color>을 사용한 턴에 주는 피해가 1pt 증가한다.<br><color style='color:#FFFFFFFF'>악령 · 마의 화염 전갈</color>의 피해 감소 효과가 턴당 최대 2회로 변경된다.<br>(카드 덱에 도금 여단 · 모래의 이야기꾼이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7496,8 +7498,8 @@ var _card = [
         },
         {
             "_id": 223021,
-            "Name": "Embers Rekindled",
-            "Desc": "<color style='color:#FFFFFFFF'>When played:</color> If <color style='color:#FFFFFFFF'>Abyss Lector: Fathomless Flames</color>, who equips this card, has already triggered <color style='color:#FFFFFFFF'>Fiery Rebirth</color>, immediately discard this card and apply <color style='color:#FFFFFFFF'>Aegis of Abyssal Flame</color> to the character.<br>When Abyss Lector: Fathomless Flames, who has this card equipped, triggers <color style='color:#FFFFFFFF'>Fiery Rebirth</color>: discard this card and apply <color style='color:#FFFFFFFF'>Aegis of Abyssal Flame</color> to the character.<br>(You must have Abyss Lector: Fathomless Flames in your deck to add this card to your deck.)",
+            "Name": "다시 타오른 잿불",
+            "Desc": "<color style='color:#FFFFFFFF'>필드 입장 시:</color> 해당 카드를 장착한 <color style='color:#FFFFFFFF'>심연 봉독자 · 심연의 불꽃</color>이 이미 <color style='color:#FFFFFFFF'>다시 태어난 불꽃</color>을 발동했을 시, 즉시 해당 카드를 버리고 캐릭터에게 <color style='color:#FFFFFFFF'>심연 불꽃의 가호</color>를 부착한다.<br>해당 카드를 장착한 심연 봉독자 · 심연의 불꽃이 <color style='color:#FFFFFFFF'>다시 태어난 불꽃</color> 발동 시: 해당 카드를 버리고, 캐릭터에게 <color style='color:#FFFFFFFF'>심연 불꽃의 가호</color>를 부착한다.<br>(카드 덱에 심연 봉독자 · 심연의 불꽃이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT"
             ],
@@ -7514,8 +7516,8 @@ var _card = [
         },
         {
             "_id": 223011,
-            "Name": "Paid in Full",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Fatui Pyro Agent</color>, equip this card.<br>After Fatui Pyro Agent equips this card, immediately use <color style='color:#FFD780FF'>Prowl</color> once.<br>When your Fatui Pyro Agent, who has this card equipped, creates a <color style='color:#FFFFFFFF'>Stealth</color>, it will have the following effects:<br>Starting <color style='color:#FFFFFFFF'>Usage(s)</color> +1, the [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> the attached character deals will be converted to [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br>(You must have Fatui Pyro Agent in your deck to add this card to your deck.)",
+            "Name": "전부 되돌려주지",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>우인단 · 화염 채무 처리인</color>일 때 해당 카드를 장착할 수 있다.<br>우인단 · 화염 채무 처리인이 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>기회 포착</color>을 1회 사용한다.<br>해당 카드를 장착한 우인단 · 화염 채무 처리인이 생성한 <color style='color:#FFFFFFFF'>잠행</color>이 아래의 효과를 획득한다.<br>시작 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>+1 및 부착 캐릭터가 주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>로 전환된다.<br>(카드 덱에 우인단 · 화염 채무 처리인이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7536,8 +7538,8 @@ var _card = [
         },
         {
             "_id": 222021,
-            "Name": "Mirror Cage",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Mirror Maiden</color>, equip this card.<br>After Mirror Maiden equips this card, immediately use <color style='color:#FFD780FF'>Influx Blast</color> once.<br>When your Mirror Maiden, who has this card equipped, creates a <color style='color:#FFFFFFFF'>Refraction</color>, it will have the following effects:<br>Starting <color style='color:#FFFFFFFF'>Duration (Rounds)</color> +1, will increase the Elemental Dice Cost of switching from the character to which this is attached to another character by 1.<br>(You must have Mirror Maiden in your deck to add this card to your deck.)",
+            "Name": "거울의 속박",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>우인단 · 거울의 여인</color>일 때 해당 카드를 장착할 수 있다.<br>우인단 · 거울의 여인이 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>물결 폭파</color>를 1회 사용한다.<br>해당 카드를 장착한 우인단 · 거울의 여인이 생성한 <color style='color:#FFFFFFFF'>깨진 물빛 거울</color>이 아래의 효과를 획득한다.<br>시작 <color style='color:#FFFFFFFF'>지속 턴</color>+1 및 부착 캐릭터를 다른 캐릭터로 교체 시 원소 주사위 소모 개수+1<br>(카드 덱에 우인단 · 거울의 여인이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7556,8 +7558,8 @@ var _card = [
         },
         {
             "_id": 222011,
-            "Name": "Streaming Surge",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Rhodeia of Loch</color>, equip this card.<br>After Rhodeia of Loch equips this card, immediately use <color style='color:#FFD780FF'>Tide and Torrent</color> once.<br>When your Rhodeia of Loch, who has this card equipped, uses <color style='color:#FFFFFFFF'>Tide and Torrent</color>: All of your Summon(s) gain +1 <color style='color:#FFFFFFFF'>Usage(s)</color>.<br>(You must have Rhodeia of Loch in your deck to add this card to your deck.)",
+            "Name": "세찬 격류",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>물의 정령 · 로데이아</color>일 때 해당 카드를 장착할 수 있다.<br>물의 정령 · 로데이아가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>밀물과 급류</color>를 1회 사용한다.<br>해당 카드를 장착한 물의 정령 · 로데이아가 <color style='color:#FFFFFFFF'>밀물과 급류</color> 사용 시: 모든 아군 소환물의 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>+1<br>(카드 덱에 물의 정령 · 로데이아가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7575,8 +7577,8 @@ var _card = [
         },
         {
             "_id": 221031,
-            "Name": "Sternfrost Prism",
-            "Desc": "Can only be played if your active character is <color style='color:#FFFFFFFF'>Cryo Hypostasis</color>: Attach <color style='color:#FFFFFFFF'>Cryo Crystal Core</color> to them.<br>After Cryo Hypostasis, who has this card equipped, triggers <color style='color:#FFFFFFFF'>Cryo Crystal Core</color>: Attach <color style='color:#FFFFFFFF'>Sheer Cold</color> to the opposing active character.<br>(Your deck must contain Cryo Hypostasis to add this card to your deck)",
+            "Name": "서리 프리즘 결정",
+            "Desc": "아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>무상의 얼음</color>일 때 사용 가능: <color style='color:#FFFFFFFF'>얼음수정 코어</color>를 부착한다.<br>해당 카드를 장착한 무상의 얼음이 <color style='color:#FFFFFFFF'>얼음수정 코어</color>를 발동한 후 적 출전 캐릭터에게 <color style='color:#FFFFFFFF'>혹한</color>을 부착한다.<br>(카드 덱에 무상의 얼음이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT"
             ],
@@ -7593,8 +7595,8 @@ var _card = [
         },
         {
             "_id": 221021,
-            "Name": "Pain for Pain",
-            "Desc": "Can only be played if your active character is <color style='color:#FFFFFFFF'>La Signora</color>: When entering play, generate 3 Elemental Dice of the same Type as <color style='color:#FFFFFFFF'>La Signora</color>.<br>When this character takes at least 3 DMG: Negates 1 DMG, then apply <color style='color:#FFFFFFFF'>Sheer Cold</color> or <color style='color:#FFFFFFFF'>Blazing Heat</color> to the opposing active character based on La Signora's state. (Once per Round)<br>(Your deck must contain La Signora to add this card to your deck)",
+            "Name": "고통 반환",
+            "Desc": "아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>「시뇨라」</color>일 시 사용 가능: 필드 입장 시, 현재 <color style='color:#FFFFFFFF'>「시뇨라」</color>의 원소 타입과 같은 원소 주사위를 3개 생성한다.<br>캐릭터가 3pt 이상의 피해를 받을 시: 피해를 1pt 상쇄하고 「시뇨라」의 형태에 따라 적 출전 캐릭터에게 <color style='color:#FFFFFFFF'>혹한</color> 또는 <color style='color:#FFFFFFFF'>작열</color>을 부착한다. (턴당 1회)<br>(카드 덱에 「시뇨라」가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT"
             ],
@@ -7610,8 +7612,8 @@ var _card = [
         },
         {
             "_id": 221011,
-            "Name": "Cicin's Cold Glare",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Fatui Cryo Cicin Mage</color>, equip this card.<br>After Fatui Cryo Cicin Mage equips this card, immediately use <color style='color:#FFD780FF'>Misty Summons</color> once.<br>After your Fatui Cryo Cicin Mage, who has this card equipped, uses a Skill: If <color style='color:#FFFFFFFF'>Cryo Cicins</color>' <color style='color:#FFFFFFFF'>Usage(s)</color> have exceeded their upper limit, deal 2 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br>(You must have Fatui Cryo Cicin Mage in your deck to add this card to your deck.)",
+            "Name": "얼음 치친의 서늘한 빛",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>우인단 · 얼음 치친 술사</color>일 때 해당 카드를 장착할 수 있다.<br>우인단 · 얼음 치친 술사가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>안개의 부름</color>을 1회 사용한다.<br>해당 카드를 장착한 우인단 · 얼음 치친 술사가 스킬 사용 후: <color style='color:#FFFFFFFF'>얼음 치친</color>의 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>가 상한을 초과할 때까지 중첩될 시 [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>를 2pt 준다.<br>(카드 덱에 우인단 · 얼음 치친 술사가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7631,8 +7633,8 @@ var _card = [
         },
         {
             "_id": 217061,
-            "Name": "Structuration",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Alhaitham</color>, equip this card.<br>After Alhaitham equips this card, immediately use <color style='color:#FFD780FF'>Particular Field: Fetters of Phenomena</color> once.<br>When your Alhaitham, who has this card equipped, uses <color style='color:#FFFFFFFF'>Particular Field: Fetters of Phenomena</color>, if the character consumes a <color style='color:#FFFFFFFF'>Chisel-Light Mirror</color> with at least 1 <color style='color:#FFFFFFFF'>Duration (Rounds)</color>, then always attach <color style='color:#FFFFFFFF'>Chisel-Light Mirror</color> with 3 <color style='color:#FFFFFFFF'>Duration (Rounds)</color> and draw 1 card.<br>(You must have Alhaitham in your deck to add this card to your deck.)",
+            "Name": "정리",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>알하이탐</color>일 때 해당 카드를 장착할 수 있다.<br>알하이탐이 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>특수 영역 · 현상의 족쇄</color>를 1회 발동한다.<br>해당 카드를 장착한 알하이탐이 <color style='color:#FFFFFFFF'>특수 영역 · 현상의 족쇄</color> 사용 시: <color style='color:#FFFFFFFF'>지속 턴</color>이 최소 1인 <color style='color:#FFFFFFFF'>빛조각</color>을 소모했다면 확정으로 <color style='color:#FFFFFFFF'>지속 턴</color>이 3인 <color style='color:#FFFFFFFF'>빛조각</color>을 부착하고, 카드를 1장 드로우한다.<br>(카드 덱에 알하이탐이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7652,8 +7654,8 @@ var _card = [
         },
         {
             "_id": 217051,
-            "Name": "All Things Are of the Earth",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Baizhu</color>, equip this card.<br>After Baizhu equips this card, immediately use <color style='color:#FFD780FF'>Holistic Revivification</color> once.<br>When your Baizhu, who has this card equipped, is on the field, when <color style='color:#FFFFFFFF'>Seamless Shield</color> activates a healing effect, generate 1 Elemental Dice of the same type as your active character.<br>(You must have Baizhu in your deck to add this card to your deck)",
+            "Name": "변화의 법칙",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>백출</color>일 때 해당 카드를 장착할 수 있다.<br>백출이 해당 카드를 장착 후 즉시 <color style='color:#FFD780FF'>치유 전형론</color>을 1회 사용한다.<br>해당 카드를 장착한 백출이 필드에 있을 때 <color style='color:#FFFFFFFF'>무간 보호막</color>이 치유 효과를 발동할 시: 출전 캐릭터 타입의 원소 주사위를 1개 생성한다.<br>(카드 덱에 백출이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7672,8 +7674,8 @@ var _card = [
         },
         {
             "_id": 217041,
-            "Name": "Beneficent",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Yaoyao</color>, equip this card.<br>After Yaoyao equips this card, immediately use <color style='color:#FFD780FF'>Raphanus Sky Cluster</color> once.<br>When <color style='color:#FFFFFFFF'>Yuegui: Throwing Mode</color> is created by your Yaoyao, who has this card equipped, and it has only 1 <color style='color:#FFFFFFFF'>Usage(s)</color> remaining, it deals +1 DMG and healing is increased by 1.<br>(You must have Yaoyao in your deck to add this card to your deck.)",
+            "Name": "자애롭고 어진 마음",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>요요</color>일 때 해당 카드를 장착할 수 있다.<br>요요가 해당 카드를 장착 후 즉시 <color style='color:#FFD780FF'>하늘에서 무가 내려와</color>를 1회 사용한다.<br>해당 카드를 장착한 요요가 생성한 <color style='color:#FFFFFFFF'>월계 · 투척형</color>은 남은 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>가 1회일 시 주는 피해와 치유량이 각각 1pt 증가한다.<br>(카드 덱에 요요가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7692,8 +7694,8 @@ var _card = [
         },
         {
             "_id": 217031,
-            "Name": "The Seed of Stored Knowledge",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Nahida</color>, equip this card.<br>After Nahida equips this card, immediately use <color style='color:#FFD780FF'>Illusory Heart</color> once.<br>When your Nahida, who has this card equipped, is on the field, the following effects will take place based on your party's Elemental Types:<br>[b]2103[a]<color style='color:#FF9999FF'>Pyro</color>: When the <color style='color:#FFFFFFFF'>Shrine of Maya</color> is on the field, opposing characters who trigger the <color style='color:#FFFFFFFF'>Seed of Skandha</color> due to Elemental Reactions they are affected by will have the <color style='color:#FFFFFFFF'>Piercing DMG</color> they take from the <color style='color:#FFFFFFFF'>Seed of Skandha</color> converted to [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>.<br>[b]2104[a]<color style='color:#FFACFFFF'>Electro</color>: When the <color style='color:#FFFFFFFF'>Shrine of Maya</color> enters the field, the <color style='color:#FFFFFFFF'>Seed of Skandha</color> currently present of the opposition will gain 1 <color style='color:#FFFFFFFF'>Usage(s)</color>.<br>[b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>: After your Nahida, who has this card equipped unleashes <color style='color:#FFFFFFFF'>Shrine of Maya</color>, <color style='color:#FFFFFFFF'>Duration (Rounds)</color> +1.<br>(You must have Nahida in your deck to add this card to your deck.)",
+            "Name": "지혜를 머금은 씨앗",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>나히다</color>일 때 해당 카드를 장착할 수 있다.<br>나히다가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>마음이 그리는 환상</color>을 1회 사용한다.<br>해당 카드를 장착한 나히다가 필드에 있을 시, 아군의 파티에 존재하는 원소 타입에 따라 효과를 제공한다:<br>[b]2103[a]<color style='color:#FF9999FF'>불 원소</color>: <color style='color:#FFFFFFFF'>마야의 전당</color>이 필드에 있을 시, 원소 반응을 받아 <color style='color:#FFFFFFFF'>스칸다 씨앗</color>이 발동될 때 상대 캐릭터가 받는 <color style='color:#FFFFFFFF'>스칸다 씨앗</color>의 <color style='color:#FFFFFFFF'>관통 피해</color>가 [b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>로 전환된다.<br>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소</color>: <color style='color:#FFFFFFFF'>마야의 전당</color>이 필드 입장 시, 현재 상대 필드의 <color style='color:#FFFFFFFF'>스칸다 씨앗</color>의 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>+1<br>[b]2102[a]<color style='color:#80C0FFFF'>물 원소</color>: 해당 카드를 장착한 나히다가 생성한 <color style='color:#FFFFFFFF'>마야의 전당</color>의 시작 <color style='color:#FFFFFFFF'>지속 턴</color>+1<br>(카드 덱에 나히다가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7717,8 +7719,8 @@ var _card = [
         },
         {
             "_id": 217021,
-            "Name": "Keen Sight",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Tighnari</color>, equip this card.<br>After Tighnari equips this card, immediately use <color style='color:#FFD780FF'>Vijnana-Phala Mine</color> once.<br>When your Tighnari, who has this card equipped, is affected by <color style='color:#FFFFFFFF'>Vijnana Suffusion</color>, the character's <color style='color:#FFFFFFFF'>Charged Attack</color> costs 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>.<br>(You must have Tighnari in your deck to add this card to your deck.)",
+            "Name": "예리한 안목",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>타이나리</color>일 때 해당 카드를 장착할 수 있다.<br>타이나리가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>식(識)의 열매</color>를 1회 사용한다.<br>해당 카드를 장착한 타이나리가 <color style='color:#FFFFFFFF'>식(識)의 통찰자</color> 부착 상태에서 <color style='color:#FFFFFFFF'>강공격</color> 발동 시, 소모하는 <color style='color:#FFFFFFFF'>[b]1109[a]무색 원소</color>가 1개 감소한다.<br>(카드 덱에 타이나리가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7738,8 +7740,8 @@ var _card = [
         },
         {
             "_id": 217011,
-            "Name": "Floral Sidewinder",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Collei</color>, equip this card.<br>After Collei equips this card, immediately use <color style='color:#FFD780FF'>Floral Brush</color> once.<br>After your Collei, who has this card equipped, <color style='color:#FFFFFFFF'>uses Floral Brush</color>, during this Round, when your characters' Skills trigger <color style='color:#7EC236FF'>[b]2107[a]Dendro-Related Reactions</color>: Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>. (Once per Round)<br>(You must have Collei in your deck to add this card to your deck.)",
+            "Name": "되돌아오는 잎새",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>콜레이</color>일 때 해당 카드를 장착할 수 있다.<br>콜레이가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>스쳐 지나가는 풀잎</color>을 1회 사용한다.<br>해당 카드를 장착한 콜레이가 <color style='color:#FFFFFFFF'>스쳐 지나가는 풀잎</color>을 사용한 턴에서 아군 캐릭터가 스킬로 <color style='color:#7EC236FF'>[b]2107[a]풀 원소 관련 반응</color>을 유발 후: [b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>를 1pt 준다. (턴당 1회)<br>(카드 덱에 콜레이가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7757,8 +7759,8 @@ var _card = [
         },
         {
             "_id": 216061,
-            "Name": "Rushing Hound: Swift as the Wind",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Gorou</color>, equip this card.<br>After Gorou equips this card, immediately use <color style='color:#FFD780FF'>Inuzaka All-Round Defense</color> once.<br>When your Gorou, who has this card equipped, is on the field, and after any of your characters deals [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>: If <color style='color:#FFFFFFFF'>General's War Banner</color> is in play, draw 1 card. (Once per Round)<br>(You must have Gorou in your deck to add this card to your deck.)",
+            "Name": "달리는 강아지 · 바람처럼 빠르게",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>고로</color>일 때 해당 카드를 장착할 수 있다.<br>고로가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>이누자카 멍멍 방원진</color>을 1회 사용한다.<br>해당 카드를 장착한 고로가 필드에 있을 때 아군 캐릭터가 [b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color>를 준 후: 필드에 <color style='color:#FFFFFFFF'>대장의 깃발</color>이 존재하면 카드를 1장 드로우한다. (턴당 1회)<br>(카드 덱에 고로가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7777,8 +7779,8 @@ var _card = [
         },
         {
             "_id": 216051,
-            "Name": "Arataki Ichiban",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Arataki Itto</color>, equip this card.<br>After Arataki Itto equips this card, immediately use <color style='color:#FFD780FF'>Fight Club Legend</color> once.<br>After your Arataki Itto, who has this card equipped, uses <color style='color:#FFFFFFFF'>Fight Club Legend</color> for the second time or more in one Round: If <color style='color:#FFFFFFFF'>Superlative Superstrength</color> is triggered, deal +1 additional DMG.<br>(You must have Arataki Itto in your deck to add this card to your deck.)",
+            "Name": "아라타키 제일",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>아라타키 이토</color>일 때 해당 카드를 장착할 수 있다.<br>아라타키 이토가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>싸움꾼 전설</color>을 1회 사용한다.<br>해당 카드를 장착한 아라타키 이토가 한 턴에 두 번 이상 <color style='color:#FFFFFFFF'>싸움꾼 전설</color> 발동 시: <color style='color:#FFFFFFFF'>난신의 괴력</color>을 발동할 경우 주는 피해 추가+1pt<br>(카드 덱에 아라타키 이토가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7796,8 +7798,8 @@ var _card = [
         },
         {
             "_id": 216041,
-            "Name": "Descent of Divinity",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Albedo</color>, equip this card.<br>After Albedo equips this card, immediately use <color style='color:#FFD780FF'>Abiogenesis: Solar Isotoma</color>.<br>When there is Albedo on the field who has this card equipped, if your side of the field has <color style='color:#FFFFFFFF'>Solar Isotoma</color>, then your characters' <color style='color:#FFFFFFFF'>Plunging Attack</color> deals +1 DMG.<br>(You must have Albedo in your deck to add this card to your deck.)",
+            "Name": "신성의 추락",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>알베도</color>일 때 해당 카드를 장착할 수 있다.<br>알베도가 해당 카드를 장착 후 즉시 <color style='color:#FFD780FF'>창생법 · 모조 태양꽃</color>을 1회 사용한다.<br>해당 카드를 장착한 알베도가 필드에 있을 시, 아군 필드에 <color style='color:#FFFFFFFF'>태양꽃</color>이 있을 경우 아군 캐릭터가 <color style='color:#FFFFFFFF'>낙하 공격</color>으로 주는 피해+1pt<br>(카드 덱에 알베도가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7816,8 +7818,8 @@ var _card = [
         },
         {
             "_id": 216031,
-            "Name": "Dominance of Earth",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Zhongli</color>, equip this card.<br>After Zhongli equips this card, immediately use <color style='color:#FFD780FF'>Dominus Lapidis: Striking Stone</color> once.<br>When your active character is protected by a [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> Character Status or a [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> Combat Status, your Summons deal +1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br>(You must have Zhongli in your deck to add this card to your deck.)",
+            "Name": "호의호식",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>종려</color>일 때 해당 카드를 장착할 수 있다.<br>종려가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>지핵 · 드높은 반석</color>을 1회 사용한다.<br>아군 출전 캐릭터가 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color> 캐릭터 상태 또는 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color> 출전 상태의 보호를 받고 있을 시, 아군 소환물이 주는 [b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color>+1pt<br>(카드 덱에 종려가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7835,8 +7837,8 @@ var _card = [
         },
         {
             "_id": 216021,
-            "Name": "I Got Your Back",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Noelle</color>, equip this card.<br>After Noelle equips this card, immediately use <color style='color:#FFD780FF'>Breastplate</color> once.<br>After <color style='color:#FFFFFFFF'>Noelle uses a Normal Attack:</color> If this card and <color style='color:#FFFFFFFF'>Full Plate</color> are both still in play, heal all your characters for 1 HP. (Once per Round)<br>(You must have Noelle in your deck to add this card to your deck.)",
+            "Name": "지원은 저한테 맡기세요",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>노엘</color>일 때 해당 카드를 장착할 수 있다.<br>노엘이 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>호심경</color>을 1회 사용한다.<br>노엘이 <color style='color:#FFFFFFFF'>일반 공격</color> 후: 해당 카드와 <color style='color:#FFFFFFFF'>바위 갑주</color>가 여전히 필드에 있을 경우, 모든 아군 캐릭터의 HP를 1pt 치유한다. (턴당 1회)<br>(카드 덱에 노엘이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7854,8 +7856,8 @@ var _card = [
         },
         {
             "_id": 216011,
-            "Name": "Strategic Reserve",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Ningguang</color>, equip this card.<br>After Ningguang equips this card, immediately use <color style='color:#FFD780FF'>Jade Screen</color> once.<br>When your Ningguang, who has this card equipped, is on the field, <color style='color:#FFFFFFFF'>Jade Screen</color> will cause you to deal +1 <color style='color:#FFE699FF'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color>.<br>(You must have Ningguang in your deck to add this card to your deck.)",
+            "Name": "사전 준비",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>응광</color>일 때 해당 카드를 장착할 수 있다.<br>응광이 해당 카드를 장착 후 즉시 <color style='color:#FFD780FF'>선기 병풍</color>을 1회 사용한다.<br>해당 카드를 장착한 응광이 필드에 있을 시, <color style='color:#FFFFFFFF'>선기 병풍</color>은 아군이 주는 <color style='color:#FFE699FF'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color>를 1pt 증가시킨다.<br>(카드 덱에 응광이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7874,8 +7876,8 @@ var _card = [
         },
         {
             "_id": 215081,
-            "Name": "A Cold Blade Like a Shadow",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Lynette</color>, equip this card.<br>After Lynette equips this card, immediately use <color style='color:#FFD780FF'>Enigmatic Feint</color> once.<br>After your Lynette, who has this card equipped, uses <color style='color:#FFFFFFFF'>Enigmatic Feint</color> for the second time this Round: deals +2 DMG and forces your opponent to switch to their previous character.<br>(You must have Lynette in your deck to add this card to your deck.)",
+            "Name": "서늘한 그림자 검",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>리넷</color>일 때 해당 카드를 장착할 수 있다.<br>리넷이 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>그림자 은신술</color>을 1회 사용한다.<br>해당 카드를 장착한 리넷이 턴마다 두 번째로 <color style='color:#FFFFFFFF'>그림자 은신술</color> 사용 시: 피해+2pt 및 상대의 출전 캐릭터를 이전 캐릭터로 강제 교체한다.<br>(카드 덱에 리넷이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7891,8 +7893,8 @@ var _card = [
         },
         {
             "_id": 215071,
-            "Name": "Skiving: New and Improved",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Sayu</color>, equip this card.<br>When Sayu equips this card, immediately use <color style='color:#FFD780FF'>Yoohoo Art: Fuuin Dash</color> once.<br>When your Sayu who has this card equipped is the active character, draw 2 cards when you trigger a Swirl reaction. (Once per Round)<br>(You must have Sayu in your deck to add this card to your deck.)",
+            "Name": "새로운 농땡이 방법",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>사유</color>일 때 해당 카드를 장착할 수 있다.<br>사유가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>유후류 · 풍은 돌진</color>을 1회 사용한다.<br>해당 카드를 장착한 사유가 출전 캐릭터일 때 아군이 확산 반응 발동 시: 카드를 2장 드로우한다. (턴당 1회)<br>(카드 덱에 사유가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7908,8 +7910,8 @@ var _card = [
         },
         {
             "_id": 215061,
-            "Name": "Gales of Reverie",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>???</color>, equip this card.<br>After ??? equips this card, immediately use <color style='color:#FFD780FF'>Hanega: Song of the Wind</color> once.<br>When your ???, who has this card equipped, is in <color style='color:#FFFFFFFF'>Windfavored</color> state and after using <color style='color:#FFFFFFFF'>Charged Attack</color>: you will spend 1 less Elemental Die the next time you use \"Switch Character\" and deal 1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>.<br>(You must have ??? in your deck to add this card to your deck.)",
+            "Name": "몽상의 바람",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>???</color>일 때 해당 카드를 장착할 수 있다.<br>???가 해당 카드를 장착 후 즉시 <color style='color:#FFD780FF'>우화 · 바람이 전하는 노래</color>를 1회 사용한다.<br>해당 카드를 장착한 ???가 <color style='color:#FFFFFFFF'>바람의 자태</color> 상태에서 <color style='color:#FFFFFFFF'>강공격</color> 후: 다음번에 해당 캐릭터가 「캐릭터 교체」 행동 시 소모하는 원소 주사위가 1개 감소하고 [b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color>를 1pt 준다.<br>(카드 덱에 ???가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7929,8 +7931,8 @@ var _card = [
         },
         {
             "_id": 215051,
-            "Name": "Poetics of Fuubutsu",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When <color style='color:#FFFFFFFF'>Kaedehara Kazuha</color> is your active character, equip this card.<br>After Kaedehara Kazuha equips this card, he will immediately use <color style='color:#FFD780FF'>Chihayaburu</color> once.<br>After Kaedehara Kazuha triggers Swirl with this card equipped: For the next 2 instances, your Characters and Summons will deal +1 DMG for the Elemental Type Swirled. (Each Elemental Type is counted independently)<br>(You must have Kaedehara Kazuha in your deck to add this card to your deck.)",
+            "Name": "바람 속 시 낭송",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>카에데하라 카즈하</color>일 때 해당 카드를 장착할 수 있다.<br>카에데하라 카즈하가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>치하야부루</color>를 1회 사용한다.<br>해당 카드를 장착한 카에데하라 카즈하가 확산 반응 발동 후: 아군 캐릭터와 소환물이 주는 다음 2회의 확산된 원소 타입 피해+1pt (원소 타입마다 별도 카운트)<br>(카드 덱에 카에데하라 카즈하가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7946,8 +7948,8 @@ var _card = [
         },
         {
             "_id": 215041,
-            "Name": "Conqueror of Evil: Guardian Yaksha",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Xiao</color>, equip this card.<br>After Xiao equips this card, immediately use <color style='color:#FFD780FF'>Bane of All Evil</color> once.<br>While your Xiao has <color style='color:#FFFFFFFF'>Yaksha's Mask</color> attached, your use of <color style='color:#FFFFFFFF'>Lemniscatic Wind Cycling</color> will cost 1 less [b]1105[a]<color style='color:#80FFD7FF'>Anemo Die</color>. (Every attachment of <color style='color:#FFFFFFFF'>Yaksha's Mask</color> allows the effect to be triggered twice)<br>(You must have Xiao in your deck to add this card to your deck.)",
+            "Name": "항마 · 호법야차",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>소</color>일 때 해당 카드를 장착할 수 있다.<br>소가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>나자의 춤</color>을 1회 사용한다.<br>해당 카드를 장착한 소가 <color style='color:#FFFFFFFF'>야차의 가면</color>을 부착한 동안 <color style='color:#FFFFFFFF'>풍륜양립</color> 사용 시 소모하는 [b]1105[a]<color style='color:#80FFD7FF'>바람 원소</color> 개수-1 (<color style='color:#FFFFFFFF'>야차의 가면</color>을 1번 부착할 때마다 최대 2회 발동 가능)<br>(카드 덱에 소가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7966,8 +7968,8 @@ var _card = [
         },
         {
             "_id": 215031,
-            "Name": "Embrace of Winds",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Venti</color>, equip this card.<br>After Venti equips this card, immediately use <color style='color:#FFD780FF'>Skyward Sonnet</color> once.<br>After a <color style='color:#FFFFFFFF'>Stormzone</color> created by your Venti, who has this card equipped, is triggered, the next <color style='color:#FFFFFFFF'>Normal Attack</color> performed by your character in this Round will cost 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>.<br>(You must have Venti in your deck to add this card to your deck.)",
+            "Name": "여풍의 포옹",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>벤티</color>일 때 해당 카드를 장착할 수 있다.<br>벤티가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>높은 하늘의 노래</color>를 1회 사용한다.<br>해당 카드를 장착한 벤티가 생성한 <color style='color:#FFFFFFFF'>바람의 영역</color> 발동 후, 이번 턴에서 아군 캐릭터가 다음번에 <color style='color:#FFFFFFFF'>「일반 공격」</color> 발동 시 소모하는 <color style='color:#FFFFFFFF'>[b]1109[a]무색 원소</color>-1<br>(카드 덱에 벤티가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7986,8 +7988,8 @@ var _card = [
         },
         {
             "_id": 215021,
-            "Name": "Lands of Dandelion",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Jean</color>, equip this card.<br>After Jean equips this card, immediately use <color style='color:#FFD780FF'>Dandelion Breeze</color> once.<br>When your Jean, who has this card equipped, is on the field, <color style='color:#FFFFFFFF'>Dandelion Field</color> will cause you to deal +1 <color style='color:#80FFD7FF'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color>.<br>(You must have Jean in your deck to add this card to your deck.)",
+            "Name": "민들레의 국토",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>진</color>일 때 해당 카드를 장착할 수 있다.<br>진이 해당 카드를 장착 후 즉시 <color style='color:#FFD780FF'>민들레 바람</color>을 1회 사용한다.<br>해당 카드를 장착한 진이 필드에 있을 시, <color style='color:#FFFFFFFF'>민들레 영역</color>은 아군이 주는 <color style='color:#80FFD7FF'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color>를 1pt 증가시킨다.<br>(카드 덱에 진이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8007,8 +8009,8 @@ var _card = [
         },
         {
             "_id": 215011,
-            "Name": "Chaotic Entropy",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Sucrose</color>, equip this card.<br>After Sucrose equips this card, immediately use <color style='color:#FFD780FF'>Forbidden Creation - Isomer 75 / Type II</color> once.<br>After the <color style='color:#FFFFFFFF'>Large Wind Spirit</color> created by your Sucrose, who had this card equipped, has converted to another Elemental Type: Deal +1 DMG of this Elemental Type.<br>(You must have Sucrose in your deck to add this card to your deck.)",
+            "Name": "혼돈의 엔트로피",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>설탕</color>일 때 해당 카드를 장착할 수 있다.<br>설탕이 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>금기 · 풍령 작성 · 칠오 동구 이형</color>을 1회 사용한다.<br>해당 카드를 장착한 설탕이 생성한 <color style='color:#FFFFFFFF'>거대 풍령</color>이 다른 원소로 전환된 후: 아군이 해당 원소 타입으로 주는 피해+1pt<br>(카드 덱에 설탕이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8027,8 +8029,8 @@ var _card = [
         },
         {
             "_id": 214101,
-            "Name": "Discretionary Supplement",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Dori</color>, equip this card.<br>After Dori equips this card, immediately use <color style='color:#FFD780FF'>Alcazarzaray's Exactitude</color> once.<br>The <color style='color:#FFFFFFFF'>Jinni</color> summoned by your Dori who has this card equipped heals 1 more HP when healing characters with no more than 6 HP, and increases the amount of <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color> gained by characters with no <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color> by 1 when <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color> is gained.<br>(You must have Dori in your deck to add this card to your deck)",
+            "Name": "적자 보충",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>도리</color>일 때 해당 카드를 장착할 수 있다.<br>도리가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>지극정성을 다하는 카자르자레궁</color>을 1회 사용한다.<br>해당 카드를 장착한 도리가 소환한 <color style='color:#FFFFFFFF'>램프의 정령</color>이 HP가 6pt 이하인 캐릭터 치유 시 치유량+1pt 및 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>를 보유하지 않은 캐릭터에게 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color> 제공 시 획득량+1pt<br>(카드 덱에 도리가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8048,8 +8050,8 @@ var _card = [
         },
         {
             "_id": 214091,
-            "Name": "Pulsating Witch",
-            "Desc": "After you switch to <color style='color:#FFFFFFFF'>Lisa</color>, who has this card equipped: Attach <color style='color:#FFFFFFFF'>Conductive</color> to the opposing active character. (Once per Round)<br>(You must have Lisa in your deck to add this card to your deck.)",
+            "Name": "펄스의 마녀",
+            "Desc": "해당 카드를 장착한 <color style='color:#FFFFFFFF'>리사</color>로 교체한 후: 적 출전 캐릭터에게 <color style='color:#FFFFFFFF'>전기 전도</color>를 부착한다. (턴당 1회)<br>(카드 덱에 리사가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT"
             ],
@@ -8064,8 +8066,8 @@ var _card = [
         },
         {
             "_id": 214081,
-            "Name": "The Shrine's Sacred Shade",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Yae Miko</color>, equip this card.<br>After Yae Miko equips this card, immediately use <color style='color:#FFD780FF'>Great Secret Art: Tenko Kenshin</color> once.<br>After your Yae Miko, who has this card equipped, destroys a <color style='color:#FFFFFFFF'>Sesshou Sakura</color> through <color style='color:#FFFFFFFF'>Great Secret Art: Tenko Kenshin</color>: The next use of <color style='color:#FFFFFFFF'>Yakan Evocation: Sesshou Sakura</color> this Round will cost 2 less Elemental Dice.<br>(You must have Yae Miko in your deck to add this card to your deck.)",
+            "Name": "히모로기의 그늘",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>야에 미코</color>일 때 해당 카드를 장착할 수 있다.<br>야에 미코가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>대비법 · 천호 현신</color>을 1회 사용한다.<br>해당 카드를 장착한 야에 미코가 <color style='color:#FFFFFFFF'>대비법 · 천호 현신</color>으로 <color style='color:#FFFFFFFF'>살생앵</color>을 소멸시킨 후: 이번 턴에서 다음번에 <color style='color:#FFFFFFFF'>야칸의 소환 · 살생앵</color> 사용 시, 원소 주사위 소모 개수-2<br>(카드 덱에 야에 미코가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8084,8 +8086,8 @@ var _card = [
         },
         {
             "_id": 214071,
-            "Name": "Wishes Unnumbered",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Raiden Shogun</color>, equip this card.<br>After Raiden Shogun equips this card, immediately use <color style='color:#FFD780FF'>Secret Art: Musou Shinsetsu</color> once.<br>When your Raiden Shogun, who has this card equipped, uses <color style='color:#FFFFFFFF'>Secret Art: Musou Shinsetsu</color>: It will deal +1 additional DMG for every point of Resolve consumed.<br>(You must have Raiden Shogun in your deck to add this card to your deck.)",
+            "Name": "수천수만의 염원",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>라이덴 쇼군</color>일 때 해당 카드를 장착할 수 있다.<br>라이덴 쇼군이 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>오의 · 몽상진설</color>을 1회 사용한다.<br>해당 카드를 장착한 라이덴 쇼군이 <color style='color:#FFFFFFFF'>오의 · 몽상진설</color>을 사용할 시: 「원력」을 1pt 소모할 때마다 주는 피해 추가+1pt<br>(카드 덱에 라이덴 쇼군이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8102,8 +8104,8 @@ var _card = [
         },
         {
             "_id": 214061,
-            "Name": "Sin of Pride",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Kujou Sara</color>, equip this card.<br>After Kujou Sara equips this card, immediately use <color style='color:#FFD780FF'>Tengu Stormcall</color> once.<br>When Kujou Sara is active and has this card equipped, all allied [b]2104[a]<color style='color:#FFACFFFF'>Electro</color> characters with <color style='color:#FFFFFFFF'>Crowfeather Cover</color> will deal +1 additional <color style='color:#FFFFFFFF'>Elemental Skill</color> and <color style='color:#FFFFFFFF'>Elemental Burst</color> DMG.<br>(You must have Kujou Sara in your deck to add this card to your deck.)",
+            "Name": "아계(我界)",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>쿠죠 사라</color>일 때 해당 카드를 장착할 수 있다.<br>쿠죠 사라가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>까마귀 깃 텐구의 뇌정 소환</color>을 1회 사용한다.<br>해당 카드를 장착한 쿠죠 사라가 필드에 있을 경우, <color style='color:#FFFFFFFF'>빛나는 깃털의 수호</color>가 부착된 아군 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소</color> 캐릭터의 <color style='color:#FFFFFFFF'>원소전투 스킬</color> 및 <color style='color:#FFFFFFFF'>원소폭발</color>로 주는 피해 추가+1pt<br>(카드 덱에 쿠죠 사라가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8121,8 +8123,8 @@ var _card = [
         },
         {
             "_id": 214051,
-            "Name": "Lightning Storm",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Beidou</color>, equip this card.<br>After Beidou equips this card, immediately use <color style='color:#FFD780FF'>Tidecaller</color> once.<br>Aftern Beidou, who has this card equipped, uses <color style='color:#FFFFFFFF'>Wavestrider</color>: Beidou's Normal Attacks this Round will cost 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>. (Can be triggered 2 times)<br>(You must have Beidou in your deck to add this card to your deck.)",
+            "Name": "하늘의 벽력",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>북두</color>일 때 해당 카드를 장착할 수 있다.<br>북두가 해당 카드를 장착 후 즉시 <color style='color:#FFD780FF'>파도잡이</color>를 1회 사용한다.<br>해당 카드를 장착한 북두가 <color style='color:#FFFFFFFF'>조수</color> 사용 후: 이번 턴에 북두의 「일반 공격」이 소모하는 <color style='color:#FFFFFFFF'>[b]1109[a]무색 원소</color>가 1개 감소한다. (최대 2회 발동)<br>(카드 덱에 북두가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8139,8 +8141,8 @@ var _card = [
         },
         {
             "_id": 214041,
-            "Name": "Featherfall Judgment",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Cyno</color>, equip this card.<br>After Cyno equips this card, immediately use <color style='color:#FFD780FF'>Secret Rite: Chasmic Soulfarer</color> once.<br>When your Cyno, who has this card equipped, uses <color style='color:#FFFFFFFF'>Secret Rite: Chasmic Soulfarer</color> while having an even number of level of <color style='color:#FFFFFFFF'>Pactsworn Pathclearer</color>'s Indwelling effect, deal +1 DMG.<br>(You must have Cyno in your deck to add this card to your deck.)",
+            "Name": "낙하하는 깃털의 심판",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>사이노</color>일 때 해당 카드를 장착할 수 있다.<br>사이노가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>비밀스러운 의식 · 명계의 인도자</color>를 1회 사용한다.<br>해당 카드를 장착한 사이노의 <color style='color:#FFFFFFFF'>길을 여는 사자</color> 「빙의」가 짝수 레벨인 경우 <color style='color:#FFFFFFFF'>비밀스러운 의식 · 명계의 인도자</color>를 발동해 주는 피해+1pt<br>(카드 덱에 사이노가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8158,8 +8160,8 @@ var _card = [
         },
         {
             "_id": 214021,
-            "Name": "Awakening",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Razor</color>, equip this card.<br>After Razor equips this card, immediately use <color style='color:#FFD780FF'>Claw and Thunder</color> once.<br>After your Razor, who has this card equipped, uses <color style='color:#FFFFFFFF'>Claw and Thunder</color>: One of your Electro characters gains 1 Energy. (One per Round, active character prioritized)<br>(You must have Razor in your deck to add this card to your deck.)",
+            "Name": "각성",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>레이저</color>일 때 해당 카드를 장착할 수 있다.<br>레이저가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>날카로운 발톱과 창뢰</color>를 1회 사용한다.<br>해당 카드를 장착한 레이저가 <color style='color:#FFFFFFFF'>날카로운 발톱과 창뢰 사용 후</color>: 아군의 번개 원소 캐릭터 1명이 원소 에너지를 1pt 획득한다. (턴당 1회, 출전 캐릭터 우선)<br>(카드 덱에 레이저가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8175,8 +8177,8 @@ var _card = [
         },
         {
             "_id": 214011,
-            "Name": "Stellar Predator",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Fischl</color>, equip this card.<br>After Fischl equips this card, immediately use <color style='color:#FFD780FF'>Nightrider</color> once.<br>When your Fischl, who has this card equipped, creates an <color style='color:#FFFFFFFF'>Oz</color>, <color style='color:#FFFFFFFF'>Oz</color> will gain the following effect:  after Fischl uses a <color style='color:#FFFFFFFF'>Normal Attack</color>: Deal 2 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>. (Consumes <color style='color:#FFFFFFFF'>Usage(s)</color>)<br>(You must have Fischl in your deck to add this card to your deck.)",
+            "Name": "별을 삼킨 까마귀",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>피슬</color>일 때 해당 카드를 장착할 수 있다.<br>피슬이 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>밤을 순찰하는 그림자 날개</color>를 1회 사용한다.<br>해당 카드를 장착한 피슬이 소환한 <color style='color:#FFFFFFFF'>오즈</color>는 피슬이 <color style='color:#FFFFFFFF'>일반 공격</color> 발동 시 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 2pt 준다. (<color style='color:#FFFFFFFF'>사용 가능 횟수</color> 소모 필요)<br>(카드 덱에 피슬이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8196,8 +8198,8 @@ var _card = [
         },
         {
             "_id": 213111,
-            "Name": "A Subordinate's Skills",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Thoma</color>, equip this card.<br>After Thoma equips this card, immediately use <color style='color:#FFD780FF'>Crimson Ooyoroi</color> once.<br>When your Thoma, who has this card equipped, creates a <color style='color:#FFFFFFFF'>Scorching Ooyoroi</color>, its starting <color style='color:#FFFFFFFF'>Usage(s)</color> +1.<br>(You must have Thoma in your deck to add this card to your deck.)",
+            "Name": "보좌관의 재주",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>토마</color>일 때 해당 카드를 장착할 수 있다.<br>토마가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>진홍 열화의 오오요로이</color>를 1회 사용한다.<br>해당 카드를 장착한 토마가 생성한 <color style='color:#FFFFFFFF'>열화의 오오요로이</color>의 기본 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>+1<br>(카드 덱에 토마가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8217,8 +8219,8 @@ var _card = [
         },
         {
             "_id": 213101,
-            "Name": "Conclusive Ovation",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Lyney</color>, equip this card.<br>After Lyney equips this card, immediately use <color style='color:#FFD780FF'>Prop Arrow</color>.<br>When Lyney is on the field and has this card equipped, the DMG dealt by Lyney and your <color style='color:#FFFFFFFF'>Grin-Malkin Hat</color> will deal +2 DMG to characters <color style='color:#FF9999FF'>affected by [b]2103[a]Pyro</color>. (Once per Round)<br>(You must have Lyney in your deck to add this card to your deck.)",
+            "Name": "갈채 속 마무리",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>리니</color>일 때 해당 카드를 장착할 수 있다.<br>리니가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>트릭 화살</color>을 1회 사용한다.<br>해당 카드를 장착한 리니가 필드에 있을 시, 리니 자신과 <color style='color:#FFFFFFFF'>웃는 고양이 모자</color>가 [b]2103[a]<color style='color:#FF9999FF'>불 원소가 부착</color>된 캐릭터에게 주는 피해+2pt(턴당 1회)<br>(카드 덱에 리니가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8236,8 +8238,8 @@ var _card = [
         },
         {
             "_id": 213091,
-            "Name": "Stalwart and True",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Dehya</color>, equip this card.<br>After Dehya equips this card, immediately use <color style='color:#FFD780FF'>Molten Inferno</color> once.<br>End Phase: If your Dehya, who has this card equipped, has no more than 6 HP, heal that character for 2HP.<br>(You must have Dehya in your deck to add this card to your deck.)",
+            "Name": "참된 충심",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>데히야</color>일 때 해당 카드를 장착할 수 있다.<br>데히야가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>지옥불 용광로</color>를 1회 사용한다.<br>종료 단계: 해당 카드를 장착한 데히야의 HP가 6pt 이하일 때, 해당 캐릭터의 HP를 2pt 회복한다.<br>(카드 덱에 데히야가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8253,8 +8255,8 @@ var _card = [
         },
         {
             "_id": 213081,
-            "Name": "Right of Final Interpretation",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When <color style='color:#FFFFFFFF'>Yanfei</color> is your active character, equip this card.<br>After Yanfei equips this card, she will immediately use <color style='color:#FFD780FF'>Seal of Approval</color> once.<br>When Yanfei uses a <color style='color:#FFFFFFFF'>Charged Attack</color> with this card equipped: Deal +1 DMG to enemies with 6 or less HP If <color style='color:#FFFFFFFF'>Scarlet Seal</color> is triggered, then draw 1 card after the skill finishes calculating.<br>(You must have Yanfei in your deck to add this card to your deck.)",
+            "Name": "최종 해석권",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>연비</color>일 때 해당 카드를 장착할 수 있다.<br>연비가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>봉랍 인장</color>을 1회 사용한다.<br>해당 카드를 장착한 연비가 <color style='color:#FFFFFFFF'>강공격</color> 발동 시: HP가 6pt 이하인 적에게 주는 피해+1pt. <color style='color:#FFFFFFFF'>단화인</color>을 발동할 경우 해당 스킬 결산 후 카드를 1장 드로우한다.<br>(카드 덱에 연비가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8273,8 +8275,8 @@ var _card = [
         },
         {
             "_id": 213071,
-            "Name": "Sanguine Rouge",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Hu Tao</color>, equip this card.<br>After Hu Tao equips this card, immediately use <color style='color:#FFD780FF'>Guide to Afterlife</color> once.<br>When your Hu Tao, who has this card equipped, has no more than 6 HP: Deal +1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br>(You must have Hu Tao in your deck to add this card to your deck.)",
+            "Name": "핏빛 분장",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>호두</color>일 때 해당 카드를 장착할 수 있다.<br>호두가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>나비의 서</color>를 1회 사용한다.<br>해당 카드를 장착한 호두의 HP가 6pt 이하일 시: 주는 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>+1pt<br>(카드 덱에 호두가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8291,8 +8293,8 @@ var _card = [
         },
         {
             "_id": 213061,
-            "Name": "Pounding Surprise",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Klee</color>, equip this card.<br>After Klee equips this card, immediately use <color style='color:#FFD780FF'>Jumpy Dumpty</color> once.<br>When your Klee, who has this card equipped, creates an <color style='color:#FFFFFFFF'>Explosive Spark</color>, its <color style='color:#FFFFFFFF'>Usage(s)</color> +1.<br>(You must have Klee in your deck to add this card to your deck.)",
+            "Name": "펑펑 선물",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>클레</color>일 때 해당 카드를 장착할 수 있다.<br>클레가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>통통 폭탄</color>을 1회 사용한다.<br>해당 카드를 장착한 클레가 생성한 <color style='color:#FFFFFFFF'>폭렬 불꽃</color>의 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>+1<br>(카드 덱에 클레가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8311,8 +8313,8 @@ var _card = [
         },
         {
             "_id": 213051,
-            "Name": "Naganohara Meteor Swarm",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Yoimiya</color>, equip this card.<br>After Yoimiya equips this card, immediately use <color style='color:#FFD780FF'>Niwabi Fire-Dance</color> once.<br>The <color style='color:#FFFFFFFF'>Niwabi Enshou</color> generated by your Yoimiya, who has this card equipped, gains +1 intitial <color style='color:#FFFFFFFF'>Usage(s)</color>.<br>(You must have Yoimiya in your deck to add this card to your deck.)",
+            "Name": "나가노하라 유성군",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>요이미야</color>일 때 해당 카드를 장착할 수 있다.<br>요이미야가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>염초 정화(庭火)의 춤</color>을 1회 사용한다.<br>해당 카드를 장착한 요이미야가 생성한 <color style='color:#FFFFFFFF'>정화 염초</color>의 시작 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>가 1회 증가하고 발동 후 추가로 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 1pt 준다.<br>(카드 덱에 요이미야가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8332,8 +8334,8 @@ var _card = [
         },
         {
             "_id": 213041,
-            "Name": "Bunny Triggered",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Amber</color>, equip this card.<br>After Amber equips this card, immediately use <color style='color:#FFD780FF'>Explosive Puppet</color> once.<br>After you use a <color style='color:#FFFFFFFF'>Normal Attack</color>: If this card and <color style='color:#FFFFFFFF'>Baron Bunny</color> are still on the field, then <color style='color:#FFFFFFFF'>Baron Bunny</color> explodes and deals 4 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br>(You must have Amber in your deck to add this card to your deck.)",
+            "Name": "일촉즉발",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>엠버</color>일 때 해당 카드를 장착할 수 있다.<br>엠버가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>폭탄 인형</color>을 1회 사용한다.<br>엠버가 <color style='color:#FFFFFFFF'>일반 공격</color> 후: 해당 카드와 <color style='color:#FFFFFFFF'>토끼 백작</color>이 필드에 여전히 존재할 경우 <color style='color:#FFFFFFFF'>토끼 백작</color>을 폭파시켜 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 4pt 준다.<br>(카드 덱에 엠버가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8352,8 +8354,8 @@ var _card = [
         },
         {
             "_id": 213031,
-            "Name": "Grand Expectation",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Bennett</color>, equip this card.<br>After Bennett equips this card, immediately use <color style='color:#FFD780FF'>Fantastic Voyage</color> once.<br>When your Bennett, who has this card equipped, creates an <color style='color:#FFFFFFFF'>Inspiration Field</color>, its DMG Bonus is now always active and will no longer have an HP restriction.<br>(You must have Bennett in your deck to add this card to your deck.)",
+            "Name": "모험 동경",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>베넷</color>일 때 해당 카드를 장착할 수 있다.<br>베넷이 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>아름다운 여정</color>을 1회 사용한다.<br>해당 카드를 장착한 베넷이 생성한 <color style='color:#FFFFFFFF'>격려의 영역</color>의 피해 증가 효과가 상시 발동으로 바뀌며 HP 제한 조건이 사라진다.<br>(카드 덱에 베넷이 카드 덱에 있어야만 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8372,8 +8374,8 @@ var _card = [
         },
         {
             "_id": 213021,
-            "Name": "Crossfire",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Xiangling</color>, equip this card.<br>After Xiangling equips this card, immediately use <color style='color:#FFD780FF'>Guoba Attack</color> once.<br>When your Xiangling, who has this card equipped, uses <color style='color:#FFFFFFFF'>Guoba Attack</color>, she will also deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br>(You must have Xiangling in your deck to add this card to your deck.)",
+            "Name": "교차 화력",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>향릉</color>일 때 해당 카드를 장착할 수 있다.<br>향릉이 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>누룽지 출격</color>을 1회 사용한다.<br>해당 카드를 장착한 향릉이 <color style='color:#FFFFFFFF'>누룽지 출격</color> 사용 시: 자신도 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 1pt 준다.<br>(카드 덱에 향릉이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8390,8 +8392,8 @@ var _card = [
         },
         {
             "_id": 213011,
-            "Name": "Flowing Flame",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Diluc</color>, equip this card.<br>After Diluc equips this card, immediately use <color style='color:#FFD780FF'>Searing Onslaught</color> once.<br>When your Diluc, who has this card equipped, uses <color style='color:#FFFFFFFF'>Searing Onslaught</color> for the second time in one Round, spend 1 less [b]1103[a]<color style='color:#FF9999FF'>Pyro Die</color>.<br>(You must have Diluc in your deck to add this card to your deck.)",
+            "Name": "유화의 화상",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>다이루크</color>일 때 해당 카드를 장착할 수 있다.<br>다이루크가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>역날의 화염</color>을 1회 사용한다.<br>해당 카드를 장착한 다이루크가 매 턴에서 <color style='color:#FFFFFFFF'>역날의 화염</color>을 두 번째 사용 시: [b]1103[a]<color style='color:#FF9999FF'>불 원소</color> 소모 개수-1<br>(카드 덱에 다이루크가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8407,8 +8409,8 @@ var _card = [
         },
         {
             "_id": 212091,
-            "Name": "Turn Control",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Yelan</color>, equip this card.<br>After Yelan equips this card, immediately use <color style='color:#FFD780FF'>Lingering Lifeline</color> once.<br>Roll Phase: If Yelan, who has this card equipped, is on the field, 1 Elemental Dice will be rolled as <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> for each Elemental Type in your party. (Max 3)<br>(You must have Yelan in your deck to add this card to your deck.)",
+            "Name": "선공의 묘수",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>야란</color>일 때 해당 카드를 장착할 수 있다.<br>야란이 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>뒤얽힌 생명줄</color>을 1회 사용한다.<br>주사위 단계: 해당 카드를 장착한 야란이 필드에 있을 때, 아군 캐릭터의 원소 타입 1종류마다 원소 주사위 1개가 <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>로 나온다. (최대 3개)<br>(카드 덱에 야란이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8425,8 +8427,8 @@ var _card = [
         },
         {
             "_id": 212081,
-            "Name": "The Starry Skies Their Flowers Rain",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Nilou</color>, equip this card.<br>After Nilou equips this card, immediately use <color style='color:#FFD780FF'>Dance of Haftkarsvar</color>.<br>When there is Nilou on the field who has this card equipped, the damage dealt by your <color style='color:#FFFFFFFF'>Bountiful Core</color> is increased by 1.<br>(You must have Nilou in your deck to add this card to your deck.)",
+            "Name": "별하늘의 꽃비",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>닐루</color>일 때 해당 카드를 장착할 수 있다.<br>닐루가 해당 카드를 장착 후 즉시 <color style='color:#FFD780FF'>칠역의 춤</color>을 1회 사용한다.<br>해당 카드를 장착한 닐루가 필드에 있을 시: 아군의 <color style='color:#FFFFFFFF'>풍요의 핵</color>이 주는 피해+1pt<br>(카드 덱에 닐루가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8444,8 +8446,8 @@ var _card = [
         },
         {
             "_id": 212071,
-            "Name": "The Overflow",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When <color style='color:#FFFFFFFF'>Candace</color> is your active character, equip this card.<br>After Candace equips this card, she will immediately use <color style='color:#FFD780FF'>Sacred Rite: Wagtail's Tide</color> once.<br>When this card is equipped by Candace, her <color style='color:#FFFFFFFF'>Prayer of the Crimson Crown</color> has the following extra effect: <color style='color:#FFFFFFFF'>After your character uses a Normal Attack: </color>Deals 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>. (Once per Round)<br>(You must have Candace in your deck to add this card to your deck.)",
+            "Name": "범람하는 조석",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>캔디스</color>일 때 해당 카드를 장착할 수 있다.<br>캔디스가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>성스러운 의식 · 회색빛 새의 물결</color>을 1회 사용한다.<br>해당 카드를 장착한 캔디스가 생성한 <color style='color:#FFFFFFFF'>적색 왕관의 축복</color>은 다음과 같은 추가 효과를 보유한다. <color style='color:#FFFFFFFF'>아군 캐릭터가 일반 공격 후:</color> [b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>를 1pt 준다. (턴당 1회)<br>(카드 덱에 캔디스가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8465,8 +8467,8 @@ var _card = [
         },
         {
             "_id": 212061,
-            "Name": "Kyouka Fuushi",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Kamisato Ayato</color>, equip this card.<br>After Kamisato Ayato equips this card, immediately use <color style='color:#FFD780FF'>Kamisato Art: Kyouka</color> once.<br>When your Kamisato Ayato, who has this card equipped, triggers the effects of <color style='color:#FFFFFFFF'>Takimeguri Kanka</color>, deal +1 additional DMG if the target's remaining HP is equal to or less than 6.<br>(You must have Kamisato Ayato in your deck to add this card to your deck.)",
+            "Name": "거울 속의 자태",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>카미사토 아야토</color>일 때 해당 카드를 장착할 수 있다.<br>카미사토 아야토가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>카미사토류 · 거울꽃</color>을 1회 사용한다.<br>해당 카드를 장착한 카미사토 아야토가 <color style='color:#FFFFFFFF'>선회하는 거울꽃</color>의 효과 발동 시: HP가 6pt 이하인 적에게 피해 추가+1pt<br>(카드 덱에 카미사토 아야토가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8484,8 +8486,8 @@ var _card = [
         },
         {
             "_id": 212051,
-            "Name": "Tamakushi Casket",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Sangonomiya Kokomi</color>, equip this card.<br>After Sangonomiya Kokomi equips this card, immediately use <color style='color:#FFD780FF'>Nereid's Ascension</color> once.<br>When your Sangonomiya Kokomi, who has this card equipped, uses <color style='color:#FFFFFFFF'>Nereid's Ascension</color>: Summon a <color style='color:#FFFFFFFF'>Bake-Kurage</color> with a <color style='color:#FFFFFFFF'>Usage(s)</color> of 1; if <color style='color:#FFFFFFFF'>Bake-Kurage</color> is already on the field, then increase its <color style='color:#FFFFFFFF'>Usage(s)</color> by 1 instead.<br>While <color style='color:#FFFFFFFF'>Ceremonial Garment</color> exists, <color style='color:#FFFFFFFF'>Bake-Kurage</color> deals +1 DMG.<br>(You must have Sangonomiya Kokomi in your deck to add this card to your deck.)",
+            "Name": "함 속의 타마쿠시",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>산고노미야 코코미</color>일 때 해당 카드를 장착할 수 있다.<br>산고노미야 코코미가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>해인화우(海人化羽)</color>를 1회 사용한다.<br>해당 카드를 장착한 산고노미야 코코미가 <color style='color:#FFFFFFFF'>해인화우(海人化羽)</color> 사용 시: <color style='color:#FFFFFFFF'>사용 가능 횟수</color>가 1인 <color style='color:#FFFFFFFF'>환영 해파리</color>를 소환한다. 만약 <color style='color:#FFFFFFFF'>환영 해파리</color>가 필드에 있을 경우 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>+1<br><color style='color:#FFFFFFFF'>의식의 날개옷</color>이 존재하는 동안 <color style='color:#FFFFFFFF'>환영 해파리</color>가 주는 피해+1pt<br>(카드 덱에 산고노미야 코코미가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8506,8 +8508,8 @@ var _card = [
         },
         {
             "_id": 212041,
-            "Name": "Abyssal Mayhem: Hydrospout",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Tartaglia</color>, equip this card.<br>After Tartaglia equips this card, immediately use <color style='color:#FFD780FF'>Foul Legacy: Raging Tide</color> once.<br>End Phase: When Tartaglia is on the field and has this card equipped, deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to the opponent's active character if they have <color style='color:#FFFFFFFF'>Riptide</color> attached.<br>(You must have Tartaglia in your deck to add this card to your deck.)",
+            "Name": "심연의 재앙 · 차오르는 물",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>타르탈리아</color>일 때 해당 카드를 장착할 수 있다.<br>타르탈리아가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>마왕 무장 · 광란</color>을 1회 사용한다.<br>종료 단계: 해당 카드를 장착한 타르탈리아가 필드에 있고, 적 출전 캐릭터에게 <color style='color:#FFFFFFFF'>단류</color>가 부착된 경우, 해당 캐릭터에게 <color style='color:#FFFFFFFF'>관통 피해</color>를 1pt 준다.<br>(카드 덱에 타르탈리아가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8526,8 +8528,8 @@ var _card = [
         },
         {
             "_id": 212031,
-            "Name": "Prophecy of Submersion",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Mona</color>, equip this card.<br>When Mona equips this card, immediately use <color style='color:#FFD780FF'>Stellaris Phantasm</color> once.<br>When your Mona, who has this card equipped, is the active character, the <color style='color:#80C0FFFF'>[b]2102[a]Hydro-Related Reactions</color> you trigger deal +2 additional DMG.<br>(You must have Mona in your deck to add this card to your deck.)",
+            "Name": "침몰한 예언",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>모나</color>일 때 해당 카드를 장착할 수 있다.<br>모나가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>별의 운명</color>을 1회 사용한다.<br>해당 카드를 장착한 모나가 출전하는 동안 아군이 발동한 <color style='color:#80C0FFFF'>[b]2102[a]물 원소 관련 반응</color> 피해 추가+2pt<br>(카드 덱에 모나가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8545,8 +8547,8 @@ var _card = [
         },
         {
             "_id": 212021,
-            "Name": "The Scent Remained",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Xingqiu</color>, equip this card.<br>After Xingqiu equips this card, immediately use <color style='color:#FFD780FF'>Fatal Rainscreen</color> once.<br>When your Xingqiu has this card equipped, the <color style='color:#FFFFFFFF'>Rain Sword</color> created can block DMG of at least 2 and its starting <color style='color:#FFFFFFFF'>Usage(s)</color> +1.<br>(You must have Xingqiu in your deck to add this card to your deck.)",
+            "Name": "장막의 잔향",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>행추</color>일 때 해당 카드를 장착할 수 있다.<br>행추가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>화우농산</color>을 1회 사용한다.<br>해당 카드를 장착한 행추가 생성한 <color style='color:#FFFFFFFF'>우렴검</color>은 2pt 이상의 피해를 받을 시 상쇄하는 것으로 변경되며 시작 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>+1<br>(카드 덱에 행추가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8565,8 +8567,8 @@ var _card = [
         },
         {
             "_id": 212011,
-            "Name": "Glorious Season",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Barbara</color>, equip this card.<br>After Barbara equips this card, immediately use <color style='color:#FFD780FF'>Let the Show Begin♪</color> once.<br>When your Barbara, who has this card equipped, is on the field, <color style='color:#FFFFFFFF'>Melody Loop</color> will allow you to spend 1 less Elemental Die the next time you use \"Switch Character.\" (Once per round)<br>(You must have Barbara in your deck to add this card to your deck.)",
+            "Name": "광휘의 계절",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>바바라</color>일 때 해당 카드를 장착할 수 있다.<br>바바라가 해당 카드를 장착 후 즉시 <color style='color:#FFD780FF'>공연, 시작♪</color>을 1회 사용한다.<br>해당 카드를 장착한 바바라가 필드에 있을 시, <color style='color:#FFFFFFFF'>노래의 고리</color>는 아군이 「캐릭터 교체」 행동 시 소모되는 원소 주사위를 1개 감소시킨다. (턴당 1회)<br>(카드 덱에 바바라가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8584,8 +8586,8 @@ var _card = [
         },
         {
             "_id": 211091,
-            "Name": "Light's Remit",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Layla</color>, equip this card.<br>After Layla equips this card, immediately use <color style='color:#FFD780FF'>Nights of Formal Focus</color>.<br>When Layla is on the field and has this card equipped, every time <color style='color:#FFFFFFFF'>Shooting Star</color> deals DMG, draw 1 card.<br>(You must have Layla in your deck to add this card to your deck.)",
+            "Name": "소식과 함께 돌아오는 빛",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>레일라</color>일 때 해당 카드를 장착할 수 있다.<br>레일라가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>근심 없는 밤</color>을 1회 사용한다.<br>해당 카드를 장착한 레일라가 필드에 있을 시: <color style='color:#FFFFFFFF'>유성</color>이 피해를 줄 때마다 카드를 1장 드로우한다.<br>(카드 덱에 레일라가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8603,8 +8605,8 @@ var _card = [
         },
         {
             "_id": 211081,
-            "Name": "Rite of Resurrection",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Qiqi</color>, equip this card.<br>After Qiqi equips this card, immediately use <color style='color:#FFD780FF'>Adeptus Art: Preserver of Fortune</color> once.<br>After your Qiqi, who has this card equipped, uses <color style='color:#FFFFFFFF'>Adeptus Art: Preserver of Fortune</color>, she revives all your fallen characters and heals them for 2 HP. (Can happen 2 times per match)<br>(You must have Qiqi in your deck to add this card to your deck.)",
+            "Name": "기사회해",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>치치</color>일 때 해당 카드를 장착할 수 있다.<br>치치가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>선법 · 구고도액</color>을 1회 사용한다.<br>해당 카드를 장착한 치치가 <color style='color:#FFFFFFFF'>선법 · 구고도액</color> 사용 시: 전투 불능 상태의 모든 아군 캐릭터를 부활시키고 부활한 캐릭터의 HP를 2pt 치유한다. (대전당 2회 제한)<br>(카드 덱에 치치가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8621,8 +8623,8 @@ var _card = [
         },
         {
             "_id": 211071,
-            "Name": "Mystical Abandon",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Shenhe</color>, equip this card.<br>After Shenhe equips this card, immediately use <color style='color:#FFD780FF'>Spring Spirit Summoning</color> once.<br>When the <color style='color:#FFFFFFFF'>Icy Quill</color> created by your Shenhe, who has this card equipped, is triggered by your characters' <color style='color:#FFFFFFFF'>Normal Attacks</color>, its Usages will not decrease. (Once per Round)<br>(You must have Shenhe in your deck to add this card to your deck.)",
+            "Name": "망현",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>신학</color>일 때 해당 카드를 장착할 수 있다.<br>신학이 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>위령 소환 구사술</color>을 1회 사용한다.<br>해당 카드를 장착한 신학이 생성한 <color style='color:#FFFFFFFF'>얼음의 깃</color>이 아군 캐릭터의 <color style='color:#FFFFFFFF'>「일반 공격」</color>에 의해 발동될 시: 사용 가능 횟수가 소모되지 않는다. (턴당 1회)<br>(카드 덱에 신학이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8640,8 +8642,8 @@ var _card = [
         },
         {
             "_id": 211061,
-            "Name": "Wellspring of War-Lust",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Eula</color>, equip this card.<br>After Eula equips this card, immediately use <color style='color:#FFD780FF'>Glacial Illumination</color> once.<br>When your Eula, who has this card equipped, uses <color style='color:#FFFFFFFF'>Icetide Vortex</color>, this will generate 1 more Zeal for <color style='color:#FFFFFFFF'>Lightfall Sword</color>.<br>(You must have Eula in your deck to add this card to your deck.)",
+            "Name": "솟구치는 전투의 욕망",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>유라</color>일 때 해당 카드를 장착할 수 있다.<br>유라가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>파도를 얼리는 광검</color>을 1회 사용한다.<br>해당 카드를 장착한 유라가 <color style='color:#FFFFFFFF'>얼음 파도의 와류</color> 사용 시: 추가로 <color style='color:#FFFFFFFF'>빛의 검</color>에 「에너지 스택」을 1pt 누적한다.<br>(카드 덱에 유라가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8660,8 +8662,8 @@ var _card = [
         },
         {
             "_id": 211051,
-            "Name": "Kanten Senmyou Blessing",
-            "Desc": "The <color style='color:#FFFFFFFF'>Cryo Elemental Infusion</color> created by your <color style='color:#FFFFFFFF'>Kamisato Ayaka</color>, who has this card equipped, allows the character to which it is attached to deal +1 <color style='color:#99FFFFFF'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color>.<br>When you switch to Kamisato Ayaka, who has this card equipped: Spend 1 less Elemental Die. (Once per Round)<br>(You must have Kamisato Ayaka in your deck to add this card to your deck.)",
+            "Name": "한천선명 축사",
+            "Desc": "해당 카드를 장착한 <color style='color:#FFFFFFFF'>카미사토 아야카</color>가 <color style='color:#FFFFFFFF'>얼음 원소 부여</color>를 발동 시: 부착 캐릭터가 주는 <color style='color:#99FFFFFF'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color>+1pt<br>해당 카드를 장착한 카미사토 아야카로 교체 시: 원소 주사위 소모 개수-1 (턴당 1회)<br>(카드 덱에 카미사토 아야카가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT"
             ],
@@ -8678,8 +8680,8 @@ var _card = [
         },
         {
             "_id": 211041,
-            "Name": "Steady Breathing",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Chongyun</color>, equip this card.<br>After Chongyun equips this card, immediately use <color style='color:#FFD780FF'>Chonghua's Layered Frost</color> once.<br>When your Chongyun, who has this card equipped, creates a <color style='color:#FFFFFFFF'>Chonghua Frost Field</color>, it will have the following effects: Your Sword, Claymore, and Polearm-wielding characters' <color style='color:#FFFFFFFF'>Normal Attacks</color> to deal +1 DMG.<br>(You must have Chongyun in your deck to add this card to your deck.)",
+            "Name": "진기 토납",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>중운</color>일 때 해당 카드를 장착할 수 있다.<br>중운이 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>중첩의 서리</color>를 1회 사용한다.<br>해당 카드를 장착한 중운이 생성한 <color style='color:#FFFFFFFF'>중첩의 서리 영역</color>이 아래의 효과를 획득한다.<br>아군의 한손검, 양손검 혹은 장병기 캐릭터가 <color style='color:#FFFFFFFF'>일반 공격</color>으로 주는 피해+1pt<br>(카드 덱에 중운이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8697,8 +8699,8 @@ var _card = [
         },
         {
             "_id": 211031,
-            "Name": "Cold-Blooded Strike",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Kaeya</color>, equip this card.<br>After Kaeya equips this card, immediately use <color style='color:#FFD780FF'>Frostgnaw</color> once.<br>After your Kaeya, who has this card equipped, uses <color style='color:#FFFFFFFF'>Frostgnaw</color>, he heals himself for 2 HP. (Once per Round)<br>(You must have Kaeya in your deck to add this card to your deck.)",
+            "Name": "냉혈의 검",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>케이아</color>일 때 해당 카드를 장착할 수 있다.<br>케이아가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>서리 엄습</color>을 1회 사용한다.<br>해당 카드를 장착한 케이아가 <color style='color:#FFFFFFFF'>서리 엄습</color> 사용 후: 자신의 HP를 2pt 치유한다. (턴당 1회)<br>(카드 덱에 케이아가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8714,8 +8716,8 @@ var _card = [
         },
         {
             "_id": 211021,
-            "Name": "Shaken, Not Purred",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Diona</color>, equip this card.<br>After Diona equips this card, immediately use <color style='color:#FFD780FF'>Icy Paws</color> once.<br>When your Diona, who has this card equipped, creates a <color style='color:#FFFFFFFF'>Cat-Claw Shield</color>, its [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points +1.<br>(You must have Diona in your deck to add this card to your deck.)",
+            "Name": "꽁꽁젤리 쉐이큰",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>디오나</color>일 때 해당 카드를 장착할 수 있다.<br>디오나가 해당 카드를 장착 후 즉시 <color style='color:#FFD780FF'>꽁꽁젤리</color>를 1회 사용한다.<br>해당 카드를 장착한 디오나가 생성한 <color style='color:#FFFFFFFF'>꽁꽁젤리 보호막</color>의 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>+1pt<br>(카드 덱에 디오나가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8734,8 +8736,8 @@ var _card = [
         },
         {
             "_id": 211011,
-            "Name": "Undivided Heart",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Ganyu</color>, equip this card.<br>After Ganyu equips this card, immediately use <color style='color:#FFD780FF'>Frostflake Arrow</color> once.<br>When your Ganyu, who has this card equipped, uses <color style='color:#FFFFFFFF'>Frostflake Arrow</color>: If this Skill has been used before during this match, the <color style='color:#FFFFFFFF'>Piercing DMG</color> dealt to all opposing characters on standby is changed to 3.<br>(You must have Ganyu in your deck to add this card to your deck.)",
+            "Name": "단 하나의 마음",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>감우</color>일 때 해당 카드를 장착할 수 있다.<br>감우가 해당 카드를 장착하면 즉시 <color style='color:#FFD780FF'>서리꽃 화살</color>을 1회 사용한다.<br>해당 카드를 장착한 감우가 <color style='color:#FFFFFFFF'>서리꽃 화살</color> 사용 시: 만약 이번 대전에서 해당 스킬을 사용한 적이 있으면 적의 대기 캐릭터에게 주는 <color style='color:#FFFFFFFF'>관통 피해</color>가 3pt로 전환된다.<br>(카드 덱에 감우가 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8752,7 +8754,7 @@ var _card = [
         },
         {
             "_id": 87,
-            "Name": "Elemental Infusion: Dendro",
+            "Name": "원소 부여: 풀",
             "Desc": "",
             "Tag": [],
             "Icon": "",
@@ -8762,7 +8764,7 @@ var _card = [
         },
         {
             "_id": 86,
-            "Name": "Elemental Infusion: Geo",
+            "Name": "원소 부여: 바위",
             "Desc": "",
             "Tag": [],
             "Icon": "",
@@ -8772,7 +8774,7 @@ var _card = [
         },
         {
             "_id": 85,
-            "Name": "Elemental Infusion: Anemo",
+            "Name": "원소 부여: 바람",
             "Desc": "",
             "Tag": [],
             "Icon": "",
@@ -8782,7 +8784,7 @@ var _card = [
         },
         {
             "_id": 84,
-            "Name": "Elemental Infusion: Electro",
+            "Name": "원소 부여: 번개",
             "Desc": "",
             "Tag": [],
             "Icon": "",
@@ -8792,7 +8794,7 @@ var _card = [
         },
         {
             "_id": 83,
-            "Name": "Elemental Infusion: Pyro",
+            "Name": "원소 부여: 불",
             "Desc": "",
             "Tag": [],
             "Icon": "",
@@ -8802,7 +8804,7 @@ var _card = [
         },
         {
             "_id": 82,
-            "Name": "Elemental Infusion: Hydro",
+            "Name": "원소 부여: 물",
             "Desc": "",
             "Tag": [],
             "Icon": "",
@@ -8812,7 +8814,7 @@ var _card = [
         },
         {
             "_id": 81,
-            "Name": "Elemental Infusion: Cryo",
+            "Name": "원소 부여: 얼음",
             "Desc": "",
             "Tag": [],
             "Icon": "",
@@ -8824,8 +8826,8 @@ var _card = [
     [
         {
             "_id": 332018,
-            "Name": "Heavy Strike",
-            "Desc": "During this round, your current active character's next <color style='color:#FFFFFFFF'>Normal Attack</color> deals +1 DMG.<br><color style='color:#FFFFFFFF'>When this Normal Attack is a <color style='color:#FFFFFFFF'>Charged Attack</color>:</color> Deal +1 additional DMG.",
+            "Name": "강한 공격",
+            "Desc": "이번 턴에서 현재 아군 출전 캐릭터의 다음번 <color style='color:#FFFFFFFF'>「일반 공격」</color>이 주는 피해+1pt<br><color style='color:#FFFFFFFF'>해당 「일반 공격」이 <color style='color:#FFFFFFFF'>강공격</color>일 시:</color> 피해 추가+1pt",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Zhonggongji",
             "Cost": {
@@ -8838,8 +8840,8 @@ var _card = [
         },
         {
             "_id": 114031,
-            "Name": "Lightning Stiletto",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: Switch your Keqing in to be the active character and immediately use Stellar Restoration once. This instance of Stellar Restoration will grant Keqing <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Electro Infusion</color></color> without creating another Lightning Stiletto.<br>(When Keqing uses Stellar Restoration with this card in Hand: Instead of creating another Lightning Stiletto, discard this card and Keqing gains <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Electro Infusion</color></color>)",
+            "Name": "뇌설",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 각청을 필드로 교체하고 성신 회귀를 즉시 발동한다. 해당 성신 회귀는 각청에게 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>번개 원소 부여</color></color> 효과를 주지만 뇌설을 재생성하지 않는다.<br>(각청이 성신 회귀를 사용 시, 만약 핸드에 이 카드가 있으면 뇌설을 재생성하지 않고 카드를 버린다. 또한 각청에게 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>번개 원소 부여</color></color> 효과를 준다)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8856,8 +8858,8 @@ var _card = [
         },
         {
             "_id": 332030,
-            "Name": "Controlled Directional Blast",
-            "Desc": "<color style='color:#FFFFFFFF'>Can only be played when there is a total of at least 4 cards in your opponent's Support Zone and Summons Zone:</color> All Summons on both sides lose 1 Usage.",
+            "Name": "제어 가능한 위험 제거용 지향 폭발",
+            "Desc": "<color style='color:#FFFFFFFF'>상대의 서포트 구역과 소환물 구역에 있는 카드 수량 총합이 4장 이상일 때 사용 가능: </color>양측 모든 소환물의 사용 가능 횟수-1",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Kexueyuan",
             "Cost": {
@@ -8868,8 +8870,8 @@ var _card = [
         },
         {
             "_id": 330007,
-            "Name": "Day of Resistance: Moment of Shattered Dreams",
-            "Desc": "During this Round, your targeted character takes -1 DMG. (Max 4 times)<br>(Only one [b]3007[a]\"Arcane Legend\" card can be played per match. This card will be in your starting hand.)",
+            "Name": "투쟁의 날 · 깨진 꿈의 순간",
+            "Desc": "이번 턴에 대상 아군 캐릭터가 받는 피해-1pt(최대 4회 발동)<br>(「[b]3007[a]비기」 카드는 한 번의 대전에서 한 장만 사용 가능하며, 해당 카드는 시작 카드에 반드시 포함된다)",
             "Tag": [
                 "GCG_TAG_LEGEND"
             ],
@@ -8882,8 +8884,8 @@ var _card = [
         },
         {
             "_id": 333014,
-            "Name": "Matsutake Meat Rolls",
-            "Desc": "Heal the target character for 2 HP. For the next 3 Rounds, heal this character for 1 HP again during the End Phase.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "버섯고기말이",
+            "Desc": "대상 캐릭터의 HP를 2pt 치유하고 3턴 동안 종료 단계에서 다시 해당 캐릭터의 HP를 1pt 치유한다.<br>(각 캐릭터는 턴마다 「[b]3101[a]요리」를 최대 1회 섭취할 수 있다)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8896,8 +8898,8 @@ var _card = [
         },
         {
             "_id": 333013,
-            "Name": "Fish and Chips",
-            "Desc": "During this Round, all your characters will use 1 less Elemental Die when using their Skill next time.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "피시 앤 칩스",
+            "Desc": "이번 턴에 모든 아군 캐릭터가 다음번에 스킬 사용 시 원소 주사위 소모 개수-1<br>(각 캐릭터는 턴마다 「[b]3101[a]요리」를 최대 1회 섭취할 수 있다)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8910,8 +8912,8 @@ var _card = [
         },
         {
             "_id": 333012,
-            "Name": "Butter Crab",
-            "Desc": "During this Round, all your characters take -2 DMG the next time.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "버터 크랩",
+            "Desc": "모든 아군 캐릭터가 이번 턴에서 받는 다음번 피해-2pt<br>(각 캐릭터는 턴마다 「[b]3101[a]요리」를 최대 1회 섭취할 수 있다)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8924,8 +8926,8 @@ var _card = [
         },
         {
             "_id": 333011,
-            "Name": "Tandoori Roast Chicken",
-            "Desc": "During this Round, all your characters' next <color style='color:#FFFFFFFF'>Elemental Skills</color> deal +2 DMG.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "탄두리 치킨",
+            "Desc": "모든 아군 캐릭터가 이번 턴에서 주는 다음번 <color style='color:#FFFFFFFF'>「원소전투 스킬」</color> 피해+2pt<br>(각 캐릭터는 턴마다 「[b]3101[a]요리」를 최대 1회 섭취할 수 있다)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8938,8 +8940,8 @@ var _card = [
         },
         {
             "_id": 333010,
-            "Name": "Sashimi Platter",
-            "Desc": "Before this Round ends, the target character's <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 DMG.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "모둠 회",
+            "Desc": "대상 캐릭터가 이번 턴이 종료되기 전까지 <color style='color:#FFFFFFFF'>「일반 공격」</color>으로 주는 피해+1pt<br>(각 캐릭터는 턴마다 「[b]3101[a]요리」를 최대 1회 섭취할 수 있다)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8952,8 +8954,8 @@ var _card = [
         },
         {
             "_id": 333009,
-            "Name": "Teyvat Fried Egg",
-            "Desc": "Revives the target character and heals that character for 1 HP.<br>(You can only revive 1 character via [b]3101[a]Food per Round, and a character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "티바트 달걀 프라이",
+            "Desc": "대상 캐릭터를 부활시키고, 해당 캐릭터의 HP를 1pt 치유한다.<br>(턴마다 「[b]3101[a]요리」를 통해 최대 1명의 캐릭터를 부활시킬 수 있으며, 각 캐릭터는 「[b]3101[a]요리」를 최대 1회 섭취할 수 있다)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8966,8 +8968,8 @@ var _card = [
         },
         {
             "_id": 333008,
-            "Name": "Minty Meat Rolls",
-            "Desc": "Before this Round ends, the target character's next 3 <color style='color:#FFFFFFFF'>Normal Attacks</color> cost 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "민트 고기말이",
+            "Desc": "대상 캐릭터가 이번 턴이 종료되기 전까지 발동하는 이후 3회의 <color style='color:#FFFFFFFF'>「일반 공격」</color>으로 소모하는 <color style='color:#FFFFFFFF'>[b]1109[a]무색 원소</color>-1<br>(각 캐릭터는 턴마다 「[b]3101[a]요리」를 최대 1회 섭취할 수 있다)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8982,8 +8984,8 @@ var _card = [
         },
         {
             "_id": 333007,
-            "Name": "Mushroom Pizza",
-            "Desc": "Heal the target character for 1 HP. For the next two Rounds, heal this character for 1 HP again at the End Phase.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "버섯피자",
+            "Desc": "대상 캐릭터의 HP를 1pt 치유하고 2턴 동안 종료 단계에서 다시 해당 캐릭터의 HP를 1pt 치유한다.<br>(각 캐릭터는 턴마다 「[b]3101[a]요리」를 최대 1회 섭취할 수 있다)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8996,8 +8998,8 @@ var _card = [
         },
         {
             "_id": 333006,
-            "Name": "Mondstadt Hash Brown",
-            "Desc": "Heal the target character for 2 HP.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "몬드 감자전",
+            "Desc": "대상 캐릭터의 HP를 2pt 치유한다.<br>(각 캐릭터는 턴마다 「[b]3101[a]요리」를 최대 1회 섭취할 수 있다)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -9010,8 +9012,8 @@ var _card = [
         },
         {
             "_id": 333005,
-            "Name": "Sweet Madame",
-            "Desc": "Heal the target character for 1 HP.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "달콤달콤 닭고기 스튜",
+            "Desc": "대상 캐릭터의 HP를 1pt 치유한다.<br>(각 캐릭터는 턴마다 「[b]3101[a]요리」를 최대 1회 섭취할 수 있다)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -9022,8 +9024,8 @@ var _card = [
         },
         {
             "_id": 333004,
-            "Name": "Northern Smoked Chicken",
-            "Desc": "During this Round, the target character's next <color style='color:#FFFFFFFF'>Normal Attack</color> costs 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "북극 훈제 닭",
+            "Desc": "대상 캐릭터가 이번 턴에서 다음번 <color style='color:#FFFFFFFF'>「일반 공격」</color>으로 소모하는 <color style='color:#FFFFFFFF'>[b]1109[a]무색 원소</color>-1<br>(각 캐릭터는 턴마다 「[b]3101[a]요리」를 최대 1회 섭취할 수 있다)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -9036,8 +9038,8 @@ var _card = [
         },
         {
             "_id": 333003,
-            "Name": "Lotus Flower Crisp",
-            "Desc": "During this Round, the target character takes -3 DMG the next time.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "연꽃 파이",
+            "Desc": "대상 캐릭터가 이번 턴에서 받는 다음번 피해-3pt<br>(각 캐릭터는 턴마다 「[b]3101[a]요리」를 최대 1회 섭취할 수 있다)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -9050,8 +9052,8 @@ var _card = [
         },
         {
             "_id": 333002,
-            "Name": "Adeptus' Temptation",
-            "Desc": "During this Round, the target character's next <color style='color:#FFFFFFFF'>Elemental Burst</color> deals +3 DMG.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "선도장",
+            "Desc": "대상 캐릭터가 이번 턴에서 주는 다음번 <color style='color:#FFFFFFFF'>「원소폭발」</color> 피해+3pt<br>(각 캐릭터는 턴마다 「[b]3101[a]요리」를 최대 1회 섭취할 수 있다)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -9064,8 +9066,8 @@ var _card = [
         },
         {
             "_id": 333001,
-            "Name": "Jueyun Guoba",
-            "Desc": "During this Round, the target character's next <color style='color:#FFFFFFFF'>Normal Attack</color> deals +1 DMG.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "절운 누룽지",
+            "Desc": "대상 캐릭터가 이번 턴에서 주는 다음번 <color style='color:#FFFFFFFF'>「일반 공격」</color> 피해+1pt<br>(각 캐릭터는 턴마다 「[b]3101[a]요리」를 최대 1회 섭취할 수 있다)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -9076,8 +9078,8 @@ var _card = [
         },
         {
             "_id": 332029,
-            "Name": "Sunyata Flower",
-            "Desc": "Select a card from your Support Zone and discard it. After that, randomly generate 2 Support Cards in your hand.<br><color style='color:#FFFFFFFF'>During the Round, the next time you play a Support Card: </color>Spend 1 less Elemental Die.",
+            "Name": "순야타 꽃",
+            "Desc": "아군 서포트 구역의 카드를 1장 선택해 버린다. 이후 아군 핸드 카드에 랜덤으로 서포트 카드를 2장 생성한다.<br><color style='color:#FFFFFFFF'>이번 턴에 아군이 다음번 서포트 카드 사용 시: </color>원소 주사위 소모 개수-1",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Ganluhua",
             "Cost": {},
@@ -9086,8 +9088,8 @@ var _card = [
         },
         {
             "_id": 332028,
-            "Name": "Machine Assembly Line",
-            "Desc": "<color style='color:#FFFFFFFF'>Each time after your character is targeted by and takes DMG or is healed:</color> Accumulate 1 point of Battle-Readiness (Max 2 points).<br><color style='color:#FFFFFFFF'>When you play a [b]3003[a]Weapon or [b]3004[a]Artifact with an original cost of no more Dice than you have Battle-Readiness points:</color> Clear all Battle-Readiness points and play that card for free.",
+            "Name": "장치 주조 라인",
+            "Desc": "<color style='color:#FFFFFFFF'>대상 아군 캐릭터가 매번 피해 또는 치유를 받은 후:</color> 「전투 준비도」를 1pt 누적한다. (최대 누적: 2pt)<br><color style='color:#FFFFFFFF'>아군이 「전투 준비도」보다 기본 코스트가 높지 않은 「[b]3003[a]무기」 또는 「[b]3004[a]성유물」 사용 시:</color> 모든 「전투 준비도」를 제거하고 무료로 해당 카드를 사용한다.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Fatiaoji",
             "Cost": {},
@@ -9096,8 +9098,8 @@ var _card = [
         },
         {
             "_id": 332027,
-            "Name": "Flickering Four-Leaf Sigil",
-            "Desc": "Attach <color style='color:#FFFFFFFF'>Four-Leaf Sigil</color> to target character: At the End Phase of Every Round, you will switch to this character.",
+            "Name": "반짝이는 클로버 인장",
+            "Desc": "대상 캐릭터에게 <color style='color:#FFFFFFFF'>클로버 인장</color>을 부착한다: 턴 종료 단계마다 아군이 이 캐릭터로 교체된다.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Siyeyin",
             "Cost": {},
@@ -9108,8 +9110,8 @@ var _card = [
         },
         {
             "_id": 332026,
-            "Name": "Falls and Fortune",
-            "Desc": "<color style='color:#FFFFFFFF'>Can only be played when you have at least 8 Elemental Dice remaining and your opponent has not ended their Round:</color> In this Round, both sides must spend 1 extra Elemental Die when switching characters.",
+            "Name": "추락과 계기",
+            "Desc": "<color style='color:#FFFFFFFF'>아군의 남은 원소 주사위가 최소 8개이고 상대가 종료 선언을 하지 않은 경우에만 사용 가능:</color> 이번 턴에 양측 플레이어가 「캐릭터 교체」 행동 시 원소 주사위 1개를 추가로 소모한다.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Tanta",
             "Cost": {
@@ -9120,8 +9122,8 @@ var _card = [
         },
         {
             "_id": 332025,
-            "Name": "The Boar Princess",
-            "Desc": "<color style='color:#FFFFFFFF'>Each time you discard an Equipment Card from one of your characters during this Round:</color> Gain 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. (Max 2)<br>(This effect can be triggered by the loss of an Equipment Card from a character falling or from having their [b]3003[a]Weapon or [b]3004[a]Artifact replaced.)",
+            "Name": "멧돼지 공주",
+            "Desc": "<color style='color:#FFFFFFFF'>이번 턴에서 아군이 장착한 「장비 카드」가 버려질 때마다:</color> <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 1개 획득한다. (최대 2개)<br>(캐릭터가 처치되어 장비 카드가 버려지거나 「[b]3003[a]무기」 또는 「[b]3004[a]성유물」을 덮어 장착했을 때도 해당 효과가 발동된다)",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Yezhu",
             "Cost": {},
@@ -9132,8 +9134,8 @@ var _card = [
         },
         {
             "_id": 332024,
-            "Name": "Lyresong",
-            "Desc": "Return an [b]3004[a]Artifact card equipped by your character to your Hand.<br><color style='color:#FFFFFFFF'>During this Round, the next time you play an [b]3004[a]Artifact card from your hand:</color> Spend 2 less Elemental Dice.",
+            "Name": "현음의 시",
+            "Desc": "아군 캐릭터가 장착한 「[b]3004[a]성유물」 카드 1장이 핸드 카드로 반환된다.<br><color style='color:#FFFFFFFF'>이번 턴에서 아군이 다음번에 「[b]3004[a]성유물」 카드 사용 시:</color> 원소 주사위 소모 개수-2",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Wangfu",
             "Cost": {},
@@ -9142,8 +9144,8 @@ var _card = [
         },
         {
             "_id": 332023,
-            "Name": "Pankration!",
-            "Desc": "<color style='color:#FFFFFFFF'>Can only be played when you have at least 8 Elemental Dice remaining, and your opponent has not yet ended their Round:</color> After a player announces the end of their Round first, the other player, who has yet to announced the end of their Round, draws 2 cards.",
+            "Name": "격투기!",
+            "Desc": "<color style='color:#FFFFFFFF'>아군의 남은 원소 주사위가 최소 8개이고 상대가 종료 선언을 하지 않은 경우에만 사용 가능:</color> 이번 턴에서 플레이어 한 명이 먼저 종료 선언 시, 종료 선언을 하지 않은 플레이어가 카드를 2장 드로우한다.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Heiquan",
             "Cost": {},
@@ -9152,8 +9154,8 @@ var _card = [
         },
         {
             "_id": 332022,
-            "Name": "Where Is the Unseen Razor?",
-            "Desc": "Return a [b]3003[a]Weapon card equipped by your character to your Hand.<br><color style='color:#FFFFFFFF'>During this Round, the next time you play a [b]3003[a]Weapon card: </color>Spend 2 less Elemental Dice.",
+            "Name": "장봉은 어디 있는 거야",
+            "Desc": "아군 캐릭터가 장착한 「[b]3003[a]무기」 카드 1장이 핸드 카드로 반환된다.<br><color style='color:#FFFFFFFF'>이번 턴에서 아군이 다음번에 「[b]3003[a]무기」 카드 사용 시:</color> 원소 주사위 소모 개수-2",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Cangfen",
             "Cost": {},
@@ -9162,8 +9164,8 @@ var _card = [
         },
         {
             "_id": 332021,
-            "Name": "Rhythm of the Great Dream",
-            "Desc": "<color style='color:#FFFFFFFF'>The next time you play a [b]3003[a]Weapon or [b]3004[a]Artifact card:</color> Spend 1 less Elemental Die.",
+            "Name": "위대한 꿈의 멜로디",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 다음번에 「[b]3003[a]무기」 또는 「[b]3004[a]성유물」 카드 사용 시:</color> 원소 주사위 소모 개수-1",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Dameng",
             "Cost": {},
@@ -9172,8 +9174,8 @@ var _card = [
         },
         {
             "_id": 332020,
-            "Name": "Friendship Eternal",
-            "Desc": "Players with less than 4 cards in their hand draw cards until their hand has 4 cards in it.",
+            "Name": "영원한 우정",
+            "Desc": "핸드 카드가 4장 미만인 플레이어는 핸드 카드가 4장이 될 때까지 드로우한다.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Yongyuandeyouyi",
             "Cost": {
@@ -9184,8 +9186,8 @@ var _card = [
         },
         {
             "_id": 332019,
-            "Name": "The Legend of Vennessa",
-            "Desc": "Create 4 basic Elemental Dice of different types.",
+            "Name": "바네사 전기",
+            "Desc": "각기 다른 타입의 일반 원소 주사위 4개를 생성한다.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Wennisha",
             "Cost": {
@@ -9196,8 +9198,8 @@ var _card = [
         },
         {
             "_id": 332017,
-            "Name": "Plunging Strike",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: Switch to the target character. That character then uses a <color style='color:#FFFFFFFF'>Normal Attack</color>.",
+            "Name": "낙하 베기",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 대상 캐릭터를 출전 캐릭터로 교체 후, 해당 캐릭터가 <color style='color:#FFFFFFFF'>「일반 공격」</color>을 준다.",
             "Tag": [
                 "GCG_TAG_SLOWLY"
             ],
@@ -9212,8 +9214,8 @@ var _card = [
         },
         {
             "_id": 332016,
-            "Name": "Fatui Conspiracy",
-            "Desc": "Create 1 <color style='color:#FFFFFFFF'>Fatui Ambusher</color> of a random type on the opponent's field.<br>(You must have at least 2 [b]3501[a]Fatui characters in your deck to add this card to your deck.)",
+            "Name": "우인단의 음모",
+            "Desc": "상대 필드에 랜덤 유형의 「<color style='color:#FFFFFFFF'>우인단 복병</color>」을 1개 생성한다.<br>(카드 덱에 「[b]3501[a]우인단」 캐릭터가 2명 이상 있어야만 카드 덱에 추가 가능)",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Yurenzhongi",
             "Cost": {
@@ -9226,8 +9228,8 @@ var _card = [
         },
         {
             "_id": 332015,
-            "Name": "Abyssal Summons",
-            "Desc": "Summon 1 <color style='color:#FFFFFFFF'>Random Hilichurl Summon</color>!<br>(You must have at least 2 [b]3503[a]Monster characters in your deck to add this card to your deck.)",
+            "Name": "심연의 부름",
+            "Desc": "<color style='color:#FFFFFFFF'>랜덤 「츄츄족」 소환물</color>을 1종 소환한다!<br>(카드 덱에 「[b]3503[a]마물」 캐릭터가 2명 이상 있어야만 카드 덱에 추가 가능)",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Abyssdehuhuan",
             "Cost": {
@@ -9240,8 +9242,8 @@ var _card = [
         },
         {
             "_id": 332014,
-            "Name": "Guardian's Oath",
-            "Desc": "Destroy all Summons. (Affects both you and your opponent!)",
+            "Name": "호법의 맹세",
+            "Desc": "모든 「소환물」을 소멸시킨다. (적군 및 아군 포함!)",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Hufazhishi",
             "Cost": {
@@ -9252,8 +9254,8 @@ var _card = [
         },
         {
             "_id": 332013,
-            "Name": "Send Off",
-            "Desc": "Choose one Summon on the opposing side and cause it to lose 2 <color style='color:#FFFFFFFF'>Usage(s)</color>.",
+            "Name": "널 저세상으로 데려다줄게",
+            "Desc": "적 「소환물」을 1개 선택하고 해당 소환물의 「<color style='color:#FFFFFFFF'>사용 가능 횟수</color>」를 2회 감소시킨다.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Songniyicheng",
             "Cost": {
@@ -9266,8 +9268,8 @@ var _card = [
         },
         {
             "_id": 332012,
-            "Name": "Quick Knit",
-            "Desc": "Choose one Summon on your side and grant it +1 <color style='color:#FFFFFFFF'>Usage(s)</color>.",
+            "Name": "빠른 바느질 기술",
+            "Desc": "아군 「소환물」을 1개 선택하고 해당 소환물의 「<color style='color:#FFFFFFFF'>사용 가능 횟수</color>」를 1회 증가시킨다.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Kuaikuaifengbushu",
             "Cost": {
@@ -9280,8 +9282,8 @@ var _card = [
         },
         {
             "_id": 332011,
-            "Name": "Blessing of the Divine Relic's Installation",
-            "Desc": "Shift 1 [b]3004[a]Artifact Card that has been equipped to one of your characters to another one of your characters, and reset the \"usages per Round\" limit on its effects.",
+            "Name": "성물 안치 축사",
+            "Desc": "아군 캐릭터에게 장착한 「[b]3004[a]성유물」 장비 카드를 다른 아군 캐릭터에게 장착하고 해당 효과의 「턴당」 횟수 제한을 초기화한다.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Shenbaoqiangongzhuci",
             "Cost": {},
@@ -9290,8 +9292,8 @@ var _card = [
         },
         {
             "_id": 332010,
-            "Name": "Master of Weaponry",
-            "Desc": "Shift 1 [b]3003[a]Weapon Equipment Card that has been equipped to one of your characters to another one of your characters of the same Weapon Type, and reset the \"usages per Round\" limit on its effects.",
+            "Name": "무예 마스터리",
+            "Desc": "아군 캐릭터에게 장착한 「[b]3003[a]무기」 장비 카드를 무기 유형이 동일한 다른 아군 캐릭터에게 장착하고 해당 효과의 「턴당」 횟수 제한을 초기화한다.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Zhuwujingtong",
             "Cost": {},
@@ -9300,8 +9302,8 @@ var _card = [
         },
         {
             "_id": 332009,
-            "Name": "Calx's Arts",
-            "Desc": "Shift 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color> from at most 2 of your characters on standby to your active character.",
+            "Name": "백악의 술법",
+            "Desc": "아군 대기 캐릭터 최대 2명의 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color> 1pt를 아군 출전 캐릭터에게 이전시킨다.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Baiezhishu",
             "Cost": {
@@ -9314,8 +9316,8 @@ var _card = [
         },
         {
             "_id": 332008,
-            "Name": "Starsigns",
-            "Desc": "Your current Active Character <color style='color:#FFFFFFFF'>gains 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color></color>.",
+            "Name": "별하늘의 징조",
+            "Desc": "아군의 현재 출전 캐릭터가 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>를 1pt 획득한다</color>.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Xingtian",
             "Cost": {
@@ -9328,8 +9330,8 @@ var _card = [
         },
         {
             "_id": 332007,
-            "Name": "When the Crane Returned",
-            "Desc": "<color style='color:#FFFFFFFF'>The next time you use a Skill:</color> Switch your next character in to be the active character.",
+            "Name": "학이 돌아올 때",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 다음번에 스킬 사용 후:</color> 아군의 다음 대기 캐릭터가 출전 캐릭터로 교체된다.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Heguizhishi",
             "Cost": {
@@ -9340,8 +9342,8 @@ var _card = [
         },
         {
             "_id": 332006,
-            "Name": "Leave It to Me!",
-            "Desc": "<color style='color:#FFFFFFFF'>The next time you perform \"Switch Character\":</color> This switch will be considered a <color style='color:#FFFFFFFF'>Fast Action</color> instead of a <color style='color:#FFFFFFFF'>Combat Action</color>.",
+            "Name": "제게 맡기세요!",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 다음 「캐릭터 교체」 행동 진행 시:</color> 이번 교체를 「<color style='color:#FFFFFFFF'>전투 행동</color>」이 아닌 「<color style='color:#FFFFFFFF'>빠른 행동</color>」으로 간주한다.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Jiaogeiwoba",
             "Cost": {},
@@ -9353,8 +9355,8 @@ var _card = [
         },
         {
             "_id": 332005,
-            "Name": "I Haven't Lost Yet!",
-            "Desc": "<color style='color:#FFFFFFFF'>Only playable if one of your characters is defeated this Round:</color> Create <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> ×1 and your current active character gains 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>. (Only one copy of I Haven't Lost Yet! can be played each round.)",
+            "Name": "이 몸은 아직 지지 않았어!",
+            "Desc": "<color style='color:#FFFFFFFF'>이번 턴에 아군 캐릭터가 처치됐을 경우 사용 가능:</color> <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 1개 생성하고 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>를 1pt 획득한다. (「이 몸은 아직 지지 않았어!」는 턴마다 최대 1장 사용 가능)",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Bendayehaimeiyoushu",
             "Cost": {},
@@ -9366,8 +9368,8 @@ var _card = [
         },
         {
             "_id": 332004,
-            "Name": "Strategize",
-            "Desc": "Draw 2 cards.",
+            "Name": "전략 구상",
+            "Desc": "카드를 2장 드로우한다.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Yunchouweiwo",
             "Cost": {
@@ -9378,8 +9380,8 @@ var _card = [
         },
         {
             "_id": 332003,
-            "Name": "Toss-Up",
-            "Desc": "Select any Elemental Dice to <color style='color:#FFFFFFFF'>reroll</color>. Can reroll 2 times.",
+            "Name": "건곤일척",
+            "Desc": "임의의 원소 주사위를 골라 최대 2회 <color style='color:#FFFFFFFF'>다시 굴릴 수 있다</color>.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Yizhiqiankun",
             "Cost": {},
@@ -9388,8 +9390,8 @@ var _card = [
         },
         {
             "_id": 332002,
-            "Name": "Changing Shifts",
-            "Desc": "<color style='color:#FFFFFFFF'>The next time you perform \"Switch Character\":</color> Spend 1 less Elemental Die.",
+            "Name": "근무 교대 시간",
+            "Desc": "<color style='color:#FFFFFFFF'>아군이 다음번에 「캐릭터 교체」 행동 진행 시:</color> 원소 주사위 소모 개수-1",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Huanbanshijian",
             "Cost": {},
@@ -9398,8 +9400,8 @@ var _card = [
         },
         {
             "_id": 332001,
-            "Name": "The Bestest Travel Companion!",
-            "Desc": "Convert the Elemental Dice spent to <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> ×2.",
+            "Name": "최고의 파트너!",
+            "Desc": "해당 카드를 사용할 때 소모한 원소 주사위를 <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color> 2개로 전환한다.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_BestAibo",
             "Cost": {
@@ -9412,8 +9414,8 @@ var _card = [
         },
         {
             "_id": 331804,
-            "Name": "Nature and Wisdom",
-            "Desc": "Draw 1 card. After that, switch any cards in your hand.<br>(You must have at least 2 [b]3404[a]Sumeru characters in your deck to add this card to your deck.)",
+            "Name": "풀과 지혜",
+            "Desc": "카드를 1장 드로우한다. 이후, 임의의 핸드 카드를 선택해 교체한다.<br>(카드 덱에 「[b]3404[a]수메르」 캐릭터가 2명 이상 있어야만 카드 덱에 추가 가능)",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Caoyuzhihui",
             "Cost": {
@@ -9424,8 +9426,8 @@ var _card = [
         },
         {
             "_id": 331803,
-            "Name": "Thunder and Eternity",
-            "Desc": "Convert all your Elemental Dice to <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>.<br>(You must have at least 2 [b]3403[a]Inazuman characters in your deck to add this card to your deck.)",
+            "Name": "번개와 영원",
+            "Desc": "아군의 모든 원소 주사위를 <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>로 전환한다.<br>(카드 덱에 「[b]3403[a]이나즈마」 캐릭터가 2명 이상 있어야만 카드 덱에 추가 가능)",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Leiyuyongheng",
             "Cost": {},
@@ -9436,8 +9438,8 @@ var _card = [
         },
         {
             "_id": 331802,
-            "Name": "Stone and Contracts",
-            "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase of the next Round begins:</color> Create 3 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> and draw 1 card.<br>(You must have at least 2 [b]3402[a]Liyue characters in your deck to add this card to your deck.)",
+            "Name": "바위와 계약",
+            "Desc": "<color style='color:#FFFFFFFF'>다음 턴 행동 단계 시작 시:</color> <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 3개 생성하고, 카드를 1장 드로우한다.<br>(카드 덱에 「[b]3402[a]리월」 캐릭터가 2명 이상 있어야만 카드 덱에 추가 가능)",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Yanyuqiyue",
             "Cost": {
@@ -9450,8 +9452,8 @@ var _card = [
         },
         {
             "_id": 331801,
-            "Name": "Wind and Freedom",
-            "Desc": "<color style='color:#FFFFFFFF'>During this turn, after one of your characters uses a Skill:</color> Switch your next character in to be the active character.<br>(You must have at least 2 characters from [b]3401[a]Mondstadt in your deck to add this card to your deck.)",
+            "Name": "바람과 자유",
+            "Desc": "<color style='color:#FFFFFFFF'>이번 턴에서 아군 캐릭터가 스킬을 사용 후:</color> 아군의 다음 대기 캐릭터가 출전 캐릭터로 교체된다.<br>(카드 덱에 「[b]3401[a]몬드」 캐릭터가 2명 이상 있어야만 카드 덱에 추가 가능)",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Fengyuziyou",
             "Cost": {},
@@ -9460,8 +9462,8 @@ var _card = [
         },
         {
             "_id": 331702,
-            "Name": "Elemental Resonance: Sprawling Greenery",
-            "Desc": "During this round, the next Elemental Reaction you trigger deals +2 DMG.<br>Your <color style='color:#FFFFFFFF'>Burning Flame, Dendro Core, and Catalyzing Field</color> gain +1 <color style='color:#FFFFFFFF'>Usage(s)</color>.<br>(You must have at least 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro</color> characters in your deck to add this card to your deck.)",
+            "Name": "원소 공명: 만생의 풀",
+            "Desc": "아군이 이번 턴에서 다음번에 원소 반응 발동 시 주는 피해+2pt<br>아군 필드 위의 <color style='color:#FFFFFFFF'>불타는 화염, 풀 원핵, 격화 영역</color>의 「<color style='color:#FFFFFFFF'>사용 가능 횟수</color>」+1<br>(카드 덱에 [b]2107[a]<color style='color:#7EC236FF'>풀 원소</color> 캐릭터가 2명 이상 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9480,8 +9482,8 @@ var _card = [
         },
         {
             "_id": 331701,
-            "Name": "Elemental Resonance: Woven Weeds",
-            "Desc": "Create 1 <color style='color:#7EC236FF'>[b]1107[a]Dendro Die</color>.<br>(You must have at least 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro</color> characters in your deck to add this card to your deck.)",
+            "Name": "원소 공명: 뒤엉킨 풀",
+            "Desc": "<color style='color:#7EC236FF'>[b]1107[a]풀 원소 주사위</color>를 1개 생성한다.<br>(카드 덱에 [b]2107[a]<color style='color:#7EC236FF'>풀 원소</color> 캐릭터가 2명 이상 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9492,8 +9494,8 @@ var _card = [
         },
         {
             "_id": 331602,
-            "Name": "Elemental Resonance: Enduring Rock",
-            "Desc": "During this round, after your character deals [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color> next time: Should there be any Combat Status on your side that provides [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>, grant one such Status with 3 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points. <br>(You must have at least 2 [b]2106[a]<color style='color:#FFE699FF'>Geo</color> characters in your deck to add this card to your deck.)",
+            "Name": "원소 공명: 부동의 바위",
+            "Desc": "아군 캐릭터가 이번 턴에서 다음번에 [b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color>를 준 후: 아군에 「[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>」을 제공하는 출전 상태가 존재하는 경우, 해당 유형의 출전 상태 1개에 「[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>」을 3pt 보충한다.<br>(카드 덱에 [b]2106[a]<color style='color:#FFE699FF'>바위 원소</color> 캐릭터가 2명 이상 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9509,8 +9511,8 @@ var _card = [
         },
         {
             "_id": 331601,
-            "Name": "Elemental Resonance: Woven Stone",
-            "Desc": "Create 1 <color style='color:#FFE699FF'>[b]1106[a]Geo Die</color>.<br>(You must have at least 2 [b]2106[a]<color style='color:#FFE699FF'>Geo</color> characters in your deck to add this card to your deck.)",
+            "Name": "원소 공명: 뒤엉킨 바위",
+            "Desc": "<color style='color:#FFE699FF'>[b]1106[a]바위 원소 주사위</color>를 1개 생성한다.<br>(카드 덱에 [b]2106[a]<color style='color:#FFE699FF'>바위 원소</color> 캐릭터가 2명 이상 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9521,8 +9523,8 @@ var _card = [
         },
         {
             "_id": 331502,
-            "Name": "Elemental Resonance: Impetuous Winds",
-            "Desc": "Switch to the target character and creates 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>.<br>(You must have at least 2 [b]2105[a]<color style='color:#80FFD7FF'>Anemo</color> characters in your deck to add this card to your deck.)",
+            "Name": "원소 공명: 신속의 바람",
+            "Desc": "대상 캐릭터로 교체하고 <color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 1개 생성한다.<br>(카드 덱에 [b]2105[a]<color style='color:#80FFD7FF'>바람 원소</color> 캐릭터가 2명 이상 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9537,8 +9539,8 @@ var _card = [
         },
         {
             "_id": 331501,
-            "Name": "Elemental Resonance: Woven Winds",
-            "Desc": "Create 1 <color style='color:#80FFD7FF'>[b]1105[a]Anemo Die</color>.<br>(You must have at least 2 [b]2105[a]<color style='color:#80FFD7FF'>Anemo</color> characters in your deck to add this card to your deck.)",
+            "Name": "원소 공명: 뒤엉킨 바람",
+            "Desc": "<color style='color:#80FFD7FF'>[b]1105[a]바람 원소 주사위</color>를 1개 생성한다.<br>(카드 덱에 [b]2105[a]<color style='color:#80FFD7FF'>바람 원소</color> 캐릭터가 2명 이상 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9549,8 +9551,8 @@ var _card = [
         },
         {
             "_id": 331402,
-            "Name": "Elemental Resonance: High Voltage",
-            "Desc": "One of your characters without maximum Energy gains 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>. (Active Character prioritized)<br>(You must have at least 2 [b]2104[a]<color style='color:#FFACFFFF'>Electro</color> characters in your deck to add this card to your deck.)",
+            "Name": "원소 공명: 고에너지의 번개",
+            "Desc": "원소 에너지가 가득 차지 않은 아군 캐릭터 1명이 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>를 1pt 획득한다. (출전 캐릭터 우선)<br>(카드 덱에 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소</color> 캐릭터가 2명 이상 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9565,8 +9567,8 @@ var _card = [
         },
         {
             "_id": 331401,
-            "Name": "Elemental Resonance: Woven Thunder",
-            "Desc": "Create 1 <color style='color:#FFACFFFF'>[b]1104[a]Electro Die</color>.<br>(You must have at least 2 [b]2104[a]<color style='color:#FFACFFFF'>Electro</color> characters in your deck to add this card to your deck.)",
+            "Name": "원소 공명: 뒤엉킨 번개",
+            "Desc": "<color style='color:#FFACFFFF'>[b]1104[a]번개 원소 주사위</color>를 1개 생성한다.<br>(카드 덱에 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소</color> 캐릭터가 2명 이상 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9577,8 +9579,8 @@ var _card = [
         },
         {
             "_id": 331302,
-            "Name": "Elemental Resonance: Fervent Flames",
-            "Desc": "During this round, the next instance of <color style='color:#FF9999FF'>[b]2103[a]Pyro-Related Reactions</color> your current active character triggers deals +3 DMG.<br>(You must have at least 2 [b]2103[a]<color style='color:#FF9999FF'>Pyro</color> characters in your deck to add this card to your deck.)",
+            "Name": "원소 공명: 열정의 불",
+            "Desc": "현재 아군 출전 캐릭터가 이번 턴에서 다음번에 <color style='color:#FF9999FF'>[b]2103[a]불 원소 관련 반응</color>을 발동하면 주는 피해+3pt<br>(카드 덱에 [b]2103[a]<color style='color:#FF9999FF'>불 원소</color> 캐릭터가 2명 이상 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9593,8 +9595,8 @@ var _card = [
         },
         {
             "_id": 331301,
-            "Name": "Elemental Resonance: Woven Flames",
-            "Desc": "Create 1 <color style='color:#FF9999FF'>[b]1103[a]Pyro Die</color>.<br>(You must have at least 2 [b]2103[a]<color style='color:#FF9999FF'>Pyro</color> characters in your deck to add this card to your deck.)",
+            "Name": "원소 공명: 뒤엉킨 불",
+            "Desc": "<color style='color:#FF9999FF'>[b]1103[a]불 원소 주사위</color>를 1개 생성한다.<br>(카드 덱에 [b]2103[a]<color style='color:#FF9999FF'>불 원소</color> 캐릭터가 2명 이상 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9605,8 +9607,8 @@ var _card = [
         },
         {
             "_id": 331202,
-            "Name": "Elemental Resonance: Soothing Water",
-            "Desc": "Heal your active character for 2 HP and all your characters on standby for 1 HP.<br>(You must have at least 2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro</color> characters in your deck to add this card to your deck.)",
+            "Name": "원소 공명: 치유의 물",
+            "Desc": "아군 출전 캐릭터의 HP를 2pt 치유하고 모든 아군 대기 캐릭터의 HP를 1pt 치유한다.<br>(카드 덱에 [b]2102[a]<color style='color:#80C0FFFF'>물 원소</color> 캐릭터가 2명 이상 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9619,8 +9621,8 @@ var _card = [
         },
         {
             "_id": 331201,
-            "Name": "Elemental Resonance: Woven Waters",
-            "Desc": "Create 1 <color style='color:#80C0FFFF'>[b]1102[a]Hydro Die</color>.<br>(You must have at least 2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro</color> characters in your deck to add this card to your deck.)",
+            "Name": "원소 공명: 뒤엉킨 물",
+            "Desc": "<color style='color:#80C0FFFF'>[b]1102[a]물 원소 주사위</color>를 1개 생성한다.<br>(카드 덱에 [b]2102[a]<color style='color:#80C0FFFF'>물 원소</color> 캐릭터가 2명 이상 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9631,8 +9633,8 @@ var _card = [
         },
         {
             "_id": 331102,
-            "Name": "Elemental Resonance: Shattering Ice",
-            "Desc": "During this Round, your current active character will deal +2 DMG for the next instance.<br>(You must have at least 2[b]2101[a] <color style='color:#99FFFFFF'>Cryo</color> characters in your deck to add this card to your deck.)",
+            "Name": "원소 공명: 분쇄의 얼음",
+            "Desc": "이번 턴에서 현재 아군 출전 캐릭터가 다음번에 주는 피해+2pt<br>(카드 덱에 [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소</color> 캐릭터가 2명 이상 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9645,8 +9647,8 @@ var _card = [
         },
         {
             "_id": 331101,
-            "Name": "Elemental Resonance: Woven Ice",
-            "Desc": "Create 1 <color style='color:#99FFFFFF'>[b]1101[a]Cryo Die</color>.<br>(You must have at least 2 [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color> characters in your deck to add this card to your deck.)",
+            "Name": "원소 공명: 뒤엉킨 얼음",
+            "Desc": "<color style='color:#99FFFFFF'>[b]1101[a]얼음 원소 주사위</color>를 1개 생성한다.<br>(카드 덱에 <color style='color:#99FFFFFF'>얼음 원소[b]2101[a]</color> 캐릭터가 2명 이상 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9657,8 +9659,8 @@ var _card = [
         },
         {
             "_id": 330006,
-            "Name": "Passing of Judgment",
-            "Desc": "3 Event Cards played by your opponent in this Round will take no effect.<br>(Only one [b]3007[a]\"Arcane Legend\" card can be played per match. This card will be in your starting hand.)",
+            "Name": "판결의 때",
+            "Desc": "이번 턴에서 상대 플레이어가 사용한 이벤트 카드 3장을 무효화한다.<br>(「[b]3007[a]비기」 카드는 한 번의 대전에서 한 장만 사용 가능하며, 해당 카드는 시작 카드에 반드시 포함된다)",
             "Tag": [
                 "GCG_TAG_LEGEND"
             ],
@@ -9672,8 +9674,8 @@ var _card = [
         },
         {
             "_id": 330005,
-            "Name": "In Every House a Stove",
-            "Desc": "Draw a number of cards equal to the <color style='color:#FFFFFFFF'>current Round number minus 1</color>. (Up to 4 cards can be drawn in this way)<br>(Only one [b]3007[a]\"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
+            "Name": "온 세상의 부뚜막",
+            "Desc": "<color style='color:#FFFFFFFF'>현재 턴-1</color>과 같은 수의 카드를 드로우한다. (최대 4장)<br>(「[b]3007[a]비기」 카드는 한 번의 대전에서 한 장만 사용 가능하며, 해당 카드는 시작 카드에 반드시 포함된다)",
             "Tag": [
                 "GCG_TAG_LEGEND"
             ],
@@ -9686,8 +9688,8 @@ var _card = [
         },
         {
             "_id": 330004,
-            "Name": "Fresh Wind of Freedom",
-            "Desc": "<color style='color:#FFFFFFFF'>In this Round, when an opposing character is defeated during your Action</color>, you can continue to act again when that Action ends.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>：1</color><br>(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
+            "Name": "새로운 자유의 바람",
+            "Desc": "<color style='color:#FFFFFFFF'>이번 턴에서 아군의 행동 차례에 상대 캐릭터가 처치될 시:</color> 이번 행동이 종료된 후, 아군이 한 번 더 행동할 수 있다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color><br>(「[b]3007[a]비기」 카드는 한 번의 대전에서 한 장만 사용 가능하며, 해당 카드는 시작 카드에 반드시 포함된다)",
             "Tag": [
                 "GCG_TAG_LEGEND"
             ],
@@ -9702,8 +9704,8 @@ var _card = [
         },
         {
             "_id": 330003,
-            "Name": "Joyous Celebration",
-            "Desc": "<color style='color:#FFFFFFFF'>Your active character must be one of the following elemental types to play this card:</color>[b]2101[a]<color style='color:#99FFFFFF'>Cryo</color>/[b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>/[b]2103[a]<color style='color:#FF9999FF'>Pyro</color>/[b]2104[a]<color style='color:#FFACFFFF'>Electro</color>/[b]2107[a]<color style='color:#7EC236FF'>Dendro</color> The element corresponding to your active character's Elemental Type will be applied to all your characters affected by elements.<br>(Only one \"[b]3007[a]Arcane Legend\" card can be played per match. This card will be in your starting hand.)",
+            "Name": "기쁨의 축제",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 출전 캐릭터의 원소 타입이 [b]2101[a]<color style='color:#99FFFFFF'>얼음</color>/[b]2102[a]<color style='color:#80C0FFFF'>물</color>/[b]2103[a]<color style='color:#FF9999FF'>불</color>/[b]2104[a]<color style='color:#FFACFFFF'>번개</color>/[b]2107[a]<color style='color:#7EC236FF'>풀</color>일 경우 사용 가능:</color> 원소가 부착된 모든 아군 캐릭터에게 아군 출전 캐릭터 타입의 원소를 부착한다.<br>(「[b]3007[a]비기」 카드는 한 번의 대전에 한 장만 사용 가능하며, 해당 카드는 시작 카드에 반드시 포함된다)",
             "Tag": [
                 "GCG_TAG_LEGEND"
             ],
@@ -9716,8 +9718,8 @@ var _card = [
         },
         {
             "_id": 330002,
-            "Name": "Covenant of Rock",
-            "Desc": "<color style='color:#FFFFFFFF'>Can only be played when you have 0 Elemental Dice left:</color> Generate 2 different basic Elemental Dice.<br>(Only one [b]3007[a]\"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
+            "Name": "반암의 계약",
+            "Desc": "<color style='color:#FFFFFFFF'>아군의 남은 원소 주사위 개수가 0일 경우 사용 가능:</color> 각각 다른 타입의 일반 원소 주사위를 2개 생성한다.<br>(「[b]3007[a]비기」 카드는 한 번의 대전에서 한 장만 사용 가능하며, 해당 카드는 시작 카드에 반드시 포함된다)",
             "Tag": [
                 "GCG_TAG_LEGEND"
             ],
@@ -9730,8 +9732,8 @@ var _card = [
         },
         {
             "_id": 330001,
-            "Name": "Ancient Courtyard",
-            "Desc": "<color style='color:#FFFFFFFF'>You must have a character who has already equipped a [b]3003[a]Weapon or [b]3004[a]Artifact: The next time you play a [b]3003[a]Weapon or [b]3004[a]Artifact card in this Round:</color> Spend 2 less Elemental Dice.<br>(Only one [b]3007[a]\"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
+            "Name": "과거의 정원",
+            "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터 중 「[b]3003[a]무기」나 「[b]3004[a]성유물」을 장착한 캐릭터가 있을 경우 사용 가능:</color> 이번 턴에서 아군이 다음번에 「[b]3003[a]무기」 또는 「[b]3004[a]성유물」 장비 카드 사용 시 원소 주사위 소모 개수-2<br>(「[b]3007[a]비기」 카드는 한 번의 대전에서 한 장만 사용 가능하며, 해당 카드는 시작 카드에 반드시 포함된다)",
             "Tag": [
                 "GCG_TAG_LEGEND"
             ],
@@ -9744,8 +9746,8 @@ var _card = [
         },
         {
             "_id": 226022,
-            "Name": "Lunar Cycles Unending",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Azhdaha</color>, play this card on them. Attach <color style='color:#FFFFFFFF'>Stone Facets: Elemental Crystallization</color> to Azhdaha, then create 1 Elemental Die for each Elemental Type your characters have.<br>(Deck must contain Azhdaha to add this card to it)",
+            "Name": "끝없는 회삭",
+            "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>야타용왕</color>일 때 해당 캐릭터에게 사용할 수 있다. 야타용왕에게 <color style='color:#FFFFFFFF'>반암백상 · 원소 응결</color>을 부착하고, 아군 캐릭터가 가지고 있는 원소 타입의 원소 주사위를 1개씩 생성한다.<br>(카드 덱에 야타용왕이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -9763,8 +9765,8 @@ var _card = [
         },
         {
             "_id": 224011,
-            "Name": "Absorbing Prism",
-            "Desc": "<color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Combat Action</color>:</color> When your active character is <color style='color:#FFFFFFFF'>Electro Hypostasis</color>, heal that character for 3 HP and attach the <color style='color:#FFFFFFFF'>Electro Crystal Core</color> to them.<br>(You must have Electro Hypostasis in your deck to add this card to your deck.)",
+            "Name": "에너지 흡수 결정",
+            "Desc": "<color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>전투 행동</color>:</color> 아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>무상의 뇌전</color>일 때, 해당 캐릭터의 HP를 3pt 회복하고 <color style='color:#FFFFFFFF'>번개수정 코어</color>를 부착한다.<br>(카드 덱에 무상의 뇌전이 있어야만 카드 덱에 추가 가능)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"

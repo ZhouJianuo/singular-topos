@@ -5,7 +5,7 @@ var _card = [
     [
         {
             "_id": 1403,
-            "Name": "Keqing",
+            "Name": "刻晴",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -19,8 +19,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Keqing",
-            "Title": "\"Driving Thunder\" Keqing",
-            "Story": "She can build decks heretofore not conceived and win battles in which victory is unthinkable.",
+            "Title": "疾雷快雨 · 刻晴",
+            "Story": "彼女は考えもつかないようなデッキを沢山組んで、想像もできないような勝利を沢山手にする。",
             "K": [
                 104,
                 100,
@@ -29,7 +29,7 @@ var _card = [
         },
         {
             "_id": 2404,
-            "Name": "Fatui Electro Cicin Mage",
+            "Name": "ファデュイ · 雷蛍術師",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -44,8 +44,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_FatuusSummoner",
-            "Title": "Thunder in the Mist: Electro Cicin Mage",
-            "Story": "...Just as the scent of Mist Grass intoxicates the Electro Cicins, so too does the sadistic mage hanker after the pleasure of toying with her foe...",
+            "Title": "霧虚ろの電光 · 雷蛍術師",
+            "Story": "霧虚ろ草の匂いは雷蛍を酔わせられるように、嗜虐性のある術師も相手を弄ぶ快感に執着する…",
             "K": [
                 104,
                 204
@@ -53,7 +53,7 @@ var _card = [
         },
         {
             "_id": 1707,
-            "Name": "Kirara",
+            "Name": "綺良々",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -67,8 +67,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Momoka",
-            "Title": "\"Cat Upon the Eaves\" Kirara",
-            "Story": "On tails twain and padded feet, to all doors shall she deliver.",
+            "Title": "檐宇遊猫 · 綺良々",
+            "Story": "岐尾駿足、万戸へ至る。",
             "K": [
                 107,
                 100
@@ -76,7 +76,7 @@ var _card = [
         },
         {
             "_id": 1210,
-            "Name": "Neuvillette",
+            "Name": "ヌヴィレット",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -93,8 +93,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Neuvillette",
-            "Title": "\"Ordainer of Inexorable Judgment\" Neuvillette",
-            "Story": "He who looks down on all that are haughty.",
+            "Title": "告諭の潮騒 · ヌヴィレット",
+            "Story": "高き者を、私は蔑む。",
             "K": [
                 5,
                 102
@@ -102,7 +102,7 @@ var _card = [
         },
         {
             "_id": 1110,
-            "Name": "Charlotte",
+            "Name": "シャルロット",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -117,15 +117,15 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Charlotte",
-            "Title": "\"Lens of Verity\" Charlotte",
-            "Story": "\"Your credible source of the unbelievable truth!\"",
+            "Title": "真実を求める曇りなきモノクル · シャルロット",
+            "Story": "「真実至上主義、優れたストーリー性！」",
             "K": [
                 101
             ]
         },
         {
             "_id": 2403,
-            "Name": "Millennial Pearl Seahorse",
+            "Name": "千年真珠の海駿",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -141,8 +141,8 @@ var _card = [
             "HP": 8,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_SeaHorsePrimo",
-            "Title": "Millennial Pearl Seahorse",
-            "Story": "One of the two sovereigns standing at the apex of the Fontemer Aberrants. Poets and authors view it as a proud and noble creature, thus bestowing it with its high-flown title.",
+            "Title": "千年真珠の海駿",
+            "Story": "原海アベラントの頂点に君臨する二大覇者のうちの一種。その美しく優雅な姿から、詩人や物書きには孤高で高潔な生霊と見られ、「海駿」と呼ばれている。",
             "K": [
                 104,
                 3,
@@ -151,7 +151,7 @@ var _card = [
         },
         {
             "_id": 2103,
-            "Name": "Cryo Hypostasis",
+            "Name": "無相の氷",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -166,8 +166,8 @@ var _card = [
             "HP": 8,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_EffigyIce",
-            "Title": "Cryo Hypostasis",
-            "Story": "Code name: Daleth. A high-purity Cryo entity.<br>It doesn't seem all that good at ball sports...",
+            "Title": "無相の氷",
+            "Story": "高純度の氷元素生命体、コードネーム「ダレット」。<br>球技が苦手なようだ…",
             "K": [
                 5,
                 101
@@ -175,7 +175,7 @@ var _card = [
         },
         {
             "_id": 1507,
-            "Name": "Sayu",
+            "Name": "早柚",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_CLAYMORE",
@@ -190,8 +190,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Sayu",
-            "Title": "\"Mujina Ninja\" Sayu",
-            "Story": "By your side without a trace, like a character from a dream.",
+            "Title": "忍びの里の貉 · 早柚",
+            "Story": "ひとたび夢に落ちれば、万の原に跡はなし。",
             "K": [
                 105,
                 100,
@@ -200,7 +200,7 @@ var _card = [
         },
         {
             "_id": 1311,
-            "Name": "Thoma",
+            "Name": "トーマ",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_POLE",
@@ -214,8 +214,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Tohma",
-            "Title": "\"Protector From Afar\" Thoma",
-            "Story": "A protector from abroad, loyal to the end.",
+            "Title": "渡来介者 · トーマ",
+            "Story": "渡来介者、赤袖丹心。",
             "K": [
                 100,
                 103
@@ -223,7 +223,7 @@ var _card = [
         },
         {
             "_id": 6604,
-            "Name": "Azhdaha",
+            "Name": "若陀龍王",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -250,7 +250,7 @@ var _card = [
         },
         {
             "_id": 6603,
-            "Name": "Azhdaha",
+            "Name": "若陀龍王",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -277,7 +277,7 @@ var _card = [
         },
         {
             "_id": 6602,
-            "Name": "Azhdaha",
+            "Name": "若陀龍王",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -304,7 +304,7 @@ var _card = [
         },
         {
             "_id": 6601,
-            "Name": "Azhdaha",
+            "Name": "若陀龍王",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -331,7 +331,7 @@ var _card = [
         },
         {
             "_id": 2602,
-            "Name": "Azhdaha",
+            "Name": "若陀龍王",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -346,8 +346,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Dahaka",
-            "Title": "Ancient Geovishap Ancestor: Azhdaha",
-            "Story": "The faint rattling of this dragon lord's shackles and his deep, angry growl echo through the bowels of the mountains like memories of a bygone era.",
+            "Title": "古岩龍祖 · 若陀龍王",
+            "Story": "鎖の振動と巨龍の轟きが、山々の間に響き渡ったという。",
             "K": [
                 106,
                 100,
@@ -356,7 +356,7 @@ var _card = [
         },
         {
             "_id": 2502,
-            "Name": "Dvalin",
+            "Name": "トワリン",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -373,8 +373,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Dvalin",
-            "Title": "\"Dragon of the East\" Dvalin",
-            "Story": "\"How wonderful it would have been if you were as I, witnessing your noble, beautiful form as you soared through the blue sky.\"<br>\"Then you would know that this sky and this earth are both things worth fighting for.\"",
+            "Title": "東風の龍 · トワリン",
+            "Story": "「もし、君がボクのように、君の青い空を飛んでる孤独な、美しい姿を見ることがあれば…」<br>「君もきっと分かってくるだろう。このような大空と大地は、戦う価値があるということを。」",
             "K": [
                 105,
                 100,
@@ -383,7 +383,7 @@ var _card = [
         },
         {
             "_id": 2402,
-            "Name": "Thunder Manifestation",
+            "Name": "雷音権現",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -398,15 +398,15 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Raijin",
-            "Title": "\"Lingering Hatred\" Thunder Manifestation",
-            "Story": "As long as the grudges of the land do not fade, so will the roaring thunder persist.",
+            "Title": "残されし怨恨 · 雷音権現",
+            "Story": "大地に晴らせぬ怨恨がある限り、雷鳴も響き続けるだろう。",
             "K": [
                 104
             ]
         },
         {
             "_id": 2303,
-            "Name": "Eremite Scorching Loremaster",
+            "Name": "エルマイト旅団 · サンドロアマスター",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -424,8 +424,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Muscleman",
-            "Title": "\"Poetry and Secret Histories\" Eremite Scorching Loremaster",
-            "Story": "Those who still remember will never betray the spirit of the sands yet flowing through their veins.",
+            "Title": "歌と秘史 · サンドロアマスター",
+            "Story": "今でも多くの物語を覚えている者は、体に流れる砂漠の血筋を裏切りはしない。",
             "K": [
                 310,
                 103
@@ -433,7 +433,7 @@ var _card = [
         },
         {
             "_id": 6301,
-            "Name": "Crimson Witch of Embers",
+            "Name": "焚尽の灼炎魔女",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -456,7 +456,7 @@ var _card = [
         },
         {
             "_id": 2102,
-            "Name": "La Signora",
+            "Name": "「淑女」",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -472,8 +472,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_LaSignora",
-            "Title": "\"The Eighth Harbinger\" La Signora",
-            "Story": "The crimson dawn was reflected in her pupils, and at last, she unfolded her flaming wings and flew towards the light.<br>\"But that light is not the dawn, dear Rosalyne. That is a sea of flame that will consume everything.\"<br>Yet it mattered not, for she knew in her heart that the flames had devoured her long ago.",
+            "Title": "ファトゥス第八位 · 「淑女」",
+            "Story": "瞳に夜明けの茜色が映り、彼女は最後、烈焔の翼を広げ、払暁へ飛んでいった。<br>「しかしあれは暁ではない、親愛なるロザリンよ。あれは、全てを燃やし尽くす火の海だ。」<br>だが、それでも構わない。彼女は分かっていた、自らがすでに烈火に呑まれていることを。",
             "K": [
                 1013,
                 101
@@ -481,7 +481,7 @@ var _card = [
         },
         {
             "_id": 1706,
-            "Name": "Alhaitham",
+            "Name": "アルハイゼン",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -495,8 +495,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Alhatham",
-            "Title": "\"Admonishing Instruction\" Alhaitham",
-            "Story": "Learning, thinking, and taking care of business.",
+            "Title": "権謀教戒 · アルハイゼン",
+            "Story": "学識、思考及び処世術。",
             "K": [
                 107,
                 100,
@@ -505,7 +505,7 @@ var _card = [
         },
         {
             "_id": 1606,
-            "Name": "Gorou",
+            "Name": "ゴロー",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_BOW",
@@ -519,8 +519,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Gorou",
-            "Title": "\"Canine Warrior\" Gorou",
-            "Story": "The leader of the pack, leading the soldiers onward!",
+            "Title": "雄々しき戎犬 · ゴロー",
+            "Story": "轟々たる行軍！",
             "K": [
                 106,
                 100
@@ -528,7 +528,7 @@ var _card = [
         },
         {
             "_id": 1508,
-            "Name": "Lynette",
+            "Name": "リネット",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -544,8 +544,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Linette",
-            "Title": "\"Elegance in the Shadows\" Lynette",
-            "Story": "The firmament glimpsed in a reflected moon.",
+            "Title": "綺影で魅せるエレガンス · リネット",
+            "Story": "水中の輪郭を窺い、月影を見透かす。",
             "K": [
                 105,
                 100
@@ -553,7 +553,7 @@ var _card = [
         },
         {
             "_id": 1310,
-            "Name": "Lyney",
+            "Name": "リネ",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_BOW",
@@ -570,8 +570,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Liney",
-            "Title": "\"Spectacle of Phantasmagoria\" Lyney",
-            "Story": "Those flowers in the mirror... who are they for?",
+            "Title": "幻光で惑わすトリック · リネ",
+            "Story": "鏡中に咲くものを抱き、花捧ぐ人を求めゆく。",
             "K": [
                 100,
                 5,
@@ -580,7 +580,7 @@ var _card = [
         },
         {
             "_id": 1209,
-            "Name": "Yelan",
+            "Name": "夜蘭",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_BOW",
@@ -595,8 +595,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Yelan",
-            "Title": "\"Valley Orchid\" Yelan",
-            "Story": "The world is vast and infinite, the solitary one comes and goes as she pleases.",
+            "Title": "幽谷に咲く蘭 · 夜蘭",
+            "Story": "渺々たる天地、往来せし幽客。",
             "K": [
                 100,
                 102
@@ -604,7 +604,7 @@ var _card = [
         },
         {
             "_id": 1109,
-            "Name": "Layla",
+            "Name": "レイラ",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -618,8 +618,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Layla",
-            "Title": "\"Fantastical Evening Star\" Layla",
-            "Story": "As night falls, the stars swirl and the moon wanders amidst dreams.",
+            "Title": "綺思と夜星 · レイラ",
+            "Story": "更けゆく夜に星が遷り、月籠に照らされる夢の軌跡。",
             "K": [
                 100,
                 101
@@ -627,7 +627,7 @@ var _card = [
         },
         {
             "_id": 1705,
-            "Name": "Baizhu",
+            "Name": "白朮",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -641,15 +641,15 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Baizhuer",
-            "Title": "\"Beyond Mortality\" Baizhu",
-            "Story": "Living with many maladies, where will one find a cure?",
+            "Title": "遵生合和 · 白朮",
+            "Story": "生を受けてより老いるまで万の病、診る医者は何処に。",
             "K": [
                 107
             ]
         },
         {
             "_id": 1410,
-            "Name": "Dori",
+            "Name": "ドリー",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_CLAYMORE",
@@ -663,8 +663,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Dori",
-            "Title": "\"Treasure of Dream Garden\" Dori",
-            "Story": "The Mora, the merrier!",
+            "Title": "夢の庭に隠せし財宝 · ドリー",
+            "Story": "モラがいっぱい、楽しさいっぱい！",
             "K": [
                 104,
                 100
@@ -672,7 +672,7 @@ var _card = [
         },
         {
             "_id": 1208,
-            "Name": "Nilou",
+            "Name": "ニィロウ",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -686,8 +686,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Nilou",
-            "Title": "\"Dance of Lotuslight\" Nilou",
-            "Story": "Steps floating like lotus petals, emerging from an intoxicating dream.",
+            "Title": "絨毯に舞い落ちる蓮光 · ニィロウ",
+            "Story": "蓮花の上で軽やかに舞う、世上を離れた夢に酔う。",
             "K": [
                 100,
                 102
@@ -695,7 +695,7 @@ var _card = [
         },
         {
             "_id": 1704,
-            "Name": "Yaoyao",
+            "Name": "ヨォーヨ",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_POLE",
@@ -709,8 +709,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Yaoyao",
-            "Title": "\"Burgeoning Grace\" Yaoyao",
-            "Story": "An adeptal constitution.",
+            "Title": "仙蕊玲瓏 · ヨォーヨ",
+            "Story": "玲瓏玉質、仙風道骨。",
             "K": [
                 107,
                 100
@@ -731,15 +731,15 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Wanderer",
-            "Title": "\"Eons Adrift\" Wanderer",
-            "Story": "Tribulations uncounted, trials unknowable.",
+            "Title": "久世浮傾 · 放浪者",
+            "Story": "劫に渡る千苦、知る者はなし。",
             "K": [
                 105
             ]
         },
         {
             "_id": 1309,
-            "Name": "Dehya",
+            "Name": "ディシア",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_CLAYMORE",
@@ -756,8 +756,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Dehya",
-            "Title": "\"Flame-Mane\" Dehya",
-            "Story": "The eyes of a vulture, the spirit of a lion, an unbridled daughter of the desert.",
+            "Title": "熾鬣の獅子 · ディシア",
+            "Story": "鷲の目と獅子の魂をもつ、自由な砂漠の娘。",
             "K": [
                 100,
                 53,
@@ -766,7 +766,7 @@ var _card = [
         },
         {
             "_id": 2701,
-            "Name": "Jadeplume Terrorshroom",
+            "Name": "マッシュラプトル",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -781,8 +781,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Fungusgrass",
-            "Title": "\"Lord of Fungi\" Jadeplume Terrorshroom",
-            "Story": "If you keep silent and listen closely, you can hear the sound of the ruler of the Shroom-Kin inspecting its territory...",
+            "Title": "幽蕈の王 · マッシュラプトル",
+            "Story": "耳をすませば、幽林から、キノコンの王者が領土を視察する足音が聞こえる…",
             "K": [
                 107,
                 100
@@ -790,7 +790,7 @@ var _card = [
         },
         {
             "_id": 2601,
-            "Name": "Stonehide Lawachurl",
+            "Name": "ヒルチャール · 岩兜の王",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -806,15 +806,15 @@ var _card = [
             "HP": 8,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Bruterock",
-            "Title": "\"Vale-Crosser\" Stonehide Lawachurl",
-            "Story": "Go around — the way ahead is the realm of the \"king.\"",
+            "Title": "千嶂を行く · ヒルチャール · 岩兜の王",
+            "Story": "遠回りして進もう。この先は「王」の領域だから。",
             "K": [
                 100
             ]
         },
         {
             "_id": 2501,
-            "Name": "Maguu Kenki",
+            "Name": "魔偶剣鬼",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -829,8 +829,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Ningyo",
-            "Title": "\"Ingenious Machine\" Maguu Kenki",
-            "Story": "Even today, it still patrols the place where fate was severed.",
+            "Title": "万般機巧 · 魔偶剣鬼",
+            "Story": "今日も、それは因縁断絶の地を徘徊している。",
             "K": [
                 105,
                 100
@@ -838,7 +838,7 @@ var _card = [
         },
         {
             "_id": 2401,
-            "Name": "Electro Hypostasis",
+            "Name": "無相の雷",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -855,8 +855,8 @@ var _card = [
             "HP": 8,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Effigyelectric",
-            "Title": "Electro Hypostasis",
-            "Story": "Code name: Aleph. A high-purity Electro entity.<br>Even if you win at rock-paper-scissors, Aleph is not one to admit defeat.",
+            "Title": "無相の雷",
+            "Story": "高純度の雷元素生命体、コードネーム「アレフ」。<br>たとえジャンケンで負かされても、たいてい負けを認めない。",
             "K": [
                 104,
                 53
@@ -864,7 +864,7 @@ var _card = [
         },
         {
             "_id": 2302,
-            "Name": "Abyss Lector: Fathomless Flames",
+            "Name": "アビスの詠唱者 · 淵炎",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -879,15 +879,15 @@ var _card = [
             "HP": 6,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_DeaconFire",
-            "Title": "Abyss Lector: Fathomless Flames",
-            "Story": "From chapters of canon revealed come much heeded admonishments.",
+            "Title": "アビスの詠唱者 · 淵炎",
+            "Story": "章典顕現——箴言を聞き給え。",
             "K": [
                 103
             ]
         },
         {
             "_id": 2301,
-            "Name": "Fatui Pyro Agent",
+            "Name": "ファデュイ · デットエージェント · 炎",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -902,8 +902,8 @@ var _card = [
             "HP": 9,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Fatuus",
-            "Title": "\"Blade of Settlement\" Agent",
-            "Story": "\"There is no running from your debt, be you living or otherwise.\"",
+            "Title": "清算の刃 · デットエージェント",
+            "Story": "「死んでも免れはしないのだ。まして生きているならば、尚更…」",
             "K": [
                 100,
                 103
@@ -911,7 +911,7 @@ var _card = [
         },
         {
             "_id": 2202,
-            "Name": "Mirror Maiden",
+            "Name": "ファデュイ · ミラーメイデン",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -925,15 +925,15 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Maidenwater",
-            "Title": "\"Snezhnayan Maiden\" Mirror Envoy",
-            "Story": "All secrets shall be concealed within the mirror of glaring brightness...",
+            "Title": "冬国の仕女 · 水鏡の使者",
+            "Story": "全ての秘密を、銀に波打つ水鏡の中へと隠そう…",
             "K": [
                 102
             ]
         },
         {
             "_id": 2201,
-            "Name": "Rhodeia of Loch",
+            "Name": "純水精霊 · ローデシア",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -948,15 +948,15 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Oceanid",
-            "Title": "\"Lady of Clear Waters\" Rhodeia",
-            "Story": "\"As long as rain falls and rivers flow... water will exist forever... \"",
+            "Title": "浄水の主 · ローデシア",
+            "Story": "「しかし、川や湖があって、空から雨が降る限り、水は消えない…」",
             "K": [
                 102
             ]
         },
         {
             "_id": 2101,
-            "Name": "Fatui Cryo Cicin Mage",
+            "Name": "ファデュイ · 氷蛍術師",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -970,8 +970,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Monster_FatuusMageice",
-            "Title": "\"Cicin of the Hollow Mist\" Cryo Cicin Mage",
-            "Story": "And so long as the Mist Grass yet lingers, the Cryo Cicins will not abandon her.",
+            "Title": "霧虚ろに召喚されし蛍 · 氷蛍術師",
+            "Story": "霧虚ろ草が尽きるまで、氷蛍は彼女の傍を離れない。",
             "K": [
                 201,
                 101
@@ -979,7 +979,7 @@ var _card = [
         },
         {
             "_id": 1703,
-            "Name": "Nahida",
+            "Name": "ナヒーダ",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -994,15 +994,15 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Nahida",
-            "Title": "\"Physic of Purity\" Nahida",
-            "Story": "The panacea brings purity, and from the palace depths is spring renewed.",
+            "Title": "白草浄華 · ナヒーダ",
+            "Story": "白草浄華、啓蟄の深宮",
             "K": [
                 107
             ]
         },
         {
             "_id": 1702,
-            "Name": "Tighnari",
+            "Name": "ティナリ",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_BOW",
@@ -1016,8 +1016,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Tighnari",
-            "Title": "\"Verdant Strider\" Tighnari",
-            "Story": "From a certain perspective, experience does not hold parity with wisdom.",
+            "Title": "緑土逍遥 · ティナリ",
+            "Story": "ある意味、経験と知恵は別物だ。",
             "K": [
                 107,
                 100,
@@ -1026,7 +1026,7 @@ var _card = [
         },
         {
             "_id": 1701,
-            "Name": "Collei",
+            "Name": "コレイ",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_BOW",
@@ -1040,8 +1040,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Collei",
-            "Title": "\"Sprout of Rebirth\" Collei",
-            "Story": "\"'Shouting the name of your card loudly will increase its power many-fold'... You've got to be kidding, right?\"",
+            "Title": "純真を抱く萌蘖 · コレイ",
+            "Story": "「大声でカードの名前を呼べば、その威力も倍になる…これって絶対嘘だよな？」",
             "K": [
                 107,
                 100
@@ -1049,7 +1049,7 @@ var _card = [
         },
         {
             "_id": 1605,
-            "Name": "Arataki Itto",
+            "Name": "荒瀧一斗",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_CLAYMORE",
@@ -1063,8 +1063,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Itto",
-            "Title": "\"Hanamizaka Heroics\" Arataki Itto",
-            "Story": "Arataki \"The Ultimate TCG Champion\" Itto",
+            "Title": "花坂豪快 · 荒瀧一斗",
+            "Story": "「荒瀧 · 札遊びの王 · 一斗」",
             "K": [
                 106,
                 100
@@ -1072,7 +1072,7 @@ var _card = [
         },
         {
             "_id": 1604,
-            "Name": "Albedo",
+            "Name": "アルベド",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -1086,8 +1086,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Albedo",
-            "Title": "\"Kreideprinz\" Albedo",
-            "Story": "Nigredo and calx, rubedo and citrinitas.",
+            "Title": "白亜の申し子 · アルベド",
+            "Story": "黒土と白亜、赤化と黄金。",
             "K": [
                 106,
                 100
@@ -1095,7 +1095,7 @@ var _card = [
         },
         {
             "_id": 1603,
-            "Name": "Zhongli",
+            "Name": "鍾離",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_POLE",
@@ -1110,8 +1110,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Zhongli",
-            "Title": "\"Vago Mundo\" Zhongli",
-            "Story": "A hidden gemstone can illuminate the whole earth, bright and unrivaled as a star.",
+            "Title": "浮世閑歩 · 鍾離",
+            "Story": "玉の揺りかごである石は、世の果てをも照らす。輝く天星の如く、唯一無二だ。",
             "K": [
                 106,
                 100
@@ -1119,7 +1119,7 @@ var _card = [
         },
         {
             "_id": 1602,
-            "Name": "Noelle",
+            "Name": "ノエル",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_CLAYMORE",
@@ -1133,8 +1133,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Noel",
-            "Title": "\"Chivalric Blossom\" Noelle",
-            "Story": "You can leave arranging the table to her — really, you can.",
+            "Title": "騎士道の花咲 · ノエル",
+            "Story": "テーブル整理のような仕事であれば——本当に彼女に任せればいい。",
             "K": [
                 106,
                 100
@@ -1142,7 +1142,7 @@ var _card = [
         },
         {
             "_id": 1601,
-            "Name": "Ningguang",
+            "Name": "凝光",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -1156,15 +1156,15 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Ningguang",
-            "Title": "\"Eclipsing Star\" Ningguang",
-            "Story": "The greatest secret she keeps is that she keeps a great many of Liyue's secrets.",
+            "Title": "月を覆う天権 · 凝光",
+            "Story": "彼女が守っている最大の秘密。それは自分が璃月港の数多くの秘密を守っているということ。",
             "K": [
                 106
             ]
         },
         {
             "_id": 1505,
-            "Name": "Kaedehara Kazuha",
+            "Name": "楓原万葉",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -1179,8 +1179,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Kazuha",
-            "Title": "Scarlet Leaves Pursue Wild Waves: Kaedehara Kazuha",
-            "Story": "Flowers and birds are a dear pleasure to one winding under the moonlight.",
+            "Title": "風波流浪の紅葉 · 楓原万葉",
+            "Story": "花鳥の一興を拾い、風月の道を照らさん。",
             "K": [
                 105,
                 100
@@ -1188,7 +1188,7 @@ var _card = [
         },
         {
             "_id": 1504,
-            "Name": "Xiao",
+            "Name": "魈",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_POLE",
@@ -1202,8 +1202,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Xiao",
-            "Title": "\"Vigilant Yaksha\" Xiao",
-            "Story": "The Vigilant Yaksha, the bane of all evil.",
+            "Title": "護法夜叉 · 魈",
+            "Story": "護法夜叉、靖妖降魔。",
             "K": [
                 105,
                 100
@@ -1211,7 +1211,7 @@ var _card = [
         },
         {
             "_id": 1503,
-            "Name": "Venti",
+            "Name": "ウェンティ",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_BOW",
@@ -1225,8 +1225,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Venti",
-            "Title": "\"Windborne Bard\" Venti",
-            "Story": "\"As the four seasons in turn shall say their piece, so the four winds too shall never cease. <br>\"Of course, to look at it differently, I am the one who should be credited here, and not they.\"<br>Credits should be given where credits belong — if not for the bard who pens the song, then who shall ensure that these tales are passed on!?\"",
+            "Title": "風色の詩人 · ウェンティ",
+            "Story": "「四季が移ろっても、四風は吹き止まない。」<br>「まあ、当然だけどこれは彼らのお陰じゃなくて、ほとんどこのボクのお陰だよ。」<br>「だって吟遊詩人がいなかったら、誰がそれを唄ってくれるって言うんだい？」",
             "K": [
                 105,
                 100
@@ -1234,7 +1234,7 @@ var _card = [
         },
         {
             "_id": 1502,
-            "Name": "Jean",
+            "Name": "ジン",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -1248,8 +1248,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Qin",
-            "Title": "\"Dandelion Knight\" Jean",
-            "Story": "Never believes that she has done well enough — not until final victory is hers, anyway.",
+            "Title": "蒲公英騎士 · ジン",
+            "Story": "最後に勝利を手にするその瞬間まで、彼女はいつも自分がまだまだだと思い込んでいる。",
             "K": [
                 105,
                 100
@@ -1257,7 +1257,7 @@ var _card = [
         },
         {
             "_id": 1501,
-            "Name": "Sucrose",
+            "Name": "スクロース",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -1271,15 +1271,15 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Sucrose",
-            "Title": "\"Harmless Sweetie\" Sucrose",
-            "Story": "\"You can't rate the strength of an as-yet untested deck!\"",
+            "Title": "無害の甘味 · スクロース",
+            "Story": "「実戦を経てないデッキが強いかどうかの判断はできないよ！」",
             "K": [
                 105
             ]
         },
         {
             "_id": 1409,
-            "Name": "Lisa",
+            "Name": "リサ",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -1293,8 +1293,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Lisa",
-            "Title": "\"Witch of Purple Rose\" Lisa",
-            "Story": "Pursuing the arcane mysteries of magic, and waiting quietly for an encounter with truth.",
+            "Title": "薔薇の魔女 · リサ",
+            "Story": "魔導の秘密を追い求め、真の運命を静かに待つ。",
             "K": [
                 104,
                 51
@@ -1302,7 +1302,7 @@ var _card = [
         },
         {
             "_id": 1408,
-            "Name": "Yae Miko",
+            "Name": "八重神子",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -1316,15 +1316,15 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Yae",
-            "Title": "\"Astute Amusement\" Yae Miko",
-            "Story": "\"The wise and beautiful Yae Miko.\"",
+            "Title": "浮世笑百姿 · 八重神子",
+            "Story": "「英知と美貌を兼ね備えた八重神子様」",
             "K": [
                 104
             ]
         },
         {
             "_id": 1407,
-            "Name": "Raiden Shogun",
+            "Name": "雷電将軍",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_POLE",
@@ -1339,8 +1339,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Shougun",
-            "Title": "\"Plane of Euthymia\" Raiden Shogun",
-            "Story": "The tranquil thunder shall scatter this world most ephemeral.",
+            "Title": "一心浄土 · 雷電将軍",
+            "Story": "雷鳴寂滅、浮世の泡影。",
             "K": [
                 104,
                 100,
@@ -1349,7 +1349,7 @@ var _card = [
         },
         {
             "_id": 1406,
-            "Name": "Kujou Sara",
+            "Name": "九条裟羅",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_BOW",
@@ -1363,8 +1363,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Sara",
-            "Title": "\"Crowfeather Kaburaya\" Kujou Sara",
-            "Story": "\"This is an act of righteousness.\"",
+            "Title": "黒羽鳴鏑 · 九条裟羅",
+            "Story": "「これぞ、大義のため。」",
             "K": [
                 104,
                 100
@@ -1372,7 +1372,7 @@ var _card = [
         },
         {
             "_id": 1405,
-            "Name": "Beidou",
+            "Name": "北斗",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_CLAYMORE",
@@ -1387,8 +1387,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Beidou",
-            "Title": "\"Uncrowned Lord of the Ocean\" Beidou",
-            "Story": "\"Remember this day, you almost won money from the Captain of the Crux.\"",
+            "Title": "無冠の龍王 · 北斗",
+            "Story": "「この日を覚えとけ、あんたはもうちょっとで南十字船隊頭領から大金星を上げるところだったぞ。」",
             "K": [
                 104,
                 100,
@@ -1397,7 +1397,7 @@ var _card = [
         },
         {
             "_id": 1404,
-            "Name": "Cyno",
+            "Name": "セノ",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_POLE",
@@ -1412,8 +1412,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Cyno",
-            "Title": "\"Judicator of Secrets\" Cyno",
-            "Story": "The card bears the General Mahamatra's ardent fondness, which reminds one of the scorching sun hanging above the desert.",
+            "Title": "緘秘の裁き · セノ",
+            "Story": "カードには、砂漠で燃えたぎる太陽のような大マハマトラの熱い情愛が込められている。",
             "K": [
                 104,
                 100
@@ -1421,7 +1421,7 @@ var _card = [
         },
         {
             "_id": 1402,
-            "Name": "Razor",
+            "Name": "レザー",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_CLAYMORE",
@@ -1435,8 +1435,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Razor",
-            "Title": "\"Wolf Boy\" Razor",
-            "Story": "\"Cards, hard.\"<br>\"But... friends...\"",
+            "Title": "狼少年 · レザー",
+            "Story": "「カード、難しい。」<br>「でも、友達…」",
             "K": [
                 104,
                 100
@@ -1444,7 +1444,7 @@ var _card = [
         },
         {
             "_id": 1401,
-            "Name": "Fischl",
+            "Name": "フィッシュル",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_BOW",
@@ -1458,8 +1458,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Fischl",
-            "Title": "\"Fischl, Prinzessin der Verurteilung!\" Fischl",
-            "Story": "\"Oz, mine familiar, spread thine wings and weave for me a new fate in the gloom of this night!\"<br>\"Mein Fräulein, you cannot expect me to fetch you a replacement card...\"",
+            "Title": "断罪の皇女！！ · フィッシュル",
+            "Story": "「オズ！我が眷属よ、その翼を広げ、幽夜の中で新しい運命の糸を見つけるのよ！」<br>「お嬢様、カードを変えるなんてこと、私にはできませんよ…」",
             "K": [
                 104,
                 100,
@@ -1468,7 +1468,7 @@ var _card = [
         },
         {
             "_id": 1308,
-            "Name": "Yanfei",
+            "Name": "煙緋",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -1482,15 +1482,15 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Feiyan",
-            "Title": "Wise Innocence: Yanfei",
-            "Story": "One who fails to revise the classics is liable to fall foul of the law.",
+            "Title": "無邪気な知恵 · 煙緋",
+            "Story": "修古を期せず、常行に法らず。",
             "K": [
                 103
             ]
         },
         {
             "_id": 1307,
-            "Name": "Hu Tao",
+            "Name": "胡桃",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_POLE",
@@ -1504,8 +1504,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Hutao",
-            "Title": "\"Fragrance in Thaw\" Hu Tao",
-            "Story": "\"Send one, send 'em all!\"",
+            "Title": "雪晴梅香 · 胡桃",
+            "Story": "「全員あの世行き。」",
             "K": [
                 100,
                 103
@@ -1513,7 +1513,7 @@ var _card = [
         },
         {
             "_id": 1306,
-            "Name": "Klee",
+            "Name": "クレー",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -1527,15 +1527,15 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Klee",
-            "Title": "\"Fleeing Sunlight\" Klee",
-            "Story": "Every card you draw may bring an \"explosive surprise.\"",
+            "Title": "逃げ回る太陽 · クレー",
+            "Story": "手札を引くたびに、「爆発的なサプライズ」をもたらしてくれるかもしれない。",
             "K": [
                 103
             ]
         },
         {
             "_id": 1305,
-            "Name": "Yoimiya",
+            "Name": "宵宮",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_BOW",
@@ -1549,8 +1549,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Yoimiya",
-            "Title": "\"Frolicking Flames\" Yoimiya",
-            "Story": "Captain and Vanguard of Team Naganohara for the 11th Hanamizaka Street Invitational.",
+            "Title": "琉焔に舞う大輪 · 宵宮",
+            "Story": "花見坂第11回町内招待試合「長野原隊」隊長兼先行プレイヤー。",
             "K": [
                 100,
                 103
@@ -1558,7 +1558,7 @@ var _card = [
         },
         {
             "_id": 1304,
-            "Name": "Amber",
+            "Name": "アンバー",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_BOW",
@@ -1572,8 +1572,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Ambor",
-            "Title": "\"Outrider\" Amber",
-            "Story": "If you want to be a great player...<br>First, you have to have the courage to sit down and play.",
+            "Title": "偵察騎士 · アンバー",
+            "Story": "偉大なプレイヤーになるには…<br>まずは対戦テーブルに座る勇気がないとね。",
             "K": [
                 100,
                 5,
@@ -1582,7 +1582,7 @@ var _card = [
         },
         {
             "_id": 1303,
-            "Name": "Bennett",
+            "Name": "ベネット",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -1596,8 +1596,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Bennett",
-            "Title": "\"Trial by Fire\" Bennett",
-            "Story": "Once you know that you will certainly lose, then you must certainly know the way to win.",
+            "Title": "運命の試金石 · ベネット",
+            "Story": "自分が絶対に負けると分かった時は、どう勝つのかも分かっているはずだ。",
             "K": [
                 100,
                 103
@@ -1605,7 +1605,7 @@ var _card = [
         },
         {
             "_id": 1302,
-            "Name": "Xiangling",
+            "Name": "香菱",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_POLE",
@@ -1619,8 +1619,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Xiangling",
-            "Title": "\"Exquisite Delicacy\" Xiangling",
-            "Story": "As a chef, she is practically omnipotent.",
+            "Title": "万民百味 · 香菱",
+            "Story": "料理人である彼女は、なんだってほとんどできる。",
             "K": [
                 100,
                 103
@@ -1628,7 +1628,7 @@ var _card = [
         },
         {
             "_id": 1301,
-            "Name": "Diluc",
+            "Name": "ディルック",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_CLAYMORE",
@@ -1642,8 +1642,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Diluc",
-            "Title": "\"Dark Side of Dawn\" Diluc",
-            "Story": "His heart is his greatest foe.",
+            "Title": "アカツキの裏面 · ディルック",
+            "Story": "最大の敵は彼自身の心だ。",
             "K": [
                 100,
                 103
@@ -1651,7 +1651,7 @@ var _card = [
         },
         {
             "_id": 1207,
-            "Name": "Candace",
+            "Name": "キャンディス",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_POLE",
@@ -1666,8 +1666,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Candace",
-            "Title": "Golden Vow: Candace",
-            "Story": "The crimson sand flows, an oath to defend.",
+            "Title": "浮金の誓願 · キャンディス",
+            "Story": "赤砂浮金、守護の誓約。",
             "K": [
                 100,
                 53,
@@ -1676,7 +1676,7 @@ var _card = [
         },
         {
             "_id": 1206,
-            "Name": "Kamisato Ayato",
+            "Name": "神里綾人",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -1690,8 +1690,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Ayato",
-            "Title": "\"Pillar of Fortitude\" Kamisato Ayato",
-            "Story": "The divinely-blessed cypress sprouts new leaves.",
+            "Title": "磐祭葉守 · 神里綾人",
+            "Story": "神守の柏、新たな材へと生まれ変わる。",
             "K": [
                 100,
                 102
@@ -1699,7 +1699,7 @@ var _card = [
         },
         {
             "_id": 1205,
-            "Name": "Sangonomiya Kokomi",
+            "Name": "珊瑚宮心海",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -1713,8 +1713,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Kokomi",
-            "Title": "\"Pearl of Wisdom\" Sangonomiya Kokomi",
-            "Story": "To survive hardship, you must prepare for hardship.",
+            "Title": "真珠の智 · 珊瑚宮心海",
+            "Story": "転ばぬ先の杖、危機に瀕しても冷静沈着であるべきです。",
             "K": [
                 202,
                 102
@@ -1722,7 +1722,7 @@ var _card = [
         },
         {
             "_id": 1204,
-            "Name": "Tartaglia",
+            "Name": "タルタリヤ",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_BOW",
@@ -1739,8 +1739,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Tartaglia",
-            "Title": "\"Childe\" Tartaglia",
-            "Story": "Should this table be considered a battlefield, then may the strongest claim the win.",
+            "Title": "「公子」 · タルタリヤ",
+            "Story": "対局もまた戦場だよ。能ある者だけが先手を取れるんだ。",
             "K": [
                 310,
                 100,
@@ -1749,7 +1749,7 @@ var _card = [
         },
         {
             "_id": 1203,
-            "Name": "Mona",
+            "Name": "モナ",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -1764,8 +1764,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Mona",
-            "Title": "\"Astral Reflection\" Mona",
-            "Story": "Victory or defeat — it has all been written in the stars.",
+            "Title": "星天水鏡 · モナ",
+            "Story": "勝敗がどうであれ、全て運命に定められたこと。",
             "K": [
                 1,
                 2,
@@ -1774,7 +1774,7 @@ var _card = [
         },
         {
             "_id": 1202,
-            "Name": "Xingqiu",
+            "Name": "行秋",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -1788,8 +1788,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Xingqiu",
-            "Title": "\"Juvenile Galant\" Xingqiu",
-            "Story": "\"Is it just me, or are the protagonists in novels nowadays all students of some private school or another...\"",
+            "Title": "古華飛雲 · 行秋",
+            "Story": "「最近の小説に出てくる主人公は何で私塾か何かに通う学生ばかりなんだ…」",
             "K": [
                 202,
                 100,
@@ -1798,7 +1798,7 @@ var _card = [
         },
         {
             "_id": 1201,
-            "Name": "Barbara",
+            "Name": "バーバラ",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_CATALYST",
@@ -1812,15 +1812,15 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Barbara",
-            "Title": "\"Shining Idol\" Barbara",
-            "Story": "Ready to heal hearts and soothe souls at any time.",
+            "Title": "キラキラアイドル · バーバラ",
+            "Story": "みんなの心を癒す準備はいつでもオッケー！",
             "K": [
                 102
             ]
         },
         {
             "_id": 1108,
-            "Name": "Qiqi",
+            "Name": "七七",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -1834,8 +1834,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Qiqi",
-            "Title": "\"Icy Resurrection\" Qiqi",
-            "Story": "Circulating endlessly, life goes on.",
+            "Title": "冷たき黄泉帰り · 七七",
+            "Story": "諸行無常、生生流転。",
             "K": [
                 100,
                 101
@@ -1843,7 +1843,7 @@ var _card = [
         },
         {
             "_id": 1107,
-            "Name": "Shenhe",
+            "Name": "申鶴",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_POLE",
@@ -1857,8 +1857,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Shenhe",
-            "Title": "\"Lonesome Transcendence\" Shenhe",
-            "Story": "The mortal realm briefly gracing, like a wisp of smoke vanishing.",
+            "Title": "孤辰悲哀 · 申鶴",
+            "Story": "悠々たる紅塵、消え去りし因果。",
             "K": [
                 100,
                 101
@@ -1866,7 +1866,7 @@ var _card = [
         },
         {
             "_id": 1106,
-            "Name": "Eula",
+            "Name": "エウルア",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_CLAYMORE",
@@ -1880,8 +1880,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Eula",
-            "Title": "\"Dance of the Shimmering Wave\" Eula",
-            "Story": "It's but a game. I won't hold a grudge should luck happen to be on your side.",
+            "Title": "波沫のワルツ · エウルア",
+            "Story": "これはあくまでもゲームよ。勝っても負けても、これのせいで君が新たな罪を背負うことにはならないわ。",
             "K": [
                 100,
                 101
@@ -1889,7 +1889,7 @@ var _card = [
         },
         {
             "_id": 1105,
-            "Name": "Kamisato Ayaka",
+            "Name": "神里綾華",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -1904,8 +1904,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Ayaka",
-            "Title": "\"Frostflake Heron\" Kamisato Ayaka",
-            "Story": "As graceful as the frost drifting in the wind, as elegant as a heron perched in a courtyard.",
+            "Title": "白鷺氷華 · 神里綾華",
+            "Story": "氷華の如し、白鷺の如し。",
             "K": [
                 100,
                 101
@@ -1913,7 +1913,7 @@ var _card = [
         },
         {
             "_id": 1104,
-            "Name": "Chongyun",
+            "Name": "重雲",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_CLAYMORE",
@@ -1927,8 +1927,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Chongyun",
-            "Title": "\"Frozen Ardor\" Chongyun",
-            "Story": "\"Ugh, summer... Please pass us by in peace...\"",
+            "Title": "雪消の跡 · 重雲",
+            "Story": "「夏…平和に過ぎ去ってくれ…」",
             "K": [
                 100,
                 101
@@ -1936,7 +1936,7 @@ var _card = [
         },
         {
             "_id": 1103,
-            "Name": "Kaeya",
+            "Name": "ガイア",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_SWORD",
@@ -1950,8 +1950,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Kaeya",
-            "Title": "\"Frostwind Swordsman\" Kaeya",
-            "Story": "Specializes in awakening knightly virtues in others.",
+            "Title": "寒風の剣士 · ガイア",
+            "Story": "彼は他人が持つ「騎士のような美徳」を見つけることに長けている。",
             "K": [
                 100,
                 101
@@ -1959,7 +1959,7 @@ var _card = [
         },
         {
             "_id": 1102,
-            "Name": "Diona",
+            "Name": "ディオナ",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_BOW",
@@ -1973,8 +1973,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Diona",
-            "Title": "\"Kätzlein Cocktail\" Diona",
-            "Story": "1% energy dedicated to mixing drinks, 99% to... denying the reality of familiar.",
+            "Title": "キャッツテールスペシャル · ディオナ",
+            "Story": "1%の力でカクテルを作り、99%の力で…断ることに失敗。",
             "K": [
                 100,
                 101
@@ -1982,7 +1982,7 @@ var _card = [
         },
         {
             "_id": 1101,
-            "Name": "Ganyu",
+            "Name": "甘雨",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_BOW",
@@ -1997,8 +1997,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Ganyu",
-            "Title": "\"Plenilune Gaze\" Ganyu",
-            "Story": "\"This press release is due tomorrow... I suppose I could work through the night and get it done.\"",
+            "Title": "循々守月 · 甘雨",
+            "Story": "「明日の朝に必要なのでしたら、寝ないで完成させればいいだけの話です。」",
             "K": [
                 5,
                 100,
@@ -2009,7 +2009,7 @@ var _card = [
     [
         {
             "_id": 4408,
-            "Name": "Fatui Electro Cicin Mage",
+            "Name": "ファデュイ · 雷蛍術師",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2031,7 +2031,7 @@ var _card = [
         },
         {
             "_id": 3409,
-            "Name": "Thundercraven Rifthound",
+            "Name": "獣域ハウンド · 雷",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2052,7 +2052,7 @@ var _card = [
         },
         {
             "_id": 3108,
-            "Name": "Large Cryo Slime",
+            "Name": "大型氷スライム",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2073,7 +2073,7 @@ var _card = [
         },
         {
             "_id": 4407,
-            "Name": "Millennial Pearl Seahorse",
+            "Name": "千年真珠の海駿",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2096,7 +2096,7 @@ var _card = [
         },
         {
             "_id": 4406,
-            "Name": "Millennial Pearl Seahorse",
+            "Name": "千年真珠の海駿",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2119,7 +2119,7 @@ var _card = [
         },
         {
             "_id": 4108,
-            "Name": "Cryo Hypostasis",
+            "Name": "無相の氷",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2142,7 +2142,7 @@ var _card = [
         },
         {
             "_id": 4107,
-            "Name": "Cryo Hypostasis",
+            "Name": "無相の氷",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2165,7 +2165,7 @@ var _card = [
         },
         {
             "_id": 4106,
-            "Name": "Cryo Hypostasis",
+            "Name": "無相の氷",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2188,7 +2188,7 @@ var _card = [
         },
         {
             "_id": 3207,
-            "Name": "Large Hydro Slime",
+            "Name": "大型水スライム",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2209,7 +2209,7 @@ var _card = [
         },
         {
             "_id": 3107,
-            "Name": "Cryo Slime",
+            "Name": "氷スライム",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2229,7 +2229,7 @@ var _card = [
         },
         {
             "_id": 4606,
-            "Name": "Azhdaha",
+            "Name": "若陀龍王",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2252,7 +2252,7 @@ var _card = [
         },
         {
             "_id": 4605,
-            "Name": "Azhdaha",
+            "Name": "若陀龍王",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2275,7 +2275,7 @@ var _card = [
         },
         {
             "_id": 4506,
-            "Name": "Dvalin",
+            "Name": "トワリン",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2300,7 +2300,7 @@ var _card = [
         },
         {
             "_id": 4505,
-            "Name": "Dvalin",
+            "Name": "トワリン",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2325,7 +2325,7 @@ var _card = [
         },
         {
             "_id": 4504,
-            "Name": "Dvalin",
+            "Name": "トワリン",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2350,7 +2350,7 @@ var _card = [
         },
         {
             "_id": 4503,
-            "Name": "Dvalin",
+            "Name": "トワリン",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2375,7 +2375,7 @@ var _card = [
         },
         {
             "_id": 4405,
-            "Name": "Thunder Manifestation",
+            "Name": "雷音権現",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2397,7 +2397,7 @@ var _card = [
         },
         {
             "_id": 4404,
-            "Name": "Thunder Manifestation",
+            "Name": "雷音権現",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2419,7 +2419,7 @@ var _card = [
         },
         {
             "_id": 4305,
-            "Name": "Eremite Scorching Loremaster",
+            "Name": "エルマイト旅団 · サンドロアマスター",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2444,7 +2444,7 @@ var _card = [
         },
         {
             "_id": 6304,
-            "Name": "Crimson Witch of Embers",
+            "Name": "焚尽の灼炎魔女",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2465,7 +2465,7 @@ var _card = [
         },
         {
             "_id": 6303,
-            "Name": "Crimson Witch of Embers",
+            "Name": "焚尽の灼炎魔女",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2486,7 +2486,7 @@ var _card = [
         },
         {
             "_id": 6302,
-            "Name": "Crimson Witch of Embers",
+            "Name": "焚尽の灼炎魔女",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2507,7 +2507,7 @@ var _card = [
         },
         {
             "_id": 4105,
-            "Name": "La Signora",
+            "Name": "「淑女」",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2530,7 +2530,7 @@ var _card = [
         },
         {
             "_id": 4104,
-            "Name": "La Signora",
+            "Name": "「淑女」",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2553,7 +2553,7 @@ var _card = [
         },
         {
             "_id": 4103,
-            "Name": "La Signora",
+            "Name": "「淑女」",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2576,7 +2576,7 @@ var _card = [
         },
         {
             "_id": 3704,
-            "Name": "Suppression Specialist Mek - Pneuma",
+            "Name": "制圧特化型マシナリー · プネウマ",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2598,7 +2598,7 @@ var _card = [
         },
         {
             "_id": 3606,
-            "Name": "Eremite Stone Enchanter",
+            "Name": "エルマイト旅団 · ストーンエンチャンター",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2621,7 +2621,7 @@ var _card = [
         },
         {
             "_id": 3408,
-            "Name": "Assault Specialist Mek - Ousia",
+            "Name": "攻堅特化型マシナリー · ウーシア",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2647,7 +2647,7 @@ var _card = [
         },
         {
             "_id": 3308,
-            "Name": "Suppression Specialist Mek - Ousia",
+            "Name": "制圧特化型マシナリー · ウーシア",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2673,7 +2673,7 @@ var _card = [
         },
         {
             "_id": 3307,
-            "Name": "Assault Specialist Mek - Pneuma",
+            "Name": "攻堅特化型マシナリー · プネウマ",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2698,7 +2698,7 @@ var _card = [
         },
         {
             "_id": 3206,
-            "Name": "Eremite Desert Clearwater",
+            "Name": "エルマイト旅団 · サンドウォーター",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2723,7 +2723,7 @@ var _card = [
         },
         {
             "_id": 3106,
-            "Name": "Eremite Sunfrost",
+            "Name": "エルマイト旅団 · サンフロスト",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2748,7 +2748,7 @@ var _card = [
         },
         {
             "_id": 3007,
-            "Name": "Suppression Specialist Mek",
+            "Name": "制圧特化型マシナリー",
             "Tag": [
                 "GCG_TAG_ELEMENT_NONE",
                 "GCG_TAG_WEAPON_NONE",
@@ -2768,7 +2768,7 @@ var _card = [
         },
         {
             "_id": 3006,
-            "Name": "Assault Specialist Mek",
+            "Name": "攻堅特化型マシナリー",
             "Tag": [
                 "GCG_TAG_ELEMENT_NONE",
                 "GCG_TAG_WEAPON_NONE",
@@ -2788,7 +2788,7 @@ var _card = [
         },
         {
             "_id": 3005,
-            "Name": "Ruin Drake: Earthguard",
+            "Name": "遺跡ドレイク · 陸行",
             "Tag": [
                 "GCG_TAG_ELEMENT_NONE",
                 "GCG_TAG_WEAPON_NONE",
@@ -2811,7 +2811,7 @@ var _card = [
         },
         {
             "_id": 3004,
-            "Name": "Ruin Guard",
+            "Name": "遺跡守衛",
             "Tag": [
                 "GCG_TAG_ELEMENT_NONE",
                 "GCG_TAG_WEAPON_NONE",
@@ -2835,7 +2835,7 @@ var _card = [
         },
         {
             "_id": 4205,
-            "Name": "Rhodeia of Loch",
+            "Name": "純水精霊 · ローデシア",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2857,7 +2857,7 @@ var _card = [
         },
         {
             "_id": 5301,
-            "Name": "Pyro Abyss Mage",
+            "Name": "アビスの魔術師 · 炎",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2880,7 +2880,7 @@ var _card = [
         },
         {
             "_id": 5201,
-            "Name": "Hydro Abyss Mage",
+            "Name": "アビスの魔術師 · 水",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2903,7 +2903,7 @@ var _card = [
         },
         {
             "_id": 4704,
-            "Name": "Jadeplume Terrorshroom",
+            "Name": "マッシュラプトル",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2925,7 +2925,7 @@ var _card = [
         },
         {
             "_id": 4703,
-            "Name": "Jadeplume Terrorshroom",
+            "Name": "マッシュラプトル",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2947,7 +2947,7 @@ var _card = [
         },
         {
             "_id": 4702,
-            "Name": "Jadeplume Terrorshroom",
+            "Name": "マッシュラプトル",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2969,7 +2969,7 @@ var _card = [
         },
         {
             "_id": 4701,
-            "Name": "Jadeplume Terrorshroom",
+            "Name": "マッシュラプトル",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2991,7 +2991,7 @@ var _card = [
         },
         {
             "_id": 4604,
-            "Name": "Stonehide Lawachurl",
+            "Name": "ヒルチャール · 岩兜の王",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3013,7 +3013,7 @@ var _card = [
         },
         {
             "_id": 4603,
-            "Name": "Stonehide Lawachurl",
+            "Name": "ヒルチャール · 岩兜の王",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3035,7 +3035,7 @@ var _card = [
         },
         {
             "_id": 4602,
-            "Name": "Stonehide Lawachurl",
+            "Name": "ヒルチャール · 岩兜の王",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3057,7 +3057,7 @@ var _card = [
         },
         {
             "_id": 4601,
-            "Name": "Stonehide Lawachurl",
+            "Name": "ヒルチャール · 岩兜の王",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3078,7 +3078,7 @@ var _card = [
         },
         {
             "_id": 4502,
-            "Name": "Maguu Kenki",
+            "Name": "魔偶剣鬼",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3100,7 +3100,7 @@ var _card = [
         },
         {
             "_id": 4501,
-            "Name": "Maguu Kenki",
+            "Name": "魔偶剣鬼",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3122,7 +3122,7 @@ var _card = [
         },
         {
             "_id": 4403,
-            "Name": "Pure Electro Hypostasis",
+            "Name": "純粋な無相の雷",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3146,7 +3146,7 @@ var _card = [
         },
         {
             "_id": 4402,
-            "Name": "Electro Hypostasis",
+            "Name": "無相の雷",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3171,7 +3171,7 @@ var _card = [
         },
         {
             "_id": 4401,
-            "Name": "Electro Hypostasis",
+            "Name": "無相の雷",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3196,7 +3196,7 @@ var _card = [
         },
         {
             "_id": 4304,
-            "Name": "Abyss Lector: Fathomless Flames",
+            "Name": "アビスの詠唱者 · 淵炎",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3219,7 +3219,7 @@ var _card = [
         },
         {
             "_id": 4303,
-            "Name": "Abyss Lector: Fathomless Flames",
+            "Name": "アビスの詠唱者 · 淵炎",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3242,7 +3242,7 @@ var _card = [
         },
         {
             "_id": 4302,
-            "Name": "Fatui Pyro Agent",
+            "Name": "ファデュイ · デットエージェント · 炎",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3264,7 +3264,7 @@ var _card = [
         },
         {
             "_id": 4301,
-            "Name": "Fatui Pyro Agent",
+            "Name": "ファデュイ · デットエージェント · 炎",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3286,7 +3286,7 @@ var _card = [
         },
         {
             "_id": 4204,
-            "Name": "Mirror Maiden",
+            "Name": "ファデュイ · ミラーメイデン",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3306,7 +3306,7 @@ var _card = [
         },
         {
             "_id": 4203,
-            "Name": "Mirror Maiden",
+            "Name": "ファデュイ · ミラーメイデン",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3326,7 +3326,7 @@ var _card = [
         },
         {
             "_id": 4202,
-            "Name": "Rhodeia of Loch",
+            "Name": "純水精霊 · ローデシア",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3348,7 +3348,7 @@ var _card = [
         },
         {
             "_id": 4201,
-            "Name": "Rhodeia of Loch",
+            "Name": "純水精霊 · ローデシア",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3370,7 +3370,7 @@ var _card = [
         },
         {
             "_id": 4102,
-            "Name": "Fatui Cryo Cicin Mage",
+            "Name": "ファデュイ · 氷蛍術師",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3391,7 +3391,7 @@ var _card = [
         },
         {
             "_id": 4101,
-            "Name": "Fatui Cryo Cicin Mage",
+            "Name": "ファデュイ · 氷蛍術師",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3412,7 +3412,7 @@ var _card = [
         },
         {
             "_id": 3703,
-            "Name": "Dendro Samachurl",
+            "Name": "ヒルチャールシャーマン · 草",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3434,7 +3434,7 @@ var _card = [
         },
         {
             "_id": 3702,
-            "Name": "Wooden Shieldwall Mitachurl",
+            "Name": "ヒルチャール暴徒 · 木盾",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3457,7 +3457,7 @@ var _card = [
         },
         {
             "_id": 3701,
-            "Name": "Winged Dendroshroom",
+            "Name": "パタパタ草マッシュロン",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3480,7 +3480,7 @@ var _card = [
         },
         {
             "_id": 3605,
-            "Name": "Grounded Geoshroom",
+            "Name": "トコトコ岩マッシュロン",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3503,7 +3503,7 @@ var _card = [
         },
         {
             "_id": 3604,
-            "Name": "Fatui Skirmisher - Geochanter Bracer",
+            "Name": "ファデュイ先遣隊 · 遊撃兵 · 岩使い",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3524,7 +3524,7 @@ var _card = [
         },
         {
             "_id": 3603,
-            "Name": "Geo Samachurl",
+            "Name": "ヒルチャールシャーマン · 岩",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3546,7 +3546,7 @@ var _card = [
         },
         {
             "_id": 3602,
-            "Name": "Rockfond Rifthound",
+            "Name": "獣域ハウンド · 岩",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3567,7 +3567,7 @@ var _card = [
         },
         {
             "_id": 3601,
-            "Name": "Rock Shieldwall Mitachurl",
+            "Name": "ヒルチャール暴徒 · 岩盾",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3589,7 +3589,7 @@ var _card = [
         },
         {
             "_id": 3502,
-            "Name": "Fatui Skirmisher - Anemoboxer Vanguard",
+            "Name": "ファデュイ先遣隊 · 前鋒軍 · 風拳",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3614,7 +3614,7 @@ var _card = [
         },
         {
             "_id": 3501,
-            "Name": "Anemo Samachurl",
+            "Name": "ヒルチャールシャーマン · 風",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3636,7 +3636,7 @@ var _card = [
         },
         {
             "_id": 3407,
-            "Name": "Fatui Skirmisher - Electrohammer Vanguard",
+            "Name": "ファデュイ先遣隊 · 前鋒軍 · 雷ハンマー",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3659,7 +3659,7 @@ var _card = [
         },
         {
             "_id": 3406,
-            "Name": "Electro Slime",
+            "Name": "雷スライム",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3679,7 +3679,7 @@ var _card = [
         },
         {
             "_id": 3405,
-            "Name": "Nobushi: Kikouban",
+            "Name": "野伏 · 機巧番",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE"
@@ -3703,7 +3703,7 @@ var _card = [
         },
         {
             "_id": 3404,
-            "Name": "Electro Abyss Mage",
+            "Name": "アビスの魔術師 · 雷",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3725,7 +3725,7 @@ var _card = [
         },
         {
             "_id": 3403,
-            "Name": "Crackling Axe Mitachurl",
+            "Name": "ヒルチャール暴徒 · 雷斧",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3747,7 +3747,7 @@ var _card = [
         },
         {
             "_id": 3402,
-            "Name": "Electro Hilichurl Shooter",
+            "Name": "ヒルチャール · 雷矢",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3768,7 +3768,7 @@ var _card = [
         },
         {
             "_id": 3401,
-            "Name": "Kairagi: Dancing Thunder",
+            "Name": "海乱鬼 · 雷騰",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3793,7 +3793,7 @@ var _card = [
         },
         {
             "_id": 3306,
-            "Name": "Fatui Skirmisher - Pyroslinger Bracer",
+            "Name": "ファデュイ先遣隊 · 遊撃兵 · 炎銃",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3815,7 +3815,7 @@ var _card = [
         },
         {
             "_id": 3305,
-            "Name": "Nobushi: Hitsukeban",
+            "Name": "野伏 · 火付番",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE"
@@ -3839,7 +3839,7 @@ var _card = [
         },
         {
             "_id": 3304,
-            "Name": "Hilichurl Berserker",
+            "Name": "ヒルチャール · 突進",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3860,7 +3860,7 @@ var _card = [
         },
         {
             "_id": 3303,
-            "Name": "Kairagi: Fiery Might",
+            "Name": "海乱鬼 · 炎威",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3885,7 +3885,7 @@ var _card = [
         },
         {
             "_id": 3302,
-            "Name": "Blazing Axe Mitachurl",
+            "Name": "ヒルチャール暴徒 · 炎斧",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3907,7 +3907,7 @@ var _card = [
         },
         {
             "_id": 3301,
-            "Name": "Pyro Abyss Mage",
+            "Name": "アビスの魔術師 · 炎",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3929,7 +3929,7 @@ var _card = [
         },
         {
             "_id": 3205,
-            "Name": "Grounded Hydroshroom",
+            "Name": "トコトコ水マッシュロン",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3952,7 +3952,7 @@ var _card = [
         },
         {
             "_id": 3204,
-            "Name": "Hydro Slime",
+            "Name": "水スライム",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3972,7 +3972,7 @@ var _card = [
         },
         {
             "_id": 3203,
-            "Name": "Fatui Skirmisher - Hydrogunner Legionnaire",
+            "Name": "ファデュイ先遣隊 · 重衛士 · 水銃",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3995,7 +3995,7 @@ var _card = [
         },
         {
             "_id": 3202,
-            "Name": "Hydro Samachurl",
+            "Name": "ヒルチャールシャーマン · 水",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -4017,7 +4017,7 @@ var _card = [
         },
         {
             "_id": 3201,
-            "Name": "Hydro Abyss Mage",
+            "Name": "アビスの魔術師 · 水",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -4039,7 +4039,7 @@ var _card = [
         },
         {
             "_id": 3105,
-            "Name": "Winged Cryoshroom",
+            "Name": "パタパタ氷マッシュロン",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -4062,7 +4062,7 @@ var _card = [
         },
         {
             "_id": 3104,
-            "Name": "Fatui Skirmisher - Cryogunner Legionnaire",
+            "Name": "ファデュイ先遣隊 · 重衛士 · 氷銃",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -4085,7 +4085,7 @@ var _card = [
         },
         {
             "_id": 3103,
-            "Name": "Cryo Abyss Mage",
+            "Name": "アビスの魔術師 · 氷",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -4107,7 +4107,7 @@ var _card = [
         },
         {
             "_id": 3102,
-            "Name": "Cryo Hilichurl Shooter",
+            "Name": "ヒルチャール · 氷矢",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -4128,7 +4128,7 @@ var _card = [
         },
         {
             "_id": 3101,
-            "Name": "Ice Shieldwall Mitachurl",
+            "Name": "ヒルチャール暴徒 · 氷盾",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -4151,7 +4151,7 @@ var _card = [
         },
         {
             "_id": 3003,
-            "Name": "Nobushi: Jintouban",
+            "Name": "野伏 · 陣刀番",
             "Tag": [
                 "GCG_TAG_ELEMENT_NONE",
                 "GCG_TAG_WEAPON_NONE"
@@ -4174,7 +4174,7 @@ var _card = [
         },
         {
             "_id": 3002,
-            "Name": "Hilichurl Shooter",
+            "Name": "ヒルチャール · 射手",
             "Tag": [
                 "GCG_TAG_ELEMENT_NONE",
                 "GCG_TAG_WEAPON_NONE",
@@ -4195,7 +4195,7 @@ var _card = [
         },
         {
             "_id": 3001,
-            "Name": "Hilichurl Fighter",
+            "Name": "ヒルチャール · 戦士",
             "Tag": [
                 "GCG_TAG_ELEMENT_NONE",
                 "GCG_TAG_WEAPON_NONE",
@@ -4218,8 +4218,8 @@ var _card = [
     [
         {
             "_id": 323007,
-            "Name": "Lumenstone Adjuvant",
-            "Desc": "<color style='color:#FFFFFFFF'>After you play an Action Card:</color> If, while this card is on the field, you have already played 3 Action Cards this Round, draw 1 card and create 1 Omni Die. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+            "Name": "流明石の触媒",
+            "Desc": "<color style='color:#FFFFFFFF'>味方がアクションカードを使用した後</color>、このカードがフィールドに存在する間に、本ラウンドにおいて味方がアクションカードをすでに3枚使用していた場合、手札を1枚引き、万能元素サイコロを1個生成する。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：3</color>",
             "Tag": [
                 "GCG_TAG_ITEM"
             ],
@@ -4234,8 +4234,8 @@ var _card = [
         },
         {
             "_id": 321018,
-            "Name": "Fortress of Meropide",
-            "Desc": "<color style='color:#FFFFFFFF'>When your active character takes DMG or is healed:</color> This card gains 1 \"Prohibition\" point. (Maximum 4 points)<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> If this card has accumulated 4 \"Prohibition\" points, then 4 points will be consumed and 1 <color style='color:#FFFFFFFF'>Strictly Prohibited</color> will be created in your opponent's playing field. (1 Event Card played by your opponent this Round will have no effect.)",
+            "Name": "メロピデ要塞",
+            "Desc": "<color style='color:#FFFFFFFF'>味方の出撃キャラがダメージ、または治療効果を受けた後</color>、このカードは「禁令」を1蓄積する。（最大4まで蓄積可能）<br><color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>「禁令」を4蓄積していた場合、「禁令」を4消費し、相手のフィールドに<color style='color:#FFFFFFFF'>厳たる禁令</color>を生成する。（本ラウンドで使用するイベントカードを1枚無効化する）",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4250,8 +4250,8 @@ var _card = [
         },
         {
             "_id": 423049,
-            "Name": "Mastery Talisman: Sharp Focus",
-            "Desc": "Elemental DMG dealt by your characters' Normal Attacks +1.<br><color style='color:#FFFFFFFF'>After your active character takes DMG or is healed 3 times this Round:</color> Create 3 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. (Once per Round)",
+            "Name": "機巧符呪 · 鋭気集中",
+            "Desc": "味方キャラの通常攻撃で与える元素ダメージ+1。<br><color style='color:#FFFFFFFF'>本ラウンドで味方の出撃キャラがダメージまたは治療を3回受けた後</color>、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を3個生成する。（各ラウンドで1回のみ）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -4262,8 +4262,8 @@ var _card = [
         },
         {
             "_id": 423048,
-            "Name": "Mastery Talisman: Stalwart Frontline",
-            "Desc": "DMG dealt by your Summons +1.<br><color style='color:#FFFFFFFF'>When you declare the end of your Round:</color> Create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> at the start of the next Round's Action Phase for each Summon on your side of the field.",
+            "Name": "機巧符呪 · 強固な戦線",
+            "Desc": "味方の召喚物の与えるダメージ+1。<br><color style='color:#FFFFFFFF'>味方がラウンド終了宣言をする時</color>、味方のフィールドに召喚物が1体存在するごとに、次のラウンドのアクションフェーズ開始時に<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を1個生成する。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -4274,8 +4274,8 @@ var _card = [
         },
         {
             "_id": 423047,
-            "Name": "Mastery Talisman: Formation Assault",
-            "Desc": "<color style='color:#FFFFFFFF'>When your character uses an Elemental Burst:</color> Spend 3 less Elemental Dice. (Once per Round)<br><color style='color:#FFFFFFFF'>After your characters take DMG or are healed:</color> This card gains 1 \"Formation\" point. If this card already has 5 \"Formation\" points, consume 5 points, and cause all of your characters to gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.",
+            "Name": "機巧符呪 · 陣形突撃",
+            "Desc": "<color style='color:#FFFFFFFF'>味方のキャラが「元素爆発」を発動する時</color>、必要な元素サイコロの数-3。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'>味方のキャラがダメージまたは治療を受けると</color>、このカードは「陣形」を1蓄積する。すでに「陣形」が5蓄積されていた場合、5消費して、味方のチーム全員が<color style='color:#FFFFFFFF'>[b]1110[a]チャージ</color>を1獲得する。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -4286,8 +4286,8 @@ var _card = [
         },
         {
             "_id": 423046,
-            "Name": "Mastery Talisman: Lightweight Tactics",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play an Action Card:</color> Spend 1 less Elemental Die and create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. (Up to 3 times per Round)",
+            "Name": "機巧符呪 · 軽量戦法",
+            "Desc": "<color style='color:#FFFFFFFF'>味方がアクションカードを使用する時</color>、必要な元素サイコロの数-1、かつ<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を1個生成する。（各ラウンドで3回のみ発動可能）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -4298,8 +4298,8 @@ var _card = [
         },
         {
             "_id": 323006,
-            "Name": "Memento Lens",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3003[a]Weapon/[b]3004[a]Artifact/[b]3104[a]Location/[b]3103[a]Companion card:</color> If you have played a card with the same name previously during this match, spend 2 less Elemental Dice to play it. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "追憶のレンズ",
+            "Desc": "<color style='color:#FFFFFFFF'>味方が手札の「[b]3003[a]武器」/「[b]3004[a]聖遺物」/「[b]3104[a]フィールド」/「[b]3103[a]仲間」を使用する時</color>、本対戦において、味方が同じカードを使用したことがあれば、必要な元素サイコロの数-2。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：2</color>",
             "Tag": [
                 "GCG_TAG_ITEM"
             ],
@@ -4314,8 +4314,8 @@ var _card = [
         },
         {
             "_id": 323005,
-            "Name": "Seed Dispensary",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play an Equipment or Support Card with an original cost of 1 Elemental Die: </color>Spend 1 less Elemental Die. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "種の匣",
+            "Desc": "<color style='color:#FFFFFFFF'>味方が手札から元素サイコロのコストが初期状態で1の装備カードまたは支援カードを使用する時</color>、必要な元素サイコロの数-1。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：2</color>",
             "Tag": [
                 "GCG_TAG_ITEM"
             ],
@@ -4328,8 +4328,8 @@ var _card = [
         },
         {
             "_id": 323004,
-            "Name": "Treasure-Seeking Seelie",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character uses a skill:</color> This card will accumulate 1 <color style='color:#FFFFFFFF'>Treasure Clue</color>.<br>If this card has stored 3 <color style='color:#FFFFFFFF'>Treasure Clues</color>, then discard this card and draw 3 cards.",
+            "Name": "宝探し仙霊",
+            "Desc": "<color style='color:#FFFFFFFF'>味方のキャラがスキルを発動した後</color>、このカードに<color style='color:#FFFFFFFF'>「宝探し手がかり」</color>を1つ重ねる。3つの<color style='color:#FFFFFFFF'>「宝探し手がかり」</color>が重なった時、このカードを破棄し、手札を3枚引く。",
             "Tag": [
                 "GCG_TAG_ITEM"
             ],
@@ -4342,8 +4342,8 @@ var _card = [
         },
         {
             "_id": 323003,
-            "Name": "Red Feather Fan",
-            "Desc": "<color style='color:#FFFFFFFF'>After you switch characters:</color> The next Switch Character action you perform this Round will be considered a <color style='color:#FFFFFFFF'>Fast Action</color> instead of a <color style='color:#FFFFFFFF'>Combat Action</color>. It will also cost 1 less Elemental Die. (Once per Round)",
+            "Name": "赤羽団扇",
+            "Desc": "<color style='color:#FFFFFFFF'>味方がキャラチェンジした後：</color>本ラウンドで、味方が次にキャラチェンジを行う時、それが「<color style='color:#FFFFFFFF'>戦闘アクション</color>」ではなく、「<color style='color:#FFFFFFFF'>クイックアクション</color>」とみなされる。さらに必要な元素サイコロの数-1。（各ラウンドで1回のみ）",
             "Tag": [
                 "GCG_TAG_ITEM"
             ],
@@ -4359,8 +4359,8 @@ var _card = [
         },
         {
             "_id": 323002,
-            "Name": "NRE",
-            "Desc": "<color style='color:#FFFFFFFF'>When played:</color> Draw 1 random [b]3101[a]Food Event Card from your deck.<br><color style='color:#FFFFFFFF'>When you play a [b]3101[a]Food Event Card:</color> Draw 1 random [b]3101[a]Food Event Card from your deck (once per Round).",
+            "Name": "携帯式栄養袋",
+            "Desc": "<color style='color:#FFFFFFFF'>登場時</color>、デッキからランダムで「[b]3101[a]料理」イベントカードを1枚引く。<br><color style='color:#FFFFFFFF'>味方が「[b]3101[a]料理」イベントカードを使用した時</color>、デッキからランダムで「[b]3101[a]料理」イベントカードを1枚引く。（各ラウンドで1回のみ）",
             "Tag": [
                 "GCG_TAG_ITEM"
             ],
@@ -4373,8 +4373,8 @@ var _card = [
         },
         {
             "_id": 323001,
-            "Name": "Parametric Transformer",
-            "Desc": "<color style='color:#FFFFFFFF'>When either side uses a Skill:</color> If Elemental DMG was dealt, this card gains 1 <color style='color:#FFFFFFFF'>Qualitative Progress</color>.<br>If this card has gained 3 <color style='color:#FFFFFFFF'>Qualitative Progress</color>, then discard this card and create 3 different Basic Elemental Dice.",
+            "Name": "参量物質変化器",
+            "Desc": "<color style='color:#FFFFFFFF'>双方のキャラがスキルを発動した後</color>、元素ダメージを与えた場合、このカードに<color style='color:#FFFFFFFF'>「物質変化進捗」</color>を1つ重ねる。3つの<color style='color:#FFFFFFFF'>「物質変化進捗」</color>を重ねた時、このカードを破棄し、元素タイプの異なる基本元素サイコロを3個生成する。",
             "Tag": [
                 "GCG_TAG_ITEM"
             ],
@@ -4387,8 +4387,8 @@ var _card = [
         },
         {
             "_id": 322023,
-            "Name": "Silver and Melus",
-            "Desc": "This card will record the number of types of Elemental DMG opposing characters have taken during this match as points of Attendant's Attentiveness. (Max 4 points)<br><color style='color:#FFFFFFFF'>End Phase:</color> If you have at least 3 Attendant's Attentiveness points, discard this card and draw cards equal to the amount of Attendant's Attentiveness points.",
+            "Name": "シルヴァとマルシラック",
+            "Desc": "このカードは、本対戦で相手のキャラが受けた元素ダメージの種類を「侍従の用意周到」として記録する。（最大4まで重ねられる）<br><color style='color:#FFFFFFFF'>エンドフェーズ：</color>「侍従の用意周到」が3以上の場合、このカードを破棄し、「侍従の用意周到」と同じ数の手札を引く。",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4401,8 +4401,8 @@ var _card = [
         },
         {
             "_id": 322022,
-            "Name": "Jeht",
-            "Desc": "This card will record the number of cards discarded from your Support Zone during this match as Sophistication points. (Max 6 points)<br><color style='color:#FFFFFFFF'>After your characters use an Elemental Burst:</color> If this card has recorded at least 5 Sophistication points, discard this card and generate <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> equal to the number of <color style='color:#FFFFFFFF'>Sophistication points minus 2</color>.",
+            "Name": "ジェイド",
+            "Desc": "このカードは、本対戦で味方の支援エリアに破棄されたカードの数を「見聞」として記録する。（最大6まで重ねられる）<br><color style='color:#FFFFFFFF'>味方キャラが「元素爆発」を発動した後</color>、「見聞」が5以上の場合、このカードを破棄し、<color style='color:#FFFFFFFF'>「見聞」-2</color>個分の<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を生成する。",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4417,8 +4417,8 @@ var _card = [
         },
         {
             "_id": 322021,
-            "Name": "Mamere",
-            "Desc": "<color style='color:#FFFFFFFF'>After you play a [b]3101[a]Food/[b]3104[a]Location/[b]3103[a]Companion/[b]3102[a]Item Action Card other than Mamere:</color> Randomly create 1 [b]3101[a]Food/[b]3104[a]Location/[b]3103[a]Companion/[b]3102[a]Item Action Card other than Mamere, and add it to your hand. (Once per Round).<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+            "Name": "マメール",
+            "Desc": "<color style='color:#FFFFFFFF'>味方が「マメール」以外の「[b]3101[a]料理」/「[b]3104[a]フィールド」/「[b]3103[a]仲間」/「[b]3102[a]アイテム」アクションカードを使用した後</color>、ランダムに「マメール」以外の「[b]3101[a]料理」/「[b]3104[a]フィールド」/「[b]3103[a]仲間」/「[b]3102[a]アイテム」アクションカードを1枚生成し、手札に加える。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：3</color>",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4431,8 +4431,8 @@ var _card = [
         },
         {
             "_id": 322020,
-            "Name": "Yayoi Nanatsuki",
-            "Desc": "<color style='color:#FFFFFFFF'>When playing an [b]3004[a]Artifact card:</color> Spend 1 less Elemental Die. On top of that, for each of your characters already equipped with an [b]3004[a]Artifact on the field, you spend 1 less Elemental Die (once per Round).",
+            "Name": "弥生七月",
+            "Desc": "<color style='color:#FFFFFFFF'>味方が手札から「[b]3004[a]聖遺物」のカードを使用する時</color>、必要な元素サイコロの数-1。味方のフィールドに「[b]3004[a]聖遺物」を装備したキャラが1体いるごとに、必要な元素サイコロの数が追加で-1。（各ラウンドで1回のみ）",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4445,8 +4445,8 @@ var _card = [
         },
         {
             "_id": 322019,
-            "Name": "Setaria",
-            "Desc": "<color style='color:#FFFFFFFF'>After you perform any action, if you have 0 cards in your hand: </color>Draw 1 card.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+            "Name": "セタレ",
+            "Desc": "<color style='color:#FFFFFFFF'>味方が任意のアクションをした後、手札の数が0の場合</color>、手札を1枚引く。<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>:3</color>",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4461,8 +4461,8 @@ var _card = [
         },
         {
             "_id": 322018,
-            "Name": "Master Zhang",
-            "Desc": "<color style='color:#FFFFFFFF'>When playing a [b]3003[a]Weapon card:</color> Spend 1 less Elemental Die. On top of that, for each of your characters already equipped with a [b]3003[a]Weapon on the field, you spend 1 less Elemental Die. (Once per Round.)",
+            "Name": "章",
+            "Desc": "<color style='color:#FFFFFFFF'>味方が手札から「[b]3003[a]武器」のカードを使用する時</color>、必要な元素サイコロの数-1。味方のフィールドに「[b]3003[a]武器」を装備したキャラが1体いるごとに、必要な元素サイコロの数が追加で-1。（各ラウンドで1回のみ）",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4475,8 +4475,8 @@ var _card = [
         },
         {
             "_id": 322017,
-            "Name": "Rana",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character uses an Elemental Skill:</color> Create 1 Elemental Die of the same Type as your next off-field character. (Once per Round)",
+            "Name": "ラナ",
+            "Desc": "<color style='color:#FFFFFFFF'>味方のキャラが「元素スキル」を発動した後</color>、味方の次の待機キャラの元素タイプに応じた元素サイコロが1個生成される。（各ラウンドで1回のみ）",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4489,8 +4489,8 @@ var _card = [
         },
         {
             "_id": 322016,
-            "Name": "Dunyarzad",
-            "Desc": "<color style='color:#FFFFFFFF'>When playing a [b]3103[a]Companion Support Card:</color> Spend 1 less Elemental Die (once per Round).<br><color style='color:#FFFFFFFF'>After playing a [b]3103[a]Companion Support Card:</color>Draw 1 random [b]3103[a]Companion Support Card from your deck (once per match).",
+            "Name": "ドニアザード",
+            "Desc": "<color style='color:#FFFFFFFF'>「[b]3103[a]仲間」支援カードを使用する時</color>、必要な元素サイコロの数-1。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'>「[b]3103[a]仲間」支援カードを使用した後</color>、デッキからランダムで「[b]3103[a]仲間」支援カードを1枚引く。（各対戦ごとに1回まで）",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4503,8 +4503,8 @@ var _card = [
         },
         {
             "_id": 322015,
-            "Name": "Xudong",
-            "Desc": "<color style='color:#FFFFFFFF'>When playing a [b]3101[a]Food Event Card:</color> Spend 2 less Elemental Dice. (Once per Round)",
+            "Name": "旭東",
+            "Desc": "<color style='color:#FFFFFFFF'>「[b]3101[a]料理」イベントカードを使用する時</color>、必要な元素サイコロの数-2。（各ラウンドで1回のみ）",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4517,8 +4517,8 @@ var _card = [
         },
         {
             "_id": 322014,
-            "Name": "Kid Kujirai",
-            "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase begins:</color> Create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. Then if your opponent's Support Zone is not full, transfer this card to your opponent's Support Zone.",
+            "Name": "鯨井坊や",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color><color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を1個生成する。相手の支援エリアがまだ空いている場合、このカードを相手の支援エリアに移動する。",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4531,8 +4531,8 @@ var _card = [
         },
         {
             "_id": 322013,
-            "Name": "Hanachirusato",
-            "Desc": "<color style='color:#FFFFFFFF'>When a Summon disappears:</color> This card gains 1 <color style='color:#FFFFFFFF'>Cleansing Ritual Progress</color>. (Max 3)<br><color style='color:#FFFFFFFF'>When you play a [b]3003[a]Weapon or [b]3004[a]Artifact Card:</color> If you already have 3 <color style='color:#FFFFFFFF'>Cleansing Ritual Progress</color>, discard this card and cause the card you play to cost 2 less Elemental Dice.",
+            "Name": "花散里",
+            "Desc": "<color style='color:#FFFFFFFF'>召喚物が消える時：</color>このカードに<color style='color:#FFFFFFFF'>「大祓」の進捗</color>を1蓄積する。（最大3まで重ねられる）<br><color style='color:#FFFFFFFF'>味方が「[b]3003[a]武器」または「[b]3004[a]聖遺物」の装備カードを使用する時</color>、<color style='color:#FFFFFFFF'>「大祓」の進捗</color>が3に達していると、このカードを破棄し、使用するカードに必要な元素サイコロの数-2。",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4543,8 +4543,8 @@ var _card = [
         },
         {
             "_id": 322012,
-            "Name": "Liu Su",
-            "Desc": "<color style='color:#FFFFFFFF'>After you switch characters:</color> If the character you switched to does not have <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>, they will gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "劉蘇",
+            "Desc": "<color style='color:#FFFFFFFF'>味方がキャラチェンジした後、</color>変更後のキャラが<color style='color:#FFFFFFFF'>[b]1110[a]チャージ</color>を有していない場合、該当キャラは<color style='color:#FFFFFFFF'>[b]1110[a]チャージ</color>を1獲得する。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：2</color>",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4560,8 +4560,8 @@ var _card = [
         },
         {
             "_id": 322011,
-            "Name": "Iron Tongue Tian",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> One of your characters without maximum Energy gains 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>. (Active Character prioritized)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "田饒舌",
+            "Desc": "<color style='color:#FFFFFFFF'>エンドフェーズ：</color>味方のうち、チャージがMaxになっていないキャラ1体が<color style='color:#FFFFFFFF'>[b]1110[a]チャージ</color>を1獲得する。（出撃キャラ優先）<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：2</color>",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4577,8 +4577,8 @@ var _card = [
         },
         {
             "_id": 322010,
-            "Name": "Ellin",
-            "Desc": "<color style='color:#FFFFFFFF'>When you use a Skill that has already been used in this Round:</color> Spend 1 less Elemental Die. (Once per Round)",
+            "Name": "エリン",
+            "Desc": "<color style='color:#FFFFFFFF'>味方のキャラが本ラウンドで発動済みのスキルを再び発動する時</color>、必要な元素サイコロの数-1。（各ラウンドで1回のみ）",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4591,8 +4591,8 @@ var _card = [
         },
         {
             "_id": 322009,
-            "Name": "Chang the Ninth",
-            "Desc": "<color style='color:#FFFFFFFF'>After either side uses a Skill:</color> If [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> or <color style='color:#FFFFFFFF'>Piercing DMG</color> was dealt, or an <color style='color:#FFFFFFFF'>Elemental Reaction</color> was triggered, this card gains 1 <color style='color:#FFFFFFFF'>Inspiration</color>.<br>When this card gains 3 <color style='color:#FFFFFFFF'>Inspiration</color>, then discard this card and draw 2 cards.",
+            "Name": "常九",
+            "Desc": "<color style='color:#FFFFFFFF'>双方のキャラがスキルを発動した後</color>、[b]2100[a]<color style='color:#FFFFFFFF'>物理ダメージ</color>、<color style='color:#FFFFFFFF'>貫通ダメージ</color>を与える、または<color style='color:#FFFFFFFF'>元素反応</color>を起こした場合、このカードに<color style='color:#FFFFFFFF'>「アイデア」</color>を1つ重ねる。3つの<color style='color:#FFFFFFFF'>「アイデア」</color>を重ねた時、このカードを破棄し、手札を2枚引く。",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4606,8 +4606,8 @@ var _card = [
         },
         {
             "_id": 322008,
-            "Name": "Liben",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Collect your unused Elemental Dice (Max 1 of each Elemental Type).<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> If this card has collected 3 Elemental Dice, draw 2 cards and create <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> ×2, then discard this card.",
+            "Name": "立本",
+            "Desc": "<color style='color:#FFFFFFFF'>エンドフェーズ：</color>味方の未使用の元素サイコロ（各種最大1個）を集める。<br><color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>3個の元素サイコロを集めたとき、手札を2枚引き、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を2個獲得する。その後、このカードを破棄する。",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4620,8 +4620,8 @@ var _card = [
         },
         {
             "_id": 322007,
-            "Name": "Timmie",
-            "Desc": "<color style='color:#FFFFFFFF'>Triggers automatically once per Round:</color> This card gains 1 <color style='color:#FFFFFFFF'>Pigeon</color>. When this card gains 3 <color style='color:#FFFFFFFF'>Pigeons</color>, discard this card, then draw 1 card and create <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> ×1.",
+            "Name": "ティミー",
+            "Desc": "<color style='color:#FFFFFFFF'>各ラウンドで自動的に1回発動される：</color>このカードに<color style='color:#FFFFFFFF'>「ハト」</color>を1羽重ねる。3羽の<color style='color:#FFFFFFFF'>「ハト」</color>を重ねた時、このカードは破棄される。同時に手札を1枚引き、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を1個獲得する。",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4634,8 +4634,8 @@ var _card = [
         },
         {
             "_id": 322006,
-            "Name": "Tubby",
-            "Desc": "<color style='color:#FFFFFFFF'>When playing a [b]3104[a]Location Support Card:</color> Spend 2 less Elemental Dice. (Once per Round)",
+            "Name": "マル",
+            "Desc": "<color style='color:#FFFFFFFF'>「[b]3104[a]フィールド」支援カードを使用する時</color>、必要な元素サイコロの数-2。（各ラウンドで1回のみ）",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4648,8 +4648,8 @@ var _card = [
         },
         {
             "_id": 322005,
-            "Name": "Chef Mao",
-            "Desc": "<color style='color:#FFFFFFFF'>After playing a [b]3101[a]Food Event Card:</color> Create 1 random Basic Elemental Die (once per Round).<br><color style='color:#FFFFFFFF'>After playing a [b]3101[a]Food Event Card:</color>Draw 1 random [b]3101[a]Food Event Card from your deck (once per match).",
+            "Name": "卯師匠",
+            "Desc": "<color style='color:#FFFFFFFF'>「[b]3101[a]料理」イベントカードを使用した後</color>、基本元素サイコロをランダムで1個生成する。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'>「[b]3101[a]料理」イベントカードを使用した後</color>、デッキからランダムで「[b]3101[a]料理」イベントカードを1枚引く。（各対戦ごとに1回まで）",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4662,8 +4662,8 @@ var _card = [
         },
         {
             "_id": 322004,
-            "Name": "Wagner",
-            "Desc": "<color style='color:#FFFFFFFF'>When played:</color> Comes with 2 <color style='color:#FFFFFFFF'>Forging Billets</color>. If your deck originally includes at least 3 different types of [b]3003[a]Weapons, you will randomly also draw 1 [b]3003[a]Weapon Card from your deck.<br><color style='color:#FFFFFFFF'>End Phase:</color> This card will gain 1 <color style='color:#FFFFFFFF'>Forging Billet</color>.<br><color style='color:#FFFFFFFF'>When playing a [b]3003[a]Weapon Card:</color> If possible, spend <color style='color:#FFFFFFFF'>Forging Billets</color> equal to the total cost of the [b]3003[a]Weapon and equip this [b]3003[a]Weapon for free. (Once per Round)",
+            "Name": "ワーグナー",
+            "Desc": "<color style='color:#FFFFFFFF'>登場時</color>、このカードは<color style='color:#FFFFFFFF'>「鍛造原型」</color>を2つ持ち込む。味方のデッキ内に最初から異なる3種類以上の「[b]3003[a]武器」が含まれている場合、デッキからランダムに「[b]3003[a]武器」カードを1枚引く。<br><color style='color:#FFFFFFFF'>エンドフェーズ：</color>このカードは<color style='color:#FFFFFFFF'>「鍛造原型」</color>を1つ補充する。<br><color style='color:#FFFFFFFF'>手札から「[b]3003[a]武器」のカードを使用する時</color>、可能であれば、「[b]3003[a]武器」の総コストに相当する<color style='color:#FFFFFFFF'>「鍛造原型」</color>を支払うことで、「[b]3003[a]武器」をコストなしで装備できるようになる。（各ラウンドで1回のみ）",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4676,8 +4676,8 @@ var _card = [
         },
         {
             "_id": 322003,
-            "Name": "Timaeus",
-            "Desc": "<color style='color:#FFFFFFFF'>When played: </color>Comes with 2 <color style='color:#FFFFFFFF'>Transmutation Materials</color>. If your deck originally includes at least 6 [b]3004[a]Artifact cards, you will randomly also draw 1 [b]3004[a]Artifact Card from your deck.<br><color style='color:#FFFFFFFF'>End Phase:</color> This card will gain 1 <color style='color:#FFFFFFFF'>Transmutation Material</color>.<br><color style='color:#FFFFFFFF'>When playing an [b]3004[a]Artifact Card:</color> If possible, spend <color style='color:#FFFFFFFF'>Transmutation Materials</color> equal to the total cost of the [b]3004[a]Artifact and equip this [b]3004[a]Artifact for free. (Once per Round)",
+            "Name": "ティマイオス",
+            "Desc": "<color style='color:#FFFFFFFF'>登場時</color>、このカードは<color style='color:#FFFFFFFF'>「合成材料」</color>を2つ持ち込む。味方のデッキ内に最初から6枚以上の「[b]3004[a]聖遺物」が含まれている場合、デッキからランダムに「[b]3004[a]聖遺物」カードを1枚引く。<br><color style='color:#FFFFFFFF'>エンドフェーズ：</color><color style='color:#FFFFFFFF'>このカードは「合成材料」</color>を1つ補充する。<br><color style='color:#FFFFFFFF'>手札から「[b]3004[a]聖遺物」のカードを使用する時</color>、可能であれば、「[b]3004[a]聖遺物」の総コストに相当する<color style='color:#FFFFFFFF'>「合成材料」</color>を支払うことで、「[b]3004[a]聖遺物」をコストなしで装備できるようになる。（各ラウンドで1回のみ）",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4690,8 +4690,8 @@ var _card = [
         },
         {
             "_id": 322002,
-            "Name": "Katheryne",
-            "Desc": "<color style='color:#FFFFFFFF'>When you perform \"Switch Character\":</color> This switch is considered a <color style='color:#FFFFFFFF'>Fast Action</color> instead of a <color style='color:#FFFFFFFF'>Combat Action</color>. (Once per Round)",
+            "Name": "キャサリン",
+            "Desc": "<color style='color:#FFFFFFFF'>味方がキャラチェンジを行う時</color>、それが「<color style='color:#FFFFFFFF'>戦闘アクション</color>」ではなく、「<color style='color:#FFFFFFFF'>クイックアクション</color>」とみなされる。（各ラウンドで1回のみ）",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4707,8 +4707,8 @@ var _card = [
         },
         {
             "_id": 322001,
-            "Name": "Paimon",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Create <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> ×2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "パイモン",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color><color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を2個生成する。<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：2</color>",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4724,8 +4724,8 @@ var _card = [
         },
         {
             "_id": 321017,
-            "Name": "Opera Epiclese",
-            "Desc": "<color style='color:#FFFFFFFF'>Before you choose an action:</color> If the original Elemental Dice cost of the cards equipped to your characters is not less than that of the opposing side, create 1 Elemental Die of your active character's element. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+            "Name": "エピクレシス歌劇場",
+            "Desc": "<color style='color:#FFFFFFFF'>味方がアクションをする前に</color>、装備しているカードの初期状態の元素サイコロの合計コストを味方キャラと相手キャラで比較し、その数値が相手より下回っていなければ、出撃キャラの元素タイプに応じた元素サイコロが1個生成される。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：3</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4740,8 +4740,8 @@ var _card = [
         },
         {
             "_id": 321016,
-            "Name": "Weeping Willow of the Lake",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> If your Hand has no more than 2 cards, draw 2 cards.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "湖中のウィーピングウィロー",
+            "Desc": "<color style='color:#FFFFFFFF'>エンドフェーズ：</color>味方の手札の数が2枚以下の場合、手札を2枚引く。<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：2</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4756,8 +4756,8 @@ var _card = [
         },
         {
             "_id": 321015,
-            "Name": "Stormterror's Lair",
-            "Desc": "<color style='color:#FFFFFFFF'>When played:</color> Draw a random [b]3006[a]Talent card from your deck.<br><color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card, or when your character uses a Skill with an original cost of at least 4 Elemental Dice: </color>Spend 1 less Elemental Die. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+            "Name": "風龍廃墟",
+            "Desc": "<color style='color:#FFFFFFFF'>登場時</color>、デッキからランダムで「[b]3006[a]天賦」カードを1枚引く。<br><color style='color:#FFFFFFFF'>味方が「[b]3006[a]天賦」カードを使用、あるいは味方キャラが必要な元素サイコロの数が本来4以上であるスキルを発動する時</color>、必要な元素サイコロの数-1。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：3</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4772,8 +4772,8 @@ var _card = [
         },
         {
             "_id": 321014,
-            "Name": "Gandharva Ville",
-            "Desc": "<color style='color:#FFFFFFFF'>Before you choose your action, when the number of Elemental Dice you have is 0:</color> Create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> (once per Round).<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+            "Name": "ガンダルヴァー村",
+            "Desc": "<color style='color:#FFFFFFFF'>味方がアクションをする前に、残り元素サイコロの数が0の時</color>、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を1個生成する。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：3</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4789,8 +4789,8 @@ var _card = [
         },
         {
             "_id": 321013,
-            "Name": "Golden House",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3003[a]Weapon card or an [b]3004[a]Artifact card with an original cost of at least 3: </color>Spend 1 less Elemental Die. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "黄金屋",
+            "Desc": "<color style='color:#FFFFFFFF'>味方が手札から元素サイコロのコストが初期状態で3以上の「[b]3003[a]武器」または「[b]3004[a]聖遺物」のカードを使用する時</color>、必要な元素サイコロの数-1。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：2</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4803,8 +4803,8 @@ var _card = [
         },
         {
             "_id": 321012,
-            "Name": "Chinju Forest",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> If you do not start first, create 1 Elemental Die that matches the Type of your active character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+            "Name": "鎮守の森",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>味方が「先手プレイヤー」ではない場合、出撃キャラの元素タイプに応じた元素サイコロが1個生成される。<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：3</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4819,8 +4819,8 @@ var _card = [
         },
         {
             "_id": 321011,
-            "Name": "Vanarana",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Collect up to 2 unused Elemental Dice.<br><color style='color:#FFFFFFFF'>When the Action Phase begins:</color> Reclaim the dice you collected using this card.",
+            "Name": "ヴァナラーナ",
+            "Desc": "<color style='color:#FFFFFFFF'>エンドフェーズ：</color>未使用の元素サイコロを最大2個集める。<br><color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>このカードが集めた元素サイコロを取り出す。",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4831,8 +4831,8 @@ var _card = [
         },
         {
             "_id": 321010,
-            "Name": "Sumeru City",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or your character uses a Skill:</color> If you do not have more Elemental Dice than cards in your hand, spend 1 less Elemental Die. (Once per Round)",
+            "Name": "スメールシティ",
+            "Desc": "<color style='color:#FFFFFFFF'>味方キャラが「[b]3006[a]天賦」を使用する時、または味方キャラがスキルを発動する時</color>、味方の元素サイコロの数が手札の数を超えていない場合、必要な元素サイコロの数-1。（各ラウンドで1回のみ）",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4845,8 +4845,8 @@ var _card = [
         },
         {
             "_id": 321009,
-            "Name": "Sangonomiya Shrine",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heal all your characters for 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "珊瑚宮",
+            "Desc": "<color style='color:#FFFFFFFF'>エンドフェーズ：</color>味方のチーム全員のHPを1回復する。<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：2</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4861,8 +4861,8 @@ var _card = [
         },
         {
             "_id": 321008,
-            "Name": "Grand Narukami Shrine",
-            "Desc": "<color style='color:#FFFFFFFF'>Triggers automatically once per Round:</color> Create 1 random Basic Elemental Die.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>：3</color>",
+            "Name": "鳴神大社",
+            "Desc": "<color style='color:#FFFFFFFF'>各ラウンドで自動的に1回発動される：</color>基本元素サイコロをランダムで1つ生成する。<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：3</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4877,8 +4877,8 @@ var _card = [
         },
         {
             "_id": 321007,
-            "Name": "Tenshukaku",
-            "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase begins:</color> If you have 5 different kinds of Elemental Die, create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>.",
+            "Name": "天守閣",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>味方の元素サイコロが5種類ある場合、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を1個生成する。",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4893,8 +4893,8 @@ var _card = [
         },
         {
             "_id": 321006,
-            "Name": "Favonius Cathedral",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heals your active character for 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "西風大聖堂",
+            "Desc": "<color style='color:#FFFFFFFF'>エンドフェーズ：</color>味方の「出撃キャラ」のHPを2回復する。<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：2</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4909,8 +4909,8 @@ var _card = [
         },
         {
             "_id": 321005,
-            "Name": "Wangshu Inn",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heal the most injured character on standby for 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "望舒旅館",
+            "Desc": "<color style='color:#FFFFFFFF'>エンドフェーズ：</color>HPを最も多く失った味方の待機キャラのHPを2回復する。<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：2</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4925,8 +4925,8 @@ var _card = [
         },
         {
             "_id": 321004,
-            "Name": "Dawn Winery",
-            "Desc": "<color style='color:#FFFFFFFF'>When you perform \"Switch Character\":</color> Spend 1 less Elemental Die. (Once per Round)",
+            "Name": "アカツキワイナリー",
+            "Desc": "<color style='color:#FFFFFFFF'>味方がキャラチェンジを行う時</color>、必要な元素サイコロの数-1。（各ラウンドで1回のみ）",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4939,8 +4939,8 @@ var _card = [
         },
         {
             "_id": 321003,
-            "Name": "Jade Chamber",
-            "Desc": "<color style='color:#FFFFFFFF'>Roll Phase</color>: 2 initial Elemental Dice will be of the same Elemental type as your active character.<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> If you have no more than 3 cards in your Hand, discard this card and create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>.",
+            "Name": "群玉閣",
+            "Desc": "<color style='color:#FFFFFFFF'>ロールフェーズ：</color>初期元素サイコロのうち、常に2個が味方の出撃キャラの元素タイプとなる。<br><color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>味方の手札の数が3枚以下の場合、このカードを破棄し、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を1個生成する。",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4953,8 +4953,8 @@ var _card = [
         },
         {
             "_id": 321002,
-            "Name": "Knights of Favonius Library",
-            "Desc": "<color style='color:#FFFFFFFF'>When played:</color> Select any Elemental Dice to reroll.<br><color style='color:#FFFFFFFF'>Roll Phase:</color> Gain another chance to reroll.",
+            "Name": "騎士団図書館",
+            "Desc": "<color style='color:#FFFFFFFF'>登場時</color>、任意の元素サイコロを選択し、リロールできる。<br><color style='color:#FFFFFFFF'>ロールフェーズ：</color>リロール可能回数+1。",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4965,8 +4965,8 @@ var _card = [
         },
         {
             "_id": 321001,
-            "Name": "Liyue Harbor Wharf",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Draw 2 cards.<br><color style='color:#FFFFFFFF'>Usage(s)</color>: 2",
+            "Name": "璃月港口",
+            "Desc": "<color style='color:#FFFFFFFF'>エンドフェーズ：</color>手札を2枚引く。<br><color style='color:#FFFFFFFF'>使用可能回数</color>：2",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4981,8 +4981,8 @@ var _card = [
         },
         {
             "_id": 423045,
-            "Name": "Mastery Talisman: Burst Assault - Ousia",
-            "Desc": "<color style='color:#FFFFFFFF'>When your character uses their Elemental Burst:</color> Spend 3 fewer Elemental Dice. (Once per Round)<br><color style='color:#FFFFFFFF'>When you announce the end of your Round:</color> If your characters have used an Elemental Burst this Round, then deal 1 [b]3504[a]Arkhe: Ousia-aligned <color style='color:#FFFFFFFF'>Piercing DMG</color> to all of your opponent's characters.",
+            "Name": "機巧符呪 · 爆発の勢い · ウーシア",
+            "Desc": "<color style='color:#FFFFFFFF'>味方のキャラが元素爆発を発動する時</color>、必要な元素サイコロの数-3。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'>味方がラウンド終了宣言をする時</color>、味方のキャラが本ラウンドで元素爆発を発動したことがある場合、相手チーム全員に「[b]3504[a]アルケー：ウーシア」を帯びた<color style='color:#FFFFFFFF'>貫通ダメージ</color>を1与える。",
             "Tag": [
                 "GCG_TAG_ARKHE_PNEUMA"
             ],
@@ -4995,8 +4995,8 @@ var _card = [
         },
         {
             "_id": 423044,
-            "Name": "Mastery Talisman: Enhancing Will",
-            "Desc": "<color style='color:#FFFFFFFF'>At the start of the match:</color> Discard this card and create Surging Will. (When you play a Support Card: Create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>, draw 1 card, up to once per Round)",
+            "Name": "機巧符呪 · 意志増強",
+            "Desc": "<color style='color:#FFFFFFFF'>対戦開始時</color>、このカードを破棄すると、意志の増援が生成される。（味方が支援カードを使用する時、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を1個生成し、手札を1枚引く。各ラウンドで1回のみ）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5009,8 +5009,8 @@ var _card = [
         },
         {
             "_id": 423043,
-            "Name": "Mastery Talisman: Damage Control",
-            "Desc": "<color style='color:#FFFFFFFF'>After you play an Action Card:</color> Create an <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> and remove one of your opponent's Multiplied Damage stacks. (Can be triggered up to 3 times per Round)",
+            "Name": "機巧符呪 · 損傷抑制",
+            "Desc": "<color style='color:#FFFFFFFF'>味方がアクションカードを1枚使用した後</color>、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を1個生成し、敵の「多重ダメージ」を1層解除する。（各ラウンドで最大3回まで）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5023,8 +5023,8 @@ var _card = [
         },
         {
             "_id": 423042,
-            "Name": "Mastery Talisman: Winterwind's Whip",
-            "Desc": "<color style='color:#FFFFFFFF'>After an opposing character is Frozen:</color> Create 2 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. (Can be triggered up to twice per Round)",
+            "Name": "機巧符呪 · 冬風の攻勢",
+            "Desc": "<color style='color:#FFFFFFFF'>相手のキャラが凍結反応を受けた後</color>、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を2個生成する。（各ラウンド最大2回まで）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5035,8 +5035,8 @@ var _card = [
         },
         {
             "_id": 423041,
-            "Name": "Elemental Orb: The Grand Banquet",
-            "Desc": "When Action Phase begins: All characters on both sides gain 2 Energy.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+            "Name": "元素オーブ · 盛宴",
+            "Desc": "アクションフェーズ開始時：双方のチーム全員はチャージを2獲得する。<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：1</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5047,8 +5047,8 @@ var _card = [
         },
         {
             "_id": 423040,
-            "Name": "Ingenious Engineering: Pneuma Re-Creation",
-            "Desc": "<color style='color:#FFFFFFFF'>Before you choose your action:</color> If your side has no more than 4 Elemental Dice remaining, create a <color style='color:#FFFFFFFF'>Pneuma Block</color>. (Once per Round)<br><color style='color:#FFFFFFFF'>After a Pneuma-Ousia Annihilation Reaction occurs on an opponent's character:</color> Generate 3 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. (When a character is defeated, a Pneuma-Ousia Annihilation Reaction will not be triggered)",
+            "Name": "奇械巧技 · プネウマの再構築",
+            "Desc": "<color style='color:#FFFFFFFF'>味方がアクションをする前に</color>、味方の残り元素サイコロの数が4個以下の場合、<color style='color:#FFFFFFFF'>プネウマクラスター</color>を生成する。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'>相手のキャラにプネウムシア対消滅を起こした後</color>、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を3個生成する。（キャラを戦闘不能にする攻撃の場合、プネウムシア対消滅は起こらない）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5062,8 +5062,8 @@ var _card = [
         },
         {
             "_id": 423039,
-            "Name": "Ingenious Engineering: Pneuma-Ousia Conversion",
-            "Desc": "<color style='color:#FFFFFFFF'>When battle begins:</color> Create a <color style='color:#FFFFFFFF'>Pneuma Block: Persistent on your side of the field</color>.<br><color style='color:#FFFFFFFF'>After you switch characters:</color> If your side of the field has a Pneuma Block: Persistent, convert it to a Ousia Block: Persistent. If your side of the field has a Ousia Block: Persistent, convert it to a Pneuma Block: Persistent.<br><color style='color:#FFFFFFFF'>After a Pneuma-Ousia Annihilation Reaction occurs on an opponent's character:</color> Create 2 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. (When a character is defeated, a Pneuma-Ousia Annihilation Reaction will not be triggered)",
+            "Name": "奇械巧技 · プネウムシアの切り替え",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘開始時</color>、味方は<color style='color:#FFFFFFFF'>プネウマクラスター · 持続</color>を生成する。<br><color style='color:#FFFFFFFF'>味方がキャラチェンジした後</color>、味方のフィールドにプネウマクラスター · 持続が存在する場合、それをウーシアクラスター · 持続に切り替える。味方のフィールドにウーシアクラスター · 持続が存在する場合、それをプネウマクラスター · 持続に切り替える。<br><color style='color:#FFFFFFFF'>相手のキャラにプネウムシア対消滅を起こした後</color>、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を2個生成する。（キャラを戦闘不能にする攻撃の場合、プネウムシア対消滅は起こらない）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5078,8 +5078,8 @@ var _card = [
         },
         {
             "_id": 423038,
-            "Name": "Ingenious Engineering: Harnessing Annihilation",
-            "Desc": "<color style='color:#FFFFFFFF'>After a Pneuma-Ousia Annihilation Reaction occurs on an opponent's character:</color> Generate 2 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. (When a character is defeated, a Pneuma-Ousia Annihilation Reaction will not be triggered)",
+            "Name": "奇械巧技 · 対消滅の助力",
+            "Desc": "<color style='color:#FFFFFFFF'>相手のキャラにプネウムシア対消滅を起こした後</color>、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を2個生成する。（キャラを戦闘不能にする攻撃の場合、プネウムシア対消滅は起こらない）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5091,8 +5091,8 @@ var _card = [
         },
         {
             "_id": 423037,
-            "Name": "Mastery Talisman: Supplementary Damage",
-            "Desc": "<color style='color:#FFFFFFFF'>After you use a Weapon Card: </color> Create 2 Omni Dice. (Can be triggered up to 2 times per Round)<br><color style='color:#FFFFFFFF'>At the start of the match:</color> Draw 1 random Weapon Card from the deck.",
+            "Name": "機巧符呪 · 付帯する損傷",
+            "Desc": "<color style='color:#FFFFFFFF'>味方が「武器」装備カードを使用する時</color>、万能元素サイコロを2個生成する。（各ラウンド最大2回まで）<br><color style='color:#FFFFFFFF'>対戦開始時</color>、デッキからランダムで「武器」を1枚引く。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5101,8 +5101,8 @@ var _card = [
         },
         {
             "_id": 423036,
-            "Name": "Mastery Talisman: Battle Ready",
-            "Desc": "Your characters with Weapon Cards attached deal +1 DMG.<br><color style='color:#FFFFFFFF'>After your characters use a Skill:</color> If this character has a Weapon Card attached, return the Weapon Card to your Hand, and the next time you play a Weapon Card, spend 2 fewer Elemental Dice. (Each character can trigger this once per Round)",
+            "Name": "機巧符呪 · 戦場整備",
+            "Desc": "武器を装備した味方キャラの与えるダメージ+1。<br><color style='color:#FFFFFFFF'>味方キャラがスキルを発動した後</color>、該当キャラが「武器」カードを装備している場合、それを手札に戻し、味方が次に「武器」カードを装備する時、必要な元素サイコロの数-2。（各キャラはラウンドごとに1回のみ発動可能）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5111,8 +5111,8 @@ var _card = [
         },
         {
             "_id": 423035,
-            "Name": "Mastery Talisman: Verdant Overgrowth",
-            "Desc": "<color style='color:#FFFFFFFF'>After opposing characters receive Bloom DMG:</color> Spend 2 less Elemental Dice when playing your next Action Card. The next time your characters deal [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> or [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color> to your opponent's active character, the DMG is increased by 2.",
+            "Name": "機巧符呪 · 新芽の蔓生",
+            "Desc": "<color style='color:#FFFFFFFF'>相手のキャラが開花反応によるダメージを受けた後</color>、味方が次にアクションカードを使用する時、必要な元素サイコロの数-2。味方が次に相手の出撃キャラに与える[b]2102[a]<color style='color:#80C0FFFF'>水元素ダメージ</color>、または[b]2107[a]<color style='color:#7EC236FF'>草元素ダメージ</color>ダメージ+2。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5124,8 +5124,8 @@ var _card = [
         },
         {
             "_id": 423034,
-            "Name": "Mastery Talisman: Sympathetic Pain",
-            "Desc": "<color style='color:#FFFFFFFF'>When an opposing character is defeated:</color> Deal 2 <color style='color:#FFFFFFFF'>Piercing DMG</color> to all opposing characters.",
+            "Name": "機巧符呪 · 傷兵の効果",
+            "Desc": "<color style='color:#FFFFFFFF'>相手のキャラが戦闘不能になった時</color>、相手のキャラ全員に<color style='color:#FFFFFFFF'>貫通ダメージ</color>を2与える。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5136,8 +5136,8 @@ var _card = [
         },
         {
             "_id": 423033,
-            "Name": "Mastery Talisman: Unyielding Advance",
-            "Desc": "<color style='color:#FFFFFFFF'>When your character uses a Skill they have already used once this Round:</color> Spend 1 less Elemental Die. (Once per Round)<br><color style='color:#FFFFFFFF'>When your character uses a skill they have already used twice this Round:</color> Spend 2 less Elemental Dice. (Once per Round)",
+            "Name": "機巧符呪 · 強烈な猛進",
+            "Desc": "<color style='color:#FFFFFFFF'>味方のキャラが本ラウンドで1回発動しているスキルを再び発動する時</color>、必要な元素サイコロの数-1。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'>味方のキャラが本ラウンドで2回発動しているスキルを再び発動する時</color>、必要な元素サイコロの数-2。（各ラウンドで1回のみ）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5146,8 +5146,8 @@ var _card = [
         },
         {
             "_id": 423032,
-            "Name": "Mastery Talisman: Fierce Follow-Up",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Skill:</color> During this match, the DMG dealt by the character will be increased by 1 (Can stack up to 3 times, but 1 stack is lost at the end of each Round).",
+            "Name": "機巧符呪 · 猛烈な追撃",
+            "Desc": "<color style='color:#FFFFFFFF'>味方キャラがスキルを発動した後</color>、本対戦で該当キャラが与えるダメージ+1。（最大で+3まで重ねられるが、各ラウンド終了時-1）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5156,8 +5156,8 @@ var _card = [
         },
         {
             "_id": 423031,
-            "Name": "Mastery Talisman: Buttressed Combined Assault",
-            "Desc": "<color style='color:#FFFFFFFF'>When a Summon disappears:</color> Gain 1 point of Buttressed Succor (up to 3 points).<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> Consume all points of Buttressed Succor. For each point consumed, generate 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>.",
+            "Name": "機巧符呪 · 攻守共闘",
+            "Desc": "<color style='color:#FFFFFFFF'>召喚物が消える時</color>、「攻守助力」を1蓄積する。（最大3まで蓄積可能）<br><color style='color:#FFFFFFFF'>アクションフェーズ開始時</color>、「攻守助力」をすべて消費し、1消費するごとに、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を1個生成する。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5168,8 +5168,8 @@ var _card = [
         },
         {
             "_id": 423030,
-            "Name": "Mastery Talisman: Dauntless Pursuit",
-            "Desc": "<color style='color:#FFFFFFFF'>When your characters use <color style='color:#FFFFFFFF'>Plunging Attack</color> to deal Elemental DMG:</color> The DMG is increased by 2. After the Skill finishes calculating, generate 2 Elemental Dice of the same type as your active character (once per Round).",
+            "Name": "機巧符呪 · 豪猛追撃",
+            "Desc": "<color style='color:#FFFFFFFF'>味方のキャラが<color style='color:#FFFFFFFF'>落下攻撃</color>で元素ダメージを与えた時</color>、ダメージがさらに+2。スキル処理完了後、味方の出撃キャラの元素タイプに応じた元素サイコロが2個生成される。（各ラウンドで1回のみ）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5190,8 +5190,8 @@ var _card = [
         },
         {
             "_id": 423028,
-            "Name": "Mastery Talisman: Don't Push Your Luck",
-            "Desc": "<color style='color:#FFFFFFFF'>After an opponent takes Elemental Damage:</color> Grants 1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> to your active chracter (Up to 5 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>).",
+            "Name": "機巧符呪 · 勝即撤収",
+            "Desc": "<color style='color:#FFFFFFFF'>相手のキャラが元素ダメージを受けた後</color>、[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>を1提供し、味方の出撃キャラを守る。（最大5まで重ねられる）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5202,8 +5202,8 @@ var _card = [
         },
         {
             "_id": 423027,
-            "Name": "Mastery Talisman: Harmonic Tactics",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Draw 1 random [b]3006[a]Talent Card from your deck.<br><color style='color:#FFFFFFFF'>After your character takes DMG:</color> The DMG that character deals in this match increases by 1 (Up to 3 stacks, +3 DMG total).",
+            "Name": "機巧符呪 · 協調戦法",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時</color>、デッキからランダムで「[b]3006[a]天賦」カードを1枚引く。<br><color style='color:#FFFFFFFF'>味方のキャラがダメージを受けた後</color>、該当キャラが本対戦で与えるダメージ+1（最大+3まで重ねられる）。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5212,8 +5212,8 @@ var _card = [
         },
         {
             "_id": 423026,
-            "Name": "Mastery Talisman: Swift Triumph",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins: </color>Create 4 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. However, you will lose this match in the End Phase of this Round.<br><color style='color:#FFFFFFFF'>After an opposing character is defeated or your character uses Elemental Burst: </color>Create 3 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>, draw 1 card, and you gain an extra move upon the completion of your current action.",
+            "Name": "機巧符呪 · 速やかな決着",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時</color>、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を4個生成する。しかし、味方プレイヤーは、このラウンドのエンドフェーズで、対局に負ける。<br><color style='color:#FFFFFFFF'>相手キャラが倒される、または味方キャラが「元素爆発」を発動した後</color>、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を3個生成し、カードを1枚引く。さらに、今回のアクション終了後、味方は引き続きアクションを1回行える。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5224,8 +5224,8 @@ var _card = [
         },
         {
             "_id": 423025,
-            "Name": "Game of Wits: Enduring Victory",
-            "Desc": "Start with 2 points of Victory Countdown.<br><color style='color:#FFFFFFFF'>End Phase: </color>Remove 1 point of Victory Countdown. If none of your characters are defeated when Victory Countdown points run out, you instantly win the match.<br><color style='color:#FFFFFFFF'>When Action Phase begins: </color>If there is exactly 1 point of Victory Countdown, create 4 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>.",
+            "Name": "巧妙なる思考の戦い · 勝利は着実に",
+            "Desc": "デフォルトで「勝利へのカウントダウン」を2持つ。<br><color style='color:#FFFFFFFF'>エンドフェーズ：</color>「勝利へのカウントダウン」-1。「勝利へのカウントダウン」が尽きた際、味方側に戦闘不能になったキャラがいない場合、味方プレイヤーは直ちに勝利する。<br><color style='color:#FFFFFFFF'>アクションフェーズ開始時</color>、「勝利へのカウントダウン」が残り1の場合、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を4個生成する。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5236,8 +5236,8 @@ var _card = [
         },
         {
             "_id": 423024,
-            "Name": "Mastery Talisman: Sudden Ambush",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Skill:</color> Create an Ambuscade Mine of your character's Element on the opposing side of the field. The Ambuscade Mine will deal 1 DMG of that corresponding element to opposing reinforcements after they enter play.",
+            "Name": "機巧符呪 · 奇策妙計",
+            "Desc": "<color style='color:#FFFFFFFF'>味方のキャラがスキルを発動した後</color>、相手のフィールドに自身の元素タイプの「奇策詭雷」を1個生成する。「奇策詭雷」は相手の増援キャラが登場した後、そのキャラに対応する元素ダメージを1与える。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5246,8 +5246,8 @@ var _card = [
         },
         {
             "_id": 423023,
-            "Name": "Mastery Talisman: Chaotic Banners",
-            "Desc": "<color style='color:#FFFFFFFF'>After an opposing character takes Elemental Reaction damage:</color> Create <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> ×1. (Can be triggered up to 3 times per Round)",
+            "Name": "機巧符呪 · 轍乱旗靡",
+            "Desc": "<color style='color:#FFFFFFFF'>相手のキャラが元素反応によるダメージを受けた後</color>、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を1個生成する。（各ラウンド最大3回まで）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5258,8 +5258,8 @@ var _card = [
         },
         {
             "_id": 423022,
-            "Name": "Mastery Talisman: Cascading Defeat",
-            "Desc": "<color style='color:#FFFFFFFF'>When an opposing character is defeated:</color> Deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to all opposing characters.",
+            "Name": "機巧符呪 · 三軍暴骨",
+            "Desc": "<color style='color:#FFFFFFFF'>相手のキャラが戦闘不能になった時</color>、相手のキャラ全員に<color style='color:#FFFFFFFF'>貫通ダメージ</color>を1与える。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5270,8 +5270,8 @@ var _card = [
         },
         {
             "_id": 423021,
-            "Name": "Mastery Talisman: Battle-Ready",
-            "Desc": "<color style='color:#FFFFFFFF'>When your character equipped with both a [b]3003[a]Weapon and an [b]3004[a]Artifact uses a Skill:</color> Spend 3 less Elemental Dice. (Once per Round)",
+            "Name": "機巧符呪 · 戦闘態勢",
+            "Desc": "<color style='color:#FFFFFFFF'>「[b]3003[a]武器」と「[b]3004[a]聖遺物」を同時に装備している味方キャラがスキルを発動する際</color>、必要な元素サイコロの数-3。（各ラウンドで1回のみ）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5280,8 +5280,8 @@ var _card = [
         },
         {
             "_id": 423020,
-            "Name": "Mastery Talisman: Arms and Armor Honed",
-            "Desc": "<color style='color:#FFFFFFFF'>When your character uses a <color style='color:#FFFFFFFF'>Charged Attack</color>: </color>DMG dealt +1. Draw 1 card after finalization.",
+            "Name": "機巧符呪 · 堅甲利兵",
+            "Desc": "<color style='color:#FFFFFFFF'>味方キャラが<color style='color:#FFFFFFFF'>重撃</color>を行う時</color>、与えるダメージ+1。処理完了後、味方が手札を1枚引く。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5292,8 +5292,8 @@ var _card = [
         },
         {
             "_id": 423019,
-            "Name": "Mastery Talisman: Planning Long-Term",
-            "Desc": "<color style='color:#FFFFFFFF'>When a [b]3003[a]Weapon or [b]3004[a]Artifact Equipment card with a cost of at least 3 is played:</color> Spend 3 less Elemental Dice. (Once per Round)",
+            "Name": "機巧符呪 · 長策固執",
+            "Desc": "<color style='color:#FFFFFFFF'>味方が総コスト3以上の「[b]3003[a]武器」、または「[b]3004[a]聖遺物」装備カードを使用する時</color>、必要な元素サイコロの数-3。（各ラウンドで1回のみ）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5302,8 +5302,8 @@ var _card = [
         },
         {
             "_id": 423018,
-            "Name": "Mastery Talisman: Victorious Repute",
-            "Desc": "<color style='color:#FFFFFFFF'>When an opposing character is defeated:</color> Draw 1 card. +1 to the DMG of the current active character in this match. (Can stack. Max 3 Stacks.)",
+            "Name": "機巧符呪 · 制覇威明",
+            "Desc": "<color style='color:#FFFFFFFF'>相手のキャラが戦闘不能になった時</color>、味方が手札を1枚引き、味方の現在の出撃キャラは本対戦で与えるダメージ+1。（最大+3まで重ねられる）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5312,8 +5312,8 @@ var _card = [
         },
         {
             "_id": 423017,
-            "Name": "Zero Hour Invokation: All-Out Aggression",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> All your characters gain 2 Energy.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+            "Name": "ゼロ · アワー召喚 · 破竹の攻法",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>味方のチーム全員はチャージを2獲得する。<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：1</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5324,8 +5324,8 @@ var _card = [
         },
         {
             "_id": 423016,
-            "Name": "Mastery Talisman: Dense Vegetation",
-            "Desc": "<color style='color:#FFFFFFFF'>After an opposing character takes Dendro-related Reaction DMG:</color> Create 2 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>.",
+            "Name": "機巧符呪 · 生い茂る森",
+            "Desc": "<color style='color:#FFFFFFFF'>相手のキャラが草元素反応によるダメージを受けた後</color>、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を2個生成する。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5336,8 +5336,8 @@ var _card = [
         },
         {
             "_id": 423015,
-            "Name": "Mastery Talisman: Dual-Pronged Approach",
-            "Desc": "<color style='color:#FFFFFFFF'>After you use a Skill:</color> If your active character is being protected by a [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>, create 2 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> and 1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point. (Once per Round)",
+            "Name": "機巧符呪 · 攻守兼備",
+            "Desc": "<color style='color:#FFFFFFFF'>味方がスキルを発動した後</color>、味方の出撃キャラが[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>に守られている場合、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を2個生成し、[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>を1獲得する。（各ラウンドで1回のみ）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5349,8 +5349,8 @@ var _card = [
         },
         {
             "_id": 423014,
-            "Name": "Mastery Talisman: Intelligence Update",
-            "Desc": "<color style='color:#FFFFFFFF'>After you switch characters:</color> Create 1 Elemental Die of the same Type as your active character. (Twice per Round)",
+            "Name": "機巧符呪 · 情報共有",
+            "Desc": "<color style='color:#FFFFFFFF'>味方がキャラチェンジした後</color>、味方の出撃キャラの元素タイプに応じた元素サイコロが1個生成される。（各ラウンド最大2回まで）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5359,8 +5359,8 @@ var _card = [
         },
         {
             "_id": 423013,
-            "Name": "Mastery Talisman: Practice Makes Perfect",
-            "Desc": "The first Skill used or first Talent equipped by each of your characters per Round will cost 1 less Elemental Die.",
+            "Name": "機巧符呪 · 経験豊富",
+            "Desc": "味方のキャラカードはそれぞれ、各ラウンドにおける初回のスキル発動、または最初の「天賦カード」の装備に必要な元素サイコロの数-1。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5369,8 +5369,8 @@ var _card = [
         },
         {
             "_id": 423012,
-            "Name": "Mastery Talisman: Extended Explosion",
-            "Desc": "<color style='color:#FFFFFFFF'>When an opposing character takes Elemental Reaction DMG:</color> Accumulate 1 Extension. If you have at least 3, consume 3 Extension and deal 4 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters.",
+            "Name": "機巧符呪 · 連続爆発",
+            "Desc": "<color style='color:#FFFFFFFF'>相手のキャラが元素反応によるダメージを受けた時</color>、「連続進捗」を1蓄積する。3以上蓄積した場合、「連続進捗」を3消費し、相手のチーム全員に<color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>貫通ダメージ</color></color>を4与える。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5381,8 +5381,8 @@ var _card = [
         },
         {
             "_id": 423011,
-            "Name": "Mastery Talisman: Decisive Battle",
-            "Desc": "Your characters with 6 HP or less deal +2 DMG.",
+            "Name": "機巧符呪 · 決戦陣形",
+            "Desc": "味方の残りHPが6以下のキャラの与えるダメージ+2。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5391,8 +5391,8 @@ var _card = [
         },
         {
             "_id": 423010,
-            "Name": "Mastery Talisman: Cold War",
-            "Desc": "The first Skill used or first Talent equipped by each of your characters per Round will cost 1 less Elemental Die.<br>Your Cryo-related Reactions deal +2 DMG.",
+            "Name": "機巧符呪 · 輝く兵戈",
+            "Desc": "味方のキャラカードはそれぞれ、各ラウンドにおける初回のスキル発動、または最初の「天賦カード」の装備に必要な元素サイコロの数-1。<br>味方が引き起こした氷元素関連反応のダメージ+2。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5401,8 +5401,8 @@ var _card = [
         },
         {
             "_id": 423009,
-            "Name": "Mastery Talisman: Cycle Charge",
-            "Desc": "<color style='color:#FFFFFFFF'>When you perform \"Switch Character\":</color> Spend 1 less Elemental Die. (Twice per Round)<br>When you perform a <color style='color:#FFFFFFFF'>Plunging Attack:</color> Deal +2 DMG.",
+            "Name": "機巧符呪 · 輪転戦法",
+            "Desc": "<color style='color:#FFFFFFFF'>味方が「キャラチェンジ」を行う時</color>、必要な元素サイコロの数-1。（各ラウンドで2回のみ）<br><color style='color:#FFFFFFFF'>味方が落下攻撃を行う時</color>、与えるダメージ+2。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5411,8 +5411,8 @@ var _card = [
         },
         {
             "_id": 423008,
-            "Name": "Mastery Talisman: Immovable",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> If your active character is protected by a [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>, create 2 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> and draw 2 cards.<br><color style='color:#FFFFFFFF'>When you play any card:</color> Spend 2 less Elemental Dice. (Once per Round)",
+            "Name": "機巧符呪 · 巍然屹立",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>味方の出撃キャラが[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>に守られている場合、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を2個生成し、手札を2枚引く。<br><color style='color:#FFFFFFFF'>任意の手札を使用する時：</color>必要な元素サイコロの数-2。（各ラウンドで1回のみ）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5424,8 +5424,8 @@ var _card = [
         },
         {
             "_id": 423007,
-            "Name": "Mastery Talisman: Press the Attack",
-            "Desc": "<color style='color:#FFFFFFFF'>After an opposing character is defeated:</color> Create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> and draw 1 card.",
+            "Name": "機巧符呪 · 直往邁進",
+            "Desc": "<color style='color:#FFFFFFFF'>相手のキャラを倒した後：</color><color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を1個生成し、手札を1枚引く。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5436,8 +5436,8 @@ var _card = [
         },
         {
             "_id": 423006,
-            "Name": "Mastery Talisman: Surging Vigor",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Your active character gains 3 Energy.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+            "Name": "機巧符呪 · 活気充満",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>味方の出撃キャラはチャージを3獲得する。<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：1</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5448,8 +5448,8 @@ var _card = [
         },
         {
             "_id": 423005,
-            "Name": "Ley Line Monolith: Frontline Fulcrum",
-            "Desc": "Starts with 20 Endurance. When Endurance is depleted, discard this card.<br><color style='color:#FFFFFFFF'>When your characters take DMG:</color> Consumes this card's Endurance to block DMG.<br><color style='color:#FFFFFFFF'>When this card is discarded:</color> You lose this match.",
+            "Name": "地脈鎮石 · 戦線支点",
+            "Desc": "デフォルトで「耐久」を20持つ。回数が尽きた後、このカードは破棄される。<br><color style='color:#FFFFFFFF'>味方のキャラがダメージを受けた時</color>、このカードの「耐久」を消費してダメージを相殺する。<br><color style='color:#FFFFFFFF'>このカードが破棄される時</color>、味方の負けとなる。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5458,8 +5458,8 @@ var _card = [
         },
         {
             "_id": 423004,
-            "Name": "Elemental Orb: Enduring",
-            "Desc": "When Action Phase begins: All your characters gain 1 Energy.",
+            "Name": "元素オーブ · 持続",
+            "Desc": "アクションフェーズ開始時：味方のチーム全員はチャージを1獲得する。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5468,8 +5468,8 @@ var _card = [
         },
         {
             "_id": 423003,
-            "Name": "Elemental Orb: Dissipated",
-            "Desc": "When Action Phase begins: All characters on both sides gain 1 Energy.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+            "Name": "元素オーブ · 散逸",
+            "Desc": "アクションフェーズ開始時：双方のチーム全員はチャージを1獲得する。<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：1</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5480,8 +5480,8 @@ var _card = [
         },
         {
             "_id": 423002,
-            "Name": "Elemental Orb: Plentiful",
-            "Desc": "When Action Phase begins: All your characters gain 2 Energy.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+            "Name": "元素オーブ · 豊富",
+            "Desc": "アクションフェーズ開始時：味方のチーム全員はチャージを2獲得する。<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：1</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5492,8 +5492,8 @@ var _card = [
         },
         {
             "_id": 423001,
-            "Name": "Elemental Orb",
-            "Desc": "When Action Phase begins: All your characters gain 1 Energy.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+            "Name": "元素オーブ",
+            "Desc": "アクションフェーズ開始時：味方のチーム全員はチャージを1獲得する。<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：1</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5504,8 +5504,8 @@ var _card = [
         },
         {
             "_id": 422046,
-            "Name": "Pneuma Node: Hold Fast - Basic",
-            "Desc": "<color style='color:#FFFFFFFF'>When one of your characters is defeated:</color> Ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color> and heal them to 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 4</color><br><color style='color:#FFFFFFFF'>After your characters receive [b]3504[a]Arkhe: Ousia aligned DMG:</color> This card's <color style='color:#FFFFFFFF'>Usage(s)</color> -1.",
+            "Name": "プネウマ試練装置 · 陣地死守 · 下",
+            "Desc": "<color style='color:#FFFFFFFF'>味方のキャラが倒された時</color>、キャラが<color style='color:#FFFFFFFF'>戦闘不能にならない</color>。また、該当キャラのHPを2まで回復する。<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>:4</color><br><color style='color:#FFFFFFFF'>味方キャラは「[b]3504[a]アルケー：ウーシア」を帯びたダメージを受けた後</color>、このカードの<color style='color:#FFFFFFFF'>使用可能回数</color>-1。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5517,8 +5517,8 @@ var _card = [
         },
         {
             "_id": 422045,
-            "Name": "Ley Line Disorder: Layered Defenses - Basic",
-            "Desc": "Your active character gains 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points.<br><color style='color:#FFFFFFFF'>When Action Phase begins: </color> Refresh the shield provided by this card.",
+            "Name": "地脈異常 · 多重防御 · 下",
+            "Desc": "[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>を2提供し、味方の出撃キャラを守る。<br><color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>このカードが提供するシールドを回復する。",
             "Tag": [
                 "GCG_TAG_SHEILD"
             ],
@@ -5531,8 +5531,8 @@ var _card = [
         },
         {
             "_id": 422044,
-            "Name": "Ley Line Disorder: Damage Concatenation - Basic",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> You gain 1 stack of Multiplied Damage. (DMG dealt by your characters +1; DMG further increased by 1 for each stack of Multiplied Damage; Multiplied Damage stacks up to 3 times)",
+            "Name": "地脈異常 · 連鎖ダメージ · 下",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>味方が「多重ダメージ」を1層獲得する。（キャラクターの与えるダメージ+1。「多重ダメージ」1層につき、さらにダメージ+1。「多重ダメージ」は最大3層まで重ね掛け可能）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5543,8 +5543,8 @@ var _card = [
         },
         {
             "_id": 422043,
-            "Name": "Ley Line Disorder: Bitter Belligerence - Basic",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heal all your characters who have not been afflicted by the Frozen Status and have also used a Skill this Round for 2 HP. If your opponent has a character afflicted by the Frozen Status, then the opponent's active character will have <color style='color:#FFFFFFFF'>Gurgling Bubble</color> attached at the start of the next Round's Action Phase.",
+            "Name": "地脈異常 · 屈強なる戦意 · 下",
+            "Desc": "<color style='color:#FFFFFFFF'>エンドフェーズ：</color>「凍結」状態を付与されておらず、かつ本ラウンドでスキルを発動した味方キャラがいる時、そのHPを2回復する。相手のキャラに「凍結」状態が付与されている場合、次のラウンドのアクションフェーズ開始時、相手の出撃キャラに<color style='color:#FFFFFFFF'>グルバブル</color>を付与する。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5555,8 +5555,8 @@ var _card = [
         },
         {
             "_id": 422042,
-            "Name": "Pneuma Node: Hold Fast - Intermediate",
-            "Desc": "<color style='color:#FFFFFFFF'>When one of your characters is defeated:</color> Ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color> and heal them to 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 8</color><br><color style='color:#FFFFFFFF'>After your characters receive [b]3504[a]Arkhe: Ousia aligned DMG:</color> This card's <color style='color:#FFFFFFFF'>Usage(s)</color> -1.",
+            "Name": "プネウマ試練装置 · 陣地死守 · 中",
+            "Desc": "<color style='color:#FFFFFFFF'>味方のキャラが倒された時</color>、キャラが<color style='color:#FFFFFFFF'>戦闘不能にならない</color>。また、該当キャラのHPを2まで回復する。<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>:8</color><br><color style='color:#FFFFFFFF'>味方キャラは「[b]3504[a]アルケー：ウーシア」を帯びたダメージを受けた後</color>、このカードの<color style='color:#FFFFFFFF'>使用可能回数</color>-1。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5568,8 +5568,8 @@ var _card = [
         },
         {
             "_id": 422041,
-            "Name": "Ley Line Disorder: Layered Defenses - Intermediate",
-            "Desc": "Your active character gains 4 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points.<br><color style='color:#FFFFFFFF'>When Action Phase begins: </color> Refresh the shield provided by this card.",
+            "Name": "地脈異常 · 多重防御 · 中",
+            "Desc": "[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>を4提供し、味方の出撃キャラを守る。<br><color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>このカードが提供するシールドを回復する。",
             "Tag": [
                 "GCG_TAG_SHEILD"
             ],
@@ -5582,8 +5582,8 @@ var _card = [
         },
         {
             "_id": 422040,
-            "Name": "Ley Line Disorder: Damage Concatenation - Intermediate",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> You gain 2 stacks of Multiplied Damage. (DMG dealt by your characters +1; DMG further increased by 1 for each stack of Multiplied Damage; Multiplied Damage stacks up to 3 times)",
+            "Name": "地脈異常 · 連鎖ダメージ · 中",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>味方が「多重ダメージ」を2層獲得する。（キャラクターの与えるダメージ+1。「多重ダメージ」1層につき、さらにダメージ+1。「多重ダメージ」は最大3層まで重ね掛け可能）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5594,8 +5594,8 @@ var _card = [
         },
         {
             "_id": 422039,
-            "Name": "Ley Line Disorder: Bitter Belligerence - Intermediate",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heal all your characters who have not been afflicted by the Frozen Status and have also used a Skill this Round for 4 HP. If your opponent has a character afflicted by the Frozen Status, then the opponent's active character will have <color style='color:#FFFFFFFF'>Gurgling Bubble</color> attached at the start of the next Round's Action Phase.",
+            "Name": "地脈異常 · 屈強なる戦意 · 中",
+            "Desc": "<color style='color:#FFFFFFFF'>エンドフェーズ：</color>「凍結」状態を付与されておらず、かつ本ラウンドでスキルを発動した味方キャラがいる時、そのHPを4回復する。相手のキャラに「凍結」状態が付与されている場合、次のラウンドのアクションフェーズ開始時、相手の出撃キャラに<color style='color:#FFFFFFFF'>グルバブル</color>を付与する。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5606,8 +5606,8 @@ var _card = [
         },
         {
             "_id": 422038,
-            "Name": "Ley Line Disorder: High Efficiency Supply - Pneuma",
-            "Desc": "<color style='color:#FFFFFFFF'>When you Switch Characters:</color> This action is considered a <color style='color:#FFFFFFFF'>Fast Action</color> and not a <color style='color:#FFFFFFFF'>Combat Action</color>.<br><color style='color:#FFFFFFFF'>End Phase:</color> The Pneuma Energy of the character to which this is attached is replenished, and that character changes to be in the \"Pneuma State.\"",
+            "Name": "地脈異常 · 高効率補給 · プネウマ",
+            "Desc": "<color style='color:#FFFFFFFF'>味方が「キャラチェンジ」を行う時</color>、それが「<color style='color:#FFFFFFFF'>戦闘アクション</color>」ではなく、「<color style='color:#FFFFFFFF'>クイックアクション</color>」とみなされる。<br><color style='color:#FFFFFFFF'>エンドフェーズ：</color>、付与されたキャラにプネウマのエネルギーを補充し、「プネウマ状態」にチェンジさせる。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5619,8 +5619,8 @@ var _card = [
         },
         {
             "_id": 422037,
-            "Name": "Pneuma Node: Hold Fast - Advanced",
-            "Desc": "<color style='color:#FFFFFFFF'>When one of your characters is defeated:</color> Ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color> and heal them to 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 12</color><br><color style='color:#FFFFFFFF'>After your characters receive [b]3504[a]Arkhe: Ousia aligned DMG:</color> This card's <color style='color:#FFFFFFFF'>Usage(s)</color> -1.",
+            "Name": "プネウマ試練装置 · 陣地死守 · 上",
+            "Desc": "<color style='color:#FFFFFFFF'>味方のキャラが倒された時</color>、キャラが<color style='color:#FFFFFFFF'>戦闘不能にならない</color>。また、該当キャラのHPを2まで回復する。<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>:12</color><br><color style='color:#FFFFFFFF'>味方キャラは「[b]3504[a]アルケー：ウーシア」を帯びたダメージを受けた後</color>、このカードの<color style='color:#FFFFFFFF'>使用可能回数</color>-1。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5632,8 +5632,8 @@ var _card = [
         },
         {
             "_id": 422036,
-            "Name": "Ley Line Disorder: Layered Defenses - Advanced",
-            "Desc": "Your active character gains 6 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points.<br><color style='color:#FFFFFFFF'>When Action Phase begins: </color> Refresh the shield provided by this card.",
+            "Name": "地脈異常 · 多重防御 · 上",
+            "Desc": "[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>を6提供し、味方の出撃キャラを守る。<br><color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>このカードが提供するシールドを回復する。",
             "Tag": [
                 "GCG_TAG_SHEILD"
             ],
@@ -5646,8 +5646,8 @@ var _card = [
         },
         {
             "_id": 422035,
-            "Name": "Ley Line Disorder: Damage Concatenation - Advanced",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> You gain 3 stacks of Multiplied Damage. (DMG dealt by your characters +1; DMG further increased by 1 for each stack of Multiplied Damage; Multiplied Damage stacks up to 3 times)",
+            "Name": "地脈異常 · 連鎖ダメージ · 上",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>味方が「多重ダメージ」を3層獲得する。（キャラクターの与えるダメージ+1。「多重ダメージ」1層につき、さらにダメージ+1。「多重ダメージ」は最大3層まで重ね掛け可能）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5658,8 +5658,8 @@ var _card = [
         },
         {
             "_id": 422034,
-            "Name": "Ley Line Disorder: Bitter Belligerence - Advanced",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heal all your characters who have not been afflicted by the Frozen Status and have also used a Skill this Round for 6 HP. If your opponent has a character afflicted by the Frozen Status, then the opponent's active character will have <color style='color:#FFFFFFFF'>Gurgling Bubble</color> attached at the start of the next Round's Action Phase.",
+            "Name": "地脈異常 · 屈強なる戦意 · 上",
+            "Desc": "<color style='color:#FFFFFFFF'>エンドフェーズ：</color>「凍結」状態を付与されておらず、かつ本ラウンドでスキルを発動した味方キャラがいる時、そのHPを6回復する。相手のキャラに「凍結」状態が付与されている場合、次のラウンドのアクションフェーズ開始時、相手の出撃キャラに<color style='color:#FFFFFFFF'>グルバブル</color>を付与する。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5670,8 +5670,8 @@ var _card = [
         },
         {
             "_id": 422033,
-            "Name": "Ley Line Disorder: Energetic Arena",
-            "Desc": "When Action Phase begins: All your characters gain 1 Energy.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+            "Name": "地脈異常 · 充盈陣形",
+            "Desc": "アクションフェーズ開始時：味方のチーム全員はチャージを1獲得する。<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：1</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5682,8 +5682,8 @@ var _card = [
         },
         {
             "_id": 422032,
-            "Name": "Ley Line Disorder: Skyward Patrol",
-            "Desc": "<color style='color:#FFFFFFFF'>When the battle begins:</color> Dvalin will begin with <color style='color:#FFFFFFFF'>Skyward Patrol</color> attached.<br><color style='color:#FFFFFFFF'>When the Skyward Patrol effect attached to Dvalin ends:</color> Attach <color style='color:#FFFFFFFF'>Exhausted Plunge</color>.<br><color style='color:#FFFFFFFF'>When the Exhausted Plunge effect attached to Dvalin ends:</color> Re-attach <color style='color:#FFFFFFFF'>Skyward Patrol</color>.",
+            "Name": "地脈異常 · 高天巡行",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘開始時：</color>トワリンに<color style='color:#FFFFFFFF'>高天巡行</color>が付与される。<br><color style='color:#FFFFFFFF'>トワリンに付与された高天巡行の効果終了時</color>、<color style='color:#FFFFFFFF'>力尽きの墜落</color>が付与される。<br><color style='color:#FFFFFFFF'>トワリンに付与された力尽きの墜落の効果終了時</color>、再び<color style='color:#FFFFFFFF'>高天巡行</color>が付与される。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5695,8 +5695,8 @@ var _card = [
         },
         {
             "_id": 422031,
-            "Name": "Ousia Nodes: Power of Enhancement",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Create 1 <color style='color:#FFFFFFFF'>Amplified Enhancement: Ousia</color> on your side.",
+            "Name": "ウーシア試練装置 · 増幅の力",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>味方は<color style='color:#FFFFFFFF'>増幅強化 · ウーシア</color>を生成する。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5707,8 +5707,8 @@ var _card = [
         },
         {
             "_id": 422030,
-            "Name": "Mastery Talisman: Arcane Secret to Elemental Victory",
-            "Desc": "<color style='color:#FFFFFFFF'>After your characters take 4 different types of Elemental Damage:</color> The opposing player immediately wins the match.",
+            "Name": "機巧符呪 · 元素制勝の秘法",
+            "Desc": "<color style='color:#FFFFFFFF'>味方キャラが4種類の元素ダメージを受けた後</color>、相手は直ちに勝利する。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5717,8 +5717,8 @@ var _card = [
         },
         {
             "_id": 422029,
-            "Name": "Ley Line Disorder: Pneumousia Suffusion",
-            "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase Begins:</color> The Pneuma or Ousia Energy of your characters is replenished, and they are changed to be in the corresponding state.",
+            "Name": "地脈異常 · プネウムシア充満",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>味方キャラにウーシア、またはプネウマのエネルギーを補充し、対応する属性にチェンジさせる。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5727,8 +5727,8 @@ var _card = [
         },
         {
             "_id": 422028,
-            "Name": "Ley Line Disorder: United Posture - Gentle War",
-            "Desc": "For each Summon on your side of the field, the Normal Attacks of your characters deal +1 DMG.",
+            "Name": "地脈異常 · 協力の勢 · 静戦",
+            "Desc": "味方のフィールドに召喚物が1つあるごとに、味方のキャラの「通常攻撃」の与えるダメージ+1。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5737,8 +5737,8 @@ var _card = [
         },
         {
             "_id": 422027,
-            "Name": "Ley Line Disorder: Attrition Posture - Encouragement",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Accumulate 3 Attrition Energy.<color style='color:#FFFFFFFF'>After the opponent's characters use a skill:</color> Remove 1 Attrition Energy.<br><color style='color:#FFFFFFFF'>End Phase:</color> If the amount of Attrition Energy remaining is not 0, then all your characters are healed for 1 HP, and all remaining Attrition Energy is consumed. For each point of Attrition Energy consumed, the amount of healing is increased by 1.",
+            "Name": "地脈異常 · 持久の勢 · 鼓舞",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時</color>、「持久力」を3蓄積する。<br><color style='color:#FFFFFFFF'>相手キャラがスキルを発動した後</color>、「持久力」-1。<br><color style='color:#FFFFFFFF'>エンドフェーズ</color>：「持久力」が0でない場合、味方のチーム全員のHPを1回復し、「持久力」をすべて消費する。「持久力」を1消費するごとに、さらに回復量+1。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5747,8 +5747,8 @@ var _card = [
         },
         {
             "_id": 422026,
-            "Name": "Ley Line Disorder: Vicious Posture - Blunt Force",
-            "Desc": "Your active character <color style='color:#FFFFFFFF'>deals +1 DMG</color>.",
+            "Name": "地脈異常 · 苛烈の勢 · 鈍撃",
+            "Desc": "味方の出撃キャラの<color style='color:#FFFFFFFF'>与えるダメージ+1</color>。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5757,8 +5757,8 @@ var _card = [
         },
         {
             "_id": 422025,
-            "Name": "Ley Line Disorder: Defensive Posture - Light Armor",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Your active character gains 3 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points.",
+            "Name": "地脈異常 · 守護の勢 · 軽装備",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時</color>、[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>を3提供し、味方の出撃キャラを守る。",
             "Tag": [
                 "GCG_TAG_SHEILD"
             ],
@@ -5771,8 +5771,8 @@ var _card = [
         },
         {
             "_id": 422024,
-            "Name": "Ley Line Disorder: United Posture - Advance",
-            "Desc": "The Normal Attacks of your characters deal +1 DMG for each Summon on your side of the field.<br><color style='color:#FFFFFFFF'>End Phase:</color> If you have at least 2 Summons of your side of the field, your active character(s) gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.",
+            "Name": "地脈異常 · 協力の勢 · 猛進",
+            "Desc": "味方のフィールドに召喚物が1つあるごとに、味方のキャラの「通常攻撃」の与えるダメージ+1。<br><color style='color:#FFFFFFFF'>エンドフェーズ</color>：味方のフィールドに召喚物が2つ以上ある場合、味方の出撃キャラは<color style='color:#FFFFFFFF'>[b]1110[a]チャージ</color>を1獲得する。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5783,8 +5783,8 @@ var _card = [
         },
         {
             "_id": 422023,
-            "Name": "Ley Line Disorder: Attrition Posture - Inspiration",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Accumulate 3 Attrition Energy.<br><color style='color:#FFFFFFFF'>After the opponent's characters use a skill:</color> Remove 1 Attrition Energy.<br><color style='color:#FFFFFFFF'>End Phase:</color> If the amount of Attrition Energy remaining is not 0, then all your characters are healed for 2 HP, and all remaining Attrition Energy is consumed. For each point of Attrition Energy consumed, the amount of healing is increased by 1.",
+            "Name": "地脈異常 · 持久の勢 · 激昂",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時</color>、「持久力」を3蓄積する。<br><color style='color:#FFFFFFFF'>相手キャラがスキルを発動した後</color>、「持久力」-1。<br><color style='color:#FFFFFFFF'>エンドフェーズ</color>：「持久力」が0でない場合、味方のチーム全員のHPを2回復し、「持久力」をすべて消費する。「持久力」を1消費するごとに、さらに回復量+1。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5793,8 +5793,8 @@ var _card = [
         },
         {
             "_id": 422022,
-            "Name": "Ley Line Disorder: Vicious Posture - Ferocity",
-            "Desc": "Your active character <color style='color:#FFFFFFFF'>deals +2 DMG</color>.",
+            "Name": "地脈異常 · 苛烈の勢 · 強靭",
+            "Desc": "味方の出撃キャラの<color style='color:#FFFFFFFF'>与えるダメージ+2</color>。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5803,8 +5803,8 @@ var _card = [
         },
         {
             "_id": 422021,
-            "Name": "Ley Line Disorder: Defensive Posture - Impregnable",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Your active character gains 6 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points.",
+            "Name": "地脈異常 · 守護の勢 · 完備",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時</color>、[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>を6提供し、味方の出撃キャラを守る。",
             "Tag": [
                 "GCG_TAG_SHEILD"
             ],
@@ -5817,8 +5817,8 @@ var _card = [
         },
         {
             "_id": 422020,
-            "Name": "Ley Line Disorder: Strong Feedback",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character triggers an Elemental Reaction:</color> Heal all of your characters for 3 HP.",
+            "Name": "地脈異常 · 強化還元",
+            "Desc": "<color style='color:#FFFFFFFF'>味方のキャラが元素反応を引き起こすと、</color>味方のチーム全員のHPを3回復する。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5827,13 +5827,14 @@ var _card = [
         },
         {
             "_id": 422019,
-            "Name": "Ley Line Disorder: Blazing Will",
-            "Desc": "When the battle starts, all of your characters will have <color style='color:#FFFFFFFF'>Blazing Will</color> attached. When characters would be defeated, they <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 1 HP. 3 Usages.",
+            "Name": "地脈異常 · 灼熱闘志",
+            "Desc": "戦闘開始時、味方のチーム全員に<color style='color:#FFFFFFFF'>灼熱闘志</color>を付与する。キャラが倒された時、キャラが<color style='color:#FFFFFFFF'>戦闘不能にならない</color>。さらに、HPを1まで回復する。使用可能回数3回。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
             "C": [
-                402005
+                402005,
+                402003
             ],
             "K": [
                 54
@@ -5841,13 +5842,14 @@ var _card = [
         },
         {
             "_id": 422018,
-            "Name": "Ley Line Disorder: Belligerence Unfettered",
-            "Desc": "When the battle starts, all of your characters will have <color style='color:#FFFFFFFF'>Belligerence Unfettered</color> attached. When characters would be defeated, they <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 1 HP. 2 Usages.",
+            "Name": "地脈異常 · 戦意倍増",
+            "Desc": "戦闘開始時、味方のチーム全員に<color style='color:#FFFFFFFF'>戦意倍増</color>を付与する。キャラが倒された時、キャラが<color style='color:#FFFFFFFF'>戦闘不能にならない</color>。さらに、HPを1まで回復する。使用可能回数2回。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
             "C": [
-                402004
+                402004,
+                402003
             ],
             "K": [
                 54
@@ -5855,8 +5857,8 @@ var _card = [
         },
         {
             "_id": 422017,
-            "Name": "Ley Line Disorder: Ignited Morale",
-            "Desc": "When the battle starts, all of your characters will have <color style='color:#FFFFFFFF'>Ignited Morale</color> attached. When characters would be defeated, they <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 1 HP. 1 Usage.",
+            "Name": "地脈異常 · 士気鼓舞",
+            "Desc": "戦闘開始時、味方のチーム全員に<color style='color:#FFFFFFFF'>士気鼓舞</color>を付与する。キャラが倒された時、キャラが<color style='color:#FFFFFFFF'>戦闘不能にならない</color>。さらに、HPを1まで回復する。使用可能回数1回。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5869,8 +5871,8 @@ var _card = [
         },
         {
             "_id": 422016,
-            "Name": "Ley Line Disorder: Lightweight Defense",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Grant <color style='color:#FFFFFFFF'>6 points of [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color></color> to defend your active character, though this [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> cannot block Elemental Burst DMG.<br><color style='color:#FFFFFFFF'>After the opposing character uses an Elemental Burst:</color> Remove this [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>.",
+            "Name": "地脈異常 · 軽やかな保護",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時</color>、<color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>を6</color>付与して、味方の出撃キャラを守る。ただし、該当[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>は元素爆発ダメージを相殺できない。<br><color style='color:#FFFFFFFF'>相手のキャラが元素爆発を発動した後</color>、該当[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>を解除する。",
             "Tag": [
                 "GCG_TAG_SHEILD"
             ],
@@ -5883,8 +5885,8 @@ var _card = [
         },
         {
             "_id": 422015,
-            "Name": "Ley Line Disorder: Slim Shielding",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Grant <color style='color:#FFFFFFFF'>3 points of [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color></color> to defend your active character, though this [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> cannot block Elemental Burst DMG.<br><color style='color:#FFFFFFFF'>After the opposing character uses an Elemental Burst:</color> Remove this [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>.",
+            "Name": "地脈異常 · 繊細障壁",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時</color>、<color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>を3</color>付与して、味方の出撃キャラを守る。ただし、該当[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>は元素爆発ダメージを相殺できない。<br><color style='color:#FFFFFFFF'>相手のキャラが元素爆発を発動した後</color>、該当[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>を解除する。",
             "Tag": [
                 "GCG_TAG_SHEILD"
             ],
@@ -5897,8 +5899,8 @@ var _card = [
         },
         {
             "_id": 422014,
-            "Name": "Ley Line Disorder: Mechanics of Penetration",
-            "Desc": "You will deal <color style='color:#FFFFFFFF'>+2 DMG</color> to opposing characters not defended by [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>(s).",
+            "Name": "地脈異常 · 貫通メカニズム",
+            "Desc": "[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>に守られていない相手キャラに対して、味方の<color style='color:#FFFFFFFF'>与えるダメージ+2</color>。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5909,8 +5911,8 @@ var _card = [
         },
         {
             "_id": 422013,
-            "Name": "Ley Line Disorder: Honed Factor",
-            "Desc": "You will deal <color style='color:#FFFFFFFF'>+1 DMG</color> to opposing characters not defended by [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>(s).",
+            "Name": "地脈異常 · 鋭鋒因子",
+            "Desc": "[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>に守られていない相手キャラに対して、味方の<color style='color:#FFFFFFFF'>与えるダメージ+1</color>。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5921,8 +5923,8 @@ var _card = [
         },
         {
             "_id": 422012,
-            "Name": "Mastery Talisman: The Elements Entwined",
-            "Desc": "<br><color style='color:#FFFFFFFF'>After either side's characters take Elemental Reaction DMG:</color> Obtain 1 Entwinement.<br><color style='color:#FFFFFFFF'>When Entwinement reaches 6:</color> You win the match.",
+            "Name": "機巧符呪 · 元素連結",
+            "Desc": "<color style='color:#FFFFFFFF'>双方のキャラが元素反応によるダメージを受けた後</color>、「連結カウント」を1蓄積する。<br><color style='color:#FFFFFFFF'>「連結カウント」を6蓄積した場合</color>、味方の勝利となる。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5931,8 +5933,8 @@ var _card = [
         },
         {
             "_id": 422011,
-            "Name": "Ley Line Disorder: Shamanic Curse",
-            "Desc": "Your <color style='color:#FFFFFFFF'>Geo Samachurl</color> starts with <color style='color:#FFFFFFFF'>Mutation Stone: Shaman's Treasure</color>.",
+            "Name": "地脈異常 · シャーマンの呪い",
+            "Desc": "味方の<color style='color:#FFFFFFFF'>ヒルチャールシャーマン · 岩</color>が登場時、<color style='color:#FFFFFFFF'>「異変の石 · シャーマンの収蔵品」</color>が付与される。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5943,8 +5945,8 @@ var _card = [
         },
         {
             "_id": 422010,
-            "Name": "Ley Line Disorder: Fight or Flight",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character triggers an Elemental Reaction:</color> Heal all of your characters for 2 HP.",
+            "Name": "地脈異常 · ストレス反応",
+            "Desc": "<color style='color:#FFFFFFFF'>味方のキャラが元素反応を引き起こすと、</color>味方のチーム全員のHPを2回復する。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5953,8 +5955,8 @@ var _card = [
         },
         {
             "_id": 422009,
-            "Name": "Withering Corrosion",
-            "Desc": "Start with 4 Candle of Life points.<br><color style='color:#FFFFFFFF'>When your character uses a Skill:</color> Remove 1 Candle of Life point.<br><color style='color:#FFFFFFFF'>Once all Candle of Life points are depleted, the opposing duelist loses the match.</color>",
+            "Name": "死域の侵蝕",
+            "Desc": "デフォルトで「生命の灯カウント」を4持つ。<br><color style='color:#FFFFFFFF'>味方のキャラがスキルを発動した後、</color>「生命の灯カウント」-1。<br><color style='color:#FFFFFFFF'>「生命の灯カウント」が0になると、相手の負けとなる。</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5963,8 +5965,8 @@ var _card = [
         },
         {
             "_id": 422008,
-            "Name": "Withering Corrosion",
-            "Desc": "Start with 5 Candle of Life points.<br><color style='color:#FFFFFFFF'>When your character uses a Skill:</color> Remove 1 Candle of Life point.<br><color style='color:#FFFFFFFF'>Once all Candle of Life points are depleted, the opposing duelist loses the match.</color>",
+            "Name": "死域の侵蝕",
+            "Desc": "デフォルトで「生命の灯カウント」を5持つ。<br><color style='color:#FFFFFFFF'>味方のキャラがスキルを発動した後、</color>「生命の灯カウント」-1。<br><color style='color:#FFFFFFFF'>「生命の灯カウント」が0になると、相手の負けとなる。</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5973,8 +5975,8 @@ var _card = [
         },
         {
             "_id": 422007,
-            "Name": "Withering Corrosion",
-            "Desc": "Start with 4 Candle of Life points.<br><color style='color:#FFFFFFFF'>When your character uses a Skill:</color> Remove 1 Candle of Life point.<br><color style='color:#FFFFFFFF'>Once all Candle of Life points are depleted, the opposing duelist loses the match.</color>",
+            "Name": "死域の侵蝕",
+            "Desc": "デフォルトで「生命の灯カウント」を4持つ。<br><color style='color:#FFFFFFFF'>味方のキャラがスキルを発動した後、</color>「生命の灯カウント」-1。<br><color style='color:#FFFFFFFF'>「生命の灯カウント」が0になると、相手の負けとなる。</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5983,8 +5985,8 @@ var _card = [
         },
         {
             "_id": 422006,
-            "Name": "Ley Line Disorder: Aegis of the Abyss",
-            "Desc": "<color style='color:#FFFFFFFF'>After your Abyss Mage uses a Skill when their Elemental Shield has been broken:</color> Restore the Elemental Shield.",
+            "Name": "地脈異常 · アビスの加護",
+            "Desc": "<color style='color:#FFFFFFFF'>味方の「アビスの魔術師」が「元素バリア」を破壊された状態でスキルを発動した後、</color>「元素バリア」を回復する。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5993,8 +5995,8 @@ var _card = [
         },
         {
             "_id": 422005,
-            "Name": "Ley Line Disorder: Dire Echoes",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> For each one of your characters downed during this Round, all of your remaining character(s) will gain 2 Shield points (Can stack, max 4 points) and permanently deal +1 DMG (Can stack, max +2 DMG).",
+            "Name": "地脈異常 · 絶境の響き",
+            "Desc": "<color style='color:#FFFFFFFF'>エンドフェーズ：</color>本ラウンドにおいて、倒された味方のキャラ1体につき、残りの味方のキャラ全員にシールドを2付与し（最大4まで重ねられる）、与えるダメージが永続的に+1（最大+2まで重ねられる）。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6003,8 +6005,8 @@ var _card = [
         },
         {
             "_id": 422004,
-            "Name": "Ley Line Disorder: Fight or Flight",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character triggers an Elemental Reaction:</color> Heal all of your characters for 2 HP.",
+            "Name": "地脈異常 · ストレス反応",
+            "Desc": "<color style='color:#FFFFFFFF'>味方のキャラが元素反応を引き起こすと、</color>味方のチーム全員のHPを2回復する。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6013,8 +6015,8 @@ var _card = [
         },
         {
             "_id": 422003,
-            "Name": "Giant Mutation Stone",
-            "Desc": "Your active character <color style='color:#FFFFFFFF'>deals +2 DMG</color>.<br>Starts with 3 Endurance when played. (Discard this card when Endurance is depleted)<br><color style='color:#FFFFFFFF'>After your character goes down</color>: This card loses 1 Endurance.",
+            "Name": "大型異変の石",
+            "Desc": "味方の出撃キャラの<color style='color:#FFFFFFFF'>与えるダメージ+2</color>。<br>登場時、「耐久」を3持つ。（それが尽きた時、このカードは破棄される）<br><color style='color:#FFFFFFFF'>味方のキャラが倒された後</color>、このカードは「耐久」を1失う。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6023,8 +6025,8 @@ var _card = [
         },
         {
             "_id": 422002,
-            "Name": "Mutation Stone",
-            "Desc": "Your active character <color style='color:#FFFFFFFF'>deals +2 DMG</color>.<br>Starts with 2 Endurance when played. (Discard this card when Endurance is depleted)<br><color style='color:#FFFFFFFF'>After your character goes down</color>: This card loses 1 Endurance.",
+            "Name": "異変の石",
+            "Desc": "味方の出撃キャラの<color style='color:#FFFFFFFF'>与えるダメージ+2</color>。<br>登場時、「耐久」を2持つ。（それが尽きた時、このカードは破棄される）<br><color style='color:#FFFFFFFF'>味方のキャラが倒された後</color>、このカードは「耐久」を1失う。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6033,8 +6035,8 @@ var _card = [
         },
         {
             "_id": 422001,
-            "Name": "Hilichurl Arrow Tower",
-            "Desc": "Your active Hilichurl Shooter, Cryo Hilichurl Shooter, and Electro Hilichurl Shooter take -2 DMG. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "ヒルチャール矢塔",
+            "Desc": "味方の出撃中のヒルチャール · 射手、ヒルチャール · 氷矢、ヒルチャール · 雷矢が受けるダメージ-2（各ラウンドで1回のみ）。<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：2</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6045,8 +6047,8 @@ var _card = [
         },
         {
             "_id": 421013,
-            "Name": "Ley Line Disorder: Manifold Anguish",
-            "Desc": "Elemental DMG received by your characters +1.<br><color style='color:#FFFFFFFF'>After your character receives Elemental DMG:</color> If your opponent's Support Zone isn't full, transfer this card to their Support Zone.",
+            "Name": "地脈異常 · 多重苦痛",
+            "Desc": "味方キャラが受ける元素ダメージ+1。<br><color style='color:#FFFFFFFF'>味方キャラが元素ダメージを受けた後</color>、相手の支援エリアがまだ空いている場合、このカードを相手の支援エリアに移動する。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6055,8 +6057,8 @@ var _card = [
         },
         {
             "_id": 421012,
-            "Name": "Ley Line Disorder: Forerunner's Punishment",
-            "Desc": "<color style='color:#FFFFFFFF'>When a player declares the end of their Round:</color> All of that player's characters receive 1 <color style='color:#FFFFFFFF'>Piercing DMG</color>.",
+            "Name": "地脈異常 · 率先決壊の罰",
+            "Desc": "<color style='color:#FFFFFFFF'>先にラウンド終了宣言をしたプレイヤー</color>側のキャラ全員が<color style='color:#FFFFFFFF'>貫通ダメージ</color>を1受ける。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6067,8 +6069,8 @@ var _card = [
         },
         {
             "_id": 421011,
-            "Name": "Game of Wits: Hot Pod Mechanism",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins: </color>Create Hot Potato on the side of the player who goes first.<br><color style='color:#FFFFFFFF'>End Phase: </color>If the effect of Hot Potato is calculated on the opposing side, player on the opposing side will lose the match.",
+            "Name": "巧妙なる思考の戦い · 爆弾装置",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時</color>、先手プレイヤーにアツアツ爆弾を生成する。<br><color style='color:#FFFFFFFF'>エンドフェーズ：</color>アツアツ爆弾が相手のフィールドで処理されると、相手のプレイヤーは対戦に負ける。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6079,8 +6081,8 @@ var _card = [
         },
         {
             "_id": 421010,
-            "Name": "Ley Line Disorder: Soaring Winds",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Skill:</color> Switch to the next character. (Twice per Round)",
+            "Name": "地脈異常 · 疾速風域",
+            "Desc": "<color style='color:#FFFFFFFF'>味方のキャラがスキルを発動した後</color>、次のキャラにチェンジする。（各ラウンドで2回のみ）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6089,8 +6091,8 @@ var _card = [
         },
         {
             "_id": 421009,
-            "Name": "Ley Line Disorder: Thunderstorm",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Both sides' active characters gain <color style='color:#FFACFFFF'>[b]2104[a]Electro Application</color>.",
+            "Name": "地脈異常 · 雷霆",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>双方の出撃キャラに<color style='color:#FFACFFFF'>[b]2104[a]雷元素付着</color>を与える。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6101,8 +6103,8 @@ var _card = [
         },
         {
             "_id": 421008,
-            "Name": "Ley Line Disorder: High Temperature",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Both sides' active characters gain <color style='color:#FF9999FF'>[b]2103[a]Pyro Application</color>.",
+            "Name": "地脈異常 · 高熱",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>双方の出撃キャラに<color style='color:#FF9999FF'>[b]2103[a]炎元素付着</color>を与える。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6113,8 +6115,8 @@ var _card = [
         },
         {
             "_id": 421007,
-            "Name": "Ley Line Disorder: Overgrowth",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Both sides' active characters gain <color style='color:#7EC236FF'>[b]2107[a]Dendro Application</color>.",
+            "Name": "地脈異常 · 蔓生",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>双方の出撃キャラに<color style='color:#7EC236FF'>[b]2107[a]草元素付着</color>を与える。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6125,8 +6127,8 @@ var _card = [
         },
         {
             "_id": 421006,
-            "Name": "Ley Line Disorder: Freezing Ice",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Both sides' active characters gain <color style='color:#99FFFFFF'>[b]2101[a]Cryo Application</color>.",
+            "Name": "地脈異常 · 凍結",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>双方の出撃キャラに<color style='color:#99FFFFFF'>[b]2101[a]氷元素付着</color>を与える。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6137,8 +6139,8 @@ var _card = [
         },
         {
             "_id": 421005,
-            "Name": "Ley Line Disorder: Swift Wind",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Skill:</color> Switch to the next character. (Once per Round)",
+            "Name": "地脈異常 · 迅速風域",
+            "Desc": "<color style='color:#FFFFFFFF'>味方のキャラがスキルを発動した後</color>、次のキャラにチェンジする。（各ラウンドで1回のみ）",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6147,8 +6149,8 @@ var _card = [
         },
         {
             "_id": 421004,
-            "Name": "Ley Line Disorder: Engulfing Storm",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Both sides' active characters gain <color style='color:#FFACFFFF'>[b]2104[a]Electro Application</color>. Characters <color style='color:#FFACFFFF'>already affected by [b]2104[a]Electro</color> will lose 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color> instead.",
+            "Name": "地脈異常 · 嗜欲の雷",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>双方の出撃キャラを<color style='color:#FFACFFFF'>[b]2104[a]雷元素付着</color>状態にする。<color style='color:#FFACFFFF'>[b]2104[a]雷元素付着済み</color>のキャラに対しては、<color style='color:#FFFFFFFF'>[b]1110[a]チャージ</color>を1失わせる。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6160,8 +6162,8 @@ var _card = [
         },
         {
             "_id": 421003,
-            "Name": "Ley Line Disorder: Wet",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Your active character gains <color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color>.",
+            "Name": "地脈異常 · 湿潤",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>味方の出撃キャラに<color style='color:#80C0FFFF'>[b]2102[a]水元素付着</color>を与える。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6172,8 +6174,8 @@ var _card = [
         },
         {
             "_id": 421002,
-            "Name": "Ley Line Disorder: Smoldering Flames",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Both sides' active characters gain <color style='color:#FF9999FF'>[b]2103[a]Pyro Application</color>. Characters <color style='color:#FF9999FF'>already affected by [b]2103[a]Pyro</color> will take 2 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> instead.",
+            "Name": "地脈異常 · 陰燃の炎",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>双方の出撃キャラを<color style='color:#FF9999FF'>[b]2103[a]炎元素付着</color>状態にする。<color style='color:#FF9999FF'>[b]2103[a]炎元素付着済み</color>のキャラに対しては、[b]2103[a]<color style='color:#FF9999FF'>炎元素ダメージ</color>を2与える。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6185,8 +6187,8 @@ var _card = [
         },
         {
             "_id": 421001,
-            "Name": "Ley Line Disorder: Driving Rain",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Both sides' active characters gain <color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color>.",
+            "Name": "地脈異常 · 雨降り",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時：</color>双方の出撃キャラに<color style='color:#80C0FFFF'>[b]2102[a]水元素付着</color>を与える。",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6199,8 +6201,8 @@ var _card = [
     [
         {
             "_id": 214031,
-            "Name": "Thundering Penance",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Keqing</color>, equip this card.<br>After Keqing equips this card, immediately use <color style='color:#FFD780FF'>Stellar Restoration</color> once.<br>When your Keqing, who has this card equipped, creates an <color style='color:#FFFFFFFF'>Electro Elemental Infusion</color>, it will have the following effects:<br>Starting <color style='color:#FFFFFFFF'>Duration (Rounds)</color> +1, [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color> dealt by the attached character +1.<br>(You must have Keqing in your deck to add this card to your deck.)",
+            "Name": "抵天の雷罰",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>刻晴</color>の時、このカードを装備できる。<br>刻晴がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>星辰帰位</color>を1回発動する。<br>このカードを装備した刻晴の生成した<color style='color:#FFFFFFFF'>雷元素付与</color>は以下の効果を獲得する。<br>初期<color style='color:#FFFFFFFF'>継続ラウンド数</color>+1、付与されたキャラの与える[b]2104[a]<color style='color:#FFACFFFF'>雷元素ダメージ</color>+1。<br>（このカードはデッキに刻晴が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -6220,8 +6222,8 @@ var _card = [
         },
         {
             "_id": 312025,
-            "Name": "Golden Troupe's Reward",
-            "Desc": "<color style='color:#FFFFFFFF'>When Played:</color> This card will have 1 \"Recompense\" point.<br><color style='color:#FFFFFFFF'>End Phase:</color> If the character to which this is attached is on standby, this card gains 1 \"Recompense\" point. (Max 2 points)<br><color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses an Elemental Skill:</color> For each \"Recompense\" point this card has, consume it to spend 1 less Elemental Die.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "黄金の劇団の褒賞",
+            "Desc": "<color style='color:#FFFFFFFF'>エンドフェーズ：</color>装備キャラが待機中の場合、このカードは「報酬」を1蓄積する。（最大2まで蓄積可能）<br><color style='color:#FFFFFFFF'>キャラに「[b]3006[a]天賦」を使用する時、またはキャラが「元素スキル」を発動する時</color>、このカードに蓄積された「報酬」を消費し、「報酬」1につき必要な元素サイコロの数-1。<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6232,8 +6234,8 @@ var _card = [
         },
         {
             "_id": 311108,
-            "Name": "Tome of the Eternal Flow",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After this character takes DMG or is healed:</color> If this character has already been damaged or healed 2 times this Round, then this character's next attack this Round deals +2 additional DMG. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3201[a]Catalyst Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "久遠流転の大典",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>キャラがダメージ、または治療効果を受けた後</color>、本ラウンドでキャラがダメージや治療効果を累計2回受けていた場合、本ラウンドでキャラの次の与えるダメージ+2。（各ラウンドで1回のみ）<br>（<color style='color:#FFFFFFFF'>「[b]3201[a]法器」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -6247,8 +6249,8 @@ var _card = [
         },
         {
             "_id": 224041,
-            "Name": "Electro Cicin's Gleam",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Fatui Electro Cicin Mage</color>, equip this card.<br>After Fatui Electro Cicin Mage equips this card, immediately use <color style='color:#FFD780FF'>Misty Call</color> once.<br>If your Fatui Electro Cicin Mage who has this card equipped is on the field, before you choose an action: If <color style='color:#FFFFFFFF'>Electro Cicin</color>'s <color style='color:#FFFFFFFF'>Usage(s)</color> is at least 3, then <color style='color:#FFFFFFFF'>Electro Cicin</color> will immediately deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>. (<color style='color:#FFFFFFFF'>Usage(s)</color> will be consumed, once per Round)<br>(You must have Fatui Electro Cicin Mage in your deck to add this card to your deck.)",
+            "Name": "雷蛍浮光",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>ファデュイ · 雷蛍術師</color>の時、このカードを装備できる。<br>ファデュイ · 雷蛍術師がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>霧虚ろの召喚</color>を1回発動する。<br>このカードを装備したファデュイ · 雷蛍術師がフィールドに存在する時、味方がアクションをする前に、<color style='color:#FFFFFFFF'>雷蛍</color>の<color style='color:#FFFFFFFF'>使用可能回数</color>が3以上の場合、<color style='color:#FFFFFFFF'>雷蛍</color>は直ちに[b]2104[a]<color style='color:#FFACFFFF'>雷元素ダメージ</color>を1与える。（<color style='color:#FFFFFFFF'>使用可能回数</color>の消費が必要、各ラウンドで1回のみ）<br>（このカードはデッキにファデュイ · 雷蛍術師が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -6268,8 +6270,8 @@ var _card = [
         },
         {
             "_id": 217071,
-            "Name": "Countless Sights to See",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Kirara</color>, equip this card.<br>After Kirara equips this card, immediately use <color style='color:#FFD780FF'>Meow-teor Kick</color> once.<br>When your <color style='color:#FFFFFFFF'>Kirara</color> who has this card equipped is the active character, spend 1 less Elemental Die when switching characters. (Once per Round)<br>(You must have Kirara in your deck to add this card to your deck.)",
+            "Name": "道中百景心得たり",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>綺良々</color>の時、このカードを装備できる。<br>綺良々がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>にゃんにゃん町飛脚</color>を1回発動する。<br>このカードを装備した<color style='color:#FFFFFFFF'>綺良々</color>が出撃キャラの場合、味方が「キャラチェンジ」を行う時、必要な元素サイコロの数-1。（各ラウンドで1回のみ）<br>（このカードはデッキに綺良々が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -6285,8 +6287,8 @@ var _card = [
         },
         {
             "_id": 212101,
-            "Name": "Heir to the Ancient Sea's Authority",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Neuvillette</color>, equip this card.<br>After Neuvillette equips this card, immediately use <color style='color:#FFD780FF'>As Water Seeks Equilibrium</color> once.<br>After your characters trigger <color style='color:#80C0FFFF'>[b]2102[a]Hydro-Related Reactions</color>: Neuvillette, who has this card equipped, deals +1 DMG for the next 2 instances.<br>(You must have Neuvillette in your deck to add this card to your deck.)",
+            "Name": "古海継嗣の権威",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>ヌヴィレット</color>の時、このカードを装備できる。<br>ヌヴィレットがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>清きこと水の如し</color>を1回発動する。<br>味方のキャラが<color style='color:#80C0FFFF'>[b]2102[a]水元素関連反応</color>を起こすと、このカードを装備したヌヴィレットが次の2回で与えるダメージ+1。<br>（このカードはデッキにヌヴィレットが含まれている場合のみデッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -6304,8 +6306,8 @@ var _card = [
         },
         {
             "_id": 211101,
-            "Name": "A Summation of Interest",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Charlotte</color>, equip this card.<br>After Charlotte equips this card, immediately use <color style='color:#FFD780FF'>Framing: Freezing Point Composition</color> once.<br>When your Charlotte, who has this card equipped, is on the field, and after any of your characters uses a Normal Attack: If your opponent has a character on the field with <color style='color:#FFFFFFFF'>Snappy Silhouette</color> attached, heal your active character for 2 HP. (Once per Round)<br>(You must have Charlotte in your deck to add this card to your deck.)",
+            "Name": "好奇を以て要義と為す",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>シャルロット</color>の時、このカードを装備できる。<br>シャルロットがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>フレーミング · 氷点法</color>を1回発動する。<br>このカードを装備したシャルロットがフィールドに存在し、かつ味方キャラが通常攻撃を発動した後、相手のフィールドに<color style='color:#FFFFFFFF'>スナップシルエット</color>を付与されているキャラが存在する場合、味方の出撃キャラのHPを2回復する。（各ラウンドで1回のみ）<br>（このカードはデッキにシャルロットが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -6323,8 +6325,8 @@ var _card = [
         },
         {
             "_id": 312702,
-            "Name": "Deepwood Memories",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1107[a]<color style='color:#7EC236FF'>Dendro</color> Die. (Once per Round)<br><color style='color:#FFFFFFFF'>Roll Phase:</color> 2 of the starting Elemental Dice you roll are always guaranteed to be [b]1107[a]<color style='color:#7EC236FF'>Dendro</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "深林の記憶",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラに「[b]3006[a]天賦」を使用する時、またはキャラがスキルを発動する時</color>、必要な[b]1107[a]<color style='color:#7EC236FF'>草元素</color>-1。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'>ロールフェーズ：</color>初期元素サイコロのうち、常に2個が[b]1107[a]<color style='color:#7EC236FF'>草元素</color>となる。<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6337,8 +6339,8 @@ var _card = [
         },
         {
             "_id": 312701,
-            "Name": "Laurel Coronet",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1107[a]<color style='color:#7EC236FF'>Dendro</color> Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "月桂の宝冠",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラに「[b]3006[a]天賦」を使用する時、またはキャラがスキルを発動する時</color>、必要な[b]1107[a]<color style='color:#7EC236FF'>草元素</color>-1。（各ラウンドで1回のみ）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6351,8 +6353,8 @@ var _card = [
         },
         {
             "_id": 312602,
-            "Name": "Archaic Petra",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1106[a]<color style='color:#FFE699FF'>Geo</color> Die. (Once per Round)<br><color style='color:#FFFFFFFF'>Roll Phase:</color> 2 of the starting Elemental Dice you roll are always guaranteed to be [b]1106[a]<color style='color:#FFE699FF'>Geo</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "悠久の磐岩",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラに「[b]3006[a]天賦」を使用する時、またはキャラがスキルを発動する時</color>、必要な[b]1106[a]<color style='color:#FFE699FF'>岩元素</color>-1。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'>ロールフェーズ：</color>初期元素サイコロのうち、常に2個が[b]1106[a]<color style='color:#FFE699FF'>岩元素</color>となる。<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6365,8 +6367,8 @@ var _card = [
         },
         {
             "_id": 312601,
-            "Name": "Mask of Solitude Basalt",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1106[a]<color style='color:#FFE699FF'>Geo</color> Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "不動玄石の相",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラに「[b]3006[a]天賦」を使用する時、またはキャラがスキルを発動する時</color>、必要な[b]1106[a]<color style='color:#FFE699FF'>岩元素</color>-1。（各ラウンドで1回のみ）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6379,8 +6381,8 @@ var _card = [
         },
         {
             "_id": 312502,
-            "Name": "Viridescent Venerer",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1105[a]<color style='color:#80FFD7FF'>Anemo</color> Die. (Once per Round)<br><color style='color:#FFFFFFFF'>Roll Phase:</color> 2 of the starting Elemental Dice you roll are always guaranteed to be [b]1105[a]<color style='color:#80FFD7FF'>Anemo</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "翠緑の影",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラに「[b]3006[a]天賦」を使用する時、またはキャラがスキルを発動する時</color>、必要な[b]1105[a]<color style='color:#80FFD7FF'>風元素</color>-1。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'>ロールフェーズ：</color>初期元素サイコロのうち、常に2個が[b]1105[a]<color style='color:#80FFD7FF'>風元素</color>となる。<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6393,8 +6395,8 @@ var _card = [
         },
         {
             "_id": 312501,
-            "Name": "Viridescent Venerer's Diadem",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1105[a]<color style='color:#80FFD7FF'>Anemo</color> Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "緑の狩人の冠",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラに「[b]3006[a]天賦」を使用する時、またはキャラがスキルを発動する時</color>、必要な[b]1105[a]<color style='color:#80FFD7FF'>風元素</color>-1。（各ラウンドで1回のみ）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6407,8 +6409,8 @@ var _card = [
         },
         {
             "_id": 312402,
-            "Name": "Thundering Fury",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1104[a]<color style='color:#FFACFFFF'>Electro</color> Die. (Once per Round)<br><color style='color:#FFFFFFFF'>Roll Phase:</color> 2 of the starting Elemental Dice you roll are always guaranteed to be [b]1104[a]<color style='color:#FFACFFFF'>Electro</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "雷のような怒り",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラに「[b]3006[a]天賦」を使用する時、またはキャラがスキルを発動する時</color>、必要な[b]1104[a]<color style='color:#FFACFFFF'>雷元素</color>-1。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'>ロールフェーズ：</color>初期元素サイコロのうち、常に2個が[b]1104[a]<color style='color:#FFACFFFF'>雷元素</color>となる。<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6421,8 +6423,8 @@ var _card = [
         },
         {
             "_id": 312401,
-            "Name": "Thunder Summoner's Crown",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1104[a]<color style='color:#FFACFFFF'>Electro</color> Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "雷を呼ぶ冠",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラに「[b]3006[a]天賦」を使用する時、またはキャラがスキルを発動する時</color>、必要な[b]1104[a]<color style='color:#FFACFFFF'>雷元素</color>-1。（各ラウンドで1回のみ）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6435,8 +6437,8 @@ var _card = [
         },
         {
             "_id": 312302,
-            "Name": "Crimson Witch of Flames",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1103[a]<color style='color:#FF9999FF'>Pyro</color> Die. (Once per Round)<br><color style='color:#FFFFFFFF'>Roll Phase:</color> 2 of the starting Elemental Dice you roll are always guaranteed to be [b]1103[a]<color style='color:#FF9999FF'>Pyro</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "燃え盛る炎の魔女",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラに「[b]3006[a]天賦」を使用する時、またはキャラがスキルを発動する時</color>、必要な[b]1103[a]<color style='color:#FF9999FF'>炎元素</color>-1。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'>ロールフェーズ：</color>初期元素サイコロのうち、常に2個が[b]1103[a]<color style='color:#FF9999FF'>炎元素</color>となる。<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6449,8 +6451,8 @@ var _card = [
         },
         {
             "_id": 312301,
-            "Name": "Witch's Scorching Hat",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1103[a]<color style='color:#FF9999FF'>Pyro</color> Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "焦げた魔女の帽子",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラに「[b]3006[a]天賦」を使用する時、またはキャラがスキルを発動する時</color>、必要な[b]1103[a]<color style='color:#FF9999FF'>炎元素</color>-1。（各ラウンドで1回のみ）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6463,8 +6465,8 @@ var _card = [
         },
         {
             "_id": 312202,
-            "Name": "Heart of Depth",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1102[a]<color style='color:#80C0FFFF'>Hydro</color> Die. (Once per Round)<br><color style='color:#FFFFFFFF'>Roll Phase:</color> 2 of the starting Elemental Dice you roll are always guaranteed to be [b]1102[a]<color style='color:#80C0FFFF'>Hydro</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "沈淪の心",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラに「[b]3006[a]天賦」を使用する時、またはキャラがスキルを発動する時</color>、必要な[b]1102[a]<color style='color:#80C0FFFF'>水元素</color>-1。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'>ロールフェーズ：</color>初期元素サイコロのうち、常に2個が[b]1102[a]<color style='color:#80C0FFFF'>水元素</color>となる。<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6477,8 +6479,8 @@ var _card = [
         },
         {
             "_id": 312201,
-            "Name": "Wine-Stained Tricorne",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1102[a]<color style='color:#80C0FFFF'>Hydro</color> Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "酒に漬けた帽子",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラに「[b]3006[a]天賦」を使用する時、またはキャラがスキルを発動する時</color>、必要な[b]1102[a]<color style='color:#80C0FFFF'>水元素</color>-1。（各ラウンドで1回のみ）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6491,8 +6493,8 @@ var _card = [
         },
         {
             "_id": 312102,
-            "Name": "Blizzard Strayer",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1101[a]<color style='color:#99FFFFFF'>Cryo</color> Die. (Once per Round)<br><color style='color:#FFFFFFFF'>Roll Phase:</color> 2 of the starting Elemental Dice you roll are always guaranteed to be [b]1101[a]<color style='color:#99FFFFFF'>Cryo</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "氷風を彷徨う勇士",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラに「[b]3006[a]天賦」を使用する時、またはキャラがスキルを発動する時</color>、必要な[b]1101[a]<color style='color:#99FFFFFF'>氷元素</color>-1。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'>ロールフェーズ：</color>初期元素サイコロのうち、常に2個が[b]1101[a]<color style='color:#99FFFFFF'>氷元素</color>となる。<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6505,8 +6507,8 @@ var _card = [
         },
         {
             "_id": 312101,
-            "Name": "Broken Rime's Echo",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1101[a]<color style='color:#99FFFFFF'>Cryo</color> Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "氷雪を踏む音",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラに「[b]3006[a]天賦」を使用する時、またはキャラがスキルを発動する時</color>、必要な[b]1101[a]<color style='color:#99FFFFFF'>氷元素</color>-1。（各ラウンドで1回のみ）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6519,8 +6521,8 @@ var _card = [
         },
         {
             "_id": 312023,
-            "Name": "Veteran's Visage",
-            "Desc": "<color style='color:#FFFFFFFF'>After this character takes DMG or is healed:</color> Based on the number of times this effect has been triggered this Round, the effects will be different.<br><color style='color:#FFFFFFFF'>First Trigger:</color> Create 1 Elemental Die of the character's Elemental Type.<br><color style='color:#FFFFFFFF'>Second Trigger:</color> Draw 1 card.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "老兵の容貌",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラがダメージ、または治療効果を受けた後</color>、本ラウンドでこの効果を発動した回数に応じて、異なる効果を発動する。<br><color style='color:#FFFFFFFF'>1回目の発動：</color>該当キャラの元素タイプに応じた元素サイコロが1個生成される。<br><color style='color:#FFFFFFFF'>2回目の発動：</color>手札を1枚引く。<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6533,8 +6535,8 @@ var _card = [
         },
         {
             "_id": 312022,
-            "Name": "Vourukasha's Glow",
-            "Desc": "<color style='color:#FFFFFFFF'>After this character takes DMG:</color> If the character to which this is attached is the active character, then draw 1 card. During this End Phase, heal the attached character for 1 HP. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "花海甘露の光",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラがダメージを受けた後</color>、装備キャラが「出撃キャラ」の場合、手札を1枚引く。さらに、本ラウンドのエンドフェーズで装備キャラのHPを1回復する。（各ラウンドで1回のみ）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6547,8 +6549,8 @@ var _card = [
         },
         {
             "_id": 312021,
-            "Name": "Heart of Khvarena's Brilliance",
-            "Desc": "<color style='color:#FFFFFFFF'>After this character takes DMG:</color> If the character to which this is attached is the active character, then draw 1 card. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "霊光明滅の心",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラがダメージを受けた後</color>、装備キャラが「出撃キャラ」の場合、手札を1枚引く。（各ラウンドで1回のみ）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6559,8 +6561,8 @@ var _card = [
         },
         {
             "_id": 312020,
-            "Name": "Echoes of an Offering",
-            "Desc": "<color style='color:#FFFFFFFF'>After this character uses Normal Attack:</color> Draw 1 card. (Once per Round)<br><color style='color:#FFFFFFFF'>After this character uses a Skill:</color> If you do not have more Elemental Dice than cards in your Hand, you will gain 1 Elemental Die of the attached character's Type. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "来歆の余響",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラが「通常攻撃」を発動した後</color>、手札を1枚引く。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'>キャラがスキルを発動した後</color>、味方の元素サイコロの数が手札の数を超えていない場合、装備キャラの元素タイプに応じた元素サイコロを1個生成する。（各ラウンドで1回のみ）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6573,8 +6575,8 @@ var _card = [
         },
         {
             "_id": 312019,
-            "Name": "Flowing Rings",
-            "Desc": "<color style='color:#FFFFFFFF'>After the character uses a Normal Attack:</color> Draw 1 card. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "浮流の対玉",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラが「通常攻撃」を発動した後</color>、手札を1枚引く。（各ラウンドで1回のみ）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6585,8 +6587,8 @@ var _card = [
         },
         {
             "_id": 312018,
-            "Name": "Gilded Dreams",
-            "Desc": "<color style='color:#FFFFFFFF'>When played: </color>Generate 1 Die of the same Element as the attached character. If you have 3 different Elemental Types in your party, generate 2 such Dice instead.<br><color style='color:#FFFFFFFF'>When the character to which this card is attached is your active character, then when an opposing character takes Elemental Reaction DMG: </color>Draw 1 card. (Up to twice per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "金メッキの夢",
+            "Desc": "<color style='color:#FFFFFFFF'>登場時</color>、装備キャラの元素タイプに応じた元素サイコロを1個生成する。味方チームに3種類の異なる元素タイプが存在する場合、代わりに元素サイコロを2個生成するようになる。<br><color style='color:#FFFFFFFF'>装備キャラが出撃キャラである期間中、相手が元素反応によるダメージを受けた時、</color>手札を1枚引く。（各ラウンド最大2回まで）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6599,8 +6601,8 @@ var _card = [
         },
         {
             "_id": 312017,
-            "Name": "Shadow of the Sand King",
-            "Desc": "<color style='color:#FFFFFFFF'>When played: </color>Draw a card.<br><color style='color:#FFFFFFFF'>When the character to which this card is attached is your active character, then when an opposing character takes Elemental Reaction DMG: </color>Draw a card. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "砂王の投影",
+            "Desc": "<color style='color:#FFFFFFFF'>登場時</color>、手札を1枚引く。<br><color style='color:#FFFFFFFF'>装備キャラが出撃キャラである期間中、相手が元素反応によるダメージを受けた時、</color>手札を1枚引く。（各ラウンドで1回のみ）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6613,8 +6615,8 @@ var _card = [
         },
         {
             "_id": 312016,
-            "Name": "Ocean-Hued Clam",
-            "Desc": "<color style='color:#FFFFFFFF'>When played:</color> Heal the attached character for 2 HP.<br>For every 3 HP of healing your characters receive, this card accumulates 1 Sea-Dyed Foam (maximum of 2).<br><color style='color:#FFFFFFFF'>When this character deals DMG:</color> Consume all Sea-Dyed Foam. DMG is increased by 1 for each Sea-Dyed Foam consumed.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "海染硨磲",
+            "Desc": "<color style='color:#FFFFFFFF'>登場時</color>、装備したキャラのHPを2回復する。<br>味方キャラのHPが3回復するたび、このカードに「海染の泡」を1蓄積する。（最大2まで蓄積可能）<br><color style='color:#FFFFFFFF'>キャラがダメージを与える時</color>、「海染の泡」をすべて消費し、なおかつ1消費するごとに与えるダメージ+1。<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6627,8 +6629,8 @@ var _card = [
         },
         {
             "_id": 312015,
-            "Name": "Crown of Watatsumi",
-            "Desc": "For every 3 HP of healing your characters receive, this card accumulates 1 Sea-Dyed Foam (maximum of 2).<br><color style='color:#FFFFFFFF'>When this character deals DMG:</color> Consume all Sea-Dyed Foam. DMG is increased by 1 for each Sea-Dyed Foam consumed.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "海祇の冠",
+            "Desc": "味方キャラのHPが3回復するたび、このカードに「海染の泡」を1蓄積する。（最大2まで蓄積可能）<br><color style='color:#FFFFFFFF'>キャラがダメージを与える時</color>、「海染の泡」をすべて消費し、1消費するごとに、与えるダメージがさらに+1。<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6641,8 +6643,8 @@ var _card = [
         },
         {
             "_id": 312014,
-            "Name": "Shimenawa's Reminiscence",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses an Elemental Skill:</color> Spend 1 less Elemental Die. (Once per Round)<br><color style='color:#FFFFFFFF'>If the character has at least 2 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>,</color> this character's Normal Attacks and Elemental Skills will deal +1 DMG.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "追憶のしめ縄",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラに「[b]3006[a]天賦」を使用する時、またはキャラが「元素スキル」を発動する時</color>、必要な元素サイコロの数-1。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'>キャラが<color style='color:#FFFFFFFF'>[b]1110[a]チャージ</color>を2以上持っている場合</color>、キャラの「通常攻撃」および「元素スキル」の与えるダメージ+1。<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6657,8 +6659,8 @@ var _card = [
         },
         {
             "_id": 312013,
-            "Name": "Capricious Visage",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses an Elemental Skill:</color> Spend 1 less Elemental Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "無常の面",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラに「[b]3006[a]天賦」を使用する時、またはキャラが「元素スキル」を発動する時</color>、必要な元素サイコロの数-1。（各ラウンドで1回のみ）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6671,8 +6673,8 @@ var _card = [
         },
         {
             "_id": 312012,
-            "Name": "Vermillion Hereafter",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Normal Attack:</color> Spend 1 less Elemental Die. (Once per Round)<br><color style='color:#FFFFFFFF'>After a character is switched to the active character:</color> During this Round, character deals +1 Normal Attack DMG.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "辰砂往生録",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラに「[b]3006[a]天賦」を使用する時、またはキャラが「通常攻撃」を発動する時</color>、必要な元素サイコロの数-1。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'>キャラが「出撃キャラ」にチェンジした後</color>、本ラウンドにおいて、キャラの「通常攻撃」の与えるダメージ+1。<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6685,8 +6687,8 @@ var _card = [
         },
         {
             "_id": 312011,
-            "Name": "Thundering Poise",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Normal Attack:</color> Spend 1 less Elemental Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "虺雷の姿",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラに「[b]3006[a]天賦」を使用する時、またはキャラが「通常攻撃」を発動する時</color>、必要な元素サイコロの数-1。（各ラウンドで1回のみ）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6699,8 +6701,8 @@ var _card = [
         },
         {
             "_id": 312010,
-            "Name": "Tenacity of the Millelith",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> The character to which this is attached gains <color style='color:#FFFFFFFF'>Unmovable Mountain</color> that provides 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points.<br><color style='color:#FFFFFFFF'>After this character takes DMG:</color> If the character this card is attached to is the active character, create 1 Elemental Die matching this character's Elemental Type. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "千岩牢固",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時</color>、キャラに<color style='color:#FFFFFFFF'>「揺るぎない」</color>を付与する。（[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>を2提供し、該当キャラを守る。）<br><color style='color:#FFFFFFFF'>キャラがダメージを受けた後</color>、付与されたキャラが「出撃キャラ」の場合、該当キャラの元素タイプに応じた元素サイコロが1個生成される。（各ラウンドで1回のみ）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6717,8 +6719,8 @@ var _card = [
         },
         {
             "_id": 312009,
-            "Name": "General's Ancient Helm",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> The character to which this is attached gains <color style='color:#FFFFFFFF'>Unmovable Mountain</color> that provides 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "将帥の兜",
+            "Desc": "<color style='color:#FFFFFFFF'>アクションフェーズ開始時</color>、キャラに<color style='color:#FFFFFFFF'>「揺るぎない」</color>を付与する。（[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>を2提供し、該当キャラを守る。）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6735,8 +6737,8 @@ var _card = [
         },
         {
             "_id": 312008,
-            "Name": "Emblem of Severed Fate",
-            "Desc": "<color style='color:#FFFFFFFF'>After another character of yours uses an Elemental Burst: </color>The character to which this is attached gains 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.<br>The DMG dealt by the character's Elemental Bursts is increased by 2 (once per Round).<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "絶縁の旗印",
+            "Desc": "<color style='color:#FFFFFFFF'>他の味方キャラが「元素爆発」を発動した後</color>、装備キャラが<color style='color:#FFFFFFFF'>[b]1110[a]チャージ</color>を1獲得する。<br>キャラの「元素爆発」の与えるダメージ+2。（各ラウンドで1回のみ）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6751,8 +6753,8 @@ var _card = [
         },
         {
             "_id": 312007,
-            "Name": "Ornate Kabuto",
-            "Desc": "<color style='color:#FFFFFFFF'>After another character of yours uses an Elemental Burst: </color>The character to which this is attached gains 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "華飾の兜",
+            "Desc": "<color style='color:#FFFFFFFF'>他の味方キャラが「元素爆発」を発動した後</color>、装備キャラが<color style='color:#FFFFFFFF'>[b]1110[a]チャージ</color>を1獲得する。<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6767,8 +6769,8 @@ var _card = [
         },
         {
             "_id": 312006,
-            "Name": "Exile's Circlet",
-            "Desc": "<color style='color:#FFFFFFFF'>After the character uses an Elemental Burst:</color> All your characters on standby gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "亡命者の冠",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラが「元素爆発」を発動した後</color>、味方の待機キャラ全員が<color style='color:#FFFFFFFF'>[b]1110[a]チャージ</color>を1獲得する。（各ラウンドで1回のみ）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6783,8 +6785,8 @@ var _card = [
         },
         {
             "_id": 312005,
-            "Name": "Instructor's Cap",
-            "Desc": "<color style='color:#FFFFFFFF'>After the character triggers an Elemental Reaction:</color> Create 1 Elemental Die that matches this Character's Elemental Type. (Max 3 times per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "教官の帽子",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラが元素反応を起こした後</color>、該当キャラの元素タイプに応じた元素サイコロが1個生成される。（各ラウンド最大3回まで）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6797,8 +6799,8 @@ var _card = [
         },
         {
             "_id": 312004,
-            "Name": "Gambler's Earrings",
-            "Desc": "<color style='color:#FFFFFFFF'>After an opposing character is defeated:</color> If the character this card is attached to is the active character, create <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> ×2. (Can happen 3 times per match)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "博徒のピアス",
+            "Desc": "<color style='color:#FFFFFFFF'>相手のキャラを倒した後：</color>装備キャラが「出撃キャラ」の場合、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を2個生成する。（各対戦ごとに3回まで）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6813,8 +6815,8 @@ var _card = [
         },
         {
             "_id": 312003,
-            "Name": "Traveling Doctor's Handkerchief",
-            "Desc": "<color style='color:#FFFFFFFF'>After the character uses an Elemental Burst:</color> Heal all your characters for 1 HP. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "医者の方巾",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラが「元素爆発」を発動した後</color>、味方のチーム全員のHPを1回復する。（各ラウンドで1回のみ）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6827,8 +6829,8 @@ var _card = [
         },
         {
             "_id": 312002,
-            "Name": "Lucky Dog's Silver Circlet",
-            "Desc": "<color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> Heal self for 2 HP. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "幸運の冠",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラが「元素スキル」を発動した後</color>、自身のHPを2回復する。（各ラウンドで1回のみ）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6841,8 +6843,8 @@ var _card = [
         },
         {
             "_id": 312001,
-            "Name": "Adventurer's Bandana",
-            "Desc": "<color style='color:#FFFFFFFF'>After the character uses a Normal Attack:</color> Heal self for 1 HP. (Max 3 times per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "冒険者のバンダナ",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラが「通常攻撃」を発動した後</color>、自身のHPを1回復する。（各ラウンド最大3回まで）<br>（キャラが装備できる「[b]3004[a]聖遺物」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6855,8 +6857,8 @@ var _card = [
         },
         {
             "_id": 311507,
-            "Name": "Sapwood Blade",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When entering play:</color> When the character to which this is attached next uses a Normal Attack during this Round: Create 2 Elemental Dice of this character's Elemental Type.<br>(<color style='color:#FFFFFFFF'>Only [b]3205[a]Sword Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "原木刀",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>登場時</color>、付与されたキャラが本ラウンドで次に「通常攻撃」を発動した後、該当キャラの元素タイプに応じた元素サイコロが2個生成される。<br>（<color style='color:#FFFFFFFF'>「[b]3205[a]片手剣」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_SWORD"
@@ -6870,8 +6872,8 @@ var _card = [
         },
         {
             "_id": 311506,
-            "Name": "Light of Foliar Incision",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses a Normal Attack:</color> Create 1 random basic Elemental Die. (Can be triggered up to twice per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3205[a]Sword Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "萃光の裁葉",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>キャラが「通常攻撃」を発動した後</color>、ランダムで基本元素サイコロを1個生成する。（各ラウンド最大2回まで）<br>（<color style='color:#FFFFFFFF'>「[b]3205[a]片手剣」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_SWORD"
@@ -6885,8 +6887,8 @@ var _card = [
         },
         {
             "_id": 311505,
-            "Name": "Favonius Sword",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> The character gains 1 additional <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3205[a]Sword Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "西風剣",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>キャラが「元素スキル」を発動した後</color>、追加で<color style='color:#FFFFFFFF'>[b]1110[a]チャージ</color>を1獲得する。（各ラウンドで1回のみ）<br>（<color style='color:#FFFFFFFF'>「[b]3205[a]片手剣」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_SWORD"
@@ -6902,8 +6904,8 @@ var _card = [
         },
         {
             "_id": 311504,
-            "Name": "Skyward Blade",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>Once per Round:</color> This character's <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 additional DMG.<br>(<color style='color:#FFFFFFFF'>Only [b]3205[a]Sword Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "天空の刃",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>各ラウンドで1回のみ</color>、キャラの<color style='color:#FFFFFFFF'>「通常攻撃」</color>によるダメージがさらに+1。<br>（<color style='color:#FFFFFFFF'>「[b]3205[a]片手剣」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_SWORD"
@@ -6917,8 +6919,8 @@ var _card = [
         },
         {
             "_id": 311503,
-            "Name": "Aquila Favonia",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the opposing character uses a Skill:</color> If the character with this attached is the active character, heal this character for 1 HP. (Max twice per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3205[a]Sword Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "風鷹剣",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>相手がスキルを発動した後</color>、装備キャラが「出撃キャラ」である場合、該当キャラのHPを1回復する。（各ラウンド最大2回まで）<br>（<color style='color:#FFFFFFFF'>「[b]3205[a]片手剣」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_SWORD"
@@ -6932,8 +6934,8 @@ var _card = [
         },
         {
             "_id": 311502,
-            "Name": "Sacrificial Sword",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3205[a]Sword Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "祭礼の剣",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>キャラが「元素スキル」を発動した後</color>、該当キャラの元素タイプに応じた元素サイコロが1個生成される。（各ラウンドで1回のみ）<br>（<color style='color:#FFFFFFFF'>「[b]3205[a]片手剣」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_SWORD"
@@ -6947,8 +6949,8 @@ var _card = [
         },
         {
             "_id": 311501,
-            "Name": "Traveler's Handy Sword",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br>(<color style='color:#FFFFFFFF'>Only [b]3205[a]Sword Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "旅道の剣",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br>（<color style='color:#FFFFFFFF'>「[b]3205[a]片手剣」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_SWORD"
@@ -6962,8 +6964,8 @@ var _card = [
         },
         {
             "_id": 311407,
-            "Name": "Primordial Jade Winged-Spear",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After this character uses a Skill:</color> Until the end of this Round, +1 additional DMG provided by this card. (Up to +2 DMG total.)<br>(<color style='color:#FFFFFFFF'>Only [b]3204[a]Polearm Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "和璞鳶",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>キャラがスキルを発動した後</color>、ラウンド終了まで、このカードが提供する「ダメージアップ効果」の値がさらに+1。（最大+2まで蓄積可能）<br>（<color style='color:#FFFFFFFF'>「[b]3204[a]長柄武器」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_POLE"
@@ -6977,8 +6979,8 @@ var _card = [
         },
         {
             "_id": 311406,
-            "Name": "Moonpiercer",
-            "Desc": "<color style='color:#FFFFFFFF'>Character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When played: </color>During this Round, the next time you play a [b]3006[a]Talent card or a Character uses an Elemental Skill, spend 2 fewer Elemental Dice.<br>(Only <color style='color:#FFFFFFFF'>[b]3204[a]Polearm Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon.)",
+            "Name": "ムーンピアサー",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>登場時</color>、本ラウンドで次にキャラに「[b]3006[a]天賦」を使用する時、またはキャラが「元素スキル」を発動する時、必要な元素サイコロの数-2。<br>（<color style='color:#FFFFFFFF'>「[b]3204[a]長柄武器」</color>キャラのみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_POLE"
@@ -6992,8 +6994,8 @@ var _card = [
         },
         {
             "_id": 311405,
-            "Name": "Engulfing Lightning",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>Triggers automatically once per Round:</color> If the character to which this is attached does not have <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>, they will gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.<br>(<color style='color:#FFFFFFFF'>Only [b]3204[a]Polearm Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "草薙の稲光",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>各ラウンドで自動的に1回発動する：</color>付与されたキャラに<color style='color:#FFFFFFFF'>[b]1110[a]チャージ</color>がない場合、<color style='color:#FFFFFFFF'>[b]1110[a]チャージ</color>を1獲得する。<br>（<color style='color:#FFFFFFFF'>「[b]3204[a]長柄武器」キャラのみ</color>装備可能。キャラは最大1つの「[b]3003[a]武器」を装備できる）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_POLE"
@@ -7009,8 +7011,8 @@ var _card = [
         },
         {
             "_id": 311404,
-            "Name": "Vortex Vanquisher",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br>When your active character is protected by a [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> Character Status or a [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> Combat Status, you deal +1 DMG.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> If you have a Combat Status that grants a [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> on your side, add 1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point to that Combat Status. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3204[a]Polearm Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "破天の槍",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br>キャラが[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>キャラ状態、または[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>出撃状態にある時、与えるダメージがさらに+1。<br><color style='color:#FFFFFFFF'>キャラが「元素スキル」を発動した後</color>、味方側に「[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>」を提供できる出撃状態が存在する場合、その出撃状態（1つのみ）に対して「[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>」+1。（各ラウンドで1回のみ）<br>（<color style='color:#FFFFFFFF'>「[b]3204[a]長柄武器」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_POLE"
@@ -7026,8 +7028,8 @@ var _card = [
         },
         {
             "_id": 311403,
-            "Name": "Skyward Spine",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>Once per Round:</color> This character's <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 additional DMG.<br>(<color style='color:#FFFFFFFF'>Only [b]3204[a]Polearm Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "天空の脊",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>各ラウンドで1回のみ</color>、キャラの<color style='color:#FFFFFFFF'>「通常攻撃」</color>によるダメージがさらに+1。<br>（<color style='color:#FFFFFFFF'>「[b]3204[a]長柄武器」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_POLE"
@@ -7041,8 +7043,8 @@ var _card = [
         },
         {
             "_id": 311402,
-            "Name": "Lithic Spear",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When played:</color> For each of your party members from [b]3402[a]Liyue, grant <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point</color> to the character to which this is attached. (Max 3 points)<br>(<color style='color:#FFFFFFFF'>Only [b]3204[a]Polearm Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "千岩長槍",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>登場時</color>、味方チームに「[b]3402[a]璃月」のキャラが1体存在するごとに、このカードは装備キャラに<color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>を1</color>提供する。（最大3まで）<br>（<color style='color:#FFFFFFFF'>「[b]3204[a]長柄武器」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_POLE"
@@ -7058,8 +7060,8 @@ var _card = [
         },
         {
             "_id": 311401,
-            "Name": "White Tassel",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br>(<color style='color:#FFFFFFFF'>Only [b]3204[a]Polearm Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "白纓槍",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br>（<color style='color:#FFFFFFFF'>「[b]3204[a]長柄武器」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_POLE"
@@ -7073,8 +7075,8 @@ var _card = [
         },
         {
             "_id": 311306,
-            "Name": "Beacon of the Reed Sea",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> +1 additional DMG dealt by character this Round the next time they deal DMG. (Once per Round)<br><color style='color:#FFFFFFFF'>After this character takes DMG:</color> +1 additional DMG dealt by character this Round the next time they deal DMG. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3203[a]Claymore Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "葦海の標",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>キャラが「元素スキル」を発動した後</color>、本ラウンドにおいて、キャラの次の与えるダメージがさらに+1。（各ラウンドで1回のみ）<br><color style='color:#FFFFFFFF'>キャラがダメージを受けた後</color>、本ラウンドにおいて、キャラの次の与えるダメージがさらに+1。（各ラウンドで1回のみ）<br>（<color style='color:#FFFFFFFF'>「[b]3203[a]両手剣」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CLAYMORE"
@@ -7088,8 +7090,8 @@ var _card = [
         },
         {
             "_id": 311305,
-            "Name": "The Bell",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses a skill:</color> Gives 1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point to your active character. (Once per Round, stacks up to 2 points)<br>(<color style='color:#FFFFFFFF'>Only [b]3203[a]Claymore Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "鐘の剣",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>キャラがスキルを発動した後</color>、味方の出撃キャラは[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>を1獲得する。（各ラウンドで1回のみ、最大2まで重ねられる）<br>（<color style='color:#FFFFFFFF'>「[b]3203[a]両手剣」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CLAYMORE"
@@ -7105,8 +7107,8 @@ var _card = [
         },
         {
             "_id": 311304,
-            "Name": "Skyward Pride",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>Once per Round:</color> This character's <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 additional DMG.<br>(<color style='color:#FFFFFFFF'>Only [b]3203[a]Claymore Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "天空の傲",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>各ラウンドで1回のみ</color>、キャラの<color style='color:#FFFFFFFF'>「通常攻撃」</color>によるダメージがさらに+1。<br>（<color style='color:#FFFFFFFF'>「[b]3203[a]両手剣」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CLAYMORE"
@@ -7120,8 +7122,8 @@ var _card = [
         },
         {
             "_id": 311303,
-            "Name": "Wolf's Gravestone",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br>Deal +2 additional DMG if the target's remaining HP is equal to or less than 6.<br>(<color style='color:#FFFFFFFF'>Only [b]3203[a]Claymore Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "狼の末路",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br>残りHPが6以下の目標を攻撃する時、ダメージがさらに+2。<br>（<color style='color:#FFFFFFFF'>「[b]3203[a]両手剣」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CLAYMORE"
@@ -7135,8 +7137,8 @@ var _card = [
         },
         {
             "_id": 311302,
-            "Name": "Sacrificial Greatsword",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3203[a]Claymore Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "祭礼の大剣",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>キャラが「元素スキル」を発動した後</color>、該当キャラの元素タイプに応じた元素サイコロが1個生成される。（各ラウンドで1回のみ）<br>（<color style='color:#FFFFFFFF'>「[b]3203[a]両手剣」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CLAYMORE"
@@ -7150,8 +7152,8 @@ var _card = [
         },
         {
             "_id": 311301,
-            "Name": "White Iron Greatsword",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br>(<color style='color:#FFFFFFFF'>Only [b]3203[a]Claymore Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "白鉄の大剣",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br>（<color style='color:#FFFFFFFF'>「[b]3203[a]両手剣」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CLAYMORE"
@@ -7165,8 +7167,8 @@ var _card = [
         },
         {
             "_id": 311206,
-            "Name": "King's Squire",
-            "Desc": "<color style='color:#FFFFFFFF'>Character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When played: </color>During this Round, the next time you play a [b]3006[a]Talent card or a Character using an Elemental Skill, spend 2 fewer Elemental Dice.<br>(Only <color style='color:#FFFFFFFF'>[b]3202[a]Bow Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon.)",
+            "Name": "王の近侍",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>登場時</color>、本ラウンドで次にキャラに「[b]3006[a]天賦」を使用する時、またはキャラが「元素スキル」を発動する時、必要な元素サイコロの数-2。<br>（<color style='color:#FFFFFFFF'>「[b]3202[a]弓」</color>キャラのみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_BOW"
@@ -7180,8 +7182,8 @@ var _card = [
         },
         {
             "_id": 311205,
-            "Name": "Elegy for the End",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Burst:</color> Create <color style='color:#FFFFFFFF'>Millennial Movement: Farewell Song</color>. (Your character deals +1 DMG, <color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2)<br>(<color style='color:#FFFFFFFF'>Only [b]3202[a]Bow Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "終焉を嘆く詩",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>キャラが「元素爆発」を発動した後</color>、<color style='color:#FFFFFFFF'>「千年の大楽章 · 別れの歌」</color>を生成する。（味方キャラの与えるダメージ+1、<color style='color:#FFFFFFFF'>継続ラウンド数</color>：2）<br>（<color style='color:#FFFFFFFF'>「[b]3202[a]弓」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_BOW"
@@ -7199,8 +7201,8 @@ var _card = [
         },
         {
             "_id": 311204,
-            "Name": "Amos' Bow",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When the character uses a Skill that costs at least a total of 5 Elemental Dice and Energy</color>, +2 additional DMG. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3202[a]Bow Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "アモスの弓",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>キャラが「元素サイコロ+チャージ」のコストが初期状態で5以上のスキルを発動する時</color>、ダメージがさらに+2。（各ラウンドで1回のみ）<br>（<color style='color:#FFFFFFFF'>「[b]3202[a]弓」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_BOW"
@@ -7214,8 +7216,8 @@ var _card = [
         },
         {
             "_id": 311203,
-            "Name": "Skyward Harp",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>Once per Round:</color> This character's <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 additional DMG.<br>(<color style='color:#FFFFFFFF'>Only [b]3202[a]Bow Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "天空の翼",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>各ラウンドで1回のみ</color>、キャラの<color style='color:#FFFFFFFF'>「通常攻撃」</color>によるダメージがさらに+1。<br>（<color style='color:#FFFFFFFF'>「[b]3202[a]弓」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_BOW"
@@ -7229,8 +7231,8 @@ var _card = [
         },
         {
             "_id": 311202,
-            "Name": "Sacrificial Bow",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3202[a]Bow Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "祭礼の弓",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>キャラが「元素スキル」を発動した後</color>、該当キャラの元素タイプに応じた元素サイコロが1個生成される。（各ラウンドで1回のみ）<br>（<color style='color:#FFFFFFFF'>「[b]3202[a]弓」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_BOW"
@@ -7244,8 +7246,8 @@ var _card = [
         },
         {
             "_id": 311201,
-            "Name": "Raven Bow",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br>(<color style='color:#FFFFFFFF'>Only [b]3202[a]Bow Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "鴉羽の弓",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br>（<color style='color:#FFFFFFFF'>「[b]3202[a]弓」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_BOW"
@@ -7259,8 +7261,8 @@ var _card = [
         },
         {
             "_id": 311107,
-            "Name": "Tulaytullah's Remembrance",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When the character uses a <color style='color:#FFFFFFFF'>Charged Attack</color>:</color> Spend 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>. (Can be triggered up to twice per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3201[a]Catalyst Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "トゥライトゥーラの記憶",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>キャラが<color style='color:#FFFFFFFF'>重撃</color>を行う時</color>、必要な<color style='color:#FFFFFFFF'>[b]1109[a]無色元素</color>-1。（各ラウンド最大2回まで）<br>（<color style='color:#FFFFFFFF'>「[b]3201[a]法器」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -7277,8 +7279,8 @@ var _card = [
         },
         {
             "_id": 311106,
-            "Name": "Lost Prayer to the Sacred Winds",
-            "Desc": "<color style='color:#FFFFFFFF'>For each point of \"Bonus DMG\" this card has, character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>End Phase:</color> This card gains 1 point of \"Bonus DMG.\" (Max 2 points)<br>(Can only be equipped by <color style='color:#FFFFFFFF'>[b]3201[a]Catalyst Characters</color>. Each Character can equip at most 1 [b]3003[a]Weapon.)",
+            "Name": "四風原典",
+            "Desc": "<color style='color:#FFFFFFFF'>このカードの「ダメージアップ効果」が1につき、キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>エンドフェーズ：</color>このカードの「ダメージアップ効果」+1。（最大2まで蓄積可能）<br>（<color style='color:#FFFFFFFF'>「[b]3201[a]法器」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -7292,8 +7294,8 @@ var _card = [
         },
         {
             "_id": 311105,
-            "Name": "Fruit of Fulfillment",
-            "Desc": "<color style='color:#FFFFFFFF'>Character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When played:</color> Draw 2 cards.<br>(Can only be equipped by <color style='color:#FFFFFFFF'>[b]3201[a]Catalyst characters</color>. Characters can equip at most 1 [b]3003[a]Weapon)",
+            "Name": "満悦の実",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>登場時</color>、手札を2枚引く。<br>（<color style='color:#FFFFFFFF'>「[b]3201[a]法器」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -7307,8 +7309,8 @@ var _card = [
         },
         {
             "_id": 311104,
-            "Name": "A Thousand Floating Dreams",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When your character triggers an Elemental Reaction:</color> Deal +1 DMG. (Twice per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3201[a]Catalyst Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "千夜に浮かぶ夢",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>味方のキャラが元素反応を起こした時</color>、与えるダメージ+1。（各ラウンド最大2回まで）<br>（<color style='color:#FFFFFFFF'>「[b]3201[a]法器」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -7322,8 +7324,8 @@ var _card = [
         },
         {
             "_id": 311103,
-            "Name": "Skyward Atlas",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>Once per Round:</color> This character's <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 additional DMG.<br>(<color style='color:#FFFFFFFF'>Only [b]3201[a]Catalyst Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "天空の巻",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>各ラウンドで1回のみ</color>、キャラの<color style='color:#FFFFFFFF'>「通常攻撃」</color>によるダメージがさらに+1。<br>（<color style='color:#FFFFFFFF'>「[b]3201[a]法器」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -7337,8 +7339,8 @@ var _card = [
         },
         {
             "_id": 311102,
-            "Name": "Sacrificial Fragments",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3201[a]Catalyst Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "祭礼の断片",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br><color style='color:#FFFFFFFF'>キャラが「元素スキル」を発動した後</color>、該当キャラの元素タイプに応じた元素サイコロが1個生成される。（各ラウンドで1回のみ）<br>（<color style='color:#FFFFFFFF'>「[b]3201[a]法器」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -7352,8 +7354,8 @@ var _card = [
         },
         {
             "_id": 311101,
-            "Name": "Magic Guide",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br>(<color style='color:#FFFFFFFF'>Only [b]3201[a]Catalyst Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "魔導緒論",
+            "Desc": "<color style='color:#FFFFFFFF'>キャラの与えるダメージ+1</color>。<br>（<color style='color:#FFFFFFFF'>「[b]3201[a]法器」キャラ</color>のみ装備可能。キャラが装備できる「[b]3003[a]武器」は最大1つまで）",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -7367,8 +7369,8 @@ var _card = [
         },
         {
             "_id": 227011,
-            "Name": "Proliferating Spores",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Jadeplume Terrorshroom</color>, equip this card.<br>After Jadeplume Terrorshroom equips this card, immediately use <color style='color:#FFD780FF'>Volatile Spore Cloud</color> once.<br>Your Jadeplume Terrorshroom, who has this card equipped, can accumulate 1 more stack of Radical Vitality.<br>(You must have Jadeplume Terrorshroom in your deck to add this card to your deck.)",
+            "Name": "胞子増殖",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>マッシュラプトル</color>の時、このカードを装備できる。<br>マッシュラプトルがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>不安定な胞子雲</color>を1回発動する。<br>このカードを装備したマッシュラプトルは、「活発激能」の重ね掛け可能層数+1。<br>（このカードはデッキにマッシュラプトルが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7384,8 +7386,8 @@ var _card = [
         },
         {
             "_id": 226011,
-            "Name": "Stonehide Reforged",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Stonehide Lawachurl</color>, equip this card.<br>After Stonehide Lawachurl equips this card, immediately use <color style='color:#FFD780FF'>Upa Shato</color> once.<br>When your Stonehide Lawachurl, who has this card equipped, defeats an opposing character: Stonehide Lawachurl will re-attach <color style='color:#FFFFFFFF'>Stonehide</color> and <color style='color:#FFFFFFFF'>Stone Force</color>.<br>(You must have Stonehide Lawachurl in your deck to add this card to your deck.)",
+            "Name": "鋳直し：岩兜",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>ヒルチャール · 岩兜の王</color>の時、このカードを装備できる。<br>ヒルチャール · 岩兜の王がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>Upa Shato</color>を1回発動する。<br>このカードを装備したヒルチャール · 岩兜の王が敵を倒した後、<color style='color:#FFFFFFFF'>岩兜</color>と<color style='color:#FFFFFFFF'>堅岩の力</color>が再びヒルチャール · 岩兜の王に付与される。<br>（このカードはデッキにヒルチャール · 岩兜の王が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7405,8 +7407,8 @@ var _card = [
         },
         {
             "_id": 225021,
-            "Name": "Rending Vortex",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Dvalin</color>, equip this card.<br>After Dvalin equips this card, immediately use <color style='color:#FFD780FF'>Tempestuous Barrage</color> once.<br>When your Dvalin, who has this card equipped, is on the field, when <color style='color:#FFFFFFFF'>Total Collapse</color> attached to an opposing character is removed: Apply <color style='color:#FFFFFFFF'>Total Collapse</color> to the next opposing standby character. (Once per Round)<br>(You must have Dvalinin your deck to add this card to your deck.)",
+            "Name": "破壊の風渦",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>トワリン</color>の時、このカードを装備できる。<br>トワリンがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>暴風の轟撃</color>を1回発動する。<br>このカードを装備したトワリンがフィールドに存在する時、相手のキャラに付与した<color style='color:#FFFFFFFF'>倒壊</color>状態が解除された後、相手の次の待機キャラに<color style='color:#FFFFFFFF'>倒壊</color>を付与する。（各ラウンドで1回のみ）<br>（このカードはデッキにトワリンが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7424,8 +7426,8 @@ var _card = [
         },
         {
             "_id": 225011,
-            "Name": "Transcendent Automaton",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Maguu Kenki</color>, equip this card.<br>After Maguu Kenki equips this card, immediately use <color style='color:#FFD780FF'>Blustering Blade</color> once.<br>After your Maguu Kenki, who has this card equipped, uses <color style='color:#FFFFFFFF'>Blustering Blade</color>, you will switch to your next character. You will switch to your previous character when your Maguu Kenki, who has this card equipped, uses <color style='color:#FFFFFFFF'>Frosty Assault</color>.<br>(You must have Maguu Kenki in your deck to add this card to your deck.)",
+            "Name": "からくり神通",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>魔偶剣鬼</color>の時、このカードを装備できる。<br>魔偶剣鬼がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>孤風刀勢</color>を1回発動する。<br>このカードを装備した魔偶剣鬼が<color style='color:#FFFFFFFF'>孤風刀勢</color>を発動した後、味方の次のキャラへとチェンジする。<color style='color:#FFFFFFFF'>霜馳影突</color>を発動した後、味方の前のキャラへとチェンジする。<br>（このカードはデッキに魔偶剣鬼が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7441,8 +7443,8 @@ var _card = [
         },
         {
             "_id": 224031,
-            "Name": "Pearl Solidification",
-            "Desc": "Can only be played if your active character is <color style='color:#FFFFFFFF'>Millennial Pearl Seahorse</color>: When played, Millennial Pearl Seahorse will have <color style='color:#FFFFFFFF'>Fontemer Pearl</color> with 1 <color style='color:#FFFFFFFF'>Usage(s)</color> attached to them. If they already have Fontemer Pearl attached, <color style='color:#FFFFFFFF'>Usage(s)</color> +1 instead.<br>When the <color style='color:#FFFFFFFF'>Fontemer Pearl</color> attached to Millennial Pearl Seahorse negates DMG from Summons, change to <color style='color:#FFFFFFFF'>Usage(s)</color> not being consumed twice per Round.<br>(Your deck must contain Millennial Pearl Seahorse to add this card to your deck)",
+            "Name": "パール固化",
+            "Desc": "味方の出撃キャラが<color style='color:#FFFFFFFF'>千年真珠の海駿</color>の場合のみ使用可能。登場時、千年真珠の海駿は<color style='color:#FFFFFFFF'>使用可能回数</color>が1の<color style='color:#FFFFFFFF'>原海パール</color>を付与する。すでに原海パールが付与されている場合、その<color style='color:#FFFFFFFF'>使用可能回数</color>が+1となる。<br>このカードを装備した千年真珠の海駿の付与している<color style='color:#FFFFFFFF'>原海パール</color>が召喚物からのダメージを相殺する時、<color style='color:#FFFFFFFF'>使用可能回数</color>を消費しない。（各ラウンドで2回のみ）<br>（このカードはデッキに千年真珠の海駿が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT"
             ],
@@ -7457,8 +7459,8 @@ var _card = [
         },
         {
             "_id": 224021,
-            "Name": "Grieving Echo",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Thunder Manifestation</color>, equip this card.<br>After Thunder Manifestation equips this card, immediately use <color style='color:#FFD780FF'>Strifeful Lightning</color> once.<br>When your <color style='color:#FFFFFFFF'>Thunder Manifestation</color> is on the field and has this card equipped, when an opponent with <color style='color:#FFFFFFFF'>Lightning Rod</color> attached takes DMG: You draw 1 card. (Once per Round)<br>(You must have Thunder Manifestation in your deck to add this card to your deck.)",
+            "Name": "悲嘆号泣",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>雷音権現</color>の時、このカードを装備できる。<br>雷音権現がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>雷壁傾斜</color>を1回発動する。<br>このカードを装備した<color style='color:#FFFFFFFF'>雷音権現</color>がフィールドに存在し、<color style='color:#FFFFFFFF'>雷鳴探知</color>が付与されている相手のキャラがダメージを受けた時、味方は手札を1枚引く。（各ラウンドで1回のみ）<br>（このカードはデッキに雷音権現が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7476,8 +7478,8 @@ var _card = [
         },
         {
             "_id": 223031,
-            "Name": "Scorpocalypse",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Eremite Scorching Loremaster</color>, equip this card.<br>After Eremite Scorching Loremaster equips this card, immediately use <color style='color:#FFD780FF'>Spirit of Omen's Awakening: Pyro Scorpion</color> once.<br><color style='color:#FFFFFFFF'>Spirit of Omen: Pyro Scorpion</color> created by Eremite Scorching Loremaster with this card equipped will deal +1 DMG in Rounds when Eremite Scorching Loremaster has used a <color style='color:#FFFFFFFF'>Normal Attack</color> or <color style='color:#FFFFFFFF'>Elemental Skill</color>.<br><color style='color:#FFFFFFFF'>Spirit of Omen: Pyro Scorpion</color>'s DMG reduction effect can now be triggered twice per Round.<br>(Your deck must contain Eremite Scorching Loremaster to add this card to it)",
+            "Name": "サソリの大禍",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>エルマイト旅団 · サンドロアマスター</color>の時、このカードを装備できる。<br>エルマイト旅団 · サンドロアマスターがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>悪霊蘇生 · 炎の魔蠍</color>を1回発動する。<br>このカードを装備したエルマイト旅団 · サンドロアマスターの生成した<color style='color:#FFFFFFFF'>悪霊 · 炎の魔蠍</color>は、エルマイト旅団 · サンドロアマスターが<color style='color:#FFFFFFFF'>「通常攻撃」</color>または<color style='color:#FFFFFFFF'>「元素スキル」</color>を発動したことのあるラウンドにおいて、与えるダメージ+1。<br><color style='color:#FFFFFFFF'>悪霊 · 炎の魔蠍</color>のダメージ軽減効果は各ラウンド最大2回までとなる。<br>（このカードはデッキにエルマイト旅団 · サンドロアマスターが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7496,8 +7498,8 @@ var _card = [
         },
         {
             "_id": 223021,
-            "Name": "Embers Rekindled",
-            "Desc": "<color style='color:#FFFFFFFF'>When played:</color> If <color style='color:#FFFFFFFF'>Abyss Lector: Fathomless Flames</color>, who equips this card, has already triggered <color style='color:#FFFFFFFF'>Fiery Rebirth</color>, immediately discard this card and apply <color style='color:#FFFFFFFF'>Aegis of Abyssal Flame</color> to the character.<br>When Abyss Lector: Fathomless Flames, who has this card equipped, triggers <color style='color:#FFFFFFFF'>Fiery Rebirth</color>: discard this card and apply <color style='color:#FFFFFFFF'>Aegis of Abyssal Flame</color> to the character.<br>(You must have Abyss Lector: Fathomless Flames in your deck to add this card to your deck.)",
+            "Name": "再び燃え盛る残火",
+            "Desc": "<color style='color:#FFFFFFFF'>登場時</color>、このカードを装備した<color style='color:#FFFFFFFF'>アビスの詠唱者 · 淵炎</color>がすでに<color style='color:#FFFFFFFF'>炎の新生</color>を発動していた場合、直ちにこのカードを破棄し、キャラに<color style='color:#FFFFFFFF'>淵炎の加護</color>を付与する。<br>このカードを装備したアビスの詠唱者 · 淵炎が<color style='color:#FFFFFFFF'>炎の新生</color>を発動する時、このカードを破棄し、キャラに<color style='color:#FFFFFFFF'>淵炎の加護</color>を付与する。<br>（このカードはデッキにアビスの詠唱者 · 淵炎が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT"
             ],
@@ -7514,8 +7516,8 @@ var _card = [
         },
         {
             "_id": 223011,
-            "Name": "Paid in Full",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Fatui Pyro Agent</color>, equip this card.<br>After Fatui Pyro Agent equips this card, immediately use <color style='color:#FFD780FF'>Prowl</color> once.<br>When your Fatui Pyro Agent, who has this card equipped, creates a <color style='color:#FFFFFFFF'>Stealth</color>, it will have the following effects:<br>Starting <color style='color:#FFFFFFFF'>Usage(s)</color> +1, the [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> the attached character deals will be converted to [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br>(You must have Fatui Pyro Agent in your deck to add this card to your deck.)",
+            "Name": "目には目を",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>ファデュイ · デットエージェント · 炎</color>の時、このカードを装備できる。<br>ファデュイ · デットエージェント · 炎がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>隙を狙う</color>を1回発動する。<br>このカードを装備したファデュイ · デットエージェント · 炎の生成した<color style='color:#FFFFFFFF'>潜行</color>は以下の効果を獲得する。<br>初期<color style='color:#FFFFFFFF'>使用可能回数</color>+1、付与されたキャラの与える[b]2100[a]<color style='color:#FFFFFFFF'>物理ダメージ</color>が[b]2103[a]<color style='color:#FF9999FF'>炎元素ダメージ</color>へと変わる。<br>（このカードはデッキにファデュイ · デットエージェント · 炎が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7536,8 +7538,8 @@ var _card = [
         },
         {
             "_id": 222021,
-            "Name": "Mirror Cage",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Mirror Maiden</color>, equip this card.<br>After Mirror Maiden equips this card, immediately use <color style='color:#FFD780FF'>Influx Blast</color> once.<br>When your Mirror Maiden, who has this card equipped, creates a <color style='color:#FFFFFFFF'>Refraction</color>, it will have the following effects:<br>Starting <color style='color:#FFFFFFFF'>Duration (Rounds)</color> +1, will increase the Elemental Dice Cost of switching from the character to which this is attached to another character by 1.<br>(You must have Mirror Maiden in your deck to add this card to your deck.)",
+            "Name": "鏡の檻",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>ファデュイ · ミラーメイデン</color>の時、このカードを装備できる。<br>ファデュイ · ミラーメイデンがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>溢れる波の満潮</color>を1回発動する。<br>このカードを装備したファデュイ · ミラーメイデンの生成した<color style='color:#FFFFFFFF'>水光破鏡</color>は以下の効果を獲得する。<br>初期<color style='color:#FFFFFFFF'>継続ラウンド数</color>+1、付与されたキャラを他のキャラにチェンジする際に必要な元素サイコロ+1。<br>（このカードはデッキにファデュイ · ミラーメイデンが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7556,8 +7558,8 @@ var _card = [
         },
         {
             "_id": 222011,
-            "Name": "Streaming Surge",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Rhodeia of Loch</color>, equip this card.<br>After Rhodeia of Loch equips this card, immediately use <color style='color:#FFD780FF'>Tide and Torrent</color> once.<br>When your Rhodeia of Loch, who has this card equipped, uses <color style='color:#FFFFFFFF'>Tide and Torrent</color>: All of your Summon(s) gain +1 <color style='color:#FFFFFFFF'>Usage(s)</color>.<br>(You must have Rhodeia of Loch in your deck to add this card to your deck.)",
+            "Name": "百川奔流",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>純水精霊 · ローデシア</color>の時、このカードを装備できる。<br>純水精霊 · ローデシアがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>潮汐と激流</color>を1回発動する。<br>このカードを装備した純水精霊 · ローデシアが<color style='color:#FFFFFFFF'>潮汐と激流</color>を発動する時、味方のすべての召喚物の<color style='color:#FFFFFFFF'>使用可能回数</color>+1。<br>（このカードはデッキに純水精霊 · ローデシアが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7575,8 +7577,8 @@ var _card = [
         },
         {
             "_id": 221031,
-            "Name": "Sternfrost Prism",
-            "Desc": "Can only be played if your active character is <color style='color:#FFFFFFFF'>Cryo Hypostasis</color>: Attach <color style='color:#FFFFFFFF'>Cryo Crystal Core</color> to them.<br>After Cryo Hypostasis, who has this card equipped, triggers <color style='color:#FFFFFFFF'>Cryo Crystal Core</color>: Attach <color style='color:#FFFFFFFF'>Sheer Cold</color> to the opposing active character.<br>(Your deck must contain Cryo Hypostasis to add this card to your deck)",
+            "Name": "厳霜のプリズム",
+            "Desc": "味方の出撃キャラが<color style='color:#FFFFFFFF'>無相の氷</color>の場合のみ使用可能。<color style='color:#FFFFFFFF'>氷晶核心</color>を付与する。<br>このカードを装備した無相の氷が<color style='color:#FFFFFFFF'>氷晶核心</color>を発動した後、相手の出撃キャラに<color style='color:#FFFFFFFF'>極寒</color>を付与する。<br>（このカードはデッキに無相の氷が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT"
             ],
@@ -7593,8 +7595,8 @@ var _card = [
         },
         {
             "_id": 221021,
-            "Name": "Pain for Pain",
-            "Desc": "Can only be played if your active character is <color style='color:#FFFFFFFF'>La Signora</color>: When entering play, generate 3 Elemental Dice of the same Type as <color style='color:#FFFFFFFF'>La Signora</color>.<br>When this character takes at least 3 DMG: Negates 1 DMG, then apply <color style='color:#FFFFFFFF'>Sheer Cold</color> or <color style='color:#FFFFFFFF'>Blazing Heat</color> to the opposing active character based on La Signora's state. (Once per Round)<br>(Your deck must contain La Signora to add this card to your deck)",
+            "Name": "苦痛返上",
+            "Desc": "味方の出撃キャラが<color style='color:#FFFFFFFF'>「淑女」</color>の場合のみ使用可能。登場時、<color style='color:#FFFFFFFF'>「淑女」</color>の現在の元素タイプの元素サイコロを3個生成する。<br>キャラが3以上のダメージを受けた時、ダメージを1相殺してくれる。その後、「淑女」の状態を基に、相手の出撃キャラに<color style='color:#FFFFFFFF'>極寒</color>、または<color style='color:#FFFFFFFF'>灼熱</color>を付与する。（各ラウンドで1回のみ）<br>（このカードはデッキに「淑女」が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT"
             ],
@@ -7610,8 +7612,8 @@ var _card = [
         },
         {
             "_id": 221011,
-            "Name": "Cicin's Cold Glare",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Fatui Cryo Cicin Mage</color>, equip this card.<br>After Fatui Cryo Cicin Mage equips this card, immediately use <color style='color:#FFD780FF'>Misty Summons</color> once.<br>After your Fatui Cryo Cicin Mage, who has this card equipped, uses a Skill: If <color style='color:#FFFFFFFF'>Cryo Cicins</color>' <color style='color:#FFFFFFFF'>Usage(s)</color> have exceeded their upper limit, deal 2 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br>(You must have Fatui Cryo Cicin Mage in your deck to add this card to your deck.)",
+            "Name": "氷蛍寒光",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>ファデュイ · 氷蛍術師</color>の時、このカードを装備できる。<br>ファデュイ · 氷蛍術師がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>霧虚ろの呼びかけ</color>を1回発動する。<br>このカードを装備したファデュイ · 氷蛍術師がスキルを発動した後、<color style='color:#FFFFFFFF'>氷蛍</color>の<color style='color:#FFFFFFFF'>使用可能回数</color>が上限を超えるまで重ねられた場合、[b]2101[a]<color style='color:#99FFFFFF'>氷元素ダメージ</color>を2与える。<br>（このカードはデッキにファデュイ · 氷蛍術師が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7631,8 +7633,8 @@ var _card = [
         },
         {
             "_id": 217061,
-            "Name": "Structuration",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Alhaitham</color>, equip this card.<br>After Alhaitham equips this card, immediately use <color style='color:#FFD780FF'>Particular Field: Fetters of Phenomena</color> once.<br>When your Alhaitham, who has this card equipped, uses <color style='color:#FFFFFFFF'>Particular Field: Fetters of Phenomena</color>, if the character consumes a <color style='color:#FFFFFFFF'>Chisel-Light Mirror</color> with at least 1 <color style='color:#FFFFFFFF'>Duration (Rounds)</color>, then always attach <color style='color:#FFFFFFFF'>Chisel-Light Mirror</color> with 3 <color style='color:#FFFFFFFF'>Duration (Rounds)</color> and draw 1 card.<br>(You must have Alhaitham in your deck to add this card to your deck.)",
+            "Name": "ストラクタレーション",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>アルハイゼン</color>の時、このカードを装備できる。<br>アルハイゼンがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>殊境 · 顕象結縛</color>を1回発動する。<br>このカードを装備したアルハイゼンが<color style='color:#FFFFFFFF'>殊境 · 顕象結縛</color>を発動する時、消費した<color style='color:#FFFFFFFF'>琢光鏡</color>の<color style='color:#FFFFFFFF'>継続ラウンド数</color>が1以上の場合、常に<color style='color:#FFFFFFFF'>継続ラウンド数</color>が3の<color style='color:#FFFFFFFF'>琢光鏡</color>が付与されるようになり、さらに手札を1枚引く。<br>（このカードはデッキにアルハイゼンが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7652,8 +7654,8 @@ var _card = [
         },
         {
             "_id": 217051,
-            "Name": "All Things Are of the Earth",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Baizhu</color>, equip this card.<br>After Baizhu equips this card, immediately use <color style='color:#FFD780FF'>Holistic Revivification</color> once.<br>When your Baizhu, who has this card equipped, is on the field, when <color style='color:#FFFFFFFF'>Seamless Shield</color> activates a healing effect, generate 1 Elemental Dice of the same type as your active character.<br>(You must have Baizhu in your deck to add this card to your deck)",
+            "Name": "地に在りて形を成す",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>白朮</color>の時、このカードを装備できる。<br>白朮がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>癒気全形論</color>を1回発動する。<br>このカードを装備した白朮がフィールドに存在する時、<color style='color:#FFFFFFFF'>無隙シールド</color>が回復効果を発動すると、出撃キャラの元素タイプに応じた元素サイコロが1個生成される。<br>（このカードはデッキに白朮が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7672,8 +7674,8 @@ var _card = [
         },
         {
             "_id": 217041,
-            "Name": "Beneficent",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Yaoyao</color>, equip this card.<br>After Yaoyao equips this card, immediately use <color style='color:#FFD780FF'>Raphanus Sky Cluster</color> once.<br>When <color style='color:#FFFFFFFF'>Yuegui: Throwing Mode</color> is created by your Yaoyao, who has this card equipped, and it has only 1 <color style='color:#FFFFFFFF'>Usage(s)</color> remaining, it deals +1 DMG and healing is increased by 1.<br>(You must have Yaoyao in your deck to add this card to your deck.)",
+            "Name": "慈恵仁心",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>ヨォーヨ</color>の時、このカードを装備できる。<br>ヨォーヨがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>祥雲団々落清白</color>を1回発動する。<br>このカードを装備したヨォーヨが生成した<color style='color:#FFFFFFFF'>月桂 · 投擲型</color>は、<color style='color:#FFFFFFFF'>使用可能回数</color>が残り1の時、与えるダメージと回復量がそれぞれ+1。<br>（このカードはデッキにヨォーヨが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7692,8 +7694,8 @@ var _card = [
         },
         {
             "_id": 217031,
-            "Name": "The Seed of Stored Knowledge",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Nahida</color>, equip this card.<br>After Nahida equips this card, immediately use <color style='color:#FFD780FF'>Illusory Heart</color> once.<br>When your Nahida, who has this card equipped, is on the field, the following effects will take place based on your party's Elemental Types:<br>[b]2103[a]<color style='color:#FF9999FF'>Pyro</color>: When the <color style='color:#FFFFFFFF'>Shrine of Maya</color> is on the field, opposing characters who trigger the <color style='color:#FFFFFFFF'>Seed of Skandha</color> due to Elemental Reactions they are affected by will have the <color style='color:#FFFFFFFF'>Piercing DMG</color> they take from the <color style='color:#FFFFFFFF'>Seed of Skandha</color> converted to [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>.<br>[b]2104[a]<color style='color:#FFACFFFF'>Electro</color>: When the <color style='color:#FFFFFFFF'>Shrine of Maya</color> enters the field, the <color style='color:#FFFFFFFF'>Seed of Skandha</color> currently present of the opposition will gain 1 <color style='color:#FFFFFFFF'>Usage(s)</color>.<br>[b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>: After your Nahida, who has this card equipped unleashes <color style='color:#FFFFFFFF'>Shrine of Maya</color>, <color style='color:#FFFFFFFF'>Duration (Rounds)</color> +1.<br>(You must have Nahida in your deck to add this card to your deck.)",
+            "Name": "心識蘊蔵の種",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>ナヒーダ</color>の時、このカードを装備できる。<br>ナヒーダがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>心景幻成</color>を1回発動する。<br>このカードを装備したナヒーダがフィールドにいる時、味方チームに存在する元素タイプに応じて効果を提供する。<br>[b]2103[a]<color style='color:#FF9999FF'>炎元素</color>：<color style='color:#FFFFFFFF'>摩耶の宮殿</color>がフィールドに存在する時、元素反応を受けて<color style='color:#FFFFFFFF'>蘊種印</color>の効果を発動した相手のキャラが受ける<color style='color:#FFFFFFFF'>蘊種印</color>の<color style='color:#FFFFFFFF'>貫通ダメージ</color>が[b]2107[a]<color style='color:#7EC236FF'>草元素ダメージ</color>へと変わる。<br>[b]2104[a]<color style='color:#FFACFFFF'>雷元素</color>：<color style='color:#FFFFFFFF'>摩耶の宮殿</color>展開時、フィールド上の相手の<color style='color:#FFFFFFFF'>蘊種印</color>の<color style='color:#FFFFFFFF'>使用可能回数</color>+1。<br>[b]2102[a]<color style='color:#80C0FFFF'>水元素</color>：このカードを装備したナヒーダが生成した<color style='color:#FFFFFFFF'>摩耶の宮殿</color>の初期<color style='color:#FFFFFFFF'>継続ラウンド数</color>+1。<br>（このカードはデッキにナヒーダが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7717,8 +7719,8 @@ var _card = [
         },
         {
             "_id": 217021,
-            "Name": "Keen Sight",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Tighnari</color>, equip this card.<br>After Tighnari equips this card, immediately use <color style='color:#FFD780FF'>Vijnana-Phala Mine</color> once.<br>When your Tighnari, who has this card equipped, is affected by <color style='color:#FFFFFFFF'>Vijnana Suffusion</color>, the character's <color style='color:#FFFFFFFF'>Charged Attack</color> costs 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>.<br>(You must have Tighnari in your deck to add this card to your deck.)",
+            "Name": "深き眼識",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>ティナリ</color>の時、このカードを装備できる。<br>ティナリがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>識果榴弾</color>を1回発動する。<br>このカードを装備したティナリが<color style='color:#FFFFFFFF'>通塞識</color>状態中、<color style='color:#FFFFFFFF'>重撃</color>を行う時に必要な<color style='color:#FFFFFFFF'>[b]1109[a]無色元素</color>-1。<br>（このカードはデッキにティナリが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7738,8 +7740,8 @@ var _card = [
         },
         {
             "_id": 217011,
-            "Name": "Floral Sidewinder",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Collei</color>, equip this card.<br>After Collei equips this card, immediately use <color style='color:#FFD780FF'>Floral Brush</color> once.<br>After your Collei, who has this card equipped, <color style='color:#FFFFFFFF'>uses Floral Brush</color>, during this Round, when your characters' Skills trigger <color style='color:#7EC236FF'>[b]2107[a]Dendro-Related Reactions</color>: Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>. (Once per Round)<br>(You must have Collei in your deck to add this card to your deck.)",
+            "Name": "フライリーフワインダー",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>コレイ</color>の時、このカードを装備できる。<br>コレイがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>花触葉讃</color>を1回発動する。<br>このカードを装備したコレイが<color style='color:#FFFFFFFF'>花触葉讃</color>を発動したラウンドにおいて、味方のキャラのスキルが<color style='color:#7EC236FF'>[b]2107[a]草元素関連反応</color>を引き起こすと[b]2107[a]<color style='color:#7EC236FF'>草元素ダメージ</color>を1与える。（各ラウンドで1回のみ）<br>（このカードはデッキにコレイが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7757,8 +7759,8 @@ var _card = [
         },
         {
             "_id": 216061,
-            "Name": "Rushing Hound: Swift as the Wind",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Gorou</color>, equip this card.<br>After Gorou equips this card, immediately use <color style='color:#FFD780FF'>Inuzaka All-Round Defense</color> once.<br>When your Gorou, who has this card equipped, is on the field, and after any of your characters deals [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>: If <color style='color:#FFFFFFFF'>General's War Banner</color> is in play, draw 1 card. (Once per Round)<br>(You must have Gorou in your deck to add this card to your deck.)",
+            "Name": "犬瞬 · 疾きこと風の如く",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>ゴロー</color>の時、このカードを装備できる。<br>ゴローがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>犬坂の遠吠え方円陣</color>を1回発動する。<br>このカードを装備したゴローがフィールドに存在し、かつ味方キャラが[b]2106[a]<color style='color:#FFE699FF'>岩元素ダメージ</color>を与えた後、フィールドに<color style='color:#FFFFFFFF'>大将の旗指物</color>が存在する場合、手札を1枚引く。（各ラウンドで1回のみ）<br>（このカードはデッキにゴローが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7777,8 +7779,8 @@ var _card = [
         },
         {
             "_id": 216051,
-            "Name": "Arataki Ichiban",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Arataki Itto</color>, equip this card.<br>After Arataki Itto equips this card, immediately use <color style='color:#FFD780FF'>Fight Club Legend</color> once.<br>After your Arataki Itto, who has this card equipped, uses <color style='color:#FFFFFFFF'>Fight Club Legend</color> for the second time or more in one Round: If <color style='color:#FFFFFFFF'>Superlative Superstrength</color> is triggered, deal +1 additional DMG.<br>(You must have Arataki Itto in your deck to add this card to your deck.)",
+            "Name": "荒瀧第一",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>荒瀧一斗</color>の時、このカードを装備できる。<br>荒瀧一斗がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>喧嘩屋伝説</color>を1回発動する。<br>このカードを装備した荒瀧一斗が各ラウンドで2回以上<color style='color:#FFFFFFFF'>喧嘩屋伝説</color>を発動する時、<color style='color:#FFFFFFFF'>乱神の怪力</color>が発動するとダメージがさらに+1。<br>（このカードはデッキに荒瀧一斗が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7796,8 +7798,8 @@ var _card = [
         },
         {
             "_id": 216041,
-            "Name": "Descent of Divinity",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Albedo</color>, equip this card.<br>After Albedo equips this card, immediately use <color style='color:#FFD780FF'>Abiogenesis: Solar Isotoma</color>.<br>When there is Albedo on the field who has this card equipped, if your side of the field has <color style='color:#FFFFFFFF'>Solar Isotoma</color>, then your characters' <color style='color:#FFFFFFFF'>Plunging Attack</color> deals +1 DMG.<br>(You must have Albedo in your deck to add this card to your deck.)",
+            "Name": "聖なる堕落",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>アルベド</color>の時、このカードを装備できる。<br>アルベドがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>創生術 · 擬似陽華</color>を1回発動する。<br>このカードを装備したアルベドがフィールド上に存在する時、味方のフィールドに<color style='color:#FFFFFFFF'>陽華</color>が存在する場合、味方キャラの<color style='color:#FFFFFFFF'>落下攻撃</color>の与えるダメージ+1。<br>（このカードはデッキにアルベドが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7816,8 +7818,8 @@ var _card = [
         },
         {
             "_id": 216031,
-            "Name": "Dominance of Earth",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Zhongli</color>, equip this card.<br>After Zhongli equips this card, immediately use <color style='color:#FFD780FF'>Dominus Lapidis: Striking Stone</color> once.<br>When your active character is protected by a [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> Character Status or a [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> Combat Status, your Summons deal +1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br>(You must have Zhongli in your deck to add this card to your deck.)",
+            "Name": "贅沢な食饌",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>鍾離</color>の時、このカードを装備できる。<br>鍾離がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>地心 · 磅礴</color>を1回発動する。<br>味方の出撃キャラが[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>キャラ状態、または[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>出撃状態にある時、味方の召喚物の与える[b]2106[a]<color style='color:#FFE699FF'>岩元素ダメージ</color>+1。<br>（このカードはデッキに鍾離が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7835,8 +7837,8 @@ var _card = [
         },
         {
             "_id": 216021,
-            "Name": "I Got Your Back",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Noelle</color>, equip this card.<br>After Noelle equips this card, immediately use <color style='color:#FFD780FF'>Breastplate</color> once.<br>After <color style='color:#FFFFFFFF'>Noelle uses a Normal Attack:</color> If this card and <color style='color:#FFFFFFFF'>Full Plate</color> are both still in play, heal all your characters for 1 HP. (Once per Round)<br>(You must have Noelle in your deck to add this card to your deck.)",
+            "Name": "支援はお任せください",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>ノエル</color>の時、このカードを装備できる。<br>ノエルがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>護心鎧</color>を1回発動する。<br>ノエルが<color style='color:#FFFFFFFF'>通常攻撃</color>を発動した後、このカードと<color style='color:#FFFFFFFF'>護身の岩鎧</color>がフィールドに存在する場合、味方のチーム全員のHPを1回復する。（各ラウンドで1回のみ）<br>（このカードはデッキにノエルが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7854,8 +7856,8 @@ var _card = [
         },
         {
             "_id": 216011,
-            "Name": "Strategic Reserve",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Ningguang</color>, equip this card.<br>After Ningguang equips this card, immediately use <color style='color:#FFD780FF'>Jade Screen</color> once.<br>When your Ningguang, who has this card equipped, is on the field, <color style='color:#FFFFFFFF'>Jade Screen</color> will cause you to deal +1 <color style='color:#FFE699FF'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color>.<br>(You must have Ningguang in your deck to add this card to your deck.)",
+            "Name": "備えあれば憂いなし",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>凝光</color>の時、このカードを装備できる。<br>凝光がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>璇璣屏</color>を1回発動する。<br>このカードを装備した凝光がフィールドに存在する時、<color style='color:#FFFFFFFF'>璇璣屏</color>は味方の与える<color style='color:#FFE699FF'>[b]2106[a]<color style='color:#FFE699FF'>岩元素ダメージ</color></color>を+1できる。<br>（このカードはデッキに凝光が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7874,8 +7876,8 @@ var _card = [
         },
         {
             "_id": 215081,
-            "Name": "A Cold Blade Like a Shadow",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Lynette</color>, equip this card.<br>After Lynette equips this card, immediately use <color style='color:#FFD780FF'>Enigmatic Feint</color> once.<br>After your Lynette, who has this card equipped, uses <color style='color:#FFFFFFFF'>Enigmatic Feint</color> for the second time this Round: deals +2 DMG and forces your opponent to switch to their previous character.<br>(You must have Lynette in your deck to add this card to your deck.)",
+            "Name": "流影幻視の冷刃",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>リネット</color>の時、このカードを装備できる。<br>リネットがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>エニグマティック · フェイント</color>を1回発動する。<br>このカードを装備したリネットが各ラウンドで2回目に<color style='color:#FFFFFFFF'>エニグマティック · フェイント</color>を発動する時、ダメージ+2。さらに相手のキャラを一つ前のキャラにチェンジさせる。<br>（このカードはデッキにリネットが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7891,8 +7893,8 @@ var _card = [
         },
         {
             "_id": 215071,
-            "Name": "Skiving: New and Improved",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Sayu</color>, equip this card.<br>When Sayu equips this card, immediately use <color style='color:#FFD780FF'>Yoohoo Art: Fuuin Dash</color> once.<br>When your Sayu who has this card equipped is the active character, draw 2 cards when you trigger a Swirl reaction. (Once per Round)<br>(You must have Sayu in your deck to add this card to your deck.)",
+            "Name": "新しいサボり方",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>早柚</color>の時、このカードを装備できる。<br>早柚がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>嗚呼流 · 風隠急進</color>を1回発動する。<br>このカードを装備した早柚が出撃キャラである期間中、味方が拡散反応を起こした時、手札を2枚引く。（各ラウンドで1回のみ）<br>（このカードはデッキに早柚が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7908,8 +7910,8 @@ var _card = [
         },
         {
             "_id": 215061,
-            "Name": "Gales of Reverie",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>???</color>, equip this card.<br>After ??? equips this card, immediately use <color style='color:#FFD780FF'>Hanega: Song of the Wind</color> once.<br>When your ???, who has this card equipped, is in <color style='color:#FFFFFFFF'>Windfavored</color> state and after using <color style='color:#FFFFFFFF'>Charged Attack</color>: you will spend 1 less Elemental Die the next time you use \"Switch Character\" and deal 1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>.<br>(You must have ??? in your deck to add this card to your deck.)",
+            "Name": "夢跡一風",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>???</color>の時、このカードを装備できる。<br>???がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>羽画 · 風姿華歌</color>を1回発動する。<br>このカードを装備した???が<color style='color:#FFFFFFFF'>児姿優風</color>状態で<color style='color:#FFFFFFFF'>重撃</color>を行った後、該当キャラが次に「キャラチェンジ」を行う時、必要な元素サイコロの数-1、且つ[b]2105[a]<color style='color:#80FFD7FF'>風元素ダメージ</color>を1与える。<br>（このカードはデッキに???が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7929,8 +7931,8 @@ var _card = [
         },
         {
             "_id": 215051,
-            "Name": "Poetics of Fuubutsu",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When <color style='color:#FFFFFFFF'>Kaedehara Kazuha</color> is your active character, equip this card.<br>After Kaedehara Kazuha equips this card, he will immediately use <color style='color:#FFD780FF'>Chihayaburu</color> once.<br>After Kaedehara Kazuha triggers Swirl with this card equipped: For the next 2 instances, your Characters and Summons will deal +1 DMG for the Elemental Type Swirled. (Each Elemental Type is counted independently)<br>(You must have Kaedehara Kazuha in your deck to add this card to your deck.)",
+            "Name": "風物の詩吟",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>楓原万葉</color>の時、このカードを装備できる。<br>楓原万葉がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>千早振る</color>を1回発動する。<br>このカードを装備した楓原万葉が拡散反応を起こした後、味方のキャラおよび召喚物が次の2回で与える、拡散された元素タイプのダメージ+1。（元素タイプごとに別々に回数を計算する）<br>（このカードはデッキに楓原万葉が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7946,8 +7948,8 @@ var _card = [
         },
         {
             "_id": 215041,
-            "Name": "Conqueror of Evil: Guardian Yaksha",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Xiao</color>, equip this card.<br>After Xiao equips this card, immediately use <color style='color:#FFD780FF'>Bane of All Evil</color> once.<br>While your Xiao has <color style='color:#FFFFFFFF'>Yaksha's Mask</color> attached, your use of <color style='color:#FFFFFFFF'>Lemniscatic Wind Cycling</color> will cost 1 less [b]1105[a]<color style='color:#80FFD7FF'>Anemo Die</color>. (Every attachment of <color style='color:#FFFFFFFF'>Yaksha's Mask</color> allows the effect to be triggered twice)<br>(You must have Xiao in your deck to add this card to your deck.)",
+            "Name": "降魔 · 護法夜叉",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>魈</color>の時、このカードを装備できる。<br>魈がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>靖妖儺舞</color>を1回発動する。<br>このカードを装備した魈が<color style='color:#FFFFFFFF'>夜叉の儺面</color>を付与されている間、<color style='color:#FFFFFFFF'>風輪両立</color>を発動する時に必要な[b]1105[a]<color style='color:#80FFD7FF'>風元素</color>-1。（<color style='color:#FFFFFFFF'>夜叉の儺面</color>が1回付与されるたびに、2回発動可能）<br>（このカードはデッキに魈が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7966,8 +7968,8 @@ var _card = [
         },
         {
             "_id": 215031,
-            "Name": "Embrace of Winds",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Venti</color>, equip this card.<br>After Venti equips this card, immediately use <color style='color:#FFD780FF'>Skyward Sonnet</color> once.<br>After a <color style='color:#FFFFFFFF'>Stormzone</color> created by your Venti, who has this card equipped, is triggered, the next <color style='color:#FFFFFFFF'>Normal Attack</color> performed by your character in this Round will cost 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>.<br>(You must have Venti in your deck to add this card to your deck.)",
+            "Name": "余風の抱擁",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>ウェンティ</color>の時、このカードを装備できる。<br>ウェンティがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>高天の歌</color>を1回発動する。<br>このカードを装備したウェンティの生成した<color style='color:#FFFFFFFF'>風域</color>が発動すると、本ラウンドで味方キャラの次の<color style='color:#FFFFFFFF'>「通常攻撃」</color>に必要な<color style='color:#FFFFFFFF'>[b]1109[a]無色元素</color>-1。<br>（このカードはデッキにウェンティが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7986,8 +7988,8 @@ var _card = [
         },
         {
             "_id": 215021,
-            "Name": "Lands of Dandelion",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Jean</color>, equip this card.<br>After Jean equips this card, immediately use <color style='color:#FFD780FF'>Dandelion Breeze</color> once.<br>When your Jean, who has this card equipped, is on the field, <color style='color:#FFFFFFFF'>Dandelion Field</color> will cause you to deal +1 <color style='color:#80FFD7FF'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color>.<br>(You must have Jean in your deck to add this card to your deck.)",
+            "Name": "蒲公英の国土",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>ジン</color>の時、このカードを装備できる。<br>ジンがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>蒲公英の風</color>を1回発動する。<br>このカードを装備したジンがフィールドに存在する時、<color style='color:#FFFFFFFF'>蒲公英エリア</color>は味方の与える<color style='color:#80FFD7FF'>[b]2105[a]<color style='color:#80FFD7FF'>風元素ダメージ</color></color>を+1できる。<br>（このカードはデッキにジンが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8007,8 +8009,8 @@ var _card = [
         },
         {
             "_id": 215011,
-            "Name": "Chaotic Entropy",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Sucrose</color>, equip this card.<br>After Sucrose equips this card, immediately use <color style='color:#FFD780FF'>Forbidden Creation - Isomer 75 / Type II</color> once.<br>After the <color style='color:#FFFFFFFF'>Large Wind Spirit</color> created by your Sucrose, who had this card equipped, has converted to another Elemental Type: Deal +1 DMG of this Elemental Type.<br>(You must have Sucrose in your deck to add this card to your deck.)",
+            "Name": "混元熵増論",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>スクロース</color>の時、このカードを装備できる。<br>スクロースがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>禁 · 風霊作成 · 七五同構弐型</color>を1回発動する。<br>このカードを装備したスクロースの生成した<color style='color:#FFFFFFFF'>大型風霊</color>が他の元素タイプへと変わった時、味方が与える該当元素タイプのダメージ+1。<br>（このカードはデッキにスクロースが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8027,8 +8029,8 @@ var _card = [
         },
         {
             "_id": 214101,
-            "Name": "Discretionary Supplement",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Dori</color>, equip this card.<br>After Dori equips this card, immediately use <color style='color:#FFD780FF'>Alcazarzaray's Exactitude</color> once.<br>The <color style='color:#FFFFFFFF'>Jinni</color> summoned by your Dori who has this card equipped heals 1 more HP when healing characters with no more than 6 HP, and increases the amount of <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color> gained by characters with no <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color> by 1 when <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color> is gained.<br>(You must have Dori in your deck to add this card to your deck)",
+            "Name": "益をとって損を補う",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>ドリー</color>の時、このカードを装備できる。<br>ドリーがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>アルカサルザライの極上サービス</color>を1回発動する。<br>このカードを装備したドリーが召喚する<color style='color:#FFFFFFFF'>ランプの精</color>は、HPが6以下のキャラに対する回復量+1、<color style='color:#FFFFFFFF'>[b]1110[a]チャージ</color>のないキャラに<color style='color:#FFFFFFFF'>[b]1110[a]チャージ</color>を与える時の量+1。<br>（このカードはデッキにドリーが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8048,8 +8050,8 @@ var _card = [
         },
         {
             "_id": 214091,
-            "Name": "Pulsating Witch",
-            "Desc": "After you switch to <color style='color:#FFFFFFFF'>Lisa</color>, who has this card equipped: Attach <color style='color:#FFFFFFFF'>Conductive</color> to the opposing active character. (Once per Round)<br>(You must have Lisa in your deck to add this card to your deck.)",
+            "Name": "パルスの魔女",
+            "Desc": "このカードを装備した<color style='color:#FFFFFFFF'>リサ</color>に切り替えると、敵の出撃キャラに<color style='color:#FFFFFFFF'>導雷</color>を付与する。（各ラウンドで1回のみ）<br>（このカードはデッキにリサが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT"
             ],
@@ -8064,8 +8066,8 @@ var _card = [
         },
         {
             "_id": 214081,
-            "Name": "The Shrine's Sacred Shade",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Yae Miko</color>, equip this card.<br>After Yae Miko equips this card, immediately use <color style='color:#FFD780FF'>Great Secret Art: Tenko Kenshin</color> once.<br>After your Yae Miko, who has this card equipped, destroys a <color style='color:#FFFFFFFF'>Sesshou Sakura</color> through <color style='color:#FFFFFFFF'>Great Secret Art: Tenko Kenshin</color>: The next use of <color style='color:#FFFFFFFF'>Yakan Evocation: Sesshou Sakura</color> this Round will cost 2 less Elemental Dice.<br>(You must have Yae Miko in your deck to add this card to your deck.)",
+            "Name": "神籬之御蔭",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>八重神子</color>の時、このカードを装備できる。<br>八重神子がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>大密法 · 天狐顕現</color>を1回発動する。<br>このカードを装備した八重神子が<color style='color:#FFFFFFFF'>大密法 · 天狐顕現</color>を通して<color style='color:#FFFFFFFF'>殺生櫻</color>を破壊した後、本ラウンドで次に<color style='color:#FFFFFFFF'>野干役呪 · 殺生櫻</color>を発動する時、必要な元素サイコロの数-2。<br>（このカードはデッキに八重神子が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8084,8 +8086,8 @@ var _card = [
         },
         {
             "_id": 214071,
-            "Name": "Wishes Unnumbered",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Raiden Shogun</color>, equip this card.<br>After Raiden Shogun equips this card, immediately use <color style='color:#FFD780FF'>Secret Art: Musou Shinsetsu</color> once.<br>When your Raiden Shogun, who has this card equipped, uses <color style='color:#FFFFFFFF'>Secret Art: Musou Shinsetsu</color>: It will deal +1 additional DMG for every point of Resolve consumed.<br>(You must have Raiden Shogun in your deck to add this card to your deck.)",
+            "Name": "千万の願望",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>雷電将軍</color>の時、このカードを装備できる。<br>雷電将軍がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>奥義 · 夢想真説</color>を1回発動する。<br>このカードを装備した雷電将軍が<color style='color:#FFFFFFFF'>奥義 · 夢想真説</color>を発動する時、「願力」を1消費するごとに、与えるダメージがさらに+1。<br>（このカードはデッキに雷電将軍が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8102,8 +8104,8 @@ var _card = [
         },
         {
             "_id": 214061,
-            "Name": "Sin of Pride",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Kujou Sara</color>, equip this card.<br>After Kujou Sara equips this card, immediately use <color style='color:#FFD780FF'>Tengu Stormcall</color> once.<br>When Kujou Sara is active and has this card equipped, all allied [b]2104[a]<color style='color:#FFACFFFF'>Electro</color> characters with <color style='color:#FFFFFFFF'>Crowfeather Cover</color> will deal +1 additional <color style='color:#FFFFFFFF'>Elemental Skill</color> and <color style='color:#FFFFFFFF'>Elemental Burst</color> DMG.<br>(You must have Kujou Sara in your deck to add this card to your deck.)",
+            "Name": "我界",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>九条裟羅</color>の時、このカードを装備できる。<br>九条裟羅がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>烏天狗雷霆召呪</color>を1回発動する。<br>このカードを装備した九条裟羅がフィールドにいる時、<color style='color:#FFFFFFFF'>鳴煌護持</color>が付与されている味方の[b]2104[a]<color style='color:#FFACFFFF'>雷元素</color>キャラの<color style='color:#FFFFFFFF'>元素スキル</color>および<color style='color:#FFFFFFFF'>元素爆発</color>の与えるダメージがさらに+1。<br>（このカードはデッキに九条裟羅が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8121,8 +8123,8 @@ var _card = [
         },
         {
             "_id": 214051,
-            "Name": "Lightning Storm",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Beidou</color>, equip this card.<br>After Beidou equips this card, immediately use <color style='color:#FFD780FF'>Tidecaller</color> once.<br>Aftern Beidou, who has this card equipped, uses <color style='color:#FFFFFFFF'>Wavestrider</color>: Beidou's Normal Attacks this Round will cost 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>. (Can be triggered 2 times)<br>(You must have Beidou in your deck to add this card to your deck.)",
+            "Name": "満天の霹靂",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>北斗</color>の時、このカードを装備できる。<br>北斗がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>浪追い</color>を1回発動する。<br>このカードを装備した北斗が<color style='color:#FFFFFFFF'>潮踏み</color>を発動すると、本ラウンドの北斗の「通常攻撃」に必要な<color style='color:#FFFFFFFF'>[b]1109[a]無色元素</color>-1。（最大2回まで発動可能）<br>（このカードはデッキに北斗が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8139,8 +8141,8 @@ var _card = [
         },
         {
             "_id": 214041,
-            "Name": "Featherfall Judgment",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Cyno</color>, equip this card.<br>After Cyno equips this card, immediately use <color style='color:#FFD780FF'>Secret Rite: Chasmic Soulfarer</color> once.<br>When your Cyno, who has this card equipped, uses <color style='color:#FFFFFFFF'>Secret Rite: Chasmic Soulfarer</color> while having an even number of level of <color style='color:#FFFFFFFF'>Pactsworn Pathclearer</color>'s Indwelling effect, deal +1 DMG.<br>(You must have Cyno in your deck to add this card to your deck.)",
+            "Name": "落羽の裁決",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>セノ</color>の時、このカードを装備できる。<br>セノがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>秘儀 · 律淵渡魂</color>を1回発動する。<br>このカードを装備したセノは、<color style='color:#FFFFFFFF'>啓途誓使</color>の「憑依」レベルが偶数の時に<color style='color:#FFFFFFFF'>秘儀 · 律淵渡魂</color>を使うと、与えるダメージ+1。<br>（このカードはデッキにセノが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8158,8 +8160,8 @@ var _card = [
         },
         {
             "_id": 214021,
-            "Name": "Awakening",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Razor</color>, equip this card.<br>After Razor equips this card, immediately use <color style='color:#FFD780FF'>Claw and Thunder</color> once.<br>After your Razor, who has this card equipped, uses <color style='color:#FFFFFFFF'>Claw and Thunder</color>: One of your Electro characters gains 1 Energy. (One per Round, active character prioritized)<br>(You must have Razor in your deck to add this card to your deck.)",
+            "Name": "覚醒",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>レザー</color>の時、このカードを装備できる。<br>レザーがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>鋭い爪と蒼雷</color>を1回発動する。<br>このカードを装備したレザーが<color style='color:#FFFFFFFF'>鋭い爪と蒼雷</color>を発動した後、味方の雷元素キャラの1体がチャージを1獲得する。（各ラウンドで1回のみ、出撃キャラ優先）<br>（このカードはデッキにレザーが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8175,8 +8177,8 @@ var _card = [
         },
         {
             "_id": 214011,
-            "Name": "Stellar Predator",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Fischl</color>, equip this card.<br>After Fischl equips this card, immediately use <color style='color:#FFD780FF'>Nightrider</color> once.<br>When your Fischl, who has this card equipped, creates an <color style='color:#FFFFFFFF'>Oz</color>, <color style='color:#FFFFFFFF'>Oz</color> will gain the following effect:  after Fischl uses a <color style='color:#FFFFFFFF'>Normal Attack</color>: Deal 2 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>. (Consumes <color style='color:#FFFFFFFF'>Usage(s)</color>)<br>(You must have Fischl in your deck to add this card to your deck.)",
+            "Name": "星喰いの鴉",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>フィッシュル</color>の時、このカードを装備できる。<br>フィッシュルがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>夜巡りの翼</color>を1回発動する。<br>このカードを装備したフィッシュルの生成した<color style='color:#FFFFFFFF'>オズ</color>は、フィッシュルが<color style='color:#FFFFFFFF'>通常攻撃</color>を行った後、[b]2104[a]<color style='color:#FFACFFFF'>雷元素ダメージ</color>を2与える。（<color style='color:#FFFFFFFF'>使用可能回数</color>の消費が必要）<br>（このカードはデッキにフィッシュルが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8196,8 +8198,8 @@ var _card = [
         },
         {
             "_id": 213111,
-            "Name": "A Subordinate's Skills",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Thoma</color>, equip this card.<br>After Thoma equips this card, immediately use <color style='color:#FFD780FF'>Crimson Ooyoroi</color> once.<br>When your Thoma, who has this card equipped, creates a <color style='color:#FFFFFFFF'>Scorching Ooyoroi</color>, its starting <color style='color:#FFFFFFFF'>Usage(s)</color> +1.<br>(You must have Thoma in your deck to add this card to your deck.)",
+            "Name": "官吏の才知",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>トーマ</color>の時、このカードを装備できる。<br>トーマがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>真紅熾炎の大鎧</color>を1回発動する。<br>このカードを装備したトーマの生成した<color style='color:#FFFFFFFF'>熾炎の大鎧</color>は、初期<color style='color:#FFFFFFFF'>使用可能回数</color>+1。<br>（このカードはデッキにトーマが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8217,8 +8219,8 @@ var _card = [
         },
         {
             "_id": 213101,
-            "Name": "Conclusive Ovation",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Lyney</color>, equip this card.<br>After Lyney equips this card, immediately use <color style='color:#FFD780FF'>Prop Arrow</color>.<br>When Lyney is on the field and has this card equipped, the DMG dealt by Lyney and your <color style='color:#FFFFFFFF'>Grin-Malkin Hat</color> will deal +2 DMG to characters <color style='color:#FF9999FF'>affected by [b]2103[a]Pyro</color>. (Once per Round)<br>(You must have Lyney in your deck to add this card to your deck.)",
+            "Name": "フィナーレの喝采",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>リネ</color>の時、このカードを装備できる。<br>リネがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>プロップアロー</color>を1回発動する。<br>このカードを装備したリネがフィールドに存在する時、リネ自身および<color style='color:#FFFFFFFF'>ファニーキャット · ハット</color>は、[b]2103[a]<color style='color:#FF9999FF'>炎元素付着</color>状態のキャラに対してダメージ+2。（各ラウンドで1回のみ）<br>（このカードはデッキにリネが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8236,8 +8238,8 @@ var _card = [
         },
         {
             "_id": 213091,
-            "Name": "Stalwart and True",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Dehya</color>, equip this card.<br>After Dehya equips this card, immediately use <color style='color:#FFD780FF'>Molten Inferno</color> once.<br>End Phase: If your Dehya, who has this card equipped, has no more than 6 HP, heal that character for 2HP.<br>(You must have Dehya in your deck to add this card to your deck.)",
+            "Name": "至誠の尊崇",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>ディシア</color>の時、このカードを装備できる。<br>ディシアがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>熔鉄流獄</color>を1回発動する。<br>エンドフェーズ：このカードを装備したディシアのHPが6以下の場合、該当キャラのHPを2回復する。<br>（このカードはデッキにディシアが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8253,8 +8255,8 @@ var _card = [
         },
         {
             "_id": 213081,
-            "Name": "Right of Final Interpretation",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When <color style='color:#FFFFFFFF'>Yanfei</color> is your active character, equip this card.<br>After Yanfei equips this card, she will immediately use <color style='color:#FFD780FF'>Seal of Approval</color> once.<br>When Yanfei uses a <color style='color:#FFFFFFFF'>Charged Attack</color> with this card equipped: Deal +1 DMG to enemies with 6 or less HP If <color style='color:#FFFFFFFF'>Scarlet Seal</color> is triggered, then draw 1 card after the skill finishes calculating.<br>(You must have Yanfei in your deck to add this card to your deck.)",
+            "Name": "最終解釈権",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>煙緋</color>の時、このカードを装備できる。<br>煙緋がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>封蝋の印</color>を1回発動する。<br>このカードを装備した煙緋が<color style='color:#FFFFFFFF'>重撃</color>を行う時、HPが6以下の相手キャラに与えるダメージ+1。<color style='color:#FFFFFFFF'>丹火の印</color>を発動した場合、スキル処理完了後、手札を1枚引く。<br>（このカードはデッキに煙緋が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8273,8 +8275,8 @@ var _card = [
         },
         {
             "_id": 213071,
-            "Name": "Sanguine Rouge",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Hu Tao</color>, equip this card.<br>After Hu Tao equips this card, immediately use <color style='color:#FFD780FF'>Guide to Afterlife</color> once.<br>When your Hu Tao, who has this card equipped, has no more than 6 HP: Deal +1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br>(You must have Hu Tao in your deck to add this card to your deck.)",
+            "Name": "血のかまど",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>胡桃</color>の時、このカードを装備できる。<br>胡桃がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>蝶導来世</color>を1回発動する。<br>このカードを装備した胡桃のHPが6以下の時、与える[b]2103[a]<color style='color:#FF9999FF'>炎元素ダメージ</color>+1。<br>（このカードはデッキに胡桃が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8291,8 +8293,8 @@ var _card = [
         },
         {
             "_id": 213061,
-            "Name": "Pounding Surprise",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Klee</color>, equip this card.<br>After Klee equips this card, immediately use <color style='color:#FFD780FF'>Jumpy Dumpty</color> once.<br>When your Klee, who has this card equipped, creates an <color style='color:#FFFFFFFF'>Explosive Spark</color>, its <color style='color:#FFFFFFFF'>Usage(s)</color> +1.<br>(You must have Klee in your deck to add this card to your deck.)",
+            "Name": "こんこんプレゼント",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>クレー</color>の時、このカードを装備できる。<br>クレーがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>ボンボン爆弾</color>を1回発動する。<br>このカードを装備したクレーの生成した<color style='color:#FFFFFFFF'>爆裂花火</color>は、初期<color style='color:#FFFFFFFF'>使用可能回数</color>+1。<br>（このカードはデッキにクレーが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8311,8 +8313,8 @@ var _card = [
         },
         {
             "_id": 213051,
-            "Name": "Naganohara Meteor Swarm",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Yoimiya</color>, equip this card.<br>After Yoimiya equips this card, immediately use <color style='color:#FFD780FF'>Niwabi Fire-Dance</color> once.<br>The <color style='color:#FFFFFFFF'>Niwabi Enshou</color> generated by your Yoimiya, who has this card equipped, gains +1 intitial <color style='color:#FFFFFFFF'>Usage(s)</color>.<br>(You must have Yoimiya in your deck to add this card to your deck.)",
+            "Name": "長野原龍勢流星群",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>宵宮</color>の時、このカードを装備できる。<br>宵宮がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>焔硝の庭火舞い</color>を1回発動する。<br>このカードを装備した宵宮が生成する<color style='color:#FFFFFFFF'>庭火の焔硝</color>の初期<color style='color:#FFFFFFFF'>使用可能回数</color>+1、さらに発動後、追加で[b]2103[a]<color style='color:#FF9999FF'>炎元素ダメージ</color>を1与える。<br>（このカードはデッキに宵宮が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8332,8 +8334,8 @@ var _card = [
         },
         {
             "_id": 213041,
-            "Name": "Bunny Triggered",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Amber</color>, equip this card.<br>After Amber equips this card, immediately use <color style='color:#FFD780FF'>Explosive Puppet</color> once.<br>After you use a <color style='color:#FFFFFFFF'>Normal Attack</color>: If this card and <color style='color:#FFFFFFFF'>Baron Bunny</color> are still on the field, then <color style='color:#FFFFFFFF'>Baron Bunny</color> explodes and deals 4 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br>(You must have Amber in your deck to add this card to your deck.)",
+            "Name": "一触即発",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>アンバー</color>の時、このカードを装備できる。<br>アンバーがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>爆弾人形</color>を1回発動する。<br>アンバーが<color style='color:#FFFFFFFF'>通常攻撃</color>を発動した後、このカードと<color style='color:#FFFFFFFF'>ウサギ伯爵</color>がフィールドに存在する場合、<color style='color:#FFFFFFFF'>ウサギ伯爵</color>を爆発させ、[b]2103[a]<color style='color:#FF9999FF'>炎元素ダメージ</color>を4与える。<br>（このカードはデッキにアンバーが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8352,8 +8354,8 @@ var _card = [
         },
         {
             "_id": 213031,
-            "Name": "Grand Expectation",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Bennett</color>, equip this card.<br>After Bennett equips this card, immediately use <color style='color:#FFD780FF'>Fantastic Voyage</color> once.<br>When your Bennett, who has this card equipped, creates an <color style='color:#FFFFFFFF'>Inspiration Field</color>, its DMG Bonus is now always active and will no longer have an HP restriction.<br>(You must have Bennett in your deck to add this card to your deck.)",
+            "Name": "冒険の憧れ",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>ベネット</color>の時、このカードを装備できる。<br>ベネットがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>素晴らしい旅</color>を1回発動する。<br>このカードを装備したベネットの生成した<color style='color:#FFFFFFFF'>鼓舞エリア</color>のダメージアップ効果は、HPによる制限がなくなり、常時発動になる。<br>（このカードはデッキにベネットが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8372,8 +8374,8 @@ var _card = [
         },
         {
             "_id": 213021,
-            "Name": "Crossfire",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Xiangling</color>, equip this card.<br>After Xiangling equips this card, immediately use <color style='color:#FFD780FF'>Guoba Attack</color> once.<br>When your Xiangling, who has this card equipped, uses <color style='color:#FFFFFFFF'>Guoba Attack</color>, she will also deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br>(You must have Xiangling in your deck to add this card to your deck.)",
+            "Name": "交差する炎",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>香菱</color>の時、このカードを装備できる。<br>香菱がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>グゥオパァー出撃</color>を1回発動する。<br>このカードを装備した香菱が<color style='color:#FFFFFFFF'>グゥオパァー出撃</color>を発動する時、自身も[b]2103[a]<color style='color:#FF9999FF'>炎元素ダメージ</color>を1与える。<br>（このカードはデッキに香菱が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8390,8 +8392,8 @@ var _card = [
         },
         {
             "_id": 213011,
-            "Name": "Flowing Flame",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Diluc</color>, equip this card.<br>After Diluc equips this card, immediately use <color style='color:#FFD780FF'>Searing Onslaught</color> once.<br>When your Diluc, who has this card equipped, uses <color style='color:#FFFFFFFF'>Searing Onslaught</color> for the second time in one Round, spend 1 less [b]1103[a]<color style='color:#FF9999FF'>Pyro Die</color>.<br>(You must have Diluc in your deck to add this card to your deck.)",
+            "Name": "流火焼灼",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>ディルック</color>の時、このカードを装備できる。<br>ディルックがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>逆焔の刃</color>を1回発動する。<br>このカードを装備したディルックが各ラウンドで2回目に<color style='color:#FFFFFFFF'>逆焔の刃</color>を発動する時、必要な[b]1103[a]<color style='color:#FF9999FF'>炎元素</color>-1。<br>（このカードはデッキにディルックが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8407,8 +8409,8 @@ var _card = [
         },
         {
             "_id": 212091,
-            "Name": "Turn Control",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Yelan</color>, equip this card.<br>After Yelan equips this card, immediately use <color style='color:#FFD780FF'>Lingering Lifeline</color> once.<br>Roll Phase: If Yelan, who has this card equipped, is on the field, 1 Elemental Dice will be rolled as <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> for each Elemental Type in your party. (Max 3)<br>(You must have Yelan in your deck to add this card to your deck.)",
+            "Name": "先後の決め手",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>夜蘭</color>の時、このカードを装備できる。<br>夜蘭がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>絡み合う命の糸</color>を1回発動する。<br>ロールフェーズ：このカードを装備した夜蘭がフィールドに存在する場合、味方チームの元素タイプ1種類につき、1個の元素サイコロが常に<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>となる。（最大3個まで）<br>（このカードはデッキに夜蘭が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8425,8 +8427,8 @@ var _card = [
         },
         {
             "_id": 212081,
-            "Name": "The Starry Skies Their Flowers Rain",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Nilou</color>, equip this card.<br>After Nilou equips this card, immediately use <color style='color:#FFD780FF'>Dance of Haftkarsvar</color>.<br>When there is Nilou on the field who has this card equipped, the damage dealt by your <color style='color:#FFFFFFFF'>Bountiful Core</color> is increased by 1.<br>(You must have Nilou in your deck to add this card to your deck.)",
+            "Name": "星天の花雨",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>ニィロウ</color>の時、このカードを装備できる。<br>ニィロウがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>七域のダンス</color>を1回発動する。<br>このカードを装備したニィロウがフィールドに存在する時、味方の<color style='color:#FFFFFFFF'>豊穣の核</color>の与えるダメージ+1。<br>（このカードはデッキにニィロウが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8444,8 +8446,8 @@ var _card = [
         },
         {
             "_id": 212071,
-            "Name": "The Overflow",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When <color style='color:#FFFFFFFF'>Candace</color> is your active character, equip this card.<br>After Candace equips this card, she will immediately use <color style='color:#FFD780FF'>Sacred Rite: Wagtail's Tide</color> once.<br>When this card is equipped by Candace, her <color style='color:#FFFFFFFF'>Prayer of the Crimson Crown</color> has the following extra effect: <color style='color:#FFFFFFFF'>After your character uses a Normal Attack: </color>Deals 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>. (Once per Round)<br>(You must have Candace in your deck to add this card to your deck.)",
+            "Name": "満溢の潮汐",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>キャンディス</color>の時、このカードを装備できる。<br>キャンディスがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>聖儀 · 灰鴒の呼び潮</color>を1回発動する。<br>このカードを装備したキャンディスの生成した<color style='color:#FFFFFFFF'>赤冠より授かりし祝福</color>は追加で以下の効果を持つ。<color style='color:#FFFFFFFF'>味方のキャラが通常攻撃を発動した後</color>、[b]2102[a]<color style='color:#80C0FFFF'>水元素ダメージ</color>を1与える。（各ラウンドで1回のみ）<br>（このカードはデッキにキャンディスが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8465,8 +8467,8 @@ var _card = [
         },
         {
             "_id": 212061,
-            "Name": "Kyouka Fuushi",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Kamisato Ayato</color>, equip this card.<br>After Kamisato Ayato equips this card, immediately use <color style='color:#FFD780FF'>Kamisato Art: Kyouka</color> once.<br>When your Kamisato Ayato, who has this card equipped, triggers the effects of <color style='color:#FFFFFFFF'>Takimeguri Kanka</color>, deal +1 additional DMG if the target's remaining HP is equal to or less than 6.<br>(You must have Kamisato Ayato in your deck to add this card to your deck.)",
+            "Name": "鏡華風姿",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>神里綾人</color>の時、このカードを装備できる。<br>神里綾人がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>神里流 · 鏡花</color>を1回発動する。<br>このカードを装備した神里綾人が<color style='color:#FFFFFFFF'>滝廻鑑花</color>の効果を発動する時、現在HPが6以下の目標へのダメージがさらに+1。<br>（このカードはデッキに神里綾人が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8484,8 +8486,8 @@ var _card = [
         },
         {
             "_id": 212051,
-            "Name": "Tamakushi Casket",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Sangonomiya Kokomi</color>, equip this card.<br>After Sangonomiya Kokomi equips this card, immediately use <color style='color:#FFD780FF'>Nereid's Ascension</color> once.<br>When your Sangonomiya Kokomi, who has this card equipped, uses <color style='color:#FFFFFFFF'>Nereid's Ascension</color>: Summon a <color style='color:#FFFFFFFF'>Bake-Kurage</color> with a <color style='color:#FFFFFFFF'>Usage(s)</color> of 1; if <color style='color:#FFFFFFFF'>Bake-Kurage</color> is already on the field, then increase its <color style='color:#FFFFFFFF'>Usage(s)</color> by 1 instead.<br>While <color style='color:#FFFFFFFF'>Ceremonial Garment</color> exists, <color style='color:#FFFFFFFF'>Bake-Kurage</color> deals +1 DMG.<br>(You must have Sangonomiya Kokomi in your deck to add this card to your deck.)",
+            "Name": "葛籠の中の玉櫛",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>珊瑚宮心海</color>の時、このカードを装備できる。<br>珊瑚宮心海がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>海人の羽衣</color>を1回発動する。<br>このカードを装備した珊瑚宮心海が<color style='color:#FFFFFFFF'>海人の羽衣</color>を発動する時、<color style='color:#FFFFFFFF'>使用可能回数</color>が1の<color style='color:#FFFFFFFF'>化海月</color>を1つ召喚する。もし<color style='color:#FFFFFFFF'>化海月</color>がすでにフィールド上に存在する場合、その<color style='color:#FFFFFFFF'>使用可能回数</color>が+1となる。<br><color style='color:#FFFFFFFF'>儀来羽衣</color>が存在する間、<color style='color:#FFFFFFFF'>化海月</color>の与えるダメージ+1。<br>（このカードはデッキに珊瑚宮心海が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8506,8 +8508,8 @@ var _card = [
         },
         {
             "_id": 212041,
-            "Name": "Abyssal Mayhem: Hydrospout",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Tartaglia</color>, equip this card.<br>After Tartaglia equips this card, immediately use <color style='color:#FFD780FF'>Foul Legacy: Raging Tide</color> once.<br>End Phase: When Tartaglia is on the field and has this card equipped, deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to the opponent's active character if they have <color style='color:#FFFFFFFF'>Riptide</color> attached.<br>(You must have Tartaglia in your deck to add this card to your deck.)",
+            "Name": "淵の災い · 復水放流",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>タルタリヤ</color>の時、このカードを装備できる。<br>タルタリヤがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>魔王の武装 · 荒波</color>を1回発動する。<br>エンドフェーズ：このカードを装備したタルタリヤがフィールド上に存在する時、相手の出撃キャラに<color style='color:#FFFFFFFF'>断流</color>が付与されている場合、そのキャラに<color style='color:#FFFFFFFF'>貫通ダメージ</color>を1与える。<br>（このカードはデッキにタルタリヤが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8526,8 +8528,8 @@ var _card = [
         },
         {
             "_id": 212031,
-            "Name": "Prophecy of Submersion",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Mona</color>, equip this card.<br>When Mona equips this card, immediately use <color style='color:#FFD780FF'>Stellaris Phantasm</color> once.<br>When your Mona, who has this card equipped, is the active character, the <color style='color:#80C0FFFF'>[b]2102[a]Hydro-Related Reactions</color> you trigger deal +2 additional DMG.<br>(You must have Mona in your deck to add this card to your deck.)",
+            "Name": "沈没の預言",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>モナ</color>の時、このカードを装備できる。<br>モナがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>星命定軌</color>を1回発動する。<br>このカードを装備したモナの出撃中、味方が引き起こした<color style='color:#80C0FFFF'>[b]2102[a]水元素関連反応</color>のダメージがさらに+2。<br>（このカードはデッキにモナが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8545,8 +8547,8 @@ var _card = [
         },
         {
             "_id": 212021,
-            "Name": "The Scent Remained",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Xingqiu</color>, equip this card.<br>After Xingqiu equips this card, immediately use <color style='color:#FFD780FF'>Fatal Rainscreen</color> once.<br>When your Xingqiu has this card equipped, the <color style='color:#FFFFFFFF'>Rain Sword</color> created can block DMG of at least 2 and its starting <color style='color:#FFFFFFFF'>Usage(s)</color> +1.<br>(You must have Xingqiu in your deck to add this card to your deck.)",
+            "Name": "すだれの残香",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>行秋</color>の時、このカードを装備できる。<br>行秋がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>画雨籠山</color>を1回発動する。<br>このカードを装備した行秋の生成した<color style='color:#FFFFFFFF'>雨すだれの剣</color>は、2以上のダメージを受けた時に相殺効果を発動できるようになり、かつ初期<color style='color:#FFFFFFFF'>使用可能回数</color>+1。<br>（このカードはデッキに行秋が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8565,8 +8567,8 @@ var _card = [
         },
         {
             "_id": 212011,
-            "Name": "Glorious Season",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Barbara</color>, equip this card.<br>After Barbara equips this card, immediately use <color style='color:#FFD780FF'>Let the Show Begin♪</color> once.<br>When your Barbara, who has this card equipped, is on the field, <color style='color:#FFFFFFFF'>Melody Loop</color> will allow you to spend 1 less Elemental Die the next time you use \"Switch Character.\" (Once per round)<br>(You must have Barbara in your deck to add this card to your deck.)",
+            "Name": "輝く季節",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>バーバラ</color>の時、このカードを装備できる。<br>バーバラがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>公演、開始♪</color>を1回発動する。<br>このカードを装備したバーバラがフィールドに存在する時、<color style='color:#FFFFFFFF'>歌声の輪</color>は味方が「キャラチェンジ」を行う時に必要な元素サイコロの数を-1できる。（各ラウンドで1回のみ）<br>（このカードはデッキにバーバラが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8584,8 +8586,8 @@ var _card = [
         },
         {
             "_id": 211091,
-            "Name": "Light's Remit",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Layla</color>, equip this card.<br>After Layla equips this card, immediately use <color style='color:#FFD780FF'>Nights of Formal Focus</color>.<br>When Layla is on the field and has this card equipped, every time <color style='color:#FFFFFFFF'>Shooting Star</color> deals DMG, draw 1 card.<br>(You must have Layla in your deck to add this card to your deck.)",
+            "Name": "便りと共に還る星影",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>レイラ</color>の時、このカードを装備できる。<br>レイラがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>垂裳凛然の夜</color>を1回発動する。<br>このカードを装備したレイラがフィールドに存在する時、<color style='color:#FFFFFFFF'>飛星</color>がダメージを与えるたびに、手札を1枚引く。<br>（このカードはデッキにレイラが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8603,8 +8605,8 @@ var _card = [
         },
         {
             "_id": 211081,
-            "Name": "Rite of Resurrection",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Qiqi</color>, equip this card.<br>After Qiqi equips this card, immediately use <color style='color:#FFD780FF'>Adeptus Art: Preserver of Fortune</color> once.<br>After your Qiqi, who has this card equipped, uses <color style='color:#FFFFFFFF'>Adeptus Art: Preserver of Fortune</color>, she revives all your fallen characters and heals them for 2 HP. (Can happen 2 times per match)<br>(You must have Qiqi in your deck to add this card to your deck.)",
+            "Name": "起死回骸",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>七七</color>の時、このカードを装備できる。<br>七七がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>仙法 · 救苦度厄</color>を1回発動する。<br>このカードを装備した七七が<color style='color:#FFFFFFFF'>仙法 · 救苦度厄</color>を使用する際、味方の戦闘不能状態のキャラを全て復活させ、HPを2回復する。（各対戦ごとに2回まで）<br>（このカードはデッキに七七が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8621,8 +8623,8 @@ var _card = [
         },
         {
             "_id": 211071,
-            "Name": "Mystical Abandon",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Shenhe</color>, equip this card.<br>After Shenhe equips this card, immediately use <color style='color:#FFD780FF'>Spring Spirit Summoning</color> once.<br>When the <color style='color:#FFFFFFFF'>Icy Quill</color> created by your Shenhe, who has this card equipped, is triggered by your characters' <color style='color:#FFFFFFFF'>Normal Attacks</color>, its Usages will not decrease. (Once per Round)<br>(You must have Shenhe in your deck to add this card to your deck.)",
+            "Name": "忘玄",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>申鶴</color>の時、このカードを装備できる。<br>申鶴がこのカードを装備すると、直ちに<color style='color:#FFD780FF'>仰霊威召将役呪</color>を1回発動する。<br>このカードを装備した申鶴の生成した<color style='color:#FFFFFFFF'>氷翎</color>が味方キャラの<color style='color:#FFFFFFFF'>「通常攻撃」</color>によって発動される時、使用可能回数は消費されない。（各ラウンドで1回のみ）<br>（このカードはデッキに申鶴が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8640,8 +8642,8 @@ var _card = [
         },
         {
             "_id": 211061,
-            "Name": "Wellspring of War-Lust",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Eula</color>, equip this card.<br>After Eula equips this card, immediately use <color style='color:#FFD780FF'>Glacial Illumination</color> once.<br>When your Eula, who has this card equipped, uses <color style='color:#FFFFFFFF'>Icetide Vortex</color>, this will generate 1 more Zeal for <color style='color:#FFFFFFFF'>Lightfall Sword</color>.<br>(You must have Eula in your deck to add this card to your deck.)",
+            "Name": "戦意の表れ",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>エウルア</color>の時、このカードを装備できる。<br>エウルアがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>氷浪の光剣</color>を1回発動する。<br>このカードを装備したエウルアが<color style='color:#FFFFFFFF'>氷潮の渦</color>を発動する時、追加で<color style='color:#FFFFFFFF'>光臨の剣</color>に「エネルギー量」を1層重ねる。<br>（このカードはデッキにエウルアが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8660,8 +8662,8 @@ var _card = [
         },
         {
             "_id": 211051,
-            "Name": "Kanten Senmyou Blessing",
-            "Desc": "The <color style='color:#FFFFFFFF'>Cryo Elemental Infusion</color> created by your <color style='color:#FFFFFFFF'>Kamisato Ayaka</color>, who has this card equipped, allows the character to which it is attached to deal +1 <color style='color:#99FFFFFF'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color>.<br>When you switch to Kamisato Ayaka, who has this card equipped: Spend 1 less Elemental Die. (Once per Round)<br>(You must have Kamisato Ayaka in your deck to add this card to your deck.)",
+            "Name": "寒空の宣命祝詞",
+            "Desc": "このカードを装備した<color style='color:#FFFFFFFF'>神里綾華</color>が生成した<color style='color:#FFFFFFFF'>氷元素付与</color>は、付与されたキャラの<color style='color:#99FFFFFF'>[b]2101[a]<color style='color:#99FFFFFF'>氷元素ダメージ</color></color>+1。<br>このカードを装備した神里綾華にチェンジする時、必要な元素サイコロの数-1。（各ラウンドで1回のみ）<br>（このカードはデッキに神里綾華が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT"
             ],
@@ -8678,8 +8680,8 @@ var _card = [
         },
         {
             "_id": 211041,
-            "Name": "Steady Breathing",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Chongyun</color>, equip this card.<br>After Chongyun equips this card, immediately use <color style='color:#FFD780FF'>Chonghua's Layered Frost</color> once.<br>When your Chongyun, who has this card equipped, creates a <color style='color:#FFFFFFFF'>Chonghua Frost Field</color>, it will have the following effects: Your Sword, Claymore, and Polearm-wielding characters' <color style='color:#FFFFFFFF'>Normal Attacks</color> to deal +1 DMG.<br>(You must have Chongyun in your deck to add this card to your deck.)",
+            "Name": "吐納真定",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>重雲</color>の時、このカードを装備できる。<br>重雲がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>重華積霜</color>を1回発動する。<br>このカードを装備した重雲の生成した<color style='color:#FFFFFFFF'>重華積霜エリア</color>は以下の効果を獲得する。<br>味方の片手剣、両手剣、長柄武器のキャラの与える<color style='color:#FFFFFFFF'>通常攻撃</color>のダメージ+1。<br>（このカードはデッキに重雲が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8697,8 +8699,8 @@ var _card = [
         },
         {
             "_id": 211031,
-            "Name": "Cold-Blooded Strike",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Kaeya</color>, equip this card.<br>After Kaeya equips this card, immediately use <color style='color:#FFD780FF'>Frostgnaw</color> once.<br>After your Kaeya, who has this card equipped, uses <color style='color:#FFFFFFFF'>Frostgnaw</color>, he heals himself for 2 HP. (Once per Round)<br>(You must have Kaeya in your deck to add this card to your deck.)",
+            "Name": "冷血の剣",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>ガイア</color>の時、このカードを装備できる。<br>ガイアがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>霜の襲撃</color>を1回発動する。<br>このカードを装備したガイアが<color style='color:#FFFFFFFF'>霜の襲撃</color>を発動した後、自身のHPを2回復する。（各ラウンドで1回のみ）<br>（このカードはデッキにガイアが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8714,8 +8716,8 @@ var _card = [
         },
         {
             "_id": 211021,
-            "Name": "Shaken, Not Purred",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Diona</color>, equip this card.<br>After Diona equips this card, immediately use <color style='color:#FFD780FF'>Icy Paws</color> once.<br>When your Diona, who has this card equipped, creates a <color style='color:#FFFFFFFF'>Cat-Claw Shield</color>, its [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points +1.<br>(You must have Diona in your deck to add this card to your deck.)",
+            "Name": "クールキャッツクロー",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>ディオナ</color>の時、このカードを装備できる。<br>ディオナがこのカードを装備した後、直ちに<color style='color:#FFD780FF'>フリーズキャッツクロー</color>を1回発動する。<br>このカードを装備したディオナの生成した<color style='color:#FFFFFFFF'>キャッツクローシールド</color>は、初期[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>を+1できる。<br>（このカードはデッキにディオナが含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8734,8 +8736,8 @@ var _card = [
         },
         {
             "_id": 211011,
-            "Name": "Undivided Heart",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Ganyu</color>, equip this card.<br>After Ganyu equips this card, immediately use <color style='color:#FFD780FF'>Frostflake Arrow</color> once.<br>When your Ganyu, who has this card equipped, uses <color style='color:#FFFFFFFF'>Frostflake Arrow</color>: If this Skill has been used before during this match, the <color style='color:#FFFFFFFF'>Piercing DMG</color> dealt to all opposing characters on standby is changed to 3.<br>(You must have Ganyu in your deck to add this card to your deck.)",
+            "Name": "唯一の心",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>甘雨</color>の時、このカードを装備できる。<br>甘雨がこのカードを装備した後、直ちに<color style='color:#FFD780FF'>霜華の矢</color>を1回発動する。<br>このカードを装備した甘雨が<color style='color:#FFFFFFFF'>霜華の矢</color>を発動する時、該当スキルがこの対戦で既に使用されている場合、相手の待機キャラ全員に与える<color style='color:#FFFFFFFF'>貫通ダメージ</color>が3になる。<br>（このカードはデッキに甘雨が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8752,7 +8754,7 @@ var _card = [
         },
         {
             "_id": 87,
-            "Name": "Elemental Infusion: Dendro",
+            "Name": "元素付与：草",
             "Desc": "",
             "Tag": [],
             "Icon": "",
@@ -8762,7 +8764,7 @@ var _card = [
         },
         {
             "_id": 86,
-            "Name": "Elemental Infusion: Geo",
+            "Name": "元素付与：岩",
             "Desc": "",
             "Tag": [],
             "Icon": "",
@@ -8772,7 +8774,7 @@ var _card = [
         },
         {
             "_id": 85,
-            "Name": "Elemental Infusion: Anemo",
+            "Name": "元素付与：風",
             "Desc": "",
             "Tag": [],
             "Icon": "",
@@ -8782,7 +8784,7 @@ var _card = [
         },
         {
             "_id": 84,
-            "Name": "Elemental Infusion: Electro",
+            "Name": "元素付与：雷",
             "Desc": "",
             "Tag": [],
             "Icon": "",
@@ -8792,7 +8794,7 @@ var _card = [
         },
         {
             "_id": 83,
-            "Name": "Elemental Infusion: Pyro",
+            "Name": "元素付与：炎",
             "Desc": "",
             "Tag": [],
             "Icon": "",
@@ -8802,7 +8804,7 @@ var _card = [
         },
         {
             "_id": 82,
-            "Name": "Elemental Infusion: Hydro",
+            "Name": "元素付与：水",
             "Desc": "",
             "Tag": [],
             "Icon": "",
@@ -8812,7 +8814,7 @@ var _card = [
         },
         {
             "_id": 81,
-            "Name": "Elemental Infusion: Cryo",
+            "Name": "元素付与：氷",
             "Desc": "",
             "Tag": [],
             "Icon": "",
@@ -8824,8 +8826,8 @@ var _card = [
     [
         {
             "_id": 332018,
-            "Name": "Heavy Strike",
-            "Desc": "During this round, your current active character's next <color style='color:#FFFFFFFF'>Normal Attack</color> deals +1 DMG.<br><color style='color:#FFFFFFFF'>When this Normal Attack is a <color style='color:#FFFFFFFF'>Charged Attack</color>:</color> Deal +1 additional DMG.",
+            "Name": "重攻撃",
+            "Desc": "本ラウンドで、現在の味方の出撃キャラが次に発動する<color style='color:#FFFFFFFF'>「通常攻撃」</color>の与えるダメージ+1。<br><color style='color:#FFFFFFFF'>その「通常攻撃」が<color style='color:#FFFFFFFF'>重撃</color>の時</color>、ダメージがさらに+1。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Zhonggongji",
             "Cost": {
@@ -8838,8 +8840,8 @@ var _card = [
         },
         {
             "_id": 114031,
-            "Name": "Lightning Stiletto",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: Switch your Keqing in to be the active character and immediately use Stellar Restoration once. This instance of Stellar Restoration will grant Keqing <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Electro Infusion</color></color> without creating another Lightning Stiletto.<br>(When Keqing uses Stellar Restoration with this card in Hand: Instead of creating another Lightning Stiletto, discard this card and Keqing gains <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Electro Infusion</color></color>)",
+            "Name": "雷楔",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：刻晴を出撃キャラにチェンジし、直ちに星辰帰位を発動する。この星辰帰位は刻晴に<color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>雷元素付与</color></color>を与える。ただし、雷楔は生成しない。<br>（刻晴が星辰帰位を発動する時、このカードが手札にある場合：雷楔が生成されない代わりに、このカードを破棄し、刻晴に<color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>雷元素付与</color></color>を与える）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8856,8 +8858,8 @@ var _card = [
         },
         {
             "_id": 332030,
-            "Name": "Controlled Directional Blast",
-            "Desc": "<color style='color:#FFFFFFFF'>Can only be played when there is a total of at least 4 cards in your opponent's Support Zone and Summons Zone:</color> All Summons on both sides lose 1 Usage.",
+            "Name": "可制御性無害化型指向性爆発",
+            "Desc": "<color style='color:#FFFFFFFF'>相手の支援エリアと召喚物エリアのカードの合計数が4以上の場合のみ使用可能</color>。双方の召喚物すべての使用可能回数-1。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Kexueyuan",
             "Cost": {
@@ -8868,8 +8870,8 @@ var _card = [
         },
         {
             "_id": 330007,
-            "Name": "Day of Resistance: Moment of Shattered Dreams",
-            "Desc": "During this Round, your targeted character takes -1 DMG. (Max 4 times)<br>(Only one [b]3007[a]\"Arcane Legend\" card can be played per match. This card will be in your starting hand.)",
+            "Name": "抗争の日 · 夢砕ける時",
+            "Desc": "本ラウンドにおいて、対象の味方キャラの受けるダメージ-1。（最大4回まで発動可能）<br>（「[b]3007[a]秘伝」カードは各対戦ごとに1枚しか使用できない。このカードは必ず初期手札に含まれる）",
             "Tag": [
                 "GCG_TAG_LEGEND"
             ],
@@ -8882,8 +8884,8 @@ var _card = [
         },
         {
             "_id": 333014,
-            "Name": "Matsutake Meat Rolls",
-            "Desc": "Heal the target character for 2 HP. For the next 3 Rounds, heal this character for 1 HP again during the End Phase.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "松茸の肉巻き",
+            "Desc": "目標キャラのHPを2回復する。さらに3ラウンドの間、エンドフェーズでキャラのHPを1回復する。<br>（各キャラは各ラウンドで「[b]3101[a]料理」を1回のみ食べられる）",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8896,8 +8898,8 @@ var _card = [
         },
         {
             "_id": 333013,
-            "Name": "Fish and Chips",
-            "Desc": "During this Round, all your characters will use 1 less Elemental Die when using their Skill next time.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "フィッシュアンドチップス",
+            "Desc": "本ラウンドで、味方のチーム全員が次にスキルを発動する時、必要な元素サイコロの数-1。<br>（各キャラは各ラウンドで「[b]3101[a]料理」を1回のみ食べられる）",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8910,8 +8912,8 @@ var _card = [
         },
         {
             "_id": 333012,
-            "Name": "Butter Crab",
-            "Desc": "During this Round, all your characters take -2 DMG the next time.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "カニのバター添え",
+            "Desc": "本ラウンドで、味方のチーム全員の次に受けるダメージ-2。<br>（各キャラは各ラウンドで「[b]3101[a]料理」を1回のみ食べられる）",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8924,8 +8926,8 @@ var _card = [
         },
         {
             "_id": 333011,
-            "Name": "Tandoori Roast Chicken",
-            "Desc": "During this Round, all your characters' next <color style='color:#FFFFFFFF'>Elemental Skills</color> deal +2 DMG.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "タンドリーチキン",
+            "Desc": "本ラウンドで、味方のチーム全員の次の<color style='color:#FFFFFFFF'>「元素スキル」</color>で与えるダメージ+2。<br>（各キャラは各ラウンドで「[b]3101[a]料理」を1回のみ食べられる）",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8938,8 +8940,8 @@ var _card = [
         },
         {
             "_id": 333010,
-            "Name": "Sashimi Platter",
-            "Desc": "Before this Round ends, the target character's <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 DMG.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "刺身の盛り合わせ",
+            "Desc": "目標キャラは本ラウンド終了まで、<color style='color:#FFFFFFFF'>「通常攻撃」</color>の与えるダメージ+1。<br>（各キャラは各ラウンドで「[b]3101[a]料理」を1回のみ食べられる）",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8952,8 +8954,8 @@ var _card = [
         },
         {
             "_id": 333009,
-            "Name": "Teyvat Fried Egg",
-            "Desc": "Revives the target character and heals that character for 1 HP.<br>(You can only revive 1 character via [b]3101[a]Food per Round, and a character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "テイワット風目玉焼き",
+            "Desc": "目標キャラを復活させ、HPを1回復する。<br>（各ラウンドで、「[b]3101[a]料理」を通して最大1体のキャラを復活でき、各キャラは各ラウンドで「[b]3101[a]料理」を1回のみ食べられる）",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8966,8 +8968,8 @@ var _card = [
         },
         {
             "_id": 333008,
-            "Name": "Minty Meat Rolls",
-            "Desc": "Before this Round ends, the target character's next 3 <color style='color:#FFFFFFFF'>Normal Attacks</color> cost 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "ミントの獣肉巻き",
+            "Desc": "目標キャラは本ラウンド終了まで、この後の3回の<color style='color:#FFFFFFFF'>「通常攻撃」</color>に必要な<color style='color:#FFFFFFFF'>[b]1109[a]無色元素</color>-1。<br>（各キャラは各ラウンドで「[b]3101[a]料理」を1回のみ食べられる）",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8982,8 +8984,8 @@ var _card = [
         },
         {
             "_id": 333007,
-            "Name": "Mushroom Pizza",
-            "Desc": "Heal the target character for 1 HP. For the next two Rounds, heal this character for 1 HP again at the End Phase.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "キノコピザ",
+            "Desc": "目標キャラのHPを1回復する。さらに2ラウンドの間、エンドフェーズでキャラのHPを1回復する。<br>（各キャラは各ラウンドで「[b]3101[a]料理」を1回のみ食べられる）",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8996,8 +8998,8 @@ var _card = [
         },
         {
             "_id": 333006,
-            "Name": "Mondstadt Hash Brown",
-            "Desc": "Heal the target character for 2 HP.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "モンド風ハッシュドポテト",
+            "Desc": "目標キャラのHPを2回復する。<br>（各キャラは各ラウンドで「[b]3101[a]料理」を1回のみ食べられる）",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -9010,8 +9012,8 @@ var _card = [
         },
         {
             "_id": 333005,
-            "Name": "Sweet Madame",
-            "Desc": "Heal the target character for 1 HP.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "鳥肉のスイートフラワー漬け焼き",
+            "Desc": "目標キャラのHPを1回復する。<br>（各キャラは各ラウンドで「[b]3101[a]料理」を1回のみ食べられる）",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -9022,8 +9024,8 @@ var _card = [
         },
         {
             "_id": 333004,
-            "Name": "Northern Smoked Chicken",
-            "Desc": "During this Round, the target character's next <color style='color:#FFFFFFFF'>Normal Attack</color> costs 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "北地のスモークチキン",
+            "Desc": "本ラウンドで、目標キャラの次の<color style='color:#FFFFFFFF'>「通常攻撃」</color>に必要な<color style='color:#FFFFFFFF'>[b]1109[a]無色元素</color>-1。<br>（各キャラは各ラウンドで「[b]3101[a]料理」を1回のみ食べられる）",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -9036,8 +9038,8 @@ var _card = [
         },
         {
             "_id": 333003,
-            "Name": "Lotus Flower Crisp",
-            "Desc": "During this Round, the target character takes -3 DMG the next time.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "ハスの花パイ",
+            "Desc": "本ラウンドで、目標キャラの次に受けるダメージ-3。<br>（各キャラは各ラウンドで「[b]3101[a]料理」を1回のみ食べられる）",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -9050,8 +9052,8 @@ var _card = [
         },
         {
             "_id": 333002,
-            "Name": "Adeptus' Temptation",
-            "Desc": "During this Round, the target character's next <color style='color:#FFFFFFFF'>Elemental Burst</color> deals +3 DMG.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "仙跳牆",
+            "Desc": "本ラウンドで、目標キャラの次の<color style='color:#FFFFFFFF'>「元素爆発」</color>で与えるダメージ+3。<br>（各キャラは各ラウンドで「[b]3101[a]料理」を1回のみ食べられる）",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -9064,8 +9066,8 @@ var _card = [
         },
         {
             "_id": 333001,
-            "Name": "Jueyun Guoba",
-            "Desc": "During this Round, the target character's next <color style='color:#FFFFFFFF'>Normal Attack</color> deals +1 DMG.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "絶雲のお焦げ",
+            "Desc": "本ラウンドで、目標キャラの次の<color style='color:#FFFFFFFF'>「通常攻撃」</color>で与えるダメージ+1。<br>（各キャラは各ラウンドで「[b]3101[a]料理」を1回のみ食べられる）",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -9076,8 +9078,8 @@ var _card = [
         },
         {
             "_id": 332029,
-            "Name": "Sunyata Flower",
-            "Desc": "Select a card from your Support Zone and discard it. After that, randomly generate 2 Support Cards in your hand.<br><color style='color:#FFFFFFFF'>During the Round, the next time you play a Support Card: </color>Spend 1 less Elemental Die.",
+            "Name": "シューニャター花",
+            "Desc": "味方の支援エリアからカードを1枚選択し、破棄する。その後、味方の手札にランダムで支援カードを2枚生成する。<br><color style='color:#FFFFFFFF'>本ラウンドで、味方が次に支援カードを使用する時</color>、必要な元素サイコロの数-1。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Ganluhua",
             "Cost": {},
@@ -9086,8 +9088,8 @@ var _card = [
         },
         {
             "_id": 332028,
-            "Name": "Machine Assembly Line",
-            "Desc": "<color style='color:#FFFFFFFF'>Each time after your character is targeted by and takes DMG or is healed:</color> Accumulate 1 point of Battle-Readiness (Max 2 points).<br><color style='color:#FFFFFFFF'>When you play a [b]3003[a]Weapon or [b]3004[a]Artifact with an original cost of no more Dice than you have Battle-Readiness points:</color> Clear all Battle-Readiness points and play that card for free.",
+            "Name": "マシナリーの生産ライン",
+            "Desc": "<color style='color:#FFFFFFFF'>対象の味方キャラがダメージ、または治療効果を受けるたびに</color>、「整備度」を1蓄積する（最大2まで蓄積可能）。<br><color style='color:#FFFFFFFF'>初期コストが「整備度」以下の「[b]3003[a]武器」、または「[b]3004[a]聖遺物」を味方が使用する時</color>、すべての「整備度」をクリアし、そのカードをコストなしで使用できるようになる。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Fatiaoji",
             "Cost": {},
@@ -9096,8 +9098,8 @@ var _card = [
         },
         {
             "_id": 332027,
-            "Name": "Flickering Four-Leaf Sigil",
-            "Desc": "Attach <color style='color:#FFFFFFFF'>Four-Leaf Sigil</color> to target character: At the End Phase of Every Round, you will switch to this character.",
+            "Name": "きらめくクローバーマーク",
+            "Desc": "目標キャラに<color style='color:#FFFFFFFF'>クローバーマーク</color>を付与する。各ラウンドのエンドフェーズ時、この味方キャラへとチェンジする。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Siyeyin",
             "Cost": {},
@@ -9108,8 +9110,8 @@ var _card = [
         },
         {
             "_id": 332026,
-            "Name": "Falls and Fortune",
-            "Desc": "<color style='color:#FFFFFFFF'>Can only be played when you have at least 8 Elemental Dice remaining and your opponent has not ended their Round:</color> In this Round, both sides must spend 1 extra Elemental Die when switching characters.",
+            "Name": "崩落ときっかけ",
+            "Desc": "<color style='color:#FFFFFFFF'>味方の残り元素サイコロの数が8以上、かつ相手が終了宣言をしていない場合のみ使用可能</color>。本ラウンドで、各プレイヤーが「キャラチェンジ」を行う時、追加で元素サイコロを1個消費する。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Tanta",
             "Cost": {
@@ -9120,8 +9122,8 @@ var _card = [
         },
         {
             "_id": 332025,
-            "Name": "The Boar Princess",
-            "Desc": "<color style='color:#FFFFFFFF'>Each time you discard an Equipment Card from one of your characters during this Round:</color> Gain 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. (Max 2)<br>(This effect can be triggered by the loss of an Equipment Card from a character falling or from having their [b]3003[a]Weapon or [b]3004[a]Artifact replaced.)",
+            "Name": "イノシシプリンセス",
+            "Desc": "<color style='color:#FFFFFFFF'>本ラウンドにおいて、味方のキャラが装備している「装備カード」を1枚破棄するたびに</color>、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を1個獲得する。（最大2個まで獲得可能）<br>（キャラが戦闘不能になって装備カードを破棄する、または「[b]3003[a]武器」や「[b]3004[a]聖遺物」を上書きして装備する時、この効果を発動できる）",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Yezhu",
             "Cost": {},
@@ -9132,8 +9134,8 @@ var _card = [
         },
         {
             "_id": 332024,
-            "Name": "Lyresong",
-            "Desc": "Return an [b]3004[a]Artifact card equipped by your character to your Hand.<br><color style='color:#FFFFFFFF'>During this Round, the next time you play an [b]3004[a]Artifact card from your hand:</color> Spend 2 less Elemental Dice.",
+            "Name": "琴音の詩",
+            "Desc": "味方キャラ1体が装備している「[b]3004[a]聖遺物」を手札に戻す。<br><color style='color:#FFFFFFFF'>本ラウンドで、味方が次に手札の「[b]3004[a]聖遺物」を使用する時</color>、必要な元素サイコロの数-2。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Wangfu",
             "Cost": {},
@@ -9142,8 +9144,8 @@ var _card = [
         },
         {
             "_id": 332023,
-            "Name": "Pankration!",
-            "Desc": "<color style='color:#FFFFFFFF'>Can only be played when you have at least 8 Elemental Dice remaining, and your opponent has not yet ended their Round:</color> After a player announces the end of their Round first, the other player, who has yet to announced the end of their Round, draws 2 cards.",
+            "Name": "鉄拳闘技！",
+            "Desc": "<color style='color:#FFFFFFFF'>味方の残り元素サイコロの数が8以上、且つ相手が終了宣言をしていない場合のみ使用可能</color>。本ラウンドで片方のプレイヤーが先に終了宣言をした時、終了宣言をしていないプレイヤーは手札を2枚引く。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Heiquan",
             "Cost": {},
@@ -9152,8 +9154,8 @@ var _card = [
         },
         {
             "_id": 332022,
-            "Name": "Where Is the Unseen Razor?",
-            "Desc": "Return a [b]3003[a]Weapon card equipped by your character to your Hand.<br><color style='color:#FFFFFFFF'>During this Round, the next time you play a [b]3003[a]Weapon card: </color>Spend 2 less Elemental Dice.",
+            "Name": "剣はいずこ",
+            "Desc": "味方キャラ1体が装備している「[b]3003[a]武器」を手札に戻す。<br><color style='color:#FFFFFFFF'>本ラウンドで、味方が次に手札の「[b]3003[a]武器」を使用する時</color>、必要な元素サイコロの数-2。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Cangfen",
             "Cost": {},
@@ -9162,8 +9164,8 @@ var _card = [
         },
         {
             "_id": 332021,
-            "Name": "Rhythm of the Great Dream",
-            "Desc": "<color style='color:#FFFFFFFF'>The next time you play a [b]3003[a]Weapon or [b]3004[a]Artifact card:</color> Spend 1 less Elemental Die.",
+            "Name": "大夢のメロディー",
+            "Desc": "<color style='color:#FFFFFFFF'>味方が次に手札から「[b]3003[a]武器」、または「[b]3004[a]聖遺物」のカードを使用する時</color>、必要な元素サイコロの数-1。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Dameng",
             "Cost": {},
@@ -9172,8 +9174,8 @@ var _card = [
         },
         {
             "_id": 332020,
-            "Name": "Friendship Eternal",
-            "Desc": "Players with less than 4 cards in their hand draw cards until their hand has 4 cards in it.",
+            "Name": "永遠なる友情",
+            "Desc": "手札の数が4枚未満のプレイヤーは、手札の数が4枚になるまで引く。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Yongyuandeyouyi",
             "Cost": {
@@ -9184,8 +9186,8 @@ var _card = [
         },
         {
             "_id": 332019,
-            "Name": "The Legend of Vennessa",
-            "Desc": "Create 4 basic Elemental Dice of different types.",
+            "Name": "ヴァネッサの物語",
+            "Desc": "元素タイプの異なる基本元素サイコロを4個生成する。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Wennisha",
             "Cost": {
@@ -9196,8 +9198,8 @@ var _card = [
         },
         {
             "_id": 332017,
-            "Name": "Plunging Strike",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: Switch to the target character. That character then uses a <color style='color:#FFFFFFFF'>Normal Attack</color>.",
+            "Name": "落下斬り",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：目標キャラにチェンジする。その後、該当キャラが<color style='color:#FFFFFFFF'>「通常攻撃」</color>を発動する。",
             "Tag": [
                 "GCG_TAG_SLOWLY"
             ],
@@ -9212,8 +9214,8 @@ var _card = [
         },
         {
             "_id": 332016,
-            "Name": "Fatui Conspiracy",
-            "Desc": "Create 1 <color style='color:#FFFFFFFF'>Fatui Ambusher</color> of a random type on the opponent's field.<br>(You must have at least 2 [b]3501[a]Fatui characters in your deck to add this card to your deck.)",
+            "Name": "ファデュイの悪巧み",
+            "Desc": "相手のフィールドに、ランダムで「<color style='color:#FFFFFFFF'>ファデュイの伏兵</color>」を1体生成する。<br>（デッキに「[b]3501[a]ファデュイ」のキャラが2体以上含まれている場合のみ、デッキに追加できる）",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Yurenzhongi",
             "Cost": {
@@ -9226,8 +9228,8 @@ var _card = [
         },
         {
             "_id": 332015,
-            "Name": "Abyssal Summons",
-            "Desc": "Summon 1 <color style='color:#FFFFFFFF'>Random Hilichurl Summon</color>!<br>(You must have at least 2 [b]3503[a]Monster characters in your deck to add this card to your deck.)",
+            "Name": "アビスの呼びかけ",
+            "Desc": "<color style='color:#FFFFFFFF'>ランダム召喚物「ヒルチャール」</color>を1つ召喚する！<br>（デッキに「[b]3503[a]魔物」キャラが2体以上含まれている場合のみ、デッキに追加できる）",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Abyssdehuhuan",
             "Cost": {
@@ -9240,8 +9242,8 @@ var _card = [
         },
         {
             "_id": 332014,
-            "Name": "Guardian's Oath",
-            "Desc": "Destroy all Summons. (Affects both you and your opponent!)",
+            "Name": "護法の誓い",
+            "Desc": "すべての「召喚物」を破壊する。（敵味方を区別せず！）",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Hufazhishi",
             "Cost": {
@@ -9252,8 +9254,8 @@ var _card = [
         },
         {
             "_id": 332013,
-            "Name": "Send Off",
-            "Desc": "Choose one Summon on the opposing side and cause it to lose 2 <color style='color:#FFFFFFFF'>Usage(s)</color>.",
+            "Name": "送ってあげよ～！",
+            "Desc": "相手の「召喚物」を1つ選び、その「<color style='color:#FFFFFFFF'>使用可能回数</color>」を-2。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Songniyicheng",
             "Cost": {
@@ -9266,8 +9268,8 @@ var _card = [
         },
         {
             "_id": 332012,
-            "Name": "Quick Knit",
-            "Desc": "Choose one Summon on your side and grant it +1 <color style='color:#FFFFFFFF'>Usage(s)</color>.",
+            "Name": "迅速裁縫の術",
+            "Desc": "味方の「召喚物」を一つ選び、その「<color style='color:#FFFFFFFF'>使用可能回数</color>」を+1。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Kuaikuaifengbushu",
             "Cost": {
@@ -9280,8 +9282,8 @@ var _card = [
         },
         {
             "_id": 332011,
-            "Name": "Blessing of the Divine Relic's Installation",
-            "Desc": "Shift 1 [b]3004[a]Artifact Card that has been equipped to one of your characters to another one of your characters, and reset the \"usages per Round\" limit on its effects.",
+            "Name": "神宝遷宮祝詞",
+            "Desc": "味方のキャラに装備している「[b]3004[a]聖遺物」装備カードを味方の他のキャラに移す。また、その聖遺物効果の「1ラウンドあたり」の回数制限をリセットする。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Shenbaoqiangongzhuci",
             "Cost": {},
@@ -9290,8 +9292,8 @@ var _card = [
         },
         {
             "_id": 332010,
-            "Name": "Master of Weaponry",
-            "Desc": "Shift 1 [b]3003[a]Weapon Equipment Card that has been equipped to one of your characters to another one of your characters of the same Weapon Type, and reset the \"usages per Round\" limit on its effects.",
+            "Name": "武芸マスター",
+            "Desc": "味方のキャラに装備している「[b]3003[a]武器」装備カードを同じ武器タイプの味方の他のキャラに移す。また、その武器効果の「1ラウンドあたり」の回数制限をリセットする。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Zhuwujingtong",
             "Cost": {},
@@ -9300,8 +9302,8 @@ var _card = [
         },
         {
             "_id": 332009,
-            "Name": "Calx's Arts",
-            "Desc": "Shift 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color> from at most 2 of your characters on standby to your active character.",
+            "Name": "白亜の術",
+            "Desc": "味方の待機キャラ（最大2体）から、<color style='color:#FFFFFFFF'>[b]1110[a]チャージ</color>を1移し、味方の出撃キャラに付与する。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Baiezhishu",
             "Cost": {
@@ -9314,8 +9316,8 @@ var _card = [
         },
         {
             "_id": 332008,
-            "Name": "Starsigns",
-            "Desc": "Your current Active Character <color style='color:#FFFFFFFF'>gains 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color></color>.",
+            "Name": "星天の兆",
+            "Desc": "味方の現在の出撃キャラは<color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>[b]1110[a]チャージ</color>を1獲得する</color>。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Xingtian",
             "Cost": {
@@ -9328,8 +9330,8 @@ var _card = [
         },
         {
             "_id": 332007,
-            "Name": "When the Crane Returned",
-            "Desc": "<color style='color:#FFFFFFFF'>The next time you use a Skill:</color> Switch your next character in to be the active character.",
+            "Name": "鶴の帰郷",
+            "Desc": "<color style='color:#FFFFFFFF'>次回、味方がスキルを発動した後</color>、味方の次の待機キャラを出撃キャラにチェンジする。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Heguizhishi",
             "Cost": {
@@ -9340,8 +9342,8 @@ var _card = [
         },
         {
             "_id": 332006,
-            "Name": "Leave It to Me!",
-            "Desc": "<color style='color:#FFFFFFFF'>The next time you perform \"Switch Character\":</color> This switch will be considered a <color style='color:#FFFFFFFF'>Fast Action</color> instead of a <color style='color:#FFFFFFFF'>Combat Action</color>.",
+            "Name": "お任せください！",
+            "Desc": "<color style='color:#FFFFFFFF'>味方が次にキャラチェンジを行う時</color>、それが「<color style='color:#FFFFFFFF'>戦闘アクション</color>」ではなく、「<color style='color:#FFFFFFFF'>クイックアクション</color>」とみなされる。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Jiaogeiwoba",
             "Cost": {},
@@ -9353,8 +9355,8 @@ var _card = [
         },
         {
             "_id": 332005,
-            "Name": "I Haven't Lost Yet!",
-            "Desc": "<color style='color:#FFFFFFFF'>Only playable if one of your characters is defeated this Round:</color> Create <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> ×1 and your current active character gains 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>. (Only one copy of I Haven't Lost Yet! can be played each round.)",
+            "Name": "俺様はまだ負けちゃいねぇ！",
+            "Desc": "<color style='color:#FFFFFFFF'>本ラウンドで味方のキャラが倒された場合のみ使用できる。</color><color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を1個生成する。また、味方の現在の出撃キャラは<color style='color:#FFFFFFFF'>[b]1110[a]チャージ</color>を1獲得する。（各ラウンドで、1回のみ「俺様はまだ負けちゃいねぇ！」を使用できる。）",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Bendayehaimeiyoushu",
             "Cost": {},
@@ -9366,8 +9368,8 @@ var _card = [
         },
         {
             "_id": 332004,
-            "Name": "Strategize",
-            "Desc": "Draw 2 cards.",
+            "Name": "権謀術数",
+            "Desc": "手札を2枚引く。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Yunchouweiwo",
             "Cost": {
@@ -9378,8 +9380,8 @@ var _card = [
         },
         {
             "_id": 332003,
-            "Name": "Toss-Up",
-            "Desc": "Select any Elemental Dice to <color style='color:#FFFFFFFF'>reroll</color>. Can reroll 2 times.",
+            "Name": "乾坤一擲",
+            "Desc": "任意の元素サイコロを選んで<color style='color:#FFFFFFFF'>リロール</color>する。最大2回までリロール可能。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Yizhiqiankun",
             "Cost": {},
@@ -9388,8 +9390,8 @@ var _card = [
         },
         {
             "_id": 332002,
-            "Name": "Changing Shifts",
-            "Desc": "<color style='color:#FFFFFFFF'>The next time you perform \"Switch Character\":</color> Spend 1 less Elemental Die.",
+            "Name": "シフト交代の時間",
+            "Desc": "<color style='color:#FFFFFFFF'>味方が次にキャラチェンジを行う時</color>、必要な元素サイコロの数-1。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Huanbanshijian",
             "Cost": {},
@@ -9398,8 +9400,8 @@ var _card = [
         },
         {
             "_id": 332001,
-            "Name": "The Bestest Travel Companion!",
-            "Desc": "Convert the Elemental Dice spent to <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> ×2.",
+            "Name": "最高の仲間！",
+            "Desc": "支払った元素サイコロを2個の<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>に変える。",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_BestAibo",
             "Cost": {
@@ -9412,8 +9414,8 @@ var _card = [
         },
         {
             "_id": 331804,
-            "Name": "Nature and Wisdom",
-            "Desc": "Draw 1 card. After that, switch any cards in your hand.<br>(You must have at least 2 [b]3404[a]Sumeru characters in your deck to add this card to your deck.)",
+            "Name": "草と知恵",
+            "Desc": "手札を1枚引く。その後、任意の手札を選んで交換する。<br>（デッキに「[b]3404[a]スメール」のキャラが2体以上含まれている場合のみ、デッキに追加できる）",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Caoyuzhihui",
             "Cost": {
@@ -9424,8 +9426,8 @@ var _card = [
         },
         {
             "_id": 331803,
-            "Name": "Thunder and Eternity",
-            "Desc": "Convert all your Elemental Dice to <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>.<br>(You must have at least 2 [b]3403[a]Inazuman characters in your deck to add this card to your deck.)",
+            "Name": "雷と永遠",
+            "Desc": "味方のすべての元素サイコロを<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>に転換する。<br>（デッキに「[b]3403[a]稲妻」のキャラが2体以上含まれている場合のみ、デッキに追加できる）",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Leiyuyongheng",
             "Cost": {},
@@ -9436,8 +9438,8 @@ var _card = [
         },
         {
             "_id": 331802,
-            "Name": "Stone and Contracts",
-            "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase of the next Round begins:</color> Create 3 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> and draw 1 card.<br>(You must have at least 2 [b]3402[a]Liyue characters in your deck to add this card to your deck.)",
+            "Name": "岩と契約",
+            "Desc": "<color style='color:#FFFFFFFF'>次のラウンドのアクションフェーズ開始時：</color><color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を3個生成し、手札を1枚引く。<br>（デッキに「[b]3402[a]璃月」のキャラが2体以上含まれている場合のみ、デッキに追加できる）",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Yanyuqiyue",
             "Cost": {
@@ -9450,8 +9452,8 @@ var _card = [
         },
         {
             "_id": 331801,
-            "Name": "Wind and Freedom",
-            "Desc": "<color style='color:#FFFFFFFF'>During this turn, after one of your characters uses a Skill:</color> Switch your next character in to be the active character.<br>(You must have at least 2 characters from [b]3401[a]Mondstadt in your deck to add this card to your deck.)",
+            "Name": "風と自由",
+            "Desc": "<color style='color:#FFFFFFFF'>本ラウンド中、味方のキャラがスキルを発動した後</color>、味方の次の待機キャラを出撃キャラにチェンジする。<br>（デッキに「[b]3401[a]モンド」のキャラが2体以上含まれている場合のみ、デッキに追加できる）",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Fengyuziyou",
             "Cost": {},
@@ -9460,8 +9462,8 @@ var _card = [
         },
         {
             "_id": 331702,
-            "Name": "Elemental Resonance: Sprawling Greenery",
-            "Desc": "During this round, the next Elemental Reaction you trigger deals +2 DMG.<br>Your <color style='color:#FFFFFFFF'>Burning Flame, Dendro Core, and Catalyzing Field</color> gain +1 <color style='color:#FFFFFFFF'>Usage(s)</color>.<br>(You must have at least 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro</color> characters in your deck to add this card to your deck.)",
+            "Name": "元素共鳴：蔓生の草",
+            "Desc": "本ラウンドで、味方が次に引き起こす元素反応によるダメージ+2。<br>味方のフィールドに存在する<color style='color:#FFFFFFFF'>燃焼烈焔、草原核、激化領域</color>の「<color style='color:#FFFFFFFF'>使用可能回数</color>」+1。<br>（デッキに[b]2107[a]<color style='color:#7EC236FF'>草元素</color>のキャラが2体以上含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9480,8 +9482,8 @@ var _card = [
         },
         {
             "_id": 331701,
-            "Name": "Elemental Resonance: Woven Weeds",
-            "Desc": "Create 1 <color style='color:#7EC236FF'>[b]1107[a]Dendro Die</color>.<br>(You must have at least 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro</color> characters in your deck to add this card to your deck.)",
+            "Name": "元素共鳴：交錯の草",
+            "Desc": "<color style='color:#7EC236FF'>[b]1107[a]草元素サイコロ</color>を1個生成する。<br>（デッキに[b]2107[a]<color style='color:#7EC236FF'>草元素</color>のキャラが2体以上含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9492,8 +9494,8 @@ var _card = [
         },
         {
             "_id": 331602,
-            "Name": "Elemental Resonance: Enduring Rock",
-            "Desc": "During this round, after your character deals [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color> next time: Should there be any Combat Status on your side that provides [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>, grant one such Status with 3 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points. <br>(You must have at least 2 [b]2106[a]<color style='color:#FFE699FF'>Geo</color> characters in your deck to add this card to your deck.)",
+            "Name": "元素共鳴：不動の岩",
+            "Desc": "本ラウンドにおいて、味方が次に[b]2106[a]<color style='color:#FFE699FF'>岩元素ダメージ</color>を与えた後、味方の場に「[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>」を提供する出撃状態が存在する場合、このタイプの出撃状態に「[b]4007[a]<color style='color:#FFFFFFFF'>シールド</color>」を3補充する。<br>（デッキに[b]2106[a]<color style='color:#FFE699FF'>岩元素</color>のキャラが2体以上含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9509,8 +9511,8 @@ var _card = [
         },
         {
             "_id": 331601,
-            "Name": "Elemental Resonance: Woven Stone",
-            "Desc": "Create 1 <color style='color:#FFE699FF'>[b]1106[a]Geo Die</color>.<br>(You must have at least 2 [b]2106[a]<color style='color:#FFE699FF'>Geo</color> characters in your deck to add this card to your deck.)",
+            "Name": "元素共鳴：交錯の岩",
+            "Desc": "<color style='color:#FFE699FF'>[b]1106[a]岩元素サイコロ</color>を1個生成する。<br>（デッキに[b]2106[a]<color style='color:#FFE699FF'>岩元素</color>のキャラが2体以上含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9521,8 +9523,8 @@ var _card = [
         },
         {
             "_id": 331502,
-            "Name": "Elemental Resonance: Impetuous Winds",
-            "Desc": "Switch to the target character and creates 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>.<br>(You must have at least 2 [b]2105[a]<color style='color:#80FFD7FF'>Anemo</color> characters in your deck to add this card to your deck.)",
+            "Name": "元素共鳴：迅速の風",
+            "Desc": "目標のキャラにチェンジし、<color style='color:#FFFFFFFF'>[b]1111[a]万能元素</color>を1個生成する。<br>（デッキに[b]2105[a]<color style='color:#80FFD7FF'>風元素</color>のキャラが2体以上含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9537,8 +9539,8 @@ var _card = [
         },
         {
             "_id": 331501,
-            "Name": "Elemental Resonance: Woven Winds",
-            "Desc": "Create 1 <color style='color:#80FFD7FF'>[b]1105[a]Anemo Die</color>.<br>(You must have at least 2 [b]2105[a]<color style='color:#80FFD7FF'>Anemo</color> characters in your deck to add this card to your deck.)",
+            "Name": "元素共鳴：交錯の風",
+            "Desc": "<color style='color:#80FFD7FF'>[b]1105[a]風元素サイコロ</color>を1個生成する。<br>（デッキに[b]2105[a]<color style='color:#80FFD7FF'>風元素</color>のキャラが2体以上含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9549,8 +9551,8 @@ var _card = [
         },
         {
             "_id": 331402,
-            "Name": "Elemental Resonance: High Voltage",
-            "Desc": "One of your characters without maximum Energy gains 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>. (Active Character prioritized)<br>(You must have at least 2 [b]2104[a]<color style='color:#FFACFFFF'>Electro</color> characters in your deck to add this card to your deck.)",
+            "Name": "元素共鳴：強権の雷",
+            "Desc": "味方のチャージがMaxになっていないキャラ1体が<color style='color:#FFFFFFFF'>[b]1110[a]チャージ</color>を1獲得する。（出撃キャラ優先）<br>（デッキに[b]2104[a]<color style='color:#FFACFFFF'>雷元素</color>のキャラが2体以上含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9565,8 +9567,8 @@ var _card = [
         },
         {
             "_id": 331401,
-            "Name": "Elemental Resonance: Woven Thunder",
-            "Desc": "Create 1 <color style='color:#FFACFFFF'>[b]1104[a]Electro Die</color>.<br>(You must have at least 2 [b]2104[a]<color style='color:#FFACFFFF'>Electro</color> characters in your deck to add this card to your deck.)",
+            "Name": "元素共鳴：交錯の雷",
+            "Desc": "<color style='color:#FFACFFFF'>[b]1104[a]雷元素サイコロ</color>を1個生成する。<br>（デッキに[b]2104[a]<color style='color:#FFACFFFF'>雷元素</color>のキャラが2体以上含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9577,8 +9579,8 @@ var _card = [
         },
         {
             "_id": 331302,
-            "Name": "Elemental Resonance: Fervent Flames",
-            "Desc": "During this round, the next instance of <color style='color:#FF9999FF'>[b]2103[a]Pyro-Related Reactions</color> your current active character triggers deals +3 DMG.<br>(You must have at least 2 [b]2103[a]<color style='color:#FF9999FF'>Pyro</color> characters in your deck to add this card to your deck.)",
+            "Name": "元素共鳴：熱誠の炎",
+            "Desc": "本ラウンドにおいて、味方の現在の出撃キャラが次に<color style='color:#FF9999FF'>[b]2103[a]炎元素関連反応</color>を引き起こした時、与えるダメージ+3。<br>（デッキに[b]2103[a]<color style='color:#FF9999FF'>炎元素</color>のキャラが2体以上含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9593,8 +9595,8 @@ var _card = [
         },
         {
             "_id": 331301,
-            "Name": "Elemental Resonance: Woven Flames",
-            "Desc": "Create 1 <color style='color:#FF9999FF'>[b]1103[a]Pyro Die</color>.<br>(You must have at least 2 [b]2103[a]<color style='color:#FF9999FF'>Pyro</color> characters in your deck to add this card to your deck.)",
+            "Name": "元素共鳴：交錯の炎",
+            "Desc": "<color style='color:#FF9999FF'>[b]1103[a]炎元素サイコロ</color>を1個生成する。<br>（デッキに[b]2103[a]<color style='color:#FF9999FF'>炎元素</color>のキャラが2体以上含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9605,8 +9607,8 @@ var _card = [
         },
         {
             "_id": 331202,
-            "Name": "Elemental Resonance: Soothing Water",
-            "Desc": "Heal your active character for 2 HP and all your characters on standby for 1 HP.<br>(You must have at least 2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro</color> characters in your deck to add this card to your deck.)",
+            "Name": "元素共鳴：治療の水",
+            "Desc": "味方の出撃キャラのHPを2回復する。その後、味方の待機キャラ全員のHPを1回復する。<br>（デッキに[b]2102[a]<color style='color:#80C0FFFF'>水元素</color>のキャラが2体以上含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9619,8 +9621,8 @@ var _card = [
         },
         {
             "_id": 331201,
-            "Name": "Elemental Resonance: Woven Waters",
-            "Desc": "Create 1 <color style='color:#80C0FFFF'>[b]1102[a]Hydro Die</color>.<br>(You must have at least 2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro</color> characters in your deck to add this card to your deck.)",
+            "Name": "元素共鳴：交錯の水",
+            "Desc": "<color style='color:#80C0FFFF'>[b]1102[a]水元素サイコロ</color>を1個生成する。<br>（デッキに[b]2102[a]<color style='color:#80C0FFFF'>水元素</color>のキャラが2体以上含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9631,8 +9633,8 @@ var _card = [
         },
         {
             "_id": 331102,
-            "Name": "Elemental Resonance: Shattering Ice",
-            "Desc": "During this Round, your current active character will deal +2 DMG for the next instance.<br>(You must have at least 2[b]2101[a] <color style='color:#99FFFFFF'>Cryo</color> characters in your deck to add this card to your deck.)",
+            "Name": "元素共鳴：粉砕の氷",
+            "Desc": "本ラウンドにおいて、味方の現在の出撃キャラが次に与えるダメージ+2。<br>（デッキに[b]2101[a]<color style='color:#99FFFFFF'>氷元素</color>のキャラが2体以上含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9645,8 +9647,8 @@ var _card = [
         },
         {
             "_id": 331101,
-            "Name": "Elemental Resonance: Woven Ice",
-            "Desc": "Create 1 <color style='color:#99FFFFFF'>[b]1101[a]Cryo Die</color>.<br>(You must have at least 2 [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color> characters in your deck to add this card to your deck.)",
+            "Name": "元素共鳴：交錯の氷",
+            "Desc": "<color style='color:#99FFFFFF'>[b]1101[a]氷元素サイコロ</color>を1個生成する。<br>（デッキに[b]2101[a]<color style='color:#99FFFFFF'>氷元素</color>のキャラが2体以上含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9657,8 +9659,8 @@ var _card = [
         },
         {
             "_id": 330006,
-            "Name": "Passing of Judgment",
-            "Desc": "3 Event Cards played by your opponent in this Round will take no effect.<br>(Only one [b]3007[a]\"Arcane Legend\" card can be played per match. This card will be in your starting hand.)",
+            "Name": "裁定の時",
+            "Desc": "本ラウンドにおいて、相手の使用する3枚のイベントカードが無効化される。<br>（「[b]3007[a]秘伝」カードは各対戦ごとに1枚しか使用できない。このカードは必ず初期手札に含まれる）",
             "Tag": [
                 "GCG_TAG_LEGEND"
             ],
@@ -9672,8 +9674,8 @@ var _card = [
         },
         {
             "_id": 330005,
-            "Name": "In Every House a Stove",
-            "Desc": "Draw a number of cards equal to the <color style='color:#FFFFFFFF'>current Round number minus 1</color>. (Up to 4 cards can be drawn in this way)<br>(Only one [b]3007[a]\"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
+            "Name": "万戸の竈",
+            "Desc": "味方が「<color style='color:#FFFFFFFF'>現在のラウンド数-1</color>」枚の手札を引く。（最大4枚まで）<br>（「[b]3007[a]秘伝」カードは各対戦ごとに1枚しか使用できない。このカードは必ず初期手札に含まれる）",
             "Tag": [
                 "GCG_TAG_LEGEND"
             ],
@@ -9686,8 +9688,8 @@ var _card = [
         },
         {
             "_id": 330004,
-            "Name": "Fresh Wind of Freedom",
-            "Desc": "<color style='color:#FFFFFFFF'>In this Round, when an opposing character is defeated during your Action</color>, you can continue to act again when that Action ends.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>：1</color><br>(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
+            "Name": "自由の新風",
+            "Desc": "<color style='color:#FFFFFFFF'>本ラウンド中、自分のターンで相手のキャラを倒すと</color>、そのアクション終了後、味方は引き続きアクションを1回行える。<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>使用可能回数</color>：1</color><br>（「[b]3007[a]秘伝」カードは各対戦ごとに1枚しか使用できない。このカードは必ず初期手札に含まれる）",
             "Tag": [
                 "GCG_TAG_LEGEND"
             ],
@@ -9702,8 +9704,8 @@ var _card = [
         },
         {
             "_id": 330003,
-            "Name": "Joyous Celebration",
-            "Desc": "<color style='color:#FFFFFFFF'>Your active character must be one of the following elemental types to play this card:</color>[b]2101[a]<color style='color:#99FFFFFF'>Cryo</color>/[b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>/[b]2103[a]<color style='color:#FF9999FF'>Pyro</color>/[b]2104[a]<color style='color:#FFACFFFF'>Electro</color>/[b]2107[a]<color style='color:#7EC236FF'>Dendro</color> The element corresponding to your active character's Elemental Type will be applied to all your characters affected by elements.<br>(Only one \"[b]3007[a]Arcane Legend\" card can be played per match. This card will be in your starting hand.)",
+            "Name": "雀躍のパレード",
+            "Desc": "<color style='color:#FFFFFFFF'>味方の出撃キャラの元素タイプが[b]2101[a]<color style='color:#99FFFFFF'>氷元素</color>、[b]2102[a]<color style='color:#80C0FFFF'>水元素</color>、[b]2103[a]<color style='color:#FF9999FF'>炎元素</color>、[b]2104[a]<color style='color:#FFACFFFF'>雷元素</color>または[b]2107[a]<color style='color:#7EC236FF'>草元素</color>の時のみ、このカードを使用できる。</color>味方に元素付着したキャラがいる場合、その全員に出撃キャラの元素タイプと同じ元素を付着させる。<br>（「[b]3007[a]秘伝」カードは各対戦ごとに1枚しか使用できない。このカードは必ず初期手札に含まれる）",
             "Tag": [
                 "GCG_TAG_LEGEND"
             ],
@@ -9716,8 +9718,8 @@ var _card = [
         },
         {
             "_id": 330002,
-            "Name": "Covenant of Rock",
-            "Desc": "<color style='color:#FFFFFFFF'>Can only be played when you have 0 Elemental Dice left:</color> Generate 2 different basic Elemental Dice.<br>(Only one [b]3007[a]\"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
+            "Name": "磐岩の誓約",
+            "Desc": "<color style='color:#FFFFFFFF'>味方の残り元素サイコロの数が0の場合のみ使用可能</color>：元素タイプの異なる基本元素サイコロを2個生成する。<br>（「[b]3007[a]秘伝」カードは各対戦ごとに1枚しか使用できない。このカードは必ず初期手札に含まれる）",
             "Tag": [
                 "GCG_TAG_LEGEND"
             ],
@@ -9730,8 +9732,8 @@ var _card = [
         },
         {
             "_id": 330001,
-            "Name": "Ancient Courtyard",
-            "Desc": "<color style='color:#FFFFFFFF'>You must have a character who has already equipped a [b]3003[a]Weapon or [b]3004[a]Artifact: The next time you play a [b]3003[a]Weapon or [b]3004[a]Artifact card in this Round:</color> Spend 2 less Elemental Dice.<br>(Only one [b]3007[a]\"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
+            "Name": "旧時の庭園",
+            "Desc": "<color style='color:#FFFFFFFF'>味方にすでに「[b]3003[a]武器」、または「[b]3004[a]聖遺物」を装備しているキャラがいる場合のみ使用可能</color>：本ラウンドで、味方が次に装備カードの「[b]3003[a]武器」、または「[b]3004[a]聖遺物」を使用する時、必要な元素サイコロの数-2。<br>（「[b]3007[a]秘伝」カードは各対戦ごとに1枚しか使用できない。このカードは必ず初期手札に含まれる）",
             "Tag": [
                 "GCG_TAG_LEGEND"
             ],
@@ -9744,8 +9746,8 @@ var _card = [
         },
         {
             "_id": 226022,
-            "Name": "Lunar Cycles Unending",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Azhdaha</color>, play this card on them. Attach <color style='color:#FFFFFFFF'>Stone Facets: Elemental Crystallization</color> to Azhdaha, then create 1 Elemental Die for each Elemental Type your characters have.<br>(Deck must contain Azhdaha to add this card to it)",
+            "Name": "朝夕の千引",
+            "Desc": "<color style='color:#FFFFFFFF'>戦闘アクション</color>：味方の出撃キャラが<color style='color:#FFFFFFFF'>若陀龍王</color>の時、該当キャラに使用できる。若陀龍王に<color style='color:#FFFFFFFF'>磐岩百相 · 元素凝晶</color>を付与し、味方キャラの元素タイプが1種類につき、対応する元素サイコロを1個生成する。<br>（このカードはデッキに若陀龍王が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -9763,8 +9765,8 @@ var _card = [
         },
         {
             "_id": 224011,
-            "Name": "Absorbing Prism",
-            "Desc": "<color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Combat Action</color>:</color> When your active character is <color style='color:#FFFFFFFF'>Electro Hypostasis</color>, heal that character for 3 HP and attach the <color style='color:#FFFFFFFF'>Electro Crystal Core</color> to them.<br>(You must have Electro Hypostasis in your deck to add this card to your deck.)",
+            "Name": "エネルギー吸収プリズム",
+            "Desc": "<color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>戦闘アクション</color>：</color>味方の出撃キャラが<color style='color:#FFFFFFFF'>無相の雷</color>の時、該当キャラのHPを3回復し、<color style='color:#FFFFFFFF'>雷晶核心</color>を付与する。<br>（このカードはデッキに無相の雷が含まれている場合のみ、デッキに追加できる）",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"

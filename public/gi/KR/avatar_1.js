@@ -17183,1356 +17183,1356 @@ var _AvatarCostumeConfig = {
 var _MaterialConfig = {
     "100021": {
         "Icon": "UI_ItemIcon_100021",
-        "Text": "<b>Wolfhook</b>"
+        "Text": "<b>고리고리 열매</b>"
     },
     "100022": {
         "Icon": "UI_ItemIcon_100022",
-        "Text": "<b>Valberry</b>"
+        "Text": "<b>낙락베리</b>"
     },
     "100023": {
         "Icon": "UI_ItemIcon_100023",
-        "Text": "<b>Cecilia</b>"
+        "Text": "<b>세실리아꽃</b>"
     },
     "100024": {
         "Icon": "UI_ItemIcon_100024",
-        "Text": "<b>Windwheel Aster</b>"
+        "Text": "<b>풍차 국화</b>"
     },
     "100025": {
         "Icon": "UI_ItemIcon_100025",
-        "Text": "<b>Philanemo Mushroom</b>"
+        "Text": "<b>바람버섯</b>"
     },
     "100027": {
         "Icon": "UI_ItemIcon_100027",
-        "Text": "<b>Jueyun Chili</b>"
+        "Text": "<b>절운고추</b>"
     },
     "100028": {
         "Icon": "UI_ItemIcon_100028",
-        "Text": "<b>Noctilucous Jade</b>"
+        "Text": "<b>야박석</b>"
     },
     "100029": {
         "Icon": "UI_ItemIcon_100029",
-        "Text": "<b>Silk Flower</b>"
+        "Text": "<b>예상꽃</b>"
     },
     "100030": {
         "Icon": "UI_ItemIcon_100030",
-        "Text": "<b>Glaze Lily</b>"
+        "Text": "<b>유리백합</b>"
     },
     "100031": {
         "Icon": "UI_ItemIcon_100031",
-        "Text": "<b>Qingxin</b>"
+        "Text": "<b>청심</b>"
     },
     "100033": {
         "Icon": "UI_ItemIcon_100033",
-        "Text": "<b>Starconch</b>"
+        "Text": "<b>별소라</b>"
     },
     "100034": {
         "Icon": "UI_ItemIcon_100034",
-        "Text": "<b>Violetgrass</b>"
+        "Text": "<b>유리주머니</b>"
     },
     "100055": {
         "Icon": "UI_ItemIcon_100055",
-        "Text": "<b>Small Lamp Grass</b>"
+        "Text": "<b>등불꽃</b>"
     },
     "100056": {
         "Icon": "UI_ItemIcon_100056",
-        "Text": "<b>Calla Lily</b>"
+        "Text": "<b>통통 연꽃</b>"
     },
     "100057": {
         "Icon": "UI_ItemIcon_100057",
-        "Text": "<b>Dandelion Seed</b>"
+        "Text": "<b>민들레 씨앗</b>"
     },
     "100058": {
         "Icon": "UI_ItemIcon_100058",
-        "Text": "<b>Cor Lapis</b>"
+        "Text": "<b>콜 라피스</b>"
     },
     "101201": {
         "Icon": "UI_ItemIcon_101201",
-        "Text": "<b>Onikabuto</b>"
+        "Text": "<b>귀신풍뎅이</b>"
     },
     "101202": {
         "Icon": "UI_ItemIcon_101202",
-        "Text": "<b>Sakura Bloom</b>"
+        "Text": "<b>벚꽃 수구</b>"
     },
     "101203": {
         "Icon": "UI_ItemIcon_101203",
-        "Text": "<b>Crystal Marrow</b>"
+        "Text": "<b>수정 골수</b>"
     },
     "101204": {
         "Icon": "UI_ItemIcon_101204",
-        "Text": "<b>Dendrobium</b>"
+        "Text": "<b>혈곡</b>"
     },
     "101205": {
         "Icon": "UI_ItemIcon_101205",
-        "Text": "<b>Naku Weed</b>"
+        "Text": "<b>울림풀</b>"
     },
     "101206": {
         "Icon": "UI_ItemIcon_101206",
-        "Text": "<b>Sea Ganoderma</b>"
+        "Text": "<b>바다 불로초</b>"
     },
     "101207": {
         "Icon": "UI_ItemIcon_101207",
-        "Text": "<b>Sango Pearl</b>"
+        "Text": "<b>산호 진주</b>"
     },
     "101208": {
         "Icon": "UI_ItemIcon_101208",
-        "Text": "<b>Amakumo Fruit</b>"
+        "Text": "<b>아마쿠모초 열매</b>"
     },
     "101209": {
         "Icon": "UI_ItemIcon_101209",
-        "Text": "<b>Fluorescent Fungus</b>"
+        "Text": "<b>형광 버섯</b>"
     },
     "101213": {
         "Icon": "UI_ItemIcon_101213",
-        "Text": "<b>Rukkhashava Mushrooms</b>"
+        "Text": "<b>룩카데바타 성체 버섯</b>"
     },
     "101214": {
         "Icon": "UI_ItemIcon_101214",
-        "Text": "<b>Padisarah</b>"
+        "Text": "<b>파디사라</b>"
     },
     "101215": {
         "Icon": "UI_ItemIcon_101215",
-        "Text": "<b>Nilotpala Lotus</b>"
+        "Text": "<b>달 연꽃</b>"
     },
     "101217": {
         "Icon": "UI_ItemIcon_101217",
-        "Text": "<b>Kalpalata Lotus</b>"
+        "Text": "<b>겁의 연꽃</b>"
     },
     "101220": {
         "Icon": "UI_ItemIcon_101220",
-        "Text": "<b>Henna Berry</b>"
+        "Text": "<b>적념과</b>"
     },
     "101222": {
         "Icon": "UI_ItemIcon_101222",
-        "Text": "<b>Sand Grease Pupa</b>"
+        "Text": "<b>모래 번데기</b>"
     },
     "101223": {
         "Icon": "UI_ItemIcon_101223",
-        "Text": "<b>Mourning Flower</b>"
+        "Text": "<b>애도의 꽃</b>"
     },
     "101225": {
         "Icon": "UI_ItemIcon_101225",
-        "Text": "<b>Scarab</b>"
+        "Text": "<b>황금 스카라브</b>"
     },
     "101232": {
         "Icon": "UI_ItemIcon_101232",
-        "Text": "<b>Beryl Conch</b>"
+        "Text": "<b>푸른 수정 소라</b>"
     },
     "101233": {
         "Icon": "UI_ItemIcon_101233",
-        "Text": "<b>Romaritime Flower</b>"
+        "Text": "<b>바다 이슬 꽃</b>"
     },
     "101235": {
         "Icon": "UI_ItemIcon_101235",
-        "Text": "<b>Lumidouce Bell</b>"
+        "Text": "<b>등방울꽃</b>"
     },
     "101236": {
         "Icon": "UI_ItemIcon_101236",
-        "Text": "<b>Rainbow Rose</b>"
+        "Text": "<b>무지개 장미</b>"
     },
     "101237": {
         "Icon": "UI_ItemIcon_101237",
-        "Text": "<b>Lumitoile</b>"
+        "Text": "<b>형광별</b>"
     },
     "101238": {
         "Icon": "UI_ItemIcon_101238",
-        "Text": "<b>Lakelight Lily</b>"
+        "Text": "<b>호숫빛 은방울꽃</b>"
     },
     "101239": {
         "Icon": "UI_ItemIcon_101239",
-        "Text": "<b>Subdetection Unit</b>"
+        "Text": "<b>서브 탐측 유닛</b>"
     },
     "101240": {
         "Icon": "UI_ItemIcon_101240",
-        "Text": "<b>Spring of the First Dewdrop</b>"
+        "Text": "<b>첫 이슬의 근원</b>"
     },
     "101241": {
         "Icon": "UI_ItemIcon_101241",
-        "Text": "<b>Clearwater Jade</b>"
+        "Text": "<b>청수옥</b>"
     },
     "104303": {
         "Icon": "UI_ItemIcon_104303",
-        "Text": "<b>Philosophies of Freedom</b><br>Mondstadt / Mon Thu Sun"
+        "Text": "<b>「자유」의 철학</b><br>Mondstadt / Mon Thu Sun"
     },
     "104306": {
         "Icon": "UI_ItemIcon_104306",
-        "Text": "<b>Philosophies of Resistance</b><br>Mondstadt / Tue Fri Sun"
+        "Text": "<b>「투쟁」의 철학</b><br>Mondstadt / Tue Fri Sun"
     },
     "104309": {
         "Icon": "UI_ItemIcon_104309",
-        "Text": "<b>Philosophies of Ballad</b><br>Mondstadt / Wed Sat Sun"
+        "Text": "<b>「시문」의 철학</b><br>Mondstadt / Wed Sat Sun"
     },
     "104312": {
         "Icon": "UI_ItemIcon_104312",
-        "Text": "<b>Philosophies of Prosperity</b><br>Liyue / Mon Thu Sun"
+        "Text": "<b>「번영」의 철학</b><br>Liyue / Mon Thu Sun"
     },
     "104315": {
         "Icon": "UI_ItemIcon_104315",
-        "Text": "<b>Philosophies of Diligence</b><br>Liyue / Tue Fri Sun"
+        "Text": "<b>「근면」의 철학</b><br>Liyue / Tue Fri Sun"
     },
     "104318": {
         "Icon": "UI_ItemIcon_104318",
-        "Text": "<b>Philosophies of Gold</b><br>Liyue / Wed Sat Sun"
+        "Text": "<b>「황금」의 철학</b><br>Liyue / Wed Sat Sun"
     },
     "104322": {
         "Icon": "UI_ItemIcon_104322",
-        "Text": "<b>Philosophies of Transience</b><br>Inazuma / Mon Thu Sun"
+        "Text": "<b>「부세」의 철학</b><br>Inazuma / Mon Thu Sun"
     },
     "104325": {
         "Icon": "UI_ItemIcon_104325",
-        "Text": "<b>Philosophies of Elegance</b><br>Inazuma / Tue Fri Sun"
+        "Text": "<b>「풍아」의 철학</b><br>Inazuma / Tue Fri Sun"
     },
     "104328": {
         "Icon": "UI_ItemIcon_104328",
-        "Text": "<b>Philosophies of Light</b><br>Inazuma / Wed Sat Sun"
+        "Text": "<b>「천광」의 철학</b><br>Inazuma / Wed Sat Sun"
     },
     "104331": {
         "Icon": "UI_ItemIcon_104331",
-        "Text": "<b>Philosophies of Admonition</b><br>Sumeru / Mon Thu Sun"
+        "Text": "<b>「간언」의 철학</b><br>Sumeru / Mon Thu Sun"
     },
     "104334": {
         "Icon": "UI_ItemIcon_104334",
-        "Text": "<b>Philosophies of Ingenuity</b><br>Sumeru / Tue Fri Sun"
+        "Text": "<b>「창의」의 철학</b><br>Sumeru / Tue Fri Sun"
     },
     "104337": {
         "Icon": "UI_ItemIcon_104337",
-        "Text": "<b>Philosophies of Praxis</b><br>Sumeru / Wed Sat Sun"
+        "Text": "<b>「실천」의 철학</b><br>Sumeru / Wed Sat Sun"
     },
     "104340": {
         "Icon": "UI_ItemIcon_104340",
-        "Text": "<b>Philosophies of Equity</b><br>Fontaine / Mon Thu Sun"
+        "Text": "<b>「공평」의 철학</b><br>Fontaine / Mon Thu Sun"
     },
     "104343": {
         "Icon": "UI_ItemIcon_104343",
-        "Text": "<b>Philosophies of Justice</b><br>Fontaine / Tue Fri Sun"
+        "Text": "<b>「정의」의 철학</b><br>Fontaine / Tue Fri Sun"
     },
     "104346": {
         "Icon": "UI_ItemIcon_104346",
-        "Text": "<b>Philosophies of Order</b><br>Fontaine / Wed Sat Sun"
+        "Text": "<b>「질서」의 철학</b><br>Fontaine / Wed Sat Sun"
     },
     "113001": {
         "Icon": "UI_ItemIcon_113001",
-        "Text": "<b>Hurricane Seed</b>"
+        "Text": "<b>폭풍의 씨앗</b>"
     },
     "113002": {
         "Icon": "UI_ItemIcon_113002",
-        "Text": "<b>Lightning Prism</b>"
+        "Text": "<b>뇌광 프리즘</b>"
     },
     "113003": {
         "Icon": "UI_ItemIcon_113003",
-        "Text": "<b>Dvalin's Plume</b>"
+        "Text": "<b>동풍의 깃털</b>"
     },
     "113004": {
         "Icon": "UI_ItemIcon_113004",
-        "Text": "<b>Dvalin's Claw</b>"
+        "Text": "<b>동풍의 발톱</b>"
     },
     "113005": {
         "Icon": "UI_ItemIcon_113005",
-        "Text": "<b>Dvalin's Sigh</b>"
+        "Text": "<b>동풍의 숨결</b>"
     },
     "113006": {
         "Icon": "UI_ItemIcon_113006",
-        "Text": "<b>Tail of Boreas</b>"
+        "Text": "<b>북풍의 꼬리</b>"
     },
     "113007": {
         "Icon": "UI_ItemIcon_113007",
-        "Text": "<b>Ring of Boreas</b>"
+        "Text": "<b>북풍의 고리</b>"
     },
     "113008": {
         "Icon": "UI_ItemIcon_113008",
-        "Text": "<b>Spirit Locket of Boreas</b>"
+        "Text": "<b>북풍의 영혼상자</b>"
     },
     "113009": {
         "Icon": "UI_ItemIcon_113009",
-        "Text": "<b>Basalt Pillar</b>"
+        "Text": "<b>현암의 탑</b>"
     },
     "113010": {
         "Icon": "UI_ItemIcon_113010",
-        "Text": "<b>Hoarfrost Core</b>"
+        "Text": "<b>서리의 핵</b>"
     },
     "113011": {
         "Icon": "UI_ItemIcon_113011",
-        "Text": "<b>Everflame Seed</b>"
+        "Text": "<b>꺼지지 않는 불씨</b>"
     },
     "113012": {
         "Icon": "UI_ItemIcon_113012",
-        "Text": "<b>Cleansing Heart</b>"
+        "Text": "<b>물처럼 맑은 마음</b>"
     },
     "113013": {
         "Icon": "UI_ItemIcon_113013",
-        "Text": "<b>Tusk of Monoceros Caeli</b>"
+        "Text": "<b>하늘을 삼킨 고래·뿔</b>"
     },
     "113014": {
         "Icon": "UI_ItemIcon_113014",
-        "Text": "<b>Shard of a Foul Legacy</b>"
+        "Text": "<b>마왕의 칼날·조각</b>"
     },
     "113015": {
         "Icon": "UI_ItemIcon_113015",
-        "Text": "<b>Shadow of the Warrior</b>"
+        "Text": "<b>무예의 혼·고영</b>"
     },
     "113016": {
         "Icon": "UI_ItemIcon_113016",
-        "Text": "<b>Juvenile Jade</b>"
+        "Text": "<b>설익은 옥</b>"
     },
     "113017": {
         "Icon": "UI_ItemIcon_113017",
-        "Text": "<b>Dragon Lord's Crown</b>"
+        "Text": "<b>용왕의 면류관</b>"
     },
     "113018": {
         "Icon": "UI_ItemIcon_113018",
-        "Text": "<b>Bloodjade Branch</b>"
+        "Text": "<b>혈옥의 가지</b>"
     },
     "113019": {
         "Icon": "UI_ItemIcon_113019",
-        "Text": "<b>Gilded Scale</b>"
+        "Text": "<b>순금의 비늘</b>"
     },
     "113020": {
         "Icon": "UI_ItemIcon_113020",
-        "Text": "<b>Crystalline Bloom</b>"
+        "Text": "<b>응결의 꽃</b>"
     },
     "113022": {
         "Icon": "UI_ItemIcon_113022",
-        "Text": "<b>Marionette Core</b>"
+        "Text": "<b>꼭두각시 부품</b>"
     },
     "113023": {
         "Icon": "UI_ItemIcon_113023",
-        "Text": "<b>Perpetual Heart</b>"
+        "Text": "<b>영구 장치의 코어</b>"
     },
     "113024": {
         "Icon": "UI_ItemIcon_113024",
-        "Text": "<b>Smoldering Pearl</b>"
+        "Text": "<b>무형의 불 구슬</b>"
     },
     "113025": {
         "Icon": "UI_ItemIcon_113025",
-        "Text": "<b>Molten Moment</b>"
+        "Text": "<b>용해의 순간</b>"
     },
     "113026": {
         "Icon": "UI_ItemIcon_113026",
-        "Text": "<b>Hellfire Butterfly</b>"
+        "Text": "<b>지옥불 나비</b>"
     },
     "113027": {
         "Icon": "UI_ItemIcon_113027",
-        "Text": "<b>Ashen Heart</b>"
+        "Text": "<b>재가 된 심장</b>"
     },
     "113028": {
         "Icon": "UI_ItemIcon_113028",
-        "Text": "<b>Dew of Repudiation</b>"
+        "Text": "<b>배척의 이슬</b>"
     },
     "113029": {
         "Icon": "UI_ItemIcon_113029",
-        "Text": "<b>Storm Beads</b>"
+        "Text": "<b>뇌정의 구슬</b>"
     },
     "113030": {
         "Icon": "UI_ItemIcon_113030",
-        "Text": "<b>Riftborn Regalia</b>"
+        "Text": "<b>수계(獸界) 늑대왕의 그릇</b>"
     },
     "113031": {
         "Icon": "UI_ItemIcon_113031",
-        "Text": "<b>Dragonheir's False Fin</b>"
+        "Text": "<b>용 자손의 가짜 지느러미</b>"
     },
     "113032": {
         "Icon": "UI_ItemIcon_113032",
-        "Text": "<b>Mudra of the Malefic General</b>"
+        "Text": "<b>흉장의 수안</b>"
     },
     "113033": {
         "Icon": "UI_ItemIcon_113033",
-        "Text": "<b>Tears of the Calamitous God</b>"
+        "Text": "<b>재앙신의 액운을 쫓는 눈물</b>"
     },
     "113034": {
         "Icon": "UI_ItemIcon_113034",
-        "Text": "<b>The Meaning of Aeons</b>"
+        "Text": "<b>만겁의 진의</b>"
     },
     "113035": {
         "Icon": "UI_ItemIcon_113035",
-        "Text": "<b>Runic Fang</b>"
+        "Text": "<b>룬 무늬 이빨</b>"
     },
     "113036": {
         "Icon": "UI_ItemIcon_113036",
-        "Text": "<b>Majestic Hooked Beak</b>"
+        "Text": "<b>버섯왕의 뾰족한 부리</b>"
     },
     "113037": {
         "Icon": "UI_ItemIcon_113037",
-        "Text": "<b>Thunderclap Fruitcore</b>"
+        "Text": "<b>번개를 품은 야생 열매</b>"
     },
     "113038": {
         "Icon": "UI_ItemIcon_113038",
-        "Text": "<b>Perpetual Caliber</b>"
+        "Text": "<b>영구동력 코어</b>"
     },
     "113039": {
         "Icon": "UI_ItemIcon_113039",
-        "Text": "<b>Light Guiding Tetrahedron</b>"
+        "Text": "<b>빛 인도 사면체</b>"
     },
     "113040": {
         "Icon": "UI_ItemIcon_113040",
-        "Text": "<b>Quelled Creeper</b>"
+        "Text": "<b>분쟁을 멈추는 넝쿨</b>"
     },
     "113041": {
         "Icon": "UI_ItemIcon_113041",
-        "Text": "<b>Puppet Strings</b>"
+        "Text": "<b>꼭두각시 줄</b>"
     },
     "113042": {
         "Icon": "UI_ItemIcon_113042",
-        "Text": "<b>Mirror of Mushin</b>"
+        "Text": "<b>무념의 거울</b>"
     },
     "113043": {
         "Icon": "UI_ItemIcon_113043",
-        "Text": "<b>Daka's Bell</b>"
+        "Text": "<b>공행의 방울</b>"
     },
     "113044": {
         "Icon": "UI_ItemIcon_113044",
-        "Text": "<b>Pseudo-Stamens</b>"
+        "Text": "<b>푸른 꽃날개</b>"
     },
     "113045": {
         "Icon": "UI_ItemIcon_113045",
-        "Text": "<b>Evergloom Ring</b>"
+        "Text": "<b>영원한 어둠의 고리</b>"
     },
     "113046": {
         "Icon": "UI_ItemIcon_113046",
-        "Text": "<b>Worldspan Fern</b>"
+        "Text": "<b>천지에서 자란 고사리</b>"
     },
     "113047": {
         "Icon": "UI_ItemIcon_113047",
-        "Text": "<b>Primordial Greenbloom</b>"
+        "Text": "<b>태초 오아시스의 첫 개화</b>"
     },
     "113048": {
         "Icon": "UI_ItemIcon_113048",
-        "Text": "<b>Everamber</b>"
+        "Text": "<b>고대 숲의 응고된 찰나</b>"
     },
     "113049": {
         "Icon": "UI_ItemIcon_113049",
-        "Text": "<b>Artificed Spare Clockwork Component — Coppelia</b>"
+        "Text": "<b>오토마톤 태엽 감개·코펠리아</b>"
     },
     "113050": {
         "Icon": "UI_ItemIcon_113050",
-        "Text": "<b>Artificed Spare Clockwork Component — Coppelius</b>"
+        "Text": "<b>오토마톤 태엽 감개·코펠리우스</b>"
     },
     "113051": {
         "Icon": "UI_ItemIcon_113051",
-        "Text": "<b>Emperor's Resolution</b>"
+        "Text": "<b>제왕의 결단</b>"
     },
     "113052": {
         "Icon": "UI_ItemIcon_113052",
-        "Text": "<b>\"Tourbillon Device\"</b>"
+        "Text": "<b>「투르비용 장치」</b>"
     },
     "113053": {
         "Icon": "UI_ItemIcon_113053",
-        "Text": "<b>Fontemer Unihorn</b>"
+        "Text": "<b>원류바다의 기린 뿔</b>"
     },
     "113054": {
         "Icon": "UI_ItemIcon_113054",
-        "Text": "<b>Lightless Silk String</b>"
+        "Text": "<b>빛 없는 실</b>"
     },
     "113055": {
         "Icon": "UI_ItemIcon_113055",
-        "Text": "<b>Lightless Eye of the Maelstrom</b>"
+        "Text": "<b>빛 없는 소용돌이 눈</b>"
     },
     "113056": {
         "Icon": "UI_ItemIcon_113056",
-        "Text": "<b>Lightless Mass</b>"
+        "Text": "<b>빛 없는 물질</b>"
     },
     "113057": {
         "Icon": "UI_ItemIcon_113057",
-        "Text": "<b>Water That Failed To Transcend</b>"
+        "Text": "<b>초월하지 못한 물</b>"
     },
     "113058": {
         "Icon": "UI_ItemIcon_113058",
-        "Text": "<b>Cloudseam Scale</b>"
+        "Text": "<b>구름 비늘</b>"
     }
 }
 
 var _WeaponAffixConfig = {
     "111301": {
         "Affix": [
-            "Увеличивает урон против врагов, находящихся под Гидро или Крио эффектом, на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> ."
+            "물 원소 또는 얼음 원소의 영향을 받은 적에게 주는 피해가 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가한다"
         ]
     },
     "111302": {
         "Affix": [
-            "Увеличивает шанс крит. попадания на <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>17,5%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24,5%</color> / <color style='color:#99FFFF;'>28%</color>  при HP выше 90%."
+            "HP가 90% 초과 시 치명타 확률이 <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>17.5%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24.5%</color> / <color style='color:#99FFFF;'>28%</color>  증가한다"
         ]
     },
     "111303": {
         "Affix": [
-            "Подобранные элементальные сферы и частицы восстанавливают <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1,25%</color> / <color style='color:#99FFFF;'>1,5%</color> / <color style='color:#99FFFF;'>1,75%</color> / <color style='color:#99FFFF;'>2%</color>  HP."
+            "원소 구슬 또는 원소 입자를 획득 시 HP를 <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1.25%</color> / <color style='color:#99FFFF;'>1.5%</color> / <color style='color:#99FFFF;'>1.75%</color> / <color style='color:#99FFFF;'>2%</color>  회복한다"
         ]
     },
     "111304": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  на 12 сек. при активации реакций Перегрузка, Сверхпроводник, Заряжен, Стимуляция, Обострение, Вегетация или Электро Рассеивание."
+            "과부하, 초전도, 감전, 활성, 촉진, 만개 혹은 번개 원소 확산 반응 발동 후 12초 동안 공격력이 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다"
         ]
     },
     "111305": {
         "Affix": [
-            "При попадании с 50% вероятностью наносит <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> / <color style='color:#99FFFF;'>360%</color> / <color style='color:#99FFFF;'>400%</color>  урона одной цели. Может возникнуть раз в <color style='color:#99FFFF;'>15</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>13</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>11</color>  сек."
+            "공격 명중 시 50%의 확률로 단일 타깃에게 공격력 <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> / <color style='color:#99FFFF;'>360%</color> / <color style='color:#99FFFF;'>400%</color> 의 피해를 준다. 해당 효과는 <color style='color:#99FFFF;'>15</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>13</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>11</color> 초마다 1회만 발동한다"
         ]
     },
     "111306": {
         "Affix": [
-            "Активация взрыва стихии увеличивает силу атаки и скорость передвижения на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  в течение 15 сек."
+            "원소폭발 발동 후 공격력과 이동 속도가 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가한다. 지속 시간: 15초"
         ]
     },
     "111401": {
         "Affix": [
-            "Критические атаки имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать элементальные частицы, которые восстанавливают 6 ед. энергии. Возникает раз в <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>6</color>  сек."
+            "치명타 시 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> 의 확률로 소량의 원소 구슬이 생성되고 캐릭터의 원소 에너지를 6pt 회복한다. 해당 효과는 <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10.5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7.5</color> / <color style='color:#99FFFF;'>6</color> 초마다 1회만 발동한다"
         ]
     },
     "111402": {
         "Affix": [
-            "Попадания обычной или заряженной атакой дают музыкальную ноту. При накоплении 5 нот активируется сила музыки, которая наносит <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>150%</color> / <color style='color:#99FFFF;'>175%</color> / <color style='color:#99FFFF;'>200%</color>  урона окружающим врагам. Ноты исчезают через 30 сек. Новую ноту можно получить раз в 0,5 сек."
+            "일반 공격 또는 강공격 명중 시 화음을 1개 획득한다. 5개의 화음을 모은 후 음률의 힘으로 주변의 적에게 공격력 <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>150%</color> / <color style='color:#99FFFF;'>175%</color> / <color style='color:#99FFFF;'>200%</color> 의 피해를 준다. 화음 최대 유지 시간: 30초. 0.5초마다 최대 1개의 화음을 획득한다"
         ]
     },
     "111403": {
         "Affix": [
-            "Когда элементальный навык наносит урон, есть <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  вероятность, что его откат моментально восстановится. Может возникнуть раз в <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color>  сек."
+            "원소전투 스킬로 피해를 줄 때 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> 의 확률로 해당 스킬의 재발동 대기시간이 초기화된다. 해당 효과는 <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color> 초마다 1회만 발동한다"
         ]
     },
     "111404": {
         "Affix": [
-            "При нанесении урона противнику повышает шанс крит. попадания на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . Эффект может складываться до 5 раз. Добавочный шанс крит. попадания исчезает с первым крит. попаданием."
+            "공격으로 피해를 줄 때마다 치명타 확률이 <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  증가한다. 최대 중첩수: 5회. 공격 시 치명타가 발생하면 모든 집중 효과가 사라진다"
         ]
     },
     "111405": {
         "Affix": [
-            "Увеличивает на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>36%</color>  урон против врагов, находящихся под действием Пиро или Электро элементов."
+            "불 원소 또는 번개 원소의 영향을 받은 적에게 주는 피해가 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>36%</color>  증가한다"
         ]
     },
     "111406": {
         "Affix": [
-            "Попадания обычной или заряженной атакой увеличивают силу атаки и защиту на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  в течение 6 сек. Эффект может складываться до 4 раз и возникает раз в 0,3 сек."
+            "일반 공격 또는 강공격 명중 시 공격력과 방어력이 <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  증가한다. 지속 시간: 6초. 최대 중첩수: 4회. 해당 효과는 0.3초마다 1회만 발동한다"
         ]
     },
     "111407": {
         "Affix": [
-            "Нанесённый Элементальный урон увеличивает весь урон на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color>  на 6 сек. Может складываться до 2 раз. Может возникнуть раз в 1 сек."
+            "원소 피해를 준 후 6초 동안 캐릭터가 주는 피해가 <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7.5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10.5%</color> / <color style='color:#99FFFF;'>12%</color>  증가한다. 최대 중첩수: 2회. 해당 효과는 1초마다 1번 발동한다"
         ]
     },
     "111408": {
         "Affix": [
-            "Побеждённые противники увеличивают силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Длится 30 сек. Эффект может складываться до 3 раз. Длительность добавочных эффектов друг от друга не зависит."
+            "적을 처치한 후 공격력이 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가한다. 지속 시간: 30초. 최대 중첩수: 3회. 중첩 1회당 지속 시간은 독립 계산한다"
         ]
     },
     "111409": {
         "Affix": [
-            "Увеличивает урон обычной и заряженной атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . Крит. попадания обычной и заряженной атакой восстанавливают HP, равное <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  от силы атаки. Может возникнуть раз в 5 сек."
+            "일반 공격과 강공격으로 주는 피해가 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다. 또한 일반 공격과 강공격이 치명타 시 공격력의 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> 에 해당하는 HP를 회복한다. 해당 효과는 5초마다 1번 발동한다"
         ]
     },
     "111410": {
         "Affix": [
-            "Увеличивает урон персонажа на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . После получения урона эффект пропадает на 5 сек."
+            "캐릭터가 주는 피해가 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가한다. 피해를 받은 후, 피해 증가 효과가 5초 동안 사라진다"
         ]
     },
     "111412": {
         "Affix": [
-            " <color style='color:#99FFFF;'>Действует только для игроков</color> <br> <color style='color:#99FFFF;'>\"PlayStation Network\".</color> <br>Атакуя противников обычными и заряженными атаками, вы получаете <color style='color:#99FFFF;'>50%</color>  шанс нанести урон, равный <color style='color:#99FFFF;'>200%</color>  силы атаки в небольшом радиусе. Эффект может возникнуть 1 раз в 10 сек. Кроме того, если Путешественник экипирован Мечом нисхождения, его сила атаки увеличивается на <color style='color:#99FFFF;'>66</color>  единиц."
+            " <color style='color:#99FFFF;'>다음 플랫폼에서만 적용:</color> <br> <color style='color:#99FFFF;'>\"PlayStation Network\"</color> <br>일반 공격과 강공격 명중 후 <color style='color:#99FFFF;'>50%</color> 의 확률로 작은 범위 내에 공격력 <color style='color:#99FFFF;'>200%</color> 의 피해를 준다. 해당 효과는 10초마다 1회 발동한다. 또한 여행자가 강림의 검을 장착하면 공격력이 <color style='color:#99FFFF;'>66</color> pt 증가한다"
         ]
     },
     "111413": {
         "Affix": [
-            "Увеличивает урон элементального навыка на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> , и его шанс крит. попадания - на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color> ."
+            "원소전투 스킬로 주는 피해가 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  증가하고 원소전투 스킬의 치명타 확률이 <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7.5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10.5%</color> / <color style='color:#99FFFF;'>12%</color>  증가한다"
         ]
     },
     "111414": {
         "Affix": [
-            "После применения элементального навыка получает 1 семя наследия. Эффект может возникнуть 1 раз каждые 5 сек. Семя наследия действует в течение 30 сек. Одновременно может существовать до 3 семян наследия. После использования взрыва стихии все семена наследия расходуются, и через 2 сек. персонаж восстанавливает <color style='color:#99FFFF;'>6</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>12</color>  единиц элементальной энергии за каждое расходуемое семя."
+            "원소전투 스킬 발동 후 계승의 씨앗을 1개 획득하고, 해당 효과는 5초마다 최대 1회 발동된다. 계승의 씨앗 지속시간: 30초. 동시에 최대 3개까지 존재할 수 있다. 원소폭발 발동 후 보유 중인 계승의 씨앗이 모두 소모되며, 2초 후 소모된 계승의 씨앗의 개수에 따라 하나당 해당 캐릭터의 원소 에너지를 <color style='color:#99FFFF;'>6</color> / <color style='color:#99FFFF;'>7.5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>10.5</color> / <color style='color:#99FFFF;'>12</color> pt 회복한다"
         ]
     },
     "111415": {
         "Affix": [
-            "Урон элементального навыка повышается на <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  от защиты. Эффект возникает раз в 1,5 сек. и исчезает через 0,1 сек. после нанесения урона врагу элементальным навыком."
+            "원소전투 스킬 피해량이 방어력의 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> 만큼 증가한다. 해당 효과는 1.5초마다 최대 1회 발동되며, 원소전투 스킬로 피해를 준 다음 0.1초 후에 효과가 사라진다"
         ]
     },
     "111416": {
         "Affix": [
-            "Попадания обычной атакой, заряженной атакой или атакой в падении поднимают Секущий ветер, который наносит урон по площади, равный 180% от силы атаки, а также повышает силу атаки на 15% на 8 сек. Этот эффект может возникнуть раз в 8 сек."
+            "일반 공격, 강공격, 낙하 공격이 적에게 명중 시, 날카로운 바람으로 공격력의 180%에 해당하는 범위 피해를 주고, 공격력이 15% 증가한다. 지속 시간: 8초. 해당 효과는 8초마다 최대 1회 발동한다"
         ]
     },
     "111417": {
         "Affix": [
-            "Активация статусов Горение, Стимуляция, Обострение, Разрастание, Бутонизация, Вегетация и Цветение создают рядом с персонажем Семя сознания, которое существует 10 сек. Мастерство стихий подобравшего его персонажа повышается на <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>75</color> / <color style='color:#99FFFF;'>90</color> / <color style='color:#99FFFF;'>105</color> / <color style='color:#99FFFF;'>120</color>  ед. на 12 сек. Семя сознания может возникнуть раз в 20 сек. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя. Эффект Семени сознания не суммируется."
+            "연소, 활성, 촉진, 발산, 개화, 만개 혹은 발화 발동 후, 캐릭터 주변에 최대 10초 동안 존재하는 「유식의 잎사귀」가 생성된다. 유식의 잎사귀를 습득한 캐릭터는 원소 마스터리가 <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>75</color> / <color style='color:#99FFFF;'>90</color> / <color style='color:#99FFFF;'>105</color> / <color style='color:#99FFFF;'>120</color> pt 증가한다. 지속 시간: 12초. 해당 방식으로 20초마다 유식의 잎사귀를 최대 1개 생성한다. 캐릭터가 대기 상태일 때도 발동된다. 유식의 잎사귀 효과는 중첩되지 않는다"
         ]
     },
     "111418": {
         "Affix": [
-            "Каждые 10 сек. срабатывает следующий эффект: восстановление энергии экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>0,036%</color> / <color style='color:#99FFFF;'>0,045%</color> / <color style='color:#99FFFF;'>0,054%</color> / <color style='color:#99FFFF;'>0,063%</color> / <color style='color:#99FFFF;'>0,072%</color>  за каждую единицу собственного мастерства стихий на 12 сек. Члены отряда поблизости получают 30% этого эффекта. Если этим оружием обладают и другие члены отряда, эффект суммируется. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя."
+            "10초마다 아래의 효과가 발생한다: 장착한 캐릭터의 원소 마스터리 1pt당 해당 캐릭터의 원소 충전 효율이 <color style='color:#99FFFF;'>0.036%</color> / <color style='color:#99FFFF;'>0.045%</color> / <color style='color:#99FFFF;'>0.054%</color> / <color style='color:#99FFFF;'>0.063%</color> / <color style='color:#99FFFF;'>0.072%</color> 만큼 증가하고, 해당 증가량의 30%만큼 근처 파티 내 다른 캐릭터의 원소 충전 효율이 증가한다. 지속 시간: 12초. 동명의 무기를 여러 개 장착 시 해당 효과는 중첩이 가능하다. 캐릭터가 대기 상태일 때도 발동된다"
         ]
     },
     "111419": {
         "Affix": [
-            "Попадания обычной атакой, заряженной атакой или атакой в падении выпускают Проклятого духа, нанося урон по площади, равный 180% от силы атаки, а также восстанавливают HP, равное 100% от силы атаки. Этот эффект может возникнуть раз в 8 сек. Экипированный этим оружием персонаж наносит на 50% меньше урона."
+            "일반 공격, 강공격, 낙하 공격이 적에게 명중 시, 원령을 발동해 공격력의 180%에 해당하는 범위 피해를 주고, 공격력의 100%에 해당하는 HP를 회복한다. 해당 효과는 8초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 주는 피해가 50% 감소한다"
         ]
     },
     "111420": {
         "Affix": [
-            "Попадания обычной атакой, заряженной атакой или атакой в падении выпускают Проклятого духа, нанося урон по площади, равный 180% от силы атаки. Этот эффект может возникнуть раз в 8 сек. Экипированный этим оружием персонаж наносит на 50% меньше урона."
+            "일반 공격, 강공격, 낙하 공격이 적에게 명중 시, 원령을 발동해 공격력의 180%에 해당하는 범위 피해를 준다. 해당 효과는 8초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 주는 피해가 50% 감소한다"
         ]
     },
     "111421": {
         "Affix": [
-            "Попадания обычной атакой, заряженной атакой или атакой в падении выпускают Проклятого духа, нанося урон по площади, равный 180% от силы атаки, а также восстанавливают HP, равное 100% от силы атаки. Этот эффект может возникнуть раз в 8 сек. Экипированный этим оружием персонаж наносит на 50% меньше урона."
+            "일반 공격, 강공격, 낙하 공격이 적에게 명중 시, 원령을 발동해 공격력의 180%에 해당하는 범위 피해를 주고, 공격력의 100%에 해당하는 HP를 회복한다. 해당 효과는 8초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 주는 피해가 50% 감소한다"
         ]
     },
     "111422": {
         "Affix": [
-            "При попадании по противникам на 10 сек. накладывает на одного из них Проклятый зонт. Этот эффект может возникнуть один раз в 15 сек. Если поражённый Проклятым зонтом противник погибнет до его окончания, откат эффекта немедленно обновится. Урон, который наносит экипированный этим оружием персонаж поражённым Проклятым зонтом противникам, увеличивается на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> ."
+            "공격이 적을 명중 후, 명중한 1명의 적에게 「우산의 장난」 상태를 부여한다. 지속 시간: 10초. 해당 효과는 15초마다 최대 1회 발동한다. 해당 효과가 지속 중일 때 대상이 사망하면 효과의 재사용 대기시간이 즉시 초기화된다. 장착 캐릭터가 「우산의 장난」 상태의 적에게 주는 피해가 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  증가한다"
         ]
     },
     "111424": {
         "Affix": [
-            "Увеличивает урон элементального навыка и взрыва стихии на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> . Когда элементальный навык попадает по врагу, шанс крит. попадания элементального навыка увеличивается на <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2,5%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3,5%</color> / <color style='color:#99FFFF;'>4%</color> . Когда взрыв стихии попадает по врагу, шанс крит. попадания взрыва стихии увеличивается на <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2,5%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3,5%</color> / <color style='color:#99FFFF;'>4%</color> . Эффекты действуют независимо друг от друга. Каждый из эффектов длится 10 сек., складывается до 4 раз и может возникнуть один раз в 0,1 сек."
+            "원소전투 스킬과 원소폭발로 주는 피해가 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  증가한다. 원소전투 스킬이 적에게 명중 시, 원소전투 스킬의 치명타 확률이 <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2.5%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3.5%</color> / <color style='color:#99FFFF;'>4%</color>  증가한다. 원소폭발이 적에게 명중 시, 원소폭발의 치명타 확률이 <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2.5%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3.5%</color> / <color style='color:#99FFFF;'>4%</color>  증가한다. 상술한 두 가지 효과는 각각 10초 동안 지속되며 0.1초마다 최대 1회 발동된다. 최대 중첩수: 4회"
         ]
     },
     "111425": {
         "Affix": [
-            "Активация элементального навыка повышает силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  на 15 сек. и накладывает Долг жизни, равный 25% от макс. HP. Эффект может возникнуть один раз в 10 сек. Когда Долг жизни снимается, сила атаки повышается на <color style='color:#99FFFF;'>2,4%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3,6%</color> / <color style='color:#99FFFF;'>4,2%</color> / <color style='color:#99FFFF;'>4,8%</color>  от отданного значения Долга жизни (макс. <color style='color:#99FFFF;'>150</color> / <color style='color:#99FFFF;'>187,5</color> / <color style='color:#99FFFF;'>225</color> / <color style='color:#99FFFF;'>262,5</color> / <color style='color:#99FFFF;'>300</color>  ед.) на 15 сек."
+            "원소전투 스킬 발동 시, 공격력이 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가한다. 지속 시간: 15초. 또한 HP 최대치의 25%에 해당하는 생명의 계약을 부여한다. 해당 효과는 10초마다 최대 1회 발동된다. 생명의 계약이 사라질 때, 사라진 수치의 <color style='color:#99FFFF;'>2.4%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3.6%</color> / <color style='color:#99FFFF;'>4.2%</color> / <color style='color:#99FFFF;'>4.8%</color> 만큼 최대 <color style='color:#99FFFF;'>150</color> / <color style='color:#99FFFF;'>187.5</color> / <color style='color:#99FFFF;'>225</color> / <color style='color:#99FFFF;'>262.5</color> / <color style='color:#99FFFF;'>300</color> pt까지 공격력이 증가한다. 지속 시간: 15초"
         ]
     },
     "111426": {
         "Affix": [
-            "Увеличивает шанс крит. попадания элементального навыка на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . Кроме того, после применения элементального навыка восстановление энергии повышается на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  на 5 сек."
+            "원소전투 스킬의 치명타 확률이 <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  증가한다. 또한 원소전투 스킬 발동 후 5초 동안 원소 충전 효율이 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  증가한다"
         ]
     },
     "111427": {
         "Affix": [
-            "Когда экипированный персонаж лечит или получает лечение, он на 30 сек. наделяется Символом стойкости. Всего можно получить до 3 Символов. При активации элементального навыка или взрыва стихии все Символы расходуются и на 10 сек. создаётся эффект Воодушевления: за каждый израсходованный Символ мастерство стихий повышается на <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color>  ед., а через 2 сек. после активации эффекта каждый израсходованный Символ восстанавливает <color style='color:#99FFFF;'>2</color> / <color style='color:#99FFFF;'>2,5</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3,5</color> / <color style='color:#99FFFF;'>4</color>  ед. энергии. Эффект Воодушевления может возникнуть один раз в 15 сек. Персонаж получает Символы стойкости, даже если он не на поле боя."
+            "치유를 받거나 치유를 진행할 경우, 인내 표식이 1개 부여된다. 지속 시간: 30초. 최대 3개의 인내 표식을 보유할 수 있다. 원소전투 스킬 또는 원소폭발 발동 시, 모든 인내 표식을 소모해 10초 동안 지속되는 「궐기」 효과를 생성한다: 소모한 인내 표식마다 원소 마스터리가 <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color> pt 증가한다. 또한 효과 생성 2초 후, 소모한 인내 표식마다 장착 캐릭터의 원소 에너지를 <color style='color:#99FFFF;'>2</color> / <color style='color:#99FFFF;'>2.5</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3.5</color> / <color style='color:#99FFFF;'>4</color> pt 회복한다. 궐기 효과는 15초마다 최대 1회 발동된다. 캐릭터가 대기 상태일 때도 인내 표식을 획득할 수 있다"
         ]
     },
     "111428": {
         "Affix": [
-            "Если у экипированного персонажа нет архэ, при попадании обычной атакой, заряженной атакой или атакой в падении происходит энергетический взрыв пневмы или усии, который наносит урон в <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color>  силы атаки. Эффект может возникнуть один раз в 12 сек. Тип энергетического взрыва зависит от текущего типа Меча Нарциссенкрейца."
+            "장착 캐릭터가 「아르케의 힘」 미보유 시: 일반 공격, 강공격, 낙하 공격이 적에게 명중하면 프뉴마 또는 우시아 성질의 에너지 충격을 발동해 공격력의 <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> 에 해당하는 피해를 준다. 해당 효과는 12초마다 최대 1회 발동된다. 에너지 충격 타입은 수선화 십자검의 현재 속성에 따라 결정된다"
         ]
     },
     "111429": {
         "Affix": [
-            "В бесчисленных историях этот подобающий герою меч также является ключом ко всем вратам на пути через кульминацию к финалу судьбы."
+            "수많은 이야기 속, 전설의 용자에 가장 걸맞은 무기. 모든 문을 열고 파도를 뛰어넘어 운명의 마지막 페이지로 향할 수 있는 열쇠이기도 하다"
         ]
     },
     "111501": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . При получении урона пробуждается душа Сокола Запада, несущего знамя сопротивления. Восстанавливает HP, равное <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>115%</color> / <color style='color:#99FFFF;'>130%</color> / <color style='color:#99FFFF;'>145%</color> / <color style='color:#99FFFF;'>160%</color>  от силы атаки, и наносит <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>230%</color> / <color style='color:#99FFFF;'>260%</color> / <color style='color:#99FFFF;'>290%</color> / <color style='color:#99FFFF;'>320%</color>  урона окружающим врагам. Может возникнуть раз в 15 сек."
+            "공격력이 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다. 피해를 받으면 발동: 투쟁의 깃발을 높이 든 서풍 매의 영혼이 깨어나 공격력 <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>115%</color> / <color style='color:#99FFFF;'>130%</color> / <color style='color:#99FFFF;'>145%</color> / <color style='color:#99FFFF;'>160%</color> 만큼의 HP를 회복하고 주변의 적에게 공격력 <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>230%</color> / <color style='color:#99FFFF;'>260%</color> / <color style='color:#99FFFF;'>290%</color> / <color style='color:#99FFFF;'>320%</color> 의 피해를 준다. 해당 효과는 15초마다 1번 발동한다"
         ]
     },
     "111502": {
         "Affix": [
-            "Увеличивает шанс крит. попадания на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> . Взрыв стихии пробуждает силу небес, которая увеличивает скорость передвижения и атаки на <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> , а обычные и заряженные атаки при попадании наносят дополнительный урон, равный <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  от силы атаки. Все эффекты длятся 12 сек."
+            "치명타 확률이 <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  증가한다. 원소폭발 발동 시 파공의 기세를 획득한다: 이동 속도+ <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> , 공격속도+ <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> . 일반 공격과 강공격이 명중 시 추가로 공격력 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 의 피해를 준다. 지속 시간: 12초"
         ]
     },
     "111503": {
         "Affix": [
-            "Часть Тысячелетней симфонии, что блуждает среди ветров. Увеличивает наносимый урон на <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12,5%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>17,5%</color> / <color style='color:#99FFFF;'>20%</color> . Вызов элементальной реакции даёт персонажу один Талисман воодушевления. Он может возникнуть раз в 0,5 сек., даже когда персонаж в отряде, но не активен. Два собранных Талисмана воодушевления пропадают, на 12 сек. наделяя ближайших членов отряда эффектом «Тысячелетняя симфония: Гимн восстания», который увеличивает урон, наносимый обычной атакой, заряженной атакой и атакой в падении, на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> , а силу атаки - на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . В течение 20 сек. после активации эффекта Талисманы воодушевления появляться не будут. Тысячелетняя симфония с эффектами, влияющими на те же навыки, не складывается."
+            "바람 속을 유랑하는 「천년의 대악장」의 일부분으로 주는 피해가 <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12.5%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>17.5%</color> / <color style='color:#99FFFF;'>20%</color>  증가한다. 원소 반응을 발동할 시 캐릭터는 투쟁의 부적을 1장 획득하며, 0.5초마다 한 번씩 발동하고 캐릭터가 대기 상태일 때도 발동할 수 있다. 투쟁의 부적 2장 보유 시 부적을 모두 사용하면 파티 내 모든 캐릭터가 12초 동안 「천년의 대악장·투쟁의 노래」 효과를 획득한다. 이때 일반 공격, 강공격, 낙하 공격 피해는 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  증가하고, 공격력은 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다. 발동 후 20초 동안은 투쟁의 부적을 획득할 수 없으며, 「천년의 대악장」 발동 효과는 동일 수치의 다른 효과들과 중첩되지 않는다"
         ]
     },
     "111504": {
         "Affix": [
-            "Увеличивает прочность щита на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . При попадании увеличивает силу атаки на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  в течение 8 сек. Эффект может складываться до 5 раз и возникнуть раз в 0,3 сек. Кроме того, под защитой щита бонус силы атаки данного эффекта увеличивается на 100%."
+            "보호막 강화 효과가 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다. 공격 명중 후 공격력이 <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  증가한다. 지속 시간: 8초. 최대 중첩수: 5회. 해당 효과는 0.3초마다 1번 발동한다. 또한 보호막 존재 시 해당 효과의 공격력 증가 효과가 100% 증가한다"
         ]
     },
     "111505": {
         "Affix": [
-            "Увеличивает HP на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . Также даёт бонус атаки, равный <color style='color:#99FFFF;'>1,2%</color> / <color style='color:#99FFFF;'>1,5%</color> / <color style='color:#99FFFF;'>1,8%</color> / <color style='color:#99FFFF;'>2,1%</color> / <color style='color:#99FFFF;'>2,4%</color>  от макс. HP экипированного этим оружием персонажа."
+            "HP가 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가하고, 이 무기를 장착한 캐릭터 HP 최대치의 <color style='color:#99FFFF;'>1.2%</color> / <color style='color:#99FFFF;'>1.5%</color> / <color style='color:#99FFFF;'>1.8%</color> / <color style='color:#99FFFF;'>2.1%</color> / <color style='color:#99FFFF;'>2.4%</color> 에 해당하는 공격력 보너스를 획득한다"
         ]
     },
     "111509": {
         "Affix": [
-            "Все типы элементального урона получают <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  бонуса урона, а также силу Эмблемы рассекателя тумана. На уровнях эмблемы 1, 2 или 3 персонаж получает <color style='color:#99FFFF;'>8%, 16% или 28%</color> / <color style='color:#99FFFF;'>10%, 20% или 35%</color> / <color style='color:#99FFFF;'>12%, 24% или 42%</color> / <color style='color:#99FFFF;'>14%, 28% или 49%</color> / <color style='color:#99FFFF;'>16%, 32% или 56%</color>  бонуса к элементальному урону своей стихии соответственно. Персонаж получает 1 уровень Эмблемы рассекателя тумана в каждом из следующих случаев: при нанесении элементального урона обычной атакой, эмблема действует 5 сек.; при применении взрыва стихии, эмблема действует 10 сек.; когда элементальная энергия персонажа ниже 100%, полученная таким образом эмблема действует до тех пор, пока персонаж не восстановит всю свою элементальную энергию. Продолжительность действия каждой эмблема рассчитывается индивидуально."
+            "모든 원소의 피해 보너스를 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  획득하고 「무절(霧切)의 문장」을 획득한다. 무절의 문장: 1/2/3스택의 무절의 문장 보유 시, 각각 <color style='color:#99FFFF;'>8/16/28%</color> / <color style='color:#99FFFF;'>10/20/35%</color> / <color style='color:#99FFFF;'>12/24/42%</color> / <color style='color:#99FFFF;'>14/28/49%</color> / <color style='color:#99FFFF;'>16/32/56%</color> 에 해당하는 자신의 원소 타입의 원소 피해 보너스를 획득한다. 캐릭터가 무절의 문장 1스택을 획득할 수 있는 상황: 일반 공격으로 원소 피해를 주면 5초간 지속. 원소폭발을 발동하면 10초간 지속. 이 외에 캐릭터의 원소 에너지가 100% 미만일 때, 무절의 문장을 1스택 획득한다. 해당 무절의 문장은 캐릭터의 원소 에너지가 가득 차면 사라진다. 무절의 문장의 각 스택 지속 시간은 따로 계산된다"
         ]
     },
     "111510": {
         "Affix": [
-            "Даёт <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  бонус урона всеми элементами. Когда другие члены отряда поблизости активируют элементальные навыки, экипированный этим оружием персонаж получает 1 уровень Волны-шипа. Эффект возникает не чаще, чем один раз в 0,3 сек. Всего можно получить не более 2 уровней. Когда персонаж с этим оружием применяет элементальный навык, все уровни Волны-шипа тратятся, и он получает Хаос волн, который повышает урон обычной атаки согласно количеству уровней. Каждый уровень этого эффекта повышает урон обычной атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  в течение 8 сек."
+            "모든 원소 피해 보너스를 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  획득한다. 근처 파티 내 다른 캐릭터가 원소전투 스킬 발동 시, 해당 무기를 장착한 캐릭터가 「하스이」 효과를 1스택 획득한다. 최대 중첩수: 2스택, 0.3초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 원소전투 스킬 발동 시, 쌓여있는 「하스이」 스택이 있다면 스택을 소모하여 「하란」을 획득한다. 소모한 스택마다 일반 공격 피해가 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다. 지속 시간: 8초"
         ]
     },
     "111511": {
         "Affix": [
-            "Увеличивает НР на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . Попадание элементальным навыком на 20 сек. создаёт Великое сказание, которое повышает мастерство стихий экипированного этим оружием персонажа на <color style='color:#99FFFF;'>0,12%</color> / <color style='color:#99FFFF;'>0,15%</color> / <color style='color:#99FFFF;'>0,18%</color> / <color style='color:#99FFFF;'>0,21%</color> / <color style='color:#99FFFF;'>0,24%</color>  от его макс. HP. Эффект может возникнуть не чаще 1 раза в 0,3 сек. и складывается до 3 раз. После получения 3 уровней или обновления длительности 3 уровня мастерство стихий всех персонажей поблизости увеличится на <color style='color:#99FFFF;'>0,2%</color> / <color style='color:#99FFFF;'>0,25%</color> / <color style='color:#99FFFF;'>0,3%</color> / <color style='color:#99FFFF;'>0,35%</color> / <color style='color:#99FFFF;'>0,4%</color>  от макс. HP экипированного этим оружием персонажа на 20 сек."
+            "HP가 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다. 원소전투 스킬이 적을 명중하면 20초 동안 지속되는 「웅장한 시편」 효과를 획득한다: 장착한 캐릭터 HP 최대치의 <color style='color:#99FFFF;'>0.12%</color> / <color style='color:#99FFFF;'>0.15%</color> / <color style='color:#99FFFF;'>0.18%</color> / <color style='color:#99FFFF;'>0.21%</color> / <color style='color:#99FFFF;'>0.24%</color> 만큼 원소 마스터리를 획득한다. 해당 효과는 0.3초마다 최대 1회 발동할 수 있다. 최대 중첩수: 3스택. 해당 효과가 3스택 중첩 또는 3스택 중첩 지속 시간이 갱신되면 장착한 캐릭터 HP 최대치의 <color style='color:#99FFFF;'>0.2%</color> / <color style='color:#99FFFF;'>0.25%</color> / <color style='color:#99FFFF;'>0.3%</color> / <color style='color:#99FFFF;'>0.35%</color> / <color style='color:#99FFFF;'>0.4%</color> 만큼 근처 파티 내 모든 캐릭터의 원소 마스터리가 증가한다. 지속 시간: 20초"
         ]
     },
     "111512": {
         "Affix": [
-            "Шанс крит. попадания увеличивается на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> . Когда обычная атака наносит элементальный урон, она даёт эффект Лиственного выреза: урон обычных атак и элементальных навыков повышается на <color style='color:#99FFFF;'>120%</color> / <color style='color:#99FFFF;'>150%</color> / <color style='color:#99FFFF;'>180%</color> / <color style='color:#99FFFF;'>210%</color> / <color style='color:#99FFFF;'>240%</color>  от мастерства стихий. После 28 активаций или через 12 сек. эффект исчезнет. Лиственный вырез можно получить не чаще одного раза в 12 сек."
+            "치명타 확률이 <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  증가한다. 일반 공격으로 적에게 원소 피해를 준 후, 일반 공격과 원소전투 스킬로 주는 피해가 원소 마스터리의 <color style='color:#99FFFF;'>120%</color> / <color style='color:#99FFFF;'>150%</color> / <color style='color:#99FFFF;'>180%</color> / <color style='color:#99FFFF;'>210%</color> / <color style='color:#99FFFF;'>240%</color> 만큼 증가하는 「가지치기」 효과를 획득한다. 해당 효과는 28회 발동하거나 12초가 지나면 사라진다. 「가지치기」 효과는 12초마다 최대 1회 획득할 수 있다"
         ]
     },
     "111513": {
         "Affix": [
-            "Когда текущее HP экипированного персонажа увеличивается или снижается, наносимый урон элементального навыка повышается на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  на 6 сек. Эффект возникает не чаще 1 раза в 0,2 сек. и складывается до 3 раз. Когда текущее HP других членов отряда увеличивается или снижается, макс. HP экипированного персонажа повышается на <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>17,5%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24,5%</color> / <color style='color:#99FFFF;'>28%</color>  на 6 сек. Эффект возникает не чаще 1 раза в 0,2 сек. и складывается до 2 раз. Эффект срабатывает, даже когда экипированный персонаж находится вне поле боя."
+            "장착 캐릭터의 현재 HP가 증가 또는 감소 시, 원소전투 스킬로 주는 피해가 <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  증가한다. 지속 시간: 6초. 최대 중첩수: 3회. 0.2초마다 최대 1회 발동된다. 파티 내 다른 캐릭터의 현재 HP가 증가 또는 감소 시, 장착 캐릭터 HP 최대치가 <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>17.5%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24.5%</color> / <color style='color:#99FFFF;'>28%</color>  증가한다. 지속 시간: 6초. 최대 중첩수: 2회. 0.2초마다 최대 1회 발동된다. 상술한 효과는 장착 캐릭터가 대기 시에도 발동할 수 있다"
         ]
     },
     "111514": {
         "Affix": [
-            "Урон обычной атаки увеличивается на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> , элементального навыка - на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> . После того как активный персонаж поблизости наносит Гео урон, эти эффекты дополнительно увеличиваются на 100% на 15 сек. Кроме того, защита экипированного персонажа повышается на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> ."
+            "일반 공격으로 주는 피해가 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  증가하고, 원소전투 스킬로 주는 피해가 <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  증가한다. 주변에 있는 파티 내 캐릭터가 필드 위에서 바위 원소 피해를 준 후, 상술한 효과가 100% 증가한다. 지속 시간: 15초. 또한 장착자의 방어력이 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다"
         ]
     },
     "112301": {
         "Affix": [
-            "При HP ниже <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>75%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>85%</color> / <color style='color:#99FFFF;'>90%</color>  врагу становится труднее прервать заряженную атаку. Также увеличивает урон заряженной атаки на <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>45%</color> / <color style='color:#99FFFF;'>50%</color> ."
+            "HP가 <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>75%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>85%</color> / <color style='color:#99FFFF;'>90%</color>  미만일 때 강공격 발동 시 경직되지 않고 강공격 피해가 <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>45%</color> / <color style='color:#99FFFF;'>50%</color>  증가한다"
         ]
     },
     "112302": {
         "Affix": [
-            "Увеличивает на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  урон против врагов, находящихся под действием Пиро или Электро элементов."
+            "불 원소 또는 번개 원소의 영향을 받은 적에게 주는 피해가 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가한다"
         ]
     },
     "112303": {
         "Affix": [
-            "Победа над противником восстанавливает <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  HP."
+            "적을 처치하면 HP를 <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  회복한다"
         ]
     },
     "112304": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  на 12 сек. при активации реакций Перегрузка, Таяние, Горение, Пар, Цветение или Пиро Рассеивание."
+            "과부하, 융해, 연소, 증발, 발화 혹은 불 원소 확산 반응 발동 후 12초 동안 공격력이 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다"
         ]
     },
     "112305": {
         "Affix": [
-            "При попадании Элементальным навыком Обычные и Заряженные атаки наносят дополнительные <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>75%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>105%</color> / <color style='color:#99FFFF;'>120%</color>  урона по небольшой площади в течение 15 сек. Может возникнуть раз в 3 сек."
+            "원소전투 스킬 발동 후 일반 공격과 강공격이 적에게 명중 시 작은 범위 내에 공격력 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>75%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>105%</color> / <color style='color:#99FFFF;'>120%</color> 의 피해를 추가로 준다. 지속 시간: 15초. 해당 피해 효과는 3초마다 1번 발동한다"
         ]
     },
     "112306": {
         "Affix": [
-            "При попадании обычной или заряженной атакой сила атаки увеличивается на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10%</color>  в течение 6 сек. Эффект может складываться до 4 раз. Может возникнуть раз в 0,5 сек."
+            "일반 공격과 강공격 명중 시 공격력이 <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10%</color>  증가한다. 지속 시간: 6초. 최대 중첩수: 4회. 해당 효과는 0.5초마다 1번 발동한다"
         ]
     },
     "112401": {
         "Affix": [
-            "Критические атаки имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать элементальные частицы, которые восстанавливают 6 ед. энергии. Возникает раз в <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>6</color>  сек."
+            "치명타 시 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> 의 확률로 소량의 원소 구슬이 생성되고 캐릭터의 원소 에너지를 6pt 회복한다. 해당 효과는 <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10.5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7.5</color> / <color style='color:#99FFFF;'>6</color> 초마다 1회만 발동한다"
         ]
     },
     "112402": {
         "Affix": [
-            "При получении урона генерируется щит, который в течение 10 сек. поглощает урон, равный <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>23%</color> / <color style='color:#99FFFF;'>26%</color> / <color style='color:#99FFFF;'>29%</color> / <color style='color:#99FFFF;'>32%</color>  от макс. HP. Может возникнуть раз в <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color>  сек. Под защитой щита увеличивает урон персонажа на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> ."
+            "피격 시 HP 최대치의 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>23%</color> / <color style='color:#99FFFF;'>26%</color> / <color style='color:#99FFFF;'>29%</color> / <color style='color:#99FFFF;'>32%</color>  피해를 흡수하는 보호막이 생성된다. 보호막은 10초간 지속하거나 보호막이 파괴될 때까지 유지된다. <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color> 초마다 1회 발동한다. 보호막이 존재 시 캐릭터가 주는 피해가 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가한다"
         ]
     },
     "112403": {
         "Affix": [
-            "Когда элементальный навык наносит урон, есть <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  вероятность, что его откат моментально восстановится. Может возникнуть раз в <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color>  сек."
+            "원소전투 스킬로 피해를 줄 때 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> 의 확률로 해당 스킬의 재발동 대기시간이 초기화된다. 해당 효과는 <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color> 초마다 1회만 발동한다"
         ]
     },
     "112404": {
         "Affix": [
-            "При нанесении урона противнику повышает шанс крит. попадания на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . Эффект может складываться до 5 раз. Добавочный шанс крит. попадания исчезает с первым крит. попаданием."
+            "공격으로 피해를 줄 때마다 치명타 확률이 <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  증가한다. 최대 중첩수: 5회. 공격 시 치명타가 발생하면 모든 집중 효과가 사라진다"
         ]
     },
     "112405": {
         "Affix": [
-            "Увеличивает на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>36%</color>  урон против врагов, находящихся под действием Гидро или Электро элементов."
+            "물 원소 또는 번개 원소의 영향을 받은 적에게 주는 피해가 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>36%</color>  증가한다"
         ]
     },
     "112406": {
         "Affix": [
-            "При попадании обычной или заряженной атакой имеет 50% шанс нанести дополнительные <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>300%</color> / <color style='color:#99FFFF;'>360%</color> / <color style='color:#99FFFF;'>420%</color> / <color style='color:#99FFFF;'>480%</color>  урона в небольшом радиусе. Может возникнуть раз в 15 сек."
+            "일반 공격과 강공격 명중 후 50%의 확률로 작은 범위 내의 적에게 공격력 <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>300%</color> / <color style='color:#99FFFF;'>360%</color> / <color style='color:#99FFFF;'>420%</color> / <color style='color:#99FFFF;'>480%</color> 의 추가 피해를 준다. 해당 효과는 15초마다 1번 발동한다"
         ]
     },
     "112407": {
         "Affix": [
-            "При попадании Обычной или Заряженной атакой Сила атаки и Защита увеличиваются на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color>  в течение 6 сек. Эффект может складываться до 4 раз. Может возникнуть не чаще 1 раза за 0,5 сек."
+            "일반 공격과 강공격 명중 시 공격력과 방어력이 <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7.5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10.5%</color> / <color style='color:#99FFFF;'>12%</color>  증가한다. 지속 시간: 6초. 최대 중첩수: 4회. 해당 효과는 0.5초마다 1번 발동한다"
         ]
     },
     "112408": {
         "Affix": [
-            "Побеждённые противники увеличивают силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Длится 30 сек. Эффект может складываться до 3 раз. Длительность добавочных эффектов друг от друга не зависит."
+            "적을 처치한 후 공격력이 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가한다. 지속 시간: 30초. 최대 중첩수: 3회. 중첩 1회당 지속 시간은 독립 계산한다"
         ]
     },
     "112409": {
         "Affix": [
-            "Каждые 4 сек. увеличивает наносимый персонажем урон на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10%</color>  и получаемый им урон на <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>2,7%</color> / <color style='color:#99FFFF;'>2,4%</color> / <color style='color:#99FFFF;'>2,2%</color> / <color style='color:#99FFFF;'>2%</color> , пока тот активен. Может складываться до 5 раз, не сбрасывается при смене персонажа, при получении урона снижается на 1 уровень складывания."
+            "캐릭터가 필드에 있을 때 4초마다 주는 피해가 <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10%</color> , 받는 피해가 <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>2.7%</color> / <color style='color:#99FFFF;'>2.4%</color> / <color style='color:#99FFFF;'>2.2%</color> / <color style='color:#99FFFF;'>2%</color>  증가한다. 최대 중첩수: 5회. 캐릭터를 대기 상태로 전환해도 효과는 초기화되지 않는다. 피해를 받으면 중첩수가 1개 사라진다"
         ]
     },
     "112410": {
         "Affix": [
-            "С каждым членом отряда из Ли Юэ сила атаки экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>11%</color> , а его шанс крит. попадания - на <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> . Эффект может складываться до 4 раз."
+            "파티 내에 리월 출신 캐릭터가 1명 존재할 때마다 해당 무기를 장착한 캐릭터의 공격력이 <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>11%</color>  증가하고 치명타 확률이 <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color>  증가한다. 최대 중첩수: 4회"
         ]
     },
     "112411": {
         "Affix": [
-            "Попадания обычной или заряженной атакой имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать над противником ледяной кристалл и уронить его, нанося <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>95%</color> / <color style='color:#99FFFF;'>110%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>140%</color>  урона силы атаки по площади. Если противник имеет эффект Крио, то наносит ему <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> / <color style='color:#99FFFF;'>360%</color>  урона силы атаки. Может возникнуть раз в 10 сек."
+            "일반 공격과 강공격이 적에게 명중 시 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> 의 확률로 적의 위쪽에 영원의 얼음 결정을 생성한 후 떨궈서 공격력 <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>95%</color> / <color style='color:#99FFFF;'>110%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>140%</color> 의 범위 피해를 준다. 적이 만약 얼음 원소의 영향을 받으면 공격력 <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> / <color style='color:#99FFFF;'>360%</color> 의 피해를 준다. 해당 효과는 10초마다 1회 발동한다"
         ]
     },
     "112412": {
         "Affix": [
-            "Увеличивает урон взрыва стихии на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . При попадании взрывом стихии по противнику с вероятностью в 100% призывается Титанический тунец, который совершает атаку и наносит урон по площади, равный <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>150%</color> / <color style='color:#99FFFF;'>175%</color> / <color style='color:#99FFFF;'>200%</color>  от силы атаки. Может возникнуть раз в 15 сек."
+            "원소폭발로 주는 피해가 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가한다. 원소폭발이 적을 명중하면, 100% 확률로 참다랑어를 소환해 공격력 <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>150%</color> / <color style='color:#99FFFF;'>175%</color> / <color style='color:#99FFFF;'>200%</color> 의 범위 피해를 준다. 해당 효과는 15초마다 최대 1회 발동한다"
         ]
     },
     "112414": {
         "Affix": [
-            "Увеличивает урон элементального навыка на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color> . Когда элементальный навык поражает противника, персонаж теряет 3 единицы энергии, но восстанавливает <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3,5</color> / <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>4,5</color> / <color style='color:#99FFFF;'>5</color>  единицы энергии каждые 2 сек. в течение следующих 6 сек. Эффект может возникнуть один раз в 10 сек. Эффект может сработать, даже когда персонаж не находится на поле боя."
+            "원소전투 스킬로 주는 피해가 <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7.5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10.5%</color> / <color style='color:#99FFFF;'>12%</color>  증가한다. 원소전투 스킬이 명중되면, 캐릭터는 원소 에너지를 3pt 잃고, 그 후 6초 동안 2초마다 원소 에너지를 <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3.5</color> / <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>4.5</color> / <color style='color:#99FFFF;'>5</color> pt 회복한다. 이 효과는 10초마다 최대 1회만 발동하며, 캐릭터가 대기 상태일 때도 발동된다"
         ]
     },
     "112415": {
         "Affix": [
-            "Каждые 10 сек. срабатывает следующий эффект: сила атаки экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  от мастерства стихий на 12 сек. Члены отряда поблизости получают 30% этого эффекта. Если этим оружием обладают и другие члены отряда, эффект суммируется. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя."
+            "10초마다 아래의 효과가 발생한다: 장착한 캐릭터 원소 마스터리의 <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> 만큼 해당 캐릭터의 공격력이 증가하고, 해당 증가량의 30%만큼 근처 파티 내 다른 캐릭터의 공격력이 증가한다. 지속 시간: 12초. 동명의 무기를 여러 개 장착 시 해당 효과는 중첩이 가능하다. 캐릭터가 대기 상태일 때도 발동된다"
         ]
     },
     "112416": {
         "Affix": [
-            "Урон взрыва стихии экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>0,12%</color> / <color style='color:#99FFFF;'>0,15%</color> / <color style='color:#99FFFF;'>0,18%</color> / <color style='color:#99FFFF;'>0,21%</color> / <color style='color:#99FFFF;'>0,24%</color>  за каждую единицу суммы макс. энергии каждого члена отряда. Бонус урона не может превышать <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> ."
+            "파티 내 모든 캐릭터의 원소 에너지 최대치의 총합을 기반으로, 1pt마다 해당 무기를 장착한 캐릭터의 원소폭발 피해가 <color style='color:#99FFFF;'>0.12%</color> / <color style='color:#99FFFF;'>0.15%</color> / <color style='color:#99FFFF;'>0.18%</color> / <color style='color:#99FFFF;'>0.21%</color> / <color style='color:#99FFFF;'>0.24%</color>  증가한다. 해당 방식을 통해 원소폭발로 주는 피해가 최대 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> 까지 증가한다"
         ]
     },
     "112417": {
         "Affix": [
-            "Активация статусов Горение, Стимуляция, Обострение, Разрастание, Бутонизация, Вегетация и Цветение создают рядом с персонажем Семя сознания, которое существует 10 сек. Мастерство стихий подобравшего его персонажа повышается на <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>75</color> / <color style='color:#99FFFF;'>90</color> / <color style='color:#99FFFF;'>105</color> / <color style='color:#99FFFF;'>120</color>  ед. на 12 сек. Семя сознания может возникнуть раз в 20 сек. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя. Эффект Семени сознания не суммируется."
+            "연소, 활성, 촉진, 발산, 개화, 만개 혹은 발화 발동 후, 캐릭터 주변에 최대 10초 동안 존재하는 「유식의 잎사귀」가 생성된다. 유식의 잎사귀를 습득한 캐릭터는 원소 마스터리가 <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>75</color> / <color style='color:#99FFFF;'>90</color> / <color style='color:#99FFFF;'>105</color> / <color style='color:#99FFFF;'>120</color> pt 증가한다. 지속 시간: 12초. 해당 방식으로 20초마다 유식의 잎사귀를 최대 1개 생성한다. 캐릭터가 대기 상태일 때도 발동된다. 유식의 잎사귀 효과는 중첩되지 않는다"
         ]
     },
     "112418": {
         "Affix": [
-            "После попадания элементальным навыком по противнику или активации элементальной реакции, на 8 сек. сила атаки повышается на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> , а мастерство стихий - на <color style='color:#99FFFF;'>48</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>72</color> / <color style='color:#99FFFF;'>84</color> / <color style='color:#99FFFF;'>96</color>  ед."
+            "원소전투 스킬이 적에게 명중하거나 원소 반응 발동 후, 8초 동안 공격력이 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가하고, 원소 마스터리가 <color style='color:#99FFFF;'>48</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>72</color> / <color style='color:#99FFFF;'>84</color> / <color style='color:#99FFFF;'>96</color> pt 증가한다"
         ]
     },
     "112424": {
         "Affix": [
-            "Повышает силу атаки на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  на 15 сек. после получения эффекта Пиро. Этот эффект может возникнуть один раз в 12 сек. После получения эффектов Гидро, Крио, Электро или Дендро бонус элементального урона на 15 сек. увеличивается на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Может возникнуть раз в 12 сек."
+            "불 원소가 부착된 후 15초 동안 공격력이 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  증가한다. 해당 효과는 12초마다 최대 1회 발동된다. 물 원소, 얼음 원소, 번개 원소, 풀 원소가 부착된 후 15초 동안 모든 원소 피해 보너스가 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가한다. 해당 효과는 12초마다 최대 1회 발동된다"
         ]
     },
     "112425": {
         "Affix": [
-            "Сила атаки после получения лечения увеличивается на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  на 8 сек. Эффект срабатывает, даже когда персонаж не на поле боя."
+            "치유를 받은 후 공격력이 <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  증가한다. 지속 시간: 8초. 해당 효과는 캐릭터가 대기 상태일 때도 발동된다"
         ]
     },
     "112426": {
         "Affix": [
-            "Повышает силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Но это ещё не всё! Поддержка мелюзин деревни Меруси, которым вы помогли, наполняет вас мощью! В зависимости от их количества, сила атаки может дополнительно увеличиться максимум на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> ."
+            "공격력이 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가한다. 그뿐만이 아니다! 바다 거품 마을 멜뤼진의 응원에 힘입어, 도와줬던 멜뤼진의 수에 따라 공격력이 최대 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  더 증가한다"
         ]
     },
     "112427": {
         "Affix": [
-            "Когда экипированный персонаж лечит или получает лечение, он на 30 сек. наделяется Символом стойкости. Всего можно получить до 3 Символов. При активации элементального навыка или взрыва стихии все Символы расходуются и на 10 сек. создаётся эффект Воодушевления: за каждый израсходованный Символ мастерство стихий повышается на <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color>  ед., а через 2 сек. после активации эффекта каждый израсходованный Символ восстанавливает <color style='color:#99FFFF;'>2</color> / <color style='color:#99FFFF;'>2,5</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3,5</color> / <color style='color:#99FFFF;'>4</color>  ед. энергии. Эффект Воодушевления может возникнуть один раз в 15 сек. Персонаж получает Символы стойкости, даже если он не на поле боя."
+            "치유를 받거나 치유를 진행할 경우, 인내 표식이 1개 부여된다. 지속 시간: 30초. 최대 3개의 인내 표식을 보유할 수 있다. 원소전투 스킬 또는 원소폭발 발동 시, 모든 인내 표식을 소모해 10초 동안 지속되는 「궐기」 효과를 생성한다: 소모한 인내 표식마다 원소 마스터리가 <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color> pt 증가한다. 또한 효과 생성 2초 후, 소모한 인내 표식마다 장착 캐릭터의 원소 에너지를 <color style='color:#99FFFF;'>2</color> / <color style='color:#99FFFF;'>2.5</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3.5</color> / <color style='color:#99FFFF;'>4</color> pt 회복한다. 궐기 효과는 15초마다 최대 1회 발동된다. 캐릭터가 대기 상태일 때도 인내 표식을 획득할 수 있다"
         ]
     },
     "112501": {
         "Affix": [
-            "Увеличивает наносимый урон на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . После активации взрыва стихий попадания обычными или заряженными атаками запускают неосязаемое лезвие, которое наносит <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>120%</color> / <color style='color:#99FFFF;'>140%</color> / <color style='color:#99FFFF;'>160%</color>  урона всем врагам на своём пути. Длится 20 сек. или 8 неосязаемых лезвий."
+            "주는 피해가 <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  증가한다. 원소폭발 발동 후: 일반 공격과 강공격 명중 시 진공의 칼날이 발사되어 경로상의 적에게 공격력 <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>120%</color> / <color style='color:#99FFFF;'>140%</color> / <color style='color:#99FFFF;'>160%</color> 의 피해를 준다. 지속 시간: 20초, 또는 진공의 칼날을 8번 발사할 때까지"
         ]
     },
     "112502": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . При попадании по цели с HP меньше 30% увеличивает силу атаки всех членов отряда на <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  в течение 12 сек. Может возникнуть не чаще 1 раза за 30 сек."
+            "공격력+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . HP가 30% 미만인 적을 명중 시 모든 파티원의 공격력이 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  증가한다. 지속 시간: 12초. 해당 효과는 30초마다 1번 발동한다"
         ]
     },
     "112503": {
         "Affix": [
-            "Часть Тысячелетней симфонии, что блуждает среди ветров. Увеличивает силу атаки на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  и при попадании обычной или заряженной атакой даёт персонажу Печать шёпота. Этот эффект может возникнуть раз в 0,3 сек. После получения 4-ой Печати шёпота все они тратятся, и все окружающие члены отряда получают эффект Тысячелетняя симфония: Гимн знамени на 12 сек. Тысячелетняя симфония: Гимн знамени увеличивает скорость обычной атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  и силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . После активации этого эффекта вы не сможете получать Печати шёпота в течение 20 сек. При наличии нескольких эффектов Тысячелетней симфонии усиления одного типа не складываются."
+            "바람 속을 유랑하는 「천년의 대악장」의 일부분. 공격력이 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  증가한다. 일반 공격 혹은 강공격이 적에게 명중 시, 캐릭터는 속삭임의 부적을 1개 획득하고, 이는 0.3초마다 한번 발동된다. 속삭임의 부적 4개 소유 시, 부적을 모두 소모하여 주변의 파티 내 모든 캐릭터에게 12초 동안 「천년의 대악장·깃발의 노래」 효과를 부여한다: 일반 공격 속도가 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가하고, 공격력이 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다. 발동 후 20초 동안은 속삭임의 부적을 획득할 수 없다. 「천년의 대악장」의 수치 효과 중 동일 유형의 수치 효과는 중첩될 수 없다"
         ]
     },
     "112504": {
         "Affix": [
-            "Увеличивает прочность щита на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . При попадании увеличивает силу атаки на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  в течение 8 сек. Эффект может складываться до 5 раз и возникнуть раз в 0,3 сек. Кроме того, под защитой щита бонус силы атаки данного эффекта увеличивается на 100%."
+            "보호막 강화 효과가 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다. 공격 명중 후 공격력이 <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  증가한다. 지속 시간: 8초. 최대 중첩수: 5회. 해당 효과는 0.3초마다 1번 발동한다. 또한 보호막 존재 시 해당 효과의 공격력 증가 효과가 100% 증가한다"
         ]
     },
     "112510": {
         "Affix": [
-            "Защита повышается на <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>49%</color> / <color style='color:#99FFFF;'>56%</color> , урон обычных и заряженных атак повышается на <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  защиты."
+            "방어력이 <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>49%</color> / <color style='color:#99FFFF;'>56%</color>  증가한다. 일반 공격과 강공격의 피해량이 방어력의 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> 만큼 증가한다"
         ]
     },
     "112511": {
         "Affix": [
-            "После попадания элементальным навыком по противнику сила атаки увеличится на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  на 8 сек. При получении урона сила атаки увеличится на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  на 8 сек. Эти эффекты срабатывают, даже если персонаж не на поле боя. Кроме того, если экипированный персонаж не защищён щитом, его макс. HP увеличится на <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>56%</color> / <color style='color:#99FFFF;'>64%</color> ."
+            "원소전투 스킬이 적에게 명중 후 공격력이 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다. 지속 시간: 8초. 피해를 입은 후 공격력이 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다. 지속 시간: 8초. 상술한 2가지 효과는 캐릭터가 대기 상태 시에도 발동할 수 있다. 또한 보호막의 보호를 받지 않을 시, HP 최대치가 <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>56%</color> / <color style='color:#99FFFF;'>64%</color>  증가한다"
         ]
     },
     "112512": {
         "Affix": [
-            "Повышает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . Когда члены отряда подбирают элементальные осколки, созданные реакцией Кристалл, экипированный персонаж получает 1 Печать, которая увеличивает урон элементального навыка на <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>22,5%</color> / <color style='color:#99FFFF;'>27%</color> / <color style='color:#99FFFF;'>31,5%</color> / <color style='color:#99FFFF;'>36%</color> . Печать действует 15 сек. Одновременно можно иметь 2 Печати. Все Печати экипированного персонажа пропадут через 0,2 сек. после нанесения урона его элементальным навыком."
+            "공격력이 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다. 파티 내 캐릭터가 결정 반응으로 생성된 결정 조각을 획득할 시 장착 캐릭터가 「약인」을 1개 획득하여 원소전투 스킬로 주는 피해가 <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>22.5%</color> / <color style='color:#99FFFF;'>27%</color> / <color style='color:#99FFFF;'>31.5%</color> / <color style='color:#99FFFF;'>36%</color>  증가한다. 약인은 15초 동안 지속되며 동시에 최대 2개까지 보유할 수 있다. 모든 약인은 장착 캐릭터가 원소전투 스킬로 피해를 준 후 0.2초가 지나면 사라진다"
         ]
     },
     "113301": {
         "Affix": [
-            "Увеличивает урон обычной атаки на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> ."
+            "일반 공격으로 주는 피해가 <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  증가한다"
         ]
     },
     "113302": {
         "Affix": [
-            "Обычные атаки наносят дополнительные <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color>  урона. Может возникнуть не чаще 1 раза за 10 сек."
+            "일반 공격으로 명중한 적에게 추가로 공격력 <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> 의 피해를 준다. 해당 효과는 10초마다 1번 발동한다"
         ]
     },
     "113303": {
         "Affix": [
-            "Увеличивает урон по слаймам на <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> ."
+            "슬라임 타입의 적에게 주는 피해가 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  증가한다"
         ]
     },
     "113304": {
         "Affix": [
-            "Победа над противником восстанавливает <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  HP."
+            "적을 처치하면 HP를 <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  회복한다"
         ]
     },
     "113401": {
         "Affix": [
-            "Увеличивает на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>36%</color>  урон против врагов, находящихся под действием Гидро или Пиро элементов."
+            "물 원소 또는 불 원소의 영향을 받은 적에게 주는 피해가 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>36%</color>  증가한다"
         ]
     },
     "113402": {
         "Affix": [
-            "Использование элементального навыка увеличивает урон обычной и заряженной атаки на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  в течение 12 сек. Эффект может складываться до 2 раз."
+            "원소전투 스킬 발동 후 일반 공격과 강공격 피해가 <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  증가한다. 지속 시간: 12초. 최대 중첩수: 2회"
         ]
     },
     "113403": {
         "Affix": [
-            "В течение 5 сек. после поднятия элементальной сферы или частицы обычные и заряженные атаки наносят дополнительный урон, равный <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  от силы атаки."
+            "원소 입자 또는 원소 구슬 획득 후 5초 동안 일반 공격 혹은 강공격 시 적에게 추가로 공격력 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 의 피해를 준다"
         ]
     },
     "113404": {
         "Affix": [
-            "Побеждённые противники увеличивают силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Длится 30 сек. Эффект может складываться до 3 раз. Длительность добавочных эффектов друг от друга не зависит."
+            "적을 처치한 후 공격력이 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가한다. 지속 시간: 30초. 최대 중첩수: 3회. 중첩 1회당 지속 시간은 독립 계산한다"
         ]
     },
     "113405": {
         "Affix": [
-            "Если рядом 2 врага и более, сила атаки и защита увеличиваются на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> ; если рядом менее 2 врагов, сила атаки увеличивается на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> ."
+            "주변에 적이 2기 이상 있을 때 공격력이 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> , 방어력이 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  증가한다. 주변에 적이 2기 미만일 때 공격력이 <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  증가한다"
         ]
     },
     "113406": {
         "Affix": [
-            "С каждым членом отряда из Ли Юэ сила атаки экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>11%</color> , а его шанс крит. попадания - на <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> . Эффект может складываться до 4 раз."
+            "파티 내에 리월 출신 캐릭터가 1명 존재할 때마다 해당 무기를 장착한 캐릭터의 공격력이 <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>11%</color>  증가하고 치명타 확률이 <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color>  증가한다. 최대 중첩수: 4회"
         ]
     },
     "113407": {
         "Affix": [
-            "Критические атаки имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать элементальные частицы, которые восстанавливают 6 ед. энергии. Возникает раз в <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>6</color>  сек."
+            "치명타 시 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> 의 확률로 소량의 원소 구슬이 생성되고 캐릭터의 원소 에너지를 6pt 회복한다. 해당 효과는 <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10.5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7.5</color> / <color style='color:#99FFFF;'>6</color> 초마다 1회만 발동한다"
         ]
     },
     "113408": {
         "Affix": [
-            "При нанесении урона противнику повышает шанс крит. попадания на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . Эффект может складываться до 5 раз. Добавочный шанс крит. попадания исчезает с первым крит. попаданием."
+            "공격으로 피해를 줄 때마다 치명타 확률이 <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  증가한다. 최대 중첩수: 5회. 공격 시 치명타가 발생하면 모든 집중 효과가 사라진다"
         ]
     },
     "113409": {
         "Affix": [
-            "Попадания обычной или заряженной атакой имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать над противником ледяной кристалл и уронить его, нанося <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>95%</color> / <color style='color:#99FFFF;'>110%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>140%</color>  урона силы атаки по площади. Если противник имеет эффект Крио, то наносит ему <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> / <color style='color:#99FFFF;'>360%</color>  урона силы атаки. Может возникнуть раз в 10 сек."
+            "일반 공격과 강공격이 적에게 명중 시 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> 의 확률로 적의 위쪽에 영원의 얼음 결정을 생성한 후 떨궈서 공격력 <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>95%</color> / <color style='color:#99FFFF;'>110%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>140%</color> 의 범위 피해를 준다. 적이 만약 얼음 원소의 영향을 받으면 공격력 <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> / <color style='color:#99FFFF;'>360%</color> 의 피해를 준다. 해당 효과는 10초마다 1회 발동한다"
         ]
     },
     "113414": {
         "Affix": [
-            "Увеличивает урон элементального навыка на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color> . Когда элементальный навык поражает противника, персонаж теряет 3 единицы энергии, но восстанавливает <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3,5</color> / <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>4,5</color> / <color style='color:#99FFFF;'>5</color>  единицы энергии каждые 2 сек. в течение следующих 6 сек. Эффект может возникнуть один раз в 10 сек. Эффект может сработать, даже когда персонаж не находится на поле боя."
+            "원소전투 스킬로 주는 피해가 <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7.5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10.5%</color> / <color style='color:#99FFFF;'>12%</color>  증가한다. 원소전투 스킬이 명중되면, 캐릭터는 원소 에너지를 3pt 잃고, 그 후 6초 동안 2초마다 원소 에너지를 <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3.5</color> / <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>4.5</color> / <color style='color:#99FFFF;'>5</color> pt 회복한다. 이 효과는 10초마다 최대 1회만 발동하며, 캐릭터가 대기 상태일 때도 발동된다"
         ]
     },
     "113415": {
         "Affix": [
-            "Повышает урон взрыва стихии на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  и его шанс крит. попадания на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color> ."
+            "원소폭발로 주는 피해가 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  증가하고, 원소폭발의 치명타 확률이 <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7.5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10.5%</color> / <color style='color:#99FFFF;'>12%</color>  증가한다"
         ]
     },
     "113416": {
         "Affix": [
-            "Урон взрыва стихии экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>0,12%</color> / <color style='color:#99FFFF;'>0,15%</color> / <color style='color:#99FFFF;'>0,18%</color> / <color style='color:#99FFFF;'>0,21%</color> / <color style='color:#99FFFF;'>0,24%</color>  за каждую единицу суммы макс. энергии каждого члена отряда. Бонус урона не может превышать <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> ."
+            "파티 내 모든 캐릭터의 원소 에너지 최대치의 총합을 기반으로, 1pt마다 해당 무기를 장착한 캐릭터의 원소폭발 피해가 <color style='color:#99FFFF;'>0.12%</color> / <color style='color:#99FFFF;'>0.15%</color> / <color style='color:#99FFFF;'>0.18%</color> / <color style='color:#99FFFF;'>0.21%</color> / <color style='color:#99FFFF;'>0.24%</color>  증가한다. 해당 방식을 통해 원소폭발로 주는 피해가 최대 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> 까지 증가한다"
         ]
     },
     "113417": {
         "Affix": [
-            "Активация статусов Горение, Стимуляция, Обострение, Разрастание, Бутонизация, Вегетация и Цветение создают рядом с персонажем Лист оживления, который существует 10 сек. Сила атаки подобравшего его персонажа повышается на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  на 12 сек. Лист оживления может возникнуть раз в 20 сек. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя."
+            "연소, 활성, 촉진, 발산, 개화, 만개 혹은 발화 발동 후, 캐릭터 주변에 최대 10초 동안 존재하는 「소생의 잎사귀」가 생성된다. 소생의 잎사귀를 습득한 캐릭터는 공격력이 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  증가한다. 지속 시간: 12초. 해당 방식으로 20초마다 소생의 잎사귀를 최대 1개 생성한다. 캐릭터가 대기 상태일 때도 발동된다"
         ]
     },
     "113419": {
         "Affix": [
-            "В течение 10 сек. после активации элементальной реакции сила атаки повысится на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> , мастерство стихий - на <color style='color:#99FFFF;'>48</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>72</color> / <color style='color:#99FFFF;'>84</color> / <color style='color:#99FFFF;'>96</color>  ед."
+            "원소 반응 발동 후 10초 동안 공격력이 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가하고, 원소 마스터리가 <color style='color:#99FFFF;'>48</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>72</color> / <color style='color:#99FFFF;'>84</color> / <color style='color:#99FFFF;'>96</color> pt 증가한다"
         ]
     },
     "113424": {
         "Affix": [
-            "Если в отряде не менее 3 персонажей разных элементов, мастерство стихий увеличивается на <color style='color:#99FFFF;'>120</color> / <color style='color:#99FFFF;'>150</color> / <color style='color:#99FFFF;'>180</color> / <color style='color:#99FFFF;'>210</color> / <color style='color:#99FFFF;'>240</color>  ед."
+            "파티 내 각기 다른 원소 타입의 캐릭터가 3명 이상 존재할 경우, 원소 마스터리가 <color style='color:#99FFFF;'>120pt</color> / <color style='color:#99FFFF;'>150pt</color> / <color style='color:#99FFFF;'>180pt</color> / <color style='color:#99FFFF;'>210pt</color> / <color style='color:#99FFFF;'>240pt</color>  증가한다"
         ]
     },
     "113425": {
         "Affix": [
-            "При получении лечения персонаж восстанавливает <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>16</color>  ед. энергии. Эффект может возникнуть один раз в 10 сек. и срабатывает, даже когда персонаж не на поле боя."
+            "치유받을 시, 에너지를 <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>16</color> pt 회복한다. 해당 효과는 10초마다 최대 1회 발동하고, 캐릭터가 대기 상태일 때도 발동된다"
         ]
     },
     "113426": {
         "Affix": [
-            "Экипированный персонаж, исцеляя персонажей отряда, восстанавливает <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>16</color>  ед. энергии. Эффект может возникнуть один раз в 10 сек. и срабатывает, даже когда персонаж не на поле боя."
+            "치유 진행 시, 에너지를 <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>16</color> pt 회복한다. 해당 효과는 10초마다 최대 1회 발동하고, 캐릭터가 대기 상태 시에도 발동한다"
         ]
     },
     "113427": {
         "Affix": [
-            "Когда экипированный персонаж лечит или получает лечение, он на 30 сек. наделяется Меткой единства. Всего можно получить до 3 Меток. При активации элементального навыка или взрыва стихии все Метки расходуются и на 10 сек. создаётся эффект Отпора: за каждую израсходованную Метку сила атаки повышается на <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> , а бонус урона всеми элементами - на <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8,5%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>11,5%</color> / <color style='color:#99FFFF;'>13%</color> . Эффект Отпора может возникнуть один раз в 15 сек. Персонаж получает Метки единства, даже если он не на поле боя."
+            "치유를 받거나 치유를 진행할 경우, 단결 표식이 1개 부여된다. 지속 시간: 30초. 최대 3개의 단결 표식을 보유할 수 있다. 원소전투 스킬 또는 원소폭발 발동 시, 모든 단결 표식을 소모해 10초 동안 지속되는 「항쟁」 효과를 생성한다: 소모한 단결 표식마다 공격력이 <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color>  증가하고 모든 원소 피해 보너스가 <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8.5%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>11.5%</color> / <color style='color:#99FFFF;'>13%</color>  증가한다. 항쟁 효과는 15초마다 최대 1회 발동된다. 캐릭터가 대기 상태일 때도 단결 표식을 획득할 수 있다"
         ]
     },
     "113501": {
         "Affix": [
-            "Увеличивает HP на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . Также даёт бонус атаки, равный <color style='color:#99FFFF;'>0,8%</color> / <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1,2%</color> / <color style='color:#99FFFF;'>1,4%</color> / <color style='color:#99FFFF;'>1,6%</color>  от макс. HP экипированного этим оружием персонажа. Когда HP экипированного этим оружием персонажа опускается ниже 50%, его сила атаки дополнительно увеличивается на <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1,2%</color> / <color style='color:#99FFFF;'>1,4%</color> / <color style='color:#99FFFF;'>1,6%</color> / <color style='color:#99FFFF;'>1,8%</color>  от его макс. HP."
+            "HP가 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가하고, 이 무기를 장착한 캐릭터 HP 최대치의 <color style='color:#99FFFF;'>0.8%</color> / <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1.2%</color> / <color style='color:#99FFFF;'>1.4%</color> / <color style='color:#99FFFF;'>1.6%</color> 에 해당하는 공격력 보너스를 획득한다. 이 무기를 장착한 캐릭터의 HP가 50% 미만일 경우, 공격력이 추가로 HP 최대치의 <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1.2%</color> / <color style='color:#99FFFF;'>1.4%</color> / <color style='color:#99FFFF;'>1.6%</color> / <color style='color:#99FFFF;'>1.8%</color> 만큼 증가한다"
         ]
     },
     "113502": {
         "Affix": [
-            "Увеличивает шанс крит. попадания на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  и скорость обычной атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>12%</color> . При попадании обычной или заряженной атакой есть <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>50%</color>  шанс активировать неосязаемое лезвие, которое наносит <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>55%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>85%</color> / <color style='color:#99FFFF;'>100%</color>  урона в небольшом радиусе. Может возникнуть раз в 2 сек."
+            "치명타 확률이 <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> , 일반 공격 속도가 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>12%</color>  증가한다. 또한 일반 공격과 강공격이 적을 명중 시 <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>50%</color> 의 확률로 진공 칼날을 날려 작은 범위 내의 적에게 추가로 공격력 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>55%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>85%</color> / <color style='color:#99FFFF;'>100%</color> 의 피해를 준다. 해당 효과는 2초마다 1회 발동한다"
         ]
     },
     "113504": {
         "Affix": [
-            "Увеличивает прочность щита на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . При попадании увеличивает силу атаки на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  в течение 8 сек. Эффект может складываться до 5 раз и возникнуть раз в 0,3 сек. Кроме того, под защитой щита бонус силы атаки данного эффекта увеличивается на 100%."
+            "보호막 강화 효과가 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다. 공격 명중 후 공격력이 <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  증가한다. 지속 시간: 8초. 최대 중첩수: 5회. 해당 효과는 0.3초마다 1번 발동한다. 또한 보호막 존재 시 해당 효과의 공격력 증가 효과가 100% 증가한다"
         ]
     },
     "113505": {
         "Affix": [
-            "При попадании увеличивает силу атаки на <color style='color:#99FFFF;'>3,2%</color> / <color style='color:#99FFFF;'>3,9%</color> / <color style='color:#99FFFF;'>4,6%</color> / <color style='color:#99FFFF;'>5,3%</color> / <color style='color:#99FFFF;'>6%</color>  в течение 6 сек. Эффект может складываться до 7 раз и возникает не чаще чем раз в 0,3 сек. На 7 уровне складывания увеличивает урон на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> ."
+            "적 명중 시 자신의 공격력이 <color style='color:#99FFFF;'>3.2%</color> / <color style='color:#99FFFF;'>3.9%</color> / <color style='color:#99FFFF;'>4.6%</color> / <color style='color:#99FFFF;'>5.3%</color> / <color style='color:#99FFFF;'>6%</color>  증가한다. 지속 시간: 6초. 최대 중첩수: 7회. 해당 효과는 0.3초마다 1번 발동한다. 최대 중첩 시 피해가 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가한다"
         ]
     },
     "113507": {
         "Affix": [
-            "Даёт <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  бонус урона всеми элементами. Запуск элементального навыка накладывает Совершенствование на 20 сек., в результате чего сила атаки увеличивается на <color style='color:#99FFFF;'>3,2%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>4,8%</color> / <color style='color:#99FFFF;'>5,6%</color> / <color style='color:#99FFFF;'>6,4%</color>  в секунду. Может складываться до 6 раз. Когда персонаж, экипированный этим оружием, не на поле боя, бонус атаки от Совершенствования удваивается."
+            "모든 원소의 피해 보너스를 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  획득한다. 원소전투 스킬 발동 시, 20초 동안 지속되는 「원돈」을 획득하고 공격력이 1초마다 <color style='color:#99FFFF;'>3.2%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>4.8%</color> / <color style='color:#99FFFF;'>5.6%</color> / <color style='color:#99FFFF;'>6.4%</color>  증가한다. 해당 공격력 증가 효과는 최대 6회 중첩된다. 해당 무기를 장착한 캐릭터가 대기 상태일 때 「원돈」의 공격력 증가 효과는 2배가 된다"
         ]
     },
     "113509": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>49%</color> / <color style='color:#99FFFF;'>56%</color>  от показателя восстановления энергии свыше 100%. Вы можете получить бонус силы атаки до <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>110%</color> / <color style='color:#99FFFF;'>120%</color> . Также даёт <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>45%</color> / <color style='color:#99FFFF;'>50%</color>  восстановления энергии на 12 сек. после активации взрыва стихии."
+            "원소 충전 효율이 100%를 초과할 경우, 공격력이 초과된 부분의 <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>49%</color> / <color style='color:#99FFFF;'>56%</color> 만큼 증가하며, 해당 방식을 통해 최대 <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>110%</color> / <color style='color:#99FFFF;'>120%</color>  증가할 수 있다. 원소폭발 발동 후 12초 동안 원소 충전 효율이 <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>45%</color> / <color style='color:#99FFFF;'>50%</color>  증가한다"
         ]
     },
     "113511": {
         "Affix": [
-            "Экипированный этим оружием персонаж получает бонус атаки, равный <color style='color:#99FFFF;'>52%</color> / <color style='color:#99FFFF;'>65%</color> / <color style='color:#99FFFF;'>78%</color> / <color style='color:#99FFFF;'>91%</color> / <color style='color:#99FFFF;'>104%</color>  от его мастерства стихий. Попадание по врагу элементальным навыком на 10 сек. наделяет Сном алых песков: экипированный этим оружием персонаж получает бонус атаки, равный <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>49%</color> / <color style='color:#99FFFF;'>56%</color>  от мастерства стихий. Эффект складывается до 3 раз."
+            "장착한 캐릭터 원소 마스터리의 <color style='color:#99FFFF;'>52%</color> / <color style='color:#99FFFF;'>65%</color> / <color style='color:#99FFFF;'>78%</color> / <color style='color:#99FFFF;'>91%</color> / <color style='color:#99FFFF;'>104%</color> 에 해당하는 공격력 보너스를 획득한다. 원소전투 스킬이 적을 명중하면 10초 동안 「적색 사막의 꿈」 효과를 획득한다: 장착한 캐릭터 원소 마스터리의 <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>49%</color> / <color style='color:#99FFFF;'>56%</color> 만큼 공격력 보너스를 획득한다. 해당 효과 최대 중첩수: 3스택"
         ]
     },
     "114301": {
         "Affix": [
-            "Увеличивает на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  урон против врагов, находящихся под действием Гидро или Электро элементов."
+            "물 원소 또는 번개 원소의 영향을 받은 적에게 주는 피해가 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가한다"
         ]
     },
     "114302": {
         "Affix": [
-            "При переключении персонажа увеличивает силу атаки вошедшего на поле боя персонажа на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  в течение 10 сек. Может возникнуть раз в 20 сек."
+            "스스로 캐릭터를 교체 시 새로 등장한 캐릭터의 공격력이 <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  증가한다. 지속 시간: 10초. 해당 효과는 20초마다 1번 발동한다"
         ]
     },
     "114303": {
         "Affix": [
-            "Подобранные элементальные сферы и частицы восстанавливают <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1,25%</color> / <color style='color:#99FFFF;'>1,5%</color> / <color style='color:#99FFFF;'>1,75%</color> / <color style='color:#99FFFF;'>2%</color>  HP."
+            "원소 입자 또는 원소 구슬 획득 시 HP를 <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1.25%</color> / <color style='color:#99FFFF;'>1.5%</color> / <color style='color:#99FFFF;'>1.75%</color> / <color style='color:#99FFFF;'>2%</color>  회복한다"
         ]
     },
     "114304": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  на 12 сек. при активации реакций Пар, Заряжен, Заморозка, Бутонизация или Гидро рассеивание."
+            "증발, 감전, 빙결, 개화 혹은 물 원소 확산 반응 후 12초 동안 공격력이 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다"
         ]
     },
     "114305": {
         "Affix": [
-            "Победа над противником увеличивает скорость передвижения и силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>20%</color>  в течение 15 сек."
+            "적을 처치한 후 15초 동안 이동 속도와 공격력이 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>20%</color>  증가한다"
         ]
     },
     "114306": {
         "Affix": [
-            "Попадания обычной атакой дают <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color>  бонус элементального урона на 6 сек. Может складываться до 2 раз."
+            "일반 공격 명중 후 원소 피해 보너스를 <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7.5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10.5%</color> / <color style='color:#99FFFF;'>12%</color>  획득한다. 지속 시간: 6초. 최대 중첩수: 2회"
         ]
     },
     "114401": {
         "Affix": [
-            "Критические атаки имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать элементальные частицы, которые восстанавливают 6 ед. энергии. Возникает раз в <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>6</color>  сек."
+            "치명타 시 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> 의 확률로 소량의 원소 구슬이 생성되고 캐릭터의 원소 에너지를 6pt 회복한다. 해당 효과는 <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10.5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7.5</color> / <color style='color:#99FFFF;'>6</color> 초마다 1회만 발동한다"
         ]
     },
     "114402": {
         "Affix": [
-            "При переключении на персонажа в течение 10 сек. играет случайная музыкальная тема. Может возникнуть раз в 30 сек. Речитатив: увеличивает силу атаки на <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>75%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>105%</color> / <color style='color:#99FFFF;'>120%</color> ; Ария: увеличивает элементальный урон на <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>72%</color> / <color style='color:#99FFFF;'>84%</color> / <color style='color:#99FFFF;'>96%</color> ; Интерлюдия: увеличивает мастерство стихий на <color style='color:#99FFFF;'>240</color> / <color style='color:#99FFFF;'>300</color> / <color style='color:#99FFFF;'>360</color> / <color style='color:#99FFFF;'>420</color> / <color style='color:#99FFFF;'>480</color> ."
+            "캐릭터가 등장할 때 무작위로 테마송을 획득한다, 지속 시간 10초. 30초마다 1번 발동한다. 서창: 공격력+ <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>75%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>105%</color> / <color style='color:#99FFFF;'>120%</color> . 영탄곡: 모든 원소의 피해+ <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>72%</color> / <color style='color:#99FFFF;'>84%</color> / <color style='color:#99FFFF;'>96%</color> . 간주곡: 원소 마스터리+ <color style='color:#99FFFF;'>240</color> / <color style='color:#99FFFF;'>300</color> / <color style='color:#99FFFF;'>360</color> / <color style='color:#99FFFF;'>420</color> / <color style='color:#99FFFF;'>480</color> "
         ]
     },
     "114403": {
         "Affix": [
-            "Когда элементальный навык наносит урон, есть <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  вероятность, что его откат моментально восстановится. Может возникнуть раз в <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color>  сек."
+            "원소전투 스킬로 피해를 줄 때 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> 의 확률로 해당 스킬의 재발동 대기시간이 초기화된다. 해당 효과는 <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color> 초마다 1회만 발동한다"
         ]
     },
     "114404": {
         "Affix": [
-            "При нанесении урона противнику повышает шанс крит. попадания на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . Эффект может складываться до 5 раз. Добавочный шанс крит. попадания исчезает с первым крит. попаданием."
+            "공격으로 피해를 줄 때마다 치명타 확률이 <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  증가한다. 최대 중첩수: 5회. 공격 시 치명타가 발생하면 모든 집중 효과가 사라진다"
         ]
     },
     "114405": {
         "Affix": [
-            "Попадания обычной атакой увеличивают урон элементальных навыков и взрыва стихии на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  в течение 6 сек. И наоборот, попадания элементальными навыками и взрывом стихии увеличивают урон обычной атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  в течение 6 сек."
+            "일반 공격 명중 후 6초 동안 원소전투 스킬과 원소폭발의 피해가 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다. 원소전투 스킬과 원소폭발 명중 후 6초 동안 일반 공격 피해가 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다"
         ]
     },
     "114406": {
         "Affix": [
-            "В течение 6 сек. после использования взрыва стихий восстанавливается <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>4,5</color> / <color style='color:#99FFFF;'>5</color> / <color style='color:#99FFFF;'>5,5</color> / <color style='color:#99FFFF;'>6</color>  ед. энергии каждые 2 сек., а все члены отряда восстанавливают по <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>4,5%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>5,5%</color> / <color style='color:#99FFFF;'>6%</color>  HP каждые 2 сек."
+            "원소폭발 발동 후 6초 동안 2초마다 원소 에너지를 <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>4.5</color> / <color style='color:#99FFFF;'>5</color> / <color style='color:#99FFFF;'>5.5</color> / <color style='color:#99FFFF;'>6</color> pt 회복한다. 파티 내 모든 캐릭터의 HP를 2초마다 <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>4.5%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>5.5%</color> / <color style='color:#99FFFF;'>6%</color>  회복한다"
         ]
     },
     "114407": {
         "Affix": [
-            "В течение 10 сек. после вызова элементальной реакции даёт <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  бонус элементального урона. Может складываться до 2 раз."
+            "원소 반응 후 10초 동안 원소 피해 보너스를 <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  획득한다. 최대 중첩수: 2회"
         ]
     },
     "114408": {
         "Affix": [
-            "Побеждённые противники увеличивают силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Длится 30 сек. Эффект может складываться до 3 раз. Длительность добавочных эффектов друг от друга не зависит."
+            "적을 처치한 후 공격력이 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가한다. 지속 시간: 30초. 최대 중첩수: 3회. 중첩 1회당 지속 시간은 독립 계산한다"
         ]
     },
     "114409": {
         "Affix": [
-            "При попадании обычной или заряженной атакой появляется 50% шанс запустить Око сознания, которое наносит <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>270%</color> / <color style='color:#99FFFF;'>300%</color> / <color style='color:#99FFFF;'>330%</color> / <color style='color:#99FFFF;'>360%</color>  урона силы атаки. Оно способно отразиться от противника к противнику до 4 раз. Может возникнуть раз в <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>11</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>8</color>  сек."
+            "일반 공격과 강공격 명중 시 50%의 확률로 마음을 비추는 법구를 발사해 공격력 <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>270%</color> / <color style='color:#99FFFF;'>300%</color> / <color style='color:#99FFFF;'>330%</color> / <color style='color:#99FFFF;'>360%</color> 의 피해를 주고 적 사이에서 4번 튕긴다. 해당 효과는 <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>11</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>8</color> 초마다 1번 발동한다"
         ]
     },
     "114410": {
         "Affix": [
-            "Попадания обычной атакой уменьшают потребление выносливости спринта и навыков, заменяющих спринт, на <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>22%</color>  в течение 5 сек. Кроме того, использование спринта или навыка, заменяющего спринт, увеличивает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  в течение 5 сек."
+            "일반 공격으로 적을 명중 시킨 후, 대시나 대시를 대체할 수 있는 능력으로 소모되는 스태미나가 <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>22%</color>  감소한다. 지속 시간: 5초. 또한, 대시나 대시를 대체할 수 있는 능력을 사용한 후, 공격력이 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다. 지속 시간: 5초"
         ]
     },
     "114412": {
         "Affix": [
-            "Попадания обычной или заряженной атакой имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать над противником ледяной кристалл и уронить его, нанося <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>95%</color> / <color style='color:#99FFFF;'>110%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>140%</color>  урона силы атаки по площади. Если противник имеет эффект Крио, то наносит ему <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> / <color style='color:#99FFFF;'>360%</color>  урона силы атаки. Может возникнуть раз в 10 сек."
+            "일반 공격과 강공격이 적에게 명중 시 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> 의 확률로 적의 위쪽에 영원의 얼음 결정을 생성한 후 떨궈서 공격력 <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>95%</color> / <color style='color:#99FFFF;'>110%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>140%</color> 의 범위 피해를 준다. 적이 만약 얼음 원소의 영향을 받으면 공격력 <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> / <color style='color:#99FFFF;'>360%</color> 의 피해를 준다. 해당 효과는 10초마다 1회 발동한다"
         ]
     },
     "114413": {
         "Affix": [
-            "Попадания обычной атакой увеличивают урон заряженной атаки на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  в течение 6 сек., а попадания заряженной атакой увеличивают силу атаки на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  в течение 6 сек."
+            "일반 공격으로 적을 명중 후 6초 동안 강공격 피해가 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  증가한다. 강공격으로 적을 명중 후 6초 동안 공격력이 <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  증가한다"
         ]
     },
     "114414": {
         "Affix": [
-            "Когда персонаж, экипированный этим оружием, вызывает реакцию, связанную с элементом Электро, все находящиеся рядом члены отряда, чей элемент соответствует этой реакции, получают <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12,5%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>17,5%</color> / <color style='color:#99FFFF;'>20%</color>  бонус урона к своему элементу на 6 сек. Элементальные бонусы урона, полученные таким образом, не суммируются."
+            "해당 무기를 장착한 캐릭터가 번개 원소 관련 반응을 일으키면 근처에 해당 원소 반응과 관련 있는 원소 타입의 파티 내 캐릭터는 <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12.5%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>17.5%</color> / <color style='color:#99FFFF;'>20%</color> 의 상응하는 원소 피해 보너스를 받는다. 지속 시간: 6초. 해당 방식으로 얻을 수 있는 원소 피해 보너스는 중첩되지 않는다"
         ]
     },
     "114415": {
         "Affix": [
-            "Использование элементального навыка увеличивает восстановление энергии на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  в течение 10 сек."
+            "원소전투 스킬 발동 후, 원소 충전 효율이 <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  증가한다. 지속 시간: 10초"
         ]
     },
     "114416": {
         "Affix": [
-            "Каждые 10 сек. срабатывает следующий эффект: сила атаки экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  от мастерства стихий на 12 сек. Члены отряда поблизости получают 30% этого эффекта. Если этим оружием обладают и другие члены отряда, эффект суммируется. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя."
+            "10초마다 아래의 효과가 발생한다: 장착한 캐릭터 원소 마스터리의 <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> 만큼 해당 캐릭터의 공격력이 증가하고, 해당 증가량의 30%만큼 근처 파티 내 다른 캐릭터의 공격력이 증가한다. 지속 시간: 12초. 동명의 무기를 여러 개 장착 시 해당 효과는 중첩이 가능하다. 캐릭터가 대기 상태일 때도 발동된다"
         ]
     },
     "114417": {
         "Affix": [
-            "Вызов элементальной реакции наделяет персонажа эффектом Роста и убыли, который увеличивает мастерство стихий на <color style='color:#99FFFF;'>24</color> / <color style='color:#99FFFF;'>27</color> / <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>33</color> / <color style='color:#99FFFF;'>36</color>  ед., но понижает силу атаки на 5%. Эффект может возникнуть один раз в 0,3 сек. и складывается до 5 раз. Если не вызывать элементальные реакции, каждые 6 сек. теряется по одному уровню эффекта. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя."
+            "원소 반응 발동 후, 「영결」 효과를 획득한다: 원소 마스터리가 <color style='color:#99FFFF;'>24</color> / <color style='color:#99FFFF;'>27</color> / <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>33</color> / <color style='color:#99FFFF;'>36</color> pt 증가하고 공격력이 5% 감소한다. 0.3초마다 영결 효과를 최대 1스택 획득한다. 최대 중첩수: 5회. 원소 반응을 발동하지 않으면 6초마다 1스택이 감소한다. 캐릭터가 대기 상태일 때도 발동된다"
         ]
     },
     "114424": {
         "Affix": [
-            "Если персонаж не на поле боя более 5 сек., макс. HP увеличивается на <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>56%</color> / <color style='color:#99FFFF;'>64%</color> , а мастерство стихий - на <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color>  ед. После вступления персонажа в бой эффект длится 10 сек., после чего исчезает."
+            "대기 상태가 5초를 초과하면, HP 최대치가 <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>56%</color> / <color style='color:#99FFFF;'>64%</color> , 원소 마스터리가 <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color> pt 증가한다. 장착 캐릭터가 필드에 등장해 10초 동안 머물면, 해당 효과는 사라진다"
         ]
     },
     "114425": {
         "Affix": [
-            "Активация элементального навыка повышает бонус урона всеми элементами на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  на 15 сек. и накладывает Долг жизни, равный 24% от макс. HP. Эффект может возникнуть один раз в 10 сек. Когда Долг жизни снимается, бонус урона всеми элементами на 15 сек. увеличивается на <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2,5%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3,5%</color> / <color style='color:#99FFFF;'>4%</color>  за каждые отданные 1000 ед. HP Долга жизни. Бонус урона всеми элементами, полученный таким образом, не может превышать <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> ."
+            "원소전투 스킬 발동 시, 모든 원소 피해 보너스가 <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  증가한다. 지속 시간: 15초. 또한 HP 최대치의 24%에 해당하는 생명의 계약을 부여한다. 해당 효과는 10초마다 최대 1회 발동된다. 생명의 계약이 사라질 때, 1000pt당 모든 원소 피해 보너스가 <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2.5%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3.5%</color> / <color style='color:#99FFFF;'>4%</color> 씩 증가한다. 해당 방식으로 최대 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가한다. 지속 시간: 15초"
         ]
     },
     "114426": {
         "Affix": [
-            "В течение 6 сек. после попадания обычной или заряженной атаки по противнику урон обычной атаки повысится на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> , а урон заряженной атаки - на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color> . Эффект может складываться до 3 раз и возникает один раз в 0,3 сек."
+            "일반 공격 또는 강공격이 적에게 명중 후 6초 동안, 일반 공격으로 주는 피해가 <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  증가하고, 강공격으로 주는 피해가 <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7.5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10.5%</color> / <color style='color:#99FFFF;'>12%</color>  증가한다. 최대 중첩수: 3회. 0.3초마다 최대 1회 발동된다"
         ]
     },
     "114501": {
         "Affix": [
-            "Увеличивает бонус элементального урона на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . При попадании обычной атакой есть 50% шанс получить благословение облаков, которые в течение 15 сек. атакуют ближайших врагов и наносят им <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color>  урона. Может возникнуть раз в 30 сек."
+            "원소 피해 보너스+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . 일반 공격 명중 시 50%의 확률로 구름의 총애를 받는다. 15초 내에 주변의 적을 직접 공격하면 공격력 <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> 의 피해를 준다. 해당 효과는 30초마다 1번 발동한다"
         ]
     },
     "114502": {
         "Affix": [
-            "Увеличивает скорость передвижения на 10%. Во время битвы даёт <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  бонус элементального урона каждые 4 сек. Может складываться до 4 раз. Эффект оканчивается, если персонаж погибает или покидает поле боя."
+            "이동 속도+10%. 필드에 있을 때 4초마다 원소 피해 보너스를 <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  획득한다. 최대 중첩수: 4회. 캐릭터가 전투 불능이 되거나 교체될 때까지 지속된다"
         ]
     },
     "114504": {
         "Affix": [
-            "Увеличивает прочность щита на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . При попадании увеличивает силу атаки на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  в течение 8 сек. Эффект может складываться до 5 раз и возникнуть раз в 0,3 сек. Кроме того, под защитой щита бонус силы атаки данного эффекта увеличивается на 100%."
+            "보호막 강화 효과가 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다. 공격 명중 후 공격력이 <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  증가한다. 지속 시간: 8초. 최대 중첩수: 5회. 해당 효과는 0.3초마다 1번 발동한다. 또한 보호막 존재 시 해당 효과의 공격력 증가 효과가 100% 증가한다"
         ]
     },
     "114505": {
         "Affix": [
-            "Когда экипированный персонаж активирует взрыв стихии или создаёт щит, он на 3 сек. получает эффект Камня воли: каждые 2,5 сек. восстанавливается <color style='color:#99FFFF;'>4,5</color> / <color style='color:#99FFFF;'>5</color> / <color style='color:#99FFFF;'>5,5</color> / <color style='color:#99FFFF;'>6</color> / <color style='color:#99FFFF;'>6,5</color>  ед. энергии, а бонус урона соответствующего элемента повышается на <color style='color:#99FFFF;'>0,3%</color> / <color style='color:#99FFFF;'>0,5%</color> / <color style='color:#99FFFF;'>0,7%</color> / <color style='color:#99FFFF;'>0,9%</color> / <color style='color:#99FFFF;'>1,1%</color>  за каждую 1000 ед. макс. HP персонажа, максимум <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>44%</color> . Эффект Камня воли активируется, даже если экипированный персонаж не на поле боя."
+            "원소폭발 발동 또는 보호막 생성 후 3초 동안 「정토옥규」 효과를 생성한다: 2.5초마다 원소 에너지를 <color style='color:#99FFFF;'>4.5</color> / <color style='color:#99FFFF;'>5</color> / <color style='color:#99FFFF;'>5.5</color> / <color style='color:#99FFFF;'>6</color> / <color style='color:#99FFFF;'>6.5</color> pt 회복한다. 또한 장착 캐릭터 HP 최대치에 기반하여 1000pt마다 해당 타입의 원소 피해 보너스가 <color style='color:#99FFFF;'>0.3%</color> / <color style='color:#99FFFF;'>0.5%</color> / <color style='color:#99FFFF;'>0.7%</color> / <color style='color:#99FFFF;'>0.9%</color> / <color style='color:#99FFFF;'>1.1%</color> 씩 최대 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>44%</color>  증가한다. 「정토옥규」 효과는 해당 무기를 장착한 캐릭터가 대기 상태 시에도 생성된다"
         ]
     },
     "114506": {
         "Affix": [
-            "Увеличивает бонус лечения на <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12,5%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>17,5%</color> / <color style='color:#99FFFF;'>20%</color> , также повышает урон обычной атаки на <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1,5%</color> / <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2,5%</color> / <color style='color:#99FFFF;'>3%</color>  от макс. HP экипированного этим оружием персонажа. В течение 12 сек. после использования взрыва стихии попадания обычной атакой по противнику восстанавливают 0,6 ед. энергии. Энергию можно восстановить не чаще чем раз в 0,1 сек."
+            "치유 보너스가 <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12.5%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>17.5%</color> / <color style='color:#99FFFF;'>20%</color>  증가하고, 일반 공격으로 주는 피해가 해당 장비를 장착한 캐릭터 HP 최대치의 <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1.5%</color> / <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2.5%</color> / <color style='color:#99FFFF;'>3%</color> 만큼 증가한다. 원소폭발 발동 후 12초 내에 일반 공격으로 적을 명중하면 원소 에너지를 0.6pt 회복하고, 해당 방식으로 0.1초마다 원소 에너지를 최대 1회 회복할 수 있다"
         ]
     },
     "114509": {
         "Affix": [
-            "Использование элементального навыка наделяет экипированного этим оружием персонажа эффектом «Танец кагура», который увеличивает урон его элементального навыка на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Этот эффект длится 16 сек. и может складываться до 3 раз. На 3 уровне эффекта персонаж получает <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  бонус урона всеми элементами."
+            "원소전투 스킬 발동 시, 「카구라의 춤」의 효과를 받아 해당 무기를 장착한 캐릭터의 원소전투 스킬의 피해가 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가한다. 지속 시간: 16초. 최대 중첩수: 3회. 3스택 중첩 시 모든 원소 피해 보너스를 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  획득한다"
         ]
     },
     "114511": {
         "Affix": [
-            "Другие члены отряда предоставляют экипированному этим оружием персонажу усиления в зависимости от того, совпадают их элементы, или нет. Если элементы совпадают, мастерство стихий повышается на <color style='color:#99FFFF;'>32</color> / <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>48</color> / <color style='color:#99FFFF;'>56</color> / <color style='color:#99FFFF;'>64</color>  ед. Если не совпадают, экипированный этим оружием персонаж получает <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>22%</color> / <color style='color:#99FFFF;'>26%</color>  бонус урона своего элемента. Данные эффекты складываются до 3 раз. Вдобавок мастерство стихий всех персонажей отряда поблизости (кроме экипированного этим оружием персонажа) увеличивается на <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>42</color> / <color style='color:#99FFFF;'>44</color> / <color style='color:#99FFFF;'>46</color> / <color style='color:#99FFFF;'>48</color>  единиц. Если этим оружием обладают и другие члены отряда, эффект суммируется."
+            "장착 캐릭터와 파티 내 기타 캐릭터의 원소 타입 동일 여부에 따라, 장착한 캐릭터에게 제공되는 효과가 달라진다. 같은 경우: 원소 마스터리가 <color style='color:#99FFFF;'>32</color> / <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>48</color> / <color style='color:#99FFFF;'>56</color> / <color style='color:#99FFFF;'>64</color> pt 증가한다. 다른 경우: 장착 캐릭터의 원소 타입의 원소 피해 보너스가 <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>22%</color> / <color style='color:#99FFFF;'>26%</color>  증가한다. 해당 증가 효과는 각각 최대 3회까지 중첩된다. 추가로, 파티 내 장착 캐릭터를 제외한 주변 캐릭터의 원소 마스터리가 <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>42</color> / <color style='color:#99FFFF;'>44</color> / <color style='color:#99FFFF;'>46</color> / <color style='color:#99FFFF;'>48</color> pt 증가한다. 동명의 무기를 여러 개 장착 시, 해당 효과는 중첩 가능하다"
         ]
     },
     "114512": {
         "Affix": [
-            "Скорость обычной атаки повышается на <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12,5%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>17,5%</color> / <color style='color:#99FFFF;'>20%</color> . После активации экипированным этим оружием персонажем элементального навыка урон обычной атаки будет повышаться на <color style='color:#99FFFF;'>4,8%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,2%</color> / <color style='color:#99FFFF;'>8,4%</color> / <color style='color:#99FFFF;'>9,6%</color>  в секунду в течение 14 сек. Пока этот эффект активен, каждое попадание по противнику мгновенно увеличивает урон обычной атаки на <color style='color:#99FFFF;'>9,6%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14,4%</color> / <color style='color:#99FFFF;'>16,8%</color> / <color style='color:#99FFFF;'>19,2%</color> . Увеличение может возникнуть один раз в 0,3 сек. Во время действия одного такого эффекта урон обычной атаки может быть увеличен максимум на <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>72%</color> / <color style='color:#99FFFF;'>84%</color> / <color style='color:#99FFFF;'>96%</color> . Эффект будет снят, если персонаж покинет поле боя, а повторная активация элементального навыка сбросит увеличение урона."
+            "일반 공격 속도가 <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12.5%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>17.5%</color> / <color style='color:#99FFFF;'>20%</color>  증가한다. 원소전투 스킬 발동 후 14초 동안 1초마다 일반 공격으로 주는 피해가 <color style='color:#99FFFF;'>4.8%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7.2%</color> / <color style='color:#99FFFF;'>8.4%</color> / <color style='color:#99FFFF;'>9.6%</color>  증가한다. 일반 공격이 적을 명중한 후, 일반 공격으로 주는 피해가 <color style='color:#99FFFF;'>9.6%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14.4%</color> / <color style='color:#99FFFF;'>16.8%</color> / <color style='color:#99FFFF;'>19.2%</color>  증가한다. 해당 효과는 0.3초마다 최대 1회 발동된다. 지속 시간 동안 일반 공격으로 주는 피해는 해당 효과로 최대 <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>72%</color> / <color style='color:#99FFFF;'>84%</color> / <color style='color:#99FFFF;'>96%</color> 까지 증가한다. 효과는 캐릭터 퇴장 시 사라지며, 원소전투 스킬을 다시 발동하면 기존 효과는 사라진다"
         ]
     },
     "114513": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> . Когда текущее HP персонажа повышается или понижается, на 4 сек. урон обычной атаки увеличивается на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> , а заряженной атаки - на <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>17,5%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24,5%</color> / <color style='color:#99FFFF;'>28%</color> . Эффект складывается до 3 раз и возникает не чаще, чем 1 раз в 0,3 сек. При получении экипированным персонажем 3 уровней скорость атаки увеличивается на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> ."
+            "공격력이 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  증가한다. 현재 HP가 증가 또는 감소 시 일반 공격이 주는 피해가 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> , 강공격이 주는 피해가 <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>17.5%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24.5%</color> / <color style='color:#99FFFF;'>28%</color>  증가한다. 지속 시간: 4초. 최대 중첩수: 3스택. 0.3초마다 최대 1회 발동된다. 3스택 상태인 경우, 공격 속도가 <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  증가한다"
         ]
     },
     "114514": {
         "Affix": [
-            "Увеличивает HP на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> . Когда текущее HP персонажа повышается или понижается, урон заряженной атаки увеличивается на <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>22%</color> / <color style='color:#99FFFF;'>26%</color> / <color style='color:#99FFFF;'>30%</color>  на 4 сек. Эффект складывается до 3 раз и возникает не чаще, чем 1 раз в 0,3 сек. При получении 3 уровней или обновлении времени длительности 3 уровня восстанавливается <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>11</color> / <color style='color:#99FFFF;'>12</color>  ед. энергии. Восстанавливать энергию таким образом можно 1 раз в 12 сек."
+            "HP가 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  증가한다. 현재 HP가 증가 또는 감소 시 강공격이 주는 피해가 <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>22%</color> / <color style='color:#99FFFF;'>26%</color> / <color style='color:#99FFFF;'>30%</color>  증가한다. 지속 시간: 4초. 최대 중첩수: 3회. 0.3초마다 최대 1회 발동된다. 3스택을 달성하거나 3스택의 지속 시간이 갱신될 경우, 원소 에너지를 <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>11</color> / <color style='color:#99FFFF;'>12</color> pt 회복한다. 해당 방식으로 원소 에너지를 12초마다 최대 1회 회복할 수 있다"
         ]
     },
     "114515": {
         "Affix": [
-            "После того как атака в падении экипированного персонажа поражает врага, урон атак в падении членов отряда поблизости повышается на <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>41%</color> / <color style='color:#99FFFF;'>54%</color> / <color style='color:#99FFFF;'>67%</color> / <color style='color:#99FFFF;'>80%</color>  на 20 сек. Попадания атак в падении членов отряда поблизости восстанавливают <color style='color:#99FFFF;'>2,5</color> / <color style='color:#99FFFF;'>2,75</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3,25</color> / <color style='color:#99FFFF;'>3,5</color>  ед. энергии экипированного персонажа. Восстанавливать энергию таким образом можно 1 раз в 0,7 сек. Эффект восстановления энергии срабатывает, даже если экипированный персонаж не на поле боя."
+            "장착 캐릭터의 낙하 공격이 적에게 명중 후, 주변에 있는 파티 내 모든 캐릭터의 낙하 공격이 주는 피해가 <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>41%</color> / <color style='color:#99FFFF;'>54%</color> / <color style='color:#99FFFF;'>67%</color> / <color style='color:#99FFFF;'>80%</color>  증가한다. 지속 시간: 20초. 주변에 있는 파티 내 캐릭터의 낙하 공격이 적에게 명중 시, 장착 캐릭터의 원소 에너지를 <color style='color:#99FFFF;'>2.5</color> / <color style='color:#99FFFF;'>2.75</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3.25</color> / <color style='color:#99FFFF;'>3.5</color> pt 회복한다. 0.7초마다 해당 방식으로 원소 에너지를 최대 1회 회복하며, 장착 캐릭터가 대기 상태 시에도 해당 방식으로 원소 에너지를 회복한다"
         ]
     },
     "115301": {
         "Affix": [
-            "Увеличивает на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  урон против врагов, находящихся под действием Гидро или Пиро элементов."
+            "물 원소 또는 불 원소의 영향을 받은 적에게 주는 피해가 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가한다"
         ]
     },
     "115302": {
         "Affix": [
-            "Увеличивает урон по слабым местам противников на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> ."
+            "약점 공격 시 주는 피해가 <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  증가한다"
         ]
     },
     "115303": {
         "Affix": [
-            "Победа над противником восстанавливает <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  HP."
+            "적을 처치하면 HP를 <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  회복한다"
         ]
     },
     "115304": {
         "Affix": [
-            "Если обычная или заряженная стрела поразила цель в течение 0,3 сек. после выстрела, то её урон увеличивается на <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>54%</color> / <color style='color:#99FFFF;'>60%</color> . В противном случае урон уменьшается на 10%."
+            "일반 공격과 강공격 화살은 발사 후 0.3초 내에 적을 명중하면 주는 피해가 <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>54%</color> / <color style='color:#99FFFF;'>60%</color>  증가한다. 반대일 경우 주는 피해가 10% 감소한다"
         ]
     },
     "115305": {
         "Affix": [
-            "При попадании заряженной атакой по слабому месту дополнительно наносит <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>150%</color> / <color style='color:#99FFFF;'>175%</color> / <color style='color:#99FFFF;'>200%</color>  урона в качестве крит. урона. Может возникнуть раз в 10 сек."
+            "강공격이 약점에 명중하면 추가로 공격력 <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>150%</color> / <color style='color:#99FFFF;'>175%</color> / <color style='color:#99FFFF;'>200%</color> 의 피해를 주고 반드시 치명타가 터진다. 해당 효과는 10초마다 1번 발동한다"
         ]
     },
     "115306": {
         "Affix": [
-            "Увеличивает урон по механическим защитникам руин на <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> ."
+            "유적 장치 타입의 적에게 주는 피해+ <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> "
         ]
     },
     "115401": {
         "Affix": [
-            "Критические атаки имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать элементальные частицы, которые восстанавливают 6 ед. энергии. Возникает раз в <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>6</color>  сек."
+            "치명타 시 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> 의 확률로 소량의 원소 구슬이 생성되고 캐릭터의 원소 에너지를 6pt 회복한다. 해당 효과는 <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10.5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7.5</color> / <color style='color:#99FFFF;'>6</color> 초마다 1회만 발동한다"
         ]
     },
     "115402": {
         "Affix": [
-            "Увеличивает урон элементального навыка и взрыва стихии на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> ."
+            "원소전투 스킬과 원소폭발 피해가 <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  증가한다"
         ]
     },
     "115403": {
         "Affix": [
-            "Когда элементальный навык наносит урон, есть <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  вероятность, что его откат моментально восстановится. Может возникнуть раз в <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color>  сек."
+            "원소전투 스킬로 피해를 줄 때 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> 의 확률로 해당 스킬의 재발동 대기시간이 초기화된다. 해당 효과는 <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color> 초마다 1회만 발동한다"
         ]
     },
     "115404": {
         "Affix": [
-            "При нанесении урона противнику повышает шанс крит. попадания на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . Эффект может складываться до 5 раз. Добавочный шанс крит. попадания исчезает с первым крит. попаданием."
+            "공격으로 피해를 줄 때마다 치명타 확률이 <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  증가한다. 최대 중첩수: 5회. 공격 시 치명타가 발생하면 모든 집중 효과가 사라진다"
         ]
     },
     "115405": {
         "Affix": [
-            "Увеличивает урон обычной атаки на <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> , но понижает урон заряженной атаки на 10%."
+            "일반 공격으로 주는 피해가 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  증가한다. 강공격으로 주는 피해가 10% 감소한다"
         ]
     },
     "115406": {
         "Affix": [
-            "Попадания заряженной атакой по слабым местам увеличивают скорость передвижения на 10% и силу атаки на <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>45%</color> / <color style='color:#99FFFF;'>54%</color> / <color style='color:#99FFFF;'>63%</color> / <color style='color:#99FFFF;'>72%</color>  в течение 10 сек."
+            "강공격이 약점에 명중하면 이동 속도가 10% 증가하고 공격력이 <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>45%</color> / <color style='color:#99FFFF;'>54%</color> / <color style='color:#99FFFF;'>63%</color> / <color style='color:#99FFFF;'>72%</color>  증가한다. 지속 시간: 10초"
         ]
     },
     "115407": {
         "Affix": [
-            "Попадания обычной и заряженной атакой увеличивают силу атаки на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  и скорость атаки на <color style='color:#99FFFF;'>1,2%</color> / <color style='color:#99FFFF;'>1,5%</color> / <color style='color:#99FFFF;'>1,8%</color> / <color style='color:#99FFFF;'>2,1%</color> / <color style='color:#99FFFF;'>2,4%</color>  в течение 6 сек. Эффект может складываться до 4 раз. Может возникнуть раз в 0,3 сек."
+            "일반 공격과 강공격이 명중 시 공격력이 <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  증가하고 일반 공격의 공격속도가 <color style='color:#99FFFF;'>1.2%</color> / <color style='color:#99FFFF;'>1.5%</color> / <color style='color:#99FFFF;'>1.8%</color> / <color style='color:#99FFFF;'>2.1%</color> / <color style='color:#99FFFF;'>2.4%</color>  증가한다. 지속 시간: 6초. 최대 중첩수: 4회. 해당 효과는 0.3초마다 1번 발동한다"
         ]
     },
     "115408": {
         "Affix": [
-            "Побеждённые противники увеличивают силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Длится 30 сек. Эффект может складываться до 3 раз. Длительность добавочных эффектов друг от друга не зависит."
+            "적을 처치한 후 공격력이 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가한다. 지속 시간: 30초. 최대 중첩수: 3회. 중첩 1회당 지속 시간은 독립 계산한다"
         ]
     },
     "115409": {
         "Affix": [
-            "При попадании обычной или заряженной атакой появляется 50% шанс создать Циклон, который притягивает к себе врагов и наносит им <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  урона каждые 0,5 сек. в течение 4 сек. Может возникнуть раз в <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>13</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>11</color> / <color style='color:#99FFFF;'>10</color>  сек."
+            "일반 공격과 강공격 명중 시 50%의 확률로 바람의 눈을 1개 생성하여 주변의 적을 끌어당기고 닿은 적에게 0.5초마다 공격력 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> 의 피해를 준다. 지속 시간: 4초. 해당 효과는 <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>13</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>11</color> / <color style='color:#99FFFF;'>10</color> 초마다 1번 발동한다"
         ]
     },
     "115410": {
         "Affix": [
-            "Увеличивает урон экипированного этим оружием персонажа, когда тот не на поле боя, на <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2,5%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3,5%</color> / <color style='color:#99FFFF;'>4%</color>  в сек. Таким способом макс. количество наносимого урона может быть увеличено до <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . Через 4 сек. после появления персонажа на поле боя бонус повышения урона от данного эффекта начнёт убывать по <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  в сек., пока не опустится до 0%."
+            "해당 무기를 장착한 캐릭터가 대기 상태일 때, 캐릭터가 주는 피해가 1초에 <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2.5%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3.5%</color> / <color style='color:#99FFFF;'>4%</color> 씩 증가하며, 최대 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 까지 증가할 수 있다. 캐릭터가 필드에 4초 이상 머무를 시, 해당 피해 증가 효과는 1초마다 <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> 씩 감소하여, 0%까지 떨어진다"
         ]
     },
     "115411": {
         "Affix": [
-            "Оружие обладает 3 состояниями: Закат, Туман и Заря, каждое из которых увеличивает наносимый урон на <color style='color:#99FFFF;'>6%/10%/14%</color> / <color style='color:#99FFFF;'>7,5%/12,5%/17,5%</color> / <color style='color:#99FFFF;'>9%/15%/21%</color> / <color style='color:#99FFFF;'>10,5%/17,5%/24,5%</color> / <color style='color:#99FFFF;'>12%/20%/28%</color>  соответственно. После попадания по противнику состояние меняется на следующее, не чаще одного раза в 7 сек. Эффект смены состояния срабатывает, даже когда персонаж не на поле боя."
+            "석양, 유하, 조휘 3가지 상태는 캐릭터가 주는 피해를 각각 <color style='color:#99FFFF;'>6%/10%/14%</color> / <color style='color:#99FFFF;'>7.5%/12.5%/17.5%</color> / <color style='color:#99FFFF;'>9%/15%/21%</color> / <color style='color:#99FFFF;'>10.5%/17.5%/24.5%</color> / <color style='color:#99FFFF;'>12%/20%/28%</color>  증가시킨다. 캐릭터 공격이 적을 명중 시, 순서대로 상태를 전환한다. 7초마다 최대 1회 상태를 전환할 수 있으며 해당 무기를 장착한 캐릭터가 대기 상태일 때도 전환한다"
         ]
     },
     "115412": {
         "Affix": [
-            "Попадания обычной атакой увеличивают урон элементального навыка на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  в течение 5 сек., а попадания элементальным навыком увеличивают урон обычной атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  в течение 5 сек."
+            "일반 공격으로 적을 명중 후 5초 동안 원소전투 스킬 피해가 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다. 원소전투 스킬로 적을 명중한 후 5초 동안 일반 공격 피해가 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다"
         ]
     },
     "115413": {
         "Affix": [
-            "Использование элементального навыка накладывает Древнее желание анемонии, которое увеличивает силу атаки на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  в течение 6 сек."
+            "원소전투 스킬 발동 시, 바람의 꽃의 오랜 염원으로 공격력이 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  증가한다. 지속 시간: 6초"
         ]
     },
     "115414": {
         "Affix": [
-            "Увеличивает урон обычной атаки на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  и урон заряженной атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Когда элементальная энергия персонажа с этим оружием достигает 100%, эффект увеличивается на 100%."
+            "일반 공격으로 주는 피해가 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  증가하고, 강공격으로 주는 피해가 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가한다. 해당 무기를 장착한 캐릭터의 원소 에너지가 100%일 때, 해당 효과는 100% 증가한다"
         ]
     },
     "115415": {
         "Affix": [
-            " <color style='color:#99FFFF;'>Действует только для игроков</color> <br> <color style='color:#99FFFF;'>\"PlayStation Network\".</color> <br>Нанесённый противникам Крио урон повышает урон обычной и заряженной атаки персонажа на 10% в течение 6 сек. Эффект может складываться до 2 раз. Кроме этого, когда Хищником экипирована Элой, сила атаки повышается на 66 ед."
+            " <color style='color:#99FFFF;'>다음 플랫폼에서만 적용:</color> <br> <color style='color:#99FFFF;'>\"PlayStation Network\"</color> <br>적에게 얼음 원소 피해를 준 후, 일반 공격과 강공격으로 주는 피해가 10% 증가한다. 지속 시간: 6초, 최대 중첩수: 2회. 또한, 에일로이가 포식자를 장착할 때 공격력이 66pt 증가한다"
         ]
     },
     "115416": {
         "Affix": [
-            "Урон взрыва стихии экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>0,12%</color> / <color style='color:#99FFFF;'>0,15%</color> / <color style='color:#99FFFF;'>0,18%</color> / <color style='color:#99FFFF;'>0,21%</color> / <color style='color:#99FFFF;'>0,24%</color>  за каждую единицу суммы макс. энергии каждого члена отряда. Бонус урона не может превышать <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> ."
+            "파티 내 모든 캐릭터의 원소 에너지 최대치의 총합을 기반으로, 1pt마다 해당 무기를 장착한 캐릭터의 원소폭발 피해가 <color style='color:#99FFFF;'>0.12%</color> / <color style='color:#99FFFF;'>0.15%</color> / <color style='color:#99FFFF;'>0.18%</color> / <color style='color:#99FFFF;'>0.21%</color> / <color style='color:#99FFFF;'>0.24%</color>  증가한다. 해당 방식을 통해 원소폭발로 주는 피해가 최대 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> 까지 증가한다"
         ]
     },
     "115417": {
         "Affix": [
-            "Активация элементального навыка или взрыва стихии наделяет персонажа эффектом Наставлений лесов, который увеличивает его мастерство стихий на <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>80</color> / <color style='color:#99FFFF;'>100</color> / <color style='color:#99FFFF;'>120</color> / <color style='color:#99FFFF;'>140</color>  ед. на 12 сек. При переключении персонажа эффект пропадёт. Когда время действия эффекта заканчивается или он пропадёт, одному из противников поблизости наносится урон в <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>120%</color> / <color style='color:#99FFFF;'>140%</color> / <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>180%</color>  от силы атаки. Этот эффект может возникнуть раз в 20 сек."
+            "원소전투 스킬 또는 원소폭발 발동 시 「숲의 가르침」 효과를 획득하고 원소 마스터리가 <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>80</color> / <color style='color:#99FFFF;'>100</color> / <color style='color:#99FFFF;'>120</color> / <color style='color:#99FFFF;'>140</color> pt 증가한다. 지속 시간: 12초. 해당 효과는 캐릭터 교체 시 사라진다. 숲의 가르침의 지속 시간이 종료되거나 효과가 사라지면 주변의 적 1명에게 공격력 <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>120%</color> / <color style='color:#99FFFF;'>140%</color> / <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>180%</color> 의 피해를 준다. 숲의 가르침은 20초마다 최대 1회 발동된다"
         ]
     },
     "115418": {
         "Affix": [
-            "Активация элементального навыка вызывает эффект Плывущего по течению: атаки при попадании наносят урон по площади, равный <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>120%</color> / <color style='color:#99FFFF;'>140%</color> / <color style='color:#99FFFF;'>160%</color>  от силы атаки. Через 15 сек. либо после 3 нанёсших урон атак эффект исчезнет. Эффект наносит урон не чаще одного раза в 2 сек. и может возникнуть раз в 12 сек."
+            "원소전투 스킬 발동 후 「연회」 효과가 발동된다. 공격이 적에게 명중하면 공격력의 <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>120%</color> / <color style='color:#99FFFF;'>140%</color> / <color style='color:#99FFFF;'>160%</color> 에 해당하는 범위 피해를 준다. 해당 효과는 15초 동안 지속되거나, 3회의 범위 피해 발동 시 사라진다. 2초마다 해당 방식으로 최대 1회의 범위 피해를 주고 12초마다 연회를 최대 1회 발동할 수 있다"
         ]
     },
     "115419": {
         "Affix": [
-            "Попадание заряженной атакой по противнику увеличивает мастерство стихий на <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color>  ед. на 6 сек. Эффект складывается до 2 раз и может возникнуть раз в 0,5 сек."
+            "강공격이 적에게 명중 후 6초 동안 캐릭터의 원소 마스터리가 <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color> pt 증가한다. 최대 중첩수: 2스택. 해당 효과는 0.5초마다 최대 1회 발동된다"
         ]
     },
     "115424": {
         "Affix": [
-            "Попадания заряженной атакой обрушивают на поражённого ею врага Стрелу слепящего солнца, которая наносит <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>75%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>105%</color> / <color style='color:#99FFFF;'>120%</color>  урона от силы атаки. Кроме того, на врага, получившего урон от Стрелы слепящего солнца, на 10 сек. накладывается эффект Пылающего сердца. Урон заряженной атаки экипированного персонажа по противнику под воздействием Пылающего сердца повышается на <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>49%</color> / <color style='color:#99FFFF;'>56%</color> . Стрела слепящего солнца может возникнуть один раз в 10 сек."
+            "강공격이 적에게 명중 후, 해당 적에게 태양의 화살을 내려 공격력의 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>75%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>105%</color> / <color style='color:#99FFFF;'>120%</color> 만큼 피해를 준다. 또한 태양의 화살 피해를 받은 적에게 10초 동안 일광 화상 효과를 부여한다. 장착 캐릭터의 강공격이 일광 화상 상태의 적에게 주는 피해가 <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>49%</color> / <color style='color:#99FFFF;'>56%</color>  증가한다. 태양의 화살은 10초마다 최대 1회 발동된다"
         ]
     },
     "115425": {
         "Affix": [
-            "Наносимый урон после получения лечения увеличивается на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  на 8 сек. Эффект срабатывает, даже когда персонаж не на поле боя."
+            "치유를 받은 후 주는 피해가 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  증가한다. 지속 시간: 8초. 해당 효과는 캐릭터가 대기 상태일 때도 발동된다"
         ]
     },
     "115427": {
         "Affix": [
-            "Когда экипированный персонаж лечит или получает лечение, он на 30 сек. наделяется Меткой единства. Всего можно получить до 3 Меток. При активации элементального навыка или взрыва стихии все Метки расходуются и на 10 сек. создаётся эффект Отпора: за каждую израсходованную Метку сила атаки повышается на <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> , а бонус урона всеми элементами - на <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8,5%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>11,5%</color> / <color style='color:#99FFFF;'>13%</color> . Эффект Отпора может возникнуть один раз в 15 сек. Персонаж получает Метки единства, даже если он не на поле боя."
+            "치유를 받거나 치유를 진행할 경우, 단결 표식이 1개 부여된다. 지속 시간: 30초. 최대 3개의 단결 표식을 보유할 수 있다. 원소전투 스킬 또는 원소폭발 발동 시, 모든 단결 표식을 소모해 10초 동안 지속되는 「항쟁」 효과를 생성한다: 소모한 단결 표식마다 공격력이 <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color>  증가하고 모든 원소 피해 보너스가 <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8.5%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>11.5%</color> / <color style='color:#99FFFF;'>13%</color>  증가한다. 항쟁 효과는 15초마다 최대 1회 발동된다. 캐릭터가 대기 상태일 때도 단결 표식을 획득할 수 있다"
         ]
     },
     "115501": {
         "Affix": [
-            "Увеличивает крит. урон на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . При попадании есть <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс нанести 125% физ. урона в небольшом радиусе. Может возникнуть раз в <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>3,5</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>2,5</color> / <color style='color:#99FFFF;'>2</color>  сек."
+            "치명타 피해+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . 공격 명중 시 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> 의 확률로 공격력 125%의 범위 물리 피해를 준다. 해당 효과는 <color style='color:#99FFFF;'>4초</color> / <color style='color:#99FFFF;'>3.5초</color> / <color style='color:#99FFFF;'>3초</color> / <color style='color:#99FFFF;'>2.5초</color> / <color style='color:#99FFFF;'>2초</color> 마다 1번 발동한다"
         ]
     },
     "115502": {
         "Affix": [
-            "Увеличивает урон обычной и заряженной атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Каждые 0,1 сек. полёта стрелы, выпущенной обычной или заряженной атакой, увеличивают её урон на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . Эффект может складываться до 5 раз."
+            "일반 공격과 강공격 피해+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . 일반공격과 강공격 화살이 발사된 후 0.1초가 지날 때마다 피해가 <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> 씩 증가한다. 최대 중첩수: 5회"
         ]
     },
     "115503": {
         "Affix": [
-            "Часть Тысячелетней симфонии, что блуждает среди ветров. Увеличивает мастерство стихий на <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>75</color> / <color style='color:#99FFFF;'>90</color> / <color style='color:#99FFFF;'>105</color> / <color style='color:#99FFFF;'>120</color>  ед. При попадании элементальным навыком или взрывом стихии по противнику персонаж получает один Талисман воспоминаний. Он может возникнуть раз в 0,2 сек., даже когда персонаж в отряде, но не активен. Четыре собранных Талисмана воспоминаний пропадают, на 12 сек. наделяя ближайших членов отряда эффектом «Тысячелетняя симфония: Прощальный гимн». Их мастерство стихии повышается на <color style='color:#99FFFF;'>100</color> / <color style='color:#99FFFF;'>125</color> / <color style='color:#99FFFF;'>150</color> / <color style='color:#99FFFF;'>175</color> / <color style='color:#99FFFF;'>200</color>  ед., а сила атаки - на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . В течение 20 сек. после активации эффекта Талисманы воспоминаний появляться не будут. Тысячелетняя симфония с эффектами, влияющими на те же навыки, не складывается."
+            "바람 속을 유랑하는 「천년의 대악장」의 일부분. 원소 마스터리가 <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>75</color> / <color style='color:#99FFFF;'>90</color> / <color style='color:#99FFFF;'>105</color> / <color style='color:#99FFFF;'>120</color> pt 증가한다. 원소전투 스킬이나 원소폭발이 적에게 명중 시, 캐릭터는 회상의 부적을 한 장 획득한다. 이는 0.2초마다 한 번 발동되며, 캐릭터가 대기 상태일 때도 발동된다. 회상의 부적 4장 소유 시, 부적을 모두 소모하여 주변의 파티 내 모든 캐릭터에게 12초 동안 「천년의 대악장·이별의 노래」 효과를 부여한다: 원소 마스터리가 <color style='color:#99FFFF;'>100</color> / <color style='color:#99FFFF;'>125</color> / <color style='color:#99FFFF;'>150</color> / <color style='color:#99FFFF;'>175</color> / <color style='color:#99FFFF;'>200</color> pt 증가하고, 공격력이 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다. 발동 후 20초 동안은 회상의 부적을 획득할 수 없다. 「천년의 대악장」의 수치 효과 중 동일 유형의 수치 효과는 중첩될 수 없다"
         ]
     },
     "115507": {
         "Affix": [
-            "Урон, наносимый элементальным навыком и взрывом стихии, увеличивается на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Когда обычная атака, заряженная атака, элементальный навык или взрыв стихии попадают по врагу, возникает 1 ур. эффекта Звезда полярной ночи, который длится 12 сек. При 1/2/3/4 ур. эффекта Звезда полярной ночи сила атаки повышается на <color style='color:#99FFFF;'>10/20/30/48%</color> / <color style='color:#99FFFF;'>12,5/25/37,5/60%</color> / <color style='color:#99FFFF;'>15/30/45/72%</color> / <color style='color:#99FFFF;'>17,5/35/52,5/84%</color> / <color style='color:#99FFFF;'>20/40/60/96%</color> . Уровни Звезды полярной ночи, созданные обычной атакой, заряженной атакой, элементальным навыком и взрывом стихии, рассчитываются по отдельности."
+            "원소전투 스킬과 원소폭발로 주는 피해가 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  증가한다. 일반 공격, 강공격, 원소전투 스킬 또는 원소폭발이 적에게 명중하면 12초간 지속되는 「백야의 극성」 효과를 1스택 획득한다. 「백야의 극성」은 1/2/3/4스택 마다 공격력이 <color style='color:#99FFFF;'>10/20/30/48%</color> / <color style='color:#99FFFF;'>12.5/25/37.5/60%</color> / <color style='color:#99FFFF;'>15/30/45/72%</color> / <color style='color:#99FFFF;'>17.5/35/52.5/84%</color> / <color style='color:#99FFFF;'>20/40/60/96%</color>  증가한다. 일반 공격, 강공격, 원소전투 스킬 또는 원소폭발이 생성한 「백야의 극성」은 각각 독립적으로 존재한다"
         ]
     },
     "115508": {
         "Affix": [
-            "Увеличивает HP на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> . Когда рядом есть враги, урон, наносимый персонажем, экипированным этим оружием, увеличивается на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . Эффект срабатывает, даже когда персонаж не на поле боя."
+            "HP가 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  증가하고, 해당 무기를 장착한 캐릭터 주변에 적이 존재하면 캐릭터가 주는 피해가 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가한다. 이 효과는 해당 캐릭터가 필드 위에 존재하거나 대기 상태인 것과 관계없이 발동된다"
         ]
     },
     "115509": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  и дарует мощь Громовой эмблемы. На уровнях эмблемы 1, 2 или 3 урон обычной атаки увеличивается на <color style='color:#99FFFF;'>12%, 24% или 40%</color> / <color style='color:#99FFFF;'>15%, 30% или 50%</color> / <color style='color:#99FFFF;'>18%, 36% или 60%</color> / <color style='color:#99FFFF;'>21%, 42% или 70%</color> / <color style='color:#99FFFF;'>24%, 48% или 80%</color>  соответственно. Персонаж получает 1 уровень Громовой эмблемы в каждом из следующих случаев: при нанесении урона обычной атакой (эмблема действует 5 сек.); при применении элементального навыка (эмблема действует 10 сек.); когда элементальная энергия персонажа ниже 100% (эмблема исчезнет, когда элементальная энергия полностью восстановится). Продолжительность действия каждого уровня эмблемы рассчитывается индивидуально."
+            "공격력이 <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  증가하고, 「비뢰의 문장」의 위세를 획득한다. 비뢰의 문장: 1/2/3스택의 비뢰의 문장 보유 시, 일반 공격으로 주는 피해가 각각 <color style='color:#99FFFF;'>12/24/40%</color> / <color style='color:#99FFFF;'>15/30/50%</color> / <color style='color:#99FFFF;'>18/36/60%</color> / <color style='color:#99FFFF;'>21/42/70%</color> / <color style='color:#99FFFF;'>24/48/80%</color>  증가한다. 캐릭터가 비뢰의 문장 1스택을 획득할 수 있는 상황: 일반 공격으로 피해를 주면 5초간 지속. 원소전투 스킬을 발동하면 10초간 지속. 이 외에 캐릭터의 원소 에너지가 100% 미만이면 비뢰의 문장을 1스택 획득한다. 해당 비뢰의 문장은 캐릭터의 원소 에너지가 가득 차면 사라지며, 비뢰의 문장의 각 스택 지속 시간은 따로 계산된다"
         ]
     },
     "115511": {
         "Affix": [
-            "Даёт <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  бонус урона всеми элементами. Попадание заряженной атакой наделяет персонажа эффектом Непрестанной охоты, который увеличивает урон заряженных атак на <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color>  от мастерства стихий. Через 10 сек. либо после 12 активаций эффект исчезает. Может возникнуть один раз в 12 сек."
+            "모든 원소 피해 보너스를 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  획득한다. 강공격으로 적 명중 후, 「무한 사냥」을 획득한다: 강공격으로 주는 피해가 원소 마스터리 수치의 <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> 만큼 증가한다. 해당 효과는 12회 발동 또는 10초 후 사라지고, 12초마다 무한 사냥 효과를 최대 1회 획득할 수 있다"
         ]
     },
     "115512": {
         "Affix": [
-            "Увеличивает урон заряженной атаки на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> . Предоставляет 1 уровень Уловки за каждого персонажа того же элемента в отряде, что и экипированный персонаж (включая экипированного персонажа). За каждого персонажа отряда с другим элементом предоставляет 1 уровень Актёрского мастерства. Когда действуют 1/2/3 и более уровней Уловки, сила атаки повышается на <color style='color:#99FFFF;'>16%/32%/48%</color> / <color style='color:#99FFFF;'>20%/40%/60%</color> / <color style='color:#99FFFF;'>24%/48%/72%</color> / <color style='color:#99FFFF;'>28%/56%/84%</color> / <color style='color:#99FFFF;'>32%/64%/96%</color> . Во время действия 1/2/3 и более уровней Актёрского мастерства скорость передвижения увеличивается на <color style='color:#99FFFF;'>4%/7%/10%</color> / <color style='color:#99FFFF;'>6%/9%/12%</color> / <color style='color:#99FFFF;'>8%/11%/14%</color> / <color style='color:#99FFFF;'>10%/13%/16%</color> / <color style='color:#99FFFF;'>12%/15%/18%</color> ."
+            "강공격으로 주는 피해가 <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  증가한다. 파티 내에 장착 캐릭터와 동일한 원소 타입의 캐릭터 1명당(장착자 자신 포함) 1스택의 「트릭」 효과를 획득하고, 장착 캐릭터와 다른 원소 타입을 가진 캐릭터 1명당, 1스택의 「연기」 효과를 획득한다. 1/2/3스택 또는 3스택 이상의 「트릭」 효과를 받을 시, 공격력이 <color style='color:#99FFFF;'>16%/32%/48%</color> / <color style='color:#99FFFF;'>20%/40%/60%</color> / <color style='color:#99FFFF;'>24%/48%/72%</color> / <color style='color:#99FFFF;'>28%/56%/84%</color> / <color style='color:#99FFFF;'>32%/64%/96%</color>  증가한다. 1/2/3스택 또는 3스택 이상의 「연기」 효과를 받을 시, 이동 속도가 <color style='color:#99FFFF;'>4%/7%/10%</color> / <color style='color:#99FFFF;'>6%/9%/12%</color> / <color style='color:#99FFFF;'>8%/11%/14%</color> / <color style='color:#99FFFF;'>10%/13%/16%</color> / <color style='color:#99FFFF;'>12%/15%/18%</color>  증가한다"
         ]
     }
 }

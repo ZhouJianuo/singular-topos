@@ -17183,11 +17183,11 @@ var _AvatarCostumeConfig = {
 var _MaterialConfig = {
     "100021": {
         "Icon": "UI_ItemIcon_100021",
-        "Text": "<b>Wolfhook</b>"
+        "Text": "<b>Wolfshaken</b>"
     },
     "100022": {
         "Icon": "UI_ItemIcon_100022",
-        "Text": "<b>Valberry</b>"
+        "Text": "<b>Valbeere</b>"
     },
     "100023": {
         "Icon": "UI_ItemIcon_100023",
@@ -17195,27 +17195,27 @@ var _MaterialConfig = {
     },
     "100024": {
         "Icon": "UI_ItemIcon_100024",
-        "Text": "<b>Windwheel Aster</b>"
+        "Text": "<b>Windmühlenaster</b>"
     },
     "100025": {
         "Icon": "UI_ItemIcon_100025",
-        "Text": "<b>Philanemo Mushroom</b>"
+        "Text": "<b>Philanemo-Pilz</b>"
     },
     "100027": {
         "Icon": "UI_ItemIcon_100027",
-        "Text": "<b>Jueyun Chili</b>"
+        "Text": "<b>Jueyun-Peperoni</b>"
     },
     "100028": {
         "Icon": "UI_ItemIcon_100028",
-        "Text": "<b>Noctilucous Jade</b>"
+        "Text": "<b>Nachtjade</b>"
     },
     "100029": {
         "Icon": "UI_ItemIcon_100029",
-        "Text": "<b>Silk Flower</b>"
+        "Text": "<b>Seidenblume</b>"
     },
     "100030": {
         "Icon": "UI_ItemIcon_100030",
-        "Text": "<b>Glaze Lily</b>"
+        "Text": "<b>Glaslilie</b>"
     },
     "100031": {
         "Icon": "UI_ItemIcon_100031",
@@ -17223,23 +17223,23 @@ var _MaterialConfig = {
     },
     "100033": {
         "Icon": "UI_ItemIcon_100033",
-        "Text": "<b>Starconch</b>"
+        "Text": "<b>Sternmuschel</b>"
     },
     "100034": {
         "Icon": "UI_ItemIcon_100034",
-        "Text": "<b>Violetgrass</b>"
+        "Text": "<b>Glasglöckchen</b>"
     },
     "100055": {
         "Icon": "UI_ItemIcon_100055",
-        "Text": "<b>Small Lamp Grass</b>"
+        "Text": "<b>Lampenkraut</b>"
     },
     "100056": {
         "Icon": "UI_ItemIcon_100056",
-        "Text": "<b>Calla Lily</b>"
+        "Text": "<b>Wasserlilie</b>"
     },
     "100057": {
         "Icon": "UI_ItemIcon_100057",
-        "Text": "<b>Dandelion Seed</b>"
+        "Text": "<b>Löwenzahnsamen</b>"
     },
     "100058": {
         "Icon": "UI_ItemIcon_100058",
@@ -17251,11 +17251,11 @@ var _MaterialConfig = {
     },
     "101202": {
         "Icon": "UI_ItemIcon_101202",
-        "Text": "<b>Sakura Bloom</b>"
+        "Text": "<b>Sakura-Blüte</b>"
     },
     "101203": {
         "Icon": "UI_ItemIcon_101203",
-        "Text": "<b>Crystal Marrow</b>"
+        "Text": "<b>Kristallmark</b>"
     },
     "101204": {
         "Icon": "UI_ItemIcon_101204",
@@ -17263,27 +17263,27 @@ var _MaterialConfig = {
     },
     "101205": {
         "Icon": "UI_ItemIcon_101205",
-        "Text": "<b>Naku Weed</b>"
+        "Text": "<b>Naku-Kraut</b>"
     },
     "101206": {
         "Icon": "UI_ItemIcon_101206",
-        "Text": "<b>Sea Ganoderma</b>"
+        "Text": "<b>Meereslackporling</b>"
     },
     "101207": {
         "Icon": "UI_ItemIcon_101207",
-        "Text": "<b>Sango Pearl</b>"
+        "Text": "<b>Sango-Perle</b>"
     },
     "101208": {
         "Icon": "UI_ItemIcon_101208",
-        "Text": "<b>Amakumo Fruit</b>"
+        "Text": "<b>Amakumo-Frucht</b>"
     },
     "101209": {
         "Icon": "UI_ItemIcon_101209",
-        "Text": "<b>Fluorescent Fungus</b>"
+        "Text": "<b>Leuchtpilz</b>"
     },
     "101213": {
         "Icon": "UI_ItemIcon_101213",
-        "Text": "<b>Rukkhashava Mushrooms</b>"
+        "Text": "<b>Rukkhashava-Pilz</b>"
     },
     "101214": {
         "Icon": "UI_ItemIcon_101214",
@@ -17291,43 +17291,43 @@ var _MaterialConfig = {
     },
     "101215": {
         "Icon": "UI_ItemIcon_101215",
-        "Text": "<b>Nilotpala Lotus</b>"
+        "Text": "<b>Nilotpala-Lotos</b>"
     },
     "101217": {
         "Icon": "UI_ItemIcon_101217",
-        "Text": "<b>Kalpalata Lotus</b>"
+        "Text": "<b>Kalpalata-Lotos</b>"
     },
     "101220": {
         "Icon": "UI_ItemIcon_101220",
-        "Text": "<b>Henna Berry</b>"
+        "Text": "<b>Hennabeere</b>"
     },
     "101222": {
         "Icon": "UI_ItemIcon_101222",
-        "Text": "<b>Sand Grease Pupa</b>"
+        "Text": "<b>Sandfettpuppe</b>"
     },
     "101223": {
         "Icon": "UI_ItemIcon_101223",
-        "Text": "<b>Mourning Flower</b>"
+        "Text": "<b>Trauerblume</b>"
     },
     "101225": {
         "Icon": "UI_ItemIcon_101225",
-        "Text": "<b>Scarab</b>"
+        "Text": "<b>Skarabäus</b>"
     },
     "101232": {
         "Icon": "UI_ItemIcon_101232",
-        "Text": "<b>Beryl Conch</b>"
+        "Text": "<b>Beryllmuschel</b>"
     },
     "101233": {
         "Icon": "UI_ItemIcon_101233",
-        "Text": "<b>Romaritime Flower</b>"
+        "Text": "<b>Romaritime-Blume</b>"
     },
     "101235": {
         "Icon": "UI_ItemIcon_101235",
-        "Text": "<b>Lumidouce Bell</b>"
+        "Text": "<b>Lumidouce-Glockenblume</b>"
     },
     "101236": {
         "Icon": "UI_ItemIcon_101236",
-        "Text": "<b>Rainbow Rose</b>"
+        "Text": "<b>Regenbogenrose</b>"
     },
     "101237": {
         "Icon": "UI_ItemIcon_101237",
@@ -17335,1204 +17335,1204 @@ var _MaterialConfig = {
     },
     "101238": {
         "Icon": "UI_ItemIcon_101238",
-        "Text": "<b>Lakelight Lily</b>"
+        "Text": "<b>Seeschimmer-Maiglöckchen</b>"
     },
     "101239": {
         "Icon": "UI_ItemIcon_101239",
-        "Text": "<b>Subdetection Unit</b>"
+        "Text": "<b>Subdetektionseinheit</b>"
     },
     "101240": {
         "Icon": "UI_ItemIcon_101240",
-        "Text": "<b>Spring of the First Dewdrop</b>"
+        "Text": "<b>Quelle des ersten Taus</b>"
     },
     "101241": {
         "Icon": "UI_ItemIcon_101241",
-        "Text": "<b>Clearwater Jade</b>"
+        "Text": "<b>Klarwasserjade</b>"
     },
     "104303": {
         "Icon": "UI_ItemIcon_104303",
-        "Text": "<b>Philosophies of Freedom</b><br>Mondstadt / Mon Thu Sun"
+        "Text": "<b>Philosophie der „Freiheit“</b><br>Mondstadt / Mon Thu Sun"
     },
     "104306": {
         "Icon": "UI_ItemIcon_104306",
-        "Text": "<b>Philosophies of Resistance</b><br>Mondstadt / Tue Fri Sun"
+        "Text": "<b>Philosophie des „Widerstands“</b><br>Mondstadt / Tue Fri Sun"
     },
     "104309": {
         "Icon": "UI_ItemIcon_104309",
-        "Text": "<b>Philosophies of Ballad</b><br>Mondstadt / Wed Sat Sun"
+        "Text": "<b>Philosophie der „Poesie“</b><br>Mondstadt / Wed Sat Sun"
     },
     "104312": {
         "Icon": "UI_ItemIcon_104312",
-        "Text": "<b>Philosophies of Prosperity</b><br>Liyue / Mon Thu Sun"
+        "Text": "<b>Philosophie des „Wohlstands“</b><br>Liyue / Mon Thu Sun"
     },
     "104315": {
         "Icon": "UI_ItemIcon_104315",
-        "Text": "<b>Philosophies of Diligence</b><br>Liyue / Tue Fri Sun"
+        "Text": "<b>Philosophie des „Fleißes“</b><br>Liyue / Tue Fri Sun"
     },
     "104318": {
         "Icon": "UI_ItemIcon_104318",
-        "Text": "<b>Philosophies of Gold</b><br>Liyue / Wed Sat Sun"
+        "Text": "<b>Philosophie des „Golds“</b><br>Liyue / Wed Sat Sun"
     },
     "104322": {
         "Icon": "UI_ItemIcon_104322",
-        "Text": "<b>Philosophies of Transience</b><br>Inazuma / Mon Thu Sun"
+        "Text": "<b>Philosophie der „Vergänglichkeit“</b><br>Inazuma / Mon Thu Sun"
     },
     "104325": {
         "Icon": "UI_ItemIcon_104325",
-        "Text": "<b>Philosophies of Elegance</b><br>Inazuma / Tue Fri Sun"
+        "Text": "<b>Philosophie der „Eleganz“</b><br>Inazuma / Tue Fri Sun"
     },
     "104328": {
         "Icon": "UI_ItemIcon_104328",
-        "Text": "<b>Philosophies of Light</b><br>Inazuma / Wed Sat Sun"
+        "Text": "<b>Philosophie des „Lichts“</b><br>Inazuma / Wed Sat Sun"
     },
     "104331": {
         "Icon": "UI_ItemIcon_104331",
-        "Text": "<b>Philosophies of Admonition</b><br>Sumeru / Mon Thu Sun"
+        "Text": "<b>Philosophie der „Ermahnung“</b><br>Sumeru / Mon Thu Sun"
     },
     "104334": {
         "Icon": "UI_ItemIcon_104334",
-        "Text": "<b>Philosophies of Ingenuity</b><br>Sumeru / Tue Fri Sun"
+        "Text": "<b>Philosophie der „Findigkeit“</b><br>Sumeru / Tue Fri Sun"
     },
     "104337": {
         "Icon": "UI_ItemIcon_104337",
-        "Text": "<b>Philosophies of Praxis</b><br>Sumeru / Wed Sat Sun"
+        "Text": "<b>Philosophie der „Praxis“</b><br>Sumeru / Wed Sat Sun"
     },
     "104340": {
         "Icon": "UI_ItemIcon_104340",
-        "Text": "<b>Philosophies of Equity</b><br>Fontaine / Mon Thu Sun"
+        "Text": "<b>Philosophie der „Fairness“</b><br>Fontaine / Mon Thu Sun"
     },
     "104343": {
         "Icon": "UI_ItemIcon_104343",
-        "Text": "<b>Philosophies of Justice</b><br>Fontaine / Tue Fri Sun"
+        "Text": "<b>Philosophie der „Gerechtigkeit“</b><br>Fontaine / Tue Fri Sun"
     },
     "104346": {
         "Icon": "UI_ItemIcon_104346",
-        "Text": "<b>Philosophies of Order</b><br>Fontaine / Wed Sat Sun"
+        "Text": "<b>Philosophie der „Ordnung“</b><br>Fontaine / Wed Sat Sun"
     },
     "113001": {
         "Icon": "UI_ItemIcon_113001",
-        "Text": "<b>Hurricane Seed</b>"
+        "Text": "<b>Orkansamen</b>"
     },
     "113002": {
         "Icon": "UI_ItemIcon_113002",
-        "Text": "<b>Lightning Prism</b>"
+        "Text": "<b>Blitzprisma</b>"
     },
     "113003": {
         "Icon": "UI_ItemIcon_113003",
-        "Text": "<b>Dvalin's Plume</b>"
+        "Text": "<b>Schwanzfeder des Ostwinds</b>"
     },
     "113004": {
         "Icon": "UI_ItemIcon_113004",
-        "Text": "<b>Dvalin's Claw</b>"
+        "Text": "<b>Klaue des Ostwinds</b>"
     },
     "113005": {
         "Icon": "UI_ItemIcon_113005",
-        "Text": "<b>Dvalin's Sigh</b>"
+        "Text": "<b>Atem des Ostwinds</b>"
     },
     "113006": {
         "Icon": "UI_ItemIcon_113006",
-        "Text": "<b>Tail of Boreas</b>"
+        "Text": "<b>Schwanz des Nordwinds</b>"
     },
     "113007": {
         "Icon": "UI_ItemIcon_113007",
-        "Text": "<b>Ring of Boreas</b>"
+        "Text": "<b>Ring des Nordwinds</b>"
     },
     "113008": {
         "Icon": "UI_ItemIcon_113008",
-        "Text": "<b>Spirit Locket of Boreas</b>"
+        "Text": "<b>Seele des Nordwinds</b>"
     },
     "113009": {
         "Icon": "UI_ItemIcon_113009",
-        "Text": "<b>Basalt Pillar</b>"
+        "Text": "<b>Steinturm</b>"
     },
     "113010": {
         "Icon": "UI_ItemIcon_113010",
-        "Text": "<b>Hoarfrost Core</b>"
+        "Text": "<b>Fluxeiskern</b>"
     },
     "113011": {
         "Icon": "UI_ItemIcon_113011",
-        "Text": "<b>Everflame Seed</b>"
+        "Text": "<b>Fluxfeuersamen</b>"
     },
     "113012": {
         "Icon": "UI_ItemIcon_113012",
-        "Text": "<b>Cleansing Heart</b>"
+        "Text": "<b>Reinigendes Herz</b>"
     },
     "113013": {
         "Icon": "UI_ItemIcon_113013",
-        "Text": "<b>Tusk of Monoceros Caeli</b>"
+        "Text": "<b>Hauer des Monoceros Caeli</b>"
     },
     "113014": {
         "Icon": "UI_ItemIcon_113014",
-        "Text": "<b>Shard of a Foul Legacy</b>"
+        "Text": "<b>Dämonengewand – Fragment</b>"
     },
     "113015": {
         "Icon": "UI_ItemIcon_113015",
-        "Text": "<b>Shadow of the Warrior</b>"
+        "Text": "<b>Seele des Kriegers – Schatten</b>"
     },
     "113016": {
         "Icon": "UI_ItemIcon_113016",
-        "Text": "<b>Juvenile Jade</b>"
+        "Text": "<b>Junge Jade</b>"
     },
     "113017": {
         "Icon": "UI_ItemIcon_113017",
-        "Text": "<b>Dragon Lord's Crown</b>"
+        "Text": "<b>Horn des Drachenkönigs</b>"
     },
     "113018": {
         "Icon": "UI_ItemIcon_113018",
-        "Text": "<b>Bloodjade Branch</b>"
+        "Text": "<b>Ast des Drachenbluts</b>"
     },
     "113019": {
         "Icon": "UI_ItemIcon_113019",
-        "Text": "<b>Gilded Scale</b>"
+        "Text": "<b>Schuppe der Vergoldung</b>"
     },
     "113020": {
         "Icon": "UI_ItemIcon_113020",
-        "Text": "<b>Crystalline Bloom</b>"
+        "Text": "<b>Ewige Eisblume</b>"
     },
     "113022": {
         "Icon": "UI_ItemIcon_113022",
-        "Text": "<b>Marionette Core</b>"
+        "Text": "<b>Marionettenkern</b>"
     },
     "113023": {
         "Icon": "UI_ItemIcon_113023",
-        "Text": "<b>Perpetual Heart</b>"
+        "Text": "<b>Ewiges Herz</b>"
     },
     "113024": {
         "Icon": "UI_ItemIcon_113024",
-        "Text": "<b>Smoldering Pearl</b>"
+        "Text": "<b>Schwelende Perle</b>"
     },
     "113025": {
         "Icon": "UI_ItemIcon_113025",
-        "Text": "<b>Molten Moment</b>"
+        "Text": "<b>Moment der Kernschmelze</b>"
     },
     "113026": {
         "Icon": "UI_ItemIcon_113026",
-        "Text": "<b>Hellfire Butterfly</b>"
+        "Text": "<b>Höllenfeuerfalter</b>"
     },
     "113027": {
         "Icon": "UI_ItemIcon_113027",
-        "Text": "<b>Ashen Heart</b>"
+        "Text": "<b>Ascheherz</b>"
     },
     "113028": {
         "Icon": "UI_ItemIcon_113028",
-        "Text": "<b>Dew of Repudiation</b>"
+        "Text": "<b>Tau der Abstoßung</b>"
     },
     "113029": {
         "Icon": "UI_ItemIcon_113029",
-        "Text": "<b>Storm Beads</b>"
+        "Text": "<b>Sturmperlen</b>"
     },
     "113030": {
         "Icon": "UI_ItemIcon_113030",
-        "Text": "<b>Riftborn Regalia</b>"
+        "Text": "<b>Gehörn des Wolfskönigs</b>"
     },
     "113031": {
         "Icon": "UI_ItemIcon_113031",
-        "Text": "<b>Dragonheir's False Fin</b>"
+        "Text": "<b>Falsche Flosse der Drachennachfahren</b>"
     },
     "113032": {
         "Icon": "UI_ItemIcon_113032",
-        "Text": "<b>Mudra of the Malefic General</b>"
+        "Text": "<b>Mudra des grimmigen Generals</b>"
     },
     "113033": {
         "Icon": "UI_ItemIcon_113033",
-        "Text": "<b>Tears of the Calamitous God</b>"
+        "Text": "<b>Tränen des unheilvollen Gottes</b>"
     },
     "113034": {
         "Icon": "UI_ItemIcon_113034",
-        "Text": "<b>The Meaning of Aeons</b>"
+        "Text": "<b>Sinn der Äonen</b>"
     },
     "113035": {
         "Icon": "UI_ItemIcon_113035",
-        "Text": "<b>Runic Fang</b>"
+        "Text": "<b>Runenzahn</b>"
     },
     "113036": {
         "Icon": "UI_ItemIcon_113036",
-        "Text": "<b>Majestic Hooked Beak</b>"
+        "Text": "<b>Hakenschnabel des Pilzkönigs</b>"
     },
     "113037": {
         "Icon": "UI_ItemIcon_113037",
-        "Text": "<b>Thunderclap Fruitcore</b>"
+        "Text": "<b>Donnerknall-Fruchtkern</b>"
     },
     "113038": {
         "Icon": "UI_ItemIcon_113038",
-        "Text": "<b>Perpetual Caliber</b>"
+        "Text": "<b>Ewiges Uhrwerk</b>"
     },
     "113039": {
         "Icon": "UI_ItemIcon_113039",
-        "Text": "<b>Light Guiding Tetrahedron</b>"
+        "Text": "<b>Lichtgesteuerter Tetraeder</b>"
     },
     "113040": {
         "Icon": "UI_ItemIcon_113040",
-        "Text": "<b>Quelled Creeper</b>"
+        "Text": "<b>Ranke der Auslöschung</b>"
     },
     "113041": {
         "Icon": "UI_ItemIcon_113041",
-        "Text": "<b>Puppet Strings</b>"
+        "Text": "<b>Puppenstränge</b>"
     },
     "113042": {
         "Icon": "UI_ItemIcon_113042",
-        "Text": "<b>Mirror of Mushin</b>"
+        "Text": "<b>Mushin-Abgrundspiegel</b>"
     },
     "113043": {
         "Icon": "UI_ItemIcon_113043",
-        "Text": "<b>Daka's Bell</b>"
+        "Text": "<b>Schelle der Leere</b>"
     },
     "113044": {
         "Icon": "UI_ItemIcon_113044",
-        "Text": "<b>Pseudo-Stamens</b>"
+        "Text": "<b>Smaragdstaubgefäß</b>"
     },
     "113045": {
         "Icon": "UI_ItemIcon_113045",
-        "Text": "<b>Evergloom Ring</b>"
+        "Text": "<b>Ring der ewigen Finsternis</b>"
     },
     "113046": {
         "Icon": "UI_ItemIcon_113046",
-        "Text": "<b>Worldspan Fern</b>"
+        "Text": "<b>Farn aus der Oase</b>"
     },
     "113047": {
         "Icon": "UI_ItemIcon_113047",
-        "Text": "<b>Primordial Greenbloom</b>"
+        "Text": "<b>Urblüte der ersten Oase</b>"
     },
     "113048": {
         "Icon": "UI_ItemIcon_113048",
-        "Text": "<b>Everamber</b>"
+        "Text": "<b>Permabernstein</b>"
     },
     "113049": {
         "Icon": "UI_ItemIcon_113049",
-        "Text": "<b>Artificed Spare Clockwork Component — Coppelia</b>"
+        "Text": "<b>Neuartiges Uhrwerk-Ersatzteil – Coppelia</b>"
     },
     "113050": {
         "Icon": "UI_ItemIcon_113050",
-        "Text": "<b>Artificed Spare Clockwork Component — Coppelius</b>"
+        "Text": "<b>Neuartiges Uhrwerk-Ersatzteil – Coppelius</b>"
     },
     "113051": {
         "Icon": "UI_ItemIcon_113051",
-        "Text": "<b>Emperor's Resolution</b>"
+        "Text": "<b>Des Kaisers Entschlossenheit</b>"
     },
     "113052": {
         "Icon": "UI_ItemIcon_113052",
-        "Text": "<b>\"Tourbillon Device\"</b>"
+        "Text": "<b>„Tourbillon-Apparat“</b>"
     },
     "113053": {
         "Icon": "UI_ItemIcon_113053",
-        "Text": "<b>Fontemer Unihorn</b>"
+        "Text": "<b>Fontemer-Horn</b>"
     },
     "113054": {
         "Icon": "UI_ItemIcon_113054",
-        "Text": "<b>Lightless Silk String</b>"
+        "Text": "<b>Aphotischer Seidenfaden</b>"
     },
     "113055": {
         "Icon": "UI_ItemIcon_113055",
-        "Text": "<b>Lightless Eye of the Maelstrom</b>"
+        "Text": "<b>Aphotisches Auge des Wirbels</b>"
     },
     "113056": {
         "Icon": "UI_ItemIcon_113056",
-        "Text": "<b>Lightless Mass</b>"
+        "Text": "<b>Aphotische Masse</b>"
     },
     "113057": {
         "Icon": "UI_ItemIcon_113057",
-        "Text": "<b>Water That Failed To Transcend</b>"
+        "Text": "<b>Nicht transzendiertes Wasser</b>"
     },
     "113058": {
         "Icon": "UI_ItemIcon_113058",
-        "Text": "<b>Cloudseam Scale</b>"
+        "Text": "<b>Wolkennaht-Schuppenpanzer</b>"
     }
 }
 
 var _WeaponAffixConfig = {
     "111301": {
         "Affix": [
-            "Увеличивает урон против врагов, находящихся под Гидро или Крио эффектом, на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> ."
+            "Erhöht den von Hydro- oder Kryo-Effekten betroffenen Gegnern zugefügten Schaden um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> ."
         ]
     },
     "111302": {
         "Affix": [
-            "Увеличивает шанс крит. попадания на <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>17,5%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24,5%</color> / <color style='color:#99FFFF;'>28%</color>  при HP выше 90%."
+            "Erhöht die KT bei mehr als 90 % LP um <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>17.5 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24.5 %</color> / <color style='color:#99FFFF;'>28 %</color> ."
         ]
     },
     "111303": {
         "Affix": [
-            "Подобранные элементальные сферы и частицы восстанавливают <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1,25%</color> / <color style='color:#99FFFF;'>1,5%</color> / <color style='color:#99FFFF;'>1,75%</color> / <color style='color:#99FFFF;'>2%</color>  HP."
+            "Stellt beim Erhalten von Elementarkristallen oder Elementarteilchen <color style='color:#99FFFF;'>1 %</color> / <color style='color:#99FFFF;'>1,25 %</color> / <color style='color:#99FFFF;'>1,5 %</color> / <color style='color:#99FFFF;'>1,75 %</color> / <color style='color:#99FFFF;'>2 %</color>  LP wieder her."
         ]
     },
     "111304": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  на 12 сек. при активации реакций Перегрузка, Сверхпроводник, Заряжен, Стимуляция, Обострение, Вегетация или Электро Рассеивание."
+            "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Supraleiter“, „Unter Strom“, „Urwuchs“, „Suprawuchs“, „Supraspross“ und „Elektro-Verwirbelung“ 12 s lang um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> ."
         ]
     },
     "111305": {
         "Affix": [
-            "При попадании с 50% вероятностью наносит <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> / <color style='color:#99FFFF;'>360%</color> / <color style='color:#99FFFF;'>400%</color>  урона одной цели. Может возникнуть раз в <color style='color:#99FFFF;'>15</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>13</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>11</color>  сек."
+            "Fügt einem einzelnen Gegner bei einem Treffer mit einer Wahrscheinlichkeit von 50 % Schaden in Höhe von <color style='color:#99FFFF;'>240 %</color> / <color style='color:#99FFFF;'>280 %</color> / <color style='color:#99FFFF;'>320 %</color> / <color style='color:#99FFFF;'>360 %</color> / <color style='color:#99FFFF;'>400 %</color>  ANG zu. <color style='color:#99FFFF;'>15</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>13</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>11</color>  s Abklingzeit."
         ]
     },
     "111306": {
         "Affix": [
-            "Активация взрыва стихии увеличивает силу атаки и скорость передвижения на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  в течение 15 сек."
+            "Erhöht den ANG und die Bewegungs-GSW nach Anwendung einer Spezialfähigkeit 15 s lang um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> ."
         ]
     },
     "111401": {
         "Affix": [
-            "Критические атаки имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать элементальные частицы, которые восстанавливают 6 ед. энергии. Возникает раз в <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>6</color>  сек."
+            "Erschafft bei einem KT mit einer Wahrscheinlichkeit von <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color> / <color style='color:#99FFFF;'>90 %</color> / <color style='color:#99FFFF;'>100 %</color>  einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>6</color>  s Abklingzeit."
         ]
     },
     "111402": {
         "Affix": [
-            "Попадания обычной или заряженной атакой дают музыкальную ноту. При накоплении 5 нот активируется сила музыки, которая наносит <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>150%</color> / <color style='color:#99FFFF;'>175%</color> / <color style='color:#99FFFF;'>200%</color>  урона окружающим врагам. Ноты исчезают через 30 сек. Новую ноту можно получить раз в 0,5 сек."
+            "Erzeugt bei Treffern mit Standardangriffen und heftigen Schlägen einen harmonischen Ton. Hast du insgesamt 5 harmonische Töne gesammelt, wird die Kraft der Klänge freigegeben und fügt den Gegnern in der Umgebung Schaden in Höhe von <color style='color:#99FFFF;'>100 %</color> / <color style='color:#99FFFF;'>125 %</color> / <color style='color:#99FFFF;'>150 %</color> / <color style='color:#99FFFF;'>175 %</color> / <color style='color:#99FFFF;'>200 %</color>  ANG zu. Harmonische Töne bestehen für 30 s. Erzeugt höchstens alle 0,5 s 1 harmonischen Ton."
         ]
     },
     "111403": {
         "Affix": [
-            "Когда элементальный навык наносит урон, есть <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  вероятность, что его откат моментально восстановится. Может возникнуть раз в <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color>  сек."
+            "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von <color style='color:#99FFFF;'>40 %</color> / <color style='color:#99FFFF;'>50 %</color> / <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color> , <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color>  s Abklingzeit."
         ]
     },
     "111404": {
         "Affix": [
-            "При нанесении урона противнику повышает шанс крит. попадания на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . Эффект может складываться до 5 раз. Добавочный шанс крит. попадания исчезает с первым крит. попаданием."
+            "Erhöht die KT beim Verursachen von Schaden um <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color> , 5-fach stapelbar. Effekt erlischt beim Verursachen eines KT."
         ]
     },
     "111405": {
         "Affix": [
-            "Увеличивает на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>36%</color>  урон против врагов, находящихся под действием Пиро или Электро элементов."
+            "Erhöht den von Pyro- oder Elektro-Effekten betroffenen Gegnern zugefügten Schaden um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color> / <color style='color:#99FFFF;'>36 %</color> ."
         ]
     },
     "111406": {
         "Affix": [
-            "Попадания обычной или заряженной атакой увеличивают силу атаки и защиту на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  в течение 6 сек. Эффект может складываться до 4 раз и возникает раз в 0,3 сек."
+            "Erhöht den ANG und die VTD bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um <color style='color:#99FFFF;'>4 %</color> / <color style='color:#99FFFF;'>5 %</color> / <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7 %</color> / <color style='color:#99FFFF;'>8 %</color> , 4-fach stapelbar. 0,3 s Abklingzeit."
         ]
     },
     "111407": {
         "Affix": [
-            "Нанесённый Элементальный урон увеличивает весь урон на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color>  на 6 сек. Может складываться до 2 раз. Может возникнуть раз в 1 сек."
+            "Erhöht den von dieser Figur verursachten Schaden nach Verursachen von Elementar-SCH 6 s lang um <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7,5 %</color> / <color style='color:#99FFFF;'>9 %</color> / <color style='color:#99FFFF;'>10,5 %</color> / <color style='color:#99FFFF;'>12 %</color> , 2-fach stapelbar. 1 s Abklingzeit."
         ]
     },
     "111408": {
         "Affix": [
-            "Побеждённые противники увеличивают силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Длится 30 сек. Эффект может складываться до 3 раз. Длительность добавочных эффектов друг от друга не зависит."
+            "Erhöht den ANG beim Besiegen von Gegnern 30 s lang um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> . 3-fach stapelbar, Wirkungsdauer jeder Stapelung ist unabhängig."
         ]
     },
     "111409": {
         "Affix": [
-            "Увеличивает урон обычной и заряженной атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . Крит. попадания обычной и заряженной атакой восстанавливают HP, равное <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  от силы атаки. Может возникнуть раз в 5 сек."
+            "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> . Stellt bei KT von Standardangriffen und heftigen Schlägen LP in Höhe von <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color> / <color style='color:#99FFFF;'>90 %</color> / <color style='color:#99FFFF;'>100 %</color>  ANG wieder her. 5 s Abklingzeit."
         ]
     },
     "111410": {
         "Affix": [
-            "Увеличивает урон персонажа на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . После получения урона эффект пропадает на 5 сек."
+            "Erhöht den von Figuren verursachten Schaden um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> . Dieser Schadensbonus erlischt beim Erleiden von Schaden 5 s lang."
         ]
     },
     "111412": {
         "Affix": [
-            " <color style='color:#99FFFF;'>Действует только для игроков</color> <br> <color style='color:#99FFFF;'>\"PlayStation Network\".</color> <br>Атакуя противников обычными и заряженными атаками, вы получаете <color style='color:#99FFFF;'>50%</color>  шанс нанести урон, равный <color style='color:#99FFFF;'>200%</color>  силы атаки в небольшом радиусе. Эффект может возникнуть 1 раз в 10 сек. Кроме того, если Путешественник экипирован Мечом нисхождения, его сила атаки увеличивается на <color style='color:#99FFFF;'>66</color>  единиц."
+            " <color style='color:#99FFFF;'>Nur für Spieler auf folgender Plattform wirksam:</color> <br> <color style='color:#99FFFF;'>„PlayStation Network“</color> <br>Verursacht beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von <color style='color:#99FFFF;'>50 %</color>  Schaden in Höhe von <color style='color:#99FFFF;'>200 %</color>  ANG mit geringer Reichweite. 10 s Abklingzeit. Erhöht den ANG zusätzlich um <color style='color:#99FFFF;'>66</color>  Punkte, wenn {F#die}{M#der} Reisende mit dem Schwert der Niederkunft ausgerüstet ist."
         ]
     },
     "111413": {
         "Affix": [
-            "Увеличивает урон элементального навыка на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> , и его шанс крит. попадания - на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color> ."
+            "Erhöht den mit Elementarfähigkeiten verursachten Schaden um <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color>  und die KT von Elementarfähigkeiten um <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7.5 %</color> / <color style='color:#99FFFF;'>9 %</color> / <color style='color:#99FFFF;'>10.5 %</color> / <color style='color:#99FFFF;'>12 %</color> ."
         ]
     },
     "111414": {
         "Affix": [
-            "После применения элементального навыка получает 1 семя наследия. Эффект может возникнуть 1 раз каждые 5 сек. Семя наследия действует в течение 30 сек. Одновременно может существовать до 3 семян наследия. После использования взрыва стихии все семена наследия расходуются, и через 2 сек. персонаж восстанавливает <color style='color:#99FFFF;'>6</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>12</color>  единиц элементальной энергии за каждое расходуемое семя."
+            "Gewährt beim Auslösen einer Elementarfähigkeit 1 Samen der Nachkommenschaft, 5 s Abklingzeit. Samen der Nachkommenschaft halten 30 s, zu einem Zeitpunkt können bis zu 3 existieren. Verbraucht beim Auslösen einer Spezialfähigkeit alle vorhandenen Samen der Nachkommenschaft und stellt der Figur 2 s später <color style='color:#99FFFF;'>6</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>12</color>  Punkte Elementarenergie pro verbrauchten Samen der Nachkommenschaft wieder her."
         ]
     },
     "111415": {
         "Affix": [
-            "Урон элементального навыка повышается на <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  от защиты. Эффект возникает раз в 1,5 сек. и исчезает через 0,1 сек. после нанесения урона врагу элементальным навыком."
+            "Erhöht den mit Elementarfähigkeiten verursachten Schaden um <color style='color:#99FFFF;'>40 %</color> / <color style='color:#99FFFF;'>50 %</color> / <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color>  VTD. Dieser Effekt erlischt 0,1 s nach dem Verursachen von Schaden mit der Elementarfähigkeit. 1,5 s Abklingzeit."
         ]
     },
     "111416": {
         "Affix": [
-            "Попадания обычной атакой, заряженной атакой или атакой в падении поднимают Секущий ветер, который наносит урон по площади, равный 180% от силы атаки, а также повышает силу атаки на 15% на 8 сек. Этот эффект может возникнуть раз в 8 сек."
+            "Wirbelt beim Treffen von Gegnern mit Standardangriffen, heftigen Schlägen oder Angriffen aus dem Fall einen dreschenden Wind auf, der Flächenschaden in Höhe von 180 % ANG verursacht und den ANG 8 s lang um 15 % erhöht. 8 s Abklingzeit."
         ]
     },
     "111417": {
         "Affix": [
-            "Активация статусов Горение, Стимуляция, Обострение, Разрастание, Бутонизация, Вегетация и Цветение создают рядом с персонажем Семя сознания, которое существует 10 сек. Мастерство стихий подобравшего его персонажа повышается на <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>75</color> / <color style='color:#99FFFF;'>90</color> / <color style='color:#99FFFF;'>105</color> / <color style='color:#99FFFF;'>120</color>  ед. на 12 сек. Семя сознания может возникнуть раз в 20 сек. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя. Эффект Семени сознания не суммируется."
+            "Erzeugt nach dem Auslösen der Reaktionen wie „In Flammen“, „Urwuchs“, „Suprawuchs“, „Rankenwuchs“, „Sprießen“, „Supraspross“ oder „Flammenspross“ in der Umgebung der Figur ein Vijnana-Blatt, das höchstens 10 s lang bestehen bleibt. Erhöht 12 s lang die Elementarkunde der Figur, die das Blatt sammelt, um <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>75</color> / <color style='color:#99FFFF;'>90</color> / <color style='color:#99FFFF;'>105</color> / <color style='color:#99FFFF;'>120</color>  Punkte. Auf diese Weise kann alle 20 s nur ein Vijnana-Blatt erzeugt werden. Dieser Effekt tritt auch in Kraft, wenn sich die Figur inaktiv in der Truppe befindet. Der Effekt von Vijnana-Blatt ist nicht stapelbar."
         ]
     },
     "111418": {
         "Affix": [
-            "Каждые 10 сек. срабатывает следующий эффект: восстановление энергии экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>0,036%</color> / <color style='color:#99FFFF;'>0,045%</color> / <color style='color:#99FFFF;'>0,054%</color> / <color style='color:#99FFFF;'>0,063%</color> / <color style='color:#99FFFF;'>0,072%</color>  за каждую единицу собственного мастерства стихий на 12 сек. Члены отряда поблизости получают 30% этого эффекта. Если этим оружием обладают и другие члены отряда, эффект суммируется. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя."
+            "Löst alle 10 s den folgenden Effekt aus, der 12 s hält: Erhöht die Aufladerate der damit ausgerüsteten Figur um <color style='color:#99FFFF;'>0,036 %</color> / <color style='color:#99FFFF;'>0,045 %</color> / <color style='color:#99FFFF;'>0,054 %</color> / <color style='color:#99FFFF;'>0,063 %</color> / <color style='color:#99FFFF;'>0,072 %</color>  für jeden Punkt der Elementarkunde, die sie besitzt. Verleiht zugleich den anderen Truppenmitgliedern in der Nähe 30 % dieses Bonus. Der Effekt mehrerer gleicher Waffen ist stapelbar. Er tritt auch in Kraft, wenn sich die Figur inaktiv in der Truppe befindet."
         ]
     },
     "111419": {
         "Affix": [
-            "Попадания обычной атакой, заряженной атакой или атакой в падении выпускают Проклятого духа, нанося урон по площади, равный 180% от силы атаки, а также восстанавливают HP, равное 100% от силы атаки. Этот эффект может возникнуть раз в 8 сек. Экипированный этим оружием персонаж наносит на 50% меньше урона."
+            "Entfesselt beim Treffen von Gegnern mit Standardangriffen, heftigen Schlägen oder Angriffen aus dem Fall einen bösen Geist, der Flächenschaden in Höhe von 180 % ANG verursacht. Stellt dabei LP in Höhe von 100 % ANG wieder her. 8 s Abklingzeit. Verringert den von der mit dieser Waffe ausgerüsteten Figur verursachten Schaden um 50 %."
         ]
     },
     "111420": {
         "Affix": [
-            "Попадания обычной атакой, заряженной атакой или атакой в падении выпускают Проклятого духа, нанося урон по площади, равный 180% от силы атаки. Этот эффект может возникнуть раз в 8 сек. Экипированный этим оружием персонаж наносит на 50% меньше урона."
+            "Entfesselt beim Treffen von Gegnern mit Standardangriffen, heftigen Schlägen oder Angriffen aus dem Fall einen bösen Geist, der Flächenschaden in Höhe von 180 % ANG verursacht. 8 s Abklingzeit. Verringert den von der mit dieser Waffe ausgerüsteten Figur verursachten Schaden um 50 %."
         ]
     },
     "111421": {
         "Affix": [
-            "Попадания обычной атакой, заряженной атакой или атакой в падении выпускают Проклятого духа, нанося урон по площади, равный 180% от силы атаки, а также восстанавливают HP, равное 100% от силы атаки. Этот эффект может возникнуть раз в 8 сек. Экипированный этим оружием персонаж наносит на 50% меньше урона."
+            "Entfesselt beim Treffen von Gegnern mit Standardangriffen, heftigen Schlägen oder Angriffen aus dem Fall einen bösen Geist, der Flächenschaden in Höhe von 180 % ANG verursacht. Stellt dabei LP in Höhe von 100 % ANG wieder her. 8 s Abklingzeit. Verringert den von der mit dieser Waffe ausgerüsteten Figur verursachten Schaden um 50 %."
         ]
     },
     "111422": {
         "Affix": [
-            "При попадании по противникам на 10 сек. накладывает на одного из них Проклятый зонт. Этот эффект может возникнуть один раз в 15 сек. Если поражённый Проклятым зонтом противник погибнет до его окончания, откат эффекта немедленно обновится. Урон, который наносит экипированный этим оружием персонаж поражённым Проклятым зонтом противникам, увеличивается на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> ."
+            "Nach Treffen von Gegnern mit einem Angriff wird einer der Gegner vom Effekt „Verwünschung des Papierschirms“ betroffen, hält 10 s, 15 s Abklingzeit. Wird der von diesem Effekt betroffene Gegner während der Dauer des Effekts besiegt, wird die Abklingzeit sofort abgeschlossen. Erhöht den von der damit ausgerüsteten Figur an Gegnern, die von „Verwünschung des Papierschirms“ betroffen sind, verursachten Schaden um <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color> ."
         ]
     },
     "111424": {
         "Affix": [
-            "Увеличивает урон элементального навыка и взрыва стихии на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> . Когда элементальный навык попадает по врагу, шанс крит. попадания элементального навыка увеличивается на <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2,5%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3,5%</color> / <color style='color:#99FFFF;'>4%</color> . Когда взрыв стихии попадает по врагу, шанс крит. попадания взрыва стихии увеличивается на <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2,5%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3,5%</color> / <color style='color:#99FFFF;'>4%</color> . Эффекты действуют независимо друг от друга. Каждый из эффектов длится 10 сек., складывается до 4 раз и может возникнуть один раз в 0,1 сек."
+            "Erhöht den mit Elementarfähigkeiten und Spezialfähigkeiten verursachten Schaden um <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color> . Erhöht beim Treffen von Gegnern mit Elementarfähigkeiten die KT von Elementarfähigkeiten um <color style='color:#99FFFF;'>2 %</color> / <color style='color:#99FFFF;'>2,5 %</color> / <color style='color:#99FFFF;'>3 %</color> / <color style='color:#99FFFF;'>3,5 %</color> / <color style='color:#99FFFF;'>4 %</color> ; erhöht beim Treffen von Gegnern mit Spezialfähigkeiten die KT von Spezialfähigkeiten um <color style='color:#99FFFF;'>2 %</color> / <color style='color:#99FFFF;'>2,5 %</color> / <color style='color:#99FFFF;'>3 %</color> / <color style='color:#99FFFF;'>3,5 %</color> / <color style='color:#99FFFF;'>4 %</color> . Die beiden oben erwähnten Effekte halten jeweils 10 s. 4-fach stapelbar, 0,1 s Abklingzeit."
         ]
     },
     "111425": {
         "Affix": [
-            "Активация элементального навыка повышает силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  на 15 сек. и накладывает Долг жизни, равный 25% от макс. HP. Эффект может возникнуть один раз в 10 сек. Когда Долг жизни снимается, сила атаки повышается на <color style='color:#99FFFF;'>2,4%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3,6%</color> / <color style='color:#99FFFF;'>4,2%</color> / <color style='color:#99FFFF;'>4,8%</color>  от отданного значения Долга жизни (макс. <color style='color:#99FFFF;'>150</color> / <color style='color:#99FFFF;'>187,5</color> / <color style='color:#99FFFF;'>225</color> / <color style='color:#99FFFF;'>262,5</color> / <color style='color:#99FFFF;'>300</color>  ед.) на 15 сек."
+            "Erhöht beim Auslösen der Elementarfähigkeit den ANG um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> , hält 15 s. Es entsteht gleichzeitig ein Eid des Lebens mit einem Basiswert in Höhe von 25 % der max. LP. 10 s Abklingzeit. Wenn der Eid des Lebens entfernt wird, wird der ANG um <color style='color:#99FFFF;'>2,4 %</color> / <color style='color:#99FFFF;'>3 %</color> / <color style='color:#99FFFF;'>3,6 %</color> / <color style='color:#99FFFF;'>4,2 %</color> / <color style='color:#99FFFF;'>4,8 %</color>  der entfernten Summe, max. <color style='color:#99FFFF;'>150</color> / <color style='color:#99FFFF;'>187,5</color> / <color style='color:#99FFFF;'>225</color> / <color style='color:#99FFFF;'>262,5</color> / <color style='color:#99FFFF;'>300</color>  Punkte, erhöht. Hält 15 s."
         ]
     },
     "111426": {
         "Affix": [
-            "Увеличивает шанс крит. попадания элементального навыка на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . Кроме того, после применения элементального навыка восстановление энергии повышается на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  на 5 сек."
+            "Erhöht die KT der Elementarfähigkeit um <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color> . Erhöht außerdem die Aufladerate nach dem Auslösen der Elementarfähigkeit 5 s lang um <color style='color:#99FFFF;'>16 %.</color> / <color style='color:#99FFFF;'>20 %.</color> / <color style='color:#99FFFF;'>24 %.</color> / <color style='color:#99FFFF;'>28 %.</color> / <color style='color:#99FFFF;'>32 %.</color> "
         ]
     },
     "111427": {
         "Affix": [
-            "Когда экипированный персонаж лечит или получает лечение, он на 30 сек. наделяется Символом стойкости. Всего можно получить до 3 Символов. При активации элементального навыка или взрыва стихии все Символы расходуются и на 10 сек. создаётся эффект Воодушевления: за каждый израсходованный Символ мастерство стихий повышается на <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color>  ед., а через 2 сек. после активации эффекта каждый израсходованный Символ восстанавливает <color style='color:#99FFFF;'>2</color> / <color style='color:#99FFFF;'>2,5</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3,5</color> / <color style='color:#99FFFF;'>4</color>  ед. энергии. Эффект Воодушевления может возникнуть один раз в 15 сек. Персонаж получает Символы стойкости, даже если он не на поле боя."
+            "Verleiht der Figur bei erhaltener Heilung, oder wenn sie jemanden heilt, ein Zeichen der Beharrlichkeit, hält 30 s. Es können max. bis zu 3 Zeichen der Beharrlichkeit vorhanden sein. Verbraucht beim Auslösen der Elementarfähigkeit oder der Spezialfähigkeit alle Zeichen der Beharrlichkeit und löst den Effekt „Erhabenheit“ aus, der 10 s hält: Jedes verbrauchte Zeichen der Beharrlichkeit erhöht die Elementarkunde um <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color>  Punkte. Außerdem stellt jedes verbrauchte Zeichen dem Träger 2 s nach Auslösen des Effekts <color style='color:#99FFFF;'>2</color> / <color style='color:#99FFFF;'>2,5</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3,5</color> / <color style='color:#99FFFF;'>4</color>  Punkte Elementarenergie wieder her. 15 s Abklingzeit für den Effekt „Erhabenheit“. Zeichen der Beharrlichkeit können auch erhalten werden, wenn die Figur inaktiv in der Truppe ist."
         ]
     },
     "111428": {
         "Affix": [
-            "Если у экипированного персонажа нет архэ, при попадании обычной атакой, заряженной атакой или атакой в падении происходит энергетический взрыв пневмы или усии, который наносит урон в <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color>  силы атаки. Эффект может возникнуть один раз в 12 сек. Тип энергетического взрыва зависит от текущего типа Меча Нарциссенкрейца."
+            "Wenn der Träger keine Arkhe-Energiesignatur aufweist: Löst beim Treffen mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall einen Pneuma- oder Ousia-Energiestoß aus, dessen Schaden in Höhe von <color style='color:#99FFFF;'>160 %</color> / <color style='color:#99FFFF;'>200 %</color> / <color style='color:#99FFFF;'>240 %</color> / <color style='color:#99FFFF;'>280 %</color> / <color style='color:#99FFFF;'>320 %</color>  ANG verursacht, 12 s Abklingzeit. Die Arkhe-Energiesignatur des Energiestoßes wird durch die aktuelle Eigenschaft des Schwertes des Narzissenkreuzes bestimmt."
         ]
     },
     "111429": {
         "Affix": [
-            "В бесчисленных историях этот подобающий герою меч также является ключом ко всем вратам на пути через кульминацию к финалу судьбы."
+            "In zahllosen Geschichten ist diese Waffe, die dem legendären Helden gehört, auch der Schlüssel, um alle Tore zu öffnen, die nötig sind, um den Höhepunkt zu überwinden und das Ende des Schicksals zu erreichen."
         ]
     },
     "111501": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . При получении урона пробуждается душа Сокола Запада, несущего знамя сопротивления. Восстанавливает HP, равное <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>115%</color> / <color style='color:#99FFFF;'>130%</color> / <color style='color:#99FFFF;'>145%</color> / <color style='color:#99FFFF;'>160%</color>  от силы атаки, и наносит <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>230%</color> / <color style='color:#99FFFF;'>260%</color> / <color style='color:#99FFFF;'>290%</color> / <color style='color:#99FFFF;'>320%</color>  урона окружающим врагам. Может возникнуть раз в 15 сек."
+            "Erhöht den ANG um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> . Effekt beim Erleiden von Schaden: Die Seele des Falken des Westens erwacht und erhebt die Fahne des Widerstands. Stellt LP in Höhe von <color style='color:#99FFFF;'>100 %</color> / <color style='color:#99FFFF;'>115 %</color> / <color style='color:#99FFFF;'>130 %</color> / <color style='color:#99FFFF;'>145 %</color> / <color style='color:#99FFFF;'>160 %</color>  ANG wieder her und fügt Gegnern in der Umgebung Schaden in Höhe von <color style='color:#99FFFF;'>200 %</color> / <color style='color:#99FFFF;'>230 %</color> / <color style='color:#99FFFF;'>260 %</color> / <color style='color:#99FFFF;'>290 %</color> / <color style='color:#99FFFF;'>320 %</color>  ANG zu. 15 s Abklingzeit."
         ]
     },
     "111502": {
         "Affix": [
-            "Увеличивает шанс крит. попадания на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> . Взрыв стихии пробуждает силу небес, которая увеличивает скорость передвижения и атаки на <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> , а обычные и заряженные атаки при попадании наносят дополнительный урон, равный <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  от силы атаки. Все эффекты длятся 12 сек."
+            "Erhöht die KT um <color style='color:#99FFFF;'>4 %</color> / <color style='color:#99FFFF;'>5 %</color> / <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7 %</color> / <color style='color:#99FFFF;'>8 %</color> . Aktiviert bei Anwendung von Spezialfähigkeiten Himmelsbohrer: Erhöht die Bewegungs-GSW um <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>10 %</color>  und die Angriffs-GSW um <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>10 %</color> , verursacht bei Treffern mit Standardangriffen und heftigen Schlägen zusätzlichen Schaden in Höhe von <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color>  ANG, hält 12 s."
         ]
     },
     "111503": {
         "Affix": [
-            "Часть Тысячелетней симфонии, что блуждает среди ветров. Увеличивает наносимый урон на <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12,5%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>17,5%</color> / <color style='color:#99FFFF;'>20%</color> . Вызов элементальной реакции даёт персонажу один Талисман воодушевления. Он может возникнуть раз в 0,5 сек., даже когда персонаж в отряде, но не активен. Два собранных Талисмана воодушевления пропадают, на 12 сек. наделяя ближайших членов отряда эффектом «Тысячелетняя симфония: Гимн восстания», который увеличивает урон, наносимый обычной атакой, заряженной атакой и атакой в падении, на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> , а силу атаки - на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . В течение 20 сек. после активации эффекта Талисманы воодушевления появляться не будут. Тысячелетняя симфония с эффектами, влияющими на те же навыки, не складывается."
+            "Ein Teil der „Bewegung des Jahrtausends“, die mit dem Wind zieht. Erhöht den verursachten Schaden um <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12,5 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>17,5 %</color> / <color style='color:#99FFFF;'>20 %</color> . Gibt der damit ausgerüsteten Figur beim Auslösen von Elementarreaktionen ein Zeichen der Revolte, 0,5 s Abklingzeit. Der Effekt bleibt auch bestehen, wenn die Figur ausgewechselt wird. Verbraucht alle Zeichen der Revolte, sobald 2 davon vorhanden sind, und verleiht allen Truppenmitgliedern in der Nähe den 12 s anhaltenden Effekt von „Bewegung des Jahrtausends – Lied der Revolution“: Erhöht den mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden um <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color>  und den ANG um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> . Nach Auslösen dieses Effekts kann 20 s lang kein weiteres Zeichen der Revolte erhalten werden. Die verschiedenen durch „Bewegung des Jahrtausends“ ausgelösten Boni können bei gleicher Art nicht gestapelt werden."
         ]
     },
     "111504": {
         "Affix": [
-            "Увеличивает прочность щита на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . При попадании увеличивает силу атаки на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  в течение 8 сек. Эффект может складываться до 5 раз и возникнуть раз в 0,3 сек. Кроме того, под защитой щита бонус силы атаки данного эффекта увеличивается на 100%."
+            "Erhöht die Schildeffizienz um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> . Erhöht den ANG nach Treffern 8 s lang um <color style='color:#99FFFF;'>4 %</color> / <color style='color:#99FFFF;'>5 %</color> / <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7 %</color> / <color style='color:#99FFFF;'>8 %</color> . 5-fach stapelbar, 0,3 s Abklingzeit. Erhöht die Wirksamkeit der Erhöhung des ANG außerdem im Schutz von Schilden um 100 %."
         ]
     },
     "111505": {
         "Affix": [
-            "Увеличивает HP на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . Также даёт бонус атаки, равный <color style='color:#99FFFF;'>1,2%</color> / <color style='color:#99FFFF;'>1,5%</color> / <color style='color:#99FFFF;'>1,8%</color> / <color style='color:#99FFFF;'>2,1%</color> / <color style='color:#99FFFF;'>2,4%</color>  от макс. HP экипированного этим оружием персонажа."
+            "Erhöht die LP um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> . Erhöht den ANG um <color style='color:#99FFFF;'>1,2 %</color> / <color style='color:#99FFFF;'>1,5 %</color> / <color style='color:#99FFFF;'>1,8 %</color> / <color style='color:#99FFFF;'>2,1 %</color> / <color style='color:#99FFFF;'>2,4 %</color>  der max. LP der mit dieser Waffe ausgerüsteten Figur."
         ]
     },
     "111509": {
         "Affix": [
-            "Все типы элементального урона получают <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  бонуса урона, а также силу Эмблемы рассекателя тумана. На уровнях эмблемы 1, 2 или 3 персонаж получает <color style='color:#99FFFF;'>8%, 16% или 28%</color> / <color style='color:#99FFFF;'>10%, 20% или 35%</color> / <color style='color:#99FFFF;'>12%, 24% или 42%</color> / <color style='color:#99FFFF;'>14%, 28% или 49%</color> / <color style='color:#99FFFF;'>16%, 32% или 56%</color>  бонуса к элементальному урону своей стихии соответственно. Персонаж получает 1 уровень Эмблемы рассекателя тумана в каждом из следующих случаев: при нанесении элементального урона обычной атакой, эмблема действует 5 сек.; при применении взрыва стихии, эмблема действует 10 сек.; когда элементальная энергия персонажа ниже 100%, полученная таким образом эмблема действует до тех пор, пока персонаж не восстановит всю свою элементальную энергию. Продолжительность действия каждой эмблема рассчитывается индивидуально."
+            "Erhöht den Elementar-SCH aller Elemente um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color>  und verleiht die Kraft des „Nebelspaltersiegels“: Erhöht den Elementar-SCH des eigenen Elements bei 1/2/3 Stapelungen um jeweils <color style='color:#99FFFF;'>8/16/28 %</color> / <color style='color:#99FFFF;'>10/20/35 %</color> / <color style='color:#99FFFF;'>12/24/42 %</color> / <color style='color:#99FFFF;'>14/28/49 %</color> / <color style='color:#99FFFF;'>16/32/56 %</color> . Verleiht der Figur in folgenden Situationen je 1 Nebelspaltersiegel: Verursachen von Elementar-SCH mit Standardangriffen, hält 5 s; Anwendung von Spezialfähigkeiten, hält 10 s; Elementarenergie der Figur unter 100 %, verschwindet bei voller Elementarenergie. Wirkungsdauer jeder Stapelung Nebelspaltersiegel ist unabhängig."
         ]
     },
     "111510": {
         "Affix": [
-            "Даёт <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  бонус урона всеми элементами. Когда другие члены отряда поблизости активируют элементальные навыки, экипированный этим оружием персонаж получает 1 уровень Волны-шипа. Эффект возникает не чаще, чем один раз в 0,3 сек. Всего можно получить не более 2 уровней. Когда персонаж с этим оружием применяет элементальный навык, все уровни Волны-шипа тратятся, и он получает Хаос волн, который повышает урон обычной атаки согласно количеству уровней. Каждый уровень этого эффекта повышает урон обычной атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  в течение 8 сек."
+            "Erhöht den Schaden aller Elemente um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> . Verleiht der mit dieser Waffe ausgerüsteten Figur bei Anwendung von Elementarfähigkeiten anderer Truppenmitglieder in der Nähe 1 Stapelung des Effekts „Wellenähre“, 2-fach stapelbar, 0,3 s Abklingzeit. Verbraucht bei der Anwendung der Elementarfähigkeit der mit dieser Waffe ausgerüsteten Figur den gesamten Effekt „Wellenähre“, sofern dieser Effekt vorhanden ist, und erhält den Effekt „Wogenprall“: Erhöht den mit Standardangriffen verursachten Schaden pro verbrauchte Stapelung 8 s lang um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> ."
         ]
     },
     "111511": {
         "Affix": [
-            "Увеличивает НР на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . Попадание элементальным навыком на 20 сек. создаёт Великое сказание, которое повышает мастерство стихий экипированного этим оружием персонажа на <color style='color:#99FFFF;'>0,12%</color> / <color style='color:#99FFFF;'>0,15%</color> / <color style='color:#99FFFF;'>0,18%</color> / <color style='color:#99FFFF;'>0,21%</color> / <color style='color:#99FFFF;'>0,24%</color>  от его макс. HP. Эффект может возникнуть не чаще 1 раза в 0,3 сек. и складывается до 3 раз. После получения 3 уровней или обновления длительности 3 уровня мастерство стихий всех персонажей поблизости увеличится на <color style='color:#99FFFF;'>0,2%</color> / <color style='color:#99FFFF;'>0,25%</color> / <color style='color:#99FFFF;'>0,3%</color> / <color style='color:#99FFFF;'>0,35%</color> / <color style='color:#99FFFF;'>0,4%</color>  от макс. HP экипированного этим оружием персонажа на 20 сек."
+            "Erhöht die LP um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> . Löst nach dem Treffen von Gegnern mit der Elementarfähigkeit den Effekt „Grandiose Verse“ aus, der 20 s hält: Erhöht die Elementarkunde der damit ausgerüsteten Figur um <color style='color:#99FFFF;'>0,12 %</color> / <color style='color:#99FFFF;'>0,15 %</color> / <color style='color:#99FFFF;'>0,18 %</color> / <color style='color:#99FFFF;'>0,21 %</color> / <color style='color:#99FFFF;'>0,24 %</color>  ihrer max. LP, 0,3 s Abklingzeit, 3-fach stapelbar. Erhöht bei 3 Stapelungen oder der Aktualisierung der Wirkungsdauer der dritten Stapelung die Elementarkunde aller Truppenmitglieder in der Nähe um <color style='color:#99FFFF;'>0,2 %</color> / <color style='color:#99FFFF;'>0,25 %</color> / <color style='color:#99FFFF;'>0,3 %</color> / <color style='color:#99FFFF;'>0,35 %</color> / <color style='color:#99FFFF;'>0,4 %</color>  der max. LP der damit ausgerüsteten Figur, hält 20 s."
         ]
     },
     "111512": {
         "Affix": [
-            "Шанс крит. попадания увеличивается на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> . Когда обычная атака наносит элементальный урон, она даёт эффект Лиственного выреза: урон обычных атак и элементальных навыков повышается на <color style='color:#99FFFF;'>120%</color> / <color style='color:#99FFFF;'>150%</color> / <color style='color:#99FFFF;'>180%</color> / <color style='color:#99FFFF;'>210%</color> / <color style='color:#99FFFF;'>240%</color>  от мастерства стихий. После 28 активаций или через 12 сек. эффект исчезнет. Лиственный вырез можно получить не чаще одного раза в 12 сек."
+            "Erhöht die KT um <color style='color:#99FFFF;'>4 %</color> / <color style='color:#99FFFF;'>5 %</color> / <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7 %</color> / <color style='color:#99FFFF;'>8 %</color> . Erhält, nachdem durch Standardangriffe Elementar-Schaden verursacht wurde, den Effekt „Blattschneider“: Erhöht den von Standardangriffen und Elementarfähigkeit verursachten Schaden um <color style='color:#99FFFF;'>120 %</color> / <color style='color:#99FFFF;'>150 %</color> / <color style='color:#99FFFF;'>180 %</color> / <color style='color:#99FFFF;'>210 %</color> / <color style='color:#99FFFF;'>240 %</color>  der Elementarkunde. Dieser Effekt verschwindet nach 12 s oder nach 28 Auslösungen des Bonus. 12 s Abklingzeit auf das Erhalten des Effekts „Blattschneider“."
         ]
     },
     "111513": {
         "Affix": [
-            "Когда текущее HP экипированного персонажа увеличивается или снижается, наносимый урон элементального навыка повышается на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  на 6 сек. Эффект возникает не чаще 1 раза в 0,2 сек. и складывается до 3 раз. Когда текущее HP других членов отряда увеличивается или снижается, макс. HP экипированного персонажа повышается на <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>17,5%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24,5%</color> / <color style='color:#99FFFF;'>28%</color>  на 6 сек. Эффект возникает не чаще 1 раза в 0,2 сек. и складывается до 2 раз. Эффект срабатывает, даже когда экипированный персонаж находится вне поле боя."
+            "Erhöht, wenn die aktuellen LP des Trägers steigen oder sinken, den durch die Elementarfähigkeit verursachten Schaden 6 s lang um <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color> , 3-fach stapelbar, 0,2 s Abklingzeit. Erhöht, wenn die aktuellen LP anderer Truppenmitglieder steigen oder sinken, die max. LP des Trägers 6 s lang um <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>17,5 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24,5 %</color> / <color style='color:#99FFFF;'>28 %</color> , 2-fach stapelbar, 0,2 s Abklingzeit. Dieser Effekt kann auch noch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv in der Truppe ist."
         ]
     },
     "111514": {
         "Affix": [
-            "Урон обычной атаки увеличивается на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> , элементального навыка - на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> . После того как активный персонаж поблизости наносит Гео урон, эти эффекты дополнительно увеличиваются на 100% на 15 сек. Кроме того, защита экипированного персонажа повышается на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> ."
+            "Erhöht den mit Standardangriffen verursachten Schaden um <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color>  und den mit Elementarfähigkeiten verursachten Schaden um <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>36 %</color> / <color style='color:#99FFFF;'>42 %</color> / <color style='color:#99FFFF;'>48 %</color> . Erhöht diesen Effekt um 100 %, wenn Truppenmitglieder in der Nähe Geo-Schaden auf dem Feld verursachen, hält 15 s. Erhöht außerdem die VTD des Trägers um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> ."
         ]
     },
     "112301": {
         "Affix": [
-            "При HP ниже <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>75%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>85%</color> / <color style='color:#99FFFF;'>90%</color>  врагу становится труднее прервать заряженную атаку. Также увеличивает урон заряженной атаки на <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>45%</color> / <color style='color:#99FFFF;'>50%</color> ."
+            "Ein heftiger Schlag wird bei weniger als <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>75 %</color> / <color style='color:#99FFFF;'>80 %</color> / <color style='color:#99FFFF;'>85 %</color> / <color style='color:#99FFFF;'>90 %</color>  LP nicht so leicht abgewehrt. Erhöht den Schaden heftiger Schläge dabei um <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> / <color style='color:#99FFFF;'>45 %</color> / <color style='color:#99FFFF;'>50 %</color> ."
         ]
     },
     "112302": {
         "Affix": [
-            "Увеличивает на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  урон против врагов, находящихся под действием Пиро или Электро элементов."
+            "Erhöht den von Pyro- oder Elektro-Effekten betroffenen Gegnern zugefügten Schaden um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> ."
         ]
     },
     "112303": {
         "Affix": [
-            "Победа над противником восстанавливает <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  HP."
+            "Stellt beim Besiegen eines Gegners <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color>  LP wieder her."
         ]
     },
     "112304": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  на 12 сек. при активации реакций Перегрузка, Таяние, Горение, Пар, Цветение или Пиро Рассеивание."
+            "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Schmelzen“, „In Flammen“, „Verdampfen“, „Flammenspross“ und „Pyro-Verwirbelung“ 12 s lang um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> ."
         ]
     },
     "112305": {
         "Affix": [
-            "При попадании Элементальным навыком Обычные и Заряженные атаки наносят дополнительные <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>75%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>105%</color> / <color style='color:#99FFFF;'>120%</color>  урона по небольшой площади в течение 15 сек. Может возникнуть раз в 3 сек."
+            "Verursacht bei Treffern mit Standardangriffen und heftigen Schlägen nach Anwendung einer Elementarfähigkeit 15 s lang zusätzlichen Schaden in Höhe von <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>75 %</color> / <color style='color:#99FFFF;'>90 %</color> / <color style='color:#99FFFF;'>105 %</color> / <color style='color:#99FFFF;'>120 %</color>  ANG mit geringer Reichweite. 3 s Abklingzeit für Schaden."
         ]
     },
     "112306": {
         "Affix": [
-            "При попадании обычной или заряженной атакой сила атаки увеличивается на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10%</color>  в течение 6 сек. Эффект может складываться до 4 раз. Может возникнуть раз в 0,5 сек."
+            "Erhöht den ANG bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7 %</color> / <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>9 %</color> / <color style='color:#99FFFF;'>10 %</color> , 4-fach stapelbar. 0,5 s Abklingzeit."
         ]
     },
     "112401": {
         "Affix": [
-            "Критические атаки имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать элементальные частицы, которые восстанавливают 6 ед. энергии. Возникает раз в <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>6</color>  сек."
+            "Erschafft bei einem KT mit einer Wahrscheinlichkeit von <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color> / <color style='color:#99FFFF;'>90 %</color> / <color style='color:#99FFFF;'>100 %</color>  einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>6</color>  s Abklingzeit."
         ]
     },
     "112402": {
         "Affix": [
-            "При получении урона генерируется щит, который в течение 10 сек. поглощает урон, равный <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>23%</color> / <color style='color:#99FFFF;'>26%</color> / <color style='color:#99FFFF;'>29%</color> / <color style='color:#99FFFF;'>32%</color>  от макс. HP. Может возникнуть раз в <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color>  сек. Под защитой щита увеличивает урон персонажа на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> ."
+            "Erstellt beim Erleiden von Schaden einen Schutzschild mit einer Stärke von <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>23 %</color> / <color style='color:#99FFFF;'>26 %</color> / <color style='color:#99FFFF;'>29 %</color> / <color style='color:#99FFFF;'>32 %</color>  der max. LP. Hält solange, bis die Schadensmenge erreicht ist, aber max. 10 s. <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color>  s Abklingzeit. Erhöht den verursachten Schaden der Figur während der Wirkungsdauer um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> ."
         ]
     },
     "112403": {
         "Affix": [
-            "Когда элементальный навык наносит урон, есть <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  вероятность, что его откат моментально восстановится. Может возникнуть раз в <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color>  сек."
+            "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von <color style='color:#99FFFF;'>40 %</color> / <color style='color:#99FFFF;'>50 %</color> / <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color> , <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color>  s Abklingzeit."
         ]
     },
     "112404": {
         "Affix": [
-            "При нанесении урона противнику повышает шанс крит. попадания на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . Эффект может складываться до 5 раз. Добавочный шанс крит. попадания исчезает с первым крит. попаданием."
+            "Erhöht die KT beim Verursachen von Schaden um <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color> , 5-fach stapelbar. Effekt erlischt beim Verursachen eines KT."
         ]
     },
     "112405": {
         "Affix": [
-            "Увеличивает на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>36%</color>  урон против врагов, находящихся под действием Гидро или Электро элементов."
+            "Erhöht den von Hydro- oder Elektro-Effekten betroffenen Gegnern zugefügten Schaden um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color> / <color style='color:#99FFFF;'>36 %</color> ."
         ]
     },
     "112406": {
         "Affix": [
-            "При попадании обычной или заряженной атакой имеет 50% шанс нанести дополнительные <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>300%</color> / <color style='color:#99FFFF;'>360%</color> / <color style='color:#99FFFF;'>420%</color> / <color style='color:#99FFFF;'>480%</color>  урона в небольшом радиусе. Может возникнуть раз в 15 сек."
+            "Fügt Gegnern bei Treffern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % zusätzlichen Schaden in Höhe von <color style='color:#99FFFF;'>240 %</color> / <color style='color:#99FFFF;'>300 %</color> / <color style='color:#99FFFF;'>360 %</color> / <color style='color:#99FFFF;'>420 %</color> / <color style='color:#99FFFF;'>480 %</color>  ANG mit geringer Reichweite zu. 15 s Abklingzeit."
         ]
     },
     "112407": {
         "Affix": [
-            "При попадании Обычной или Заряженной атакой Сила атаки и Защита увеличиваются на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color>  в течение 6 сек. Эффект может складываться до 4 раз. Может возникнуть не чаще 1 раза за 0,5 сек."
+            "Erhöht den ANG und die VTD bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7,5 %</color> / <color style='color:#99FFFF;'>9 %</color> / <color style='color:#99FFFF;'>10,5 %</color> / <color style='color:#99FFFF;'>12 %</color> , 4-fach stapelbar. 0,5 s Abklingzeit."
         ]
     },
     "112408": {
         "Affix": [
-            "Побеждённые противники увеличивают силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Длится 30 сек. Эффект может складываться до 3 раз. Длительность добавочных эффектов друг от друга не зависит."
+            "Erhöht den ANG beim Besiegen von Gegnern 30 s lang um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> . 3-fach stapelbar, Wirkungsdauer jeder Stapelung ist unabhängig."
         ]
     },
     "112409": {
         "Affix": [
-            "Каждые 4 сек. увеличивает наносимый персонажем урон на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10%</color>  и получаемый им урон на <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>2,7%</color> / <color style='color:#99FFFF;'>2,4%</color> / <color style='color:#99FFFF;'>2,2%</color> / <color style='color:#99FFFF;'>2%</color> , пока тот активен. Может складываться до 5 раз, не сбрасывается при смене персонажа, при получении урона снижается на 1 уровень складывания."
+            "Erhöht den verursachten Schaden bei Anwesenheit der Figur alle 4 s um <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7 %</color> / <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>9 %</color> / <color style='color:#99FFFF;'>10 %</color>  und den erlittenen Schaden um <color style='color:#99FFFF;'>3 %</color> / <color style='color:#99FFFF;'>2,7 %</color> / <color style='color:#99FFFF;'>2,4 %</color> / <color style='color:#99FFFF;'>2,2 %</color> / <color style='color:#99FFFF;'>2 %</color> , 5-fach stapelbar. Effekt wird nicht bei Auswechseln der Figur zurückgesetzt, 1 Stapelung des Effekts wird bei Erleiden von Schaden aber entfernt."
         ]
     },
     "112410": {
         "Affix": [
-            "С каждым членом отряда из Ли Юэ сила атаки экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>11%</color> , а его шанс крит. попадания - на <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> . Эффект может складываться до 4 раз."
+            "Erhöht den Angriff der mit dieser Waffe ausgerüsteten Figur für jede Figur aus Liyue in der Truppe um <color style='color:#99FFFF;'>7 %</color> / <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>9 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>11 %</color>  und die KT um je <color style='color:#99FFFF;'>3 %</color> / <color style='color:#99FFFF;'>4 %</color> / <color style='color:#99FFFF;'>5 %</color> / <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7 %</color> . 4-fach stapelbar."
         ]
     },
     "112411": {
         "Affix": [
-            "Попадания обычной или заряженной атакой имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать над противником ледяной кристалл и уронить его, нанося <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>95%</color> / <color style='color:#99FFFF;'>110%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>140%</color>  урона силы атаки по площади. Если противник имеет эффект Крио, то наносит ему <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> / <color style='color:#99FFFF;'>360%</color>  урона силы атаки. Может возникнуть раз в 10 сек."
+            "Erstellt beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color> / <color style='color:#99FFFF;'>90 %</color> / <color style='color:#99FFFF;'>100 %</color>  über den Gegnern einen Kristallkern ewigen Eises, der herunterfällt und Flächenschaden in Höhe von <color style='color:#99FFFF;'>80 %</color> / <color style='color:#99FFFF;'>95 %</color> / <color style='color:#99FFFF;'>110 %</color> / <color style='color:#99FFFF;'>125 %</color> / <color style='color:#99FFFF;'>140 %</color>  ANG verursacht. Verursacht Schaden in Höhe von <color style='color:#99FFFF;'>200 %</color> / <color style='color:#99FFFF;'>240 %</color> / <color style='color:#99FFFF;'>280 %</color> / <color style='color:#99FFFF;'>320 %</color> / <color style='color:#99FFFF;'>360 %</color>  ANG, wenn die Gegner von Kryo-Effekten betroffen sind. 10 s Abklingzeit."
         ]
     },
     "112412": {
         "Affix": [
-            "Увеличивает урон взрыва стихии на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . При попадании взрывом стихии по противнику с вероятностью в 100% призывается Титанический тунец, который совершает атаку и наносит урон по площади, равный <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>150%</color> / <color style='color:#99FFFF;'>175%</color> / <color style='color:#99FFFF;'>200%</color>  от силы атаки. Может возникнуть раз в 15 сек."
+            "Erhöht den mit Spezialfähigkeiten verursachten Schaden um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> . Beschwört beim Treffen von Gegnern mit Spezialfähigkeiten mit einer Wahrscheinlichkeit von 100 % große Thunfische, die Flächenschaden in Höhe von <color style='color:#99FFFF;'>100 %</color> / <color style='color:#99FFFF;'>125 %</color> / <color style='color:#99FFFF;'>150 %</color> / <color style='color:#99FFFF;'>175 %</color> / <color style='color:#99FFFF;'>200 %</color>  ANG verursachen. 15 s Abklingzeit."
         ]
     },
     "112414": {
         "Affix": [
-            "Увеличивает урон элементального навыка на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color> . Когда элементальный навык поражает противника, персонаж теряет 3 единицы энергии, но восстанавливает <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3,5</color> / <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>4,5</color> / <color style='color:#99FFFF;'>5</color>  единицы энергии каждые 2 сек. в течение следующих 6 сек. Эффект может возникнуть один раз в 10 сек. Эффект может сработать, даже когда персонаж не находится на поле боя."
+            "Erhöht den mit Elementarfähigkeiten verursachten Schaden um <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7,5 %</color> / <color style='color:#99FFFF;'>9 %</color> / <color style='color:#99FFFF;'>10,5 %</color> / <color style='color:#99FFFF;'>12 %</color> . Zieht der Figur bei Treffern mit einer Elementarfähigkeit 3 Punkte Elementarenergie ab und stellt im Gegenzug 6 s lang alle 2 s <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3,5</color> / <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>4,5</color> / <color style='color:#99FFFF;'>5</color>  Punkte Elementarenergie wieder her. Dieser Effekt kann nur einmal alle 10 s ausgelöst werden, auch von Figuren, die sich in deiner Truppe, aber nicht im Kampf befinden."
         ]
     },
     "112415": {
         "Affix": [
-            "Каждые 10 сек. срабатывает следующий эффект: сила атаки экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  от мастерства стихий на 12 сек. Члены отряда поблизости получают 30% этого эффекта. Если этим оружием обладают и другие члены отряда, эффект суммируется. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя."
+            "Löst alle 10 s den folgenden Effekt aus, der 12 s hält: Erhöht den ANG der damit ausgerüsteten Figur um <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>36 %</color> / <color style='color:#99FFFF;'>42 %</color> / <color style='color:#99FFFF;'>48 %</color>  der Elementarkunde, die sie besitzt. Verleiht zugleich den anderen Truppenmitgliedern in der Nähe 30 % dieses Bonus. Der Effekt mehrerer gleicher Waffen ist stapelbar. Er tritt auch in Kraft, wenn sich die Figur inaktiv in der Truppe befindet."
         ]
     },
     "112416": {
         "Affix": [
-            "Урон взрыва стихии экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>0,12%</color> / <color style='color:#99FFFF;'>0,15%</color> / <color style='color:#99FFFF;'>0,18%</color> / <color style='color:#99FFFF;'>0,21%</color> / <color style='color:#99FFFF;'>0,24%</color>  за каждую единицу суммы макс. энергии каждого члена отряда. Бонус урона не может превышать <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> ."
+            "Erhöht den mit Spezialfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden für jeden Punkt aus der Summe der max. Elementarenergie aller Truppenmitglieder zusammengerechnet um <color style='color:#99FFFF;'>0,12 %</color> / <color style='color:#99FFFF;'>0,15 %</color> / <color style='color:#99FFFF;'>0,18 %</color> / <color style='color:#99FFFF;'>0,21 %</color> / <color style='color:#99FFFF;'>0,24 %</color> . Erhöht den mit Spezialfähigkeit verursachten Schaden auf diese Weise um bis zu <color style='color:#99FFFF;'>40 %</color> / <color style='color:#99FFFF;'>50 %</color> / <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color> ."
         ]
     },
     "112417": {
         "Affix": [
-            "Активация статусов Горение, Стимуляция, Обострение, Разрастание, Бутонизация, Вегетация и Цветение создают рядом с персонажем Семя сознания, которое существует 10 сек. Мастерство стихий подобравшего его персонажа повышается на <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>75</color> / <color style='color:#99FFFF;'>90</color> / <color style='color:#99FFFF;'>105</color> / <color style='color:#99FFFF;'>120</color>  ед. на 12 сек. Семя сознания может возникнуть раз в 20 сек. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя. Эффект Семени сознания не суммируется."
+            "Erzeugt nach dem Auslösen der Reaktionen wie „In Flammen“, „Urwuchs“, „Suprawuchs“, „Rankenwuchs“, „Sprießen“, „Supraspross“ oder „Flammenspross“ in der Umgebung der Figur ein Vijnana-Blatt, das höchstens 10 s lang bestehen bleibt. Erhöht 12 s lang die Elementarkunde der Figur, die das Blatt sammelt, um <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>75</color> / <color style='color:#99FFFF;'>90</color> / <color style='color:#99FFFF;'>105</color> / <color style='color:#99FFFF;'>120</color>  Punkte. Auf diese Weise kann alle 20 s nur ein Vijnana-Blatt erzeugt werden. Dieser Effekt tritt auch in Kraft, wenn sich die Figur inaktiv in der Truppe befindet. Der Effekt von Vijnana-Blatt ist nicht stapelbar."
         ]
     },
     "112418": {
         "Affix": [
-            "После попадания элементальным навыком по противнику или активации элементальной реакции, на 8 сек. сила атаки повышается на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> , а мастерство стихий - на <color style='color:#99FFFF;'>48</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>72</color> / <color style='color:#99FFFF;'>84</color> / <color style='color:#99FFFF;'>96</color>  ед."
+            "Erhöht 8 s lang, nachdem Gegner mit einer Elementarfähigkeit getroffen wurden, oder nach dem Auslösen einer Elementarreaktion den ANG um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color>  und die Elementarkunde um <color style='color:#99FFFF;'>48</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>72</color> / <color style='color:#99FFFF;'>84</color> / <color style='color:#99FFFF;'>96</color>  Punkte."
         ]
     },
     "112424": {
         "Affix": [
-            "Повышает силу атаки на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  на 15 сек. после получения эффекта Пиро. Этот эффект может возникнуть один раз в 12 сек. После получения эффектов Гидро, Крио, Электро или Дендро бонус элементального урона на 15 сек. увеличивается на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Может возникнуть раз в 12 сек."
+            "Erhöht nach dem Erleiden vom Pyro-Attribut den ANG 15 s lang um <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color> . 12 s Abklingzeit. Erhöht nach dem Erleiden von Hydro-, Kryo-, Elektro- oder Dendro-Attributen 15 s lang den Elementar-SCH-Bonus aller Elemente um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> . 12 s Abklingzeit."
         ]
     },
     "112425": {
         "Affix": [
-            "Сила атаки после получения лечения увеличивается на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  на 8 сек. Эффект срабатывает, даже когда персонаж не на поле боя."
+            "Erhöht nach erhaltener Heilung den ANG um <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>36 %</color> / <color style='color:#99FFFF;'>42 %</color> / <color style='color:#99FFFF;'>48 %</color> , hält 8 s. Der Effekt kann auch noch ausgelöst werden, wenn die Figur inaktiv in der Truppe ist."
         ]
     },
     "112426": {
         "Affix": [
-            "Повышает силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Но это ещё не всё! Поддержка мелюзин деревни Меруси, которым вы помогли, наполняет вас мощью! В зависимости от их количества, сила атаки может дополнительно увеличиться максимум на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> ."
+            "Erhöht den ANG um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> . Das ist noch nicht alles! Die Unterstützung durch alle Melusinen, denen du im Dorf Mérusea geholfen hast, erfüllt dich mit Kraft! Erhöht den ANG basierend auf der Anzahl der Melusinen, denen du geholfen hast, zusätzlich um bis zu <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> ."
         ]
     },
     "112427": {
         "Affix": [
-            "Когда экипированный персонаж лечит или получает лечение, он на 30 сек. наделяется Символом стойкости. Всего можно получить до 3 Символов. При активации элементального навыка или взрыва стихии все Символы расходуются и на 10 сек. создаётся эффект Воодушевления: за каждый израсходованный Символ мастерство стихий повышается на <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color>  ед., а через 2 сек. после активации эффекта каждый израсходованный Символ восстанавливает <color style='color:#99FFFF;'>2</color> / <color style='color:#99FFFF;'>2,5</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3,5</color> / <color style='color:#99FFFF;'>4</color>  ед. энергии. Эффект Воодушевления может возникнуть один раз в 15 сек. Персонаж получает Символы стойкости, даже если он не на поле боя."
+            "Verleiht der Figur bei erhaltener Heilung, oder wenn sie jemanden heilt, ein Zeichen der Beharrlichkeit, hält 30 s. Es können max. bis zu 3 Zeichen der Beharrlichkeit vorhanden sein. Verbraucht beim Auslösen der Elementarfähigkeit oder der Spezialfähigkeit alle Zeichen der Beharrlichkeit und löst den Effekt „Erhabenheit“ aus, der 10 s hält: Jedes verbrauchte Zeichen der Beharrlichkeit erhöht die Elementarkunde um <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color>  Punkte. Außerdem stellt jedes verbrauchte Zeichen dem Träger 2 s nach Auslösen des Effekts <color style='color:#99FFFF;'>2</color> / <color style='color:#99FFFF;'>2,5</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3,5</color> / <color style='color:#99FFFF;'>4</color>  Punkte Elementarenergie wieder her. 15 s Abklingzeit für den Effekt „Erhabenheit“. Zeichen der Beharrlichkeit können auch erhalten werden, wenn die Figur inaktiv in der Truppe ist."
         ]
     },
     "112501": {
         "Affix": [
-            "Увеличивает наносимый урон на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . После активации взрыва стихий попадания обычными или заряженными атаками запускают неосязаемое лезвие, которое наносит <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>120%</color> / <color style='color:#99FFFF;'>140%</color> / <color style='color:#99FFFF;'>160%</color>  урона всем врагам на своём пути. Длится 20 сек. или 8 неосязаемых лезвий."
+            "Erhöht den verursachten Schaden um <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color> . Nach Anwendung der Spezialfähigkeit: Erschafft nach Treffern mit Standardangriffen und heftigen Schlägen eine Vakuumklinge, die Gegnern in der Bahn Schaden in Höhe von <color style='color:#99FFFF;'>80 %</color> / <color style='color:#99FFFF;'>100 %</color> / <color style='color:#99FFFF;'>120 %</color> / <color style='color:#99FFFF;'>140 %</color> / <color style='color:#99FFFF;'>160 %</color>  ANG zufügt. Hält 20 s oder 8 Vakuumklingen lang."
         ]
     },
     "112502": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . При попадании по цели с HP меньше 30% увеличивает силу атаки всех членов отряда на <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  в течение 12 сек. Может возникнуть не чаще 1 раза за 30 сек."
+            "Erhöht den ANG um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> . Erhöht den ANG aller Truppenmitglieder beim Treffen eines Gegners mit weniger als 30 % LP 12 s lang um <color style='color:#99FFFF;'>40 %</color> / <color style='color:#99FFFF;'>50 %</color> / <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color> . 30 s Abklingzeit."
         ]
     },
     "112503": {
         "Affix": [
-            "Часть Тысячелетней симфонии, что блуждает среди ветров. Увеличивает силу атаки на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  и при попадании обычной или заряженной атакой даёт персонажу Печать шёпота. Этот эффект может возникнуть раз в 0,3 сек. После получения 4-ой Печати шёпота все они тратятся, и все окружающие члены отряда получают эффект Тысячелетняя симфония: Гимн знамени на 12 сек. Тысячелетняя симфония: Гимн знамени увеличивает скорость обычной атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  и силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . После активации этого эффекта вы не сможете получать Печати шёпота в течение 20 сек. При наличии нескольких эффектов Тысячелетней симфонии усиления одного типа не складываются."
+            "Ein Teil der „Bewegung des Jahrtausends“, die mit dem Wind zieht. Erhöht den ANG um <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color> . Gibt der Figur beim Treffen von Gegnern mit Standardangriffen oder heftigen Schlägen ein Zeichen des Flüsterns, 0,3 s Abklingzeit. Verbraucht alle Zeichen des Flüsterns, sobald 4 davon vorhanden sind, und verleiht allen Truppenmitgliedern in der Nähe den 12 s anhaltenden Effekt von „Bewegung des Jahrtausends – Lied vom Aufstand“: Erhöht die Standardangriffs-GSW um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color>  und den ANG um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> . Nach Auslösen dieses Effekts kann 20 s lang kein weiteres Zeichen des Flüsterns erhalten werden. Die verschiedenen durch „Bewegung des Jahrtausends“ ausgelösten Boni können bei gleicher Art nicht gestapelt werden."
         ]
     },
     "112504": {
         "Affix": [
-            "Увеличивает прочность щита на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . При попадании увеличивает силу атаки на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  в течение 8 сек. Эффект может складываться до 5 раз и возникнуть раз в 0,3 сек. Кроме того, под защитой щита бонус силы атаки данного эффекта увеличивается на 100%."
+            "Erhöht die Schildeffizienz um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> . Erhöht den ANG nach Treffern 8 s lang um <color style='color:#99FFFF;'>4 %</color> / <color style='color:#99FFFF;'>5 %</color> / <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7 %</color> / <color style='color:#99FFFF;'>8 %</color> . 5-fach stapelbar, 0,3 s Abklingzeit. Erhöht die Wirksamkeit der Erhöhung des ANG außerdem im Schutz von Schilden um 100 %."
         ]
     },
     "112510": {
         "Affix": [
-            "Защита повышается на <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>49%</color> / <color style='color:#99FFFF;'>56%</color> , урон обычных и заряженных атак повышается на <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  защиты."
+            "Erhöht die VTD um <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>42 %</color> / <color style='color:#99FFFF;'>49 %</color> / <color style='color:#99FFFF;'>56 %</color> . Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um <color style='color:#99FFFF;'>40 %</color> / <color style='color:#99FFFF;'>50 %</color> / <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color>  VTD."
         ]
     },
     "112511": {
         "Affix": [
-            "После попадания элементальным навыком по противнику сила атаки увеличится на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  на 8 сек. При получении урона сила атаки увеличится на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  на 8 сек. Эти эффекты срабатывают, даже если персонаж не на поле боя. Кроме того, если экипированный персонаж не защищён щитом, его макс. HP увеличится на <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>56%</color> / <color style='color:#99FFFF;'>64%</color> ."
+            "Erhöht den ANG beim Treffen von Gegnern mit Elementarfähigkeiten 8 s lang um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> . Erhöht beim Erleiden von Schaden den ANG 8 s lang um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> . Die 2 oben beschriebenen Effekte treten auch in Kraft, wenn sich die Figur inaktiv in der Truppe befindet. Erhöht außerdem die max. LP um <color style='color:#99FFFF;'>32 %</color> / <color style='color:#99FFFF;'>40 %</color> / <color style='color:#99FFFF;'>48 %</color> / <color style='color:#99FFFF;'>56 %</color> / <color style='color:#99FFFF;'>64 %</color> , solange sich die Figur nicht im Schutz von Schilden aufhält."
         ]
     },
     "112512": {
         "Affix": [
-            "Повышает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . Когда члены отряда подбирают элементальные осколки, созданные реакцией Кристалл, экипированный персонаж получает 1 Печать, которая увеличивает урон элементального навыка на <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>22,5%</color> / <color style='color:#99FFFF;'>27%</color> / <color style='color:#99FFFF;'>31,5%</color> / <color style='color:#99FFFF;'>36%</color> . Печать действует 15 сек. Одновременно можно иметь 2 Печати. Все Печати экипированного персонажа пропадут через 0,2 сек. после нанесения урона его элементальным навыком."
+            "Erhöht den ANG um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> . Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten, 1 Siegel, das den Schaden der Elementarfähigkeit um <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>22,5 %</color> / <color style='color:#99FFFF;'>27 %</color> / <color style='color:#99FFFF;'>31,5 %</color> / <color style='color:#99FFFF;'>36 %</color>  erhöht. Das Siegel hält 15 s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2 s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt."
         ]
     },
     "113301": {
         "Affix": [
-            "Увеличивает урон обычной атаки на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> ."
+            "Erhöht den mit Standardangriffen verursachten Schaden um <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>36 %</color> / <color style='color:#99FFFF;'>42 %</color> / <color style='color:#99FFFF;'>48 %</color> ."
         ]
     },
     "113302": {
         "Affix": [
-            "Обычные атаки наносят дополнительные <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color>  урона. Может возникнуть не чаще 1 раза за 10 сек."
+            "Fügt mit Standardangriffen getroffenen Gegnern zusätzlichen Schaden in Höhe von <color style='color:#99FFFF;'>160 %</color> / <color style='color:#99FFFF;'>200 %</color> / <color style='color:#99FFFF;'>240 %</color> / <color style='color:#99FFFF;'>280 %</color> / <color style='color:#99FFFF;'>320 %</color>  ANG zu. 10 s Abklingzeit."
         ]
     },
     "113303": {
         "Affix": [
-            "Увеличивает урон по слаймам на <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> ."
+            "Erhöht den Schleimen zugefügten Schaden um <color style='color:#99FFFF;'>40 %</color> / <color style='color:#99FFFF;'>50 %</color> / <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color> ."
         ]
     },
     "113304": {
         "Affix": [
-            "Победа над противником восстанавливает <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  HP."
+            "Stellt beim Besiegen eines Gegners <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color>  LP wieder her."
         ]
     },
     "113401": {
         "Affix": [
-            "Увеличивает на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>36%</color>  урон против врагов, находящихся под действием Гидро или Пиро элементов."
+            "Erhöht den von Hydro- oder Pyro-Effekten betroffenen Gegnern zugefügten Schaden um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color> / <color style='color:#99FFFF;'>36 %</color> ."
         ]
     },
     "113402": {
         "Affix": [
-            "Использование элементального навыка увеличивает урон обычной и заряженной атаки на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  в течение 12 сек. Эффект может складываться до 2 раз."
+            "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden nach Anwendung von Elementarfähigkeiten 12 s lang um <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color> , 2-fach stapelbar."
         ]
     },
     "113403": {
         "Affix": [
-            "В течение 5 сек. после поднятия элементальной сферы или частицы обычные и заряженные атаки наносят дополнительный урон, равный <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  от силы атаки."
+            "Verursacht nach dem Erhalten von Elementarteilchen oder Elementarkristallen 5 s lang zusätzlichen Schaden in Höhe von <color style='color:#99FFFF;'>20</color> / <color style='color:#99FFFF;'>25</color> / <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>35</color> / <color style='color:#99FFFF;'>40</color>  % ANG mit Standardangriffen und heftigen Schlägen."
         ]
     },
     "113404": {
         "Affix": [
-            "Побеждённые противники увеличивают силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Длится 30 сек. Эффект может складываться до 3 раз. Длительность добавочных эффектов друг от друга не зависит."
+            "Erhöht den ANG beim Besiegen von Gegnern 30 s lang um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> . 3-fach stapelbar, Wirkungsdauer jeder Stapelung ist unabhängig."
         ]
     },
     "113405": {
         "Affix": [
-            "Если рядом 2 врага и более, сила атаки и защита увеличиваются на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> ; если рядом менее 2 врагов, сила атаки увеличивается на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> ."
+            "Erhöht den ANG bei Anwesenheit von mindestens 2 Gegnern um <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color>  und die VTD um <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color> , erhöht den ANG bei weniger als 2 Gegnern stattdessen um <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>36 %</color> / <color style='color:#99FFFF;'>42 %</color> / <color style='color:#99FFFF;'>48 %</color> ."
         ]
     },
     "113406": {
         "Affix": [
-            "С каждым членом отряда из Ли Юэ сила атаки экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>11%</color> , а его шанс крит. попадания - на <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> . Эффект может складываться до 4 раз."
+            "Erhöht den Angriff der mit dieser Waffe ausgerüsteten Figur für jede Figur aus Liyue in der Truppe um <color style='color:#99FFFF;'>7 %</color> / <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>9 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>11 %</color>  und die KT um je <color style='color:#99FFFF;'>3 %</color> / <color style='color:#99FFFF;'>4 %</color> / <color style='color:#99FFFF;'>5 %</color> / <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7 %</color> . 4-fach stapelbar."
         ]
     },
     "113407": {
         "Affix": [
-            "Критические атаки имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать элементальные частицы, которые восстанавливают 6 ед. энергии. Возникает раз в <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>6</color>  сек."
+            "Erschafft bei einem KT mit einer Wahrscheinlichkeit von <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color> / <color style='color:#99FFFF;'>90 %</color> / <color style='color:#99FFFF;'>100 %</color>  einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>6</color>  s Abklingzeit."
         ]
     },
     "113408": {
         "Affix": [
-            "При нанесении урона противнику повышает шанс крит. попадания на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . Эффект может складываться до 5 раз. Добавочный шанс крит. попадания исчезает с первым крит. попаданием."
+            "Erhöht die KT beim Verursachen von Schaden um <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color> , 5-fach stapelbar. Effekt erlischt beim Verursachen eines KT."
         ]
     },
     "113409": {
         "Affix": [
-            "Попадания обычной или заряженной атакой имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать над противником ледяной кристалл и уронить его, нанося <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>95%</color> / <color style='color:#99FFFF;'>110%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>140%</color>  урона силы атаки по площади. Если противник имеет эффект Крио, то наносит ему <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> / <color style='color:#99FFFF;'>360%</color>  урона силы атаки. Может возникнуть раз в 10 сек."
+            "Erstellt beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color> / <color style='color:#99FFFF;'>90 %</color> / <color style='color:#99FFFF;'>100 %</color>  über den Gegnern einen Kristallkern ewigen Eises, der herunterfällt und Flächenschaden in Höhe von <color style='color:#99FFFF;'>80 %</color> / <color style='color:#99FFFF;'>95 %</color> / <color style='color:#99FFFF;'>110 %</color> / <color style='color:#99FFFF;'>125 %</color> / <color style='color:#99FFFF;'>140 %</color>  ANG verursacht. Verursacht Schaden in Höhe von <color style='color:#99FFFF;'>200 %</color> / <color style='color:#99FFFF;'>240 %</color> / <color style='color:#99FFFF;'>280 %</color> / <color style='color:#99FFFF;'>320 %</color> / <color style='color:#99FFFF;'>360 %</color>  ANG, wenn die Gegner von Kryo-Effekten betroffen sind. 10 s Abklingzeit."
         ]
     },
     "113414": {
         "Affix": [
-            "Увеличивает урон элементального навыка на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color> . Когда элементальный навык поражает противника, персонаж теряет 3 единицы энергии, но восстанавливает <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3,5</color> / <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>4,5</color> / <color style='color:#99FFFF;'>5</color>  единицы энергии каждые 2 сек. в течение следующих 6 сек. Эффект может возникнуть один раз в 10 сек. Эффект может сработать, даже когда персонаж не находится на поле боя."
+            "Erhöht den mit Elementarfähigkeiten verursachten Schaden um <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7,5 %</color> / <color style='color:#99FFFF;'>9 %</color> / <color style='color:#99FFFF;'>10,5 %</color> / <color style='color:#99FFFF;'>12 %</color> . Zieht der Figur bei Treffern mit einer Elementarfähigkeit 3 Punkte Elementarenergie ab und stellt im Gegenzug 6 s lang alle 2 s <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3,5</color> / <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>4,5</color> / <color style='color:#99FFFF;'>5</color>  Punkte Elementarenergie wieder her. Dieser Effekt kann nur einmal alle 10 s ausgelöst werden, auch von Figuren, die sich in deiner Truppe, aber nicht im Kampf befinden."
         ]
     },
     "113415": {
         "Affix": [
-            "Повышает урон взрыва стихии на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  и его шанс крит. попадания на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color> ."
+            "Erhöht den mit Spezialfähigkeiten verursachten Schaden um <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color>  und die KT von Spezialfähigkeiten um <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7,5 %</color> / <color style='color:#99FFFF;'>9 %</color> / <color style='color:#99FFFF;'>10,5 %</color> / <color style='color:#99FFFF;'>12 %</color> ."
         ]
     },
     "113416": {
         "Affix": [
-            "Урон взрыва стихии экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>0,12%</color> / <color style='color:#99FFFF;'>0,15%</color> / <color style='color:#99FFFF;'>0,18%</color> / <color style='color:#99FFFF;'>0,21%</color> / <color style='color:#99FFFF;'>0,24%</color>  за каждую единицу суммы макс. энергии каждого члена отряда. Бонус урона не может превышать <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> ."
+            "Erhöht den mit Spezialfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden für jeden Punkt aus der Summe der max. Elementarenergie aller Truppenmitglieder zusammengerechnet um <color style='color:#99FFFF;'>0,12 %</color> / <color style='color:#99FFFF;'>0,15 %</color> / <color style='color:#99FFFF;'>0,18 %</color> / <color style='color:#99FFFF;'>0,21 %</color> / <color style='color:#99FFFF;'>0,24 %</color> . Erhöht den mit Spezialfähigkeit verursachten Schaden auf diese Weise um bis zu <color style='color:#99FFFF;'>40 %</color> / <color style='color:#99FFFF;'>50 %</color> / <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color> ."
         ]
     },
     "113417": {
         "Affix": [
-            "Активация статусов Горение, Стимуляция, Обострение, Разрастание, Бутонизация, Вегетация и Цветение создают рядом с персонажем Лист оживления, который существует 10 сек. Сила атаки подобравшего его персонажа повышается на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  на 12 сек. Лист оживления может возникнуть раз в 20 сек. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя."
+            "Erzeugt nach dem Auslösen der Reaktionen wie „In Flammen“, „Urwuchs“, „Suprawuchs“, „Rankenwuchs“, „Sprießen“, „Supraspross“ oder „Flammenspross“ in der Umgebung der Figur ein Reinkarnations-Blatt, das höchstens 10 s lang bestehen bleibt. Erhöht 12 s lang den ANG der Figur, die das Blatt sammelt, um <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color> . Auf diese Weise kann alle 20 s nur ein Reinkarnations-Blatt erzeugt werden. Dieser Effekt tritt auch in Kraft, wenn sich die Figur inaktiv in der Truppe befindet."
         ]
     },
     "113419": {
         "Affix": [
-            "В течение 10 сек. после активации элементальной реакции сила атаки повысится на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> , мастерство стихий - на <color style='color:#99FFFF;'>48</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>72</color> / <color style='color:#99FFFF;'>84</color> / <color style='color:#99FFFF;'>96</color>  ед."
+            "Erhöht 10 s lang nach Auslösen einer Elementarreaktion den ANG um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color>  und die Elementarkunde um <color style='color:#99FFFF;'>48</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>72</color> / <color style='color:#99FFFF;'>84</color> / <color style='color:#99FFFF;'>96</color>  Punkte."
         ]
     },
     "113424": {
         "Affix": [
-            "Если в отряде не менее 3 персонажей разных элементов, мастерство стихий увеличивается на <color style='color:#99FFFF;'>120</color> / <color style='color:#99FFFF;'>150</color> / <color style='color:#99FFFF;'>180</color> / <color style='color:#99FFFF;'>210</color> / <color style='color:#99FFFF;'>240</color>  ед."
+            "Erhöht die Elementarkunde um <color style='color:#99FFFF;'>120</color> / <color style='color:#99FFFF;'>150</color> / <color style='color:#99FFFF;'>180</color> / <color style='color:#99FFFF;'>210</color> / <color style='color:#99FFFF;'>240</color>  Punkte, wenn sich mindestens drei Figuren verschiedener Elementartypen in der Truppe befinden."
         ]
     },
     "113425": {
         "Affix": [
-            "При получении лечения персонаж восстанавливает <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>16</color>  ед. энергии. Эффект может возникнуть один раз в 10 сек. и срабатывает, даже когда персонаж не на поле боя."
+            "Stellt bei erhaltener Heilung <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>16</color>  Punkte Energie wieder her. 10 s Abklingzeit. Der Effekt kann auch noch ausgelöst werden, wenn die Figur inaktiv in der Truppe ist."
         ]
     },
     "113426": {
         "Affix": [
-            "Экипированный персонаж, исцеляя персонажей отряда, восстанавливает <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>16</color>  ед. энергии. Эффект может возникнуть один раз в 10 сек. и срабатывает, даже когда персонаж не на поле боя."
+            "Stellt bei aktiver Heilung durch den Träger <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>16</color>  Punkte Energie wieder her, 10 s Abklingzeit. Der Effekt kann auch noch ausgelöst werden, wenn die Figur inaktiv in der Truppe ist."
         ]
     },
     "113427": {
         "Affix": [
-            "Когда экипированный персонаж лечит или получает лечение, он на 30 сек. наделяется Меткой единства. Всего можно получить до 3 Меток. При активации элементального навыка или взрыва стихии все Метки расходуются и на 10 сек. создаётся эффект Отпора: за каждую израсходованную Метку сила атаки повышается на <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> , а бонус урона всеми элементами - на <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8,5%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>11,5%</color> / <color style='color:#99FFFF;'>13%</color> . Эффект Отпора может возникнуть один раз в 15 сек. Персонаж получает Метки единства, даже если он не на поле боя."
+            "Verleiht der Figur bei erhaltener Heilung, oder wenn sie jemanden heilt, ein Zeichen des Zusammenhalts, hält 30 s. Es können max. bis zu 3 Zeichen des Zusammenhalts vorhanden sein. Verbraucht beim Auslösen der Elementarfähigkeit oder der Spezialfähigkeit alle Zeichen des Zusammenhalts und löst den Effekt „Auflehnung“ aus, der 10 s hält: Jedes verbrauchte Zeichen des Zusammenhalts erhöht den ANG um <color style='color:#99FFFF;'>3 %</color> / <color style='color:#99FFFF;'>4 %</color> / <color style='color:#99FFFF;'>5 %</color> / <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7 %</color>  und den Elementar-SCH-Bonus aller Elemente um <color style='color:#99FFFF;'>7 %</color> / <color style='color:#99FFFF;'>8,5 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>11,5 %</color> / <color style='color:#99FFFF;'>13 %</color> . 15 s Abklingzeit für den Effekt „Auflehnung“. Zeichen des Zusammenhalts können auch erhalten werden, wenn die Figur inaktiv in der Truppe ist."
         ]
     },
     "113501": {
         "Affix": [
-            "Увеличивает HP на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . Также даёт бонус атаки, равный <color style='color:#99FFFF;'>0,8%</color> / <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1,2%</color> / <color style='color:#99FFFF;'>1,4%</color> / <color style='color:#99FFFF;'>1,6%</color>  от макс. HP экипированного этим оружием персонажа. Когда HP экипированного этим оружием персонажа опускается ниже 50%, его сила атаки дополнительно увеличивается на <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1,2%</color> / <color style='color:#99FFFF;'>1,4%</color> / <color style='color:#99FFFF;'>1,6%</color> / <color style='color:#99FFFF;'>1,8%</color>  от его макс. HP."
+            "Erhöht die LP um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> . Erhöht den ANG um <color style='color:#99FFFF;'>0,8 %</color> / <color style='color:#99FFFF;'>1 %</color> / <color style='color:#99FFFF;'>1,2 %</color> / <color style='color:#99FFFF;'>1,4 %</color> / <color style='color:#99FFFF;'>1,6 %</color>  der max. LP der mit dieser Waffe ausgerüsteten Figur. Erhöht den ANG bei weniger als 50 % LP der mit dieser Waffe ausgerüsteten Figur um weitere <color style='color:#99FFFF;'>1 %</color> / <color style='color:#99FFFF;'>1,2 %</color> / <color style='color:#99FFFF;'>1,4 %</color> / <color style='color:#99FFFF;'>1,6 %</color> / <color style='color:#99FFFF;'>1,8 %</color>  der max. LP."
         ]
     },
     "113502": {
         "Affix": [
-            "Увеличивает шанс крит. попадания на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  и скорость обычной атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>12%</color> . При попадании обычной или заряженной атакой есть <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>50%</color>  шанс активировать неосязаемое лезвие, которое наносит <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>55%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>85%</color> / <color style='color:#99FFFF;'>100%</color>  урона в небольшом радиусе. Может возникнуть раз в 2 сек."
+            "Erhöht die KT um <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color>  und die Standardangriffs-GSW um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>12 %</color> . Wendet beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von <color style='color:#99FFFF;'>50 %</color> / <color style='color:#99FFFF;'>50 %</color> / <color style='color:#99FFFF;'>50 %</color> / <color style='color:#99FFFF;'>50 %</color> / <color style='color:#99FFFF;'>50 %</color>  eine Vakuumklinge an und verursacht zusätzlichen Schaden in Höhe von <color style='color:#99FFFF;'>40 %</color> / <color style='color:#99FFFF;'>55 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>85 %</color> / <color style='color:#99FFFF;'>100 %</color>  ANG mit geringer Reichweite. 2 s Abklingzeit."
         ]
     },
     "113504": {
         "Affix": [
-            "Увеличивает прочность щита на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . При попадании увеличивает силу атаки на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  в течение 8 сек. Эффект может складываться до 5 раз и возникнуть раз в 0,3 сек. Кроме того, под защитой щита бонус силы атаки данного эффекта увеличивается на 100%."
+            "Erhöht die Schildeffizienz um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> . Erhöht den ANG nach Treffern 8 s lang um <color style='color:#99FFFF;'>4 %</color> / <color style='color:#99FFFF;'>5 %</color> / <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7 %</color> / <color style='color:#99FFFF;'>8 %</color> . 5-fach stapelbar, 0,3 s Abklingzeit. Erhöht die Wirksamkeit der Erhöhung des ANG außerdem im Schutz von Schilden um 100 %."
         ]
     },
     "113505": {
         "Affix": [
-            "При попадании увеличивает силу атаки на <color style='color:#99FFFF;'>3,2%</color> / <color style='color:#99FFFF;'>3,9%</color> / <color style='color:#99FFFF;'>4,6%</color> / <color style='color:#99FFFF;'>5,3%</color> / <color style='color:#99FFFF;'>6%</color>  в течение 6 сек. Эффект может складываться до 7 раз и возникает не чаще чем раз в 0,3 сек. На 7 уровне складывания увеличивает урон на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> ."
+            "Erhöht den eigenen ANG bei einem Treffer 6 s lang um <color style='color:#99FFFF;'>3,2 %</color> / <color style='color:#99FFFF;'>3,9 %</color> / <color style='color:#99FFFF;'>4,6 %</color> / <color style='color:#99FFFF;'>5,3 %</color> / <color style='color:#99FFFF;'>6 %</color> , 7-fach stapelbar. 0,3 s Abklingzeit. Erhöht den Schaden nach Erreichen des Stapellimits um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> ."
         ]
     },
     "113507": {
         "Affix": [
-            "Даёт <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  бонус урона всеми элементами. Запуск элементального навыка накладывает Совершенствование на 20 сек., в результате чего сила атаки увеличивается на <color style='color:#99FFFF;'>3,2%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>4,8%</color> / <color style='color:#99FFFF;'>5,6%</color> / <color style='color:#99FFFF;'>6,4%</color>  в секунду. Может складываться до 6 раз. Когда персонаж, экипированный этим оружием, не на поле боя, бонус атаки от Совершенствования удваивается."
+            "Erhöht den Schaden aller Elemente um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> . Verleiht beim Auslösen einer Elementarfähigkeit den Effekt „Vollkommenheit“, der 20 s hält, den ANG pro Sekunde um <color style='color:#99FFFF;'>3,2 %</color> / <color style='color:#99FFFF;'>4 %</color> / <color style='color:#99FFFF;'>4,8 %</color> / <color style='color:#99FFFF;'>5,6 %</color> / <color style='color:#99FFFF;'>6,4 %</color>  erhöht und 6-fach stapelbar ist. Wenn die mit dieser Waffe ausgerüstete Figur inaktiv ist, wird der ANG-Bonus verdoppelt."
         ]
     },
     "113509": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>49%</color> / <color style='color:#99FFFF;'>56%</color>  от показателя восстановления энергии свыше 100%. Вы можете получить бонус силы атаки до <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>110%</color> / <color style='color:#99FFFF;'>120%</color> . Также даёт <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>45%</color> / <color style='color:#99FFFF;'>50%</color>  восстановления энергии на 12 сек. после активации взрыва стихии."
+            "Erhöht den Angriff um <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>42 %</color> / <color style='color:#99FFFF;'>49 %</color> / <color style='color:#99FFFF;'>56 %</color>  der Prozentpunkte über 100 % der Aufladerate. Bis zu <color style='color:#99FFFF;'>80 %</color> / <color style='color:#99FFFF;'>90 %</color> / <color style='color:#99FFFF;'>100 %</color> / <color style='color:#99FFFF;'>110 %</color> / <color style='color:#99FFFF;'>120 %</color>  Bonus auf diese Weise möglich. Erhöht die Aufladerate nach Anwendung von Spezialfähigkeiten 12 s lang um <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> / <color style='color:#99FFFF;'>45 %</color> / <color style='color:#99FFFF;'>50 %</color> ."
         ]
     },
     "113511": {
         "Affix": [
-            "Экипированный этим оружием персонаж получает бонус атаки, равный <color style='color:#99FFFF;'>52%</color> / <color style='color:#99FFFF;'>65%</color> / <color style='color:#99FFFF;'>78%</color> / <color style='color:#99FFFF;'>91%</color> / <color style='color:#99FFFF;'>104%</color>  от его мастерства стихий. Попадание по врагу элементальным навыком на 10 сек. наделяет Сном алых песков: экипированный этим оружием персонаж получает бонус атаки, равный <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>49%</color> / <color style='color:#99FFFF;'>56%</color>  от мастерства стихий. Эффект складывается до 3 раз."
+            "Verleiht der damit ausgerüsteten Figur einen ANG-Bonus in Höhe von <color style='color:#99FFFF;'>52 %</color> / <color style='color:#99FFFF;'>65 %</color> / <color style='color:#99FFFF;'>78 %</color> / <color style='color:#99FFFF;'>91 %</color> / <color style='color:#99FFFF;'>104 %</color>  der Elementarkunde, die sie besitzt. Löst nach dem Treffen von Gegnern mit der Elementarfähigkeit den Effekt „Traum roter Sande“ aus, der 10 s hält: Verleiht der damit ausgerüsteten Figur einen ANG-Bonus in Höhe von <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>42 %</color> / <color style='color:#99FFFF;'>49 %</color> / <color style='color:#99FFFF;'>56 %</color>  der Elementarkunde, die sie besitzt, dieser Effekt ist 3-fach stapelbar."
         ]
     },
     "114301": {
         "Affix": [
-            "Увеличивает на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  урон против врагов, находящихся под действием Гидро или Электро элементов."
+            "Erhöht den von Hydro- oder Elektro-Effekten betroffenen Gegnern zugefügten Schaden um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> ."
         ]
     },
     "114302": {
         "Affix": [
-            "При переключении персонажа увеличивает силу атаки вошедшего на поле боя персонажа на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  в течение 10 сек. Может возникнуть раз в 20 сек."
+            "Erhöht den ANG aktiv eingewechselter Figuren 10 s lang um <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>36 %</color> / <color style='color:#99FFFF;'>42 %</color> / <color style='color:#99FFFF;'>48 %</color> . 20 s Abklingzeit."
         ]
     },
     "114303": {
         "Affix": [
-            "Подобранные элементальные сферы и частицы восстанавливают <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1,25%</color> / <color style='color:#99FFFF;'>1,5%</color> / <color style='color:#99FFFF;'>1,75%</color> / <color style='color:#99FFFF;'>2%</color>  HP."
+            "Stellt beim Erhalten von Elementarteilchen oder Elementarkristallen <color style='color:#99FFFF;'>1 %</color> / <color style='color:#99FFFF;'>1,25 %</color> / <color style='color:#99FFFF;'>1,5 %</color> / <color style='color:#99FFFF;'>1,75 %</color> / <color style='color:#99FFFF;'>2 %</color>  LP wieder her."
         ]
     },
     "114304": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  на 12 сек. при активации реакций Пар, Заряжен, Заморозка, Бутонизация или Гидро рассеивание."
+            "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“ und „Hydro-Verwirbelung“ 12 s lang um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> ."
         ]
     },
     "114305": {
         "Affix": [
-            "Победа над противником увеличивает скорость передвижения и силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>20%</color>  в течение 15 сек."
+            "Erhöht die Bewegungs-GSW und den ANG beim Besiegen von Gegnern 15 s lang um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>20 %</color> ."
         ]
     },
     "114306": {
         "Affix": [
-            "Попадания обычной атакой дают <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color>  бонус элементального урона на 6 сек. Может складываться до 2 раз."
+            "Erhöht den Elementar-SCH bei Treffern mit Standardangriffen 6 s lang um <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7,5 %</color> / <color style='color:#99FFFF;'>9 %</color> / <color style='color:#99FFFF;'>10,5 %</color> / <color style='color:#99FFFF;'>12 %</color> , 2-fach stapelbar."
         ]
     },
     "114401": {
         "Affix": [
-            "Критические атаки имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать элементальные частицы, которые восстанавливают 6 ед. энергии. Возникает раз в <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>6</color>  сек."
+            "Erschafft bei einem KT mit einer Wahrscheinlichkeit von <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color> / <color style='color:#99FFFF;'>90 %</color> / <color style='color:#99FFFF;'>100 %</color>  einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>6</color>  s Abklingzeit."
         ]
     },
     "114402": {
         "Affix": [
-            "При переключении на персонажа в течение 10 сек. играет случайная музыкальная тема. Может возникнуть раз в 30 сек. Речитатив: увеличивает силу атаки на <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>75%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>105%</color> / <color style='color:#99FFFF;'>120%</color> ; Ария: увеличивает элементальный урон на <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>72%</color> / <color style='color:#99FFFF;'>84%</color> / <color style='color:#99FFFF;'>96%</color> ; Интерлюдия: увеличивает мастерство стихий на <color style='color:#99FFFF;'>240</color> / <color style='color:#99FFFF;'>300</color> / <color style='color:#99FFFF;'>360</color> / <color style='color:#99FFFF;'>420</color> / <color style='color:#99FFFF;'>480</color> ."
+            "Spielt beim Wechseln zu dieser Figur 10 s lang ein zufälliges Lied. 30 s Abklingzeit. Rezitativ: Erhöht ANG um <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>75 %</color> / <color style='color:#99FFFF;'>90 %</color> / <color style='color:#99FFFF;'>105 %</color> / <color style='color:#99FFFF;'>120 %</color> ; Arie: Erhöht gesamten Elementar-SCH um <color style='color:#99FFFF;'>48 %</color> / <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>72 %</color> / <color style='color:#99FFFF;'>84 %</color> / <color style='color:#99FFFF;'>96 %</color> ; Intermezzo: Erhöht Elementarkunde um <color style='color:#99FFFF;'>240</color> / <color style='color:#99FFFF;'>300</color> / <color style='color:#99FFFF;'>360</color> / <color style='color:#99FFFF;'>420</color> / <color style='color:#99FFFF;'>480</color>  Punkte."
         ]
     },
     "114403": {
         "Affix": [
-            "Когда элементальный навык наносит урон, есть <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  вероятность, что его откат моментально восстановится. Может возникнуть раз в <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color>  сек."
+            "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von <color style='color:#99FFFF;'>40 %</color> / <color style='color:#99FFFF;'>50 %</color> / <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color> , <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color>  s Abklingzeit."
         ]
     },
     "114404": {
         "Affix": [
-            "При нанесении урона противнику повышает шанс крит. попадания на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . Эффект может складываться до 5 раз. Добавочный шанс крит. попадания исчезает с первым крит. попаданием."
+            "Erhöht die KT beim Verursachen von Schaden um <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color> , 5-fach stapelbar. Effekt erlischt beim Verursachen eines KT."
         ]
     },
     "114405": {
         "Affix": [
-            "Попадания обычной атакой увеличивают урон элементальных навыков и взрыва стихии на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  в течение 6 сек. И наоборот, попадания элементальными навыками и взрывом стихии увеличивают урон обычной атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  в течение 6 сек."
+            "Erhöht den Schaden von Elementarfähigkeiten und Spezialfähigkeiten bei Treffern mit Standardangriffen 6 s lang um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> . Erhöht den Schaden von Standardangriffen bei Treffern mit Elementarfähigkeiten und Spezialfähigkeiten 6 s lang um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> ."
         ]
     },
     "114406": {
         "Affix": [
-            "В течение 6 сек. после использования взрыва стихий восстанавливается <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>4,5</color> / <color style='color:#99FFFF;'>5</color> / <color style='color:#99FFFF;'>5,5</color> / <color style='color:#99FFFF;'>6</color>  ед. энергии каждые 2 сек., а все члены отряда восстанавливают по <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>4,5%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>5,5%</color> / <color style='color:#99FFFF;'>6%</color>  HP каждые 2 сек."
+            "Stellt nach Anwendung von Spezialfähigkeiten 6 s lang alle 2 s <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>4,5</color> / <color style='color:#99FFFF;'>5</color> / <color style='color:#99FFFF;'>5,5</color> / <color style='color:#99FFFF;'>6</color>  Punkte Elementarenergie und allen Truppenmitgliedern alle 2 s <color style='color:#99FFFF;'>4 %</color> / <color style='color:#99FFFF;'>4,5 %</color> / <color style='color:#99FFFF;'>5 %</color> / <color style='color:#99FFFF;'>5,5 %</color> / <color style='color:#99FFFF;'>6 %</color>  LP wieder her."
         ]
     },
     "114407": {
         "Affix": [
-            "В течение 10 сек. после вызова элементальной реакции даёт <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  бонус элементального урона. Может складываться до 2 раз."
+            "Erhöht den Elementar-SCH beim Auslösen von Elementarreaktionen 10 s lang um <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color> . 2-fach stapelbar."
         ]
     },
     "114408": {
         "Affix": [
-            "Побеждённые противники увеличивают силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Длится 30 сек. Эффект может складываться до 3 раз. Длительность добавочных эффектов друг от друга не зависит."
+            "Erhöht den ANG beim Besiegen von Gegnern 30 s lang um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> . 3-fach stapelbar, Wirkungsdauer jeder Stapelung ist unabhängig."
         ]
     },
     "114409": {
         "Affix": [
-            "При попадании обычной или заряженной атакой появляется 50% шанс запустить Око сознания, которое наносит <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>270%</color> / <color style='color:#99FFFF;'>300%</color> / <color style='color:#99FFFF;'>330%</color> / <color style='color:#99FFFF;'>360%</color>  урона силы атаки. Оно способно отразиться от противника к противнику до 4 раз. Может возникнуть раз в <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>11</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>8</color>  сек."
+            "Schießt bei Treffern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Kugel des Herzensblicks ab und verursacht Schaden in Höhe von <color style='color:#99FFFF;'>240 %</color> / <color style='color:#99FFFF;'>270 %</color> / <color style='color:#99FFFF;'>300 %</color> / <color style='color:#99FFFF;'>330 %</color> / <color style='color:#99FFFF;'>360 %</color>  ANG. Geht bis zu 4-mal auf Gegner in der Nähe über. <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>11</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>8</color>  s Abklingzeit."
         ]
     },
     "114410": {
         "Affix": [
-            "Попадания обычной атакой уменьшают потребление выносливости спринта и навыков, заменяющих спринт, на <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>22%</color>  в течение 5 сек. Кроме того, использование спринта или навыка, заменяющего спринт, увеличивает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  в течение 5 сек."
+            "Verringert den Ausdauerverbrauch beim Rennen oder von Fähigkeiten, die Rennen ersetzen, beim Treffen von Gegnern mit Standardangriffen 5 s lang um <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>22 %</color> . Erhöht außerdem den ANG beim Rennen oder bei Anwendung von Fähigkeiten, die Rennen ersetzen, 5 s lang um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> ."
         ]
     },
     "114412": {
         "Affix": [
-            "Попадания обычной или заряженной атакой имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать над противником ледяной кристалл и уронить его, нанося <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>95%</color> / <color style='color:#99FFFF;'>110%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>140%</color>  урона силы атаки по площади. Если противник имеет эффект Крио, то наносит ему <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> / <color style='color:#99FFFF;'>360%</color>  урона силы атаки. Может возникнуть раз в 10 сек."
+            "Erstellt beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color> / <color style='color:#99FFFF;'>90 %</color> / <color style='color:#99FFFF;'>100 %</color>  über den Gegnern einen Kristallkern ewigen Eises, der herunterfällt und Flächenschaden in Höhe von <color style='color:#99FFFF;'>80 %</color> / <color style='color:#99FFFF;'>95 %</color> / <color style='color:#99FFFF;'>110 %</color> / <color style='color:#99FFFF;'>125 %</color> / <color style='color:#99FFFF;'>140 %</color>  ANG verursacht. Verursacht Schaden in Höhe von <color style='color:#99FFFF;'>200 %</color> / <color style='color:#99FFFF;'>240 %</color> / <color style='color:#99FFFF;'>280 %</color> / <color style='color:#99FFFF;'>320 %</color> / <color style='color:#99FFFF;'>360 %</color>  ANG, wenn die Gegner von Kryo-Effekten betroffen sind. 10 s Abklingzeit."
         ]
     },
     "114413": {
         "Affix": [
-            "Попадания обычной атакой увеличивают урон заряженной атаки на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  в течение 6 сек., а попадания заряженной атакой увеличивают силу атаки на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  в течение 6 сек."
+            "Erhöht den mit heftigen Schlägen verursachten Schaden nach dem Treffen von Gegnern mit Standardangriffen 6 s lang um <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color> . Erhöht den ANG nach dem Treffen von Gegnern mit heftigen Schlägen 6 s lang um <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color> ."
         ]
     },
     "114414": {
         "Affix": [
-            "Когда персонаж, экипированный этим оружием, вызывает реакцию, связанную с элементом Электро, все находящиеся рядом члены отряда, чей элемент соответствует этой реакции, получают <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12,5%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>17,5%</color> / <color style='color:#99FFFF;'>20%</color>  бонус урона к своему элементу на 6 сек. Элементальные бонусы урона, полученные таким образом, не суммируются."
+            "Erhöht beim Auslösen von Elektro-Reaktionen durch die mit dieser Waffe ausgerüsteten Figur den Elementar-SCH von Truppenmitgliedern mit dem an der Elementarreaktion beteiligten Element in der Nähe 6 s lang um <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12,5 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>17,5 %</color> / <color style='color:#99FFFF;'>20 %</color> . Der auf diese Weise durch die Figur erhaltene Elementar-SCH-Bonus ist nicht stapelbar."
         ]
     },
     "114415": {
         "Affix": [
-            "Использование элементального навыка увеличивает восстановление энергии на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  в течение 10 сек."
+            "Erhöht bei Anwendung von Elementarfähigkeiten die Aufladerate 10 s lang um <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>36 %</color> / <color style='color:#99FFFF;'>42 %</color> / <color style='color:#99FFFF;'>48 %</color> ."
         ]
     },
     "114416": {
         "Affix": [
-            "Каждые 10 сек. срабатывает следующий эффект: сила атаки экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  от мастерства стихий на 12 сек. Члены отряда поблизости получают 30% этого эффекта. Если этим оружием обладают и другие члены отряда, эффект суммируется. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя."
+            "Löst alle 10 s den folgenden Effekt aus, der 12 s hält: Erhöht den ANG der damit ausgerüsteten Figur um <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>36 %</color> / <color style='color:#99FFFF;'>42 %</color> / <color style='color:#99FFFF;'>48 %</color>  der Elementarkunde, die sie besitzt. Verleiht zugleich den anderen Truppenmitgliedern in der Nähe 30 % dieses Bonus. Der Effekt mehrerer gleicher Waffen ist stapelbar. Er tritt auch in Kraft, wenn sich die Figur inaktiv in der Truppe befindet."
         ]
     },
     "114417": {
         "Affix": [
-            "Вызов элементальной реакции наделяет персонажа эффектом Роста и убыли, который увеличивает мастерство стихий на <color style='color:#99FFFF;'>24</color> / <color style='color:#99FFFF;'>27</color> / <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>33</color> / <color style='color:#99FFFF;'>36</color>  ед., но понижает силу атаки на 5%. Эффект может возникнуть один раз в 0,3 сек. и складывается до 5 раз. Если не вызывать элементальные реакции, каждые 6 сек. теряется по одному уровню эффекта. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя."
+            "Erhält nach dem Auslösen einer Elementarreaktion den Effekt „Mondphase“: Erhöht die Elementarkunde um <color style='color:#99FFFF;'>24</color> / <color style='color:#99FFFF;'>27</color> / <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>33</color> / <color style='color:#99FFFF;'>36</color>  Punkte und verringert den ANG um 5 %. Alle 0,3 s kann nur eine Stapelung dieses Effekts erhalten werden, 5-fach stapelbar. Wenn innerhalb von 6 s keine Elementarreaktion ausgelöst wird, wird eine Stapelung entfernt. Dieser Effekt tritt auch in Kraft, wenn sich die Figur inaktiv in der Truppe befindet."
         ]
     },
     "114424": {
         "Affix": [
-            "Если персонаж не на поле боя более 5 сек., макс. HP увеличивается на <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>56%</color> / <color style='color:#99FFFF;'>64%</color> , а мастерство стихий - на <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color>  ед. После вступления персонажа в бой эффект длится 10 сек., после чего исчезает."
+            "Erhöht die max. LP um <color style='color:#99FFFF;'>32 %</color> / <color style='color:#99FFFF;'>40 %</color> / <color style='color:#99FFFF;'>48 %</color> / <color style='color:#99FFFF;'>56 %</color> / <color style='color:#99FFFF;'>64 %</color>  und die Elementarkunde um <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color>  Punkte, sobald sich die Figur mehr als 5 s inaktiv in der Truppe befindet. Der Effekt verschwindet nach 10 s, nachdem der Träger eingewechselt worden ist und sich dauerhaft aktiv auf dem Feld befunden hat."
         ]
     },
     "114425": {
         "Affix": [
-            "Активация элементального навыка повышает бонус урона всеми элементами на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  на 15 сек. и накладывает Долг жизни, равный 24% от макс. HP. Эффект может возникнуть один раз в 10 сек. Когда Долг жизни снимается, бонус урона всеми элементами на 15 сек. увеличивается на <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2,5%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3,5%</color> / <color style='color:#99FFFF;'>4%</color>  за каждые отданные 1000 ед. HP Долга жизни. Бонус урона всеми элементами, полученный таким образом, не может превышать <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> ."
+            "Erhöht beim Auslösen der Elementarfähigkeit den Elementar-SCH-Bonus aller Elemente um <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color> , hält 15 s. Es entsteht gleichzeitig ein Eid des Lebens mit einem Basiswert in Höhe von 24 % der max. LP. 10 s Abklingzeit. Wenn der Eid des Lebens entfernt wird, wird der Elementar-SCH-Bonus aller Elemente pro 1.000 Punkte entfernter Summe um jeweils <color style='color:#99FFFF;'>2 %</color> / <color style='color:#99FFFF;'>2,5 %</color> / <color style='color:#99FFFF;'>3 %</color> / <color style='color:#99FFFF;'>3,5 %</color> / <color style='color:#99FFFF;'>4 %</color> , max. <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> , erhöht. Hält 15 s."
         ]
     },
     "114426": {
         "Affix": [
-            "В течение 6 сек. после попадания обычной или заряженной атаки по противнику урон обычной атаки повысится на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> , а урон заряженной атаки - на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color> . Эффект может складываться до 3 раз и возникает один раз в 0,3 сек."
+            "Erhöht den mit Standardangriffen verursachten Schaden nach dem Treffen von Gegnern mit Standardangriffen oder heftigen Schlägen 6 s lang um <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color>  und den mit heftigen Schlägen verursachten Schaden um <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7,5 %</color> / <color style='color:#99FFFF;'>9 %</color> / <color style='color:#99FFFF;'>10,5 %</color> / <color style='color:#99FFFF;'>12 %</color> . 3-fach stapelbar, 0,3 s Abklingzeit."
         ]
     },
     "114501": {
         "Affix": [
-            "Увеличивает бонус элементального урона на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . При попадании обычной атакой есть 50% шанс получить благословение облаков, которые в течение 15 сек. атакуют ближайших врагов и наносят им <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color>  урона. Может возникнуть раз в 30 сек."
+            "Erhöht den Elementarschaden um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color>  und erhält bei Treffern mit Standardangriffen mit einer Wahrscheinlichkeit von 50 % die Gunst der Wolken, die Gegner in der Umgebung aktiv angreifen und Schaden in Höhe von <color style='color:#99FFFF;'>160 %</color> / <color style='color:#99FFFF;'>200 %</color> / <color style='color:#99FFFF;'>240 %</color> / <color style='color:#99FFFF;'>280 %</color> / <color style='color:#99FFFF;'>320 %</color>  ANG verursachen. 30 s Abklingzeit."
         ]
     },
     "114502": {
         "Affix": [
-            "Увеличивает скорость передвижения на 10%. Во время битвы даёт <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  бонус элементального урона каждые 4 сек. Может складываться до 4 раз. Эффект оканчивается, если персонаж погибает или покидает поле боя."
+            "Erhöht die Bewegungs-GSW um 10 % und den Elementar-SCH nach dem Einwechseln alle 4 s um <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color> . 4-fach stapelbar, hält bis zum Auswechseln oder, bis die Figur ohnmächtig wird."
         ]
     },
     "114504": {
         "Affix": [
-            "Увеличивает прочность щита на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . При попадании увеличивает силу атаки на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  в течение 8 сек. Эффект может складываться до 5 раз и возникнуть раз в 0,3 сек. Кроме того, под защитой щита бонус силы атаки данного эффекта увеличивается на 100%."
+            "Erhöht die Schildeffizienz um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> . Erhöht den ANG nach Treffern 8 s lang um <color style='color:#99FFFF;'>4 %</color> / <color style='color:#99FFFF;'>5 %</color> / <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7 %</color> / <color style='color:#99FFFF;'>8 %</color> . 5-fach stapelbar, 0,3 s Abklingzeit. Erhöht die Wirksamkeit der Erhöhung des ANG außerdem im Schutz von Schilden um 100 %."
         ]
     },
     "114505": {
         "Affix": [
-            "Когда экипированный персонаж активирует взрыв стихии или создаёт щит, он на 3 сек. получает эффект Камня воли: каждые 2,5 сек. восстанавливается <color style='color:#99FFFF;'>4,5</color> / <color style='color:#99FFFF;'>5</color> / <color style='color:#99FFFF;'>5,5</color> / <color style='color:#99FFFF;'>6</color> / <color style='color:#99FFFF;'>6,5</color>  ед. энергии, а бонус урона соответствующего элемента повышается на <color style='color:#99FFFF;'>0,3%</color> / <color style='color:#99FFFF;'>0,5%</color> / <color style='color:#99FFFF;'>0,7%</color> / <color style='color:#99FFFF;'>0,9%</color> / <color style='color:#99FFFF;'>1,1%</color>  за каждую 1000 ед. макс. HP персонажа, максимум <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>44%</color> . Эффект Камня воли активируется, даже если экипированный персонаж не на поле боя."
+            "Verleiht innerhalb 3 s nach Anwenden von Spezialfähigkeiten oder Erstellen eines Schilds den Effekt „Urzeitliche Jadeinsignien“: Stellt alle 2,5 s <color style='color:#99FFFF;'>4,5</color> / <color style='color:#99FFFF;'>5</color> / <color style='color:#99FFFF;'>5,5</color> / <color style='color:#99FFFF;'>6</color> / <color style='color:#99FFFF;'>6,5</color>  Punkte Elementarenergie wieder her und erhöht den Elementar-SCH-Bonus des jeweiligen Elementartyps basierend auf den max. LP des Trägers für je 1.000 Punkte um <color style='color:#99FFFF;'>0,3 %</color> / <color style='color:#99FFFF;'>0,5 %</color> / <color style='color:#99FFFF;'>0,7 %</color> / <color style='color:#99FFFF;'>0,9 %</color> / <color style='color:#99FFFF;'>1,1 %</color> , max. <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>36 %</color> / <color style='color:#99FFFF;'>44 %</color> . Der Effekt „Urzeitliche Jadeinsignien“ wird auch ausgelöst, wenn die mit dieser Waffe ausgerüstete Figur inaktiv ist."
         ]
     },
     "114506": {
         "Affix": [
-            "Увеличивает бонус лечения на <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12,5%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>17,5%</color> / <color style='color:#99FFFF;'>20%</color> , также повышает урон обычной атаки на <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1,5%</color> / <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2,5%</color> / <color style='color:#99FFFF;'>3%</color>  от макс. HP экипированного этим оружием персонажа. В течение 12 сек. после использования взрыва стихии попадания обычной атакой по противнику восстанавливают 0,6 ед. энергии. Энергию можно восстановить не чаще чем раз в 0,1 сек."
+            "Erhöht den Heilungsbonus um <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12,5 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>17,5 %</color> / <color style='color:#99FFFF;'>20 %</color> . Erhöht den mit Standardangriffen verursachten Schaden um <color style='color:#99FFFF;'>1 %</color> / <color style='color:#99FFFF;'>1,5 %</color> / <color style='color:#99FFFF;'>2 %</color> / <color style='color:#99FFFF;'>2,5 %</color> / <color style='color:#99FFFF;'>3 %</color>  der max. LP der mit dieser Waffe ausgerüsteten Figur. Stellt nach Anwendung von Spezialfähigkeiten 12 s lang beim Treffen von Gegnern mit Standardangriffen 0,6 Punkte Elementarenergie wieder her. Stellt auf diese Weise alle 0,1 s höchstens einmal Elementarenergie wieder her."
         ]
     },
     "114509": {
         "Affix": [
-            "Использование элементального навыка наделяет экипированного этим оружием персонажа эффектом «Танец кагура», который увеличивает урон его элементального навыка на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Этот эффект длится 16 сек. и может складываться до 3 раз. На 3 уровне эффекта персонаж получает <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  бонус урона всеми элементами."
+            "Verleiht bei Anwendung von Elementarfähigkeiten den Effekt „Kagura-Tanz“, der den mit Elementarfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden 16 s lang um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color>  erhöht, 3-fach stapelbar. Erhöht bei 3 Stapelungen den Schaden aller Elemente dieser Figur um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> ."
         ]
     },
     "114511": {
         "Affix": [
-            "Другие члены отряда предоставляют экипированному этим оружием персонажу усиления в зависимости от того, совпадают их элементы, или нет. Если элементы совпадают, мастерство стихий повышается на <color style='color:#99FFFF;'>32</color> / <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>48</color> / <color style='color:#99FFFF;'>56</color> / <color style='color:#99FFFF;'>64</color>  ед. Если не совпадают, экипированный этим оружием персонаж получает <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>22%</color> / <color style='color:#99FFFF;'>26%</color>  бонус урона своего элемента. Данные эффекты складываются до 3 раз. Вдобавок мастерство стихий всех персонажей отряда поблизости (кроме экипированного этим оружием персонажа) увеличивается на <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>42</color> / <color style='color:#99FFFF;'>44</color> / <color style='color:#99FFFF;'>46</color> / <color style='color:#99FFFF;'>48</color>  единиц. Если этим оружием обладают и другие члены отряда, эффект суммируется."
+            "Verleiht dem Träger für jedes weitere Truppenmitglied gemäß dessen Elementartyp folgende Boni. Gleicher Elementartyp: Erhöht die Elementarkunde um <color style='color:#99FFFF;'>32</color> / <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>48</color> / <color style='color:#99FFFF;'>56</color> / <color style='color:#99FFFF;'>64</color>  Punkte. Anderer Elementartyp: Erhöht den Schaden des jeweiligen Elements des Trägers um <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>22 %</color> / <color style='color:#99FFFF;'>26 %</color> . Beide Effekte sind 3-fach stapelbar. Erhöht außerdem die Elementarkunde der anderen Truppenmitglieder in der Nähe um <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>42</color> / <color style='color:#99FFFF;'>44</color> / <color style='color:#99FFFF;'>46</color> / <color style='color:#99FFFF;'>48</color>  Punkte. Dieser Effekt kann bei mehreren gleichen Waffen gestapelt werden."
         ]
     },
     "114512": {
         "Affix": [
-            "Скорость обычной атаки повышается на <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12,5%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>17,5%</color> / <color style='color:#99FFFF;'>20%</color> . После активации экипированным этим оружием персонажем элементального навыка урон обычной атаки будет повышаться на <color style='color:#99FFFF;'>4,8%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,2%</color> / <color style='color:#99FFFF;'>8,4%</color> / <color style='color:#99FFFF;'>9,6%</color>  в секунду в течение 14 сек. Пока этот эффект активен, каждое попадание по противнику мгновенно увеличивает урон обычной атаки на <color style='color:#99FFFF;'>9,6%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14,4%</color> / <color style='color:#99FFFF;'>16,8%</color> / <color style='color:#99FFFF;'>19,2%</color> . Увеличение может возникнуть один раз в 0,3 сек. Во время действия одного такого эффекта урон обычной атаки может быть увеличен максимум на <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>72%</color> / <color style='color:#99FFFF;'>84%</color> / <color style='color:#99FFFF;'>96%</color> . Эффект будет снят, если персонаж покинет поле боя, а повторная активация элементального навыка сбросит увеличение урона."
+            "Erhöht die Standardangriffs-GSW um <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12,5 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>17,5 %</color> / <color style='color:#99FFFF;'>20 %</color> . Innerhalb von 14 s nach Anwenden der Elementarfähigkeit: Erhöht den von Standardangriffen verursachten Schaden um <color style='color:#99FFFF;'>4,8 %</color> / <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7,2 %</color> / <color style='color:#99FFFF;'>8,4 %</color> / <color style='color:#99FFFF;'>9,6 %</color>  pro s. Nach dem Treffen von Gegnern mit Standardangriffen wird der von Standardangriffen verursachte Schaden um <color style='color:#99FFFF;'>9,6 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14,4 %</color> / <color style='color:#99FFFF;'>16,8 %</color> / <color style='color:#99FFFF;'>19,2 %</color>  erhöht, 0,3 s Abklingzeit. Innerhalb der Wirkungsdauer kann der von Standardangriffen verursachte Schaden höchstens um <color style='color:#99FFFF;'>48 %</color> / <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>72 %</color> / <color style='color:#99FFFF;'>84 %</color> / <color style='color:#99FFFF;'>96 %</color>  erhöht werden. Beim Auswechseln der Figur wird dieser Effekt entfernt. Erneutes Anwenden der Elementarfähigkeit entfernt den bestehenden Effekt."
         ]
     },
     "114513": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> . Когда текущее HP персонажа повышается или понижается, на 4 сек. урон обычной атаки увеличивается на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> , а заряженной атаки - на <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>17,5%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24,5%</color> / <color style='color:#99FFFF;'>28%</color> . Эффект складывается до 3 раз и возникает не чаще, чем 1 раз в 0,3 сек. При получении экипированным персонажем 3 уровней скорость атаки увеличивается на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> ."
+            "Erhöht den ANG um <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color> . Erhöht den mit Standardangriffen verursachten Schaden um <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color>  und den mit heftigen Schlägen verursachten Schaden um <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>17,5 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24,5 %</color> / <color style='color:#99FFFF;'>28 %</color> , wenn sich die aktuellen LP erhöhen oder verringern. Hält 4 s, 3-fach stapelbar, 0,3 s Abklingzeit. Erhöht bei Erreichen von 3 Stapelungen die Angriffs-GSW um <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color> ."
         ]
     },
     "114514": {
         "Affix": [
-            "Увеличивает HP на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> . Когда текущее HP персонажа повышается или понижается, урон заряженной атаки увеличивается на <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>22%</color> / <color style='color:#99FFFF;'>26%</color> / <color style='color:#99FFFF;'>30%</color>  на 4 сек. Эффект складывается до 3 раз и возникает не чаще, чем 1 раз в 0,3 сек. При получении 3 уровней или обновлении времени длительности 3 уровня восстанавливается <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>11</color> / <color style='color:#99FFFF;'>12</color>  ед. энергии. Восстанавливать энергию таким образом можно 1 раз в 12 сек."
+            "Erhöht die LP um <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color> . Erhöht den mit heftigen Schlägen verursachten Schaden um <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>22 %</color> / <color style='color:#99FFFF;'>26 %</color> / <color style='color:#99FFFF;'>30 %</color> , wenn sich die aktuellen LP erhöhen oder verringern. Hält 4 s, 3-fach stapelbar, 0,3 s Abklingzeit. Stellt bei Erreichen von 3 Stapelungen oder bei Zurücksetzen der Wirkungsdauer von 3 Stapelungen <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>11</color> / <color style='color:#99FFFF;'>12</color>  Punkte Elementarenergie wieder her. 12 s Abklingzeit."
         ]
     },
     "114515": {
         "Affix": [
-            "После того как атака в падении экипированного персонажа поражает врага, урон атак в падении членов отряда поблизости повышается на <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>41%</color> / <color style='color:#99FFFF;'>54%</color> / <color style='color:#99FFFF;'>67%</color> / <color style='color:#99FFFF;'>80%</color>  на 20 сек. Попадания атак в падении членов отряда поблизости восстанавливают <color style='color:#99FFFF;'>2,5</color> / <color style='color:#99FFFF;'>2,75</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3,25</color> / <color style='color:#99FFFF;'>3,5</color>  ед. энергии экипированного персонажа. Восстанавливать энергию таким образом можно 1 раз в 0,7 сек. Эффект восстановления энергии срабатывает, даже если экипированный персонаж не на поле боя."
+            "Erhöht den Schaden des Angriffs aus dem Fall aller Truppenmitglieder in der Nähe 20 s lang um <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>41 %</color> / <color style='color:#99FFFF;'>54 %</color> / <color style='color:#99FFFF;'>67 %</color> / <color style='color:#99FFFF;'>80 %</color> , nachdem der Träger Gegner mit dem Angriff aus dem Fall getroffen hat. Stellt dem Träger <color style='color:#99FFFF;'>2,5</color> / <color style='color:#99FFFF;'>2,75</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3,25</color> / <color style='color:#99FFFF;'>3,5</color>  Punkte Elementarenergie wieder her, wenn die Angriffe aus dem Fall der Truppenmitglieder in der Nähe Gegner treffen, 0,7 s Abklingzeit. Die Elementarenergie kann auch wiederhergestellt werden, wenn der Träger inaktiv in der Truppe ist."
         ]
     },
     "115301": {
         "Affix": [
-            "Увеличивает на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  урон против врагов, находящихся под действием Гидро или Пиро элементов."
+            "Erhöht den von Hydro- oder Pyro-Effekten betroffenen Gegnern zugefügten Schaden um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> ."
         ]
     },
     "115302": {
         "Affix": [
-            "Увеличивает урон по слабым местам противников на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> ."
+            "Erhöht den Schwachstellen zugefügten Schaden um <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>36 %</color> / <color style='color:#99FFFF;'>42 %</color> / <color style='color:#99FFFF;'>48 %</color> ."
         ]
     },
     "115303": {
         "Affix": [
-            "Победа над противником восстанавливает <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  HP."
+            "Stellt beim Besiegen eines Gegners <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color>  LP wieder her."
         ]
     },
     "115304": {
         "Affix": [
-            "Если обычная или заряженная стрела поразила цель в течение 0,3 сек. после выстрела, то её урон увеличивается на <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>54%</color> / <color style='color:#99FFFF;'>60%</color> . В противном случае урон уменьшается на 10%."
+            "Erhöht den Schaden beim Treffen von Gegnern mit Pfeilen von Standardangriffen und heftigen Schlägen innerhalb von 0,3 s nach dem Abschießen eines Pfeils um <color style='color:#99FFFF;'>36 %</color> / <color style='color:#99FFFF;'>42 %</color> / <color style='color:#99FFFF;'>48 %</color> / <color style='color:#99FFFF;'>54 %</color> / <color style='color:#99FFFF;'>60 %</color> , verringert den verursachten Schaden ansonsten jedoch um 10 %."
         ]
     },
     "115305": {
         "Affix": [
-            "При попадании заряженной атакой по слабому месту дополнительно наносит <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>150%</color> / <color style='color:#99FFFF;'>175%</color> / <color style='color:#99FFFF;'>200%</color>  урона в качестве крит. урона. Может возникнуть раз в 10 сек."
+            "Verursacht beim Treffen von Schwachstellen mit heftigen Schlägen zusätzlichen Schaden in Höhe von <color style='color:#99FFFF;'>100 %</color> / <color style='color:#99FFFF;'>125 %</color> / <color style='color:#99FFFF;'>150 %</color> / <color style='color:#99FFFF;'>175 %</color> / <color style='color:#99FFFF;'>200 %</color>  ANG sowie auf jeden Fall einen KT. 10 s Abklingzeit."
         ]
     },
     "115306": {
         "Affix": [
-            "Увеличивает урон по механическим защитникам руин на <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> ."
+            "Erhöht den Vorrichtungen in Ruinen zugefügten Schaden um <color style='color:#99FFFF;'>40 %</color> / <color style='color:#99FFFF;'>50 %</color> / <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color> ."
         ]
     },
     "115401": {
         "Affix": [
-            "Критические атаки имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать элементальные частицы, которые восстанавливают 6 ед. энергии. Возникает раз в <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>6</color>  сек."
+            "Erschafft bei einem KT mit einer Wahrscheinlichkeit von <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color> / <color style='color:#99FFFF;'>90 %</color> / <color style='color:#99FFFF;'>100 %</color>  einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>6</color>  s Abklingzeit."
         ]
     },
     "115402": {
         "Affix": [
-            "Увеличивает урон элементального навыка и взрыва стихии на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> ."
+            "Erhöht den Schaden von Elementarfähigkeiten und Spezialfähigkeiten um <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>36 %</color> / <color style='color:#99FFFF;'>42 %</color> / <color style='color:#99FFFF;'>48 %</color> ."
         ]
     },
     "115403": {
         "Affix": [
-            "Когда элементальный навык наносит урон, есть <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  вероятность, что его откат моментально восстановится. Может возникнуть раз в <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color>  сек."
+            "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von <color style='color:#99FFFF;'>40 %</color> / <color style='color:#99FFFF;'>50 %</color> / <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color> , <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color>  s Abklingzeit."
         ]
     },
     "115404": {
         "Affix": [
-            "При нанесении урона противнику повышает шанс крит. попадания на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . Эффект может складываться до 5 раз. Добавочный шанс крит. попадания исчезает с первым крит. попаданием."
+            "Erhöht die KT beim Verursachen von Schaden um <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color> , 5-fach stapelbar. Effekt erlischt beim Verursachen eines KT."
         ]
     },
     "115405": {
         "Affix": [
-            "Увеличивает урон обычной атаки на <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> , но понижает урон заряженной атаки на 10%."
+            "Erhöht den mit Standardangriffen verursachten Schaden um <color style='color:#99FFFF;'>40 %</color> / <color style='color:#99FFFF;'>50 %</color> / <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color>  und verringert den mit heftigen Schlägen verursachten Schaden um 10 %."
         ]
     },
     "115406": {
         "Affix": [
-            "Попадания заряженной атакой по слабым местам увеличивают скорость передвижения на 10% и силу атаки на <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>45%</color> / <color style='color:#99FFFF;'>54%</color> / <color style='color:#99FFFF;'>63%</color> / <color style='color:#99FFFF;'>72%</color>  в течение 10 сек."
+            "Erhöht die Bewegungs-GSW beim Treffen von Schwachstellen mit heftigen Schlägen 10 s lang um 10 % und den ANG um <color style='color:#99FFFF;'>36 %</color> / <color style='color:#99FFFF;'>45 %</color> / <color style='color:#99FFFF;'>54 %</color> / <color style='color:#99FFFF;'>63 %</color> / <color style='color:#99FFFF;'>72 %</color> ."
         ]
     },
     "115407": {
         "Affix": [
-            "Попадания обычной и заряженной атакой увеличивают силу атаки на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  и скорость атаки на <color style='color:#99FFFF;'>1,2%</color> / <color style='color:#99FFFF;'>1,5%</color> / <color style='color:#99FFFF;'>1,8%</color> / <color style='color:#99FFFF;'>2,1%</color> / <color style='color:#99FFFF;'>2,4%</color>  в течение 6 сек. Эффект может складываться до 4 раз. Может возникнуть раз в 0,3 сек."
+            "Erhöht den ANG bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um <color style='color:#99FFFF;'>4 %</color> / <color style='color:#99FFFF;'>5 %</color> / <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7 %</color> / <color style='color:#99FFFF;'>8 %</color>  und die Standardangriffs-GSW um <color style='color:#99FFFF;'>1,2 %</color> / <color style='color:#99FFFF;'>1,5 %</color> / <color style='color:#99FFFF;'>1,8 %</color> / <color style='color:#99FFFF;'>2,1 %</color> / <color style='color:#99FFFF;'>2,4 %</color> . 4-fach stapelbar, 0,3 s Abklingzeit."
         ]
     },
     "115408": {
         "Affix": [
-            "Побеждённые противники увеличивают силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Длится 30 сек. Эффект может складываться до 3 раз. Длительность добавочных эффектов друг от друга не зависит."
+            "Erhöht den ANG beim Besiegen von Gegnern 30 s lang um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> . 3-fach stapelbar, Wirkungsdauer jeder Stapelung ist unabhängig."
         ]
     },
     "115409": {
         "Affix": [
-            "При попадании обычной или заряженной атакой появляется 50% шанс создать Циклон, который притягивает к себе врагов и наносит им <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  урона каждые 0,5 сек. в течение 4 сек. Может возникнуть раз в <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>13</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>11</color> / <color style='color:#99FFFF;'>10</color>  сек."
+            "Erschafft bei Treffern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % ein Windauge, das Gegner in der Umgebung fortlaufend ansaugt und ihnen 4 s lang alle 0,5 s Schaden in Höhe von <color style='color:#99FFFF;'>40 %</color> / <color style='color:#99FFFF;'>50 %</color> / <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color>  ANG zufügt. <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>13</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>11</color> / <color style='color:#99FFFF;'>10</color>  s Abklingzeit."
         ]
     },
     "115410": {
         "Affix": [
-            "Увеличивает урон экипированного этим оружием персонажа, когда тот не на поле боя, на <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2,5%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3,5%</color> / <color style='color:#99FFFF;'>4%</color>  в сек. Таким способом макс. количество наносимого урона может быть увеличено до <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . Через 4 сек. после появления персонажа на поле боя бонус повышения урона от данного эффекта начнёт убывать по <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  в сек., пока не опустится до 0%."
+            "Erhöht den von der mit dieser Waffe ausgerüsteten Figur verursachten Schaden, wenn diese Figur in der Truppe, aber nicht eingewechselt ist, pro s um <color style='color:#99FFFF;'>2 %</color> / <color style='color:#99FFFF;'>2,5 %</color> / <color style='color:#99FFFF;'>3 %</color> / <color style='color:#99FFFF;'>3,5 %</color> / <color style='color:#99FFFF;'>4 %</color>  und insgesamt um bis zu <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> . Verringert diesen Schadensbonus 4 s nach Einwechseln dieser Figur pro s um <color style='color:#99FFFF;'>4 %</color> / <color style='color:#99FFFF;'>5 %</color> / <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7 %</color> / <color style='color:#99FFFF;'>8 %</color> , bis der Bonus auf 0 % gefallen ist."
         ]
     },
     "115411": {
         "Affix": [
-            "Оружие обладает 3 состояниями: Закат, Туман и Заря, каждое из которых увеличивает наносимый урон на <color style='color:#99FFFF;'>6%/10%/14%</color> / <color style='color:#99FFFF;'>7,5%/12,5%/17,5%</color> / <color style='color:#99FFFF;'>9%/15%/21%</color> / <color style='color:#99FFFF;'>10,5%/17,5%/24,5%</color> / <color style='color:#99FFFF;'>12%/20%/28%</color>  соответственно. После попадания по противнику состояние меняется на следующее, не чаще одного раза в 7 сек. Эффект смены состояния срабатывает, даже когда персонаж не на поле боя."
+            "Diese Waffe hat drei Zustände: Zwielicht, Abendröte und Morgengrauen. Diese drei Zustände erhöhen den verursachten Schaden jeweils um <color style='color:#99FFFF;'>6/10/14 %</color> / <color style='color:#99FFFF;'>7,5/12,5/17,5 %</color> / <color style='color:#99FFFF;'>9/15/21 %</color> / <color style='color:#99FFFF;'>10,5/17,5/24,5 %</color> / <color style='color:#99FFFF;'>12/20/28 %</color> . Nachdem die Figur einen Gegner trifft, wird der aktuelle Zustand deaktiviert und der nächste Zustand wird aktiviert. 7 s Abklingzeit für den Zustandswechsel, der auch ausgelöst werden kann, wenn die mit dieser Waffe ausgerüstete Figur inaktiv ist."
         ]
     },
     "115412": {
         "Affix": [
-            "Попадания обычной атакой увеличивают урон элементального навыка на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  в течение 5 сек., а попадания элементальным навыком увеличивают урон обычной атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  в течение 5 сек."
+            "Erhöht den mit Elementarfähigkeiten verursachten Schaden nach dem Treffen von Gegnern mit Standardangriffen 5 s lang um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> . Erhöht den mit Standardangriffen verursachten Schaden nach dem Treffen von Gegnern mit Elementarfähigkeiten 5 s lang um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> ."
         ]
     },
     "115413": {
         "Affix": [
-            "Использование элементального навыка накладывает Древнее желание анемонии, которое увеличивает силу атаки на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  в течение 6 сек."
+            "Verleiht beim Auslösen von Elementarfähigkeiten den alten Wunsch der Windblumen und erhöht den ANG 6 s lang um <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color> ."
         ]
     },
     "115414": {
         "Affix": [
-            "Увеличивает урон обычной атаки на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  и урон заряженной атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Когда элементальная энергия персонажа с этим оружием достигает 100%, эффект увеличивается на 100%."
+            "Erhöht den mit Standardangriffen verursachten Schaden um <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color>  und den mit heftigen Schlägen verursachten Schaden um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> . Verstärkt diesen Effekt bei 100 % Elementarenergie der mit dieser Waffe ausgerüsteten Figur um 100 %."
         ]
     },
     "115415": {
         "Affix": [
-            " <color style='color:#99FFFF;'>Действует только для игроков</color> <br> <color style='color:#99FFFF;'>\"PlayStation Network\".</color> <br>Нанесённый противникам Крио урон повышает урон обычной и заряженной атаки персонажа на 10% в течение 6 сек. Эффект может складываться до 2 раз. Кроме этого, когда Хищником экипирована Элой, сила атаки повышается на 66 ед."
+            " <color style='color:#99FFFF;'>Nur für Spieler auf folgender Plattform wirksam:</color> <br> <color style='color:#99FFFF;'>„PlayStation Network“</color> <br>Erhöht nach dem Treffen von Gegnern mit Kryo-Schaden den mit Standardangriffen und heftigen Schlägen verursachten Schaden 6 s lang um 10 %, 2-fach stapelbar. Erhöht Aloys ANG beim Anlegen von Raubtier zusätzlich um 66 Punkte."
         ]
     },
     "115416": {
         "Affix": [
-            "Урон взрыва стихии экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>0,12%</color> / <color style='color:#99FFFF;'>0,15%</color> / <color style='color:#99FFFF;'>0,18%</color> / <color style='color:#99FFFF;'>0,21%</color> / <color style='color:#99FFFF;'>0,24%</color>  за каждую единицу суммы макс. энергии каждого члена отряда. Бонус урона не может превышать <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> ."
+            "Erhöht den mit Spezialfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden für jeden Punkt aus der Summe der max. Elementarenergie aller Truppenmitglieder zusammengerechnet um <color style='color:#99FFFF;'>0,12 %</color> / <color style='color:#99FFFF;'>0,15 %</color> / <color style='color:#99FFFF;'>0,18 %</color> / <color style='color:#99FFFF;'>0,21 %</color> / <color style='color:#99FFFF;'>0,24 %</color> . Erhöht den mit Spezialfähigkeit verursachten Schaden auf diese Weise um bis zu <color style='color:#99FFFF;'>40 %</color> / <color style='color:#99FFFF;'>50 %</color> / <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color> ."
         ]
     },
     "115417": {
         "Affix": [
-            "Активация элементального навыка или взрыва стихии наделяет персонажа эффектом Наставлений лесов, который увеличивает его мастерство стихий на <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>80</color> / <color style='color:#99FFFF;'>100</color> / <color style='color:#99FFFF;'>120</color> / <color style='color:#99FFFF;'>140</color>  ед. на 12 сек. При переключении персонажа эффект пропадёт. Когда время действия эффекта заканчивается или он пропадёт, одному из противников поблизости наносится урон в <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>120%</color> / <color style='color:#99FFFF;'>140%</color> / <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>180%</color>  от силы атаки. Этот эффект может возникнуть раз в 20 сек."
+            "Erhält beim Anwenden der Elementarfähigkeit oder Spezialfähigkeit den Effekt „Waldlehre“, der 12 s lang die Elementarkunde um <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>80</color> / <color style='color:#99FFFF;'>100</color> / <color style='color:#99FFFF;'>120</color> / <color style='color:#99FFFF;'>140</color>  Punkte erhöht. Dieser Effekt wird beim Auswechseln der Figur entfernt. Wenn die Dauer des Effekts endet oder der Effekt entfernt wird, wird 1 Gegner in der Nähe Schaden in Höhe von <color style='color:#99FFFF;'>100 %</color> / <color style='color:#99FFFF;'>120 %</color> / <color style='color:#99FFFF;'>140 %</color> / <color style='color:#99FFFF;'>160 %</color> / <color style='color:#99FFFF;'>180 %</color>  ANG zugefügt. 20 s Abklingzeit."
         ]
     },
     "115418": {
         "Affix": [
-            "Активация элементального навыка вызывает эффект Плывущего по течению: атаки при попадании наносят урон по площади, равный <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>120%</color> / <color style='color:#99FFFF;'>140%</color> / <color style='color:#99FFFF;'>160%</color>  от силы атаки. Через 15 сек. либо после 3 нанёсших урон атак эффект исчезнет. Эффект наносит урон не чаще одного раза в 2 сек. и может возникнуть раз в 12 сек."
+            "Löst beim Anwenden der Elementarfähigkeit den Effekt „Drift“ aus, bei dem die Figur, wenn sie einen Gegner trifft, Flächenschaden in Höhe von <color style='color:#99FFFF;'>80 %</color> / <color style='color:#99FFFF;'>100 %</color> / <color style='color:#99FFFF;'>120 %</color> / <color style='color:#99FFFF;'>140 %</color> / <color style='color:#99FFFF;'>160 %</color>  ANG verursacht. Dieser Effekt wird nach 15 s oder 3-maligem Verursachen des Flächenschadens entfernt. 2 s Abklingzeit für das Verursachen solch eines Flächenschadens, 12 s Abklingzeit für den Effekt „Drift“."
         ]
     },
     "115419": {
         "Affix": [
-            "Попадание заряженной атакой по противнику увеличивает мастерство стихий на <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color>  ед. на 6 сек. Эффект складывается до 2 раз и может возникнуть раз в 0,5 сек."
+            "Erhöht nach dem Treffen von Gegnern mit heftigen Schlägen die Elementarkunde der Figur 6 s um <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color>  Punkte, 2-fach stapelbar. 0,5 s Abklingzeit."
         ]
     },
     "115424": {
         "Affix": [
-            "Попадания заряженной атакой обрушивают на поражённого ею врага Стрелу слепящего солнца, которая наносит <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>75%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>105%</color> / <color style='color:#99FFFF;'>120%</color>  урона от силы атаки. Кроме того, на врага, получившего урон от Стрелы слепящего солнца, на 10 сек. накладывается эффект Пылающего сердца. Урон заряженной атаки экипированного персонажа по противнику под воздействием Пылающего сердца повышается на <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>49%</color> / <color style='color:#99FFFF;'>56%</color> . Стрела слепящего солнца может возникнуть один раз в 10 сек."
+            "Lässt nach dem Treffen von Gegnern mit heftigen Schlägen einen Brennpfeil auf diese niedergehen, der Schaden in Höhe von <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>75 %</color> / <color style='color:#99FFFF;'>90 %</color> / <color style='color:#99FFFF;'>105 %</color> / <color style='color:#99FFFF;'>120 %</color>  des ANG verursacht und ihnen 10 s Brennendes Herz zufügt. Erhöht den Schaden heftiger Schläge des Trägers an Gegnern mit Brennendem Herzen um <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>42 %</color> / <color style='color:#99FFFF;'>49 %</color> / <color style='color:#99FFFF;'>56 %</color> . 10 s Abklingzeit für den Brennpfeil."
         ]
     },
     "115425": {
         "Affix": [
-            "Наносимый урон после получения лечения увеличивается на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  на 8 сек. Эффект срабатывает, даже когда персонаж не на поле боя."
+            "Erhöht nach erhaltener Heilung den von der Figur verursachten Schaden um <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color> , hält 8 s. Der Effekt kann auch noch ausgelöst werden, wenn die Figur inaktiv in der Truppe ist."
         ]
     },
     "115427": {
         "Affix": [
-            "Когда экипированный персонаж лечит или получает лечение, он на 30 сек. наделяется Меткой единства. Всего можно получить до 3 Меток. При активации элементального навыка или взрыва стихии все Метки расходуются и на 10 сек. создаётся эффект Отпора: за каждую израсходованную Метку сила атаки повышается на <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> , а бонус урона всеми элементами - на <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8,5%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>11,5%</color> / <color style='color:#99FFFF;'>13%</color> . Эффект Отпора может возникнуть один раз в 15 сек. Персонаж получает Метки единства, даже если он не на поле боя."
+            "Verleiht der Figur bei erhaltener Heilung, oder wenn sie jemanden heilt, ein Zeichen des Zusammenhalts, hält 30 s. Es können max. bis zu 3 Zeichen des Zusammenhalts vorhanden sein. Verbraucht beim Auslösen der Elementarfähigkeit oder der Spezialfähigkeit alle Zeichen des Zusammenhalts und löst den Effekt „Auflehnung“ aus, der 10 s hält: Jedes verbrauchte Zeichen des Zusammenhalts erhöht den ANG um <color style='color:#99FFFF;'>3 %</color> / <color style='color:#99FFFF;'>4 %</color> / <color style='color:#99FFFF;'>5 %</color> / <color style='color:#99FFFF;'>6 %</color> / <color style='color:#99FFFF;'>7 %</color>  und den Elementar-SCH-Bonus aller Elemente um <color style='color:#99FFFF;'>7 %</color> / <color style='color:#99FFFF;'>8,5 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>11,5 %</color> / <color style='color:#99FFFF;'>13 %</color> . 15 s Abklingzeit für den Effekt „Auflehnung“. Zeichen des Zusammenhalts können auch erhalten werden, wenn die Figur inaktiv in der Truppe ist."
         ]
     },
     "115501": {
         "Affix": [
-            "Увеличивает крит. урон на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . При попадании есть <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс нанести 125% физ. урона в небольшом радиусе. Может возникнуть раз в <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>3,5</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>2,5</color> / <color style='color:#99FFFF;'>2</color>  сек."
+            "Erhöht den KSCH um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color>  und verursacht bei einem Treffer mit einer Wahrscheinlichkeit von <color style='color:#99FFFF;'>60 %</color> / <color style='color:#99FFFF;'>70 %</color> / <color style='color:#99FFFF;'>80 %</color> / <color style='color:#99FFFF;'>90 %</color> / <color style='color:#99FFFF;'>100 %</color>  physischen Schaden mit geringer Reichweite in Höhe von 125 % ANG. <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>3,5</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>2,5</color> / <color style='color:#99FFFF;'>2</color>  s Abklingzeit."
         ]
     },
     "115502": {
         "Affix": [
-            "Увеличивает урон обычной и заряженной атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Каждые 0,1 сек. полёта стрелы, выпущенной обычной или заряженной атакой, увеличивают её урон на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . Эффект может складываться до 5 раз."
+            "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color>  und den Gesamtschaden von Pfeilen von Standardangriffen und heftigen Schlägen alle 0,1 s nach dem Abschießen um <color style='color:#99FFFF;'>8 %</color> / <color style='color:#99FFFF;'>10 %</color> / <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>14 %</color> / <color style='color:#99FFFF;'>16 %</color> , 5-fach stapelbar."
         ]
     },
     "115503": {
         "Affix": [
-            "Часть Тысячелетней симфонии, что блуждает среди ветров. Увеличивает мастерство стихий на <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>75</color> / <color style='color:#99FFFF;'>90</color> / <color style='color:#99FFFF;'>105</color> / <color style='color:#99FFFF;'>120</color>  ед. При попадании элементальным навыком или взрывом стихии по противнику персонаж получает один Талисман воспоминаний. Он может возникнуть раз в 0,2 сек., даже когда персонаж в отряде, но не активен. Четыре собранных Талисмана воспоминаний пропадают, на 12 сек. наделяя ближайших членов отряда эффектом «Тысячелетняя симфония: Прощальный гимн». Их мастерство стихии повышается на <color style='color:#99FFFF;'>100</color> / <color style='color:#99FFFF;'>125</color> / <color style='color:#99FFFF;'>150</color> / <color style='color:#99FFFF;'>175</color> / <color style='color:#99FFFF;'>200</color>  ед., а сила атаки - на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . В течение 20 сек. после активации эффекта Талисманы воспоминаний появляться не будут. Тысячелетняя симфония с эффектами, влияющими на те же навыки, не складывается."
+            "Ein Teil der „Bewegung des Jahrtausends“, die mit dem Wind zieht. Erhöht die Elementarkunde um <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>75</color> / <color style='color:#99FFFF;'>90</color> / <color style='color:#99FFFF;'>105</color> / <color style='color:#99FFFF;'>120</color>  Punkte. Gibt der damit ausgerüsteten Figur beim Treffen von Gegnern mit Elementarfähigkeiten und Spezialfähigkeiten ein Zeichen des Gedenkens, 0,2 s Abklingzeit. Der Effekt bleibt auch bestehen, wenn die Figur ausgewechselt wird. Verbraucht alle Zeichen des Gedenkens, sobald 4 davon vorhanden sind, und verleiht allen Truppenmitgliedern in der Nähe den 12 s anhaltenden Effekt von „Bewegung des Jahrtausends – Lied vom Abschied“: Erhöht die Elementarkunde um <color style='color:#99FFFF;'>100</color> / <color style='color:#99FFFF;'>125</color> / <color style='color:#99FFFF;'>150</color> / <color style='color:#99FFFF;'>175</color> / <color style='color:#99FFFF;'>200</color>  Punkte und den ANG um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> . Nach Auslösen dieses Effekts kann 20 s lang kein weiteres Zeichen des Gedenkens erhalten werden. Die verschiedenen durch „Bewegung des Jahrtausends“ ausgelösten Boni können bei gleicher Art nicht gestapelt werden."
         ]
     },
     "115507": {
         "Affix": [
-            "Урон, наносимый элементальным навыком и взрывом стихии, увеличивается на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Когда обычная атака, заряженная атака, элементальный навык или взрыв стихии попадают по врагу, возникает 1 ур. эффекта Звезда полярной ночи, который длится 12 сек. При 1/2/3/4 ур. эффекта Звезда полярной ночи сила атаки повышается на <color style='color:#99FFFF;'>10/20/30/48%</color> / <color style='color:#99FFFF;'>12,5/25/37,5/60%</color> / <color style='color:#99FFFF;'>15/30/45/72%</color> / <color style='color:#99FFFF;'>17,5/35/52,5/84%</color> / <color style='color:#99FFFF;'>20/40/60/96%</color> . Уровни Звезды полярной ночи, созданные обычной атакой, заряженной атакой, элементальным навыком и взрывом стихии, рассчитываются по отдельности."
+            "Erhöht den mit Elementarfähigkeiten und Spezialfähigkeiten verursachten Schaden um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> . Erschafft beim Treffen von Gegnern mit Standardangriffen, heftigen Schlägen, Elementarfähigkeiten oder Spezialfähigkeiten 1 12 s anhaltende Stapelung des Effekts „Stern der weißen Nacht“. Erhöht den ANG bei 1/2/3/4 Stapelungen von „Stern der weißen Nacht“ um <color style='color:#99FFFF;'>10/20/30/48 %</color> / <color style='color:#99FFFF;'>12,5/25/37,5/60 %</color> / <color style='color:#99FFFF;'>15/30/45/72 %</color> / <color style='color:#99FFFF;'>17,5/35/52,5/84 %</color> / <color style='color:#99FFFF;'>20/40/60/96 %</color> . Die durch Standardangriffe, heftige Schläge, Elementarfähigkeiten oder Spezialfähigkeiten entstandenen Effekte von „Stern der weißen Nacht“ existieren unabhängig voneinander."
         ]
     },
     "115508": {
         "Affix": [
-            "Увеличивает HP на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> . Когда рядом есть враги, урон, наносимый персонажем, экипированным этим оружием, увеличивается на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . Эффект срабатывает, даже когда персонаж не на поле боя."
+            "Erhöht die LP um <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color> . Erhöht, wenn es in der Umgebung Gegner gibt, den durch die mit dieser Waffe ausgerüstete Figur verursachten Schaden um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color> , ganz gleich, ob sie aktiv oder inaktiv ist."
         ]
     },
     "115509": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  и дарует мощь Громовой эмблемы. На уровнях эмблемы 1, 2 или 3 урон обычной атаки увеличивается на <color style='color:#99FFFF;'>12%, 24% или 40%</color> / <color style='color:#99FFFF;'>15%, 30% или 50%</color> / <color style='color:#99FFFF;'>18%, 36% или 60%</color> / <color style='color:#99FFFF;'>21%, 42% или 70%</color> / <color style='color:#99FFFF;'>24%, 48% или 80%</color>  соответственно. Персонаж получает 1 уровень Громовой эмблемы в каждом из следующих случаев: при нанесении урона обычной атакой (эмблема действует 5 сек.); при применении элементального навыка (эмблема действует 10 сек.); когда элементальная энергия персонажа ниже 100% (эмблема исчезнет, когда элементальная энергия полностью восстановится). Продолжительность действия каждого уровня эмблемы рассчитывается индивидуально."
+            "Erhöht den ANG um <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>25 %</color> / <color style='color:#99FFFF;'>30 %</color> / <color style='color:#99FFFF;'>35 %</color> / <color style='color:#99FFFF;'>40 %</color>  und verleiht die Kraft des „Blitzflugsiegels“: Erhöht den mit Standardangriffen verursachten Schaden bei 1/2/3 Stapelungen um jeweils <color style='color:#99FFFF;'>12/24/40 %</color> / <color style='color:#99FFFF;'>15/30/50 %</color> / <color style='color:#99FFFF;'>18/36/60 %</color> / <color style='color:#99FFFF;'>21/42/70 %</color> / <color style='color:#99FFFF;'>24/48/80 %</color> . Verleiht der Figur in folgenden Situationen je 1 Blitzflugsiegel: Verursachen von Schaden mit Standardangriffen, hält 5 s; Anwendung von Elementarfähigkeiten, hält 10 s; Elementarenergie der Figur unter 100 %, verschwindet bei voller Elementarenergie. Wirkungsdauer jeder Stapelung Blitzflugsiegel ist unabhängig."
         ]
     },
     "115511": {
         "Affix": [
-            "Даёт <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  бонус урона всеми элементами. Попадание заряженной атакой наделяет персонажа эффектом Непрестанной охоты, который увеличивает урон заряженных атак на <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color>  от мастерства стихий. Через 10 сек. либо после 12 активаций эффект исчезает. Может возникнуть один раз в 12 сек."
+            "Erhöht den Schaden aller Elemente um <color style='color:#99FFFF;'>12 %</color> / <color style='color:#99FFFF;'>15 %</color> / <color style='color:#99FFFF;'>18 %</color> / <color style='color:#99FFFF;'>21 %</color> / <color style='color:#99FFFF;'>24 %</color> . Erhält nach Treffern mit heftigen Schlägen den Effekt „Unermüdliche Jagd“: Erhöht den Schaden heftiger Schläge um <color style='color:#99FFFF;'>160 %</color> / <color style='color:#99FFFF;'>200 %</color> / <color style='color:#99FFFF;'>240 %</color> / <color style='color:#99FFFF;'>280 %</color> / <color style='color:#99FFFF;'>320 %</color>  der Elementarkunde. Dieser Effekt verschwindet nach 10 s oder 12 heftigen Schlägen. 12 s Abklingzeit."
         ]
     },
     "115512": {
         "Affix": [
-            "Увеличивает урон заряженной атаки на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> . Предоставляет 1 уровень Уловки за каждого персонажа того же элемента в отряде, что и экипированный персонаж (включая экипированного персонажа). За каждого персонажа отряда с другим элементом предоставляет 1 уровень Актёрского мастерства. Когда действуют 1/2/3 и более уровней Уловки, сила атаки повышается на <color style='color:#99FFFF;'>16%/32%/48%</color> / <color style='color:#99FFFF;'>20%/40%/60%</color> / <color style='color:#99FFFF;'>24%/48%/72%</color> / <color style='color:#99FFFF;'>28%/56%/84%</color> / <color style='color:#99FFFF;'>32%/64%/96%</color> . Во время действия 1/2/3 и более уровней Актёрского мастерства скорость передвижения увеличивается на <color style='color:#99FFFF;'>4%/7%/10%</color> / <color style='color:#99FFFF;'>6%/9%/12%</color> / <color style='color:#99FFFF;'>8%/11%/14%</color> / <color style='color:#99FFFF;'>10%/13%/16%</color> / <color style='color:#99FFFF;'>12%/15%/18%</color> ."
+            "Erhöht den mit heftigen Schlägen verursachten Schaden um <color style='color:#99FFFF;'>16 %</color> / <color style='color:#99FFFF;'>20 %</color> / <color style='color:#99FFFF;'>24 %</color> / <color style='color:#99FFFF;'>28 %</color> / <color style='color:#99FFFF;'>32 %</color> . Fügt jeder Figur in der Truppe, die den gleichen Elementartyp wie der Träger hat (einschließlich des Trägers selbst), 1 Stapelung „Tricks“ hinzu. Fügt jeder Figur, die nicht den gleichen Elementartyp hat, 1 Stapelung „Schauspielkunst“ hinzu. Erhöht den ANG bei 1/2/3 Stapelungen von „Tricks“ um <color style='color:#99FFFF;'>16/32/48 %</color> / <color style='color:#99FFFF;'>20/40/60 %</color> / <color style='color:#99FFFF;'>24/48/72 %</color> / <color style='color:#99FFFF;'>28/56/84 %</color> / <color style='color:#99FFFF;'>32/64/96 %</color> . Erhöht die Bewegungsgeschwindigkeit bei 1/2/3 Stapelungen von „Schauspielkunst“ um <color style='color:#99FFFF;'>4/7/10 %</color> / <color style='color:#99FFFF;'>6/9/12 %</color> / <color style='color:#99FFFF;'>8/11/14 %</color> / <color style='color:#99FFFF;'>10/13/16 %</color> / <color style='color:#99FFFF;'>12/15/18 %</color> ."
         ]
     }
 }

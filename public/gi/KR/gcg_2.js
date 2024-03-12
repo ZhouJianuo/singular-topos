@@ -3,8 +3,8 @@
 var _skills = {
     "11011": {
         "_id": 11011,
-        "Name": "Liutian Archery",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "유천 사격술",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -17,8 +17,8 @@ var _skills = {
     },
     "11012": {
         "_id": 11012,
-        "Name": "Trail of the Qilin",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Ice Lotus</color>.",
+        "Name": "산과 강의 기린 흔적",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>얼음 연꽃</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -32,8 +32,8 @@ var _skills = {
     },
     "11013": {
         "_id": 11013,
-        "Name": "Frostflake Arrow",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, deals 2 <color style='color:#FFFFFFFF'>Piercing DMG</color> to all opposing characters on standby.",
+        "Name": "서리꽃 화살",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>2</b>pt 주고 적의 모든 대기 캐릭터에게 <color style='color:#FFFFFFFF'>관통 피해</color>를 2pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -45,8 +45,8 @@ var _skills = {
     },
     "11014": {
         "_id": 11014,
-        "Name": "Celestial Shower",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, deals 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to all opposing characters on standby, summons 1 <color style='color:#FFFFFFFF'>Sacred Cryo Pearl</color>.",
+        "Name": "쏟아지는 천화",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>2</b>pt 주고 적의 모든 대기 캐릭터에게 <color style='color:#FFFFFFFF'>관통 피해</color>를 1pt 주며 <color style='color:#FFFFFFFF'>빙령주</color>를 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -61,8 +61,8 @@ var _skills = {
     },
     "11021": {
         "_id": 11021,
-        "Name": "Kätzlein Style",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "사냥꾼의 사격술",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -75,8 +75,8 @@ var _skills = {
     },
     "11022": {
         "_id": 11022,
-        "Name": "Icy Paws",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Cat-Claw Shield</color>.",
+        "Name": "꽁꽁젤리",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>꽁꽁젤리 보호막</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -90,8 +90,8 @@ var _skills = {
     },
     "11023": {
         "_id": 11023,
-        "Name": "Signature Mix",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, heals this character for 2 HP, summons 1 <color style='color:#FFFFFFFF'>Drunken Mist</color>.",
+        "Name": "특제 칵테일",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>1</b>pt 주고 해당 캐릭터의 HP를 2pt 치유하며 <color style='color:#FFFFFFFF'>술 안개 영역</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -106,8 +106,8 @@ var _skills = {
     },
     "11031": {
         "_id": 11031,
-        "Name": "Ceremonial Bladework",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "의전 검술",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -120,8 +120,8 @@ var _skills = {
     },
     "11032": {
         "_id": 11032,
-        "Name": "Frostgnaw",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "서리 엄습",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -133,8 +133,8 @@ var _skills = {
     },
     "11033": {
         "_id": 11033,
-        "Name": "Glacial Waltz",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Icicle</color>.",
+        "Name": "살을 에는 윤무",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>얼음 기둥</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -149,8 +149,8 @@ var _skills = {
     },
     "11041": {
         "_id": 11041,
-        "Name": "Demonbane",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "악멸의 사식",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -163,8 +163,8 @@ var _skills = {
     },
     "11042": {
         "_id": 11042,
-        "Name": "Chonghua's Layered Frost",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Chonghua Frost Field</color>.",
+        "Name": "중첩의 서리",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>3</b>pt 주고 <color style='color:#FFFFFFFF'>중첩의 서리 영역</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -178,8 +178,8 @@ var _skills = {
     },
     "11043": {
         "_id": 11043,
-        "Name": "Cloud-Parting Star",
-        "Desc": "Deals <b>7</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "떨어지는 별",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>7</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -192,8 +192,8 @@ var _skills = {
     },
     "11051": {
         "_id": 11051,
-        "Name": "Kamisato Art: Kabuki",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "카미사토류 · 경(傾)",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -206,8 +206,8 @@ var _skills = {
     },
     "11052": {
         "_id": 11052,
-        "Name": "Kamisato Art: Hyouka",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "카미사토류 · 얼음꽃",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -219,8 +219,8 @@ var _skills = {
     },
     "11053": {
         "_id": 11053,
-        "Name": "Kamisato Art: Soumetsu",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Frostflake Seki no To</color>.",
+        "Name": "카미사토류 · 멸망의 서리",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>4</b>pt 주고 <color style='color:#FFFFFFFF'>서리의 관문</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -235,8 +235,8 @@ var _skills = {
     },
     "11054": {
         "_id": 11054,
-        "Name": "Kamisato Art: Senho",
-        "Desc": "(Passive) When switched to be the active character, this character gains <color style='color:#FFFFFFFF'>Cryo Elemental Infusion</color>.",
+        "Name": "카미사토류 · 싸락눈 걸음",
+        "Desc": "[패시브] 해당 캐릭터를 출전 캐릭터로 교체할 시, <color style='color:#FFFFFFFF'>얼음 원소 부여</color> 효과가 제공된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -248,8 +248,8 @@ var _skills = {
     },
     "11061": {
         "_id": 11061,
-        "Name": "Favonius Bladework - Edel",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "페보니우스 검술 · 왕실",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -262,8 +262,8 @@ var _skills = {
     },
     "11062": {
         "_id": 11062,
-        "Name": "Icetide Vortex",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>. If this character has not yet gained <color style='color:#FFFFFFFF'>Grimheart</color>, they will gain <color style='color:#FFFFFFFF'>Grimheart</color>.",
+        "Name": "얼음 파도의 와류",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>2</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>냉혹한 마음</color>이 부착되지 않았을 경우 <color style='color:#FFFFFFFF'>냉혹한 마음</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -277,8 +277,8 @@ var _skills = {
     },
     "11063": {
         "_id": 11063,
-        "Name": "Glacial Illumination",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Lightfall Sword</color>.",
+        "Name": "파도를 얼리는 광검",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>빛의 검</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -293,8 +293,8 @@ var _skills = {
     },
     "11071": {
         "_id": 11071,
-        "Name": "Dawnstar Piercer",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "별의 포획자",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -307,8 +307,8 @@ var _skills = {
     },
     "11072": {
         "_id": 11072,
-        "Name": "Spring Spirit Summoning",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Icy Quill</color>.",
+        "Name": "위령 소환 구사술",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>얼음의 깃</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -322,8 +322,8 @@ var _skills = {
     },
     "11073": {
         "_id": 11073,
-        "Name": "Divine Maiden's Deliverance",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Talisman Spirit</color>.",
+        "Name": "신녀 강령 비결",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>녹령</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -338,8 +338,8 @@ var _skills = {
     },
     "11081": {
         "_id": 11081,
-        "Name": "Ancient Sword Art",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "운래의 고대 검법",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -352,8 +352,8 @@ var _skills = {
     },
     "11082": {
         "_id": 11082,
-        "Name": "Adeptus Art: Herald of Frost",
-        "Desc": "Summons <color style='color:#FFFFFFFF'>Herald of Frost</color>.",
+        "Name": "선법 · 한병의 귀차",
+        "Desc": "<color style='color:#FFFFFFFF'>한병의 귀차</color>를 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -367,8 +367,8 @@ var _skills = {
     },
     "11083": {
         "_id": 11083,
-        "Name": "Adeptus Art: Preserver of Fortune",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Fortune-Preserving Talisman</color>.",
+        "Name": "선법 · 구고도액",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>3</b>pt 주고 <color style='color:#FFFFFFFF'>도액 부적</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -383,8 +383,8 @@ var _skills = {
     },
     "11091": {
         "_id": 11091,
-        "Name": "Sword of the Radiant Path",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "빛나는 궤도의 검",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -397,8 +397,8 @@ var _skills = {
     },
     "11092": {
         "_id": 11092,
-        "Name": "Nights of Formal Focus",
-        "Desc": "Creates 1 <color style='color:#FFFFFFFF'>Curtain of Slumber Shield</color> and <color style='color:#FFFFFFFF'>Shooting Star</color>.",
+        "Name": "근심 없는 밤",
+        "Desc": "<color style='color:#FFFFFFFF'>평안한 잠의 장막</color>과 <color style='color:#FFFFFFFF'>유성</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -413,8 +413,8 @@ var _skills = {
     },
     "11093": {
         "_id": 11093,
-        "Name": "Dream of the Star-Stream Shaker",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Celestial Dreamsphere</color>.",
+        "Name": "별이 흐르는 요람의 꿈",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>3</b>pt 주고 <color style='color:#FFFFFFFF'>꿈을 수놓는 천구</color>를 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -429,8 +429,8 @@ var _skills = {
     },
     "11101": {
         "_id": 11101,
-        "Name": "Cool-Color Capture",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "차가운 촬영법",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -443,8 +443,8 @@ var _skills = {
     },
     "11102": {
         "_id": 11102,
-        "Name": "Framing: Freezing Point Composition",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>. Attach <color style='color:#FFFFFFFF'>Snappy Silhouette</color> to the target.",
+        "Name": "프레이밍 · 빙점 구도법",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>1</b>pt 주고 대상에게 <color style='color:#FFFFFFFF'>순간 실루엣</color>을 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -458,8 +458,8 @@ var _skills = {
     },
     "11103": {
         "_id": 11103,
-        "Name": "Still Photo: Comprehensive Confirmation",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, heals all your characters for 1 HP, summons 1 <color style='color:#FFFFFFFF'>Newsflash Field</color>.",
+        "Name": "스틸사진 · 전방위 취재",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>1</b>pt 주고 모든 아군 캐릭터의 HP를 1pt 치유하며 <color style='color:#FFFFFFFF'>취재 현장</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -474,8 +474,8 @@ var _skills = {
     },
     "12011": {
         "_id": 12011,
-        "Name": "Whisper of Water",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "물의 노래",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -488,8 +488,8 @@ var _skills = {
     },
     "12012": {
         "_id": 12012,
-        "Name": "Let the Show Begin♪",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Melody Loop</color>.",
+        "Name": "공연, 시작♪",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>노래의 고리</color>를 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -503,8 +503,8 @@ var _skills = {
     },
     "12013": {
         "_id": 12013,
-        "Name": "Shining Miracle♪",
-        "Desc": "Heals all of your characters for 4 HP.",
+        "Name": "빛나는 기적♪",
+        "Desc": "모든 아군 캐릭터의 HP를 4pt 치유한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -517,8 +517,8 @@ var _skills = {
     },
     "12021": {
         "_id": 12021,
-        "Name": "Guhua Style",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "고화 검법",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -531,8 +531,8 @@ var _skills = {
     },
     "12022": {
         "_id": 12022,
-        "Name": "Fatal Rainscreen",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, grants this character <color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color>, creates 1 <color style='color:#FFFFFFFF'>Rain Sword</color>.",
+        "Name": "화우농산",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>2</b>pt 주고 본 캐릭터에게 <color style='color:#80C0FFFF'>[b]2102[a]물 원소 부착</color> 효과를 주며 <color style='color:#FFFFFFFF'>우렴검</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -546,8 +546,8 @@ var _skills = {
     },
     "12023": {
         "_id": 12023,
-        "Name": "Raincutter",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, grants this character <color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color>, creates 1 <color style='color:#FFFFFFFF'>Rainbow Bladework</color>.",
+        "Name": "재우유홍",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>2</b>pt 주고 본 캐릭터에게 <color style='color:#80C0FFFF'>[b]2102[a]물 원소 부착</color> 효과를 주며 <color style='color:#FFFFFFFF'>홍검세</color>를 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -562,8 +562,8 @@ var _skills = {
     },
     "12031": {
         "_id": 12031,
-        "Name": "Ripple of Fate",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "인과 간파",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -576,8 +576,8 @@ var _skills = {
     },
     "12032": {
         "_id": 12032,
-        "Name": "Mirror Reflection of Doom",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Reflection</color>.",
+        "Name": "수중 환원",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>허영</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -591,8 +591,8 @@ var _skills = {
     },
     "12033": {
         "_id": 12033,
-        "Name": "Stellaris Phantasm",
-        "Desc": "Deals <b>4</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Illusory Bubble</color>.",
+        "Name": "별의 운명",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>4</b>pt 주고 <color style='color:#FFFFFFFF'>포영</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -607,8 +607,8 @@ var _skills = {
     },
     "12034": {
         "_id": 12034,
-        "Name": "Illusory Torrent",
-        "Desc": "(Passive) <color style='color:#FFFFFFFF'>When you perform \"Switch Character\" while Mona is your active character:</color> This switch is considered a <color style='color:#FFFFFFFF'>Fast Action</color> instead of a <color style='color:#FFFFFFFF'>Combat Action</color>. (Once per Round)",
+        "Name": "흐르는 허와 실",
+        "Desc": "[패시브] <color style='color:#FFFFFFFF'>해당 캐릭터가 출전 캐릭터이며 아군이 「캐릭터 교체」 행동 진행 시:</color> 이번 교체를 「<color style='color:#FFFFFFFF'>전투 행동</color>」이 아닌 「<color style='color:#FFFFFFFF'>빠른 행동</color>」으로 간주한다. (턴당 1회)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -618,8 +618,8 @@ var _skills = {
     },
     "12041": {
         "_id": 12041,
-        "Name": "Cutting Torrent",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "단우",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -632,8 +632,8 @@ var _skills = {
     },
     "12042": {
         "_id": 12042,
-        "Name": "Foul Legacy: Raging Tide",
-        "Desc": "Switches to <color style='color:#FFFFFFFF'>Melee Stance</color> and deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, and attach <color style='color:#FFFFFFFF'>Riptide</color> to the target character.",
+        "Name": "마왕 무장 · 광란",
+        "Desc": "<color style='color:#FFFFFFFF'>근접 상태</color>로 진입해 <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>2</b>pt 주고 대상 캐릭터에게 <color style='color:#FFFFFFFF'>단류</color>를 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -648,8 +648,8 @@ var _skills = {
     },
     "12043": {
         "_id": 12043,
-        "Name": "Havoc: Obliteration",
-        "Desc": "Performs different attacks based on the current stance that <color style='color:#FFFFFFFF'>Tartaglia</color> is in.<br><color style='color:#FFFFFFFF'>Ranged Stance - Flash of Havoc: </color>Deal <b>5</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, reclaim 2 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>, and apply <color style='color:#FFFFFFFF'>Riptide</color> to the target character.<br><color style='color:#FFFFFFFF'>Melee Stance - Light of Obliteration</color>: Deal <b>7</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "극악기 · 진멸섬",
+        "Desc": "<color style='color:#FFFFFFFF'>타르탈리아</color>의 현재 상태에 따라 공격 방식이 달라진다.<br><color style='color:#FFFFFFFF'>원거리 상태 · 마탄 일섬:</color> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>5</b>pt 주고 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>를 2pt 돌려받으며 대상에게 <color style='color:#FFFFFFFF'>단류</color>를 부착한다.<br><color style='color:#FFFFFFFF'>근접 상태 · 진멸의 물빛:</color> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>7</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -664,8 +664,8 @@ var _skills = {
     },
     "12044": {
         "_id": 12044,
-        "Name": "Tide Withholder",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Ranged Stance</color>. Once the <color style='color:#FFFFFFFF'>Melee Stance</color> attached to the character ends, reapplies <color style='color:#FFFFFFFF'>Ranged Stance</color>.",
+        "Name": "파도 억제",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>원거리 상태</color>가 부착된다.<br>캐릭터에게 부착된 <color style='color:#FFFFFFFF'>근접 상태</color> 효과 종료 시 <color style='color:#FFFFFFFF'>원거리 상태</color>를 다시 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -678,7 +678,7 @@ var _skills = {
     },
     "12045": {
         "_id": 12045,
-        "Name": "Ranged Stance",
+        "Name": "원거리 상태",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -689,7 +689,7 @@ var _skills = {
     },
     "12046": {
         "_id": 12046,
-        "Name": "Tide Withholder",
+        "Name": "파도 억제",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -700,8 +700,8 @@ var _skills = {
     },
     "12051": {
         "_id": 12051,
-        "Name": "The Shape of Water",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "물의 형태",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -714,8 +714,8 @@ var _skills = {
     },
     "12052": {
         "_id": 12052,
-        "Name": "Kurage's Oath",
-        "Desc": "This character gains <color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color> and summons 1 <color style='color:#FFFFFFFF'>Bake-Kurage</color>.",
+        "Name": "해파리의 서약",
+        "Desc": "본 캐릭터에게 <color style='color:#80C0FFFF'>[b]2102[a]물 원소 부착</color>을 부여하고 <color style='color:#FFFFFFFF'>환영 해파리</color>를 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -729,8 +729,8 @@ var _skills = {
     },
     "12053": {
         "_id": 12053,
-        "Name": "Nereid's Ascension",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. Heals all allied characters for 1 point. This character gains <color style='color:#FFFFFFFF'>Ceremonial Garment</color>.",
+        "Name": "해인화우(海人化羽)",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>2</b>pt 주고 모든 아군 캐릭터의 HP를 1pt 치유하며 본 캐릭터에게 <color style='color:#FFFFFFFF'>의식의 날개옷</color>을 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -745,8 +745,8 @@ var _skills = {
     },
     "12061": {
         "_id": 12061,
-        "Name": "Kamisato Art: Marobashi",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "카미사토류 · 전",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -759,8 +759,8 @@ var _skills = {
     },
     "12062": {
         "_id": 12062,
-        "Name": "Kamisato Art: Kyouka",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Takimeguri Kanka</color>.",
+        "Name": "카미사토류 · 거울꽃",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>2</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>선회하는 거울꽃</color>을 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -774,8 +774,8 @@ var _skills = {
     },
     "12063": {
         "_id": 12063,
-        "Name": "Kamisato Art: Suiyuu",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Garden of Purity</color>.",
+        "Name": "카미사토류 · 물의 영역",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>고요한 원유(苑囿)</color>를 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -790,8 +790,8 @@ var _skills = {
     },
     "12071": {
         "_id": 12071,
-        "Name": "Gleaming Spear - Guardian Stance",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "섬광 창술 · 수호 태세",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -804,8 +804,8 @@ var _skills = {
     },
     "12072": {
         "_id": 12072,
-        "Name": "Sacred Rite: Heron's Sanctum",
-        "Desc": "Attaches a <color style='color:#FFFFFFFF'>Heron Shield</color> to this character and <color style='color:#FFFFFFFF'>Prepare Skill</color> <color style='color:#FFFFFFFF'>Heron Strike</color>.",
+        "Name": "성스러운 의식 · 푸른빛 새의 비호",
+        "Desc": "본 캐릭터에게 <color style='color:#FFFFFFFF'>푸른빛 새의 보호막</color>을 부착하고 <color style='color:#FFFFFFFF'>푸른빛 새의 충격파</color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -819,8 +819,8 @@ var _skills = {
     },
     "12073": {
         "_id": 12073,
-        "Name": "Sacred Rite: Wagtail's Tide",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b> and creates 1 <color style='color:#FFFFFFFF'>Prayer of the Crimson Crown</color>.",
+        "Name": "성스러운 의식 · 회색빛 새의 물결",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>적색 왕관의 축복</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -835,8 +835,8 @@ var _skills = {
     },
     "12074": {
         "_id": 12074,
-        "Name": "Heron Strike",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>3</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "푸른빛 새의 충격파",
+        "Desc": "(1차례 행동 준비 필요)<br><b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -846,8 +846,8 @@ var _skills = {
     },
     "12081": {
         "_id": 12081,
-        "Name": "Dance of Samser",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "현월의 춤",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -860,8 +860,8 @@ var _skills = {
     },
     "12082": {
         "_id": 12082,
-        "Name": "Dance of Haftkarsvar",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, if the party includes <color style='color:#80C0FFFF'>[b]2102[a]Hydro Characters</color> and <color style='color:#7EC236FF'>[b]2107[a]Dendro Characters</color> and characters from no other Elements, create 1 <color style='color:#FFFFFFFF'>Golden Chalice's Bounty</color>.",
+        "Name": "칠역의 춤",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>3</b>pt 준다. 만약 파티가 <color style='color:#80C0FFFF'>[b]2102[a]물 원소 캐릭터</color>와 <color style='color:#7EC236FF'>[b]2107[a]풀 원소 캐릭터</color>로만 구성되어 있을 경우 <color style='color:#FFFFFFFF'>황금잔의 선물</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -875,8 +875,8 @@ var _skills = {
     },
     "12083": {
         "_id": 12083,
-        "Name": "Dance of Abzendegi: Distant Dreams, Listening Spring",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Lingering Aeon</color>.",
+        "Name": "수련의 춤 · 먼 꿈속 샘물 소리",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>2</b>pt 주고 대상 캐릭터에게 <color style='color:#FFFFFFFF'>영원한 침식</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -891,8 +891,8 @@ var _skills = {
     },
     "12091": {
         "_id": 12091,
-        "Name": "Stealthy Bowshot",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "빛을 감춘 활",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -905,8 +905,8 @@ var _skills = {
     },
     "12092": {
         "_id": 12092,
-        "Name": "Lingering Lifeline",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. This character gains 2 <color style='color:#FFFFFFFF'>Breakthrough</color> stacks.",
+        "Name": "뒤얽힌 생명줄",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>3</b>pt 주고 이 캐릭터의 <color style='color:#FFFFFFFF'>타파</color> 스택+2",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -920,8 +920,8 @@ var _skills = {
     },
     "12093": {
         "_id": 12093,
-        "Name": "Depth-Clarion Dice",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Exquisite Throw</color>.",
+        "Name": "심오하고 영롱한 주사위",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>던져진 영롱</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -936,8 +936,8 @@ var _skills = {
     },
     "12094": {
         "_id": 12094,
-        "Name": "Breakthrough",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Breakthrough</color>.",
+        "Name": "타파",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>타파</color>가 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -949,8 +949,8 @@ var _skills = {
     },
     "12101": {
         "_id": 12101,
-        "Name": "As Water Seeks Equilibrium",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "공평한 물처럼",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -963,8 +963,8 @@ var _skills = {
     },
     "12102": {
         "_id": 12102,
-        "Name": "O Tears, I Shall Repay",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Sourcewater Droplet</color>.",
+        "Name": "눈물이여, 반드시 갚으리라",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>원천의 방울</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -978,8 +978,8 @@ var _skills = {
     },
     "12103": {
         "_id": 12103,
-        "Name": "O Tides, I Have Returned",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, deals 1 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby, then creates a <color style='color:#FFFFFFFF'>Sourcewater Droplet</color> with 2 Usages.",
+        "Name": "밀물이여, 내가 돌아왔노라",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>2</b>pt 주고 모든 적 대기 캐릭터에게 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>관통 피해</color></color>를 1pt 주며 사용 가능 횟수가 2인 <color style='color:#FFFFFFFF'>원천의 방울</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -994,8 +994,8 @@ var _skills = {
     },
     "12104": {
         "_id": 12104,
-        "Name": "Equitable Judgment",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. If character has at least 6 HP, then they deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to themselves and deal +1 DMG.",
+        "Name": "공정한 판결",
+        "Desc": "(1차례 행동 준비 필요)<br><b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>2</b>pt 준다. 만약 HP가 6pt 이상일 경우, 자신에게 <color style='color:#FFFFFFFF'>관통 피해</color>를 1pt 주고 피해+1pt",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1005,7 +1005,7 @@ var _skills = {
     },
     "12105": {
         "_id": 12105,
-        "Name": "Sourcewater Droplet",
+        "Name": "원천의 방울",
         "Desc": "",
         "Tag": [],
         "Cost": {},
@@ -1014,8 +1014,8 @@ var _skills = {
     },
     "13011": {
         "_id": 13011,
-        "Name": "Tempered Sword",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "단련의 검",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1028,8 +1028,8 @@ var _skills = {
     },
     "13012": {
         "_id": 13012,
-        "Name": "Searing Onslaught",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. For the third use of this Skill each Round, deals +2 DMG.",
+        "Name": "역날의 화염",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>3</b>pt 준다. 매 턴에서 해당 스킬을 세 번째 사용 시 피해량이 2pt 증가한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1041,8 +1041,8 @@ var _skills = {
     },
     "13013": {
         "_id": 13013,
-        "Name": "Dawn",
-        "Desc": "Deals <b>8</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Pyro Infusion</color>.",
+        "Name": "여명",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>8</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>불 원소 부여</color> 효과가 제공된다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1057,8 +1057,8 @@ var _skills = {
     },
     "13021": {
         "_id": 13021,
-        "Name": "Dough-Fu",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "밀가루 음식 솜씨",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1071,8 +1071,8 @@ var _skills = {
     },
     "13022": {
         "_id": 13022,
-        "Name": "Guoba Attack",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Guoba</color>.",
+        "Name": "누룽지 출격",
+        "Desc": "<color style='color:#FFFFFFFF'>누룽지</color>를 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1086,8 +1086,8 @@ var _skills = {
     },
     "13023": {
         "_id": 13023,
-        "Name": "Pyronado",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Pyronado</color>.",
+        "Name": "화륜",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>3</b>pt 주고 <color style='color:#FFFFFFFF'>화륜</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1102,8 +1102,8 @@ var _skills = {
     },
     "13031": {
         "_id": 13031,
-        "Name": "Strike of Fortune",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "행운의 검",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1116,8 +1116,8 @@ var _skills = {
     },
     "13032": {
         "_id": 13032,
-        "Name": "Passion Overload",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "열정 과부하",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1129,8 +1129,8 @@ var _skills = {
     },
     "13033": {
         "_id": 13033,
-        "Name": "Fantastic Voyage",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Inspiration Field</color>.",
+        "Name": "아름다운 여정",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>격려의 영역</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1145,8 +1145,8 @@ var _skills = {
     },
     "13041": {
         "_id": 13041,
-        "Name": "Sharpshooter",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "명사수",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1159,8 +1159,8 @@ var _skills = {
     },
     "13042": {
         "_id": 13042,
-        "Name": "Explosive Puppet",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Baron Bunny</color>.",
+        "Name": "폭탄 인형",
+        "Desc": "<color style='color:#FFFFFFFF'>토끼 백작</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1174,8 +1174,8 @@ var _skills = {
     },
     "13043": {
         "_id": 13043,
-        "Name": "Fiery Rain",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, deals 2 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby.",
+        "Name": "화살비",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>2</b>pt 주고 적의 모든 대기 캐릭터에게 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>관통 피해</color></color>를 2pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1188,8 +1188,8 @@ var _skills = {
     },
     "13051": {
         "_id": 13051,
-        "Name": "Firework Flare-Up",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "쏘아 올린 불꽃",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1202,8 +1202,8 @@ var _skills = {
     },
     "13052": {
         "_id": 13052,
-        "Name": "Niwabi Fire-Dance",
-        "Desc": "This character gains <color style='color:#FFFFFFFF'>Niwabi Enshou</color>. (This Skill does not grant [b]1110[a]Energy)",
+        "Name": "염초 정화(庭火)의 춤",
+        "Desc": "본 캐릭터에게 <color style='color:#FFFFFFFF'>정화 염초</color>가 부착된다. (해당 스킬은 [b]1110[a]원소 에너지가 생성되지 않음)",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1217,8 +1217,8 @@ var _skills = {
     },
     "13053": {
         "_id": 13053,
-        "Name": "Ryuukin Saxifrage",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Aurous Blaze</color>.",
+        "Name": "유금 운간초",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>3</b>pt 주고 <color style='color:#FFFFFFFF'>유금화광</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1233,8 +1233,8 @@ var _skills = {
     },
     "13061": {
         "_id": 13061,
-        "Name": "Kaboom!",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "펑펑",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1247,8 +1247,8 @@ var _skills = {
     },
     "13062": {
         "_id": 13062,
-        "Name": "Jumpy Dumpty",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Explosive Spark</color>.",
+        "Name": "통통 폭탄",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>3</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>폭렬 불꽃</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1262,8 +1262,8 @@ var _skills = {
     },
     "13063": {
         "_id": 13063,
-        "Name": "Sparks 'n' Splash",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Sparks 'n' Splash</color> at the opponent's play area.",
+        "Name": "쾅쾅 불꽃",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>3</b>pt 주고 상대방 필드에 <color style='color:#FFFFFFFF'>쾅쾅 불꽃</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1278,8 +1278,8 @@ var _skills = {
     },
     "13071": {
         "_id": 13071,
-        "Name": "Secret Spear of Wangsheng",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "왕생 비법 창술",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1292,8 +1292,8 @@ var _skills = {
     },
     "13072": {
         "_id": 13072,
-        "Name": "Guide to Afterlife",
-        "Desc": "This character gains <color style='color:#FFFFFFFF'>Paramita Papilio</color>.",
+        "Name": "나비의 서",
+        "Desc": "본 캐릭터에게 <color style='color:#FFFFFFFF'>피안접무</color>를 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1307,8 +1307,8 @@ var _skills = {
     },
     "13073": {
         "_id": 13073,
-        "Name": "Spirit Soother",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, heals herself for 2 HP. If this character's HP is no more than 6, DMG dealt and Healing are increased by 1.",
+        "Name": "평안의 서",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>4</b>pt 주고 자신의 HP를 2pt 치유한다. 본 캐릭터의 HP가 6pt 이하인 경우 주는 피해와 치유량이 각각 1pt 증가한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1321,8 +1321,8 @@ var _skills = {
     },
     "13081": {
         "_id": 13081,
-        "Name": "Seal of Approval",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "봉랍 인장",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1335,8 +1335,8 @@ var _skills = {
     },
     "13082": {
         "_id": 13082,
-        "Name": "Signed Edict",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b> and attaches <color style='color:#FFFFFFFF'>Scarlet Seal</color> to this character.",
+        "Name": "단홍의 계약",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>3</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>단화인</color>을 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1350,8 +1350,8 @@ var _skills = {
     },
     "13083": {
         "_id": 13083,
-        "Name": "Done Deal",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, attaches <color style='color:#FFFFFFFF'>Scarlet Seal</color> and <color style='color:#FFFFFFFF'>Brilliance</color> to this character.",
+        "Name": "계약 성립",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>3</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>단화인</color>과 <color style='color:#FFFFFFFF'>이글이글</color>을 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1367,8 +1367,8 @@ var _skills = {
     },
     "13091": {
         "_id": 13091,
-        "Name": "Sandstorm Assault",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "모래폭풍 검투술",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1381,8 +1381,8 @@ var _skills = {
     },
     "13092": {
         "_id": 13092,
-        "Name": "Molten Inferno",
-        "Desc": "Summon <color style='color:#FFFFFFFF'>Fiery Sanctum Field</color>. If Fiery Sanctum Field already exists, then first deal <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "지옥불 용광로",
+        "Desc": "<color style='color:#FFFFFFFF'>검지옥 영역</color>을 소환한다. 검지옥 영역이 이미 존재할 시 먼저 <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1396,8 +1396,8 @@ var _skills = {
     },
     "13093": {
         "_id": 13093,
-        "Name": "Leonine Bite",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, then performs \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Incineration Drive</color>.",
+        "Name": "사자 송곳니",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>3</b>pt 주고 <color style='color:#FFFFFFFF'>불꽃 다이브킥</color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1410,8 +1410,8 @@ var _skills = {
     },
     "13095": {
         "_id": 13095,
-        "Name": "Incineration Drive",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "불꽃 다이브킥",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1421,7 +1421,7 @@ var _skills = {
     },
     "13096": {
         "_id": 13096,
-        "Name": "Fiery Sanctum: Redmane's Blood",
+        "Name": "검지옥 · 붉은 갈기의 피",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -1432,8 +1432,8 @@ var _skills = {
     },
     "13101": {
         "_id": 13101,
-        "Name": "Card Force Translocation",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "포스 트릭 샷",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1446,8 +1446,8 @@ var _skills = {
     },
     "13102": {
         "_id": 13102,
-        "Name": "Prop Arrow",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, summons a <color style='color:#FFFFFFFF'>Grin-Malkin Hat</color>, and gains 1 stack of <color style='color:#FFFFFFFF'>Prop Surplus</color>.<br>If this character has at least 6 HP, then they deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to themself.",
+        "Name": "트릭 화살",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>웃는 고양이 모자</color>를 소환하며 <color style='color:#FFFFFFFF'>잔여 트릭</color>을 1스택 누적한다.<br>만약 본 캐릭터의 HP가 6pt 이상일 경우 자신에게 <color style='color:#FFFFFFFF'>관통 피해</color>를 1pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1462,8 +1462,8 @@ var _skills = {
     },
     "13103": {
         "_id": 13103,
-        "Name": "Bewildering Lights",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "눈부신 트릭",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1475,8 +1475,8 @@ var _skills = {
     },
     "13104": {
         "_id": 13104,
-        "Name": "Wondrous Trick: Miracle Parade",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Grin-Malkin Hat</color>, and gains 1 stack of <color style='color:#FFFFFFFF'>Prop Surplus</color>.",
+        "Name": "대마술 · 기적의 행진",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>3</b>pt 주고 <color style='color:#FFFFFFFF'>웃는 고양이 모자</color>를 소환하며 <color style='color:#FFFFFFFF'>잔여 트릭</color>을 1스택 누적한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1492,8 +1492,8 @@ var _skills = {
     },
     "13111": {
         "_id": 13111,
-        "Name": "Swiftshatter Spear",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "신속한 창의 기세",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1506,8 +1506,8 @@ var _skills = {
     },
     "13112": {
         "_id": 13112,
-        "Name": "Blazing Blessing",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Blazing Barrier</color>.",
+        "Name": "타오르는 우명의 보호",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>타오르는 우명의 방패</color>를 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1521,8 +1521,8 @@ var _skills = {
     },
     "13113": {
         "_id": 13113,
-        "Name": "Crimson Ooyoroi",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Blazing Barrier</color> and <color style='color:#FFFFFFFF'>Scorching Ooyoroi</color>.",
+        "Name": "진홍 열화의 오오요로이",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>타오르는 우명의 방패</color>와 <color style='color:#FFFFFFFF'>열화의 오오요로이</color>를 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1538,8 +1538,8 @@ var _skills = {
     },
     "14011": {
         "_id": 14011,
-        "Name": "Bolts of Downfall",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "죄멸의 화살",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1552,8 +1552,8 @@ var _skills = {
     },
     "14012": {
         "_id": 14012,
-        "Name": "Nightrider",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Oz</color>.",
+        "Name": "밤을 순찰하는 그림자 날개",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>오즈</color>를 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1567,8 +1567,8 @@ var _skills = {
     },
     "14013": {
         "_id": 14013,
-        "Name": "Midnight Phantasmagoria",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, deals 2 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby.",
+        "Name": "암야의 환상",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>4</b>pt 주고 상대의 모든 대기 캐릭터에게 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>관통 피해</color></color>를 2pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1581,8 +1581,8 @@ var _skills = {
     },
     "14021": {
         "_id": 14021,
-        "Name": "Steel Fang",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "강철 마루",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1595,8 +1595,8 @@ var _skills = {
     },
     "14022": {
         "_id": 14022,
-        "Name": "Claw and Thunder",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "날카로운 발톱과 창뢰",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1608,8 +1608,8 @@ var _skills = {
     },
     "14023": {
         "_id": 14023,
-        "Name": "Lightning Fang",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>The Wolf Within</color>.",
+        "Name": "뇌아",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>3</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>썬더울프</color>가 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1624,8 +1624,8 @@ var _skills = {
     },
     "14031": {
         "_id": 14031,
-        "Name": "Yunlai Swordsmanship",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "운래 검법",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1638,8 +1638,8 @@ var _skills = {
     },
     "14032": {
         "_id": 14032,
-        "Name": "Stellar Restoration",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Lightning Stiletto</color>.",
+        "Name": "성신 회귀",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>3</b>pt 주고 <color style='color:#FFFFFFFF'>뇌설</color> 카드를 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1653,8 +1653,8 @@ var _skills = {
     },
     "14033": {
         "_id": 14033,
-        "Name": "Starward Sword",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, deals <color style='color:#FFFFFFFF'>3 <color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby.",
+        "Name": "천가 순유",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>4</b>pt 주고 상대의 모든 대기 캐릭터에게 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>관통 피해</color>를 3pt</color> 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1667,8 +1667,8 @@ var _skills = {
     },
     "14041": {
         "_id": 14041,
-        "Name": "Invoker's Spear",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "일곱 성인의 창술",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1681,8 +1681,8 @@ var _skills = {
     },
     "14042": {
         "_id": 14042,
-        "Name": "Secret Rite: Chasmic Soulfarer",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "비밀스러운 의식 · 명계의 인도자",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1694,8 +1694,8 @@ var _skills = {
     },
     "14043": {
         "_id": 14043,
-        "Name": "Sacred Rite: Wolf's Swiftness",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.<br><color style='color:#FFFFFFFF'>Pactsworn Pathclearer</color>'s Indwelling Level +2.",
+        "Name": "성스러운 의식 · 이리의 질주",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>4</b>pt 주고<br><color style='color:#FFFFFFFF'>길을 여는 사자</color>의 [빙의]가 2레벨 증가한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1710,8 +1710,8 @@ var _skills = {
     },
     "14044": {
         "_id": 14044,
-        "Name": "Lawful Enforcer",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Pactsworn Pathclearer</color>.",
+        "Name": "징벌 집행",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>길을 여는 사자</color>가 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -1723,8 +1723,8 @@ var _skills = {
     },
     "14051": {
         "_id": 14051,
-        "Name": "Oceanborne",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "파도 정복",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1737,8 +1737,8 @@ var _skills = {
     },
     "14052": {
         "_id": 14052,
-        "Name": "Tidecaller",
-        "Desc": "This character gains a <color style='color:#FFFFFFFF'>Tidecaller: Surf Embrace</color>. <color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Wavestrider</color>.",
+        "Name": "파도잡이",
+        "Desc": "본 캐릭터에게 <color style='color:#FFFFFFFF'>파도잡이 · 파도의 포옹</color>을 부착하고 <color style='color:#FFFFFFFF'>조수</color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1752,8 +1752,8 @@ var _skills = {
     },
     "14053": {
         "_id": 14053,
-        "Name": "Stormbreaker",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Thunderbeast's Targe</color>.",
+        "Name": "작뢰",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>뇌전 괴수의 방패</color>를 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1768,8 +1768,8 @@ var _skills = {
     },
     "14054": {
         "_id": 14054,
-        "Name": "Wavestrider",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "조수",
+        "Desc": "(1차례 행동 준비 필요)<br><b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1779,8 +1779,8 @@ var _skills = {
     },
     "14061": {
         "_id": 14061,
-        "Name": "Tengu Bowmanship",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "텐구 궁술",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1793,8 +1793,8 @@ var _skills = {
     },
     "14062": {
         "_id": 14062,
-        "Name": "Tengu Stormcall",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Tengu Juurai: Ambush</color>.",
+        "Name": "까마귀 깃 텐구의 뇌정 소환",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>텐구 주뢰 · 매복</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1808,8 +1808,8 @@ var _skills = {
     },
     "14063": {
         "_id": 14063,
-        "Name": "Subjugation: Koukou Sendou",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Tengu Juurai: Stormcluster</color>.",
+        "Name": "빛나는 천도의 진법",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>텐구 주뢰 · 번개 자갈</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1824,8 +1824,8 @@ var _skills = {
     },
     "14071": {
         "_id": 14071,
-        "Name": "Origin",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "원류",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1838,8 +1838,8 @@ var _skills = {
     },
     "14072": {
         "_id": 14072,
-        "Name": "Transcendence: Baleful Omen",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Eye of Stormy Judgment</color>.",
+        "Name": "초월 · 악요개안",
+        "Desc": "<color style='color:#FFFFFFFF'>뇌벌 악요의 눈</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1853,8 +1853,8 @@ var _skills = {
     },
     "14073": {
         "_id": 14073,
-        "Name": "Secret Art: Musou Shinsetsu",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>. All of your other characters gain 2 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.",
+        "Name": "오의 · 몽상진설",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>3</b>pt 주고 다른 아군 캐릭터가 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>를 2pt 획득한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1867,8 +1867,8 @@ var _skills = {
     },
     "14074": {
         "_id": 14074,
-        "Name": "Chakra Desiderata",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Chakra Desiderata</color>.",
+        "Name": "염원이 깃든 백안지륜",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>염원이 깃든 백안지륜</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -1880,8 +1880,8 @@ var _skills = {
     },
     "14081": {
         "_id": 14081,
-        "Name": "Spiritfox Sin-Eater",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "죄를 삼키는 여우령",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1894,8 +1894,8 @@ var _skills = {
     },
     "14082": {
         "_id": 14082,
-        "Name": "Yakan Evocation: Sesshou Sakura",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Sesshou Sakura</color>.",
+        "Name": "야칸의 소환 · 살생앵",
+        "Desc": "<color style='color:#FFFFFFFF'>살생앵</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1909,8 +1909,8 @@ var _skills = {
     },
     "14083": {
         "_id": 14083,
-        "Name": "Great Secret Art: Tenko Kenshin",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>. If your side of the field has a <color style='color:#FFFFFFFF'>Sesshou Sakura</color>, destroy it and create <color style='color:#FFFFFFFF'>Tenko Thunderbolts</color>.",
+        "Name": "대비법 · 천호 현신",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>4</b>pt 주고 아군 필드에 <color style='color:#FFFFFFFF'>살생앵</color>이 있을 경우 이를 제거하고 <color style='color:#FFFFFFFF'>천호 뇌정</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1926,8 +1926,8 @@ var _skills = {
     },
     "14091": {
         "_id": 14091,
-        "Name": "Lightning Touch",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>:<br>If this Skill is a <color style='color:#FFFFFFFF'>Charged Attack</color>: Attach <color style='color:#FFFFFFFF'>Conductive</color> to the opponent's active character.",
+        "Name": "손끝의 뇌폭",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>1</b>pt 준다.<br>해당 스킬이 <color style='color:#FFFFFFFF'>강공격</color>일 경우, 적 출전 캐릭터에게 <color style='color:#FFFFFFFF'>전기 전도</color>를 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1942,8 +1942,8 @@ var _skills = {
     },
     "14092": {
         "_id": 14092,
-        "Name": "Violet Arc",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>. If <color style='color:#FFFFFFFF'>Conductive</color> is not attached to the opponent's active character, <color style='color:#FFFFFFFF'>Conductive</color> will be attached.",
+        "Name": "창뢰",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>2</b>pt 준다. 적 출전 캐릭터에게 <color style='color:#FFFFFFFF'>전기 전도</color>가 부착되지 않았을 경우, 해당 캐릭터에게 <color style='color:#FFFFFFFF'>전기 전도</color>가 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1957,8 +1957,8 @@ var _skills = {
     },
     "14093": {
         "_id": 14093,
-        "Name": "Lightning Rose",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons <color style='color:#FFFFFFFF'>Lightning Rose</color>.",
+        "Name": "장미의 뇌광",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>장미 뇌광</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1973,8 +1973,8 @@ var _skills = {
     },
     "14101": {
         "_id": 14101,
-        "Name": "Marvelous Sword-Dance (Modified)",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "오묘한 검무 · 개조",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1987,8 +1987,8 @@ var _skills = {
     },
     "14102": {
         "_id": 14102,
-        "Name": "Spirit-Warding Lamp: Troubleshooter Cannon",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>After-Sales Service Rounds</color>.",
+        "Name": "영혼을 달래는 램프 · 번뇌 해결포",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>A/S 포탄</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2002,8 +2002,8 @@ var _skills = {
     },
     "14103": {
         "_id": 14103,
-        "Name": "Alcazarzaray's Exactitude",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Jinni</color>.",
+        "Name": "지극정성을 다하는 카자르자레궁",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>램프의 정령</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2018,8 +2018,8 @@ var _skills = {
     },
     "15011": {
         "_id": 15011,
-        "Name": "Wind Spirit Creation",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>.",
+        "Name": "약식 풍령 작성",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2032,8 +2032,8 @@ var _skills = {
     },
     "15012": {
         "_id": 15012,
-        "Name": "Astable Anemohypostasis Creation - 6308",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, the target is forcibly switched to the previous character.",
+        "Name": "풍령 작성 · 육삼공팔",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>3</b>pt 주고 상대의 출전 캐릭터를 이전 캐릭터로 강제 교체한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2045,8 +2045,8 @@ var _skills = {
     },
     "15013": {
         "_id": 15013,
-        "Name": "Forbidden Creation - Isomer 75 / Type II",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Large Wind Spirit</color>.",
+        "Name": "금기 · 풍령 작성 · 칠오 동구 이형",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>거대 풍령</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2061,8 +2061,8 @@ var _skills = {
     },
     "15021": {
         "_id": 15021,
-        "Name": "Favonius Bladework",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "페보니우스 검술",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2075,8 +2075,8 @@ var _skills = {
     },
     "15022": {
         "_id": 15022,
-        "Name": "Gale Blade",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, the target is forcibly switched to the next character.",
+        "Name": "풍압검",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>3</b>pt 주고 상대의 출전 캐릭터를 다음 캐릭터로 강제 교체한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2088,8 +2088,8 @@ var _skills = {
     },
     "15023": {
         "_id": 15023,
-        "Name": "Dandelion Breeze",
-        "Desc": "Heals all your characters for 2 HP, summons 1 <color style='color:#FFFFFFFF'>Dandelion Field</color>.",
+        "Name": "민들레 바람",
+        "Desc": "모든 아군 캐릭터의 HP를 2pt 치유하고 <color style='color:#FFFFFFFF'>민들레 영역</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2104,8 +2104,8 @@ var _skills = {
     },
     "15031": {
         "_id": 15031,
-        "Name": "Divine Marksmanship",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "신성한 사격술",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2118,8 +2118,8 @@ var _skills = {
     },
     "15032": {
         "_id": 15032,
-        "Name": "Skyward Sonnet",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Stormzone</color>.",
+        "Name": "높은 하늘의 노래",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>바람의 영역</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2133,8 +2133,8 @@ var _skills = {
     },
     "15033": {
         "_id": 15033,
-        "Name": "Wind's Grand Ode",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Stormeye</color>.",
+        "Name": "바람 신의 시",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>폭풍의 눈</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2149,8 +2149,8 @@ var _skills = {
     },
     "15041": {
         "_id": 15041,
-        "Name": "Whirlwind Thrust",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "권적미진",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2163,8 +2163,8 @@ var _skills = {
     },
     "15042": {
         "_id": 15042,
-        "Name": "Lemniscatic Wind Cycling",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>.",
+        "Name": "풍륜양립",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2176,8 +2176,8 @@ var _skills = {
     },
     "15043": {
         "_id": 15043,
-        "Name": "Bane of All Evil",
-        "Desc": "Deals <b>4</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Yaksha's Mask</color>.",
+        "Name": "나자의 춤",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>4</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>야차의 가면</color>을 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2192,8 +2192,8 @@ var _skills = {
     },
     "15051": {
         "_id": 15051,
-        "Name": "Garyuu Bladework",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "아류 검술",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2206,8 +2206,8 @@ var _skills = {
     },
     "15052": {
         "_id": 15052,
-        "Name": "Chihayaburu",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, attaches <color style='color:#FFFFFFFF'>Midare Ranzan</color> to this character. <br>If this skill triggers Swirl, <color style='color:#FFFFFFFF'>Midare Ranzan</color> is converted to the Swirled Element.<br><color style='color:#FFFFFFFF'>After the Skill DMG is finalized:</color> Your team switches to the next character.",
+        "Name": "치하야부루",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>3</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>폭풍 베기</color>를 부착한다. <br>해당 스킬이 확산 반응을 발동했을 경우, <color style='color:#FFFFFFFF'>폭풍 베기</color>가 확산된 원소로 전환된다.<br><color style='color:#FFFFFFFF'>해당 스킬 결산 후:</color> 다음 아군 캐릭터로 교체한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2221,8 +2221,8 @@ var _skills = {
     },
     "15053": {
         "_id": 15053,
-        "Name": "Kazuha Slash",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b> and summons <color style='color:#FFFFFFFF'>Autumn Whirlwind</color>.",
+        "Name": "카즈하의 일도",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>3</b>pt 주고 <color style='color:#FFFFFFFF'>바람 부는 가을 들판</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2237,7 +2237,7 @@ var _skills = {
     },
     "15054": {
         "_id": 15054,
-        "Name": "Chihayaburu",
+        "Name": "치하야부루",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -2248,8 +2248,8 @@ var _skills = {
     },
     "15061": {
         "_id": 15061,
-        "Name": "Yuuban Meigen",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>.",
+        "Name": "깃발과 메이겐",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2262,8 +2262,8 @@ var _skills = {
     },
     "15062": {
         "_id": 15062,
-        "Name": "Hanega: Song of the Wind",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Windfavored</color>.",
+        "Name": "우화 · 바람이 전하는 노래",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>2</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>바람의 자태</color>를 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2277,8 +2277,8 @@ var _skills = {
     },
     "15063": {
         "_id": 15063,
-        "Name": "Kyougen: Five Ceremonial Plays",
-        "Desc": "Deals <b>7</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>. If the character has <color style='color:#FFFFFFFF'>Windfavored</color> attached, then remove it and increase DMG by 1.",
+        "Name": "교겐 · 악극 제5번",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>7</b>pt 준다. 캐릭터에게 <color style='color:#FFFFFFFF'>바람의 자태</color>가 부착되었을 시 제거하고 이번 피해가 1pt 증가한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2293,8 +2293,8 @@ var _skills = {
     },
     "15071": {
         "_id": 15071,
-        "Name": "Shuumatsuban Ninja Blade",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "인도(忍刀) · 종말번대",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2307,8 +2307,8 @@ var _skills = {
     },
     "15072": {
         "_id": 15072,
-        "Name": "Yoohoo Art: Fuuin Dash",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, and this character begins to <color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Fuufuu Whirlwind Kick</color>.<br>If this usage of the skill triggers Swirl, then <color style='color:#FFFFFFFF'>Fuufuu Whirlwind Kick</color> is converted to DMG of the Swirled Element.",
+        "Name": "유후류 · 풍은 돌진",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>1</b>pt 주고 본 캐릭터가 <color style='color:#FFFFFFFF'>풍풍륜 발차기</color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다.<br>현재 스킬이 확산을 발동했을 경우, <color style='color:#FFFFFFFF'>풍풍륜 발차기</color>가 확산된 원소 피해로 전환된다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2320,8 +2320,8 @@ var _skills = {
     },
     "15073": {
         "_id": 15073,
-        "Name": "Yoohoo Art: Mujina Flurry",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Muji-Muji Daruma</color>.",
+        "Name": "유후류 · 너구리 분신술",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>너구리 오뚝이</color>를 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2336,8 +2336,8 @@ var _skills = {
     },
     "15074": {
         "_id": 15074,
-        "Name": "Fuufuu Whirlwind Kick",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b> (or the Swirled Element's DMG)",
+        "Name": "풍풍륜 발차기",
+        "Desc": "(1차례 행동 준비 필요)<br><b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>(또는 확산된 원소 피해)를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2347,8 +2347,8 @@ var _skills = {
     },
     "15081": {
         "_id": 15081,
-        "Name": "Rapid Ritesword",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "신속한 예식 검술",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2361,8 +2361,8 @@ var _skills = {
     },
     "15082": {
         "_id": 15082,
-        "Name": "Enigmatic Feint",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>. The first time this Skill is used this Round, heal the character for 2 HP if they have no more than 8 HP, but apply <color style='color:#FFFFFFFF'>Overawing Assault</color> to said character.",
+        "Name": "그림자 은신술",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>3</b>pt 준다. 이번 턴에 처음으로 이 스킬을 사용하고 자신의 HP가 8pt 이하이면 자신의 HP를 2pt 치유하고 <color style='color:#FFFFFFFF'>기습의 여파</color>를 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2376,8 +2376,8 @@ var _skills = {
     },
     "15083": {
         "_id": 15083,
-        "Name": "Magic Trick: Astonishing Shift",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Bogglecat Box</color>.",
+        "Name": "마술 · 놀라운 변화",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>깜짝 고양이 모자</color>를 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2392,8 +2392,8 @@ var _skills = {
     },
     "16011": {
         "_id": 16011,
-        "Name": "Sparkling Scatter",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "천금투",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2406,8 +2406,8 @@ var _skills = {
     },
     "16012": {
         "_id": 16012,
-        "Name": "Jade Screen",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Jade Screen</color>.",
+        "Name": "선기 병풍",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>선기 병풍</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2421,8 +2421,8 @@ var _skills = {
     },
     "16013": {
         "_id": 16013,
-        "Name": "Starshatter",
-        "Desc": "Deals <b>6</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. If <color style='color:#FFFFFFFF'>Jade Screen</color> is on the field, deals +2 DMG.",
+        "Name": "천권 붕옥",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>6</b>pt 준다. 만약 필드에 <color style='color:#FFFFFFFF'>선기 병풍</color>이 있을 시, 이번 피해가 2pt 증가한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2437,8 +2437,8 @@ var _skills = {
     },
     "16021": {
         "_id": 16021,
-        "Name": "Favonius Bladework - Maid",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "페보니우스 검술 · 메이드",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2451,8 +2451,8 @@ var _skills = {
     },
     "16022": {
         "_id": 16022,
-        "Name": "Breastplate",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Full Plate</color>.",
+        "Name": "호심경",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>바위 갑주</color>를 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2466,8 +2466,8 @@ var _skills = {
     },
     "16023": {
         "_id": 16023,
-        "Name": "Sweeping Time",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Sweeping Time</color>.",
+        "Name": "대청소",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>4</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>대청소</color>가 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2482,8 +2482,8 @@ var _skills = {
     },
     "16031": {
         "_id": 16031,
-        "Name": "Rain of Stone",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "바위 비",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2496,8 +2496,8 @@ var _skills = {
     },
     "16032": {
         "_id": 16032,
-        "Name": "Dominus Lapidis",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Stone Stele</color>.",
+        "Name": "지핵",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>암주</color>를 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2511,8 +2511,8 @@ var _skills = {
     },
     "16033": {
         "_id": 16033,
-        "Name": "Dominus Lapidis: Striking Stone",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Stone Stele</color>, creates 1 <color style='color:#FFFFFFFF'>Jade Shield</color>.",
+        "Name": "지핵 · 드높은 반석",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>3</b>pt 주고 <color style='color:#FFFFFFFF'>암주</color>를 소환하며 <color style='color:#FFFFFFFF'>옥홀 방패</color>를 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2527,8 +2527,8 @@ var _skills = {
     },
     "16034": {
         "_id": 16034,
-        "Name": "Planet Befall",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Petrification</color>.",
+        "Name": "천성",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>4</b>pt 주고 대상 캐릭터에게 <color style='color:#FFFFFFFF'>석화</color>를 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2543,8 +2543,8 @@ var _skills = {
     },
     "16041": {
         "_id": 16041,
-        "Name": "Favonius Bladework - Weiss",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "페보니우스 검술 · 백",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2557,8 +2557,8 @@ var _skills = {
     },
     "16042": {
         "_id": 16042,
-        "Name": "Abiogenesis: Solar Isotoma",
-        "Desc": "Summons <color style='color:#FFFFFFFF'>Solar Isotoma</color>.",
+        "Name": "창생법 · 모조 태양꽃",
+        "Desc": "<color style='color:#FFFFFFFF'>태양꽃</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2572,8 +2572,8 @@ var _skills = {
     },
     "16043": {
         "_id": 16043,
-        "Name": "Rite of Progeniture: Tectonic Tide",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. If <color style='color:#FFFFFFFF'>Solar Isotoma</color> is on the field, deals +2 DMG.",
+        "Name": "탄생식 · 대지의 파동",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>4</b>pt 준다. 만약 필드에 <color style='color:#FFFFFFFF'>태양꽃</color>이 있으면 이번 피해가 2pt 증가한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2588,8 +2588,8 @@ var _skills = {
     },
     "16051": {
         "_id": 16051,
-        "Name": "Fight Club Legend",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "싸움꾼 전설",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2602,8 +2602,8 @@ var _skills = {
     },
     "16052": {
         "_id": 16052,
-        "Name": "Masatsu Zetsugi: Akaushi Burst!",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. Summons <color style='color:#FFFFFFFF'>Ushi</color>. This character gains <color style='color:#FFFFFFFF'>Superlative Superstrength</color>.",
+        "Name": "마살 절기 · 적우발파!",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>우시</color>를 소환해 본 캐릭터에게 <color style='color:#FFFFFFFF'>난신의 괴력</color>을 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2618,8 +2618,8 @@ var _skills = {
     },
     "16053": {
         "_id": 16053,
-        "Name": "Royal Descent: Behold, Itto the Evil!",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Raging Oni King</color>.",
+        "Name": "최흉의 귀왕 · 이토 강림!!",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>4</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>분노의 귀왕</color>을 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2634,8 +2634,8 @@ var _skills = {
     },
     "16061": {
         "_id": 16061,
-        "Name": "Ripping Fang Fletching",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "야수 이빨 화살",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2648,8 +2648,8 @@ var _skills = {
     },
     "16062": {
         "_id": 16062,
-        "Name": "Inuzaka All-Round Defense",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>General's War Banner</color>.",
+        "Name": "이누자카 멍멍 방원진",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>대장의 깃발</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2663,8 +2663,8 @@ var _skills = {
     },
     "16063": {
         "_id": 16063,
-        "Name": "Juuga: Forward Unto Victory",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>General's War Banner</color>, summons <color style='color:#FFFFFFFF'>General's Glory</color>.",
+        "Name": "야수 이빨 돌격형 승전법",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>대장의 깃발</color>을 생성한 후 <color style='color:#FFFFFFFF'>대장의 위용</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2680,8 +2680,8 @@ var _skills = {
     },
     "17011": {
         "_id": 17011,
-        "Name": "Supplicant's Bowmanship",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "기원 사격술",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2694,8 +2694,8 @@ var _skills = {
     },
     "17012": {
         "_id": 17012,
-        "Name": "Floral Brush",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "스쳐 지나가는 풀잎",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2707,8 +2707,8 @@ var _skills = {
     },
     "17013": {
         "_id": 17013,
-        "Name": "Trump-Card Kitty",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Cuilein-Anbar</color>.",
+        "Name": "냥냥 비책",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>콜린엔바</color>를 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2723,8 +2723,8 @@ var _skills = {
     },
     "17021": {
         "_id": 17021,
-        "Name": "Khanda Barrier-Buster",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "장벽을 깨는 온(蘊)",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2737,8 +2737,8 @@ var _skills = {
     },
     "17022": {
         "_id": 17022,
-        "Name": "Vijnana-Phala Mine",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Vijnana Suffusion</color>.",
+        "Name": "식(識)의 열매",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>2</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>식(識)의 통찰자</color>를 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2752,8 +2752,8 @@ var _skills = {
     },
     "17023": {
         "_id": 17023,
-        "Name": "Fashioner's Tanglevine Shaft",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, deals 1 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby.",
+        "Name": "뒤엉킨 덩굴 화살",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>4</b>pt 주고 모든 적 대기 캐릭터에게 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>관통 피해</color></color>를 1pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2766,8 +2766,8 @@ var _skills = {
     },
     "17031": {
         "_id": 17031,
-        "Name": "Akara",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "마음에 비친 형상",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2780,8 +2780,8 @@ var _skills = {
     },
     "17032": {
         "_id": 17032,
-        "Name": "All Schemes to Know",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, applies <color style='color:#FFFFFFFF'>Seed of Skandha</color> to target character. If the target character already has <color style='color:#FFFFFFFF'>Seed of Skandha</color> applied to them, then apply <color style='color:#FFFFFFFF'>Seed of Skandha</color> to all opposing characters instead.",
+        "Name": "너른 헤아림",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>2</b>pt 주고 대상 캐릭터에 <color style='color:#FFFFFFFF'>스칸다 씨앗</color>을 부착한다. 이때 대상 캐릭터에 이미 <color style='color:#FFFFFFFF'>스칸다 씨앗</color>이 부착되었을 시 모든 적에게 <color style='color:#FFFFFFFF'>스칸다 씨앗</color>을 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2795,8 +2795,8 @@ var _skills = {
     },
     "17033": {
         "_id": 17033,
-        "Name": "All Schemes to Know: Tathata",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>. Applies <color style='color:#FFFFFFFF'>Seed of Skandha</color> to all opposing characters.",
+        "Name": "너른 헤아림 · 불변의 진리",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>3</b>pt 주고 모든 적 캐릭터에게 <color style='color:#FFFFFFFF'>스칸다 씨앗</color>을 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2810,8 +2810,8 @@ var _skills = {
     },
     "17034": {
         "_id": 17034,
-        "Name": "Illusory Heart",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Shrine of Maya</color>.",
+        "Name": "마음이 그리는 환상",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>4</b>pt 주고 <color style='color:#FFFFFFFF'>마야의 전당</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2826,8 +2826,8 @@ var _skills = {
     },
     "17041": {
         "_id": 17041,
-        "Name": "Toss 'N' Turn Spear",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "돌격 연환창",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2840,8 +2840,8 @@ var _skills = {
     },
     "17042": {
         "_id": 17042,
-        "Name": "Raphanus Sky Cluster",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Yuegui: Throwing Mode</color>.",
+        "Name": "하늘에서 무가 내려와",
+        "Desc": "<color style='color:#FFFFFFFF'>월계 · 투척형</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2855,8 +2855,8 @@ var _skills = {
     },
     "17043": {
         "_id": 17043,
-        "Name": "Moonjade Descent",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Adeptal Legacy</color>.",
+        "Name": "달빛 아래 떨어지는 옥구슬",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>선인의 슬기</color>를 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2871,8 +2871,8 @@ var _skills = {
     },
     "17051": {
         "_id": 17051,
-        "Name": "The Classics of Acupuncture",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "금궤 침술",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2885,8 +2885,8 @@ var _skills = {
     },
     "17052": {
         "_id": 17052,
-        "Name": "Universal Diagnosis",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Gossamer Sprite</color>.",
+        "Name": "태소 진단",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>사역령</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2900,8 +2900,8 @@ var _skills = {
     },
     "17053": {
         "_id": 17053,
-        "Name": "Holistic Revivification",
-        "Desc": "Creates 1 <color style='color:#FFFFFFFF'>Pulsing Clarity</color> and <color style='color:#FFFFFFFF'>Seamless Shield</color>.",
+        "Name": "치유 전형론",
+        "Desc": "<color style='color:#FFFFFFFF'>진맥</color>과 <color style='color:#FFFFFFFF'>무간 보호막</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2917,8 +2917,8 @@ var _skills = {
     },
     "17061": {
         "_id": 17061,
-        "Name": "Abductive Reasoning",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "귀추법",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2931,8 +2931,8 @@ var _skills = {
     },
     "17062": {
         "_id": 17062,
-        "Name": "Universality: An Elaboration on Form",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Chisel-Light Mirror</color>.",
+        "Name": "보편성 · 이데아 모사",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>2</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>빛조각</color>을 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2946,8 +2946,8 @@ var _skills = {
     },
     "17063": {
         "_id": 17063,
-        "Name": "Particular Field: Fetters of Phenomena",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, consumes <color style='color:#FFFFFFFF'>Chisel-Light Mirror</color>, with the DMG bonus based on <color style='color:#FFFFFFFF'>Chisel-Light Mirror</color>'s <color style='color:#FFFFFFFF'>Duration (Rounds)</color> consumed.<br>If <color style='color:#FFFFFFFF'>Chisel-Light Mirror</color> <color style='color:#FFFFFFFF'>Duration (Rounds)</color> consumed is 0/1/2, then apply <color style='color:#FFFFFFFF'>Chisel-Light Mirror</color> with 3/2/1 <color style='color:#FFFFFFFF'>Duration (Rounds)</color> to this character.",
+        "Name": "특수 영역 · 현상의 족쇄",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>4</b>pt 준다. <color style='color:#FFFFFFFF'>빛조각</color>을 소모하며 이번 피해는 소모한 <color style='color:#FFFFFFFF'>빛조각</color>의 <color style='color:#FFFFFFFF'>지속 턴</color>만큼 증가한다.<br>소모한 <color style='color:#FFFFFFFF'>빛조각</color>의 <color style='color:#FFFFFFFF'>지속 턴</color>이 0/1/2이면 캐릭터에게 <color style='color:#FFFFFFFF'>지속 턴</color>이 3/2/1인 <color style='color:#FFFFFFFF'>빛조각</color>을 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2962,8 +2962,8 @@ var _skills = {
     },
     "17071": {
         "_id": 17071,
-        "Name": "Boxcutter",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "종이상자 절단술",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2976,8 +2976,8 @@ var _skills = {
     },
     "17072": {
         "_id": 17072,
-        "Name": "Meow-teor Kick",
-        "Desc": "Creates 1 <color style='color:#FFFFFFFF'>Urgent Neko Parcel</color> and <color style='color:#FFFFFFFF'>Shield of Safe Transport</color>.",
+        "Name": "냥냥 골목 누비기",
+        "Desc": "<color style='color:#FFFFFFFF'>냥냥 특급 배송</color>과 <color style='color:#FFFFFFFF'>안전 배송 보호막</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2992,8 +2992,8 @@ var _skills = {
     },
     "17073": {
         "_id": 17073,
-        "Name": "Secret Art: Surprise Dispatch",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Cat Grass Cardamom</color> on the opponent's side of the field.",
+        "Name": "비법 · 깜짝 배달",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>4</b>pt 주고 적 필드에 <color style='color:#FFFFFFFF'>카다멈 열매</color>를 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3008,8 +3008,8 @@ var _skills = {
     },
     "21011": {
         "_id": 21011,
-        "Name": "Cicin Icicle",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "얼음 치친의 고드름",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3022,8 +3022,8 @@ var _skills = {
     },
     "21012": {
         "_id": 21012,
-        "Name": "Misty Summons",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, summons <color style='color:#FFFFFFFF'>Cryo Cicins</color>.",
+        "Name": "안개의 부름",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>얼음 치친</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3037,8 +3037,8 @@ var _skills = {
     },
     "21013": {
         "_id": 21013,
-        "Name": "Blizzard, Branch, Blossom",
-        "Desc": "Deals <b>5</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, grants this character <color style='color:#99FFFFFF'>[b]2101[a]Cryo Application</color>, creates 1 <color style='color:#FFFFFFFF'>Flowing Cicin Shield</color>.",
+        "Name": "얼음 가지와 눈꽃",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>5</b>pt 주고 본 캐릭터에게 <color style='color:#99FFFFFF'>[b]2101[a]얼음 원소 부착</color>을 부여하며 <color style='color:#FFFFFFFF'>얼음 치친 보호막</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3053,8 +3053,8 @@ var _skills = {
     },
     "21021": {
         "_id": 21021,
-        "Name": "Frostblade Hailstorm",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "서릿발 춤",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3067,8 +3067,8 @@ var _skills = {
     },
     "21022": {
         "_id": 21022,
-        "Name": "Biting Shards",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Sheer Cold</color>.",
+        "Name": "살을 에는 가시",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>2</b>pt 주고 대상 캐릭터에게 <color style='color:#FFFFFFFF'>혹한</color>을 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3082,8 +3082,8 @@ var _skills = {
     },
     "21023": {
         "_id": 21023,
-        "Name": "Carmine Chrysalis",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, heals this character for 2 HP. Removes <color style='color:#FFFFFFFF'>Ice-Sealed Crimson Witch of Embers</color>. This character permanently switches to <color style='color:#FFFFFFFF'>Crimson Witch of Embers</color> state.",
+        "Name": "홍련의 얼음 고치",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>4</b>pt 주고 본 캐릭터의 HP를 2pt 치유한다. <color style='color:#FFFFFFFF'>얼음에 봉인된 화염의 마녀</color>를 제거하고 본 캐릭터가 영구적으로 <color style='color:#FFFFFFFF'>「사그라든 화염의 마녀」</color> 형태로 전환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3098,8 +3098,8 @@ var _skills = {
     },
     "21024": {
         "_id": 21024,
-        "Name": "Might of Delusion",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Ice-Sealed Crimson Witch of Embers</color>.",
+        "Name": "사안의 위엄",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>얼음에 봉인된 화염의 마녀</color>가 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3111,7 +3111,7 @@ var _skills = {
     },
     "21025": {
         "_id": 21025,
-        "Name": "Inferno's Awakening",
+        "Name": "타오르는 불길",
         "Desc": "",
         "Tag": [],
         "Cost": {},
@@ -3120,8 +3120,8 @@ var _skills = {
     },
     "21026": {
         "_id": 21026,
-        "Name": "Might of Delusion",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Ice-Sealed Crimson Witch of Embers</color>.",
+        "Name": "사안의 위엄",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>얼음에 봉인된 화염의 마녀</color>가 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3133,8 +3133,8 @@ var _skills = {
     },
     "21027": {
         "_id": 21027,
-        "Name": "Might of Delusion",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Ice-Sealed Crimson Witch of Embers</color>.",
+        "Name": "사안의 위엄",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>얼음에 봉인된 화염의 마녀</color>가 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3146,8 +3146,8 @@ var _skills = {
     },
     "63011": {
         "_id": 63011,
-        "Name": "Crimson Lotus Moth",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "홍련의 나방",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3160,8 +3160,8 @@ var _skills = {
     },
     "63012": {
         "_id": 63012,
-        "Name": "Decimating Lash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Blazing Heat</color>.",
+        "Name": "소각의 채찍",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>2</b>pt 주고 대상 캐릭터에게 <color style='color:#FFFFFFFF'>작열</color>을 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3175,8 +3175,8 @@ var _skills = {
     },
     "63013": {
         "_id": 63013,
-        "Name": "Whirling Blaze",
-        "Desc": "Deals <b>6</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "화염의 소용돌이",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>6</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3189,8 +3189,8 @@ var _skills = {
     },
     "63014": {
         "_id": 63014,
-        "Name": "Crimson Flamespin",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "홍련의 소용돌이",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3200,8 +3200,8 @@ var _skills = {
     },
     "21031": {
         "_id": 21031,
-        "Name": "Icespike Shot",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "얼음송곳 분사",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3214,8 +3214,8 @@ var _skills = {
     },
     "21032": {
         "_id": 21032,
-        "Name": "Ice Ring Waltz",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Overwhelming Ice</color>.",
+        "Name": "얼음고리 원무",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>3</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>흩어지는 얼음송곳</color>을 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3229,8 +3229,8 @@ var _skills = {
     },
     "21033": {
         "_id": 21033,
-        "Name": "Plunging Ice Shards",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, deals 1 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby, summons 1 <color style='color:#FFFFFFFF'>Piercing Iceridge</color>.",
+        "Name": "얼음가시 폭격",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>2</b>pt 주고 적의 모든 대기 캐릭터에게 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>관통 피해</color></color>를 1pt 주며 <color style='color:#FFFFFFFF'>찌르는 얼음가시</color>를 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3245,8 +3245,8 @@ var _skills = {
     },
     "21034": {
         "_id": 21034,
-        "Name": "Cryo Crystal Core",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Cryo Crystal Core</color>.",
+        "Name": "얼음수정 코어",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>얼음수정 코어</color>가 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3258,21 +3258,22 @@ var _skills = {
     },
     "21037": {
         "_id": 21037,
-        "Name": "Cryo Crystal Core",
-        "Desc": "(Passive) When the battle begins, starts with <color style='color:#FFFFFFFF'>Cryo Crystal Core</color>.<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> If this character has yet to gain a Cryo Crystal Core, then it will gain a Cryo Crystal Core again. (Triggers a maximum of once in a single duel)",
+        "Name": "얼음수정 코어",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>얼음수정 코어</color>가 부착된다.<br><color style='color:#FFFFFFFF'>행동 단계 시작 시: </color>본 캐릭터에 얼음수정 코어가 부착되지 않았을 경우 다시 얼음수정 코어를 부착한다. (대전 중 최대 1회 발동)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
         "Cost": {},
         "SP": 0,
         "C": [
-            121035
+            121035,
+            124016
         ]
     },
     "21038": {
         "_id": 21038,
-        "Name": "Cryo Crystal Core",
-        "Desc": "(Passive) When the battle begins, starts with <color style='color:#FFFFFFFF'>Cryo Crystal Core</color>.<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> If this character has yet to gain a Cryo Crystal Core, then it will gain a Cryo Crystal Core again. (Triggers a maximum of once in a single duel)",
+        "Name": "얼음수정 코어",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>얼음수정 코어</color>가 부착된다.<br><color style='color:#FFFFFFFF'>행동 단계 시작 시: </color>본 캐릭터에 얼음수정 코어가 부착되지 않았을 경우 다시 얼음수정 코어를 부착한다. (대전 중 최대 1회 발동)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3284,8 +3285,8 @@ var _skills = {
     },
     "22011": {
         "_id": 22011,
-        "Name": "Surge",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "솟구침",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3298,8 +3299,8 @@ var _skills = {
     },
     "22012": {
         "_id": 22012,
-        "Name": "Oceanid Mimic Summoning",
-        "Desc": "Randomly summons 1 <color style='color:#FFFFFFFF'>Oceanid Mimic</color> (Prioritizes summoning a different type from preexisting ones, at most 2 types of Oceanid Mimic can exist at the same time in the summons area).",
+        "Name": "물의 환상",
+        "Desc": "1종류의 <color style='color:#FFFFFFFF'>물의 환형</color>을 랜덤으로 소환한다. (다른 종류를 우선적으로 생성, 소환 구역에 동시에 최대 2종류의 물의 환형이 존재할 수 있다)",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3313,8 +3314,8 @@ var _skills = {
     },
     "22013": {
         "_id": 22013,
-        "Name": "The Myriad Wilds",
-        "Desc": "Randomly summons 2 <color style='color:#FFFFFFFF'>Oceanid Mimic</color> (Prioritizes summoning a different type from preexisting ones, at most 2 types of Oceanid Mimic can exist at the same time in the summons area).",
+        "Name": "임야백태",
+        "Desc": "2종류의 <color style='color:#FFFFFFFF'>물의 환형</color>을 랜덤으로 소환한다. (다른 종류를 우선적으로 생성, 소환 구역에 동시에 최대 2종류의 물의 환형이 존재할 수 있다)",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3328,8 +3329,8 @@ var _skills = {
     },
     "22014": {
         "_id": 22014,
-        "Name": "Tide and Torrent",
-        "Desc": "Deals <b>4</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. For each friendly Summon on the field, deals +1 additional DMG.",
+        "Name": "밀물과 급류",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>4</b>pt 준다. 아군의 소환물이 1개 있을 때마다 이번 피해가 1pt 증가한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3342,8 +3343,8 @@ var _skills = {
     },
     "22021": {
         "_id": 22021,
-        "Name": "Water Ball",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "물폭탄",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3356,8 +3357,8 @@ var _skills = {
     },
     "22022": {
         "_id": 22022,
-        "Name": "Influx Blast",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Refraction</color>.",
+        "Name": "물결 폭파",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>2</b>pt 주고 대상 캐릭터에게 <color style='color:#FFFFFFFF'>깨진 물빛 거울</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3371,8 +3372,8 @@ var _skills = {
     },
     "22023": {
         "_id": 22023,
-        "Name": "Rippled Reflection",
-        "Desc": "Deals <b>5</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "굴절된 거울의 빛",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>5</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3385,8 +3386,8 @@ var _skills = {
     },
     "23011": {
         "_id": 23011,
-        "Name": "Thrust",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "찌르기",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3399,8 +3400,8 @@ var _skills = {
     },
     "23012": {
         "_id": 23012,
-        "Name": "Prowl",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Stealth</color>.",
+        "Name": "기회 포착",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>1</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>잠행</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3414,8 +3415,8 @@ var _skills = {
     },
     "23013": {
         "_id": 23013,
-        "Name": "Blade Ablaze",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "불태워진 칼날",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>5</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3428,8 +3429,8 @@ var _skills = {
     },
     "23014": {
         "_id": 23014,
-        "Name": "Stealth Master",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Stealth</color>.",
+        "Name": "잠행 마스터",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>잠행</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3441,8 +3442,8 @@ var _skills = {
     },
     "23021": {
         "_id": 23021,
-        "Name": "Flame of Salvation",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "구원의 불꽃",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3455,8 +3456,8 @@ var _skills = {
     },
     "23022": {
         "_id": 23022,
-        "Name": "Searing Precept",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "작열하는 잠언",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3468,8 +3469,8 @@ var _skills = {
     },
     "23023": {
         "_id": 23023,
-        "Name": "Ominous Star",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Darkfire Furnace</color>.",
+        "Name": "추락하는 징조",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>3</b>pt 주고 <color style='color:#FFFFFFFF'>어둠의 불꽃 노심</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3484,8 +3485,8 @@ var _skills = {
     },
     "23024": {
         "_id": 23024,
-        "Name": "Fiery Rebirth",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Fiery Rebirth</color>.",
+        "Name": "다시 태어난 불꽃",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>다시 태어난 불꽃</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3497,8 +3498,8 @@ var _skills = {
     },
     "23025": {
         "_id": 23025,
-        "Name": "Shield of Surging Flame",
-        "Desc": "(Passive) When this character triggers <color style='color:#FFFFFFFF'>Fiery Rebirth</color>: attach <color style='color:#FFFFFFFF'>Shield of Surging Flame</color> to them.",
+        "Name": "넘치는 불의 보호막",
+        "Desc": "[패시브] 본 캐릭터가 <color style='color:#FFFFFFFF'>다시 태어난 불꽃</color>을 발동할 때 해당 캐릭터에게 <color style='color:#FFFFFFFF'>넘치는 불의 보호막</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3511,7 +3512,7 @@ var _skills = {
     },
     "23026": {
         "_id": 23026,
-        "Name": "Broken Shield",
+        "Name": "보호막 파괴",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -3522,8 +3523,8 @@ var _skills = {
     },
     "23031": {
         "_id": 23031,
-        "Name": "Searing Glare",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "용해의 빛",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3536,8 +3537,8 @@ var _skills = {
     },
     "23032": {
         "_id": 23032,
-        "Name": "Blazing Strike",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "화염 결정 쇄도",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3549,8 +3550,8 @@ var _skills = {
     },
     "23033": {
         "_id": 23033,
-        "Name": "Spirit of Omen's Awakening: Pyro Scorpion",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Spirit of Omen: Pyro Scorpion</color>.",
+        "Name": "악령 소생 · 마의 화염 전갈",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>악령 · 마의 화염 전갈</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3565,8 +3566,8 @@ var _skills = {
     },
     "23034": {
         "_id": 23034,
-        "Name": "Spirit of Omen's Power",
-        "Desc": "(Passive) <color style='color:#FFFFFFFF'>After this character takes DMG:</color> If this character has no greater than 7 HP, they gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>. (Once per Match)",
+        "Name": "악령의 힘",
+        "Desc": "[패시브] <color style='color:#FFFFFFFF'>이 캐릭터가 피해를 받은 후: </color>이 캐릭터의 HP가 7pt 이하이면 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>를 1pt 획득한다. (대전당 1회 제한)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3577,7 +3578,7 @@ var _skills = {
     "23035": {
         "_id": 23035,
         "Name": "",
-        "Desc": "This character's counters will be cleared at the beginning of each Round",
+        "Desc": "턴이 시작될 때마다 이 캐릭터의 카운트가 초기화된다.",
         "Tag": [],
         "Cost": {},
         "SP": 0,
@@ -3585,8 +3586,8 @@ var _skills = {
     },
     "23036": {
         "_id": 23036,
-        "Name": "Pyro Scorpion: Guardian Stance",
-        "Desc": "If there are summoned entities on the field at the beginning of each Round, refresh shield",
+        "Name": "마의 화염 전갈 · 방어",
+        "Desc": "턴이 시작될 때마다 필드에 소환물이 있다면 보호막이 갱신된다.",
         "Tag": [],
         "Cost": {},
         "SP": 0,
@@ -3594,8 +3595,8 @@ var _skills = {
     },
     "23037": {
         "_id": 23037,
-        "Name": "Pyro Scorpion: Guardian Stance",
-        "Desc": "If there are summoned entities on the field at the beginning of each Round, refresh shield (Talent)",
+        "Name": "마의 화염 전갈 · 방어",
+        "Desc": "턴이 시작될 때마다 필드에 소환물이 있다면 보호막이 갱신된다. (특성)",
         "Tag": [],
         "Cost": {},
         "SP": 0,
@@ -3603,8 +3604,8 @@ var _skills = {
     },
     "24011": {
         "_id": 24011,
-        "Name": "Electro Crystal Projection",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "번개수정 투사",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3617,8 +3618,8 @@ var _skills = {
     },
     "24012": {
         "_id": 24012,
-        "Name": "Rock-Paper-Scissors Combo",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b> and then separately performs \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Rock-Paper-Scissors Combo: Scissors</color> and <color style='color:#FFFFFFFF'>Rock-Paper-Scissors Combo: Paper</color>.",
+        "Name": "가위바위보 콤보",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>가위바위보 콤보 · 가위</color>와 <color style='color:#FFFFFFFF'>가위바위보 콤보 · 보</color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3630,8 +3631,8 @@ var _skills = {
     },
     "24013": {
         "_id": 24013,
-        "Name": "Lightning Lockdown",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons <color style='color:#FFFFFFFF'>Chains of Warding Thunder</color>.",
+        "Name": "벼락 진압",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>번개 사슬 봉인</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3646,8 +3647,8 @@ var _skills = {
     },
     "24014": {
         "_id": 24014,
-        "Name": "Electro Crystal Core",
-        "Desc": "(Passive) When the battle begins, this character gains an <color style='color:#FFFFFFFF'>Electro Crystal Core</color>.",
+        "Name": "번개수정 코어",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>번개수정 코어</color>가 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3659,8 +3660,8 @@ var _skills = {
     },
     "24015": {
         "_id": 24015,
-        "Name": "Rock-Paper-Scissors Combo: Scissors",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>. Then, perform \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Rock-Paper-Scissors Combo: Paper</color>.",
+        "Name": "가위바위보 콤보 · 가위",
+        "Desc": "(1차례 행동 준비 필요)<br><b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>가위바위보 콤보 · 보</color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3670,8 +3671,8 @@ var _skills = {
     },
     "24016": {
         "_id": 24016,
-        "Name": "Rock-Paper-Scissors Combo: Paper",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "가위바위보 콤보 · 보",
+        "Desc": "(1차례 행동 준비 필요)<br><b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3681,8 +3682,8 @@ var _skills = {
     },
     "24017": {
         "_id": 24017,
-        "Name": "Electro Crystal Core",
-        "Desc": "(Passive) When the battle begins, starts with <color style='color:#FFFFFFFF'>Electro Crystal Core</color>.<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> If this character has yet to gain Electro Crystal Core, then it will gain Electro Crystal Core again. (Triggers a maximum of twice in a single duel)",
+        "Name": "번개수정 코어",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>번개수정 코어</color>가 부착된다.<br><color style='color:#FFFFFFFF'>행동 단계 시작 시: </color>본 캐릭터에 번개수정 코어가 부착되지 않았을 경우 다시 번개수정 코어를 부착한다. (대전 중 최대 2회 발동)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3694,8 +3695,8 @@ var _skills = {
     },
     "24018": {
         "_id": 24018,
-        "Name": "Electro Crystal Core",
-        "Desc": "(Passive) When the battle begins, starts with <color style='color:#FFFFFFFF'>Electro Crystal Core</color>.<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> If this character has yet to gain Electro Crystal Core, then it will gain Electro Crystal Core again. (Triggers a maximum of twice in a single duel)",
+        "Name": "번개수정 코어",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>번개수정 코어</color>가 부착된다.<br><color style='color:#FFFFFFFF'>행동 단계 시작 시: </color>본 캐릭터에 번개수정 코어가 부착되지 않았을 경우 다시 번개수정 코어를 부착한다. (대전 중 최대 2회 발동)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3707,8 +3708,8 @@ var _skills = {
     },
     "24021": {
         "_id": 24021,
-        "Name": "Thunderous Wingslash",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "천둥 날개 베기",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3721,8 +3722,8 @@ var _skills = {
     },
     "24022": {
         "_id": 24022,
-        "Name": "Strifeful Lightning",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b> to the opposing character affected by <color style='color:#FFFFFFFF'>Lightning Rod</color>. (If there are no eligible opposing characters, deals DMG to the active character instead)",
+        "Name": "배척의 번개 벽",
+        "Desc": "<color style='color:#FFFFFFFF'>뇌명 탐지</color>가 부착된 적 캐릭터에게 <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>3</b>pt 준다. (조건에 맞는 상대 캐릭터가 없을 시 출전 캐릭터에게 피해를 준다)",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3736,8 +3737,8 @@ var _skills = {
     },
     "24023": {
         "_id": 24023,
-        "Name": "Thundering Shackles",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Thundering Shackles</color>.",
+        "Name": "속박의 천둥",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>속박의 천둥</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3752,8 +3753,8 @@ var _skills = {
     },
     "24024": {
         "_id": 24024,
-        "Name": "Lightning Probe",
-        "Desc": "(Passive) When battle begins, create a <color style='color:#FFFFFFFF'>Lightning Strike Probe</color> on the opponent's side of the field.",
+        "Name": "뇌정 탐지",
+        "Desc": "[패시브] 전투 시작 시, 적 필드에 <color style='color:#FFFFFFFF'>뇌정 탐침</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3765,8 +3766,8 @@ var _skills = {
     },
     "24031": {
         "_id": 24031,
-        "Name": "Tail Sweep",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "꼬리 부채질",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3779,8 +3780,8 @@ var _skills = {
     },
     "24032": {
         "_id": 24032,
-        "Name": "Swirling School of Fish",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.<br>If this character has <color style='color:#FFFFFFFF'>Fontemer Pearl</color> attached, that <color style='color:#FFFFFFFF'>Usage(s)</color> +1. (Once per Round)",
+        "Name": "춤추는 물고기 떼",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>3</b>pt 준다.<br>본 캐릭터에게 이미 <color style='color:#FFFFFFFF'>원류바다 진주</color>가 부착되어 있다면 해당 효과의 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>가 1회 증가한다. (턴당 1회)",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3794,8 +3795,8 @@ var _skills = {
     },
     "24033": {
         "_id": 24033,
-        "Name": "Fontemer Hoarthunder",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, attaches <color style='color:#FFFFFFFF'>Fontemer Pearl</color> to this character, and summons 1 <color style='color:#FFFFFFFF'>Resonant Coral Orb</color>.",
+        "Name": "원류바다 고대 번개",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>1</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>원류바다 진주</color>를 부착한 뒤 <color style='color:#FFFFFFFF'>공명 진주</color>를 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3811,8 +3812,8 @@ var _skills = {
     },
     "24034": {
         "_id": 24034,
-        "Name": "Pearl Armor",
-        "Desc": "(Passive) When the battle begins, attach <color style='color:#FFFFFFFF'>Fontemer Pearl</color> to this character.",
+        "Name": "진주 갑옷",
+        "Desc": "[패시브] 전투 시작 시, 본 캐릭터에게 <color style='color:#FFFFFFFF'>원류바다 진주</color>가 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3824,8 +3825,8 @@ var _skills = {
     },
     "24035": {
         "_id": 24035,
-        "Name": "Pearl Armor",
-        "Desc": "(Passive) When the battle begins, attach <color style='color:#FFFFFFFF'>Fontemer Pearl</color> to this character.",
+        "Name": "진주 갑옷",
+        "Desc": "[패시브] 전투 시작 시, 본 캐릭터에게 <color style='color:#FFFFFFFF'>원류바다 진주</color>가 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3837,8 +3838,8 @@ var _skills = {
     },
     "24036": {
         "_id": 24036,
-        "Name": "Fontemer Hoarthunder",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, attaches <color style='color:#FFFFFFFF'>Fontemer Pearl</color> to this character, and summons 1 <color style='color:#FFFFFFFF'>Resonant Coral Orb</color>.",
+        "Name": "원류바다 고대 번개",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>1</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>원류바다 진주</color>를 부착하며 <color style='color:#FFFFFFFF'>공명 진주</color>를 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3854,7 +3855,7 @@ var _skills = {
     },
     "24037": {
         "_id": 24037,
-        "Name": "Swirling School of Fish",
+        "Name": "춤추는 물고기 떼",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -3865,8 +3866,8 @@ var _skills = {
     },
     "24038": {
         "_id": 24038,
-        "Name": "Swirling School of Fish",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.<br>If this character has <color style='color:#FFFFFFFF'>Fontemer Pearl</color> attached, that <color style='color:#FFFFFFFF'>Usage(s)</color> +1. (Once per Round)",
+        "Name": "춤추는 물고기 떼",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>3</b>pt 준다.<br>본 캐릭터에게 이미 <color style='color:#FFFFFFFF'>원류바다 진주</color>가 부착되어 있다면 해당 효과의 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>가 1회 증가한다. (턴당 1회)",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3880,8 +3881,8 @@ var _skills = {
     },
     "24041": {
         "_id": 24041,
-        "Name": "Hurtling Bolts",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "번쩍이는 낙뢰",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3894,8 +3895,8 @@ var _skills = {
     },
     "24042": {
         "_id": 24042,
-        "Name": "Misty Call",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Electro Cicin</color>.",
+        "Name": "안개의 소환",
+        "Desc": "<color style='color:#FFFFFFFF'>번개 치친</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3909,8 +3910,8 @@ var _skills = {
     },
     "24043": {
         "_id": 24043,
-        "Name": "Thundering Shield",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, applies <color style='color:#FFACFFFF'>[b]2104[a]Electro Application</color> to this character, creates 1 <color style='color:#FFFFFFFF'>Electro Cicin Shield</color> and prepares <color style='color:#FFFFFFFF'>Surging Thunder</color>.",
+        "Name": "천둥의 가호",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>1</b>pt 주고 본 캐릭터에게 <color style='color:#FFACFFFF'>[b]2104[a]번개 원소 부착</color> 효과를 준다. <color style='color:#FFFFFFFF'>번개 치친 보호막</color>을 생성하고 <color style='color:#FFFFFFFF'>번개 분출</color>의 스킬 준비를 한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3925,8 +3926,8 @@ var _skills = {
     },
     "24044": {
         "_id": 24044,
-        "Name": "Surging Thunder",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "번개 분출",
+        "Desc": "(1차례 행동 준비 필요)<br><b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3936,8 +3937,8 @@ var _skills = {
     },
     "25011": {
         "_id": 25011,
-        "Name": "Ichimonji",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "이치몬지",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3950,8 +3951,8 @@ var _skills = {
     },
     "25012": {
         "_id": 25012,
-        "Name": "Blustering Blade",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Shadowsword: Lone Gale</color>.",
+        "Name": "고독한 바람의 검세",
+        "Desc": "<color style='color:#FFFFFFFF'>검의 그림자 · 고독한 바람</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3965,8 +3966,8 @@ var _skills = {
     },
     "25013": {
         "_id": 25013,
-        "Name": "Frosty Assault",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Shadowsword: Galloping Frost</color>.",
+        "Name": "서리 낀 그림자의 돌진",
+        "Desc": "<color style='color:#FFFFFFFF'>검의 그림자 · 흩날리는 서리</color>를 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3980,8 +3981,8 @@ var _skills = {
     },
     "25014": {
         "_id": 25014,
-        "Name": "Pseudo Tengu Sweeper",
-        "Desc": "Deals <b>4</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, triggers the effect(s) of all your <color style='color:#FFFFFFFF'>Shadowsword</color> Summon(s). (Does not consume their Usages)",
+        "Name": "기계 텐구쇼",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>4</b>pt 주고 모든 아군의 <color style='color:#FFFFFFFF'>검의 그림자</color> 소환물 효과를 발동한다. (사용 가능 횟수를 소모하지 않음)",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3994,8 +3995,8 @@ var _skills = {
     },
     "25021": {
         "_id": 25021,
-        "Name": "Lacerating Slash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "갈래 발톱 휩쓸기",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4008,8 +4009,8 @@ var _skills = {
     },
     "25022": {
         "_id": 25022,
-        "Name": "Tempestuous Barrage",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Total Collapse</color>.",
+        "Name": "몰아치는 폭풍",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>2</b>pt 주고 대상 캐릭터에게 <color style='color:#FFFFFFFF'>와해</color>를 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4023,8 +4024,8 @@ var _skills = {
     },
     "25023": {
         "_id": 25023,
-        "Name": "Dvalin's Cleansing",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b> and then separately performs \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Perpetual Cleansing</color> and <color style='color:#FFFFFFFF'>Ultimate Cleansing</color>.",
+        "Name": "바람 드래곤의 숨결",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>긴 숨결</color>과 <color style='color:#FFFFFFFF'>종막의 숨결</color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4036,8 +4037,8 @@ var _skills = {
     },
     "25024": {
         "_id": 25024,
-        "Name": "Caelestinum Finale Termini",
-        "Desc": "Deals <b>5</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>. Applies <color style='color:#FFFFFFFF'>Total Collapse</color> to all opposing standby characters.",
+        "Name": "파멸의 노래",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>5</b>pt 주고 모든 적 대기 캐릭터에게 <color style='color:#FFFFFFFF'>와해</color>를 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4052,8 +4053,8 @@ var _skills = {
     },
     "25025": {
         "_id": 25025,
-        "Name": "Perpetual Cleansing",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>1</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b> to the next opposing character on standby. After this, <color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Ultimate Cleansing</color>. (If there are no opposing characters on standby, deals DMG to active character instead)",
+        "Name": "긴 숨결",
+        "Desc": "(1차례 행동 준비 필요)<br>다음 적 대기 캐릭터에게 <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>종막의 숨결</color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다. (상대에게 대기 캐릭터가 없을 시, 출전 캐릭터에게 피해를 준다)",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4063,8 +4064,8 @@ var _skills = {
     },
     "25026": {
         "_id": 25026,
-        "Name": "Ultimate Cleansing",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b> to the previous opposing character on standby. (If there are no opposing characters on standby, deals DMG to the active character instead)",
+        "Name": "종막의 숨결",
+        "Desc": "(1차례 행동 준비 필요)<br>이전 적 대기 캐릭터에게 <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>2</b>pt 준다. (상대에게 대기 캐릭터가 없을 시, 출전 캐릭터에게 피해를 준다)",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4075,7 +4076,7 @@ var _skills = {
     "26011": {
         "_id": 26011,
         "Name": "Plama Lawa",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4089,7 +4090,7 @@ var _skills = {
     "26012": {
         "_id": 26012,
         "Name": "Movo Lawa",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4102,7 +4103,7 @@ var _skills = {
     "26013": {
         "_id": 26013,
         "Name": "Upa Shato",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>5</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4115,8 +4116,8 @@ var _skills = {
     },
     "26014": {
         "_id": 26014,
-        "Name": "Infused Stonehide",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Stonehide</color> and <color style='color:#FFFFFFFF'>Stone Force</color>.",
+        "Name": "마성화: 바위 투구",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>바위 투구</color>와 <color style='color:#FFFFFFFF'>견고한 바위의 힘</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4129,8 +4130,8 @@ var _skills = {
     },
     "26021": {
         "_id": 26021,
-        "Name": "Sundering Charge",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "바위 분쇄 충돌",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4143,8 +4144,8 @@ var _skills = {
     },
     "26022": {
         "_id": 26022,
-        "Name": "Aura of Majesty",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. If a Crystallize reaction occurs, then this character will perform <color style='color:#FFFFFFFF'>Elemental Absorption</color>.<br>If during the usage of this skill, the character hasn't absorbed an element's power yet, then <color style='color:#FFFFFFFF'>Stone Facets: Elemental Crystallization</color> will be attached.",
+        "Name": "웅장한 기운",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>3</b>pt 주고 결정 반응이 발생하면 캐릭터는 <color style='color:#FFFFFFFF'>해당 원소의 힘을 흡수</color>한다. <br>만약 이번 스킬에서 캐릭터가 원소의 힘을 흡수하지 않을 경우 <color style='color:#FFFFFFFF'>반암백상 · 원소 응결</color>을 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4158,8 +4159,8 @@ var _skills = {
     },
     "26024": {
         "_id": 26024,
-        "Name": "Decimating Rockfall",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. DMG +1 for each element previously absorbed.",
+        "Name": "파멸의 산사태",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>4</b>pt 주고 흡수한 원소 타입 하나당 이번 피해가 1pt 증가한다",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4172,8 +4173,8 @@ var _skills = {
     },
     "26025": {
         "_id": 26025,
-        "Name": "Stone Facets",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Stone Facets: Elemental Absorption</color>.",
+        "Name": "반암백상",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>반암백상 · 원소 흡수</color>가 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4185,8 +4186,8 @@ var _skills = {
     },
     "66013": {
         "_id": 66013,
-        "Name": "Frostspike Wave",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Stone Facets: Elemental Crystallization</color>.",
+        "Name": "서리 습격",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>3</b>pt 주고 이 캐릭터에게 <color style='color:#FFFFFFFF'>반암백상 · 원소 응결</color>을 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4200,8 +4201,8 @@ var _skills = {
     },
     "66023": {
         "_id": 66023,
-        "Name": "Torrential Rebuke",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Stone Facets: Elemental Crystallization</color>.",
+        "Name": "격류 범람",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>3</b>pt 주고 이 캐릭터에게 <color style='color:#FFFFFFFF'>반암백상 · 원소 응결</color>을 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4215,8 +4216,8 @@ var _skills = {
     },
     "66033": {
         "_id": 66033,
-        "Name": "Blazing Rebuke",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Stone Facets: Elemental Crystallization</color>.",
+        "Name": "화염 잠식",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>3</b>pt 주고 이 캐릭터에게 <color style='color:#FFFFFFFF'>반암백상 · 원소 응결</color>을 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4230,8 +4231,8 @@ var _skills = {
     },
     "66043": {
         "_id": 66043,
-        "Name": "Thunderstorm Wave",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Stone Facets: Elemental Crystallization</color>.",
+        "Name": "벼락 습격",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>3</b>pt 주고 이 캐릭터에게 <color style='color:#FFFFFFFF'>반암백상 · 원소 응결</color>을 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4245,8 +4246,8 @@ var _skills = {
     },
     "27011": {
         "_id": 27011,
-        "Name": "Majestic Dance",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "균왕의 춤",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4259,8 +4260,8 @@ var _skills = {
     },
     "27012": {
         "_id": 27012,
-        "Name": "Volatile Spore Cloud",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "불안정한 포자 구름",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4272,8 +4273,8 @@ var _skills = {
     },
     "27013": {
         "_id": 27013,
-        "Name": "Feather Spreading",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, then consumes all <color style='color:#FFFFFFFF'>Radical Vitality</color> stacks. For each stack consumed, this instance deals +1 DMG.",
+        "Name": "깃털 펼치기",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>4</b>pt 주고 모든 <color style='color:#FFFFFFFF'>활력 자극</color> 스택을 소모하며 스택당 이번 피해가 1pt씩 증가한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4288,8 +4289,8 @@ var _skills = {
     },
     "27014": {
         "_id": 27014,
-        "Name": "Radical Vitality",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Radical Vitality</color>.",
+        "Name": "활력 자극",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>활력 자극</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4301,8 +4302,8 @@ var _skills = {
     },
     "30011": {
         "_id": 30011,
-        "Name": "Hit",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "공격",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4314,8 +4315,8 @@ var _skills = {
     },
     "30012": {
         "_id": 30012,
-        "Name": "Jump and Hit",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "점프 공격",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4327,8 +4328,8 @@ var _skills = {
     },
     "30013": {
         "_id": 30013,
-        "Name": "Swing That Club",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "붕붕 휘두르기",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>4</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4341,8 +4342,8 @@ var _skills = {
     },
     "30021": {
         "_id": 30021,
-        "Name": "Shooting",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "사격",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4354,8 +4355,8 @@ var _skills = {
     },
     "30022": {
         "_id": 30022,
-        "Name": "Multishot",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "다발 사격",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>5</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4368,8 +4369,8 @@ var _skills = {
     },
     "30023": {
         "_id": 30023,
-        "Name": "Hide",
-        "Desc": "(Passive) Switches to the next character after this character uses a Skill.",
+        "Name": "숨기",
+        "Desc": "[패시브] 해당 캐릭터가 스킬을 사용 후, 다음 캐릭터로 자동 교체된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4379,8 +4380,8 @@ var _skills = {
     },
     "30031": {
         "_id": 30031,
-        "Name": "Combo Slash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "연속 베기",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4392,8 +4393,8 @@ var _skills = {
     },
     "30032": {
         "_id": 30032,
-        "Name": "Leap Attack",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "뛰어올라 내려찍기",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4405,8 +4406,8 @@ var _skills = {
     },
     "30033": {
         "_id": 30033,
-        "Name": "Iai: Sheathed",
-        "Desc": "<color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Iai: Thrust</color>.",
+        "Name": "거합 · 납도",
+        "Desc": "본 캐릭터가 <color style='color:#FFFFFFFF'>거합 · 앞</color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4419,8 +4420,8 @@ var _skills = {
     },
     "30034": {
         "_id": 30034,
-        "Name": "Iai: Thrust",
-        "Desc": "(Prepare for 2 turns)<br>Deals <b>6</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "거합 · 앞",
+        "Desc": "(2차례 행동 준비 필요)<br><b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>6</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4430,8 +4431,8 @@ var _skills = {
     },
     "30035": {
         "_id": 30035,
-        "Name": "Iai: Breathing",
-        "Desc": "(Prepared for 1 Turn)<br>The next time this character acts, they will use the Skill <color style='color:#FFFFFFFF'>Iai: Thrust</color>.",
+        "Name": "거합 · 토납",
+        "Desc": "(1차례 행동 준비 필요)<br>다음 행동 시 <color style='color:#FFFFFFFF'>거합 · 앞</color> 스킬을 사용한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4441,8 +4442,8 @@ var _skills = {
     },
     "30036": {
         "_id": 30036,
-        "Name": "Zanshin",
-        "Desc": "(Passive) End Phase: If this character is the active character, they gain 1 Energy.",
+        "Name": "잔심",
+        "Desc": "[패시브] 종료 단계: 해당 캐릭터가 「출전 캐릭터」일 시, 원소 에너지를 1pt 획득한다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4452,8 +4453,8 @@ var _skills = {
     },
     "30041": {
         "_id": 30041,
-        "Name": "Stern Blow",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "견고한 타격",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4465,8 +4466,8 @@ var _skills = {
     },
     "30042": {
         "_id": 30042,
-        "Name": "Spiral Close-In",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b> and then separately performs \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>High-Frequency Whirling Assault</color> and <color style='color:#FFFFFFFF'>Hyperspeed Whirling Assault</color>.",
+        "Name": "회전 방어",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>고속 회전격</color>과 <color style='color:#FFFFFFFF'>초고속 회전격</color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4478,8 +4479,8 @@ var _skills = {
     },
     "30043": {
         "_id": 30043,
-        "Name": "Suppressive Volley",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Seeking Missile</color> in the opponent's play area.",
+        "Name": "제압 일제 사격",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>4</b>pt 주고 상대방 필드에 <color style='color:#FFFFFFFF'>유도폭탄</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4494,8 +4495,8 @@ var _skills = {
     },
     "30044": {
         "_id": 30044,
-        "Name": "Standard Armor",
-        "Desc": "(Passive) The [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> this character receives is halved (Rounded up)",
+        "Name": "표준 외갑",
+        "Desc": "[패시브] 이 캐릭터가 받는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 절반으로 감소한다. (올림 처리)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4505,8 +4506,8 @@ var _skills = {
     },
     "30045": {
         "_id": 30045,
-        "Name": "High-Frequency Whirling Assault",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>. Then, perform \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Hyperspeed Whirling Assault</color>.",
+        "Name": "고속 회전격",
+        "Desc": "(1차례 행동 준비 필요)<br><b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>초고속 회전격</color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4516,8 +4517,8 @@ var _skills = {
     },
     "30046": {
         "_id": 30046,
-        "Name": "Hyperspeed Whirling Assault",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>. This character also gains 1 bonus Energy.",
+        "Name": "초고속 회전격",
+        "Desc": "(1차례 행동 준비 필요)<br><b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>1</b>pt 주고 이 캐릭터가 추가로 원소 에너지를 1pt 획득한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4527,8 +4528,8 @@ var _skills = {
     },
     "30051": {
         "_id": 30051,
-        "Name": "Close Expulsion",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "근거리 구축",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4540,8 +4541,8 @@ var _skills = {
     },
     "30052": {
         "_id": 30052,
-        "Name": "Sudden Charge",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "충격의 돌진",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4553,8 +4554,8 @@ var _skills = {
     },
     "30053": {
         "_id": 30053,
-        "Name": "Energy Surge",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>. If this character has absorbed Elemental Energy, it will release that element for +1 DMG and change DMG type to the absorbed element.",
+        "Name": "에너지 격류",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>5</b>pt 준다. 만약 이 캐릭터가 이미 원소 에너지를 흡수했다면, 흡수한 원소를 발동해 이번 피해가 1pt 증가하며 흡수한 원소 피해를 주는 것으로 전환된다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4567,8 +4568,8 @@ var _skills = {
     },
     "30054": {
         "_id": 30054,
-        "Name": "Standard Armor",
-        "Desc": "(Passive) The [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> this character receives is halved (Rounded up)",
+        "Name": "표준 외갑",
+        "Desc": "[패시브] 이 캐릭터가 받는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 절반으로 감소한다. (올림 처리)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4578,8 +4579,8 @@ var _skills = {
     },
     "30055": {
         "_id": 30055,
-        "Name": "Elemental Absorption",
-        "Desc": "(Passive) <color style='color:#FFFFFFFF'>When no element has been absorbed and this character takes Elemental DMG</color>, absorb that element.<br>Halve DMG of that element taken by this character. (Rounded up)",
+        "Name": "원소 흡수",
+        "Desc": "[패시브] <color style='color:#FFFFFFFF'>원소를 흡수하지 않은 상태에서 캐릭터가 원소 피해를 입을 시: </color>해당 원소의 에너지를 흡수한다.<br>캐릭터가 이미 흡수한 원소 피해를 받을 시, 피해가 절반으로 감소한다. (올림 처리)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4589,7 +4590,7 @@ var _skills = {
     },
     "30056": {
         "_id": 30056,
-        "Name": "Elemental Absorption",
+        "Name": "원소 흡수",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -4600,8 +4601,8 @@ var _skills = {
     },
     "30061": {
         "_id": 30061,
-        "Name": "Offensive Shieldstrike",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "공세 방패",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4613,8 +4614,8 @@ var _skills = {
     },
     "30062": {
         "_id": 30062,
-        "Name": "Double Strike",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "이중 타격",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4626,8 +4627,8 @@ var _skills = {
     },
     "30063": {
         "_id": 30063,
-        "Name": "Leaping Smash",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "도약 둔격",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>4</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4640,8 +4641,8 @@ var _skills = {
     },
     "30071": {
         "_id": 30071,
-        "Name": "Long-Range Fire",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "장거리 점사",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4653,8 +4654,8 @@ var _skills = {
     },
     "30072": {
         "_id": 30072,
-        "Name": "Retreating Fire",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>, switches your character to the next character.",
+        "Name": "후퇴 사격",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>3</b>pt 주고 아군이 다음 캐릭터로 교체된다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4666,8 +4667,8 @@ var _skills = {
     },
     "30073": {
         "_id": 30073,
-        "Name": "Burst Fire",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "폭발 사격",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>4</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4681,7 +4682,7 @@ var _skills = {
     "31011": {
         "_id": 31011,
         "Name": "Plata Plama",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4695,7 +4696,7 @@ var _skills = {
     "31012": {
         "_id": 31012,
         "Name": "Da Plama",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4708,7 +4709,7 @@ var _skills = {
     "31013": {
         "_id": 31013,
         "Name": "Aba Movo",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>5</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4721,8 +4722,8 @@ var _skills = {
     },
     "31014": {
         "_id": 31014,
-        "Name": "Hoarfrost Greatshield",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Hoarfrost Greatshield</color>.",
+        "Name": "얼음 방패",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>얼음 방패</color>가 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4734,7 +4735,7 @@ var _skills = {
     },
     "31015": {
         "_id": 31015,
-        "Name": "Shattered Shield",
+        "Name": "방패 파괴",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -4745,8 +4746,8 @@ var _skills = {
     },
     "31021": {
         "_id": 31021,
-        "Name": "Ice Arrow",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "얼음 화살",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4759,8 +4760,8 @@ var _skills = {
     },
     "31022": {
         "_id": 31022,
-        "Name": "Multishot",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "다발 사격",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>4</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4773,8 +4774,8 @@ var _skills = {
     },
     "31023": {
         "_id": 31023,
-        "Name": "Hide",
-        "Desc": "(Passive) Switches to the next character after this character attacks.",
+        "Name": "숨기",
+        "Desc": "[패시브] 해당 캐릭터가 공격을 시전 후, 다음 캐릭터로 자동 교체된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4784,8 +4785,8 @@ var _skills = {
     },
     "31031": {
         "_id": 31031,
-        "Name": "Cryo Thorns",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "얼음 가시",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4798,8 +4799,8 @@ var _skills = {
     },
     "31032": {
         "_id": 31032,
-        "Name": "Frostdrift Offering",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "승화의 마법",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4811,8 +4812,8 @@ var _skills = {
     },
     "31033": {
         "_id": 31033,
-        "Name": "Rimestorm Rite",
-        "Desc": "Deals <b>5</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "눈보라의 의식",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>5</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4825,8 +4826,8 @@ var _skills = {
     },
     "31034": {
         "_id": 31034,
-        "Name": "Cryo Shield",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Cryo Shield</color>.",
+        "Name": "얼음 원소 보호막",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>얼음 원소 보호막</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4838,7 +4839,7 @@ var _skills = {
     },
     "31035": {
         "_id": 31035,
-        "Name": "Broken Shield",
+        "Name": "보호막 파괴",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -4849,8 +4850,8 @@ var _skills = {
     },
     "31041": {
         "_id": 31041,
-        "Name": "Close-Range Charge",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "근접 돌격",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4863,8 +4864,8 @@ var _skills = {
     },
     "31042": {
         "_id": 31042,
-        "Name": "Freezing Spray",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "얼음 분사기",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4876,8 +4877,8 @@ var _skills = {
     },
     "31043": {
         "_id": 31043,
-        "Name": "Frost Cannon",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Cryo Elemental Equipment</color>.",
+        "Name": "혹한의 서리 총",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>3</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>원소 무장 · 얼음</color>을 부착한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4892,8 +4893,8 @@ var _skills = {
     },
     "31044": {
         "_id": 31044,
-        "Name": "Combat Resupply",
-        "Desc": "(Passive) When the battle begins, this character gains 2 Energy.",
+        "Name": "장비 보급",
+        "Desc": "[패시브] 전투 시작 시, 본 캐릭터가 원소 에너지를 2pt 획득한다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4903,7 +4904,7 @@ var _skills = {
     },
     "31045": {
         "_id": 31045,
-        "Name": "Shattered Gun",
+        "Name": "총기 파괴",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -4914,8 +4915,8 @@ var _skills = {
     },
     "31051": {
         "_id": 31051,
-        "Name": "Spore Bullet",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "포자탄",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4928,8 +4929,8 @@ var _skills = {
     },
     "31052": {
         "_id": 31052,
-        "Name": "Rolling Spray",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "회전 분사",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4941,8 +4942,8 @@ var _skills = {
     },
     "31053": {
         "_id": 31053,
-        "Name": "Divebomb",
-        "Desc": "Deals <b>5</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "급강하 폭격",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>5</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4955,8 +4956,8 @@ var _skills = {
     },
     "31054": {
         "_id": 31054,
-        "Name": "State Change",
-        "Desc": "(Passive) When the battle begins, the character will be in the <color style='color:#FFFFFFFF'>Aerial Superiority</color> State.<br>After this character takes [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>, it will become <color style='color:#FFFFFFFF'>Scorched</color>.<br>After this character takes [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>, it will become <color style='color:#FFFFFFFF'>Activated</color>.",
+        "Name": "상태 전환",
+        "Desc": "[패시브] 전투 시작 시, 캐릭터가 <color style='color:#FFFFFFFF'>공중 우세</color>에 돌입한다.<br>캐릭터가 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 받은 후 <color style='color:#FFFFFFFF'>건조 상태</color>로 전환된다.<br>캐릭터가 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 받은 후 <color style='color:#FFFFFFFF'>활력 상태</color>로 전환된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4970,8 +4971,8 @@ var _skills = {
     },
     "31061": {
         "_id": 31061,
-        "Name": "Double Hack",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "이중 참격",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4984,8 +4985,8 @@ var _skills = {
     },
     "31062": {
         "_id": 31062,
-        "Name": "Dual-Blade Chop",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "쌍검 합참",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4997,8 +4998,8 @@ var _skills = {
     },
     "31063": {
         "_id": 31063,
-        "Name": "Stalwart Onslaught",
-        "Desc": "This character's <color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Stalwart Onslaught: All-Out Strike</color>.",
+        "Name": "차지 맹격",
+        "Desc": "본 캐릭터가 <color style='color:#FFFFFFFF'>차지 맹격 · 혼신의 일격</color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5011,8 +5012,8 @@ var _skills = {
     },
     "31064": {
         "_id": 31064,
-        "Name": "Ominous Spirit Unleashed (Cryo)",
-        "Desc": "(Passive) <color style='color:#FFFFFFFF'>After this character takes DMG:</color> If this character has no more than 7 HP, they gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color> and <color style='color:#FFFFFFFF'>Spirit of Omen's Awakening: Cryo</color> is attached. (Once per Match)",
+        "Name": "악령 해방 · 얼음",
+        "Desc": "[패시브] <color style='color:#FFFFFFFF'>이 캐릭터가 피해를 받은 후: </color>이 캐릭터의 HP가 7pt 이하이면 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>를 1pt 획득하고 <color style='color:#FFFFFFFF'>악령 소생 · 얼음</color>을 부착한다. (대전당 1회 제한)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5024,8 +5025,8 @@ var _skills = {
     },
     "31065": {
         "_id": 31065,
-        "Name": "Stalwart Onslaught: All-Out Strike",
-        "Desc": "(Prepare for 2 turns)<br>Deals <b>6</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "차지 맹격 · 혼신의 일격",
+        "Desc": "(2차례 행동 준비 필요)<br><b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>6</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5035,8 +5036,8 @@ var _skills = {
     },
     "31066": {
         "_id": 31066,
-        "Name": "Stalwart Onslaught: Charging Stance",
-        "Desc": "(Prepared for 1 Turn)<br>The next time this character acts, they will use the Skill <color style='color:#FFFFFFFF'>Stalwart Onslaught: All-Out Strike</color>.",
+        "Name": "차지 맹격 · 차징 태세",
+        "Desc": "(1차례 행동 준비 필요)<br>다음 행동 시 <color style='color:#FFFFFFFF'>차지 맹격 · 혼신의 일격</color> 스킬을 사용한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5046,8 +5047,8 @@ var _skills = {
     },
     "31071": {
         "_id": 31071,
-        "Name": "Ram",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "돌진",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5060,8 +5061,8 @@ var _skills = {
     },
     "31072": {
         "_id": 31072,
-        "Name": "Jumping Slam",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "도약 돌격",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>4</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5074,8 +5075,8 @@ var _skills = {
     },
     "31073": {
         "_id": 31073,
-        "Name": "Elemental Sedimentation: Cryo",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Elemental Lifeform: Cryo</color>.",
+        "Name": "원소 침적 · 얼음",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>원소 생명체 · 얼음</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5087,8 +5088,8 @@ var _skills = {
     },
     "31081": {
         "_id": 31081,
-        "Name": "Bounce",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "탄력 점프",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5101,8 +5102,8 @@ var _skills = {
     },
     "31082": {
         "_id": 31082,
-        "Name": "Frigid Spray",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "얼음 안개 분사",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5114,8 +5115,8 @@ var _skills = {
     },
     "31083": {
         "_id": 31083,
-        "Name": "Slam",
-        "Desc": "Deals <b>5</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "철퍼덕 낙하",
+        "Desc": "<b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color></color></b>를 <b>5</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5128,8 +5129,8 @@ var _skills = {
     },
     "32011": {
         "_id": 32011,
-        "Name": "Water Ball",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "물폭탄",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5142,8 +5143,8 @@ var _skills = {
     },
     "32012": {
         "_id": 32012,
-        "Name": "Bubbling Offering",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Mist Bubble</color>.",
+        "Name": "포영의 마법",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>1</b>pt 주고 대상 캐릭터에게 <color style='color:#FFFFFFFF'>물방울</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5157,8 +5158,8 @@ var _skills = {
     },
     "32013": {
         "_id": 32013,
-        "Name": "Rite of Mortal Water",
-        "Desc": "Deals <b>4</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Mist Bubble</color>.",
+        "Name": "환영 생멸의 의식",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>4</b>pt 주고 대상 캐릭터에게 <color style='color:#FFFFFFFF'>물방울</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5173,8 +5174,8 @@ var _skills = {
     },
     "32014": {
         "_id": 32014,
-        "Name": "Hydro Shield",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Hydro Shield</color>.",
+        "Name": "물 원소 보호막",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>물 원소 보호막</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5186,7 +5187,7 @@ var _skills = {
     },
     "32015": {
         "_id": 32015,
-        "Name": "Broken Shield",
+        "Name": "보호막 파괴",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -5197,8 +5198,8 @@ var _skills = {
     },
     "32016": {
         "_id": 32016,
-        "Name": "Aegis of the Abyss",
-        "Desc": "(Passive) When the shield is broken, after this character uses a Skill: Restore the <color style='color:#FFFFFFFF'>Hydro Shield</color>.",
+        "Name": "심연 가호",
+        "Desc": "[패시브] 보호막이 파괴된 상태에서 스킬 사용 후: <color style='color:#FFFFFFFF'>물 원소 보호막</color>이 다시 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5210,8 +5211,8 @@ var _skills = {
     },
     "32021": {
         "_id": 32021,
-        "Name": "Staff Strike",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "지팡이 공격",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5223,8 +5224,8 @@ var _skills = {
     },
     "32022": {
         "_id": 32022,
-        "Name": "Prayer for Rain",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Healing Rain</color>.",
+        "Name": "기우술",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>치유의 비</color>를 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5238,8 +5239,8 @@ var _skills = {
     },
     "32023": {
         "_id": 32023,
-        "Name": "Tidal Impact",
-        "Desc": "Deals <b>5</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "격류의 충격",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>5</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5252,8 +5253,8 @@ var _skills = {
     },
     "32031": {
         "_id": 32031,
-        "Name": "Skilled Charge",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "전술적 충돌",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5266,8 +5267,8 @@ var _skills = {
     },
     "32032": {
         "_id": 32032,
-        "Name": "Curative Bullet",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, heals 2 of friendly characters on standby for 1 HP.",
+        "Name": "치유탄",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>2</b>pt 주고 아군 대기 캐릭터 2명의 HP를 1pt 치유한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5279,8 +5280,8 @@ var _skills = {
     },
     "32033": {
         "_id": 32033,
-        "Name": "Elemental Buff: Hydro",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Hydro Elemental Equipment</color>.",
+        "Name": "원소 증폭 · 물",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>3</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>원소 무장 · 물</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5295,8 +5296,8 @@ var _skills = {
     },
     "32034": {
         "_id": 32034,
-        "Name": "Combat Resupply",
-        "Desc": "(Passive) When the battle begins, this character gains 2 Energy.",
+        "Name": "장비 보급",
+        "Desc": "[패시브] 전투 시작 시, 본 캐릭터가 원소 에너지를 2pt 획득한다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5306,7 +5307,7 @@ var _skills = {
     },
     "32035": {
         "_id": 32035,
-        "Name": "Shattered Gun",
+        "Name": "총기 파괴",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -5317,8 +5318,8 @@ var _skills = {
     },
     "32041": {
         "_id": 32041,
-        "Name": "Bounce",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "탄력 점프",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5331,8 +5332,8 @@ var _skills = {
     },
     "32042": {
         "_id": 32042,
-        "Name": "Slam",
-        "Desc": "Deals <b>4</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "철퍼덕 낙하",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>4</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5345,8 +5346,8 @@ var _skills = {
     },
     "32043": {
         "_id": 32043,
-        "Name": "Elemental Sedimentation: Hydro",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Elemental Lifeform: Hydro</color>.",
+        "Name": "원소 침적 · 물",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>원소 생명체 · 물</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5358,8 +5359,8 @@ var _skills = {
     },
     "32051": {
         "_id": 32051,
-        "Name": "Spore Bullet",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "포자탄",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5372,8 +5373,8 @@ var _skills = {
     },
     "32052": {
         "_id": 32052,
-        "Name": "Raging Breath",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "맹렬한 숨결",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5385,8 +5386,8 @@ var _skills = {
     },
     "32053": {
         "_id": 32053,
-        "Name": "Charging Blast",
-        "Desc": "Deals <b>5</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "폭발적인 돌진",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>5</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5399,8 +5400,8 @@ var _skills = {
     },
     "32054": {
         "_id": 32054,
-        "Name": "State Change",
-        "Desc": "(Passive) When the battle begins, the character will be in the <color style='color:#FFFFFFFF'>Terrain Advantage</color> State.<br>After this character takes [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>, it will become <color style='color:#FFFFFFFF'>Scorched</color>.<br>After this character takes [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>, it will become <color style='color:#FFFFFFFF'>Activated</color>.",
+        "Name": "상태 전환",
+        "Desc": "[패시브] 전투 시작 시, 캐릭터가 <color style='color:#FFFFFFFF'>지상 우세</color>에 돌입한다.<br>캐릭터가 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 받은 후 <color style='color:#FFFFFFFF'>건조 상태</color>로 전환된다.<br>캐릭터가 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 받은 후 <color style='color:#FFFFFFFF'>활력 상태</color>로 전환된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5414,8 +5415,8 @@ var _skills = {
     },
     "32061": {
         "_id": 32061,
-        "Name": "Agile Thrust",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "민첩한 찌르기",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5428,8 +5429,8 @@ var _skills = {
     },
     "32062": {
         "_id": 32062,
-        "Name": "Blitz Strike",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "신속한 섬격",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5441,8 +5442,8 @@ var _skills = {
     },
     "32063": {
         "_id": 32063,
-        "Name": "Whirling Lashes",
-        "Desc": "This character performs \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Whirling Lashes: First Strike</color> and <color style='color:#FFFFFFFF'>Whirling Lashes: Fixed Pattern</color> separately.",
+        "Name": "환무 연참",
+        "Desc": "본 캐릭터가 <color style='color:#FFFFFFFF'>환무 연참 · 선공</color>과 <color style='color:#FFFFFFFF'>환무 연참 · 확정</color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5455,8 +5456,8 @@ var _skills = {
     },
     "32064": {
         "_id": 32064,
-        "Name": "Ominous Spirit Unleashed (Hydro)",
-        "Desc": "(Passive) <color style='color:#FFFFFFFF'>After this character takes DMG:</color> If this character has no more than 7 HP, they gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color> and <color style='color:#FFFFFFFF'>Spirit of Omen's Awakening: Hydro</color> is attached. (Once per Match)",
+        "Name": "악령 해방 · 물",
+        "Desc": "[패시브] <color style='color:#FFFFFFFF'>이 캐릭터가 피해를 받은 후: </color>이 캐릭터의 HP가 7pt 이하이면 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>를 1pt 획득하고 <color style='color:#FFFFFFFF'>악령 소생 · 물</color>을 부착한다. (대전당 1회 제한)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5468,8 +5469,8 @@ var _skills = {
     },
     "32065": {
         "_id": 32065,
-        "Name": "Whirling Lashes: First Strike",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>. Then, perform \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Whirling Lashes: Fixed Pattern</color>.",
+        "Name": "환무 연참 · 선공",
+        "Desc": "(1차례 행동 준비 필요)<br><b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>환무 연참 · 확정</color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5479,8 +5480,8 @@ var _skills = {
     },
     "32066": {
         "_id": 32066,
-        "Name": "Whirling Lashes: Fixed Pattern",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "환무 연참 · 확정",
+        "Desc": "(1차례 행동 준비 필요)<br><b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5490,8 +5491,8 @@ var _skills = {
     },
     "32071": {
         "_id": 32071,
-        "Name": "Ram",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "돌진",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5504,8 +5505,8 @@ var _skills = {
     },
     "32072": {
         "_id": 32072,
-        "Name": "Bubble Spray",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Gurgling Bubble</color>.",
+        "Name": "물방울 분사",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>2</b>pt 주고 대상 캐릭터에게 <color style='color:#FFFFFFFF'>꾸륵 물방울</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5519,8 +5520,8 @@ var _skills = {
     },
     "32073": {
         "_id": 32073,
-        "Name": "Jumping Slam",
-        "Desc": "Deals <b>5</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "도약 돌격",
+        "Desc": "<b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color></color></b>를 <b>5</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5533,8 +5534,8 @@ var _skills = {
     },
     "33011": {
         "_id": 33011,
-        "Name": "Flamewave",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "화염파",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5547,8 +5548,8 @@ var _skills = {
     },
     "33012": {
         "_id": 33012,
-        "Name": "Blazing Visage",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "작면의 마법",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5560,8 +5561,8 @@ var _skills = {
     },
     "33013": {
         "_id": 33013,
-        "Name": "Rite of the Molten Eruption",
-        "Desc": "Deals <b>7</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "화염 분출의 의식",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>7</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5574,8 +5575,8 @@ var _skills = {
     },
     "33014": {
         "_id": 33014,
-        "Name": "Pyro Shield",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Pyro Shield</color>.",
+        "Name": "불 원소 보호막",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>불 원소 보호막</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5587,7 +5588,7 @@ var _skills = {
     },
     "33015": {
         "_id": 33015,
-        "Name": "Broken Shield",
+        "Name": "보호막 파괴",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -5598,8 +5599,8 @@ var _skills = {
     },
     "33016": {
         "_id": 33016,
-        "Name": "Aegis of the Abyss",
-        "Desc": "(Passive) When the shield is broken, after this character uses a Skill: Restore the <color style='color:#FFFFFFFF'>Pyro Shield</color>.",
+        "Name": "심연 가호",
+        "Desc": "[패시브] 보호막이 파괴된 상태에서 스킬 사용 후: <color style='color:#FFFFFFFF'>불 원소 보호막</color>이 다시 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5612,7 +5613,7 @@ var _skills = {
     "33021": {
         "_id": 33021,
         "Name": "Du Plama",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5626,7 +5627,7 @@ var _skills = {
     "33022": {
         "_id": 33022,
         "Name": "Upa",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5639,7 +5640,7 @@ var _skills = {
     "33023": {
         "_id": 33023,
         "Name": "Oto Tiga",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>5</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5652,8 +5653,8 @@ var _skills = {
     },
     "33024": {
         "_id": 33024,
-        "Name": "Flowfire Edge",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Flowfire Edge</color>.",
+        "Name": "흐르는 화염의 검",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>흐르는 화염의 검</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5665,8 +5666,8 @@ var _skills = {
     },
     "33031": {
         "_id": 33031,
-        "Name": "Three Point Slash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "삼위 베기",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5679,8 +5680,8 @@ var _skills = {
     },
     "33032": {
         "_id": 33032,
-        "Name": "Leaping Strike",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "잉어 베기",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5692,8 +5693,8 @@ var _skills = {
     },
     "33033": {
         "_id": 33033,
-        "Name": "Iai: Sheathed",
-        "Desc": "<color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Iai: Fiery Wind</color>.",
+        "Name": "거합 · 납도",
+        "Desc": "본 캐릭터가 <color style='color:#FFFFFFFF'>거합 · 풍염</color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5706,8 +5707,8 @@ var _skills = {
     },
     "33034": {
         "_id": 33034,
-        "Name": "Kamuna Talisman: Pyro",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Kamuna Talisman: Pyro</color>.",
+        "Name": "카무나 소환 부적 · 염",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>카무나 소환 부적 · 염</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5719,8 +5720,8 @@ var _skills = {
     },
     "33035": {
         "_id": 33035,
-        "Name": "Final Frenzy",
-        "Desc": "When another of your Kairagi characters gets defeated, this character gains <color style='color:#FFFFFFFF'>Final Frenzy</color>.",
+        "Name": "광란의 궁지",
+        "Desc": "다른 아군 「해란귀」 캐릭터가 처치될 시, 본 캐릭터에게 <color style='color:#FFFFFFFF'>광란의 궁지</color>가 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5732,8 +5733,8 @@ var _skills = {
     },
     "33036": {
         "_id": 33036,
-        "Name": "Iai: Fiery Wind",
-        "Desc": "(Prepare for 2 turns)<br>Deals <b>6</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "거합 · 풍염",
+        "Desc": "(2차례 행동 준비 필요)<br><b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>6</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5743,8 +5744,8 @@ var _skills = {
     },
     "33037": {
         "_id": 33037,
-        "Name": "Iai: Breathing",
-        "Desc": "(Prepared for 1 Turn)<br>The next time this character acts, they will use the Skill <color style='color:#FFFFFFFF'>Iai: Fiery Wind</color>.",
+        "Name": "거합 · 토납",
+        "Desc": "(1차례 행동 준비 필요)<br>다음 행동 시 <color style='color:#FFFFFFFF'>거합 · 풍염</color> 스킬을 사용한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5754,8 +5755,8 @@ var _skills = {
     },
     "33041": {
         "_id": 33041,
-        "Name": "Torch Strike",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "횃불 공격",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5768,8 +5769,8 @@ var _skills = {
     },
     "33042": {
         "_id": 33042,
-        "Name": "Hit and Run",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "히트 앤드 런",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5781,8 +5782,8 @@ var _skills = {
     },
     "33043": {
         "_id": 33043,
-        "Name": "Scorching Combo",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "연속 횃불 휘두르기",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>4</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5795,8 +5796,8 @@ var _skills = {
     },
     "33051": {
         "_id": 33051,
-        "Name": "Combo Slash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "연속 베기",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5809,8 +5810,8 @@ var _skills = {
     },
     "33052": {
         "_id": 33052,
-        "Name": "Blaze Bloom",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, switches your character to the next character.",
+        "Name": "염초의 불꽃",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>3</b>pt 주고 아군이 다음 캐릭터로 교체된다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5822,8 +5823,8 @@ var _skills = {
     },
     "33061": {
         "_id": 33061,
-        "Name": "Single-Shot Bullet",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "단발 사격",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5836,8 +5837,8 @@ var _skills = {
     },
     "33062": {
         "_id": 33062,
-        "Name": "Burning Barrage",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "불꽃 연사",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5849,8 +5850,8 @@ var _skills = {
     },
     "33063": {
         "_id": 33063,
-        "Name": "Flaming Cannon",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Pyro Elemental Equipment</color>.",
+        "Name": "타오르는 화염 총",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>3</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>원소 무장 · 불</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5865,8 +5866,8 @@ var _skills = {
     },
     "33064": {
         "_id": 33064,
-        "Name": "Combat Resupply",
-        "Desc": "(Passive) When the battle begins, this character gains 2 Energy.",
+        "Name": "장비 보급",
+        "Desc": "[패시브] 전투 시작 시, 본 캐릭터가 원소 에너지를 2pt 획득한다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5876,7 +5877,7 @@ var _skills = {
     },
     "33065": {
         "_id": 33065,
-        "Name": "Shattered Gun",
+        "Name": "총기 파괴",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -5887,8 +5888,8 @@ var _skills = {
     },
     "33071": {
         "_id": 33071,
-        "Name": "Up-Close Pummelling",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "근거리 격투",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5901,8 +5902,8 @@ var _skills = {
     },
     "33072": {
         "_id": 33072,
-        "Name": "Multi-Smash",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b> and performs \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Tracking Truncheon</color>.",
+        "Name": "다중 둔격",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>1</b>pt 주고 <color style='color:#FFFFFFFF'>경봉 추격타</color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5914,8 +5915,8 @@ var _skills = {
     },
     "33073": {
         "_id": 33073,
-        "Name": "Sprinting Strike",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "돌진 타격",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>5</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5928,8 +5929,8 @@ var _skills = {
     },
     "33074": {
         "_id": 33074,
-        "Name": "Arkhe: Pneuma",
-        "Desc": "<color style='color:#FFFFFFFF'>After being damaged by characters with \"[b]3504[a]Arkhe: Ousia,\"</color> this character will become <color style='color:#FFFFFFFF'>Deactivated</color>, and <color style='color:#FFFFFFFF'>cannot use skills</color> until this Round ends.",
+        "Name": "에너지원 특징: 프뉴마",
+        "Desc": "<color style='color:#FFFFFFFF'>「[b]3504[a]아르케의 힘: 우시아」 성질을 가진 캐릭터에게 피해를 받은 후:</color> 이 캐릭터가 <color style='color:#FFFFFFFF'>「에너지 상실 형태」</color>로 전환되고 이번 턴이 종료되기 전까지 <color style='color:#FFFFFFFF'>스킬을 사용할 수 없다</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5939,8 +5940,8 @@ var _skills = {
     },
     "33075": {
         "_id": 33075,
-        "Name": "Tracking Truncheon",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "경봉 추격타",
+        "Desc": "(1차례 행동 준비 필요)<br><b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5950,8 +5951,8 @@ var _skills = {
     },
     "33081": {
         "_id": 33081,
-        "Name": "Short-Range Snap Fire",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "단거리 점사",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5964,8 +5965,8 @@ var _skills = {
     },
     "33082": {
         "_id": 33082,
-        "Name": "Spread Fire",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, deals <color style='color:#FFFFFFFF'>1 <color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby.",
+        "Name": "광역 사격",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>1</b>pt 주고 모든 적 대기 캐릭터에게 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>관통 피해</color>를 1pt</color> 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5977,8 +5978,8 @@ var _skills = {
     },
     "33083": {
         "_id": 33083,
-        "Name": "Combined Fire",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b> and then separately performs \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Combined Fire: Light Barrage</color> and <color style='color:#FFFFFFFF'>Combined Fire: Piercing Salvo</color>.",
+        "Name": "조합 사격",
+        "Desc": "<b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>조합 사격 · 연속 사격</color>과 <color style='color:#FFFFFFFF'>조합 사격 · 중탄 관통</color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5991,8 +5992,8 @@ var _skills = {
     },
     "33084": {
         "_id": 33084,
-        "Name": "Arkhe: Ousia",
-        "Desc": "<color style='color:#FFFFFFFF'>After being damaged by characters with \"[b]3505[a]Arkhe: Pneuma,\"</color> this character will become <color style='color:#FFFFFFFF'>Deactivated</color>, and <color style='color:#FFFFFFFF'>cannot use skills</color> until this Round ends.",
+        "Name": "에너지원 특징: 우시아",
+        "Desc": "<color style='color:#FFFFFFFF'>「[b]3505[a]아르케의 힘: 프뉴마」 성질을 가진 캐릭터에게 피해를 받은 후:</color> 이 캐릭터가 <color style='color:#FFFFFFFF'>「에너지 상실 형태」</color>로 전환되고 이번 턴이 종료되기 전까지 <color style='color:#FFFFFFFF'>스킬을 사용할 수 없다</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6002,8 +6003,8 @@ var _skills = {
     },
     "33085": {
         "_id": 33085,
-        "Name": "Combined Fire: Light Barrage",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. Then, perform \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Combined Fire: Piercing Salvo</color>.",
+        "Name": "조합 사격 · 연속 사격",
+        "Desc": "(1차례 행동 준비 필요)<br><b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>조합 사격 · 중탄 관통</color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6013,8 +6014,8 @@ var _skills = {
     },
     "33086": {
         "_id": 33086,
-        "Name": "Combined Fire: Piercing Salvo",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "조합 사격 · 중탄 관통",
+        "Desc": "(1차례 행동 준비 필요)<br><b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6024,8 +6025,8 @@ var _skills = {
     },
     "34011": {
         "_id": 34011,
-        "Name": "Three Point Slash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "삼위 베기",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6038,8 +6039,8 @@ var _skills = {
     },
     "34012": {
         "_id": 34012,
-        "Name": "Leaping Strike",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "잉어 베기",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6051,8 +6052,8 @@ var _skills = {
     },
     "34013": {
         "_id": 34013,
-        "Name": "Iai: Sheathed",
-        "Desc": "<color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Iai: Stormbreath</color>.",
+        "Name": "거합 · 납도",
+        "Desc": "본 캐릭터가 <color style='color:#FFFFFFFF'>거합 · 번개의 호흡</color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6065,8 +6066,8 @@ var _skills = {
     },
     "34014": {
         "_id": 34014,
-        "Name": "Kamuna Talisman: Electro",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Kamuna Talisman: Electro</color>.",
+        "Name": "카무나 소환 부적 · 황",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>카무나 소환 부적 · 황</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6078,8 +6079,8 @@ var _skills = {
     },
     "34015": {
         "_id": 34015,
-        "Name": "Final Frenzy",
-        "Desc": "When another of your Kairagi characters gets defeated, this character gains <color style='color:#FFFFFFFF'>Final Frenzy</color>.",
+        "Name": "광란의 궁지",
+        "Desc": "다른 아군 「해란귀」 캐릭터가 처치될 시, 본 캐릭터에게 <color style='color:#FFFFFFFF'>광란의 궁지</color>가 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6091,8 +6092,8 @@ var _skills = {
     },
     "34016": {
         "_id": 34016,
-        "Name": "Iai: Stormbreath",
-        "Desc": "(Prepare for 2 turns)<br>Deals <b>6</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "거합 · 번개의 호흡",
+        "Desc": "(2차례 행동 준비 필요)<br><b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>6</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6102,8 +6103,8 @@ var _skills = {
     },
     "34017": {
         "_id": 34017,
-        "Name": "Iai: Breathing",
-        "Desc": "(Prepared for 1 Turn)<br>The next time this character acts, they will use the Skill <color style='color:#FFFFFFFF'>Iai: Stormbreath</color>.",
+        "Name": "거합 · 토납",
+        "Desc": "(1차례 행동 준비 필요)<br>다음 행동 시 <color style='color:#FFFFFFFF'>거합 · 번개의 호흡</color> 스킬을 사용한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6113,8 +6114,8 @@ var _skills = {
     },
     "34021": {
         "_id": 34021,
-        "Name": "Thunder Arrow",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "번개 화살",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6127,8 +6128,8 @@ var _skills = {
     },
     "34022": {
         "_id": 34022,
-        "Name": "Multishot",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "다발 사격",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>4</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6141,8 +6142,8 @@ var _skills = {
     },
     "34023": {
         "_id": 34023,
-        "Name": "Hide",
-        "Desc": "(Passive) Switches to the next character after this character attacks.",
+        "Name": "숨기",
+        "Desc": "[패시브] 해당 캐릭터가 공격을 시전 후, 다음 캐릭터로 자동 교체된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6153,7 +6154,7 @@ var _skills = {
     "34031": {
         "_id": 34031,
         "Name": "Du Plama",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6167,7 +6168,7 @@ var _skills = {
     "34032": {
         "_id": 34032,
         "Name": "Upa",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6180,7 +6181,7 @@ var _skills = {
     "34033": {
         "_id": 34033,
         "Name": "Oto Tiga",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>5</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6193,8 +6194,8 @@ var _skills = {
     },
     "34034": {
         "_id": 34034,
-        "Name": "Ripple Electro Edge",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Ripple Electro Edge</color>.",
+        "Name": "흐르는 빛의 검",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>흐르는 빛의 검</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6206,8 +6207,8 @@ var _skills = {
     },
     "34041": {
         "_id": 34041,
-        "Name": "Thunderbolt",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "번개탄",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6220,8 +6221,8 @@ var _skills = {
     },
     "34042": {
         "_id": 34042,
-        "Name": "Lingering Light",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Tanglebolt Ring</color>.",
+        "Name": "전광의 마법",
+        "Desc": "<color style='color:#FFFFFFFF'>번개로 엮은 고리</color>를 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6235,8 +6236,8 @@ var _skills = {
     },
     "34043": {
         "_id": 34043,
-        "Name": "Rite of Rolling Thunder",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Tanglebolt Ring</color>.",
+        "Name": "군뢰 질주의 의식",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>4</b>pt 주고 <color style='color:#FFFFFFFF'>번개로 엮은 고리</color>를 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6251,8 +6252,8 @@ var _skills = {
     },
     "34044": {
         "_id": 34044,
-        "Name": "Electro Shield",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Electro Shield</color>.",
+        "Name": "번개 원소 보호막",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>번개 원소 보호막</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6264,7 +6265,7 @@ var _skills = {
     },
     "34045": {
         "_id": 34045,
-        "Name": "Broken Shield",
+        "Name": "보호막 파괴",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -6275,8 +6276,8 @@ var _skills = {
     },
     "34051": {
         "_id": 34051,
-        "Name": "Combo Slash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "연속 베기",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6289,8 +6290,8 @@ var _skills = {
     },
     "34052": {
         "_id": 34052,
-        "Name": "Mechanical Thunderbow",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "번개 석궁",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6302,8 +6303,8 @@ var _skills = {
     },
     "34061": {
         "_id": 34061,
-        "Name": "Bounce",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "탄력 점프",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6316,8 +6317,8 @@ var _skills = {
     },
     "34062": {
         "_id": 34062,
-        "Name": "Slam",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "철퍼덕 낙하",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>4</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6330,8 +6331,8 @@ var _skills = {
     },
     "34063": {
         "_id": 34063,
-        "Name": "Elemental Sedimentation: Electro",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Elemental Lifeform: Electro</color>.",
+        "Name": "원소 침적 · 번개",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>원소 생명체 · 번개</color>가 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6343,8 +6344,8 @@ var _skills = {
     },
     "34071": {
         "_id": 34071,
-        "Name": "Rapid Hammer Strike",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "신속한 해머 강타",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6357,8 +6358,8 @@ var _skills = {
     },
     "34072": {
         "_id": 34072,
-        "Name": "Raging Charge",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "맹렬한 돌진",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6370,8 +6371,8 @@ var _skills = {
     },
     "34073": {
         "_id": 34073,
-        "Name": "Thunderblast Hammer",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Electro Elemental Equipment</color>.",
+        "Name": "천둥의 해머",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>3</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>원소 무장 · 번개</color>가 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6386,8 +6387,8 @@ var _skills = {
     },
     "34074": {
         "_id": 34074,
-        "Name": "Combat Resupply",
-        "Desc": "(Passive) When the battle begins, this character gains 2 Energy.",
+        "Name": "장비 보급",
+        "Desc": "[패시브] 전투 시작 시, 본 캐릭터가 원소 에너지를 2pt 획득한다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6397,7 +6398,7 @@ var _skills = {
     },
     "34075": {
         "_id": 34075,
-        "Name": "Shattered Gun",
+        "Name": "총기 파괴",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -6408,8 +6409,8 @@ var _skills = {
     },
     "34081": {
         "_id": 34081,
-        "Name": "Rapid Melee",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "빠른 근접 공격",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6422,8 +6423,8 @@ var _skills = {
     },
     "34082": {
         "_id": 34082,
-        "Name": "Shield Riposte",
-        "Desc": "This character gains a <color style='color:#FFFFFFFF'>Shield Block</color>. <color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Shield Slice</color>.",
+        "Name": "방패 반격",
+        "Desc": "본 캐릭터에게 <color style='color:#FFFFFFFF'>방패 막기</color>를 부착하고 <color style='color:#FFFFFFFF'>방패 절단</color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6437,8 +6438,8 @@ var _skills = {
     },
     "34083": {
         "_id": 34083,
-        "Name": "Shield Sweep",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, deals 2 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby.",
+        "Name": "방패 휘두르기",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>2</b>pt 주고 모든 적 대기 캐릭터에게 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>관통 피해</color></color>를 2pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6451,8 +6452,8 @@ var _skills = {
     },
     "34084": {
         "_id": 34084,
-        "Name": "Arkhe: Ousia",
-        "Desc": "<color style='color:#FFFFFFFF'>After being damaged by characters with \"[b]3505[a]Arkhe: Pneuma,\"</color> this character will become <color style='color:#FFFFFFFF'>Deactivated</color>, and <color style='color:#FFFFFFFF'>cannot use skills</color> until this Round ends.",
+        "Name": "에너지원 특징: 우시아",
+        "Desc": "<color style='color:#FFFFFFFF'>「[b]3505[a]아르케의 힘: 프뉴마」 성질을 가진 캐릭터에게 피해를 받은 후:</color> 이 캐릭터가 <color style='color:#FFFFFFFF'>「에너지 상실 형태」</color>로 전환되고 이번 턴이 종료되기 전까지 <color style='color:#FFFFFFFF'>스킬을 사용할 수 없다</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6462,8 +6463,8 @@ var _skills = {
     },
     "34085": {
         "_id": 34085,
-        "Name": "Shield Slice",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "방패 절단",
+        "Desc": "(1차례 행동 준비 필요)<br><b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6473,8 +6474,8 @@ var _skills = {
     },
     "34091": {
         "_id": 34091,
-        "Name": "Cankering Claws",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Corrosion</color> on the opponent's side of the field.",
+        "Name": "침식 발톱",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>1</b>pt 주고 적 필드에 <color style='color:#FFFFFFFF'>침식</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6489,8 +6490,8 @@ var _skills = {
     },
     "34092": {
         "_id": 34092,
-        "Name": "Corrosive Electro Crystal",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Corrosion</color> on the opponent's side of the field.",
+        "Name": "침식 번개 결정",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>2</b>pt 주고 적 필드에 <color style='color:#FFFFFFFF'>침식</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6504,8 +6505,8 @@ var _skills = {
     },
     "34093": {
         "_id": 34093,
-        "Name": "Devouring Bite",
-        "Desc": "Deals <b>6</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Corrosion</color> on the opponent's side of the field.",
+        "Name": "마력 물어뜯기",
+        "Desc": "<b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color></color></b>를 <b>6</b>pt 주고 적 필드에 <color style='color:#FFFFFFFF'>침식</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6520,8 +6521,8 @@ var _skills = {
     },
     "34094": {
         "_id": 34094,
-        "Name": "Elemental Devourer",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Elemental Devourer</color>.",
+        "Name": "마력의 갈증",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>마력의 갈증</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6533,8 +6534,8 @@ var _skills = {
     },
     "35011": {
         "_id": 35011,
-        "Name": "Staff Strike",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "지팡이 공격",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6546,8 +6547,8 @@ var _skills = {
     },
     "35012": {
         "_id": 35012,
-        "Name": "Prayer to the Winds",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Whirlwind</color>.",
+        "Name": "기풍술",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>돌풍</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6561,8 +6562,8 @@ var _skills = {
     },
     "35013": {
         "_id": 35013,
-        "Name": "Galeforce Shock",
-        "Desc": "Deals <b>5</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>.",
+        "Name": "강풍 충격",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>5</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6575,8 +6576,8 @@ var _skills = {
     },
     "35021": {
         "_id": 35021,
-        "Name": "Hurricane Jab",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "질풍 잽",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6589,8 +6590,8 @@ var _skills = {
     },
     "35022": {
         "_id": 35022,
-        "Name": "Gathering the Winds",
-        "Desc": "This character gains a <color style='color:#FFFFFFFF'>Stormwind Barrier</color>. <color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Avenging Squall</color>.",
+        "Name": "윈드 차지",
+        "Desc": "본 캐릭터에게 <color style='color:#FFFFFFFF'>선풍의 장벽</color>을 부착하고 <color style='color:#FFFFFFFF'>역풍의 반격</color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6604,8 +6605,8 @@ var _skills = {
     },
     "35023": {
         "_id": 35023,
-        "Name": "Galeforce Agitation",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>. All of your other Fatui characters gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.",
+        "Name": "바람의 격려",
+        "Desc": "<b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color></color></b>를 <b>3</b>pt 주고 다른 아군 [우인단] 캐릭터가 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color> 1pt를 획득한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6618,7 +6619,7 @@ var _skills = {
     },
     "35024": {
         "_id": 35024,
-        "Name": "Stormwind Barrier",
+        "Name": "선풍의 장벽",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -6629,8 +6630,8 @@ var _skills = {
     },
     "35025": {
         "_id": 35025,
-        "Name": "Avenging Squall",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "역풍의 반격",
+        "Desc": "(1차례 행동 준비 필요)<br><b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6641,7 +6642,7 @@ var _skills = {
     "36011": {
         "_id": 36011,
         "Name": "Plata Plama",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6655,7 +6656,7 @@ var _skills = {
     "36012": {
         "_id": 36012,
         "Name": "Da Plama",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6668,7 +6669,7 @@ var _skills = {
     "36013": {
         "_id": 36013,
         "Name": "Aba Movo",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>5</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6681,8 +6682,8 @@ var _skills = {
     },
     "36014": {
         "_id": 36014,
-        "Name": "Craggy Greatshield",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Craggy Greatshield</color>.",
+        "Name": "바위 실드",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>바위 실드</color>가 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6694,8 +6695,8 @@ var _skills = {
     },
     "36021": {
         "_id": 36021,
-        "Name": "Corrosive Claws",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Corrosion</color> at the opponent's play area.",
+        "Name": "용식의 발톱",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>1</b>pt 주고 적의 필드에 <color style='color:#FFFFFFFF'>침식</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6710,8 +6711,8 @@ var _skills = {
     },
     "36022": {
         "_id": 36022,
-        "Name": "Crystal Cracker",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Corrosion</color> at the opponent's play area.",
+        "Name": "결정 분해",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>2</b>pt 주고 적의 필드에 <color style='color:#FFFFFFFF'>침식</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6725,8 +6726,8 @@ var _skills = {
     },
     "36023": {
         "_id": 36023,
-        "Name": "Pursuer's Mark",
-        "Desc": "Deals <b>6</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Corrosion</color> at the opponent's play area.",
+        "Name": "추적의 표시",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>6</b>pt 주고 적의 필드에 <color style='color:#FFFFFFFF'>침식</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6741,8 +6742,8 @@ var _skills = {
     },
     "36024": {
         "_id": 36024,
-        "Name": "Elemental Devourer",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Elemental Devourer</color>.",
+        "Name": "마력의 갈증",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>마력의 갈증</color>이 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6754,8 +6755,8 @@ var _skills = {
     },
     "36031": {
         "_id": 36031,
-        "Name": "Staff Strike",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "지팡이 공격",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6767,8 +6768,8 @@ var _skills = {
     },
     "36032": {
         "_id": 36032,
-        "Name": "Summoning of Stones",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Rocky Pedestal</color>.",
+        "Name": "바위 소환 주문",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>바위 받침대</color>를 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6782,8 +6783,8 @@ var _skills = {
     },
     "36033": {
         "_id": 36033,
-        "Name": "Shockwave Smash",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "바위 분쇄 충격파",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>5</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6796,8 +6797,8 @@ var _skills = {
     },
     "36041": {
         "_id": 36041,
-        "Name": "Rock Projectile",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "바위 쐐기",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6810,8 +6811,8 @@ var _skills = {
     },
     "36042": {
         "_id": 36042,
-        "Name": "Geocrystal Beam",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "바위 결정 집속탄",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6823,8 +6824,8 @@ var _skills = {
     },
     "36043": {
         "_id": 36043,
-        "Name": "Staff of Geo",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Geo Elemental Equipment</color>, creating 1 <color style='color:#FFFFFFFF'>Crystal Shield</color>.",
+        "Name": "바위 지팡이",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>3</b>pt 주고 본 캐릭터에게 <color style='color:#FFFFFFFF'>원소 무장 · 바위</color>를 부착하며 <color style='color:#FFFFFFFF'>바위 결정 보호막</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6840,8 +6841,8 @@ var _skills = {
     },
     "36044": {
         "_id": 36044,
-        "Name": "Combat Resupply",
-        "Desc": "(Passive) When the battle begins, this character gains 2 Energy.",
+        "Name": "장비 보급",
+        "Desc": "[패시브] 전투 시작 시, 본 캐릭터가 원소 에너지를 2pt 획득한다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6851,8 +6852,8 @@ var _skills = {
     },
     "36051": {
         "_id": 36051,
-        "Name": "Spore Bullet",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "포자탄",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6865,8 +6866,8 @@ var _skills = {
     },
     "36052": {
         "_id": 36052,
-        "Name": "Raging Breath",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "맹렬한 숨결",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6878,8 +6879,8 @@ var _skills = {
     },
     "36053": {
         "_id": 36053,
-        "Name": "Charging Blast",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "폭발적인 돌진",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>5</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6892,8 +6893,8 @@ var _skills = {
     },
     "36054": {
         "_id": 36054,
-        "Name": "State Change",
-        "Desc": "(Passive) When the battle begins, the character will be in the <color style='color:#FFFFFFFF'>Terrain Advantage</color> State.<br>After this character takes [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>, it will become <color style='color:#FFFFFFFF'>Scorched</color>.<br>After this character takes [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>, it will become <color style='color:#FFFFFFFF'>Activated</color>.",
+        "Name": "상태 전환",
+        "Desc": "[패시브] 전투 시작 시, 캐릭터가 <color style='color:#FFFFFFFF'>지상 우세</color>에 돌입한다.<br>캐릭터가 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 받은 후 <color style='color:#FFFFFFFF'>건조 상태</color>로 전환된다.<br>캐릭터가 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 받은 후 <color style='color:#FFFFFFFF'>활력 상태</color>로 전환된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6907,8 +6908,8 @@ var _skills = {
     },
     "36061": {
         "_id": 36061,
-        "Name": "Triple Geosmash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "삼중암격",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6921,8 +6922,8 @@ var _skills = {
     },
     "36062": {
         "_id": 36062,
-        "Name": "Splitrock Slam",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "낙석 공격",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6934,8 +6935,8 @@ var _skills = {
     },
     "36063": {
         "_id": 36063,
-        "Name": "Ominous Spirit Unleashed (Geo)",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Spirit of Omen: Stone Drake</color>.",
+        "Name": "악령 해방 · 바위",
+        "Desc": "<b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color></color></b>를 <b>3</b>pt 주고 <color style='color:#FFFFFFFF'>악령 · 마의 바위 도마뱀</color>을 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6950,8 +6951,8 @@ var _skills = {
     },
     "36064": {
         "_id": 36064,
-        "Name": "Spirit of Omen's Power",
-        "Desc": "(Passive) If a character has no more than 7 HP after taking DMG, they gain 1 Energy. (Once per Match)",
+        "Name": "악령의 힘",
+        "Desc": "[패시브] 캐릭터가 피해를 받은 후 만약 HP가 7pt 이하이면 원소 에너지를 1pt 획득한다. (대전당 1회 제한)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6961,8 +6962,8 @@ var _skills = {
     },
     "36065": {
         "_id": 36065,
-        "Name": "Stone Drake: Guardian Stance",
-        "Desc": "(Passive) If there are summoned entities each Round, refresh shield",
+        "Name": "마의 바위 도마뱀 · 방어 태세",
+        "Desc": "[패시브] 턴마다 소환물이 있다면 보호막이 갱신된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6972,8 +6973,8 @@ var _skills = {
     },
     "37011": {
         "_id": 37011,
-        "Name": "Spore Bullet",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "포자탄",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6986,8 +6987,8 @@ var _skills = {
     },
     "37012": {
         "_id": 37012,
-        "Name": "Rolling Spray",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "회전 분사",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6999,8 +7000,8 @@ var _skills = {
     },
     "37013": {
         "_id": 37013,
-        "Name": "Divebomb",
-        "Desc": "Deals <b>5</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "급강하 폭격",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>5</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -7013,8 +7014,8 @@ var _skills = {
     },
     "37014": {
         "_id": 37014,
-        "Name": "State Change",
-        "Desc": "(Passive) When the battle begins, the character will be in a <color style='color:#FFFFFFFF'>Aerial Superiority</color>.<br>After this character takes [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>, it will become <color style='color:#FFFFFFFF'>Scorched</color>.<br>After this character takes [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>, it will become <color style='color:#FFFFFFFF'>Activated</color>.",
+        "Name": "상태 전환",
+        "Desc": "[패시브] 전투 시작 시, 캐릭터가 <color style='color:#FFFFFFFF'>공중 우세</color>에 돌입한다.<br>캐릭터가 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 받은 후 <color style='color:#FFFFFFFF'>건조 상태</color>로 전환된다.<br>캐릭터가 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 받은 후 <color style='color:#FFFFFFFF'>활력 상태</color>로 전환된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -7029,7 +7030,7 @@ var _skills = {
     "37021": {
         "_id": 37021,
         "Name": "Plata Plama",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>2</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -7043,7 +7044,7 @@ var _skills = {
     "37022": {
         "_id": 37022,
         "Name": "Da Plama",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -7056,7 +7057,7 @@ var _skills = {
     "37023": {
         "_id": 37023,
         "Name": "Aba Movo",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>5</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -7069,8 +7070,8 @@ var _skills = {
     },
     "37024": {
         "_id": 37024,
-        "Name": "Crudewood Greatshield",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Crudewood Greatshield</color>.",
+        "Name": "원목 방패",
+        "Desc": "[패시브] 전투 시작 시, 시작부터 <color style='color:#FFFFFFFF'>원목 방패</color>가 부착된다.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -7082,7 +7083,7 @@ var _skills = {
     },
     "37025": {
         "_id": 37025,
-        "Name": "Shattered Shield",
+        "Name": "방패 파괴",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -7093,8 +7094,8 @@ var _skills = {
     },
     "37031": {
         "_id": 37031,
-        "Name": "Staff Strike",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "지팡이 공격",
+        "Desc": "<b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -7106,8 +7107,8 @@ var _skills = {
     },
     "37032": {
         "_id": 37032,
-        "Name": "Venomous Vines",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Vines</color> at the opponent's play area.",
+        "Name": "무성한 독 넝쿨",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>1</b>pt 주고 상대방 필드에 <color style='color:#FFFFFFFF'>넝쿨</color>을 생성한다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -7121,8 +7122,8 @@ var _skills = {
     },
     "37033": {
         "_id": 37033,
-        "Name": "Dendro Field",
-        "Desc": "Deals <b>5</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "풀의 영역",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>5</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -7135,8 +7136,8 @@ var _skills = {
     },
     "37041": {
         "_id": 37041,
-        "Name": "Precision Shot",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "정밀 사격",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>1</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -7149,8 +7150,8 @@ var _skills = {
     },
     "37042": {
         "_id": 37042,
-        "Name": "Wildgrass Ball",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "잡초 탄두",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>3</b>pt 준다.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -7162,8 +7163,8 @@ var _skills = {
     },
     "37043": {
         "_id": 37043,
-        "Name": "Launch Grenade",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Delayed Fuse Munitions</color>.",
+        "Name": "척탄 폭격",
+        "Desc": "<b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color></color></b>를 <b>2</b>pt 주고 <color style='color:#FFFFFFFF'>지연 기폭 탄두</color>를 소환한다.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -7178,8 +7179,8 @@ var _skills = {
     },
     "37044": {
         "_id": 37044,
-        "Name": "Arkhe: Pneuma",
-        "Desc": "<color style='color:#FFFFFFFF'>After being damaged by characters with \"[b]3504[a]Arkhe: Ousia,\"</color> this character will become <color style='color:#FFFFFFFF'>Deactivated</color>, and <color style='color:#FFFFFFFF'>cannot use skills</color> until this Round ends.",
+        "Name": "에너지원 특징: 프뉴마",
+        "Desc": "<color style='color:#FFFFFFFF'>「[b]3504[a]아르케의 힘: 우시아」 성질을 가진 캐릭터에게 피해를 받은 후:</color> 이 캐릭터가 <color style='color:#FFFFFFFF'>「에너지 상실 형태」</color>로 전환되고 이번 턴이 종료되기 전까지 <color style='color:#FFFFFFFF'>스킬을 사용할 수 없다</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -7192,8 +7193,8 @@ var _skills = {
 var _ref = {
     "111": {
         "_id": 111,
-        "Name": "Crystallize",
-        "Desc": "Grants <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point</color> to your active character. (Can stack. Max 2 points.)",
+        "Name": "결정",
+        "Desc": "아군 출전 캐릭터에게 <color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 1pt</color> 제공한다. (중첩 가능, 최대 2pt)",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7201,8 +7202,8 @@ var _ref = {
     },
     "115": {
         "_id": 115,
-        "Name": "Burning Flame",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 2 stacks.)",
+        "Name": "불타는 화염",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color> (중첩 가능, 최대 중첩수: 2회)",
         "Tag": [
             "GCG_TAG_DENDRO_PRODUCE"
         ],
@@ -7210,8 +7211,8 @@ var _ref = {
     },
     "116": {
         "_id": 116,
-        "Name": "Dendro Core",
-        "Desc": "<color style='color:#FFFFFFFF'>When you deal [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> or [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color> to an opposing active character, </color>DMG dealt +2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "풀 원핵",
+        "Desc": "<color style='color:#FFFFFFFF'>아군이 상대 출전 캐릭터에게 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color> 또는 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 줄 시,</color> 피해+2pt<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>",
         "Tag": [
             "GCG_TAG_DENDRO_PRODUCE"
         ],
@@ -7219,8 +7220,8 @@ var _ref = {
     },
     "117": {
         "_id": 117,
-        "Name": "Catalyzing Field",
-        "Desc": "<color style='color:#FFFFFFFF'>When you deal [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color> or [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color> to an opposing active character, </color>DMG dealt +1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "격화 영역",
+        "Desc": "<color style='color:#FFFFFFFF'>아군이 상대 출전 캐릭터에게 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color> 또는 [b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>를 줄 시</color> 피해+1pt<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>：2</color>",
         "Tag": [
             "GCG_TAG_DENDRO_PRODUCE"
         ],
@@ -7228,22 +7229,22 @@ var _ref = {
     },
     "111011": {
         "_id": 111011,
-        "Name": "Sacred Cryo Pearl",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>, deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to all opposing characters on standby.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "빙령주",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>를 1pt 주고 적의 모든 대기 캐릭터에게 <color style='color:#FFFFFFFF'>관통 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111012": {
         "_id": 111012,
-        "Name": "Ice Lotus",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active character receives DMG: </color>Decreases DMG taken by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "얼음 연꽃",
+        "Desc": "<color style='color:#FFFFFFFF'>아군 출전 캐릭터가 피해를 받을 시:</color> 피해를 1pt 상쇄한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111021": {
         "_id": 111021,
-        "Name": "Cat-Claw Shield",
-        "Desc": "Grants <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point</color> for your active character.",
+        "Name": "꽁꽁젤리 보호막",
+        "Desc": "아군 출전 캐릭터에게 <color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 1pt</color> 제공한다.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7251,85 +7252,85 @@ var _ref = {
     },
     "111023": {
         "_id": 111023,
-        "Name": "Drunken Mist",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>, heal your active character for 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "술 안개 영역",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>를 1pt 주고 아군 출전 캐릭터의 HP를 2pt 치유한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111031": {
         "_id": 111031,
-        "Name": "Icicle",
-        "Desc": "<color style='color:#FFFFFFFF'>After you switch characters:</color> Deal 2 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "얼음 기둥",
+        "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터 교체 후:</color> [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>를 2pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "111041": {
         "_id": 111041,
-        "Name": "Chonghua Frost Field",
-        "Desc": "Your Sword, Claymore, and Polearm-wielding characters' [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> is converted to [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "중첩의 서리 영역",
+        "Desc": "아군의 한손검, 양손검 혹은 장병기 캐릭터가 주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>로 전환된다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111051": {
         "_id": 111051,
-        "Name": "Frostflake Seki no To",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "서리의 관문",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>를 2pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111052": {
         "_id": 111052,
-        "Name": "Cryo Elemental Infusion",
-        "Desc": "The character to which this is attached has their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br>(Lasts until the Round ends)",
+        "Name": "얼음 원소 부여",
+        "Desc": "부착 캐릭터가 주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>로 전환된다.<br>(턴 종료까지 지속)",
         "Tag": [],
         "Cost": {}
     },
     "111061": {
         "_id": 111061,
-        "Name": "Grimheart",
-        "Desc": "<color style='color:#FFFFFFFF'>After the character to which this is attached uses Icetide Vortex:</color> Remove this status, DMG +3 for this instance.",
+        "Name": "냉혹한 마음",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 얼음 파도의 와류 사용 시:</color> 해당 상태를 제거하고 이번에 주는 피해+3pt",
         "Tag": [],
         "Cost": {}
     },
     "111062": {
         "_id": 111062,
-        "Name": "Lightfall Sword",
-        "Desc": "<color style='color:#FFFFFFFF'>When Eula uses a Normal Attack or Elemental Skill</color>, this card will accumulate 2 Zeal stacks, but Eula will not gain Energy.<br><color style='color:#FFFFFFFF'>End Phase:</color> Discard this card and deal 3 [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color>. Each Zeal stack adds 1 DMG to this damage instance.<br>(Effects on this card's <color style='color:#FFFFFFFF'>Usage(s)</color> will apply to <color style='color:#FFFFFFFF'>Zeal</color>.)",
+        "Name": "빛의 검",
+        "Desc": "<color style='color:#FFFFFFFF'>유라가 「일반 공격」 또는 「원소전투 스킬」 사용 시:</color> 해당 카드에 「에너지 스택」을 2pt 누적한다. 단, 유라는 원소 에너지를 획득하지 않는다.<br><color style='color:#FFFFFFFF'>종료 단계:</color> 이 카드를 버리고 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>를 3pt 준다. 「에너지 스택」 1pt마다 이번 피해+1pt<br>(해당 카드 「<color style='color:#FFFFFFFF'>사용 가능 횟수</color>」에 영향을 주는 효과는 「<color style='color:#FFFFFFFF'>에너지 스택</color>」에 반영됨)",
         "Tag": [],
         "Cost": {}
     },
     "111071": {
         "_id": 111071,
-        "Name": "Icy Quill",
-        "Desc": "Your character deals 1 increased [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> (Includes the DMG triggered by <color style='color:#99FFFFFF'>[b]2101[a]Cryo-infused</color> Swirl reactions)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "얼음의 깃",
+        "Desc": "아군 캐릭터가 주는 [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>+1pt(캐릭터가 일으킨 <color style='color:#99FFFFFF'>[b]2101[a]얼음 원소</color> 확산 피해 포함)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111073": {
         "_id": 111073,
-        "Name": "Talisman Spirit",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>When this Summon is on the field:</color> Opposing character(s) take +1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> and [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color>.",
+        "Name": "녹령",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color><br><color style='color:#FFFFFFFF'>해당 소환물이 필드에 있을 시:</color> 상대 캐릭터가 받는 [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color> 및 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>+1pt",
         "Tag": [],
         "Cost": {}
     },
     "111081": {
         "_id": 111081,
-        "Name": "Herald of Frost",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>When this Summon is on the field, after Qiqi uses Normal Attack: </color>Heals your character that took the most DMG for 1 HP.",
+        "Name": "한병의 귀차",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color><br><color style='color:#FFFFFFFF'>해당 소환물이 필드에 있을 때 치치가 「일반 공격」 사용 후:</color> 피해를 가장 많이 받은 아군 캐릭터의 HP를 1pt 치유한다.",
         "Tag": [],
         "Cost": {}
     },
     "111082": {
         "_id": 111082,
-        "Name": "Fortune-Preserving Talisman",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Skill: </color>If that character does not have full HP, heal that character for 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "도액 부적",
+        "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 스킬 사용 후:</color> 해당 캐릭터의 HP가 최대치가 아니면 해당 캐릭터의 HP를 2pt 치유한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "111091": {
         "_id": 111091,
-        "Name": "Curtain of Slumber Shield",
-        "Desc": "Grants <color style='color:#FFFFFFFF'> 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points</color> to defend your active character.",
+        "Name": "평안한 잠의 장막",
+        "Desc": "<color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color></color>을 2pt 제공해 아군 출전 캐릭터를 보호한다.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7337,120 +7338,120 @@ var _ref = {
     },
     "111092": {
         "_id": 111092,
-        "Name": "Shooting Star",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Skill:</color> Accumulate 1 <color style='color:#FFFFFFFF'>Night Star</color>. If you have at least 4 <color style='color:#FFFFFFFF'>Night Stars</color>, consume 4 <color style='color:#FFFFFFFF'>Night Stars</color> and deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>. (The Skill that causes this Combat Status will also trigger this effect)<br><color style='color:#FFFFFFFF'>When causing this Combat Status again:</color> Accumulate 2 <color style='color:#FFFFFFFF'>Night Stars</color>.",
+        "Name": "유성",
+        "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 스킬 사용 후</color>: <color style='color:#FFFFFFFF'>「저녁별」</color>을 1개 누적한다. <color style='color:#FFFFFFFF'>「저녁별」</color>이 4개 이상 모인 경우, <color style='color:#FFFFFFFF'>「저녁별」</color>을 4개 소모해 [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>를 1pt 준다. (해당 출전 상태를 생성하는 스킬도 이 효과를 발동한다)<br><color style='color:#FFFFFFFF'>해당 출전 상태 중복 생성 시</color>: <color style='color:#FFFFFFFF'>「저녁별」</color>을 2개 누적한다.",
         "Tag": [],
         "Cost": {}
     },
     "111093": {
         "_id": 111093,
-        "Name": "Celestial Dreamsphere",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>. If <color style='color:#FFFFFFFF'>Shooting Star</color> is in play, it will let it gain 1 <color style='color:#FFFFFFFF'>Night Star</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "꿈을 수놓는 천구",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>를 1pt 준다. <color style='color:#FFFFFFFF'>유성</color>이 필드에 있을 시, 해당 카드에 <color style='color:#FFFFFFFF'>「저녁별」</color>을 1개 누적한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111101": {
         "_id": 111101,
-        "Name": "Snappy Silhouette",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> to attached character(s). If you have only 1 <color style='color:#FFFFFFFF'>Usage(s)</color> left, this instance of DMG +1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "순간 실루엣",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> 부착 캐릭터에게 [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>를 1pt 준다. 만약 남아있는 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>가 1이고, 부착 캐릭터에게 [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소가 부착</color>되어 있는 경우, 이번 피해+1pt<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111102": {
         "_id": 111102,
-        "Name": "Newsflash Field",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>, heal your active character for 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "취재 현장",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>를 1pt 주고 아군 출전 캐릭터의 HP를 1pt 치유한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112011": {
         "_id": 112011,
-        "Name": "Melody Loop",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heal all your characters for 1 HP and your active character gains <color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "노래의 고리",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> 모든 아군 캐릭터의 HP를 1pt 치유하고 아군 출전 캐릭터에게 <color style='color:#80C0FFFF'>[b]2102[a]물 원소 부착</color> 효과를 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112021": {
         "_id": 112021,
-        "Name": "Rain Sword",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active character receives at least 3 DMG: </color>Decrease DMG taken by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "우렴검",
+        "Desc": "<color style='color:#FFFFFFFF'>아군 출전 캐릭터가 3pt 이상의 피해를 받을 시:</color> 피해를 1pt 상쇄한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112022": {
         "_id": 112022,
-        "Name": "Rainbow Bladework",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Normal Attack:</color> Deal 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "홍검세",
+        "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 일반 공격 후:</color> [b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "112031": {
         "_id": 112031,
-        "Name": "Reflection",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active character receives DMG: </color>Decrease DMG taken by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>. When the Usage is depleted, this card will not be discarded.<br><color style='color:#FFFFFFFF'>End Phase:</color> Discard this card, deal 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.",
+        "Name": "허영",
+        "Desc": "<color style='color:#FFFFFFFF'>아군 출전 캐릭터가 피해를 받을 시:</color> 피해를 1pt 상쇄한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>, 사용 횟수를 소진해도 해당 카드를 버리지 않는다.<br><color style='color:#FFFFFFFF'>종료 단계:</color> 해당 카드를 버리고 [b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>를 1pt 준다.",
         "Tag": [],
         "Cost": {}
     },
     "112032": {
         "_id": 112032,
-        "Name": "Illusory Bubble",
-        "Desc": "<color style='color:#FFFFFFFF'>When dealing Skill DMG:</color> Remove this status and double the DMG dealt for this instance.",
+        "Name": "포영",
+        "Desc": "<color style='color:#FFFFFFFF'>아군이 스킬 피해를 줄 시:</color> 해당 상태가 제거되고 이번에 주는 피해가 2배가 된다.",
         "Tag": [],
         "Cost": {}
     },
     "112041": {
         "_id": 112041,
-        "Name": "Ranged Stance",
-        "Desc": "<color style='color:#FFFFFFFF'>After the character to which this is attached uses <color style='color:#FFFFFFFF'>Charged Attack</color>:</color> Apply <color style='color:#FFFFFFFF'>Riptide</color> to target character.",
+        "Name": "원거리 상태",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 <color style='color:#FFFFFFFF'>강공격</color> 발동 후:</color> 대상 캐릭터에게 <color style='color:#FFFFFFFF'>단류</color>를 부착한다.",
         "Tag": [],
         "Cost": {}
     },
     "112042": {
         "_id": 112042,
-        "Name": "Melee Stance",
-        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt by character is converted to [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses <color style='color:#FFFFFFFF'>Charged Attack</color>:</color> Apply <color style='color:#FFFFFFFF'>Riptide</color> to target character.<br>Character deals +1 DMG to target characters with <color style='color:#FFFFFFFF'>Riptide</color> attached.<br><color style='color:#FFFFFFFF'>After Skills are used against characters affected by <color style='color:#FFFFFFFF'>Riptide</color>:</color> Deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to the next opposing off-field character. (Twice per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "근접 상태",
+        "Desc": "캐릭터가 발동한 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>로 전환된다.<br><color style='color:#FFFFFFFF'>캐릭터가 <color style='color:#FFFFFFFF'>강공격</color> 발동 후:</color> 대상 캐릭터에게 <color style='color:#FFFFFFFF'>단류</color>를 부착한다.<br><color style='color:#FFFFFFFF'>단류</color>가 부착된 캐릭터에게 주는 피해가 1pt 증가한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>단류</color>가 부착된 캐릭터에게 스킬 사용 후:</color> 상대의 다음 대기 캐릭터에게 <color style='color:#FFFFFFFF'>관통 피해</color>를 1pt 준다. (턴당 최대 2회)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112043": {
         "_id": 112043,
-        "Name": "Riptide",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached is defeated:</color> Apply Riptide to active character.<br>(When <color style='color:#FFFFFFFF'>Tartaglia</color> is in <color style='color:#FFFFFFFF'>Melee Stance</color>, he will deal additional DMG when attacking the character to which this is attached.)",
+        "Name": "단류",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 처치된 후:</color> 소속 진영의 출전 캐릭터에게 「단류」를 부착한다.<br>(<color style='color:#FFFFFFFF'>「근접 상태」</color>의 <color style='color:#FFFFFFFF'>타르탈리아</color>가 부착 캐릭터를 공격하면 추가 피해를 준다)",
         "Tag": [],
         "Cost": {}
     },
     "112051": {
         "_id": 112051,
-        "Name": "Bake-Kurage",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>, heal your active character for 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "환영 해파리",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>를 1pt 주고 아군 출전 캐릭터의 HP를 1pt 치유한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112052": {
         "_id": 112052,
-        "Name": "Ceremonial Garment",
-        "Desc": "The character to which this is attached has their <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 DMG.<br><color style='color:#FFFFFFFF'>After the character to which this is attached uses a Normal Attack:</color> Heal 1 HP for all your characters.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "의식의 날개옷",
+        "Desc": "부착 캐릭터가 <color style='color:#FFFFFFFF'>일반 공격</color>으로 주는 피해+1pt<br><color style='color:#FFFFFFFF'>부착 캐릭터가 일반 공격 후:</color> 모든 아군 캐릭터의 HP를 1pt 치유한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112061": {
         "_id": 112061,
-        "Name": "Takimeguri Kanka",
-        "Desc": "The character to which this is attached has their <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 DMG, and their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "선회하는 거울꽃",
+        "Desc": "부착 캐릭터의 <color style='color:#FFFFFFFF'>일반 공격</color>으로 주는 피해+1pt, [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>로 전환된다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "112062": {
         "_id": 112062,
-        "Name": "Garden of Purity",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>When this Summon is on the field:</color> Your characters' Normal Attacks deal +1 DMG.",
+        "Name": "고요한 원유(苑囿)",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계: </color>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>를 2pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color><br><color style='color:#FFFFFFFF'>해당 소환물이 필드에 있을 시:</color> 아군 캐릭터가 「일반 공격」으로 주는 피해+1pt",
         "Tag": [],
         "Cost": {}
     },
     "112071": {
         "_id": 112071,
-        "Name": "Heron Shield",
-        "Desc": "The next time this character acts, they will immediately use the Skill <color style='color:#FFFFFFFF'>Heron Strike</color>.<br>While preparing this Skill: Grant 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points to the character to which this is attached.",
+        "Name": "푸른빛 새의 보호막",
+        "Desc": "본 캐릭터가 다음번 행동 시 바로 <color style='color:#FFFFFFFF'>푸른빛 새의 충격파</color> 스킬을 사용한다.<br>스킬 준비 기간: [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 2pt 제공해 부착 캐릭터를 보호한다.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7458,162 +7459,162 @@ var _ref = {
     },
     "112072": {
         "_id": 112072,
-        "Name": "Prayer of the Crimson Crown",
-        "Desc": "Your characters' <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 DMG.<br>Your Sword, Claymore, and Polearm-wielding characters' [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> is converted to [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br><color style='color:#FFFFFFFF'>After you switch characters</color>, you deal 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>.",
+        "Name": "적색 왕관의 축복",
+        "Desc": "아군 캐릭터의 <color style='color:#FFFFFFFF'>일반 공격</color>이 주는 피해+1pt<br>아군 한손검, 양손검 혹은 장병기 캐릭터가 주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>로 전환된다.<br><color style='color:#FFFFFFFF'>아군 캐릭터 교체 후:</color> [b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>를 1pt 준다. (턴당 1회)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112081": {
         "_id": 112081,
-        "Name": "Golden Chalice's Bounty",
-        "Desc": "<color style='color:#FFFFFFFF'>After opponent's characters are affected by the Bloom reaction:</color> Your team no longer generates <color style='color:#FFFFFFFF'>Dendro Core</color>, but instead summons <color style='color:#FFFFFFFF'>Bountiful Core</color>.",
+        "Name": "황금잔의 선물",
+        "Desc": "<color style='color:#FFFFFFFF'>적 캐릭터가 개화 반응을 받을 시:</color> 아군은 더 이상 <color style='color:#FFFFFFFF'>풀 원핵</color>을 생성하지 않는 대신, <color style='color:#FFFFFFFF'>풍요의 핵</color>을 소환한다.",
         "Tag": [],
         "Cost": {}
     },
     "112082": {
         "_id": 112082,
-        "Name": "Bountiful Core",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color><br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack, max 3 stacks)<br><color style='color:#FFFFFFFF'>When you declare the end of your Round:</color> If this summon has at least 2 <color style='color:#FFFFFFFF'>Usage(s)</color> remaining, deal 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>. (Consumes <color style='color:#FFFFFFFF'>Usage(s)</color>)",
+        "Name": "풍요의 핵",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>를 2pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>(중첩 가능, 최대 중첩수: 3회)<br><color style='color:#FFFFFFFF'>아군 종료 선언 시:</color> 해당 카드의 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>가 2회 이상일 경우, [b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>를 2pt 준다. (<color style='color:#FFFFFFFF'>사용 가능 횟수</color> 소모 필요)",
         "Tag": [],
         "Cost": {}
     },
     "112083": {
         "_id": 112083,
-        "Name": "Lingering Aeon",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 3 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> to affected character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "영원한 침식",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> 부착 캐릭터에게 [b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>를 3pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "112091": {
         "_id": 112091,
-        "Name": "Breakthrough",
-        "Desc": "This state starts with 1 <color style='color:#FFFFFFFF'>Breakthrough</color> stack. When re-attached, add 1 <color style='color:#FFFFFFFF'>Breakthrough</color> stack. <color style='color:#FFFFFFFF'>Breakthrough</color> can have a maximum of 3 stacks.<br><color style='color:#FFFFFFFF'>End Phase:</color> Gain 1 <color style='color:#FFFFFFFF'>Breakthrough</color> stack.<br><color style='color:#FFFFFFFF'>When the character to which this is attached uses a Normal Attack:</color> If <color style='color:#FFFFFFFF'>Breakthrough</color> has at least 2 stacks, consume 2 <color style='color:#FFFFFFFF'>Breakthrough</color> stacks to convert [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt into [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> and draw 1 card.",
+        "Name": "타파",
+        "Desc": "해당 상태는 시작부터 <color style='color:#FFFFFFFF'>「타파」</color>를 1스택 보유한다. 중복 부착 시 <color style='color:#FFFFFFFF'>「타파」</color>를 1스택 중첩한다. <color style='color:#FFFFFFFF'>「타파」</color>는 최대 3스택까지 중첩 가능하다.<br><color style='color:#FFFFFFFF'>종료 단계:</color> <color style='color:#FFFFFFFF'>「타파」</color>를 1스택 중첩한다.<br><color style='color:#FFFFFFFF'>부착 캐릭터가 일반 공격 시:</color> 만약 <color style='color:#FFFFFFFF'>「타파」</color>를 이미 2스택 보유하고 있을 경우, <color style='color:#FFFFFFFF'>「타파」</color>를 2스택 소모해 주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>를 [b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>로 전환하고 카드를 1장 드로우한다.",
         "Tag": [],
         "Cost": {}
     },
     "112092": {
         "_id": 112092,
-        "Name": "Exquisite Throw",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Normal Attack:</color> Deal 2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "던져진 영롱",
+        "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 일반 공격 후:</color> [b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>를 2pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112101": {
         "_id": 112101,
-        "Name": "Sourcewater Droplet",
-        "Desc": "<color style='color:#FFFFFFFF'>After Neuvillette uses a Normal Attack:</color> Heals the character for 2 HP. After this, <color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Equitable Judgment</color></color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 3 stacks.)",
+        "Name": "원천의 방울",
+        "Desc": "<color style='color:#FFFFFFFF'>느비예트가 일반 공격 후: 캐릭터 </color>HP를 2pt 치유하고 캐릭터가 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>공정한 판결</color></color>의 <color style='color:#FFFFFFFF'>스킬 준비</color>를 한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>(중첩 가능, 최대 중첩수: 3회)",
         "Tag": [],
         "Cost": {}
     },
     "113011": {
         "_id": 113011,
-        "Name": "Pyro Infusion",
-        "Desc": "The character to which this is attached has their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "불 원소 부여",
+        "Desc": "부착 캐릭터가 주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>로 전환된다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113021": {
         "_id": 113021,
-        "Name": "Guoba",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "누룽지",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 2pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113022": {
         "_id": 113022,
-        "Name": "Pyronado",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Skill:</color> Deal 2 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "화륜",
+        "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 스킬 사용 후:</color> [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 2pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113031": {
         "_id": 113031,
-        "Name": "Inspiration Field",
-        "Desc": "<color style='color:#FFFFFFFF'>When your character uses a Skill:</color> If this character has at least 7 HP, deal +2 additional DMG for this instance. After the Skill DMG is finalized, if this character's HP is not greater than 6, heal this character for 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "격려의 영역",
+        "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 스킬 사용 시:</color> 해당 캐릭터의 HP가 7pt 이상이면 피해 추가+2pt, 스킬이 적용된 후 해당 캐릭터의 HP가 6pt 이하이면 해당 캐릭터의 HP를 2pt 치유한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113041": {
         "_id": 113041,
-        "Name": "Baron Bunny",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active character takes DMG: </color>Decrease DMG taken by 2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>. When the Usages are depleted, this card will not be discarded.<br><color style='color:#FFFFFFFF'>At the End Phase, if <color style='color:#FFFFFFFF'>Usage(s)</color> have been depleted:</color> Discard this card to deal 2 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.",
+        "Name": "토끼 백작",
+        "Desc": "<color style='color:#FFFFFFFF'>아군 출전 캐릭터가 피해를 받을 시:</color> 피해를 2pt 상쇄한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>, 사용 횟수를 소진해도 해당 카드를 버리지 않는다.<br><color style='color:#FFFFFFFF'>종료 단계에 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>가 이미 소진됐을 시:</color> 해당 카드를 버리고 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 2pt 준다.",
         "Tag": [],
         "Cost": {}
     },
     "113051": {
         "_id": 113051,
-        "Name": "Niwabi Enshou",
-        "Desc": "The character to which this is attached has their <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 DMG, and their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "정화 염초",
+        "Desc": "부착 캐릭터의 <color style='color:#FFFFFFFF'>일반 공격</color> 피해+1pt, 주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>로 전환된다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113052": {
         "_id": 113052,
-        "Name": "Aurous Blaze",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character other than Yoimiya uses a Skill:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "유금화광",
+        "Desc": "<color style='color:#FFFFFFFF'>요이미야 이외의 아군 캐릭터가 스킬 사용 후: </color>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113061": {
         "_id": 113061,
-        "Name": "Explosive Spark",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached uses a <color style='color:#FFFFFFFF'>Charged Attack</color>: </color>Spend 1 less <color style='color:#FF9999FF'>[b]1103[a]Pyro</color> and deal +1 DMG.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "폭렬 불꽃",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 <color style='color:#FFFFFFFF'>강공격</color> 발동 시:</color> <color style='color:#FF9999FF'>[b]1103[a]불 원소</color> 소모가 1개 감소하고 피해+1pt<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "113063": {
         "_id": 113063,
-        "Name": "Sparks 'n' Splash",
-        "Desc": "<color style='color:#FFFFFFFF'>After a character to which Sparks 'n' Splash is attached uses a Skill:</color> Deals 2 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> to their team's active character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "쾅쾅 불꽃",
+        "Desc": "<color style='color:#FFFFFFFF'>소속 진영의 캐릭터가 스킬 발동 후:</color> 소속 진영의 출전 캐릭터에게 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 2pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113071": {
         "_id": 113071,
-        "Name": "Paramita Papilio",
-        "Desc": "The character to which this is attached has their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>, and they will deal +1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'>When the character to which this is attached uses a <color style='color:#FFFFFFFF'>Charged Attack</color>:</color> Apply <color style='color:#FFFFFFFF'>Blood Blossom</color> to target character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "피안접무",
+        "Desc": "부착 캐릭터가 주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>로 전환되며, 캐릭터가 주는 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>+1pt<br><color style='color:#FFFFFFFF'>부착 캐릭터가 <color style='color:#FFFFFFFF'>강공격</color> 시:</color> 대상 캐릭터에게 <color style='color:#FFFFFFFF'>혈매향</color>을 부착한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113081": {
         "_id": 113081,
-        "Name": "Scarlet Seal",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character uses a <color style='color:#FFFFFFFF'>Charged Attack</color>: </color>Damage dealt +2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>. (Can stack up to 2 times)",
+        "Name": "단화인",
+        "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 <color style='color:#FFFFFFFF'>강공격</color> 발동 시: </color>주는 피해+2pt<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>(중첩 가능, 최대 중첩수: 2회)",
         "Tag": [],
         "Cost": {}
     },
     "113082": {
         "_id": 113082,
-        "Name": "Brilliance",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character uses a <color style='color:#FFFFFFFF'>Charged Attack</color>: </color>Spend 1 less <color style='color:#FF9999FF'>[b]1103[a]Pyro</color>. (Once every round.)<br><color style='color:#FFFFFFFF'>End Phase: </color>Attach <color style='color:#FFFFFFFF'>Scarlet Seal</color> to this character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>.",
+        "Name": "이글이글",
+        "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 <color style='color:#FFFFFFFF'>강공격</color> 발동 시:</color> <color style='color:#FF9999FF'>[b]1103[a]불 원소</color> 소모 개수-1 (턴당 1회)<br><color style='color:#FFFFFFFF'>종료 단계:</color> 캐릭터에게 <color style='color:#FFFFFFFF'>단화인</color>을 부착한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113093": {
         "_id": 113093,
-        "Name": "Fiery Sanctum Field",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>When this Summon is on the field and Dehya is on standby on your side, then when your active character takes damage: </color>Decrease DMG taken by 1, and if Dehya has at least 7 HP, deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to her (once per round).",
+        "Name": "검지옥 영역",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color><br><color style='color:#FFFFFFFF'>해당 소환물이 필드에 있고 데히야가 아군 대기 캐릭터일 때 아군 출전 캐릭터가 피해를 받을 시:</color> 피해를 1pt 상쇄한다. 그다음 만약 데히야의 HP가 7pt 이상일 경우 데히야에게 <color style='color:#FFFFFFFF'>관통 피해</color>를 1pt 준다. (턴당 1회)",
         "Tag": [],
         "Cost": {}
     },
     "113101": {
         "_id": 113101,
-        "Name": "Grin-Malkin Hat",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 2 stacks.)",
+        "Name": "웃는 고양이 모자",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>(중첩 가능, 최대 중첩수: 2회)",
         "Tag": [],
         "Cost": {}
     },
     "113102": {
         "_id": 113102,
-        "Name": "Prop Surplus",
-        "Desc": "<color style='color:#FFFFFFFF'>Prop Surplus</color> can stack up to 3 times.<br><color style='color:#FFFFFFFF'>When this character uses <color style='color:#FFFFFFFF'>Bewildering Lights</color>:</color> +1 DMG for each <color style='color:#FFFFFFFF'>Prop Surplus</color> stack. After the skill is finalized, consume all <color style='color:#FFFFFFFF'>Prop Surplus</color>, healing 1 HP for this character per stack.",
+        "Name": "잔여 트릭",
+        "Desc": "<color style='color:#FFFFFFFF'>잔여 트릭</color>은 최대 3스택까지 중첩 가능하다.<br><color style='color:#FFFFFFFF'>캐릭터가 <color style='color:#FFFFFFFF'>눈부신 트릭</color> 사용 시:</color> <color style='color:#FFFFFFFF'>잔여 트릭</color> 1스택당 피해+1pt 및 스킬 결산 후, <color style='color:#FFFFFFFF'>잔여 트릭</color>을 소진하여 1스택당 캐릭터의 HP를 1pt 치유한다.",
         "Tag": [],
         "Cost": {}
     },
     "113111": {
         "_id": 113111,
-        "Name": "Blazing Barrier",
-        "Desc": "Grants <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point</color> to your active character. (Can stack. Max 3 points.)",
+        "Name": "타오르는 우명의 방패",
+        "Desc": "아군 출전 캐릭터에게 <color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 1pt</color> 제공한다. (중첩 가능, 최대 3pt)",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7621,29 +7622,29 @@ var _ref = {
     },
     "113112": {
         "_id": 113112,
-        "Name": "Scorching Ooyoroi",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Normal Attack:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> and create a <color style='color:#FFFFFFFF'>Blazing Barrier</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "열화의 오오요로이",
+        "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 일반 공격 후: </color>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 1pt 주고 <color style='color:#FFFFFFFF'>타오르는 우명의 방패</color>를 생성한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "114011": {
         "_id": 114011,
-        "Name": "Oz",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "오즈",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "114021": {
         "_id": 114021,
-        "Name": "The Wolf Within",
-        "Desc": "<color style='color:#FFFFFFFF'>After the character to which this is attached uses a Normal Attack or an Elemental Skill:</color> Deal 2 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "썬더울프",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 일반 공격 혹은 원소전투 스킬 발동 후:</color> [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 2pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "114031": {
         "_id": 114031,
-        "Name": "Lightning Stiletto",
-        "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: Switch your Keqing in to be the active character and immediately use Stellar Restoration once. This instance of Stellar Restoration will grant Keqing <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Electro Infusion</color></color> without creating another Lightning Stiletto.<br>(When Keqing uses Stellar Restoration with this card in Hand: Instead of creating another Lightning Stiletto, discard this card and Keqing gains <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Electro Infusion</color></color>)",
+        "Name": "뇌설",
+        "Desc": "<color style='color:#FFFFFFFF'>전투 행동</color>: 각청을 필드로 교체하고 성신 회귀를 즉시 발동한다. 해당 성신 회귀는 각청에게 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>번개 원소 부여</color></color> 효과를 주지만 뇌설을 재생성하지 않는다.<br>(각청이 성신 회귀를 사용 시, 만약 핸드에 이 카드가 있으면 뇌설을 재생성하지 않고 카드를 버린다. 또한 각청에게 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>번개 원소 부여</color></color> 효과를 준다)",
         "Tag": [
             "GCG_TAG_TALENT",
             "GCG_TAG_SLOWLY"
@@ -7655,22 +7656,22 @@ var _ref = {
     },
     "114032": {
         "_id": 114032,
-        "Name": "Electro Elemental Infusion",
-        "Desc": "The character to which this is attached has their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "번개 원소 부여",
+        "Desc": "부착 캐릭터가 주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>로 전환된다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "114041": {
         "_id": 114041,
-        "Name": "Pactsworn Pathclearer",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Gain 1 level of Indwelling.<br><color style='color:#FFFFFFFF'>Create the following effects based on the Indwelling Level</color>:<br>If equal to or greater than 2: [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt is converted to [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>;<br>If equal to or greater than 4: DMG dealt +2;<br>If equal to or greater than 6: Indwelling Level -4.",
+        "Name": "길을 여는 사자",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> 「빙의」 1레벨 증가<br><color style='color:#FFFFFFFF'>「빙의」 레벨에 따른 효과:</color><br>Lv.2 이상: [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>로 전환된다.<br>Lv.4 이상: 주는 피해+2pt<br>Lv.6 이상: 「빙의」 4레벨 감소",
         "Tag": [],
         "Cost": {}
     },
     "114051": {
         "_id": 114051,
-        "Name": "Tidecaller: Surf Embrace",
-        "Desc": "The next time this character acts, they will immediately use the Skill <color style='color:#FFFFFFFF'>Wavestrider</color>.<br>While preparing this Skill: Grant 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points to the character to which this is attached.",
+        "Name": "파도잡이 · 파도의 포옹",
+        "Desc": "본 캐릭터가 다음 행동 시 바로 <color style='color:#FFFFFFFF'>조수</color> 스킬을 사용한다.<br>스킬 준비 기간: [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 2pt 제공해 부착 캐릭터를 보호한다.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7678,176 +7679,176 @@ var _ref = {
     },
     "114053": {
         "_id": 114053,
-        "Name": "Thunderbeast's Targe",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Normal Attack:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'>When your character receives at least 3 DMG: </color>Decrease DMG taken by 1.<br><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2",
+        "Name": "뇌전 괴수의 방패",
+        "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 일반 공격 후:</color> [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'>아군 캐릭터가 3pt 이상의 피해를 받을 시:</color> 그중 1pt의 피해를 상쇄한다.<br><color style='color:#FFFFFFFF'>지속 턴</color>: 2",
         "Tag": [],
         "Cost": {}
     },
     "114061": {
         "_id": 114061,
-        "Name": "Tengu Juurai: Ambush",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>, applies <color style='color:#FFFFFFFF'>Crowfeather Cover</color> to friendly active character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "텐구 주뢰 · 매복",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계: </color> [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 1pt 주고 아군 출전 캐릭터에게 <color style='color:#FFFFFFFF'>빛나는 깃털의 수호</color>를 부착한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "114062": {
         "_id": 114062,
-        "Name": "Tengu Juurai: Stormcluster",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>, applies <color style='color:#FFFFFFFF'>Crowfeather Cover</color> to friendly active character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "텐구 주뢰 · 번개 자갈",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계: </color> [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 2pt 주고 아군 출전 캐릭터에게 <color style='color:#FFFFFFFF'>빛나는 깃털의 수호</color>를 부착한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "114063": {
         "_id": 114063,
-        "Name": "Crowfeather Cover",
-        "Desc": "The character with this attached deals +1 <color style='color:#FFFFFFFF'>Elemental Skill</color> and <color style='color:#FFFFFFFF'>Elemental Burst</color> DMG.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "빛나는 깃털의 수호",
+        "Desc": "부착 캐릭터가 <color style='color:#FFFFFFFF'>원소전투 스킬</color> 및 <color style='color:#FFFFFFFF'>원소폭발</color>로 주는 피해+1pt<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "114071": {
         "_id": 114071,
-        "Name": "Eye of Stormy Judgment",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>When this Summon is on the field:</color> Your characters' Elemental Bursts deal +1 DMG.",
+        "Name": "뇌벌 악요의 눈",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계: </color>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color><br><color style='color:#FFFFFFFF'>해당 소환물이 필드에 있을 시:</color> 아군 캐릭터가 「원소폭발」로 주는 피해+1pt",
         "Tag": [],
         "Cost": {}
     },
     "114072": {
         "_id": 114072,
-        "Name": "Chakra Desiderata",
-        "Desc": "<color style='color:#FFFFFFFF'>After your other characters use Elemental Bursts:</color> Gain 1 Resolve. (Max 3)<br><color style='color:#FFFFFFFF'>When the character to which this is attached uses Secret Art: Musou Shinsetsu:</color> Consume all Resolve and deal +1 DMG per Resolve.",
+        "Name": "염원이 깃든 백안지륜",
+        "Desc": "<color style='color:#FFFFFFFF'>다른 아군 캐릭터가 「원소폭발」 사용 후:</color> 「원력」이 1pt 누적된다. (최대 3pt까지 누적)<br><color style='color:#FFFFFFFF'>부착 캐릭터가 오의 · 몽상진설 사용 시:</color> 모든 「원력」을 소모한다. 「원력」 1pt당 주는 피해가 1pt 증가한다.",
         "Tag": [],
         "Cost": {}
     },
     "114081": {
         "_id": 114081,
-        "Name": "Sesshou Sakura",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color><br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color> (Can stack, max 6 stacks)<br><color style='color:#FFFFFFFF'>When you declare the end of your Round:</color> If this summon has at least 4 <color style='color:#FFFFFFFF'>Usage(s)</color> remaining, deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>. (Consumes <color style='color:#FFFFFFFF'>Usage(s)</color>)",
+        "Name": "살생앵",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color> (중첩 가능, 최대 중첩수: 6회)<br><color style='color:#FFFFFFFF'>아군 종료 선언 시:</color> 해당 카드의 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>가 4 이상일 경우, [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 1pt 준다. (<color style='color:#FFFFFFFF'>사용 가능 횟수</color> 소모 필요)",
         "Tag": [],
         "Cost": {}
     },
     "114083": {
         "_id": 114083,
-        "Name": "Tenko Thunderbolts",
-        "Desc": "<color style='color:#FFFFFFFF'>Before you choose your action:</color> Deal 3 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "천호 뇌정",
+        "Desc": "<color style='color:#FFFFFFFF'>아군이 행동하기 전:</color> [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 3pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "114091": {
         "_id": 114091,
-        "Name": "Conductive",
-        "Desc": "This status starts with 2 stacks of Conductive. When attached repeatedly, Conductive stack +1. Conductive can be stacked to a maximum of 4 stacks.<br><color style='color:#FFFFFFFF'>End Phase: </color>Accumulate 1 stack of Conductive.<br><color style='color:#FFFFFFFF'>When the character attached with Conductive takes DMG from Violet Arc: </color>Remove this status and DMG +1 for each stack of Conductive.",
+        "Name": "전기 전도",
+        "Desc": "해당 상태는 시작부터 「전기 전도」를 2스택 보유한다. 중복 부착 시 1스택이 추가된다. 최대 4스택까지 중첩 가능하다.<br><color style='color:#FFFFFFFF'>종료 단계:</color> 「전기 전도」를 1스택 중첩한다.<br><color style='color:#FFFFFFFF'>부착 캐릭터가 창뢰 피해를 받을 시:</color> 해당 상태를 제거하고, 「전기 전도」 스택당 이번 피해+1pt",
         "Tag": [],
         "Cost": {}
     },
     "114092": {
         "_id": 114092,
-        "Name": "Lightning Rose",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase: </color>Deal 2 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "장미 뇌광",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 2pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "114101": {
         "_id": 114101,
-        "Name": "After-Sales Service Rounds",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "A/S 포탄",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "114102": {
         "_id": 114102,
-        "Name": "Jinni",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heal your active character for 2 HP and that character gains 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "램프의 정령",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> 아군 출전 캐릭터의 HP를 2pt 치유하고 해당 캐릭터가 <color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>를 1pt 획득한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "115011": {
         "_id": 115011,
-        "Name": "Large Wind Spirit",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>After your character or Summon triggers a Swirl reaction:</color> Convert the Elemental Type of this card and change its DMG dealt to the element Swirled. (Can only be converted once before leaving the field)",
+        "Name": "거대 풍령",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color>를 2pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color><br><color style='color:#FFFFFFFF'>아군 캐릭터 또는 소환물이 확산 반응 발동 후:</color> 해당 카드의 원소 타입을 확산된 원소 타입 피해로 전환한다. (필드를 떠나기 전에 1회만 발동)",
         "Tag": [],
         "Cost": {}
     },
     "115021": {
         "_id": 115021,
-        "Name": "Dandelion Field",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>, heal your active character for 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "민들레 영역",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color>를 1pt 주고 아군 출전 캐릭터의 HP를 1pt 치유한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "115031": {
         "_id": 115031,
-        "Name": "Stormzone",
-        "Desc": "<color style='color:#FFFFFFFF'>When you perform \"Switch Character\":</color> Spend 1 less Elemental Die.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "바람의 영역",
+        "Desc": "<color style='color:#FFFFFFFF'>아군이 「캐릭터 교체」 행동 시:</color> 원소 주사위 소모 개수-1<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "115034": {
         "_id": 115034,
-        "Name": "Stormeye",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>. Your opponent switches to: <color style='color:#FFFFFFFF'>Character Closest to Your Current Active Character</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>After your character or Summon triggers a Swirl reaction:</color> Convert the Elemental Type of this card and change its DMG dealt to the element Swirled. (Can only be converted once before leaving the field)",
+        "Name": "폭풍의 눈",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color>를 2pt 주고, 상대 캐릭터가 <color style='color:#FFFFFFFF'>아군 출전 캐릭터와 가장 가까운 캐릭터</color>로 교체된다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color><br><color style='color:#FFFFFFFF'>아군 캐릭터 또는 소환물이 확산 반응 발동 후:</color> 해당 카드의 원소 타입이 전환되고, 확산된 원소 타입 피해로 바뀐다. (필드를 떠나기 전에 1회만 발동)",
         "Tag": [],
         "Cost": {}
     },
     "115041": {
         "_id": 115041,
-        "Name": "Yaksha's Mask",
-        "Desc": "The character to which this is attached has their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>, and they will deal +1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>.<br><color style='color:#FFFFFFFF'>When the character to which this is attached uses a <color style='color:#FFFFFFFF'>Plunging Attack</color>:</color> +2 additional DMG.<br><color style='color:#FFFFFFFF'>If the character this card is attached to is the active character, when you perform \"Switch Character\":</color> Spend 1 less Elemental Die. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "야차의 가면",
+        "Desc": "부착 캐릭터가 주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color>로 전환되며, 캐릭터가 주는 [b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color>가 1pt 증가한다.<br><color style='color:#FFFFFFFF'>부착 캐릭터가 <color style='color:#FFFFFFFF'>낙하 공격</color> 시:</color> 피해 추가+2pt<br><color style='color:#FFFFFFFF'>부착 캐릭터가 출전 캐릭터일 때 아군이 「캐릭터 교체」 행동 시: </color>원소 주사위 소모 개수-1 (턴당 1회)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "115051": {
         "_id": 115051,
-        "Name": "Midare Ranzan",
-        "Desc": "<color style='color:#FFFFFFFF'>When the attached character uses a <color style='color:#FFFFFFFF'>Plunging Attack</color>: </color>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt becomes [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>, and deals +1 DMG.<br><color style='color:#FFFFFFFF'>After the character uses a skill:</color> This effect is removed.",
+        "Name": "폭풍 베기",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 <color style='color:#FFFFFFFF'>낙하 공격</color> 발동 시: </color>주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color>로 전환 및 주는 피해+1pt<br><color style='color:#FFFFFFFF'>캐릭터 스킬 사용 후:</color> 해당 효과가 제거된다.",
         "Tag": [],
         "Cost": {}
     },
     "115052": {
         "_id": 115052,
-        "Name": "Autumn Whirlwind",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>After your Characters or Summons trigger a Swirl reaction:</color> Convert the Elemental Type of this card and change its DMG dealt to the element Swirled. (Can only be converted once before leaving the field)",
+        "Name": "바람 부는 가을 들판",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color><br><color style='color:#FFFFFFFF'>아군 캐릭터 또는 소환물이 확산 반응 발동 후:</color> 해당 카드의 원소 타입을 확산된 원소 타입 피해로 전환한다. (필드를 떠나기 전에 1회만 발동)",
         "Tag": [],
         "Cost": {}
     },
     "115061": {
         "_id": 115061,
-        "Name": "Windfavored",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached performs a Normal Attack:</color> DMG dealt +2. If the opponent has characters on standby, then this Skill will deal damage to the next opposing character on standby instead.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "바람의 자태",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 「일반 공격」 시:</color> 주는 피해+2pt. 적에 대기 캐릭터가 있을 경우, 해당 스킬은 다음 적 대기 캐릭터에게 주는 피해로 변경된다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>：2</color>",
         "Tag": [],
         "Cost": {}
     },
     "115072": {
         "_id": 115072,
-        "Name": "Muji-Muji Daruma",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>, heal the character on your team that has taken the most damage for 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "너구리 오뚝이",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color>를 1pt 주고 피해를 가장 많이 받은 아군 캐릭터의 HP를 2pt 치유한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "115081": {
         "_id": 115081,
-        "Name": "Overawing Assault",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> If this character's HP is at least 6, then they will take 2 <color style='color:#FFFFFFFF'>Piercing DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 1</color>",
+        "Name": "기습의 여파",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계: </color>캐릭터의 HP가 6pt 이상이면 <color style='color:#FFFFFFFF'>관통 피해</color>를 2pt 받는다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "115082": {
         "_id": 115082,
-        "Name": "Bogglecat Box",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>When your active character takes DMG:</color> Decreases DMG taken by 1. (Once per Round)<br><color style='color:#FFFFFFFF'>When your character(s) take [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color>/[b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>/[b]2103[a]<color style='color:#FF9999FF'>Pyro</color>/[b]2104[a]<color style='color:#FFACFFFF'>Electro</color> DMG:</color> Change the Elemental Type of this card to the element of the damage taken. (Once before leaving play)",
+        "Name": "깜짝 고양이 모자",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color><br><color style='color:#FFFFFFFF'>아군 출전 캐릭터가 피해를 받을 시:</color> 피해를 1pt 상쇄한다. (턴당 1회)<br><color style='color:#FFFFFFFF'>아군 캐릭터가 [b]2101[a]<color style='color:#99FFFFFF'>얼음</color>/[b]2102[a]<color style='color:#80C0FFFF'>물</color>/[b]2103[a]<color style='color:#FF9999FF'>불</color>/[b]2104[a]<color style='color:#FFACFFFF'>번개</color> 피해를 받을 시:</color> 해당 카드의 원소 타입을 받은 피해 원소 타입으로 전환한다. (필드를 떠나기 전에 1회만 발동)",
         "Tag": [],
         "Cost": {}
     },
     "116011": {
         "_id": 116011,
-        "Name": "Jade Screen",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active character receives at least 2 DMG: </color>Decrease DMG taken by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "선기 병풍",
+        "Desc": "<color style='color:#FFFFFFFF'>아군 출전 캐릭터가 2pt 이상의 피해를 받을 시:</color> 피해를 1pt 상쇄한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "116021": {
         "_id": 116021,
-        "Name": "Full Plate",
-        "Desc": "Grant <color style='color:#FFFFFFFF'>2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points</color> to your active character.<br>Before this [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> is fully consumed, the [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> you take is halved. (The figure will be rounded up)",
+        "Name": "바위 갑주",
+        "Desc": "아군 출전 캐릭터에게 <color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 2pt</color> 제공한다.<br>해당 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>이 소진되기 전까지 아군이 받는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 50% 감소한다. (올림 처리)",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7855,22 +7856,22 @@ var _ref = {
     },
     "116022": {
         "_id": 116022,
-        "Name": "Sweeping Time",
-        "Desc": "When your character uses a Normal Attack: Consume 1 less [b]1106[a]<color style='color:#FFE699FF'>Geo Die</color>. (Once per Round)<br>Character's <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +2 DMG, and their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt is converted to [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "대청소",
+        "Desc": "캐릭터가 일반 공격 시: [b]1106[a]<color style='color:#FFE699FF'>바위 원소</color> 소모 개수-1 (턴당 1회)<br>캐릭터의 <color style='color:#FFFFFFFF'>일반 공격</color>으로 주는 피해+2pt, 주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color>로 전환된다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "116031": {
         "_id": 116031,
-        "Name": "Stone Stele",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "암주",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "116032": {
         "_id": 116032,
-        "Name": "Jade Shield",
-        "Desc": "Grants <color style='color:#FFFFFFFF'>2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points</color> to your active character.",
+        "Name": "옥홀 방패",
+        "Desc": "아군 출전 캐릭터에게 <color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 2pt</color> 제공한다.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7878,8 +7879,8 @@ var _ref = {
     },
     "116033": {
         "_id": 116033,
-        "Name": "Petrification",
-        "Desc": "<color style='color:#FFFFFFFF'>Character cannot use Skills.</color> (Lasts until the end of this Round)",
+        "Name": "석화",
+        "Desc": "<color style='color:#FFFFFFFF'>캐릭터 스킬 사용 불가</color> (턴 종료까지 지속)",
         "Tag": [
             "GCG_TAG_FORBIDDEN_ATTACK"
         ],
@@ -7887,106 +7888,106 @@ var _ref = {
     },
     "116041": {
         "_id": 116041,
-        "Name": "Solar Isotoma",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase: </color>Deal 1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>When this Summon is on the field: </color>Your character's <color style='color:#FFFFFFFF'>Plunging Attack</color> spends 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>. (Once per Round)",
+        "Name": "태양꽃",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color><br><color style='color:#FFFFFFFF'>해당 소환물이 필드에 있을 시:</color> 아군 캐릭터가 <color style='color:#FFFFFFFF'>낙하 공격</color> 시 <color style='color:#FFFFFFFF'>[b]1109[a]무색 원소</color> 소모 개수-1 (턴당 1회)",
         "Tag": [],
         "Cost": {}
     },
     "116051": {
         "_id": 116051,
-        "Name": "Ushi",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active character takes DMG: </color>Decrease DMG taken by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>. When the Usage is depleted, this card will not be discarded.<br><color style='color:#FFFFFFFF'>Can be triggered once while this Summon is present: </color>When your character takes DMG, Arataki Itto gains <color style='color:#FFFFFFFF'>Superlative Superstrength</color>.<br><color style='color:#FFFFFFFF'>End Phase:</color> Discard this card, deal 1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.",
+        "Name": "우시",
+        "Desc": "<color style='color:#FFFFFFFF'>아군 출전 캐릭터가 피해를 받을 시:</color> 피해를 1pt 상쇄한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>, 사용 횟수를 소진해도 해당 카드를 버리지 않는다.<br><color style='color:#FFFFFFFF'>해당 소환물이 필드 위에 있는 동안 다음 효과 1회 발동 가능:</color> 아군 캐릭터가 피해를 받은 후, 아라타키 이토에게 <color style='color:#FFFFFFFF'>난신의 괴력</color>을 부착한다.<br><color style='color:#FFFFFFFF'>종료 단계:</color> 해당 카드를 버리고 [b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color>를 1pt 준다.",
         "Tag": [],
         "Cost": {}
     },
     "116053": {
         "_id": 116053,
-        "Name": "Raging Oni King",
-        "Desc": "The character to which this is attached has their <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 DMG, and their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color><br><color style='color:#FFFFFFFF'>After the character to which this is attached uses a Normal Attack:</color> Gains <color style='color:#FFFFFFFF'>Superlative Superstrength</color>. (Once per Round)",
+        "Name": "분노의 귀왕",
+        "Desc": "부착 캐릭터의 <color style='color:#FFFFFFFF'>일반 공격</color>으로 주는 피해+1pt, [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color>로 전환된다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color><br><color style='color:#FFFFFFFF'>부착 캐릭터가 일반 공격 후:</color> 부착 캐릭터에게 <color style='color:#FFFFFFFF'>난신의 괴력</color>을 부착한다. (턴당 1회)",
         "Tag": [],
         "Cost": {}
     },
     "116054": {
         "_id": 116054,
-        "Name": "Superlative Superstrength",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached uses a <color style='color:#FFFFFFFF'>Charged Attack</color>: </color>Deal +1 DMG. If there are at least 2 <color style='color:#FFFFFFFF'>Usage(s)</color>, spend 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 3 stacks.)",
+        "Name": "난신의 괴력",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 <color style='color:#FFFFFFFF'>강공격</color> 발동 시:</color> 주는 피해+1pt. 만약 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>가 2 이상일 경우 소모하는 <color style='color:#FFFFFFFF'>[b]1109[a]무색 원소</color>가 1개 감소한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color> (중첩 가능, 최대 중첩수: 3회)",
         "Tag": [],
         "Cost": {}
     },
     "116061": {
         "_id": 116061,
-        "Name": "General's War Banner",
-        "Desc": "Your party's characters deal +1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color> (Can stack, can stack till 3 Rounds)",
+        "Name": "대장의 깃발",
+        "Desc": "아군 캐릭터가 주는 [b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color>+1pt<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color>(최대 3턴까지 중첩 가능)",
         "Tag": [],
         "Cost": {}
     },
     "116062": {
         "_id": 116062,
-        "Name": "General's Glory",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>. If your party has 2 [b]2106[a]<color style='color:#FFE699FF'>Geo</color> characters, create 1 <color style='color:#FFFFFFFF'>Crystallize</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "대장의 위용",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계: </color>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color>를 1pt 준다. 만약 파티에 2명의 [b]2106[a]<color style='color:#FFE699FF'>바위 원소</color> 캐릭터가 존재할 시, <color style='color:#FFFFFFFF'>결정</color>을 생성한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "117011": {
         "_id": 117011,
-        "Name": "Cuilein-Anbar",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "콜린엔바",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>를 2pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "117021": {
         "_id": 117021,
-        "Name": "Vijnana Suffusion",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached uses a <color style='color:#FFFFFFFF'>Charged Attack</color>: </color>Their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt will be converted to [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color> and after the Skill DMG is finalized, summon 1 <color style='color:#FFFFFFFF'>Clusterbloom Arrow</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "식(識)의 통찰자",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 <color style='color:#FFFFFFFF'>강공격</color> 발동 시:</color> 주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>로 전환되고 스킬 결산 후 <color style='color:#FFFFFFFF'>꽃을 품은 화살</color>을 소환한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "117031": {
         "_id": 117031,
-        "Name": "Seed of Skandha",
-        "Desc": "<color style='color:#FFFFFFFF'>After any character who has a Seed of Skandha takes Elemental Reaction DMG:</color> Deals 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to the character(s) to which the Seed of Skandha is attached on the same side of the field.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "스칸다 씨앗",
+        "Desc": "<color style='color:#FFFFFFFF'>「스칸다 씨앗」이 부착된 임의의 캐릭터가 원소 반응 피해를 받은 후</color>: 소속 진영의 부착 캐릭터에게 <color style='color:#FFFFFFFF'>관통 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "117032": {
         "_id": 117032,
-        "Name": "Shrine of Maya",
-        "Desc": "<color style='color:#FFFFFFFF'>When your character triggers an Elemental Reaction: </color>+1 additional DMG.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "마야의 전당",
+        "Desc": "<color style='color:#FFFFFFFF'>아군이 원소 반응 발동 시:</color> 피해 추가+1pt<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "117041": {
         "_id": 117041,
-        "Name": "Yuegui: Throwing Mode",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>, heal the character on your team that has taken the most damage for 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "월계 · 투척형",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>를 1pt 주고 피해를 가장 많이 받은 아군 캐릭터의 HP를 1pt 치유한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "117043": {
         "_id": 117043,
-        "Name": "Adeptal Legacy",
-        "Desc": "<color style='color:#FFFFFFFF'>After you switch characters:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>, heal your active character for 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "선인의 슬기",
+        "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터 교체 후:</color> [b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>를 1pt 주고 아군 출전 캐릭터의 HP를 1pt 치유한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "117051": {
         "_id": 117051,
-        "Name": "Gossamer Sprite",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>, heal your active character for 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "사역령",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>를 1pt 주고 아군 출전 캐릭터의 HP를 1pt 치유한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "117052": {
         "_id": 117052,
-        "Name": "Pulsing Clarity",
-        "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Create <color style='color:#FFFFFFFF'>Seamless Shield</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "진맥",
+        "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> <color style='color:#FFFFFFFF'>무간 보호막</color>을 생성한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "117053": {
         "_id": 117053,
-        "Name": "Seamless Shield",
-        "Desc": "Provides <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color></color>, protecting your active character.<br><color style='color:#FFFFFFFF'>When this effect is removed, or generated again:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>, and heal your active character for 1 HP.",
+        "Name": "무간 보호막",
+        "Desc": "아군 출전 캐릭터에게 <color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 1pt</color> 제공한다.<br><color style='color:#FFFFFFFF'>해당 효과가 제거되거나 중복 생성 시:</color> [b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>를 1pt 주고 아군 출전 캐릭터의 HP를 1pt 치유한다.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7994,22 +7995,22 @@ var _ref = {
     },
     "117061": {
         "_id": 117061,
-        "Name": "Chisel-Light Mirror",
-        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt by the character is converted to [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>.<br><color style='color:#FFFFFFFF'>After this character performs a Normal Attack:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>. If it is a <color style='color:#FFFFFFFF'>Charged Attack</color>, this state's <color style='color:#FFFFFFFF'>Duration (Rounds)</color> +1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color> (Can stack. Max 3 Rounds.)",
+        "Name": "빛조각",
+        "Desc": "캐릭터가 주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>로 전환된다.<br><color style='color:#FFFFFFFF'>캐릭터가 일반 공격 후: </color>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>를 1pt 준다. 해당 스킬이 <color style='color:#FFFFFFFF'>강공격</color>일 경우，해당 상태의 <color style='color:#FFFFFFFF'>지속 턴</color>+1<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color>(최대 3턴까지 중첩 가능)",
         "Tag": [],
         "Cost": {}
     },
     "117071": {
         "_id": 117071,
-        "Name": "Urgent Neko Parcel",
-        "Desc": "<color style='color:#FFFFFFFF'>When Kirara is your active character, after you switch characters:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color> and draw 1 card.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 2 stacks.)",
+        "Name": "냥냥 특급 배송",
+        "Desc": "<color style='color:#FFFFFFFF'>키라라가 출전 캐릭터일 때 아군이 캐릭터 교체 후: </color>[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>를 1pt 주고 카드를 1장 드로우한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>(중첩 가능, 최대 중첩수: 2회)",
         "Tag": [],
         "Cost": {}
     },
     "117072": {
         "_id": 117072,
-        "Name": "Shield of Safe Transport",
-        "Desc": "Grants <color style='color:#FFFFFFFF'>2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points</color> to your active character.",
+        "Name": "안전 배송 보호막",
+        "Desc": "아군 출전 캐릭터에게 <color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 2pt</color> 제공한다.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -8017,22 +8018,22 @@ var _ref = {
     },
     "117073": {
         "_id": 117073,
-        "Name": "Cat Grass Cardamom",
-        "Desc": "<color style='color:#FFFFFFFF'>After the side of the field that this card is on has played 2 Action Cards:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color> to the active character on that side.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "카다멈 열매",
+        "Desc": "<color style='color:#FFFFFFFF'>소속 진영이 행동 카드 2장 사용 후: </color>소속 진영의 출전 캐릭터에게 [b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "121011": {
         "_id": 121011,
-        "Name": "Cryo Cicins",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color><br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color> (Can stack, max 3 stacks)<br><color style='color:#FFFFFFFF'>After Fatui Cryo Cicin Mage performs a Normal Attack:</color> This card gains 1 <color style='color:#FFFFFFFF'>Usage(s)</color>.<br><color style='color:#FFFFFFFF'>After Fatui Cryo Cicin Mage takes Elemental Reaction DMG:</color>This card loses 1 <color style='color:#FFFFFFFF'>Usage(s)</color>.",
+        "Name": "얼음 치친",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>를 1pt 가한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color> (중첩 가능, 최대 중첩수: 3회)<br><color style='color:#FFFFFFFF'>우인단 · 얼음 치친 술사가 「일반 공격」 후:</color> 해당 카드의 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>+1<br><color style='color:#FFFFFFFF'>우인단 · 얼음 치친 술사가 원소 반응 피해를 받은 후:</color> 해당 카드의 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>-1",
         "Tag": [],
         "Cost": {}
     },
     "121012": {
         "_id": 121012,
-        "Name": "Flowing Cicin Shield",
-        "Desc": "Provides <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point</color> for your active character.<br><color style='color:#FFFFFFFF'>When created:</color> If you have <color style='color:#FFFFFFFF'>Cryo Cicins</color> on the field, additionally increase [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> by the amount of <color style='color:#FFFFFFFF'>Usage(s)</color> it has. (Adds a maximum of 3 additional [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>)",
+        "Name": "얼음 치친 보호막",
+        "Desc": "아군 출전 캐릭터에게 <color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 1pt</color> 제공한다.<br><color style='color:#FFFFFFFF'>생성 시:</color> 아군 필드에 <color style='color:#FFFFFFFF'>얼음 치친</color>이 있을 경우, <color style='color:#FFFFFFFF'>사용 가능 횟수</color>만큼 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 추가로 제공한다. ([b]4007[a]<color style='color:#FFFFFFFF'>보호막</color> 최대 3pt 추가 제공)",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -8040,232 +8041,232 @@ var _ref = {
     },
     "121021": {
         "_id": 121021,
-        "Name": "Ice-Sealed Crimson Witch of Embers",
-        "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase starts:</color> If the attached character has no more than 4 HP, remove this effect.<br><color style='color:#FFFFFFFF'>When attached character is defeated:</color> Remove this effect, ensure that character <color style='color:#FFFFFFFF'>Immunity to Defeat</color> and heal them to 1 HP.<br><color style='color:#FFFFFFFF'>When this effect is removed:</color> Attached character will transform into the <color style='color:#FFFFFFFF'>Crimson Witch of Embers</color> state.",
+        "Name": "얼음에 봉인된 화염의 마녀",
+        "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시: </color>만약 부착 캐릭터의 HP가 4pt 이하라면, 해당 효과가 제거된다.<br><color style='color:#FFFFFFFF'>부착 캐릭터가 처치될 시: </color>해당 효과가 제거되며, 해당 캐릭터는 <color style='color:#FFFFFFFF'>처치 면역</color> 및 HP를 1pt 회복한다.<br><color style='color:#FFFFFFFF'>해당 효과가 제거될 시: </color>부착 캐릭터가 <color style='color:#FFFFFFFF'>「사그라든 화염의 마녀」</color> 형태로 전환된다.",
         "Tag": [],
         "Cost": {}
     },
     "121022": {
         "_id": 121022,
-        "Name": "Sheer Cold",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deals 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> to attached character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color><br>When attached character has <color style='color:#FFFFFFFF'>Blazing Heat</color> attached, remove this effect.",
+        "Name": "혹한",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계: </color>부착 캐릭터에게 [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>：1</color><br>부착 캐릭터에게 <color style='color:#FFFFFFFF'>작열</color>이 부착될 시, 해당 효과는 제거된다.",
         "Tag": [],
         "Cost": {}
     },
     "121023": {
         "_id": 121023,
-        "Name": "Ice-Sealed Crimson Witch of Embers",
-        "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase starts:</color> If the attached character has no more than 15 HP, remove this effect.<br><color style='color:#FFFFFFFF'>When attached character is defeated:</color> Remove this effect, ensure that character <color style='color:#FFFFFFFF'>Immunity to Defeat</color> and heal them to 1 HP.<br><color style='color:#FFFFFFFF'>When this effect is removed:</color> Attached character will transform into the <color style='color:#FFFFFFFF'>Crimson Witch of Embers</color> state.",
+        "Name": "얼음에 봉인된 화염의 마녀",
+        "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시: </color>만약 부착 캐릭터의 HP가 15pt 이하라면, 해당 효과가 제거된다.<br><color style='color:#FFFFFFFF'>부착 캐릭터가 처치될 시: </color>해당 효과가 제거되고, 해당 캐릭터가 <color style='color:#FFFFFFFF'>처치 면역</color> 및 HP를 1pt 회복한다.<br><color style='color:#FFFFFFFF'>해당 효과가 제거될 시: </color>부착 캐릭터가 <color style='color:#FFFFFFFF'>「사그라든 화염의 마녀」</color> 형태로 전환된다.",
         "Tag": [],
         "Cost": {}
     },
     "121024": {
         "_id": 121024,
-        "Name": "Ice-Sealed Crimson Witch of Embers",
-        "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase starts:</color> If the attached character has no more than 25 HP, remove this effect.<br><color style='color:#FFFFFFFF'>When attached character is defeated:</color> Remove this effect, ensure that character <color style='color:#FFFFFFFF'>Immunity to Defeat</color> and heal them to 1 HP.<br><color style='color:#FFFFFFFF'>When this effect is removed:</color> Attached character will transform into the <color style='color:#FFFFFFFF'>Crimson Witch of Embers</color> state.",
+        "Name": "얼음에 봉인된 화염의 마녀",
+        "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시: </color>만약 부착 캐릭터의 HP가 25pt 이하라면, 해당 효과가 제거된다.<br><color style='color:#FFFFFFFF'>부착 캐릭터가 처치될 시: </color>해당 효과가 제거되고, 해당 캐릭터가 <color style='color:#FFFFFFFF'>처치 면역</color> 및 HP를 1pt 회복한다.<br><color style='color:#FFFFFFFF'>해당 효과가 제거될 시: </color>부착 캐릭터가 <color style='color:#FFFFFFFF'>「사그라든 화염의 마녀」</color> 형태로 전환된다.",
         "Tag": [],
         "Cost": {}
     },
     "163011": {
         "_id": 163011,
-        "Name": "Blazing Heat",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deals 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> to attached character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color><br>When attached character has <color style='color:#FFFFFFFF'>Sheer Cold</color> attached, remove this effect.",
+        "Name": "작열",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계: </color>부착 캐릭터에게 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color><br>부착 캐릭터에 <color style='color:#FFFFFFFF'>혹한</color>이 부착될 시, 해당 효과는 제거된다.",
         "Tag": [],
         "Cost": {}
     },
     "121031": {
         "_id": 121031,
-        "Name": "Overwhelming Ice",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character uses a Normal Attack:</color> Deal 1 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color> to all opposing characters on standby </color>. <br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "흩어지는 얼음송곳",
+        "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 일반 공격 시:</color> 모든 적 대기 캐릭터에게 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>관통 피해</color></color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "121033": {
         "_id": 121033,
-        "Name": "Piercing Iceridge",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> to the opposing <color style='color:#FFFFFFFF'>Character Closest to Your Current Active Character</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "찌르는 얼음가시",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> 적군 중 <color style='color:#FFFFFFFF'>아군 출전 캐릭터와 가장 가까운 캐릭터</color>에게 [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "121034": {
         "_id": 121034,
-        "Name": "Cryo Crystal Core",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 1 HP.",
+        "Name": "얼음수정 코어",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 처치될 시:</color> 해당 효과가 제거되며, 캐릭터 <color style='color:#FFFFFFFF'>처치 면역</color> 및 해당 캐릭터의 HP를 1pt 회복한다.",
         "Tag": [],
         "Cost": {}
     },
     "121035": {
         "_id": 121035,
-        "Name": "Cryo Crystal Core",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 6 HP.",
+        "Name": "얼음수정 코어",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 처치될 시:</color> 해당 효과가 제거되며, 캐릭터 <color style='color:#FFFFFFFF'>처치 면역</color> 및 해당 캐릭터의 HP를 6pt 회복한다.",
         "Tag": [],
         "Cost": {}
     },
     "121036": {
         "_id": 121036,
-        "Name": "Cryo Crystal Core",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 10 HP.",
+        "Name": "얼음수정 코어",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 처치될 시:</color> 해당 효과가 제거되며, 캐릭터 <color style='color:#FFFFFFFF'>처치 면역</color> 및 해당 캐릭터의 HP를 10pt 회복한다.",
         "Tag": [],
         "Cost": {}
     },
     "122010": {
         "_id": 122010,
-        "Name": "Oceanid Mimic",
-        "Desc": "There are 3 kinds of Oceanid Mimics in total, and up 2 kinds can exist at once:<br><color style='color:#FFFFFFFF'>Squirrel</color>: Deal 2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> at the End Phase. 2 Usages.<br><color style='color:#FFFFFFFF'>Raptor</color>: Deal 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> at the End Phase. 3 Usages.<br><color style='color:#FFFFFFFF'>Frog</color>: Can take 1 DMG for active character. 1 Usage. Once this effect is depleted, deal 2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> during the End Phase.",
+        "Name": "물의 환형",
+        "Desc": "「물의 환형」 총 3종, 동시에 최대 2개 존재 가능:<br><color style='color:#FFFFFFFF'>다람쥐</color>: 종료 단계에서 [b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>를 2pt 준다. 2회 사용 가능<br><color style='color:#FFFFFFFF'>솔개</color>: 종료 단계에서 [b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>를 1pt 준다. 3회 사용 가능<br><color style='color:#FFFFFFFF'>개구리</color>: 출전 캐릭터가 받은 피해를 1pt 상쇄한다. 1회 사용 가능, 소진 후 종료 단계에서 [b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>를 2pt 준다.",
         "Tag": [],
         "Cost": {}
     },
     "122021": {
         "_id": 122021,
-        "Name": "Refraction",
-        "Desc": "The character to which this is attached takes +1 Hydro DMG.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color><br>(Only one such status can be applied on the same side at a time)",
+        "Name": "깨진 물빛 거울",
+        "Desc": "부착 캐릭터가 받는 물 원소 피해+1pt<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color><br>(해당 상태는 한쪽에 하나만 존재할 수 있다)",
         "Tag": [],
         "Cost": {}
     },
     "123011": {
         "_id": 123011,
-        "Name": "Stealth",
-        "Desc": "The character to which this is attached takes -1 DMG and deals +1 DMG.<br><color style='color:#FFFFFFFF'>Usage(s)</color>: 2",
+        "Name": "잠행",
+        "Desc": "부착 캐릭터가 받는 피해-1pt, 주는 피해+1pt<br><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2",
         "Tag": [],
         "Cost": {}
     },
     "123012": {
         "_id": 123012,
-        "Name": "Stealth",
-        "Desc": "The character to which this is attached takes -1 DMG and deals +1 DMG.<br><color style='color:#FFFFFFFF'>Usage(s)</color>: 3<br>The character to which this is attached has their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.",
+        "Name": "잠행",
+        "Desc": "부착 캐릭터가 받는 피해-1pt, 주는 피해+1pt<br><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3<br>부착 캐릭터가 주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>로 전환된다.",
         "Tag": [],
         "Cost": {}
     },
     "123021": {
         "_id": 123021,
-        "Name": "Darkfire Furnace",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>, deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to all opposing characters on standby.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "어둠의 불꽃 노심",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 1pt 주고 모든 적 대기 캐릭터에게 <color style='color:#FFFFFFFF'>관통 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "123022": {
         "_id": 123022,
-        "Name": "Fiery Rebirth",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 3 HP.",
+        "Name": "다시 태어난 불꽃",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 처치될 시:</color> 해당 효과가 제거되며, 캐릭터 <color style='color:#FFFFFFFF'>처치 면역</color> 및 해당 캐릭터의 HP를 3pt 회복한다.",
         "Tag": [],
         "Cost": {}
     },
     "123023": {
         "_id": 123023,
-        "Name": "Shield of Surging Flame",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes no DMG</color>.<br>This status will provide 2 instances of <color style='color:#FF9999FF'>Pyro Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this effect will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> and take 6 <color style='color:#FFFFFFFF'>Piercing DMG</color> at the End Phase.<br>While this effect is active, character deals +1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.",
+        "Name": "넘치는 불의 보호막",
+        "Desc": "부착 캐릭터는 <color style='color:#FFFFFFFF'>모든 피해에 면역</color>된다.<br>해당 상태는 <color style='color:#FF9999FF'>불 원소 부착</color>을 2회 제공한다(원소 반응으로 소모 가능): 소진 후 해당 효과를 제거하고 부착 캐릭터는 <color style='color:#FFFFFFFF'>스킬을 사용할 수 없다</color>. 또한 종료 단계에서 <color style='color:#FFFFFFFF'>관통 피해</color>를 6pt 받는다.<br>해당 효과가 존재하는 동안: 캐릭터가 주는 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>+1pt",
         "Tag": [],
         "Cost": {}
     },
     "123031": {
         "_id": 123031,
-        "Name": "Spirit of Omen: Pyro Scorpion",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>When entering play, when the Action Phase starts:</color> Attach Pyro Scorpion: Guardian Stance to your Eremite Scorching Loremaster. (When Spirit of Omen: Pyro Scorpion is in play, the character will take -1 DMG, once per Round.)",
+        "Name": "악령 · 마의 화염 전갈",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color><br><color style='color:#FFFFFFFF'>필드 입장 및 행동 단계 시작 시:</color> 아군 도금 여단 · 모래의 이야기꾼에게 마의 화염 전갈 · 방어를 부착한다. (악령 · 마의 화염 전갈이 필드에 있을 시, 턴마다 1회씩 캐릭터가 받는 피해-1pt)",
         "Tag": [],
         "Cost": {}
     },
     "123032": {
         "_id": 123032,
-        "Name": "Spirit of Omen: Pyro Scorpion",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>. If Eremite Scorching Loremaster has already used a <color style='color:#FFFFFFFF'>Normal Attack</color> or <color style='color:#FFFFFFFF'>Elemental Skill</color>, this DMG is increased by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>When entering play, when the Action Phase starts:</color> Attach Pyro Scorpion: Guardian Stance to your Eremite Scorching Loremaster. (Twice per Round when Spirit of Omen: Pyro Scorpion is in play, it will cause the character to take -1 DMG.)",
+        "Name": "악령 · 마의 화염 전갈",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계: </color>[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 1pt 준다. 만약 이번 턴에 도금 여단 · 모래의 이야기꾼이 <color style='color:#FFFFFFFF'>「일반 공격」</color> 혹은 <color style='color:#FFFFFFFF'>「원소전투 스킬」</color>을 사용했을 경우, 이번 피해+1pt<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color><br><color style='color:#FFFFFFFF'>필드 입장 및 행동 단계 시작 시:</color> 아군 도금 여단 · 모래의 이야기꾼에게 마의 화염 전갈 · 방어를 부착한다. (악령 · 마의 화염 전갈이 필드에 있을 때 턴마다 최대 두 번 캐릭터가 받는 피해-1pt)",
         "Tag": [],
         "Cost": {}
     },
     "123033": {
         "_id": 123033,
-        "Name": "Pyro Scorpion: Guardian Stance",
-        "Desc": "When <color style='color:#FFFFFFFF'>Spirit of Omen: Pyro Scorpion is on the field: </color>the equipping character takes -1 DMG. (Once each Round)",
+        "Name": "마의 화염 전갈 · 방어",
+        "Desc": "<color style='color:#FFFFFFFF'>악령 · 마의 화염 전갈이 필드에 있을 시:</color> 부착 캐릭터가 받는 피해-1pt(턴당 1회)",
         "Tag": [],
         "Cost": {}
     },
     "123034": {
         "_id": 123034,
-        "Name": "Pyro Scorpion: Guardian Stance",
-        "Desc": "When <color style='color:#FFFFFFFF'>Spirit of Omen: Pyro Scorpion is on the field: </color>the equipping character takes -1 DMG. (Max twice each Round)",
+        "Name": "마의 화염 전갈 · 방어",
+        "Desc": "<color style='color:#FFFFFFFF'>악령 · 마의 화염 전갈이 필드에 있을 시:</color> 부착 캐릭터가 받는 피해-1pt(턴당 최대 2회)",
         "Tag": [],
         "Cost": {}
     },
     "124013": {
         "_id": 124013,
-        "Name": "Chains of Warding Thunder",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>When this Summon is on the field:</color> Your opponent will have to spend 1 additional Elemental Die when performing \"Switch Character.\" (Once per Round)",
+        "Name": "번개 사슬 봉인",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계: </color>[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color><br><color style='color:#FFFFFFFF'>해당 소환물이 필드에 있을 시: </color>상대가 「캐릭터 교체」 행동을 할 때 원소 주사위 소모 개수+1 (턴당 1회)",
         "Tag": [],
         "Cost": {}
     },
     "124014": {
         "_id": 124014,
-        "Name": "Electro Crystal Core",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 1 HP.",
+        "Name": "번개수정 코어",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 처치될 시:</color> 해당 효과가 제거되며, 캐릭터 <color style='color:#FFFFFFFF'>처치 면역</color> 및 해당 캐릭터의 HP를 1pt 회복한다.",
         "Tag": [],
         "Cost": {}
     },
     "124015": {
         "_id": 124015,
-        "Name": "Electro Crystal Core",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 6 HP.",
+        "Name": "번개수정 코어",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 처치될 시:</color> 해당 효과가 제거되며, 캐릭터 <color style='color:#FFFFFFFF'>처치 면역</color> 및 해당 캐릭터의 HP를 6pt 회복한다.",
         "Tag": [],
         "Cost": {}
     },
     "124016": {
         "_id": 124016,
-        "Name": "Electro Crystal Core",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 10 HP.",
+        "Name": "번개수정 코어",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 처치될 시:</color> 해당 효과가 제거되며, 캐릭터 <color style='color:#FFFFFFFF'>처치 면역</color> 및 해당 캐릭터의 HP를 10pt 회복한다.",
         "Tag": [],
         "Cost": {}
     },
     "124021": {
         "_id": 124021,
-        "Name": "Lightning Strike Probe",
-        "Desc": "<color style='color:#FFFFFFFF'>After a character on whose side of the field this card is on uses a Skill:</color> Attach <color style='color:#FFFFFFFF'>Lightning Rod</color> to the active character on that side. (Once per Round)",
+        "Name": "뇌정 탐침",
+        "Desc": "<color style='color:#FFFFFFFF'>소속 진영 캐릭터가 스킬 사용 후: </color>소속 진영 출전 캐릭터에게 <color style='color:#FFFFFFFF'>뇌명 탐지</color>를 부착한다. (턴당 1회)",
         "Tag": [],
         "Cost": {}
     },
     "124022": {
         "_id": 124022,
-        "Name": "Lightning Rod",
-        "Desc": "<color style='color:#FFFFFFFF'>When the attached character takes DMG from Thunder Manifestation or its summons:</color> Remove this state, cause this DMG instance to increase by 1.<br>(Only one of this status can exist on the field at once. Some of Thunder Manifestation's skills will target the character to which this is attached.)",
+        "Name": "뇌명 탐지",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 뇌음의 권현 및 그의 소환물이 주는 피해를 받을 시:</color> 해당 상태를 제거하고 이번에 받은 피해+1pt<br>(해당 상태는 한쪽 필드마다 하나씩만 존재할 수 있다. 뇌음의 권현의 일부 스킬은 부착 캐릭터를 목표로 한다)",
         "Tag": [],
         "Cost": {}
     },
     "124023": {
         "_id": 124023,
-        "Name": "Thundering Shackles",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deals 3 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color> to the opposing character affected by <color style='color:#FFFFFFFF'>Lightning Rod</color>. (If there are no eligible opposing characters, deals DMG to the active character instead)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "속박의 천둥",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계: </color><color style='color:#FFFFFFFF'>뇌명 탐지</color>가 부착된 적 캐릭터에게 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 3pt 준다. (조건에 맞는 적 캐릭터가 없을 시 출전 캐릭터에게 피해를 준다)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "124031": {
         "_id": 124031,
-        "Name": "Resonant Coral Orb",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "공명 진주",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "124032": {
         "_id": 124032,
-        "Name": "Fontemer Pearl",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached takes DMG:</color> Negate 1 DMG. Once per Round, <color style='color:#FFFFFFFF'>Usage(s)</color> will not be used when negating DMG from Summons.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>When you declare the end of your Round:</color> If the character to which this is attached is the active character, draw 1 card.",
+        "Name": "원류바다 진주",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 피해를 받을 시: </color>피해를 1pt 상쇄한다. 소환물이 주는 피해를 상쇄할 때 턴마다 1회씩 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>를 소모하지 않는다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color><br><color style='color:#FFFFFFFF'>아군 종료 선언 시: </color>부착 캐릭터가 「출전 캐릭터」인 경우 카드를 1장 드로우한다.",
         "Tag": [],
         "Cost": {}
     },
     "124033": {
         "_id": 124033,
-        "Name": "Fontemer Pearl",
-        "Desc": "<color style='color:#FFFFFFFF'>When character to which this is attached takes DMG:</color> Negate 1 DMG. <color style='color:#FFFFFFFF'>Usage(s)</color> will not be used when negating DMG from Summons.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>During this effect's duration:</color> The character to which this is attached deals +1 DMG.",
+        "Name": "원류바다 진주",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 피해를 받을 시: </color>피해를 1pt 상쇄한다. 소환물이 주는 피해를 상쇄할 때 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>를 소모하지 않는다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color><br><color style='color:#FFFFFFFF'>해당 상태가 존재하는 동안: </color>부착 캐릭터가 주는 피해+1pt",
         "Tag": [],
         "Cost": {}
     },
     "124041": {
         "_id": 124041,
-        "Name": "Electro Cicin",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color> (Can stack, max 3 stacks)<br><color style='color:#FFFFFFFF'>After your opponent plays a total of 3 Action Cards:</color> This card gains 1 <color style='color:#FFFFFFFF'>Usage(s)</color>. (Max 3 stacks)<br><color style='color:#FFFFFFFF'>After Fatui Electro Cicin Mage takes Elemental Reaction DMG:</color>This card loses 1 <color style='color:#FFFFFFFF'>Usage(s)</color>.",
+        "Name": "번개 치친",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color><br><color style='color:#FFFFFFFF'>적이 행동 카드를 누적 3장 사용 후: </color>이 카드의 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>+1 (최대 중첩수: 3회)<br><color style='color:#FFFFFFFF'>우인단 · 번개 치친 술사가 원소 반응 피해를 받은 후: </color>이 카드의 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>-1",
         "Tag": [],
         "Cost": {}
     },
     "124042": {
         "_id": 124042,
-        "Name": "Electro Cicin Shield",
-        "Desc": "Provides <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point</color> for your active character.<br><color style='color:#FFFFFFFF'>When created:</color> If you have <color style='color:#FFFFFFFF'>Electro Cicin</color> on the field, additionally increase [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> by the amount of <color style='color:#FFFFFFFF'>Usage(s)</color> it has. (Adds a maximum of 3 additional [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>)",
+        "Name": "번개 치친 보호막",
+        "Desc": "아군 출전 캐릭터에게 <color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 1pt</color> 제공한다.<br><color style='color:#FFFFFFFF'>생성 시:</color> 아군 필드에 <color style='color:#FFFFFFFF'>번개 치친</color>이 있을 경우, 번개 치친의 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>만큼 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 추가로 제공한다. ([b]4007[a]<color style='color:#FFFFFFFF'>보호막</color> 최대 3pt 추가 제공)",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -8273,99 +8274,99 @@ var _ref = {
     },
     "125011": {
         "_id": 125011,
-        "Name": "Shadowsword: Lone Gale",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "검의 그림자 · 고독한 바람",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "125012": {
         "_id": 125012,
-        "Name": "Shadowsword: Galloping Frost",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "검의 그림자 · 흩날리는 서리",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "125021": {
         "_id": 125021,
-        "Name": "Total Collapse",
-        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> or [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color> taken by the affected character increased by 2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "와해",
+        "Desc": "부착 캐릭터가 받는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color> 또는 [b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color>+2pt<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "126011": {
         "_id": 126011,
-        "Name": "Stonehide",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached takes DMG: </color>Decrease 1 DMG. When [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color> is decreased, consume 1 additional <color style='color:#FFFFFFFF'>Usage(s)</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "바위 투구",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 피해를 받을 시:</color> 피해를 1pt 상쇄한다. [b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color>를 상쇄 시, 추가로 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>를 1회 소모한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "126012": {
         "_id": 126012,
-        "Name": "Stone Force",
-        "Desc": "The character to which this is attached has their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br><color style='color:#FFFFFFFF'>Once per Round:</color> The character deals +1 DMG.<br><color style='color:#FFFFFFFF'>Once the Stonehide attached to the character is removed</color>, this status will be removed alongside it.",
+        "Name": "견고한 바위의 힘",
+        "Desc": "캐릭터가 주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color>로 전환된다.<br><color style='color:#FFFFFFFF'>턴당 1회: </color>캐릭터가 주는 피해+1pt<br><color style='color:#FFFFFFFF'>캐릭터에게 부착된 「바위 투구」가 제거된 후:</color> 해당 상태도 제거된다.",
         "Tag": [],
         "Cost": {}
     },
     "126021": {
         "_id": 126021,
-        "Name": "Stone Facets: Elemental Absorption",
-        "Desc": "The character can absorb the power of the Elements, including [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color>/[b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>/[b]2103[a]<color style='color:#FF9999FF'>Pyro</color>/[b]2104[a]<color style='color:#FFACFFFF'>Electro</color>, and then based on the element absorbed, gain the skills [b]2101[a]<color style='color:#99FFFFFF'>Frostspike Wave</color>/[b]2102[a]<color style='color:#80C0FFFF'>Torrential Rebuke</color>/[b]2103[a]<color style='color:#FF9999FF'>Blazing Rebuke</color>/[b]2104[a]<color style='color:#FFACFFFF'>Thunderstorm Wave</color>. (The character can only have one Elemental Type absorbed at once, and this status will record the Elemental Type previously absorbed)<br><color style='color:#FFFFFFFF'>After this character absorbs an element of a different type than the currently absorbed element:</color> Generate 1 Elemental Die of the same type as the Element that was just absorbed.",
+        "Name": "반암백상 · 원소 흡수",
+        "Desc": "캐릭터는 [b]2101[a]<color style='color:#99FFFFFF'>얼음</color>/[b]2102[a]<color style='color:#80C0FFFF'>물</color>/[b]2103[a]<color style='color:#FF9999FF'>불</color>/[b]2104[a]<color style='color:#FFACFFFF'>번개</color> 원소의 힘을 흡수할 수 있다. 흡수한 원소 타입에 따라 다음 스킬을 획득한다: [b]2101[a]<color style='color:#99FFFFFF'>서리 습격</color>/[b]2102[a]<color style='color:#80C0FFFF'>격류 범람</color>/[b]2103[a]<color style='color:#FF9999FF'>화염 잠식</color>/[b]2104[a]<color style='color:#FFACFFFF'>벼락 습격</color>(캐릭터는 동시에 한 가지 원소만 흡수할 수 있으며 해당 상태는 캐릭터가 이미 흡수한 원소 타입의 개수를 기록한다)<br><color style='color:#FFFFFFFF'>캐릭터가 현재와 다른 원소 한 가지를 흡수한 후: </color>흡수한 원소 타입의 원소 주사위를 1개 생성한다.",
         "Tag": [],
         "Cost": {}
     },
     "126022": {
         "_id": 126022,
-        "Name": "Stone Facets: Elemental Crystallization",
-        "Desc": "<color style='color:#FFFFFFFF'>After this character takes [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color>/[b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>/[b]2103[a]<color style='color:#FF9999FF'>Pyro</color>/[b]2104[a]<color style='color:#FFACFFFF'>Electro</color> DMG:</color> If this character currently has not absorbed the power of this element, remove this effect, and then this character performs <color style='color:#FFFFFFFF'>Elemental Absorption</color>.",
+        "Name": "반암백상 · 원소 응결",
+        "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 [b]2101[a]<color style='color:#99FFFFFF'>얼음</color>/[b]2102[a]<color style='color:#80C0FFFF'>물</color>/[b]2103[a]<color style='color:#FF9999FF'>불</color>/[b]2104[a]<color style='color:#FFACFFFF'>번개</color> 원소 피해를 받은 후: </color>캐릭터가 현재 해당 원소의 힘을 흡수하지 않았을 경우, 해당 상태를 제거하고 캐릭터는 <color style='color:#FFFFFFFF'>해당 원소의 힘을 흡수</color>한다.",
         "Tag": [],
         "Cost": {}
     },
     "127011": {
         "_id": 127011,
-        "Name": "Radical Vitality",
-        "Desc": "<color style='color:#FFFFFFFF'>After this character deals or takes Elemental DMG:</color> Gain 1 stack of Radical Vitality. (Max 3 stacks)<br><color style='color:#FFFFFFFF'>End Phase:</color> If Radical Vitality stacks reach maximum, they will be cleared and the character will lose all Energy.",
+        "Name": "활력 자극",
+        "Desc": "<color style='color:#FFFFFFFF'>본 캐릭터가 원소 피해를 주거나 피격된 후:</color> 「활력 자극」이 1스택 누적된다. (최대 중첩수: 3스택)<br><color style='color:#FFFFFFFF'>종료 단계:</color> 「활력 자극」이 최대 스택을 달성하면 스택이 전부 사라지며 캐릭터는 모든 원소 에너지를 잃는다.",
         "Tag": [],
         "Cost": {}
     },
     "130041": {
         "_id": 130041,
-        "Name": "Seeking Missile",
-        "Desc": "<color style='color:#FFFFFFFF'>After a character switch takes place in this play area:</color> Deal 2 [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> to the character activated.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "유도폭탄",
+        "Desc": "<color style='color:#FFFFFFFF'>소속 진영 캐릭터 교체 후:</color> 교체 후 출전한 캐릭터에게 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>를 2pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "131011": {
         "_id": 131011,
-        "Name": "Hoarfrost Greatshield",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes -2 DMG</color>.<br>This status will provide 2 instances of <color style='color:#99FFFFFF'>Cryo Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed.",
+        "Name": "얼음 방패",
+        "Desc": "부착 캐릭터가 <color style='color:#FFFFFFFF'>받는 피해-2pt</color><br>해당 상태는 <color style='color:#99FFFFFF'>얼음 원소 부착</color>을 2회 제공한다(원소 반응으로 소모 가능): 소진 후 해당 상태를 제거한다.",
         "Tag": [],
         "Cost": {}
     },
     "131031": {
         "_id": 131031,
-        "Name": "Cryo Shield",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes no DMG</color> and cannot be Frozen.<br>This status will provide 2 instances of <color style='color:#99FFFFFF'>Cryo Infusion</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "얼음 원소 보호막",
+        "Desc": "카드가 부착된 캐릭터는 <color style='color:#FFFFFFFF'>모든 피해에 면역</color>되고 빙결되지 않는다.<br>해당 상태에서 <color style='color:#99FFFFFF'>얼음 원소 부착</color>을 2회 제공한다(원소 반응으로 소모 가능): 소진 후 해당 상태를 제거하고 카드가 부착된 캐릭터는 이번 턴이 종료될 때까지 <color style='color:#FFFFFFFF'>스킬을 사용할 수 없다</color>.",
         "Tag": [],
         "Cost": {}
     },
     "131041": {
         "_id": 131041,
-        "Name": "Cryo Elemental Equipment",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes -1 DMG and deals +1 DMG</color>.<br>This status will provide 2 instances of <color style='color:#99FFFFFF'>Cryo Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "원소 무장 · 얼음",
+        "Desc": "부착 캐릭터가<color style='color:#FFFFFFFF'> 받는 피해-1pt, 주는 피해+1pt</color><br>해당 상태는 <color style='color:#99FFFFFF'>얼음 원소 부착</color>을 2회 제공한다(원소 반응으로 소모 가능): 소진 후 해당 상태를 제거하고 부착 캐릭터는 이번 턴이 종료될 때까지 <color style='color:#FFFFFFFF'>스킬을 사용할 수 없다</color>.",
         "Tag": [],
         "Cost": {}
     },
     "131061": {
         "_id": 131061,
-        "Name": "Spirit of Omen's Awakening: Cryo",
-        "Desc": "Character <color style='color:#FFFFFFFF'>deals +1 DMG</color> and converts [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> to [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br>This character takes +2 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "악령 소생 · 얼음",
+        "Desc": "캐릭터가 <color style='color:#FFFFFFFF'>주는 피해+1pt</color> 및 주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>로 전환된다.<br>이 캐릭터가 받는 [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>+2pt<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "131071": {
         "_id": 131071,
-        "Name": "Elemental Lifeform: Cryo",
-        "Desc": "This character always has [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color> applied, and it is immune to [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> and Frozen.",
+        "Name": "원소 생명체 · 얼음",
+        "Desc": "캐릭터에게 항상 [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소</color>를 부착하고 [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>와 빙결을 받지 않는다.",
         "Tag": [
             "GCG_TAG_IMMUNE_FREEZING"
         ],
@@ -8373,8 +8374,8 @@ var _ref = {
     },
     "132011": {
         "_id": 132011,
-        "Name": "Mist Bubble",
-        "Desc": "<color style='color:#FFFFFFFF'>The character cannot use Skills</color>.<br>End Phase: Remove this status, deal 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> to the character to which it is attached.",
+        "Name": "물방울",
+        "Desc": "<color style='color:#FFFFFFFF'>캐릭터 스킬 사용 불가</color><br>종료 단계: 해당 상태를 제거하고 부착 캐릭터에게 [b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>를 1pt 준다.",
         "Tag": [
             "GCG_TAG_FORBIDDEN_ATTACK"
         ],
@@ -8382,50 +8383,50 @@ var _ref = {
     },
     "132012": {
         "_id": 132012,
-        "Name": "Hydro Shield",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes no DMG</color>.<br>This status will provide 2 instances of <color style='color:#80C0FFFF'>Hydro Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "물 원소 보호막",
+        "Desc": "부착 캐릭터는 <color style='color:#FFFFFFFF'>모든 피해에 면역</color>된다.<br>해당 상태는 <color style='color:#80C0FFFF'>물 원소 부착</color>을 2회 제공한다(원소 반응으로 소모 가능): 소진 후 해당 상태를 제거하고 부착 캐릭터는 이번 턴이 종료될 때까지 <color style='color:#FFFFFFFF'>스킬을 사용할 수 없다</color>.",
         "Tag": [],
         "Cost": {}
     },
     "132021": {
         "_id": 132021,
-        "Name": "Healing Rain",
-        "Desc": "End Phase: Heal your active character for 1 HP and grant both sides' active characters <color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "치유의 비",
+        "Desc": "종료 단계: 아군 출전 캐릭터의 HP를 1pt 치유한다. 양측 출전 캐릭터에게 <color style='color:#80C0FFFF'>[b]2102[a]물 원소 부착</color> 효과를 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "132031": {
         "_id": 132031,
-        "Name": "Hydro Elemental Equipment",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes -1 DMG and deals +1 Healing</color>.<br>This status will provide 2 instances of <color style='color:#80C0FFFF'>Hydro Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "원소 무장 · 물",
+        "Desc": "부착 캐릭터가 <color style='color:#FFFFFFFF'>받는 피해-1pt, 제공하는 치유량+1pt</color><br>해당 상태는 <color style='color:#80C0FFFF'>물 원소 부착</color>을 2회 제공한다(원소 반응으로 소모 가능): 소진 후 해당 상태를 제거하고 부착 캐릭터는 이번 턴이 종료될 때까지 <color style='color:#FFFFFFFF'>스킬을 사용할 수 없다</color>.",
         "Tag": [],
         "Cost": {}
     },
     "132041": {
         "_id": 132041,
-        "Name": "Elemental Lifeform: Hydro",
-        "Desc": "This character always has [b]2102[a]<color style='color:#80C0FFFF'>Hydro</color> applied, and it is immune to [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.",
+        "Name": "원소 생명체 · 물",
+        "Desc": "캐릭터에게 항상 [b]2102[a]<color style='color:#80C0FFFF'>물 원소</color>를 부착하고 [b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>를 받지 않는다.",
         "Tag": [],
         "Cost": {}
     },
     "132051": {
         "_id": 132051,
-        "Name": "Terrain Advantage",
-        "Desc": "The character <color style='color:#FFFFFFFF'>deals +1 DMG</color>. (This character will permanently change its State if they take [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> or [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.)",
+        "Name": "지상 우세",
+        "Desc": "캐릭터가 <color style='color:#FFFFFFFF'>주는 피해+1pt</color> (캐릭터가 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color> 또는 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 입은 후, 현재 상태를 영구적으로 전환한다)",
         "Tag": [],
         "Cost": {}
     },
     "132061": {
         "_id": 132061,
-        "Name": "Spirit of Omen's Awakening: Hydro",
-        "Desc": "Character <color style='color:#FFFFFFFF'>deals +1 DMG</color> and converts [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> to [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br>This character takes +2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "악령 소생 · 물",
+        "Desc": "캐릭터가 <color style='color:#FFFFFFFF'>주는 피해+1pt</color> 및 주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>로 전환된다.<br>이 캐릭터가 받는 [b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>+2pt<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "132071": {
         "_id": 132071,
-        "Name": "Gurgling Bubble",
-        "Desc": "<color style='color:#FFFFFFFF'>Character cannot use Skills.</color> (Lasts until the end of this Round)",
+        "Name": "꾸륵 물방울",
+        "Desc": "<color style='color:#FFFFFFFF'>캐릭터 스킬 사용 불가</color> (턴 종료까지 지속)",
         "Tag": [
             "GCG_TAG_FORBIDDEN_ATTACK"
         ],
@@ -8433,92 +8434,92 @@ var _ref = {
     },
     "133011": {
         "_id": 133011,
-        "Name": "Pyro Shield",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes no DMG</color>.<br>This status will provide 2 instances of <color style='color:#FF9999FF'>Pyro Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "불 원소 보호막",
+        "Desc": "부착 캐릭터는 <color style='color:#FFFFFFFF'>모든 피해에 면역</color>된다.<br>해당 상태는 <color style='color:#FF9999FF'>불 원소 부착</color>을 2회 제공한다(원소 반응으로 소모 가능): 소진 후 해당 상태를 제거하고 부착 캐릭터는 이번 턴이 종료될 때까지 <color style='color:#FFFFFFFF'>스킬을 사용할 수 없다</color>.",
         "Tag": [],
         "Cost": {}
     },
     "133021": {
         "_id": 133021,
-        "Name": "Flowfire Edge",
-        "Desc": "The [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> this character deals is converted to [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "흐르는 화염의 검",
+        "Desc": "캐릭터가 주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>로 전환된다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "133031": {
         "_id": 133031,
-        "Name": "Kamuna Talisman: Pyro",
-        "Desc": "The [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> this character deals is converted to [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "카무나 소환 부적 · 염",
+        "Desc": "캐릭터가 주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>로 전환된다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "133032": {
         "_id": 133032,
-        "Name": "Final Frenzy",
-        "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase starts:</color> If the character to which this is attached is the active character, remove this status, heal this character for 3 HP, and re-attach <color style='color:#FFFFFFFF'>Kamuna Talisman: Pyro</color>.",
+        "Name": "광란의 궁지",
+        "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 만약 부착 캐릭터가 출전 중이면 해당 상태를 제거 후, 해당 캐릭터 HP를 3pt 치유하고 <color style='color:#FFFFFFFF'>카무나 소환 부적 · 염</color>이 다시 부착된다.",
         "Tag": [],
         "Cost": {}
     },
     "133061": {
         "_id": 133061,
-        "Name": "Pyro Elemental Equipment",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes -1 DMG and deals +1 DMG</color>.<br>This status will provide 2 instances of <color style='color:#FF9999FF'>Pyro Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "원소 무장 · 불",
+        "Desc": "부착 캐릭터가<color style='color:#FFFFFFFF'> 받는 피해-1pt, 주는 피해+1pt</color><br>해당 상태는 <color style='color:#FF9999FF'>불 원소 부착</color>을 2회 제공한다(원소 반응으로 소모 가능): 소진 후 해당 상태를 제거하고 부착 캐릭터는 이번 턴이 종료될 때까지 <color style='color:#FFFFFFFF'>스킬을 사용할 수 없다</color>.",
         "Tag": [],
         "Cost": {}
     },
     "134011": {
         "_id": 134011,
-        "Name": "Kamuna Talisman: Electro",
-        "Desc": "The [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> this character deals is converted to [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "카무나 소환 부적 · 황",
+        "Desc": "캐릭터가 주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>로 전환된다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "134012": {
         "_id": 134012,
-        "Name": "Final Frenzy",
-        "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase starts:</color> If the character to which this is attached is the active character, remove this status, heal this character for 3 HP, and re-attach <color style='color:#FFFFFFFF'>Kamuna Talisman: Electro</color>.",
+        "Name": "광란의 궁지",
+        "Desc": "<color style='color:#FFFFFFFF'>행동 단계 시작 시:</color> 만약 부착 캐릭터가 출전 중이면 해당 상태를 제거 후, 해당 캐릭터 HP를 3pt 치유하고 <color style='color:#FFFFFFFF'>카무나 소환 부적 · 황</color>이 다시 부착된다.",
         "Tag": [],
         "Cost": {}
     },
     "134031": {
         "_id": 134031,
-        "Name": "Ripple Electro Edge",
-        "Desc": "The [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> this character deals is converted to [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "흐르는 빛의 검",
+        "Desc": "캐릭터가 주는 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>로 전환된다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "134041": {
         "_id": 134041,
-        "Name": "Tanglebolt Ring",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "번개로 엮은 고리",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 2pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "134042": {
         "_id": 134042,
-        "Name": "Electro Shield",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes no DMG</color>.<br>This status will provide 2 instances of <color style='color:#FFACFFFF'>Electro Infusion</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "번개 원소 보호막",
+        "Desc": "부착 캐릭터는 <color style='color:#FFFFFFFF'>모든 피해에 면역</color>된다.<br>해당 상태는 <color style='color:#FFACFFFF'>번개 원소 부착</color>을 2회 제공한다(원소 반응으로 소모 가능): 소진 후 해당 상태를 제거하고 부착 캐릭터는 이번 턴이 종료될 때까지 <color style='color:#FFFFFFFF'>스킬을 사용할 수 없다</color>.",
         "Tag": [],
         "Cost": {}
     },
     "134061": {
         "_id": 134061,
-        "Name": "Elemental Lifeform: Electro",
-        "Desc": "This character always has [b]2104[a]<color style='color:#FFACFFFF'>Electro</color> applied, and it is immune to [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.",
+        "Name": "원소 생명체 · 번개",
+        "Desc": "캐릭터에게 항상 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소</color>를 부착하고 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 받지 않는다.",
         "Tag": [],
         "Cost": {}
     },
     "134071": {
         "_id": 134071,
-        "Name": "Electro Elemental Equipment",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes -1 DMG and deals +1 DMG</color>.<br>This status will provide 2 instances of <color style='color:#FFACFFFF'>Electro Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "원소 무장 · 번개",
+        "Desc": "부착 캐릭터가<color style='color:#FFFFFFFF'> 받는 피해-1pt, 주는 피해+1pt</color><br>해당 상태는 <color style='color:#FFACFFFF'>번개 원소 부착</color>을 2회 제공한다(원소 반응으로 소모 가능): 소진 후 해당 상태를 제거하고 부착 캐릭터는 이번 턴이 종료될 때까지 <color style='color:#FFFFFFFF'>스킬을 사용할 수 없다</color>.",
         "Tag": [],
         "Cost": {}
     },
     "134081": {
         "_id": 134081,
-        "Name": "Shield Block",
-        "Desc": "The next time this character acts, they will immediately use the Skill <color style='color:#FFFFFFFF'>Shield Slice</color>.<br><color style='color:#FFFFFFFF'>While preparing Shield Slice:</color> Grant 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points to this character.",
+        "Name": "방패 막기",
+        "Desc": "본 캐릭터가 다음 행동 시 바로 <color style='color:#FFFFFFFF'>방패 절단</color> 스킬을 사용한다.<br><color style='color:#FFFFFFFF'>방패 절단 준비 기간: </color>[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 2pt 제공해 이 캐릭터를 보호한다.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -8526,127 +8527,127 @@ var _ref = {
     },
     "134091": {
         "_id": 134091,
-        "Name": "Elemental Devourer",
-        "Desc": "After taking [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>, stack 1 level of Elemental Devourer. (Max 2 levels)<br>When 2 levels of Elemental Devourer have been gained, character deals +1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color> and takes +2 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.",
+        "Name": "마력의 갈증",
+        "Desc": "[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 받은 후, 「마력의 갈증」이 1단계 중첩된다. (최대 2단계까지 중첩 가능)<br>「마력의 갈증」 2단계 보유 시, 캐릭터가 주는 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>+1pt 및 받는 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>+2pt",
         "Tag": [],
         "Cost": {}
     },
     "135011": {
         "_id": 135011,
-        "Name": "Whirlwind",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "돌풍",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "135021": {
         "_id": 135021,
-        "Name": "Stormwind Barrier",
-        "Desc": "The next time this character acts, they will immediately use the Skill <color style='color:#FFFFFFFF'>Avenging Squall</color>.<br><color style='color:#FFFFFFFF'>While preparing this Skill:</color> Grant the character to which this is attached 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points. Meanwhile, if the character takes <color style='color:#80C0FFFF'>[b]2102[a]Hydro</color>/<color style='color:#FF9999FF'>[b]2103[a]Pyro</color>/<color style='color:#99FFFFFF'>[b]2101[a]Cryo</color>/<color style='color:#FFACFFFF'>[b]2104[a]Electro</color> DMG, Avenging Squall will deal +1 DMG and its DMG type will be converted to the corresponding Element as well.",
+        "Name": "선풍의 장벽",
+        "Desc": "본 캐릭터가 다음번 행동 시 바로 <color style='color:#FFFFFFFF'>역풍의 반격</color> 스킬을 사용한다.<br><color style='color:#FFFFFFFF'>역풍의 반격 준비 기간: </color>[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 2pt 제공하여 부착 캐릭터를 보호한다. 부착 캐릭터가 <color style='color:#80C0FFFF'>[b]2102[a]물</color>/<color style='color:#FF9999FF'>[b]2103[a]불</color>/<color style='color:#99FFFFFF'>[b]2101[a]얼음</color>/<color style='color:#FFACFFFF'>[b]2104[a]번개</color> 원소 피해를 입을 시, 준비한 역풍의 반격이 주는 피해가 1pt 증가하며 해당 원소 타입으로 전환된다.",
         "Tag": [],
         "Cost": {}
     },
     "136011": {
         "_id": 136011,
-        "Name": "Craggy Greatshield",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached takes DMG: </color>Decrease a maximum of 2 DMG. When [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color> is decreased, consume 1 additional <color style='color:#FFFFFFFF'>Usage(s)</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "바위 실드",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 피해를 받을 시:</color> 피해를 최대 2pt 상쇄한다. [b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color>를 상쇄 시, 추가로 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>를 1회 소모한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "136021": {
         "_id": 136021,
-        "Name": "Corrosion",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Apart from non-active characters who have no more than 3 HP, all of characters in this play area take 1 <color style='color:#FFFFFFFF'>Piercing DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 3 stacks.)",
+        "Name": "침식",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> HP가 3pt 이하인 대기 캐릭터를 제외한 모든 소속 진영 캐릭터가 <color style='color:#FFFFFFFF'>관통 피해</color>를 1pt 받는다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>(중첩 가능, 최대 중첩수: 3)",
         "Tag": [],
         "Cost": {}
     },
     "136022": {
         "_id": 136022,
-        "Name": "Elemental Devourer",
-        "Desc": "After taking [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>, stack 1 level of Elemental Devourer. (Max 2 levels)<br>When 2 levels of Elemental Devourer have been gained, character deals +1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color> and takes +2 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.",
+        "Name": "마력의 갈증",
+        "Desc": "[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color>를 받은 후, 「마력의 갈증」이 1단계 중첩된다. (최대 2단계까지 중첩 가능)<br>2단계 「마력의 갈증」 보유 시, 캐릭터가 주는 [b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color>+1pt, 받는 [b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color>+2pt",
         "Tag": [],
         "Cost": {}
     },
     "136031": {
         "_id": 136031,
-        "Name": "Rocky Pedestal",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active [b]3502[a]Hilichurl takes DMG: </color>Decreases DMG taken by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "바위 받침대",
+        "Desc": "<color style='color:#FFFFFFFF'>출전 중인 아군 「[b]3502[a]츄츄족」 캐릭터가 피해를 받을 시:</color> 피해를 1pt 상쇄한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "136041": {
         "_id": 136041,
-        "Name": "Geo Elemental Equipment",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached takes DMG: </color>Decrease 1 DMG. When [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color> is decreased, consume 1 additional <color style='color:#FFFFFFFF'>Usage(s)</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "원소 무장 · 바위",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 피해를 받을 시:</color> 피해를 1pt 상쇄한다. [b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color>를 상쇄 시, 추가로 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>를 1회 소모한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "136042": {
         "_id": 136042,
-        "Name": "Crystal Shield",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active character takes DMG: </color>Decrease DMG taken by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>When Geo Elemental Equipment leaves play:</color> Remove this effect.",
+        "Name": "바위 결정 보호막",
+        "Desc": "<color style='color:#FFFFFFFF'>아군 출전 캐릭터가 피해를 받을 시:</color> 피해를 1pt 상쇄한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color><br><color style='color:#FFFFFFFF'>원소 무장 · 바위가 필드를 떠날 시:</color> 해당 상태가 사라진다.",
         "Tag": [],
         "Cost": {}
     },
     "136051": {
         "_id": 136051,
-        "Name": "Spirit of Omen: Stone Drake",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deals 1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>When this Summon is in play, when Eremite Stone Enchanter takes DMG:</color> DMG received reduced by 2. Consume 1 additional <color style='color:#FFFFFFFF'>Usage(s)</color> when negating [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>. (Once per Round. Usage consumption required)",
+        "Name": "악령 · 마의 바위 도마뱀",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계: </color>[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color><br><color style='color:#FFFFFFFF'>해당 소환물이 필드에 있을 때, 도금 여단 · 마암역사가 피해를 받을 시: </color>피해를 2pt 상쇄한다. [b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color>를 상쇄 시, 추가로 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>를 1회 소모해야 한다. (턴당 1회, 사용 가능 횟수 소모 필요)",
         "Tag": [],
         "Cost": {}
     },
     "137011": {
         "_id": 137011,
-        "Name": "Aerial Superiority",
-        "Desc": "The character <color style='color:#FFFFFFFF'>takes -1 DMG</color>. (This character will permanently change its State if it takes [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> or [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.)",
+        "Name": "공중 우세",
+        "Desc": "캐릭터가 <color style='color:#FFFFFFFF'>받는 피해-1pt</color> (캐릭터가 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color> 또는 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 입은 후, 현재 상태를 영구적으로 전환한다)",
         "Tag": [],
         "Cost": {}
     },
     "137012": {
         "_id": 137012,
-        "Name": "Scorched",
-        "Desc": "After this character becomes Scorched, it will lose its original buff.",
+        "Name": "건조 상태",
+        "Desc": "캐릭터가 건조 상태가 되면 기존의 보너스 효과가 사라진다.",
         "Tag": [],
         "Cost": {}
     },
     "137013": {
         "_id": 137013,
-        "Name": "Activated",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> The character gains 1 Energy.<br><color style='color:#FFFFFFFF'>After the character goes down</color>: The opposing active character gains 1 Energy.",
+        "Name": "활력 상태",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> 캐릭터가 원소 에너지를 1pt 획득한다.<br><color style='color:#FFFFFFFF'>캐릭터가 전투 불능이 된 후:</color> 상대 출전 캐릭터가 원소 에너지를 1pt 획득한다.",
         "Tag": [],
         "Cost": {}
     },
     "137021": {
         "_id": 137021,
-        "Name": "Crudewood Greatshield",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes -2 DMG</color>.<br>This status will provide 2 instances of <color style='color:#7EC236FF'>Dendro Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed.",
+        "Name": "원목 방패",
+        "Desc": "부착 캐릭터가 <color style='color:#FFFFFFFF'>받는 피해-2pt</color><br>해당 상태는 <color style='color:#7EC236FF'>풀 원소 부착</color>을 2회 제공한다(원소 반응으로 소모 가능): 소진 후 해당 상태를 제거한다.",
         "Tag": [],
         "Cost": {}
     },
     "137031": {
         "_id": 137031,
-        "Name": "Vines",
-        "Desc": "<color style='color:#FFFFFFFF'>After a character switch takes place in this play area:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color> to the character activated.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "넝쿨",
+        "Desc": "<color style='color:#FFFFFFFF'>소속 진영 캐릭터 교체 후:</color> 교체 후 출전한 캐릭터에게 [b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "137041": {
         "_id": 137041,
-        "Name": "Delayed Fuse Munitions",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>, deal <color style='color:#FFFFFFFF'>1 <color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "지연 기폭 탄두",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>를 2pt 주고 모든 적 대기 캐릭터에게 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>관통 피해</color>를 1pt</color> 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "301102": {
         "_id": 301102,
-        "Name": "Millennial Movement: Farewell Song",
-        "Desc": "Your character deals 1 increased DMG.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "천년의 대악장 · 이별의 노래",
+        "Desc": "아군 캐릭터가 주는 피해+1pt<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>지속 턴</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "301201": {
         "_id": 301201,
-        "Name": "Unmovable Mountain",
-        "Desc": "Provides 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> to protect the equipped character.",
+        "Name": "변하지 않는 위상",
+        "Desc": "[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 2pt 제공해 부착 캐릭터를 보호한다.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -8654,57 +8655,57 @@ var _ref = {
     },
     "301018": {
         "_id": 301018,
-        "Name": "Strictly Prohibited",
-        "Desc": "Event Cards played on this side of the field this Round will be invalid.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "엄격한 금지령",
+        "Desc": "이번 턴에 소속 진영이 사용한 이벤트 카드를 무효화한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "303227": {
         "_id": 303227,
-        "Name": "Four-Leaf Sigil",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Switch to the attached character.",
+        "Name": "클로버 인장",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계: </color>부착 캐릭터로 교체된다.",
         "Tag": [],
         "Cost": {}
     },
     "401001": {
         "_id": 401001,
-        "Name": "Hot Potato",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses Skill: </color>This effect will be transferred to the opposing side and accumulate 1 point of Piping Hot (max 4 points). <color style='color:#FFFFFFFF'>End Phase: </color>Remove this effect and deal 2 [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> to the side where this effect is attached to. Each point of Piping Hot grants +1 DMG to this effect.",
+        "Name": "화끈화끈 폭탄",
+        "Desc": "<color style='color:#FFFFFFFF'>아군 캐릭터가 스킬 사용 후:</color> 해당 효과를 상대 진영에 전달하며, 「화끈화끈 열기」를 1pt 누적한다. (최대 4pt까지 누적) <color style='color:#FFFFFFFF'>종료 단계:</color> 해당 효과가 제거되며, 소속 진영의 출전 캐릭터에게 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>를 2pt 준다. 「화끈화끈 열기」 1pt당 해당 피해가 1pt 증가한다",
         "Tag": [],
         "Cost": {}
     },
     "402002": {
         "_id": 402002,
-        "Name": "Mutation Stone: Shaman's Treasure",
-        "Desc": "Your active character <color style='color:#FFFFFFFF'>deals +2 DMG</color>.",
+        "Name": "이변의 돌 · 샤먼의 소장품",
+        "Desc": "아군 출전 캐릭터가 <color style='color:#FFFFFFFF'>주는 피해+2pt</color>",
         "Tag": [],
         "Cost": {}
     },
     "402003": {
         "_id": 402003,
-        "Name": "Ignited Morale",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "사기 증가",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 처치될 시:</color> 해당 효과가 제거되며, 캐릭터 <color style='color:#FFFFFFFF'>처치 면역</color> 및 해당 캐릭터의 HP를 1pt 회복한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "402004": {
         "_id": 402004,
-        "Name": "Belligerence Unfettered",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "의지 상승",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 처치될 시:</color> 해당 효과가 제거되며, 캐릭터 <color style='color:#FFFFFFFF'>처치 면역</color> 및 해당 캐릭터의 HP를 1pt 회복한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "402005": {
         "_id": 402005,
-        "Name": "Blazing Will",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color> and heal them to 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "끓는 투지",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 처치될 시:</color> 해당 효과가 제거되며, 캐릭터 <color style='color:#FFFFFFFF'>처치 면역</color> 및 해당 캐릭터의 HP를 1pt 회복한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "402007": {
         "_id": 402007,
-        "Name": "Energy Revival",
-        "Desc": "This effect starts out with 3 Revival Phases. <color style='color:#FFFFFFFF'>After the Pure Electro Hypostasis uses a Skill:</color> -1 Revival Phase. If the Revival Phases are fully elapsed, remove this effect and end <color style='color:#FFFFFFFF'>Expose Weakness</color>. Then, each point remaining of the <color style='color:#FFFFFFFF'>Revival Prism</color>'s Prismatic Energy will heal the Pure Electro Hypostasis for 2 HP.",
+        "Name": "충전 재생",
+        "Desc": "해당 효과는 시작부터 「재생 카운트」를 3pt 보유한다. <color style='color:#FFFFFFFF'>「순수한 무상의 뇌전」이 스킬 사용 후:</color> 「재생 카운트」-1. 만약 「재생 카운트」가 소진되면 해당 효과를 제거하고 <color style='color:#FFFFFFFF'>약점 노출</color>을 종료한다. 그다음 <color style='color:#FFFFFFFF'>재생 프리즘</color>에 남은 「프리즘 에너지」 1pt마다 「순수한 무상의 뇌전」을 2pt 치유한다.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -8712,43 +8713,43 @@ var _ref = {
     },
     "402011": {
         "_id": 402011,
-        "Name": "Expose Weakness",
-        "Desc": "While this effect is active, <color style='color:#FFFFFFFF'>Pure Electro Hypostasis</color>'s <color style='color:#FFFFFFFF'>Revival Prism</color> will take damage on their behalf.<br>(When the character takes Elemental Reaction DMG, the Revival Prism's <color style='color:#FFFFFFFF'>Prismatic Energy</color> will be expended. Concurrently, character will be immune to all damage.)",
+        "Name": "약점 노출",
+        "Desc": "해당 효과가 존재하는 동안, <color style='color:#FFFFFFFF'>「순수한 무상의 뇌전」</color>의 <color style='color:#FFFFFFFF'>재생 프리즘</color>은 해당 캐릭터가 받는 피해를 대신 받는다.<br>(캐릭터가 원소 반응 피해를 받을 시, 재생 프리즘의 <color style='color:#FFFFFFFF'>「프리즘 에너지」</color>가 소모된다. 또한 캐릭터는 받은 모든 피해에 면역된다)",
         "Tag": [],
         "Cost": {}
     },
     "402013": {
         "_id": 402013,
-        "Name": "Amplified Enhancement: Ousia",
-        "Desc": "Your characters deal +1 DMG.<br><color style='color:#FFFFFFFF'>When your active character takes DMG that is not [b]3505[a]Arkhe: Pneuma aligned:</color> Negate 2 DMG.<br><color style='color:#FFFFFFFF'>After your active character takes DMG that is [b]3505[a]Arkhe: Pneuma aligned:</color> A Pneuma-Ousia Annihilation Reaction occurs, and remove this effect.",
+        "Name": "증폭 강화 · 우시아",
+        "Desc": "아군 캐릭터가 주는 피해+1pt<br><color style='color:#FFFFFFFF'>아군 출전 캐릭터가 「[b]3505[a]아르케의 힘: 프뉴마」 성질을 보유하지 않은 피해를 받을 시:</color> 피해를 2pt 상쇄한다.<br><color style='color:#FFFFFFFF'>아군 캐릭터가 「[b]3505[a]아르케의 힘: 프뉴마」 성질을 보유한 피해를 받은 후:</color> 프뉴무시아 소멸 효과가 발동되고 이 효과가 제거된다.",
         "Tag": [],
         "Cost": {}
     },
     "402014": {
         "_id": 402014,
-        "Name": "Skyward Patrol",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached takes DMG:</color> Negate 2 DMG.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>. After uses are exhausted, the character enters \"Exhausted Plunge\" status.",
+        "Name": "하늘 순항",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 피해를 받을 시: </color>피해를 2pt 상쇄한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 3</color>, 소진 후 캐릭터가 「탈진 추락」 상태에 진입한다.",
         "Tag": [],
         "Cost": {}
     },
     "402015": {
         "_id": 402015,
-        "Name": "Exhausted Plunge",
-        "Desc": "Attached character takes +1 DMG.<br>This effect starts off with 3 \"Takeoff Countdown Points.\"<br><color style='color:#FFFFFFFF'>After the character to which this is attached uses a skill:</color> Lose 1 \"Takeoff Countdown Point.\" Once all \"Takeoff Countdown Points\" are removed, this effect is removed, and the character returns to \"Skyward Patrol\" status.",
+        "Name": "탈진 추락",
+        "Desc": "부착 캐릭터가 받는 피해+1pt<br>해당 효과는 시작부터 「비상 카운트」를 3pt 보유한다.<br><color style='color:#FFFFFFFF'>부착 캐릭터가 스킬 사용 후:</color> 「비상 카운트」-1pt, 만약 「비상 카운트」가 모두 소진되면 해당 효과를 제거하고 캐릭터가 「하늘 순항」 상태로 돌아간다.",
         "Tag": [],
         "Cost": {}
     },
     "402020": {
         "_id": 402020,
-        "Name": "Multiplied Damage",
-        "Desc": "DMG dealt by your characters +1; DMG further increased by 1 for each stack of Multiplied Damage.<br>Multiplied Damage can stack up to 3 times.",
+        "Name": "다중 파열",
+        "Desc": "아군 캐릭터가 주는 피해+1pt 및 「다중 파열」 1스택당 피해 추가+1pt<br>「다중 파열」 최대 중첩수: 3스택",
         "Tag": [],
         "Cost": {}
     },
     "403027": {
         "_id": 403027,
-        "Name": "Pneuma Block",
-        "Desc": "During this Round, DMG dealt by your characters has [b]3505[a]Arkhe: Pneuma. (Including DMG dealt by elemental reactions triggered by said characters)<br>After dealing DMG to a target with \"Ousia\" once, remove this effect.",
+        "Name": "프뉴마 에너지 덩어리",
+        "Desc": "이번 턴에서 아군 캐릭터가 주는 피해가 「[b]3505[a]아르케의 힘: 프뉴마」 성질을 가진다. (캐릭터가 일으킨 원소 반응 피해 포함)<br>해당 효과는 「우시아」 성질을 가진 대상에게 피해를 1회 준 후 제거된다.",
         "Tag": [
             "GCG_TAG_ARKHE_OUSIA"
         ],
@@ -8756,8 +8757,8 @@ var _ref = {
     },
     "403028": {
         "_id": 403028,
-        "Name": "Ousia Block: Persistent",
-        "Desc": "DMG dealt by your characters has [b]3504[a]Arkhe: Ousia. (Including DMG dealt by elemental reactions triggered by said characters)",
+        "Name": "우시아 에너지 덩어리 · 지속",
+        "Desc": "아군 캐릭터가 주는 피해가 「[b]3504[a]아르케의 힘: 우시아」 성질을 가진다. (캐릭터가 일으킨 원소 반응 피해 포함)",
         "Tag": [
             "GCG_TAG_ARKHE_PNEUMA"
         ],
@@ -8765,8 +8766,8 @@ var _ref = {
     },
     "403029": {
         "_id": 403029,
-        "Name": "Pneuma Block: Persistent",
-        "Desc": "DMG dealt by your characters has [b]3505[a]Arkhe: Pneuma. (Including DMG dealt by elemental reactions triggered by said characters)",
+        "Name": "프뉴마 에너지 덩어리 · 지속",
+        "Desc": "아군 캐릭터가 주는 피해가 「[b]3505[a]아르케의 힘: 프뉴마」 성질을 가진다. (캐릭터가 일으킨 원소 반응 피해 포함)",
         "Tag": [
             "GCG_TAG_ARKHE_OUSIA"
         ],
@@ -8774,8 +8775,8 @@ var _ref = {
     },
     "403030": {
         "_id": 403030,
-        "Name": "Surging Will",
-        "Desc": "<color style='color:#FFFFFFFF'>After you play a Support Card:</color> Create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>, draw 1 card. (Once per Round)",
+        "Name": "지원 의지",
+        "Desc": "<color style='color:#FFFFFFFF'>아군이 서포트 카드 사용 후: </color><color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>를 1개 생성하고 카드를 1장 드로우한다. (턴당 1회)",
         "Tag": [],
         "Cost": {}
     }
@@ -8783,80 +8784,80 @@ var _ref = {
 
 var _keyword = {
     "1": {
-        "Name": "<color style='color:#FFFFFFFF'>Combat Action</color>",
-        "Desc": "After you finish 1 Combat Action, it will be your opponent's turn.<br><color style='color:#FFFFFFFF'>Playing a card from your Hand with this rule is also a Combat Action rather than a Fast Action</color>."
+        "Name": "<color style='color:#FFFFFFFF'>전투 행동</color>",
+        "Desc": "아군이 전투 행동을 1회 진행하면 행동 순서가 상대에게 넘어간다.<br><color style='color:#FFFFFFFF'>해당 규칙에 속하는 카드는 사용 시 빠른 행동이 아닌 전투 행동으로 간주한다</color>."
     },
     "2": {
-        "Name": "<color style='color:#FFFFFFFF'>Fast Action</color>",
-        "Desc": "You can continue with other actions after conducting 1 Fast Action.<br>Only after conducting 1 Combat Action will the turn pass over to your opponent."
+        "Name": "<color style='color:#FFFFFFFF'>빠른 행동</color>",
+        "Desc": "빠른 행동을 1회 진행하면 아군은 계속해서 다른 행동을 진행할 수 있다.<br>전투 행동을 1회 진행해야만 행동 순서가 상대에게 넘어간다."
     },
     "3": {
-        "Name": "<color style='color:#FFFFFFFF'>Usage(s)</color>",
-        "Desc": "After this card's effect is triggered, 1 <color style='color:#FFFFFFFF'>Usage</color> of it will be consumed.<br>This card will be discarded immediately once it has 0 <color style='color:#FFFFFFFF'>Usages</color> remaining."
+        "Name": "<color style='color:#FFFFFFFF'>사용 가능 횟수</color>",
+        "Desc": "해당 카드의 효과가 발동하면 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>가 1회 차감된다.<br><color style='color:#FFFFFFFF'>사용 가능 횟수</color>가 전부 소진되면 즉시 해당 패를 버린다."
     },
     "4": {
-        "Name": "<color style='color:#FFFFFFFF'>Duration (Rounds)</color>",
-        "Desc": "Each time you reach the end of a Round, <color style='color:#FFFFFFFF'>Duration (Rounds)</color> -1.<br>This card will be discarded immediately once <color style='color:#FFFFFFFF'>Duration (Rounds)</color> runs out."
+        "Name": "<color style='color:#FFFFFFFF'>지속 턴</color>",
+        "Desc": "턴이 종료 단계에 진입할 때마다 <color style='color:#FFFFFFFF'>지속 턴</color>이 1회씩 감소한다.<br><color style='color:#FFFFFFFF'>지속 턴</color>이 전부 소진되면 즉시 해당 패를 버린다."
     },
     "5": {
-        "Name": "<color style='color:#FFFFFFFF'>Piercing DMG</color>",
-        "Desc": "Piercing DMG cannot be increased by any bonuses, but cannot be defended against using Shields or DMG Immunity either."
+        "Name": "<color style='color:#FFFFFFFF'>관통 피해</color>",
+        "Desc": "관통 피해는 피해 보너스를 획득할 수 없으나, 주는 피해가 보호막 또는 피해 면역과 같은 효과에 의해 상쇄되지 않는다."
     },
     "6": {
-        "Name": "[b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>",
-        "Desc": "This Shield will be consumed to protect the character who equips it from DMG."
+        "Name": "[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>",
+        "Desc": "해당 보호막의 보호를 받는 캐릭터가 피격 시, 보호막을 소모해 피해를 상쇄한다."
     },
     "7": {
-        "Name": "<color style='color:#FFFFFFFF'>Character Closest to Your Current Active Character</color>",
-        "Desc": "The opposing \"character closest to your current active character\" is the opposing character whose position is closest to that of your active character.<br>If multiple such characters exist, the one with the foremost position will be viewed as being \"closest.\""
+        "Name": "<color style='color:#FFFFFFFF'>아군 출전 캐릭터와 가장 가까운 캐릭터</color>",
+        "Desc": "아군 출전 캐릭터와 「가장 가까운」 적 캐릭터란 위치가 아군 출전 캐릭터와 가장 가까운 적 캐릭터를 가리킨다.<br>가장 가까운 캐릭터가 복수 존재할 경우, 가장 앞에 있는 캐릭터가 「가장 가까운」 것으로 간주된다."
     },
     "51": {
-        "Name": "<color style='color:#FFFFFFFF'>Charged Attack</color>",
-        "Desc": "Before your Action Phase, should the total number of your Elemental Dice be even, your Normal Attack will be considered a Charged Attack."
+        "Name": "<color style='color:#FFFFFFFF'>강공격</color>",
+        "Desc": "아군이 행동을 시작하기 전에 원소 주사위 총개수가 짝수인 경우, 발동한 「일반 공격」을 「강공격」으로 간주한다."
     },
     "52": {
-        "Name": "<color style='color:#FFFFFFFF'>Plunging Attack</color>",
-        "Desc": "After a character is switched in to be the Active Character, should their next Combat Action within this Round be a Normal Attack, it will be considered a Plunging Attack for the instance."
+        "Name": "<color style='color:#FFFFFFFF'>낙하 공격</color>",
+        "Desc": "캐릭터가 「출전 캐릭터」로 교체된 후, 이번 턴 내의 다음 전투 행동이 「일반 공격」일 경우 「낙하 공격」으로 간주된다."
     },
     "53": {
-        "Name": "<color style='color:#FFFFFFFF'>Prepare Skill</color>",
-        "Desc": "Some Skills cannot be used directly. Instead, they need to be <color style='color:#FFFFFFFF'>prepared</color> over a certain number of turns.<br>When it is a certain player's turn, and this player's active character is currently <color style='color:#FFFFFFFF'>preparing</color> a Skill, this player's turn will be skipped. If the Skill has finished being <color style='color:#FFFFFFFF'>prepared</color>, the character will directly use that Skill at this time. (Skills that require <color style='color:#FFFFFFFF'>preparing</color> cannot activate effects triggered by \"using a Skill\" or \"triggering an Elemental Reaction\" or other such effects.)<br>Only active characters can <color style='color:#FFFFFFFF'>prepare</color> Skills, and if an active character who is <color style='color:#FFFFFFFF'>preparing</color> a Skill gets switched off-field, their <color style='color:#FFFFFFFF'>preparation</color> will be interrupted."
+        "Name": "<color style='color:#FFFFFFFF'>스킬 준비</color>",
+        "Desc": "일부 스킬은 바로 발동할 수 없고, 일정 횟수의 행동 순서 동안 <color style='color:#FFFFFFFF'>준비</color>를 해야 한다.<br>한 플레이어의 행동 순서가 됐을 때, 해당 플레이어의 「출전 캐릭터」가 현재 스킬을 <color style='color:#FFFFFFFF'>준비</color> 중이면 해당 플레이어의 행동을 건너뛴다. 스킬 <color style='color:#FFFFFFFF'>준비</color>를 끝냈을 경우, 캐릭터는 해당 스킬을 즉시 발동한다. (<color style='color:#FFFFFFFF'>준비</color>가 필요한 유형의 스킬은 「스킬 사용 후」 및 「캐릭터가 원소 반응 발동 후」 등의 효과를 발동할 수 없다)<br>오직 「출전 캐릭터」만 스킬을 <color style='color:#FFFFFFFF'>준비</color>할 수 있다. 만약 스킬을 <color style='color:#FFFFFFFF'>준비</color> 중인 「출전 캐릭터」가 교체되어 대기 상태가 되면, 스킬의 <color style='color:#FFFFFFFF'>준비</color>가 중단된다."
     },
     "54": {
-        "Name": "<color style='color:#FFFFFFFF'>Immunity to Defeat</color>",
-        "Desc": "Certain effects will grant characters an <color style='color:#FFFFFFFF'>immunity to being defeated</color> when their HP hits 0, and will heal them for a certain amount thereafter.<br>When this occurs, characters will not be regarded as having experienced a <color style='color:#FFFFFFFF'>defeat.</color> (Hence, their attached equipment and statuses will not be removed, and their Energy will remain uncleared.)"
+        "Name": "<color style='color:#FFFFFFFF'>처치 면역</color>",
+        "Desc": "일부 효과는 캐릭터의 HP가 0이 될 때, 해당 캐릭터에게 <color style='color:#FFFFFFFF'>처치 면역</color> 및 일정 HP 회복 효과를 부여한다.<br>이때 캐릭터는 <color style='color:#FFFFFFFF'>처치</color>된 적 없는 것으로 간주한다. (따라서 캐릭터에 부착된 장비와 상태를 버리지 않고, 원소 에너지도 모두 사라지지 않는다)"
     },
     "100": {
-        "Name": "[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color>",
-        "Desc": "Physical DMG will not apply any Elements, nor can it engage in Elemental Reactions."
+        "Name": "[b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>",
+        "Desc": "물리 피해는 원소를 부착할 수 없고, 원소 반응이 발생하지 않는다."
     },
     "101": {
-        "Name": "[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>",
-        "Desc": "Applies [b]2101[a]Cryo and can trigger the following Elemental Reactions:<br>[b]2101[a][b]2103[a]<color style='color:#FFFFFFFF'>Melt</color>: DMG +2 for this instance<br>[b]2101[a][b]2104[a]<color style='color:#FFFFFFFF'>Superconduct</color>: DMG +1 for this instance, deal 1 Piercing DMG to all opposing characters except the target<br>[b]2101[a][b]2102[a]<color style='color:#FFFFFFFF'>Frozen</color>: DMG +1 for this instance, the target is unable to perform any Actions this Round (Can be removed in advance after the target receives Physical or Pyro DMG, in which case they will take +2 DMG)"
+        "Name": "[b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>",
+        "Desc": "[b]2101[a]얼음 원소 부착 시 원소 반응이 발생할 수 있다.<br>[b]2101[a][b]2103[a]<color style='color:#FFFFFFFF'>융해</color>: 이번 피해+2pt<br>[b]2101[a][b]2104[a]<color style='color:#FFFFFFFF'>초전도</color>: 이번 피해+1pt, 대상 이외의 모든 상대 캐릭터에게 관통 피해를 1pt 준다.<br>[b]2101[a][b]2102[a]<color style='color:#FFFFFFFF'>빙결</color>: 이번 피해+1pt, 이번 턴에 대상을 행동 불가로 만든다. (물리 피해 또는 불 원소 피해를 받으면 조기 해제되지만, 해당 피해로 받는 피해량이 2pt 추가된다)"
     },
     "102": {
-        "Name": "[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>",
-        "Desc": "Applies [b]2102[a]Hydro and can trigger the following Elemental Reactions:<br>[b]2102[a][b]2103[a]<color style='color:#FFFFFFFF'>Vaporize</color>: DMG +2 for this instance<br>[b]2102[a][b]2104[a]<color style='color:#FFFFFFFF'>Electro-Charged</color>：DMG +1 for this instance, deal 1 Piercing DMG to all opposing characters except the target<br>[b]2102[a][b]2101[a]<color style='color:#FFFFFFFF'>Frozen</color>: DMG +1 for this instance, the target is unable to perform any Actions this Round (Can be removed in advance after the target receives +2 Physical or Pyro DMG)<br>[b]2102[a][b]2107[a]<color style='color:#FFFFFFFF'>Bloom</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Dendro Core</color>] that grants +2 DMG to the next instance of Pyro or Electro DMG"
+        "Name": "[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>",
+        "Desc": "[b]2102[a]물 원소 부착 시 원소 반응이 발생할 수 있다.<br>[b]2102[a][b]2103[a]<color style='color:#FFFFFFFF'>증발</color>: 이번 피해+2pt<br>[b]2102[a][b]2104[a]<color style='color:#FFFFFFFF'>감전</color>: 이번 피해+1pt, 대상 이외의 모든 상대 캐릭터에게 관통 피해를 1pt 준다.<br>[b]2102[a][b]2101[a]<color style='color:#FFFFFFFF'>빙결</color>: 이번 피해+1pt, 이번 턴에 대상을 행동 불가로 만든다. (물리 피해 또는 불 원소 피해를 받으면 조기 해제되지만, 해당 피해로 받는 피해량이 2pt 추가된다)<br>[b]2102[a][b]2107[a]<color style='color:#FFFFFFFF'>개화</color>: 이번 피해+1pt, 다음번 불 원소 또는 번개 원소 피해를 2pt 증가시키는 [<color style='color:#FFFFFFFF'>풀 원핵</color>]을 생성한다."
     },
     "103": {
-        "Name": "[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>",
-        "Desc": "Applies [b]2103[a]Pyro and can trigger the following Elemental Reactions:<br>[b]2103[a][b]2101[a]<color style='color:#FFFFFFFF'>Melt</color>: DMG +2 for this instance<br>[b]2103[a][b]2102[a]<color style='color:#FFFFFFFF'>Vaporize</color>: DMG +2 for this instance<br>[b]2103[a][b]2104[a]<color style='color:#FFFFFFFF'>Overloaded</color>: DMG +2 for this instance, the target is forcibly switched to the next character<br>[b]2103[a][b]2107[a]<color style='color:#FFFFFFFF'>Burning</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Burning Flame</color>] that will deal 1 Pyro DMG at the end of the Round (Takes effect once, max 2 stacks)"
+        "Name": "[b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>",
+        "Desc": "[b]2103[a]불 원소 부착 시 원소 반응이 발생할 수 있다.<br>[b]2103[a][b]2101[a]<color style='color:#FFFFFFFF'>융해</color>: 이번 피해+2pt<br>[b]2103[a][b]2102[a]<color style='color:#FFFFFFFF'>증발</color>: 이번 피해+2pt<br>[b]2103[a][b]2104[a]<color style='color:#FFFFFFFF'>과부하</color>: 이번 피해+2pt, 대상이 다음 캐릭터로 강제 교체된다.<br>[b]2103[a][b]2107[a]<color style='color:#FFFFFFFF'>연소</color>: 이번 피해+1pt, 턴 종료 시 불 원소 피해를 1pt 주는 [<color style='color:#FFFFFFFF'>불타는 화염</color>]을 생성한다. (사용 가능 횟수: 1, 최대 중첩수: 2)"
     },
     "104": {
-        "Name": "[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>",
-        "Desc": "Applies [b]2104[a]Electro and can trigger the following Elemental Reactions:<br>[b]2104[a][b]2103[a]<color style='color:#FFFFFFFF'>Overloaded</color>: DMG +2 for this instance, the target is forcibly switched to the next character<br>[b]2104[a][b]2101[a]<color style='color:#FFFFFFFF'>Superconduct</color>: DMG +1 for this instance, deal 1 Piercing DMG to all opposing characters except the target<br>[b]2104[a][b]2102[a]<color style='color:#FFFFFFFF'>Electro-Charged</color>: DMG +1 for this instance, deal 1 Piercing DMG to all opposing characters except the target<br>[b]2104[a][b]2107[a]<color style='color:#FFFFFFFF'>Quicken</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Catalyzing Field</color>] that grants +1 DMG to the next 2 instances of Dendro or Electro DMG"
+        "Name": "[b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>",
+        "Desc": "[b]2104[a]번개 원소 부착 시 다음 원소 반응이 발생할 수 있다.<br>[b]2104[a][b]2103[a]<color style='color:#FFFFFFFF'>과부하</color>: 이번 피해+2pt, 대상이 다음 캐릭터로 강제 교체된다.<br>[b]2104[a][b]2101[a]<color style='color:#FFFFFFFF'>초전도</color>: 이번 피해+1pt, 대상 이외의 모든 상대 캐릭터에게 관통 피해를 1pt 준다.<br>[b]2104[a][b]2102[a]<color style='color:#FFFFFFFF'>감전</color>: 이번 피해+1pt, 대상 이외의 모든 상대 캐릭터에게 관통 피해를 1pt 준다.<br>[b]2104[a][b]2107[a]<color style='color:#FFFFFFFF'>활성</color>: 이번 피해+1pt, 다음 2회의 풀 원소 또는 번개 원소 피해를 1pt 증가시키는 [<color style='color:#FFFFFFFF'>격화 영역</color>]을 생성한다."
     },
     "105": {
-        "Name": "[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>",
-        "Desc": "Reacts with Elements if they are already applied:<br>[b]2105[a][b]2101[a]<color style='color:#FFFFFFFF'>Cryo Swirl</color>: Deals 1 Cryo DMG to all opposing characters except the target<br>[b]2105[a][b]2102[a]<color style='color:#FFFFFFFF'>Hydro Swirl</color>: Deals 1 Hydro DMG to all opposing characters except the target<br>[b]2105[a][b]2103[a]<color style='color:#FFFFFFFF'>Pyro Swirl</color>: Deals 1 Pyro DMG to all opposing characters except the target<br>[b]2105[a][b]2104[a]<color style='color:#FFFFFFFF'>Electro Swirl</color>: Deals 1 Electro DMG to all opposing characters except the target"
+        "Name": "[b]2105[a]<color style='color:#80FFD7FF'>바람 원소 피해</color>",
+        "Desc": "이미 부착된 원소와 원소 반응이 발생한다.<br>[b]2105[a][b]2101[a]<color style='color:#FFFFFFFF'>확산(얼음)</color>: 대상 이외의 모든 상대 캐릭터에게 얼음 원소 피해를 1pt 준다.<br>[b]2105[a][b]2102[a]<color style='color:#FFFFFFFF'>확산(물)</color>: 대상 이외의 모든 상대 캐릭터에게 물 원소 피해를 1pt 준다.<br>[b]2105[a][b]2103[a]<color style='color:#FFFFFFFF'>확산(불)</color>: 대상 이외의 모든 상대 캐릭터에게 불 원소 피해를 1pt 준다.<br>[b]2105[a][b]2104[a]<color style='color:#FFFFFFFF'>확산(번개)</color>: 대상 이외의 모든 상대 캐릭터에게 번개 원소 피해를 1pt 준다."
     },
     "106": {
-        "Name": "[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>",
-        "Desc": "Reacts with Elements if they are already applied:<br>[b]2106[a][b]2101[a]<color style='color:#FFFFFFFF'>Cryo Crystallize</color>: DMG +1 for this instance, your active character gains 1 Shield point (Can stack, max 2 points)<br>[b]2106[a][b]2102[a]<color style='color:#FFFFFFFF'>Hydro Crystallize</color>: DMG +1 for this instance, your active character gains 1 Shield point (Can stack, max 2 points)<br>[b]2106[a][b]2103[a]<color style='color:#FFFFFFFF'>Pyro Crystallize</color>: DMG +1 for this instance, your active character gains 1 Shield point (Can stack, max 2 points)<br>[b]2106[a][b]2104[a]<color style='color:#FFFFFFFF'>Electro Crystallize</color>: DMG +1 for this instance, your active character gains 1 Shield point (Can stack, max 2 points)"
+        "Name": "[b]2106[a]<color style='color:#FFE699FF'>바위 원소 피해</color>",
+        "Desc": "이미 부착된 원소와 원소 반응이 발생한다.<br>[b]2106[a][b]2101[a]<color style='color:#FFFFFFFF'>결정(얼음)</color>: 이번 피해+1pt, 아군 출전 캐릭터가 보호막을 1pt 획득한다. (중첩 가능, 최대 2pt)<br>[b]2106[a][b]2102[a]<color style='color:#FFFFFFFF'>결정(물)</color>: 이번 피해+1pt, 아군 출전 캐릭터가 보호막을 1pt 획득한다. (중첩 가능, 최대 2pt)<br>[b]2106[a][b]2103[a]<color style='color:#FFFFFFFF'>결정(불)</color>: 이번 피해+1pt, 아군 출전 캐릭터가 보호막을 1pt 획득한다. (중첩 가능, 최대 2pt)<br>[b]2106[a][b]2104[a]<color style='color:#FFFFFFFF'>결정(번개)</color>: 이번 피해+1pt, 아군 출전 캐릭터가 보호막을 1pt 획득한다. (중첩 가능, 최대 2pt)"
     },
     "107": {
-        "Name": "[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>",
-        "Desc": "Applies [b]2107[a]Dendro and can trigger the following Elemental Reactions:<br>[b]2107[a][b]2102[a]<color style='color:#FFFFFFFF'>Bloom</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Dendro Core</color>] that grants +2 DMG to the next instance of Pyro or Electro DMG<br>[b]2107[a][b]2103[a]<color style='color:#FFFFFFFF'>Burning</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Burning Flame</color>] that will deal 1 Pyro DMG at the end of the Round (Takes effect once, max 2 stacks)<br>[b]2107[a][b]2104[a]<color style='color:#FFFFFFFF'>Quicken</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Catalyzing Field</color>] that grants +1 DMG to the next 2 instances of Dendro or Electro DMG"
+        "Name": "[b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>",
+        "Desc": "[b]2107[a]풀 원소 부착 시 다음 원소 반응이 발생할 수 있다.<br>[b]2107[a][b]2102[a]<color style='color:#FFFFFFFF'>개화</color>: 이번 피해+1pt, 다음번 불 원소 또는 번개 원소 피해를 2pt 증가시키는 [<color style='color:#FFFFFFFF'>풀 원핵</color>]을 생성한다.<br>[b]2107[a][b]2103[a]<color style='color:#FFFFFFFF'>연소</color>: 이번 피해+1pt, 턴 종료 시 불 원소 피해를 1pt 주는 [<color style='color:#FFFFFFFF'>불타는 화염</color>]을 생성한다. (사용 가능 횟수: 1회, 최대 중첩수: 2)<br>[b]2107[a][b]2104[a]<color style='color:#FFFFFFFF'>활성</color>: 이번 피해+1pt, 다음 2회의 풀 원소 또는 번개 원소 피해를 1pt 증가시키는 [<color style='color:#FFFFFFFF'>격화 영역</color>]을 생성한다."
     },
     "111": {
         "Name": "[b]2101[a]",
@@ -8887,226 +8888,226 @@ var _keyword = {
         "Desc": ""
     },
     "201": {
-        "Name": "<color style='color:#99FFFFFF'>[b]2101[a]Cryo Application</color>",
-        "Desc": "When [b]2101[a]Cryo is applied without dealing any DMG, the Elemental Reaction triggered will ignore DMG-dealing effects:<br>[b]2101[a][b]2103[a]<color style='color:#FFFFFFFF'>Melt</color>: No effect<br>[b]2101[a][b]2104[a]<color style='color:#FFFFFFFF'>Superconduct</color>: No effect<br>[b]2101[a][b]2102[a]<color style='color:#FFFFFFFF'>Frozen</color>: The target is unable to perform any Actions this Round (Can be removed in advance after the target receives Physical or Pyro DMG, in which case they will take +2 DMG)"
+        "Name": "<color style='color:#99FFFFFF'>[b]2101[a]얼음 원소 부착</color>",
+        "Desc": "피해를 입히지 않고 [b]2101[a]얼음 원소를 부착하여 발생한 원소 반응은 피해 효과를 무시한다.<br>[b]2101[a][b]2103[a]<color style='color:#FFFFFFFF'>융해</color>: 효과 없음.<br>[b]2101[a][b]2104[a]<color style='color:#FFFFFFFF'>초전도</color>: 효과 없음.<br>[b]2101[a][b]2102[a]<color style='color:#FFFFFFFF'>빙결</color>: 이번 턴에 대상을 행동 불가로 만든다. (물리 피해 또는 불 원소 피해를 받으면 조기 해제, 해당 피해로 받는 피해량이 2pt 추가된다)"
     },
     "202": {
-        "Name": "<color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color>",
-        "Desc": "When [b]2102[a]Hydro is applied without dealing any DMG, the Elemental Reaction triggered will ignore DMG-dealing effects:<br>[b]2102[a][b]2103[a]<color style='color:#FFFFFFFF'>Vaporize</color>: No effect<br>[b]2102[a][b]2104[a]<color style='color:#FFFFFFFF'>Electro-Charged</color>: No effect<br>[b]2102[a][b]2101[a]<color style='color:#FFFFFFFF'>Frozen</color>: The target is unable to perform any Actions this Round (Can be removed in advance after the target receives Physical or Pyro DMG, in which case they will take +2 DMG)<br>[b]2102[a][b]2107[a]<color style='color:#FFFFFFFF'>Bloom</color>: Creates a [<color style='color:#FFFFFFFF'>Dendro Core</color>] that grants +2 DMG to the next instance of Pyro or Electro DMG"
+        "Name": "<color style='color:#80C0FFFF'>[b]2102[a]물 원소 부착</color>",
+        "Desc": "피해를 입히지 않고 [b]2102[a]물 원소를 부착하여 발생한 원소 반응은 피해 효과를 무시한다.<br>[b]2102[a][b]2103[a]<color style='color:#FFFFFFFF'>증발</color>: 효과 없음.<br>[b]2102[a][b]2104[a]<color style='color:#FFFFFFFF'>감전</color>: 효과 없음.<br>[b]2102[a][b]2101[a]<color style='color:#FFFFFFFF'>빙결</color>: 이번 턴에 대상을 행동 불가로 만든다. (물리 피해 또는 불 원소 피해를 받으면 조기 해제되지만, 해당 피해로 받는 피해량이 2pt 추가된다)<br>[b]2102[a][b]2107[a]<color style='color:#FFFFFFFF'>개화</color>: 다음번 불 원소 또는 번개 원소 피해를 2pt 증가시키는 [<color style='color:#FFFFFFFF'>풀 원핵</color>]을 생성한다."
     },
     "203": {
-        "Name": "<color style='color:#FF9999FF'>[b]2103[a]Pyro Application</color>",
-        "Desc": "When [b]2103[a]Pyro is applied without dealing any DMG, the Elemental Reaction triggered will ignore DMG-dealing effects:<br>[b]2103[a][b]2101[a]<color style='color:#FFFFFFFF'>Melt</color>: No effect<br>[b]2103[a][b]2102[a]<color style='color:#FFFFFFFF'>Vaporize</color>: No effect<br>[b]2103[a][b]2104[a]<color style='color:#FFFFFFFF'>Overloaded</color>: The target is forcibly switched to the next character<br>[b]2103[a][b]2107[a]<color style='color:#FFFFFFFF'>Burning</color>: Creates a [<color style='color:#FFFFFFFF'>Burning Flame</color>] that will deal 1 Pyro DMG at the end of the Round (Takes effect once, max 2 stacks)"
+        "Name": "<color style='color:#FF9999FF'>[b]2103[a]불 원소 부착</color>",
+        "Desc": "피해를 입히지 않고 [b]2103[a]불 원소를 부착하여 발생한 원소 반응은 피해 효과를 무시한다.<br>[b]2103[a][b]2101[a]<color style='color:#FFFFFFFF'>융해</color>: 효과 없음.<br>[b]2103[a][b]2102[a]<color style='color:#FFFFFFFF'>증발</color>: 효과 없음.<br>[b]2103[a][b]2104[a]<color style='color:#FFFFFFFF'>과부하</color>: 대상이 다음 캐릭터로 강제 교체된다.<br>[b]2103[a][b]2107[a]<color style='color:#FFFFFFFF'>연소</color>: 턴 종료 시 불 원소 피해를 1pt 주는 [<color style='color:#FFFFFFFF'>불타는 화염</color>]을 생성한다. (사용 가능 횟수: 1, 최대 중첩수: 2)"
     },
     "204": {
-        "Name": "<color style='color:#FFACFFFF'>[b]2104[a]Electro Application</color>",
-        "Desc": "When [b]2104[a]Electro is applied without dealing any DMG, the Elemental Reactions triggered will ignore DMG-dealing effects:<br>[b]2104[a][b]2103[a]<color style='color:#FFFFFFFF'>Overloaded</color>: The target is forcibly switched to the next character<br>[b]2104[a][b]2101[a]<color style='color:#FFFFFFFF'>Superconduct</color>: No effect<br>[b]2104[a][b]2102[a]<color style='color:#FFFFFFFF'>Electro-Charged</color>: No effect<br>[b]2104[a][b]2107[a]<color style='color:#FFFFFFFF'>Quicken</color>: Creates a [<color style='color:#FFFFFFFF'>Catalyzing Field</color>] that grants +1 DMG to the next 2 instances of Dendro or Electro DMG"
+        "Name": "<color style='color:#FFACFFFF'>[b]2104[a]번개 원소 부착</color>",
+        "Desc": "피해를 입히지 않고 [b]2104[a]번개 원소를 부착하여 발생한 원소 반응은 피해 효과를 무시한다.<br>[b]2104[a][b]2103[a]<color style='color:#FFFFFFFF'>과부하</color>: 대상이 다음 캐릭터로 강제 교체된다.<br>[b]2104[a][b]2101[a]<color style='color:#FFFFFFFF'>초전도</color>: 효과 없음.<br>[b]2104[a][b]2102[a]<color style='color:#FFFFFFFF'>감전</color>: 효과 없음.<br>[b]2104[a][b]2107[a]<color style='color:#FFFFFFFF'>활성</color>: 다음 2회의 풀 원소 또는 번개 원소 피해를 1pt 증가시키는 [<color style='color:#FFFFFFFF'>격화 영역</color>]을 생성한다."
     },
     "207": {
-        "Name": "<color style='color:#7EC236FF'>[b]2107[a]Dendro Application</color>",
-        "Desc": "When [b]2107[a]Dendro is applied without dealing any DMG, the Elemental Reaction triggered will ignore DMG-dealing effects:<br>[b]2107[a][b]2102[a]<color style='color:#FFFFFFFF'>Bloom</color>: Creates a [<color style='color:#FFFFFFFF'>Dendro Core</color>] that grants +2 DMG to the next instance of Pyro or Electro DMG<br>[b]2107[a][b]2103[a]<color style='color:#FFFFFFFF'>Burning</color>: Creates a [<color style='color:#FFFFFFFF'>Burning Flame</color>] that will deal 1 Pyro DMG at the end of the Round (Takes effect once, max 2 stacks)<br>[b]2107[a][b]2104[a]<color style='color:#FFFFFFFF'>Quicken</color>: Creates a [<color style='color:#FFFFFFFF'>Catalyzing Field</color>] that grants +1 DMG to the next 2 instances of Dendro or Electro DMG"
+        "Name": "<color style='color:#7EC236FF'>[b]2107[a]풀 원소 부착</color>",
+        "Desc": "피해를 입히지 않고 [b]2107[a]풀 원소를 부착하여 발생한 원소 반응은 피해 효과를 무시한다.<br>[b]2107[a][b]2102[a]<color style='color:#FFFFFFFF'>개화</color>: 다음번 불 원소 또는 번개 원소 피해를 2pt 증가시키는 [<color style='color:#FFFFFFFF'>풀 원핵</color>]을 생성한다.<br>[b]2107[a][b]2103[a]<color style='color:#FFFFFFFF'>연소</color>: 턴 종료 시 불 원소 피해를 1pt 주는 [<color style='color:#FFFFFFFF'>불타는 화염</color>]을 생성한다. (사용 가능 횟수: 1, 최대 중첩수: 2)<br>[b]2107[a][b]2104[a]<color style='color:#FFFFFFFF'>활성</color>: 다음 2회의 풀 원소 또는 번개 원소 피해를 1pt 증가시키는 [<color style='color:#FFFFFFFF'>격화 영역</color>]을 생성한다."
     },
     "212": {
-        "Name": "<color style='color:#80C0FFFF'>[b]2102[a]Hydro-Related Reactions</color>",
-        "Desc": "[b]2102[a][b]2103[a]<color style='color:#FFFFFFFF'>Vaporize</color>: DMG +2 for this instance<br>[b]2102[a][b]2104[a]<color style='color:#FFFFFFFF'>Electro-Charged</color>: DMG +1 for this instance, deal 1 Piercing DMG to all opposing characters except the target<br>[b]2102[a][b]2101[a]<color style='color:#FFFFFFFF'>Frozen</color>: DMG +1 for this instance, the target is unable to perform any Actions this Round (Can be removed in advance after the target receives Physical or Pyro DMG, in which case they will take +2 DMG)<br>[b]2102[a][b]2107[a]<color style='color:#FFFFFFFF'>Bloom</color>: Creates a [<color style='color:#FFFFFFFF'>Dendro Core</color>] that grants +2 DMG to the next instance of Pyro or Electro DMG<br>[b]2106[a][b]2102[a]<color style='color:#FFFFFFFF'>Hydro Crystallize</color>: DMG +1 for this instance, your active character gains 1 Shield point (Can stack, max 2 points)<br>[b]2105[a][b]2102[a]<color style='color:#FFFFFFFF'>Hydro Swirl</color>: Deals 1 Hydro DMG to all opposing characters except the target"
+        "Name": "<color style='color:#80C0FFFF'>[b]2102[a]물 원소 관련 반응</color>",
+        "Desc": "[b]2102[a][b]2103[a]<color style='color:#FFFFFFFF'>증발</color>: 이번 피해+2pt<br>[b]2102[a][b]2104[a]<color style='color:#FFFFFFFF'>감전</color>: 이번 피해+1pt, 대상 이외의 모든 상대 캐릭터에게 관통 피해를 1pt 준다.<br>[b]2102[a][b]2101[a]<color style='color:#FFFFFFFF'>빙결</color>: 이번 피해+1pt, 이번 턴에 대상을 행동 불가로 만든다. (물리 피해 또는 불 원소 피해를 받은 후 조기 해제되지만, 해당 피해로 받는 피해량이 2pt 추가된다)<br>[b]2102[a][b]2107[a]<color style='color:#FFFFFFFF'>개화</color>: 다음번 불 원소 또는 번개 원소 피해를 2pt 증가시키는 [<color style='color:#FFFFFFFF'>풀 원핵</color>]을 생성한다.<br>[b]2106[a][b]2102[a]<color style='color:#FFFFFFFF'>결정(물)</color>: 이번 피해+1pt, 아군 출전 캐릭터가 보호막을 1pt 획득한다. (중첩 가능, 최대 2pt)<br>[b]2105[a][b]2102[a]<color style='color:#FFFFFFFF'>확산(물)</color>: 대상 이외의 모든 상대 캐릭터에게 물 원소 피해를 1pt 준다."
     },
     "213": {
-        "Name": "<color style='color:#FF9999FF'>[b]2103[a]Pyro-Related Reactions</color>",
-        "Desc": "[b]2103[a][b]2101[a]<color style='color:#FFFFFFFF'>Melt</color>: DMG +2 for this instance<br>[b]2103[a][b]2102[a]<color style='color:#FFFFFFFF'>Vaporize</color>: DMG +2 for this instance<br>[b]2103[a][b]2104[a]<color style='color:#FFFFFFFF'>Overloaded</color>: DMG +2 for this instance, the target is forcibly switched to the next character<br>[b]2103[a][b]2107[a]<color style='color:#FFFFFFFF'>Burning</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Burning Flame</color>] that will deal 1 Pyro DMG at the end of the Round (Takes effect once, max 2 stacks)<br>[b]2106[a][b]2103[a]<color style='color:#FFFFFFFF'>Pyro Crystallize</color>: DMG +1 for this instance, your active character gains 1 Shield point (Can stack, max 2 points)<br>[b]2105[a][b]2103[a]<color style='color:#FFFFFFFF'>Pyro Swirl</color>: Deals 1 Pyro DMG to all opposing characters except the target"
+        "Name": "<color style='color:#FF9999FF'>[b]2103[a]불 원소 관련 반응</color>",
+        "Desc": "[b]2103[a][b]2101[a]<color style='color:#FFFFFFFF'>융해</color>: 이번 피해+2pt<br>[b]2103[a][b]2102[a]<color style='color:#FFFFFFFF'>증발</color>: 이번 피해+2pt<br>[b]2103[a][b]2104[a]<color style='color:#FFFFFFFF'>과부하</color>: 이번 피해+2pt, 대상이 다음 캐릭터로 강제 교체된다.<br>[b]2103[a][b]2107[a]<color style='color:#FFFFFFFF'>연소</color>: 이번 피해+1pt, 턴 종료 시 불 원소 피해를 1pt 주는 [<color style='color:#FFFFFFFF'>불타는 화염</color>]을 생성한다. (사용 가능 횟수: 1, 최대 중첩수: 2)<br>[b]2106[a][b]2103[a]<color style='color:#FFFFFFFF'>결정(불)</color>: 이번 피해+1pt, 아군 출전 캐릭터가 보호막을 1pt 획득한다. (중첩 가능, 최대 2pt)<br>[b]2105[a][b]2103[a]<color style='color:#FFFFFFFF'>확산(불)</color>: 대상 이외의 모든 상대 캐릭터에게 불 원소 피해를 1pt 준다."
     },
     "217": {
-        "Name": "<color style='color:#7EC236FF'>[b]2107[a]Dendro-Related Reactions</color>",
-        "Desc": "[b]2107[a][b]2102[a]<color style='color:#FFFFFFFF'>Bloom</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Dendro Core</color>] that grants +2 DMG to the next instance of Pyro or Electro DMG<br>[b]2107[a][b]2103[a]<color style='color:#FFFFFFFF'>Burning</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Burning Flame</color>] that will deal 1 Pyro DMG at the end of the Round (Takes effect once, max 2 stacks)<br>[b]2107[a][b]2104[a]<color style='color:#FFFFFFFF'>Quicken</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Catalyzing Field</color>] that grants +1 DMG to the next 2 instances of Dendro or Electro DMG"
+        "Name": "<color style='color:#7EC236FF'>[b]2107[a]풀 원소 관련 반응</color>",
+        "Desc": "[b]2107[a][b]2102[a]<color style='color:#FFFFFFFF'>개화</color>: 이번 피해+1pt, 다음번 불 원소 또는 번개 원소 피해를 2pt 증가시키는 [<color style='color:#FFFFFFFF'>풀 원핵</color>]을 생성한다.<br>[b]2107[a][b]2103[a]<color style='color:#FFFFFFFF'>연소</color>: 이번 피해+1pt, 턴 종료 시 불 원소 피해를 1pt 주는 [<color style='color:#FFFFFFFF'>불타는 화염</color>]을 생성한다. (사용 가능 횟수: 1, 최대 중첩수: 2)<br>[b]2107[a][b]2104[a]<color style='color:#FFFFFFFF'>활성</color>: 이번 피해+1pt, 다음 2회의 풀 원소 또는 번개 원소 피해를 1pt 증가시키는 [<color style='color:#FFFFFFFF'>격화 영역</color>]을 생성한다."
     },
     "301": {
-        "Name": "[b]1101[a]Cryo",
-        "Desc": "Spend the <color style='color:#99FFFFFF'>[b]1101[a]Cryo</color> Dice you have rolled to pay for this cost.<br>([b]1111[a]Omni Dice may also be used to pay for this.)"
+        "Name": "[b]1101[a]얼음 원소",
+        "Desc": "굴려서 나온 <color style='color:#99FFFFFF'>[b]1101[a]얼음 원소</color> 주사위를 소모해 사용할 수 있다.<br>([b]1111[a]만능 원소 사용 가능)"
     },
     "302": {
-        "Name": "[b]1102[a]Hydro",
-        "Desc": "Spend the <color style='color:#80C0FFFF'>[b]1102[a]Hydro</color> Dice you have rolled to pay for this cost.<br>([b]1111[a]Omni Dice may also be used to pay for this.)"
+        "Name": "[b]1102[a]물 원소",
+        "Desc": "굴려서 나온 <color style='color:#80C0FFFF'>[b]1102[a]물 원소</color> 주사위를 소모해 사용할 수 있다.<br>([b]1111[a]만능 원소 사용 가능)"
     },
     "303": {
-        "Name": "[b]1103[a]Pyro",
-        "Desc": "Spend the <color style='color:#FF9999FF'>[b]1103[a]Pyro</color> Dice you have rolled to pay for this cost.<br>([b]1111[a]Omni Dice may also be used to pay for this.)"
+        "Name": "[b]1103[a]불 원소",
+        "Desc": "굴려서 나온 <color style='color:#FF9999FF'>[b]1103[a]불 원소</color> 주사위를 소모해 사용할 수 있다.<br>([b]1111[a]만능 원소 사용 가능)"
     },
     "304": {
-        "Name": "[b]1104[a]Electro",
-        "Desc": "Spend the <color style='color:#FFACFFFF'>[b]1104[a]Electro</color> Dice you have rolled to pay for this cost.<br>([b]1111[a]Omni Dice may also be used to pay for this.)"
+        "Name": "[b]1104[a]번개 원소",
+        "Desc": "굴려서 나온 <color style='color:#FFACFFFF'>[b]1104[a]번개 원소</color> 주사위를 소모해 사용할 수 있다.<br>([b]1111[a]만능 원소 사용 가능)"
     },
     "305": {
-        "Name": "[b]1105[a]Anemo",
-        "Desc": "Spend the <color style='color:#80FFD7FF'>[b]1105[a]Anemo</color> Dice you have rolled to pay for this cost.<br>([b]1111[a]Omni Dice may also be used to pay for this.)"
+        "Name": "[b]1105[a]바람 원소",
+        "Desc": "굴려서 나온 <color style='color:#80FFD7FF'>[b]1105[a]바람 원소</color> 주사위를 소모해 사용할 수 있다.<br>([b]1111[a]만능 원소 사용 가능)"
     },
     "306": {
-        "Name": "[b]1106[a]Geo",
-        "Desc": "Spend the <color style='color:#FFE699FF'>[b]1106[a]Geo</color> Dice you have rolled to pay for this cost.<br>([b]1111[a]Omni Dice may also be used to pay for this.)"
+        "Name": "[b]1106[a]바위 원소",
+        "Desc": "굴려서 나온 <color style='color:#FFE699FF'>[b]1106[a]바위 원소</color> 주사위를 소모해 사용할 수 있다.<br>([b]1111[a]만능 원소 사용 가능)"
     },
     "307": {
-        "Name": "[b]1107[a]Dendro",
-        "Desc": "Spend the <color style='color:#7EC236FF'>[b]1107[a]Dendro</color> Dice you have rolled to pay for this cost.<br>([b]1111[a]Omni Dice may also be used to pay for this.)"
+        "Name": "[b]1107[a]풀 원소",
+        "Desc": "굴려서 나온 <color style='color:#7EC236FF'>[b]1107[a]풀 원소</color> 주사위를 소모해 사용할 수 있다.<br>([b]1111[a]만능 원소 사용 가능)"
     },
     "308": {
-        "Name": "<color style='color:#FFFFFFFF'>[b]1108[a]Matching Element</color>",
-        "Desc": "You must use Elemental Dice that match the number and element featured here to pay this type of cost.<br>(An [b]1111[a]Omni Die can be considered of any Element.)"
+        "Name": "<color style='color:#FFFFFFFF'>[b]1108[a]동일한 원소</color>",
+        "Desc": "반드시 지정된 수량의 동일한 원소 타입 원소 주사위를 사용해야 한다.<br>([b]1111[a]만능 원소는 어떤 원소와도 동일한 원소인 것으로 간주한다)"
     },
     "309": {
-        "Name": "<color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>",
-        "Desc": "You may use Elemental Dice of any element to pay this type of cost."
+        "Name": "<color style='color:#FFFFFFFF'>[b]1109[a]무색 원소</color>",
+        "Desc": "어떤 타입의 원소 주사위든 사용할 수 있다."
     },
     "310": {
-        "Name": "<color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>",
-        "Desc": "Characters must consume [b]1110[a]Energy to use their Elemental Bursts.<br>When characters use an Elemental Skill or a Normal Attack, they will gain 1 [b]1110[a]Energy."
+        "Name": "<color style='color:#FFFFFFFF'>[b]1110[a]원소 에너지</color>",
+        "Desc": "캐릭터가 「원소폭발」을 사용하려면 [b]1110[a]원소 에너지를 소모해야 한다.<br>캐릭터가 「원소전투 스킬」 또는 「일반 공격」을 사용하면 [b]1110[a]원소 에너지를 1pt 획득한다."
     },
     "311": {
-        "Name": "<color style='color:#FFFFFFFF'>[b]1112[a]Arcane Edict</color>",
-        "Desc": "Each player can only use 1 [b]3007[a]Arcane Legend card per match.<br>An [b]3007[a]Arcane Legend card can only be played should an [b]1112[a]Arcane Edict still be present. After an [b]3007[a]Arcane Legend card is played, the current match's [b]1112[a]Arcane Edict use will be consumed."
+        "Name": "<color style='color:#FFFFFFFF'>[b]1112[a]비기 공개령</color>",
+        "Desc": "각 플레이어는 대전이 진행되는 동안 「[b]3007[a]비기」 카드를 한 장만 사용할 수 있다.<br>「[b]1112[a]비기 공개령」이 존재할 때만 「[b]3007[a]비기」 카드를 사용할 수 있으며, 「[b]3007[a]비기」 카드 사용 후 해당 대전의 「[b]1112[a]비기 공개령」 사용 기회가 소모된다."
     },
     "411": {
-        "Name": "<color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>",
-        "Desc": "The [b]1111[a]Omni Element can be considered as any kind of element, and can be used to pay for costs of various kinds."
+        "Name": "<color style='color:#FFFFFFFF'>[b]1111[a]만능 원소</color>",
+        "Desc": "[b]1111[a]만능 원소는 임의의 원소로 여겨지며 어떤 원소 타입에서든 사용할 수 있다."
     },
     "501": {
-        "Name": "Elemental Burst",
-        "Desc": "When the character's [b]1110[a]Energy is maxed out, you can consume that [b]1110[a]Energy to use a powerful Elemental Burst."
+        "Name": "원소폭발",
+        "Desc": "캐릭터의 [b]1110[a]원소 에너지가 가득 차면 모든 [b]1110[a]원소 에너지를 소모하여 강력한 위력의 「원소폭발」을 사용할 수 있다."
     },
     "502": {
-        "Name": "Passive Skill",
-        "Desc": "This Skill is constantly in effect and need not to be activated."
+        "Name": "패시브 스킬",
+        "Desc": "해당 스킬은 계속해서 적용되므로 직접 사용할 필요가 없다."
     },
     "1001": {
-        "Name": "<color style='color:#FFFFFFFF'>Random Hilichurl Summon</color>",
-        "Desc": "There are 4 kinds of Hilichurl Summons in total:<br><color style='color:#FFFFFFFF'>Cryo Hilichurl Shooter</color>: Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> at the End Phase. Usage(s): 2.<br><color style='color:#FFFFFFFF'>Hydro Samachurl</color>: Deal 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> at the End Phase. Usage(s): 2.<br><color style='color:#FFFFFFFF'>Hilichurl Berserker</color>: Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> at the End Phase. Usage(s): 2.<br><color style='color:#FFFFFFFF'>Electro Hilichurl Shooter</color>: Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color> at the End Phase. Usage(s): 2."
+        "Name": "<color style='color:#FFFFFFFF'>랜덤 「츄츄족」 소환물</color>",
+        "Desc": "출현할 수 있는 「츄츄족」 소환물 총 4종:<br><color style='color:#FFFFFFFF'>츄츄 얼음 궁수</color>: 종료 단계에서 [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>를 1pt 준다. 사용 가능 횟수: 2회<br><color style='color:#FFFFFFFF'>물 츄츄 샤먼</color>: 종료 단계에서 [b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>를 1pt 준다. 사용 가능 횟수: 2회<br><color style='color:#FFFFFFFF'>츄츄 돌격병</color>: 종료 단계에서 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 1pt 준다. 사용 가능 횟수: 2회<br><color style='color:#FFFFFFFF'>츄츄 번개 궁수</color>: 종료 단계에서 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 1pt 준다. 사용 가능 횟수: 2회"
     },
     "1002": {
-        "Name": "<color style='color:#FFFFFFFF'>Electro Infusion</color>",
-        "Desc": "When the character to which it is attached to deals [b]2100[a]<color style='color:#FFFFFFFF'>Physical Damage</color>, it will be turned into [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2"
+        "Name": "<color style='color:#FFFFFFFF'>번개 원소 부여</color>",
+        "Desc": "부착 캐릭터가 입힌 [b]2100[a]<color style='color:#FFFFFFFF'>물리 피해</color>가 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>로 전환된다.<br><color style='color:#FFFFFFFF'>지속 턴</color>: 2"
     },
     "1003": {
-        "Name": "<color style='color:#FFFFFFFF'>Crowfeather Cover</color>",
-        "Desc": "The character with this attached deals +1 <color style='color:#FFFFFFFF'>Elemental Skill</color> and <color style='color:#FFFFFFFF'>Elemental Burst</color> DMG.<br><color style='color:#FFFFFFFF'>Usages: 2</color>"
+        "Name": "<color style='color:#FFFFFFFF'>빛나는 깃털의 수호</color>",
+        "Desc": "부착 캐릭터가 <color style='color:#FFFFFFFF'>원소전투 스킬</color> 및 <color style='color:#FFFFFFFF'>원소폭발</color>로 주는 피해+1pt<br><color style='color:#FFFFFFFF'>사용 가능 횟수: 2</color>"
     },
     "1004": {
-        "Name": "<color style='color:#FFFFFFFF'>Fatui Ambusher</color>",
-        "Desc": "Fatui Ambushers will trigger their effects after characters on the side of the field they are at use Skills, and will deal DMG to the active character on that side of the field. (Once per Round)<br>There are 4 kinds of Fatui Ambushers in total:<br><color style='color:#FFFFFFFF'>Cryo Cicin Mage</color>: Deals 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> when triggered, 2 Usages.<br><color style='color:#FFFFFFFF'>Mirror Maiden</color>: Deals 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> when triggered, 2 Usages.<br><color style='color:#FFFFFFFF'>Pyroslinger Bracer</color>: Deals 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> when triggered, 2 Usages.<br><color style='color:#FFFFFFFF'>Electrohammer Vanguard</color>: Deals 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color> when triggered, 2 Usages."
+        "Name": "<color style='color:#FFFFFFFF'>우인단 복병</color>",
+        "Desc": "「우인단 복병」은 자신이 소속된 진영의 캐릭터 카드가 스킬을 사용하면 발동해, 소속 진영 출전 캐릭터에게 피해를 준다. (턴당 1회)<br>등장할 수 있는 「우인단 복병」은 총 4가지다:<br><color style='color:#FFFFFFFF'>얼음 치친 술사</color>: 발동 시 [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해</color>를 1pt 준다. (2회 사용 가능)<br><color style='color:#FFFFFFFF'>거울의 여인</color>: 발동 시 [b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>를 1pt 준다. (2회 사용 가능)<br><color style='color:#FFFFFFFF'>화승총 유격대</color>: 발동 시 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 1pt 준다. (2회 사용 가능)<br><color style='color:#FFFFFFFF'>번개 해머 돌격대</color>: 발동 시 [b]2104[a]<color style='color:#FFACFFFF'>번개 원소 피해</color>를 1pt 준다. (2회 사용 가능)"
     },
     "1005": {
-        "Name": "<color style='color:#FFFFFFFF'>Riptide</color>",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached is defeated: </color>Apply Riptide to active character.<br>When <color style='color:#FFFFFFFF'>Tartaglia</color> is in <color style='color:#FFFFFFFF'>Melee Stance</color>, he will deal additional DMG when attacking the character to which this is attached."
+        "Name": "<color style='color:#FFFFFFFF'>단류</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 처치된 후:</color> 소속 진영의 출전 캐릭터에게 「단류」를 부착한다.<br>(<color style='color:#FFFFFFFF'>「근접 상태」</color>의 <color style='color:#FFFFFFFF'>타르탈리아</color>가 부착 캐릭터를 공격하면 추가 피해를 줄 수 있다)"
     },
     "1006": {
-        "Name": "<color style='color:#FFFFFFFF'>Aegis of Abyssal Flame</color>",
-        "Desc": "Grant the character to which this is attached <color style='color:#FFFFFFFF'>3 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points</color>.<br>Before this [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> is depleted, the character to which this is attached will deal +1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>."
+        "Name": "<color style='color:#FFFFFFFF'>심연 불꽃의 가호</color>",
+        "Desc": "부착 캐릭터에게 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 <color style='color:#FFFFFFFF'>3pt</color> 제공한다.<br>해당 [b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>이 소진되기 전까지 부착 캐릭터가 주는 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>+1pt"
     },
     "1007": {
-        "Name": "<color style='color:#FFFFFFFF'>Superlative Superstrength</color>",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached uses a <color style='color:#FFFFFFFF'>Charged Attack</color>: </color>Deal +1 DMG. If the <color style='color:#FFFFFFFF'>Usages</color> are no less than 2, then costs 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 3 stacks.)"
+        "Name": "<color style='color:#FFFFFFFF'>난신의 괴력</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>부착 캐릭터가 <color style='color:#FFFFFFFF'>강공격</color> 시:</color> 주는 피해+1pt. 만약 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>가 2 이상일 경우 소모하는 <color style='color:#FFFFFFFF'>[b]1109[a]무색 원소</color>가 1개 감소한다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color> (중첩 가능, 최대 중첩수: 3회)"
     },
     "1008": {
-        "Name": "<color style='color:#FFFFFFFF'>Clusterbloom Arrow</color>",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>.<br><color style='color:#FFFFFFFF'>Usage(s): 1</color> (Can stack. Max 2 stacks.)"
+        "Name": "<color style='color:#FFFFFFFF'>꽃을 품은 화살</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'>사용 가능 횟수: 1</color> (중첩 가능, 최대 중첩수: 2회)"
     },
     "1009": {
-        "Name": "<color style='color:#FFFFFFFF'>Blood Blossom</color>",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> to the character to which this is attached.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>:1</color>"
+        "Name": "<color style='color:#FFFFFFFF'>혈매향</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계: </color>부착 캐릭터에게 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해</color>를 1pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>"
     },
     "1010": {
-        "Name": "<color style='color:#FFFFFFFF'>Scarlet Seal</color>",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character uses a <color style='color:#FFFFFFFF'>Charged Attack</color>:</color> DMG dealt +2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 2 stacks.)"
+        "Name": "<color style='color:#FFFFFFFF'>단화인</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>캐릭터가 <color style='color:#FFFFFFFF'>강공격</color> 발동 시:</color> 주는 피해+2pt<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>(중첩 가능, 최대 중첩수: 2회)"
     },
     "1011": {
-        "Name": "<color style='color:#FFFFFFFF'>Bountiful Core</color>",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s): </color>1</color> (Can stack, max 3 stacks)<br><color style='color:#FFFFFFFF'>When you declare the end of your Round:</color> If this summon has at least 2 Usages remaining, deal 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>. (Consumes <color style='color:#FFFFFFFF'>Usages</color>)"
+        "Name": "<color style='color:#FFFFFFFF'>풍요의 핵</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> [b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>를 2pt 준다.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>(중첩 가능, 최대 중첩수: 3회)<br><color style='color:#FFFFFFFF'>아군이 종료 선언 시:</color> 해당 카드의 <color style='color:#FFFFFFFF'>사용 가능 횟수</color>가 2회 이상이면 [b]2107[a]<color style='color:#7EC236FF'>풀 원소 피해</color>를 2pt 준다. (<color style='color:#FFFFFFFF'>사용 가능 횟수</color> 소모 필요)"
     },
     "1012": {
-        "Name": "<color style='color:#FFFFFFFF'>Elemental Absorption</color>",
-        "Desc": "Azhdaha can absorb the power of [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color>/[b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>/[b]2103[a]<color style='color:#FF9999FF'>Pyro</color>/[b]2104[a]<color style='color:#FFACFFFF'>Electro</color>. (Only 1 can be absorbed at any one time)<br><color style='color:#FFFFFFFF'>When Azhdaha has absorbed any of the above Elements:</color> Based on the type of Element that was absorbed, gain the skills [b]2101[a]<color style='color:#99FFFFFF'>Frostspike Wave</color>/[b]2102[a]<color style='color:#80C0FFFF'>Torrential Rebuke</color>/[b]2103[a]<color style='color:#FF9999FF'>Blazing Rebuke</color>/[b]2104[a]<color style='color:#FFACFFFF'>Thunderstorm Wave</color>."
+        "Name": "<color style='color:#FFFFFFFF'>해당 원소의 힘을 흡수</color>",
+        "Desc": "야타용왕은 [b]2101[a]<color style='color:#99FFFFFF'>얼음</color>/[b]2102[a]<color style='color:#80C0FFFF'>물</color>/[b]2103[a]<color style='color:#FF9999FF'>불</color>/[b]2104[a]<color style='color:#FFACFFFF'>번개</color> 원소의 힘을 흡수할 수 있다. (동시에 한 가지만 흡수 가능)<br><color style='color:#FFFFFFFF'>야타용왕이 상술한 원소의 힘을 흡수했을 시: </color>흡수한 원소 타입에 따라 다음 스킬을 획득한다: [b]2101[a]<color style='color:#99FFFFFF'>서리 습격</color>/[b]2102[a]<color style='color:#80C0FFFF'>격류 범람</color>/[b]2103[a]<color style='color:#FF9999FF'>화염 잠식</color>/[b]2104[a]<color style='color:#FFACFFFF'>벼락 습격</color>"
     },
     "1013": {
-        "Name": "<color style='color:#FFFFFFFF'>Crimson Witch of Embers</color>",
-        "Desc": "La Signora can permanently change into the \"Crimson Witch of Embers\" state.<br>After changing, La Signora's Elemental Type changes from [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color> to [b]2103[a]<color style='color:#FF9999FF'>Pyro</color>.<br>After changing, this character can use the skills of the Crimson Witch of Embers, but can no longer use La Signora's original skills."
+        "Name": "<color style='color:#FFFFFFFF'>「사그라든 화염의 마녀」</color>",
+        "Desc": "「시뇨라」는 영구적으로 「사그라든 화염의 마녀」 형태로 전환될 수 있다.<br>전환 후 「시뇨라」의 원소 타입은 [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소</color>에서 [b]2103[a]<color style='color:#FF9999FF'>불 원소</color>로 전환된다.<br>전환 후 이 캐릭터는 「사그라든 화염의 마녀」의 스킬을 사용할 수 있으며 기존 「시뇨라」의 스킬은 사용할 수 없다."
     },
     "1014": {
-        "Name": "<color style='color:#FFFFFFFF'>Deactivated</color>",
-        "Desc": "When clockwork meka that have either Arkhe: Ousia or Arkhe: Pneuma receive DMG aligned with the opposite Arkhe, a pneuma-ousia annihilation reaction will occur, and they will become Deactivated.<br>Deactivated clockwork meka will not be able to use their original abilities, and can only use Deactivated abilities. Deactivated abilities cannot deal Elemental DMG, and can only deal Physical DMG."
+        "Name": "<color style='color:#FFFFFFFF'>「에너지 상실 형태」</color>",
+        "Desc": "「에너지원 특징: 우시아」 또는 「에너지원 특징: 프뉴마」를 가진 「태엽 장치」가 반대되는 성질을 가진 「아르케의 힘」의 피해를 받은 후, 프뉴무시아 소멸 효과가 발생하고 「에너지 상실 형태」로 전환된다.<br>「태엽 장치」가 「에너지 상실 형태」가 되면 기존 스킬을 사용할 수 없으며 「에너지 상실 형태」의 스킬만 사용할 수 있다. 「에너지 상실 형태」의 스킬은 원소 피해를 줄 수 없고 물리 피해만 준다."
     },
     "1015": {
-        "Name": "Pneuma-Ousia Annihilation Reaction",
-        "Desc": "After an Ousia-aligned character takes [b]3505[a]Arkhe: Pneuma-aligned DMG, or after Pneuma-aligned characters take [b]3504[a]Arkhe: Ousia-aligned DMG, a Pneuma-Ousia Annihilation Reaction will occur.<br>Pneuma-Ousia Annihilation reactions will have different effects on different types of cards."
+        "Name": "프뉴무시아 소멸 효과",
+        "Desc": "「우시아」를 가진 캐릭터가 「[b]3505[a]아르케의 힘: 프뉴마」를 가진 피해를 받거나 혹은 「프뉴마」를 가진 캐릭터가 「[b]3504[a]아르케의 힘: 우시아」를 가진 피해를 받은 후, 프뉴무시아 소멸 효과가 발생한다.<br>각기 다른 카드에 프뉴무시아 소멸 효과가 발생하면 서로 다른 효과가 발생할 수 있다."
     },
     "1016": {
-        "Name": "Sheer Cold",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> to the character to which this is attached.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>:1</color> (When the character with this attached has <color style='color:#FFFFFFFF'>Blazing Heat</color> attached to them, remove this effect.)"
+        "Name": "혹한",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계:</color> 부착 캐릭터에게 [b]2101[a]<color style='color:#99FFFFFF'>얼음 원소 피해를 1pt 준다</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>(부착 캐릭터에게 <color style='color:#FFFFFFFF'>작열</color>이 부착될 시, 해당 효과는 제거된다)"
     },
     "1017": {
-        "Name": "Blazing Heat",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> to the character to which this is attached.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>:1</color> (When the character with this attached has <color style='color:#FFFFFFFF'>Sheer Cold</color> attached to them, remove this effect.)"
+        "Name": "작열",
+        "Desc": "<color style='color:#FFFFFFFF'>종료 단계</color>: 부착 캐릭터에게 [b]2103[a]<color style='color:#FF9999FF'>불 원소 피해를 1pt 준다</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>사용 가능 횟수</color>: 1</color>(부착 캐릭터에게 <color style='color:#FFFFFFFF'>혹한</color>이 부착될 시, 해당 효과는 제거된다)"
     },
     "1018": {
-        "Name": "Blazing Barrier",
-        "Desc": "Grants <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point</color> to your active character. (Can stack. Max 3 points.)"
+        "Name": "타오르는 우명의 방패",
+        "Desc": "아군 출전 캐릭터에게 <color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>보호막</color>을 1pt 제공한다</color>. (중첩 가능, 최대 3pt)"
     },
     "1019": {
-        "Name": "Gurgling Bubble",
-        "Desc": "Character cannot use Skills. (Lasts until the end of this Round)"
+        "Name": "꾸륵 물방울",
+        "Desc": "캐릭터 스킬 사용 불가 (턴 종료까지 지속)"
     },
     "1020": {
-        "Name": "<color style='color:#FFFFFFFF'>Equitable Judgment</color>",
-        "Desc": "<color style='color:#D3BC8E'>Normal Attack</color><br>(Prepare for 1 turn)<br>Deals 2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>. If character has at least 6 HP, then deal 1 Piercing DMG to yourself and gain +1 DMG."
+        "Name": "<color style='color:#FFFFFFFF'>공정한 판결</color>",
+        "Desc": "<color style='color:#D3BC8E'>일반 공격</color><br>(1차례 행동 준비 필요)<br>[b]2102[a]<color style='color:#80C0FFFF'>물 원소 피해</color>를 2pt 준다. 만약 HP가 6pt 이상일 경우, 자신에게 관통 피해를 1pt 주고 피해+1pt"
     }
 }
 
 var _tag = {
-    "GCG_TAG_UNIQUE": "Only One",
-    "GCG_TAG_SLOWLY": "Combat Action",
-    "GCG_TAG_FORBIDDEN_ATTACK": "Unable to Act",
-    "GCG_TAG_IMMUNE_FREEZING": "Immune to Frozen",
-    "GCG_TAG_IMMUNE_CONTROL": "Immune to Disables",
-    "GCG_TAG_NATION_MONDSTADT": "Mondstadt",
-    "GCG_TAG_NATION_LIYUE": "Liyue",
-    "GCG_TAG_NATION_INAZUMA": "Inazuma",
-    "GCG_TAG_NATION_SUMERU": "Sumeru",
-    "GCG_TAG_NATION_FONTAINE": "Fontaine",
-    "GCG_TAG_NATION_NATLAN": "Natlan",
-    "GCG_TAG_NATION_SNEZHNAYA": "Snezhnaya",
-    "GCG_TAG_NATION_KHAENRIAH": "Khaenri'ah",
-    "GCG_TAG_CAMP_FATUI": "Fatui",
-    "GCG_TAG_CAMP_HILICHURL": "Hilichurl",
-    "GCG_TAG_CAMP_MONSTER": "Monster",
-    "GCG_TAG_CAMP_KAIRAGI": "Kairagi",
-    "GCG_TAG_CAMP_EREMITE": "The Eremites",
-    "GCG_TAG_WEAPON_NONE": "Other Weapons",
-    "GCG_TAG_WEAPON_CATALYST": "Catalyst",
-    "GCG_TAG_WEAPON_BOW": "Bow",
-    "GCG_TAG_WEAPON_CLAYMORE": "Claymore",
-    "GCG_TAG_WEAPON_POLE": "Polearm",
-    "GCG_TAG_WEAPON_SWORD": "Sword",
-    "GCG_TAG_ELEMENT_NONE": "No Elemental Type",
-    "GCG_TAG_ELEMENT_CRYO": "Cryo",
-    "GCG_TAG_ELEMENT_HYDRO": "Hydro",
-    "GCG_TAG_ELEMENT_PYRO": "Pyro",
-    "GCG_TAG_ELEMENT_ELECTRO": "Electro",
-    "GCG_TAG_ELEMENT_ANEMO": "Anemo",
-    "GCG_TAG_ELEMENT_GEO": "Geo",
-    "GCG_TAG_ELEMENT_DENDRO": "Dendro",
-    "GCG_TAG_WEAPON": "Weapon",
-    "GCG_TAG_ARTIFACT": "Artifact",
-    "GCG_TAG_TALENT": "Talent",
-    "GCG_TAG_SHEILD": "Shield",
-    "GCG_TAG_PLACE": "Location",
-    "GCG_TAG_ALLY": "Companion",
-    "GCG_TAG_ITEM": "Item",
-    "GCG_TAG_RESONANCE": "Elemental Resonance",
-    "GCG_TAG_FOOD": "Food",
-    "GCG_TAG_LEGEND": "Arcane Legend",
-    "GCG_TAG_DENDRO_PRODUCE": "Dendro Construct",
-    "GCG_TAG_ARKHE_PNEUMA": "Arkhe: Ousia",
-    "GCG_TAG_ARKHE_OUSIA": "Arkhe: Pneuma"
+    "GCG_TAG_UNIQUE": "유일",
+    "GCG_TAG_SLOWLY": "전투 행동",
+    "GCG_TAG_FORBIDDEN_ATTACK": "행동 불가",
+    "GCG_TAG_IMMUNE_FREEZING": "빙결 면역",
+    "GCG_TAG_IMMUNE_CONTROL": "제어 면역",
+    "GCG_TAG_NATION_MONDSTADT": "몬드",
+    "GCG_TAG_NATION_LIYUE": "리월",
+    "GCG_TAG_NATION_INAZUMA": "이나즈마",
+    "GCG_TAG_NATION_SUMERU": "수메르",
+    "GCG_TAG_NATION_FONTAINE": "폰타인",
+    "GCG_TAG_NATION_NATLAN": "나타",
+    "GCG_TAG_NATION_SNEZHNAYA": "스네즈나야",
+    "GCG_TAG_NATION_KHAENRIAH": "켄리아",
+    "GCG_TAG_CAMP_FATUI": "우인단",
+    "GCG_TAG_CAMP_HILICHURL": "츄츄족",
+    "GCG_TAG_CAMP_MONSTER": "마물",
+    "GCG_TAG_CAMP_KAIRAGI": "해란귀",
+    "GCG_TAG_CAMP_EREMITE": "도금 여단",
+    "GCG_TAG_WEAPON_NONE": "기타 무기",
+    "GCG_TAG_WEAPON_CATALYST": "법구",
+    "GCG_TAG_WEAPON_BOW": "활",
+    "GCG_TAG_WEAPON_CLAYMORE": "양손검",
+    "GCG_TAG_WEAPON_POLE": "장병기",
+    "GCG_TAG_WEAPON_SWORD": "한손검",
+    "GCG_TAG_ELEMENT_NONE": "원소 타입 없음",
+    "GCG_TAG_ELEMENT_CRYO": "얼음 원소",
+    "GCG_TAG_ELEMENT_HYDRO": "물 원소",
+    "GCG_TAG_ELEMENT_PYRO": "불 원소",
+    "GCG_TAG_ELEMENT_ELECTRO": "번개 원소",
+    "GCG_TAG_ELEMENT_ANEMO": "바람 원소",
+    "GCG_TAG_ELEMENT_GEO": "바위 원소",
+    "GCG_TAG_ELEMENT_DENDRO": "풀 원소",
+    "GCG_TAG_WEAPON": "무기",
+    "GCG_TAG_ARTIFACT": "성유물",
+    "GCG_TAG_TALENT": "특성",
+    "GCG_TAG_SHEILD": "보호막",
+    "GCG_TAG_PLACE": "필드",
+    "GCG_TAG_ALLY": "동료",
+    "GCG_TAG_ITEM": "아이템",
+    "GCG_TAG_RESONANCE": "원소 공명",
+    "GCG_TAG_FOOD": "요리",
+    "GCG_TAG_LEGEND": "비기",
+    "GCG_TAG_DENDRO_PRODUCE": "풀 원소 산물",
+    "GCG_TAG_ARKHE_PNEUMA": "아르케의 힘: 우시아",
+    "GCG_TAG_ARKHE_OUSIA": "아르케의 힘: 프뉴마"
 }
 
 var _skilltag = {
-    "GCG_SKILL_TAG_A": "Normal Attack",
-    "GCG_SKILL_TAG_E": "Elemental Skill",
-    "GCG_SKILL_TAG_Q": "Elemental Burst",
-    "GCG_SKILL_TAG_PASSIVE": "Passive Skill"
+    "GCG_SKILL_TAG_A": "일반 공격",
+    "GCG_SKILL_TAG_E": "원소전투 스킬",
+    "GCG_SKILL_TAG_Q": "원소폭발",
+    "GCG_SKILL_TAG_PASSIVE": "패시브 스킬"
 }

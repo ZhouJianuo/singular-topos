@@ -3,8 +3,8 @@
 var _skills = {
     "11011": {
         "_id": 11011,
-        "Name": "Liutian Archery",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Archerie Liutian",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -17,8 +17,8 @@ var _skills = {
     },
     "11012": {
         "_id": 11012,
-        "Name": "Trail of the Qilin",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Ice Lotus</color>.",
+        "Name": "Trace de Qilin",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b> et crée un <color style='color:#FFFFFFFF'>Lotus de glace</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -32,8 +32,8 @@ var _skills = {
     },
     "11013": {
         "_id": 11013,
-        "Name": "Frostflake Arrow",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, deals 2 <color style='color:#FFFFFFFF'>Piercing DMG</color> to all opposing characters on standby.",
+        "Name": "Flèche de givre",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b> et inflige 2 pts de <color style='color:#FFFFFFFF'>DGT de perforation</color> à tous les personnages adverses en attente.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -45,8 +45,8 @@ var _skills = {
     },
     "11014": {
         "_id": 11014,
-        "Name": "Celestial Shower",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, deals 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to all opposing characters on standby, summons 1 <color style='color:#FFFFFFFF'>Sacred Cryo Pearl</color>.",
+        "Name": "Baptême céleste",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>, inflige 1 pt de <color style='color:#FFFFFFFF'>DGT de perforation</color> à tous les personnages adverses en attente et invoque une <color style='color:#FFFFFFFF'>Perle de glace</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -61,8 +61,8 @@ var _skills = {
     },
     "11021": {
         "_id": 11021,
-        "Name": "Kätzlein Style",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Archerie de chasse",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -75,8 +75,8 @@ var _skills = {
     },
     "11022": {
         "_id": 11022,
-        "Name": "Icy Paws",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Cat-Claw Shield</color>.",
+        "Name": "Griffes Cryo",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b> et crée un <color style='color:#FFFFFFFF'>Bouclier de griffes</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -90,8 +90,8 @@ var _skills = {
     },
     "11023": {
         "_id": 11023,
-        "Name": "Signature Mix",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, heals this character for 2 HP, summons 1 <color style='color:#FFFFFFFF'>Drunken Mist</color>.",
+        "Name": "Cuvée spéciale",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>, soigne ce personnage pour 2 pts et invoque un <color style='color:#FFFFFFFF'>Champ de vapeur d'alcool</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -106,8 +106,8 @@ var _skills = {
     },
     "11031": {
         "_id": 11031,
-        "Name": "Ceremonial Bladework",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Passe d'armes",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -120,8 +120,8 @@ var _skills = {
     },
     "11032": {
         "_id": 11032,
-        "Name": "Frostgnaw",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Attaque givrée",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -133,8 +133,8 @@ var _skills = {
     },
     "11033": {
         "_id": 11033,
-        "Name": "Glacial Waltz",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Icicle</color>.",
+        "Name": "Valse glaciale",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b> et crée une <color style='color:#FFFFFFFF'>Stalactite</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -149,8 +149,8 @@ var _skills = {
     },
     "11041": {
         "_id": 11041,
-        "Name": "Demonbane",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Fléau des démons",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -163,8 +163,8 @@ var _skills = {
     },
     "11042": {
         "_id": 11042,
-        "Name": "Chonghua's Layered Frost",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Chonghua Frost Field</color>.",
+        "Name": "Givre superposé",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b> et crée un <color style='color:#FFFFFFFF'>Champ de givre</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -178,8 +178,8 @@ var _skills = {
     },
     "11043": {
         "_id": 11043,
-        "Name": "Cloud-Parting Star",
-        "Desc": "Deals <b>7</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Chute d'étoiles",
+        "Desc": "Inflige <b>7</b> <b>7</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -192,8 +192,8 @@ var _skills = {
     },
     "11051": {
         "_id": 11051,
-        "Name": "Kamisato Art: Kabuki",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "École Kamisato : Sveltesse",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -206,8 +206,8 @@ var _skills = {
     },
     "11052": {
         "_id": 11052,
-        "Name": "Kamisato Art: Hyouka",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "École Kamisato : Fleur de glace",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -219,8 +219,8 @@ var _skills = {
     },
     "11053": {
         "_id": 11053,
-        "Name": "Kamisato Art: Soumetsu",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Frostflake Seki no To</color>.",
+        "Name": "École Kamisato : Givre mortel",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b> et invoque un <color style='color:#FFFFFFFF'>Tourbillon givré</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -235,8 +235,8 @@ var _skills = {
     },
     "11054": {
         "_id": 11054,
-        "Name": "Kamisato Art: Senho",
-        "Desc": "(Passive) When switched to be the active character, this character gains <color style='color:#FFFFFFFF'>Cryo Elemental Infusion</color>.",
+        "Name": "École Kamisato : Sentier de givre",
+        "Desc": "(Passif) Lorsque ce personnage devient le personnage actif, accorde un <color style='color:#FFFFFFFF'>Enchantement Cryo</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -248,8 +248,8 @@ var _skills = {
     },
     "11061": {
         "_id": 11061,
-        "Name": "Favonius Bladework - Edel",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Escrime de Favonius : Aristocratie",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -262,8 +262,8 @@ var _skills = {
     },
     "11062": {
         "_id": 11062,
-        "Name": "Icetide Vortex",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>. If this character has not yet gained <color style='color:#FFFFFFFF'>Grimheart</color>, they will gain <color style='color:#FFFFFFFF'>Grimheart</color>.",
+        "Name": "Vortex des mers glacées",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>. Si le personnage n'est pas affecté par un <color style='color:#FFFFFFFF'>Cœur de glace</color>, il obtient un <color style='color:#FFFFFFFF'>Cœur de glace</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -277,8 +277,8 @@ var _skills = {
     },
     "11063": {
         "_id": 11063,
-        "Name": "Glacial Illumination",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Lightfall Sword</color>.",
+        "Name": "Lame de fond",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b> et invoque une <color style='color:#FFFFFFFF'>Épée de lumière</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -293,8 +293,8 @@ var _skills = {
     },
     "11071": {
         "_id": 11071,
-        "Name": "Dawnstar Piercer",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Percée des étoiles",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -307,8 +307,8 @@ var _skills = {
     },
     "11072": {
         "_id": 11072,
-        "Name": "Spring Spirit Summoning",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Icy Quill</color>.",
+        "Name": "Invocation d'esprit printanier",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b> et crée un <color style='color:#FFFFFFFF'>Pennage glacé</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -322,8 +322,8 @@ var _skills = {
     },
     "11073": {
         "_id": 11073,
-        "Name": "Divine Maiden's Deliverance",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Talisman Spirit</color>.",
+        "Name": "Délivrance de la demoiselle divine",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b> et invoque un <color style='color:#FFFFFFFF'>Esprit talismanique</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -338,8 +338,8 @@ var _skills = {
     },
     "11081": {
         "_id": 11081,
-        "Name": "Ancient Sword Art",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Escrime ancienne des nuages",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -352,8 +352,8 @@ var _skills = {
     },
     "11082": {
         "_id": 11082,
-        "Name": "Adeptus Art: Herald of Frost",
-        "Desc": "Summons <color style='color:#FFFFFFFF'>Herald of Frost</color>.",
+        "Name": "Arcane d'Adepte : Héraut de givre",
+        "Desc": "Invoque un <color style='color:#FFFFFFFF'>Héraut de givre</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -367,8 +367,8 @@ var _skills = {
     },
     "11083": {
         "_id": 11083,
-        "Name": "Adeptus Art: Preserver of Fortune",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Fortune-Preserving Talisman</color>.",
+        "Name": "Arcane d'Adepte : Talisman sacré",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b> et crée un <color style='color:#FFFFFFFF'>Talisman de fortune</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -383,8 +383,8 @@ var _skills = {
     },
     "11091": {
         "_id": 11091,
-        "Name": "Sword of the Radiant Path",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Épée de radiance",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -397,8 +397,8 @@ var _skills = {
     },
     "11092": {
         "_id": 11092,
-        "Name": "Nights of Formal Focus",
-        "Desc": "Creates 1 <color style='color:#FFFFFFFF'>Curtain of Slumber Shield</color> and <color style='color:#FFFFFFFF'>Shooting Star</color>.",
+        "Name": "Nuits de solennité",
+        "Desc": "Crée un <color style='color:#FFFFFFFF'>Rideau de sommeil</color> et une <color style='color:#FFFFFFFF'>Étoile filante</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -413,8 +413,8 @@ var _skills = {
     },
     "11093": {
         "_id": 11093,
-        "Name": "Dream of the Star-Stream Shaker",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Celestial Dreamsphere</color>.",
+        "Name": "Rêve berçant les étoiles",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b> et invoque une <color style='color:#FFFFFFFF'>Sphère de rêve céleste</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -429,8 +429,8 @@ var _skills = {
     },
     "11101": {
         "_id": 11101,
-        "Name": "Cool-Color Capture",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Phototype à froid",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -443,8 +443,8 @@ var _skills = {
     },
     "11102": {
         "_id": 11102,
-        "Name": "Framing: Freezing Point Composition",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>. Attach <color style='color:#FFFFFFFF'>Snappy Silhouette</color> to the target.",
+        "Name": "Cadrage : Composition gelée",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b> et applique une <color style='color:#FFFFFFFF'>Silhouette instantanée</color> à la cible.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -458,8 +458,8 @@ var _skills = {
     },
     "11103": {
         "_id": 11103,
-        "Name": "Still Photo: Comprehensive Confirmation",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, heals all your characters for 1 HP, summons 1 <color style='color:#FFFFFFFF'>Newsflash Field</color>.",
+        "Name": "Pose : Corroboration complète",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>, soigne tous vos personnages pour 1 pt et invoque un <color style='color:#FFFFFFFF'>Champ de flash info</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -474,8 +474,8 @@ var _skills = {
     },
     "12011": {
         "_id": 12011,
-        "Name": "Whisper of Water",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Murmure de l'eau",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -488,8 +488,8 @@ var _skills = {
     },
     "12012": {
         "_id": 12012,
-        "Name": "Let the Show Begin♪",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Melody Loop</color>.",
+        "Name": "C'est parti pour le show ♪",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b> et invoque un <color style='color:#FFFFFFFF'>Cercle de mélodie</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -503,8 +503,8 @@ var _skills = {
     },
     "12013": {
         "_id": 12013,
-        "Name": "Shining Miracle♪",
-        "Desc": "Heals all of your characters for 4 HP.",
+        "Name": "Miracle brillant ♪",
+        "Desc": "Soigne tous vos personnages pour 4 pts.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -517,8 +517,8 @@ var _skills = {
     },
     "12021": {
         "_id": 12021,
-        "Name": "Guhua Style",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Style Guhua",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -531,8 +531,8 @@ var _skills = {
     },
     "12022": {
         "_id": 12022,
-        "Name": "Fatal Rainscreen",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, grants this character <color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color>, creates 1 <color style='color:#FFFFFFFF'>Rain Sword</color>.",
+        "Name": "Pluie battante",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>, <color style='color:#80C0FFFF'>Application [b]2102[a]Hydro</color> au personnage et crée une <color style='color:#FFFFFFFF'>Épée de pluie</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -546,8 +546,8 @@ var _skills = {
     },
     "12023": {
         "_id": 12023,
-        "Name": "Raincutter",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, grants this character <color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color>, creates 1 <color style='color:#FFFFFFFF'>Rainbow Bladework</color>.",
+        "Name": "Pluie et arc-en-ciel",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>, <color style='color:#80C0FFFF'>Application [b]2102[a]Hydro</color> au personnage et crée une <color style='color:#FFFFFFFF'>Lame arc-en-ciel</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -562,8 +562,8 @@ var _skills = {
     },
     "12031": {
         "_id": 12031,
-        "Name": "Ripple of Fate",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Ondes du destin",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -576,8 +576,8 @@ var _skills = {
     },
     "12032": {
         "_id": 12032,
-        "Name": "Mirror Reflection of Doom",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Reflection</color>.",
+        "Name": "Mirage aqueux",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b> et invoque un <color style='color:#FFFFFFFF'>Mirage</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -591,8 +591,8 @@ var _skills = {
     },
     "12033": {
         "_id": 12033,
-        "Name": "Stellaris Phantasm",
-        "Desc": "Deals <b>4</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Illusory Bubble</color>.",
+        "Name": "Voie divine",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b> et crée une <color style='color:#FFFFFFFF'>Bulle nocturne</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -607,8 +607,8 @@ var _skills = {
     },
     "12034": {
         "_id": 12034,
-        "Name": "Illusory Torrent",
-        "Desc": "(Passive) <color style='color:#FFFFFFFF'>When you perform \"Switch Character\" while Mona is your active character:</color> This switch is considered a <color style='color:#FFFFFFFF'>Fast Action</color> instead of a <color style='color:#FFFFFFFF'>Combat Action</color>. (Once per Round)",
+        "Name": "Vicissitude",
+        "Desc": "(Passif) <color style='color:#FFFFFFFF'>Lorsque ce personnage est actif et que vous basculez de personnage, </color>considère ce changement comme une <color style='color:#FFFFFFFF'>Action rapide</color>, et pas comme une <color style='color:#FFFFFFFF'>Action de combat</color>. (1 fois par manche)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -618,8 +618,8 @@ var _skills = {
     },
     "12041": {
         "_id": 12041,
-        "Name": "Cutting Torrent",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Taille du torrent",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -632,8 +632,8 @@ var _skills = {
     },
     "12042": {
         "_id": 12042,
-        "Name": "Foul Legacy: Raging Tide",
-        "Desc": "Switches to <color style='color:#FFFFFFFF'>Melee Stance</color> and deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, and attach <color style='color:#FFFFFFFF'>Riptide</color> to the target character.",
+        "Name": "Posture du démon: Marée déchaînée",
+        "Desc": "Fait passer en <color style='color:#FFFFFFFF'>État de mêlée</color>, inflige <b>2</b> <b>2</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b> et inflige l'effet <color style='color:#FFFFFFFF'>Contre-courant</color> au personnage choisi.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -648,8 +648,8 @@ var _skills = {
     },
     "12043": {
         "_id": 12043,
-        "Name": "Havoc: Obliteration",
-        "Desc": "Performs different attacks based on the current stance that <color style='color:#FFFFFFFF'>Tartaglia</color> is in.<br><color style='color:#FFFFFFFF'>Ranged Stance - Flash of Havoc: </color>Deal <b>5</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, reclaim 2 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>, and apply <color style='color:#FFFFFFFF'>Riptide</color> to the target character.<br><color style='color:#FFFFFFFF'>Melee Stance - Light of Obliteration</color>: Deal <b>7</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Ravage : Oblitération",
+        "Desc": "Effectue différentes attaques selon l'état actuel de <color style='color:#FFFFFFFF'>Tartaglia</color> :<br><color style='color:#FFFFFFFF'>En état à distance, déclenche Éclair de balle maléfique: </color>Inflige <b>5</b> <b>7</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>, restaure 2 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color> et inflige l'effet <color style='color:#FFFFFFFF'>Contre-courant</color> au personnage choisi.<br><color style='color:#FFFFFFFF'>En état de mêlée, déclenche Lumière d'élimination : </color>Inflige <b>7</b> <b>7</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -664,8 +664,8 @@ var _skills = {
     },
     "12044": {
         "_id": 12044,
-        "Name": "Tide Withholder",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Ranged Stance</color>. Once the <color style='color:#FFFFFFFF'>Melee Stance</color> attached to the character ends, reapplies <color style='color:#FFFFFFFF'>Ranged Stance</color>.",
+        "Name": "Vague au calme",
+        "Desc": "(Passif) Accorde un <color style='color:#FFFFFFFF'>État à distance</color> au début du combat.<br>Lorsqu'un <color style='color:#FFFFFFFF'>État de mêlée</color> du personnage affecté prend fin, accorde à nouveau un <color style='color:#FFFFFFFF'>État à distance</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -678,7 +678,7 @@ var _skills = {
     },
     "12045": {
         "_id": 12045,
-        "Name": "Ranged Stance",
+        "Name": "État à distance",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -689,7 +689,7 @@ var _skills = {
     },
     "12046": {
         "_id": 12046,
-        "Name": "Tide Withholder",
+        "Name": "Vague au calme",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -700,8 +700,8 @@ var _skills = {
     },
     "12051": {
         "_id": 12051,
-        "Name": "The Shape of Water",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Forme de l'eau",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -714,8 +714,8 @@ var _skills = {
     },
     "12052": {
         "_id": 12052,
-        "Name": "Kurage's Oath",
-        "Desc": "This character gains <color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color> and summons 1 <color style='color:#FFFFFFFF'>Bake-Kurage</color>.",
+        "Name": "Serment de Kurage",
+        "Desc": "<color style='color:#80C0FFFF'>Application [b]2102[a]Hydro</color> au personnage et invoque une <color style='color:#FFFFFFFF'>Méduse fantôme</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -729,8 +729,8 @@ var _skills = {
     },
     "12053": {
         "_id": 12053,
-        "Name": "Nereid's Ascension",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. Heals all allied characters for 1 point. This character gains <color style='color:#FFFFFFFF'>Ceremonial Garment</color>.",
+        "Name": "Ascension de la néréide",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>, soigne tous vos personnages pour 1 pt et accorde une <color style='color:#FFFFFFFF'>Parure cérémoniale</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -745,8 +745,8 @@ var _skills = {
     },
     "12061": {
         "_id": 12061,
-        "Name": "Kamisato Art: Marobashi",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "École Kamisato : Transition",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -759,8 +759,8 @@ var _skills = {
     },
     "12062": {
         "_id": 12062,
-        "Name": "Kamisato Art: Kyouka",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Takimeguri Kanka</color>.",
+        "Name": "École Kamisato : Beauté réfléchie",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b> et accorde une <color style='color:#FFFFFFFF'>Réflexion torrentielle</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -774,8 +774,8 @@ var _skills = {
     },
     "12063": {
         "_id": 12063,
-        "Name": "Kamisato Art: Suiyuu",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Garden of Purity</color>.",
+        "Name": "École Kamisato : Jardin d'eau",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b> et invoque un <color style='color:#FFFFFFFF'>Jardin de pureté</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -790,8 +790,8 @@ var _skills = {
     },
     "12071": {
         "_id": 12071,
-        "Name": "Gleaming Spear - Guardian Stance",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Lance étincelante (Posture protectrice)",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -804,8 +804,8 @@ var _skills = {
     },
     "12072": {
         "_id": 12072,
-        "Name": "Sacred Rite: Heron's Sanctum",
-        "Desc": "Attaches a <color style='color:#FFFFFFFF'>Heron Shield</color> to this character and <color style='color:#FFFFFFFF'>Prepare Skill</color> <color style='color:#FFFFFFFF'>Heron Strike</color>.",
+        "Name": "Liturgie : Sanctuaire de la héronne",
+        "Desc": "Accorde un <color style='color:#FFFFFFFF'>Bouclier de la héronne</color> au personnage et <color style='color:#FFFFFFFF'>Préparation de capacité</color> : <color style='color:#FFFFFFFF'>Frappe de la héronne</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -819,8 +819,8 @@ var _skills = {
     },
     "12073": {
         "_id": 12073,
-        "Name": "Sacred Rite: Wagtail's Tide",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b> and creates 1 <color style='color:#FFFFFFFF'>Prayer of the Crimson Crown</color>.",
+        "Name": "Liturgie : Marée de la bergeronnette",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b> et crée une <color style='color:#FFFFFFFF'>Prière de couronne cramoisie</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -835,8 +835,8 @@ var _skills = {
     },
     "12074": {
         "_id": 12074,
-        "Name": "Heron Strike",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>3</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Frappe de la héronne",
+        "Desc": "(À préparer pendant 1 tour)<br>Inflige <b>3</b> <b>3</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -846,8 +846,8 @@ var _skills = {
     },
     "12081": {
         "_id": 12081,
-        "Name": "Dance of Samser",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Danse de shamshir",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -860,8 +860,8 @@ var _skills = {
     },
     "12082": {
         "_id": 12082,
-        "Name": "Dance of Haftkarsvar",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, if the party includes <color style='color:#80C0FFFF'>[b]2102[a]Hydro Characters</color> and <color style='color:#7EC236FF'>[b]2107[a]Dendro Characters</color> and characters from no other Elements, create 1 <color style='color:#FFFFFFFF'>Golden Chalice's Bounty</color>.",
+        "Name": "Danse des haftkarsvars",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>. Si l'équipe contient uniquement des personnages <color style='color:#80C0FFFF'>[b]2102[a]Hydro</color> et <color style='color:#7EC236FF'>[b]2107[a]Dendro</color>, crée une <color style='color:#FFFFFFFF'>Prime du calice d'or</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -875,8 +875,8 @@ var _skills = {
     },
     "12083": {
         "_id": 12083,
-        "Name": "Dance of Abzendegi: Distant Dreams, Listening Spring",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Lingering Aeon</color>.",
+        "Name": "Danse d'abzendegi : Ruisseau des rêves lointains",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b> et inflige un <color style='color:#FFFFFFFF'>Éon persistant</color> au personnage choisi.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -891,8 +891,8 @@ var _skills = {
     },
     "12091": {
         "_id": 12091,
-        "Name": "Stealthy Bowshot",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Sagette furtive",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -905,8 +905,8 @@ var _skills = {
     },
     "12092": {
         "_id": 12092,
-        "Name": "Lingering Lifeline",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. This character gains 2 <color style='color:#FFFFFFFF'>Breakthrough</color> stacks.",
+        "Name": "Ligne vitale persistante",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b> et accorde 2 cumuls de <color style='color:#FFFFFFFF'>Percée</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -920,8 +920,8 @@ var _skills = {
     },
     "12093": {
         "_id": 12093,
-        "Name": "Depth-Clarion Dice",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Exquisite Throw</color>.",
+        "Name": "Dé exquis des profondeurs",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b> et crée un <color style='color:#FFFFFFFF'>Dé exquis</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -936,8 +936,8 @@ var _skills = {
     },
     "12094": {
         "_id": 12094,
-        "Name": "Breakthrough",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Breakthrough</color>.",
+        "Name": "Percée",
+        "Desc": "(Passif) Applique une <color style='color:#FFFFFFFF'>Percée</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -949,8 +949,8 @@ var _skills = {
     },
     "12101": {
         "_id": 12101,
-        "Name": "As Water Seeks Equilibrium",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Stabilité de l'eau",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -963,8 +963,8 @@ var _skills = {
     },
     "12102": {
         "_id": 12102,
-        "Name": "O Tears, I Shall Repay",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Sourcewater Droplet</color>.",
+        "Name": "Ô larmes, je rembourse",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b> et crée une <color style='color:#FFFFFFFF'>Goutte d'eau de source</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -978,8 +978,8 @@ var _skills = {
     },
     "12103": {
         "_id": 12103,
-        "Name": "O Tides, I Have Returned",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, deals 1 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby, then creates a <color style='color:#FFFFFFFF'>Sourcewater Droplet</color> with 2 Usages.",
+        "Name": "Ô marées, je reviens",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>, inflige 1 pt de <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>DGT de perforation</color></color> à tous les personnages adverses en attente et crée une <color style='color:#FFFFFFFF'>Goutte d'eau de source</color> avec un nombre d'utilisations de 2.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -994,8 +994,8 @@ var _skills = {
     },
     "12104": {
         "_id": 12104,
-        "Name": "Equitable Judgment",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. If character has at least 6 HP, then they deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to themselves and deal +1 DMG.",
+        "Name": "Jugement équitable",
+        "Desc": "(À préparer pendant 1 tour)<br>Inflige <b>2</b> <b>2</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>. Avec 6 PV ou plus, vous inflige 1 pt de <color style='color:#FFFFFFFF'>DGT de perforation</color> et augmente les DGT de 1.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1005,7 +1005,7 @@ var _skills = {
     },
     "12105": {
         "_id": 12105,
-        "Name": "Sourcewater Droplet",
+        "Name": "Goutte d'eau de source",
         "Desc": "",
         "Tag": [],
         "Cost": {},
@@ -1014,8 +1014,8 @@ var _skills = {
     },
     "13011": {
         "_id": 13011,
-        "Name": "Tempered Sword",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Épée trempée",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1028,8 +1028,8 @@ var _skills = {
     },
     "13012": {
         "_id": 13012,
-        "Name": "Searing Onslaught",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. For the third use of this Skill each Round, deals +2 DMG.",
+        "Name": "Assaut brûlant",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>. Lors de la troisième utilisation de cette capacité à chaque manche, DGT +2.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1041,8 +1041,8 @@ var _skills = {
     },
     "13013": {
         "_id": 13013,
-        "Name": "Dawn",
-        "Desc": "Deals <b>8</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Pyro Infusion</color>.",
+        "Name": "Aurore",
+        "Desc": "Inflige <b>8</b> <b>8</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et accorde un <color style='color:#FFFFFFFF'>Enchantement Pyro</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1057,8 +1057,8 @@ var _skills = {
     },
     "13021": {
         "_id": 13021,
-        "Name": "Dough-Fu",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Cuisine-fu",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1071,8 +1071,8 @@ var _skills = {
     },
     "13022": {
         "_id": 13022,
-        "Name": "Guoba Attack",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Guoba</color>.",
+        "Name": "Attaque Gooba",
+        "Desc": "Invoque un <color style='color:#FFFFFFFF'>Gooba</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1086,8 +1086,8 @@ var _skills = {
     },
     "13023": {
         "_id": 13023,
-        "Name": "Pyronado",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Pyronado</color>.",
+        "Name": "Pyrotation",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et crée une <color style='color:#FFFFFFFF'>Pyrotation</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1102,8 +1102,8 @@ var _skills = {
     },
     "13031": {
         "_id": 13031,
-        "Name": "Strike of Fortune",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Épée chanceuse",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1116,8 +1116,8 @@ var _skills = {
     },
     "13032": {
         "_id": 13032,
-        "Name": "Passion Overload",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Surpassion",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1129,8 +1129,8 @@ var _skills = {
     },
     "13033": {
         "_id": 13033,
-        "Name": "Fantastic Voyage",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Inspiration Field</color>.",
+        "Name": "Merveilleux voyage",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et crée un <color style='color:#FFFFFFFF'>Champ vertueux</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1145,8 +1145,8 @@ var _skills = {
     },
     "13041": {
         "_id": 13041,
-        "Name": "Sharpshooter",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Archerie revisitée",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1159,8 +1159,8 @@ var _skills = {
     },
     "13042": {
         "_id": 13042,
-        "Name": "Explosive Puppet",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Baron Bunny</color>.",
+        "Name": "Poupée explosive",
+        "Desc": "Invoque un <color style='color:#FFFFFFFF'>Baron Lapinou</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1174,8 +1174,8 @@ var _skills = {
     },
     "13043": {
         "_id": 13043,
-        "Name": "Fiery Rain",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, deals 2 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby.",
+        "Name": "Pluie de flèches",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et inflige <color style='color:#FFFFFFFF'>2 pts de <color style='color:#FFFFFFFF'>DGT de perforation</color></color> à tous les personnages adverses en attente.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1188,8 +1188,8 @@ var _skills = {
     },
     "13051": {
         "_id": 13051,
-        "Name": "Firework Flare-Up",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Flambée pyrotechnique",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1202,8 +1202,8 @@ var _skills = {
     },
     "13052": {
         "_id": 13052,
-        "Name": "Niwabi Fire-Dance",
-        "Desc": "This character gains <color style='color:#FFFFFFFF'>Niwabi Enshou</color>. (This Skill does not grant [b]1110[a]Energy)",
+        "Name": "Danse du feu « Niwabi»",
+        "Desc": "Accorde un <color style='color:#FFFFFFFF'>Niwabi Enshou</color> au personnage. (Cette capacité n'accorde pas de [b]1110[a]charge)",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1217,8 +1217,8 @@ var _skills = {
     },
     "13053": {
         "_id": 13053,
-        "Name": "Ryuukin Saxifrage",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Aurous Blaze</color>.",
+        "Name": "Saxifrage Ryuukin",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et crée une <color style='color:#FFFFFFFF'>Flamme Ryuukin</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1233,8 +1233,8 @@ var _skills = {
     },
     "13061": {
         "_id": 13061,
-        "Name": "Kaboom!",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Boum ! Boum !",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1247,8 +1247,8 @@ var _skills = {
     },
     "13062": {
         "_id": 13062,
-        "Name": "Jumpy Dumpty",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Explosive Spark</color>.",
+        "Name": "Bombe rebondissante",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et accorde une <color style='color:#FFFFFFFF'>Étincelle explosive</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1262,8 +1262,8 @@ var _skills = {
     },
     "13063": {
         "_id": 13063,
-        "Name": "Sparks 'n' Splash",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Sparks 'n' Splash</color> at the opponent's play area.",
+        "Name": "Fleur bombardier",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et crée une <color style='color:#FFFFFFFF'>Fleur bombardier</color> sur le terrain adverse.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1278,8 +1278,8 @@ var _skills = {
     },
     "13071": {
         "_id": 13071,
-        "Name": "Secret Spear of Wangsheng",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Lance secrète de Wangsheng",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1292,8 +1292,8 @@ var _skills = {
     },
     "13072": {
         "_id": 13072,
-        "Name": "Guide to Afterlife",
-        "Desc": "This character gains <color style='color:#FFFFFFFF'>Paramita Papilio</color>.",
+        "Name": "Chaperon de la renaissance",
+        "Desc": "Accorde un <color style='color:#FFFFFFFF'>Paramita Papilio</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1307,8 +1307,8 @@ var _skills = {
     },
     "13073": {
         "_id": 13073,
-        "Name": "Spirit Soother",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, heals herself for 2 HP. If this character's HP is no more than 6, DMG dealt and Healing are increased by 1.",
+        "Name": "Apaisement divin",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et soigne pour 2 pts. Si le personnage a 6 PV ou moins, DGT infligés et soins +1.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1321,8 +1321,8 @@ var _skills = {
     },
     "13081": {
         "_id": 13081,
-        "Name": "Seal of Approval",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Sceau embrasé",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1335,8 +1335,8 @@ var _skills = {
     },
     "13082": {
         "_id": 13082,
-        "Name": "Signed Edict",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b> and attaches <color style='color:#FFFFFFFF'>Scarlet Seal</color> to this character.",
+        "Name": "Pacte des flammes",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et accorde un <color style='color:#FFFFFFFF'>Sceau écarlate</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1350,8 +1350,8 @@ var _skills = {
     },
     "13083": {
         "_id": 13083,
-        "Name": "Done Deal",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, attaches <color style='color:#FFFFFFFF'>Scarlet Seal</color> and <color style='color:#FFFFFFFF'>Brilliance</color> to this character.",
+        "Name": "Application des peines",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et accorde un <color style='color:#FFFFFFFF'>Sceau écarlate</color> et une <color style='color:#FFFFFFFF'>Brillance</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1367,8 +1367,8 @@ var _skills = {
     },
     "13091": {
         "_id": 13091,
-        "Name": "Sandstorm Assault",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Assaut sablé",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1381,8 +1381,8 @@ var _skills = {
     },
     "13092": {
         "_id": 13092,
-        "Name": "Molten Inferno",
-        "Desc": "Summon <color style='color:#FFFFFFFF'>Fiery Sanctum Field</color>. If Fiery Sanctum Field already exists, then first deal <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Enfer en fusion",
+        "Desc": "Invoque une <color style='color:#FFFFFFFF'>Zone de sanctuaire ardent</color>. Si une Zone de sanctuaire ardent est déjà présente, inflige d'abord <b>1</b> <b>1</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1396,8 +1396,8 @@ var _skills = {
     },
     "13093": {
         "_id": 13093,
-        "Name": "Leonine Bite",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, then performs \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Incineration Drive</color>.",
+        "Name": "Morsure léonine",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et <color style='color:#FFFFFFFF'>Préparation de capacité</color> : <color style='color:#FFFFFFFF'>Pied plongeant d'incinération</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1410,8 +1410,8 @@ var _skills = {
     },
     "13095": {
         "_id": 13095,
-        "Name": "Incineration Drive",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Pied plongeant d'incinération",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1421,7 +1421,7 @@ var _skills = {
     },
     "13096": {
         "_id": 13096,
-        "Name": "Fiery Sanctum: Redmane's Blood",
+        "Name": "Sanctuaire ardent : Sang de crinière rouge",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -1432,8 +1432,8 @@ var _skills = {
     },
     "13101": {
         "_id": 13101,
-        "Name": "Card Force Translocation",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Cartomagie",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1446,8 +1446,8 @@ var _skills = {
     },
     "13102": {
         "_id": 13102,
-        "Name": "Prop Arrow",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, summons a <color style='color:#FFFFFFFF'>Grin-Malkin Hat</color>, and gains 1 stack of <color style='color:#FFFFFFFF'>Prop Surplus</color>.<br>If this character has at least 6 HP, then they deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to themself.",
+        "Name": "Flèche postiche",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>, invoque un <color style='color:#FFFFFFFF'>Chapeau félinois</color> et accorde 1 cumul de <color style='color:#FFFFFFFF'>Fantasmagorie</color>.<br>Si le personnage a 6 PV ou plus, il subit 1 pt de <color style='color:#FFFFFFFF'>DGT de perforation</color>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1462,8 +1462,8 @@ var _skills = {
     },
     "13103": {
         "_id": 13103,
-        "Name": "Bewildering Lights",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Lumières de fioriture",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1475,8 +1475,8 @@ var _skills = {
     },
     "13104": {
         "_id": 13104,
-        "Name": "Wondrous Trick: Miracle Parade",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Grin-Malkin Hat</color>, and gains 1 stack of <color style='color:#FFFFFFFF'>Prop Surplus</color>.",
+        "Name": "Clou du spectacle : Parade prodigieuse",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>, invoque un <color style='color:#FFFFFFFF'>Chapeau félinois</color> et accorde 1 cumul de <color style='color:#FFFFFFFF'>Fantasmagorie</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1492,8 +1492,8 @@ var _skills = {
     },
     "13111": {
         "_id": 13111,
-        "Name": "Swiftshatter Spear",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Lance célère",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1506,8 +1506,8 @@ var _skills = {
     },
     "13112": {
         "_id": 13112,
-        "Name": "Blazing Blessing",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Blazing Barrier</color>.",
+        "Name": "Bénédiction flamboyante",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et crée une <color style='color:#FFFFFFFF'>Barrière brûlante</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1521,8 +1521,8 @@ var _skills = {
     },
     "13113": {
         "_id": 13113,
-        "Name": "Crimson Ooyoroi",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Blazing Barrier</color> and <color style='color:#FFFFFFFF'>Scorching Ooyoroi</color>.",
+        "Name": "O-yoroi écarlate",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et crée une <color style='color:#FFFFFFFF'>Barrière brûlante</color> et un <color style='color:#FFFFFFFF'>O-yoroi embrasé</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1538,8 +1538,8 @@ var _skills = {
     },
     "14011": {
         "_id": 14011,
-        "Name": "Bolts of Downfall",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Flèche de culpabilité",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1552,8 +1552,8 @@ var _skills = {
     },
     "14012": {
         "_id": 14012,
-        "Name": "Nightrider",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Oz</color>.",
+        "Name": "Ailes de surveillance nocturne",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et invoque un <color style='color:#FFFFFFFF'>Oz</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1567,8 +1567,8 @@ var _skills = {
     },
     "14013": {
         "_id": 14013,
-        "Name": "Midnight Phantasmagoria",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, deals 2 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby.",
+        "Name": "Incarnation de la nuit",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et inflige <color style='color:#FFFFFFFF'>2 pts de <color style='color:#FFFFFFFF'>DGT de perforation</color></color> à tous les personnages adverses en attente.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1581,8 +1581,8 @@ var _skills = {
     },
     "14021": {
         "_id": 14021,
-        "Name": "Steel Fang",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Croc d'acier",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1595,8 +1595,8 @@ var _skills = {
     },
     "14022": {
         "_id": 14022,
-        "Name": "Claw and Thunder",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Griffe et tonnerre",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1608,8 +1608,8 @@ var _skills = {
     },
     "14023": {
         "_id": 14023,
-        "Name": "Lightning Fang",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>The Wolf Within</color>.",
+        "Name": "Croc éclair",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et accorde un <color style='color:#FFFFFFFF'>Loup de tonnerre</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1624,8 +1624,8 @@ var _skills = {
     },
     "14031": {
         "_id": 14031,
-        "Name": "Yunlai Swordsmanship",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Escrime des nuages",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1638,8 +1638,8 @@ var _skills = {
     },
     "14032": {
         "_id": 14032,
-        "Name": "Stellar Restoration",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Lightning Stiletto</color>.",
+        "Name": "Retour des étoiles",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et crée une <color style='color:#FFFFFFFF'>Lame de foudre</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1653,8 +1653,8 @@ var _skills = {
     },
     "14033": {
         "_id": 14033,
-        "Name": "Starward Sword",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, deals <color style='color:#FFFFFFFF'>3 <color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby.",
+        "Name": "Promenade céleste",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et inflige <color style='color:#FFFFFFFF'>3 pts de <color style='color:#FFFFFFFF'>DGT de perforation</color></color> à tous les personnages adverses en attente.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1667,8 +1667,8 @@ var _skills = {
     },
     "14041": {
         "_id": 14041,
-        "Name": "Invoker's Spear",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Lance d'invocation",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1681,8 +1681,8 @@ var _skills = {
     },
     "14042": {
         "_id": 14042,
-        "Name": "Secret Rite: Chasmic Soulfarer",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Rite : Traversée abyssale",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1694,8 +1694,8 @@ var _skills = {
     },
     "14043": {
         "_id": 14043,
-        "Name": "Sacred Rite: Wolf's Swiftness",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.<br><color style='color:#FFFFFFFF'>Pactsworn Pathclearer</color>'s Indwelling Level +2.",
+        "Name": "Liturgie : Rapidité lupine",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>.<br>Niv. de Possession d'<color style='color:#FFFFFFFF'>Éclaireur sermenté</color> +2.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1710,8 +1710,8 @@ var _skills = {
     },
     "14044": {
         "_id": 14044,
-        "Name": "Lawful Enforcer",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Pactsworn Pathclearer</color>.",
+        "Name": "Exécution légale",
+        "Desc": "(Passif) Accorde un <color style='color:#FFFFFFFF'>Éclaireur sermenté</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -1723,8 +1723,8 @@ var _skills = {
     },
     "14051": {
         "_id": 14051,
-        "Name": "Oceanborne",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Conquête des mers",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1737,8 +1737,8 @@ var _skills = {
     },
     "14052": {
         "_id": 14052,
-        "Name": "Tidecaller",
-        "Desc": "This character gains a <color style='color:#FFFFFFFF'>Tidecaller: Surf Embrace</color>. <color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Wavestrider</color>.",
+        "Name": "Invocation des marées",
+        "Desc": "Accorde une <color style='color:#FFFFFFFF'>Embrasse marine des marées</color> au personnage et <color style='color:#FFFFFFFF'>Préparation de capacité</color> : <color style='color:#FFFFFFFF'>Conquête des marées</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1752,8 +1752,8 @@ var _skills = {
     },
     "14053": {
         "_id": 14053,
-        "Name": "Stormbreaker",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Thunderbeast's Targe</color>.",
+        "Name": "Brisure d'orage",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et crée un <color style='color:#FFFFFFFF'>Bouclier de foudre</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1768,8 +1768,8 @@ var _skills = {
     },
     "14054": {
         "_id": 14054,
-        "Name": "Wavestrider",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Conquête des marées",
+        "Desc": "(À préparer pendant 1 tour)<br>Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1779,8 +1779,8 @@ var _skills = {
     },
     "14061": {
         "_id": 14061,
-        "Name": "Tengu Bowmanship",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Archerie tengu",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1793,8 +1793,8 @@ var _skills = {
     },
     "14062": {
         "_id": 14062,
-        "Name": "Tengu Stormcall",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Tengu Juurai: Ambush</color>.",
+        "Name": "Tempestrier tengu",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et invoque un <color style='color:#FFFFFFFF'>Tengu Juurai: Embuscade</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1808,8 +1808,8 @@ var _skills = {
     },
     "14063": {
         "_id": 14063,
-        "Name": "Subjugation: Koukou Sendou",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Tengu Juurai: Stormcluster</color>.",
+        "Name": "Soumission : Chemin de lumière",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et invoque un <color style='color:#FFFFFFFF'>Tengu Juurai: Tempête de pierres</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1824,8 +1824,8 @@ var _skills = {
     },
     "14071": {
         "_id": 14071,
-        "Name": "Origin",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Prémisse",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1838,8 +1838,8 @@ var _skills = {
     },
     "14072": {
         "_id": 14072,
-        "Name": "Transcendence: Baleful Omen",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Eye of Stormy Judgment</color>.",
+        "Name": "Transcendance : Présage funeste",
+        "Desc": "Invoque un <color style='color:#FFFFFFFF'>Œil de jugement orageux</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1853,8 +1853,8 @@ var _skills = {
     },
     "14073": {
         "_id": 14073,
-        "Name": "Secret Art: Musou Shinsetsu",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>. All of your other characters gain 2 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.",
+        "Name": "Art secret : Dogme d'idéal",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et accorde 2 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color> à vos autres personnages.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1868,7 +1868,7 @@ var _skills = {
     "14074": {
         "_id": 14074,
         "Name": "Chakra Desiderata",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Chakra Desiderata</color>.",
+        "Desc": "(Passif) Accorde un <color style='color:#FFFFFFFF'>Chakra Desiderata</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -1880,8 +1880,8 @@ var _skills = {
     },
     "14081": {
         "_id": 14081,
-        "Name": "Spiritfox Sin-Eater",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Vulpes mangeur de péchés",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1894,8 +1894,8 @@ var _skills = {
     },
     "14082": {
         "_id": 14082,
-        "Name": "Yakan Evocation: Sesshou Sakura",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Sesshou Sakura</color>.",
+        "Name": "Évocation des yakan : Sakura dévastateur",
+        "Desc": "Invoque un <color style='color:#FFFFFFFF'>Sakura dévastateur</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1909,8 +1909,8 @@ var _skills = {
     },
     "14083": {
         "_id": 14083,
-        "Name": "Great Secret Art: Tenko Kenshin",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>. If your side of the field has a <color style='color:#FFFFFFFF'>Sesshou Sakura</color>, destroy it and create <color style='color:#FFFFFFFF'>Tenko Thunderbolts</color>.",
+        "Name": "Technique secrète: Incarnation de tenko",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>. Si un <color style='color:#FFFFFFFF'>Sakura dévastateur</color> est sur votre terrain, le détruit et crée un <color style='color:#FFFFFFFF'>Éclair de tenko</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1926,8 +1926,8 @@ var _skills = {
     },
     "14091": {
         "_id": 14091,
-        "Name": "Lightning Touch",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>:<br>If this Skill is a <color style='color:#FFFFFFFF'>Charged Attack</color>: Attach <color style='color:#FFFFFFFF'>Conductive</color> to the opponent's active character.",
+        "Name": "Touche d'éclair",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>.<br>Si cette capacité est une <color style='color:#FFFFFFFF'>Attaque chargée</color>, inflige l'état <color style='color:#FFFFFFFF'>Conductivité</color> au personnage actif adverse.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1942,8 +1942,8 @@ var _skills = {
     },
     "14092": {
         "_id": 14092,
-        "Name": "Violet Arc",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>. If <color style='color:#FFFFFFFF'>Conductive</color> is not attached to the opponent's active character, <color style='color:#FFFFFFFF'>Conductive</color> will be attached.",
+        "Name": "Arc fulminant",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>. Si le personnage actif adverse n'est pas affecté par l'effet <color style='color:#FFFFFFFF'>Conductivité</color>, il subit l'effet <color style='color:#FFFFFFFF'>Conductivité</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -1957,8 +1957,8 @@ var _skills = {
     },
     "14093": {
         "_id": 14093,
-        "Name": "Lightning Rose",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons <color style='color:#FFFFFFFF'>Lightning Rose</color>.",
+        "Name": "Rose de foudre",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et invoque une <color style='color:#FFFFFFFF'>Rose de foudre</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -1973,8 +1973,8 @@ var _skills = {
     },
     "14101": {
         "_id": 14101,
-        "Name": "Marvelous Sword-Dance (Modified)",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Valse des lames (modifiée)",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -1987,8 +1987,8 @@ var _skills = {
     },
     "14102": {
         "_id": 14102,
-        "Name": "Spirit-Warding Lamp: Troubleshooter Cannon",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>After-Sales Service Rounds</color>.",
+        "Name": "Lampe de protection : Canon pacificateur",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et invoque un <color style='color:#FFFFFFFF'>Obus de S.A.V.</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2002,8 +2002,8 @@ var _skills = {
     },
     "14103": {
         "_id": 14103,
-        "Name": "Alcazarzaray's Exactitude",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Jinni</color>.",
+        "Name": "Méticulosité d'Alcazarzaray",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et invoque un <color style='color:#FFFFFFFF'>Djinn</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2018,8 +2018,8 @@ var _skills = {
     },
     "15011": {
         "_id": 15011,
-        "Name": "Wind Spirit Creation",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>.",
+        "Name": "Esprit du vent",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2032,8 +2032,8 @@ var _skills = {
     },
     "15012": {
         "_id": 15012,
-        "Name": "Astable Anemohypostasis Creation - 6308",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, the target is forcibly switched to the previous character.",
+        "Name": "Esprit du vent : Sujet 6308",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b> et bascule de force la cible pour le personnage précédent.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2045,8 +2045,8 @@ var _skills = {
     },
     "15013": {
         "_id": 15013,
-        "Name": "Forbidden Creation - Isomer 75 / Type II",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Large Wind Spirit</color>.",
+        "Name": "Esprit du vent : Isomorphe 75 TypeII",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b> et invoque un <color style='color:#FFFFFFFF'>Esprit du vent de grande taille</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2061,8 +2061,8 @@ var _skills = {
     },
     "15021": {
         "_id": 15021,
-        "Name": "Favonius Bladework",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Escrime de Favonius",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2075,8 +2075,8 @@ var _skills = {
     },
     "15022": {
         "_id": 15022,
-        "Name": "Gale Blade",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, the target is forcibly switched to the next character.",
+        "Name": "Épée de tourbillon",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b> et bascule de force la cible pour le personnage suivant.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2088,8 +2088,8 @@ var _skills = {
     },
     "15023": {
         "_id": 15023,
-        "Name": "Dandelion Breeze",
-        "Desc": "Heals all your characters for 2 HP, summons 1 <color style='color:#FFFFFFFF'>Dandelion Field</color>.",
+        "Name": "Brise de pissenlit",
+        "Desc": "Soigne tous vos personnages pour 2 pts et invoque un <color style='color:#FFFFFFFF'>Champ de pissenlits</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2104,8 +2104,8 @@ var _skills = {
     },
     "15031": {
         "_id": 15031,
-        "Name": "Divine Marksmanship",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Archerie divine",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2118,8 +2118,8 @@ var _skills = {
     },
     "15032": {
         "_id": 15032,
-        "Name": "Skyward Sonnet",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Stormzone</color>.",
+        "Name": "Sonnet des Vents célestes",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b> et crée une <color style='color:#FFFFFFFF'>Bourrasque</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2133,8 +2133,8 @@ var _skills = {
     },
     "15033": {
         "_id": 15033,
-        "Name": "Wind's Grand Ode",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Stormeye</color>.",
+        "Name": "Ode au Vent",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b> et invoque un <color style='color:#FFFFFFFF'>Œil de la tempête</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2149,8 +2149,8 @@ var _skills = {
     },
     "15041": {
         "_id": 15041,
-        "Name": "Whirlwind Thrust",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Coup de tourbillon",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2163,8 +2163,8 @@ var _skills = {
     },
     "15042": {
         "_id": 15042,
-        "Name": "Lemniscatic Wind Cycling",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>.",
+        "Name": "Cycle du vent lemniscatique",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2176,8 +2176,8 @@ var _skills = {
     },
     "15043": {
         "_id": 15043,
-        "Name": "Bane of All Evil",
-        "Desc": "Deals <b>4</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Yaksha's Mask</color>.",
+        "Name": "Fléau du mal",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b> et accorde un <color style='color:#FFFFFFFF'>Masque du Yaksha</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2192,8 +2192,8 @@ var _skills = {
     },
     "15051": {
         "_id": 15051,
-        "Name": "Garyuu Bladework",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Escrime de Garyuu",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2206,8 +2206,8 @@ var _skills = {
     },
     "15052": {
         "_id": 15052,
-        "Name": "Chihayaburu",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, attaches <color style='color:#FFFFFFFF'>Midare Ranzan</color> to this character. <br>If this skill triggers Swirl, <color style='color:#FFFFFFFF'>Midare Ranzan</color> is converted to the Swirled Element.<br><color style='color:#FFFFFFFF'>After the Skill DMG is finalized:</color> Your team switches to the next character.",
+        "Name": "Véhémence divine",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b> et accorde un <color style='color:#FFFFFFFF'>Contrôle du chaos</color> au personnage.<br>Si cette capacité déclenche une Dispersion, le <color style='color:#FFFFFFFF'>Contrôle du chaos</color> est converti en l'élément dispersé.<br><color style='color:#FFFFFFFF'>Après le calcul de la capacité, </color>vous basculez pour le personnage suivant.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2221,8 +2221,8 @@ var _skills = {
     },
     "15053": {
         "_id": 15053,
-        "Name": "Kazuha Slash",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b> and summons <color style='color:#FFFFFFFF'>Autumn Whirlwind</color>.",
+        "Name": "Coupure de mille feuilles",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b> et invoque un <color style='color:#FFFFFFFF'>Vent d'automne</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2237,7 +2237,7 @@ var _skills = {
     },
     "15054": {
         "_id": 15054,
-        "Name": "Chihayaburu",
+        "Name": "Véhémence divine",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -2248,8 +2248,8 @@ var _skills = {
     },
     "15061": {
         "_id": 15061,
-        "Name": "Yuuban Meigen",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>.",
+        "Name": "Battement flottant",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2262,8 +2262,8 @@ var _skills = {
     },
     "15062": {
         "_id": 15062,
-        "Name": "Hanega: Song of the Wind",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Windfavored</color>.",
+        "Name": "Hanega : Lyrisme des vents",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b> et accorde un <color style='color:#FFFFFFFF'>Bienfait venteux</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2277,8 +2277,8 @@ var _skills = {
     },
     "15063": {
         "_id": 15063,
-        "Name": "Kyougen: Five Ceremonial Plays",
-        "Desc": "Deals <b>7</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>. If the character has <color style='color:#FFFFFFFF'>Windfavored</color> attached, then remove it and increase DMG by 1.",
+        "Name": "Kyougen : Gobandate en cinq actes",
+        "Desc": "Inflige <b>7</b> <b>7</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b>. Si le personnage est sous l'effet d'un <color style='color:#FFFFFFFF'>Bienfait venteux</color>, annule l'effet et augmente les DGT de 1.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2293,8 +2293,8 @@ var _skills = {
     },
     "15071": {
         "_id": 15071,
-        "Name": "Shuumatsuban Ninja Blade",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Lame ninja du Shuumatsuban",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2307,8 +2307,8 @@ var _skills = {
     },
     "15072": {
         "_id": 15072,
-        "Name": "Yoohoo Art: Fuuin Dash",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, and this character begins to <color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Fuufuu Whirlwind Kick</color>.<br>If this usage of the skill triggers Swirl, then <color style='color:#FFFFFFFF'>Fuufuu Whirlwind Kick</color> is converted to DMG of the Swirled Element.",
+        "Name": "École Yoohoo : Course Fuuin",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b> et <color style='color:#FFFFFFFF'>Préparation de capacité</color> : <color style='color:#FFFFFFFF'>Coup de pied Fuufuu</color>.<br>Si la capacité déclenche une Dispersion, le <color style='color:#FFFFFFFF'>Coup de pied Fuufuu</color> inflige des DGT de l'élément dispersé à la place.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2320,8 +2320,8 @@ var _skills = {
     },
     "15073": {
         "_id": 15073,
-        "Name": "Yoohoo Art: Mujina Flurry",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Muji-Muji Daruma</color>.",
+        "Name": "École Yoohoo : Bourrasque du mujina",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b> et invoque un <color style='color:#FFFFFFFF'>Daruma Muji-muji</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2336,8 +2336,8 @@ var _skills = {
     },
     "15074": {
         "_id": 15074,
-        "Name": "Fuufuu Whirlwind Kick",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b> (or the Swirled Element's DMG)",
+        "Name": "Coup de pied Fuufuu",
+        "Desc": "(À préparer pendant 1 tour)<br>Inflige <b>2</b> <b>2</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b> (ou des DGT de l'élément dispersé).",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2347,8 +2347,8 @@ var _skills = {
     },
     "15081": {
         "_id": 15081,
-        "Name": "Rapid Ritesword",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Rapière rapide",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2361,8 +2361,8 @@ var _skills = {
     },
     "15082": {
         "_id": 15082,
-        "Name": "Enigmatic Feint",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>. The first time this Skill is used this Round, heal the character for 2 HP if they have no more than 8 HP, but apply <color style='color:#FFFFFFFF'>Overawing Assault</color> to said character.",
+        "Name": "Feinte sibylline",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b>. Si vous avez 8 PV ou moins, la première utilisation de cette capacité pendant la manche vous soigne pour 2 PV, mais applique un <color style='color:#FFFFFFFF'>Assaut grandiose</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2376,8 +2376,8 @@ var _skills = {
     },
     "15083": {
         "_id": 15083,
-        "Name": "Magic Trick: Astonishing Shift",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Bogglecat Box</color>.",
+        "Name": "Magie : Variation étonnante",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b> et invoque une <color style='color:#FFFFFFFF'>Boîte minestyque</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2392,8 +2392,8 @@ var _skills = {
     },
     "16011": {
         "_id": 16011,
-        "Name": "Sparkling Scatter",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "Géo-dispersion",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2406,8 +2406,8 @@ var _skills = {
     },
     "16012": {
         "_id": 16012,
-        "Name": "Jade Screen",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Jade Screen</color>.",
+        "Name": "Paravent d'astrolabe",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b> et crée un <color style='color:#FFFFFFFF'>Paravent d'astrolabe</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2421,8 +2421,8 @@ var _skills = {
     },
     "16013": {
         "_id": 16013,
-        "Name": "Starshatter",
-        "Desc": "Deals <b>6</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. If <color style='color:#FFFFFFFF'>Jade Screen</color> is on the field, deals +2 DMG.",
+        "Name": "Éclatement des étoiles",
+        "Desc": "Inflige <b>6</b> <b>6</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b>. Si un <color style='color:#FFFFFFFF'>Paravent d'astrolabe</color> est sur le terrain, DGT +2.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2437,8 +2437,8 @@ var _skills = {
     },
     "16021": {
         "_id": 16021,
-        "Name": "Favonius Bladework - Maid",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Escrime de Favonius : Servante",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2451,8 +2451,8 @@ var _skills = {
     },
     "16022": {
         "_id": 16022,
-        "Name": "Breastplate",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Full Plate</color>.",
+        "Name": "Armure de cœur",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b> et crée une <color style='color:#FFFFFFFF'>Armure complète</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2466,8 +2466,8 @@ var _skills = {
     },
     "16023": {
         "_id": 16023,
-        "Name": "Sweeping Time",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Sweeping Time</color>.",
+        "Name": "Grand ménage",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b> et accorde un <color style='color:#FFFFFFFF'>Grand ménage</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2482,8 +2482,8 @@ var _skills = {
     },
     "16031": {
         "_id": 16031,
-        "Name": "Rain of Stone",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Pluie de pierres",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2497,7 +2497,7 @@ var _skills = {
     "16032": {
         "_id": 16032,
         "Name": "Dominus Lapidis",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Stone Stele</color>.",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b> et invoque une <color style='color:#FFFFFFFF'>Dorsale rocheuse</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2511,8 +2511,8 @@ var _skills = {
     },
     "16033": {
         "_id": 16033,
-        "Name": "Dominus Lapidis: Striking Stone",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Stone Stele</color>, creates 1 <color style='color:#FFFFFFFF'>Jade Shield</color>.",
+        "Name": "Dominus Lapidis : Roc destructeur",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b>, invoque une <color style='color:#FFFFFFFF'>Dorsale rocheuse</color> et crée un <color style='color:#FFFFFFFF'>Bouclier de jade</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2527,8 +2527,8 @@ var _skills = {
     },
     "16034": {
         "_id": 16034,
-        "Name": "Planet Befall",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Petrification</color>.",
+        "Name": "Chute de météore",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b> et inflige une <color style='color:#FFFFFFFF'>Pétrification</color> au personnage choisi.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2543,8 +2543,8 @@ var _skills = {
     },
     "16041": {
         "_id": 16041,
-        "Name": "Favonius Bladework - Weiss",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Escrime de Favonius - Blanche",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2557,8 +2557,8 @@ var _skills = {
     },
     "16042": {
         "_id": 16042,
-        "Name": "Abiogenesis: Solar Isotoma",
-        "Desc": "Summons <color style='color:#FFFFFFFF'>Solar Isotoma</color>.",
+        "Name": "Genèse : Aura solaire",
+        "Desc": "Invoque une <color style='color:#FFFFFFFF'>Aura solaire</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2572,8 +2572,8 @@ var _skills = {
     },
     "16043": {
         "_id": 16043,
-        "Name": "Rite of Progeniture: Tectonic Tide",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. If <color style='color:#FFFFFFFF'>Solar Isotoma</color> is on the field, deals +2 DMG.",
+        "Name": "Transformation : Reflux Géo",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b>. Si une <color style='color:#FFFFFFFF'>Aura solaire</color> est sur le terrain, DGT +2.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2588,8 +2588,8 @@ var _skills = {
     },
     "16051": {
         "_id": 16051,
-        "Name": "Fight Club Legend",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Légende de la baston",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2602,8 +2602,8 @@ var _skills = {
     },
     "16052": {
         "_id": 16052,
-        "Name": "Masatsu Zetsugi: Akaushi Burst!",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. Summons <color style='color:#FFFFFFFF'>Ushi</color>. This character gains <color style='color:#FFFFFFFF'>Superlative Superstrength</color>.",
+        "Name": "Zetsugi anti-démon : Catapultage d'akaushi",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b>, invoque <color style='color:#FFFFFFFF'>Ushi</color> et accorde une <color style='color:#FFFFFFFF'>Mégaforce superlative</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2618,8 +2618,8 @@ var _skills = {
     },
     "16053": {
         "_id": 16053,
-        "Name": "Royal Descent: Behold, Itto the Evil!",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Raging Oni King</color>.",
+        "Name": "Roi oni maléfique : Avènement d'Itto",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b> et accorde un état de <color style='color:#FFFFFFFF'>Roi oni courroucé</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2634,8 +2634,8 @@ var _skills = {
     },
     "16061": {
         "_id": 16061,
-        "Name": "Ripping Fang Fletching",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Empenne aux crocs acérés",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2648,8 +2648,8 @@ var _skills = {
     },
     "16062": {
         "_id": 16062,
-        "Name": "Inuzaka All-Round Defense",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>General's War Banner</color>.",
+        "Name": "Défense intégrale d'Inuzaka",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b> et crée une <color style='color:#FFFFFFFF'>Bannière de général</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2663,8 +2663,8 @@ var _skills = {
     },
     "16063": {
         "_id": 16063,
-        "Name": "Juuga: Forward Unto Victory",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>General's War Banner</color>, summons <color style='color:#FFFFFFFF'>General's Glory</color>.",
+        "Name": "Crocs bestiaux : Vers la victoire",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b>, crée une <color style='color:#FFFFFFFF'>Bannière de général</color> et invoque un <color style='color:#FFFFFFFF'>Prestige de général</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2680,8 +2680,8 @@ var _skills = {
     },
     "17011": {
         "_id": 17011,
-        "Name": "Supplicant's Bowmanship",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Archerie de l'implorant",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2694,8 +2694,8 @@ var _skills = {
     },
     "17012": {
         "_id": 17012,
-        "Name": "Floral Brush",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "Brosse florale",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2707,8 +2707,8 @@ var _skills = {
     },
     "17013": {
         "_id": 17013,
-        "Name": "Trump-Card Kitty",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Cuilein-Anbar</color>.",
+        "Name": "Atout félin",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b> et invoque un <color style='color:#FFFFFFFF'>Cuilein-Anbar</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2723,8 +2723,8 @@ var _skills = {
     },
     "17021": {
         "_id": 17021,
-        "Name": "Khanda Barrier-Buster",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Khanda anti-barrière",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2737,8 +2737,8 @@ var _skills = {
     },
     "17022": {
         "_id": 17022,
-        "Name": "Vijnana-Phala Mine",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Vijnana Suffusion</color>.",
+        "Name": "Mine de vijnana-phala",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b> et accorde une <color style='color:#FFFFFFFF'>Suffusion de vijnana</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2752,8 +2752,8 @@ var _skills = {
     },
     "17023": {
         "_id": 17023,
-        "Name": "Fashioner's Tanglevine Shaft",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, deals 1 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby.",
+        "Name": "Flèche de liane artificielle",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b> et inflige <color style='color:#FFFFFFFF'>1 pt de <color style='color:#FFFFFFFF'>DGT de perforation</color></color> à tous les personnages adverses en attente.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2767,7 +2767,7 @@ var _skills = {
     "17031": {
         "_id": 17031,
         "Name": "Akara",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2780,8 +2780,8 @@ var _skills = {
     },
     "17032": {
         "_id": 17032,
-        "Name": "All Schemes to Know",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, applies <color style='color:#FFFFFFFF'>Seed of Skandha</color> to target character. If the target character already has <color style='color:#FFFFFFFF'>Seed of Skandha</color> applied to them, then apply <color style='color:#FFFFFFFF'>Seed of Skandha</color> to all opposing characters instead.",
+        "Name": "Omniscience des plans",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b> et inflige une <color style='color:#FFFFFFFF'>Graine de Skandha</color> au personnage choisi. Si le personnage choisi est déjà affecté par une <color style='color:#FFFFFFFF'>Graine de Skandha</color>, inflige une <color style='color:#FFFFFFFF'>Graine de Skandha</color> à tous les personnages adverses.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2795,8 +2795,8 @@ var _skills = {
     },
     "17033": {
         "_id": 17033,
-        "Name": "All Schemes to Know: Tathata",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>. Applies <color style='color:#FFFFFFFF'>Seed of Skandha</color> to all opposing characters.",
+        "Name": "Omniscience des plans : Tathata",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b> et inflige une <color style='color:#FFFFFFFF'>Graine de Skandha</color> à tous les personnages adverses.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2810,8 +2810,8 @@ var _skills = {
     },
     "17034": {
         "_id": 17034,
-        "Name": "Illusory Heart",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Shrine of Maya</color>.",
+        "Name": "Cœur illusoire",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b> et crée un <color style='color:#FFFFFFFF'>Sanctuaire de Maya</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2826,8 +2826,8 @@ var _skills = {
     },
     "17041": {
         "_id": 17041,
-        "Name": "Toss 'N' Turn Spear",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Lance virevoltante",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2840,8 +2840,8 @@ var _skills = {
     },
     "17042": {
         "_id": 17042,
-        "Name": "Raphanus Sky Cluster",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Yuegui: Throwing Mode</color>.",
+        "Name": "Amas céleste de raphanus",
+        "Desc": "Invoque un <color style='color:#FFFFFFFF'>Yuegui lanceur</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2855,8 +2855,8 @@ var _skills = {
     },
     "17043": {
         "_id": 17043,
-        "Name": "Moonjade Descent",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Adeptal Legacy</color>.",
+        "Name": "Coucher de lune de jade",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b> et crée un <color style='color:#FFFFFFFF'>Héritage adeptal</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2871,8 +2871,8 @@ var _skills = {
     },
     "17051": {
         "_id": 17051,
-        "Name": "The Classics of Acupuncture",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "Acupuncture dorée",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2885,8 +2885,8 @@ var _skills = {
     },
     "17052": {
         "_id": 17052,
-        "Name": "Universal Diagnosis",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Gossamer Sprite</color>.",
+        "Name": "Diagnostic universel",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b> et invoque un <color style='color:#FFFFFFFF'>Esprit de gaze</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2900,8 +2900,8 @@ var _skills = {
     },
     "17053": {
         "_id": 17053,
-        "Name": "Holistic Revivification",
-        "Desc": "Creates 1 <color style='color:#FFFFFFFF'>Pulsing Clarity</color> and <color style='color:#FFFFFFFF'>Seamless Shield</color>.",
+        "Name": "Reviviscence holistique",
+        "Desc": "Crée une <color style='color:#FFFFFFFF'>Ordonnance impulsive</color> et un <color style='color:#FFFFFFFF'>Bouclier aseptique</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2917,8 +2917,8 @@ var _skills = {
     },
     "17061": {
         "_id": 17061,
-        "Name": "Abductive Reasoning",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Raisonnement abductif",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2931,8 +2931,8 @@ var _skills = {
     },
     "17062": {
         "_id": 17062,
-        "Name": "Universality: An Elaboration on Form",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Chisel-Light Mirror</color>.",
+        "Name": "Universalité : Élaboration de forme",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b> et applique un <color style='color:#FFFFFFFF'>Miroir de diffraction</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2946,8 +2946,8 @@ var _skills = {
     },
     "17063": {
         "_id": 17063,
-        "Name": "Particular Field: Fetters of Phenomena",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, consumes <color style='color:#FFFFFFFF'>Chisel-Light Mirror</color>, with the DMG bonus based on <color style='color:#FFFFFFFF'>Chisel-Light Mirror</color>'s <color style='color:#FFFFFFFF'>Duration (Rounds)</color> consumed.<br>If <color style='color:#FFFFFFFF'>Chisel-Light Mirror</color> <color style='color:#FFFFFFFF'>Duration (Rounds)</color> consumed is 0/1/2, then apply <color style='color:#FFFFFFFF'>Chisel-Light Mirror</color> with 3/2/1 <color style='color:#FFFFFFFF'>Duration (Rounds)</color> to this character.",
+        "Name": "Champ particulier : Liens de phénomène",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b>, consomme le <color style='color:#FFFFFFFF'>Miroir de diffraction</color> et augmente les DGT selon la <color style='color:#FFFFFFFF'>Durée en manches</color> du <color style='color:#FFFFFFFF'>Miroir de diffraction</color> consommé.<br>Si la <color style='color:#FFFFFFFF'>Durée en manches</color> du <color style='color:#FFFFFFFF'>Miroir de diffraction</color> consommé est de 0/1/2, le personnage obtient un <color style='color:#FFFFFFFF'>Miroir de diffraction</color> avec une <color style='color:#FFFFFFFF'>Durée en manches</color> respective de 3/2/1.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -2962,8 +2962,8 @@ var _skills = {
     },
     "17071": {
         "_id": 17071,
-        "Name": "Boxcutter",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Ouvre-colis",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -2976,8 +2976,8 @@ var _skills = {
     },
     "17072": {
         "_id": 17072,
-        "Name": "Meow-teor Kick",
-        "Desc": "Creates 1 <color style='color:#FFFFFFFF'>Urgent Neko Parcel</color> and <color style='color:#FFFFFFFF'>Shield of Safe Transport</color>.",
+        "Name": "Coup de patte miaou-téorite",
+        "Desc": "Crée un <color style='color:#FFFFFFFF'>Neko-colis urgent</color> et un <color style='color:#FFFFFFFF'>Bouclier de transport sécurisé</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -2992,8 +2992,8 @@ var _skills = {
     },
     "17073": {
         "_id": 17073,
-        "Name": "Secret Art: Surprise Dispatch",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Cat Grass Cardamom</color> on the opponent's side of the field.",
+        "Name": "Art secret : Livraison surprise",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b> et crée une <color style='color:#FFFFFFFF'>Noix de cataire</color> sur le terrain adverse.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3008,8 +3008,8 @@ var _skills = {
     },
     "21011": {
         "_id": 21011,
-        "Name": "Cicin Icicle",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Pyramide cryoluciole",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3022,8 +3022,8 @@ var _skills = {
     },
     "21012": {
         "_id": 21012,
-        "Name": "Misty Summons",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, summons <color style='color:#FFFFFFFF'>Cryo Cicins</color>.",
+        "Name": "Appel brumeux",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b> et invoque une <color style='color:#FFFFFFFF'>Cryoluciole</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3037,8 +3037,8 @@ var _skills = {
     },
     "21013": {
         "_id": 21013,
-        "Name": "Blizzard, Branch, Blossom",
-        "Desc": "Deals <b>5</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, grants this character <color style='color:#99FFFFFF'>[b]2101[a]Cryo Application</color>, creates 1 <color style='color:#FFFFFFFF'>Flowing Cicin Shield</color>.",
+        "Name": "Givre de fleurs blanches",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>, <color style='color:#99FFFFFF'>Application [b]2101[a]Cryo</color> au personnage et crée un <color style='color:#FFFFFFFF'>Bouclier de luciole</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3053,8 +3053,8 @@ var _skills = {
     },
     "21021": {
         "_id": 21021,
-        "Name": "Frostblade Hailstorm",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Blizzard cinglant",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3067,8 +3067,8 @@ var _skills = {
     },
     "21022": {
         "_id": 21022,
-        "Name": "Biting Shards",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Sheer Cold</color>.",
+        "Name": "Épine mordante",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b> et applique le <color style='color:#FFFFFFFF'>Grand froid</color> au personnage choisi.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3082,8 +3082,8 @@ var _skills = {
     },
     "21023": {
         "_id": 21023,
-        "Name": "Carmine Chrysalis",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, heals this character for 2 HP. Removes <color style='color:#FFFFFFFF'>Ice-Sealed Crimson Witch of Embers</color>. This character permanently switches to <color style='color:#FFFFFFFF'>Crimson Witch of Embers</color> state.",
+        "Name": "Chrysalide carmin",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>, soigne le personnage pour 2 pts et annule la forme de <color style='color:#FFFFFFFF'>Sorcière des braises écarlates scellée de glace</color>, le personnage changeant de façon permanente en <color style='color:#FFFFFFFF'>Sorcière des braises écarlates</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3098,8 +3098,8 @@ var _skills = {
     },
     "21024": {
         "_id": 21024,
-        "Name": "Might of Delusion",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Ice-Sealed Crimson Witch of Embers</color>.",
+        "Name": "Pouvoir de tromperie",
+        "Desc": "(Passif) Applique la forme de <color style='color:#FFFFFFFF'>Sorcière des braises écarlates scellée de glace</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3111,7 +3111,7 @@ var _skills = {
     },
     "21025": {
         "_id": 21025,
-        "Name": "Inferno's Awakening",
+        "Name": "Éveil d'incandescence",
         "Desc": "",
         "Tag": [],
         "Cost": {},
@@ -3120,8 +3120,8 @@ var _skills = {
     },
     "21026": {
         "_id": 21026,
-        "Name": "Might of Delusion",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Ice-Sealed Crimson Witch of Embers</color>.",
+        "Name": "Pouvoir de tromperie",
+        "Desc": "(Passif) Applique la forme de <color style='color:#FFFFFFFF'>Sorcière des braises écarlates scellée de glace</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3133,8 +3133,8 @@ var _skills = {
     },
     "21027": {
         "_id": 21027,
-        "Name": "Might of Delusion",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Ice-Sealed Crimson Witch of Embers</color>.",
+        "Name": "Pouvoir de tromperie",
+        "Desc": "(Passif) Applique la forme de <color style='color:#FFFFFFFF'>Sorcière des braises écarlates scellée de glace</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3146,8 +3146,8 @@ var _skills = {
     },
     "63011": {
         "_id": 63011,
-        "Name": "Crimson Lotus Moth",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Papillon de lotus rouge",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3160,8 +3160,8 @@ var _skills = {
     },
     "63012": {
         "_id": 63012,
-        "Name": "Decimating Lash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Blazing Heat</color>.",
+        "Name": "Fouet de calcination",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et applique la <color style='color:#FFFFFFFF'>Chaleur extrême</color> au personnage choisi.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3175,8 +3175,8 @@ var _skills = {
     },
     "63013": {
         "_id": 63013,
-        "Name": "Whirling Blaze",
-        "Desc": "Deals <b>6</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Tissage enflammé",
+        "Desc": "Inflige <b>6</b> <b>6</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3189,8 +3189,8 @@ var _skills = {
     },
     "63014": {
         "_id": 63014,
-        "Name": "Crimson Flamespin",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Tournoifeu écarlate",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3200,8 +3200,8 @@ var _skills = {
     },
     "21031": {
         "_id": 21031,
-        "Name": "Icespike Shot",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Tir de stalactite",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3214,8 +3214,8 @@ var _skills = {
     },
     "21032": {
         "_id": 21032,
-        "Name": "Ice Ring Waltz",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Overwhelming Ice</color>.",
+        "Name": "Valse givrée",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b> et applique une <color style='color:#FFFFFFFF'>Stalactite écrasante</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3229,8 +3229,8 @@ var _skills = {
     },
     "21033": {
         "_id": 21033,
-        "Name": "Plunging Ice Shards",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>, deals 1 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby, summons 1 <color style='color:#FFFFFFFF'>Piercing Iceridge</color>.",
+        "Name": "Chute de glace",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>, inflige <color style='color:#FFFFFFFF'>1 pt de <color style='color:#FFFFFFFF'>DGT de perforation</color></color> à tous les personnages adverses en attente et invoque une <color style='color:#FFFFFFFF'>Glace perçante</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3245,8 +3245,8 @@ var _skills = {
     },
     "21034": {
         "_id": 21034,
-        "Name": "Cryo Crystal Core",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Cryo Crystal Core</color>.",
+        "Name": "Noyau cristallin Cryo",
+        "Desc": "(Passif) Applique un <color style='color:#FFFFFFFF'>Noyau cristallin Cryo</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3258,21 +3258,22 @@ var _skills = {
     },
     "21037": {
         "_id": 21037,
-        "Name": "Cryo Crystal Core",
-        "Desc": "(Passive) When the battle begins, starts with <color style='color:#FFFFFFFF'>Cryo Crystal Core</color>.<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> If this character has yet to gain a Cryo Crystal Core, then it will gain a Cryo Crystal Core again. (Triggers a maximum of once in a single duel)",
+        "Name": "Noyau cristallin Cryo",
+        "Desc": "(Passif) Accorde un <color style='color:#FFFFFFFF'>Noyau cristallin Cryo</color> au début du combat.<br><color style='color:#FFFFFFFF'>Au début de la phase d'action, </color>si le personnage n'est pas affecté par un Noyau cristallin Cryo, lui accorde un Noyau cristallin Cryo. (Déclenché 1 fois maximum par partie)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
         "Cost": {},
         "SP": 0,
         "C": [
-            121035
+            121035,
+            124016
         ]
     },
     "21038": {
         "_id": 21038,
-        "Name": "Cryo Crystal Core",
-        "Desc": "(Passive) When the battle begins, starts with <color style='color:#FFFFFFFF'>Cryo Crystal Core</color>.<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> If this character has yet to gain a Cryo Crystal Core, then it will gain a Cryo Crystal Core again. (Triggers a maximum of once in a single duel)",
+        "Name": "Noyau cristallin Cryo",
+        "Desc": "(Passif) Accorde un <color style='color:#FFFFFFFF'>Noyau cristallin Cryo</color> au début du combat.<br><color style='color:#FFFFFFFF'>Au début de la phase d'action, </color>si le personnage n'est pas affecté par un Noyau cristallin Cryo, lui accorde un Noyau cristallin Cryo. (Déclenché 1 fois maximum par partie)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3284,8 +3285,8 @@ var _skills = {
     },
     "22011": {
         "_id": 22011,
-        "Name": "Surge",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Déferlante",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3298,8 +3299,8 @@ var _skills = {
     },
     "22012": {
         "_id": 22012,
-        "Name": "Oceanid Mimic Summoning",
-        "Desc": "Randomly summons 1 <color style='color:#FFFFFFFF'>Oceanid Mimic</color> (Prioritizes summoning a different type from preexisting ones, at most 2 types of Oceanid Mimic can exist at the same time in the summons area).",
+        "Name": "Mimétisme océanique",
+        "Desc": "Invoque aléatoirement un type de <color style='color:#FFFFFFFF'>Mimiqueur Hydro</color>. (Priorité accordée aux types différents ; un maximum de 2 types de Mimiqueur Hydro peut exister en même temps dans la zone d'invocation)",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3313,8 +3314,8 @@ var _skills = {
     },
     "22013": {
         "_id": 22013,
-        "Name": "The Myriad Wilds",
-        "Desc": "Randomly summons 2 <color style='color:#FFFFFFFF'>Oceanid Mimic</color> (Prioritizes summoning a different type from preexisting ones, at most 2 types of Oceanid Mimic can exist at the same time in the summons area).",
+        "Name": "Myriade sauvage",
+        "Desc": "Invoque aléatoirement 2 types de <color style='color:#FFFFFFFF'>Mimiqueur Hydro</color>. (Priorité accordée aux types différents ; un maximum de 2 types de Mimiqueur Hydro peut exister en même temps dans la zone d'invocation)",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3328,8 +3329,8 @@ var _skills = {
     },
     "22014": {
         "_id": 22014,
-        "Name": "Tide and Torrent",
-        "Desc": "Deals <b>4</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. For each friendly Summon on the field, deals +1 additional DMG.",
+        "Name": "Marée et torrent",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>. Pour chacune de vos invocations, DGT +1.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3342,8 +3343,8 @@ var _skills = {
     },
     "22021": {
         "_id": 22021,
-        "Name": "Water Ball",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Boule d'eau",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3356,8 +3357,8 @@ var _skills = {
     },
     "22022": {
         "_id": 22022,
-        "Name": "Influx Blast",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Refraction</color>.",
+        "Name": "Explosion d'afflux",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b> et inflige un <color style='color:#FFFFFFFF'>Éclat de miroir d'eau</color> au personnage choisi.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3371,8 +3372,8 @@ var _skills = {
     },
     "22023": {
         "_id": 22023,
-        "Name": "Rippled Reflection",
-        "Desc": "Deals <b>5</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Réflexion ondulée",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3385,8 +3386,8 @@ var _skills = {
     },
     "23011": {
         "_id": 23011,
-        "Name": "Thrust",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Poussée",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3399,8 +3400,8 @@ var _skills = {
     },
     "23012": {
         "_id": 23012,
-        "Name": "Prowl",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Stealth</color>.",
+        "Name": "Opportunité",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et accorde une <color style='color:#FFFFFFFF'>Infiltration</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3414,8 +3415,8 @@ var _skills = {
     },
     "23013": {
         "_id": 23013,
-        "Name": "Blade Ablaze",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Lame incinératrice",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3428,8 +3429,8 @@ var _skills = {
     },
     "23014": {
         "_id": 23014,
-        "Name": "Stealth Master",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Stealth</color>.",
+        "Name": "Expert en infiltration",
+        "Desc": "(Passif) Accorde une <color style='color:#FFFFFFFF'>Infiltration</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3441,8 +3442,8 @@ var _skills = {
     },
     "23021": {
         "_id": 23021,
-        "Name": "Flame of Salvation",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Flamme du salut",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3455,8 +3456,8 @@ var _skills = {
     },
     "23022": {
         "_id": 23022,
-        "Name": "Searing Precept",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Précepte enflammé",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3468,8 +3469,8 @@ var _skills = {
     },
     "23023": {
         "_id": 23023,
-        "Name": "Ominous Star",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Darkfire Furnace</color>.",
+        "Name": "Présage astral",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et invoque un <color style='color:#FFFFFFFF'>Fourneau de feu noir</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3484,8 +3485,8 @@ var _skills = {
     },
     "23024": {
         "_id": 23024,
-        "Name": "Fiery Rebirth",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Fiery Rebirth</color>.",
+        "Name": "Renaissance ardente",
+        "Desc": "(Passif) Accorde une <color style='color:#FFFFFFFF'>Renaissance ardente</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3497,8 +3498,8 @@ var _skills = {
     },
     "23025": {
         "_id": 23025,
-        "Name": "Shield of Surging Flame",
-        "Desc": "(Passive) When this character triggers <color style='color:#FFFFFFFF'>Fiery Rebirth</color>: attach <color style='color:#FFFFFFFF'>Shield of Surging Flame</color> to them.",
+        "Name": "Bouclier de flamme déferlante",
+        "Desc": "(Passif) Lorsque le personnage déclenche une <color style='color:#FFFFFFFF'>Renaissance ardente</color>, lui accorde un <color style='color:#FFFFFFFF'>Bouclier de flamme déferlante</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3511,7 +3512,7 @@ var _skills = {
     },
     "23026": {
         "_id": 23026,
-        "Name": "Broken Shield",
+        "Name": "Bouclier éclaté",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -3522,8 +3523,8 @@ var _skills = {
     },
     "23031": {
         "_id": 23031,
-        "Name": "Searing Glare",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Lueur torride",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3536,8 +3537,8 @@ var _skills = {
     },
     "23032": {
         "_id": 23032,
-        "Name": "Blazing Strike",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Frappe enflammée",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3549,8 +3550,8 @@ var _skills = {
     },
     "23033": {
         "_id": 23033,
-        "Name": "Spirit of Omen's Awakening: Pyro Scorpion",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Spirit of Omen: Pyro Scorpion</color>.",
+        "Name": "Éveil d'esprit sinistre du scorpion ardent",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et invoque l'<color style='color:#FFFFFFFF'>Esprit sinistre du scorpion ardent</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3565,8 +3566,8 @@ var _skills = {
     },
     "23034": {
         "_id": 23034,
-        "Name": "Spirit of Omen's Power",
-        "Desc": "(Passive) <color style='color:#FFFFFFFF'>After this character takes DMG:</color> If this character has no greater than 7 HP, they gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>. (Once per Match)",
+        "Name": "Puissance d'esprit sinistre",
+        "Desc": "(Passif) <color style='color:#FFFFFFFF'>Lorsque le personnage a subi des DGT : </color>Il obtient 1 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color> s'il a 7 PV ou moins. (Limité à 1 fois par partie)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3577,7 +3578,7 @@ var _skills = {
     "23035": {
         "_id": 23035,
         "Name": "",
-        "Desc": "This character's counters will be cleared at the beginning of each Round",
+        "Desc": "Le compteur du personnage est effacé au début de chaque manche.",
         "Tag": [],
         "Cost": {},
         "SP": 0,
@@ -3585,8 +3586,8 @@ var _skills = {
     },
     "23036": {
         "_id": 23036,
-        "Name": "Pyro Scorpion: Guardian Stance",
-        "Desc": "If there are summoned entities on the field at the beginning of each Round, refresh shield",
+        "Name": "Scorpion ardent : Posture protectrice",
+        "Desc": "Au début de chaque manche, le bouclier est actualisé si une ou plusieurs invocations sont sur le terrain.",
         "Tag": [],
         "Cost": {},
         "SP": 0,
@@ -3594,8 +3595,8 @@ var _skills = {
     },
     "23037": {
         "_id": 23037,
-        "Name": "Pyro Scorpion: Guardian Stance",
-        "Desc": "If there are summoned entities on the field at the beginning of each Round, refresh shield (Talent)",
+        "Name": "Scorpion ardent : Posture protectrice",
+        "Desc": "Au début de chaque manche, le bouclier est actualisé si une ou plusieurs invocations sont sur le terrain. (aptitude)",
         "Tag": [],
         "Cost": {},
         "SP": 0,
@@ -3603,8 +3604,8 @@ var _skills = {
     },
     "24011": {
         "_id": 24011,
-        "Name": "Electro Crystal Projection",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Projection de cristal Électro",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3617,8 +3618,8 @@ var _skills = {
     },
     "24012": {
         "_id": 24012,
-        "Name": "Rock-Paper-Scissors Combo",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b> and then separately performs \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Rock-Paper-Scissors Combo: Scissors</color> and <color style='color:#FFFFFFFF'>Rock-Paper-Scissors Combo: Paper</color>.",
+        "Name": "Pierre-feuille-ciseaux",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et <color style='color:#FFFFFFFF'>Préparation de capacité</color> : <color style='color:#FFFFFFFF'>Pierre-feuille-ciseaux : Ciseaux</color> et <color style='color:#FFFFFFFF'>Pierre-feuille-ciseaux : Feuille</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3630,8 +3631,8 @@ var _skills = {
     },
     "24013": {
         "_id": 24013,
-        "Name": "Lightning Lockdown",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons <color style='color:#FFFFFFFF'>Chains of Warding Thunder</color>.",
+        "Name": "Verrou de foudre",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et invoque une <color style='color:#FFFFFFFF'>Chaîne du tonnerre protecteur</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3646,8 +3647,8 @@ var _skills = {
     },
     "24014": {
         "_id": 24014,
-        "Name": "Electro Crystal Core",
-        "Desc": "(Passive) When the battle begins, this character gains an <color style='color:#FFFFFFFF'>Electro Crystal Core</color>.",
+        "Name": "Noyau cristallin Électro",
+        "Desc": "(Passif) Accorde un <color style='color:#FFFFFFFF'>Noyau cristallin Électro</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3659,8 +3660,8 @@ var _skills = {
     },
     "24015": {
         "_id": 24015,
-        "Name": "Rock-Paper-Scissors Combo: Scissors",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>. Then, perform \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Rock-Paper-Scissors Combo: Paper</color>.",
+        "Name": "Pierre-feuille-ciseaux : Ciseaux",
+        "Desc": "(À préparer pendant 1 tour)<br>Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et <color style='color:#FFFFFFFF'>Préparation de capacité</color> : <color style='color:#FFFFFFFF'>Pierre-feuille-ciseaux : Feuille</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3670,8 +3671,8 @@ var _skills = {
     },
     "24016": {
         "_id": 24016,
-        "Name": "Rock-Paper-Scissors Combo: Paper",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Pierre-feuille-ciseaux : Feuille",
+        "Desc": "(À préparer pendant 1 tour)<br>Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3681,8 +3682,8 @@ var _skills = {
     },
     "24017": {
         "_id": 24017,
-        "Name": "Electro Crystal Core",
-        "Desc": "(Passive) When the battle begins, starts with <color style='color:#FFFFFFFF'>Electro Crystal Core</color>.<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> If this character has yet to gain Electro Crystal Core, then it will gain Electro Crystal Core again. (Triggers a maximum of twice in a single duel)",
+        "Name": "Noyau cristallin Électro",
+        "Desc": "(Passif) Accorde un <color style='color:#FFFFFFFF'>Noyau cristallin Électro</color> au début du combat.<br><color style='color:#FFFFFFFF'>Au début de la phase d'action, </color>si le personnage n'est pas affecté par un Noyau cristallin Électro, lui accorde un Noyau cristallin Électro. (Déclenché 2 fois maximum par partie)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3694,8 +3695,8 @@ var _skills = {
     },
     "24018": {
         "_id": 24018,
-        "Name": "Electro Crystal Core",
-        "Desc": "(Passive) When the battle begins, starts with <color style='color:#FFFFFFFF'>Electro Crystal Core</color>.<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> If this character has yet to gain Electro Crystal Core, then it will gain Electro Crystal Core again. (Triggers a maximum of twice in a single duel)",
+        "Name": "Noyau cristallin Électro",
+        "Desc": "(Passif) Accorde un <color style='color:#FFFFFFFF'>Noyau cristallin Électro</color> au début du combat.<br><color style='color:#FFFFFFFF'>Au début de la phase d'action, </color>si le personnage n'est pas affecté par un Noyau cristallin Électro, lui accorde un Noyau cristallin Électro. (Déclenché 2 fois maximum par partie)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3707,8 +3708,8 @@ var _skills = {
     },
     "24021": {
         "_id": 24021,
-        "Name": "Thunderous Wingslash",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Aile galvanique",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3721,8 +3722,8 @@ var _skills = {
     },
     "24022": {
         "_id": 24022,
-        "Name": "Strifeful Lightning",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b> to the opposing character affected by <color style='color:#FFFFFFFF'>Lightning Rod</color>. (If there are no eligible opposing characters, deals DMG to the active character instead)",
+        "Name": "Foudre conflictuelle",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> aux personnages adverses affectés par un <color style='color:#FFFFFFFF'>Paratonnerre</color>. (Si aucun personnage adverse n'est éligible, les DGT sont infligés au personnage actif à la place)",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3736,8 +3737,8 @@ var _skills = {
     },
     "24023": {
         "_id": 24023,
-        "Name": "Thundering Shackles",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Thundering Shackles</color>.",
+        "Name": "Prison tonitruante",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et invoque une <color style='color:#FFFFFFFF'>Prison tonitruante</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3752,8 +3753,8 @@ var _skills = {
     },
     "24024": {
         "_id": 24024,
-        "Name": "Lightning Probe",
-        "Desc": "(Passive) When battle begins, create a <color style='color:#FFFFFFFF'>Lightning Strike Probe</color> on the opponent's side of the field.",
+        "Name": "Détection de foudre",
+        "Desc": "(Passif) Crée une <color style='color:#FFFFFFFF'>Sonde de foudre</color> sur le terrain adverse au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3765,8 +3766,8 @@ var _skills = {
     },
     "24031": {
         "_id": 24031,
-        "Name": "Tail Sweep",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Balayage de queue",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3779,8 +3780,8 @@ var _skills = {
     },
     "24032": {
         "_id": 24032,
-        "Name": "Swirling School of Fish",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.<br>If this character has <color style='color:#FFFFFFFF'>Fontemer Pearl</color> attached, that <color style='color:#FFFFFFFF'>Usage(s)</color> +1. (Once per Round)",
+        "Name": "Banc de poissons dansants",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>.<br>Si le personnage est affecté par une <color style='color:#FFFFFFFF'>Perle fontemarine</color> : <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> +1. (1 fois par manche)",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3794,8 +3795,8 @@ var _skills = {
     },
     "24033": {
         "_id": 24033,
-        "Name": "Fontemer Hoarthunder",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, attaches <color style='color:#FFFFFFFF'>Fontemer Pearl</color> to this character, and summons 1 <color style='color:#FFFFFFFF'>Resonant Coral Orb</color>.",
+        "Name": "Tonnerre fontemarin",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>, applique une <color style='color:#FFFFFFFF'>Perle fontemarine</color> au personnage et invoque un <color style='color:#FFFFFFFF'>Orbe de résonance</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3811,8 +3812,8 @@ var _skills = {
     },
     "24034": {
         "_id": 24034,
-        "Name": "Pearl Armor",
-        "Desc": "(Passive) When the battle begins, attach <color style='color:#FFFFFFFF'>Fontemer Pearl</color> to this character.",
+        "Name": "Armure de perle",
+        "Desc": "(Passif) Applique une <color style='color:#FFFFFFFF'>Perle fontemarine</color> au personnage au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3824,8 +3825,8 @@ var _skills = {
     },
     "24035": {
         "_id": 24035,
-        "Name": "Pearl Armor",
-        "Desc": "(Passive) When the battle begins, attach <color style='color:#FFFFFFFF'>Fontemer Pearl</color> to this character.",
+        "Name": "Armure de perle",
+        "Desc": "(Passif) Applique une <color style='color:#FFFFFFFF'>Perle fontemarine</color> au personnage au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -3837,8 +3838,8 @@ var _skills = {
     },
     "24036": {
         "_id": 24036,
-        "Name": "Fontemer Hoarthunder",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, attaches <color style='color:#FFFFFFFF'>Fontemer Pearl</color> to this character, and summons 1 <color style='color:#FFFFFFFF'>Resonant Coral Orb</color>.",
+        "Name": "Tonnerre fontemarin",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>, applique une <color style='color:#FFFFFFFF'>Perle fontemarine</color> au personnage et invoque un <color style='color:#FFFFFFFF'>Orbe de résonance</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3854,7 +3855,7 @@ var _skills = {
     },
     "24037": {
         "_id": 24037,
-        "Name": "Swirling School of Fish",
+        "Name": "Banc de poissons dansants",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -3865,8 +3866,8 @@ var _skills = {
     },
     "24038": {
         "_id": 24038,
-        "Name": "Swirling School of Fish",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.<br>If this character has <color style='color:#FFFFFFFF'>Fontemer Pearl</color> attached, that <color style='color:#FFFFFFFF'>Usage(s)</color> +1. (Once per Round)",
+        "Name": "Banc de poissons dansants",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>.<br>Si le personnage est affecté par une <color style='color:#FFFFFFFF'>Perle fontemarine</color> : <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> +1. (1 fois par manche)",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3880,8 +3881,8 @@ var _skills = {
     },
     "24041": {
         "_id": 24041,
-        "Name": "Hurtling Bolts",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Décharge de foudre",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3894,8 +3895,8 @@ var _skills = {
     },
     "24042": {
         "_id": 24042,
-        "Name": "Misty Call",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Electro Cicin</color>.",
+        "Name": "Appel de la brume",
+        "Desc": "Invoque une <color style='color:#FFFFFFFF'>Électroluciole</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3909,8 +3910,8 @@ var _skills = {
     },
     "24043": {
         "_id": 24043,
-        "Name": "Thundering Shield",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, applies <color style='color:#FFACFFFF'>[b]2104[a]Electro Application</color> to this character, creates 1 <color style='color:#FFFFFFFF'>Electro Cicin Shield</color> and prepares <color style='color:#FFFFFFFF'>Surging Thunder</color>.",
+        "Name": "Bouclier tonitruant",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>, <color style='color:#FFACFFFF'>Application [b]2104[a]Électro</color> au personnage, crée un <color style='color:#FFFFFFFF'>Bouclier d'Électroluciole</color> et prépare la capacité : <color style='color:#FFFFFFFF'>Expulsion électrique</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3925,8 +3926,8 @@ var _skills = {
     },
     "24044": {
         "_id": 24044,
-        "Name": "Surging Thunder",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Expulsion électrique",
+        "Desc": "(À préparer pendant 1 tour)<br>Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3937,7 +3938,7 @@ var _skills = {
     "25011": {
         "_id": 25011,
         "Name": "Ichimonji",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -3950,8 +3951,8 @@ var _skills = {
     },
     "25012": {
         "_id": 25012,
-        "Name": "Blustering Blade",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Shadowsword: Lone Gale</color>.",
+        "Name": "Lame fulgurante",
+        "Desc": "Invoque une <color style='color:#FFFFFFFF'>Épée d'ombre : Brise</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3965,8 +3966,8 @@ var _skills = {
     },
     "25013": {
         "_id": 25013,
-        "Name": "Frosty Assault",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Shadowsword: Galloping Frost</color>.",
+        "Name": "Assaut givré",
+        "Desc": "Invoque une <color style='color:#FFFFFFFF'>Épée d'ombre : Givre</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -3980,8 +3981,8 @@ var _skills = {
     },
     "25014": {
         "_id": 25014,
-        "Name": "Pseudo Tengu Sweeper",
-        "Desc": "Deals <b>4</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, triggers the effect(s) of all your <color style='color:#FFFFFFFF'>Shadowsword</color> Summon(s). (Does not consume their Usages)",
+        "Name": "Balayage tengu falsifié",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b> et déclenche les effets de toutes vos invocations de type <color style='color:#FFFFFFFF'>Épée d'ombre</color>. (Ne consomme pas d'utilisation)",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -3994,8 +3995,8 @@ var _skills = {
     },
     "25021": {
         "_id": 25021,
-        "Name": "Lacerating Slash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Lacération transversale",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4008,8 +4009,8 @@ var _skills = {
     },
     "25022": {
         "_id": 25022,
-        "Name": "Tempestuous Barrage",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Total Collapse</color>.",
+        "Name": "Bombardement orageux",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b> et applique un <color style='color:#FFFFFFFF'>Effondrement total</color> au personnage choisi.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4023,8 +4024,8 @@ var _skills = {
     },
     "25023": {
         "_id": 25023,
-        "Name": "Dvalin's Cleansing",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b> and then separately performs \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Perpetual Cleansing</color> and <color style='color:#FFFFFFFF'>Ultimate Cleansing</color>.",
+        "Name": "Ablution de Dvalin",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b> et <color style='color:#FFFFFFFF'>Préparation de capacité</color> : <color style='color:#FFFFFFFF'>Ablution extensive</color> et <color style='color:#FFFFFFFF'>Ablution ultime</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4037,7 +4038,7 @@ var _skills = {
     "25024": {
         "_id": 25024,
         "Name": "Caelestinum Finale Termini",
-        "Desc": "Deals <b>5</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>. Applies <color style='color:#FFFFFFFF'>Total Collapse</color> to all opposing standby characters.",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b> et applique un <color style='color:#FFFFFFFF'>Effondrement total</color> à tous les personnages adverses en attente.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4052,8 +4053,8 @@ var _skills = {
     },
     "25025": {
         "_id": 25025,
-        "Name": "Perpetual Cleansing",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>1</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b> to the next opposing character on standby. After this, <color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Ultimate Cleansing</color>. (If there are no opposing characters on standby, deals DMG to active character instead)",
+        "Name": "Ablution extensive",
+        "Desc": "(À préparer pendant 1 tour)<br>Inflige <b>1</b> <b>1</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b> au prochain personnage adverse en attente et <color style='color:#FFFFFFFF'>Préparation de capacité</color> : <color style='color:#FFFFFFFF'>Ablution ultime</color>. (En l'absence de personnage adverse en attente, les DGT sont infligés au personnage actif à la place)",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4063,8 +4064,8 @@ var _skills = {
     },
     "25026": {
         "_id": 25026,
-        "Name": "Ultimate Cleansing",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b> to the previous opposing character on standby. (If there are no opposing characters on standby, deals DMG to the active character instead)",
+        "Name": "Ablution ultime",
+        "Desc": "(À préparer pendant 1 tour)<br>Inflige <b>2</b> <b>2</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b> au précédent personnage adverse en attente. (En l'absence de personnage adverse en attente, les DGT sont infligés au personnage actif à la place)",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4075,7 +4076,7 @@ var _skills = {
     "26011": {
         "_id": 26011,
         "Name": "Plama Lawa",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4089,7 +4090,7 @@ var _skills = {
     "26012": {
         "_id": 26012,
         "Name": "Movo Lawa",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4102,7 +4103,7 @@ var _skills = {
     "26013": {
         "_id": 26013,
         "Name": "Upa Shato",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4115,8 +4116,8 @@ var _skills = {
     },
     "26014": {
         "_id": 26014,
-        "Name": "Infused Stonehide",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Stonehide</color> and <color style='color:#FFFFFFFF'>Stone Force</color>.",
+        "Name": "Peau-pierre infusée",
+        "Desc": "(Passif) Accorde une <color style='color:#FFFFFFFF'>Peau-pierre</color> et une <color style='color:#FFFFFFFF'>Force de pierre</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4129,8 +4130,8 @@ var _skills = {
     },
     "26021": {
         "_id": 26021,
-        "Name": "Sundering Charge",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Ruée de concassage",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4143,8 +4144,8 @@ var _skills = {
     },
     "26022": {
         "_id": 26022,
-        "Name": "Aura of Majesty",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. If a Crystallize reaction occurs, then this character will perform <color style='color:#FFFFFFFF'>Elemental Absorption</color>.<br>If during the usage of this skill, the character hasn't absorbed an element's power yet, then <color style='color:#FFFFFFFF'>Stone Facets: Elemental Crystallization</color> will be attached.",
+        "Name": "Aura de majesté",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b>. Si une réaction de Cristallisation se produit, le personnage <color style='color:#FFFFFFFF'>Absorption de la puissance d'un élément correspondant</color>.<br>Si le personnage n'absorbe aucun élément pendant l'utilisation de cette capacité, il obtient «<color style='color:#FFFFFFFF'>Facettes de la roche : Condensation élémentaire</color>».",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4158,8 +4159,8 @@ var _skills = {
     },
     "26024": {
         "_id": 26024,
-        "Name": "Decimating Rockfall",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. DMG +1 for each element previously absorbed.",
+        "Name": "Éboulement annihilateur",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b> et augmente ces DGT de 1 pour chaque élément précédemment absorbé.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4172,8 +4173,8 @@ var _skills = {
     },
     "26025": {
         "_id": 26025,
-        "Name": "Stone Facets",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Stone Facets: Elemental Absorption</color>.",
+        "Name": "Facettes de la roche",
+        "Desc": "(Passif) Applique « <color style='color:#FFFFFFFF'>Facettes de la roche : Absorption élémentaire</color> » au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4185,8 +4186,8 @@ var _skills = {
     },
     "66013": {
         "_id": 66013,
-        "Name": "Frostspike Wave",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Stone Facets: Elemental Crystallization</color>.",
+        "Name": "Percée givrée",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b> et applique «<color style='color:#FFFFFFFF'>Facettes de la roche : Condensation élémentaire</color> » au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4200,8 +4201,8 @@ var _skills = {
     },
     "66023": {
         "_id": 66023,
-        "Name": "Torrential Rebuke",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Stone Facets: Elemental Crystallization</color>.",
+        "Name": "Réprimande torrentielle",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b> et applique «<color style='color:#FFFFFFFF'>Facettes de la roche : Condensation élémentaire</color> » au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4215,8 +4216,8 @@ var _skills = {
     },
     "66033": {
         "_id": 66033,
-        "Name": "Blazing Rebuke",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Stone Facets: Elemental Crystallization</color>.",
+        "Name": "Réprimande flamboyante",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et applique «<color style='color:#FFFFFFFF'>Facettes de la roche : Condensation élémentaire</color> » au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4230,8 +4231,8 @@ var _skills = {
     },
     "66043": {
         "_id": 66043,
-        "Name": "Thunderstorm Wave",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Stone Facets: Elemental Crystallization</color>.",
+        "Name": "Percée tonitruante",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et applique «<color style='color:#FFFFFFFF'>Facettes de la roche : Condensation élémentaire</color> » au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4245,8 +4246,8 @@ var _skills = {
     },
     "27011": {
         "_id": 27011,
-        "Name": "Majestic Dance",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Danse majestueuse",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4259,8 +4260,8 @@ var _skills = {
     },
     "27012": {
         "_id": 27012,
-        "Name": "Volatile Spore Cloud",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "Nuage de spores instables",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4272,8 +4273,8 @@ var _skills = {
     },
     "27013": {
         "_id": 27013,
-        "Name": "Feather Spreading",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, then consumes all <color style='color:#FFFFFFFF'>Radical Vitality</color> stacks. For each stack consumed, this instance deals +1 DMG.",
+        "Name": "Épandage de plumes",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b> et consomme tous les cumuls de <color style='color:#FFFFFFFF'>Vitalité radicale</color> pour augmenter ces DGT de 1 par cumul consommé.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4288,8 +4289,8 @@ var _skills = {
     },
     "27014": {
         "_id": 27014,
-        "Name": "Radical Vitality",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Radical Vitality</color>.",
+        "Name": "Vitalité radicale",
+        "Desc": "(Passif) Accorde une <color style='color:#FFFFFFFF'>Vitalité radicale</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4301,8 +4302,8 @@ var _skills = {
     },
     "30011": {
         "_id": 30011,
-        "Name": "Hit",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Frappe",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4314,8 +4315,8 @@ var _skills = {
     },
     "30012": {
         "_id": 30012,
-        "Name": "Jump and Hit",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Frappe bondissante",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4327,8 +4328,8 @@ var _skills = {
     },
     "30013": {
         "_id": 30013,
-        "Name": "Swing That Club",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Virevolte",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4341,8 +4342,8 @@ var _skills = {
     },
     "30021": {
         "_id": 30021,
-        "Name": "Shooting",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Tir",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4354,8 +4355,8 @@ var _skills = {
     },
     "30022": {
         "_id": 30022,
-        "Name": "Multishot",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Multitir",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4368,8 +4369,8 @@ var _skills = {
     },
     "30023": {
         "_id": 30023,
-        "Name": "Hide",
-        "Desc": "(Passive) Switches to the next character after this character uses a Skill.",
+        "Name": "Dissimulation",
+        "Desc": "(Passif) Bascule pour le personnage suivant après que ce personnage a utilisé une capacité.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4379,8 +4380,8 @@ var _skills = {
     },
     "30031": {
         "_id": 30031,
-        "Name": "Combo Slash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Coupe combinée",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4392,8 +4393,8 @@ var _skills = {
     },
     "30032": {
         "_id": 30032,
-        "Name": "Leap Attack",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Attaque sautée",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4405,8 +4406,8 @@ var _skills = {
     },
     "30033": {
         "_id": 30033,
-        "Name": "Iai: Sheathed",
-        "Desc": "<color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Iai: Thrust</color>.",
+        "Name": "Iai : Rengainé",
+        "Desc": "Le personnage <color style='color:#FFFFFFFF'>Préparation de capacité</color> : <color style='color:#FFFFFFFF'>Iai : Avancée</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4419,8 +4420,8 @@ var _skills = {
     },
     "30034": {
         "_id": 30034,
-        "Name": "Iai: Thrust",
-        "Desc": "(Prepare for 2 turns)<br>Deals <b>6</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Iai : Avancée",
+        "Desc": "(À préparer pendant 2 tours)<br>Inflige <b>6</b> <b>6</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4430,8 +4431,8 @@ var _skills = {
     },
     "30035": {
         "_id": 30035,
-        "Name": "Iai: Breathing",
-        "Desc": "(Prepared for 1 Turn)<br>The next time this character acts, they will use the Skill <color style='color:#FFFFFFFF'>Iai: Thrust</color>.",
+        "Name": "Iai : Respiration",
+        "Desc": "(À préparer pendant 1 tour)<br>Lors de son prochain tour, le personnage utilise directement la capacité : <color style='color:#FFFFFFFF'>Iai : Avancée</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4442,7 +4443,7 @@ var _skills = {
     "30036": {
         "_id": 30036,
         "Name": "Zanshin",
-        "Desc": "(Passive) End Phase: If this character is the active character, they gain 1 Energy.",
+        "Desc": "(Passif) Si le personnage est le personnage actif lors de la phase finale, accorde 1 charge.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4452,8 +4453,8 @@ var _skills = {
     },
     "30041": {
         "_id": 30041,
-        "Name": "Stern Blow",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Coup dur",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4465,8 +4466,8 @@ var _skills = {
     },
     "30042": {
         "_id": 30042,
-        "Name": "Spiral Close-In",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b> and then separately performs \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>High-Frequency Whirling Assault</color> and <color style='color:#FFFFFFFF'>Hyperspeed Whirling Assault</color>.",
+        "Name": "Approche en spirale",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b> et <color style='color:#FFFFFFFF'>Préparation de capacité</color> : <color style='color:#FFFFFFFF'>Rotation à haute fréquence</color> et <color style='color:#FFFFFFFF'>Rotation à haute vitesse</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4478,8 +4479,8 @@ var _skills = {
     },
     "30043": {
         "_id": 30043,
-        "Name": "Suppressive Volley",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Seeking Missile</color> in the opponent's play area.",
+        "Name": "Salve suppressive",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b> et crée un <color style='color:#FFFFFFFF'>Missile chercheur</color> sur le terrain adverse.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4494,8 +4495,8 @@ var _skills = {
     },
     "30044": {
         "_id": 30044,
-        "Name": "Standard Armor",
-        "Desc": "(Passive) The [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> this character receives is halved (Rounded up)",
+        "Name": "Armure standard",
+        "Desc": "(Passif) Diminue les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> subis par le personnage de moitié. (Arrondi à l'entier supérieur)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4505,8 +4506,8 @@ var _skills = {
     },
     "30045": {
         "_id": 30045,
-        "Name": "High-Frequency Whirling Assault",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>. Then, perform \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Hyperspeed Whirling Assault</color>.",
+        "Name": "Rotation à haute fréquence",
+        "Desc": "(À préparer pendant 1 tour)<br>Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b> et <color style='color:#FFFFFFFF'>Préparation de capacité</color> : <color style='color:#FFFFFFFF'>Rotation à haute vitesse</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4516,8 +4517,8 @@ var _skills = {
     },
     "30046": {
         "_id": 30046,
-        "Name": "Hyperspeed Whirling Assault",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>. This character also gains 1 bonus Energy.",
+        "Name": "Rotation à haute vitesse",
+        "Desc": "(À préparer pendant 1 tour)<br>Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b> et accorde 1 charge supplémentaire au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4527,8 +4528,8 @@ var _skills = {
     },
     "30051": {
         "_id": 30051,
-        "Name": "Close Expulsion",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Expulsion à courte portée",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4540,8 +4541,8 @@ var _skills = {
     },
     "30052": {
         "_id": 30052,
-        "Name": "Sudden Charge",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Impact de ruée",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4553,8 +4554,8 @@ var _skills = {
     },
     "30053": {
         "_id": 30053,
-        "Name": "Energy Surge",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>. If this character has absorbed Elemental Energy, it will release that element for +1 DMG and change DMG type to the absorbed element.",
+        "Name": "Torrent d'énergie",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>. Si le personnage a absorbé un élément, il le libère pour augmenter ces DGT de 1 et les DGT sont changés en l'élément correspondant.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4567,8 +4568,8 @@ var _skills = {
     },
     "30054": {
         "_id": 30054,
-        "Name": "Standard Armor",
-        "Desc": "(Passive) The [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> this character receives is halved (Rounded up)",
+        "Name": "Armure standard",
+        "Desc": "(Passif) Diminue les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> subis par le personnage de moitié. (Arrondi à l'entier supérieur)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4578,8 +4579,8 @@ var _skills = {
     },
     "30055": {
         "_id": 30055,
-        "Name": "Elemental Absorption",
-        "Desc": "(Passive) <color style='color:#FFFFFFFF'>When no element has been absorbed and this character takes Elemental DMG</color>, absorb that element.<br>Halve DMG of that element taken by this character. (Rounded up)",
+        "Name": "Absorption élémentaire",
+        "Desc": "(Passif) <color style='color:#FFFFFFFF'>Lorsque le personnage subit des DGT élémentaires alors qu'il n'a absorbé aucun élément, </color>il absorbe l'élément correspondant.<br>Lorsque le personnage subit des DGT de l'élément qu'il a absorbé, les DGT diminuent de moitié. (Arrondi à l'entier supérieur)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4589,7 +4590,7 @@ var _skills = {
     },
     "30056": {
         "_id": 30056,
-        "Name": "Elemental Absorption",
+        "Name": "Absorption élémentaire",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -4600,8 +4601,8 @@ var _skills = {
     },
     "30061": {
         "_id": 30061,
-        "Name": "Offensive Shieldstrike",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Coup de bouclier",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4613,8 +4614,8 @@ var _skills = {
     },
     "30062": {
         "_id": 30062,
-        "Name": "Double Strike",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Coup double",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4626,8 +4627,8 @@ var _skills = {
     },
     "30063": {
         "_id": 30063,
-        "Name": "Leaping Smash",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Martèlement bondissant",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4640,8 +4641,8 @@ var _skills = {
     },
     "30071": {
         "_id": 30071,
-        "Name": "Long-Range Fire",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Tir long",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4653,8 +4654,8 @@ var _skills = {
     },
     "30072": {
         "_id": 30072,
-        "Name": "Retreating Fire",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>, switches your character to the next character.",
+        "Name": "Tir de retraite",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b> et bascule votre personnage pour le personnage suivant.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4666,8 +4667,8 @@ var _skills = {
     },
     "30073": {
         "_id": 30073,
-        "Name": "Burst Fire",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Tir en rafales",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4681,7 +4682,7 @@ var _skills = {
     "31011": {
         "_id": 31011,
         "Name": "Plata Plama",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4695,7 +4696,7 @@ var _skills = {
     "31012": {
         "_id": 31012,
         "Name": "Da Plama",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4708,7 +4709,7 @@ var _skills = {
     "31013": {
         "_id": 31013,
         "Name": "Aba Movo",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4721,8 +4722,8 @@ var _skills = {
     },
     "31014": {
         "_id": 31014,
-        "Name": "Hoarfrost Greatshield",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Hoarfrost Greatshield</color>.",
+        "Name": "Grand bouclier de givre",
+        "Desc": "(Passif) Accorde un <color style='color:#FFFFFFFF'>Grand bouclier de givre</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4734,7 +4735,7 @@ var _skills = {
     },
     "31015": {
         "_id": 31015,
-        "Name": "Shattered Shield",
+        "Name": "Bouclier brisé",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -4745,8 +4746,8 @@ var _skills = {
     },
     "31021": {
         "_id": 31021,
-        "Name": "Ice Arrow",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Flèche de glace",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4759,8 +4760,8 @@ var _skills = {
     },
     "31022": {
         "_id": 31022,
-        "Name": "Multishot",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Multitir",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4773,8 +4774,8 @@ var _skills = {
     },
     "31023": {
         "_id": 31023,
-        "Name": "Hide",
-        "Desc": "(Passive) Switches to the next character after this character attacks.",
+        "Name": "Dissimulation",
+        "Desc": "(Passif) Bascule pour le personnage suivant après que ce personnage a attaqué.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4784,8 +4785,8 @@ var _skills = {
     },
     "31031": {
         "_id": 31031,
-        "Name": "Cryo Thorns",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Épine de glace",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4798,8 +4799,8 @@ var _skills = {
     },
     "31032": {
         "_id": 31032,
-        "Name": "Frostdrift Offering",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Offrande de givre",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4811,8 +4812,8 @@ var _skills = {
     },
     "31033": {
         "_id": 31033,
-        "Name": "Rimestorm Rite",
-        "Desc": "Deals <b>5</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Rite de tempête glaciale",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4825,8 +4826,8 @@ var _skills = {
     },
     "31034": {
         "_id": 31034,
-        "Name": "Cryo Shield",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Cryo Shield</color>.",
+        "Name": "Bouclier Cryo",
+        "Desc": "(Passif) Accorde un <color style='color:#FFFFFFFF'>Bouclier Cryo</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4838,7 +4839,7 @@ var _skills = {
     },
     "31035": {
         "_id": 31035,
-        "Name": "Broken Shield",
+        "Name": "Bouclier éclaté",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -4849,8 +4850,8 @@ var _skills = {
     },
     "31041": {
         "_id": 31041,
-        "Name": "Close-Range Charge",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Charge à courte portée",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4863,8 +4864,8 @@ var _skills = {
     },
     "31042": {
         "_id": 31042,
-        "Name": "Freezing Spray",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Embrun verglaçant",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4876,8 +4877,8 @@ var _skills = {
     },
     "31043": {
         "_id": 31043,
-        "Name": "Frost Cannon",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Cryo Elemental Equipment</color>.",
+        "Name": "Canon de givre",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b> et accorde un <color style='color:#FFFFFFFF'>Équipement Cryo</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4892,8 +4893,8 @@ var _skills = {
     },
     "31044": {
         "_id": 31044,
-        "Name": "Combat Resupply",
-        "Desc": "(Passive) When the battle begins, this character gains 2 Energy.",
+        "Name": "Réapprovisionnement de combat",
+        "Desc": "(Passif) Accorde 2 charges au personnage au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4903,7 +4904,7 @@ var _skills = {
     },
     "31045": {
         "_id": 31045,
-        "Name": "Shattered Gun",
+        "Name": "Brisure d'arme",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -4914,8 +4915,8 @@ var _skills = {
     },
     "31051": {
         "_id": 31051,
-        "Name": "Spore Bullet",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Balle de spores",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4928,8 +4929,8 @@ var _skills = {
     },
     "31052": {
         "_id": 31052,
-        "Name": "Rolling Spray",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Pulvérisation roulante",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4941,8 +4942,8 @@ var _skills = {
     },
     "31053": {
         "_id": 31053,
-        "Name": "Divebomb",
-        "Desc": "Deals <b>5</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Plongeon explosif",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -4955,8 +4956,8 @@ var _skills = {
     },
     "31054": {
         "_id": 31054,
-        "Name": "State Change",
-        "Desc": "(Passive) When the battle begins, the character will be in the <color style='color:#FFFFFFFF'>Aerial Superiority</color> State.<br>After this character takes [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>, it will become <color style='color:#FFFFFFFF'>Scorched</color>.<br>After this character takes [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>, it will become <color style='color:#FFFFFFFF'>Activated</color>.",
+        "Name": "Changement d'état",
+        "Desc": "(Passif) Fait passer le personnage en <color style='color:#FFFFFFFF'>Supériorité aérienne</color> au début du combat.<br>Lorsque le personnage a subi des [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>, le fait passer en <color style='color:#FFFFFFFF'>État calciné</color>.<br>Lorsque le personnage a subi des [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>, le fait passer en <color style='color:#FFFFFFFF'>État activé</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -4970,8 +4971,8 @@ var _skills = {
     },
     "31061": {
         "_id": 31061,
-        "Name": "Double Hack",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Entaille double",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -4984,8 +4985,8 @@ var _skills = {
     },
     "31062": {
         "_id": 31062,
-        "Name": "Dual-Blade Chop",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Tranchée double",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -4997,8 +4998,8 @@ var _skills = {
     },
     "31063": {
         "_id": 31063,
-        "Name": "Stalwart Onslaught",
-        "Desc": "This character's <color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Stalwart Onslaught: All-Out Strike</color>.",
+        "Name": "Contusion améliorée",
+        "Desc": "Le personnage <color style='color:#FFFFFFFF'>Préparation de capacité</color> : <color style='color:#FFFFFFFF'>Contusion améliorée : Frappe totale</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5011,8 +5012,8 @@ var _skills = {
     },
     "31064": {
         "_id": 31064,
-        "Name": "Ominous Spirit Unleashed (Cryo)",
-        "Desc": "(Passive) <color style='color:#FFFFFFFF'>After this character takes DMG:</color> If this character has no more than 7 HP, they gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color> and <color style='color:#FFFFFFFF'>Spirit of Omen's Awakening: Cryo</color> is attached. (Once per Match)",
+        "Name": "Délivrance d'esprit sinistre (Cryo)",
+        "Desc": "(Passif) <color style='color:#FFFFFFFF'>Lorsque le personnage a subi des DGT</color> : Il obtient 1 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color> et un <color style='color:#FFFFFFFF'>Éveil d'esprit sinistre (Cryo)</color> s'il a 7 PV ou moins. (Limité à 1 fois par partie)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5024,8 +5025,8 @@ var _skills = {
     },
     "31065": {
         "_id": 31065,
-        "Name": "Stalwart Onslaught: All-Out Strike",
-        "Desc": "(Prepare for 2 turns)<br>Deals <b>6</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Contusion améliorée : Frappe totale",
+        "Desc": "(À préparer pendant 2 tours)<br>Inflige <b>6</b> <b>6</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5035,8 +5036,8 @@ var _skills = {
     },
     "31066": {
         "_id": 31066,
-        "Name": "Stalwart Onslaught: Charging Stance",
-        "Desc": "(Prepared for 1 Turn)<br>The next time this character acts, they will use the Skill <color style='color:#FFFFFFFF'>Stalwart Onslaught: All-Out Strike</color>.",
+        "Name": "Contusion améliorée : Posture de charge",
+        "Desc": "(À préparer pendant 1 tour)<br>Lors de son prochain tour, le personnage utilise directement la capacité : <color style='color:#FFFFFFFF'>Contusion améliorée : Frappe totale</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5046,8 +5047,8 @@ var _skills = {
     },
     "31071": {
         "_id": 31071,
-        "Name": "Ram",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Heurt",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5060,8 +5061,8 @@ var _skills = {
     },
     "31072": {
         "_id": 31072,
-        "Name": "Jumping Slam",
-        "Desc": "Deals <b>4</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Saut écrasant",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5074,8 +5075,8 @@ var _skills = {
     },
     "31073": {
         "_id": 31073,
-        "Name": "Elemental Sedimentation: Cryo",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Elemental Lifeform: Cryo</color>.",
+        "Name": "Dépôt d'élément Cryo",
+        "Desc": "(Passif) Applique un <color style='color:#FFFFFFFF'>Entité élémentaire Cryo</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5087,8 +5088,8 @@ var _skills = {
     },
     "31081": {
         "_id": 31081,
-        "Name": "Bounce",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Rebond",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5101,8 +5102,8 @@ var _skills = {
     },
     "31082": {
         "_id": 31082,
-        "Name": "Frigid Spray",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Spray glacial",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5114,8 +5115,8 @@ var _skills = {
     },
     "31083": {
         "_id": 31083,
-        "Name": "Slam",
-        "Desc": "Deals <b>5</b> <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color></b>.",
+        "Name": "Écrasement",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5128,8 +5129,8 @@ var _skills = {
     },
     "32011": {
         "_id": 32011,
-        "Name": "Water Ball",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Boule d'eau",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5142,8 +5143,8 @@ var _skills = {
     },
     "32012": {
         "_id": 32012,
-        "Name": "Bubbling Offering",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Mist Bubble</color>.",
+        "Name": "Offrande de bulle",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b> et inflige une <color style='color:#FFFFFFFF'>Bulle</color> au personnage choisi.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5157,8 +5158,8 @@ var _skills = {
     },
     "32013": {
         "_id": 32013,
-        "Name": "Rite of Mortal Water",
-        "Desc": "Deals <b>4</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Mist Bubble</color>.",
+        "Name": "Rite d'eau mortelle",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b> et inflige une <color style='color:#FFFFFFFF'>Bulle</color> au personnage choisi.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5173,8 +5174,8 @@ var _skills = {
     },
     "32014": {
         "_id": 32014,
-        "Name": "Hydro Shield",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Hydro Shield</color>.",
+        "Name": "Bouclier Hydro",
+        "Desc": "(Passif) Accorde un <color style='color:#FFFFFFFF'>Bouclier Hydro</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5186,7 +5187,7 @@ var _skills = {
     },
     "32015": {
         "_id": 32015,
-        "Name": "Broken Shield",
+        "Name": "Bouclier éclaté",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -5197,8 +5198,8 @@ var _skills = {
     },
     "32016": {
         "_id": 32016,
-        "Name": "Aegis of the Abyss",
-        "Desc": "(Passive) When the shield is broken, after this character uses a Skill: Restore the <color style='color:#FFFFFFFF'>Hydro Shield</color>.",
+        "Name": "Égide de l'Abîme",
+        "Desc": "(Passif) Si le bouclier est brisé et lorsque ce personnage a utilisé une capacité, restaure le <color style='color:#FFFFFFFF'>Bouclier Hydro</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5210,8 +5211,8 @@ var _skills = {
     },
     "32021": {
         "_id": 32021,
-        "Name": "Staff Strike",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Coup de bâton",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5223,8 +5224,8 @@ var _skills = {
     },
     "32022": {
         "_id": 32022,
-        "Name": "Prayer for Rain",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Healing Rain</color>.",
+        "Name": "Appel de la pluie",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b> et invoque une <color style='color:#FFFFFFFF'>Pluie curative</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5238,8 +5239,8 @@ var _skills = {
     },
     "32023": {
         "_id": 32023,
-        "Name": "Tidal Impact",
-        "Desc": "Deals <b>5</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Impact tidal",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5252,8 +5253,8 @@ var _skills = {
     },
     "32031": {
         "_id": 32031,
-        "Name": "Skilled Charge",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Charge tactique",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5266,8 +5267,8 @@ var _skills = {
     },
     "32032": {
         "_id": 32032,
-        "Name": "Curative Bullet",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>, heals 2 of friendly characters on standby for 1 HP.",
+        "Name": "Balle curative",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b> et soigne 2 de vos personnages en attente pour 1 pt.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5279,8 +5280,8 @@ var _skills = {
     },
     "32033": {
         "_id": 32033,
-        "Name": "Elemental Buff: Hydro",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Hydro Elemental Equipment</color>.",
+        "Name": "Bonus d'élément Hydro",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b> et accorde un <color style='color:#FFFFFFFF'>Équipement Hydro</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5295,8 +5296,8 @@ var _skills = {
     },
     "32034": {
         "_id": 32034,
-        "Name": "Combat Resupply",
-        "Desc": "(Passive) When the battle begins, this character gains 2 Energy.",
+        "Name": "Réapprovisionnement de combat",
+        "Desc": "(Passif) Accorde 2 charges au personnage au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5306,7 +5307,7 @@ var _skills = {
     },
     "32035": {
         "_id": 32035,
-        "Name": "Shattered Gun",
+        "Name": "Brisure d'arme",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -5317,8 +5318,8 @@ var _skills = {
     },
     "32041": {
         "_id": 32041,
-        "Name": "Bounce",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Rebond",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5331,8 +5332,8 @@ var _skills = {
     },
     "32042": {
         "_id": 32042,
-        "Name": "Slam",
-        "Desc": "Deals <b>4</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Écrasement",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5345,8 +5346,8 @@ var _skills = {
     },
     "32043": {
         "_id": 32043,
-        "Name": "Elemental Sedimentation: Hydro",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Elemental Lifeform: Hydro</color>.",
+        "Name": "Dépôt d'élément Hydro",
+        "Desc": "(Passif) Accorde une <color style='color:#FFFFFFFF'>Entité élémentaire Hydro</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5358,8 +5359,8 @@ var _skills = {
     },
     "32051": {
         "_id": 32051,
-        "Name": "Spore Bullet",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Balle de spores",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5372,8 +5373,8 @@ var _skills = {
     },
     "32052": {
         "_id": 32052,
-        "Name": "Raging Breath",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Souffle rageur",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5385,8 +5386,8 @@ var _skills = {
     },
     "32053": {
         "_id": 32053,
-        "Name": "Charging Blast",
-        "Desc": "Deals <b>5</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Charge explosive",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5399,8 +5400,8 @@ var _skills = {
     },
     "32054": {
         "_id": 32054,
-        "Name": "State Change",
-        "Desc": "(Passive) When the battle begins, the character will be in the <color style='color:#FFFFFFFF'>Terrain Advantage</color> State.<br>After this character takes [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>, it will become <color style='color:#FFFFFFFF'>Scorched</color>.<br>After this character takes [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>, it will become <color style='color:#FFFFFFFF'>Activated</color>.",
+        "Name": "Changement d'état",
+        "Desc": "(Passif) Fait passer le personnage en <color style='color:#FFFFFFFF'>Avantage topographique</color> au début du combat.<br>Lorsque le personnage a subi des [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>, le fait passer en <color style='color:#FFFFFFFF'>État calciné</color>.<br>Lorsque le personnage a subi des [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>, le fait passer en <color style='color:#FFFFFFFF'>État activé</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5414,8 +5415,8 @@ var _skills = {
     },
     "32061": {
         "_id": 32061,
-        "Name": "Agile Thrust",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Pique agile",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5428,8 +5429,8 @@ var _skills = {
     },
     "32062": {
         "_id": 32062,
-        "Name": "Blitz Strike",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Incision rapide",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5441,8 +5442,8 @@ var _skills = {
     },
     "32063": {
         "_id": 32063,
-        "Name": "Whirling Lashes",
-        "Desc": "This character performs \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Whirling Lashes: First Strike</color> and <color style='color:#FFFFFFFF'>Whirling Lashes: Fixed Pattern</color> separately.",
+        "Name": "Danse tranchante",
+        "Desc": "Le personnage <color style='color:#FFFFFFFF'>Préparation de capacité</color> : <color style='color:#FFFFFFFF'>Danse tranchante : Coup premier</color> et <color style='color:#FFFFFFFF'>Danse tranchante : Séquence fixe</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5455,8 +5456,8 @@ var _skills = {
     },
     "32064": {
         "_id": 32064,
-        "Name": "Ominous Spirit Unleashed (Hydro)",
-        "Desc": "(Passive) <color style='color:#FFFFFFFF'>After this character takes DMG:</color> If this character has no more than 7 HP, they gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color> and <color style='color:#FFFFFFFF'>Spirit of Omen's Awakening: Hydro</color> is attached. (Once per Match)",
+        "Name": "Délivrance d'esprit sinistre (Hydro)",
+        "Desc": "(Passif) <color style='color:#FFFFFFFF'>Lorsque le personnage a subi des DGT</color> : Il obtient 1 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color> et un <color style='color:#FFFFFFFF'>Éveil d'esprit sinistre (Hydro)</color> s'il a 7 PV ou moins. (Limité à 1 fois par partie)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5468,8 +5469,8 @@ var _skills = {
     },
     "32065": {
         "_id": 32065,
-        "Name": "Whirling Lashes: First Strike",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>. Then, perform \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Whirling Lashes: Fixed Pattern</color>.",
+        "Name": "Danse tranchante : Coup premier",
+        "Desc": "(À préparer pendant 1 tour)<br>Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b> et <color style='color:#FFFFFFFF'>Préparation de capacité</color> : <color style='color:#FFFFFFFF'>Danse tranchante : Séquence fixe</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5479,8 +5480,8 @@ var _skills = {
     },
     "32066": {
         "_id": 32066,
-        "Name": "Whirling Lashes: Fixed Pattern",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Danse tranchante : Séquence fixe",
+        "Desc": "(À préparer pendant 1 tour)<br>Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5490,8 +5491,8 @@ var _skills = {
     },
     "32071": {
         "_id": 32071,
-        "Name": "Ram",
-        "Desc": "Deals <b>1</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Heurt",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5504,8 +5505,8 @@ var _skills = {
     },
     "32072": {
         "_id": 32072,
-        "Name": "Bubble Spray",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>. The target character receives <color style='color:#FFFFFFFF'>Gurgling Bubble</color>.",
+        "Name": "Jet de bulles",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b> et applique une <color style='color:#FFFFFFFF'>Bulle gargouillante</color> au personnage choisi.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5519,8 +5520,8 @@ var _skills = {
     },
     "32073": {
         "_id": 32073,
-        "Name": "Jumping Slam",
-        "Desc": "Deals <b>5</b> <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color></color></b>.",
+        "Name": "Saut écrasant",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#80C0FF;'>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5533,8 +5534,8 @@ var _skills = {
     },
     "33011": {
         "_id": 33011,
-        "Name": "Flamewave",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Vague de flamme",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5547,8 +5548,8 @@ var _skills = {
     },
     "33012": {
         "_id": 33012,
-        "Name": "Blazing Visage",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Visage flamboyant",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5560,8 +5561,8 @@ var _skills = {
     },
     "33013": {
         "_id": 33013,
-        "Name": "Rite of the Molten Eruption",
-        "Desc": "Deals <b>7</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Rite d'éruption de lave",
+        "Desc": "Inflige <b>7</b> <b>7</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5574,8 +5575,8 @@ var _skills = {
     },
     "33014": {
         "_id": 33014,
-        "Name": "Pyro Shield",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Pyro Shield</color>.",
+        "Name": "Bouclier Pyro",
+        "Desc": "(Passif) Accorde un <color style='color:#FFFFFFFF'>Bouclier Pyro</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5587,7 +5588,7 @@ var _skills = {
     },
     "33015": {
         "_id": 33015,
-        "Name": "Broken Shield",
+        "Name": "Bouclier éclaté",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -5598,8 +5599,8 @@ var _skills = {
     },
     "33016": {
         "_id": 33016,
-        "Name": "Aegis of the Abyss",
-        "Desc": "(Passive) When the shield is broken, after this character uses a Skill: Restore the <color style='color:#FFFFFFFF'>Pyro Shield</color>.",
+        "Name": "Égide de l'Abîme",
+        "Desc": "(Passif) Si le bouclier est brisé et lorsque ce personnage a utilisé une capacité, restaure le <color style='color:#FFFFFFFF'>Bouclier Pyro</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5612,7 +5613,7 @@ var _skills = {
     "33021": {
         "_id": 33021,
         "Name": "Du Plama",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5626,7 +5627,7 @@ var _skills = {
     "33022": {
         "_id": 33022,
         "Name": "Upa",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5639,7 +5640,7 @@ var _skills = {
     "33023": {
         "_id": 33023,
         "Name": "Oto Tiga",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5652,8 +5653,8 @@ var _skills = {
     },
     "33024": {
         "_id": 33024,
-        "Name": "Flowfire Edge",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Flowfire Edge</color>.",
+        "Name": "Tranchant de flamme",
+        "Desc": "(Passif) Accorde un <color style='color:#FFFFFFFF'>Tranchant de flamme</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5665,8 +5666,8 @@ var _skills = {
     },
     "33031": {
         "_id": 33031,
-        "Name": "Three Point Slash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Coupe triple",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5679,8 +5680,8 @@ var _skills = {
     },
     "33032": {
         "_id": 33032,
-        "Name": "Leaping Strike",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Frappe sautée",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5692,8 +5693,8 @@ var _skills = {
     },
     "33033": {
         "_id": 33033,
-        "Name": "Iai: Sheathed",
-        "Desc": "<color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Iai: Fiery Wind</color>.",
+        "Name": "Iai : Rengainé",
+        "Desc": "Le personnage <color style='color:#FFFFFFFF'>Préparation de capacité</color> : <color style='color:#FFFFFFFF'>Iai : Vent ardent</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5706,8 +5707,8 @@ var _skills = {
     },
     "33034": {
         "_id": 33034,
-        "Name": "Kamuna Talisman: Pyro",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Kamuna Talisman: Pyro</color>.",
+        "Name": "Talisman Kamuna : Feu",
+        "Desc": "(Passif) Accorde un <color style='color:#FFFFFFFF'>Talisman Kamuna : Feu</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5719,8 +5720,8 @@ var _skills = {
     },
     "33035": {
         "_id": 33035,
-        "Name": "Final Frenzy",
-        "Desc": "When another of your Kairagi characters gets defeated, this character gains <color style='color:#FFFFFFFF'>Final Frenzy</color>.",
+        "Name": "Frénésie finale",
+        "Desc": "Lorsqu'un autre de vos personnages de type Oni des mers est vaincu, accorde une <color style='color:#FFFFFFFF'>Frénésie finale</color> à ce personnage.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5732,8 +5733,8 @@ var _skills = {
     },
     "33036": {
         "_id": 33036,
-        "Name": "Iai: Fiery Wind",
-        "Desc": "(Prepare for 2 turns)<br>Deals <b>6</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Iai : Vent ardent",
+        "Desc": "(À préparer pendant 2 tours)<br>Inflige <b>6</b> <b>6</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5743,8 +5744,8 @@ var _skills = {
     },
     "33037": {
         "_id": 33037,
-        "Name": "Iai: Breathing",
-        "Desc": "(Prepared for 1 Turn)<br>The next time this character acts, they will use the Skill <color style='color:#FFFFFFFF'>Iai: Fiery Wind</color>.",
+        "Name": "Iai : Respiration",
+        "Desc": "(À préparer pendant 1 tour)<br>Lors de son prochain tour, le personnage utilise directement la capacité : <color style='color:#FFFFFFFF'>Iai : Vent ardent</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5754,8 +5755,8 @@ var _skills = {
     },
     "33041": {
         "_id": 33041,
-        "Name": "Torch Strike",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Frappe de torche",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5768,8 +5769,8 @@ var _skills = {
     },
     "33042": {
         "_id": 33042,
-        "Name": "Hit and Run",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Délit de fuite",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5781,8 +5782,8 @@ var _skills = {
     },
     "33043": {
         "_id": 33043,
-        "Name": "Scorching Combo",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Enchaînement de torches",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5795,8 +5796,8 @@ var _skills = {
     },
     "33051": {
         "_id": 33051,
-        "Name": "Combo Slash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Coupe combinée",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5809,8 +5810,8 @@ var _skills = {
     },
     "33052": {
         "_id": 33052,
-        "Name": "Blaze Bloom",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, switches your character to the next character.",
+        "Name": "Floraison flamboyante",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et bascule votre personnage pour le personnage suivant.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5822,8 +5823,8 @@ var _skills = {
     },
     "33061": {
         "_id": 33061,
-        "Name": "Single-Shot Bullet",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Tir unique",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5836,8 +5837,8 @@ var _skills = {
     },
     "33062": {
         "_id": 33062,
-        "Name": "Burning Barrage",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Rafale brûlante",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5849,8 +5850,8 @@ var _skills = {
     },
     "33063": {
         "_id": 33063,
-        "Name": "Flaming Cannon",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Pyro Elemental Equipment</color>.",
+        "Name": "Canon ardent",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et accorde un <color style='color:#FFFFFFFF'>Équipement Pyro</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5865,8 +5866,8 @@ var _skills = {
     },
     "33064": {
         "_id": 33064,
-        "Name": "Combat Resupply",
-        "Desc": "(Passive) When the battle begins, this character gains 2 Energy.",
+        "Name": "Réapprovisionnement de combat",
+        "Desc": "(Passif) Accorde 2 charges au personnage au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5876,7 +5877,7 @@ var _skills = {
     },
     "33065": {
         "_id": 33065,
-        "Name": "Shattered Gun",
+        "Name": "Brisure d'arme",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -5887,8 +5888,8 @@ var _skills = {
     },
     "33071": {
         "_id": 33071,
-        "Name": "Up-Close Pummelling",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Baroud rapproché",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5901,8 +5902,8 @@ var _skills = {
     },
     "33072": {
         "_id": 33072,
-        "Name": "Multi-Smash",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b> and performs \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Tracking Truncheon</color>.",
+        "Name": "Matraquage multiple",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et <color style='color:#FFFFFFFF'>Préparation de capacité</color> : <color style='color:#FFFFFFFF'>Gourdin de poursuite</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5914,8 +5915,8 @@ var _skills = {
     },
     "33073": {
         "_id": 33073,
-        "Name": "Sprinting Strike",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Frappe de sprint",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5928,8 +5929,8 @@ var _skills = {
     },
     "33074": {
         "_id": 33074,
-        "Name": "Arkhe: Pneuma",
-        "Desc": "<color style='color:#FFFFFFFF'>After being damaged by characters with \"[b]3504[a]Arkhe: Ousia,\"</color> this character will become <color style='color:#FFFFFFFF'>Deactivated</color>, and <color style='color:#FFFFFFFF'>cannot use skills</color> until this Round ends.",
+        "Name": "Signature énergétique : Pneuma",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage a subi des DGT venant d'un personnage chargé d'énergie d'[b]3504[a]Arkhe ousia : </color>il change en <color style='color:#FFFFFFFF'>Forme désactivée</color> et <color style='color:#FFFFFFFF'>ne peut pas utiliser de capacité</color> jusqu'à la fin de la manche.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -5939,8 +5940,8 @@ var _skills = {
     },
     "33075": {
         "_id": 33075,
-        "Name": "Tracking Truncheon",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Gourdin de poursuite",
+        "Desc": "(À préparer pendant 1 tour)<br>Inflige <b>2</b> <b>2</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5950,8 +5951,8 @@ var _skills = {
     },
     "33081": {
         "_id": 33081,
-        "Name": "Short-Range Snap Fire",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Tir court",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -5964,8 +5965,8 @@ var _skills = {
     },
     "33082": {
         "_id": 33082,
-        "Name": "Spread Fire",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>, deals <color style='color:#FFFFFFFF'>1 <color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby.",
+        "Name": "Tir dispersé",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et inflige <color style='color:#FFFFFFFF'>1 pt de <color style='color:#FFFFFFFF'>DGT de perforation</color></color> à tous les personnages adverses en attente.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -5977,8 +5978,8 @@ var _skills = {
     },
     "33083": {
         "_id": 33083,
-        "Name": "Combined Fire",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b> and then separately performs \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Combined Fire: Light Barrage</color> and <color style='color:#FFFFFFFF'>Combined Fire: Piercing Salvo</color>.",
+        "Name": "Tir combiné",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et <color style='color:#FFFFFFFF'>Préparation de capacité</color> : <color style='color:#FFFFFFFF'>Tir combiné : Rafale légère</color> et <color style='color:#FFFFFFFF'>Tir combiné : Salve lourde</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -5991,8 +5992,8 @@ var _skills = {
     },
     "33084": {
         "_id": 33084,
-        "Name": "Arkhe: Ousia",
-        "Desc": "<color style='color:#FFFFFFFF'>After being damaged by characters with \"[b]3505[a]Arkhe: Pneuma,\"</color> this character will become <color style='color:#FFFFFFFF'>Deactivated</color>, and <color style='color:#FFFFFFFF'>cannot use skills</color> until this Round ends.",
+        "Name": "Signature énergétique : Ousia",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage a subi des DGT venant d'un personnage chargé d'énergie d'[b]3505[a]Arkhe pneuma : </color>il change en <color style='color:#FFFFFFFF'>Forme désactivée</color> et <color style='color:#FFFFFFFF'>ne peut pas utiliser de capacité</color> jusqu'à la fin de la manche.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6002,8 +6003,8 @@ var _skills = {
     },
     "33085": {
         "_id": 33085,
-        "Name": "Combined Fire: Light Barrage",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>. Then, perform \"<color style='color:#FFFFFFFF'>Prepare Skill</color>\" for <color style='color:#FFFFFFFF'>Combined Fire: Piercing Salvo</color>.",
+        "Name": "Tir combiné : Rafale légère",
+        "Desc": "(À préparer pendant 1 tour)<br>Inflige <b>2</b> <b>2</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b> et <color style='color:#FFFFFFFF'>Préparation de capacité</color> : <color style='color:#FFFFFFFF'>Tir combiné : Salve lourde</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6013,8 +6014,8 @@ var _skills = {
     },
     "33086": {
         "_id": 33086,
-        "Name": "Combined Fire: Piercing Salvo",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color></color></b>.",
+        "Name": "Tir combiné : Salve lourde",
+        "Desc": "(À préparer pendant 1 tour)<br>Inflige <b>2</b> <b>2</b> de <b><color style='color:#FF9999;'>[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6024,8 +6025,8 @@ var _skills = {
     },
     "34011": {
         "_id": 34011,
-        "Name": "Three Point Slash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Coupe triple",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6038,8 +6039,8 @@ var _skills = {
     },
     "34012": {
         "_id": 34012,
-        "Name": "Leaping Strike",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Frappe sautée",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6051,8 +6052,8 @@ var _skills = {
     },
     "34013": {
         "_id": 34013,
-        "Name": "Iai: Sheathed",
-        "Desc": "<color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Iai: Stormbreath</color>.",
+        "Name": "Iai : Rengainé",
+        "Desc": "Le personnage <color style='color:#FFFFFFFF'>Préparation de capacité</color> : <color style='color:#FFFFFFFF'>Iai : Souffle de tempête</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6065,8 +6066,8 @@ var _skills = {
     },
     "34014": {
         "_id": 34014,
-        "Name": "Kamuna Talisman: Electro",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Kamuna Talisman: Electro</color>.",
+        "Name": "Talisman Kamuna : Éclair",
+        "Desc": "(Passif) Accorde un <color style='color:#FFFFFFFF'>Talisman Kamuna : Éclair</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6078,8 +6079,8 @@ var _skills = {
     },
     "34015": {
         "_id": 34015,
-        "Name": "Final Frenzy",
-        "Desc": "When another of your Kairagi characters gets defeated, this character gains <color style='color:#FFFFFFFF'>Final Frenzy</color>.",
+        "Name": "Frénésie finale",
+        "Desc": "Lorsqu'un autre de vos personnages de type Oni des mers est vaincu, accorde une <color style='color:#FFFFFFFF'>Frénésie finale</color> à ce personnage.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6091,8 +6092,8 @@ var _skills = {
     },
     "34016": {
         "_id": 34016,
-        "Name": "Iai: Stormbreath",
-        "Desc": "(Prepare for 2 turns)<br>Deals <b>6</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Iai : Souffle de tempête",
+        "Desc": "(À préparer pendant 2 tours)<br>Inflige <b>6</b> <b>6</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6102,8 +6103,8 @@ var _skills = {
     },
     "34017": {
         "_id": 34017,
-        "Name": "Iai: Breathing",
-        "Desc": "(Prepared for 1 Turn)<br>The next time this character acts, they will use the Skill <color style='color:#FFFFFFFF'>Iai: Stormbreath</color>.",
+        "Name": "Iai : Respiration",
+        "Desc": "(À préparer pendant 1 tour)<br>Lors de son prochain tour, le personnage utilise directement la capacité : <color style='color:#FFFFFFFF'>Iai : Souffle de tempête</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6113,8 +6114,8 @@ var _skills = {
     },
     "34021": {
         "_id": 34021,
-        "Name": "Thunder Arrow",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Flèche Électro",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6127,8 +6128,8 @@ var _skills = {
     },
     "34022": {
         "_id": 34022,
-        "Name": "Multishot",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Multitir",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6141,8 +6142,8 @@ var _skills = {
     },
     "34023": {
         "_id": 34023,
-        "Name": "Hide",
-        "Desc": "(Passive) Switches to the next character after this character attacks.",
+        "Name": "Dissimulation",
+        "Desc": "(Passif) Bascule pour le personnage suivant après que ce personnage a attaqué.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6153,7 +6154,7 @@ var _skills = {
     "34031": {
         "_id": 34031,
         "Name": "Du Plama",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6167,7 +6168,7 @@ var _skills = {
     "34032": {
         "_id": 34032,
         "Name": "Upa",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6180,7 +6181,7 @@ var _skills = {
     "34033": {
         "_id": 34033,
         "Name": "Oto Tiga",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6193,8 +6194,8 @@ var _skills = {
     },
     "34034": {
         "_id": 34034,
-        "Name": "Ripple Electro Edge",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Ripple Electro Edge</color>.",
+        "Name": "Tranchant d'électrondulation",
+        "Desc": "(Passif) Accorde un <color style='color:#FFFFFFFF'>Tranchant d'électrondulation</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6206,8 +6207,8 @@ var _skills = {
     },
     "34041": {
         "_id": 34041,
-        "Name": "Thunderbolt",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Éclair",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6220,8 +6221,8 @@ var _skills = {
     },
     "34042": {
         "_id": 34042,
-        "Name": "Lingering Light",
-        "Desc": "Summons 1 <color style='color:#FFFFFFFF'>Tanglebolt Ring</color>.",
+        "Name": "Lumière persistante",
+        "Desc": "Invoque un <color style='color:#FFFFFFFF'>Anneau de tempête</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6235,8 +6236,8 @@ var _skills = {
     },
     "34043": {
         "_id": 34043,
-        "Name": "Rite of Rolling Thunder",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Tanglebolt Ring</color>.",
+        "Name": "Rite du tonnerre hurlant",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et invoque un <color style='color:#FFFFFFFF'>Anneau de tempête</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6251,8 +6252,8 @@ var _skills = {
     },
     "34044": {
         "_id": 34044,
-        "Name": "Electro Shield",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Electro Shield</color>.",
+        "Name": "Bouclier Électro",
+        "Desc": "(Passif) Accorde un <color style='color:#FFFFFFFF'>Bouclier Électro</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6264,7 +6265,7 @@ var _skills = {
     },
     "34045": {
         "_id": 34045,
-        "Name": "Broken Shield",
+        "Name": "Bouclier éclaté",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -6275,8 +6276,8 @@ var _skills = {
     },
     "34051": {
         "_id": 34051,
-        "Name": "Combo Slash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Coupe combinée",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6289,8 +6290,8 @@ var _skills = {
     },
     "34052": {
         "_id": 34052,
-        "Name": "Mechanical Thunderbow",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Tonnerre mécanique",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6302,8 +6303,8 @@ var _skills = {
     },
     "34061": {
         "_id": 34061,
-        "Name": "Bounce",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Rebond",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6316,8 +6317,8 @@ var _skills = {
     },
     "34062": {
         "_id": 34062,
-        "Name": "Slam",
-        "Desc": "Deals <b>4</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Écrasement",
+        "Desc": "Inflige <b>4</b> <b>4</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6330,8 +6331,8 @@ var _skills = {
     },
     "34063": {
         "_id": 34063,
-        "Name": "Elemental Sedimentation: Electro",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Elemental Lifeform: Electro</color>.",
+        "Name": "Dépôt d'élément Électro",
+        "Desc": "(Passif) Obtient une <color style='color:#FFFFFFFF'>Entité élémentaire Électro</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6343,8 +6344,8 @@ var _skills = {
     },
     "34071": {
         "_id": 34071,
-        "Name": "Rapid Hammer Strike",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Martèlement rapide",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6357,8 +6358,8 @@ var _skills = {
     },
     "34072": {
         "_id": 34072,
-        "Name": "Raging Charge",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Charge furieuse",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6370,8 +6371,8 @@ var _skills = {
     },
     "34073": {
         "_id": 34073,
-        "Name": "Thunderblast Hammer",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Electro Elemental Equipment</color>.",
+        "Name": "Marteau de tonnerre",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et accorde un <color style='color:#FFFFFFFF'>Équipement Électro</color> au personnage.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6386,8 +6387,8 @@ var _skills = {
     },
     "34074": {
         "_id": 34074,
-        "Name": "Combat Resupply",
-        "Desc": "(Passive) When the battle begins, this character gains 2 Energy.",
+        "Name": "Réapprovisionnement de combat",
+        "Desc": "(Passif) Accorde 2 charges au personnage au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6397,7 +6398,7 @@ var _skills = {
     },
     "34075": {
         "_id": 34075,
-        "Name": "Shattered Gun",
+        "Name": "Brisure d'arme",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -6408,8 +6409,8 @@ var _skills = {
     },
     "34081": {
         "_id": 34081,
-        "Name": "Rapid Melee",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Mêlée rapide",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6422,8 +6423,8 @@ var _skills = {
     },
     "34082": {
         "_id": 34082,
-        "Name": "Shield Riposte",
-        "Desc": "This character gains a <color style='color:#FFFFFFFF'>Shield Block</color>. <color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Shield Slice</color>.",
+        "Name": "Rispote de bouclier",
+        "Desc": "Applique une <color style='color:#FFFFFFFF'>Parade de bouclier</color> au personnage et <color style='color:#FFFFFFFF'>Préparation de capacité</color> : <color style='color:#FFFFFFFF'>Coupure de bouclier</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6437,8 +6438,8 @@ var _skills = {
     },
     "34083": {
         "_id": 34083,
-        "Name": "Shield Sweep",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, deals 2 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby.",
+        "Name": "Balayage de bouclier",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et inflige <color style='color:#FFFFFFFF'>2 pts de <color style='color:#FFFFFFFF'>DGT de perforation</color></color> à tous les personnages adverses en attente.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6451,8 +6452,8 @@ var _skills = {
     },
     "34084": {
         "_id": 34084,
-        "Name": "Arkhe: Ousia",
-        "Desc": "<color style='color:#FFFFFFFF'>After being damaged by characters with \"[b]3505[a]Arkhe: Pneuma,\"</color> this character will become <color style='color:#FFFFFFFF'>Deactivated</color>, and <color style='color:#FFFFFFFF'>cannot use skills</color> until this Round ends.",
+        "Name": "Signature énergétique : Ousia",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage a subi des DGT venant d'un personnage chargé d'énergie d'[b]3505[a]Arkhe pneuma : </color>il change en <color style='color:#FFFFFFFF'>Forme désactivée</color> et <color style='color:#FFFFFFFF'>ne peut pas utiliser de capacité</color> jusqu'à la fin de la manche.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6462,8 +6463,8 @@ var _skills = {
     },
     "34085": {
         "_id": 34085,
-        "Name": "Shield Slice",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>3</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>.",
+        "Name": "Coupure de bouclier",
+        "Desc": "(À préparer pendant 1 tour)<br>Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6473,8 +6474,8 @@ var _skills = {
     },
     "34091": {
         "_id": 34091,
-        "Name": "Cankering Claws",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Corrosion</color> on the opponent's side of the field.",
+        "Name": "Griffes corrosives",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et crée une <color style='color:#FFFFFFFF'>Corrosion</color> sur le terrain adverse.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6489,8 +6490,8 @@ var _skills = {
     },
     "34092": {
         "_id": 34092,
-        "Name": "Corrosive Electro Crystal",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Corrosion</color> on the opponent's side of the field.",
+        "Name": "Cristal électro corrosif",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et crée une <color style='color:#FFFFFFFF'>Corrosion</color> sur le terrain adverse.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6504,8 +6505,8 @@ var _skills = {
     },
     "34093": {
         "_id": 34093,
-        "Name": "Devouring Bite",
-        "Desc": "Deals <b>6</b> <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Corrosion</color> on the opponent's side of the field.",
+        "Name": "Morsure vorace",
+        "Desc": "Inflige <b>6</b> <b>6</b> de <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color></color></b> et crée une <color style='color:#FFFFFFFF'>Corrosion</color> sur le terrain adverse.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6520,8 +6521,8 @@ var _skills = {
     },
     "34094": {
         "_id": 34094,
-        "Name": "Elemental Devourer",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Elemental Devourer</color>.",
+        "Name": "Soif de magie",
+        "Desc": "(Passif) Applique une <color style='color:#FFFFFFFF'>Soif de magie</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6533,8 +6534,8 @@ var _skills = {
     },
     "35011": {
         "_id": 35011,
-        "Name": "Staff Strike",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Coup de bâton",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6546,8 +6547,8 @@ var _skills = {
     },
     "35012": {
         "_id": 35012,
-        "Name": "Prayer to the Winds",
-        "Desc": "Deals <b>2</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Whirlwind</color>.",
+        "Name": "Appel du vent",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b> et invoque une <color style='color:#FFFFFFFF'>Tornade</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6561,8 +6562,8 @@ var _skills = {
     },
     "35013": {
         "_id": 35013,
-        "Name": "Galeforce Shock",
-        "Desc": "Deals <b>5</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>.",
+        "Name": "Coup de cyclone",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6575,8 +6576,8 @@ var _skills = {
     },
     "35021": {
         "_id": 35021,
-        "Name": "Hurricane Jab",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Frappe d'ouragan",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6589,8 +6590,8 @@ var _skills = {
     },
     "35022": {
         "_id": 35022,
-        "Name": "Gathering the Winds",
-        "Desc": "This character gains a <color style='color:#FFFFFFFF'>Stormwind Barrier</color>. <color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'>Avenging Squall</color>.",
+        "Name": "Cumul venteux",
+        "Desc": "Accorde une <color style='color:#FFFFFFFF'>Barrière de rafale</color> au personnage et <color style='color:#FFFFFFFF'>Préparation de capacité</color> : <color style='color:#FFFFFFFF'>Rafale vengeresse</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6604,8 +6605,8 @@ var _skills = {
     },
     "35023": {
         "_id": 35023,
-        "Name": "Galeforce Agitation",
-        "Desc": "Deals <b>3</b> <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color></b>. All of your other Fatui characters gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.",
+        "Name": "Incitation des vents",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#80FFD7;'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color></b> et accorde 1 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color> à vos autres personnages de type Fatui.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6618,7 +6619,7 @@ var _skills = {
     },
     "35024": {
         "_id": 35024,
-        "Name": "Stormwind Barrier",
+        "Name": "Barrière de rafale",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -6629,8 +6630,8 @@ var _skills = {
     },
     "35025": {
         "_id": 35025,
-        "Name": "Avenging Squall",
-        "Desc": "(Prepare for 1 turn)<br>Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Rafale vengeresse",
+        "Desc": "(À préparer pendant 1 tour)<br>Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6641,7 +6642,7 @@ var _skills = {
     "36011": {
         "_id": 36011,
         "Name": "Plata Plama",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6655,7 +6656,7 @@ var _skills = {
     "36012": {
         "_id": 36012,
         "Name": "Da Plama",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6668,7 +6669,7 @@ var _skills = {
     "36013": {
         "_id": 36013,
         "Name": "Aba Movo",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6681,8 +6682,8 @@ var _skills = {
     },
     "36014": {
         "_id": 36014,
-        "Name": "Craggy Greatshield",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Craggy Greatshield</color>.",
+        "Name": "Grand bouclier de roches",
+        "Desc": "(Passif) Accorde un <color style='color:#FFFFFFFF'>Grand bouclier de roches</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6694,8 +6695,8 @@ var _skills = {
     },
     "36021": {
         "_id": 36021,
-        "Name": "Corrosive Claws",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Corrosion</color> at the opponent's play area.",
+        "Name": "Griffe corrosive",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b> et crée une <color style='color:#FFFFFFFF'>Corrosion</color> sur le terrain adverse.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6710,8 +6711,8 @@ var _skills = {
     },
     "36022": {
         "_id": 36022,
-        "Name": "Crystal Cracker",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Corrosion</color> at the opponent's play area.",
+        "Name": "Craquelure de cristal",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b> et crée une <color style='color:#FFFFFFFF'>Corrosion</color> sur le terrain adverse.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6725,8 +6726,8 @@ var _skills = {
     },
     "36023": {
         "_id": 36023,
-        "Name": "Pursuer's Mark",
-        "Desc": "Deals <b>6</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Corrosion</color> at the opponent's play area.",
+        "Name": "Marque de poursuivant",
+        "Desc": "Inflige <b>6</b> <b>6</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b> et crée une <color style='color:#FFFFFFFF'>Corrosion</color> sur le terrain adverse.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6741,8 +6742,8 @@ var _skills = {
     },
     "36024": {
         "_id": 36024,
-        "Name": "Elemental Devourer",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Elemental Devourer</color>.",
+        "Name": "Soif de magie",
+        "Desc": "(Passif) Accorde une <color style='color:#FFFFFFFF'>Soif de magie</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6754,8 +6755,8 @@ var _skills = {
     },
     "36031": {
         "_id": 36031,
-        "Name": "Staff Strike",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Coup de bâton",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6767,8 +6768,8 @@ var _skills = {
     },
     "36032": {
         "_id": 36032,
-        "Name": "Summoning of Stones",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Rocky Pedestal</color>.",
+        "Name": "Malédiction de pierre",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b> et crée une <color style='color:#FFFFFFFF'>Plinthe de pierre</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6782,8 +6783,8 @@ var _skills = {
     },
     "36033": {
         "_id": 36033,
-        "Name": "Shockwave Smash",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "Onde de choc fracassante",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6796,8 +6797,8 @@ var _skills = {
     },
     "36041": {
         "_id": 36041,
-        "Name": "Rock Projectile",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "Projectile de roche",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6810,8 +6811,8 @@ var _skills = {
     },
     "36042": {
         "_id": 36042,
-        "Name": "Geocrystal Beam",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "Rayon calcaire",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6823,8 +6824,8 @@ var _skills = {
     },
     "36043": {
         "_id": 36043,
-        "Name": "Staff of Geo",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>. This character gains <color style='color:#FFFFFFFF'>Geo Elemental Equipment</color>, creating 1 <color style='color:#FFFFFFFF'>Crystal Shield</color>.",
+        "Name": "Bâton de poussières",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b>, accorde un <color style='color:#FFFFFFFF'>Équipement Géo</color> au personnage et crée un <color style='color:#FFFFFFFF'>Bouclier de cristal</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6840,8 +6841,8 @@ var _skills = {
     },
     "36044": {
         "_id": 36044,
-        "Name": "Combat Resupply",
-        "Desc": "(Passive) When the battle begins, this character gains 2 Energy.",
+        "Name": "Réapprovisionnement de combat",
+        "Desc": "(Passif) Accorde 2 charges au personnage au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6851,8 +6852,8 @@ var _skills = {
     },
     "36051": {
         "_id": 36051,
-        "Name": "Spore Bullet",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "Balle de spores",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6865,8 +6866,8 @@ var _skills = {
     },
     "36052": {
         "_id": 36052,
-        "Name": "Raging Breath",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "Souffle rageur",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6878,8 +6879,8 @@ var _skills = {
     },
     "36053": {
         "_id": 36053,
-        "Name": "Charging Blast",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "Charge explosive",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6892,8 +6893,8 @@ var _skills = {
     },
     "36054": {
         "_id": 36054,
-        "Name": "State Change",
-        "Desc": "(Passive) When the battle begins, the character will be in the <color style='color:#FFFFFFFF'>Terrain Advantage</color> State.<br>After this character takes [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>, it will become <color style='color:#FFFFFFFF'>Scorched</color>.<br>After this character takes [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>, it will become <color style='color:#FFFFFFFF'>Activated</color>.",
+        "Name": "Changement d'état",
+        "Desc": "(Passif) Fait passer le personnage en <color style='color:#FFFFFFFF'>Avantage topographique</color> au début du combat.<br>Lorsque le personnage a subi des [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>, le fait passer en <color style='color:#FFFFFFFF'>État calciné</color>.<br>Lorsque le personnage a subi des [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>, le fait passer en <color style='color:#FFFFFFFF'>État activé</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6907,8 +6908,8 @@ var _skills = {
     },
     "36061": {
         "_id": 36061,
-        "Name": "Triple Geosmash",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Triple frappe sismique",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6921,8 +6922,8 @@ var _skills = {
     },
     "36062": {
         "_id": 36062,
-        "Name": "Splitrock Slam",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>.",
+        "Name": "Fissuration de la roche",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6934,8 +6935,8 @@ var _skills = {
     },
     "36063": {
         "_id": 36063,
-        "Name": "Ominous Spirit Unleashed (Geo)",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Spirit of Omen: Stone Drake</color>.",
+        "Name": "Délivrance d'esprit sinistre (Géo)",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFE699;'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color></b> et invoque l'<color style='color:#FFFFFFFF'>Esprit sinistre du varan de pierre</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -6950,8 +6951,8 @@ var _skills = {
     },
     "36064": {
         "_id": 36064,
-        "Name": "Spirit of Omen's Power",
-        "Desc": "(Passive) If a character has no more than 7 HP after taking DMG, they gain 1 Energy. (Once per Match)",
+        "Name": "Puissance d'esprit sinistre",
+        "Desc": "(Passif) Lorsque le personnage a subi des DGT : Il obtient 1 charge s'il a 7 PV ou moins. (Limité à 1 fois par partie)",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6961,8 +6962,8 @@ var _skills = {
     },
     "36065": {
         "_id": 36065,
-        "Name": "Stone Drake: Guardian Stance",
-        "Desc": "(Passive) If there are summoned entities each Round, refresh shield",
+        "Name": "Varan de pierre : Posture protectrice",
+        "Desc": "(Passif) Au début de chaque manche, le bouclier est actualisé s'il y a une ou plusieurs invocations.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -6972,8 +6973,8 @@ var _skills = {
     },
     "37011": {
         "_id": 37011,
-        "Name": "Spore Bullet",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "Balle de spores",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -6986,8 +6987,8 @@ var _skills = {
     },
     "37012": {
         "_id": 37012,
-        "Name": "Rolling Spray",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "Pulvérisation roulante",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -6999,8 +7000,8 @@ var _skills = {
     },
     "37013": {
         "_id": 37013,
-        "Name": "Divebomb",
-        "Desc": "Deals <b>5</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "Plongeon explosif",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -7013,8 +7014,8 @@ var _skills = {
     },
     "37014": {
         "_id": 37014,
-        "Name": "State Change",
-        "Desc": "(Passive) When the battle begins, the character will be in a <color style='color:#FFFFFFFF'>Aerial Superiority</color>.<br>After this character takes [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>, it will become <color style='color:#FFFFFFFF'>Scorched</color>.<br>After this character takes [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>, it will become <color style='color:#FFFFFFFF'>Activated</color>.",
+        "Name": "Changement d'état",
+        "Desc": "(Passif) Fait passer le personnage en <color style='color:#FFFFFFFF'>Supériorité aérienne</color> au début du combat.<br>Lorsque le personnage a subi des [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>, le fait passer en <color style='color:#FFFFFFFF'>État calciné</color>.<br>Lorsque le personnage a subi des [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>, le fait passer en <color style='color:#FFFFFFFF'>État activé</color>.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -7029,7 +7030,7 @@ var _skills = {
     "37021": {
         "_id": 37021,
         "Name": "Plata Plama",
-        "Desc": "Deals <b>2</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -7043,7 +7044,7 @@ var _skills = {
     "37022": {
         "_id": 37022,
         "Name": "Da Plama",
-        "Desc": "Deals <b>3</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -7056,7 +7057,7 @@ var _skills = {
     "37023": {
         "_id": 37023,
         "Name": "Aba Movo",
-        "Desc": "Deals <b>5</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -7069,8 +7070,8 @@ var _skills = {
     },
     "37024": {
         "_id": 37024,
-        "Name": "Crudewood Greatshield",
-        "Desc": "(Passive) When the battle begins, this character gains <color style='color:#FFFFFFFF'>Crudewood Greatshield</color>.",
+        "Name": "Grand bouclier d'aubier",
+        "Desc": "(Passif) Accorde un <color style='color:#FFFFFFFF'>Grand bouclier d'aubier</color> au début du combat.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -7082,7 +7083,7 @@ var _skills = {
     },
     "37025": {
         "_id": 37025,
-        "Name": "Shattered Shield",
+        "Name": "Bouclier brisé",
         "Desc": "",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
@@ -7093,8 +7094,8 @@ var _skills = {
     },
     "37031": {
         "_id": 37031,
-        "Name": "Staff Strike",
-        "Desc": "Deals <b>1</b> <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color></color></b>.",
+        "Name": "Coup de bâton",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#FFFFFF;'>[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -7106,8 +7107,8 @@ var _skills = {
     },
     "37032": {
         "_id": 37032,
-        "Name": "Venomous Vines",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, creates 1 <color style='color:#FFFFFFFF'>Vines</color> at the opponent's play area.",
+        "Name": "Liane venimeuse",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b> et crée une <color style='color:#FFFFFFFF'>Liane</color> sur le terrain adverse.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -7121,8 +7122,8 @@ var _skills = {
     },
     "37033": {
         "_id": 37033,
-        "Name": "Dendro Field",
-        "Desc": "Deals <b>5</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "Champ Dendro",
+        "Desc": "Inflige <b>5</b> <b>5</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -7135,8 +7136,8 @@ var _skills = {
     },
     "37041": {
         "_id": 37041,
-        "Name": "Precision Shot",
-        "Desc": "Deals <b>1</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "Tir de précision",
+        "Desc": "Inflige <b>1</b> <b>1</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_A"
         ],
@@ -7149,8 +7150,8 @@ var _skills = {
     },
     "37042": {
         "_id": 37042,
-        "Name": "Wildgrass Ball",
-        "Desc": "Deals <b>3</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>.",
+        "Name": "Tir d'herbe sauvage",
+        "Desc": "Inflige <b>3</b> <b>3</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
         ],
@@ -7162,8 +7163,8 @@ var _skills = {
     },
     "37043": {
         "_id": 37043,
-        "Name": "Launch Grenade",
-        "Desc": "Deals <b>2</b> <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color></color></b>, summons 1 <color style='color:#FFFFFFFF'>Delayed Fuse Munitions</color>.",
+        "Name": "Bombardement de grenade",
+        "Desc": "Inflige <b>2</b> <b>2</b> de <b><color style='color:#99FF88;'>[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color></color></b> et invoque un <color style='color:#FFFFFFFF'>Explosif à retardement</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
         ],
@@ -7178,8 +7179,8 @@ var _skills = {
     },
     "37044": {
         "_id": 37044,
-        "Name": "Arkhe: Pneuma",
-        "Desc": "<color style='color:#FFFFFFFF'>After being damaged by characters with \"[b]3504[a]Arkhe: Ousia,\"</color> this character will become <color style='color:#FFFFFFFF'>Deactivated</color>, and <color style='color:#FFFFFFFF'>cannot use skills</color> until this Round ends.",
+        "Name": "Signature énergétique : Pneuma",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage a subi des DGT venant d'un personnage chargé d'énergie d'[b]3504[a]Arkhe ousia : </color>il change en <color style='color:#FFFFFFFF'>Forme désactivée</color> et <color style='color:#FFFFFFFF'>ne peut pas utiliser de capacité</color> jusqu'à la fin de la manche.",
         "Tag": [
             "GCG_SKILL_TAG_PASSIVE"
         ],
@@ -7192,8 +7193,8 @@ var _skills = {
 var _ref = {
     "111": {
         "_id": 111,
-        "Name": "Crystallize",
-        "Desc": "Grants <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point</color> to your active character. (Can stack. Max 2 points.)",
+        "Name": "Cristallisation",
+        "Desc": "Accorde <color style='color:#FFFFFFFF'>1 pt de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color></color> à votre personnage actif. (Peut être cumulé, 2 pts maximum)",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7201,8 +7202,8 @@ var _ref = {
     },
     "115": {
         "_id": 115,
-        "Name": "Burning Flame",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 2 stacks.)",
+        "Name": "Flamme brûlante",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color> (Peut être cumulé, 2 cumuls maximum)",
         "Tag": [
             "GCG_TAG_DENDRO_PRODUCE"
         ],
@@ -7210,8 +7211,8 @@ var _ref = {
     },
     "116": {
         "_id": 116,
-        "Name": "Dendro Core",
-        "Desc": "<color style='color:#FFFFFFFF'>When you deal [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> or [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color> to an opposing active character, </color>DMG dealt +2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Noyau Dendro",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous infligez des [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color> ou des [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color> au personnage actif adverse, </color>DGT +2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>",
         "Tag": [
             "GCG_TAG_DENDRO_PRODUCE"
         ],
@@ -7219,8 +7220,8 @@ var _ref = {
     },
     "117": {
         "_id": 117,
-        "Name": "Catalyzing Field",
-        "Desc": "<color style='color:#FFFFFFFF'>When you deal [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color> or [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color> to an opposing active character, </color>DMG dealt +1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Champ catalyseur",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous infligez des [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color> ou des [b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color> au personnage actif adverse, </color>DGT +1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [
             "GCG_TAG_DENDRO_PRODUCE"
         ],
@@ -7228,22 +7229,22 @@ var _ref = {
     },
     "111011": {
         "_id": 111011,
-        "Name": "Sacred Cryo Pearl",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>, deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to all opposing characters on standby.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Perle de glace",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color> et inflige 1 pt de <color style='color:#FFFFFFFF'>DGT de perforation</color> à tous les personnages adverses en attente.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111012": {
         "_id": 111012,
-        "Name": "Ice Lotus",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active character receives DMG: </color>Decreases DMG taken by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Lotus de glace",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage actif subit des DGT : </color>Diminue les DGT de 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111021": {
         "_id": 111021,
-        "Name": "Cat-Claw Shield",
-        "Desc": "Grants <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point</color> for your active character.",
+        "Name": "Bouclier de griffes",
+        "Desc": "Accorde <color style='color:#FFFFFFFF'>1 pt de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color></color> à votre personnage actif.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7251,85 +7252,85 @@ var _ref = {
     },
     "111023": {
         "_id": 111023,
-        "Name": "Drunken Mist",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>, heal your active character for 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Champ de vapeur d'alcool",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color> et soigne votre personnage actif pour 2 pts.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111031": {
         "_id": 111031,
-        "Name": "Icicle",
-        "Desc": "<color style='color:#FFFFFFFF'>After you switch characters:</color> Deal 2 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Stalactite",
+        "Desc": "<color style='color:#FFFFFFFF'>Après que vous basculez de personnage : </color>Inflige 2 pts de [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "111041": {
         "_id": 111041,
-        "Name": "Chonghua Frost Field",
-        "Desc": "Your Sword, Claymore, and Polearm-wielding characters' [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> is converted to [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Champ de givre",
+        "Desc": "Les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés par vos personnages armés d'une épée à une main, à deux mains ou d'une arme d'hast sont convertis en [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111051": {
         "_id": 111051,
-        "Name": "Frostflake Seki no To",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Tourbillon givré",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 2 pts de [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111052": {
         "_id": 111052,
-        "Name": "Cryo Elemental Infusion",
-        "Desc": "The character to which this is attached has their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br>(Lasts until the Round ends)",
+        "Name": "Enchantement Cryo",
+        "Desc": "Les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés par le personnage affecté sont convertis en [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color>.<br>(Dure jusqu'à la fin de la manche)",
         "Tag": [],
         "Cost": {}
     },
     "111061": {
         "_id": 111061,
-        "Name": "Grimheart",
-        "Desc": "<color style='color:#FFFFFFFF'>After the character to which this is attached uses Icetide Vortex:</color> Remove this status, DMG +3 for this instance.",
+        "Name": "Cœur de glace",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté utilise Vortex des mers glacées : </color>Annule cet état et augmente ces DGT de 3.",
         "Tag": [],
         "Cost": {}
     },
     "111062": {
         "_id": 111062,
-        "Name": "Lightfall Sword",
-        "Desc": "<color style='color:#FFFFFFFF'>When Eula uses a Normal Attack or Elemental Skill</color>, this card will accumulate 2 Zeal stacks, but Eula will not gain Energy.<br><color style='color:#FFFFFFFF'>End Phase:</color> Discard this card and deal 3 [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color>. Each Zeal stack adds 1 DMG to this damage instance.<br>(Effects on this card's <color style='color:#FFFFFFFF'>Usage(s)</color> will apply to <color style='color:#FFFFFFFF'>Zeal</color>.)",
+        "Name": "Épée de lumière",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'Eula utilise une attaque normale ou une compétence élémentaire : </color>Cette carte obtient 2 cumuls d'énergie, mais Eula ne peut plus obtenir de charges.<br><color style='color:#FFFFFFFF'>Phase finale : </color>Défausse la carte et inflige 3 pts de [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color>, chaque cumul d'énergie augmentant ces DGT de 1.<br>(Les effets affectant le <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> de cette carte s'appliquent aux <color style='color:#FFFFFFFF'>cumuls d'énergie</color>.)",
         "Tag": [],
         "Cost": {}
     },
     "111071": {
         "_id": 111071,
-        "Name": "Icy Quill",
-        "Desc": "Your character deals 1 increased [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> (Includes the DMG triggered by <color style='color:#99FFFFFF'>[b]2101[a]Cryo-infused</color> Swirl reactions)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Pennage glacé",
+        "Desc": "[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color> infligés par votre personnage +1. (Y compris les DGT des réactions de Dispersion <color style='color:#99FFFFFF'>[b]2101[a]Cryo</color>)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111073": {
         "_id": 111073,
-        "Name": "Talisman Spirit",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>When this Summon is on the field:</color> Opposing character(s) take +1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> and [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color>.",
+        "Name": "Esprit talismanique",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color><br><color style='color:#FFFFFFFF'>Lorsque cette invocation est sur le terrain : </color>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color> et [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> subis par le personnage adverse +1.",
         "Tag": [],
         "Cost": {}
     },
     "111081": {
         "_id": 111081,
-        "Name": "Herald of Frost",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>When this Summon is on the field, after Qiqi uses Normal Attack: </color>Heals your character that took the most DMG for 1 HP.",
+        "Name": "Héraut de givre",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color><br><color style='color:#FFFFFFFF'>Lorsque cette invocation est sur le terrain et que Qiqi a utilisé une attaque normale : </color>Soigne votre personnage ayant subi le plus de DGT pour 1 pt.",
         "Tag": [],
         "Cost": {}
     },
     "111082": {
         "_id": 111082,
-        "Name": "Fortune-Preserving Talisman",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Skill: </color>If that character does not have full HP, heal that character for 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Talisman de fortune",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage a utilisé une capacité : </color>Si ses PV ne sont pas au maximum, soigne le personnage pour 2 pts.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "111091": {
         "_id": 111091,
-        "Name": "Curtain of Slumber Shield",
-        "Desc": "Grants <color style='color:#FFFFFFFF'> 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points</color> to defend your active character.",
+        "Name": "Rideau de sommeil",
+        "Desc": "Accorde 2 pts de <color style='color:#FFFFFFFF'>[b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color></color> pour protéger votre personnage actif.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7337,120 +7338,120 @@ var _ref = {
     },
     "111092": {
         "_id": 111092,
-        "Name": "Shooting Star",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Skill:</color> Accumulate 1 <color style='color:#FFFFFFFF'>Night Star</color>. If you have at least 4 <color style='color:#FFFFFFFF'>Night Stars</color>, consume 4 <color style='color:#FFFFFFFF'>Night Stars</color> and deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>. (The Skill that causes this Combat Status will also trigger this effect)<br><color style='color:#FFFFFFFF'>When causing this Combat Status again:</color> Accumulate 2 <color style='color:#FFFFFFFF'>Night Stars</color>.",
+        "Name": "Étoile filante",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage a utilisé une capacité : </color>Obtient 1 <color style='color:#FFFFFFFF'>étoile vespérale</color>. Avec au moins 4 <color style='color:#FFFFFFFF'>étoiles vespérales</color> : Consomme 4 <color style='color:#FFFFFFFF'>étoiles vespérales</color> pour infliger 1 pt de [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color> (La capacité créant cet état de déploiement déclenche également cet effet).<br><color style='color:#FFFFFFFF'>En déclenchant à nouveau cet état de déploiement : </color>Obtient 2 <color style='color:#FFFFFFFF'>étoiles vespérales</color>.",
         "Tag": [],
         "Cost": {}
     },
     "111093": {
         "_id": 111093,
-        "Name": "Celestial Dreamsphere",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>. If <color style='color:#FFFFFFFF'>Shooting Star</color> is in play, it will let it gain 1 <color style='color:#FFFFFFFF'>Night Star</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Sphère de rêve céleste",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color>. Si une <color style='color:#FFFFFFFF'>Étoile filante</color> est sur le terrain, elle obtient 1 <color style='color:#FFFFFFFF'>étoile vespérale</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111101": {
         "_id": 111101,
-        "Name": "Snappy Silhouette",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> to attached character(s). If you have only 1 <color style='color:#FFFFFFFF'>Usage(s)</color> left, this instance of DMG +1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Silhouette instantanée",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color> au personnage affecté. Si le <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> est égal à 1 et ce personnage est affecté par l'[b]2101[a]<color style='color:#99FFFFFF'>élément Cryo</color>, ces DGT augmentent de 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "111102": {
         "_id": 111102,
-        "Name": "Newsflash Field",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>, heal your active character for 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Champ de flash info",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color> et soigne votre personnage actif pour 1 pt.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112011": {
         "_id": 112011,
-        "Name": "Melody Loop",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heal all your characters for 1 HP and your active character gains <color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Cercle de mélodie",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Soigne tous vos personnages pour 1 pt et <color style='color:#80C0FFFF'>Application [b]2102[a]Hydro</color> à votre personnage actif.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112021": {
         "_id": 112021,
-        "Name": "Rain Sword",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active character receives at least 3 DMG: </color>Decrease DMG taken by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Épée de pluie",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage actif subit au moins 3 pts de DGT : </color>Diminue les DGT de 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112022": {
         "_id": 112022,
-        "Name": "Rainbow Bladework",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Normal Attack:</color> Deal 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Lame arc-en-ciel",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage a utilisé une attaque normale : </color>Inflige 1 pt de [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "112031": {
         "_id": 112031,
-        "Name": "Reflection",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active character receives DMG: </color>Decrease DMG taken by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>. When the Usage is depleted, this card will not be discarded.<br><color style='color:#FFFFFFFF'>End Phase:</color> Discard this card, deal 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.",
+        "Name": "Mirage",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage actif subit des DGT : </color>Diminue les DGT de 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>, mais la carte n'est pas défaussée une fois épuisée.<br><color style='color:#FFFFFFFF'>Phase finale : </color>Défausse cette carte et inflige 1 pt de [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color>.",
         "Tag": [],
         "Cost": {}
     },
     "112032": {
         "_id": 112032,
-        "Name": "Illusory Bubble",
-        "Desc": "<color style='color:#FFFFFFFF'>When dealing Skill DMG:</color> Remove this status and double the DMG dealt for this instance.",
+        "Name": "Bulle nocturne",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous infligez des DGT en utilisant une capacité: </color>Annule l'état et double les DGT actuels.",
         "Tag": [],
         "Cost": {}
     },
     "112041": {
         "_id": 112041,
-        "Name": "Ranged Stance",
-        "Desc": "<color style='color:#FFFFFFFF'>After the character to which this is attached uses <color style='color:#FFFFFFFF'>Charged Attack</color>:</color> Apply <color style='color:#FFFFFFFF'>Riptide</color> to target character.",
+        "Name": "État à distance",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté a utilisé une <color style='color:#FFFFFFFF'>Attaque chargée</color> : </color>Inflige l'effet <color style='color:#FFFFFFFF'>Contre-courant</color> au personnage choisi.",
         "Tag": [],
         "Cost": {}
     },
     "112042": {
         "_id": 112042,
-        "Name": "Melee Stance",
-        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt by character is converted to [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses <color style='color:#FFFFFFFF'>Charged Attack</color>:</color> Apply <color style='color:#FFFFFFFF'>Riptide</color> to target character.<br>Character deals +1 DMG to target characters with <color style='color:#FFFFFFFF'>Riptide</color> attached.<br><color style='color:#FFFFFFFF'>After Skills are used against characters affected by <color style='color:#FFFFFFFF'>Riptide</color>:</color> Deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to the next opposing off-field character. (Twice per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "État de mêlée",
+        "Desc": "Convertit les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés par le personnage en [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color>.<br><color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé une <color style='color:#FFFFFFFF'>Attaque chargée</color> : </color>Inflige l'effet <color style='color:#FFFFFFFF'>Contre-courant</color> au personnage choisi.<br>DGT infligés par le personnage aux personnages sous l'effet <color style='color:#FFFFFFFF'>Contre-courant</color> +1.<br><color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé une capacité contre un personnage sous l'effet <color style='color:#FFFFFFFF'>Contre-courant</color> : </color>Inflige 1 pt de <color style='color:#FFFFFFFF'>DGT de perforation</color> au prochain personnage adverse en attente. (2 fois maximum par manche)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112043": {
         "_id": 112043,
-        "Name": "Riptide",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached is defeated:</color> Apply Riptide to active character.<br>(When <color style='color:#FFFFFFFF'>Tartaglia</color> is in <color style='color:#FFFFFFFF'>Melee Stance</color>, he will deal additional DMG when attacking the character to which this is attached.)",
+        "Name": "Contre-courant",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté est vaincu : </color>Inflige l'effet Contre-courant au personnage actif du camp concerné.<br>Lorsque <color style='color:#FFFFFFFF'>Tartaglia</color>, en <color style='color:#FFFFFFFF'>État de mêlée</color>, attaque le personnage affecté : Inflige des DGT supplémentaires.",
         "Tag": [],
         "Cost": {}
     },
     "112051": {
         "_id": 112051,
-        "Name": "Bake-Kurage",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>, heal your active character for 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Méduse fantôme",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color> et soigne votre personnage actif pour 1 pt.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112052": {
         "_id": 112052,
-        "Name": "Ceremonial Garment",
-        "Desc": "The character to which this is attached has their <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 DMG.<br><color style='color:#FFFFFFFF'>After the character to which this is attached uses a Normal Attack:</color> Heal 1 HP for all your characters.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Parure cérémoniale",
+        "Desc": "DGT infligés par l'<color style='color:#FFFFFFFF'>attaque normale</color> du personnage affecté +1.<br><color style='color:#FFFFFFFF'>Lorsque le personnage affecté a utilisé une attaque normale : </color>Soigne tous vos personnages pour 1 pt.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112061": {
         "_id": 112061,
-        "Name": "Takimeguri Kanka",
-        "Desc": "The character to which this is attached has their <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 DMG, and their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Réflexion torrentielle",
+        "Desc": "Les DGT infligés par les <color style='color:#FFFFFFFF'>attaques normales</color> du personnage affecté augmentent de 1 et ses [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés sont convertis en [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "112062": {
         "_id": 112062,
-        "Name": "Garden of Purity",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>When this Summon is on the field:</color> Your characters' Normal Attacks deal +1 DMG.",
+        "Name": "Jardin de pureté",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 2 pts de [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color><br><color style='color:#FFFFFFFF'>Lorsque cette invocation est sur le terrain : </color>DGT infligés par les attaques normales de votre personnage +1.",
         "Tag": [],
         "Cost": {}
     },
     "112071": {
         "_id": 112071,
-        "Name": "Heron Shield",
-        "Desc": "The next time this character acts, they will immediately use the Skill <color style='color:#FFFFFFFF'>Heron Strike</color>.<br>While preparing this Skill: Grant 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points to the character to which this is attached.",
+        "Name": "Bouclier de la héronne",
+        "Desc": "Lors de son prochain tour, le personnage utilise directement la capacité : <color style='color:#FFFFFFFF'>Frappe de la héronne</color>.<br>Pendant la préparation de la capacité : Accorde 2 pts de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> au personnage affecté.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7458,162 +7459,162 @@ var _ref = {
     },
     "112072": {
         "_id": 112072,
-        "Name": "Prayer of the Crimson Crown",
-        "Desc": "Your characters' <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 DMG.<br>Your Sword, Claymore, and Polearm-wielding characters' [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> is converted to [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br><color style='color:#FFFFFFFF'>After you switch characters</color>, you deal 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>.",
+        "Name": "Prière de couronne cramoisie",
+        "Desc": "DGT infligés par les <color style='color:#FFFFFFFF'>attaques normales</color> de vos personnages +1.<br>Les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés par vos personnages armés d'une épée à une main, à deux mains ou d'une arme d'hast sont convertis en [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color>.<br><color style='color:#FFFFFFFF'>Après que vous basculez de personnage : </color>Inflige 1 pt de [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color>. (1 fois par manche)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112081": {
         "_id": 112081,
-        "Name": "Golden Chalice's Bounty",
-        "Desc": "<color style='color:#FFFFFFFF'>After opponent's characters are affected by the Bloom reaction:</color> Your team no longer generates <color style='color:#FFFFFFFF'>Dendro Core</color>, but instead summons <color style='color:#FFFFFFFF'>Bountiful Core</color>.",
+        "Name": "Prime du calice d'or",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un personnage adverse subit une réaction de Fleurissement : </color>Vous ne créez plus de <color style='color:#FFFFFFFF'>Noyau Dendro</color>, mais invoquez des <color style='color:#FFFFFFFF'>Noyau d'abondance</color> à la place.",
         "Tag": [],
         "Cost": {}
     },
     "112082": {
         "_id": 112082,
-        "Name": "Bountiful Core",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color><br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack, max 3 stacks)<br><color style='color:#FFFFFFFF'>When you declare the end of your Round:</color> If this summon has at least 2 <color style='color:#FFFFFFFF'>Usage(s)</color> remaining, deal 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>. (Consumes <color style='color:#FFFFFFFF'>Usage(s)</color>)",
+        "Name": "Noyau d'abondance",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 2 pts de [b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color> (Peut être cumulé, 3 cumuls maximum)<br><color style='color:#FFFFFFFF'>Lorsque vous annoncez la fin de votre manche : </color>Si le <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> de cette carte est supérieur ou égal à 2, inflige 2 pts de [b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color>. (Diminue le <color style='color:#FFFFFFFF'>Nombre d'utilisations</color>)",
         "Tag": [],
         "Cost": {}
     },
     "112083": {
         "_id": 112083,
-        "Name": "Lingering Aeon",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 3 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> to affected character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Éon persistant",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 3 pts de [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color> au personnage affecté.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "112091": {
         "_id": 112091,
-        "Name": "Breakthrough",
-        "Desc": "This state starts with 1 <color style='color:#FFFFFFFF'>Breakthrough</color> stack. When re-attached, add 1 <color style='color:#FFFFFFFF'>Breakthrough</color> stack. <color style='color:#FFFFFFFF'>Breakthrough</color> can have a maximum of 3 stacks.<br><color style='color:#FFFFFFFF'>End Phase:</color> Gain 1 <color style='color:#FFFFFFFF'>Breakthrough</color> stack.<br><color style='color:#FFFFFFFF'>When the character to which this is attached uses a Normal Attack:</color> If <color style='color:#FFFFFFFF'>Breakthrough</color> has at least 2 stacks, consume 2 <color style='color:#FFFFFFFF'>Breakthrough</color> stacks to convert [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt into [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> and draw 1 card.",
+        "Name": "Percée",
+        "Desc": "Cet état commence avec 1 cumul de <color style='color:#FFFFFFFF'>percée</color>, et chaque nouvelle application rajoute 1 cumul<color style='color:#FFFFFFFF'></color>. La <color style='color:#FFFFFFFF'>percée</color> peut être cumulée 3 fois maximum.<br><color style='color:#FFFFFFFF'>Phase finale :</color> Rajoute 1 cumul de <color style='color:#FFFFFFFF'>percée</color>.<br><color style='color:#FFFFFFFF'>Lorsque le personnage affecté utilise une attaque normale :</color> Avec au moins 2 cumuls de <color style='color:#FFFFFFFF'>percée</color>, consomme 2 cumuls de <color style='color:#FFFFFFFF'>percée</color> pour convertir les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés en [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color> et pioche 1 carte.",
         "Tag": [],
         "Cost": {}
     },
     "112092": {
         "_id": 112092,
-        "Name": "Exquisite Throw",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Normal Attack:</color> Deal 2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Dé exquis",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage a utilisé une attaque normale : </color>Inflige 2 pts de [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "112101": {
         "_id": 112101,
-        "Name": "Sourcewater Droplet",
-        "Desc": "<color style='color:#FFFFFFFF'>After Neuvillette uses a Normal Attack:</color> Heals the character for 2 HP. After this, <color style='color:#FFFFFFFF'>Prepare Skill</color>: <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Equitable Judgment</color></color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 3 stacks.)",
+        "Name": "Goutte d'eau de source",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque Neuvillette a effectué une attaque normale : </color>Soigne le personnage pour 2 pts, puis il <color style='color:#FFFFFFFF'>Préparation de capacité</color> <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Jugement équitable</color></color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color> (Peut être cumulé, 3 cumuls maximum)",
         "Tag": [],
         "Cost": {}
     },
     "113011": {
         "_id": 113011,
-        "Name": "Pyro Infusion",
-        "Desc": "The character to which this is attached has their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Enchantement Pyro",
+        "Desc": "Les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés par le personnage affecté sont convertis en [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113021": {
         "_id": 113021,
-        "Name": "Guoba",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Gooba",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 2 pts de [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113022": {
         "_id": 113022,
-        "Name": "Pyronado",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Skill:</color> Deal 2 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Pyrotation",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage a utilisé une capacité : </color>Inflige 2 pts de [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113031": {
         "_id": 113031,
-        "Name": "Inspiration Field",
-        "Desc": "<color style='color:#FFFFFFFF'>When your character uses a Skill:</color> If this character has at least 7 HP, deal +2 additional DMG for this instance. After the Skill DMG is finalized, if this character's HP is not greater than 6, heal this character for 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Champ vertueux",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage utilise une capacité : </color>Si ce personnage a au moins 7 PV, DGT supplémentaires actuels +2. Après le calcul de la capacité, si ce personnage a 6 PV ou moins, soigne le personnage pour 2 pts.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113041": {
         "_id": 113041,
-        "Name": "Baron Bunny",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active character takes DMG: </color>Decrease DMG taken by 2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>. When the Usages are depleted, this card will not be discarded.<br><color style='color:#FFFFFFFF'>At the End Phase, if <color style='color:#FFFFFFFF'>Usage(s)</color> have been depleted:</color> Discard this card to deal 2 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.",
+        "Name": "Baron Lapinou",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage actif subit des DGT : </color>Diminue les DGT de 2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>, mais la carte n'est pas défaussée une fois épuisée.<br><color style='color:#FFFFFFFF'>Si le <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> est épuisé lors de la phase finale : </color>Défausse cette carte et inflige 2 pts de [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>.",
         "Tag": [],
         "Cost": {}
     },
     "113051": {
         "_id": 113051,
         "Name": "Niwabi Enshou",
-        "Desc": "The character to which this is attached has their <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 DMG, and their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Desc": "Les DGT des <color style='color:#FFFFFFFF'>attaques normales</color> du personnage affecté augmentent de 1 et ses [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés sont convertis en [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113052": {
         "_id": 113052,
-        "Name": "Aurous Blaze",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character other than Yoimiya uses a Skill:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Flamme Ryuukin",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un de vos personnages autre que Yoimiya a utilisé une capacité : </color>Inflige 1 pt de [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113061": {
         "_id": 113061,
-        "Name": "Explosive Spark",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached uses a <color style='color:#FFFFFFFF'>Charged Attack</color>: </color>Spend 1 less <color style='color:#FF9999FF'>[b]1103[a]Pyro</color> and deal +1 DMG.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Étincelle explosive",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté utilise une <color style='color:#FFFFFFFF'>Attaque chargée</color> :</color> Dépense 1 dé <color style='color:#FF9999FF'>[b]1103[a]Pyro</color> en moins et DGT +1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "113063": {
         "_id": 113063,
-        "Name": "Sparks 'n' Splash",
-        "Desc": "<color style='color:#FFFFFFFF'>After a character to which Sparks 'n' Splash is attached uses a Skill:</color> Deals 2 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> to their team's active character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Fleur bombardier",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un personnage du camp concerné a utilisé une capacité : </color>Inflige 2 pts de [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color> au personnage actif de ce camp.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113071": {
         "_id": 113071,
         "Name": "Paramita Papilio",
-        "Desc": "The character to which this is attached has their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>, and they will deal +1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'>When the character to which this is attached uses a <color style='color:#FFFFFFFF'>Charged Attack</color>:</color> Apply <color style='color:#FFFFFFFF'>Blood Blossom</color> to target character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Desc": "Les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés par le personnage affecté sont convertis en [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color> et ses [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color> infligés augmentent de 1.<br><color style='color:#FFFFFFFF'>Lorsque le personnage affecté utilise une <color style='color:#FFFFFFFF'>Attaque chargée</color> : </color>Inflige un <color style='color:#FFFFFFFF'>Bourgeon de prune</color> au personnage choisi.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113081": {
         "_id": 113081,
-        "Name": "Scarlet Seal",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character uses a <color style='color:#FFFFFFFF'>Charged Attack</color>: </color>Damage dealt +2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>. (Can stack up to 2 times)",
+        "Name": "Sceau écarlate",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage utilise une <color style='color:#FFFFFFFF'>Attaque chargée</color>: </color>DGT infligés +2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color> (Peut être cumulé, 2 cumuls maximum)",
         "Tag": [],
         "Cost": {}
     },
     "113082": {
         "_id": 113082,
-        "Name": "Brilliance",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character uses a <color style='color:#FFFFFFFF'>Charged Attack</color>: </color>Spend 1 less <color style='color:#FF9999FF'>[b]1103[a]Pyro</color>. (Once every round.)<br><color style='color:#FFFFFFFF'>End Phase: </color>Attach <color style='color:#FFFFFFFF'>Scarlet Seal</color> to this character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>.",
+        "Name": "Brillance",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage utilise une <color style='color:#FFFFFFFF'>Attaque chargée</color>: </color>Dépense 1 dé <color style='color:#FF9999FF'>[b]1103[a]Pyro</color> en moins. (1 fois par manche)<br><color style='color:#FFFFFFFF'>Phase finale : </color>Accorde un <color style='color:#FFFFFFFF'>Sceau écarlate</color> au personnage.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "113093": {
         "_id": 113093,
-        "Name": "Fiery Sanctum Field",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>When this Summon is on the field and Dehya is on standby on your side, then when your active character takes damage: </color>Decrease DMG taken by 1, and if Dehya has at least 7 HP, deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to her (once per round).",
+        "Name": "Zone de sanctuaire ardent",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color><br><color style='color:#FFFFFFFF'>Si cette invocation est sur le terrain et si Dehya est dans vos personnages en attente lorsque votre personnage actif subit des DGT : </color>Diminue les DGT de 1 puis, si Dehya a 7 PV ou plus, lui inflige 1 pt de <color style='color:#FFFFFFFF'>DGT de perforation</color>. (1 fois par manche)",
         "Tag": [],
         "Cost": {}
     },
     "113101": {
         "_id": 113101,
-        "Name": "Grin-Malkin Hat",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 2 stacks.)",
+        "Name": "Chapeau félinois",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color> (Peut être cumulé, 2 cumuls maximum)",
         "Tag": [],
         "Cost": {}
     },
     "113102": {
         "_id": 113102,
-        "Name": "Prop Surplus",
-        "Desc": "<color style='color:#FFFFFFFF'>Prop Surplus</color> can stack up to 3 times.<br><color style='color:#FFFFFFFF'>When this character uses <color style='color:#FFFFFFFF'>Bewildering Lights</color>:</color> +1 DMG for each <color style='color:#FFFFFFFF'>Prop Surplus</color> stack. After the skill is finalized, consume all <color style='color:#FFFFFFFF'>Prop Surplus</color>, healing 1 HP for this character per stack.",
+        "Name": "Fantasmagorie",
+        "Desc": "La <color style='color:#FFFFFFFF'>Fantasmagorie</color> peut être cumulée 3 fois maximum.<br><color style='color:#FFFFFFFF'>Lorsque le personnage utilise <color style='color:#FFFFFFFF'>Lumières de fioriture</color> : </color>Chaque cumul de <color style='color:#FFFFFFFF'>Fantasmagorie</color> augmente les DGT de 1 ; après le calcul de la capacité, la <color style='color:#FFFFFFFF'>Fantasmagorie</color> est consommée et chaque cumul soigne le personnage pour 1 pt.",
         "Tag": [],
         "Cost": {}
     },
     "113111": {
         "_id": 113111,
-        "Name": "Blazing Barrier",
-        "Desc": "Grants <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point</color> to your active character. (Can stack. Max 3 points.)",
+        "Name": "Barrière brûlante",
+        "Desc": "Accorde <color style='color:#FFFFFFFF'>1 pt de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color></color> à votre personnage actif. (Peut être cumulé, 3 pts maximum)",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7621,29 +7622,29 @@ var _ref = {
     },
     "113112": {
         "_id": 113112,
-        "Name": "Scorching Ooyoroi",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Normal Attack:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> and create a <color style='color:#FFFFFFFF'>Blazing Barrier</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "O-yoroi embrasé",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage a utilisé une attaque normale: </color>Inflige 1 pt de [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color> et crée une <color style='color:#FFFFFFFF'>Barrière brûlante</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "114011": {
         "_id": 114011,
         "Name": "Oz",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "114021": {
         "_id": 114021,
-        "Name": "The Wolf Within",
-        "Desc": "<color style='color:#FFFFFFFF'>After the character to which this is attached uses a Normal Attack or an Elemental Skill:</color> Deal 2 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Loup de tonnerre",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté a utilisé une attaque normale ou une compétence élémentaire : </color>Inflige 2 pts de [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "114031": {
         "_id": 114031,
-        "Name": "Lightning Stiletto",
-        "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: Switch your Keqing in to be the active character and immediately use Stellar Restoration once. This instance of Stellar Restoration will grant Keqing <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Electro Infusion</color></color> without creating another Lightning Stiletto.<br>(When Keqing uses Stellar Restoration with this card in Hand: Instead of creating another Lightning Stiletto, discard this card and Keqing gains <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Electro Infusion</color></color>)",
+        "Name": "Lame de foudre",
+        "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Déploie Keqing sur le terrain pour utiliser Retour des étoiles immédiatement. Cette fois, Retour des étoiles accorde à Keqing un <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Enchantement Électro</color></color>, mais ne crée pas de lame de foudre.<br>(Lorsque Keqing utilise Retour des étoiles, si cette carte est dans votre main : Au lieu de créer une autre lame de foudre, défausse la carte pour accorder à Keqing un <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Enchantement Électro</color></color>)",
         "Tag": [
             "GCG_TAG_TALENT",
             "GCG_TAG_SLOWLY"
@@ -7655,22 +7656,22 @@ var _ref = {
     },
     "114032": {
         "_id": 114032,
-        "Name": "Electro Elemental Infusion",
-        "Desc": "The character to which this is attached has their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Enchantement Électro",
+        "Desc": "Les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés par le personnage affecté sont convertis en [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "114041": {
         "_id": 114041,
-        "Name": "Pactsworn Pathclearer",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Gain 1 level of Indwelling.<br><color style='color:#FFFFFFFF'>Create the following effects based on the Indwelling Level</color>:<br>If equal to or greater than 2: [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt is converted to [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>;<br>If equal to or greater than 4: DMG dealt +2;<br>If equal to or greater than 6: Indwelling Level -4.",
+        "Name": "Éclaireur sermenté",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Cumule 1 niv. de Possession.<br><color style='color:#FFFFFFFF'>Accorde les effets suivants selon le niv. de Possession :</color><br>Supérieur ou égal à 2 : Les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> sont convertis en [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>.<br>Supérieur ou égal à 4 : DGT infligés +2.<br>Supérieur ou égal à 6 : Niv. de Possession -4.",
         "Tag": [],
         "Cost": {}
     },
     "114051": {
         "_id": 114051,
-        "Name": "Tidecaller: Surf Embrace",
-        "Desc": "The next time this character acts, they will immediately use the Skill <color style='color:#FFFFFFFF'>Wavestrider</color>.<br>While preparing this Skill: Grant 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points to the character to which this is attached.",
+        "Name": "Embrasse marine des marées",
+        "Desc": "Lors de son prochain tour, le personnage utilise directement la capacité : <color style='color:#FFFFFFFF'>Conquête des marées</color>.<br>Pendant la préparation de la capacité : Accorde 2 pts de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> au personnage affecté.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7678,176 +7679,176 @@ var _ref = {
     },
     "114053": {
         "_id": 114053,
-        "Name": "Thunderbeast's Targe",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Normal Attack:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'>When your character receives at least 3 DMG: </color>Decrease DMG taken by 1.<br><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2",
+        "Name": "Bouclier de foudre",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage a utilisé une attaque normale : </color>Inflige 1 pt de [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>.<br><color style='color:#FFFFFFFF'>Lorsque votre personnage subit au moins 3 pts de DGT : </color>Protège pour 1 pt de DGT.<br><color style='color:#FFFFFFFF'>Durée en manches</color> : 2",
         "Tag": [],
         "Cost": {}
     },
     "114061": {
         "_id": 114061,
-        "Name": "Tengu Juurai: Ambush",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>, applies <color style='color:#FFFFFFFF'>Crowfeather Cover</color> to friendly active character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Tengu Juurai: Embuscade",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color> et accorde <color style='color:#FFFFFFFF'>Couverture corvidée</color> à votre personnage actif.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "114062": {
         "_id": 114062,
-        "Name": "Tengu Juurai: Stormcluster",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>, applies <color style='color:#FFFFFFFF'>Crowfeather Cover</color> to friendly active character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Tengu Juurai: Tempête de pierres",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 2 pts de [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color> et accorde <color style='color:#FFFFFFFF'>Couverture corvidée</color> à votre personnage actif.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "114063": {
         "_id": 114063,
-        "Name": "Crowfeather Cover",
-        "Desc": "The character with this attached deals +1 <color style='color:#FFFFFFFF'>Elemental Skill</color> and <color style='color:#FFFFFFFF'>Elemental Burst</color> DMG.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Couverture corvidée",
+        "Desc": "DGT infligés par les <color style='color:#FFFFFFFF'>compétences élémentaires</color> et les <color style='color:#FFFFFFFF'>déchaînements élémentaires</color> du personnage affecté +1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "114071": {
         "_id": 114071,
-        "Name": "Eye of Stormy Judgment",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>When this Summon is on the field:</color> Your characters' Elemental Bursts deal +1 DMG.",
+        "Name": "Œil de jugement orageux",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color><br><color style='color:#FFFFFFFF'>Lorsque cette invocation est sur le terrain : </color>DGT infligés par le déchaînement élémentaire de votre personnage +1.",
         "Tag": [],
         "Cost": {}
     },
     "114072": {
         "_id": 114072,
         "Name": "Chakra Desiderata",
-        "Desc": "<color style='color:#FFFFFFFF'>After your other characters use Elemental Bursts:</color> Gain 1 Resolve. (Max 3)<br><color style='color:#FFFFFFFF'>When the character to which this is attached uses Secret Art: Musou Shinsetsu:</color> Consume all Resolve and deal +1 DMG per Resolve.",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un autre de vos personnages a utilisé un déchaînement élémentaire : </color>Accorde 1 pt de résolution. (Peut être cumulé 3 fois maximum)<br><color style='color:#FFFFFFFF'>Lorsque le personnage affecté utilise Art secret : Dogme d'idéal : </color>Consomme toute la résolution et augmente les DGT infligés de 1 pour chaque point de résolution.",
         "Tag": [],
         "Cost": {}
     },
     "114081": {
         "_id": 114081,
-        "Name": "Sesshou Sakura",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color><br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color> (Can stack, max 6 stacks)<br><color style='color:#FFFFFFFF'>When you declare the end of your Round:</color> If this summon has at least 4 <color style='color:#FFFFFFFF'>Usage(s)</color> remaining, deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>. (Consumes <color style='color:#FFFFFFFF'>Usage(s)</color>)",
+        "Name": "Sakura dévastateur",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color> (Peut être cumulé, 6 cumuls maximum)<br><color style='color:#FFFFFFFF'>Lorsque vous annoncez la fin de votre manche : </color>Si le <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> de cette carte est supérieur ou égal à 4, inflige 1 pt de [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>. (Diminue le <color style='color:#FFFFFFFF'>Nombre d'utilisations</color>)",
         "Tag": [],
         "Cost": {}
     },
     "114083": {
         "_id": 114083,
-        "Name": "Tenko Thunderbolts",
-        "Desc": "<color style='color:#FFFFFFFF'>Before you choose your action:</color> Deal 3 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Éclair de tenko",
+        "Desc": "<color style='color:#FFFFFFFF'>Avant que vous ne choisissiez une action : </color>Inflige 3 pts de [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "114091": {
         "_id": 114091,
-        "Name": "Conductive",
-        "Desc": "This status starts with 2 stacks of Conductive. When attached repeatedly, Conductive stack +1. Conductive can be stacked to a maximum of 4 stacks.<br><color style='color:#FFFFFFFF'>End Phase: </color>Accumulate 1 stack of Conductive.<br><color style='color:#FFFFFFFF'>When the character attached with Conductive takes DMG from Violet Arc: </color>Remove this status and DMG +1 for each stack of Conductive.",
+        "Name": "Conductivité",
+        "Desc": "Cet état commence avec 2 cumuls de conductivité, et chaque nouvelle application rajoute 1 cumul. La conductivité peut être cumulée 4 fois maximum.<br><color style='color:#FFFFFFFF'>Phase finale : </color>Rajoute 1 cumul de conductivité.<br><color style='color:#FFFFFFFF'>Lorsque le personnage affecté subit des DGT d'Arc fulminant : </color>Annule l'état et augmente les DGT de 1 pour chaque cumul de conductivité.",
         "Tag": [],
         "Cost": {}
     },
     "114092": {
         "_id": 114092,
-        "Name": "Lightning Rose",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase: </color>Deal 2 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Rose de foudre",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 2 pts de [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "114101": {
         "_id": 114101,
-        "Name": "After-Sales Service Rounds",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Obus de S.A.V.",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "114102": {
         "_id": 114102,
-        "Name": "Jinni",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heal your active character for 2 HP and that character gains 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Djinn",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Soigne votre personnage actif pour 2 pts et lui accorde 1 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "115011": {
         "_id": 115011,
-        "Name": "Large Wind Spirit",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>After your character or Summon triggers a Swirl reaction:</color> Convert the Elemental Type of this card and change its DMG dealt to the element Swirled. (Can only be converted once before leaving the field)",
+        "Name": "Esprit du vent de grande taille",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 2 pts de [b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color><br><color style='color:#FFFFFFFF'>Lorsqu'un de vos personnages ou invocations ont déclenché une réaction de Dispersion : </color>Convertit le type élémentaire de cette carte et modifie les DGT infligés en l'élément dispersé. (Ne peut être utilisé qu'une seule fois avant de quitter le terrain)",
         "Tag": [],
         "Cost": {}
     },
     "115021": {
         "_id": 115021,
-        "Name": "Dandelion Field",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>, heal your active character for 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Champ de pissenlits",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color> et soigne votre personnage actif pour 1 pt.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "115031": {
         "_id": 115031,
-        "Name": "Stormzone",
-        "Desc": "<color style='color:#FFFFFFFF'>When you perform \"Switch Character\":</color> Spend 1 less Elemental Die.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Bourrasque",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous basculez de personnage : </color>Dépense 1 dé élémentaire en moins.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "115034": {
         "_id": 115034,
-        "Name": "Stormeye",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>. Your opponent switches to: <color style='color:#FFFFFFFF'>Character Closest to Your Current Active Character</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>After your character or Summon triggers a Swirl reaction:</color> Convert the Elemental Type of this card and change its DMG dealt to the element Swirled. (Can only be converted once before leaving the field)",
+        "Name": "Œil de la tempête",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 2 pts de [b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color> et bascule l'adversaire pour le <color style='color:#FFFFFFFF'>Personnage le plus proche de votre personnage actif</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color><br><color style='color:#FFFFFFFF'>Lorsqu'un de vos personnages ou invocations ont déclenché une réaction de Dispersion : </color>Convertit le type élémentaire de cette carte et modifie les DGT infligés en l'élément dispersé. (Ne peut être utilisé qu'une seule fois avant de quitter le terrain)",
         "Tag": [],
         "Cost": {}
     },
     "115041": {
         "_id": 115041,
-        "Name": "Yaksha's Mask",
-        "Desc": "The character to which this is attached has their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>, and they will deal +1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>.<br><color style='color:#FFFFFFFF'>When the character to which this is attached uses a <color style='color:#FFFFFFFF'>Plunging Attack</color>:</color> +2 additional DMG.<br><color style='color:#FFFFFFFF'>If the character this card is attached to is the active character, when you perform \"Switch Character\":</color> Spend 1 less Elemental Die. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Masque du Yaksha",
+        "Desc": "Les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés par le personnage affecté sont convertis en [b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color> et ses [b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color> infligés augmentent de 1.<br><color style='color:#FFFFFFFF'>Lorsque le personnage affecté utilise une <color style='color:#FFFFFFFF'>Attaque plongeante</color> : </color>DGT supplémentaires +2.<br><color style='color:#FFFFFFFF'>Si le personnage affecté est actif et que vous basculez de personnage : </color>Dépense 1 dé élémentaire en moins. (1 fois par manche)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "115051": {
         "_id": 115051,
-        "Name": "Midare Ranzan",
-        "Desc": "<color style='color:#FFFFFFFF'>When the attached character uses a <color style='color:#FFFFFFFF'>Plunging Attack</color>: </color>[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt becomes [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>, and deals +1 DMG.<br><color style='color:#FFFFFFFF'>After the character uses a skill:</color> This effect is removed.",
+        "Name": "Contrôle du chaos",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté utilise une <color style='color:#FFFFFFFF'>Attaque plongeante</color> : </color>Les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés sont convertis en [b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color> et les DGT augmentent de 1.<br><color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé une capacité : </color>L'effet est annulé.",
         "Tag": [],
         "Cost": {}
     },
     "115052": {
         "_id": 115052,
-        "Name": "Autumn Whirlwind",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>After your Characters or Summons trigger a Swirl reaction:</color> Convert the Elemental Type of this card and change its DMG dealt to the element Swirled. (Can only be converted once before leaving the field)",
+        "Name": "Vent d'automne",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color><br><color style='color:#FFFFFFFF'>Lorsqu'un de vos personnages ou invocations ont déclenché une réaction de Dispersion : </color>Convertit le type élémentaire de cette carte et modifie les DGT infligés en l'élément dispersé. (Ne peut être utilisé qu'une seule fois avant de quitter le terrain)",
         "Tag": [],
         "Cost": {}
     },
     "115061": {
         "_id": 115061,
-        "Name": "Windfavored",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached performs a Normal Attack:</color> DMG dealt +2. If the opponent has characters on standby, then this Skill will deal damage to the next opposing character on standby instead.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Bienfait venteux",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté utilise une attaque normale : </color>DGT infligés +2. Si l'adversaire a des personnages en attente, cette capacité inflige des DGT au prochain personnage adverse en attente à la place.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "115072": {
         "_id": 115072,
-        "Name": "Muji-Muji Daruma",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>, heal the character on your team that has taken the most damage for 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Daruma Muji-muji",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color> et soigne votre personnage ayant subi le plus de DGT pour 2 pts.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "115081": {
         "_id": 115081,
-        "Name": "Overawing Assault",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> If this character's HP is at least 6, then they will take 2 <color style='color:#FFFFFFFF'>Piercing DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 1</color>",
+        "Name": "Assaut grandiose",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Si le personnage a 6 PV ou plus, il subit 2 pts de <color style='color:#FFFFFFFF'>DGT de perforation</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "115082": {
         "_id": 115082,
-        "Name": "Bogglecat Box",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>When your active character takes DMG:</color> Decreases DMG taken by 1. (Once per Round)<br><color style='color:#FFFFFFFF'>When your character(s) take [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color>/[b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>/[b]2103[a]<color style='color:#FF9999FF'>Pyro</color>/[b]2104[a]<color style='color:#FFACFFFF'>Electro</color> DMG:</color> Change the Elemental Type of this card to the element of the damage taken. (Once before leaving play)",
+        "Name": "Boîte minestyque",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color><br><color style='color:#FFFFFFFF'>Lorsque votre personnage actif subit des DGT : </color>Diminue les DGT de 1. (1 fois par manche)<br><color style='color:#FFFFFFFF'>Lorsqu'un de vos personnages subit des DGT [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color>, [b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>, [b]2103[a]<color style='color:#FF9999FF'>Pyro</color> ou [b]2104[a]<color style='color:#FFACFFFF'>Électro</color> : </color>Convertit le type élémentaire de cette carte en l'élément des DGT subis. (Ne peut être utilisé qu'une seule fois avant de quitter le terrain)",
         "Tag": [],
         "Cost": {}
     },
     "116011": {
         "_id": 116011,
-        "Name": "Jade Screen",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active character receives at least 2 DMG: </color>Decrease DMG taken by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Paravent d'astrolabe",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage actif subit au moins 2 pts de DGT : </color>Diminue les DGT de 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "116021": {
         "_id": 116021,
-        "Name": "Full Plate",
-        "Desc": "Grant <color style='color:#FFFFFFFF'>2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points</color> to your active character.<br>Before this [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> is fully consumed, the [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> you take is halved. (The figure will be rounded up)",
+        "Name": "Armure complète",
+        "Desc": "Accorde <color style='color:#FFFFFFFF'>2 pts de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color></color> à votre personnage actif.<br>Avant que ce [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> ne soit épuisé, les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> que vous subissez diminuent de moitié. (Arrondi à l'entier supérieur)",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7855,22 +7856,22 @@ var _ref = {
     },
     "116022": {
         "_id": 116022,
-        "Name": "Sweeping Time",
-        "Desc": "When your character uses a Normal Attack: Consume 1 less [b]1106[a]<color style='color:#FFE699FF'>Geo Die</color>. (Once per Round)<br>Character's <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +2 DMG, and their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt is converted to [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Grand ménage",
+        "Desc": "Lorsque le personnage utilise une attaque normale : Dépense 1 dé [b]1106[a]<color style='color:#FFE699FF'>Géo</color> en moins. (1 fois par manche)<br>DGT infligés par l'<color style='color:#FFFFFFFF'>attaque normale</color> du personnage +2 et les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés sont convertis en [b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "116031": {
         "_id": 116031,
-        "Name": "Stone Stele",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Dorsale rocheuse",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "116032": {
         "_id": 116032,
-        "Name": "Jade Shield",
-        "Desc": "Grants <color style='color:#FFFFFFFF'>2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points</color> to your active character.",
+        "Name": "Bouclier de jade",
+        "Desc": "Accorde <color style='color:#FFFFFFFF'>2 pts de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color></color> à votre personnage actif.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7878,8 +7879,8 @@ var _ref = {
     },
     "116033": {
         "_id": 116033,
-        "Name": "Petrification",
-        "Desc": "<color style='color:#FFFFFFFF'>Character cannot use Skills.</color> (Lasts until the end of this Round)",
+        "Name": "Pétrification",
+        "Desc": "<color style='color:#FFFFFFFF'>Empêche le personnage d'utiliser des capacités.</color> (Dure jusqu'à la fin de la manche)",
         "Tag": [
             "GCG_TAG_FORBIDDEN_ATTACK"
         ],
@@ -7887,106 +7888,106 @@ var _ref = {
     },
     "116041": {
         "_id": 116041,
-        "Name": "Solar Isotoma",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase: </color>Deal 1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>When this Summon is on the field: </color>Your character's <color style='color:#FFFFFFFF'>Plunging Attack</color> spends 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>. (Once per Round)",
+        "Name": "Aura solaire",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color><br><color style='color:#FFFFFFFF'>Lorsque cette invocation est sur le terrain : </color>L'<color style='color:#FFFFFFFF'>Attaque plongeante</color> de votre personnage dépense 1 dé d'<color style='color:#FFFFFFFF'>[b]1109[a]Élément neutre</color> en moins. (1 fois par manche)",
         "Tag": [],
         "Cost": {}
     },
     "116051": {
         "_id": 116051,
         "Name": "Ushi",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active character takes DMG: </color>Decrease DMG taken by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>. When the Usage is depleted, this card will not be discarded.<br><color style='color:#FFFFFFFF'>Can be triggered once while this Summon is present: </color>When your character takes DMG, Arataki Itto gains <color style='color:#FFFFFFFF'>Superlative Superstrength</color>.<br><color style='color:#FFFFFFFF'>End Phase:</color> Discard this card, deal 1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage actif subit des DGT : </color>Diminue les DGT de 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>, mais la carte n'est pas défaussée une fois épuisée.<br><color style='color:#FFFFFFFF'>Peut se déclencher une fois lorsque cette invocation est sur le terrain : </color>Lorsque votre personnage a subi des DGT, Arataki Itto obtient une <color style='color:#FFFFFFFF'>Mégaforce superlative</color>.<br><color style='color:#FFFFFFFF'>Phase finale : </color>Défausse cette carte et inflige 1 pt de [b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color>.",
         "Tag": [],
         "Cost": {}
     },
     "116053": {
         "_id": 116053,
-        "Name": "Raging Oni King",
-        "Desc": "The character to which this is attached has their <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 DMG, and their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color><br><color style='color:#FFFFFFFF'>After the character to which this is attached uses a Normal Attack:</color> Gains <color style='color:#FFFFFFFF'>Superlative Superstrength</color>. (Once per Round)",
+        "Name": "Roi oni courroucé",
+        "Desc": "Les DGT infligés par les <color style='color:#FFFFFFFF'>attaques normales</color> du personnage affecté augmentent de 1 et ses [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés sont convertis en [b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color><br><color style='color:#FFFFFFFF'>Lorsque le personnage affecté a utilisé une attaque normale : </color>Lui accorde une <color style='color:#FFFFFFFF'>Mégaforce superlative</color>. (1 fois par manche)",
         "Tag": [],
         "Cost": {}
     },
     "116054": {
         "_id": 116054,
-        "Name": "Superlative Superstrength",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached uses a <color style='color:#FFFFFFFF'>Charged Attack</color>: </color>Deal +1 DMG. If there are at least 2 <color style='color:#FFFFFFFF'>Usage(s)</color>, spend 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 3 stacks.)",
+        "Name": "Mégaforce superlative",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté utilise une <color style='color:#FFFFFFFF'>Attaque chargée</color> : </color>DGT infligés +1. Si le <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> est 2 ou plus : Dépense 1 dé d'<color style='color:#FFFFFFFF'>[b]1109[a]Élément neutre</color> en moins.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color> (Peut être cumulé, 3 cumuls maximum)",
         "Tag": [],
         "Cost": {}
     },
     "116061": {
         "_id": 116061,
-        "Name": "General's War Banner",
-        "Desc": "Your party's characters deal +1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color> (Can stack, can stack till 3 Rounds)",
+        "Name": "Bannière de général",
+        "Desc": "[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color> infligés par votre personnage +1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color> (Peut être cumulé jusqu'à 3 manches maximum)",
         "Tag": [],
         "Cost": {}
     },
     "116062": {
         "_id": 116062,
-        "Name": "General's Glory",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>. If your party has 2 [b]2106[a]<color style='color:#FFE699FF'>Geo</color> characters, create 1 <color style='color:#FFFFFFFF'>Crystallize</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Prestige de général",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color> et, si votre équipe a 2 personnages [b]2106[a]<color style='color:#FFE699FF'>Géo</color>, crée une <color style='color:#FFFFFFFF'>Cristallisation</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "117011": {
         "_id": 117011,
         "Name": "Cuilein-Anbar",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 2 pts de [b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "117021": {
         "_id": 117021,
-        "Name": "Vijnana Suffusion",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached uses a <color style='color:#FFFFFFFF'>Charged Attack</color>: </color>Their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt will be converted to [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color> and after the Skill DMG is finalized, summon 1 <color style='color:#FFFFFFFF'>Clusterbloom Arrow</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Suffusion de vijnana",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté utilise une <color style='color:#FFFFFFFF'>Attaque chargée</color> :</color> Les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés sont convertis en [b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color> et une <color style='color:#FFFFFFFF'>Flèche fleuronnée</color> est invoquée après le calcul de la capacité.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "117031": {
         "_id": 117031,
-        "Name": "Seed of Skandha",
-        "Desc": "<color style='color:#FFFFFFFF'>After any character who has a Seed of Skandha takes Elemental Reaction DMG:</color> Deals 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to the character(s) to which the Seed of Skandha is attached on the same side of the field.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Graine de Skandha",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un personnage avec une graine de Skandha a subi des DGT d'une réaction élémentaire : </color>Inflige 1 pt de <color style='color:#FFFFFFFF'>DGT de perforation</color> aux personnages affectés du camp concerné.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "117032": {
         "_id": 117032,
-        "Name": "Shrine of Maya",
-        "Desc": "<color style='color:#FFFFFFFF'>When your character triggers an Elemental Reaction: </color>+1 additional DMG.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Sanctuaire de Maya",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous déclenchez une réaction élémentaire : </color>DGT supplémentaires +1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "117041": {
         "_id": 117041,
-        "Name": "Yuegui: Throwing Mode",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>, heal the character on your team that has taken the most damage for 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Yuegui lanceur",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color> et soigne votre personnage ayant subi le plus de DGT pour 1 pt.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "117043": {
         "_id": 117043,
-        "Name": "Adeptal Legacy",
-        "Desc": "<color style='color:#FFFFFFFF'>After you switch characters:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>, heal your active character for 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Héritage adeptal",
+        "Desc": "<color style='color:#FFFFFFFF'>Après que vous basculez de personnage : </color>Inflige 1 pt de [b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color> et soigne votre personnage actif pour 1 pt.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "117051": {
         "_id": 117051,
-        "Name": "Gossamer Sprite",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>, heal your active character for 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Esprit de gaze",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color> et soigne votre personnage actif pour 1 pt.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "117052": {
         "_id": 117052,
-        "Name": "Pulsing Clarity",
-        "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Create <color style='color:#FFFFFFFF'>Seamless Shield</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Ordonnance impulsive",
+        "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action: </color>Crée un <color style='color:#FFFFFFFF'>Bouclier aseptique</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "117053": {
         "_id": 117053,
-        "Name": "Seamless Shield",
-        "Desc": "Provides <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color></color>, protecting your active character.<br><color style='color:#FFFFFFFF'>When this effect is removed, or generated again:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>, and heal your active character for 1 HP.",
+        "Name": "Bouclier aseptique",
+        "Desc": "Accorde <color style='color:#FFFFFFFF'>1 pt de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color></color> pour protéger votre personnage actif.<br><color style='color:#FFFFFFFF'>Lorsque l'effet est annulé ou déclenché à nouveau : </color>Inflige 1 pt de [b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color> et soigne votre personnage actif pour 1 pt.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -7994,22 +7995,22 @@ var _ref = {
     },
     "117061": {
         "_id": 117061,
-        "Name": "Chisel-Light Mirror",
-        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt by the character is converted to [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>.<br><color style='color:#FFFFFFFF'>After this character performs a Normal Attack:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>. If it is a <color style='color:#FFFFFFFF'>Charged Attack</color>, this state's <color style='color:#FFFFFFFF'>Duration (Rounds)</color> +1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color> (Can stack. Max 3 Rounds.)",
+        "Name": "Miroir de diffraction",
+        "Desc": "Les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés par le personnage sont convertis en [b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color>.<br><color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé une attaque normale : </color>Inflige 1 pt de [b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color>. Si cette capacité est une <color style='color:#FFFFFFFF'>Attaque chargée</color>, la <color style='color:#FFFFFFFF'>Durée en manches</color> de cet état augmente de 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color> (Peut être cumulé jusqu'à 3 manches maximum)",
         "Tag": [],
         "Cost": {}
     },
     "117071": {
         "_id": 117071,
-        "Name": "Urgent Neko Parcel",
-        "Desc": "<color style='color:#FFFFFFFF'>When Kirara is your active character, after you switch characters:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color> and draw 1 card.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 2 stacks.)",
+        "Name": "Neko-colis urgent",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque Kirara est le personnage actif et que vous avez effectué un changement de personnage : </color>Inflige 1 pt de [b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color> et pioche 1 carte.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color> (Peut être cumulé, 2 cumuls maximum)",
         "Tag": [],
         "Cost": {}
     },
     "117072": {
         "_id": 117072,
-        "Name": "Shield of Safe Transport",
-        "Desc": "Grants <color style='color:#FFFFFFFF'>2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points</color> to your active character.",
+        "Name": "Bouclier de transport sécurisé",
+        "Desc": "Accorde <color style='color:#FFFFFFFF'>2 pts de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color></color> à votre personnage actif.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -8017,22 +8018,22 @@ var _ref = {
     },
     "117073": {
         "_id": 117073,
-        "Name": "Cat Grass Cardamom",
-        "Desc": "<color style='color:#FFFFFFFF'>After the side of the field that this card is on has played 2 Action Cards:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color> to the active character on that side.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Noix de cataire",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le camp concerné a joué 2 cartes d'action : </color>Inflige 1 pt de [b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color> au personnage actif du camp concerné.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "121011": {
         "_id": 121011,
-        "Name": "Cryo Cicins",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color><br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color> (Can stack, max 3 stacks)<br><color style='color:#FFFFFFFF'>After Fatui Cryo Cicin Mage performs a Normal Attack:</color> This card gains 1 <color style='color:#FFFFFFFF'>Usage(s)</color>.<br><color style='color:#FFFFFFFF'>After Fatui Cryo Cicin Mage takes Elemental Reaction DMG:</color>This card loses 1 <color style='color:#FFFFFFFF'>Usage(s)</color>.",
+        "Name": "Cryoluciole",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color> (Peut être cumulé, 3 cumuls maximum)<br><color style='color:#FFFFFFFF'>Lorsqu'un Mage cryoluciole des Fatui a effectué une attaque normale : </color><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> de cette carte +1.<br>Lorsqu'un <color style='color:#FFFFFFFF'>Mage cryoluciole des Fatui a subi des DGT d'une réaction élémentaire : </color><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> de cette carte -1.",
         "Tag": [],
         "Cost": {}
     },
     "121012": {
         "_id": 121012,
-        "Name": "Flowing Cicin Shield",
-        "Desc": "Provides <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point</color> for your active character.<br><color style='color:#FFFFFFFF'>When created:</color> If you have <color style='color:#FFFFFFFF'>Cryo Cicins</color> on the field, additionally increase [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> by the amount of <color style='color:#FFFFFFFF'>Usage(s)</color> it has. (Adds a maximum of 3 additional [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>)",
+        "Name": "Bouclier de luciole",
+        "Desc": "Accorde <color style='color:#FFFFFFFF'>1 pt de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color></color> à votre personnage actif.<br><color style='color:#FFFFFFFF'>Lors de la création : </color>Si une <color style='color:#FFFFFFFF'>Cryoluciole</color> est sur votre terrain, accorde des points de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> supplémentaires selon son <color style='color:#FFFFFFFF'>Nombre d'utilisations</color>. (Peut accorder un maximum de 3 pts supplémentaires de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color>)",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -8040,232 +8041,232 @@ var _ref = {
     },
     "121021": {
         "_id": 121021,
-        "Name": "Ice-Sealed Crimson Witch of Embers",
-        "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase starts:</color> If the attached character has no more than 4 HP, remove this effect.<br><color style='color:#FFFFFFFF'>When attached character is defeated:</color> Remove this effect, ensure that character <color style='color:#FFFFFFFF'>Immunity to Defeat</color> and heal them to 1 HP.<br><color style='color:#FFFFFFFF'>When this effect is removed:</color> Attached character will transform into the <color style='color:#FFFFFFFF'>Crimson Witch of Embers</color> state.",
+        "Name": "Sorcière des braises écarlates scellée de glace",
+        "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Si le personnage affecté a 4 PV ou moins, l'effet est annulé.<br><color style='color:#FFFFFFFF'>Lorsque le personnage affecté est éliminé : </color>L'effet est annulé, le personnage <color style='color:#FFFFFFFF'>Élimination évitée</color> tout en ayant ses PV ajustés à 1.<br><color style='color:#FFFFFFFF'>Lorsque l'effet est annulé : </color>Le personnage affecté se change en <color style='color:#FFFFFFFF'>Sorcière des braises écarlates</color>.",
         "Tag": [],
         "Cost": {}
     },
     "121022": {
         "_id": 121022,
-        "Name": "Sheer Cold",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deals 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> to attached character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color><br>When attached character has <color style='color:#FFFFFFFF'>Blazing Heat</color> attached, remove this effect.",
+        "Name": "Grand froid",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color> au personnage affecté.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color><br>Lorsque le personnage affecté subit la <color style='color:#FFFFFFFF'>Chaleur extrême</color> : L'effet est annulé.",
         "Tag": [],
         "Cost": {}
     },
     "121023": {
         "_id": 121023,
-        "Name": "Ice-Sealed Crimson Witch of Embers",
-        "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase starts:</color> If the attached character has no more than 15 HP, remove this effect.<br><color style='color:#FFFFFFFF'>When attached character is defeated:</color> Remove this effect, ensure that character <color style='color:#FFFFFFFF'>Immunity to Defeat</color> and heal them to 1 HP.<br><color style='color:#FFFFFFFF'>When this effect is removed:</color> Attached character will transform into the <color style='color:#FFFFFFFF'>Crimson Witch of Embers</color> state.",
+        "Name": "Sorcière des braises écarlates scellée de glace",
+        "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Si le personnage affecté a 15 PV ou moins, l'effet est annulé.<br><color style='color:#FFFFFFFF'>Lorsque le personnage affecté est éliminé : </color>L'effet est annulé, le personnage <color style='color:#FFFFFFFF'>Élimination évitée</color> tout en ayant ses PV ajustés à 1.<br><color style='color:#FFFFFFFF'>Lorsque l'effet est annulé : </color>Le personnage affecté se change en <color style='color:#FFFFFFFF'>Sorcière des braises écarlates</color>.",
         "Tag": [],
         "Cost": {}
     },
     "121024": {
         "_id": 121024,
-        "Name": "Ice-Sealed Crimson Witch of Embers",
-        "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase starts:</color> If the attached character has no more than 25 HP, remove this effect.<br><color style='color:#FFFFFFFF'>When attached character is defeated:</color> Remove this effect, ensure that character <color style='color:#FFFFFFFF'>Immunity to Defeat</color> and heal them to 1 HP.<br><color style='color:#FFFFFFFF'>When this effect is removed:</color> Attached character will transform into the <color style='color:#FFFFFFFF'>Crimson Witch of Embers</color> state.",
+        "Name": "Sorcière des braises écarlates scellée de glace",
+        "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Si le personnage affecté a 25 PV ou moins, l'effet est annulé.<br><color style='color:#FFFFFFFF'>Lorsque le personnage affecté est éliminé : </color>L'effet est annulé, le personnage <color style='color:#FFFFFFFF'>Élimination évitée</color> tout en ayant ses PV ajustés à 1.<br><color style='color:#FFFFFFFF'>Lorsque l'effet est annulé : </color>Le personnage affecté se change en <color style='color:#FFFFFFFF'>Sorcière des braises écarlates</color>.",
         "Tag": [],
         "Cost": {}
     },
     "163011": {
         "_id": 163011,
-        "Name": "Blazing Heat",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deals 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> to attached character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color><br>When attached character has <color style='color:#FFFFFFFF'>Sheer Cold</color> attached, remove this effect.",
+        "Name": "Chaleur extrême",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color> au personnage affecté.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color><br>Lorsque le personnage affecté subit le <color style='color:#FFFFFFFF'>Grand froid</color> : L'effet est annulé.",
         "Tag": [],
         "Cost": {}
     },
     "121031": {
         "_id": 121031,
-        "Name": "Overwhelming Ice",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character uses a Normal Attack:</color> Deal 1 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color> to all opposing characters on standby </color>. <br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Stalactite écrasante",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage effectue une attaque normale : </color>Inflige 1 pt de <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>DGT de perforation</color></color> à tous les personnages adverses en attente.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "121033": {
         "_id": 121033,
-        "Name": "Piercing Iceridge",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> to the opposing <color style='color:#FFFFFFFF'>Character Closest to Your Current Active Character</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Glace perçante",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color> au <color style='color:#FFFFFFFF'>Personnage le plus proche de votre personnage actif</color> sur le terrain adverse.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "121034": {
         "_id": 121034,
-        "Name": "Cryo Crystal Core",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 1 HP.",
+        "Name": "Noyau cristallin Cryo",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté est éliminé : </color>L'effet est annulé et le personnage <color style='color:#FFFFFFFF'>Élimination évitée</color> tout en ayant ses PV ajustés à 1.",
         "Tag": [],
         "Cost": {}
     },
     "121035": {
         "_id": 121035,
-        "Name": "Cryo Crystal Core",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 6 HP.",
+        "Name": "Noyau cristallin Cryo",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté est éliminé : </color>L'effet est annulé et le personnage <color style='color:#FFFFFFFF'>Élimination évitée</color> tout en ayant ses PV ajustés à 6.",
         "Tag": [],
         "Cost": {}
     },
     "121036": {
         "_id": 121036,
-        "Name": "Cryo Crystal Core",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 10 HP.",
+        "Name": "Noyau cristallin Cryo",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté est éliminé : </color>L'effet est annulé et le personnage <color style='color:#FFFFFFFF'>Élimination évitée</color> tout en ayant ses PV ajustés à 10.",
         "Tag": [],
         "Cost": {}
     },
     "122010": {
         "_id": 122010,
-        "Name": "Oceanid Mimic",
-        "Desc": "There are 3 kinds of Oceanid Mimics in total, and up 2 kinds can exist at once:<br><color style='color:#FFFFFFFF'>Squirrel</color>: Deal 2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> at the End Phase. 2 Usages.<br><color style='color:#FFFFFFFF'>Raptor</color>: Deal 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> at the End Phase. 3 Usages.<br><color style='color:#FFFFFFFF'>Frog</color>: Can take 1 DMG for active character. 1 Usage. Once this effect is depleted, deal 2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> during the End Phase.",
+        "Name": "Mimiqueur Hydro",
+        "Desc": "Il existe 3 types de Mimiqueurs Hydro, un maximum de 2 types pouvant exister en même temps :<br><color style='color:#FFFFFFFF'>Écureuil</color> : Inflige 2 pts de [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color> pendant la phase finale. Peut être utilisé 2 fois.<br><color style='color:#FFFFFFFF'>Faucon</color> : Inflige 1 pt de [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color> pendant la phase finale. Peut être utilisé 3 fois.<br><color style='color:#FFFFFFFF'>Grenouille</color> : Bloque 1 pt de DGT pour le personnage actif. Peut être utilisée 1 fois. Une fois épuisée, inflige 2 pts de [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color> pendant la phase finale.",
         "Tag": [],
         "Cost": {}
     },
     "122021": {
         "_id": 122021,
-        "Name": "Refraction",
-        "Desc": "The character to which this is attached takes +1 Hydro DMG.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color><br>(Only one such status can be applied on the same side at a time)",
+        "Name": "Éclat de miroir d'eau",
+        "Desc": "DGT Hydro subis par le personnage affecté +1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color><br>(Un seul de ces états peut exister à la fois dans un même camp)",
         "Tag": [],
         "Cost": {}
     },
     "123011": {
         "_id": 123011,
-        "Name": "Stealth",
-        "Desc": "The character to which this is attached takes -1 DMG and deals +1 DMG.<br><color style='color:#FFFFFFFF'>Usage(s)</color>: 2",
+        "Name": "Infiltration",
+        "Desc": "DGT subis par le personnage affecté -1 et DGT qu'il inflige+1.<br><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2",
         "Tag": [],
         "Cost": {}
     },
     "123012": {
         "_id": 123012,
-        "Name": "Stealth",
-        "Desc": "The character to which this is attached takes -1 DMG and deals +1 DMG.<br><color style='color:#FFFFFFFF'>Usage(s)</color>: 3<br>The character to which this is attached has their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.",
+        "Name": "Infiltration",
+        "Desc": "DGT subis par le personnage affecté -1 et DGT qu'il inflige +1.<br><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3<br>Les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés par le personnage affecté sont convertis en [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>.",
         "Tag": [],
         "Cost": {}
     },
     "123021": {
         "_id": 123021,
-        "Name": "Darkfire Furnace",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>, deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to all opposing characters on standby.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Fourneau de feu noir",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color> et inflige 1 pt de <color style='color:#FFFFFFFF'>DGT de perforation</color> à tous les personnages adverses en attente.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "123022": {
         "_id": 123022,
-        "Name": "Fiery Rebirth",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 3 HP.",
+        "Name": "Renaissance ardente",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté est éliminé : </color>L'effet est annulé et le personnage <color style='color:#FFFFFFFF'>Élimination évitée</color> tout en ayant ses PV ajustés à 3.",
         "Tag": [],
         "Cost": {}
     },
     "123023": {
         "_id": 123023,
-        "Name": "Shield of Surging Flame",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes no DMG</color>.<br>This status will provide 2 instances of <color style='color:#FF9999FF'>Pyro Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this effect will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> and take 6 <color style='color:#FFFFFFFF'>Piercing DMG</color> at the End Phase.<br>While this effect is active, character deals +1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.",
+        "Name": "Bouclier de flamme déferlante",
+        "Desc": "<color style='color:#FFFFFFFF'>Aucun DGT subi</color> pour le personnage affecté.<br>Cet état <color style='color:#FF9999FF'>applique l'élément Pyro</color> 2 fois (Peut être consommé par une réaction élémentaire) : Une fois épuisé, l'effet est annulé et le personnage affecté <color style='color:#FFFFFFFF'>ne peut pas utiliser de capacités</color> et subit 6 pts de <color style='color:#FFFFFFFF'>DGT de perforation</color> pendant la phase finale.<br>Tant que l'effet est présent : [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color> infligés par le personnage +1.",
         "Tag": [],
         "Cost": {}
     },
     "123031": {
         "_id": 123031,
-        "Name": "Spirit of Omen: Pyro Scorpion",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>When entering play, when the Action Phase starts:</color> Attach Pyro Scorpion: Guardian Stance to your Eremite Scorching Loremaster. (When Spirit of Omen: Pyro Scorpion is in play, the character will take -1 DMG, once per Round.)",
+        "Name": "Esprit sinistre du scorpion ardent",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color><br><color style='color:#FFFFFFFF'>En arrivant sur le terrain et au début de la phase d'action : </color>Applique un Scorpion ardent : Posture protectrice à votre Lettrée incandescente des Érémites. (1 fois par manche lorsque l'Esprit sinistre du scorpion ardent est sur le terrain, les DGT subis par le personnage diminuent de 1)",
         "Tag": [],
         "Cost": {}
     },
     "123032": {
         "_id": 123032,
-        "Name": "Spirit of Omen: Pyro Scorpion",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>. If Eremite Scorching Loremaster has already used a <color style='color:#FFFFFFFF'>Normal Attack</color> or <color style='color:#FFFFFFFF'>Elemental Skill</color>, this DMG is increased by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>When entering play, when the Action Phase starts:</color> Attach Pyro Scorpion: Guardian Stance to your Eremite Scorching Loremaster. (Twice per Round when Spirit of Omen: Pyro Scorpion is in play, it will cause the character to take -1 DMG.)",
+        "Name": "Esprit sinistre du scorpion ardent",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>. Si la Lettrée incandescente des Érémites a déjà utilisé une <color style='color:#FFFFFFFF'>attaque normale</color> ou une <color style='color:#FFFFFFFF'>compétence élémentaire</color> pendant cette manche, ces DGT augmentent de 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color><br><color style='color:#FFFFFFFF'>En arrivant sur le terrain et au début de la phase d'action : </color>Applique « Scorpion ardent : Posture protectrice » à votre Lettrée incandescente des Érémites. (2 fois par manche lorsque l'Esprit sinistre du scorpion ardent est sur le terrain, les DGT subis par le personnage diminuent de 1)",
         "Tag": [],
         "Cost": {}
     },
     "123033": {
         "_id": 123033,
-        "Name": "Pyro Scorpion: Guardian Stance",
-        "Desc": "When <color style='color:#FFFFFFFF'>Spirit of Omen: Pyro Scorpion is on the field: </color>the equipping character takes -1 DMG. (Once each Round)",
+        "Name": "Scorpion ardent : Posture protectrice",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque l'Esprit sinistre du scorpion ardent est sur le terrain : </color>DGT subis par le personnage affecté -1. (1 fois par manche)",
         "Tag": [],
         "Cost": {}
     },
     "123034": {
         "_id": 123034,
-        "Name": "Pyro Scorpion: Guardian Stance",
-        "Desc": "When <color style='color:#FFFFFFFF'>Spirit of Omen: Pyro Scorpion is on the field: </color>the equipping character takes -1 DMG. (Max twice each Round)",
+        "Name": "Scorpion ardent : Posture protectrice",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque l'Esprit sinistre du scorpion ardent est sur le terrain : </color>DGT subis par le personnage affecté -1. (2 fois par manche)",
         "Tag": [],
         "Cost": {}
     },
     "124013": {
         "_id": 124013,
-        "Name": "Chains of Warding Thunder",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>When this Summon is on the field:</color> Your opponent will have to spend 1 additional Elemental Die when performing \"Switch Character.\" (Once per Round)",
+        "Name": "Chaîne du tonnerre protecteur",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color><br><color style='color:#FFFFFFFF'>Lorsque cette invocation est sur le terrain : </color>L'adversaire dépense 1 dé élémentaire de plus lors du changement de personnage. (1 fois par manche)",
         "Tag": [],
         "Cost": {}
     },
     "124014": {
         "_id": 124014,
-        "Name": "Electro Crystal Core",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 1 HP.",
+        "Name": "Noyau cristallin Électro",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté est éliminé : </color>L'effet est annulé et le personnage <color style='color:#FFFFFFFF'>Élimination évitée</color> tout en ayant ses PV ajustés à 1.",
         "Tag": [],
         "Cost": {}
     },
     "124015": {
         "_id": 124015,
-        "Name": "Electro Crystal Core",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 6 HP.",
+        "Name": "Noyau cristallin Électro",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté est éliminé : </color>L'effet est annulé et le personnage <color style='color:#FFFFFFFF'>Élimination évitée</color> tout en ayant ses PV ajustés à 6.",
         "Tag": [],
         "Cost": {}
     },
     "124016": {
         "_id": 124016,
-        "Name": "Electro Crystal Core",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 10 HP.",
+        "Name": "Noyau cristallin Électro",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté est éliminé : </color>L'effet est annulé et le personnage <color style='color:#FFFFFFFF'>Élimination évitée</color> tout en ayant ses PV ajustés à 10.",
         "Tag": [],
         "Cost": {}
     },
     "124021": {
         "_id": 124021,
-        "Name": "Lightning Strike Probe",
-        "Desc": "<color style='color:#FFFFFFFF'>After a character on whose side of the field this card is on uses a Skill:</color> Attach <color style='color:#FFFFFFFF'>Lightning Rod</color> to the active character on that side. (Once per Round)",
+        "Name": "Sonde de foudre",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un personnage du camp concerné a utilisé une capacité : </color>Applique un <color style='color:#FFFFFFFF'>Paratonnerre</color> au personnage actif de ce camp. (1 fois par manche)",
         "Tag": [],
         "Cost": {}
     },
     "124022": {
         "_id": 124022,
-        "Name": "Lightning Rod",
-        "Desc": "<color style='color:#FFFFFFFF'>When the attached character takes DMG from Thunder Manifestation or its summons:</color> Remove this state, cause this DMG instance to increase by 1.<br>(Only one of this status can exist on the field at once. Some of Thunder Manifestation's skills will target the character to which this is attached.)",
+        "Name": "Paratonnerre",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté subit des DGT de la Manifestation du tonnerre ou de ses invocations : </color>Annule cet état et augmente les DGT de 1.<br>(Un seul de ces états peut exister à la fois dans un même camp, et certaines capacités des Manifestation du tonnerre visent le personnage affecté)",
         "Tag": [],
         "Cost": {}
     },
     "124023": {
         "_id": 124023,
-        "Name": "Thundering Shackles",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deals 3 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color> to the opposing character affected by <color style='color:#FFFFFFFF'>Lightning Rod</color>. (If there are no eligible opposing characters, deals DMG to the active character instead)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Prison tonitruante",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 3 pts de [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color> aux personnages adverses affectés par un <color style='color:#FFFFFFFF'>Paratonnerre</color>. (Si aucun personnage adverse n'est éligible, les DGT sont infligés au personnage actif à la place)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "124031": {
         "_id": 124031,
-        "Name": "Resonant Coral Orb",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Orbe de résonance",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "124032": {
         "_id": 124032,
-        "Name": "Fontemer Pearl",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached takes DMG:</color> Negate 1 DMG. Once per Round, <color style='color:#FFFFFFFF'>Usage(s)</color> will not be used when negating DMG from Summons.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>When you declare the end of your Round:</color> If the character to which this is attached is the active character, draw 1 card.",
+        "Name": "Perle fontemarine",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté subit des DGT : </color>Diminue les DGT de 1, le <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> n'étant pas diminué lorsqu'il s'agit de DGT provenant d'invocations (1 fois par manche).<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color><br><color style='color:#FFFFFFFF'>Lorsque vous annoncez la fin de votre manche : </color>Si le personnage affecté est actif, pioche 1 carte.",
         "Tag": [],
         "Cost": {}
     },
     "124033": {
         "_id": 124033,
-        "Name": "Fontemer Pearl",
-        "Desc": "<color style='color:#FFFFFFFF'>When character to which this is attached takes DMG:</color> Negate 1 DMG. <color style='color:#FFFFFFFF'>Usage(s)</color> will not be used when negating DMG from Summons.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color><br><color style='color:#FFFFFFFF'>During this effect's duration:</color> The character to which this is attached deals +1 DMG.",
+        "Name": "Perle fontemarine",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté subit des DGT : </color>Diminue les DGT de 1, le <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> n'étant pas diminué lorsqu'il s'agit de DGT provenant d'invocations.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color><br><color style='color:#FFFFFFFF'>Pendant la durée de cet effet : </color>DGT infligés par le personnage affecté +1.",
         "Tag": [],
         "Cost": {}
     },
     "124041": {
         "_id": 124041,
-        "Name": "Electro Cicin",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color> (Can stack, max 3 stacks)<br><color style='color:#FFFFFFFF'>After your opponent plays a total of 3 Action Cards:</color> This card gains 1 <color style='color:#FFFFFFFF'>Usage(s)</color>. (Max 3 stacks)<br><color style='color:#FFFFFFFF'>After Fatui Electro Cicin Mage takes Elemental Reaction DMG:</color>This card loses 1 <color style='color:#FFFFFFFF'>Usage(s)</color>.",
+        "Name": "Électroluciole",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color><br><color style='color:#FFFFFFFF'>Lorsque l'adversaire a joué un total de 3 cartes d'action : </color><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> de cette carte +1. (3 cumuls maximum)<br><color style='color:#FFFFFFFF'>Lorsqu'un Mage électroluciole des Fatui a subi des DGT d'une réaction élémentaire : </color><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> de cette carte -1.",
         "Tag": [],
         "Cost": {}
     },
     "124042": {
         "_id": 124042,
-        "Name": "Electro Cicin Shield",
-        "Desc": "Provides <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point</color> for your active character.<br><color style='color:#FFFFFFFF'>When created:</color> If you have <color style='color:#FFFFFFFF'>Electro Cicin</color> on the field, additionally increase [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> by the amount of <color style='color:#FFFFFFFF'>Usage(s)</color> it has. (Adds a maximum of 3 additional [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>)",
+        "Name": "Bouclier d'Électroluciole",
+        "Desc": "Accorde <color style='color:#FFFFFFFF'>1 pt de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color></color> à votre personnage actif.<br><color style='color:#FFFFFFFF'>Lors de la création : </color>Si une <color style='color:#FFFFFFFF'>Électroluciole</color> est sur votre terrain, accorde des points de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> supplémentaires selon son <color style='color:#FFFFFFFF'>Nombre d'utilisations</color>. (Peut accorder un maximum de 3 pts supplémentaires de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color>)",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -8273,99 +8274,99 @@ var _ref = {
     },
     "125011": {
         "_id": 125011,
-        "Name": "Shadowsword: Lone Gale",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Épée d'ombre : Brise",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "125012": {
         "_id": 125012,
-        "Name": "Shadowsword: Galloping Frost",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Épée d'ombre : Givre",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "125021": {
         "_id": 125021,
-        "Name": "Total Collapse",
-        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> or [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color> taken by the affected character increased by 2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Effondrement total",
+        "Desc": "[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> et [b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color> subis par le personnage affecté +2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "126011": {
         "_id": 126011,
-        "Name": "Stonehide",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached takes DMG: </color>Decrease 1 DMG. When [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color> is decreased, consume 1 additional <color style='color:#FFFFFFFF'>Usage(s)</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Peau-pierre",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté subit des DGT : </color>Diminue les DGT de 1. Lorsque des [b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color> diminuent, le <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> à consommer augmente de 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "126012": {
         "_id": 126012,
-        "Name": "Stone Force",
-        "Desc": "The character to which this is attached has their [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> dealt converted to [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br><color style='color:#FFFFFFFF'>Once per Round:</color> The character deals +1 DMG.<br><color style='color:#FFFFFFFF'>Once the Stonehide attached to the character is removed</color>, this status will be removed alongside it.",
+        "Name": "Force de pierre",
+        "Desc": "Les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés par le personnage sont convertis en [b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color>.<br><color style='color:#FFFFFFFF'>Une fois par manche : </color>DGT infligés par le personnage +1.<br><color style='color:#FFFFFFFF'>Une fois la Peau-pierre du personnage annulée : Annule également cet état.</color>",
         "Tag": [],
         "Cost": {}
     },
     "126021": {
         "_id": 126021,
-        "Name": "Stone Facets: Elemental Absorption",
-        "Desc": "The character can absorb the power of the Elements, including [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color>/[b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>/[b]2103[a]<color style='color:#FF9999FF'>Pyro</color>/[b]2104[a]<color style='color:#FFACFFFF'>Electro</color>, and then based on the element absorbed, gain the skills [b]2101[a]<color style='color:#99FFFFFF'>Frostspike Wave</color>/[b]2102[a]<color style='color:#80C0FFFF'>Torrential Rebuke</color>/[b]2103[a]<color style='color:#FF9999FF'>Blazing Rebuke</color>/[b]2104[a]<color style='color:#FFACFFFF'>Thunderstorm Wave</color>. (The character can only have one Elemental Type absorbed at once, and this status will record the Elemental Type previously absorbed)<br><color style='color:#FFFFFFFF'>After this character absorbs an element of a different type than the currently absorbed element:</color> Generate 1 Elemental Die of the same type as the Element that was just absorbed.",
+        "Name": "Facettes de la roche : Absorption élémentaire",
+        "Desc": "Le personnage peut absorber la puissance des éléments [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color>, [b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>, [b]2103[a]<color style='color:#FF9999FF'>Pyro</color> et [b]2104[a]<color style='color:#FFACFFFF'>Électro</color>, puis, selon l'élément absorbé, obtenir la capacité <color style='color:#99FFFFFF'>Percée givrée</color> ([b]2101[a]), <color style='color:#80C0FFFF'>Réprimande torrentielle</color> ([b]2102[a]), <color style='color:#FF9999FF'>Réprimande flamboyante</color> ([b]2103[a]) ou <color style='color:#FFACFFFF'>Percée tonitruante</color> ([b]2104[a]). (Le personnage ne peut absorber qu'un seul type élémentaire à la fois, et cet état enregistre les types élémentaires précédemment absorbés)<br><color style='color:#FFFFFFFF'>Lorsque le personnage absorbe un élément d'un type différent de celui actuellement absorbé : </color>Crée 1 dé de l'élément qui vient d'être absorbé.",
         "Tag": [],
         "Cost": {}
     },
     "126022": {
         "_id": 126022,
-        "Name": "Stone Facets: Elemental Crystallization",
-        "Desc": "<color style='color:#FFFFFFFF'>After this character takes [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color>/[b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>/[b]2103[a]<color style='color:#FF9999FF'>Pyro</color>/[b]2104[a]<color style='color:#FFACFFFF'>Electro</color> DMG:</color> If this character currently has not absorbed the power of this element, remove this effect, and then this character performs <color style='color:#FFFFFFFF'>Elemental Absorption</color>.",
+        "Name": "Facettes de la roche : Condensation élémentaire",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage a subi des DGT [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color>, [b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>, [b]2103[a]<color style='color:#FF9999FF'>Pyro</color> ou [b]2104[a]<color style='color:#FFACFFFF'>Électro</color> : </color>Si le personnage n'a actuellement pas absorbé la puissance de cet élément, l'état est annulé et le personnage <color style='color:#FFFFFFFF'>Absorption de la puissance d'un élément correspondant</color>.",
         "Tag": [],
         "Cost": {}
     },
     "127011": {
         "_id": 127011,
-        "Name": "Radical Vitality",
-        "Desc": "<color style='color:#FFFFFFFF'>After this character deals or takes Elemental DMG:</color> Gain 1 stack of Radical Vitality. (Max 3 stacks)<br><color style='color:#FFFFFFFF'>End Phase:</color> If Radical Vitality stacks reach maximum, they will be cleared and the character will lose all Energy.",
+        "Name": "Vitalité radicale",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage inflige ou subit des DGT élémentaires : </color>Accorde 1 cumul de vitalité radicale. (Peut être cumulé 3 fois maximum)<br><color style='color:#FFFFFFFF'>Phase finale : </color>Si les cumuls de vitalité radicale sont au maximum, ils sont effacés et le personnage perd toutes ses charges.",
         "Tag": [],
         "Cost": {}
     },
     "130041": {
         "_id": 130041,
-        "Name": "Seeking Missile",
-        "Desc": "<color style='color:#FFFFFFFF'>After a character switch takes place in this play area:</color> Deal 2 [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> to the character activated.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Missile chercheur",
+        "Desc": "<color style='color:#FFFFFFFF'>Après un changement de personnage dans le camp concerné : </color>Inflige 2 pts de [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> au personnage actif.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "131011": {
         "_id": 131011,
-        "Name": "Hoarfrost Greatshield",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes -2 DMG</color>.<br>This status will provide 2 instances of <color style='color:#99FFFFFF'>Cryo Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed.",
+        "Name": "Grand bouclier de givre",
+        "Desc": "<color style='color:#FFFFFFFF'>DGT subis -2</color> pour le personnage affecté.<br>Cet état <color style='color:#99FFFFFF'>applique l'élément Cryo</color> 2 fois (Peut être consommé par une réaction élémentaire) : Une fois épuisé, l'état est annulé.",
         "Tag": [],
         "Cost": {}
     },
     "131031": {
         "_id": 131031,
-        "Name": "Cryo Shield",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes no DMG</color> and cannot be Frozen.<br>This status will provide 2 instances of <color style='color:#99FFFFFF'>Cryo Infusion</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "Bouclier Cryo",
+        "Desc": "<color style='color:#FFFFFFFF'>Aucun DGT subi</color> pour le personnage affecté et protège contre le Gel.<br>Cet état <color style='color:#99FFFFFF'>applique l'élément Cryo</color> 2 fois (Peut être consommé par une réaction élémentaire) : Une fois épuisé, l'état est annulé et le personnage affecté <color style='color:#FFFFFFFF'>ne peut pas utiliser de capacités</color> jusqu'à la fin de la manche.",
         "Tag": [],
         "Cost": {}
     },
     "131041": {
         "_id": 131041,
-        "Name": "Cryo Elemental Equipment",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes -1 DMG and deals +1 DMG</color>.<br>This status will provide 2 instances of <color style='color:#99FFFFFF'>Cryo Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "Équipement Cryo",
+        "Desc": "<color style='color:#FFFFFFFF'>DGT subis -1 et DGT infligés +1</color> pour le personnage affecté.<br>Cet état <color style='color:#99FFFFFF'>applique l'élément Cryo</color> 2 fois (Peut être consommé par une réaction élémentaire) : Une fois épuisé, l'état est annulé et le personnage affecté <color style='color:#FFFFFFFF'>ne peut pas utiliser de capacités</color> jusqu'à la fin de la manche.",
         "Tag": [],
         "Cost": {}
     },
     "131061": {
         "_id": 131061,
-        "Name": "Spirit of Omen's Awakening: Cryo",
-        "Desc": "Character <color style='color:#FFFFFFFF'>deals +1 DMG</color> and converts [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> to [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br>This character takes +2 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Éveil d'esprit sinistre (Cryo)",
+        "Desc": "<color style='color:#FFFFFFFF'>Les DGT infligés par le personnage augmentent de 1</color> et les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés sont convertis en [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color>.<br>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color> subis par ce personnage +2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "131071": {
         "_id": 131071,
-        "Name": "Elemental Lifeform: Cryo",
-        "Desc": "This character always has [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color> applied, and it is immune to [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> and Frozen.",
+        "Name": "Entité élémentaire Cryo",
+        "Desc": "Le personnage est toujours affecté par une <color style='color:#99FFFFFF'>application [b]2101[a]Cryo</color> et immunisé contre les [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color> et le Gel.",
         "Tag": [
             "GCG_TAG_IMMUNE_FREEZING"
         ],
@@ -8373,8 +8374,8 @@ var _ref = {
     },
     "132011": {
         "_id": 132011,
-        "Name": "Mist Bubble",
-        "Desc": "<color style='color:#FFFFFFFF'>The character cannot use Skills</color>.<br>End Phase: Remove this status, deal 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> to the character to which it is attached.",
+        "Name": "Bulle",
+        "Desc": "<color style='color:#FFFFFFFF'>Empêche le personnage d'utiliser des capacités.</color><br>Phase finale : Annule cet état et inflige 1 pt de [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color> au personnage affecté.",
         "Tag": [
             "GCG_TAG_FORBIDDEN_ATTACK"
         ],
@@ -8382,50 +8383,50 @@ var _ref = {
     },
     "132012": {
         "_id": 132012,
-        "Name": "Hydro Shield",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes no DMG</color>.<br>This status will provide 2 instances of <color style='color:#80C0FFFF'>Hydro Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "Bouclier Hydro",
+        "Desc": "<color style='color:#FFFFFFFF'>Aucun DGT subi</color> pour le personnage affecté.<br>Cet état <color style='color:#80C0FFFF'>applique l'élément Hydro</color> 2 fois (Peut être consommé par une réaction élémentaire) : Une fois épuisé, l'état est annulé et le personnage affecté <color style='color:#FFFFFFFF'>ne peut pas utiliser de capacités</color> jusqu'à la fin de la manche.",
         "Tag": [],
         "Cost": {}
     },
     "132021": {
         "_id": 132021,
-        "Name": "Healing Rain",
-        "Desc": "End Phase: Heal your active character for 1 HP and grant both sides' active characters <color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Pluie curative",
+        "Desc": "Phase finale : Soigne votre personnage actif pour 1 pt et <color style='color:#80C0FFFF'>Application [b]2102[a]Hydro</color> aux personnages actifs de chaque camp.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "132031": {
         "_id": 132031,
-        "Name": "Hydro Elemental Equipment",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes -1 DMG and deals +1 Healing</color>.<br>This status will provide 2 instances of <color style='color:#80C0FFFF'>Hydro Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "Équipement Hydro",
+        "Desc": "<color style='color:#FFFFFFFF'>DGT subis -1 et soins infligés +1</color> pour le personnage affecté.<br>Cet état <color style='color:#80C0FFFF'>applique l'élément Hydro</color> 2 fois (Peut être consommé par une réaction élémentaire) : Une fois épuisé, l'état est annulé et le personnage affecté <color style='color:#FFFFFFFF'>ne peut pas utiliser de capacités</color> jusqu'à la fin de la manche.",
         "Tag": [],
         "Cost": {}
     },
     "132041": {
         "_id": 132041,
-        "Name": "Elemental Lifeform: Hydro",
-        "Desc": "This character always has [b]2102[a]<color style='color:#80C0FFFF'>Hydro</color> applied, and it is immune to [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.",
+        "Name": "Entité élémentaire Hydro",
+        "Desc": "Le personnage est toujours affecté par une <color style='color:#80C0FFFF'>application [b]2102[a]Hydro</color> et immunisé contre les [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color>.",
         "Tag": [],
         "Cost": {}
     },
     "132051": {
         "_id": 132051,
-        "Name": "Terrain Advantage",
-        "Desc": "The character <color style='color:#FFFFFFFF'>deals +1 DMG</color>. (This character will permanently change its State if they take [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> or [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.)",
+        "Name": "Avantage topographique",
+        "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>. (Le personnage change définitivement d'état après avoir subi des [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color> ou des [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>.)",
         "Tag": [],
         "Cost": {}
     },
     "132061": {
         "_id": 132061,
-        "Name": "Spirit of Omen's Awakening: Hydro",
-        "Desc": "Character <color style='color:#FFFFFFFF'>deals +1 DMG</color> and converts [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> to [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br>This character takes +2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Éveil d'esprit sinistre (Hydro)",
+        "Desc": "<color style='color:#FFFFFFFF'>Les DGT infligés par le personnage augmentent de 1</color> et les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés sont convertis en [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color>.<br>[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color> subis par ce personnage +2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "132071": {
         "_id": 132071,
-        "Name": "Gurgling Bubble",
-        "Desc": "<color style='color:#FFFFFFFF'>Character cannot use Skills.</color> (Lasts until the end of this Round)",
+        "Name": "Bulle gargouillante",
+        "Desc": "<color style='color:#FFFFFFFF'>Empêche le personnage d'utiliser des capacités.</color> (Dure jusqu'à la fin de la manche)",
         "Tag": [
             "GCG_TAG_FORBIDDEN_ATTACK"
         ],
@@ -8433,92 +8434,92 @@ var _ref = {
     },
     "133011": {
         "_id": 133011,
-        "Name": "Pyro Shield",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes no DMG</color>.<br>This status will provide 2 instances of <color style='color:#FF9999FF'>Pyro Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "Bouclier Pyro",
+        "Desc": "<color style='color:#FFFFFFFF'>Aucun DGT subi</color> pour le personnage affecté.<br>Cet état <color style='color:#FF9999FF'>applique l'élément Pyro</color> 2 fois (Peut être consommé par une réaction élémentaire) : Une fois épuisé, l'état est annulé et le personnage affecté <color style='color:#FFFFFFFF'>ne peut pas utiliser de capacités</color> jusqu'à la fin de la manche.",
         "Tag": [],
         "Cost": {}
     },
     "133021": {
         "_id": 133021,
-        "Name": "Flowfire Edge",
-        "Desc": "The [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> this character deals is converted to [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Tranchant de flamme",
+        "Desc": "Les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés par le personnage sont convertis en [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "133031": {
         "_id": 133031,
-        "Name": "Kamuna Talisman: Pyro",
-        "Desc": "The [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> this character deals is converted to [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Talisman Kamuna : Feu",
+        "Desc": "Les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés par le personnage sont convertis en [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "133032": {
         "_id": 133032,
-        "Name": "Final Frenzy",
-        "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase starts:</color> If the character to which this is attached is the active character, remove this status, heal this character for 3 HP, and re-attach <color style='color:#FFFFFFFF'>Kamuna Talisman: Pyro</color>.",
+        "Name": "Frénésie finale",
+        "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action: </color>Si le personnage affecté est le personnage actif, annule cet état, soigne le personnage pour 3 pts et accorde à nouveau un <color style='color:#FFFFFFFF'>Talisman Kamuna : Feu</color>.",
         "Tag": [],
         "Cost": {}
     },
     "133061": {
         "_id": 133061,
-        "Name": "Pyro Elemental Equipment",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes -1 DMG and deals +1 DMG</color>.<br>This status will provide 2 instances of <color style='color:#FF9999FF'>Pyro Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "Équipement Pyro",
+        "Desc": "<color style='color:#FFFFFFFF'>DGT subis -1 et DGT infligés +1</color> pour le personnage affecté.<br>Cet état <color style='color:#FF9999FF'>applique l'élément Pyro</color> 2 fois (Peut être consommé par une réaction élémentaire) : Une fois épuisé, l'état est annulé et le personnage affecté <color style='color:#FFFFFFFF'>ne peut pas utiliser de capacités</color> jusqu'à la fin de la manche.",
         "Tag": [],
         "Cost": {}
     },
     "134011": {
         "_id": 134011,
-        "Name": "Kamuna Talisman: Electro",
-        "Desc": "The [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> this character deals is converted to [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Talisman Kamuna : Éclair",
+        "Desc": "Les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés par le personnage sont convertis en [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "134012": {
         "_id": 134012,
-        "Name": "Final Frenzy",
-        "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase starts:</color> If the character to which this is attached is the active character, remove this status, heal this character for 3 HP, and re-attach <color style='color:#FFFFFFFF'>Kamuna Talisman: Electro</color>.",
+        "Name": "Frénésie finale",
+        "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action: </color>Si le personnage affecté est le personnage actif, annule cet état, soigne le personnage pour 3 pts et accorde à nouveau un <color style='color:#FFFFFFFF'>Talisman Kamuna : Éclair</color>.",
         "Tag": [],
         "Cost": {}
     },
     "134031": {
         "_id": 134031,
-        "Name": "Ripple Electro Edge",
-        "Desc": "The [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> this character deals is converted to [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Tranchant d'électrondulation",
+        "Desc": "Les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés par le personnage sont convertis en [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "134041": {
         "_id": 134041,
-        "Name": "Tanglebolt Ring",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Anneau de tempête",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 2 pts de [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "134042": {
         "_id": 134042,
-        "Name": "Electro Shield",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes no DMG</color>.<br>This status will provide 2 instances of <color style='color:#FFACFFFF'>Electro Infusion</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "Bouclier Électro",
+        "Desc": "<color style='color:#FFFFFFFF'>Aucun DGT subi</color> pour le personnage affecté.<br>Cet état <color style='color:#FFACFFFF'>applique l'élément Électro</color> 2 fois (Peut être consommé par une réaction élémentaire) : Une fois épuisé, l'état est annulé et le personnage affecté <color style='color:#FFFFFFFF'>ne peut pas utiliser de capacités</color> jusqu'à la fin de la manche.",
         "Tag": [],
         "Cost": {}
     },
     "134061": {
         "_id": 134061,
-        "Name": "Elemental Lifeform: Electro",
-        "Desc": "This character always has [b]2104[a]<color style='color:#FFACFFFF'>Electro</color> applied, and it is immune to [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.",
+        "Name": "Entité élémentaire Électro",
+        "Desc": "Le personnage est toujours affecté par une <color style='color:#FFACFFFF'>application [b]2104[a]Électro</color> et immunisé contre les [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>.",
         "Tag": [],
         "Cost": {}
     },
     "134071": {
         "_id": 134071,
-        "Name": "Electro Elemental Equipment",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes -1 DMG and deals +1 DMG</color>.<br>This status will provide 2 instances of <color style='color:#FFACFFFF'>Electro Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed, and the character to which this is attached will be <color style='color:#FFFFFFFF'>unable to use Skills</color> until the end of this Round.",
+        "Name": "Équipement Électro",
+        "Desc": "<color style='color:#FFFFFFFF'>DGT subis -1 et DGT infligés +1</color> pour le personnage affecté.<br>Cet état <color style='color:#FFACFFFF'>applique l'élément Électro</color> 2 fois (Peut être consommé par une réaction élémentaire) : Une fois épuisé, l'état est annulé et le personnage affecté <color style='color:#FFFFFFFF'>ne peut pas utiliser de capacités</color> jusqu'à la fin de la manche.",
         "Tag": [],
         "Cost": {}
     },
     "134081": {
         "_id": 134081,
-        "Name": "Shield Block",
-        "Desc": "The next time this character acts, they will immediately use the Skill <color style='color:#FFFFFFFF'>Shield Slice</color>.<br><color style='color:#FFFFFFFF'>While preparing Shield Slice:</color> Grant 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points to this character.",
+        "Name": "Parade de bouclier",
+        "Desc": "Lors de son prochain tour, le personnage utilise directement la capacité : <color style='color:#FFFFFFFF'>Coupure de bouclier</color>.<br><color style='color:#FFFFFFFF'>Pendant la préparation de Coupure de bouclier : </color>Accorde 2 pts de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> à ce personnage.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -8526,127 +8527,127 @@ var _ref = {
     },
     "134091": {
         "_id": 134091,
-        "Name": "Elemental Devourer",
-        "Desc": "After taking [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>, stack 1 level of Elemental Devourer. (Max 2 levels)<br>When 2 levels of Elemental Devourer have been gained, character deals +1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color> and takes +2 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.",
+        "Name": "Soif de magie",
+        "Desc": "Après avoir subi des [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>, accorde 1 cumul de soif de magie. (2 cumuls maximum)<br>Avec 2 cumuls de soif de magie, [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color> infligés par le personnage +1 et [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color> subis +2.",
         "Tag": [],
         "Cost": {}
     },
     "135011": {
         "_id": 135011,
-        "Name": "Whirlwind",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Tornade",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "135021": {
         "_id": 135021,
-        "Name": "Stormwind Barrier",
-        "Desc": "The next time this character acts, they will immediately use the Skill <color style='color:#FFFFFFFF'>Avenging Squall</color>.<br><color style='color:#FFFFFFFF'>While preparing this Skill:</color> Grant the character to which this is attached 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points. Meanwhile, if the character takes <color style='color:#80C0FFFF'>[b]2102[a]Hydro</color>/<color style='color:#FF9999FF'>[b]2103[a]Pyro</color>/<color style='color:#99FFFFFF'>[b]2101[a]Cryo</color>/<color style='color:#FFACFFFF'>[b]2104[a]Electro</color> DMG, Avenging Squall will deal +1 DMG and its DMG type will be converted to the corresponding Element as well.",
+        "Name": "Barrière de rafale",
+        "Desc": "Lors de son prochain tour, le personnage utilise directement la capacité : <color style='color:#FFFFFFFF'>Rafale vengeresse</color>.<br><color style='color:#FFFFFFFF'>Pendant la préparation de Rafale vengeresse : </color>Accorde 2 pts de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> au personnage affecté, et si ce dernier subit des DGT <color style='color:#80C0FFFF'>[b]2102[a]Hydro</color>, <color style='color:#FF9999FF'>[b]2103[a]Pyro</color>, <color style='color:#99FFFFFF'>[b]2101[a]Cryo</color> ou <color style='color:#FFACFFFF'>[b]2104[a]Électro</color>, les DGT infligés par la Rafale vengeresse en préparation augmentent de 1 et sont convertis en l'élément correspondant.",
         "Tag": [],
         "Cost": {}
     },
     "136011": {
         "_id": 136011,
-        "Name": "Craggy Greatshield",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached takes DMG: </color>Decrease a maximum of 2 DMG. When [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color> is decreased, consume 1 additional <color style='color:#FFFFFFFF'>Usage(s)</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Grand bouclier de roches",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté subit des DGT : </color>Diminue les DGT d'un maximum de 2. Lorsque des [b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color> diminuent, le <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> à consommer augmente de 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "136021": {
         "_id": 136021,
         "Name": "Corrosion",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Apart from non-active characters who have no more than 3 HP, all of characters in this play area take 1 <color style='color:#FFFFFFFF'>Piercing DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 3 stacks.)",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Mis à part les personnages en attente ayant 3 PV ou moins, tous les personnages du camp concerné subissent 1 pt de <color style='color:#FFFFFFFF'>DGT de perforation</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : </color>1 (Peut être cumulé, 3 cumuls maximum)",
         "Tag": [],
         "Cost": {}
     },
     "136022": {
         "_id": 136022,
-        "Name": "Elemental Devourer",
-        "Desc": "After taking [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>, stack 1 level of Elemental Devourer. (Max 2 levels)<br>When 2 levels of Elemental Devourer have been gained, character deals +1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color> and takes +2 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.",
+        "Name": "Soif de magie",
+        "Desc": "Après avoir subi des [b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color>, accorde 1 cumul de soif de magie. (2 cumuls maximum)<br>Avec 2 cumuls de soif de magie, [b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color> infligés par le personnage +1 et [b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color> subis +2.",
         "Tag": [],
         "Cost": {}
     },
     "136031": {
         "_id": 136031,
-        "Name": "Rocky Pedestal",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active [b]3502[a]Hilichurl takes DMG: </color>Decreases DMG taken by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Plinthe de pierre",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage actif de type [b]3502[a]Brutocollinus subit des DGT : </color>Diminue les DGT de 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "136041": {
         "_id": 136041,
-        "Name": "Geo Elemental Equipment",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached takes DMG: </color>Decrease 1 DMG. When [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color> is decreased, consume 1 additional <color style='color:#FFFFFFFF'>Usage(s)</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Équipement Géo",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté subit des DGT : </color>Diminue les DGT de 1. Lorsque des [b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color> diminuent, le <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> à consommer augmente de 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "136042": {
         "_id": 136042,
-        "Name": "Crystal Shield",
-        "Desc": "<color style='color:#FFFFFFFF'>When your active character takes DMG: </color>Decrease DMG taken by 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>When Geo Elemental Equipment leaves play:</color> Remove this effect.",
+        "Name": "Bouclier de cristal",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage subit des DGT : </color>Diminue les DGT de 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color><br>Lorsque l'<color style='color:#FFFFFFFF'>Équipement Géo quitte le terrain : </color>Annule cet état.",
         "Tag": [],
         "Cost": {}
     },
     "136051": {
         "_id": 136051,
-        "Name": "Spirit of Omen: Stone Drake",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deals 1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color><br><color style='color:#FFFFFFFF'>When this Summon is in play, when Eremite Stone Enchanter takes DMG:</color> DMG received reduced by 2. Consume 1 additional <color style='color:#FFFFFFFF'>Usage(s)</color> when negating [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>. (Once per Round. Usage consumption required)",
+        "Name": "Esprit sinistre du varan de pierre",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color><br><color style='color:#FFFFFFFF'>Lorsque cette invocation est sur le terrain et que l'Enchanteur graveleux des Érémites subit des DGT : </color>Diminue les DGT de 2. Diminuer des [b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color> consomme un <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> supplémentaire. (1 fois par manche, diminue le nombre d'utilisations)",
         "Tag": [],
         "Cost": {}
     },
     "137011": {
         "_id": 137011,
-        "Name": "Aerial Superiority",
-        "Desc": "The character <color style='color:#FFFFFFFF'>takes -1 DMG</color>. (This character will permanently change its State if it takes [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> or [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.)",
+        "Name": "Supériorité aérienne",
+        "Desc": "<color style='color:#FFFFFFFF'>DGT subis par le personnage -1</color>. (Le personnage change définitivement d'état après avoir subi des [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color> ou des [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>.)",
         "Tag": [],
         "Cost": {}
     },
     "137012": {
         "_id": 137012,
-        "Name": "Scorched",
-        "Desc": "After this character becomes Scorched, it will lose its original buff.",
+        "Name": "État calciné",
+        "Desc": "Après que le personnage devient calciné, il perd son bonus d'origine.",
         "Tag": [],
         "Cost": {}
     },
     "137013": {
         "_id": 137013,
-        "Name": "Activated",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> The character gains 1 Energy.<br><color style='color:#FFFFFFFF'>After the character goes down</color>: The opposing active character gains 1 Energy.",
+        "Name": "État activé",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Accorde 1 charge au personnage.<br><color style='color:#FFFFFFFF'>Quand le personnage est éliminé : </color>Accorde 1 charge au personnage actif adverse.",
         "Tag": [],
         "Cost": {}
     },
     "137021": {
         "_id": 137021,
-        "Name": "Crudewood Greatshield",
-        "Desc": "The character to which this is attached <color style='color:#FFFFFFFF'>takes -2 DMG</color>.<br>This status will provide 2 instances of <color style='color:#7EC236FF'>Dendro Application</color> (Can be depleted using Elemental Reactions): Once the instances are depleted, this status will be removed.",
+        "Name": "Grand bouclier d'aubier",
+        "Desc": "<color style='color:#FFFFFFFF'>DGT subis -2</color> pour le personnage affecté.<br>Cet état <color style='color:#7EC236FF'>applique l'élément Dendro</color> 2 fois (Peut être consommé par une réaction élémentaire) : Une fois épuisé, l'état est annulé.",
         "Tag": [],
         "Cost": {}
     },
     "137031": {
         "_id": 137031,
-        "Name": "Vines",
-        "Desc": "<color style='color:#FFFFFFFF'>After a character switch takes place in this play area:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color> to the character activated.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Liane",
+        "Desc": "<color style='color:#FFFFFFFF'>Après un changement de personnage dans le camp concerné : </color>Inflige 1 pt de [b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color> au personnage activé.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "137041": {
         "_id": 137041,
-        "Name": "Delayed Fuse Munitions",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>, deal <color style='color:#FFFFFFFF'>1 <color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters on standby.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Explosif à retardement",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 2 pts de [b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color> et inflige <color style='color:#FFFFFFFF'>1 pt de <color style='color:#FFFFFFFF'>DGT de perforation</color></color> à tous les personnages adverses en attente.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "301102": {
         "_id": 301102,
-        "Name": "Millennial Movement: Farewell Song",
-        "Desc": "Your character deals 1 increased DMG.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2</color>",
+        "Name": "Concert du millénaire : Chant d'adieu",
+        "Desc": "DGT infligés par votre personnage +1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Durée en manches</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "301201": {
         "_id": 301201,
-        "Name": "Unmovable Mountain",
-        "Desc": "Provides 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> to protect the equipped character.",
+        "Name": "Aussi immobile que la montagne",
+        "Desc": "Accorde 2 pts de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> au personnage affecté.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -8654,57 +8655,57 @@ var _ref = {
     },
     "301018": {
         "_id": 301018,
-        "Name": "Strictly Prohibited",
-        "Desc": "Event Cards played on this side of the field this Round will be invalid.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Interdiction totale",
+        "Desc": "Pendant la manche, les cartes d'événement que le camp concerné joue n'auront aucun effet.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "303227": {
         "_id": 303227,
-        "Name": "Four-Leaf Sigil",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Switch to the attached character.",
+        "Name": "Insigne de trèfle",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Bascule pour le personnage affecté.",
         "Tag": [],
         "Cost": {}
     },
     "401001": {
         "_id": 401001,
-        "Name": "Hot Potato",
-        "Desc": "<color style='color:#FFFFFFFF'>After your character uses Skill: </color>This effect will be transferred to the opposing side and accumulate 1 point of Piping Hot (max 4 points). <color style='color:#FFFFFFFF'>End Phase: </color>Remove this effect and deal 2 [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> to the side where this effect is attached to. Each point of Piping Hot grants +1 DMG to this effect.",
+        "Name": "Bombe brûlante",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage a utilisé une capacité : </color>L'effet passe dans le camp adverse et cumule 1 pt de «chaud bouillant » (Peut être cumulé jusqu'à 4 pts). <color style='color:#FFFFFFFF'>Phase finale : </color>Annule l'effet et inflige 2 pts de [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> au personnage actif du camp où se trouve la bombe, ces DGT augmentant de 1 pour chaque cumul de « chaud bouillant ».",
         "Tag": [],
         "Cost": {}
     },
     "402002": {
         "_id": 402002,
-        "Name": "Mutation Stone: Shaman's Treasure",
-        "Desc": "Your active character <color style='color:#FFFFFFFF'>deals +2 DMG</color>.",
+        "Name": "Pierre de mutation : Trésor de shaman",
+        "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par votre personnage actif +2</color>.",
         "Tag": [],
         "Cost": {}
     },
     "402003": {
         "_id": 402003,
-        "Name": "Ignited Morale",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+        "Name": "Moral enflammé",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté est éliminé : </color>L'effet est annulé et le personnage <color style='color:#FFFFFFFF'>Élimination évitée</color> tout en ayant ses PV ajustés à 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>",
         "Tag": [],
         "Cost": {}
     },
     "402004": {
         "_id": 402004,
-        "Name": "Belligerence Unfettered",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+        "Name": "Ferveur redoublée",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté est éliminé : </color>L'effet est annulé et le personnage <color style='color:#FFFFFFFF'>Élimination évitée</color> tout en ayant ses PV ajustés à 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
         "Tag": [],
         "Cost": {}
     },
     "402005": {
         "_id": 402005,
-        "Name": "Blazing Will",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached would be defeated:</color> Remove this effect, ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color> and heal them to 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+        "Name": "Volonté ardente",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté est éliminé : </color>L'effet est annulé et le personnage <color style='color:#FFFFFFFF'>Élimination évitée</color> tout en ayant ses PV ajustés à 1.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>",
         "Tag": [],
         "Cost": {}
     },
     "402007": {
         "_id": 402007,
-        "Name": "Energy Revival",
-        "Desc": "This effect starts out with 3 Revival Phases. <color style='color:#FFFFFFFF'>After the Pure Electro Hypostasis uses a Skill:</color> -1 Revival Phase. If the Revival Phases are fully elapsed, remove this effect and end <color style='color:#FFFFFFFF'>Expose Weakness</color>. Then, each point remaining of the <color style='color:#FFFFFFFF'>Revival Prism</color>'s Prismatic Energy will heal the Pure Electro Hypostasis for 2 HP.",
+        "Name": "Réveil énergétique",
+        "Desc": "Entre sur le terrain avec 3 phases de récupération. <color style='color:#FFFFFFFF'>Lorsque l'Hypostase Électro pure a utilisé une capacité : </color>Phases de récupération -1. Lorsque les phases de récupération sont épuisées, l'effet est annulé et l'<color style='color:#FFFFFFFF'>Exposition des faiblesses</color> prend fin. Ensuite, chaque point d'énergie prismatique restant au <color style='color:#FFFFFFFF'>prisme</color> soigne l'Hypostase Électro pure pour 2 pts.",
         "Tag": [
             "GCG_TAG_SHEILD"
         ],
@@ -8712,43 +8713,43 @@ var _ref = {
     },
     "402011": {
         "_id": 402011,
-        "Name": "Expose Weakness",
-        "Desc": "While this effect is active, <color style='color:#FFFFFFFF'>Pure Electro Hypostasis</color>'s <color style='color:#FFFFFFFF'>Revival Prism</color> will take damage on their behalf.<br>(When the character takes Elemental Reaction DMG, the Revival Prism's <color style='color:#FFFFFFFF'>Prismatic Energy</color> will be expended. Concurrently, character will be immune to all damage.)",
+        "Name": "Exposition des faiblesses",
+        "Desc": "Tant que l'effet est présent : Le <color style='color:#FFFFFFFF'>prisme</color> de l'<color style='color:#FFFFFFFF'>Hypostase Électro pure</color> subit les DGT à sa place.<br>(Lorsque le personnage subit des DGT d'une réaction élémentaire, l'<color style='color:#FFFFFFFF'>énergie prismatique</color> est consommée et le personnage est immunisé contre tous les DGT subis.)",
         "Tag": [],
         "Cost": {}
     },
     "402013": {
         "_id": 402013,
-        "Name": "Amplified Enhancement: Ousia",
-        "Desc": "Your characters deal +1 DMG.<br><color style='color:#FFFFFFFF'>When your active character takes DMG that is not [b]3505[a]Arkhe: Pneuma aligned:</color> Negate 2 DMG.<br><color style='color:#FFFFFFFF'>After your active character takes DMG that is [b]3505[a]Arkhe: Pneuma aligned:</color> A Pneuma-Ousia Annihilation Reaction occurs, and remove this effect.",
+        "Name": "Augmentation renforcée : Ousia",
+        "Desc": "DGT infligés par votre personnage +1.<br><color style='color:#FFFFFFFF'>Lorsque votre personnage actif subit des DGT n'étant pas chargés d'énergie d'[b]3505[a]Arkhe pneuma : </color>Diminue les DGT de 2.<br><color style='color:#FFFFFFFF'>Lorsque le personnage a subi des DGT chargés d'énergie d'[b]3505[a]Arkhe pneuma : </color>Déclenche une Réaction d'annihilation des énergies pneuma et ousia et annule l'effet.",
         "Tag": [],
         "Cost": {}
     },
     "402014": {
         "_id": 402014,
-        "Name": "Skyward Patrol",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached takes DMG:</color> Negate 2 DMG.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>. After uses are exhausted, the character enters \"Exhausted Plunge\" status.",
+        "Name": "Patrouille céleste",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté subit des DGT : </color>Diminue les DGT de 2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>. Lorsque les utilisations sont épuisées, le personnage passe en Chute épuisante.",
         "Tag": [],
         "Cost": {}
     },
     "402015": {
         "_id": 402015,
-        "Name": "Exhausted Plunge",
-        "Desc": "Attached character takes +1 DMG.<br>This effect starts off with 3 \"Takeoff Countdown Points.\"<br><color style='color:#FFFFFFFF'>After the character to which this is attached uses a skill:</color> Lose 1 \"Takeoff Countdown Point.\" Once all \"Takeoff Countdown Points\" are removed, this effect is removed, and the character returns to \"Skyward Patrol\" status.",
+        "Name": "Chute épuisante",
+        "Desc": "DGT subis par le personnage affecté +1.<br>Entre sur le terrain avec 3 pts de décompte d'envol.<br><color style='color:#FFFFFFFF'>Lorsque le personnage affecté a utilisé une capacité : </color>Décompte d'envol -1 pt. Lorsque les points de décompte d'envol sont épuisés, l'effet est annulé et le personnage retourne en état de Patrouille céleste.",
         "Tag": [],
         "Cost": {}
     },
     "402020": {
         "_id": 402020,
-        "Name": "Multiplied Damage",
-        "Desc": "DMG dealt by your characters +1; DMG further increased by 1 for each stack of Multiplied Damage.<br>Multiplied Damage can stack up to 3 times.",
+        "Name": "Multiplication des dommages",
+        "Desc": "DGT infligés par votre personnage +1. Chaque cumul de multiplication des dommages augmente davantage les DGT de 1.<br>La multiplication des dommages peut être cumulée 3 fois maximum.",
         "Tag": [],
         "Cost": {}
     },
     "403027": {
         "_id": 403027,
-        "Name": "Pneuma Block",
-        "Desc": "During this Round, DMG dealt by your characters has [b]3505[a]Arkhe: Pneuma. (Including DMG dealt by elemental reactions triggered by said characters)<br>After dealing DMG to a target with \"Ousia\" once, remove this effect.",
+        "Name": "Bloc pneuma",
+        "Desc": "Pendant la manche, les DGT infligés par votre personnage se chargent d'énergie d'[b]3505[a]Arkhe pneuma. (Y compris les DGT des réactions élémentaires)<br>Après avoir infligé 1 fois des DGT à une cible chargée d'énergie ousia : L'effet est annulé.",
         "Tag": [
             "GCG_TAG_ARKHE_OUSIA"
         ],
@@ -8756,8 +8757,8 @@ var _ref = {
     },
     "403028": {
         "_id": 403028,
-        "Name": "Ousia Block: Persistent",
-        "Desc": "DMG dealt by your characters has [b]3504[a]Arkhe: Ousia. (Including DMG dealt by elemental reactions triggered by said characters)",
+        "Name": "Bloc ousia : Persistance",
+        "Desc": "Les DGT infligés par votre personnage se chargent d'énergie d'[b]3504[a]Arkhe ousia. (Y compris les DGT des réactions élémentaires)",
         "Tag": [
             "GCG_TAG_ARKHE_PNEUMA"
         ],
@@ -8765,8 +8766,8 @@ var _ref = {
     },
     "403029": {
         "_id": 403029,
-        "Name": "Pneuma Block: Persistent",
-        "Desc": "DMG dealt by your characters has [b]3505[a]Arkhe: Pneuma. (Including DMG dealt by elemental reactions triggered by said characters)",
+        "Name": "Bloc pneuma : Persistance",
+        "Desc": "Les DGT infligés par votre personnage se chargent d'énergie d'[b]3505[a]Arkhe pneuma. (Y compris les DGT des réactions élémentaires)",
         "Tag": [
             "GCG_TAG_ARKHE_OUSIA"
         ],
@@ -8774,8 +8775,8 @@ var _ref = {
     },
     "403030": {
         "_id": 403030,
-        "Name": "Surging Will",
-        "Desc": "<color style='color:#FFFFFFFF'>After you play a Support Card:</color> Create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>, draw 1 card. (Once per Round)",
+        "Name": "Aide volontaire",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous avez joué une carte de soutien : </color>Crée 1 dé <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color> et pioche 1 carte. (1 fois par manche)",
         "Tag": [],
         "Cost": {}
     }
@@ -8783,80 +8784,80 @@ var _ref = {
 
 var _keyword = {
     "1": {
-        "Name": "<color style='color:#FFFFFFFF'>Combat Action</color>",
-        "Desc": "After you finish 1 Combat Action, it will be your opponent's turn.<br><color style='color:#FFFFFFFF'>Playing a card from your Hand with this rule is also a Combat Action rather than a Fast Action</color>."
+        "Name": "<color style='color:#FFFFFFFF'>Action de combat</color>",
+        "Desc": "Après que vous terminez 1 action de combat, c'est au tour de votre adversaire.<br><color style='color:#FFFFFFFF'>Jouer une carte de votre main contenant cette règle est considéré comme une action de combat, et non pas comme une action rapide.</color>"
     },
     "2": {
-        "Name": "<color style='color:#FFFFFFFF'>Fast Action</color>",
-        "Desc": "You can continue with other actions after conducting 1 Fast Action.<br>Only after conducting 1 Combat Action will the turn pass over to your opponent."
+        "Name": "<color style='color:#FFFFFFFF'>Action rapide</color>",
+        "Desc": "Vous pouvez continuer d'effectuer des actions après avoir effectué 1 action rapide.<br>Ce n'est qu'après avoir effectué 1 action de combat que le tour passe à votre adversaire."
     },
     "3": {
-        "Name": "<color style='color:#FFFFFFFF'>Usage(s)</color>",
-        "Desc": "After this card's effect is triggered, 1 <color style='color:#FFFFFFFF'>Usage</color> of it will be consumed.<br>This card will be discarded immediately once it has 0 <color style='color:#FFFFFFFF'>Usages</color> remaining."
+        "Name": "<color style='color:#FFFFFFFF'>Nombre d'utilisations</color>",
+        "Desc": "Après le déclenchement de l'effet de cette carte, 1 de ses <color style='color:#FFFFFFFF'>utilisations</color> est consommée.<br>Une carte est immédiatement défaussée une fois toutes ses <color style='color:#FFFFFFFF'>utilisations</color> épuisées."
     },
     "4": {
-        "Name": "<color style='color:#FFFFFFFF'>Duration (Rounds)</color>",
-        "Desc": "Each time you reach the end of a Round, <color style='color:#FFFFFFFF'>Duration (Rounds)</color> -1.<br>This card will be discarded immediately once <color style='color:#FFFFFFFF'>Duration (Rounds)</color> runs out."
+        "Name": "<color style='color:#FFFFFFFF'>Durée en manches</color>",
+        "Desc": "À chaque fin de manche, <color style='color:#FFFFFFFF'>durée en manches</color> -1.<br>Une carte est immédiatement défaussée une fois la <color style='color:#FFFFFFFF'>durée en manches</color> épuisée."
     },
     "5": {
-        "Name": "<color style='color:#FFFFFFFF'>Piercing DMG</color>",
-        "Desc": "Piercing DMG cannot be increased by any bonuses, but cannot be defended against using Shields or DMG Immunity either."
+        "Name": "<color style='color:#FFFFFFFF'>DGT de perforation</color>",
+        "Desc": "Les DGT de perforation ne peuvent être augmentés par aucun bonus, mais ne peuvent pas non plus être bloqués par l'utilisation de boucliers ou d'immunités aux DGT."
     },
     "6": {
-        "Name": "[b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>",
-        "Desc": "This Shield will be consumed to protect the character who equips it from DMG."
+        "Name": "[b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color>",
+        "Desc": "Un bouclier qui absorbe les DGT reçus par le personnage qu'il protège."
     },
     "7": {
-        "Name": "<color style='color:#FFFFFFFF'>Character Closest to Your Current Active Character</color>",
-        "Desc": "The opposing \"character closest to your current active character\" is the opposing character whose position is closest to that of your active character.<br>If multiple such characters exist, the one with the foremost position will be viewed as being \"closest.\""
+        "Name": "<color style='color:#FFFFFFFF'>Personnage le plus proche de votre personnage actif</color>",
+        "Desc": "Le « personnage le plus proche de votre personnage actif » correspond au personnage adverse dont l'emplacement est le plus proche de celui de votre personnage actif.<br>Si plusieurs de ces personnages existent, celui avec l'emplacement le plus avancé est considéré comme étant le plus proche."
     },
     "51": {
-        "Name": "<color style='color:#FFFFFFFF'>Charged Attack</color>",
-        "Desc": "Before your Action Phase, should the total number of your Elemental Dice be even, your Normal Attack will be considered a Charged Attack."
+        "Name": "<color style='color:#FFFFFFFF'>Attaque chargée</color>",
+        "Desc": "Avant votre phase d'action, si le total de vos dés élémentaires est un nombre pair, l'attaque normale utilisée est considérée comme une attaque chargée."
     },
     "52": {
-        "Name": "<color style='color:#FFFFFFFF'>Plunging Attack</color>",
-        "Desc": "After a character is switched in to be the Active Character, should their next Combat Action within this Round be a Normal Attack, it will be considered a Plunging Attack for the instance."
+        "Name": "<color style='color:#FFFFFFFF'>Attaque plongeante</color>",
+        "Desc": "Après avoir basculé un personnage en personnage actif, si sa prochaine action de combat dans la manche est une attaque normale, elle est considérée comme une attaque plongeante."
     },
     "53": {
-        "Name": "<color style='color:#FFFFFFFF'>Prepare Skill</color>",
-        "Desc": "Some Skills cannot be used directly. Instead, they need to be <color style='color:#FFFFFFFF'>prepared</color> over a certain number of turns.<br>When it is a certain player's turn, and this player's active character is currently <color style='color:#FFFFFFFF'>preparing</color> a Skill, this player's turn will be skipped. If the Skill has finished being <color style='color:#FFFFFFFF'>prepared</color>, the character will directly use that Skill at this time. (Skills that require <color style='color:#FFFFFFFF'>preparing</color> cannot activate effects triggered by \"using a Skill\" or \"triggering an Elemental Reaction\" or other such effects.)<br>Only active characters can <color style='color:#FFFFFFFF'>prepare</color> Skills, and if an active character who is <color style='color:#FFFFFFFF'>preparing</color> a Skill gets switched off-field, their <color style='color:#FFFFFFFF'>preparation</color> will be interrupted."
+        "Name": "<color style='color:#FFFFFFFF'>Préparation de capacité</color>",
+        "Desc": "Certaines capacités ne peuvent pas être utilisées directement. Au lieu de cela, il est nécessaire de les <color style='color:#FFFFFFFF'>préparer</color> pendant un certain nombre de tours.<br>Lorsque c'est le tour d'un joueur et que son personnage actif est en train de <color style='color:#FFFFFFFF'>préparer</color> une capacité, le tour est sauté. Si la <color style='color:#FFFFFFFF'>préparation</color> est terminée, le personnage utilise directement la capacité à ce moment-là. (Les capacités nécessitant une <color style='color:#FFFFFFFF'>préparation</color> ne peuvent pas activer les effets déclenchés lorsque vous avez « utilisé une capacité » ou « déclenché une réaction élémentaire »)<br>Seul le personnage actif peut <color style='color:#FFFFFFFF'>préparer</color> une capacité. Si un personnage actif en train de <color style='color:#FFFFFFFF'>préparer</color> une capacité passe en attente, la <color style='color:#FFFFFFFF'>préparation</color> est interrompue."
     },
     "54": {
-        "Name": "<color style='color:#FFFFFFFF'>Immunity to Defeat</color>",
-        "Desc": "Certain effects will grant characters an <color style='color:#FFFFFFFF'>immunity to being defeated</color> when their HP hits 0, and will heal them for a certain amount thereafter.<br>When this occurs, characters will not be regarded as having experienced a <color style='color:#FFFFFFFF'>defeat.</color> (Hence, their attached equipment and statuses will not be removed, and their Energy will remain uncleared.)"
+        "Name": "<color style='color:#FFFFFFFF'>Élimination évitée</color>",
+        "Desc": "Certains effets accordent aux personnages une <color style='color:#FFFFFFFF'>immunité contre la mort</color> lorsque leurs PV tombent à zéro, les soignant alors pour une certaine quantité de PV.<br>Lorsque cela se produit, les personnages ne sont pas considérés comme <color style='color:#FFFFFFFF'>ayant été éliminés</color>. (Ainsi, les équipements et les états du personnage affecté ne sont pas défaussés, et ses charges ne sont pas supprimées.)"
     },
     "100": {
-        "Name": "[b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color>",
-        "Desc": "Physical DMG will not apply any Elements, nor can it engage in Elemental Reactions."
+        "Name": "[b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color>",
+        "Desc": "Les DGT physiques n'appliquent aucun élément et ne peuvent pas non plus déclencher de réactions élémentaires."
     },
     "101": {
-        "Name": "[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>",
-        "Desc": "Applies [b]2101[a]Cryo and can trigger the following Elemental Reactions:<br>[b]2101[a][b]2103[a]<color style='color:#FFFFFFFF'>Melt</color>: DMG +2 for this instance<br>[b]2101[a][b]2104[a]<color style='color:#FFFFFFFF'>Superconduct</color>: DMG +1 for this instance, deal 1 Piercing DMG to all opposing characters except the target<br>[b]2101[a][b]2102[a]<color style='color:#FFFFFFFF'>Frozen</color>: DMG +1 for this instance, the target is unable to perform any Actions this Round (Can be removed in advance after the target receives Physical or Pyro DMG, in which case they will take +2 DMG)"
+        "Name": "[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color>",
+        "Desc": "Applique l'élément [b]2101[a]Cryo et peut déclencher les réactions élémentaires :<br>[b]2101[a][b]2103[a]<color style='color:#FFFFFFFF'>Fonte</color> : DGT actuels +2<br>[b]2101[a][b]2104[a]<color style='color:#FFFFFFFF'>Supraconduction</color> : DGT actuels +1 et inflige 1 pt de DGT de perforation à tous les personnages adverses autres que la cible<br>[b]2101[a][b]2102[a]<color style='color:#FFFFFFFF'>Gel</color> : DGT actuels +1 et immobilise la cible pendant la manche actuelle (Peut être annulé en avance en subissant des DGT physiques ou Pyro, mais DGT +2)"
     },
     "102": {
-        "Name": "[b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>",
-        "Desc": "Applies [b]2102[a]Hydro and can trigger the following Elemental Reactions:<br>[b]2102[a][b]2103[a]<color style='color:#FFFFFFFF'>Vaporize</color>: DMG +2 for this instance<br>[b]2102[a][b]2104[a]<color style='color:#FFFFFFFF'>Electro-Charged</color>：DMG +1 for this instance, deal 1 Piercing DMG to all opposing characters except the target<br>[b]2102[a][b]2101[a]<color style='color:#FFFFFFFF'>Frozen</color>: DMG +1 for this instance, the target is unable to perform any Actions this Round (Can be removed in advance after the target receives +2 Physical or Pyro DMG)<br>[b]2102[a][b]2107[a]<color style='color:#FFFFFFFF'>Bloom</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Dendro Core</color>] that grants +2 DMG to the next instance of Pyro or Electro DMG"
+        "Name": "[b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color>",
+        "Desc": "Applique l'élément [b]2102[a]Hydro et peut déclencher les réactions élémentaires :<br>[b]2102[a][b]2103[a]<color style='color:#FFFFFFFF'>Évaporation</color> : DGT actuels +2<br>[b]2102[a][b]2104[a]<color style='color:#FFFFFFFF'>Électrocution</color> : DGT actuels +1 et inflige 1 pt de DGT de perforation à tous les personnages adverses autres que la cible<br>[b]2102[a][b]2101[a]<color style='color:#FFFFFFFF'>Gel</color> : DGT actuels +1 et immobilise la cible pendant la manche actuelle (Peut être annulé en avance en subissant des DGT physiques ou Pyro, mais DGT +2)<br>[b]2102[a][b]2107[a]<color style='color:#FFFFFFFF'>Fleurissement</color> : DGT actuels +1 et crée un <color style='color:#FFFFFFFF'>noyau Dendro</color> qui augmente le prochain coup de DGT Pyro ou Électro de 2"
     },
     "103": {
-        "Name": "[b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>",
-        "Desc": "Applies [b]2103[a]Pyro and can trigger the following Elemental Reactions:<br>[b]2103[a][b]2101[a]<color style='color:#FFFFFFFF'>Melt</color>: DMG +2 for this instance<br>[b]2103[a][b]2102[a]<color style='color:#FFFFFFFF'>Vaporize</color>: DMG +2 for this instance<br>[b]2103[a][b]2104[a]<color style='color:#FFFFFFFF'>Overloaded</color>: DMG +2 for this instance, the target is forcibly switched to the next character<br>[b]2103[a][b]2107[a]<color style='color:#FFFFFFFF'>Burning</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Burning Flame</color>] that will deal 1 Pyro DMG at the end of the Round (Takes effect once, max 2 stacks)"
+        "Name": "[b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>",
+        "Desc": "Applique l'élément [b]2103[a]Pyro et peut déclencher les réactions élémentaires :<br>[b]2103[a][b]2101[a]<color style='color:#FFFFFFFF'>Fonte</color> : DGT actuels +2<br>[b]2103[a][b]2102[a]<color style='color:#FFFFFFFF'>Évaporation</color> : DGT actuels +2<br>[b]2103[a][b]2104[a]<color style='color:#FFFFFFFF'>Surcharge</color> : DGT actuels +2 et bascule de force la cible pour le personnage suivant<br>[b]2103[a][b]2107[a]<color style='color:#FFFFFFFF'>Brûlure</color> : DGT actuels +1 et crée une <color style='color:#FFFFFFFF'>flamme brûlante</color> qui inflige 1 pt de DGT Pyro à la fin de la manche (Utilisable 1 fois, 2 cumuls maximum)"
     },
     "104": {
-        "Name": "[b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>",
-        "Desc": "Applies [b]2104[a]Electro and can trigger the following Elemental Reactions:<br>[b]2104[a][b]2103[a]<color style='color:#FFFFFFFF'>Overloaded</color>: DMG +2 for this instance, the target is forcibly switched to the next character<br>[b]2104[a][b]2101[a]<color style='color:#FFFFFFFF'>Superconduct</color>: DMG +1 for this instance, deal 1 Piercing DMG to all opposing characters except the target<br>[b]2104[a][b]2102[a]<color style='color:#FFFFFFFF'>Electro-Charged</color>: DMG +1 for this instance, deal 1 Piercing DMG to all opposing characters except the target<br>[b]2104[a][b]2107[a]<color style='color:#FFFFFFFF'>Quicken</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Catalyzing Field</color>] that grants +1 DMG to the next 2 instances of Dendro or Electro DMG"
+        "Name": "[b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>",
+        "Desc": "Applique l'élément [b]2104[a]Électro et peut déclencher les réactions élémentaires :<br>[b]2104[a][b]2103[a]<color style='color:#FFFFFFFF'>Surcharge</color> : DGT actuels +2 et bascule de force la cible pour le personnage suivant<br>[b]2104[a][b]2101[a]<color style='color:#FFFFFFFF'>Supraconduction</color> : DGT actuels +1 et inflige 1 pt de DGT de perforation à tous les personnages adverses autres que la cible<br>[b]2104[a][b]2102[a]<color style='color:#FFFFFFFF'>Électrocution</color> : DGT actuels +1 et inflige 1 pt de DGT de perforation à tous les personnages adverses autres que la cible<br>[b]2104[a][b]2107[a]<color style='color:#FFFFFFFF'>Stimulation</color> : DGT actuels +1 et crée un <color style='color:#FFFFFFFF'>champ catalyseur</color> qui augmente les 2 prochains coups de DGT Dendro ou Électro de 1"
     },
     "105": {
-        "Name": "[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>",
-        "Desc": "Reacts with Elements if they are already applied:<br>[b]2105[a][b]2101[a]<color style='color:#FFFFFFFF'>Cryo Swirl</color>: Deals 1 Cryo DMG to all opposing characters except the target<br>[b]2105[a][b]2102[a]<color style='color:#FFFFFFFF'>Hydro Swirl</color>: Deals 1 Hydro DMG to all opposing characters except the target<br>[b]2105[a][b]2103[a]<color style='color:#FFFFFFFF'>Pyro Swirl</color>: Deals 1 Pyro DMG to all opposing characters except the target<br>[b]2105[a][b]2104[a]<color style='color:#FFFFFFFF'>Electro Swirl</color>: Deals 1 Electro DMG to all opposing characters except the target"
+        "Name": "[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color>",
+        "Desc": "Réagit avec les éléments déjà appliqués pour déclencher les réactions élémentaires :<br>[b]2105[a][b]2101[a]<color style='color:#FFFFFFFF'>Dispersion Cryo</color> : Inflige 1 pt de DGT Cryo à tous les personnages adverses autres que la cible<br>[b]2105[a][b]2102[a]<color style='color:#FFFFFFFF'>Dispersion Hydro</color> : Inflige 1 pt de DGT Hydro à tous les personnages adverses autres que la cible<br>[b]2105[a][b]2103[a]<color style='color:#FFFFFFFF'>Dispersion Pyro</color> : Inflige 1 pt de DGT Pyro à tous les personnages adverses autres que la cible<br>[b]2105[a][b]2104[a]<color style='color:#FFFFFFFF'>Dispersion Électro</color> : Inflige 1 pt de DGT Électro à tous les personnages adverses autres que la cible"
     },
     "106": {
-        "Name": "[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>",
-        "Desc": "Reacts with Elements if they are already applied:<br>[b]2106[a][b]2101[a]<color style='color:#FFFFFFFF'>Cryo Crystallize</color>: DMG +1 for this instance, your active character gains 1 Shield point (Can stack, max 2 points)<br>[b]2106[a][b]2102[a]<color style='color:#FFFFFFFF'>Hydro Crystallize</color>: DMG +1 for this instance, your active character gains 1 Shield point (Can stack, max 2 points)<br>[b]2106[a][b]2103[a]<color style='color:#FFFFFFFF'>Pyro Crystallize</color>: DMG +1 for this instance, your active character gains 1 Shield point (Can stack, max 2 points)<br>[b]2106[a][b]2104[a]<color style='color:#FFFFFFFF'>Electro Crystallize</color>: DMG +1 for this instance, your active character gains 1 Shield point (Can stack, max 2 points)"
+        "Name": "[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color>",
+        "Desc": "Réagit avec les éléments déjà appliqués pour déclencher les réactions élémentaires :<br>[b]2106[a][b]2101[a]<color style='color:#FFFFFFFF'>Cristallisation Cryo</color> : DGT actuels +1 et accorde 1 pt de bouclier à votre personnage actif (Peut être cumulé, 2 pts maximum)<br>[b]2106[a][b]2102[a]<color style='color:#FFFFFFFF'>Cristallisation Hydro</color> : DGT actuels +1 et accorde 1 pt de bouclier à votre personnage actif (Peut être cumulé, 2 pts maximum)<br>[b]2106[a][b]2103[a]<color style='color:#FFFFFFFF'>Cristallisation Pyro</color> : DGT actuels +1 et accorde 1 pt de bouclier à votre personnage actif (Peut être cumulé, 2 pts maximum)<br>[b]2106[a][b]2104[a]<color style='color:#FFFFFFFF'>Cristallisation Électro</color> : DGT actuels +1 et accorde 1 pt de bouclier à votre personnage actif (Peut être cumulé, 2 pts maximum)"
     },
     "107": {
-        "Name": "[b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>",
-        "Desc": "Applies [b]2107[a]Dendro and can trigger the following Elemental Reactions:<br>[b]2107[a][b]2102[a]<color style='color:#FFFFFFFF'>Bloom</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Dendro Core</color>] that grants +2 DMG to the next instance of Pyro or Electro DMG<br>[b]2107[a][b]2103[a]<color style='color:#FFFFFFFF'>Burning</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Burning Flame</color>] that will deal 1 Pyro DMG at the end of the Round (Takes effect once, max 2 stacks)<br>[b]2107[a][b]2104[a]<color style='color:#FFFFFFFF'>Quicken</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Catalyzing Field</color>] that grants +1 DMG to the next 2 instances of Dendro or Electro DMG"
+        "Name": "[b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color>",
+        "Desc": "Applique l'élément [b]2107[a]Dendro et peut déclencher les réactions élémentaires :<br>[b]2107[a][b]2102[a]<color style='color:#FFFFFFFF'>Fleurissement</color> : DGT actuels +1 et crée un <color style='color:#FFFFFFFF'>noyau Dendro</color> qui augmente le prochain coup de DGT Pyro ou Électro de 2<br>[b]2107[a][b]2103[a]<color style='color:#FFFFFFFF'>Brûlure</color> : DGT actuels +1 et crée une <color style='color:#FFFFFFFF'>flamme brûlante</color> qui inflige 1 pt de DGT Pyro à la fin de la manche (Utilisable 1 fois, 2 cumuls maximum)<br>[b]2107[a][b]2104[a]<color style='color:#FFFFFFFF'>Stimulation</color> : DGT actuels +1 et crée un <color style='color:#FFFFFFFF'>champ catalyseur</color> qui augmente les 2 prochains coups de DGT Dendro ou Électro de 1"
     },
     "111": {
         "Name": "[b]2101[a]",
@@ -8887,181 +8888,181 @@ var _keyword = {
         "Desc": ""
     },
     "201": {
-        "Name": "<color style='color:#99FFFFFF'>[b]2101[a]Cryo Application</color>",
-        "Desc": "When [b]2101[a]Cryo is applied without dealing any DMG, the Elemental Reaction triggered will ignore DMG-dealing effects:<br>[b]2101[a][b]2103[a]<color style='color:#FFFFFFFF'>Melt</color>: No effect<br>[b]2101[a][b]2104[a]<color style='color:#FFFFFFFF'>Superconduct</color>: No effect<br>[b]2101[a][b]2102[a]<color style='color:#FFFFFFFF'>Frozen</color>: The target is unable to perform any Actions this Round (Can be removed in advance after the target receives Physical or Pyro DMG, in which case they will take +2 DMG)"
+        "Name": "<color style='color:#99FFFFFF'>Application [b]2101[a]Cryo</color>",
+        "Desc": "Lorsque l'élément [b]2101[a]Cryo est appliqué sans infliger de DGT, la réaction élémentaire déclenchée ignore les effets de DGT :<br>[b]2101[a][b]2103[a]<color style='color:#FFFFFFFF'>Fonte</color> : Aucun effet<br>[b]2101[a][b]2104[a]<color style='color:#FFFFFFFF'>Supraconduction</color> : Aucun effet<br>[b]2101[a][b]2102[a]<color style='color:#FFFFFFFF'>Gel</color> : Immobilise la cible pendant la manche actuelle (Peut être annulé en avance en subissant des DGT physiques ou Pyro, mais DGT +2)"
     },
     "202": {
-        "Name": "<color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color>",
-        "Desc": "When [b]2102[a]Hydro is applied without dealing any DMG, the Elemental Reaction triggered will ignore DMG-dealing effects:<br>[b]2102[a][b]2103[a]<color style='color:#FFFFFFFF'>Vaporize</color>: No effect<br>[b]2102[a][b]2104[a]<color style='color:#FFFFFFFF'>Electro-Charged</color>: No effect<br>[b]2102[a][b]2101[a]<color style='color:#FFFFFFFF'>Frozen</color>: The target is unable to perform any Actions this Round (Can be removed in advance after the target receives Physical or Pyro DMG, in which case they will take +2 DMG)<br>[b]2102[a][b]2107[a]<color style='color:#FFFFFFFF'>Bloom</color>: Creates a [<color style='color:#FFFFFFFF'>Dendro Core</color>] that grants +2 DMG to the next instance of Pyro or Electro DMG"
+        "Name": "<color style='color:#80C0FFFF'>Application [b]2102[a]Hydro</color>",
+        "Desc": "Lorsque l'élément [b]2102[a]Hydro est appliqué sans infliger de DGT, la réaction élémentaire déclenchée ignore les effets de DGT :<br>[b]2102[a][b]2103[a]<color style='color:#FFFFFFFF'>Évaporation</color> : Aucun effet<br>[b]2102[a][b]2104[a]<color style='color:#FFFFFFFF'>Électrocution</color> : Aucun effet<br>[b]2102[a][b]2101[a]<color style='color:#FFFFFFFF'>Gel</color> : Immobilise la cible pendant la manche actuelle (Peut être annulé en avance en subissant des DGT physiques ou Pyro, mais DGT +2)<br>[b]2102[a][b]2107[a]<color style='color:#FFFFFFFF'>Fleurissement</color> : Crée un <color style='color:#FFFFFFFF'>noyau Dendro</color> qui augmente le prochain coup de DGT Pyro ou Électro de 2"
     },
     "203": {
-        "Name": "<color style='color:#FF9999FF'>[b]2103[a]Pyro Application</color>",
-        "Desc": "When [b]2103[a]Pyro is applied without dealing any DMG, the Elemental Reaction triggered will ignore DMG-dealing effects:<br>[b]2103[a][b]2101[a]<color style='color:#FFFFFFFF'>Melt</color>: No effect<br>[b]2103[a][b]2102[a]<color style='color:#FFFFFFFF'>Vaporize</color>: No effect<br>[b]2103[a][b]2104[a]<color style='color:#FFFFFFFF'>Overloaded</color>: The target is forcibly switched to the next character<br>[b]2103[a][b]2107[a]<color style='color:#FFFFFFFF'>Burning</color>: Creates a [<color style='color:#FFFFFFFF'>Burning Flame</color>] that will deal 1 Pyro DMG at the end of the Round (Takes effect once, max 2 stacks)"
+        "Name": "<color style='color:#FF9999FF'>Application [b]2103[a]Pyro</color>",
+        "Desc": "Lorsque l'élément [b]2103[a]Pyro est appliqué sans infliger de DGT, la réaction élémentaire déclenchée ignore les effets de DGT :<br>[b]2103[a][b]2101[a]<color style='color:#FFFFFFFF'>Fonte</color> : Aucun effet<br>[b]2103[a][b]2102[a]<color style='color:#FFFFFFFF'>Évaporation</color> : Aucun effet<br>[b]2103[a][b]2104[a]<color style='color:#FFFFFFFF'>Surcharge</color> : Bascule de force la cible pour le personnage suivant<br>[b]2103[a][b]2107[a]<color style='color:#FFFFFFFF'>Brûlure</color> : Crée une <color style='color:#FFFFFFFF'>flamme brûlante</color> qui inflige 1 pt de DGT Pyro à la fin de la manche (Utilisable 1 fois, 2 cumuls maximum)"
     },
     "204": {
-        "Name": "<color style='color:#FFACFFFF'>[b]2104[a]Electro Application</color>",
-        "Desc": "When [b]2104[a]Electro is applied without dealing any DMG, the Elemental Reactions triggered will ignore DMG-dealing effects:<br>[b]2104[a][b]2103[a]<color style='color:#FFFFFFFF'>Overloaded</color>: The target is forcibly switched to the next character<br>[b]2104[a][b]2101[a]<color style='color:#FFFFFFFF'>Superconduct</color>: No effect<br>[b]2104[a][b]2102[a]<color style='color:#FFFFFFFF'>Electro-Charged</color>: No effect<br>[b]2104[a][b]2107[a]<color style='color:#FFFFFFFF'>Quicken</color>: Creates a [<color style='color:#FFFFFFFF'>Catalyzing Field</color>] that grants +1 DMG to the next 2 instances of Dendro or Electro DMG"
+        "Name": "<color style='color:#FFACFFFF'>Application [b]2104[a]Électro</color>",
+        "Desc": "Lorsque l'élément [b]2104[a]Électro est appliqué sans infliger de DGT, la réaction élémentaire déclenchée ignore les effets de DGT :<br>[b]2104[a][b]2103[a]<color style='color:#FFFFFFFF'>Surcharge</color> : Bascule de force la cible pour le personnage suivant<br>[b]2104[a][b]2101[a]<color style='color:#FFFFFFFF'>Supraconduction</color> : Aucun effet<br>[b]2104[a][b]2102[a]<color style='color:#FFFFFFFF'>Électrocution</color> : Aucun effet<br>[b]2104[a][b]2107[a]<color style='color:#FFFFFFFF'>Stimulation</color> : Crée un <color style='color:#FFFFFFFF'>champ catalyseur</color> qui augmente les 2 prochains coups de DGT Dendro ou Électro de 1"
     },
     "207": {
-        "Name": "<color style='color:#7EC236FF'>[b]2107[a]Dendro Application</color>",
-        "Desc": "When [b]2107[a]Dendro is applied without dealing any DMG, the Elemental Reaction triggered will ignore DMG-dealing effects:<br>[b]2107[a][b]2102[a]<color style='color:#FFFFFFFF'>Bloom</color>: Creates a [<color style='color:#FFFFFFFF'>Dendro Core</color>] that grants +2 DMG to the next instance of Pyro or Electro DMG<br>[b]2107[a][b]2103[a]<color style='color:#FFFFFFFF'>Burning</color>: Creates a [<color style='color:#FFFFFFFF'>Burning Flame</color>] that will deal 1 Pyro DMG at the end of the Round (Takes effect once, max 2 stacks)<br>[b]2107[a][b]2104[a]<color style='color:#FFFFFFFF'>Quicken</color>: Creates a [<color style='color:#FFFFFFFF'>Catalyzing Field</color>] that grants +1 DMG to the next 2 instances of Dendro or Electro DMG"
+        "Name": "<color style='color:#7EC236FF'>Application [b]2107[a]Dendro</color>",
+        "Desc": "Lorsque l'élément [b]2107[a]Dendro est appliqué sans infliger de DGT, la réaction élémentaire déclenchée ignore les effets de DGT :<br>[b]2107[a][b]2102[a]<color style='color:#FFFFFFFF'>Fleurissement</color> : Crée un <color style='color:#FFFFFFFF'>noyau Dendro</color> qui augmente le prochain coup de DGT Pyro ou Électro de 2<br>[b]2107[a][b]2103[a]<color style='color:#FFFFFFFF'>Brûlure</color> : Crée une <color style='color:#FFFFFFFF'>flamme brûlante</color> qui inflige 1 pt de DGT Pyro à la fin de la manche (Utilisable 1 fois, 2 cumuls maximum)<br>[b]2107[a][b]2104[a]<color style='color:#FFFFFFFF'>Stimulation</color> : Crée un <color style='color:#FFFFFFFF'>champ catalyseur</color> qui augmente les 2 prochains coups de DGT Dendro ou Électro de 1"
     },
     "212": {
-        "Name": "<color style='color:#80C0FFFF'>[b]2102[a]Hydro-Related Reactions</color>",
-        "Desc": "[b]2102[a][b]2103[a]<color style='color:#FFFFFFFF'>Vaporize</color>: DMG +2 for this instance<br>[b]2102[a][b]2104[a]<color style='color:#FFFFFFFF'>Electro-Charged</color>: DMG +1 for this instance, deal 1 Piercing DMG to all opposing characters except the target<br>[b]2102[a][b]2101[a]<color style='color:#FFFFFFFF'>Frozen</color>: DMG +1 for this instance, the target is unable to perform any Actions this Round (Can be removed in advance after the target receives Physical or Pyro DMG, in which case they will take +2 DMG)<br>[b]2102[a][b]2107[a]<color style='color:#FFFFFFFF'>Bloom</color>: Creates a [<color style='color:#FFFFFFFF'>Dendro Core</color>] that grants +2 DMG to the next instance of Pyro or Electro DMG<br>[b]2106[a][b]2102[a]<color style='color:#FFFFFFFF'>Hydro Crystallize</color>: DMG +1 for this instance, your active character gains 1 Shield point (Can stack, max 2 points)<br>[b]2105[a][b]2102[a]<color style='color:#FFFFFFFF'>Hydro Swirl</color>: Deals 1 Hydro DMG to all opposing characters except the target"
+        "Name": "<color style='color:#80C0FFFF'>Réaction liée à l'élément [b]2102[a]Hydro</color>",
+        "Desc": "[b]2102[a][b]2103[a]<color style='color:#FFFFFFFF'>Évaporation</color> : DGT actuels +2<br>[b]2102[a][b]2104[a]<color style='color:#FFFFFFFF'>Électrocution</color> : DGT actuels +1 et inflige 1 pt de DGT de perforation à tous les personnages adverses autres que la cible<br>[b]2102[a][b]2101[a]<color style='color:#FFFFFFFF'>Gel</color> : DGT actuels +1 et immobilise la cible pendant la manche actuelle (Peut être annulé en avance en subissant des DGT physiques ou Pyro, mais DGT +2)<br>[b]2102[a][b]2107[a]<color style='color:#FFFFFFFF'>Fleurissement</color> : Crée un <color style='color:#FFFFFFFF'>noyau Dendro</color> qui augmente le prochain coup de DGT Pyro ou Électro de 2<br>[b]2106[a][b]2102[a]<color style='color:#FFFFFFFF'>Cristallisation Hydro</color> : DGT actuels +1 et accorde 1 pt de bouclier à votre personnage actif (Peut être cumulé, 2 pts maximum)<br>[b]2105[a][b]2102[a]<color style='color:#FFFFFFFF'>Dispersion Hydro</color> : Inflige 1 pt de DGT Hydro à tous les personnages adverses autres que la cible"
     },
     "213": {
-        "Name": "<color style='color:#FF9999FF'>[b]2103[a]Pyro-Related Reactions</color>",
-        "Desc": "[b]2103[a][b]2101[a]<color style='color:#FFFFFFFF'>Melt</color>: DMG +2 for this instance<br>[b]2103[a][b]2102[a]<color style='color:#FFFFFFFF'>Vaporize</color>: DMG +2 for this instance<br>[b]2103[a][b]2104[a]<color style='color:#FFFFFFFF'>Overloaded</color>: DMG +2 for this instance, the target is forcibly switched to the next character<br>[b]2103[a][b]2107[a]<color style='color:#FFFFFFFF'>Burning</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Burning Flame</color>] that will deal 1 Pyro DMG at the end of the Round (Takes effect once, max 2 stacks)<br>[b]2106[a][b]2103[a]<color style='color:#FFFFFFFF'>Pyro Crystallize</color>: DMG +1 for this instance, your active character gains 1 Shield point (Can stack, max 2 points)<br>[b]2105[a][b]2103[a]<color style='color:#FFFFFFFF'>Pyro Swirl</color>: Deals 1 Pyro DMG to all opposing characters except the target"
+        "Name": "<color style='color:#FF9999FF'>Réaction liée à l'élément [b]2103[a]Pyro</color>",
+        "Desc": "[b]2103[a][b]2101[a]<color style='color:#FFFFFFFF'>Fonte</color> : DGT actuels +2<br>[b]2103[a][b]2102[a]<color style='color:#FFFFFFFF'>Évaporation</color> : DGT actuels +2<br>[b]2103[a][b]2104[a]<color style='color:#FFFFFFFF'>Surcharge</color> : DGT actuels +2 et bascule de force la cible pour le personnage suivant<br>[b]2103[a][b]2107[a]<color style='color:#FFFFFFFF'>Brûlure</color> : DGT actuels +1 et crée une <color style='color:#FFFFFFFF'>flamme brûlante</color> qui inflige 1 pt de DGT Pyro à la fin de la manche (Utilisable 1 fois, 2 cumuls maximum)<br>[b]2106[a][b]2103[a]<color style='color:#FFFFFFFF'>Cristallisation Pyro</color> : DGT actuels +1 et accorde 1 pt de bouclier à votre personnage actif (Peut être cumulé, 2 pts maximum)<br>[b]2105[a][b]2103[a]<color style='color:#FFFFFFFF'>Dispersion Pyro</color> : Inflige 1 pt de DGT Pyro à tous les personnages adverses autres que la cible"
     },
     "217": {
-        "Name": "<color style='color:#7EC236FF'>[b]2107[a]Dendro-Related Reactions</color>",
-        "Desc": "[b]2107[a][b]2102[a]<color style='color:#FFFFFFFF'>Bloom</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Dendro Core</color>] that grants +2 DMG to the next instance of Pyro or Electro DMG<br>[b]2107[a][b]2103[a]<color style='color:#FFFFFFFF'>Burning</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Burning Flame</color>] that will deal 1 Pyro DMG at the end of the Round (Takes effect once, max 2 stacks)<br>[b]2107[a][b]2104[a]<color style='color:#FFFFFFFF'>Quicken</color>: DMG +1 for this instance, creates a [<color style='color:#FFFFFFFF'>Catalyzing Field</color>] that grants +1 DMG to the next 2 instances of Dendro or Electro DMG"
+        "Name": "<color style='color:#7EC236FF'>Réaction liée à l'élément [b]2107[a]Dendro</color>",
+        "Desc": "[b]2107[a][b]2102[a]<color style='color:#FFFFFFFF'>Fleurissement</color> : DGT actuels +1 et crée un <color style='color:#FFFFFFFF'>noyau Dendro</color> qui augmente le prochain coup de DGT Pyro ou Électro de 2<br>[b]2107[a][b]2103[a]<color style='color:#FFFFFFFF'>Brûlure</color> : DGT actuels +1 et crée une <color style='color:#FFFFFFFF'>flamme brûlante</color> qui inflige 1 pt de DGT Pyro à la fin de la manche (Utilisable 1 fois, 2 cumuls maximum)<br>[b]2107[a][b]2104[a]<color style='color:#FFFFFFFF'>Stimulation</color> : DGT actuels +1 et crée un <color style='color:#FFFFFFFF'>champ catalyseur</color> qui augmente les 2 prochains coups de DGT Dendro ou Électro de 1"
     },
     "301": {
         "Name": "[b]1101[a]Cryo",
-        "Desc": "Spend the <color style='color:#99FFFFFF'>[b]1101[a]Cryo</color> Dice you have rolled to pay for this cost.<br>([b]1111[a]Omni Dice may also be used to pay for this.)"
+        "Desc": "Dépensez un dé <color style='color:#99FFFFFF'>[b]1101[a]Cryo</color> que vous avez lancé pour payer ce coût.<br>(Un dé [b]1111[a]Omni peut également être utilisé pour payer)"
     },
     "302": {
         "Name": "[b]1102[a]Hydro",
-        "Desc": "Spend the <color style='color:#80C0FFFF'>[b]1102[a]Hydro</color> Dice you have rolled to pay for this cost.<br>([b]1111[a]Omni Dice may also be used to pay for this.)"
+        "Desc": "Dépensez un dé <color style='color:#80C0FFFF'>[b]1102[a]Hydro</color> que vous avez lancé pour payer ce coût.<br>(Un dé [b]1111[a]Omni peut également être utilisé pour payer)"
     },
     "303": {
         "Name": "[b]1103[a]Pyro",
-        "Desc": "Spend the <color style='color:#FF9999FF'>[b]1103[a]Pyro</color> Dice you have rolled to pay for this cost.<br>([b]1111[a]Omni Dice may also be used to pay for this.)"
+        "Desc": "Dépensez un dé <color style='color:#FF9999FF'>[b]1103[a]Pyro</color> que vous avez lancé pour payer ce coût.<br>(Un dé [b]1111[a]Omni peut également être utilisé pour payer)"
     },
     "304": {
-        "Name": "[b]1104[a]Electro",
-        "Desc": "Spend the <color style='color:#FFACFFFF'>[b]1104[a]Electro</color> Dice you have rolled to pay for this cost.<br>([b]1111[a]Omni Dice may also be used to pay for this.)"
+        "Name": "[b]1104[a]Électro",
+        "Desc": "Dépensez un dé <color style='color:#FFACFFFF'>[b]1104[a]Électro</color> que vous avez lancé pour payer ce coût.<br>(Un dé [b]1111[a]Omni peut également être utilisé pour payer)"
     },
     "305": {
-        "Name": "[b]1105[a]Anemo",
-        "Desc": "Spend the <color style='color:#80FFD7FF'>[b]1105[a]Anemo</color> Dice you have rolled to pay for this cost.<br>([b]1111[a]Omni Dice may also be used to pay for this.)"
+        "Name": "[b]1105[a]Anémo",
+        "Desc": "Dépensez un dé <color style='color:#80FFD7FF'>[b]1105[a]Anémo</color> que vous avez lancé pour payer ce coût.<br>(Un dé [b]1111[a]Omni peut également être utilisé pour payer)"
     },
     "306": {
-        "Name": "[b]1106[a]Geo",
-        "Desc": "Spend the <color style='color:#FFE699FF'>[b]1106[a]Geo</color> Dice you have rolled to pay for this cost.<br>([b]1111[a]Omni Dice may also be used to pay for this.)"
+        "Name": "[b]1106[a]Géo",
+        "Desc": "Dépensez un dé <color style='color:#FFE699FF'>[b]1106[a]Géo</color> que vous avez lancé pour payer ce coût.<br>(Un dé [b]1111[a]Omni peut également être utilisé pour payer)"
     },
     "307": {
         "Name": "[b]1107[a]Dendro",
-        "Desc": "Spend the <color style='color:#7EC236FF'>[b]1107[a]Dendro</color> Dice you have rolled to pay for this cost.<br>([b]1111[a]Omni Dice may also be used to pay for this.)"
+        "Desc": "Dépensez un dé <color style='color:#7EC236FF'>[b]1107[a]Dendro</color> que vous avez lancé pour payer ce coût.<br>(Un dé [b]1111[a]Omni peut également être utilisé pour payer)"
     },
     "308": {
-        "Name": "<color style='color:#FFFFFFFF'>[b]1108[a]Matching Element</color>",
-        "Desc": "You must use Elemental Dice that match the number and element featured here to pay this type of cost.<br>(An [b]1111[a]Omni Die can be considered of any Element.)"
+        "Name": "<color style='color:#FFFFFFFF'>[b]1108[a]Élément identique</color>",
+        "Desc": "Vous devez dépenser des dés élémentaires correspondant au nombre et à l'élément indiqués pour payer ce type de coût.<br>(Un dé [b]1111[a]Omni peut être considéré comme n'importe quel élément)"
     },
     "309": {
-        "Name": "<color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>",
-        "Desc": "You may use Elemental Dice of any element to pay this type of cost."
+        "Name": "<color style='color:#FFFFFFFF'>[b]1109[a]Élément neutre</color>",
+        "Desc": "Vous pouvez dépenser des dés élémentaires de n'importe quel élément pour payer ce type de coût."
     },
     "310": {
-        "Name": "<color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>",
-        "Desc": "Characters must consume [b]1110[a]Energy to use their Elemental Bursts.<br>When characters use an Elemental Skill or a Normal Attack, they will gain 1 [b]1110[a]Energy."
+        "Name": "<color style='color:#FFFFFFFF'>[b]1110[a]Charge</color>",
+        "Desc": "Les personnages doivent consommer des [b]1110[a]charges pour utiliser leurs déchaînements élémentaires.<br>Lorsque les personnages utilisent une compétence élémentaire ou une attaque normale, ils gagnent 1 [b]1110[a]charge."
     },
     "311": {
-        "Name": "<color style='color:#FFFFFFFF'>[b]1112[a]Arcane Edict</color>",
-        "Desc": "Each player can only use 1 [b]3007[a]Arcane Legend card per match.<br>An [b]3007[a]Arcane Legend card can only be played should an [b]1112[a]Arcane Edict still be present. After an [b]3007[a]Arcane Legend card is played, the current match's [b]1112[a]Arcane Edict use will be consumed."
+        "Name": "<color style='color:#FFFFFFFF'>[b]1112[a]Édit arcanique</color>",
+        "Desc": "Chaque joueur ne peut utiliser qu'une seule carte d'[b]3007[a]arcane pendant une partie.<br>Un [b]1112[a]édit arcanique doit être présent pour pouvoir jouer une carte d'[b]3007[a]arcane, et jouer une carte d'[b]3007[a]arcane consomme le nombre d'utilisations de l'[b]1112[a]édit arcanique pendant la partie en cours."
     },
     "411": {
-        "Name": "<color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>",
-        "Desc": "The [b]1111[a]Omni Element can be considered as any kind of element, and can be used to pay for costs of various kinds."
+        "Name": "<color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>",
+        "Desc": "L'élément [b]1111[a]Omni peut être considéré comme n'importe quel type d'élément et dépensé pour payer des coûts de toutes sortes."
     },
     "501": {
-        "Name": "Elemental Burst",
-        "Desc": "When the character's [b]1110[a]Energy is maxed out, you can consume that [b]1110[a]Energy to use a powerful Elemental Burst."
+        "Name": "Déchaînement élémentaire",
+        "Desc": "Lorsque les [b]1110[a]charges d'un personnage sont au maximum, il peut consommer toutes ses [b]1110[a]charges pour utiliser un puissant déchaînement élémentaire."
     },
     "502": {
-        "Name": "Passive Skill",
-        "Desc": "This Skill is constantly in effect and need not to be activated."
+        "Name": "Capacité passive",
+        "Desc": "Ce type de capacité prend toujours effet et n'a pas besoin d'être activé."
     },
     "1001": {
-        "Name": "<color style='color:#FFFFFFFF'>Random Hilichurl Summon</color>",
-        "Desc": "There are 4 kinds of Hilichurl Summons in total:<br><color style='color:#FFFFFFFF'>Cryo Hilichurl Shooter</color>: Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> at the End Phase. Usage(s): 2.<br><color style='color:#FFFFFFFF'>Hydro Samachurl</color>: Deal 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> at the End Phase. Usage(s): 2.<br><color style='color:#FFFFFFFF'>Hilichurl Berserker</color>: Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> at the End Phase. Usage(s): 2.<br><color style='color:#FFFFFFFF'>Electro Hilichurl Shooter</color>: Deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color> at the End Phase. Usage(s): 2."
+        "Name": "<color style='color:#FFFFFFFF'>Invocation aléatoire de Brutocollinus</color>",
+        "Desc": "Un total de 4 types différents de Brutocollinus peuvent apparaître :<br><color style='color:#FFFFFFFF'>Arbalétrier Brutocollinus Cryo</color> : Inflige 1 pt de [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color> pendant la phase finale. Peut être utilisé 2 fois.<br><color style='color:#FFFFFFFF'>Brutoshaman Hydro</color> : Inflige 1 pt de [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color> pendant la phase finale. Peut être utilisé 2 fois.<br><color style='color:#FFFFFFFF'>Berserker Brutocollinus</color> : Inflige 1 pt de [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color> pendant la phase finale. Peut être utilisé 2 fois.<br><color style='color:#FFFFFFFF'>Arbalétrier Brutocollinus Électro</color> : Inflige 1 pt de [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color> pendant la phase finale. Peut être utilisé 2 fois."
     },
     "1002": {
-        "Name": "<color style='color:#FFFFFFFF'>Electro Infusion</color>",
-        "Desc": "When the character to which it is attached to deals [b]2100[a]<color style='color:#FFFFFFFF'>Physical Damage</color>, it will be turned into [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>.<br><color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2"
+        "Name": "<color style='color:#FFFFFFFF'>Enchantement Électro</color>",
+        "Desc": "Les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés par le personnage affecté sont convertis en [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>.<br><color style='color:#FFFFFFFF'>Durée en manches :</color>2"
     },
     "1003": {
-        "Name": "<color style='color:#FFFFFFFF'>Crowfeather Cover</color>",
-        "Desc": "The character with this attached deals +1 <color style='color:#FFFFFFFF'>Elemental Skill</color> and <color style='color:#FFFFFFFF'>Elemental Burst</color> DMG.<br><color style='color:#FFFFFFFF'>Usages: 2</color>"
+        "Name": "<color style='color:#FFFFFFFF'>Couverture corvidée</color>",
+        "Desc": "DGT infligés par les <color style='color:#FFFFFFFF'>compétences élémentaires</color> et les <color style='color:#FFFFFFFF'>déchaînements élémentaires</color> du personnage affecté +1.<br><color style='color:#FFFFFFFF'>Nombre d'utilisations : 2</color>"
     },
     "1004": {
-        "Name": "<color style='color:#FFFFFFFF'>Fatui Ambusher</color>",
-        "Desc": "Fatui Ambushers will trigger their effects after characters on the side of the field they are at use Skills, and will deal DMG to the active character on that side of the field. (Once per Round)<br>There are 4 kinds of Fatui Ambushers in total:<br><color style='color:#FFFFFFFF'>Cryo Cicin Mage</color>: Deals 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> when triggered, 2 Usages.<br><color style='color:#FFFFFFFF'>Mirror Maiden</color>: Deals 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> when triggered, 2 Usages.<br><color style='color:#FFFFFFFF'>Pyroslinger Bracer</color>: Deals 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> when triggered, 2 Usages.<br><color style='color:#FFFFFFFF'>Electrohammer Vanguard</color>: Deals 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color> when triggered, 2 Usages."
+        "Name": "<color style='color:#FFFFFFFF'>Fatui embusqué</color>",
+        "Desc": "Les Fatui embusqués déclenchent leurs effets après que les personnages du camp où ils se trouvent utilisent des capacités, infligeant ainsi des DGT au personnage actif de ce camp. (1 fois par manche)<br>Un total de 4 types différents de Fatui embusqués peuvent apparaître :<br><color style='color:#FFFFFFFF'>Mage cryoluciole</color> : Inflige 1 pt de [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color> lors du déclenchement. Peut être utilisé 2 fois.<br><color style='color:#FFFFFFFF'>Suivante miroir</color> : Inflige 1 pt de [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color> lors du déclenchement. Peut être utilisé 2 fois.<br><color style='color:#FFFFFFFF'>Mercenaire Pyro</color> : Inflige 1 pt de [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color> lors du déclenchement. Peut être utilisé 2 fois.<br><color style='color:#FFFFFFFF'>Frappeur Électro</color> : Inflige 1 pt de [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color> lors du déclenchement. Peut être utilisé 2 fois."
     },
     "1005": {
-        "Name": "<color style='color:#FFFFFFFF'>Riptide</color>",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached is defeated: </color>Apply Riptide to active character.<br>When <color style='color:#FFFFFFFF'>Tartaglia</color> is in <color style='color:#FFFFFFFF'>Melee Stance</color>, he will deal additional DMG when attacking the character to which this is attached."
+        "Name": "<color style='color:#FFFFFFFF'>Contre-courant</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté est vaincu : </color>Inflige l'effet Contre-courant au personnage actif du camp concerné.<br>Lorsque <color style='color:#FFFFFFFF'>Tartaglia</color>, en <color style='color:#FFFFFFFF'>état de mêlée</color>, attaque le personnage affecté : Inflige des DGT supplémentaires."
     },
     "1006": {
-        "Name": "<color style='color:#FFFFFFFF'>Aegis of Abyssal Flame</color>",
-        "Desc": "Grant the character to which this is attached <color style='color:#FFFFFFFF'>3 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points</color>.<br>Before this [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> is depleted, the character to which this is attached will deal +1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>."
+        "Name": "<color style='color:#FFFFFFFF'>Bouclier de feu abyssal</color>",
+        "Desc": "Accorde <color style='color:#FFFFFFFF'>3 pts de [b]4007[a]<color style='color:#FFFFFFFF'>bouclier</color></color> au personnage affecté.<br>Tant que le [b]4007[a]<color style='color:#FFFFFFFF'>bouclier</color> n'est pas épuisé, [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color> infligés par le personnage affecté +1."
     },
     "1007": {
-        "Name": "<color style='color:#FFFFFFFF'>Superlative Superstrength</color>",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character to which this is attached uses a <color style='color:#FFFFFFFF'>Charged Attack</color>: </color>Deal +1 DMG. If the <color style='color:#FFFFFFFF'>Usages</color> are no less than 2, then costs 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 3 stacks.)"
+        "Name": "<color style='color:#FFFFFFFF'>Mégaforce superlative</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage affecté utilise une <color style='color:#FFFFFFFF'>attaque chargée</color>, </color>DGT infligés +1. Si le <color style='color:#FFFFFFFF'>nombre d'utilisations</color> est 2 ou plus, dépense 1 dé d'<color style='color:#FFFFFFFF'>[b]1109[a]élément neutre</color> en moins.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations : </color>1</color> (Peut être cumulé, 3 cumuls maximum)"
     },
     "1008": {
-        "Name": "<color style='color:#FFFFFFFF'>Clusterbloom Arrow</color>",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>.<br><color style='color:#FFFFFFFF'>Usage(s): 1</color> (Can stack. Max 2 stacks.)"
+        "Name": "<color style='color:#FFFFFFFF'>Flèche fleuronnée</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color>.<br><color style='color:#FFFFFFFF'>Nombre d'utilisations : 1</color> (Peut être cumulé, 2 cumuls maximum)"
     },
     "1009": {
-        "Name": "<color style='color:#FFFFFFFF'>Blood Blossom</color>",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> to the character to which this is attached.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>:1</color>"
+        "Name": "<color style='color:#FFFFFFFF'>Bourgeon de prune</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color> au personnage affecté.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations : </color>1</color>"
     },
     "1010": {
-        "Name": "<color style='color:#FFFFFFFF'>Scarlet Seal</color>",
-        "Desc": "<color style='color:#FFFFFFFF'>When the character uses a <color style='color:#FFFFFFFF'>Charged Attack</color>:</color> DMG dealt +2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color> (Can stack. Max 2 stacks.)"
+        "Name": "<color style='color:#FFFFFFFF'>Sceau écarlate</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage utilise une <color style='color:#FFFFFFFF'>attaque chargée</color>, </color>DGT infligés +2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations : </color>1</color> (Peut être cumulé, 2 cumuls maximum)"
     },
     "1011": {
-        "Name": "<color style='color:#FFFFFFFF'>Bountiful Core</color>",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s): </color>1</color> (Can stack, max 3 stacks)<br><color style='color:#FFFFFFFF'>When you declare the end of your Round:</color> If this summon has at least 2 Usages remaining, deal 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>. (Consumes <color style='color:#FFFFFFFF'>Usages</color>)"
+        "Name": "<color style='color:#FFFFFFFF'>Noyau d'abondance</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 2 pts de [b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations : </color>1</color> (Peut être cumulé, 3 cumuls maximum)<br><color style='color:#FFFFFFFF'>Lorsque vous annoncez la fin de votre manche : </color>Si le <color style='color:#FFFFFFFF'>nombre d'utilisations</color> de cette carte est supérieur ou égal à 2, inflige 2 pts de [b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color>. (Diminue le <color style='color:#FFFFFFFF'>nombre d'utilisations</color>)"
     },
     "1012": {
-        "Name": "<color style='color:#FFFFFFFF'>Elemental Absorption</color>",
-        "Desc": "Azhdaha can absorb the power of [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color>/[b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>/[b]2103[a]<color style='color:#FF9999FF'>Pyro</color>/[b]2104[a]<color style='color:#FFACFFFF'>Electro</color>. (Only 1 can be absorbed at any one time)<br><color style='color:#FFFFFFFF'>When Azhdaha has absorbed any of the above Elements:</color> Based on the type of Element that was absorbed, gain the skills [b]2101[a]<color style='color:#99FFFFFF'>Frostspike Wave</color>/[b]2102[a]<color style='color:#80C0FFFF'>Torrential Rebuke</color>/[b]2103[a]<color style='color:#FF9999FF'>Blazing Rebuke</color>/[b]2104[a]<color style='color:#FFACFFFF'>Thunderstorm Wave</color>."
+        "Name": "<color style='color:#FFFFFFFF'>Absorption de la puissance d'un élément correspondant</color>",
+        "Desc": "Azhdaha peut absorber la puissance des éléments [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color>, [b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>, [b]2103[a]<color style='color:#FF9999FF'>Pyro</color> et [b]2104[a]<color style='color:#FFACFFFF'>Électro</color>. (Il ne peut absorber qu'un seul type élémentaire à la fois)<br><color style='color:#FFFFFFFF'>Lorsqu'Azhdaha absorbe un de ces éléments : </color>Selon l'élément absorbé, il obtient la capacité <color style='color:#99FFFFFF'>Percée givrée</color> ([b]2101[a]), <color style='color:#80C0FFFF'>Réprimande torrentielle</color> ([b]2102[a]), <color style='color:#FF9999FF'>Réprimande flamboyante</color> ([b]2103[a]) ou <color style='color:#FFACFFFF'>Percée tonitruante</color> ([b]2104[a])."
     },
     "1013": {
-        "Name": "<color style='color:#FFFFFFFF'>Crimson Witch of Embers</color>",
-        "Desc": "La Signora can permanently change into the \"Crimson Witch of Embers\" state.<br>After changing, La Signora's Elemental Type changes from [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color> to [b]2103[a]<color style='color:#FF9999FF'>Pyro</color>.<br>After changing, this character can use the skills of the Crimson Witch of Embers, but can no longer use La Signora's original skills."
+        "Name": "<color style='color:#FFFFFFFF'>Sorcière des braises écarlates</color>",
+        "Desc": "Signora peut se changer de façon permanente en Sorcière des braises écarlates.<br>Après avoir changé, le type élémentaire de Signora passe de [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color> à [b]2103[a]<color style='color:#FF9999FF'>Pyro</color>.<br>Après avoir changé, le personnage peut utiliser les capacités de la Sorcière des braises écarlates, mais ne peut plus utiliser les capacités d'origine de Signora."
     },
     "1014": {
-        "Name": "<color style='color:#FFFFFFFF'>Deactivated</color>",
-        "Desc": "When clockwork meka that have either Arkhe: Ousia or Arkhe: Pneuma receive DMG aligned with the opposite Arkhe, a pneuma-ousia annihilation reaction will occur, and they will become Deactivated.<br>Deactivated clockwork meka will not be able to use their original abilities, and can only use Deactivated abilities. Deactivated abilities cannot deal Elemental DMG, and can only deal Physical DMG."
+        "Name": "<color style='color:#FFFFFFFF'>Forme désactivée</color>",
+        "Desc": "Lorsqu'un Méka horlogoïde affecté par une signature énergétique ousia ou par une signature énergétique pneuma a subi des DGT chargés d'énergie opposée, une réaction d'annihilation des énergies pneuma et ousia se déclenche, ce qui le change en forme désactivée.<br>Un Méka horlogoïde désactivé ne peut pas utiliser ses capacités d'origine et peut uniquement utiliser les capacités de la forme désactivée. Les capacités de la forme désactivée n'infligent pas de DGT élémentaires, et peuvent uniquement infliger des DGT physiques."
     },
     "1015": {
-        "Name": "Pneuma-Ousia Annihilation Reaction",
-        "Desc": "After an Ousia-aligned character takes [b]3505[a]Arkhe: Pneuma-aligned DMG, or after Pneuma-aligned characters take [b]3504[a]Arkhe: Ousia-aligned DMG, a Pneuma-Ousia Annihilation Reaction will occur.<br>Pneuma-Ousia Annihilation reactions will have different effects on different types of cards."
+        "Name": "Réaction d'annihilation des énergies pneuma et ousia",
+        "Desc": "Lorsqu'un personnage ousia a subi des DGT chargés d'énergie d'[b]3505[a]Arkhe pneuma ou lorsqu'un personnage pneuma a subi des DGT chargés d'énergie d'[b]3504[a]Arkhe ousia, une réaction d'annihilation des énergies pneuma et ousia se déclenche.<br>Les réactions d'annihilation des énergies pneuma et ousia peuvent déclencher différents effets selon les cartes affectées."
     },
     "1016": {
-        "Name": "Sheer Cold",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color> to the character to which this is attached.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>:1</color> (When the character with this attached has <color style='color:#FFFFFFFF'>Blazing Heat</color> attached to them, remove this effect.)"
+        "Name": "Grand froid",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color> au personnage affecté.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations : </color>1</color> (Lorsque le personnage affecté subit la <color style='color:#FFFFFFFF'>Chaleur extrême</color>, l'effet est annulé)"
     },
     "1017": {
-        "Name": "Blazing Heat",
-        "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> to the character to which this is attached.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>:1</color> (When the character with this attached has <color style='color:#FFFFFFFF'>Sheer Cold</color> attached to them, remove this effect.)"
+        "Name": "Chaleur extrême",
+        "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Inflige 1 pt de [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color> au personnage affecté.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations : </color>1</color> (Lorsque le personnage affecté subit le <color style='color:#FFFFFFFF'>Grand froid</color>, l'effet est annulé)"
     },
     "1018": {
-        "Name": "Blazing Barrier",
-        "Desc": "Grants <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point</color> to your active character. (Can stack. Max 3 points.)"
+        "Name": "Barrière brûlante",
+        "Desc": "Accorde <color style='color:#FFFFFFFF'>1 pt de [b]4007[a]<color style='color:#FFFFFFFF'>bouclier</color></color> à votre personnage actif. (Peut être cumulé, 3 pts maximum)"
     },
     "1019": {
-        "Name": "Gurgling Bubble",
-        "Desc": "Character cannot use Skills. (Lasts until the end of this Round)"
+        "Name": "Bulle gargouillante",
+        "Desc": "Empêche le personnage d'utiliser des capacités. (Dure jusqu'à la fin de la manche)"
     },
     "1020": {
-        "Name": "<color style='color:#FFFFFFFF'>Equitable Judgment</color>",
-        "Desc": "<color style='color:#D3BC8E'>Normal Attack</color><br>(Prepare for 1 turn)<br>Deals 2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>. If character has at least 6 HP, then deal 1 Piercing DMG to yourself and gain +1 DMG."
+        "Name": "<color style='color:#FFFFFFFF'>Jugement équitable</color>",
+        "Desc": "<color style='color:#D3BC8E'>Attaque normale</color><br>(À préparer pendant 1 tour)<br>Inflige 2 pts de [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color>. Avec 6 PV ou plus, vous inflige 1 pt de DGT de perforation et augmente les DGT de 1."
     }
 }
 
 var _tag = {
-    "GCG_TAG_UNIQUE": "Only One",
-    "GCG_TAG_SLOWLY": "Combat Action",
-    "GCG_TAG_FORBIDDEN_ATTACK": "Unable to Act",
-    "GCG_TAG_IMMUNE_FREEZING": "Immune to Frozen",
-    "GCG_TAG_IMMUNE_CONTROL": "Immune to Disables",
+    "GCG_TAG_UNIQUE": "Unique",
+    "GCG_TAG_SLOWLY": "Action de combat",
+    "GCG_TAG_FORBIDDEN_ATTACK": "Aucune action possible",
+    "GCG_TAG_IMMUNE_FREEZING": "Anti-gel",
+    "GCG_TAG_IMMUNE_CONTROL": "Anti-contrôle",
     "GCG_TAG_NATION_MONDSTADT": "Mondstadt",
     "GCG_TAG_NATION_LIYUE": "Liyue",
     "GCG_TAG_NATION_INAZUMA": "Inazuma",
@@ -9071,42 +9072,42 @@ var _tag = {
     "GCG_TAG_NATION_SNEZHNAYA": "Snezhnaya",
     "GCG_TAG_NATION_KHAENRIAH": "Khaenri'ah",
     "GCG_TAG_CAMP_FATUI": "Fatui",
-    "GCG_TAG_CAMP_HILICHURL": "Hilichurl",
-    "GCG_TAG_CAMP_MONSTER": "Monster",
-    "GCG_TAG_CAMP_KAIRAGI": "Kairagi",
-    "GCG_TAG_CAMP_EREMITE": "The Eremites",
-    "GCG_TAG_WEAPON_NONE": "Other Weapons",
-    "GCG_TAG_WEAPON_CATALYST": "Catalyst",
-    "GCG_TAG_WEAPON_BOW": "Bow",
-    "GCG_TAG_WEAPON_CLAYMORE": "Claymore",
-    "GCG_TAG_WEAPON_POLE": "Polearm",
-    "GCG_TAG_WEAPON_SWORD": "Sword",
-    "GCG_TAG_ELEMENT_NONE": "No Elemental Type",
+    "GCG_TAG_CAMP_HILICHURL": "Brutocollinus",
+    "GCG_TAG_CAMP_MONSTER": "Monstre",
+    "GCG_TAG_CAMP_KAIRAGI": "Oni des mers",
+    "GCG_TAG_CAMP_EREMITE": "Érémites",
+    "GCG_TAG_WEAPON_NONE": "Autre arme",
+    "GCG_TAG_WEAPON_CATALYST": "Catalyseur",
+    "GCG_TAG_WEAPON_BOW": "Arc",
+    "GCG_TAG_WEAPON_CLAYMORE": "Épée à deux mains",
+    "GCG_TAG_WEAPON_POLE": "Arme d'hast",
+    "GCG_TAG_WEAPON_SWORD": "Épée à une main",
+    "GCG_TAG_ELEMENT_NONE": "Sans élément",
     "GCG_TAG_ELEMENT_CRYO": "Cryo",
     "GCG_TAG_ELEMENT_HYDRO": "Hydro",
     "GCG_TAG_ELEMENT_PYRO": "Pyro",
-    "GCG_TAG_ELEMENT_ELECTRO": "Electro",
-    "GCG_TAG_ELEMENT_ANEMO": "Anemo",
-    "GCG_TAG_ELEMENT_GEO": "Geo",
+    "GCG_TAG_ELEMENT_ELECTRO": "Électro",
+    "GCG_TAG_ELEMENT_ANEMO": "Anémo",
+    "GCG_TAG_ELEMENT_GEO": "Géo",
     "GCG_TAG_ELEMENT_DENDRO": "Dendro",
-    "GCG_TAG_WEAPON": "Weapon",
-    "GCG_TAG_ARTIFACT": "Artifact",
-    "GCG_TAG_TALENT": "Talent",
-    "GCG_TAG_SHEILD": "Shield",
-    "GCG_TAG_PLACE": "Location",
-    "GCG_TAG_ALLY": "Companion",
-    "GCG_TAG_ITEM": "Item",
-    "GCG_TAG_RESONANCE": "Elemental Resonance",
-    "GCG_TAG_FOOD": "Food",
-    "GCG_TAG_LEGEND": "Arcane Legend",
-    "GCG_TAG_DENDRO_PRODUCE": "Dendro Construct",
-    "GCG_TAG_ARKHE_PNEUMA": "Arkhe: Ousia",
-    "GCG_TAG_ARKHE_OUSIA": "Arkhe: Pneuma"
+    "GCG_TAG_WEAPON": "Arme",
+    "GCG_TAG_ARTIFACT": "Artéfact",
+    "GCG_TAG_TALENT": "Aptitude",
+    "GCG_TAG_SHEILD": "Bouclier",
+    "GCG_TAG_PLACE": "Terrain",
+    "GCG_TAG_ALLY": "Compagnon",
+    "GCG_TAG_ITEM": "Objet",
+    "GCG_TAG_RESONANCE": "Résonance élémentaire",
+    "GCG_TAG_FOOD": "Plat",
+    "GCG_TAG_LEGEND": "Arcane",
+    "GCG_TAG_DENDRO_PRODUCE": "Construction Dendro",
+    "GCG_TAG_ARKHE_PNEUMA": "Arkhe : Ousia",
+    "GCG_TAG_ARKHE_OUSIA": "Arkhe : Pneuma"
 }
 
 var _skilltag = {
-    "GCG_SKILL_TAG_A": "Normal Attack",
-    "GCG_SKILL_TAG_E": "Elemental Skill",
-    "GCG_SKILL_TAG_Q": "Elemental Burst",
-    "GCG_SKILL_TAG_PASSIVE": "Passive Skill"
+    "GCG_SKILL_TAG_A": "Attaque normale",
+    "GCG_SKILL_TAG_E": "Compétence élémentaire",
+    "GCG_SKILL_TAG_Q": "Déchaînement élémentaire",
+    "GCG_SKILL_TAG_PASSIVE": "Capacité passive"
 }

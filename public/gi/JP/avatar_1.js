@@ -17183,1356 +17183,1356 @@ var _AvatarCostumeConfig = {
 var _MaterialConfig = {
     "100021": {
         "Icon": "UI_ItemIcon_100021",
-        "Text": "<b>Wolfhook</b>"
+        "Text": "<b>ググプラム</b>"
     },
     "100022": {
         "Icon": "UI_ItemIcon_100022",
-        "Text": "<b>Valberry</b>"
+        "Text": "<b>ヴァルベリー</b>"
     },
     "100023": {
         "Icon": "UI_ItemIcon_100023",
-        "Text": "<b>Cecilia</b>"
+        "Text": "<b>セシリアの花</b>"
     },
     "100024": {
         "Icon": "UI_ItemIcon_100024",
-        "Text": "<b>Windwheel Aster</b>"
+        "Text": "<b>風車アスター</b>"
     },
     "100025": {
         "Icon": "UI_ItemIcon_100025",
-        "Text": "<b>Philanemo Mushroom</b>"
+        "Text": "<b>慕風のマッシュルーム</b>"
     },
     "100027": {
         "Icon": "UI_ItemIcon_100027",
-        "Text": "<b>Jueyun Chili</b>"
+        "Text": "<b>絶雲の唐辛子</b>"
     },
     "100028": {
         "Icon": "UI_ItemIcon_100028",
-        "Text": "<b>Noctilucous Jade</b>"
+        "Text": "<b>夜泊石</b>"
     },
     "100029": {
         "Icon": "UI_ItemIcon_100029",
-        "Text": "<b>Silk Flower</b>"
+        "Text": "<b>霓裳花</b>"
     },
     "100030": {
         "Icon": "UI_ItemIcon_100030",
-        "Text": "<b>Glaze Lily</b>"
+        "Text": "<b>琉璃百合</b>"
     },
     "100031": {
         "Icon": "UI_ItemIcon_100031",
-        "Text": "<b>Qingxin</b>"
+        "Text": "<b>清心</b>"
     },
     "100033": {
         "Icon": "UI_ItemIcon_100033",
-        "Text": "<b>Starconch</b>"
+        "Text": "<b>星螺</b>"
     },
     "100034": {
         "Icon": "UI_ItemIcon_100034",
-        "Text": "<b>Violetgrass</b>"
+        "Text": "<b>琉璃袋</b>"
     },
     "100055": {
         "Icon": "UI_ItemIcon_100055",
-        "Text": "<b>Small Lamp Grass</b>"
+        "Text": "<b>イグサ</b>"
     },
     "100056": {
         "Icon": "UI_ItemIcon_100056",
-        "Text": "<b>Calla Lily</b>"
+        "Text": "<b>ドドリアン</b>"
     },
     "100057": {
         "Icon": "UI_ItemIcon_100057",
-        "Text": "<b>Dandelion Seed</b>"
+        "Text": "<b>蒲公英の種</b>"
     },
     "100058": {
         "Icon": "UI_ItemIcon_100058",
-        "Text": "<b>Cor Lapis</b>"
+        "Text": "<b>石珀</b>"
     },
     "101201": {
         "Icon": "UI_ItemIcon_101201",
-        "Text": "<b>Onikabuto</b>"
+        "Text": "<b>オニカブトムシ</b>"
     },
     "101202": {
         "Icon": "UI_ItemIcon_101202",
-        "Text": "<b>Sakura Bloom</b>"
+        "Text": "<b>緋櫻毬</b>"
     },
     "101203": {
         "Icon": "UI_ItemIcon_101203",
-        "Text": "<b>Crystal Marrow</b>"
+        "Text": "<b>晶化骨髄</b>"
     },
     "101204": {
         "Icon": "UI_ItemIcon_101204",
-        "Text": "<b>Dendrobium</b>"
+        "Text": "<b>血石華</b>"
     },
     "101205": {
         "Icon": "UI_ItemIcon_101205",
-        "Text": "<b>Naku Weed</b>"
+        "Text": "<b>鳴草</b>"
     },
     "101206": {
         "Icon": "UI_ItemIcon_101206",
-        "Text": "<b>Sea Ganoderma</b>"
+        "Text": "<b>ウミレイシ</b>"
     },
     "101207": {
         "Icon": "UI_ItemIcon_101207",
-        "Text": "<b>Sango Pearl</b>"
+        "Text": "<b>珊瑚真珠</b>"
     },
     "101208": {
         "Icon": "UI_ItemIcon_101208",
-        "Text": "<b>Amakumo Fruit</b>"
+        "Text": "<b>天雲草の実</b>"
     },
     "101209": {
         "Icon": "UI_ItemIcon_101209",
-        "Text": "<b>Fluorescent Fungus</b>"
+        "Text": "<b>ユウトウタケ</b>"
     },
     "101213": {
         "Icon": "UI_ItemIcon_101213",
-        "Text": "<b>Rukkhashava Mushrooms</b>"
+        "Text": "<b>ルッカデヴァータダケ</b>"
     },
     "101214": {
         "Icon": "UI_ItemIcon_101214",
-        "Text": "<b>Padisarah</b>"
+        "Text": "<b>パティサラ</b>"
     },
     "101215": {
         "Icon": "UI_ItemIcon_101215",
-        "Text": "<b>Nilotpala Lotus</b>"
+        "Text": "<b>サウマラタ蓮</b>"
     },
     "101217": {
         "Icon": "UI_ItemIcon_101217",
-        "Text": "<b>Kalpalata Lotus</b>"
+        "Text": "<b>カルパラタ蓮</b>"
     },
     "101220": {
         "Icon": "UI_ItemIcon_101220",
-        "Text": "<b>Henna Berry</b>"
+        "Text": "<b>赤念の実</b>"
     },
     "101222": {
         "Icon": "UI_ItemIcon_101222",
-        "Text": "<b>Sand Grease Pupa</b>"
+        "Text": "<b>砂脂蛹</b>"
     },
     "101223": {
         "Icon": "UI_ItemIcon_101223",
-        "Text": "<b>Mourning Flower</b>"
+        "Text": "<b>悼霊花</b>"
     },
     "101225": {
         "Icon": "UI_ItemIcon_101225",
-        "Text": "<b>Scarab</b>"
+        "Text": "<b>聖金虫</b>"
     },
     "101232": {
         "Icon": "UI_ItemIcon_101232",
-        "Text": "<b>Beryl Conch</b>"
+        "Text": "<b>蒼晶螺</b>"
     },
     "101233": {
         "Icon": "UI_ItemIcon_101233",
-        "Text": "<b>Romaritime Flower</b>"
+        "Text": "<b>ロマリタイムフラワー</b>"
     },
     "101235": {
         "Icon": "UI_ItemIcon_101235",
-        "Text": "<b>Lumidouce Bell</b>"
+        "Text": "<b>ルミドゥースベル</b>"
     },
     "101236": {
         "Icon": "UI_ItemIcon_101236",
-        "Text": "<b>Rainbow Rose</b>"
+        "Text": "<b>レインボーローズ</b>"
     },
     "101237": {
         "Icon": "UI_ItemIcon_101237",
-        "Text": "<b>Lumitoile</b>"
+        "Text": "<b>ルエトワール</b>"
     },
     "101238": {
         "Icon": "UI_ItemIcon_101238",
-        "Text": "<b>Lakelight Lily</b>"
+        "Text": "<b>湖光の鈴蘭</b>"
     },
     "101239": {
         "Icon": "UI_ItemIcon_101239",
-        "Text": "<b>Subdetection Unit</b>"
+        "Text": "<b>探測ユニット·子機</b>"
     },
     "101240": {
         "Icon": "UI_ItemIcon_101240",
-        "Text": "<b>Spring of the First Dewdrop</b>"
+        "Text": "<b>初露の源</b>"
     },
     "101241": {
         "Icon": "UI_ItemIcon_101241",
-        "Text": "<b>Clearwater Jade</b>"
+        "Text": "<b>清水玉</b>"
     },
     "104303": {
         "Icon": "UI_ItemIcon_104303",
-        "Text": "<b>Philosophies of Freedom</b><br>Mondstadt / Mon Thu Sun"
+        "Text": "<b>「自由」の哲学</b><br>Mondstadt / Mon Thu Sun"
     },
     "104306": {
         "Icon": "UI_ItemIcon_104306",
-        "Text": "<b>Philosophies of Resistance</b><br>Mondstadt / Tue Fri Sun"
+        "Text": "<b>「抗争」の哲学</b><br>Mondstadt / Tue Fri Sun"
     },
     "104309": {
         "Icon": "UI_ItemIcon_104309",
-        "Text": "<b>Philosophies of Ballad</b><br>Mondstadt / Wed Sat Sun"
+        "Text": "<b>「詩文」の哲学</b><br>Mondstadt / Wed Sat Sun"
     },
     "104312": {
         "Icon": "UI_ItemIcon_104312",
-        "Text": "<b>Philosophies of Prosperity</b><br>Liyue / Mon Thu Sun"
+        "Text": "<b>「繁栄」の哲学</b><br>Liyue / Mon Thu Sun"
     },
     "104315": {
         "Icon": "UI_ItemIcon_104315",
-        "Text": "<b>Philosophies of Diligence</b><br>Liyue / Tue Fri Sun"
+        "Text": "<b>「勤労」の哲学</b><br>Liyue / Tue Fri Sun"
     },
     "104318": {
         "Icon": "UI_ItemIcon_104318",
-        "Text": "<b>Philosophies of Gold</b><br>Liyue / Wed Sat Sun"
+        "Text": "<b>「黄金」の哲学</b><br>Liyue / Wed Sat Sun"
     },
     "104322": {
         "Icon": "UI_ItemIcon_104322",
-        "Text": "<b>Philosophies of Transience</b><br>Inazuma / Mon Thu Sun"
+        "Text": "<b>「浮世」の哲学</b><br>Inazuma / Mon Thu Sun"
     },
     "104325": {
         "Icon": "UI_ItemIcon_104325",
-        "Text": "<b>Philosophies of Elegance</b><br>Inazuma / Tue Fri Sun"
+        "Text": "<b>「風雅」の哲学</b><br>Inazuma / Tue Fri Sun"
     },
     "104328": {
         "Icon": "UI_ItemIcon_104328",
-        "Text": "<b>Philosophies of Light</b><br>Inazuma / Wed Sat Sun"
+        "Text": "<b>「天光」の哲学</b><br>Inazuma / Wed Sat Sun"
     },
     "104331": {
         "Icon": "UI_ItemIcon_104331",
-        "Text": "<b>Philosophies of Admonition</b><br>Sumeru / Mon Thu Sun"
+        "Text": "<b>「忠言」の哲学</b><br>Sumeru / Mon Thu Sun"
     },
     "104334": {
         "Icon": "UI_ItemIcon_104334",
-        "Text": "<b>Philosophies of Ingenuity</b><br>Sumeru / Tue Fri Sun"
+        "Text": "<b>「創意」の哲学</b><br>Sumeru / Tue Fri Sun"
     },
     "104337": {
         "Icon": "UI_ItemIcon_104337",
-        "Text": "<b>Philosophies of Praxis</b><br>Sumeru / Wed Sat Sun"
+        "Text": "<b>「篤行」の哲学</b><br>Sumeru / Wed Sat Sun"
     },
     "104340": {
         "Icon": "UI_ItemIcon_104340",
-        "Text": "<b>Philosophies of Equity</b><br>Fontaine / Mon Thu Sun"
+        "Text": "<b>「公平」の哲学</b><br>Fontaine / Mon Thu Sun"
     },
     "104343": {
         "Icon": "UI_ItemIcon_104343",
-        "Text": "<b>Philosophies of Justice</b><br>Fontaine / Tue Fri Sun"
+        "Text": "<b>「正義」の哲学</b><br>Fontaine / Tue Fri Sun"
     },
     "104346": {
         "Icon": "UI_ItemIcon_104346",
-        "Text": "<b>Philosophies of Order</b><br>Fontaine / Wed Sat Sun"
+        "Text": "<b>「秩序」の哲学</b><br>Fontaine / Wed Sat Sun"
     },
     "113001": {
         "Icon": "UI_ItemIcon_113001",
-        "Text": "<b>Hurricane Seed</b>"
+        "Text": "<b>暴風の種</b>"
     },
     "113002": {
         "Icon": "UI_ItemIcon_113002",
-        "Text": "<b>Lightning Prism</b>"
+        "Text": "<b>雷光のプリズム</b>"
     },
     "113003": {
         "Icon": "UI_ItemIcon_113003",
-        "Text": "<b>Dvalin's Plume</b>"
+        "Text": "<b>東風の羽根</b>"
     },
     "113004": {
         "Icon": "UI_ItemIcon_113004",
-        "Text": "<b>Dvalin's Claw</b>"
+        "Text": "<b>東風の爪</b>"
     },
     "113005": {
         "Icon": "UI_ItemIcon_113005",
-        "Text": "<b>Dvalin's Sigh</b>"
+        "Text": "<b>東風の吐息</b>"
     },
     "113006": {
         "Icon": "UI_ItemIcon_113006",
-        "Text": "<b>Tail of Boreas</b>"
+        "Text": "<b>北風のしっぽ</b>"
     },
     "113007": {
         "Icon": "UI_ItemIcon_113007",
-        "Text": "<b>Ring of Boreas</b>"
+        "Text": "<b>北風のリング</b>"
     },
     "113008": {
         "Icon": "UI_ItemIcon_113008",
-        "Text": "<b>Spirit Locket of Boreas</b>"
+        "Text": "<b>北風の魂箱</b>"
     },
     "113009": {
         "Icon": "UI_ItemIcon_113009",
-        "Text": "<b>Basalt Pillar</b>"
+        "Text": "<b>玄岩の塔</b>"
     },
     "113010": {
         "Icon": "UI_ItemIcon_113010",
-        "Text": "<b>Hoarfrost Core</b>"
+        "Text": "<b>極寒のコア</b>"
     },
     "113011": {
         "Icon": "UI_ItemIcon_113011",
-        "Text": "<b>Everflame Seed</b>"
+        "Text": "<b>常燃の火種</b>"
     },
     "113012": {
         "Icon": "UI_ItemIcon_113012",
-        "Text": "<b>Cleansing Heart</b>"
+        "Text": "<b>浄水の心</b>"
     },
     "113013": {
         "Icon": "UI_ItemIcon_113013",
-        "Text": "<b>Tusk of Monoceros Caeli</b>"
+        "Text": "<b>呑天の鯨·只角</b>"
     },
     "113014": {
         "Icon": "UI_ItemIcon_113014",
-        "Text": "<b>Shard of a Foul Legacy</b>"
+        "Text": "<b>魔王の刃·残片</b>"
     },
     "113015": {
         "Icon": "UI_ItemIcon_113015",
-        "Text": "<b>Shadow of the Warrior</b>"
+        "Text": "<b>武煉の魂·孤影</b>"
     },
     "113016": {
         "Icon": "UI_ItemIcon_113016",
-        "Text": "<b>Juvenile Jade</b>"
+        "Text": "<b>未熟の玉石</b>"
     },
     "113017": {
         "Icon": "UI_ItemIcon_113017",
-        "Text": "<b>Dragon Lord's Crown</b>"
+        "Text": "<b>龍王の冠</b>"
     },
     "113018": {
         "Icon": "UI_ItemIcon_113018",
-        "Text": "<b>Bloodjade Branch</b>"
+        "Text": "<b>血玉の枝</b>"
     },
     "113019": {
         "Icon": "UI_ItemIcon_113019",
-        "Text": "<b>Gilded Scale</b>"
+        "Text": "<b>鍍金の鱗</b>"
     },
     "113020": {
         "Icon": "UI_ItemIcon_113020",
-        "Text": "<b>Crystalline Bloom</b>"
+        "Text": "<b>凝結の華</b>"
     },
     "113022": {
         "Icon": "UI_ItemIcon_113022",
-        "Text": "<b>Marionette Core</b>"
+        "Text": "<b>魔偶の芯</b>"
     },
     "113023": {
         "Icon": "UI_ItemIcon_113023",
-        "Text": "<b>Perpetual Heart</b>"
+        "Text": "<b>恒常からくりの芯</b>"
     },
     "113024": {
         "Icon": "UI_ItemIcon_113024",
-        "Text": "<b>Smoldering Pearl</b>"
+        "Text": "<b>陰燃の珠</b>"
     },
     "113025": {
         "Icon": "UI_ItemIcon_113025",
-        "Text": "<b>Molten Moment</b>"
+        "Text": "<b>溶滅の刻</b>"
     },
     "113026": {
         "Icon": "UI_ItemIcon_113026",
-        "Text": "<b>Hellfire Butterfly</b>"
+        "Text": "<b>獄炎の蝶</b>"
     },
     "113027": {
         "Icon": "UI_ItemIcon_113027",
-        "Text": "<b>Ashen Heart</b>"
+        "Text": "<b>灰燼の心</b>"
     },
     "113028": {
         "Icon": "UI_ItemIcon_113028",
-        "Text": "<b>Dew of Repudiation</b>"
+        "Text": "<b>排他の露</b>"
     },
     "113029": {
         "Icon": "UI_ItemIcon_113029",
-        "Text": "<b>Storm Beads</b>"
+        "Text": "<b>雷霆の念珠</b>"
     },
     "113030": {
         "Icon": "UI_ItemIcon_113030",
-        "Text": "<b>Riftborn Regalia</b>"
+        "Text": "<b>獣域王器</b>"
     },
     "113031": {
         "Icon": "UI_ItemIcon_113031",
-        "Text": "<b>Dragonheir's False Fin</b>"
+        "Text": "<b>ドラゴエアのニセヒレ</b>"
     },
     "113032": {
         "Icon": "UI_ItemIcon_113032",
-        "Text": "<b>Mudra of the Malefic General</b>"
+        "Text": "<b>凶将の手眼</b>"
     },
     "113033": {
         "Icon": "UI_ItemIcon_113033",
-        "Text": "<b>Tears of the Calamitous God</b>"
+        "Text": "<b>禍神の禊涙</b>"
     },
     "113034": {
         "Icon": "UI_ItemIcon_113034",
-        "Text": "<b>The Meaning of Aeons</b>"
+        "Text": "<b>万劫の真意</b>"
     },
     "113035": {
         "Icon": "UI_ItemIcon_113035",
-        "Text": "<b>Runic Fang</b>"
+        "Text": "<b>符文の歯車</b>"
     },
     "113036": {
         "Icon": "UI_ItemIcon_113036",
-        "Text": "<b>Majestic Hooked Beak</b>"
+        "Text": "<b>茸王の鉤状のくちばし</b>"
     },
     "113037": {
         "Icon": "UI_ItemIcon_113037",
-        "Text": "<b>Thunderclap Fruitcore</b>"
+        "Text": "<b>隠雷の実</b>"
     },
     "113038": {
         "Icon": "UI_ItemIcon_113038",
-        "Text": "<b>Perpetual Caliber</b>"
+        "Text": "<b>永続コア</b>"
     },
     "113039": {
         "Icon": "UI_ItemIcon_113039",
-        "Text": "<b>Light Guiding Tetrahedron</b>"
+        "Text": "<b>導光四面体</b>"
     },
     "113040": {
         "Icon": "UI_ItemIcon_113040",
-        "Text": "<b>Quelled Creeper</b>"
+        "Text": "<b>滅諍の蔓</b>"
     },
     "113041": {
         "Icon": "UI_ItemIcon_113041",
-        "Text": "<b>Puppet Strings</b>"
+        "Text": "<b>傀儡の糸</b>"
     },
     "113042": {
         "Icon": "UI_ItemIcon_113042",
-        "Text": "<b>Mirror of Mushin</b>"
+        "Text": "<b>無心の淵鏡</b>"
     },
     "113043": {
         "Icon": "UI_ItemIcon_113043",
-        "Text": "<b>Daka's Bell</b>"
+        "Text": "<b>空行の虚鈴</b>"
     },
     "113044": {
         "Icon": "UI_ItemIcon_113044",
-        "Text": "<b>Pseudo-Stamens</b>"
+        "Text": "<b>蒼礫蕊羽</b>"
     },
     "113045": {
         "Icon": "UI_ItemIcon_113045",
-        "Text": "<b>Evergloom Ring</b>"
+        "Text": "<b>常闇の輪</b>"
     },
     "113046": {
         "Icon": "UI_ItemIcon_113046",
-        "Text": "<b>Worldspan Fern</b>"
+        "Text": "<b>天地に生える蕨</b>"
     },
     "113047": {
         "Icon": "UI_ItemIcon_113047",
-        "Text": "<b>Primordial Greenbloom</b>"
+        "Text": "<b>原初のオアシスの初咲き</b>"
     },
     "113048": {
         "Icon": "UI_ItemIcon_113048",
-        "Text": "<b>Everamber</b>"
+        "Text": "<b>太古の樹海の一瞬</b>"
     },
     "113049": {
         "Icon": "UI_ItemIcon_113049",
-        "Text": "<b>Artificed Spare Clockwork Component — Coppelia</b>"
+        "Text": "<b>奇械部品·コッペリア</b>"
     },
     "113050": {
         "Icon": "UI_ItemIcon_113050",
-        "Text": "<b>Artificed Spare Clockwork Component — Coppelius</b>"
+        "Text": "<b>奇械部品·コペリウス</b>"
     },
     "113051": {
         "Icon": "UI_ItemIcon_113051",
-        "Text": "<b>Emperor's Resolution</b>"
+        "Text": "<b>帝王の決断</b>"
     },
     "113052": {
         "Icon": "UI_ItemIcon_113052",
-        "Text": "<b>\"Tourbillon Device\"</b>"
+        "Text": "<b>「トゥールビヨン装置」</b>"
     },
     "113053": {
         "Icon": "UI_ItemIcon_113053",
-        "Text": "<b>Fontemer Unihorn</b>"
+        "Text": "<b>原海駿の角</b>"
     },
     "113054": {
         "Icon": "UI_ItemIcon_113054",
-        "Text": "<b>Lightless Silk String</b>"
+        "Text": "<b>光なき糸</b>"
     },
     "113055": {
         "Icon": "UI_ItemIcon_113055",
-        "Text": "<b>Lightless Eye of the Maelstrom</b>"
+        "Text": "<b>光なき渦の眼</b>"
     },
     "113056": {
         "Icon": "UI_ItemIcon_113056",
-        "Text": "<b>Lightless Mass</b>"
+        "Text": "<b>光なき一塊</b>"
     },
     "113057": {
         "Icon": "UI_ItemIcon_113057",
-        "Text": "<b>Water That Failed To Transcend</b>"
+        "Text": "<b>超越に至らぬ水</b>"
     },
     "113058": {
         "Icon": "UI_ItemIcon_113058",
-        "Text": "<b>Cloudseam Scale</b>"
+        "Text": "<b>凝雲の鱗甲</b>"
     }
 }
 
 var _WeaponAffixConfig = {
     "111301": {
         "Affix": [
-            "Увеличивает урон против врагов, находящихся под Гидро или Крио эффектом, на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> ."
+            "水元素または氷元素の影響を受けた敵に対するダメージ+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 。"
         ]
     },
     "111302": {
         "Affix": [
-            "Увеличивает шанс крит. попадания на <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>17,5%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24,5%</color> / <color style='color:#99FFFF;'>28%</color>  при HP выше 90%."
+            "HPが90%以上の時、会心率+ <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>17.5%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24.5%</color> / <color style='color:#99FFFF;'>28%</color> 。"
         ]
     },
     "111303": {
         "Affix": [
-            "Подобранные элементальные сферы и частицы восстанавливают <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1,25%</color> / <color style='color:#99FFFF;'>1,5%</color> / <color style='color:#99FFFF;'>1,75%</color> / <color style='color:#99FFFF;'>2%</color>  HP."
+            "元素オーブまたは元素粒子を獲得した時、HPを <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1.25%</color> / <color style='color:#99FFFF;'>1.5%</color> / <color style='color:#99FFFF;'>1.75%</color> / <color style='color:#99FFFF;'>2%</color> 回復する。"
         ]
     },
     "111304": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  на 12 сек. при активации реакций Перегрузка, Сверхпроводник, Заряжен, Стимуляция, Обострение, Вегетация или Электро Рассеивание."
+            "過負荷、超電導、感電、原激化、超激化、超開花、または雷元素拡散反応を起こした後12秒間、攻撃力+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。"
         ]
     },
     "111305": {
         "Affix": [
-            "При попадании с 50% вероятностью наносит <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> / <color style='color:#99FFFF;'>360%</color> / <color style='color:#99FFFF;'>400%</color>  урона одной цели. Может возникнуть раз в <color style='color:#99FFFF;'>15</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>13</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>11</color>  сек."
+            "攻撃が命中すると、50%の確率で1体の敵に攻撃力の <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> / <color style='color:#99FFFF;'>360%</color> / <color style='color:#99FFFF;'>400%</color> のダメージを与える。 <color style='color:#99FFFF;'>15</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>13</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>11</color> 秒毎に1回のみ発動可能。"
         ]
     },
     "111306": {
         "Affix": [
-            "Активация взрыва стихии увеличивает силу атаки и скорость передвижения на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  в течение 15 сек."
+            "元素爆発を発動した後、攻撃力と移動速度+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 、継続時間15秒。"
         ]
     },
     "111401": {
         "Affix": [
-            "Критические атаки имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать элементальные частицы, которые восстанавливают 6 ед. энергии. Возникает раз в <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>6</color>  сек."
+            "会心攻撃をした時、 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> の確率で少量の元素粒子を生成し、元素エネルギーを6回復する。 <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10.5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7.5</color> / <color style='color:#99FFFF;'>6</color> 秒毎に1回のみ発動可能。"
         ]
     },
     "111402": {
         "Affix": [
-            "Попадания обычной или заряженной атакой дают музыкальную ноту. При накоплении 5 нот активируется сила музыки, которая наносит <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>150%</color> / <color style='color:#99FFFF;'>175%</color> / <color style='color:#99FFFF;'>200%</color>  урона окружающим врагам. Ноты исчезают через 30 сек. Новую ноту можно получить раз в 0,5 сек."
+            "通常攻撃または重撃が命中すると、100%の確率で和音を1個獲得する。和音を5個集めると、音律の力を放ち、周囲の敵に攻撃力の <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>150%</color> / <color style='color:#99FFFF;'>175%</color> / <color style='color:#99FFFF;'>200%</color> のダメージを与える。和音は最大30秒存在し、0.5秒毎に最大1個獲得可能。"
         ]
     },
     "111403": {
         "Affix": [
-            "Когда элементальный навык наносит урон, есть <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  вероятность, что его откат моментально восстановится. Может возникнуть раз в <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color>  сек."
+            "元素スキルが敵にダメージを与えた時、 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> の確率で該当スキルのクールタイムをリセットする。 <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color> 秒毎に1回のみ発動可能。"
         ]
     },
     "111404": {
         "Affix": [
-            "При нанесении урона противнику повышает шанс крит. попадания на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . Эффект может складываться до 5 раз. Добавочный шанс крит. попадания исчезает с первым крит. попаданием."
+            "攻撃が敵にダメージを与えた時、会心率+ <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> 、最大5重まで。攻撃会心発生時、効果がクリアされる。"
         ]
     },
     "111405": {
         "Affix": [
-            "Увеличивает на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>36%</color>  урон против врагов, находящихся под действием Пиро или Электро элементов."
+            "炎元素または雷元素の影響を受けた敵に対するダメージ+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>36%</color> 。"
         ]
     },
     "111406": {
         "Affix": [
-            "Попадания обычной или заряженной атакой увеличивают силу атаки и защиту на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  в течение 6 сек. Эффект может складываться до 4 раз и возникает раз в 0,3 сек."
+            "通常攻撃または重撃が命中すると、攻撃力と防御力+ <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> 、継続時間6秒、最大4重まで。0.3秒毎に1回のみ発動可能。"
         ]
     },
     "111407": {
         "Affix": [
-            "Нанесённый Элементальный урон увеличивает весь урон на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color>  на 6 сек. Может складываться до 2 раз. Может возникнуть раз в 1 сек."
+            "元素ダメージを与えた後の6秒間、キャラクターの与えるダメージ+ <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7.5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10.5%</color> / <color style='color:#99FFFF;'>12%</color> 、最大2重まで。1秒毎に1回のみ発動可能。"
         ]
     },
     "111408": {
         "Affix": [
-            "Побеждённые противники увеличивают силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Длится 30 сек. Эффект может складываться до 3 раз. Длительность добавочных эффектов друг от друга не зависит."
+            "敵を倒した後、攻撃力+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 、継続時間30秒。最大3重まで、継続時間は加算されず、重ごとに別カウントされる。"
         ]
     },
     "111409": {
         "Affix": [
-            "Увеличивает урон обычной и заряженной атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . Крит. попадания обычной и заряженной атакой восстанавливают HP, равное <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  от силы атаки. Может возникнуть раз в 5 сек."
+            "通常攻撃と重撃ダメージ+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。さらに通常攻撃と重撃が会心時、攻撃力の <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> 分のHPを回復する。5秒に1回のみ発動可能。"
         ]
     },
     "111410": {
         "Affix": [
-            "Увеличивает урон персонажа на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . После получения урона эффект пропадает на 5 сек."
+            "キャラクターが与えるダメージ+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 。ダメージを受けると、このダメージアップ効果は5秒間無効になる。"
         ]
     },
     "111412": {
         "Affix": [
-            " <color style='color:#99FFFF;'>Действует только для игроков</color> <br> <color style='color:#99FFFF;'>\"PlayStation Network\".</color> <br>Атакуя противников обычными и заряженными атаками, вы получаете <color style='color:#99FFFF;'>50%</color>  шанс нанести урон, равный <color style='color:#99FFFF;'>200%</color>  силы атаки в небольшом радиусе. Эффект может возникнуть 1 раз в 10 сек. Кроме того, если Путешественник экипирован Мечом нисхождения, его сила атаки увеличивается на <color style='color:#99FFFF;'>66</color>  единиц."
+            " <color style='color:#99FFFF;'>以下のプラットフォームでのみ有効です。</color> <br> <color style='color:#99FFFF;'>\"PlayStation Network\"</color> <br>通常攻撃と重撃が命中時 <color style='color:#99FFFF;'>50%</color> の確率で攻撃力の <color style='color:#99FFFF;'>200%</color> の狭範囲ダメージを与える。10秒毎に1回のみ発動可能。旅人が降臨の剣を装備すると、さらに攻撃力+ <color style='color:#99FFFF;'>66</color> 。"
         ]
     },
     "111413": {
         "Affix": [
-            "Увеличивает урон элементального навыка на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> , и его шанс крит. попадания - на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color> ."
+            "元素スキルのダメージ+ <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> 、元素スキルの会心率+ <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7.5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10.5%</color> / <color style='color:#99FFFF;'>12%</color> 。"
         ]
     },
     "111414": {
         "Affix": [
-            "После применения элементального навыка получает 1 семя наследия. Эффект может возникнуть 1 раз каждые 5 сек. Семя наследия действует в течение 30 сек. Одновременно может существовать до 3 семян наследия. После использования взрыва стихии все семена наследия расходуются, и через 2 сек. персонаж восстанавливает <color style='color:#99FFFF;'>6</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>12</color>  единиц элементальной энергии за каждое расходуемое семя."
+            "元素スキルを発動した後、継続時間30秒の継承の印を1つ獲得する。この効果は5秒毎に1回のみ発動可能で、継承の印は同時に最大3つまで存在可能。元素爆発を発動すると、所持している継承の印を全て消費し、消費した継承の印1つにつき、2秒後に該当キャラクターの元素エネルギーを <color style='color:#99FFFF;'>6</color> / <color style='color:#99FFFF;'>7.5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>10.5</color> / <color style='color:#99FFFF;'>12</color> ポイント回復する。"
         ]
     },
     "111415": {
         "Affix": [
-            "Урон элементального навыка повышается на <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  от защиты. Эффект возникает раз в 1,5 сек. и исчезает через 0,1 сек. после нанесения урона врагу элементальным навыком."
+            "元素スキルダメージが防御力 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> 分アップする。この効果は1.5秒毎に1回のみ発動可能で、元素スキルがダメージを与えた0.1秒後にクリアされる。"
         ]
     },
     "111416": {
         "Affix": [
-            "Попадания обычной атакой, заряженной атакой или атакой в падении поднимают Секущий ветер, который наносит урон по площади, равный 180% от силы атаки, а также повышает силу атаки на 15% на 8 сек. Этот эффект может возникнуть раз в 8 сек."
+            "通常攻撃、重撃、落下攻撃が敵に命中すると鋭い風が巻き起こり、攻撃力の180%の範囲ダメージを与える。また攻撃力+15%、継続時間8秒。この効果は8秒毎に1回のみ発動可能。"
         ]
     },
     "111417": {
         "Affix": [
-            "Активация статусов Горение, Стимуляция, Обострение, Разрастание, Бутонизация, Вегетация и Цветение создают рядом с персонажем Семя сознания, которое существует 10 сек. Мастерство стихий подобравшего его персонажа повышается на <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>75</color> / <color style='color:#99FFFF;'>90</color> / <color style='color:#99FFFF;'>105</color> / <color style='color:#99FFFF;'>120</color>  ед. на 12 сек. Семя сознания может возникнуть раз в 20 сек. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя. Эффект Семени сознания не суммируется."
+            "燃焼、原激化、超激化、草激化、開花、超開花、または烈開花反応を起こすと、キャラクターの周囲に最大10秒間継続する「唯識の葉」を生成する。「唯識の葉」を拾ったキャラクターは、元素熟知+ <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>75</color> / <color style='color:#99FFFF;'>90</color> / <color style='color:#99FFFF;'>105</color> / <color style='color:#99FFFF;'>120</color> 、継続時間12秒。この方法で生成できる「唯識の葉」は20秒毎に1つのみ。キャラクターが待機中でも発動できる。「唯識の葉」効果は重ね掛けできない。"
         ]
     },
     "111418": {
         "Affix": [
-            "Каждые 10 сек. срабатывает следующий эффект: восстановление энергии экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>0,036%</color> / <color style='color:#99FFFF;'>0,045%</color> / <color style='color:#99FFFF;'>0,054%</color> / <color style='color:#99FFFF;'>0,063%</color> / <color style='color:#99FFFF;'>0,072%</color>  за каждую единицу собственного мастерства стихий на 12 сек. Члены отряда поблизости получают 30% этого эффекта. Если этим оружием обладают и другие члены отряда, эффект суммируется. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя."
+            "10秒ごとに、下記の効果が発動する。装備したキャラクターの元素熟知の数値が1につき、該当キャラクターの元素チャージ効率+ <color style='color:#99FFFF;'>0.036%</color> / <color style='color:#99FFFF;'>0.045%</color> / <color style='color:#99FFFF;'>0.054%</color> / <color style='color:#99FFFF;'>0.063%</color> / <color style='color:#99FFFF;'>0.072%</color> 、アップする元素チャージ効率の30%を基準に、周囲にいるチーム内の他キャラクターの元素チャージ効率がアップする、継続時間12秒。複数の同じ武器によるこの効果は重ねることができる。キャラクターが待機中でも発動できる。"
         ]
     },
     "111419": {
         "Affix": [
-            "Попадания обычной атакой, заряженной атакой или атакой в падении выпускают Проклятого духа, нанося урон по площади, равный 180% от силы атаки, а также восстанавливают HP, равное 100% от силы атаки. Этот эффект может возникнуть раз в 8 сек. Экипированный этим оружием персонаж наносит на 50% меньше урона."
+            "通常攻撃、重撃、落下攻撃が敵に命中すると怨霊を放ち、攻撃力の180%の範囲ダメージを与える。また、攻撃力の100%分のHPを回復する。この効果は8秒毎に1回のみ発動可能。この武器を装備したキャラクターの与えるダメージ-50%。"
         ]
     },
     "111420": {
         "Affix": [
-            "Попадания обычной атакой, заряженной атакой или атакой в падении выпускают Проклятого духа, нанося урон по площади, равный 180% от силы атаки. Этот эффект может возникнуть раз в 8 сек. Экипированный этим оружием персонаж наносит на 50% меньше урона."
+            "通常攻撃、重撃、落下攻撃が敵に命中すると怨霊を放ち、攻撃力の180%の範囲ダメージを与える。この効果は8秒毎に1回のみ発動可能。この武器を装備したキャラクターの与えるダメージ-50%。"
         ]
     },
     "111421": {
         "Affix": [
-            "Попадания обычной атакой, заряженной атакой или атакой в падении выпускают Проклятого духа, нанося урон по площади, равный 180% от силы атаки, а также восстанавливают HP, равное 100% от силы атаки. Этот эффект может возникнуть раз в 8 сек. Экипированный этим оружием персонаж наносит на 50% меньше урона."
+            "通常攻撃、重撃、落下攻撃が敵に命中すると怨霊を放ち、攻撃力の180%の範囲ダメージを与える。また、攻撃力の100%分のHPを回復する。この効果は8秒毎に1回のみ発動可能。この武器を装備したキャラクターの与えるダメージ-50%。"
         ]
     },
     "111422": {
         "Affix": [
-            "При попадании по противникам на 10 сек. накладывает на одного из них Проклятый зонт. Этот эффект может возникнуть один раз в 15 сек. Если поражённый Проклятым зонтом противник погибнет до его окончания, откат эффекта немедленно обновится. Урон, который наносит экипированный этим оружием персонаж поражённым Проклятым зонтом противникам, увеличивается на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> ."
+            "攻撃が敵に命中した後、命中した敵1体に「紙傘の邪気」状態を付与する、継続時間10秒。この効果は15秒毎に1回のみ発動可能。状態継続時間中、該当の敵が倒された場合、この効果のクールタイムはリセットされる。装備したキャラクターは該当状態の敵に与えるダメージ+ <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> 。"
         ]
     },
     "111424": {
         "Affix": [
-            "Увеличивает урон элементального навыка и взрыва стихии на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> . Когда элементальный навык попадает по врагу, шанс крит. попадания элементального навыка увеличивается на <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2,5%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3,5%</color> / <color style='color:#99FFFF;'>4%</color> . Когда взрыв стихии попадает по врагу, шанс крит. попадания взрыва стихии увеличивается на <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2,5%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3,5%</color> / <color style='color:#99FFFF;'>4%</color> . Эффекты действуют независимо друг от друга. Каждый из эффектов длится 10 сек., складывается до 4 раз и может возникнуть один раз в 0,1 сек."
+            "元素スキルと元素爆発のダメージ+ <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> 。元素スキルが敵に命中した時、元素スキルの会心率+ <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2.5%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3.5%</color> / <color style='color:#99FFFF;'>4%</color> 。元素爆発が敵に命中した時、元素爆発の会心率+ <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2.5%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3.5%</color> / <color style='color:#99FFFF;'>4%</color> 。上記二つの効果はそれぞれ、継続時間10秒、最大4層まで重ね掛け可能、0.1秒毎に1回のみ発動できる。"
         ]
     },
     "111425": {
         "Affix": [
-            "Активация элементального навыка повышает силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  на 15 сек. и накладывает Долг жизни, равный 25% от макс. HP. Эффект может возникнуть один раз в 10 сек. Когда Долг жизни снимается, сила атаки повышается на <color style='color:#99FFFF;'>2,4%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3,6%</color> / <color style='color:#99FFFF;'>4,2%</color> / <color style='color:#99FFFF;'>4,8%</color>  от отданного значения Долга жизни (макс. <color style='color:#99FFFF;'>150</color> / <color style='color:#99FFFF;'>187,5</color> / <color style='color:#99FFFF;'>225</color> / <color style='color:#99FFFF;'>262,5</color> / <color style='color:#99FFFF;'>300</color>  ед.) на 15 сек."
+            "元素スキルを発動する時、攻撃力+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 、継続時間15秒。さらに、HP上限の25%を基に命の契約を付与し、この効果は10秒毎に1回のみ発動可能。命の契約がクリアされた時、クリア時の数値の <color style='color:#99FFFF;'>2.4%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3.6%</color> / <color style='color:#99FFFF;'>4.2%</color> / <color style='color:#99FFFF;'>4.8%</color> を基に攻撃力がアップする。最大+ <color style='color:#99FFFF;'>150</color> / <color style='color:#99FFFF;'>187.5</color> / <color style='color:#99FFFF;'>225</color> / <color style='color:#99FFFF;'>262.5</color> / <color style='color:#99FFFF;'>300</color> 、継続時間15秒。"
         ]
     },
     "111426": {
         "Affix": [
-            "Увеличивает шанс крит. попадания элементального навыка на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . Кроме того, после применения элементального навыка восстановление энергии повышается на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  на 5 сек."
+            "元素スキルの会心率+ <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> 。また、元素スキルを発動した後の5秒間、元素チャージ効率+ <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> 。"
         ]
     },
     "111427": {
         "Affix": [
-            "Когда экипированный персонаж лечит или получает лечение, он на 30 сек. наделяется Символом стойкости. Всего можно получить до 3 Символов. При активации элементального навыка или взрыва стихии все Символы расходуются и на 10 сек. создаётся эффект Воодушевления: за каждый израсходованный Символ мастерство стихий повышается на <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color>  ед., а через 2 сек. после активации эффекта каждый израсходованный Символ восстанавливает <color style='color:#99FFFF;'>2</color> / <color style='color:#99FFFF;'>2,5</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3,5</color> / <color style='color:#99FFFF;'>4</color>  ед. энергии. Эффект Воодушевления может возникнуть один раз в 15 сек. Персонаж получает Символы стойкости, даже если он не на поле боя."
+            "治療効果を受ける、または治療効果を与える時、強靭マークが1枚付与される。継続時間30秒、最大3枚まで。元素スキル、または元素爆発を発動する時、すべての強靭マークを消費し、継続時間10秒の「奮起」効果を獲得する。消費した強靭マーク1枚につき、元素熟知+ <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color> 、さらに「奮起」効果を獲得した2秒後、消費した強靭マーク1枚につき、装備者の元素エネルギーを <color style='color:#99FFFF;'>2</color> / <color style='color:#99FFFF;'>2.5</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3.5</color> / <color style='color:#99FFFF;'>4</color> ポイント回復する。「奮起」効果は15秒に1回のみ発動可能。キャラクターが待機中でも強靭マークを獲得できる。"
         ]
     },
     "111428": {
         "Affix": [
-            "Если у экипированного персонажа нет архэ, при попадании обычной атакой, заряженной атакой или атакой в падении происходит энергетический взрыв пневмы или усии, который наносит урон в <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color>  силы атаки. Эффект может возникнуть один раз в 12 сек. Тип энергетического взрыва зависит от текущего типа Меча Нарциссенкрейца."
+            "装備者が「アルケー」属性を持たない場合、通常攻撃、重撃、落下攻撃を命中させると、プネウマ、またはウーシアのエネルギー衝撃を放ち、攻撃力 <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> 分のダメージを与える。この効果は12秒毎に1回のみ発動可能。エネルギー衝撃の種類は、そのときの「水仙十字の剣」の属性によって決まる。"
         ]
     },
     "111429": {
         "Affix": [
-            "В бесчисленных историях этот подобающий герою меч также является ключом ко всем вратам на пути через кульминацию к финалу судьбы."
+            "数え切れないほどの物語に登場する、伝説の勇者に相応しい武器。すべての扉を開いてクライマックスを乗り越え、運命の終局へ向かう鍵でもある。"
         ]
     },
     "111501": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . При получении урона пробуждается душа Сокола Запада, несущего знамя сопротивления. Восстанавливает HP, равное <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>115%</color> / <color style='color:#99FFFF;'>130%</color> / <color style='color:#99FFFF;'>145%</color> / <color style='color:#99FFFF;'>160%</color>  от силы атаки, и наносит <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>230%</color> / <color style='color:#99FFFF;'>260%</color> / <color style='color:#99FFFF;'>290%</color> / <color style='color:#99FFFF;'>320%</color>  урона окружающим врагам. Может возникнуть раз в 15 сек."
+            "攻撃力+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。ダメージを受けると発動：抗争の旗を高く掲げる西風の鷹の魂が蘇り、攻撃力の <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>115%</color> / <color style='color:#99FFFF;'>130%</color> / <color style='color:#99FFFF;'>145%</color> / <color style='color:#99FFFF;'>160%</color> 分のHPを回復し、周りの敵に攻撃力の <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>230%</color> / <color style='color:#99FFFF;'>260%</color> / <color style='color:#99FFFF;'>290%</color> / <color style='color:#99FFFF;'>320%</color> のダメージを与える。15秒毎に1回のみ発動可能。"
         ]
     },
     "111502": {
         "Affix": [
-            "Увеличивает шанс крит. попадания на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> . Взрыв стихии пробуждает силу небес, которая увеличивает скорость передвижения и атаки на <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> , а обычные и заряженные атаки при попадании наносят дополнительный урон, равный <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  от силы атаки. Все эффекты длятся 12 сек."
+            "会心率+ <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> 。元素爆発を使用すると衝天の勢いを獲得する：移動速度+ <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> 、攻撃速度+ <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>10%</color> 、通常攻撃と重撃が命中する際に、攻撃力の <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> の追加ダメージを与える、継続時間12秒。"
         ]
     },
     "111503": {
         "Affix": [
-            "Часть Тысячелетней симфонии, что блуждает среди ветров. Увеличивает наносимый урон на <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12,5%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>17,5%</color> / <color style='color:#99FFFF;'>20%</color> . Вызов элементальной реакции даёт персонажу один Талисман воодушевления. Он может возникнуть раз в 0,5 сек., даже когда персонаж в отряде, но не активен. Два собранных Талисмана воодушевления пропадают, на 12 сек. наделяя ближайших членов отряда эффектом «Тысячелетняя симфония: Гимн восстания», который увеличивает урон, наносимый обычной атакой, заряженной атакой и атакой в падении, на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> , а силу атаки - на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . В течение 20 сек. после активации эффекта Талисманы воодушевления появляться не будут. Тысячелетняя симфония с эффектами, влияющими на те же навыки, не складывается."
+            "風と共に流れる「千年の大楽章」の一部。与えるダメージ+ <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12.5%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>17.5%</color> / <color style='color:#99FFFF;'>20%</color> 。元素反応を起こすと、奮起の欠片を1枚獲得する。この効果は0.5秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。奮起の欠片を2枚集めると、全ての奮起の欠片を消費し、周囲のチーム全員に12秒継続する「千年の大楽章·抗争の歌」効果を付与する：通常攻撃、重撃、落下攻撃のダメージ+ <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> 、攻撃力+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。発動後20秒の間、奮起の欠片を再度獲得することはできない。「千年の大楽章」のもたらす各効果中、同種類の効果は重ね掛け不可。"
         ]
     },
     "111504": {
         "Affix": [
-            "Увеличивает прочность щита на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . При попадании увеличивает силу атаки на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  в течение 8 сек. Эффект может складываться до 5 раз и возникнуть раз в 0,3 сек. Кроме того, под защитой щита бонус силы атаки данного эффекта увеличивается на 100%."
+            "シールド強化+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。攻撃が命中した8秒間、攻撃力+ <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> 。この効果は最大5重まで、0.3秒毎に1回のみ発動可能。また、シールド状態の時、攻撃力アップの効果量が2倍になる。"
         ]
     },
     "111505": {
         "Affix": [
-            "Увеличивает HP на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . Также даёт бонус атаки, равный <color style='color:#99FFFF;'>1,2%</color> / <color style='color:#99FFFF;'>1,5%</color> / <color style='color:#99FFFF;'>1,8%</color> / <color style='color:#99FFFF;'>2,1%</color> / <color style='color:#99FFFF;'>2,4%</color>  от макс. HP экипированного этим оружием персонажа."
+            "HP+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。また、キャラクターのHP上限の <color style='color:#99FFFF;'>1.2%</color> / <color style='color:#99FFFF;'>1.5%</color> / <color style='color:#99FFFF;'>1.8%</color> / <color style='color:#99FFFF;'>2.1%</color> / <color style='color:#99FFFF;'>2.4%</color> 分、攻撃力がアップする。"
         ]
     },
     "111509": {
         "Affix": [
-            "Все типы элементального урона получают <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  бонуса урона, а также силу Эмблемы рассекателя тумана. На уровнях эмблемы 1, 2 или 3 персонаж получает <color style='color:#99FFFF;'>8%, 16% или 28%</color> / <color style='color:#99FFFF;'>10%, 20% или 35%</color> / <color style='color:#99FFFF;'>12%, 24% или 42%</color> / <color style='color:#99FFFF;'>14%, 28% или 49%</color> / <color style='color:#99FFFF;'>16%, 32% или 56%</color>  бонуса к элементальному урону своей стихии соответственно. Персонаж получает 1 уровень Эмблемы рассекателя тумана в каждом из следующих случаев: при нанесении элементального урона обычной атакой, эмблема действует 5 сек.; при применении взрыва стихии, эмблема действует 10 сек.; когда элементальная энергия персонажа ниже 100%, полученная таким образом эмблема действует до тех пор, пока персонаж не восстановит всю свою элементальную энергию. Продолжительность действия каждой эмблема рассчитывается индивидуально."
+            "全元素ダメージ+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 、「霧切の巴紋」の効果を獲得できる。霧切の巴紋を1/2/3層有する時、自身元素タイプの元素ダメージ+ <color style='color:#99FFFF;'>8/16/28%</color> / <color style='color:#99FFFF;'>10/20/35%</color> / <color style='color:#99FFFF;'>12/24/42%</color> / <color style='color:#99FFFF;'>14/28/49%</color> / <color style='color:#99FFFF;'>16/32/56%</color> 。霧切の巴紋は次の各状況において獲得できる。通常攻撃で元素ダメージを与えた時、継続時間5秒の霧切の巴紋を1層獲得する。元素爆発を発動した時、継続時間10秒の霧切の巴紋を1層獲得する。また、キャラクターの元素エネルギーが100%未満の場合、霧切の巴紋を1層獲得する、この霧切の巴紋は元素エネルギーが満タンになると消失する。霧切の巴紋の継続時間は層ごとに独立している。"
         ]
     },
     "111510": {
         "Affix": [
-            "Даёт <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  бонус урона всеми элементами. Когда другие члены отряда поблизости активируют элементальные навыки, экипированный этим оружием персонаж получает 1 уровень Волны-шипа. Эффект возникает не чаще, чем один раз в 0,3 сек. Всего можно получить не более 2 уровней. Когда персонаж с этим оружием применяет элементальный навык, все уровни Волны-шипа тратятся, и он получает Хаос волн, который повышает урон обычной атаки согласно количеству уровней. Каждый уровень этого эффекта повышает урон обычной атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  в течение 8 сек."
+            "全元素ダメージ+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 。周囲にいるチーム内の他キャラクターが元素スキルを発動すると、装備キャラクターに「波穂」効果を1層与える。獲得できる「波穂」効果は最大2層まで、0.3秒毎に1回のみ獲得できる。装備キャラクターが元素スキルを発動すると、既存の「波穂」効果をすべて消費し、「波乱」効果を獲得する。「波乱」：消費した「波穂」1層につき、通常攻撃ダメージ+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 、継続時間8秒。"
         ]
     },
     "111511": {
         "Affix": [
-            "Увеличивает НР на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . Попадание элементальным навыком на 20 сек. создаёт Великое сказание, которое повышает мастерство стихий экипированного этим оружием персонажа на <color style='color:#99FFFF;'>0,12%</color> / <color style='color:#99FFFF;'>0,15%</color> / <color style='color:#99FFFF;'>0,18%</color> / <color style='color:#99FFFF;'>0,21%</color> / <color style='color:#99FFFF;'>0,24%</color>  от его макс. HP. Эффект может возникнуть не чаще 1 раза в 0,3 сек. и складывается до 3 раз. После получения 3 уровней или обновления длительности 3 уровня мастерство стихий всех персонажей поблизости увеличится на <color style='color:#99FFFF;'>0,2%</color> / <color style='color:#99FFFF;'>0,25%</color> / <color style='color:#99FFFF;'>0,3%</color> / <color style='color:#99FFFF;'>0,35%</color> / <color style='color:#99FFFF;'>0,4%</color>  от макс. HP экипированного этим оружием персонажа на 20 сек."
+            "HP+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。元素スキルが敵に命中すると、継続時間20秒の「壮大な詩篇」効果が発動する。「壮大な詩篇」：装備したキャラクターのHP上限の <color style='color:#99FFFF;'>0.12%</color> / <color style='color:#99FFFF;'>0.15%</color> / <color style='color:#99FFFF;'>0.18%</color> / <color style='color:#99FFFF;'>0.21%</color> / <color style='color:#99FFFF;'>0.24%</color> を基準に元素熟知がアップする、この効果は0.3秒ごとに1回のみ発動でき、最大3層まで重ね掛け可能。3層まで重ねた時、または3層の継続時間がリセットされた時、装備したキャラクターのHP上限の <color style='color:#99FFFF;'>0.2%</color> / <color style='color:#99FFFF;'>0.25%</color> / <color style='color:#99FFFF;'>0.3%</color> / <color style='color:#99FFFF;'>0.35%</color> / <color style='color:#99FFFF;'>0.4%</color> を基準に、周囲にいるチーム全員の元素熟知がアップする、継続時間20秒。"
         ]
     },
     "111512": {
         "Affix": [
-            "Шанс крит. попадания увеличивается на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> . Когда обычная атака наносит элементальный урон, она даёт эффект Лиственного выреза: урон обычных атак и элементальных навыков повышается на <color style='color:#99FFFF;'>120%</color> / <color style='color:#99FFFF;'>150%</color> / <color style='color:#99FFFF;'>180%</color> / <color style='color:#99FFFF;'>210%</color> / <color style='color:#99FFFF;'>240%</color>  от мастерства стихий. После 28 активаций или через 12 сек. эффект исчезнет. Лиственный вырез можно получить не чаще одного раза в 12 сек."
+            "会心率+ <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> 。通常攻撃で元素ダメージを与えた後、「裁葉」効果を獲得し、通常攻撃および元素スキルによるダメージが元素熟知の <color style='color:#99FFFF;'>120%</color> / <color style='color:#99FFFF;'>150%</color> / <color style='color:#99FFFF;'>180%</color> / <color style='color:#99FFFF;'>210%</color> / <color style='color:#99FFFF;'>240%</color> 分アップする。「裁葉」効果は28回発動または12秒後にクリアされ、12秒毎に1回のみ獲得できる。"
         ]
     },
     "111513": {
         "Affix": [
-            "Когда текущее HP экипированного персонажа увеличивается или снижается, наносимый урон элементального навыка повышается на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  на 6 сек. Эффект возникает не чаще 1 раза в 0,2 сек. и складывается до 3 раз. Когда текущее HP других членов отряда увеличивается или снижается, макс. HP экипированного персонажа повышается на <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>17,5%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24,5%</color> / <color style='color:#99FFFF;'>28%</color>  на 6 сек. Эффект возникает не чаще 1 раза в 0,2 сек. и складывается до 2 раз. Эффект срабатывает, даже когда экипированный персонаж находится вне поле боя."
+            "装備者の現在HPが増減する時、元素スキルのダメージ+ <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> 、継続時間6秒、最大3層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。チーム内にいる他のキャラクターの現在HPが増減する時、装備者のHP上限+ <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>17.5%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24.5%</color> / <color style='color:#99FFFF;'>28%</color> 、継続時間6秒、最大2層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。"
         ]
     },
     "111514": {
         "Affix": [
-            "Урон обычной атаки увеличивается на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> , элементального навыка - на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> . После того как активный персонаж поблизости наносит Гео урон, эти эффекты дополнительно увеличиваются на 100% на 15 сек. Кроме того, защита экипированного персонажа повышается на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> ."
+            "通常攻撃ダメージ+ <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> 、元素スキルダメージ+ <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> 。周囲のチーム全員がフィールド上で岩元素ダメージを与えた後、上記ダメージアップ効果が元の100%分アップ、継続時間15秒。また、装備者の防御力+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。"
         ]
     },
     "112301": {
         "Affix": [
-            "При HP ниже <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>75%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>85%</color> / <color style='color:#99FFFF;'>90%</color>  врагу становится труднее прервать заряженную атаку. Также увеличивает урон заряженной атаки на <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>45%</color> / <color style='color:#99FFFF;'>50%</color> ."
+            "HPが <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>75%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>85%</color> / <color style='color:#99FFFF;'>90%</color> 以下になると、重撃は中断されにくくなり、更に重撃ダメージ+ <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>45%</color> / <color style='color:#99FFFF;'>50%</color> 。"
         ]
     },
     "112302": {
         "Affix": [
-            "Увеличивает на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  урон против врагов, находящихся под действием Пиро или Электро элементов."
+            "炎元素または雷元素の影響を受けた敵に対するダメージ+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 。"
         ]
     },
     "112303": {
         "Affix": [
-            "Победа над противником восстанавливает <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  HP."
+            "敵を倒したとき、HPを <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> 回復する。"
         ]
     },
     "112304": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  на 12 сек. при активации реакций Перегрузка, Таяние, Горение, Пар, Цветение или Пиро Рассеивание."
+            "過負荷、溶解、燃焼、蒸発、烈開花、または炎元素拡散反応を起こしてから12秒間、攻撃力+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。"
         ]
     },
     "112305": {
         "Affix": [
-            "При попадании Элементальным навыком Обычные и Заряженные атаки наносят дополнительные <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>75%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>105%</color> / <color style='color:#99FFFF;'>120%</color>  урона по небольшой площади в течение 15 сек. Может возникнуть раз в 3 сек."
+            "元素スキルを発動した後、通常攻撃と重撃が命中する際に、狭範囲で攻撃力の <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>75%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>105%</color> / <color style='color:#99FFFF;'>120%</color> のダメージを与える、継続時間15秒、ダメージは3秒毎に1回のみ発動可能。"
         ]
     },
     "112306": {
         "Affix": [
-            "При попадании обычной или заряженной атакой сила атаки увеличивается на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10%</color>  в течение 6 сек. Эффект может складываться до 4 раз. Может возникнуть раз в 0,5 сек."
+            "通常攻撃と重撃が命中すると、攻撃力+ <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10%</color> 、継続時間6秒、最大4重まで。0.5秒毎に1回のみ発動可能。"
         ]
     },
     "112401": {
         "Affix": [
-            "Критические атаки имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать элементальные частицы, которые восстанавливают 6 ед. энергии. Возникает раз в <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>6</color>  сек."
+            "会心攻撃をした時、 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> の確率で少量の元素粒子を生成し、元素エネルギーを6回復する。 <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10.5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7.5</color> / <color style='color:#99FFFF;'>6</color> 秒毎に1回のみ発動可能。"
         ]
     },
     "112402": {
         "Affix": [
-            "При получении урона генерируется щит, который в течение 10 сек. поглощает урон, равный <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>23%</color> / <color style='color:#99FFFF;'>26%</color> / <color style='color:#99FFFF;'>29%</color> / <color style='color:#99FFFF;'>32%</color>  от макс. HP. Может возникнуть раз в <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color>  сек. Под защитой щита увеличивает урон персонажа на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> ."
+            "ダメージを受けた時、HP上限の <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>23%</color> / <color style='color:#99FFFF;'>26%</color> / <color style='color:#99FFFF;'>29%</color> / <color style='color:#99FFFF;'>32%</color> に相当するダメージを吸収できるシールドを生成する。継続時間は最大10秒まで。 <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color> / <color style='color:#99FFFF;'>45</color> 秒毎に1回のみ発動可能。シールドが存在する時、キャラクターの与えるダメージ+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 。"
         ]
     },
     "112403": {
         "Affix": [
-            "Когда элементальный навык наносит урон, есть <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  вероятность, что его откат моментально восстановится. Может возникнуть раз в <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color>  сек."
+            "元素スキルが敵にダメージを与えた時、 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> の確率で該当スキルのクールタイムをリセットする。 <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color> 秒毎に1回のみ発動可能。"
         ]
     },
     "112404": {
         "Affix": [
-            "При нанесении урона противнику повышает шанс крит. попадания на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . Эффект может складываться до 5 раз. Добавочный шанс крит. попадания исчезает с первым крит. попаданием."
+            "攻撃が敵にダメージを与えた時、会心率+ <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> 、最大5重まで。攻撃会心発生時、効果がクリアされる。"
         ]
     },
     "112405": {
         "Affix": [
-            "Увеличивает на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>36%</color>  урон против врагов, находящихся под действием Гидро или Электро элементов."
+            "水元素または雷元素の影響を受けた敵に対するダメージ+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>36%</color> 。"
         ]
     },
     "112406": {
         "Affix": [
-            "При попадании обычной или заряженной атакой имеет 50% шанс нанести дополнительные <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>300%</color> / <color style='color:#99FFFF;'>360%</color> / <color style='color:#99FFFF;'>420%</color> / <color style='color:#99FFFF;'>480%</color>  урона в небольшом радиусе. Может возникнуть раз в 15 сек."
+            "通常攻撃と重撃が命中する時、50%の確率で狭範囲の敵に攻撃力の <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>300%</color> / <color style='color:#99FFFF;'>360%</color> / <color style='color:#99FFFF;'>420%</color> / <color style='color:#99FFFF;'>480%</color> の追加ダメージを与える。15秒毎に1回のみ発動可能。"
         ]
     },
     "112407": {
         "Affix": [
-            "При попадании Обычной или Заряженной атакой Сила атаки и Защита увеличиваются на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color>  в течение 6 сек. Эффект может складываться до 4 раз. Может возникнуть не чаще 1 раза за 0,5 сек."
+            "通常攻撃と重撃が命中すると、攻撃力と防御力+ <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7.5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10.5%</color> / <color style='color:#99FFFF;'>12%</color> 、継続時間6秒、最大4重まで。0.5秒毎に1回のみ発動可能。"
         ]
     },
     "112408": {
         "Affix": [
-            "Побеждённые противники увеличивают силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Длится 30 сек. Эффект может складываться до 3 раз. Длительность добавочных эффектов друг от друга не зависит."
+            "敵を倒した後、攻撃力+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 、継続時間30秒。最大3重まで、継続時間は加算されず、重ごとに別カウントされる。"
         ]
     },
     "112409": {
         "Affix": [
-            "Каждые 4 сек. увеличивает наносимый персонажем урон на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10%</color>  и получаемый им урон на <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>2,7%</color> / <color style='color:#99FFFF;'>2,4%</color> / <color style='color:#99FFFF;'>2,2%</color> / <color style='color:#99FFFF;'>2%</color> , пока тот активен. Может складываться до 5 раз, не сбрасывается при смене персонажа, при получении урона снижается на 1 уровень складывания."
+            "フィールドにいる時、4秒毎に、与えるダメージ+ <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10%</color> 、被ダメージ+ <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>2.7%</color> / <color style='color:#99FFFF;'>2.4%</color> / <color style='color:#99FFFF;'>2.2%</color> / <color style='color:#99FFFF;'>2%</color> 。最大5重まで、退場後もリセットされず、攻撃を受けると効果数-1。"
         ]
     },
     "112410": {
         "Affix": [
-            "С каждым членом отряда из Ли Юэ сила атаки экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>11%</color> , а его шанс крит. попадания - на <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> . Эффект может складываться до 4 раз."
+            "チームに璃月出身のキャラクターが1人いる毎に、この武器を装備したキャラクターの攻撃力+ <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>11%</color> 、会心率+ <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> 。最大4重まで。"
         ]
     },
     "112411": {
         "Affix": [
-            "Попадания обычной или заряженной атакой имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать над противником ледяной кристалл и уронить его, нанося <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>95%</color> / <color style='color:#99FFFF;'>110%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>140%</color>  урона силы атаки по площади. Если противник имеет эффект Крио, то наносит ему <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> / <color style='color:#99FFFF;'>360%</color>  урона силы атаки. Может возникнуть раз в 10 сек."
+            "通常攻撃と重撃が敵に命中した時、 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>95%</color> / <color style='color:#99FFFF;'>110%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>140%</color> の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> / <color style='color:#99FFFF;'>360%</color> のダメージを与える。この効果は10秒毎に1回のみ発動可能。"
         ]
     },
     "112412": {
         "Affix": [
-            "Увеличивает урон взрыва стихии на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . При попадании взрывом стихии по противнику с вероятностью в 100% призывается Титанический тунец, который совершает атаку и наносит урон по площади, равный <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>150%</color> / <color style='color:#99FFFF;'>175%</color> / <color style='color:#99FFFF;'>200%</color>  от силы атаки. Может возникнуть раз в 15 сек."
+            "元素爆発ダメージ+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 。元素爆発が敵に命中すると、100%の確率でマグロを召喚し、衝撃を与え、攻撃力 <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>150%</color> / <color style='color:#99FFFF;'>175%</color> / <color style='color:#99FFFF;'>200%</color> 分の範囲ダメージを与える。この効果は15秒毎に1回のみ発動可能。"
         ]
     },
     "112414": {
         "Affix": [
-            "Увеличивает урон элементального навыка на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color> . Когда элементальный навык поражает противника, персонаж теряет 3 единицы энергии, но восстанавливает <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3,5</color> / <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>4,5</color> / <color style='color:#99FFFF;'>5</color>  единицы энергии каждые 2 сек. в течение следующих 6 сек. Эффект может возникнуть один раз в 10 сек. Эффект может сработать, даже когда персонаж не находится на поле боя."
+            "元素スキルのダメージ+ <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7.5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10.5%</color> / <color style='color:#99FFFF;'>12%</color> 。元素スキルが命中した時、キャラクターは元素エネルギーを3ポイント失う。その後の6秒間、2秒毎に元素エネルギーを <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3.5</color> / <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>4.5</color> / <color style='color:#99FFFF;'>5</color> ポイント獲得する。この効果は10秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。"
         ]
     },
     "112415": {
         "Affix": [
-            "Каждые 10 сек. срабатывает следующий эффект: сила атаки экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  от мастерства стихий на 12 сек. Члены отряда поблизости получают 30% этого эффекта. Если этим оружием обладают и другие члены отряда, эффект суммируется. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя."
+            "10秒ごとに、下記の効果が発動する。装備したキャラクターの元素熟知の <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> を基準に該当キャラクターの攻撃力がアップし、アップする攻撃力の30%を基準に周囲にいるチーム内の他キャラクターの攻撃力がアップする、継続時間12秒。複数の同じ武器によるこの効果は重ねることができる。キャラクターが待機中でも発動できる。"
         ]
     },
     "112416": {
         "Affix": [
-            "Урон взрыва стихии экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>0,12%</color> / <color style='color:#99FFFF;'>0,15%</color> / <color style='color:#99FFFF;'>0,18%</color> / <color style='color:#99FFFF;'>0,21%</color> / <color style='color:#99FFFF;'>0,24%</color>  за каждую единицу суммы макс. энергии каждого члена отряда. Бонус урона не может превышать <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> ."
+            "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+ <color style='color:#99FFFF;'>0.12%</color> / <color style='color:#99FFFF;'>0.15%</color> / <color style='color:#99FFFF;'>0.18%</color> / <color style='color:#99FFFF;'>0.21%</color> / <color style='color:#99FFFF;'>0.24%</color> 。この方法でアップできる元素爆発ダメージは最大 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> まで。"
         ]
     },
     "112417": {
         "Affix": [
-            "Активация статусов Горение, Стимуляция, Обострение, Разрастание, Бутонизация, Вегетация и Цветение создают рядом с персонажем Семя сознания, которое существует 10 сек. Мастерство стихий подобравшего его персонажа повышается на <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>75</color> / <color style='color:#99FFFF;'>90</color> / <color style='color:#99FFFF;'>105</color> / <color style='color:#99FFFF;'>120</color>  ед. на 12 сек. Семя сознания может возникнуть раз в 20 сек. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя. Эффект Семени сознания не суммируется."
+            "燃焼、原激化、超激化、草激化、開花、超開花、または烈開花反応を起こすと、キャラクターの周囲に最大10秒間継続する「唯識の葉」を生成する。「唯識の葉」を拾ったキャラクターは、元素熟知+ <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>75</color> / <color style='color:#99FFFF;'>90</color> / <color style='color:#99FFFF;'>105</color> / <color style='color:#99FFFF;'>120</color> 、継続時間12秒。この方法で生成できる「唯識の葉」は20秒毎に1つのみ。キャラクターが待機中でも発動できる。「唯識の葉」効果は重ね掛けできない。"
         ]
     },
     "112418": {
         "Affix": [
-            "После попадания элементальным навыком по противнику или активации элементальной реакции, на 8 сек. сила атаки повышается на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> , а мастерство стихий - на <color style='color:#99FFFF;'>48</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>72</color> / <color style='color:#99FFFF;'>84</color> / <color style='color:#99FFFF;'>96</color>  ед."
+            "元素スキルが敵に命中する、または元素反応を起こした後の8秒間、攻撃力+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 、元素熟知+ <color style='color:#99FFFF;'>48</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>72</color> / <color style='color:#99FFFF;'>84</color> / <color style='color:#99FFFF;'>96</color> 。"
         ]
     },
     "112424": {
         "Affix": [
-            "Повышает силу атаки на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  на 15 сек. после получения эффекта Пиро. Этот эффект может возникнуть один раз в 12 сек. После получения эффектов Гидро, Крио, Электро или Дендро бонус элементального урона на 15 сек. увеличивается на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Может возникнуть раз в 12 сек."
+            "炎元素を付着させられた後の15秒間、攻撃力+ <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> 、12秒毎に1回のみ発動可能。水元素、氷元素、雷元素または草元素を付着させられた後の15秒間、全元素ダメージ+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 、12秒毎に1回のみ発動可能。"
         ]
     },
     "112425": {
         "Affix": [
-            "Сила атаки после получения лечения увеличивается на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  на 8 сек. Эффект срабатывает, даже когда персонаж не на поле боя."
+            "治療を受けた後、攻撃力+ <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> 、継続時間8秒。キャラクターが待機中でも発動できる。"
         ]
     },
     "112426": {
         "Affix": [
-            "Повышает силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Но это ещё не всё! Поддержка мелюзин деревни Меруси, которым вы помогли, наполняет вас мощью! В зависимости от их количества, сила атаки может дополнительно увеличиться максимум на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> ."
+            "攻撃力+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 。それだけじゃない！メリュシー村であなたに助けられたメリュジーヌたちの声援が力を与え、満たしてくれる。助けた彼女たちの数を基に、攻撃力がさらに最大 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> アップする。"
         ]
     },
     "112427": {
         "Affix": [
-            "Когда экипированный персонаж лечит или получает лечение, он на 30 сек. наделяется Символом стойкости. Всего можно получить до 3 Символов. При активации элементального навыка или взрыва стихии все Символы расходуются и на 10 сек. создаётся эффект Воодушевления: за каждый израсходованный Символ мастерство стихий повышается на <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color>  ед., а через 2 сек. после активации эффекта каждый израсходованный Символ восстанавливает <color style='color:#99FFFF;'>2</color> / <color style='color:#99FFFF;'>2,5</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3,5</color> / <color style='color:#99FFFF;'>4</color>  ед. энергии. Эффект Воодушевления может возникнуть один раз в 15 сек. Персонаж получает Символы стойкости, даже если он не на поле боя."
+            "治療効果を受ける、または治療効果を与える時、強靭マークが1枚付与される。継続時間30秒、最大3枚まで。元素スキル、または元素爆発を発動する時、すべての強靭マークを消費し、継続時間10秒の「奮起」効果を獲得する。消費した強靭マーク1枚につき、元素熟知+ <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color> 、さらに「奮起」効果を獲得した2秒後、消費した強靭マーク1枚につき、装備者の元素エネルギーを <color style='color:#99FFFF;'>2</color> / <color style='color:#99FFFF;'>2.5</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3.5</color> / <color style='color:#99FFFF;'>4</color> ポイント回復する。「奮起」効果は15秒に1回のみ発動可能。キャラクターが待機中でも強靭マークを獲得できる。"
         ]
     },
     "112501": {
         "Affix": [
-            "Увеличивает наносимый урон на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . После активации взрыва стихий попадания обычными или заряженными атаками запускают неосязаемое лезвие, которое наносит <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>120%</color> / <color style='color:#99FFFF;'>140%</color> / <color style='color:#99FFFF;'>160%</color>  урона всем врагам на своём пути. Длится 20 сек. или 8 неосязаемых лезвий."
+            "与えるダメージ+ <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> 。元素爆発を発動した後、通常攻撃と重撃が命中すると真空の刃を放ち、経路上の敵に攻撃力の <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>120%</color> / <color style='color:#99FFFF;'>140%</color> / <color style='color:#99FFFF;'>160%</color> のダメージを与える、継続時間20秒または真空の刃を8回発動するまで。"
         ]
     },
     "112502": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . При попадании по цели с HP меньше 30% увеличивает силу атаки всех членов отряда на <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  в течение 12 сек. Может возникнуть не чаще 1 раза за 30 сек."
+            "攻撃力+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。HPが30%以下の敵に命中すると、チーム全員の攻撃力+ <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> 、継続時間12秒。30秒に1回のみ発動可能。"
         ]
     },
     "112503": {
         "Affix": [
-            "Часть Тысячелетней симфонии, что блуждает среди ветров. Увеличивает силу атаки на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  и при попадании обычной или заряженной атакой даёт персонажу Печать шёпота. Этот эффект может возникнуть раз в 0,3 сек. После получения 4-ой Печати шёпота все они тратятся, и все окружающие члены отряда получают эффект Тысячелетняя симфония: Гимн знамени на 12 сек. Тысячелетняя симфония: Гимн знамени увеличивает скорость обычной атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  и силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . После активации этого эффекта вы не сможете получать Печати шёпота в течение 20 сек. При наличии нескольких эффектов Тысячелетней симфонии усиления одного типа не складываются."
+            "風と共に流れる「千年の大楽章」の一部。攻撃力+ <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> 。通常攻撃または重撃が敵に命中すると、囁きの欠片を1枚獲得する。この効果は0.3秒毎に1回のみ発動できる。囁きの欠片を4枚集めると、全ての囁きの欠片を消費し、周囲のチーム全員に12秒継続する「千年の大楽章·旗掲げの歌」効果を付与する：通常攻撃速度+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 、攻撃力+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。発動後の20秒間、囁きの欠片を再度獲得することはできない。「千年の大楽章」のもたらす各効果中、同種類の効果は重ね掛け不可。"
         ]
     },
     "112504": {
         "Affix": [
-            "Увеличивает прочность щита на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . При попадании увеличивает силу атаки на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  в течение 8 сек. Эффект может складываться до 5 раз и возникнуть раз в 0,3 сек. Кроме того, под защитой щита бонус силы атаки данного эффекта увеличивается на 100%."
+            "シールド強化+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。攻撃が命中した8秒間、攻撃力+ <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> 。この効果は最大5重まで、0.3秒毎に1回のみ発動可能。また、シールド状態の時、攻撃力アップの効果量が2倍になる。"
         ]
     },
     "112510": {
         "Affix": [
-            "Защита повышается на <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>49%</color> / <color style='color:#99FFFF;'>56%</color> , урон обычных и заряженных атак повышается на <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  защиты."
+            "防御力+ <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>49%</color> / <color style='color:#99FFFF;'>56%</color> 。通常攻撃と重撃ダメージが防御力 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> 分アップする。"
         ]
     },
     "112511": {
         "Affix": [
-            "После попадания элементальным навыком по противнику сила атаки увеличится на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  на 8 сек. При получении урона сила атаки увеличится на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  на 8 сек. Эти эффекты срабатывают, даже если персонаж не на поле боя. Кроме того, если экипированный персонаж не защищён щитом, его макс. HP увеличится на <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>56%</color> / <color style='color:#99FFFF;'>64%</color> ."
+            "元素スキルが敵に命中した後、攻撃力+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 、継続時間8秒。ダメージを受けた後、攻撃力+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 、継続時間8秒。上記二つの効果は、キャラクターが待機中でも発動できる。また、シールド状態でない時、HP上限+ <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>56%</color> / <color style='color:#99FFFF;'>64%</color> 。"
         ]
     },
     "112512": {
         "Affix": [
-            "Повышает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . Когда члены отряда подбирают элементальные осколки, созданные реакцией Кристалл, экипированный персонаж получает 1 Печать, которая увеличивает урон элементального навыка на <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>22,5%</color> / <color style='color:#99FFFF;'>27%</color> / <color style='color:#99FFFF;'>31,5%</color> / <color style='color:#99FFFF;'>36%</color> . Печать действует 15 сек. Одновременно можно иметь 2 Печати. Все Печати экипированного персонажа пропадут через 0,2 сек. после нанесения урона его элементальным навыком."
+            "攻撃力+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。チームにいるキャラクターが、結晶反応による結晶の欠片を獲得した時、装備者は「契印」を1枚獲得し、元素スキルのダメージ+ <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>22.5%</color> / <color style='color:#99FFFF;'>27%</color> / <color style='color:#99FFFF;'>31.5%</color> / <color style='color:#99FFFF;'>36%</color> 。「契印」の継続時間は15秒、最大2枚まで。すべての「契印」は、装備者の元素スキルがダメージを与えた0.2秒後にクリアされる。"
         ]
     },
     "113301": {
         "Affix": [
-            "Увеличивает урон обычной атаки на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> ."
+            "通常攻撃のダメージ+ <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> 。"
         ]
     },
     "113302": {
         "Affix": [
-            "Обычные атаки наносят дополнительные <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color>  урона. Может возникнуть не чаще 1 раза за 10 сек."
+            "通常攻撃が命中した敵1体に攻撃力の <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> の追加ダメージを与える。10秒毎に1回のみ発動可能。"
         ]
     },
     "113303": {
         "Affix": [
-            "Увеличивает урон по слаймам на <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> ."
+            "スライムタイプの敵に対するダメージ+ <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> 。"
         ]
     },
     "113304": {
         "Affix": [
-            "Победа над противником восстанавливает <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  HP."
+            "敵を倒したとき、HPを <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> 回復する。"
         ]
     },
     "113401": {
         "Affix": [
-            "Увеличивает на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>36%</color>  урон против врагов, находящихся под действием Гидро или Пиро элементов."
+            "水元素または炎元素の影響を受けた敵に対するダメージ+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>36%</color> 。"
         ]
     },
     "113402": {
         "Affix": [
-            "Использование элементального навыка увеличивает урон обычной и заряженной атаки на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  в течение 12 сек. Эффект может складываться до 2 раз."
+            "元素スキルを発動した後、通常攻撃と重撃のダメージ+ <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> 、継続時間12秒、最大2重まで。"
         ]
     },
     "113403": {
         "Affix": [
-            "В течение 5 сек. после поднятия элементальной сферы или частицы обычные и заряженные атаки наносят дополнительный урон, равный <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  от силы атаки."
+            "元素粒子または元素オーブを獲得した5秒間、通常攻撃と重撃で、攻撃力の <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> の追加ダメージを与える。"
         ]
     },
     "113404": {
         "Affix": [
-            "Побеждённые противники увеличивают силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Длится 30 сек. Эффект может складываться до 3 раз. Длительность добавочных эффектов друг от друга не зависит."
+            "敵を倒した後、攻撃力+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 、継続時間30秒。最大3重まで、継続時間は加算されず、重ごとに別カウントされる。"
         ]
     },
     "113405": {
         "Affix": [
-            "Если рядом 2 врага и более, сила атаки и защита увеличиваются на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> ; если рядом менее 2 врагов, сила атаки увеличивается на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> ."
+            "近くに敵が2人以上いる時、攻撃力+ <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> 、防御力+ <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> 。近くに敵が2人未満の時、攻撃力+ <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> 。"
         ]
     },
     "113406": {
         "Affix": [
-            "С каждым членом отряда из Ли Юэ сила атаки экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>11%</color> , а его шанс крит. попадания - на <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> . Эффект может складываться до 4 раз."
+            "チームに璃月出身のキャラクターが1人いる毎に、この武器を装備したキャラクターの攻撃力+ <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>11%</color> 、会心率+ <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> 。最大4重まで。"
         ]
     },
     "113407": {
         "Affix": [
-            "Критические атаки имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать элементальные частицы, которые восстанавливают 6 ед. энергии. Возникает раз в <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>6</color>  сек."
+            "会心攻撃をした時、 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> の確率で少量の元素粒子を生成し、元素エネルギーを6回復する。 <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10.5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7.5</color> / <color style='color:#99FFFF;'>6</color> 秒毎に1回のみ発動可能。"
         ]
     },
     "113408": {
         "Affix": [
-            "При нанесении урона противнику повышает шанс крит. попадания на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . Эффект может складываться до 5 раз. Добавочный шанс крит. попадания исчезает с первым крит. попаданием."
+            "攻撃が敵にダメージを与えた時、会心率+ <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> 、最大5重まで。攻撃会心発生時、効果がクリアされる。"
         ]
     },
     "113409": {
         "Affix": [
-            "Попадания обычной или заряженной атакой имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать над противником ледяной кристалл и уронить его, нанося <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>95%</color> / <color style='color:#99FFFF;'>110%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>140%</color>  урона силы атаки по площади. Если противник имеет эффект Крио, то наносит ему <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> / <color style='color:#99FFFF;'>360%</color>  урона силы атаки. Может возникнуть раз в 10 сек."
+            "通常攻撃と重撃が敵に命中した時、 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>95%</color> / <color style='color:#99FFFF;'>110%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>140%</color> の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> / <color style='color:#99FFFF;'>360%</color> のダメージを与える。この効果は10秒毎に1回のみ発動可能。"
         ]
     },
     "113414": {
         "Affix": [
-            "Увеличивает урон элементального навыка на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color> . Когда элементальный навык поражает противника, персонаж теряет 3 единицы энергии, но восстанавливает <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3,5</color> / <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>4,5</color> / <color style='color:#99FFFF;'>5</color>  единицы энергии каждые 2 сек. в течение следующих 6 сек. Эффект может возникнуть один раз в 10 сек. Эффект может сработать, даже когда персонаж не находится на поле боя."
+            "元素スキルのダメージ+ <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7.5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10.5%</color> / <color style='color:#99FFFF;'>12%</color> 。元素スキルが命中した時、キャラクターは元素エネルギーを3ポイント失う。その後の6秒間、2秒毎に元素エネルギーを <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3.5</color> / <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>4.5</color> / <color style='color:#99FFFF;'>5</color> ポイント獲得する。この効果は10秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。"
         ]
     },
     "113415": {
         "Affix": [
-            "Повышает урон взрыва стихии на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  и его шанс крит. попадания на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color> ."
+            "元素爆発ダメージ+ <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> 、元素爆発の会心率+ <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7.5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10.5%</color> / <color style='color:#99FFFF;'>12%</color> 。"
         ]
     },
     "113416": {
         "Affix": [
-            "Урон взрыва стихии экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>0,12%</color> / <color style='color:#99FFFF;'>0,15%</color> / <color style='color:#99FFFF;'>0,18%</color> / <color style='color:#99FFFF;'>0,21%</color> / <color style='color:#99FFFF;'>0,24%</color>  за каждую единицу суммы макс. энергии каждого члена отряда. Бонус урона не может превышать <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> ."
+            "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+ <color style='color:#99FFFF;'>0.12%</color> / <color style='color:#99FFFF;'>0.15%</color> / <color style='color:#99FFFF;'>0.18%</color> / <color style='color:#99FFFF;'>0.21%</color> / <color style='color:#99FFFF;'>0.24%</color> 。この方法でアップできる元素爆発ダメージは最大 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> まで。"
         ]
     },
     "113417": {
         "Affix": [
-            "Активация статусов Горение, Стимуляция, Обострение, Разрастание, Бутонизация, Вегетация и Цветение создают рядом с персонажем Лист оживления, который существует 10 сек. Сила атаки подобравшего его персонажа повышается на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  на 12 сек. Лист оживления может возникнуть раз в 20 сек. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя."
+            "燃焼、原激化、超激化、草激化、開花、超開花、または烈開花反応を起こすと、キャラクターの周囲に最大10秒間存在する「蘇生の葉」を生成する。「蘇生の葉」を拾うと、キャラクターの攻撃力+ <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> 、継続時間12秒。この方法で生成できる「蘇生の葉」は20秒毎に1つのみ。キャラクターが待機中でも発動できる。"
         ]
     },
     "113419": {
         "Affix": [
-            "В течение 10 сек. после активации элементальной реакции сила атаки повысится на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> , мастерство стихий - на <color style='color:#99FFFF;'>48</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>72</color> / <color style='color:#99FFFF;'>84</color> / <color style='color:#99FFFF;'>96</color>  ед."
+            "元素反応を起こした後の10秒間、攻撃力+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 、元素熟知+ <color style='color:#99FFFF;'>48</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>72</color> / <color style='color:#99FFFF;'>84</color> / <color style='color:#99FFFF;'>96</color> 。"
         ]
     },
     "113424": {
         "Affix": [
-            "Если в отряде не менее 3 персонажей разных элементов, мастерство стихий увеличивается на <color style='color:#99FFFF;'>120</color> / <color style='color:#99FFFF;'>150</color> / <color style='color:#99FFFF;'>180</color> / <color style='color:#99FFFF;'>210</color> / <color style='color:#99FFFF;'>240</color>  ед."
+            "チーム内に異なる元素タイプのキャラクターが3名以上いる時、元素熟知+ <color style='color:#99FFFF;'>120</color> / <color style='color:#99FFFF;'>150</color> / <color style='color:#99FFFF;'>180</color> / <color style='color:#99FFFF;'>210</color> / <color style='color:#99FFFF;'>240</color> 。"
         ]
     },
     "113425": {
         "Affix": [
-            "При получении лечения персонаж восстанавливает <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>16</color>  ед. энергии. Эффект может возникнуть один раз в 10 сек. и срабатывает, даже когда персонаж не на поле боя."
+            "治療を受けた時、元素エネルギーを <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>16</color> ポイント回復する。この効果は10秒毎に1回のみ発動可能。キャラクターが待機中でも発動できる。"
         ]
     },
     "113426": {
         "Affix": [
-            "Экипированный персонаж, исцеляя персонажей отряда, восстанавливает <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>16</color>  ед. энергии. Эффект может возникнуть один раз в 10 сек. и срабатывает, даже когда персонаж не на поле боя."
+            "治療を行う時、元素エネルギーを <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>16</color> ポイント回復する。この効果は10秒毎に1回のみ発動可能。キャラクターが待機中でも発動できる。"
         ]
     },
     "113427": {
         "Affix": [
-            "Когда экипированный персонаж лечит или получает лечение, он на 30 сек. наделяется Меткой единства. Всего можно получить до 3 Меток. При активации элементального навыка или взрыва стихии все Метки расходуются и на 10 сек. создаётся эффект Отпора: за каждую израсходованную Метку сила атаки повышается на <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> , а бонус урона всеми элементами - на <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8,5%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>11,5%</color> / <color style='color:#99FFFF;'>13%</color> . Эффект Отпора может возникнуть один раз в 15 сек. Персонаж получает Метки единства, даже если он не на поле боя."
+            "治療効果を受ける、または治療効果を与える時、団結マークが1枚付与される。継続時間30秒、最大3枚まで。元素スキル、または元素爆発を発動する時、すべての団結マークを消費し、継続時間10秒の「抗争」効果を獲得する。消費した団結マーク1枚につき、攻撃力+ <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> 、全元素ダメージ+ <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8.5%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>11.5%</color> / <color style='color:#99FFFF;'>13%</color> 。「抗争」効果は15秒に1回のみ発動可能。キャラクターが待機中でも団結マークを獲得できる。"
         ]
     },
     "113501": {
         "Affix": [
-            "Увеличивает HP на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . Также даёт бонус атаки, равный <color style='color:#99FFFF;'>0,8%</color> / <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1,2%</color> / <color style='color:#99FFFF;'>1,4%</color> / <color style='color:#99FFFF;'>1,6%</color>  от макс. HP экипированного этим оружием персонажа. Когда HP экипированного этим оружием персонажа опускается ниже 50%, его сила атаки дополнительно увеличивается на <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1,2%</color> / <color style='color:#99FFFF;'>1,4%</color> / <color style='color:#99FFFF;'>1,6%</color> / <color style='color:#99FFFF;'>1,8%</color>  от его макс. HP."
+            "HP+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。また、キャラクターのHP上限の <color style='color:#99FFFF;'>0.8%</color> / <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1.2%</color> / <color style='color:#99FFFF;'>1.4%</color> / <color style='color:#99FFFF;'>1.6%</color> 分、攻撃力がアップする。キャラクターのHPが50%未満の時、攻撃力が更にHP上限の <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1.2%</color> / <color style='color:#99FFFF;'>1.4%</color> / <color style='color:#99FFFF;'>1.6%</color> / <color style='color:#99FFFF;'>1.8%</color> 分アップする。"
         ]
     },
     "113502": {
         "Affix": [
-            "Увеличивает шанс крит. попадания на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  и скорость обычной атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>12%</color> . При попадании обычной или заряженной атакой есть <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>50%</color>  шанс активировать неосязаемое лезвие, которое наносит <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>55%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>85%</color> / <color style='color:#99FFFF;'>100%</color>  урона в небольшом радиусе. Может возникнуть раз в 2 сек."
+            "会心率+ <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> 、通常攻撃速度+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>12%</color> 。通常攻撃と重撃が命中時、 <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>50%</color> の確率で真空刃を発動し、攻撃力の <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>55%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>85%</color> / <color style='color:#99FFFF;'>100%</color> の狭範囲ダメージを与える。2秒毎に1回のみ発動可能。"
         ]
     },
     "113504": {
         "Affix": [
-            "Увеличивает прочность щита на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . При попадании увеличивает силу атаки на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  в течение 8 сек. Эффект может складываться до 5 раз и возникнуть раз в 0,3 сек. Кроме того, под защитой щита бонус силы атаки данного эффекта увеличивается на 100%."
+            "シールド強化+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。攻撃が命中した8秒間、攻撃力+ <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> 。この効果は最大5重まで、0.3秒毎に1回のみ発動可能。また、シールド状態の時、攻撃力アップの効果量が2倍になる。"
         ]
     },
     "113505": {
         "Affix": [
-            "При попадании увеличивает силу атаки на <color style='color:#99FFFF;'>3,2%</color> / <color style='color:#99FFFF;'>3,9%</color> / <color style='color:#99FFFF;'>4,6%</color> / <color style='color:#99FFFF;'>5,3%</color> / <color style='color:#99FFFF;'>6%</color>  в течение 6 сек. Эффект может складываться до 7 раз и возникает не чаще чем раз в 0,3 сек. На 7 уровне складывания увеличивает урон на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> ."
+            "敵に命中した時、自身の攻撃力+ <color style='color:#99FFFF;'>3.2%</color> / <color style='color:#99FFFF;'>3.9%</color> / <color style='color:#99FFFF;'>4.6%</color> / <color style='color:#99FFFF;'>5.3%</color> / <color style='color:#99FFFF;'>6%</color> 、継続時間6秒、最大7重まで。0.3秒に1回のみ発動できる。7重まで発動すると与えるダメージ+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 。"
         ]
     },
     "113507": {
         "Affix": [
-            "Даёт <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  бонус урона всеми элементами. Запуск элементального навыка накладывает Совершенствование на 20 сек., в результате чего сила атаки увеличивается на <color style='color:#99FFFF;'>3,2%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>4,8%</color> / <color style='color:#99FFFF;'>5,6%</color> / <color style='color:#99FFFF;'>6,4%</color>  в секунду. Может складываться до 6 раз. Когда персонаж, экипированный этим оружием, не на поле боя, бонус атаки от Совершенствования удваивается."
+            "全元素ダメージ+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 。元素スキルを発動すると、継続時間20秒の「円頓」を獲得し、1秒毎に攻撃力が <color style='color:#99FFFF;'>3.2%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>4.8%</color> / <color style='color:#99FFFF;'>5.6%</color> / <color style='color:#99FFFF;'>6.4%</color> アップする。この効果は最大6回まで重ね掛け可能。この武器を装備したキャラクターが待機中の時、「円頓」による攻撃力アップ効果は2倍になる。"
         ]
     },
     "113509": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>49%</color> / <color style='color:#99FFFF;'>56%</color>  от показателя восстановления энергии свыше 100%. Вы можете получить бонус силы атаки до <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>110%</color> / <color style='color:#99FFFF;'>120%</color> . Также даёт <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>45%</color> / <color style='color:#99FFFF;'>50%</color>  восстановления энергии на 12 сек. после активации взрыва стихии."
+            "元素チャージ効率が100%を超えている場合、その超えた部分の <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>49%</color> / <color style='color:#99FFFF;'>56%</color> 分、攻撃力がアップする。この方法でアップできる攻撃力は最大 <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>110%</color> / <color style='color:#99FFFF;'>120%</color> まで。元素爆発を発動した後の12秒間、元素チャージ効率+ <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>45%</color> / <color style='color:#99FFFF;'>50%</color> 。"
         ]
     },
     "113511": {
         "Affix": [
-            "Экипированный этим оружием персонаж получает бонус атаки, равный <color style='color:#99FFFF;'>52%</color> / <color style='color:#99FFFF;'>65%</color> / <color style='color:#99FFFF;'>78%</color> / <color style='color:#99FFFF;'>91%</color> / <color style='color:#99FFFF;'>104%</color>  от его мастерства стихий. Попадание по врагу элементальным навыком на 10 сек. наделяет Сном алых песков: экипированный этим оружием персонаж получает бонус атаки, равный <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>49%</color> / <color style='color:#99FFFF;'>56%</color>  от мастерства стихий. Эффект складывается до 3 раз."
+            "装備したキャラクターの元素熟知の <color style='color:#99FFFF;'>52%</color> / <color style='color:#99FFFF;'>65%</color> / <color style='color:#99FFFF;'>78%</color> / <color style='color:#99FFFF;'>91%</color> / <color style='color:#99FFFF;'>104%</color> を基準に攻撃力がアップする。元素スキルが敵に命中すると、継続時間10秒の「赤砂の夢」効果が発動する。「赤砂の夢」：装備したキャラクターの元素熟知の <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>49%</color> / <color style='color:#99FFFF;'>56%</color> を基準に攻撃力がアップする、この効果は最大3層まで重ね掛け可能。"
         ]
     },
     "114301": {
         "Affix": [
-            "Увеличивает на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  урон против врагов, находящихся под действием Гидро или Электро элементов."
+            "水元素または雷元素の影響を受けた敵に対するダメージ+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 。"
         ]
     },
     "114302": {
         "Affix": [
-            "При переключении персонажа увеличивает силу атаки вошедшего на поле боя персонажа на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  в течение 10 сек. Может возникнуть раз в 20 сек."
+            "キャラを切り替えると、次に登場するキャラの攻撃力+ <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> 、継続時間10秒。20秒に1回のみ発動可能。"
         ]
     },
     "114303": {
         "Affix": [
-            "Подобранные элементальные сферы и частицы восстанавливают <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1,25%</color> / <color style='color:#99FFFF;'>1,5%</color> / <color style='color:#99FFFF;'>1,75%</color> / <color style='color:#99FFFF;'>2%</color>  HP."
+            "元素オーブまたは元素粒子を獲得した時、HPを <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1.25%</color> / <color style='color:#99FFFF;'>1.5%</color> / <color style='color:#99FFFF;'>1.75%</color> / <color style='color:#99FFFF;'>2%</color> 回復する。"
         ]
     },
     "114304": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  на 12 сек. при активации реакций Пар, Заряжен, Заморозка, Бутонизация или Гидро рассеивание."
+            "蒸発、感電、凍結、開花、または水元素拡散反応を起こした後12秒間、攻撃力+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。"
         ]
     },
     "114305": {
         "Affix": [
-            "Победа над противником увеличивает скорость передвижения и силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>20%</color>  в течение 15 сек."
+            "敵を倒した後15秒間、移動速度と攻撃力+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>20%</color> 。"
         ]
     },
     "114306": {
         "Affix": [
-            "Попадания обычной атакой дают <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color>  бонус элементального урона на 6 сек. Может складываться до 2 раз."
+            "通常攻撃が命中した後、元素ダメージ+ <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7.5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10.5%</color> / <color style='color:#99FFFF;'>12%</color> 、継続時間6秒、最大2重まで。"
         ]
     },
     "114401": {
         "Affix": [
-            "Критические атаки имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать элементальные частицы, которые восстанавливают 6 ед. энергии. Возникает раз в <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>6</color>  сек."
+            "会心攻撃をした時、 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> の確率で少量の元素粒子を生成し、元素エネルギーを6回復する。 <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10.5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7.5</color> / <color style='color:#99FFFF;'>6</color> 秒毎に1回のみ発動可能。"
         ]
     },
     "114402": {
         "Affix": [
-            "При переключении на персонажа в течение 10 сек. играет случайная музыкальная тема. Может возникнуть раз в 30 сек. Речитатив: увеличивает силу атаки на <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>75%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>105%</color> / <color style='color:#99FFFF;'>120%</color> ; Ария: увеличивает элементальный урон на <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>72%</color> / <color style='color:#99FFFF;'>84%</color> / <color style='color:#99FFFF;'>96%</color> ; Интерлюдия: увеличивает мастерство стихий на <color style='color:#99FFFF;'>240</color> / <color style='color:#99FFFF;'>300</color> / <color style='color:#99FFFF;'>360</color> / <color style='color:#99FFFF;'>420</color> / <color style='color:#99FFFF;'>480</color> ."
+            "キャラ登場時、ランダムにテーマ曲を1つ獲得する、継続時間10秒。30秒毎に1回のみ発動可能。叙唱：攻撃力+ <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>75%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>105%</color> / <color style='color:#99FFFF;'>120%</color> 。詠唱：全元素ダメージ+ <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>72%</color> / <color style='color:#99FFFF;'>84%</color> / <color style='color:#99FFFF;'>96%</color> 。間奏曲：元素熟知+ <color style='color:#99FFFF;'>240</color> / <color style='color:#99FFFF;'>300</color> / <color style='color:#99FFFF;'>360</color> / <color style='color:#99FFFF;'>420</color> / <color style='color:#99FFFF;'>480</color> 。"
         ]
     },
     "114403": {
         "Affix": [
-            "Когда элементальный навык наносит урон, есть <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  вероятность, что его откат моментально восстановится. Может возникнуть раз в <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color>  сек."
+            "元素スキルが敵にダメージを与えた時、 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> の確率で該当スキルのクールタイムをリセットする。 <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color> 秒毎に1回のみ発動可能。"
         ]
     },
     "114404": {
         "Affix": [
-            "При нанесении урона противнику повышает шанс крит. попадания на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . Эффект может складываться до 5 раз. Добавочный шанс крит. попадания исчезает с первым крит. попаданием."
+            "攻撃が敵にダメージを与えた時、会心率+ <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> 、最大5重まで。攻撃会心発生時、効果がクリアされる。"
         ]
     },
     "114405": {
         "Affix": [
-            "Попадания обычной атакой увеличивают урон элементальных навыков и взрыва стихии на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  в течение 6 сек. И наоборот, попадания элементальными навыками и взрывом стихии увеличивают урон обычной атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  в течение 6 сек."
+            "通常攻撃が命中した後、6秒間元素スキルと元素爆発のダメージ+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。元素スキルまたは元素爆発が命中した後、6秒間通常攻撃のダメージ+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。"
         ]
     },
     "114406": {
         "Affix": [
-            "В течение 6 сек. после использования взрыва стихий восстанавливается <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>4,5</color> / <color style='color:#99FFFF;'>5</color> / <color style='color:#99FFFF;'>5,5</color> / <color style='color:#99FFFF;'>6</color>  ед. энергии каждые 2 сек., а все члены отряда восстанавливают по <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>4,5%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>5,5%</color> / <color style='color:#99FFFF;'>6%</color>  HP каждые 2 сек."
+            "元素爆発を発動した後の6秒間、2秒毎に元素エネルギーを <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>4.5</color> / <color style='color:#99FFFF;'>5</color> / <color style='color:#99FFFF;'>5.5</color> / <color style='color:#99FFFF;'>6</color> 回復し、チーム全員のHPを2秒毎に <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>4.5%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>5.5%</color> / <color style='color:#99FFFF;'>6%</color> 回復する。"
         ]
     },
     "114407": {
         "Affix": [
-            "В течение 10 сек. после вызова элементальной реакции даёт <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  бонус элементального урона. Может складываться до 2 раз."
+            "元素反応を起こした後、元素ダメージ+ <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> 、継続時間10秒、最大2重まで。"
         ]
     },
     "114408": {
         "Affix": [
-            "Побеждённые противники увеличивают силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Длится 30 сек. Эффект может складываться до 3 раз. Длительность добавочных эффектов друг от друга не зависит."
+            "敵を倒した後、攻撃力+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 、継続時間30秒。最大3重まで、継続時間は加算されず、重ごとに別カウントされる。"
         ]
     },
     "114409": {
         "Affix": [
-            "При попадании обычной или заряженной атакой появляется 50% шанс запустить Око сознания, которое наносит <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>270%</color> / <color style='color:#99FFFF;'>300%</color> / <color style='color:#99FFFF;'>330%</color> / <color style='color:#99FFFF;'>360%</color>  урона силы атаки. Оно способно отразиться от противника к противнику до 4 раз. Может возникнуть раз в <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>11</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>8</color>  сек."
+            "通常攻撃と重撃が命中する時、50%の確率で昭心法珠を一つ発射し、敵に攻撃力の <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>270%</color> / <color style='color:#99FFFF;'>300%</color> / <color style='color:#99FFFF;'>330%</color> / <color style='color:#99FFFF;'>360%</color> のダメージを与える。敵同士に最大4回跳ね返る。この効果は <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>11</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>8</color> 秒毎に1回のみ発動可能。"
         ]
     },
     "114410": {
         "Affix": [
-            "Попадания обычной атакой уменьшают потребление выносливости спринта и навыков, заменяющих спринт, на <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>22%</color>  в течение 5 сек. Кроме того, использование спринта или навыка, заменяющего спринт, увеличивает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  в течение 5 сек."
+            "通常攻撃が敵に命中すると、ダッシュまたはダッシュを代替する能力のスタミナ消費- <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>22%</color> 、持続時間5秒。また、ダッシュまたはダッシュを代替する能力を使用すると、攻撃力+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 、持続時間5秒。"
         ]
     },
     "114412": {
         "Affix": [
-            "Попадания обычной или заряженной атакой имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать над противником ледяной кристалл и уронить его, нанося <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>95%</color> / <color style='color:#99FFFF;'>110%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>140%</color>  урона силы атаки по площади. Если противник имеет эффект Крио, то наносит ему <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> / <color style='color:#99FFFF;'>360%</color>  урона силы атаки. Может возникнуть раз в 10 сек."
+            "通常攻撃と重撃が敵に命中した時、 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>95%</color> / <color style='color:#99FFFF;'>110%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>140%</color> の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> / <color style='color:#99FFFF;'>360%</color> のダメージを与える。この効果は10秒毎に1回のみ発動可能。"
         ]
     },
     "114413": {
         "Affix": [
-            "Попадания обычной атакой увеличивают урон заряженной атаки на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  в течение 6 сек., а попадания заряженной атакой увеличивают силу атаки на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  в течение 6 сек."
+            "通常攻撃が敵に命中した後の6秒間、重撃ダメージ+ <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> 。重撃が敵に命中した後の6秒間、攻撃力+ <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> 。"
         ]
     },
     "114414": {
         "Affix": [
-            "Когда персонаж, экипированный этим оружием, вызывает реакцию, связанную с элементом Электро, все находящиеся рядом члены отряда, чей элемент соответствует этой реакции, получают <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12,5%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>17,5%</color> / <color style='color:#99FFFF;'>20%</color>  бонус урона к своему элементу на 6 сек. Элементальные бонусы урона, полученные таким образом, не суммируются."
+            "この武器を装備したキャラクターが雷元素に関連する反応を起こした時、周囲チーム内にてその反応に関わった元素タイプのキャラクターは強化効果を獲得する。強化効果：該当元素タイプの元素ダメージ+ <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12.5%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>17.5%</color> / <color style='color:#99FFFF;'>20%</color> 、継続時間6秒。この方法で獲得する元素ダメージアップ効果は重ね掛けできない。"
         ]
     },
     "114415": {
         "Affix": [
-            "Использование элементального навыка увеличивает восстановление энергии на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  в течение 10 сек."
+            "元素スキルを発動すると、元素チャージ効率+ <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> 、継続時間10秒。"
         ]
     },
     "114416": {
         "Affix": [
-            "Каждые 10 сек. срабатывает следующий эффект: сила атаки экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color>  от мастерства стихий на 12 сек. Члены отряда поблизости получают 30% этого эффекта. Если этим оружием обладают и другие члены отряда, эффект суммируется. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя."
+            "10秒ごとに、下記の効果が発動する。装備したキャラクターの元素熟知の <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> を基準に該当キャラクターの攻撃力がアップし、アップする攻撃力の30%を基準に周囲にいるチーム内の他キャラクターの攻撃力がアップする、継続時間12秒。複数の同じ武器によるこの効果は重ねることができる。キャラクターが待機中でも発動できる。"
         ]
     },
     "114417": {
         "Affix": [
-            "Вызов элементальной реакции наделяет персонажа эффектом Роста и убыли, который увеличивает мастерство стихий на <color style='color:#99FFFF;'>24</color> / <color style='color:#99FFFF;'>27</color> / <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>33</color> / <color style='color:#99FFFF;'>36</color>  ед., но понижает силу атаки на 5%. Эффект может возникнуть один раз в 0,3 сек. и складывается до 5 раз. Если не вызывать элементальные реакции, каждые 6 сек. теряется по одному уровню эффекта. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя."
+            "元素反応を起こすと、「盈虚」効果を獲得する。「盈虚」効果：元素熟知+ <color style='color:#99FFFF;'>24</color> / <color style='color:#99FFFF;'>27</color> / <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>33</color> / <color style='color:#99FFFF;'>36</color> 、攻撃力-5%。「盈虚」効果は最大5層まで重ね掛けでき、0.3秒毎に最大1層獲得可能。元素反応を起こさないでいると、6秒毎に1層失う。キャラクターが待機中でも発動できる。"
         ]
     },
     "114424": {
         "Affix": [
-            "Если персонаж не на поле боя более 5 сек., макс. HP увеличивается на <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>56%</color> / <color style='color:#99FFFF;'>64%</color> , а мастерство стихий - на <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color>  ед. После вступления персонажа в бой эффект длится 10 сек., после чего исчезает."
+            "待機時間が5秒を超えている場合、HP上限+ <color style='color:#99FFFF;'>32%</color> / <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>56%</color> / <color style='color:#99FFFF;'>64%</color> 、元素熟知+ <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color> 。装備者が登場し、10秒間フィールドに残った後、この効果は解除される。"
         ]
     },
     "114425": {
         "Affix": [
-            "Активация элементального навыка повышает бонус урона всеми элементами на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  на 15 сек. и накладывает Долг жизни, равный 24% от макс. HP. Эффект может возникнуть один раз в 10 сек. Когда Долг жизни снимается, бонус урона всеми элементами на 15 сек. увеличивается на <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2,5%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3,5%</color> / <color style='color:#99FFFF;'>4%</color>  за каждые отданные 1000 ед. HP Долга жизни. Бонус урона всеми элементами, полученный таким образом, не может превышать <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> ."
+            "元素スキルを発動する時、全元素ダメージ+ <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> 、継続時間15秒。さらに、HP上限の24%を基に命の契約を付与し、この効果は10秒毎に1回のみ発動可能。命の契約がクリアされた時、その数値の1000ごとに全元素ダメージ+ <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2.5%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3.5%</color> / <color style='color:#99FFFF;'>4%</color> 。この方法でアップできる全元素ダメージは最大 <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> まで、継続時間15秒。"
         ]
     },
     "114426": {
         "Affix": [
-            "В течение 6 сек. после попадания обычной или заряженной атаки по противнику урон обычной атаки повысится на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> , а урон заряженной атаки - на <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10,5%</color> / <color style='color:#99FFFF;'>12%</color> . Эффект может складываться до 3 раз и возникает один раз в 0,3 сек."
+            "通常攻撃または重撃が敵に命中した6秒間、通常攻撃のダメージ+ <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> 、重撃のダメージ+ <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7.5%</color> / <color style='color:#99FFFF;'>9%</color> / <color style='color:#99FFFF;'>10.5%</color> / <color style='color:#99FFFF;'>12%</color> 。この効果は最大3重まで、0.3秒毎に1回のみ発動可能。"
         ]
     },
     "114501": {
         "Affix": [
-            "Увеличивает бонус элементального урона на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . При попадании обычной атакой есть 50% шанс получить благословение облаков, которые в течение 15 сек. атакуют ближайших врагов и наносят им <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color>  урона. Может возникнуть раз в 30 сек."
+            "元素ダメージ+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 。通常攻撃が命中した時、50%の確率で高天流雲の好意を獲得し、15秒以内に自分から周囲の敵を攻撃すると、攻撃力の <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> 相当のダメージを与える。30秒毎に1回のみ発動可能。"
         ]
     },
     "114502": {
         "Affix": [
-            "Увеличивает скорость передвижения на 10%. Во время битвы даёт <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  бонус элементального урона каждые 4 сек. Может складываться до 4 раз. Эффект оканчивается, если персонаж погибает или покидает поле боя."
+            "移動速度+10%。フィールドにいる時、4秒毎に元素ダメージ+ <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> 、最大4重まで。キャラが退場または戦闘不能まで有効。"
         ]
     },
     "114504": {
         "Affix": [
-            "Увеличивает прочность щита на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . При попадании увеличивает силу атаки на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  в течение 8 сек. Эффект может складываться до 5 раз и возникнуть раз в 0,3 сек. Кроме того, под защитой щита бонус силы атаки данного эффекта увеличивается на 100%."
+            "シールド強化+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。攻撃が命中した8秒間、攻撃力+ <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> 。この効果は最大5重まで、0.3秒毎に1回のみ発動可能。また、シールド状態の時、攻撃力アップの効果量が2倍になる。"
         ]
     },
     "114505": {
         "Affix": [
-            "Когда экипированный персонаж активирует взрыв стихии или создаёт щит, он на 3 сек. получает эффект Камня воли: каждые 2,5 сек. восстанавливается <color style='color:#99FFFF;'>4,5</color> / <color style='color:#99FFFF;'>5</color> / <color style='color:#99FFFF;'>5,5</color> / <color style='color:#99FFFF;'>6</color> / <color style='color:#99FFFF;'>6,5</color>  ед. энергии, а бонус урона соответствующего элемента повышается на <color style='color:#99FFFF;'>0,3%</color> / <color style='color:#99FFFF;'>0,5%</color> / <color style='color:#99FFFF;'>0,7%</color> / <color style='color:#99FFFF;'>0,9%</color> / <color style='color:#99FFFF;'>1,1%</color>  за каждую 1000 ед. макс. HP персонажа, максимум <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>44%</color> . Эффект Камня воли активируется, даже если экипированный персонаж не на поле боя."
+            "元素爆発を発動、またはシールドを生成した後の3秒間、「定土玉圭」効果を獲得する。2.5秒毎に元素エネルギーを <color style='color:#99FFFF;'>4.5</color> / <color style='color:#99FFFF;'>5</color> / <color style='color:#99FFFF;'>5.5</color> / <color style='color:#99FFFF;'>6</color> / <color style='color:#99FFFF;'>6.5</color> 回復し、さらに装備者のHP上限に基づき、1000ごとに自身元素タイプの元素ダメージ+ <color style='color:#99FFFF;'>0.3%</color> / <color style='color:#99FFFF;'>0.5%</color> / <color style='color:#99FFFF;'>0.7%</color> / <color style='color:#99FFFF;'>0.9%</color> / <color style='color:#99FFFF;'>1.1%</color> 、最大+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>44%</color> まで。装備したキャラクターが待機している場合にも、「定土玉圭」効果を発動できる。"
         ]
     },
     "114506": {
         "Affix": [
-            "Увеличивает бонус лечения на <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12,5%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>17,5%</color> / <color style='color:#99FFFF;'>20%</color> , также повышает урон обычной атаки на <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1,5%</color> / <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2,5%</color> / <color style='color:#99FFFF;'>3%</color>  от макс. HP экипированного этим оружием персонажа. В течение 12 сек. после использования взрыва стихии попадания обычной атакой по противнику восстанавливают 0,6 ед. энергии. Энергию можно восстановить не чаще чем раз в 0,1 сек."
+            "与える治療効果+ <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12.5%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>17.5%</color> / <color style='color:#99FFFF;'>20%</color> 。この武器を装備したキャラクターのHP上限の <color style='color:#99FFFF;'>1%</color> / <color style='color:#99FFFF;'>1.5%</color> / <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2.5%</color> / <color style='color:#99FFFF;'>3%</color> 分、通常攻撃ダメージがアップする。元素爆発を発動した後の12秒間、通常攻撃が敵に命中すると元素エネルギーが0.6ポイント回復する。この方法での元素エネルギー回復は、0.1秒毎に1回のみ可能。"
         ]
     },
     "114509": {
         "Affix": [
-            "Использование элементального навыка наделяет экипированного этим оружием персонажа эффектом «Танец кагура», который увеличивает урон его элементального навыка на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Этот эффект длится 16 сек. и может складываться до 3 раз. На 3 уровне эффекта персонаж получает <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  бонус урона всеми элементами."
+            "元素スキルを発動すると、「神楽舞」の効果を獲得する。この武器を装備したキャラクターの元素スキルによるダメージ+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 、継続時間16秒、最大3層まで。3層の効果を持つ時、該当キャラクターの全元素ダメージ+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 。"
         ]
     },
     "114511": {
         "Affix": [
-            "Другие члены отряда предоставляют экипированному этим оружием персонажу усиления в зависимости от того, совпадают их элементы, или нет. Если элементы совпадают, мастерство стихий повышается на <color style='color:#99FFFF;'>32</color> / <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>48</color> / <color style='color:#99FFFF;'>56</color> / <color style='color:#99FFFF;'>64</color>  ед. Если не совпадают, экипированный этим оружием персонаж получает <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>22%</color> / <color style='color:#99FFFF;'>26%</color>  бонус урона своего элемента. Данные эффекты складываются до 3 раз. Вдобавок мастерство стихий всех персонажей отряда поблизости (кроме экипированного этим оружием персонажа) увеличивается на <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>42</color> / <color style='color:#99FFFF;'>44</color> / <color style='color:#99FFFF;'>46</color> / <color style='color:#99FFFF;'>48</color>  единиц. Если этим оружием обладают и другие члены отряда, эффект суммируется."
+            "チーム内にいる他キャラクターの元素タイプと装備者自身の元素タイプに応じて、自身に異なる強化効果をもたらす。元素タイプが同じ場合：元素熟知+ <color style='color:#99FFFF;'>32</color> / <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>48</color> / <color style='color:#99FFFF;'>56</color> / <color style='color:#99FFFF;'>64</color> 。元素タイプが異なる場合：自身元素タイプの元素ダメージ+ <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>22%</color> / <color style='color:#99FFFF;'>26%</color> 。上記の強化効果は1種類につき最大3層まで重ね掛け可能。また、装備者自身を除く、周囲のチーム全員の元素熟知+ <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>42</color> / <color style='color:#99FFFF;'>44</color> / <color style='color:#99FFFF;'>46</color> / <color style='color:#99FFFF;'>48</color> 、同じ武器によるこの効果は複数重ねることができる。"
         ]
     },
     "114512": {
         "Affix": [
-            "Скорость обычной атаки повышается на <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12,5%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>17,5%</color> / <color style='color:#99FFFF;'>20%</color> . После активации экипированным этим оружием персонажем элементального навыка урон обычной атаки будет повышаться на <color style='color:#99FFFF;'>4,8%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7,2%</color> / <color style='color:#99FFFF;'>8,4%</color> / <color style='color:#99FFFF;'>9,6%</color>  в секунду в течение 14 сек. Пока этот эффект активен, каждое попадание по противнику мгновенно увеличивает урон обычной атаки на <color style='color:#99FFFF;'>9,6%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14,4%</color> / <color style='color:#99FFFF;'>16,8%</color> / <color style='color:#99FFFF;'>19,2%</color> . Увеличение может возникнуть один раз в 0,3 сек. Во время действия одного такого эффекта урон обычной атаки может быть увеличен максимум на <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>72%</color> / <color style='color:#99FFFF;'>84%</color> / <color style='color:#99FFFF;'>96%</color> . Эффект будет снят, если персонаж покинет поле боя, а повторная активация элементального навыка сбросит увеличение урона."
+            "通常攻撃の攻撃速度+ <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12.5%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>17.5%</color> / <color style='color:#99FFFF;'>20%</color> 。元素スキルを発動した後の14秒間、下記の二つの効果を発動する。1秒毎に通常攻撃の与えるダメージ+ <color style='color:#99FFFF;'>4.8%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7.2%</color> / <color style='color:#99FFFF;'>8.4%</color> / <color style='color:#99FFFF;'>9.6%</color> 。通常攻撃が敵に命中するたびに、通常攻撃の与えるダメージがさらに+ <color style='color:#99FFFF;'>9.6%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14.4%</color> / <color style='color:#99FFFF;'>16.8%</color> / <color style='color:#99FFFF;'>19.2%</color> 、この効果は0.3秒毎に1回のみ発動可能。効果継続時間中、これらの方法を通じてアップできる通常攻撃のダメージは最大 <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>72%</color> / <color style='color:#99FFFF;'>84%</color> / <color style='color:#99FFFF;'>96%</color> まで。キャラクターが退場する時、該当効果が解除される。また、再び元素スキルを発動すると、既存の効果はリセットされる。"
         ]
     },
     "114513": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> . Когда текущее HP персонажа повышается или понижается, на 4 сек. урон обычной атаки увеличивается на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> , а заряженной атаки - на <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>17,5%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24,5%</color> / <color style='color:#99FFFF;'>28%</color> . Эффект складывается до 3 раз и возникает не чаще, чем 1 раз в 0,3 сек. При получении экипированным персонажем 3 уровней скорость атаки увеличивается на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> ."
+            "攻撃力+ <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> 。現在HPが増減する時、通常攻撃ダメージ+ <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> 、重撃ダメージ+ <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>17.5%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24.5%</color> / <color style='color:#99FFFF;'>28%</color> 。継続時間4秒、最大3層まで。この効果は0.3秒毎に1回のみ発動可能。3層まで重ねた時、攻撃速度+ <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> 。"
         ]
     },
     "114514": {
         "Affix": [
-            "Увеличивает HP на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> . Когда текущее HP персонажа повышается или понижается, урон заряженной атаки увеличивается на <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>22%</color> / <color style='color:#99FFFF;'>26%</color> / <color style='color:#99FFFF;'>30%</color>  на 4 сек. Эффект складывается до 3 раз и возникает не чаще, чем 1 раз в 0,3 сек. При получении 3 уровней или обновлении времени длительности 3 уровня восстанавливается <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>11</color> / <color style='color:#99FFFF;'>12</color>  ед. энергии. Восстанавливать энергию таким образом можно 1 раз в 12 сек."
+            "HP上限+ <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> 。現在HPが増減する時、重撃ダメージ+ <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>22%</color> / <color style='color:#99FFFF;'>26%</color> / <color style='color:#99FFFF;'>30%</color> 。継続時間4秒、最大3層まで。0.3秒毎に1回のみ発動可能。3層まで重ねた時、または3層の継続時間がリセットされた時、元素エネルギーを <color style='color:#99FFFF;'>8</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>10</color> / <color style='color:#99FFFF;'>11</color> / <color style='color:#99FFFF;'>12</color> ポイント回復する。この方法による元素エネルギーの回復は、12秒毎に1回のみ。"
         ]
     },
     "114515": {
         "Affix": [
-            "После того как атака в падении экипированного персонажа поражает врага, урон атак в падении членов отряда поблизости повышается на <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>41%</color> / <color style='color:#99FFFF;'>54%</color> / <color style='color:#99FFFF;'>67%</color> / <color style='color:#99FFFF;'>80%</color>  на 20 сек. Попадания атак в падении членов отряда поблизости восстанавливают <color style='color:#99FFFF;'>2,5</color> / <color style='color:#99FFFF;'>2,75</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3,25</color> / <color style='color:#99FFFF;'>3,5</color>  ед. энергии экипированного персонажа. Восстанавливать энергию таким образом можно 1 раз в 0,7 сек. Эффект восстановления энергии срабатывает, даже если экипированный персонаж не на поле боя."
+            "装備者の落下攻撃が敵に命中すると、周囲のチーム全員の落下攻撃ダメージ+ <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>41%</color> / <color style='color:#99FFFF;'>54%</color> / <color style='color:#99FFFF;'>67%</color> / <color style='color:#99FFFF;'>80%</color> 、継続時間20秒。周囲のチーム全員の落下攻撃が敵に命中した時、装備者の元素エネルギーが <color style='color:#99FFFF;'>2.5</color> / <color style='color:#99FFFF;'>2.75</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>3.25</color> / <color style='color:#99FFFF;'>3.5</color> ポイント回復する。この方法による元素エネルギーの回復は、0.7秒毎に1回のみ可能で、装備したキャラクターが待機している場合にも発動できる。"
         ]
     },
     "115301": {
         "Affix": [
-            "Увеличивает на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  урон против врагов, находящихся под действием Гидро или Пиро элементов."
+            "水元素または炎元素の影響を受けた敵に対するダメージ+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 。"
         ]
     },
     "115302": {
         "Affix": [
-            "Увеличивает урон по слабым местам противников на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> ."
+            "弱点に対するダメージ+ <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> 。"
         ]
     },
     "115303": {
         "Affix": [
-            "Победа над противником восстанавливает <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color>  HP."
+            "敵を倒したとき、HPを <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> 回復する。"
         ]
     },
     "115304": {
         "Affix": [
-            "Если обычная или заряженная стрела поразила цель в течение 0,3 сек. после выстрела, то её урон увеличивается на <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>54%</color> / <color style='color:#99FFFF;'>60%</color> . В противном случае урон уменьшается на 10%."
+            "通常攻撃または重撃の矢が発射した後、0.3秒以内に敵に命中した場合、与えるダメージ+ <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> / <color style='color:#99FFFF;'>54%</color> / <color style='color:#99FFFF;'>60%</color> 。0.3秒以上の場合、与えるダメージ-10%。"
         ]
     },
     "115305": {
         "Affix": [
-            "При попадании заряженной атакой по слабому месту дополнительно наносит <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>150%</color> / <color style='color:#99FFFF;'>175%</color> / <color style='color:#99FFFF;'>200%</color>  урона в качестве крит. урона. Может возникнуть раз в 10 сек."
+            "重撃が弱点に命中した場合、追加で攻撃力 <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>125%</color> / <color style='color:#99FFFF;'>150%</color> / <color style='color:#99FFFF;'>175%</color> / <color style='color:#99FFFF;'>200%</color> のダメージを与え、必ず会心ダメージとなる。10秒毎に1回のみ発動可能。"
         ]
     },
     "115306": {
         "Affix": [
-            "Увеличивает урон по механическим защитникам руин на <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> ."
+            "遺跡機械類の敵に与えるダメージ+ <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> 。"
         ]
     },
     "115401": {
         "Affix": [
-            "Критические атаки имеют <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс создать элементальные частицы, которые восстанавливают 6 ед. энергии. Возникает раз в <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10,5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7,5</color> / <color style='color:#99FFFF;'>6</color>  сек."
+            "会心攻撃をした時、 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> の確率で少量の元素粒子を生成し、元素エネルギーを6回復する。 <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>10.5</color> / <color style='color:#99FFFF;'>9</color> / <color style='color:#99FFFF;'>7.5</color> / <color style='color:#99FFFF;'>6</color> 秒毎に1回のみ発動可能。"
         ]
     },
     "115402": {
         "Affix": [
-            "Увеличивает урон элементального навыка и взрыва стихии на <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> ."
+            "元素スキルと元素爆発のダメージ+ <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>48%</color> 。"
         ]
     },
     "115403": {
         "Affix": [
-            "Когда элементальный навык наносит урон, есть <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  вероятность, что его откат моментально восстановится. Может возникнуть раз в <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color>  сек."
+            "元素スキルが敵にダメージを与えた時、 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> の確率で該当スキルのクールタイムをリセットする。 <color style='color:#99FFFF;'>30</color> / <color style='color:#99FFFF;'>26</color> / <color style='color:#99FFFF;'>22</color> / <color style='color:#99FFFF;'>19</color> / <color style='color:#99FFFF;'>16</color> 秒毎に1回のみ発動可能。"
         ]
     },
     "115404": {
         "Affix": [
-            "При нанесении урона противнику повышает шанс крит. попадания на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . Эффект может складываться до 5 раз. Добавочный шанс крит. попадания исчезает с первым крит. попаданием."
+            "攻撃が敵にダメージを与えた時、会心率+ <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> 、最大5重まで。攻撃会心発生時、効果がクリアされる。"
         ]
     },
     "115405": {
         "Affix": [
-            "Увеличивает урон обычной атаки на <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> , но понижает урон заряженной атаки на 10%."
+            "通常攻撃のダメージ+ <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> 、重撃のダメージ-10%。"
         ]
     },
     "115406": {
         "Affix": [
-            "Попадания заряженной атакой по слабым местам увеличивают скорость передвижения на 10% и силу атаки на <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>45%</color> / <color style='color:#99FFFF;'>54%</color> / <color style='color:#99FFFF;'>63%</color> / <color style='color:#99FFFF;'>72%</color>  в течение 10 сек."
+            "重撃が弱点に命中した場合、移動速度+10%、攻撃力+ <color style='color:#99FFFF;'>36%</color> / <color style='color:#99FFFF;'>45%</color> / <color style='color:#99FFFF;'>54%</color> / <color style='color:#99FFFF;'>63%</color> / <color style='color:#99FFFF;'>72%</color> 、継続時間10秒。"
         ]
     },
     "115407": {
         "Affix": [
-            "Попадания обычной и заряженной атакой увеличивают силу атаки на <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  и скорость атаки на <color style='color:#99FFFF;'>1,2%</color> / <color style='color:#99FFFF;'>1,5%</color> / <color style='color:#99FFFF;'>1,8%</color> / <color style='color:#99FFFF;'>2,1%</color> / <color style='color:#99FFFF;'>2,4%</color>  в течение 6 сек. Эффект может складываться до 4 раз. Может возникнуть раз в 0,3 сек."
+            "通常攻撃と重撃が命中する時、攻撃力+ <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> 、通常攻撃速度+ <color style='color:#99FFFF;'>1.2%</color> / <color style='color:#99FFFF;'>1.5%</color> / <color style='color:#99FFFF;'>1.8%</color> / <color style='color:#99FFFF;'>2.1%</color> / <color style='color:#99FFFF;'>2.4%</color> 。継続時間6秒、最大4重まで。0.3秒に1回のみ発動可能。"
         ]
     },
     "115408": {
         "Affix": [
-            "Побеждённые противники увеличивают силу атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Длится 30 сек. Эффект может складываться до 3 раз. Длительность добавочных эффектов друг от друга не зависит."
+            "敵を倒した後、攻撃力+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 、継続時間30秒。最大3重まで、継続時間は加算されず、重ごとに別カウントされる。"
         ]
     },
     "115409": {
         "Affix": [
-            "При попадании обычной или заряженной атакой появляется 50% шанс создать Циклон, который притягивает к себе врагов и наносит им <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color>  урона каждые 0,5 сек. в течение 4 сек. Может возникнуть раз в <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>13</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>11</color> / <color style='color:#99FFFF;'>10</color>  сек."
+            "通常攻撃と重撃が命中時、50%の確率で風の目を生成し、近くの敵を吸い寄せる。0.5秒毎に敵に攻撃力の <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> のダメージを与える。継続時間4秒、 <color style='color:#99FFFF;'>14</color> / <color style='color:#99FFFF;'>13</color> / <color style='color:#99FFFF;'>12</color> / <color style='color:#99FFFF;'>11</color> / <color style='color:#99FFFF;'>10</color> 秒毎に1回のみ発動可能。"
         ]
     },
     "115410": {
         "Affix": [
-            "Увеличивает урон экипированного этим оружием персонажа, когда тот не на поле боя, на <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2,5%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3,5%</color> / <color style='color:#99FFFF;'>4%</color>  в сек. Таким способом макс. количество наносимого урона может быть увеличено до <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . Через 4 сек. после появления персонажа на поле боя бонус повышения урона от данного эффекта начнёт убывать по <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color>  в сек., пока не опустится до 0%."
+            "この武器を装備したキャラクターが待機している時、1秒ごとに自身の与えるダメージ+ <color style='color:#99FFFF;'>2%</color> / <color style='color:#99FFFF;'>2.5%</color> / <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>3.5%</color> / <color style='color:#99FFFF;'>4%</color> 。この方法で獲得できるダメージアップ効果は <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> まで。4秒以上フィールド上にいると、上記ダメージアップ効果は0%になるまで、1秒毎に <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8%</color> ダウンする。"
         ]
     },
     "115411": {
         "Affix": [
-            "Оружие обладает 3 состояниями: Закат, Туман и Заря, каждое из которых увеличивает наносимый урон на <color style='color:#99FFFF;'>6%/10%/14%</color> / <color style='color:#99FFFF;'>7,5%/12,5%/17,5%</color> / <color style='color:#99FFFF;'>9%/15%/21%</color> / <color style='color:#99FFFF;'>10,5%/17,5%/24,5%</color> / <color style='color:#99FFFF;'>12%/20%/28%</color>  соответственно. После попадания по противнику состояние меняется на следующее, не чаще одного раза в 7 сек. Эффект смены состояния срабатывает, даже когда персонаж не на поле боя."
+            "夕暮、流霞、朝日の3種類の強化効果が武器にはあり、それぞれ与えるダメージ+ <color style='color:#99FFFF;'>6%/10%/14%</color> / <color style='color:#99FFFF;'>7.5%/12.5%/17.5%</color> / <color style='color:#99FFFF;'>9%/15%/21%</color> / <color style='color:#99FFFF;'>10.5%/17.5%/24.5%</color> / <color style='color:#99FFFF;'>12%/20%/28%</color> 。攻撃が敵に命中すると、強化効果が次のものに切り替わる。この切り替わりは7秒に1回のみ発動でき、装備キャラクターが待機状態でも発動する。"
         ]
     },
     "115412": {
         "Affix": [
-            "Попадания обычной атакой увеличивают урон элементального навыка на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  в течение 5 сек., а попадания элементальным навыком увеличивают урон обычной атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  в течение 5 сек."
+            "通常攻撃が敵に命中した後の5秒間、元素スキルのダメージ+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。元素スキルが敵に命中した後の5秒間、通常攻撃のダメージ+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。"
         ]
     },
     "115413": {
         "Affix": [
-            "Использование элементального навыка накладывает Древнее желание анемонии, которое увеличивает силу атаки на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  в течение 6 сек."
+            "元素スキルを発動した後、風の花の悠久なる願いの加護を獲得し、攻撃力+ <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> 、持続時間6秒。"
         ]
     },
     "115414": {
         "Affix": [
-            "Увеличивает урон обычной атаки на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  и урон заряженной атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Когда элементальная энергия персонажа с этим оружием достигает 100%, эффект увеличивается на 100%."
+            "通常攻撃のダメージ+ <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> 、重撃のダメージ+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 。この武器を装備したキャラクターの元素エネルギーが満タンの場合、該当効果が2倍になる。"
         ]
     },
     "115415": {
         "Affix": [
-            " <color style='color:#99FFFF;'>Действует только для игроков</color> <br> <color style='color:#99FFFF;'>\"PlayStation Network\".</color> <br>Нанесённый противникам Крио урон повышает урон обычной и заряженной атаки персонажа на 10% в течение 6 сек. Эффект может складываться до 2 раз. Кроме этого, когда Хищником экипирована Элой, сила атаки повышается на 66 ед."
+            " <color style='color:#99FFFF;'>以下のプラットフォームでのみ有効です。</color> <br> <color style='color:#99FFFF;'>\"PlayStation Network\"</color> <br>敵に氷元素ダメージを与えた後、通常攻撃と重撃ダメージ+10%、継続時間6秒、最大2重まで。また、アーロイがプレデターを装備している場合、攻撃力+66。"
         ]
     },
     "115416": {
         "Affix": [
-            "Урон взрыва стихии экипированного этим оружием персонажа увеличивается на <color style='color:#99FFFF;'>0,12%</color> / <color style='color:#99FFFF;'>0,15%</color> / <color style='color:#99FFFF;'>0,18%</color> / <color style='color:#99FFFF;'>0,21%</color> / <color style='color:#99FFFF;'>0,24%</color>  за каждую единицу суммы макс. энергии каждого члена отряда. Бонус урона не может превышать <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> ."
+            "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+ <color style='color:#99FFFF;'>0.12%</color> / <color style='color:#99FFFF;'>0.15%</color> / <color style='color:#99FFFF;'>0.18%</color> / <color style='color:#99FFFF;'>0.21%</color> / <color style='color:#99FFFF;'>0.24%</color> 。この方法でアップできる元素爆発ダメージは最大 <color style='color:#99FFFF;'>40%</color> / <color style='color:#99FFFF;'>50%</color> / <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> まで。"
         ]
     },
     "115417": {
         "Affix": [
-            "Активация элементального навыка или взрыва стихии наделяет персонажа эффектом Наставлений лесов, который увеличивает его мастерство стихий на <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>80</color> / <color style='color:#99FFFF;'>100</color> / <color style='color:#99FFFF;'>120</color> / <color style='color:#99FFFF;'>140</color>  ед. на 12 сек. При переключении персонажа эффект пропадёт. Когда время действия эффекта заканчивается или он пропадёт, одному из противников поблизости наносится урон в <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>120%</color> / <color style='color:#99FFFF;'>140%</color> / <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>180%</color>  от силы атаки. Этот эффект может возникнуть раз в 20 сек."
+            "元素スキルまたは元素爆発を発動すると、継続時間12秒の「森の教え」効果を獲得し、元素熟知+ <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>80</color> / <color style='color:#99FFFF;'>100</color> / <color style='color:#99FFFF;'>120</color> / <color style='color:#99FFFF;'>140</color> 。この効果はキャラクターを切り替えるとクリアされる。「森の教え」効果の継続時間終了またはクリア時に、近くの敵1体に攻撃力 <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>120%</color> / <color style='color:#99FFFF;'>140%</color> / <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>180%</color> 分のダメージを与える。「森の教え」効果は20秒毎に1回のみ獲得できる。"
         ]
     },
     "115418": {
         "Affix": [
-            "Активация элементального навыка вызывает эффект Плывущего по течению: атаки при попадании наносят урон по площади, равный <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>120%</color> / <color style='color:#99FFFF;'>140%</color> / <color style='color:#99FFFF;'>160%</color>  от силы атаки. Через 15 сек. либо после 3 нанёсших урон атак эффект исчезнет. Эффект наносит урон не чаще одного раза в 2 сек. и может возникнуть раз в 12 сек."
+            "元素スキルを発動すると「廻流」効果が付与され、攻撃が敵に命中した時、攻撃力 <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>100%</color> / <color style='color:#99FFFF;'>120%</color> / <color style='color:#99FFFF;'>140%</color> / <color style='color:#99FFFF;'>160%</color> 分の範囲ダメージを与える。この効果は15秒後、または3回範囲ダメージ発動後にクリアされる。範囲ダメージは2秒毎に1回のみ発動でき、「廻流」効果は12秒毎に1回のみ発動できる。"
         ]
     },
     "115419": {
         "Affix": [
-            "Попадание заряженной атакой по противнику увеличивает мастерство стихий на <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color>  ед. на 6 сек. Эффект складывается до 2 раз и может возникнуть раз в 0,5 сек."
+            "重撃が敵に命中した後の6秒間、キャラクターの元素熟知+ <color style='color:#99FFFF;'>40</color> / <color style='color:#99FFFF;'>50</color> / <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>70</color> / <color style='color:#99FFFF;'>80</color> 。この効果は最大2層まで、0.5秒毎に1回のみ発動可能。"
         ]
     },
     "115424": {
         "Affix": [
-            "Попадания заряженной атакой обрушивают на поражённого ею врага Стрелу слепящего солнца, которая наносит <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>75%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>105%</color> / <color style='color:#99FFFF;'>120%</color>  урона от силы атаки. Кроме того, на врага, получившего урон от Стрелы слепящего солнца, на 10 сек. накладывается эффект Пылающего сердца. Урон заряженной атаки экипированного персонажа по противнику под воздействием Пылающего сердца повышается на <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>49%</color> / <color style='color:#99FFFF;'>56%</color> . Стрела слепящего солнца может возникнуть один раз в 10 сек."
+            "重撃が敵に命中した後、命中した敵に陽炎の矢を降らせ、攻撃力 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>75%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>105%</color> / <color style='color:#99FFFF;'>120%</color> 分のダメージを与える。陽炎の矢によるダメージを受けた敵に10秒継続する灼心状態を与える。灼心状態にある敵に対して、装備者の重撃が与えるダメージ+ <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>42%</color> / <color style='color:#99FFFF;'>49%</color> / <color style='color:#99FFFF;'>56%</color> 。陽炎の矢は10秒毎に1回のみ発動可能。"
         ]
     },
     "115425": {
         "Affix": [
-            "Наносимый урон после получения лечения увеличивается на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color>  на 8 сек. Эффект срабатывает, даже когда персонаж не на поле боя."
+            "治療を受けた後、与えるダメージ+ <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> 、継続時間8秒。キャラクターが待機中でも発動できる。"
         ]
     },
     "115427": {
         "Affix": [
-            "Когда экипированный персонаж лечит или получает лечение, он на 30 сек. наделяется Меткой единства. Всего можно получить до 3 Меток. При активации элементального навыка или взрыва стихии все Метки расходуются и на 10 сек. создаётся эффект Отпора: за каждую израсходованную Метку сила атаки повышается на <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> , а бонус урона всеми элементами - на <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8,5%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>11,5%</color> / <color style='color:#99FFFF;'>13%</color> . Эффект Отпора может возникнуть один раз в 15 сек. Персонаж получает Метки единства, даже если он не на поле боя."
+            "治療効果を受ける、または治療効果を与える時、団結マークが1枚付与される。継続時間30秒、最大3枚まで。元素スキル、または元素爆発を発動する時、すべての団結マークを消費し、継続時間10秒の「抗争」効果を獲得する。消費した団結マーク1枚につき、攻撃力+ <color style='color:#99FFFF;'>3%</color> / <color style='color:#99FFFF;'>4%</color> / <color style='color:#99FFFF;'>5%</color> / <color style='color:#99FFFF;'>6%</color> / <color style='color:#99FFFF;'>7%</color> 、全元素ダメージ+ <color style='color:#99FFFF;'>7%</color> / <color style='color:#99FFFF;'>8.5%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>11.5%</color> / <color style='color:#99FFFF;'>13%</color> 。「抗争」効果は15秒に1回のみ発動可能。キャラクターが待機中でも団結マークを獲得できる。"
         ]
     },
     "115501": {
         "Affix": [
-            "Увеличивает крит. урон на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . При попадании есть <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color>  шанс нанести 125% физ. урона в небольшом радиусе. Может возникнуть раз в <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>3,5</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>2,5</color> / <color style='color:#99FFFF;'>2</color>  сек."
+            "会心ダメージ+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。攻撃が命中した時、 <color style='color:#99FFFF;'>60%</color> / <color style='color:#99FFFF;'>70%</color> / <color style='color:#99FFFF;'>80%</color> / <color style='color:#99FFFF;'>90%</color> / <color style='color:#99FFFF;'>100%</color> の確率で狭範囲内の敵に攻撃力の125%の物理ダメージを与える。 <color style='color:#99FFFF;'>4</color> / <color style='color:#99FFFF;'>3.5</color> / <color style='color:#99FFFF;'>3</color> / <color style='color:#99FFFF;'>2.5</color> / <color style='color:#99FFFF;'>2</color> 秒毎に1回のみ発動可能。"
         ]
     },
     "115502": {
         "Affix": [
-            "Увеличивает урон обычной и заряженной атаки на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Каждые 0,1 сек. полёта стрелы, выпущенной обычной или заряженной атакой, увеличивают её урон на <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> . Эффект может складываться до 5 раз."
+            "通常攻撃と重撃のダメージ+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 。通常攻撃と重撃で放たれる矢は、0.1秒経過する毎にダメージが更に+ <color style='color:#99FFFF;'>8%</color> / <color style='color:#99FFFF;'>10%</color> / <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>14%</color> / <color style='color:#99FFFF;'>16%</color> 、最大5回まで。"
         ]
     },
     "115503": {
         "Affix": [
-            "Часть Тысячелетней симфонии, что блуждает среди ветров. Увеличивает мастерство стихий на <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>75</color> / <color style='color:#99FFFF;'>90</color> / <color style='color:#99FFFF;'>105</color> / <color style='color:#99FFFF;'>120</color>  ед. При попадании элементальным навыком или взрывом стихии по противнику персонаж получает один Талисман воспоминаний. Он может возникнуть раз в 0,2 сек., даже когда персонаж в отряде, но не активен. Четыре собранных Талисмана воспоминаний пропадают, на 12 сек. наделяя ближайших членов отряда эффектом «Тысячелетняя симфония: Прощальный гимн». Их мастерство стихии повышается на <color style='color:#99FFFF;'>100</color> / <color style='color:#99FFFF;'>125</color> / <color style='color:#99FFFF;'>150</color> / <color style='color:#99FFFF;'>175</color> / <color style='color:#99FFFF;'>200</color>  ед., а сила атаки - на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . В течение 20 сек. после активации эффекта Талисманы воспоминаний появляться не будут. Тысячелетняя симфония с эффектами, влияющими на те же навыки, не складывается."
+            "風と共に流れる「千年の大楽章」の一部。元素熟知+ <color style='color:#99FFFF;'>60</color> / <color style='color:#99FFFF;'>75</color> / <color style='color:#99FFFF;'>90</color> / <color style='color:#99FFFF;'>105</color> / <color style='color:#99FFFF;'>120</color> 。元素スキルまたは元素爆発が敵に命中すると、追憶の欠片を1枚獲得する。この効果は0.2秒毎に一回のみ発動でき、キャラクターが待機中でも発動できる。追憶の欠片を4枚集めると、全ての追憶の欠片を消費し、周囲のチーム全員に12秒継続する「千年の大楽章·別れの歌」効果を付与する：元素熟知+ <color style='color:#99FFFF;'>100</color> / <color style='color:#99FFFF;'>125</color> / <color style='color:#99FFFF;'>150</color> / <color style='color:#99FFFF;'>175</color> / <color style='color:#99FFFF;'>200</color> 、攻撃力+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 。発動後の20秒間、追憶の欠片を再度獲得することはできない。「千年の大楽章」のもたらす各効果中、同種類の効果は重ね掛け不可。"
         ]
     },
     "115507": {
         "Affix": [
-            "Урон, наносимый элементальным навыком и взрывом стихии, увеличивается на <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> . Когда обычная атака, заряженная атака, элементальный навык или взрыв стихии попадают по врагу, возникает 1 ур. эффекта Звезда полярной ночи, который длится 12 сек. При 1/2/3/4 ур. эффекта Звезда полярной ночи сила атаки повышается на <color style='color:#99FFFF;'>10/20/30/48%</color> / <color style='color:#99FFFF;'>12,5/25/37,5/60%</color> / <color style='color:#99FFFF;'>15/30/45/72%</color> / <color style='color:#99FFFF;'>17,5/35/52,5/84%</color> / <color style='color:#99FFFF;'>20/40/60/96%</color> . Уровни Звезды полярной ночи, созданные обычной атакой, заряженной атакой, элементальным навыком и взрывом стихии, рассчитываются по отдельности."
+            "元素スキルと元素爆発が与えるダメージ+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 。通常攻撃、重撃、元素スキル、または元素爆発が敵に命中すると、12秒間継続する「白夜極星」効果を1層獲得する。「白夜極星」を1/2/3/4層有する時、キャラクターの攻撃力+ <color style='color:#99FFFF;'>10/20/30/48%</color> / <color style='color:#99FFFF;'>12.5/25/37.5/60%</color> / <color style='color:#99FFFF;'>15/30/45/72%</color> / <color style='color:#99FFFF;'>17.5/35/52.5/84%</color> / <color style='color:#99FFFF;'>20/40/60/96%</color> 。通常攻撃、重撃、元素スキル、元素爆発による「白夜極星」効果はそれぞれ独立してカウントされる。"
         ]
     },
     "115508": {
         "Affix": [
-            "Увеличивает HP на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> . Когда рядом есть враги, урон, наносимый персонажем, экипированным этим оружием, увеличивается на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> . Эффект срабатывает, даже когда персонаж не на поле боя."
+            "HP+ <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> 。周囲に敵がいる時、装備キャラクターの与えるダメージ+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 、この効果はキャラクターが待機状態でも発動する。"
         ]
     },
     "115509": {
         "Affix": [
-            "Увеличивает силу атаки на <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color>  и дарует мощь Громовой эмблемы. На уровнях эмблемы 1, 2 или 3 урон обычной атаки увеличивается на <color style='color:#99FFFF;'>12%, 24% или 40%</color> / <color style='color:#99FFFF;'>15%, 30% или 50%</color> / <color style='color:#99FFFF;'>18%, 36% или 60%</color> / <color style='color:#99FFFF;'>21%, 42% или 70%</color> / <color style='color:#99FFFF;'>24%, 48% или 80%</color>  соответственно. Персонаж получает 1 уровень Громовой эмблемы в каждом из следующих случаев: при нанесении урона обычной атакой (эмблема действует 5 сек.); при применении элементального навыка (эмблема действует 10 сек.); когда элементальная энергия персонажа ниже 100% (эмблема исчезнет, когда элементальная энергия полностью восстановится). Продолжительность действия каждого уровня эмблемы рассчитывается индивидуально."
+            "攻撃力+ <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>25%</color> / <color style='color:#99FFFF;'>30%</color> / <color style='color:#99FFFF;'>35%</color> / <color style='color:#99FFFF;'>40%</color> 、「飛雷の巴紋」の効果を獲得できる。飛雷の巴紋を1/2/3層有する時、通常攻撃のダメージ+ <color style='color:#99FFFF;'>12/24/40%</color> / <color style='color:#99FFFF;'>15/30/50%</color> / <color style='color:#99FFFF;'>18/36/60%</color> / <color style='color:#99FFFF;'>21/42/70%</color> / <color style='color:#99FFFF;'>24/48/80%</color> 。飛雷の巴紋は次の各状況において獲得できる。通常攻撃でダメージを与えた時、継続時間5秒の飛雷の巴紋を1層獲得する。元素スキルを発動した時、継続時間10秒の飛雷の巴紋を1層獲得する。また、キャラクターの元素エネルギーが100%未満の場合、飛雷の巴紋を1層獲得する、この飛雷の巴紋は元素エネルギーが満タンになると消失する。飛雷の巴紋の継続時間は層ごとに独立している。"
         ]
     },
     "115511": {
         "Affix": [
-            "Даёт <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color>  бонус урона всеми элементами. Попадание заряженной атакой наделяет персонажа эффектом Непрестанной охоты, который увеличивает урон заряженных атак на <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color>  от мастерства стихий. Через 10 сек. либо после 12 активаций эффект исчезает. Может возникнуть один раз в 12 сек."
+            "全元素ダメージ+ <color style='color:#99FFFF;'>12%</color> / <color style='color:#99FFFF;'>15%</color> / <color style='color:#99FFFF;'>18%</color> / <color style='color:#99FFFF;'>21%</color> / <color style='color:#99FFFF;'>24%</color> 。重撃が敵に命中すると、重撃ダメージが元素熟知 <color style='color:#99FFFF;'>160%</color> / <color style='color:#99FFFF;'>200%</color> / <color style='color:#99FFFF;'>240%</color> / <color style='color:#99FFFF;'>280%</color> / <color style='color:#99FFFF;'>320%</color> 分アップする「エンドレスハント」効果を獲得する。「エンドレスハント」効果は12回発動または10秒後にクリアされ、12秒毎に1回のみ獲得できる。"
         ]
     },
     "115512": {
         "Affix": [
-            "Увеличивает урон заряженной атаки на <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> . Предоставляет 1 уровень Уловки за каждого персонажа того же элемента в отряде, что и экипированный персонаж (включая экипированного персонажа). За каждого персонажа отряда с другим элементом предоставляет 1 уровень Актёрского мастерства. Когда действуют 1/2/3 и более уровней Уловки, сила атаки повышается на <color style='color:#99FFFF;'>16%/32%/48%</color> / <color style='color:#99FFFF;'>20%/40%/60%</color> / <color style='color:#99FFFF;'>24%/48%/72%</color> / <color style='color:#99FFFF;'>28%/56%/84%</color> / <color style='color:#99FFFF;'>32%/64%/96%</color> . Во время действия 1/2/3 и более уровней Актёрского мастерства скорость передвижения увеличивается на <color style='color:#99FFFF;'>4%/7%/10%</color> / <color style='color:#99FFFF;'>6%/9%/12%</color> / <color style='color:#99FFFF;'>8%/11%/14%</color> / <color style='color:#99FFFF;'>10%/13%/16%</color> / <color style='color:#99FFFF;'>12%/15%/18%</color> ."
+            "重撃ダメージ+ <color style='color:#99FFFF;'>16%</color> / <color style='color:#99FFFF;'>20%</color> / <color style='color:#99FFFF;'>24%</color> / <color style='color:#99FFFF;'>28%</color> / <color style='color:#99FFFF;'>32%</color> 。チーム内に装備者と同じ元素タイプのキャラクター（装備者自身を含む）が1名いる毎に、「トリック」効果を1層獲得する。異なる元素タイプのキャラクターが1名いる毎に、「パフォーマンス」効果を1層獲得する。1/2/3層以上の「トリック」効果がある時、攻撃力がそれぞれ+ <color style='color:#99FFFF;'>16%/32%/48%</color> / <color style='color:#99FFFF;'>20%/40%/60%</color> / <color style='color:#99FFFF;'>24%/48%/72%</color> / <color style='color:#99FFFF;'>28%/56%/84%</color> / <color style='color:#99FFFF;'>32%/64%/96%</color> 。1/2/3層以上の「パフォーマンス」効果がある時、移動速度がそれぞれ+ <color style='color:#99FFFF;'>4%/7%/10%</color> / <color style='color:#99FFFF;'>6%/9%/12%</color> / <color style='color:#99FFFF;'>8%/11%/14%</color> / <color style='color:#99FFFF;'>10%/13%/16%</color> / <color style='color:#99FFFF;'>12%/15%/18%</color> 。"
         ]
     }
 }

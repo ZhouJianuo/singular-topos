@@ -19,8 +19,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Keqing",
-            "Title": "\"Driving Thunder\" Keqing",
-            "Story": "She can build decks heretofore not conceived and win battles in which victory is unthinkable.",
+            "Title": "Keqing  ·  Ardeur du tonnerre",
+            "Story": "Elle peut construire des decks jusqu'ici inédits et gagner des batailles dans lesquelles la victoire est impensable.",
             "K": [
                 104,
                 100,
@@ -29,7 +29,7 @@ var _card = [
         },
         {
             "_id": 2404,
-            "Name": "Fatui Electro Cicin Mage",
+            "Name": "Mage électroluciole des Fatui",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -44,8 +44,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_FatuusSummoner",
-            "Title": "Thunder in the Mist: Electro Cicin Mage",
-            "Story": "...Just as the scent of Mist Grass intoxicates the Electro Cicins, so too does the sadistic mage hanker after the pleasure of toying with her foe...",
+            "Title": "Tonnerre de brume : Mage électroluciole",
+            "Story": "... Tout comme les Électrolucioles s'enivrent de l'odeur de leur plante préférée, les Mages électrolucioles tirent un plaisir cruel des souffrances de leurs proies...",
             "K": [
                 104,
                 204
@@ -67,8 +67,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Momoka",
-            "Title": "\"Cat Upon the Eaves\" Kirara",
-            "Story": "On tails twain and padded feet, to all doors shall she deliver.",
+            "Title": "Kirara  ·  Mistigri sur les toits",
+            "Story": "Avec deux queues et des pieds à coussinets, elle livrera à toutes les portes.",
             "K": [
                 107,
                 100
@@ -93,8 +93,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Neuvillette",
-            "Title": "\"Ordainer of Inexorable Judgment\" Neuvillette",
-            "Story": "He who looks down on all that are haughty.",
+            "Title": "Neuvillette  ·  Ordonnateur du jugement inexorable",
+            "Story": "Tout ce qui est hautain subit son mépris.",
             "K": [
                 5,
                 102
@@ -117,15 +117,15 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Charlotte",
-            "Title": "\"Lens of Verity\" Charlotte",
-            "Story": "\"Your credible source of the unbelievable truth!\"",
+            "Title": "Charlotte  ·  Œil pour la vérité",
+            "Story": "« Votre source fiable de l'incroyable vérité ! »",
             "K": [
                 101
             ]
         },
         {
             "_id": 2403,
-            "Name": "Millennial Pearl Seahorse",
+            "Name": "Hippocampe perlé millénaire",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -141,8 +141,8 @@ var _card = [
             "HP": 8,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_SeaHorsePrimo",
-            "Title": "Millennial Pearl Seahorse",
-            "Story": "One of the two sovereigns standing at the apex of the Fontemer Aberrants. Poets and authors view it as a proud and noble creature, thus bestowing it with its high-flown title.",
+            "Title": "Hippocampe perlé millénaire",
+            "Story": "L'un des deux souverains qui se tenaient autrefois au sommet des espèces aberrantes de la Fontemer. Les poètes et les auteurs le considèrent comme une créature fière et noble, lui conférant ainsi son titre prestigieux.",
             "K": [
                 104,
                 3,
@@ -151,7 +151,7 @@ var _card = [
         },
         {
             "_id": 2103,
-            "Name": "Cryo Hypostasis",
+            "Name": "Hypostase Cryo",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -166,8 +166,8 @@ var _card = [
             "HP": 8,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_EffigyIce",
-            "Title": "Cryo Hypostasis",
-            "Story": "Code name: Daleth. A high-purity Cryo entity.<br>It doesn't seem all that good at ball sports...",
+            "Title": "Hypostase Cryo",
+            "Story": "Nom de code « Daleth », une entité Cryo de niveau supérieur.<br>Elle n'a pas l'air très douée pour les sports de ballon...",
             "K": [
                 5,
                 101
@@ -190,8 +190,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Sayu",
-            "Title": "\"Mujina Ninja\" Sayu",
-            "Story": "By your side without a trace, like a character from a dream.",
+            "Title": "Sayu  ·  Mujina shinobi",
+            "Story": "À vos côtés sans laisser de trace, comme le personnage d'un rêve.",
             "K": [
                 105,
                 100,
@@ -200,7 +200,7 @@ var _card = [
         },
         {
             "_id": 1311,
-            "Name": "Thoma",
+            "Name": "Thomas",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_POLE",
@@ -214,8 +214,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Tohma",
-            "Title": "\"Protector From Afar\" Thoma",
-            "Story": "A protector from abroad, loyal to the end.",
+            "Title": "Thomas  ·  Protecteur venu de loin",
+            "Story": "Un protecteur venu de l'étranger, fidèle jusqu'au bout.",
             "K": [
                 100,
                 103
@@ -346,8 +346,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Dahaka",
-            "Title": "Ancient Geovishap Ancestor: Azhdaha",
-            "Story": "The faint rattling of this dragon lord's shackles and his deep, angry growl echo through the bowels of the mountains like memories of a bygone era.",
+            "Title": "Ancêtre des Géosaures : Azhdaha",
+            "Story": "Le bruit de ses chaînes et ses grognements de fureur résonnent toujours dans les entrailles des montagnes, souvenirs d'un lointain passé...",
             "K": [
                 106,
                 100,
@@ -373,8 +373,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Dvalin",
-            "Title": "\"Dragon of the East\" Dvalin",
-            "Story": "\"How wonderful it would have been if you were as I, witnessing your noble, beautiful form as you soared through the blue sky.\"<br>\"Then you would know that this sky and this earth are both things worth fighting for.\"",
+            "Title": "Dragon de l'Est : Dvalin",
+            "Story": "« En te mettant à ma place, tu aurais pu ressentir à quel point il était beau de te voir voler fièrement dans le ciel bleu.<br>Tu aurais su que le ciel et la terre sont dignes de protection. »",
             "K": [
                 105,
                 100,
@@ -383,7 +383,7 @@ var _card = [
         },
         {
             "_id": 2402,
-            "Name": "Thunder Manifestation",
+            "Name": "Manifestation du tonnerre",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -398,15 +398,15 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Raijin",
-            "Title": "\"Lingering Hatred\" Thunder Manifestation",
-            "Story": "As long as the grudges of the land do not fade, so will the roaring thunder persist.",
+            "Title": "Haine persistante : Manifestation du tonnerre",
+            "Story": "Tant que les rancunes du pays ne s'estomperont pas, le tonnerre rugissant persistera.",
             "K": [
                 104
             ]
         },
         {
             "_id": 2303,
-            "Name": "Eremite Scorching Loremaster",
+            "Name": "Lettrée incandescente des Érémites",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -424,8 +424,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Muscleman",
-            "Title": "\"Poetry and Secret Histories\" Eremite Scorching Loremaster",
-            "Story": "Those who still remember will never betray the spirit of the sands yet flowing through their veins.",
+            "Title": "Poésie et histoires secrètes : Lettrée incandescente",
+            "Story": "Ceux qui s'en souviennent encore ne trahiront jamais le sang de sable qui coule encore dans leurs veines.",
             "K": [
                 310,
                 103
@@ -433,7 +433,7 @@ var _card = [
         },
         {
             "_id": 6301,
-            "Name": "Crimson Witch of Embers",
+            "Name": "Sorcière des braises écarlates",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -456,7 +456,7 @@ var _card = [
         },
         {
             "_id": 2102,
-            "Name": "La Signora",
+            "Name": "Signora",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -472,8 +472,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_LaSignora",
-            "Title": "\"The Eighth Harbinger\" La Signora",
-            "Story": "The crimson dawn was reflected in her pupils, and at last, she unfolded her flaming wings and flew towards the light.<br>\"But that light is not the dawn, dear Rosalyne. That is a sea of flame that will consume everything.\"<br>Yet it mattered not, for she knew in her heart that the flames had devoured her long ago.",
+            "Title": "Signora  ·  La 8e Exécutrice",
+            "Story": "L'aurore écarlate se refléta dans ses prunelles, et enfin, elle déplia ses ailes flamboyantes et s'envola vers la lumière.<br>« Mais cette lumière n'est pas l'aube, chère Rosalyne. C'est une mer de flammes qui consumera tout. »<br>Pourtant, cela n'avait guère d'importance, car elle savait dans son cœur que les flammes l'avaient dévorée depuis longtemps.",
             "K": [
                 1013,
                 101
@@ -495,8 +495,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Alhatham",
-            "Title": "\"Admonishing Instruction\" Alhaitham",
-            "Story": "Learning, thinking, and taking care of business.",
+            "Title": "Alhaitham  ·  Instruction d'admonestation",
+            "Story": "Apprenant, réfléchissant et s'occupant des choses...",
             "K": [
                 107,
                 100,
@@ -519,8 +519,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Gorou",
-            "Title": "\"Canine Warrior\" Gorou",
-            "Story": "The leader of the pack, leading the soldiers onward!",
+            "Title": "Gorou  ·  Guerrier canin",
+            "Story": "Le chef de la meute, menant les soldats !",
             "K": [
                 106,
                 100
@@ -544,8 +544,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Linette",
-            "Title": "\"Elegance in the Shadows\" Lynette",
-            "Story": "The firmament glimpsed in a reflected moon.",
+            "Title": "Lynette  ·  Élégance parmi les ombres",
+            "Story": "Dans la lune se reflète la grandeur du ciel nocturne.",
             "K": [
                 105,
                 100
@@ -570,8 +570,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Liney",
-            "Title": "\"Spectacle of Phantasmagoria\" Lyney",
-            "Story": "Those flowers in the mirror... who are they for?",
+            "Title": "Lyney  ·  Spectacle de fantasmagorie",
+            "Story": "À qui offrir le bouquet du miroir ?",
             "K": [
                 100,
                 5,
@@ -595,8 +595,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Yelan",
-            "Title": "\"Valley Orchid\" Yelan",
-            "Story": "The world is vast and infinite, the solitary one comes and goes as she pleases.",
+            "Title": "Yelan  ·  Orchidée de la vallée",
+            "Story": "Le monde est vaste et infini, et la solitaire va et vient à sa guise.",
             "K": [
                 100,
                 102
@@ -618,8 +618,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Layla",
-            "Title": "\"Fantastical Evening Star\" Layla",
-            "Story": "As night falls, the stars swirl and the moon wanders amidst dreams.",
+            "Title": "Layla  ·  Merveilleuse étoile vespérale",
+            "Story": "À la tombée de la nuit, les étoiles tourbillonnent et la lune erre au milieu des rêves.",
             "K": [
                 100,
                 101
@@ -641,8 +641,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Baizhuer",
-            "Title": "\"Beyond Mortality\" Baizhu",
-            "Story": "Living with many maladies, where will one find a cure?",
+            "Title": "Baizhu  ·  Transcendant la mortalité",
+            "Story": "Tant de maladies, où trouver un remède ?",
             "K": [
                 107
             ]
@@ -663,8 +663,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Dori",
-            "Title": "\"Treasure of Dream Garden\" Dori",
-            "Story": "The Mora, the merrier!",
+            "Title": "Dori  ·  Trésor du jardin onirique",
+            "Story": "Plus on a de moras, plus on rit !",
             "K": [
                 104,
                 100
@@ -686,8 +686,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Nilou",
-            "Title": "\"Dance of Lotuslight\" Nilou",
-            "Story": "Steps floating like lotus petals, emerging from an intoxicating dream.",
+            "Title": "Nilou  ·  Danseuse du lotus lumineux",
+            "Story": "Légers sont les pas de danse du lotus, émergeant d'un rêve d'ivresse.",
             "K": [
                 100,
                 102
@@ -709,8 +709,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Yaoyao",
-            "Title": "\"Burgeoning Grace\" Yaoyao",
-            "Story": "An adeptal constitution.",
+            "Title": "Yaoyao  ·  Grâce fleurissante",
+            "Story": "Une constitution de jade aux os adeptaux.",
             "K": [
                 107,
                 100
@@ -731,8 +731,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Wanderer",
-            "Title": "\"Eons Adrift\" Wanderer",
-            "Story": "Tribulations uncounted, trials unknowable.",
+            "Title": "Nomade  ·  L'éternellement égaré",
+            "Story": "Tribulations innombrables et épreuves inconnaissables.",
             "K": [
                 105
             ]
@@ -756,8 +756,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Dehya",
-            "Title": "\"Flame-Mane\" Dehya",
-            "Story": "The eyes of a vulture, the spirit of a lion, an unbridled daughter of the desert.",
+            "Title": "Dehya  ·  Crinière ardente",
+            "Story": "Les yeux d'un rapace, l'âme d'un lion, et la fille libre du désert.",
             "K": [
                 100,
                 53,
@@ -766,7 +766,7 @@ var _card = [
         },
         {
             "_id": 2701,
-            "Name": "Jadeplume Terrorshroom",
+            "Name": "Champieffroi panaché",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -781,8 +781,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Fungusgrass",
-            "Title": "\"Lord of Fungi\" Jadeplume Terrorshroom",
-            "Story": "If you keep silent and listen closely, you can hear the sound of the ruler of the Shroom-Kin inspecting its territory...",
+            "Title": "Seigneur des Fongus : Champieffroi panaché",
+            "Story": "En gardant le silence pour écouter attentivement, on peut entendre le son du souverain des fongides inspectant son territoire...",
             "K": [
                 107,
                 100
@@ -790,7 +790,7 @@ var _card = [
         },
         {
             "_id": 2601,
-            "Name": "Stonehide Lawachurl",
+            "Name": "Chef Brutorocheux",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -806,15 +806,15 @@ var _card = [
             "HP": 8,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Bruterock",
-            "Title": "\"Vale-Crosser\" Stonehide Lawachurl",
-            "Story": "Go around — the way ahead is the realm of the \"king.\"",
+            "Title": "Traverseur de vallée : Chef Brutorocheux",
+            "Story": "Faites le tour, car la voie à l'avant est le royaume du «Chef».",
             "K": [
                 100
             ]
         },
         {
             "_id": 2501,
-            "Name": "Maguu Kenki",
+            "Name": "Lame oni",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -829,8 +829,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Ningyo",
-            "Title": "\"Ingenious Machine\" Maguu Kenki",
-            "Story": "Even today, it still patrols the place where fate was severed.",
+            "Title": "Mécanisme ingénieux : Lame oni",
+            "Story": "Aujourd'hui encore, il patrouille toujours l'endroit où le destin a été rompu.",
             "K": [
                 105,
                 100
@@ -838,7 +838,7 @@ var _card = [
         },
         {
             "_id": 2401,
-            "Name": "Electro Hypostasis",
+            "Name": "Hypostase Électro",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -855,8 +855,8 @@ var _card = [
             "HP": 8,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Effigyelectric",
-            "Title": "Electro Hypostasis",
-            "Story": "Code name: Aleph. A high-purity Electro entity.<br>Even if you win at rock-paper-scissors, Aleph is not one to admit defeat.",
+            "Title": "Hypostase Électro",
+            "Story": "Nom de code « Alep », une entité Électro de niveau supérieur.<br>Même lors d'une partie de pierre-feuille-ciseaux, celle-ci n'est pas du genre à admettre la défaite.",
             "K": [
                 104,
                 53
@@ -864,7 +864,7 @@ var _card = [
         },
         {
             "_id": 2302,
-            "Name": "Abyss Lector: Fathomless Flames",
+            "Name": "Chantre de l'Abîme - Flamme abyssale",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -879,15 +879,15 @@ var _card = [
             "HP": 6,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_DeaconFire",
-            "Title": "Abyss Lector: Fathomless Flames",
-            "Story": "From chapters of canon revealed come much heeded admonishments.",
+            "Title": "Chantre de l'Abîme : Flamme abyssale",
+            "Story": "Des chapitres révélés viennent des avertissements écoutés.",
             "K": [
                 103
             ]
         },
         {
             "_id": 2301,
-            "Name": "Fatui Pyro Agent",
+            "Name": "Usurier Pyro des Fatui",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -902,8 +902,8 @@ var _card = [
             "HP": 9,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Fatuus",
-            "Title": "\"Blade of Settlement\" Agent",
-            "Story": "\"There is no running from your debt, be you living or otherwise.\"",
+            "Title": "Lame de règlement : Usurier",
+            "Story": "« Aucune fuite face à ses dettes, qu'on soit vivant ou non...»",
             "K": [
                 100,
                 103
@@ -911,7 +911,7 @@ var _card = [
         },
         {
             "_id": 2202,
-            "Name": "Mirror Maiden",
+            "Name": "Suivante miroir des Fatui",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -925,15 +925,15 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Maidenwater",
-            "Title": "\"Snezhnayan Maiden\" Mirror Envoy",
-            "Story": "All secrets shall be concealed within the mirror of glaring brightness...",
+            "Title": "Suivante snezhnayienne : Envoyée miroir",
+            "Story": "Tous les secrets seront dissimulés dans le miroir d'une luminosité éblouissante...",
             "K": [
                 102
             ]
         },
         {
             "_id": 2201,
-            "Name": "Rhodeia of Loch",
+            "Name": "Océanide - Rhodeia",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -948,15 +948,15 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Monster_Oceanid",
-            "Title": "\"Lady of Clear Waters\" Rhodeia",
-            "Story": "\"As long as rain falls and rivers flow... water will exist forever... \"",
+            "Title": "Maîtresse des eaux : Rhodeia",
+            "Story": "« Tant que couleront les rivières et que tombera la pluie, l'eau demeurera... »",
             "K": [
                 102
             ]
         },
         {
             "_id": 2101,
-            "Name": "Fatui Cryo Cicin Mage",
+            "Name": "Mage cryoluciole des Fatui",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -970,8 +970,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Monster_FatuusMageice",
-            "Title": "\"Cicin of the Hollow Mist\" Cryo Cicin Mage",
-            "Story": "And so long as the Mist Grass yet lingers, the Cryo Cicins will not abandon her.",
+            "Title": "Luciole de brume : Mage cryoluciole",
+            "Story": "Et tant que l'herbe brumeuse persistera, les Cryolucioles ne l'abandonneront pas.",
             "K": [
                 201,
                 101
@@ -994,8 +994,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Nahida",
-            "Title": "\"Physic of Purity\" Nahida",
-            "Story": "The panacea brings purity, and from the palace depths is spring renewed.",
+            "Title": "Nahida  ·  Physique de pureté",
+            "Story": "La panacée apporte la pureté, et des profondeurs du palais se renouvelle le printemps.",
             "K": [
                 107
             ]
@@ -1016,8 +1016,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Tighnari",
-            "Title": "\"Verdant Strider\" Tighnari",
-            "Story": "From a certain perspective, experience does not hold parity with wisdom.",
+            "Title": "Tighnari  ·  Marcheur verdoyant",
+            "Story": "D'un certain point de vue, l'expérience n'est pas à égalité avec la sagesse.",
             "K": [
                 107,
                 100,
@@ -1040,8 +1040,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Collei",
-            "Title": "\"Sprout of Rebirth\" Collei",
-            "Story": "\"'Shouting the name of your card loudly will increase its power many-fold'... You've got to be kidding, right?\"",
+            "Title": "Collei  ·  Germe de renaissance",
+            "Story": "« Crier le nom de votre carte à voix haute multiplie sa puissance... C'est une blague, hein ? »",
             "K": [
                 107,
                 100
@@ -1063,8 +1063,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Itto",
-            "Title": "\"Hanamizaka Heroics\" Arataki Itto",
-            "Story": "Arataki \"The Ultimate TCG Champion\" Itto",
+            "Title": "Arataki Itto  ·  Héros de Hanamizaka",
+            "Story": "« Le champion imbattable des cartes et des paris »",
             "K": [
                 106,
                 100
@@ -1086,8 +1086,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Albedo",
-            "Title": "\"Kreideprinz\" Albedo",
-            "Story": "Nigredo and calx, rubedo and citrinitas.",
+            "Title": "Albedo  ·  Kreideprinz",
+            "Story": "Nigredo et calx, rubedo et citrinitas.",
             "K": [
                 106,
                 100
@@ -1110,8 +1110,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Zhongli",
-            "Title": "\"Vago Mundo\" Zhongli",
-            "Story": "A hidden gemstone can illuminate the whole earth, bright and unrivaled as a star.",
+            "Title": "Zhongli  ·  Vagabond du monde mortel",
+            "Story": "Une gemme cachée peut illuminer la terre entière, brillante et unique comme une étoile.",
             "K": [
                 106,
                 100
@@ -1119,7 +1119,7 @@ var _card = [
         },
         {
             "_id": 1602,
-            "Name": "Noelle",
+            "Name": "Noëlle",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_CLAYMORE",
@@ -1133,8 +1133,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Noel",
-            "Title": "\"Chivalric Blossom\" Noelle",
-            "Story": "You can leave arranging the table to her — really, you can.",
+            "Title": "Noëlle  ·  Fleur chevaleresque",
+            "Story": "Vous pouvez lui laisser organiser la table... Vraiment...",
             "K": [
                 106,
                 100
@@ -1156,8 +1156,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Ningguang",
-            "Title": "\"Eclipsing Star\" Ningguang",
-            "Story": "The greatest secret she keeps is that she keeps a great many of Liyue's secrets.",
+            "Title": "Ningguang  ·  Megrez de l'éclipse",
+            "Story": "Son plus grand secret est le fait qu'elle garde un grand nombre des secrets de Liyue.",
             "K": [
                 106
             ]
@@ -1179,8 +1179,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Kazuha",
-            "Title": "Scarlet Leaves Pursue Wild Waves: Kaedehara Kazuha",
-            "Story": "Flowers and birds are a dear pleasure to one winding under the moonlight.",
+            "Title": "Kaedehara Kazuha  ·  Tourbillon de feuilles écarlates",
+            "Story": "Les fleurs et les oiseaux sont un plaisir cher à celui qui serpente sous le clair de lune.",
             "K": [
                 105,
                 100
@@ -1202,8 +1202,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Xiao",
-            "Title": "\"Vigilant Yaksha\" Xiao",
-            "Story": "The Vigilant Yaksha, the bane of all evil.",
+            "Title": "Xiao  ·  Gardien Yaksha",
+            "Story": "Gardien Yaksha, triomphant du mal.",
             "K": [
                 105,
                 100
@@ -1225,8 +1225,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Venti",
-            "Title": "\"Windborne Bard\" Venti",
-            "Story": "\"As the four seasons in turn shall say their piece, so the four winds too shall never cease. <br>\"Of course, to look at it differently, I am the one who should be credited here, and not they.\"<br>Credits should be given where credits belong — if not for the bard who pens the song, then who shall ensure that these tales are passed on!?\"",
+            "Title": "Venti  ·  Barde itinérant",
+            "Story": "« Au rythme des vents et des chansons.<br>Gloire à Mondstadt, gloire à l'Archon !<br>Et gloire à moi, le barde fécond.<br>Car sans mon aide, pas de chanson ! »",
             "K": [
                 105,
                 100
@@ -1248,8 +1248,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Qin",
-            "Title": "\"Dandelion Knight\" Jean",
-            "Story": "Never believes that she has done well enough — not until final victory is hers, anyway.",
+            "Title": "Jean  ·  Chevalier au Pissenlit",
+            "Story": "Elle n'est jamais totalement satisfaite de ce qu'elle a fait. Du moins, pas avant que la victoire finale ne soit la sienne...",
             "K": [
                 105,
                 100
@@ -1271,8 +1271,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Sucrose",
-            "Title": "\"Harmless Sweetie\" Sucrose",
-            "Story": "\"You can't rate the strength of an as-yet untested deck!\"",
+            "Title": "Sucrose  ·  Alchimiste 100 % naturelle",
+            "Story": "« On ne peut pas évaluer la force d'un deck qui n'a pas encore été testé ! »",
             "K": [
                 105
             ]
@@ -1293,8 +1293,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Lisa",
-            "Title": "\"Witch of Purple Rose\" Lisa",
-            "Story": "Pursuing the arcane mysteries of magic, and waiting quietly for an encounter with truth.",
+            "Title": "Lisa  ·  Sorcière à la rose",
+            "Story": "La poursuite des mystères arcaniques de la magie et l'attente d'une rencontre avec la vérité...",
             "K": [
                 104,
                 51
@@ -1316,15 +1316,15 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Yae",
-            "Title": "\"Astute Amusement\" Yae Miko",
-            "Story": "\"The wise and beautiful Yae Miko.\"",
+            "Title": "Yae Miko  ·  Frivolité ingénieuse",
+            "Story": "« La sage et merveilleuse Yae Miko. »",
             "K": [
                 104
             ]
         },
         {
             "_id": 1407,
-            "Name": "Raiden Shogun",
+            "Name": "Shogun Raiden",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_POLE",
@@ -1339,8 +1339,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Shougun",
-            "Title": "\"Plane of Euthymia\" Raiden Shogun",
-            "Story": "The tranquil thunder shall scatter this world most ephemeral.",
+            "Title": "Shogun Raiden  ·  Plan euthymique",
+            "Story": "Le tonnerre tranquille dispersera ce monde des plus éphémères.",
             "K": [
                 104,
                 100,
@@ -1363,8 +1363,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Sara",
-            "Title": "\"Crowfeather Kaburaya\" Kujou Sara",
-            "Story": "\"This is an act of righteousness.\"",
+            "Title": "Kujou Sara  ·  Kaburaya de plume de corvidé",
+            "Story": "« C'est un acte de droiture. »",
             "K": [
                 104,
                 100
@@ -1387,8 +1387,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Beidou",
-            "Title": "\"Uncrowned Lord of the Ocean\" Beidou",
-            "Story": "\"Remember this day, you almost won money from the Captain of the Crux.\"",
+            "Title": "Beidou  ·  Reine des mers sans couronne",
+            "Story": "« Que cette journée demeure celle où tu as failli gagner l'argent de la capitaine du Crux. »",
             "K": [
                 104,
                 100,
@@ -1412,8 +1412,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Cyno",
-            "Title": "\"Judicator of Secrets\" Cyno",
-            "Story": "The card bears the General Mahamatra's ardent fondness, which reminds one of the scorching sun hanging above the desert.",
+            "Title": "Cyno  ·  Juge des secrets",
+            "Story": "Cette boîte de cartes porte la tendresse flamboyante du général mahamatra, qui rappelle le soleil brûlant suspendu au-dessus du désert.",
             "K": [
                 104,
                 100
@@ -1435,8 +1435,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Razor",
-            "Title": "\"Wolf Boy\" Razor",
-            "Story": "\"Cards, hard.\"<br>\"But... friends...\"",
+            "Title": "Razor  ·  Enfant-loup",
+            "Story": "« Les cartes, dur...<br>Mais... des amis... »",
             "K": [
                 104,
                 100
@@ -1458,8 +1458,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Fischl",
-            "Title": "\"Fischl, Prinzessin der Verurteilung!\" Fischl",
-            "Story": "\"Oz, mine familiar, spread thine wings and weave for me a new fate in the gloom of this night!\"<br>\"Mein Fräulein, you cannot expect me to fetch you a replacement card...\"",
+            "Title": "Fischl  ·  Princesse du châtiment !",
+            "Story": "« Oz, mon familier, déploie tes ailes et tisse-moi un nouveau destin dans l'obscurité de cette nuit ! »<br>« Mademoiselle, je n'ai aucun moyen de vous passer des cartes... »",
             "K": [
                 104,
                 100,
@@ -1482,8 +1482,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Feiyan",
-            "Title": "Wise Innocence: Yanfei",
-            "Story": "One who fails to revise the classics is liable to fall foul of the law.",
+            "Title": "Yanfei  ·  Sage innocence",
+            "Story": "Celui qui ne révise pas les classiques est susceptible de tomber sous le coup de la loi.",
             "K": [
                 103
             ]
@@ -1504,8 +1504,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Hutao",
-            "Title": "\"Fragrance in Thaw\" Hu Tao",
-            "Story": "\"Send one, send 'em all!\"",
+            "Title": "Hu Tao  ·  Fragrance nivale",
+            "Story": "« À la revoyure, les uns après les autres ! »",
             "K": [
                 100,
                 103
@@ -1527,8 +1527,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Klee",
-            "Title": "\"Fleeing Sunlight\" Klee",
-            "Story": "Every card you draw may bring an \"explosive surprise.\"",
+            "Title": "Klee  ·  Soleil fuyant",
+            "Story": "Chaque carte qu'on pioche peut apporter une surprise «détonante ».",
             "K": [
                 103
             ]
@@ -1549,8 +1549,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Yoimiya",
-            "Title": "\"Frolicking Flames\" Yoimiya",
-            "Story": "Captain and Vanguard of Team Naganohara for the 11th Hanamizaka Street Invitational.",
+            "Title": "Yoimiya  ·  Flamme gambadante",
+            "Story": "Capitaine et première joueuse de l'équipe Naganohara pour le 11e tournoi sur invitation d'Hanamizaka !",
             "K": [
                 100,
                 103
@@ -1572,8 +1572,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Ambor",
-            "Title": "\"Outrider\" Amber",
-            "Story": "If you want to be a great player...<br>First, you have to have the courage to sit down and play.",
+            "Title": "Amber  ·  Éclaireuse",
+            "Story": "Pour devenir un grand joueur...<br>Il faut déjà avoir le courage de s'asseoir et de jouer.",
             "K": [
                 100,
                 5,
@@ -1596,8 +1596,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Bennett",
-            "Title": "\"Trial by Fire\" Bennett",
-            "Story": "Once you know that you will certainly lose, then you must certainly know the way to win.",
+            "Title": "Bennett  ·  Prince de la guigne",
+            "Story": "Une fois qu'on sait qu'on va certainement perdre, on doit probablement savoir comment gagner...",
             "K": [
                 100,
                 103
@@ -1619,8 +1619,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Xiangling",
-            "Title": "\"Exquisite Delicacy\" Xiangling",
-            "Story": "As a chef, she is practically omnipotent.",
+            "Title": "Xiangling  ·  Cordon-bleu du peuple",
+            "Story": "En tant que cheffe, elle est pratiquement omnipotente.",
             "K": [
                 100,
                 103
@@ -1642,8 +1642,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Diluc",
-            "Title": "\"Dark Side of Dawn\" Diluc",
-            "Story": "His heart is his greatest foe.",
+            "Title": "Diluc  ·  Ombre de l'Aurore",
+            "Story": "Son cœur est son plus grand ennemi.",
             "K": [
                 100,
                 103
@@ -1666,8 +1666,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Candace",
-            "Title": "Golden Vow: Candace",
-            "Story": "The crimson sand flows, an oath to defend.",
+            "Title": "Candace  ·  Serment doré",
+            "Story": "Dans les sables écarlates qui coulent, son serment de protection prévaut.",
             "K": [
                 100,
                 53,
@@ -1690,8 +1690,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Ayato",
-            "Title": "\"Pillar of Fortitude\" Kamisato Ayato",
-            "Story": "The divinely-blessed cypress sprouts new leaves.",
+            "Title": "Kamisato Ayato  ·  Pilier de vaillance",
+            "Story": "Le cyprès divinement béni fait pousser de nouvelles feuilles.",
             "K": [
                 100,
                 102
@@ -1713,8 +1713,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Kokomi",
-            "Title": "\"Pearl of Wisdom\" Sangonomiya Kokomi",
-            "Story": "To survive hardship, you must prepare for hardship.",
+            "Title": "Sangonomiya Kokomi  ·  Perle de connaissance",
+            "Story": "Pour surmonter l'adversité, il faut s'y préparer.",
             "K": [
                 202,
                 102
@@ -1739,8 +1739,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Tartaglia",
-            "Title": "\"Childe\" Tartaglia",
-            "Story": "Should this table be considered a battlefield, then may the strongest claim the win.",
+            "Title": "Tartaglia  ·  Jeune Sire",
+            "Story": "Si cette table est considérée comme un champ de bataille, alors que le meilleur gagne.",
             "K": [
                 310,
                 100,
@@ -1764,8 +1764,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Mona",
-            "Title": "\"Astral Reflection\" Mona",
-            "Story": "Victory or defeat — it has all been written in the stars.",
+            "Title": "Mona  ·  Réflexion astrale",
+            "Story": "Victoire ou défaite, tout est écrit dans les étoiles.",
             "K": [
                 1,
                 2,
@@ -1788,8 +1788,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Xingqiu",
-            "Title": "\"Juvenile Galant\" Xingqiu",
-            "Story": "\"Is it just me, or are the protagonists in novels nowadays all students of some private school or another...\"",
+            "Title": "Xingqiu  ·  Jeune galant",
+            "Story": "« Est-ce moi ou les protagonistes des romans sont de nos jours tous des élèves d'une école privée ou d'une autre... »",
             "K": [
                 202,
                 100,
@@ -1812,8 +1812,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Barbara",
-            "Title": "\"Shining Idol\" Barbara",
-            "Story": "Ready to heal hearts and soothe souls at any time.",
+            "Title": "Barbara  ·  Star de la chanson",
+            "Story": "Prête à guérir les cœurs et à apaiser les âmes à tout moment !",
             "K": [
                 102
             ]
@@ -1834,8 +1834,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Qiqi",
-            "Title": "\"Icy Resurrection\" Qiqi",
-            "Story": "Circulating endlessly, life goes on.",
+            "Title": "Qiqi  ·  Renaissance gelée",
+            "Story": "C'est le cycle de la vie, la vie continue.",
             "K": [
                 100,
                 101
@@ -1857,8 +1857,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Shenhe",
-            "Title": "\"Lonesome Transcendence\" Shenhe",
-            "Story": "The mortal realm briefly gracing, like a wisp of smoke vanishing.",
+            "Title": "Shenhe  ·  Transcendance solitaire",
+            "Story": "Aucun lien avec ce monde ne resta, et telle la brume, elle s'éloigna.",
             "K": [
                 100,
                 101
@@ -1880,8 +1880,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Eula",
-            "Title": "\"Dance of the Shimmering Wave\" Eula",
-            "Story": "It's but a game. I won't hold a grudge should luck happen to be on your side.",
+            "Title": "Eula  ·  Vague déferlante",
+            "Story": "Ce n'est qu'un jeu. Je n'en garderai pas rancune si la chance devait être de votre côté.",
             "K": [
                 100,
                 101
@@ -1904,8 +1904,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Ayaka",
-            "Title": "\"Frostflake Heron\" Kamisato Ayaka",
-            "Story": "As graceful as the frost drifting in the wind, as elegant as a heron perched in a courtyard.",
+            "Title": "Kamisato Ayaka  ·  Héron de givre",
+            "Story": "Avec l'élégance du givre dans le vent, le héron se perche paisiblement dans la cour.",
             "K": [
                 100,
                 101
@@ -1927,8 +1927,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Chongyun",
-            "Title": "\"Frozen Ardor\" Chongyun",
-            "Story": "\"Ugh, summer... Please pass us by in peace...\"",
+            "Title": "Chongyun  ·  Corps de glace et cœur de feu",
+            "Story": "« Argh, l'été... S'il te plaît, passe ton chemin en paix... »",
             "K": [
                 100,
                 101
@@ -1950,8 +1950,8 @@ var _card = [
             "HP": 10,
             "SP": 2,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Kaeya",
-            "Title": "\"Frostwind Swordsman\" Kaeya",
-            "Story": "Specializes in awakening knightly virtues in others.",
+            "Title": "Kaeya  ·  Chevalier du froid",
+            "Story": "Spécialisé dans l'éveil des vertus chevaleresques chez les autres !",
             "K": [
                 100,
                 101
@@ -1973,8 +1973,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Diona",
-            "Title": "\"Kätzlein Cocktail\" Diona",
-            "Story": "1% energy dedicated to mixing drinks, 99% to... denying the reality of familiar.",
+            "Title": "Diona  ·  Cocktail façon Queue de Chat",
+            "Story": "1 % d'énergie dédiée à mélanger les boissons et 99 % à... nier l'échec.",
             "K": [
                 100,
                 101
@@ -1997,8 +1997,8 @@ var _card = [
             "HP": 10,
             "SP": 3,
             "Icon": "UI_Gcg_CardFace_Char_Avatar_Ganyu",
-            "Title": "\"Plenilune Gaze\" Ganyu",
-            "Story": "\"This press release is due tomorrow... I suppose I could work through the night and get it done.\"",
+            "Title": "Ganyu  ·  Défense fervente",
+            "Story": "« Ce communiqué est attendu pour demain... Je suppose que je pourrais travailler toute la nuit et le finir. »",
             "K": [
                 5,
                 100,
@@ -2009,7 +2009,7 @@ var _card = [
     [
         {
             "_id": 4408,
-            "Name": "Fatui Electro Cicin Mage",
+            "Name": "Mage électroluciole des Fatui",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2031,7 +2031,7 @@ var _card = [
         },
         {
             "_id": 3409,
-            "Name": "Thundercraven Rifthound",
+            "Name": "Limier de faille électrophile",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2052,7 +2052,7 @@ var _card = [
         },
         {
             "_id": 3108,
-            "Name": "Large Cryo Slime",
+            "Name": "Cryoblob géant",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2073,7 +2073,7 @@ var _card = [
         },
         {
             "_id": 4407,
-            "Name": "Millennial Pearl Seahorse",
+            "Name": "Hippocampe perlé millénaire",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2096,7 +2096,7 @@ var _card = [
         },
         {
             "_id": 4406,
-            "Name": "Millennial Pearl Seahorse",
+            "Name": "Hippocampe perlé millénaire",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2119,7 +2119,7 @@ var _card = [
         },
         {
             "_id": 4108,
-            "Name": "Cryo Hypostasis",
+            "Name": "Hypostase Cryo",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2142,7 +2142,7 @@ var _card = [
         },
         {
             "_id": 4107,
-            "Name": "Cryo Hypostasis",
+            "Name": "Hypostase Cryo",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2165,7 +2165,7 @@ var _card = [
         },
         {
             "_id": 4106,
-            "Name": "Cryo Hypostasis",
+            "Name": "Hypostase Cryo",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2188,7 +2188,7 @@ var _card = [
         },
         {
             "_id": 3207,
-            "Name": "Large Hydro Slime",
+            "Name": "Hydroblob géant",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2209,7 +2209,7 @@ var _card = [
         },
         {
             "_id": 3107,
-            "Name": "Cryo Slime",
+            "Name": "Cryoblob",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2375,7 +2375,7 @@ var _card = [
         },
         {
             "_id": 4405,
-            "Name": "Thunder Manifestation",
+            "Name": "Manifestation du tonnerre",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2397,7 +2397,7 @@ var _card = [
         },
         {
             "_id": 4404,
-            "Name": "Thunder Manifestation",
+            "Name": "Manifestation du tonnerre",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2419,7 +2419,7 @@ var _card = [
         },
         {
             "_id": 4305,
-            "Name": "Eremite Scorching Loremaster",
+            "Name": "Lettrée incandescente des Érémites",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2444,7 +2444,7 @@ var _card = [
         },
         {
             "_id": 6304,
-            "Name": "Crimson Witch of Embers",
+            "Name": "Sorcière des braises écarlates",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2465,7 +2465,7 @@ var _card = [
         },
         {
             "_id": 6303,
-            "Name": "Crimson Witch of Embers",
+            "Name": "Sorcière des braises écarlates",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2486,7 +2486,7 @@ var _card = [
         },
         {
             "_id": 6302,
-            "Name": "Crimson Witch of Embers",
+            "Name": "Sorcière des braises écarlates",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2507,7 +2507,7 @@ var _card = [
         },
         {
             "_id": 4105,
-            "Name": "La Signora",
+            "Name": "Signora",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2530,7 +2530,7 @@ var _card = [
         },
         {
             "_id": 4104,
-            "Name": "La Signora",
+            "Name": "Signora",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2553,7 +2553,7 @@ var _card = [
         },
         {
             "_id": 4103,
-            "Name": "La Signora",
+            "Name": "Signora",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2576,7 +2576,7 @@ var _card = [
         },
         {
             "_id": 3704,
-            "Name": "Suppression Specialist Mek - Pneuma",
+            "Name": "Mek suppressif - Pneuma",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2598,7 +2598,7 @@ var _card = [
         },
         {
             "_id": 3606,
-            "Name": "Eremite Stone Enchanter",
+            "Name": "Enchanteur graveleux des Érémites",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2621,7 +2621,7 @@ var _card = [
         },
         {
             "_id": 3408,
-            "Name": "Assault Specialist Mek - Ousia",
+            "Name": "Mek offensif - Ousia",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2647,7 +2647,7 @@ var _card = [
         },
         {
             "_id": 3308,
-            "Name": "Suppression Specialist Mek - Ousia",
+            "Name": "Mek suppressif - Ousia",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2673,7 +2673,7 @@ var _card = [
         },
         {
             "_id": 3307,
-            "Name": "Assault Specialist Mek - Pneuma",
+            "Name": "Mek offensif - Pneuma",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2698,7 +2698,7 @@ var _card = [
         },
         {
             "_id": 3206,
-            "Name": "Eremite Desert Clearwater",
+            "Name": "Ablutionneuse des Érémites",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2723,7 +2723,7 @@ var _card = [
         },
         {
             "_id": 3106,
-            "Name": "Eremite Sunfrost",
+            "Name": "Givre solaire des Érémites",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2748,7 +2748,7 @@ var _card = [
         },
         {
             "_id": 3007,
-            "Name": "Suppression Specialist Mek",
+            "Name": "Mek suppressif",
             "Tag": [
                 "GCG_TAG_ELEMENT_NONE",
                 "GCG_TAG_WEAPON_NONE",
@@ -2768,7 +2768,7 @@ var _card = [
         },
         {
             "_id": 3006,
-            "Name": "Assault Specialist Mek",
+            "Name": "Mek offensif",
             "Tag": [
                 "GCG_TAG_ELEMENT_NONE",
                 "GCG_TAG_WEAPON_NONE",
@@ -2788,7 +2788,7 @@ var _card = [
         },
         {
             "_id": 3005,
-            "Name": "Ruin Drake: Earthguard",
+            "Name": "Dragon des ruines terrestre",
             "Tag": [
                 "GCG_TAG_ELEMENT_NONE",
                 "GCG_TAG_WEAPON_NONE",
@@ -2811,7 +2811,7 @@ var _card = [
         },
         {
             "_id": 3004,
-            "Name": "Ruin Guard",
+            "Name": "Gardien des ruines",
             "Tag": [
                 "GCG_TAG_ELEMENT_NONE",
                 "GCG_TAG_WEAPON_NONE",
@@ -2835,7 +2835,7 @@ var _card = [
         },
         {
             "_id": 4205,
-            "Name": "Rhodeia of Loch",
+            "Name": "Océanide - Rhodeia",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2857,7 +2857,7 @@ var _card = [
         },
         {
             "_id": 5301,
-            "Name": "Pyro Abyss Mage",
+            "Name": "Pyromage de l'Abîme",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2880,7 +2880,7 @@ var _card = [
         },
         {
             "_id": 5201,
-            "Name": "Hydro Abyss Mage",
+            "Name": "Hydromage de l'Abîme",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2903,7 +2903,7 @@ var _card = [
         },
         {
             "_id": 4704,
-            "Name": "Jadeplume Terrorshroom",
+            "Name": "Champieffroi panaché",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2925,7 +2925,7 @@ var _card = [
         },
         {
             "_id": 4703,
-            "Name": "Jadeplume Terrorshroom",
+            "Name": "Champieffroi panaché",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2947,7 +2947,7 @@ var _card = [
         },
         {
             "_id": 4702,
-            "Name": "Jadeplume Terrorshroom",
+            "Name": "Champieffroi panaché",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2969,7 +2969,7 @@ var _card = [
         },
         {
             "_id": 4701,
-            "Name": "Jadeplume Terrorshroom",
+            "Name": "Champieffroi panaché",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -2991,7 +2991,7 @@ var _card = [
         },
         {
             "_id": 4604,
-            "Name": "Stonehide Lawachurl",
+            "Name": "Chef Brutorocheux",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3013,7 +3013,7 @@ var _card = [
         },
         {
             "_id": 4603,
-            "Name": "Stonehide Lawachurl",
+            "Name": "Chef Brutorocheux",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3035,7 +3035,7 @@ var _card = [
         },
         {
             "_id": 4602,
-            "Name": "Stonehide Lawachurl",
+            "Name": "Chef Brutorocheux",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3057,7 +3057,7 @@ var _card = [
         },
         {
             "_id": 4601,
-            "Name": "Stonehide Lawachurl",
+            "Name": "Chef Brutorocheux",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3078,7 +3078,7 @@ var _card = [
         },
         {
             "_id": 4502,
-            "Name": "Maguu Kenki",
+            "Name": "Lame oni",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3100,7 +3100,7 @@ var _card = [
         },
         {
             "_id": 4501,
-            "Name": "Maguu Kenki",
+            "Name": "Lame oni",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3122,7 +3122,7 @@ var _card = [
         },
         {
             "_id": 4403,
-            "Name": "Pure Electro Hypostasis",
+            "Name": "Hypostase Électro pure",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3146,7 +3146,7 @@ var _card = [
         },
         {
             "_id": 4402,
-            "Name": "Electro Hypostasis",
+            "Name": "Hypostase Électro",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3171,7 +3171,7 @@ var _card = [
         },
         {
             "_id": 4401,
-            "Name": "Electro Hypostasis",
+            "Name": "Hypostase Électro",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3196,7 +3196,7 @@ var _card = [
         },
         {
             "_id": 4304,
-            "Name": "Abyss Lector: Fathomless Flames",
+            "Name": "Chantre de l'Abîme - Flamme abyssale",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3219,7 +3219,7 @@ var _card = [
         },
         {
             "_id": 4303,
-            "Name": "Abyss Lector: Fathomless Flames",
+            "Name": "Chantre de l'Abîme - Flamme abyssale",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3242,7 +3242,7 @@ var _card = [
         },
         {
             "_id": 4302,
-            "Name": "Fatui Pyro Agent",
+            "Name": "Usurier Pyro des Fatui",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3264,7 +3264,7 @@ var _card = [
         },
         {
             "_id": 4301,
-            "Name": "Fatui Pyro Agent",
+            "Name": "Usurier Pyro des Fatui",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3286,7 +3286,7 @@ var _card = [
         },
         {
             "_id": 4204,
-            "Name": "Mirror Maiden",
+            "Name": "Suivante miroir des Fatui",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3306,7 +3306,7 @@ var _card = [
         },
         {
             "_id": 4203,
-            "Name": "Mirror Maiden",
+            "Name": "Suivante miroir des Fatui",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3326,7 +3326,7 @@ var _card = [
         },
         {
             "_id": 4202,
-            "Name": "Rhodeia of Loch",
+            "Name": "Océanide - Rhodeia",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3348,7 +3348,7 @@ var _card = [
         },
         {
             "_id": 4201,
-            "Name": "Rhodeia of Loch",
+            "Name": "Océanide - Rhodeia",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3370,7 +3370,7 @@ var _card = [
         },
         {
             "_id": 4102,
-            "Name": "Fatui Cryo Cicin Mage",
+            "Name": "Mage cryoluciole des Fatui",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3391,7 +3391,7 @@ var _card = [
         },
         {
             "_id": 4101,
-            "Name": "Fatui Cryo Cicin Mage",
+            "Name": "Mage cryoluciole des Fatui",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3412,7 +3412,7 @@ var _card = [
         },
         {
             "_id": 3703,
-            "Name": "Dendro Samachurl",
+            "Name": "Brutoshaman Dendro",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3434,7 +3434,7 @@ var _card = [
         },
         {
             "_id": 3702,
-            "Name": "Wooden Shieldwall Mitachurl",
+            "Name": "Brutoviandu avec bouclier de bois",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3457,7 +3457,7 @@ var _card = [
         },
         {
             "_id": 3701,
-            "Name": "Winged Dendroshroom",
+            "Name": "Champidendro ailé",
             "Tag": [
                 "GCG_TAG_ELEMENT_DENDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3480,7 +3480,7 @@ var _card = [
         },
         {
             "_id": 3605,
-            "Name": "Grounded Geoshroom",
+            "Name": "Champigéo terré",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3503,7 +3503,7 @@ var _card = [
         },
         {
             "_id": 3604,
-            "Name": "Fatui Skirmisher - Geochanter Bracer",
+            "Name": "Tirailleur Fatui - Mercenaire Géo",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3524,7 +3524,7 @@ var _card = [
         },
         {
             "_id": 3603,
-            "Name": "Geo Samachurl",
+            "Name": "Brutoshaman Géo",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3546,7 +3546,7 @@ var _card = [
         },
         {
             "_id": 3602,
-            "Name": "Rockfond Rifthound",
+            "Name": "Limier de faille géophile",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3567,7 +3567,7 @@ var _card = [
         },
         {
             "_id": 3601,
-            "Name": "Rock Shieldwall Mitachurl",
+            "Name": "Brutoviandu avec bouclier de pierre",
             "Tag": [
                 "GCG_TAG_ELEMENT_GEO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3589,7 +3589,7 @@ var _card = [
         },
         {
             "_id": 3502,
-            "Name": "Fatui Skirmisher - Anemoboxer Vanguard",
+            "Name": "Tirailleur Fatui - Frappeur Anémo",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3614,7 +3614,7 @@ var _card = [
         },
         {
             "_id": 3501,
-            "Name": "Anemo Samachurl",
+            "Name": "Brutoshaman Anémo",
             "Tag": [
                 "GCG_TAG_ELEMENT_ANEMO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3636,7 +3636,7 @@ var _card = [
         },
         {
             "_id": 3407,
-            "Name": "Fatui Skirmisher - Electrohammer Vanguard",
+            "Name": "Tirailleur Fatui - Frappeur Électro",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3659,7 +3659,7 @@ var _card = [
         },
         {
             "_id": 3406,
-            "Name": "Electro Slime",
+            "Name": "Électroblob",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3679,7 +3679,7 @@ var _card = [
         },
         {
             "_id": 3405,
-            "Name": "Nobushi: Kikouban",
+            "Name": "Nobushi - Kikouban",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE"
@@ -3703,7 +3703,7 @@ var _card = [
         },
         {
             "_id": 3404,
-            "Name": "Electro Abyss Mage",
+            "Name": "Électromage de l'Abîme",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3725,7 +3725,7 @@ var _card = [
         },
         {
             "_id": 3403,
-            "Name": "Crackling Axe Mitachurl",
+            "Name": "Brutoviandu avec hache Électro",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3747,7 +3747,7 @@ var _card = [
         },
         {
             "_id": 3402,
-            "Name": "Electro Hilichurl Shooter",
+            "Name": "Arbalétrier Brutocollinus Électro",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3768,7 +3768,7 @@ var _card = [
         },
         {
             "_id": 3401,
-            "Name": "Kairagi: Dancing Thunder",
+            "Name": "Oni des mers - Danse d'éclairs",
             "Tag": [
                 "GCG_TAG_ELEMENT_ELECTRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3793,7 +3793,7 @@ var _card = [
         },
         {
             "_id": 3306,
-            "Name": "Fatui Skirmisher - Pyroslinger Bracer",
+            "Name": "Tirailleur Fatui - Mercenaire Pyro",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3815,7 +3815,7 @@ var _card = [
         },
         {
             "_id": 3305,
-            "Name": "Nobushi: Hitsukeban",
+            "Name": "Nobushi - Hitsukeban",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE"
@@ -3839,7 +3839,7 @@ var _card = [
         },
         {
             "_id": 3304,
-            "Name": "Hilichurl Berserker",
+            "Name": "Berserker Brutocollinus",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3860,7 +3860,7 @@ var _card = [
         },
         {
             "_id": 3303,
-            "Name": "Kairagi: Fiery Might",
+            "Name": "Oni des mers - Menace de feu",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3885,7 +3885,7 @@ var _card = [
         },
         {
             "_id": 3302,
-            "Name": "Blazing Axe Mitachurl",
+            "Name": "Brutoviandu avec hache Pyro",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3907,7 +3907,7 @@ var _card = [
         },
         {
             "_id": 3301,
-            "Name": "Pyro Abyss Mage",
+            "Name": "Pyromage de l'Abîme",
             "Tag": [
                 "GCG_TAG_ELEMENT_PYRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3929,7 +3929,7 @@ var _card = [
         },
         {
             "_id": 3205,
-            "Name": "Grounded Hydroshroom",
+            "Name": "Champihydro terré",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3952,7 +3952,7 @@ var _card = [
         },
         {
             "_id": 3204,
-            "Name": "Hydro Slime",
+            "Name": "Hydroblob",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3972,7 +3972,7 @@ var _card = [
         },
         {
             "_id": 3203,
-            "Name": "Fatui Skirmisher - Hydrogunner Legionnaire",
+            "Name": "Tirailleur Fatui - Mitrailleur Hydro",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -3995,7 +3995,7 @@ var _card = [
         },
         {
             "_id": 3202,
-            "Name": "Hydro Samachurl",
+            "Name": "Brutoshaman Hydro",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -4017,7 +4017,7 @@ var _card = [
         },
         {
             "_id": 3201,
-            "Name": "Hydro Abyss Mage",
+            "Name": "Hydromage de l'Abîme",
             "Tag": [
                 "GCG_TAG_ELEMENT_HYDRO",
                 "GCG_TAG_WEAPON_NONE",
@@ -4039,7 +4039,7 @@ var _card = [
         },
         {
             "_id": 3105,
-            "Name": "Winged Cryoshroom",
+            "Name": "Champicryo ailé",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -4062,7 +4062,7 @@ var _card = [
         },
         {
             "_id": 3104,
-            "Name": "Fatui Skirmisher - Cryogunner Legionnaire",
+            "Name": "Tirailleur Fatui - Mitrailleur Cryo",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -4085,7 +4085,7 @@ var _card = [
         },
         {
             "_id": 3103,
-            "Name": "Cryo Abyss Mage",
+            "Name": "Cryomage de l'Abîme",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -4107,7 +4107,7 @@ var _card = [
         },
         {
             "_id": 3102,
-            "Name": "Cryo Hilichurl Shooter",
+            "Name": "Arbalétrier Brutocollinus Cryo",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -4128,7 +4128,7 @@ var _card = [
         },
         {
             "_id": 3101,
-            "Name": "Ice Shieldwall Mitachurl",
+            "Name": "Brutoviandu avec bouclier de glace",
             "Tag": [
                 "GCG_TAG_ELEMENT_CRYO",
                 "GCG_TAG_WEAPON_NONE",
@@ -4151,7 +4151,7 @@ var _card = [
         },
         {
             "_id": 3003,
-            "Name": "Nobushi: Jintouban",
+            "Name": "Nobushi - Jintouban",
             "Tag": [
                 "GCG_TAG_ELEMENT_NONE",
                 "GCG_TAG_WEAPON_NONE"
@@ -4174,7 +4174,7 @@ var _card = [
         },
         {
             "_id": 3002,
-            "Name": "Hilichurl Shooter",
+            "Name": "Arbalétrier Brutocollinus",
             "Tag": [
                 "GCG_TAG_ELEMENT_NONE",
                 "GCG_TAG_WEAPON_NONE",
@@ -4195,7 +4195,7 @@ var _card = [
         },
         {
             "_id": 3001,
-            "Name": "Hilichurl Fighter",
+            "Name": "Guerrier Brutocollinus",
             "Tag": [
                 "GCG_TAG_ELEMENT_NONE",
                 "GCG_TAG_WEAPON_NONE",
@@ -4218,8 +4218,8 @@ var _card = [
     [
         {
             "_id": 323007,
-            "Name": "Lumenstone Adjuvant",
-            "Desc": "<color style='color:#FFFFFFFF'>After you play an Action Card:</color> If, while this card is on the field, you have already played 3 Action Cards this Round, draw 1 card and create 1 Omni Die. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+            "Name": "Adjuvant de pierre de lumen",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous avez joué une carte d'action : </color>Si vous avez déjà joué 3 cartes d'action pendant cette manche alors que cette carte était sur le terrain, pioche 1 carte et crée 1 dé Omni. (1 fois par manche)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>",
             "Tag": [
                 "GCG_TAG_ITEM"
             ],
@@ -4234,8 +4234,8 @@ var _card = [
         },
         {
             "_id": 321018,
-            "Name": "Fortress of Meropide",
-            "Desc": "<color style='color:#FFFFFFFF'>When your active character takes DMG or is healed:</color> This card gains 1 \"Prohibition\" point. (Maximum 4 points)<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> If this card has accumulated 4 \"Prohibition\" points, then 4 points will be consumed and 1 <color style='color:#FFFFFFFF'>Strictly Prohibited</color> will be created in your opponent's playing field. (1 Event Card played by your opponent this Round will have no effect.)",
+            "Name": "Forteresse de Méropide",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage actif a subi des DGT ou reçu des soins : </color>Accorde 1 pt de prohibition à cette carte. (Peut être cumulé jusqu'à 4 pts)<br><color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Si cette carte a 4 pts de prohibition, consomme les 4 pts pour créer une <color style='color:#FFFFFFFF'>Interdiction totale</color> sur le terrain adverse. (Pendant la manche, 1 carte d'événement jouée par votre adversaire n'aura aucun effet)",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4250,8 +4250,8 @@ var _card = [
         },
         {
             "_id": 423049,
-            "Name": "Mastery Talisman: Sharp Focus",
-            "Desc": "Elemental DMG dealt by your characters' Normal Attacks +1.<br><color style='color:#FFFFFFFF'>After your active character takes DMG or is healed 3 times this Round:</color> Create 3 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. (Once per Round)",
+            "Name": "Charme de maîtrise : Concentration affûtée",
+            "Desc": "DGT élémentaires infligés par les attaques normales de votre personnage +1.<br><color style='color:#FFFFFFFF'>Lorsque votre personnage actif a subi des DGT ou reçu des soins 3 fois pendant la manche : </color>Crée 3 dés <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>. (1 fois par manche)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -4262,8 +4262,8 @@ var _card = [
         },
         {
             "_id": 423048,
-            "Name": "Mastery Talisman: Stalwart Frontline",
-            "Desc": "DMG dealt by your Summons +1.<br><color style='color:#FFFFFFFF'>When you declare the end of your Round:</color> Create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> at the start of the next Round's Action Phase for each Summon on your side of the field.",
+            "Name": "Charme de maîtrise : Front solide",
+            "Desc": "DGT infligés par vos invocations +1.<br><color style='color:#FFFFFFFF'>Lorsque vous annoncez la fin de votre manche : </color>Crée 1 dé <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color> au début de la phase d'action de la prochaine manche pour chaque invocation sur votre terrain.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -4274,8 +4274,8 @@ var _card = [
         },
         {
             "_id": 423047,
-            "Name": "Mastery Talisman: Formation Assault",
-            "Desc": "<color style='color:#FFFFFFFF'>When your character uses an Elemental Burst:</color> Spend 3 less Elemental Dice. (Once per Round)<br><color style='color:#FFFFFFFF'>After your characters take DMG or are healed:</color> This card gains 1 \"Formation\" point. If this card already has 5 \"Formation\" points, consume 5 points, and cause all of your characters to gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.",
+            "Name": "Charme de maîtrise : Assaut de formation",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage utilise un déchaînement élémentaire : </color>Dépense 3 dés élémentaires en moins. (1 fois par manche)<br><color style='color:#FFFFFFFF'>Lorsque votre personnage a subi des DGT ou reçu des soins : </color>Accorde 1 pt de formation à cette carte. Si cette carte a 5 pts de formation, consomme les 5 pts pour accorder 1 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color> à tous vos personnages.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -4286,8 +4286,8 @@ var _card = [
         },
         {
             "_id": 423046,
-            "Name": "Mastery Talisman: Lightweight Tactics",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play an Action Card:</color> Spend 1 less Elemental Die and create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. (Up to 3 times per Round)",
+            "Name": "Charme de maîtrise : Tactique légère",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'action : </color>Dépense 1 dé élémentaire en moins et crée 1 dé <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>. (3 fois maximum par manche)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -4298,8 +4298,8 @@ var _card = [
         },
         {
             "_id": 323006,
-            "Name": "Memento Lens",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3003[a]Weapon/[b]3004[a]Artifact/[b]3104[a]Location/[b]3103[a]Companion card:</color> If you have played a card with the same name previously during this match, spend 2 less Elemental Dice to play it. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "Lentille de réminiscence",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3003[a]arme, d'[b]3004[a]artéfact, de [b]3104[a]terrain ou de [b]3103[a]compagnon : </color>Dépense 2 dés élémentaires en moins si vous avez déjà joué une carte du même nom pendant la partie. (1 fois par manche)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
             "Tag": [
                 "GCG_TAG_ITEM"
             ],
@@ -4314,8 +4314,8 @@ var _card = [
         },
         {
             "_id": 323005,
-            "Name": "Seed Dispensary",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play an Equipment or Support Card with an original cost of 1 Elemental Die: </color>Spend 1 less Elemental Die. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "Boîte à graines",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'équipement ou de soutien dont le coût original de dés élémentaires est de 1 : </color>Dépense 1 dé élémentaire en moins. (1 fois par manche)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
             "Tag": [
                 "GCG_TAG_ITEM"
             ],
@@ -4328,8 +4328,8 @@ var _card = [
         },
         {
             "_id": 323004,
-            "Name": "Treasure-Seeking Seelie",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character uses a skill:</color> This card will accumulate 1 <color style='color:#FFFFFFFF'>Treasure Clue</color>.<br>If this card has stored 3 <color style='color:#FFFFFFFF'>Treasure Clues</color>, then discard this card and draw 3 cards.",
+            "Name": "Fée chercheuse",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage a utilisé une capacité : </color>Cette carte cumule 1 <color style='color:#FFFFFFFF'>indice de trésor</color>. Si la carte a cumulé 3 <color style='color:#FFFFFFFF'>indices de trésor</color> : Défausse la carte et pioche 3 cartes.",
             "Tag": [
                 "GCG_TAG_ITEM"
             ],
@@ -4342,8 +4342,8 @@ var _card = [
         },
         {
             "_id": 323003,
-            "Name": "Red Feather Fan",
-            "Desc": "<color style='color:#FFFFFFFF'>After you switch characters:</color> The next Switch Character action you perform this Round will be considered a <color style='color:#FFFFFFFF'>Fast Action</color> instead of a <color style='color:#FFFFFFFF'>Combat Action</color>. It will also cost 1 less Elemental Die. (Once per Round)",
+            "Name": "Éventail à plumes rouges",
+            "Desc": "<color style='color:#FFFFFFFF'>Après que vous basculez de personnage : </color>Le prochain changement de personnage de la manche est considéré comme une <color style='color:#FFFFFFFF'>Action rapide</color>, et pas comme une <color style='color:#FFFFFFFF'>Action de combat</color>, et il coûte 1 dé élémentaire en moins. (1 fois par manche)",
             "Tag": [
                 "GCG_TAG_ITEM"
             ],
@@ -4359,8 +4359,8 @@ var _card = [
         },
         {
             "_id": 323002,
-            "Name": "NRE",
-            "Desc": "<color style='color:#FFFFFFFF'>When played:</color> Draw 1 random [b]3101[a]Food Event Card from your deck.<br><color style='color:#FFFFFFFF'>When you play a [b]3101[a]Food Event Card:</color> Draw 1 random [b]3101[a]Food Event Card from your deck (once per Round).",
+            "Name": "Poche nutritive",
+            "Desc": "<color style='color:#FFFFFFFF'>En arrivant sur le terrain : </color>Pioche aléatoirement 1 carte d'événement de [b]3101[a]plat dans le deck.<br><color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'événement de [b]3101[a]plat : </color>Pioche aléatoirement 1 carte d'événement de [b]3101[a]plat dans le deck. (1 fois par manche)",
             "Tag": [
                 "GCG_TAG_ITEM"
             ],
@@ -4373,8 +4373,8 @@ var _card = [
         },
         {
             "_id": 323001,
-            "Name": "Parametric Transformer",
-            "Desc": "<color style='color:#FFFFFFFF'>When either side uses a Skill:</color> If Elemental DMG was dealt, this card gains 1 <color style='color:#FFFFFFFF'>Qualitative Progress</color>.<br>If this card has gained 3 <color style='color:#FFFFFFFF'>Qualitative Progress</color>, then discard this card and create 3 different Basic Elemental Dice.",
+            "Name": "Transformateur paramétrique",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un des camps a utilisé une capacité : </color>Si des DGT élémentaires sont infligés, cette carte cumule 1 <color style='color:#FFFFFFFF'>progrès qualitatif</color>. Si la carte a cumulé 3 <color style='color:#FFFFFFFF'>progrès qualitatifs</color> : Défausse la carte et crée 3 dés élémentaires de base différents.",
             "Tag": [
                 "GCG_TAG_ITEM"
             ],
@@ -4387,8 +4387,8 @@ var _card = [
         },
         {
             "_id": 322023,
-            "Name": "Silver and Melus",
-            "Desc": "This card will record the number of types of Elemental DMG opposing characters have taken during this match as points of Attendant's Attentiveness. (Max 4 points)<br><color style='color:#FFFFFFFF'>End Phase:</color> If you have at least 3 Attendant's Attentiveness points, discard this card and draw cards equal to the amount of Attendant's Attentiveness points.",
+            "Name": "Silver & Melus",
+            "Desc": "Pour chaque type de DGT élémentaires que les adversaires subissent pendant la partie, cette carte cumule 1 pt de serviabilité. (Peut être cumulé jusqu'à 4 pts)<br><color style='color:#FFFFFFFF'>Phase finale : </color>Avec au moins 3 pts de serviabilité, la carte est défaussée pour piocher 1 carte pour chaque point de serviabilité.",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4402,7 +4402,7 @@ var _card = [
         {
             "_id": 322022,
             "Name": "Jeht",
-            "Desc": "This card will record the number of cards discarded from your Support Zone during this match as Sophistication points. (Max 6 points)<br><color style='color:#FFFFFFFF'>After your characters use an Elemental Burst:</color> If this card has recorded at least 5 Sophistication points, discard this card and generate <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> equal to the number of <color style='color:#FFFFFFFF'>Sophistication points minus 2</color>.",
+            "Desc": "Pour chaque carte défaussée depuis votre zone de soutien pendant la partie, cette carte cumule 1 pt de constatation. (Peut être cumulé jusqu'à 6 pts)<br><color style='color:#FFFFFFFF'>Lorsque votre personnage a utilisé un déchaînement élémentaire : </color>Avec au moins 5 pts de constatation, la carte est défaussée pour créer des dés <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color> dont la quantité est égale à <color style='color:#FFFFFFFF'>la constatation actuelle moins 2</color>.",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4417,8 +4417,8 @@ var _card = [
         },
         {
             "_id": 322021,
-            "Name": "Mamere",
-            "Desc": "<color style='color:#FFFFFFFF'>After you play a [b]3101[a]Food/[b]3104[a]Location/[b]3103[a]Companion/[b]3102[a]Item Action Card other than Mamere:</color> Randomly create 1 [b]3101[a]Food/[b]3104[a]Location/[b]3103[a]Companion/[b]3102[a]Item Action Card other than Mamere, and add it to your hand. (Once per Round).<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+            "Name": "Mamère",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous avez joué une carte d'action de [b]3101[a]plat, de [b]3104[a]terrain, de [b]3103[a]compagnon ou d'[b]3102[a]objet autre que Mamère : </color>Crée aléatoirement une carte d'action de [b]3101[a]plat, de [b]3104[a]terrain, de [b]3103[a]compagnon ou d'[b]3102[a]objet autre que Mamère et l'ajoute dans votre main. (1 fois par manche)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4432,7 +4432,7 @@ var _card = [
         {
             "_id": 322020,
             "Name": "Yayoi Nanatsuki",
-            "Desc": "<color style='color:#FFFFFFFF'>When playing an [b]3004[a]Artifact card:</color> Spend 1 less Elemental Die. On top of that, for each of your characters already equipped with an [b]3004[a]Artifact on the field, you spend 1 less Elemental Die (once per Round).",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3004[a]artéfact : </color>Dépense 1 dé élémentaire en moins, et 1 dé supplémentaire en moins pour chaque personnage déjà équipé d'un [b]3004[a]artéfact sur votre terrain. (1 fois par manche)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4446,7 +4446,7 @@ var _card = [
         {
             "_id": 322019,
             "Name": "Setaria",
-            "Desc": "<color style='color:#FFFFFFFF'>After you perform any action, if you have 0 cards in your hand: </color>Draw 1 card.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous n'avez plus de carte en main après avoir effectué une action : </color>Pioche 1 carte.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4461,8 +4461,8 @@ var _card = [
         },
         {
             "_id": 322018,
-            "Name": "Master Zhang",
-            "Desc": "<color style='color:#FFFFFFFF'>When playing a [b]3003[a]Weapon card:</color> Spend 1 less Elemental Die. On top of that, for each of your characters already equipped with a [b]3003[a]Weapon on the field, you spend 1 less Elemental Die. (Once per Round.)",
+            "Name": "Maître Zhang",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3003[a]arme : </color>Dépense 1 dé élémentaire en moins, et 1 dé supplémentaire en moins pour chaque personnage déjà équipé d'une [b]3003[a]arme sur votre terrain. (1 fois par manche)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4476,7 +4476,7 @@ var _card = [
         {
             "_id": 322017,
             "Name": "Rana",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character uses an Elemental Skill:</color> Create 1 Elemental Die of the same Type as your next off-field character. (Once per Round)",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage a utilisé une compétence élémentaire : </color>Crée 1 dé du type élémentaire de votre prochain personnage en attente. (1 fois par manche)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4490,7 +4490,7 @@ var _card = [
         {
             "_id": 322016,
             "Name": "Dunyarzad",
-            "Desc": "<color style='color:#FFFFFFFF'>When playing a [b]3103[a]Companion Support Card:</color> Spend 1 less Elemental Die (once per Round).<br><color style='color:#FFFFFFFF'>After playing a [b]3103[a]Companion Support Card:</color>Draw 1 random [b]3103[a]Companion Support Card from your deck (once per match).",
+            "Desc": "<color style='color:#FFFFFFFF'>En jouant une carte de soutien de [b]3103[a]compagnon : </color>Dépense 1 dé élémentaire en moins. (1 fois par manche)<br><color style='color:#FFFFFFFF'>Après avoir joué une carte de soutien de [b]3103[a]compagnon : </color>Pioche aléatoirement 1 carte de soutien de [b]3103[a]compagnon dans le deck. (Limité à 1 fois par partie)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4504,7 +4504,7 @@ var _card = [
         {
             "_id": 322015,
             "Name": "Xudong",
-            "Desc": "<color style='color:#FFFFFFFF'>When playing a [b]3101[a]Food Event Card:</color> Spend 2 less Elemental Dice. (Once per Round)",
+            "Desc": "<color style='color:#FFFFFFFF'>En jouant une carte d'événement de [b]3101[a]plat : </color>Dépense 2 dés élémentaires en moins. (1 fois par manche)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4517,8 +4517,8 @@ var _card = [
         },
         {
             "_id": 322014,
-            "Name": "Kid Kujirai",
-            "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase begins:</color> Create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. Then if your opponent's Support Zone is not full, transfer this card to your opponent's Support Zone.",
+            "Name": "Petit Kujirai",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Crée 1 dé <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>, puis transfère cette carte dans la zone de soutien de l'adversaire si cette dernière n'est pas pleine.",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4532,7 +4532,7 @@ var _card = [
         {
             "_id": 322013,
             "Name": "Hanachirusato",
-            "Desc": "<color style='color:#FFFFFFFF'>When a Summon disappears:</color> This card gains 1 <color style='color:#FFFFFFFF'>Cleansing Ritual Progress</color>. (Max 3)<br><color style='color:#FFFFFFFF'>When you play a [b]3003[a]Weapon or [b]3004[a]Artifact Card:</color> If you already have 3 <color style='color:#FFFFFFFF'>Cleansing Ritual Progress</color>, discard this card and cause the card you play to cost 2 less Elemental Dice.",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'une invocation disparaît : </color>Accorde 1 pt de <color style='color:#FFFFFFFF'>progression du rituel de purification</color> à cette carte. (Peut être cumulé 3 fois maximum)<br><color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'équipement d'[b]3003[a]arme ou d'[b]3004[a]artéfact : </color>Si le <color style='color:#FFFFFFFF'>rituel de purification</color> a atteint 3 pts, défausse cette carte et dépense 2 dés élémentaires en moins.",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4544,7 +4544,7 @@ var _card = [
         {
             "_id": 322012,
             "Name": "Liu Su",
-            "Desc": "<color style='color:#FFFFFFFF'>After you switch characters:</color> If the character you switched to does not have <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>, they will gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Desc": "<color style='color:#FFFFFFFF'>Après que vous basculez de personnage : </color>Si le nouveau personnage n'a pas de <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color>, il obtient 1 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color>. (1 fois par manche)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4560,8 +4560,8 @@ var _card = [
         },
         {
             "_id": 322011,
-            "Name": "Iron Tongue Tian",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> One of your characters without maximum Energy gains 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>. (Active Character prioritized)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "Tian la langue de fer",
+            "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Accorde 1 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color> à un de vos personnages dont les charges ne sont pas au maximum. (Priorité au personnage actif)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4577,8 +4577,8 @@ var _card = [
         },
         {
             "_id": 322010,
-            "Name": "Ellin",
-            "Desc": "<color style='color:#FFFFFFFF'>When you use a Skill that has already been used in this Round:</color> Spend 1 less Elemental Die. (Once per Round)",
+            "Name": "Eileen",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage utilise une capacité qui a déjà été utilisée pendant la manche actuelle : </color>Dépense 1 dé élémentaire en moins. (1 fois par manche)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4591,8 +4591,8 @@ var _card = [
         },
         {
             "_id": 322009,
-            "Name": "Chang the Ninth",
-            "Desc": "<color style='color:#FFFFFFFF'>After either side uses a Skill:</color> If [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> or <color style='color:#FFFFFFFF'>Piercing DMG</color> was dealt, or an <color style='color:#FFFFFFFF'>Elemental Reaction</color> was triggered, this card gains 1 <color style='color:#FFFFFFFF'>Inspiration</color>.<br>When this card gains 3 <color style='color:#FFFFFFFF'>Inspiration</color>, then discard this card and draw 2 cards.",
+            "Name": "Chang le Neuvième",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un des camps a utilisé une capacité : </color>Si des [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> ou des <color style='color:#FFFFFFFF'>DGT de perforation</color> ont été infligés ou si une <color style='color:#FFFFFFFF'>réaction élémentaire</color> a été déclenchée, cette carte cumule 1 <color style='color:#FFFFFFFF'>inspiration</color>. Si la carte a cumulé 3 <color style='color:#FFFFFFFF'>inspirations</color> : Défausse la carte et pioche 2 cartes.",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4606,8 +4606,8 @@ var _card = [
         },
         {
             "_id": 322008,
-            "Name": "Liben",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Collect your unused Elemental Dice (Max 1 of each Elemental Type).<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> If this card has collected 3 Elemental Dice, draw 2 cards and create <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> ×2, then discard this card.",
+            "Name": "Li le fiable",
+            "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Récupère tous vos dés élémentaires non utilisés. (Maximum 1 par type)<br><color style='color:#FFFFFFFF'>Au début de la phase d'action: </color>Si la carte a récupéré 3 dés élémentaires, pioche 2 cartes, crée 2 dés <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color> et défausse cette carte.",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4620,8 +4620,8 @@ var _card = [
         },
         {
             "_id": 322007,
-            "Name": "Timmie",
-            "Desc": "<color style='color:#FFFFFFFF'>Triggers automatically once per Round:</color> This card gains 1 <color style='color:#FFFFFFFF'>Pigeon</color>. When this card gains 3 <color style='color:#FFFFFFFF'>Pigeons</color>, discard this card, then draw 1 card and create <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> ×1.",
+            "Name": "Timmy",
+            "Desc": "<color style='color:#FFFFFFFF'>Se déclenche automatiquement 1 fois par manche : </color>Cette carte cumule 1 <color style='color:#FFFFFFFF'>pigeon</color>. Si la carte a cumulé 3 <color style='color:#FFFFFFFF'>pigeons</color>: Défausse la carte, pioche 1 carte et crée 1 dé <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>.",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4634,8 +4634,8 @@ var _card = [
         },
         {
             "_id": 322006,
-            "Name": "Tubby",
-            "Desc": "<color style='color:#FFFFFFFF'>When playing a [b]3104[a]Location Support Card:</color> Spend 2 less Elemental Dice. (Once per Round)",
+            "Name": "Taby",
+            "Desc": "<color style='color:#FFFFFFFF'>En jouant une carte de soutien de [b]3104[a]terrain : </color>Dépense 2 dés élémentaires en moins. (1 fois par manche)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4649,7 +4649,7 @@ var _card = [
         {
             "_id": 322005,
             "Name": "Chef Mao",
-            "Desc": "<color style='color:#FFFFFFFF'>After playing a [b]3101[a]Food Event Card:</color> Create 1 random Basic Elemental Die (once per Round).<br><color style='color:#FFFFFFFF'>After playing a [b]3101[a]Food Event Card:</color>Draw 1 random [b]3101[a]Food Event Card from your deck (once per match).",
+            "Desc": "<color style='color:#FFFFFFFF'>Après avoir joué une carte d'événement de [b]3101[a]plat : </color>Crée aléatoirement 1 dé élémentaire de base. (1 fois par manche)<br><color style='color:#FFFFFFFF'>Après avoir joué une carte d'événement de [b]3101[a]plat : </color>Pioche aléatoirement 1 carte d'événement de [b]3101[a]plat dans le deck. (Limité à 1 fois par partie)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4663,7 +4663,7 @@ var _card = [
         {
             "_id": 322004,
             "Name": "Wagner",
-            "Desc": "<color style='color:#FFFFFFFF'>When played:</color> Comes with 2 <color style='color:#FFFFFFFF'>Forging Billets</color>. If your deck originally includes at least 3 different types of [b]3003[a]Weapons, you will randomly also draw 1 [b]3003[a]Weapon Card from your deck.<br><color style='color:#FFFFFFFF'>End Phase:</color> This card will gain 1 <color style='color:#FFFFFFFF'>Forging Billet</color>.<br><color style='color:#FFFFFFFF'>When playing a [b]3003[a]Weapon Card:</color> If possible, spend <color style='color:#FFFFFFFF'>Forging Billets</color> equal to the total cost of the [b]3003[a]Weapon and equip this [b]3003[a]Weapon for free. (Once per Round)",
+            "Desc": "<color style='color:#FFFFFFFF'>En arrivant sur le terrain : </color>Cette carte possède 2 <color style='color:#FFFFFFFF'>billettes de forge</color>. Si votre deck de départ contient au moins 3 types différents d'[b]3003[a]arme, vous piochez aléatoirement 1 carte d'[b]3003[a]arme dans votre deck.<br><color style='color:#FFFFFFFF'>Phase finale : </color>Cette carte obtient 1 <color style='color:#FFFFFFFF'>billette de forge</color>.<br><color style='color:#FFFFFFFF'>En jouant une carte d'[b]3003[a]arme : </color>Si possible, consomme des <color style='color:#FFFFFFFF'>billettes de forge</color> équivalant au coût total de l'[b]3003[a]arme et équipe gratuitement l'[b]3003[a]arme. (1 fois par manche)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4677,7 +4677,7 @@ var _card = [
         {
             "_id": 322003,
             "Name": "Timaeus",
-            "Desc": "<color style='color:#FFFFFFFF'>When played: </color>Comes with 2 <color style='color:#FFFFFFFF'>Transmutation Materials</color>. If your deck originally includes at least 6 [b]3004[a]Artifact cards, you will randomly also draw 1 [b]3004[a]Artifact Card from your deck.<br><color style='color:#FFFFFFFF'>End Phase:</color> This card will gain 1 <color style='color:#FFFFFFFF'>Transmutation Material</color>.<br><color style='color:#FFFFFFFF'>When playing an [b]3004[a]Artifact Card:</color> If possible, spend <color style='color:#FFFFFFFF'>Transmutation Materials</color> equal to the total cost of the [b]3004[a]Artifact and equip this [b]3004[a]Artifact for free. (Once per Round)",
+            "Desc": "<color style='color:#FFFFFFFF'>En arrivant sur le terrain : </color>Cette carte possède 2 <color style='color:#FFFFFFFF'>matériaux de synthèse</color>. Si votre deck de départ contient au moins 6 cartes d'[b]3004[a]artéfact, vous piochez aléatoirement 1 carte d'[b]3004[a]artéfact dans votre deck.<br><color style='color:#FFFFFFFF'>Phase finale : </color>Cette carte obtient 1 <color style='color:#FFFFFFFF'>matériau de synthèse</color>.<br><color style='color:#FFFFFFFF'>En jouant une carte d'[b]3004[a]artéfact : </color>Si possible, consomme des <color style='color:#FFFFFFFF'>matériaux de synthèse</color> équivalant au coût total de l'[b]3004[a]artéfact et équipe gratuitement l'[b]3004[a]artéfact. (1 fois par manche)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4690,8 +4690,8 @@ var _card = [
         },
         {
             "_id": 322002,
-            "Name": "Katheryne",
-            "Desc": "<color style='color:#FFFFFFFF'>When you perform \"Switch Character\":</color> This switch is considered a <color style='color:#FFFFFFFF'>Fast Action</color> instead of a <color style='color:#FFFFFFFF'>Combat Action</color>. (Once per Round)",
+            "Name": "Catherine",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous basculez de personnage : </color>Considère ce changement comme une <color style='color:#FFFFFFFF'>Action rapide</color>, et non pas comme une <color style='color:#FFFFFFFF'>Action de combat</color>. (1 fois par manche)",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4708,7 +4708,7 @@ var _card = [
         {
             "_id": 322001,
             "Name": "Paimon",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Create <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> ×2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action: </color>Crée 2 dés <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
             "Tag": [
                 "GCG_TAG_ALLY"
             ],
@@ -4724,8 +4724,8 @@ var _card = [
         },
         {
             "_id": 321017,
-            "Name": "Opera Epiclese",
-            "Desc": "<color style='color:#FFFFFFFF'>Before you choose an action:</color> If the original Elemental Dice cost of the cards equipped to your characters is not less than that of the opposing side, create 1 Elemental Die of your active character's element. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+            "Name": "Opéra Épiclèse",
+            "Desc": "<color style='color:#FFFFFFFF'>Avant que vous ne choisissiez une action : </color>Si le coût total d'origine des dés élémentaires des cartes équipées sur vos personnages est supérieur ou égal à celui de l'adversaire, crée 1 dé de l'élément du personnage actif. (1 fois par manche)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4740,8 +4740,8 @@ var _card = [
         },
         {
             "_id": 321016,
-            "Name": "Weeping Willow of the Lake",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> If your Hand has no more than 2 cards, draw 2 cards.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "Saule pleureur du lac",
+            "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Vous piochez 2 cartes si vous en avez moins de 3 dans votre main.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4756,8 +4756,8 @@ var _card = [
         },
         {
             "_id": 321015,
-            "Name": "Stormterror's Lair",
-            "Desc": "<color style='color:#FFFFFFFF'>When played:</color> Draw a random [b]3006[a]Talent card from your deck.<br><color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card, or when your character uses a Skill with an original cost of at least 4 Elemental Dice: </color>Spend 1 less Elemental Die. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+            "Name": "Antre de Stormterror",
+            "Desc": "<color style='color:#FFFFFFFF'>En arrivant sur le terrain : </color>Pioche aléatoirement une carte d'[b]3006[a]aptitude dans le deck.<br><color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3006[a]aptitude ou lorsque votre personnage utilise une capacité dont le coût original de dés élémentaires est de 4 ou plus : </color>Dépense 1 dé élémentaire en moins. (1 fois par manche)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4772,8 +4772,8 @@ var _card = [
         },
         {
             "_id": 321014,
-            "Name": "Gandharva Ville",
-            "Desc": "<color style='color:#FFFFFFFF'>Before you choose your action, when the number of Elemental Dice you have is 0:</color> Create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> (once per Round).<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+            "Name": "Gandharva",
+            "Desc": "<color style='color:#FFFFFFFF'>S'il ne vous reste aucun dé élémentaire avant de choisir une action : </color>Crée 1 dé <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>. (1 fois par manche)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4789,8 +4789,8 @@ var _card = [
         },
         {
             "_id": 321013,
-            "Name": "Golden House",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3003[a]Weapon card or an [b]3004[a]Artifact card with an original cost of at least 3: </color>Spend 1 less Elemental Die. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "Chambre d'Or",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3003[a]arme ou d'[b]3004[a]artéfact dont le coût original de dés élémentaires est de 3 ou plus : </color>Dépense 1 dé élémentaire en moins. (1 fois par manche)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4803,8 +4803,8 @@ var _card = [
         },
         {
             "_id": 321012,
-            "Name": "Chinju Forest",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> If you do not start first, create 1 Elemental Die that matches the Type of your active character.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 3</color>",
+            "Name": "Forêt de Chinju",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Si vous n'êtes pas le joueur qui joue en premier, crée 1 dé du type élémentaire de votre personnage actif.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4820,7 +4820,7 @@ var _card = [
         {
             "_id": 321011,
             "Name": "Vanarana",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Collect up to 2 unused Elemental Dice.<br><color style='color:#FFFFFFFF'>When the Action Phase begins:</color> Reclaim the dice you collected using this card.",
+            "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Récupère jusqu'à 2 dés élémentaires non utilisés.<br><color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Rend les dés collectés avec cette carte.",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4831,8 +4831,8 @@ var _card = [
         },
         {
             "_id": 321010,
-            "Name": "Sumeru City",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or your character uses a Skill:</color> If you do not have more Elemental Dice than cards in your hand, spend 1 less Elemental Die. (Once per Round)",
+            "Name": "Ville de Sumeru",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3006[a]aptitude ou qu'un de vos personnages utilise une capacité : </color>Si vous avez moins ou autant de dés que de cartes, dépense 1 dé élémentaire en moins. (1 fois par manche)",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4845,8 +4845,8 @@ var _card = [
         },
         {
             "_id": 321009,
-            "Name": "Sangonomiya Shrine",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heal all your characters for 1 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "Sanctuaire de Sangonomiya",
+            "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Soigne tous vos personnages pour 1 pt.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4861,8 +4861,8 @@ var _card = [
         },
         {
             "_id": 321008,
-            "Name": "Grand Narukami Shrine",
-            "Desc": "<color style='color:#FFFFFFFF'>Triggers automatically once per Round:</color> Create 1 random Basic Elemental Die.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>：3</color>",
+            "Name": "Sanctuaire de Narukami",
+            "Desc": "<color style='color:#FFFFFFFF'>Se déclenche automatiquement 1 fois par manche : </color>Crée aléatoirement 1 dé élémentaire de base.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 3</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4878,7 +4878,7 @@ var _card = [
         {
             "_id": 321007,
             "Name": "Tenshukaku",
-            "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase begins:</color> If you have 5 different kinds of Elemental Die, create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>.",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Si vous avez des dés de 5 types élémentaires différents, crée 1 dé <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>.",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4893,8 +4893,8 @@ var _card = [
         },
         {
             "_id": 321006,
-            "Name": "Favonius Cathedral",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heals your active character for 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "Cathédrale de Favonius",
+            "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Soigne votre personnage actif pour 2 pts.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4909,8 +4909,8 @@ var _card = [
         },
         {
             "_id": 321005,
-            "Name": "Wangshu Inn",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heal the most injured character on standby for 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "Auberge Wangshu",
+            "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Soigne votre personnage en attente ayant subi le plus de DGT pour 2 pts.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4925,8 +4925,8 @@ var _card = [
         },
         {
             "_id": 321004,
-            "Name": "Dawn Winery",
-            "Desc": "<color style='color:#FFFFFFFF'>When you perform \"Switch Character\":</color> Spend 1 less Elemental Die. (Once per Round)",
+            "Name": "Domaine de l'Aurore",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous basculez de personnage : </color>Dépense 1 dé élémentaire en moins. (1 fois par manche)",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4939,8 +4939,8 @@ var _card = [
         },
         {
             "_id": 321003,
-            "Name": "Jade Chamber",
-            "Desc": "<color style='color:#FFFFFFFF'>Roll Phase</color>: 2 initial Elemental Dice will be of the same Elemental type as your active character.<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> If you have no more than 3 cards in your Hand, discard this card and create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>.",
+            "Name": "Chambre de Jade",
+            "Desc": "<color style='color:#FFFFFFFF'>Phase de lancer : </color>2 des dés lancés au début sont de l'élément de votre personnage actif.<br><color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Défausse cette carte et crée 1 dé <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color> si vous avez moins de 4 cartes dans votre main.",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4953,8 +4953,8 @@ var _card = [
         },
         {
             "_id": 321002,
-            "Name": "Knights of Favonius Library",
-            "Desc": "<color style='color:#FFFFFFFF'>When played:</color> Select any Elemental Dice to reroll.<br><color style='color:#FFFFFFFF'>Roll Phase:</color> Gain another chance to reroll.",
+            "Name": "Bibliothèque de l'Ordre de Favonius",
+            "Desc": "<color style='color:#FFFFFFFF'>En arrivant sur le terrain : </color>Permet de choisir des dés élémentaires à relancer.<br><color style='color:#FFFFFFFF'>Phase de lancer : </color>Accorde une occasion supplémentaire de relancer.",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4965,8 +4965,8 @@ var _card = [
         },
         {
             "_id": 321001,
-            "Name": "Liyue Harbor Wharf",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Draw 2 cards.<br><color style='color:#FFFFFFFF'>Usage(s)</color>: 2",
+            "Name": "Quai du Port de Liyue",
+            "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Pioche 2 cartes.<br><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2",
             "Tag": [
                 "GCG_TAG_PLACE"
             ],
@@ -4981,8 +4981,8 @@ var _card = [
         },
         {
             "_id": 423045,
-            "Name": "Mastery Talisman: Burst Assault - Ousia",
-            "Desc": "<color style='color:#FFFFFFFF'>When your character uses their Elemental Burst:</color> Spend 3 fewer Elemental Dice. (Once per Round)<br><color style='color:#FFFFFFFF'>When you announce the end of your Round:</color> If your characters have used an Elemental Burst this Round, then deal 1 [b]3504[a]Arkhe: Ousia-aligned <color style='color:#FFFFFFFF'>Piercing DMG</color> to all of your opponent's characters.",
+            "Name": "Charme de maîtrise : Assaut déchaîné (Ousia)",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage utilise un déchaînement élémentaire : </color>Dépense 3 dés élémentaires en moins. (1 fois par manche)<br><color style='color:#FFFFFFFF'>Lorsque vous annoncez la fin de votre manche : </color>Si un de vos personnages a utilisé un déchaînement élémentaire pendant la manche, inflige 1 pt de <color style='color:#FFFFFFFF'>DGT de perforation</color> chargés d'énergie d'[b]3504[a]Arkhe ousia à tous les personnages adverses.",
             "Tag": [
                 "GCG_TAG_ARKHE_PNEUMA"
             ],
@@ -4995,8 +4995,8 @@ var _card = [
         },
         {
             "_id": 423044,
-            "Name": "Mastery Talisman: Enhancing Will",
-            "Desc": "<color style='color:#FFFFFFFF'>At the start of the match:</color> Discard this card and create Surging Will. (When you play a Support Card: Create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>, draw 1 card, up to once per Round)",
+            "Name": "Charme de maîtrise : Renforcement de volonté",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la partie : </color>Défausse la carte et crée une Aide volontaire. (Lorsque vous jouez une carte de soutien : Crée 1 dé <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color> et pioche 1 carte. Limité à 1 fois par manche.)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5009,8 +5009,8 @@ var _card = [
         },
         {
             "_id": 423043,
-            "Name": "Mastery Talisman: Damage Control",
-            "Desc": "<color style='color:#FFFFFFFF'>After you play an Action Card:</color> Create an <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> and remove one of your opponent's Multiplied Damage stacks. (Can be triggered up to 3 times per Round)",
+            "Name": "Charme de maîtrise : Dommage contrôlé",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous avez joué 1 carte d'action : </color>Crée 1 dé <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color> et enlève 1 cumul de Multiplication des dommages à l'adversaire. (Déclenché 3 fois maximum par manche)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5023,8 +5023,8 @@ var _card = [
         },
         {
             "_id": 423042,
-            "Name": "Mastery Talisman: Winterwind's Whip",
-            "Desc": "<color style='color:#FFFFFFFF'>After an opposing character is Frozen:</color> Create 2 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. (Can be triggered up to twice per Round)",
+            "Name": "Charme de maîtrise : Attaque du vent hiémal",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un personnage adverse a subi une réaction de Gel : </color>Crée 2 dés <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>. (Déclenché 2 fois maximum par manche)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5035,8 +5035,8 @@ var _card = [
         },
         {
             "_id": 423041,
-            "Name": "Elemental Orb: The Grand Banquet",
-            "Desc": "When Action Phase begins: All characters on both sides gain 2 Energy.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+            "Name": "Orbe élémentaire : Festin",
+            "Desc": "Au début de la phase d'action : Accorde 2 charges à tous les personnages de chaque camp.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5047,8 +5047,8 @@ var _card = [
         },
         {
             "_id": 423040,
-            "Name": "Ingenious Engineering: Pneuma Re-Creation",
-            "Desc": "<color style='color:#FFFFFFFF'>Before you choose your action:</color> If your side has no more than 4 Elemental Dice remaining, create a <color style='color:#FFFFFFFF'>Pneuma Block</color>. (Once per Round)<br><color style='color:#FFFFFFFF'>After a Pneuma-Ousia Annihilation Reaction occurs on an opponent's character:</color> Generate 3 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. (When a character is defeated, a Pneuma-Ousia Annihilation Reaction will not be triggered)",
+            "Name": "Ingénierie ingénieuse : Renaissance pneuma",
+            "Desc": "<color style='color:#FFFFFFFF'>Avant que vous ne choisissiez une action : </color>S'il vous reste moins de 5 dés élémentaires, crée un <color style='color:#FFFFFFFF'>Bloc pneuma</color>. (1 fois par manche)<br><color style='color:#FFFFFFFF'>Lorsqu'un personnage adverse a subi une Réaction d'annihilation des énergies pneuma et ousia : </color>Crée 3 dés <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>. (Aucune Réaction d'annihilation des énergies pneuma et ousia n'est déclenchée lorsqu'un personnage est éliminé)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5062,8 +5062,8 @@ var _card = [
         },
         {
             "_id": 423039,
-            "Name": "Ingenious Engineering: Pneuma-Ousia Conversion",
-            "Desc": "<color style='color:#FFFFFFFF'>When battle begins:</color> Create a <color style='color:#FFFFFFFF'>Pneuma Block: Persistent on your side of the field</color>.<br><color style='color:#FFFFFFFF'>After you switch characters:</color> If your side of the field has a Pneuma Block: Persistent, convert it to a Ousia Block: Persistent. If your side of the field has a Ousia Block: Persistent, convert it to a Pneuma Block: Persistent.<br><color style='color:#FFFFFFFF'>After a Pneuma-Ousia Annihilation Reaction occurs on an opponent's character:</color> Create 2 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. (When a character is defeated, a Pneuma-Ousia Annihilation Reaction will not be triggered)",
+            "Name": "Ingénierie ingénieuse : Échange pneuma-ousia",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début du combat : </color>Vous créez un <color style='color:#FFFFFFFF'>Bloc pneuma : Persistance</color>.<br><color style='color:#FFFFFFFF'>Après que vous basculez de personnage : </color>Si un Bloc pneuma : Persistance est sur votre terrain, il se transforme en Bloc ousia : Persistance ; si un Bloc ousia : Persistance est sur votre terrain, il se transforme en Bloc pneuma : Persistance.<br><color style='color:#FFFFFFFF'>Lorsqu'un personnage adverse a subi une Réaction d'annihilation des énergies pneuma et ousia : </color>Crée 2 dés <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>. (Aucune Réaction d'annihilation des énergies pneuma et ousia n'est déclenchée lorsqu'un personnage est éliminé)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5078,8 +5078,8 @@ var _card = [
         },
         {
             "_id": 423038,
-            "Name": "Ingenious Engineering: Harnessing Annihilation",
-            "Desc": "<color style='color:#FFFFFFFF'>After a Pneuma-Ousia Annihilation Reaction occurs on an opponent's character:</color> Generate 2 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. (When a character is defeated, a Pneuma-Ousia Annihilation Reaction will not be triggered)",
+            "Name": "Ingénierie ingénieuse : Soutien annihilateur",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un personnage adverse a subi une Réaction d'annihilation des énergies pneuma et ousia : </color>Crée 2 dés <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>. (Aucune Réaction d'annihilation des énergies pneuma et ousia n'est déclenchée lorsqu'un personnage est éliminé)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5091,8 +5091,8 @@ var _card = [
         },
         {
             "_id": 423037,
-            "Name": "Mastery Talisman: Supplementary Damage",
-            "Desc": "<color style='color:#FFFFFFFF'>After you use a Weapon Card: </color> Create 2 Omni Dice. (Can be triggered up to 2 times per Round)<br><color style='color:#FFFFFFFF'>At the start of the match:</color> Draw 1 random Weapon Card from the deck.",
+            "Name": "Charme de maîtrise : Dommage collatéral",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous avez joué une carte d'équipement d'arme : </color>Crée 2 dés Omni. (Déclenché 2 fois maximum par manche)<br><color style='color:#FFFFFFFF'>Au début de la partie : </color>Pioche aléatoirement 1 carte d'équipement d'arme dans le deck.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5101,8 +5101,8 @@ var _card = [
         },
         {
             "_id": 423036,
-            "Name": "Mastery Talisman: Battle Ready",
-            "Desc": "Your characters with Weapon Cards attached deal +1 DMG.<br><color style='color:#FFFFFFFF'>After your characters use a Skill:</color> If this character has a Weapon Card attached, return the Weapon Card to your Hand, and the next time you play a Weapon Card, spend 2 fewer Elemental Dice. (Each character can trigger this once per Round)",
+            "Name": "Charme de maîtrise : Préparation guerrière",
+            "Desc": "DGT de vos personnages équipés d'une arme +1.<br><color style='color:#FFFFFFFF'>Lorsque votre personnage a utilisé une capacité : </color>S'il est équipé d'une carte d'arme, elle retourne dans votre main et la prochaine fois que vous jouez une carte d'arme coûte 2 dés élémentaires en moins. (1 fois par manche pour chaque personnage)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5111,8 +5111,8 @@ var _card = [
         },
         {
             "_id": 423035,
-            "Name": "Mastery Talisman: Verdant Overgrowth",
-            "Desc": "<color style='color:#FFFFFFFF'>After opposing characters receive Bloom DMG:</color> Spend 2 less Elemental Dice when playing your next Action Card. The next time your characters deal [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color> or [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color> to your opponent's active character, the DMG is increased by 2.",
+            "Name": "Charme de maîtrise : Propagation verte",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un personnage adverse a subi des DGT d'une réaction de Fleurissement : </color>Dépense 2 dés élémentaires en moins la prochaine fois que vous jouez une carte d'action, et DGT +2 la prochaine fois que vous infligez des [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color> ou des [b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color> au personnage actif adverse.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5124,8 +5124,8 @@ var _card = [
         },
         {
             "_id": 423034,
-            "Name": "Mastery Talisman: Sympathetic Pain",
-            "Desc": "<color style='color:#FFFFFFFF'>When an opposing character is defeated:</color> Deal 2 <color style='color:#FFFFFFFF'>Piercing DMG</color> to all opposing characters.",
+            "Name": "Charme de maîtrise : Empathie douloureuse",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un personnage adverse est éliminé : </color>Inflige 2 pts de <color style='color:#FFFFFFFF'>DGT de perforation</color> à tous les personnages adverses.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5136,8 +5136,8 @@ var _card = [
         },
         {
             "_id": 423033,
-            "Name": "Mastery Talisman: Unyielding Advance",
-            "Desc": "<color style='color:#FFFFFFFF'>When your character uses a Skill they have already used once this Round:</color> Spend 1 less Elemental Die. (Once per Round)<br><color style='color:#FFFFFFFF'>When your character uses a skill they have already used twice this Round:</color> Spend 2 less Elemental Dice. (Once per Round)",
+            "Name": "Charme de maîtrise : Avancée forcée",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage utilise une capacité qui a déjà été utilisée 1 fois pendant la manche actuelle : </color>Dépense 1 dé élémentaire en moins. (1 fois par manche)<br><color style='color:#FFFFFFFF'>Lorsque votre personnage utilise une capacité qui a déjà été utilisée 2 fois pendant la manche actuelle : </color>Dépense 2 dés élémentaires en moins. (1 fois par manche)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5146,8 +5146,8 @@ var _card = [
         },
         {
             "_id": 423032,
-            "Name": "Mastery Talisman: Fierce Follow-Up",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Skill:</color> During this match, the DMG dealt by the character will be increased by 1 (Can stack up to 3 times, but 1 stack is lost at the end of each Round).",
+            "Name": "Charme de maîtrise : Pourchas féroce",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage a utilisé une capacité : </color>DGT infligés par le personnage pendant la partie +1. (Peut être cumulé, 3 cumuls maximum ; mais un cumul est perdu à la fin de chaque manche)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5156,8 +5156,8 @@ var _card = [
         },
         {
             "_id": 423031,
-            "Name": "Mastery Talisman: Buttressed Combined Assault",
-            "Desc": "<color style='color:#FFFFFFFF'>When a Summon disappears:</color> Gain 1 point of Buttressed Succor (up to 3 points).<br><color style='color:#FFFFFFFF'>When Action Phase begins:</color> Consume all points of Buttressed Succor. For each point consumed, generate 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>.",
+            "Name": "Charme de maîtrise : Défense commune",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'une invocation disparaît : </color>Accorde 1 pt d'aide défensive. (Peut être cumulé 3 fois maximum)<br><color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Consomme toute l'aide défensive et crée 1 dé <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color> pour chaque point consommé.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5168,8 +5168,8 @@ var _card = [
         },
         {
             "_id": 423030,
-            "Name": "Mastery Talisman: Dauntless Pursuit",
-            "Desc": "<color style='color:#FFFFFFFF'>When your characters use <color style='color:#FFFFFFFF'>Plunging Attack</color> to deal Elemental DMG:</color> The DMG is increased by 2. After the Skill finishes calculating, generate 2 Elemental Dice of the same type as your active character (once per Round).",
+            "Name": "Charme de maîtrise : Persécution intrépide",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage utilise une <color style='color:#FFFFFFFF'>Attaque plongeante</color> pour infliger des DGT élémentaires : </color>DGT supplémentaires +2. Après le calcul de la capacité : Crée 2 dés élémentaires du même type que votre personnage actif (1 fois par manche).",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5190,8 +5190,8 @@ var _card = [
         },
         {
             "_id": 423028,
-            "Name": "Mastery Talisman: Don't Push Your Luck",
-            "Desc": "<color style='color:#FFFFFFFF'>After an opponent takes Elemental Damage:</color> Grants 1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> to your active chracter (Up to 5 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>).",
+            "Name": "Charme de maîtrise : Butin de guerre",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un personnage adverse a subi des DGT élémentaires : </color>Accorde 1 pt de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> pour protéger votre personnage actif. (Peut être cumulé jusqu'à 5 pts de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> maximum)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5202,8 +5202,8 @@ var _card = [
         },
         {
             "_id": 423027,
-            "Name": "Mastery Talisman: Harmonic Tactics",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Draw 1 random [b]3006[a]Talent Card from your deck.<br><color style='color:#FFFFFFFF'>After your character takes DMG:</color> The DMG that character deals in this match increases by 1 (Up to 3 stacks, +3 DMG total).",
+            "Name": "Charme de maîtrise : Tactique harmonieuse",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Pioche aléatoirement 1 carte d'[b]3006[a]aptitude dans le deck.<br><color style='color:#FFFFFFFF'>Lorsque votre personnage a subi des DGT : </color>DGT infligés par ce personnage pendant la partie +1. (Peut être cumulé, 3 cumuls maximum)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5212,8 +5212,8 @@ var _card = [
         },
         {
             "_id": 423026,
-            "Name": "Mastery Talisman: Swift Triumph",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins: </color>Create 4 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. However, you will lose this match in the End Phase of this Round.<br><color style='color:#FFFFFFFF'>After an opposing character is defeated or your character uses Elemental Burst: </color>Create 3 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>, draw 1 card, and you gain an extra move upon the completion of your current action.",
+            "Name": "Charme de maîtrise : Triomphe rapide",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Crée 4 dés <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>, mais vous perdrez la partie lors de la phase finale de la manche.<br><color style='color:#FFFFFFFF'>Lorsqu'un personnage adverse a été vaincu ou qu'un de vos personnages a utilisé un déchaînement élémentaire : </color>Vous créez 3 dés <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>, piochez 1 carte, et pouvez continuer à faire une action une fois l'action en cours terminée.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5224,8 +5224,8 @@ var _card = [
         },
         {
             "_id": 423025,
-            "Name": "Game of Wits: Enduring Victory",
-            "Desc": "Start with 2 points of Victory Countdown.<br><color style='color:#FFFFFFFF'>End Phase: </color>Remove 1 point of Victory Countdown. If none of your characters are defeated when Victory Countdown points run out, you instantly win the match.<br><color style='color:#FFFFFFFF'>When Action Phase begins: </color>If there is exactly 1 point of Victory Countdown, create 4 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>.",
+            "Name": "Jeux d'esprit : Victoire d'endurance",
+            "Desc": "Entre sur le terrain avec 2 pts de décompte victorieux.<br><color style='color:#FFFFFFFF'>Phase finale : </color>Décompte victorieux -1 pt. Si aucun de vos personnages n'est éliminé lorsque les points de décompte victorieux sont épuisés, vous gagnez la partie.<br><color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>S'il reste 1 pt de décompte victorieux, crée 4 dés <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5236,8 +5236,8 @@ var _card = [
         },
         {
             "_id": 423024,
-            "Name": "Mastery Talisman: Sudden Ambush",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Skill:</color> Create an Ambuscade Mine of your character's Element on the opposing side of the field. The Ambuscade Mine will deal 1 DMG of that corresponding element to opposing reinforcements after they enter play.",
+            "Name": "Charme de maîtrise : Embuscade soudaine",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage a utilisé une capacité : </color>Crée une mine d'embuscade du même élément que le personnage sur le terrain adverse. Lorsqu'un personnage adverse arrive en renfort sur le terrain, la mine d'embuscade lui inflige 1 pt de DGT de l'élément correspondant.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5246,8 +5246,8 @@ var _card = [
         },
         {
             "_id": 423023,
-            "Name": "Mastery Talisman: Chaotic Banners",
-            "Desc": "<color style='color:#FFFFFFFF'>After an opposing character takes Elemental Reaction damage:</color> Create <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> ×1. (Can be triggered up to 3 times per Round)",
+            "Name": "Charme de maîtrise : Bannières chaotiques",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un personnage adverse a subi des DGT d'une réaction élémentaire : </color>Crée 1 dé <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>. (Déclenché 3 fois maximum par manche)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5258,8 +5258,8 @@ var _card = [
         },
         {
             "_id": 423022,
-            "Name": "Mastery Talisman: Cascading Defeat",
-            "Desc": "<color style='color:#FFFFFFFF'>When an opposing character is defeated:</color> Deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to all opposing characters.",
+            "Name": "Charme de maîtrise : Défaite en cascade",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un personnage adverse est éliminé : </color>Inflige 1 pt de <color style='color:#FFFFFFFF'>DGT de perforation</color> à tous les personnages adverses.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5270,8 +5270,8 @@ var _card = [
         },
         {
             "_id": 423021,
-            "Name": "Mastery Talisman: Battle-Ready",
-            "Desc": "<color style='color:#FFFFFFFF'>When your character equipped with both a [b]3003[a]Weapon and an [b]3004[a]Artifact uses a Skill:</color> Spend 3 less Elemental Dice. (Once per Round)",
+            "Name": "Charme de maîtrise : Belligérance prête",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage équipé à la fois d'une [b]3003[a]arme et d'un [b]3004[a]artéfact utilise une capacité : </color>Dépense 3 dés élémentaires en moins. (1 fois par manche)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5280,8 +5280,8 @@ var _card = [
         },
         {
             "_id": 423020,
-            "Name": "Mastery Talisman: Arms and Armor Honed",
-            "Desc": "<color style='color:#FFFFFFFF'>When your character uses a <color style='color:#FFFFFFFF'>Charged Attack</color>: </color>DMG dealt +1. Draw 1 card after finalization.",
+            "Name": "Charme de maîtrise : Perfectionnement d'armement",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage utilise une <color style='color:#FFFFFFFF'>Attaque chargée</color> : </color>DGT infligés +1. Après le calcul, vous piochez 1 carte.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5292,8 +5292,8 @@ var _card = [
         },
         {
             "_id": 423019,
-            "Name": "Mastery Talisman: Planning Long-Term",
-            "Desc": "<color style='color:#FFFFFFFF'>When a [b]3003[a]Weapon or [b]3004[a]Artifact Equipment card with a cost of at least 3 is played:</color> Spend 3 less Elemental Dice. (Once per Round)",
+            "Name": "Charme de maîtrise : Planification à long terme",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'équipement d'[b]3003[a]arme ou d'[b]3004[a]artéfact dont le coût total est au moins 3 : </color>Dépense 3 dés élémentaires en moins. (1 fois par manche)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5302,8 +5302,8 @@ var _card = [
         },
         {
             "_id": 423018,
-            "Name": "Mastery Talisman: Victorious Repute",
-            "Desc": "<color style='color:#FFFFFFFF'>When an opposing character is defeated:</color> Draw 1 card. +1 to the DMG of the current active character in this match. (Can stack. Max 3 Stacks.)",
+            "Name": "Charme de maîtrise : Renom victorieux",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un personnage adverse est éliminé : </color>Vous permet de piocher 1 carte et augmente les DGT infligés par votre personnage actif actuel de 1 pendant la partie. (Peut être cumulé, 3 cumuls maximum)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5312,8 +5312,8 @@ var _card = [
         },
         {
             "_id": 423017,
-            "Name": "Zero Hour Invokation: All-Out Aggression",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> All your characters gain 2 Energy.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+            "Name": "Invocation : Heure 0 - Attaque agressive",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Accorde 2 charges à tous vos personnages.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5324,8 +5324,8 @@ var _card = [
         },
         {
             "_id": 423016,
-            "Name": "Mastery Talisman: Dense Vegetation",
-            "Desc": "<color style='color:#FFFFFFFF'>After an opposing character takes Dendro-related Reaction DMG:</color> Create 2 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>.",
+            "Name": "Charme de maîtrise : Végétation dense",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un personnage adverse a subi des DGT d'une réaction Dendro : </color>Crée 2 dés <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5336,8 +5336,8 @@ var _card = [
         },
         {
             "_id": 423015,
-            "Name": "Mastery Talisman: Dual-Pronged Approach",
-            "Desc": "<color style='color:#FFFFFFFF'>After you use a Skill:</color> If your active character is being protected by a [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>, create 2 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> and 1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point. (Once per Round)",
+            "Name": "Charme de maîtrise : Approche à deux volets",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous avez utilisé une capacité : </color>Si votre personnage actif est protégé par un [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color>, crée 2 dés <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color> et 1 pt de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color>. (1 fois par manche)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5349,8 +5349,8 @@ var _card = [
         },
         {
             "_id": 423014,
-            "Name": "Mastery Talisman: Intelligence Update",
-            "Desc": "<color style='color:#FFFFFFFF'>After you switch characters:</color> Create 1 Elemental Die of the same Type as your active character. (Twice per Round)",
+            "Name": "Charme de maîtrise : Synchronisation d'informations",
+            "Desc": "<color style='color:#FFFFFFFF'>Après que vous basculez de personnage : </color>Crée 1 dé élémentaire du même type que votre personnage actif. (Déclenché 2 fois maximum par manche)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5359,8 +5359,8 @@ var _card = [
         },
         {
             "_id": 423013,
-            "Name": "Mastery Talisman: Practice Makes Perfect",
-            "Desc": "The first Skill used or first Talent equipped by each of your characters per Round will cost 1 less Elemental Die.",
+            "Name": "Charme de maîtrise : Pratique améliorative",
+            "Desc": "La première capacité utilisée ou aptitude équipée par chacun de vos personnages à chaque manche coûte 1 dé élémentaire en moins.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5369,8 +5369,8 @@ var _card = [
         },
         {
             "_id": 423012,
-            "Name": "Mastery Talisman: Extended Explosion",
-            "Desc": "<color style='color:#FFFFFFFF'>When an opposing character takes Elemental Reaction DMG:</color> Accumulate 1 Extension. If you have at least 3, consume 3 Extension and deal 4 <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Piercing DMG</color></color> to all opposing characters.",
+            "Name": "Charme de maîtrise : Détonation prolongée",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un personnage adverse subit des DGT de réaction élémentaire : </color>Cumule 1 pt d'extension. Lorsque vous en avez au moins 3 pts, consomme 3 pts d'extension pour infliger 4 pts de <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>DGT de perforation</color></color> à tous les personnages adverses.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5381,8 +5381,8 @@ var _card = [
         },
         {
             "_id": 423011,
-            "Name": "Mastery Talisman: Decisive Battle",
-            "Desc": "Your characters with 6 HP or less deal +2 DMG.",
+            "Name": "Charme de maîtrise : Bataille décisive",
+            "Desc": "DGT infligés par vos personnages ayant 6 PV ou moins +2.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5391,8 +5391,8 @@ var _card = [
         },
         {
             "_id": 423010,
-            "Name": "Mastery Talisman: Cold War",
-            "Desc": "The first Skill used or first Talent equipped by each of your characters per Round will cost 1 less Elemental Die.<br>Your Cryo-related Reactions deal +2 DMG.",
+            "Name": "Charme de maîtrise : Guerre froide",
+            "Desc": "La première capacité utilisée ou aptitude équipée par chacun de vos personnages à chaque manche coûte 1 dé élémentaire en moins.<br>DGT des réactions liées à l'élément Cryo que vous déclenchez +2.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5401,8 +5401,8 @@ var _card = [
         },
         {
             "_id": 423009,
-            "Name": "Mastery Talisman: Cycle Charge",
-            "Desc": "<color style='color:#FFFFFFFF'>When you perform \"Switch Character\":</color> Spend 1 less Elemental Die. (Twice per Round)<br>When you perform a <color style='color:#FFFFFFFF'>Plunging Attack:</color> Deal +2 DMG.",
+            "Name": "Charme de maîtrise : Stratégie de rotation",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous basculez de personnage : </color>Dépense 1 dé élémentaire en moins. (2 fois par manche)<br><color style='color:#FFFFFFFF'>Lorsque vous effectuez une attaque plongeante : </color>DGT infligés +2.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5411,8 +5411,8 @@ var _card = [
         },
         {
             "_id": 423008,
-            "Name": "Mastery Talisman: Immovable",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> If your active character is protected by a [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>, create 2 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> and draw 2 cards.<br><color style='color:#FFFFFFFF'>When you play any card:</color> Spend 2 less Elemental Dice. (Once per Round)",
+            "Name": "Charme de maîtrise : Immuabilité",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Si votre personnage actif est protégé par un [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color>, crée 2 dés <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color> et pioche 2 cartes.<br><color style='color:#FFFFFFFF'>En jouant n'importe quelle carte : </color>Dépense 2 dés élémentaires en moins. (1 fois par manche)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5424,8 +5424,8 @@ var _card = [
         },
         {
             "_id": 423007,
-            "Name": "Mastery Talisman: Press the Attack",
-            "Desc": "<color style='color:#FFFFFFFF'>After an opposing character is defeated:</color> Create 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> and draw 1 card.",
+            "Name": "Charme de maîtrise : Percée triomphale",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un personnage adverse a été éliminé : </color>Crée 1 dé <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color> et pioche 1 carte.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5436,8 +5436,8 @@ var _card = [
         },
         {
             "_id": 423006,
-            "Name": "Mastery Talisman: Surging Vigor",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Your active character gains 3 Energy.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+            "Name": "Charme de maîtrise : Vigueur déferlante",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Accorde 3 charges à votre personnage actif.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5448,8 +5448,8 @@ var _card = [
         },
         {
             "_id": 423005,
-            "Name": "Ley Line Monolith: Frontline Fulcrum",
-            "Desc": "Starts with 20 Endurance. When Endurance is depleted, discard this card.<br><color style='color:#FFFFFFFF'>When your characters take DMG:</color> Consumes this card's Endurance to block DMG.<br><color style='color:#FFFFFFFF'>When this card is discarded:</color> You lose this match.",
+            "Name": "Monolithe de première ligne",
+            "Desc": "Entre sur le terrain avec 20 pts d'endurance. Lorsque les points d'endurance sont épuisés, la carte est défaussée.<br><color style='color:#FFFFFFFF'>Lorsque votre personnage subit des DGT : </color>Bloque les DGT en consommant l'endurance de la carte.<br><color style='color:#FFFFFFFF'>Lorsque la carte est défaussée : </color>Vous perdez la partie.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5458,8 +5458,8 @@ var _card = [
         },
         {
             "_id": 423004,
-            "Name": "Elemental Orb: Enduring",
-            "Desc": "When Action Phase begins: All your characters gain 1 Energy.",
+            "Name": "Obre élémentaire : Endurance",
+            "Desc": "Au début de la phase d'action: Accorde 1 charge à tous vos personnages.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5468,8 +5468,8 @@ var _card = [
         },
         {
             "_id": 423003,
-            "Name": "Elemental Orb: Dissipated",
-            "Desc": "When Action Phase begins: All characters on both sides gain 1 Energy.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+            "Name": "Obre élémentaire : Dissipation",
+            "Desc": "Au début de la phase d'action: Accorde 1 charge à tous les personnages de chaque camp.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5480,8 +5480,8 @@ var _card = [
         },
         {
             "_id": 423002,
-            "Name": "Elemental Orb: Plentiful",
-            "Desc": "When Action Phase begins: All your characters gain 2 Energy.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+            "Name": "Obre élémentaire : Abondance",
+            "Desc": "Au début de la phase d'action: Accorde 2 charges à tous vos personnages.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5492,8 +5492,8 @@ var _card = [
         },
         {
             "_id": 423001,
-            "Name": "Elemental Orb",
-            "Desc": "When Action Phase begins: All your characters gain 1 Energy.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+            "Name": "Orbe élémentaire",
+            "Desc": "Au début de la phase d'action: Accorde 1 charge à tous vos personnages.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5504,8 +5504,8 @@ var _card = [
         },
         {
             "_id": 422046,
-            "Name": "Pneuma Node: Hold Fast - Basic",
-            "Desc": "<color style='color:#FFFFFFFF'>When one of your characters is defeated:</color> Ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color> and heal them to 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 4</color><br><color style='color:#FFFFFFFF'>After your characters receive [b]3504[a]Arkhe: Ousia aligned DMG:</color> This card's <color style='color:#FFFFFFFF'>Usage(s)</color> -1.",
+            "Name": "Nœud pneuma : Défense territoriale (Basique)",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un de vos personnages est éliminé : </color>Le personnage <color style='color:#FFFFFFFF'>Élimination évitée</color> tout en ayant ses PV ajustés à 2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 4</color><br><color style='color:#FFFFFFFF'>Lorsque votre personnage a subi des DGT chargés d'énergie d'[b]3504[a]Arkhe ousia : </color><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> de cette carte -1.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5517,8 +5517,8 @@ var _card = [
         },
         {
             "_id": 422045,
-            "Name": "Ley Line Disorder: Layered Defenses - Basic",
-            "Desc": "Your active character gains 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points.<br><color style='color:#FFFFFFFF'>When Action Phase begins: </color> Refresh the shield provided by this card.",
+            "Name": "Anomalie énergétique : Défense superposée (Basique)",
+            "Desc": "Accorde 2 pts de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> pour protéger votre personnage actif.<br><color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Restaure le bouclier accordé par cette carte.",
             "Tag": [
                 "GCG_TAG_SHEILD"
             ],
@@ -5531,8 +5531,8 @@ var _card = [
         },
         {
             "_id": 422044,
-            "Name": "Ley Line Disorder: Damage Concatenation - Basic",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> You gain 1 stack of Multiplied Damage. (DMG dealt by your characters +1; DMG further increased by 1 for each stack of Multiplied Damage; Multiplied Damage stacks up to 3 times)",
+            "Name": "Anomalie énergétique : Enchaînement de dommages (Basique)",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Vous obtenez 1 cumul de Multiplication des dommages. (Augmente les DGT infligés par votre personnage de 1 et chaque cumul de Multiplication des dommages augmente davantage les DGT de 1, la Multiplication des dommages pouvant être cumulée 3 fois maximum)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5543,8 +5543,8 @@ var _card = [
         },
         {
             "_id": 422043,
-            "Name": "Ley Line Disorder: Bitter Belligerence - Basic",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heal all your characters who have not been afflicted by the Frozen Status and have also used a Skill this Round for 2 HP. If your opponent has a character afflicted by the Frozen Status, then the opponent's active character will have <color style='color:#FFFFFFFF'>Gurgling Bubble</color> attached at the start of the next Round's Action Phase.",
+            "Name": "Anomalie énergétique : Bellicisme féroce (Basique)",
+            "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Soigne vos personnages qui ne sont pas gelés et ont utilisé une capacité pendant la manche pour 2 pts ; si un personnage adverse est gelé, une <color style='color:#FFFFFFFF'>Bulle gargouillante</color> sera appliquée au personnage actif adverse au début de la phase d'action de la prochaine manche.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5555,8 +5555,8 @@ var _card = [
         },
         {
             "_id": 422042,
-            "Name": "Pneuma Node: Hold Fast - Intermediate",
-            "Desc": "<color style='color:#FFFFFFFF'>When one of your characters is defeated:</color> Ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color> and heal them to 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 8</color><br><color style='color:#FFFFFFFF'>After your characters receive [b]3504[a]Arkhe: Ousia aligned DMG:</color> This card's <color style='color:#FFFFFFFF'>Usage(s)</color> -1.",
+            "Name": "Nœud pneuma : Défense territoriale (Intermédiaire)",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un de vos personnages est éliminé : </color>Le personnage <color style='color:#FFFFFFFF'>Élimination évitée</color> tout en ayant ses PV ajustés à 2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 8</color><br><color style='color:#FFFFFFFF'>Lorsque le personnage a subi des DGT chargés d'énergie d'[b]3504[a]Arkhe ousia : </color><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> de cette carte -1.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5568,8 +5568,8 @@ var _card = [
         },
         {
             "_id": 422041,
-            "Name": "Ley Line Disorder: Layered Defenses - Intermediate",
-            "Desc": "Your active character gains 4 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points.<br><color style='color:#FFFFFFFF'>When Action Phase begins: </color> Refresh the shield provided by this card.",
+            "Name": "Anomalie énergétique : Défense superposée (Intermédiaire)",
+            "Desc": "Accorde 4 pts de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> pour protéger votre personnage actif.<br><color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Restaure le bouclier accordé par cette carte.",
             "Tag": [
                 "GCG_TAG_SHEILD"
             ],
@@ -5582,8 +5582,8 @@ var _card = [
         },
         {
             "_id": 422040,
-            "Name": "Ley Line Disorder: Damage Concatenation - Intermediate",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> You gain 2 stacks of Multiplied Damage. (DMG dealt by your characters +1; DMG further increased by 1 for each stack of Multiplied Damage; Multiplied Damage stacks up to 3 times)",
+            "Name": "Anomalie énergétique : Enchaînement de dommages (Intermédiaire)",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Vous obtenez 2 cumuls de Multiplication des dommages. (Augmente les DGT infligés par votre personnage de 1 et chaque cumul de Multiplication des dommages augmente davantage les DGT de 1, la Multiplication des dommages pouvant être cumulée 3 fois maximum)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5594,8 +5594,8 @@ var _card = [
         },
         {
             "_id": 422039,
-            "Name": "Ley Line Disorder: Bitter Belligerence - Intermediate",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heal all your characters who have not been afflicted by the Frozen Status and have also used a Skill this Round for 4 HP. If your opponent has a character afflicted by the Frozen Status, then the opponent's active character will have <color style='color:#FFFFFFFF'>Gurgling Bubble</color> attached at the start of the next Round's Action Phase.",
+            "Name": "Anomalie énergétique : Bellicisme féroce (Intermédiaire)",
+            "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Soigne vos personnages qui ne sont pas gelés et ont utilisé une capacité pendant la manche pour 4 pts ; si un personnage adverse est gelé, une <color style='color:#FFFFFFFF'>Bulle gargouillante</color> sera appliquée au personnage actif adverse au début de la phase d'action de la prochaine manche.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5606,8 +5606,8 @@ var _card = [
         },
         {
             "_id": 422038,
-            "Name": "Ley Line Disorder: High Efficiency Supply - Pneuma",
-            "Desc": "<color style='color:#FFFFFFFF'>When you Switch Characters:</color> This action is considered a <color style='color:#FFFFFFFF'>Fast Action</color> and not a <color style='color:#FFFFFFFF'>Combat Action</color>.<br><color style='color:#FFFFFFFF'>End Phase:</color> The Pneuma Energy of the character to which this is attached is replenished, and that character changes to be in the \"Pneuma State.\"",
+            "Name": "Anomalie énergétique : Approvisionnement efficient (Pneuma)",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous basculez de personnage : </color>Considère ce changement comme une <color style='color:#FFFFFFFF'>Action rapide</color>, et non pas comme une <color style='color:#FFFFFFFF'>Action de combat</color>.<br><color style='color:#FFFFFFFF'>Phase finale : </color>L'énergie pneuma du personnage affecté est reconstituée et le personnage passe en état pneuma.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5619,8 +5619,8 @@ var _card = [
         },
         {
             "_id": 422037,
-            "Name": "Pneuma Node: Hold Fast - Advanced",
-            "Desc": "<color style='color:#FFFFFFFF'>When one of your characters is defeated:</color> Ensure the character <color style='color:#FFFFFFFF'>Immunity to Defeat</color> and heal them to 2 HP.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 12</color><br><color style='color:#FFFFFFFF'>After your characters receive [b]3504[a]Arkhe: Ousia aligned DMG:</color> This card's <color style='color:#FFFFFFFF'>Usage(s)</color> -1.",
+            "Name": "Nœud pneuma : Défense territoriale (Avancée)",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un de vos personnages est éliminé : </color>Le personnage <color style='color:#FFFFFFFF'>Élimination évitée</color> tout en ayant ses PV ajustés à 2.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 12</color><br><color style='color:#FFFFFFFF'>Lorsque le personnage a subi des DGT chargés d'énergie d'[b]3504[a]Arkhe ousia : </color><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> de cette carte -1.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5632,8 +5632,8 @@ var _card = [
         },
         {
             "_id": 422036,
-            "Name": "Ley Line Disorder: Layered Defenses - Advanced",
-            "Desc": "Your active character gains 6 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points.<br><color style='color:#FFFFFFFF'>When Action Phase begins: </color> Refresh the shield provided by this card.",
+            "Name": "Anomalie énergétique : Défense superposée (Avancée)",
+            "Desc": "Accorde 6 pts de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> pour protéger votre personnage actif.<br><color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Restaure le bouclier accordé par cette carte.",
             "Tag": [
                 "GCG_TAG_SHEILD"
             ],
@@ -5646,8 +5646,8 @@ var _card = [
         },
         {
             "_id": 422035,
-            "Name": "Ley Line Disorder: Damage Concatenation - Advanced",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> You gain 3 stacks of Multiplied Damage. (DMG dealt by your characters +1; DMG further increased by 1 for each stack of Multiplied Damage; Multiplied Damage stacks up to 3 times)",
+            "Name": "Anomalie énergétique : Enchaînement de dommages (Avancé)",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Vous obtenez 3 cumuls de Multiplication des dommages. (Augmente les DGT infligés par votre personnage de 1 et chaque cumul de Multiplication des dommages augmente davantage les DGT de 1, la Multiplication des dommages pouvant être cumulée 3 fois maximum)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5658,8 +5658,8 @@ var _card = [
         },
         {
             "_id": 422034,
-            "Name": "Ley Line Disorder: Bitter Belligerence - Advanced",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> Heal all your characters who have not been afflicted by the Frozen Status and have also used a Skill this Round for 6 HP. If your opponent has a character afflicted by the Frozen Status, then the opponent's active character will have <color style='color:#FFFFFFFF'>Gurgling Bubble</color> attached at the start of the next Round's Action Phase.",
+            "Name": "Anomalie énergétique : Bellicisme féroce (Avancé)",
+            "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Soigne vos personnages qui ne sont pas gelés et ont utilisé une capacité pendant la manche pour 6 pts ; si un personnage adverse est gelé, une <color style='color:#FFFFFFFF'>Bulle gargouillante</color> sera appliquée au personnage actif adverse au début de la phase d'action de la prochaine manche.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5670,8 +5670,8 @@ var _card = [
         },
         {
             "_id": 422033,
-            "Name": "Ley Line Disorder: Energetic Arena",
-            "Desc": "When Action Phase begins: All your characters gain 1 Energy.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 1</color>",
+            "Name": "Anomalie énergétique : Zone de profusion",
+            "Desc": "Au début de la phase d'action: Accorde 1 charge à tous vos personnages.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5682,8 +5682,8 @@ var _card = [
         },
         {
             "_id": 422032,
-            "Name": "Ley Line Disorder: Skyward Patrol",
-            "Desc": "<color style='color:#FFFFFFFF'>When the battle begins:</color> Dvalin will begin with <color style='color:#FFFFFFFF'>Skyward Patrol</color> attached.<br><color style='color:#FFFFFFFF'>When the Skyward Patrol effect attached to Dvalin ends:</color> Attach <color style='color:#FFFFFFFF'>Exhausted Plunge</color>.<br><color style='color:#FFFFFFFF'>When the Exhausted Plunge effect attached to Dvalin ends:</color> Re-attach <color style='color:#FFFFFFFF'>Skyward Patrol</color>.",
+            "Name": "Anomalie énergétique : Patrouille céleste",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début du combat : </color>Applique une <color style='color:#FFFFFFFF'>Patrouille céleste</color> à Dvalin.<br><color style='color:#FFFFFFFF'>Lorsque l'effet de la Patrouille céleste appliquée à Dvalin prend fin : </color>Applique une <color style='color:#FFFFFFFF'>Chute épuisante</color>.<br><color style='color:#FFFFFFFF'>Lorsque l'effet de la Chute épuisante appliquée à Dvalin prend fin : </color>Applique à nouveau une <color style='color:#FFFFFFFF'>Patrouille céleste</color>.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5695,8 +5695,8 @@ var _card = [
         },
         {
             "_id": 422031,
-            "Name": "Ousia Nodes: Power of Enhancement",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Create 1 <color style='color:#FFFFFFFF'>Amplified Enhancement: Ousia</color> on your side.",
+            "Name": "Nœud ousia : Puissance d'augmentation",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Vous créez une <color style='color:#FFFFFFFF'>Augmentation renforcée : Ousia</color>.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5707,8 +5707,8 @@ var _card = [
         },
         {
             "_id": 422030,
-            "Name": "Mastery Talisman: Arcane Secret to Elemental Victory",
-            "Desc": "<color style='color:#FFFFFFFF'>After your characters take 4 different types of Elemental Damage:</color> The opposing player immediately wins the match.",
+            "Name": "Charme de maîtrise : Arcane de victoire élémentaire",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vos personnages ont subi des DGT de 4 éléments différents : </color>L'adversaire gagne la partie.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5717,8 +5717,8 @@ var _card = [
         },
         {
             "_id": 422029,
-            "Name": "Ley Line Disorder: Pneumousia Suffusion",
-            "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase Begins:</color> The Pneuma or Ousia Energy of your characters is replenished, and they are changed to be in the corresponding state.",
+            "Name": "Anomalie énergétique : Profusion de pneumousia",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Les énergies pneuma et ousia de vos personnages sont reconstituées et ils changent en la forme correspondante.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5727,8 +5727,8 @@ var _card = [
         },
         {
             "_id": 422028,
-            "Name": "Ley Line Disorder: United Posture - Gentle War",
-            "Desc": "For each Summon on your side of the field, the Normal Attacks of your characters deal +1 DMG.",
+            "Name": "Anomalie énergétique : Posture homogène - Finesse",
+            "Desc": "Pour chaque invocation sur votre terrain : DGT infligés par les attaques normales de votre personnage +1.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5737,8 +5737,8 @@ var _card = [
         },
         {
             "_id": 422027,
-            "Name": "Ley Line Disorder: Attrition Posture - Encouragement",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Accumulate 3 Attrition Energy.<color style='color:#FFFFFFFF'>After the opponent's characters use a skill:</color> Remove 1 Attrition Energy.<br><color style='color:#FFFFFFFF'>End Phase:</color> If the amount of Attrition Energy remaining is not 0, then all your characters are healed for 1 HP, and all remaining Attrition Energy is consumed. For each point of Attrition Energy consumed, the amount of healing is increased by 1.",
+            "Name": "Anomalie énergétique : Posture tenace - Encouragement",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Accorde 3 pts de ténacité.<br><color style='color:#FFFFFFFF'>Lorsqu'un personnage adverse a utilisé une capacité : </color>Consomme 1 pt de ténacité.<br><color style='color:#FFFFFFFF'>Phase finale : </color>S'il reste des points de ténacité, tous vos personnages sont soignés pour 1 pt et la ténacité restante est consommée. Pour chaque point de ténacité consommé, ce soin augmente de 1 pt.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5747,8 +5747,8 @@ var _card = [
         },
         {
             "_id": 422026,
-            "Name": "Ley Line Disorder: Vicious Posture - Blunt Force",
-            "Desc": "Your active character <color style='color:#FFFFFFFF'>deals +1 DMG</color>.",
+            "Name": "Anomalie énergétique : Posture pugnace - Brutalité",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par votre personnage actif +1</color>.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5757,8 +5757,8 @@ var _card = [
         },
         {
             "_id": 422025,
-            "Name": "Ley Line Disorder: Defensive Posture - Light Armor",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Your active character gains 3 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points.",
+            "Name": "Anomalie énergétique : Posture défensive - Légèreté",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Accorde 3 pts de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> pour protéger votre personnage actif.",
             "Tag": [
                 "GCG_TAG_SHEILD"
             ],
@@ -5771,8 +5771,8 @@ var _card = [
         },
         {
             "_id": 422024,
-            "Name": "Ley Line Disorder: United Posture - Advance",
-            "Desc": "The Normal Attacks of your characters deal +1 DMG for each Summon on your side of the field.<br><color style='color:#FFFFFFFF'>End Phase:</color> If you have at least 2 Summons of your side of the field, your active character(s) gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.",
+            "Name": "Anomalie énergétique : Posture homogène - Avancée",
+            "Desc": "Pour chaque invocation sur votre terrain : DGT infligés par les attaques normales de votre personnage +1.<br><color style='color:#FFFFFFFF'>Phase finale : </color>S'il y a au moins 2 invocations sur votre terrain, votre personnage actif obtient 1 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color>.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5783,8 +5783,8 @@ var _card = [
         },
         {
             "_id": 422023,
-            "Name": "Ley Line Disorder: Attrition Posture - Inspiration",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Accumulate 3 Attrition Energy.<br><color style='color:#FFFFFFFF'>After the opponent's characters use a skill:</color> Remove 1 Attrition Energy.<br><color style='color:#FFFFFFFF'>End Phase:</color> If the amount of Attrition Energy remaining is not 0, then all your characters are healed for 2 HP, and all remaining Attrition Energy is consumed. For each point of Attrition Energy consumed, the amount of healing is increased by 1.",
+            "Name": "Anomalie énergétique : Posture tenace - Inspiration",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Accorde 3 pts de ténacité.<br><color style='color:#FFFFFFFF'>Lorsqu'un personnage adverse a utilisé une capacité : </color>Consomme 1 pt de ténacité.<br><color style='color:#FFFFFFFF'>Phase finale : </color>S'il reste des points de ténacité, tous vos personnages sont soignés pour 2 pts et la ténacité restante est consommée. Pour chaque point de ténacité consommé, ce soin augmente de 1 pt.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5793,8 +5793,8 @@ var _card = [
         },
         {
             "_id": 422022,
-            "Name": "Ley Line Disorder: Vicious Posture - Ferocity",
-            "Desc": "Your active character <color style='color:#FFFFFFFF'>deals +2 DMG</color>.",
+            "Name": "Anomalie énergétique : Posture pugnace - Férocité",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par votre personnage actif +2</color>.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5803,8 +5803,8 @@ var _card = [
         },
         {
             "_id": 422021,
-            "Name": "Ley Line Disorder: Defensive Posture - Impregnable",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Your active character gains 6 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points.",
+            "Name": "Anomalie énergétique : Posture défensive - Imprenabilité",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Accorde 6 pts de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> pour protéger votre personnage actif.",
             "Tag": [
                 "GCG_TAG_SHEILD"
             ],
@@ -5817,8 +5817,8 @@ var _card = [
         },
         {
             "_id": 422020,
-            "Name": "Ley Line Disorder: Strong Feedback",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character triggers an Elemental Reaction:</color> Heal all of your characters for 3 HP.",
+            "Name": "Anomalie énergétique : Rétroaction puissante",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous avez déclenché une réaction élémentaire :</color> Soigne tous vos personnages pour 3 pts.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5827,13 +5827,14 @@ var _card = [
         },
         {
             "_id": 422019,
-            "Name": "Ley Line Disorder: Blazing Will",
-            "Desc": "When the battle starts, all of your characters will have <color style='color:#FFFFFFFF'>Blazing Will</color> attached. When characters would be defeated, they <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 1 HP. 3 Usages.",
+            "Name": "Anomalie énergétique : Volonté ardente",
+            "Desc": "Accorde une <color style='color:#FFFFFFFF'>Volonté ardente</color> à tous vos personnages au début du combat : Lorsqu'un personnage affecté est éliminé, il <color style='color:#FFFFFFFF'>Élimination évitée</color> tout en ayant ses PV ajustés à 1. Peut être utilisé 3 fois.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
             "C": [
-                402005
+                402005,
+                402003
             ],
             "K": [
                 54
@@ -5841,13 +5842,14 @@ var _card = [
         },
         {
             "_id": 422018,
-            "Name": "Ley Line Disorder: Belligerence Unfettered",
-            "Desc": "When the battle starts, all of your characters will have <color style='color:#FFFFFFFF'>Belligerence Unfettered</color> attached. When characters would be defeated, they <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 1 HP. 2 Usages.",
+            "Name": "Anomalie énergétique : Ferveur redoublée",
+            "Desc": "Accorde une <color style='color:#FFFFFFFF'>Ferveur redoublée</color> à tous vos personnages au début du combat : Lorsqu'un personnage affecté est éliminé, il <color style='color:#FFFFFFFF'>Élimination évitée</color> tout en ayant ses PV ajustés à 1. Peut être utilisé 2 fois.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
             "C": [
-                402004
+                402004,
+                402003
             ],
             "K": [
                 54
@@ -5855,8 +5857,8 @@ var _card = [
         },
         {
             "_id": 422017,
-            "Name": "Ley Line Disorder: Ignited Morale",
-            "Desc": "When the battle starts, all of your characters will have <color style='color:#FFFFFFFF'>Ignited Morale</color> attached. When characters would be defeated, they <color style='color:#FFFFFFFF'>Immunity to Defeat</color>, and heal them to 1 HP. 1 Usage.",
+            "Name": "Anomalie énergétique : Moral enflammé",
+            "Desc": "Accorde un <color style='color:#FFFFFFFF'>Moral enflammé</color> à tous vos personnages au début du combat : Lorsqu'un personnage affecté est éliminé, il <color style='color:#FFFFFFFF'>Élimination évitée</color> tout en ayant ses PV ajustés à 1. Peut être utilisé 1 fois.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5869,8 +5871,8 @@ var _card = [
         },
         {
             "_id": 422016,
-            "Name": "Ley Line Disorder: Lightweight Defense",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Grant <color style='color:#FFFFFFFF'>6 points of [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color></color> to defend your active character, though this [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> cannot block Elemental Burst DMG.<br><color style='color:#FFFFFFFF'>After the opposing character uses an Elemental Burst:</color> Remove this [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>.",
+            "Name": "Anomalie énergétique : Protection légère",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Accorde <color style='color:#FFFFFFFF'>6 pts de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color></color> pour protéger votre personnage actif, mais ce [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> ne peut pas bloquer les DGT des déchaînements élémentaires.<br><color style='color:#FFFFFFFF'>Lorsque le personnage adverse a utilisé un déchaînement élémentaire : </color>Annule ce [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color>.",
             "Tag": [
                 "GCG_TAG_SHEILD"
             ],
@@ -5883,8 +5885,8 @@ var _card = [
         },
         {
             "_id": 422015,
-            "Name": "Ley Line Disorder: Slim Shielding",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Grant <color style='color:#FFFFFFFF'>3 points of [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color></color> to defend your active character, though this [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> cannot block Elemental Burst DMG.<br><color style='color:#FFFFFFFF'>After the opposing character uses an Elemental Burst:</color> Remove this [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>.",
+            "Name": "Anomalie énergétique : Mince barrière",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Accorde <color style='color:#FFFFFFFF'>3 pts de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color></color> pour protéger votre personnage actif, mais ce [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> ne peut pas bloquer les DGT des déchaînements élémentaires.<br><color style='color:#FFFFFFFF'>Lorsque le personnage adverse a utilisé un déchaînement élémentaire : </color>Annule ce [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color>.",
             "Tag": [
                 "GCG_TAG_SHEILD"
             ],
@@ -5897,8 +5899,8 @@ var _card = [
         },
         {
             "_id": 422014,
-            "Name": "Ley Line Disorder: Mechanics of Penetration",
-            "Desc": "You will deal <color style='color:#FFFFFFFF'>+2 DMG</color> to opposing characters not defended by [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>(s).",
+            "Name": "Anomalie énergétique : Mécanisme de pénétration",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +2</color> contre les personnages adverses sans [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color>.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5909,8 +5911,8 @@ var _card = [
         },
         {
             "_id": 422013,
-            "Name": "Ley Line Disorder: Honed Factor",
-            "Desc": "You will deal <color style='color:#FFFFFFFF'>+1 DMG</color> to opposing characters not defended by [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>(s).",
+            "Name": "Anomalie énergétique : Facteur critique",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color> contre les personnages adverses sans [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color>.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5921,8 +5923,8 @@ var _card = [
         },
         {
             "_id": 422012,
-            "Name": "Mastery Talisman: The Elements Entwined",
-            "Desc": "<br><color style='color:#FFFFFFFF'>After either side's characters take Elemental Reaction DMG:</color> Obtain 1 Entwinement.<br><color style='color:#FFFFFFFF'>When Entwinement reaches 6:</color> You win the match.",
+            "Name": "Charme de maîtrise : Concaténation d'éléments",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un personnage de n'importe quel camp a subi des DGT de réaction élémentaire : </color>Cumule 1 pt de concaténation.<br><color style='color:#FFFFFFFF'>Si cette carte cumule 6 pts de concaténation : </color>Vous gagnez la partie.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5931,8 +5933,8 @@ var _card = [
         },
         {
             "_id": 422011,
-            "Name": "Ley Line Disorder: Shamanic Curse",
-            "Desc": "Your <color style='color:#FFFFFFFF'>Geo Samachurl</color> starts with <color style='color:#FFFFFFFF'>Mutation Stone: Shaman's Treasure</color>.",
+            "Name": "Anomalie énergétique : Malédiction shamanique",
+            "Desc": "Vos <color style='color:#FFFFFFFF'>Brutoshamans Géo</color> arrivent sur le terrain avec une <color style='color:#FFFFFFFF'>Pierre de mutation : Trésor de shaman</color>.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5943,8 +5945,8 @@ var _card = [
         },
         {
             "_id": 422010,
-            "Name": "Ley Line Disorder: Fight or Flight",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character triggers an Elemental Reaction:</color> Heal all of your characters for 2 HP.",
+            "Name": "Anomalie énergétique : Réponse au stress",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous avez déclenché une réaction élémentaire :</color> Soigne tous vos personnages pour 2 pts.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5953,8 +5955,8 @@ var _card = [
         },
         {
             "_id": 422009,
-            "Name": "Withering Corrosion",
-            "Desc": "Start with 4 Candle of Life points.<br><color style='color:#FFFFFFFF'>When your character uses a Skill:</color> Remove 1 Candle of Life point.<br><color style='color:#FFFFFFFF'>Once all Candle of Life points are depleted, the opposing duelist loses the match.</color>",
+            "Name": "Corrosion de siccité",
+            "Desc": "Entre sur le terrain avec 4 pts de bougie de vie.<br><color style='color:#FFFFFFFF'>Lorsque votre personnage a utilisé une capacité :</color> Consomme 1 pt de bougie de vie.<br><color style='color:#FFFFFFFF'>Lorsque les points de bougie de vie sont épuisés, le joueur adverse perd la partie.</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5963,8 +5965,8 @@ var _card = [
         },
         {
             "_id": 422008,
-            "Name": "Withering Corrosion",
-            "Desc": "Start with 5 Candle of Life points.<br><color style='color:#FFFFFFFF'>When your character uses a Skill:</color> Remove 1 Candle of Life point.<br><color style='color:#FFFFFFFF'>Once all Candle of Life points are depleted, the opposing duelist loses the match.</color>",
+            "Name": "Corrosion de siccité",
+            "Desc": "Entre sur le terrain avec 5 pts de bougie de vie.<br><color style='color:#FFFFFFFF'>Lorsque votre personnage a utilisé une capacité :</color> Consomme 1 pt de bougie de vie.<br><color style='color:#FFFFFFFF'>Lorsque les points de bougie de vie sont épuisés, le joueur adverse perd la partie.</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5973,8 +5975,8 @@ var _card = [
         },
         {
             "_id": 422007,
-            "Name": "Withering Corrosion",
-            "Desc": "Start with 4 Candle of Life points.<br><color style='color:#FFFFFFFF'>When your character uses a Skill:</color> Remove 1 Candle of Life point.<br><color style='color:#FFFFFFFF'>Once all Candle of Life points are depleted, the opposing duelist loses the match.</color>",
+            "Name": "Corrosion de siccité",
+            "Desc": "Entre sur le terrain avec 4 pts de bougie de vie.<br><color style='color:#FFFFFFFF'>Lorsque votre personnage a utilisé une capacité :</color> Consomme 1 pt de bougie de vie.<br><color style='color:#FFFFFFFF'>Lorsque les points de bougie de vie sont épuisés, le joueur adverse perd la partie.</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5983,8 +5985,8 @@ var _card = [
         },
         {
             "_id": 422006,
-            "Name": "Ley Line Disorder: Aegis of the Abyss",
-            "Desc": "<color style='color:#FFFFFFFF'>After your Abyss Mage uses a Skill when their Elemental Shield has been broken:</color> Restore the Elemental Shield.",
+            "Name": "Anomalie énergétique : Égide de l'Abîme",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre Mage de l'Abîme a utilisé une capacité alors que son bouclier élémentaire est détruit : </color>Restaure le bouclier élémentaire.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -5993,8 +5995,8 @@ var _card = [
         },
         {
             "_id": 422005,
-            "Name": "Ley Line Disorder: Dire Echoes",
-            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> For each one of your characters downed during this Round, all of your remaining character(s) will gain 2 Shield points (Can stack, max 4 points) and permanently deal +1 DMG (Can stack, max +2 DMG).",
+            "Name": "Anomalie énergétique : Échos sinistres",
+            "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Pour chacun de vos personnages éliminés lors de la manche, tous vos personnages restants gagnent 2 pts de bouclier (Peut être cumulé jusqu'à 4 pts) et leurs DGT augmentent de 1 de manière permanente (Peut être cumulé jusqu'à +2).",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6003,8 +6005,8 @@ var _card = [
         },
         {
             "_id": 422004,
-            "Name": "Ley Line Disorder: Fight or Flight",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character triggers an Elemental Reaction:</color> Heal all of your characters for 2 HP.",
+            "Name": "Anomalie énergétique : Réponse au stress",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous avez déclenché une réaction élémentaire :</color> Soigne tous vos personnages pour 2 pts.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6013,8 +6015,8 @@ var _card = [
         },
         {
             "_id": 422003,
-            "Name": "Giant Mutation Stone",
-            "Desc": "Your active character <color style='color:#FFFFFFFF'>deals +2 DMG</color>.<br>Starts with 3 Endurance when played. (Discard this card when Endurance is depleted)<br><color style='color:#FFFFFFFF'>After your character goes down</color>: This card loses 1 Endurance.",
+            "Name": "Pierre de mutation géante",
+            "Desc": "Pour votre personnage actif : <color style='color:#FFFFFFFF'>DGT infligés +2</color>.<br>Entre sur le terrain avec 3 pts d'endurance. (Une fois l'endurance épuisée, la carte est défaussée)<br><color style='color:#FFFFFFFF'>Une fois un de vos personnages éliminé : </color>La carte perd 1 pt d'endurance.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6023,8 +6025,8 @@ var _card = [
         },
         {
             "_id": 422002,
-            "Name": "Mutation Stone",
-            "Desc": "Your active character <color style='color:#FFFFFFFF'>deals +2 DMG</color>.<br>Starts with 2 Endurance when played. (Discard this card when Endurance is depleted)<br><color style='color:#FFFFFFFF'>After your character goes down</color>: This card loses 1 Endurance.",
+            "Name": "Pierre de mutation",
+            "Desc": "Pour votre personnage actif : <color style='color:#FFFFFFFF'>DGT infligés +2</color>.<br>Entre sur le terrain avec 2 pts d'endurance. (Une fois l'endurance épuisée, la carte est défaussée)<br><color style='color:#FFFFFFFF'>Une fois un de vos personnages éliminé : </color>La carte perd 1 pt d'endurance.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6033,8 +6035,8 @@ var _card = [
         },
         {
             "_id": 422001,
-            "Name": "Hilichurl Arrow Tower",
-            "Desc": "Your active Hilichurl Shooter, Cryo Hilichurl Shooter, and Electro Hilichurl Shooter take -2 DMG. (Once per Round)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>: 2</color>",
+            "Name": "Tour de guet des Brutocollinus",
+            "Desc": "DGT subis par vos Arbalétrier Brutocollinus, Arbalétrier Brutocollinus Cryo et Arbalétrier Brutocollinus Électro actifs -2. (1 fois par manche)<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 2</color>",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6045,8 +6047,8 @@ var _card = [
         },
         {
             "_id": 421013,
-            "Name": "Ley Line Disorder: Manifold Anguish",
-            "Desc": "Elemental DMG received by your characters +1.<br><color style='color:#FFFFFFFF'>After your character receives Elemental DMG:</color> If your opponent's Support Zone isn't full, transfer this card to their Support Zone.",
+            "Name": "Anomalie énergétique : Douleur multiple",
+            "Desc": "DGT élémentaires subis par votre personnage +1.<br><color style='color:#FFFFFFFF'>Lorsque votre personnage a subi des DGT élémentaires : </color>Transfère cette carte dans la zone de soutien de l'adversaire si cette dernière n'est pas pleine.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6055,8 +6057,8 @@ var _card = [
         },
         {
             "_id": 421012,
-            "Name": "Ley Line Disorder: Forerunner's Punishment",
-            "Desc": "<color style='color:#FFFFFFFF'>When a player declares the end of their Round:</color> All of that player's characters receive 1 <color style='color:#FFFFFFFF'>Piercing DMG</color>.",
+            "Name": "Anomalie énergétique : Châtiment du précurseur",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un joueur annonce la fin de sa manche en premier : </color>Tous les personnages de ce joueur subissent 1 pt de <color style='color:#FFFFFFFF'>DGT de perforation</color>.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6067,8 +6069,8 @@ var _card = [
         },
         {
             "_id": 421011,
-            "Name": "Game of Wits: Hot Pod Mechanism",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins: </color>Create Hot Potato on the side of the player who goes first.<br><color style='color:#FFFFFFFF'>End Phase: </color>If the effect of Hot Potato is calculated on the opposing side, player on the opposing side will lose the match.",
+            "Name": "Jeux d'esprit : Mécanisme dynamité",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Le joueur qui joue en premier génère une Bombe brûlante.<br><color style='color:#FFFFFFFF'>Phase finale : </color>Si la Bombe brûlante est dans le camp adverse lors du calcul, le joueur du camp adverse perd la partie.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6079,8 +6081,8 @@ var _card = [
         },
         {
             "_id": 421010,
-            "Name": "Ley Line Disorder: Soaring Winds",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Skill:</color> Switch to the next character. (Twice per Round)",
+            "Name": "Anomalie énergétique : Vent montant",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage a utilisé une capacité : </color>Bascule pour le personnage suivant. (2 fois par manche)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6089,8 +6091,8 @@ var _card = [
         },
         {
             "_id": 421009,
-            "Name": "Ley Line Disorder: Thunderstorm",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Both sides' active characters gain <color style='color:#FFACFFFF'>[b]2104[a]Electro Application</color>.",
+            "Name": "Anomalie énergétique : Orage",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action: </color><color style='color:#FFACFFFF'>Application [b]2104[a]Électro</color> aux personnages actifs de chaque camp.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6101,8 +6103,8 @@ var _card = [
         },
         {
             "_id": 421008,
-            "Name": "Ley Line Disorder: High Temperature",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Both sides' active characters gain <color style='color:#FF9999FF'>[b]2103[a]Pyro Application</color>.",
+            "Name": "Anomalie énergétique : Cagnard",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action: </color><color style='color:#FF9999FF'>Application [b]2103[a]Pyro</color> aux personnages actifs de chaque camp.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6113,8 +6115,8 @@ var _card = [
         },
         {
             "_id": 421007,
-            "Name": "Ley Line Disorder: Overgrowth",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Both sides' active characters gain <color style='color:#7EC236FF'>[b]2107[a]Dendro Application</color>.",
+            "Name": "Anomalie énergétique : Prolifération",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action: </color><color style='color:#7EC236FF'>Application [b]2107[a]Dendro</color> aux personnages actifs de chaque camp.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6125,8 +6127,8 @@ var _card = [
         },
         {
             "_id": 421006,
-            "Name": "Ley Line Disorder: Freezing Ice",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Both sides' active characters gain <color style='color:#99FFFFFF'>[b]2101[a]Cryo Application</color>.",
+            "Name": "Anomalie énergétique : Congélation",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action: </color><color style='color:#99FFFFFF'>Application [b]2101[a]Cryo</color> aux personnages actifs de chaque camp.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6137,8 +6139,8 @@ var _card = [
         },
         {
             "_id": 421005,
-            "Name": "Ley Line Disorder: Swift Wind",
-            "Desc": "<color style='color:#FFFFFFFF'>After your character uses a Skill:</color> Switch to the next character. (Once per Round)",
+            "Name": "Anomalie énergétique : Vent rapide",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage a utilisé une capacité : </color>Bascule pour le personnage suivant. (1 fois par manche)",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6147,8 +6149,8 @@ var _card = [
         },
         {
             "_id": 421004,
-            "Name": "Ley Line Disorder: Engulfing Storm",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Both sides' active characters gain <color style='color:#FFACFFFF'>[b]2104[a]Electro Application</color>. Characters <color style='color:#FFACFFFF'>already affected by [b]2104[a]Electro</color> will lose 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color> instead.",
+            "Name": "Anomalie énergétique : Tempête dévastatrice",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action: </color><color style='color:#FFACFFFF'>Application [b]2104[a]Électro</color> aux personnages actifs de chaque camp, ou fait perdre 1 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color> aux personnages déjà affectés par une <color style='color:#FFACFFFF'>application [b]2104[a]Électro</color>.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6160,8 +6162,8 @@ var _card = [
         },
         {
             "_id": 421003,
-            "Name": "Ley Line Disorder: Wet",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Your active character gains <color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color>.",
+            "Name": "Anomalie énergétique : Averse",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action: </color><color style='color:#80C0FFFF'>Application [b]2102[a]Hydro</color> à votre personnage actif.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6172,8 +6174,8 @@ var _card = [
         },
         {
             "_id": 421002,
-            "Name": "Ley Line Disorder: Smoldering Flames",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Both sides' active characters gain <color style='color:#FF9999FF'>[b]2103[a]Pyro Application</color>. Characters <color style='color:#FF9999FF'>already affected by [b]2103[a]Pyro</color> will take 2 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color> instead.",
+            "Name": "Anomalie énergétique : Flammes dévoreuses",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action: </color><color style='color:#FF9999FF'>Application [b]2103[a]Pyro</color> aux personnages actifs de chaque camp, ou inflige 2 pts de [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color> aux personnages déjà affectés par une <color style='color:#FF9999FF'>application [b]2103[a]Pyro</color>.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6185,8 +6187,8 @@ var _card = [
         },
         {
             "_id": 421001,
-            "Name": "Ley Line Disorder: Driving Rain",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> Both sides' active characters gain <color style='color:#80C0FFFF'>[b]2102[a]Hydro Application</color>.",
+            "Name": "Anomalie énergétique : Précipitation",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action: </color><color style='color:#80C0FFFF'>Application [b]2102[a]Hydro</color> aux personnages actifs de chaque camp.",
             "Tag": [],
             "Icon": "",
             "Cost": {},
@@ -6199,8 +6201,8 @@ var _card = [
     [
         {
             "_id": 214031,
-            "Name": "Thundering Penance",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Keqing</color>, equip this card.<br>After Keqing equips this card, immediately use <color style='color:#FFD780FF'>Stellar Restoration</color> once.<br>When your Keqing, who has this card equipped, creates an <color style='color:#FFFFFFFF'>Electro Elemental Infusion</color>, it will have the following effects:<br>Starting <color style='color:#FFFFFFFF'>Duration (Rounds)</color> +1, [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color> dealt by the attached character +1.<br>(You must have Keqing in your deck to add this card to your deck.)",
+            "Name": "Pénitence retentissante",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Keqing</color>, équipe cette carte.<br>Une fois Keqing équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Retour des étoiles</color> une fois.<br>L'<color style='color:#FFFFFFFF'>Enchantement Électro</color> créé par Keqing équipée de cette carte déclenche les effets suivants:<br><color style='color:#FFFFFFFF'>Durée en manches</color> de départ de l'Enchantement Électro +1 et [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color> infligés par les personnages affectés +1.<br>(Votre deck doit contenir Keqing pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -6220,8 +6222,8 @@ var _card = [
         },
         {
             "_id": 312025,
-            "Name": "Golden Troupe's Reward",
-            "Desc": "<color style='color:#FFFFFFFF'>When Played:</color> This card will have 1 \"Recompense\" point.<br><color style='color:#FFFFFFFF'>End Phase:</color> If the character to which this is attached is on standby, this card gains 1 \"Recompense\" point. (Max 2 points)<br><color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses an Elemental Skill:</color> For each \"Recompense\" point this card has, consume it to spend 1 less Elemental Die.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Récompense de la Troupe dorée",
+            "Desc": "<color style='color:#FFFFFFFF'>Phase finale : </color>Accorde 1 pt de rémunération à cette carte si le personnage affecté est en attente. (Peut être cumulé jusqu'à 2 pts)<br><color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3006[a]aptitude sur le personnage ou que le personnage utilise une compétence élémentaire : </color>Consomme la rémunération et dépense 1 dé élémentaire en moins pour chaque point consommé.<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6232,8 +6234,8 @@ var _card = [
         },
         {
             "_id": 311108,
-            "Name": "Tome of the Eternal Flow",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After this character takes DMG or is healed:</color> If this character has already been damaged or healed 2 times this Round, then this character's next attack this Round deals +2 additional DMG. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3201[a]Catalyst Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Tome du flux éternel",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1.</color><br><color style='color:#FFFFFFFF'>Lorsque le personnage a subi des DGT ou reçu des soins : </color>S'il a subi des DGT ou reçu des soins 2 fois pendant cette manche, les prochains DGT infligés par le personnage pendant la manche augmentent de 2. (1 fois par manche)<br>(Peut uniquement être équipé par un personnage utilisant un <color style='color:#FFFFFFFF'>[b]3201[a]catalyseur</color>, un personnage pouvant équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -6247,8 +6249,8 @@ var _card = [
         },
         {
             "_id": 224041,
-            "Name": "Electro Cicin's Gleam",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Fatui Electro Cicin Mage</color>, equip this card.<br>After Fatui Electro Cicin Mage equips this card, immediately use <color style='color:#FFD780FF'>Misty Call</color> once.<br>If your Fatui Electro Cicin Mage who has this card equipped is on the field, before you choose an action: If <color style='color:#FFFFFFFF'>Electro Cicin</color>'s <color style='color:#FFFFFFFF'>Usage(s)</color> is at least 3, then <color style='color:#FFFFFFFF'>Electro Cicin</color> will immediately deal 1 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>. (<color style='color:#FFFFFFFF'>Usage(s)</color> will be consumed, once per Round)<br>(You must have Fatui Electro Cicin Mage in your deck to add this card to your deck.)",
+            "Name": "Clignement d'Électroluciole",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est le <color style='color:#FFFFFFFF'>Mage électroluciole des Fatui</color>, équipe cette carte.<br>Une fois le Mage électroluciole des Fatui équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Appel de la brume</color> une fois.<br>Lorsque le Mage électroluciole des Fatui, équipé de cette carte, est sur le terrain et avant que vous ne choisissiez une action : Si le <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> de l'<color style='color:#FFFFFFFF'>Électroluciole</color> est supérieur ou égal à 3, l'<color style='color:#FFFFFFFF'>Électroluciole</color> inflige immédiatement 1 pt de [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color>. (Diminue le <color style='color:#FFFFFFFF'>Nombre d'utilisations</color>, 1 fois par manche)<br>(Votre deck doit contenir le Mage électroluciole des Fatui pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -6268,8 +6270,8 @@ var _card = [
         },
         {
             "_id": 217071,
-            "Name": "Countless Sights to See",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Kirara</color>, equip this card.<br>After Kirara equips this card, immediately use <color style='color:#FFD780FF'>Meow-teor Kick</color> once.<br>When your <color style='color:#FFFFFFFF'>Kirara</color> who has this card equipped is the active character, spend 1 less Elemental Die when switching characters. (Once per Round)<br>(You must have Kirara in your deck to add this card to your deck.)",
+            "Name": "Myriade de curiosités en chemin",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Kirara</color>, équipe cette carte.<br>Une fois Kirara équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Coup de patte miaou-téorite</color> une fois.<br>Lorsque <color style='color:#FFFFFFFF'>Kirara</color>, équipée de cette carte, est le personnage actif : Dépense 1 dé élémentaire en moins lorsque vous effectuez un changement de personnage. (1 fois par manche)<br>(Votre deck doit contenir Kirara pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -6285,8 +6287,8 @@ var _card = [
         },
         {
             "_id": 212101,
-            "Name": "Heir to the Ancient Sea's Authority",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Neuvillette</color>, equip this card.<br>After Neuvillette equips this card, immediately use <color style='color:#FFD780FF'>As Water Seeks Equilibrium</color> once.<br>After your characters trigger <color style='color:#80C0FFFF'>[b]2102[a]Hydro-Related Reactions</color>: Neuvillette, who has this card equipped, deals +1 DMG for the next 2 instances.<br>(You must have Neuvillette in your deck to add this card to your deck.)",
+            "Name": "Héritier de l'autorité de l'ancienne mer",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Neuvillette</color>, équipe cette carte.<br>Une fois Neuvillette équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Stabilité de l'eau</color> une fois.<br>Lorsqu'un de vos personnages a déclenché une <color style='color:#80C0FFFF'>Réaction liée à l'élément [b]2102[a]Hydro</color> : Augmente les DGT infligés par Neuvillette équipé de cette carte de 1 pour les 2 prochaines fois.<br>(Votre deck doit contenir Neuvillette pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -6304,8 +6306,8 @@ var _card = [
         },
         {
             "_id": 211101,
-            "Name": "A Summation of Interest",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Charlotte</color>, equip this card.<br>After Charlotte equips this card, immediately use <color style='color:#FFD780FF'>Framing: Freezing Point Composition</color> once.<br>When your Charlotte, who has this card equipped, is on the field, and after any of your characters uses a Normal Attack: If your opponent has a character on the field with <color style='color:#FFFFFFFF'>Snappy Silhouette</color> attached, heal your active character for 2 HP. (Once per Round)<br>(You must have Charlotte in your deck to add this card to your deck.)",
+            "Name": "Un résumé de pertinence",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Charlotte</color>, équipe cette carte.<br>Une fois Charlotte équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Cadrage : Composition gelée</color> une fois.<br>Lorsque Charlotte, équipée de cette carte, est sur le terrain et qu'un de vos personnages a effectué une attaque normale : Soigne votre personnage actif pour 2 pts si un personnage du terrain adverse est affecté par une <color style='color:#FFFFFFFF'>Silhouette instantanée</color>. (1 fois par manche)<br>(Votre deck doit contenir Charlotte pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -6323,8 +6325,8 @@ var _card = [
         },
         {
             "_id": 312702,
-            "Name": "Deepwood Memories",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1107[a]<color style='color:#7EC236FF'>Dendro</color> Die. (Once per Round)<br><color style='color:#FFFFFFFF'>Roll Phase:</color> 2 of the starting Elemental Dice you roll are always guaranteed to be [b]1107[a]<color style='color:#7EC236FF'>Dendro</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Souvenir de forêt",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3006[a]aptitude sur le personnage ou que le personnage utilise une capacité : </color>Dépense 1 dé [b]1107[a]<color style='color:#7EC236FF'>Dendro</color> en moins. (1 fois par manche)<br><color style='color:#FFFFFFFF'>Phase de lancer : </color>2 des dés élémentaires lancés au début sont des dés [b]1107[a]<color style='color:#7EC236FF'>Dendro</color>.<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6337,8 +6339,8 @@ var _card = [
         },
         {
             "_id": 312701,
-            "Name": "Laurel Coronet",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1107[a]<color style='color:#7EC236FF'>Dendro</color> Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Couronne de laurier",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3006[a]aptitude sur le personnage ou que le personnage utilise une capacité : </color>Dépense 1 dé [b]1107[a]<color style='color:#7EC236FF'>Dendro</color> en moins. (1 fois par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6351,8 +6353,8 @@ var _card = [
         },
         {
             "_id": 312602,
-            "Name": "Archaic Petra",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1106[a]<color style='color:#FFE699FF'>Geo</color> Die. (Once per Round)<br><color style='color:#FFFFFFFF'>Roll Phase:</color> 2 of the starting Elemental Dice you roll are always guaranteed to be [b]1106[a]<color style='color:#FFE699FF'>Geo</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Roche ancienne",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3006[a]aptitude sur le personnage ou que le personnage utilise une capacité : </color>Dépense 1 dé [b]1106[a]<color style='color:#FFE699FF'>Géo</color> en moins. (1 fois par manche)<br><color style='color:#FFFFFFFF'>Phase de lancer : </color>2 des dés élémentaires lancés au début sont des dés [b]1106[a]<color style='color:#FFE699FF'>Géo</color>.<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6365,8 +6367,8 @@ var _card = [
         },
         {
             "_id": 312601,
-            "Name": "Mask of Solitude Basalt",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1106[a]<color style='color:#FFE699FF'>Geo</color> Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Masque en basalte inerte",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3006[a]aptitude sur le personnage ou que le personnage utilise une capacité : </color>Dépense 1 dé [b]1106[a]<color style='color:#FFE699FF'>Géo</color> en moins. (1 fois par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6379,8 +6381,8 @@ var _card = [
         },
         {
             "_id": 312502,
-            "Name": "Viridescent Venerer",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1105[a]<color style='color:#80FFD7FF'>Anemo</color> Die. (Once per Round)<br><color style='color:#FFFFFFFF'>Roll Phase:</color> 2 of the starting Elemental Dice you roll are always guaranteed to be [b]1105[a]<color style='color:#80FFD7FF'>Anemo</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Ombre de la Verte Chasseuse",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3006[a]aptitude sur le personnage ou que le personnage utilise une capacité : </color>Dépense 1 dé [b]1105[a]<color style='color:#80FFD7FF'>Anémo</color> en moins. (1 fois par manche)<br><color style='color:#FFFFFFFF'>Phase de lancer : </color>2 des dés élémentaires lancés au début sont des dés [b]1105[a]<color style='color:#80FFD7FF'>Anémo</color>.<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6393,8 +6395,8 @@ var _card = [
         },
         {
             "_id": 312501,
-            "Name": "Viridescent Venerer's Diadem",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1105[a]<color style='color:#80FFD7FF'>Anemo</color> Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Diadème de la Verte Chasseuse",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3006[a]aptitude sur le personnage ou que le personnage utilise une capacité : </color>Dépense 1 dé [b]1105[a]<color style='color:#80FFD7FF'>Anémo</color> en moins. (1 fois par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6407,8 +6409,8 @@ var _card = [
         },
         {
             "_id": 312402,
-            "Name": "Thundering Fury",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1104[a]<color style='color:#FFACFFFF'>Electro</color> Die. (Once per Round)<br><color style='color:#FFFFFFFF'>Roll Phase:</color> 2 of the starting Elemental Dice you roll are always guaranteed to be [b]1104[a]<color style='color:#FFACFFFF'>Electro</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Colère de tonnerre",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3006[a]aptitude sur le personnage ou que le personnage utilise une capacité : </color>Dépense 1 dé [b]1104[a]<color style='color:#FFACFFFF'>Électro</color> en moins. (1 fois par manche)<br><color style='color:#FFFFFFFF'>Phase de lancer : </color>2 des dés élémentaires lancés au début sont des dés [b]1104[a]<color style='color:#FFACFFFF'>Électro</color>.<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6421,8 +6423,8 @@ var _card = [
         },
         {
             "_id": 312401,
-            "Name": "Thunder Summoner's Crown",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1104[a]<color style='color:#FFACFFFF'>Electro</color> Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Diadème de l'invocateur de tonnerre",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3006[a]aptitude sur le personnage ou que le personnage utilise une capacité : </color>Dépense 1 dé [b]1104[a]<color style='color:#FFACFFFF'>Électro</color> en moins. (1 fois par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6435,8 +6437,8 @@ var _card = [
         },
         {
             "_id": 312302,
-            "Name": "Crimson Witch of Flames",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1103[a]<color style='color:#FF9999FF'>Pyro</color> Die. (Once per Round)<br><color style='color:#FFFFFFFF'>Roll Phase:</color> 2 of the starting Elemental Dice you roll are always guaranteed to be [b]1103[a]<color style='color:#FF9999FF'>Pyro</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Sorcière des flammes ardentes",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3006[a]aptitude sur le personnage ou que le personnage utilise une capacité : </color>Dépense 1 dé [b]1103[a]<color style='color:#FF9999FF'>Pyro</color> en moins. (1 fois par manche)<br><color style='color:#FFFFFFFF'>Phase de lancer : </color>2 des dés élémentaires lancés au début sont des dés [b]1103[a]<color style='color:#FF9999FF'>Pyro</color>.<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6449,8 +6451,8 @@ var _card = [
         },
         {
             "_id": 312301,
-            "Name": "Witch's Scorching Hat",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1103[a]<color style='color:#FF9999FF'>Pyro</color> Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Chapeau brûlé de la Sorcière",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3006[a]aptitude sur le personnage ou que le personnage utilise une capacité : </color>Dépense 1 dé [b]1103[a]<color style='color:#FF9999FF'>Pyro</color> en moins. (1 fois par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6463,8 +6465,8 @@ var _card = [
         },
         {
             "_id": 312202,
-            "Name": "Heart of Depth",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1102[a]<color style='color:#80C0FFFF'>Hydro</color> Die. (Once per Round)<br><color style='color:#FFFFFFFF'>Roll Phase:</color> 2 of the starting Elemental Dice you roll are always guaranteed to be [b]1102[a]<color style='color:#80C0FFFF'>Hydro</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Âme des profondeurs",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3006[a]aptitude sur le personnage ou que le personnage utilise une capacité : </color>Dépense 1 dé [b]1102[a]<color style='color:#80C0FFFF'>Hydro</color> en moins. (1 fois par manche)<br><color style='color:#FFFFFFFF'>Phase de lancer : </color>2 des dés élémentaires lancés au début sont des dés [b]1102[a]<color style='color:#80C0FFFF'>Hydro</color>.<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6477,8 +6479,8 @@ var _card = [
         },
         {
             "_id": 312201,
-            "Name": "Wine-Stained Tricorne",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1102[a]<color style='color:#80C0FFFF'>Hydro</color> Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Calot taché de vin",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3006[a]aptitude sur le personnage ou que le personnage utilise une capacité : </color>Dépense 1 dé [b]1102[a]<color style='color:#80C0FFFF'>Hydro</color> en moins. (1 fois par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6491,8 +6493,8 @@ var _card = [
         },
         {
             "_id": 312102,
-            "Name": "Blizzard Strayer",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1101[a]<color style='color:#99FFFFFF'>Cryo</color> Die. (Once per Round)<br><color style='color:#FFFFFFFF'>Roll Phase:</color> 2 of the starting Elemental Dice you roll are always guaranteed to be [b]1101[a]<color style='color:#99FFFFFF'>Cryo</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Briseur de glace",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3006[a]aptitude sur le personnage ou que le personnage utilise une capacité : </color>Dépense 1 dé [b]1101[a]<color style='color:#99FFFFFF'>Cryo</color> en moins. (1 fois par manche)<br><color style='color:#FFFFFFFF'>Phase de lancer : </color>2 des dés élémentaires lancés au début sont des dés [b]1101[a]<color style='color:#99FFFFFF'>Cryo</color>.<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6505,8 +6507,8 @@ var _card = [
         },
         {
             "_id": 312101,
-            "Name": "Broken Rime's Echo",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Skill:</color> Spend 1 less [b]1101[a]<color style='color:#99FFFFFF'>Cryo</color> Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Écho de l'hiver",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3006[a]aptitude sur le personnage ou que le personnage utilise une capacité : </color>Dépense 1 dé [b]1101[a]<color style='color:#99FFFFFF'>Cryo</color> en moins. (1 fois par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6519,8 +6521,8 @@ var _card = [
         },
         {
             "_id": 312023,
-            "Name": "Veteran's Visage",
-            "Desc": "<color style='color:#FFFFFFFF'>After this character takes DMG or is healed:</color> Based on the number of times this effect has been triggered this Round, the effects will be different.<br><color style='color:#FFFFFFFF'>First Trigger:</color> Create 1 Elemental Die of the character's Elemental Type.<br><color style='color:#FFFFFFFF'>Second Trigger:</color> Draw 1 card.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Visage du vétéran",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage a subi des DGT ou reçu des soins : </color>L'effet diffère selon le nombre de déclenchements pendant la manche.<br><color style='color:#FFFFFFFF'>Au 1er déclenchement : </color>Crée 1 dé de l'élément du personnage.<br><color style='color:#FFFFFFFF'>Au 2e déclenchement : </color>Pioche 1 carte.<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6533,8 +6535,8 @@ var _card = [
         },
         {
             "_id": 312022,
-            "Name": "Vourukasha's Glow",
-            "Desc": "<color style='color:#FFFFFFFF'>After this character takes DMG:</color> If the character to which this is attached is the active character, then draw 1 card. During this End Phase, heal the attached character for 1 HP. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Lueur du vourukasha",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage a subi des DGT : </color>Si le personnage affecté est actif, pioche 1 carte puis soigne le personnage affecté pour 1 pt lors de la phase finale de la manche. (1 fois par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6547,8 +6549,8 @@ var _card = [
         },
         {
             "_id": 312021,
-            "Name": "Heart of Khvarena's Brilliance",
-            "Desc": "<color style='color:#FFFFFFFF'>After this character takes DMG:</color> If the character to which this is attached is the active character, then draw 1 card. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Cœur de la brillance de la khvarena",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage a subi des DGT : </color>Si le personnage affecté est actif, pioche 1 carte. (1 fois par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6559,8 +6561,8 @@ var _card = [
         },
         {
             "_id": 312020,
-            "Name": "Echoes of an Offering",
-            "Desc": "<color style='color:#FFFFFFFF'>After this character uses Normal Attack:</color> Draw 1 card. (Once per Round)<br><color style='color:#FFFFFFFF'>After this character uses a Skill:</color> If you do not have more Elemental Dice than cards in your Hand, you will gain 1 Elemental Die of the attached character's Type. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Échos d'une offrande",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé une attaque normale : </color>Pioche 1 carte. (1 fois par manche)<br><color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé une capacité : </color>Si vous avez moins ou autant de dés que de cartes, crée 1 dé de l'élément du personnage affecté. (1 fois par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6573,8 +6575,8 @@ var _card = [
         },
         {
             "_id": 312019,
-            "Name": "Flowing Rings",
-            "Desc": "<color style='color:#FFFFFFFF'>After the character uses a Normal Attack:</color> Draw 1 card. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Anneaux de fluidité",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé une attaque normale : </color>Pioche 1 carte. (1 fois par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6585,8 +6587,8 @@ var _card = [
         },
         {
             "_id": 312018,
-            "Name": "Gilded Dreams",
-            "Desc": "<color style='color:#FFFFFFFF'>When played: </color>Generate 1 Die of the same Element as the attached character. If you have 3 different Elemental Types in your party, generate 2 such Dice instead.<br><color style='color:#FFFFFFFF'>When the character to which this card is attached is your active character, then when an opposing character takes Elemental Reaction DMG: </color>Draw 1 card. (Up to twice per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Rêve doré",
+            "Desc": "<color style='color:#FFFFFFFF'>En arrivant sur le terrain : </color>Crée 1 dé de l'élément du personnage affecté. Si votre équipe contient des personnages de 3 éléments différents, crée 2 dés à la place.<br><color style='color:#FFFFFFFF'>Si le personnage affecté est actif et qu'un adversaire subit des DGT d'une réaction élémentaire : </color>Pioche 1 carte. (2 fois par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6599,8 +6601,8 @@ var _card = [
         },
         {
             "_id": 312017,
-            "Name": "Shadow of the Sand King",
-            "Desc": "<color style='color:#FFFFFFFF'>When played: </color>Draw a card.<br><color style='color:#FFFFFFFF'>When the character to which this card is attached is your active character, then when an opposing character takes Elemental Reaction DMG: </color>Draw a card. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "L'ombre du roi des sables",
+            "Desc": "<color style='color:#FFFFFFFF'>En arrivant sur le terrain : </color>Pioche 1 carte.<br><color style='color:#FFFFFFFF'>Si le personnage affecté est actif et qu'un adversaire subit des DGT d'une réaction élémentaire : </color>Pioche 1 carte. (1 fois par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6613,8 +6615,8 @@ var _card = [
         },
         {
             "_id": 312016,
-            "Name": "Ocean-Hued Clam",
-            "Desc": "<color style='color:#FFFFFFFF'>When played:</color> Heal the attached character for 2 HP.<br>For every 3 HP of healing your characters receive, this card accumulates 1 Sea-Dyed Foam (maximum of 2).<br><color style='color:#FFFFFFFF'>When this character deals DMG:</color> Consume all Sea-Dyed Foam. DMG is increased by 1 for each Sea-Dyed Foam consumed.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Palourde aux teintes océaniques",
+            "Desc": "<color style='color:#FFFFFFFF'>En arrivant sur le terrain : </color>Soigne le personnage affecté pour 2 pts.<br>Chaque fois que vos personnages sont soignés pour 3 PV, cette carte obtient 1 mousse marine. (Peut être cumulé 2 fois maximum)<br><color style='color:#FFFFFFFF'>Lorsque le personnage inflige des DGT : </color>Consomme toutes les mousses marines et augmente les DGT infligés de 1 pour chaque mousse marine consommée.<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6627,8 +6629,8 @@ var _card = [
         },
         {
             "_id": 312015,
-            "Name": "Crown of Watatsumi",
-            "Desc": "For every 3 HP of healing your characters receive, this card accumulates 1 Sea-Dyed Foam (maximum of 2).<br><color style='color:#FFFFFFFF'>When this character deals DMG:</color> Consume all Sea-Dyed Foam. DMG is increased by 1 for each Sea-Dyed Foam consumed.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Couronne de Watatsumi",
+            "Desc": "Chaque fois que vos personnages sont soignés pour 3 PV, cette carte obtient 1 mousse marine. (Peut être cumulé 2 fois maximum)<br><color style='color:#FFFFFFFF'>Lorsque le personnage inflige des DGT : </color>Consomme toutes les mousses marines et augmente les DGT infligés de 1 pour chaque mousse marine consommée.<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6641,8 +6643,8 @@ var _card = [
         },
         {
             "_id": 312014,
-            "Name": "Shimenawa's Reminiscence",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses an Elemental Skill:</color> Spend 1 less Elemental Die. (Once per Round)<br><color style='color:#FFFFFFFF'>If the character has at least 2 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>,</color> this character's Normal Attacks and Elemental Skills will deal +1 DMG.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Réminiscence nostalgique",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3006[a]aptitude sur le personnage ou que le personnage utilise une compétence élémentaire : </color>Dépense 1 dé élémentaire en moins. (1 fois par manche)<br><color style='color:#FFFFFFFF'>Si le personnage a au moins 2 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color> : </color>DGT infligés par l'attaque normale et la compétence élémentaire du personnage +1.<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6657,8 +6659,8 @@ var _card = [
         },
         {
             "_id": 312013,
-            "Name": "Capricious Visage",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses an Elemental Skill:</color> Spend 1 less Elemental Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Visage capricieux",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3006[a]aptitude sur le personnage ou que le personnage utilise une compétence élémentaire : </color>Dépense 1 dé élémentaire en moins. (1 fois par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6671,8 +6673,8 @@ var _card = [
         },
         {
             "_id": 312012,
-            "Name": "Vermillion Hereafter",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Normal Attack:</color> Spend 1 less Elemental Die. (Once per Round)<br><color style='color:#FFFFFFFF'>After a character is switched to the active character:</color> During this Round, character deals +1 Normal Attack DMG.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Au-delà cinabrin",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3006[a]aptitude sur le personnage ou que le personnage utilise une attaque normale : </color>Dépense 1 dé élémentaire en moins. (1 fois par manche)<br><color style='color:#FFFFFFFF'>Après avoir basculé le personnage en personnage actif : </color>DGT infligés par l'attaque normale du personnage pendant la manche +1.<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6685,8 +6687,8 @@ var _card = [
         },
         {
             "_id": 312011,
-            "Name": "Thundering Poise",
-            "Desc": "<color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses a Normal Attack:</color> Spend 1 less Elemental Die. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Maintien fulgurant",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous jouez une carte d'[b]3006[a]aptitude sur le personnage ou que le personnage utilise une attaque normale : </color>Dépense 1 dé élémentaire en moins. (1 fois par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6699,8 +6701,8 @@ var _card = [
         },
         {
             "_id": 312010,
-            "Name": "Tenacity of the Millelith",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> The character to which this is attached gains <color style='color:#FFFFFFFF'>Unmovable Mountain</color> that provides 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points.<br><color style='color:#FFFFFFFF'>After this character takes DMG:</color> If the character this card is attached to is the active character, create 1 Elemental Die matching this character's Elemental Type. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Ténacité du Millelithe",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action : </color>Accorde <color style='color:#FFFFFFFF'>« Aussi immobile que la montagne »</color> au personnage affecté. (Accorde 2 pts de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> au personnage)<br><color style='color:#FFFFFFFF'>Lorsque le personnage a subi des DGT : </color>Si le personnage affecté est actif, crée 1 dé du type élémentaire du personnage. (1 fois par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6717,8 +6719,8 @@ var _card = [
         },
         {
             "_id": 312009,
-            "Name": "General's Ancient Helm",
-            "Desc": "<color style='color:#FFFFFFFF'>When Action Phase begins:</color> The character to which this is attached gains <color style='color:#FFFFFFFF'>Unmovable Mountain</color> that provides 2 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Ancien heaume de Général",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action: </color>Accorde <color style='color:#FFFFFFFF'>« Aussi immobile que la montagne »</color> au personnage affecté. (Accorde 2 pts de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> au personnage)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6735,8 +6737,8 @@ var _card = [
         },
         {
             "_id": 312008,
-            "Name": "Emblem of Severed Fate",
-            "Desc": "<color style='color:#FFFFFFFF'>After another character of yours uses an Elemental Burst: </color>The character to which this is attached gains 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.<br>The DMG dealt by the character's Elemental Bursts is increased by 2 (once per Round).<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Emblème du destin brisé",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un autre de vos personnages a utilisé un déchaînement élémentaire : </color>Accorde 1 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color> au personnage affecté.<br>DGT infligés par le déchaînement élémentaire du personnage +2. (1 fois par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6751,8 +6753,8 @@ var _card = [
         },
         {
             "_id": 312007,
-            "Name": "Ornate Kabuto",
-            "Desc": "<color style='color:#FFFFFFFF'>After another character of yours uses an Elemental Burst: </color>The character to which this is attached gains 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Kabuto orné",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un autre de vos personnages a utilisé un déchaînement élémentaire : </color>Accorde 1 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color> au personnage affecté.<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6767,8 +6769,8 @@ var _card = [
         },
         {
             "_id": 312006,
-            "Name": "Exile's Circlet",
-            "Desc": "<color style='color:#FFFFFFFF'>After the character uses an Elemental Burst:</color> All your characters on standby gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Diadème de l'Exilé",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé un déchaînement élémentaire : </color>Accorde 1 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color> à tous vos personnages en attente. (1 fois par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6783,8 +6785,8 @@ var _card = [
         },
         {
             "_id": 312005,
-            "Name": "Instructor's Cap",
-            "Desc": "<color style='color:#FFFFFFFF'>After the character triggers an Elemental Reaction:</color> Create 1 Elemental Die that matches this Character's Elemental Type. (Max 3 times per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Chapeau de l'Instructeur",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage a déclenché une réaction élémentaire : </color>Crée 1 dé de l'élément du personnage. (3 fois maximum par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6797,8 +6799,8 @@ var _card = [
         },
         {
             "_id": 312004,
-            "Name": "Gambler's Earrings",
-            "Desc": "<color style='color:#FFFFFFFF'>After an opposing character is defeated:</color> If the character this card is attached to is the active character, create <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> ×2. (Can happen 3 times per match)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Boucles d'oreilles du Parieur",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un personnage adverse a été éliminé : </color>Si le personnage affecté est actif, crée 2 dés <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>. (Limité à 3 fois par partie)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6813,8 +6815,8 @@ var _card = [
         },
         {
             "_id": 312003,
-            "Name": "Traveling Doctor's Handkerchief",
-            "Desc": "<color style='color:#FFFFFFFF'>After the character uses an Elemental Burst:</color> Heal all your characters for 1 HP. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Mouchoir du Médecin itinérant",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé un déchaînement élémentaire : </color>Soigne tous vos personnages pour 1 pt. (1 fois par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6827,8 +6829,8 @@ var _card = [
         },
         {
             "_id": 312002,
-            "Name": "Lucky Dog's Silver Circlet",
-            "Desc": "<color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> Heal self for 2 HP. (Once per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Diadème d'argent du Chanceux",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé une compétence élémentaire : </color>Soigne le personnage pour 2 pts. (1 fois par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6841,8 +6843,8 @@ var _card = [
         },
         {
             "_id": 312001,
-            "Name": "Adventurer's Bandana",
-            "Desc": "<color style='color:#FFFFFFFF'>After the character uses a Normal Attack:</color> Heal self for 1 HP. (Max 3 times per Round)<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Name": "Bandeau de l'Aventurier",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé une attaque normale : </color>Soigne le personnage pour 1 pt. (3 fois maximum par manche)<br>(Un personnage peut équiper au maximum 1 [b]3004[a]artéfact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
@@ -6855,8 +6857,8 @@ var _card = [
         },
         {
             "_id": 311507,
-            "Name": "Sapwood Blade",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When entering play:</color> When the character to which this is attached next uses a Normal Attack during this Round: Create 2 Elemental Dice of this character's Elemental Type.<br>(<color style='color:#FFFFFFFF'>Only [b]3205[a]Sword Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Lame d'aubier",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1.</color><br><color style='color:#FFFFFFFF'>En arrivant sur le terrain : </color>La prochaine fois que le personnage affecté a utilisé une attaque normale pendant la manche, crée 2 dés de l'élément du personnage.<br>(Peut uniquement être équipé par un personnage utilisant une <color style='color:#FFFFFFFF'>[b]3205[a]épée à une main</color>, un personnage pouvant équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_SWORD"
@@ -6870,8 +6872,8 @@ var _card = [
         },
         {
             "_id": 311506,
-            "Name": "Light of Foliar Incision",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses a Normal Attack:</color> Create 1 random basic Elemental Die. (Can be triggered up to twice per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3205[a]Sword Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Lumière d'incision foliaire",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1.</color><br><color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé une attaque normale : </color>Crée aléatoirement 1 dé élémentaire de base. (Déclenché 2 fois maximum par manche)<br>(Peut uniquement être équipé par un personnage utilisant une <color style='color:#FFFFFFFF'>[b]3205[a]épée à une main</color>, un personnage pouvant équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_SWORD"
@@ -6885,8 +6887,8 @@ var _card = [
         },
         {
             "_id": 311505,
-            "Name": "Favonius Sword",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> The character gains 1 additional <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3205[a]Sword Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Épée de Favonius",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br><color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé une compétence élémentaire : </color>Accorde 1 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color> supplémentaire au personnage. (1 fois par manche)<br>(Peut uniquement être équipé par un personnage utilisant une <color style='color:#FFFFFFFF'>[b]3205[a]épée à une main</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_SWORD"
@@ -6902,8 +6904,8 @@ var _card = [
         },
         {
             "_id": 311504,
-            "Name": "Skyward Blade",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>Once per Round:</color> This character's <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 additional DMG.<br>(<color style='color:#FFFFFFFF'>Only [b]3205[a]Sword Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Lame de la Voûte d'Azur",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br><color style='color:#FFFFFFFF'>Une fois par manche : </color>DGT supplémentaires infligés par l'<color style='color:#FFFFFFFF'>attaque normale</color> du personnage +1.<br>(Peut uniquement être équipé par un personnage utilisant une <color style='color:#FFFFFFFF'>[b]3205[a]épée à une main</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_SWORD"
@@ -6917,8 +6919,8 @@ var _card = [
         },
         {
             "_id": 311503,
-            "Name": "Aquila Favonia",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the opposing character uses a Skill:</color> If the character with this attached is the active character, heal this character for 1 HP. (Max twice per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3205[a]Sword Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Épée du faucon",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br><color style='color:#FFFFFFFF'>Lorsque l'adversaire a utilisé une capacité : </color>Si le personnage affecté est actif, le soigne pour 1 pt. (2 fois maximum par manche)<br>(Peut uniquement être équipé par un personnage utilisant une <color style='color:#FFFFFFFF'>[b]3205[a]épée à une main</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_SWORD"
@@ -6932,8 +6934,8 @@ var _card = [
         },
         {
             "_id": 311502,
-            "Name": "Sacrificial Sword",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3205[a]Sword Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Épée rituelle",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br><color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé une compétence élémentaire : </color>Crée 1 dé de l'élément du personnage. (1 fois par manche)<br>(Peut uniquement être équipé par un personnage utilisant une <color style='color:#FFFFFFFF'>[b]3205[a]épée à une main</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_SWORD"
@@ -6947,8 +6949,8 @@ var _card = [
         },
         {
             "_id": 311501,
-            "Name": "Traveler's Handy Sword",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br>(<color style='color:#FFFFFFFF'>Only [b]3205[a]Sword Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Épée du voyageur",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br>(Peut uniquement être équipé par un personnage utilisant une <color style='color:#FFFFFFFF'>[b]3205[a]épée à une main</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_SWORD"
@@ -6962,8 +6964,8 @@ var _card = [
         },
         {
             "_id": 311407,
-            "Name": "Primordial Jade Winged-Spear",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After this character uses a Skill:</color> Until the end of this Round, +1 additional DMG provided by this card. (Up to +2 DMG total.)<br>(<color style='color:#FFFFFFFF'>Only [b]3204[a]Polearm Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Lance de jade ailée",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1.</color><br><color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé une capacité : </color>DGT supplémentaires accordés par cette carte +1 jusqu'à la fin de la manche. (Peut être cumulé jusqu'à +2)<br>(Peut uniquement être équipé par un personnage utilisant une <color style='color:#FFFFFFFF'>[b]3204[a]arme d'hast</color>, un personnage pouvant équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_POLE"
@@ -6977,8 +6979,8 @@ var _card = [
         },
         {
             "_id": 311406,
-            "Name": "Moonpiercer",
-            "Desc": "<color style='color:#FFFFFFFF'>Character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When played: </color>During this Round, the next time you play a [b]3006[a]Talent card or a Character uses an Elemental Skill, spend 2 fewer Elemental Dice.<br>(Only <color style='color:#FFFFFFFF'>[b]3204[a]Polearm Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon.)",
+            "Name": "Perce-lune",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1.</color><br><color style='color:#FFFFFFFF'>En arrivant sur le terrain : </color>La prochaine fois pendant la manche que vous jouez une carte d'[b]3006[a]aptitude sur le personnage ou que le personnage utilise une compétence élémentaire, dépense 2 dés élémentaires en moins.<br>(Peut uniquement être équipé par un personnage utilisant une <color style='color:#FFFFFFFF'>[b]3204[a]arme d'hast</color>, un personnage pouvant équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_POLE"
@@ -6992,8 +6994,8 @@ var _card = [
         },
         {
             "_id": 311405,
-            "Name": "Engulfing Lightning",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>Triggers automatically once per Round:</color> If the character to which this is attached does not have <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>, they will gain 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>.<br>(<color style='color:#FFFFFFFF'>Only [b]3204[a]Polearm Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Lumière du faucheur",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br><color style='color:#FFFFFFFF'>Se déclenche automatiquement 1 fois par manche : </color>Si le personnage affecté n'a pas de <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color>, lui accorde 1 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color>.<br>(Peut uniquement être équipé par un personnage utilisant une <color style='color:#FFFFFFFF'>[b]3204[a]arme d'hast</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_POLE"
@@ -7009,8 +7011,8 @@ var _card = [
         },
         {
             "_id": 311404,
-            "Name": "Vortex Vanquisher",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br>When your active character is protected by a [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> Character Status or a [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> Combat Status, you deal +1 DMG.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> If you have a Combat Status that grants a [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> on your side, add 1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point to that Combat Status. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3204[a]Polearm Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Perceur prismatique",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br>Lorsque le personnage est protégé par un état de personnage «[b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> » ou un état de déploiement « [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> » : DGT supplémentaires infligés +1.<br><color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé une compétence élémentaire : </color>Accorde 1 pt de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> supplémentaire à un état de déploiement disposant déjà d'un [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> dans votre camp. (1 fois par manche)<br>(Peut uniquement être équipé par un personnage utilisant une <color style='color:#FFFFFFFF'>[b]3204[a]arme d'hast</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_POLE"
@@ -7026,8 +7028,8 @@ var _card = [
         },
         {
             "_id": 311403,
-            "Name": "Skyward Spine",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>Once per Round:</color> This character's <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 additional DMG.<br>(<color style='color:#FFFFFFFF'>Only [b]3204[a]Polearm Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Berge de la Voûte d'Azur",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br><color style='color:#FFFFFFFF'>Une fois par manche : </color>DGT supplémentaires infligés par l'<color style='color:#FFFFFFFF'>attaque normale</color> du personnage +1.<br>(Peut uniquement être équipé par un personnage utilisant une <color style='color:#FFFFFFFF'>[b]3204[a]arme d'hast</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_POLE"
@@ -7041,8 +7043,8 @@ var _card = [
         },
         {
             "_id": 311402,
-            "Name": "Lithic Spear",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When played:</color> For each of your party members from [b]3402[a]Liyue, grant <color style='color:#FFFFFFFF'>1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point</color> to the character to which this is attached. (Max 3 points)<br>(<color style='color:#FFFFFFFF'>Only [b]3204[a]Polearm Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Lance des Millelithes",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br><color style='color:#FFFFFFFF'>En arrivant sur le terrain :</color> Accorde au personnage affecté <color style='color:#FFFFFFFF'>1 pt de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color></color> pour chaque personnage de [b]3402[a]Liyue dans votre équipe. (3 pts maximum)<br>(Peut uniquement être équipé par un personnage utilisant une <color style='color:#FFFFFFFF'>[b]3204[a]arme d'hast</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_POLE"
@@ -7058,8 +7060,8 @@ var _card = [
         },
         {
             "_id": 311401,
-            "Name": "White Tassel",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br>(<color style='color:#FFFFFFFF'>Only [b]3204[a]Polearm Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Pampille blanche",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br>(Peut uniquement être équipé par un personnage utilisant une <color style='color:#FFFFFFFF'>[b]3204[a]arme d'hast</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_POLE"
@@ -7073,8 +7075,8 @@ var _card = [
         },
         {
             "_id": 311306,
-            "Name": "Beacon of the Reed Sea",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> +1 additional DMG dealt by character this Round the next time they deal DMG. (Once per Round)<br><color style='color:#FFFFFFFF'>After this character takes DMG:</color> +1 additional DMG dealt by character this Round the next time they deal DMG. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3203[a]Claymore Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Balise de la mer de roseaux",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1.</color><br><color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé une compétence élémentaire : </color>Prochains DGT supplémentaires infligés par le personnage pendant la manche +1. (1 fois par manche)<br><color style='color:#FFFFFFFF'>Lorsque le personnage a subi des DGT : </color>Prochains DGT supplémentaires infligés par le personnage pendant la manche +1. (1 fois par manche)<br>(Peut uniquement être équipé par un personnage utilisant une <color style='color:#FFFFFFFF'>[b]3203[a]épée à deux mains</color>, un personnage pouvant équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CLAYMORE"
@@ -7088,8 +7090,8 @@ var _card = [
         },
         {
             "_id": 311305,
-            "Name": "The Bell",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses a skill:</color> Gives 1 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> point to your active character. (Once per Round, stacks up to 2 points)<br>(<color style='color:#FFFFFFFF'>Only [b]3203[a]Claymore Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Épée-horloge",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br><color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé une capacité : </color>Accorde 1 pt de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> à votre personnage actif. (1 fois par manche, peut être cumulé jusqu'à 2 pts)<br>(Peut uniquement être équipé par un personnage utilisant une <color style='color:#FFFFFFFF'>[b]3203[a]épée à deux mains</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CLAYMORE"
@@ -7105,8 +7107,8 @@ var _card = [
         },
         {
             "_id": 311304,
-            "Name": "Skyward Pride",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>Once per Round:</color> This character's <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 additional DMG.<br>(<color style='color:#FFFFFFFF'>Only [b]3203[a]Claymore Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Fierté de la Voûte d'Azur",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br><color style='color:#FFFFFFFF'>Une fois par manche : </color>DGT supplémentaires infligés par l'<color style='color:#FFFFFFFF'>attaque normale</color> du personnage +1.<br>(Peut uniquement être équipé par un personnage utilisant une <color style='color:#FFFFFFFF'>[b]3203[a]épée à deux mains</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CLAYMORE"
@@ -7120,8 +7122,8 @@ var _card = [
         },
         {
             "_id": 311303,
-            "Name": "Wolf's Gravestone",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br>Deal +2 additional DMG if the target's remaining HP is equal to or less than 6.<br>(<color style='color:#FFFFFFFF'>Only [b]3203[a]Claymore Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Mort-du-loup",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br>En attaquant une cible ayant 6 PV ou moins, DGT supplémentaires +2.<br>(Peut uniquement être équipé par un personnage utilisant une <color style='color:#FFFFFFFF'>[b]3203[a]épée à deux mains</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CLAYMORE"
@@ -7135,8 +7137,8 @@ var _card = [
         },
         {
             "_id": 311302,
-            "Name": "Sacrificial Greatsword",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3203[a]Claymore Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Espadon rituel",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br><color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé une compétence élémentaire : </color>Crée 1 dé de l'élément du personnage. (1 fois par manche)<br>(Peut uniquement être équipé par un personnage utilisant une <color style='color:#FFFFFFFF'>[b]3203[a]épée à deux mains</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CLAYMORE"
@@ -7150,8 +7152,8 @@ var _card = [
         },
         {
             "_id": 311301,
-            "Name": "White Iron Greatsword",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br>(<color style='color:#FFFFFFFF'>Only [b]3203[a]Claymore Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Grande épée en fer blanc",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br>(Peut uniquement être équipé par un personnage utilisant une <color style='color:#FFFFFFFF'>[b]3203[a]épée à deux mains</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CLAYMORE"
@@ -7165,8 +7167,8 @@ var _card = [
         },
         {
             "_id": 311206,
-            "Name": "King's Squire",
-            "Desc": "<color style='color:#FFFFFFFF'>Character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When played: </color>During this Round, the next time you play a [b]3006[a]Talent card or a Character using an Elemental Skill, spend 2 fewer Elemental Dice.<br>(Only <color style='color:#FFFFFFFF'>[b]3202[a]Bow Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon.)",
+            "Name": "Le valet du roi",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1.</color><br><color style='color:#FFFFFFFF'>En arrivant sur le terrain : </color>La prochaine fois pendant la manche que vous jouez une carte d'[b]3006[a]aptitude sur le personnage ou que le personnage utilise une compétence élémentaire, dépense 2 dés élémentaires en moins.<br>(Peut uniquement être équipé par un personnage utilisant un <color style='color:#FFFFFFFF'>[b]3202[a]arc</color>, un personnage pouvant équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_BOW"
@@ -7180,8 +7182,8 @@ var _card = [
         },
         {
             "_id": 311205,
-            "Name": "Elegy for the End",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Burst:</color> Create <color style='color:#FFFFFFFF'>Millennial Movement: Farewell Song</color>. (Your character deals +1 DMG, <color style='color:#FFFFFFFF'>Duration (Rounds)</color>: 2)<br>(<color style='color:#FFFFFFFF'>Only [b]3202[a]Bow Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Ultime soupir",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br><color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé un déchaînement élémentaire : </color>Crée un <color style='color:#FFFFFFFF'>Concert du millénaire : Chant d'adieu</color>. (DGT infligés par votre personnage +1, <color style='color:#FFFFFFFF'>Durée en manches</color> : 2)<br>(Peut uniquement être équipé par un personnage utilisant un <color style='color:#FFFFFFFF'>[b]3202[a]arc</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_BOW"
@@ -7199,8 +7201,8 @@ var _card = [
         },
         {
             "_id": 311204,
-            "Name": "Amos' Bow",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When the character uses a Skill that costs at least a total of 5 Elemental Dice and Energy</color>, +2 additional DMG. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3202[a]Bow Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Arc d'Amos",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br><color style='color:#FFFFFFFF'>Lorsque le personnage utilise une capacité dont le total du coût original de dés élémentaires ajouté au coût de charges est de 5 ou plus : </color>DGT supplémentaires +2. (1 fois par manche)<br>(Peut uniquement être équipé par un personnage utilisant un <color style='color:#FFFFFFFF'>[b]3202[a]arc</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_BOW"
@@ -7214,8 +7216,8 @@ var _card = [
         },
         {
             "_id": 311203,
-            "Name": "Skyward Harp",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>Once per Round:</color> This character's <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 additional DMG.<br>(<color style='color:#FFFFFFFF'>Only [b]3202[a]Bow Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Ailes de la Voûte d'Azur",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br><color style='color:#FFFFFFFF'>Une fois par manche : </color>DGT supplémentaires infligés par l'<color style='color:#FFFFFFFF'>attaque normale</color> du personnage +1.<br>(Peut uniquement être équipé par un personnage utilisant un <color style='color:#FFFFFFFF'>[b]3202[a]arc</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_BOW"
@@ -7229,8 +7231,8 @@ var _card = [
         },
         {
             "_id": 311202,
-            "Name": "Sacrificial Bow",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3202[a]Bow Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Arc rituel",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br><color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé une compétence élémentaire : </color>Crée 1 dé de l'élément du personnage. (1 fois par manche)<br>(Peut uniquement être équipé par un personnage utilisant un <color style='color:#FFFFFFFF'>[b]3202[a]arc</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_BOW"
@@ -7244,8 +7246,8 @@ var _card = [
         },
         {
             "_id": 311201,
-            "Name": "Raven Bow",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br>(<color style='color:#FFFFFFFF'>Only [b]3202[a]Bow Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Arc du corbeau",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br>(Peut uniquement être équipé par un personnage utilisant un <color style='color:#FFFFFFFF'>[b]3202[a]arc</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_BOW"
@@ -7259,8 +7261,8 @@ var _card = [
         },
         {
             "_id": 311107,
-            "Name": "Tulaytullah's Remembrance",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When the character uses a <color style='color:#FFFFFFFF'>Charged Attack</color>:</color> Spend 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>. (Can be triggered up to twice per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3201[a]Catalyst Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Mémoire de Tulaytullah",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1.</color><br><color style='color:#FFFFFFFF'>Lorsque le personnage utilise une <color style='color:#FFFFFFFF'>Attaque chargée</color> : </color>Dépense 1 dé d'<color style='color:#FFFFFFFF'>[b]1109[a]Élément neutre</color> en moins. (Déclenché 2 fois maximum par manche)<br>(Peut uniquement être équipé par un personnage utilisant un <color style='color:#FFFFFFFF'>[b]3201[a]catalyseur</color>, un personnage pouvant équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -7277,8 +7279,8 @@ var _card = [
         },
         {
             "_id": 311106,
-            "Name": "Lost Prayer to the Sacred Winds",
-            "Desc": "<color style='color:#FFFFFFFF'>For each point of \"Bonus DMG\" this card has, character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>End Phase:</color> This card gains 1 point of \"Bonus DMG.\" (Max 2 points)<br>(Can only be equipped by <color style='color:#FFFFFFFF'>[b]3201[a]Catalyst Characters</color>. Each Character can equip at most 1 [b]3003[a]Weapon.)",
+            "Name": "L'origine des Quatre Vents",
+            "Desc": "<color style='color:#FFFFFFFF'>Chaque point de bonus de DGT de cette carte augmente les DGT infligés par le personnage de 1.</color><br><color style='color:#FFFFFFFF'>Phase finale : </color>Accorde 1 pt de bonus de DGT à cette carte. (Peut être cumulé jusqu'à 2 pts)<br>(Peut uniquement être équipé par un personnage utilisant un <color style='color:#FFFFFFFF'>[b]3201[a]catalyseur</color>, un personnage pouvant équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -7292,8 +7294,8 @@ var _card = [
         },
         {
             "_id": 311105,
-            "Name": "Fruit of Fulfillment",
-            "Desc": "<color style='color:#FFFFFFFF'>Character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When played:</color> Draw 2 cards.<br>(Can only be equipped by <color style='color:#FFFFFFFF'>[b]3201[a]Catalyst characters</color>. Characters can equip at most 1 [b]3003[a]Weapon)",
+            "Name": "Le fruit de l'accomplissement",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br><color style='color:#FFFFFFFF'>En arrivant sur le terrain : </color>Pioche 2 cartes.<br>(Peut uniquement être équipé par un personnage utilisant un <color style='color:#FFFFFFFF'>[b]3201[a]catalyseur</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -7307,8 +7309,8 @@ var _card = [
         },
         {
             "_id": 311104,
-            "Name": "A Thousand Floating Dreams",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>When your character triggers an Elemental Reaction:</color> Deal +1 DMG. (Twice per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3201[a]Catalyst Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Mille rêves flottants",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br><color style='color:#FFFFFFFF'>Lorsque votre personnage déclenche une réaction élémentaire : </color>DGT infligés +1. (Déclenché 2 fois maximum par manche)<br>(Peut uniquement être équipé par un personnage utilisant un <color style='color:#FFFFFFFF'>[b]3201[a]catalyseur</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -7322,8 +7324,8 @@ var _card = [
         },
         {
             "_id": 311103,
-            "Name": "Skyward Atlas",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>Once per Round:</color> This character's <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 additional DMG.<br>(<color style='color:#FFFFFFFF'>Only [b]3201[a]Catalyst Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Atlas de la Voûte d'Azur",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br><color style='color:#FFFFFFFF'>Une fois par manche : </color>DGT supplémentaires infligés par l'<color style='color:#FFFFFFFF'>attaque normale</color> du personnage +1.<br>(Peut uniquement être équipé par un personnage utilisant un <color style='color:#FFFFFFFF'>[b]3201[a]catalyseur</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -7337,8 +7339,8 @@ var _card = [
         },
         {
             "_id": 311102,
-            "Name": "Sacrificial Fragments",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br><color style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</color> Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)<br>(<color style='color:#FFFFFFFF'>Only [b]3201[a]Catalyst Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Mémoires de rituels",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br><color style='color:#FFFFFFFF'>Lorsque le personnage a utilisé une compétence élémentaire : </color>Crée 1 dé de l'élément du personnage. (1 fois par manche)<br>(Peut uniquement être équipé par un personnage utilisant un <color style='color:#FFFFFFFF'>[b]3201[a]catalyseur</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -7352,8 +7354,8 @@ var _card = [
         },
         {
             "_id": 311101,
-            "Name": "Magic Guide",
-            "Desc": "<color style='color:#FFFFFFFF'>The character deals +1 DMG</color>.<br>(<color style='color:#FFFFFFFF'>Only [b]3201[a]Catalyst Characters</color> can equip this. A character can equip a maximum of 1 [b]3003[a]Weapon)",
+            "Name": "Guide de magie",
+            "Desc": "<color style='color:#FFFFFFFF'>DGT infligés par le personnage +1</color>.<br>(Peut uniquement être équipé par un personnage utilisant un <color style='color:#FFFFFFFF'>[b]3201[a]catalyseur</color>, un personnage peut équiper au maximum 1 [b]3003[a]arme)",
             "Tag": [
                 "GCG_TAG_WEAPON",
                 "GCG_TAG_WEAPON_CATALYST"
@@ -7367,8 +7369,8 @@ var _card = [
         },
         {
             "_id": 227011,
-            "Name": "Proliferating Spores",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Jadeplume Terrorshroom</color>, equip this card.<br>After Jadeplume Terrorshroom equips this card, immediately use <color style='color:#FFD780FF'>Volatile Spore Cloud</color> once.<br>Your Jadeplume Terrorshroom, who has this card equipped, can accumulate 1 more stack of Radical Vitality.<br>(You must have Jadeplume Terrorshroom in your deck to add this card to your deck.)",
+            "Name": "Spores proliférantes",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est le <color style='color:#FFFFFFFF'>Champieffroi panaché</color>, équipe cette carte.<br>Une fois le Champieffroi panaché équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Nuage de spores instables</color> une fois.<br>Le Champieffroi panaché équipé de cette carte peut obtenir 1 cumul de vitalité radicale en plus.<br>(Votre deck doit contenir le Champieffroi panaché pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7384,8 +7386,8 @@ var _card = [
         },
         {
             "_id": 226011,
-            "Name": "Stonehide Reforged",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Stonehide Lawachurl</color>, equip this card.<br>After Stonehide Lawachurl equips this card, immediately use <color style='color:#FFD780FF'>Upa Shato</color> once.<br>When your Stonehide Lawachurl, who has this card equipped, defeats an opposing character: Stonehide Lawachurl will re-attach <color style='color:#FFFFFFFF'>Stonehide</color> and <color style='color:#FFFFFFFF'>Stone Force</color>.<br>(You must have Stonehide Lawachurl in your deck to add this card to your deck.)",
+            "Name": "Peau-pierre reforgée",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est le <color style='color:#FFFFFFFF'>Chef Brutorocheux</color>, équipe cette carte.<br>Une fois le Chef Brutorocheux équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Upa Shato</color> une fois.<br>Lorsque le Chef Brutorocheux équipé de cette carte a éliminé un personnage adverse : Le Chef Brutorocheux obtient à nouveau les effets de <color style='color:#FFFFFFFF'>Peau-pierre</color> et de <color style='color:#FFFFFFFF'>Force de pierre</color>.<br>(Votre deck doit contenir le Chef Brutorocheux pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7405,8 +7407,8 @@ var _card = [
         },
         {
             "_id": 225021,
-            "Name": "Rending Vortex",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Dvalin</color>, equip this card.<br>After Dvalin equips this card, immediately use <color style='color:#FFD780FF'>Tempestuous Barrage</color> once.<br>When your Dvalin, who has this card equipped, is on the field, when <color style='color:#FFFFFFFF'>Total Collapse</color> attached to an opposing character is removed: Apply <color style='color:#FFFFFFFF'>Total Collapse</color> to the next opposing standby character. (Once per Round)<br>(You must have Dvalinin your deck to add this card to your deck.)",
+            "Name": "Vortex déchirant",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Dvalin</color>, équipe cette carte.<br>Une fois Dvalin équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Bombardement orageux</color> une fois.<br>Lorsque Dvalin, équipé de cette carte, est sur le terrain et qu'un <color style='color:#FFFFFFFF'>Effondrement total</color> affectant un personnage adverse est annulé : Applique un <color style='color:#FFFFFFFF'>Effondrement total</color> au prochain personnage adverse en attente. (1 fois par manche)<br>(Votre deck doit contenir Dvalin pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7424,8 +7426,8 @@ var _card = [
         },
         {
             "_id": 225011,
-            "Name": "Transcendent Automaton",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Maguu Kenki</color>, equip this card.<br>After Maguu Kenki equips this card, immediately use <color style='color:#FFD780FF'>Blustering Blade</color> once.<br>After your Maguu Kenki, who has this card equipped, uses <color style='color:#FFFFFFFF'>Blustering Blade</color>, you will switch to your next character. You will switch to your previous character when your Maguu Kenki, who has this card equipped, uses <color style='color:#FFFFFFFF'>Frosty Assault</color>.<br>(You must have Maguu Kenki in your deck to add this card to your deck.)",
+            "Name": "Automate transcendant",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est la <color style='color:#FFFFFFFF'>Lame oni</color>, équipe cette carte.<br>Une fois la Lame oni équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Lame fulgurante</color> une fois.<br>Lorsque la Lame oni équipée de cette carte a utilisé <color style='color:#FFFFFFFF'>Lame fulgurante</color> : Vous basculez pour le personnage suivant. Lorsqu'elle a utilisé <color style='color:#FFFFFFFF'>Assaut givré</color> : Vous basculez pour le personnage précédent.<br>(Votre deck doit contenir la Lame oni pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7441,8 +7443,8 @@ var _card = [
         },
         {
             "_id": 224031,
-            "Name": "Pearl Solidification",
-            "Desc": "Can only be played if your active character is <color style='color:#FFFFFFFF'>Millennial Pearl Seahorse</color>: When played, Millennial Pearl Seahorse will have <color style='color:#FFFFFFFF'>Fontemer Pearl</color> with 1 <color style='color:#FFFFFFFF'>Usage(s)</color> attached to them. If they already have Fontemer Pearl attached, <color style='color:#FFFFFFFF'>Usage(s)</color> +1 instead.<br>When the <color style='color:#FFFFFFFF'>Fontemer Pearl</color> attached to Millennial Pearl Seahorse negates DMG from Summons, change to <color style='color:#FFFFFFFF'>Usage(s)</color> not being consumed twice per Round.<br>(Your deck must contain Millennial Pearl Seahorse to add this card to your deck)",
+            "Name": "Solidification perlée",
+            "Desc": "Jouable si votre personnage actif est l'<color style='color:#FFFFFFFF'>Hippocampe perlé millénaire</color> : En arrivant sur le terrain, applique une <color style='color:#FFFFFFFF'>Perle fontemarine</color> avec 1 <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> à l'Hippocampe perlé millénaire ; si une Perle fontemarine est déjà appliquée, son <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> augmente de 1 à la place.<br>Lorsqu'une <color style='color:#FFFFFFFF'>Perle fontemarine</color> appliquée à l'Hippocampe perlé millénaire équipé de cette carte diminue des DGT d'invocations, le <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> n'est pas diminué 2 fois par manche à la place.<br>(Votre deck doit contenir l'Hippocampe perlé millénaire pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT"
             ],
@@ -7457,8 +7459,8 @@ var _card = [
         },
         {
             "_id": 224021,
-            "Name": "Grieving Echo",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Thunder Manifestation</color>, equip this card.<br>After Thunder Manifestation equips this card, immediately use <color style='color:#FFD780FF'>Strifeful Lightning</color> once.<br>When your <color style='color:#FFFFFFFF'>Thunder Manifestation</color> is on the field and has this card equipped, when an opponent with <color style='color:#FFFFFFFF'>Lightning Rod</color> attached takes DMG: You draw 1 card. (Once per Round)<br>(You must have Thunder Manifestation in your deck to add this card to your deck.)",
+            "Name": "Écho de lamentation",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est la <color style='color:#FFFFFFFF'>Manifestation du tonnerre</color>, équipe cette carte.<br>Une fois la Manifestation du tonnerre équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Foudre conflictuelle</color> une fois.<br>Lorsque la <color style='color:#FFFFFFFF'>Manifestation du tonnerre</color>, équipée de cette carte, est sur le terrain et qu'un personnage adverse affecté par un <color style='color:#FFFFFFFF'>Paratonnerre</color> subit des DGT : Vous piochez 1 carte. (1 fois par manche)<br>(Votre deck doit contenir la Manifestation du tonnerre pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7476,8 +7478,8 @@ var _card = [
         },
         {
             "_id": 223031,
-            "Name": "Scorpocalypse",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Eremite Scorching Loremaster</color>, equip this card.<br>After Eremite Scorching Loremaster equips this card, immediately use <color style='color:#FFD780FF'>Spirit of Omen's Awakening: Pyro Scorpion</color> once.<br><color style='color:#FFFFFFFF'>Spirit of Omen: Pyro Scorpion</color> created by Eremite Scorching Loremaster with this card equipped will deal +1 DMG in Rounds when Eremite Scorching Loremaster has used a <color style='color:#FFFFFFFF'>Normal Attack</color> or <color style='color:#FFFFFFFF'>Elemental Skill</color>.<br><color style='color:#FFFFFFFF'>Spirit of Omen: Pyro Scorpion</color>'s DMG reduction effect can now be triggered twice per Round.<br>(Your deck must contain Eremite Scorching Loremaster to add this card to it)",
+            "Name": "Scorpiocalypse",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est la <color style='color:#FFFFFFFF'>Lettrée incandescente des Érémites</color>, équipe cette carte.<br>Une fois la Lettrée incandescente des Érémites équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Éveil d'esprit sinistre du scorpion ardent</color> une fois.<br>Les DGT infligés par l'<color style='color:#FFFFFFFF'>Esprit sinistre du scorpion ardent</color> créé par la Lettrée incandescente des Érémites équipée de cette carte augmentent de 1 lorsque la Lettrée incandescente des Érémites a utilisé une <color style='color:#FFFFFFFF'>attaque normale</color> ou une <color style='color:#FFFFFFFF'>compétence élémentaire</color> pendant la manche.<br>L'effet de diminution des DGT de l'<color style='color:#FFFFFFFF'>Esprit sinistre du scorpion ardent</color> peut maintenant être déclenché 2 fois par manche.<br>(Votre deck doit contenir la Lettrée incandescente des Érémites pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7496,8 +7498,8 @@ var _card = [
         },
         {
             "_id": 223021,
-            "Name": "Embers Rekindled",
-            "Desc": "<color style='color:#FFFFFFFF'>When played:</color> If <color style='color:#FFFFFFFF'>Abyss Lector: Fathomless Flames</color>, who equips this card, has already triggered <color style='color:#FFFFFFFF'>Fiery Rebirth</color>, immediately discard this card and apply <color style='color:#FFFFFFFF'>Aegis of Abyssal Flame</color> to the character.<br>When Abyss Lector: Fathomless Flames, who has this card equipped, triggers <color style='color:#FFFFFFFF'>Fiery Rebirth</color>: discard this card and apply <color style='color:#FFFFFFFF'>Aegis of Abyssal Flame</color> to the character.<br>(You must have Abyss Lector: Fathomless Flames in your deck to add this card to your deck.)",
+            "Name": "Braise ravivée",
+            "Desc": "<color style='color:#FFFFFFFF'>En arrivant sur le terrain : </color>Si le <color style='color:#FFFFFFFF'>Chantre de l'Abîme - Flamme abyssale</color> qui équipe de cette carte a déjà déclenché une <color style='color:#FFFFFFFF'>Renaissance ardente</color>, défausse cette carte et accorde un <color style='color:#FFFFFFFF'>Bouclier de feu abyssal</color> au personnage.<br>Lorsqu'un Chantre de l'Abîme - Flamme abyssale équipé de cette carte déclenche une <color style='color:#FFFFFFFF'>Renaissance ardente</color> : Défausse cette carte et accorde un <color style='color:#FFFFFFFF'>Bouclier de feu abyssal</color> au personnage.<br>(Votre deck doit contenir un Chantre de l'Abîme - Flamme abyssale pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT"
             ],
@@ -7514,8 +7516,8 @@ var _card = [
         },
         {
             "_id": 223011,
-            "Name": "Paid in Full",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Fatui Pyro Agent</color>, equip this card.<br>After Fatui Pyro Agent equips this card, immediately use <color style='color:#FFD780FF'>Prowl</color> once.<br>When your Fatui Pyro Agent, who has this card equipped, creates a <color style='color:#FFFFFFFF'>Stealth</color>, it will have the following effects:<br>Starting <color style='color:#FFFFFFFF'>Usage(s)</color> +1, the [b]2100[a]<color style='color:#FFFFFFFF'>Physical DMG</color> the attached character deals will be converted to [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br>(You must have Fatui Pyro Agent in your deck to add this card to your deck.)",
+            "Name": "Paiement total",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est l'<color style='color:#FFFFFFFF'>Usurier Pyro des Fatui</color>, équipe cette carte.<br>Une fois l'Usurier Pyro des Fatui équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Opportunité</color> une fois.<br>L'<color style='color:#FFFFFFFF'>Infiltration</color> créée par l'Usurier Pyro des Fatui équipé de cette carte déclenche les effets suivants:<br><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> de départ de l'Infiltration +1 et convertit les [b]2100[a]<color style='color:#FFFFFFFF'>DGT physiques</color> infligés par le personnage affecté en [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>.<br>(Votre deck doit contenir l'Usurier Pyro des Fatui pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7536,8 +7538,8 @@ var _card = [
         },
         {
             "_id": 222021,
-            "Name": "Mirror Cage",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Mirror Maiden</color>, equip this card.<br>After Mirror Maiden equips this card, immediately use <color style='color:#FFD780FF'>Influx Blast</color> once.<br>When your Mirror Maiden, who has this card equipped, creates a <color style='color:#FFFFFFFF'>Refraction</color>, it will have the following effects:<br>Starting <color style='color:#FFFFFFFF'>Duration (Rounds)</color> +1, will increase the Elemental Dice Cost of switching from the character to which this is attached to another character by 1.<br>(You must have Mirror Maiden in your deck to add this card to your deck.)",
+            "Name": "Prison de miroir",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est la <color style='color:#FFFFFFFF'>Suivante miroir des Fatui</color>, équipe cette carte.<br>Une fois la Suivante miroir des Fatui équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Explosion d'afflux</color> une fois.<br>L'<color style='color:#FFFFFFFF'>Éclat de miroir d'eau</color> créé par la Suivante miroir des Fatui équipée de cette carte déclenche les effets suivants :<br><color style='color:#FFFFFFFF'>Durée en manches</color> de départ de l'Éclat de miroir d'eau +1 et nombre de dés élémentaires à utiliser pour basculer le personnage affecté pour un autre personnage +1.<br>(Votre deck doit contenir la Suivante miroir des Fatui pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7556,8 +7558,8 @@ var _card = [
         },
         {
             "_id": 222011,
-            "Name": "Streaming Surge",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Rhodeia of Loch</color>, equip this card.<br>After Rhodeia of Loch equips this card, immediately use <color style='color:#FFD780FF'>Tide and Torrent</color> once.<br>When your Rhodeia of Loch, who has this card equipped, uses <color style='color:#FFFFFFFF'>Tide and Torrent</color>: All of your Summon(s) gain +1 <color style='color:#FFFFFFFF'>Usage(s)</color>.<br>(You must have Rhodeia of Loch in your deck to add this card to your deck.)",
+            "Name": "Torrent déchaîné",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est l'<color style='color:#FFFFFFFF'>Océanide - Rhodeia</color>, équipe cette carte.<br>Une fois l'Océanide - Rhodeia équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Marée et torrent</color> une fois.<br>Lorsque l'Océanide - Rhodeia équipée de cette carte utilise <color style='color:#FFFFFFFF'>Marée et torrent</color> : <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> de toutes vos invocations +1.<br>(Votre deck doit contenir l'Océanide - Rhodeia pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7575,8 +7577,8 @@ var _card = [
         },
         {
             "_id": 221031,
-            "Name": "Sternfrost Prism",
-            "Desc": "Can only be played if your active character is <color style='color:#FFFFFFFF'>Cryo Hypostasis</color>: Attach <color style='color:#FFFFFFFF'>Cryo Crystal Core</color> to them.<br>After Cryo Hypostasis, who has this card equipped, triggers <color style='color:#FFFFFFFF'>Cryo Crystal Core</color>: Attach <color style='color:#FFFFFFFF'>Sheer Cold</color> to the opposing active character.<br>(Your deck must contain Cryo Hypostasis to add this card to your deck)",
+            "Name": "Prisme de givre",
+            "Desc": "Jouable si votre personnage actif est l'<color style='color:#FFFFFFFF'>Hypostase Cryo</color> : Lui applique un <color style='color:#FFFFFFFF'>Noyau cristallin Cryo</color>.<br>Lorsque l'Hypostase Cryo, équipée de cette carte, a déclenché un <color style='color:#FFFFFFFF'>Noyau cristallin Cryo</color> : Applique le <color style='color:#FFFFFFFF'>Grand froid</color> au personnage actif adverse.<br>(Votre deck doit contenir l'Hypostase Cryo pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT"
             ],
@@ -7593,8 +7595,8 @@ var _card = [
         },
         {
             "_id": 221021,
-            "Name": "Pain for Pain",
-            "Desc": "Can only be played if your active character is <color style='color:#FFFFFFFF'>La Signora</color>: When entering play, generate 3 Elemental Dice of the same Type as <color style='color:#FFFFFFFF'>La Signora</color>.<br>When this character takes at least 3 DMG: Negates 1 DMG, then apply <color style='color:#FFFFFFFF'>Sheer Cold</color> or <color style='color:#FFFFFFFF'>Blazing Heat</color> to the opposing active character based on La Signora's state. (Once per Round)<br>(Your deck must contain La Signora to add this card to your deck)",
+            "Name": "Talion de la douleur",
+            "Desc": "Jouable si votre personnage actif est <color style='color:#FFFFFFFF'>Signora</color> : En arrivant sur le terrain, crée 3 dés de l'élément actuel de <color style='color:#FFFFFFFF'>Signora</color>.<br>Lorsque le personnage subit au moins 3 pts de DGT : Diminue les DGT de 1 et applique le <color style='color:#FFFFFFFF'>Grand froid</color> ou la <color style='color:#FFFFFFFF'>Chaleur extrême</color> au personnage actif adverse selon la forme de Signora. (1 fois par manche)<br>(Votre deck doit contenir Signora pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT"
             ],
@@ -7610,8 +7612,8 @@ var _card = [
         },
         {
             "_id": 221011,
-            "Name": "Cicin's Cold Glare",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Fatui Cryo Cicin Mage</color>, equip this card.<br>After Fatui Cryo Cicin Mage equips this card, immediately use <color style='color:#FFD780FF'>Misty Summons</color> once.<br>After your Fatui Cryo Cicin Mage, who has this card equipped, uses a Skill: If <color style='color:#FFFFFFFF'>Cryo Cicins</color>' <color style='color:#FFFFFFFF'>Usage(s)</color> have exceeded their upper limit, deal 2 [b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color>.<br>(You must have Fatui Cryo Cicin Mage in your deck to add this card to your deck.)",
+            "Name": "Regard de Cryoluciole",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est le <color style='color:#FFFFFFFF'>Mage cryoluciole des Fatui</color>, équipe cette carte.<br>Une fois le Mage cryoluciole des Fatui équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Appel brumeux</color> une fois.<br>Lorsque le Mage cryoluciole des Fatui équipé de cette carte a utilisé une capacité : Si les cumuls du <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> de la <color style='color:#FFFFFFFF'>Cryoluciole</color> dépassent la limite, elle inflige 2 pts de [b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color>.<br>(Votre deck doit contenir le Mage cryoluciole des Fatui pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7632,7 +7634,7 @@ var _card = [
         {
             "_id": 217061,
             "Name": "Structuration",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Alhaitham</color>, equip this card.<br>After Alhaitham equips this card, immediately use <color style='color:#FFD780FF'>Particular Field: Fetters of Phenomena</color> once.<br>When your Alhaitham, who has this card equipped, uses <color style='color:#FFFFFFFF'>Particular Field: Fetters of Phenomena</color>, if the character consumes a <color style='color:#FFFFFFFF'>Chisel-Light Mirror</color> with at least 1 <color style='color:#FFFFFFFF'>Duration (Rounds)</color>, then always attach <color style='color:#FFFFFFFF'>Chisel-Light Mirror</color> with 3 <color style='color:#FFFFFFFF'>Duration (Rounds)</color> and draw 1 card.<br>(You must have Alhaitham in your deck to add this card to your deck.)",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Alhaitham</color>, équipe cette carte.<br>Une fois Alhaitham équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Champ particulier : Liens de phénomène</color> une fois.<br>Lorsqu'Alhaitham, équipé de cette carte, utilise <color style='color:#FFFFFFFF'>Champ particulier : Liens de phénomène</color> : Si la <color style='color:#FFFFFFFF'>Durée en manches</color> utilisée du <color style='color:#FFFFFFFF'>Miroir de diffraction</color> est au moins égale à 1, un <color style='color:#FFFFFFFF'>Miroir de diffraction</color> avec une <color style='color:#FFFFFFFF'>Durée en manches</color> de 3 est accordé et vous piochez 1 carte.<br>(Votre deck doit contenir Alhaitham pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7652,8 +7654,8 @@ var _card = [
         },
         {
             "_id": 217051,
-            "Name": "All Things Are of the Earth",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Baizhu</color>, equip this card.<br>After Baizhu equips this card, immediately use <color style='color:#FFD780FF'>Holistic Revivification</color> once.<br>When your Baizhu, who has this card equipped, is on the field, when <color style='color:#FFFFFFFF'>Seamless Shield</color> activates a healing effect, generate 1 Elemental Dice of the same type as your active character.<br>(You must have Baizhu in your deck to add this card to your deck)",
+            "Name": "Terre mère",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Baizhu</color>, équipe cette carte.<br>Une fois Baizhu équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Reviviscence holistique</color> une fois.<br>Lorsque Baizhu, équipé de cette carte, est sur le terrain : Crée 1 dé du type élémentaire de votre personnage actif lorsqu'un <color style='color:#FFFFFFFF'>Bouclier aseptique</color> déclenche un effet de soins.<br>(Votre deck doit contenir Baizhu pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7672,8 +7674,8 @@ var _card = [
         },
         {
             "_id": 217041,
-            "Name": "Beneficent",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Yaoyao</color>, equip this card.<br>After Yaoyao equips this card, immediately use <color style='color:#FFD780FF'>Raphanus Sky Cluster</color> once.<br>When <color style='color:#FFFFFFFF'>Yuegui: Throwing Mode</color> is created by your Yaoyao, who has this card equipped, and it has only 1 <color style='color:#FFFFFFFF'>Usage(s)</color> remaining, it deals +1 DMG and healing is increased by 1.<br>(You must have Yaoyao in your deck to add this card to your deck.)",
+            "Name": "Bénévolence",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Yaoyao</color>, équipe cette carte.<br>Une fois Yaoyao équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Amas céleste de raphanus</color> une fois.<br>Lorsque que le <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> d'un <color style='color:#FFFFFFFF'>Yuegui lanceur</color> créé par Yaoyao équipée de cette carte est égal à 1 : DGT et soins +1.<br>(Votre deck doit contenir Yaoyao pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7692,8 +7694,8 @@ var _card = [
         },
         {
             "_id": 217031,
-            "Name": "The Seed of Stored Knowledge",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Nahida</color>, equip this card.<br>After Nahida equips this card, immediately use <color style='color:#FFD780FF'>Illusory Heart</color> once.<br>When your Nahida, who has this card equipped, is on the field, the following effects will take place based on your party's Elemental Types:<br>[b]2103[a]<color style='color:#FF9999FF'>Pyro</color>: When the <color style='color:#FFFFFFFF'>Shrine of Maya</color> is on the field, opposing characters who trigger the <color style='color:#FFFFFFFF'>Seed of Skandha</color> due to Elemental Reactions they are affected by will have the <color style='color:#FFFFFFFF'>Piercing DMG</color> they take from the <color style='color:#FFFFFFFF'>Seed of Skandha</color> converted to [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>.<br>[b]2104[a]<color style='color:#FFACFFFF'>Electro</color>: When the <color style='color:#FFFFFFFF'>Shrine of Maya</color> enters the field, the <color style='color:#FFFFFFFF'>Seed of Skandha</color> currently present of the opposition will gain 1 <color style='color:#FFFFFFFF'>Usage(s)</color>.<br>[b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>: After your Nahida, who has this card equipped unleashes <color style='color:#FFFFFFFF'>Shrine of Maya</color>, <color style='color:#FFFFFFFF'>Duration (Rounds)</color> +1.<br>(You must have Nahida in your deck to add this card to your deck.)",
+            "Name": "Graine du savoir emmagasiné",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Nahida</color>, équipe cette carte.<br>Une fois Nahida équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Cœur illusoire</color> une fois.<br>Lorsque Nahida, équipée de cette carte, est sur le terrain, les effets suivants s'appliquent selon les types élémentaires de votre équipe :<br>[b]2103[a]<color style='color:#FF9999FF'>Pyro</color> : Lorsqu'un <color style='color:#FFFFFFFF'>Sanctuaire de Maya</color> est sur le terrain, si un personnage adverse déclenche une <color style='color:#FFFFFFFF'>Graine de Skandha</color> en subissant une réaction élémentaire, les <color style='color:#FFFFFFFF'>DGT de perforation</color> qu'il subit à cause de la <color style='color:#FFFFFFFF'>Graine de Skandha</color> sont convertis en [b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color>.<br>[b]2104[a]<color style='color:#FFACFFFF'>Électro</color> : Lorsqu'un <color style='color:#FFFFFFFF'>Sanctuaire de Maya</color> arrive sur le terrain, <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> des <color style='color:#FFFFFFFF'>Graine de Skandha</color> actuellement sur le terrain adverse +1.<br>[b]2102[a]<color style='color:#80C0FFFF'>Hydro</color> : <color style='color:#FFFFFFFF'>Durée en manches</color> de départ du <color style='color:#FFFFFFFF'>Sanctuaire de Maya</color> généré par Nahida équipée de cette carte +1.<br>(Votre deck doit contenir Nahida pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7717,8 +7719,8 @@ var _card = [
         },
         {
             "_id": 217021,
-            "Name": "Keen Sight",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Tighnari</color>, equip this card.<br>After Tighnari equips this card, immediately use <color style='color:#FFD780FF'>Vijnana-Phala Mine</color> once.<br>When your Tighnari, who has this card equipped, is affected by <color style='color:#FFFFFFFF'>Vijnana Suffusion</color>, the character's <color style='color:#FFFFFFFF'>Charged Attack</color> costs 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>.<br>(You must have Tighnari in your deck to add this card to your deck.)",
+            "Name": "Vue aiguë",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Tighnari</color>, équipe cette carte.<br>Une fois Tighnari équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Mine de vijnana-phala</color> une fois.<br>Pendant que Tighnari, équipé de cette carte, est affecté par l'état <color style='color:#FFFFFFFF'>Suffusion de vijnana</color> : Utiliser une <color style='color:#FFFFFFFF'>Attaque chargée</color> dépense 1 dé d'<color style='color:#FFFFFFFF'>[b]1109[a]Élément neutre</color> en moins.<br>(Votre deck doit contenir Tighnari pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7738,8 +7740,8 @@ var _card = [
         },
         {
             "_id": 217011,
-            "Name": "Floral Sidewinder",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Collei</color>, equip this card.<br>After Collei equips this card, immediately use <color style='color:#FFD780FF'>Floral Brush</color> once.<br>After your Collei, who has this card equipped, <color style='color:#FFFFFFFF'>uses Floral Brush</color>, during this Round, when your characters' Skills trigger <color style='color:#7EC236FF'>[b]2107[a]Dendro-Related Reactions</color>: Deal 1 [b]2107[a]<color style='color:#7EC236FF'>Dendro DMG</color>. (Once per Round)<br>(You must have Collei in your deck to add this card to your deck.)",
+            "Name": "Retour folié",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Collei</color>, équipe cette carte.<br>Une fois Collei équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Brosse florale</color> une fois.<br>Pendant la manche durant laquelle Collei, équipée de cette carte, utilise <color style='color:#FFFFFFFF'>Brosse florale</color>, si une capacité d'un de vos personnages a déclenché une <color style='color:#7EC236FF'>Réaction liée à l'élément [b]2107[a]Dendro</color> : Inflige 1 pt de [b]2107[a]<color style='color:#7EC236FF'>DGT Dendro</color>. (1 fois par manche)<br>(Votre deck doit contenir Collei pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7757,8 +7759,8 @@ var _card = [
         },
         {
             "_id": 216061,
-            "Name": "Rushing Hound: Swift as the Wind",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Gorou</color>, equip this card.<br>After Gorou equips this card, immediately use <color style='color:#FFD780FF'>Inuzaka All-Round Defense</color> once.<br>When your Gorou, who has this card equipped, is on the field, and after any of your characters deals [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>: If <color style='color:#FFFFFFFF'>General's War Banner</color> is in play, draw 1 card. (Once per Round)<br>(You must have Gorou in your deck to add this card to your deck.)",
+            "Name": "Vivacité canine : Célérité du vent",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Gorou</color>, équipe cette carte.<br>Une fois Gorou équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Défense intégrale d'Inuzaka</color> une fois.<br>Lorsque Gorou, équipé de cette carte, est sur le terrain et qu'un de vos personnages a infligé des [b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color> : Pioche 1 carte si une <color style='color:#FFFFFFFF'>Bannière de général</color> est sur le terrain. (1 fois par manche)<br>(Votre deck doit contenir Gorou pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7777,8 +7779,8 @@ var _card = [
         },
         {
             "_id": 216051,
-            "Name": "Arataki Ichiban",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Arataki Itto</color>, equip this card.<br>After Arataki Itto equips this card, immediately use <color style='color:#FFD780FF'>Fight Club Legend</color> once.<br>After your Arataki Itto, who has this card equipped, uses <color style='color:#FFFFFFFF'>Fight Club Legend</color> for the second time or more in one Round: If <color style='color:#FFFFFFFF'>Superlative Superstrength</color> is triggered, deal +1 additional DMG.<br>(You must have Arataki Itto in your deck to add this card to your deck.)",
+            "Name": "Arataki au top",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Arataki Itto</color>, équipe cette carte.<br>Une fois Arataki Itto équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Légende de la baston</color> une fois.<br>Lorsqu'Arataki Itto, équipé de cette carte, utilise <color style='color:#FFFFFFFF'>Légende de la baston</color> une 2e fois ou plus lors d'une manche : Si une <color style='color:#FFFFFFFF'>Mégaforce superlative</color> est déclenchée, DGT supplémentaires +1.<br>(Votre deck doit contenir Arataki Itto pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7796,8 +7798,8 @@ var _card = [
         },
         {
             "_id": 216041,
-            "Name": "Descent of Divinity",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Albedo</color>, equip this card.<br>After Albedo equips this card, immediately use <color style='color:#FFD780FF'>Abiogenesis: Solar Isotoma</color>.<br>When there is Albedo on the field who has this card equipped, if your side of the field has <color style='color:#FFFFFFFF'>Solar Isotoma</color>, then your characters' <color style='color:#FFFFFFFF'>Plunging Attack</color> deals +1 DMG.<br>(You must have Albedo in your deck to add this card to your deck.)",
+            "Name": "Chute divine",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Albedo</color>, équipe cette carte.<br>Une fois Albedo équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Genèse : Aura solaire</color> une fois.<br>Lorsque Albedo, équipé de cette carte, est sur le terrain : Si une <color style='color:#FFFFFFFF'>Aura solaire</color> est sur votre terrain, DGT des <color style='color:#FFFFFFFF'>Attaque plongeante</color> de vos personnages +1.<br>(Votre deck doit contenir Albedo pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7816,8 +7818,8 @@ var _card = [
         },
         {
             "_id": 216031,
-            "Name": "Dominance of Earth",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Zhongli</color>, equip this card.<br>After Zhongli equips this card, immediately use <color style='color:#FFD780FF'>Dominus Lapidis: Striking Stone</color> once.<br>When your active character is protected by a [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> Character Status or a [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> Combat Status, your Summons deal +1 [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color>.<br>(You must have Zhongli in your deck to add this card to your deck.)",
+            "Name": "Domination de la Terre",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Zhongli</color>, équipe cette carte.<br>Une fois Zhongli équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Dominus Lapidis : Roc destructeur</color> une fois.<br>Lorsque votre personnage actif est protégé par un état de personnage « [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> » ou un état de déploiement « [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> » : [b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color> infligés par vos invocations +1.<br>(Votre deck doit contenir Zhongli pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7835,8 +7837,8 @@ var _card = [
         },
         {
             "_id": 216021,
-            "Name": "I Got Your Back",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Noelle</color>, equip this card.<br>After Noelle equips this card, immediately use <color style='color:#FFD780FF'>Breastplate</color> once.<br>After <color style='color:#FFFFFFFF'>Noelle uses a Normal Attack:</color> If this card and <color style='color:#FFFFFFFF'>Full Plate</color> are both still in play, heal all your characters for 1 HP. (Once per Round)<br>(You must have Noelle in your deck to add this card to your deck.)",
+            "Name": "J'assure vos arrières",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Noëlle</color>, équipe cette carte.<br>Une fois Noëlle équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Armure de cœur</color> une fois.<br>Lorsque Noëlle a utilisé une <color style='color:#FFFFFFFF'>attaque normale</color> : Si cette carte et l'<color style='color:#FFFFFFFF'>Armure complète</color> sont sur le terrain, soigne tous vos personnages pour 1 pt. (1 fois par manche)<br>(Votre deck doit contenir Noëlle pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7854,8 +7856,8 @@ var _card = [
         },
         {
             "_id": 216011,
-            "Name": "Strategic Reserve",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Ningguang</color>, equip this card.<br>After Ningguang equips this card, immediately use <color style='color:#FFD780FF'>Jade Screen</color> once.<br>When your Ningguang, who has this card equipped, is on the field, <color style='color:#FFFFFFFF'>Jade Screen</color> will cause you to deal +1 <color style='color:#FFE699FF'>[b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color></color>.<br>(You must have Ningguang in your deck to add this card to your deck.)",
+            "Name": "Réserve stratégique",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Ningguang</color>, équipe cette carte.<br>Une fois Ningguang équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Paravent d'astrolabe</color> une fois.<br>Lorsque Ningguang, équipée de cette carte, est sur le terrain : Le <color style='color:#FFFFFFFF'>Paravent d'astrolabe</color> augmente les <color style='color:#FFE699FF'>[b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color></color> que vous infligez de 1.<br>(Votre deck doit contenir Ningguang pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7874,8 +7876,8 @@ var _card = [
         },
         {
             "_id": 215081,
-            "Name": "A Cold Blade Like a Shadow",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Lynette</color>, equip this card.<br>After Lynette equips this card, immediately use <color style='color:#FFD780FF'>Enigmatic Feint</color> once.<br>After your Lynette, who has this card equipped, uses <color style='color:#FFFFFFFF'>Enigmatic Feint</color> for the second time this Round: deals +2 DMG and forces your opponent to switch to their previous character.<br>(You must have Lynette in your deck to add this card to your deck.)",
+            "Name": "Lame d'ombre frisquette",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Lynette</color>, équipe cette carte.<br>Une fois Lynette équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Feinte sibylline</color> une fois.<br>Lorsque Lynette, équipée de cette carte, utilise <color style='color:#FFFFFFFF'>Feinte sibylline</color> une 2e fois dans une manche : DGT +2 et bascule de force l'adversaire pour le personnage précédent.<br>(Votre deck doit contenir Lynette pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7891,8 +7893,8 @@ var _card = [
         },
         {
             "_id": 215071,
-            "Name": "Skiving: New and Improved",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Sayu</color>, equip this card.<br>When Sayu equips this card, immediately use <color style='color:#FFD780FF'>Yoohoo Art: Fuuin Dash</color> once.<br>When your Sayu who has this card equipped is the active character, draw 2 cards when you trigger a Swirl reaction. (Once per Round)<br>(You must have Sayu in your deck to add this card to your deck.)",
+            "Name": "Paresse revue et améliorée",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Sayu</color>, équipe cette carte.<br>Une fois Sayu équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>École Yoohoo : Course Fuuin</color> une fois.<br>Lorsque Sayu, équipée de cette carte, est le personnage actif : Vous piochez 2 cartes lorsque vous déclenchez une réaction de Dispersion. (1 fois par manche)<br>(Votre deck doit contenir Sayu pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7908,8 +7910,8 @@ var _card = [
         },
         {
             "_id": 215061,
-            "Name": "Gales of Reverie",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>???</color>, equip this card.<br>After ??? equips this card, immediately use <color style='color:#FFD780FF'>Hanega: Song of the Wind</color> once.<br>When your ???, who has this card equipped, is in <color style='color:#FFFFFFFF'>Windfavored</color> state and after using <color style='color:#FFFFFFFF'>Charged Attack</color>: you will spend 1 less Elemental Die the next time you use \"Switch Character\" and deal 1 [b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color>.<br>(You must have ??? in your deck to add this card to your deck.)",
+            "Name": "Rafales de rêverie",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>???</color>, équipe cette carte.<br>Une fois ??? équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Hanega : Lyrisme des vents</color> une fois.<br>Lorsque ???, équipé de cette carte, a effectué une <color style='color:#FFFFFFFF'>Attaque chargée</color> en étant sous l'effet d'un <color style='color:#FFFFFFFF'>Bienfait venteux</color> : Le prochain changement de personnage depuis cette carte coûte 1 dé élémentaire en moins et inflige 1 pt de [b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color>.<br>(Votre deck doit contenir ??? pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7929,8 +7931,8 @@ var _card = [
         },
         {
             "_id": 215051,
-            "Name": "Poetics of Fuubutsu",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When <color style='color:#FFFFFFFF'>Kaedehara Kazuha</color> is your active character, equip this card.<br>After Kaedehara Kazuha equips this card, he will immediately use <color style='color:#FFD780FF'>Chihayaburu</color> once.<br>After Kaedehara Kazuha triggers Swirl with this card equipped: For the next 2 instances, your Characters and Summons will deal +1 DMG for the Elemental Type Swirled. (Each Elemental Type is counted independently)<br>(You must have Kaedehara Kazuha in your deck to add this card to your deck.)",
+            "Name": "Haïku de la brise",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Kaedehara Kazuha</color>, équipe cette carte.<br>Une fois Kaedehara Kazuha équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Véhémence divine</color> une fois.<br>Lorsque Kaedehara Kazuha, équipé de cette carte, a déclenché une réaction de Dispersion : DGT de l'élément dispersé que vos personnages et invocations infligent +1 pour les 2 prochaines utilisations. (Chaque type élémentaire est compté indépendamment)<br>(Votre deck doit contenir Kaedehara Kazuha pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7946,8 +7948,8 @@ var _card = [
         },
         {
             "_id": 215041,
-            "Name": "Conqueror of Evil: Guardian Yaksha",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Xiao</color>, equip this card.<br>After Xiao equips this card, immediately use <color style='color:#FFD780FF'>Bane of All Evil</color> once.<br>While your Xiao has <color style='color:#FFFFFFFF'>Yaksha's Mask</color> attached, your use of <color style='color:#FFFFFFFF'>Lemniscatic Wind Cycling</color> will cost 1 less [b]1105[a]<color style='color:#80FFD7FF'>Anemo Die</color>. (Every attachment of <color style='color:#FFFFFFFF'>Yaksha's Mask</color> allows the effect to be triggered twice)<br>(You must have Xiao in your deck to add this card to your deck.)",
+            "Name": "Dompteur de démons : Gardien Yaksha",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Xiao</color>, équipe cette carte.<br>Une fois Xiao équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Fléau du mal</color> une fois.<br>Lorsque Xiao, équipé de cette carte et affecté par un <color style='color:#FFFFFFFF'>Masque du Yaksha</color>, utilise <color style='color:#FFFFFFFF'>Cycle du vent lemniscatique</color>: Dépense 1 dé [b]1105[a]<color style='color:#80FFD7FF'>Anémo</color> en moins. (Déclenché 2 fois maximum par <color style='color:#FFFFFFFF'>Masque du Yaksha</color>)<br>(Votre deck doit contenir Xiao pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7966,8 +7968,8 @@ var _card = [
         },
         {
             "_id": 215031,
-            "Name": "Embrace of Winds",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Venti</color>, equip this card.<br>After Venti equips this card, immediately use <color style='color:#FFD780FF'>Skyward Sonnet</color> once.<br>After a <color style='color:#FFFFFFFF'>Stormzone</color> created by your Venti, who has this card equipped, is triggered, the next <color style='color:#FFFFFFFF'>Normal Attack</color> performed by your character in this Round will cost 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>.<br>(You must have Venti in your deck to add this card to your deck.)",
+            "Name": "Embrasse des vents",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Venti</color>, équipe cette carte.<br>Une fois Venti équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Sonnet des Vents célestes</color> une fois.<br>Lorsqu'une <color style='color:#FFFFFFFF'>Bourrasque</color> créée par Venti équipé de cette carte a été déclenchée: La prochaine <color style='color:#FFFFFFFF'>attaque normale</color> de votre personnage pendant la manche dépense 1 dé d'<color style='color:#FFFFFFFF'>[b]1109[a]Élément neutre</color> en moins.<br>(Votre deck doit contenir Venti pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -7986,8 +7988,8 @@ var _card = [
         },
         {
             "_id": 215021,
-            "Name": "Lands of Dandelion",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Jean</color>, equip this card.<br>After Jean equips this card, immediately use <color style='color:#FFD780FF'>Dandelion Breeze</color> once.<br>When your Jean, who has this card equipped, is on the field, <color style='color:#FFFFFFFF'>Dandelion Field</color> will cause you to deal +1 <color style='color:#80FFD7FF'>[b]2105[a]<color style='color:#80FFD7FF'>Anemo DMG</color></color>.<br>(You must have Jean in your deck to add this card to your deck.)",
+            "Name": "Territoire des pissenlits",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Jean</color>, équipe cette carte.<br>Une fois Jean équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Brise de pissenlit</color> une fois.<br>Lorsque Jean, équipée de cette carte, est sur le terrain : Le <color style='color:#FFFFFFFF'>Champ de pissenlits</color> augmente les <color style='color:#80FFD7FF'>[b]2105[a]<color style='color:#80FFD7FF'>DGT Anémo</color></color> que vous infligez de 1.<br>(Votre deck doit contenir Jean pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8007,8 +8009,8 @@ var _card = [
         },
         {
             "_id": 215011,
-            "Name": "Chaotic Entropy",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Sucrose</color>, equip this card.<br>After Sucrose equips this card, immediately use <color style='color:#FFD780FF'>Forbidden Creation - Isomer 75 / Type II</color> once.<br>After the <color style='color:#FFFFFFFF'>Large Wind Spirit</color> created by your Sucrose, who had this card equipped, has converted to another Elemental Type: Deal +1 DMG of this Elemental Type.<br>(You must have Sucrose in your deck to add this card to your deck.)",
+            "Name": "Théorie de l'entropie",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Sucrose</color>, équipe cette carte.<br>Une fois Sucrose équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Esprit du vent : Isomorphe 75 TypeII</color> une fois.<br>Lorsque l'<color style='color:#FFFFFFFF'>Esprit du vent de grande taille</color> créé par Sucrose équipée de cette carte a converti son type élémentaire : DGT de ce type élémentaire que vous infligez +1.<br>(Votre deck doit contenir Sucrose pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8027,8 +8029,8 @@ var _card = [
         },
         {
             "_id": 214101,
-            "Name": "Discretionary Supplement",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Dori</color>, equip this card.<br>After Dori equips this card, immediately use <color style='color:#FFD780FF'>Alcazarzaray's Exactitude</color> once.<br>The <color style='color:#FFFFFFFF'>Jinni</color> summoned by your Dori who has this card equipped heals 1 more HP when healing characters with no more than 6 HP, and increases the amount of <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color> gained by characters with no <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color> by 1 when <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color> is gained.<br>(You must have Dori in your deck to add this card to your deck)",
+            "Name": "Supplément discrétionnaire",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Dori</color>, équipe cette carte.<br>Une fois Dori équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Méticulosité d'Alcazarzaray</color> une fois.<br>Un <color style='color:#FFFFFFFF'>Djinn</color> invoqué par Dori équipée de cette carte soigne les personnages ayant 6 PV ou moins pour 1 PV de plus et accorde aux personnages sans <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color> 1 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color> supplémentaire.<br>(Votre deck doit contenir Dori pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8048,8 +8050,8 @@ var _card = [
         },
         {
             "_id": 214091,
-            "Name": "Pulsating Witch",
-            "Desc": "After you switch to <color style='color:#FFFFFFFF'>Lisa</color>, who has this card equipped: Attach <color style='color:#FFFFFFFF'>Conductive</color> to the opposing active character. (Once per Round)<br>(You must have Lisa in your deck to add this card to your deck.)",
+            "Name": "Sorcière de pulse",
+            "Desc": "En basculant pour <color style='color:#FFFFFFFF'>Lisa</color> équipée de cette carte : Inflige l'état <color style='color:#FFFFFFFF'>Conductivité</color> au personnage actif adverse. (1 fois par manche)<br>(Votre deck doit contenir Lisa pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT"
             ],
@@ -8064,8 +8066,8 @@ var _card = [
         },
         {
             "_id": 214081,
-            "Name": "The Shrine's Sacred Shade",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Yae Miko</color>, equip this card.<br>After Yae Miko equips this card, immediately use <color style='color:#FFD780FF'>Great Secret Art: Tenko Kenshin</color> once.<br>After your Yae Miko, who has this card equipped, destroys a <color style='color:#FFFFFFFF'>Sesshou Sakura</color> through <color style='color:#FFFFFFFF'>Great Secret Art: Tenko Kenshin</color>: The next use of <color style='color:#FFFFFFFF'>Yakan Evocation: Sesshou Sakura</color> this Round will cost 2 less Elemental Dice.<br>(You must have Yae Miko in your deck to add this card to your deck.)",
+            "Name": "Ombre sacrée du sanctuaire",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Yae Miko</color>, équipe cette carte.<br>Une fois Yae Miko équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Technique secrète: Incarnation de tenko</color> une fois.<br>Lorsque Yae Miko, équipée de cette carte, a détruit un <color style='color:#FFFFFFFF'>Sakura dévastateur</color> avec <color style='color:#FFFFFFFF'>Technique secrète: Incarnation de tenko</color> : La prochaine utilisation de <color style='color:#FFFFFFFF'>Évocation des yakan : Sakura dévastateur</color> pendant la manche dépense 2 dés élémentaires en moins.<br>(Votre deck doit contenir Yae Miko pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8084,8 +8086,8 @@ var _card = [
         },
         {
             "_id": 214071,
-            "Name": "Wishes Unnumbered",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Raiden Shogun</color>, equip this card.<br>After Raiden Shogun equips this card, immediately use <color style='color:#FFD780FF'>Secret Art: Musou Shinsetsu</color> once.<br>When your Raiden Shogun, who has this card equipped, uses <color style='color:#FFFFFFFF'>Secret Art: Musou Shinsetsu</color>: It will deal +1 additional DMG for every point of Resolve consumed.<br>(You must have Raiden Shogun in your deck to add this card to your deck.)",
+            "Name": "Souhaits innombrables",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est la <color style='color:#FFFFFFFF'>Shogun Raiden</color>, équipe cette carte.<br>Une fois la Shogun Raiden équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Art secret : Dogme d'idéal</color> une fois.<br>Lorsque la Shogun Raiden équipée de cette carte utilise <color style='color:#FFFFFFFF'>Art secret : Dogme d'idéal</color> : DGT supplémentaires infligés +1 pour chaque point de résolution consommé.<br>(Votre deck doit contenir la Shogun Raiden pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8102,8 +8104,8 @@ var _card = [
         },
         {
             "_id": 214061,
-            "Name": "Sin of Pride",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Kujou Sara</color>, equip this card.<br>After Kujou Sara equips this card, immediately use <color style='color:#FFD780FF'>Tengu Stormcall</color> once.<br>When Kujou Sara is active and has this card equipped, all allied [b]2104[a]<color style='color:#FFACFFFF'>Electro</color> characters with <color style='color:#FFFFFFFF'>Crowfeather Cover</color> will deal +1 additional <color style='color:#FFFFFFFF'>Elemental Skill</color> and <color style='color:#FFFFFFFF'>Elemental Burst</color> DMG.<br>(You must have Kujou Sara in your deck to add this card to your deck.)",
+            "Name": "Péché d'orgueil",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Kujou Sara</color>, équipe cette carte.<br>Une fois Kujou Sara équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Tempestrier tengu</color> une fois.<br>Lorsque Kujou Sara, équipée de cette carte, est sur le terrain : DGT supplémentaires infligés par les <color style='color:#FFFFFFFF'>compétences</color><color style='color:#FFFFFFFF'> et déchaînements élémentaires</color> de vos personnages [b]2104[a]<color style='color:#FFACFFFF'>Électro</color> affectés par <color style='color:#FFFFFFFF'>Couverture corvidée</color> +1.<br>(Votre deck doit contenir Kujou Sara pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8121,8 +8123,8 @@ var _card = [
         },
         {
             "_id": 214051,
-            "Name": "Lightning Storm",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Beidou</color>, equip this card.<br>After Beidou equips this card, immediately use <color style='color:#FFD780FF'>Tidecaller</color> once.<br>Aftern Beidou, who has this card equipped, uses <color style='color:#FFFFFFFF'>Wavestrider</color>: Beidou's Normal Attacks this Round will cost 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>. (Can be triggered 2 times)<br>(You must have Beidou in your deck to add this card to your deck.)",
+            "Name": "Tempête de coups de tonnerre",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Beidou</color>, équipe cette carte.<br>Une fois Beidou équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Invocation des marées</color> une fois.<br>Lorsque Beidou, équipée de cette carte, a utilisé <color style='color:#FFFFFFFF'>Conquête des marées</color> : L'attaque normale de Beidou dépense 1 dé d'<color style='color:#FFFFFFFF'>[b]1109[a]Élément neutre</color> en moins pendant la manche. (Déclenché 2 fois maximum)<br>(Votre deck doit contenir Beidou pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8139,8 +8141,8 @@ var _card = [
         },
         {
             "_id": 214041,
-            "Name": "Featherfall Judgment",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Cyno</color>, equip this card.<br>After Cyno equips this card, immediately use <color style='color:#FFD780FF'>Secret Rite: Chasmic Soulfarer</color> once.<br>When your Cyno, who has this card equipped, uses <color style='color:#FFFFFFFF'>Secret Rite: Chasmic Soulfarer</color> while having an even number of level of <color style='color:#FFFFFFFF'>Pactsworn Pathclearer</color>'s Indwelling effect, deal +1 DMG.<br>(You must have Cyno in your deck to add this card to your deck.)",
+            "Name": "Jugement des plumes",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Cyno</color>, équipe cette carte.<br>Une fois Cyno équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Rite : Traversée abyssale</color> une fois.<br>Lorsque Cyno, équipé de cette carte, utilise <color style='color:#FFFFFFFF'>Rite : Traversée abyssale</color> avec un niv. de Possession de l'<color style='color:#FFFFFFFF'>Éclaireur sermenté</color> de valeur paire : DGT infligés +1.<br>(Votre deck doit contenir Cyno pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8158,8 +8160,8 @@ var _card = [
         },
         {
             "_id": 214021,
-            "Name": "Awakening",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Razor</color>, equip this card.<br>After Razor equips this card, immediately use <color style='color:#FFD780FF'>Claw and Thunder</color> once.<br>After your Razor, who has this card equipped, uses <color style='color:#FFFFFFFF'>Claw and Thunder</color>: One of your Electro characters gains 1 Energy. (One per Round, active character prioritized)<br>(You must have Razor in your deck to add this card to your deck.)",
+            "Name": "Éveil",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Razor</color>, équipe cette carte.<br>Une fois Razor équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Griffe et tonnerre</color> une fois.<br>Lorsque Razor, équipé de cette carte, a utilisé <color style='color:#FFFFFFFF'>Griffe et tonnerre</color> : Accorde 1 charge à un de vos personnages Électro. (1 fois par manche, priorité au personnage actif)<br>(Votre deck doit contenir Razor pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8175,8 +8177,8 @@ var _card = [
         },
         {
             "_id": 214011,
-            "Name": "Stellar Predator",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Fischl</color>, equip this card.<br>After Fischl equips this card, immediately use <color style='color:#FFD780FF'>Nightrider</color> once.<br>When your Fischl, who has this card equipped, creates an <color style='color:#FFFFFFFF'>Oz</color>, <color style='color:#FFFFFFFF'>Oz</color> will gain the following effect:  after Fischl uses a <color style='color:#FFFFFFFF'>Normal Attack</color>: Deal 2 [b]2104[a]<color style='color:#FFACFFFF'>Electro DMG</color>. (Consumes <color style='color:#FFFFFFFF'>Usage(s)</color>)<br>(You must have Fischl in your deck to add this card to your deck.)",
+            "Name": "Corbeau maléfique",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Fischl</color>, équipe cette carte.<br>Une fois Fischl équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Ailes de surveillance nocturne</color> une fois.<br>L'<color style='color:#FFFFFFFF'>Oz</color> créé par Fischl équipée de cette carte inflige 2 pts de [b]2104[a]<color style='color:#FFACFFFF'>DGT Électro</color> après une <color style='color:#FFFFFFFF'>attaque normale</color> de Fischl. (Diminue le <color style='color:#FFFFFFFF'>Nombre d'utilisations</color>)<br>(Votre deck doit contenir Fischl pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8196,8 +8198,8 @@ var _card = [
         },
         {
             "_id": 213111,
-            "Name": "A Subordinate's Skills",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Thoma</color>, equip this card.<br>After Thoma equips this card, immediately use <color style='color:#FFD780FF'>Crimson Ooyoroi</color> once.<br>When your Thoma, who has this card equipped, creates a <color style='color:#FFFFFFFF'>Scorching Ooyoroi</color>, its starting <color style='color:#FFFFFFFF'>Usage(s)</color> +1.<br>(You must have Thoma in your deck to add this card to your deck.)",
+            "Name": "Compétences de subordonné",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Thomas</color>, équipe cette carte.<br>Une fois Thomas équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>O-yoroi écarlate</color> une fois.<br><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> de départ de l'<color style='color:#FFFFFFFF'>O-yoroi embrasé</color> créé par Thomas équipé de cette carte +1.<br>(Votre deck doit contenir Thomas pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8217,8 +8219,8 @@ var _card = [
         },
         {
             "_id": 213101,
-            "Name": "Conclusive Ovation",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Lyney</color>, equip this card.<br>After Lyney equips this card, immediately use <color style='color:#FFD780FF'>Prop Arrow</color>.<br>When Lyney is on the field and has this card equipped, the DMG dealt by Lyney and your <color style='color:#FFFFFFFF'>Grin-Malkin Hat</color> will deal +2 DMG to characters <color style='color:#FF9999FF'>affected by [b]2103[a]Pyro</color>. (Once per Round)<br>(You must have Lyney in your deck to add this card to your deck.)",
+            "Name": "Ovation concluante",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Lyney</color>, équipe cette carte.<br>Une fois Lyney équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Flèche postiche</color> une fois.<br>Lorsque Lyney, équipé de cette carte, est sur le terrain : Les DGT infligés par Lyney et par le <color style='color:#FFFFFFFF'>Chapeau félinois</color> aux personnages <color style='color:#FF9999FF'>affectés par l'élément [b]2103[a]Pyro</color> augmentent de 2. (1 fois par manche)<br>(Votre deck doit contenir Lyney pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8236,8 +8238,8 @@ var _card = [
         },
         {
             "_id": 213091,
-            "Name": "Stalwart and True",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Dehya</color>, equip this card.<br>After Dehya equips this card, immediately use <color style='color:#FFD780FF'>Molten Inferno</color> once.<br>End Phase: If your Dehya, who has this card equipped, has no more than 6 HP, heal that character for 2HP.<br>(You must have Dehya in your deck to add this card to your deck.)",
+            "Name": "Rectitude",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Dehya</color>, équipe cette carte.<br>Une fois Dehya équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Enfer en fusion</color> une fois.<br>Phase finale : Si Dehya, équipée de cette carte, a 6 PV ou moins, la soigne pour 2 pts.<br>(Votre deck doit contenir Dehya pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8253,8 +8255,8 @@ var _card = [
         },
         {
             "_id": 213081,
-            "Name": "Right of Final Interpretation",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When <color style='color:#FFFFFFFF'>Yanfei</color> is your active character, equip this card.<br>After Yanfei equips this card, she will immediately use <color style='color:#FFD780FF'>Seal of Approval</color> once.<br>When Yanfei uses a <color style='color:#FFFFFFFF'>Charged Attack</color> with this card equipped: Deal +1 DMG to enemies with 6 or less HP If <color style='color:#FFFFFFFF'>Scarlet Seal</color> is triggered, then draw 1 card after the skill finishes calculating.<br>(You must have Yanfei in your deck to add this card to your deck.)",
+            "Name": "Verdict final",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Yanfei</color>, équipe cette carte.<br>Une fois Yanfei équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Sceau embrasé</color> une fois.<br>Lorsque Yanfei, équipée de cette carte, utilise une <color style='color:#FFFFFFFF'>Attaque chargée</color>: DGT infligés aux ennemis ayant 6 PV ou moins +1 ; si un <color style='color:#FFFFFFFF'>Sceau écarlate</color> est déclenché, vous piochez 1 carte après le calcul de la capacité.<br>(Votre deck doit contenir Yanfei pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8273,8 +8275,8 @@ var _card = [
         },
         {
             "_id": 213071,
-            "Name": "Sanguine Rouge",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Hu Tao</color>, equip this card.<br>After Hu Tao equips this card, immediately use <color style='color:#FFD780FF'>Guide to Afterlife</color> once.<br>When your Hu Tao, who has this card equipped, has no more than 6 HP: Deal +1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br>(You must have Hu Tao in your deck to add this card to your deck.)",
+            "Name": "Sang bouillant",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Hu Tao</color>, équipe cette carte.<br>Une fois Hu Tao équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Chaperon de la renaissance</color> une fois.<br>Lorsque Hu Tao, équipée de cette carte, a 6 PV ou moins: [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color> infligés +1.<br>(Votre deck doit contenir Hu Tao pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8291,8 +8293,8 @@ var _card = [
         },
         {
             "_id": 213061,
-            "Name": "Pounding Surprise",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Klee</color>, equip this card.<br>After Klee equips this card, immediately use <color style='color:#FFD780FF'>Jumpy Dumpty</color> once.<br>When your Klee, who has this card equipped, creates an <color style='color:#FFFFFFFF'>Explosive Spark</color>, its <color style='color:#FFFFFFFF'>Usage(s)</color> +1.<br>(You must have Klee in your deck to add this card to your deck.)",
+            "Name": "Cadeau explosif",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Klee</color>, équipe cette carte.<br>Une fois Klee équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Bombe rebondissante</color> une fois.<br><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> de l'<color style='color:#FFFFFFFF'>Étincelle explosive</color> créée par Klee équipée de cette carte +1.<br>(Votre deck doit contenir Klee pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8311,8 +8313,8 @@ var _card = [
         },
         {
             "_id": 213051,
-            "Name": "Naganohara Meteor Swarm",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Yoimiya</color>, equip this card.<br>After Yoimiya equips this card, immediately use <color style='color:#FFD780FF'>Niwabi Fire-Dance</color> once.<br>The <color style='color:#FFFFFFFF'>Niwabi Enshou</color> generated by your Yoimiya, who has this card equipped, gains +1 intitial <color style='color:#FFFFFFFF'>Usage(s)</color>.<br>(You must have Yoimiya in your deck to add this card to your deck.)",
+            "Name": "Pluie de météores de Naganohara",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Yoimiya</color>, équipe cette carte.<br>Une fois Yoimiya équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Danse du feu « Niwabi»</color> une fois.<br>Le <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> de départ du <color style='color:#FFFFFFFF'>Niwabi Enshou</color> créé par Yoimiya équipée de cette carte augmente de 1, et il inflige 1 pt de [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color> supplémentaire après son déclenchement.<br>(Votre deck doit contenir Yoimiya pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8332,8 +8334,8 @@ var _card = [
         },
         {
             "_id": 213041,
-            "Name": "Bunny Triggered",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Amber</color>, equip this card.<br>After Amber equips this card, immediately use <color style='color:#FFD780FF'>Explosive Puppet</color> once.<br>After you use a <color style='color:#FFFFFFFF'>Normal Attack</color>: If this card and <color style='color:#FFFFFFFF'>Baron Bunny</color> are still on the field, then <color style='color:#FFFFFFFF'>Baron Bunny</color> explodes and deals 4 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br>(You must have Amber in your deck to add this card to your deck.)",
+            "Name": "Tout est prêt",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Amber</color>, équipe cette carte.<br>Une fois Amber équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Poupée explosive</color> une fois.<br>Lorsqu'Amber a utilisé une <color style='color:#FFFFFFFF'>attaque normale</color> : Si cette carte et <color style='color:#FFFFFFFF'>Baron Lapinou</color> sont sur le terrain, fait exploser <color style='color:#FFFFFFFF'>Baron Lapinou</color> pour infliger 4 pts de [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>.<br>(Votre deck doit contenir Amber pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8352,8 +8354,8 @@ var _card = [
         },
         {
             "_id": 213031,
-            "Name": "Grand Expectation",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Bennett</color>, equip this card.<br>After Bennett equips this card, immediately use <color style='color:#FFD780FF'>Fantastic Voyage</color> once.<br>When your Bennett, who has this card equipped, creates an <color style='color:#FFFFFFFF'>Inspiration Field</color>, its DMG Bonus is now always active and will no longer have an HP restriction.<br>(You must have Bennett in your deck to add this card to your deck.)",
+            "Name": "Perspective de voyage",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Bennett</color>, équipe cette carte.<br>Une fois Bennett équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Merveilleux voyage</color> une fois.<br>Le bonus de DGT du <color style='color:#FFFFFFFF'>Champ vertueux</color> créé par Bennett équipé de cette carte est toujours actif et n'a plus de restriction de PV.<br>(Votre deck doit contenir Bennett pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8372,8 +8374,8 @@ var _card = [
         },
         {
             "_id": 213021,
-            "Name": "Crossfire",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Xiangling</color>, equip this card.<br>After Xiangling equips this card, immediately use <color style='color:#FFD780FF'>Guoba Attack</color> once.<br>When your Xiangling, who has this card equipped, uses <color style='color:#FFFFFFFF'>Guoba Attack</color>, she will also deal 1 [b]2103[a]<color style='color:#FF9999FF'>Pyro DMG</color>.<br>(You must have Xiangling in your deck to add this card to your deck.)",
+            "Name": "Feux croisés",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Xiangling</color>, équipe cette carte.<br>Une fois Xiangling équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Attaque Gooba</color> une fois.<br>Lorsque Xiangling, équipée de cette carte, utilise <color style='color:#FFFFFFFF'>Attaque Gooba</color> : Elle inflige également 1 pt de [b]2103[a]<color style='color:#FF9999FF'>DGT Pyro</color>.<br>(Votre deck doit contenir Xiangling pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8390,8 +8392,8 @@ var _card = [
         },
         {
             "_id": 213011,
-            "Name": "Flowing Flame",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Diluc</color>, equip this card.<br>After Diluc equips this card, immediately use <color style='color:#FFD780FF'>Searing Onslaught</color> once.<br>When your Diluc, who has this card equipped, uses <color style='color:#FFFFFFFF'>Searing Onslaught</color> for the second time in one Round, spend 1 less [b]1103[a]<color style='color:#FF9999FF'>Pyro Die</color>.<br>(You must have Diluc in your deck to add this card to your deck.)",
+            "Name": "Flamme courante",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Diluc</color>, équipe cette carte.<br>Une fois Diluc équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Assaut brûlant</color> une fois.<br>Chaque fois que Diluc, équipé de cette carte, utilise <color style='color:#FFFFFFFF'>Assaut brûlant</color> pour la 2e fois dans une manche : Dépense 1 dé [b]1103[a]<color style='color:#FF9999FF'>Pyro</color> en moins.<br>(Votre deck doit contenir Diluc pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8407,8 +8409,8 @@ var _card = [
         },
         {
             "_id": 212091,
-            "Name": "Turn Control",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Yelan</color>, equip this card.<br>After Yelan equips this card, immediately use <color style='color:#FFD780FF'>Lingering Lifeline</color> once.<br>Roll Phase: If Yelan, who has this card equipped, is on the field, 1 Elemental Dice will be rolled as <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> for each Elemental Type in your party. (Max 3)<br>(You must have Yelan in your deck to add this card to your deck.)",
+            "Name": "Contrôle stratégique",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Yelan</color>, équipe cette carte.<br>Une fois Yelan équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Ligne vitale persistante</color> une fois.<br>Phase de lancer : 1 dé <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color> est obtenu pour chaque type élémentaire dans votre équipe si Yelan, équipée de cette carte, est sur le terrain. (3 dés maximum)<br>(Votre deck doit contenir Yelan pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8425,8 +8427,8 @@ var _card = [
         },
         {
             "_id": 212081,
-            "Name": "The Starry Skies Their Flowers Rain",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Nilou</color>, equip this card.<br>After Nilou equips this card, immediately use <color style='color:#FFD780FF'>Dance of Haftkarsvar</color>.<br>When there is Nilou on the field who has this card equipped, the damage dealt by your <color style='color:#FFFFFFFF'>Bountiful Core</color> is increased by 1.<br>(You must have Nilou in your deck to add this card to your deck.)",
+            "Name": "Pluie de fleurs du ciel étoilé",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Nilou</color>, équipe cette carte.<br>Une fois Nilou équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Danse des haftkarsvars</color> une fois.<br>Lorsque Nilou, équipée de cette carte, est sur le terrain : DGT de vos <color style='color:#FFFFFFFF'>Noyau d'abondance</color> +1.<br>(Votre deck doit contenir Nilou pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8444,8 +8446,8 @@ var _card = [
         },
         {
             "_id": 212071,
-            "Name": "The Overflow",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When <color style='color:#FFFFFFFF'>Candace</color> is your active character, equip this card.<br>After Candace equips this card, she will immediately use <color style='color:#FFD780FF'>Sacred Rite: Wagtail's Tide</color> once.<br>When this card is equipped by Candace, her <color style='color:#FFFFFFFF'>Prayer of the Crimson Crown</color> has the following extra effect: <color style='color:#FFFFFFFF'>After your character uses a Normal Attack: </color>Deals 1 [b]2102[a]<color style='color:#80C0FFFF'>Hydro DMG</color>. (Once per Round)<br>(You must have Candace in your deck to add this card to your deck.)",
+            "Name": "Débordement",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Candace</color>, équipe cette carte.<br>Une fois Candace équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Liturgie : Marée de la bergeronnette</color> une fois.<br>Les <color style='color:#FFFFFFFF'>Prière de couronne cramoisie</color> créées par Candace équipée de cette carte possèdent l'effet supplémentaire suivant : <color style='color:#FFFFFFFF'>Lorsque votre personnage a utilisé une attaque normale, </color>inflige 1 pt de [b]2102[a]<color style='color:#80C0FFFF'>DGT Hydro</color>. (1 fois par manche)<br>(Votre deck doit contenir Candace pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8465,8 +8467,8 @@ var _card = [
         },
         {
             "_id": 212061,
-            "Name": "Kyouka Fuushi",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Kamisato Ayato</color>, equip this card.<br>After Kamisato Ayato equips this card, immediately use <color style='color:#FFD780FF'>Kamisato Art: Kyouka</color> once.<br>When your Kamisato Ayato, who has this card equipped, triggers the effects of <color style='color:#FFFFFFFF'>Takimeguri Kanka</color>, deal +1 additional DMG if the target's remaining HP is equal to or less than 6.<br>(You must have Kamisato Ayato in your deck to add this card to your deck.)",
+            "Name": "Reflet gracieux",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Kamisato Ayato</color>, équipe cette carte.<br>Une fois Kamisato Ayato équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>École Kamisato : Beauté réfléchie</color> une fois.<br>Lorsque Kamisato Ayato, équipé de cette carte, déclenche les effets de <color style='color:#FFFFFFFF'>Réflexion torrentielle</color> : DGT supplémentaires infligés aux adversaires ayant 6 PV ou moins +1.<br>(Votre deck doit contenir Kamisato Ayato pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8484,8 +8486,8 @@ var _card = [
         },
         {
             "_id": 212051,
-            "Name": "Tamakushi Casket",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Sangonomiya Kokomi</color>, equip this card.<br>After Sangonomiya Kokomi equips this card, immediately use <color style='color:#FFD780FF'>Nereid's Ascension</color> once.<br>When your Sangonomiya Kokomi, who has this card equipped, uses <color style='color:#FFFFFFFF'>Nereid's Ascension</color>: Summon a <color style='color:#FFFFFFFF'>Bake-Kurage</color> with a <color style='color:#FFFFFFFF'>Usage(s)</color> of 1; if <color style='color:#FFFFFFFF'>Bake-Kurage</color> is already on the field, then increase its <color style='color:#FFFFFFFF'>Usage(s)</color> by 1 instead.<br>While <color style='color:#FFFFFFFF'>Ceremonial Garment</color> exists, <color style='color:#FFFFFFFF'>Bake-Kurage</color> deals +1 DMG.<br>(You must have Sangonomiya Kokomi in your deck to add this card to your deck.)",
+            "Name": "Coffret de tamakushi",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Sangonomiya Kokomi</color>, équipe cette carte.<br>Une fois Sangonomiya Kokomi équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Ascension de la néréide</color> une fois.<br>Lorsque Sangonomiya Kokomi, équipée de cette carte, utilise <color style='color:#FFFFFFFF'>Ascension de la néréide</color> : Invoque une <color style='color:#FFFFFFFF'>Méduse fantôme</color> avec un <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> de 1 ; si une <color style='color:#FFFFFFFF'>Méduse fantôme</color> est déjà sur le terrain, augmente son <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> de 1.<br>Tant qu'une <color style='color:#FFFFFFFF'>Parure cérémoniale</color> est présente, DGT infligés par les <color style='color:#FFFFFFFF'>Méduse fantôme</color> +1.<br>(Votre deck doit contenir Sangonomiya Kokomi pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8506,8 +8508,8 @@ var _card = [
         },
         {
             "_id": 212041,
-            "Name": "Abyssal Mayhem: Hydrospout",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Tartaglia</color>, equip this card.<br>After Tartaglia equips this card, immediately use <color style='color:#FFD780FF'>Foul Legacy: Raging Tide</color> once.<br>End Phase: When Tartaglia is on the field and has this card equipped, deal 1 <color style='color:#FFFFFFFF'>Piercing DMG</color> to the opponent's active character if they have <color style='color:#FFFFFFFF'>Riptide</color> attached.<br>(You must have Tartaglia in your deck to add this card to your deck.)",
+            "Name": "Chaos de l'Abîme : Fleur de l'eau condensée",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Tartaglia</color>, équipe cette carte.<br>Une fois Tartaglia équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Posture du démon: Marée déchaînée</color> une fois.<br>Phase finale : Lorsque Tartaglia, équipé de cette carte, est sur le terrain et si le personnage actif adverse est sous l'effet <color style='color:#FFFFFFFF'>Contre-courant</color>, inflige à ce dernier 1 pt de <color style='color:#FFFFFFFF'>DGT de perforation</color>.<br>(Votre deck doit contenir Tartaglia pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8526,8 +8528,8 @@ var _card = [
         },
         {
             "_id": 212031,
-            "Name": "Prophecy of Submersion",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Mona</color>, equip this card.<br>When Mona equips this card, immediately use <color style='color:#FFD780FF'>Stellaris Phantasm</color> once.<br>When your Mona, who has this card equipped, is the active character, the <color style='color:#80C0FFFF'>[b]2102[a]Hydro-Related Reactions</color> you trigger deal +2 additional DMG.<br>(You must have Mona in your deck to add this card to your deck.)",
+            "Name": "Prophétie immersive",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Mona</color>, équipe cette carte.<br>Une fois Mona équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Voie divine</color> une fois.<br>Pendant que Mona, équipée de cette carte, est active : Les DGT supplémentaires des <color style='color:#80C0FFFF'>Réaction liée à l'élément [b]2102[a]Hydro</color> que vous déclenchez augmentent de 2.<br>(Votre deck doit contenir Mona pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8545,8 +8547,8 @@ var _card = [
         },
         {
             "_id": 212021,
-            "Name": "The Scent Remained",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Xingqiu</color>, equip this card.<br>After Xingqiu equips this card, immediately use <color style='color:#FFD780FF'>Fatal Rainscreen</color> once.<br>When your Xingqiu has this card equipped, the <color style='color:#FFFFFFFF'>Rain Sword</color> created can block DMG of at least 2 and its starting <color style='color:#FFFFFFFF'>Usage(s)</color> +1.<br>(You must have Xingqiu in your deck to add this card to your deck.)",
+            "Name": "Parfum persistant",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Xingqiu</color>, équipe cette carte.<br>Une fois Xingqiu équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Pluie battante</color> une fois.<br>L'<color style='color:#FFFFFFFF'>Épée de pluie</color> créée par Xingqiu équipé de cette carte peut maintenant bloquer au moins 2 pts de DGT et son <color style='color:#FFFFFFFF'>Nombre d'utilisations</color> de départ augmente de 1.<br>(Votre deck doit contenir Xingqiu pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8565,8 +8567,8 @@ var _card = [
         },
         {
             "_id": 212011,
-            "Name": "Glorious Season",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Barbara</color>, equip this card.<br>After Barbara equips this card, immediately use <color style='color:#FFD780FF'>Let the Show Begin♪</color> once.<br>When your Barbara, who has this card equipped, is on the field, <color style='color:#FFFFFFFF'>Melody Loop</color> will allow you to spend 1 less Elemental Die the next time you use \"Switch Character.\" (Once per round)<br>(You must have Barbara in your deck to add this card to your deck.)",
+            "Name": "Splendide saison",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Barbara</color>, équipe cette carte.<br>Une fois Barbara équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>C'est parti pour le show ♪</color> une fois.<br>Lorsque Barbara, équipée de cette carte, est sur le terrain : Le <color style='color:#FFFFFFFF'>Cercle de mélodie</color> vous permet de dépenser 1 dé élémentaire en moins lorsque vous basculez de personnage. (1 fois par manche)<br>(Votre deck doit contenir Barbara pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8584,8 +8586,8 @@ var _card = [
         },
         {
             "_id": 211091,
-            "Name": "Light's Remit",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Layla</color>, equip this card.<br>After Layla equips this card, immediately use <color style='color:#FFD780FF'>Nights of Formal Focus</color>.<br>When Layla is on the field and has this card equipped, every time <color style='color:#FFFFFFFF'>Shooting Star</color> deals DMG, draw 1 card.<br>(You must have Layla in your deck to add this card to your deck.)",
+            "Name": "Hégémonie de lumière",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Layla</color>, équipe cette carte.<br>Une fois Layla équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Nuits de solennité</color> une fois.<br>Lorsque Layla, équipée de cette carte, est sur le terrain : Pioche 1 carte chaque fois qu'une <color style='color:#FFFFFFFF'>Étoile filante</color> inflige des DGT.<br>(Votre deck doit contenir Layla pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8603,8 +8605,8 @@ var _card = [
         },
         {
             "_id": 211081,
-            "Name": "Rite of Resurrection",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Qiqi</color>, equip this card.<br>After Qiqi equips this card, immediately use <color style='color:#FFD780FF'>Adeptus Art: Preserver of Fortune</color> once.<br>After your Qiqi, who has this card equipped, uses <color style='color:#FFFFFFFF'>Adeptus Art: Preserver of Fortune</color>, she revives all your fallen characters and heals them for 2 HP. (Can happen 2 times per match)<br>(You must have Qiqi in your deck to add this card to your deck.)",
+            "Name": "Symbole de la renaissance",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Qiqi</color>, équipe cette carte.<br>Une fois Qiqi équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Arcane d'Adepte : Talisman sacré</color> une fois.<br>Lorsque Qiqi, équipée de cette carte, utilise <color style='color:#FFFFFFFF'>Arcane d'Adepte : Talisman sacré</color> : Ressuscite tous vos personnages éliminés et les soigne pour 2 pts. (Limité à 2 fois par partie)<br>(Votre deck doit contenir Qiqi pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8621,8 +8623,8 @@ var _card = [
         },
         {
             "_id": 211071,
-            "Name": "Mystical Abandon",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Shenhe</color>, equip this card.<br>After Shenhe equips this card, immediately use <color style='color:#FFD780FF'>Spring Spirit Summoning</color> once.<br>When the <color style='color:#FFFFFFFF'>Icy Quill</color> created by your Shenhe, who has this card equipped, is triggered by your characters' <color style='color:#FFFFFFFF'>Normal Attacks</color>, its Usages will not decrease. (Once per Round)<br>(You must have Shenhe in your deck to add this card to your deck.)",
+            "Name": "Abandon mystique",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Shenhe</color>, équipe cette carte.<br>Une fois Shenhe équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Invocation d'esprit printanier</color> une fois.<br>Lorsqu'un <color style='color:#FFFFFFFF'>Pennage glacé</color>, créé par Shenhe équipée de cette carte, est déclenché par l'<color style='color:#FFFFFFFF'>attaque normale</color> de votre personnage : Ne consomme pas d'utilisations. (1 fois par manche)<br>(Votre deck doit contenir Shenhe pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8640,8 +8642,8 @@ var _card = [
         },
         {
             "_id": 211061,
-            "Name": "Wellspring of War-Lust",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Eula</color>, equip this card.<br>After Eula equips this card, immediately use <color style='color:#FFD780FF'>Glacial Illumination</color> once.<br>When your Eula, who has this card equipped, uses <color style='color:#FFFFFFFF'>Icetide Vortex</color>, this will generate 1 more Zeal for <color style='color:#FFFFFFFF'>Lightfall Sword</color>.<br>(You must have Eula in your deck to add this card to your deck.)",
+            "Name": "Esprit belligérant",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Eula</color>, équipe cette carte.<br>Une fois Eula équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Lame de fond</color> une fois.<br>Lorsqu'Eula, équipée de cette carte, utilise <color style='color:#FFFFFFFF'>Vortex des mers glacées</color> : Accorde 1 cumul d'énergie supplémentaire à l'<color style='color:#FFFFFFFF'>Épée de lumière</color>.<br>(Votre deck doit contenir Eula pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8660,8 +8662,8 @@ var _card = [
         },
         {
             "_id": 211051,
-            "Name": "Kanten Senmyou Blessing",
-            "Desc": "The <color style='color:#FFFFFFFF'>Cryo Elemental Infusion</color> created by your <color style='color:#FFFFFFFF'>Kamisato Ayaka</color>, who has this card equipped, allows the character to which it is attached to deal +1 <color style='color:#99FFFFFF'>[b]2101[a]<color style='color:#99FFFFFF'>Cryo DMG</color></color>.<br>When you switch to Kamisato Ayaka, who has this card equipped: Spend 1 less Elemental Die. (Once per Round)<br>(You must have Kamisato Ayaka in your deck to add this card to your deck.)",
+            "Name": "Bénédiction de Kanten Senmyou",
+            "Desc": "L'<color style='color:#FFFFFFFF'>Enchantement Cryo</color> créé par <color style='color:#FFFFFFFF'>Kamisato Ayaka</color> équipée de cette carte augmente les <color style='color:#99FFFFFF'>[b]2101[a]<color style='color:#99FFFFFF'>DGT Cryo</color></color> infligés par le personnage affecté de 1.<br>En basculant pour Kamisato Ayaka équipée de cette carte : Dépense 1 dé élémentaire en moins. (1 fois par manche)<br>(Votre deck doit contenir Kamisato Ayaka pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT"
             ],
@@ -8678,8 +8680,8 @@ var _card = [
         },
         {
             "_id": 211041,
-            "Name": "Steady Breathing",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Chongyun</color>, equip this card.<br>After Chongyun equips this card, immediately use <color style='color:#FFD780FF'>Chonghua's Layered Frost</color> once.<br>When your Chongyun, who has this card equipped, creates a <color style='color:#FFFFFFFF'>Chonghua Frost Field</color>, it will have the following effects: Your Sword, Claymore, and Polearm-wielding characters' <color style='color:#FFFFFFFF'>Normal Attacks</color> to deal +1 DMG.<br>(You must have Chongyun in your deck to add this card to your deck.)",
+            "Name": "Respiration stable",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Chongyun</color>, équipe cette carte.<br>Une fois Chongyun équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Givre superposé</color> une fois.<br>Le <color style='color:#FFFFFFFF'>Champ de givre</color> créé par Chongyun équipé de cette carte déclenche les effets suivants :<br>DGT des <color style='color:#FFFFFFFF'>attaques normales</color> de vos personnages avec une épée à une main, à deux mains ou une arme d'hast +1.<br>(Votre deck doit contenir Chongyun pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8697,8 +8699,8 @@ var _card = [
         },
         {
             "_id": 211031,
-            "Name": "Cold-Blooded Strike",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Kaeya</color>, equip this card.<br>After Kaeya equips this card, immediately use <color style='color:#FFD780FF'>Frostgnaw</color> once.<br>After your Kaeya, who has this card equipped, uses <color style='color:#FFFFFFFF'>Frostgnaw</color>, he heals himself for 2 HP. (Once per Round)<br>(You must have Kaeya in your deck to add this card to your deck.)",
+            "Name": "Épée de la cruauté",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Kaeya</color>, équipe cette carte.<br>Une fois Kaeya équipé de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Attaque givrée</color> une fois.<br>Lorsque Kaeya, équipé de cette carte, a utilisé <color style='color:#FFFFFFFF'>Attaque givrée</color> : Se soigne pour 2 pts. (1 fois par manche)<br>(Votre deck doit contenir Kaeya pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8714,8 +8716,8 @@ var _card = [
         },
         {
             "_id": 211021,
-            "Name": "Shaken, Not Purred",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Diona</color>, equip this card.<br>After Diona equips this card, immediately use <color style='color:#FFD780FF'>Icy Paws</color> once.<br>When your Diona, who has this card equipped, creates a <color style='color:#FFFFFFFF'>Cat-Claw Shield</color>, its [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points +1.<br>(You must have Diona in your deck to add this card to your deck.)",
+            "Name": "On the rocks",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Diona</color>, équipe cette carte.<br>Une fois Diona équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Griffes Cryo</color> une fois.<br>[b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> accordé par le <color style='color:#FFFFFFFF'>Bouclier de griffes</color> créé par Diona équipée de cette carte +1 pt.<br>(Votre deck doit contenir Diona pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8734,8 +8736,8 @@ var _card = [
         },
         {
             "_id": 211011,
-            "Name": "Undivided Heart",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Ganyu</color>, equip this card.<br>After Ganyu equips this card, immediately use <color style='color:#FFD780FF'>Frostflake Arrow</color> once.<br>When your Ganyu, who has this card equipped, uses <color style='color:#FFFFFFFF'>Frostflake Arrow</color>: If this Skill has been used before during this match, the <color style='color:#FFFFFFFF'>Piercing DMG</color> dealt to all opposing characters on standby is changed to 3.<br>(You must have Ganyu in your deck to add this card to your deck.)",
+            "Name": "Cœur indivisible",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Ganyu</color>, équipe cette carte.<br>Une fois Ganyu équipée de cette carte, utilise immédiatement <color style='color:#FFD780FF'>Flèche de givre</color> une fois.<br>Lorsque Ganyu, équipée de cette carte, utilise <color style='color:#FFFFFFFF'>Flèche de givre</color> : Si cette capacité a déjà été utilisée pendant cette partie, les <color style='color:#FFFFFFFF'>DGT de perforation</color> infligés aux personnages adverses en attente passent à 3 pts.<br>(Votre deck doit contenir Ganyu pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8752,7 +8754,7 @@ var _card = [
         },
         {
             "_id": 87,
-            "Name": "Elemental Infusion: Dendro",
+            "Name": "Enchantement élémentaire Dendro",
             "Desc": "",
             "Tag": [],
             "Icon": "",
@@ -8762,7 +8764,7 @@ var _card = [
         },
         {
             "_id": 86,
-            "Name": "Elemental Infusion: Geo",
+            "Name": "Enchantement élémentaire Géo",
             "Desc": "",
             "Tag": [],
             "Icon": "",
@@ -8772,7 +8774,7 @@ var _card = [
         },
         {
             "_id": 85,
-            "Name": "Elemental Infusion: Anemo",
+            "Name": "Enchantement élémentaire Anémo",
             "Desc": "",
             "Tag": [],
             "Icon": "",
@@ -8782,7 +8784,7 @@ var _card = [
         },
         {
             "_id": 84,
-            "Name": "Elemental Infusion: Electro",
+            "Name": "Enchantement élémentaire Électro",
             "Desc": "",
             "Tag": [],
             "Icon": "",
@@ -8792,7 +8794,7 @@ var _card = [
         },
         {
             "_id": 83,
-            "Name": "Elemental Infusion: Pyro",
+            "Name": "Enchantement élémentaire Pyro",
             "Desc": "",
             "Tag": [],
             "Icon": "",
@@ -8802,7 +8804,7 @@ var _card = [
         },
         {
             "_id": 82,
-            "Name": "Elemental Infusion: Hydro",
+            "Name": "Enchantement élémentaire Hydro",
             "Desc": "",
             "Tag": [],
             "Icon": "",
@@ -8812,7 +8814,7 @@ var _card = [
         },
         {
             "_id": 81,
-            "Name": "Elemental Infusion: Cryo",
+            "Name": "Enchantement élémentaire Cryo",
             "Desc": "",
             "Tag": [],
             "Icon": "",
@@ -8824,8 +8826,8 @@ var _card = [
     [
         {
             "_id": 332018,
-            "Name": "Heavy Strike",
-            "Desc": "During this round, your current active character's next <color style='color:#FFFFFFFF'>Normal Attack</color> deals +1 DMG.<br><color style='color:#FFFFFFFF'>When this Normal Attack is a <color style='color:#FFFFFFFF'>Charged Attack</color>:</color> Deal +1 additional DMG.",
+            "Name": "Frappe chargée",
+            "Desc": "Pendant la manche, DGT infligés par la prochaine <color style='color:#FFFFFFFF'>attaque normale</color> de votre personnage actif actuel +1.<br><color style='color:#FFFFFFFF'>Lorsque cette attaque normale est considérée comme une <color style='color:#FFFFFFFF'>Attaque chargée</color> : </color>DGT supplémentaires +1.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Zhonggongji",
             "Cost": {
@@ -8838,8 +8840,8 @@ var _card = [
         },
         {
             "_id": 114031,
-            "Name": "Lightning Stiletto",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: Switch your Keqing in to be the active character and immediately use Stellar Restoration once. This instance of Stellar Restoration will grant Keqing <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Electro Infusion</color></color> without creating another Lightning Stiletto.<br>(When Keqing uses Stellar Restoration with this card in Hand: Instead of creating another Lightning Stiletto, discard this card and Keqing gains <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Electro Infusion</color></color>)",
+            "Name": "Lame de foudre",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Déploie Keqing sur le terrain pour utiliser Retour des étoiles immédiatement. Cette fois, Retour des étoiles accorde à Keqing un <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Enchantement Électro</color></color>, mais ne crée pas de lame de foudre.<br>(Lorsque Keqing utilise Retour des étoiles, si cette carte est dans votre main : Au lieu de créer une autre lame de foudre, défausse la carte pour accorder à Keqing un <color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Enchantement Électro</color></color>)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -8856,8 +8858,8 @@ var _card = [
         },
         {
             "_id": 332030,
-            "Name": "Controlled Directional Blast",
-            "Desc": "<color style='color:#FFFFFFFF'>Can only be played when there is a total of at least 4 cards in your opponent's Support Zone and Summons Zone:</color> All Summons on both sides lose 1 Usage.",
+            "Name": "Choc dirigé d'élimination à danger contrôlé",
+            "Desc": "<color style='color:#FFFFFFFF'>Jouable s'il y a au moins 4 cartes dans les zones de soutien et d'invocations de l'adversaire : </color>Nombre d'utilisations de toutes les invocations de chaque camp -1.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Kexueyuan",
             "Cost": {
@@ -8868,8 +8870,8 @@ var _card = [
         },
         {
             "_id": 330007,
-            "Name": "Day of Resistance: Moment of Shattered Dreams",
-            "Desc": "During this Round, your targeted character takes -1 DMG. (Max 4 times)<br>(Only one [b]3007[a]\"Arcane Legend\" card can be played per match. This card will be in your starting hand.)",
+            "Name": "Jour de la résistance : Rêves brisés",
+            "Desc": "Pendant la manche, DGT subis par votre personnage choisi -1. (4 fois maximum)<br>(Une seule carte d'[b]3007[a]arcane peut être jouée pendant toute une partie, et cette carte est obligatoirement dans votre main de départ)",
             "Tag": [
                 "GCG_TAG_LEGEND"
             ],
@@ -8882,8 +8884,8 @@ var _card = [
         },
         {
             "_id": 333014,
-            "Name": "Matsutake Meat Rolls",
-            "Desc": "Heal the target character for 2 HP. For the next 3 Rounds, heal this character for 1 HP again during the End Phase.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "Rouleaux de viande au matsutake",
+            "Desc": "Soigne le personnage choisi pour 2 pts et le soigne à nouveau pour 1 pt pendant la phase finale des trois prochaines manches.<br>(Un personnage peut consommer au maximum 1 [b]3101[a]plat par manche)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8896,8 +8898,8 @@ var _card = [
         },
         {
             "_id": 333013,
-            "Name": "Fish and Chips",
-            "Desc": "During this Round, all your characters will use 1 less Elemental Die when using their Skill next time.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "Poisson-frites",
+            "Desc": "Pendant la manche, chacun de vos personnages dépense 1 dé élémentaire en moins lors de la prochaine utilisation d'une capacité.<br>(Un personnage peut consommer au maximum 1 [b]3101[a]plat par manche)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8910,8 +8912,8 @@ var _card = [
         },
         {
             "_id": 333012,
-            "Name": "Butter Crab",
-            "Desc": "During this Round, all your characters take -2 DMG the next time.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "Crabe au beurre",
+            "Desc": "Pendant la manche, prochains DGT subis par chacun de vos personnages -2.<br>(Un personnage peut consommer au maximum 1 [b]3101[a]plat par manche)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8924,8 +8926,8 @@ var _card = [
         },
         {
             "_id": 333011,
-            "Name": "Tandoori Roast Chicken",
-            "Desc": "During this Round, all your characters' next <color style='color:#FFFFFFFF'>Elemental Skills</color> deal +2 DMG.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "Poulet tandoori",
+            "Desc": "Pendant la manche, DGT infligés par la prochaine <color style='color:#FFFFFFFF'>compétence élémentaire</color> de chacun de vos personnages +2.<br>(Un personnage peut consommer au maximum 1 [b]3101[a]plat par manche)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8938,8 +8940,8 @@ var _card = [
         },
         {
             "_id": 333010,
-            "Name": "Sashimi Platter",
-            "Desc": "Before this Round ends, the target character's <color style='color:#FFFFFFFF'>Normal Attacks</color> deal +1 DMG.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "Assortiment de sashimis",
+            "Desc": "Les DGT infligés par l'<color style='color:#FFFFFFFF'>attaque normale</color> du personnage choisi avant la fin de la manche augmentent de 1.<br>(Un personnage peut consommer au maximum 1 [b]3101[a]plat par manche)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8952,8 +8954,8 @@ var _card = [
         },
         {
             "_id": 333009,
-            "Name": "Teyvat Fried Egg",
-            "Desc": "Revives the target character and heals that character for 1 HP.<br>(You can only revive 1 character via [b]3101[a]Food per Round, and a character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "Œuf au plat de Teyvat",
+            "Desc": "Ressuscite le personnage choisi et le soigne pour 1 pt.<br>(Vous pouvez ressusciter 1 personnage maximum par manche en utilisant un [b]3101[a]plat et un personnage peut consommer au maximum 1 [b]3101[a]plat par manche)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8966,8 +8968,8 @@ var _card = [
         },
         {
             "_id": 333008,
-            "Name": "Minty Meat Rolls",
-            "Desc": "Before this Round ends, the target character's next 3 <color style='color:#FFFFFFFF'>Normal Attacks</color> cost 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "Rouleaux de viande à la menthe",
+            "Desc": "Les trois prochaines <color style='color:#FFFFFFFF'>attaques normales</color> du personnage choisi avant la fin de la manche dépensent 1 dé d'<color style='color:#FFFFFFFF'>[b]1109[a]Élément neutre</color> en moins.<br>(Un personnage peut consommer au maximum 1 [b]3101[a]plat par manche)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8982,8 +8984,8 @@ var _card = [
         },
         {
             "_id": 333007,
-            "Name": "Mushroom Pizza",
-            "Desc": "Heal the target character for 1 HP. For the next two Rounds, heal this character for 1 HP again at the End Phase.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "Pizza aux champignons",
+            "Desc": "Soigne le personnage choisi pour 1 pt et le soigne à nouveau pour 1 pt pendant la phase finale des deux prochaines manches.<br>(Un personnage peut consommer au maximum 1 [b]3101[a]plat par manche)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -8996,8 +8998,8 @@ var _card = [
         },
         {
             "_id": 333006,
-            "Name": "Mondstadt Hash Brown",
-            "Desc": "Heal the target character for 2 HP.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "Galette de pomme de terre mondstadtoise",
+            "Desc": "Soigne le personnage choisi pour 2 pts.<br>(Un personnage peut consommer au maximum 1 [b]3101[a]plat par manche)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -9010,8 +9012,8 @@ var _card = [
         },
         {
             "_id": 333005,
-            "Name": "Sweet Madame",
-            "Desc": "Heal the target character for 1 HP.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "Poulet mariné aux fleurs sucrantes",
+            "Desc": "Soigne le personnage choisi pour 1 pt.<br>(Un personnage peut consommer au maximum 1 [b]3101[a]plat par manche)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -9022,8 +9024,8 @@ var _card = [
         },
         {
             "_id": 333004,
-            "Name": "Northern Smoked Chicken",
-            "Desc": "During this Round, the target character's next <color style='color:#FFFFFFFF'>Normal Attack</color> costs 1 less <color style='color:#FFFFFFFF'>[b]1109[a]Unaligned Element</color>.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "Poulet fumé nordique",
+            "Desc": "Pendant la manche, la prochaine <color style='color:#FFFFFFFF'>attaque normale</color> du personnage choisi dépense 1 dé d'<color style='color:#FFFFFFFF'>[b]1109[a]Élément neutre</color> en moins.<br>(Un personnage peut consommer au maximum 1 [b]3101[a]plat par manche)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -9036,8 +9038,8 @@ var _card = [
         },
         {
             "_id": 333003,
-            "Name": "Lotus Flower Crisp",
-            "Desc": "During this Round, the target character takes -3 DMG the next time.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "Beignets lotus",
+            "Desc": "Pendant la manche, prochains DGT subis par le personnage choisi -3.<br>(Un personnage peut consommer au maximum 1 [b]3101[a]plat par manche)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -9050,8 +9052,8 @@ var _card = [
         },
         {
             "_id": 333002,
-            "Name": "Adeptus' Temptation",
-            "Desc": "During this Round, the target character's next <color style='color:#FFFFFFFF'>Elemental Burst</color> deals +3 DMG.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "Attrape-Adepte",
+            "Desc": "Pendant la manche, DGT infligés par le prochain <color style='color:#FFFFFFFF'>déchaînement élémentaire</color> du personnage choisi +3.<br>(Un personnage peut consommer au maximum 1 [b]3101[a]plat par manche)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -9064,8 +9066,8 @@ var _card = [
         },
         {
             "_id": 333001,
-            "Name": "Jueyun Guoba",
-            "Desc": "During this Round, the target character's next <color style='color:#FFFFFFFF'>Normal Attack</color> deals +1 DMG.<br>(A character can consume at most 1 [b]3101[a]Food per Round)",
+            "Name": "Gooba de Jueyun",
+            "Desc": "Pendant la manche, DGT infligés par la prochaine <color style='color:#FFFFFFFF'>attaque normale</color> du personnage choisi +1.<br>(Un personnage peut consommer au maximum 1 [b]3101[a]plat par manche)",
             "Tag": [
                 "GCG_TAG_FOOD"
             ],
@@ -9076,8 +9078,8 @@ var _card = [
         },
         {
             "_id": 332029,
-            "Name": "Sunyata Flower",
-            "Desc": "Select a card from your Support Zone and discard it. After that, randomly generate 2 Support Cards in your hand.<br><color style='color:#FFFFFFFF'>During the Round, the next time you play a Support Card: </color>Spend 1 less Elemental Die.",
+            "Name": "Fleur de la sunyata",
+            "Desc": "Choisissez une carte de votre zone de soutien pour la défausser et générer aléatoirement 2 cartes de soutien dans votre main.<br><color style='color:#FFFFFFFF'>La prochaine fois que vous jouez une carte de soutien pendant la manche : </color>Dépense 1 dé élémentaire en moins.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Ganluhua",
             "Cost": {},
@@ -9086,8 +9088,8 @@ var _card = [
         },
         {
             "_id": 332028,
-            "Name": "Machine Assembly Line",
-            "Desc": "<color style='color:#FFFFFFFF'>Each time after your character is targeted by and takes DMG or is healed:</color> Accumulate 1 point of Battle-Readiness (Max 2 points).<br><color style='color:#FFFFFFFF'>When you play a [b]3003[a]Weapon or [b]3004[a]Artifact with an original cost of no more Dice than you have Battle-Readiness points:</color> Clear all Battle-Readiness points and play that card for free.",
+            "Name": "Ligne d'assemblage mécanique",
+            "Desc": "<color style='color:#FFFFFFFF'>Chaque fois que votre personnage choisi a subi des DGT ou reçu des soins : </color>Cumule 1 pt de préparatif. (Peut être cumulé jusqu'à 2 pts)<br><color style='color:#FFFFFFFF'>Lorsque vous jouez une [b]3003[a]arme ou un [b]3004[a]artéfact dont le coût initial est inférieur ou égal aux points de préparatif : </color>Consomme tous les points de préparatif pour jouer gratuitement la carte.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Fatiaoji",
             "Cost": {},
@@ -9096,8 +9098,8 @@ var _card = [
         },
         {
             "_id": 332027,
-            "Name": "Flickering Four-Leaf Sigil",
-            "Desc": "Attach <color style='color:#FFFFFFFF'>Four-Leaf Sigil</color> to target character: At the End Phase of Every Round, you will switch to this character.",
+            "Name": "Insigne vacillant de trèfle",
+            "Desc": "Applique un <color style='color:#FFFFFFFF'>Insigne de trèfle</color> au personnage choisi : Vous basculez pour ce personnage pendant la phase finale de chaque manche.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Siyeyin",
             "Cost": {},
@@ -9108,8 +9110,8 @@ var _card = [
         },
         {
             "_id": 332026,
-            "Name": "Falls and Fortune",
-            "Desc": "<color style='color:#FFFFFFFF'>Can only be played when you have at least 8 Elemental Dice remaining and your opponent has not ended their Round:</color> In this Round, both sides must spend 1 extra Elemental Die when switching characters.",
+            "Name": "Chute opportune",
+            "Desc": "<color style='color:#FFFFFFFF'>Jouable s'il vous reste au moins 8 dés élémentaires et si l'adversaire n'a pas annoncé la fin de sa manche : </color>Pendant la manche, les deux joueurs doivent dépenser 1 dé élémentaire en plus lorsqu'ils effectuent un changement de personnage.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Tanta",
             "Cost": {
@@ -9120,8 +9122,8 @@ var _card = [
         },
         {
             "_id": 332025,
-            "Name": "The Boar Princess",
-            "Desc": "<color style='color:#FFFFFFFF'>Each time you discard an Equipment Card from one of your characters during this Round:</color> Gain 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>. (Max 2)<br>(This effect can be triggered by the loss of an Equipment Card from a character falling or from having their [b]3003[a]Weapon or [b]3004[a]Artifact replaced.)",
+            "Name": "La princesse sanglier",
+            "Desc": "<color style='color:#FFFFFFFF'>Chaque fois que vous défaussez une carte d'équipement équipée sur un personnage pendant la manche : </color>Accorde 1 dé <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>. (Maximum : 2)<br>(Cet effet se déclenche lorsqu'un personnage est éliminé et son équipement défaussé et lorsqu'une [b]3003[a]arme ou un [b]3004[a]artéfact équipé est remplacé)",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Yezhu",
             "Cost": {},
@@ -9132,8 +9134,8 @@ var _card = [
         },
         {
             "_id": 332024,
-            "Name": "Lyresong",
-            "Desc": "Return an [b]3004[a]Artifact card equipped by your character to your Hand.<br><color style='color:#FFFFFFFF'>During this Round, the next time you play an [b]3004[a]Artifact card from your hand:</color> Spend 2 less Elemental Dice.",
+            "Name": "Ode à la lyre",
+            "Desc": "Renvoie une carte d'[b]3004[a]artéfact équipée par votre personnage dans votre main.<br><color style='color:#FFFFFFFF'>La prochaine fois que vous jouez une carte d'[b]3004[a]artéfact pendant la manche : </color>Dépense 2 dés élémentaires en moins.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Wangfu",
             "Cost": {},
@@ -9142,8 +9144,8 @@ var _card = [
         },
         {
             "_id": 332023,
-            "Name": "Pankration!",
-            "Desc": "<color style='color:#FFFFFFFF'>Can only be played when you have at least 8 Elemental Dice remaining, and your opponent has not yet ended their Round:</color> After a player announces the end of their Round first, the other player, who has yet to announced the end of their Round, draws 2 cards.",
+            "Name": "Pancrace !",
+            "Desc": "<color style='color:#FFFFFFFF'>Jouable s'il vous reste au moins 8 dés élémentaires et si l'adversaire n'a pas annoncé la fin de sa manche : </color>Lorsqu'un joueur a annoncé la fin de sa manche, le joueur qui n'a pas encore annoncé la fin de sa manche pioche 2 cartes.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Heiquan",
             "Cost": {},
@@ -9152,8 +9154,8 @@ var _card = [
         },
         {
             "_id": 332022,
-            "Name": "Where Is the Unseen Razor?",
-            "Desc": "Return a [b]3003[a]Weapon card equipped by your character to your Hand.<br><color style='color:#FFFFFFFF'>During this Round, the next time you play a [b]3003[a]Weapon card: </color>Spend 2 less Elemental Dice.",
+            "Name": "Où est le Glaive occulte ?",
+            "Desc": "Renvoie une carte d'[b]3003[a]arme équipée par votre personnage dans votre main.<br><color style='color:#FFFFFFFF'>La prochaine fois que vous jouez une carte d'[b]3003[a]arme pendant la manche : </color>Dépense 2 dés élémentaires en moins.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Cangfen",
             "Cost": {},
@@ -9162,8 +9164,8 @@ var _card = [
         },
         {
             "_id": 332021,
-            "Name": "Rhythm of the Great Dream",
-            "Desc": "<color style='color:#FFFFFFFF'>The next time you play a [b]3003[a]Weapon or [b]3004[a]Artifact card:</color> Spend 1 less Elemental Die.",
+            "Name": "Mélodie du grand rêve",
+            "Desc": "<color style='color:#FFFFFFFF'>La prochaine fois que vous jouez une carte d'[b]3003[a]arme ou d'[b]3004[a]artéfact : </color>Dépense 1 dé élémentaire en moins.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Dameng",
             "Cost": {},
@@ -9172,8 +9174,8 @@ var _card = [
         },
         {
             "_id": 332020,
-            "Name": "Friendship Eternal",
-            "Desc": "Players with less than 4 cards in their hand draw cards until their hand has 4 cards in it.",
+            "Name": "Amitié éternelle",
+            "Desc": "Les joueurs avec moins de 4 cartes en piochent jusqu'à en avoir 4.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Yongyuandeyouyi",
             "Cost": {
@@ -9184,8 +9186,8 @@ var _card = [
         },
         {
             "_id": 332019,
-            "Name": "The Legend of Vennessa",
-            "Desc": "Create 4 basic Elemental Dice of different types.",
+            "Name": "La Légende de Vennessa",
+            "Desc": "Crée 4 dés élémentaires de base de types différents.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Wennisha",
             "Cost": {
@@ -9196,8 +9198,8 @@ var _card = [
         },
         {
             "_id": 332017,
-            "Name": "Plunging Strike",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: Switch to the target character. That character then uses a <color style='color:#FFFFFFFF'>Normal Attack</color>.",
+            "Name": "Entaille plongeante",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Bascule pour le personnage choisi pour que ce dernier effectue une <color style='color:#FFFFFFFF'>attaque normale</color>.",
             "Tag": [
                 "GCG_TAG_SLOWLY"
             ],
@@ -9212,8 +9214,8 @@ var _card = [
         },
         {
             "_id": 332016,
-            "Name": "Fatui Conspiracy",
-            "Desc": "Create 1 <color style='color:#FFFFFFFF'>Fatui Ambusher</color> of a random type on the opponent's field.<br>(You must have at least 2 [b]3501[a]Fatui characters in your deck to add this card to your deck.)",
+            "Name": "Conspiration Fatui",
+            "Desc": "Crée aléatoirement un <color style='color:#FFFFFFFF'>Fatui embusqué</color> sur le terrain adverse.<br>(Votre deck doit contenir au moins 2 personnages de type [b]3501[a]Fatui pour pouvoir y ajouter cette carte)",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Yurenzhongi",
             "Cost": {
@@ -9226,8 +9228,8 @@ var _card = [
         },
         {
             "_id": 332015,
-            "Name": "Abyssal Summons",
-            "Desc": "Summon 1 <color style='color:#FFFFFFFF'>Random Hilichurl Summon</color>!<br>(You must have at least 2 [b]3503[a]Monster characters in your deck to add this card to your deck.)",
+            "Name": "Appel de l'Abîme",
+            "Desc": "Appelle une <color style='color:#FFFFFFFF'>Invocation aléatoire de Brutocollinus</color> !<br>(Votre deck doit contenir au moins 2 personnages de type [b]3503[a]monstre pour pouvoir y ajouter cette carte)",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Abyssdehuhuan",
             "Cost": {
@@ -9240,8 +9242,8 @@ var _card = [
         },
         {
             "_id": 332014,
-            "Name": "Guardian's Oath",
-            "Desc": "Destroy all Summons. (Affects both you and your opponent!)",
+            "Name": "Serment du gardien",
+            "Desc": "Élimine toutes les invocations. (Affecte les deux camps !)",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Hufazhishi",
             "Cost": {
@@ -9252,8 +9254,8 @@ var _card = [
         },
         {
             "_id": 332013,
-            "Name": "Send Off",
-            "Desc": "Choose one Summon on the opposing side and cause it to lose 2 <color style='color:#FFFFFFFF'>Usage(s)</color>.",
+            "Name": "Adios",
+            "Desc": "<color style='color:#FFFFFFFF'>Nombre d'utilisations</color> -2 pour une invocation adverse de votre choix.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Songniyicheng",
             "Cost": {
@@ -9266,8 +9268,8 @@ var _card = [
         },
         {
             "_id": 332012,
-            "Name": "Quick Knit",
-            "Desc": "Choose one Summon on your side and grant it +1 <color style='color:#FFFFFFFF'>Usage(s)</color>.",
+            "Name": "Tricot rapide",
+            "Desc": "<color style='color:#FFFFFFFF'>Nombre d'utilisations</color> +1 pour une de vos invocations de votre choix.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Kuaikuaifengbushu",
             "Cost": {
@@ -9280,8 +9282,8 @@ var _card = [
         },
         {
             "_id": 332011,
-            "Name": "Blessing of the Divine Relic's Installation",
-            "Desc": "Shift 1 [b]3004[a]Artifact Card that has been equipped to one of your characters to another one of your characters, and reset the \"usages per Round\" limit on its effects.",
+            "Name": "Bénédiction de relique divine",
+            "Desc": "Transfère 1 carte d'équipement d'[b]3004[a]artéfact équipée sur un de vos personnages à un autre de vos personnages, et réinitialise la limite d'utilisations par manche de l'effet.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Shenbaoqiangongzhuci",
             "Cost": {},
@@ -9290,8 +9292,8 @@ var _card = [
         },
         {
             "_id": 332010,
-            "Name": "Master of Weaponry",
-            "Desc": "Shift 1 [b]3003[a]Weapon Equipment Card that has been equipped to one of your characters to another one of your characters of the same Weapon Type, and reset the \"usages per Round\" limit on its effects.",
+            "Name": "Maîtrise de l'armement",
+            "Desc": "Transfère 1 carte d'équipement d'[b]3003[a]arme équipée sur un de vos personnages à un autre de vos personnages utilisant le même type d'arme, et réinitialise la limite d'utilisations par manche de l'effet.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Zhuwujingtong",
             "Cost": {},
@@ -9300,8 +9302,8 @@ var _card = [
         },
         {
             "_id": 332009,
-            "Name": "Calx's Arts",
-            "Desc": "Shift 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color> from at most 2 of your characters on standby to your active character.",
+            "Name": "Arts de Calx",
+            "Desc": "Transfère 1 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color> d'au maximum 2 de vos personnages en attente à votre personnage actif.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Baiezhishu",
             "Cost": {
@@ -9314,8 +9316,8 @@ var _card = [
         },
         {
             "_id": 332008,
-            "Name": "Starsigns",
-            "Desc": "Your current Active Character <color style='color:#FFFFFFFF'>gains 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color></color>.",
+            "Name": "Présage astrologique",
+            "Desc": "<color style='color:#FFFFFFFF'>Accorde 1 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color></color> à votre personnage actif actuel.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Xingtian",
             "Cost": {
@@ -9328,8 +9330,8 @@ var _card = [
         },
         {
             "_id": 332007,
-            "Name": "When the Crane Returned",
-            "Desc": "<color style='color:#FFFFFFFF'>The next time you use a Skill:</color> Switch your next character in to be the active character.",
+            "Name": "Retour de la grue",
+            "Desc": "<color style='color:#FFFFFFFF'>La prochaine fois que vous avez utilisé une capacité : </color>Fait basculer votre prochain personnage en attente sur le terrain.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Heguizhishi",
             "Cost": {
@@ -9340,8 +9342,8 @@ var _card = [
         },
         {
             "_id": 332006,
-            "Name": "Leave It to Me!",
-            "Desc": "<color style='color:#FFFFFFFF'>The next time you perform \"Switch Character\":</color> This switch will be considered a <color style='color:#FFFFFFFF'>Fast Action</color> instead of a <color style='color:#FFFFFFFF'>Combat Action</color>.",
+            "Name": "Je m'en charge !",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous basculez de personnage : </color>Considère ce changement comme une <color style='color:#FFFFFFFF'>Action rapide</color>, et non pas comme une <color style='color:#FFFFFFFF'>Action de combat</color>.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Jiaogeiwoba",
             "Cost": {},
@@ -9353,8 +9355,8 @@ var _card = [
         },
         {
             "_id": 332005,
-            "Name": "I Haven't Lost Yet!",
-            "Desc": "<color style='color:#FFFFFFFF'>Only playable if one of your characters is defeated this Round:</color> Create <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> ×1 and your current active character gains 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>. (Only one copy of I Haven't Lost Yet! can be played each round.)",
+            "Name": "Pas encore perdu!",
+            "Desc": "<color style='color:#FFFFFFFF'>Jouable si un de vos personnages a été éliminé pendant la manche : </color>Crée 1 dé <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color> et accorde 1 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color> à votre personnage actif. (Une seule carte [Pas encore perdu !] peut être jouée à chaque manche)",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Bendayehaimeiyoushu",
             "Cost": {},
@@ -9366,8 +9368,8 @@ var _card = [
         },
         {
             "_id": 332004,
-            "Name": "Strategize",
-            "Desc": "Draw 2 cards.",
+            "Name": "Stratège",
+            "Desc": "Pioche 2 cartes.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Yunchouweiwo",
             "Cost": {
@@ -9378,8 +9380,8 @@ var _card = [
         },
         {
             "_id": 332003,
-            "Name": "Toss-Up",
-            "Desc": "Select any Elemental Dice to <color style='color:#FFFFFFFF'>reroll</color>. Can reroll 2 times.",
+            "Name": "Lancer en l'air",
+            "Desc": "Permet de <color style='color:#FFFFFFFF'>relancer</color> n'importe quel dé élémentaire. (2 fois)",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Yizhiqiankun",
             "Cost": {},
@@ -9388,8 +9390,8 @@ var _card = [
         },
         {
             "_id": 332002,
-            "Name": "Changing Shifts",
-            "Desc": "<color style='color:#FFFFFFFF'>The next time you perform \"Switch Character\":</color> Spend 1 less Elemental Die.",
+            "Name": "Relève",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque vous basculez de personnage : </color>Dépense 1 dé élémentaire en moins.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Huanbanshijian",
             "Cost": {},
@@ -9398,8 +9400,8 @@ var _card = [
         },
         {
             "_id": 332001,
-            "Name": "The Bestest Travel Companion!",
-            "Desc": "Convert the Elemental Dice spent to <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> ×2.",
+            "Name": "La meilleure des amies !",
+            "Desc": "Convertit 2 dés élémentaires en dés <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>.",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_BestAibo",
             "Cost": {
@@ -9412,8 +9414,8 @@ var _card = [
         },
         {
             "_id": 331804,
-            "Name": "Nature and Wisdom",
-            "Desc": "Draw 1 card. After that, switch any cards in your hand.<br>(You must have at least 2 [b]3404[a]Sumeru characters in your deck to add this card to your deck.)",
+            "Name": "Flore et sagesse",
+            "Desc": "Pioche 1 carte pour l'échanger avec une carte de votre choix dans votre main.<br>(Votre deck doit contenir au moins 2 personnages de [b]3404[a]Sumeru pour pouvoir y ajouter cette carte)",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Caoyuzhihui",
             "Cost": {
@@ -9424,8 +9426,8 @@ var _card = [
         },
         {
             "_id": 331803,
-            "Name": "Thunder and Eternity",
-            "Desc": "Convert all your Elemental Dice to <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>.<br>(You must have at least 2 [b]3403[a]Inazuman characters in your deck to add this card to your deck.)",
+            "Name": "Tonnerre et éternité",
+            "Desc": "Convertit tous vos dés en dés <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>.<br>(Votre deck doit contenir au moins 2 personnages d'[b]3403[a]Inazuma pour pouvoir y ajouter cette carte)",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Leiyuyongheng",
             "Cost": {},
@@ -9436,8 +9438,8 @@ var _card = [
         },
         {
             "_id": 331802,
-            "Name": "Stone and Contracts",
-            "Desc": "<color style='color:#FFFFFFFF'>When the Action Phase of the next Round begins:</color> Create 3 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color> and draw 1 card.<br>(You must have at least 2 [b]3402[a]Liyue characters in your deck to add this card to your deck.)",
+            "Name": "Pierre et contrats",
+            "Desc": "<color style='color:#FFFFFFFF'>Au début de la phase d'action de la prochaine manche : </color>Crée 3 dés <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color> et pioche 1 carte.<br>(Votre deck doit contenir au moins 2 personnages de [b]3402[a]Liyue pour pouvoir y ajouter cette carte)",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Yanyuqiyue",
             "Cost": {
@@ -9450,8 +9452,8 @@ var _card = [
         },
         {
             "_id": 331801,
-            "Name": "Wind and Freedom",
-            "Desc": "<color style='color:#FFFFFFFF'>During this turn, after one of your characters uses a Skill:</color> Switch your next character in to be the active character.<br>(You must have at least 2 characters from [b]3401[a]Mondstadt in your deck to add this card to your deck.)",
+            "Name": "Vent et liberté",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsque votre personnage a utilisé une capacité pendant la manche : </color>Fait basculer votre prochain personnage en attente sur le terrain.<br>(Votre deck doit contenir au moins 2 personnages de [b]3401[a]Mondstadt pour pouvoir y ajouter cette carte)",
             "Tag": [],
             "Icon": "UI_Gcg_CardFace_Event_Event_Fengyuziyou",
             "Cost": {},
@@ -9460,8 +9462,8 @@ var _card = [
         },
         {
             "_id": 331702,
-            "Name": "Elemental Resonance: Sprawling Greenery",
-            "Desc": "During this round, the next Elemental Reaction you trigger deals +2 DMG.<br>Your <color style='color:#FFFFFFFF'>Burning Flame, Dendro Core, and Catalyzing Field</color> gain +1 <color style='color:#FFFFFFFF'>Usage(s)</color>.<br>(You must have at least 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro</color> characters in your deck to add this card to your deck.)",
+            "Name": "Résonance élémentaire: Plante grimpante",
+            "Desc": "La prochaine fois que vous déclenchez une réaction élémentaire pendant la manche, DGT infligés +2.<br><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> des <color style='color:#FFFFFFFF'>Flamme brûlante, Noyau Dendro et Champ catalyseur</color> sur votre terrain +1.<br>(Votre deck doit contenir au moins 2 personnages [b]2107[a]<color style='color:#7EC236FF'>Dendro</color> pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9480,8 +9482,8 @@ var _card = [
         },
         {
             "_id": 331701,
-            "Name": "Elemental Resonance: Woven Weeds",
-            "Desc": "Create 1 <color style='color:#7EC236FF'>[b]1107[a]Dendro Die</color>.<br>(You must have at least 2 [b]2107[a]<color style='color:#7EC236FF'>Dendro</color> characters in your deck to add this card to your deck.)",
+            "Name": "Résonance élémentaire: Herbe tissée",
+            "Desc": "Crée 1 <color style='color:#7EC236FF'>dé [b]1107[a]Dendro</color>.<br>(Votre deck doit contenir au moins 2 personnages [b]2107[a]<color style='color:#7EC236FF'>Dendro</color> pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9492,8 +9494,8 @@ var _card = [
         },
         {
             "_id": 331602,
-            "Name": "Elemental Resonance: Enduring Rock",
-            "Desc": "During this round, after your character deals [b]2106[a]<color style='color:#FFE699FF'>Geo DMG</color> next time: Should there be any Combat Status on your side that provides [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color>, grant one such Status with 3 [b]4007[a]<color style='color:#FFFFFFFF'>Shield</color> points. <br>(You must have at least 2 [b]2106[a]<color style='color:#FFE699FF'>Geo</color> characters in your deck to add this card to your deck.)",
+            "Name": "Résonance élémentaire: Roc inamovible",
+            "Desc": "La prochaine fois que votre personnage a infligé des [b]2106[a]<color style='color:#FFE699FF'>DGT Géo</color> pendant la manche : Accorde 3 pts de [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> supplémentaire à un état de déploiement disposant déjà d'un [b]4007[a]<color style='color:#FFFFFFFF'>Bouclier</color> dans votre camp.<br>(Votre deck doit contenir au moins 2 personnages [b]2106[a]<color style='color:#FFE699FF'>Géo</color> pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9509,8 +9511,8 @@ var _card = [
         },
         {
             "_id": 331601,
-            "Name": "Elemental Resonance: Woven Stone",
-            "Desc": "Create 1 <color style='color:#FFE699FF'>[b]1106[a]Geo Die</color>.<br>(You must have at least 2 [b]2106[a]<color style='color:#FFE699FF'>Geo</color> characters in your deck to add this card to your deck.)",
+            "Name": "Résonance élémentaire: Terre tissée",
+            "Desc": "Crée 1 <color style='color:#FFE699FF'>dé [b]1106[a]Géo</color>.<br>(Votre deck doit contenir au moins 2 personnages [b]2106[a]<color style='color:#FFE699FF'>Géo</color> pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9521,8 +9523,8 @@ var _card = [
         },
         {
             "_id": 331502,
-            "Name": "Elemental Resonance: Impetuous Winds",
-            "Desc": "Switch to the target character and creates 1 <color style='color:#FFFFFFFF'>[b]1111[a]Omni Element</color>.<br>(You must have at least 2 [b]2105[a]<color style='color:#80FFD7FF'>Anemo</color> characters in your deck to add this card to your deck.)",
+            "Name": "Résonance élémentaire: Vents de la célérité",
+            "Desc": "Bascule pour le personnage choisi et crée 1 dé <color style='color:#FFFFFFFF'>[b]1111[a]Omni</color>.<br>(Votre deck doit contenir au moins 2 personnages [b]2105[a]<color style='color:#80FFD7FF'>Anémo</color> pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9537,8 +9539,8 @@ var _card = [
         },
         {
             "_id": 331501,
-            "Name": "Elemental Resonance: Woven Winds",
-            "Desc": "Create 1 <color style='color:#80FFD7FF'>[b]1105[a]Anemo Die</color>.<br>(You must have at least 2 [b]2105[a]<color style='color:#80FFD7FF'>Anemo</color> characters in your deck to add this card to your deck.)",
+            "Name": "Résonance élémentaire: Vent tissé",
+            "Desc": "Crée 1 <color style='color:#80FFD7FF'>dé [b]1105[a]Anémo</color>.<br>(Votre deck doit contenir au moins 2 personnages [b]2105[a]<color style='color:#80FFD7FF'>Anémo</color> pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9549,8 +9551,8 @@ var _card = [
         },
         {
             "_id": 331402,
-            "Name": "Elemental Resonance: High Voltage",
-            "Desc": "One of your characters without maximum Energy gains 1 <color style='color:#FFFFFFFF'>[b]1110[a]Energy</color>. (Active Character prioritized)<br>(You must have at least 2 [b]2104[a]<color style='color:#FFACFFFF'>Electro</color> characters in your deck to add this card to your deck.)",
+            "Name": "Résonance élémentaire: Tonnerre puissant",
+            "Desc": "Accorde 1 <color style='color:#FFFFFFFF'>[b]1110[a]Charge</color> à un de vos personnages dont les charges ne sont pas au maximum. (Priorité au personnage actif)<br>(Votre deck doit contenir au moins 2 personnages [b]2104[a]<color style='color:#FFACFFFF'>Électro</color> pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9565,8 +9567,8 @@ var _card = [
         },
         {
             "_id": 331401,
-            "Name": "Elemental Resonance: Woven Thunder",
-            "Desc": "Create 1 <color style='color:#FFACFFFF'>[b]1104[a]Electro Die</color>.<br>(You must have at least 2 [b]2104[a]<color style='color:#FFACFFFF'>Electro</color> characters in your deck to add this card to your deck.)",
+            "Name": "Résonance élémentaire: Éclair tissé",
+            "Desc": "Crée 1 <color style='color:#FFACFFFF'>dé [b]1104[a]Électro</color>.<br>(Votre deck doit contenir au moins 2 personnages [b]2104[a]<color style='color:#FFACFFFF'>Électro</color> pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9577,8 +9579,8 @@ var _card = [
         },
         {
             "_id": 331302,
-            "Name": "Elemental Resonance: Fervent Flames",
-            "Desc": "During this round, the next instance of <color style='color:#FF9999FF'>[b]2103[a]Pyro-Related Reactions</color> your current active character triggers deals +3 DMG.<br>(You must have at least 2 [b]2103[a]<color style='color:#FF9999FF'>Pyro</color> characters in your deck to add this card to your deck.)",
+            "Name": "Résonance élémentaire: Flammes de la ferveur",
+            "Desc": "La prochaine fois que votre personnage actif actuel déclenche une <color style='color:#FF9999FF'>Réaction liée à l'élément [b]2103[a]Pyro</color> pendant la manche, DGT infligés +3.<br>(Votre deck doit contenir au moins 2 personnages [b]2103[a]<color style='color:#FF9999FF'>Pyro</color> pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9593,8 +9595,8 @@ var _card = [
         },
         {
             "_id": 331301,
-            "Name": "Elemental Resonance: Woven Flames",
-            "Desc": "Create 1 <color style='color:#FF9999FF'>[b]1103[a]Pyro Die</color>.<br>(You must have at least 2 [b]2103[a]<color style='color:#FF9999FF'>Pyro</color> characters in your deck to add this card to your deck.)",
+            "Name": "Résonance élémentaire: Feu tissé",
+            "Desc": "Crée 1 <color style='color:#FF9999FF'>dé [b]1103[a]Pyro</color>.<br>(Votre deck doit contenir au moins 2 personnages [b]2103[a]<color style='color:#FF9999FF'>Pyro</color> pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9605,8 +9607,8 @@ var _card = [
         },
         {
             "_id": 331202,
-            "Name": "Elemental Resonance: Soothing Water",
-            "Desc": "Heal your active character for 2 HP and all your characters on standby for 1 HP.<br>(You must have at least 2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro</color> characters in your deck to add this card to your deck.)",
+            "Name": "Résonance élémentaire: Eau salvatrice",
+            "Desc": "Soigne votre personnage actif pour 2 pts, puis soigne tous vos personnages en attente pour 1 pt.<br>(Votre deck doit contenir au moins 2 personnages [b]2102[a]<color style='color:#80C0FFFF'>Hydro</color> pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9619,8 +9621,8 @@ var _card = [
         },
         {
             "_id": 331201,
-            "Name": "Elemental Resonance: Woven Waters",
-            "Desc": "Create 1 <color style='color:#80C0FFFF'>[b]1102[a]Hydro Die</color>.<br>(You must have at least 2 [b]2102[a]<color style='color:#80C0FFFF'>Hydro</color> characters in your deck to add this card to your deck.)",
+            "Name": "Résonance élémentaire: Eau tissée",
+            "Desc": "Crée 1 <color style='color:#80C0FFFF'>dé [b]1102[a]Hydro</color>.<br>(Votre deck doit contenir au moins 2 personnages [b]2102[a]<color style='color:#80C0FFFF'>Hydro</color> pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9631,8 +9633,8 @@ var _card = [
         },
         {
             "_id": 331102,
-            "Name": "Elemental Resonance: Shattering Ice",
-            "Desc": "During this Round, your current active character will deal +2 DMG for the next instance.<br>(You must have at least 2[b]2101[a] <color style='color:#99FFFFFF'>Cryo</color> characters in your deck to add this card to your deck.)",
+            "Name": "Résonance élémentaire: Gel pulvérisateur",
+            "Desc": "Prochains DGT infligés par votre personnage actif actuel pendant la manche +2.<br>(Votre deck doit contenir au moins 2 personnages [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color> pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9645,8 +9647,8 @@ var _card = [
         },
         {
             "_id": 331101,
-            "Name": "Elemental Resonance: Woven Ice",
-            "Desc": "Create 1 <color style='color:#99FFFFFF'>[b]1101[a]Cryo Die</color>.<br>(You must have at least 2 [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color> characters in your deck to add this card to your deck.)",
+            "Name": "Résonance élémentaire: Glace tissée",
+            "Desc": "Crée 1 <color style='color:#99FFFFFF'>dé [b]1101[a]Cryo</color>.<br>(Votre deck doit contenir au moins 2 personnages [b]2101[a]<color style='color:#99FFFFFF'>Cryo</color> pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_RESONANCE"
             ],
@@ -9657,8 +9659,8 @@ var _card = [
         },
         {
             "_id": 330006,
-            "Name": "Passing of Judgment",
-            "Desc": "3 Event Cards played by your opponent in this Round will take no effect.<br>(Only one [b]3007[a]\"Arcane Legend\" card can be played per match. This card will be in your starting hand.)",
+            "Name": "Instant du verdict",
+            "Desc": "Pendant la manche, 3 cartes d'événement jouées par votre adversaire n'auront aucun effet.<br>(Une seule carte d'[b]3007[a]arcane peut être jouée pendant toute une partie, et cette carte est obligatoirement dans votre main de départ)",
             "Tag": [
                 "GCG_TAG_LEGEND"
             ],
@@ -9672,8 +9674,8 @@ var _card = [
         },
         {
             "_id": 330005,
-            "Name": "In Every House a Stove",
-            "Desc": "Draw a number of cards equal to the <color style='color:#FFFFFFFF'>current Round number minus 1</color>. (Up to 4 cards can be drawn in this way)<br>(Only one [b]3007[a]\"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
+            "Name": "Poêle des familles",
+            "Desc": "Pioche un nombre de cartes égal <color style='color:#FFFFFFFF'>au numéro de la manche en cours moins 1</color>. (4 cartes maximum)<br>(Une seule carte d'[b]3007[a]arcane peut être jouée pendant toute une partie, et cette carte est obligatoirement dans votre main de départ)",
             "Tag": [
                 "GCG_TAG_LEGEND"
             ],
@@ -9686,8 +9688,8 @@ var _card = [
         },
         {
             "_id": 330004,
-            "Name": "Fresh Wind of Freedom",
-            "Desc": "<color style='color:#FFFFFFFF'>In this Round, when an opposing character is defeated during your Action</color>, you can continue to act again when that Action ends.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Usage(s)</color>：1</color><br>(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
+            "Name": "Vent nouveau de liberté",
+            "Desc": "<color style='color:#FFFFFFFF'>Lorsqu'un personnage adverse est éliminé lors de votre phase d'action pendant la manche : </color>Après la fin de la phase d'action, vous pouvez continuer à faire une action.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Nombre d'utilisations</color> : 1</color><br>(Une seule carte d'[b]3007[a]arcane peut être jouée pendant toute une partie, et cette carte est obligatoirement dans votre main de départ)",
             "Tag": [
                 "GCG_TAG_LEGEND"
             ],
@@ -9702,8 +9704,8 @@ var _card = [
         },
         {
             "_id": 330003,
-            "Name": "Joyous Celebration",
-            "Desc": "<color style='color:#FFFFFFFF'>Your active character must be one of the following elemental types to play this card:</color>[b]2101[a]<color style='color:#99FFFFFF'>Cryo</color>/[b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>/[b]2103[a]<color style='color:#FF9999FF'>Pyro</color>/[b]2104[a]<color style='color:#FFACFFFF'>Electro</color>/[b]2107[a]<color style='color:#7EC236FF'>Dendro</color> The element corresponding to your active character's Elemental Type will be applied to all your characters affected by elements.<br>(Only one \"[b]3007[a]Arcane Legend\" card can be played per match. This card will be in your starting hand.)",
+            "Name": "Joyeuse célébration",
+            "Desc": "<color style='color:#FFFFFFFF'>Jouable si votre personnage actif est de l'élément </color>[b]2101[a]<color style='color:#99FFFFFF'>Cryo</color>, [b]2102[a]<color style='color:#80C0FFFF'>Hydro</color>, [b]2103[a]<color style='color:#FF9999FF'>Pyro</color>, [b]2104[a]<color style='color:#FFACFFFF'>Électro</color> ou [b]2107[a]<color style='color:#7EC236FF'>Dendro</color> : Applique le type élémentaire de votre personnage actif à tous vos personnages affectés par un élément.<br>(Une seule carte d'[b]3007[a]arcane peut être jouée pendant toute une partie, et cette carte est obligatoirement dans votre main de départ)",
             "Tag": [
                 "GCG_TAG_LEGEND"
             ],
@@ -9716,8 +9718,8 @@ var _card = [
         },
         {
             "_id": 330002,
-            "Name": "Covenant of Rock",
-            "Desc": "<color style='color:#FFFFFFFF'>Can only be played when you have 0 Elemental Dice left:</color> Generate 2 different basic Elemental Dice.<br>(Only one [b]3007[a]\"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
+            "Name": "Alliance de roche",
+            "Desc": "<color style='color:#FFFFFFFF'>Jouable s'il ne vous reste plus aucun dé élémentaire : </color>Crée 2 dés élémentaires de base de types différents.<br>(Une seule carte d'[b]3007[a]arcane peut être jouée pendant toute une partie, et cette carte est obligatoirement dans votre main de départ)",
             "Tag": [
                 "GCG_TAG_LEGEND"
             ],
@@ -9730,8 +9732,8 @@ var _card = [
         },
         {
             "_id": 330001,
-            "Name": "Ancient Courtyard",
-            "Desc": "<color style='color:#FFFFFFFF'>You must have a character who has already equipped a [b]3003[a]Weapon or [b]3004[a]Artifact: The next time you play a [b]3003[a]Weapon or [b]3004[a]Artifact card in this Round:</color> Spend 2 less Elemental Dice.<br>(Only one [b]3007[a]\"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
+            "Name": "Jardin d'antan",
+            "Desc": "<color style='color:#FFFFFFFF'>Jouable si une carte d'[b]3003[a]arme ou d'[b]3004[a]artéfact est équipée sur un de vos personnages : </color>Dépense 2 dés élémentaires en moins la prochaine fois que vous jouez une carte d'équipement d'[b]3003[a]arme ou d'[b]3004[a]artéfact pendant la manche.<br>(Une seule carte d'[b]3007[a]arcane peut être jouée pendant toute une partie, et cette carte est obligatoirement dans votre main de départ)",
             "Tag": [
                 "GCG_TAG_LEGEND"
             ],
@@ -9744,8 +9746,8 @@ var _card = [
         },
         {
             "_id": 226022,
-            "Name": "Lunar Cycles Unending",
-            "Desc": "<color style='color:#FFFFFFFF'>Combat Action</color>: When your active character is <color style='color:#FFFFFFFF'>Azhdaha</color>, play this card on them. Attach <color style='color:#FFFFFFFF'>Stone Facets: Elemental Crystallization</color> to Azhdaha, then create 1 Elemental Die for each Elemental Type your characters have.<br>(Deck must contain Azhdaha to add this card to it)",
+            "Name": "Cycle interminable",
+            "Desc": "<color style='color:#FFFFFFFF'>Action de combat</color> : Lorsque votre personnage actif est <color style='color:#FFFFFFFF'>Azhdaha</color>, joue cette carte sur le personnage : Applique « <color style='color:#FFFFFFFF'>Facettes de la roche : Condensation élémentaire</color> » sur Azhdaha, puis crée 1 dé élémentaire pour chaque type élémentaire de vos personnages.<br>(Votre deck doit contenir Azhdaha pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"
@@ -9763,8 +9765,8 @@ var _card = [
         },
         {
             "_id": 224011,
-            "Name": "Absorbing Prism",
-            "Desc": "<color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Combat Action</color>:</color> When your active character is <color style='color:#FFFFFFFF'>Electro Hypostasis</color>, heal that character for 3 HP and attach the <color style='color:#FFFFFFFF'>Electro Crystal Core</color> to them.<br>(You must have Electro Hypostasis in your deck to add this card to your deck.)",
+            "Name": "Prisme absorbant",
+            "Desc": "<color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Action de combat</color> : </color>Lorsque votre personnage actif est l'<color style='color:#FFFFFFFF'>Hypostase Électro</color>, soigne le personnage pour 3 pts et lui accorde un <color style='color:#FFFFFFFF'>Noyau cristallin Électro</color>.<br>(Votre deck doit contenir l'Hypostase Électro pour pouvoir y ajouter cette carte)",
             "Tag": [
                 "GCG_TAG_TALENT",
                 "GCG_TAG_SLOWLY"

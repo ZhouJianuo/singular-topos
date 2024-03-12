@@ -3266,7 +3266,8 @@ var _skills = {
         "Cost": {},
         "SP": 0,
         "C": [
-            121035
+            121035,
+            124016
         ]
     },
     "21038": {
@@ -3880,7 +3881,7 @@ var _skills = {
     },
     "24041": {
         "_id": 24041,
-        "Name": "Грозовые разряды ЪЪЪ",
+        "Name": "Грозовые разряды",
         "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
@@ -3894,7 +3895,7 @@ var _skills = {
     },
     "24042": {
         "_id": 24042,
-        "Name": "Зов в тумане ЪЪЪ",
+        "Name": "Зов в тумане",
         "Desc": "Призывает помощника: <color style='color:#FFFFFFFF'>Электро цицин</color>.",
         "Tag": [
             "GCG_SKILL_TAG_E"
@@ -3909,7 +3910,7 @@ var _skills = {
     },
     "24043": {
         "_id": 24043,
-        "Name": "Громовая защита ЪЪЪ",
+        "Name": "Громовая защита",
         "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>1</b> ед., этот персонаж получает <color style='color:#FFACFFFF'>Эффект [b]2104[a]Электро</color>, создаёт <color style='color:#FFFFFFFF'>Купол Электро цицина</color> и подготавливает <color style='color:#FFFFFFFF'>Молниеносный взрыв</color>.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
@@ -5087,7 +5088,7 @@ var _skills = {
     },
     "31081": {
         "_id": 31081,
-        "Name": "Прыгучая бомба ЪЪЪ",
+        "Name": "Прыгучая бомба",
         "Desc": "Наносит <b><color style='color:#99FFFF;'>[b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color></color></b>, <b>1</b> ед.",
         "Tag": [
             "GCG_SKILL_TAG_A"
@@ -6504,7 +6505,7 @@ var _skills = {
     },
     "34093": {
         "_id": 34093,
-        "Name": "Укус Пожирателя ЪЪЪ",
+        "Name": "Укус Пожирателя",
         "Desc": "Наносит <b><color style='color:#FFACFF;'>[b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color></color></b>, <b>6</b> ед. Вызывает <color style='color:#FFFFFFFF'>Разложение</color> у противника.",
         "Tag": [
             "GCG_SKILL_TAG_Q"
@@ -7352,7 +7353,7 @@ var _ref = {
     "111101": {
         "_id": 111101,
         "Name": "Скоростной силуэт",
-        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза</color>: персонаж в этом состоянии получает [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>, 1 ед. Если <color style='color:#FFFFFFFF'>Кол-во применений</color> не более 1 ед., то этот урон увеличивается ещё на 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза</color>: персонажи в этом состоянии получают [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>, 1 ед. Если <color style='color:#FFFFFFFF'>Кол-во применений</color> равняются 1 ед., а персонаж в этом состоянии подвержен эффекту [b]2101[a]<color style='color:#99FFFFFF'>Крио</color>, то этот урон увеличивается ещё на 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
@@ -7812,7 +7813,7 @@ var _ref = {
     "115061": {
         "_id": 115061,
         "Name": "Избранник ветра",
-        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж с этой картой совершает обычную атаку:</color> урон увеличивается на 2 ед. Если у противника есть неактивные персонажи, то этот навык также нанесёт урон следующему неактивному персонажу.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
+        "Desc": "<color style='color:#FFFFFFFF'>Когда персонаж с этой картой совершает обычную атаку:</color> урон увеличивается на 2 ед. Если у противника есть неактивные персонажи, то урон навыка будет нанесён следующему неактивному персонажу противника.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color>",
         "Tag": [],
         "Cost": {}
     },
@@ -8025,7 +8026,7 @@ var _ref = {
     "121011": {
         "_id": 121011,
         "Name": "Крио цицин",
-        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза</color>: наносит [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color> (складывается до 3 раз).<br><color style='color:#FFFFFFFF'>Когда Фатуи: Маг Крио цицинов совершает обычную атаку: </color><color style='color:#FFFFFFFF'>Кол-во применений</color> этой карты увеличивается на 1 ед.<br><color style='color:#FFFFFFFF'>Когда Фатуи: Маг Крио цицинов получает урон, вызванный элементальной реакцией: </color> <color style='color:#FFFFFFFF'>Кол-во применений</color> карты уменьшается на 1 ед.",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза</color>: наносит [b]2101[a]<color style='color:#99FFFFFF'>Крио урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color> (складывается до 3 раз).<br><color style='color:#FFFFFFFF'>Когда Фатуи: Маг Крио цицинов совершает обычную атаку: </color><color style='color:#FFFFFFFF'>Кол-во применений</color> этой карты увеличивается на 1 ед.<br><color style='color:#FFFFFFFF'>Когда Фатуи: Маг Крио цицинов получает урон, вызванный элементальной реакцией:</color> <color style='color:#FFFFFFFF'>Кол-во применений</color> карты уменьшается на 1 ед.",
         "Tag": [],
         "Cost": {}
     },
@@ -8258,7 +8259,7 @@ var _ref = {
     "124041": {
         "_id": 124041,
         "Name": "Электро цицин",
-        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза</color>: наносит [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 2</color> (складывается до 3 раз).<br><color style='color:#FFFFFFFF'>Когда противник разыграет суммарно 3 карты действия: </color><color style='color:#FFFFFFFF'>Кол-во применений</color> этой карты увеличиваются на 1 ед. (но не более 3 ед.)<br><color style='color:#FFFFFFFF'>Когда Фатуи: Маг Электро цицинов получает урон, вызванный элементальной реакцией:</color> эта карта теряет 1 ед. <color style='color:#FFFFFFFF'>Кол-во применений</color>.",
+        "Desc": "<color style='color:#FFFFFFFF'>Финальная фаза</color>: наносит [b]2104[a]<color style='color:#FFACFFFF'>Электро урон</color>, 1 ед.<br><color style='color:#FFFFFFFF'><color style='color:#FFFFFFFF'>Кол-во применений</color>: 3</color>.<br><color style='color:#FFFFFFFF'>Когда противник разыграет суммарно 3 карты действия: </color><color style='color:#FFFFFFFF'>Кол-во применений</color> этой карты увеличиваются на 1 ед. (но не более 3 ед.)<br><color style='color:#FFFFFFFF'>Когда Фатуи: Маг Электро цицинов получает урон, вызванный элементальной реакцией:</color> эта карта теряет 1 ед. <color style='color:#FFFFFFFF'>Кол-во применений</color>.",
         "Tag": [],
         "Cost": {}
     },

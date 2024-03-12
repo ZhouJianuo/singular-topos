@@ -5833,7 +5833,8 @@ var _card = [
             "Icon": "",
             "Cost": {},
             "C": [
-                402005
+                402005,
+                402003
             ],
             "K": [
                 54
@@ -5847,7 +5848,8 @@ var _card = [
             "Icon": "",
             "Cost": {},
             "C": [
-                402004
+                402004,
+                402003
             ],
             "K": [
                 54
@@ -6221,7 +6223,7 @@ var _card = [
         {
             "_id": 312025,
             "Name": "Golden Troupe's Reward",
-            "Desc": "<color style='color:#FFFFFFFF'>When Played:</color> This card will have 1 \"Recompense\" point.<br><color style='color:#FFFFFFFF'>End Phase:</color> If the character to which this is attached is on standby, this card gains 1 \"Recompense\" point. (Max 2 points)<br><color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses an Elemental Skill:</color> For each \"Recompense\" point this card has, consume it to spend 1 less Elemental Die.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
+            "Desc": "<color style='color:#FFFFFFFF'>End Phase:</color> If the character to which this is attached is on standby, this card gains 1 \"Recompense\" point. (Max 2 points)<br><color style='color:#FFFFFFFF'>When you play a [b]3006[a]Talent card or a Character uses an Elemental Skill:</color> For each \"Recompense\" point this card has, consume it to spend 1 less Elemental Die.<br>(A character can equip a maximum of 1 [b]3004[a]Artifact)",
             "Tag": [
                 "GCG_TAG_ARTIFACT"
             ],
