@@ -70,7 +70,7 @@ $(function () {
                 },
                 class: 'load-group'
             }, {
-                div: achTable(cur_ver, cur_group),
+                div: '',
                 style: {
                     'overflow-x': 'scroll',
                     'transform': 'rotateX(180deg)',
@@ -81,6 +81,8 @@ $(function () {
         })
 
         $('.load-group').hide()
+
+        $('.ach-table').render(achTable(cur_ver, cur_group))
 
     }
 
