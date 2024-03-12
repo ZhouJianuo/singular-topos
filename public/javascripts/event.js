@@ -222,6 +222,10 @@ $(function () {
 
     function popItem(y) {
         this_item = _item[y]
+        if (this_item.Link) {
+            window.open(`/sr/item/${this_item._id}`)
+            return
+        }
         poplayer({
             header: VER_SR + txt.Affix[lang],
             width: '90%',

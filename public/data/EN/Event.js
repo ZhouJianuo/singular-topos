@@ -995,7 +995,8 @@ var _item = {
         "Src": [
             "Omni-Synthesizer",
             "Clock Diner"
-        ]
+        ],
+        "Link": 1
     },
     "1": {
         "_id": 1,
@@ -1004,7 +1005,8 @@ var _item = {
         "Desc": "",
         "Story": "A fleeting gleam arrowing across the night sky. Catch it before it's gone. Maybe it can be used to barter?<br><br><i>\"Some say that the lights are wishes of sentient beings. While insignificant and elusive, they did light up the pocket of sky around them, right?\"</i>",
         "Icon": "900001.png",
-        "Pic": "900001.png"
+        "Pic": "900001.png",
+        "Link": 1
     },
     "2": {
         "_id": 2,
@@ -1021,7 +1023,8 @@ var _item = {
             "Mission rewards",
             "Assignment rewards",
             "Embers Exchange"
-        ]
+        ],
+        "Link": 1
     },
     "401026": {
         "_id": 401026,
@@ -1034,7 +1037,8 @@ var _item = {
         "Src": [
             "Omni-Synthesizer",
             "Popcorn Food Truck"
-        ]
+        ],
+        "Link": 1
     },
     "401025": {
         "_id": 401025,
@@ -1047,7 +1051,8 @@ var _item = {
         "Src": [
             "Omni-Synthesizer",
             "Anderson"
-        ]
+        ],
+        "Link": 1
     },
     "401027": {
         "_id": 401027,
@@ -1060,7 +1065,8 @@ var _item = {
         "Src": [
             "Omni-Synthesizer",
             "Ice Cream Trolley"
-        ]
+        ],
+        "Link": 1
     },
     "406017": {
         "_id": 406017,
@@ -1082,7 +1088,8 @@ var _item = {
         "Src": [
             "Forgotten Hall",
             "Pure Fiction"
-        ]
+        ],
+        "Link": 1
     },
     "261": {
         "_id": 261,
@@ -1099,7 +1106,8 @@ var _item = {
             "Echo of War (Everwinter Hill)",
             "Echo of War (Scalegorge Waterscape)",
             "Echo of War (Seclusion Zone)"
-        ]
+        ],
+        "Link": 1
     },
     "300041": {
         "_id": 300041,
@@ -1108,7 +1116,8 @@ var _item = {
         "Desc": "The assistance provided by Herta to the Astral Express. Upon use, you can select one item to obtain from the following materials:<br>· Lifeless Blade<br>· Arrow of the Demon Slayer<br>· Key of Knowledge<br>· Oath of Steel<br>· Obsidian of Desolation<br>· Ancestral Hymn<br>· Sprout of Life",
         "Story": "Materials provided to the Express in accordance with the mutual aid contract.<br><br><i>\"Since it's mutual aid, save your thanks.\"</i>",
         "Icon": "300041.png",
-        "Pic": "300041.png"
+        "Pic": "300041.png",
+        "Link": 1
     },
     "309002": {
         "_id": 309002,
@@ -1117,7 +1126,8 @@ var _item = {
         "Desc": "A beautiful envelope containing a customized ticket. When used, you can choose one of the following 4-star characters:<br>Guinaifen, Sampo, Asta, or Yukong.",
         "Story": "\"Meet new companions in your journeys.\"",
         "Icon": "309001.png",
-        "Pic": "309001.png"
+        "Pic": "309001.png",
+        "Link": 1
     },
     "309003": {
         "_id": 309003,
@@ -1126,7 +1136,8 @@ var _item = {
         "Desc": "A beautiful envelope containing a customized ticket. When used, you can choose one of the following 4-star characters:<br>Gallagher, Misha, Xueyi, Hanya, Guinaifen, Luka, Lynx, or Yukong.",
         "Story": "\"Meet new companions in your journeys.\"",
         "Icon": "309001.png",
-        "Pic": "309001.png"
+        "Pic": "309001.png",
+        "Link": 1
     },
     "309001": {
         "_id": 309001,
@@ -1135,7 +1146,8 @@ var _item = {
         "Desc": "A beautiful envelope containing a customized ticket. When used, you can choose one of the following 4-star characters:<br>Serval, Hook, Pela, Luka",
         "Story": "\"Meet new companions in your journeys.\"",
         "Icon": "309001.png",
-        "Pic": "309001.png"
+        "Pic": "309001.png",
+        "Link": 1
     },
     "110222": {
         "_id": 110222,
@@ -1151,7 +1163,8 @@ var _item = {
             "Omni-Synthesizer — Material Synthesis",
             "Embers Exchange",
             "Omni-Synthesizer — Material Exchange"
-        ]
+        ],
+        "Link": 1
     },
     "271": {
         "_id": 271,
@@ -1160,7 +1173,8 @@ var _item = {
         "Desc": "A special gadget made by Herta. It can Superimpose special Light Cones obtained from the Simulated Universe.",
         "Story": "A special gadget made by Herta. Its principles are not stated.<br><br><i>\"Be grateful, Trailblazer. I've prepared everything for you.\"</i>",
         "Icon": "271.png",
-        "Pic": "271.png"
+        "Pic": "271.png",
+        "Link": 1
     },
     "140310": {
         "_id": 140310,
@@ -1169,7 +1183,8 @@ var _item = {
         "Desc": "",
         "Story": "Storytellers spin up tales all the time about heroes and heroines and legions and knights. Yet this tale goes beyond a storyteller's imagination — it draws inspiration from your extraordinary adventures.<br><br><i>To find out what happens next, please tune in next time.</i>",
         "Icon": "140303.png",
-        "Pic": "140303.png"
+        "Pic": "140303.png",
+        "Link": 1
     },
     "22": {
         "_id": 22,
@@ -1182,7 +1197,8 @@ var _item = {
         "Src": [
             "Mission rewards",
             "Trailblaze Power consumption"
-        ]
+        ],
+        "Link": 1
     },
     "405020": {
         "_id": 405020,
@@ -1200,7 +1216,8 @@ var _item = {
         "Desc": "Avatar obtainable by completing the \"Cosmodyssey\" event.",
         "Story": "Pom-Pom holding a one-year-anniversary commemorative gold medal.<br><br><i>\"Ta-da! This commemorative medal is for you! Here's to the future expeditions we'll be experiencing together!\"</i>",
         "Icon": "avatarhead/IconHead_202016.png",
-        "Pic": "avatarhead/IconHead_202016.png"
+        "Pic": "avatarhead/IconHead_202016.png",
+        "Link": 1
     },
     "110112": {
         "_id": 110112,
@@ -1216,7 +1233,8 @@ var _item = {
             "Omni-Synthesizer — Material Synthesis",
             "Embers Exchange",
             "Omni-Synthesizer — Material Exchange"
-        ]
+        ],
+        "Link": 1
     },
     "110113": {
         "_id": 110113,
@@ -1231,7 +1249,8 @@ var _item = {
             "Calyx (Storage Zone)",
             "Omni-Synthesizer — Material Synthesis",
             "Omni-Synthesizer — Material Exchange"
-        ]
+        ],
+        "Link": 1
     },
     "110122": {
         "_id": 110122,
@@ -1247,7 +1266,8 @@ var _item = {
             "Omni-Synthesizer — Material Synthesis",
             "Embers Exchange",
             "Omni-Synthesizer — Material Exchange"
-        ]
+        ],
+        "Link": 1
     },
     "110123": {
         "_id": 110123,
@@ -1262,7 +1282,8 @@ var _item = {
             "Calyx (Outlying Snow Plains)",
             "Omni-Synthesizer — Material Synthesis",
             "Omni-Synthesizer — Material Exchange"
-        ]
+        ],
+        "Link": 1
     },
     "1206": {
         "_id": 1206,
@@ -1333,7 +1354,8 @@ var _item = {
             "Stagnant Shadow: Base Zone",
             "Stagnant Shadow (Base Zone)",
             "Omni-Synthesizer — Material Exchange"
-        ]
+        ],
+        "Link": 1
     },
     "83144": {
         "_id": 83144,
@@ -1357,7 +1379,8 @@ var _item = {
         "Pic": "201.png",
         "Src": [
             "Level Rewards"
-        ]
+        ],
+        "Link": 1
     },
     "110153": {
         "_id": 110153,
@@ -1372,7 +1395,8 @@ var _item = {
             "Calyx (Great Mine)",
             "Omni-Synthesizer — Material Synthesis",
             "Omni-Synthesizer — Material Exchange"
-        ]
+        ],
+        "Link": 1
     },
     "140363": {
         "_id": 140363,
@@ -1381,7 +1405,8 @@ var _item = {
         "Desc": "",
         "Story": "A ruined booklet. The pages are yellowish and fragile, and the notes written are extremely blurred. It is said that some of its text records some long-lost ancient Belobogian martial arts techniques.<br><br>\"I am almost certain that this booklet was made to look old by being fed to Funeral Worms before soaked in Moo-Moo urine... But the contents written upon its pages might very well be real, as certain contemporary texts can attest. Ah... Don't cry yet, let's get the appraisal fee settled first, thank you.\" — Balaway \"Miner's Lamp\"",
         "Icon": "140363.png",
-        "Pic": "140363.png"
+        "Pic": "140363.png",
+        "Link": 1
     },
     "221003": {
         "_id": 221003,
@@ -1421,7 +1446,8 @@ var _item = {
             "Omni-Synthesizer — Material Synthesis",
             "Embers Exchange",
             "Omni-Synthesizer — Material Exchange"
-        ]
+        ],
+        "Link": 1
     },
     "221001": {
         "_id": 221001,
@@ -1448,7 +1474,8 @@ var _item = {
             "Calyx: Cloudford",
             "Calyx: Dream's Edge",
             "Forgotten Hall"
-        ]
+        ],
+        "Link": 1
     },
     "110172": {
         "_id": 110172,
@@ -1464,7 +1491,8 @@ var _item = {
             "Omni-Synthesizer — Material Synthesis",
             "Embers Exchange",
             "Omni-Synthesizer — Material Exchange"
-        ]
+        ],
+        "Link": 1
     },
     "110173": {
         "_id": 110173,
@@ -1479,7 +1507,8 @@ var _item = {
             "Calyx (Backwater Pass)",
             "Omni-Synthesizer — Material Synthesis",
             "Omni-Synthesizer — Material Exchange"
-        ]
+        ],
+        "Link": 1
     },
     "222": {
         "_id": 222,
@@ -1494,7 +1523,8 @@ var _item = {
             "Calyx: Divination Commission",
             "Calyx: A Child's Dream",
             "Embers Exchange"
-        ]
+        ],
+        "Link": 1
     },
     "223": {
         "_id": 223,
@@ -1509,7 +1539,8 @@ var _item = {
             "Calyx: Divination Commission",
             "Calyx: A Child's Dream",
             "Forgotten Hall"
-        ]
+        ],
+        "Link": 1
     },
     "220001": {
         "_id": 220001,
@@ -1566,7 +1597,8 @@ var _item = {
         "Desc": "",
         "Story": "Astral Express Universal Pass. Travel as far as the Star Rail stretches.<br><br><i>\"Map worlds, meet people, make memories.\"</i>",
         "Icon": "101.png",
-        "Pic": "101.png"
+        "Pic": "101.png",
+        "Link": 1
     },
     "402017": {
         "_id": 402017,
@@ -1578,7 +1610,8 @@ var _item = {
         "Pic": "402017.png",
         "Src": [
             "Omni-Synthesizer"
-        ]
+        ],
+        "Link": 1
     },
     "232": {
         "_id": 232,
@@ -1592,7 +1625,8 @@ var _item = {
             "Daily Training",
             "Salvage Relic",
             "Embers Exchange"
-        ]
+        ],
+        "Link": 1
     },
     "233": {
         "_id": 233,
@@ -1604,7 +1638,8 @@ var _item = {
         "Pic": "233.png",
         "Src": [
             "Forgotten Hall"
-        ]
+        ],
+        "Link": 1
     },
     "235": {
         "_id": 235,
@@ -1616,7 +1651,8 @@ var _item = {
         "Pic": "235.png",
         "Src": [
             "Salvage Relic"
-        ]
+        ],
+        "Link": 1
     },
     "236": {
         "_id": 236,
@@ -1628,7 +1664,8 @@ var _item = {
         "Pic": "236.png",
         "Src": [
             "Nameless Honor"
-        ]
+        ],
+        "Link": 1
     },
     "22000": {
         "_id": 22000,
@@ -1653,7 +1690,8 @@ var _item = {
             "Embers Exchange",
             "Starlight Exchange",
             "Limited-Time Event Rewards"
-        ]
+        ],
+        "Link": 1
     },
     "22001": {
         "_id": 22001,
@@ -1683,7 +1721,8 @@ var _item = {
         "Pic": "503.png",
         "Src": [
             "Simulated Universe Point Rewards"
-        ]
+        ],
+        "Link": 1
     },
     "401021": {
         "_id": 401021,
@@ -1696,7 +1735,8 @@ var _item = {
         "Src": [
             "Omni-Synthesizer",
             "Clock Diner"
-        ]
+        ],
+        "Link": 1
     },
     "401022": {
         "_id": 401022,
@@ -1709,7 +1749,8 @@ var _item = {
         "Src": [
             "Omni-Synthesizer",
             "Clock Diner"
-        ]
+        ],
+        "Link": 1
     },
     "401023": {
         "_id": 401023,
@@ -1722,7 +1763,8 @@ var _item = {
         "Src": [
             "Omni-Synthesizer",
             "Clock Diner"
-        ]
+        ],
+        "Link": 1
     }
 }
 
