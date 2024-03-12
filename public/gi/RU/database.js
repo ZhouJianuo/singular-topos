@@ -18274,6 +18274,10 @@ var _Monsters = {
         "Weight": 250,
         "EndureTemplateID": 400,
         "Tutorial": "- Initially, <b>the Millenial Pearl under its head contains<color style='color:#7030A0;'>19U Electro</color></b>: The Pearl will increase its all RES by 60% (Abyss Version 80%), and it will unleash deadly attacks, creating Electrified Areas that deal massive DoT.<br>- When the Pearl's Element drops below 7U, it will call for the Fontemer Hoarthunder, summoning three Hearts of Storm, which contain 0.4U Electro. Destroying each Heart will cause the Pearl to <b>lose a third of its durability</b><br>- During the 15s call, the Fontemer Hoarthunder will continuously descend. If not all Hearts are destroyed in time, each remaining Heart <b>reviving a third of the Pearl's durability plus 2GU</b>.<br>- After the Pearl is destroyed, it will regenerate its Pearl after 30s (Abyss Version 20s). Regenerated Pearl's durability <b>decreases to 11.4GU</b>.",
+        "TutorialPic": [
+            "UI_Tutorial_201a",
+            "UI_Tutorial_201b"
+        ],
         "SkillDMG": [
             {
                 "Name": "Fontemer Hoarthunder",

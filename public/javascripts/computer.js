@@ -224,9 +224,31 @@ $(function () {
                                     header: computer_.MiscText.Computer_Result_Button_Tutorial2[lang2],
                                     width: '80%',
                                     template: {
-                                        div: function (d) {
-                                            $(d.container).html(p.org_data.Tutorial)
-                                        },
+                                        div: [
+                                            {
+                                                div: {
+                                                    img: function (o) {
+                                                        return imgpre + 'images/Tutorial/' + o.data + '.png'
+                                                    },
+                                                    data: p.org_data.TutorialPic,
+                                                    style: {
+                                                        width: '80%',
+                                                        'max-width': '400px',
+                                                        'margin': '10px'
+                                                    }
+                                                },
+                                                style: {
+                                                    display: 'flex',
+                                                    'justify-content': 'center',
+                                                    'flex-wrap': 'wrap',
+                                                    'margin-top': '-10px'
+                                                },
+                                                when: p.org_data.TutorialPic && p.org_data.TutorialPic.length
+                                            },
+                                            {
+                                                p: p.org_data.Tutorial
+                                            }
+                                        ],
                                         style: {
                                             'white-space': 'pre-wrap',
                                             'padding': '10px',
