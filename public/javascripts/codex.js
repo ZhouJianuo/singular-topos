@@ -20,7 +20,7 @@ $(function () {
     ]);
 
     let script_computer = document.createElement('script')
-    script_computer.src = '/gi/' + lang2 + '/codex.js'
+    script_computer.src = '/gi/' + lang3 + '/codex.js'
     document.head.append(script_computer)
     script_computer.onload = begin
 

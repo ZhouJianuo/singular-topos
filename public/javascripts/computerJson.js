@@ -6469,38 +6469,31 @@ var links = [
     }
 ]
 
-var is_ru = 0
-
-var _lang = 0
-var DATE = new Date()
+var cookie_lang = "EN"
 document.cookie.split(";").forEach(function (c) { 
     if ((c.includes('lang=')) && !(c.includes('session'))) {
-        _lang = c.substring(c.indexOf('lang=') + 5, c.indexOf('lang=') + 7)
-    } else {
-        document.cookie = c.replace(/^ +/, "").replace(/=.*/, "=;expires=" + DATE.toUTCString() + ";path=/"); 
+        cookie_lang = c.substring(c.indexOf('lang=') + 5, c.indexOf('lang=') + 7)
     }
 });
-
-var lang_ = $('#LANG').val().toUpperCase()
-if (lang_ == 'RU') {
-    is_ru = 1
-    lang_ = 'EN'
+var AVAILABLE_LANG = ["CH", "EN", "RU", "JP", "KR", "DE", "FR", "SP", "PT"]
+var is_ru = 0
+var param_lang = $('#LANG').val().toUpperCase()
+var store_lang = param_lang
+if (!AVAILABLE_LANG.includes(store_lang)) {
+    store_lang = "EN"
 }
-    
-var lang = 'EN'
-if (lang_) {
-    lang = lang_
-    document.cookie = 'lang=' + (is_ru ? 'RU' : lang_) + ';expires=' + new Date(DATE.getTime() + 8640000000).toUTCString() + ';path=/'
+var lang3 = "EN"
+if (param_lang) {
+    var DATE = new Date()
+    document.cookie = 'lang=' + store_lang + ';expires=' + new Date(DATE.getTime() + 8640000000).toUTCString() + ';path=/'
+    lang3 = store_lang
 } else {
-    if (_lang == 'RU') {
-        is_ru = 1
-        lang = 'EN'
-    } else {
-        lang = (_lang === 'CH') ? 'CH' : 'EN';
-    }
+    lang3 = cookie_lang
 }
-
-var lang2 = is_ru ? 'RU' : lang
+var lang2 = lang3
+if ((lang2 != "CH") && (lang2 != "EN") && (lang2 != "RU")) lang2 = "EN"
+var lang = lang2
+if (lang == "RU") lang = "EN"
 
 if (lang == 'EN') { $('body').css('font-family', "'Segoe UI', 'Arial', sans-serif") }
 else { $('body').css('font-family', "'Microsoft YaHei', sans-serif") }

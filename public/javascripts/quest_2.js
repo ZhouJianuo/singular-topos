@@ -24,14 +24,14 @@ $(function () {
     var l2 = 0
 
     let script_computer = document.createElement('script')
-    script_computer.src = '/gi/' + lang2 + '/quest/chapter_' + avid + '.js'
+    script_computer.src = '/gi/' + lang3 + '/quest/chapter_' + avid + '.js'
     document.head.append(script_computer)
     script_computer.onload = function () {
         l1 = 1
     }
 
     let script_computer_2 = document.createElement('script')
-    script_computer_2.src = '/gi/' + lang2 + '/mainquestitems.js'
+    script_computer_2.src = '/gi/' + lang3 + '/mainquestitems.js'
     document.head.append(script_computer_2)
     script_computer_2.onload = function () {
         l2 = 1

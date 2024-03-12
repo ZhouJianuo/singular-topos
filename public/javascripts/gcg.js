@@ -23,12 +23,12 @@ $(function () {
     var has_2 = 0
 
     let script_computer = document.createElement('script')
-    script_computer.src = '/gi/' + lang2 + '/gcg_1.js'
+    script_computer.src = '/gi/' + lang3 + '/gcg_1.js'
     document.head.append(script_computer)
     script_computer.onload = begin
 
     let script_computer_2 = document.createElement('script')
-    script_computer_2.src = '/gi/' + lang2 + '/gcg_2.js'
+    script_computer_2.src = '/gi/' + lang3 + '/gcg_2.js'
     document.head.append(script_computer_2)
     script_computer_2.onload = function () {
         has_2 = 1

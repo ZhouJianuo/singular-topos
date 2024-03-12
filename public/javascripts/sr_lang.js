@@ -1,23 +1,25 @@
-var _lang = 0
-var DATE = new Date()
+var cookie_lang = "EN"
 document.cookie.split(";").forEach(function (c) { 
     if ((c.includes('lang=')) && !(c.includes('session'))) {
-        _lang = c.substring(c.indexOf('lang=') + 5, c.indexOf('lang=') + 7)
+        cookie_lang = c.substring(c.indexOf('lang=') + 5, c.indexOf('lang=') + 7)
     }
 });
-
-var lang2 = ''
-
-var lang_ = $('#LANG').val()
-if (lang_ == 'RU') {
-    lang_ = 'EN'
-    lang2 = 'RU'
+var AVAILABLE_LANG = ["CH", "EN", "RU", "JP", "KR", "DE", "FR", "SP", "PT"]
+var is_ru = 0
+var param_lang = $('#LANG').val().toUpperCase()
+var store_lang = param_lang
+if (!AVAILABLE_LANG.includes(store_lang)) {
+    store_lang = "EN"
 }
-if (lang_) {
-    var lang = lang_
-    document.cookie = 'lang=' + lang_ + ';expires=' + new Date(DATE.getTime() + 8640000000).toUTCString() + ';path=/'
+var lang3 = "EN"
+if (param_lang) {
+    var DATE = new Date()
+    document.cookie = 'lang=' + store_lang + ';expires=' + new Date(DATE.getTime() + 8640000000).toUTCString() + ';path=/'
+    lang3 = store_lang
 } else {
-    var lang = (_lang === 'CH') ? 'CH' : 'EN';
+    lang3 = cookie_lang
 }
-
-if (lang2 != 'RU') lang2 = lang
+var lang2 = lang3
+if ((lang2 != "CH") && (lang2 != "EN") && (lang2 != "RU")) lang2 = "EN"
+var lang = lang2
+if (lang == "RU") lang = "EN"
