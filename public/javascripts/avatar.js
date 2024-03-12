@@ -1,6 +1,6 @@
 $(function () {
 
-    var ICON_NOT_SHOW = [42]
+    var ICON_NOT_SHOW = [95]
 
     var this_ver_ = ""
     var pop_ver = ""
@@ -102,7 +102,7 @@ $(function () {
     $('.tls' + lang).css("color", "#df903b");
     $('h3 .title').html(computer_.MiscText.Avatar_Title[lang] + "<color style='font-size: 28px;'><br><b>" + VER_GI + "</b></color>");
     $('h3 .subtitle').html(computer_.MiscText.Subtitle[lang]);
-    $('h3 .tlsub').html(computer_.MiscText.Translate_Char[lang2]);
+    $('h3 .tlsub').html(computer_.MiscText.Translate_);
     $('h3 .tlsub').hide()
     $('h3 .links').render([
         {
@@ -904,7 +904,7 @@ $(function () {
                                             div: [
                                                 {
                                                     a: function (k) {
-                                                        return '/gi/item/' + k.data.SpecialityMat + '?lang=' + lang2
+                                                        return '/gi/item/' + k.data.SpecialityMat + '?lang=' + lang3
                                                     },
                                                     t: {
                                                         img: function (k) {
@@ -937,7 +937,7 @@ $(function () {
                                             div: [
                                                 {
                                                     a: function (k) {
-                                                        return '/gi/item/' + k.data.TalentMatt + '?lang=' + lang2
+                                                        return '/gi/item/' + k.data.TalentMatt + '?lang=' + lang3
                                                     },
                                                     t: {
                                                         img: function (k) {
@@ -993,7 +993,7 @@ $(function () {
                                                 },
                                                 {
                                                     a: function (k) {
-                                                        return '/gi/item/' + k.data.AscMat + '?lang=' + lang2
+                                                        return '/gi/item/' + k.data.AscMat + '?lang=' + lang3
                                                     },
                                                     t: {
                                                         img: function (k) {
@@ -1051,7 +1051,7 @@ $(function () {
                                                 },
                                                 {
                                                     a: function (k) {
-                                                        return '/gi/item/' + k.data.WeekMat + '?lang=' + lang2
+                                                        return '/gi/item/' + k.data.WeekMat + '?lang=' + lang3
                                                     },
                                                     t: 
                                                     {
@@ -2529,105 +2529,30 @@ $(function () {
             header: computer_.MiscText.Avatar_Relic[lang2] + computer_.MiscText.Avatar_Table_Title_Extra[lang2],
             width: '100%',
             template: [{
-                table: [
-                    {
-                        thead: [{
-                            tr: function (d) {
-                                $(d.container).render({
-                                    data: computer_.MiscText.Avatar_Relic_Header,
-                                    template: {
-                                        th: `[[${lang2}]]`
-                                    }
-                                })
-                            }
-                        }],
-                        class: 'relic-head'
-                    },
-                    {
-                        tbody: function (d) {
-                            $(d.container).render({
-                                data: _RelicConfig,
-                                template: {
-                                    tr: [
-                                        {
-                                            td: `[[Name]]`,
-                                            style: {
-                                                'text-align': 'center'
-                                            }
-                                        },
-                                        {
-                                            td: {
-                                                img: function (k) {
-                                                    return imgpre + 'homdgcat-res/Relic/' + k.data.Icon + '_4.png'
-                                                },
-                                                style: {
-                                                    height: '100px',
-                                                    display: 'block',
-                                                    margin: 'auto'
-                                                }
-                                            }
-                                        },
-                                        {
-                                            td: {
-                                                img: function (k) {
-                                                    return imgpre + 'homdgcat-res/Relic/' + k.data.Icon + '_2.png'
-                                                },
-                                                style: {
-                                                    height: '100px',
-                                                    display: 'block',
-                                                    margin: 'auto'
-                                                }
-                                            }
-                                        },
-                                        {
-                                            td: {
-                                                img: function (k) {
-                                                    return imgpre + 'homdgcat-res/Relic/' + k.data.Icon + '_5.png'
-                                                },
-                                                style: {
-                                                    height: '100px',
-                                                    display: 'block',
-                                                    margin: 'auto'
-                                                }
-                                            }
-                                        },
-                                        {
-                                            td: {
-                                                img: function (k) {
-                                                    return imgpre + 'homdgcat-res/Relic/' + k.data.Icon + '_1.png'
-                                                },
-                                                style: {
-                                                    height: '100px',
-                                                    display: 'block',
-                                                    margin: 'auto'
-                                                }
-                                            }
-                                        },
-                                        {
-                                            td: {
-                                                img: function (k) {
-                                                    return imgpre + 'homdgcat-res/Relic/' + k.data.Icon + '_3.png'
-                                                },
-                                                style: {
-                                                    height: '100px',
-                                                    display: 'block',
-                                                    margin: 'auto'
-                                                }
-                                            }
-                                        },
-                                    ],
-                                    style: {
-                                        cursor: 'pointer',
-                                    },
-                                    click: function (p) {
-                                        doRelic(p.org_data)
-                                    }
-                                }
-                            })
+                div: {
+                    div: [
+                        {
+                            img: function (k) {
+                                return imgpre + 'homdgcat-res/Relic/' + k.data.Icon + '_4.png'
+                            },
+                            class: 'relic-left'
                         },
+                        {
+                            div: {
+                                p: function (k) {
+                                    return k.data.Name
+                                }
+                            },
+                            class: 'relic-right'
+                        }
+                    ],
+                    class: 'relic-card hover-shadow',
+                    data: _RelicConfig,
+                    click: function (p) {
+                        doRelic(p.org_data)
                     }
-                ],
-                class: 'relic-table',
+                },
+                class: 'relic-area'
             }]
         });
     }
@@ -3137,7 +3062,7 @@ $(function () {
                             },
                             {
                                 a: function (k) {
-                                    return '/gi/item/' + wpn.AscMatID + '?lang=' + lang2
+                                    return '/gi/item/' + wpn.AscMatID + '?lang=' + lang3
                                 },
                                 t: {
                                     img: imgpre + 'homdgcat-res/Mat/UI_ItemIcon_' + wpn.AscMatID + '.png',

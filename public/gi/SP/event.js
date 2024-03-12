@@ -484,14 +484,14 @@ var _items = {
     },
     "410020": {
         "R": 4,
-        "Name": "Unexpectedly Adopted Fantastic Feline",
-        "Desc": "You met an unexpected guest during the Furball Fortress trial period and adopted a cat as a result. Analysis indicates that it seems to get along with you...",
+        "Name": "Gatito adoptado fortuitamente",
+        "Desc": "Un gatito que adoptaste al recibir su visita de manera inesperada durante tu periodo de prueba en el Palacio Peludino. Tras un breve análisis, parece que se lleva muy bien con ustedes.",
         "Icon": "UI_DisplayItemIcon_410020",
         "Type": 2
     },
     "362264": {
-        "Name": "Throne of Meower",
-        "Desc": "A combination of cat furnishings forming the shape of a throne. It comes equipped with yarn ornaments beloved by cats and soft, comfy raspberry-red pallets. Can be found in the Fluffball Fortress.<br>It is said amongst cats that \"When the fated moment arrives, the bowl shall be filled with delicious food, and the cat called upon shall enjoy that meal, ascend to the throne, and take the crown of undisputed ruler...\" As such, you can always find many cats surrounding the throne, waiting for that moment of destiny to arrive...",
+        "Name": "Trono felino",
+        "Desc": "Una combinación de muebles para gatos con la forma de un trono. Suele verse en el Palacio Peludino.<br>Según suelen decir, “cuando llegue el momento predestinado, los cuencos rebosarán comida deliciosa, y el gato elegido se deleitará con el manjar antes de ascender al trono, y poseerá la corona del que será un rey indiscutible”... Por este motivo, siempre verás a un montón de gatos rodeando el trono, expectantes del momento predestinado...",
         "Icon": "UI_Homeworld_Interior_Common_Decoration_Prop_Lumaotai_01_Lod0",
         "Type": 3
     }

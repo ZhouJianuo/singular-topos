@@ -72,10 +72,11 @@ h3 .title {
 }
 
 h3 .lang {
-    margin: 10px auto 30px;
-    font-size: 22px;
+    margin: 10px auto 20px;
+    font-size: 16px;
     font-weight: bold;
     display: block;
+    line-height: 1.7;
 }
 
 .lang a {
@@ -253,6 +254,9 @@ schedule.active{
 }
 
 @media screen and (min-width: 600px) and (max-width: 800px) {
+    h3 .lang {
+        font-size: 18px;
+    }
     .elem_ {
         height: 27px;
         width: 27px;
@@ -275,6 +279,9 @@ schedule.active{
 }
 
 @media screen and (min-width: 800px) {
+    h3 .lang {
+        font-size: 20px;
+    }
     .elem_ {
         height: 30px;
         width: 30px;

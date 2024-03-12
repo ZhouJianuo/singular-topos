@@ -493,6 +493,7 @@ img {
     width: 30px;
     height: 30px;
     margin: auto 10px;
+    white-space: pre;
 }
 
 @keyframes float {
@@ -615,7 +616,7 @@ h3 .links {
 }
 
 .translate_, .tlsub {
-    font-size: 22px;
+    font-size: 16px;
 }
 
 h3 {
@@ -644,7 +645,7 @@ h3 .tlsub {
     }
 
     .translate_, .tlsub {
-        font-size: 22px;
+        font-size: 18px;
     }
 
     .yuhengcup schedule {
@@ -674,7 +675,7 @@ h3 .tlsub {
     }
 
     .translate_, .tlsub {
-        font-size: 22px;
+        font-size: 20px;
     }
 }
 

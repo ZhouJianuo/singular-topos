@@ -484,14 +484,14 @@ var _items = {
     },
     "410020": {
         "R": 4,
-        "Name": "Unexpectedly Adopted Fantastic Feline",
-        "Desc": "You met an unexpected guest during the Furball Fortress trial period and adopted a cat as a result. Analysis indicates that it seems to get along with you...",
+        "Name": "Fantastisches Kätzchen: Unerwartet adoptiert",
+        "Desc": "Während der Testphase von „Flauschiges Katzenschloss“ begegnet dir ein unerwarteter Besuch. Und so kommt es, dass du ein Kätzchen adoptiert hast, das laut Analyse perfekt zu dir passt ...",
         "Icon": "UI_DisplayItemIcon_410020",
         "Type": 2
     },
     "362264": {
-        "Name": "Throne of Meower",
-        "Desc": "A combination of cat furnishings forming the shape of a throne. It comes equipped with yarn ornaments beloved by cats and soft, comfy raspberry-red pallets. Can be found in the Fluffball Fortress.<br>It is said amongst cats that \"When the fated moment arrives, the bowl shall be filled with delicious food, and the cat called upon shall enjoy that meal, ascend to the throne, and take the crown of undisputed ruler...\" As such, you can always find many cats surrounding the throne, waiting for that moment of destiny to arrive...",
+        "Name": "„Katzenthron“",
+        "Desc": "Dieser königliche Katzenthron, versehen mit von Katzen geliebten Wollknäuel-Hängeverzierungen und einer weichen, bequemen Liegefläche in Beerenrot, ist im Flauschigen Katzenschloss anzutreffen.<br>Angeblich gibt es bei den Katzen folgende Legende: „Wenn die Stunde des Schicksals naht, soll der Napf mit Köstlichkeiten gefüllt sein. Diejenige Katze, deren Name erklingt, darf die Köstlichkeiten genießen, den Thron besteigen und zum unbestrittenen Herrscher werden ...“ Deswegen findet man häufig zahlreiche Katzen, die um den Thron versammelt sind, in stiller Erwartung dieser Stunde des Schicksals ...",
         "Icon": "UI_Homeworld_Interior_Common_Decoration_Prop_Lumaotai_01_Lod0",
         "Type": 3
     }

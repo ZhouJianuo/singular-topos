@@ -5,7 +5,7 @@ $(function () {
     $('.tls' + lang).css("color", "#df903b");
     $('h3 .title').html(computer_.MiscText.AbyssTitle[lang2] + "<color style='font-size: 28px;'><br><b>" + VER_GI + "</b></color>")
     $('h3 .subtitle').html(computer_.MiscText.Subtitle[lang])
-    $('h3 .tlsub').html(computer_.MiscText.Translate_Abyss[lang2])
+    $('h3 .tlsub').html(computer_.MiscText.Translate_)
     $('h3 .tlsub').hide()
     $('h3 .links').render([
         {
@@ -131,7 +131,7 @@ $(function () {
             $('.content').css('padding-left', '0')
             $('.content').css('padding-right', '0')
             $('.p_b').addClass('p_b_')
-            $('h3 .tlsub').html(computer_.MiscText.Translate_Abyss2[lang2])
+            $('h3 .tlsub').html(computer_.MiscText.Translate_)
         }
 
     }
@@ -685,7 +685,7 @@ $(function () {
                                                                                     div: [{
                                                                                         a: function (d) {
                                                                                             var interval = $(d.container).parents('.up_low').siblings('h6').attr('data-name')
-                                                                                            return '/gi/monster?lang=' + (lang2) + '&id=' + monsterId + '&level=' + interval
+                                                                                            return '/gi/monster?lang=' + (lang3) + '&id=' + monsterId + '&level=' + interval
                                                                                         },
                                                                                         t: [{
                                                                                             img: imgpre + 'homdgcat-res/monster/' + choose_icon + '.png',
@@ -911,7 +911,7 @@ $(function () {
                                                                                     div: [{
                                                                                         a: function (d) {
                                                                                             var interval = $(d.container).parents('.up_low').siblings('h6').attr('data-name')
-                                                                                            return '/gi/monster?lang=' + (lang2) + '&id=' + monsterId + '&level=' + interval
+                                                                                            return '/gi/monster?lang=' + (lang3) + '&id=' + monsterId + '&level=' + interval
                                                                                         },
                                                                                         t: [{
                                                                                             img: imgpre + 'homdgcat-res/monster/' + choose_icon + '.png',
@@ -1665,7 +1665,7 @@ $(function () {
                             var choose_icon = monster.Icon[Math.floor(Math.random() * monster.Icon.length)]
                             if (!monster) return;
                             var interval = $(m.container).parents('.up_low').siblings('h6').attr('data-name')
-                            var this_link = '/gi/monster?lang=' + (lang2) + '&id=' + m.data.ID + '&level=' + interval
+                            var this_link = '/gi/monster?lang=' + (lang3) + '&id=' + m.data.ID + '&level=' + interval
                             var affix_ids = m.data.Affix ? JSON.stringify(m.data.Affix) : '[]'
                             $(m.container).render([
                                 {

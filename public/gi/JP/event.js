@@ -484,14 +484,14 @@ var _items = {
     },
     "410020": {
         "R": 4,
-        "Name": "Unexpectedly Adopted Fantastic Feline",
-        "Desc": "You met an unexpected guest during the Furball Fortress trial period and adopted a cat as a result. Analysis indicates that it seems to get along with you...",
+        "Name": "ひょんなことから引き取った不思議な猫",
+        "Desc": "「ネコモコの城」の事前準備期間中、予想外の客に出会い、引き取った猫。見たところ、この猫はあなたたちと気が合うようだ…",
         "Icon": "UI_DisplayItemIcon_410020",
         "Type": 2
     },
     "362264": {
-        "Name": "Throne of Meower",
-        "Desc": "A combination of cat furnishings forming the shape of a throne. It comes equipped with yarn ornaments beloved by cats and soft, comfy raspberry-red pallets. Can be found in the Fluffball Fortress.<br>It is said amongst cats that \"When the fated moment arrives, the bowl shall be filled with delicious food, and the cat called upon shall enjoy that meal, ascend to the throne, and take the crown of undisputed ruler...\" As such, you can always find many cats surrounding the throne, waiting for that moment of destiny to arrive...",
+        "Name": "「ニャオニャ王座」",
+        "Desc": "「ネコモコの城」にある、王座の形をした猫専用のインテリア。猫ちゃんが大好きな毛糸玉の飾りや、ふかふかで快適な赤いクッションが置かれている。<br>猫たちの間で流行っている、このような噂がある——「運命の時が来れば、皿は美食で溢れるだろう。名前を呼ばれた猫は、美食を存分に楽しみ、玉座に登って最高の支配者になる資格がある…」そのせいだろうか、王座の周りに集まるたくさんの猫たちが、静かに運命の時を待っている光景がよく見られる…",
         "Icon": "UI_Homeworld_Interior_Common_Decoration_Prop_Lumaotai_01_Lod0",
         "Type": 3
     }

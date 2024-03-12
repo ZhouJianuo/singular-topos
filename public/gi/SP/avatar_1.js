@@ -59,7 +59,7 @@ var __AvatarInfoConfig = [
         "_id": 94,
         "Name": "Chiori",
         "Desc": "La dueña de la Sastrería Chiori y una famosa diseñadora de moda de Fontaine.",
-        "Title": "The Thundering Seamstress",
+        "Title": "La Costurera Tronadora",
         "Constellation": "Cisoria",
         "Nation": "Inazuma",
         "Belong": "Corte de Fontaine",

@@ -1752,7 +1752,7 @@ $(function () {
     }
 
     $('body').on('click', '.avatar_mat img', function () {
-        window.open('/sr/item/' + $(this).attr('data-id') + '?lang=' + lang)
+        window.open('/sr/item/' + $(this).attr('data-id') + '?lang=' + lang3)
     })
 
     $('body').on('click', '.up', function () {

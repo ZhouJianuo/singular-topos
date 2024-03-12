@@ -484,14 +484,14 @@ var _items = {
     },
     "410020": {
         "R": 4,
-        "Name": "Unexpectedly Adopted Fantastic Feline",
-        "Desc": "You met an unexpected guest during the Furball Fortress trial period and adopted a cat as a result. Analysis indicates that it seems to get along with you...",
+        "Name": "우연히 입양한 기묘한 고양이",
+        "Desc": "「복슬복슬 고양이 성」 시범 운영 기간에 의외의 손님을 맞이해 고양이 한 마리를 입양했다. 분석 결과 이 고양이는 당신과 아주 잘 맞는 것 같다…",
         "Icon": "UI_DisplayItemIcon_410020",
         "Type": 2
     },
     "362264": {
-        "Name": "Throne of Meower",
-        "Desc": "A combination of cat furnishings forming the shape of a throne. It comes equipped with yarn ornaments beloved by cats and soft, comfy raspberry-red pallets. Can be found in the Fluffball Fortress.<br>It is said amongst cats that \"When the fated moment arrives, the bowl shall be filled with delicious food, and the cat called upon shall enjoy that meal, ascend to the throne, and take the crown of undisputed ruler...\" As such, you can always find many cats surrounding the throne, waiting for that moment of destiny to arrive...",
+        "Name": "「야옹 왕좌」",
+        "Desc": "「복슬복슬 고양이 성」에서 볼 수 있는 고양이용 왕좌 모양 종합 가구. 고양이들이 좋아하는 실뭉치 장식과 부드러운 붉은색 방석을 설치했다.<br>고양이들 사이에는 이런 전설이 있다고 전해진다. 「운명의 순간이 강림하면, 그릇 속에 미식이 가득 찰 것이다. 호명된 고양이는 맛있는 식사를 즐기며 왕좌에 올라 지고지상한 지배자가 될지어니…」 이 때문에 많은 고양이들이 왕좌를 둘러싼 채 운명이 도래할 순간을 조용히 기다리고 있다…",
         "Icon": "UI_Homeworld_Interior_Common_Decoration_Prop_Lumaotai_01_Lod0",
         "Type": 3
     }

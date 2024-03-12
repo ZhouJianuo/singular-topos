@@ -555,7 +555,7 @@ $(function () {
     }
 
     $('body').on('click', '.monster_card', function () {
-        window.open(`monster?lang=${lang2}&id=${$(this).attr('data-id')}&lv=${$(this).attr('data-lv')}&hlg=${$(this).attr('data-hl')}&eg=${$(this).attr('data-eg')}&def=2000`)
+        window.open(`monster?lang=${lang3}&id=${$(this).attr('data-id')}&lv=${$(this).attr('data-lv')}&hlg=${$(this).attr('data-hl')}&eg=${$(this).attr('data-eg')}&def=2000`)
     })
 
     $('body').on('click', '.title', function () {

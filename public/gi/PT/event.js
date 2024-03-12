@@ -484,14 +484,14 @@ var _items = {
     },
     "410020": {
         "R": 4,
-        "Name": "Unexpectedly Adopted Fantastic Feline",
-        "Desc": "You met an unexpected guest during the Furball Fortress trial period and adopted a cat as a result. Analysis indicates that it seems to get along with you...",
+        "Name": "Adoção Fantástica (Acidental)",
+        "Desc": "Você encontra um convidado inesperado durante o período da Fortaleza Felina Fofinha, e acabou adotando um gato. Análises indicam que parece se dar bem com você...",
         "Icon": "UI_DisplayItemIcon_410020",
         "Type": 2
     },
     "362264": {
-        "Name": "Throne of Meower",
-        "Desc": "A combination of cat furnishings forming the shape of a throne. It comes equipped with yarn ornaments beloved by cats and soft, comfy raspberry-red pallets. Can be found in the Fluffball Fortress.<br>It is said amongst cats that \"When the fated moment arrives, the bowl shall be filled with delicious food, and the cat called upon shall enjoy that meal, ascend to the throne, and take the crown of undisputed ruler...\" As such, you can always find many cats surrounding the throne, waiting for that moment of destiny to arrive...",
+        "Name": "Trono dos Ronronantes",
+        "Desc": "Uma combinação de móveis para gatos que toma a forma de um trono. Vem equipado com enfeites de fio amados pelos gatos e uma almofada macia e confortável em tom de framboesa. Pode ser encontrado na Fortaleza Felina Fofinha.<br>Dizem entre os gatos que \"quando o momento predestinado chegar, a tigela será preenchida com comida deliciosa, e o gato convocado desfrutará dessa refeição, ascenderá ao trono e tomará a coroa de um governante indiscutível...\" Portanto, você sempre pode encontrar muitos gatos ao redor do trono, esperando por aquele momento predestinado chegar...",
         "Icon": "UI_Homeworld_Interior_Common_Decoration_Prop_Lumaotai_01_Lod0",
         "Type": 3
     }

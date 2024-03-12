@@ -59,7 +59,7 @@ var __AvatarInfoConfig = [
         "_id": 94,
         "Name": "Chiori",
         "Desc": "La propriétaire de la Boutique Chioriya et une tailleuse réputée dans tout Fontaine.",
-        "Title": "The Thundering Seamstress",
+        "Title": "Couturière tonitruante",
         "Constellation": "Cisoria",
         "Nation": "Inazuma",
         "Belong": "Cour de Fontaine",

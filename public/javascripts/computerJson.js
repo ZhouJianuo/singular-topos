@@ -30,66 +30,7 @@ var computer_ = {
             "EN": "<p style='margin-top:13px;color:#df903b;cursor:pointer;'><b>[ Pages ]</b></p>",
             "RU": "<p style='margin-top:13px;color:#df903b;cursor:pointer;'><b>[ На главную ]</b></p>"
         },
-        "Translate_Computer": {
-            "CH": "<b>中文</b> | <a class='translate_' href='/gi/monster?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/monster?lang=RU'><b>Русский</b></a>",
-            "EN": "<a class='translate_' href='/gi/monster?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/monster?lang=RU'><b>Русский</b></a>",
-            "RU": "<a class='translate_' href='/gi/monster?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/monster?lang=EN'><b>English</b></a> | <b>Русский</b>"
-        },
-        "Translate_Abyss": {
-            "CH": "<b>中文</b> | <a class='translate_' href='/gi/abyss?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/abyss?lang=RU'><b>Русский</b></a>",
-            "EN": "<a class='translate_' href='/gi/abyss?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/abyss?lang=RU'><b>Русский</b></a>",
-            "RU": "<a class='translate_' href='/gi/abyss?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/abyss?lang=EN'><b>English</b></a> | <b>Русский</b>"
-        },
-        "Translate_Abyss2": {
-            "CH": "<b>中文</b> | <a class='translate_' href='/gi/abyss2?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/abyss2?lang=RU'><b>Русский</b></a>",
-            "EN": "<a class='translate_' href='/gi/abyss2?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/abyss2?lang=RU'><b>Русский</b></a>",
-            "RU": "<a class='translate_' href='/gi/abyss2?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/abyss2?lang=EN'><b>English</b></a> | <b>Русский</b>"
-        },
-        "Translate_Char": {
-            "CH": "<b>中文</b> | <a class='translate_' href='/gi/char?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/char?lang=RU'><b>Русский</b></a>",
-            "EN": "<a class='translate_' href='/gi/char?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/char?lang=RU'><b>Русский</b></a>",
-            "RU": "<a class='translate_' href='/gi/char?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/char?lang=EN'><b>English</b></a> | <b>Русский</b>"
-        },
-        "Translate_Shield": {
-            "CH": "<b>中文</b> | <a class='translate_' href='/gi/shield?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/shield?lang=RU'><b>Русский</b></a>",
-            "EN": "<a class='translate_' href='/gi/shield?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/shield?lang=RU'><b>Русский</b></a>",
-            "RU": "<a class='translate_' href='/gi/shield?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/shield?lang=EN'><b>English</b></a> | <b>Русский</b>"
-        },
-        "Translate_Ach": {
-            "CH": "<b>中文</b> | <a class='translate_' href='/gi/ach?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/ach?lang=RU'><b>Русский</b></a>",
-            "EN": "<a class='translate_' href='/gi/ach?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/ach?lang=RU'><b>Русский</b></a>",
-            "RU": "<a class='translate_' href='/gi/ach?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/ach?lang=EN'><b>English</b></a> | <b>Русский</b>"
-        },
-        "Translate_Load": {
-            "CH": "<b>中文</b> | <a class='translate_' href='/gi/load?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/load?lang=RU'><b>Русский</b></a>",
-            "EN": "<a class='translate_' href='/gi/load?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/load?lang=RU'><b>Русский</b></a>",
-            "RU": "<a class='translate_' href='/gi/load?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/load?lang=EN'><b>English</b></a> | <b>Русский</b>"
-        },
-        "Translate_Codex": {
-            "CH": "<b>中文</b> | <a class='translate_' href='/gi/geo?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/geo?lang=RU'><b>Русский</b></a>",
-            "EN": "<a class='translate_' href='/gi/geo?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/geo?lang=RU'><b>Русский</b></a>",
-            "RU": "<a class='translate_' href='/gi/geo?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/geo?lang=EN'><b>English</b></a> | <b>Русский</b>"
-        },
-        "Translate_Item": {
-            "CH": "<b>中文</b> | <a class='translate_' href='/gi/item?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/item?lang=RU'><b>Русский</b></a>",
-            "EN": "<a class='translate_' href='/gi/item?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/item?lang=RU'><b>Русский</b></a>",
-            "RU": "<a class='translate_' href='/gi/item?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/item?lang=EN'><b>English</b></a> | <b>Русский</b>"
-        },
-        "Translate_Event": {
-            "CH": "<b>中文</b> | <a class='translate_' href='/gi/event?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/event?lang=RU'><b>Русский</b></a>",
-            "EN": "<a class='translate_' href='/gi/event?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/event?lang=RU'><b>Русский</b></a>",
-            "RU": "<a class='translate_' href='/gi/event?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/event?lang=EN'><b>English</b></a> | <b>Русский</b>"
-        },
-        "Translate_GCG": {
-            "CH": "<b>中文</b> | <a class='translate_' href='/gi/gcg?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/gcg?lang=RU'><b>Русский</b></a>",
-            "EN": "<a class='translate_' href='/gi/gcg?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/gcg?lang=RU'><b>Русский</b></a>",
-            "RU": "<a class='translate_' href='/gi/gcg?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/gcg?lang=EN'><b>English</b></a> | <b>Русский</b>"
-        },
-        "Translate_": {
-            "CH": "<b>中文</b> | <a class='translate_' href='?lang=EN'><b>English</b></a> | <a class='translate_' href='?lang=RU'><b>Русский</b></a>",
-            "EN": "<a class='translate_' href='?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='?lang=RU'><b>Русский</b></a>",
-            "RU": "<a class='translate_' href='?lang=CH'><b>中文</b></a> | <a class='translate_' href='?lang=EN'><b>English</b></a> | <b>Русский</b>"
-        },
+        "Translate_": "<a class='translate_' href='?lang=CH'><b>中文</b></a> | <a class='translate_' href='?lang=EN'><b>English</b></a> | <a class='translate_' href='?lang=JP'><b>日本語</b></a> | <a class='translate_' href='?lang=KR'><b>한국인</b></a> | <a class='translate_' href='?lang=RU'><b>Русский</b></a> | <a class='translate_' href='?lang=FR'><b>Français</b></a> | <a class='translate_' href='?lang=DE'><b>Deutsch</b></a> | <a class='translate_' href='?lang=SP'><b>Español</b></a> | <a class='translate_' href='?lang=PT'><b>Português</b></a>",
         "Abyss_Reminder": {
             "CH": "<color style='color:#0066FF;'>玉衡杯数据库 abyss.wiki</color>",
             "EN": "<color style='color:#0066FF;'>homdgcat.wiki | t.me/homdgcat</color>",
@@ -6531,7 +6472,7 @@ $('body').on('click', '._menu_', function () {
                         template: {
                             schedule: {
                                 a: function (j) {
-                                    return j.data.Link[lang] + '?lang=' + lang2
+                                    return j.data.Link[lang] + '?lang=' + lang3
                                 },
                                 t: {
                                     span: `[[Name/${lang2}]]`,

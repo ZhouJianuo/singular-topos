@@ -484,14 +484,14 @@ var _items = {
     },
     "410020": {
         "R": 4,
-        "Name": "Unexpectedly Adopted Fantastic Feline",
-        "Desc": "You met an unexpected guest during the Furball Fortress trial period and adopted a cat as a result. Analysis indicates that it seems to get along with you...",
+        "Name": "Удивительная кошка, которую случайно приютили",
+        "Desc": "Во время работы «Замка котиков» в тестовом режиме вы встретили нежданного гостя и в результате приютили кошку. Анализ показал, что она хорошо с вами ладит.",
         "Icon": "UI_DisplayItemIcon_410020",
         "Type": 2
     },
     "362264": {
-        "Name": "Throne of Meower",
-        "Desc": "A combination of cat furnishings forming the shape of a throne. It comes equipped with yarn ornaments beloved by cats and soft, comfy raspberry-red pallets. Can be found in the Fluffball Fortress.<br>It is said amongst cats that \"When the fated moment arrives, the bowl shall be filled with delicious food, and the cat called upon shall enjoy that meal, ascend to the throne, and take the crown of undisputed ruler...\" As such, you can always find many cats surrounding the throne, waiting for that moment of destiny to arrive...",
+        "Name": "Мяупрестол",
+        "Desc": "Кошачий постамент в виде трона. В комплект входят любимые всеми кошками подвесные игрушки и мягкие лежанки малинового цвета. Находится в «Замке котиков».<br>Среди кошек бытует легенда: «В назначенное судьбой время чаша наполнится вкусной едой, и призванная кошка насладится ею, взойдёт на трон и примет корону верховного правителя...» Поэтому вокруг трона всегда можно встретить множество кошек, ожидающих наступления назначенного судьбой часа...",
         "Icon": "UI_Homeworld_Interior_Common_Decoration_Prop_Lumaotai_01_Lod0",
         "Type": 3
     }

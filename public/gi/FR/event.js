@@ -484,14 +484,14 @@ var _items = {
     },
     "410020": {
         "R": 4,
-        "Name": "Unexpectedly Adopted Fantastic Feline",
-        "Desc": "You met an unexpected guest during the Furball Fortress trial period and adopted a cat as a result. Analysis indicates that it seems to get along with you...",
+        "Name": "Merveilleuse adoption fortuite",
+        "Desc": "Vous avez rencontré un invité inattendu pendant l'ouverture pilote du Château cotonnoux et avez fini par adopter un chat. Les analyses indiquent qu'il semble bien s'entendre avec vous...",
         "Icon": "UI_DisplayItemIcon_410020",
         "Type": 2
     },
     "362264": {
-        "Name": "Throne of Meower",
-        "Desc": "A combination of cat furnishings forming the shape of a throne. It comes equipped with yarn ornaments beloved by cats and soft, comfy raspberry-red pallets. Can be found in the Fluffball Fortress.<br>It is said amongst cats that \"When the fated moment arrives, the bowl shall be filled with delicious food, and the cat called upon shall enjoy that meal, ascend to the throne, and take the crown of undisputed ruler...\" As such, you can always find many cats surrounding the throne, waiting for that moment of destiny to arrive...",
+        "Name": "Trône des miaous",
+        "Desc": "Un meuble pour chat en forme de trône. Il présente des décorations en laine que les chats adorent et un plateau rouge framboise doux et confortable. On le trouve au Château cotonnoux.<br>Une rumeur circule parmi les chats selon laquelle « quand le moment fatidique viendra, le bol sera rempli de nourriture délicieuse, et le chat invoqué en profitera, montera sur le trône et acceptera la couronne du souverain incontesté... » C'est pourquoi il y a toujours de nombreux chats autour du trône dans l'attente de ce fameux moment...",
         "Icon": "UI_Homeworld_Interior_Common_Decoration_Prop_Lumaotai_01_Lod0",
         "Type": 3
     }

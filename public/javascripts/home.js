@@ -39,8 +39,7 @@ $(function() {
     
     $('h3 .title').html(txt.Title[lang] + "<color style='font-size: 28px;'><br><b>" + VER_GI + " / " + VER_SR + "</b></color>")
 
-    $('h3 .lang').html(txt.Home_Lang[GAME][lang2])
-    $('h3 .lang').css('margin-top', '20px')
+    $('h3 .lang').html(txt.Home_Lang)
     $('h3 .lang').show()
 
     $('container').render({
@@ -97,7 +96,7 @@ $(function() {
             template: {
                 div : {
                     a: function (k) {
-                        return k.data.Href[lang] + '?lang=' + (is_ru ? 'RU' : lang)
+                        return k.data.Href[lang] + '?lang=' + lang3
                     },
                     t: [
                         {
@@ -142,7 +141,7 @@ $(function() {
                 div : {
                     a: function (k) {
                         if (k.data.Disable) return 'javascript:void(0)'
-                        return k.data.Href[lang] + '?lang=' + (is_ru ? 'RU' : lang)
+                        return k.data.Href[lang] + '?lang=' + lang3
                     },
                     t: [
                         {

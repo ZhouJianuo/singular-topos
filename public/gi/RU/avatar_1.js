@@ -59,8 +59,8 @@ var __AvatarInfoConfig = [
         "_id": 94,
         "Name": "Тиори",
         "Desc": "Хозяйка «Дома Тиори». Дизайнер одежды, известный во всём Фонтейне.",
-        "Title": "The Thundering Seamstress",
-        "Constellation": "Cisoria",
+        "Title": "Громоподобная закройщица",
+        "Constellation": "Портновские Ножницы",
         "Nation": "Inazuma",
         "Belong": "Кур-де-Фонтейн",
         "Grade": 5,
@@ -17183,459 +17183,459 @@ var _AvatarCostumeConfig = {
 var _MaterialConfig = {
     "100021": {
         "Icon": "UI_ItemIcon_100021",
-        "Text": "<b>Wolfhook</b>"
+        "Text": "<b>Волчий крюк</b>"
     },
     "100022": {
         "Icon": "UI_ItemIcon_100022",
-        "Text": "<b>Valberry</b>"
+        "Text": "<b>Валяшка</b>"
     },
     "100023": {
         "Icon": "UI_ItemIcon_100023",
-        "Text": "<b>Cecilia</b>"
+        "Text": "<b>Сесилия</b>"
     },
     "100024": {
         "Icon": "UI_ItemIcon_100024",
-        "Text": "<b>Windwheel Aster</b>"
+        "Text": "<b>Ветряная астра</b>"
     },
     "100025": {
         "Icon": "UI_ItemIcon_100025",
-        "Text": "<b>Philanemo Mushroom</b>"
+        "Text": "<b>Гриб филанемо</b>"
     },
     "100027": {
         "Icon": "UI_ItemIcon_100027",
-        "Text": "<b>Jueyun Chili</b>"
+        "Text": "<b>Заоблачный перчик</b>"
     },
     "100028": {
         "Icon": "UI_ItemIcon_100028",
-        "Text": "<b>Noctilucous Jade</b>"
+        "Text": "<b>Полуночный нефрит</b>"
     },
     "100029": {
         "Icon": "UI_ItemIcon_100029",
-        "Text": "<b>Silk Flower</b>"
+        "Text": "<b>Шелковица</b>"
     },
     "100030": {
         "Icon": "UI_ItemIcon_100030",
-        "Text": "<b>Glaze Lily</b>"
+        "Text": "<b>Глазурная лилия</b>"
     },
     "100031": {
         "Icon": "UI_ItemIcon_100031",
-        "Text": "<b>Qingxin</b>"
+        "Text": "<b>Цветок цинсинь</b>"
     },
     "100033": {
         "Icon": "UI_ItemIcon_100033",
-        "Text": "<b>Starconch</b>"
+        "Text": "<b>Звёздная ракушка</b>"
     },
     "100034": {
         "Icon": "UI_ItemIcon_100034",
-        "Text": "<b>Violetgrass</b>"
+        "Text": "<b>Стеклянные колокольчики</b>"
     },
     "100055": {
         "Icon": "UI_ItemIcon_100055",
-        "Text": "<b>Small Lamp Grass</b>"
+        "Text": "<b>Трава-светяшка</b>"
     },
     "100056": {
         "Icon": "UI_ItemIcon_100056",
-        "Text": "<b>Calla Lily</b>"
+        "Text": "<b>Лилия калла</b>"
     },
     "100057": {
         "Icon": "UI_ItemIcon_100057",
-        "Text": "<b>Dandelion Seed</b>"
+        "Text": "<b>Семена одуванчика</b>"
     },
     "100058": {
         "Icon": "UI_ItemIcon_100058",
-        "Text": "<b>Cor Lapis</b>"
+        "Text": "<b>Кор ляпис</b>"
     },
     "101201": {
         "Icon": "UI_ItemIcon_101201",
-        "Text": "<b>Onikabuto</b>"
+        "Text": "<b>Оникабуто</b>"
     },
     "101202": {
         "Icon": "UI_ItemIcon_101202",
-        "Text": "<b>Sakura Bloom</b>"
+        "Text": "<b>Цвет сакуры</b>"
     },
     "101203": {
         "Icon": "UI_ItemIcon_101203",
-        "Text": "<b>Crystal Marrow</b>"
+        "Text": "<b>Кристальный костный мозг</b>"
     },
     "101204": {
         "Icon": "UI_ItemIcon_101204",
-        "Text": "<b>Dendrobium</b>"
+        "Text": "<b>Кровоцвет</b>"
     },
     "101205": {
         "Icon": "UI_ItemIcon_101205",
-        "Text": "<b>Naku Weed</b>"
+        "Text": "<b>Трава наку</b>"
     },
     "101206": {
         "Icon": "UI_ItemIcon_101206",
-        "Text": "<b>Sea Ganoderma</b>"
+        "Text": "<b>Морской гриб</b>"
     },
     "101207": {
         "Icon": "UI_ItemIcon_101207",
-        "Text": "<b>Sango Pearl</b>"
+        "Text": "<b>Жемчужина Санго</b>"
     },
     "101208": {
         "Icon": "UI_ItemIcon_101208",
-        "Text": "<b>Amakumo Fruit</b>"
+        "Text": "<b>Плод облачной травы</b>"
     },
     "101209": {
         "Icon": "UI_ItemIcon_101209",
-        "Text": "<b>Fluorescent Fungus</b>"
+        "Text": "<b>Светящийся гриб</b>"
     },
     "101213": {
         "Icon": "UI_ItemIcon_101213",
-        "Text": "<b>Rukkhashava Mushrooms</b>"
+        "Text": "<b>Грибы руккхашава</b>"
     },
     "101214": {
         "Icon": "UI_ItemIcon_101214",
-        "Text": "<b>Padisarah</b>"
+        "Text": "<b>Падисара</b>"
     },
     "101215": {
         "Icon": "UI_ItemIcon_101215",
-        "Text": "<b>Nilotpala Lotus</b>"
+        "Text": "<b>Лотос нилотпала</b>"
     },
     "101217": {
         "Icon": "UI_ItemIcon_101217",
-        "Text": "<b>Kalpalata Lotus</b>"
+        "Text": "<b>Лотос кальпалата</b>"
     },
     "101220": {
         "Icon": "UI_ItemIcon_101220",
-        "Text": "<b>Henna Berry</b>"
+        "Text": "<b>Красноплодник</b>"
     },
     "101222": {
         "Icon": "UI_ItemIcon_101222",
-        "Text": "<b>Sand Grease Pupa</b>"
+        "Text": "<b>Личинка песчаного жировика</b>"
     },
     "101223": {
         "Icon": "UI_ItemIcon_101223",
-        "Text": "<b>Mourning Flower</b>"
+        "Text": "<b>Цветы скорби</b>"
     },
     "101225": {
         "Icon": "UI_ItemIcon_101225",
-        "Text": "<b>Scarab</b>"
+        "Text": "<b>Скарабей</b>"
     },
     "101232": {
         "Icon": "UI_ItemIcon_101232",
-        "Text": "<b>Beryl Conch</b>"
+        "Text": "<b>Берилловая ракушка</b>"
     },
     "101233": {
         "Icon": "UI_ItemIcon_101233",
-        "Text": "<b>Romaritime Flower</b>"
+        "Text": "<b>Ромарин</b>"
     },
     "101235": {
         "Icon": "UI_ItemIcon_101235",
-        "Text": "<b>Lumidouce Bell</b>"
+        "Text": "<b>Ламповый колокольчик</b>"
     },
     "101236": {
         "Icon": "UI_ItemIcon_101236",
-        "Text": "<b>Rainbow Rose</b>"
+        "Text": "<b>Радужная роза</b>"
     },
     "101237": {
         "Icon": "UI_ItemIcon_101237",
-        "Text": "<b>Lumitoile</b>"
+        "Text": "<b>Темнозвёздник</b>"
     },
     "101238": {
         "Icon": "UI_ItemIcon_101238",
-        "Text": "<b>Lakelight Lily</b>"
+        "Text": "<b>Лилия озёрного света</b>"
     },
     "101239": {
         "Icon": "UI_ItemIcon_101239",
-        "Text": "<b>Subdetection Unit</b>"
+        "Text": "<b>Миниатюрный детектор</b>"
     },
     "101240": {
         "Icon": "UI_ItemIcon_101240",
-        "Text": "<b>Spring of the First Dewdrop</b>"
+        "Text": "<b>Источник первой росы</b>"
     },
     "101241": {
         "Icon": "UI_ItemIcon_101241",
-        "Text": "<b>Clearwater Jade</b>"
+        "Text": "<b>Нефрит чистой воды</b>"
     },
     "104303": {
         "Icon": "UI_ItemIcon_104303",
-        "Text": "<b>Philosophies of Freedom</b><br>Mondstadt / Mon Thu Sun"
+        "Text": "<b>Философия о «Свободе»</b><br>Mondstadt / Mon Thu Sun"
     },
     "104306": {
         "Icon": "UI_ItemIcon_104306",
-        "Text": "<b>Philosophies of Resistance</b><br>Mondstadt / Tue Fri Sun"
+        "Text": "<b>Философия о «Борьбе»</b><br>Mondstadt / Tue Fri Sun"
     },
     "104309": {
         "Icon": "UI_ItemIcon_104309",
-        "Text": "<b>Philosophies of Ballad</b><br>Mondstadt / Wed Sat Sun"
+        "Text": "<b>Философия о «Поэзии»</b><br>Mondstadt / Wed Sat Sun"
     },
     "104312": {
         "Icon": "UI_ItemIcon_104312",
-        "Text": "<b>Philosophies of Prosperity</b><br>Liyue / Mon Thu Sun"
+        "Text": "<b>Философия о «Процветании»</b><br>Liyue / Mon Thu Sun"
     },
     "104315": {
         "Icon": "UI_ItemIcon_104315",
-        "Text": "<b>Philosophies of Diligence</b><br>Liyue / Tue Fri Sun"
+        "Text": "<b>Философия об «Усердии»</b><br>Liyue / Tue Fri Sun"
     },
     "104318": {
         "Icon": "UI_ItemIcon_104318",
-        "Text": "<b>Philosophies of Gold</b><br>Liyue / Wed Sat Sun"
+        "Text": "<b>Философия о «Золоте»</b><br>Liyue / Wed Sat Sun"
     },
     "104322": {
         "Icon": "UI_ItemIcon_104322",
-        "Text": "<b>Philosophies of Transience</b><br>Inazuma / Mon Thu Sun"
+        "Text": "<b>Философия о «Бренности»</b><br>Inazuma / Mon Thu Sun"
     },
     "104325": {
         "Icon": "UI_ItemIcon_104325",
-        "Text": "<b>Philosophies of Elegance</b><br>Inazuma / Tue Fri Sun"
+        "Text": "<b>Философия об «Изяществе»</b><br>Inazuma / Tue Fri Sun"
     },
     "104328": {
         "Icon": "UI_ItemIcon_104328",
-        "Text": "<b>Philosophies of Light</b><br>Inazuma / Wed Sat Sun"
+        "Text": "<b>Философия о «Свете»</b><br>Inazuma / Wed Sat Sun"
     },
     "104331": {
         "Icon": "UI_ItemIcon_104331",
-        "Text": "<b>Philosophies of Admonition</b><br>Sumeru / Mon Thu Sun"
+        "Text": "<b>Философия о «Наставлениях»</b><br>Sumeru / Mon Thu Sun"
     },
     "104334": {
         "Icon": "UI_ItemIcon_104334",
-        "Text": "<b>Philosophies of Ingenuity</b><br>Sumeru / Tue Fri Sun"
+        "Text": "<b>Философия об «Остроумии»</b><br>Sumeru / Tue Fri Sun"
     },
     "104337": {
         "Icon": "UI_ItemIcon_104337",
-        "Text": "<b>Philosophies of Praxis</b><br>Sumeru / Wed Sat Sun"
+        "Text": "<b>Философия о «Честности»</b><br>Sumeru / Wed Sat Sun"
     },
     "104340": {
         "Icon": "UI_ItemIcon_104340",
-        "Text": "<b>Philosophies of Equity</b><br>Fontaine / Mon Thu Sun"
+        "Text": "<b>Философия о «Беспристрастии»</b><br>Fontaine / Mon Thu Sun"
     },
     "104343": {
         "Icon": "UI_ItemIcon_104343",
-        "Text": "<b>Philosophies of Justice</b><br>Fontaine / Tue Fri Sun"
+        "Text": "<b>Философия о «Справедливости»</b><br>Fontaine / Tue Fri Sun"
     },
     "104346": {
         "Icon": "UI_ItemIcon_104346",
-        "Text": "<b>Philosophies of Order</b><br>Fontaine / Wed Sat Sun"
+        "Text": "<b>Философия о «Порядке»</b><br>Fontaine / Wed Sat Sun"
     },
     "113001": {
         "Icon": "UI_ItemIcon_113001",
-        "Text": "<b>Hurricane Seed</b>"
+        "Text": "<b>Семя урагана</b>"
     },
     "113002": {
         "Icon": "UI_ItemIcon_113002",
-        "Text": "<b>Lightning Prism</b>"
+        "Text": "<b>Призма молнии</b>"
     },
     "113003": {
         "Icon": "UI_ItemIcon_113003",
-        "Text": "<b>Dvalin's Plume</b>"
+        "Text": "<b>Перо из хвоста Двалина</b>"
     },
     "113004": {
         "Icon": "UI_ItemIcon_113004",
-        "Text": "<b>Dvalin's Claw</b>"
+        "Text": "<b>Коготь Двалина</b>"
     },
     "113005": {
         "Icon": "UI_ItemIcon_113005",
-        "Text": "<b>Dvalin's Sigh</b>"
+        "Text": "<b>Вздох Двалина</b>"
     },
     "113006": {
         "Icon": "UI_ItemIcon_113006",
-        "Text": "<b>Tail of Boreas</b>"
+        "Text": "<b>Хвост Борея</b>"
     },
     "113007": {
         "Icon": "UI_ItemIcon_113007",
-        "Text": "<b>Ring of Boreas</b>"
+        "Text": "<b>Кольцо Борея</b>"
     },
     "113008": {
         "Icon": "UI_ItemIcon_113008",
-        "Text": "<b>Spirit Locket of Boreas</b>"
+        "Text": "<b>Шкатулка с духом Борея</b>"
     },
     "113009": {
         "Icon": "UI_ItemIcon_113009",
-        "Text": "<b>Basalt Pillar</b>"
+        "Text": "<b>Базальтовая колонна</b>"
     },
     "113010": {
         "Icon": "UI_ItemIcon_113010",
-        "Text": "<b>Hoarfrost Core</b>"
+        "Text": "<b>Инеевое ядро</b>"
     },
     "113011": {
         "Icon": "UI_ItemIcon_113011",
-        "Text": "<b>Everflame Seed</b>"
+        "Text": "<b>Пылающее семя</b>"
     },
     "113012": {
         "Icon": "UI_ItemIcon_113012",
-        "Text": "<b>Cleansing Heart</b>"
+        "Text": "<b>Очищающее сердце</b>"
     },
     "113013": {
         "Icon": "UI_ItemIcon_113013",
-        "Text": "<b>Tusk of Monoceros Caeli</b>"
+        "Text": "<b>Рог небесного кита</b>"
     },
     "113014": {
         "Icon": "UI_ItemIcon_113014",
-        "Text": "<b>Shard of a Foul Legacy</b>"
+        "Text": "<b>Осколок дьявольского меча</b>"
     },
     "113015": {
         "Icon": "UI_ItemIcon_113015",
-        "Text": "<b>Shadow of the Warrior</b>"
+        "Text": "<b>Тень воина</b>"
     },
     "113016": {
         "Icon": "UI_ItemIcon_113016",
-        "Text": "<b>Juvenile Jade</b>"
+        "Text": "<b>Незрелый нефрит</b>"
     },
     "113017": {
         "Icon": "UI_ItemIcon_113017",
-        "Text": "<b>Dragon Lord's Crown</b>"
+        "Text": "<b>Корона лорда драконов</b>"
     },
     "113018": {
         "Icon": "UI_ItemIcon_113018",
-        "Text": "<b>Bloodjade Branch</b>"
+        "Text": "<b>Ветвь кровавой яшмы</b>"
     },
     "113019": {
         "Icon": "UI_ItemIcon_113019",
-        "Text": "<b>Gilded Scale</b>"
+        "Text": "<b>Позолоченная чешуя</b>"
     },
     "113020": {
         "Icon": "UI_ItemIcon_113020",
-        "Text": "<b>Crystalline Bloom</b>"
+        "Text": "<b>Цветение кристалла</b>"
     },
     "113022": {
         "Icon": "UI_ItemIcon_113022",
-        "Text": "<b>Marionette Core</b>"
+        "Text": "<b>Ядро марионетки</b>"
     },
     "113023": {
         "Icon": "UI_ItemIcon_113023",
-        "Text": "<b>Perpetual Heart</b>"
+        "Text": "<b>Сердце бесконечного механизма</b>"
     },
     "113024": {
         "Icon": "UI_ItemIcon_113024",
-        "Text": "<b>Smoldering Pearl</b>"
+        "Text": "<b>Тлеющая жемчужина</b>"
     },
     "113025": {
         "Icon": "UI_ItemIcon_113025",
-        "Text": "<b>Molten Moment</b>"
+        "Text": "<b>Расплавленный миг</b>"
     },
     "113026": {
         "Icon": "UI_ItemIcon_113026",
-        "Text": "<b>Hellfire Butterfly</b>"
+        "Text": "<b>Бабочка адского пламени</b>"
     },
     "113027": {
         "Icon": "UI_ItemIcon_113027",
-        "Text": "<b>Ashen Heart</b>"
+        "Text": "<b>Пепельное сердце</b>"
     },
     "113028": {
         "Icon": "UI_ItemIcon_113028",
-        "Text": "<b>Dew of Repudiation</b>"
+        "Text": "<b>Роса отречения</b>"
     },
     "113029": {
         "Icon": "UI_ItemIcon_113029",
-        "Text": "<b>Storm Beads</b>"
+        "Text": "<b>Штормовой жемчуг</b>"
     },
     "113030": {
         "Icon": "UI_ItemIcon_113030",
-        "Text": "<b>Riftborn Regalia</b>"
+        "Text": "<b>Эмблема Разрыва</b>"
     },
     "113031": {
         "Icon": "UI_ItemIcon_113031",
-        "Text": "<b>Dragonheir's False Fin</b>"
+        "Text": "<b>Ложный плавник Дракона глубин</b>"
     },
     "113032": {
         "Icon": "UI_ItemIcon_113032",
-        "Text": "<b>Mudra of the Malefic General</b>"
+        "Text": "<b>Мудра зловещего генерала</b>"
     },
     "113033": {
         "Icon": "UI_ItemIcon_113033",
-        "Text": "<b>Tears of the Calamitous God</b>"
+        "Text": "<b>Слёзы очищения божества бедствий</b>"
     },
     "113034": {
         "Icon": "UI_ItemIcon_113034",
-        "Text": "<b>The Meaning of Aeons</b>"
+        "Text": "<b>Смысл эонов</b>"
     },
     "113035": {
         "Icon": "UI_ItemIcon_113035",
-        "Text": "<b>Runic Fang</b>"
+        "Text": "<b>Рунический клык</b>"
     },
     "113036": {
         "Icon": "UI_ItemIcon_113036",
-        "Text": "<b>Majestic Hooked Beak</b>"
+        "Text": "<b>Клюв короля плесенников</b>"
     },
     "113037": {
         "Icon": "UI_ItemIcon_113037",
-        "Text": "<b>Thunderclap Fruitcore</b>"
+        "Text": "<b>Плод грома</b>"
     },
     "113038": {
         "Icon": "UI_ItemIcon_113038",
-        "Text": "<b>Perpetual Caliber</b>"
+        "Text": "<b>Вечный механизм</b>"
     },
     "113039": {
         "Icon": "UI_ItemIcon_113039",
-        "Text": "<b>Light Guiding Tetrahedron</b>"
+        "Text": "<b>Светопроводящий тетраэдр</b>"
     },
     "113040": {
         "Icon": "UI_ItemIcon_113040",
-        "Text": "<b>Quelled Creeper</b>"
+        "Text": "<b>Подавленная лоза</b>"
     },
     "113041": {
         "Icon": "UI_ItemIcon_113041",
-        "Text": "<b>Puppet Strings</b>"
+        "Text": "<b>Нити марионетки</b>"
     },
     "113042": {
         "Icon": "UI_ItemIcon_113042",
-        "Text": "<b>Mirror of Mushin</b>"
+        "Text": "<b>Зеркало Мусин</b>"
     },
     "113043": {
         "Icon": "UI_ItemIcon_113043",
-        "Text": "<b>Daka's Bell</b>"
+        "Text": "<b>Пустой колокольчик</b>"
     },
     "113044": {
         "Icon": "UI_ItemIcon_113044",
-        "Text": "<b>Pseudo-Stamens</b>"
+        "Text": "<b>Псевдотычинки</b>"
     },
     "113045": {
         "Icon": "UI_ItemIcon_113045",
-        "Text": "<b>Evergloom Ring</b>"
+        "Text": "<b>Кольцо вечного мрака</b>"
     },
     "113046": {
         "Icon": "UI_ItemIcon_113046",
-        "Text": "<b>Worldspan Fern</b>"
+        "Text": "<b>Объявший небосвод папоротник</b>"
     },
     "113047": {
         "Icon": "UI_ItemIcon_113047",
-        "Text": "<b>Primordial Greenbloom</b>"
+        "Text": "<b>Первозданный цветок оазиса</b>"
     },
     "113048": {
         "Icon": "UI_ItemIcon_113048",
-        "Text": "<b>Everamber</b>"
+        "Text": "<b>Вечный янтарь</b>"
     },
     "113049": {
         "Icon": "UI_ItemIcon_113049",
-        "Text": "<b>Artificed Spare Clockwork Component — Coppelia</b>"
+        "Text": "<b>Запасная деталь чудного механизма: Коппелия</b>"
     },
     "113050": {
         "Icon": "UI_ItemIcon_113050",
-        "Text": "<b>Artificed Spare Clockwork Component — Coppelius</b>"
+        "Text": "<b>Запасная деталь чудного механизма: Коппелиус</b>"
     },
     "113051": {
         "Icon": "UI_ItemIcon_113051",
-        "Text": "<b>Emperor's Resolution</b>"
+        "Text": "<b>Приговор императора</b>"
     },
     "113052": {
         "Icon": "UI_ItemIcon_113052",
-        "Text": "<b>\"Tourbillon Device\"</b>"
+        "Text": "<b>Турбийон</b>"
     },
     "113053": {
         "Icon": "UI_ItemIcon_113053",
-        "Text": "<b>Fontemer Unihorn</b>"
+        "Text": "<b>Рог Фонтмера</b>"
     },
     "113054": {
         "Icon": "UI_ItemIcon_113054",
-        "Text": "<b>Lightless Silk String</b>"
+        "Text": "<b>Тёмная шёлковая нить</b>"
     },
     "113055": {
         "Icon": "UI_ItemIcon_113055",
-        "Text": "<b>Lightless Eye of the Maelstrom</b>"
+        "Text": "<b>Тёмный глаз вихря</b>"
     },
     "113056": {
         "Icon": "UI_ItemIcon_113056",
-        "Text": "<b>Lightless Mass</b>"
+        "Text": "<b>Тёмная масса</b>"
     },
     "113057": {
         "Icon": "UI_ItemIcon_113057",
-        "Text": "<b>Water That Failed To Transcend</b>"
+        "Text": "<b>Вода, не достигшая перехода</b>"
     },
     "113058": {
         "Icon": "UI_ItemIcon_113058",
-        "Text": "<b>Cloudseam Scale</b>"
+        "Text": "<b>Облачные доспехи</b>"
     }
 }
 
