@@ -124,6 +124,16 @@ $(function () {
             }]
         })
 
+        if ($('#_H_').val() == '1') {
+            $('.scroller').css('overflow-x', 'scroll !important')
+            $('.scroller').css('width', 'calc(100%)')
+            $('.result').addClass('result_')
+            $('.content').css('padding-left', '0')
+            $('.content').css('padding-right', '0')
+            $('.p_b').addClass('p_b_')
+            $('h3 .tlsub').html(computer_.MiscText.Translate_Abyss2[lang2])
+        }
+
     }
 
 
@@ -1863,16 +1873,6 @@ $(function () {
             $('.schedule').css('display', 'flex')
         }
     })
-
-    if ($('#_H_').val() == '1') {
-        $('.scroller').css('overflow-x', 'scroll !important')
-        $('.scroller').css('width', 'calc(100%)')
-        $('.result').addClass('result_')
-        $('.content').css('padding-left', '0')
-        $('.content').css('padding-right', '0')
-        $('.p_b').addClass('p_b_')
-        $('h3 .tlsub').html(computer_.MiscText.Translate_Abyss2[lang2])
-    }
 
     $('body').on('click', '.monicon_container, .monbelow', function () {
         window.open($(this).attr('data-link'))
