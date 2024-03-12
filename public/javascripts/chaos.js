@@ -241,6 +241,24 @@ $(function () {
         if (!buff) buff = cur_floor_data.Buff
         $('.buff_name').html(buff.Name)
         $('.buff_desc').html(buff.Desc)
+        if (buff.Extra && buff.Extra.length) {
+            buff.Extra.forEach(function (t) {
+                var affix = ""
+                if (t.DMG) {
+                    var this_lv = cur_floor_data.Upper[0].Level
+                    affix = '<b>' + Math.floor(t.DMG * _enviro[this_lv]) + '</b>'
+                    if (t.Color) {
+                        affix = `<color style='color:#${elemcolor[t.Color]}'>` + affix + '</color>'
+                    }
+                }
+                $('.buff_desc').render({
+                    p: '- ' + t.Name + ' ' + affix,
+                    style: {
+                        margin: '0'
+                    }
+                })
+            })
+        }
         $('.target_c').html(txt.Cycle[lang] + cur_floor_data.TurnNum)
         $('.target_t').empty().render({
             template: {

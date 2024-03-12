@@ -6,7 +6,15 @@ var _chaos = [
         "Name": "Chronicle of the White Nights Dream Kingdom",
         "Buff": {
             "Name": "Memory Turbulence",
-            "Desc": "After every attack launched by an ally, apply 1 stack of Memory Imprint to all enemies. Enemies with Memory Imprint receive <color style='color:#f29e38;'>5.0%</color> more DMG. This effect stacks up to <color style='color:#f29e38;'>6.0</color> stack(s). When Memory Imprint stacks to maximum stacks, immediately deal DMG based on a certain percentage of each enemy's respective Max HP 1 time to all enemies.<br>When enemy targets enter battle and other units in the field currently have Memory Imprints, the new enemies will receive the same number of Memory Imprint stacks as those on the field.<br>At the start of every wave of Cycle, remove Memory Imprint from all enemies."
+            "Desc": "After every attack launched by an ally, apply 1 stack of Memory Imprint to all enemies. Enemies with Memory Imprint receive <color style='color:#f29e38;'>5.0%</color> more DMG. This effect stacks up to <color style='color:#f29e38;'>6.0</color> stack(s). When Memory Imprint stacks to maximum stacks, immediately deal DMG based on a certain percentage of each enemy's respective Max HP 1 time to all enemies.<br>When enemy targets enter battle and other units in the field currently have Memory Imprints, the new enemies will receive the same number of Memory Imprint stacks as those on the field.<br>At the start of every wave of Cycle, remove Memory Imprint from all enemies.",
+            "Extra": [
+                {
+                    "Name": "Minions <b>60%</b>"
+                },
+                {
+                    "Name": "Elite <b>15%</b>"
+                }
+            ]
         },
         "Floors": [
             {
@@ -1274,7 +1282,29 @@ var _chaos = [
         "Name": "Eve of Wanton Feast",
         "Buff": {
             "Name": "Memory Turbulence",
-            "Desc": "Summons a Trotter at the beginning of each wave or each cycle. The Trotter takes <color style='color:#f29e38;'>200.0%</color> increased DMG from Basic ATKs and DoT effects.<br>When the Trotter is defeated, if any enemies are in <color style='color:#f29e38;'>Bleed</color>, <color style='color:#f29e38;'>Shock</color>, <color style='color:#f29e38;'>Burn</color>, or <color style='color:#f29e38;'>Wind Shear</color> state, immediately deals DMG equal to <color style='color:#f29e38;'>50.0%</color> of the original DoT effect to them, with a high chance to inflict Bleed, Shock, Burn, or Wind Shear on all enemies for <color style='color:#f29e38;'>3.0</color> turn(s)."
+            "Desc": "Summons a Trotter at the beginning of each wave or each cycle. The Trotter takes <color style='color:#f29e38;'>200.0%</color> increased DMG from Basic ATKs and DoT effects.<br>When the Trotter is defeated, if any enemies are in <color style='color:#f29e38;'>Bleed</color>, <color style='color:#f29e38;'>Shock</color>, <color style='color:#f29e38;'>Burn</color>, or <color style='color:#f29e38;'>Wind Shear</color> state, immediately deals DMG equal to <color style='color:#f29e38;'>50.0%</color> of the original DoT effect to them, with a high chance to inflict Bleed, Shock, Burn, or Wind Shear on all enemies for <color style='color:#f29e38;'>3.0</color> turn(s).",
+            "Extra": [
+                {
+                    "Name": "Bleed ≤",
+                    "DMG": 1.25,
+                    "Color": "Phys"
+                },
+                {
+                    "Name": "Shock",
+                    "DMG": 0.75,
+                    "Color": "Elec"
+                },
+                {
+                    "Name": "Burm",
+                    "DMG": 0.5,
+                    "Color": "Fire"
+                },
+                {
+                    "Name": "Wind Shear",
+                    "DMG": 0.5,
+                    "Color": "Wind"
+                }
+            ]
         },
         "Floors": [
             {

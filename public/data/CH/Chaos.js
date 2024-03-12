@@ -6,7 +6,15 @@ var _chaos = [
         "Name": "白夜梦国记",
         "Buff": {
             "Name": "记忆紊流",
-            "Desc": "我方每次攻击后使敌方全体陷入1层【记忆印记】，处于【记忆印记】状态中的敌方目标受到的伤害提高<color style='color:#f29e38;'> 5.0% </color>，该效果最多叠加<color style='color:#f29e38;'> 6.0 </color>层。当【记忆印记】叠加至上限时，立即对敌方全体造成1次基于各自生命上限一定百分比的伤害。<br>当敌方目标进入战斗时，若场上其他目标处于【记忆印记】状态，则使其获得同样层数的【记忆印记】。<br>每个波次或轮开始时，清除敌方全体的【记忆印记】。"
+            "Desc": "我方每次攻击后使敌方全体陷入1层【记忆印记】，处于【记忆印记】状态中的敌方目标受到的伤害提高<color style='color:#f29e38;'> 5.0% </color>，该效果最多叠加<color style='color:#f29e38;'> 6.0 </color>层。当【记忆印记】叠加至上限时，立即对敌方全体造成1次基于各自生命上限一定百分比的伤害。<br>当敌方目标进入战斗时，若场上其他目标处于【记忆印记】状态，则使其获得同样层数的【记忆印记】。<br>每个波次或轮开始时，清除敌方全体的【记忆印记】。",
+            "Extra": [
+                {
+                    "Name": "小怪 <b>60%</b>"
+                },
+                {
+                    "Name": "精英 <b>15%</b>"
+                }
+            ]
         },
         "Floors": [
             {
@@ -1274,7 +1282,29 @@ var _chaos = [
         "Name": "一晌荒宴",
         "Buff": {
             "Name": "记忆紊流",
-            "Desc": "每个波次或轮开始时，召唤1只扑满到场上，该扑满受到的普攻和持续伤害提高<color style='color:#f29e38;'> 200.0% </color>。<br>在消灭扑满后，若敌方目标处于<color style='color:#f29e38;'>裂伤</color>、<color style='color:#f29e38;'>触电</color>、<color style='color:#f29e38;'>灼烧</color>或<color style='color:#f29e38;'>风化</color>状态，使其当前承受的对应状态立即产生相当于原伤害<color style='color:#f29e38;'> 50.0% </color>的伤害，并对敌方全体大概率施加裂伤、触电、灼烧、风化状态，持续<color style='color:#f29e38;'> 3.0 </color>回合。"
+            "Desc": "每个波次或轮开始时，召唤1只扑满到场上，该扑满受到的普攻和持续伤害提高<color style='color:#f29e38;'> 200.0% </color>。<br>在消灭扑满后，若敌方目标处于<color style='color:#f29e38;'>裂伤</color>、<color style='color:#f29e38;'>触电</color>、<color style='color:#f29e38;'>灼烧</color>或<color style='color:#f29e38;'>风化</color>状态，使其当前承受的对应状态立即产生相当于原伤害<color style='color:#f29e38;'> 50.0% </color>的伤害，并对敌方全体大概率施加裂伤、触电、灼烧、风化状态，持续<color style='color:#f29e38;'> 3.0 </color>回合。",
+            "Extra": [
+                {
+                    "Name": "裂伤 ≤",
+                    "DMG": 1.25,
+                    "Color": "Phys"
+                },
+                {
+                    "Name": "触电",
+                    "DMG": 0.75,
+                    "Color": "Elec"
+                },
+                {
+                    "Name": "灼烧",
+                    "DMG": 0.5,
+                    "Color": "Fire"
+                },
+                {
+                    "Name": "风化",
+                    "DMG": 0.5,
+                    "Color": "Wind"
+                }
+            ]
         },
         "Floors": [
             {
