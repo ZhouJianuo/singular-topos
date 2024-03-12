@@ -847,6 +847,38 @@ schedule.selected img {
     border-radius: 4px;
 }
 
+.relic-area {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+.relic-card {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    background-color: #27363E;
+    border-radius: 8px;
+    margin: 6px 0;
+    padding: 10px 0;
+    color: #dddddd;
+    font-weight: bold;
+}
+
+.relic-left {
+    width: 80px;
+}
+
+.relic-right {
+    width: calc(100% - 120px);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 @media screen and (min-width: 900px) {
     .relic-head tr :nth-child(2) {
         width: 12%;
@@ -870,6 +902,9 @@ schedule.selected img {
 }
 
 @media screen and (min-width: 500px) and (max-width: 800px) {
+    .relic-card {
+        width: calc(50% - 10px)
+    }
     schedule.selected {
         border-width: 2px;
         height: 73px;
@@ -1102,6 +1137,9 @@ schedule.selected img {
 }
 
 @media screen and (min-width: 800px) {
+    .relic-card {
+        width: calc(33% - 10px)
+    }
     schedule.selected {
         border-width: 2px;
         height: 83px;
