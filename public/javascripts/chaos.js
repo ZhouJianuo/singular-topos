@@ -246,7 +246,8 @@ $(function () {
                 var affix = ""
                 if (t.DMG) {
                     var this_lv = cur_floor_data.Upper[0].Level
-                    affix = '<b>' + Math.floor(t.DMG * _enviro[this_lv]) + '</b>'
+                    var this_hlg = cur_floor_data.Upper[0].HardLevelGroup ? cur_floor_data.Upper[0].HardLevelGroup : "1"
+                    affix = '<b>' + Math.floor(t.DMG * _enviro[this_hlg][this_lv]) + '</b>'
                     if (t.Color) {
                         affix = `<color style='color:#${elemcolor[t.Color]}'>` + affix + '</color>'
                     }
