@@ -53,6 +53,9 @@ $(function() {
                             'class': GAME == 'GI' ? 'active' : ''
                         },
                         style: {
+                            'display': 'flex',
+                            'justify-content': 'center',
+                            'flex-direction': 'column',
                             'line-height': '1.7'
                         }
                     },
@@ -63,6 +66,9 @@ $(function() {
                             'class': GAME == 'SR' ? 'active' : ''
                         },
                         style: {
+                            'display': 'flex',
+                            'justify-content': 'center',
+                            'flex-direction': 'column',
                             'line-height': '1.7'
                         }
                     },
@@ -74,7 +80,8 @@ $(function() {
                         style: {
                             'display': 'flex',
                             'justify-content': 'center',
-                            'flex-direction': 'column'
+                            'flex-direction': 'column',
+                            'line-height': '1.7'
                         }
                     },
                 ],

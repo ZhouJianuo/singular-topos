@@ -17,6 +17,7 @@ var __AvatarInfoConfig = [
         "Birthday": "11/20",
         "Icon": "UI_AvatarIcon_Keqing",
         "Poise": "Melee",
+        "CommonMatt": 112040,
         "CommonMat": 60101,
         "TalentMat": 1,
         "TalentMatt": 104312,
@@ -70,6 +71,7 @@ var __AvatarInfoConfig = [
         "Birthday": "8/17",
         "Icon": "UI_AvatarIcon_Chiori",
         "Poise": "Melee",
+        "CommonMatt": 112055,
         "CommonMat": 601,
         "TalentMat": 3,
         "TalentMatt": 104328,
@@ -122,6 +124,7 @@ var __AvatarInfoConfig = [
         "Birthday": "4/11",
         "Icon": "UI_AvatarIcon_Liuyun",
         "Poise": "Range",
+        "CommonMatt": 112010,
         "CommonMat": 10306,
         "TalentMat": 3,
         "TalentMatt": 104318,
@@ -174,6 +177,7 @@ var __AvatarInfoConfig = [
         "Birthday": "12/22",
         "Icon": "UI_AvatarIcon_Gaming",
         "Poise": "Melee",
+        "CommonMatt": 112004,
         "CommonMat": 111,
         "TalentMat": 1,
         "TalentMatt": 104312,
@@ -226,6 +230,7 @@ var __AvatarInfoConfig = [
         "Birthday": "8/16",
         "Icon": "UI_AvatarIcon_Navia",
         "Poise": "Melee",
+        "CommonMatt": 112082,
         "CommonMat": 61601,
         "TalentMat": 1,
         "TalentMatt": 104340,
@@ -278,6 +283,7 @@ var __AvatarInfoConfig = [
         "Birthday": "1/10",
         "Icon": "UI_AvatarIcon_Chevreuse",
         "Poise": "Melee",
+        "CommonMatt": 112085,
         "CommonMat": 40662,
         "TalentMat": 3,
         "TalentMatt": 104346,
@@ -320,7 +326,7 @@ var __AvatarInfoConfig = [
         "Name": "芙宁娜",
         "Desc": "审判舞台上的绝对焦点，直至谢幕的掌声响起。",
         "Title": "不休独舞",
-        "Constellation": null,
+        "Constellation": "司颂座",
         "Nation": "Fontaine",
         "Belong": "枫丹廷",
         "Grade": 5,
@@ -330,6 +336,7 @@ var __AvatarInfoConfig = [
         "Birthday": "10/13",
         "Icon": "UI_AvatarIcon_Furina",
         "Poise": "Melee",
+        "CommonMatt": 112040,
         "CommonMat": 60101,
         "TalentMat": 2,
         "TalentMatt": 104343,
@@ -382,6 +389,7 @@ var __AvatarInfoConfig = [
         "Birthday": "4/10",
         "Icon": "UI_AvatarIcon_Charlotte",
         "Poise": "Range",
+        "CommonMatt": 112085,
         "CommonMat": 40612,
         "TalentMat": 2,
         "TalentMatt": 104343,
@@ -424,7 +432,7 @@ var __AvatarInfoConfig = [
         "Name": "那维莱特",
         "Desc": "枫丹的最高审判官，因其无懈可击的「秉公无私」而闻名。",
         "Title": "谕告的潮音",
-        "Constellation": null,
+        "Constellation": "？？？ / 原海巨灵座",
         "Nation": "Fontaine",
         "Belong": "枫丹廷",
         "Grade": 5,
@@ -434,6 +442,7 @@ var __AvatarInfoConfig = [
         "Birthday": "12/18",
         "Icon": "UI_AvatarIcon_Neuvillette",
         "Poise": "Range",
+        "CommonMatt": 112082,
         "CommonMat": 61601,
         "TalentMat": 1,
         "TalentMatt": 104340,
@@ -486,6 +495,7 @@ var __AvatarInfoConfig = [
         "Birthday": "11/23",
         "Icon": "UI_AvatarIcon_Wriothesley",
         "Poise": "Melee",
+        "CommonMatt": 112085,
         "CommonMat": 40612,
         "TalentMat": 3,
         "TalentMatt": 104346,
@@ -538,6 +548,7 @@ var __AvatarInfoConfig = [
         "Birthday": "9/24",
         "Icon": "UI_AvatarIcon_Freminet",
         "Poise": "Melee",
+        "CommonMatt": 112082,
         "CommonMat": 61601,
         "TalentMat": 2,
         "TalentMatt": 104343,
@@ -590,6 +601,7 @@ var __AvatarInfoConfig = [
         "Birthday": "2/2",
         "Icon": "UI_AvatarIcon_Liney",
         "Poise": "Range",
+        "CommonMatt": 112034,
         "CommonMat": 30101,
         "TalentMat": 1,
         "TalentMatt": 104340,
@@ -642,6 +654,7 @@ var __AvatarInfoConfig = [
         "Birthday": "2/2",
         "Icon": "UI_AvatarIcon_Linette",
         "Poise": "Melee",
+        "CommonMatt": 112085,
         "CommonMat": 40612,
         "TalentMat": 3,
         "TalentMatt": 104346,
@@ -778,6 +791,7 @@ var __AvatarInfoConfig = [
         "Birthday": "1/22",
         "Icon": "UI_AvatarIcon_Momoka",
         "Poise": "Melee",
+        "CommonMatt": 112055,
         "CommonMat": 601,
         "TalentMat": 1,
         "TalentMatt": 104322,
@@ -830,6 +844,7 @@ var __AvatarInfoConfig = [
         "Birthday": "4/25",
         "Icon": "UI_AvatarIcon_Baizhuer",
         "Poise": "Range",
+        "CommonMatt": 112061,
         "CommonMat": 60902,
         "TalentMat": 3,
         "TalentMatt": 104318,
@@ -882,6 +897,7 @@ var __AvatarInfoConfig = [
         "Birthday": "7/9",
         "Icon": "UI_AvatarIcon_Kaveh",
         "Poise": "Melee",
+        "CommonMatt": 112061,
         "CommonMat": 60902,
         "TalentMat": 2,
         "TalentMatt": 104334,
@@ -934,6 +950,7 @@ var __AvatarInfoConfig = [
         "Birthday": "8/11",
         "Icon": "UI_AvatarIcon_Mika",
         "Poise": "Melee",
+        "CommonMatt": 112034,
         "CommonMat": 30101,
         "TalentMat": 3,
         "TalentMatt": 104309,
@@ -986,6 +1003,7 @@ var __AvatarInfoConfig = [
         "Birthday": "4/7",
         "Icon": "UI_AvatarIcon_Dehya",
         "Poise": "Melee",
+        "CommonMatt": 112067,
         "CommonMat": 53101,
         "TalentMat": 3,
         "TalentMatt": 104337,
@@ -1038,6 +1056,7 @@ var __AvatarInfoConfig = [
         "Birthday": "2/11",
         "Icon": "UI_AvatarIcon_Alhatham",
         "Poise": "Melee",
+        "CommonMatt": 112067,
         "CommonMat": 53101,
         "TalentMat": 2,
         "TalentMatt": 104334,
@@ -1090,6 +1109,7 @@ var __AvatarInfoConfig = [
         "Birthday": "3/6",
         "Icon": "UI_AvatarIcon_Yaoyao",
         "Poise": "Melee",
+        "CommonMatt": 112004,
         "CommonMat": 111,
         "TalentMat": 2,
         "TalentMatt": 104315,
@@ -1142,6 +1162,7 @@ var __AvatarInfoConfig = [
         "Birthday": "8/20",
         "Icon": "UI_AvatarIcon_Faruzan",
         "Poise": "Range",
+        "CommonMatt": 112067,
         "CommonMat": 53101,
         "TalentMat": 1,
         "TalentMatt": 104331,
@@ -1194,6 +1215,7 @@ var __AvatarInfoConfig = [
         "Birthday": "1/3",
         "Icon": "UI_AvatarIcon_Wanderer",
         "Poise": "Range",
+        "CommonMatt": 112046,
         "CommonMat": 50801,
         "TalentMat": 3,
         "TalentMatt": 104337,
@@ -1246,6 +1268,7 @@ var __AvatarInfoConfig = [
         "Birthday": "12/19",
         "Icon": "UI_AvatarIcon_Layla",
         "Poise": "Melee",
+        "CommonMatt": 112010,
         "CommonMat": 10306,
         "TalentMat": 2,
         "TalentMatt": 104334,
@@ -1288,7 +1311,7 @@ var __AvatarInfoConfig = [
         "Name": "纳西妲",
         "Desc": "深居净善宫的笼中之鸟，只能在梦中将世界尽收眼底。",
         "Title": "白草净华",
-        "Constellation": null,
+        "Constellation": "智慧主座",
         "Nation": "Sumeru",
         "Belong": "须弥城",
         "Grade": 5,
@@ -1298,6 +1321,7 @@ var __AvatarInfoConfig = [
         "Birthday": "10/27",
         "Icon": "UI_AvatarIcon_Nahida",
         "Poise": "Range",
+        "CommonMatt": 112061,
         "CommonMat": 60902,
         "TalentMat": 2,
         "TalentMatt": 104334,
@@ -1350,6 +1374,7 @@ var __AvatarInfoConfig = [
         "Birthday": "5/3",
         "Icon": "UI_AvatarIcon_Candace",
         "Poise": "Melee",
+        "CommonMatt": 112067,
         "CommonMat": 53101,
         "TalentMat": 1,
         "TalentMatt": 104331,
@@ -1402,6 +1427,7 @@ var __AvatarInfoConfig = [
         "Birthday": "6/23",
         "Icon": "UI_AvatarIcon_Cyno",
         "Poise": "Melee",
+        "CommonMatt": 112010,
         "CommonMat": 10306,
         "TalentMat": 1,
         "TalentMatt": 104331,
@@ -1454,6 +1480,7 @@ var __AvatarInfoConfig = [
         "Birthday": "12/3",
         "Icon": "UI_AvatarIcon_Nilou",
         "Poise": "Melee",
+        "CommonMatt": 112061,
         "CommonMat": 60902,
         "TalentMat": 3,
         "TalentMatt": 104337,
@@ -1506,6 +1533,7 @@ var __AvatarInfoConfig = [
         "Birthday": "12/29",
         "Icon": "UI_AvatarIcon_Tighnari",
         "Poise": "Range",
+        "CommonMatt": 112061,
         "CommonMat": 60902,
         "TalentMat": 1,
         "TalentMatt": 104331,
@@ -1558,6 +1586,7 @@ var __AvatarInfoConfig = [
         "Birthday": "12/21",
         "Icon": "UI_AvatarIcon_Dori",
         "Poise": "Melee",
+        "CommonMatt": 112067,
         "CommonMat": 53101,
         "TalentMat": 2,
         "TalentMatt": 104334,
@@ -1610,6 +1639,7 @@ var __AvatarInfoConfig = [
         "Birthday": "5/8",
         "Icon": "UI_AvatarIcon_Collei",
         "Poise": "Range",
+        "CommonMatt": 112013,
         "CommonMat": 10110,
         "TalentMat": 3,
         "TalentMatt": 104337,
@@ -1746,6 +1776,7 @@ var __AvatarInfoConfig = [
         "Birthday": "7/24",
         "Icon": "UI_AvatarIcon_Heizo",
         "Poise": "Melee",
+        "CommonMatt": 112037,
         "CommonMat": 50701,
         "TalentMat": 1,
         "TalentMatt": 104322,
@@ -1798,6 +1829,7 @@ var __AvatarInfoConfig = [
         "Birthday": "7/27",
         "Icon": "UI_AvatarIcon_Shinobu",
         "Poise": "Melee",
+        "CommonMatt": 112055,
         "CommonMat": 601,
         "TalentMat": 2,
         "TalentMatt": 104325,
@@ -1850,6 +1882,7 @@ var __AvatarInfoConfig = [
         "Birthday": "4/20",
         "Icon": "UI_AvatarIcon_Yelan",
         "Poise": "Range",
+        "CommonMatt": 112034,
         "CommonMat": 30101,
         "TalentMat": 1,
         "TalentMatt": 104312,
@@ -1902,6 +1935,7 @@ var __AvatarInfoConfig = [
         "Birthday": "3/26",
         "Icon": "UI_AvatarIcon_Ayato",
         "Poise": "Melee",
+        "CommonMatt": 112046,
         "CommonMat": 50801,
         "TalentMat": 2,
         "TalentMatt": 104325,
@@ -1954,6 +1988,7 @@ var __AvatarInfoConfig = [
         "Birthday": "6/27",
         "Icon": "UI_AvatarIcon_Yae",
         "Poise": "Range",
+        "CommonMatt": 112046,
         "CommonMat": 50801,
         "TalentMat": 3,
         "TalentMatt": 104328,
@@ -2006,6 +2041,7 @@ var __AvatarInfoConfig = [
         "Birthday": "5/21",
         "Icon": "UI_AvatarIcon_Yunjin",
         "Poise": "Melee",
+        "CommonMatt": 112007,
         "CommonMat": 10101,
         "TalentMat": 2,
         "TalentMatt": 104315,
@@ -2058,6 +2094,7 @@ var __AvatarInfoConfig = [
         "Birthday": "3/10",
         "Icon": "UI_AvatarIcon_Shenhe",
         "Poise": "Melee",
+        "CommonMatt": 112040,
         "CommonMat": 60101,
         "TalentMat": 1,
         "TalentMatt": 104312,
@@ -2110,6 +2147,7 @@ var __AvatarInfoConfig = [
         "Birthday": "6/1",
         "Icon": "UI_AvatarIcon_Itto",
         "Poise": "Melee",
+        "CommonMatt": 112004,
         "CommonMat": 111,
         "TalentMat": 2,
         "TalentMatt": 104325,
@@ -2162,6 +2200,7 @@ var __AvatarInfoConfig = [
         "Birthday": "5/18",
         "Icon": "UI_AvatarIcon_Gorou",
         "Poise": "Range",
+        "CommonMatt": 112055,
         "CommonMat": 601,
         "TalentMat": 3,
         "TalentMatt": 104328,
@@ -2214,6 +2253,7 @@ var __AvatarInfoConfig = [
         "Birthday": "1/9",
         "Icon": "UI_AvatarIcon_Tohma",
         "Poise": "Melee",
+        "CommonMatt": 112037,
         "CommonMat": 50701,
         "TalentMat": 1,
         "TalentMatt": 104322,
@@ -2266,6 +2306,7 @@ var __AvatarInfoConfig = [
         "Birthday": "4/4",
         "Icon": "UI_AvatarIcon_Aloy",
         "Poise": "Range",
+        "CommonMatt": 112055,
         "CommonMat": 601,
         "TalentMat": 1,
         "TalentMatt": 104303,
@@ -2318,6 +2359,7 @@ var __AvatarInfoConfig = [
         "Birthday": "7/14",
         "Icon": "UI_AvatarIcon_Sara",
         "Poise": "Range",
+        "CommonMatt": 112007,
         "CommonMat": 10101,
         "TalentMat": 2,
         "TalentMatt": 104325,
@@ -2370,6 +2412,7 @@ var __AvatarInfoConfig = [
         "Birthday": "2/22",
         "Icon": "UI_AvatarIcon_Kokomi",
         "Poise": "Range",
+        "CommonMatt": 112055,
         "CommonMat": 601,
         "TalentMat": 1,
         "TalentMatt": 104322,
@@ -2412,7 +2455,7 @@ var __AvatarInfoConfig = [
         "Name": "雷电将军",
         "Desc": "其身为御建鸣神主尊大御所大人，许稻妻人民以亘古不变之「永恒」。",
         "Title": "一心净土",
-        "Constellation": null,
+        "Constellation": "天下人座",
         "Nation": "Inazuma",
         "Belong": "稻妻城",
         "Grade": 5,
@@ -2422,6 +2465,7 @@ var __AvatarInfoConfig = [
         "Birthday": "6/26",
         "Icon": "UI_AvatarIcon_Shougun",
         "Poise": "Melee",
+        "CommonMatt": 112046,
         "CommonMat": 50801,
         "TalentMat": 3,
         "TalentMatt": 104328,
@@ -2474,6 +2518,7 @@ var __AvatarInfoConfig = [
         "Birthday": "10/19",
         "Icon": "UI_AvatarIcon_Sayu",
         "Poise": "Melee",
+        "CommonMatt": 112040,
         "CommonMat": 60101,
         "TalentMat": 3,
         "TalentMatt": 104328,
@@ -2526,6 +2571,7 @@ var __AvatarInfoConfig = [
         "Birthday": "6/21",
         "Icon": "UI_AvatarIcon_Yoimiya",
         "Poise": "Range",
+        "CommonMatt": 112010,
         "CommonMat": 10306,
         "TalentMat": 1,
         "TalentMatt": 104322,
@@ -2578,6 +2624,7 @@ var __AvatarInfoConfig = [
         "Birthday": "9/28",
         "Icon": "UI_AvatarIcon_Ayaka",
         "Poise": "Melee",
+        "CommonMatt": 112046,
         "CommonMat": 50801,
         "TalentMat": 2,
         "TalentMatt": 104325,
@@ -2714,6 +2761,7 @@ var __AvatarInfoConfig = [
         "Birthday": "10/29",
         "Icon": "UI_AvatarIcon_Kazuha",
         "Poise": "Melee",
+        "CommonMatt": 112037,
         "CommonMat": 50701,
         "TalentMat": 2,
         "TalentMatt": 104315,
@@ -2766,6 +2814,7 @@ var __AvatarInfoConfig = [
         "Birthday": "10/25",
         "Icon": "UI_AvatarIcon_Eula",
         "Poise": "Melee",
+        "CommonMatt": 112007,
         "CommonMat": 10101,
         "TalentMat": 2,
         "TalentMatt": 104306,
@@ -2818,6 +2867,7 @@ var __AvatarInfoConfig = [
         "Birthday": "7/28",
         "Icon": "UI_AvatarIcon_Feiyan",
         "Poise": "Range",
+        "CommonMatt": 112037,
         "CommonMat": 50701,
         "TalentMat": 3,
         "TalentMatt": 104318,
@@ -2870,6 +2920,7 @@ var __AvatarInfoConfig = [
         "Birthday": "1/24",
         "Icon": "UI_AvatarIcon_Rosaria",
         "Poise": "Melee",
+        "CommonMatt": 112034,
         "CommonMat": 30101,
         "TalentMat": 3,
         "TalentMatt": 104309,
@@ -2922,6 +2973,7 @@ var __AvatarInfoConfig = [
         "Birthday": "7/15",
         "Icon": "UI_AvatarIcon_Hutao",
         "Poise": "Melee",
+        "CommonMatt": 112040,
         "CommonMat": 60101,
         "TalentMat": 2,
         "TalentMatt": 104315,
@@ -2974,6 +3026,7 @@ var __AvatarInfoConfig = [
         "Birthday": "4/17",
         "Icon": "UI_AvatarIcon_Xiao",
         "Poise": "Melee",
+        "CommonMatt": 112004,
         "CommonMat": 111,
         "TalentMat": 1,
         "TalentMatt": 104312,
@@ -3026,6 +3079,7 @@ var __AvatarInfoConfig = [
         "Birthday": "9/13",
         "Icon": "UI_AvatarIcon_Albedo",
         "Poise": "Melee",
+        "CommonMatt": 112010,
         "CommonMat": 10306,
         "TalentMat": 3,
         "TalentMatt": 104309,
@@ -3078,6 +3132,7 @@ var __AvatarInfoConfig = [
         "Birthday": "12/2",
         "Icon": "UI_AvatarIcon_Ganyu",
         "Poise": "Range",
+        "CommonMatt": 112040,
         "CommonMat": 60101,
         "TalentMat": 2,
         "TalentMatt": 104315,
@@ -3130,6 +3185,7 @@ var __AvatarInfoConfig = [
         "Birthday": "10/16",
         "Icon": "UI_AvatarIcon_Xinyan",
         "Poise": "Melee",
+        "CommonMatt": 112037,
         "CommonMat": 50701,
         "TalentMat": 3,
         "TalentMatt": 104318,
@@ -3182,6 +3238,7 @@ var __AvatarInfoConfig = [
         "Birthday": "1/18",
         "Icon": "UI_AvatarIcon_Diona",
         "Poise": "Range",
+        "CommonMatt": 112013,
         "CommonMat": 10110,
         "TalentMat": 1,
         "TalentMatt": 104303,
@@ -3234,6 +3291,7 @@ var __AvatarInfoConfig = [
         "Birthday": "7/20",
         "Icon": "UI_AvatarIcon_Tartaglia",
         "Poise": "Range",
+        "CommonMatt": 112034,
         "CommonMat": 30101,
         "TalentMat": 1,
         "TalentMatt": 104303,
@@ -3276,7 +3334,7 @@ var __AvatarInfoConfig = [
         "Name": "钟离",
         "Desc": "被「往生堂」请来的神秘客人，知识渊博，对各种事物都颇有见地。",
         "Title": "尘世闲游",
-        "Constellation": null,
+        "Constellation": "？？？ / 岩王帝君座",
         "Nation": "Liyue",
         "Belong": "璃月港",
         "Grade": 5,
@@ -3286,6 +3344,7 @@ var __AvatarInfoConfig = [
         "Birthday": "12/31",
         "Icon": "UI_AvatarIcon_Zhongli",
         "Poise": "Melee",
+        "CommonMatt": 112004,
         "CommonMat": 111,
         "TalentMat": 3,
         "TalentMatt": 104318,
@@ -3338,6 +3397,7 @@ var __AvatarInfoConfig = [
         "Birthday": "11/26",
         "Icon": "UI_AvatarIcon_Sucrose",
         "Poise": "Range",
+        "CommonMatt": 112040,
         "CommonMat": 60101,
         "TalentMat": 1,
         "TalentMatt": 104303,
@@ -3390,6 +3450,7 @@ var __AvatarInfoConfig = [
         "Birthday": "8/31",
         "Icon": "UI_AvatarIcon_Mona",
         "Poise": "Range",
+        "CommonMatt": 112040,
         "CommonMat": 60101,
         "TalentMat": 2,
         "TalentMatt": 104306,
@@ -3442,6 +3503,7 @@ var __AvatarInfoConfig = [
         "Birthday": "9/7",
         "Icon": "UI_AvatarIcon_Chongyun",
         "Poise": "Melee",
+        "CommonMatt": 112007,
         "CommonMat": 10101,
         "TalentMat": 2,
         "TalentMatt": 104315,
@@ -3494,6 +3556,7 @@ var __AvatarInfoConfig = [
         "Birthday": "3/3",
         "Icon": "UI_AvatarIcon_Qiqi",
         "Poise": "Melee",
+        "CommonMatt": 112010,
         "CommonMat": 10306,
         "TalentMat": 1,
         "TalentMatt": 104312,
@@ -3546,6 +3609,7 @@ var __AvatarInfoConfig = [
         "Birthday": "3/21",
         "Icon": "UI_AvatarIcon_Noel",
         "Poise": "Melee",
+        "CommonMatt": 112007,
         "CommonMat": 10101,
         "TalentMat": 2,
         "TalentMatt": 104306,
@@ -3598,6 +3662,7 @@ var __AvatarInfoConfig = [
         "Birthday": "2/29",
         "Icon": "UI_AvatarIcon_Bennett",
         "Poise": "Melee",
+        "CommonMatt": 112037,
         "CommonMat": 50701,
         "TalentMat": 2,
         "TalentMatt": 104306,
@@ -3650,6 +3715,7 @@ var __AvatarInfoConfig = [
         "Birthday": "5/27",
         "Icon": "UI_AvatarIcon_Fischl",
         "Poise": "Range",
+        "CommonMatt": 112013,
         "CommonMat": 10110,
         "TalentMat": 3,
         "TalentMatt": 104309,
@@ -3702,6 +3768,7 @@ var __AvatarInfoConfig = [
         "Birthday": "7/27",
         "Icon": "UI_AvatarIcon_Klee",
         "Poise": "Range",
+        "CommonMatt": 112010,
         "CommonMat": 10306,
         "TalentMat": 1,
         "TalentMatt": 104303,
@@ -3754,6 +3821,7 @@ var __AvatarInfoConfig = [
         "Birthday": "8/26",
         "Icon": "UI_AvatarIcon_Ningguang",
         "Poise": "Range",
+        "CommonMatt": 112034,
         "CommonMat": 30101,
         "TalentMat": 1,
         "TalentMatt": 104312,
@@ -3806,6 +3874,7 @@ var __AvatarInfoConfig = [
         "Birthday": "10/9",
         "Icon": "UI_AvatarIcon_Xingqiu",
         "Poise": "Melee",
+        "CommonMatt": 112007,
         "CommonMat": 10101,
         "TalentMat": 3,
         "TalentMatt": 104318,
@@ -3858,6 +3927,7 @@ var __AvatarInfoConfig = [
         "Birthday": "2/14",
         "Icon": "UI_AvatarIcon_Beidou",
         "Poise": "Melee",
+        "CommonMatt": 112037,
         "CommonMat": 50701,
         "TalentMat": 3,
         "TalentMatt": 104318,
@@ -3910,6 +3980,7 @@ var __AvatarInfoConfig = [
         "Birthday": "11/2",
         "Icon": "UI_AvatarIcon_Xiangling",
         "Poise": "Melee",
+        "CommonMatt": 112004,
         "CommonMat": 111,
         "TalentMat": 2,
         "TalentMatt": 104315,
@@ -3952,7 +4023,7 @@ var __AvatarInfoConfig = [
         "Name": "温迪",
         "Desc": "蒙德城诸多吟游诗人中的一位，自由自在地穿行在街头巷尾。",
         "Title": "风色诗人",
-        "Constellation": null,
+        "Constellation": "歌仙座",
         "Nation": "Mondstadt",
         "Belong": "蒙德城",
         "Grade": 5,
@@ -3962,6 +4033,7 @@ var __AvatarInfoConfig = [
         "Birthday": "6/16",
         "Icon": "UI_AvatarIcon_Venti",
         "Poise": "Range",
+        "CommonMatt": 112004,
         "CommonMat": 111,
         "TalentMat": 3,
         "TalentMatt": 104309,
@@ -4014,6 +4086,7 @@ var __AvatarInfoConfig = [
         "Birthday": "8/10",
         "Icon": "UI_AvatarIcon_Ambor",
         "Poise": "Range",
+        "CommonMatt": 112013,
         "CommonMat": 10110,
         "TalentMat": 1,
         "TalentMatt": 104303,
@@ -4066,6 +4139,7 @@ var __AvatarInfoConfig = [
         "Birthday": "9/9",
         "Icon": "UI_AvatarIcon_Razor",
         "Poise": "Melee",
+        "CommonMatt": 112007,
         "CommonMat": 10110,
         "TalentMat": 2,
         "TalentMatt": 104306,
@@ -4118,6 +4192,7 @@ var __AvatarInfoConfig = [
         "Birthday": "4/30",
         "Icon": "UI_AvatarIcon_Diluc",
         "Poise": "Melee",
+        "CommonMatt": 112034,
         "CommonMat": 30101,
         "TalentMat": 2,
         "TalentMatt": 104306,
@@ -4170,6 +4245,7 @@ var __AvatarInfoConfig = [
         "Birthday": "11/30",
         "Icon": "UI_AvatarIcon_Kaeya",
         "Poise": "Melee",
+        "CommonMatt": 112037,
         "CommonMat": 50701,
         "TalentMat": 3,
         "TalentMatt": 104309,
@@ -4222,6 +4298,7 @@ var __AvatarInfoConfig = [
         "Birthday": "7/5",
         "Icon": "UI_AvatarIcon_Barbara",
         "Poise": "Range",
+        "CommonMatt": 112010,
         "CommonMat": 10306,
         "TalentMat": 1,
         "TalentMatt": 104303,
@@ -4274,6 +4351,7 @@ var __AvatarInfoConfig = [
         "Birthday": "6/9",
         "Icon": "UI_AvatarIcon_Lisa",
         "Poise": "Range",
+        "CommonMatt": 112004,
         "CommonMat": 111,
         "TalentMat": 3,
         "TalentMatt": 104309,
@@ -4326,6 +4404,7 @@ var __AvatarInfoConfig = [
         "Birthday": "3/14",
         "Icon": "UI_AvatarIcon_Qin",
         "Poise": "Melee",
+        "CommonMatt": 112007,
         "CommonMat": 10101,
         "TalentMat": 2,
         "TalentMatt": 104306,
@@ -9643,6 +9722,10 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114052,
+        "MatIDs": [
+            112088,
+            112082
+        ],
         "EquipAffixName": "伟大者帕西法尔",
         "EquipAffixID": 115512,
         "Extra": [],
@@ -9671,6 +9754,10 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114048,
+        "MatIDs": [
+            112064,
+            112067
+        ],
         "EquipAffixName": "兽径的终点",
         "EquipAffixID": 115511,
         "Extra": [],
@@ -9699,6 +9786,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114032,
+        "MatIDs": [
+            112052,
+            112013
+        ],
         "EquipAffixName": "飞雷御执",
         "EquipAffixID": 115509,
         "Extra": [],
@@ -9727,6 +9818,10 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112019,
+            112055
+        ],
         "EquipAffixName": "洗濯诸类之形",
         "EquipAffixID": 115508,
         "Extra": [],
@@ -9755,6 +9850,10 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114036,
+        "MatIDs": [
+            112058,
+            112055
+        ],
         "EquipAffixName": "极昼的先兆者",
         "EquipAffixID": 115507,
         "Extra": [],
@@ -9783,6 +9882,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112016,
+            112034
+        ],
         "EquipAffixName": "别离的思念之歌",
         "EquipAffixID": 115503,
         "Extra": [],
@@ -9811,6 +9914,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112004
+        ],
         "EquipAffixName": "矢志不忘",
         "EquipAffixID": 115502,
         "Extra": [],
@@ -9839,6 +9946,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112013
+        ],
         "EquipAffixName": "回响长天的诗歌",
         "EquipAffixID": 115501,
         "Extra": [],
@@ -9867,6 +9978,10 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114052,
+        "MatIDs": [
+            112088,
+            112082
+        ],
         "EquipAffixName": "石匠号子",
         "EquipAffixID": 115427,
         "Extra": [],
@@ -9895,6 +10010,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114052,
+        "MatIDs": [
+            112088,
+            112013
+        ],
         "EquipAffixName": "深海弦振",
         "EquipAffixID": 115425,
         "Extra": [],
@@ -9923,6 +10042,10 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114048,
+        "MatIDs": [
+            112079,
+            112061
+        ],
         "EquipAffixName": "阳炎古道",
         "EquipAffixID": 115424,
         "Extra": [],
@@ -9951,6 +10074,10 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114040,
+        "MatIDs": [
+            112079,
+            112067
+        ],
         "EquipAffixName": "秘智之眸的青睐",
         "EquipAffixID": 115419,
         "Extra": [],
@@ -9979,6 +10106,10 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114048,
+        "MatIDs": [
+            112064,
+            112061
+        ],
         "EquipAffixName": "网破",
         "EquipAffixID": 115418,
         "Extra": [],
@@ -10007,6 +10138,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114048,
+        "MatIDs": [
+            112064,
+            112013
+        ],
         "EquipAffixName": "迷宫之王的教导",
         "EquipAffixID": 115417,
         "Extra": [],
@@ -10035,6 +10170,10 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114032,
+        "MatIDs": [
+            112052,
+            112055
+        ],
         "EquipAffixName": "驭浪的海祇民",
         "EquipAffixID": 115416,
         "Extra": [],
@@ -10063,6 +10202,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114032,
+        "MatIDs": [
+            112052,
+            112013
+        ],
         "EquipAffixName": "强力攻击",
         "EquipAffixID": 115415,
         "Extra": [],
@@ -10091,6 +10234,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114032,
+        "MatIDs": [
+            112052,
+            112013
+        ],
         "EquipAffixName": "浅濑之弭",
         "EquipAffixID": 115414,
         "Extra": [],
@@ -10119,6 +10266,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112022,
+            112040
+        ],
         "EquipAffixName": "风花之愿",
         "EquipAffixID": 115413,
         "Extra": [],
@@ -10147,6 +10298,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112037
+        ],
         "EquipAffixName": "极夜二重奏",
         "EquipAffixID": 115412,
         "Extra": [],
@@ -10175,6 +10330,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112031,
+            112010
+        ],
         "EquipAffixName": "渊中霞彩",
         "EquipAffixID": 115411,
         "Extra": [],
@@ -10203,6 +10362,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112004
+        ],
         "EquipAffixName": "街巷伏击",
         "EquipAffixID": 115410,
         "Extra": [],
@@ -10231,6 +10394,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112013
+        ],
         "EquipAffixName": "苍翠之风",
         "EquipAffixID": 115409,
         "Extra": [],
@@ -10259,6 +10426,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112040
+        ],
         "EquipAffixName": "乘胜追击",
         "EquipAffixID": 115408,
         "Extra": [],
@@ -10287,6 +10458,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112034
+        ],
         "EquipAffixName": "注能之矢",
         "EquipAffixID": 115407,
         "Extra": [],
@@ -10315,6 +10490,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112037
+        ],
         "EquipAffixName": "离簇不归",
         "EquipAffixID": 115406,
         "Extra": [],
@@ -10343,6 +10522,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112007
+        ],
         "EquipAffixName": "速射弓斗",
         "EquipAffixID": 115405,
         "Extra": [],
@@ -10371,6 +10554,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112010
+        ],
         "EquipAffixName": "专注",
         "EquipAffixID": 115404,
         "Extra": [],
@@ -10399,6 +10586,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112004
+        ],
         "EquipAffixName": "气定神闲",
         "EquipAffixID": 115403,
         "Extra": [],
@@ -10427,6 +10618,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112013
+        ],
         "EquipAffixName": "无矢之歌",
         "EquipAffixID": 115402,
         "Extra": [],
@@ -10455,6 +10650,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112040
+        ],
         "EquipAffixName": "顺风而行",
         "EquipAffixID": 115401,
         "Extra": [],
@@ -10483,6 +10682,10 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
+        "MatIDs": [
+            0,
+            0
+        ],
         "EquipAffixName": "摧坚",
         "EquipAffixID": 115306,
         "Extra": [],
@@ -10511,6 +10714,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112037
+        ],
         "EquipAffixName": "飞矢传书",
         "EquipAffixID": 115305,
         "Extra": [],
@@ -10539,6 +10746,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112007
+        ],
         "EquipAffixName": "弹弓",
         "EquipAffixID": 115304,
         "Extra": [],
@@ -10567,6 +10778,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112010
+        ],
         "EquipAffixName": "收割",
         "EquipAffixID": 115303,
         "Extra": [],
@@ -10595,6 +10810,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112004
+        ],
         "EquipAffixName": "精准",
         "EquipAffixID": 115302,
         "Extra": [],
@@ -10623,6 +10842,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112013
+        ],
         "EquipAffixName": "踏火止水",
         "EquipAffixID": 115301,
         "Extra": [],
@@ -10651,6 +10874,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112097,
+            112010
+        ],
         "EquipAffixName": "云笈降真要诀",
         "EquipAffixID": 114515,
         "Extra": [],
@@ -10679,6 +10906,10 @@ var _WeaponConfig = [
             40662
         ],
         "AscMatID": 114056,
+        "MatIDs": [
+            112091,
+            112085
+        ],
         "EquipAffixName": "万世的浪涛",
         "EquipAffixID": 114514,
         "Extra": [],
@@ -10707,6 +10938,10 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114060,
+        "MatIDs": [
+            112094,
+            112082
+        ],
         "EquipAffixName": "黄金的血潮",
         "EquipAffixID": 114513,
         "Extra": [],
@@ -10735,6 +10970,10 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114048,
+        "MatIDs": [
+            112064,
+            112061
+        ],
         "EquipAffixName": "堙没的蓝宝石泪滴",
         "EquipAffixID": 114512,
         "Extra": [],
@@ -10763,6 +11002,10 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114044,
+        "MatIDs": [
+            112073,
+            112061
+        ],
         "EquipAffixName": "千夜的曙歌",
         "EquipAffixID": 114511,
         "Extra": [],
@@ -10791,6 +11034,10 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114036,
+        "MatIDs": [
+            112058,
+            112055
+        ],
         "EquipAffixName": "神樱神游神乐舞",
         "EquipAffixID": 114509,
         "Extra": [],
@@ -10819,6 +11066,10 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114028,
+        "MatIDs": [
+            112052,
+            112055
+        ],
         "EquipAffixName": "白夜皓月",
         "EquipAffixID": 114506,
         "Extra": [],
@@ -10847,6 +11098,10 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112079,
+            112061
+        ],
         "EquipAffixName": "定土玉圭",
         "EquipAffixID": 114505,
         "Extra": [],
@@ -10875,6 +11130,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112007
+        ],
         "EquipAffixName": "金璋皇极",
         "EquipAffixID": 114504,
         "Extra": [],
@@ -10903,6 +11162,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112004
+        ],
         "EquipAffixName": "无边际的眷顾",
         "EquipAffixID": 114502,
         "Extra": [],
@@ -10931,6 +11194,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112013
+        ],
         "EquipAffixName": "浮游四方的灵云",
         "EquipAffixID": 114501,
         "Extra": [],
@@ -10959,6 +11226,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112043,
+            112037
+        ],
         "EquipAffixName": "蔚蓝深空",
         "EquipAffixID": 114426,
         "Extra": [],
@@ -10987,6 +11258,10 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114056,
+        "MatIDs": [
+            112091,
+            112082
+        ],
         "EquipAffixName": "未完的杰作",
         "EquipAffixID": 114425,
         "Extra": [],
@@ -11015,6 +11290,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112028,
+            112010
+        ],
         "EquipAffixName": "碧玉流转",
         "EquipAffixID": 114424,
         "Extra": [],
@@ -11043,6 +11322,10 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114044,
+        "MatIDs": [
+            112019,
+            112061
+        ],
         "EquipAffixName": "圆满之相",
         "EquipAffixID": 114417,
         "Extra": [],
@@ -11071,6 +11354,10 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114044,
+        "MatIDs": [
+            112064,
+            112061
+        ],
         "EquipAffixName": "林野晚星",
         "EquipAffixID": 114416,
         "Extra": [],
@@ -11099,6 +11386,10 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114028,
+        "MatIDs": [
+            112058,
+            112055
+        ],
         "EquipAffixName": "微光的海渊民",
         "EquipAffixID": 114415,
         "Extra": [],
@@ -11127,6 +11418,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114028,
+        "MatIDs": [
+            112052,
+            112010
+        ],
         "EquipAffixName": "樱之斋宫",
         "EquipAffixID": 114414,
         "Extra": [],
@@ -11155,6 +11450,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112007
+        ],
         "EquipAffixName": "嘟嘟！大冒险",
         "EquipAffixID": 114413,
         "Extra": [],
@@ -11183,6 +11482,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112040
+        ],
         "EquipAffixName": "霜葬",
         "EquipAffixID": 114412,
         "Extra": [],
@@ -11211,6 +11514,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112037
+        ],
         "EquipAffixName": "变化万端",
         "EquipAffixID": 114410,
         "Extra": [],
@@ -11239,6 +11546,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112007
+        ],
         "EquipAffixName": "回响",
         "EquipAffixID": 114409,
         "Extra": [],
@@ -11267,6 +11578,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112010
+        ],
         "EquipAffixName": "乘胜追击",
         "EquipAffixID": 114408,
         "Extra": [],
@@ -11295,6 +11610,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112004
+        ],
         "EquipAffixName": "注能之卷",
         "EquipAffixID": 114407,
         "Extra": [],
@@ -11323,6 +11642,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112013
+        ],
         "EquipAffixName": "炊金",
         "EquipAffixID": 114406,
         "Extra": [],
@@ -11351,6 +11674,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112040
+        ],
         "EquipAffixName": "日月辉",
         "EquipAffixID": 114405,
         "Extra": [],
@@ -11379,6 +11706,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112034
+        ],
         "EquipAffixName": "专注",
         "EquipAffixID": 114404,
         "Extra": [],
@@ -11407,6 +11738,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112037
+        ],
         "EquipAffixName": "气定神闲",
         "EquipAffixID": 114403,
         "Extra": [],
@@ -11435,6 +11770,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112007
+        ],
         "EquipAffixName": "登场乐",
         "EquipAffixID": 114402,
         "Extra": [],
@@ -11463,6 +11802,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112010
+        ],
         "EquipAffixName": "顺风而行",
         "EquipAffixID": 114401,
         "Extra": [],
@@ -11491,6 +11834,10 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
+        "MatIDs": [
+            0,
+            0
+        ],
         "EquipAffixName": "元素熟练",
         "EquipAffixID": 114306,
         "Extra": [],
@@ -11519,6 +11866,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112034
+        ],
         "EquipAffixName": "奔袭战术",
         "EquipAffixID": 114305,
         "Extra": [],
@@ -11547,6 +11898,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112037
+        ],
         "EquipAffixName": "激流",
         "EquipAffixID": 114304,
         "Extra": [],
@@ -11575,6 +11930,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112007
+        ],
         "EquipAffixName": "能量沐浴",
         "EquipAffixID": 114303,
         "Extra": [],
@@ -11603,6 +11962,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112010
+        ],
         "EquipAffixName": "传承",
         "EquipAffixID": 114302,
         "Extra": [],
@@ -11631,6 +11994,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112004
+        ],
         "EquipAffixName": "止水息雷",
         "EquipAffixID": 114301,
         "Extra": [],
@@ -11659,6 +12026,10 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114044,
+        "MatIDs": [
+            112070,
+            112061
+        ],
         "EquipAffixName": "蜃气尽头的热梦",
         "EquipAffixID": 113511,
         "Extra": [],
@@ -11687,6 +12058,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114036,
+        "MatIDs": [
+            112049,
+            112046
+        ],
         "EquipAffixName": "非时之梦 · 常世灶食",
         "EquipAffixID": 113509,
         "Extra": [],
@@ -11715,6 +12090,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112040
+        ],
         "EquipAffixName": "灭却之戒法",
         "EquipAffixID": 113507,
         "Extra": [],
@@ -11743,6 +12122,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112034
+        ],
         "EquipAffixName": "昭理的鸢之枪",
         "EquipAffixID": 113505,
         "Extra": [],
@@ -11771,6 +12154,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112037
+        ],
         "EquipAffixName": "金璋皇极",
         "EquipAffixID": 113504,
         "Extra": [],
@@ -11799,6 +12186,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112010
+        ],
         "EquipAffixName": "斫断黑翼的利齿",
         "EquipAffixID": 113502,
         "Extra": [],
@@ -11827,6 +12218,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112022,
+            112004
+        ],
         "EquipAffixName": "无羁的朱赤之蝶",
         "EquipAffixID": 113501,
         "Extra": [],
@@ -11855,6 +12250,10 @@ var _WeaponConfig = [
             40662
         ],
         "AscMatID": 114052,
+        "MatIDs": [
+            112094,
+            112085
+        ],
         "EquipAffixName": "石匠号子",
         "EquipAffixID": 113427,
         "Extra": [],
@@ -11883,6 +12282,10 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114040,
+        "MatIDs": [
+            112097,
+            112055
+        ],
         "EquipAffixName": "均衡的原理",
         "EquipAffixID": 113426,
         "Extra": [],
@@ -11911,6 +12314,10 @@ var _WeaponConfig = [
             40662
         ],
         "AscMatID": 114060,
+        "MatIDs": [
+            112091,
+            112085
+        ],
         "EquipAffixName": "枪尖一点",
         "EquipAffixID": 113425,
         "Extra": [],
@@ -11939,6 +12346,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114060,
+        "MatIDs": [
+            112079,
+            112040
+        ],
         "EquipAffixName": "冰原的诸多故事",
         "EquipAffixID": 113424,
         "Extra": [],
@@ -11967,6 +12378,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112019,
+            112004
+        ],
         "EquipAffixName": "不至之风",
         "EquipAffixID": 113419,
         "Extra": [],
@@ -11995,6 +12410,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114044,
+        "MatIDs": [
+            112070,
+            112034
+        ],
         "EquipAffixName": "幽林月影",
         "EquipAffixID": 113417,
         "Extra": [],
@@ -12023,6 +12442,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114036,
+        "MatIDs": [
+            112058,
+            112046
+        ],
         "EquipAffixName": "驭浪的海祇民",
         "EquipAffixID": 113416,
         "Extra": [],
@@ -12051,6 +12474,10 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114036,
+        "MatIDs": [
+            112049,
+            112055
+        ],
         "EquipAffixName": "船歌",
         "EquipAffixID": 113415,
         "Extra": [],
@@ -12079,6 +12506,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114036,
+        "MatIDs": [
+            112049,
+            112037
+        ],
         "EquipAffixName": "名士振舞",
         "EquipAffixID": 113414,
         "Extra": [],
@@ -12107,6 +12538,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112028,
+            112034
+        ],
         "EquipAffixName": "霜葬",
         "EquipAffixID": 113409,
         "Extra": [],
@@ -12135,6 +12570,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112034
+        ],
         "EquipAffixName": "专注",
         "EquipAffixID": 113408,
         "Extra": [],
@@ -12163,6 +12602,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112004
+        ],
         "EquipAffixName": "顺风而行",
         "EquipAffixID": 113407,
         "Extra": [],
@@ -12191,6 +12634,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112013
+        ],
         "EquipAffixName": "千岩诀 · 同心",
         "EquipAffixID": 113406,
         "Extra": [],
@@ -12219,6 +12666,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112040
+        ],
         "EquipAffixName": "角斗士",
         "EquipAffixID": 113405,
         "Extra": [],
@@ -12247,6 +12698,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112034
+        ],
         "EquipAffixName": "乘胜追击",
         "EquipAffixID": 113404,
         "Extra": [],
@@ -12275,6 +12730,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112037
+        ],
         "EquipAffixName": "注能之针",
         "EquipAffixID": 113403,
         "Extra": [],
@@ -12303,6 +12762,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112007
+        ],
         "EquipAffixName": "嗜魔",
         "EquipAffixID": 113402,
         "Extra": [],
@@ -12331,6 +12794,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112010
+        ],
         "EquipAffixName": "踏火止水",
         "EquipAffixID": 113401,
         "Extra": [],
@@ -12359,6 +12826,10 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
+        "MatIDs": [
+            0,
+            0
+        ],
         "EquipAffixName": "待定",
         "EquipAffixID": 113304,
         "Extra": [],
@@ -12387,6 +12858,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112013
+        ],
         "EquipAffixName": "克柔",
         "EquipAffixID": 113303,
         "Extra": [],
@@ -12415,6 +12890,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112040
+        ],
         "EquipAffixName": "沉重",
         "EquipAffixID": 113302,
         "Extra": [],
@@ -12443,6 +12922,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112034
+        ],
         "EquipAffixName": "锐利",
         "EquipAffixID": 113301,
         "Extra": [],
@@ -12471,6 +12954,10 @@ var _WeaponConfig = [
             40662
         ],
         "AscMatID": 114052,
+        "MatIDs": [
+            112091,
+            112085
+        ],
         "EquipAffixName": "诸多朝与暮的誓约",
         "EquipAffixID": 112512,
         "Extra": [],
@@ -12499,6 +12986,10 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114048,
+        "MatIDs": [
+            112076,
+            112067
+        ],
         "EquipAffixName": "沙海守望",
         "EquipAffixID": 112511,
         "Extra": [],
@@ -12527,6 +13018,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114032,
+        "MatIDs": [
+            112058,
+            112046
+        ],
         "EquipAffixName": "御伽大王御伽话",
         "EquipAffixID": 112510,
         "Extra": [],
@@ -12555,6 +13050,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112037
+        ],
         "EquipAffixName": "金璋皇极",
         "EquipAffixID": 112504,
         "Extra": [],
@@ -12583,6 +13082,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112007
+        ],
         "EquipAffixName": "揭旗的叛逆之歌",
         "EquipAffixID": 112503,
         "Extra": [],
@@ -12611,6 +13114,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112010
+        ],
         "EquipAffixName": "如狼般狩猎者",
         "EquipAffixID": 112502,
         "Extra": [],
@@ -12639,6 +13146,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112004
+        ],
         "EquipAffixName": "斩裂晴空的龙脊",
         "EquipAffixID": 112501,
         "Extra": [],
@@ -12667,6 +13178,10 @@ var _WeaponConfig = [
             40662
         ],
         "AscMatID": 114060,
+        "MatIDs": [
+            112091,
+            112085
+        ],
         "EquipAffixName": "船工号子",
         "EquipAffixID": 112427,
         "Extra": [],
@@ -12695,6 +13210,10 @@ var _WeaponConfig = [
             40662
         ],
         "AscMatID": 114060,
+        "MatIDs": [
+            112094,
+            112085
+        ],
         "EquipAffixName": "加油！",
         "EquipAffixID": 112426,
         "Extra": [],
@@ -12723,6 +13242,10 @@ var _WeaponConfig = [
             40662
         ],
         "AscMatID": 114060,
+        "MatIDs": [
+            112091,
+            112085
+        ],
         "EquipAffixName": "巡航的白浪",
         "EquipAffixID": 112425,
         "Extra": [],
@@ -12751,6 +13274,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114044,
+        "MatIDs": [
+            112076,
+            112004
+        ],
         "EquipAffixName": "「伶牙俐齿」",
         "EquipAffixID": 112424,
         "Extra": [],
@@ -12779,6 +13306,10 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112076,
+            112055
+        ],
         "EquipAffixName": "风与花的密语",
         "EquipAffixID": 112418,
         "Extra": [],
@@ -12807,6 +13338,10 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114040,
+        "MatIDs": [
+            112070,
+            112067
+        ],
         "EquipAffixName": "森林的瑞佑",
         "EquipAffixID": 112417,
         "Extra": [],
@@ -12835,6 +13370,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114028,
+        "MatIDs": [
+            112058,
+            112046
+        ],
         "EquipAffixName": "驭浪的海祇民",
         "EquipAffixID": 112416,
         "Extra": [],
@@ -12863,6 +13402,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114048,
+        "MatIDs": [
+            112070,
+            112037
+        ],
         "EquipAffixName": "沙上楼阁",
         "EquipAffixID": 112415,
         "Extra": [],
@@ -12891,6 +13434,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114032,
+        "MatIDs": [
+            112049,
+            112046
+        ],
         "EquipAffixName": "名士振舞",
         "EquipAffixID": 112414,
         "Extra": [],
@@ -12919,6 +13466,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112004
+        ],
         "EquipAffixName": "海洋的胜利",
         "EquipAffixID": 112412,
         "Extra": [],
@@ -12947,6 +13498,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112004
+        ],
         "EquipAffixName": "霜葬",
         "EquipAffixID": 112411,
         "Extra": [],
@@ -12975,6 +13530,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112013
+        ],
         "EquipAffixName": "千岩诀 · 同心",
         "EquipAffixID": 112410,
         "Extra": [],
@@ -13003,6 +13562,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112040
+        ],
         "EquipAffixName": "破浪",
         "EquipAffixID": 112409,
         "Extra": [],
@@ -13031,6 +13594,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112034
+        ],
         "EquipAffixName": "乘胜追击",
         "EquipAffixID": 112408,
         "Extra": [],
@@ -13059,6 +13626,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112037
+        ],
         "EquipAffixName": "注能之锋",
         "EquipAffixID": 112407,
         "Extra": [],
@@ -13087,6 +13658,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112007
+        ],
         "EquipAffixName": "粉碎",
         "EquipAffixID": 112406,
         "Extra": [],
@@ -13115,6 +13690,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112010
+        ],
         "EquipAffixName": "止水息雷",
         "EquipAffixID": 112405,
         "Extra": [],
@@ -13143,6 +13722,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112004
+        ],
         "EquipAffixName": "专注",
         "EquipAffixID": 112404,
         "Extra": [],
@@ -13171,6 +13754,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112013
+        ],
         "EquipAffixName": "气定神闲",
         "EquipAffixID": 112403,
         "Extra": [],
@@ -13199,6 +13786,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112040
+        ],
         "EquipAffixName": "叛逆的守护者",
         "EquipAffixID": 112402,
         "Extra": [],
@@ -13227,6 +13818,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112034
+        ],
         "EquipAffixName": "顺风而行",
         "EquipAffixID": 112401,
         "Extra": [],
@@ -13255,6 +13850,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112037
+        ],
         "EquipAffixName": "勇气",
         "EquipAffixID": 112306,
         "Extra": [],
@@ -13283,6 +13882,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112007
+        ],
         "EquipAffixName": "有话直说",
         "EquipAffixID": 112305,
         "Extra": [],
@@ -13311,6 +13914,10 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
+        "MatIDs": [
+            0,
+            0
+        ],
         "EquipAffixName": "余热",
         "EquipAffixID": 112304,
         "Extra": [],
@@ -13339,6 +13946,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112004
+        ],
         "EquipAffixName": "收割",
         "EquipAffixID": 112303,
         "Extra": [],
@@ -13367,6 +13978,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112013
+        ],
         "EquipAffixName": "踏火息雷",
         "EquipAffixID": 112302,
         "Extra": [],
@@ -13395,6 +14010,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112040
+        ],
         "EquipAffixName": "不屈",
         "EquipAffixID": 112301,
         "Extra": [],
@@ -13423,6 +14042,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114028,
+        "MatIDs": [
+            112049,
+            112046
+        ],
         "EquipAffixName": "锦之花与龛中剑",
         "EquipAffixID": 111514,
         "Extra": [],
@@ -13451,6 +14074,10 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114056,
+        "MatIDs": [
+            112088,
+            112082
+        ],
         "EquipAffixName": "湖光的朝与暮",
         "EquipAffixID": 111513,
         "Extra": [],
@@ -13479,6 +14106,10 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114040,
+        "MatIDs": [
+            112076,
+            112067
+        ],
         "EquipAffixName": "白月枝芒",
         "EquipAffixID": 111512,
         "Extra": [],
@@ -13507,6 +14138,10 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114040,
+        "MatIDs": [
+            112073,
+            112067
+        ],
         "EquipAffixName": "沉入沙海的史诗",
         "EquipAffixID": 111511,
         "Extra": [],
@@ -13535,6 +14170,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114032,
+        "MatIDs": [
+            112019,
+            112046
+        ],
         "EquipAffixName": "白刃流转",
         "EquipAffixID": 111510,
         "Extra": [],
@@ -13563,6 +14202,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114028,
+        "MatIDs": [
+            112049,
+            112046
+        ],
         "EquipAffixName": "雾切御腰物",
         "EquipAffixID": 111509,
         "Extra": [],
@@ -13591,6 +14234,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112037
+        ],
         "EquipAffixName": "护国的无垢之心",
         "EquipAffixID": 111505,
         "Extra": [],
@@ -13619,6 +14266,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112007
+        ],
         "EquipAffixName": "金璋皇极",
         "EquipAffixID": 111504,
         "Extra": [],
@@ -13647,6 +14298,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112010
+        ],
         "EquipAffixName": "抗争的践行之歌",
         "EquipAffixID": 111503,
         "Extra": [],
@@ -13675,6 +14330,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112004
+        ],
         "EquipAffixName": "穿刺高天的利齿",
         "EquipAffixID": 111502,
         "Extra": [],
@@ -13703,6 +14362,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112013
+        ],
         "EquipAffixName": "西风之鹰的抗争",
         "EquipAffixID": 111501,
         "Extra": [],
@@ -13731,6 +14394,10 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
+        "MatIDs": [
+            0,
+            0
+        ],
         "EquipAffixName": "「圣剑」",
         "EquipAffixID": 111429,
         "Extra": [],
@@ -13759,6 +14426,10 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114052,
+        "MatIDs": [
+            112094,
+            112082
+        ],
         "EquipAffixName": "勇者之剑",
         "EquipAffixID": 111428,
         "Extra": [],
@@ -13787,6 +14458,10 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114056,
+        "MatIDs": [
+            112094,
+            112082
+        ],
         "EquipAffixName": "船工号子",
         "EquipAffixID": 111427,
         "Extra": [],
@@ -13815,6 +14490,10 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114052,
+        "MatIDs": [
+            112088,
+            112082
+        ],
         "EquipAffixName": "铁骨",
         "EquipAffixID": 111426,
         "Extra": [],
@@ -13843,6 +14522,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114056,
+        "MatIDs": [
+            112088,
+            112046
+        ],
         "EquipAffixName": "最终的崇高",
         "EquipAffixID": 111425,
         "Extra": [],
@@ -13871,6 +14554,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112025,
+            112007
+        ],
         "EquipAffixName": "苍狼北风",
         "EquipAffixID": 111424,
         "Extra": [],
@@ -13899,6 +14586,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114032,
+        "MatIDs": [
+            112073,
+            112046
+        ],
         "EquipAffixName": "怪谭 · 时雨心地一本足",
         "EquipAffixID": 111422,
         "Extra": [],
@@ -13927,6 +14618,10 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
+        "MatIDs": [
+            0,
+            0
+        ],
         "EquipAffixName": "徊徊切舍刀",
         "EquipAffixID": 111421,
         "Extra": [],
@@ -13955,6 +14650,10 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
+        "MatIDs": [
+            0,
+            0
+        ],
         "EquipAffixName": "徊徊切舍刀",
         "EquipAffixID": 111420,
         "Extra": [],
@@ -13983,6 +14682,10 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
+        "MatIDs": [
+            0,
+            0
+        ],
         "EquipAffixName": "徊徊切舍刀",
         "EquipAffixID": 111419,
         "Extra": [],
@@ -14011,6 +14714,10 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114040,
+        "MatIDs": [
+            112073,
+            112067
+        ],
         "EquipAffixName": "镇灵的低语",
         "EquipAffixID": 111418,
         "Extra": [],
@@ -14039,6 +14746,10 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114040,
+        "MatIDs": [
+            112070,
+            112067
+        ],
         "EquipAffixName": "森林的瑞佑",
         "EquipAffixID": 111417,
         "Extra": [],
@@ -14067,6 +14778,10 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114036,
+        "MatIDs": [
+            112019,
+            112055
+        ],
         "EquipAffixName": "澄澄一心传",
         "EquipAffixID": 111416,
         "Extra": [],
@@ -14095,6 +14810,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112025,
+            112007
+        ],
         "EquipAffixName": "无垢之心",
         "EquipAffixID": 111415,
         "Extra": [],
@@ -14123,6 +14842,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114028,
+        "MatIDs": [
+            112049,
+            112046
+        ],
         "EquipAffixName": "岩藏之胤",
         "EquipAffixID": 111414,
         "Extra": [],
@@ -14151,6 +14874,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112016,
+            112034
+        ],
         "EquipAffixName": "无尽的渴慕",
         "EquipAffixID": 111413,
         "Extra": [],
@@ -14179,6 +14906,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112037
+        ],
         "EquipAffixName": "降世",
         "EquipAffixID": 111412,
         "Extra": [],
@@ -14207,6 +14938,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112010
+        ],
         "EquipAffixName": "街巷游侠",
         "EquipAffixID": 111410,
         "Extra": [],
@@ -14235,6 +14970,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112004
+        ],
         "EquipAffixName": "「正义」",
         "EquipAffixID": 111409,
         "Extra": [],
@@ -14263,6 +15002,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112013
+        ],
         "EquipAffixName": "乘胜追击",
         "EquipAffixID": 111408,
         "Extra": [],
@@ -14291,6 +15034,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112040
+        ],
         "EquipAffixName": "注能之刺",
         "EquipAffixID": 111407,
         "Extra": [],
@@ -14319,6 +15066,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112034
+        ],
         "EquipAffixName": "碎石",
         "EquipAffixID": 111406,
         "Extra": [],
@@ -14347,6 +15098,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112037
+        ],
         "EquipAffixName": "踏火息雷",
         "EquipAffixID": 111405,
         "Extra": [],
@@ -14375,6 +15130,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112007
+        ],
         "EquipAffixName": "专注",
         "EquipAffixID": 111404,
         "Extra": [],
@@ -14403,6 +15162,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112010
+        ],
         "EquipAffixName": "气定神闲",
         "EquipAffixID": 111403,
         "Extra": [],
@@ -14431,6 +15194,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112004
+        ],
         "EquipAffixName": "和弦",
         "EquipAffixID": 111402,
         "Extra": [],
@@ -14459,6 +15226,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112013
+        ],
         "EquipAffixName": "顺风而行",
         "EquipAffixID": 111401,
         "Extra": [],
@@ -14487,6 +15258,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112034
+        ],
         "EquipAffixName": "决心",
         "EquipAffixID": 111306,
         "Extra": [],
@@ -14515,6 +15290,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112037
+        ],
         "EquipAffixName": "决",
         "EquipAffixID": 111305,
         "Extra": [],
@@ -14543,6 +15322,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112007
+        ],
         "EquipAffixName": "过载",
         "EquipAffixID": 111304,
         "Extra": [],
@@ -14571,6 +15354,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112010
+        ],
         "EquipAffixName": "旅程",
         "EquipAffixID": 111303,
         "Extra": [],
@@ -14599,6 +15386,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112004
+        ],
         "EquipAffixName": "激励",
         "EquipAffixID": 111302,
         "Extra": [],
@@ -14627,6 +15418,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112013
+        ],
         "EquipAffixName": "止水融冰",
         "EquipAffixID": 111301,
         "Extra": [],
@@ -17409,6 +18204,134 @@ var _MaterialConfig = {
         "Icon": "UI_ItemIcon_104346",
         "Text": "<b>「秩序」的哲学</b><br>枫丹 / 三 六 日"
     },
+    "112004": {
+        "Icon": "UI_ItemIcon_112004",
+        "Text": "<b>史莱姆原浆</b>"
+    },
+    "112007": {
+        "Icon": "UI_ItemIcon_112007",
+        "Text": "<b>不祥的面具</b>"
+    },
+    "112010": {
+        "Icon": "UI_ItemIcon_112010",
+        "Text": "<b>禁咒绘卷</b>"
+    },
+    "112013": {
+        "Icon": "UI_ItemIcon_112013",
+        "Text": "<b>历战的箭簇</b>"
+    },
+    "112016": {
+        "Icon": "UI_ItemIcon_112016",
+        "Text": "<b>黑晶号角</b>"
+    },
+    "112019": {
+        "Icon": "UI_ItemIcon_112019",
+        "Text": "<b>幽邃刻像</b>"
+    },
+    "112022": {
+        "Icon": "UI_ItemIcon_112022",
+        "Text": "<b>地脉的新芽</b>"
+    },
+    "112025": {
+        "Icon": "UI_ItemIcon_112025",
+        "Text": "<b>混沌炉心</b>"
+    },
+    "112028": {
+        "Icon": "UI_ItemIcon_112028",
+        "Text": "<b>雾虚灯芯</b>"
+    },
+    "112031": {
+        "Icon": "UI_ItemIcon_112031",
+        "Text": "<b>督察长祭刀</b>"
+    },
+    "112034": {
+        "Icon": "UI_ItemIcon_112034",
+        "Text": "<b>尉官的徽记</b>"
+    },
+    "112037": {
+        "Icon": "UI_ItemIcon_112037",
+        "Text": "<b>攫金鸦印</b>"
+    },
+    "112040": {
+        "Icon": "UI_ItemIcon_112040",
+        "Text": "<b>原素花蜜</b>"
+    },
+    "112043": {
+        "Icon": "UI_ItemIcon_112043",
+        "Text": "<b>石化的骨片</b>"
+    },
+    "112046": {
+        "Icon": "UI_ItemIcon_112046",
+        "Text": "<b>名刀镡</b>"
+    },
+    "112049": {
+        "Icon": "UI_ItemIcon_112049",
+        "Text": "<b>混沌真眼</b>"
+    },
+    "112052": {
+        "Icon": "UI_ItemIcon_112052",
+        "Text": "<b>偏光棱镜</b>"
+    },
+    "112055": {
+        "Icon": "UI_ItemIcon_112055",
+        "Text": "<b>浮游晶化核</b>"
+    },
+    "112058": {
+        "Icon": "UI_ItemIcon_112058",
+        "Text": "<b>隐兽鬼爪</b>"
+    },
+    "112061": {
+        "Icon": "UI_ItemIcon_112061",
+        "Text": "<b>孢囊晶尘</b>"
+    },
+    "112064": {
+        "Icon": "UI_ItemIcon_112064",
+        "Text": "<b>茁壮菌核</b>"
+    },
+    "112067": {
+        "Icon": "UI_ItemIcon_112067",
+        "Text": "<b>织金红绸</b>"
+    },
+    "112070": {
+        "Icon": "UI_ItemIcon_112070",
+        "Text": "<b>混沌锚栓</b>"
+    },
+    "112073": {
+        "Icon": "UI_ItemIcon_112073",
+        "Text": "<b>辉光棱晶</b>"
+    },
+    "112076": {
+        "Icon": "UI_ItemIcon_112076",
+        "Text": "<b>锲纹的横脊</b>"
+    },
+    "112079": {
+        "Icon": "UI_ItemIcon_112079",
+        "Text": "<b>漫游者的盛放之花</b>"
+    },
+    "112082": {
+        "Icon": "UI_ItemIcon_112082",
+        "Text": "<b>异色结晶石</b>"
+    },
+    "112085": {
+        "Icon": "UI_ItemIcon_112085",
+        "Text": "<b>奇械机芯齿轮</b>"
+    },
+    "112088": {
+        "Icon": "UI_ItemIcon_112088",
+        "Text": "<b>初生的浊水幻灵</b>"
+    },
+    "112091": {
+        "Icon": "UI_ItemIcon_112091",
+        "Text": "<b>异界生命核</b>"
+    },
+    "112094": {
+        "Icon": "UI_ItemIcon_112094",
+        "Text": "<b>役人的时时刻刻</b>"
+    },
+    "112097": {
+        "Icon": "UI_ItemIcon_112097",
+        "Text": "<b>渊光鳍翅</b>"
+    },
     "113001": {
         "Icon": "UI_ItemIcon_113001",
         "Text": "<b>飓风之种</b>"
@@ -17636,6 +18559,66 @@ var _MaterialConfig = {
     "113058": {
         "Icon": "UI_ItemIcon_113058",
         "Text": "<b>凝云鳞甲</b>"
+    },
+    "114004": {
+        "Icon": "UI_ItemIcon_114004",
+        "Text": "<b>高塔孤王的碎梦</b>"
+    },
+    "114008": {
+        "Icon": "UI_ItemIcon_114008",
+        "Text": "<b>凛风奔狼的怀乡</b>"
+    },
+    "114012": {
+        "Icon": "UI_ItemIcon_114012",
+        "Text": "<b>狮牙斗士的理想</b>"
+    },
+    "114016": {
+        "Icon": "UI_ItemIcon_114016",
+        "Text": "<b>孤云寒林的神体</b>"
+    },
+    "114020": {
+        "Icon": "UI_ItemIcon_114020",
+        "Text": "<b>雾海云间的转还</b>"
+    },
+    "114024": {
+        "Icon": "UI_ItemIcon_114024",
+        "Text": "<b>漆黑陨铁的一块</b>"
+    },
+    "114028": {
+        "Icon": "UI_ItemIcon_114028",
+        "Text": "<b>远海夷地的金枝</b>"
+    },
+    "114032": {
+        "Icon": "UI_ItemIcon_114032",
+        "Text": "<b>鸣神御灵的勇武</b>"
+    },
+    "114036": {
+        "Icon": "UI_ItemIcon_114036",
+        "Text": "<b>今昔剧画之鬼人</b>"
+    },
+    "114040": {
+        "Icon": "UI_ItemIcon_114040",
+        "Text": "<b>谧林涓露的金符</b>"
+    },
+    "114044": {
+        "Icon": "UI_ItemIcon_114044",
+        "Text": "<b>绿洲花园的真谛</b>"
+    },
+    "114048": {
+        "Icon": "UI_ItemIcon_114048",
+        "Text": "<b>烈日威权的旧日</b>"
+    },
+    "114052": {
+        "Icon": "UI_ItemIcon_114052",
+        "Text": "<b>悠古弦音的回响</b>"
+    },
+    "114056": {
+        "Icon": "UI_ItemIcon_114056",
+        "Text": "<b>纯圣露滴的真粹</b>"
+    },
+    "114060": {
+        "Icon": "UI_ItemIcon_114060",
+        "Text": "<b>无垢之海的金杯</b>"
     }
 }
 

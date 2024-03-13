@@ -774,17 +774,35 @@ var computer_ = {
         "Avatar_Stat_HP": {
             "CH": "基础生命值：",
             "EN": "Base HP: ",
-            "RU": "Базовое HP: "
+            "RU": "Базовое HP: ",
+            "JP": "基礎 HP: ",
+            "KR": "기초 HP: ",
+            "FR": "PV de base: ",
+            "DE": "Basis-LP: ",
+            "SP": "Vida Base: ",
+            "PT": "Vida Básica: "
         },
         "Avatar_Stat_ATK": {
             "CH": "基础攻击力：",
             "EN": "Base ATK: ",
-            "RU": "Базовая атака: "
+            "RU": "Базовая атака: ",
+            "JP": "基礎攻撃力: ",
+            "KR": "기초 공격력: ",
+            "FR": "ATQ de base: ",
+            "DE": "Basis-ANG: ",
+            "SP": "ATQ Básico: ",
+            "PT": "ATQ Básico: "
         },
         "Avatar_Stat_DEF": {
             "CH": "基础防御力：",
             "EN": "Base DEF: ",
-            "RU": "Базовая защита: "
+            "RU": "Базовая защита: ",
+            "JP": "基礎防御力: ",
+            "KR": "기초 방어력: ",
+            "FR": "DÉF de base: ",
+            "DE": "Basis-VTD: ",
+            "SP": "DEF Base: ",
+            "PT": "DEF Básica: "
         },
         "Avatar_IsPromote": [
             {
@@ -5974,112 +5992,224 @@ var computer_ = {
         "HP": {
             "Text": {
                 "CH": "生命值上限",
-                "EN": "Max HP"
+                "EN": "HP",
+                "RU": "HP",
+                "JP": "HP",
+                "KR": "HP",
+                "FR": "PV",
+                "DE": "LP",
+                "SP": "Vida",
+                "PT": "Vida"
             },
             "ShowType": "p"
         },
         "ATK": {
             "Text": {
                 "CH": "攻击力",
-                "EN": "ATK"
+                "EN": "ATK",
+                "RU": "Сила атаки",
+                "JP": "攻撃力",
+                "KR": "공격력",
+                "FR": "ATQ",
+                "DE": "ANG",
+                "SP": "ATQ",
+                "PT": "ATQ"
             },
             "ShowType": "p"
         },
         "DEF": {
             "Text": {
                 "CH": "防御力",
-                "EN": "DEF"
+                "EN": "DEF",
+                "RU": "Защита",
+                "JP": "防御力",
+                "KR": "방어력",
+                "FR": "DÉF",
+                "DE": "VTD",
+                "SP": "DEF",
+                "PT": "DEF"
             },
             "ShowType": "p"
         },
         "ER": {
             "Text": {
                 "CH": "元素充能效率",
-                "EN": "Energy Recharge"
+                "EN": "Energy Recharge",
+                "RU": "Восст. энергии",
+                "JP": "元素チャージ効率",
+                "KR": "원소 충전 효율",
+                "FR": "Recharge d'énergie",
+                "DE": "Aufladerate",
+                "SP": "Recarga de Energía",
+                "PT": "Recarga de Energia"
             },
             "ShowType": "p"
         },
         "EM": {
             "Text": {
                 "CH": "元素精通",
-                "EN": "Elemental Mastery"
+                "EN": "Elemental Mastery",
+                "RU": "Мастерство стихий",
+                "JP": "元素熟知",
+                "KR": "원소 마스터리",
+                "FR": "Maîtrise élémentaire",
+                "DE": "Elementarkunde",
+                "SP": "Maestría Elemental",
+                "PT": "Proficiência Elemental"
             },
             "ShowType": "f"
         },
         "CR": {
             "Text": {
                 "CH": "暴击率",
-                "EN": "CRIT Rate"
+                "EN": "CRIT Rate",
+                "RU": "Шанс крит. попадания",
+                "JP": "会心率",
+                "KR": "치명타 확률",
+                "FR": "Taux CRIT",
+                "DE": "KT",
+                "SP": "Prob. CRIT",
+                "PT": "Taxa Crítica"
             },
             "ShowType": "p"
         },
         "CD": {
             "Text": {
                 "CH": "暴击伤害",
-                "EN": "CRIT DMG"
+                "EN": "CRIT DMG",
+                "RU": "Крит. урон",
+                "JP": "会心ダメージ",
+                "KR": "치명타 피해",
+                "FR": "DGT CRIT",
+                "DE": "KSCH",
+                "SP": "Daño CRIT",
+                "PT": "Dano Crítico"
             },
             "ShowType": "p"
         },
         "Heal": {
             "Text": {
                 "CH": "治疗加成",
-                "EN": "Heal Bonus"
+                "EN": "Heal Bonus",
+                "RU": "Бонус лечения",
+                "JP": "与える治療効果",
+                "KR": "치유 보너스",
+                "FR": "Bonus de soins",
+                "DE": "Heilungsbonus",
+                "SP": "Bono de Curación",
+                "PT": "Bônus de Cura"
             },
             "ShowType": "p"
         },
         "Phys": {
             "Text": {
                 "CH": "物理伤害加成",
-                "EN": "Physical DMG Bonus"
+                "EN": "Physical DMG Bonus",
+                "RU": "Бонус физ. урона",
+                "JP": "物理ダメージ",
+                "KR": "물리 피해 보너스",
+                "FR": "Bonus de DGT physiques",
+                "DE": "Physischer SCH-Bonus",
+                "SP": "Bono de Daño Físico",
+                "PT": "Bônus de Dano Físico"
             },
             "ShowType": "p"
         },
         "Fire": {
             "Text": {
                 "CH": "火元素伤害加成",
-                "EN": "Pyro DMG Bonus"
+                "EN": "Pyro DMG Bonus",
+                "RU": "Бонус Пиро урона",
+                "JP": "炎元素ダメージ",
+                "KR": "불 원소 피해 보너스",
+                "FR": "Bonus de DGT Pyro",
+                "DE": "Pyro-SCH-Bonus",
+                "SP": "Bono de Daño Pyro",
+                "PT": "Bônus de Dano Pyro"
             },
             "ShowType": "p"
         },
         "Water": {
             "Text": {
                 "CH": "水元素伤害加成",
-                "EN": "Hydro DMG Bonus"
+                "EN": "Hydro DMG Bonus",
+                "RU": "Бонус Гидро урона",
+                "JP": "水元素ダメージ",
+                "KR": "물 원소 피해 보너스",
+                "FR": "Bonus de DGT Hydro",
+                "DE": "Hydro-SCH-Bonus",
+                "SP": "Bono de Daño Hydro",
+                "PT": "Bônus de Dano Hydro"
             },
             "ShowType": "p"
         },
         "Elec": {
             "Text": {
                 "CH": "雷元素伤害加成",
-                "EN": "Electro DMG Bonus"
+                "EN": "Electro DMG Bonus",
+                "RU": "Бонус Электро урона",
+                "JP": "雷元素ダメージ",
+                "KR": "번개 원소 피해 보너스",
+                "FR": "Bonus de DGT Électro",
+                "DE": "Elektro-SCH-Bonus",
+                "SP": "Bono de Daño Electro",
+                "PT": "Bônus de Dano Electro"
             },
             "ShowType": "p"
         },
         "Ice": {
             "Text": {
                 "CH": "冰元素伤害加成",
-                "EN": "Cryo DMG Bonus"
+                "EN": "Cryo DMG Bonus",
+                "RU": "Бонус Крио урона",
+                "JP": "氷元素ダメージ",
+                "KR": "얼음 원소 피해 보너스",
+                "FR": "Bonus de DGT Cryo",
+                "DE": "Kryo-SCH-Bonus",
+                "SP": "Bono de Daño Cryo",
+                "PT": "Bônus de Dano Cryo"
             },
             "ShowType": "p"
         },
         "Grass": {
             "Text": {
                 "CH": "草元素伤害加成",
-                "EN": "Dendro DMG Bonus"
+                "EN": "Dendro DMG Bonus",
+                "RU": "Бонус Дендро урона",
+                "JP": "草元素ダメージ",
+                "KR": "풀 원소 피해 보너스",
+                "FR": "Bonus de DGT Dendro",
+                "DE": "Dendro-SCH-Bonus",
+                "SP": "Bono de Daño Dendro",
+                "PT": "Bônus de Dano Dendro"
             },
             "ShowType": "p"
         },
         "Wind": {
             "Text": {
                 "CH": "风元素伤害加成",
-                "EN": "Anemo DMG Bonus"
+                "EN": "Anemo DMG Bonus",
+                "RU": "Бонус Анемо урона",
+                "JP": "風元素ダメージ",
+                "KR": "바람 원소 피해 보너스",
+                "FR": "Bonus de DGT Anémo",
+                "DE": "Anemo-SCH-Bonus",
+                "SP": "Bono de Daño Anemo",
+                "PT": "Bônus de Dano Anemo"
             },
             "ShowType": "p"
         },
         "Rock": {
             "Text": {
                 "CH": "岩元素伤害加成",
-                "EN": "Geo DMG Bonus"
+                "EN": "Geo DMG Bonus",
+                "RU": "Бонус Гео урона",
+                "JP": "岩元素ダメージ",
+                "KR": "바위 원소 피해 보너스",
+                "FR": "Bonus de DGT Géo",
+                "DE": "Geo-SCH-Bonus",
+                "SP": "Bono de Daño Geo",
+                "PT": "Bônus de Dano Geo"
             },
             "ShowType": "p"
         }

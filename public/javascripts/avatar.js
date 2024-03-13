@@ -845,7 +845,10 @@ $(function () {
                                                         },
                                                         {
                                                             span: function (k) {
-                                                                return k.data.ShowStats.DEF
+                                                                var custominfo_ = computer_.AvatarCustomPromoteConfig[this_avatar.CustomPromote]
+                                                                var customcalc_ = _AvatarPromoteConfig[this_avatar._name].Promote[6].Custom
+                                                                var customshow_ = avatar_color + "+" + ((custominfo_.ShowType == "p") ? ((customcalc_ * 100).toFixed(1) + "%") : customcalc_.toFixed(1)) + "</b></color>"
+                                                                return k.data.ShowStats.DEF + '&nbsp;&nbsp;&nbsp;' + custominfo_.Text[lang3] + ' ' + customshow_
                                                             }
                                                         }
                                                     ],
@@ -866,21 +869,12 @@ $(function () {
                         {
                             div: [
                                 {
-                                    div: {
-                                        p: computer_.MiscText.Avatar_Mat[lang2]
-                                    },
-                                    class: 'a_section_head',
-                                    style: {
-                                        color: color0
-                                    }
-                                },
-                                {
                                     div: [
                                         {
                                             div: [
                                                 {
                                                     a: function (k) {
-                                                        return '/gi/monster?id=' + k.data.CommonMat + '&level=93'
+                                                        return '/gi/monster/' + k.data.CommonMat + '?level=93'
                                                     },
                                                     t: [
                                                         {
@@ -889,13 +883,37 @@ $(function () {
                                                                 if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
                                                                 return imgpre + "homdgcat-res/monster/" + mat + ".png"
                                                             },
+                                                            style: {
+                                                                'margin-right': '10px'
+                                                            }
                                                         },
                                                     ],
                                                     attr: { target: '_blank' },
                                                     class: 'mat_a'
                                                 },
                                                 {
-                                                    p: computer_.MiscText.Avatar_Mons[lang2]
+                                                    a: function (k) {
+                                                        return '/gi/item/' + k.data.CommonMatt + '?lang=' + lang3
+                                                    },
+                                                    t: {
+                                                        img: function (k) {
+                                                            var mat = _MaterialConfig[k.data.CommonMatt]
+                                                            if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
+                                                            if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
+                                                            return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
+                                                        },
+                                                        class: 'img_2'
+                                                    },
+                                                    attr: { target: '_blank' },
+                                                    class: 'mat_a'
+                                                },
+                                                {
+                                                    p: function (k) {
+                                                        var mat = _MaterialConfig[k.data.CommonMatt]
+                                                        if (!mat) return ""
+                                                        if (!mat.Text) return ""
+                                                        return mat.Text + '<br>x36 / x96 / x129'
+                                                    }
                                                 }
                                             ],
                                             class: 'avatar_mat'
@@ -922,7 +940,7 @@ $(function () {
                                                         var mat = _MaterialConfig[k.data.SpecialityMat]
                                                         if (!mat) return ""
                                                         if (!mat.Text) return ""
-                                                        return mat.Text
+                                                        return mat.Text + '<br>x168'
                                                     }
                                                 }
                                             ],
@@ -955,7 +973,7 @@ $(function () {
                                                         var mat = _MaterialConfig[k.data.TalentMatt]
                                                         if (!mat) return ""
                                                         if (!mat.Text) return ""
-                                                        return mat.Text
+                                                        return mat.Text.split("<br>")[0] + '<br>x9 / x63 / x114'
                                                     }
                                                 }
                                             ],
@@ -970,7 +988,7 @@ $(function () {
                                             div: [
                                                 {
                                                     a: function (k) {
-                                                        return '/gi/monster?id=' + k.data.BossMat + '&level=93'
+                                                        return '/gi/monster/' + k.data.BossMat + '?level=93'
                                                     },
                                                     t: [
                                                         {
@@ -1012,7 +1030,7 @@ $(function () {
                                                         var mat = _MaterialConfig[k.data.AscMat]
                                                         if (!mat) return ""
                                                         if (!mat.Text) return ""
-                                                        return mat.Text
+                                                        return mat.Text + '<br>x46'
                                                     }
                                                 }
                                             ],
@@ -1027,8 +1045,8 @@ $(function () {
                                             div: [
                                                 {
                                                     a: function (k) {
-                                                        if (k.data.WeeklyMat == 90201) return '/gi/monster?id=' + k.data.WeeklyMat + '&level=94'
-                                                        return '/gi/monster?id=' + k.data.WeeklyMat + '&level=90'
+                                                        if (k.data.WeeklyMat == 90201) return '/gi/monster/' + k.data.WeeklyMat + '?level=94'
+                                                        return '/gi/monster/' + k.data.WeeklyMat + '?level=90'
                                                     },
                                                     t: [
                                                         {
@@ -1071,7 +1089,7 @@ $(function () {
                                                         var mat = _MaterialConfig[k.data.WeekMat]
                                                         if (!mat) return ""
                                                         if (!mat.Text) return ""
-                                                        return mat.Text
+                                                        return mat.Text + '<br>x18'
                                                     }
                                                 }
                                             ],
@@ -1088,10 +1106,11 @@ $(function () {
                                         display: 'flex',
                                         'justify-content': 'space-evenly',
                                         'flex-wrap': 'wrap',
+                                        'margin-top': '30px'
                                     }
                                 },
                             ],
-                            class: 'a_section'
+                            class: 'a_section',
                         },
                         {
                             div: [
@@ -2966,6 +2985,22 @@ $(function () {
     }
 
     function skillTemplate(wpn, skill) {
+        show_num_0 = ''
+        show_num_1 = ''
+        show_num_2 = ''
+        if (wpn.Rank == 3) {
+            show_num_0 = 'x2 / x6 / x6 / x3'
+            show_num_1 = 'x10 / x12 / x18'
+            show_num_2 = 'x6 / x10 / x12'
+        } else if (wpn.Rank == 4) {
+            show_num_0 = 'x3 / x9 / x9 / x4'
+            show_num_1 = 'x15 / x18 / x27            '
+            show_num_2 = 'x10 / x15 / x18'
+        } else {
+            show_num_0 = 'x5 / x14 / x14 / x6'
+            show_num_1 = 'x23 / x27 / x41'
+            show_num_2 = 'x15 / x23 / x27'
+        }
         var upper = [
             {
                 div: [
@@ -2973,28 +3008,44 @@ $(function () {
                         div: {
                             p: wpn.Name
                         },
-                        class: 'a_section_head'
+                        class: 'a_section_head',
+                        style: {
+                            'text-align': 'center'
+                        }
                     },
                     {
                         div: [
                             {
-                                img: imgpre + 'homdgcat-res/Weapon/' + wpn.Icons[0] + '.png',
+                                div: [
+                                    {
+                                        img: imgpre + 'homdgcat-res/Weapon/' + wpn.Icons[0] + '.png',
+                                        style: {
+                                            width: '50%',
+                                            margin: 'auto',
+                                            'max-width': '160px'
+                                        }
+                                    },
+                                    {
+                                        img: imgpre + 'homdgcat-res/Weapon/' + wpn.Icons[1] + '.png',
+                                        style: {
+                                            width: '50%',
+                                            margin: 'auto',
+                                            'max-width': '160px'
+                                        }
+                                    },
+                                ],
                                 style: {
-                                    width: '50%',
-                                    margin: 'auto',
-                                    'max-width': '160px'
+                                    'margin': 0,
+                                    display: 'flex',
+                                    'flex-wrap': 'wrap',
+                                    'justify-content': 'center',
                                 }
                             },
                             {
-                                img: imgpre + 'homdgcat-res/Weapon/' + wpn.Icons[1] + '.png',
+                                p: wpn.Desc,
                                 style: {
-                                    width: '50%',
-                                    margin: 'auto',
-                                    'max-width': '160px'
+                                    'text-align': 'center'
                                 }
-                            },
-                            {
-                                p: wpn.Desc
                             },
                         ],
                         class: 'a_section_content'
@@ -3010,120 +3061,195 @@ $(function () {
             {
                 div: [
                     {
-                        div: {
-                            p: computer_.MiscText.Avatar_Weapon_Stats[lang2]
-                        },
-                        class: 'a_section_head'
-                    },
-                    {
                         div: [
                             {
-                                hr: '',
-                                style: {
-                                    'height': '1px',
-                                    'margin-bottom': '20px',
-                                    'margin-top': '10px'
-                                }
-                            },
-                            {
                                 p: function (k) {
-                                    var st = wpn.Stat.toFixed(5)
-                                    return computer_.MiscText.Avatar_Weapon_Stat_ATK[lang2] + "<b>" + st + "</b>"
-                                }
-                            },
-                            {
-                                p: function (k) {
+                                    var st = wpn.Stat.toFixed(0)
+                                    var ret0 = "<b>" + st + "</b>"
                                     promote_value = wpn.CustomStat
+                                    var ret1 = ""
                                     if (!wpn.Custom) {
-                                        return computer_.MiscText.Avatar_Weapon_Stat_Custom[lang2] + "-"
-                                    }
-                                    promote_config = computer_.AvatarCustomPromoteConfig[wpn.Custom]
-                                    if (promote_config.ShowType === "p") {
-                                        promote_value = (promote_value * 100).toFixed(1).toString() + "%"
+                                        ret1 = "-"
                                     } else {
-                                        promote_value = promote_value.toFixed(1).toString()
+                                        promote_config = computer_.AvatarCustomPromoteConfig[wpn.Custom]
+                                        if (promote_config.ShowType === "p") {
+                                            promote_value = (promote_value * 100).toFixed(1).toString() + "%"
+                                        } else {
+                                            promote_value = promote_value.toFixed(1).toString()
+                                        }
+                                        ret1 = "<b>+" + promote_value + " " + promote_config.Text[lang3] + "</b>"
                                     }
-                                    return computer_.MiscText.Avatar_Weapon_Stat_Custom[lang2] + "<b>+" + promote_value + " " + promote_config.Text[lang] + "</b>"
+                                    return ret0 + " / " + ret1
+                                },
+                                style: {
+                                    'font-size': '1.2em',
+                                    'text-align': 'center'
                                 }
                             },
                             {
                                 hr: '',
                                 style: {
                                     'height': '1px',
-                                    'margin-top': '20px'
+                                    'margin-top': '15px'
                                 }
                             },
                             {
                                 p: computer_.AvatarNationConfig[weapon_asc[wpn.AscMatID][0]].Text[lang] + " / " + computer_.WeaponTalentConfig[weapon_asc[wpn.AscMatID][1]][lang],
                                 style: {
-                                    'padding-bottom': '10px',
-                                    'padding-top': '20px'
+                                    'padding-top': '15px',
+                                    'text-align': 'center'
                                 }
                             },
                             {
-                                a: function (k) {
-                                    return '/gi/item/' + wpn.AscMatID + '?lang=' + lang3
-                                },
-                                t: {
-                                    img: imgpre + 'homdgcat-res/Mat/UI_ItemIcon_' + wpn.AscMatID + '.png',
-                                    style: {
-                                        width: '60px'
-                                    }
-                                },
-                                attr: { target: '_blank' },
-                                class: 'mat_a',
-                                style: {
-                                    padding: '0px 10px'
-                                }
-                            },
-                            {
-                                a: function (k) {
-                                    if (!wpn.MonIDs) return ''
-                                    if (wpn.MonIDs.length <= 0) return ''
-                                    return '/gi/monster?id=' + wpn.MonIDs[0] + '&level=93'
-                                },
-                                t: [
+                                div: [
                                     {
-                                        img: function (k) {
-                                            if (!wpn.MonIcons) return imgpre + "homdgcat-res/monster/keq.png"
-                                            if (wpn.MonIcons.length <= 0) return imgpre + "homdgcat-res/monster/keq.png"
-                                            return imgpre + "homdgcat-res/monster/" + wpn.MonIcons[0] + ".png"
-                                        },
-                                        style: {
-                                            width: '60px'
-                                        }
+                                        div: [
+                                            {
+                                                a: function (k) {
+                                                    return '/gi/item/' + wpn.AscMatID + '?lang=' + lang3
+                                                },
+                                                t: {
+                                                    img: imgpre + 'homdgcat-res/Mat/UI_ItemIcon_' + wpn.AscMatID + '.png',
+                                                    style: {
+                                                        width: '60px'
+                                                    }
+                                                },
+                                                attr: { target: '_blank' },
+                                                class: 'mat_a',
+                                                style: {
+                                                    padding: '0px 10px'
+                                                }
+                                            },
+                                            {
+                                                p: function (k) {
+                                                    var mat = _MaterialConfig[wpn.AscMatID]
+                                                    if (!mat) return ""
+                                                    if (!mat.Text) return ""
+                                                    return mat.Text + '<br>' + show_num_0
+                                                }
+                                            }
+                                        ],
+                                        class: 'avatar_mat'
+                                    },
+                                    {
+                                        div: [
+                                            {
+                                                a: function (k) {
+                                                    if (!wpn.MonIDs) return ''
+                                                    if (wpn.MonIDs.length <= 0) return ''
+                                                    return '/gi/monster/' + wpn.MonIDs[0] + '?level=93'
+                                                },
+                                                t: [
+                                                    {
+                                                        img: function (k) {
+                                                            if (!wpn.MonIcons) return imgpre + "homdgcat-res/monster/keq.png"
+                                                            if (wpn.MonIcons.length <= 0) return imgpre + "homdgcat-res/monster/keq.png"
+                                                            return imgpre + "homdgcat-res/monster/" + wpn.MonIcons[0] + ".png"
+                                                        },
+                                                        style: {
+                                                            width: '60px'
+                                                        }
+                                                    },
+                                                ],
+                                                attr: { target: '_blank' },
+                                                class: 'mat_a',
+                                                style: {
+                                                    padding: '0px 10px'
+                                                }
+                                            },
+                                            {
+                                                a: function (k) {
+                                                    return '/gi/item/' + wpn.MatIDs[0] + '?lang=' + lang3
+                                                },
+                                                t: {
+                                                    img: function (k) {
+                                                        var mat = _MaterialConfig[wpn.MatIDs[0]]
+                                                        if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
+                                                        if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
+                                                        return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
+                                                    },
+                                                    class: 'img_2',
+                                                    style: {
+                                                        width: '60px'
+                                                    }
+                                                },
+                                                attr: { target: '_blank' },
+                                                class: 'mat_a'
+                                            },
+                                            {
+                                                p: function (k) {
+                                                    var mat = _MaterialConfig[wpn.MatIDs[0]]
+                                                    if (!mat) return ""
+                                                    if (!mat.Text) return ""
+                                                    return mat.Text + '<br>' + show_num_1
+                                                }
+                                            }
+                                        ],
+                                        class: 'avatar_mat'
+                                    },
+                                    {
+                                        div: [
+                                            {
+                                                a: function (k) {
+                                                    if (!wpn.MonIDs) return ''
+                                                    if (wpn.MonIDs.length <= 0) return ''
+                                                    return '/gi/monster/' + wpn.MonIDs[1] + '?level=93'
+                                                },
+                                                t: [
+                                                    {
+                                                        img: function (k) {
+                                                            if (!wpn.MonIcons) return imgpre + "homdgcat-res/monster/keq.png"
+                                                            if (wpn.MonIcons.length <= 0) return imgpre + "homdgcat-res/monster/keq.png"
+                                                            return imgpre + "homdgcat-res/monster/" + wpn.MonIcons[1] + ".png"
+                                                        },
+                                                        style: {
+                                                            width: '60px'
+                                                        }
+                                                    },
+                                                ],
+                                                attr: { target: '_blank' },
+                                                class: 'mat_a',
+                                                style: {
+                                                    padding: '0px 10px'
+                                                }
+                                            },
+                                            {
+                                                a: function (k) {
+                                                    return '/gi/item/' + wpn.MatIDs[1] + '?lang=' + lang3
+                                                },
+                                                t: {
+                                                    img: function (k) {
+                                                        var mat = _MaterialConfig[wpn.MatIDs[1]]
+                                                        if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
+                                                        if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
+                                                        return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
+                                                    },
+                                                    class: 'img_2',
+                                                    style: {
+                                                        width: '60px'
+                                                    }
+                                                },
+                                                attr: { target: '_blank' },
+                                                class: 'mat_a'
+                                            },
+                                            {
+                                                p: function (k) {
+                                                    var mat = _MaterialConfig[wpn.MatIDs[1]]
+                                                    if (!mat) return ""
+                                                    if (!mat.Text) return ""
+                                                    return mat.Text + '<br>' + show_num_2
+                                                }
+                                            }
+                                        ],
+                                        class: 'avatar_mat'
                                     },
                                 ],
-                                attr: { target: '_blank' },
-                                class: 'mat_a',
                                 style: {
-                                    padding: '0px 10px'
+                                    display: 'flex',
+                                    'flex-wrap': 'wrap',
+                                    'justify-content': 'space-evenly',
                                 }
-                            },
-                            {
-                                a: function (k) {
-                                    if (!wpn.MonIDs) return ''
-                                    if (wpn.MonIDs.length <= 1) return ''
-                                    return '/gi/monster?id=' + wpn.MonIDs[1] + '&level=93'
-                                },
-                                t: [
-                                    {
-                                        img: function (k) {
-                                            if (!wpn.MonIcons) return imgpre + "homdgcat-res/monster/keq.png"
-                                            if (wpn.MonIcons.length <= 1) return imgpre + "homdgcat-res/monster/keq.png"
-                                            return imgpre + "homdgcat-res/monster/" + wpn.MonIcons[1] + ".png"
-                                        },
-                                        style: {
-                                            width: '60px'
-                                        }
-                                    },
-                                ],
-                                attr: { target: '_blank' },
-                                class: 'mat_a',
-                                style: {
-                                    padding: '0px 10px'
-                                }
-                            },
+                            }
                         ],
                         class: 'a_section_content'
                     },
@@ -3278,10 +3404,10 @@ $(function () {
         defshow = avatar_color + defcalc.toFixed(2) + "</b></color>"
         customshow = avatar_color + "+" + ((custominfo.ShowType == "p") ? ((customcalc * 100).toFixed(1) + "%") : customcalc.toFixed(1)) + "</b></color>"
 
-        s = computer_.MiscText.Avatar_Stat_HP[lang2] + hpshow + "<br>"
-            + computer_.MiscText.Avatar_Stat_ATK[lang2] + atkshow + "<br>"
-            + computer_.MiscText.Avatar_Stat_DEF[lang2] + defshow + "<br>"
-            + custominfo.Text[lang] + ((lang == "CH") ? "：" : ": ") + customshow
+        s = computer_.MiscText.Avatar_Stat_HP[lang3] + hpshow + "<br>"
+            + computer_.MiscText.Avatar_Stat_ATK[lang3] + atkshow + "<br>"
+            + computer_.MiscText.Avatar_Stat_DEF[lang3] + defshow + "<br>"
+            + custominfo.Text[lang3] + ((lang == "CH") ? "：" : ": ") + customshow
 
         return s
 

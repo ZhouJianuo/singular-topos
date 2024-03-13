@@ -17,6 +17,7 @@ var __AvatarInfoConfig = [
         "Birthday": "11/20",
         "Icon": "UI_AvatarIcon_Keqing",
         "Poise": "Melee",
+        "CommonMatt": 112040,
         "CommonMat": 60101,
         "TalentMat": 1,
         "TalentMatt": 104312,
@@ -70,6 +71,7 @@ var __AvatarInfoConfig = [
         "Birthday": "8/17",
         "Icon": "UI_AvatarIcon_Chiori",
         "Poise": "Melee",
+        "CommonMatt": 112055,
         "CommonMat": 601,
         "TalentMat": 3,
         "TalentMatt": 104328,
@@ -122,6 +124,7 @@ var __AvatarInfoConfig = [
         "Birthday": "4/11",
         "Icon": "UI_AvatarIcon_Liuyun",
         "Poise": "Range",
+        "CommonMatt": 112010,
         "CommonMat": 10306,
         "TalentMat": 3,
         "TalentMatt": 104318,
@@ -174,6 +177,7 @@ var __AvatarInfoConfig = [
         "Birthday": "12/22",
         "Icon": "UI_AvatarIcon_Gaming",
         "Poise": "Melee",
+        "CommonMatt": 112004,
         "CommonMat": 111,
         "TalentMat": 1,
         "TalentMatt": 104312,
@@ -226,6 +230,7 @@ var __AvatarInfoConfig = [
         "Birthday": "8/16",
         "Icon": "UI_AvatarIcon_Navia",
         "Poise": "Melee",
+        "CommonMatt": 112082,
         "CommonMat": 61601,
         "TalentMat": 1,
         "TalentMatt": 104340,
@@ -278,6 +283,7 @@ var __AvatarInfoConfig = [
         "Birthday": "1/10",
         "Icon": "UI_AvatarIcon_Chevreuse",
         "Poise": "Melee",
+        "CommonMatt": 112085,
         "CommonMat": 40662,
         "TalentMat": 3,
         "TalentMatt": 104346,
@@ -320,7 +326,7 @@ var __AvatarInfoConfig = [
         "Name": "Furina",
         "Desc": "O foco absoluto em cima do palco durante um julgamento, até o momento das cortinas caírem e dos aplausos soarem.",
         "Title": "Dançarina Solitária Eterna",
-        "Constellation": null,
+        "Constellation": "Animula Choragi",
         "Nation": "Fontaine",
         "Belong": "Corte de Fontaine",
         "Grade": 5,
@@ -330,6 +336,7 @@ var __AvatarInfoConfig = [
         "Birthday": "10/13",
         "Icon": "UI_AvatarIcon_Furina",
         "Poise": "Melee",
+        "CommonMatt": 112040,
         "CommonMat": 60101,
         "TalentMat": 2,
         "TalentMatt": 104343,
@@ -382,6 +389,7 @@ var __AvatarInfoConfig = [
         "Birthday": "4/10",
         "Icon": "UI_AvatarIcon_Charlotte",
         "Poise": "Range",
+        "CommonMatt": 112085,
         "CommonMat": 40612,
         "TalentMat": 2,
         "TalentMatt": 104343,
@@ -424,7 +432,7 @@ var __AvatarInfoConfig = [
         "Name": "Neuvillette",
         "Desc": "O Juiz Supremo de Fontaine, conhecido como Iudex, é renomado por sua imparcialidade inabalável.",
         "Title": "Ordenador das Marés",
-        "Constellation": null,
+        "Constellation": "??? / Leviathan Judicator",
         "Nation": "Fontaine",
         "Belong": "Corte de Fontaine",
         "Grade": 5,
@@ -434,6 +442,7 @@ var __AvatarInfoConfig = [
         "Birthday": "12/18",
         "Icon": "UI_AvatarIcon_Neuvillette",
         "Poise": "Range",
+        "CommonMatt": 112082,
         "CommonMat": 61601,
         "TalentMat": 1,
         "TalentMatt": 104340,
@@ -486,6 +495,7 @@ var __AvatarInfoConfig = [
         "Birthday": "11/23",
         "Icon": "UI_AvatarIcon_Wriothesley",
         "Poise": "Melee",
+        "CommonMatt": 112085,
         "CommonMat": 40612,
         "TalentMat": 3,
         "TalentMatt": 104346,
@@ -538,6 +548,7 @@ var __AvatarInfoConfig = [
         "Birthday": "9/24",
         "Icon": "UI_AvatarIcon_Freminet",
         "Poise": "Melee",
+        "CommonMatt": 112082,
         "CommonMat": 61601,
         "TalentMat": 2,
         "TalentMatt": 104343,
@@ -590,6 +601,7 @@ var __AvatarInfoConfig = [
         "Birthday": "2/2",
         "Icon": "UI_AvatarIcon_Liney",
         "Poise": "Range",
+        "CommonMatt": 112034,
         "CommonMat": 30101,
         "TalentMat": 1,
         "TalentMatt": 104340,
@@ -642,6 +654,7 @@ var __AvatarInfoConfig = [
         "Birthday": "2/2",
         "Icon": "UI_AvatarIcon_Linette",
         "Poise": "Melee",
+        "CommonMatt": 112085,
         "CommonMat": 40612,
         "TalentMat": 3,
         "TalentMatt": 104346,
@@ -778,6 +791,7 @@ var __AvatarInfoConfig = [
         "Birthday": "1/22",
         "Icon": "UI_AvatarIcon_Momoka",
         "Poise": "Melee",
+        "CommonMatt": 112055,
         "CommonMat": 601,
         "TalentMat": 1,
         "TalentMatt": 104322,
@@ -830,6 +844,7 @@ var __AvatarInfoConfig = [
         "Birthday": "4/25",
         "Icon": "UI_AvatarIcon_Baizhuer",
         "Poise": "Range",
+        "CommonMatt": 112061,
         "CommonMat": 60902,
         "TalentMat": 3,
         "TalentMatt": 104318,
@@ -882,6 +897,7 @@ var __AvatarInfoConfig = [
         "Birthday": "7/9",
         "Icon": "UI_AvatarIcon_Kaveh",
         "Poise": "Melee",
+        "CommonMatt": 112061,
         "CommonMat": 60902,
         "TalentMat": 2,
         "TalentMatt": 104334,
@@ -934,6 +950,7 @@ var __AvatarInfoConfig = [
         "Birthday": "8/11",
         "Icon": "UI_AvatarIcon_Mika",
         "Poise": "Melee",
+        "CommonMatt": 112034,
         "CommonMat": 30101,
         "TalentMat": 3,
         "TalentMatt": 104309,
@@ -986,6 +1003,7 @@ var __AvatarInfoConfig = [
         "Birthday": "4/7",
         "Icon": "UI_AvatarIcon_Dehya",
         "Poise": "Melee",
+        "CommonMatt": 112067,
         "CommonMat": 53101,
         "TalentMat": 3,
         "TalentMatt": 104337,
@@ -1038,6 +1056,7 @@ var __AvatarInfoConfig = [
         "Birthday": "2/11",
         "Icon": "UI_AvatarIcon_Alhatham",
         "Poise": "Melee",
+        "CommonMatt": 112067,
         "CommonMat": 53101,
         "TalentMat": 2,
         "TalentMatt": 104334,
@@ -1090,6 +1109,7 @@ var __AvatarInfoConfig = [
         "Birthday": "3/6",
         "Icon": "UI_AvatarIcon_Yaoyao",
         "Poise": "Melee",
+        "CommonMatt": 112004,
         "CommonMat": 111,
         "TalentMat": 2,
         "TalentMatt": 104315,
@@ -1142,6 +1162,7 @@ var __AvatarInfoConfig = [
         "Birthday": "8/20",
         "Icon": "UI_AvatarIcon_Faruzan",
         "Poise": "Range",
+        "CommonMatt": 112067,
         "CommonMat": 53101,
         "TalentMat": 1,
         "TalentMatt": 104331,
@@ -1194,6 +1215,7 @@ var __AvatarInfoConfig = [
         "Birthday": "1/3",
         "Icon": "UI_AvatarIcon_Wanderer",
         "Poise": "Range",
+        "CommonMatt": 112046,
         "CommonMat": 50801,
         "TalentMat": 3,
         "TalentMatt": 104337,
@@ -1246,6 +1268,7 @@ var __AvatarInfoConfig = [
         "Birthday": "12/19",
         "Icon": "UI_AvatarIcon_Layla",
         "Poise": "Melee",
+        "CommonMatt": 112010,
         "CommonMat": 10306,
         "TalentMat": 2,
         "TalentMatt": 104334,
@@ -1288,7 +1311,7 @@ var __AvatarInfoConfig = [
         "Name": "Nahida",
         "Desc": "Um pássaro enjaulado no Santuário de Surasthana, que só pode contemplar o mundo através de seus sonhos.",
         "Title": "Pureza Restauradora",
-        "Constellation": null,
+        "Constellation": "Sapientia Oromasdis",
         "Nation": "Sumeru",
         "Belong": "Cidade de Sumeru",
         "Grade": 5,
@@ -1298,6 +1321,7 @@ var __AvatarInfoConfig = [
         "Birthday": "10/27",
         "Icon": "UI_AvatarIcon_Nahida",
         "Poise": "Range",
+        "CommonMatt": 112061,
         "CommonMat": 60902,
         "TalentMat": 2,
         "TalentMatt": 104334,
@@ -1350,6 +1374,7 @@ var __AvatarInfoConfig = [
         "Birthday": "5/3",
         "Icon": "UI_AvatarIcon_Candace",
         "Poise": "Melee",
+        "CommonMatt": 112067,
         "CommonMat": 53101,
         "TalentMat": 1,
         "TalentMatt": 104331,
@@ -1402,6 +1427,7 @@ var __AvatarInfoConfig = [
         "Birthday": "6/23",
         "Icon": "UI_AvatarIcon_Cyno",
         "Poise": "Melee",
+        "CommonMatt": 112010,
         "CommonMat": 10306,
         "TalentMat": 1,
         "TalentMatt": 104331,
@@ -1454,6 +1480,7 @@ var __AvatarInfoConfig = [
         "Birthday": "12/3",
         "Icon": "UI_AvatarIcon_Nilou",
         "Poise": "Melee",
+        "CommonMatt": 112061,
         "CommonMat": 60902,
         "TalentMat": 3,
         "TalentMatt": 104337,
@@ -1506,6 +1533,7 @@ var __AvatarInfoConfig = [
         "Birthday": "12/29",
         "Icon": "UI_AvatarIcon_Tighnari",
         "Poise": "Range",
+        "CommonMatt": 112061,
         "CommonMat": 60902,
         "TalentMat": 1,
         "TalentMatt": 104331,
@@ -1558,6 +1586,7 @@ var __AvatarInfoConfig = [
         "Birthday": "12/21",
         "Icon": "UI_AvatarIcon_Dori",
         "Poise": "Melee",
+        "CommonMatt": 112067,
         "CommonMat": 53101,
         "TalentMat": 2,
         "TalentMatt": 104334,
@@ -1610,6 +1639,7 @@ var __AvatarInfoConfig = [
         "Birthday": "5/8",
         "Icon": "UI_AvatarIcon_Collei",
         "Poise": "Range",
+        "CommonMatt": 112013,
         "CommonMat": 10110,
         "TalentMat": 3,
         "TalentMatt": 104337,
@@ -1746,6 +1776,7 @@ var __AvatarInfoConfig = [
         "Birthday": "7/24",
         "Icon": "UI_AvatarIcon_Heizo",
         "Poise": "Melee",
+        "CommonMatt": 112037,
         "CommonMat": 50701,
         "TalentMat": 1,
         "TalentMatt": 104322,
@@ -1798,6 +1829,7 @@ var __AvatarInfoConfig = [
         "Birthday": "7/27",
         "Icon": "UI_AvatarIcon_Shinobu",
         "Poise": "Melee",
+        "CommonMatt": 112055,
         "CommonMat": 601,
         "TalentMat": 2,
         "TalentMatt": 104325,
@@ -1850,6 +1882,7 @@ var __AvatarInfoConfig = [
         "Birthday": "4/20",
         "Icon": "UI_AvatarIcon_Yelan",
         "Poise": "Range",
+        "CommonMatt": 112034,
         "CommonMat": 30101,
         "TalentMat": 1,
         "TalentMatt": 104312,
@@ -1902,6 +1935,7 @@ var __AvatarInfoConfig = [
         "Birthday": "3/26",
         "Icon": "UI_AvatarIcon_Ayato",
         "Poise": "Melee",
+        "CommonMatt": 112046,
         "CommonMat": 50801,
         "TalentMat": 2,
         "TalentMatt": 104325,
@@ -1954,6 +1988,7 @@ var __AvatarInfoConfig = [
         "Birthday": "6/27",
         "Icon": "UI_AvatarIcon_Yae",
         "Poise": "Range",
+        "CommonMatt": 112046,
         "CommonMat": 50801,
         "TalentMat": 3,
         "TalentMatt": 104328,
@@ -2006,6 +2041,7 @@ var __AvatarInfoConfig = [
         "Birthday": "5/21",
         "Icon": "UI_AvatarIcon_Yunjin",
         "Poise": "Melee",
+        "CommonMatt": 112007,
         "CommonMat": 10101,
         "TalentMat": 2,
         "TalentMatt": 104315,
@@ -2058,6 +2094,7 @@ var __AvatarInfoConfig = [
         "Birthday": "3/10",
         "Icon": "UI_AvatarIcon_Shenhe",
         "Poise": "Melee",
+        "CommonMatt": 112040,
         "CommonMat": 60101,
         "TalentMat": 1,
         "TalentMatt": 104312,
@@ -2110,6 +2147,7 @@ var __AvatarInfoConfig = [
         "Birthday": "6/1",
         "Icon": "UI_AvatarIcon_Itto",
         "Poise": "Melee",
+        "CommonMatt": 112004,
         "CommonMat": 111,
         "TalentMat": 2,
         "TalentMatt": 104325,
@@ -2162,6 +2200,7 @@ var __AvatarInfoConfig = [
         "Birthday": "5/18",
         "Icon": "UI_AvatarIcon_Gorou",
         "Poise": "Range",
+        "CommonMatt": 112055,
         "CommonMat": 601,
         "TalentMat": 3,
         "TalentMatt": 104328,
@@ -2214,6 +2253,7 @@ var __AvatarInfoConfig = [
         "Birthday": "1/9",
         "Icon": "UI_AvatarIcon_Tohma",
         "Poise": "Melee",
+        "CommonMatt": 112037,
         "CommonMat": 50701,
         "TalentMat": 1,
         "TalentMatt": 104322,
@@ -2266,6 +2306,7 @@ var __AvatarInfoConfig = [
         "Birthday": "4/4",
         "Icon": "UI_AvatarIcon_Aloy",
         "Poise": "Range",
+        "CommonMatt": 112055,
         "CommonMat": 601,
         "TalentMat": 1,
         "TalentMatt": 104303,
@@ -2318,6 +2359,7 @@ var __AvatarInfoConfig = [
         "Birthday": "7/14",
         "Icon": "UI_AvatarIcon_Sara",
         "Poise": "Range",
+        "CommonMatt": 112007,
         "CommonMat": 10101,
         "TalentMat": 2,
         "TalentMatt": 104325,
@@ -2370,6 +2412,7 @@ var __AvatarInfoConfig = [
         "Birthday": "2/22",
         "Icon": "UI_AvatarIcon_Kokomi",
         "Poise": "Range",
+        "CommonMatt": 112055,
         "CommonMat": 601,
         "TalentMat": 1,
         "TalentMatt": 104322,
@@ -2412,7 +2455,7 @@ var __AvatarInfoConfig = [
         "Name": "Shogun Raiden",
         "Desc": "Sua Excelência, a Toda-Poderosa Narukami Ogosho, que prometeu ao povo de Inazuma uma Eternidade imutável.",
         "Title": "Plano da Eutimia",
-        "Constellation": null,
+        "Constellation": "Imperatrix Umbrosa",
         "Nation": "Inazuma",
         "Belong": "Cidade de Inazuma",
         "Grade": 5,
@@ -2422,6 +2465,7 @@ var __AvatarInfoConfig = [
         "Birthday": "6/26",
         "Icon": "UI_AvatarIcon_Shougun",
         "Poise": "Melee",
+        "CommonMatt": 112046,
         "CommonMat": 50801,
         "TalentMat": 3,
         "TalentMatt": 104328,
@@ -2474,6 +2518,7 @@ var __AvatarInfoConfig = [
         "Birthday": "10/19",
         "Icon": "UI_AvatarIcon_Sayu",
         "Poise": "Melee",
+        "CommonMatt": 112040,
         "CommonMat": 60101,
         "TalentMat": 3,
         "TalentMatt": 104328,
@@ -2526,6 +2571,7 @@ var __AvatarInfoConfig = [
         "Birthday": "6/21",
         "Icon": "UI_AvatarIcon_Yoimiya",
         "Poise": "Range",
+        "CommonMatt": 112010,
         "CommonMat": 10306,
         "TalentMat": 1,
         "TalentMatt": 104322,
@@ -2578,6 +2624,7 @@ var __AvatarInfoConfig = [
         "Birthday": "9/28",
         "Icon": "UI_AvatarIcon_Ayaka",
         "Poise": "Melee",
+        "CommonMatt": 112046,
         "CommonMat": 50801,
         "TalentMat": 2,
         "TalentMatt": 104325,
@@ -2714,6 +2761,7 @@ var __AvatarInfoConfig = [
         "Birthday": "10/29",
         "Icon": "UI_AvatarIcon_Kazuha",
         "Poise": "Melee",
+        "CommonMatt": 112037,
         "CommonMat": 50701,
         "TalentMat": 2,
         "TalentMatt": 104315,
@@ -2766,6 +2814,7 @@ var __AvatarInfoConfig = [
         "Birthday": "10/25",
         "Icon": "UI_AvatarIcon_Eula",
         "Poise": "Melee",
+        "CommonMatt": 112007,
         "CommonMat": 10101,
         "TalentMat": 2,
         "TalentMatt": 104306,
@@ -2818,6 +2867,7 @@ var __AvatarInfoConfig = [
         "Birthday": "7/28",
         "Icon": "UI_AvatarIcon_Feiyan",
         "Poise": "Range",
+        "CommonMatt": 112037,
         "CommonMat": 50701,
         "TalentMat": 3,
         "TalentMatt": 104318,
@@ -2870,6 +2920,7 @@ var __AvatarInfoConfig = [
         "Birthday": "1/24",
         "Icon": "UI_AvatarIcon_Rosaria",
         "Poise": "Melee",
+        "CommonMatt": 112034,
         "CommonMat": 30101,
         "TalentMat": 3,
         "TalentMatt": 104309,
@@ -2922,6 +2973,7 @@ var __AvatarInfoConfig = [
         "Birthday": "7/15",
         "Icon": "UI_AvatarIcon_Hutao",
         "Poise": "Melee",
+        "CommonMatt": 112040,
         "CommonMat": 60101,
         "TalentMat": 2,
         "TalentMatt": 104315,
@@ -2974,6 +3026,7 @@ var __AvatarInfoConfig = [
         "Birthday": "4/17",
         "Icon": "UI_AvatarIcon_Xiao",
         "Poise": "Melee",
+        "CommonMatt": 112004,
         "CommonMat": 111,
         "TalentMat": 1,
         "TalentMatt": 104312,
@@ -3026,6 +3079,7 @@ var __AvatarInfoConfig = [
         "Birthday": "9/13",
         "Icon": "UI_AvatarIcon_Albedo",
         "Poise": "Melee",
+        "CommonMatt": 112010,
         "CommonMat": 10306,
         "TalentMat": 3,
         "TalentMatt": 104309,
@@ -3078,6 +3132,7 @@ var __AvatarInfoConfig = [
         "Birthday": "12/2",
         "Icon": "UI_AvatarIcon_Ganyu",
         "Poise": "Range",
+        "CommonMatt": 112040,
         "CommonMat": 60101,
         "TalentMat": 2,
         "TalentMatt": 104315,
@@ -3130,6 +3185,7 @@ var __AvatarInfoConfig = [
         "Birthday": "10/16",
         "Icon": "UI_AvatarIcon_Xinyan",
         "Poise": "Melee",
+        "CommonMatt": 112037,
         "CommonMat": 50701,
         "TalentMat": 3,
         "TalentMatt": 104318,
@@ -3182,6 +3238,7 @@ var __AvatarInfoConfig = [
         "Birthday": "1/18",
         "Icon": "UI_AvatarIcon_Diona",
         "Poise": "Range",
+        "CommonMatt": 112013,
         "CommonMat": 10110,
         "TalentMat": 1,
         "TalentMatt": 104303,
@@ -3234,6 +3291,7 @@ var __AvatarInfoConfig = [
         "Birthday": "7/20",
         "Icon": "UI_AvatarIcon_Tartaglia",
         "Poise": "Range",
+        "CommonMatt": 112034,
         "CommonMat": 30101,
         "TalentMat": 1,
         "TalentMatt": 104303,
@@ -3276,7 +3334,7 @@ var __AvatarInfoConfig = [
         "Name": "Zhongli",
         "Desc": "Um convidado misterioso da Funerária de Wangsheng. É um erudito que tem um profundo conhecimento sobre todos os tipos de coisa.",
         "Title": "Andarilho do Reino Mortal",
-        "Constellation": null,
+        "Constellation": "??? / Lapis Dei",
         "Nation": "Liyue",
         "Belong": "Porto de Liyue",
         "Grade": 5,
@@ -3286,6 +3344,7 @@ var __AvatarInfoConfig = [
         "Birthday": "12/31",
         "Icon": "UI_AvatarIcon_Zhongli",
         "Poise": "Melee",
+        "CommonMatt": 112004,
         "CommonMat": 111,
         "TalentMat": 3,
         "TalentMatt": 104318,
@@ -3338,6 +3397,7 @@ var __AvatarInfoConfig = [
         "Birthday": "11/26",
         "Icon": "UI_AvatarIcon_Sucrose",
         "Poise": "Range",
+        "CommonMatt": 112040,
         "CommonMat": 60101,
         "TalentMat": 1,
         "TalentMatt": 104303,
@@ -3390,6 +3450,7 @@ var __AvatarInfoConfig = [
         "Birthday": "8/31",
         "Icon": "UI_AvatarIcon_Mona",
         "Poise": "Range",
+        "CommonMatt": 112040,
         "CommonMat": 60101,
         "TalentMat": 2,
         "TalentMatt": 104306,
@@ -3442,6 +3503,7 @@ var __AvatarInfoConfig = [
         "Birthday": "9/7",
         "Icon": "UI_AvatarIcon_Chongyun",
         "Poise": "Melee",
+        "CommonMatt": 112007,
         "CommonMat": 10101,
         "TalentMat": 2,
         "TalentMatt": 104315,
@@ -3494,6 +3556,7 @@ var __AvatarInfoConfig = [
         "Birthday": "3/3",
         "Icon": "UI_AvatarIcon_Qiqi",
         "Poise": "Melee",
+        "CommonMatt": 112010,
         "CommonMat": 10306,
         "TalentMat": 1,
         "TalentMatt": 104312,
@@ -3546,6 +3609,7 @@ var __AvatarInfoConfig = [
         "Birthday": "3/21",
         "Icon": "UI_AvatarIcon_Noel",
         "Poise": "Melee",
+        "CommonMatt": 112007,
         "CommonMat": 10101,
         "TalentMat": 2,
         "TalentMatt": 104306,
@@ -3598,6 +3662,7 @@ var __AvatarInfoConfig = [
         "Birthday": "2/29",
         "Icon": "UI_AvatarIcon_Bennett",
         "Poise": "Melee",
+        "CommonMatt": 112037,
         "CommonMat": 50701,
         "TalentMat": 2,
         "TalentMatt": 104306,
@@ -3650,6 +3715,7 @@ var __AvatarInfoConfig = [
         "Birthday": "5/27",
         "Icon": "UI_AvatarIcon_Fischl",
         "Poise": "Range",
+        "CommonMatt": 112013,
         "CommonMat": 10110,
         "TalentMat": 3,
         "TalentMatt": 104309,
@@ -3702,6 +3768,7 @@ var __AvatarInfoConfig = [
         "Birthday": "7/27",
         "Icon": "UI_AvatarIcon_Klee",
         "Poise": "Range",
+        "CommonMatt": 112010,
         "CommonMat": 10306,
         "TalentMat": 1,
         "TalentMatt": 104303,
@@ -3754,6 +3821,7 @@ var __AvatarInfoConfig = [
         "Birthday": "8/26",
         "Icon": "UI_AvatarIcon_Ningguang",
         "Poise": "Range",
+        "CommonMatt": 112034,
         "CommonMat": 30101,
         "TalentMat": 1,
         "TalentMatt": 104312,
@@ -3806,6 +3874,7 @@ var __AvatarInfoConfig = [
         "Birthday": "10/9",
         "Icon": "UI_AvatarIcon_Xingqiu",
         "Poise": "Melee",
+        "CommonMatt": 112007,
         "CommonMat": 10101,
         "TalentMat": 3,
         "TalentMatt": 104318,
@@ -3858,6 +3927,7 @@ var __AvatarInfoConfig = [
         "Birthday": "2/14",
         "Icon": "UI_AvatarIcon_Beidou",
         "Poise": "Melee",
+        "CommonMatt": 112037,
         "CommonMat": 50701,
         "TalentMat": 3,
         "TalentMatt": 104318,
@@ -3910,6 +3980,7 @@ var __AvatarInfoConfig = [
         "Birthday": "11/2",
         "Icon": "UI_AvatarIcon_Xiangling",
         "Poise": "Melee",
+        "CommonMatt": 112004,
         "CommonMat": 111,
         "TalentMat": 2,
         "TalentMatt": 104315,
@@ -3952,7 +4023,7 @@ var __AvatarInfoConfig = [
         "Name": "Venti",
         "Desc": "Um dos muitos bardos de Mondstadt que vagueia livremente pelas ruas e becos da cidade.",
         "Title": "Bardo Itinerante",
-        "Constellation": null,
+        "Constellation": "Carmen Dei",
         "Nation": "Mondstadt",
         "Belong": "Mondstadt",
         "Grade": 5,
@@ -3962,6 +4033,7 @@ var __AvatarInfoConfig = [
         "Birthday": "6/16",
         "Icon": "UI_AvatarIcon_Venti",
         "Poise": "Range",
+        "CommonMatt": 112004,
         "CommonMat": 111,
         "TalentMat": 3,
         "TalentMatt": 104309,
@@ -4014,6 +4086,7 @@ var __AvatarInfoConfig = [
         "Birthday": "8/10",
         "Icon": "UI_AvatarIcon_Ambor",
         "Poise": "Range",
+        "CommonMatt": 112013,
         "CommonMat": 10110,
         "TalentMat": 1,
         "TalentMatt": 104303,
@@ -4066,6 +4139,7 @@ var __AvatarInfoConfig = [
         "Birthday": "9/9",
         "Icon": "UI_AvatarIcon_Razor",
         "Poise": "Melee",
+        "CommonMatt": 112007,
         "CommonMat": 10110,
         "TalentMat": 2,
         "TalentMatt": 104306,
@@ -4118,6 +4192,7 @@ var __AvatarInfoConfig = [
         "Birthday": "4/30",
         "Icon": "UI_AvatarIcon_Diluc",
         "Poise": "Melee",
+        "CommonMatt": 112034,
         "CommonMat": 30101,
         "TalentMat": 2,
         "TalentMatt": 104306,
@@ -4170,6 +4245,7 @@ var __AvatarInfoConfig = [
         "Birthday": "11/30",
         "Icon": "UI_AvatarIcon_Kaeya",
         "Poise": "Melee",
+        "CommonMatt": 112037,
         "CommonMat": 50701,
         "TalentMat": 3,
         "TalentMatt": 104309,
@@ -4222,6 +4298,7 @@ var __AvatarInfoConfig = [
         "Birthday": "7/5",
         "Icon": "UI_AvatarIcon_Barbara",
         "Poise": "Range",
+        "CommonMatt": 112010,
         "CommonMat": 10306,
         "TalentMat": 1,
         "TalentMatt": 104303,
@@ -4274,6 +4351,7 @@ var __AvatarInfoConfig = [
         "Birthday": "6/9",
         "Icon": "UI_AvatarIcon_Lisa",
         "Poise": "Range",
+        "CommonMatt": 112004,
         "CommonMat": 111,
         "TalentMat": 3,
         "TalentMatt": 104309,
@@ -4326,6 +4404,7 @@ var __AvatarInfoConfig = [
         "Birthday": "3/14",
         "Icon": "UI_AvatarIcon_Qin",
         "Poise": "Melee",
+        "CommonMatt": 112007,
         "CommonMat": 10101,
         "TalentMat": 2,
         "TalentMatt": 104306,
@@ -9643,6 +9722,10 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114052,
+        "MatIDs": [
+            112088,
+            112082
+        ],
         "EquipAffixName": "Parsifal, a Incrível",
         "EquipAffixID": 115512,
         "Extra": [],
@@ -9671,6 +9754,10 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114048,
+        "MatIDs": [
+            112064,
+            112067
+        ],
         "EquipAffixName": "O Destino da Besta",
         "EquipAffixID": 115511,
         "Extra": [],
@@ -9699,6 +9786,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114032,
+        "MatIDs": [
+            112052,
+            112013
+        ],
         "EquipAffixName": "Governo do Trovão",
         "EquipAffixID": 115509,
         "Extra": [],
@@ -9727,6 +9818,10 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112019,
+            112055
+        ],
         "EquipAffixName": "Forma Purificadora",
         "EquipAffixID": 115508,
         "Extra": [],
@@ -9755,6 +9850,10 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114036,
+        "MatIDs": [
+            112058,
+            112055
+        ],
         "EquipAffixName": "Pressagiador do Dia",
         "EquipAffixID": 115507,
         "Extra": [],
@@ -9783,6 +9882,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112016,
+            112034
+        ],
         "EquipAffixName": "Canção de Despedida",
         "EquipAffixID": 115503,
         "Extra": [],
@@ -9811,6 +9914,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112004
+        ],
         "EquipAffixName": "Inabalável",
         "EquipAffixID": 115502,
         "Extra": [],
@@ -9839,6 +9946,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112013
+        ],
         "EquipAffixName": "Balada Retumbante",
         "EquipAffixID": 115501,
         "Extra": [],
@@ -9867,6 +9978,10 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114052,
+        "MatIDs": [
+            112088,
+            112082
+        ],
         "EquipAffixName": "Canção do Pedreiro",
         "EquipAffixID": 115427,
         "Extra": [],
@@ -9895,6 +10010,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114052,
+        "MatIDs": [
+            112088,
+            112013
+        ],
         "EquipAffixName": "Tremor Marinho",
         "EquipAffixID": 115425,
         "Extra": [],
@@ -9923,6 +10042,10 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114048,
+        "MatIDs": [
+            112079,
+            112061
+        ],
         "EquipAffixName": "Caminho do Fogo Solar",
         "EquipAffixID": 115424,
         "Extra": [],
@@ -9951,6 +10074,10 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114040,
+        "MatIDs": [
+            112079,
+            112067
+        ],
         "EquipAffixName": "Favor da Sabedoria Secreta",
         "EquipAffixID": 115419,
         "Extra": [],
@@ -9979,6 +10106,10 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114048,
+        "MatIDs": [
+            112064,
+            112061
+        ],
         "EquipAffixName": "Rompedor de Redes",
         "EquipAffixID": 115418,
         "Extra": [],
@@ -10007,6 +10138,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114048,
+        "MatIDs": [
+            112064,
+            112013
+        ],
         "EquipAffixName": "Instruções do Rei do Labirinto",
         "EquipAffixID": 115417,
         "Extra": [],
@@ -10035,6 +10170,10 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114032,
+        "MatIDs": [
+            112052,
+            112055
+        ],
         "EquipAffixName": "Dominadora de Ondas Watatsumi",
         "EquipAffixID": 115416,
         "Extra": [],
@@ -10063,6 +10202,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114032,
+        "MatIDs": [
+            112052,
+            112013
+        ],
         "EquipAffixName": "Ataque Poderoso",
         "EquipAffixID": 115415,
         "Extra": [],
@@ -10091,6 +10234,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114032,
+        "MatIDs": [
+            112052,
+            112013
+        ],
         "EquipAffixName": "Grande Jogada",
         "EquipAffixID": 115414,
         "Extra": [],
@@ -10119,6 +10266,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112022,
+            112040
+        ],
         "EquipAffixName": "Desejo da Brisa Florescente",
         "EquipAffixID": 115413,
         "Extra": [],
@@ -10147,6 +10298,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112037
+        ],
         "EquipAffixName": "Duelo da Noite",
         "EquipAffixID": 115412,
         "Extra": [],
@@ -10175,6 +10330,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112031,
+            112010
+        ],
         "EquipAffixName": "Brilho Abismal",
         "EquipAffixID": 115411,
         "Extra": [],
@@ -10203,6 +10362,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112004
+        ],
         "EquipAffixName": "Emboscada nos Becos",
         "EquipAffixID": 115410,
         "Extra": [],
@@ -10231,6 +10394,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112013
+        ],
         "EquipAffixName": "Vento Esmeralda",
         "EquipAffixID": 115409,
         "Extra": [],
@@ -10259,6 +10426,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112040
+        ],
         "EquipAffixName": "De vitória em vitória",
         "EquipAffixID": 115408,
         "Extra": [],
@@ -10287,6 +10458,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112034
+        ],
         "EquipAffixName": "Flecha Infundida",
         "EquipAffixID": 115407,
         "Extra": [],
@@ -10315,6 +10490,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112037
+        ],
         "EquipAffixName": "Sem Retorno",
         "EquipAffixID": 115406,
         "Extra": [],
@@ -10343,6 +10522,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112007
+        ],
         "EquipAffixName": "Disparo Rápido",
         "EquipAffixID": 115405,
         "Extra": [],
@@ -10371,6 +10554,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112010
+        ],
         "EquipAffixName": "Foco",
         "EquipAffixID": 115404,
         "Extra": [],
@@ -10399,6 +10586,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112004
+        ],
         "EquipAffixName": "Composto",
         "EquipAffixID": 115403,
         "Extra": [],
@@ -10427,6 +10618,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112013
+        ],
         "EquipAffixName": "Canção Sem Flechas",
         "EquipAffixID": 115402,
         "Extra": [],
@@ -10455,6 +10650,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112040
+        ],
         "EquipAffixName": "Companhia do Vento",
         "EquipAffixID": 115401,
         "Extra": [],
@@ -10483,6 +10682,10 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
+        "MatIDs": [
+            0,
+            0
+        ],
         "EquipAffixName": "Dizimar",
         "EquipAffixID": 115306,
         "Extra": [],
@@ -10511,6 +10714,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112037
+        ],
         "EquipAffixName": "Mensagem da Flecha Voadora",
         "EquipAffixID": 115305,
         "Extra": [],
@@ -10539,6 +10746,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112007
+        ],
         "EquipAffixName": "Estilingue",
         "EquipAffixID": 115304,
         "Extra": [],
@@ -10567,6 +10778,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112010
+        ],
         "EquipAffixName": "Colheita",
         "EquipAffixID": 115303,
         "Extra": [],
@@ -10595,6 +10810,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112004
+        ],
         "EquipAffixName": "Precisão",
         "EquipAffixID": 115302,
         "Extra": [],
@@ -10623,6 +10842,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112013
+        ],
         "EquipAffixName": "Destruição das Chamas e Água",
         "EquipAffixID": 115301,
         "Extra": [],
@@ -10651,6 +10874,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112097,
+            112010
+        ],
         "EquipAffixName": "Axioma da Queda da Nuvem",
         "EquipAffixID": 114515,
         "Extra": [],
@@ -10679,6 +10906,10 @@ var _WeaponConfig = [
             40662
         ],
         "AscMatID": 114056,
+        "MatIDs": [
+            112091,
+            112085
+        ],
         "EquipAffixName": "Ondas de Eras Passadas",
         "EquipAffixID": 114514,
         "Extra": [],
@@ -10707,6 +10938,10 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114060,
+        "MatIDs": [
+            112094,
+            112082
+        ],
         "EquipAffixName": "Maré de Sangue Dourado",
         "EquipAffixID": 114513,
         "Extra": [],
@@ -10735,6 +10970,10 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114048,
+        "MatIDs": [
+            112064,
+            112061
+        ],
         "EquipAffixName": "Lágrimas de Safira Enterradas",
         "EquipAffixID": 114512,
         "Extra": [],
@@ -10763,6 +11002,10 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114044,
+        "MatIDs": [
+            112073,
+            112061
+        ],
         "EquipAffixName": "Canção das Mil Noites",
         "EquipAffixID": 114511,
         "Extra": [],
@@ -10791,6 +11034,10 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114036,
+        "MatIDs": [
+            112058,
+            112055
+        ],
         "EquipAffixName": "Dança Kagura da Sakura Sagrada",
         "EquipAffixID": 114509,
         "Extra": [],
@@ -10819,6 +11066,10 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114028,
+        "MatIDs": [
+            112052,
+            112055
+        ],
         "EquipAffixName": "Byakuya Kougetsu",
         "EquipAffixID": 114506,
         "Extra": [],
@@ -10847,6 +11098,10 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112079,
+            112061
+        ],
         "EquipAffixName": "Presente de Jade Primordial",
         "EquipAffixID": 114505,
         "Extra": [],
@@ -10875,6 +11130,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112007
+        ],
         "EquipAffixName": "Majestade Dourada",
         "EquipAffixID": 114504,
         "Extra": [],
@@ -10903,6 +11162,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112004
+        ],
         "EquipAffixName": "Bênção Sem Fronteiras",
         "EquipAffixID": 114502,
         "Extra": [],
@@ -10931,6 +11194,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112013
+        ],
         "EquipAffixName": "Nuvens Vagantes",
         "EquipAffixID": 114501,
         "Extra": [],
@@ -10959,6 +11226,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112043,
+            112037
+        ],
         "EquipAffixName": "Céu Azul",
         "EquipAffixID": 114426,
         "Extra": [],
@@ -10987,6 +11258,10 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114056,
+        "MatIDs": [
+            112091,
+            112082
+        ],
         "EquipAffixName": "Obra-prima Incompleta",
         "EquipAffixID": 114425,
         "Extra": [],
@@ -11015,6 +11290,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112028,
+            112010
+        ],
         "EquipAffixName": "Circulação de Jade",
         "EquipAffixID": 114424,
         "Extra": [],
@@ -11043,6 +11322,10 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114044,
+        "MatIDs": [
+            112019,
+            112061
+        ],
         "EquipAffixName": "Círculo Completo",
         "EquipAffixID": 114417,
         "Extra": [],
@@ -11071,6 +11354,10 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114044,
+        "MatIDs": [
+            112064,
+            112061
+        ],
         "EquipAffixName": "Estrela da Floresta Selvagem",
         "EquipAffixID": 114416,
         "Extra": [],
@@ -11099,6 +11386,10 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114028,
+        "MatIDs": [
+            112058,
+            112055
+        ],
         "EquipAffixName": "Povo das Profundezas Brilhantes",
         "EquipAffixID": 114415,
         "Extra": [],
@@ -11127,6 +11418,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114028,
+        "MatIDs": [
+            112052,
+            112010
+        ],
         "EquipAffixName": "Palácio de Sakura",
         "EquipAffixID": 114414,
         "Extra": [],
@@ -11155,6 +11450,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112007
+        ],
         "EquipAffixName": "Dodo-aventura!",
         "EquipAffixID": 114413,
         "Extra": [],
@@ -11183,6 +11482,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112040
+        ],
         "EquipAffixName": "Enterro Congelante",
         "EquipAffixID": 114412,
         "Extra": [],
@@ -11211,6 +11514,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112037
+        ],
         "EquipAffixName": "Mudança Constante",
         "EquipAffixID": 114410,
         "Extra": [],
@@ -11239,6 +11546,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112007
+        ],
         "EquipAffixName": "Echo",
         "EquipAffixID": 114409,
         "Extra": [],
@@ -11267,6 +11578,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112010
+        ],
         "EquipAffixName": "De vitória em vitória",
         "EquipAffixID": 114408,
         "Extra": [],
@@ -11295,6 +11610,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112004
+        ],
         "EquipAffixName": "Pergaminho Infundido",
         "EquipAffixID": 114407,
         "Extra": [],
@@ -11323,6 +11642,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112013
+        ],
         "EquipAffixName": "Chapeamento de Ouro",
         "EquipAffixID": 114406,
         "Extra": [],
@@ -11351,6 +11674,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112040
+        ],
         "EquipAffixName": "Brilho Celestial",
         "EquipAffixID": 114405,
         "Extra": [],
@@ -11379,6 +11706,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112034
+        ],
         "EquipAffixName": "Foco",
         "EquipAffixID": 114404,
         "Extra": [],
@@ -11407,6 +11738,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112037
+        ],
         "EquipAffixName": "Composto",
         "EquipAffixID": 114403,
         "Extra": [],
@@ -11435,6 +11770,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112007
+        ],
         "EquipAffixName": "Abertura",
         "EquipAffixID": 114402,
         "Extra": [],
@@ -11463,6 +11802,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112010
+        ],
         "EquipAffixName": "Companhia do Vento",
         "EquipAffixID": 114401,
         "Extra": [],
@@ -11491,6 +11834,10 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
+        "MatIDs": [
+            0,
+            0
+        ],
         "EquipAffixName": "Proficiência Elemental",
         "EquipAffixID": 114306,
         "Extra": [],
@@ -11519,6 +11866,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112034
+        ],
         "EquipAffixName": "Táticas de Invasão",
         "EquipAffixID": 114305,
         "Extra": [],
@@ -11547,6 +11898,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112037
+        ],
         "EquipAffixName": "Corrente Torrencial",
         "EquipAffixID": 114304,
         "Extra": [],
@@ -11575,6 +11930,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112007
+        ],
         "EquipAffixName": "Imersão de Energia",
         "EquipAffixID": 114303,
         "Extra": [],
@@ -11603,6 +11962,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112010
+        ],
         "EquipAffixName": "Herança",
         "EquipAffixID": 114302,
         "Extra": [],
@@ -11631,6 +11994,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112004
+        ],
         "EquipAffixName": "Destruição de Tempestade e Maré",
         "EquipAffixID": 114301,
         "Extra": [],
@@ -11659,6 +12026,10 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114044,
+        "MatIDs": [
+            112070,
+            112061
+        ],
         "EquipAffixName": "Sonho Ardente no Fim do Horizonte",
         "EquipAffixID": 113511,
         "Extra": [],
@@ -11687,6 +12058,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114036,
+        "MatIDs": [
+            112049,
+            112046
+        ],
         "EquipAffixName": "Sonho Atemporal: Fogão Eterno",
         "EquipAffixID": 113509,
         "Extra": [],
@@ -11715,6 +12090,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112040
+        ],
         "EquipAffixName": "Preceito Extinguidor",
         "EquipAffixID": 113507,
         "Extra": [],
@@ -11743,6 +12122,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112034
+        ],
         "EquipAffixName": "Lança da Justiça da Águia",
         "EquipAffixID": 113505,
         "Extra": [],
@@ -11771,6 +12154,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112037
+        ],
         "EquipAffixName": "Majestade Dourada",
         "EquipAffixID": 113504,
         "Extra": [],
@@ -11799,6 +12186,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112010
+        ],
         "EquipAffixName": "Asas Negras",
         "EquipAffixID": 113502,
         "Extra": [],
@@ -11827,6 +12218,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112022,
+            112004
+        ],
         "EquipAffixName": "Liberdade da Borboleta Vermelha",
         "EquipAffixID": 113501,
         "Extra": [],
@@ -11855,6 +12250,10 @@ var _WeaponConfig = [
             40662
         ],
         "AscMatID": 114052,
+        "MatIDs": [
+            112094,
+            112085
+        ],
         "EquipAffixName": "Canção do Pedreiro",
         "EquipAffixID": 113427,
         "Extra": [],
@@ -11883,6 +12282,10 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114040,
+        "MatIDs": [
+            112097,
+            112055
+        ],
         "EquipAffixName": "Princípio do Equilíbrio",
         "EquipAffixID": 113426,
         "Extra": [],
@@ -11911,6 +12314,10 @@ var _WeaponConfig = [
             40662
         ],
         "AscMatID": 114060,
+        "MatIDs": [
+            112091,
+            112085
+        ],
         "EquipAffixName": "Ponta da Lança",
         "EquipAffixID": 113425,
         "Extra": [],
@@ -11939,6 +12346,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114060,
+        "MatIDs": [
+            112079,
+            112040
+        ],
         "EquipAffixName": "Contos das Tundras",
         "EquipAffixID": 113424,
         "Extra": [],
@@ -11967,6 +12378,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112019,
+            112004
+        ],
         "EquipAffixName": "Vento Inalcançável",
         "EquipAffixID": 113419,
         "Extra": [],
@@ -11995,6 +12410,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114044,
+        "MatIDs": [
+            112070,
+            112034
+        ],
         "EquipAffixName": "Sombra da Lua na Floresta",
         "EquipAffixID": 113417,
         "Extra": [],
@@ -12023,6 +12442,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114036,
+        "MatIDs": [
+            112058,
+            112046
+        ],
         "EquipAffixName": "Dominadora de Ondas Watatsumi",
         "EquipAffixID": 113416,
         "Extra": [],
@@ -12051,6 +12474,10 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114036,
+        "MatIDs": [
+            112049,
+            112055
+        ],
         "EquipAffixName": "Canção Navegante",
         "EquipAffixID": 113415,
         "Extra": [],
@@ -12079,6 +12506,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114036,
+        "MatIDs": [
+            112049,
+            112037
+        ],
         "EquipAffixName": "Conduta do Samurai",
         "EquipAffixID": 113414,
         "Extra": [],
@@ -12107,6 +12538,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112028,
+            112034
+        ],
         "EquipAffixName": "Enterro Congelante",
         "EquipAffixID": 113409,
         "Extra": [],
@@ -12135,6 +12570,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112034
+        ],
         "EquipAffixName": "Foco",
         "EquipAffixID": 113408,
         "Extra": [],
@@ -12163,6 +12602,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112004
+        ],
         "EquipAffixName": "Companhia do Vento",
         "EquipAffixID": 113407,
         "Extra": [],
@@ -12191,6 +12634,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112013
+        ],
         "EquipAffixName": "Axioma de Millelith: Unidade",
         "EquipAffixID": 113406,
         "Extra": [],
@@ -12219,6 +12666,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112040
+        ],
         "EquipAffixName": "Gladiador",
         "EquipAffixID": 113405,
         "Extra": [],
@@ -12247,6 +12698,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112034
+        ],
         "EquipAffixName": "De vitória em vitória",
         "EquipAffixID": 113404,
         "Extra": [],
@@ -12275,6 +12730,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112037
+        ],
         "EquipAffixName": "Agulha Energética",
         "EquipAffixID": 113403,
         "Extra": [],
@@ -12303,6 +12762,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112007
+        ],
         "EquipAffixName": "Viciado em Magia",
         "EquipAffixID": 113402,
         "Extra": [],
@@ -12331,6 +12794,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112010
+        ],
         "EquipAffixName": "Destruição das Chamas e Água",
         "EquipAffixID": 113401,
         "Extra": [],
@@ -12359,6 +12826,10 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
+        "MatIDs": [
+            0,
+            0
+        ],
         "EquipAffixName": "A Definir",
         "EquipAffixID": 113304,
         "Extra": [],
@@ -12387,6 +12858,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112013
+        ],
         "EquipAffixName": "Atacante Pesado",
         "EquipAffixID": 113303,
         "Extra": [],
@@ -12415,6 +12890,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112040
+        ],
         "EquipAffixName": "Pesado",
         "EquipAffixID": 113302,
         "Extra": [],
@@ -12443,6 +12922,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112034
+        ],
         "EquipAffixName": "Acume",
         "EquipAffixID": 113301,
         "Extra": [],
@@ -12471,6 +12954,10 @@ var _WeaponConfig = [
             40662
         ],
         "AscMatID": 114052,
+        "MatIDs": [
+            112091,
+            112085
+        ],
         "EquipAffixName": "Juramento dos Reinos e Crepúsculos",
         "EquipAffixID": 112512,
         "Extra": [],
@@ -12499,6 +12986,10 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114048,
+        "MatIDs": [
+            112076,
+            112067
+        ],
         "EquipAffixName": "Guarda do Mar de Areia",
         "EquipAffixID": 112511,
         "Extra": [],
@@ -12527,6 +13018,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114032,
+        "MatIDs": [
+            112058,
+            112046
+        ],
         "EquipAffixName": "Gokadaiou Otogibanashi",
         "EquipAffixID": 112510,
         "Extra": [],
@@ -12555,6 +13050,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112037
+        ],
         "EquipAffixName": "Majestade Dourada",
         "EquipAffixID": 112504,
         "Extra": [],
@@ -12583,6 +13082,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112007
+        ],
         "EquipAffixName": "Música de Rebelião da Bandeira",
         "EquipAffixID": 112503,
         "Extra": [],
@@ -12611,6 +13114,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112010
+        ],
         "EquipAffixName": "Caçador Selvagem",
         "EquipAffixID": 112502,
         "Extra": [],
@@ -12639,6 +13146,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112004
+        ],
         "EquipAffixName": "Espinha do Dragão - Quebrador do Céu",
         "EquipAffixID": 112501,
         "Extra": [],
@@ -12667,6 +13178,10 @@ var _WeaponConfig = [
             40662
         ],
         "AscMatID": 114060,
+        "MatIDs": [
+            112091,
+            112085
+        ],
         "EquipAffixName": "Canção de Marinheiro",
         "EquipAffixID": 112427,
         "Extra": [],
@@ -12695,6 +13210,10 @@ var _WeaponConfig = [
             40662
         ],
         "AscMatID": 114060,
+        "MatIDs": [
+            112094,
+            112085
+        ],
         "EquipAffixName": "Você consegue!",
         "EquipAffixID": 112426,
         "Extra": [],
@@ -12723,6 +13242,10 @@ var _WeaponConfig = [
             40662
         ],
         "AscMatID": 114060,
+        "MatIDs": [
+            112091,
+            112085
+        ],
         "EquipAffixName": "Onda Branca do Cruzamento",
         "EquipAffixID": 112425,
         "Extra": [],
@@ -12751,6 +13274,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114044,
+        "MatIDs": [
+            112076,
+            112004
+        ],
         "EquipAffixName": "\"Bom de Papo\"",
         "EquipAffixID": 112424,
         "Extra": [],
@@ -12779,6 +13306,10 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112076,
+            112055
+        ],
         "EquipAffixName": "Código do Vento e das Flores",
         "EquipAffixID": 112418,
         "Extra": [],
@@ -12807,6 +13338,10 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114040,
+        "MatIDs": [
+            112070,
+            112067
+        ],
         "EquipAffixName": "Bênção da Floresta",
         "EquipAffixID": 112417,
         "Extra": [],
@@ -12835,6 +13370,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114028,
+        "MatIDs": [
+            112058,
+            112046
+        ],
         "EquipAffixName": "Dominadora de Ondas Watatsumi",
         "EquipAffixID": 112416,
         "Extra": [],
@@ -12863,6 +13402,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114048,
+        "MatIDs": [
+            112070,
+            112037
+        ],
         "EquipAffixName": "Pavilhão do Deserto",
         "EquipAffixID": 112415,
         "Extra": [],
@@ -12891,6 +13434,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114032,
+        "MatIDs": [
+            112049,
+            112046
+        ],
         "EquipAffixName": "Conduta do Samurai",
         "EquipAffixID": 112414,
         "Extra": [],
@@ -12919,6 +13466,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112004
+        ],
         "EquipAffixName": "Vitória Oceânica",
         "EquipAffixID": 112412,
         "Extra": [],
@@ -12947,6 +13498,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112004
+        ],
         "EquipAffixName": "Enterro Congelante",
         "EquipAffixID": 112411,
         "Extra": [],
@@ -12975,6 +13530,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112013
+        ],
         "EquipAffixName": "Axioma de Millelith: Unidade",
         "EquipAffixID": 112410,
         "Extra": [],
@@ -13003,6 +13562,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112040
+        ],
         "EquipAffixName": "Divisor de Ondas",
         "EquipAffixID": 112409,
         "Extra": [],
@@ -13031,6 +13594,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112034
+        ],
         "EquipAffixName": "De vitória em vitória",
         "EquipAffixID": 112408,
         "Extra": [],
@@ -13059,6 +13626,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112037
+        ],
         "EquipAffixName": "Ponta Energética",
         "EquipAffixID": 112407,
         "Extra": [],
@@ -13087,6 +13658,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112007
+        ],
         "EquipAffixName": "Esmagar",
         "EquipAffixID": 112406,
         "Extra": [],
@@ -13115,6 +13690,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112010
+        ],
         "EquipAffixName": "Destruição de Tempestade e Maré",
         "EquipAffixID": 112405,
         "Extra": [],
@@ -13143,6 +13722,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112004
+        ],
         "EquipAffixName": "Foco",
         "EquipAffixID": 112404,
         "Extra": [],
@@ -13171,6 +13754,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112013
+        ],
         "EquipAffixName": "Composto",
         "EquipAffixID": 112403,
         "Extra": [],
@@ -13199,6 +13786,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112040
+        ],
         "EquipAffixName": "Guarda da Rebelião",
         "EquipAffixID": 112402,
         "Extra": [],
@@ -13227,6 +13818,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112034
+        ],
         "EquipAffixName": "Companhia do Vento",
         "EquipAffixID": 112401,
         "Extra": [],
@@ -13255,6 +13850,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112037
+        ],
         "EquipAffixName": "Coragem",
         "EquipAffixID": 112306,
         "Extra": [],
@@ -13283,6 +13882,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112007
+        ],
         "EquipAffixName": "Convencer",
         "EquipAffixID": 112305,
         "Extra": [],
@@ -13311,6 +13914,10 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
+        "MatIDs": [
+            0,
+            0
+        ],
         "EquipAffixName": "Calor Residual",
         "EquipAffixID": 112304,
         "Extra": [],
@@ -13339,6 +13946,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112004
+        ],
         "EquipAffixName": "Colheita",
         "EquipAffixID": 112303,
         "Extra": [],
@@ -13367,6 +13978,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112013
+        ],
         "EquipAffixName": "Destruição de Fogo e Trovão",
         "EquipAffixID": 112302,
         "Extra": [],
@@ -13395,6 +14010,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112040
+        ],
         "EquipAffixName": "Implacável",
         "EquipAffixID": 112301,
         "Extra": [],
@@ -13423,6 +14042,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114028,
+        "MatIDs": [
+            112049,
+            112046
+        ],
         "EquipAffixName": "Brocado Florescente, Espada do Santuário",
         "EquipAffixID": 111514,
         "Extra": [],
@@ -13451,6 +14074,10 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114056,
+        "MatIDs": [
+            112088,
+            112082
+        ],
         "EquipAffixName": "Amanhecer e Crepúsculo à Beira do Lago",
         "EquipAffixID": 111513,
         "Extra": [],
@@ -13479,6 +14106,10 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114040,
+        "MatIDs": [
+            112076,
+            112067
+        ],
         "EquipAffixName": "Ponta do Galho da Lua Branca",
         "EquipAffixID": 111512,
         "Extra": [],
@@ -13507,6 +14138,10 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114040,
+        "MatIDs": [
+            112073,
+            112067
+        ],
         "EquipAffixName": "Canção Sepultada nas Areias",
         "EquipAffixID": 111511,
         "Extra": [],
@@ -13535,6 +14170,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114032,
+        "MatIDs": [
+            112019,
+            112046
+        ],
         "EquipAffixName": "Fluxo Aperfeiçoado",
         "EquipAffixID": 111510,
         "Extra": [],
@@ -13563,6 +14202,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114028,
+        "MatIDs": [
+            112049,
+            112046
+        ],
         "EquipAffixName": "Bainha Quebra-nuvens",
         "EquipAffixID": 111509,
         "Extra": [],
@@ -13591,6 +14234,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112037
+        ],
         "EquipAffixName": "Pureza do Protetor",
         "EquipAffixID": 111505,
         "Extra": [],
@@ -13619,6 +14266,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112007
+        ],
         "EquipAffixName": "Majestade Dourada",
         "EquipAffixID": 111504,
         "Extra": [],
@@ -13647,6 +14298,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112010
+        ],
         "EquipAffixName": "Hino da Rebelião",
         "EquipAffixID": 111503,
         "Extra": [],
@@ -13675,6 +14330,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112004
+        ],
         "EquipAffixName": "Dente Perfurador do Céu",
         "EquipAffixID": 111502,
         "Extra": [],
@@ -13703,6 +14362,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112013
+        ],
         "EquipAffixName": "Resistência do Falcão do Oeste",
         "EquipAffixID": 111501,
         "Extra": [],
@@ -13731,6 +14394,10 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
+        "MatIDs": [
+            0,
+            0
+        ],
         "EquipAffixName": "\"Espada Sagrada\"",
         "EquipAffixID": 111429,
         "Extra": [],
@@ -13759,6 +14426,10 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114052,
+        "MatIDs": [
+            112094,
+            112082
+        ],
         "EquipAffixName": "Espada do Herói",
         "EquipAffixID": 111428,
         "Extra": [],
@@ -13787,6 +14458,10 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114056,
+        "MatIDs": [
+            112094,
+            112082
+        ],
         "EquipAffixName": "Canção de Marinheiro",
         "EquipAffixID": 111427,
         "Extra": [],
@@ -13815,6 +14490,10 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114052,
+        "MatIDs": [
+            112088,
+            112082
+        ],
         "EquipAffixName": "Ossos de Aço",
         "EquipAffixID": 111426,
         "Extra": [],
@@ -13843,6 +14522,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114056,
+        "MatIDs": [
+            112088,
+            112046
+        ],
         "EquipAffixName": "Final Sublime",
         "EquipAffixID": 111425,
         "Extra": [],
@@ -13871,6 +14554,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112025,
+            112007
+        ],
         "EquipAffixName": "Vento Setentrional do Lobo Azul",
         "EquipAffixID": 111424,
         "Extra": [],
@@ -13899,6 +14586,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114032,
+        "MatIDs": [
+            112073,
+            112046
+        ],
         "EquipAffixName": "Épico: Chuva do Atrelador da Terra",
         "EquipAffixID": 111422,
         "Extra": [],
@@ -13927,6 +14618,10 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
+        "MatIDs": [
+            0,
+            0
+        ],
         "EquipAffixName": "Lâmina Andarilha",
         "EquipAffixID": 111421,
         "Extra": [],
@@ -13955,6 +14650,10 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
+        "MatIDs": [
+            0,
+            0
+        ],
         "EquipAffixName": "Lâmina Andarilha",
         "EquipAffixID": 111420,
         "Extra": [],
@@ -13983,6 +14682,10 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
+        "MatIDs": [
+            0,
+            0
+        ],
         "EquipAffixName": "Lâmina Andarilha",
         "EquipAffixID": 111419,
         "Extra": [],
@@ -14011,6 +14714,10 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114040,
+        "MatIDs": [
+            112073,
+            112067
+        ],
         "EquipAffixName": "Sussurros do Jinni",
         "EquipAffixID": 111418,
         "Extra": [],
@@ -14039,6 +14746,10 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114040,
+        "MatIDs": [
+            112070,
+            112067
+        ],
         "EquipAffixName": "Bênção da Floresta",
         "EquipAffixID": 111417,
         "Extra": [],
@@ -14067,6 +14778,10 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114036,
+        "MatIDs": [
+            112019,
+            112055
+        ],
         "EquipAffixName": "Claridade da Arte Isshin",
         "EquipAffixID": 111416,
         "Extra": [],
@@ -14095,6 +14810,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112025,
+            112007
+        ],
         "EquipAffixName": "Coração Imaculado",
         "EquipAffixID": 111415,
         "Extra": [],
@@ -14123,6 +14842,10 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114028,
+        "MatIDs": [
+            112049,
+            112046
+        ],
         "EquipAffixName": "Herdeiro de Iwakura",
         "EquipAffixID": 111414,
         "Extra": [],
@@ -14151,6 +14874,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112016,
+            112034
+        ],
         "EquipAffixName": "Admiração Inabalável",
         "EquipAffixID": 111413,
         "Extra": [],
@@ -14179,6 +14906,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112037
+        ],
         "EquipAffixName": "Descensão",
         "EquipAffixID": 111412,
         "Extra": [],
@@ -14207,6 +14938,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112010
+        ],
         "EquipAffixName": "Herói Itinerante",
         "EquipAffixID": 111410,
         "Extra": [],
@@ -14235,6 +14970,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112004
+        ],
         "EquipAffixName": "Justiça",
         "EquipAffixID": 111409,
         "Extra": [],
@@ -14263,6 +15002,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112013
+        ],
         "EquipAffixName": "De vitória em vitória",
         "EquipAffixID": 111408,
         "Extra": [],
@@ -14291,6 +15034,10 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112040
+        ],
         "EquipAffixName": "Ferrão Energético",
         "EquipAffixID": 111407,
         "Extra": [],
@@ -14319,6 +15066,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112034
+        ],
         "EquipAffixName": "Pedra Destruída",
         "EquipAffixID": 111406,
         "Extra": [],
@@ -14347,6 +15098,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112037
+        ],
         "EquipAffixName": "Destruição de Fogo e Trovão",
         "EquipAffixID": 111405,
         "Extra": [],
@@ -14375,6 +15130,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112007
+        ],
         "EquipAffixName": "Foco",
         "EquipAffixID": 111404,
         "Extra": [],
@@ -14403,6 +15162,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112010
+        ],
         "EquipAffixName": "Composto",
         "EquipAffixID": 111403,
         "Extra": [],
@@ -14431,6 +15194,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112004
+        ],
         "EquipAffixName": "Acorde",
         "EquipAffixID": 111402,
         "Extra": [],
@@ -14459,6 +15226,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112013
+        ],
         "EquipAffixName": "Companhia do Vento",
         "EquipAffixID": 111401,
         "Extra": [],
@@ -14487,6 +15258,10 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114024,
+        "MatIDs": [
+            112043,
+            112034
+        ],
         "EquipAffixName": "Determinação",
         "EquipAffixID": 111306,
         "Extra": [],
@@ -14515,6 +15290,10 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114020,
+        "MatIDs": [
+            112028,
+            112037
+        ],
         "EquipAffixName": "Determinação",
         "EquipAffixID": 111305,
         "Extra": [],
@@ -14543,6 +15322,10 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114016,
+        "MatIDs": [
+            112031,
+            112007
+        ],
         "EquipAffixName": "Sobrecarga",
         "EquipAffixID": 111304,
         "Extra": [],
@@ -14571,6 +15354,10 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114012,
+        "MatIDs": [
+            112025,
+            112010
+        ],
         "EquipAffixName": "Jornada",
         "EquipAffixID": 111303,
         "Extra": [],
@@ -14599,6 +15386,10 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
+        "MatIDs": [
+            112022,
+            112004
+        ],
         "EquipAffixName": "Vigoroso",
         "EquipAffixID": 111302,
         "Extra": [],
@@ -14627,6 +15418,10 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114004,
+        "MatIDs": [
+            112016,
+            112013
+        ],
         "EquipAffixName": "Destruição de Água e Gelo",
         "EquipAffixID": 111301,
         "Extra": [],
@@ -17409,6 +18204,134 @@ var _MaterialConfig = {
         "Icon": "UI_ItemIcon_104346",
         "Text": "<b>Filosofia da Ordem</b><br>Fontaine / Wed Sat Sun"
     },
+    "112004": {
+        "Icon": "UI_ItemIcon_112004",
+        "Text": "<b>Essência de Slime</b>"
+    },
+    "112007": {
+        "Icon": "UI_ItemIcon_112007",
+        "Text": "<b>Máscara Ominosa</b>"
+    },
+    "112010": {
+        "Icon": "UI_ItemIcon_112010",
+        "Text": "<b>Pergaminho da Maldição</b>"
+    },
+    "112013": {
+        "Icon": "UI_ItemIcon_112013",
+        "Text": "<b>Ponta de Flecha Usada</b>"
+    },
+    "112016": {
+        "Icon": "UI_ItemIcon_112016",
+        "Text": "<b>Chifre de Cristal Preto</b>"
+    },
+    "112019": {
+        "Icon": "UI_ItemIcon_112019",
+        "Text": "<b>Escultura das Profundezas</b>"
+    },
+    "112022": {
+        "Icon": "UI_ItemIcon_112022",
+        "Text": "<b>Broto de Linha Ley</b>"
+    },
+    "112025": {
+        "Icon": "UI_ItemIcon_112025",
+        "Text": "<b>Fornalha do Caos</b>"
+    },
+    "112028": {
+        "Icon": "UI_ItemIcon_112028",
+        "Text": "<b>Pavio do Nevoeiro</b>"
+    },
+    "112031": {
+        "Icon": "UI_ItemIcon_112031",
+        "Text": "<b>Faca Longa de Inspetor</b>"
+    },
+    "112034": {
+        "Icon": "UI_ItemIcon_112034",
+        "Text": "<b>Insígnia de Oficial</b>"
+    },
+    "112037": {
+        "Icon": "UI_ItemIcon_112037",
+        "Text": "<b>Insígnia de Corvo Dourado</b>"
+    },
+    "112040": {
+        "Icon": "UI_ItemIcon_112040",
+        "Text": "<b>Néctar Elemental</b>"
+    },
+    "112043": {
+        "Icon": "UI_ItemIcon_112043",
+        "Text": "<b>Fragmento de osso fossilizado</b>"
+    },
+    "112046": {
+        "Icon": "UI_ItemIcon_112046",
+        "Text": "<b>Protetor de Mão Famoso</b>"
+    },
+    "112049": {
+        "Icon": "UI_ItemIcon_112049",
+        "Text": "<b>Olho do Caos</b>"
+    },
+    "112052": {
+        "Icon": "UI_ItemIcon_112052",
+        "Text": "<b>Prisma Polarizado</b>"
+    },
+    "112055": {
+        "Icon": "UI_ItemIcon_112055",
+        "Text": "<b>Núcleo Espectral</b>"
+    },
+    "112058": {
+        "Icon": "UI_ItemIcon_112058",
+        "Text": "<b>Garra Fantasmagórica Oculta</b>"
+    },
+    "112061": {
+        "Icon": "UI_ItemIcon_112061",
+        "Text": "<b>Poeira Cristalina de Cisto</b>"
+    },
+    "112064": {
+        "Icon": "UI_ItemIcon_112064",
+        "Text": "<b>Núcleo Fúngico Robusto</b>"
+    },
+    "112067": {
+        "Icon": "UI_ItemIcon_112067",
+        "Text": "<b>Cetim Vermelho</b>"
+    },
+    "112070": {
+        "Icon": "UI_ItemIcon_112070",
+        "Text": "<b>Parafuso do Caos</b>"
+    },
+    "112073": {
+        "Icon": "UI_ItemIcon_112073",
+        "Text": "<b>Prisma Radiante</b>"
+    },
+    "112076": {
+        "Icon": "UI_ItemIcon_112076",
+        "Text": "<b>Casco Marcado</b>"
+    },
+    "112079": {
+        "Icon": "UI_ItemIcon_112079",
+        "Text": "<b>Flor Florescente do Andarilho</b>"
+    },
+    "112082": {
+        "Icon": "UI_ItemIcon_112082",
+        "Text": "<b>Cristal Caleidoscópico</b>"
+    },
+    "112085": {
+        "Icon": "UI_ItemIcon_112085",
+        "Text": "<b>Engrenagem Dinâmica</b>"
+    },
+    "112088": {
+        "Icon": "UI_ItemIcon_112088",
+        "Text": "<b>Fantasma Hydro Corrompido Recém-nascido</b>"
+    },
+    "112091": {
+        "Icon": "UI_ItemIcon_112091",
+        "Text": "<b>Núcleo Alienígena</b>"
+    },
+    "112094": {
+        "Icon": "UI_ItemIcon_112094",
+        "Text": "<b>Constância do Servo</b>"
+    },
+    "112097": {
+        "Icon": "UI_ItemIcon_112097",
+        "Text": "<b>Nadadeira Luz do Abismo</b>"
+    },
     "113001": {
         "Icon": "UI_ItemIcon_113001",
         "Text": "<b>Semente de Furacão</b>"
@@ -17636,6 +18559,66 @@ var _MaterialConfig = {
     "113058": {
         "Icon": "UI_ItemIcon_113058",
         "Text": "<b>Escamas de Linha das Nuvens</b>"
+    },
+    "114004": {
+        "Icon": "UI_ItemIcon_114004",
+        "Text": "<b>Pedaços de Sonho da Decarabian</b>"
+    },
+    "114008": {
+        "Icon": "UI_ItemIcon_114008",
+        "Text": "<b>Nostalgia do Lobo Boreal</b>"
+    },
+    "114012": {
+        "Icon": "UI_ItemIcon_114012",
+        "Text": "<b>Sonho do Gladiador de Dandelion</b>"
+    },
+    "114016": {
+        "Icon": "UI_ItemIcon_114016",
+        "Text": "<b>Corpo Divino de Guyun</b>"
+    },
+    "114020": {
+        "Icon": "UI_ItemIcon_114020",
+        "Text": "<b>Alternação das Nuvens e o Mar</b>"
+    },
+    "114024": {
+        "Icon": "UI_ItemIcon_114024",
+        "Text": "<b>Bloco de Aerosiderite</b>"
+    },
+    "114028": {
+        "Icon": "UI_ItemIcon_114028",
+        "Text": "<b>Ramo Dourado de um Mar Distante</b>"
+    },
+    "114032": {
+        "Icon": "UI_ItemIcon_114032",
+        "Text": "<b>A Coragem de Narukami</b>"
+    },
+    "114036": {
+        "Icon": "UI_ItemIcon_114036",
+        "Text": "<b>Máscara de Kijin</b>"
+    },
+    "114040": {
+        "Icon": "UI_ItemIcon_114040",
+        "Text": "<b>Talismã de Ouro do Orvalho Florestal</b>"
+    },
+    "114044": {
+        "Icon": "UI_ItemIcon_114044",
+        "Text": "<b>Verdade do Jardim Oásis</b>"
+    },
+    "114048": {
+        "Icon": "UI_ItemIcon_114048",
+        "Text": "<b>Glória Passada do Poder Escaldante</b>"
+    },
+    "114052": {
+        "Icon": "UI_ItemIcon_114052",
+        "Text": "<b>Eco de uma Corda Antiga</b>"
+    },
+    "114056": {
+        "Icon": "UI_ItemIcon_114056",
+        "Text": "<b>Essência da Gota de Orvalho Pura Sagrada</b>"
+    },
+    "114060": {
+        "Icon": "UI_ItemIcon_114060",
+        "Text": "<b>Cálice de Ouro do Mar Pristino</b>"
     }
 }
 
