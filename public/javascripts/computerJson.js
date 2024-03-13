@@ -6546,7 +6546,7 @@ document.cookie.split(";").forEach(function (c) {
         cookie_lang = c.substring(c.indexOf('lang=') + 5, c.indexOf('lang=') + 7)
     }
 });
-var AVAILABLE_LANG = ["CH", "EN", "RU", "JP", "KR", "DE", "FR", "SP", "PT", "ES"]
+var AVAILABLE_LANG = ["CH", "EN", "RU", "JP", "KR", "DE", "FR", "SP", "PT"]
 var is_ru = 0
 var param_lang = $('#LANG').val().toUpperCase()
 if (param_lang == "ES") param_lang = "SP"
