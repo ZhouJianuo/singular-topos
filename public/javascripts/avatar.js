@@ -809,7 +809,20 @@ $(function () {
                                                 'margin': '10px 0',
                                                 'text-align': 'center'
                                             }
-                                        },
+                                        }
+                                    ],
+                                    class: 'a_section_content',
+                                    style: {
+                                        'overflow': 'hidden'
+                                    }
+                                },
+                            ],
+                            class: 'a_section'
+                        },
+                        {
+                            div: [
+                                {
+                                    div: [
                                         {
                                             div: [
                                                 {
@@ -856,258 +869,257 @@ $(function () {
                                                 },
                                             ],
                                             class: 'mon_head',
-                                        }
-                                    ],
-                                    class: 'a_section_content',
-                                    style: {
-                                        'overflow': 'hidden'
-                                    }
-                                },
-                            ],
-                            class: 'a_section'
-                        },
-                        {
-                            div: [
-                                {
-                                    div: [
-                                        {
-                                            div: [
-                                                {
-                                                    a: function (k) {
-                                                        return '/gi/monster/' + k.data.CommonMat + '?level=93'
-                                                    },
-                                                    t: [
-                                                        {
-                                                            img: function (k) {
-                                                                var mat = k.data.Pics[0]
-                                                                if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
-                                                                return imgpre + "homdgcat-res/monster/" + mat + ".png"
-                                                            },
-                                                            style: {
-                                                                'margin-right': '10px'
-                                                            }
-                                                        },
-                                                    ],
-                                                    attr: { target: '_blank' },
-                                                    class: 'mat_a'
-                                                },
-                                                {
-                                                    a: function (k) {
-                                                        return '/gi/item/' + k.data.CommonMatt + '?lang=' + lang3
-                                                    },
-                                                    t: {
-                                                        img: function (k) {
-                                                            var mat = _MaterialConfig[k.data.CommonMatt]
-                                                            if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
-                                                            if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
-                                                            return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
-                                                        },
-                                                        class: 'img_2'
-                                                    },
-                                                    attr: { target: '_blank' },
-                                                    class: 'mat_a'
-                                                },
-                                                {
-                                                    p: function (k) {
-                                                        var mat = _MaterialConfig[k.data.CommonMatt]
-                                                        if (!mat) return ""
-                                                        if (!mat.Text) return ""
-                                                        return mat.Text + '<br>x36 / x96 / x129'
-                                                    }
-                                                }
-                                            ],
-                                            class: 'avatar_mat'
                                         },
                                         {
-                                            div: [
-                                                {
-                                                    a: function (k) {
-                                                        return '/gi/item/' + k.data.SpecialityMat + '?lang=' + lang3
-                                                    },
-                                                    t: {
-                                                        img: function (k) {
-                                                            var mat = _MaterialConfig[k.data.SpecialityMat]
-                                                            if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
-                                                            if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
-                                                            return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
-                                                        },
-                                                    },
-                                                    attr: { target: '_blank' },
-                                                    class: 'mat_a'
-                                                },
-                                                {
-                                                    p: function (k) {
-                                                        var mat = _MaterialConfig[k.data.SpecialityMat]
-                                                        if (!mat) return ""
-                                                        if (!mat.Text) return ""
-                                                        return mat.Text + '<br>x168'
-                                                    }
-                                                }
-                                            ],
-                                            class: 'avatar_mat avatar_mat_1',
-                                            a: {
-                                                'data-id': function (k) {
-                                                    return k.data.SpecialityMat
-                                                }
+                                            hr: '',
+                                            style: {
+                                                'height': '1px',
+                                                'margin-top': '15px'
                                             }
                                         },
                                         {
                                             div: [
                                                 {
-                                                    a: function (k) {
-                                                        return '/gi/item/' + k.data.TalentMatt + '?lang=' + lang3
-                                                    },
-                                                    t: {
-                                                        img: function (k) {
-                                                            var mat = _MaterialConfig[k.data.TalentMatt]
-                                                            if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
-                                                            if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
-                                                            return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
-                                                        }
-                                                    },
-                                                    attr: { target: '_blank' },
-                                                    class: 'mat_a'
-                                                },
-                                                {
-                                                    p: function (k) {
-                                                        var mat = _MaterialConfig[k.data.TalentMatt]
-                                                        if (!mat) return ""
-                                                        if (!mat.Text) return ""
-                                                        return mat.Text.split("<br>")[0] + '<br>x9 / x63 / x114'
-                                                    }
-                                                }
-                                            ],
-                                            class: 'avatar_mat avatar_mat_1',
-                                            a: {
-                                                'data-id': function (k) {
-                                                    return k.data.TalentMatt
-                                                }
-                                            }
-                                        },
-                                        {
-                                            div: [
-                                                {
-                                                    a: function (k) {
-                                                        return '/gi/monster/' + k.data.BossMat + '?level=93'
-                                                    },
-                                                    t: [
+                                                    div: [
                                                         {
-                                                            img: function (k) {
-                                                                return imgpre + "homdgcat-res/monster/" + k.data.Pics[1] + ".png"
+                                                            a: function (k) {
+                                                                return '/gi/monster/' + k.data.CommonMat + '?level=93'
                                                             },
-                                                            style: {
-                                                                'margin-right': '10px'
-                                                            }
+                                                            t: [
+                                                                {
+                                                                    img: function (k) {
+                                                                        var mat = k.data.Pics[0]
+                                                                        if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
+                                                                        return imgpre + "homdgcat-res/monster/" + mat + ".png"
+                                                                    },
+                                                                    style: {
+                                                                        'margin-right': '10px'
+                                                                    }
+                                                                },
+                                                            ],
+                                                            attr: { target: '_blank' },
+                                                            class: 'mat_a'
                                                         },
-                                                    ],
-                                                    when: function (k) {
-                                                        var mat = _MaterialConfig[k.data.AscMat]
-                                                        if (!mat) return false
-                                                        if (!mat.Icon) return false
-                                                        return true
-                                                    },
-                                                    attr: { target: '_blank' },
-                                                    class: 'mat_a'
-                                                },
-                                                {
-                                                    a: function (k) {
-                                                        return '/gi/item/' + k.data.AscMat + '?lang=' + lang3
-                                                    },
-                                                    t: {
-                                                        img: function (k) {
-                                                            var mat = _MaterialConfig[k.data.AscMat]
-                                                            if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
-                                                            if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
-                                                            return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
-                                                        },
-                                                        class: 'img_2'
-                                                    },
-                                                    attr: { target: '_blank' },
-                                                    class: 'mat_a'
-                                                },
-                                                {
-                                                    p: function (k) {
-                                                        var mat = _MaterialConfig[k.data.AscMat]
-                                                        if (!mat) return ""
-                                                        if (!mat.Text) return ""
-                                                        return mat.Text + '<br>x46'
-                                                    }
-                                                }
-                                            ],
-                                            class: 'avatar_mat avatar_mat_2',
-                                            a: {
-                                                'data-id': function (k) {
-                                                    return k.data.AscMat
-                                                }
-                                            }
-                                        },
-                                        {
-                                            div: [
-                                                {
-                                                    a: function (k) {
-                                                        if (k.data.WeeklyMat == 90201) return '/gi/monster/' + k.data.WeeklyMat + '?level=94'
-                                                        return '/gi/monster/' + k.data.WeeklyMat + '?level=90'
-                                                    },
-                                                    t: [
                                                         {
-                                                            img: function (k) {
-                                                                return imgpre + "homdgcat-res/monster/" + k.data.Pics[2] + ".png"
+                                                            a: function (k) {
+                                                                return '/gi/item/' + k.data.CommonMatt + '?lang=' + lang3
                                                             },
-                                                            style: {
-                                                                'margin-right': '10px'
+                                                            t: {
+                                                                img: function (k) {
+                                                                    var mat = _MaterialConfig[k.data.CommonMatt]
+                                                                    if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
+                                                                    if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
+                                                                    return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
+                                                                },
+                                                                class: 'img_2'
+                                                            },
+                                                            attr: { target: '_blank' },
+                                                            class: 'mat_a'
+                                                        },
+                                                        {
+                                                            p: function (k) {
+                                                                var mat = _MaterialConfig[k.data.CommonMatt]
+                                                                if (!mat) return ""
+                                                                if (!mat.Text) return ""
+                                                                return mat.Text + '<br>x36 / x96 / x129'
                                                             }
                                                         }
                                                     ],
-                                                    when: function (k) {
-                                                        var mat = _MaterialConfig[k.data.AscMat]
-                                                        if (!mat) return false
-                                                        if (!mat.Icon) return false
-                                                        return true
-                                                    },
-                                                    attr: { target: '_blank' },
-                                                    class: 'mat_a'
+                                                    class: 'avatar_mat'
                                                 },
                                                 {
-                                                    a: function (k) {
-                                                        return '/gi/item/' + k.data.WeekMat + '?lang=' + lang3
-                                                    },
-                                                    t: 
-                                                    {
-                                                        img: function (k) {
-                                                            var mat = _MaterialConfig[k.data.WeekMat]
-                                                            if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
-                                                            if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
-                                                            return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
+                                                    div: [
+                                                        {
+                                                            a: function (k) {
+                                                                return '/gi/item/' + k.data.SpecialityMat + '?lang=' + lang3
+                                                            },
+                                                            t: {
+                                                                img: function (k) {
+                                                                    var mat = _MaterialConfig[k.data.SpecialityMat]
+                                                                    if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
+                                                                    if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
+                                                                    return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
+                                                                },
+                                                            },
+                                                            attr: { target: '_blank' },
+                                                            class: 'mat_a'
                                                         },
-                                                        class: 'img_2'
-                                                    },
-                                                    attr: { target: '_blank' },
-                                                    class: 'mat_a'
+                                                        {
+                                                            p: function (k) {
+                                                                var mat = _MaterialConfig[k.data.SpecialityMat]
+                                                                if (!mat) return ""
+                                                                if (!mat.Text) return ""
+                                                                return mat.Text + '<br>x168'
+                                                            }
+                                                        }
+                                                    ],
+                                                    class: 'avatar_mat avatar_mat_1',
+                                                    a: {
+                                                        'data-id': function (k) {
+                                                            return k.data.SpecialityMat
+                                                        }
+                                                    }
                                                 },
                                                 {
-                                                    p: function (k) {
-                                                        var mat = _MaterialConfig[k.data.WeekMat]
-                                                        if (!mat) return ""
-                                                        if (!mat.Text) return ""
-                                                        return mat.Text + '<br>x18'
+                                                    div: [
+                                                        {
+                                                            a: function (k) {
+                                                                return '/gi/item/' + k.data.TalentMatt + '?lang=' + lang3
+                                                            },
+                                                            t: {
+                                                                img: function (k) {
+                                                                    var mat = _MaterialConfig[k.data.TalentMatt]
+                                                                    if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
+                                                                    if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
+                                                                    return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
+                                                                }
+                                                            },
+                                                            attr: { target: '_blank' },
+                                                            class: 'mat_a'
+                                                        },
+                                                        {
+                                                            p: function (k) {
+                                                                var mat = _MaterialConfig[k.data.TalentMatt]
+                                                                if (!mat) return ""
+                                                                if (!mat.Text) return ""
+                                                                return mat.Text.split("<br>")[0] + '<br>x9 / x63 / x114'
+                                                            }
+                                                        }
+                                                    ],
+                                                    class: 'avatar_mat avatar_mat_1',
+                                                    a: {
+                                                        'data-id': function (k) {
+                                                            return k.data.TalentMatt
+                                                        }
+                                                    }
+                                                },
+                                                {
+                                                    div: [
+                                                        {
+                                                            a: function (k) {
+                                                                return '/gi/monster/' + k.data.BossMat + '?level=93'
+                                                            },
+                                                            t: [
+                                                                {
+                                                                    img: function (k) {
+                                                                        return imgpre + "homdgcat-res/monster/" + k.data.Pics[1] + ".png"
+                                                                    },
+                                                                    style: {
+                                                                        'margin-right': '10px'
+                                                                    }
+                                                                },
+                                                            ],
+                                                            when: function (k) {
+                                                                var mat = _MaterialConfig[k.data.AscMat]
+                                                                if (!mat) return false
+                                                                if (!mat.Icon) return false
+                                                                return true
+                                                            },
+                                                            attr: { target: '_blank' },
+                                                            class: 'mat_a'
+                                                        },
+                                                        {
+                                                            a: function (k) {
+                                                                return '/gi/item/' + k.data.AscMat + '?lang=' + lang3
+                                                            },
+                                                            t: {
+                                                                img: function (k) {
+                                                                    var mat = _MaterialConfig[k.data.AscMat]
+                                                                    if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
+                                                                    if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
+                                                                    return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
+                                                                },
+                                                                class: 'img_2'
+                                                            },
+                                                            attr: { target: '_blank' },
+                                                            class: 'mat_a'
+                                                        },
+                                                        {
+                                                            p: function (k) {
+                                                                var mat = _MaterialConfig[k.data.AscMat]
+                                                                if (!mat) return ""
+                                                                if (!mat.Text) return ""
+                                                                return mat.Text + '<br>x46'
+                                                            }
+                                                        }
+                                                    ],
+                                                    class: 'avatar_mat avatar_mat_2',
+                                                    a: {
+                                                        'data-id': function (k) {
+                                                            return k.data.AscMat
+                                                        }
+                                                    }
+                                                },
+                                                {
+                                                    div: [
+                                                        {
+                                                            a: function (k) {
+                                                                if (k.data.WeeklyMat == 90201) return '/gi/monster/' + k.data.WeeklyMat + '?level=94'
+                                                                return '/gi/monster/' + k.data.WeeklyMat + '?level=90'
+                                                            },
+                                                            t: [
+                                                                {
+                                                                    img: function (k) {
+                                                                        return imgpre + "homdgcat-res/monster/" + k.data.Pics[2] + ".png"
+                                                                    },
+                                                                    style: {
+                                                                        'margin-right': '10px'
+                                                                    }
+                                                                }
+                                                            ],
+                                                            when: function (k) {
+                                                                var mat = _MaterialConfig[k.data.AscMat]
+                                                                if (!mat) return false
+                                                                if (!mat.Icon) return false
+                                                                return true
+                                                            },
+                                                            attr: { target: '_blank' },
+                                                            class: 'mat_a'
+                                                        },
+                                                        {
+                                                            a: function (k) {
+                                                                return '/gi/item/' + k.data.WeekMat + '?lang=' + lang3
+                                                            },
+                                                            t: 
+                                                            {
+                                                                img: function (k) {
+                                                                    var mat = _MaterialConfig[k.data.WeekMat]
+                                                                    if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
+                                                                    if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
+                                                                    return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
+                                                                },
+                                                                class: 'img_2'
+                                                            },
+                                                            attr: { target: '_blank' },
+                                                            class: 'mat_a'
+                                                        },
+                                                        {
+                                                            p: function (k) {
+                                                                var mat = _MaterialConfig[k.data.WeekMat]
+                                                                if (!mat) return ""
+                                                                if (!mat.Text) return ""
+                                                                return mat.Text + '<br>x18'
+                                                            }
+                                                        }
+                                                    ],
+                                                    class: 'avatar_mat avatar_mat_2',
+                                                    a: {
+                                                        'data-id': function (k) {
+                                                            return k.data.WeekMat
+                                                        }
                                                     }
                                                 }
                                             ],
-                                            class: 'avatar_mat avatar_mat_2',
-                                            a: {
-                                                'data-id': function (k) {
-                                                    return k.data.WeekMat
-                                                }
+                                            style: {
+                                                display: 'flex',
+                                                'justify-content': 'space-evenly',
+                                                'flex-wrap': 'wrap',
+                                                'margin-bottom': '0',
+                                                'margin-top': '20px'
                                             }
-                                        }
+                                        },
                                     ],
                                     class: 'a_section_content',
-                                    style: {
-                                        display: 'flex',
-                                        'justify-content': 'space-evenly',
-                                        'flex-wrap': 'wrap',
-                                        'margin-top': '30px'
-                                    }
                                 },
                             ],
                             class: 'a_section',
