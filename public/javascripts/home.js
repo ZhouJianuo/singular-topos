@@ -6,9 +6,10 @@ $(function() {
             cookie_lang = c.substring(c.indexOf('lang=') + 5, c.indexOf('lang=') + 7)
         }
     });
-    var AVAILABLE_LANG = ["CH", "EN", "RU", "JP", "KR", "DE", "FR", "SP", "PT"]
+    var AVAILABLE_LANG = ["CH", "EN", "RU", "JP", "KR", "DE", "FR", "SP", "PT", "ES"]
     var is_ru = 0
     var param_lang = $('#LANG').val().toUpperCase()
+    if (param_lang == "ES") param_lang = "SP"
     var store_lang = param_lang
     if (!AVAILABLE_LANG.includes(store_lang)) {
         store_lang = "EN"
