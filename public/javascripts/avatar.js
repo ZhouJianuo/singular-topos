@@ -964,39 +964,6 @@ $(function () {
                                                     div: [
                                                         {
                                                             a: function (k) {
-                                                                return '/gi/item/' + k.data.TalentMatt + '?lang=' + lang3
-                                                            },
-                                                            t: {
-                                                                img: function (k) {
-                                                                    var mat = _MaterialConfig[k.data.TalentMatt]
-                                                                    if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
-                                                                    if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
-                                                                    return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
-                                                                }
-                                                            },
-                                                            attr: { target: '_blank' },
-                                                            class: 'mat_a'
-                                                        },
-                                                        {
-                                                            p: function (k) {
-                                                                var mat = _MaterialConfig[k.data.TalentMatt]
-                                                                if (!mat) return ""
-                                                                if (!mat.Text) return ""
-                                                                return mat.Text.split("<br>")[0] + '<br>x9 / x63 / x114'
-                                                            }
-                                                        }
-                                                    ],
-                                                    class: 'avatar_mat avatar_mat_1',
-                                                    a: {
-                                                        'data-id': function (k) {
-                                                            return k.data.TalentMatt
-                                                        }
-                                                    }
-                                                },
-                                                {
-                                                    div: [
-                                                        {
-                                                            a: function (k) {
                                                                 return '/gi/monster/' + k.data.BossMat + '?level=93'
                                                             },
                                                             t: [
@@ -1047,6 +1014,39 @@ $(function () {
                                                     a: {
                                                         'data-id': function (k) {
                                                             return k.data.AscMat
+                                                        }
+                                                    }
+                                                },
+                                                {
+                                                    div: [
+                                                        {
+                                                            a: function (k) {
+                                                                return '/gi/item/' + k.data.TalentMatt + '?lang=' + lang3
+                                                            },
+                                                            t: {
+                                                                img: function (k) {
+                                                                    var mat = _MaterialConfig[k.data.TalentMatt]
+                                                                    if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
+                                                                    if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
+                                                                    return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
+                                                                }
+                                                            },
+                                                            attr: { target: '_blank' },
+                                                            class: 'mat_a'
+                                                        },
+                                                        {
+                                                            p: function (k) {
+                                                                var mat = _MaterialConfig[k.data.TalentMatt]
+                                                                if (!mat) return ""
+                                                                if (!mat.Text) return ""
+                                                                return mat.Text.split("<br>")[0] + '<br>x9 / x63 / x114'
+                                                            }
+                                                        }
+                                                    ],
+                                                    class: 'avatar_mat avatar_mat_1',
+                                                    a: {
+                                                        'data-id': function (k) {
+                                                            return k.data.TalentMatt
                                                         }
                                                     }
                                                 },
