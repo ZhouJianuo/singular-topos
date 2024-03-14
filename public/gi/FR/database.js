@@ -26148,7 +26148,7 @@ var _SpiralAbyssFloorConfig = {
                                 "Num": 1
                             },
                             {
-                                "ID": 60501,
+                                "ID": 60511,
                                 "Num": 1
                             }
                         ]
@@ -26171,11 +26171,19 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60403,
-                                "Num": 1
+                                "Num": 1,
+                                "Note": {
+                                    "Text": "Cryo",
+                                    "Color": "Ice"
+                                }
                             },
                             {
                                 "ID": 60404,
-                                "Num": 1
+                                "Num": 1,
+                                "Note": {
+                                    "Text": "Electro",
+                                    "Color": "Elec"
+                                }
                             }
                         ]
                     }
