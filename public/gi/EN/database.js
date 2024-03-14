@@ -26827,7 +26827,7 @@ var _SpiralAbyssFloorConfig = {
                             {
                                 "ID": 21001,
                                 "Note": {
-                                    "Text": "<color style='color:#FF0000;'>Pyro</color> <color style='color:#00B0F0;'>Cryo</color> <color style='color:#7030A0;'>Electro</color><br>Abyss Version"
+                                    "Text": "<color style='color:#FF0000;'>Pyro</color> <color style='color:#00B0F0;'>Cryo</color> <color style='color:#7030A0;'>Electro</color><br><color style='color:#FF0000;'>12</color> / <color style='color:#00B0F0;'>12</color> / <color style='color:#7030A0;'>8</color><br>Abyss Version"
                                 },
                                 "Num": 1,
                                 "Affix": [

@@ -26827,7 +26827,7 @@ var _SpiralAbyssFloorConfig = {
                             {
                                 "ID": 21001,
                                 "Note": {
-                                    "Text": "<color style='color:#FF0000;'>火</color> <color style='color:#00B0F0;'>冰</color> <color style='color:#7030A0;'>雷</color><br>深渊特化"
+                                    "Text": "<color style='color:#FF0000;'>火</color> <color style='color:#00B0F0;'>冰</color> <color style='color:#7030A0;'>雷</color><br><color style='color:#FF0000;'>12</color> / <color style='color:#00B0F0;'>12</color> / <color style='color:#7030A0;'>8</color><br>深渊特化"
                                 },
                                 "Num": 1,
                                 "Affix": [
