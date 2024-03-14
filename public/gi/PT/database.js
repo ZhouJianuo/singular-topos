@@ -615,6 +615,28 @@ var _SpiralAbyssSchedule = [
         ]
     },
     {
+        "Name": "4.6v1",
+        "Show": "4.6v1",
+        "Generation": 4,
+        "OpenTime": "2024/05/01 - 2024/06/15",
+        "Phases": [
+            86,
+            87,
+            88
+        ],
+        "Blessings": [
+            85,
+            86,
+            87
+        ],
+        "Floors": [
+            57,
+            58,
+            71,
+            72
+        ]
+    },
+    {
         "Name": "1",
         "Show": "Surprise 1",
         "Generation": 99,
@@ -1103,6 +1125,10 @@ var _SpiralAbyssDPSData = [
             {
                 "Ver": "4.5v4",
                 "DPS": 1721835
+            },
+            {
+                "Ver": "4.6v1",
+                "DPS": 1819982
             }
         ]
     },
@@ -1227,256 +1253,10 @@ var _SpiralAbyssDPSData = [
             {
                 "Ver": "4.5v4",
                 "DPS": 18078432
-            }
-        ]
-    },
-    {
-        "_id": 121,
-        "Chamber": "12-1",
-        "Title": "12-1 Full-Star DMG Trend",
-        "SubTitle": "HomDGCat Database - en.abyss.wiki / en.homdgcat.wiki",
-        "Color": "#00B050",
-        "Data": [
-            {
-                "Ver": "1.0-1.1",
-                "DPS": 901837
             },
             {
-                "Ver": "1.2",
-                "DPS": 1179326
-            },
-            {
-                "Ver": "1.3-1.4",
-                "DPS": 1109954
-            },
-            {
-                "Ver": "1.5",
-                "DPS": 1109954
-            },
-            {
-                "Ver": "1.6",
-                "DPS": 1109954
-            },
-            {
-                "Ver": "2.0",
-                "DPS": 1800578
-            },
-            {
-                "Ver": "2.1",
-                "DPS": 1425496
-            },
-            {
-                "Ver": "2.2",
-                "DPS": 1683957
-            },
-            {
-                "Ver": "2.3",
-                "DPS": 2135146
-            },
-            {
-                "Ver": "2.4",
-                "DPS": 2874415
-            },
-            {
-                "Ver": "2.5",
-                "DPS": 2430433
-            },
-            {
-                "Ver": "2.6",
-                "DPS": 1479883
-            },
-            {
-                "Ver": "2.7",
-                "DPS": 2081163
-            },
-            {
-                "Ver": "2.8",
-                "DPS": 1604752
-            },
-            {
-                "Ver": "3.0",
-                "DPS": 2180576
-            },
-            {
-                "Ver": "3.1",
-                "DPS": 1680860
-            },
-            {
-                "Ver": "3.2",
-                "DPS": 2930149
-            },
-            {
-                "Ver": "3.3",
-                "DPS": 3134578
-            },
-            {
-                "Ver": "3.4",
-                "DPS": 3146278
-            },
-            {
-                "Ver": "3.5",
-                "DPS": 1955536
-            },
-            {
-                "Ver": "3.6",
-                "DPS": 2930149
-            },
-            {
-                "Ver": "3.7",
-                "DPS": 1771245
-            },
-            {
-                "Ver": "3.8",
-                "DPS": 2804925
-            },
-            {
-                "Ver": "4.0",
-                "DPS": 2750302
-            },
-            {
-                "Ver": "4.1",
-                "DPS": 2978036
-            },
-            {
-                "Ver": "4.2",
-                "DPS": 3704894
-            },
-            {
-                "Ver": "4.3",
-                "DPS": 3747865
-            },
-            {
-                "Ver": "4.4",
-                "DPS": 3566150
-            },
-            {
-                "Ver": "4.5v4",
-                "DPS": 4043151
-            }
-        ]
-    },
-    {
-        "_id": 122,
-        "Chamber": "12-2",
-        "Title": "12-2 Full-Star DMG Trend",
-        "SubTitle": "HomDGCat Database - en.abyss.wiki / en.homdgcat.wiki",
-        "Color": "#FFC000",
-        "Data": [
-            {
-                "Ver": "1.0-1.1",
-                "DPS": 996393
-            },
-            {
-                "Ver": "1.2",
-                "DPS": 996393
-            },
-            {
-                "Ver": "1.3-1.4",
-                "DPS": 766456
-            },
-            {
-                "Ver": "1.5",
-                "DPS": 720468
-            },
-            {
-                "Ver": "1.6",
-                "DPS": 1456266
-            },
-            {
-                "Ver": "2.0",
-                "DPS": 2452659
-            },
-            {
-                "Ver": "2.1",
-                "DPS": 2305421
-            },
-            {
-                "Ver": "2.2",
-                "DPS": 2688648
-            },
-            {
-                "Ver": "2.3",
-                "DPS": 1716861
-            },
-            {
-                "Ver": "2.4",
-                "DPS": 2789899
-            },
-            {
-                "Ver": "2.5",
-                "DPS": 1925824
-            },
-            {
-                "Ver": "2.6",
-                "DPS": 950405
-            },
-            {
-                "Ver": "2.7",
-                "DPS": 2452659
-            },
-            {
-                "Ver": "2.8",
-                "DPS": 1767086
-            },
-            {
-                "Ver": "3.0",
-                "DPS": 3071876
-            },
-            {
-                "Ver": "3.1",
-                "DPS": 2434172
-            },
-            {
-                "Ver": "3.2",
-                "DPS": 3053390
-            },
-            {
-                "Ver": "3.3",
-                "DPS": 2240276
-            },
-            {
-                "Ver": "3.4",
-                "DPS": 2745597
-            },
-            {
-                "Ver": "3.5",
-                "DPS": 3335432
-            },
-            {
-                "Ver": "3.6",
-                "DPS": 3399039
-            },
-            {
-                "Ver": "3.7",
-                "DPS": 3605041
-            },
-            {
-                "Ver": "3.8",
-                "DPS": 3553541
-            },
-            {
-                "Ver": "4.0",
-                "DPS": 3193037
-            },
-            {
-                "Ver": "4.1",
-                "DPS": 3347538
-            },
-            {
-                "Ver": "4.2",
-                "DPS": 3682292
-            },
-            {
-                "Ver": "4.3",
-                "DPS": 3636567
-            },
-            {
-                "Ver": "4.4",
-                "DPS": 3090036
-            },
-            {
-                "Ver": "4.5v4",
-                "DPS": 3912229
+                "Ver": "4.6v1",
+                "DPS": 20660933
             }
         ]
     },
@@ -1602,6 +1382,268 @@ var _SpiralAbyssDPSData = [
             {
                 "Ver": "4.5v4",
                 "DPS": 4187321
+            },
+            {
+                "Ver": "4.6v1",
+                "DPS": 2990468
+            }
+        ]
+    },
+    {
+        "_id": 122,
+        "Chamber": "12-2",
+        "Title": "12-2 Full-Star DMG Trend",
+        "SubTitle": "HomDGCat Database - en.abyss.wiki / en.homdgcat.wiki",
+        "Color": "#FFC000",
+        "Data": [
+            {
+                "Ver": "1.0-1.1",
+                "DPS": 996393
+            },
+            {
+                "Ver": "1.2",
+                "DPS": 996393
+            },
+            {
+                "Ver": "1.3-1.4",
+                "DPS": 766456
+            },
+            {
+                "Ver": "1.5",
+                "DPS": 720468
+            },
+            {
+                "Ver": "1.6",
+                "DPS": 1456266
+            },
+            {
+                "Ver": "2.0",
+                "DPS": 2452659
+            },
+            {
+                "Ver": "2.1",
+                "DPS": 2305421
+            },
+            {
+                "Ver": "2.2",
+                "DPS": 2688648
+            },
+            {
+                "Ver": "2.3",
+                "DPS": 1716861
+            },
+            {
+                "Ver": "2.4",
+                "DPS": 2789899
+            },
+            {
+                "Ver": "2.5",
+                "DPS": 1925824
+            },
+            {
+                "Ver": "2.6",
+                "DPS": 950405
+            },
+            {
+                "Ver": "2.7",
+                "DPS": 2452659
+            },
+            {
+                "Ver": "2.8",
+                "DPS": 1767086
+            },
+            {
+                "Ver": "3.0",
+                "DPS": 3071876
+            },
+            {
+                "Ver": "3.1",
+                "DPS": 2434172
+            },
+            {
+                "Ver": "3.2",
+                "DPS": 3053390
+            },
+            {
+                "Ver": "3.3",
+                "DPS": 2240276
+            },
+            {
+                "Ver": "3.4",
+                "DPS": 2745597
+            },
+            {
+                "Ver": "3.5",
+                "DPS": 3335432
+            },
+            {
+                "Ver": "3.6",
+                "DPS": 3399039
+            },
+            {
+                "Ver": "3.7",
+                "DPS": 3605041
+            },
+            {
+                "Ver": "3.8",
+                "DPS": 3553541
+            },
+            {
+                "Ver": "4.0",
+                "DPS": 3193037
+            },
+            {
+                "Ver": "4.1",
+                "DPS": 3347538
+            },
+            {
+                "Ver": "4.2",
+                "DPS": 3682292
+            },
+            {
+                "Ver": "4.3",
+                "DPS": 3636567
+            },
+            {
+                "Ver": "4.4",
+                "DPS": 3090036
+            },
+            {
+                "Ver": "4.5v4",
+                "DPS": 3912229
+            },
+            {
+                "Ver": "4.6v1",
+                "DPS": 3062535
+            }
+        ]
+    },
+    {
+        "_id": 121,
+        "Chamber": "12-1",
+        "Title": "12-1 Full-Star DMG Trend",
+        "SubTitle": "HomDGCat Database - en.abyss.wiki / en.homdgcat.wiki",
+        "Color": "#00B050",
+        "Data": [
+            {
+                "Ver": "1.0-1.1",
+                "DPS": 901837
+            },
+            {
+                "Ver": "1.2",
+                "DPS": 1179326
+            },
+            {
+                "Ver": "1.3-1.4",
+                "DPS": 1109954
+            },
+            {
+                "Ver": "1.5",
+                "DPS": 1109954
+            },
+            {
+                "Ver": "1.6",
+                "DPS": 1109954
+            },
+            {
+                "Ver": "2.0",
+                "DPS": 1800578
+            },
+            {
+                "Ver": "2.1",
+                "DPS": 1425496
+            },
+            {
+                "Ver": "2.2",
+                "DPS": 1683957
+            },
+            {
+                "Ver": "2.3",
+                "DPS": 2135146
+            },
+            {
+                "Ver": "2.4",
+                "DPS": 2874415
+            },
+            {
+                "Ver": "2.5",
+                "DPS": 2430433
+            },
+            {
+                "Ver": "2.6",
+                "DPS": 1479883
+            },
+            {
+                "Ver": "2.7",
+                "DPS": 2081163
+            },
+            {
+                "Ver": "2.8",
+                "DPS": 1604752
+            },
+            {
+                "Ver": "3.0",
+                "DPS": 2180576
+            },
+            {
+                "Ver": "3.1",
+                "DPS": 1680860
+            },
+            {
+                "Ver": "3.2",
+                "DPS": 2930149
+            },
+            {
+                "Ver": "3.3",
+                "DPS": 3134578
+            },
+            {
+                "Ver": "3.4",
+                "DPS": 3146278
+            },
+            {
+                "Ver": "3.5",
+                "DPS": 1955536
+            },
+            {
+                "Ver": "3.6",
+                "DPS": 2930149
+            },
+            {
+                "Ver": "3.7",
+                "DPS": 1771245
+            },
+            {
+                "Ver": "3.8",
+                "DPS": 2804925
+            },
+            {
+                "Ver": "4.0",
+                "DPS": 2750302
+            },
+            {
+                "Ver": "4.1",
+                "DPS": 2978036
+            },
+            {
+                "Ver": "4.2",
+                "DPS": 3704894
+            },
+            {
+                "Ver": "4.3",
+                "DPS": 3747865
+            },
+            {
+                "Ver": "4.4",
+                "DPS": 3566150
+            },
+            {
+                "Ver": "4.5v4",
+                "DPS": 4043151
+            },
+            {
+                "Ver": "4.6v1",
+                "DPS": 3835673
             }
         ]
     }
@@ -2191,6 +2233,18 @@ var _SpiralAbyssBlessingConfig = {
     "84": {
         "Name": "Arrowgale Moon",
         "Desc": "When a character triggers the Swirl reaction, all party members' <color style='color:#0000FF;'>Normal, Charged and Plunge Attack DMG is increased by 20%</color> for 10s, max 3 stacks.<br>This effect can be triggered once every 0.1s and each stack is timed independently."
+    },
+    "85": {
+        "Name": "Flame-Fanning Moon",
+        "Desc": "When a character triggers Vaporize, Overloaded, Melt, Burning, Burgeon, Pyro Swirl, or Pyro Crystallize reactions on an opponent, the opponent's <color style='color:#0000FF;'>All Elemental RES and Physical RES is reduced by 30%</color> for 4s."
+    },
+    "86": {
+        "Name": "Valorous Moon",
+        "Desc": "When a character receives healing, the character's <color style='color:#0000FF;'>ATK increases by 50%</color> for 3s."
+    },
+    "87": {
+        "Name": "Tactical Moon",
+        "Desc": "When a character's HP value increases or decreases, that character <color style='color:#0000FF;'>gains a 16% increased All Elemental and Physical DMG Bonus</color> for 8s.<br>This effect can stack up to 3 times, and the duration of each stack is counted independently."
     },
     "1001": {
         "Name": "Precipitant Moon",
@@ -2913,9 +2967,9 @@ var _SpiralAbyssAffixDescConfig = {
     "5002": {
         "Show": {
             "Color": "Grey",
-            "Text": " (Defense Enhance)"
+            "Text": " (Double Shield)"
         },
-        "Hover": "<b>Abyss Mage</b><br>- Shield durability doubles.<br>- When a character attacks its shield, applies its element on the character."
+        "Hover": "<b>Abyss Mage</b><br>- Shield durability doubles. (Pyro Cryo Hydro 24, Electro 16)<br>- When a character attacks its shield, applies its element on the character."
     },
     "5003": {
         "Show": {
@@ -25848,6 +25902,929 @@ var _SpiralAbyssFloorConfig = {
                                     "Text": "Local Legend"
                                 },
                                 "Name": "Verified Type Aur001",
+                                "Pos": [
+                                    [
+                                        0,
+                                        0
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "71": {
+        "Disorder": "All party members receive a 75% Pyro DMG Bonus.",
+        "ShowVers": [
+            1
+        ],
+        "Chambers": [
+            {
+                "Name": "11-1",
+                "Level": 88,
+                "GoalType": 0,
+                "GoalParam": 1,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        31
+                    ]
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 10206,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 10305,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 10114,
+                                "Num": 2
+                            },
+                            {
+                                "ID": 10110,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 10105,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 10206,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 10305,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 10114,
+                                "Num": 2
+                            },
+                            {
+                                "ID": 10105,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 10109,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 3,
+                        "Monsters": [
+                            {
+                                "ID": 10206,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 10305,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 10114,
+                                "Num": 2
+                            },
+                            {
+                                "ID": 10109,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 10110,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 4,
+                        "Monsters": [
+                            {
+                                "ID": 10206,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 10305,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 10114,
+                                "Num": 2
+                            },
+                            {
+                                "ID": 10110,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 10105,
+                                "Num": 1
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 61201,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 61203,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 61202,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 61204,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 53101,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 53102,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 53103,
+                                "Num": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "11-2",
+                "Level": 90,
+                "GoalType": 0,
+                "GoalParam": 1,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 50801,
+                                "Num": 3
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 60509,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 60510,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 60501,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 3,
+                        "Monsters": [
+                            {
+                                "ID": 40204,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 40202,
+                                "Num": 2
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 4,
+                        "Monsters": [
+                            {
+                                "ID": 60403,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 60404,
+                                "Num": 1
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 113,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 109,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 106,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 107,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 60102,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 60101,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 60103,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 3,
+                        "Monsters": [
+                            {
+                                "ID": 606,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 604,
+                                "Num": 2
+                            },
+                            {
+                                "ID": 605,
+                                "Num": 2
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 4,
+                        "Monsters": [
+                            {
+                                "ID": 61601,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 61602,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 61603,
+                                "Num": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "11-3",
+                "Level": 92,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        19
+                    ]
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 20102,
+                                "Num": 1,
+                                "Affix": [
+                                    5002
+                                ],
+                                "Note": {
+                                    "Text": "Double Shield"
+                                }
+                            },
+                            {
+                                "ID": 10106,
+                                "Num": 4
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 10206,
+                                "Num": 3
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 3,
+                        "Monsters": [
+                            {
+                                "ID": 10204,
+                                "Num": 2
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 10401,
+                                "Num": 2,
+                                "Affix": [
+                                    4186
+                                ],
+                                "Note": {
+                                    "Text": "Abyss Rogue"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 40102,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 3,
+                        "Monsters": [
+                            {
+                                "ID": 40301,
+                                "Num": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "72": {
+        "Disorder": "For this floor only, the ley line flow will be normal.",
+        "ShowVers": [
+            1
+        ],
+        "Chambers": [
+            {
+                "Name": "12-1",
+                "Level": 95,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "Center": -10,
+                "Upper": [
+                    {
+                        "WaveDesc": 50905,
+                        "Monsters": [
+                            {
+                                "ID": 50902,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        0,
+                                        -4
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 50903,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        0,
+                                        4
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 50904,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        2,
+                                        0
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 51001,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        0,
+                                        -3
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 51002,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        0,
+                                        3
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 30501,
+                                "Num": 1,
+                                "Affix": [
+                                    6106
+                                ],
+                                "Note": {
+                                    "Text": "Mist Bubbles",
+                                    "Color": "Water"
+                                },
+                                "Pos": [
+                                    [
+                                        4,
+                                        0
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 30106,
+                                "Num": 2,
+                                "Pos": [
+                                    [
+                                        2,
+                                        4
+                                    ],
+                                    [
+                                        2,
+                                        -4
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 3,
+                        "Monsters": [
+                            {
+                                "ID": 30605,
+                                "Num": 1,
+                                "Name": "Rimesword Servant: Anna",
+                                "Note": {
+                                    "Text": "Local Legend"
+                                },
+                                "Pos": [
+                                    [
+                                        6,
+                                        3
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 30606,
+                                "Num": 1,
+                                "Name": "Gale-Lily Servant: Zivanka",
+                                "Note": {
+                                    "Text": "Local Legend"
+                                },
+                                "Pos": [
+                                    [
+                                        6,
+                                        -3
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "12-2",
+                "Level": 98,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "Center": -10,
+                "Upper": [
+                    {
+                        "WaveDesc": 60507,
+                        "Monsters": [
+                            {
+                                "ID": 60507,
+                                "Num": 1,
+                                "Affix": [
+                                    5147
+                                ],
+                                "Note": {
+                                    "Text": "Reviving"
+                                },
+                                "Pos": [
+                                    [
+                                        0,
+                                        -6
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 60508,
+                                "Num": 1,
+                                "Affix": [
+                                    5147
+                                ],
+                                "Note": {
+                                    "Text": "Reviving"
+                                },
+                                "Pos": [
+                                    [
+                                        0,
+                                        6
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 30201,
+                                "Num": 3,
+                                "Pos": [
+                                    [
+                                        -5,
+                                        4
+                                    ],
+                                    [
+                                        -5,
+                                        0
+                                    ],
+                                    [
+                                        -5,
+                                        -4
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 54101,
+                                "Num": 1,
+                                "Affix": [
+                                    5271
+                                ],
+                                "Note": {
+                                    "Text": "Abyss Version"
+                                },
+                                "Pos": [
+                                    [
+                                        0,
+                                        4
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 54102,
+                                "Num": 1,
+                                "Affix": [
+                                    5271
+                                ],
+                                "Note": {
+                                    "Text": "Abyss Version"
+                                },
+                                "Pos": [
+                                    [
+                                        0,
+                                        -4
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 3,
+                        "Monsters": [
+                            {
+                                "ID": 20301,
+                                "Num": 2,
+                                "Pos": [
+                                    [
+                                        6,
+                                        5
+                                    ],
+                                    [
+                                        6,
+                                        -5
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "12-3",
+                "Level": 100,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        19
+                    ]
+                },
+                "Center": -10,
+                "Upper": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 20102,
+                                "Note": {
+                                    "Text": "Attack Enhance<br><color style='color:#00B0F0;'>Ice Cage</color>"
+                                },
+                                "Num": 1,
+                                "Affix": [
+                                    5001,
+                                    6101
+                                ],
+                                "Pos": [
+                                    [
+                                        -2,
+                                        -2
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 20102,
+                                "Note": {
+                                    "Text": "Double Shield<br><color style='color:#00B0F0;'>Condensed Ice</color>"
+                                },
+                                "Num": 1,
+                                "Affix": [
+                                    5002,
+                                    1029
+                                ],
+                                "Pos": [
+                                    [
+                                        -2,
+                                        2
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 30501,
+                                "Num": 1,
+                                "Affix": [
+                                    6106
+                                ],
+                                "Note": {
+                                    "Text": "Mist Bubbles",
+                                    "Color": "Water"
+                                },
+                                "Pos": [
+                                    [
+                                        4,
+                                        0
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 30101,
+                                "Num": 2,
+                                "Pos": [
+                                    [
+                                        2,
+                                        4
+                                    ],
+                                    [
+                                        2,
+                                        -4
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 3,
+                        "Monsters": [
+                            {
+                                "ID": 20202,
+                                "Num": 2,
+                                "Pos": [
+                                    [
+                                        -10,
+                                        -3
+                                    ],
+                                    [
+                                        -10,
+                                        3
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 21005,
+                        "Monsters": [
+                            {
+                                "ID": 21001,
+                                "Note": {
+                                    "Text": "<color style='color:#FF0000;'>Pyro</color> <color style='color:#00B0F0;'>Cryo</color> <color style='color:#7030A0;'>Electro</color><br>Abyss Version"
+                                },
+                                "Num": 1,
+                                "Affix": [
+                                    5282
+                                ],
                                 "Pos": [
                                     [
                                         0,
