@@ -26236,11 +26236,11 @@ var _SpiralAbyssFloorConfig = {
                             },
                             {
                                 "ID": 604,
-                                "Num": 2
+                                "Num": 1
                             },
                             {
                                 "ID": 605,
-                                "Num": 2
+                                "Num": 1
                             }
                         ]
                     },
