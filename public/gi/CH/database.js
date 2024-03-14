@@ -620,9 +620,9 @@ var _SpiralAbyssSchedule = [
         "Generation": 4,
         "OpenTime": "2024/05/01 - 2024/06/15",
         "Phases": [
-            86,
-            87,
-            88
+            89,
+            90,
+            91
         ],
         "Blessings": [
             85,
