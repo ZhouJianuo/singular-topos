@@ -1541,7 +1541,6 @@ $(function () {
             $('.a_select').hide()
             $('.generation').hide()
             $('.schedule').hide()
-            $('.p_h').show()
             $('.p_b').show()
             if ($('#_H_').val() != '1') $('.p_b').css('margin-top', '30px')
             if ($('#_H_').val() == '1') $('.p_b').css('margin-top', '25px')
