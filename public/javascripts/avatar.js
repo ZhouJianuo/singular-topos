@@ -809,20 +809,14 @@ $(function () {
                                                 'margin': '10px 0',
                                                 'text-align': 'center'
                                             }
-                                        }
-                                    ],
-                                    class: 'a_section_content',
-                                    style: {
-                                        'overflow': 'hidden'
-                                    }
-                                },
-                            ],
-                            class: 'a_section'
-                        },
-                        {
-                            div: [
-                                {
-                                    div: [
+                                        },
+                                        {
+                                            hr: '',
+                                            style: {
+                                                'margin-top': '15px',
+                                                'margin-bottom': '12px'
+                                            }
+                                        },
                                         {
                                             div: [
                                                 {
@@ -1120,9 +1114,12 @@ $(function () {
                                         },
                                     ],
                                     class: 'a_section_content',
+                                    style: {
+                                        'overflow': 'hidden'
+                                    }
                                 },
                             ],
-                            class: 'a_section',
+                            class: 'a_section'
                         },
                         {
                             div: [
