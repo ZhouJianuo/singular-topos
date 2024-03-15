@@ -1859,7 +1859,8 @@ $(function () {
     function w(s) {
         var ret = s
         if (ret.substring(ret.length - 2) == ": ") ret = ret.substring(0, ret.length - 2)
-        ret = ret.replace("：", "").replace("> ", "").replace(">「", "「")
+        if (ret.substring(ret.length - 1) == "：") ret = ret.substring(0, ret.length - 1)
+        ret = ret.replace("> ", "").replace(">「", "「")
         return ret
     }
 
