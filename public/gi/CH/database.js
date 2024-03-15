@@ -593,8 +593,8 @@ var _SpiralAbyssSchedule = [
         ]
     },
     {
-        "Name": "4.5v4",
-        "Show": "4.5v4",
+        "Name": "4.5",
+        "Show": "4.5",
         "Generation": 4,
         "OpenTime": "2024/03/16 - 2024/04/30",
         "Phases": [
@@ -24985,7 +24985,8 @@ var _SpiralAbyssFloorConfig = {
             1,
             2,
             3,
-            4
+            4,
+            0
         ],
         "Chambers": [
             {
@@ -25209,6 +25210,12 @@ var _SpiralAbyssFloorConfig = {
                 "Lower": [
                     {
                         "WaveDesc": 1,
+                        "Vers": [
+                            1,
+                            2,
+                            3,
+                            4
+                        ],
                         "Monsters": [
                             {
                                 "ID": 61201,
@@ -25253,7 +25260,61 @@ var _SpiralAbyssFloorConfig = {
                         ]
                     },
                     {
+                        "WaveDesc": 1,
+                        "Vers": [
+                            0
+                        ],
+                        "Monsters": [
+                            {
+                                "ID": 61201,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        10,
+                                        -4
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 61203,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        8,
+                                        0
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 61202,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        10,
+                                        4
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 61204,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        12,
+                                        0
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
                         "WaveDesc": 2,
+                        "Vers": [
+                            1,
+                            2,
+                            3,
+                            4
+                        ],
                         "Monsters": [
                             {
                                 "ID": 61601,
@@ -25272,6 +25333,44 @@ var _SpiralAbyssFloorConfig = {
                                     [
                                         -8,
                                         -4
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 61603,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        -10,
+                                        0
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Vers": [
+                            0
+                        ],
+                        "Monsters": [
+                            {
+                                "ID": 61601,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        -8,
+                                        -4
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 61602,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        -8,
+                                        4
                                     ]
                                 ]
                             },
@@ -25526,7 +25625,8 @@ var _SpiralAbyssFloorConfig = {
             1,
             2,
             3,
-            4
+            4,
+            0
         ],
         "Chambers": [
             {
@@ -25692,6 +25792,12 @@ var _SpiralAbyssFloorConfig = {
                 "Upper": [
                     {
                         "WaveDesc": 1,
+                        "Vers": [
+                            1,
+                            2,
+                            3,
+                            4
+                        ],
                         "Monsters": [
                             {
                                 "ID": 607,
@@ -25731,6 +25837,56 @@ var _SpiralAbyssFloorConfig = {
                                     ],
                                     [
                                         -4,
+                                        6
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 1,
+                        "Vers": [
+                            0
+                        ],
+                        "Monsters": [
+                            {
+                                "ID": 607,
+                                "Num": 2,
+                                "Pos": [
+                                    [
+                                        -4,
+                                        0
+                                    ],
+                                    [
+                                        2,
+                                        0
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 606,
+                                "Num": 2,
+                                "Pos": [
+                                    [
+                                        -4,
+                                        -6
+                                    ],
+                                    [
+                                        -4,
+                                        6
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 605,
+                                "Num": 2,
+                                "Pos": [
+                                    [
+                                        2,
+                                        -6
+                                    ],
+                                    [
+                                        2,
                                         6
                                     ]
                                 ]

@@ -967,136 +967,7 @@ var _Kingdoms = [
     },
     {
         "ID": 23,
-        "Name": "4.4 F11",
-        "Disorder": "All party members receive a 75% Anemo DMG Bonus.",
-        "Classes": [
-            {
-                "ID": 12111,
-                "Name": "11-1 Upper",
-                "Interval": "11-1",
-                "Monsters": [
-                    10202,
-                    10102,
-                    10107
-                ]
-            },
-            {
-                "ID": 12112,
-                "Name": "11-1 Lower",
-                "Interval": "11-1",
-                "Monsters": [
-                    112,
-                    110,
-                    105,
-                    108
-                ]
-            },
-            {
-                "ID": 12121,
-                "Name": "11-2 Upper",
-                "Interval": "11-2",
-                "Monsters": [
-                    60402,
-                    60404,
-                    60506
-                ]
-            },
-            {
-                "ID": 12122,
-                "Name": "11-2 Lower",
-                "Interval": "11-2",
-                "Monsters": [
-                    20101,
-                    20102,
-                    113,
-                    111
-                ]
-            },
-            {
-                "ID": 12131,
-                "Name": "11-3 Upper",
-                "Interval": "11-3",
-                "Monsters": [
-                    40301
-                ]
-            },
-            {
-                "ID": 12132,
-                "Name": "11-3 Lower",
-                "Interval": "11-3",
-                "Monsters": [
-                    30501,
-                    50103,
-                    50104,
-                    50105,
-                    50106
-                ]
-            }
-        ]
-    },
-    {
-        "ID": 25,
-        "Name": "4.4 F12",
-        "Disorder": "For this floor only, the ley line flow will be normal.",
-        "Classes": [
-            {
-                "ID": 12211,
-                "Name": "12-1 Upper",
-                "Interval": "12-1",
-                "Monsters": [
-                    40612,
-                    21103
-                ]
-            },
-            {
-                "ID": 12212,
-                "Name": "12-1 Lower",
-                "Interval": "12-1",
-                "Monsters": [
-                    40104
-                ]
-            },
-            {
-                "ID": 12221,
-                "Name": "12-2 Upper",
-                "Interval": "12-2",
-                "Monsters": [
-                    54101,
-                    54102,
-                    54104,
-                    54103
-                ]
-            },
-            {
-                "ID": 12222,
-                "Name": "12-2 Lower",
-                "Interval": "12-2",
-                "Monsters": [
-                    61301
-                ]
-            },
-            {
-                "ID": 12231,
-                "Name": "12-3 Upper",
-                "Interval": "12-3",
-                "Monsters": [
-                    40608,
-                    40609
-                ]
-            },
-            {
-                "ID": 12232,
-                "Name": "12-3 Lower",
-                "Interval": "12-3",
-                "Monsters": [
-                    40303
-                ]
-            }
-        ]
-    },
-    {
-        "ID": 19,
-        "Name": "<b>4.5 F11</b>",
+        "Name": "4.5 F11",
         "Disorder": "All party members receive a 75% Geo DMG Bonus.",
         "Classes": [
             {
@@ -1165,8 +1036,8 @@ var _Kingdoms = [
         ]
     },
     {
-        "ID": 21,
-        "Name": "<b>4.5 F12</b>",
+        "ID": 25,
+        "Name": "4.5 F12",
         "Disorder": "For this floor only, the ley line flow will be normal.",
         "Classes": [
             {
@@ -1225,6 +1096,167 @@ var _Kingdoms = [
                 "Interval": "12-3",
                 "Monsters": [
                     40632
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 19,
+        "Name": "<b>4.6 F11</b>",
+        "Disorder": "All party members receive a 75% Pyro DMG Bonus.",
+        "Classes": [
+            {
+                "ID": 12111,
+                "Name": "11-1 Upper",
+                "Interval": "11-1",
+                "Monsters": [
+                    10206,
+                    10305,
+                    10114,
+                    10105,
+                    10109,
+                    10110
+                ]
+            },
+            {
+                "ID": 12112,
+                "Name": "11-1 Lower",
+                "Interval": "11-1",
+                "Monsters": [
+                    61201,
+                    61203,
+                    61202,
+                    61204,
+                    53101,
+                    53102,
+                    53103
+                ]
+            },
+            {
+                "ID": 12121,
+                "Name": "11-2 Upper",
+                "Interval": "11-2",
+                "Monsters": [
+                    50801,
+                    60509,
+                    60510,
+                    60511,
+                    40204,
+                    40202,
+                    60403,
+                    60404
+                ]
+            },
+            {
+                "ID": 12122,
+                "Name": "11-2 Lower",
+                "Interval": "11-2",
+                "Monsters": [
+                    113,
+                    109,
+                    106,
+                    107,
+                    60102,
+                    60101,
+                    60103,
+                    606,
+                    604,
+                    605,
+                    61601,
+                    61602,
+                    61603
+                ]
+            },
+            {
+                "ID": 12131,
+                "Name": "11-3 Upper",
+                "Interval": "11-3",
+                "Monsters": [
+                    20102,
+                    10106,
+                    10206,
+                    10204
+                ]
+            },
+            {
+                "ID": 12132,
+                "Name": "11-3 Lower",
+                "Interval": "11-3",
+                "Monsters": [
+                    10401,
+                    40102,
+                    40301
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 21,
+        "Name": "<b>4.6 F12</b>",
+        "Disorder": "For this floor only, the ley line flow will be normal.",
+        "Classes": [
+            {
+                "ID": 12211,
+                "Name": "12-1 Upper",
+                "Interval": "12-1",
+                "Monsters": [
+                    50902,
+                    50903,
+                    50904
+                ]
+            },
+            {
+                "ID": 12212,
+                "Name": "12-1 Lower",
+                "Interval": "12-1",
+                "Monsters": [
+                    51001,
+                    51002,
+                    30501,
+                    30106,
+                    30605,
+                    30606
+                ]
+            },
+            {
+                "ID": 12221,
+                "Name": "12-2 Upper",
+                "Interval": "12-2",
+                "Monsters": [
+                    60507,
+                    60508
+                ]
+            },
+            {
+                "ID": 12222,
+                "Name": "12-2 Lower",
+                "Interval": "12-2",
+                "Monsters": [
+                    30201,
+                    54101,
+                    54102,
+                    51101,
+                    51102,
+                    20301
+                ]
+            },
+            {
+                "ID": 12231,
+                "Name": "12-3 Upper",
+                "Interval": "12-3",
+                "Monsters": [
+                    20102,
+                    30501,
+                    30101,
+                    20202
+                ]
+            },
+            {
+                "ID": 12232,
+                "Name": "12-3 Lower",
+                "Interval": "12-3",
+                "Monsters": [
+                    21001
                 ]
             }
         ]
