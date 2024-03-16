@@ -263,7 +263,7 @@ $(function() {
                 renderAbout();
                 break;
         }
-        $('h3 .lang').html(txt.Home_Lang[GAME][lang2])
+        $('h3 .lang').html(txt.Home_Lang)
     })
 
     $('body').on('click', '.didyouknow', function() {

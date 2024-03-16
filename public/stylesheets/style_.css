@@ -625,6 +625,8 @@ h3 {
 
 h3 .tlsub {
     line-height: 1.7;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 @media screen and (min-width: 500px) and (max-width: 800px) {
