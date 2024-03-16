@@ -1005,6 +1005,29 @@ $(function () {
                     div: [
                         {
                             div: {
+                                p: this_avatar.ISN ? this_avatar.ISN : ''
+                            },
+                            class: 'a_section_head',
+                            style: {
+                                'text-align': 'center',
+                                'padding-top': '6px',
+                                color: "#" + elemcolor[this_avatar.Element],
+                            }
+                        },
+                        {
+                            div: {
+                                p: this_avatar.ISD ? this_avatar.ISD : ''
+                            },
+                            class: 'a_section_content',
+                        }
+                    ],
+                    class: 'a_section',
+                    when: this_avatar.ISN.length || this_avatar.ISD.length 
+                },
+                {
+                    div: [
+                        {
+                            div: {
                                 p: txt.Avatar_CV[lang],
                             },
                             class: 'a_section_head',

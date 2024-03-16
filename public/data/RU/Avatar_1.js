@@ -48,7 +48,9 @@ var _avatar = [
             "",
             ""
         ],
-        "Camp": 0
+        "Camp": 0,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1304,
@@ -96,7 +98,9 @@ var _avatar = [
             "",
             ""
         ],
-        "Camp": 0
+        "Camp": 0,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1308,
@@ -149,6 +153,8 @@ var _avatar = [
             ""
         ],
         "Camp": 0,
+        "ISN": "",
+        "ISD": "",
         "Data": [
             "Trace #3 [Thunder Core]'s additional DMG does not damage Toughness."
         ]
@@ -199,7 +205,9 @@ var _avatar = [
             "上田麗奈",
             "성예원"
         ],
-        "Camp": 110
+        "Camp": 110,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1307,
@@ -247,7 +255,9 @@ var _avatar = [
             "生天目仁美",
             "김하영"
         ],
-        "Camp": 109
+        "Camp": 109,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1312,
@@ -295,7 +305,9 @@ var _avatar = [
             "松井恵理子",
             "박신희"
         ],
-        "Camp": 108
+        "Camp": 108,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1214,
@@ -343,7 +355,9 @@ var _avatar = [
             "河瀬茉希",
             "박리나"
         ],
-        "Camp": 104
+        "Camp": 104,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1303,
@@ -391,7 +405,9 @@ var _avatar = [
             "大西沙織",
             "윤여진"
         ],
-        "Camp": 102
+        "Camp": 102,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1305,
@@ -439,7 +455,9 @@ var _avatar = [
             "武内駿輔",
             "이동훈"
         ],
-        "Camp": 107
+        "Camp": 107,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1215,
@@ -487,7 +505,9 @@ var _avatar = [
             "鈴代紗弓",
             "윤은서"
         ],
-        "Camp": 104
+        "Camp": 104,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1217,
@@ -535,7 +555,9 @@ var _avatar = [
             "長縄まりあ&平林剛",
             "김채린&한복현"
         ],
-        "Camp": 104
+        "Camp": 104,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1302,
@@ -584,7 +606,9 @@ var _avatar = [
             "立花慎之介",
             "최승훈"
         ],
-        "Camp": 106
+        "Camp": 106,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1112,
@@ -632,7 +656,9 @@ var _avatar = [
             "南條愛乃",
             "방시우"
         ],
-        "Camp": 105
+        "Camp": 105,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1210,
@@ -680,7 +706,9 @@ var _avatar = [
             "直田姫奈",
             "김수영"
         ],
-        "Camp": 104
+        "Camp": 104,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1212,
@@ -729,7 +757,9 @@ var _avatar = [
             "桑島法子",
             "박이서"
         ],
-        "Camp": 104
+        "Camp": 104,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1110,
@@ -777,7 +807,9 @@ var _avatar = [
             "照井春佳",
             "이은조"
         ],
-        "Camp": 103
+        "Camp": 103,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1208,
@@ -825,7 +857,9 @@ var _avatar = [
             "伊藤美来",
             "이지현"
         ],
-        "Camp": 104
+        "Camp": 104,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1213,
@@ -877,7 +911,9 @@ var _avatar = [
             "伊東健人",
             "김혜성"
         ],
-        "Camp": 104
+        "Camp": 104,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1005,
@@ -925,7 +961,9 @@ var _avatar = [
             "伊藤静",
             "사문영"
         ],
-        "Camp": 101
+        "Camp": 101,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1111,
@@ -974,7 +1012,9 @@ var _avatar = [
             "梶原岳人",
             "이주승"
         ],
-        "Camp": 103
+        "Camp": 103,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1205,
@@ -1023,7 +1063,9 @@ var _avatar = [
             "三木眞一郎",
             "곽윤상"
         ],
-        "Camp": 101
+        "Camp": 101,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1006,
@@ -1071,7 +1113,9 @@ var _avatar = [
             "阿澄佳奈",
             "장미"
         ],
-        "Camp": 101
+        "Camp": 101,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1203,
@@ -1119,7 +1163,9 @@ var _avatar = [
             "石田彰",
             "신용우"
         ],
-        "Camp": 104
+        "Camp": 104,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1207,
@@ -1167,7 +1213,9 @@ var _avatar = [
             "冬馬由美",
             "전숙경"
         ],
-        "Camp": 104
+        "Camp": 104,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1001,
@@ -1215,7 +1263,9 @@ var _avatar = [
             "小倉唯",
             "정혜원"
         ],
-        "Camp": 100
+        "Camp": 100,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1002,
@@ -1263,7 +1313,9 @@ var _avatar = [
             "伊東健人",
             "김혜성"
         ],
-        "Camp": 100
+        "Camp": 100,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1003,
@@ -1311,7 +1363,9 @@ var _avatar = [
             "田中理恵",
             "김보나"
         ],
-        "Camp": 100
+        "Camp": 100,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1004,
@@ -1359,7 +1413,9 @@ var _avatar = [
             "細谷佳正",
             "한신"
         ],
-        "Camp": 100
+        "Camp": 100,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1008,
@@ -1407,7 +1463,9 @@ var _avatar = [
             "白石涼子",
             "김율"
         ],
-        "Camp": 102
+        "Camp": 102,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1009,
@@ -1455,7 +1513,9 @@ var _avatar = [
             "赤﨑千夏",
             "김현지"
         ],
-        "Camp": 102
+        "Camp": 102,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1013,
@@ -1503,7 +1563,9 @@ var _avatar = [
             "山崎はるか",
             "김서영"
         ],
-        "Camp": 102
+        "Camp": 102,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1101,
@@ -1551,7 +1613,9 @@ var _avatar = [
             "阿澄佳奈",
             "이보희"
         ],
-        "Camp": 103
+        "Camp": 103,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1102,
@@ -1599,7 +1663,9 @@ var _avatar = [
             "中原麻衣",
             "송하림"
         ],
-        "Camp": 103
+        "Camp": 103,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1103,
@@ -1647,7 +1713,9 @@ var _avatar = [
             "愛美",
             "민아"
         ],
-        "Camp": 103
+        "Camp": 103,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1104,
@@ -1695,7 +1763,9 @@ var _avatar = [
             "古川慎",
             "민승우"
         ],
-        "Camp": 103
+        "Camp": 103,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1105,
@@ -1743,7 +1813,9 @@ var _avatar = [
             "内山夕実",
             "강은애"
         ],
-        "Camp": 103
+        "Camp": 103,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1106,
@@ -1791,7 +1863,9 @@ var _avatar = [
             "諸星すみれ",
             "이다은"
         ],
-        "Camp": 103
+        "Camp": 103,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1107,
@@ -1839,7 +1913,9 @@ var _avatar = [
             "日高里菜&安元洋貴",
             "김예림&최낙윤"
         ],
-        "Camp": 103
+        "Camp": 103,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1108,
@@ -1887,7 +1963,9 @@ var _avatar = [
             "平川大輔",
             "정재헌"
         ],
-        "Camp": 103
+        "Camp": 103,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1109,
@@ -1936,7 +2014,9 @@ var _avatar = [
             "徳井青空",
             "이재현"
         ],
-        "Camp": 103
+        "Camp": 103,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1201,
@@ -1985,7 +2065,9 @@ var _avatar = [
             "伊達朱里紗",
             "서다혜"
         ],
-        "Camp": 104
+        "Camp": 104,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1202,
@@ -2033,7 +2115,9 @@ var _avatar = [
             "高田憂希",
             "이명호"
         ],
-        "Camp": 104
+        "Camp": 104,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1204,
@@ -2081,7 +2165,9 @@ var _avatar = [
             "小野大輔",
             "류승곤"
         ],
-        "Camp": 104
+        "Camp": 104,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1206,
@@ -2129,7 +2215,9 @@ var _avatar = [
             "福圓美里",
             "박시윤"
         ],
-        "Camp": 104
+        "Camp": 104,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1209,
@@ -2177,7 +2265,9 @@ var _avatar = [
             "井上麻里奈",
             "이새아"
         ],
-        "Camp": 104
+        "Camp": 104,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 1211,
@@ -2225,7 +2315,9 @@ var _avatar = [
             "加藤英美里",
             "조현정"
         ],
-        "Camp": 104
+        "Camp": 104,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 8001,
@@ -2275,7 +2367,9 @@ var _avatar = [
             "榎木淳弥",
             "김명준"
         ],
-        "Camp": 100
+        "Camp": 100,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 8002,
@@ -2325,7 +2419,9 @@ var _avatar = [
             "石川由依",
             "김하루"
         ],
-        "Camp": 100
+        "Camp": 100,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 8003,
@@ -2374,7 +2470,9 @@ var _avatar = [
             "",
             ""
         ],
-        "Camp": 0
+        "Camp": 0,
+        "ISN": "",
+        "ISD": ""
     },
     {
         "_id": 8004,
@@ -2423,7 +2521,9 @@ var _avatar = [
             "",
             ""
         ],
-        "Camp": 0
+        "Camp": 0,
+        "ISN": "",
+        "ISD": ""
     }
 ]
 
@@ -6790,6 +6890,12 @@ var _weaponskill = {
             "Desc": [
                 "Increases the wearer's DEF by <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>46.0%</color> / <color style='color:#f29e38;'>52.0%</color> / <color style='color:#f29e38;'>58.0%</color> / <color style='color:#f29e38;'>64.0%</color> . When the wearer provides a Shield to an ally, the wearer's CRIT DMG increases by <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>46.0%</color> / <color style='color:#f29e38;'>52.0%</color> / <color style='color:#f29e38;'>58.0%</color> / <color style='color:#f29e38;'>64.0%</color> , lasting for <b>2.0</b> turn(s). When the wearer uses a follow-up attack and attacks an enemy, there is a <color style='color:#f29e38;'>100.0%</color> / <color style='color:#f29e38;'>115.0%</color> / <color style='color:#f29e38;'>130.0%</color> / <color style='color:#f29e38;'>145.0%</color> / <color style='color:#f29e38;'>160.0%</color>  base chance to increase the DMG taken by the attacked enemy by <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.5%</color> / <color style='color:#f29e38;'>13.0%</color> / <color style='color:#f29e38;'>14.5%</color> / <color style='color:#f29e38;'>16.0%</color> , lasting for <b>2.0</b> turn(s)."
             ]
+        },
+        "v5": {
+            "Name": "All-In",
+            "Desc": [
+                "Increases the wearer's DEF by <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>46.0%</color> / <color style='color:#f29e38;'>52.0%</color> / <color style='color:#f29e38;'>58.0%</color> / <color style='color:#f29e38;'>64.0%</color> . When the wearer provides a Shield to an ally, the wearer's CRIT DMG increases by <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>46.0%</color> / <color style='color:#f29e38;'>52.0%</color> / <color style='color:#f29e38;'>58.0%</color> / <color style='color:#f29e38;'>64.0%</color> , lasting for <b>2.0</b> turn(s). When the wearer uses a follow-up attack and attacks an enemy, there is a <color style='color:#f29e38;'>100.0%</color> / <color style='color:#f29e38;'>115.0%</color> / <color style='color:#f29e38;'>130.0%</color> / <color style='color:#f29e38;'>145.0%</color> / <color style='color:#f29e38;'>160.0%</color>  base chance to increase the DMG taken by the attacked enemy by <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.5%</color> / <color style='color:#f29e38;'>13.0%</color> / <color style='color:#f29e38;'>14.5%</color> / <color style='color:#f29e38;'>16.0%</color> , lasting for <b>2.0</b> turn(s)."
+            ]
         }
     },
     "23024": {
@@ -6816,6 +6922,12 @@ var _weaponskill = {
             "Desc": [
                 "Increases the wearer's CRIT DMG by <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> . When the wearer hits the enemy target, inflicts Empty Bubbles on the enemy, lasting for 1 turn. This effect can be triggered 1 time against each target for every attack the wearer launches. The wearer deals <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color>  more DMG to targets afflicted with Empty Bubbles, and DMG from the wearer's Ultimate additionally increases by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ."
             ]
+        },
+        "v5": {
+            "Name": "Steerer",
+            "Desc": [
+                "Increases the wearer's CRIT DMG by <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> . When the wearer hits the enemy target, inflicts Empty Bubbles on the enemy, lasting for 1 turn. This effect can be triggered 1 time against each target for every attack the wearer launches. The wearer deals <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color>  more DMG to targets afflicted with Empty Bubbles, and DMG from the wearer's Ultimate additionally increases by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ."
+            ]
         }
     },
     "21043": {
@@ -6838,6 +6950,12 @@ var _weaponskill = {
             ]
         },
         "v4": {
+            "Name": "Inspire",
+            "Desc": [
+                "Increases the wearer's DEF by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> . For each character with a Shield on the field, the DMG dealt by the wearer increases by <color style='color:#f29e38;'>4.0%</color> / <color style='color:#f29e38;'>5.0%</color> / <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.0%</color> / <color style='color:#f29e38;'>8.0%</color> ."
+            ]
+        },
+        "v5": {
             "Name": "Inspire",
             "Desc": [
                 "Increases the wearer's DEF by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> . For each character with a Shield on the field, the DMG dealt by the wearer increases by <color style='color:#f29e38;'>4.0%</color> / <color style='color:#f29e38;'>5.0%</color> / <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.0%</color> / <color style='color:#f29e38;'>8.0%</color> ."

@@ -131,7 +131,7 @@ schedule {
 }
 
 .item-down {
-    width: calc(100% - 16px);
+    width: 100%;
     background-color: #27363E;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
