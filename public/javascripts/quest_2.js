@@ -175,7 +175,7 @@ $(function () {
             })
         }
 
-        _mq.MainQuests.forEach(function (t) {
+        _mq.MainQuests.forEach(function (t, ind) {
             $('.content_flag').render({
                 div: [
                     {
@@ -240,7 +240,8 @@ $(function () {
                 ],
                 class: 'a_section hover-shadow click-pop',
                 a: {
-                    'data-json': JSON.stringify(t.Sub)
+                    'data-json': JSON.stringify(t.Sub),
+                    'data-ind': ind.toString()
                 }
             })
         })
@@ -314,10 +315,10 @@ $(function () {
     }
 
     $('body').on('click', '.click-pop', function (e) {
-        popTalks($(this).attr('data-json'))
+        popTalks($(this).attr('data-json'), $(this).attr('data-ind'))
     })
 
-    function popTalks(dat) {
+    function popTalks(dat, ind) {
         if (!dat) return
         try { subs = JSON.parse(dat) } catch (e) {return}
         if (!subs.length) return
@@ -325,6 +326,19 @@ $(function () {
             header: VER_GI + computer_.MiscText.Affix[lang2],
             template: {
                 div: function (l) {
+                    $(l.container).render({
+                        div: [
+                            {
+                                p: _mq.MainQuests[parseInt(ind)].Name,
+                                class: 'event-name'
+                            },
+                            {
+                                p: _mq.MainQuests[parseInt(ind)].Desc,
+                                class: 'event-desc'
+                            }
+                        ],
+                        class: 'a_section'
+                    })
                     subs.forEach(function (m) {
                         $(l.container).render({
                             div: [
@@ -365,7 +379,7 @@ $(function () {
                                                         })
                                                         i.forEach(function (j) {
                                                             $(k.container).render({
-                                                                p: '<b>' + j.N.replaceAll('_0', `<img class='sps_4' src='${imgpre}images/Misc/Traveler${mf.toString()}.png'>`).replaceAll('_1005', `<img class='sps_4' src='${imgpre}images/Misc/Paimon.png'>`) + '</b><br>' + process(j.T).replaceAll('{NICKNAME}', `<img class='sps_4' src='${imgpre}images/Misc/Traveler${mf.toString()}.png'>`).replaceAll("#", "")
+                                                                p: '<b>' + j.N.replaceAll('_0', `<img class='sps_4' src='${imgpre}images/Misc/Traveler${mf.toString()}.png'>`).replaceAll('_1005', `<img class='sps_4' src='${imgpre}images/Misc/Paimon.png'>`) + '</b><br>' + process(j.T).replaceAll('{NICKNAME}', `<img class='sps_4' src='${imgpre}images/Misc/Traveler${mf.toString()}.png'>`).replaceAll("#", "").replaceAll("\\n", "<br>")
                                                             })
                                                         })
                                                     })
