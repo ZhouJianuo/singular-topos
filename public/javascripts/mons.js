@@ -40,12 +40,21 @@ $(function () {
     var show_sch = 0
     var si = 0
 
+    var has_2 = 0
+
     let script_computer = document.createElement('script')
-    script_computer.src = '/data/' + lang2 + '/Monster.js'
+    script_computer.src = '/data/' + lang2 + '/Monster_1.js'
     document.head.append(script_computer)
     script_computer.onload = begin
 
     function begin() {
+
+        let script_computer_2 = document.createElement('script')
+        script_computer_2.src = '/data/' + lang2 + '/Monster_2.js'
+        document.head.append(script_computer_2)
+        script_computer_2.onload = function () {
+            has_2 = 1
+        }
 
         m_s = 0
 
@@ -57,8 +66,12 @@ $(function () {
             if (cm != 114514) renderSkill(cm)
         }
 
-        if ($('#MONSTER').val() && (_monsterindex[$('#MONSTER').val()] != undefined)) popMons(_monsterindex[$('#MONSTER').val()])
-        if ($('#MONSTERID').val() && (_monsterindex[$('#MONSTERID').val()] != undefined)) popMons(_monsterindex[$('#MONSTERID').val()])
+        if ($('#MONSTER').val()) {
+            tryPop($('#MONSTER').val())
+        }
+        if ($('#MONSTERID').val()) {
+            tryPop($('#MONSTERID').val())
+        }
 
         $('container').render({
             template: {
@@ -117,10 +130,32 @@ $(function () {
     }
 
     function monsterRender(kid) {
+        if (kid == 1000) {
+            if (has_2) {
+                monsterRenderAfter(kid)
+            } else {
+                $(".lt").show()
+                var ou = setInterval(function () {
+                    if (has_2) {
+                        $(".lt").hide()
+                        monsterRenderAfter(kid)
+                        clearInterval(ou)
+                    }
+                }, 200)
+            }
+        } else {
+            monsterRenderAfter(kid)
+        }
+    }
+
+    function monsterRenderAfter(kid) {
         $('.monster_card_area').empty()
-        _monster.forEach(function (t, ind) {
+        _monsterlist.forEach(function (t_0, ind) {
+            var t = _monster[t_0]
+            if (kid != 1000 && !t) return
             if (kid == 1000) {
                 show = true
+                if (!t) t = _monster_2[t_0]
             } else if (kid == 1001) {
                 show = t.IsBug
             } else if (kid == 1002) {
@@ -202,7 +237,7 @@ $(function () {
                         ],
                         class: 'avatar-card hover-shadow',
                         a: {
-                            'data-id': ind + 1
+                            'data-id': t._id
                         }
                     }
                 })
@@ -212,6 +247,7 @@ $(function () {
 
     function popMons(ind) {
         var me = _monster[ind]
+        if (!me) me = _monster_2[ind]
         poplayer({
             header: me.Name + txt.Affix[lang],
             width: '100%',
@@ -994,7 +1030,7 @@ $(function () {
     })
 
     $('body').on('click', '.avatar-card', function () {
-        popMons(parseInt($(this).attr('data-id')) - 1)
+        popMons(parseInt($(this).attr('data-id')))
     })
 
     $('body').on('click', '.toggle', function () {
@@ -1050,6 +1086,28 @@ $(function () {
                 }
             })
         })
+    }
+
+    function tryPop(monid) {
+        if (_monster[monid]) {
+            popMons(monid)
+            return
+        } else if (!_monsterlist.includes(parseInt(monid))) {
+            return
+        } else {
+            if (has_2) {
+                popMons(monid)
+                return
+            }
+            $('.lt').show()
+            var pu = setInterval(function () {
+                if (has_2) {
+                    $('.lt').hide()
+                    clearInterval(pu)
+                    popMons(monid)
+                }
+            }, 200)
+        }
     }
 
     $('body').on('click', '._subtitle', function () {

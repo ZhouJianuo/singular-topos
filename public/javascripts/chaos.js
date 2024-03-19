@@ -35,12 +35,22 @@ $(function () {
     var cm = {}
     var HIDE_SHOW = 0
 
+    var has_2 = 0
+
     let script_computer = document.createElement('script')
-    script_computer.src = '/data/' + lang2 + '/Chaos.js'
+    script_computer.src = '/data/' + lang2 + '/Chaos_1.js'
     document.head.append(script_computer)
     script_computer.onload = begin
 
     function begin() {
+
+        let script_computer_2 = document.createElement('script')
+        script_computer_2.src = '/data/' + lang2 + '/Chaos_2.js'
+        document.head.append(script_computer_2)
+        script_computer_2.onload = function () {
+            has_2 = 1
+            _chaos = _chaos.concat(_chaos_2)
+        }
 
         max_index = _chaosschedule.length
         cur_index = _chaosdict[$('#CID').val()]
@@ -228,6 +238,24 @@ $(function () {
     }
 
     function writeVer() {
+        if (mod(cur_index, max_index) < 4) {
+            writeVerAfter()
+        } else {
+            if (has_2) {
+                writeVerAfter()
+                return
+            }
+            $('.lt').show()
+            var ou = setInterval(function () {
+                if (has_2) {
+                    $('.lt').hide()
+                    writeVerAfter()
+                }
+            }, 200)
+        }
+    }
+
+    function writeVerAfter() {
         $('.ver_text_name').html(_chaosschedule[mod(cur_index, max_index)].Name)
         $('.ver_text_time').html(_chaosschedule[mod(cur_index, max_index)].Time)
         writeData()
@@ -473,7 +501,24 @@ $(function () {
                         div: [
                             {
                                 img: imgpre + 'images/' + me["1"],
-                                class: 'monicon'
+                                class: 'monicon hasimg',
+                                event: {
+                                    load: function (d) {
+                                        $(d.sender).siblings('.monnameload').hide()
+                                    },
+                                    error: function (d) {
+                                        $(d.sender).css("opacity", "0")
+                                        $(d.sender).removeClass('hasimg')
+                                        $(d.sender).siblings('.hasimgname').removeClass('hasimgname')
+                                        $(d.sender).parent().addClass('monicon')
+                                    },
+                                }
+                            },
+                            {
+                                div: {
+                                    p: me["4"]
+                                },
+                                class: 'monnameload hasimgname'
                             },
                         ],
                         class: 'monleft'
@@ -554,8 +599,18 @@ $(function () {
         return temp
     }
 
+    $('body').on('mouseenter', '.monster_card', function () {
+        $(this).find('.hasimgname').show()
+        $(this).find('.hasimg').css("opacity", "0.2")
+    })
+
+    $('body').on('mouseleave', '.monster_card', function () {
+        $(this).find('.hasimgname').hide()
+        $(this).find('.hasimg').css("opacity", "1")
+    })
+
     $('body').on('click', '.monster_card', function () {
-        window.open(`monster?lang=${lang3}&id=${$(this).attr('data-id')}&lv=${$(this).attr('data-lv')}&hlg=${$(this).attr('data-hl')}&eg=${$(this).attr('data-eg')}&def=2000`)
+        window.open(`/sr/monster?lang=${lang3}&id=${$(this).attr('data-id')}&lv=${$(this).attr('data-lv')}&hlg=${$(this).attr('data-hl')}&eg=${$(this).attr('data-eg')}&def=2000`)
     })
 
     $('body').on('click', '.title', function () {

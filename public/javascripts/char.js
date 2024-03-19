@@ -60,12 +60,19 @@ $(function () {
         if ($("#UPDATE").val()) cl_show = 1
 
         a_2 = 0
+        a_3 = 0
 
         let script_computer_2 = document.createElement('script')
         script_computer_2.src = '/data/' + lang2 + '/Avatar_2.js'
         document.head.append(script_computer_2)
         script_computer_2.onload = function () {
             a_2 = 1
+            let script_computer_3 = document.createElement('script')
+            script_computer_3.src = '/data/' + lang2 + '/Avatar_3.js'
+            document.head.append(script_computer_3)
+            script_computer_3.onload = function () {
+                a_3 = 1
+            }
         }
 
         $('container').render({
@@ -638,7 +645,7 @@ $(function () {
     function renderAvatar(i) {
         clearInterval(check_interval)
         $('.lt').hide()
-        if (i > 1 && i < 7) {
+        if (i > 1 && i < 5) {
             if (a_2) {
                 renderAvatarAfter(i)
             } else {
@@ -647,6 +654,19 @@ $(function () {
                     if (a_2) {
                         $('.lt').hide()
                         clearInterval(check_interval)
+                        renderAvatarAfter(i)
+                    }
+                }, 200)
+            }
+        } else if (i > 4 && i < 7) {
+            if (a_3) {
+                renderAvatarAfter(i)
+            } else {
+                $('.lt').show()
+                check_interval_2 = setInterval(function () {
+                    if (a_3) {
+                        $('.lt').hide()
+                        clearInterval(check_interval_2)
                         renderAvatarAfter(i)
                     }
                 }, 200)
