@@ -26888,7 +26888,7 @@ var _SpiralAbyssFloorConfig = {
                 "Upper": [
                     {
                         "WaveDesc": 1,
-                        "Ver": [
+                        "Vers": [
                             1
                         ],
                         "Monsters": [
@@ -26930,7 +26930,7 @@ var _SpiralAbyssFloorConfig = {
                     },
                     {
                         "WaveDesc": 2,
-                        "Ver": [
+                        "Vers": [
                             1
                         ],
                         "Monsters": [
@@ -26969,7 +26969,7 @@ var _SpiralAbyssFloorConfig = {
                     },
                     {
                         "WaveDesc": 3,
-                        "Ver": [
+                        "Vers": [
                             1
                         ],
                         "Monsters": [
@@ -26991,7 +26991,7 @@ var _SpiralAbyssFloorConfig = {
                     },
                     {
                         "WaveDesc": 1,
-                        "Ver": [
+                        "Vers": [
                             2
                         ],
                         "Monsters": [
@@ -27013,7 +27013,7 @@ var _SpiralAbyssFloorConfig = {
                     },
                     {
                         "WaveDesc": 2,
-                        "Ver": [
+                        "Vers": [
                             2
                         ],
                         "Monsters": [
@@ -27045,7 +27045,7 @@ var _SpiralAbyssFloorConfig = {
                     },
                     {
                         "WaveDesc": 3,
-                        "Ver": [
+                        "Vers": [
                             2
                         ],
                         "Monsters": [
@@ -27070,7 +27070,7 @@ var _SpiralAbyssFloorConfig = {
                     },
                     {
                         "WaveDesc": 4,
-                        "Ver": [
+                        "Vers": [
                             2
                         ],
                         "Monsters": [
