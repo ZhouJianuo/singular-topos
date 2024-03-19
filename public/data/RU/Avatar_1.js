@@ -6972,30 +6972,30 @@ var _changelog = [
                 "Name": "Acheron",
                 "Color": "Elec",
                 "Notes": [
-                    "<color style='color:#f29d38'>Eidolon #1：</color>The stacking of Quadrivalent Ascendance changed to part of Acheron's Trace, this Eidolon does not have this effect any more",
-                    "<color style='color:#f29d38'>Eidolon #4：</color>Ult Vulnerability 12% → 8%",
-                    "<color style='color:#f29d38'>Eidolon #6：</color>Ult's CRIT DMG +60% → Ult's All-Type RES Penetration +20%, and Basic ATK and Skill's DMG will also deal Toughness DMG regardless of the enemy's Weakness Type."
+                    "``Eidolon #1`The stacking of Quadrivalent Ascendance changed to part of Acheron's Trace, this Eidolon does not have this effect any more",
+                    "``Eidolon #4`Ult Vulnerability 12% → 8%",
+                    "``Eidolon #6`Ult's CRIT DMG +60% → Ult's All-Type RES Penetration +20%, and Basic ATK and Skill's DMG will also deal Toughness DMG regardless of the enemy's Weakness Type."
                 ]
             },
             {
                 "Name": "Aventurine",
                 "Color": "Imaginary",
                 "Notes": [
-                    "<color style='color:#f29d38'>Skill: </color>Lv10 Shield: 27% DEF + 360 → 24% DEF + 320",
-                    "<color style='color:#f29d38'>Talent: </color>Aventurine resist control: Can be triggered once every 2 turns → Can be triggered again after 2 turns"
+                    "``Skill`Lv10 Shield: 27% DEF + 360 → 24% DEF + 320",
+                    "``Talent`Aventurine resist control: Can be triggered once every 2 turns → Can be triggered again after 2 turns"
                 ]
             },
             {
                 "Name": "Gallagher",
                 "Color": "Fire",
                 "Notes": [
-                    "<color style='color:#f29d38'>Character Introduction: </color> The current head of the Bloodhound Family at Penacony → The Security Officer of the Bloodhound Family at Penacony (Only CN version changed as of v4)"
+                    "``Character Introduction` The current head of the Bloodhound Family at Penacony → The Security Officer of the Bloodhound Family at Penacony (Only CN version changed as of v4)"
                 ]
             },
             {
                 "Name": "Sigonia, the Unclaimed Desolation",
                 "Notes": [
-                    "Added effect: Crit Rate is increased by 4%"
+                    "``Added`Crit Rate is increased by 4%"
                 ]
             },
             {
@@ -7003,9 +7003,9 @@ var _changelog = [
                 "Color": "Imaginary",
                 "Mon": true,
                 "Notes": [
-                    "<color style='color:#f29d38'>Distributed Investment：</color>DMG 120% x5~8 → 110% x5~8",
-                    "<color style='color:#f29d38'>The Loser's Time Is Over：</color>DMG 620% → 570%",
-                    "<color style='color:#f29d38'>The Winner Takes It All：</color>DMG 620% → 570%"
+                    "``Distributed Investment`DMG 120% x5~8 → 110% x5~8",
+                    "``The Loser's Time Is Over`DMG 620% → 570%",
+                    "``The Winner Takes It All`DMG 620% → 570%"
                 ]
             },
             {
@@ -7013,9 +7013,9 @@ var _changelog = [
                 "Color": "Quantum",
                 "Mon": true,
                 "Notes": [
-                    "<color style='color:#f29d38'>SPD：</color>158 → 145 (at high levels)",
-                    "<color style='color:#f29d38'>Tide of Enduring Grudges：</color>DMG 200% → 180%",
-                    "<color style='color:#f29d38'>Bonepiercing Odium：</color>DMG 220% x3~8 → 200% x3~8"
+                    "``SPD`158 → 145 (at high levels)",
+                    "``Tide of Enduring Grudges`DMG 200% → 180%",
+                    "``Bonepiercing Odium`DMG 220% x3~8 → 200% x3~8"
                 ]
             }
         ]
@@ -7033,20 +7033,20 @@ var _changelog = [
                 "Name": "Acheron",
                 "Color": "Elec",
                 "Notes": [
-                    "<color style='color:#f29d38'>Eidolon #1：</color>Added this effect: When Slashed Dream is at max, every stack of Slashed Dream that goes over grants a stack of Quadrivalent Ascendance, which can stack up to <color style='color:#f29e38'>3.0</color></b> times.",
-                    "<color style='color:#f29d38'>Eidolon #4：</color>Ult Vulnerability Effect: Triggered when Acheron casts her Ult, lasting 3 turns → Triggers when the enemy appears, lasts permanently"
+                    "``Eidolon #1`Added this effect: When Slashed Dream is at max, every stack of Slashed Dream that goes over grants a stack of Quadrivalent Ascendance, which can stack up to <color style='color:#f29e38'>3.0`</b> times.",
+                    "``Eidolon #4`Ult Vulnerability Effect: Triggered when Acheron casts her Ult, lasting 3 turns → Triggers when the enemy appears, lasts permanently"
                 ]
             },
             {
                 "Name": "Aventurine",
                 "Color": "Imaginary",
                 "Notes": [
-                    "<color style='color:#f29d38'>Skill: </color>Changed the Max Shield provided by Skill to 200% of the Shield provided by Skill. Below Lv10 this is a buff. Above Lv10 this is a nerf.",
-                    "<color style='color:#f29d38'>Technique: </color>Duration: 2 turns → 3 turns. When used again, keeps the (newest → best) effect.",
-                    "<color style='color:#f29d38'>Trace #1：</color>DEF convert to Crit Rate upper limit: 40% → 48%",
-                    "<color style='color:#f29d38'>Trace #3：</color>Max trigger times: 1 → 3",
-                    "<color style='color:#f29d38'>Eidolon #1：</color><br>Increases CRIT DMG for allies with Fortified Wager by <b><color style='color:#f29e38'>20.0%</color></b>. The Blind Bet effect obtained from the Trace \"Bingo!\" no longer has a trigger limit. Requires the Trace \"Bingo!\" to be unlocked first.<br>↓<br>Increases the CRIT DMG of allies with Fortified Wager by <b><color style='color:#f29e38'>20.0%</color></b>. Provide a Fortified Wager Shield to the entire team. The Shield effect equals to <b><color style='color:#f29e38'>100.0%</color></b> as that provided by the Skill, lasting for <b><color style='color:#f29e38'>3.0</color></b> turn(s).",
-                    "<color style='color:#f29d38'>Eidolon #4：</color>Talent's follow-up attack additionally increases by (1 → 3) hits"
+                    "``Skill`Changed the Max Shield provided by Skill to 200% of the Shield provided by Skill. Below Lv10 this is a buff. Above Lv10 this is a nerf.",
+                    "``Technique`Duration: 2 turns → 3 turns. When used again, keeps the (newest → best) effect.",
+                    "``Trace #1`DEF convert to Crit Rate upper limit: 40% → 48%",
+                    "``Trace #3`Max trigger times: 1 → 3",
+                    "``Eidolon #1`<br>Increases CRIT DMG for allies with Fortified Wager by <b><color style='color:#f29e38'>20.0%`</b>. The Blind Bet effect obtained from the Trace \"Bingo!\" no longer has a trigger limit. Requires the Trace \"Bingo!\" to be unlocked first.<br>↓<br>Increases the CRIT DMG of allies with Fortified Wager by <b><color style='color:#f29e38'>20.0%`</b>. Provide a Fortified Wager Shield to the entire team. The Shield effect equals to <b><color style='color:#f29e38'>100.0%`</b> as that provided by the Skill, lasting for <b><color style='color:#f29e38'>3.0`</b> turn(s).",
+                    "``Eidolon #4`Talent's follow-up attack additionally increases by (1 → 3) hits"
                 ]
             },
             {
@@ -7060,10 +7060,10 @@ var _changelog = [
                 "Color": "Fire",
                 "Notes": [
                     "Base HP 1058 → 1305 ; Base ATK 653 → 529",
-                    "<color style='color:#f29d38'>Talent: </color>Every time a Besotted target is attacked by an ally, the attacker heals (520 → 640) HP.",
-                    "<color style='color:#f29d38'>Trace #1：</color>Healing Bonus is increased by (30% → 50%) of Break Effect. Upper limit 75% unchanged.",
-                    "<color style='color:#f29d38'>Trace Stat Boost：</color><br>HP 10% → 18%<br>Effect RES 18% → 28%<br>Break Effect 37.3% → 13.3%",
-                    "<color style='color:#f29d38'>Eidolon #2：</color><br>Increases Break DMG dealt to targets in the Besotted state by <b><color style='color:#f29e38'>8.0%</color></b>.<br>↓<br>The Skill removes <b><color style='color:#f29e38'>1.0</color></b> debuff(s) from a target ally. At the same time, it increases Effect RES by <b><color style='color:#f29e38'>30.0%</color></b> for <b><color style='color:#f29e38'>2.0</color></b> turn(s)."
+                    "``Talent`Every time a Besotted target is attacked by an ally, the attacker heals (520 → 640) HP.",
+                    "``Trace #1`Healing Bonus is increased by (30% → 50%) of Break Effect. Upper limit 75% unchanged.",
+                    "``Trace Stat Boost`<br>HP 10% → 18%<br>Effect RES 18% → 28%<br>Break Effect 37.3% → 13.3%",
+                    "``Eidolon #2`<br>Increases Break DMG dealt to targets in the Besotted state by <b><color style='color:#f29e38'>8.0%`</b>.<br>↓<br>The Skill removes <b><color style='color:#f29e38'>1.0`</b> debuff(s) from a target ally. At the same time, it increases Effect RES by <b><color style='color:#f29e38'>30.0%`</b> for <b><color style='color:#f29e38'>2.0`</b> turn(s)."
                 ]
             },
             {
@@ -7081,21 +7081,37 @@ var _changelog = [
                 "Name": "Acheron",
                 "Color": "Elec",
                 "Notes": [
-                    "<color style='color:#f29d38'>Trace #1:</color> At the start of battle, immediately gain 4 → 5 points of Slashed Dream and apply 4 → 5 stacks of Crimson Knot to a random enemy.",
-                    "<color style='color:#f29d38'>Eidolon #4:</color> When casting Ult, all enemies' Ult DMG Vulnerability duration 2 → 3 turns.",
-                    "<color style='color:#f29d38'>Ultimate:</color> When Crimson Knot is removed, the DMG multiplier increase effect counts at most 4 stacks.",
-                    "<color style='color:#f29d38'>Technique:</color> <br>After entering battle, deal 80% ATK DMG to all enemies and 2 Thunder Toughness Break <br>   ↓<br> At the start of every wave, deal 200% ATK DMG to all enemies and 2 All-Type Toughness Break.",
-                    "<color style='color:#f29d38'>Technique:</color> <br>After entering battle, gain 2 points of Slashed Dream and inflict 2 stacks of Crimson Knot on a random target <br>   ↓<br> At the start of every wave, after Acheron casts her next Ult, gain 1 point of Slashed Dream and inflict 1 stack of Crimson Knot on a random target."
+                    "``Trace #1:` At the start of battle, immediately gain 4 → 5 points of Slashed Dream and apply 4 → 5 stacks of Crimson Knot to a random enemy.",
+                    "``Eidolon #4:` When casting Ult, all enemies' Ult DMG Vulnerability duration 2 → 3 turns.",
+                    "``Ultimate:` When Crimson Knot is removed, the DMG multiplier increase effect counts at most 4 stacks.",
+                    "``Technique:` <br>After entering battle, deal 80% ATK DMG to all enemies and 2 Thunder Toughness Break <br>   ↓<br> At the start of every wave, deal 200% ATK DMG to all enemies and 2 All-Type Toughness Break.",
+                    "``Technique:` <br>After entering battle, gain 2 points of Slashed Dream and inflict 2 stacks of Crimson Knot on a random target <br>   ↓<br> At the start of every wave, after Acheron casts her next Ult, gain 1 point of Slashed Dream and inflict 1 stack of Crimson Knot on a random target."
                 ]
             },
             {
                 "Name": "Aventurine",
                 "Color": "Imaginary",
                 "Notes": [
-                    "<color style='color:#f29d38'>Eidolon #6:</color> Added an upper limit - counts at most 6 shielded allies.",
-                    "<color style='color:#f29d38'>Technique:</color> After entering battle, Aventurine's DEF increases → All allies' DEF increases. Swapped the DEF increase of normal chance and high chance.",
-                    "<color style='color:#f29d38'>Talent:</color> Skill Name changed - Sights Aimed Right → Shot Loaded Right."
+                    "``Eidolon #6:` Added an upper limit - counts at most 6 shielded allies.",
+                    "``Technique:` After entering battle, Aventurine's DEF increases → All allies' DEF increases. Swapped the DEF increase of normal chance and high chance.",
+                    "``Talent:` Skill Name changed - Sights Aimed Right → Shot Loaded Right."
                 ]
+            }
+        ]
+    }
+]
+
+var _hidden = [
+    {
+        "Name": "Firefly",
+        "Notes": [
+            {
+                "Title": "Overworld Attack",
+                "Desc": "Melee attack with rather small AoE."
+            },
+            {
+                "Title": "Technique",
+                "Desc": "Enters a special state: Moves swiftly for some time, during which you can control her direction. While moving, ignores enemies, cannot be spotted by enemies and blocks all incoming attacks.<br>Using Technique again will exit this state and immediately attack all enemies in a large area. Upon entring combat this way, will apply an effect to all enemies."
             }
         ]
     }

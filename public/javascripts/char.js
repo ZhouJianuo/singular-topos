@@ -57,7 +57,9 @@ $(function () {
     function begin() {
         
         cl_show = 0 
-        if ($("#UPDATE").val()) cl_show = 1
+        if ($("#UPDATE").val() && $("#UPDATE").val() == 1) cl_show = 1
+        up_show = 0 
+        if ($("#UPDATE").val() && $("#UPDATE").val() == 2) up_show = 1
 
         a_2 = 0
         a_3 = 0
@@ -84,10 +86,31 @@ $(function () {
                                 schedule: txt.Changelog[lang],
                                 click: function (p) {
                                     cl_show = 1 - cl_show
+                                    up_show = 0
+                                    $('.up_all').hide()
                                     if (cl_show) {
                                         $('.cl_all').show()
                                     } else {
                                         $('.cl_all').hide()
+                                    }
+                                },
+                                style: {
+                                    width: 'max-content',
+                                    padding: '10px 20px',
+                                    'font-weight': 'bold',
+                                    border: '2px solid #df903b'
+                                }
+                            },
+                            {
+                                schedule: txt.Upcoming[lang],
+                                click: function (p) {
+                                    up_show = 1 - up_show
+                                    cl_show = 0
+                                    $('.cl_all').hide()
+                                    if (up_show) {
+                                        $('.up_all').show()
+                                    } else {
+                                        $('.up_all').hide()
                                     }
                                 },
                                 style: {
@@ -121,6 +144,21 @@ $(function () {
                         class: 'cl_all',
                         style: {
                             display: cl_show ? '' : 'none'
+                        }
+                    },
+                    {
+                        div: [
+                            {
+                                div: [],
+                                class: 'up_data',
+                                style: {
+                                    'margin-top': '-10px'
+                                }
+                            }
+                        ],
+                        class: 'up_all',
+                        style: {
+                            display: up_show ? '' : 'none'
                         }
                     },
                     {
@@ -161,13 +199,6 @@ $(function () {
                     {
                         section: [
                             {
-                                schedule: (lang == 'CH') ? '隐藏' : 'Hidden',
-                                class: '_r6',
-                                a: {
-                                    'data-id': 6
-                                }
-                            },
-                            {
                                 schedule: '5★',
                                 class: 'active _r5',
                                 a: {
@@ -206,6 +237,10 @@ $(function () {
                 cl_show = 1
                 $('.cl_all').show()
             }
+            if (avid == "HIDDEN" || avid == "UPCOMING" || avid == "TEST") {
+                up_show = 1
+                $('.up_all').show()
+            }
             if (_search_avatar[avid] != undefined) {
                 popAvatar(_search_avatar[avid])
             } else if (_search_weapon[avid] != undefined) {
@@ -218,6 +253,7 @@ $(function () {
         listAvatar()
 
         renderCL($('.changelog select').val() || 0)
+        renderUp()
     }
 
     function renderCL(v) {
@@ -247,7 +283,7 @@ $(function () {
                         div: {
                             ul: {
                                 li: function (k) {
-                                    return k.data
+                                    return k.data.replaceAll("``", "<color style='color:#f29d38'>").replaceAll("`", "</color> ")
                                 },
                                 data: t.Notes,
                                 style: {
@@ -266,6 +302,45 @@ $(function () {
     $('body').on('change', '.changelog select', function () {
         renderCL($('.changelog select').val())
     })
+
+    function renderUp() {
+        _hidden.forEach(function (t) {
+            $('.up_data').render({
+                div: [
+                    {
+                        div: [
+                            {
+                                img: imgpre + 'images/GCG_UI/Monster.png',
+                                class: 'head_left',
+                                when: t.Mon
+                            },
+                            {
+                                p: t.Name,
+                                style: {
+                                    color: t.Color ? ('#' + elemcolor[t.Color]) : ''
+                                },
+                                class: t.Mon ? 'head_right hr_1' : ''
+                            }
+                        ],
+                        class: 'a_section_head head_withimg'
+                    },
+                    {
+                        div: {
+                            p: function (k) {
+                                return "<color style='color:#f29d38'><b>" + k.data.Title + "</b></color><br>" + k.data.Desc
+                            },
+                            data: t.Notes,
+                            style: {
+                                'margin': '10px 0'
+                            }
+                        },
+                        class: 'a_section_content'
+                    },
+                ],
+                class: 'a_section'
+            })
+        })
+    }
 
     $('body').on('click', '.a_w_r schedule', function () {
         if ($(this).hasClass('active')) {

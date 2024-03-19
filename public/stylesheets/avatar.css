@@ -304,12 +304,18 @@ button {
 .cl_data div {
     margin: 15px 0;
 }
+.up_data div {
+    margin: 15px 0;
+}
 
 .cl_all .a_section div {
     margin: 15px;
 }
+.up_all .a_section div {
+    margin: 15px;
+}
 
-.cl_data {
+.cl_data, .up_data {
     justify-content: space-evenly;
     display: flex;
     flex-wrap: wrap;

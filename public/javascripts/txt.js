@@ -293,6 +293,11 @@ var txt = {
         "EN": "Track Updates",
         "RU": "Журнал изменений"
     },
+    "Upcoming": {
+        "CH": "未来角色",
+        "EN": "Upcoming Characters",
+        "RU": "Будущие персонажи"
+    },
     "Avatar_Head": [
         {
             "CH": "基本信息",
