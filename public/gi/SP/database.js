@@ -615,8 +615,8 @@ var _SpiralAbyssSchedule = [
         ]
     },
     {
-        "Name": "4.6v1",
-        "Show": "4.6v1",
+        "Name": "4.6v2",
+        "Show": "4.6v2",
         "Generation": 4,
         "OpenTime": "2024/05/01 - 2024/06/15",
         "Phases": [
@@ -1256,7 +1256,7 @@ var _SpiralAbyssDPSData = [
             },
             {
                 "Ver": "4.6v1",
-                "DPS": 20660933
+                "DPS": 20284150
             }
         ]
     },
@@ -1385,7 +1385,7 @@ var _SpiralAbyssDPSData = [
             },
             {
                 "Ver": "4.6v1",
-                "DPS": 2990468
+                "DPS": 2558322
             }
         ]
     },
@@ -26074,7 +26074,8 @@ var _SpiralAbyssFloorConfig = {
     "71": {
         "Disorder": "All party members receive a 75% Pyro DMG Bonus.",
         "ShowVers": [
-            1
+            1,
+            2
         ],
         "Chambers": [
             {
@@ -26528,7 +26529,8 @@ var _SpiralAbyssFloorConfig = {
     "72": {
         "Disorder": "For this floor only, the ley line flow will be normal.",
         "ShowVers": [
-            1
+            1,
+            2
         ],
         "Chambers": [
             {
@@ -26879,10 +26881,16 @@ var _SpiralAbyssFloorConfig = {
                         19
                     ]
                 },
+                "DPS": {
+                    "1": 2990468
+                },
                 "Center": -10,
                 "Upper": [
                     {
                         "WaveDesc": 1,
+                        "Ver": [
+                            1
+                        ],
                         "Monsters": [
                             {
                                 "ID": 20102,
@@ -26922,6 +26930,9 @@ var _SpiralAbyssFloorConfig = {
                     },
                     {
                         "WaveDesc": 2,
+                        "Ver": [
+                            1
+                        ],
                         "Monsters": [
                             {
                                 "ID": 30501,
@@ -26958,6 +26969,9 @@ var _SpiralAbyssFloorConfig = {
                     },
                     {
                         "WaveDesc": 3,
+                        "Ver": [
+                            1
+                        ],
                         "Monsters": [
                             {
                                 "ID": 20202,
@@ -26969,6 +26983,123 @@ var _SpiralAbyssFloorConfig = {
                                     ],
                                     [
                                         -10,
+                                        3
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 1,
+                        "Ver": [
+                            2
+                        ],
+                        "Monsters": [
+                            {
+                                "ID": 30101,
+                                "Num": 2,
+                                "Pos": [
+                                    [
+                                        4,
+                                        -3
+                                    ],
+                                    [
+                                        4,
+                                        3
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Ver": [
+                            2
+                        ],
+                        "Monsters": [
+                            {
+                                "ID": 53103,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        2,
+                                        0
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 50801,
+                                "Num": 2,
+                                "Pos": [
+                                    [
+                                        4,
+                                        -3
+                                    ],
+                                    [
+                                        4,
+                                        3
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 3,
+                        "Ver": [
+                            2
+                        ],
+                        "Monsters": [
+                            {
+                                "ID": 40658,
+                                "Note": {
+                                    "Text": "Pneuma"
+                                },
+                                "Num": 2,
+                                "Pos": [
+                                    [
+                                        4,
+                                        -3
+                                    ],
+                                    [
+                                        4,
+                                        3
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 4,
+                        "Ver": [
+                            2
+                        ],
+                        "Monsters": [
+                            {
+                                "ID": 40662,
+                                "Note": {
+                                    "Text": "Pneuma"
+                                },
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        4,
+                                        0
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 40651,
+                                "Note": {
+                                    "Text": "Pneuma"
+                                },
+                                "Num": 2,
+                                "Pos": [
+                                    [
+                                        4,
+                                        -3
+                                    ],
+                                    [
+                                        4,
                                         3
                                     ]
                                 ]
