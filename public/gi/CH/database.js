@@ -1123,7 +1123,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 1833435
             },
             {
-                "Ver": "4.5v4",
+                "Ver": "4.5",
                 "DPS": 1721835
             },
             {
@@ -1251,7 +1251,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 14335494
             },
             {
-                "Ver": "4.5v4",
+                "Ver": "4.5",
                 "DPS": 18078432
             },
             {
@@ -1380,7 +1380,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 3566150
             },
             {
-                "Ver": "4.5v4",
+                "Ver": "4.5",
                 "DPS": 4043151
             },
             {
@@ -1509,7 +1509,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 3090036
             },
             {
-                "Ver": "4.5v4",
+                "Ver": "4.5",
                 "DPS": 3912229
             },
             {
@@ -1638,7 +1638,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 3688091
             },
             {
-                "Ver": "4.5v4",
+                "Ver": "4.5",
                 "DPS": 4187321
             },
             {
