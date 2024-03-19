@@ -1127,7 +1127,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 1721835
             },
             {
-                "Ver": "4.6v1",
+                "Ver": "4.6v2",
                 "DPS": 1819982
             }
         ]
@@ -1255,7 +1255,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 18078432
             },
             {
-                "Ver": "4.6v1",
+                "Ver": "4.6v2",
                 "DPS": 20284150
             }
         ]
@@ -1384,7 +1384,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 4187321
             },
             {
-                "Ver": "4.6v1",
+                "Ver": "4.6v2",
                 "DPS": 2558322
             }
         ]
@@ -1513,7 +1513,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 3912229
             },
             {
-                "Ver": "4.6v1",
+                "Ver": "4.6v2",
                 "DPS": 3062535
             }
         ]
@@ -1642,7 +1642,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 4043151
             },
             {
-                "Ver": "4.6v1",
+                "Ver": "4.6v2",
                 "DPS": 3835673
             }
         ]
@@ -27033,11 +27033,11 @@ var _SpiralAbyssFloorConfig = {
                                 "Pos": [
                                     [
                                         4,
-                                        -3
+                                        -4
                                     ],
                                     [
                                         4,
-                                        3
+                                        4
                                     ]
                                 ]
                             }
@@ -27096,11 +27096,11 @@ var _SpiralAbyssFloorConfig = {
                                 "Pos": [
                                     [
                                         4,
-                                        -3
+                                        -4
                                     ],
                                     [
                                         4,
-                                        3
+                                        4
                                     ]
                                 ]
                             }
