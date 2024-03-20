@@ -387,8 +387,8 @@ var txt = {
         "EN": "Skill"
     },
     "DEV": {
-        "CH": "<b>隐藏先行测试技能 | 由<color style='color:#f29e38'>妮可少女</color>转录 | 仅供参考</b>",
-        "EN": "<b>Preliminary hidden test kit | Transcribed by <color style='color:#f29e38'>HomDGCat</color> | Subject to change</b>"
+        "CH": "隐藏先行测试技能<br>文案：<color style='color:#f29e38'>妮可少女</color><br>仅供参考",
+        "EN": "Preliminary hidden test kit<br>Descriptions by <color style='color:#f29e38'>HomDGCat</color><br>Subject to change"
     },
     "Item_New": [
         {

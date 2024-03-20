@@ -41,6 +41,7 @@ $(function () {
     var si = 0
 
     var has_2 = 0
+    var m_s = 0
 
     let script_computer = document.createElement('script')
     script_computer.src = '/data/' + lang2 + '/Monster_1.js'
@@ -49,21 +50,19 @@ $(function () {
 
     function begin() {
 
-        let script_computer_2 = document.createElement('script')
-        script_computer_2.src = '/data/' + lang2 + '/Monster_2.js'
-        document.head.append(script_computer_2)
-        script_computer_2.onload = function () {
-            has_2 = 1
-        }
-
-        m_s = 0
-
         let script_2 = document.createElement('script')
         script_2.src = '/data/' + lang2 + '/MonsterSkill.js'
         document.head.append(script_2)
         script_2.onload = function () {
             m_s = 1
             if (cm != 114514) renderSkill(cm)
+            
+            let script_computer_2 = document.createElement('script')
+            script_computer_2.src = '/data/' + lang2 + '/Monster_2.js'
+            document.head.append(script_computer_2)
+            script_computer_2.onload = function () {
+                has_2 = 1
+            }
         }
 
         if ($('#MONSTER').val()) {

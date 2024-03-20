@@ -49,8 +49,21 @@ $(function () {
     var check_interval = 0
     var unchanged = 1
 
+    var _avatarskill = {}
+    var _avatarskilltree = {}
+    var _avatarrank = {}
+    var _story = {}
+    var _voice = {}
+    
+    var _weapondesc = {}
+    var _weaponskill = {}
+    
+    var _relicitem = {}
+
+    var loaded = []
+
     let script_computer = document.createElement('script')
-    script_computer.src = '/data/' + lang2 + '/Avatar_1.js'
+    script_computer.src = '/data/' + lang2 + '/Avatar.js'
     document.head.append(script_computer)
     script_computer.onload = begin
 
@@ -60,22 +73,6 @@ $(function () {
         if ($("#UPDATE").val() && $("#UPDATE").val() == 1) cl_show = 1
         up_show = 0 
         if ($("#UPDATE").val() && $("#UPDATE").val() == 2) up_show = 1
-
-        a_2 = 0
-        a_3 = 0
-
-        let script_computer_2 = document.createElement('script')
-        script_computer_2.src = '/data/' + lang2 + '/Avatar_2.js'
-        document.head.append(script_computer_2)
-        script_computer_2.onload = function () {
-            a_2 = 1
-            let script_computer_3 = document.createElement('script')
-            script_computer_3.src = '/data/' + lang2 + '/Avatar_3.js'
-            document.head.append(script_computer_3)
-            script_computer_3.onload = function () {
-                a_3 = 1
-            }
-        }
 
         $('container').render({
             template: {
@@ -304,6 +301,20 @@ $(function () {
     })
 
     function renderUp() {
+        $('.up_data').render({
+            div: [
+                {
+                    div: [
+                        {
+                            p: txt.DEV[lang],
+                            class: "-dev"
+                        },                    
+                    ],
+                    class: 'a_section_content'
+                },
+            ],
+            class: 'a_section'
+        })
         _hidden.forEach(function (t) {
             $('.up_data').render({
                 div: [
@@ -325,15 +336,17 @@ $(function () {
                         class: 'a_section_head head_withimg'
                     },
                     {
-                        div: {
-                            p: function (k) {
-                                return "<color style='color:#f29d38'><b>" + k.data.Title + "</b></color><br>" + k.data.Desc
-                            },
-                            data: t.Notes,
-                            style: {
-                                'margin': '10px 0'
+                        div: [
+                            {
+                                p: function (k) {
+                                    return "<color style='color:#f29d38'><b>" + k.data.Title + "</b></color><br>" + k.data.Desc
+                                },
+                                data: t.Notes,
+                                style: {
+                                    'margin': '15px 0'
+                                }
                             }
-                        },
+                        ],
                         class: 'a_section_content'
                     },
                 ],
@@ -715,33 +728,33 @@ $(function () {
             ]
         })
         renderAvatar(cur_avatar_page)
+        if (!loaded.includes(this_avatar._id)) {
+            let script_computer_a = document.createElement('script')
+            script_computer_a.src = '/data/' + lang2 + '/Avatar/' + this_avatar._id + '.js'
+            document.head.append(script_computer_a)
+            script_computer_a.onload = function () {
+                loaded.push(this_avatar._id)
+                _avatarskill = {..._avatarskill, ..._avatarskill_}
+                _avatarskilltree = {..._avatarskilltree, ..._avatarskilltree_}
+                _avatarrank = {..._avatarrank, ..._avatarrank_}
+                _story = {..._story, ..._story_}
+                _voice = {..._voice, ..._voice_}
+            }
+        }
     }
 
     function renderAvatar(i) {
         clearInterval(check_interval)
         $('.lt').hide()
-        if (i > 1 && i < 5) {
-            if (a_2) {
+        if (i > 1 && i < 7) {
+            if (loaded.includes(this_avatar._id)) {
                 renderAvatarAfter(i)
             } else {
                 $('.lt').show()
                 check_interval = setInterval(function () {
-                    if (a_2) {
+                    if (loaded.includes(this_avatar._id)) {
                         $('.lt').hide()
                         clearInterval(check_interval)
-                        renderAvatarAfter(i)
-                    }
-                }, 200)
-            }
-        } else if (i > 4 && i < 7) {
-            if (a_3) {
-                renderAvatarAfter(i)
-            } else {
-                $('.lt').show()
-                check_interval_2 = setInterval(function () {
-                    if (a_3) {
-                        $('.lt').hide()
-                        clearInterval(check_interval_2)
                         renderAvatarAfter(i)
                     }
                 }, 200)
@@ -752,7 +765,7 @@ $(function () {
     }
 
     function renderAvatarAfter(i) {
-        if (a_2 && unchanged) {
+        if (loaded.includes(this_avatar._id) && unchanged) {
             this_avatar_vers = getVer(_avatarskill[this_avatar.Skills[0]])
             this_avatar_cur_ver = this_avatar_vers[1]
         }
@@ -1896,8 +1909,6 @@ $(function () {
 
     function popWeapon(ai) {
         this_weapon = _weapon[ai]
-        this_weapon_vers = getVer(_weaponskill[this_weapon.Skill])
-        this_weapon_cur_ver = this_weapon_vers[1]
         var mats = this_weapon.Mat
         if (!mats) {
             mats = [112003, 112003]
@@ -1952,8 +1963,8 @@ $(function () {
                                                         },
                                                     },
                                                     {
-                                                        p: this_weapon.Desc,
-                                                        class: 'weapon_story'
+                                                        p: '',
+                                                        class: 'weapon_story t_desc'
                                                     }
                                                 ]
                                             },
@@ -2004,45 +2015,11 @@ $(function () {
                             class: 'a_section'
                         },
                         {
-                            div: [
-                                {
-                                    div: [
-                                        {
-                                            span: _weaponskill[this_weapon.Skill][this_weapon_cur_ver].Name,
-                                            style: {
-                                                'margin': '0'
-                                            },
-                                            class: 'weapon_skill_name'
-                                        },
-                                        {
-                                            span: {
-                                                select: '',
-                                                options: this_weapon_vers[0]
-                                            },
-                                            class: 'stat_ver_choose_w'
-                                        }
-                                    ],
-                                    class: 'a_section_head'
-                                },
-                                {
-                                    div: {
-                                        p: `[[.]]`.replaceAll("<color style='color:#f29e38;'> <b>", "<color style='color:#f29e38;'>").replaceAll("<color style='color:#f29e38;'><b>", "<color style='color:#f29e38;'>").replaceAll("</b> </color>", "</color>").replaceAll("</b></color>", "</color>"),
-                                        data: _weaponskill[this_weapon.Skill][this_weapon_cur_ver].Desc
-                                    },
-                                    class: 'a_section_content weapon_skill'
-                                },
-                                
-                            ],
-                            class: 'a_section'
+                            div: [],
+                            class: 'a_section t_skill'
                         },
                         {
                             div: [
-                                {
-                                    div: {
-                                        p: txt.Weapon_Mats[lang]
-                                    },
-                                    class: 'a_section_head'
-                                },
                                 {
                                     div: [
                                         {
@@ -2120,18 +2097,85 @@ $(function () {
                                 },
                             ],
                             class: 'a_section',
-                            when: this_weapon.Mat
+                            when: this_weapon.Mat,
+                            style: {
+                                'padding-top': '6px'
+                            }
                         },
                     ],
                     class: 'mon_body'
                 },
             ]
         })
+
+        if (!loaded.includes(this_weapon._id)) {
+            let script_computer_a = document.createElement('script')
+            script_computer_a.src = '/data/' + lang2 + '/Weapon/' + this_weapon._id + '.js'
+            document.head.append(script_computer_a)
+            script_computer_a.onload = function () {
+                loaded.push(this_weapon._id)
+                _weapondesc = {..._weapondesc, ..._weapondesc_}
+                _weaponskill = {..._weaponskill, ..._weaponskill_}
+                decorateWeapon()
+            }
+        } else {
+            decorateWeapon()
+        }
+
+    }
+
+    function decorateWeapon() {
+        this_weapon_vers = getVer(_weaponskill[this_weapon.Skill])
+        this_weapon_cur_ver = this_weapon_vers[1]
+        $('.t_desc').html(_weapondesc[this_weapon._id])
+        $('.t_skill').render([
+            {
+                div: [
+                    {
+                        span: _weaponskill[this_weapon.Skill][this_weapon_cur_ver].Name,
+                        style: {
+                            'margin': '0'
+                        },
+                        class: 'weapon_skill_name'
+                    },
+                    {
+                        span: {
+                            select: '',
+                            options: this_weapon_vers[0]
+                        },
+                        class: 'stat_ver_choose_w'
+                    }
+                ],
+                class: 'a_section_head'
+            },
+            {
+                div: {
+                    p: `[[.]]`.replaceAll("<color style='color:#f29e38;'> <b>", "<color style='color:#f29e38;'>").replaceAll("<color style='color:#f29e38;'><b>", "<color style='color:#f29e38;'>").replaceAll("</b> </color>", "</color>").replaceAll("</b></color>", "</color>"),
+                    data: _weaponskill[this_weapon.Skill][this_weapon_cur_ver].Desc
+                },
+                class: 'a_section_content weapon_skill'
+            },
+        ])
         $('.stat_ver_choose_w select').val(this_weapon_cur_ver)
     }
 
     function popRelic(ai) {
         this_relic = _relic[ai]
+        if (!loaded.includes(this_relic._id)) {
+            let script_computer_a = document.createElement('script')
+            script_computer_a.src = '/data/' + lang2 + '/Relic/' + this_relic._id + '.js'
+            document.head.append(script_computer_a)
+            script_computer_a.onload = function () {
+                loaded.push(this_relic._id)
+                _relicitem = {..._relicitem, ..._relicitem_}
+                decorateRelic()
+            }
+        } else {
+            decorateRelic()
+        }
+    }
+
+    function decorateRelic() {
         poplayer({
             header: this_relic.Name + txt.Affix[lang],
             template: {
@@ -2139,7 +2183,7 @@ $(function () {
                 class: 'mon_body'
             }
         })
-        this_relic.Items.forEach(function (t, i) {
+        _relicitem[this_relic._id].forEach(function (t, i) {
             $('.mon_body').render({
                 template: {
                     div: {

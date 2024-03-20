@@ -1,0 +1,30 @@
+// Auto Generated
+
+var _relicitem_ = {
+    "107": [
+        {
+            "Name": "Firesmith's Obsidian Goggles",
+            "Desc": "Protective goggles crafted from dark-black fire crystals. Through these lenses, even the flurry of intense sparks becomes a mosaic of dull shadows.",
+            "Story": "To the Firesmith clan, crafting unparalleled weapons is both their talent's calling and a lifelong curse.<br><br>Ever since the arrival of the liberated Firesmith Clan in the world of Warforge, their skills bloomed to the extremes while also becoming tainted with the aura of Destruction.<br><br>The dazzling light of the furnace, the sparks of metal clashing, and the long-lasting forging process can turn raw ore into a fine weapon, but can also gradually strip the firesmith of their eyesight. One day, at the bottom of a volcano, Foy found a deposit of rare obsidian flame crystal. From this, he carefully polished a pair of protective goggles, which transformed the fierce sparks of fire into pale-white silhouettes. However, the greedy smith was unable to fully escape his cursed fate either, burning everything he was into cinders in the ultimate fire.<br><br>Foy deemed the Antimatter Legion in the Warforge as the raw materials for his creations, and himself as the rising flame.<br><br>\"I wonder... is it possible to harness the power of a thermonuclear reaction in my furnace?\" Foy's pursuit of the ultimate fire came to an unfruitful end in an out-of-control thermonuclear fusion.",
+            "Icon": "IconRelic_107_1.png"
+        },
+        {
+            "Name": "Firesmith's Ring of Flame-Mastery",
+            "Desc": "A ring with a symbol of flames. It is the highest symbol of honor among the Firesmith clan.",
+            "Story": "A 900-degree kiln can turn clay into ceramic, a 1000-degree furnace can melt tin and copper... As one pursues a purer creation, one must also pursue a more extreme temperature.<br><br>Creatures of the Legion crave for separation from the material existence, longing for the fundamental mutations that can only be brought forth by the scorching heat waves of Destruction.<br><br>A highly-skilled master Firesmith can raise the forge's temperature to unbelievable levels — the flame's black-body radiation would exhibit the blue spectrum like that of a dying star. Firesmiths are also geniuses at controlling flames, but only the best among them are bestowed with a ring of flame-mastery as a mark of their superb skill.<br><br>The Warforge had long ceased to differentiate between the smith and the smithed. All those Firesmith masters who had been smelting the Antimatter Creatures had also become parts of the Weapons of Destruction<br><br>\"The smelting depends on the temperature, and the temperature depends on the Firesmith.\" This is matter-of-fact knowledge to any Firesmith who can control the art of Destruction.",
+            "Icon": "IconRelic_107_2.png"
+        },
+        {
+            "Name": "Firesmith's Fireproof Apron",
+            "Desc": "A blacksmith's apron without any superfluous adornment. The texture of the leather and the family emblem are clearly visible.",
+            "Story": "The Antimatter Legion gifted the dying Warforge to the Firesmiths, letting them forge to their hearts' desire in a fiery world.<br><br>In this scorching world of lava, as long as the smelting and hammering never ceased, creation and destruction were no longer polar opposites of each other.<br><br>Surtur was especially good at using the molten magma that erupted from active volcanoes to infuse the Legion's creatures with a violent aura of destruction. Neither the bubbling of toxic gases nor the gurgling of magma could interrupt Surtur's concentration at the forge. Though burning waves of molten rock would splash on Surtur's fireproof apron of giant firelizard skin, the leather never lost its luster when the flames faded.<br><br>A massive proportion of the Legion's fighting forces were repeatedly hammered and smelted in the forge until their flesh and weaponry were fused together under the hammers of the Firesmiths, becoming weapons of Destruction.<br><br>\"This incomparable power of destruction...\" The Firesmiths who control the flames have never hidden the terrible aspirations they place in their weapons.",
+            "Icon": "IconRelic_107_3.png"
+        },
+        {
+            "Name": "Firesmith's Alloy Leg",
+            "Desc": "A prosthetic produced from metallic alloy. Its surface is entwined with vivid fiery carvings.",
+            "Story": "In the old days, the prison masters feared losing the extraordinary arts of Firesmithing, so they would employ the most despicable tricks to incarcerate the Firesmith clan — all the chiefs of the Firesmiths would undoubtedly suffer deformities in the legs in those days of imprisonment.<br><br>It was the Master of Destruction that set free the imprisoned Firesmith clan and bestowed upon them the mark of Destruction which in turn granted the Firesmiths unlimited power.<br><br>Despite the inability to move around like an able-bodied man, the chief of Firesmith obtained true freedom, for he was no longer imprisoned just for his extraordinary skills and talents in the art of Firesmithing. The chief poured in all his resentment and humiliation into the forge and would never be tired, not even by days of non-stop hammering. Upon one hammering after another, the once stubborn and proud antimatter creatures had to eventually change their form and give in to the remolding by the Destroyer.<br><br>Despite being free from any tangible cages, the Firesmiths' obsession with forging had become another form of prison for them, had it not?<br><br>\"Flesh and blood are a burden. Forging is also destruction.\" The chief looked at the ever-growing number of deformed Firesmiths and lamented.",
+            "Icon": "IconRelic_107_4.png"
+        }
+    ]
+}
