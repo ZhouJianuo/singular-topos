@@ -3601,7 +3601,7 @@ var _hidden = [
             },
             {
                 "Title": "Ultimate",
-                "Desc": "Robin's music starts. She leaves the stage, creates a Singer Aura that increases all allies' DMG dealt, adds a Singer to the action bar, and causes all allies to take action immediately.<br>While Singer Aura is active, Robin cannot take action and is immune to Crowd Control debuffs.<br>The Singer takes action only once, removing Singer Aura and causing Robin to take action immediately."
+                "Desc": "Robin's exclusive music starts playing. She leaves the stage, creates a Singer Aura that increases all allies' DMG dealt, adds a Singer to the action bar, and causes all allies to take action immediately.<br>While Singer Aura is active, Robin cannot take action and is immune to Crowd Control debuffs.<br>The Singer will take action only once, removing Singer Aura and causing Robin to take action immediately."
             },
             {
                 "Title": "Talent",
@@ -3609,7 +3609,7 @@ var _hidden = [
             },
             {
                 "Title": "Technique",
-                "Desc": "Summon a bird which disappears after a short period of time and applies a Charm effect to all enemies."
+                "Desc": "Summon a bird which disappears after a short period of time. All enemies nearby will receive a \"Charmed\" effect."
             },
             {
                 "Title": "Trace #1",

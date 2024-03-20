@@ -315,7 +315,7 @@ $(function () {
             ],
             class: 'a_section'
         })
-        _hidden.forEach(function (t) {
+        _hidden.forEach(function (t, i) {
             $('.up_data').render({
                 div: [
                     {
@@ -331,9 +331,32 @@ $(function () {
                                     color: t.Color ? ('#' + elemcolor[t.Color]) : ''
                                 },
                                 class: t.Mon ? 'head_right hr_1' : ''
+                            },
+                            {
+                                div: {
+                                    img: imgpre + 'images/Misc/pls.png',
+                                    style: {
+                                        height: '1em',
+                                        cursor: 'pointer'
+                                    }
+                                },
+                                style: {
+                                    'width': '100%',
+                                    'display': 'flex',
+                                    'justify-content': 'center',
+                                },
+                                class: 'show_up',
+                                a: {
+                                    'data-id': '_' + i,
+                                    'data-show': 'no'
+                                }
                             }
                         ],
-                        class: 'a_section_head head_withimg'
+                        class: 'a_section_head head_withimg',
+                        style: {
+                            'justify-content': 'center',
+                            'font-size': '1.5em'
+                        }
                     },
                     {
                         div: [
@@ -347,13 +370,28 @@ $(function () {
                                 }
                             }
                         ],
-                        class: 'a_section_content'
+                        class: 'a_section_content s_' + i,
+                        style: {
+                            'display': 'none'
+                        }
                     },
                 ],
                 class: 'a_section'
             })
         })
     }
+
+    $('body').on('click', '.show_up', function () {
+        var shows = $(this).attr('data-show')
+        var jd = $(this).attr('data-id')
+        if (shows == 'no') {
+            $(this).attr('data-show', 'yes')
+            $('.s' + jd).show()
+        } else {
+            $(this).attr('data-show', 'no')
+            $('.s' + jd).hide()
+        }
+    })
 
     $('body').on('click', '.a_w_r schedule', function () {
         if ($(this).hasClass('active')) {
