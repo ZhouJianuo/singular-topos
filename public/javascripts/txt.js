@@ -294,9 +294,9 @@ var txt = {
         "RU": "Журнал изменений"
     },
     "Upcoming": {
-        "CH": "未来角色",
-        "EN": "Upcoming Characters",
-        "RU": "Будущие персонажи"
+        "CH": "未来信息",
+        "EN": "Upcoming Stuff",
+        "RU": "Предстоящие"
     },
     "Avatar_Head": [
         {
