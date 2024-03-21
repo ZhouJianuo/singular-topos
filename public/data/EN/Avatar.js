@@ -3588,6 +3588,48 @@ var _changelog = [
 
 var _hidden = [
     {
+        "Name": "Upcoming Relics",
+        "Notes": [
+            {
+                "Title": "Relic 1",
+                "Desc": "2-Piece: ???<br>4-Piece: When the wearer's Break Effect is greater than a certain value, their Crit DMG is increased by a certain value."
+            },
+            {
+                "Title": "Relic 2",
+                "Desc": "2-Piece: ???<br>4-Piece: When the wearer uses an Ultimate or before performing a follow-up attack, they gain 1 stack of Boost, increasing all DMG dealt, max 2 stacks. When the wearer's turn ends, all stacks of Boost are removed."
+            }
+        ]
+    },
+    {
+        "Name": "Upcoming Lightcones",
+        "Notes": [
+            {
+                "Title": "Limited 5★ (1)",
+                "Desc": "Before Ultimate DMG hits an opponent, Break Effect and Crit DMG are increased, lasting for some turns."
+            },
+            {
+                "Title": "Limited 5★ (2)",
+                "Desc": "When an ally except the wearer is attacked, the wearer's Energy Regeneration Rate is increased, stackable.<br>When casting Ultimate, clears the aforementioned Energy Regeneration Rate boost, increases all allies' DMG dealt and increases the wearer's DMG dealt by an extra amount, lasting for some turns."
+            },
+            {
+                "Title": "Limited 5★ (3)",
+                "Desc": "Before the wearer attacks a target, inflicts 1 stack of Mark on the target, increasing the target's DMG taken, stackable. At most 1 enemy can have Mark.<br>When an enemy with debuffs is defeated by any entity, the wearer regenerates some Energy. This effect can be triggered a certain number of times between each of the wearer's turns."
+            },
+            {
+                "Title": "Limited 5★ (4)",
+                "Desc": "When the wearer performs a follow-up attack, for every Y of the wearer's ATK that exceeds X, this follow-up attack's DMG dealt is increased by Z.<br>Upon entering battle or after using a Basic ATK, the DMG dealt by the wearer's Ultimate and follow-up attacks will ignore some of the target's DEF, lasting for some turns."
+            },
+            {
+                "Title": "Simulated Universe Shop 5★",
+                "Desc": "Ultimate and follow-up attacks' Crit DMG is increased. After hitting enemies that are Weakness Broken, ATK is increased.<br>(There are signs that the ATK boost may be changed to a Crit Rate boost)"
+            },
+            {
+                "Title": "Event Reward 4★",
+                "Desc": "After casting Ultimate, ATK is increased for some turns"
+            }
+        ]
+    },
+    {
         "Name": "Robin",
         "Color": "Phys",
         "Notes": [
@@ -3601,7 +3643,7 @@ var _hidden = [
             },
             {
                 "Title": "Ultimate",
-                "Desc": "Robin's exclusive music starts playing. She leaves the stage, creates a Singer Aura that increases all allies' DMG dealt, adds a Singer to the action bar, and causes all allies to take action immediately.<br>While Singer Aura is active, Robin cannot take action and is immune to Crowd Control debuffs.<br>The Singer will take action only once, removing Singer Aura and causing Robin to take action immediately."
+                "Desc": "Robin's exclusive music starts playing. She leaves the stage, creates a Singer Aura that increases all other allies' DMG dealt, adds a Singer to the action bar, and causes all allies to take action immediately.<br>While Singer Aura is active, Robin cannot take action and is immune to Crowd Control debuffs.<br>The Singer will take action only once, removing Singer Aura and causing Robin to take action immediately."
             },
             {
                 "Title": "Talent",
