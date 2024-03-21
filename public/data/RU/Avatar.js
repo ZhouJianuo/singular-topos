@@ -3604,12 +3604,12 @@ var _hidden = [
         "Name": "Upcoming Lightcones",
         "Notes": [
             {
-                "Title": "Limited 5★ (Boothil)",
-                "Desc": "Before Ultimate DMG hits an opponent, Break Effect and Crit DMG are increased, lasting for some turns."
+                "Title": "Limited 5★ (Possible for Boothil)",
+                "Desc": "Before Ultimate DMG hits an opponent, Break Effect and Crit Rate are increased, lasting for some turns."
             },
             {
-                "Title": "Limited 5★ (Robin)",
-                "Desc": "When an ally except the wearer is attacked, the wearer's Energy Regeneration Rate is increased, stackable.<br>When casting Ultimate, clears the aforementioned Energy Regeneration Rate boost, increases all allies' DMG dealt and increases the wearer's DMG dealt by an extra amount, lasting for some turns."
+                "Title": "Limited 5★ (Possible for Robin)",
+                "Desc": "When any ally is attacked, the wearer's Energy Regeneration Rate is increased, stackable.<br>When casting Ultimate, clears the aforementioned Energy Regeneration Rate boost, increases all allies' DMG dealt and increases the wearer's DMG dealt by an extra amount, lasting for some turns."
             },
             {
                 "Title": "Limited 5★",
