@@ -3604,19 +3604,19 @@ var _hidden = [
         "Name": "Upcoming Lightcones",
         "Notes": [
             {
-                "Title": "Limited 5★ (1)",
+                "Title": "Limited 5★ (Boothil)",
                 "Desc": "Before Ultimate DMG hits an opponent, Break Effect and Crit DMG are increased, lasting for some turns."
             },
             {
-                "Title": "Limited 5★ (2)",
+                "Title": "Limited 5★ (Robin)",
                 "Desc": "When an ally except the wearer is attacked, the wearer's Energy Regeneration Rate is increased, stackable.<br>When casting Ultimate, clears the aforementioned Energy Regeneration Rate boost, increases all allies' DMG dealt and increases the wearer's DMG dealt by an extra amount, lasting for some turns."
             },
             {
-                "Title": "Limited 5★ (3)",
+                "Title": "Limited 5★",
                 "Desc": "Before the wearer attacks a target, inflicts 1 stack of Mark on the target, increasing the target's DMG taken, stackable. At most 1 enemy can have Mark.<br>When an enemy with debuffs is defeated by any entity, the wearer regenerates some Energy. This effect can be triggered a certain number of times between each of the wearer's turns."
             },
             {
-                "Title": "Limited 5★ (4)",
+                "Title": "Limited 5★",
                 "Desc": "When the wearer performs a follow-up attack, for every Y of the wearer's ATK that exceeds X, this follow-up attack's DMG dealt is increased by Z.<br>Upon entering battle or after using a Basic ATK, the DMG dealt by the wearer's Ultimate and follow-up attacks will ignore some of the target's DEF, lasting for some turns."
             },
             {
