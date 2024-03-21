@@ -2323,4 +2323,8 @@ $(function () {
         $('.area').hide()
     })
 
+    $('body').on('click', '.title', function () {
+        $('.area').show()
+    })
+
 })
