@@ -85,6 +85,7 @@ $(function () {
                                     cl_show = 1 - cl_show
                                     up_show = 0
                                     $('.up_all').hide()
+                                    $('.area').show()
                                     if (cl_show) {
                                         $('.cl_all').show()
                                     } else {
@@ -106,8 +107,10 @@ $(function () {
                                     $('.cl_all').hide()
                                     if (up_show) {
                                         $('.up_all').show()
+                                        $('.area').hide()
                                     } else {
                                         $('.up_all').hide()
+                                        $('.area').show()
                                     }
                                 },
                                 style: {
