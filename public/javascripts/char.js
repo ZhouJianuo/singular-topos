@@ -334,16 +334,16 @@ $(function () {
                             },
                             {
                                 div: {
-                                    img: imgpre + 'images/Misc/pls.png',
-                                    style: {
-                                        height: '1em',
-                                        cursor: 'pointer'
-                                    }
+                                    p: '+',
                                 },
                                 style: {
                                     'width': '100%',
                                     'display': 'flex',
                                     'justify-content': 'center',
+                                    cursor: 'pointer',
+                                    'margin-top': '-5px',
+                                    'margin-bottom': '-5px',
+                                    'font-size': '1.4em'
                                 },
                                 class: 'show_up',
                                 a: {
