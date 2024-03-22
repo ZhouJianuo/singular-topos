@@ -3588,38 +3588,40 @@ var _changelog = [
 
 var _hidden = [
     {
-        "Name": "Sunday",
-        "Color": "Ice",
-        "Mon": true,
-        "Hidden": true,
+        "Name": "Jiaoqiu",
+        "Color": "Fire",
         "Notes": [
             {
-                "Title": "Skill #1",
-                "Desc": "Deals Ice DMG to a single target, and take action again."
+                "Title": "Basic ATK",
+                "Desc": "Deals Fire DMG to a single target, and has a Base Chance to apply 1 stack of Flavour to the target."
             },
             {
-                "Title": "Skill #2",
-                "Desc": "Deals Ice DMG to all targets."
+                "Title": "Skill",
+                "Desc": "Deals Fire DMG to a single target and adjacent targets, and has a Base Chance to apply 1 stack of Flavour to the targets.<br>The Base Chance on the central target is higher. The Base Chance on adjacent targets is equal to the chance in Basic ATK."
             },
             {
-                "Title": "Skill #3",
-                "Desc": "Has a chance to inflict Sleep on a random target, lasting for some turns.<br>During Sleep, the target is unable to take action, and DMG taken is increased by ``100%`. After being attacked, dispels Sleep."
+                "Title": "Ultimate",
+                "Desc": "Applies Aura to delf, lasting for some turns.<br>Deals Fire DMG to all targets, and has a Base Chance to apply 1 stack of Flavour to the targets. The Base Chance is equal to the chance in Basic ATK.<br>After the application, the Flavour stack of all enemy targets will be set to the maximum number of stacks of Flavour held by enemy targets. This effect ignores RES."
             },
             {
-                "Title": "Skill #3",
-                "Desc": ""
+                "Title": "Talent",
+                "Desc": "<b>Flavour: </b>Decreases DEF, stackable, has upper limit. When stacking more than 1 stack, the increase in DEF reduction will be lower than the DEF reduction of the first stack.<br><b>Aura: </b>The remaining duration decreases by 1 at the start of Jiaoqiu's turn. During Aura, at the start of every ally's turn, this ally heals a percentage of their Max HP plus a fixed amount of HP. During Aura, all enemies take increased Ultimate DMG.<br><b>Extra Effect: </b>When Jiaoqiu is on field, all enemies will be inflicted with an unknown debuff."
             },
             {
-                "Title": "Skill #3",
-                "Desc": ""
+                "Title": "Trace #1",
+                "Desc": "During Aura, at the start of any enemy's turn, Jiaoqiu deals Additional Fire DMG to this target.<br>During Aura, when any enemy takes action, Jiaoqiu has a Base Chance to apply 1 stack of Flavour to this target."
             },
             {
-                "Title": "Skill #3",
-                "Desc": ""
+                "Title": "Trace #2",
+                "Desc": "When casting Skill, regenerate some extra Energy."
             },
             {
-                "Title": "Skill #3",
-                "Desc": ""
+                "Title": "Trace #3",
+                "Desc": "During Aura, when a new enemy enters the battle:<br>- If no enemy has Flavour, or if the Flavour stack of every enemy is lower than some number, the Flavour stack of all enemy targets will be set to this number. This effect ignores RES.<br>- Otherwise, the Flavour stack of all enemy targets will be set to the maximum number of stacks of Flavour held by enemy targets. This effect ignores RES."
+            },
+            {
+                "Title": "Technique",
+                "Desc": "After using this technique, creats a dimension. After entering battle with enemies in the dimension, will ???"
             }
         ]
     },
