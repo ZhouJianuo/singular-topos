@@ -3605,11 +3605,11 @@ var _hidden = [
             },
             {
                 "Title": "Talent",
-                "Desc": "When allies with Nephrite attacks enemies, every enemy attacked will provide Jade with a certain number of Credits. When Jade uses Basic ATK or Ultimate, every enemy attacked will provide Jade with 1 Credit.<br>These two effects can be triggered simultaneously, but every enemy can only trigger them each once in each attack event.<br>When Jade reaches a certain number of Credits, she will consume this number of Credits to unleash a follow-up attack on all enemy targets.<br>For every enemy that appears on field, Jade will gain 1 stack of Jadeite, increasing her ATK. This effect persists even after the enemy is defeated or leaves. When Jade performs a follow-up attack, she will gain a certain number of stacks of Jadeite. The number of Jadeite stacks has an upper limit."
+                "Desc": "When allies with Nephrite attacks enemies, every enemy attacked will provide Jade with a certain number of Credits. When Jade uses Basic ATK or Ultimate, every enemy attacked will provide Jade with 1 Credit. These two effects can be triggered simultaneously, but every enemy can only trigger each of them once in every attack event.<br>When Jade reaches a certain number of Credits, she will consume this number of Credits to unleash a follow-up attack, dealing Quantum DMG to all enemy targets.<br>For every enemy that appears on field, Jade will gain 1 stack of Jadeite, increasing her ATK. This effect persists even after the enemy is defeated or leaves. When Jade performs a follow-up attack, she will gain a certain number of stacks of Jadeite. The number of Jadeite stacks has an upper limit."
             },
             {
                 "Title": "Trace #1",
-                "Desc": "When allies with Nephrite attacks, Jade will regenerate some Energy."
+                "Desc": "When allies with Nephrite performs an attack, Jade will regenerate some Energy."
             },
             {
                 "Title": "Trace #2",
@@ -3621,7 +3621,7 @@ var _hidden = [
             },
             {
                 "Title": "Technique",
-                "Desc": "When Jade enters the overworld, will summon an following entity. This entity will inflict Blind to nearby enemies. Blinded enemies cannot detect your team.<br>Upon using the technique, will shoot a bullet at an enemy. If the bullet hit an enemy with Blind, will apply an effect to Jade and another effect to all enemies after entering battle."
+                "Desc": "When Jade enters the overworld, will summon an following entity. This entity will inflict Blind to nearby enemies. Blinded enemies cannot detect your team.<br>Upon using this technique, Jade will shoot a bullet at an enemy. If the bullet hit an enemy with Blind, will apply an effect to Jade and another effect to all enemies after entering battle."
             }
         ]
     },
