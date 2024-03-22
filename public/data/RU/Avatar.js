@@ -3588,6 +3588,44 @@ var _changelog = [
 
 var _hidden = [
     {
+        "Name": "Jade",
+        "Color": "Quantum",
+        "Notes": [
+            {
+                "Title": "Basic ATK",
+                "Desc": "Deals Quantum DMG to a single target and adjacent targets. "
+            },
+            {
+                "Title": "Skill",
+                "Desc": "Applies the Nephrite effect to a single ally. At the start of Jade's own turn, Nephrite's remaining duration decreases by 1. At most 1 ally can have the Nephrite effect.<br>When the ally with Nephrite attacks an enemy, Jade deals Additional Quantum DMG to the attacked target(s).<br>If the ally with Nephrite is not Jade, Nephrite will also increase this ally's SPD, and will consume a percentage of this ally's Max HP when Nephrite is applied, draining to 1 HP if HP is insufficient.<br>In auto combat, this skill will prioritize Erudition path characters."
+            },
+            {
+                "Title": "Ultimate",
+                "Desc": "Deals Quantum DMG to all enemies and gains a certain number of Enhanced Follow-Up charges.<br>When Jade performs a follow-up attack, if Jade has Enhanced Follow-Up charges, she will consume 1 charge to make this attack deal extra DMG."
+            },
+            {
+                "Title": "Talent",
+                "Desc": "When allies with Nephrite attacks enemies, every enemy attacked will provide Jade with a certain number of Credits. When Jade uses Basic ATK or Ultimate, every enemy attacked will provide Jade with 1 Credit.<br>These two effects can be triggered simultaneously, but every enemy can only trigger them each once in each attack event.<br>When Jade reaches a certain number of Credits, she will consume this number of Credits to unleash a follow-up attack on all enemy targets.<br>For every enemy that appears on field, Jade will gain 1 stack of Jadeite, increasing her ATK. This effect persists even after the enemy is defeated or leaves. When Jade performs a follow-up attack, she will gain a certain number of stacks of Jadeite. The number of Jadeite stacks has an upper limit."
+            },
+            {
+                "Title": "Trace #1",
+                "Desc": "When allies with Nephrite attacks, Jade will regenerate some Energy."
+            },
+            {
+                "Title": "Trace #2",
+                "Desc": "Upon entering battle, Jade's action is advanced by a certain amount."
+            },
+            {
+                "Title": "Trace #3",
+                "Desc": "Every stack of Jadeite will also increase Jade's Crit DMG.<br>After any enemy is defeated by any entity, Jade's Crit DMG will be increased. This effect has an upper limit."
+            },
+            {
+                "Title": "Technique",
+                "Desc": "When Jade enters the overworld, will summon an following entity. This entity will inflict Blind to nearby enemies. Blinded enemies cannot detect your team.<br>Upon using the technique, will shoot a bullet at an enemy. If the bullet hit an enemy with Blind, will apply an effect to Jade and another effect to all enemies after entering battle."
+            }
+        ]
+    },
+    {
         "Name": "Upcoming Relics",
         "Notes": [
             {
@@ -3643,7 +3681,7 @@ var _hidden = [
             },
             {
                 "Title": "Ultimate",
-                "Desc": "Robin's exclusive music starts playing. She leaves the stage, creates a Singer Aura that increases all other allies' DMG dealt, adds a Singer to the action bar, and causes all allies to take action immediately.<br>While Singer Aura is active, Robin cannot take action and is immune to Crowd Control debuffs.<br>The Singer will take action only once, removing Singer Aura and causing Robin to take action immediately."
+                "Desc": "Robin's exclusive music starts playing, replacing the battle BGM for a short while. Robin leaves the stage, creates a Singer Aura that increases all other allies' DMG dealt, adds a Singer to the action bar, and causes all allies to take action immediately.<br>While Singer Aura is active, Robin cannot take action and is immune to Crowd Control debuffs.<br>The Singer will take action only once, removing Singer Aura and causing Robin to take action immediately."
             },
             {
                 "Title": "Talent",
