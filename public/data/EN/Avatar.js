@@ -3588,6 +3588,55 @@ var _changelog = [
 
 var _hidden = [
     {
+        "Name": "Sunday",
+        "Color": "Ice",
+        "Mon": true,
+        "Hidden": true,
+        "Notes": [
+            {
+                "Title": "Skill #1",
+                "Desc": "Deals Ice DMG to a single target, and take action again."
+            },
+            {
+                "Title": "Skill #2",
+                "Desc": "Deals Ice DMG to all targets."
+            },
+            {
+                "Title": "Skill #3",
+                "Desc": "Has a chance to inflict Sleep on a random target, lasting for some turns.<br>During Sleep, the target is unable to take action, and DMG taken is increased by ``100%`. After being attacked, dispels Sleep."
+            },
+            {
+                "Title": "Skill #3",
+                "Desc": ""
+            },
+            {
+                "Title": "Skill #3",
+                "Desc": ""
+            },
+            {
+                "Title": "Skill #3",
+                "Desc": ""
+            },
+            {
+                "Title": "Skill #3",
+                "Desc": ""
+            }
+        ]
+    },
+    {
+        "Name": "2.2 Memory of Chaos",
+        "Notes": [
+            {
+                "Title": "Phase 1",
+                "Desc": "At the start of every wave or cycle, all allies reset to ``6` stacks of Memory Imprint.<br>When an ally unleashes an attack, all allies consume 1 stack of Memory Imprint to increase the DMG dealt by this attack by ``50%`.<br>When all stacks of Memory Imprint are consumed, regenerate ``50%` energy for all allies. The regeneration of this effect can exceed the energy cap."
+            },
+            {
+                "Title": "Phase 2",
+                "Desc": "At the start of every wave of cycle, summon a Trotter onto the field.<br>When an ally triggers Weakness Broken on the Trotter, the Trotter will die immediately and advance this character's action by ``100%`. Also, all allies will gain 1 stack of Memory Imprint, increasing ATK and Break Effect by ``30%`, lasting forever, max 4 stacks."
+            }
+        ]
+    },
+    {
         "Name": "Jade",
         "Color": "Quantum",
         "Notes": [

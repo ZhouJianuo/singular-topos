@@ -316,21 +316,29 @@ $(function () {
             class: 'a_section'
         })
         _hidden.forEach(function (t, i) {
+            if (t.Hidden) return
             $('.up_data').render({
                 div: [
                     {
                         div: [
                             {
-                                img: imgpre + 'images/GCG_UI/Monster.png',
-                                class: 'head_left',
-                                when: t.Mon
-                            },
-                            {
                                 p: t.Name,
                                 style: {
                                     color: t.Color ? ('#' + elemcolor[t.Color]) : ''
                                 },
-                                class: t.Mon ? 'head_right hr_1' : ''
+                            },
+                            {
+                                p: {
+                                    img: imgpre + 'images/GCG_UI/Monster.png',
+                                    height: '1.2em'
+                                },
+                                when: t.Mon,
+                                style: {
+                                    'width': '100%',
+                                    'text-align': 'center',
+                                    'margin-top': '10px',
+                                    'margin-bottom': '-10px'
+                                }
                             },
                             {
                                 div: {
@@ -362,7 +370,7 @@ $(function () {
                         div: [
                             {
                                 p: function (k) {
-                                    return "<color style='color:#f29d38'><b>" + k.data.Title + "</b></color><br>" + k.data.Desc
+                                    return "<color style='color:#f29d38'><b>" + k.data.Title + "</b></color><br>" + k.data.Desc.replaceAll("``", "<color style='color:#f29d38'>").replaceAll("`", "</color> ")
                                 },
                                 data: t.Notes,
                                 style: {
