@@ -328,6 +328,17 @@ $(function () {
                                 },
                             },
                             {
+                                p: t.Date,
+                                style: {
+                                    'font-size': '0.7em',
+                                    'font-weight': 'normal',
+                                    width: '100%',
+                                    'text-align': 'center',
+                                    'margin-top': '5px',
+                                },
+                                when: t.Date && t.Date.length
+                            },
+                            {
                                 p: {
                                     img: imgpre + 'images/GCG_UI/Monster.png',
                                     height: '1.2em'

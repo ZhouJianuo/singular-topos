@@ -3589,6 +3589,7 @@ var _changelog = [
 var _hidden = [
     {
         "Name": "波提欧",
+        "Date": "2024/03",
         "Color": "Phys",
         "Hidden": true,
         "Notes": [
@@ -3644,6 +3645,7 @@ var _hidden = [
     },
     {
         "Name": "螺丝咕姆",
+        "Date": "2024/03",
         "Color": "Imaginary",
         "Hidden": true,
         "Notes": [
@@ -3698,7 +3700,8 @@ var _hidden = [
         ]
     },
     {
-        "Name": "流萤 / 萨姆",
+        "Name": "流萤 / 萨姆（早期）",
+        "Date": "2024/03",
         "Color": "Fire",
         "Hidden": true,
         "Notes": [
@@ -3766,6 +3769,7 @@ var _hidden = [
     },
     {
         "Name": "星期日",
+        "Date": "2024/03",
         "Color": "Ice",
         "Notes": [
             {
@@ -3816,6 +3820,7 @@ var _hidden = [
     },
     {
         "Name": "椒丘",
+        "Date": "2024/03",
         "Color": "Fire",
         "Notes": [
             {
@@ -3854,6 +3859,7 @@ var _hidden = [
     },
     {
         "Name": "2.2 混沌回忆",
+        "Date": "2024/03",
         "Notes": [
             {
                 "Title": "第一期",
@@ -3867,6 +3873,7 @@ var _hidden = [
     },
     {
         "Name": "翡翠",
+        "Date": "2024/03",
         "Color": "Quantum",
         "Notes": [
             {
@@ -3905,6 +3912,7 @@ var _hidden = [
     },
     {
         "Name": "未来遗器",
+        "Date": "2024/03",
         "Notes": [
             {
                 "Title": "遗器 1",
@@ -3918,6 +3926,7 @@ var _hidden = [
     },
     {
         "Name": "未来光锥",
+        "Date": "2024/03",
         "Notes": [
             {
                 "Title": "限定五星（可能波提欧）",
@@ -3947,6 +3956,7 @@ var _hidden = [
     },
     {
         "Name": "知更鸟",
+        "Date": "2024/03",
         "Color": "Phys",
         "Notes": [
             {

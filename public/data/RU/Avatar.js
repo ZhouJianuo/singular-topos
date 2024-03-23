@@ -3589,6 +3589,7 @@ var _changelog = [
 var _hidden = [
     {
         "Name": "Boothil",
+        "Date": "2024/03",
         "Color": "Phys",
         "Hidden": true,
         "Notes": [
@@ -3644,6 +3645,7 @@ var _hidden = [
     },
     {
         "Name": "Screwllum",
+        "Date": "2024/03",
         "Color": "Imaginary",
         "Hidden": true,
         "Notes": [
@@ -3698,7 +3700,8 @@ var _hidden = [
         ]
     },
     {
-        "Name": "Firefly / Sam",
+        "Name": "Firefly / Sam (Early)",
+        "Date": "2024/03",
         "Color": "Fire",
         "Hidden": true,
         "Notes": [
@@ -3766,6 +3769,7 @@ var _hidden = [
     },
     {
         "Name": "Sunday",
+        "Date": "2024/03",
         "Color": "Ice",
         "Notes": [
             {
@@ -3816,6 +3820,7 @@ var _hidden = [
     },
     {
         "Name": "Jiaoqiu",
+        "Date": "2024/03",
         "Color": "Fire",
         "Notes": [
             {
@@ -3854,6 +3859,7 @@ var _hidden = [
     },
     {
         "Name": "2.2 Memory of Chaos",
+        "Date": "2024/03",
         "Notes": [
             {
                 "Title": "Phase 1",
@@ -3867,6 +3873,7 @@ var _hidden = [
     },
     {
         "Name": "Jade",
+        "Date": "2024/03",
         "Color": "Quantum",
         "Notes": [
             {
@@ -3905,6 +3912,7 @@ var _hidden = [
     },
     {
         "Name": "Upcoming Relics",
+        "Date": "2024/03",
         "Notes": [
             {
                 "Title": "Relic 1",
@@ -3918,6 +3926,7 @@ var _hidden = [
     },
     {
         "Name": "Upcoming Lightcones",
+        "Date": "2024/03",
         "Notes": [
             {
                 "Title": "Limited 5★ (Possible for Boothil)",
@@ -3947,6 +3956,7 @@ var _hidden = [
     },
     {
         "Name": "Robin",
+        "Date": "2024/03",
         "Color": "Phys",
         "Notes": [
             {
