@@ -3746,7 +3746,7 @@ var _hidden = [
             },
             {
                 "Title": "Eidolon #1",
-                "Desc": "When casting Enhanced Skill: Smoldering Wasteland, before the DMG is dealt, inserts a Fire Weakness to the central single target, lasting for some turns. This effect ignores RES."
+                "Desc": "When casting Enhanced Skill: Devouring Conflagration, before the DMG is dealt, inserts a Fire Weakness to the central single target, lasting for some turns. This effect ignores RES."
             },
             {
                 "Title": "Eidolon #2",
