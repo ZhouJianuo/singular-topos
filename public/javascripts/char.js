@@ -328,7 +328,7 @@ $(function () {
                                 },
                             },
                             {
-                                p: t.Date,
+                                p: t.Date + '<br>' + ((lang == 'CH') ? t.Ver.replaceAll('Live', '正式服') : t.Ver),
                                 style: {
                                     'font-size': '0.7em',
                                     'font-weight': 'normal',
@@ -336,7 +336,6 @@ $(function () {
                                     'text-align': 'center',
                                     'margin-top': '5px',
                                 },
-                                when: t.Date && t.Date.length
                             },
                             {
                                 p: {
