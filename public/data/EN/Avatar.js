@@ -3588,6 +3588,233 @@ var _changelog = [
 
 var _hidden = [
     {
+        "Name": "Boothil",
+        "Color": "Phys",
+        "Hidden": true,
+        "Notes": [
+            {
+                "Title": "Basic ATK",
+                "Desc": ""
+            },
+            {
+                "Title": "Skill",
+                "Desc": ""
+            },
+            {
+                "Title": "Ultimate",
+                "Desc": ""
+            },
+            {
+                "Title": "Talent",
+                "Desc": ""
+            },
+            {
+                "Title": "Technique",
+                "Desc": ""
+            },
+            {
+                "Title": "Trace #1",
+                "Desc": ""
+            },
+            {
+                "Title": "Trace #2",
+                "Desc": ""
+            },
+            {
+                "Title": "Trace #3",
+                "Desc": ""
+            },
+            {
+                "Title": "Eidolon #1",
+                "Desc": ""
+            },
+            {
+                "Title": "Eidolon #2",
+                "Desc": ""
+            },
+            {
+                "Title": "Eidolon #4",
+                "Desc": ""
+            },
+            {
+                "Title": "Eidolon #6",
+                "Desc": ""
+            }
+        ]
+    },
+    {
+        "Name": "Screwllum",
+        "Color": "Imaginary",
+        "Hidden": true,
+        "Notes": [
+            {
+                "Title": "Basic ATK",
+                "Desc": ""
+            },
+            {
+                "Title": "Skill",
+                "Desc": ""
+            },
+            {
+                "Title": "Ultimate",
+                "Desc": ""
+            },
+            {
+                "Title": "Talent",
+                "Desc": ""
+            },
+            {
+                "Title": "Technique",
+                "Desc": ""
+            },
+            {
+                "Title": "Trace #1",
+                "Desc": ""
+            },
+            {
+                "Title": "Trace #2",
+                "Desc": ""
+            },
+            {
+                "Title": "Trace #3",
+                "Desc": ""
+            },
+            {
+                "Title": "Eidolon #1",
+                "Desc": ""
+            },
+            {
+                "Title": "Eidolon #2",
+                "Desc": ""
+            },
+            {
+                "Title": "Eidolon #4",
+                "Desc": ""
+            },
+            {
+                "Title": "Eidolon #6",
+                "Desc": ""
+            }
+        ]
+    },
+    {
+        "Name": "Firefly / Sam",
+        "Color": "Fire",
+        "Hidden": true,
+        "Notes": [
+            {
+                "Title": "Basic ATK",
+                "Desc": "Deals Fire DMG to a single target."
+            },
+            {
+                "Title": "Enhanced Basic ATK: Smoldering Wasteland",
+                "Desc": "Heals a percentage of own Max HP, and deals Fire DMG to a single target."
+            },
+            {
+                "Title": "Skill",
+                "Desc": "Consumes a percentage of own Max HP, and deals Fire DMG to a single target.<br>After the attack, if the target is Weakness Broken, regenerate some Energy."
+            },
+            {
+                "Title": "Enhanced Skill: Devouring Conflagration",
+                "Desc": "Heals a percentage of own Max HP, and deals Fire DMG to a single target and adjacent targets.<br>After the attack, if at least 1 attacked target is Weakness Broken, advances own action and deals extra Fire DMG to all attacked targets.<br>All DMG dealt by this skill are considered as Ultimate DMG, instead of Skill DMG."
+            },
+            {
+                "Title": "Ultimate: Burning Starlight",
+                "Desc": "Dispels all debuffs on self, and enters the Primary Combustion state, and advances own action by 100%.<br>Summons a Cooldown Kernel on the action bar. When the Cooldown Kernel takes action, exits the Primary Combustion state."
+            },
+            {
+                "Title": "Talent: Primary Combustion",
+                "Desc": "When under the Primary Combustion state, SPD is increased, Basic ATK and Skill will be switched to their Enhanced version, and increases DMG dealt by a percentage of (convertible) Break Effect."
+            },
+            {
+                "Title": "Talent: Scorched Barrier",
+                "Desc": "Reduces DMG taken by a percentage of lost HP. When under the Primary Combustion effect, this DMG reduction is further increased by a fixed amount."
+            },
+            {
+                "Title": "Talent: Luminous Fireflies",
+                "Desc": "When not under the Primary Combustion state, every time Current HP changes, will regenerate Energy based on the ratio of the HP change to Max HP."
+            },
+            {
+                "Title": "Trace #2",
+                "Desc": "Increases resistance to Crowd Control debuffs."
+            },
+            {
+                "Title": "Trace #3",
+                "Desc": "When under the Primary Combustion state, gains Fire DMG Boost."
+            },
+            {
+                "Title": "Eidolon #1",
+                "Desc": "When casting Enhanced Skill: Smoldering Wasteland, before the DMG is dealt, inserts a Fire Weakness to the central single target, lasting for some turns. This effect ignores RES."
+            },
+            {
+                "Title": "Eidolon #2",
+                "Desc": "When receiving a buff, gains 1 stack of Benthic Flame. Effect unknown."
+            },
+            {
+                "Title": "Eidolon #4",
+                "Desc": "When under the Primary Combustion state, upon defeating an enemy, the action of Cooldown Kernel will be delayed. This effect can be triggered at most a certain number of times during each Primary Combustion."
+            },
+            {
+                "Title": "Eidolon #6",
+                "Desc": "When under the Primary Combustion state, when own turn ends, gains 1 stack of Heavenly Fire, increasing DMG dealt by Ultimates, max some stacks.<br>When Primary Combustion ends, removes all stacks of Heavenly Fire."
+            },
+            {
+                "Title": "Technique",
+                "Desc": "Enters a special state: Moves swiftly for some time, during which you can control her direction. While moving, ignores enemies, cannot be spotted by enemies and blocks all incoming attacks.<br>Using Technique again will exit this state and immediately attack all enemies in a large area.<br>Upon entering combat this way, has a fixed chance to insert a Fire Weakness to all enemies without Fire Weakness and reduce their Fire RES, lasting for some turns. Then, deals Fire DMG to all enemies."
+            }
+        ]
+    },
+    {
+        "Name": "Sunday",
+        "Color": "Ice",
+        "Notes": [
+            {
+                "Title": "Skill #1",
+                "Desc": "Deals Ice DMG to a single target."
+            },
+            {
+                "Title": "Skill #2",
+                "Desc": "Deals Ice DMG to all targets."
+            },
+            {
+                "Title": "Skill #3",
+                "Desc": "Has a chance to inflict ``Sleep` on a random target, lasting for some turns.<br>During Sleep, the target is unable to take action, and DMG taken is increased by ``100%`. After being attacked, dispels Sleep."
+            },
+            {
+                "Title": "Skill #4",
+                "Desc": "Dispels all debuffs on all summons, and enters the ``Chanting` state."
+            },
+            {
+                "Title": "Skill #5",
+                "Desc": "Commands all summons to deal Ice DMG to a single target, and dispels all debuffs on all summons."
+            },
+            {
+                "Title": "Skill #6",
+                "Desc": "Exits the ``Chanting` state, deals great Ice DMG to all targets, and commands all summons to deal Ice DMG to all targets."
+            },
+            {
+                "Title": "Skill #7",
+                "Desc": "Applies a Shield on himself based on a percentage of his Max HP. The Shield blocks all DMG, disables all Weaknesses and increases Imaginary RES."
+            },
+            {
+                "Title": "Skill #8",
+                "Desc": "Enters the ``Everlasting Harmony` state, which increases SPD and grants ``7` Countdown of the Finale.<br>When casting any other skill, Countdown decreases by 1.<br>When Countdown reaches ``6`, enters Phase 3 Second Form, increasing DMG dealt.<br>When Countdown reaches ``4`, enters Phase 3 Final Form, further increasing DMG dealt."
+            },
+            {
+                "Title": "The Finale",
+                "Desc": "Exits the ``Everlasting Harmony` state, deals massive Ice DMG to all targets, and resets to Phase 3 Primary Form."
+            },
+            {
+                "Title": "Passive #1",
+                "Desc": "After every ``11` instances of Toughness DMG recieved, applies some stacks of Barrier to all of our characters, which nullifies all DMG received except DoTs."
+            },
+            {
+                "Title": "Passive #2",
+                "Desc": "Sunday has 4 summons. The summons do not take any DMG. When they are attacked, all DMG they receive will be taken by Sunday."
+            }
+        ]
+    },
+    {
         "Name": "Jiaoqiu",
         "Color": "Fire",
         "Notes": [
@@ -3769,19 +3996,6 @@ var _hidden = [
             {
                 "Title": "Eidolon #6",
                 "Desc": "Singer Aura's DMG increase effect is boosted.<br>When casting Ultimate, removes all allies' all debuffs.<br>While Singer Aura is active, all allies are immune to debuffs, Crowd Control debuffs and DoTs."
-            }
-        ]
-    },
-    {
-        "Name": "Firefly",
-        "Notes": [
-            {
-                "Title": "Overworld Attack",
-                "Desc": "Melee attack with rather small AoE."
-            },
-            {
-                "Title": "Technique",
-                "Desc": "Enters a special state: Moves swiftly for some time, during which you can control her direction. While moving, ignores enemies, cannot be spotted by enemies and blocks all incoming attacks.<br>Using Technique again will exit this state and immediately attack all enemies in a large area. Upon entring combat this way, will apply an effect to all enemies."
             }
         ]
     }
