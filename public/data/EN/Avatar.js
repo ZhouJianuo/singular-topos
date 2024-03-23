@@ -3588,64 +3588,8 @@ var _changelog = [
 
 var _hidden = [
     {
-        "Name": "Boothil",
-        "Date": "2024/03",
-        "Color": "Phys",
-        "Hidden": true,
-        "Notes": [
-            {
-                "Title": "Basic ATK",
-                "Desc": ""
-            },
-            {
-                "Title": "Skill",
-                "Desc": ""
-            },
-            {
-                "Title": "Ultimate",
-                "Desc": ""
-            },
-            {
-                "Title": "Talent",
-                "Desc": ""
-            },
-            {
-                "Title": "Technique",
-                "Desc": ""
-            },
-            {
-                "Title": "Trace #1",
-                "Desc": ""
-            },
-            {
-                "Title": "Trace #2",
-                "Desc": ""
-            },
-            {
-                "Title": "Trace #3",
-                "Desc": ""
-            },
-            {
-                "Title": "Eidolon #1",
-                "Desc": ""
-            },
-            {
-                "Title": "Eidolon #2",
-                "Desc": ""
-            },
-            {
-                "Title": "Eidolon #4",
-                "Desc": ""
-            },
-            {
-                "Title": "Eidolon #6",
-                "Desc": ""
-            }
-        ]
-    },
-    {
         "Name": "Screwllum",
-        "Date": "2024/03",
+        "Date": "2024/03/23",
         "Color": "Imaginary",
         "Hidden": true,
         "Notes": [
@@ -3700,8 +3644,64 @@ var _hidden = [
         ]
     },
     {
-        "Name": "Firefly / Sam (Early)",
-        "Date": "2024/03",
+        "Name": "Boothil",
+        "Date": "2024/03/23",
+        "Color": "Phys",
+        "Hidden": true,
+        "Notes": [
+            {
+                "Title": "Basic ATK",
+                "Desc": ""
+            },
+            {
+                "Title": "Skill",
+                "Desc": ""
+            },
+            {
+                "Title": "Ultimate",
+                "Desc": ""
+            },
+            {
+                "Title": "Talent",
+                "Desc": ""
+            },
+            {
+                "Title": "Technique",
+                "Desc": ""
+            },
+            {
+                "Title": "Trace #1",
+                "Desc": ""
+            },
+            {
+                "Title": "Trace #2",
+                "Desc": ""
+            },
+            {
+                "Title": "Trace #3",
+                "Desc": ""
+            },
+            {
+                "Title": "Eidolon #1",
+                "Desc": ""
+            },
+            {
+                "Title": "Eidolon #2",
+                "Desc": ""
+            },
+            {
+                "Title": "Eidolon #4",
+                "Desc": ""
+            },
+            {
+                "Title": "Eidolon #6",
+                "Desc": ""
+            }
+        ]
+    },
+    {
+        "Name": "Firefly / Sam",
+        "Date": "2024/03/22",
         "Color": "Fire",
         "Hidden": true,
         "Notes": [
@@ -3751,7 +3751,7 @@ var _hidden = [
             },
             {
                 "Title": "Eidolon #2",
-                "Desc": "When receiving a buff, gains 1 stack of Benthic Flame. Effect unknown."
+                "Desc": "When receiving a buff, the duration of this buff is increased by 1 turn."
             },
             {
                 "Title": "Eidolon #4",
@@ -3769,7 +3769,7 @@ var _hidden = [
     },
     {
         "Name": "Sunday",
-        "Date": "2024/03",
+        "Date": "2024/03/22",
         "Color": "Ice",
         "Notes": [
             {
@@ -3820,7 +3820,7 @@ var _hidden = [
     },
     {
         "Name": "Jiaoqiu",
-        "Date": "2024/03",
+        "Date": "2024/03/22",
         "Color": "Fire",
         "Notes": [
             {
@@ -3859,7 +3859,7 @@ var _hidden = [
     },
     {
         "Name": "2.2 Memory of Chaos",
-        "Date": "2024/03",
+        "Date": "2024/03/22",
         "Notes": [
             {
                 "Title": "Phase 1",
@@ -3873,7 +3873,7 @@ var _hidden = [
     },
     {
         "Name": "Jade",
-        "Date": "2024/03",
+        "Date": "2024/03/21",
         "Color": "Quantum",
         "Notes": [
             {
@@ -3912,7 +3912,7 @@ var _hidden = [
     },
     {
         "Name": "Upcoming Relics",
-        "Date": "2024/03",
+        "Date": "2024/03/21",
         "Notes": [
             {
                 "Title": "Relic 1",
@@ -3926,7 +3926,7 @@ var _hidden = [
     },
     {
         "Name": "Upcoming Lightcones",
-        "Date": "2024/03",
+        "Date": "2024/03/21",
         "Notes": [
             {
                 "Title": "Limited 5★ (Possible for Boothil)",
@@ -3956,7 +3956,7 @@ var _hidden = [
     },
     {
         "Name": "Robin",
-        "Date": "2024/03",
+        "Date": "2024/03/20",
         "Color": "Phys",
         "Notes": [
             {

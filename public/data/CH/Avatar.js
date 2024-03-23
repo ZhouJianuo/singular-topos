@@ -3588,64 +3588,8 @@ var _changelog = [
 
 var _hidden = [
     {
-        "Name": "波提欧",
-        "Date": "2024/03",
-        "Color": "Phys",
-        "Hidden": true,
-        "Notes": [
-            {
-                "Title": "普攻",
-                "Desc": ""
-            },
-            {
-                "Title": "战技",
-                "Desc": ""
-            },
-            {
-                "Title": "终结技",
-                "Desc": ""
-            },
-            {
-                "Title": "天赋",
-                "Desc": ""
-            },
-            {
-                "Title": "秘技",
-                "Desc": ""
-            },
-            {
-                "Title": "行迹 #1",
-                "Desc": ""
-            },
-            {
-                "Title": "行迹 #2",
-                "Desc": ""
-            },
-            {
-                "Title": "行迹 #3",
-                "Desc": ""
-            },
-            {
-                "Title": "星魂 #1",
-                "Desc": ""
-            },
-            {
-                "Title": "星魂 #2",
-                "Desc": ""
-            },
-            {
-                "Title": "星魂 #4",
-                "Desc": ""
-            },
-            {
-                "Title": "星魂 #6",
-                "Desc": ""
-            }
-        ]
-    },
-    {
         "Name": "螺丝咕姆",
-        "Date": "2024/03",
+        "Date": "2024/03/23",
         "Color": "Imaginary",
         "Hidden": true,
         "Notes": [
@@ -3700,8 +3644,64 @@ var _hidden = [
         ]
     },
     {
-        "Name": "流萤 / 萨姆（早期）",
-        "Date": "2024/03",
+        "Name": "波提欧",
+        "Date": "2024/03/23",
+        "Color": "Phys",
+        "Hidden": true,
+        "Notes": [
+            {
+                "Title": "普攻",
+                "Desc": ""
+            },
+            {
+                "Title": "战技",
+                "Desc": ""
+            },
+            {
+                "Title": "终结技",
+                "Desc": ""
+            },
+            {
+                "Title": "天赋",
+                "Desc": ""
+            },
+            {
+                "Title": "秘技",
+                "Desc": ""
+            },
+            {
+                "Title": "行迹 #1",
+                "Desc": ""
+            },
+            {
+                "Title": "行迹 #2",
+                "Desc": ""
+            },
+            {
+                "Title": "行迹 #3",
+                "Desc": ""
+            },
+            {
+                "Title": "星魂 #1",
+                "Desc": ""
+            },
+            {
+                "Title": "星魂 #2",
+                "Desc": ""
+            },
+            {
+                "Title": "星魂 #4",
+                "Desc": ""
+            },
+            {
+                "Title": "星魂 #6",
+                "Desc": ""
+            }
+        ]
+    },
+    {
+        "Name": "流萤 / 萨姆",
+        "Date": "2024/03/22",
         "Color": "Fire",
         "Hidden": true,
         "Notes": [
@@ -3751,7 +3751,7 @@ var _hidden = [
             },
             {
                 "Title": "星魂 #2",
-                "Desc": "每次获得增益效果时，叠加 1 层【灼渊之火】，效果未知。"
+                "Desc": "每次获得增益效果时，此效果的持续时间延长 1 回合。"
             },
             {
                 "Title": "星魂 #4",
@@ -3769,7 +3769,7 @@ var _hidden = [
     },
     {
         "Name": "星期日",
-        "Date": "2024/03",
+        "Date": "2024/03/22",
         "Color": "Ice",
         "Notes": [
             {
@@ -3820,7 +3820,7 @@ var _hidden = [
     },
     {
         "Name": "椒丘",
-        "Date": "2024/03",
+        "Date": "2024/03/22",
         "Color": "Fire",
         "Notes": [
             {
@@ -3859,7 +3859,7 @@ var _hidden = [
     },
     {
         "Name": "2.2 混沌回忆",
-        "Date": "2024/03",
+        "Date": "2024/03/22",
         "Notes": [
             {
                 "Title": "第一期",
@@ -3873,7 +3873,7 @@ var _hidden = [
     },
     {
         "Name": "翡翠",
-        "Date": "2024/03",
+        "Date": "2024/03/21",
         "Color": "Quantum",
         "Notes": [
             {
@@ -3912,7 +3912,7 @@ var _hidden = [
     },
     {
         "Name": "未来遗器",
-        "Date": "2024/03",
+        "Date": "2024/03/21",
         "Notes": [
             {
                 "Title": "遗器 1",
@@ -3926,7 +3926,7 @@ var _hidden = [
     },
     {
         "Name": "未来光锥",
-        "Date": "2024/03",
+        "Date": "2024/03/21",
         "Notes": [
             {
                 "Title": "限定五星（可能波提欧）",
@@ -3956,7 +3956,7 @@ var _hidden = [
     },
     {
         "Name": "知更鸟",
-        "Date": "2024/03",
+        "Date": "2024/03/20",
         "Color": "Phys",
         "Notes": [
             {
