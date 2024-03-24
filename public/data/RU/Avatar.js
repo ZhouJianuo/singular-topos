@@ -3588,10 +3588,9 @@ var _changelog = [
 
 var _hidden = [
     {
-        "Name": "Boothil",
+        "Name": "Figure",
         "Date": "2024/03/23",
-        "Ver": "2.0v5",
-        "Color": "Phys",
+        "Ver": "2.0v5-2.1v4",
         "Hidden": true,
         "Notes": [
             {
@@ -3641,6 +3640,67 @@ var _hidden = [
             {
                 "Title": "Eidolon #6",
                 "Desc": ""
+            }
+        ]
+    },
+    {
+        "Name": "Boothil",
+        "Date": "2024/03/24",
+        "Ver": "2.0v5",
+        "Color": "Phys",
+        "Hidden": true,
+        "Notes": [
+            {
+                "Title": "Basic ATK",
+                "Desc": "Deals Physical DMG to a single target."
+            },
+            {
+                "Title": "Ehhanced Basic ATK",
+                "Desc": "Performs a Six-Shot, dealing Physical DMG to a single target. Every stack of Reforged will increase Toughness DMG by 100%.<br>If Boothill has [???], for every stack of [???], Boothill will deal 1 instance of Break DMG to the target, equal to a percentage of Boothill's Physical Break DMG. Every instance has the same Toughness DMG as the Six-Shot, max 3 instances."
+            },
+            {
+                "Title": "Skill",
+                "Desc": "Selects a single target and applies a Duel Mark. Boothill enters the duel state, converting Basic ATK is to Enhanced Basic ATK, lasting for some turns. Then, Boothill takes a special action.<br>During the duel, Boothill can only select the Duel Mark target, and recieves increased DMG from the Duel Mark target. The Duel Mark target can only select Boothill while attacking, and receives increased DMG from Boothill.<br>The remaining duration decreases by 1 at the start of Boothill's turn. When Boothill exits the duel state, Duel Mark also disappears.<br>At the start of Boothill's turn, if there are no targets with Duel Mark, Boothill will exit the duel state."
+            },
+            {
+                "Title": "Ultimate",
+                "Desc": "Inserts a Physical Weakness to a single target, lasting for some turns. Then, deals Physical DMG to this target and delays this target's action by a percentage of Boothill's Break Effect plus a fixed amount."
+            },
+            {
+                "Title": "Talent",
+                "Desc": "When the Duel Mark target is defeated by any entity, Boothill will exit the duel state and gain 1 stack of Reforged.<br>Reforged: Increases Break effect, stackable, has upper limit, lasts permanently."
+            },
+            {
+                "Title": "Technique",
+                "Desc": "Upon entering battle, deals Physical DMG to the target with lowest HP. This DMG is considered Basic ATK DMG.<br>If this defeated the target, Boothill will gain 1 stack of Reforged."
+            },
+            {
+                "Title": "Trace #1",
+                "Desc": "Increases Crit DMG based on a percentage of Break Effect."
+            },
+            {
+                "Title": "Trace #2",
+                "Desc": "Boothill takes reduced DMG from targets without Duel Mark."
+            },
+            {
+                "Title": "Trace #3",
+                "Desc": "When the Duel Mark target is Weakness Broken, if it is Elite or higher, it will lose its Duel Mark. Boothill will exit Duel state and gain a certain number of Reforged stacks."
+            },
+            {
+                "Title": "Eidolon #1",
+                "Desc": "Upon entering combat, gains 1 stack of Reforged.<br>Every stack of Reforged will also increase ATK."
+            },
+            {
+                "Title": "Eidolon #2",
+                "Desc": "When an enemy is defeated or Weakness Broken by any entity, Boothill's action is advanced.<br>This effect can be triggered at most a certain number of times every turn. The count resets at the end of every Boothill's turn."
+            },
+            {
+                "Title": "Eidolon #4",
+                "Desc": "After casting Skill, gains Protection. When the Duel Mark target attacks Boothill, Boothill will consume Protection to reduce the DMG of this attack and regenerate some Energy.<br>If Protection is still not used when Boothill exits duel state, will consume Protection and regenerate the same amount of Energy."
+            },
+            {
+                "Title": "Eidolon #6",
+                "Desc": "Before performing an attack, if the target has Physical Weakness, will increase this attack's DMG and Weakness Break Efficiency."
             }
         ]
     },
@@ -3697,62 +3757,6 @@ var _hidden = [
             {
                 "Title": "Eidolon #6",
                 "Desc": "Singer Aura's DMG increase effect is boosted.<br>When casting Ultimate, removes all allies' all debuffs.<br>While Singer Aura is active, all allies are immune to debuffs, Crowd Control debuffs and DoTs."
-            }
-        ]
-    },
-    {
-        "Name": "Figure",
-        "Date": "2024/03/23",
-        "Ver": "2.0v5-2.1v4",
-        "Hidden": true,
-        "Notes": [
-            {
-                "Title": "Basic ATK",
-                "Desc": ""
-            },
-            {
-                "Title": "Skill",
-                "Desc": ""
-            },
-            {
-                "Title": "Ultimate",
-                "Desc": ""
-            },
-            {
-                "Title": "Talent",
-                "Desc": ""
-            },
-            {
-                "Title": "Technique",
-                "Desc": ""
-            },
-            {
-                "Title": "Trace #1",
-                "Desc": ""
-            },
-            {
-                "Title": "Trace #2",
-                "Desc": ""
-            },
-            {
-                "Title": "Trace #3",
-                "Desc": ""
-            },
-            {
-                "Title": "Eidolon #1",
-                "Desc": ""
-            },
-            {
-                "Title": "Eidolon #2",
-                "Desc": ""
-            },
-            {
-                "Title": "Eidolon #4",
-                "Desc": ""
-            },
-            {
-                "Title": "Eidolon #6",
-                "Desc": ""
             }
         ]
     },
