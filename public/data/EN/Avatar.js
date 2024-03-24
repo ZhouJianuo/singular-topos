@@ -3599,11 +3599,11 @@ var _hidden = [
             },
             {
                 "Title": "Ehhanced Basic ATK",
-                "Desc": "Performs a Six-Shot, dealing Physical DMG to a single target. Every stack of Reforged will increase Toughness DMG by 100%.<br>If Boothill has [???], for every stack of [???], Boothill will deal 1 instance of Break DMG to the target, equal to a percentage of Boothill's Physical Break DMG. Every instance has the same Toughness DMG as the Six-Shot, max 3 instances."
+                "Desc": "Performs a Six-Shot, dealing Physical DMG to a single target. Every stack of Reforged will increase Toughness DMG by 100%.<br>If Boothill has [???] , for every stack of [???] , Boothill will deal 1 instance of Break DMG to the target, equal to a percentage of Boothill's Physical Break DMG. Every instance has the same Toughness DMG as the Six-Shot, max 3 instances."
             },
             {
                 "Title": "Skill",
-                "Desc": "Selects a single target and applies a Duel Mark. Boothill enters the duel state, converting Basic ATK is to Enhanced Basic ATK, lasting for some turns. Then, Boothill takes a special action.<br>During the duel, Boothill can only select the Duel Mark target, and recieves increased DMG from the Duel Mark target. The Duel Mark target can only select Boothill while attacking, and receives increased DMG from Boothill.<br>The remaining duration decreases by 1 at the start of Boothill's turn. When Boothill exits the duel state, Duel Mark also disappears.<br>At the start of Boothill's turn, if there are no targets with Duel Mark, Boothill will exit the duel state."
+                "Desc": "Selects a single target and applies a Duel Mark. Boothill enters the duel state, converting Basic ATK is to Enhanced Basic ATK, lasting for some turns. Then, Boothill takes a special action.<br>During the duel, Boothill can only select the Duel Mark target, and recieves increased DMG from the Duel Mark target. The Duel Mark target can only select Boothill while attacking, and receives increased DMG from Boothill.<br>The duel state's remaining duration decreases by 1 at the start of Boothill's turn. When Boothill exits the duel state, Duel Mark also disappears.<br>At the start of Boothill's turn, if there are no targets with Duel Mark, Boothill will exit the duel state."
             },
             {
                 "Title": "Ultimate",
