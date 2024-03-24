@@ -3615,7 +3615,7 @@ var _hidden = [
             },
             {
                 "Title": "Technique",
-                "Desc": "Upon entering battle, deals Physical DMG to the target with lowest HP. This DMG is considered Basic ATK DMG.<br>If this defeated the target, Boothill will gain 1 stack of Reforged."
+                "Desc": "Upon entering battle, deals Physical DMG to the target with lowest HP. This DMG is considered Basic ATK DMG.<br>If this defeated the target, Boothill will gain 1 stack of Reforged.<br>After finishing the battle, gains an unknown effect."
             },
             {
                 "Title": "Trace #1",
