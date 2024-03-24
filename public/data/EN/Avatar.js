@@ -3588,67 +3588,10 @@ var _changelog = [
 
 var _hidden = [
     {
-        "Name": "Figure",
-        "Date": "2024/03/23",
-        "Ver": "2.0v5-2.1v4",
-        "Hidden": true,
-        "Notes": [
-            {
-                "Title": "Basic ATK",
-                "Desc": ""
-            },
-            {
-                "Title": "Skill",
-                "Desc": ""
-            },
-            {
-                "Title": "Ultimate",
-                "Desc": ""
-            },
-            {
-                "Title": "Talent",
-                "Desc": ""
-            },
-            {
-                "Title": "Technique",
-                "Desc": ""
-            },
-            {
-                "Title": "Trace #1",
-                "Desc": ""
-            },
-            {
-                "Title": "Trace #2",
-                "Desc": ""
-            },
-            {
-                "Title": "Trace #3",
-                "Desc": ""
-            },
-            {
-                "Title": "Eidolon #1",
-                "Desc": ""
-            },
-            {
-                "Title": "Eidolon #2",
-                "Desc": ""
-            },
-            {
-                "Title": "Eidolon #4",
-                "Desc": ""
-            },
-            {
-                "Title": "Eidolon #6",
-                "Desc": ""
-            }
-        ]
-    },
-    {
-        "Name": "Boothil",
+        "Name": "Boothill",
         "Date": "2024/03/24",
         "Ver": "2.0v5",
         "Color": "Phys",
-        "Hidden": true,
         "Notes": [
             {
                 "Title": "Basic ATK",

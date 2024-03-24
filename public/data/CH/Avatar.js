@@ -3588,67 +3588,10 @@ var _changelog = [
 
 var _hidden = [
     {
-        "Name": "刻像",
-        "Date": "2024/03/23",
-        "Ver": "2.0v5-2.1v4",
-        "Hidden": true,
-        "Notes": [
-            {
-                "Title": "普攻",
-                "Desc": ""
-            },
-            {
-                "Title": "战技",
-                "Desc": ""
-            },
-            {
-                "Title": "终结技",
-                "Desc": ""
-            },
-            {
-                "Title": "天赋",
-                "Desc": ""
-            },
-            {
-                "Title": "秘技",
-                "Desc": ""
-            },
-            {
-                "Title": "行迹 #1",
-                "Desc": ""
-            },
-            {
-                "Title": "行迹 #2",
-                "Desc": ""
-            },
-            {
-                "Title": "行迹 #3",
-                "Desc": ""
-            },
-            {
-                "Title": "星魂 #1",
-                "Desc": ""
-            },
-            {
-                "Title": "星魂 #2",
-                "Desc": ""
-            },
-            {
-                "Title": "星魂 #4",
-                "Desc": ""
-            },
-            {
-                "Title": "星魂 #6",
-                "Desc": ""
-            }
-        ]
-    },
-    {
         "Name": "波提欧",
         "Date": "2024/03/24",
         "Ver": "2.0v5",
         "Color": "Phys",
-        "Hidden": true,
         "Notes": [
             {
                 "Title": "普攻",
