@@ -1,6 +1,6 @@
 $(function () {
 
-    var no_skillicon = []
+    var no_skillicon = [8005, 8006]
 
     var imgpre = $('#IMGPRE').val()
     var avid = $('#AVID').val()
@@ -1388,7 +1388,13 @@ $(function () {
                                 {
                                     img: imgpre + 'images/skillicons/' + skill_id + '/' + S.Icon + '.png',
                                     class: 'head_left',
-                                    when: (S.Icon != undefined) && !no_skillicon.includes(this_avatar._id)
+                                    when: (S.Icon != undefined) && !no_skillicon.includes(this_avatar._id),
+                                    event: {
+                                        error: function (d) {
+                                            $(d.sender).siblings('p').removeClass('head_right').removeClass('hr_1')
+                                            $(d.sender).remove()
+                                        }
+                                    }
                                 },
                                 {
                                     p: S.Name,
@@ -1658,7 +1664,13 @@ $(function () {
                                 {
                                     img: imgpre + 'images/skillicons/' + skill_id + '/' + ST.Tree1.Icon + '.png',
                                     class: 'head_left',
-                                    when: (ST.Tree1.Icon != undefined) && !no_skillicon.includes(this_avatar._id)
+                                    when: (ST.Tree1.Icon != undefined) && !no_skillicon.includes(this_avatar._id),
+                                    event: {
+                                        error: function (d) {
+                                            $(d.sender).siblings('p').removeClass('head_right').removeClass('hr_1')
+                                            $(d.sender).remove()
+                                        }
+                                    }
                                 },
                                 {
                                     p: ST.Tree1.Name,
@@ -1686,7 +1698,13 @@ $(function () {
                                 {
                                     img: imgpre + 'images/skillicons/' + skill_id + '/' + ST.Tree2.Icon + '.png',
                                     class: 'head_left',
-                                    when: (ST.Tree2.Icon != undefined) && !no_skillicon.includes(this_avatar._id)
+                                    when: (ST.Tree2.Icon != undefined) && !no_skillicon.includes(this_avatar._id),
+                                    event: {
+                                        error: function (d) {
+                                            $(d.sender).siblings('p').removeClass('head_right').removeClass('hr_1')
+                                            $(d.sender).remove()
+                                        }
+                                    }
                                 },
                                 {
                                     p: ST.Tree2.Name,
@@ -1714,7 +1732,13 @@ $(function () {
                                 {
                                     img: imgpre + 'images/skillicons/' + skill_id + '/' + ST.Tree3.Icon + '.png',
                                     class: 'head_left',
-                                    when: (ST.Tree3.Icon != undefined) && !no_skillicon.includes(this_avatar._id)
+                                    when: (ST.Tree3.Icon != undefined) && !no_skillicon.includes(this_avatar._id),
+                                    event: {
+                                        error: function (d) {
+                                            $(d.sender).siblings('p').removeClass('head_right').removeClass('hr_1')
+                                            $(d.sender).remove()
+                                        }
+                                    }
                                 },
                                 {
                                     p: ST.Tree3.Name,
@@ -1824,7 +1848,12 @@ $(function () {
                                 }
                             },
                             class: 'rank_up',
-                            when: (this_avatar.Rarity != undefined) && !no_skillicon.includes(this_avatar._id)
+                            when: (this_avatar.Rarity != undefined) && !no_skillicon.includes(this_avatar._id),
+                            event: {
+                                error: function (d) {
+                                    $(d.sender).remove()
+                                }
+                            }
                         },
                         {
                             div: [
@@ -1833,7 +1862,13 @@ $(function () {
                                         {
                                             img: imgpre + 'images/skillicons/' + skill_id + '/' + S[this_avatar_cur_ver].Icon + '.png',
                                             class: 'head_left',
-                                            when: (S[this_avatar_cur_ver].Icon != undefined) && !no_skillicon.includes(this_avatar._id)
+                                            when: (S[this_avatar_cur_ver].Icon != undefined) && !no_skillicon.includes(this_avatar._id),
+                                            event: {
+                                                error: function (d) {
+                                                    $(d.sender).siblings('p').removeClass('head_right').removeClass('hr_1')
+                                                    $(d.sender).remove()
+                                                }
+                                            }
                                         },
                                         {
                                             p: S[this_avatar_cur_ver].Rank + ' ' + S[this_avatar_cur_ver].Name,
