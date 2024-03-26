@@ -2,6 +2,33 @@
 
 var _event = [
     {
+        "_id": 11451402202,
+        "Name": "Treasures Lightward",
+        "Desc": "View the stage-clearing lineups used by your friends for Treasures Lightward",
+        "Ver": "2.2",
+        "Tutorial": [
+            321501,
+            321502
+        ]
+    },
+    {
+        "_id": 11451402201,
+        "Name": "Fate's Atlas",
+        "DescText": "As the story unfolds, you will have the chance to progress the story from other characters' POV. ",
+        "Ver": "2.2",
+        "Tutorial": [
+            321301,
+            321302,
+            321303,
+            321304,
+            321305,
+            321306,
+            321307,
+            321308,
+            321309
+        ]
+    },
+    {
         "_id": 114514021,
         "Name": "New Hanu Games & The Clockie's Extras",
         "Ver": "2.1",
@@ -58,7 +85,21 @@ var _event = [
             110232,
             2
         ],
-        "Ver": "2.2"
+        "Ver": "2.2",
+        "Tutorial": [
+            812001,
+            812002,
+            812101,
+            812102,
+            812103,
+            812104,
+            812105,
+            812106,
+            812201,
+            812202,
+            812203,
+            812204
+        ]
     },
     {
         "_id": 50011,
@@ -77,7 +118,26 @@ var _event = [
             110192,
             2
         ],
-        "Ver": "2.2"
+        "Ver": "2.2",
+        "Tutorial": [
+            814001,
+            814002,
+            814003,
+            814004,
+            814005,
+            814101,
+            814102,
+            814201,
+            814202,
+            814301,
+            814302,
+            814401,
+            814402,
+            814501,
+            814502,
+            814601,
+            814602
+        ]
     },
     {
         "_id": 50010,
@@ -2022,6 +2082,122 @@ var _tut = {
         "Desc": "The ally positioned first in the Team Setup <color=#f29e38ff>gains Energy</color> when <color=#f29e38ff>other allies</color> use their Ultimates, and there is a chance that the ally positioned first will have their next attack's DMG increased.",
         "Img": "TutorialPage_811202.png"
     },
+    "814001": {
+        "Desc": "Defeat as many enemies as possible to raise your team's level within the alloted cycles.<br>After your Team Level goes up, you be able to choose one of the randomly drawn weapons or Accessories.",
+        "Img": "TutorialPage_814001.png"
+    },
+    "814002": {
+        "Desc": "Remember to prioritize weapon upgrades and find the corresponding Resonance Accessories.<br>After obtaining a Lv. 8 weapon and its corresponding Resonance Accessory, you can then begin the final ascent to obtain a Legendary Weapon.",
+        "Img": "TutorialPage_814002.png"
+    },
+    "814003": {
+        "Desc": "Having Accessories with the corresponding stats or traits will enhance a weapon's effectiveness.",
+        "Img": "TutorialPage_814003.png"
+    },
+    "814004": {
+        "Desc": "Make reasonable weapon-Accessory combinations to obtain stronger combo effects.",
+        "Img": "TutorialPage_814004.png"
+    },
+    "814005": {
+        "Desc": "Don't forget to purchase items in the Cosmic Store and increase various abilities.",
+        "Img": "TutorialPage_814005.png"
+    },
+    "814101": {
+        "Desc": "This Stage's Starting Weapon: <color=#f29e38ff>Everyone For Me</color><br>Everyone For Me attacks based on a fixed SPD, launching Flame Rounds at random enemies.<br>Prioritize the upgrade of starting <color=#f29e38ff>weapon levels</color> and obtain <color=#f29e38ff>Resonance Accessories</color> to ascend your weapon to a <color=#f29e38ff>legendary weapon</color>!",
+        "Img": "TutorialPage_814101.png"
+    },
+    "814102": {
+        "Desc": "Recommended Weapon Combo:<br>Summon Weapons: Everyone For Me, The Despicable's Kindness, Icy Fire Extinguisher, and Storm Gale Hammer<br>Related Accessory: Everyone For Me (Increases SPD of Summon Weapon) and Icefire Talisman (Increases Fire and Ice DMG)",
+        "Img": "TutorialPage_814102.png"
+    },
+    "814201": {
+        "Desc": "This Stage's Starting Weapon: <color=#f29e38ff>Thunderbolt Thorns</color><br>Applies Thunderbolt Thorns to an enemy target and when the target's turn starts, unleashes Thundershock that deals <color=#f29e38ff>DoT</color>. When the target gets defeated, transfers it to another enemy target.<br>Prioritize the upgrade of starting <color=#f29e38ff>weapon levels</color> and obtain <color=#f29e38ff>Resonance Accessories</color> to ascend your weapon to a <color=#f29e38ff>legendary weapon</color>!",
+        "Img": "TutorialPage_814201.png"
+    },
+    "814202": {
+        "Desc": "Recommended Weapon Combo:<br>Lightning Weapon: Thunderbolt Thorns and Ranger's Longbow<br>Elimination Triggered Weapons: Storm Gale Hammer and Sweet Slumber<br>Related Accessory: Lightning Storm Shackles (Increases Lightning DMG)",
+        "Img": "TutorialPage_814202.png"
+    },
+    "814301": {
+        "Desc": "This Stage's Starting Weapon: <color=#f29e38ff>Sweet Slumber</color><br>When an ally or weapon defeats an enemy target, Sweet Slumber triggers ranged detonation, dealing Quantum DMG to adjacent enemy targets.<br>Prioritize the upgrade of starting <color=#f29e38ff>weapon levels</color> and obtain <color=#f29e38ff>Resonance Accessories</color> to ascend your weapon to a <color=#f29e38ff>legendary weapon</color>!",
+        "Img": "TutorialPage_814301.png"
+    },
+    "814302": {
+        "Desc": "Recommended Weapon Combo:<br>Elimination Triggered Weapons: Sweet Slumber and Storm Gale Hammer<br>Voidful Weapon: Sweet Slumber and Lucky Roulette<br>Action Triggered Weapon: Prayers of Beauty and Rainbow Bat",
+        "Img": "TutorialPage_814302.png"
+    },
+    "814401": {
+        "Desc": "This Stage's Starting Weapon: <color=#f29e38ff>Prayers of Beauty</color><br>Prayers of Beauty grants buffs at a fixed SPD, increasing the DMG dealt by all allies, Advancing actions, regenerating Energy, and restoring Skill Points.<br>Prioritize the upgrade of starting <color=#f29e38ff>weapon levels</color> and obtain <color=#f29e38ff>Resonance Accessories</color> to ascend your weapon to a <color=#f29e38ff>legendary weapon</color>!",
+        "Img": "TutorialPage_814401.png"
+    },
+    "814402": {
+        "Desc": "Recommended Weapon Combo:<br>Action-Triggered Weapon: Prayers of Beauty, Ranger's Longbow, Rainbow Bat, and Will of Architects",
+        "Img": "TutorialPage_814402.png"
+    },
+    "814501": {
+        "Desc": "This Stage's Starting Weapon: <color=#f29e38ff>Frosty Flying Sword</color><br>When allies act over 3 times continuously, the Frosty Flying Sword will launch multiple flying swords at a random enemy target. The number of swords increases with more consecutive actions taken.<br>Prioritize the upgrade of starting <color=#f29e38ff>weapon levels</color> and obtain <color=#f29e38ff>Resonance Accessories</color> to ascend your weapon to a <color=#f29e38ff>legendary weapon</color>!",
+        "Img": "TutorialPage_814501.png"
+    },
+    "814502": {
+        "Desc": "Recommended Weapon Combo:<br>Action-Triggered Weapon: Prayers of Beauty, Ranger's Longbow, Rainbow Bat, and Will of Architects<br>Frost-Fire Weapons: Everyone For Me, The Despicable's Kindness, and Icy Fire Extinguisher",
+        "Img": "TutorialPage_814502.png"
+    },
+    "814601": {
+        "Desc": "This Stage's Starting Weapon: <color=#f29e38ff>Nihility's Warning</color><br>There is a chance of inflicting Chagrined when an ally attacks an enemy. Enemy will also succumb to Chagrined when affected by other debuffs. When Chagrined reaches a certain number of stacks, Nihility's Warning will unleash Quantum Dagger and clear the Chagrined stacks.<br>Prioritize the upgrade of starting <color=#f29e38ff>weapon levels</color> and obtain <color=#f29e38ff>Resonance Accessories</color> to ascend your weapon to a <color=#f29e38ff>legendary weapon</color>!",
+        "Img": "TutorialPage_814601.png"
+    },
+    "814602": {
+        "Desc": "Recommended Weapon Combo:<br>Debuff Weapons: Nihility's Warning and Icy Fire Extinguisher<br>Ultimate Triggered Weapons: Prayers of Beauty and Ranger's Longbow",
+        "Img": "TutorialPage_814602.png"
+    },
+    "812001": {
+        "Desc": "In the <i>Dreamjoy Memoir</i> event, you'll have a chance to participate in shooting a series of films related to the Clockie series.",
+        "Img": "TutorialPage_210202.png"
+    },
+    "812002": {
+        "Desc": "Now you've obtained the opportunity to film some <color=#f29e38ff>movies</color>, follow the guide and start shooting your first film.",
+        "Img": "TutorialPage_210202.png"
+    },
+    "812101": {
+        "Desc": "In each scene, you'll get some <color=#f29e38ff>Cost Dice</color>. These dice are effectively your filming budget as a director. You need to spend the Cost Dice in different story snippet, and scenes filmed under different budgets will generate different <color=#f29e38ff>Audience Emotions</color>.",
+        "Img": "TutorialPage_210202.png"
+    },
+    "812102": {
+        "Desc": "Clock Studios' investors will <color=#f29e38ff>review the film</color> at a designed phase of filming, and they will demand that the film satisfies the audience's needs regarding certain <color=#f29e38ff>Emotional Inclinations</color>.",
+        "Img": "TutorialPage_210202.png"
+    },
+    "812103": {
+        "Desc": "At the climax of the story snippet, the Emotional Inclination that is certain to be affected will light up. If the plot segment is gold, then it will increase the Audience Emotions. If it's blue, it will increase as well as decrease Audience Emotions. If it's gray, it will definitely decrease Audience Emotions.",
+        "Img": "TutorialPage_812103.png"
+    },
+    "812104": {
+        "Desc": "There will be varying extents of influence on different Emotional Inclinations, and it will be expressed in the form of arrowheads. The overall projected change will be visually displayed in the Emotional Inclination Bar at the top.",
+        "Img": "TutorialPage_210202.png"
+    },
+    "812105": {
+        "Desc": "This script will have a Crisis Moment. Crisis Moments will lower Audience Emotion, and a set amount of Cost Dice must be invested to end such stories.",
+        "Img": "TutorialPage_210202.png"
+    },
+    "812106": {
+        "Desc": "In this script, every has plot lines to select for each act. The direct must choose one of two directions to progress the storyline. This script doesn't need to be reviewed by an investor.",
+        "Img": "TutorialPage_210202.png"
+    },
+    "812201": {
+        "Desc": "Every act needs to pass Internal Screening, and different films have different <color=#f29e38ff>Emotion Targets</color>",
+        "Img": "TutorialPage_812201.png"
+    },
+    "812202": {
+        "Desc": "Place <color=#f29e38ff>Time Dice</color> in the Story Snippets to <color=#f29e38ff>affect the film's emotionality</color>",
+        "Img": "TutorialPage_812202.png"
+    },
+    "812203": {
+        "Desc": "Different colored Story Snippets will cause different Audience Emotion changes, resulting in varied effects",
+        "Img": "TutorialPage_812203.png"
+    },
+    "812204": {
+        "Desc": "Betting Scene allows you to draw different results in Dreamy Slots, potentially granting a large amount of Audience Emotion",
+        "Img": "TutorialPage_210202.png"
+    },
     "709001": {
         "Desc": "If you want to temporarily exit the game or end the transformation, you can interact with the shrinking machine again or teleport using the Map.",
         "Img": "TutorialPage_709001.png"
@@ -2093,6 +2269,50 @@ var _tut = {
     "605501": {
         "Desc": "In Sequel Mode, the tracks will continue <color=#f29e38ff>endlessly</color>. Challenge yourself and achieve your <color=#f29e38ff>highest all-time score</color>!",
         "Img": "TutorialPage_605501.png"
+    },
+    "321301": {
+        "Desc": "As the story unfolds, you will have the chance to progress the story from other characters' POV. When entering a character's POV for the first time, that character will automatically be placed first in your team.",
+        "Img": "TutorialPage_321301.png"
+    },
+    "321302": {
+        "Desc": "While in a non-Trailblazer POV, you can only access specific maps and cannot play certain missions as well as certain content such as Calyxes, Stagnant Shadows, Caverns of Corrosion, Echoes of War, Simulated Universe, Forgotten Hall, etc.",
+        "Img": "TutorialPage_321302.png"
+    },
+    "321303": {
+        "Desc": "If you need to change your POV to continue the story, you can select here to enter \"Fate's Ensemble.\"",
+        "Img": "TutorialPage_321303.png"
+    },
+    "321304": {
+        "Desc": "Note: The unlock state of Space Anchors in different POVs are independent of each other. The same Space Anchors must be unlocked individually when playing in a different POV.",
+        "Img": "TutorialPage_321304.png"
+    },
+    "321305": {
+        "Desc": "If you wish to play the aforementioned restricted content, you can first go to the Interastral Peace Guide, Travel Log, or Mission interface, select the button corresponding to the content, and then switch to the suitable character's POV to play the said content.",
+        "Img": "TutorialPage_321305.png"
+    },
+    "321306": {
+        "Desc": "You can check the Fate's Atlas interface to see which characters' POV an ongoing mission or completed mission is in.",
+        "Img": "TutorialPage_321306.png"
+    },
+    "321307": {
+        "Desc": "Moreover, team setups across different POVs are independent of each other but share their Status Effects, HP, Technique Points, etc.",
+        "Img": "TutorialPage_321307.png"
+    },
+    "321308": {
+        "Desc": "If you need to change your POV to continue the story, you can select here to enter \"Fate's Ensemble.\" For more details, please see Tutorials.",
+        "Img": "TutorialPage_321303.png"
+    },
+    "321309": {
+        "Desc": "On the Fate's Atlas page, the ongoing POV will be labeled as \"Current POV.\" If there are ongoing missions in this POV, then their mission types will be labeled.",
+        "Img": "TutorialPage_321309.png"
+    },
+    "321501": {
+        "Desc": "View the stage-clearing lineups used by your friends for Treasures Lightward",
+        "Img": "TutorialPage_321501.png"
+    },
+    "321502": {
+        "Desc": "If you don't want your stage-clearing lineups to be viewed by your friends, you can select not to showcase your lineups for Treasures Lightward",
+        "Img": "TutorialPage_321502.png"
     }
 }
 
