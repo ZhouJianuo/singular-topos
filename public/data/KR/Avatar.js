@@ -3833,6 +3833,212 @@ var _changelog = [
 
 var _hidden = [
     {
+        "Name": "2.3 Memory of Chaos",
+        "Date": "2024/03/26",
+        "Ver": "2.2v1",
+        "Hidden": true,
+        "Notes": [
+            {
+                "Title": "Phase 1",
+                "Desc": ""
+            }
+        ]
+    },
+    {
+        "Name": "2.3+ Relics",
+        "Date": "2024/03/26",
+        "Ver": "2.2v1",
+        "Notes": [
+            {
+                "Title": "Relic 1",
+                "Desc": "2-Piece: ???<br>4-Piece: When the wearer's Break Effect is greater than a certain value, their attacks will ignore some of the target's DEF. When the wearer's Break Effect is greater than some higher value, they will ignore more of the target's DEF."
+            },
+            {
+                "Title": "Relic 2",
+                "Desc": "2-Piece: ???<br>4-Piece: When the wearer uses an Ultimate or before performing a follow-up attack, they gain 1 stack of Boost, increasing all DMG dealt, max 2 stacks. When the wearer's turn ends, all stacks of Boost are removed."
+            },
+            {
+                "Title": "Relic 3",
+                "Desc": "2-Piece: When any ally performs a follow-up attack, the wearer gains 1 stack of Boost. Every stack of Boost increases the DMG dealt by the wearer's follow-up attacks. When Boost reaches max stacks, the wearer's Crit DMG is increased."
+            },
+            {
+                "Title": "Relic 4",
+                "Desc": "2-Piece: When the wearer attacks a unit with Fire Weakness, the wearer's Break Effect is increased for a certain number of turns."
+            }
+        ]
+    },
+    {
+        "Name": "2.3+ Lightcones",
+        "Date": "2024/03/26",
+        "Ver": "2.2v1",
+        "Notes": [
+            {
+                "Title": "Limited 5★",
+                "Desc": "Before Ultimate DMG hits an opponent, Break Effect and Crit Rate are increased, lasting for some turns."
+            },
+            {
+                "Title": "Limited 5★",
+                "Desc": "When the wearer performs a follow-up attack, for every Y of the wearer's ATK that exceeds X, this follow-up attack's DMG Boost is increased by Z.<br>Upon entering battle or after using a Basic ATK, the DMG dealt by the wearer's Ultimate and follow-up attacks will ignore some of the target's DEF, lasting for some turns."
+            },
+            {
+                "Title": "Simulated Universe Shop 5★",
+                "Desc": "The wearer's ATK is increased by a percentage.<br>After performing at attack, every enemy hit by this attack will increase the wearer's ATK by a certain percentage, lasting until after the next attack.<br>After performing at attack, if the number of enemies hit is greater than some number, the wearer's APD is increased by a percentage for some turns."
+            }
+        ]
+    },
+    {
+        "Name": "Firefly / Sam",
+        "Date": "2024/03/22",
+        "Ver": "2.0 Live",
+        "Color": "Fire",
+        "Notes": [
+            {
+                "Title": "Basic ATK",
+                "Desc": "Deals Fire DMG to a single target."
+            },
+            {
+                "Title": "Enhanced Basic ATK: Smoldering Wasteland",
+                "Desc": "Heals a percentage of own Max HP, and deals Fire DMG to a single target."
+            },
+            {
+                "Title": "Skill",
+                "Desc": "Consumes a percentage of own Max HP, and deals Fire DMG to a single target. If HP is insufficient, will drain to 1 HP.<br>After the attack, if the target is Weakness Broken, regenerate some Energy."
+            },
+            {
+                "Title": "Enhanced Skill: Devouring Conflagration",
+                "Desc": "Heals a percentage of own Max HP, and deals Fire DMG to a single target and adjacent targets.<br>After the attack, if at least 1 attacked target is Weakness Broken, advances own action and deals extra Fire DMG to all attacked targets.<br>All DMG dealt by this skill are considered as Ultimate DMG, instead of Skill DMG."
+            },
+            {
+                "Title": "Ultimate: Burning Starlight",
+                "Desc": "Dispels all debuffs on self, and enters the Primary Combustion state, and advances own action by 100%.<br>Summons a Cooldown Kernel on the action bar. When the Cooldown Kernel takes action, exits the Primary Combustion state."
+            },
+            {
+                "Title": "Talent: Primary Combustion",
+                "Desc": "When under the Primary Combustion state, increases SPD by a fixed value, and increases DMG dealt by a percentage of (convertible) Break Effect.<br>Also, Basic ATK and Skill will be switched to their Enhanced version"
+            },
+            {
+                "Title": "Talent: Scorched Barrier",
+                "Desc": "Reduces DMG taken by a percentage of lost HP. When under the Primary Combustion state, this DMG reduction is further increased by a fixed amount."
+            },
+            {
+                "Title": "Talent: Luminous Fireflies",
+                "Desc": "When not under the Primary Combustion state, every time Current HP changes, will regenerate Energy based on the ratio of the HP change to Max HP."
+            },
+            {
+                "Title": "Trace #2",
+                "Desc": "Increases resistance to Crowd Control debuffs."
+            },
+            {
+                "Title": "Trace #3",
+                "Desc": "When under the Primary Combustion state, gains Fire DMG Boost."
+            },
+            {
+                "Title": "Eidolon #1",
+                "Desc": "When casting Enhanced Skill: Devouring Conflagration, before the DMG is dealt, inserts a Fire Weakness to the central single target, lasting for some turns. This effect ignores RES."
+            },
+            {
+                "Title": "Eidolon #2",
+                "Desc": "When receiving a buff, the duration of this buff is increased by 1 turn."
+            },
+            {
+                "Title": "Eidolon #4",
+                "Desc": "When under the Primary Combustion state, upon defeating an enemy, the action of Cooldown Kernel will be delayed. This effect can be triggered at most a certain number of times during each Primary Combustion."
+            },
+            {
+                "Title": "Eidolon #6",
+                "Desc": "When under the Primary Combustion state, when own turn ends, gains 1 stack of Heavenly Fire, increasing DMG dealt by Ultimates, max some stacks.<br>When Primary Combustion ends, removes all stacks of Heavenly Fire."
+            },
+            {
+                "Title": "Technique",
+                "Desc": "Enters a special state: Moves swiftly for some time, during which you can control her direction. While moving, ignores enemies, cannot be spotted by enemies and blocks all incoming attacks.<br>Using Technique again will exit this state and immediately attack all enemies in a large area.<br>Upon entering combat this way, has a fixed chance to insert a Fire Weakness to all enemies without Fire Weakness and reduce their Fire RES, lasting for some turns. Then, deals Fire DMG to all enemies."
+            },
+            {
+                "Title": "Overworld Attack",
+                "Desc": "Melee attack with small range, similar to Sparkle's attack AoE."
+            }
+        ]
+    },
+    {
+        "Name": "Jiaoqiu",
+        "Date": "2024/03/22",
+        "Ver": "2.0v5",
+        "Color": "Fire",
+        "Notes": [
+            {
+                "Title": "Basic ATK",
+                "Desc": "Deals Fire DMG to a single target, and has a Base Chance to apply 1 stack of Flavour to the target."
+            },
+            {
+                "Title": "Skill",
+                "Desc": "Deals Fire DMG to a single target and adjacent targets, and has a Base Chance to apply 1 stack of Flavour to the targets.<br>The Base Chance on the central target is higher. The Base Chance on adjacent targets is equal to the chance in Basic ATK."
+            },
+            {
+                "Title": "Ultimate",
+                "Desc": "Applies Aura to delf, lasting for some turns.<br>Deals Fire DMG to all targets, and has a Base Chance to apply 1 stack of Flavour to the targets. The Base Chance is equal to the chance in Basic ATK.<br>After the application, the Flavour stack of all enemy targets will be set to the maximum number of stacks of Flavour held by enemy targets. This effect ignores RES."
+            },
+            {
+                "Title": "Talent",
+                "Desc": "<b>Flavour: </b>Decreases DEF, stackable, has upper limit. When stacking more than 1 stack, the increase in DEF reduction will be lower than the DEF reduction of the first stack.<br><b>Aura: </b>The remaining duration decreases by 1 at the start of Jiaoqiu's turn. During Aura, at the start of every ally's turn, this ally heals a percentage of their Max HP plus a fixed amount of HP. During Aura, all enemies take increased Ultimate DMG.<br><b>Extra Effect: </b>When Jiaoqiu is on field, all enemies will be inflicted with an unknown debuff."
+            },
+            {
+                "Title": "Trace #1",
+                "Desc": "During Aura, at the start of any enemy's turn, Jiaoqiu deals Additional Fire DMG to this target.<br>During Aura, when any enemy takes action, Jiaoqiu has a Base Chance to apply 1 stack of Flavour to this target."
+            },
+            {
+                "Title": "Trace #2",
+                "Desc": "When casting Skill, regenerate some extra Energy."
+            },
+            {
+                "Title": "Trace #3",
+                "Desc": "During Aura, when a new enemy enters the battle:<br>- If no enemy has Flavour, or if the Flavour stack of every enemy is lower than some number, the Flavour stack of all enemy targets will be set to this number. This effect ignores RES.<br>- Otherwise, the Flavour stack of all enemy targets will be set to the maximum number of stacks of Flavour held by enemy targets. This effect ignores RES."
+            },
+            {
+                "Title": "Technique",
+                "Desc": "After using this technique, creats a dimension. After entering battle with enemies in the dimension, will ???"
+            }
+        ]
+    },
+    {
+        "Name": "Jade",
+        "Date": "2024/03/21",
+        "Ver": "2.0v5",
+        "Color": "Quantum",
+        "Notes": [
+            {
+                "Title": "Basic ATK",
+                "Desc": "Deals Quantum DMG to a single target and adjacent targets. "
+            },
+            {
+                "Title": "Skill",
+                "Desc": "Applies the Nephrite effect to a single ally. At the start of Jade's own turn, Nephrite's remaining duration decreases by 1. At most 1 ally can have the Nephrite effect.<br>When the ally with Nephrite attacks an enemy, Jade deals Additional Quantum DMG to the attacked target(s).<br>If the ally with Nephrite is not Jade, Nephrite will also increase this ally's SPD, and will consume a percentage of this ally's Max HP when Nephrite is applied, draining to 1 HP if HP is insufficient.<br>In auto combat, this skill will prioritize Erudition path characters."
+            },
+            {
+                "Title": "Ultimate",
+                "Desc": "Deals Quantum DMG to all enemies and gains a certain number of Enhanced Follow-Up charges.<br>When Jade performs a follow-up attack, if Jade has Enhanced Follow-Up charges, she will consume 1 charge to make this attack deal extra DMG."
+            },
+            {
+                "Title": "Talent",
+                "Desc": "When allies with Nephrite attacks enemies, every enemy attacked will provide Jade with a certain number of Credits. When Jade uses Basic ATK or Ultimate, every enemy attacked will provide Jade with 1 Credit. These two effects can be triggered simultaneously, but every enemy can only trigger each of them once in every attack event.<br>When Jade reaches a certain number of Credits, she will consume this number of Credits to unleash a follow-up attack, dealing Quantum DMG to all enemy targets.<br>For every enemy that appears on field, Jade will gain 1 stack of Jadeite, increasing her ATK. This effect persists even after the enemy is defeated or leaves. When Jade performs a follow-up attack, she will gain a certain number of stacks of Jadeite. The number of Jadeite stacks has an upper limit."
+            },
+            {
+                "Title": "Trace #1",
+                "Desc": "When allies with Nephrite performs an attack, Jade will regenerate some Energy."
+            },
+            {
+                "Title": "Trace #2",
+                "Desc": "Upon entering battle, Jade's action is advanced by a certain amount."
+            },
+            {
+                "Title": "Trace #3",
+                "Desc": "Every stack of Jadeite will also increase Jade's Crit DMG.<br>After any enemy is defeated by any entity, Jade's Crit DMG will be increased. This effect has an upper limit."
+            },
+            {
+                "Title": "Technique",
+                "Desc": "When Jade enters the overworld, will summon an following entity. This entity will inflict Blind to nearby enemies. Blinded enemies cannot detect your team.<br>Upon using this technique, Jade will shoot a bullet at an enemy. If the bullet hit an enemy with Blind, will apply an effect to Jade and another effect to all enemies after entering battle."
+            }
+        ]
+    },
+    {
         "Name": "Boothill",
         "Date": "2024/03/24",
         "Ver": "2.0v5",
@@ -3949,74 +4155,17 @@ var _hidden = [
         ]
     },
     {
-        "Name": "Firefly / Sam",
+        "Name": "2.2 Memory of Chaos",
         "Date": "2024/03/22",
-        "Ver": "2.0 Live",
-        "Color": "Fire",
+        "Ver": "2.1v4",
         "Notes": [
             {
-                "Title": "Basic ATK",
-                "Desc": "Deals Fire DMG to a single target."
+                "Title": "Phase 1",
+                "Desc": "At the start of every wave or cycle, all allies reset to ``6` stacks of Memory Imprint.<br>When an ally unleashes an attack, all allies consume 1 stack of Memory Imprint to increase the DMG dealt by this attack by ``50%`.<br>When all stacks of Memory Imprint are consumed, regenerate ``50%` energy for all allies. The regeneration of this effect can exceed the energy cap."
             },
             {
-                "Title": "Enhanced Basic ATK: Smoldering Wasteland",
-                "Desc": "Heals a percentage of own Max HP, and deals Fire DMG to a single target."
-            },
-            {
-                "Title": "Skill",
-                "Desc": "Consumes a percentage of own Max HP, and deals Fire DMG to a single target. If HP is insufficient, will drain to 1 HP.<br>After the attack, if the target is Weakness Broken, regenerate some Energy."
-            },
-            {
-                "Title": "Enhanced Skill: Devouring Conflagration",
-                "Desc": "Heals a percentage of own Max HP, and deals Fire DMG to a single target and adjacent targets.<br>After the attack, if at least 1 attacked target is Weakness Broken, advances own action and deals extra Fire DMG to all attacked targets.<br>All DMG dealt by this skill are considered as Ultimate DMG, instead of Skill DMG."
-            },
-            {
-                "Title": "Ultimate: Burning Starlight",
-                "Desc": "Dispels all debuffs on self, and enters the Primary Combustion state, and advances own action by 100%.<br>Summons a Cooldown Kernel on the action bar. When the Cooldown Kernel takes action, exits the Primary Combustion state."
-            },
-            {
-                "Title": "Talent: Primary Combustion",
-                "Desc": "When under the Primary Combustion state, increases SPD by a fixed value, and increases DMG dealt by a percentage of (convertible) Break Effect.<br>Also, Basic ATK and Skill will be switched to their Enhanced version"
-            },
-            {
-                "Title": "Talent: Scorched Barrier",
-                "Desc": "Reduces DMG taken by a percentage of lost HP. When under the Primary Combustion state, this DMG reduction is further increased by a fixed amount."
-            },
-            {
-                "Title": "Talent: Luminous Fireflies",
-                "Desc": "When not under the Primary Combustion state, every time Current HP changes, will regenerate Energy based on the ratio of the HP change to Max HP."
-            },
-            {
-                "Title": "Trace #2",
-                "Desc": "Increases resistance to Crowd Control debuffs."
-            },
-            {
-                "Title": "Trace #3",
-                "Desc": "When under the Primary Combustion state, gains Fire DMG Boost."
-            },
-            {
-                "Title": "Eidolon #1",
-                "Desc": "When casting Enhanced Skill: Devouring Conflagration, before the DMG is dealt, inserts a Fire Weakness to the central single target, lasting for some turns. This effect ignores RES."
-            },
-            {
-                "Title": "Eidolon #2",
-                "Desc": "When receiving a buff, the duration of this buff is increased by 1 turn."
-            },
-            {
-                "Title": "Eidolon #4",
-                "Desc": "When under the Primary Combustion state, upon defeating an enemy, the action of Cooldown Kernel will be delayed. This effect can be triggered at most a certain number of times during each Primary Combustion."
-            },
-            {
-                "Title": "Eidolon #6",
-                "Desc": "When under the Primary Combustion state, when own turn ends, gains 1 stack of Heavenly Fire, increasing DMG dealt by Ultimates, max some stacks.<br>When Primary Combustion ends, removes all stacks of Heavenly Fire."
-            },
-            {
-                "Title": "Technique",
-                "Desc": "Enters a special state: Moves swiftly for some time, during which you can control her direction. While moving, ignores enemies, cannot be spotted by enemies and blocks all incoming attacks.<br>Using Technique again will exit this state and immediately attack all enemies in a large area.<br>Upon entering combat this way, has a fixed chance to insert a Fire Weakness to all enemies without Fire Weakness and reduce their Fire RES, lasting for some turns. Then, deals Fire DMG to all enemies."
-            },
-            {
-                "Title": "Overworld Attack",
-                "Desc": "Melee attack with small range, similar to Sparkle's attack AoE."
+                "Title": "Phase 2",
+                "Desc": "At the start of every wave of cycle, summon a Trotter onto the field.<br>When an ally triggers Weakness Broken on the Trotter, the Trotter will die immediately and advance this character's action by ``100%`. Also, all allies will gain 1 stack of Memory Imprint, increasing ATK and Break Effect by ``30%`, lasting forever, max 4 stacks."
             }
         ]
     },
@@ -4069,147 +4218,6 @@ var _hidden = [
             {
                 "Title": "Passive #2",
                 "Desc": "Sunday has 4 summons. The summons do not take any DMG. When they are attacked, all DMG they receive will be taken by Sunday."
-            }
-        ]
-    },
-    {
-        "Name": "Jiaoqiu",
-        "Date": "2024/03/22",
-        "Ver": "2.0v5",
-        "Color": "Fire",
-        "Notes": [
-            {
-                "Title": "Basic ATK",
-                "Desc": "Deals Fire DMG to a single target, and has a Base Chance to apply 1 stack of Flavour to the target."
-            },
-            {
-                "Title": "Skill",
-                "Desc": "Deals Fire DMG to a single target and adjacent targets, and has a Base Chance to apply 1 stack of Flavour to the targets.<br>The Base Chance on the central target is higher. The Base Chance on adjacent targets is equal to the chance in Basic ATK."
-            },
-            {
-                "Title": "Ultimate",
-                "Desc": "Applies Aura to delf, lasting for some turns.<br>Deals Fire DMG to all targets, and has a Base Chance to apply 1 stack of Flavour to the targets. The Base Chance is equal to the chance in Basic ATK.<br>After the application, the Flavour stack of all enemy targets will be set to the maximum number of stacks of Flavour held by enemy targets. This effect ignores RES."
-            },
-            {
-                "Title": "Talent",
-                "Desc": "<b>Flavour: </b>Decreases DEF, stackable, has upper limit. When stacking more than 1 stack, the increase in DEF reduction will be lower than the DEF reduction of the first stack.<br><b>Aura: </b>The remaining duration decreases by 1 at the start of Jiaoqiu's turn. During Aura, at the start of every ally's turn, this ally heals a percentage of their Max HP plus a fixed amount of HP. During Aura, all enemies take increased Ultimate DMG.<br><b>Extra Effect: </b>When Jiaoqiu is on field, all enemies will be inflicted with an unknown debuff."
-            },
-            {
-                "Title": "Trace #1",
-                "Desc": "During Aura, at the start of any enemy's turn, Jiaoqiu deals Additional Fire DMG to this target.<br>During Aura, when any enemy takes action, Jiaoqiu has a Base Chance to apply 1 stack of Flavour to this target."
-            },
-            {
-                "Title": "Trace #2",
-                "Desc": "When casting Skill, regenerate some extra Energy."
-            },
-            {
-                "Title": "Trace #3",
-                "Desc": "During Aura, when a new enemy enters the battle:<br>- If no enemy has Flavour, or if the Flavour stack of every enemy is lower than some number, the Flavour stack of all enemy targets will be set to this number. This effect ignores RES.<br>- Otherwise, the Flavour stack of all enemy targets will be set to the maximum number of stacks of Flavour held by enemy targets. This effect ignores RES."
-            },
-            {
-                "Title": "Technique",
-                "Desc": "After using this technique, creats a dimension. After entering battle with enemies in the dimension, will ???"
-            }
-        ]
-    },
-    {
-        "Name": "2.2 Memory of Chaos",
-        "Date": "2024/03/22",
-        "Ver": "2.1v4",
-        "Notes": [
-            {
-                "Title": "Phase 1",
-                "Desc": "At the start of every wave or cycle, all allies reset to ``6` stacks of Memory Imprint.<br>When an ally unleashes an attack, all allies consume 1 stack of Memory Imprint to increase the DMG dealt by this attack by ``50%`.<br>When all stacks of Memory Imprint are consumed, regenerate ``50%` energy for all allies. The regeneration of this effect can exceed the energy cap."
-            },
-            {
-                "Title": "Phase 2",
-                "Desc": "At the start of every wave of cycle, summon a Trotter onto the field.<br>When an ally triggers Weakness Broken on the Trotter, the Trotter will die immediately and advance this character's action by ``100%`. Also, all allies will gain 1 stack of Memory Imprint, increasing ATK and Break Effect by ``30%`, lasting forever, max 4 stacks."
-            }
-        ]
-    },
-    {
-        "Name": "Jade",
-        "Date": "2024/03/21",
-        "Ver": "2.0v5",
-        "Color": "Quantum",
-        "Notes": [
-            {
-                "Title": "Basic ATK",
-                "Desc": "Deals Quantum DMG to a single target and adjacent targets. "
-            },
-            {
-                "Title": "Skill",
-                "Desc": "Applies the Nephrite effect to a single ally. At the start of Jade's own turn, Nephrite's remaining duration decreases by 1. At most 1 ally can have the Nephrite effect.<br>When the ally with Nephrite attacks an enemy, Jade deals Additional Quantum DMG to the attacked target(s).<br>If the ally with Nephrite is not Jade, Nephrite will also increase this ally's SPD, and will consume a percentage of this ally's Max HP when Nephrite is applied, draining to 1 HP if HP is insufficient.<br>In auto combat, this skill will prioritize Erudition path characters."
-            },
-            {
-                "Title": "Ultimate",
-                "Desc": "Deals Quantum DMG to all enemies and gains a certain number of Enhanced Follow-Up charges.<br>When Jade performs a follow-up attack, if Jade has Enhanced Follow-Up charges, she will consume 1 charge to make this attack deal extra DMG."
-            },
-            {
-                "Title": "Talent",
-                "Desc": "When allies with Nephrite attacks enemies, every enemy attacked will provide Jade with a certain number of Credits. When Jade uses Basic ATK or Ultimate, every enemy attacked will provide Jade with 1 Credit. These two effects can be triggered simultaneously, but every enemy can only trigger each of them once in every attack event.<br>When Jade reaches a certain number of Credits, she will consume this number of Credits to unleash a follow-up attack, dealing Quantum DMG to all enemy targets.<br>For every enemy that appears on field, Jade will gain 1 stack of Jadeite, increasing her ATK. This effect persists even after the enemy is defeated or leaves. When Jade performs a follow-up attack, she will gain a certain number of stacks of Jadeite. The number of Jadeite stacks has an upper limit."
-            },
-            {
-                "Title": "Trace #1",
-                "Desc": "When allies with Nephrite performs an attack, Jade will regenerate some Energy."
-            },
-            {
-                "Title": "Trace #2",
-                "Desc": "Upon entering battle, Jade's action is advanced by a certain amount."
-            },
-            {
-                "Title": "Trace #3",
-                "Desc": "Every stack of Jadeite will also increase Jade's Crit DMG.<br>After any enemy is defeated by any entity, Jade's Crit DMG will be increased. This effect has an upper limit."
-            },
-            {
-                "Title": "Technique",
-                "Desc": "When Jade enters the overworld, will summon an following entity. This entity will inflict Blind to nearby enemies. Blinded enemies cannot detect your team.<br>Upon using this technique, Jade will shoot a bullet at an enemy. If the bullet hit an enemy with Blind, will apply an effect to Jade and another effect to all enemies after entering battle."
-            }
-        ]
-    },
-    {
-        "Name": "Upcoming Relics",
-        "Date": "2024/03/21",
-        "Ver": "2.1v4",
-        "Notes": [
-            {
-                "Title": "Relic 1",
-                "Desc": "2-Piece: ???<br>4-Piece: When the wearer's Break Effect is greater than a certain value, their Crit DMG is increased by a certain value."
-            },
-            {
-                "Title": "Relic 2",
-                "Desc": "2-Piece: ???<br>4-Piece: When the wearer uses an Ultimate or before performing a follow-up attack, they gain 1 stack of Boost, increasing all DMG dealt, max 2 stacks. When the wearer's turn ends, all stacks of Boost are removed."
-            }
-        ]
-    },
-    {
-        "Name": "Upcoming Lightcones",
-        "Date": "2024/03/21",
-        "Ver": "2.1v4",
-        "Notes": [
-            {
-                "Title": "Limited 5★ (Possible for Boothil)",
-                "Desc": "Before Ultimate DMG hits an opponent, Break Effect and Crit Rate are increased, lasting for some turns."
-            },
-            {
-                "Title": "Limited 5★ (Possible for Robin)",
-                "Desc": "When any ally is attacked, the wearer's Energy Regeneration Rate is increased, stackable.<br>When casting Ultimate, clears the aforementioned Energy Regeneration Rate boost, increases all allies' DMG dealt and increases the wearer's DMG dealt by an extra amount, lasting for some turns."
-            },
-            {
-                "Title": "Limited 5★",
-                "Desc": "Before the wearer attacks a target, inflicts 1 stack of Mark on the target, increasing the target's DMG taken, stackable. At most 1 enemy can have Mark.<br>When an enemy with debuffs is defeated by any entity, the wearer regenerates some Energy. This effect can be triggered a certain number of times between each of the wearer's turns."
-            },
-            {
-                "Title": "Limited 5★",
-                "Desc": "When the wearer performs a follow-up attack, for every Y of the wearer's ATK that exceeds X, this follow-up attack's DMG dealt is increased by Z.<br>Upon entering battle or after using a Basic ATK, the DMG dealt by the wearer's Ultimate and follow-up attacks will ignore some of the target's DEF, lasting for some turns."
-            },
-            {
-                "Title": "Simulated Universe Shop 5★",
-                "Desc": "Ultimate and follow-up attacks' Crit DMG is increased. After hitting enemies that are Weakness Broken, ATK is increased.<br>(There are signs that the ATK boost may be changed to a Crit Rate boost)"
-            },
-            {
-                "Title": "Event Reward 4★",
-                "Desc": "After casting Ultimate, ATK is increased for some turns"
             }
         ]
     }

@@ -328,7 +328,7 @@ $(function () {
                                 },
                             },
                             {
-                                p: t.Date + '<br>' + ((lang == 'CH') ? t.Ver.replaceAll('Live', '正式服') : t.Ver),
+                                p: t.Date + '<br><b>' + ((lang == 'CH') ? t.Ver.replaceAll('Live', '正式服') : t.Ver) + '</b>',
                                 style: {
                                     'font-size': '0.7em',
                                     'font-weight': 'normal',
