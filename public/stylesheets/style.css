@@ -140,7 +140,6 @@ body, html {
 
 container {
     display: block;
-    max-width: 2000px;
     height: 100%;
     overflow-y: scroll;
     overflow-x: hidden;
