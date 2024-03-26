@@ -2141,19 +2141,19 @@ $(function () {
                                         {
                                             div: [
                                                 {
-                                                    img: imgpre + "images/" + _item[mats[0] - 2].Icon,
+                                                    img: imgpre + "images/" + (_item[mats[0] - 2] ? _item[mats[0] - 2].Icon : 'itemicon/Icon_Testmaterial01.png'),
                                                     a: {
                                                         'data-id': mats[0] - 2
                                                     }
                                                 },
                                                 {
-                                                    img: imgpre + "images/" + _item[mats[0] - 1].Icon,
+                                                    img: imgpre + "images/" + (_item[mats[0] - 1] ? _item[mats[0] - 1].Icon : 'itemicon/Icon_Testmaterial01.png'),
                                                     a: {
                                                         'data-id': mats[0] - 1
                                                     }
                                                 },
                                                 {
-                                                    img: imgpre + "images/" + _item[mats[0]].Icon,
+                                                    img: imgpre + "images/" +( _item[mats[0]] ? _item[mats[0]].Icon : 'itemicon/Icon_Testmaterial01.png'),
                                                     a: {
                                                         'data-id': mats[0]
                                                     }
