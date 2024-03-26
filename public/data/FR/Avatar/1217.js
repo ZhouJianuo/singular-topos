@@ -578,24 +578,220 @@ var _story_ = {
 var _voice_ = {
     "1217": [
         {
-            "_id": 1,
-            "Story": "While this Foxian girl may seem fragile and weak, she is actually a judge-in-training of the Ten-Lords Commission, responsible for capturing evil.<br>The judges sealed a heliobus named \"Tail\" onto her tail, making her a \"Cursed One\" with a tendency to attract evil beings.<br>Despite trembling at the sight of evil spirits, she is always entrusted with the arduous task of eradicating their presence.<br>She is well aware of her incompetence but lacks the courage to resign, so she forces herself to press on despite her fear."
+            "Title": "First Meeting",
+            "Voice": "Huohuo: H—Hello, I'm Huohuo, the newly appointed judge of the Ten-Lords Commission. Um... what else should I mention...<br>Tail: Ahem... Uh, Hello? Don't forget to introduce the most famous heliobus of all.<br>Huohuo: Ah, yes — Tail! This is Tail!"
         },
         {
-            "_id": 2,
-            "Story": "When Huohuo awakes at the Ten-Lords Commission, she finds herself confronted not with novelty, but with an atmosphere that sends shivers down her spine.<br><br>Sensing her unease, a white-haired judge addresses her with gentleness.<br><br><i>\"Tell me, little girl, how did you come across that fire?\"<br>\"...It was along the roadside and about to extinguish, so I... I wished to help it.\"<br>\"So you put that fire on your tail? Why did you do that?\"<br>\"I... I don't know... It happened before I realized it... I'm so sorry.\"<br>\"You don't need to apologize, kind-hearted girl. However, you'll be under our custody from now onwards.\"<br>\"Th—Thank you, Madam.\"<br>\"Call me Hanya.\"<br>\"Ah, thank you, Madam Hanya. I... my name is Huohuo.\"</i><br><br>The thoughts of the judge named Hanya wanders back to a few days ago.<br><br>The Ten-Lords Commission received a distress call, and she took on the task of locating the Foxian girl who was about to be consumed by a heliobus. At the moment, Hanya couldn't repel the heliobus by force without causing harm to Huohuo, who was still a little girl. As a result, she had to seal the heliobus onto the girl's tail. Fortunately, the heliobus decided to start the possession from her tail, giving Hanya a chance to save her life.<br><br><i>\"...Was my decision right or wrong?\"</i><br>Hanya mutters to herself."
+            "Title": "Greeting",
+            "Voice": "Huohuo: H—Hello! Uh, I mean... Well, I... I guess I'll take my leave now. B—Bye...<br>Tail: You were supposed to say hi, not bye!"
         },
         {
-            "_id": 3,
-            "Story": "While the heliobus is short-tempered and arrogant, he is not impossible to communicate with. He could not tolerate Huohuo's sobbing and wailing and didn't quite understand how Foxians socialize — for example, he didn't understand why the girl would be ostracized by her classmates due to \"her tail being on fire.\"<br><br><i>\"You! Tear off that talisman!\"<br>\"No! Madam Hanya said the talisman must not be removed under any circumstances...\"<br>\"Did you hear them? How dare they mock me!? I've never been humiliated like this before!\"<br>\"No... they're not mocking you... but me...\"<br>\"Then you go teach them a lesson yourself. If you can't avenge me for this insult, then don't talk to me anymore.\"<br>\"B—But... I'm scared...\"<br>\"Alright, fine. You know what? Just take a deep breath, make your mind go blank, and don't think about anything. I'll handle this problem for you.\"<br>\"B—But... Madam Hanya said... the talisman must not be removed...\"<br>\"Don't worry. Just do what I say.\"</i><br><br>...When she regained consciousness, the legend of \"the possessed demoness\" was already circulating.<br><br>After that, Huohuo went and found out a lot about the heliobus' past. Eons ago, a heliobus named Ignamar was defeated by a Luofu general and fragmented into numerous shards, then sealed in the Creation Furnace. This particular shard escaped, and he represents the arrogant side of Ignamar and wouldn't condescend to possessing anything, living as a vagabond for centuries... until Huohuo chanced upon him in his utter exhaustion.<br><br><i>\"Then I'll call you 'Tail' to avoid unwanted attention...\"</i><br>The heliobus said nothing, his silence being a sign of acquiescence."
+            "Title": "Parting",
+            "Voice": "F—Finally, time to go home. I hope no one notices me."
         },
         {
-            "_id": 4,
-            "Story": "When Huohuo was taken in by the Ten-Lords Commission, the judges initially wanted to ensure that Tail wouldn't cause any trouble.<br><br>Gradually, as she familiarized herself with her duties as a spiritfarer, she became acquainted with the various evil spirits documented by the Commission.<br><br><i>\"Madam Xueyi! H—How about the talismans I prepared last time?\"<br>\"They were great. Very effective against Astral Spirits.\"<br>\"Ha—Haha... Glad to know that. I was worried if it would work well.\"<br>\"Why didn't you try them yourself?\"<br>\"N—N—No... I'm too scared...\"<br>\"You know, Huohuo? Most of those 'evil spirits' are actually extraterrestrial creatures or malevolent sentient beings that exist in various forms.\"<br>\"I know what they are, but I'm still so afraid, Madam Xueyi. Maybe I'm not really cut out for this job...\"<br>\"...Well, only you know the answer to that.\"</i><br><br>Huohuo is not okay with her timidity. She struggled to muster the courage needed to confront the evil spirits.<br><br>She stayed up late watching horror-comedy films in an attempt to strengthen her nerves, but all she got were dark circles. She invested in the latest scientific exorcism tools to enhance her abilities, but it only left her with empty pockets. Tail sneered at the futility of her efforts, finding ways to make sarcastic remarks and mock her.<br><br><i>\"To be honest, Tail is the scariest of all...\"</i><br>However, in Xueyi's eyes, Huohuo has long ceased to fear Tail."
+            "Title": "About Self: Work",
+            "Voice": "I—I tried to turn this job down... It just doesn't feel fair — asking someone with heliophobia to hunt down heliobi with a heliobus? *sigh* They told me it was to \"conquer my fear...\""
         },
         {
-            "_id": 5,
-            "Story": "Initially, Tail was no different from any other heliobi, intending to devour Huohuo and take possession of her name and identity, stealing all of her desires and emotions.<br><br>Later, Tail found pleasure in witnessing Huohuo's frustrations in her failures. \"Anyway, I'm not in a hurry to devour her at all. She can't escape me after all.\"<br><br><i>\"Tail, Tail! Help... Help me!\"<br>\"It's none of my concern. What did you say back then...? Oh, you've got to 'stand on your own feet.' Now this is the perfect chance, isn't it?\"<br>\"No! I'll stand on my feet next time! Please help me!\"<br>\"A reminder, once you die, I'll be free. But... well, I always finish what I start. I won't leave until I devour you.\"<br>\"You're a judge of the Ten-Lords Commission, but you've neglected your duty and allowed those monsters to wreak havoc on the Xianzhou. What a disgrace... Hey! What do you think you're doing, small fry!? I'm the only one who can scold her!\"<br>\"Roaaaarr!\"<br>\"You want to get physical, huh? Good, you asked for it!\"</i><br><br>Since being possessed by Tail, Huohuo has become highly sought-after by evil spirits, like moths to a flame.<br><br>Huohuo always blames Tail for her ominous title as the \"cursed one,\" and Tail finds having a host like Huohuo can be frustrating at times. However, years have passed, and Tail hasn't harmed Huohuo in the slightest. Although Tail never fails to help her after witnessing enough frustration, he denies any notion of friendship.<br><br><i>\"Issued by the Ten Lords, Huohuo the spiritfarer has performed extraordinarily during her tenure and has proven to be reliable for crucial tasks. She is hereby promoted to the position of 'Judge.'\"</i><br>The Ten-Lords Commission decreed her promotion, and thus begun Huohuo's new tenure as a trainee judge."
+            "Title": "About Self: Tail",
+            "Voice": "Huohuo: My tail was consumed during a heliobus attack — the rest of me barely got away. It's a good job the Ten-Lords Commission sealed the demon in my tail before it had the chance to finish me off...<br>Tail: It's not my fault that Foxians have the most scrumptious tails... However, now that I'm a tail, I've realized all sorts of monsters want to have me for breakfast!"
+        },
+        {
+            "Title": "Chat: Banner",
+            "Voice": "I can use this banner to dispel demons... but it also comes in handy when signaling my surrender..."
+        },
+        {
+            "Title": "Chat: Paper Dolls",
+            "Voice": "Huohuo: I make paper dolls whenever I get the chance. With so many little \"friends\" around, there's nothing to fear...<br>Tail: Don't get me started! Those things stress me out. The mere thought of seeing a smiling paper doll right in front of my face in the middle of the night..."
+        },
+        {
+            "Title": "Hobbies",
+            "Voice": "I practice my bravery by watching horror-comedies late at night. When it gets to a scary part, I laugh it off like this... Hehehehehehehe! So, yeah..."
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "Huohuo: The owner of The Looking Bronze said I have a knack for attracting evil. I—I have a vague idea why that is...<br>Tail: Apparently, I am that \"vague idea\". Be that as it may, your tendency to trip over yourself is entirely your own fault."
+        },
+        {
+            "Title": "Something to Share",
+            "Voice": "How do I relax? I like to find a place in Starskiff Haven to lay back and watch the starskiffs come and go... although my colleagues say it works better for insomnia... A—Anyway, you should try it."
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "I heard a lot of heliobi were sealed in the Artisanship Commission's Creation Furnace, but they all escaped when the furnace broke... That's why my workload is the way it is..."
+        },
+        {
+            "Title": "About Guinaifen",
+            "Voice": "Little Gui? She has a lot of yang energy — she dispels bad luck very easily. Even my tail goes quiet when she's around. The only drawback is I have to raise my voice around her if I wanted to be heard..."
+        },
+        {
+            "Title": "About Xueyi",
+            "Voice": "Huohuo: The puppet judge? She really scared me at first... but when Tail threatened her, she didn't bat an eyelid. Madam Xueyi is amazing — I really want to be like her one day...<br>Tail: Amazing!? Let's see if she still has that smirk on her face when I burn the Ten-Lords Commission to the ground!"
+        },
+        {
+            "Title": "About Hanya",
+            "Voice": "In order to differentiate between the sisters, I call her the rambling judge... *gasp* She hasn't found out, has she?"
+        },
+        {
+            "Title": "About Qingque",
+            "Voice": "It seems like Qingque is always on a break. When I'm relaxing, she's relaxing, and when I get swamped with work, guess what...? She's still relaxing! I guess the Divination Commission has a pretty light workload..."
+        },
+        {
+            "Title": "About Tail",
+            "Voice": "Huohuo: B—Be more determined? I usually just want to run away... Still, every time I try, Mr. Tail sends me straight back to the enemies' doorstep. *sigh* Why can't he just leave me be...?<br>Tail: Hmph! Fine by me! If you get swallowed whole, I'll finally be able to break free!"
+        },
+        {
+            "Title": "About Jing Yuan",
+            "Voice": "People say that the general's portrait can be used to dispel evil. I tried but... useless... I—I mean the portrait, not the general. I shouldn't have believed in such superstitious nonsense."
+        },
+        {
+            "Title": "About Bailu",
+            "Voice": "I wonder if the Dragon Lady has any \"brave pills\" for sale... If not, \"play dead pills\" might do the trick..."
+        },
+        {
+            "Title": "About Yukong",
+            "Voice": "How come Madam Yukong has an air of authority, but I don't? I mean, we're both Foxians. Actually... I know why, but I can't help being a little envious."
+        },
+        {
+            "Title": "About Sushang",
+            "Voice": "Actually, we met a long time ago. I was outside getting some peace and quiet, when all of a sudden she dragged me before the Realm-Keeping Commission Chancery. She mistook me for a missing person..."
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "So this is the life of a cursed one..."
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "Promoted again? ...Is that good or bad...?"
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "D—Do I have to spend my whole life in the Ten-Lords Commission...?"
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "Does a cure-all for exorcising evil really exist...?"
+        },
+        {
+            "Title": "Added to Team With Hanya",
+            "Voice": "Madam Hanya, did you also have a restless night...? If there's anything I can help with, just let me know..."
+        },
+        {
+            "Title": "Added to Team With Guinaifen",
+            "Voice": "You first, Little Gui! I—I'll be right behind you..."
+        },
+        {
+            "Title": "Added to Team With Sushang",
+            "Voice": "Sushang, just a minute, let me give you this talisman..."
+        },
+        {
+            "Title": "Added to Team With Xueyi",
+            "Voice": "Huohuo: M—Madam Xueyi! You're here too!<br>Tail: Not good! Not good!"
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "Huohuo: Maybe I can do this..."
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "Huohuo: I—I don't think I can do this...<br>Tail: You have me here — what're you afraid of?"
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "Huohuo: D—Do we have to fight?<br>Tail: Why, of course!"
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "Huohuo: I'm gonna hold everyone back again..."
+        },
+        {
+            "Title": "Basic Attack 1",
+            "Voice": "Tail: Get them.<br>Huohuo: Ahhhh—!"
+        },
+        {
+            "Title": "Basic Attack 2",
+            "Voice": "Huohuo: Ahh—! Somebody help me!"
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "Tail: Fool! You can't play dead standing up!<br>Huohuo: Shh..."
+        },
+        {
+            "Title": "Skill 1",
+            "Voice": "Huohuo: Demons... depart..."
+        },
+        {
+            "Title": "Skill 2",
+            "Voice": "Huohuo: Give me... strength..."
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "Huohuo: *whimper* Ow..."
+        },
+        {
+            "Title": "Hit by Heavy Attack 1",
+            "Voice": "Huohuo: Tail, help!"
+        },
+        {
+            "Title": "Hit by Heavy Attack 2",
+            "Voice": "Tail: You dare attack me!?"
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "Huohuo: D—Don't come any closer..."
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "Tail: Move aside, amateurs...<br>Fiends or devils, I'll crush them all!"
+        },
+        {
+            "Title": "Downed",
+            "Voice": "Huohuo: I... surrender..."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "Huohuo: It's not over yet?"
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "Huohuo: Thank you, thank you!"
+        },
+        {
+            "Title": "Technique",
+            "Voice": "Tail: Flee—<br>Huohuo: *gasp*..."
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "Huohuo: Did I win? Did I win!?<br>Tail: Not even a thanks?"
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "Huohuo: Wow⁓ Can I really keep it?"
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "Huohuo: I didn't expect to find this here..."
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "Huohuo: I should probably report this find...<br>Tail: You found it! It's yours!"
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "Huohuo: I—I'm actually pretty good at these things."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "Huohuo: Hmm? So... did I do it?<br>Tail: Next."
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "Huohuo: They can't see me, they can't see me...<br>Tail: Hey, knucklehead, look over here!"
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "Huohuo: Such a peaceful spot...<br>Tail: Woof!"
         }
     ]
 }

@@ -425,24 +425,168 @@ var _story_ = {
 var _voice_ = {
     "1008": [
         {
-            "_id": 1,
-            "Story": "The inarticulate head of the Herta space station's Security Department.<br>While scientific research is beyond his understanding, Arlan is willing to risk his life to protect the staff who value research so very much. He is used to pain and wears his scars like badges of honor.<br>Only when holding Peppy does the boy let down his guard and show a rare smile."
+            "Title": "First Meeting",
+            "Voice": "Hello, Trailblazer. I'm Arlan, I head up the Security Department on Herta Space Station. I'll be in charge of your safety during your time here."
         },
         {
-            "_id": 2,
-            "Story": "How is Arlan's work in the Security Department?<br>— Brother Arlan is the beacon that guides the Security Department, the core support for everyone's battles! Without him, the space station would fall to pieces in a day. Without him, people's lives would be ruined in ten days. Without him, the station would be hellish in just one hundred days!<br>— But he plays holodisc with Peppy during work hours.<br>— Because he's finished all daily security tasks ahead of schedule! His mere presence is an inspiration to us all.<br>— But he plays holodisc with Peppy during work hours.<br>— How do you know that playing holodisc with Peppy isn't actually part of his job description...<br><br><i>\"You're not allowed to play with your phone while out on patrol. Give it to me.\"<br>\"No, brother Arlan! People are talking smack about you in the group chat! Don't you care?\"<br>\"Nope. Too busy.\"<br>\"Huh, have you got an urgent mission? Let me go with you. What happened?\"<br>\"I'm taking Peppy to do rehab through play holodisc.\"</i>"
+            "Title": "Greeting",
+            "Voice": "Seed Isle's latest flavors of dried earthworm hit the shelves today — we should head over before the queue starts. The early bird catches the... anyway."
         },
         {
-            "_id": 3,
-            "Story": "There are countless strange and valuable things around Miss Asta's house, but it's the dog at death's door that attracts the most attention.<br><br>What's more, her forlorn cries only increase in volume as her parents attempt to comfort her — telling her that this dog she picked up won't live for very long, and they are better off buying her another one.<br><br>That filthy pup just lies there without the strength to even lift up its head and look around the people surround it. The crying, arguing, and the silence... None of this has anything to do with it.<br><br>At one point, he thinks it had already stopped breathing, so he bends down to check its nose. Just then, the dog suddenly licks his fingers — which is about the farthest distance it can stretch.<br><br>— Its tongue is wet.<br><br><i>\"Wanna play holodisc?\"</i><br><br>Its lifeless eyes suddenly light up."
+            "Title": "Parting",
+            "Voice": "You should have some mixed vegetable juice before bed — it helps you sleep. Well, I'm on night duty tonight. See you tomorrow."
         },
         {
-            "_id": 4,
-            "Story": "He stops pacing in the corridor and gazes out of the window into the tranquility of deep space, the dark circles around his eyes reflecting back at him.<br><br>Another pair of bloodshot eyes appears at the window. Their owner looks more relaxed than she usually does before the researchers, and absentmindedly lets out a huge yawn.<br><br><i>\"You're up late. Not going to bed?\"<br>\"I'm feeling anxious, so I'm just out for a patrol...\"<br>\"I just updated the firmware for the defense shield, and security systems are all operating smoothly.\"<br>\"Maybe I'm overthinking things, but...\"<br>\"I understand. You're the head of security, and I trust your instincts.\"</i><br><br>The space station remains brightly lit and operates without a stop. They each return to their respective posts.<br><br>They both know that regardless of the protection of Madam Herta's fame, the defensive measures around the space station, and the round-the-clock vigilance of the Security Department — if a disaster was to occur...<br><br>It would only take seconds."
+            "Title": "About Self: Looking for Peppy",
+            "Voice": "We've held the Space Station Peppy-Finding Contest nine times so far, and I've... I've won it nine times in a row."
         },
         {
-            "_id": 5,
-            "Story": "<i>\"Everyone's evacuated. Arlan. Hurry up!\"<br>\"There may still be survivors inside.\"<br>\"No... There aren't any more life signs in there.\"</i><br><br>He thought he could trust Asta until the moment when countless Antimatter Legion pawns pour towards him like a tsunami. The signal from the watcher zone is faint. Asta won't be able to see this situation.<br><br>He is now standing, alone, in the elevator. He has to make a decision, even if he has to disobey Asta's orders — No matter the cost, he has to block access to the elevator to save everyone. He cannot allow these monsters to get to the master control zone.<br><br><i>\"Sorry, Miss Asta...\"</i><br><br>The Antimatter Legion strikes him down from behind before he can explain himself. He falls, and his remote communications disconnects.<br><br>He had never hesitated, whether working in Miss Asta's home or after becoming Herta Space Station's head of Security Department. He had always taken for granted that, since Miss Asta decided to head in one direction, he has to follow her.<br><br>Arlan raises his head with great difficulty, and the monsters move closer to him. He had never disobeyed an order from Miss Asta before. This is the first time.<br><br><i>\"Hopefully it won't be the last time.\"</i><br><br>This thought pops up in his head.<br><br>Propping himself up with his greatsword, he slowly and firmly stands up."
+            "Title": "Chat: On Patrol",
+            "Voice": "I try to be inconspicuous when I'm on patrol. That way, I can avoid disturbing the researchers while they work and observe their utmost concentration."
+        },
+        {
+            "Title": "Hobbies",
+            "Voice": "You should keep your sword sharp at all times."
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "Oh, man! The phone case shipping location is too far from the space station — you have to buy 5000 units for them to deliver... Wait, please don't tell Lady Asta that."
+        },
+        {
+            "Title": "Something to Share",
+            "Voice": "There are some sword fragments housed here on the space station, but I can't find them in the pictographic index... They must be pretty special."
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "I heard the researchers say that there are some curios that actively requested to come to the space station."
+        },
+        {
+            "Title": "About Asta",
+            "Voice": "*sigh* ...I don't know why, but it seems like I manage to annoy Lady Asta fairly regularly."
+        },
+        {
+            "Title": "About Herta",
+            "Voice": "I'm different from the researchers — I'm not what you'd call a \"follower\" of Madam Herta — but she still lets me work here."
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "I've found a home to protect."
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "I can't afford to be complacent."
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "The fruits of my training. I'll keep it up."
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "You can learn new things by going back to the basics."
+        },
+        {
+            "Title": "Added to Team With Trailblazer",
+            "Voice": "Combat is an unavoidable risk, but be careful."
+        },
+        {
+            "Title": "Added to Team With Asta",
+            "Voice": "You should leave the fighting to me, Lady Asta."
+        },
+        {
+            "Title": "Added to Team With Herta",
+            "Voice": "Madam Herta! A—Awaiting your orders!"
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "Your number is up."
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "Nothing can stop me."
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "Fight to win."
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "Haven't learned your lesson?"
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "We have to go on the offensive."
+        },
+        {
+            "Title": "Skill 1",
+            "Voice": "As you wish."
+        },
+        {
+            "Title": "Skill 2",
+            "Voice": "Be silent."
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "Hmm?"
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "Barely felt it."
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "Is that all you got?"
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "Let me pay you back — tenfold!"
+        },
+        {
+            "Title": "Downed",
+            "Voice": "I can't protect you anymore..."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "You can't fight from the grave."
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "I'm fine... thank you."
+        },
+        {
+            "Title": "Technique",
+            "Voice": "You're in the way."
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "Even a little strength comes in useful."
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "You keep it."
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "I think I've seen these in our inventory..."
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "Did we get it all?"
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "That'll do it."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "Just like my days at the Security Department."
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "Look up ahead."
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "If there's no danger here, then I'm needed elsewhere."
         }
     ]
 }

@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23008": "Under the watch of the white irises, he knocks on the coffin.<br><i>\"Sometimes I feel I underestimated you by proposing this deal.\"</i><br>He receives no response other than a thorny branch piercing through his palm.<br>Yet he smiles, and tightly grasps the thorn.<br><br><i>\"Indeed. This is how it is. We wanted to use each other, and both ended up underestimating the other.\"</i>"
+    "23008": "하얀 아이리스 옆에서 그는 관을 두드린다.<br><i>「가끔 너와 이 거래를 한 건 널 과소평가한 거라고 생각해」</i><br>아무런 대답 없이 가시가 그의 손바닥을 뚫는다.<br>그러나 그는 웃으며 가시를 잡았다.<br><br><i>「그래, 우린 서로를 이용하려 하지만 한편으로 서로를 과소평가하고 있지」</i>"
 }
 
 var _weaponskill_ = {

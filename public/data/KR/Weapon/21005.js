@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21005": "<i>\"Moles, moles,\"<br>\"Leaving our holes,\"<br>\"Smart moles fear naught foes,\"<br>\"Moles, moles,\"<br>\"Bite your toes!\"</i>"
+    "21005": "<i>「두더지파, 두더지파」<br>「우린 지금 출발해」<br>「똑똑한 두더지는 두려워 하지 않아」<br>「두더지파, 두더지파」<br>「두더지파는 모험을 시작한다!」</i>"
 }
 
 var _weaponskill_ = {

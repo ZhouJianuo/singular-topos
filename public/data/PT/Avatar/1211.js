@@ -530,24 +530,212 @@ var _story_ = {
 var _voice_ = {
     "1211": [
         {
-            "_id": 1,
-            "Story": "A vivacious young lady of the Vidyadhara race, she is known as the \"Healer Lady\" due to her expertise with medicine.<br>She often dishes out unorthodox prescriptions such as \"Stay well hydrated\" and \"Get a good night's rest.\"<br>Bailu cannot bear to see people suffer, and that's why you'll see her with her eyes shut tightly as she cures ailments.<br>\"As long as they're cured, that's all that matters, right?\""
+            "Title": "First Meeting",
+            "Voice": "I'm Bailu, a doctor from the Alchemy Commission. Come here and let me have a look at you. Hmm... What's wrong? Where does it hurt?"
         },
         {
-            "_id": 2,
-            "Story": "<i>\"Alchemy Commission Collected Treatment Histories: Volume Forty-Eight, Case Study 1246<br><br>Presiding Physician: Bailu.<br><br>Patient: Yuezhui, female Foxian, aged sixty-two.<br><br>Complaint: Accidentally ate a chocolate drop sold by an Outworlder trader. Experienced extreme thirst leading to excess drinking, aching all over, particularly in the stomach, shortness of breath, and loss of big clumps of tail hair.<br><br>Diagnosis: Food poisoning.<br><br>Prescription: Bitter ginseng, 1 mace. Raw licorice, 1 mace and 1 candareen. Five-grain jade elixir, 1 bottle. </i>Things You Should Know About Forbidden Foods<i>, 1 copy.<br><br>Usage: Boil bitter ginseng and licorice in the five-grain jade elixir until reduced to half volume, strain to remove dregs, drink as much as you like until you vomit. Copy out the pamphlet </i>Things You Should Know About Forbidden Foods<i> five hundred times until it's stuck in your head.<br><br>Remarks: Classic case of food poisoning. Visceral lesions already healed with Draconic Ichor. It should suffice to take emetics as prescribed, which will effectively remove any residual poison through vomiting. I should further note that everyone knows that even the strongest, hardiest, long-life Foxians cannot eat chocolate!<br><br>Also, for minor ailments such as this, do not make the patient wait too long. Just wake me up! Moreover, couldn't you find me some more challenging cases? Are you trying to waste my talents?\"</i>"
+            "Title": "Greeting",
+            "Voice": "Do you want candy? No? Then I'll have it."
         },
         {
-            "_id": 3,
-            "Story": "<i>\"Alchemy Commission Collected Treatment Histories: Volume Seventy-Three, Case Study 582<br><br>Presiding Physician: Bailu.<br><br>Patient: Jinyu, female Vidyadhara, aged thirteen days and four hours.<br><br>Complaint: Patient undergoes cycle of hatching rebirth every few months. Her growth is a hundred times faster than a normal Vidyadhara.<br><br>Diagnosis: Rebirth abnormality, extremely rare, a one-in-a-million condition.<br><br>Prescription: No available medicine. Drink plenty of hot water.<br><br>Usage: Not applicable.<br><br>Remarks: Well, this is one of those difficult cases! The sort I unfortunately am unable to treat.<br><br>The mechanism underlying the hatching rebirth of Vidyadhara remains a mystery. Some healers take the view that Vidyadhara use the rebirth cycle to repair injuries sustained during their long life-cycle, but such a notion clearly does not apply to this patient's situation.<br><br>I have tested her blood and marrow and had her ingest translucence worms to allow a thorough examination of her brain. But I've found no diseased parts. Ah, what a marvel life is! Even long-life species exempt from aging and death are not entirely immune to the ravages of disease.<br><br>It is the same as regards my own health. It is now six or seven years since I first sprouted horns, but I have not grown taller in that time. I am sure it is because I have those horrid Preceptors watching over me all the day long. If a child does not get out to run about, how will it grow tall?<br><br>Healers who read this case study, when will you release me? I am not some truly wicked ne'er-do-well. Why am I so closely guarded? It makes me so very, very, very, very, very, very, very, very angry!\"</i><br><br>A scowling horned face has been drawn at the foot of this page."
+            "Title": "Parting",
+            "Voice": "Huh? I have to go back now...? Please, just a little a bit longer!"
         },
         {
-            "_id": 4,
-            "Story": "<i>\"Alchemy Commission Collected Treatment Histories: Volume One Hundred and Twenty-Eight, Case Study 39<br><br>Presiding Physician: Bailu.<br><br>Patient: Jing Yuan, male Xianzhou native of indeterminate age (though the Ten-Lords Commission surely knows).<br><br>Complaint: Tightness of chest and shortness of breath, drowsiness, eyes too tired to keep open. This consultation is a routine repeat check-up.<br><br>Diagnosis: Cooped inside the Seat of Divine Foresight for far too long.<br><br>Prescription: One serving of Garlic-infused Pork, one serving of Crisped Melon and Diced Chicken, one serving of pork slices in fish sauce, one serving of Granny Chen's Tofu, one crispy suckling pig, and one cup of Hunter Maofeng tea.<br><br>Usage: Just eat. It will make him feel full, then naturally he'll want to get out and about to work it off, which will also improve his mood.<br><br>Remarks: The general comes to see me about his health every year, complaining of symptoms such as \"tight chest and shortness of breath\" or \"struggling to keep eyes open\" and wanting me to give him a check-up.<br><br>The movement of the general's qi is extremely vigorous and there are no signs of affliction by strange diseases or being stricken with mara. (Although such things are the province of the Ten-Lords Commission, I always exercise special caution in this regard.)<br><br>It is my view that he is simply bored senseless and has slipped out to rove about when he found some free time. If that were not the case, why show up every time with a box of sweetmeats, nuts and candies and whatnot, to plonk himself down and start shooting the breeze with me? How is my health? Have I had any dreams lately? How have I been eating? He's more like the doctor than I am.<br><br>I do very much enjoy chatting with the general. He's not like those old so-and-sos, no grand airs, likes to joke and tease, and he often tells me about the parts of the world he's been on expeditions to. All sorts of marvelous stuff. Ah, how I would love to leave doctoring behind and head off to the ends of the earth with sword in hand...!\"</i>"
+            "Title": "About Self",
+            "Voice": "Do I even count as a dragon? ...What kind of a dragon can't step out of her own house, and has to obey the rules of the clan? I'd say I'm more like a fish in a fishbowl!"
         },
         {
-            "_id": 5,
-            "Story": "<i>Greetings, Esteemed Preceptors:<br><br>Star Calendar █ day of █ month, ████, routine examination of Lady Bailu, concise notes as follows:<br><br>Still no physical change in the high elder. She has not grown. This is not unusual as slow development is common among Vidyadhara. I am more concerned about her having no dreams than the slow growth of her body.<br><br>All past high elders, after receiving the \"Orb of Abysm\" and the \"Transmutation Arcanum,\" will re-experience the events of their dragon ancestors' lives in dreams. The Office of Deep Sources is charged with transcribing, retelling, and annotating these dreams, and their files run to an enormous number of volumes. Although such dreams tend to be fragmentary and difficult to understand or interpret, it is after all the only way our kind have of coming close to Permanence. Yet Lady Bailu has experienced nothing of this sort. It is apparent that either her dragon heart is in some way damaged, or the \"Transmutation Arcanum\" has not been carried through in full.<br><br>Furthermore, since the high elder has already demonstrated her powers of calling lightning and commanding the waters, I have instructed one of our finest crafters to make the Dragonhorn Pilory to shackle her tail, to prevent a loss of control over her powers and a repeat of the disaster of the Sedition of Imbibitor Lunae.<br><br>Also, we received a missive from Caelorum Venti of the Yaoqing some months ago, inquiring into the present condition of Lady Bailu. I have replied as you instructed, esteemed elders. The gist of my reply was that Lady Bailu is still young and in need of the assistance of the Preceptors. Only after her coming-of-age ceremony will the Preceptors confer the title of Imbibitor Lunae on her.<br><br><align=\"right\">Respectfully yours, Yunyou, attendant to the High Elder.</align></i>"
+            "Title": "Chat: Food",
+            "Voice": "Lunch is like medicine — it has to have the right balance of ingredients. Two smoked patties and a cup of milk tea is a great way to heal your heart and lift your spirits!"
+        },
+        {
+            "Title": "Hobbies",
+            "Voice": "Study medicine, find herbs, and broaden my horizons. Everything can be used as a medicine. The rarer a disease is, the bolder the prescription must be~"
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "There's only one ailment that I can't cure, and that. Is. Being. Short... Hmph!"
+        },
+        {
+            "Title": "Something to Share",
+            "Voice": "Putting my head in the water, and though it is a small area, I feel I can breathe freer than before, far beyond the boundaries of the water..."
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "A patient told me that the Garden of Gourmet released a new dessert called Fallen From the Skies. The sugar threads are suuuper looong... But I can't get my hands on it."
+        },
+        {
+            "Title": "About Jing Yuan",
+            "Voice": "The general comes to me with ailments such as \"too tired to stay awake,\" and then he just asks how I've been and leaves after sitting around for a while. Sometimes he doesn't even take any medicine from me..."
+        },
+        {
+            "Title": "About Fu Xuan",
+            "Voice": "Whenever Diviner Fu does overtime, we start running out of sugar powder for the medicinal eye-soothing tea..."
+        },
+        {
+            "Title": "About Yukong",
+            "Voice": "Helm Master Yukong... She says she lets everything go everytime she sees me, but I don't think she has."
+        },
+        {
+            "Title": "About Tingyun",
+            "Voice": "Tingyun can endure more intense massages than other people, so I never show her mercy~"
+        },
+        {
+            "Title": "About Sushang",
+            "Voice": "Ah, even if I don't step outside, I can still hear her. \"Be eager to help those in need\" — that's her, right?"
+        },
+        {
+            "Title": "About Qingque",
+            "Voice": "I just wish I met the inventor of Celestial Jade earlier... This activity is great for both physical and mental health! It needs to get popularized!"
+        },
+        {
+            "Title": "About Guinaifen",
+            "Voice": "Well... Um... Whenever I run off to play in Exalting Sanctum, I always bump into her and Sushang — they're usually in need of medical assistance... Sometimes Sushang is carrying her, sometimes she's carrying Sushang... and sometimes they're both in bad shape. How come? Performing arts can be dangerous, I guess."
+        },
+        {
+            "Title": "About Hanya",
+            "Voice": "I ran into her on a dark night once — she scared me half to death! Overworked, chronic insomnia, emotional turmoil — all the signs are there. If you ask me, she'd need to take it easy for a few decades to show any signs of recovery."
+        },
+        {
+            "Title": "About Huohuo",
+            "Voice": "She's always so jumpy and tense at her appointments, and I swear she talks to herself... o—or something we can't see. I should give her something stronger to calm her nerves."
+        },
+        {
+            "Title": "About Xueyi",
+            "Voice": "Wh—Why does it seem like she doesn't have to breathe? And her skin — why is it cold to the touch? It's like there's no blood running through her veins... Could she be... a ghost?"
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "The life of the Vidyadhara is like a dream."
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "Hehe, my healing skills are second to none!"
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "I've mastered the art of healing... but not the art of growing taller..."
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "Hmph, if I was bigger, I could've explored the whole galaxy by now."
+        },
+        {
+            "Title": "Added to Team With Trailblazer",
+            "Voice": "Don't worry — if anything happens, I'll just put you back together."
+        },
+        {
+            "Title": "Added to Team With Fu Xuan",
+            "Voice": "What's that, Master Diviner? Internal heat again? You need to start putting more sugar in your tea."
+        },
+        {
+            "Title": "Added to Team With Dan Heng",
+            "Voice": "Dan Heng! Teach me some more high elder magic!"
+        },
+        {
+            "Title": "Added to Team With Dan Heng • Imbibitor Lunae",
+            "Voice": "Dan Heng! Teach me some more high elder magic!"
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "Ha, you don't look so good."
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "Calm down or you'll overheat!"
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "Looks like somebody needs a doctor!"
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "Let me tend to your wounds!"
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "Standing here in silence, missing all the violence~"
+        },
+        {
+            "Title": "Basic ATK",
+            "Voice": "Look, listen, feel, kick!"
+        },
+        {
+            "Title": "Skill 1",
+            "Voice": "Say \"ahhhh!\""
+        },
+        {
+            "Title": "Skill 2",
+            "Voice": "Gotta get those vitamins."
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "You bully!"
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "Help me!"
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "Time to show you..."
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "What's in your... prescription!"
+        },
+        {
+            "Title": "Talent",
+            "Voice": "Your treatment's not done yet!"
+        },
+        {
+            "Title": "Downed",
+            "Voice": "Where's a doctor when you need one..."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "Can't give up on my therapies just yet."
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "Look lively!"
+        },
+        {
+            "Title": "Technique",
+            "Voice": "A little something for everyone!"
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "I told you they were sick."
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "If it works, it's good medicine."
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "Hmm... Are any of these medicinal?"
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "Take these and pay me back with more sugar!"
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "Gotta tell good remedies from bad."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "Hehe⁓ A healer knows a little something about everything!"
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "Careful — this is life or death."
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "Come on, can't we stay out a little longer?"
         }
     ]
 }

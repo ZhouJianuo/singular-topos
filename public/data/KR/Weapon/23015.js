@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23015": "From birth, all that ever lay before him was but a lightless dungeon.<br>To this darkness, irrelevant sins bound him... irrelevant memories engulfed him.<br>He writhed, gasping for breath with every fiber of his being,<br>attempting to clasp a sliver of light in this fathomless ocean.<br><br>Until the day the general stepped into the lightless depths of this prison,<br>he beheld a radiance shining brighter than the sun — the gaze of a young man."
+    "23015": "태어났을 때, 그는 한 줌의 빛도 들지 않는 지하 감옥에 갇혀있었다.<br>그와 무관한 죄가 그를 이곳에 묶어두고, 그와 무관한 기억이 그를 삼켰다.<br>그는 발악하며 최대한 숨을 들이켜려고 했고,<br>넓고 넓은 바닷속에서 한 줄기의 빛을 잡으려 했다.<br><br>장군이 이 어두운 감옥에 들어선 그날,<br>그는 태양보다 빛나는 소년의 눈빛을 보았다"
 }
 
 var _weaponskill_ = {

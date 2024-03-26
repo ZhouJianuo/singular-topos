@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "22001": "Three girls stroll in the darkness, and the surroundings seem to gain a hint of eeriness.<br>\"Huohuo, hurry up, or we won't wait for you!\"<br>She steps forward confidently with her phone clutched in her hand, seemingly unaffected by the paranormal ambiance.<br>\"I—I'm over here!\"<br>The girl standing ahead responds timidly.<br>\"Huh? So you were in the front all along, then who is following Shangshang and me...\"<br><br>The perfect end for this scene would definitely be a girlish scream."
+    "22001": "세 소녀가 어두운 밤 속을 걷는다. 주변 풍경은 오싹한 분위기가 더해지고 있다.<br>「곽향 님, 어서 따라오세요, 안 그럼 저희 안 기다려요!」<br>그녀는 으스스한 분위기에 영향을 받지 않은 듯 휴대폰을 들고 앞으로 성큼성큼 나아간다.<br>「저… 저 여기 있어요!」<br>앞에 서 있는 소녀가 쭈뼛쭈뼛 대답한다.<br>「응? 앞쪽에 계셨어요? 그럼, 저랑 쏘쏘 뒤에 있는 건……」<br><br>이 장면에 가장 걸맞은 종지부는 분명 소녀의 비명일 것이다"
 }
 
 var _weaponskill_ = {

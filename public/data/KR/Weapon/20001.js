@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "20001": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br><br><i>\"Life is the existence of order beyond a certain threshold. Its birth is the final answer to the silent universe, declaring the end to the era of old chaos.\"</i>"
+    "20001": "세월에서 추출한 희박한 힘. 보잘것없는 찰나의 순간들이 모여 엮어진 장렬한 운명.<br><br><i>「생명은 질서의 정도가 어떤 역치(閾値)를 초월한 존재. 그 탄생은 적막한 우주의 마지막 해답이며, 오래된 혼돈의 시대가 돌아오지 않음을 선포한다」</i>"
 }
 
 var _weaponskill_ = {

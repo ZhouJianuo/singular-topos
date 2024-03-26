@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21004": "An old photo lies on the far end of the table in the guardian's residence.<br>She would always subconsciously move her eyes away whenever she happened to see it.<br>The memories of the past had already become distant, but the dreams of today still linger."
+    "21004": "官邸の机の上に古い写真が一枚、隅っこに置かれている。<br>時折、彼女の目線がそこに向いても、いつも無意識に視線をずらしてしまう。<br>記憶の中の姿は遠くへ消えてしまったが、今日の夢はまだ心を巡る。"
 }
 
 var _weaponskill_ = {

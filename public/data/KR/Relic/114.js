@@ -3,27 +3,27 @@
 var _relicitem_ = {
     "114": [
         {
-            "Name": "Messenger's Holovisor",
-            "Desc": "The shape is exactly like a ski goggle. Not only does it have anti-glare properties, it can also be used to watch virtual live streams.",
-            "Story": "To avoid the private forces hired by the financial magnates, messengers in the Capital of Passion usually travel in the skies above the city, where security forces are scarce.<br><br>They like to turn on pulse-scanning and look over the entire cyber city while chewing cheap gum and donning heavily modified holovisors.<br><br>The holovisors project real-time information of the city directly onto the messenger's retina, turning impossible routes into an aerial path for the messengers: Building rooftops, air conditioning units, billboards, the arms of cranes... even unmanned logistics drones can become part of the path. Therefore, messengers must be skilled enough, as even one misstep would result in an unexpected and lethal fall.<br><br>\"Some fool jammed all the holovisors indiscriminately while I was in the air! That crash was the worst I've ever had.\"<br><br>This Yellow Ducky holovisor is a discontinued old model that is said to be of considerable value among enthusiasts.",
+            "Name": "메신저의 홀로그램 고글",
+            "Desc": "외형은 스키 고글 같다. 눈부심을 막아주기도 하고 가상 라이브 방송도 볼 수 있다",
+            "Story": "핫나이트 시티의 메신저들은 재벌의 사설 경호 부대를 피하기 위해 경비가 느슨한 도시 상공으로 이동한다.<br><br>그들은 값싼 껌을 씹으며 고도로 개조된 홀로그래픽 고글을 착용하고, 펄스를 오픈해 사이버 도시 전체를 훑어보는 것을 즐긴다.<br><br>고글은 도시의 실시간 정보를 띄워 불가능한 노선을 메신저의 길로 만든다. 건물 옥상, 에어컨 실외기, 광고판, 기중기의 팔… 물류 드론까지 길의 일부분이 될 수 있기에 메신저들은 기교가 뛰어나야 한다. 자칫하면 추락 사고가 발생할 수도 있기 때문이다.<br><br>「어떤 망할 놈이 고글을 무차별적으로 까맣게 칠해놨어. 그때 마침 공중이었는데, 착지하는 순간 식겁했지」<br><br>이 「옐로우덕」 고글은 판매가 끝난 구식 스타일인데, 마니아들 사이에 비싼 값으로 거래된다고 한다.",
             "Icon": "IconRelic_114_1.png"
         },
         {
-            "Name": "Messenger's Transformative Arm",
-            "Desc": "A cybernetic prosthetic arm that can be disassembled at will. Capable of firing knuckles like bullets.",
-            "Story": "Not all messengers have cybernetic prosthetic arms, but those who do often have a strong passion to modify it. After all, no one wants to have a cybernetic limb that looks identical to everyone else's.<br><br>The residents of the Capital of Passion are obsessed with cybernetic prosthetics, while the city's limited regulations can only advise against the frenzy of excessive body modification.<br><br>The registered standards for modifications in the Capital of Passion only contains three categories, with a total of eighteen types. This is clearly not enough for the rebellious messengers. They invest huge amounts of their salaries into imaginative designs. They create blueprints that enable their electronic conversion machinery to release lightning or transform their prosthetic hands into missiles, and the designs become increasingly outrageous as fees to engage messengers skyrocket.<br><br>\"Are these messengers running to protect information, or are they running to earn exorbitant fees?\"<br><br>This Yellow Ducky prosthetic arm has undergone special modifications, with each finger joint able to rotate at high speeds and be launched like a bullet.",
+            "Name": "메신저의 변형 의수",
+            "Desc": "편하게 탈착할 수 있는 기계 의수, 손가락 마디를 탄알처럼 발사할 수 있다",
+            "Story": "모든 메신저들이 기계 의수를 보유한 것은 아니지만, 의수를 가진 메신저는 튜닝에 열을 올린다. 다른 사람과 똑같은 모양의 의수를 원하는 메신저는 없기 때문이다.<br><br>핫나이트 시티의 주민들은 사이버 의수에 빠져 있다. 제한적인 도시 법규는 과도한 의수 개조 열풍을 말리고 있을 뿐이다.<br><br>핫나이트 시티에 등록된 개조 표준은 3가지 범주에 총 18종류뿐이라서 반항적인 메신저들에게는 역부족이다. 그들은 거액의 기발한 설계에 거액을 투입한다. 의수의 변환기에서 번개를 방출하게 만들거나, 의수가 유도탄처럼 발사되게 만든다…. 설계도가 점점 괴상해지면서 메신저들의 수수료도 큰 폭으로 올랐다.<br><br>「메신저들이 분주히 일하는 이유가 정보를 지키기 위해서일까, 아니면 터무니 없이 비싼 개조 비용을 대기 위해서일까?」<br><br>이 「옐로우덕」 의수는 특수 개조를 거쳐 모든 손가락 마디가 고속으로 회전하며, 탄알처럼 발사된다",
             "Icon": "IconRelic_114_2.png"
         },
         {
-            "Name": "Messenger's Secret Satchel",
-            "Desc": "A trendy courier satchel. It's adorned with many cute accessories.",
-            "Story": "Financial magnates in the Capital of Passion monitor all information flow in the city. They are used to maintaining their dominance using information monopoly, and all who try to subvert this control will be punished by the Public Security Regulation.<br><br>People once protested, which only made the financial magnates dish out some convenient compromises. Soon enough, people gave up on the idea of \"privacy.\"<br><br>The financial magnates greedily collect every piece of information whether it is important or trivial, or whether it arose from reality or virtual realms. As a result, the messengers' courier satchels have become the final bastion of privacy. The satchel is small, lightweight, and can only carry chips or documents. Despite these shortcomings, the final remains of \"information independence\" in the Capital of Passion was solely ensured by these tiny blind spots.<br><br>\"Why do people still transmit information outside of the internet in the prosperous Capital of Passion? The messengers also want to know the answer.\"<br><br>This limited edition Yellow Ducky courier satchel may be a bit old, but its various accessories make it still in fashion.",
+            "Name": "메신저의 비밀 편지 크로스백",
+            "Desc": "트렌디한 메신저백, 여러 키링을 추가해 귀엽다",
+            "Story": "핫나이트 시티의 재벌들은 도시의 모든 정보 이동을 모니터링하고 있다. 그들은 정보 독점 방식을 습관적으로 운용해 재벌의 지배적인 지위를 유지한다. 겁없이 이를 뒤엎으려는 자는 치안법의 제제를 받게 된다.<br><br>예전에 사람들이 항의하자 재벌들은 편의를 약속했다. 사람들은 곧 「사생활」을 포기했다.<br><br>현실이든 가상세계든, 유용하든 유용하지 않든, 재벌들은 탐욕적으로 정보를 수집하기 시작했다. 이렇게 메신저들의 메신저백은 「사생활」을 지키는 최종 방어선이 되었다. 메신저백은 가볍고 깜찍해서 칩이나 서류만 휴대할 수 있다. 그러나 이렇게 좁은 정보 사각지대만이 나핫나이트 시티의 「정보 독립」을 보장해주었다.<br><br>「어째서 번화한 핫나이트 시티에서 인터넷 외의 채널로 정보를 전달하는 사람이 있을까? 메신저들도 알고 싶다」<br><br>이 한정판 「옐로우덕」 메신저백은 다소 낡았지만 여러 액세서리로 트렌디해 보인다",
             "Icon": "IconRelic_114_3.png"
         },
         {
-            "Name": "Messenger's Par-kool Sneakers",
-            "Desc": "A pair of sneakers that support parkour activities. It is comfortable, and that is all it needs.",
-            "Story": "The former Capital of Passion messengers all throw their sneakers into one spot, and leaves after a brief moment of silence. Most messengers wouldn't leave their name or even a trace in this city, making their behavior nothing but a self-indulgent coda.<br><br>Even messengers can't pinpoint when the \"nature of being a messenger\" had changed to make them the people they hated the most.<br><br>Insidiously, the \"information independence\" that messengers protected became a monopoly. Insidiously, the risks that messengers faced became a bargaining chip. Insidiously, messengers became the accomplices of conspirators... The financial magnates did not destroy the messengers — It was their immature ideas that betrayed them. The messengers assemble before everything totally spirals out of control, and bid a last farewell to their hurried lives.<br><br>\"Perhaps this should be the end for the messengers. Perhaps we should let everyone see the truth of this city, and let the true reformists take action.\"<br><br>These are a pair of Yellow Ducky sneakers abandoned on the side of the road. The messengers of the Capital of Passion have long become a legend of the past.",
+            "Name": "메신저의 프리러닝화",
+            "Desc": "프리러닝을 지원하는 운동화, 착용하면 편한 게 전부다",
+            "Story": "핫나이트 시티의 예전 메신저들은 그들의 러닝화를 한 곳에 버리고 잠시 침묵한 뒤 떠났다. 대다수의 메신저들은 이 도시에 이름과 흔저적을 남기지 않았다. 이런 행동은 제멋대로인 휴지 음표에 불과했다.<br><br>메신저들도 언제부터 「메신저의 특성」이 변했는지 모른다. 메신저들은 자신들이 가장 싫어하는 사람으로 변했다. 어느새 메신들이 보장하는 「정보 독립」은 독점으로 변했고, 신도들이 직면하는 리스크는 협상 카드가 되었다. 어느새 메신저들은 음모꾼들의 공범이 되었다…. 재벌들은 그들을 없애지 못했고, 미성숙한 이상은 메신저를 배신했다. 모든 게 걷잡을 수 없어지기 전에 메신저들은 모여서 분주히 달리던 삶에 작별을 고했다.<br><br>「어쩌면 메신저들은 여기서 멈춰야 하는지도 몰라. 모든 사람들에게 이 도시를 제대로 보여줘야 하고, 진정한 개혁자들이 행동하게 만들어야 해」<br><br>이것은 길가에 버려진 「옐로우덕」 러닝화이다. 핫나이트 시티의 메신저는 과거의 전설이 되었다",
             "Icon": "IconRelic_114_4.png"
         }
     ]

@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23004": "<i>\"Welt...?\"<br>\"It's a... great name, right?\"<br>\"Then...\"<br>\"From now on, you are Welt.\"<br>\"This Herrscher core... and the mission to protect the world...\"<br>\"I'll leave them to you, Welt.\"</i>"
+    "23004": "<i>「웰트…」<br>「좋은… 이름이지?」<br>「그럼…」<br>「이제부터 너는 웰트야」<br>「율자 코어… 그리고 세계를 수호하는 사명도…」<br>「다 너에게 맡길게, 웰트」</i>"
 }
 
 var _weaponskill_ = {

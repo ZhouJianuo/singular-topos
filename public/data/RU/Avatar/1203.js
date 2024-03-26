@@ -498,24 +498,204 @@ var _story_ = {
 var _voice_ = {
     "1203": [
         {
-            "_id": 1,
-            "Story": "An elegant and handsome blond young man who carries a giant coffin on his back.<br>As an intergalactic merchant, he was unfortunately caught in the Xianzhou Luofu's Stellaron crisis.<br>And that is how he found his mastery of medicine to come in handy."
+            "Title": "First Meeting",
+            "Voice": "I'm a traveling merchant, merely passing through. The name's Luocha."
         },
         {
-            "_id": 2,
-            "Story": "<i>\"What's your occupation?\"<br>\"Traveling merchant.\"<br>\"What is the purpose of your entry?\"<br>\"Commercial business.\"<br>\"Do you vow not to violate the laws and regulations of the Xianzhou Alliance, to conduct business activities in accordance with the law, and not to conduct activities outside the scope of the visa permit?\"<br>\"Of course. I will follow the law.\"<br>\"Do you vow not to conduct any illegal research related to immortality?\"<br>\"I... promise.\"<br>\"Great, please sign here.\"<br><br>\"Mr. Luocha, welcome to the Xianzhou Luofu.\"</i>"
+            "Title": "Greeting",
+            "Voice": "We got up early to press on with our journey. Did you sleep well last night?"
         },
         {
-            "_id": 3,
-            "Story": "<i>\"Hey, do you still remember that guy? Came here often, carries a huge box...\"<br>\"You mean Luocha?\"<br>\"Yeah, Luocha... He's an Outworlder, right? But from the way he works and speaks, he feels like those older Xianzhou natives. Has he lived here for long? But then again, he had kept his unique and exotic fashion style...\"<br>\"Who knows? Maybe it's because his blond hair doesn't match the clothing of Xianzhou.\"</i><br><br>He would sometimes think of home.<br>The devils, the church, the insanity... None of those are good memories.<br>People would clamber to high places in groups just so they could witness their city's demise.<br>If everything were to end, then there shall be at least one witness.<br><br><i>\"Why do you still wear the clothes of your home world?\"</i> Someone asked.<br><i>\"It reminds me of the path I must keep treading. That is all,\"</i> Luocha answered."
+            "Title": "Parting",
+            "Voice": "Have an early rest. I'll keep watch here."
         },
         {
-            "_id": 4,
-            "Story": "The people of Xianzhou do not recognize coffins.<br>Each time Luocha emerged on the streets with the coffin, curious gaze followed.<br>If someone were to ask him, <i>\"What exactly is this?\"</i><br>Luocha will answer, vaguely, <i>\"This is the tool of my trade.\"</i><br><br><i>\"Tool of my trade... I hope I didn't offend you,\"</i> Luocha stood in a pavillion in the Exalting Sanctum, murmuring to himself, <i>\"But then again, our relationship does count as a business relationship, doesn't it?\"</i><br><br>The coffin responded with silence."
+            "Title": "About Myself: Art of Healing",
+            "Voice": "I have no one to rely on as a traveling merchant. There is at least some security when I have some ways of saving myself."
         },
         {
-            "_id": 5,
-            "Story": "Luocha carried the coffin on his back and headed into the distance.<br>The coffin made no sound. It did not protest and had no right to protest.<br><i>\"When you keep silent, you are free.\"</i><br><br>The curtains closed, and he left the guilt behind.<br>Guilt is just another weapon to be controlled, a lie one tells themselves to believe they will one day obtain a correct answer.<br><i>\"What's so different about you? Is your pain more valuable and more moving than other people's?\"</i><br><br><i>\"Go to the Xianzhou,\"</i> the one who gave him the coffin said, <i>\"Don't forget your promise.\"</i><br><i>\"Never.\"</i><br><br>Luocha promised, but silently made another vow."
+            "Title": "Chat: The Coffin",
+            "Voice": "The coffin draws attention. As a traveling merchant, it helped me a lot. Everyone is curious about the coffin, so they come up to ask me about it. As I answer them, the business is done."
+        },
+        {
+            "Title": "Hobbies",
+            "Voice": "There are always differences between what I hear about a place and seeing it with my own eyes. Finding out the differences between these perceptions is my joy."
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "When in a difficult situation, it's not so important to maintain who you truly are, but to find the suitable role to play... Ah, that's just my own experience."
+        },
+        {
+            "Title": "Something to Share",
+            "Voice": "The meaning of a flower lies in the duration of its bloom, and not in its petals, aroma, or the seeds it leaves behind."
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "I have long heard that the Xianzhou can preserve their beauty, and have found that to be true. However, they keep this secret by hiding in a corner of the galaxy, like sitting on a mountain of wealth without spending it... What a shame."
+        },
+        {
+            "Title": "About Jing Yuan",
+            "Voice": "Not only is the general an expert in perceiving people's intentions, but he is also a master of the arts of concealment and showmanship. When he decides to \"show\" something, it's time to be careful."
+        },
+        {
+            "Title": "About Yanqing",
+            "Voice": "Oh, you mean the young boy? The one who's always by the general? I don't know anything about him..."
+        },
+        {
+            "Title": "About Yukong",
+            "Voice": "Unlike her, very few can realize that they are nothing but a tiny mustard seed in this vast galaxy... She is worthy of my respect."
+        },
+        {
+            "Title": "About Tingyun",
+            "Voice": "It's hard to forget anything Tingyun says. The Foxians' talent with words should be utilized to its maximum potential, no?"
+        },
+        {
+            "Title": "About Sushang",
+            "Voice": "She's kind and always willing to help. She invited me to \"tea and storytelling\" the next time I'm on the Xianzhou. I'm not so sure about the storytelling — sounds time-consuming."
+        },
+        {
+            "Title": "About Jingliu",
+            "Voice": "That sword she holds in her heart has long since split heaven and earth... but having harnessed that kind of power, she is no longer a mere master of the sword."
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "Nothing is truly new in the universe, but thanks to you, I now see things in a new way."
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "It takes time and patience for a seed to grow."
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "The passage of our lives is a brief affair, but it brings more joy than the immortality of the Aeons."
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "What happened in the past is destined to return — I won't stand still to delay this encounter."
+        },
+        {
+            "Title": "Added to Team With Sushang",
+            "Voice": "I am not well-versed in the art of combat. I leave this to you, Miss Sushang."
+        },
+        {
+            "Title": "Added to Team With Jing Yuan",
+            "Voice": "Would you prefer me to reveal or conceal, General?"
+        },
+        {
+            "Title": "Added to Team With Jingliu",
+            "Voice": "An enemy worthy of your attention is a formidable enemy."
+        },
+        {
+            "Title": "Added to Team With Dan Heng",
+            "Voice": "Yet another journey with you."
+        },
+        {
+            "Title": "Added to Team With Dan Heng • Imbibitor Lunae",
+            "Voice": "Yet another journey with you, Imbibitor Lunae."
+        },
+        {
+            "Title": "Added to Team With Blade",
+            "Voice": "Shame. I can't give you the burial that you seek."
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "Time to settle your accounts."
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "Don't get complacent."
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "Pity. You chose the wrong enemy."
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "Allow me to see you off."
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "What is it we're waiting for?"
+        },
+        {
+            "Title": "Basic ATK",
+            "Voice": "Hmph."
+        },
+        {
+            "Title": "Skill 1",
+            "Voice": "Abyss Flower, bloom."
+        },
+        {
+            "Title": "Skill 2",
+            "Voice": "Receive divinity!"
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "Nothing major."
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "I underestimated you."
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "Eternal sleep is not the end..."
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "The dead will return!"
+        },
+        {
+            "Title": "Talent",
+            "Voice": "That which is seized, must be repaid!"
+        },
+        {
+            "Title": "Downed",
+            "Voice": "It cannot... come to pass..."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "You see? I've returned."
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "I feel much better."
+        },
+        {
+            "Title": "Technique",
+            "Voice": "Let's wait and see."
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "A moment's excitement. Nothing more."
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "Take it, if it's to your liking."
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "The enjoyment of collecting."
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "Quality merchandise."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "Hardly worth mentioning."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "A traveling merchant needs a knowledge of puzzles."
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "Trouble ahead... Proceed. I'm with you."
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "It's hard for a wanderer to find rest in this world."
         }
     ]
 }

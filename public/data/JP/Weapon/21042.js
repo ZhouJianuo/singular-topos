@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21042": "A weathered past. A sworn duty to defend home. A dream to blaze a trail across the world—<br>These were entrusted to the unworldly youth by a pair of rough, calloused hands.<br><br><i>\"Soon, we'll be able to go to a larger world.\" </i><br>The boy happily accepted his inheritance. Guarded by youth, he could not yet feel the weight born by the object's significance.<br><br><i>\"Of course. Before that time comes, however, guard this place well, Misha.\" </i><br><br>He thus engraved that promise deep inside his heart, holding to it forever and always."
+    "21042": "埃まみれの過去、故郷を守る責任、世界を開拓する夢——<br>大きくゴツゴツとした手が、これらを世間知らずな少年に手渡した。<br><br><i>「もうすぐ、もっと広い世界に行けるようになるんだよね」</i><br>少年は喜んで伝承の印を受け取ったが、まだ幼い彼にはその重さがわからない。<br><br><i>「必ず行けるさ。その日までここを守るんだ、ミーシャ」</i><br><br>彼はその約束を心に刻んだ——永遠に。"
 }
 
 var _weaponskill_ = {

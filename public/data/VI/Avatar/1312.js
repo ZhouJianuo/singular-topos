@@ -939,24 +939,184 @@ var _story_ = {
 var _voice_ = {
     "1312": [
         {
-            "_id": 1,
-            "Story": "A lovable and thoughtful bellboy at The Reverie Hotel. He wishes to become an intergalactic adventurer like his grandfather.<br>He is extremely hardworking and is skilled at fixing a variety of machines. He also has a fondness for listening to the interstellar rumors the guests share with him.<br>He hopes he can grow up faster and looks forward to embarking on his star-treading journey."
+            "Title": "First Meeting",
+            "Voice": "Hi there, I'm Misha, a bellboy at The Reverie Hotel. Welcome to Penacony. This way. Oh, here, let me grab those bags for you!"
         },
         {
-            "_id": 2,
-            "Story": "As the pocket watch struck six o'clock in the morning, the familiar aroma of milk and toast wafted into his narrow bedroom from the kitchen.<br><br>With the impending arrival of guests, he hurriedly rose from bed and positioned himself at the doorway. The scent of motor oil, leather, and tobacco greeted him as several tall figures entered the threshold.<br><br><i>\"W—Welcome...\"</i><br><br>The adventurers, who had journeyed from distant planets, paid little attention to the small figure welcoming them at the door, engrossed in their animated tales of peculiar encounters. These stories never failed to stir Misha's emotions, attracting his attention.<br><br><i>\"Have you seen a massive beam coming down from the sky and burn through a lush planet?... I was actually right there, and our ship got blasted away by the insane gust of wind... I risked my life to snap some photos...\"<br>\"Hah, let me tell you, that's nothing compared to the crazy stuff I've experienced. Once, I ventured into this abyss in the Memory Zone. It was like a total nightmare, with all these unimaginable monsters and even ghosts lurking around...\"<br>\"You think that's scary? Try witnessing the Swarm that completely blots out the entire sky! I barely made it out alive from that hellish encounter. And guess what? The whole dang planet got wiped out...\"</i><br><br>Enviously listening to these tales, whether genuine or fabricated, Misha mustered the courage to speak up.<br><i>\"Um... Excuse me, but if I want to venture into the galaxy, what should I learn?\"</i><br>The conversation came to a halt, and several explorers turned their gaze towards him.<br><i>\"What did you say, kiddo? You want to explore the galaxy?\"<br>\"Yeah... I wish I could become an adventurer... Just like my grandpa.\"<br>\"That's quite an ambition! Hahaha!\"<br>\"Hey, kiddo, this line of work is no joke. You'll need to learn how to handle weapons, fix things on the fly, and navigate through all sorts of obstacles. It requires a wealth of knowledge!\"<br>\"I understand... Grandpa's always complaining about getting lost and machines breaking down. Maybe I can start by addressing those issues...\"<br>\"Hey, just stop scaring that little one.\"</i><br>The elderly man at the forefront cleared his throat and turned his attention to Misha.<br><i>\"You can learn everything you need, but you really need to think if this is truly what you desire. Are you truly eager to achieve it? And how long are you willing to stick with it? Those are the most crucial questions, little one.\"</i>"
+            "Title": "Greeting",
+            "Voice": "Trailblazer, did you rest well? If there's anywhere you want to go, please, don't hesitate to come find me!"
         },
         {
-            "_id": 3,
-            "Story": "As the pocket watch struck two o'clock in the afternoon, signaling the end of his duties, he changed his overalls and started the task of overhauling the machinery.<br><br>Walder led the way, occasionally pausing to tap on intricate mechanisms. Misha followed closely behind, attuned to the noises emanating from the machinery and adeptly locating the issues.<br><br>Today's assignment involved repairing a multitude of broken clocks, rusty, discarded, missing gears, or shattered. To Misha, they appeared as lost sailors desperately in need of guidance.<br><br><i>\"Please head west, Mr. Wall Clock... And hey, Mrs. Pocket Watch! Please don't stop there!\"<br>\"Mr. Alarm Clock, please have a meal before resuming, and you three ladies over there, please follow Mr. Pocket Watch!\"</i><br>At that moment, all the malfunctioning clocks sprang to life. Misha turned the wheels and adjusted the hands, as if he were a captain navigating the sea of time.<br><i>\"Captain Misha, we're back on track!\"<br>\"The fog has lifted! We're about to reach our destination.\"<br>\"Let's keep sailing! The sea won't hinder us!\"</i><br>In Misha's eyes, the clocks seemed to possess lives of their own, expressing their delight in moving forward.<br><br>Walder smiled and patted his head.<br><i>\"Looks like I won't have to worry about time here. After all, you are the captain of these clocks.\"</i>"
+            "Title": "Parting",
+            "Voice": "I should get back to work. We... we'll have another chance to meet, won't we?"
         },
         {
-            "_id": 4,
-            "Story": "As the pocket watch struck seven o'clock in the evening, Misha finished his supper and settled onto the cot that had been modified from a cupboard.<br>Gazing into the darkness surrounding him, he listened to the ceaseless ticking of the pocket watch — the most blissful hours of his day. No work, no reality, only unrestricted flights of fantasy.<br><br>After traveling through the fog, his fantasy story reached the most exciting part of the sea battle. He extended his hands, pulling back his companions who had been knocked over by the waves, and he drew another line across the canvas as if vanquishing a sea monster...<br><br><i>\"Captain, Captain, wake up, it's clearing up!\"</i><br>He rubbed his eyes and looked incredulously at the sight before him.<br>A golden pocket watch, which had transformed into a figure with arms and legs, dressed in a uniform and a red bow tie, beckoned him over.<br>A silver mirror lady reflected him, adjusting her gown and peering through binoculars at the distant scene.<br>The storm from the previous night had disappeared without a trace. A refreshing sea breeze fluttered Misha's uniform, and in the distance, they could see the outline of the New World.<br><br><i>\"Look, Captain, the coast is not far off!\"</i><br>Taking Misha's hand, Mr. Pocket Watch and Miss Mirror gracefully leaped onto the clouds. Before he could react, the three of them were airborne, gazing at the boundless sea and the crescent-shaped continent below them. Mr. Pocket Watch and Miss Mirror cheered, pulling Misha into a joyful tap dance. He held his companions' hands tightly, his heart filled with amazement and joy.<br><br><i>\"Are... Are you my companions?\"<br>\"Yeah, we've faced countless challenges and gotten lost many times along the way, but we've finally found the New World!\"</i><br>...<br><br>At dawn, Misha woke up from his dream, a tear rolled down from the corner of his eye.<br>Looking around his bedroom, he noticed the pocket watch pressed against his chest, and the mirror had fallen off the wall.<br>Wiping away the tears, Misha felt as if he had lost nothing, yet he had lost everything."
+            "Title": "About Self: Work",
+            "Voice": "Working at The Reverie is awesome! I get to meet a bunch of people from really far away, and hearing about their adventures is fascinating!"
         },
         {
-            "_id": 5,
-            "Story": "As the pocket watch struck six o'clock again in the morning, the familiar aroma of milk and toast wafted into his narrow bedroom from the kitchen as usual.<br><br>He had settled into this life, burying his dreams deep within his heart. He was no longer easily captivated by the stories of the guests, nor did he hold onto the hope of his grandfather's immediate return.<br><br><i>\"Maybe that's how adults are. They don't keep their promises, and they don't really want to listen to children.\"</i><br>He took the guests' suitcases and bags. The guests walked away without a second glance, leaving him alone and muttering to himself.<br><br>He went back to his room of clocks and checked the various clocks displaying different times from different time zones as usual. He stared blankly at the wall full of clocks, imagining the stories and worlds that existed within them. Lost in thoughts of these fantastical realms, he unfolded a drawing paper and began sketching the adventures he experienced with his imaginary companions.<br><br>That was the end of the story.<br><br><i>\"Farewell, my companions! I'll stay in the New World, and once it's fully built, I'll continue traveling with you to other new worlds!\"<br>\"Farewell, Captain Misha! May our paths cross again!\"</i><br>All his companions left except his ever-excited first mate, Mr. Pocket Watch, and the gentle Miss Mirror. They had navigated through the mists and across the sea together. In crucial moments, Misha had steered their ship in the right direction. Now, the child named Misha would embark to build a new kingdom on a new continent until the opportunity arose for another journey.<br><br><i>\"If I'm to draw something else, my next creation will be about the adventures in the new world.\"</i><br>As he finished the last stroke, he sensed some kind of familiar sound paired with vibrations, as if a colossal being had emerged from the depths of the universe and landed outside the hotel gate.<br><br>He dropped his brushes, opened the door, and ran out...<br><br><i>\"Welcome to...\"</i><br><br>The Astral Express, glistening in the morning light, tiredly, proudly waited there, parked and quiet.<br>...Just like in the dream."
+            "Title": "About Self: Future",
+            "Voice": "I'm going to work really hard, so I can save up and explore the stars just like grown-ups do!"
+        },
+        {
+            "Title": "Chat: Repairs",
+            "Voice": "After a while, the machinery tucked away in the corners of the hotel tends to break down... But if I can fix them, I will. I don't like to swap out old parts for new..."
+        },
+        {
+            "Title": "Hobbies",
+            "Voice": "I make sure to read every issue of Stellar Cartography Magazine... in the most recent one there's a huge whale that can actually eat entire planets, it's incredible! I'm not sure when I'll get to read the next issue..."
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "He's already late... I wonder where Grandpa has gotten to..."
+        },
+        {
+            "Title": "Something to Share",
+            "Voice": "When I was little, I used to sneak sips of SoulGlad, and by the time Grandpa found out, I already had cavities... So, we definitely shouldn't drink too much... Wait, actually it's okay for adults, but little kids shouldn't drink it!"
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "I often hear people talking about \"Trailblazing,\" like it's finding new places no one's been before. Penacony's had its share of finding new cool stuff too, like how tasty SoulGlad is, and the awesome shows by the Sweet Dreams Troupe! All of that was figured out by some serious \"Trailblazing.\" It sure wasn't a walk in the park..."
+        },
+        {
+            "Title": "About Trailblazer",
+            "Voice": "The job at The Reverie can get pretty hectic, but it's also how I get to meet interesting new friends like you, Trailblazer!"
+        },
+        {
+            "Title": "About Robin",
+            "Voice": "The songs of Miss Robin have the power to carry people to faraway places, beyond even the most beautiful dreams. I... I'll always be a fan of Miss Robin!"
+        },
+        {
+            "Title": "About Sunday",
+            "Voice": "Well, despite his young age, Mr. Sunday is already big deal in Penacony. Just watching him from afar can make you feel overwhelmed..."
+        },
+        {
+            "Title": "About Gallagher",
+            "Voice": "It's typical to see Gallagher immersed in his work on the streets of Penacony. He's always been so responsible and committed."
+        },
+        {
+            "Title": "About the Nameless",
+            "Voice": "Grandpa told me, it's never too late to have a dream, he said what matters is how much you aspire to make it come true. I'll never forget this — there will come a day when I'll make both my and Grandpa's dreams a reality!"
+        },
+        {
+            "Title": "About Clockie",
+            "Voice": "Let me tell you a secret, Clockie is actually real, he isn't just an imaginary friend I made up!"
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "The one thing I look forward to? Growing up, of course!"
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "Yes! I feel like I'm getting closer to my dreams!"
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "Wait, am I really that impressive? This has to be a dream!"
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "Yes! Another chance to learn something new!"
+        },
+        {
+            "Title": "Added to Team With Trailblazer",
+            "Voice": "Is that Trailblazer? Yes! Finally, we get to fight side by side!"
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "Come on, I can do this...!"
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "S—Sorry! Please don't be angry..."
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "Let's dive into today's duties!"
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "I hope I don't mess this up..."
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "I'll never get the job done at this rate..."
+        },
+        {
+            "Title": "Basic ATK",
+            "Voice": "E—Excuse me, please...!"
+        },
+        {
+            "Title": "Skill 1",
+            "Voice": "Uh, I'm on it — cleaning up now!"
+        },
+        {
+            "Title": "Skill 2",
+            "Voice": "Gotta keep things neat and tidy!"
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "P—Please be polite..."
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "Hey! That wasn't very nice..."
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "How much time do I have...?"
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "Not again! I'm running late, ahhh...! Sorry..."
+        },
+        {
+            "Title": "Downed",
+            "Voice": "I tried my best..."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "You won't be disappointed this time!"
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "Oh, sorry for bothering you..."
+        },
+        {
+            "Title": "Technique",
+            "Voice": "Please, wait a sec!"
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "Another job in the bag."
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "Did a guest leave this behind...?"
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "They left such a generous tip...!"
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "I can't possibly take something this valuable..."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "All done!"
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "I might have cracked the code."
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "Looks like a troublesome guest..."
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "Time for a well-deserved break."
         }
     ]
 }

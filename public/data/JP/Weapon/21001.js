@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21001": "The dim light outlines the dust tracks,<br>As a young girl mumbles sweetly in her sleep.<br>A silent figure appears behind her.<br><i>\"Well, well, well, you're cuter without those glasses — I knew it.\"</i><br>The guitarist stares at her sleeping face, muttering to herself:<br><i>\"Good night, the genius girl that worries a lot.\"</i>"
+    "21001": "静謐な光が微かに舞う埃を照らす。<br>穏やかな寝息の中には、少女の甘い夢がある。<br>彼女の背後に、何の気配もなく人影が現れた。<br><i>「ふふふ、やっぱり眼鏡を取った方が可愛い」</i><br>ギタリストは彼女の寝顔や寝言をつぶさに観察し<br><i>「おやすみ、世話焼きな天才少女ちゃん」と言った。</i>"
 }
 
 var _weaponskill_ = {

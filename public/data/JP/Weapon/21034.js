@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21034": "There is the new book borrowed for lunch and she just figured out a new way to play tiles.<br>If she works slowly, the rest of her job should last exactly till the end of day.<br>She ducks easily into a corner.<br><br>No one must disturb her in her wonderful off time<br>— not even diviner Fu.<br>Just on the off chance that she does show up...<br><br><i>\"Then I'll give this milk candy ball to Diviner Fu. She can't be angry after having sweets!\"</i>"
+    "21034": "牌の新しい遊び方を思い付いたばかりだし、昼休みに雑書も借りてきた。<br>計算したところ、残りの仕事はのんびりやれば、ちょうどよく退勤までに終わるだろう。<br>彼女は急がず焦らず、人のいない隅っこに潜り込んだ。<br><br>美しく長閑な時間に、邪魔が入らぬようにしなければ<br>――たとえ太卜であっても許すわけにはいかない。<br>だが万が一、万が一の時は……<br><br><i>「この飴玉団子を太卜様にあげよう。甘いものを食べれば、怒りも収まるはずだよね！」</i>"
 }
 
 var _weaponskill_ = {

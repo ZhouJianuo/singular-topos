@@ -590,24 +590,172 @@ var _story_ = {
 var _voice_ = {
     "1006": [
         {
-            "_id": 1,
-            "Story": "The universe is just another game to this super hacker.<br>No matter how thorny the defense system, Silver Wolf can crack it with ease. Her hacking battle with Screwllum of the Genius Society has become stuff of legends in the hacking world.<br>How many more levels are there to beat in the universe? Silver Wolf looks forward to finding out."
+            "Title": "First Meeting",
+            "Voice": "Hey, Trailblazer, you seem pretty cool. That Stellaron hasn't affected you at all?"
         },
         {
-            "_id": 2,
-            "Story": "She toyed with the joystick, day in, day out.<br>A fast food restaurant with only one employee, a basement turned into an arcade hall, several old arcade machines — this was her childhood.<br><br>She didn't have a legal name or an identity number, only a nickname the proprietress chose for her.<br>She did not have any friends, but she is not lonely.<br>She liked the game of Pong — two lines and a dot of light, the simplest of ball games. She could play it for a whole day.<br>She liked Battle Wheel 32 — eight blocks of different colors on a matrix-drawn sky. There was only one rule: Win, no matter what.<br>She liked Geometric Wars, Odysseus, and Star Cheetah. The score records on these games were filled with astronomical numbers left by other patrons.<br><br>She toyed with the joystick, day in, day out.<br>Until one day, only one name remained on all of the score records.<br><br>She set down the joystick and looked around the empty basement.<br>Many people have sought respite in this place, but few stayed behind.<br>Many have left, but few returned.<br>She blinked and turned off the screen.<br><br>That night, the only employee of the fast food restaurant said goodbye to proprietress, and became the next person to leave.<br>The game called Basement ended that night."
+            "Title": "Greeting",
+            "Voice": "You're online today too?"
         },
         {
-            "_id": 3,
-            "Story": "She traveled west through the barren land, arriving at Mount Scrap.<br>She wants to find a job, but was obstructed by her tendency to be a loner.<br>On Punklorde, almost everyone works in teams. Loners usually don't last long.<br><br>Acquiescing to her situation, she fabricated some virtual partners.<br>Her first one was called Friend. Of course it was.<br>Her second was Demon Lord, inspired by a poster she saw on the streets. In her imagination, it was a veteran who had lost the ability to speak.<br>She suddenly thought this team was too harmonious and lacked realism, so she named the third one Whitecollar and the fourth Servant.<br>Her final one was called Preschool Classmate — there wasn't a special meaning attached to this. She just really ran out of ideas. After much deliberation, she deleted this last person from her list.<br>She stored her \"partners\" in an intelligent weapon, so she could pompously introduce her sizable team to intermediaries.<br><br>She got her first job — its risk was as unimaginable as its reward.<br>Maybe she sold herself too well that people believed her, or they just wanted to see this newbie's performance, dead or alive.<br><br>On Punklorde, almost everyone works in teams. Loners usually don't last long.<br>Those who could last would eventually become legends.<br><br>After 24 system hours, she walked out of the Slag Gang's base — alone and through the front gate.<br>The intermediary was silent. They looked at her, then at the sky, before turning around to toss a chest full of gold ingots on the ground.<br>The game called Mount Scrap ended that day."
+            "Title": "Parting",
+            "Voice": "Done everything you needed to? Good, don't want to climb into bed only to realize you forgot to finish your dailies. Bye-bye."
         },
         {
-            "_id": 4,
-            "Story": "She stood at the top of the tallest building in the Rainbow City, from which she could see her birthplace.<br>A fast food restaurant with only one employee, a basement turned into an arcade hall, several old arcade machines — this was her childhood.<br><br>She remembered liking the game of Pong — two lines and a dot of light, the simplest of ball games. She could play it for a whole day.<br>Just like how right now the crimson lights of the hoard of drones filled the night sky in crisscrossed line. Wave by wave they swarmed her, and wave by wave they fell.<br><br>She remembered liking Battle Wheel 32 — eight blocks of different colors on a matrix-drawn sky. There was only one rule: Win, no matter what.<br>Just like how right now distinct colors split the internet into eight regions, and people from all kinds of organizations gather in the square for a singular goal — to capture Silver Wolf, no matter the cost.<br><br>She remembered liking Geometric Wars, liking Odysseus, liking Star Cheetah. The score records on these games were filled with insurmountable, astronomical numbers.<br>Just like how right now— Wait, no, only this is somewhat different...<br>\"Insurmountable.\" Hah, what's that?<br><br>She stood at the top of the tallest building in the Rainbow City, from which she could see her birthplace.<br>She has climbed too high for another person to stand beside her.<br>However, she looked up even higher than before. She can see the starry skies within reach of her hands, but yet so impossibly far.<br><br><i>\"So boring.\"</i><br>The game called Rainbow City ended that day."
+            "Title": "About Self: Name",
+            "Voice": "It's the same as my screen name. Isn't yours, Trailblazer?"
         },
         {
-            "_id": 5,
-            "Story": "She stood on a chair and dusted the screen of the arcade machine in circular motions again and again, trying to wipe away each particle of dust on it.<br>She returned to that fast food restaurant, to that basement. She opened the door, and everything was where they used to be. The proprietress kept all the arrangements for her.<br><br>The soft pink light spilled on the screen like the neon lights in the city, reminding her of the starry skies she saw on that day.<br>She was not the first to reach the top of that building, and not the first to have gazed upon those starry expanses.<br>She knew the story of Zero, the greatest hacker and the most terrifying player in the era of Internet Wars. He caused the first global network paralysis just to summon the IPC's escort ship to his doorstep.<br>She thought of Sage, the creator of the aether editing technology, a weirdo who named himself after the dead. To leave the planet, he was willing to discard his physical flesh, raid into the Dark Zone, and become a wraith eternally wandering the Interastral Network.<br>She recalled Stoneblade, the pride of Mount Scrap. His tales of resisting the Oasis Zone were oft-told among families in the barren land. Some said he eventually left with the Galaxy Rangers, continuing his rebellious spark in the cosmos.<br>His lover, Twinsnake, a celebrity in the Oasis Zone. Her whereabouts were widely disputed, and all people knew was that their birth could not stop them from being together, but the cosmos eventually parted them.<br><br>On Punklorde, any hacker who can be called \"legendary\" has ended up with the same fate.<br>As the legend of the current era, she knew that she has already arrived at that threshold.<br><br>Clop, clop... She heard footfalls coming from above her, getting closer, closer...<br>One, two, three, four people.<br>A man, a woman, a metal humanoid, and...<br>She sat down, turned around, and looked around the empty basement one last time, before turning to the person at the door...<br><br><i>\"I'll join.\"</i><br>The game called Punklorde ended that day."
+            "Title": "Chat: Universe",
+            "Voice": "*sigh* I wish this universe had a few more things to do. Don't you get bored running across the map every day?"
+        },
+        {
+            "Title": "Chat: Prometheus",
+            "Voice": "Prometheus is equipped with four modules — \"friend\" is the most talkative... \"Friends are fated — a toast to our friendship!\""
+        },
+        {
+            "Title": "Hobbies",
+            "Voice": "Burying my head under a pillow for a siesta, and pinching cute things."
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "Nobody gets to open an alt account, not even Elio."
+        },
+        {
+            "Title": "Something to Share",
+            "Voice": "When I hacked into the space station, I thought I may as well make some changes to Screwllum's portrait... but I changed it back in the end."
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "My favorite games always update on the same day. Do you think it's deliberate?"
+        },
+        {
+            "Title": "About Kafka",
+            "Voice": "Ignoring the rules is something Kafka and I have in common."
+        },
+        {
+            "Title": "About Blade",
+            "Voice": "He said he'd game with me once his hand healed up, but it seems like it still isn't any better."
+        },
+        {
+            "Title": "About Screwllum",
+            "Voice": "It is always me that has to make the first move... That guy never loses his cool, does he?"
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "Could've done it using console commands."
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "Gaming is a full-time pursuit."
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "Maxed out? Time for the endgame."
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "Stop worrying about the stats — have some fun!"
+        },
+        {
+            "Title": "Added to Team With Kafka",
+            "Voice": "Hey Kafka, can I go off-script this time?"
+        },
+        {
+            "Title": "Added to Team With Blade",
+            "Voice": "...You gonna say something? Chat's enabled, y'know."
+        },
+        {
+            "Title": "About Sam",
+            "Voice": "Doing a mission with Sam is basically: Bang, bang...! Bang! And then it's over."
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "You took the bait just like that?"
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "Might be trickier to crack."
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "Can you let me have some fun this time?"
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "Huh, more enemies."
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "...I've got a raid to get to — let's finish this."
+        },
+        {
+            "Title": "Skill",
+            "Voice": "Time for a buzz."
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "Huh?"
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "Bad news."
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "This combat needs optimizing."
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "Hmph, at this speed? Too slow!"
+        },
+        {
+            "Title": "Downed",
+            "Voice": "I..."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "Nice. Rematch."
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "Good as new."
+        },
+        {
+            "Title": "Technique",
+            "Voice": "100% Break."
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "Nice, let's do it again when you're leveled up."
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "Is that it? *sigh* Stingy chest."
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "Wow, what an amazingly ordinary find!"
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "That's more like it."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "Is it always the same mechanics?"
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "Hm, not a bad time."
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "Ready when you are."
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "Time to log off... I mean, ah, head back."
         }
     ]
 }

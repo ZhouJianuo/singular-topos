@@ -1134,6 +1134,52 @@ var _monster_2 = {
         ],
         "Csxylic": "SCJarilo-VI/1002020"
     },
+    "100202020": {
+        "_id": 100202020,
+        "Key": "Monster_W1_Soldier01_03_Config",
+        "Name": "Vagrant",
+        "Desc": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper.",
+        "Stats": {
+            "HP": 1.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Fire",
+            "Phys",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100202001,
+                    100202002
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
+        "Status": [
+            210020201
+        ],
+        "AllSkills": [
+            100202001,
+            100202002
+        ],
+        "Csxylic": "SCJarilo-VI/1002020"
+    },
     "100202101": {
         "_id": 100202101,
         "Key": "Monster_W1_Soldier01_03_Config",
@@ -1962,6 +2008,58 @@ var _monster_2 = {
         ],
         "RESBase": {
             "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100203001,
+                    100203002
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    100203003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1002030.png",
+        "Figure": "monsterfigure/Monster_1002030.png",
+        "Status": [
+            210020301,
+            210020302
+        ],
+        "AllSkills": [
+            100203001,
+            100203002
+        ],
+        "Csxylic": "SCJarilo-VI/1002030"
+    },
+    "100203019": {
+        "_id": 100203019,
+        "Key": "Monster_W1_Soldier04_00_Config",
+        "Name": "Silvermane Cannoneer",
+        "Desc": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies.",
+        "Stats": {
+            "HP": 2.1,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
             "Elec": 0.2,
             "Wind": 0.2,
             "Quantum": 0.2
@@ -3028,6 +3126,50 @@ var _monster_2 = {
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
+    "100204025": {
+        "_id": 100204025,
+        "Key": "Monster_W1_Soldier01_00_Config",
+        "Name": "Silvermane Soldier",
+        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Stats": {
+            "HP": 1.3,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Phys",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100204001
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
+        "Status": [
+            210010101
+        ],
+        "AllSkills": [
+            100204001
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
+    },
     "100204101": {
         "_id": 100204101,
         "Key": "Monster_W1_Soldier01_00_Config",
@@ -3934,6 +4076,50 @@ var _monster_2 = {
             "Ice": 0.2,
             "Elec": 0.2,
             "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100205001
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
+        "Status": [
+            30020005
+        ],
+        "AllSkills": [
+            100205001
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
+    },
+    "100205021": {
+        "_id": 100205021,
+        "Key": "Monster_W1_Soldier02_00_Config",
+        "Name": "Silvermane Gunner",
+        "Desc": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat.",
+        "Stats": {
+            "HP": 3.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Phys",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
             "Imaginary": 0.2
         },
         "StatusRESBase": 0.1,
@@ -5000,6 +5186,159 @@ var _monster_2 = {
         ],
         "Csxylic": "SCJarilo-VI/1003010"
     },
+    "100301021": {
+        "_id": 100301021,
+        "Key": "Monster_W1_Soldier03_00_Config",
+        "Name": "Silvermane Lieutenant",
+        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Stats": {
+            "HP": 10.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 8.0
+        },
+        "Weak": [
+            "Phys",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100301001,
+                    100301002,
+                    100301003,
+                    100301004
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
+        "Status": [
+            210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
+    },
+    "100301022": {
+        "_id": 100301022,
+        "Key": "Monster_W1_Soldier03_00_Config",
+        "Name": "Silvermane Lieutenant",
+        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Stats": {
+            "HP": 15.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 8.0
+        },
+        "StatsExtra": {
+            "SPD": -10.0
+        },
+        "Weak": [
+            "Phys",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100301001,
+                    100301002,
+                    100301003,
+                    100301004
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
+        "Status": [
+            210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
+    },
+    "100301023": {
+        "_id": 100301023,
+        "Key": "Monster_W1_Soldier03_00_Config",
+        "Name": "Silvermane Lieutenant",
+        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Stats": {
+            "HP": 17.5,
+            "ATK": 9.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 8.0
+        },
+        "Weak": [
+            "Phys",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100301001,
+                    100301002,
+                    100301003,
+                    100301004
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
+        "Status": [
+            210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
+    },
     "100301101": {
         "_id": 100301101,
         "Key": "Monster_W1_Soldier03_00_Config_A",
@@ -5323,7 +5662,7 @@ var _monster_2 = {
         "Name": "Cocolia",
         "Desc": "The Guardian of Belobog, and the indisputable ruler of the Towering Citadel, Belobog.<br>Cocolia possesses the divine authority passed down through the generations of Guardians, giving her command over ice and snow to freeze her enemies in battle.",
         "Stats": {
-            "HP": 20.0,
+            "HP": 17.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
@@ -5386,7 +5725,7 @@ var _monster_2 = {
         "Name": "Cocolia",
         "Desc": "The Guardian of Belobog, and the indisputable ruler of the Towering Citadel, Belobog.<br>Cocolia possesses the divine authority passed down through the generations of Guardians, giving her command over ice and snow to freeze her enemies in battle.",
         "Stats": {
-            "HP": 81.5,
+            "HP": 89.5,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
@@ -5405,6 +5744,73 @@ var _monster_2 = {
             "Ice": 0.6,
             "Wind": 0.4,
             "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5,
+            "Frozen": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100401001,
+                    100401002,
+                    100401003,
+                    100401004,
+                    100401005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    100401006
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1004010.png",
+        "Figure": "monsterfigure/Monster_1004010.png",
+        "Status": [
+            30020012,
+            210040114
+        ],
+        "AllSkills": [
+            100401001,
+            100401002,
+            100401003,
+            100401004,
+            100401005
+        ],
+        "Csxylic": "SCJarilo-VI/1004010"
+    },
+    "100401007": {
+        "_id": 100401007,
+        "Key": "Monster_W1_CocoliaP1_00_Config",
+        "Name": "Cocolia",
+        "Desc": "The Guardian of Belobog, and the indisputable ruler of the Towering Citadel, Belobog.<br>Cocolia possesses the divine authority passed down through the generations of Guardians, giving her command over ice and snow to freeze her enemies in battle.",
+        "Stats": {
+            "HP": 80.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "SPD": 120.0,
+            "Stance": 6.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.4,
+            "Ice": 0.2,
+            "Wind": 0.4,
             "Imaginary": 0.2
         },
         "StatusRESBase": 0.3,
@@ -5752,7 +6158,7 @@ var _monster_2 = {
         "Name": "Gepard",
         "Desc": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack.",
         "Stats": {
-            "HP": 20.0,
+            "HP": 17.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
@@ -5858,6 +6264,385 @@ var _monster_2 = {
             100402005
         ],
         "Csxylic": "SCJarilo-VI/1004020"
+    },
+    "100402008": {
+        "_id": 100402008,
+        "Key": "Monster_W1_Gepard_00_Config",
+        "Name": "Gepard",
+        "Desc": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack.",
+        "Stats": {
+            "HP": 11.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "SPD": 120.0,
+            "Stance": 40.0
+        },
+        "Weak": [
+            "Phys",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Elec": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100402001,
+                    100402002,
+                    100402003,
+                    100402004,
+                    100402005
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
+        "Status": [
+            210030201,
+            210030204
+        ],
+        "AllSkills": [
+            100402001,
+            100402002,
+            100402003,
+            100402004,
+            100402005
+        ],
+        "Csxylic": "SCJarilo-VI/1004020"
+    },
+    "100402009": {
+        "_id": 100402009,
+        "Key": "Monster_W1_Gepard_00_Config",
+        "Name": "Gepard",
+        "Desc": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack.",
+        "Stats": {
+            "HP": 75.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "SPD": 120.0,
+            "Stance": 40.0
+        },
+        "Weak": [
+            "Phys",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Elec": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100402001,
+                    100402002,
+                    100402003,
+                    100402004,
+                    100402005
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
+        "Status": [
+            210030201,
+            210030204
+        ],
+        "AllSkills": [
+            100402001,
+            100402002,
+            100402003,
+            100402004,
+            100402005
+        ],
+        "Csxylic": "SCJarilo-VI/1004020"
+    },
+    "100402201": {
+        "_id": 100402201,
+        "Key": "Monster_W1_Gepard_00_Config_RL",
+        "Name": "Gepard (Complete)",
+        "Desc": "A complete projection produced by compromised codes. The referenced entity is the leader of the Silvermane Guards.<br>Gepard (Complete) can command his soldiers to focus their attacks and offer soldiers a shield to block attacks.",
+        "Stats": {
+            "HP": 20.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "SPD": 96.0,
+            "Stance": 20.0
+        },
+        "Weak": [
+            "Phys",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Elec": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Frozen": 0.75,
+            "Confine": 0.75,
+            "Entangle": 0.75
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100402201,
+                    100402202,
+                    100402204,
+                    100402205,
+                    100402208,
+                    100402209
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    100402201,
+                    100402202,
+                    100402203,
+                    100402204,
+                    100402205,
+                    100402208,
+                    100402210
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    100402201,
+                    100402202,
+                    100402203,
+                    100402204,
+                    100402205,
+                    100402208,
+                    100402211
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    100402207
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
+        "Status": [
+            210030201,
+            210040221,
+            210040222,
+            210040223,
+            210040224
+        ],
+        "AllSkills": [
+            100402201,
+            100402202,
+            100402204,
+            100402205,
+            100402208,
+            100402209,
+            100402203,
+            100402210,
+            100402211
+        ],
+        "IsComplete": 1
+    },
+    "100402701": {
+        "_id": 100402701,
+        "Key": "Monster_W1_Gepard_01_Config",
+        "Name": "",
+        "Desc": "",
+        "Stats": {
+            "HP": 11.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "SPD": 120.0,
+            "Stance": 40.0
+        },
+        "Weak": [
+            "Phys",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Elec": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100402701,
+                    100402702,
+                    100402704,
+                    100402705,
+                    100402708,
+                    100402709
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    100402701,
+                    100402702,
+                    100402703,
+                    100402704,
+                    100402705,
+                    100402708,
+                    100402710
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    100402707,
+                    100402711
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
+        "AllSkills": [
+            100402701,
+            100402702,
+            100402704,
+            100402705,
+            100402708,
+            100402709,
+            100402703,
+            100402710
+        ]
+    },
+    "100402702": {
+        "_id": 100402702,
+        "Key": "Monster_W1_Gepard_01_Config",
+        "Name": "",
+        "Desc": "",
+        "Stats": {
+            "HP": 75.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "SPD": 120.0,
+            "Stance": 40.0
+        },
+        "Weak": [
+            "Phys",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Elec": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100402701,
+                    100402702,
+                    100402704,
+                    100402705,
+                    100402708,
+                    100402709
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    100402701,
+                    100402702,
+                    100402703,
+                    100402704,
+                    100402705,
+                    100402708,
+                    100402710
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    100402707,
+                    100402711
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
+        "AllSkills": [
+            100402701,
+            100402702,
+            100402704,
+            100402705,
+            100402708,
+            100402709,
+            100402703,
+            100402710
+        ]
     },
     "100403001": {
         "_id": 100403001,
@@ -6025,11 +6810,65 @@ var _monster_2 = {
         "Name": "Bronya",
         "Desc": "Successor to Belobog's Guardian, and commander of the Silvermane Guards.<br>Bronya can use various tactics to attack her enemies, and greatly enhance the battle prowess of all allies.",
         "Stats": {
-            "HP": 20.0,
+            "HP": 17.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
             "Stance": 7.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100403001,
+                    100403002,
+                    100403003,
+                    100403004
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1004030.png",
+        "Figure": "monsterfigure/Monster_1004030.png",
+        "AllSkills": [
+            100403001,
+            100403002,
+            100403003,
+            100403004
+        ],
+        "Csxylic": "SCJarilo-VI/1004030"
+    },
+    "100403005": {
+        "_id": 100403005,
+        "Key": "Monster_W1_Bronya_00_Config",
+        "Name": "Bronya",
+        "Desc": "Successor to Belobog's Guardian, and commander of the Silvermane Guards.<br>Bronya can use various tactics to attack her enemies, and greatly enhance the battle prowess of all allies.",
+        "Stats": {
+            "HP": 50.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 7.0
+        },
+        "StatsExtra": {
+            "SPD": 120.0,
+            "Stance": 11.0
         },
         "Weak": [
             "Phys",
@@ -8224,6 +9063,47 @@ var _monster_2 = {
         ],
         "Csxylic": "SCJarilo-VI/1012030"
     },
+    "101203016": {
+        "_id": 101203016,
+        "Key": "Monster_W1_Mecha01_01_Config",
+        "Name": "Automaton Beetle",
+        "Desc": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves.",
+        "Stats": {
+            "HP": 1.4,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind",
+            "Phys"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101203001
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1012030.png",
+        "Figure": "monsterfigure/Monster_1012030.png",
+        "AllSkills": [
+            101203001
+        ],
+        "Csxylic": "SCJarilo-VI/1012030"
+    },
     "101301001": {
         "_id": 101301001,
         "Key": "Monster_W1_Mecha03_00_Config",
@@ -9611,6 +10491,64 @@ var _monster_2 = {
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
+    "101301024": {
+        "_id": 101301024,
+        "Key": "Monster_W1_Mecha03_00_Config",
+        "Name": "Automaton Grizzly",
+        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Stats": {
+            "HP": 12.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 14.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101301001,
+                    101301002,
+                    101301003,
+                    101301004,
+                    101301009
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    101301005
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
+        "Status": [
+            30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
+    },
     "101301101": {
         "_id": 101301101,
         "Key": "Monster_W1_Mecha03_00_Config",
@@ -10955,6 +11893,60 @@ var _monster_2 = {
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
+    "101302029": {
+        "_id": 101302029,
+        "Key": "Monster_W1_Mecha04_00_Config",
+        "Name": "Automaton Direwolf",
+        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Stats": {
+            "HP": 11.0,
+            "ATK": 12.00006,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": -3.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101302001,
+                    101302002,
+                    101302003,
+                    101302004
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
+    },
     "101401001": {
         "_id": 101401001,
         "Key": "Monster_W1_Svarog_00_Config",
@@ -11566,6 +12558,427 @@ var _monster_2 = {
             101401007
         ],
         "Csxylic": "SCJarilo-VI/1014010"
+    },
+    "101401010": {
+        "_id": 101401010,
+        "Key": "Monster_W1_Svarog_00_Config",
+        "Name": "Svarog",
+        "Desc": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks.",
+        "Stats": {
+            "HP": 80.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "SPD": 120.0,
+            "Stance": 6.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101401001,
+                    101401002,
+                    101401004,
+                    101401007
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    101401003,
+                    101401005,
+                    101401006,
+                    101401008,
+                    101401009,
+                    101401010,
+                    101401011
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
+        "Status": [
+            30010006,
+            210040204,
+            210120401
+        ],
+        "AllSkills": [
+            101401001,
+            101401002,
+            101401004,
+            101401007
+        ],
+        "Csxylic": "SCJarilo-VI/1014010"
+    },
+    "101401011": {
+        "_id": 101401011,
+        "Key": "Monster_W1_Svarog_00_Config",
+        "Name": "Svarog",
+        "Desc": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks.",
+        "Stats": {
+            "HP": 17.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 12.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101401001,
+                    101401002,
+                    101401004,
+                    101401007
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    101401003,
+                    101401005,
+                    101401006,
+                    101401008,
+                    101401009,
+                    101401010,
+                    101401011
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
+        "Status": [
+            30010006,
+            210040204,
+            210120401
+        ],
+        "AllSkills": [
+            101401001,
+            101401002,
+            101401004,
+            101401007
+        ],
+        "Csxylic": "SCJarilo-VI/1014010"
+    },
+    "101401201": {
+        "_id": 101401201,
+        "Key": "Monster_W1_Svarog_00_Config_RL",
+        "Name": "Svarog (Complete)",
+        "Desc": "A complete projection produced by compromised codes. The referenced entity is an ancient relic from the Old World, that was originally used as an automated control unit by the Geomarrow Development Group. Unlike the vast majority of machines that lack intellect and can only act on command, Svarog is capable of much more complex thinking.<br>In battle, Svarog (Complete) can summon various machines as well as a robot arm unit to grab and control enemies while unleashing devastating strikes.",
+        "Stats": {
+            "HP": 7.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Ice"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.75,
+            "Confine": 0.75,
+            "Entangle": 0.75
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101401201,
+                    101401202,
+                    101401212,
+                    101401213
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    101401201,
+                    101401202,
+                    101401204,
+                    101401212,
+                    101401214
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    101401201,
+                    101401202,
+                    101401204,
+                    101401207,
+                    101401212
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    101401203,
+                    101401205,
+                    101401206,
+                    101401208,
+                    101401209,
+                    101401210,
+                    101401211
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
+        "Status": [
+            30010006,
+            210040113,
+            210120411
+        ],
+        "AllSkills": [
+            101401201,
+            101401202,
+            101401212,
+            101401213,
+            101401204,
+            101401214,
+            101401207
+        ],
+        "IsComplete": 1
+    },
+    "101401301": {
+        "_id": 101401301,
+        "Key": "Monster_W1_Svarog_00_Config_Fever",
+        "Name": "Svarog",
+        "Desc": "A complete projection produced by compromised codes. The referenced entity is an ancient relic from the Old World, that was originally used as an automated control unit by the Geomarrow Development Group. Unlike the vast majority of machines that lack intellect and can only act on command, Svarog is capable of much more complex thinking.<br>In battle, Svarog (Complete) can summon various machines as well as a robot arm unit to grab and control enemies while unleashing devastating strikes.",
+        "Stats": {
+            "HP": 25.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "SPD": 76.0,
+            "Stance": 38.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.75,
+            "Confine": 0.75,
+            "Entangle": 0.75
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101401101,
+                    101401102,
+                    101401112,
+                    101401113
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    101401101,
+                    101401102,
+                    101401104,
+                    101401112,
+                    101401114
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    101401101,
+                    101401102,
+                    101401104,
+                    101401107
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    101401103,
+                    101401105,
+                    101401106,
+                    101401108,
+                    101401109,
+                    101401110,
+                    101401111
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
+        "Status": [
+            30010006,
+            210040113,
+            210120411
+        ],
+        "AllSkills": [
+            101401101,
+            101401102,
+            101401112,
+            101401113,
+            101401104,
+            101401114,
+            101401107
+        ]
+    },
+    "101401302": {
+        "_id": 101401302,
+        "Key": "Monster_W1_Svarog_00_Config_Fever",
+        "Name": "Svarog",
+        "Desc": "A complete projection produced by compromised codes. The referenced entity is an ancient relic from the Old World, that was originally used as an automated control unit by the Geomarrow Development Group. Unlike the vast majority of machines that lack intellect and can only act on command, Svarog is capable of much more complex thinking.<br>In battle, Svarog (Complete) can summon various machines as well as a robot arm unit to grab and control enemies while unleashing devastating strikes.",
+        "Stats": {
+            "HP": 75.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "SPD": 76.0,
+            "Stance": 38.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.75,
+            "Confine": 0.75,
+            "Entangle": 0.75
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101401101,
+                    101401102,
+                    101401112,
+                    101401113
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    101401101,
+                    101401102,
+                    101401104,
+                    101401112,
+                    101401114
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    101401101,
+                    101401102,
+                    101401104,
+                    101401107
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    101401103,
+                    101401105,
+                    101401106,
+                    101401108,
+                    101401109,
+                    101401110,
+                    101401111
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
+        "Status": [
+            30010006,
+            210040113,
+            210120411
+        ],
+        "AllSkills": [
+            101401101,
+            101401102,
+            101401112,
+            101401113,
+            101401104,
+            101401114,
+            101401107
+        ]
     },
     "102201001": {
         "_id": 102201001,
@@ -15890,6 +17303,64 @@ var _monster_2 = {
         ],
         "Csxylic": "SCStellaronHunters/2004010"
     },
+    "200401006": {
+        "_id": 200401006,
+        "Key": "Monster_W2_Kafka_00_Config",
+        "Name": "Stellaron Hunter: Kafka",
+        "Desc": "One of the Stellaron Hunters. A beautiful assassin wearing an enigmatic smile, she excels in manipulation and various weaponry. It was by her design that the Astral Express was led here, all of which was simply part of a certain plan...",
+        "Stats": {
+            "HP": 17.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 119.0,
+            "Stance": 15.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Frozen": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    200401001,
+                    200401002,
+                    200401003,
+                    200401004,
+                    200401005,
+                    200401006
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 5,
+        "Icon": "mostericon/Monster_2004010.png",
+        "Figure": "monsterfigure/Monster_2004010.png",
+        "Status": [
+            30020004,
+            30020028
+        ],
+        "AllSkills": [
+            200401001,
+            200401002,
+            200401003,
+            200401004,
+            200401005,
+            200401006
+        ],
+        "Csxylic": "SCStellaronHunters/2004010"
+    },
     "200402001": {
         "_id": 200402001,
         "Key": "Monster_W2_Yanqing_00_Config",
@@ -16290,6 +17761,76 @@ var _monster_2 = {
         ],
         "Csxylic": "SCTheXianzhouLuofu/2004020"
     },
+    "200402007": {
+        "_id": 200402007,
+        "Key": "Monster_W2_Yanqing_00_Config",
+        "Name": "Cloud Knight Lieutenant: Yanqing",
+        "Desc": "...",
+        "Stats": {
+            "HP": 75.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 16.0
+        },
+        "StatsExtra": {
+            "SPD": 240.0,
+            "Stance": 34.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Confine": 0.5,
+            "Entangle": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    200402001,
+                    200402002,
+                    200402003,
+                    200402004,
+                    200402005,
+                    200402006
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    200402007
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2004020.png",
+        "Figure": "monsterfigure/Monster_2004020.png",
+        "Status": [
+            220040201,
+            220040204
+        ],
+        "AllSkills": [
+            200402001,
+            200402002,
+            200402003,
+            200402004,
+            200402005,
+            200402006
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2004020"
+    },
     "200402201": {
         "_id": 200402201,
         "Key": "Monster_W2_Yanqing_00_Config_RL",
@@ -16377,6 +17918,176 @@ var _monster_2 = {
             200402208
         ],
         "IsComplete": 1
+    },
+    "200402202": {
+        "_id": 200402202,
+        "Key": "Monster_W2_Yanqing_00_Config_RL",
+        "Name": "Cloud Knight Lieutenant: Yanqing (Complete)",
+        "Desc": "A complete projection produced by compromised codes. The referenced entity is General Jing Yuan's retainer, a gifted swordsman who hasn't even come of age.",
+        "Stats": {
+            "HP": 25.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "SPD": 96.0,
+            "Stance": 38.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.75,
+            "Confine": 0.75,
+            "Entangle": 0.75
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    200402201,
+                    200402203,
+                    200402204,
+                    200402205,
+                    200402206
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    200402201,
+                    200402202,
+                    200402203,
+                    200402204,
+                    200402205,
+                    200402206
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    200402201,
+                    200402202,
+                    200402203,
+                    200402204,
+                    200402205,
+                    200402206,
+                    200402207,
+                    200402208
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    200402209
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_2004020.png",
+        "Figure": "monsterfigure/Monster_2004020.png",
+        "AllSkills": [
+            200402201,
+            200402203,
+            200402204,
+            200402205,
+            200402206,
+            200402202,
+            200402207,
+            200402208
+        ],
+        "IsComplete": 1
+    },
+    "200402401": {
+        "_id": 200402401,
+        "Key": "Monster_W2_Yanqing_03_Config",
+        "Name": "",
+        "Desc": "",
+        "Stats": {
+            "HP": 75.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "SPD": 216.0,
+            "Stance": 38.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.75,
+            "Confine": 0.75,
+            "Entangle": 0.75
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    200402401,
+                    200402403,
+                    200402404,
+                    200402405,
+                    200402406
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    200402401,
+                    200402402,
+                    200402403,
+                    200402404,
+                    200402405,
+                    200402406
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    200402407,
+                    200402408,
+                    200402409
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_2004020.png",
+        "Figure": "monsterfigure/Monster_2004020.png",
+        "AllSkills": [
+            200402401,
+            200402403,
+            200402404,
+            200402405,
+            200402406,
+            200402402
+        ]
     },
     "201101001": {
         "_id": 201101001,
@@ -21835,6 +23546,271 @@ var _monster_2 = {
         ],
         "Csxylic": "SCTheXianzhouLuofu/2024010"
     },
+    "202401005": {
+        "_id": 202401005,
+        "Key": "Monster_W2_Xuanlu_00_Config",
+        "Name": "Abundant Ebon Deer",
+        "Desc": "An auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again.",
+        "Stats": {
+            "HP": 90.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 115.0,
+            "Stance": 14.0
+        },
+        "StatsExtra": {
+            "SPD": 125.0,
+            "Stance": 36.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.4,
+            "Wind": 0.4,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Confine": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202401001,
+                    202401002,
+                    202401005,
+                    202401006
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    202401001,
+                    202401002,
+                    202401003,
+                    202401004,
+                    202401005,
+                    202401006,
+                    202401007,
+                    202401008
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    202401009
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2024010.png",
+        "Figure": "monsterfigure/Monster_2024010.png",
+        "Status": [
+            220221001,
+            220240101
+        ],
+        "AllSkills": [
+            202401001,
+            202401002,
+            202401005,
+            202401006,
+            202401003,
+            202401004,
+            202401007,
+            202401008
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2024010"
+    },
+    "202401006": {
+        "_id": 202401006,
+        "Key": "Monster_W2_Xuanlu_00_Config",
+        "Name": "Abundant Ebon Deer",
+        "Desc": "An auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again.",
+        "Stats": {
+            "HP": 75.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 115.0,
+            "Stance": 14.0
+        },
+        "StatsExtra": {
+            "SPD": 125.0,
+            "Stance": 36.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.4,
+            "Wind": 0.4,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Confine": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202401001,
+                    202401002,
+                    202401005,
+                    202401006
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    202401001,
+                    202401002,
+                    202401003,
+                    202401004,
+                    202401005,
+                    202401006,
+                    202401007,
+                    202401008
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    202401009
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2024010.png",
+        "Figure": "monsterfigure/Monster_2024010.png",
+        "Status": [
+            220221001,
+            220240101
+        ],
+        "AllSkills": [
+            202401001,
+            202401002,
+            202401005,
+            202401006,
+            202401003,
+            202401004,
+            202401007,
+            202401008
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2024010"
+    },
+    "202401201": {
+        "_id": 202401201,
+        "Key": "Monster_W2_Xuanlu_10_Config_RL",
+        "Name": "Abundant Ebon Deer (Complete)",
+        "Desc": "A complete projection produced by compromised codes. The referenced entity is an auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again.",
+        "Stats": {
+            "HP": 20.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 14.0
+        },
+        "StatsExtra": {
+            "SPD": 96.0,
+            "Stance": 36.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Confine": 0.5
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202401205,
+                    202401206,
+                    202401210,
+                    202401211,
+                    202401214
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    202401205,
+                    202401206,
+                    202401209,
+                    202401212,
+                    202401214
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    202401205,
+                    202401206,
+                    202401207,
+                    202401208,
+                    202401213,
+                    202401214
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    202401201,
+                    202401202,
+                    202401203,
+                    202401204
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2024010.png",
+        "Figure": "monsterfigure/Monster_2024010.png",
+        "Status": [
+            220221001,
+            220240101,
+            220240111,
+            220240112
+        ],
+        "AllSkills": [
+            202401205,
+            202401206,
+            202401210,
+            202401211,
+            202401214,
+            202401209,
+            202401212,
+            202401207,
+            202401208,
+            202401213
+        ],
+        "IsComplete": 1
+    },
     "202401401": {
         "_id": 202401401,
         "Key": "Monster_W2_Xuanlu_00_Config_Pingshu",
@@ -21856,6 +23832,142 @@ var _monster_2 = {
             "Elec": 0.4,
             "Wind": 0.4,
             "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Confine": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202401401,
+                    202401402,
+                    202401403,
+                    202401404,
+                    202401405,
+                    202401406,
+                    202401407,
+                    202401408
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    202401409
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_2024010.png",
+        "Figure": "monsterfigure/Monster_2024010.png",
+        "AllSkills": [
+            202401401,
+            202401402,
+            202401403,
+            202401404,
+            202401405,
+            202401406,
+            202401407,
+            202401408
+        ]
+    },
+    "202401403": {
+        "_id": 202401403,
+        "Key": "Monster_W2_Xuanlu_00_Config_Pingshu",
+        "Name": "Abundant Ebon Deer",
+        "Desc": "An auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again.",
+        "Stats": {
+            "HP": 90.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 115.0,
+            "Stance": 14.0
+        },
+        "StatsExtra": {
+            "SPD": 125.0,
+            "Stance": 36.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.4,
+            "Wind": 0.4,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Confine": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202401401,
+                    202401402,
+                    202401403,
+                    202401404,
+                    202401405,
+                    202401406,
+                    202401407,
+                    202401408
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    202401409
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_2024010.png",
+        "Figure": "monsterfigure/Monster_2024010.png",
+        "AllSkills": [
+            202401401,
+            202401402,
+            202401403,
+            202401404,
+            202401405,
+            202401406,
+            202401407,
+            202401408
+        ]
+    },
+    "202401404": {
+        "_id": 202401404,
+        "Key": "Monster_W2_Xuanlu_00_Config_Pingshu",
+        "Name": "Abundant Ebon Deer",
+        "Desc": "An auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again.",
+        "Stats": {
+            "HP": 75.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 115.0,
+            "Stance": 14.0
+        },
+        "StatsExtra": {
+            "SPD": 125.0,
+            "Stance": 36.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.4,
+            "Wind": 0.4,
             "Imaginary": 0.2
         },
         "StatusRESBase": 0.3,
@@ -22030,6 +24142,87 @@ var _monster_2 = {
             "DEF": 1.0,
             "SPD": 100.0,
             "Stance": 0.0
+        },
+        "Weak": [],
+        "RESBase": {},
+        "StatusRESBase": 1.0,
+        "DebuffRES": {
+            "CTRL": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202402001,
+                    202402002,
+                    202402003
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2024020.png",
+        "Figure": "monsterfigure/Monster_2024020.png",
+        "AllSkills": [
+            202402001,
+            202402002,
+            202402003
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2024020"
+    },
+    "202402005": {
+        "_id": 202402005,
+        "Key": "Monster_W2_Fuyan_00_Config",
+        "Name": "Cirrus",
+        "Desc": "A fragment of the great heliobus, Ignamar. Gather the numerous fragments of the heliobus to recreate Ignamar's spirit.",
+        "Stats": {
+            "HP": 15.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 0.0
+        },
+        "Weak": [],
+        "RESBase": {},
+        "StatusRESBase": 1.0,
+        "DebuffRES": {
+            "CTRL": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202402001,
+                    202402002,
+                    202402003
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2024020.png",
+        "Figure": "monsterfigure/Monster_2024020.png",
+        "AllSkills": [
+            202402001,
+            202402002,
+            202402003
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2024020"
+    },
+    "202402006": {
+        "_id": 202402006,
+        "Key": "Monster_W2_Fuyan_00_Config",
+        "Name": "Cirrus",
+        "Desc": "A fragment of the great heliobus, Ignamar. Gather the numerous fragments of the heliobus to recreate Ignamar's spirit.",
+        "Stats": {
+            "HP": 15.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 0.0
+        },
+        "StatsExtra": {
+            "SPD": 200.0
         },
         "Weak": [],
         "RESBase": {},
@@ -23114,6 +25307,126 @@ var _monster_2 = {
         ],
         "Csxylic": "SCDreamjoltTroupe/3003010"
     },
+    "300301003": {
+        "_id": 300301003,
+        "Key": "Monster_W3_Dinosaur_00_Config",
+        "Name": "Dreamjolt Troupe's Beyond Overcooked",
+        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a culinary robot, it is still breathing fire for grilling ingredients after losing control, intending to burn the diners to crisps.",
+        "Stats": {
+            "HP": 18.0,
+            "ATK": 16.363619999999997,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 16.0
+        },
+        "StatsExtra": {
+            "Stance": -2.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300301001,
+                    300301002,
+                    300301003,
+                    300301004,
+                    300301005,
+                    300301006,
+                    300301007
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3003010.png",
+        "Figure": "monsterfigure/Monster_3003010.png",
+        "Status": [
+            230030104,
+            230030105
+        ],
+        "AllSkills": [
+            300301001,
+            300301002,
+            300301003,
+            300301004,
+            300301005,
+            300301006,
+            300301007
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3003010"
+    },
+    "300301004": {
+        "_id": 300301004,
+        "Key": "Monster_W3_Dinosaur_00_Config",
+        "Name": "Dreamjolt Troupe's Beyond Overcooked",
+        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a culinary robot, it is still breathing fire for grilling ingredients after losing control, intending to burn the diners to crisps.",
+        "Stats": {
+            "HP": 6.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 16.0
+        },
+        "StatsExtra": {
+            "Stance": -8.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300301001,
+                    300301002,
+                    300301003,
+                    300301004,
+                    300301005,
+                    300301006,
+                    300301007
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3003010.png",
+        "Figure": "monsterfigure/Monster_3003010.png",
+        "Status": [
+            230030104,
+            230030105
+        ],
+        "AllSkills": [
+            300301001,
+            300301002,
+            300301003,
+            300301004,
+            300301005,
+            300301006,
+            300301007
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3003010"
+    },
     "300301101": {
         "_id": 300301101,
         "Key": "Monster_W3_Dinosaur_00_Config_ActivityTelevision",
@@ -23313,6 +25626,107 @@ var _monster_2 = {
         ],
         "Csxylic": "SCDreamjoltTroupe/3003020"
     },
+    "300305001": {
+        "_id": 300305001,
+        "Key": "Monster_W3_Figure_01_Config",
+        "Name": "\"Present Inebriated in Revelry\"",
+        "Desc": "A waiter responsible for entertaining the guests in the Sweet Dreams Troupe. It should be serving in the Charmony Festival, but it is now bound by Order and keeps performing scenes of the \"Present.\" The contemporaneous is an all-night revelry where longing for joy swirls in goblets and the finest wine is offered to the master who set up the feast.",
+        "Stats": {
+            "HP": 6.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": -4.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300305001,
+                    300305002,
+                    300305004,
+                    300305005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    300305003,
+                    300305006,
+                    300305007
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3003050.png",
+        "AllSkills": [
+            300305001,
+            300305002,
+            300305004,
+            300305005
+        ]
+    },
+    "300401001": {
+        "_id": 300401001,
+        "Key": "Monster_W3_FigureBoss_00_Config",
+        "Name": "The Past, Present, and Eternal Show",
+        "Desc": "The actors of the Sweet Dreams Troupe have accepted the grace of the Order and become law-marked puppets. They dance under the supreme commandments, beginning a show that will welcome the coming of paradise.",
+        "Stats": {
+            "HP": 67.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 0.0,
+            "Stance": 0.0
+        },
+        "Weak": [],
+        "RESBase": {},
+        "StatusRESBase": 0.2,
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300401001,
+                    300401002
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    300401001,
+                    300401003,
+                    300401004,
+                    300401005
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 10,
+        "Icon": "mostericon/BattleEvent_Marionette.png",
+        "AllSkills": [
+            300401001,
+            300401002,
+            300401003,
+            300401004,
+            300401005
+        ]
+    },
     "301201001": {
         "_id": 301201001,
         "Key": "Monster_W3_TV_01_Config",
@@ -23418,7 +25832,7 @@ var _monster_2 = {
             "Stance": 12.0
         },
         "StatsExtra": {
-            "Stance": -6.0
+            "Stance": -7.0
         },
         "Weak": [
             "Elec",
@@ -23702,6 +26116,399 @@ var _monster_2 = {
         ],
         "Csxylic": "SCMemoryZoneMeme/3014020"
     },
+    "301402004": {
+        "_id": 301402004,
+        "Key": "Monster_W3_Death_00_Config",
+        "Name": "Memory Zone Meme \"Something Unto Death\"",
+        "Desc": "Entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams.",
+        "Stats": {
+            "HP": 30.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 24.0
+        },
+        "StatsExtra": {
+            "SPD": 216.0,
+            "Stance": 50.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Entangle": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301402001,
+                    301402002,
+                    301402003,
+                    301402004,
+                    301402005,
+                    301402009
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    301402001,
+                    301402002,
+                    301402003,
+                    301402006,
+                    301402007,
+                    301402009
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    301402008
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 11,
+        "Icon": "mostericon/Monster_3014020.png",
+        "Figure": "monsterfigure/Monster_3014020.png",
+        "Status": [
+            230140201,
+            230140202,
+            230140204,
+            230140207
+        ],
+        "AllSkills": [
+            301402001,
+            301402002,
+            301402003,
+            301402004,
+            301402005,
+            301402009,
+            301402006,
+            301402007
+        ],
+        "Csxylic": "SCMemoryZoneMeme/3014020"
+    },
+    "301402005": {
+        "_id": 301402005,
+        "Key": "Monster_W3_Death_00_Config",
+        "Name": "Memory Zone Meme \"Something Unto Death\"",
+        "Desc": "Entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams.",
+        "Stats": {
+            "HP": 28.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 24.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Entangle": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301402001,
+                    301402002,
+                    301402003,
+                    301402004,
+                    301402005,
+                    301402009
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    301402001,
+                    301402002,
+                    301402003,
+                    301402006,
+                    301402007,
+                    301402009
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    301402008
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 11,
+        "Icon": "mostericon/Monster_3014020.png",
+        "Figure": "monsterfigure/Monster_3014020.png",
+        "Status": [
+            230140201,
+            230140202,
+            230140204,
+            230140207
+        ],
+        "AllSkills": [
+            301402001,
+            301402002,
+            301402003,
+            301402004,
+            301402005,
+            301402009,
+            301402006,
+            301402007
+        ],
+        "Csxylic": "SCMemoryZoneMeme/3014020"
+    },
+    "301402201": {
+        "_id": 301402201,
+        "Key": "Monster_W3_Death_00_Config_RLBoss",
+        "Name": "Memory Zone Meme \"Something Unto Death\" (Complete)",
+        "Desc": "A complete projection produced by compromised codes. The referenced entity is an entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"Death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams.",
+        "Stats": {
+            "HP": 30.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 24.0
+        },
+        "StatsExtra": {
+            "SPD": 216.0,
+            "Stance": 70.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Entangle": 0.5
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301402201,
+                    301402202,
+                    301402203,
+                    301402204,
+                    301402205,
+                    301402209
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    301402201,
+                    301402202,
+                    301402203,
+                    301402206,
+                    301402207,
+                    301402209
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    301402201,
+                    301402202,
+                    301402203,
+                    301402204,
+                    301402205,
+                    301402206,
+                    301402207,
+                    301402209
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    301402208
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3014020.png",
+        "Figure": "monsterfigure/Monster_3014020.png",
+        "AllSkills": [
+            301402201,
+            301402202,
+            301402203,
+            301402204,
+            301402205,
+            301402209,
+            301402206,
+            301402207
+        ],
+        "IsComplete": 1
+    },
+    "302102001": {
+        "_id": 302102001,
+        "Key": "Monster_W2_ArgentiTotem_01_Config",
+        "Name": "\"The Honored\"",
+        "Desc": "A statue of \"The Honored.\" Legend has it that there was once a rose kissed by the Beauty, imbuing it with everlasting appeal.",
+        "Stats": {
+            "HP": 2.75,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Ice"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302102001,
+                    302102002
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3021020.png",
+        "Figure": "monsterfigure/Monster_3021020.png",
+        "Status": [
+            230240102
+        ],
+        "AllSkills": [
+            302102001,
+            302102002
+        ],
+        "Csxylic": "SCNonCategorized/3021020"
+    },
+    "302103001": {
+        "_id": 302103001,
+        "Key": "Monster_W2_ArgentiTotem_00_Config",
+        "Name": "\"Speartip\"",
+        "Desc": "A statue of \"The Spear.\" Encircling the Soul of the Beauty, the Spear and Shield are interdependent, and the Spear stands for the courage to pierce through the darkness.",
+        "Stats": {
+            "HP": 1.6,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302103001,
+                    302103002
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3021030.png",
+        "Figure": "monsterfigure/Monster_3021030.png",
+        "AllSkills": [
+            302103001,
+            302103002
+        ],
+        "Csxylic": "SCNonCategorized/3021030"
+    },
+    "302104001": {
+        "_id": 302104001,
+        "Key": "Monster_W2_ArgentiTotem_02_Config",
+        "Name": "\"The Shield\"",
+        "Desc": "A statue of \"The Shield.\" Encircling the Soul of the Beauty, the Spear and Shield are interdependent, and the Shield stands for the determination to defend the living.",
+        "Stats": {
+            "HP": 1.9,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302104001,
+                    302104002
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3021040.png",
+        "Figure": "monsterfigure/Monster_3021040.png",
+        "Status": [
+            220230203
+        ],
+        "AllSkills": [
+            302104001,
+            302104002
+        ],
+        "Csxylic": "SCNonCategorized/3021040"
+    },
     "302401001": {
         "_id": 302401001,
         "Key": "Monster_W2_Argenti_00_Config",
@@ -23918,13 +26725,324 @@ var _monster_2 = {
         ],
         "Csxylic": "SCCosmos/3024010"
     },
+    "302401004": {
+        "_id": 302401004,
+        "Key": "Monster_W2_Argenti_00_Config",
+        "Name": "Argenti",
+        "Desc": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"<br>Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name.",
+        "Stats": {
+            "HP": 15.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 16.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302401001,
+                    302401002,
+                    302401003,
+                    302401004,
+                    302401005
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    302401001,
+                    302401002,
+                    302401003,
+                    302401004,
+                    302401005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    302401007
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 7,
+        "Icon": "mostericon/Monster_3024010.png",
+        "Figure": "monsterfigure/Monster_3024010.png",
+        "Status": [
+            230240101
+        ],
+        "AllSkills": [
+            302401001,
+            302401002,
+            302401003,
+            302401004,
+            302401005
+        ],
+        "Csxylic": "SCCosmos/3024010"
+    },
+    "302401007": {
+        "_id": 302401007,
+        "Key": "Monster_W2_Argenti_00_Config",
+        "Name": "Argenti",
+        "Desc": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"<br>Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name.",
+        "Stats": {
+            "HP": 22.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 16.0
+        },
+        "StatsExtra": {
+            "SPD": 216.0,
+            "Stance": 34.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302401001,
+                    302401002,
+                    302401003,
+                    302401004,
+                    302401005
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    302401001,
+                    302401002,
+                    302401003,
+                    302401004,
+                    302401005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    302401007
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 7,
+        "Icon": "mostericon/Monster_3024010.png",
+        "Figure": "monsterfigure/Monster_3024010.png",
+        "Status": [
+            230240101
+        ],
+        "AllSkills": [
+            302401001,
+            302401002,
+            302401003,
+            302401004,
+            302401005
+        ],
+        "Csxylic": "SCCosmos/3024010"
+    },
+    "302401008": {
+        "_id": 302401008,
+        "Key": "Monster_W2_Argenti_00_Config",
+        "Name": "Argenti",
+        "Desc": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"<br>Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name.",
+        "Stats": {
+            "HP": 75.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 16.0
+        },
+        "StatsExtra": {
+            "SPD": 216.0,
+            "Stance": 34.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302401001,
+                    302401002,
+                    302401003,
+                    302401004,
+                    302401005
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    302401001,
+                    302401002,
+                    302401003,
+                    302401004,
+                    302401005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    302401007
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 7,
+        "Icon": "mostericon/Monster_3024010.png",
+        "Figure": "monsterfigure/Monster_3024010.png",
+        "Status": [
+            230240101
+        ],
+        "AllSkills": [
+            302401001,
+            302401002,
+            302401003,
+            302401004,
+            302401005
+        ],
+        "Csxylic": "SCCosmos/3024010"
+    },
+    "302401101": {
+        "_id": 302401101,
+        "Key": "Monster_W2_Argenti_00_Config_RL",
+        "Name": "Argenti (Complete)",
+        "Desc": "A complete projection produced by compromised codes. The referenced entity is a paragon among the Knights of Beauty.",
+        "Stats": {
+            "HP": 15.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 16.0
+        },
+        "StatsExtra": {
+            "SPD": 156.0,
+            "Stance": 34.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.75
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302401101,
+                    302401102,
+                    302401103,
+                    302401104
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    302401101,
+                    302401102,
+                    302401103,
+                    302401104,
+                    302401105,
+                    302401110
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    302401101,
+                    302401102,
+                    302401105,
+                    302401106,
+                    302401108,
+                    302401110
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    302401107
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3024010.png",
+        "Figure": "monsterfigure/Monster_3024010.png",
+        "AllSkills": [
+            302401101,
+            302401102,
+            302401103,
+            302401104,
+            302401105,
+            302401110,
+            302401106,
+            302401108
+        ],
+        "IsComplete": 1
+    },
     "302401201": {
         "_id": 302401201,
         "Key": "Monster_W2_Argenti_00_Config_Pingshu",
         "Name": "Argenti",
         "Desc": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"<br>Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name.",
         "Stats": {
-            "HP": 40.0,
+            "HP": 41.5,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 144.0,
@@ -23975,13 +27093,74 @@ var _monster_2 = {
             302401205
         ]
     },
+    "302401202": {
+        "_id": 302401202,
+        "Key": "Monster_W2_Argenti_00_Config_Pingshu",
+        "Name": "Argenti",
+        "Desc": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"<br>Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name.",
+        "Stats": {
+            "HP": 22.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 16.0
+        },
+        "StatsExtra": {
+            "SPD": 216.0,
+            "Stance": 34.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302401201,
+                    302401202,
+                    302401203,
+                    302401204,
+                    302401205
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    302401207
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3024010.png",
+        "Figure": "monsterfigure/Monster_3024010.png",
+        "AllSkills": [
+            302401201,
+            302401202,
+            302401203,
+            302401204,
+            302401205
+        ]
+    },
     "302402001": {
         "_id": 302402001,
         "Key": "Monster_W3_Sam_00_Config",
         "Name": "Stellaron Hunter: Sam",
         "Desc": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor.<br>The mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames.",
         "Stats": {
-            "HP": 22.5,
+            "HP": 18.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
@@ -24098,6 +27277,164 @@ var _monster_2 = {
             302402007
         ],
         "Csxylic": "SCStellaronHunters/3024020"
+    },
+    "302402201": {
+        "_id": 302402201,
+        "Key": "Monster_W3_Sam_00_Config_SP",
+        "Name": "Stellaron Hunter: Sam",
+        "Desc": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor. The mech suit wields the power to unleash fiery onslaughts, engulfing the battlefield in flames.",
+        "Stats": {
+            "HP": 90.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 18.0
+        },
+        "StatsExtra": {
+            "SPD": 80.0,
+            "Stance": 32.0
+        },
+        "Weak": [
+            "Elec",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302402201,
+                    302402202,
+                    302402203,
+                    302402204,
+                    302402205,
+                    302402206,
+                    302402207
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    302402201,
+                    302402202,
+                    302402203,
+                    302402204,
+                    302402205,
+                    302402206,
+                    302402207
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3024020.png",
+        "Figure": "monsterfigure/Monster_3024020.png",
+        "AllSkills": [
+            302402201,
+            302402202,
+            302402203,
+            302402204,
+            302402205,
+            302402206,
+            302402207
+        ]
+    },
+    "302501001": {
+        "_id": 302501001,
+        "Key": "Monster_W3_Sunday_00_Config",
+        "Name": "",
+        "Desc": "...",
+        "Stats": {
+            "HP": 60.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 6.0
+        },
+        "Weak": [
+            "Elec",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 1.0
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302501001,
+                    302501002,
+                    302501003,
+                    302501004,
+                    302501006,
+                    302501014
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    302501001,
+                    302501002,
+                    302501003,
+                    302501005,
+                    302501008,
+                    302501009,
+                    302501014
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    302501011,
+                    302501012,
+                    302501014
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    302501007,
+                    302501010,
+                    302501013
+                ]
+            }
+        ],
+        "Rank": "BigBoss",
+        "Camp": 5,
+        "Icon": "mostericon/Monster_3025010.png",
+        "AllSkills": [
+            302501001,
+            302501002,
+            302501003,
+            302501004,
+            302501006,
+            302501014,
+            302501005,
+            302501008,
+            302501009,
+            302501011,
+            302501012
+        ]
     },
     "800101001": {
         "_id": 800101001,
@@ -26971,6 +30308,60 @@ var _monster_2 = {
         ],
         "Csxylic": "SCFragmentumMonsters/8002010"
     },
+    "800201015": {
+        "_id": 800201015,
+        "Key": "Monster_XP_Minion02_00_Config",
+        "Name": "Imaginary Weaver",
+        "Desc": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will.",
+        "Stats": {
+            "HP": 1.9,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800201001,
+                    800201002,
+                    800201003
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800201004
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8002010.png",
+        "Figure": "monsterfigure/Monster_8002010.png",
+        "Status": [
+            280020102
+        ],
+        "AllSkills": [
+            800201001,
+            800201002,
+            800201003
+        ],
+        "Csxylic": "SCFragmentumMonsters/8002010"
+    },
     "800201016": {
         "_id": 800201016,
         "Key": "Monster_XP_Minion02_00_Config",
@@ -29325,6 +32716,894 @@ var _monster_2 = {
         ],
         "Csxylic": "SCCosmos/8002050"
     },
+    "800205045": {
+        "_id": 800205045,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "Sequence Trotter",
+        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205046": {
+        "_id": 800205046,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "Sequence Trotter",
+        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Ice",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205047": {
+        "_id": 800205047,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "Sequence Trotter",
+        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205048": {
+        "_id": 800205048,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "Sequence Trotter",
+        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205049": {
+        "_id": 800205049,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "Sequence Trotter",
+        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205050": {
+        "_id": 800205050,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "Sequence Trotter",
+        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205051": {
+        "_id": 800205051,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "Sequence Trotter",
+        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205052": {
+        "_id": 800205052,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "Sequence Trotter",
+        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205053": {
+        "_id": 800205053,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "Sequence Trotter",
+        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 67.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205054": {
+        "_id": 800205054,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "Sequence Trotter",
+        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 67.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205055": {
+        "_id": 800205055,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "Sequence Trotter",
+        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 67.0
+        },
+        "Weak": [
+            "Phys",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205056": {
+        "_id": 800205056,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "Sequence Trotter",
+        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205057": {
+        "_id": 800205057,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "Sequence Trotter",
+        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205058": {
+        "_id": 800205058,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "Sequence Trotter",
+        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Fire",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205059": {
+        "_id": 800205059,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "Sequence Trotter",
+        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205060": {
+        "_id": 800205060,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "Sequence Trotter",
+        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205061": {
+        "_id": 800205061,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "Sequence Trotter",
+        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205062": {
+        "_id": 800205062,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "Sequence Trotter",
+        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205063": {
+        "_id": 800205063,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "Sequence Trotter",
+        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
     "800208101": {
         "_id": 800208101,
         "Key": "Monster_XP_Minion04_04_Config",
@@ -29862,14 +34141,11 @@ var _monster_2 = {
         "Name": "Ice Out of Space",
         "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches.",
         "Stats": {
-            "HP": 10.0,
+            "HP": 12.0,
             "ATK": 14.4,
             "DEF": 1.0,
             "SPD": 100.0,
             "Stance": 10.0
-        },
-        "StatsExtra": {
-            "Stance": -2.0
         },
         "Weak": [
             "Fire",
@@ -32165,6 +36441,75 @@ var _monster_2 = {
         ],
         "Csxylic": "SCFragmentumMonsters/8003030"
     },
+    "800303014": {
+        "_id": 800303014,
+        "Key": "Monster_XP_Elite02_00_Config",
+        "Name": "Guardian Shadow",
+        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master.",
+        "Stats": {
+            "HP": 11.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": 5.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800303001,
+                    800303002,
+                    800303003,
+                    800303004,
+                    800303005,
+                    800303006,
+                    800303007
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800303008
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8003030.png",
+        "Figure": "monsterfigure/Monster_8003030.png",
+        "Status": [
+            30020004,
+            280030301,
+            280030302,
+            280030303,
+            280030306
+        ],
+        "AllSkills": [
+            800303001,
+            800303002,
+            800303003,
+            800303004,
+            800303005,
+            800303006,
+            800303007
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003030"
+    },
     "800303015": {
         "_id": 800303015,
         "Key": "Monster_XP_Elite02_00_Config",
@@ -32368,6 +36713,74 @@ var _monster_2 = {
             800303007
         ],
         "Csxylic": "SCFragmentumMonsters/8003030"
+    },
+    "800303101": {
+        "_id": 800303101,
+        "Key": "Monster_XP_Elite02_00_Config",
+        "Name": "Guardian Shadow (Bug)",
+        "Desc": "A false projection produced by compromised codes. The original referent entity is a shadow manifested by the power of Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A physical manifestation of the desires of intelligent life in the Fragmentum, like a pearl created from a single grain of sand. This force wanders around aimlessly, acting only when executing the will of its master.",
+        "Stats": {
+            "HP": 13.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "Stance": 6.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800303101,
+                    800303102,
+                    800303103,
+                    800303104,
+                    800303105,
+                    800303106,
+                    800303107
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800303108
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_8003030.png",
+        "Figure": "monsterfigure/Monster_8003030.png",
+        "Status": [
+            30020004,
+            280030301,
+            280030302,
+            280030303
+        ],
+        "AllSkills": [
+            800303101,
+            800303102,
+            800303103,
+            800303104,
+            800303105,
+            800303106,
+            800303107
+        ],
+        "IsBug": 1
     },
     "800304001": {
         "_id": 800304001,
@@ -33058,6 +37471,69 @@ var _monster_2 = {
         ],
         "Csxylic": "SCFragmentumMonsters/8003040"
     },
+    "800304012": {
+        "_id": 800304012,
+        "Key": "Monster_XP_Elite02_01_Config",
+        "Name": "Decaying Shadow",
+        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted.",
+        "Stats": {
+            "HP": 20.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 172.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": 5.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800304002,
+                    800304003,
+                    800304004,
+                    800304005,
+                    800304006
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800304001,
+                    800304007
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8003040.png",
+        "Figure": "monsterfigure/Monster_8003040.png",
+        "Status": [
+            30020013,
+            280030405
+        ],
+        "AllSkills": [
+            800304002,
+            800304003,
+            800304004,
+            800304005,
+            800304006
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003040"
+    },
     "800305001": {
         "_id": 800305001,
         "Key": "Monster_AML_Elite01_01_Config",
@@ -33684,6 +38160,69 @@ var _monster_2 = {
         ],
         "Csxylic": "SCFragmentumMonsters/8003050"
     },
+    "800305011": {
+        "_id": 800305011,
+        "Key": "Monster_AML_Elite01_01_Config",
+        "Name": "Stormbringer",
+        "Desc": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly.",
+        "Stats": {
+            "HP": 11.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": 8.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.4,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800305001,
+                    800305002,
+                    800305003,
+                    800305004,
+                    800305005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800305006
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8003050.png",
+        "Figure": "monsterfigure/Monster_8003050.png",
+        "Status": [
+            30020003,
+            280130201,
+            280130202
+        ],
+        "AllSkills": [
+            800305001,
+            800305002,
+            800305003,
+            800305004,
+            800305005
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003050"
+    },
     "800305012": {
         "_id": 800305012,
         "Key": "Monster_AML_Elite01_01_Config",
@@ -33709,6 +38248,129 @@ var _monster_2 = {
             "Elec": 0.2,
             "Wind": 0.4,
             "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800305001,
+                    800305002,
+                    800305003,
+                    800305004,
+                    800305005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800305006
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8003050.png",
+        "Figure": "monsterfigure/Monster_8003050.png",
+        "Status": [
+            30020003,
+            280130201,
+            280130202
+        ],
+        "AllSkills": [
+            800305001,
+            800305002,
+            800305003,
+            800305004,
+            800305005
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003050"
+    },
+    "800305015": {
+        "_id": 800305015,
+        "Key": "Monster_AML_Elite01_01_Config",
+        "Name": "Stormbringer",
+        "Desc": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly.",
+        "Stats": {
+            "HP": 11.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Elec": 0.2,
+            "Wind": 0.4,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800305001,
+                    800305002,
+                    800305003,
+                    800305004,
+                    800305005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800305006
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8003050.png",
+        "Figure": "monsterfigure/Monster_8003050.png",
+        "Status": [
+            30020003,
+            280130201,
+            280130202
+        ],
+        "AllSkills": [
+            800305001,
+            800305002,
+            800305003,
+            800305004,
+            800305005
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003050"
+    },
+    "800305017": {
+        "_id": 800305017,
+        "Key": "Monster_AML_Elite01_01_Config",
+        "Name": "Stormbringer",
+        "Desc": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly.",
+        "Stats": {
+            "HP": 5.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": -4.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.4,
+            "Quantum": 0.2
         },
         "StatusRESBase": 0.2,
         "Skills": [
@@ -34389,6 +39051,46 @@ var _monster_2 = {
         ],
         "RESBase": {
             "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    801102001
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 6,
+        "Icon": "mostericon/Monster_8011020.png",
+        "Figure": "monsterfigure/Monster_8011020.png",
+        "AllSkills": [
+            801102001
+        ],
+        "Csxylic": "SCAntimatterRegion/8011020"
+    },
+    "801102009": {
+        "_id": 801102009,
+        "Key": "Monster_AML_Minion01_01_Config",
+        "Name": "Antibaryon",
+        "Desc": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Antibaryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield.",
+        "Stats": {
+            "HP": 0.6,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Fire",
+            "Phys"
+        ],
+        "RESBase": {
             "Ice": 0.2,
             "Elec": 0.2,
             "Wind": 0.2,
@@ -35737,6 +40439,58 @@ var _monster_2 = {
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
+    "801201027": {
+        "_id": 801201027,
+        "Key": "Monster_AML_Minion02_00_Config",
+        "Name": "Voidranger: Reaver",
+        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Stats": {
+            "HP": 1.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    801201001,
+                    801201002
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    801201003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 6,
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
+        "Status": [
+            280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
+    },
     "801201028": {
         "_id": 801201028,
         "Key": "Monster_AML_Minion02_00_Config",
@@ -36545,6 +41299,51 @@ var _monster_2 = {
             801202102
         ]
     },
+    "801202103": {
+        "_id": 801202103,
+        "Key": "Monster_AML_Minion03_00_Config",
+        "Name": "Voidranger: Distorter",
+        "Desc": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area.",
+        "Stats": {
+            "HP": 1.8,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    801202101,
+                    801202102
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_8012020.png",
+        "Figure": "monsterfigure/Monster_8012020.png",
+        "Status": [
+            280120201
+        ],
+        "AllSkills": [
+            801202101,
+            801202102
+        ]
+    },
     "801203001": {
         "_id": 801203001,
         "Key": "Monster_AML_Minion04_00_Config",
@@ -36844,6 +41643,56 @@ var _monster_2 = {
             "DEF": 1.0,
             "SPD": 100.0,
             "Stance": 3.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    801203001,
+                    801203002
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 6,
+        "Icon": "mostericon/Monster_8012030.png",
+        "Figure": "monsterfigure/Monster_8012030.png",
+        "Status": [
+            280120301,
+            280120302
+        ],
+        "AllSkills": [
+            801203001,
+            801203002
+        ],
+        "Csxylic": "SCAntimatterRegion/8012030"
+    },
+    "801203008": {
+        "_id": 801203008,
+        "Key": "Monster_AML_Minion04_00_Config",
+        "Name": "Voidranger: Eliminator",
+        "Desc": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked.",
+        "Stats": {
+            "HP": 1.4,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 10.0
         },
         "Weak": [
             "Fire",
@@ -37693,6 +42542,62 @@ var _monster_2 = {
         ],
         "Csxylic": "SCAntimatterRegion/8013010"
     },
+    "801301017": {
+        "_id": 801301017,
+        "Key": "Monster_AML_Elite01_00_Config",
+        "Name": "Voidranger: Trampler",
+        "Desc": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers.",
+        "Stats": {
+            "HP": 11.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": 8.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    801301001,
+                    801301002,
+                    801301003,
+                    801301004,
+                    801301005
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 6,
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ],
+        "AllSkills": [
+            801301001,
+            801301002,
+            801301003,
+            801301004,
+            801301005
+        ],
+        "Csxylic": "SCAntimatterRegion/8013010"
+    },
     "801301018": {
         "_id": 801301018,
         "Key": "Monster_AML_Elite01_00_Config",
@@ -38505,6 +43410,58 @@ var _monster_2 = {
         ],
         "Csxylic": "SCInterastralPeaceCorporation/8032010"
     },
+    "803201006": {
+        "_id": 803201006,
+        "Key": "Monster_W1_Soldier02_01_Config",
+        "Name": "Grunt: Field Personnel",
+        "Desc": "An Interastral Peace Corporation grunt worker whose job mainly deals with shady \"business oversights.\" With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships.",
+        "Stats": {
+            "HP": 1.6,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 118.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Wind",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    803201001,
+                    803201002
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    803201003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 9,
+        "Icon": "mostericon/Monster_8032010.png",
+        "Figure": "monsterfigure/Monster_8032010.png",
+        "Status": [
+            280330101
+        ],
+        "AllSkills": [
+            803201001,
+            803201002
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8032010"
+    },
     "803202001": {
         "_id": 803202001,
         "Key": "Monster_W1_Soldier01_04_Config",
@@ -38737,6 +43694,58 @@ var _monster_2 = {
         "RESBase": {
             "Elec": 0.2,
             "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    803202001,
+                    803202002
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    803202003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 9,
+        "Icon": "mostericon/Monster_8032020.png",
+        "Figure": "monsterfigure/Monster_8032020.png",
+        "Status": [
+            280330101
+        ],
+        "AllSkills": [
+            803202001,
+            803202002
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8032020"
+    },
+    "803202006": {
+        "_id": 803202006,
+        "Key": "Monster_W1_Soldier01_04_Config",
+        "Name": "Grunt: Security Personnel",
+        "Desc": "An Interastral Peace Corporation grunt worker whose job mainly involves maintaining order in locations ruled by the IPC. With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships.",
+        "Stats": {
+            "HP": 2.2,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Wind",
+            "Elec"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
             "Quantum": 0.2,
             "Imaginary": 0.2
         },
@@ -39004,6 +44013,62 @@ var _monster_2 = {
         ],
         "Csxylic": "SCInterastralPeaceCorporation/8033010"
     },
+    "803301005": {
+        "_id": 803301005,
+        "Key": "Monster_W1_Mecha03_02_Config",
+        "Name": "Senior Staff: Team Leader",
+        "Desc": "An Interastral Peace Corporation senior staff member with a minimal rank of project team leader. The mech they drive belongs to the IPC. If damaged, its repair fees have to be paid out-of-pocket. With a half-decent salary, they can at least afford to rent a one-bedroom apartment on one of the IPC's enterprise ships.",
+        "Stats": {
+            "HP": 16.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 12.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    803301001,
+                    803301002,
+                    803301003,
+                    803301004,
+                    803301005,
+                    803301006,
+                    803301007
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 9,
+        "Icon": "mostericon/Monster_8033010.png",
+        "Figure": "monsterfigure/Monster_8033010.png",
+        "Status": [
+            280330101
+        ],
+        "AllSkills": [
+            803301001,
+            803301002,
+            803301003,
+            803301004,
+            803301005,
+            803301006,
+            803301007
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8033010"
+    },
     "803301101": {
         "_id": 803301101,
         "Key": "Monster_W1_Mecha03_02_Config_RLElite",
@@ -39147,7 +44212,162 @@ var _monster_2 = {
             "Elec"
         ],
         "RESBase": {
+            "Fire": 0.2,
             "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.4
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    803401001,
+                    803401002,
+                    803401003,
+                    803401004,
+                    803401006,
+                    803401008
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    803401001,
+                    803401002,
+                    803401003,
+                    803401005,
+                    803401007,
+                    803401008
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    803401009
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 9,
+        "Icon": "mostericon/Monster_8034010.png",
+        "Figure": "monsterfigure/Monster_8034010.png",
+        "AllSkills": [
+            803401001,
+            803401002,
+            803401003,
+            803401004,
+            803401006,
+            803401008,
+            803401005,
+            803401007
+        ]
+    },
+    "803401002": {
+        "_id": 803401002,
+        "Key": "Monster_W3_Aventurine_00_Config",
+        "Name": "Ten Stonehearts: Aventurine of Stratagems",
+        "Desc": "A senior manager in the IPC Strategic Investment Department and one of the Ten Stonehearts. Using his Cornerstone, he obtained a share of the authority of an Emanator of Preservation. He throws his own body into the game as a die, ready to face death in order to walk away alive.",
+        "Stats": {
+            "HP": 25.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 15.0
+        },
+        "StatsExtra": {
+            "SPD": 120.0,
+            "Stance": 35.0
+        },
+        "Weak": [
+            "Phys",
+            "Wind",
+            "Elec"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.4
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    803401001,
+                    803401002,
+                    803401003,
+                    803401004,
+                    803401006,
+                    803401008
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    803401001,
+                    803401002,
+                    803401003,
+                    803401005,
+                    803401007,
+                    803401008
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    803401009
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 9,
+        "Icon": "mostericon/Monster_8034010.png",
+        "Figure": "monsterfigure/Monster_8034010.png",
+        "AllSkills": [
+            803401001,
+            803401002,
+            803401003,
+            803401004,
+            803401006,
+            803401008,
+            803401005,
+            803401007
+        ]
+    },
+    "803401003": {
+        "_id": 803401003,
+        "Key": "Monster_W3_Aventurine_00_Config",
+        "Name": "Ten Stonehearts: Aventurine of Stratagems",
+        "Desc": "A senior manager in the IPC Strategic Investment Department and one of the Ten Stonehearts. Using his Cornerstone, he obtained a share of the authority of an Emanator of Preservation. He throws his own body into the game as a die, ready to face death in order to walk away alive.",
+        "Stats": {
+            "HP": 75.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 15.0
+        },
+        "StatsExtra": {
+            "SPD": 120.0,
+            "Stance": 35.0
+        },
+        "Weak": [
+            "Phys",
+            "Wind",
+            "Elec"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
             "Quantum": 0.2,
             "Imaginary": 0.4
         },

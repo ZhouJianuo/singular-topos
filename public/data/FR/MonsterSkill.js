@@ -7445,7 +7445,7 @@ var _monsterskill = {
     "301402006": {
         "Key": "Skill06",
         "Name": "Go Into That Good Night",
-        "Desc": "Enters the Nightfall state and locks onto the 2 targets who are due to act next. Uses Watery Dissolution in the next action.",
+        "Desc": "Enters the Nightfall state, regenerates energy for all targets, and locks onto the 2 targets who are due to act next. Uses Watery Dissolution in the next action.",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -7455,7 +7455,7 @@ var _monsterskill = {
     "301402007": {
         "Key": "Skill07",
         "Name": "Watery Dissolution",
-        "Desc": "Immediately launches a killing blow on all locked-on targets and inflicts Morbid Dream on them. If there are no locked-on targets, launch a killing blow on 2 random targets and inflict Morbid Dream on them.",
+        "Desc": "Immediately launches a killing blow on all locked-on targets and inflicts Morbid Dream on them. If there are no locked-on targets, launches a killing blow on 2 random targets and inflicts Morbid Dream on them.",
         "SP": 0,
         "Threat": true
     },
@@ -7774,7 +7774,7 @@ var _monsterskill = {
     "300201002": {
         "Key": "Skill02",
         "Name": "Startling Broadcast",
-        "Desc": "Deals minor Quantum DMG to all targets and causes all targets' Energy to be reduced. This ability can only be used while under the Fright Channel state.",
+        "Desc": "Deals minor Quantum DMG to all targets and causes all targets' Energy to be reduced. This ability can only be used while in the Fright Channel state.",
         "SP": 0,
         "Elem": "Quantum",
         "DMG": [
@@ -8265,21 +8265,21 @@ var _monsterskill = {
     "803401004": {
         "Key": "Skill04",
         "Name": "Time For A Bet",
-        "Desc": "Summons All or Nothing and makes a single target enter the gamble. Every time an All or Nothing is attacked by a target that is in the gamble, the target will receive a random number between 1 and 6. After a target that is in the gamble has finished their turn, targets with numbers lower than Aventurine of Stratagems are considered to have lost the bet and will be attacked, while those with a number higher than Aventurine of Stratagems are considered to have won the bet and will have their Ultimate activated. At the same time, targets that have not entered the gamble are afflicted with the \"Look, Don't Speak\" status, which is dispelled when the gamble ends.",
+        "Desc": "Summons \"All or Nothing\" and makes a single target enter the Gamble. Every time an \"All or Nothing\" is attacked by a target that is in the Gamble, the target will receive a random number between 1 and 6. After a target that is in the Gamble has finished their turn, targets with numbers lower than \"Aventurine of Stratagems\" are considered to have lost the Gamble and will be attacked, while those with a number higher than \"Aventurine of Stratagems\" are considered to have won the Gamble and will have their Ultimate activated. At the same time, targets that have not entered the Gamble are afflicted with the \"Look, Don't Speak\" status, which is dispelled when the Gamble ends.",
         "SP": 0,
         "Threat": true
     },
     "803401005": {
         "Key": "Skill05",
         "Name": "Big Spenders' Mad Party",
-        "Desc": "Summons All or Nothing and makes all targets enter the gamble. Every time an All or Nothing is attacked, the target that launched the attack will receive a random number between 1 and 6. The next time Aventurine of Stratagems takes a turn, targets with numbers lower than Aventurine of Stratagems are considered to have lost the bet and will be attacked, while targets with numbers higher than Aventurine of Stratagems are considered to have won the bet and will have their Ultimates activated.",
+        "Desc": "Summons \"All or Nothing\" and makes all targets enter the gamble. Every time an \"All or Nothing\" is attacked, the target that launched the attack will receive a random number between 1 and 6. The next time \"Aventurine of Stratagems\" takes a turn, targets with numbers lower than \"Aventurine of Stratagems\" are considered to have lost the bet and will be attacked, while targets with numbers higher than \"Aventurine of Stratagems\" are considered to have won the bet and will have their Ultimates activated.",
         "SP": 0,
         "Threat": true
     },
     "803401006": {
         "Key": "Skill06",
         "Name": "The Loser's Time Is Over",
-        "Desc": "Deals Imaginary DMG to a target that lost the gamble, with a high chance of inflicting Imprisonment on the attacked target.",
+        "Desc": "Deals Imaginary DMG to a target that lost the Gamble, with a high chance of inflicting Imprisonment on the attacked target.",
         "SP": 20.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -8289,7 +8289,7 @@ var _monsterskill = {
     "803401007": {
         "Key": "Skill07",
         "Name": "The Winner Takes It All",
-        "Desc": "Deals Imaginary DMG to all targets that lost the gamble, with a high chance of inflicting Imprisonment on the attacked targets.",
+        "Desc": "Deals Imaginary DMG to all targets that lost the Gamble, with a high chance of inflicting Imprisonment on the attacked targets.",
         "SP": 20.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -8299,13 +8299,13 @@ var _monsterskill = {
     "803401008": {
         "Key": "Skill08",
         "Name": "Stratagems' Wagering",
-        "Desc": "Every time a target wins the gamble, they receive the Favored by Fortune effect that increases their DMG dealt. Every time a target loses the gamble, they receive the Down on Your Luck effect that increases DMG taken.",
+        "Desc": "Every time a target wins the Gamble, they receive the \"Favored by Fortune\" effect that increases their DMG dealt. Every time a target loses the Gamble, they receive the \"Down on Your Luck\" effect that increases DMG taken.",
         "SP": 0
     },
     "803203001": {
         "Key": "Skill01",
         "Name": "Fickle Fortune",
-        "Desc": "Immune to DMG. When this unit is attacked by a target that has entered the gamble, apply 1 random number (between 1 and 6) to the target.",
+        "Desc": "Immune to DMG. When this unit is attacked by a target that has entered the Gamble, apply 1 random number (between 1 and 6) to the target.",
         "SP": 0
     },
     "200203201": {
@@ -8387,7 +8387,7 @@ var _monsterskill = {
     "300301006": {
         "Key": "Skill03",
         "Name": "Flame-Forged Feast",
-        "Desc": "While not under the Charge state, immediately takes action when Stove Heating reaches a certain number of stacks, and uses Ignite Stove.",
+        "Desc": "While not under the Charge state, upon reaching a certain number of Stove Heating stacks, immediately takes action and uses Ignite Stove.",
         "SP": 0
     },
     "300301007": {
@@ -8402,7 +8402,7 @@ var _monsterskill = {
     },
     "300204001": {
         "Key": "Skill01",
-        "Name": "Set The Time",
+        "Name": "Set Alarm",
         "Desc": "Enters the Charge state. Uses Wake-Up Alarm for the next action.",
         "SP": 0
     },
@@ -9356,6 +9356,117 @@ var _monsterskill = {
         "Desc": "Every time the Abundant Ebon Deer gains a buff, DMG dealt by the Abundant Ebon Deer and all Ambrosial Arbor branches is slightly increased.",
         "SP": 0
     },
+    "302501001": {
+        "Key": "Skill01",
+        "Name": "Ability 1",
+        "Desc": "Deals minor Imaginary DMG to a single target.",
+        "SP": 10.0,
+        "Elem": "Imaginary"
+    },
+    "302501002": {
+        "Key": "Skill02",
+        "Name": "Ability 2",
+        "Desc": "Deals Imaginary DMG to all targets.",
+        "SP": 10.0,
+        "Elem": "Imaginary"
+    },
+    "302501003": {
+        "Key": "Skill03",
+        "Name": "Ability 3",
+        "Desc": "Makes a single target have a high chance of entering Alien Dream.",
+        "SP": 0
+    },
+    "302501004": {
+        "Key": "Skill04",
+        "Name": "Ability 4",
+        "Desc": "Enters the Charge state. Uses \"Ability 5\" in the next turn.",
+        "SP": 0
+    },
+    "302501005": {
+        "Key": "Skill042",
+        "Name": "Ability 8",
+        "Desc": "Enters the Charge state. Uses \"Ability 6\" in the next turn.",
+        "SP": 0
+    },
+    "302501006": {
+        "Key": "Skill05",
+        "Name": "Ability 5",
+        "Desc": "Makes all summons that can take action deal Imaginary DMG to a single target. After using an ability, restores Toughness for summons.",
+        "SP": 0,
+        "Threat": true
+    },
+    "302501007": {
+        "Key": "Skill052",
+        "Name": "Ability 5",
+        "Desc": "Makes all summons that can take action deal Imaginary DMG to a single target. After using an ability, restores Toughness for summons.",
+        "SP": 0
+    },
+    "302501008": {
+        "Key": "Skill06",
+        "Name": "Ability 6",
+        "Desc": "Deals Imaginary DMG to all targets, and makes all summons that can take action deal Imaginary DMG to all targets. After using an ability, restores Toughness for summons.",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "Threat": true
+    },
+    "302501009": {
+        "Key": "Skill07",
+        "Name": "Ability 7",
+        "Desc": "Enters the Buff State, gains a Shield, increases the DMG dealt, decreases the DMG taken, and makes Toughness immune to reduction.",
+        "SP": 0
+    },
+    "302501010": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501011": {
+        "Key": "Skill09",
+        "Name": "Ability 9",
+        "Desc": "Enters the Charge state. After 7 turns, uses \"Ability 10\".",
+        "SP": 0
+    },
+    "302501012": {
+        "Key": "Skill10",
+        "Name": "Ability 10",
+        "Desc": "Deals massive Imaginary DMG to all targets. This DMG application ignores 100% of the targets' DEF.",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "Threat": true
+    },
+    "302501013": {
+        "Key": "SkillP01",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501014": {
+        "Key": "SkillP02",
+        "Name": "Talent 1",
+        "Desc": "The DMG dealt to the summons is taken by Penacony Boss instead. When this unit and the summons get Weakness Broken, additionally delays action. For every stack of this unit's Toughness that is broken, applies Shield state to friendly units.",
+        "SP": 0
+    },
+    "302501101": {
+        "Key": "Skill01",
+        "Name": "Ability 1",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Imaginary"
+    },
+    "302501102": {
+        "Key": "Skill02",
+        "Name": "Ability 2",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Imaginary"
+    },
+    "302501103": {
+        "Key": "Skill03",
+        "Name": "Ability 3",
+        "Desc": "",
+        "SP": 0
+    },
     "202401315": {
         "Key": "Skill15",
         "Name": "Seeking Immortality",
@@ -9366,6 +9477,19 @@ var _monsterskill = {
         "Key": "Skill09",
         "Name": "",
         "Desc": "",
+        "SP": 0
+    },
+    "302201001": {
+        "Key": "Skill01",
+        "Name": "Ability 1",
+        "Desc": "Deals minor Imaginary DMG to a single target and delays their action slightly.",
+        "SP": 10.0,
+        "Elem": "Imaginary"
+    },
+    "302201002": {
+        "Key": "SkillP01",
+        "Name": "Talent 1",
+        "Desc": "The DMG dealt onto this unit is taken by the Penacony Boss instead.",
         "SP": 0
     },
     "100402501": {
@@ -9522,7 +9646,7 @@ var _monsterskill = {
     "301201001": {
         "Key": "Skill01",
         "Name": "Mirror Cognition",
-        "Desc": "Shapeshift into other friendly units and copies their abilities. After shapeshifting, this unit's Base Stats are inherited.",
+        "Desc": "Transforms into other friendly units and copies their abilities. After the transformation, this unit's Base Stats are inherited.",
         "SP": 0
     },
     "301201002": {
@@ -9698,12 +9822,191 @@ var _monsterskill = {
         "Desc": "When there are 4 Ambrosial Arbor branches on the field, the Toughness of the Abundant Ebon Deer cannot be depleted. The effect expires when any Ambrosial Arbor branch is defeated.",
         "SP": 0
     },
+    "300303001": {
+        "Key": "Skill01",
+        "Name": "Cleansing Flagellation",
+        "Desc": "Deals Physical DMG to a single target and slightly delays their action.",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "300303002": {
+        "Key": "Skill03",
+        "Name": "Admonishment of the Masses",
+        "Desc": "Deals minor Physical DMG to a single target and adjacent targets and slightly delays their action.",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "300303003": {
+        "Key": "Skill04",
+        "Name": "Shackle-Bearing Messenger",
+        "Desc": "Locks onto one target and enters the Charge state. In the next action, use Desmios Evangelion. During the Charge state, if this unit is attacked by another target, it will also lock onto the attacking target.",
+        "SP": 0,
+        "Elem": "Phys"
+    },
+    "300303004": {
+        "Key": "Skill05",
+        "Name": "Desmios Evangelion",
+        "Desc": "Deals massive Physical DMG that is equally distributed across all locked targets.",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "Threat": true
+    },
+    "300303005": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "300303006": {
+        "Key": "Skill06",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "300303007": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "Threat": true
+    },
+    "300304001": {
+        "Key": "Skill01",
+        "Name": "All Is Bright",
+        "Desc": "Deals Imaginary DMG to a single target.",
+        "SP": 5.0,
+        "Elem": "Imaginary"
+    },
+    "300304002": {
+        "Key": "Skill02",
+        "Name": "All Is Calm",
+        "Desc": "High chance of inflicting Alien Dream to a single target.",
+        "SP": 10.0
+    },
+    "300304003": {
+        "Key": "Skill03",
+        "Name": "Redeeming Grace",
+        "Desc": "Deals Imaginary DMG to a single target.",
+        "SP": 15.0,
+        "Elem": "Imaginary"
+    },
+    "300304004": {
+        "Key": "Skill04",
+        "Name": "Holy Night",
+        "Desc": "Enters the Charge state. Uses Sleep In Heavenly Peace for the next action.",
+        "SP": 10.0
+    },
+    "300304005": {
+        "Key": "Skill05",
+        "Name": "Sleep In Heavenly Peace",
+        "Desc": "High chance of inflicting Alien Dream to all targets.",
+        "SP": 15.0,
+        "Threat": true
+    },
+    "300304006": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "",
+        "Desc": "",
+        "SP": 0,
+        "Elem": "Imaginary"
+    },
+    "300304007": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "Threat": true
+    },
+    "300305001": {
+        "Key": "Skill01",
+        "Name": "Precious Blood Shed For You",
+        "Desc": "High chance of inflicting Carousal of Wantonness or Carousal of Revelry to a single target.",
+        "SP": 5.0,
+        "Elem": "Wind"
+    },
+    "300305002": {
+        "Key": "Skill02",
+        "Name": "Feast That Is Set For You",
+        "Desc": "High chance of inflicting Carousal of Wantonness or Carousal of Revelry to all targets.",
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "300305003": {
+        "Key": "Skill03",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Wind"
+    },
+    "300305004": {
+        "Key": "Skill04",
+        "Name": "A Cup Runneth Over For You",
+        "Desc": "Enters the Charge state, with a high chance of inflicting Carousal of Wantonness or Carousal of Revelry to all targets. In the next Action, use Wash Away All Sins For You.",
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "300305005": {
+        "Key": "Skill05",
+        "Name": "Wash Away All Sins For You",
+        "Desc": "Immediately detonate all DoT currently active on all targets and dispel all DoT effects on all targets.",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Threat": true
+    },
+    "300305006": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "",
+        "Desc": "",
+        "SP": 0,
+        "Elem": "Wind"
+    },
+    "300305007": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Threat": true
+    },
     "200402310": {
         "Key": "Skill02_Extra",
         "Name": "Swallow Return",
         "Desc": "Summons 4 Flying Swords (Illusion) and gains the Sword Formation effect that increases this unit's SPD. The Flying Swords' Weaknesses will be hidden initially and are revealed once they are attacked by the correct DMG type. Flying Swords (Illusion) can only be destroyed once they are Weakness Broken, and their Weaknesses will be transferred to the remaining Flying Swords. After inflicting Weakness Break on all Flying Swords (Illusion), the Sword Formation effect will be dispelled.",
         "SP": 10.0,
         "Threat": true
+    },
+    "300202001": {
+        "Key": "Skill04",
+        "Name": "Hotluck",
+        "Desc": "Deals Physical DMG to a single target.",
+        "SP": 15.0,
+        "Elem": "Phys"
+    },
+    "300202002": {
+        "Key": "PassiveSkill02",
+        "Name": "Dreamjolt Prizepool",
+        "Desc": "When receiving a killing blow from the designated attack type, triggers different effect based on the attack type.",
+        "SP": 0
+    },
+    "300202003": {
+        "Key": "Skill01",
+        "Name": "You Lose!",
+        "Desc": "After suffering a killing blow from a Basic ATK, recovers Skill Points.",
+        "SP": 0
+    },
+    "300202004": {
+        "Key": "Skill02",
+        "Name": "Guaranteed!",
+        "Desc": "After suffering a killing blow from a Skill or follow-up attack, regenerate Energy.",
+        "SP": 0
+    },
+    "300202005": {
+        "Key": "Skill03",
+        "Name": "Here Come the Goods!",
+        "Desc": "After suffering a killing blow from an Ultimate, regenerate Energy.",
+        "SP": 0
     },
     "301203101": {
         "Key": "Skill01",
@@ -9729,6 +10032,24 @@ var _monsterskill = {
         "Desc": "",
         "SP": 0,
         "Elem": "Phys"
+    },
+    "301204001": {
+        "Key": "Skill01",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "301204002": {
+        "Key": "Skill02",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "301204003": {
+        "Key": "SkillP01",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
     },
     "300301101": {
         "Key": "Skill01",
@@ -9779,7 +10100,7 @@ var _monsterskill = {
     "300301106": {
         "Key": "Skill03",
         "Name": "Flame-Forged Feast",
-        "Desc": "While not under the Charge state, immediately takes action when Stove Heating reaches a certain number of stacks, and uses Ignite Stove.",
+        "Desc": "While not under the Charge state, upon reaching a certain number of Stove Heating stacks, immediately takes action and uses Ignite Stove.",
         "SP": 0
     },
     "300301107": {
@@ -9857,7 +10178,7 @@ var _monsterskill = {
     "302402106": {
         "Key": "PassiveSkill01",
         "Name": "SGE: Molten Core",
-        "Desc": "After entering Secondary Combustion, Combusts the area and targets' Skill Points. When consuming Combusted Skill Points, targets lose HP and additionally deal a set amount of Fire DMG equal to a certain percentage of the original DMG. When they receive healing from other characters, the amount of HP restored is massively reduced.",
+        "Desc": "After entering Secondary Combustion, Combusts both the area and targets' Skill Points. When consuming Combusted Skill Points, targets lose HP and additionally deal a set amount of Fire DMG equal to a certain percentage of the original DMG. When they receive healing from other characters, the amount of HP restored is massively reduced.",
         "SP": 0,
         "DMG": [
             2.4
@@ -9995,7 +10316,7 @@ var _monsterskill = {
     "301402106": {
         "Key": "Skill06",
         "Name": "Go Into That Good Night",
-        "Desc": "Enters the Nightfall state and locks onto the 2 targets who are due to act next. Uses Watery Dissolution in the next action.",
+        "Desc": "Enters the Nightfall state, regenerates energy for all targets, and locks onto the 2 targets who are due to act next. Uses Watery Dissolution in the next action.",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -10005,7 +10326,7 @@ var _monsterskill = {
     "301402107": {
         "Key": "Skill07",
         "Name": "Watery Dissolution",
-        "Desc": "Immediately launches a killing blow on all locked-on targets and inflicts Morbid Dream on them. If there are no locked-on targets, launch a killing blow on 2 random targets and inflict Morbid Dream on them.",
+        "Desc": "Immediately launches a killing blow on all locked-on targets and inflicts Morbid Dream on them. If there are no locked-on targets, launches a killing blow on 2 random targets and inflicts Morbid Dream on them.",
         "SP": 0,
         "Threat": true
     },
@@ -10076,38 +10397,10 @@ var _monsterskill = {
         "Desc": "Enters the Safeguard state. When not Weakness Broken, reduces DMG received. Once Weakness is Broken, action will be additionally delayed. After Weakness is Broken, increases DMG received.",
         "SP": 0
     },
-    "301301006": {
-        "Key": "Skill06",
-        "Name": "",
-        "Desc": "",
-        "SP": 10.0,
-        "Elem": "Fire"
-    },
-    "301301007": {
-        "Key": "Skill07",
-        "Name": "",
-        "Desc": "",
-        "SP": 5.0,
-        "Elem": "Fire",
-        "Threat": true
-    },
-    "301301008": {
-        "Key": "SkillP01",
-        "Name": "",
-        "Desc": "",
-        "SP": 0
-    },
-    "102302201": {
-        "Key": "Skill01",
-        "Name": "",
-        "Desc": "",
-        "SP": 10.0,
-        "Elem": "Ice"
-    },
     "302402007": {
         "Key": "Skill06",
         "Name": "SGE: Molten Engine",
-        "Desc": "While in Secondary Combustion, Sam possesses Molten Energy. A corresponding amount of Molten Energy can be depleted upon being attacked with Skills using Skill Points. When Molten Energy is depleted or the unit is Weakness Broken, dispels Secondary Combustion. When Secondary Combustion is dispelled, Sam receives increased DMG, and recovers Skill Points back to full for the targets.",
+        "Desc": "While in Secondary Combustion, Sam possesses Molten Energy. When Sam is attacked and the attack consumes Skill Points, a corresponding amount of Molten Energy is reduced. When Molten Energy is depleted or when the Weakness is Broken, dispels Secondary Combustion. When Secondary Combustion is dispelled, Sam receives increased DMG, and recovers all Skill Points for the targets.",
         "SP": 0,
         "Status": [
             230240201,
@@ -10119,7 +10412,7 @@ var _monsterskill = {
     "302402107": {
         "Key": "Skill06",
         "Name": "SGE: Molten Engine",
-        "Desc": "While in Secondary Combustion, Sam possesses Molten Energy. A corresponding amount of Molten Energy can be depleted upon being attacked with Skills using Skill Points. When Molten Energy is depleted or the unit is Weakness Broken, dispels Secondary Combustion. When Secondary Combustion is dispelled, Sam receives increased DMG, and recovers Skill Points back to full for the targets.",
+        "Desc": "While in Secondary Combustion, Sam possesses Molten Energy. When Sam is attacked and the attack consumes Skill Points, a corresponding amount of Molten Energy is reduced. When Molten Energy is depleted or when the Weakness is Broken, dispels Secondary Combustion. When Secondary Combustion is dispelled, Sam receives increased DMG, and recovers all Skill Points for the targets.",
         "SP": 0,
         "Status": [
             230240201,
@@ -10128,164 +10421,178 @@ var _monsterskill = {
             230240204
         ]
     },
-    "100301401": {
+    "300303101": {
         "Key": "Skill01",
-        "Name": "Assault",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Name": "Cleansing Flagellation",
+        "Desc": "Deals Physical DMG to a single target and slightly delays their action.",
         "SP": 10.0,
         "Elem": "Phys"
     },
-    "100301402": {
-        "Key": "Skill06",
-        "Name": "Pierce",
-        "Desc": "Deals massive Physical DMG to a single target.",
-        "SP": 20.0,
-        "Elem": "Phys"
-    },
-    "100301403": {
-        "Key": "Skill07",
-        "Name": "Shield Reflect",
-        "Desc": "Goes into the Counter state. When attacked by a single character, gains 1 extra turn and deals Physical DMG to the target.",
-        "SP": 0
-    },
-    "100301404": {
-        "Key": "Skill08",
-        "Name": "Reinforcement",
-        "Desc": "Summons Silvermane Soldiers or Silvermane Gunners",
-        "SP": 0
-    },
-    "100301405": {
-        "Key": "Skill09",
-        "Name": "Rallying",
-        "Desc": "Increases ATK for all friendly units except Silvermane Lieutenant (Error) and causes them to act immediately.",
-        "SP": 0,
-        "Threat": true
-    },
-    "803301301": {
-        "Key": "Skill01",
-        "Name": "",
-        "Desc": "",
-        "SP": 10.0,
-        "Elem": "Phys"
-    },
-    "803301303": {
-        "Key": "Skill02",
-        "Name": "",
-        "Desc": "",
-        "SP": 0
-    },
-    "803301304": {
+    "300303102": {
         "Key": "Skill03",
-        "Name": "",
-        "Desc": "",
-        "SP": 20.0,
+        "Name": "Admonishment of the Masses",
+        "Desc": "Deals minor Physical DMG to a single target and adjacent targets and slightly delays their action.",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "300303103": {
+        "Key": "Skill04",
+        "Name": "Shackle-Bearing Messenger",
+        "Desc": "Locks onto one target and enters the Charge state. In the next action, use Desmios Evangelion. During the Charge state, if this unit is attacked by another target, it will also lock onto the attacking target.",
+        "SP": 0,
+        "Elem": "Phys"
+    },
+    "300303104": {
+        "Key": "Skill05",
+        "Name": "Desmios Evangelion",
+        "Desc": "Deals massive Physical DMG that is equally distributed across all locked targets.",
+        "SP": 15.0,
         "Elem": "Phys",
         "Threat": true
     },
-    "803301305": {
-        "Key": "Skill04",
-        "Name": "",
-        "Desc": "",
-        "SP": 0
-    },
-    "803301306": {
-        "Key": "Skill05",
-        "Name": "",
-        "Desc": "",
-        "SP": 0
-    },
-    "803301302": {
-        "Key": "Skill06",
-        "Name": "",
-        "Desc": "",
-        "SP": 15.0,
-        "Elem": "Phys"
-    },
-    "803301307": {
-        "Key": "Skill07",
-        "Name": "",
-        "Desc": "",
-        "SP": 0
-    },
-    "803301308": {
+    "300303105": {
         "Key": "PassiveSkillInitiate",
         "Name": "",
         "Desc": "",
         "SP": 0
     },
-    "802401301": {
-        "Key": "Skill01",
-        "Name": "Time to Battle",
-        "Desc": "Deals minor Wind DMG to a single target, with a high chance to inflict 2 stacks of Wind Shear.",
-        "SP": 10.0,
-        "Elem": "Wind"
-    },
-    "802401310": {
-        "Key": "Skill08",
+    "300303106": {
+        "Key": "Skill06",
         "Name": "",
         "Desc": "",
-        "SP": 10.0,
-        "Elem": "Wind"
+        "SP": 0
     },
-    "802401302": {
+    "300303107": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "Threat": true
+    },
+    "300304101": {
+        "Key": "Skill01",
+        "Name": "All Is Bright",
+        "Desc": "Deals Imaginary DMG to a single target.",
+        "SP": 5.0,
+        "Elem": "Imaginary"
+    },
+    "300304102": {
         "Key": "Skill02",
-        "Name": "War Gear",
-        "Desc": "Deals minor Wind DMG to a single target. If the target is currently suffering from Wind Shear, Wind Shear immediately causes DMG 1 time.",
-        "SP": 20.0,
-        "Elem": "Wind"
+        "Name": "All Is Calm",
+        "Desc": "High chance of inflicting Alien Dream to a single target.",
+        "SP": 10.0
     },
-    "802401303": {
+    "300304103": {
         "Key": "Skill03",
-        "Name": "Cyclonic Swarm",
-        "Desc": "Deals Wind DMG to all targets, with a high chance to cause Wind Shear.",
+        "Name": "Redeeming Grace",
+        "Desc": "Deals Imaginary DMG to a single target.",
+        "SP": 15.0,
+        "Elem": "Imaginary"
+    },
+    "300304104": {
+        "Key": "Skill04",
+        "Name": "Holy Night",
+        "Desc": "Enters the Charge state. Uses Sleep In Heavenly Peace for the next action.",
+        "SP": 10.0
+    },
+    "300304105": {
+        "Key": "Skill05",
+        "Name": "Sleep In Heavenly Peace",
+        "Desc": "High chance of inflicting Alien Dream to all targets.",
+        "SP": 15.0,
+        "Threat": true
+    },
+    "300304106": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "",
+        "Desc": "",
+        "SP": 0,
+        "Elem": "Imaginary"
+    },
+    "300304107": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "Threat": true
+    },
+    "300305101": {
+        "Key": "Skill01",
+        "Name": "Precious Blood Shed For You",
+        "Desc": "High chance of inflicting Carousal of Wantonness or Carousal of Revelry to a single target.",
+        "SP": 5.0,
+        "Elem": "Wind"
+    },
+    "300305102": {
+        "Key": "Skill02",
+        "Name": "Feast That Is Set For You",
+        "Desc": "High chance of inflicting Carousal of Wantonness or Carousal of Revelry to all targets.",
         "SP": 10.0,
         "Elem": "Wind"
     },
-    "802401304": {
+    "300305103": {
+        "Key": "Skill03",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Wind"
+    },
+    "300305104": {
         "Key": "Skill04",
-        "Name": "Propagation",
-        "Desc": "Spawns True Stings.",
-        "SP": 0
-    },
-    "802401311": {
-        "Key": "Skill10",
-        "Name": "Propagation",
-        "Desc": "Spawns True Stings.",
-        "SP": 0
-    },
-    "802401305": {
-        "Key": "Skill05",
-        "Name": "Ready Order",
-        "Desc": "Enters the Charge state. Uses Swarm Onslaught for the next action.",
-        "SP": 0
-    },
-    "802401306": {
-        "Key": "Skill06",
-        "Name": "Swarm Onslaught",
-        "Desc": "Dispels all Crowd Control debuffs and Weakness Break affecting True Stings. Deals Wind DMG to the target, and causes the target to have a high chance of being inflicted with 1 stack of Wind Shear every time they take DMG.",
+        "Name": "A Cup Runneth Over For You",
+        "Desc": "Enters the Charge state, with a high chance of inflicting Carousal of Wantonness or Carousal of Revelry to all targets. In the next Action, use Wash Away All Sins For You.",
         "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "300305105": {
+        "Key": "Skill05",
+        "Name": "Wash Away All Sins For You",
+        "Desc": "Immediately detonate all DoT currently active on all targets and dispel all DoT effects on all targets.",
+        "SP": 15.0,
         "Elem": "Wind",
         "Threat": true
     },
-    "802401307": {
-        "Key": "Skill07",
-        "Name": "Swarm Onslaught",
-        "Desc": "Dispels all Crowd Control debuffs and Weakness Break affecting True Stings. Deals Wind DMG to the target, and causes the target to have a high chance of being inflicted with 1 stack of Wind Shear every time they take DMG.",
-        "SP": 10.0,
-        "Elem": "Wind"
-    },
-    "802401308": {
-        "Key": "PassiveSkill01",
-        "Name": "Transmission Pheromone",
-        "Desc": "Each time a True Sting is spawned, increases all True Stings' DMG dealt by 1 stack. Only 1 Transmission Pheromone effect can exist in battle at once.",
-        "SP": 0
-    },
-    "802401309": {
-        "Key": "PassiveSkill02",
-        "Name": "Entomon Eulogy",
-        "Desc": "When receiving a killing blow, deals Wind DMG to all friendly units, with a high chance to slightly increase their DMG received.",
+    "300305106": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "",
+        "Desc": "",
         "SP": 0,
         "Elem": "Wind"
+    },
+    "300305107": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Threat": true
+    },
+    "302501104": {
+        "Key": "Skill04",
+        "Name": "Ability 4",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501105": {
+        "Key": "Skill05",
+        "Name": "Ability 5",
+        "Desc": "",
+        "SP": 0,
+        "Threat": true
+    },
+    "302501106": {
+        "Key": "Skill052",
+        "Name": "Ability 5",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501107": {
+        "Key": "SkillP02",
+        "Name": "Talent 1",
+        "Desc": "",
+        "SP": 0
     },
     "300302001": {
         "Key": "Skill01",
@@ -10358,13 +10665,13 @@ var _monsterskill = {
     "301402203": {
         "Key": "Skill03",
         "Name": "Harrowing Obituary",
-        "Desc": "Increases DMG dealt for 1 turn. This effect is removed when this unit becomes Weakness Broken. Every time this ability is used, gains 1 stack of DMG Boost, and increases the HP of any subsequently summoned Sombrous Sepulcher by 1 bar.",
+        "Desc": "Increases the DMG dealt by this unit for 1 turn. This effect is removed when this unit becomes Weakness Broken. Every time this ability is used, gains 1 stack of DMG Boost, and increases the HP of any subsequently summoned Sombrous Sepulcher by 1 bar.",
         "SP": 0
     },
     "301402204": {
         "Key": "Skill04",
         "Name": "Fading Radiance",
-        "Desc": "Enters the Sunset state. Gains 1 stack each time a character uses Basic ATK, Skill, or Ultimate. When Sunset reaches 3 stacks, immediately use Losing Eventide Light on the last-acting target. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken.",
+        "Desc": "Enters the Sunset state. Gains 1 stack each time a character uses Basic ATK, Skill, or Ultimate. When Sunset reaches 3 stacks, immediately uses Losing Eventide Light on the last-acting target. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken.",
         "SP": 0,
         "Threat": true
     },
@@ -10378,7 +10685,7 @@ var _monsterskill = {
     "301402206": {
         "Key": "Skill06",
         "Name": "Go Into That Good Night",
-        "Desc": "Enters the Nightfall state and obtain the Weakness Protected effect. Locks onto the 2 targets who are due to act next. Uses Watery Dissolution in the next action.",
+        "Desc": "Enters the Nightfall state, gains the Weakness Protected effect, regenerates energy for all characters, and locks onto the 2 characters who are due to act next. Uses Watery Dissolution in the next action.",
         "SP": 0,
         "Threat": true
     },
@@ -10398,7 +10705,7 @@ var _monsterskill = {
     "301402209": {
         "Key": "PassiveSkill02",
         "Name": "Sad True Lover Never Find My Grave",
-        "Desc": "Whenever a target gets inflicted with Morbid Dream, summons a corresponding Sombrous Sepulcher. When all targets get inflicted with Morbid Dream or are knocked down, this battle will be considered a defeat.",
+        "Desc": "Whenever a character gets inflicted with Morbid Dream, summons a corresponding Sombrous Sepulcher. When all characters get inflicted with Morbid Dream or are knocked down, this battle will be considered a defeat.",
         "SP": 0
     },
     "300301201": {
@@ -10417,7 +10724,7 @@ var _monsterskill = {
     },
     "300301203": {
         "Key": "Skill06",
-        "Name": "Stov Detonation",
+        "Name": "Stove Detonation",
         "Desc": "Enters the Charge state and increases SPD. Until Stove Heating has reached a certain number of stacks, this unit will use Flaming Stir-Fry at every turn.",
         "SP": 0,
         "Elem": "Fire"
@@ -10440,7 +10747,7 @@ var _monsterskill = {
     "300301206": {
         "Key": "Skill03",
         "Name": "Flame-Forged Feast",
-        "Desc": "While not under the Charge state, immediately takes action when Stove Heating reaches a certain number of stacks, and uses Stov Detonation.",
+        "Desc": "While not under the Charge state, upon reaching a certain number of Stove Heating stacks, immediately takes action and uses Stove Detonation.",
         "SP": 0
     },
     "300301207": {
@@ -10452,7 +10759,7 @@ var _monsterskill = {
     "300302201": {
         "Key": "Skill01",
         "Name": "Limitless Free Drinks",
-        "Desc": "Deals Ice DMG to a single target, with a small chance of applying Freeze to the attacked target if it does not have a Shield. If the target has a Shield, additionally deal Ice DMG to this unit with a high chance to decrease this unit's DEF.",
+        "Desc": "Deals Ice DMG to a single target, with a small chance of Freezing the attacked target if it does not have a Shield. If the target has a Shield, additionally deal Ice DMG to this unit with a high chance to decrease this unit's DEF.",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -10462,7 +10769,7 @@ var _monsterskill = {
     "300302202": {
         "Key": "Skill02",
         "Name": "Frenzied Free Drinks",
-        "Desc": "Deals Ice DMG 4 times to a random single target, with a high chance of applying Freeze to the attacked target if it does not have a Shield. If the target has a Shield, additionally deal Ice DMG to this unit with a high chance to decrease this unit's DEF.",
+        "Desc": "Deals Ice DMG 4 times to a random single target, with a high chance of Freezing to the attacked target if it does not have a Shield. If the target has a Shield, additionally deal Ice DMG to this unit with a high chance to decrease this unit's DEF.",
         "SP": 10.0,
         "Elem": "Ice",
         "Threat": true,
@@ -10536,6 +10843,310 @@ var _monsterskill = {
         "Name": "Disembodied Shell",
         "Desc": "Enters the Safeguard state. When not Weakness Broken, reduces DMG received. Once Weakness is Broken, action will be additionally delayed. After Weakness is Broken, increases DMG received.",
         "SP": 0
+    },
+    "302501201": {
+        "Key": "Skill01",
+        "Name": "Ability 1",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Imaginary"
+    },
+    "302501202": {
+        "Key": "Skill02",
+        "Name": "Ability 2",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Imaginary"
+    },
+    "302501203": {
+        "Key": "Skill03",
+        "Name": "Ability 3",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501204": {
+        "Key": "Skill04",
+        "Name": "Ability 4",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501205": {
+        "Key": "Skill042",
+        "Name": "Ability 8",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501206": {
+        "Key": "Skill05",
+        "Name": "Ability 5",
+        "Desc": "",
+        "SP": 0,
+        "Threat": true
+    },
+    "302501207": {
+        "Key": "Skill052",
+        "Name": "Ability 5",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501208": {
+        "Key": "Skill06",
+        "Name": "Ability 6",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "Threat": true
+    },
+    "302501209": {
+        "Key": "Skill07",
+        "Name": "Ability 7",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501210": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501211": {
+        "Key": "Skill09",
+        "Name": "Ability 9",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501212": {
+        "Key": "Skill10",
+        "Name": "Ability 10",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "Threat": true
+    },
+    "302501213": {
+        "Key": "SkillP01",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501214": {
+        "Key": "SkillP02",
+        "Name": "Talent 1",
+        "Desc": "",
+        "SP": 0
+    },
+    "300401002": {
+        "Key": "Skill01",
+        "Name": "Rise, By Divine Grace",
+        "Desc": "When entering battle, chose a target to become Sacrosanct, granting them an extra action each turn and a small increase to their SPD. When the target's Weakness is Broken, causes their action to be delayed, and reselects another Puppet of the Order to be Sacrosanct. If at this time all Puppets of the Order are Weakness Broken, they will deal DMG to themselves and delay all Puppets' actions while also increasing the DMG they receive. When any Puppet recovers from being Weakness Broken, they will be designated as the new Sacrosanct.",
+        "SP": 0
+    },
+    "300401004": {
+        "Key": "Skill02",
+        "Name": "Rise, Heed Thy Command",
+        "Desc": "Adds Commandment to the action bar. Every time Commandment acts, dispels all Crowd Control debuffs and Weakness Broken states afflicting the Puppets of the Order and causes \"Present Inebriated in Revelry\" to immediately take action, unleashing Dance for the Unity. When a Puppet of the Order is Weakness Broken, the Commandment will suffer a slight action delay.",
+        "SP": 0
+    },
+    "300401003": {
+        "Key": "Skill03",
+        "Name": "Fall, By the People's Voice",
+        "Desc": "Causes all Puppets of the Order to become Sacrosanct, granting them an extra action each turn and a small increase to their SPD. When the target's Weakness is Broken, causes their action to be delayed. If at this time all Puppets of the Order are Weakness Broken, they will deal DMG to themselves and delay all Puppets' actions while also increasing the DMG they receive. When a Puppet recovers from being Weakness Broken, they will be designated as the new Sacrosanct.",
+        "SP": 0
+    },
+    "300401001": {
+        "Key": "Skill04",
+        "Name": "Unify, Become One",
+        "Desc": "In this battle, The Past, Present, and Eternal Show shares HP with the Order's Puppets.",
+        "SP": 0
+    },
+    "102302201": {
+        "Key": "Skill01",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "302402201": {
+        "Key": "Skill01",
+        "Name": "BHF: Fiery Advance",
+        "Desc": "Deals minor Fire DMG to a single target.",
+        "SP": 10.0,
+        "Elem": "Fire"
+    },
+    "302402202": {
+        "Key": "Skill02",
+        "Name": "BHF: Heavenly Fire",
+        "Desc": "Deals minor Fire DMG to a single target and any adjacent targets.",
+        "SP": 10.0,
+        "Elem": "Fire"
+    },
+    "302402203": {
+        "Key": "Skill03",
+        "Name": "BBHF: Scorched Earth",
+        "Desc": "Deals minor Fire DMG to all targets.",
+        "SP": 15.0,
+        "Elem": "Fire"
+    },
+    "302402204": {
+        "Key": "Skill04",
+        "Name": "DHGDR: Secondary Combustion",
+        "Desc": "Consumes own HP to enter the Secondary Combustion state and dispels the Weakness Protected effect. Becomes significantly more powerful after entering the Secondary Combustion state, but all attacks consume own HP.",
+        "SP": 0,
+        "Threat": true
+    },
+    "302402205": {
+        "Key": "Skill05",
+        "Name": "DHGDR: Supernova Overload",
+        "Desc": "Deals Fire DMG to all targets, with a high chance to Burn them.",
+        "SP": 20.0,
+        "Elem": "Fire",
+        "Threat": true
+    },
+    "302402206": {
+        "Key": "PassiveSkill01",
+        "Name": "SGE: Molten Core",
+        "Desc": "After entering Secondary Combustion, Combusts both the area and targets' Skill Points. When consuming Combusted Skill Points, targets lose HP and additionally deal a set amount of Fire DMG equal to a certain percentage of the original DMG. When they receive healing from other characters, the amount of HP restored is massively reduced.",
+        "SP": 0
+    },
+    "302402207": {
+        "Key": "Skill06",
+        "Name": "SGE: Molten Engine",
+        "Desc": "While in Secondary Combustion, Sam possesses Molten Energy. When Sam is attacked and the attack consumes Skill Points, a corresponding amount of Molten Energy is reduced. When Molten Energy is depleted or when the Weakness is Broken, dispels Secondary Combustion. When Secondary Combustion is dispelled, Sam receives increased DMG, and recovers all Skill Points for the targets.",
+        "SP": 0
+    },
+    "300401005": {
+        "Key": "Skill05",
+        "Name": "",
+        "Desc": "",
+        "SP": 0,
+        "Threat": true
+    },
+    "100402701": {
+        "Key": "Skill01",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "100402702": {
+        "Key": "Skill02",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Ice"
+    },
+    "100402703": {
+        "Key": "Skill03",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "100402704": {
+        "Key": "Skill04",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "100402705": {
+        "Key": "Skill05",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "100402707": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "100402708": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "",
+        "SP": 0,
+        "Elem": "Ice"
+    },
+    "100402709": {
+        "Key": "SkillP01",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "100402710": {
+        "Key": "SkillP01",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "100402711": {
+        "Key": "SkillP01",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "200402401": {
+        "Key": "Skill01",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "200402402": {
+        "Key": "Skill02",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0
+    },
+    "200402403": {
+        "Key": "Skill03",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Ice"
+    },
+    "200402404": {
+        "Key": "Skill04",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "200402405": {
+        "Key": "Skill05",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0
+    },
+    "200402406": {
+        "Key": "Skill06",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "200402407": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "200402408": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "200402409": {
+        "Key": "SkillP01",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0
     },
     "104201": {
         "Name": "Yunlai Swordsmanship",

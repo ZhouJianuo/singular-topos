@@ -443,24 +443,188 @@ var _story_ = {
 var _voice_ = {
     "1305": [
         {
-            "_id": 1,
-            "Story": "A candid and self-assured Intelligentsia Guild member, who often conceals his appearance with a strange plaster sculpture.<br>He demonstrated unparalleled intelligence and talent since his youth, but now refers to himself as a \"Mundanite.\"<br>Firmly believing that intellect and creativity are not confined to geniuses, he seeks to distribute knowledge to the entire universe to cure the persistent disease named ignorance."
+            "Title": "First Meeting",
+            "Voice": "I am Dr. Ratio, a scholar and teacher of the Intelligentsia Guild, and one of the mediocres. If one day your brain shows symptoms of dullness, then please give the doctor a call."
         },
         {
-            "_id": 2,
-            "Story": "Veritas Ratio, who calls himself \"Dr. Ratio,\" is as contentious as his research. In Ratio's homeworld, there are no less than eight documentaries detailing his legendary exploits, and over a dozen memoirs about him. However, despite the plethora of commentaries, none of them seems to provide a compelling perspective. To fill this void, I personally visited Professor Rond, who had a significant influence on Ratio's upbringing. Though advanced in years and unable to speak coherently, Professor Rond couldn't contain his excitement at the mention of Ratio's name. With the help of his family and students, I obtained a yellowed yet remarkably well-preserved letter of recommendation.<br><br><i><br>\"To the respected admission committee of the University of Veritas Prime:<br><br>I am Rond, Professor Emeritus of the Department of Mathematics at the Cosmos Liberty University. Given your institution's reputation for valuing talents and education, I would like to recommend a student named Ratio to advance his studies at your university. Although Ratio is a middle school student at the moment, his mastery of math, physics, and even philosophy has far exceeded the requirements for an undergraduate degree in many universities.<br><br>While he was under my tutelage, Ratio managed to solve complicated mathematical equations at an unexpectedly staggering speed. The undergraduates in my class struggled to even comprehend the concepts. Out of curiosity, I shared a manuscript about an equation named Rond's Conjecture in private. Although I'm the one who proposed the equation, I've been unable to prove it. After days of discussion, Ratio came up with a brilliant and stunning idea that managed to finally prove the equation in one strike. The paper will be published shortly, and you will see that I am speaking the truth.<br><br>Ratio showed remarkable perception, curiosity, and creativity during the time we spent together. He wakes up early every morning to exercise before diving straight into the sea of knowledge afterward. Perhaps, he is exactly what everyone would picture a genius to be — passionate, profound, fervent, and inherently dominating.<br><br>Due to the lack of more advanced science programs at local schools, I sincerely hope that your esteemed institution will accept Ratio's enrollment. I can vouch for him on my reputation that he will definitely achieve accomplishments that transcend this era and bring glory to your widely-renowned institution.<br><br>Best wishes,<br>Rond<br>██ ██ ██, Philosopher Calendar\"</i><br><br>Extracted from page 9, <i>Wisdom as a Privilege: Decoding Dr. Ratio</i>"
+            "Title": "Greeting",
+            "Voice": "You look distressed. Is something troubling you? If so, you can figure it out for yourself."
         },
         {
-            "_id": 3,
-            "Story": "After acquiring his eighth doctoral degree, Ratio was awarded the First Class Honors Degree that had been left vacant for two Amber Eras in the University of Veritas Prime. Even many years later, this achievement remained unparalleled in the history of the university and was likely to remain unmatched for generations to come. At that time, Ratio was already a prominent figure in society, but there were varying opinions about him among his teachers and peers. This is the electronic copy of some valuable information I gathered:<br><br>\"<br><b>Campus Highlights:</b><br><b>1. #First Class Honors Degree Awarded to Veritas Ratio#</b><br>Views (2500), Comments (145)<br>Details:<br>The First Class Honors Degree of our university that has been vacant for two Amber Eras will soon be awarded to Veritas Ratio in recognition of his outstanding achievements in the fields of biology, medicine, natural theology, philosophy, mathematics, physics, engineering, etc. Given his remarkable contribution to the subject of energy sources on this planet, Veritas Ratio will be granted direct eligibility for teaching.<br><br><b>Professor Velita, Department of Mathematics</b>:<br>Congratulations to Ratio! He deserves all the glory for his diligence and intelligence! Do you still remember how he put on a headgear to keep away all external distractions and completely focus on thinking? Who else in the world could manage that? Although Ratio was my student for some time, I'm afraid I actually learned more from him than what I taught him. Ratio was a breath of fresh air at the University of Veritas Prime with his honesty and straightforwardness. We should all be grateful to him!<br>Agree (1000+), Disagree (2)<br><b>Philosophy_Delinquent</b>:<br>Shouldn't he be a member of the Genius Society already?<br>Agree (850), Disagree (5)<br><b>Physics_Is_Beautiful</b>:<br>Rumor has it that some congressman's son attended a class where Ratio was the TA. The guy tossed some cash on Ratio, trying to bribe him for a pass. Ratio came down hard on the guy and threw him out of the classroom. That's right — he literally THREW him... What a god among men.<br>Agree (550), Disagree (112)<br><b>BearMarket_Loser</b><br>I once went to a class where he was the TA and couldn't wrap my head around what he was saying. I held on to the end and scored 0. I count myself lucky that my score wasn't negative...<br>Agree (448), Disagree (37)<br><b>Cosmos_Walker</b><br>Give me a like if you've ever cried because of his scolding!<br>Agree (330), Disagree (110)<br><b>BoredomKillledTheCat</b><br>Is it true that he showers with his headgear on?<br>Agree (220), Disagree (10)<br><b>Follow-My-Lead</b><br>He's not that great, is he? I can do the same if I just work harder...<br>Agree (1), Disagree (1000)<br>...<br>You might like:<br>2. #The 8th Doctoral Degree Under Ratio's Belt#<br>3. #Ratio Featured in College Textbooks#<br>4. #Is Veritas Ratio Crazy?#<br>\"<br><br>According to statistics, Ratio has taught 52 courses during his tenure. The courses, known to be harsh and challenging, have a completion rate of no more than 3%. Almost all the students who made it to the end have become experts in certain fields.<br>...<br>Extracted from page 82, <i>Wisdom as a Privilege: Decoding Dr. Ratio</i>"
+            "Title": "Parting",
+            "Voice": "Another day has passed. If your problem still hasn't been solved, is it possible that the problem is you?"
         },
         {
-            "_id": 4,
-            "Story": "It is widely speculated that Ratio aspires to join the Genius Society, though he has never spoken about the subject. No matter how amazing Ratio's accomplishments are in the eyes of the ordinary folks, Nous has never batted an eye at him. This issue has become a much-discussed mystery in the academic community over time. I reached out to Margaret, a former assistant of Ratio, and gathered some valuable testimony from her.<br><br><i>\"Mr. Ratio has never talked about the Genius Society with me, but there's something I remember well, even till today... It happened when I was still Mr. Ratio's academic assistant. I'm mainly responsible for managing his correspondences to and from all over the cosmos and handling his interactions with the outside world.\"</i><br><br><i>\"One day, I received a letter from Interastral Peace Corporation. I think... it was during the successful test-firing of the anti-planetary weapon Mr. Ratio had worked on for years. I could tell the solemnity of the invitation, so I excitedly passed it on to Mr. Ratio. Yet, he said nothing. I could sense his heavy silence even through the headgear. He then politely asked me to leave. The moment I closed the door, I heard a grim sigh followed by a self-deprecating laughter... Perhaps, he realized he would never be accepted into the Genius Society...\"</i><br><br><i>\"The rest is history. In my view, Mr. Ratio is a genius in the truest sense of the word, as his inventions have propelled many worlds forward. Is a scholar who heals the universe destined to be worthless than a genius who is confined to their own ivory tower? Sorry, I'm getting a little worked up. Please remove that statement.\"</i><br><br>From my observation, many of Dr. Ratio's supporters feel sorry for him like Margaret. In their opinion, the Society's failure to admit someone like Ratio is a manifestation of the eccentricity and narrow-mindedness of \"geniuses.\"<br><br>Extracted from page 150, <i>Wisdom as a Privilege: Decoding Dr. Ratio</i>"
+            "Title": "About Self: Headpiece",
+            "Voice": "First, with the headpiece on, isolated from my five senses, I can think without interference. And second, I don't have to set eyes on stupid people. Of course, they don't want to see me either."
         },
         {
-            "_id": 5,
-            "Story": "Many believe that after joining the Intelligentsia Guild, Ratio will learn to smooth out his sharp personality to adapt to the Guild's practical and simplistic academic environment. But I must say Ratio is still his old self. Below is the original excerpt from the internal records that I have transcribed:<br><br><i>\"<br>Respondent: Veritas Ratio<br>Subject: Logical Epistemology<br>Chairman of the Committee: Roseth<br>Transcriber: Morriway<br>Defense Transcript:<br>Roseth: Mr. Ratio, your paper is exceptional. Thank you for your presentation. Now, we will open the floor for questions.<br>There was a silence.<br>Roseth: Well, I'll do the honor then.<br>Roseth: I fully concur with your main ideas, but there's a detail that I find slightly confusing.<br>Veritas Ratio: Whenever someone agrees with me, I feel like I must be wrong.<br>Roseth: My question is, why do you think knowledge is a privilege?<br>Veritas Ratio: Dear Professor Roseth, your question indicates that you haven't fully grasped the content of my paper and do not understand the deductive methods I employed.<br>Veritas Ratio: To put it simply, you would be a great example. Your inability to comprehend my ideas shows precisely that knowledge is not for everyone.<br>Veritas Ratio: If ignorance is an ailment, it is the duty of scholars to weed it out and heal the universe.<br>Veritas Ratio walked to the podium, facing the crowd. Veritas Ratio: So, ladies and gentlemen, turning a blind eye to the folly of others is not an etiquette, but a wicked worldly practice. To spread knowledge, we must first make people realize their folly. The same surely applies to the scholars of the Guild.<br>Roseth shrugged and smiled bitterly.<br>...<br>Veritas Ratio left amid the commotion.<br>Remark: A passionate hand holding an icy sword — that is probably the best way to describe Mr. Veritas Ratio. By blending logic, passion, and the art of criticism into one, Ratio presents to us how a great thinker perceives and reacts to ignorance. We strongly believe that the addition of Mr. Veritas Ratio will bring immeasurable benefits to the Intelligentsia Guild.<br>Committee Decision: Approved unanimously.<br>\"</i><br><br>There are words about a mysterious organization within the Intelligentsia Guild called the \"Council of Mundanites\" that houses the brightest minds of the Guild. The fact that Ratio calls himself a Mundanite seems to affirm the rumor. It is hard not to read something into the organization's name, given Ratio's entangled history with the Genius Society. The mundane, as opposed to the ingenious, often has to make enormous efforts and sacrifices just to catch up with the latter. Is Ratio calling himself mundane a form of submission, mockery, or declaration of war? Anyway, he does live up to his name of Dr. Ratio with his dedication to curing ill minds with knowledge.<br>...<br><br>Extracted from page 230, <i>Wisdom as a Privilege: Decoding Dr. Ratio</i>"
+            "Title": "About Self: True Appearance",
+            "Voice": "I don't mind revealing my true colors if it helps me teach students and treat patients. But in my experience, it's usually counterproductive."
+        },
+        {
+            "Title": "Chat: Intelligentsia Guild",
+            "Voice": "The Intelligentsia Guild is often seen as a vendor of knowledge, but the right to set a price is always in the hands of the buyer. When someone is willing to listen to knowledge that is being disseminated and circulated, a price is created."
+        },
+        {
+            "Title": "Chat: Genius Society",
+            "Voice": "They dedicate themselves to truth... And it's right to say so — after all, everything they do is for the sake of Nous."
+        },
+        {
+            "Title": "Hobbies",
+            "Voice": "I can't stay away from books and bathtubs, especially the former. When one's head is stuffed with filth, one's body is no cleaner."
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "The most annoying thing about idiocy is that you can't explain it to an idiot."
+        },
+        {
+            "Title": "Something to Share",
+            "Voice": "Before you ask a question, why don't you consider whether the answer has already been determined? It is better for everyone if such questions are not asked."
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "The beauty of truth is that it never changes, even when no one understands it. Well, that's true for me, at least."
+        },
+        {
+            "Title": "About Herta",
+            "Voice": "Herta is a quintessential genius — a natural wonder who sees no one as her equal. I have no doubt that she is talented, but I doubt whether her talent is always helpful to others."
+        },
+        {
+            "Title": "About Screwllum",
+            "Voice": "In his field, Screwllum is trying to establish new laws. I prefer to call such a person a monarch, rather than a genius."
+        },
+        {
+            "Title": "About Ruan Mei",
+            "Voice": "How many people have been fooled by her claim to fame as a hermetic genius? It seems to me that she wants to explore much more than just life. Just wait and see — the Genius Society member with all the real ambition is her."
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "Thought is the only means available through which to know ourselves."
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "The faster the progress, the greater the chance of errors."
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "If this day I have not gained the recognition of Nous, it stands to reason that I never will at any point in the future."
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "You may choose to do the same as everyone else, but you are bound to get a completely different result."
+        },
+        {
+            "Title": "Added to Team With Herta",
+            "Voice": "Can ordinary men still manage to believe in themselves under the scorn of a genius?"
+        },
+        {
+            "Title": "Added to Team With Ruan Mei",
+            "Voice": "Harnessing and tempering the instincts of life... you know more of such things than myself."
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "Call that defense?"
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "Need I... teach someone a lesson?"
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "I'm asking the questions."
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "Do you have answers?"
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "No need to rush. Patience breeds success."
+        },
+        {
+            "Title": "Skill 1",
+            "Voice": "Let's test your knowledge."
+        },
+        {
+            "Title": "Skill 2",
+            "Voice": "Never stop thinking."
+        },
+        {
+            "Title": "Basic ATK",
+            "Voice": "Think!"
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "Mediocre!"
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "You fool!"
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "Esse est percipi..."
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "Knowledge is the measure of all things. It reveals truth... and falsehood."
+        },
+        {
+            "Title": "Talent 1",
+            "Voice": "Zero points... Next!"
+        },
+        {
+            "Title": "Talent 2",
+            "Voice": "Fail... Get out!"
+        },
+        {
+            "Title": "Downed",
+            "Voice": "Mere flesh..."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "Well done... ten points."
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "Not bad... five points."
+        },
+        {
+            "Title": "Technique",
+            "Voice": "For the theater of the mediocre."
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "Just as my calculations predicted."
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "Since when were knowledge and wealth mutually exclusive?"
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "Wealth shouldn't be a hindrance to pursuit of truth."
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "I accept, as would any man."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "Hardly a work of genius..."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "An interesting test of intellect."
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "You learn to know yourself before your enemy."
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "Ready to squander the remainder of your days?"
         }
     ]
 }

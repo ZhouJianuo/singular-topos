@@ -485,24 +485,220 @@ var _story_ = {
 var _voice_ = {
     "1206": [
         {
-            "_id": 1,
-            "Story": "A naive and enthusiastic newcomer to the Cloud Knights who wields a greatsword.<br>She yearns for the historic legends of the Cloud Knights, and is eager to become such a legendary figure herself.<br>As such, Sushang firmly believes in the philosophies \"be eager to help those in need,\" \"do one good deed a day and reflect on oneself three times a day,\" leading her to busy days full of helping others."
+            "Title": "First Meeting",
+            "Voice": "I'm Sushang, and I recently joined the Cloud Knights. Talk to me if you have any issues... but I don't know the Luofu very well either, hehe."
         },
         {
-            "_id": 2,
-            "Story": "O, Jade Gate so bright. O, jade skies of flight. Starskiffs weave through the Grand Fair, and tourists flock the skygate. Anyone traveling in or out of the Luofu could see a vast gate when looking up, where a spacial membrane twirls like a torrent. The gate stands alone with no walls and admits the ships coming and going. It is a grand sight to see.<br><br>This skygate is called the Jade Gate, and it's the entrance to the Xianzhou delves. Below the gate, travelers stream inside on their way into the Luofu. Among them is a young girl wearing a peach-colored dress, likely of 16 or 17 years old, but difficult to judge her true age as a Xianzhou native — nor could anyone guess what strange force has helped her hold that enormous greatsword in her hand.<br><br>At two feet and one inch long, it's very unusual. Despite being wrapped in white cloth, it still looks like an antique. Yet it is a true weapon as the edges on both sides of the blade are as thin as cicada wings, sharp enough to even cut a strand of hair. People come to stare at this soldier girl, raising their eyebrows. But the girl seems to be accompanied by worry, merely frowning in annoyance as she mutters:<br><i>\"How strange! Mother taught me how to chant this mantra so that I could focus. Why isn't it working now?\"</i><br><br>Without waiting for her to utter any more obscure words, a Vidyadhara man at the custom raised his hand and waves the girl over: <i>\"Next, please!\"</i> The girl is startled and grits her teeth tightly — but she has to bite the bullet and steps forward.<br><br><i>\"Gold can be smelted, but an oath...\"</i> The girl says sternly to the Vidyadhara man.<br><i>\"Gold can be smelted, but an oath cannot be broken\".</i> The Vidyadhara man blankly replies: <i>\"This is the customs office. What oath? Name, origin, reason for travel — just give me these.\"</i><br>She is dumbfounded, and figures she'd gotten her Luofu anecdote wrong. Helpless, she could only pick up her Foursquare Mirror and respond: <br><i>\"Name: Sushang; personal belongings: one Xuanyuan sword. Origin:...\"<br>\"Tsk, how do you write 'Yaoqing' again?\"</i>"
+            "Title": "Greeting",
+            "Voice": "No need to be polite, I can help any— Huh? You're just here to say hello? You don't need my help?"
         },
         {
-            "_id": 3,
-            "Story": "It has been some time since Sushang answered the call of the Luofu's Cloud Knights. She keeps herself busy patrolling the streets, but never runs into any criminal activity, which leaves her even more annoyed and angry. In the end, she has no choice but to practice sword training and listen to storytelling in her spare time. These boring days stretch on endlessly.<br><br>One day, she is lying on the table at the Sleepless Earl, waiting for the storyteller to get prepared and tell his tale of the Luofu's High-Cloud Quintet. But before the gavel could fall, her Cloud Knight peer bursts through the door, screaming out: <br><i>\"Sushang, come now! The Outworlders are making trouble again!\"</i><br><br>After hearing the shout, her eyes widen instantly, and she quickly picks up her greatsword to rush to the scene. Upon arriving, she sees a redhead woman performing sword-swallowing and fire-breathing, which send the crowd into hysterics. Before long, this woman is somehow pulling out a green granite slab, determined to perform a \"Slab Chest Smash\" trick.<br><br><i>\"Stop! The traffic here has always been a problem. This isn't your darned circus, okay!?\"</i> Sushang shouts out sternly, steeling her stance as she heaves her Xuanyuan sword and points it at the woman. The woman notices her lack of stability and stays calm, side-stepping her before spinning up the fire-stick once more to great astonishment.<br><br><i>\"I'll leave then out of respect!\"</i> Says the redhead loudly. And with a wave of her hand, the blunt end of the redhead's spear stabs straight towards Sushang's clenched hands. Sushang backs away a pace, whereupon the woman unexpectedly takes several round objects out of her pouch, smashing them onto the ground to send smoke and fire in every direction, causing an incessant sound of explosions. When Sushang comes to, she realizes that the woman has disappeared: <br><i>\"What the heck was that... firecrackers!?\"<br>\"This Outworlder... Cannot be underestimated!\"</i>"
+            "Title": "Parting",
+            "Voice": "Today was another day of being eager to help! I am very happy with myself. Time to rest!"
         },
         {
-            "_id": 4,
-            "Story": "<i>Dearest Mother and Father,<br><br>How have you two been? I've been fighting alongside the Cloud Knights on the Luofu for some time now as per your request, so that's something to report. I think I should share it here with the both of you!<br><br>In my opinion, the most important event lately should be... me independently handling someone dangerous without relying on anyone else! This Outworlder always goes around making trouble, and always packs lots of explosives, threatening public safety. But this person is forced into this by vicissitudes of life. Inspired by me, she decided to turn over a new page — and now, we're even close friends!<br><br>I also follow your advice and continue to practice swordcraft every day. I feel like I've been making great progress. If I can go home and show you two, I think you'd be pleased with my progress!<br><br>I remembered back when I set off that you asked me not be too whimsical and train myself with the army. Well, now I've practiced a lot here, I am gradually becoming more mature. I still have so much to learn, but I can looking after myself now! So you both don't have to worry about me!<br><br><align=\"right\">Sushang</align><br><align=\"right\">October 21</align></i>"
+            "Title": "About Self: Creed",
+            "Voice": "\"Be eager to help those in need. Do one good deed a day and reflect on oneself three times a day.\" — Those words will definitely appear in my biography one day and be remembered!"
         },
         {
-            "_id": 5,
-            "Story": "<i>Sushang:<br><br>Reading your letter is almost as good as seeing you again in person. The two of us are safe and sound, so don't worry about us.<br><br>As for your recent situation you described in your letter, we understand and are deeply gratified. In addition, we've added some new instructions here and hope you're able to make an effort with these.<br><br>Firstly, when making friends, you should consider if they're good or bad. Sushang, you're now old enough for courtship, but you still don't understand how unpredictable and dangerous the world can be. Your collusion with hoodlums has worried and aggrieved us. Straight-forward, trustworthy, and knowledgeable people are good and should make good friends. But expedient, soft, and flattering people are no good, and should be avoided.<br><br>Secondly, don't strive to achieve grandiose things. We know you've always been anxious about justice, but your letter seems to have fact mixed in with fiction, or at the very least be greatly exaggerated. An old saying in Xianzhou goes, \"As reputation is never easily gained, so glory cannot be coincidence.\" It's not good to make achievements and then boast about them. Keep in mind: We Xianzhou people live forever, so fleeting fame and fortune pass through our fingers into the sands of time. It's why you need to build up a strong foundation and focus on the practical, being meticulous and careful as if skating on thin ice. One slip and you'll get into trouble, fall into the grasps of mara, and bear the consequences for life!<br><br>PS: Keep your sword sharp every day, and don't forget to recite your Blade Swara to focus your spirit. The mind is the basis of martial arts, and when your mind gets refined into the formless, you can know that the sword is nothing but another crutch to rely on. Grass, wood, stone, bamboo and the alike can all make swords. Follow your heart and energies freely. It will take many a day yet for you to eventually tame your Xuanyuan sword.<br><br>PPS: You made a lot of writing errors, Sushang. Please read more books while you're off duty. And it's \"look after myself,\" not \"looking after myself.\"<br><br><align=\"right\">Suyi</align><br><align=\"right\">October 22</align></i>"
+            "Title": "Chat: Xuanyuan Sword",
+            "Voice": "It's a family heirloom, and probably has a history? My Ma can swing it with just one hand, but I struggle even with two. Ah..."
+        },
+        {
+            "Title": "Hobbies",
+            "Voice": "When I was a kid, I was mesmerized by the Foxian gents on the streets telling the stories of the Cloud Knight martyrs. If my Ma didn't drag me away, I would have listened to them all day!"
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "All the Outworlders arriving at Xianzhou these days start their sentences with \"There's an old saying in Xianzhou...\" but a local like me can't think up any. How can this be..."
+        },
+        {
+            "Title": "Something to Share",
+            "Voice": "*sigh* It's not easy being born in a military family. My Ma trained me in martial arts since I was a kid and I had to get up to spar with her before the crack of dawn. I'd get so exhausted in the morning that I always fell asleep in class. The teachers all called me Sleepy Sushang..."
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "To hear a story on the Luofu is like a wish come true! After all, this is where High-Cloud Quintet became famous. All the expertise of Mr. Xiyan, the storyteller at the Sleepless Earl, is in this place."
+        },
+        {
+            "Title": "About Jing Yuan",
+            "Voice": "The \"Dozing General\" of the Xianzhou Luofu... I've heard a lot about him, but I feel he doesn't do anything... He's not as good as the lady general from our Xianzhou Yaoqing."
+        },
+        {
+            "Title": "About Yanqing",
+            "Voice": "He's so young, but a Cloud Knight Lieutenant already!? Could he have a Ma more strict than mine urging him on with swordplay?"
+        },
+        {
+            "Title": "About Fu Xuan",
+            "Voice": "I think about this every time I listen to Diviner Fu talk. We are both from Xianzhou, but are we really speaking the same language?"
+        },
+        {
+            "Title": "About Yukong",
+            "Voice": "I've heard Cloud Knight veterans talk about the legend of the \"Starfire Fox.\" As the best ace pilot in the Luofu, Madam Yukong's starskiff records remain unbeaten! I didn't expect her to talk in such a polite way when I met her~"
+        },
+        {
+            "Title": "About Tingyun",
+            "Voice": "I saw Tingyun in so many shops and just thought she was a customer who's always buying stuff... Then I heard all those shops are hers!"
+        },
+        {
+            "Title": "About Qingque",
+            "Voice": "She's the girl playing in the games parlor, right? She must have played for years to be that good... With how good her skills are, it's almost a martial art for her."
+        },
+        {
+            "Title": "About Luocha",
+            "Voice": "That outsider looks weak, but is pretty brave. If he weren't on the Xianzhou and hadn't met me, he'd totally get robbed just for lugging such a huge case around."
+        },
+        {
+            "Title": "About Bailu",
+            "Voice": "Bailu... I—it's that Healer Lady. I heard that her crying can cure patients... that sounds impossible! But she is a Vidyadhara after all... for them, the more outrageous something is, the more possible it becomes."
+        },
+        {
+            "Title": "About Jingliu",
+            "Voice": "\"One sliver of moonlight, nine hundred lives\" — in Mr. Xiyan's stories about Jingliu, I love this sentence the most. How come the Cloud Knights' records didn't say anything about such a swordmaster...?"
+        },
+        {
+            "Title": "About Guinaifen",
+            "Voice": "I think Little Gui's talents would go unappreciated in a lot of settings... Being a street performer is her true calling!"
+        },
+        {
+            "Title": "About Xueyi",
+            "Voice": "She might be tougher than flesh and blood, but not being able to feel pain...? I don't think that's a good thing."
+        },
+        {
+            "Title": "About Huohuo",
+            "Voice": "I don't know how exactly, but Huohuo manages to keep that Tail of hers in check, even though she's terrified of heliobi... It proves she's got some serious talent!"
+        },
+        {
+            "Title": "About Dan Heng",
+            "Voice": "Seems like \"Silent but Deadly\" has caught the eye of a fair few heavy hitters. So does that mean he's a big fish, now? Maybe one day I'll get to hear his story."
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "Sooner or later, I'll make my mark in history!"
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "My fighting skills have improved — I should let my mom know!"
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "I heard that when your mastery of the sword improves, you can physically feel it... so this is what it feels like..."
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "One should always have dreams, you never know, they might actually come true one day!"
+        },
+        {
+            "Title": "Added to Team With Bailu",
+            "Voice": "Miss Bailu — don't leave me on my own!"
+        },
+        {
+            "Title": "Added to Team With Guinaifen",
+            "Voice": "Got any new ideas, Little Gui? I say we strike while the iron is hot!"
+        },
+        {
+            "Title": "Added to Team With Yanqing",
+            "Voice": "It's Yanqing! This is my chance to check out his moves up close!"
+        },
+        {
+            "Title": "Added to Team With Luocha",
+            "Voice": "Just focus on healing, and if you get into trouble, give me a shout!"
+        },
+        {
+            "Title": "Added to Team With Yukong",
+            "Voice": "Madam Yukong, my skills are not yet adopt... Uh, adapt? Adept? F—Feel free to give me some advice!"
+        },
+        {
+            "Title": "Added to Team With Xueyi",
+            "Voice": "Xueyi, your skills are amazing, but remember to take it easy on yourself..."
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "No more playing nice!"
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "So what? I won't surrender!"
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "Let me through, or I'll go through you."
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "Hmph, wanna see what I can do?"
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "How does it go again? He who strikes first...? Ugh, just get on with it!"
+        },
+        {
+            "Title": "Basic ATK",
+            "Voice": "You're not going anywhere!"
+        },
+        {
+            "Title": "Skill",
+            "Voice": "Dodge this."
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "Don't your hands hurt?"
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "Hey!"
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "Take this — Shape of Taixu!"
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "Rise, phoenix!"
+        },
+        {
+            "Title": "Downed",
+            "Voice": "A little... too much fun..."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "Cloud Knight Sushang, reporting!"
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "You're the best!"
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "Get it now? That's the power of the Cloud Knights!"
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "Wowww, look at that..."
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "This little gadget is just what I wanted~"
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "Whoa... I can't believe I found this!"
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "Piece of cake!"
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "See, I knew I could do it!"
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "Quick, let's make a sneak attack!"
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "It's so early! Let's look around!"
         }
     ]
 }

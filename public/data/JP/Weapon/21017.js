@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21017": "<i>\"Yo, yo. What is up! Is everything coming through?\"</i><br><br>The orange-haired girl slowly lifts a sledgehammer while shouting enthusiastically at the camera.<br><i>\"Ever seen a pretty girl doing the cinder-block-smashed-on-chest stunt?\"</i><br><br><i>\"I didn't sign up for this!\"</i><br>The brunette girl cried out loud, only to be met with a sly smile from the girl with the orange hair.<br><i>\"Please. Just let me do this. This is what people would've wanted.\"</i>"
+    "21017": "<i>「ハロー！視聴者のみんな、見えてる？」</i><br><br>オレンジ色の髪をした少女は興奮した声を出しながら、カメラの方を向いてゆっくりと鎚を振り上げる。<br><i>「みんな——少女の胸の上でやる岩砕きは見たことある？」</i><br><br><i>「アタシが雲騎軍に入ったのはこんな事をするためじゃないって！」</i><br>褐髪の少女は目を回し、オレンジ色の髪をした少女はずる賢く笑う。<br><i>「これも人助けだと思って——お願い！」</i>"
 }
 
 var _weaponskill_ = {

@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21019": "Under the blue sky, fields of wheat were dancing.<br>The young girl was carefully weaving a flower wreath,<br>for her most beloved little sister.<br><br>That was when they were still the same height.<br>That was when they shared the same smile."
+    "21019": "青空の下、麦浪がたゆたう、<br>少女は丁寧に花の冠を編み、<br>大好きな妹の頭に載せる。<br><br>その時の彼女たちはまだ同じくらいの背丈で、<br>その時の彼女たちはまだあのように笑っていた。"
 }
 
 var _weaponskill_ = {

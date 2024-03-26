@@ -1185,24 +1185,196 @@ var _story_ = {
 var _voice_ = {
     "1307": [
         {
-            "_id": 1,
-            "Story": "A Memokeeper of the Garden of Recollection. A mysterious and elegant soothsayer.<br>She often wears a warm smile and is willing to patiently listen to the words of others, thus using such means as a pretext to enter \"memories\" and gain omniscience over certain matters.<br>A lady passionate about collecting unique memories, yet the thoughts that guide her are hard to glean."
+            "Title": "First Meeting",
+            "Voice": "Trailblazer? Intriguing name. Hmm... and a fate that's quite elusive..."
         },
         {
-            "_id": 2,
-            "Story": "<i>\"She's quite an unusual kid, and I could sense it from the day she was born. It felt like nature itself was celebrating her arrival: The birds chirped, the moon and sun were together in the sky. The cards in my hand seemed to hint at the emergence of a soul steeped in nostalgia. Right from her early years, she had a fascination with stories from the past. She would delve deep into contemplating our origins, our creators, and even the very beginning of the world. Her questions would leave even the most erudite scholars scratching their heads. Sure, some other kids might poke fun at her for asking such deep questions, but aren't those questions important? Life is akin to a winding labyrinth, where memories serve as our sole companions.\"</i><br><align=\"right\"> — A mother's memories</align><br><br>Afflicted with amnesia, her mother struggled with forgetfulness, making it difficult for her to recognize her family or recall recent events.<br>Clutching the diagnosis of amnesia, she held her mother tightly, attempting to read aloud from the latter's diary. Her mother was physically present, but where was she in the realm of consciousness?<br><br>She stayed by her mother's side until the end of her life, realizing that her mother had been fading away as her memories became fragmented. If her own memories of her mother were to ever become blurred as well, her mother would completely slip away from her.<br><br><i>\"Life is akin to a winding labyrinth, where memories serve as our sole companions.\"</i> For the first time, she comprehended the profound meaning behind these words."
+            "Title": "Greeting",
+            "Voice": "How's the journey been? If there's something weighing you down, let me do a little divination for you..."
         },
         {
-            "_id": 3,
-            "Story": "<i>\"I arrived on this planet as an explorer. My usual tasks involved observing the flow of rivers, examining the materials of the city's bricks and tiles, analyzing the steepness of roads, and documenting the number and distribution of chimneys... These duties aligned with people's imagination of preserving a planet's 'memories.'\"<br><br>— However, such efforts were far from sufficient.<br><br>Once I started working in secrecy, I would often come across that girl. Sometimes, sunlight would dance through the leaves as she walked beneath them, disappearing around corners once the street lamps illuminated the surroundings. On other occasions, her gaze would follow a carrier pigeon, which left the High Priest's quarters every Wednesday night, only to return the following morning to the palace's chief of the guards — a known political adversary of the High Priest. Occasionally, she would quietly observe rain trickling into sewers scarred by artillery fired from the opposite shore. And sometimes, waves would dampen her skirts, while an elderly woman washing clothes by the river recounted the story of the previous sovereign and his five illegitimate children.<br><br>— Few individuals, apart from us, understand that a planet conceals and safeguards its \"memories\" in such a manner.<br><br>I trailed behind her until we reached a rock on the moor. I knew that it was the time to invite her.<br><br>\"What do you see?\" I asked, in a form visible to her.<br>She pointed at a patch of weeds and the lingering traces.<br>\"I see a stone, perhaps once part of a fireplace... But it must hold more significance.\"<br>I nodded and assisted her in removing the weeds and dirt from the crevices of the stone.<br>\"It was once a monument,\" she murmured, gently caressing the engravings adorning its surface.<br>\"Indeed, but the 'memory' holds more significance.\"<br><br>Thus, I revealed to her that the stone on the moor had once served as a fireplace, a monument before that, a flowerbed, and even an altar... And before all that, it had simply been a stone on the moor.<br><br>\"What price would I pay if I want to witness those 'memories'?\"<br>\"People will remain oblivious to your presence unless you are willing to reveal yourself.\"<br>\"Just as people fail to acknowledge the existence of black swans until they encounter one?\"<br>\"Yes, just like that.\"</i><br><br><align=\"right\">— An {RUBY_B#Memokeeper}Explorer's{RUBY_E#} memories</align><br><br>Memokeepers travel to numerous planets, collecting the memories of each city they encounter. They are careful not to leave any trace of their presence, ensuring that nobody remembers them, unless they come across someone with the potential to become a Memokeeper, whom they then take away from the city into the vast expanse of the stars."
+            "Title": "Parting",
+            "Voice": "Fear not, unless I wipe away your memories, forgetting me is not an option~"
         },
         {
-            "_id": 4,
-            "Story": "<i>Many individuals obsess over the glory of the past and aspire to become Memokeepers, longing to live within their memories. Such individuals often degenerate into unbridled Cremators, distorting memories to suit their preferences. However, she is different... I've sensed her unwavering determination and profound respect for memories themselves. Following tradition, I asked her three questions before making her a Memokeeper.<br><br>\"Will you dedicate your whole life to the collection of memories?\"<br>\"I will.\"<br>\"Will you relinquish your physical form and embrace the transformation of self?\"<br>\"I will.\"<br>\"If one day you cease to exist, what legacy will you leave behind for the world?\"<br>\"My memories. They hold seeds from the past, destined for rebirth into the future.\"<br><br>Memories come in various forms. Some are trivial and heartwarming, while others are grand and expansive. Some are gentle and meek, while others are wild and untamed... When she became a Memokeeper, her memories became tranquil and serene, like the calm waves that finally found their destined harbor.</i><br><align=\"right\">— A Memokeeper's memories</align><br><br><i>\"What comes to your mind?\"</i> The Memokeeper asked.<br>As she opened her eyes, fragments of memories swirled around her.<br><i>\"People tend to believe they are facing the present and the future, yet fail to realize that we are all, in fact, moving toward the past.\"</i>"
+            "Title": "About Self: Existence",
+            "Voice": "Mortals are bound to the perception of the tangible, failing to comprehend that it is the spirit and the spiritual that form the true essence of the cosmos. Through the grace of \"Fuli,\" we may shed our perishable forms and attain closeness to the true essence of being."
         },
         {
-            "_id": 5,
-            "Story": "<i>Location: Penacony<br>Date: ██/██/██<br>Guests: ██, ██, ██, and ██<br>\"A sorrowful memory from ██. This opulent memory, adorned with ostentation and longing, conceals an unknown sadness that will linger for years, influencing its owner for an extended period.\"<br>\"A joyous memory from ██. This dramatic memory is filled with vibrant hues of joy, confusion, and humor, but it can hardly be called true happiness. Such is the future it portrays.\"<br>\"A regrettable memory from ██. The fleeting happiness in this memory is beautiful yet short-lived, like a shooting spark from faded ashes. Cherish your limited moment, dear guest, for it informs me that it shall soon vanish.\"<br>\"A vague memory from ██. This memory is faint, chaotic, and disorienting, akin to an endless downpour with no respite in sight. I yearn to capture the future it points to, whether it be filled with rain or sunshine...\"</i><br><align=\"right\">— Black Swan's memories</align><br><br><i>\"I saw the figure of a woman, gracefully leaping and transforming amidst images and patterns. No... I'm not crazy, I did indeed see 'her.' I remember her voice, its velvety texture, and the colorful cards in her hands, imbued with some sort of magic... Oh, and she invited me to partake in fortune-telling. She said, 'Whether you want to foresee happiness or misfortune in the future, retrieve lost possessions, or seek unexpected gains... All I need is an honest story, for the past and the future are overlapped on the same point of a single circle.' My head spun, and she exuded such gentleness. I talked so much to her, and she patiently listened to my ramblings... And then, following her divination results, I retrieved a lost mirror for a guest of the hotel! Oh, you asked what I said to her? Oh, nothing important... Just some rumors about the past...\"</i><br><align=\"right\">— A native Penacony resident's memories</align><br><br>Currently, she journeys through various realms as a diviner, uncovering memories intertwined with her Path and Aeons. She believes that those memories are as enduring as gems, impervious to the eroding forces of oblivion.<br><br><i>\"Numerous Memokeepers have ventured to Penacony, only to discover it as a mere illusory mirage dancing upon the water's surface.\"<br>\"However, dreams... They represent a distorted form of memories. I shall delve into its depths and catch a fleeting glimpse of the buried memories before those Memosnatchers and Cremators arrive.\"</i>"
+            "Title": "About Self: Wishes",
+            "Voice": "Recover those cherished recollections and enshrine them in a land of purity. In doing so, all will be preserved from true oblivion."
+        },
+        {
+            "Title": "Chat: Divination Methods",
+            "Voice": "The dance of the stars, the silent whisper of numbers, the foretelling of cards... Mmm, I've heard that divination via app is all the rage these days. Yet, this is just a supplementary tool. To hear one's speech, to venture into their hearts, to glimpse their memories... that's where the most precise truths are revealed."
+        },
+        {
+            "Title": "Chat: Light Cone",
+            "Voice": "Through the course of one's existence, only a scant number of impactful memories— pain, joy, rage, sorrow, can be harvested... The Garden of Recollection was conceived with the preservation of such memories in mind — yet it isn't immune to the corporation's endeavor to openly profit from it."
+        },
+        {
+            "Title": "Hobbies",
+            "Voice": "If I can identify and encapsulate a fragment of memory before it's unveiled to the world, those solitary moments of delight are my most favored and unique memories."
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "It's undeniable, being without a physical body has its perks, but when moving through the world in the form of a memetic entity, the danger of forsaking one's \"self\" becomes apparent."
+        },
+        {
+            "Title": "Sharing: Pure Land",
+            "Voice": "The most luminous and lavish memories are to be sheltered in the Pure Land of Recollection. In the tales whispered among the Memokeepers, \"Fuli\" will blend these recollections into the Eden of Blessed Insight, and they shall serve to reshape the entirety of the world after its annihilation."
+        },
+        {
+            "Title": "Sharing: Memetic Entity",
+            "Voice": "The day I became a memetic entity, I saw my own corporeal body dissolve, people's memories precipitating, crystallizing, and then shattering in the flow of time. They gleamed with such brilliance, as if they were crystals with boundless facets. It was in that moment I grasped, that everything is transient, but memories are eternal."
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "A few Memokeepers prefer to covertly penetrate others' thoughts capriciously reshaping their memories, but I harbor no liking for such deeds. Only the recollections that remain untouched by others carry true essence and are treasurable. Anything contrary is just the imposition of another's thought."
+        },
+        {
+            "Title": "About Trailblazer",
+            "Voice": "Perhaps, there will come a day when you'll willingly share your memories with me — I eagerly await such a time."
+        },
+        {
+            "Title": "About Acheron",
+            "Voice": "Avoid entering someone's past memories lightly, especially hers."
+        },
+        {
+            "Title": "About Aventurine",
+            "Voice": "When exploring opportunities, one such as he, a gambler, will never reject your overtures. Gratify his whims, but also keep your defenses up."
+        },
+        {
+            "Title": "About Sparkle",
+            "Voice": "Hmm, a fascinating young girl. She won't admit it, but I imagine she's always yearned to be noticed by others. Her mind is the most chaotic place I've ever witnessed, but it also possesses the strongest tool of all — intuition."
+        },
+        {
+            "Title": "About March 7th",
+            "Voice": "Even if her past is a forgotten whisper, and she was once bewildered about her future, March's experiences will undoubtedly transform into unique memoria. It's exciting to think just what memories she might bestow upon the Garden of Recollection..."
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "As fate dictates, dispersed memories begin to intertwine anew..."
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "I recall some enchanting moments..."
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "Set forth, for countless memories shimmer in the distance..."
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "Grand tales stem from grand pasts..."
+        },
+        {
+            "Title": "Added to Team With Trailblazer",
+            "Voice": "Rest assured, dear, I'll do all that I can to assist you."
+        },
+        {
+            "Title": "Added to Team With Sparkle",
+            "Voice": "Little lady, make sure you don't go overboard this time."
+        },
+        {
+            "Title": "Added to Team With March 7th",
+            "Voice": "What meaning does this journey hold for you?"
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "Destiny's course is becoming apparent."
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "Such an elusive foretelling..."
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "The threads of destiny aren't chosen."
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "What would you like to know this time?"
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "Continue, or remain in the dark..."
+        },
+        {
+            "Title": "Basic ATK",
+            "Voice": "Here, all yours."
+        },
+        {
+            "Title": "Skill 1",
+            "Voice": "Again, the ill tidings manifest."
+        },
+        {
+            "Title": "Skill 2",
+            "Voice": "The seal of ill fate descends!"
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "Mind your manners."
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "Retribution will find you!"
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "Memories are ever-changing."
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "Beneath the silent waters lies an endless abyss."
+        },
+        {
+            "Title": "Downed",
+            "Voice": "Time's passage... is unkind..."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "Only memories remain eternal."
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "Destiny's hand has truly blessed me."
+        },
+        {
+            "Title": "Technique",
+            "Voice": "Make a wish."
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "Another precious memory to hold onto."
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "A turn of fate."
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "A sincere heart prevails."
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "Destiny gifts unexpected joys."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "Exceptionally deciphered."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "The power of wisdom and memory..."
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "A foreboding sign..."
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "This place holds such fond memories... Care to reminisce?"
         }
     ]
 }

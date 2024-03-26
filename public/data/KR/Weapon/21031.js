@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21031": "Even though her sister was close by her side, she could hear nothing.<br>The only thing audible was the voice in the depths of her heart, which only grew louder by the minute.<br><br><i>\"Big sis's body is cold.\"<br>\"Big sis's body is not moving.\"</i><br><br>A violent surge of fury irrevocably overwhelmed her so much that she didn't even find the time to clear her mind, or to remember this crucial yet neglected fact...<br><br><i>\"Big sis's body has been cold like this for a very long time.\"</i>"
+    "21031": "언니의 곁에 있지만 그녀는 아무것도 들을 수 없었다.<br>마음속의 소리만이 점점 더 커져 갔다.<br><br><i>「언니의 몸이 차가워」<br>「언니의 몸이 안 움직여」</i><br><br>분노가 파도처럼 밀려와 그녀를 잠기게 했다. 그녀는 이미 생각할 겨를이 없었다——<br><br><i>「언니의 몸은, 이미 오래전에 차가워졌어」</i>"
 }
 
 var _weaponskill_ = {

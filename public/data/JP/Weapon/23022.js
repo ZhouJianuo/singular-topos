@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23022": "Light the candles, spread the cards, breathe in the fragrance...<br>These broken memories become faces in the dancing light.<br>The apparitions that emerge from flames tell her of pasts fondly recalled.<br>Time is shorn. The moment is frozen. She turns these most precious instants into crystallizations of eternity.<br><br><i>\"There is too much lost, and too little that remains... We nurture remembrance against the cruelties of time.\"</i>"
+    "23022": "ロウソクに火をつけてカードを広げ、かぐわしい香りに浸る——<br>破れた記憶が光影にたゆたい顔となった。<br>炎から這い出た亡霊が、彼女に思い出深い過去を語る。<br>彼女は時間を切り取って一刻を凝固させ、最も貴重な瞬間をクリスタルの如き永遠に変えた。<br><br><i>「失ったものはあまりにも多く、残ったものはあまりにも少ない…私たちは時の残酷さに抗うため、記憶を育んでいく」</i>"
 }
 
 var _weaponskill_ = {

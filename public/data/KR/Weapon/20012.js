@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "20012": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate. <br><br><i>\"Harmony is achieved when everyone does their bit amidst the clunking of machines.\"</i>"
+    "20012": "세월에서 추출한 희박한 힘. 보잘것없는 찰나의 순간들이 모여 엮어진 장렬한 운명.<br><br><i>「이보다 더 조화로운 소리는 없을 것이다. 모두가 각자의 위치에 있고, 거대한 기계는 소리에 따라 움직인다」</i>"
 }
 
 var _weaponskill_ = {

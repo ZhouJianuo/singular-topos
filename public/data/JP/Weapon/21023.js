@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21023": "She got used to people losing their homes.<br>And she got used to people losing their lives.<br>But crying alone was useless.<br><br><i>\"Wear this red scarf, and then we shall share each other's pain.\"<br>\"We are family. We are Wildfire.\"</i><br><br>The moment that pair of big hands held her head, she could no longer hold back her tears."
+    "21023": "彼女は慣れた、人々が故郷を失うのを、<br>人々が命を失うのを、<br>でも一人の時は、泣いても無駄。<br><br><i>「この赤いスカーフを着けて、互いの痛みを分かち合おう」<br>「俺たちは家族…俺たちは、地炎だ」</i><br><br>大きな掌が彼女の頭をなでる、彼女はようやく、我慢できずに涙をこぼした。"
 }
 
 var _weaponskill_ = {

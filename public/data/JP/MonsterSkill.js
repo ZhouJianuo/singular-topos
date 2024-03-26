@@ -4,7 +4,7 @@ var _monsterskill = {
     "100204001": {
         "Key": "Skill01",
         "Name": "Tireless Charge",
-        "Desc": "Deals Physical DMG to a single target, with a high chance to reduce the target's DEF.",
+        "Desc": "指定した味方単体に物理ダメージを与え、高確率で攻撃を受けた味方の防御力をダウンさせる。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -17,7 +17,7 @@ var _monsterskill = {
     "100204101": {
         "Key": "Skill01",
         "Name": "Tireless Charge",
-        "Desc": "Deals Physical DMG to a single target, with a high chance to reduce the target's DEF.",
+        "Desc": "指定した味方単体に物理ダメージを与え、高確率で攻撃を受けた味方の防御力をダウンさせる。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -30,7 +30,7 @@ var _monsterskill = {
     "100205001": {
         "Key": "Skill02",
         "Name": "Piercing Grenade",
-        "Desc": "Deals Physical DMG to a single target, with a high chance to cause Bleed.",
+        "Desc": "指定した味方単体に物理ダメージを与え、高確率で攻撃を受けた味方を裂創状態にする。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -43,7 +43,7 @@ var _monsterskill = {
     "100201101": {
         "Key": "Skill04",
         "Name": "Icy Wind",
-        "Desc": "Deals minor Ice DMG to all targets.",
+        "Desc": "味方全体に少量の氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -53,7 +53,7 @@ var _monsterskill = {
     "100201201": {
         "Key": "Skill04",
         "Name": "Icy Wind",
-        "Desc": "Deals minor Ice DMG to all targets.",
+        "Desc": "味方全体に少量の氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -63,7 +63,7 @@ var _monsterskill = {
     "100201301": {
         "Key": "Skill01",
         "Name": "Everwinter Reverberance",
-        "Desc": "Deals minor Ice DMG to all targets.",
+        "Desc": "味方全体に少量の氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -73,7 +73,7 @@ var _monsterskill = {
     "100201401": {
         "Key": "Skill01",
         "Name": "Everwinter Reverberance",
-        "Desc": "Deals minor Ice DMG to all targets.",
+        "Desc": "味方全体に少量の氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -83,7 +83,7 @@ var _monsterskill = {
     "100201501": {
         "Key": "Skill04",
         "Name": "Icy Wind",
-        "Desc": "Deals minor Ice DMG to all targets.",
+        "Desc": "味方全体に少量の氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -93,7 +93,7 @@ var _monsterskill = {
     "100201601": {
         "Key": "Skill04",
         "Name": "Icy Wind",
-        "Desc": "Deals minor Ice DMG to all targets.",
+        "Desc": "味方全体に少量の氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -103,7 +103,7 @@ var _monsterskill = {
     "100201701": {
         "Key": "Skill01",
         "Name": "Everwinter Reverberance",
-        "Desc": "Deals minor Ice DMG to all targets.",
+        "Desc": "味方全体に少量の氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -113,7 +113,7 @@ var _monsterskill = {
     "100201801": {
         "Key": "Skill01",
         "Name": "Everwinter Reverberance",
-        "Desc": "Deals minor Ice DMG to all targets.",
+        "Desc": "味方全体に少量の氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -123,7 +123,7 @@ var _monsterskill = {
     "100202001": {
         "Key": "Skill01",
         "Name": "Shovel Attack",
-        "Desc": "Deals minor Physical DMG to a single target.",
+        "Desc": "指定した味方単体に少量の物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -133,7 +133,7 @@ var _monsterskill = {
     "100202002": {
         "Key": "Skill02",
         "Name": "Inspire",
-        "Desc": "Increases a friendly unit's ATK and causes them to act immediately.",
+        "Desc": "指定した敵単体の攻撃力をアップし、即座に行動させる。",
         "SP": 0,
         "Status": [
             210020201
@@ -142,7 +142,7 @@ var _monsterskill = {
     "100203001": {
         "Key": "Skill01",
         "Name": "Barrage",
-        "Desc": "Deals minor Physical DMG to a single target and units adjacent to the target.",
+        "Desc": "指定した味方単体および隣接する味方に少量の物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -153,7 +153,7 @@ var _monsterskill = {
     "100203002": {
         "Key": "Skill02",
         "Name": "Covering Support",
-        "Desc": "Provides support to a friendly unit. When this unit attacks, it performs a follow-up attack that deals minor Physical DMG to the attacked target and units adjacent to the target.",
+        "Desc": "指定した敵単体を支援する。支援された敵は味方を攻撃する時、追加攻撃を1回発動し、攻撃を受けた味方および隣接する味方に少量の物理ダメージを与える。",
         "SP": 0,
         "Status": [
             210020301,
@@ -167,13 +167,13 @@ var _monsterskill = {
     "100203003": {
         "Key": "SkillP01",
         "Name": "Covering Support",
-        "Desc": "Provides support to a friendly unit. When this unit attacks, it performs a follow-up attack that deals minor Physical DMG to the attacked target and units adjacent to the target.",
+        "Desc": "指定した敵単体を支援する。支援された敵は味方を攻撃する時、追加攻撃を1回発動し、攻撃を受けた味方および隣接する味方に少量の物理ダメージを与える。",
         "SP": 12.0
     },
     "100301001": {
         "Key": "Skill01",
         "Name": "Assault",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -183,7 +183,7 @@ var _monsterskill = {
     "100301002": {
         "Key": "Skill06",
         "Name": "Pierce",
-        "Desc": "Deals massive Physical DMG to a single target.",
+        "Desc": "指定した味方単体に大量の物理ダメージを与える。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -194,7 +194,7 @@ var _monsterskill = {
     "100301003": {
         "Key": "Skill07",
         "Name": "Shield Reflect",
-        "Desc": "Enters the Counter state. When attacked by a single character, acts immediately and casts \"Pierce\" on the attacker.",
+        "Desc": "カウンター状態に入り、味方単体の攻撃を受けると行動順が早まり、攻撃した味方に「刺突」を発動する。",
         "SP": 0,
         "Prepare": [
             100301002
@@ -206,7 +206,7 @@ var _monsterskill = {
     "100301004": {
         "Key": "Skill08",
         "Name": "Reinforcement",
-        "Desc": "Summons Silvermane Soldiers or Silvermane Gunners",
+        "Desc": "「シルバーメイン・近衛」または「シルバーメイン・狙撃手」を召喚する。",
         "SP": 0,
         "Summon": [
             1002040
@@ -215,7 +215,7 @@ var _monsterskill = {
     "100301101": {
         "Key": "Skill01",
         "Name": "Assault",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -225,7 +225,7 @@ var _monsterskill = {
     "100301102": {
         "Key": "Skill06",
         "Name": "Pierce",
-        "Desc": "Deals massive Physical DMG to a single target.",
+        "Desc": "指定した味方単体に大量の物理ダメージを与える。",
         "SP": 20.0,
         "Elem": "Phys",
         "DMG": [
@@ -235,7 +235,7 @@ var _monsterskill = {
     "100301103": {
         "Key": "Skill07",
         "Name": "Shield Reflect",
-        "Desc": "Goes into the Counter state. When attacked by a single character, gains 1 extra turn and deals Physical DMG to the target.",
+        "Desc": "カウンター状態に入り、味方単体の攻撃を受けた後に追加ターンを1回獲得し、攻撃した味方に物理ダメージを与える。",
         "SP": 0,
         "Status": [
             210030102
@@ -247,7 +247,7 @@ var _monsterskill = {
     "100301104": {
         "Key": "Skill08",
         "Name": "Reinforcement",
-        "Desc": "Summons Silvermane Soldiers or Silvermane Gunners",
+        "Desc": "「シルバーメイン・近衛」または「シルバーメイン・狙撃手」を召喚する。",
         "SP": 0,
         "Summon": [
             1002040
@@ -256,7 +256,7 @@ var _monsterskill = {
     "100301105": {
         "Key": "Skill09",
         "Name": "Rallying",
-        "Desc": "Increases ATK for all friendly units except Silvermane Lieutenant (Error) and causes them to act immediately.",
+        "Desc": "「シルバーメイン・尉官（バグ）」以外の敵の攻撃力をアップし、直ちに行動させる。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -266,7 +266,7 @@ var _monsterskill = {
     "100301201": {
         "Key": "Skill01",
         "Name": "Assault",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -276,7 +276,7 @@ var _monsterskill = {
     "100301202": {
         "Key": "Skill06",
         "Name": "Pierce",
-        "Desc": "Deals massive Physical DMG to a single target.",
+        "Desc": "指定した味方単体に大量の物理ダメージを与える。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -287,19 +287,19 @@ var _monsterskill = {
     "100301203": {
         "Key": "Skill07",
         "Name": "Shield Reflect",
-        "Desc": "Enters the Counter state: When attacked, acts immediately and uses Pierce on the attacker.",
+        "Desc": "カウンター状態に入り、味方の攻撃を受けた後に行動順が早まり、攻撃した味方に対し「刺突」を発動する。",
         "SP": 0
     },
     "100301204": {
         "Key": "Skill08",
         "Name": "Reinforcement",
-        "Desc": "Summons Silvermane Soldiers or Silvermane Gunners",
+        "Desc": "「シルバーメイン・近衛」または「シルバーメイン・狙撃手」を召喚する。",
         "SP": 0
     },
     "100301301": {
         "Key": "Skill01",
         "Name": "Assault",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -309,7 +309,7 @@ var _monsterskill = {
     "100301302": {
         "Key": "Skill06",
         "Name": "Pierce",
-        "Desc": "Deals massive Physical DMG to a single target.",
+        "Desc": "指定した味方単体に大量の物理ダメージを与える。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -320,7 +320,7 @@ var _monsterskill = {
     "100301303": {
         "Key": "Skill07",
         "Name": "Shield Reflect",
-        "Desc": "Enters the Counter state: When attacked, acts immediately and uses Pierce on the attacker.",
+        "Desc": "カウンター状態に入り、味方の攻撃を受けると行動順が早まり、攻撃した味方に「刺突」を発動する。",
         "SP": 0,
         "Prepare": [
             100301302
@@ -332,13 +332,13 @@ var _monsterskill = {
     "100301304": {
         "Key": "Skill08",
         "Name": "Reinforcement",
-        "Desc": "Summons Silvermane Soldiers or Silvermane Gunners",
+        "Desc": "「シルバーメイン・近衛」または「シルバーメイン・狙撃手」を召喚する。",
         "SP": 0
     },
     "100402001": {
         "Key": "Skill01",
         "Name": "Fist of Conviction",
-        "Desc": "Deals minor Ice DMG to a single target.",
+        "Desc": "指定した味方単体に少量の氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -348,7 +348,7 @@ var _monsterskill = {
     "100402002": {
         "Key": "Skill02",
         "Name": "Smite of Frost",
-        "Desc": "Deals Ice DMG to a single target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Ice",
         "DMG": [
@@ -358,7 +358,7 @@ var _monsterskill = {
     "100402003": {
         "Key": "Skill03",
         "Name": "Garrison Aura Field",
-        "Desc": "Grants a Barrier to another friendly unit. The Barrier nullifies all DMG received except for DoT until after the friendly unit is attacked.",
+        "Desc": "自身以外の敵にバリアを付与する。バリアがある敵は持続ダメージ以外のすべてのダメージを防ぐ。この効果は攻撃を受けた後に解除される。",
         "SP": 0,
         "Status": [
             210030204
@@ -367,7 +367,7 @@ var _monsterskill = {
     "100402004": {
         "Key": "Skill04",
         "Name": "Frigid Waterfall",
-        "Desc": "Deals Ice DMG to all targets.",
+        "Desc": "味方全体に氷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true,
@@ -378,7 +378,7 @@ var _monsterskill = {
     "100402005": {
         "Key": "Skill12",
         "Name": "Siege Support",
-        "Desc": "Summons Silvermane Gunners or Silvermane Cannoneers and Locks Onto a single target for all attacks.",
+        "Desc": "「シルバーメイン・狙撃手」または「シルバーメイン・砲兵」を召喚し、味方単体をロックオンして敵全体が集中攻撃するよう命じる。",
         "SP": 0,
         "Status": [
             210030201
@@ -391,7 +391,7 @@ var _monsterskill = {
     "100402101": {
         "Key": "Skill01",
         "Name": "Fist of Conviction",
-        "Desc": "Deals minor Ice DMG to a single target.",
+        "Desc": "指定した味方単体に少量の氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -401,7 +401,7 @@ var _monsterskill = {
     "100402102": {
         "Key": "Skill02",
         "Name": "Smite of Frost",
-        "Desc": "Deals Ice DMG to a single target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Ice",
         "DMG": [
@@ -411,7 +411,7 @@ var _monsterskill = {
     "100402103": {
         "Key": "Skill03",
         "Name": "Garrison Aura Field",
-        "Desc": "Grants a Barrier to another friendly unit. The Barrier nullifies all DMG received except for DoT until after the friendly unit is attacked.",
+        "Desc": "自身以外の敵にバリアを付与する。バリアがある敵は持続ダメージ以外のすべてのダメージを防ぐ。この効果は攻撃を受けた後に解除される。",
         "SP": 0,
         "Status": [
             210030204
@@ -420,7 +420,7 @@ var _monsterskill = {
     "100402104": {
         "Key": "Skill04",
         "Name": "Frigid Waterfall",
-        "Desc": "Deals Ice DMG to all targets.",
+        "Desc": "味方全体に氷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true,
@@ -431,7 +431,7 @@ var _monsterskill = {
     "100402105": {
         "Key": "Skill12",
         "Name": "Siege Support",
-        "Desc": "Summons Silvermane Gunners and Locks Onto a single target for all attacks.",
+        "Desc": "「シルバーメイン・狙撃手」を召喚し、味方単体をロックオンして敵全体が集中攻撃するよう命じる。",
         "SP": 0,
         "Status": [
             210030201
@@ -444,7 +444,7 @@ var _monsterskill = {
     "100402201": {
         "Key": "Skill01",
         "Name": "Fist of Conviction",
-        "Desc": "Deals minor Ice DMG to a single target.",
+        "Desc": "指定した味方単体に少量の氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -454,7 +454,7 @@ var _monsterskill = {
     "100402202": {
         "Key": "Skill02",
         "Name": "Smite of Frost",
-        "Desc": "Deals Ice DMG to a single target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Ice",
         "DMG": [
@@ -464,7 +464,7 @@ var _monsterskill = {
     "100402203": {
         "Key": "Skill03",
         "Name": "Garrison Aura Field",
-        "Desc": "Unleashes Shield for All and absorbs DMG taken by all friendly units, as well as preventing all friendly units from receiving damage to their Toughness.",
+        "Desc": "「全体バリア」を発動し、敵全体のダメージを防ぐ、さらに敵全体の靭性がダメージを受けなくなる。",
         "SP": 0,
         "Status": [
             210040223,
@@ -474,7 +474,7 @@ var _monsterskill = {
     "100402204": {
         "Key": "Skill04",
         "Name": "Frigid Waterfall",
-        "Desc": "Deals Ice DMG to all targets and slightly increases the DMG dealt. This DMG boosting effect is stackable.",
+        "Desc": "味方全体に氷属性ダメージを与え、自身の与ダメージを小幅アップさせる。ダメージアップ効果は累積できる。",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true,
@@ -488,7 +488,7 @@ var _monsterskill = {
     "100402205": {
         "Key": "Skill05",
         "Name": "Besiege",
-        "Desc": "Gepard Locks On a single target, causing all friendly units to immediately launch coordinated attacks on the target.",
+        "Desc": "ジェパードが指定した味方単体をロックオンし、敵全体に集中攻撃するよう命じる。",
         "SP": 0,
         "Status": [
             210030201
@@ -504,7 +504,7 @@ var _monsterskill = {
     "100402208": {
         "Key": "Skill08",
         "Name": "Tit for Tat",
-        "Desc": "Goes into the Counter state for 1 turn. If attacked by a target while in this state, immediately use \"Smite of Frost\" on the attacker. This effect can only be triggered 1 time.",
+        "Desc": "カウンター状態に入り、1ターン継続。この状態の時に攻撃を受けると、即座に攻撃者に「霜の処罰」を発動。この効果は最大で1回発動する。",
         "SP": 0,
         "Elem": "Ice",
         "Status": [
@@ -517,7 +517,7 @@ var _monsterskill = {
     "100402209": {
         "Key": "SkillP01",
         "Name": "Support",
-        "Desc": "When the phase starts, immediately summons Silvermane Soldiers or Silvermane Cannoneers.",
+        "Desc": "段階開始時、「シルバーメイン・近衛」と「シルバーメイン・砲兵」を召喚する。",
         "SP": 0,
         "Summon": [
             1002041,
@@ -527,7 +527,7 @@ var _monsterskill = {
     "100402210": {
         "Key": "SkillP01",
         "Name": "Support",
-        "Desc": "When the phase starts, immediately summons Silvermane Cannoneers.",
+        "Desc": "段階開始時、「シルバーメイン・砲兵」を召喚する。",
         "SP": 0,
         "Summon": [
             1002030
@@ -536,7 +536,7 @@ var _monsterskill = {
     "100402211": {
         "Key": "SkillP01",
         "Name": "Support",
-        "Desc": "When the phase starts, immediately summons Silvermane Lieutenant (Complete).",
+        "Desc": "段階開始時、「シルバーメイン・尉官（スペック）」を召喚する。",
         "SP": 0,
         "Summon": [
             1003012
@@ -545,7 +545,7 @@ var _monsterskill = {
     "100402301": {
         "Key": "Skill01",
         "Name": "Fist of Conviction",
-        "Desc": "Deals minor Ice DMG to a single target.",
+        "Desc": "指定した味方単体に少量の氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -555,7 +555,7 @@ var _monsterskill = {
     "100402302": {
         "Key": "Skill02",
         "Name": "Smite of Frost",
-        "Desc": "Deals Ice DMG to a single target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Ice",
         "DMG": [
@@ -565,7 +565,7 @@ var _monsterskill = {
     "100402303": {
         "Key": "Skill03",
         "Name": "Garrison Aura Field",
-        "Desc": "Unleashes Shield for All and absorbs DMG taken by all friendly units, as well as preventing all friendly units from receiving damage to their Toughness.",
+        "Desc": "「全体バリア」を発動し、敵全体のダメージを防ぐ、さらに敵全体の靭性がダメージを受けなくなる。",
         "SP": 0,
         "Status": [
             210040223,
@@ -575,7 +575,7 @@ var _monsterskill = {
     "100402304": {
         "Key": "Skill04",
         "Name": "Frigid Waterfall",
-        "Desc": "Deals Ice DMG to all targets and slightly increases own DMG. This DMG boosting effect is stackable.",
+        "Desc": "味方全体に氷属性ダメージを与え、自身の与ダメージを小幅アップさせる。ダメージアップ効果は累積可能。",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true,
@@ -589,7 +589,7 @@ var _monsterskill = {
     "100402305": {
         "Key": "Skill05",
         "Name": "Besiege",
-        "Desc": "Gepard locks on to a single target, causing all friendly units to immediately attack the target.",
+        "Desc": "ジェパードが指定した味方単体をロックオンし、敵全体に集中攻撃するよう命じる。",
         "SP": 0,
         "Status": [
             210030201
@@ -605,7 +605,7 @@ var _monsterskill = {
     "100402308": {
         "Key": "Skill08",
         "Name": "Tit for Tat",
-        "Desc": "Enters the Counter state for 1 turn. If attacked while in this state, immediately use Smite of Frost on the attacker. This effect can only be triggered 1 time.",
+        "Desc": "カウンター状態に入り、1ターン継続。この状態の時に攻撃を受けると、攻撃者に「霜の処罰」を発動。この効果は最大で1回発動する。",
         "SP": 0,
         "Status": [
             210040222
@@ -617,7 +617,7 @@ var _monsterskill = {
     "100402309": {
         "Key": "SkillP01",
         "Name": "Support",
-        "Desc": "When the phase starts, immediately summons Silvermane Soldiers or Silvermane Cannoneers.",
+        "Desc": "段階開始時、「シルバーメイン・近衛」と「シルバーメイン・砲兵」を召喚する。",
         "SP": 0,
         "Summon": [
             1002041,
@@ -627,7 +627,7 @@ var _monsterskill = {
     "100402310": {
         "Key": "SkillP02",
         "Name": "Support",
-        "Desc": "When the phase starts, immediately summons Silvermane Cannoneers.",
+        "Desc": "段階開始時、「シルバーメイン・砲兵」を召喚する。",
         "SP": 0,
         "Summon": [
             1002030
@@ -636,7 +636,7 @@ var _monsterskill = {
     "100402311": {
         "Key": "SkillP03",
         "Name": "Support",
-        "Desc": "When the phase starts, immediately summons Silvermane Lieutenant (Complete).",
+        "Desc": "段階開始時、「シルバーメイン・尉官（スペック）」を召喚する。",
         "SP": 0,
         "Summon": [
             1003013
@@ -657,7 +657,7 @@ var _monsterskill = {
     "100401001": {
         "Key": "Skill06",
         "Name": "Chill of Bone-Piercing Coagulation",
-        "Desc": "Deals Ice DMG to a single target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -667,7 +667,7 @@ var _monsterskill = {
     "100401002": {
         "Key": "Skill02",
         "Name": "Omen of Everlasting Freeze",
-        "Desc": "Summons Ice Edges.",
+        "Desc": "「氷刃」を召喚する。",
         "SP": 0,
         "Summon": [
             1002011,
@@ -677,7 +677,7 @@ var _monsterskill = {
     "100401003": {
         "Key": "Skill03",
         "Name": "Punishment of Endless Winter",
-        "Desc": "Deals massive Ice DMG to all targets.",
+        "Desc": "味方全体に大量の氷属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Ice",
         "Threat": true,
@@ -688,7 +688,7 @@ var _monsterskill = {
     "100401004": {
         "Key": "Skill04",
         "Name": "Hoarfrost of Eternal Isolation",
-        "Desc": "Deals minor Ice DMG to a single target, with a high chance to Freeze the target.",
+        "Desc": "指定した味方単体に少量の氷属性ダメージを与え、高確率で攻撃を受けた味方を凍結状態にする。",
         "SP": 10.0,
         "Elem": "Ice",
         "Status": [
@@ -702,7 +702,7 @@ var _monsterskill = {
     "100401005": {
         "Key": "Skill05",
         "Name": "Wrath of Winterland Saints",
-        "Desc": "Enters the Charge state. The next action casts \"Punishment of Endless Winter\" on all targets.",
+        "Desc": "チャージ状態に入り、次の行動の時に味方全体に「無尽なる冬の絶罰」を発動。",
         "SP": 0,
         "Prepare": [
             100401003
@@ -720,7 +720,7 @@ var _monsterskill = {
     "100401101": {
         "Key": "Skill01",
         "Name": "Chill of Bone-Piercing Coagulation",
-        "Desc": "Deals Ice DMG to a single target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -730,7 +730,7 @@ var _monsterskill = {
     "100401102": {
         "Key": "Skill02",
         "Name": "Omen of Everlasting Freeze",
-        "Desc": "Summons Ice Edges.",
+        "Desc": "「氷刃」を召喚する。",
         "SP": 0,
         "Summon": [
             1002015,
@@ -740,7 +740,7 @@ var _monsterskill = {
     "100401103": {
         "Key": "Skill03",
         "Name": "Punishment of Endless Winter",
-        "Desc": "Deals massive Ice DMG to all targets.",
+        "Desc": "味方全体に大量の氷属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Ice",
         "Threat": true,
@@ -751,7 +751,7 @@ var _monsterskill = {
     "100401104": {
         "Key": "Skill04",
         "Name": "Hoarfrost of Eternal Isolation",
-        "Desc": "Deals Ice DMG to a single target, with a high chance to Freeze the target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与え、高確率で攻撃を受けた味方を凍結状態にする。",
         "SP": 10.0,
         "Elem": "Ice",
         "Status": [
@@ -765,7 +765,7 @@ var _monsterskill = {
     "100401105": {
         "Key": "Skill05",
         "Name": "Wrath of Winterland Saints",
-        "Desc": "Enters the Charge state. The next action casts \"Punishment of Endless Winter\" on all targets.",
+        "Desc": "チャージ状態に入り、次の行動の時に味方全体に「無尽なる冬の絶罰」を発動。",
         "SP": 0,
         "Prepare": [
             100401103
@@ -777,7 +777,7 @@ var _monsterskill = {
     "100401106": {
         "Key": "Skill07",
         "Name": "Reverberating Ice",
-        "Desc": "Deals Ice DMG to Frozen targets and units adjacent to the target. This also removes the target's Frozen state. If the adjacent units are frozen, then this ability is used again on the target.",
+        "Desc": "凍結状態の味方および隣接するターゲットに氷属性ダメージを与え、メインターゲットの凍結状態を解除する。隣接する味方が凍結状態の場合、メインターゲットにこのスキルをもう一度発動する。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -788,7 +788,7 @@ var _monsterskill = {
     "100401107": {
         "Key": "PassiveSkill01",
         "Name": "Intensifying Cold",
-        "Desc": "The unit and all summoned objects gain slightly increased DMG for each Frozen target on the enemy team. This DMG boosting effect is stackable.",
+        "Desc": "凍結状態の味方1人につき、自身および召喚物の与ダメージが小幅アップする。ダメージアップ効果は累積できる。",
         "SP": 0,
         "Status": [
             210040111
@@ -797,7 +797,7 @@ var _monsterskill = {
     "100401201": {
         "Key": "Skill01",
         "Name": "Chill of Bone-Piercing Coagulation",
-        "Desc": "Deals Ice DMG to a single target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -807,7 +807,7 @@ var _monsterskill = {
     "100401202": {
         "Key": "Skill02",
         "Name": "Omen of Everlasting Freeze",
-        "Desc": "Summons Ice Edges.",
+        "Desc": "「氷刃」を召喚する。",
         "SP": 0,
         "Summon": [
             1002015,
@@ -817,7 +817,7 @@ var _monsterskill = {
     "100401203": {
         "Key": "Skill03",
         "Name": "Punishment of Endless Winter",
-        "Desc": "Deals massive Ice DMG to all targets.",
+        "Desc": "味方全体に大量の氷属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Ice",
         "Threat": true,
@@ -828,7 +828,7 @@ var _monsterskill = {
     "100401204": {
         "Key": "Skill04",
         "Name": "Hoarfrost of Eternal Isolation",
-        "Desc": "Deals Ice DMG to a single target, with a high chance to Freeze the target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与え、高確率で攻撃を受けた味方を凍結状態にする。",
         "SP": 10.0,
         "Elem": "Ice",
         "Status": [
@@ -842,7 +842,7 @@ var _monsterskill = {
     "100401205": {
         "Key": "Skill05",
         "Name": "Wrath of Winterland Saints",
-        "Desc": "Enters the Charge state. The next action uses \"Punishment of Endless Winter\" on all targets.",
+        "Desc": "チャージ状態に入り、次の行動の時に味方全体に「無尽なる冬の絶罰」を発動。",
         "SP": 0,
         "Prepare": [
             100401203
@@ -854,7 +854,7 @@ var _monsterskill = {
     "100401206": {
         "Key": "Skill07",
         "Name": "Reverberating Ice",
-        "Desc": "Deals Ice DMG to Frozen targets and their adjacent units. This also removes the main target's Frozen state. If the adjacent units are frozen, then this ability is used again on the main target.",
+        "Desc": "凍結状態の味方および隣接するターゲットに氷属性ダメージを与え、メインターゲットの凍結状態を解除する。隣接する味方が凍結状態の場合、メインターゲットにこのスキルをもう一度発動する。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -865,7 +865,7 @@ var _monsterskill = {
     "100401207": {
         "Key": "PassiveSkill01",
         "Name": "Intensifying Cold",
-        "Desc": "The caster and all summoned objects gain increased DMG for each Frozen unit on their enemies' team.",
+        "Desc": "凍結状態の味方単体1人につき、自身及び召喚物の与ダメージがアップする。",
         "SP": 0,
         "Status": [
             210040111
@@ -874,7 +874,7 @@ var _monsterskill = {
     "100403001": {
         "Key": "Skill01",
         "Name": "Windrider Bullet",
-        "Desc": "Deals Wind DMG to a single target.",
+        "Desc": "指定した味方単体に風属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Wind",
         "DMG": [
@@ -884,13 +884,13 @@ var _monsterskill = {
     "100403002": {
         "Key": "Skill02",
         "Name": "Combat Redeployment",
-        "Desc": "Dispels all debuffs on a friendly unit except Bronya, and causes them to take action immediately.",
+        "Desc": "ブローニャ以外の指定した敵単体のすべてのデバフを解除し、即座に行動させる。",
         "SP": 0
     },
     "100403003": {
         "Key": "Skill03",
         "Name": "Coordinated Reinforcement",
-        "Desc": "Summons Silvermane Soldiers or Silvermane Gunners",
+        "Desc": "「シルバーメイン・近衛」または「シルバーメイン・狙撃手」を召喚する。",
         "SP": 0,
         "Summon": [
             1002040,
@@ -900,7 +900,7 @@ var _monsterskill = {
     "100403004": {
         "Key": "Skill04",
         "Name": "Suppressive Fire",
-        "Desc": "Deals Wind DMG to a single target and delays their action.",
+        "Desc": "指定した味方単体に風属性ダメージを与え、攻撃を受けた味方の行動順を遅らす。",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true,
@@ -911,7 +911,7 @@ var _monsterskill = {
     "100403101": {
         "Key": "Skill01",
         "Name": "Windrider Bullet",
-        "Desc": "Deals Wind DMG to a single target.",
+        "Desc": "指定した味方単体に風属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Wind",
         "DMG": [
@@ -921,19 +921,19 @@ var _monsterskill = {
     "100403102": {
         "Key": "Skill02",
         "Name": "Combat Redeployment",
-        "Desc": "Dispels all debuffs on a friendly unit except Bronya, causes them to take action immediately, and slightly increases their DMG dealt.",
+        "Desc": "ブローニャ以外の指定した敵単体のすべてのデバフを解除し、即座に行動させ、その敵の与ダメージを小幅アップさせる。",
         "SP": 0
     },
     "100403103": {
         "Key": "Skill03",
         "Name": "Coordinated Reinforcement",
-        "Desc": "Summons Silvermane Soldiers or Silvermane Gunners",
+        "Desc": "「シルバーメイン・近衛」または「シルバーメイン・狙撃手」を召喚する。",
         "SP": 0
     },
     "100403104": {
         "Key": "Skill04",
         "Name": "Suppressive Fire",
-        "Desc": "Deals Wind DMG to a single target and delays their action.",
+        "Desc": "指定した味方単体に風属性ダメージを与え、攻撃を受けた味方の行動順を遅らす。",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true,
@@ -944,7 +944,7 @@ var _monsterskill = {
     "100501001": {
         "Key": "Skill01",
         "Name": "Bone-Shattering Cold",
-        "Desc": "Deals Ice DMG to a single target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -954,7 +954,7 @@ var _monsterskill = {
     "100501002": {
         "Key": "Skill06",
         "Name": "Soulrend Coldstream",
-        "Desc": "Deals massive Ice DMG to a single target.",
+        "Desc": "指定した味方単体に大量の氷属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Ice",
         "Threat": true,
@@ -965,7 +965,7 @@ var _monsterskill = {
     "100501003": {
         "Key": "Skill04",
         "Name": "Icy Rain of Annihilation",
-        "Desc": "Deals Ice DMG to all targets.",
+        "Desc": "味方全体に氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -975,7 +975,7 @@ var _monsterskill = {
     "100501004": {
         "Key": "Skill02",
         "Name": "Heartless Annihilator Call",
-        "Desc": "Summons Lances of the Eternal Freeze.",
+        "Desc": "「無尽なる冬の槊」を召喚する。",
         "SP": 0,
         "Summon": [
             1002013,
@@ -985,7 +985,7 @@ var _monsterskill = {
     "100501005": {
         "Key": "Skill07",
         "Name": "Genesis Chord",
-        "Desc": "Deals Imaginary DMG to a single target, with a high chance of causing Imprisonment.",
+        "Desc": "指定した味方単体に虚数属性ダメージを与え、高確率で攻撃を受けた味方を禁錮状態にする。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "Status": [
@@ -998,7 +998,7 @@ var _monsterskill = {
     "100501006": {
         "Key": "Skill08",
         "Name": "The Creation's Prelude",
-        "Desc": "Enters the Charge state. The next action uses \"Last Choir of Genesis\" on all targets.",
+        "Desc": "チャージ状態に入る。次の行動で味方全体に「創世の絶唱」を発動。",
         "SP": 0,
         "Prepare": [
             100501007
@@ -1010,7 +1010,7 @@ var _monsterskill = {
     "100501007": {
         "Key": "Skill09",
         "Name": "Last Choir of Genesis",
-        "Desc": "Deals massive Imaginary DMG to all targets.",
+        "Desc": "味方全体に大量の虚数属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Imaginary",
         "Threat": true,
@@ -1021,7 +1021,7 @@ var _monsterskill = {
     "100501008": {
         "Key": "Skill10",
         "Name": "Harbinger of Annihilation",
-        "Desc": "Locks Onto a single target. The next action uses \"Soulrend Coldstream.\"",
+        "Desc": "指定した味方単体をロックオンし、次の行動でこのターゲットに「裂魂の寒流」を発動する。",
         "SP": 0,
         "Prepare": [
             100501002
@@ -1033,13 +1033,13 @@ var _monsterskill = {
     "100501009": {
         "Key": "SkillP01",
         "Name": "Creator's Resolve",
-        "Desc": "After changing phases, slightly increases SPD and deals Imaginary DMG when attacking.",
+        "Desc": "段階進行後に速度小幅アップ、攻撃が虚数属性に変化。",
         "SP": 0
     },
     "100501101": {
         "Key": "Skill01",
         "Name": "Bone-Shattering Cold",
-        "Desc": "Deals Ice DMG to a single target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -1049,7 +1049,7 @@ var _monsterskill = {
     "100501102": {
         "Key": "Skill06",
         "Name": "Soulrend Coldstream",
-        "Desc": "Deals massive Ice DMG to a single target.",
+        "Desc": "指定した味方単体に大量の氷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true,
@@ -1060,7 +1060,7 @@ var _monsterskill = {
     "100501103": {
         "Key": "Skill04",
         "Name": "Icy Rain of Annihilation",
-        "Desc": "Deals Ice DMG to all targets.",
+        "Desc": "味方全体に氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -1070,7 +1070,7 @@ var _monsterskill = {
     "100501104": {
         "Key": "Skill02",
         "Name": "Heartless Annihilator Call",
-        "Desc": "Summons Lances of the Eternal Freeze.",
+        "Desc": "「無尽なる冬の槊」を召喚する。",
         "SP": 0,
         "Summon": [
             1002013,
@@ -1080,7 +1080,7 @@ var _monsterskill = {
     "100501105": {
         "Key": "Skill07",
         "Name": "Genesis Chord",
-        "Desc": "Deals Imaginary DMG to a single target, with a high chance of causing Imprisonment.",
+        "Desc": "指定した味方単体に虚数属性ダメージを与え、高確率で攻撃を受けた味方を禁錮状態にする。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "Status": [
@@ -1093,7 +1093,7 @@ var _monsterskill = {
     "100501106": {
         "Key": "Skill08",
         "Name": "The Creation's Prelude",
-        "Desc": "Enters the Charge state. The next action uses \"Last Choir of Genesis\" on all targets.",
+        "Desc": "チャージ状態に入る。次の行動で味方全体に「創世の絶唱」を発動。",
         "SP": 0,
         "Prepare": [
             100501107
@@ -1105,7 +1105,7 @@ var _monsterskill = {
     "100501107": {
         "Key": "Skill09",
         "Name": "Last Choir of Genesis",
-        "Desc": "Deals massive Imaginary DMG to all targets.",
+        "Desc": "味方全体に大量の虚数属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Imaginary",
         "Threat": true,
@@ -1116,7 +1116,7 @@ var _monsterskill = {
     "100501108": {
         "Key": "Skill10",
         "Name": "Harbinger of Annihilation",
-        "Desc": "Locks Onto a single target. The next action uses \"Soulrend Coldstream.\"",
+        "Desc": "指定した味方単体をロックオンし、次の行動でこのターゲットに「裂魂の寒流」を発動する。",
         "SP": 0,
         "Prepare": [
             100501102
@@ -1128,7 +1128,7 @@ var _monsterskill = {
     "100501109": {
         "Key": "SkillP01",
         "Name": "Creator's Resolve",
-        "Desc": "After changing phases, slightly increases SPD and deals Imaginary DMG when attacking.",
+        "Desc": "段階進行後に速度小幅アップ、攻撃が虚数属性に変化。",
         "SP": 0
     },
     "100501110": {
@@ -1140,7 +1140,7 @@ var _monsterskill = {
     "100501201": {
         "Key": "Skill01",
         "Name": "Bone-Shattering Cold",
-        "Desc": "Deals Ice DMG to a single target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -1150,7 +1150,7 @@ var _monsterskill = {
     "100501202": {
         "Key": "Skill06",
         "Name": "Soulrend Coldstream",
-        "Desc": "Deals massive Ice DMG to a single target, with a high chance to Freeze the attacked target.",
+        "Desc": "指定した味方単体に大量の氷属性ダメージを与え、高確率で攻撃を受けた味方を凍結状態にする。",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true,
@@ -1162,7 +1162,7 @@ var _monsterskill = {
     "100501203": {
         "Key": "Skill04",
         "Name": "Icy Rain of Annihilation",
-        "Desc": "Deals Ice DMG to all targets.",
+        "Desc": "味方全体に氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -1172,7 +1172,7 @@ var _monsterskill = {
     "100501204": {
         "Key": "Skill02",
         "Name": "Heartless Annihilator Call",
-        "Desc": "Summons Lances of the Eternal Freeze.",
+        "Desc": "「無尽なる冬の槊」を召喚する。",
         "SP": 0,
         "Summon": [
             1002017,
@@ -1182,7 +1182,7 @@ var _monsterskill = {
     "100501205": {
         "Key": "Skill07",
         "Name": "Genesis Chord",
-        "Desc": "Deals Imaginary DMG to a single target, with a high chance of causing Imprisonment.",
+        "Desc": "指定した味方単体に虚数属性ダメージを与え、高確率で攻撃を受けた味方を禁錮状態にする。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "Status": [
@@ -1195,7 +1195,7 @@ var _monsterskill = {
     "100501206": {
         "Key": "Skill08",
         "Name": "The Creation's Prelude",
-        "Desc": "Enters the Charge state. The next action uses \"Last Choir of Genesis\" on all targets.",
+        "Desc": "チャージ状態に入る。次の行動で味方全体に「創世の絶唱」を発動。",
         "SP": 0,
         "Prepare": [
             100501207
@@ -1207,7 +1207,7 @@ var _monsterskill = {
     "100501207": {
         "Key": "Skill09",
         "Name": "Last Choir of Genesis",
-        "Desc": "Deals massive Imaginary DMG to all targets.",
+        "Desc": "味方全体に大量の虚数属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Imaginary",
         "Threat": true,
@@ -1218,7 +1218,7 @@ var _monsterskill = {
     "100501208": {
         "Key": "Skill10",
         "Name": "Harbinger of Annihilation",
-        "Desc": "Locks Onto a single target. The next action uses \"Soulrend Coldstream.\"",
+        "Desc": "指定した味方単体をロックオンし、次の行動でこのターゲットに「裂魂の寒流」を発動する。",
         "SP": 0,
         "Prepare": [
             100501202
@@ -1230,7 +1230,7 @@ var _monsterskill = {
     "100501209": {
         "Key": "SkillP02",
         "Name": "Harbinger's Resolve",
-        "Desc": "Uses Soulrend Coldstream on a single target, with a high chance to Freeze the target.",
+        "Desc": "指定した味方単体に「裂魂の寒流」を発動し、高確率でターゲットを凍結状態にする。",
         "SP": 0,
         "Elem": "Ice",
         "Prepare": [
@@ -1240,13 +1240,13 @@ var _monsterskill = {
     "100501210": {
         "Key": "SkillP01",
         "Name": "Creator's Resolve",
-        "Desc": "After changing phases, increases SPD and deals Imaginary DMG when attacking.",
+        "Desc": "段階進行後に速度アップ、攻撃が虚数属性に変化。",
         "SP": 0
     },
     "101201001": {
         "Key": "Skill01",
         "Name": "Vertical Strike",
-        "Desc": "Deals minor Physical DMG to a single target.",
+        "Desc": "指定した味方単体に少量の物理ダメージを与える。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -1256,13 +1256,13 @@ var _monsterskill = {
     "101201002": {
         "Key": "Skill05",
         "Name": "Self-Healing Module",
-        "Desc": "Immediately recovers all friendly units' HP.",
+        "Desc": "敵全体のHPを回復。",
         "SP": 0
     },
     "101201101": {
         "Key": "Skill01",
         "Name": "Vertical Strike",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -1272,13 +1272,13 @@ var _monsterskill = {
     "101201102": {
         "Key": "Skill05",
         "Name": "Self-Healing Module",
-        "Desc": "Immediately recovers all friendly units' HP.",
+        "Desc": "敵全体のHPを回復。",
         "SP": 0
     },
     "101202001": {
         "Key": "Skill01",
         "Name": "Ram",
-        "Desc": "Deals minor Physical DMG to a single target.",
+        "Desc": "指定した味方単体に少量の物理ダメージを与える。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -1288,7 +1288,7 @@ var _monsterskill = {
     "101202002": {
         "Key": "Skill02",
         "Name": "Timed Module",
-        "Desc": "The next action uses Self-Exploding Module.",
+        "Desc": "次の行動で「自爆モジュール」を発動する。",
         "SP": 0,
         "Prepare": [
             101202003
@@ -1297,7 +1297,7 @@ var _monsterskill = {
     "101202003": {
         "Key": "Skill03",
         "Name": "Self-Exploding Module",
-        "Desc": "Self-destructs, dealing Fire DMG to a single target and units adjacent to the target.",
+        "Desc": "自爆し、味方単体および隣接する味方に炎属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Fire",
         "Threat": true,
@@ -1308,7 +1308,7 @@ var _monsterskill = {
     "101202004": {
         "Key": "PassiveSkillInitiate",
         "Name": "Chains of Destruction",
-        "Desc": "Deals Fire DMG to adjacent units when suffering a killing blow.",
+        "Desc": "HPが0になる攻撃を受けた後、隣接する敵に炎属性ダメージを与える。",
         "SP": 0,
         "Elem": "Fire"
     },
@@ -1321,7 +1321,7 @@ var _monsterskill = {
     "101202101": {
         "Key": "Skill01",
         "Name": "Ram",
-        "Desc": "Deals minor Physical DMG to a single target.",
+        "Desc": "指定した味方単体に少量の物理ダメージを与える。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -1331,7 +1331,7 @@ var _monsterskill = {
     "101202102": {
         "Key": "Skill02",
         "Name": "Timed Module",
-        "Desc": "The next action uses Self-Exploding Module.",
+        "Desc": "次の行動で「自爆モジュール」を発動する。",
         "SP": 0,
         "Prepare": [
             101202103
@@ -1340,7 +1340,7 @@ var _monsterskill = {
     "101202103": {
         "Key": "Skill03",
         "Name": "Self-Exploding Module",
-        "Desc": "Self-destructs, dealing Fire DMG to a single target and units adjacent to the target.",
+        "Desc": "自爆し、味方単体および隣接する味方に炎属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Fire",
         "Threat": true,
@@ -1351,14 +1351,14 @@ var _monsterskill = {
     "101202104": {
         "Key": "PassiveSkillInitiate",
         "Name": "Chains of Destruction",
-        "Desc": "Deals Fire DMG to adjacent units when suffering a killing blow.",
+        "Desc": "HPが0になる攻撃を受けた後、隣接する敵に炎属性ダメージを与える。",
         "SP": 0,
         "Elem": "Fire"
     },
     "101203001": {
         "Key": "Skill01",
         "Name": "Unstable Forcefield",
-        "Desc": "Deals Physical DMG to a single target, and grants a Barrier to another friendly unit. The Barrier nullifies all DMG received except for DoT until after the friendly unit is attacked.",
+        "Desc": "指定した味方単体に物理ダメージを与え、自身にバリアを付与する。バリアは持続ダメージ以外のすべてのダメージを防ぐ。この効果は攻撃を受けた後に解除される。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -1374,7 +1374,7 @@ var _monsterskill = {
     "101204002": {
         "Key": "PassiveSkill03",
         "Name": "Oppressive Embrace",
-        "Desc": "Deals Restrained targets Physical DMG equal to a percentage of their Max HP.",
+        "Desc": "「束縛」状態の味方に、その味方のHPの割合に応じた物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1390,7 +1390,7 @@ var _monsterskill = {
     "101204004": {
         "Key": "Skill03",
         "Name": "Oppressive Embrace",
-        "Desc": "Restrains a single target, and deals Physical DMG 1 time. When this unit has their Weakness Broken, dispels the Restrain status from the target.",
+        "Desc": "指定した味方単体を「束縛」状態にし、物理ダメージを1回与える。自身が弱点撃破されると味方の「束縛」状態は解除される。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1400,7 +1400,7 @@ var _monsterskill = {
     "101204005": {
         "Key": "Skill04",
         "Name": "Disabling Field",
-        "Desc": "Deals Restrained targets Physical DMG equal to a percentage of their Max HP.",
+        "Desc": "「束縛」状態の味方に、その味方のHPの割合に応じた物理ダメージを与える。",
         "SP": 10.0,
         "Status": [
             210040204
@@ -1409,7 +1409,7 @@ var _monsterskill = {
     "101204006": {
         "Key": "Skill05",
         "Name": "Controlled Blasting",
-        "Desc": "The Auxiliary Robot Arm explodes, dealing massive Physical DMG to a single target.",
+        "Desc": "マニピュレーターが爆発し、指定した味方単体に大量の物理ダメージを与える。",
         "SP": 25.0,
         "Elem": "Phys",
         "Threat": true,
@@ -1420,7 +1420,7 @@ var _monsterskill = {
     "101204007": {
         "Key": "Skill06",
         "Name": "Overload Warning",
-        "Desc": "Auxiliary Robot Arm Unit enters Overload mode and immediately removes Restrain status from friendly units. When entering this mode, Auxiliary Robot Arm Unit will cast Controlled Blasting in its next action.",
+        "Desc": "マニピュレーターユニットが「過負荷」状態に入り、味方の「束縛」状態を解除する。この状態に入ると、マニピュレーターユニットが次の行動で「制御起爆」を発動する。",
         "SP": 0,
         "Prepare": [
             101204006
@@ -1439,7 +1439,7 @@ var _monsterskill = {
     "101204102": {
         "Key": "PassiveSkill03",
         "Name": "Oppressive Embrace",
-        "Desc": "Deals Restrained targets Physical DMG equal to a percentage of their Max HP.",
+        "Desc": "「束縛」状態の味方に、その味方のHPの割合に応じた物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1455,7 +1455,7 @@ var _monsterskill = {
     "101204104": {
         "Key": "Skill03",
         "Name": "Oppressive Embrace",
-        "Desc": "Restrains a single target, and deals Physical DMG 1 time. When this unit has their Weakness Broken or drops below a certain amount of HP, dispels the Restrain status from the target.",
+        "Desc": "指定した味方単体を「束縛」状態にし、物理ダメージを1回与える。自身が弱点撃破されるかHPが一定値を下回ると、味方の「束縛」状態は解除される。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1465,7 +1465,7 @@ var _monsterskill = {
     "101204105": {
         "Key": "Skill04",
         "Name": "Disabling Field",
-        "Desc": "Deals Physical DMG equal to a percentage of their Max HP to Restrained targets.",
+        "Desc": "「束縛」状態の味方に、HPの割合に応じた物理ダメージを与える。",
         "SP": 10.0,
         "Status": [
             210040113
@@ -1474,7 +1474,7 @@ var _monsterskill = {
     "101204106": {
         "Key": "Skill05",
         "Name": "Controlled Blasting",
-        "Desc": "The Auxiliary Robot Arm Unit explodes, dealing massive Physical DMG to a single target.",
+        "Desc": "マニピュレーターユニットが爆発し、指定した味方単体に大量の物理ダメージを与える。",
         "SP": 25.0,
         "Elem": "Phys",
         "Threat": true,
@@ -1485,7 +1485,7 @@ var _monsterskill = {
     "101204107": {
         "Key": "Skill06",
         "Name": "Overload Warning",
-        "Desc": "Auxiliary Robot Arm Unit enters Overload mode and immediately removes Restrain status from friendly units. When entering this mode, Auxiliary Robot Arm Unit will cast Controlled Blasting in its next action.",
+        "Desc": "マニピュレーターユニットが「過負荷」状態に入り、味方の「束縛」状態を解除する。この状態に入ると、マニピュレーターユニットが次の行動で「制御起爆」を発動する。",
         "SP": 0,
         "Prepare": [
             101204106
@@ -1504,7 +1504,7 @@ var _monsterskill = {
     "101204202": {
         "Key": "PassiveSkill03",
         "Name": "Oppressive Embrace",
-        "Desc": "Deals Restrained targets Physical DMG equal to a percentage of their Max HP.",
+        "Desc": "「束縛」状態の味方に、その味方のHPの割合に応じたの物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1520,7 +1520,7 @@ var _monsterskill = {
     "101204204": {
         "Key": "Skill03",
         "Name": "Oppressive Embrace",
-        "Desc": "Restrains a single target, and deals Physical DMG 1 time. When this unit has their Weakness Broken or drops below a certain amount of HP, dispels the Restrain status from the target.",
+        "Desc": "指定した味方単体を「束縛」状態にし、物理属性ダメージを1回与える。自身が弱点撃破されるかHPが一定値を下回ると、味方の「束縛」状態は解除される。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1530,7 +1530,7 @@ var _monsterskill = {
     "101204205": {
         "Key": "Skill04",
         "Name": "Disabling Field",
-        "Desc": "Deals Physical DMG equal to a percentage of their Max HP to Restrained targets.",
+        "Desc": "「束縛」状態の味方に、HPの割合に応じたの物理属性ダメージを与える。",
         "SP": 10.0,
         "Status": [
             210040113
@@ -1539,7 +1539,7 @@ var _monsterskill = {
     "101204206": {
         "Key": "Skill05",
         "Name": "Controlled Blasting",
-        "Desc": "The Auxiliary Robot Arm Unit explodes, dealing massive Physical DMG to a single target.",
+        "Desc": "マニピュレーターユニットが爆発し、指定した味方単体に大量の物理ダメージを与える。",
         "SP": 25.0,
         "Elem": "Phys",
         "Threat": true,
@@ -1550,7 +1550,7 @@ var _monsterskill = {
     "101204207": {
         "Key": "Skill06",
         "Name": "Overload Warning",
-        "Desc": "Auxiliary Robot Arm Unit enters Overload mode and immediately removes Restrain status from friendly units. When entering this mode, Auxiliary Robot Arm Unit will cast Controlled Blasting in its next action.",
+        "Desc": "マニピュレーターユニットが「過負荷」状態に入り、味方の「束縛」状態を解除する。この状態に入ると、マニピュレーターユニットが次の行動で「制御起爆」を発動する。",
         "SP": 0,
         "Prepare": [
             101204206
@@ -1563,7 +1563,7 @@ var _monsterskill = {
     "101301001": {
         "Key": "Skill05",
         "Name": "Detonation Order",
-        "Desc": "Summons Automaton Spider.",
+        "Desc": "「自動機兵・パウーク」を召喚する。",
         "SP": 0,
         "Summon": [
             1012021
@@ -1572,7 +1572,7 @@ var _monsterskill = {
     "101301002": {
         "Key": "Skill04",
         "Name": "Enrage Order",
-        "Desc": "Has a chance to Taunt all targets.",
+        "Desc": "確率で味方全体を挑発状態にする。",
         "SP": 0,
         "Status": [
             30020010
@@ -1581,7 +1581,7 @@ var _monsterskill = {
     "101301003": {
         "Key": "Skill02",
         "Name": "Overcombust Order",
-        "Desc": "Enters the Charge state. The next action uses \"Purge Order\" on all targets.",
+        "Desc": "チャージ状態に入り、次の行動で味方全体に「殲滅指示」を発動。",
         "SP": 0,
         "Prepare": [
             101301004
@@ -1590,7 +1590,7 @@ var _monsterskill = {
     "101301004": {
         "Key": "Skill03",
         "Name": "Purge Order",
-        "Desc": "Deals Massive Physical DMG to all targets.",
+        "Desc": "味方全体に大量の物理ダメージを与える。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -1607,7 +1607,7 @@ var _monsterskill = {
     "101301009": {
         "Key": "Skill01",
         "Name": "Destruction Order",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -1617,7 +1617,7 @@ var _monsterskill = {
     "101301101": {
         "Key": "Skill05",
         "Name": "Detonation Order",
-        "Desc": "Summons Automaton Spider and Automaton Beetle.",
+        "Desc": "「自動機兵・パウーク」と「自動機兵・ジューク」を召喚する。",
         "SP": 0,
         "Summon": [
             1012021,
@@ -1627,7 +1627,7 @@ var _monsterskill = {
     "101301102": {
         "Key": "Skill04",
         "Name": "Enrage Order",
-        "Desc": "Has a high chance to Taunt all targets.",
+        "Desc": "高確率で味方全体を挑発状態にする。",
         "SP": 0,
         "Status": [
             30020010
@@ -1636,7 +1636,7 @@ var _monsterskill = {
     "101301103": {
         "Key": "Skill02",
         "Name": "Overcombust Order",
-        "Desc": "Enters the Charge state. The next action uses \"Purge Order\" on all targets.",
+        "Desc": "チャージ状態に入り、次の行動で味方全体に「殲滅指示」を発動。",
         "SP": 0,
         "Prepare": [
             101301104
@@ -1648,7 +1648,7 @@ var _monsterskill = {
     "101301104": {
         "Key": "Skill03",
         "Name": "Purge Order",
-        "Desc": "Deals Massive Physical DMG to all targets.",
+        "Desc": "味方全体に大量の物理ダメージを与える。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -1665,7 +1665,7 @@ var _monsterskill = {
     "101301109": {
         "Key": "Skill01",
         "Name": "Destruction Order",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -1675,7 +1675,7 @@ var _monsterskill = {
     "101301203": {
         "Key": "Skill05",
         "Name": "Detonation Order",
-        "Desc": "Summons Automaton Spider.",
+        "Desc": "「自動機兵・パウーク」を召喚する。",
         "SP": 0,
         "Summon": [
             1012020
@@ -1684,7 +1684,7 @@ var _monsterskill = {
     "101301204": {
         "Key": "Skill04",
         "Name": "Enrage Order",
-        "Desc": "Has a chance to Taunt every single target.",
+        "Desc": "確率で味方それぞれを挑発状態にする。",
         "SP": 0,
         "Status": [
             30020010
@@ -1693,7 +1693,7 @@ var _monsterskill = {
     "101301205": {
         "Key": "Skill02",
         "Name": "Overcombust Order",
-        "Desc": "Enters the Charge state. The next action uses \"Purge Order\" on all targets.",
+        "Desc": "チャージ状態に入り、次の行動で味方全体に「殲滅指示」を発動。",
         "SP": 0,
         "Prepare": [
             101301206
@@ -1705,7 +1705,7 @@ var _monsterskill = {
     "101301206": {
         "Key": "Skill03",
         "Name": "Purge Order",
-        "Desc": "Deals Massive Physical DMG to all targets.",
+        "Desc": "味方全体に大量の物理ダメージを与える。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -1722,7 +1722,7 @@ var _monsterskill = {
     "101301201": {
         "Key": "Skill01",
         "Name": "Destruction Order",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -1739,7 +1739,7 @@ var _monsterskill = {
     "101301208": {
         "Key": "PassiveSkill01",
         "Name": "Obliteration Order",
-        "Desc": "Increases DMG dealt for every Overcombust Order unleashed. This DMG boosting effect is stackable.",
+        "Desc": "「過負荷指示」を発動する時、自身の与ダメージをアップする、与ダメージアップ効果は累積できる。",
         "SP": 0,
         "Prepare": [
             101301205
@@ -1751,7 +1751,7 @@ var _monsterskill = {
     "101301303": {
         "Key": "Skill05",
         "Name": "Detonation Order",
-        "Desc": "Summons Automaton Spider.",
+        "Desc": "「自動機兵・パウーク」を召喚する。",
         "SP": 0,
         "Summon": [
             1012020
@@ -1760,7 +1760,7 @@ var _monsterskill = {
     "101301304": {
         "Key": "Skill04",
         "Name": "Enrage Order",
-        "Desc": "Has a high chance to Taunt all targets.",
+        "Desc": "高確率で味方全体を挑発状態にする。",
         "SP": 0,
         "Status": [
             30020010
@@ -1769,7 +1769,7 @@ var _monsterskill = {
     "101301305": {
         "Key": "Skill02",
         "Name": "Overcombust Order",
-        "Desc": "Enters the Charge state. The next action uses \"Purge Order\" on all targets.",
+        "Desc": "チャージ状態に入り、次の行動で味方全体に「殲滅指示」を発動。",
         "SP": 0,
         "Prepare": [
             101301306
@@ -1781,7 +1781,7 @@ var _monsterskill = {
     "101301306": {
         "Key": "Skill03",
         "Name": "Purge Order",
-        "Desc": "Deals Massive Physical DMG to all targets.",
+        "Desc": "味方全体に大量の物理ダメージを与える。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -1798,7 +1798,7 @@ var _monsterskill = {
     "101301301": {
         "Key": "Skill01",
         "Name": "Destruction Order",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -1815,7 +1815,7 @@ var _monsterskill = {
     "101301308": {
         "Key": "PassiveSkill01",
         "Name": "Obliteration Order",
-        "Desc": "Increases DMG dealt for every Overcombust Order unleashed. This DMG boosting effect is stackable.",
+        "Desc": "「過負荷指示」を発動する時、自身の与ダメージをアップする、与ダメージアップ効果は累積できる。",
         "SP": 0,
         "Prepare": [
             101301305
@@ -1827,7 +1827,7 @@ var _monsterskill = {
     "101302001": {
         "Key": "Skill06",
         "Name": "Felling Order",
-        "Desc": "Deals massive Physical DMG to a single target, with a chance to Bleed the hit target. If the hit target is not Shielded, then a random ally of theirs suffers \"Dismantle\" for 1 time.",
+        "Desc": "指定した味方単体に大量の物理ダメージを与える、攻撃が命中するたびに、確率で味方を裂創にする。このスキルを発動する時、ターゲットがバリアを持ってない場合、ランダムな味方単体に「解体撤去」を発動する。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -1845,7 +1845,7 @@ var _monsterskill = {
     "101302002": {
         "Key": "Skill07",
         "Name": "Lock On Target",
-        "Desc": "Locks Onto a single target. The next action on the target will cast \"Felling Order.\"",
+        "Desc": "指定した味方単体をロックオンし、次の行動でターゲットに「伐採指令」を発動する。",
         "SP": 0,
         "Prepare": [
             101302001
@@ -1857,7 +1857,7 @@ var _monsterskill = {
     "101302003": {
         "Key": "Skill09",
         "Name": "Disintegration Order",
-        "Desc": "Deals minor Physical DMG to a single target, with a high chance to inflict 1 stack of Bleed.",
+        "Desc": "指定した味方単体に少量の物理ダメージを与え、高確率で裂創状態を1層与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1871,7 +1871,7 @@ var _monsterskill = {
     "101302004": {
         "Key": "Skill11",
         "Name": "Dismantle",
-        "Desc": "Deals minor Physical DMG to a single target, with a high chance to inflict 1 stack of Bleed.",
+        "Desc": "指定した味方単体に少量の物理ダメージを与え、高確率で裂創状態を1層与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1885,7 +1885,7 @@ var _monsterskill = {
     "101302101": {
         "Key": "Skill06",
         "Name": "Felling Order",
-        "Desc": "Deals massive Physical DMG to a single target, with a high chance to inflict Bleed with every hit to this target.",
+        "Desc": "指定した味方単体に大量の物理ダメージを与え、1ヒットごとに高確率で裂創状態を付与する。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -1903,7 +1903,7 @@ var _monsterskill = {
     "101302102": {
         "Key": "Skill07",
         "Name": "Lock On Target",
-        "Desc": "Locks Onto a single target. The next action on the target will cast \"Felling Order.\"",
+        "Desc": "指定した味方単体をロックオンし、次の行動でターゲットに「伐採指令」を発動する。",
         "SP": 0,
         "Prepare": [
             101302101
@@ -1915,7 +1915,7 @@ var _monsterskill = {
     "101302103": {
         "Key": "Skill09",
         "Name": "Disintegration Order",
-        "Desc": "Deals minor Physical DMG to a single target, with a high chance to inflict 1 stack of Bleed.",
+        "Desc": "指定した味方単体に少量の物理ダメージを与え、高確率で裂創状態を1層与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1929,7 +1929,7 @@ var _monsterskill = {
     "101302104": {
         "Key": "Skill11",
         "Name": "Dismantle",
-        "Desc": "Deals minor Physical DMG to a single target, with a high chance to inflict 1 stack of Bleed.",
+        "Desc": "指定した味方単体に少量の物理ダメージを与え、高確率で裂創状態を1層与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1943,7 +1943,7 @@ var _monsterskill = {
     "101302105": {
         "Key": "Skill12",
         "Name": "Targeting Order",
-        "Desc": "Locks on to 2 targets and casts Felling Order on them in the next action.",
+        "Desc": "味方を2人ロックオンし、次の行動で「伐採指令」を発動する。",
         "SP": 0,
         "Prepare": [
             101302101
@@ -1955,7 +1955,7 @@ var _monsterskill = {
     "101302201": {
         "Key": "Skill06",
         "Name": "Felling Order",
-        "Desc": "Deals massive Physical DMG to a single target, with a chance to afflict Bleed.",
+        "Desc": "指定した味方単体に大量の物理ダメージを与え、1ヒットごとに確率で裂創状態を付与する。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -1973,7 +1973,7 @@ var _monsterskill = {
     "101302202": {
         "Key": "Skill07",
         "Name": "Lock On Target",
-        "Desc": "Locks Onto a single target. The next action on the target will cast \"Felling Order.\"",
+        "Desc": "指定した味方単体をロックオンし、次の行動でターゲットに「伐採指令」を発動する。",
         "SP": 0,
         "Prepare": [
             101302201
@@ -1985,7 +1985,7 @@ var _monsterskill = {
     "101302205": {
         "Key": "Skill09",
         "Name": "Disintegration Order",
-        "Desc": "Deals Physical DMG to a single target, with a high chance to inflict 1 stack of Bleed.",
+        "Desc": "指定した味方単体に物理ダメージを与え、高確率で裂創状態を1層与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1999,7 +1999,7 @@ var _monsterskill = {
     "101302206": {
         "Key": "Skill11",
         "Name": "Dismantle",
-        "Desc": "Deals Physical DMG to a single target, with a high chance to inflict 1 stack of Bleed.",
+        "Desc": "指定した味方単体に物理ダメージを与え、高確率で裂創状態を1層与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -2013,7 +2013,7 @@ var _monsterskill = {
     "101302203": {
         "Key": "Skill12",
         "Name": "Targeting Order",
-        "Desc": "Locks on to 2 targets and casts Felling Order on them in the next action.",
+        "Desc": "味方を2人ロックオンし、次の行動で「伐採指令」を発動する。",
         "SP": 0,
         "Prepare": [
             101302201
@@ -2025,7 +2025,7 @@ var _monsterskill = {
     "101302204": {
         "Key": "Skill10",
         "Name": "Teamwork Order",
-        "Desc": "Locks Onto 2 targets and casts Felling Order on them in the next action. At the same time, makes Automaton Grizzly enter the Charge state, which will cast \"Purge Order\" on all targets in the next action.",
+        "Desc": "味方2人をロックオンし、次の行動で「伐採指令」を発動する。同時に「自動機兵・グリズリー」がチャージ状態に入り、次の行動で味方全体に「殲滅指示」を発動する。",
         "SP": 0,
         "Prepare": [
             101302201
@@ -2044,7 +2044,7 @@ var _monsterskill = {
     "101302208": {
         "Key": "PassiveSkill01",
         "Name": "Combat Speed-Up",
-        "Desc": "Greatly increases SPD. Every time Targeting Order is used, SPD is slightly increased further.",
+        "Desc": "自身の速度を大幅にアップする。「照準指令」を発動する時、さらに速度を小幅アップする。",
         "SP": 0,
         "Status": [
             210130221,
@@ -2054,7 +2054,7 @@ var _monsterskill = {
     "101302301": {
         "Key": "Skill06",
         "Name": "Felling Order",
-        "Desc": "Deals Physical DMG to a single target, with a chance to inflict Bleed with every hit to this target.",
+        "Desc": "指定した味方単体に物理ダメージを与え、1ヒットごとに確率で裂創状態を付与する。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -2072,7 +2072,7 @@ var _monsterskill = {
     "101302302": {
         "Key": "Skill07",
         "Name": "Lock On Target",
-        "Desc": "Locks Onto a single target. The next action on the target will cast \"Felling Order.\"",
+        "Desc": "指定した味方単体をロックオンし、次の行動でターゲットに「伐採指令」を発動する。",
         "SP": 0,
         "Prepare": [
             101302301
@@ -2084,7 +2084,7 @@ var _monsterskill = {
     "101302305": {
         "Key": "Skill09",
         "Name": "Disintegration Order",
-        "Desc": "Deals minor Physical DMG to a single target, with a high chance to inflict 1 stack of Bleed.",
+        "Desc": "指定した味方単体に少量の物理ダメージを与え、高確率で裂創状態を1層与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -2098,7 +2098,7 @@ var _monsterskill = {
     "101302306": {
         "Key": "Skill11",
         "Name": "Dismantle",
-        "Desc": "Deals minor Physical DMG to a single target, with a high chance to inflict 1 stack of Bleed.",
+        "Desc": "指定した味方単体に少量の物理ダメージを与え、高確率で裂創状態を1層与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -2112,7 +2112,7 @@ var _monsterskill = {
     "101302303": {
         "Key": "Skill12",
         "Name": "Targeting Order",
-        "Desc": "Locks on to 2 targets and casts Felling Order on them in the next action.",
+        "Desc": "味方を2人ロックオンし、次の行動で「伐採指令」を発動する。",
         "SP": 0,
         "Prepare": [
             101302301
@@ -2124,7 +2124,7 @@ var _monsterskill = {
     "101302304": {
         "Key": "Skill10",
         "Name": "Teamwork Order",
-        "Desc": "Locks on to 2 targets and casts Felling Order on them in the next action. At the same time, makes Automaton Grizzly enter the Charge state, which will cast Purge Order on all targets in the next action.",
+        "Desc": "味方2人をロックオンし、次の行動で「伐採指令」を発動する。同時に「自動機兵・グリズリー」がチャージ状態に入り、次の行動で味方全体に「殲滅指示」を発動する。",
         "SP": 0,
         "Prepare": [
             101302301
@@ -2143,7 +2143,7 @@ var _monsterskill = {
     "101302308": {
         "Key": "PassiveSkill01",
         "Name": "Combat Speed-Up",
-        "Desc": "Greatly increases SPD. Every time Targeting Order is used, SPD is slightly increased further.",
+        "Desc": "自身の速度を大幅にアップする。「照準指令」を発動する時、さらに速度を小幅アップする。",
         "SP": 0,
         "Status": [
             210130221,
@@ -2153,7 +2153,7 @@ var _monsterskill = {
     "101401001": {
         "Key": "Skill01",
         "Name": "Banishing Punch",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -2163,7 +2163,7 @@ var _monsterskill = {
     "101401002": {
         "Key": "Skill02",
         "Name": "Burning Beam",
-        "Desc": "Deals Physical DMG to a single target and delays their action.",
+        "Desc": "指定した味方単体に物理ダメージを与え、攻撃を受けた味方の行動順を遅延させる。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -2173,7 +2173,7 @@ var _monsterskill = {
     "101401003": {
         "Key": "Skill03",
         "Name": "Oppressive Embrace",
-        "Desc": "Restrains a single target, preventing them from taking action or being targeted. The Restraint is dispelled if the Auxiliary Robot Arm Unit suffers Weakness Break.",
+        "Desc": "指定した味方単体を「束縛」状態にする、「束縛」状態では行動できず、攻撃のターゲットにもされない。マニピュレーターユニットが弱点撃破されると、味方の束縛状態が解除される。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -2183,7 +2183,7 @@ var _monsterskill = {
     "101401004": {
         "Key": "Skill04",
         "Name": "Shrewd Bombing",
-        "Desc": "Deals massive Physical DMG to all targets, with a high chance to reduce their DEF.",
+        "Desc": "味方全体に大量の物理ダメージを与え、高確率で攻撃を受けた味方の防御力をダウンする。",
         "SP": 2.0,
         "Elem": "Phys",
         "Threat": true,
@@ -2197,7 +2197,7 @@ var _monsterskill = {
     "101401005": {
         "Key": "Skill05",
         "Name": "Controlled Blasting",
-        "Desc": "The Auxiliary Robot Arm Unit explodes, dealing massive Physical DMG to a single target.",
+        "Desc": "マニピュレーターユニットが爆発し、指定した味方単体に大量の物理ダメージを与える。",
         "SP": 25.0,
         "Elem": "Phys",
         "DMG": [
@@ -2207,7 +2207,7 @@ var _monsterskill = {
     "101401006": {
         "Key": "Skill06",
         "Name": "Overload Warning",
-        "Desc": "Auxiliary Robot Arm Unit enters Overload Countdown, causing the next action to cast Controlled Blasting.",
+        "Desc": "マニピュレーターユニットが「過負荷時間制限」状態になる。この状態に入ると次の行動で「制御起爆」を発動する。",
         "SP": 0,
         "Elem": "Phys",
         "Prepare": [
@@ -2220,7 +2220,7 @@ var _monsterskill = {
     "101401007": {
         "Key": "Skill07",
         "Name": "Boost Deployment",
-        "Desc": "Summons Auxiliary Robot Arm Unit.",
+        "Desc": "「マニピュレーターユニット」を召喚する。",
         "SP": 0,
         "Elem": "Phys",
         "Summon": [
@@ -2255,7 +2255,7 @@ var _monsterskill = {
     "101401101": {
         "Key": "Skill01",
         "Name": "Banishing Punch",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -2265,7 +2265,7 @@ var _monsterskill = {
     "101401102": {
         "Key": "Skill02",
         "Name": "Burning Beam",
-        "Desc": "Deals Physical DMG to a single target and delays their action.",
+        "Desc": "指定した味方単体に物理ダメージを与え、攻撃を受けた味方の行動順を遅延させる。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -2275,7 +2275,7 @@ var _monsterskill = {
     "101401103": {
         "Key": "Skill03",
         "Name": "Oppressive Embrace",
-        "Desc": "Restrains a single target, preventing them from taking action or being targeted. The Restraint is dispelled if the Auxiliary Robot Arm Unit suffers Weakness Break.",
+        "Desc": "指定した味方単体を「束縛」状態にする、「束縛」状態では行動できず、攻撃のターゲットにもされない。マニピュレーターユニットが弱点撃破されると、味方の束縛状態が解除される。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -2285,7 +2285,7 @@ var _monsterskill = {
     "101401104": {
         "Key": "Skill04",
         "Name": "Oversaturated Bombardment",
-        "Desc": "Deals massive Physical DMG to all targets, with a high chance to reduce their DEF. This debuff can stack.",
+        "Desc": "味方全体に大量の物理ダメージを与え、高確率で攻撃を受けた味方の防御力をダウンする。このデバフは累積できる。",
         "SP": 2.0,
         "Elem": "Phys",
         "Threat": true,
@@ -2299,7 +2299,7 @@ var _monsterskill = {
     "101401105": {
         "Key": "Skill05",
         "Name": "Controlled Blasting",
-        "Desc": "The Auxiliary Robot Arm Unit explodes, dealing massive Physical DMG to a single target.",
+        "Desc": "マニピュレーターユニットが爆発し、指定した味方単体に大量の物理ダメージを与える。",
         "SP": 25.0,
         "Elem": "Phys",
         "DMG": [
@@ -2309,7 +2309,7 @@ var _monsterskill = {
     "101401106": {
         "Key": "Skill06",
         "Name": "Overload Warning",
-        "Desc": "Auxiliary Robot Arm Unit enters Overload Countdown, causing the next action to cast Controlled Blasting.",
+        "Desc": "マニピュレーターユニットが「過負荷時間制限」状態になる。この状態に入ると次の行動で「制御起爆」を発動する。",
         "SP": 0,
         "Prepare": [
             101401105
@@ -2321,7 +2321,7 @@ var _monsterskill = {
     "101401107": {
         "Key": "Skill07",
         "Name": "Boost Deployment",
-        "Desc": "Summons Auxiliary Robot Arm Unit.",
+        "Desc": "「マニピュレーターユニット」を召喚する。",
         "SP": 0,
         "Summon": [
             1012041
@@ -2354,13 +2354,13 @@ var _monsterskill = {
     "101401112": {
         "Key": "Skill09",
         "Name": "Power Amplification",
-        "Desc": "Slightly increases the DMG dealt by all friendly units. This DMG boosting effect is stackable.",
+        "Desc": "敵全体の与ダメージを小幅アップする、与ダメージアップ効果は累積できる。",
         "SP": 0
     },
     "101401113": {
         "Key": "Skill10",
         "Name": "Emergency Support",
-        "Desc": "Summons Automaton Beetle and Automaton Hound at random.",
+        "Desc": "ランダムに「自動機兵・ジューク」と「自動機兵・サバーカ」を召喚する。",
         "SP": 0,
         "Summon": [
             1012011,
@@ -2370,7 +2370,7 @@ var _monsterskill = {
     "101401114": {
         "Key": "Skill11",
         "Name": "Tactical Support",
-        "Desc": "Summons Automaton Direwolf.",
+        "Desc": "「自動機兵・ヴォルク」を召喚する。",
         "SP": 0,
         "Summon": [
             101302002
@@ -2379,7 +2379,7 @@ var _monsterskill = {
     "101401201": {
         "Key": "Skill01",
         "Name": "Banishing Punch",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -2389,7 +2389,7 @@ var _monsterskill = {
     "101401202": {
         "Key": "Skill02",
         "Name": "Burning Beam",
-        "Desc": "Deals massive Physical DMG to a single target and delays their action.",
+        "Desc": "指定した味方単体に大量の物理ダメージを与え、攻撃された味方の行動順を遅らす。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -2399,7 +2399,7 @@ var _monsterskill = {
     "101401203": {
         "Key": "Skill03",
         "Name": "Oppressive Embrace",
-        "Desc": "Restrains a single target, preventing them from taking action or being targeted. The Restraint is dispelled if the Auxiliary Robot Arm Unit suffers Weakness Break.",
+        "Desc": "指定した味方単体を「束縛」状態にする、「束縛」状態では行動できず、攻撃のターゲットにもされない。マニピュレーターユニットが弱点撃破されると、味方の束縛状態が解除される。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -2409,7 +2409,7 @@ var _monsterskill = {
     "101401204": {
         "Key": "Skill04",
         "Name": "Oversaturated Bombardment",
-        "Desc": "Deals massive Physical DMG to all targets, with a high chance to reduce their DEF. This debuff can stack.",
+        "Desc": "味方全体に大量の物理ダメージを与え、高確率で攻撃を受けた味方の防御力をダウンする。このデバフは累積できる。",
         "SP": 2.0,
         "Elem": "Phys",
         "Threat": true,
@@ -2423,7 +2423,7 @@ var _monsterskill = {
     "101401205": {
         "Key": "Skill05",
         "Name": "Controlled Blasting",
-        "Desc": "The Auxiliary Robot Arm Unit explodes, dealing massive Physical DMG to a single target.",
+        "Desc": "マニピュレーターユニットが爆発し、指定した味方単体に大量の物理ダメージを与える。",
         "SP": 25.0,
         "Elem": "Phys",
         "DMG": [
@@ -2433,7 +2433,7 @@ var _monsterskill = {
     "101401206": {
         "Key": "Skill06",
         "Name": "Overload Warning",
-        "Desc": "Auxiliary Robot Arm Unit enters Overload Countdown, causing the next action to cast Controlled Blasting.",
+        "Desc": "マニピュレーターユニットが「過負荷時間制限」状態になる。この状態に入ると次の行動で「制御起爆」を発動する。",
         "SP": 0,
         "Prepare": [
             101401105
@@ -2445,7 +2445,7 @@ var _monsterskill = {
     "101401207": {
         "Key": "Skill07",
         "Name": "Boost Deployment",
-        "Desc": "Summons Auxiliary Robot Arm Unit.",
+        "Desc": "「マニピュレーターユニット」を召喚する。",
         "SP": 0,
         "Summon": [
             1012041
@@ -2478,13 +2478,13 @@ var _monsterskill = {
     "101401212": {
         "Key": "Skill09",
         "Name": "Power Amplification",
-        "Desc": "Increases the DMG dealt by all friendly units.",
+        "Desc": "敵全体の与ダメージをアップする。",
         "SP": 0
     },
     "101401213": {
         "Key": "Skill10",
         "Name": "Emergency Support",
-        "Desc": "Summons Automaton Beetle and Automaton Hound at random.",
+        "Desc": "ランダムに「自動機兵・ジューク」と「自動機兵・サバーカ」を召喚する。",
         "SP": 0,
         "Summon": [
             1012011,
@@ -2494,7 +2494,7 @@ var _monsterskill = {
     "101401214": {
         "Key": "Skill11",
         "Name": "Tactical Support",
-        "Desc": "Summons Automaton Direwolf.",
+        "Desc": "「自動機兵・ヴォルク」を召喚する。",
         "SP": 0,
         "Summon": [
             101302002
@@ -2503,7 +2503,7 @@ var _monsterskill = {
     "102201001": {
         "Key": "Skill01",
         "Name": "Frost Crush",
-        "Desc": "Deals Ice DMG to a single target and delays their action.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える、攻撃を受けた味方の行動順を遅らす。",
         "SP": 15.0,
         "Elem": "Ice",
         "DMG": [
@@ -2513,7 +2513,7 @@ var _monsterskill = {
     "102202001": {
         "Key": "Skill01",
         "Name": "Scorching Crush",
-        "Desc": "Deals Fire DMG to a single target, with a high chance to Burn the target.",
+        "Desc": "指定した味方単体に炎属性ダメージを与え、高確率で攻撃を受けた味方を燃焼状態にする。",
         "SP": 15.0,
         "Elem": "Fire",
         "Status": [
@@ -2527,7 +2527,7 @@ var _monsterskill = {
     "102301001": {
         "Key": "Skill06",
         "Name": "Crimson Blade",
-        "Desc": "Deals Fire DMG to a single target, with a high chance to Burn the target.",
+        "Desc": "指定した味方単体に炎属性ダメージを与え、高確率で攻撃を受けた味方を燃焼状態にする。",
         "SP": 10.0,
         "Elem": "Fire",
         "Status": [
@@ -2541,7 +2541,7 @@ var _monsterskill = {
     "102301002": {
         "Key": "Skill07",
         "Name": "Combustion Slash",
-        "Desc": "Deals Fire DMG to a single target and units adjacent to the target. This attack prioritizes targets afflicted with Burn.",
+        "Desc": "指定した味方単体および隣接する味方に炎属性ダメージを与える、このスキルは優先的に燃焼状態の味方をターゲットにする。",
         "SP": 15.0,
         "Elem": "Fire",
         "DMG": [
@@ -2552,7 +2552,7 @@ var _monsterskill = {
     "102301003": {
         "Key": "PassiveSkillInitiate",
         "Name": "Melt",
-        "Desc": "After attacking a Burned target, receives a DMG increase.",
+        "Desc": "燃焼状態の味方単体に攻撃を行った後、与ダメージがアップする。",
         "SP": 0,
         "Status": [
             210230101
@@ -2561,7 +2561,7 @@ var _monsterskill = {
     "102301004": {
         "Key": "Skill01",
         "Name": "High-Temperature Operation",
-        "Desc": "Slightly increases ATK and greatly increases SPD. This buff is dispelled upon Weakness Break.",
+        "Desc": "自身の攻撃力を小幅アップし、速度を大幅アップする、弱点撃破されると前期のバフが解除される。",
         "SP": 0,
         "Status": [
             210230102
@@ -2570,7 +2570,7 @@ var _monsterskill = {
     "102301005": {
         "Key": "Skill02",
         "Name": "Dancing Cinders",
-        "Desc": "Deals Fire DMG to all targets. Targets suffering from Burn are dealt an extra Fire DMG and have Burn removed.",
+        "Desc": "味方全体に炎属性ダメージを与える。燃焼状態の味方はさらに炎属性ダメージを受け、燃焼状態が解除される。",
         "SP": 10.0,
         "Elem": "Fire",
         "Threat": true,
@@ -2582,7 +2582,7 @@ var _monsterskill = {
     "102301101": {
         "Key": "Skill06",
         "Name": "Crimson Blade",
-        "Desc": "Deals Fire DMG to a single target, with a chance to Burn the target.",
+        "Desc": "指定した味方単体に炎属性ダメージを与え、確率で攻撃を受けた味方を燃焼状態にする。",
         "SP": 10.0,
         "Elem": "Fire",
         "Status": [
@@ -2596,7 +2596,7 @@ var _monsterskill = {
     "102301102": {
         "Key": "Skill07",
         "Name": "Combustion Slash",
-        "Desc": "Deals Fire DMG to a single target and units adjacent to the target. This attack prioritizes targets afflicted with Burn.",
+        "Desc": "指定した味方単体および隣接する味方に炎属性ダメージを与える、このスキルは優先的に燃焼状態の味方をターゲットにする。",
         "SP": 15.0,
         "Elem": "Fire",
         "DMG": [
@@ -2607,7 +2607,7 @@ var _monsterskill = {
     "102301107": {
         "Key": "PassiveSkillInitiate",
         "Name": "Melt",
-        "Desc": "After attacking a Burned target, receives a DMG increase.",
+        "Desc": "燃焼状態の味方単体に攻撃を行った後、与ダメージがアップする。",
         "SP": 0,
         "Status": [
             210230101
@@ -2616,7 +2616,7 @@ var _monsterskill = {
     "102301103": {
         "Key": "Skill01",
         "Name": "High-Temperature Operation",
-        "Desc": "Slightly increases ATK and greatly increases SPD. This buff is dispelled upon Weakness Break.",
+        "Desc": "自身の攻撃力を小幅アップし、速度を大幅アップする、弱点撃破されると前期のバフが解除される。",
         "SP": 0,
         "Status": [
             210230102
@@ -2625,7 +2625,7 @@ var _monsterskill = {
     "102301104": {
         "Key": "Skill02",
         "Name": "Dancing Cinders",
-        "Desc": "Deals Fire DMG to all targets. Targets suffering from Burn are dealt an extra Fire DMG. And at the same time, there's a chance to Burn any targets that are attacked.",
+        "Desc": "味方全体に炎属性ダメージを与え、燃焼状態になった味方はさらに炎属性ダメージを受ける、確率で攻撃を受けた味方を燃焼状態にする。",
         "SP": 10.0,
         "Elem": "Fire",
         "Threat": true,
@@ -2637,7 +2637,7 @@ var _monsterskill = {
     "102301106": {
         "Key": "Skill08",
         "Name": "Scorching Burst",
-        "Desc": "Deals Fire DMG to all targets. Burned target will explode, subsequently dealing Fire DMG to the Burned target and units adjacent to the target. The Burn status will be removed afterward.",
+        "Desc": "味方全体に炎属性ダメージを与え、燃焼状態になった味方が爆破されると自身と隣接するターゲットに炎属性ダメージを与え、同時にこのターゲットの燃焼状態を解除する。",
         "SP": 10.0,
         "Elem": "Fire",
         "Threat": true,
@@ -2650,7 +2650,7 @@ var _monsterskill = {
     "102301105": {
         "Key": "Skill09",
         "Name": "Augury of Fireburst",
-        "Desc": "The next action uses Scorching Burst.",
+        "Desc": "次の行動で「爆裂燃焼」を発動する。",
         "SP": 0,
         "Prepare": [
             102301106
@@ -2659,7 +2659,7 @@ var _monsterskill = {
     "102302001": {
         "Key": "Skill01",
         "Name": "Ice Wheel Fist",
-        "Desc": "Deals Ice DMG to a single target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -2669,7 +2669,7 @@ var _monsterskill = {
     "102302005": {
         "Key": "Skill05",
         "Name": "Summon Otherling",
-        "Desc": "Summons Everwinter Shadewalker.",
+        "Desc": "「永冬の災影」を召喚する。",
         "SP": 0,
         "Summon": [
             102201002
@@ -2678,7 +2678,7 @@ var _monsterskill = {
     "102302006": {
         "Key": "Skill06",
         "Name": "Frozen Storm",
-        "Desc": "Deals Ice DMG to all targets, with a high chance to Deep Freeze the targets.",
+        "Desc": "味方全体に氷属性ダメージを与え、高確率で攻撃を受けた味方を「冷寒」状態にする。",
         "SP": 5.0,
         "Elem": "Ice",
         "Status": [
@@ -2691,7 +2691,7 @@ var _monsterskill = {
     "102302007": {
         "Key": "Skill07",
         "Name": "Devour Otherling",
-        "Desc": "Devours 1 Everwinter Shadewalker to increase ATK and Locks Onto a single target. If there are no Everwinter Shadewalkers on the field, DEF is decreased.",
+        "Desc": "永冬の災影を1体吸収し、自身の攻撃力をアップする、同時に味方単体をロックオンする。フィールド上に永冬の災影が存在しない場合、自身の防御力がダウンする。",
         "SP": 0,
         "Status": [
             210230208
@@ -2700,7 +2700,7 @@ var _monsterskill = {
     "102302008": {
         "Key": "Skill08",
         "Name": "Devour Otherling",
-        "Desc": "Devours 1 Everwinter Shadewalker to increase ATK and Locks Onto a single target. If there are no Everwinter Shadewalkers on the field, DEF is decreased.",
+        "Desc": "永冬の災影を1体吸収し、自身の攻撃力をアップする、同時に味方単体をロックオンする。フィールド上に永冬の災影が存在しない場合、自身の防御力がダウンする。",
         "SP": 0,
         "Status": [
             210230208,
@@ -2711,7 +2711,7 @@ var _monsterskill = {
     "102302009": {
         "Key": "Skill09",
         "Name": "Ice Wheel Crusher",
-        "Desc": "Deals Ice DMG to a single target, with a high chance to Deep Freeze the target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与え、高確率で攻撃を受けた味方を「冷寒」状態にする。",
         "SP": 20.0,
         "Elem": "Ice",
         "Threat": true,
@@ -2731,7 +2731,7 @@ var _monsterskill = {
     "102302101": {
         "Key": "Skill01",
         "Name": "Ice Wheel Fist",
-        "Desc": "Deals Ice DMG to a single target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -2741,7 +2741,7 @@ var _monsterskill = {
     "102302105": {
         "Key": "Skill05",
         "Name": "Summon Otherling",
-        "Desc": "Summons Everwinter Shadewalker.",
+        "Desc": "「永冬の災影」を召喚する。",
         "SP": 0,
         "Summon": [
             102201002
@@ -2750,7 +2750,7 @@ var _monsterskill = {
     "102302106": {
         "Key": "Skill06",
         "Name": "Frozen Storm",
-        "Desc": "Deals Ice DMG to all targets, with a high chance to Deep Freeze the targets.",
+        "Desc": "味方全体に氷属性ダメージを与え、高確率で攻撃を受けた味方を「冷寒」状態にする。",
         "SP": 5.0,
         "Elem": "Ice",
         "Status": [
@@ -2763,7 +2763,7 @@ var _monsterskill = {
     "102302107": {
         "Key": "Skill07",
         "Name": "Devour Otherling",
-        "Desc": "Deals Ice DMG to a single target, with a high chance to Deep Freeze the target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与え、高確率で攻撃を受けた味方を「冷寒」状態にする。",
         "SP": 0
     },
     "102302108": {
@@ -2775,7 +2775,7 @@ var _monsterskill = {
     "102302109": {
         "Key": "Skill09",
         "Name": "Ice Wheel Crusher",
-        "Desc": "Deals Ice DMG to a single target, with a high chance to Deep Freeze the target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与え、高確率で攻撃を受けた味方を冷寒状態にする。",
         "SP": 20.0,
         "Elem": "Ice",
         "Status": [
@@ -2794,7 +2794,7 @@ var _monsterskill = {
     "102302110": {
         "Key": "Skill10",
         "Name": "Devour Otherling",
-        "Desc": "Devouring Everwinter Shadewalkers increases ATK and unleashes Blazing Freeze in the next action. The more Everwinter Shadewalkers devoured, the more times Blazing Freeze will be used in the next action. If there are no Everwinter Shadewalkers on the field, DEF is decreased.",
+        "Desc": "永冬の災影を1体吸収し、自身の攻撃力をアップし、次の行動で「極寒越境」を発動する。永冬の災影を多く吸収すればするほど、次回に発動する「極寒越境」の波数が多くなる。フィールドに永冬の災影がいなければ、自身の防御力がダウン。",
         "SP": 0,
         "Prepare": [
             102302111
@@ -2807,7 +2807,7 @@ var _monsterskill = {
     "102302111": {
         "Key": "Skill11",
         "Name": "Blazing Freeze",
-        "Desc": "Deals massive Ice DMG to all targets, with a high chance to Deep Freeze the targets.",
+        "Desc": "味方全体に大量の氷属性ダメージを与え、高確率で攻撃を受けた味方を「冷寒」状態にする。",
         "SP": 5.0,
         "Elem": "Ice",
         "Threat": true,
@@ -2821,7 +2821,7 @@ var _monsterskill = {
     "200201001": {
         "Key": "Skill01",
         "Name": "Cloud Edge",
-        "Desc": "Deals minor Wind DMG to a single target with a high chance to slightly increase the DMG taken by the target.",
+        "Desc": "指定した味方単体に少量の風属性ダメージを与え、高確率で味方の被ダメージをアップさせる。",
         "SP": 15.0,
         "Elem": "Wind",
         "Status": [
@@ -2853,7 +2853,7 @@ var _monsterskill = {
     "200203001": {
         "Key": "Skill01",
         "Name": "Sawing Evil",
-        "Desc": "Deals minor Physical DMG to a single target and has a chance to inflict Reverberation to the target. After targets afflicted with Reverberation receive an attack, they enter Strong Reverberation and then have Reverberation dispelled. Targets with Strong Reverberation cannot take action.",
+        "Desc": "指定した味方単体に少量の物理ダメージを与え、確率で攻撃を受けた味方を「震とう」状態にする。「震とう」状態の味方は攻撃を受けた後に「強烈震とう」状態になり、「震とう」状態が解除される。「強烈震とう」状態の味方は行動できない。",
         "SP": 15.0,
         "Elem": "Phys",
         "Status": [
@@ -2867,7 +2867,7 @@ var _monsterskill = {
     "800104001": {
         "Key": "Skill01",
         "Name": "Thunderflash",
-        "Desc": "Deals minor Lightning DMG to a single target, with a high chance to Shock the target.",
+        "Desc": "指定した味方単体に少量の雷属性ダメージを与え、高確率で攻撃を受けた味方を感電状態にする。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -2881,7 +2881,7 @@ var _monsterskill = {
     "800105001": {
         "Key": "Skill01",
         "Name": "Windpath",
-        "Desc": "Deals minor Wind DMG to a single target, with a high chance to inflict Wind Shear.",
+        "Desc": "指定した味方単体に少量の風属性ダメージを与え、高確率で攻撃を受けた味方を風化状態にする。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -2895,7 +2895,7 @@ var _monsterskill = {
     "202201001": {
         "Key": "Skill01",
         "Name": "Callous Tailwind",
-        "Desc": "Deals minor Wind DMG to a single target, with a high chance to inflict Wind Shear.",
+        "Desc": "指定した味方単体に少量の風属性ダメージを与え、高確率で攻撃を受けた味方を風化状態にする。",
         "SP": 15.0,
         "Elem": "Wind",
         "Status": [
@@ -2909,7 +2909,7 @@ var _monsterskill = {
     "202201002": {
         "Key": "PassiveSkill01",
         "Name": "Rejuvenate",
-        "Desc": "Upon receiving a killing blow, restores a certain amount of HP. This effect does not have a time limit but can be dispelled. This effect can only trigger 1 time per battle.",
+        "Desc": "HPが0になる攻撃を受けた時、HPを一定値回復する。この効果に時間制限はないが、解除されることがある。効果は一度の戦闘で1回まで発動できる。",
         "SP": 0,
         "Status": [
             220220101,
@@ -2919,7 +2919,7 @@ var _monsterskill = {
     "202201003": {
         "Key": "Skill02",
         "Name": "Callous Tailwind",
-        "Desc": "Deals minor Wind DMG to a single target, with a high chance to inflict Wind Shear.",
+        "Desc": "指定した味方単体に少量の風属性ダメージを与え、高確率で攻撃を受けた味方を風化状態にする。",
         "SP": 15.0,
         "Elem": "Wind",
         "Status": [
@@ -2933,7 +2933,7 @@ var _monsterskill = {
     "202202001": {
         "Key": "Skill01",
         "Name": "Seeding Core",
-        "Desc": "Inflicts a single target with Spur of Thunderwoe.",
+        "Desc": "指定した味方単体を「雷劫来たす」状態にする。",
         "SP": 0,
         "Status": [
             220220203
@@ -2942,7 +2942,7 @@ var _monsterskill = {
     "202202002": {
         "Key": "Skill02",
         "Name": "Thundering Reign",
-        "Desc": "Deals minor Lightning DMG to a single target.",
+        "Desc": "指定した味方単体に少量の雷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Elec",
         "DMG": [
@@ -2952,7 +2952,7 @@ var _monsterskill = {
     "202202003": {
         "Key": "PassiveSkill01",
         "Name": "Core Rupture",
-        "Desc": "Upon receiving a killing blow, this unit deals Lightning DMG to any targets that were inflicted with Spur of Thunderwoe by them. Afterward, Spur of Thunderwoe on these targets will be removed.",
+        "Desc": "HPが0になる攻撃を受けた時、自身が付与した「雷劫来たす」状態にあるすべての味方に雷属性ダメージを与え、その「雷劫来たす」状態を解除する。",
         "SP": 15.0,
         "Elem": "Elec",
         "Status": [
@@ -2965,7 +2965,7 @@ var _monsterskill = {
     "202211001": {
         "Key": "Skill01",
         "Name": "Sawing Evil: Chop",
-        "Desc": "Deals minor Wind DMG to a single target.",
+        "Desc": "指定した味方単体に少量の風属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Wind",
         "DMG": [
@@ -2975,7 +2975,7 @@ var _monsterskill = {
     "202211002": {
         "Key": "Skill02",
         "Name": "Sawing Evil: Sever",
-        "Desc": "Deals Wind DMG to a single target.",
+        "Desc": "指定した味方単体に風属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Wind",
         "DMG": [
@@ -2985,7 +2985,7 @@ var _monsterskill = {
     "202211003": {
         "Key": "SkillP01",
         "Name": "Maddened",
-        "Desc": "Enters the Maddened state at the start of battle. While in the Maddened state, uses Sawing Evil: Sever.",
+        "Desc": "戦闘開始時に「怨念」状態に入る。「怨念」状態の時、「断悪・斬」を発動する。",
         "SP": 0,
         "Status": [
             220221101
@@ -2994,7 +2994,7 @@ var _monsterskill = {
     "202301001": {
         "Key": "Skill01",
         "Name": "Thunder-Shock",
-        "Desc": "Deals Lightning DMG to a single target.",
+        "Desc": "指定した味方単体に雷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Elec",
         "DMG": [
@@ -3004,7 +3004,7 @@ var _monsterskill = {
     "202301002": {
         "Key": "Skill02",
         "Name": "Punishing Bolts",
-        "Desc": "Deals Lightning DMG to a single target and units adjacent to the target.",
+        "Desc": "指定した味方単体および隣接する味方に雷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Elec",
         "DMG": [
@@ -3014,7 +3014,7 @@ var _monsterskill = {
     "202301003": {
         "Key": "Skill03",
         "Name": "Thudding Calamity",
-        "Desc": "Deals massive Lightning DMG to a single target.",
+        "Desc": "指定した味方単体に大量の雷属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Elec",
         "Threat": true,
@@ -3025,7 +3025,7 @@ var _monsterskill = {
     "202301004": {
         "Key": "Skill04",
         "Name": "Mara-Summon",
-        "Desc": "Consumes HP to summon Mara-Struck Soldiers",
+        "Desc": "自身のHPを消費し、「魔陰の身・兵卒」を召喚する。",
         "SP": 0,
         "Summon": [
             2022010
@@ -3034,7 +3034,7 @@ var _monsterskill = {
     "202301005": {
         "Key": "SkillP01",
         "Name": "Vigor Draining",
-        "Desc": "When there are other friendly units with Rebirth on the field, they have Draining Hit. When hitting a target, they will restore HP.",
+        "Desc": "フィールド上の他の敵に「復活」が付与されている場合、自身は「命中回復」を獲得する。味方に攻撃が命中した後、HPを回復する。",
         "SP": 0,
         "Status": [
             220220101,
@@ -3044,7 +3044,7 @@ var _monsterskill = {
     "201101001": {
         "Key": "Skill01",
         "Name": "Lion's Roar",
-        "Desc": "Deals minor Fire DMG to a single target, with a chance to Weaken them.",
+        "Desc": "指定した味方単体に少量の炎属性ダメージを与え、確率で攻撃を受けた味方を虚弱状態にする。",
         "SP": 10.0,
         "Elem": "Fire",
         "Status": [
@@ -3057,7 +3057,7 @@ var _monsterskill = {
     "201102001": {
         "Key": "Skill01",
         "Name": "Dense Fog",
-        "Desc": "Deals minor Imaginary DMG to a single target, with a chance to reduce the target's SPD.",
+        "Desc": "指定した味方単体に少量の虚数属性ダメージを与え、確率で攻撃を受けた味方の速度をダウンさせる。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "Status": [
@@ -3070,7 +3070,7 @@ var _monsterskill = {
     "201201001": {
         "Key": "Skill01",
         "Name": "Nightly Luminosity",
-        "Desc": "Deals minor Fire DMG to all targets, with a high chance to reduce their DEF.",
+        "Desc": "味方全体に少量の炎属性ダメージを与え、高確率で攻撃を受けた味方の防御力をダウンさせる。",
         "SP": 5.0,
         "Elem": "Fire",
         "Status": [
@@ -3083,7 +3083,7 @@ var _monsterskill = {
     "201201002": {
         "Key": "SkillP01",
         "Name": "Candle Flame",
-        "Desc": "When receiving a killing blow, deals Fire DMG to all friendly units, with a high chance to reduce their DEF.",
+        "Desc": "HPが0になる攻撃を受けた後、敵全体に炎属性ダメージを与え、高確率で攻撃を受けた敵の防御力をダウンさせる。",
         "SP": 5.0,
         "Elem": "Fire",
         "Status": [
@@ -3093,7 +3093,7 @@ var _monsterskill = {
     "201301002": {
         "Key": "Skill01",
         "Name": "Dread",
-        "Desc": "Increases Sanction Rate level and deals minor Imaginary DMG to all targets. Has a high chance to inflict Weaken on the targets.",
+        "Desc": "「懲戒度」のレベルを上げ、味方全体に少量の虚数属性ダメージを与え、高確率で味方を虚弱状態にする。",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Status": [
@@ -3106,7 +3106,7 @@ var _monsterskill = {
     "201301003": {
         "Key": "Skill02",
         "Name": "Restraint",
-        "Desc": "Deals Imaginary DMG to a single target.",
+        "Desc": "指定した味方単体に虚数属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -3116,7 +3116,7 @@ var _monsterskill = {
     "201301004": {
         "Key": "Skill03",
         "Name": "Enchainment",
-        "Desc": "Deals massive Imaginary DMG to a single target, with a high chance of inflicting Imprisonment.",
+        "Desc": "指定した味方単体に大量の虚数属性ダメージを与え、高確率で攻撃を受けた味方を禁錮状態にする。",
         "SP": 15.0,
         "Elem": "Imaginary",
         "Threat": true,
@@ -3127,7 +3127,7 @@ var _monsterskill = {
     "201301001": {
         "Key": "SkillP01",
         "Name": "Farewell Etiquette",
-        "Desc": "The Sanction Rate level increases when your team uses Skills or Ultimates to attack. When the Sanction Rate reaches its level cap, enters Sanction mode and summons Entranced Ingenium: Illumination Dragonfish.",
+        "Desc": "味方が戦闘スキルまたは必殺技を発動して攻撃する時、「懲戒度」が溜まる。「懲戒度」は最高レベルに到達すると、即座に「懲罰モード」に入り、「入魔機巧・灯火龍魚」を召喚する。",
         "SP": 0,
         "Prepare": [
             201301003,
@@ -3143,7 +3143,7 @@ var _monsterskill = {
     "201302001": {
         "Key": "Skill01",
         "Name": "Adjudicate",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -3153,7 +3153,7 @@ var _monsterskill = {
     "201302002": {
         "Key": "Skill02",
         "Name": "Subdue",
-        "Desc": "Deals Physical DMG to a single target and has a high chance to inflict Reverberation on the target. After targets afflicted with Reverberation receive an attack, they enter the Strong Reverberation state and then have the Reverberation state dispelled. Targets with Strong Reverberation cannot take action.",
+        "Desc": "指定した味方単体に物理ダメージを与え、高確率で攻撃を受けた味方を「震とう」状態にする。「震とう」状態の味方は攻撃を受けた後に「強烈震とう」状態になり、「震とう」状態が解除される。「強烈震とう」状態の味方は行動できない。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -3167,7 +3167,7 @@ var _monsterskill = {
     "201302003": {
         "Key": "Skill03",
         "Name": "Revert Yin and Yang",
-        "Desc": "Deals Physical DMG to all targets and has a chance to inflict Reverberation.",
+        "Desc": "味方全体に物理ダメージを与え、確率で攻撃を受けた味方を「震とう」状態にする。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -3181,7 +3181,7 @@ var _monsterskill = {
     "201302005": {
         "Key": "SkillP01",
         "Name": "Soul Warrant",
-        "Desc": "When there are targets afflicted with Strong Reverberation on the field, lock on to those targets and during the next action, use Heaven's Fall on them.",
+        "Desc": "フィールド上に「強烈震とう」状態の味方がいる時、その味方をロックオンし、次の行動で「天墜」を発動する。",
         "SP": 0,
         "Elem": "Phys",
         "Status": [
@@ -3194,7 +3194,7 @@ var _monsterskill = {
     "200401001": {
         "Key": "Skill01",
         "Name": "Midnight Tumult",
-        "Desc": "Deals minor Lightning DMG to a single target, with a high chance to Shock the target.",
+        "Desc": "指定した味方単体に少量の雷属性ダメージを与え、高確率で攻撃を受けた味方を感電状態にする。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3208,7 +3208,7 @@ var _monsterskill = {
     "200401002": {
         "Key": "Skill02",
         "Name": "Caressing Moonlight",
-        "Desc": "Deals Lightning DMG to a single target and units adjacent to the target. If the target is Shocked, inflicts Shock on the adjacent units.",
+        "Desc": "指定した味方単体および隣接する味方に雷属性ダメージを与える、メインターゲットが感電状態の場合、サブターゲットを感電状態にする。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3222,7 +3222,7 @@ var _monsterskill = {
     "200401003": {
         "Key": "Skill03",
         "Name": "Silent and Sharp Mockery",
-        "Desc": "Deals minor Lightning DMG to all targets.",
+        "Desc": "味方全体に少量の雷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Elec",
         "DMG": [
@@ -3232,7 +3232,7 @@ var _monsterskill = {
     "200401004": {
         "Key": "Skill05",
         "Name": "Spirit Whisper",
-        "Desc": "Has a high chance of Dominating a single target and Advancing their action forward to immediately attack a random ally of theirs.",
+        "Desc": "高確率で指定した味方単体を「支配」状態にし、行動順を早め、他の味方1名をランダムに攻撃させる。",
         "SP": 15.0,
         "Threat": true,
         "Status": [
@@ -3242,7 +3242,7 @@ var _monsterskill = {
     "200401005": {
         "Key": "Skill04",
         "Name": "Tremble",
-        "Desc": "If the target is currently Shocked, directly causes Shock DMG 1 time.",
+        "Desc": "攻撃を受けたターゲットが感電状態の場合、感電ダメージを1回与える、このダメージは感電状態によるものとみなす。",
         "SP": 0,
         "Status": [
             30020004
@@ -3251,7 +3251,7 @@ var _monsterskill = {
     "200401006": {
         "Key": "Skill06",
         "Name": "Cruelty",
-        "Desc": "When friendly units (apart from Kafka) or Dominated targets attack the Shocked main target, unleash an extra Lightning attack. This can only be triggered 1 time per turn.",
+        "Desc": "カフカ以外の敵、または「支配」状態の味方が感電状態の味方をメインターゲットとして攻撃した時、さらに雷属性攻撃を1回行う。この効果はターンが回ってくるたびに1回まで発動できる。",
         "SP": 10.0,
         "Elem": "Elec",
         "DMG": [
@@ -3261,7 +3261,7 @@ var _monsterskill = {
     "200401101": {
         "Key": "Skill01",
         "Name": "Midnight Tumult",
-        "Desc": "Deals minor Lightning DMG to a single target, with a high chance to Shock the target.",
+        "Desc": "指定した味方単体に少量の雷属性ダメージを与え、高確率で攻撃を受けた味方を感電状態にする。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3275,7 +3275,7 @@ var _monsterskill = {
     "200401102": {
         "Key": "Skill02",
         "Name": "Caressing Moonlight",
-        "Desc": "Deals Lightning DMG to a single target and units adjacent to the target. If the target is Shocked, inflicts Shock on the adjacent units.",
+        "Desc": "指定した味方単体および隣接する味方に雷属性ダメージを与える、メインターゲットが感電状態の場合、サブターゲットを感電状態にする。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3289,7 +3289,7 @@ var _monsterskill = {
     "200401103": {
         "Key": "Skill03",
         "Name": "Silent and Sharp Mockery",
-        "Desc": "Deals minor Lightning DMG to all targets.",
+        "Desc": "味方全体に少量の雷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Elec",
         "DMG": [
@@ -3299,7 +3299,7 @@ var _monsterskill = {
     "200401104": {
         "Key": "Skill05",
         "Name": "Spirit Whisper",
-        "Desc": "Has a high chance of Dominating a single target and Advancing their action forward to immediately attack a random ally of theirs.",
+        "Desc": "高確率で指定した味方単体を「支配」状態にし、行動順を早め、他の味方1名をランダムに攻撃させる。",
         "SP": 15.0,
         "Threat": true,
         "Status": [
@@ -3309,7 +3309,7 @@ var _monsterskill = {
     "200401105": {
         "Key": "Skill04",
         "Name": "Seething Whisper of the Fallen",
-        "Desc": "Deals Lightning DMG to a single target, with a high chance to Shock the target. At the same time, deals Lightning DMG to all other Shocked targets.",
+        "Desc": "指定した味方単体に雷属性ダメージを与え、高確率で攻撃を受けた味方を感電状態にする。同時に感電状態の全味方に雷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3324,7 +3324,7 @@ var _monsterskill = {
     "200401106": {
         "Key": "Skill07",
         "Name": "Psychological Suggestion",
-        "Desc": "Applies Psychological Suggestion to multiple targets, and adds Revelation onto the action bar. The next time Revelation takes action, any targets with Psychological Suggestion will become Dominated.",
+        "Desc": "複数の味方を「心理暗示」状態にし、アクションバーに「公開」を追加する。次に「公開」が行動する時、「心理暗示」にかかった味方は「支配」状態になる。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -3335,7 +3335,7 @@ var _monsterskill = {
     "200401107": {
         "Key": "PassiveSkill01",
         "Name": "Tremble",
-        "Desc": "If the target is currently Shocked, directly cause Shock DMG 1 time.",
+        "Desc": "攻撃を受けたターゲットが感電状態の場合、感電ダメージを1回与える、このダメージは感電状態によるものとみなす。",
         "SP": 0,
         "Status": [
             30020004
@@ -3344,7 +3344,7 @@ var _monsterskill = {
     "200401108": {
         "Key": "Skill06",
         "Name": "Cruelty",
-        "Desc": "When friendly units (apart from Kafka) or Dominated targets attack the Shocked main target, unleash an extra Lightning attack.",
+        "Desc": "カフカ以外の敵、または「支配」状態の味方が感電状態の味方をメインターゲットとして攻撃した時、さらに雷属性攻撃を1回行う。",
         "SP": 10.0,
         "Elem": "Elec",
         "DMG": [
@@ -3354,7 +3354,7 @@ var _monsterskill = {
     "200401109": {
         "Key": "PassiveSkill02",
         "Name": "Griever",
-        "Desc": "Every time a target triggers the Shock state, DMG dealt by Kafka slightly increases.",
+        "Desc": "味方が感電状態を触発した時、カフカ自身の与ダメージが小幅アップする。",
         "SP": 0,
         "Status": [
             220040111
@@ -3363,7 +3363,7 @@ var _monsterskill = {
     "200401201": {
         "Key": "Skill01",
         "Name": "Midnight Tumult",
-        "Desc": "Deals Lightning DMG to a single target, with a chance to Shock the target.",
+        "Desc": "指定した味方単体に雷属性ダメージを与え、確率で攻撃を受けた味方を感電状態にする。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3377,7 +3377,7 @@ var _monsterskill = {
     "200401202": {
         "Key": "Skill02",
         "Name": "Caressing Moonlight",
-        "Desc": "Deals Lightning DMG to a single target and any adjacent targets. If the main target is Shocked, inflicts Shock on the adjacent targets.",
+        "Desc": "指定した味方単体および隣接する味方に雷属性ダメージを与える、メインターゲットが感電状態の場合、サブターゲットを感電状態にする。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3391,7 +3391,7 @@ var _monsterskill = {
     "200401203": {
         "Key": "Skill03",
         "Name": "Silent and Sharp Mockery",
-        "Desc": "Deals Lightning DMG to all targets.",
+        "Desc": "味方全体に雷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Elec",
         "DMG": [
@@ -3401,7 +3401,7 @@ var _monsterskill = {
     "200401204": {
         "Key": "Skill05",
         "Name": "Spirit Whisper",
-        "Desc": "Has a high chance of Dominating a single target and Advancing their action forward to immediately use Basic ATK on a random ally of theirs.",
+        "Desc": "高確率で指定した味方単体を「支配」状態にし、行動順を早め、他の味方1名をランダムに攻撃させる。",
         "SP": 15.0,
         "Threat": true,
         "Status": [
@@ -3411,7 +3411,7 @@ var _monsterskill = {
     "200401205": {
         "Key": "Skill04",
         "Name": "Seething Whisper of the Fallen",
-        "Desc": "Deals Lightning DMG to a single target, with a chance to Shock the target. And at the same time, deals Lightning DMG to any other Shocked targets.",
+        "Desc": "指定した味方単体に雷属性ダメージを与え、確率で攻撃を受けた味方を感電状態にする。同時に感電状態の全味方に雷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3426,7 +3426,7 @@ var _monsterskill = {
     "200401206": {
         "Key": "Skill07",
         "Name": "Psychological Suggestion",
-        "Desc": "Applies Psychological Suggestion to multiple targets, and adds Revelation onto the action bar. The next time Revelation takes action, any targets with Psychological Suggestion will become Dominated.",
+        "Desc": "複数の味方を「心理暗示」状態にし、アクションバーに「公開」を追加する。次に「公開」が行動する時、「心理暗示」にかかった味方は「支配」状態になる。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -3437,7 +3437,7 @@ var _monsterskill = {
     "200401207": {
         "Key": "PassiveSkill01",
         "Name": "Tremble",
-        "Desc": "If the target is currently Shocked, directly causes Shock DMG 1 time.",
+        "Desc": "攻撃を受けたターゲットが感電状態の場合、感電ダメージを1回与える、このダメージは感電状態によるものとみなす。",
         "SP": 0,
         "Status": [
             30020004
@@ -3446,7 +3446,7 @@ var _monsterskill = {
     "200401208": {
         "Key": "Skill06",
         "Name": "Cruelty",
-        "Desc": "When friendly units (apart from Kafka) or Dominated targets attack the Shocked main target, unleash an extra Lightning attack.",
+        "Desc": "カフカ以外の敵、または「支配」状態の味方が感電状態の味方をメインターゲットとして攻撃した時、さらに雷属性攻撃を1回行う。",
         "SP": 10.0,
         "Elem": "Elec",
         "DMG": [
@@ -3456,7 +3456,7 @@ var _monsterskill = {
     "200401209": {
         "Key": "PassiveSkill02",
         "Name": "Griever",
-        "Desc": "Every time a target becomes afflicted with Shock, Kafka's DMG increases.",
+        "Desc": "味方が感電状態を触発した時、カフカ自身の与ダメージがアップする。",
         "SP": 0,
         "Status": [
             220040111
@@ -3465,7 +3465,7 @@ var _monsterskill = {
     "200402001": {
         "Key": "Skill01",
         "Name": "Rapturous Wind",
-        "Desc": "Deals Ice DMG to a single target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -3475,7 +3475,7 @@ var _monsterskill = {
     "200402002": {
         "Key": "Skill02",
         "Name": "Swallow Return",
-        "Desc": "Summons 4 Flying Swords and gains the Sword Formation effect. Sword Formation increases Yanqing's SPD and applies Formation Core to the Flying Swords.",
+        "Desc": "「飛剣」を4本召喚して、「剣陣」効果を獲得し、自身の速度がアップする。「飛剣」に「陣眼」を付与する。",
         "SP": 10.0,
         "Status": [
             220040204,
@@ -3489,7 +3489,7 @@ var _monsterskill = {
     "200402003": {
         "Key": "Skill03",
         "Name": "Ironthorn",
-        "Desc": "Deals Ice DMG to a single target, with a high chance to Freeze the target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与え、高確率で攻撃された味方を凍結状態にする。",
         "SP": 15.0,
         "Elem": "Ice",
         "DMG": [
@@ -3500,7 +3500,7 @@ var _monsterskill = {
     "200402004": {
         "Key": "Skill04",
         "Name": "Ballad of Formation Breaker",
-        "Desc": "Deals Ice DMG to a single target and units adjacent to the target.",
+        "Desc": "指定した味方単体及び隣接する味方に氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -3511,7 +3511,7 @@ var _monsterskill = {
     "200402005": {
         "Key": "Skill05",
         "Name": "Qi Advance",
-        "Desc": "Enters the Charge state. Cast Cascading Laceration on all targets in the next action.",
+        "Desc": "チャージ状態に入る。次の行動で味方全体に「天河瀉り」を発動する。",
         "SP": 0,
         "Prepare": [
             200402006
@@ -3520,7 +3520,7 @@ var _monsterskill = {
     "200402006": {
         "Key": "Skill06",
         "Name": "Cascading Laceration",
-        "Desc": "Deals massive Ice DMG to all targets.",
+        "Desc": "味方全体に大量の氷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true,
@@ -3531,7 +3531,7 @@ var _monsterskill = {
     "200202001": {
         "Key": "Skill01",
         "Name": "Jadecarve Strike",
-        "Desc": "Deals Ice DMG to a single target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -3541,7 +3541,7 @@ var _monsterskill = {
     "200202101": {
         "Key": "Skill01",
         "Name": "Jadecarve Strike",
-        "Desc": "Deals Ice DMG to a single target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -3551,7 +3551,7 @@ var _monsterskill = {
     "202401001": {
         "Key": "Skill01",
         "Name": "Pedicel: Wintry Wind",
-        "Desc": "Summons Ambrosial Arbor branch \"Twig of Wintry Wind\"",
+        "Desc": "建木の枝先「厳風の梢」を召喚する。",
         "SP": 0,
         "Summon": [
             2022070
@@ -3560,7 +3560,7 @@ var _monsterskill = {
     "202401002": {
         "Key": "Skill02",
         "Name": "Pedicel: Marple Leaf",
-        "Desc": "Summons Ambrosial Arbor branch \"Twig of Marple Leaf\"",
+        "Desc": "建木の枝先「黄葉の梢」を召喚する。",
         "SP": 0,
         "Summon": [
             2022080
@@ -3569,7 +3569,7 @@ var _monsterskill = {
     "202401003": {
         "Key": "Skill03",
         "Name": "Pedicel: Glorious Blooms",
-        "Desc": "Summons Ambrosial Arbor branch \"Twig of Glorious Blooms\"",
+        "Desc": "建木の枝先「万花の梢」を召喚する。",
         "SP": 0,
         "Summon": [
             2022090
@@ -3578,7 +3578,7 @@ var _monsterskill = {
     "202401004": {
         "Key": "Skill04",
         "Name": "Pedicel: Lavish Fruits",
-        "Desc": "Summons Ambrosial Arbor branch \"Twig of Lavish Fruits\"",
+        "Desc": "建木の枝先「嘉実の梢」を召喚する。",
         "SP": 0,
         "Summon": [
             2022100
@@ -3587,7 +3587,7 @@ var _monsterskill = {
     "202401005": {
         "Key": "Skill05",
         "Name": "Wavering Bleat",
-        "Desc": "Deals Lightning DMG to a single target.",
+        "Desc": "指定した味方単体に雷属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Elec",
         "DMG": [
@@ -3597,7 +3597,7 @@ var _monsterskill = {
     "202401006": {
         "Key": "Skill06",
         "Name": "Caress of Wind",
-        "Desc": "Deals minor Wind DMG to all targets.",
+        "Desc": "味方全体に少量の風属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Wind",
         "DMG": [
@@ -3607,7 +3607,7 @@ var _monsterskill = {
     "202401007": {
         "Key": "Skill07",
         "Name": "Hardy Leaf Sheath",
-        "Desc": "Increases DEF. Toughness cannot be reduced.",
+        "Desc": "防御力をアップし、靭性がダメージを受けなくなる。",
         "SP": 0,
         "Status": [
             220240101
@@ -3616,7 +3616,7 @@ var _monsterskill = {
     "202401008": {
         "Key": "Skill08",
         "Name": "Flamboyant Gore",
-        "Desc": "Uses this ability immediately when there are 2 Lavish Fruits on the field. Deals Lightning DMG to all targets. Deals more damage for every \"Ambrosial Arbor Branches\" on the field. After the ability is used, remove all \"Ambrosial Arbor Branches\" on the field.",
+        "Desc": "フィールド上に「嘉実」が2つ存在する時、このスキルを発動し、味方全体に雷属性ダメージを与える。フィールド上の「建木の枝先」の数が多いほど、与ダメージがアップする。スキル発動後、フィールド上のすべての「建木の枝先」を消す。",
         "SP": 20.0,
         "Elem": "Elec",
         "Threat": true,
@@ -3631,13 +3631,13 @@ var _monsterskill = {
     "202401009": {
         "Key": "Skill09",
         "Name": "Rebirth",
-        "Desc": "Absorbs Ambrosial Arbor energy and restores all HP.",
+        "Desc": "建木のエネルギーを吸い、HPを全回復する。",
         "SP": 0
     },
     "202401101": {
         "Key": "Skill01",
         "Name": "Pedicel: Wintry Wind",
-        "Desc": "Summons Ambrosial Arbor branch \"Twig of Wintry Wind\"",
+        "Desc": "建木の枝先「厳風の梢」を召喚する。",
         "SP": 0,
         "Summon": [
             2022071
@@ -3646,7 +3646,7 @@ var _monsterskill = {
     "202401102": {
         "Key": "Skill02",
         "Name": "Pedicel: Marple Leaf",
-        "Desc": "Summons Ambrosial Arbor branch \"Twig of Marple Leaf\"",
+        "Desc": "建木の枝先「黄葉の梢」を召喚する。",
         "SP": 0,
         "Summon": [
             2022081
@@ -3655,7 +3655,7 @@ var _monsterskill = {
     "202401103": {
         "Key": "Skill03",
         "Name": "Pedicel: Glorious Blooms",
-        "Desc": "Summons Ambrosial Arbor branch \"Twig of Glorious Blooms\"",
+        "Desc": "建木の枝先「万花の梢」を召喚する。",
         "SP": 0,
         "Summon": [
             2022091
@@ -3664,7 +3664,7 @@ var _monsterskill = {
     "202401104": {
         "Key": "Skill04",
         "Name": "Pedicel: Lavish Fruits",
-        "Desc": "Summons Ambrosial Arbor branch \"Twig of Lavish Fruits\"",
+        "Desc": "建木の枝先「嘉実の梢」を召喚する。",
         "SP": 0,
         "Summon": [
             2022101
@@ -3673,7 +3673,7 @@ var _monsterskill = {
     "202401105": {
         "Key": "Skill05",
         "Name": "Wavering Bleat",
-        "Desc": "Deals Lightning DMG to a single target.",
+        "Desc": "指定した味方単体に雷属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Elec",
         "DMG": [
@@ -3683,7 +3683,7 @@ var _monsterskill = {
     "202401106": {
         "Key": "Skill06",
         "Name": "Caress of Wind",
-        "Desc": "Deals Wind DMG to all targets.",
+        "Desc": "味方全体に風属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Wind",
         "DMG": [
@@ -3693,7 +3693,7 @@ var _monsterskill = {
     "202401107": {
         "Key": "Skill07",
         "Name": "Hardy Leaf Sheath",
-        "Desc": "Increases DEF. Toughness cannot be reduced.",
+        "Desc": "防御力をアップし、靭性がダメージを受けなくなる。",
         "SP": 0,
         "Status": [
             220240101
@@ -3702,7 +3702,7 @@ var _monsterskill = {
     "202401108": {
         "Key": "Skill08",
         "Name": "Flamboyant Gore",
-        "Desc": "Uses this ability immediately when there are 2 Lavish Fruits on the field. Deals massive Lightning DMG to all targets. Deals more damage for every Ambrosial Arbor Branch on the field. After the ability is used, remove all Twigs of Lavish Fruits on the field.",
+        "Desc": "フィールド上に「嘉実」が2つ存在する時、このスキルを発動し、味方全体に大量の雷属性ダメージを与える。フィールド上の「建木の枝先」の数が多いほど、与ダメージがアップする。スキル発動後、フィールド上の全ての「嘉実の梢」を消す。",
         "SP": 20.0,
         "Elem": "Elec",
         "Threat": true,
@@ -3717,7 +3717,7 @@ var _monsterskill = {
     "202401109": {
         "Key": "Skill09",
         "Name": "Everlife",
-        "Desc": "Immediately restores HP and gains 1 stack of Synwood Renewal.",
+        "Desc": "HPを回復し、「若木化生」を1層獲得する。",
         "SP": 0,
         "Status": [
             220240111
@@ -3726,7 +3726,7 @@ var _monsterskill = {
     "202401110": {
         "Key": "Skill10",
         "Name": "Pedicel: Ivy Allure",
-        "Desc": "Summons 2 Ambrosial Arbor Branch \"Twig of Wintry Wind.\"",
+        "Desc": "建木の枝先「厳風の梢」を2本召喚する。",
         "SP": 0,
         "Summon": [
             2022071
@@ -3735,7 +3735,7 @@ var _monsterskill = {
     "202401111": {
         "Key": "Skill11",
         "Name": "Pedicel: Willow Sprig",
-        "Desc": "Summons 2 Ambrosial Arbor Branch \"Twig of Marple Leaf.\"",
+        "Desc": "建木の枝先「黄葉の梢」を2本召喚する。",
         "SP": 0,
         "Summon": [
             2022081
@@ -3744,7 +3744,7 @@ var _monsterskill = {
     "202401112": {
         "Key": "Skill12",
         "Name": "Pedicel: Hazel Lush",
-        "Desc": "Summons 2 Ambrosial Arbor Branch \"Twig of Marple Leaf,\" 1 Ambrosial Arbor Branch \"Twig of Wintry Wind,\" and 1 Ambrosial Arbor Branch \"Twig of Glorious Blooms.\"",
+        "Desc": "建木の枝先「黄葉の梢」を2本、「厳風の梢」を1本、「万花の梢」を1本召喚する。",
         "SP": 0,
         "Summon": [
             2022071,
@@ -3755,7 +3755,7 @@ var _monsterskill = {
     "202401113": {
         "Key": "Skill13",
         "Name": "Pedicel: Entwined Vines",
-        "Desc": "Summons 2 Ambrosial Arbor Branch \"Twig of Lavish Fruits,\" 1 Ambrosial Arbor Branch \"Twig of Marple Leaf,\" and 1 Ambrosial Arbor Branch \"Twig of Wintry Wind.\"",
+        "Desc": "建木の枝先「嘉実の梢」を2本、「黄葉の梢」を1本、「厳風の梢」を1本召喚する。",
         "SP": 0,
         "Summon": [
             2022071,
@@ -3766,7 +3766,7 @@ var _monsterskill = {
     "202401114": {
         "Key": "Skill14",
         "Name": "Vigor Overflow",
-        "Desc": "For every buff the Abundant Ebon Deer gains, the DMG dealt by the Abundant Ebon Deer and all Ambrosial Arbor Branches increases by a small amount.",
+        "Desc": "豊穣の玄鹿がバフを獲得した時、豊穣の玄鹿とすべての建木の枝先のダメージが小幅アップする。",
         "SP": 0,
         "Status": [
             220240112
@@ -3775,7 +3775,7 @@ var _monsterskill = {
     "202207001": {
         "Key": "Skill01",
         "Name": "Outrage",
-        "Desc": "Deals minor Wind DMG to a single target, and has a high chance to inflict Outrage to the target. Targets afflicted by Outrage cannot take action for a number of turns and will use Basic ATK against a random unit friendly to the user.",
+        "Desc": "指定した味方単体に少量の風属性ダメージを与え、高確率でその味方を「怒噪」状態にする。「怒噪」状態になると数ターンの間行動できなくなり、ランダムな敵単体に通常攻撃を行う。",
         "SP": 15.0,
         "Elem": "Wind",
         "Status": [
@@ -3788,7 +3788,7 @@ var _monsterskill = {
     "202208001": {
         "Key": "Skill01",
         "Name": "Engender",
-        "Desc": "Enhances the Abundant Ebon Deer and slightly increases its ATK.",
+        "Desc": "「豊穣の玄鹿」を強化し、攻撃力を小幅アップさせる。",
         "SP": 0,
         "Status": [
             220220802
@@ -3797,7 +3797,7 @@ var _monsterskill = {
     "202208002": {
         "Key": "Skill02",
         "Name": "Retaliation",
-        "Desc": "Enters the Counter state: When attacked, immediately uses \"Leaf Hinging\" on the attacker.",
+        "Desc": "カウンター状態に入り、味方単体に攻撃された後、即座にその味方に「折り葉」スキルを発動する。",
         "SP": 0,
         "Prepare": [
             202208003
@@ -3809,7 +3809,7 @@ var _monsterskill = {
     "202208003": {
         "Key": "Skill03",
         "Name": "Leaf Hinging",
-        "Desc": "Deals minor Lightning DMG to a single target.",
+        "Desc": "指定した味方単体に少量の雷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Elec",
         "DMG": [
@@ -3819,13 +3819,13 @@ var _monsterskill = {
     "202209001": {
         "Key": "Skill01",
         "Name": "Last Spring",
-        "Desc": "Immediately restores all friendly units' HP.",
+        "Desc": "敵全体のHPを回復。",
         "SP": 0
     },
     "202210001": {
         "Key": "Skill01",
         "Name": "Crude Fruits",
-        "Desc": "Produces Lavish Fruits to accumulate Energy for the Abundant Ebon Deer to launch Flamboyant Gore.",
+        "Desc": "「嘉実」が実り、豊穣の玄鹿が「斑竜触」を発動するために必要なエネルギーをたくわえる。",
         "SP": 0,
         "Status": [
             220221001
@@ -3834,7 +3834,7 @@ var _monsterskill = {
     "202210002": {
         "Key": "Skill02",
         "Name": "Mellow Fruits",
-        "Desc": "Produces Lavish Fruits to accumulate Energy for the Abundant Ebon Deer to launch Flamboyant Gore.",
+        "Desc": "「嘉実」が実り、豊穣の玄鹿が「斑竜触」を発動するために必要なエネルギーをたくわえる。",
         "SP": 0,
         "Status": [
             220221001
@@ -3843,7 +3843,7 @@ var _monsterskill = {
     "202207101": {
         "Key": "Skill01",
         "Name": "Outrage",
-        "Desc": "Deals Wind DMG to a single target, and has a high chance to inflict Outrage and Wind Shear on the target. Targets afflicted by Outrage cannot take action for a number of turns and will use Basic ATK against a random unit friendly to the user.",
+        "Desc": "指定した味方単体に風属性ダメージを与え、高確率でその味方を「怒噪」状態と「風化」状態にする。「怒噪」状態になると数ターンの間行動できなくなり、ランダムな敵単体に通常攻撃を行う。",
         "SP": 15.0,
         "Elem": "Wind",
         "Status": [
@@ -3858,7 +3858,7 @@ var _monsterskill = {
     "202208101": {
         "Key": "Skill01",
         "Name": "Engender",
-        "Desc": "Enhances the Abundant Ebon Deer and increases its ATK.",
+        "Desc": "「豊穣の玄鹿」を強化し、攻撃力をアップさせる。",
         "SP": 0,
         "Status": [
             220220802
@@ -3867,7 +3867,7 @@ var _monsterskill = {
     "202208102": {
         "Key": "Skill02",
         "Name": "Retaliation",
-        "Desc": "Enters the Counter state: When attacked, immediately uses \"Leaf Hinging\" on the attacker.",
+        "Desc": "カウンター状態に入り、味方単体に攻撃された後、即座にその味方に「折り葉」スキルを発動する。",
         "SP": 0,
         "Prepare": [
             202208103
@@ -3879,7 +3879,7 @@ var _monsterskill = {
     "202208103": {
         "Key": "Skill03",
         "Name": "Leaf Hinging",
-        "Desc": "Deals minor Lightning DMG to a single target, with a high chance to Shock the target.",
+        "Desc": "指定した味方単体に少量の雷属性ダメージを与え、高確率で「感電」状態を付与する。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3893,13 +3893,13 @@ var _monsterskill = {
     "202209101": {
         "Key": "Skill01",
         "Name": "Last Spring",
-        "Desc": "Immediately restores all friendly units' HP.",
+        "Desc": "敵全体のHPを回復。",
         "SP": 0
     },
     "202210101": {
         "Key": "Skill01",
         "Name": "Crude Fruits",
-        "Desc": "Produces Lavish Fruits to accumulate Energy for the Abundant Ebon Deer to launch Flamboyant Gore.",
+        "Desc": "「嘉実」が実り、豊穣の玄鹿が「斑竜触」を発動するために必要なエネルギーをたくわえる。",
         "SP": 0,
         "Status": [
             220221001
@@ -3908,7 +3908,7 @@ var _monsterskill = {
     "202210102": {
         "Key": "Skill02",
         "Name": "Mellow Fruits",
-        "Desc": "Produces Lavish Fruits to accumulate Energy for the Abundant Ebon Deer to launch Flamboyant Gore.",
+        "Desc": "「嘉実」が実り、豊穣の玄鹿が「斑竜触」を発動するために必要なエネルギーをたくわえる。",
         "SP": 0,
         "Status": [
             220221001
@@ -3917,7 +3917,7 @@ var _monsterskill = {
     "800101001": {
         "Key": "Skill01",
         "Name": "Distract",
-        "Desc": "Deals minor Fire DMG to a single target.",
+        "Desc": "指定した味方単体に少量の炎属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Fire",
         "DMG": [
@@ -3927,7 +3927,7 @@ var _monsterskill = {
     "800102001": {
         "Key": "Skill01",
         "Name": "Distract",
-        "Desc": "Deals Ice DMG to a single target.",
+        "Desc": "指定した味方単体に少量の氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -3937,7 +3937,7 @@ var _monsterskill = {
     "800103001": {
         "Key": "Skill01",
         "Name": "Iridescent Beam",
-        "Desc": "Deals minor Imaginary DMG to a single target.",
+        "Desc": "指定した味方単体に少量の虚数属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -3947,7 +3947,7 @@ var _monsterskill = {
     "800103002": {
         "Key": "Skill02",
         "Name": "Focused Charge",
-        "Desc": "Increases the ATK of all friendly units.",
+        "Desc": "敵全体の攻撃力をアップする。",
         "SP": 0,
         "Status": [
             280010301
@@ -3956,13 +3956,13 @@ var _monsterskill = {
     "800103003": {
         "Key": "PassiveSkill01",
         "Name": "Energy Burst",
-        "Desc": "All targets' Energy gets regenerated after this unit suffers a killing blow.",
+        "Desc": "HPが0になる攻撃を受けた後、味方全体のEPを回復する。",
         "SP": 0
     },
     "800201001": {
         "Key": "Skill01",
         "Name": "Carolbeam",
-        "Desc": "Deals minor Imaginary DMG to a single target.",
+        "Desc": "指定した味方単体に少量の虚数属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -3972,7 +3972,7 @@ var _monsterskill = {
     "800201002": {
         "Key": "Skill02",
         "Name": "Carolburst",
-        "Desc": "Deals massive Imaginary DMG to a single target.",
+        "Desc": "指定した味方単体に大量の虚数属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -3982,7 +3982,7 @@ var _monsterskill = {
     "800201003": {
         "Key": "Skill03",
         "Name": "Reverberating Carol",
-        "Desc": "Deals Imaginary DMG to a single target and units adjacent to the target, and enters a Defensive Position. In the next turn, use Carolburst and massively increase the DMG dealt.",
+        "Desc": "指定した味方単体および隣接する味方に虚数属性ダメージを与え、「後手」状態に入る。次の行動で「賛歌爆発」を発動し、自身の与ダメージが大幅にアップする。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "Prepare": [
@@ -3998,121 +3998,121 @@ var _monsterskill = {
     "800201004": {
         "Key": "PassiveSkillInitiate",
         "Name": "Imaginary Armor",
-        "Desc": "Receives reduced DMG from non-Weakness Type attacks.",
+        "Desc": "非弱点属性に対する被ダメージがダウンする。",
         "SP": 0
     },
     "800204001": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Treasure Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800204002": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800204003": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "800205001": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Treasure Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800205002": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800205003": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "800205101": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Treasure Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800205102": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800205103": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "800205201": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Treasure Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800205202": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800205203": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "800205301": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Treasure Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800205302": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800205303": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "800206001": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Treasure Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800206002": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800206003": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "800206004": {
         "Key": "SkillP01",
         "Name": "T—Taking Revenge",
-        "Desc": "When a friendly unit is attacked, this unit will attack all targets. The attack count is equal to the number of the friendly units attacked.",
+        "Desc": "味方が敵を攻撃した後、味方全体に攻撃を行う、攻撃回数はその回の攻撃が命中した敵の数に相当する。",
         "SP": 0,
         "Elem": "Fire",
         "Status": [
@@ -4122,25 +4122,25 @@ var _monsterskill = {
     "800207001": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Treasure Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800207002": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800207003": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "800207004": {
         "Key": "SkillP01",
         "Name": "C—Cure You",
-        "Desc": "When a friendly unit other than the Trotter of Abundance is attacked, consumes HP to heal the attacked friendly unit.",
+        "Desc": "豊穣プーマン以外の敵が味方の攻撃を受けると、自身のHPを消費して、攻撃を受けた敵のHPを回復する。",
         "SP": 0,
         "Status": [
             280020701
@@ -4149,25 +4149,25 @@ var _monsterskill = {
     "800208001": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Treasure Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800208002": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800208003": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "800208004": {
         "Key": "SkillP01",
         "Name": "P—Protect You",
-        "Desc": "When entering battle, applies \"P—Protect You\" to all friendly units. Each stack of \"P—Protect You\" can nullify all DMG received from 1 incoming hit except for DoT. \"P—Protect You\" stacks are shared across the team.",
+        "Desc": "戦闘に入る時、敵全体に「ま…守ってあげる」を発動する。「ま…守ってあげる」1層につき、持続ダメージ以外のすべてのダメージを1回防げる。「ま…守ってあげる」の層数は敵全体で共有される。",
         "SP": 0,
         "Status": [
             280020801
@@ -4176,25 +4176,25 @@ var _monsterskill = {
     "800208101": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Treasure Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800208102": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800208103": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "800208104": {
         "Key": "SkillP01",
         "Name": "P—Protect You",
-        "Desc": "When entering battle, applies \"P—Protect You\" to all friendly units. Each stack of \"P—Protect You\" can nullify all DMG received from 1 incoming hit except for DoT. \"P—Protect You\" stacks are shared across the team.",
+        "Desc": "戦闘に入る時、敵全体に「ま…守ってあげる」を発動する。「ま…守ってあげる」1層につき、持続ダメージ以外のすべてのダメージを1回防げる。「ま…守ってあげる」の層数は敵全体で共有される。",
         "SP": 0,
         "Status": [
             280020801
@@ -4203,25 +4203,25 @@ var _monsterskill = {
     "800209001": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800209002": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800209003": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "800301001": {
         "Key": "Skill01",
         "Name": "Chilling Lament",
-        "Desc": "Deals minor Ice DMG to a single target. Deals extra Ice DMG to the target if the target is currently Frozen and this unit is in the Freezing Point state.",
+        "Desc": "指定した味方単体に少量の氷属性ダメージを与える。自身が「氷点」状態の場合、凍結状態の味方単体に攻撃を行った後、さらに氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "Status": [
@@ -4236,7 +4236,7 @@ var _monsterskill = {
     "800301002": {
         "Key": "Skill02",
         "Name": "Frosty Absorption",
-        "Desc": "Enters the Freezing Point state. Everwinter Rain can be used in subsequent attacks.",
+        "Desc": "自身が「氷点」状態になり、その後の攻撃で「永冬の雨」を発動できる。",
         "SP": 0,
         "Elem": "Ice",
         "Prepare": [
@@ -4249,7 +4249,7 @@ var _monsterskill = {
     "800301003": {
         "Key": "Skill03",
         "Name": "Everwinter Rain",
-        "Desc": "This ability is only available while in the Freezing Point state. Deals minor Ice DMG to all targets, with a chance to Freeze the targets.",
+        "Desc": "「氷点」状態の時のみこのスキルを発動できる。味方全体に少量の氷属性ダメージを与え、確率で攻撃を受けた味方を凍結状態にする。",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true,
@@ -4265,14 +4265,14 @@ var _monsterskill = {
     "800301004": {
         "Key": "Skill04",
         "Name": "Chilling Lament",
-        "Desc": "Deals Ice DMG to a single target. There is a chance to Freeze the target if the user is in the Freezing Point state.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。自身が「氷点」状態の場合、確率で攻撃を受けた味方を凍結状態にする。",
         "SP": 10.0,
         "Elem": "Ice"
     },
     "800301101": {
         "Key": "Skill01",
         "Name": "Chilling Lament",
-        "Desc": "Deals minor Ice DMG to a single target. Deals extra Ice DMG to the target if the target is currently Frozen and this unit is in the Freezing Point state.",
+        "Desc": "指定した味方単体に少量の氷属性ダメージを与える。自身が「氷点」状態の場合、凍結状態の味方単体に攻撃を行った後、さらに氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "Status": [
@@ -4287,7 +4287,7 @@ var _monsterskill = {
     "800301102": {
         "Key": "Skill02",
         "Name": "Frosty Absorption",
-        "Desc": "Enters the Freezing Point state. Everwinter Rain can be used in subsequent attacks.",
+        "Desc": "自身が「氷点」状態になり、その後の攻撃で「永冬の雨」を発動できる。",
         "SP": 0,
         "Elem": "Ice",
         "Prepare": [
@@ -4300,7 +4300,7 @@ var _monsterskill = {
     "800301103": {
         "Key": "Skill03",
         "Name": "Everwinter Rain",
-        "Desc": "The ability will only be used when in the Freezing Point state. Casting the ability to deal Ice DMG to all targets, with a chance to Freeze the targets and delay their actions.",
+        "Desc": "このスキルを発動できるのは「氷点」状態の時のみ。このスキルを発動すると、味方全体に氷属性ダメージを与え、確率で攻撃を受けた味方を凍結状態にする。さらにその味方の行動を遅延させる。",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true,
@@ -4316,7 +4316,7 @@ var _monsterskill = {
     "800301104": {
         "Key": "Skill04",
         "Name": "Chilling Lament",
-        "Desc": "Deals Ice DMG to a single target. There is a chance to Freeze the target if the user is in the Freezing Point state.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。自身が「氷点」状態の場合、確率で攻撃を受けた味方を凍結状態にする。",
         "SP": 10.0,
         "Elem": "Ice"
     },
@@ -4330,7 +4330,7 @@ var _monsterskill = {
     "800301106": {
         "Key": "Skill06",
         "Name": "Freeze Burst",
-        "Desc": "Deals Ice DMG to Frozen targets. This also removes their Frozen state and deals Ice DMG to their adjacent units.",
+        "Desc": "凍結状態の味方に氷属性ダメージを与え、同時にその凍結状態解除し、隣接するターゲットに氷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true,
@@ -4342,7 +4342,7 @@ var _monsterskill = {
     "800302001": {
         "Key": "Skill01",
         "Name": "Bellowing Inferno",
-        "Desc": "Deals minor Fire DMG to a single target and has a high chance to inflict Enkindle.",
+        "Desc": "指定した味方単体に少量の炎属性ダメージを与え、高確率で攻撃を受けた味方を「焼却」状態にする。",
         "SP": 10.0,
         "Elem": "Fire",
         "Status": [
@@ -4356,7 +4356,7 @@ var _monsterskill = {
     "800302002": {
         "Key": "Skill03",
         "Name": "Blazing Absorption",
-        "Desc": "Enters the Spontaneous Combustion state. Rain of Purifying Flames can be used in subsequent attacks.",
+        "Desc": "自身を「自然発火」状態にし、その後の攻撃で「浄炎の雨」を発動できる。",
         "SP": 0,
         "Prepare": [
             800302003
@@ -4368,7 +4368,7 @@ var _monsterskill = {
     "800302003": {
         "Key": "Skill05",
         "Name": "Rain of Purifying Flames",
-        "Desc": "Deals successive minor Fire DMG to a random single target, with a high chance to inflict Enkindle.",
+        "Desc": "連続でランダムな味方単体に少量の炎属性ダメージを与え、高確率で攻撃を受けた味方を「焼却」状態にする。",
         "SP": 10.0,
         "Elem": "Fire",
         "Threat": true,
@@ -4383,13 +4383,13 @@ var _monsterskill = {
     "800302004": {
         "Key": "Skill07",
         "Name": "Molten Fusion",
-        "Desc": "Gains ATK. This buff is dispelled upon Weakness Break.",
+        "Desc": "攻撃力をアップする、弱点撃破されると効果が解除される。",
         "SP": 0
     },
     "800302101": {
         "Key": "Skill01",
         "Name": "Bellowing Inferno",
-        "Desc": "Deals minor Fire DMG to a single target and has a high chance to inflict Enkindle.",
+        "Desc": "指定した味方単体に少量の炎属性ダメージを与え、高確率で攻撃を受けた味方を「焼却」状態にする。",
         "SP": 10.0,
         "Elem": "Fire",
         "Status": [
@@ -4403,7 +4403,7 @@ var _monsterskill = {
     "800302102": {
         "Key": "Skill03",
         "Name": "Blazing Absorption",
-        "Desc": "Enters the Spontaneous Combustion state. Rain of Purifying Flames can be used in subsequent attacks.",
+        "Desc": "自身を「自然発火」状態にし、その後の攻撃で「浄炎の雨」を発動できる。",
         "SP": 0,
         "Prepare": [
             800302103
@@ -4415,7 +4415,7 @@ var _monsterskill = {
     "800302103": {
         "Key": "Skill05",
         "Name": "Rain of Purifying Flames",
-        "Desc": "Deals successive minor Fire DMG to a random single target, with a high chance to inflict Enkindle.",
+        "Desc": "連続でランダムな味方単体に少量の炎属性ダメージを与え、高確率で攻撃を受けた味方を「焼却」状態にする。",
         "SP": 10.0,
         "Elem": "Fire",
         "Threat": true,
@@ -4430,13 +4430,13 @@ var _monsterskill = {
     "800302104": {
         "Key": "Skill07",
         "Name": "Molten Fusion",
-        "Desc": "Increases this unit's ATK.",
+        "Desc": "自身の攻撃力をアップ。",
         "SP": 0
     },
     "800302105": {
         "Key": "Skill08",
         "Name": "Bomb Warning",
-        "Desc": "Starts charging, and absorbs all the Enkindle statuses that are inflicted on all targets.",
+        "Desc": "パワーチャージ状態に入り、味方の全「焼却」状態を吸収する。",
         "SP": 0,
         "Prepare": [
             800302106
@@ -4448,7 +4448,7 @@ var _monsterskill = {
     "800302106": {
         "Key": "Skill09",
         "Name": "Bomb en Masse",
-        "Desc": "Deals Fire DMG to all targets and has a high chance to inflict Enkindle to all targets. The more Enkindle absorbed, the more DMG this attack will deal.",
+        "Desc": "味方全体に炎属性ダメージを与え、高確率で味方全体を「焼却」状態にする。吸収した「焼却」状態が多い程、その回の攻撃の与ダメージがアップする。",
         "SP": 15.0,
         "Elem": "Fire",
         "Threat": true,
@@ -4462,7 +4462,7 @@ var _monsterskill = {
     "800303001": {
         "Key": "Skill01",
         "Name": "Lightning Recollection",
-        "Desc": "Deals Lightning DMG to a single target.",
+        "Desc": "指定した味方単体に雷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Elec",
         "DMG": [
@@ -4472,7 +4472,7 @@ var _monsterskill = {
     "800303002": {
         "Key": "Skill02",
         "Name": "Lightning Condemnation",
-        "Desc": "Deals minor Lightning DMG to a single target and units adjacent to the target.",
+        "Desc": "指定した味方単体および隣接する味方に少量の雷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Elec",
         "DMG": [
@@ -4483,7 +4483,7 @@ var _monsterskill = {
     "800303003": {
         "Key": "Skill03",
         "Name": "Tranquil Ban",
-        "Desc": "Your team is imposed with a ban on attacking the Guardian Shadow. Should anyone do so, they immediately receive 1 attack.",
+        "Desc": "味方全体に「禁令」を下し、守護者の影への攻撃を禁じる、守護者の影を攻撃した味方は攻撃を1回受ける。",
         "SP": 0,
         "Prepare": [
             800303007
@@ -4495,7 +4495,7 @@ var _monsterskill = {
     "800303004": {
         "Key": "Skill04",
         "Name": "Disarm Ban",
-        "Desc": "Your team is imposed with a ban on using Basic ATK. Should anyone do so, they immediately receive 1 attack.",
+        "Desc": "味方全体に「禁令」を下し、通常攻撃を禁じる、通常攻撃を行った味方は攻撃を1回受ける。",
         "SP": 0,
         "Prepare": [
             800303007
@@ -4507,7 +4507,7 @@ var _monsterskill = {
     "800303005": {
         "Key": "Skill05",
         "Name": "Silent Ban",
-        "Desc": "Your team is imposed with a ban on using Skill. Should anyone do so, they immediately receive 1 attack.",
+        "Desc": "味方全体に「禁令」を下し、戦闘スキルの使用を禁じる、戦闘スキルを使用した味方は攻撃を1回受ける。",
         "SP": 0,
         "Prepare": [
             800303007
@@ -4519,7 +4519,7 @@ var _monsterskill = {
     "800303006": {
         "Key": "Skill06",
         "Name": "Thunderstorm Condemnation",
-        "Desc": "Deals successive minor Lightning DMG to a random target, with a chance to inflict Shock.",
+        "Desc": "連続でランダムな味方単体に少量の雷属性ダメージを与え、確率で攻撃を受けた味方を感電状態にする。",
         "SP": 5.0,
         "Elem": "Elec",
         "Threat": true,
@@ -4534,7 +4534,7 @@ var _monsterskill = {
     "800303007": {
         "Key": "Skill07",
         "Name": "Inevitable Punishment",
-        "Desc": "Deals Lightning DMG to whoever violates the ban.",
+        "Desc": "「禁令」を破った味方単体に雷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Elec",
         "DMG": [
@@ -4553,7 +4553,7 @@ var _monsterskill = {
     "800303101": {
         "Key": "Skill01",
         "Name": "Lightning Recollection",
-        "Desc": "Deals Lightning DMG to a single target.",
+        "Desc": "指定した味方単体に雷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Elec",
         "DMG": [
@@ -4563,7 +4563,7 @@ var _monsterskill = {
     "800303102": {
         "Key": "Skill02",
         "Name": "Lightning Condemnation",
-        "Desc": "Deals minor Lightning DMG to a single target and units adjacent to the target.",
+        "Desc": "指定した味方単体および隣接する味方に少量の雷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Elec",
         "DMG": [
@@ -4574,7 +4574,7 @@ var _monsterskill = {
     "800303103": {
         "Key": "Skill03",
         "Name": "Tranquil Ban",
-        "Desc": "Your team is imposed with a ban on attacking the Guardian Shadow. Should anyone do so, they immediately receive 1 attack.",
+        "Desc": "味方全体に「禁令」を下し、守護者の影への攻撃を禁じる、守護者の影を攻撃した味方は攻撃を1回受ける。",
         "SP": 0,
         "Prepare": [
             800303107
@@ -4586,7 +4586,7 @@ var _monsterskill = {
     "800303104": {
         "Key": "Skill04",
         "Name": "Disarm Ban",
-        "Desc": "Your team is imposed with a ban on using Basic ATK. Should anyone do so, they immediately receive 1 attack.",
+        "Desc": "味方全体に「禁令」を下し、通常攻撃を禁じる、通常攻撃を行った味方は攻撃を1回受ける。",
         "SP": 0,
         "Prepare": [
             800303107
@@ -4598,7 +4598,7 @@ var _monsterskill = {
     "800303105": {
         "Key": "Skill05",
         "Name": "Silent Ban",
-        "Desc": "Your team is imposed with a ban on using Skill. Should anyone do so, they immediately receive 1 attack.",
+        "Desc": "味方全体に「禁令」を下し、戦闘スキルの使用を禁じる、戦闘スキルを使用した味方は攻撃を1回受ける。",
         "SP": 0,
         "Prepare": [
             800303107
@@ -4610,7 +4610,7 @@ var _monsterskill = {
     "800303106": {
         "Key": "Skill06",
         "Name": "Thunderstorm Condemnation",
-        "Desc": "Deals successive minor Lightning DMG to a random target, with a chance to inflict Shock.",
+        "Desc": "連続でランダムな味方単体に少量の雷属性ダメージを与え、確率で攻撃を受けた味方を感電状態にする。",
         "SP": 5.0,
         "Elem": "Elec",
         "Threat": true,
@@ -4625,7 +4625,7 @@ var _monsterskill = {
     "800303107": {
         "Key": "Skill07",
         "Name": "Inevitable Punishment",
-        "Desc": "Deals Lightning DMG to whoever violates the ban.",
+        "Desc": "「禁令」を破った味方単体に雷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Elec",
         "Threat": true,
@@ -4648,7 +4648,7 @@ var _monsterskill = {
     "800304002": {
         "Key": "Skill02",
         "Name": "Fleeting Gilded Spikes",
-        "Desc": "Deals Imaginary DMG to a single target.",
+        "Desc": "指定した味方単体に虚数属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -4658,7 +4658,7 @@ var _monsterskill = {
     "800304003": {
         "Key": "Skill03",
         "Name": "Fleeting Punishment",
-        "Desc": "Deals massive Imaginary DMG to a single target.",
+        "Desc": "指定した味方単体に大量の虚数属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -4668,7 +4668,7 @@ var _monsterskill = {
     "800304005": {
         "Key": "Skill04",
         "Name": "Liberation of the Golden Age",
-        "Desc": "Deals successive minor Imaginary DMG to a random target. The number of attacks is equal to the \"Gauge Recollection\" stacks remaining. If there is no \"Gauge Recollection,\" this ability will fail.",
+        "Desc": "連続でランダムな味方単体に少量の虚数属性ダメージを与える、ヒット数は自身が所持する「追憶のスケール」層数と同じ。「追憶のスケール」がない場合は発動に失敗する。",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Threat": true,
@@ -4682,7 +4682,7 @@ var _monsterskill = {
     "800304006": {
         "Key": "PassiveSkill01",
         "Name": "Fleeting Veil",
-        "Desc": "Slightly reduces DMG received from Basic ATKs, Skills, Ultimates, and follow-up attacks, with a small chance to inflict Imprisonment on the target attacked by Decaying Shadow.",
+        "Desc": "自身が受ける通常攻撃、戦闘スキル、必殺技、追加攻撃の与ダメージが小幅ダウンし、低確率で蚕食者の影に攻撃された味方を禁錮状態にする。",
         "SP": 0,
         "Status": [
             30020013
@@ -4691,7 +4691,7 @@ var _monsterskill = {
     "800304004": {
         "Key": "Skill05",
         "Name": "Binding of the Golden Age",
-        "Desc": "Enters the Charge state and gains 9 Gauge Recollection stacks. Casts Liberation of the Golden Age in the next action. Every time this unit is attacked, lose 1 stack of Gauge Recollection.",
+        "Desc": "チャージ状態に入り、「追憶のスケール」を9層獲得し、次の行動で「黄金時代の解放」を発動する。攻撃を受けるたびに「追憶のスケール」を1層失う。",
         "SP": 0,
         "Prepare": [
             800304005
@@ -4715,7 +4715,7 @@ var _monsterskill = {
     "800304102": {
         "Key": "Skill02",
         "Name": "Fleeting Gilded Spikes",
-        "Desc": "Deals Imaginary DMG to a single target.",
+        "Desc": "指定した味方単体に虚数属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -4725,7 +4725,7 @@ var _monsterskill = {
     "800304103": {
         "Key": "Skill03",
         "Name": "Fleeting Punishment",
-        "Desc": "Deals massive Imaginary DMG to a single target.",
+        "Desc": "指定した味方単体に大量の虚数属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -4735,7 +4735,7 @@ var _monsterskill = {
     "800304108": {
         "Key": "Skill04",
         "Name": "Liberation of the Golden Age",
-        "Desc": "Deals successive Imaginary DMG to a random target. The number of attacks is equal to the \"Gauge Recollection\" stacks remaining. If there is no \"Gauge Recollection,\" this ability will fail.",
+        "Desc": "連続でランダムな味方単体に虚数属性ダメージを与える、ヒット数は自身が所持する「追憶のスケール」層数と同じ。「追憶のスケール」がない場合は発動に失敗する。",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Status": [
@@ -4748,7 +4748,7 @@ var _monsterskill = {
     "800304106": {
         "Key": "PassiveSkill01",
         "Name": "Fleeting Veil",
-        "Desc": "Receives slightly reduced DMG from Basic ATKs, Skills, Ultimates, and follow-up attacks, with a small chance to inflict Imprisonment on the target attacked by Decaying Shadow.",
+        "Desc": "自身が受ける通常攻撃、戦闘スキル、必殺技、追加攻撃の与ダメージが小幅ダウンし、確率で蚕食者の影に攻撃された味方を禁錮状態にする。",
         "SP": 0,
         "Status": [
             30020013
@@ -4757,7 +4757,7 @@ var _monsterskill = {
     "800304104": {
         "Key": "Skill05",
         "Name": "Binding of the Golden Age",
-        "Desc": "Enters the Charge state and gains 9 Gauge Recollection stacks. Casts Liberation of the Golden Age in the next action. Every time this unit is attacked, lose 1 stack of Gauge Recollection.",
+        "Desc": "チャージ状態に入り、「追憶のスケール」を9層獲得し、次の行動で「黄金時代の解放」を発動する。攻撃を受けるたびに「追憶のスケール」を1層失う。",
         "SP": 0,
         "Prepare": [
             800304108
@@ -4775,7 +4775,7 @@ var _monsterskill = {
     "800304105": {
         "Key": "Skill07",
         "Name": "Liberation of the Golden Age",
-        "Desc": "Deals successive Imaginary DMG to a random target. If there are no Gauge Recollection stacks, this ability will fail.",
+        "Desc": "連続でランダムな味方単体に虚数属性ダメージを与える、「追憶のスケール」がない場合は発動に失敗する。",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Threat": true
@@ -4790,7 +4790,7 @@ var _monsterskill = {
     "801101001": {
         "Key": "Skill01",
         "Name": "Obliterate",
-        "Desc": "Deals minor Quantum DMG to a single target.",
+        "Desc": "指定した味方単体に少量の量子属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Quantum",
         "DMG": [
@@ -4800,7 +4800,7 @@ var _monsterskill = {
     "801102001": {
         "Key": "Skill01",
         "Name": "Obliterate",
-        "Desc": "Deals minor Imaginary DMG to a single target.",
+        "Desc": "指定した味方単体に少量の虚数属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -4810,7 +4810,7 @@ var _monsterskill = {
     "801201001": {
         "Key": "Skill01",
         "Name": "Hunting Blade",
-        "Desc": "Deals minor Imaginary DMG to a single target.",
+        "Desc": "指定した味方単体に少量の虚数属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -4820,7 +4820,7 @@ var _monsterskill = {
     "801201002": {
         "Key": "Skill02",
         "Name": "Vortex Leap",
-        "Desc": "Deals minor Imaginary DMG to a single target and units adjacent to the target.",
+        "Desc": "指定した味方単体および隣接する味方に少量の虚数属性ダメージを与える。",
         "SP": 5.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -4830,7 +4830,7 @@ var _monsterskill = {
     "801201003": {
         "Key": "PassiveSkill01",
         "Name": "",
-        "Desc": "Increases SPD after attacking.",
+        "Desc": "攻撃を行うと速度がアップする。",
         "SP": 0,
         "Status": [
             280120101
@@ -4839,7 +4839,7 @@ var _monsterskill = {
     "801202001": {
         "Key": "Skill01",
         "Name": "Nihility's Command",
-        "Desc": "Locks Onto a random unit on your team, making them the target for incoming attacks from all of their enemies.",
+        "Desc": "ランダムな味方単体をロックオンし、敵全体の攻撃ターゲットにする。",
         "SP": 0,
         "Elem": "Quantum",
         "Status": [
@@ -4849,7 +4849,7 @@ var _monsterskill = {
     "801202002": {
         "Key": "Skill02",
         "Name": "Shadowless Void Strike",
-        "Desc": "Deals Quantum DMG to a single target.",
+        "Desc": "指定した味方単体に量子属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Quantum",
         "DMG": [
@@ -4859,7 +4859,7 @@ var _monsterskill = {
     "801202101": {
         "Key": "Skill01",
         "Name": "Nihility's Command",
-        "Desc": "Locks Onto a random unit on your team, making them the target for incoming attacks from all of their enemies.",
+        "Desc": "ランダムな味方単体をロックオンし、敵全体の攻撃ターゲットにする。",
         "SP": 0,
         "Elem": "Quantum",
         "Status": [
@@ -4869,7 +4869,7 @@ var _monsterskill = {
     "801202102": {
         "Key": "Skill02",
         "Name": "Shadowless Void Strike",
-        "Desc": "Deals Quantum DMG to a single target.",
+        "Desc": "指定した味方単体に量子属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Quantum",
         "DMG": [
@@ -4879,7 +4879,7 @@ var _monsterskill = {
     "801203001": {
         "Key": "Skill01",
         "Name": "Void Cannon",
-        "Desc": "Deals Imaginary DMG to a single target, with a chance to afflict Detonated. This unit becomes Overloaded.",
+        "Desc": "指定した味方単体に虚数属性ダメージを与え、自身を「オーバーヒート」状態にする。攻撃を受けた味方は確率で「起爆」状態になる。",
         "SP": 15.0,
         "Elem": "Imaginary",
         "Status": [
@@ -4894,7 +4894,7 @@ var _monsterskill = {
     "801203002": {
         "Key": "Skill02",
         "Name": "Thermal Barrier",
-        "Desc": "Dispels this unit's Overloaded state.",
+        "Desc": "自身の「オーバーヒート」状態を解除する。",
         "SP": 0,
         "Status": [
             280120302
@@ -4903,7 +4903,7 @@ var _monsterskill = {
     "801301001": {
         "Key": "Skill01",
         "Name": "Unreal Projection",
-        "Desc": "Deals Quantum DMG to a single target.",
+        "Desc": "指定した味方単体に量子属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Quantum",
         "DMG": [
@@ -4913,7 +4913,7 @@ var _monsterskill = {
     "801301002": {
         "Key": "Skill02",
         "Name": "Rule of Force",
-        "Desc": "Deals Quantum DMG to a single target.",
+        "Desc": "指定した味方単体に量子属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Quantum",
         "DMG": [
@@ -4923,7 +4923,7 @@ var _monsterskill = {
     "801301003": {
         "Key": "Skill03",
         "Name": "War Trample",
-        "Desc": "Deals minor Quantum DMG to a single target and units adjacent to the target.",
+        "Desc": "指定した味方単体および隣接する味方に少量の量子属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Quantum",
         "DMG": [
@@ -4933,7 +4933,7 @@ var _monsterskill = {
     "801301004": {
         "Key": "Skill04",
         "Name": "Spiral Arrow",
-        "Desc": "Locks on to a single target. Cast End of Bow to this target in the next action.",
+        "Desc": "指定した味方単体をロックオンし、次の行動でターゲットに「強弓の終末」を発動する。",
         "SP": 0,
         "Elem": "Quantum",
         "Prepare": [
@@ -4946,7 +4946,7 @@ var _monsterskill = {
     "801301005": {
         "Key": "Skill05",
         "Name": "End of Bow",
-        "Desc": "Deals massive Quantum DMG to a single target, with a high chance to inflict Entanglement.",
+        "Desc": "指定した味方単体に大量の量子ダメージを与え、高確率で攻撃を受けた味方をもつれ状態にする。",
         "SP": 25.0,
         "Elem": "Quantum",
         "Threat": true,
@@ -4961,7 +4961,7 @@ var _monsterskill = {
     "801301101": {
         "Key": "Skill01",
         "Name": "Unreal Projection",
-        "Desc": "Deals Quantum DMG to a single target.",
+        "Desc": "指定した味方単体に量子属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Quantum",
         "DMG": [
@@ -4971,7 +4971,7 @@ var _monsterskill = {
     "801301102": {
         "Key": "Skill02",
         "Name": "Rule of Force",
-        "Desc": "Deals Quantum DMG to a single target.",
+        "Desc": "指定した味方単体に量子属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Quantum",
         "DMG": [
@@ -4981,7 +4981,7 @@ var _monsterskill = {
     "801301103": {
         "Key": "Skill03",
         "Name": "War Trample",
-        "Desc": "Deals Quantum DMG to a single target and units adjacent to the target.",
+        "Desc": "指定した味方単体および隣接する味方に量子属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Quantum",
         "DMG": [
@@ -4991,7 +4991,7 @@ var _monsterskill = {
     "801301104": {
         "Key": "Skill04",
         "Name": "Spiral Arrow",
-        "Desc": "Locks on to a single target. Cast End of Bow to this target in the next action.",
+        "Desc": "指定した味方単体をロックオンし、次の行動でターゲットに「強弓の終末」を発動する。",
         "SP": 0,
         "Elem": "Quantum",
         "Prepare": [
@@ -5004,7 +5004,7 @@ var _monsterskill = {
     "801301105": {
         "Key": "Skill05",
         "Name": "End of Bow",
-        "Desc": "Deals massive Quantum DMG to a single target, with a high chance to inflict Entanglement.",
+        "Desc": "指定した味方単体に大量の量子ダメージを与え、高確率で攻撃を受けた味方をもつれ状態にする。",
         "SP": 25.0,
         "Elem": "Quantum",
         "Threat": true,
@@ -5019,7 +5019,7 @@ var _monsterskill = {
     "801301201": {
         "Key": "Skill01",
         "Name": "Unreal Projection",
-        "Desc": "Deals Quantum DMG to a single target.",
+        "Desc": "指定した味方単体に量子属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Quantum",
         "DMG": [
@@ -5029,7 +5029,7 @@ var _monsterskill = {
     "801301202": {
         "Key": "Skill02",
         "Name": "Rule of Force",
-        "Desc": "Deals Quantum DMG to a single target.",
+        "Desc": "指定した味方単体に量子属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Quantum",
         "DMG": [
@@ -5039,7 +5039,7 @@ var _monsterskill = {
     "801301203": {
         "Key": "Skill03",
         "Name": "War Trample",
-        "Desc": "Deals minor Quantum DMG to a single target and units adjacent to the target.",
+        "Desc": "指定した味方単体および隣接する味方に少量の量子属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Quantum",
         "DMG": [
@@ -5049,7 +5049,7 @@ var _monsterskill = {
     "801301204": {
         "Key": "Skill04",
         "Name": "Spiral Arrow",
-        "Desc": "Locks on to a single target. Cast End of Bow to this target in the next action.",
+        "Desc": "指定した味方単体をロックオンし、次の行動でターゲットに「強弓の終末」を発動する。",
         "SP": 0,
         "Elem": "Quantum",
         "Prepare": [
@@ -5062,7 +5062,7 @@ var _monsterskill = {
     "801301205": {
         "Key": "Skill05",
         "Name": "End of Bow",
-        "Desc": "Deals massive Quantum DMG to a single target.",
+        "Desc": "指定した味方単体に大量の量子属性ダメージを与える。",
         "SP": 25.0,
         "Elem": "Quantum",
         "Threat": true,
@@ -5073,7 +5073,7 @@ var _monsterskill = {
     "801502001": {
         "Key": "Skill01",
         "Name": "Acchata: Forming Winds",
-        "Desc": "Deals Wind DMG to a single target.",
+        "Desc": "指定した味方単体に風属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Wind",
         "DMG": [
@@ -5083,7 +5083,7 @@ var _monsterskill = {
     "801502002": {
         "Key": "Skill02",
         "Name": "Cleansing Sweep",
-        "Desc": "Deals minor Wind DMG to all targets.",
+        "Desc": "味方全体に少量の風属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Wind",
         "DMG": [
@@ -5093,7 +5093,7 @@ var _monsterskill = {
     "801502003": {
         "Key": "Skill03",
         "Name": "Weaving Roots",
-        "Desc": "Deals Wind DMG to a single target and delays their action.",
+        "Desc": "指定した味方単体に風属性ダメージを与え、攻撃を受けた味方の行動順を遅らす。",
         "SP": 15.0,
         "Elem": "Wind",
         "DMG": [
@@ -5103,7 +5103,7 @@ var _monsterskill = {
     "801502004": {
         "Key": "Skill04",
         "Name": "Burgeoning Bloom",
-        "Desc": "Summons Abundance Lotus.",
+        "Desc": "「豊穣の玄蓮」を召喚する。",
         "SP": 0,
         "Summon": [
             8012200
@@ -5112,7 +5112,7 @@ var _monsterskill = {
     "801502005": {
         "Key": "Skill05",
         "Name": "Acchata: Roaring Thunder",
-        "Desc": "Deals Lightning DMG to a single target.",
+        "Desc": "指定した味方単体に雷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Elec",
         "DMG": [
@@ -5122,7 +5122,7 @@ var _monsterskill = {
     "801502006": {
         "Key": "Skill06",
         "Name": "Starfall, Mooncry",
-        "Desc": "Deals Lightning DMG to all targets.",
+        "Desc": "味方全体に雷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Elec",
         "Threat": true,
@@ -5133,7 +5133,7 @@ var _monsterskill = {
     "801502007": {
         "Key": "Skill07",
         "Name": "Kalpa Descend",
-        "Desc": "Locks on a target and causes Destruction Lotus to Bloom. At the same time, dispels Destruction Lotus' Weakness Protected effect. Destruction Lotus's will use Havoc during its next action.",
+        "Desc": "味方単体をロックオンし、「破滅の玄蓮」を「開花」状態にさせる。「破滅の玄蓮」の「弱点無効」効果を解除する。「破滅の玄蓮」は次の行動で「破滅」を発動する。",
         "SP": 0,
         "Status": [
             280150202,
@@ -5154,7 +5154,7 @@ var _monsterskill = {
     "801502009": {
         "Key": "Skill09",
         "Name": "Furor",
-        "Desc": "Deals Imaginary DMG to a single target and any adjacent targets.",
+        "Desc": "指定した味方単体および隣接する味方に虚数属性ダメージを与える。",
         "SP": 25.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -5165,7 +5165,7 @@ var _monsterskill = {
     "801502010": {
         "Key": "Skill10",
         "Name": "Arbor Apotheosis",
-        "Desc": "Deals Imaginary DMG to all targets.",
+        "Desc": "味方全体に虚数属性ダメージを与える。",
         "SP": 30.0,
         "Elem": "Imaginary",
         "Threat": true,
@@ -5176,7 +5176,7 @@ var _monsterskill = {
     "801502011": {
         "Key": "Skill11",
         "Name": "Weaving Roots",
-        "Desc": "Deals Imaginary DMG to a single target and delays their action.",
+        "Desc": "指定した味方単体に虚数属性ダメージを与え、攻撃を受けた味方の行動順を遅らす。",
         "SP": 30.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -5186,7 +5186,7 @@ var _monsterskill = {
     "801502012": {
         "Key": "Skill12",
         "Name": "Burgeoning Bloom",
-        "Desc": "Summons Abundance Lotus.",
+        "Desc": "「豊穣の玄蓮」を召喚する。",
         "SP": 0,
         "Summon": [
             8012201
@@ -5195,7 +5195,7 @@ var _monsterskill = {
     "801502013": {
         "Key": "Skill13",
         "Name": "Kalpa Descend",
-        "Desc": "Locks on a target and causes Destruction Lotus to Bloom. At the same time, dispels Destruction Lotus' Weakness Protected effect. Destruction Lotus's will use Havoc during its next action.",
+        "Desc": "味方単体をロックオンし、「破滅の玄蓮」を「開花」状態にさせる。「破滅の玄蓮」の「弱点無効」効果を解除する。「破滅の玄蓮」は次の行動で「破滅」を発動する。",
         "SP": 0,
         "Status": [
             280150202,
@@ -5216,7 +5216,7 @@ var _monsterskill = {
     "801502101": {
         "Key": "Skill01",
         "Name": "Acchata: Forming Winds",
-        "Desc": "Deals Wind DMG to a single target.",
+        "Desc": "指定した味方単体に風属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Wind",
         "DMG": [
@@ -5226,7 +5226,7 @@ var _monsterskill = {
     "801502102": {
         "Key": "Skill02",
         "Name": "Cleansing Sweep",
-        "Desc": "Deals minor Wind DMG to all targets.",
+        "Desc": "味方全体に少量の風属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Wind",
         "DMG": [
@@ -5236,7 +5236,7 @@ var _monsterskill = {
     "801502103": {
         "Key": "Skill03",
         "Name": "Weaving Roots",
-        "Desc": "Deals Wind DMG to a single target and delays their action.",
+        "Desc": "指定した味方単体に風属性ダメージを与え、攻撃を受けた味方の行動順を遅らす。",
         "SP": 15.0,
         "Elem": "Wind",
         "DMG": [
@@ -5246,7 +5246,7 @@ var _monsterskill = {
     "801502104": {
         "Key": "Skill04",
         "Name": "Burgeoning Bloom",
-        "Desc": "Summons Abundance Lotus.",
+        "Desc": "「豊穣の玄蓮」を召喚する。",
         "SP": 0,
         "Summon": [
             8012200
@@ -5255,7 +5255,7 @@ var _monsterskill = {
     "801502105": {
         "Key": "Skill05",
         "Name": "Acchata: Roaring Thunder",
-        "Desc": "Deals Lightning DMG to a single target.",
+        "Desc": "指定した味方単体に雷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Elec",
         "DMG": [
@@ -5265,7 +5265,7 @@ var _monsterskill = {
     "801502106": {
         "Key": "Skill06",
         "Name": "Starfall, Mooncry",
-        "Desc": "Deals Lightning DMG to all targets.",
+        "Desc": "味方全体に雷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Elec",
         "Threat": true,
@@ -5276,7 +5276,7 @@ var _monsterskill = {
     "801502107": {
         "Key": "Skill07",
         "Name": "Kalpa Descend",
-        "Desc": "Locks on a target and causes Destruction Lotus to Bloom. At the same time, dispels Destruction Lotus' Weakness Protected effect. Destruction Lotus's will use Havoc during its next action.",
+        "Desc": "味方単体をロックオンし、「破滅の玄蓮」を「開花」状態にさせる。「破滅の玄蓮」の「弱点無効」効果を解除する。「破滅の玄蓮」は次の行動で「破滅」を発動する。",
         "SP": 0,
         "Status": [
             280150202,
@@ -5297,7 +5297,7 @@ var _monsterskill = {
     "801502109": {
         "Key": "Skill09",
         "Name": "Furor",
-        "Desc": "Deals Imaginary DMG to a single target and any adjacent targets.",
+        "Desc": "指定した味方単体および隣接する味方に虚数属性ダメージを与える。",
         "SP": 25.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -5308,7 +5308,7 @@ var _monsterskill = {
     "801502110": {
         "Key": "Skill10",
         "Name": "Arbor Apotheosis",
-        "Desc": "Deals Imaginary DMG to all targets.",
+        "Desc": "味方全体に虚数属性ダメージを与える。",
         "SP": 30.0,
         "Elem": "Imaginary",
         "Threat": true,
@@ -5319,7 +5319,7 @@ var _monsterskill = {
     "801502111": {
         "Key": "Skill11",
         "Name": "Weaving Roots",
-        "Desc": "Deals Imaginary DMG to a single target and delays their action.",
+        "Desc": "指定した味方単体に虚数属性ダメージを与え、攻撃を受けた味方の行動順を遅らす。",
         "SP": 30.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -5329,7 +5329,7 @@ var _monsterskill = {
     "801502112": {
         "Key": "Skill12",
         "Name": "Burgeoning Bloom",
-        "Desc": "Summons Abundance Lotus.",
+        "Desc": "「豊穣の玄蓮」を召喚する。",
         "SP": 0,
         "Summon": [
             8012201
@@ -5338,7 +5338,7 @@ var _monsterskill = {
     "801502113": {
         "Key": "Skill13",
         "Name": "Kalpa Descend",
-        "Desc": "Locks on a target and causes Destruction Lotus to Bloom. At the same time, dispels Destruction Lotus' Weakness Protected effect. Destruction Lotus's will use Havoc during its next action.",
+        "Desc": "味方単体をロックオンし、「破滅の玄蓮」を「開花」状態にさせる。「破滅の玄蓮」の「弱点無効」効果を解除する。「破滅の玄蓮」は次の行動で「破滅」を発動する。",
         "SP": 0,
         "Status": [
             280150202,
@@ -5359,19 +5359,19 @@ var _monsterskill = {
     "801220001": {
         "Key": "Skill01",
         "Name": "Samsara",
-        "Desc": "Reduces the target's Skill Point by 1.",
+        "Desc": "味方のSPを1減らす。",
         "SP": 0
     },
     "801220003": {
         "Key": "PassiveSkill01",
         "Name": "Moksha",
-        "Desc": "After suffering a killing blow, recovers 3 Skill Points of the target.",
+        "Desc": "HPが0になる攻撃を受けた後、味方のSPを3回復する。",
         "SP": 0
     },
     "801220002": {
         "Key": "PassiveSkill02",
         "Name": "Mend",
-        "Desc": "At the start of each turn, restores HP.",
+        "Desc": "ターンが回ってきた時、自身のHPを回復する。",
         "SP": 0,
         "Status": [
             280150203
@@ -5380,19 +5380,19 @@ var _monsterskill = {
     "801220101": {
         "Key": "Skill01",
         "Name": "Samsara",
-        "Desc": "Reduces the target's Skill Point by 1.",
+        "Desc": "味方のSPを1減らす。",
         "SP": 0
     },
     "801220103": {
         "Key": "PassiveSkill01",
         "Name": "Moksha",
-        "Desc": "After suffering a killing blow, recovers 3 Skill Points of the target.",
+        "Desc": "HPが0になる攻撃を受けた後、味方のSPを3回復する。",
         "SP": 0
     },
     "801220102": {
         "Key": "PassiveSkill02",
         "Name": "Mend",
-        "Desc": "At the start of each turn, restores HP.",
+        "Desc": "ターンが回ってきた時、自身のHPを回復する。",
         "SP": 0,
         "Status": [
             280150203
@@ -5401,19 +5401,19 @@ var _monsterskill = {
     "801220201": {
         "Key": "Skill01",
         "Name": "Samsara",
-        "Desc": "Reduces the target's Skill Point by 1.",
+        "Desc": "味方のSPを1減らす。",
         "SP": 0
     },
     "801220203": {
         "Key": "PassiveSkill01",
         "Name": "Moksha",
-        "Desc": "After suffering a killing blow, recovers 3 Skill Points of the target.",
+        "Desc": "HPが0になる攻撃を受けた後、味方のSPを3回復する。",
         "SP": 0
     },
     "801220202": {
         "Key": "PassiveSkill02",
         "Name": "Mend",
-        "Desc": "At the start of each turn, restores HP.",
+        "Desc": "ターンが回ってきた時、自身のHPを回復する。",
         "SP": 0,
         "Status": [
             280150203
@@ -5422,19 +5422,19 @@ var _monsterskill = {
     "801220301": {
         "Key": "Skill01",
         "Name": "Samsara",
-        "Desc": "Reduces the target's Skill Point by 1.",
+        "Desc": "味方のSPを1減らす。",
         "SP": 0
     },
     "801220303": {
         "Key": "PassiveSkill01",
         "Name": "Moksha",
-        "Desc": "After suffering a killing blow, recovers 3 Skill Points of the target.",
+        "Desc": "HPが0になる攻撃を受けた後、味方のSPを3回復する。",
         "SP": 0
     },
     "801220302": {
         "Key": "PassiveSkill02",
         "Name": "Mend",
-        "Desc": "At the start of each turn, restores HP.",
+        "Desc": "ターンが回ってきた時、自身のHPを回復する。",
         "SP": 0,
         "Status": [
             280150203
@@ -5443,7 +5443,7 @@ var _monsterskill = {
     "801221001": {
         "Key": "Skill03",
         "Name": "Black Prana's Snare",
-        "Desc": "High chance of inflicting Prana-Siphon to a single target.",
+        "Desc": "高確率で指定した味方単体を「噬命」状態にする。",
         "SP": 10.0,
         "Status": [
             30020030
@@ -5458,7 +5458,7 @@ var _monsterskill = {
     "801221003": {
         "Key": "Skill04",
         "Name": "Havoc",
-        "Desc": "Deals Lightning DMG to a single target based on a percentage of their Max HP. This DMG ignores the target's DEF.",
+        "Desc": "指定した味方単体に、その味方の最大HPの割合に応じた雷属性ダメージを与える、このダメージはターゲットの防御力を無視する。",
         "SP": 20.0,
         "Elem": "Elec",
         "Threat": true
@@ -5466,7 +5466,7 @@ var _monsterskill = {
     "801221005": {
         "Key": "PassiveSkill01",
         "Name": "Repose",
-        "Desc": "After suffering a killing blow, enters Repose.",
+        "Desc": "HPが0になる攻撃を受けた後、「休眠」状態に入る。",
         "SP": 0,
         "Status": [
             280150206
@@ -5475,7 +5475,7 @@ var _monsterskill = {
     "801221004": {
         "Key": "PassiveSkill02",
         "Name": "Bloom",
-        "Desc": "When in the Bloom status, uses Havoc during the next action. When the Destruction Lotus is Weakness Broken, defeated, or having the Bloom dispelled while in Bloom, Phantylia the Undying receives increased DMG and have their action delayed.",
+        "Desc": "「開花」状態で、次の行動で「破滅」を発動する。「破滅の玄蓮」が「開花」状態で弱点撃破されたり、倒されたり、「開花」状態が解除されたりすると、「不死の神実・幻朧」の被ダメージがアップし、行動が遅延する。",
         "SP": 0,
         "Status": [
             280150204,
@@ -5486,7 +5486,7 @@ var _monsterskill = {
     "801221101": {
         "Key": "Skill03",
         "Name": "Black Prana's Snare",
-        "Desc": "High chance of inflicting Prana-Siphon to a single target.",
+        "Desc": "高確率で指定した味方単体を「噬命」状態にする。",
         "SP": 20.0,
         "Status": [
             30020030
@@ -5501,7 +5501,7 @@ var _monsterskill = {
     "801221103": {
         "Key": "Skill04",
         "Name": "Havoc",
-        "Desc": "Deals Imaginary DMG to a target based on a percentage of their Max HP. This DMG ignores the target's DEF.",
+        "Desc": "指定した味方単体に、その味方の最大HPの割合に応じた虚数属性ダメージを与える、このダメージはターゲットの防御力を無視する。",
         "SP": 40.0,
         "Elem": "Imaginary",
         "Threat": true
@@ -5509,7 +5509,7 @@ var _monsterskill = {
     "801221105": {
         "Key": "PassiveSkill01",
         "Name": "Repose",
-        "Desc": "After suffering a killing blow, enters Repose.",
+        "Desc": "HPが0になる攻撃を受けた後、「休眠」状態に入る。",
         "SP": 0,
         "Status": [
             280150206
@@ -5518,7 +5518,7 @@ var _monsterskill = {
     "801221104": {
         "Key": "PassiveSkill02",
         "Name": "Bloom",
-        "Desc": "When in the Bloom status, uses Havoc during the next action. When the Destruction Lotus is Weakness Broken, defeated, or having the Bloom dispelled while in Bloom, Phantylia the Undying receives increased DMG and have their action delayed.",
+        "Desc": "「開花」状態で、次の行動で「破滅」を発動する。「破滅の玄蓮」が「開花」状態で弱点撃破されたり、倒されたり、「開花」状態が解除されたりすると、「不死の神実・幻朧」の被ダメージがアップし、行動が遅延する。",
         "SP": 0,
         "Status": [
             280150204,
@@ -5529,7 +5529,7 @@ var _monsterskill = {
     "801221201": {
         "Key": "Skill03",
         "Name": "Black Prana's Snare",
-        "Desc": "High chance of inflicting Prana-Siphon to a single target.",
+        "Desc": "高確率で指定した味方単体を「噬命」状態にする。",
         "SP": 10.0,
         "Status": [
             30020030
@@ -5544,7 +5544,7 @@ var _monsterskill = {
     "801221203": {
         "Key": "Skill04",
         "Name": "Havoc",
-        "Desc": "Deals Lightning DMG to a single target based on a percentage of their Max HP. This DMG ignores the target's DEF.",
+        "Desc": "指定した味方単体に、その味方の最大HPの割合に応じた雷属性ダメージを与える、このダメージはターゲットの防御力を無視する。",
         "SP": 20.0,
         "Elem": "Elec",
         "Threat": true
@@ -5552,7 +5552,7 @@ var _monsterskill = {
     "801221205": {
         "Key": "PassiveSkill01",
         "Name": "Repose",
-        "Desc": "After suffering a killing blow, enters Repose.",
+        "Desc": "HPが0になる攻撃を受けた後、「休眠」状態に入る。",
         "SP": 0,
         "Status": [
             280150206
@@ -5561,7 +5561,7 @@ var _monsterskill = {
     "801221204": {
         "Key": "PassiveSkill02",
         "Name": "Bloom",
-        "Desc": "When in the Bloom status, uses Havoc during the next action. When the Destruction Lotus is Weakness Broken, defeated, or having the Bloom dispelled while in Bloom, Phantylia the Undying receives increased DMG and have their action delayed.",
+        "Desc": "「開花」状態で、次の行動で「破滅」を発動する。「破滅の玄蓮」が「開花」状態で弱点撃破されたり、倒されたり、「開花」状態が解除されたりすると、「不死の神実・幻朧」の被ダメージがアップし、行動が遅延する",
         "SP": 0,
         "Status": [
             280150204,
@@ -5572,7 +5572,7 @@ var _monsterskill = {
     "801221301": {
         "Key": "Skill03",
         "Name": "Black Prana's Snare",
-        "Desc": "High chance of inflicting Prana-Siphon to a single target.",
+        "Desc": "高確率で指定した味方単体を「噬命」状態にする。",
         "SP": 20.0,
         "Status": [
             30020030
@@ -5587,7 +5587,7 @@ var _monsterskill = {
     "801221303": {
         "Key": "Skill04",
         "Name": "Havoc",
-        "Desc": "Deals Imaginary DMG to a target based on a percentage of their Max HP. This DMG ignores the target's DEF.",
+        "Desc": "指定した味方単体に、その味方の最大HPの割合に応じた虚数属性ダメージを与える、このダメージはターゲットの防御力を無視する。",
         "SP": 40.0,
         "Elem": "Imaginary",
         "Threat": true
@@ -5595,7 +5595,7 @@ var _monsterskill = {
     "801221305": {
         "Key": "PassiveSkill01",
         "Name": "Repose",
-        "Desc": "After suffering a killing blow, enters Repose.",
+        "Desc": "HPが0になる攻撃を受けた後、「休眠」状態に入る。",
         "SP": 0,
         "Status": [
             280150206
@@ -5604,7 +5604,7 @@ var _monsterskill = {
     "801221304": {
         "Key": "PassiveSkill02",
         "Name": "Bloom",
-        "Desc": "When in the Bloom status, uses Havoc during the next action. When the Destruction Lotus is Weakness Broken, defeated, or having the Bloom dispelled while in Bloom, Phantylia the Undying receives increased DMG and have their action delayed.",
+        "Desc": "「開花」状態で、次の行動で「破滅」を発動する。「破滅の玄蓮」が「開花」状態で弱点撃破されたり、倒されたり、「開花」状態が解除されたりすると、「不死の神実・幻朧」の被ダメージがアップし、行動が遅延する",
         "SP": 0,
         "Status": [
             280150204,
@@ -5615,7 +5615,7 @@ var _monsterskill = {
     "802201001": {
         "Key": "Skill01",
         "Name": "Wingflap",
-        "Desc": "Deals minor Wind DMG to a single target, with a high chance to inflict Wind Shear.",
+        "Desc": "指定した味方単体に少量の風属性ダメージを与え、高確率で攻撃を受けた味方を風化状態にする。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -5629,7 +5629,7 @@ var _monsterskill = {
     "802201002": {
         "Key": "Skill02",
         "Name": "Meiotic Division",
-        "Desc": "Produces 1 spawn of itself. This effect can be triggered again after 2 turns.",
+        "Desc": "自身の繁衍体を1体生み出す。この効果は2ターン後に再発動できる。",
         "SP": 0,
         "Status": [
             280240104,
@@ -5649,7 +5649,7 @@ var _monsterskill = {
     "802201004": {
         "Key": "PassiveSkill01",
         "Name": "Entomon Eulogy",
-        "Desc": "When receiving a killing blow, deals Wind DMG to all friendly units, with a high chance to slightly increase their DMG received.",
+        "Desc": "HPが0になる攻撃を受けた時、敵全体に風属性ダメージを与え、高い確率で攻撃を受けた敵の被ダメージを少しアップさせる。",
         "SP": 0,
         "Elem": "Wind",
         "Status": [
@@ -5659,7 +5659,7 @@ var _monsterskill = {
     "802202001": {
         "Key": "Skill01",
         "Name": "Prepare to Fight",
-        "Desc": "Enters the Charge state. Uses Bursting Detonation for the next action.",
+        "Desc": "チャージ状態に入り、次の行動で「蟲爆」を発動。",
         "SP": 0,
         "Prepare": [
             802202002
@@ -5669,7 +5669,7 @@ var _monsterskill = {
     "802202002": {
         "Key": "Skill02",
         "Name": "Bursting Detonation",
-        "Desc": "Detonates self and deals Wind DMG to a target and its adjacent targets, with a high chance to cause Outrage to the target.",
+        "Desc": "自身を爆発させ、指定した味方単体及び隣接する味方に風属性ダメージを与え、高確率で攻撃された味方を「怒噪」状態にする。",
         "SP": 10.0,
         "Elem": "Wind",
         "Threat": true,
@@ -5690,7 +5690,7 @@ var _monsterskill = {
     "802202004": {
         "Key": "PassiveSkill01",
         "Name": "Entomon Eulogy",
-        "Desc": "When receiving a killing blow, deals Wind DMG to all friendly units, with a high chance to slightly increase their DMG received.",
+        "Desc": "HPが0になる攻撃を受けた時、敵全体に風属性ダメージを与え、高い確率で攻撃を受けた敵の被ダメージを少しアップさせる。",
         "SP": 0,
         "Elem": "Wind",
         "Status": [
@@ -5700,7 +5700,7 @@ var _monsterskill = {
     "802401001": {
         "Key": "Skill01",
         "Name": "Time to Battle",
-        "Desc": "Deals minor Wind DMG to a single target, with a high chance to inflict 2 stacks of Wind Shear.",
+        "Desc": "指定した味方単体に少量の風属性ダメージを与え、高確率で攻撃を受けた味方を2層の風化状態にする。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -5721,7 +5721,7 @@ var _monsterskill = {
     "802401002": {
         "Key": "Skill02",
         "Name": "War Gear",
-        "Desc": "Deals minor Wind DMG to a single target. If the target is currently suffering from Wind Shear, Wind Shear immediately causes DMG 1 time.",
+        "Desc": "指定した味方単体に少量の風属性ダメージを与える。攻撃を受けたターゲットが風化状態であった場合、風化ダメージを1回与える。",
         "SP": 20.0,
         "Elem": "Wind",
         "Status": [
@@ -5734,7 +5734,7 @@ var _monsterskill = {
     "802401003": {
         "Key": "Skill03",
         "Name": "Cyclonic Swarm",
-        "Desc": "Deals Wind DMG to all targets, with a high chance to cause Wind Shear.",
+        "Desc": "味方全体に風属性ダメージを与え、高確率で攻撃を受けた味方を風化状態にする。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -5748,7 +5748,7 @@ var _monsterskill = {
     "802401004": {
         "Key": "Skill04",
         "Name": "Propagation",
-        "Desc": "Spawns True Stings.",
+        "Desc": "真蟄虫の群れを増やす。",
         "SP": 0,
         "Summon": [
             8022010,
@@ -5758,7 +5758,7 @@ var _monsterskill = {
     "802401005": {
         "Key": "Skill05",
         "Name": "Ready Order",
-        "Desc": "Enters the Charge state. Uses Swarm Onslaught for the next action.",
+        "Desc": "チャージ状態に入り、次の行動で「スウォーム強襲」を発動する。",
         "SP": 0,
         "Prepare": [
             802401006
@@ -5767,7 +5767,7 @@ var _monsterskill = {
     "802401006": {
         "Key": "Skill06",
         "Name": "Swarm Onslaught",
-        "Desc": "Dispels all Crowd Control debuffs and Weakness Break affecting True Stings. Deals Wind DMG to the target, and causes the target to have a high chance of being inflicted with 1 stack of Wind Shear every time they take DMG.",
+        "Desc": "フィールド上のすべての真蟄虫の群れの行動制限系デバフと弱点撃破状態を解除し、味方に風属性ダメージを与え、攻撃を受けるたびに1層の風化状態に陥るようにする。",
         "SP": 10.0,
         "Elem": "Wind",
         "Threat": true,
@@ -5779,14 +5779,14 @@ var _monsterskill = {
     "802401007": {
         "Key": "Skill07",
         "Name": "Swarm Onslaught",
-        "Desc": "Dispels all Crowd Control debuffs and Weakness Break affecting True Stings. Deals Wind DMG to the target, and causes the target to have a high chance of being inflicted with 1 stack of Wind Shear every time they take DMG.",
+        "Desc": "フィールド上のすべての真蟄虫の群れの行動制限系デバフと弱点撃破状態を解除し、味方に風属性ダメージを与え、攻撃を受けるたびに1層の風化状態に陥るようにする。",
         "SP": 10.0,
         "Elem": "Wind"
     },
     "802401008": {
         "Key": "PassiveSkill01",
         "Name": "Transmission Pheromone",
-        "Desc": "Each time a True Sting is spawned, increases all True Stings' DMG dealt by 1 stack. Only 1 Transmission Pheromone effect can exist in battle at once.",
+        "Desc": "フィールド上に真蟄虫の群れが1つ増えるごとに、すべての真蟄虫の群れがダメージアップを1層獲得する。フィールド上では1つの「継承フェロモン」のみが効果を発揮する。",
         "SP": 0,
         "Status": [
             280240102
@@ -5795,7 +5795,7 @@ var _monsterskill = {
     "802401009": {
         "Key": "PassiveSkill02",
         "Name": "Entomon Eulogy",
-        "Desc": "When receiving a killing blow, deals Wind DMG to all friendly units, with a high chance to slightly increase their DMG received.",
+        "Desc": "HPが0になる攻撃を受けた時、敵全体に風属性ダメージを与え、高い確率で攻撃を受けた敵の被ダメージを少しアップさせる。",
         "SP": 0,
         "Elem": "Wind",
         "Status": [
@@ -5805,7 +5805,7 @@ var _monsterskill = {
     "803201001": {
         "Key": "Skill01",
         "Name": "Clock In",
-        "Desc": "Deals minor Physical DMG to a single target.",
+        "Desc": "指定した味方単体に少量の物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -5815,7 +5815,7 @@ var _monsterskill = {
     "803201002": {
         "Key": "PassiveSkill01",
         "Name": "Performance Boost",
-        "Desc": "Receives 1 Performance Point after unleashing an attack. Performance Points can be seized by the attacker when this unit's Weakness is Broken or this unit receives a killing blow.",
+        "Desc": "攻撃を行うたびに「KPI」を1獲得する。自身が弱点撃破された時、またはHPが0になる攻撃を受けた時、攻撃者が「KPI」を奪う。",
         "SP": 0,
         "Status": [
             280330101
@@ -5830,7 +5830,7 @@ var _monsterskill = {
     "803202001": {
         "Key": "Skill01",
         "Name": "Appeal",
-        "Desc": "Deals minor Physical DMG to a single target and units adjacent to the target.",
+        "Desc": "指定した味方単体および隣接する味方に少量の物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -5841,7 +5841,7 @@ var _monsterskill = {
     "803202002": {
         "Key": "PassiveSkill01",
         "Name": "Performance Boost",
-        "Desc": "Receives 1 Performance Point after unleashing an attack. Performance Points can be seized by the attacker when this unit's Weakness is Broken or this unit receives a killing blow.",
+        "Desc": "攻撃を行うたびに「KPI」を1獲得する。自身が弱点撃破された時、またはHPが0になる攻撃を受けた時、攻撃者が「KPI」を奪う。",
         "SP": 0,
         "Status": [
             280330101
@@ -5856,7 +5856,7 @@ var _monsterskill = {
     "803301001": {
         "Key": "Skill01",
         "Name": "Disciplined",
-        "Desc": "Deals minor Physical DMG to a single target.",
+        "Desc": "指定した味方単体に少量の物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -5866,7 +5866,7 @@ var _monsterskill = {
     "803301003": {
         "Key": "Skill02",
         "Name": "In Training...",
-        "Desc": "Enters the Charge state. Uses Work Culture Shock in the next action.",
+        "Desc": "チャージ状態に入り、次の行動で「企業カルチャーショック」を発動する。",
         "SP": 0,
         "Prepare": [
             803301004
@@ -5875,7 +5875,7 @@ var _monsterskill = {
     "803301004": {
         "Key": "Skill03",
         "Name": "Work Culture Shock",
-        "Desc": "Deals Physical DMG to all targets.",
+        "Desc": "味方全体に物理ダメージを与える。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -5886,7 +5886,7 @@ var _monsterskill = {
     "803301005": {
         "Key": "Skill04",
         "Name": "720-Degree Review",
-        "Desc": "Seizes all Performance Points from Grunt: Field Personnel and Grunt: Security Personnel.",
+        "Desc": "すべての「平社員・外勤」と「平社員・警備」の「KPI」を奪う。",
         "SP": 0,
         "Status": [
             280330101
@@ -5895,7 +5895,7 @@ var _monsterskill = {
     "803301006": {
         "Key": "Skill05",
         "Name": "Team Building",
-        "Desc": "Summons Grunt: Field Personnel or Grunt: Security Personnel, then cause all Grunts: Field Personnel and Grunts: Security Personnel to acquire 1 Performance Point.",
+        "Desc": "「平社員・外勤」または「平社員・警備」を召喚する。すべての「平社員・外勤」と「平社員・警備」が「KPI」を1獲得する。",
         "SP": 0,
         "Summon": [
             8032010,
@@ -5905,7 +5905,7 @@ var _monsterskill = {
     "803301002": {
         "Key": "Skill06",
         "Name": "Cost Reduction",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -5915,7 +5915,7 @@ var _monsterskill = {
     "803301007": {
         "Key": "PassiveSkillInitiate",
         "Name": "Performance Boost",
-        "Desc": "Receives 1 Performance Point after unleashing an attack. Performance Points can be seized by the attacker when this unit's Weakness is Broken or this unit receives a killing blow.",
+        "Desc": "攻撃を行うたびに「KPI」を1獲得する。自身が弱点撃破された時、またはHPが0になる攻撃を受けた時、攻撃者が「KPI」を奪う。",
         "SP": 0,
         "Status": [
             280330101
@@ -5924,7 +5924,7 @@ var _monsterskill = {
     "800305001": {
         "Key": "Skill01",
         "Name": "Watchful Meteor",
-        "Desc": "Deals Wind DMG to a single target and has a high chance to inflict Wind Shear.",
+        "Desc": "指定した味方単体に風属性ダメージを与え、高確率で風化状態にする。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -5938,7 +5938,7 @@ var _monsterskill = {
     "800305002": {
         "Key": "Skill03",
         "Name": "Wind Walker",
-        "Desc": "Deals minor Wind DMG to the target and units adjacent to the target, with a chance to inflict Wind Shear.",
+        "Desc": "指定した味方単体および隣接する味方に少量の風属性ダメージを与え、確率で攻撃を受けた味方を風化状態にする。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -5952,7 +5952,7 @@ var _monsterskill = {
     "800305003": {
         "Key": "Skill04",
         "Name": "Wind-Twisting Crossbow",
-        "Desc": "Enters the Charge state and locks on to all targets currently suffering Wind Shear. Cast Windfall Storm in the next action.",
+        "Desc": "チャージ状態に入り、風化状態にあるすべての味方をロックオンし、次の行動で「暴風の矢」を発動する。",
         "SP": 0,
         "Prepare": [
             800305004
@@ -5965,7 +5965,7 @@ var _monsterskill = {
     "800305004": {
         "Key": "Skill05",
         "Name": "Windfall Storm",
-        "Desc": "Deals Wind DMG to targets afflicted with Wind Shear. This ability fails if no one on the target team suffers Wind Shear.",
+        "Desc": "風化状態の味方に風属性ダメージを与える。フィールド上に風化状態の味方が存在しない場合、このスキルの発動は失敗する。",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true,
@@ -5979,7 +5979,7 @@ var _monsterskill = {
     "800305005": {
         "Key": "PassiveSkillInitiate",
         "Name": "Storm Cyclone",
-        "Desc": "Slightly increases ATK after attacking a target afflicted with Wind Shear. This buff is dispelled upon Weakness Break.",
+        "Desc": "風化状態の味方を攻撃した後、攻撃力が小幅アップする。弱点撃破されると効果が解除される。",
         "SP": 0,
         "Status": [
             280130202
@@ -5988,13 +5988,13 @@ var _monsterskill = {
     "800305006": {
         "Key": "Skill06",
         "Name": "Windfall Storm",
-        "Desc": "Deals Wind DMG to targets afflicted with Wind Shear. This ability fails if no one on the target team suffers Wind Shear.",
+        "Desc": "風化状態の味方に風属性ダメージを与える。フィールド上に風化状態の味方が存在しない場合、このスキルの発動は失敗する。",
         "SP": 10.0
     },
     "800305101": {
         "Key": "Skill01",
         "Name": "Watchful Meteor",
-        "Desc": "Deals Wind DMG to a single target and has a high chance to inflict Wind Shear.",
+        "Desc": "指定した味方単体に風属性ダメージを与え、高確率で風化状態にする。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -6008,7 +6008,7 @@ var _monsterskill = {
     "800305102": {
         "Key": "Skill03",
         "Name": "Wind Walker",
-        "Desc": "Deals minor Wind DMG to the target and units adjacent to the target, with a chance to inflict Wind Shear.",
+        "Desc": "指定した味方単体および隣接する味方に少量の風属性ダメージを与え、確率で攻撃を受けた味方を風化状態にする。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -6022,7 +6022,7 @@ var _monsterskill = {
     "800305103": {
         "Key": "Skill04",
         "Name": "Wind-Twisting Crossbow",
-        "Desc": "Enters the Charge state and locks on to all targets currently suffering Wind Shear. Cast Windfall Storm in the next action.",
+        "Desc": "チャージ状態に入り、風化状態にあるすべての味方をロックオンし、次の行動で「暴風の矢」を発動する。",
         "SP": 0,
         "Prepare": [
             800305104
@@ -6035,7 +6035,7 @@ var _monsterskill = {
     "800305104": {
         "Key": "Skill05",
         "Name": "Windfall Storm",
-        "Desc": "Deals Wind DMG to targets afflicted with Wind Shear, with a chance to inflict the attacked targets with Wind Shear again. This ability fails if no one on the target team suffers Wind Shear.",
+        "Desc": "風化状態の味方に風属性ダメージを与え、確率で攻撃を受けた味方を再び風化状態にする。フィールド上に風化状態の味方が存在しない場合、このスキルの発動は失敗する。",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true,
@@ -6049,7 +6049,7 @@ var _monsterskill = {
     "800305105": {
         "Key": "PassiveSkillInitiate",
         "Name": "Storm Cyclone",
-        "Desc": "Slightly increases ATK after attacking a target afflicted with Wind Shear. This buff is dispelled upon Weakness Break.",
+        "Desc": "風化状態の味方を攻撃した後、攻撃力が小幅アップする。弱点撃破されると効果が解除される。",
         "SP": 0,
         "Status": [
             280130202
@@ -6058,7 +6058,7 @@ var _monsterskill = {
     "800305106": {
         "Key": "Skill06",
         "Name": "Windfall Storm",
-        "Desc": "Deals Wind DMG to targets afflicted with Wind Shear. This ability fails if no one on the target team suffers Wind Shear.",
+        "Desc": "風化状態の味方に風属性ダメージを与える。フィールド上に風化状態の味方が存在しない場合、このスキルの発動は失敗する。",
         "SP": 10.0
     },
     "800305107": {
@@ -6077,7 +6077,7 @@ var _monsterskill = {
     "800305109": {
         "Key": "Skill09",
         "Name": "Willing Wind",
-        "Desc": "Summons Windspawn.",
+        "Desc": "「風の造物」を召喚する。",
         "SP": 0,
         "Elem": "Wind",
         "Summon": [
@@ -6087,7 +6087,7 @@ var _monsterskill = {
     "202303001": {
         "Key": "Skill01",
         "Name": "Rite of Great Arbor Metamorphosis",
-        "Desc": "Continuously deal Wind DMG to a random target, with a high chance to cause Wind Shear.",
+        "Desc": "ランダムな味方単体に連続で風属性ダメージを与え、高確率で攻撃を受けた味方を風化状態にする。",
         "SP": 5.0,
         "Elem": "Wind",
         "Status": [
@@ -6101,7 +6101,7 @@ var _monsterskill = {
     "202303002": {
         "Key": "Skill02",
         "Name": "Guiding Vulturnus",
-        "Desc": "Deals Wind DMG to the targeted and adjacent allies, with a high chance to cause Wind Shear.",
+        "Desc": "指定した味方単体及び隣接する味方に風属性ダメージを与え、高確率で攻撃された味方を風化状態にする。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -6115,7 +6115,7 @@ var _monsterskill = {
     "202303003": {
         "Key": "Skill03",
         "Name": "Arboreal Thorns",
-        "Desc": "Deals Wind DMG to a single target, with a high chance to cause Wind Shear.",
+        "Desc": "指定した味方単体に風属性ダメージを与え、高確率で攻撃を受けた味方を風化状態にする。",
         "SP": 15.0,
         "Elem": "Wind",
         "Status": [
@@ -6129,7 +6129,7 @@ var _monsterskill = {
     "202303004": {
         "Key": "Skill04",
         "Name": "Rite of Subduing Prana",
-        "Desc": "Enters Japa. Cast \"Black Prana's Snare\" on all targets during the next action.",
+        "Desc": "「持呪」状態に入る。次の行動で味方全体に「玄気噬身」を発動する。",
         "SP": 10.0,
         "Elem": "Wind",
         "Prepare": [
@@ -6142,7 +6142,7 @@ var _monsterskill = {
     "202303005": {
         "Key": "Skill05",
         "Name": "Black Prana's Snare",
-        "Desc": "Has a high chance for all targets to become afflicted with Prana-Siphon.",
+        "Desc": "高確率で味方全体を「噬命」状態にする。",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true,
@@ -6153,7 +6153,7 @@ var _monsterskill = {
     "801501001": {
         "Key": "PassiveSkill02",
         "Name": "Leviathan's Lingering Power",
-        "Desc": "The Doomsday Beast cannot be attacked until the Antimatter Engine, Disaster's Right Hand, and Dawn's Left Hand have all been destroyed.",
+        "Desc": "「反物質エンジン」、「厄災の右手」、「黎明の左手」がすべて倒されるまで、終末獣にダメージを与えることはできない。",
         "SP": 0,
         "Elem": "Quantum",
         "Status": [
@@ -6168,7 +6168,7 @@ var _monsterskill = {
     "801214001": {
         "Key": "Skill01",
         "Name": "Calamity Tear",
-        "Desc": "Deals minor Imaginary DMG to all targets.",
+        "Desc": "味方全体に少量の虚数属性ダメージを与える。",
         "SP": 5.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -6178,7 +6178,7 @@ var _monsterskill = {
     "801214002": {
         "Key": "Skill02",
         "Name": "Tough Cuts",
-        "Desc": "Deals minor Imaginary DMG to all targets, with a small chance to inflict Imprisonment on the target.",
+        "Desc": "味方全体に少量の虚数属性ダメージを与え、低確率で味方を禁錮状態にする。",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Status": [
@@ -6191,7 +6191,7 @@ var _monsterskill = {
     "801214003": {
         "Key": "Skill03",
         "Name": "The Breakdown of Tyranny",
-        "Desc": "Deals Imaginary DMG to all targets, with a small chance to cause Imprisonment.",
+        "Desc": "味方全体に虚数属性ダメージを与え、低確率で味方目標を禁錮状態にする。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "Status": [
@@ -6204,7 +6204,7 @@ var _monsterskill = {
     "801314101": {
         "Key": "Skill07",
         "Name": "Void Fission",
-        "Desc": "Enhances Disaster's Right Hand, restoring its Toughness.",
+        "Desc": "「厄災の右手」に強化状態を付与し、ターゲットの靭性を回復する。",
         "SP": 0,
         "Status": [
             280150103
@@ -6213,7 +6213,7 @@ var _monsterskill = {
     "801314102": {
         "Key": "Skill08",
         "Name": "Calamity Strike",
-        "Desc": "Enhances Dawn's Left Hand, restoring its Toughness.",
+        "Desc": "「黎明の左手」に強化状態を付与し、ターゲットの靭性を回復する。",
         "SP": 0,
         "Status": [
             280150103
@@ -6222,7 +6222,7 @@ var _monsterskill = {
     "801314103": {
         "Key": "Skill09",
         "Name": "Engine Boost",
-        "Desc": "Grants the Enhanced status to all friendly units except the user, restoring their Toughness.",
+        "Desc": "自身以外の敵全体に強化状態を付与し、ターゲットの靭性を回復する。",
         "SP": 0,
         "Status": [
             280150103
@@ -6231,7 +6231,7 @@ var _monsterskill = {
     "801314104": {
         "Key": "Skill10",
         "Name": "Total Annihilation",
-        "Desc": "Deals Imaginary DMG to a single target.",
+        "Desc": "味方単体に虚数属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -6241,7 +6241,7 @@ var _monsterskill = {
     "801314105": {
         "Key": "Skill11",
         "Name": "Cataclysm Precursor",
-        "Desc": "Enters the Charge state. The next action uses \"Impending Doom\" on all targets.",
+        "Desc": "チャージ状態に入り、次の行動で味方全体に「終末降臨」を発動。",
         "SP": 0,
         "Elem": "Quantum",
         "Prepare": [
@@ -6251,7 +6251,7 @@ var _monsterskill = {
     "801314106": {
         "Key": "Skill12",
         "Name": "Impending Doom",
-        "Desc": "Deals Quantum DMG to all targets.",
+        "Desc": "味方全体に量子属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Quantum",
         "Threat": true,
@@ -6262,7 +6262,7 @@ var _monsterskill = {
     "801314107": {
         "Key": "PassiveSkill03",
         "Name": "Engine Slit",
-        "Desc": "The Antimatter Engine will change its Weakness Type every time it recovers from Weakness Break.",
+        "Desc": "「反物質エンジン」が弱点撃破状態から回復するたびに、弱点属性が変化する。",
         "SP": 0,
         "Elem": "Quantum",
         "Status": [
@@ -6273,7 +6273,7 @@ var _monsterskill = {
     "801214201": {
         "Key": "Skill04",
         "Name": "Fallen Forge Hammer",
-        "Desc": "Deals Quantum DMG to a single target.",
+        "Desc": "味方単体に量子属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Quantum",
         "DMG": [
@@ -6283,7 +6283,7 @@ var _monsterskill = {
     "801214202": {
         "Key": "Skill05",
         "Name": "Fallen Star's Visit",
-        "Desc": "Deals Quantum DMG to a single target, with a small chance to inflict Entanglement.",
+        "Desc": "味方単体に量子属性ダメージを与え、低確率でその味方をもつれ状態にする。",
         "SP": 10.0,
         "Elem": "Quantum",
         "Status": [
@@ -6297,7 +6297,7 @@ var _monsterskill = {
     "801214203": {
         "Key": "Skill06",
         "Name": "When the Dawn Is Dark",
-        "Desc": "Deals Quantum DMG to a single target, with a chance to inflict Entanglement.",
+        "Desc": "味方単体に量子属性ダメージを与え、確率でその味方をもつれ状態にする。",
         "SP": 15.0,
         "Elem": "Quantum",
         "Status": [
@@ -6311,7 +6311,7 @@ var _monsterskill = {
     "801501101": {
         "Key": "PassiveSkill02",
         "Name": "Leviathan's Lingering Power",
-        "Desc": "The Doomsday Beast cannot be attacked until the Antimatter Engine, Disaster's Right Hand, and Dawn's Left Hand have all been destroyed.",
+        "Desc": "「反物質エンジン」、「厄災の右手」、「黎明の左手」がすべて倒されるまで、終末獣にダメージを与えることはできない。",
         "SP": 0,
         "Elem": "Quantum",
         "Status": [
@@ -6326,7 +6326,7 @@ var _monsterskill = {
     "801214301": {
         "Key": "Skill01",
         "Name": "Calamity Tear",
-        "Desc": "Deals minor Imaginary DMG to all targets.",
+        "Desc": "味方全体に少量の虚数属性ダメージを与える。",
         "SP": 5.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -6336,7 +6336,7 @@ var _monsterskill = {
     "801214302": {
         "Key": "Skill02",
         "Name": "Tough Cuts",
-        "Desc": "Deals Imaginary DMG to all targets.",
+        "Desc": "味方全体に虚数属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -6346,7 +6346,7 @@ var _monsterskill = {
     "801214303": {
         "Key": "Skill03",
         "Name": "The Breakdown of Tyranny",
-        "Desc": "Deals massive Imaginary DMG to all targets.",
+        "Desc": "味方全体に大量の虚数属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -6356,7 +6356,7 @@ var _monsterskill = {
     "801314401": {
         "Key": "Skill07",
         "Name": "Void Fission",
-        "Desc": "Enhances Disaster's Right Hand, restoring its Toughness.",
+        "Desc": "「厄災の右手」に強化状態を付与し、ターゲットの靭性を回復する。",
         "SP": 0,
         "Status": [
             280150103
@@ -6365,7 +6365,7 @@ var _monsterskill = {
     "801314402": {
         "Key": "Skill08",
         "Name": "Calamity Strike",
-        "Desc": "Enhances Dawn's Left Hand, restoring its Toughness.",
+        "Desc": "「黎明の左手」に強化状態を付与し、ターゲットの靭性を回復する。",
         "SP": 0,
         "Status": [
             280150103
@@ -6374,7 +6374,7 @@ var _monsterskill = {
     "801314403": {
         "Key": "Skill09",
         "Name": "Engine Boost",
-        "Desc": "Grants the Enhanced status to all friendly units except the user, restoring their Toughness.",
+        "Desc": "自身以外の敵全体に強化状態を付与し、ターゲットの靭性を回復する。",
         "SP": 0,
         "Status": [
             280150103
@@ -6383,7 +6383,7 @@ var _monsterskill = {
     "801314404": {
         "Key": "Skill10",
         "Name": "Total Annihilation",
-        "Desc": "Deals Imaginary DMG to a single target.",
+        "Desc": "味方単体に虚数属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -6393,7 +6393,7 @@ var _monsterskill = {
     "801314405": {
         "Key": "Skill11",
         "Name": "Cataclysm Precursor",
-        "Desc": "Enters the Charge state. The next action uses \"Impending Doom\" on all targets.",
+        "Desc": "チャージ状態に入り、次の行動で味方全体に「終末降臨」を発動。",
         "SP": 0,
         "Elem": "Quantum",
         "Prepare": [
@@ -6403,7 +6403,7 @@ var _monsterskill = {
     "801314406": {
         "Key": "Skill12",
         "Name": "Impending Doom",
-        "Desc": "Deals Quantum DMG to all targets.",
+        "Desc": "味方全体に量子属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Quantum",
         "Threat": true,
@@ -6414,7 +6414,7 @@ var _monsterskill = {
     "801314407": {
         "Key": "PassiveSkill03",
         "Name": "Engine Slit",
-        "Desc": "The Antimatter Engine will change its Weakness Type every time it recovers from Weakness Break.",
+        "Desc": "「反物質エンジン」が弱点撃破状態から回復するたびに、弱点属性が変化する。",
         "SP": 0,
         "Elem": "Quantum",
         "Status": [
@@ -6425,7 +6425,7 @@ var _monsterskill = {
     "801214501": {
         "Key": "Skill04",
         "Name": "Fallen Forge Hammer",
-        "Desc": "Deals minor Quantum DMG to a single target.",
+        "Desc": "味方単体に少量の量子属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Quantum",
         "DMG": [
@@ -6435,7 +6435,7 @@ var _monsterskill = {
     "801214502": {
         "Key": "Skill05",
         "Name": "Fallen Star's Visit",
-        "Desc": "Deals Quantum DMG to a single target.",
+        "Desc": "味方単体に量子属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Quantum",
         "DMG": [
@@ -6445,7 +6445,7 @@ var _monsterskill = {
     "801214503": {
         "Key": "Skill06",
         "Name": "When the Dawn Is Dark",
-        "Desc": "Deals massive Quantum DMG to a single target.",
+        "Desc": "味方単体に大量の量子属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Quantum",
         "DMG": [
@@ -6455,7 +6455,7 @@ var _monsterskill = {
     "202204001": {
         "Key": "Skill01",
         "Name": "Horn Gore",
-        "Desc": "Deals Wind DMG to a single target.",
+        "Desc": "指定した味方単体に風属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Wind",
         "DMG": [
@@ -6465,13 +6465,13 @@ var _monsterskill = {
     "202204002": {
         "Key": "SkillP01",
         "Name": "Rebound Roar",
-        "Desc": "Upon receiving a killing blow, Advances Forward friendly units adjacent to self.",
+        "Desc": "HPが0になる攻撃を受けた時、自身に隣接する敵の行動順を早める。",
         "SP": 0
     },
     "202205001": {
         "Key": "Skill01",
         "Name": "Wolf Predation",
-        "Desc": "Deals Lightning DMG to a single target, with a high chance to Shock the target.",
+        "Desc": "指定した味方単体に雷属性ダメージを与え、高確率で攻撃を受けた味方を感電状態にする。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -6485,7 +6485,7 @@ var _monsterskill = {
     "202205002": {
         "Key": "Skill02",
         "Name": "Rallying Howl",
-        "Desc": "Summons 1 Shadow Jackhyena with the same Current HP as itself.",
+        "Desc": "自身の残りHPと同じHPを持つ「狽影」を1体召喚する。",
         "SP": 0,
         "Summon": [
             2022051
@@ -6500,7 +6500,7 @@ var _monsterskill = {
     "202205101": {
         "Key": "Skill01",
         "Name": "Wolf Predation",
-        "Desc": "Deals Lightning DMG to a single target, with a high chance to Shock the target.",
+        "Desc": "指定した味方単体に雷属性ダメージを与え、高確率で攻撃を受けた味方を感電状態にする。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -6514,7 +6514,7 @@ var _monsterskill = {
     "202206001": {
         "Key": "Skill01",
         "Name": "Mounted Crossbow",
-        "Desc": "Deals successive Lightning DMG to random targets.",
+        "Desc": "連続でランダムな味方単体に雷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Elec",
         "DMG": [
@@ -6524,7 +6524,7 @@ var _monsterskill = {
     "202302001": {
         "Key": "Skill01",
         "Name": "Simian Strike",
-        "Desc": "Consumes 1 stack of Gusto and deals Quantum DMG to a Monitored target.",
+        "Desc": "「元気」を1層消費し、警戒ターゲットとしてマークした味方単体に量子属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Quantum",
         "Status": [
@@ -6537,7 +6537,7 @@ var _monsterskill = {
     "202302002": {
         "Key": "Skill02",
         "Name": "Simian Strike",
-        "Desc": "Consumes 1 stack of Gusto and deals Quantum DMG to a Monitored target.",
+        "Desc": "「元気」を1層消費し、警戒ターゲットとしてマークした味方単体に量子属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Quantum",
         "Status": [
@@ -6550,7 +6550,7 @@ var _monsterskill = {
     "202302003": {
         "Key": "Skill03",
         "Name": "Fiery Majesty",
-        "Desc": "Increases DMG dealt. This DMG boosting effect is stackable.",
+        "Desc": "自身の与ダメージをアップする、与ダメージアップ効果は累積できる。",
         "SP": 0,
         "Status": [
             220230205
@@ -6559,7 +6559,7 @@ var _monsterskill = {
     "202302004": {
         "Key": "Skill04",
         "Name": "Wrathful Roar",
-        "Desc": "Gains 3 stacks of Gusto and marks a random target for Monitoring. Until Gusto is exhausted, any target that uses their Skill will become the new Monitored target.",
+        "Desc": "「元気」を3層獲得し、ランダムな味方単体を警戒ターゲットとしてマークする。味方が戦闘スキルを発動した時、マークする対象が最後に戦闘スキルを発動した味方に変わる。味方へのマークは、「元気」が尽きるまで継続する。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -6582,7 +6582,7 @@ var _monsterskill = {
     "200402101": {
         "Key": "Skill01",
         "Name": "Rapturous Wind",
-        "Desc": "Deals Ice DMG to a single target. Yanqing and all Flying Swords gain 1 stack of Chilling Light and slightly increases DMG dealt.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。彦卿とすべての飛剣が「冷光」を1層獲得し、与ダメージが小幅アップする。",
         "SP": 10.0,
         "Elem": "Ice",
         "Status": [
@@ -6595,7 +6595,7 @@ var _monsterskill = {
     "200402102": {
         "Key": "Skill02",
         "Name": "Swallow Return",
-        "Desc": "Summons 4 Flying Swords and gains the Sword Formation effect to increase this unit's SPD, and applies Formation Core to the Flying Swords. During this unit's third phase, additionally grant Ordeal to a certain number of Flying Swords.",
+        "Desc": "「飛剣」を4本召喚して、「剣陣」効果を獲得し、自身の速度がアップする。「飛剣」に「陣眼」を付与する。第三段階の時にこのスキルを発動すると、一定数の「飛剣」が追加で「練磨」を獲得する。",
         "SP": 10.0,
         "Status": [
             220040211,
@@ -6613,7 +6613,7 @@ var _monsterskill = {
     "200402103": {
         "Key": "Skill03",
         "Name": "Ironthorn",
-        "Desc": "Deals Ice DMG to a single target, with a high chance to Freeze the target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与え、高確率で攻撃された味方を凍結状態にする。",
         "SP": 15.0,
         "Elem": "Ice",
         "DMG": [
@@ -6624,7 +6624,7 @@ var _monsterskill = {
     "200402104": {
         "Key": "Skill04",
         "Name": "Ballad of Formation Breaker",
-        "Desc": "Deals Ice DMG to a single target and units adjacent to the target.",
+        "Desc": "指定した味方単体及び隣接する味方に氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -6635,7 +6635,7 @@ var _monsterskill = {
     "200402105": {
         "Key": "Skill05",
         "Name": "Qi Advance",
-        "Desc": "Enters the Charge state. Cast Cascading Laceration on all targets in the next action.",
+        "Desc": "チャージ状態に入る。次の行動で味方全体に「天河瀉り」を発動する。",
         "SP": 10.0,
         "Prepare": [
             200402106
@@ -6644,7 +6644,7 @@ var _monsterskill = {
     "200402106": {
         "Key": "Skill06",
         "Name": "Cascading Laceration",
-        "Desc": "Deals massive Ice DMG to all targets.",
+        "Desc": "味方全体に大量の氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "Threat": true,
@@ -6655,7 +6655,7 @@ var _monsterskill = {
     "200402107": {
         "Key": "Skill07",
         "Name": "Qi Converge",
-        "Desc": "Locks on to a single target. After 2 turns, use Aethereal Dreamflux on the target.",
+        "Desc": "味方単体をロックオンし、2ターン後にロックオンした味方に「風帰りて雲動き、天河瀉りし夢」を発動する。",
         "SP": 0,
         "Prepare": [
             200402108
@@ -6664,7 +6664,7 @@ var _monsterskill = {
     "200402108": {
         "Key": "Skill08",
         "Name": "Aethereal Dreamflux",
-        "Desc": "Continuously deals Ice DMG to a target. After using this ability, additionally deals DMG for a number of times equal to the number of Flying Swords on the field. After using this ability, remove all Flying Swords on the field.",
+        "Desc": "指定した味方単体に連続で氷属性ダメージを与える。このスキルを発動する時、追加でダメージを与える。ダメージ回数はフィールドに存在する「飛剣」の数と同じである。スキル発動後、フィールド上のすべての「飛剣」を消す。",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true,
@@ -6706,13 +6706,13 @@ var _monsterskill = {
     "802401011": {
         "Key": "Skill10",
         "Name": "Propagation",
-        "Desc": "Spawns True Stings.",
+        "Desc": "真蟄虫の群れを増やす。",
         "SP": 0
     },
     "300101001": {
         "Key": "Skill01",
         "Name": "Throw Die",
-        "Desc": "Deals minor Physical DMG to a single target, with a chance to reduce the target's Effect RES.",
+        "Desc": "指定した味方単体に少量の物理ダメージを与え、確率で攻撃を受けた味方の効果抵抗をダウンさせる。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -6725,7 +6725,7 @@ var _monsterskill = {
     "300102001": {
         "Key": "Skill01",
         "Name": "Dance Invite",
-        "Desc": "Deals minor Physical DMG to a single target, with a chance to inflict Bleed on them.",
+        "Desc": "指定した味方単体に少量の物理ダメージを与え、確率で攻撃を受けた味方を裂創状態にする。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -6736,7 +6736,7 @@ var _monsterskill = {
     "201301102": {
         "Key": "Skill01",
         "Name": "Dread",
-        "Desc": "Increases Sanction Rate level and deals minor Imaginary DMG to all targets. Has a high chance to inflict Weaken on the targets.",
+        "Desc": "「懲戒度」のレベルを上げ、味方全体に少量の虚数属性ダメージを与え、高確率で味方を虚弱状態にする。",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Status": [
@@ -6756,7 +6756,7 @@ var _monsterskill = {
     "201301104": {
         "Key": "Skill03",
         "Name": "Track Down",
-        "Desc": "Deals massive Imaginary DMG to the locked-on single target, with a high chance of inflicting Imprisonment on the attacked target.",
+        "Desc": "ロックオンされた味方単体に大量の虚数属性ダメージを与え、高確率で攻撃された味方を禁錮状態にする。",
         "SP": 15.0,
         "Elem": "Imaginary",
         "Threat": true,
@@ -6771,7 +6771,7 @@ var _monsterskill = {
     "201301101": {
         "Key": "SkillP01",
         "Name": "Penal Code",
-        "Desc": "Sanction Rate level increases when allies use Skills or Ultimates to attack. When Sanction Rate reaches its level cap, this unit enters Sanction Mode: Punisher, locks on to 3 targets, and summons Entranced Ingenium: Illumination Dragonfish.",
+        "Desc": "味方が戦闘スキルまたは必殺技を発動して攻撃する時、「懲戒度」が溜まる。「懲戒度」は最高レベルに到達すると、即座に「懲罰モード・慎刑」に入り、3人の味方をロックオンし、「入魔機巧・灯火龍魚」を召喚する。",
         "SP": 0,
         "Prepare": [
             201301104
@@ -6787,7 +6787,7 @@ var _monsterskill = {
     "202301101": {
         "Key": "Skill01",
         "Name": "Thunder-Shock",
-        "Desc": "Deals Lightning DMG to a single target.",
+        "Desc": "指定した味方単体に雷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Elec",
         "DMG": [
@@ -6797,7 +6797,7 @@ var _monsterskill = {
     "202301102": {
         "Key": "Skill02",
         "Name": "Punishing Bolts",
-        "Desc": "Deals Lightning DMG to a single target and adjacent units.",
+        "Desc": "指定した味方単体及び隣接する味方に雷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Elec",
         "DMG": [
@@ -6807,7 +6807,7 @@ var _monsterskill = {
     "202301103": {
         "Key": "Skill03",
         "Name": "Thudding Calamity",
-        "Desc": "Deals massive Lightning DMG to a single target.",
+        "Desc": "指定した味方単体に大量の雷属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Elec",
         "Threat": true,
@@ -6824,7 +6824,7 @@ var _monsterskill = {
     "202301105": {
         "Key": "Skill05",
         "Name": "Sympathicus",
-        "Desc": "Consumes this unit's own HP to summon Mara-Struck Soldier and Disciples of Sanctus Medicus: Internal Alchemist. At the same time, lock on to the target with the lowest current HP percentage and make all friendly units focus their attacks on this target.",
+        "Desc": "自身のHPを消費し、魔陰の身・兵卒と薬王秘伝・内丹士を召喚する。同時に残りHP割合が最も低い味方をロックオンし、敵全体が集中攻撃するよう命じる。",
         "SP": 0,
         "Threat": true,
         "Summon": [
@@ -6835,7 +6835,7 @@ var _monsterskill = {
     "202301106": {
         "Key": "SkillP01",
         "Name": "Vigor Draining",
-        "Desc": "While there are other friendly units with Rebirth on the field, this unit will possess Draining Hit. When hitting a target, this unit will restore HP.",
+        "Desc": "フィールド上の他の敵に「復活」が付与されている場合、自身は「命中回復」を獲得する。味方に攻撃が命中した後、HPを回復する。",
         "SP": 0,
         "Status": [
             220220101,
@@ -6851,146 +6851,146 @@ var _monsterskill = {
     "800206101": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800206102": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800206103": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "800206104": {
         "Key": "SkillP01",
         "Name": "T—Taking Revenge",
-        "Desc": "When a friendly unit is attacked, this unit will attack all targets. The attack count is equal to the number of friendly units hit by the previous attack.",
+        "Desc": "味方が敵を攻撃した後、味方全体に攻撃を行う、攻撃回数は味方の攻撃が命中した敵の数に相当する。",
         "SP": 0,
         "Elem": "Fire"
     },
     "800207101": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800207102": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800207103": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "800207104": {
         "Key": "SkillP01",
         "Name": "C—Cure You",
-        "Desc": "When a friendly unit other than the Trotter of Abundance is attacked, consumes this unit's own HP to heal the attacked friendly unit.",
+        "Desc": "豊穣プーマン以外の敵が味方の攻撃を受けると、自身のHPを消費して、攻撃を受けた敵のHPを回復する。",
         "SP": 0
     },
     "800208201": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800208202": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800208203": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "800208204": {
         "Key": "SkillP01",
         "Name": "P—Protect You",
-        "Desc": "When entering battle, applies \"P—Protect You\" to all friendly units. Each stack of \"P—Protect You\" can nullify all DMG received from 1 incoming hit except for DoTs. \"P—Protect You\" stacks are shared across the team.",
+        "Desc": "戦闘に入る時、敵全体に「ま…守ってあげる」を発動する。「ま…守ってあげる」1層につき、持続ダメージ以外のすべてのダメージを1回防げる。「ま…守ってあげる」の層数は敵全体で共有される。",
         "SP": 0
     },
     "800205401": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800205402": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800205403": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "800205501": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800205502": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800205503": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "800205601": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800205602": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800205603": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "800205701": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800205702": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800205703": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "300208901": {
@@ -7010,45 +7010,45 @@ var _monsterskill = {
     "800209101": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800209102": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800209103": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "800305201": {
         "Key": "Skill01",
         "Name": "Watchful Meteor",
-        "Desc": "Deals Wind DMG to a single target and has a high chance to inflict Wind Shear.",
+        "Desc": "指定した味方単体に風属性ダメージを与え、高確率で風化状態にする。",
         "SP": 10.0,
         "Elem": "Wind"
     },
     "800305202": {
         "Key": "Skill03",
         "Name": "Wind Walker",
-        "Desc": "Deals minor Wind DMG to the target and units adjacent to the target, with a chance to inflict Wind Shear.",
+        "Desc": "指定した味方単体および隣接する味方に少量の風属性ダメージを与え、確率で攻撃を受けた味方を風化状態にする。",
         "SP": 10.0,
         "Elem": "Wind"
     },
     "800305203": {
         "Key": "Skill04",
         "Name": "Wind-Twisting Crossbow",
-        "Desc": "Enters the Charge state and locks on to all targets currently suffering Wind Shear. Cast Windfall Storm in the next action.",
+        "Desc": "チャージ状態に入り、風化状態にあるすべての味方をロックオンし、次の行動で「暴風の矢」を発動する。",
         "SP": 0
     },
     "800305204": {
         "Key": "Skill05",
         "Name": "Windfall Storm",
-        "Desc": "Deals Wind DMG to targets afflicted with Wind Shear. This ability fails if no one on the target team suffers Wind Shear.",
+        "Desc": "風化状態の味方に風属性ダメージを与える。フィールド上に風化状態の味方が存在しない場合、このスキルの発動は失敗する。",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true
@@ -7056,47 +7056,47 @@ var _monsterskill = {
     "800305205": {
         "Key": "PassiveSkillInitiate",
         "Name": "Storm Cyclone",
-        "Desc": "Slightly increases ATK after attacking a target afflicted with Wind Shear. This buff is dispelled upon Weakness Break.",
+        "Desc": "風化状態の味方を攻撃した後、攻撃力が小幅アップする。弱点撃破されると効果が解除される。",
         "SP": 0
     },
     "800305206": {
         "Key": "Skill06",
         "Name": "Windfall Storm",
-        "Desc": "Deals Wind DMG to targets afflicted with Wind Shear. This ability fails if no one on the target team suffers Wind Shear.",
+        "Desc": "風化状態の味方に風属性ダメージを与える。フィールド上に風化状態の味方が存在しない場合、このスキルの発動は失敗する。",
         "SP": 10.0
     },
     "801301301": {
         "Key": "Skill01",
         "Name": "Unreal Projection",
-        "Desc": "Deals Quantum DMG to a single target.",
+        "Desc": "指定した味方単体に量子属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Quantum"
     },
     "801301302": {
         "Key": "Skill02",
         "Name": "Rule of Force",
-        "Desc": "Deals Quantum DMG to a single target.",
+        "Desc": "指定した味方単体に量子属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Quantum"
     },
     "801301303": {
         "Key": "Skill03",
         "Name": "War Trample",
-        "Desc": "Deals minor Quantum DMG to a single target and units adjacent to the target.",
+        "Desc": "指定した味方単体および隣接する味方に少量の量子属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Quantum"
     },
     "801301304": {
         "Key": "Skill04",
         "Name": "Spiral Arrow",
-        "Desc": "Locks on to a single target. Cast End of Bow to this target in the next action.",
+        "Desc": "指定した味方単体をロックオンし、次の行動でターゲットに「強弓の終末」を発動する。",
         "SP": 0,
         "Elem": "Quantum"
     },
     "801301305": {
         "Key": "Skill05",
         "Name": "End of Bow",
-        "Desc": "Deals massive Quantum DMG to a single target, with a high chance to inflict Entanglement.",
+        "Desc": "指定した味方単体に大量の量子ダメージを与え、高確率で攻撃を受けた味方をもつれ状態にする。",
         "SP": 25.0,
         "Elem": "Quantum",
         "Threat": true
@@ -7104,7 +7104,7 @@ var _monsterskill = {
     "300203001": {
         "Key": "Skill01",
         "Name": "Drink Invite",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -7114,103 +7114,103 @@ var _monsterskill = {
     "300203002": {
         "Key": "Skill02",
         "Name": "Libation of Sweetness",
-        "Desc": "Upon taking a killing blow, deals Physical DMG to adjacent friendly units, increases their SPD, and inflicts them with Bleed.",
+        "Desc": "HPが0になる攻撃を受けた後、隣接する敵に物理ダメージを与え、速度をアップさせ、裂創状態にする。",
         "SP": 0
     },
     "800205801": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800205802": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800205803": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "800205901": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800205902": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800205903": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "800210001": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800210002": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800210003": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "800210101": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800210102": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800210103": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "800210201": {
         "Key": "Skill01",
         "Name": "S—S—S—Scared",
-        "Desc": "The Trotter got spooked and will flee in 2 turns.",
+        "Desc": "プーマンはびっくりした、2ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800210202": {
         "Key": "Skill02",
         "Name": "Run... Run!",
-        "Desc": "The Treasure Trotter is panicking and will flee in 1 turn.",
+        "Desc": "プーマンは恐怖に満ちている、1ターン後に戦闘から逃げだす。",
         "SP": 0
     },
     "800210203": {
         "Key": "Skill03",
         "Name": "Phew... Escaped",
-        "Desc": "The Trotter flees in an instant.",
+        "Desc": "プーマンは逃げ出し、瞬く間に姿を消した。",
         "SP": 0
     },
     "300203003": {
         "Key": "SkillP01",
         "Name": "Hearty Revelry",
-        "Desc": "Upon being attacked or taking DMG from DoT effects, gains a stack of SoulGlad Revel. Each stack increases DMG dealt.",
+        "Desc": "攻撃を受けた時または持続ダメージを受けた時、重ね掛け可能な「スラーダ酔い」を1層獲得する。「スラーダ酔い」の層数が高ければ高いほど、与えるダメージがアップする。",
         "SP": 0,
         "Status": [
             230020301
@@ -7219,7 +7219,7 @@ var _monsterskill = {
     "302401001": {
         "Key": "Skill01",
         "Name": "Piety",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -7229,7 +7229,7 @@ var _monsterskill = {
     "302401002": {
         "Key": "Skill02",
         "Name": "Imbue Devotion",
-        "Desc": "Deals Physical DMG to a single target and units adjacent to the target.",
+        "Desc": "指定した味方単体および隣接する味方に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -7240,7 +7240,7 @@ var _monsterskill = {
     "302401003": {
         "Key": "Skill03",
         "Name": "Spear & Shield",
-        "Desc": "Randomly summons statues of \"Speartip,\" \"The Shield,\" and \"The Honored.\"",
+        "Desc": "ランダムで「槍先」、「盾」、「叙勲」の彫刻を召喚する。",
         "SP": 0,
         "Summon": [
             3021020,
@@ -7251,7 +7251,7 @@ var _monsterskill = {
     "302401004": {
         "Key": "Skill04",
         "Name": "Soul of Tenacity",
-        "Desc": "Casts a Soul of Beauty from one of the statues and causes the ability of the statue that cast the soul to be enhanced.",
+        "Desc": "彫刻の中の純美の魂を1つ解放する。魂を解放された彫刻のスキル効果が強化される。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -7261,7 +7261,7 @@ var _monsterskill = {
     "302401005": {
         "Key": "Skill05",
         "Name": "Hymn of Gorgeous Courage",
-        "Desc": "Deals Physical DMG to all targets.",
+        "Desc": "味方全体に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "Threat": true,
@@ -7272,7 +7272,7 @@ var _monsterskill = {
     "302401007": {
         "Key": "Skill07",
         "Name": "Spear & Shield",
-        "Desc": "Randomly summons statues of \"Speartip,\" \"The Shield,\" and \"The Honored.\"",
+        "Desc": "ランダムで「槍先」、「盾」、「叙勲」の彫刻を召喚する。",
         "SP": 0,
         "Summon": [
             3021020,
@@ -7283,7 +7283,7 @@ var _monsterskill = {
     "202302101": {
         "Key": "Skill01",
         "Name": "Simian Strike",
-        "Desc": "Deals Quantum DMG to a single target.",
+        "Desc": "味方単体に量子属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Quantum",
         "Threat": true,
@@ -7299,7 +7299,7 @@ var _monsterskill = {
     "202302102": {
         "Key": "Skill02",
         "Name": "Wrathful Roar",
-        "Desc": "Locks onto a random target. Whenever any target uses their Skill, they will become the new lock-on target, and this unit gains 1 stack of Gusto. The next time this unit uses Simian Strike, consume all current Gusto stacks and increase this unit's ATK based on the number of stacks consumed. Accumulated Gusto stacks will be cleared when this unit has its Weakness Broken.",
+        "Desc": "ランダムな味方単体をロックオンする。味方が戦闘スキルを発動した時、ロックオン対象が最後に戦闘スキルを発動した味方に変わり、「元気」を1層獲得する。次に「獣撃」を発動した時、すべての「元気」を消費し、消費した「元気」の数に応じて攻撃力をアップする。弱点撃破された時、すべての「元気」を失う。",
         "SP": 0,
         "Threat": true,
         "Prepare": [
@@ -7319,7 +7319,7 @@ var _monsterskill = {
     "202302104": {
         "Key": "Skill05",
         "Name": "Simian Howl",
-        "Desc": "Deals minor Quantum DMG to all targets.",
+        "Desc": "味方全体に少量の量子属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Quantum",
         "DMG": [
@@ -7335,7 +7335,7 @@ var _monsterskill = {
     "202303101": {
         "Key": "Skill01",
         "Name": "Rite of Great Arbor Metamorphosis",
-        "Desc": "Continuously deal Wind DMG to a random target, with a high chance to cause Wind Shear.",
+        "Desc": "ランダムな味方単体に連続で風属性ダメージを与え、高確率で攻撃を受けた味方を風化状態にする。",
         "SP": 5.0,
         "Elem": "Wind",
         "Status": [
@@ -7349,7 +7349,7 @@ var _monsterskill = {
     "202303102": {
         "Key": "Skill02",
         "Name": "Guiding Vulturnus",
-        "Desc": "Deals Wind DMG to a target and its adjacent targets, with a high chance to cause Wind Shear.",
+        "Desc": "指定した味方単体及び隣接する味方に風属性ダメージを与え、高確率で攻撃された味方を風化状態にする。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -7363,7 +7363,7 @@ var _monsterskill = {
     "202303103": {
         "Key": "Skill03",
         "Name": "Arboreal Thorns",
-        "Desc": "Deals Wind DMG to a single target, with a high chance to cause Wind Shear.",
+        "Desc": "指定した味方単体に風属性ダメージを与え、高確率で攻撃を受けた味方を風化状態にする。",
         "SP": 15.0,
         "Elem": "Wind",
         "Status": [
@@ -7377,7 +7377,7 @@ var _monsterskill = {
     "202303104": {
         "Key": "Skill05",
         "Name": "Black Prana's Snare",
-        "Desc": "Has a high chance for all targets to become afflicted with Prana-Siphon.",
+        "Desc": "高確率で味方全体を「噬命」状態にする。",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true,
@@ -7388,7 +7388,7 @@ var _monsterskill = {
     "202303105": {
         "Key": "SkillP01",
         "Name": "Vitals Drained",
-        "Desc": "When attacking targets in the Prana-Siphon state, the DMG dealt by this attack will be converted to the extent of Max HP reduced by Prana-Siphon, and refresh Prana-Siphon's duration. Prana-Siphon can reduce Max HP by up to  50% .",
+        "Desc": "「噬命」状態のターゲットを攻撃する時、今回の攻撃の与ダメージは「噬命」によって減らされた分の最大HPに転換し、「噬命」の継続時間をリセットする。「噬命」は最高で 50% 分の回復可能な最大HPを減らすことができる。",
         "SP": 0,
         "Elem": "Wind",
         "Threat": true
@@ -7396,7 +7396,7 @@ var _monsterskill = {
     "301402001": {
         "Key": "Skill01",
         "Name": "Funereal Kiss",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -7406,7 +7406,7 @@ var _monsterskill = {
     "301402002": {
         "Key": "Skill02",
         "Name": "Sunken Rain",
-        "Desc": "Deals Physical DMG to all targets.",
+        "Desc": "味方全体に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -7416,7 +7416,7 @@ var _monsterskill = {
     "301402003": {
         "Key": "Skill03",
         "Name": "Biting Obituary",
-        "Desc": "Greatly increases DMG dealt for 1 turn. This effect is removed when this unit becomes Weakness Broken.",
+        "Desc": "自身の与ダメージを大幅アップする、1ターン継続。この効果は弱点撃破された後に解除される。",
         "SP": 0,
         "Status": [
             230140207
@@ -7425,7 +7425,7 @@ var _monsterskill = {
     "301402004": {
         "Key": "Skill04",
         "Name": "Fading Radiance",
-        "Desc": "Enters the Sunset state. Gains 1 stack each time a character uses Basic ATK, Skill, or Ultimate. When Sunset reaches 3 stacks, immediately use Losing Eventide Light on the last-acting target. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken.",
+        "Desc": "「日没」状態に入る。味方が通常攻撃、戦闘スキル、または必殺技を発動するたびに「日没」を1層獲得する。「日没」が3層に達した時、一つ前に行動した味方に対して「黄昏に色褪せて」を発動する。「黄昏に色褪せて」を1回発動した後、または弱点撃破された後に、この状態は解除される。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -7435,7 +7435,7 @@ var _monsterskill = {
     "301402005": {
         "Key": "Skill05",
         "Name": "Losing Eventide Light",
-        "Desc": "Immediately launches a killing blow on the last-acting target who used Basic ATK, Skill, or Ultimate, and inflicts Morbid Dream on them.",
+        "Desc": "最後に通常攻撃、戦闘スキル、または必殺技を発動した味方に致命攻撃を行い、その味方を「夢死」状態にする。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -7445,7 +7445,7 @@ var _monsterskill = {
     "301402006": {
         "Key": "Skill06",
         "Name": "Go Into That Good Night",
-        "Desc": "Enters the Nightfall state and locks onto the 2 targets who are due to act next. Uses Watery Dissolution in the next action.",
+        "Desc": "「夜の到来」状態に入り、味方全体のEPを回復する。「夜の降臨」状態の間で最初に行動した味方2名をロックオンする。次の行動で「水が水に消え逝くように」を発動する。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -7455,7 +7455,7 @@ var _monsterskill = {
     "301402007": {
         "Key": "Skill07",
         "Name": "Watery Dissolution",
-        "Desc": "Immediately launches a killing blow on all locked-on targets and inflicts Morbid Dream on them. If there are no locked-on targets, launch a killing blow on 2 random targets and inflict Morbid Dream on them.",
+        "Desc": "ロックオンされたすべての味方に致命攻撃を行い、「夢死」状態にする。ロックオンされた味方がない場合、ランダムな味方2名に致命攻撃を行い、「夢死」状態にする。",
         "SP": 0,
         "Threat": true
     },
@@ -7468,7 +7468,7 @@ var _monsterskill = {
     "301402009": {
         "Key": "PassiveSkill02",
         "Name": "Sad True Lover Never Find My Grave",
-        "Desc": "Whenever a target gets inflicted with Morbid Dream, summons a corresponding Sombrous Sepulcher. When all targets get inflicted with Morbid Dream or are knocked down, this battle will be considered a defeat.",
+        "Desc": "味方が「夢死」状態になった時、対応する「永眠の墓碑」を1体召喚する。味方全体が「夢死」状態になる、または戦闘不能状態になると、戦闘失敗になる。",
         "SP": 0
     },
     "301402010": {
@@ -7500,7 +7500,7 @@ var _monsterskill = {
     "800304202": {
         "Key": "Skill02",
         "Name": "Fleeting Gilded Spikes",
-        "Desc": "Deals Imaginary DMG to a single target.",
+        "Desc": "指定した味方単体に虚数属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -7510,7 +7510,7 @@ var _monsterskill = {
     "800304203": {
         "Key": "Skill03",
         "Name": "Fleeting Punishment",
-        "Desc": "Deals massive Imaginary DMG to a single target.",
+        "Desc": "指定した味方単体に大量の虚数属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -7520,7 +7520,7 @@ var _monsterskill = {
     "800304205": {
         "Key": "Skill04",
         "Name": "Liberation of the Golden Age",
-        "Desc": "Deals successive minor Imaginary DMG to a random target. The number of attacks is equal to the Gauge Recollection stacks remaining. If there is no Gauge Recollection, this ability will fail.",
+        "Desc": "連続でランダムな味方単体に少量の虚数属性ダメージを与える、ヒット数は自身が所持する「追憶のスケール」層数と同じ。「追憶のスケール」がない場合は発動に失敗する。",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Threat": true,
@@ -7534,7 +7534,7 @@ var _monsterskill = {
     "800304206": {
         "Key": "PassiveSkill01",
         "Name": "Fleeting Veil",
-        "Desc": "Slightly reduces DMG received from Basic ATKs, Skills, Ultimates, and follow-up attacks, with a small chance to inflict Imprisonment on the target attacked by Decaying Shadow.",
+        "Desc": "自身が受ける通常攻撃、戦闘スキル、必殺技、追加攻撃の与ダメージが小幅ダウンし、低確率で蚕食者の影に攻撃された味方を禁錮状態にする。",
         "SP": 0,
         "Status": [
             30020013
@@ -7543,7 +7543,7 @@ var _monsterskill = {
     "800304204": {
         "Key": "Skill05",
         "Name": "Binding of the Golden Age",
-        "Desc": "Enters the Charge state and gains 9 Gauge Recollection stacks. Casts Liberation of the Golden Age in the next action. Every time this unit is attacked, lose 1 stack of Gauge Recollection.",
+        "Desc": "チャージ状態に入り、「追憶のスケール」を9層獲得し、次の行動で「黄金時代の解放」を発動する。攻撃を受けるたびに「追憶のスケール」を1層失う。",
         "SP": 0,
         "Prepare": [
             800304205
@@ -7561,7 +7561,7 @@ var _monsterskill = {
     "200203002": {
         "Key": "Skill01",
         "Name": "Sawing Evil",
-        "Desc": "Deals minor Physical DMG to a single target and has a high chance to inflict Reverberation.",
+        "Desc": "指定した味方単体に少量の物理ダメージを与え、高確率で攻撃を受けた味方を「震とう」状態にする。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -7571,7 +7571,7 @@ var _monsterskill = {
     "200203101": {
         "Key": "Skill01",
         "Name": "Sawing Evil",
-        "Desc": "Deals minor Physical DMG to a single target.",
+        "Desc": "指定した味方単体に少量の物理ダメージを与える。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -7581,7 +7581,7 @@ var _monsterskill = {
     "802401101": {
         "Key": "Skill01",
         "Name": "Time to Battle",
-        "Desc": "Deals minor Wind DMG to a single target, with a high chance to inflict 2 stacks of Wind Shear.",
+        "Desc": "指定した味方単体に少量の風属性ダメージを与え、高確率で攻撃を受けた味方を2層の風化状態にする。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -7602,7 +7602,7 @@ var _monsterskill = {
     "802401102": {
         "Key": "Skill02",
         "Name": "War Gear",
-        "Desc": "Deals minor Wind DMG to a single target. If the target is currently suffering from Wind Shear, Wind Shear immediately causes DMG 1 time.",
+        "Desc": "指定した味方単体に少量の風属性ダメージを与える。攻撃を受けたターゲットが風化状態であった場合、風化ダメージを1回与える。",
         "SP": 20.0,
         "Elem": "Wind",
         "Status": [
@@ -7615,7 +7615,7 @@ var _monsterskill = {
     "802401103": {
         "Key": "Skill03",
         "Name": "Cyclonic Swarm",
-        "Desc": "Deals Wind DMG to all targets, with a high chance to cause Wind Shear.",
+        "Desc": "味方全体に風属性ダメージを与え、高確率で攻撃を受けた味方を風化状態にする。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -7629,7 +7629,7 @@ var _monsterskill = {
     "802401104": {
         "Key": "Skill04",
         "Name": "Propagation",
-        "Desc": "Spawns True Stings.",
+        "Desc": "真蟄虫の群れを増やす。",
         "SP": 0,
         "Summon": [
             8022010,
@@ -7639,13 +7639,13 @@ var _monsterskill = {
     "802401111": {
         "Key": "Skill10",
         "Name": "Propagation",
-        "Desc": "Spawns True Stings.",
+        "Desc": "真蟄虫の群れを増やす。",
         "SP": 0
     },
     "802401105": {
         "Key": "Skill05",
         "Name": "Ready Order",
-        "Desc": "Enters the Charge state. Uses Swarm Onslaught for the next action.",
+        "Desc": "チャージ状態に入り、次の行動で「スウォーム強襲」を発動する。",
         "SP": 0,
         "Prepare": [
             802401106
@@ -7654,7 +7654,7 @@ var _monsterskill = {
     "802401106": {
         "Key": "Skill06",
         "Name": "Swarm Onslaught",
-        "Desc": "Dispels all Crowd Control debuffs and Weakness Breaks affecting True Stings. Deals Wind DMG to the target, and causes the target to have a high chance of being inflicted with 1 stack of Wind Shear every time they get attacked.",
+        "Desc": "フィールド上のすべての蟄虫の群れの行動制限系デバフと弱点撃破状態を解除し、味方に風属性ダメージを与え、攻撃を受けるたびに1層の風化状態に陥るようにする。",
         "SP": 10.0,
         "Elem": "Wind",
         "Threat": true,
@@ -7666,14 +7666,14 @@ var _monsterskill = {
     "802401107": {
         "Key": "Skill07",
         "Name": "Swarm Onslaught",
-        "Desc": "Dispels all Crowd Control debuffs and Weakness Breaks affecting True Stings. Deals Wind DMG to the target, and causes the target to have a high chance of being inflicted with 1 stack of Wind Shear every time they get attacked.",
+        "Desc": "フィールド上のすべての蟄虫の群れの行動制限系デバフと弱点撃破状態を解除し、味方に風属性ダメージを与え、攻撃を受けるたびに1層の風化状態に陥るようにする。",
         "SP": 10.0,
         "Elem": "Wind"
     },
     "802401108": {
         "Key": "PassiveSkill01",
         "Name": "Transmission Pheromone",
-        "Desc": "For every True Stings spawned on the field, all True Stings gain 1 stack of DMG Boost. Only 1 Transmission Pheromone can take effect in battle at a time.",
+        "Desc": "フィールド上に真蟄虫の群れが1つ増えるごとに、すべての真蟄虫の群れがダメージアップを1層獲得する。フィールド上では1つの「継承フェロモン」のみが効果を発揮する。",
         "SP": 0,
         "Status": [
             280240102
@@ -7682,7 +7682,7 @@ var _monsterskill = {
     "802401109": {
         "Key": "PassiveSkill02",
         "Name": "Entomon Eulogy",
-        "Desc": "When receiving a killing blow, deals Wind DMG to all friendly units, with a high chance to slightly increase their DMG received.",
+        "Desc": "HPが0になる攻撃を受けた時、敵全体に風属性ダメージを与え、高い確率で攻撃を受けた敵の被ダメージを少しアップさせる。",
         "SP": 0,
         "Elem": "Wind",
         "Status": [
@@ -7692,19 +7692,19 @@ var _monsterskill = {
     "301203001": {
         "Key": "Skill01",
         "Name": "Slumber Awakening",
-        "Desc": "After Sombrous Sepulcher receives a killing blow, dispels Morbid Dream from the corresponding target, restoring their HP and regenerating Energy.",
+        "Desc": "永眠の墓碑がHPが0になる攻撃を受けた後、対応する味方の「夢死」状態を解除し、そのHPとEPを回復する。",
         "SP": 0
     },
     "301203002": {
         "Key": "Skill02",
         "Name": "Temporal Departure",
-        "Desc": "Sombrous Sepulcher will not take action.",
+        "Desc": "永眠の墓碑は行動しない。",
         "SP": 0
     },
     "301203003": {
         "Key": "SkillP01",
         "Name": "Eternal Continuation",
-        "Desc": "Sombrous Sepulcher has a fixed amount of HP bars. Each time it is attacked, Weakness Broken, or receives DMG from DoT, 1 bar of HP will be depleted.",
+        "Desc": "永眠の墓碑は固定のマス数を持つ「回数HP」を持っている。攻撃を受ける、弱点撃破される、または持続ダメージを受ける時、HPが1マス減る。",
         "SP": 0
     },
     "301203004": {
@@ -7717,7 +7717,7 @@ var _monsterskill = {
     "302102001": {
         "Key": "Skill01",
         "Name": "Honors of the Red Queen",
-        "Desc": "Applies 1 stack of DMG Boost to enemy Argenti. When in the Soulfreed state, increases DMG Boost stacks.",
+        "Desc": "敵アルジェンティに累積可能なダメージアップ効果を1層付与。「魂の解放」状態にある時、付与するダメージアップの層数がアップ。",
         "SP": 0,
         "Status": [
             230240102
@@ -7726,13 +7726,13 @@ var _monsterskill = {
     "302102002": {
         "Key": "SkillP01",
         "Name": "Stone of Plummeting Foundation",
-        "Desc": "When receiving a killing blow, applies 1 stack of DMG Boost to the attacker. When in the Soulfreed state, increases DMG Boost stacks.",
+        "Desc": "HPが0になる攻撃を受けた時、攻撃したキャラに累積可能なダメージアップ効果を1層付与する。「魂の解放」状態にある時、付与するダメージアップの層数がアップ。",
         "SP": 0
     },
     "302103001": {
         "Key": "Skill01",
         "Name": "So Cometh Beauty's Knight",
-        "Desc": "Deals Physical DMG to all targets. Increases DMG dealt while in the Soulfreed state.",
+        "Desc": "味方全体に物理ダメージを与える。「魂の解放」状態にある時、与ダメージアップ。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -7743,14 +7743,14 @@ var _monsterskill = {
     "302103002": {
         "Key": "SkillP01",
         "Name": "Amor of Destined Death",
-        "Desc": "When receiving a killing blow, deals Physical DMG to all friendly units. Increases DMG dealt while in the Soulfreed state.",
+        "Desc": "HPが0になる攻撃を受けた時、敵全体に物理ダメージを与える。「魂の解放」状態にある時、与ダメージアップ。",
         "SP": 0,
         "Elem": "Phys"
     },
     "302104001": {
         "Key": "Skill01",
         "Name": "Diadem of the Stale",
-        "Desc": "Applies a Barrier to enemy Argenti. Applies Barriers to all friendly units while in the Soulfreed state.",
+        "Desc": "敵のアルジェンティにバリアを付与する。「魂の解放」状態にある時、敵全体にバリアを付与する。",
         "SP": 0,
         "Status": [
             220230203
@@ -7759,7 +7759,7 @@ var _monsterskill = {
     "302104002": {
         "Key": "SkillP01",
         "Name": "Imitation of Alacritous Desire",
-        "Desc": "When receiving a killing blow, applies a Barrier to the attacker. Applies Barriers to all targets while in the Soulfreed state.",
+        "Desc": "HPが0になる攻撃を受けた時、攻撃したキャラにバリアを付与する。「魂の解放」状態にある時、味方全体にバリアを付与する。",
         "SP": 0,
         "Status": [
             220230203
@@ -7768,13 +7768,13 @@ var _monsterskill = {
     "300201001": {
         "Key": "Skill01",
         "Name": "Surprise Variety Show",
-        "Desc": "Regenerates Energy for a target. This ability can only be used while under the Surprise Channel state.",
+        "Desc": "指定された味方単体のEPを少量回復する。「どっきりチャンネル」状態のみ使用可能。",
         "SP": 0
     },
     "300201002": {
         "Key": "Skill02",
         "Name": "Startling Broadcast",
-        "Desc": "Deals minor Quantum DMG to all targets and causes all targets' Energy to be reduced. This ability can only be used while under the Fright Channel state.",
+        "Desc": "味方全体に少量の量子属性ダメージを与え、味方全体のEPが減少する。「びっくりチャンネル」状態のみ使用可能。",
         "SP": 0,
         "Elem": "Quantum",
         "DMG": [
@@ -7784,7 +7784,7 @@ var _monsterskill = {
     "300201003": {
         "Key": "Skill03",
         "Name": "Channel Switch",
-        "Desc": "Switches the Surprise Channel status to the Fright Channel status.",
+        "Desc": "「どっきりチャンネル」状態から「びっくりチャンネル」状態に変更する。",
         "SP": 0,
         "Status": [
             230020101,
@@ -7794,41 +7794,41 @@ var _monsterskill = {
     "300201004": {
         "Key": "SkillP01",
         "Name": "Channel Crossover",
-        "Desc": "After being attacked, this unit will switch from the Surprise Channel status to the Fright Channel status, or vice versa.",
+        "Desc": "攻撃を受けた後、「どっきりチャンネル」状態から「びっくりチャンネル」状態、または「びっくりチャンネル」状態から「どっきりチャンネル」状態に変更する。",
         "SP": 0
     },
     "802203001": {
         "Key": "Skill01",
         "Name": "Horn Clash",
-        "Desc": "Deals Quantum DMG to a single target, prioritizing Entangled targets, and applies one extra stack of Entanglement.",
+        "Desc": "指定した味方単体に量子属性ダメージを与える。もつれ状態にあるターゲットを優先的に攻撃し、追加でもつれを1回累積させる。",
         "SP": 10.0,
         "Elem": "Quantum"
     },
     "802203002": {
         "Key": "PassiveSkill01",
         "Name": "Decay Eulogy",
-        "Desc": "When receiving a killing blow, deals Quantum DMG to all friendly units and increases their DMG received.",
+        "Desc": "HPが0になる攻撃を受けた時、敵全体に量子属性ダメージを与え、攻撃を受けた敵の被ダメージをアップさせる。",
         "SP": 0,
         "Elem": "Quantum"
     },
     "802501001": {
         "Key": "Skill01",
         "Name": "Swarm King Cannon",
-        "Desc": "Deals Quantum DMG to a single target",
+        "Desc": "指定した味方単体に量子属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Quantum"
     },
     "802501002": {
         "Key": "Skill02",
         "Name": "Radiating Venom",
-        "Desc": "Deals Quantum DMG to a single target, with a high chance to inflict Entanglement. Also summons 1 Gnaw Sting.",
+        "Desc": "指定した味方単体に量子ダメージを与え、高確率で攻撃を受けた味方をもつれ状態にする。同時に「蝕蟄虫」を1体召喚する。",
         "SP": 15.0,
         "Elem": "Quantum"
     },
     "802501003": {
         "Key": "Skill03",
         "Name": "Pyrolysis Death Beam",
-        "Desc": "Deals Quantum DMG to a single target and units adjacent to the target.",
+        "Desc": "指定した味方単体および隣接する味方に量子属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Quantum"
     },
@@ -7841,13 +7841,13 @@ var _monsterskill = {
     "802501005": {
         "Key": "Skill04",
         "Name": "Carapace of Begotten Spawn",
-        "Desc": "Enter the Multiply state until the next action. During this time, DMG received is greatly reduced, and each attack taken will cause a Gnaw Sting to be summoned. If this unit is Weakness Broken while in the Multiply state, it will deal Toughness-Reducing DMG equal to this unit's Max Toughness to all friendly units and increase the DMG taken by all other friendly units besides the target themselves.",
+        "Desc": "「増殖・砕星」状態に入る、次の行動まで継続。「増殖・砕星」状態が持続する間、被ダメージが大幅にダウンし、攻撃を受けるたびに「蝕蟄虫」を召喚する。「増殖・砕星」状態で弱点撃破されると、敵全体に自身の最大靭性と同等の削靭ダメージを与え、自身以外の敵の被ダメージをアップさせる。",
         "SP": 0
     },
     "802501006": {
         "Key": "Skill06",
         "Name": "Ovum of Collapsed Star",
-        "Desc": "Deals massive Quantum DMG to all targets.",
+        "Desc": "味方全体に大量の量子属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Quantum",
         "Threat": true
@@ -7855,7 +7855,7 @@ var _monsterskill = {
     "802501007": {
         "Key": "Skill05",
         "Name": "Carapace of Nurtured Disaster",
-        "Desc": "Charges and enters the Multiply state until the next action, whereupon Ovum of Collapsed Star will be used on all targets. During the Multiply state, DMG received is greatly reduced, and each attack taken will cause a Gnaw Sting or Lesser Sting to be summoned. If this unit is Weakness Broken while in the Multiply state, it will deal Toughness-Reducing DMG equal to this unit's Max Toughness to all friendly units and increase the DMG taken by all other friendly units besides the target themselves.",
+        "Desc": "チャージして「増殖・砕星」状態に入る、次の行動まで継続。次の行動時、味方全体に「壊星の卵」を発動する。「増殖・砕星」状態が持続する間、被ダメージが大幅にダウンし、攻撃を受けるたびに「蝕蟄虫」または「次蟄虫」を召喚する。「増殖・砕星」状態で弱点撃破されると、敵全体に自身の最大靭性と同等の削靭ダメージを与え、自身以外の敵の被ダメージをアップさせる。",
         "SP": 0
     },
     "802501008": {
@@ -7874,7 +7874,7 @@ var _monsterskill = {
     "202401201": {
         "Key": "Skill01",
         "Name": "Pedicel: Wintry Wind",
-        "Desc": "Summons Ambrosial Arbor branch \"Twig of Wintry Wind\"",
+        "Desc": "建木の枝先「厳風の梢」を召喚する。",
         "SP": 0,
         "Summon": [
             2022071
@@ -7883,7 +7883,7 @@ var _monsterskill = {
     "202401202": {
         "Key": "Skill02",
         "Name": "Pedicel: Marple Leaf",
-        "Desc": "Summons Ambrosial Arbor branch \"Twig of Marple Leaf\"",
+        "Desc": "建木の枝先「黄葉の梢」を召喚する。",
         "SP": 0,
         "Summon": [
             2022081
@@ -7892,7 +7892,7 @@ var _monsterskill = {
     "202401203": {
         "Key": "Skill03",
         "Name": "Pedicel: Glorious Blooms",
-        "Desc": "Summons Ambrosial Arbor branch \"Twig of Glorious Blooms\"",
+        "Desc": "建木の枝先「万花の梢」を召喚する。",
         "SP": 0,
         "Summon": [
             2022091
@@ -7901,7 +7901,7 @@ var _monsterskill = {
     "202401204": {
         "Key": "Skill04",
         "Name": "Pedicel: Lavish Fruits",
-        "Desc": "Summons Ambrosial Arbor branch \"Twig of Lavish Fruits.\"",
+        "Desc": "建木の枝先「嘉実の梢」を召喚する。",
         "SP": 0,
         "Summon": [
             2022101
@@ -7910,7 +7910,7 @@ var _monsterskill = {
     "202401205": {
         "Key": "Skill05",
         "Name": "Wavering Bleat",
-        "Desc": "Deals Lightning DMG to a single target.",
+        "Desc": "指定した味方単体に雷属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Elec",
         "DMG": [
@@ -7920,7 +7920,7 @@ var _monsterskill = {
     "202401206": {
         "Key": "Skill06",
         "Name": "Caress of Wind",
-        "Desc": "Deals Wind DMG to all targets.",
+        "Desc": "味方全体に風属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Wind",
         "DMG": [
@@ -7930,7 +7930,7 @@ var _monsterskill = {
     "202401207": {
         "Key": "Skill07",
         "Name": "Hardy Leaf Sheath",
-        "Desc": "Increases DEF. Toughness cannot be reduced.",
+        "Desc": "防御力をアップし、靭性がダメージを受けなくなる。",
         "SP": 0,
         "Status": [
             220240101
@@ -7939,7 +7939,7 @@ var _monsterskill = {
     "202401208": {
         "Key": "Skill08",
         "Name": "Flamboyant Gore",
-        "Desc": "Uses this ability immediately when there are 2 Lavish Fruits on the field. Deals massive Lightning DMG to all targets. Deals more damage for every Ambrosial Arbor Branch on the field. After the ability is used, removes all Twigs of Lavish Fruits on the field.",
+        "Desc": "フィールド上に「嘉実」が2つ存在する時、このスキルを発動し、味方全体に大量の雷属性ダメージを与える。フィールド上の「建木の枝先」の数が多いほど、与ダメージがアップする。スキル発動後、フィールド上の全ての「嘉実の梢」を消す。",
         "SP": 20.0,
         "Elem": "Elec",
         "Threat": true,
@@ -7954,7 +7954,7 @@ var _monsterskill = {
     "202401209": {
         "Key": "Skill09",
         "Name": "Everlife",
-        "Desc": "Immediately restores HP and gains 1 stack of Synwood Renewal.",
+        "Desc": "HPを回復し、「若木化生」を1層獲得する。",
         "SP": 0,
         "Status": [
             220240111
@@ -7963,7 +7963,7 @@ var _monsterskill = {
     "202401210": {
         "Key": "Skill10",
         "Name": "Pedicel: Ivy Allure",
-        "Desc": "Summons 2 Ambrosial Arbor Branch \"Twig of Wintry Wind.\"",
+        "Desc": "建木の枝先「厳風の梢」を2本召喚する。",
         "SP": 0,
         "Summon": [
             2022071
@@ -7972,7 +7972,7 @@ var _monsterskill = {
     "202401211": {
         "Key": "Skill11",
         "Name": "Pedicel: Willow Sprig",
-        "Desc": "Summons 2 Ambrosial Arbor Branch \"Twig of Marple Leaf.\"",
+        "Desc": "建木の枝先「黄葉の梢」を2本召喚する。",
         "SP": 0,
         "Summon": [
             2022081
@@ -7981,7 +7981,7 @@ var _monsterskill = {
     "202401212": {
         "Key": "Skill12",
         "Name": "Pedicel: Hazel Lush",
-        "Desc": "Summons 2 Ambrosial Arbor Branch \"Twig of Marple Leaf,\" 1 Ambrosial Arbor Branch \"Twig of Wintry Wind,\" and 1 Ambrosial Arbor Branch \"Twig of Glorious Blooms.\"",
+        "Desc": "建木の枝先「黄葉の梢」を2本、「厳風の梢」を1本、「万花の梢」を1本召喚する。",
         "SP": 0,
         "Summon": [
             2022071,
@@ -7992,7 +7992,7 @@ var _monsterskill = {
     "202401213": {
         "Key": "Skill13",
         "Name": "Pedicel: Entwined Vines",
-        "Desc": "Summons 2 Ambrosial Arbor Branch \"Twig of Lavish Fruits,\" 1 Ambrosial Arbor Branch \"Twig of Marple Leaf,\" and 1 Ambrosial Arbor Branch \"Twig of Wintry Wind.\"",
+        "Desc": "建木の枝先「嘉実の梢」を2本、「黄葉の梢」を1本、「厳風の梢」を1本召喚する。",
         "SP": 0,
         "Summon": [
             2022071,
@@ -8003,7 +8003,7 @@ var _monsterskill = {
     "202401214": {
         "Key": "Skill14",
         "Name": "Vigor Overflow",
-        "Desc": "For every buff the Abundant Ebon Deer gains, the DMG dealt by the Abundant Ebon Deer and all Ambrosial Arbor Branches increases slightly.",
+        "Desc": "豊穣の玄鹿がバフを獲得した時、豊穣の玄鹿とすべての建木の枝先のダメージが小幅アップする。",
         "SP": 0,
         "Status": [
             220240112
@@ -8012,20 +8012,20 @@ var _monsterskill = {
     "100202101": {
         "Key": "Skill01",
         "Name": "Shovel Attack",
-        "Desc": "Deals minor Physical DMG to a single target.",
+        "Desc": "指定した味方単体に少量の物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys"
     },
     "100202102": {
         "Key": "Skill02",
         "Name": "Inspire",
-        "Desc": "Increases a friendly unit's ATK and causes them to act immediately.",
+        "Desc": "指定した敵単体の攻撃力をアップし、即座に行動させる。",
         "SP": 0
     },
     "201302101": {
         "Key": "Skill01",
         "Name": "Adjudicate",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -8035,7 +8035,7 @@ var _monsterskill = {
     "201302102": {
         "Key": "Skill02",
         "Name": "Subdue",
-        "Desc": "Deals Physical DMG to a single target and has a high chance to inflict Reverberation on the target. After targets afflicted with Reverberation receive an attack, they enter the Strong Reverberation state and then have the Reverberation state dispelled. Targets with Strong Reverberation cannot take action.",
+        "Desc": "指定した味方単体に物理ダメージを与え、高確率で攻撃を受けた味方を「震とう」状態にする。「震とう」状態の味方は攻撃を受けた後に「強烈震とう」状態になり、「震とう」状態が解除される。「強烈震とう」状態の味方は行動できない。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -8049,7 +8049,7 @@ var _monsterskill = {
     "201302103": {
         "Key": "Skill03",
         "Name": "Revert Yin and Yang",
-        "Desc": "Deals Physical DMG to all targets and has a chance to inflict Reverberation.",
+        "Desc": "味方全体に物理ダメージを与え、確率で攻撃を受けた味方を「震とう」状態にする。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -8063,7 +8063,7 @@ var _monsterskill = {
     "201302105": {
         "Key": "SkillP01",
         "Name": "Soul Warrant",
-        "Desc": "When there are targets afflicted with Strong Reverberation on the field, lock on to those targets and during the next action, use Heaven's Fall on them",
+        "Desc": "フィールド上に「強烈震とう」状態の味方がいる時、その味方をロックオンし、次の行動で「天墜」を発動する。",
         "SP": 0,
         "Elem": "Phys",
         "Status": [
@@ -8076,7 +8076,7 @@ var _monsterskill = {
     "201302106": {
         "Key": "Skill05",
         "Name": "Summons Prison Guard",
-        "Desc": "Summons Wraith Warden.",
+        "Desc": "「幽府武弁」を召喚する",
         "SP": 10.0,
         "Elem": "Phys",
         "Summon": [
@@ -8086,7 +8086,7 @@ var _monsterskill = {
     "803301101": {
         "Key": "Skill01",
         "Name": "Disciplined",
-        "Desc": "Deals minor Physical DMG to a single target.",
+        "Desc": "指定した味方単体に少量の物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -8096,7 +8096,7 @@ var _monsterskill = {
     "803301103": {
         "Key": "Skill02",
         "Name": "In Training...",
-        "Desc": "Enters the Charge state. Uses Work Culture Shock in the next action.",
+        "Desc": "チャージ状態に入り、次の行動で「企業カルチャーショック」を発動する。",
         "SP": 0,
         "Prepare": [
             803301104
@@ -8105,7 +8105,7 @@ var _monsterskill = {
     "803301104": {
         "Key": "Skill03",
         "Name": "Work Culture Shock",
-        "Desc": "Deals Physical DMG to all targets.",
+        "Desc": "味方全体に物理ダメージを与える。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -8116,7 +8116,7 @@ var _monsterskill = {
     "803301105": {
         "Key": "Skill04",
         "Name": "720-Degree Review",
-        "Desc": "Seizes all Performance Points from all Grunt: Field Personnel and Grunt: Security Personnel.",
+        "Desc": "すべての「平社員・外勤」と「平社員・警備」の「KPI」を奪う。",
         "SP": 0,
         "Status": [
             280330101
@@ -8125,14 +8125,14 @@ var _monsterskill = {
     "803301106": {
         "Key": "Skill05",
         "Name": "Worst Performer Is Fired",
-        "Desc": "Eliminates 1 Grunt: Field Personnel or Grunt: Security Personnel that does not have Performance Points, and summons a maximum of 4 Grunts: Field Personnel or Grunt: Security Personnel. At the same time, all Grunts: Field Personnel and Grunts: Security Personnel acquire 1 Performance Point.",
+        "Desc": "「KPI」を持たない「平社員・外勤」または「平社員・警備」を排除し、「平社員・外勤」または「平社員・警備」を最多で4体召喚する。同時にフィールド上にいる「平社員・外勤」と「平社員・警備」は「KPI」を1獲得する。",
         "SP": 0,
         "Summon": []
     },
     "803301102": {
         "Key": "Skill06",
         "Name": "Cost Reduction",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -8142,14 +8142,14 @@ var _monsterskill = {
     "803301107": {
         "Key": "Skill07",
         "Name": "Worst Performer Is Fired",
-        "Desc": "Eliminates 1 Grunt: Field Personnel or Grunt: Security Personnel that does not have Performance Points, and summons a maximum of 4 Grunts: Field Personnel or Grunt: Security Personnel. At the same time, all Grunts: Field Personnel and Grunts: Security Personnel acquire 1 Performance Point.",
+        "Desc": "「KPI」を持たない「平社員・外勤」または「平社員・警備」を排除し、「平社員・外勤」または「平社員・警備」を最多で4体召喚する。同時にフィールド上にいる「平社員・外勤」と「平社員・警備」は「KPI」を1獲得する。",
         "SP": 0,
         "Summon": []
     },
     "201301202": {
         "Key": "Skill01",
         "Name": "Dread",
-        "Desc": "Increases Sanction Rate level and deals minor Imaginary DMG to all targets. Has a high chance to inflict Weaken on the targets.",
+        "Desc": "「懲戒度」のレベルを上げ、味方全体に少量の虚数属性ダメージを与え、高確率で味方を虚弱状態にする。",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Status": [
@@ -8162,7 +8162,7 @@ var _monsterskill = {
     "201301203": {
         "Key": "Skill02",
         "Name": "Restraint",
-        "Desc": "Deals Imaginary DMG to a single target.",
+        "Desc": "指定した味方単体に虚数属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -8172,7 +8172,7 @@ var _monsterskill = {
     "201301204": {
         "Key": "Skill03",
         "Name": "Enchainment",
-        "Desc": "Deals massive Imaginary DMG to a single target, with a small chance of inflicting Imprisonment.",
+        "Desc": "指定した味方単体に大量の虚数属性ダメージを与え、低確率で攻撃を受けた味方を禁錮状態にする。",
         "SP": 15.0,
         "Elem": "Imaginary",
         "Threat": true,
@@ -8183,7 +8183,7 @@ var _monsterskill = {
     "201301201": {
         "Key": "SkillP01",
         "Name": "Farewell Etiquette",
-        "Desc": "The Sanction Rate level increases when your team uses Skills or Ultimates to attack. When the Sanction Rate reaches its level cap, enters Sanction mode and summons Entranced Ingenium: Illumination Dragonfish.",
+        "Desc": "味方が戦闘スキルまたは必殺技を発動して攻撃する時、「懲戒度」が溜まる。「懲戒度」は最高レベルに到達すると、即座に「懲罰モード」に入り、「入魔機巧・灯火龍魚」を召喚する。",
         "SP": 0,
         "Prepare": [
             201301203,
@@ -8199,31 +8199,31 @@ var _monsterskill = {
     "202402001": {
         "Key": "SkillP01",
         "Name": "Soulsplit",
-        "Desc": "Cannot be selected or attacked directly. Loses some HP when other enemies on the field are eliminated.",
+        "Desc": "自身はターゲットとして選択されず、攻撃も受けない。フィールド上の敵が倒された時にHPを失う。",
         "SP": 0
     },
     "202402002": {
         "Key": "Skill01",
         "Name": "Rapid Gambit",
-        "Desc": "Causes all friendly units to immediately take action.",
+        "Desc": "敵全体を即座に行動させる。",
         "SP": 0
     },
     "202402003": {
         "Key": "Skill02",
         "Name": "Hesitation",
-        "Desc": "Tries to use an ability, but nothing happens.",
+        "Desc": "スキルを発動しようとしたが、何も起こらなかった。",
         "SP": 0
     },
     "300302003": {
         "Key": "Skill03",
         "Name": "SoulGlad Party",
-        "Desc": "Summons 2 Bubble Hounds.",
+        "Desc": "「ソーダドッグ」を2体召喚する。",
         "SP": 0
     },
     "300302004": {
         "Key": "Skill04",
         "Name": "Celebration Fountain",
-        "Desc": "Enters the Charge stage and gains Toughness Protection. Uses Unlimited Free Drinks during the next action.",
+        "Desc": "チャージ状態に入り、靭性保護を獲得する。次の行動で「フリードリンク（飲み放題）」を発動する。",
         "SP": 0
     },
     "300302005": {
@@ -8235,7 +8235,7 @@ var _monsterskill = {
     "803401001": {
         "Key": "Skill01",
         "Name": "Heavy Stakes",
-        "Desc": "Deals Imaginary DMG to a single target.",
+        "Desc": "指定した味方単体に虚数属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -8245,7 +8245,7 @@ var _monsterskill = {
     "803401002": {
         "Key": "Skill02",
         "Name": "Distributed Investment",
-        "Desc": "Deals successive minor Imaginary DMG to random targets.",
+        "Desc": "連続でランダムな味方単体に少量の虚数属性ダメージを与える。",
         "SP": 5.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -8255,7 +8255,7 @@ var _monsterskill = {
     "803401003": {
         "Key": "Skill03",
         "Name": "Points Fountain",
-        "Desc": "Deals minor Imaginary DMG to all targets and reduce all targets' Energy.",
+        "Desc": "味方全体に少量の虚数属性ダメージを与え、味方それぞれのEPを減らす。",
         "SP": 0,
         "Elem": "Imaginary",
         "DMG": [
@@ -8265,21 +8265,21 @@ var _monsterskill = {
     "803401004": {
         "Key": "Skill04",
         "Name": "Time For A Bet",
-        "Desc": "Summons All or Nothing and makes a single target enter the gamble. Every time an All or Nothing is attacked by a target that is in the gamble, the target will receive a random number between 1 and 6. After a target that is in the gamble has finished their turn, targets with numbers lower than Aventurine of Stratagems are considered to have lost the bet and will be attacked, while those with a number higher than Aventurine of Stratagems are considered to have won the bet and will have their Ultimate activated. At the same time, targets that have not entered the gamble are afflicted with the \"Look, Don't Speak\" status, which is dispelled when the gamble ends.",
+        "Desc": "「オール・オア・ナッシング」を召喚し、味方単体をギャンブルデュエルに引きずり込む。「オール・オア・ナッシング」はギャンブルデュエルに参加している味方の攻撃を受けた後、攻撃者に1～6のポイントをランダムで与える。<br>ギャンブルデュエルに参加している味方単体のターン終了時、ポイントが博戯の砂金石より小さい場合は敗北となり、攻撃を受ける。<br>ポイントが博戯の砂金石より大きい場合は勝利となり、必殺技を発動できるようになる。<br>また、賭けに参加していない味方は「観戦者は語る勿れ」状態になり、賭けが終了した後に解除される。",
         "SP": 0,
         "Threat": true
     },
     "803401005": {
         "Key": "Skill05",
         "Name": "Big Spenders' Mad Party",
-        "Desc": "Summons All or Nothing and makes all targets enter the gamble. Every time an All or Nothing is attacked, the target that launched the attack will receive a random number between 1 and 6. The next time Aventurine of Stratagems takes a turn, targets with numbers lower than Aventurine of Stratagems are considered to have lost the bet and will be attacked, while targets with numbers higher than Aventurine of Stratagems are considered to have won the bet and will have their Ultimates activated.",
+        "Desc": "「オール・オア・ナッシング」を召喚し、味方全体をギャンブルデュエルに引きずり込む。「オール・オア・ナッシング」は味方の攻撃を受けた後、攻撃者に1～6のポイントをランダムで与える。<br>博戯の砂金石の次の行動時、ポイントが博戯の砂金石より小さい味方は敗北となり、攻撃を受ける。<br>ポイントが博戯の砂金石より大きい味方は勝利となり、必殺技を発動できるようになる。",
         "SP": 0,
         "Threat": true
     },
     "803401006": {
         "Key": "Skill06",
         "Name": "The Loser's Time Is Over",
-        "Desc": "Deals Imaginary DMG to a target that lost the gamble, with a high chance of inflicting Imprisonment on the attacked target.",
+        "Desc": "ギャンブルデュエルに負けた味方単体に虚数属性ダメージを与え、高確率で攻撃を受けた味方を禁錮状態にする。",
         "SP": 20.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -8289,7 +8289,7 @@ var _monsterskill = {
     "803401007": {
         "Key": "Skill07",
         "Name": "The Winner Takes It All",
-        "Desc": "Deals Imaginary DMG to all targets that lost the gamble, with a high chance of inflicting Imprisonment on the attacked targets.",
+        "Desc": "ギャンブルデュエルに負けたすべての味方に大量の虚数属性ダメージを与え、高確率で攻撃を受けた味方を禁錮状態にする。",
         "SP": 20.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -8299,19 +8299,19 @@ var _monsterskill = {
     "803401008": {
         "Key": "Skill08",
         "Name": "Stratagems' Wagering",
-        "Desc": "Every time a target wins the gamble, they receive the Favored by Fortune effect that increases their DMG dealt. Every time a target loses the gamble, they receive the Down on Your Luck effect that increases DMG taken.",
+        "Desc": "毎回賭けに勝った味方は「豪運」の効果を獲得し、与ダメージが増加する。毎回賭けに負けた味方は「不運」の効果を獲得し、被ダメージが増加する。",
         "SP": 0
     },
     "803203001": {
         "Key": "Skill01",
         "Name": "Fickle Fortune",
-        "Desc": "Immune to DMG. When this unit is attacked by a target that has entered the gamble, apply 1 random number (between 1 and 6) to the target.",
+        "Desc": "ダメージを受けない。ギャンブルデュエルに入ったユニットの攻撃を受けた後、攻撃者に1～6のポイントをランダムで与える。",
         "SP": 0
     },
     "200203201": {
         "Key": "Skill01",
         "Name": "Sawing Evil",
-        "Desc": "Deals minor Physical DMG to a single target and has a high chance to inflict Reverberation on the target. After targets afflicted with Reverberation receive an attack, they enter Strong Reverberation and then have Reverberation dispelled. Targets with Strong Reverberation cannot take action.",
+        "Desc": "指定した味方単体に少量の物理ダメージを与え、高確率で攻撃を受けた味方を「震とう」状態にする。「震とう」状態の味方は攻撃を受けた後に「強烈震とう」状態になり、「震とう」状態が解除される。「強烈震とう」状態の味方は行動できない。",
         "SP": 15.0,
         "Elem": "Phys",
         "Status": [
@@ -8332,7 +8332,7 @@ var _monsterskill = {
     "803301108": {
         "Key": "PassiveSkillInitiate",
         "Name": "Performance Boost",
-        "Desc": "Receives 1 Performance Point after unleashing an attack. Performance Points can be seized by the attacker when this unit's Weakness is Broken or this unit receives a killing blow.",
+        "Desc": "攻撃を行うたびに「KPI」を1獲得する。自身が弱点撃破された時、またはHPが0になる攻撃を受けた時、攻撃者が「KPI」を奪う。",
         "SP": 0,
         "Status": [
             280330101
@@ -8341,7 +8341,7 @@ var _monsterskill = {
     "300301001": {
         "Key": "Skill01",
         "Name": "Ladle Swirl",
-        "Desc": "Deals Fire DMG to a single target.",
+        "Desc": "味方単体に炎属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Fire",
         "DMG": [
@@ -8351,7 +8351,7 @@ var _monsterskill = {
     "300301002": {
         "Key": "Skill02",
         "Name": "Tornado Toss",
-        "Desc": "Deals minor Fire DMG to a single target and adjacent targets.",
+        "Desc": "味方単体および隣接する味方に少量の炎属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Fire",
         "DMG": [
@@ -8362,14 +8362,14 @@ var _monsterskill = {
     "300301003": {
         "Key": "Skill06",
         "Name": "Ignite Stove",
-        "Desc": "Enters the Charge state. In the next action, uses Flaming Stir-Fry if Stove Heating has not reached a certain number of stacks, then clears all Stove Heating stacks.",
+        "Desc": "チャージ状態に入る。次の行動時に「コンロ加熱」が一定層数に達してない場合、「爆裂炒め」を発動し、「コンロ加熱」の層数を全部リセットする。",
         "SP": 0,
         "Elem": "Fire"
     },
     "300301004": {
         "Key": "Skill04",
         "Name": "Flaming Stir-Fry",
-        "Desc": "Deals massive Fire DMG to all targets.",
+        "Desc": "味方全体に大量の炎属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Fire",
         "Threat": true,
@@ -8380,20 +8380,20 @@ var _monsterskill = {
     "300301005": {
         "Key": "Skill05",
         "Name": "Kitchen Mishap",
-        "Desc": "After entering the Charge state, deals massive Fire DMG to all friendly units and decreases this unit's DEF once Stove Heating has a certain number of stacks. Then, clears all Stove Heating stacks.",
+        "Desc": "チャージ状態に入った後、「コンロ加熱」が一定層数に達した時、敵全体に大量の炎属性ダメージを与え、自身の防御力をダウンさせ、「コンロ加熱」の層数を全部リセットする。",
         "SP": 0,
         "Elem": "Fire"
     },
     "300301006": {
         "Key": "Skill03",
         "Name": "Flame-Forged Feast",
-        "Desc": "While not under the Charge state, immediately takes action when Stove Heating reaches a certain number of stacks, and uses Ignite Stove.",
+        "Desc": "チャージ状態に入ってない場合、「コンロ加熱」が一定層数に達した時、即座に行動し、「コンロ点火」を発動する。",
         "SP": 0
     },
     "300301007": {
         "Key": "PassiveSkillInitiate",
         "Name": "Inferno Stove",
-        "Desc": "When attacking, this unit has a chance to Slow the target. When this unit is attacked or takes DoT, gains 1 stack of Stove Heating.",
+        "Desc": "自身が攻撃を行う時、確率で味方に減速状態を付与する。自身が攻撃を受ける、または持続ダメージを受ける時、「コンロ加熱」を1層獲得する。",
         "SP": 0,
         "Status": [
             230030104,
@@ -8402,20 +8402,20 @@ var _monsterskill = {
     },
     "300204001": {
         "Key": "Skill01",
-        "Name": "Set The Time",
-        "Desc": "Enters the Charge state. Uses Wake-Up Alarm for the next action.",
+        "Name": "Set Alarm",
+        "Desc": "チャージ状態に入り、次の行動で「目覚ましノイズ」を発動する。",
         "SP": 0
     },
     "300204002": {
         "Key": "Skill02",
         "Name": "Wake-Up Alarm",
-        "Desc": "Causes all friendly units apart from this unit to immediately take action.",
+        "Desc": "自身以外の敵を即座に行動させる。",
         "SP": 0
     },
     "300204003": {
         "Key": "Skill03",
         "Name": "Wake-Up Punch",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -8425,7 +8425,7 @@ var _monsterskill = {
     "301202001": {
         "Key": "Skill03",
         "Name": "Structural Deviation",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -8435,7 +8435,7 @@ var _monsterskill = {
     "301202002": {
         "Key": "SkillP01",
         "Name": "Aegis of the Unyielding",
-        "Desc": "Enters the Safeguard state. When not Weakness Broken, reduces DMG received. Once Weakness is Broken, action will be delayed. After Weakness is Broken, increases DMG received.",
+        "Desc": "「守備」状態に入る。弱点撃破状態でない時の被ダメージがダウンする。弱点撃破された時の行動順遅延量がアップし、弱点撃破状態の時の被ダメージがアップする。",
         "SP": 0,
         "Status": [
             230120201
@@ -8444,7 +8444,7 @@ var _monsterskill = {
     "302402001": {
         "Key": "Skill01",
         "Name": "BHF: Fiery Advance",
-        "Desc": "Deals minor Fire DMG to a single target.",
+        "Desc": "指定した味方単体に少量の炎属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Fire",
         "DMG": [
@@ -8454,7 +8454,7 @@ var _monsterskill = {
     "302402002": {
         "Key": "Skill02",
         "Name": "BHF: Heavenly Fire",
-        "Desc": "Deals minor Fire DMG to a single target and any adjacent targets.",
+        "Desc": "指定した味方単体および隣接する味方に少量の炎属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Fire",
         "DMG": [
@@ -8465,7 +8465,7 @@ var _monsterskill = {
     "302402003": {
         "Key": "Skill03",
         "Name": "BBHF: Scorched Earth",
-        "Desc": "Deals minor Fire DMG to all targets.",
+        "Desc": "味方全体に少量の炎属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Fire",
         "DMG": [
@@ -8475,14 +8475,14 @@ var _monsterskill = {
     "302402004": {
         "Key": "Skill04",
         "Name": "DHGDR: Secondary Combustion",
-        "Desc": "Consumes HP to enter the Secondary Combustion state and dispels the Weakness Protected effect. Becomes significantly more powerful in this state, but all attacks consume HP.",
+        "Desc": "自身のHPを消費し、「二次燃焼」に入り「弱点無効」を解除する。「二次燃焼」に入ると自身を大幅に強化するが、攻撃を行うたびに自身のHPを消費する。",
         "SP": 0,
         "Threat": true
     },
     "302402005": {
         "Key": "Skill05",
         "Name": "DHGDR: Supernova Overload",
-        "Desc": "Deals Fire DMG to all targets, with a high chance to Burn them.",
+        "Desc": "味方全体に炎属性ダメージを与え、高確率で攻撃を受けた味方を燃焼状態にする。",
         "SP": 20.0,
         "Elem": "Fire",
         "Threat": true,
@@ -8494,7 +8494,7 @@ var _monsterskill = {
     "302402006": {
         "Key": "PassiveSkill01",
         "Name": "SGE: Molten Core",
-        "Desc": "After entering Secondary Combustion, Combusts both the area and targets' Skill Points. When consuming Combusted Skill Points, targets lose HP and additionally deal a set amount of Fire DMG equal to a certain percentage of the original DMG. When they receive healing from other characters, the amount of HP restored is massively reduced.",
+        "Desc": "「二次燃焼」状態に入った後、フィールドと味方のSPを燃やす。味方が燃えるSPを消費するとHPを消費し、さらに敵に本来のダメージ一定割合分の炎属性固定ダメージを与える。他の味方に治癒される時の回復量が大幅にダウンする。",
         "SP": 0,
         "Elem": "Fire",
         "DMG": [
@@ -8504,34 +8504,34 @@ var _monsterskill = {
     "302401101": {
         "Key": "Skill01",
         "Name": "Piety",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 15.0,
         "Elem": "Phys"
     },
     "302401102": {
         "Key": "Skill02",
         "Name": "Imbue Devotion",
-        "Desc": "Deals Physical DMG to a single target and units adjacent to the target.",
+        "Desc": "指定した味方単体および隣接する味方に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys"
     },
     "302401103": {
         "Key": "Skill03",
         "Name": "Spear & Shield",
-        "Desc": "Randomly summons statues of \"Speartip,\" \"The Shield,\" and \"The Honored.\"",
+        "Desc": "ランダムで「槍先」、「盾」、「叙勲」の彫刻を召喚する。",
         "SP": 0
     },
     "302401104": {
         "Key": "Skill04",
         "Name": "Thus Spoke The Spirit of Love",
-        "Desc": "Casts a Soul of Beauty from one of the statues. Causes the ability of the Soulfreed statue to be enhanced and to immediately take action.",
+        "Desc": "彫刻の中の純美の魂を1つ昇華する。魂を昇華された彫刻のスキル効果が強化され、即座に行動する。",
         "SP": 0,
         "Threat": true
     },
     "302401105": {
         "Key": "Skill05",
         "Name": "Hymn of Gorgeous Courage",
-        "Desc": "Deals Physical DMG to all targets.",
+        "Desc": "味方全体に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "Threat": true
@@ -8545,78 +8545,78 @@ var _monsterskill = {
     "302102101": {
         "Key": "Skill01",
         "Name": "Honors of the Red Queen",
-        "Desc": "Applies 1 stack of stackable DMG Boost effect to enemy Argenti. When in the Soulfreed state, increases the applied DMG Boost stacks.",
+        "Desc": "敵アルジェンティに累積可能なダメージアップ効果を1層付与。「魂の解放」状態にある時、付与するダメージアップの層数がアップ。",
         "SP": 0
     },
     "302102102": {
         "Key": "SkillP01",
         "Name": "Stone of Plummeting Foundation",
-        "Desc": "When receiving a killing blow, applies 1 stack of stackable DMG Boost effect to the attacker. When in the Soulfreed state, increases the applied DMG Boost stacks.",
+        "Desc": "HPが0になる攻撃を受けた時、攻撃したキャラに累積可能なダメージアップ効果を1層付与する。「魂の解放」状態にある時、付与するダメージアップの層数がアップ。",
         "SP": 0
     },
     "302103101": {
         "Key": "Skill01",
         "Name": "So Cometh Beauty's Knight",
-        "Desc": "Deals Physical DMG to all targets. Increases DMG dealt while in the Soulfreed state.",
+        "Desc": "味方全体に物理ダメージを与える。「魂の解放」状態にある時、与ダメージアップ。",
         "SP": 10.0,
         "Elem": "Phys"
     },
     "302103102": {
         "Key": "SkillP01",
         "Name": "Amor of Destined Death",
-        "Desc": "When receiving a killing blow, deals Physical DMG to all friendly units. Increases DMG dealt while in the Soulfreed state.",
+        "Desc": "HPが0になる攻撃を受けた時、敵全体に物理ダメージを与える。「魂の解放」状態にある時、与ダメージアップ。",
         "SP": 0,
         "Elem": "Phys"
     },
     "302104101": {
         "Key": "Skill01",
         "Name": "Diadem of the Stale",
-        "Desc": "Applies a Barrier to enemy Argenti. Applies Barriers to all friendly units while in the Soulfreed state.",
+        "Desc": "敵のアルジェンティにバリアを付与する。「魂の解放」状態にある時、敵全体にバリアを付与する。",
         "SP": 0
     },
     "302104102": {
         "Key": "SkillP01",
         "Name": "Imitation of Alacritous Desire",
-        "Desc": "When receiving a killing blow, applies a Barrier to the attacker. Applies Barriers to all targets while in the Soulfreed state.",
+        "Desc": "HPが0になる攻撃を受けた時、攻撃したキャラにバリアを付与する。「魂の解放」状態にある時、味方全体にバリアを付与する。",
         "SP": 0
     },
     "200402201": {
         "Key": "Skill01",
         "Name": "Rapturous Wind",
-        "Desc": "Deals Ice DMG to a single target. Yanqing and all Flying Swords gain 1 stack of Chilling Light and slightly increases DMG dealt.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。彦卿とすべての飛剣が「冷光」を1層獲得し、与ダメージが小幅アップする。",
         "SP": 10.0,
         "Elem": "Ice"
     },
     "200402202": {
         "Key": "Skill02",
         "Name": "Swallow Return",
-        "Desc": "Summons 4 Flying Swords and gains the Sword Formation effect to increase this unit's SPD, and applies Formation Core to the Flying Swords. During this unit's third phase, additionally grant Ordeal to a certain number of Flying Swords.",
+        "Desc": "「飛剣」を4本召喚して、「剣陣」効果を獲得し、自身の速度がアップする。「飛剣」に「陣眼」を付与する。第三段階の時にこのスキルを発動すると、一定数の「飛剣」が追加で「練磨」を獲得する。",
         "SP": 10.0
     },
     "200402203": {
         "Key": "Skill03",
         "Name": "Ironthorn",
-        "Desc": "Deals Ice DMG to a single target, with a high chance to Freeze the target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与え、高確率で攻撃された味方を凍結状態にする。",
         "SP": 15.0,
         "Elem": "Ice"
     },
     "200402204": {
         "Key": "Skill04",
         "Name": "Ballad of Formation Breaker",
-        "Desc": "Deals Ice DMG to a single target and units adjacent to the target.",
+        "Desc": "指定した味方単体及び隣接する味方に氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice"
     },
     "200402205": {
         "Key": "Skill05",
         "Name": "Qi Advance",
-        "Desc": "Enters the Charge state. Cast Cascading Laceration on all targets in the next action.",
+        "Desc": "チャージ状態に入る。次の行動で味方全体に「天河瀉り」を発動する。",
         "SP": 10.0
     },
     "200402206": {
         "Key": "Skill06",
         "Name": "Cascading Laceration",
-        "Desc": "Deals massive Ice DMG to all targets.",
+        "Desc": "味方全体に大量の氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "Threat": true
@@ -8624,13 +8624,13 @@ var _monsterskill = {
     "200402207": {
         "Key": "Skill07",
         "Name": "Qi Converge",
-        "Desc": "Locks on to a single target. After 2 turns, use Aethereal Dreamflux on the target.",
+        "Desc": "味方単体をロックオンし、2ターン後にロックオンした味方に「風帰りて雲動き、天河瀉りし夢」を発動する。",
         "SP": 0
     },
     "200402208": {
         "Key": "Skill08",
         "Name": "Aethereal Dreamflux",
-        "Desc": "Continuously deals Ice DMG to a target. After using this ability, additionally deals DMG for a number of times equal to the number of Flying Swords on the field. After using this ability, remove all Flying Swords on the field.",
+        "Desc": "指定した味方単体に連続で氷属性ダメージを与える。このスキルを発動する時、追加でダメージを与える。ダメージ回数はフィールドに存在する「飛剣」の数と同じである。スキル発動後、フィールド上のすべての「飛剣」を消す。",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true
@@ -8644,7 +8644,7 @@ var _monsterskill = {
     "300205001": {
         "Key": "Skill01",
         "Name": "The Can's Trials",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "味方単体に物理ダメージを与える。",
         "SP": 0,
         "Elem": "Phys",
         "DMG": [
@@ -8654,37 +8654,37 @@ var _monsterskill = {
     "300205002": {
         "Key": "Skill02",
         "Name": "The Can's Tribulations",
-        "Desc": "Increases this unit's ATK. This effect is stackable and unremoveable.",
+        "Desc": "自身の攻撃力をアップする。この効果は累積でき、解除されない。",
         "SP": 0
     },
     "300205003": {
         "Key": "SkillP01",
         "Name": "The Can's Creed",
-        "Desc": "When this unit is Weakness Broken, it will leave the battle. When attacked, Weaknesses corresponding to the attack's Type will be implanted, up to 2 Weaknesses.",
+        "Desc": "自身が弱点撃破されると、戦闘を離脱する。自身が味方の攻撃を受ける時、その回の攻撃に対応する属性を弱点として付与される。最大で弱点属性を2つ付与させられる。",
         "SP": 0
     },
     "101301403": {
         "Key": "Skill05",
         "Name": "Detonation Order",
-        "Desc": "Summons Automaton Spider or Automaton Beetle.",
+        "Desc": "「自動機兵・パウーク」または自動機兵・ジュークを召喚する。",
         "SP": 0
     },
     "101301404": {
         "Key": "Skill04",
         "Name": "Enrage Order",
-        "Desc": "Has a chance to Taunt every single target.",
+        "Desc": "確率で味方それぞれを挑発状態にする。",
         "SP": 0
     },
     "101301405": {
         "Key": "Skill02",
         "Name": "Overcombust Order",
-        "Desc": "Enters the Charge state. In the next action, use \"Purge Order\" on all targets.",
+        "Desc": "チャージ状態に入り、次の行動で味方全体に「殲滅指示」を発動。",
         "SP": 0
     },
     "101301406": {
         "Key": "Skill03",
         "Name": "Purge Order",
-        "Desc": "Deals Massive Physical DMG to all targets.",
+        "Desc": "味方全体に大量の物理ダメージを与える。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true
@@ -8698,7 +8698,7 @@ var _monsterskill = {
     "101301401": {
         "Key": "Skill01",
         "Name": "Destruction Order",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys"
     },
@@ -8712,13 +8712,13 @@ var _monsterskill = {
     "101301408": {
         "Key": "PassiveSkill01",
         "Name": "Obliteration Order",
-        "Desc": "Greatly increases DMG dealt. Each time this unit enters the Charge state, further increase DMG dealt. The DMG boost is stackable.",
+        "Desc": "自身の与ダメージを大幅にアップ。チャージに入るたびに自身の与ダメージをアップする。与ダメージアップ効果は累積できる。",
         "SP": 0
     },
     "101302401": {
         "Key": "Skill06",
         "Name": "Felling Order",
-        "Desc": "Deals massive Physical DMG to a single target, with a chance to afflict Bleed for every hit on the target.",
+        "Desc": "指定した味方単体に大量の物理ダメージを与え、1ヒットごとに確率で裂創状態を付与する。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true
@@ -8726,33 +8726,33 @@ var _monsterskill = {
     "101302402": {
         "Key": "Skill07",
         "Name": "Lock On Target",
-        "Desc": "Locks Onto a single target. In the next action, use \"Felling Order\" on the target.",
+        "Desc": "指定した味方単体をロックオンし、次の行動でターゲットに「伐採指令」を発動する。",
         "SP": 0
     },
     "101302405": {
         "Key": "Skill09",
         "Name": "Disintegration Order",
-        "Desc": "Deals Physical DMG to a single target, with a high chance to inflict 1 stack of Bleed.",
+        "Desc": "指定した味方単体に物理ダメージを与え、高確率で裂創状態を1層与える。",
         "SP": 10.0,
         "Elem": "Phys"
     },
     "101302406": {
         "Key": "Skill11",
         "Name": "Dismantle",
-        "Desc": "Deals Physical DMG to a single target, with a high chance to inflict 1 stack of Bleed.",
+        "Desc": "指定した味方単体に物理ダメージを与え、高確率で裂創状態を1層与える。",
         "SP": 10.0,
         "Elem": "Phys"
     },
     "101302403": {
         "Key": "Skill12",
         "Name": "Targeting Order",
-        "Desc": "Locks on to 2 targets and casts Felling Order on them in the next action.",
+        "Desc": "味方を2人ロックオンし、次の行動で「伐採指令」を発動する。",
         "SP": 0
     },
     "101302404": {
         "Key": "Skill10",
         "Name": "Teamwork Order",
-        "Desc": "Locks on to 2 targets and casts Felling Order on them in the next action. At the same time, makes Automaton Grizzly enter the Charge state, which will cast Purge Order on all targets in the next action.",
+        "Desc": "味方2人をロックオンし、次の行動で「伐採指令」を発動する。同時に「自動機兵・グリズリー」がチャージ状態に入り、次の行動で味方全体に「殲滅指示」を発動する。",
         "SP": 0
     },
     "101302407": {
@@ -8765,25 +8765,25 @@ var _monsterskill = {
     "101302408": {
         "Key": "PassiveSkill01",
         "Name": "Combat Speed-Up",
-        "Desc": "Greatly increases SPD. Every time Teamwork Order is used, SPD is slightly increased further. SPD boost is stackable.",
+        "Desc": "自身の速度を大幅にアップする。「協力指令」を発動する時、さらに速度を小幅アップする。速度アップ効果は累積できる。",
         "SP": 0
     },
     "101301409": {
         "Key": "Skill07",
         "Name": "Firepower Refactor",
-        "Desc": "Enters Firepower Recovery state when downed, returning to battle after a certain number of turns and further increasing DMG dealt. The DMG boost effects are stackable.",
+        "Desc": "倒された後に「火力修復」状態に入り、一定ターン後に復活し、自身の与ダメージをさらにアップする。与ダメージアップ効果は累積できる。",
         "SP": 0
     },
     "101302409": {
         "Key": "Skill13",
         "Name": "Speed Refactor",
-        "Desc": "Enters Speedy Recovery state when downed, returning to battle after a certain number of turns and further increasing SPD by a slight amount. The SPD boost is stackable.",
+        "Desc": "倒された後に「速度率修復」状態に入り、一定ターン後に復活し、自身の速度をさらにわずかにアップする。速度アップ効果は累積できる。",
         "SP": 0
     },
     "802401201": {
         "Key": "Skill01",
         "Name": "Time to Battle",
-        "Desc": "Deals minor Wind DMG to a single target, with a high chance to inflict 2 stacks of Wind Shear.",
+        "Desc": "指定した味方単体に少量の風属性ダメージを与え、高確率で攻撃を受けた味方を2層の風化状態にする。",
         "SP": 10.0,
         "Elem": "Wind"
     },
@@ -8797,39 +8797,39 @@ var _monsterskill = {
     "802401202": {
         "Key": "Skill02",
         "Name": "War Gear",
-        "Desc": "Deals minor Wind DMG to a single target. If the target is currently suffering from Wind Shear, Wind Shear immediately causes DMG 1 time.",
+        "Desc": "指定した味方単体に少量の風属性ダメージを与える。攻撃を受けたターゲットが風化状態であった場合、風化ダメージを1回与える。",
         "SP": 20.0,
         "Elem": "Wind"
     },
     "802401203": {
         "Key": "Skill03",
         "Name": "Cyclonic Swarm",
-        "Desc": "Deals Wind DMG to all targets, with a high chance to cause Wind Shear.",
+        "Desc": "味方全体に風属性ダメージを与え、高確率で攻撃を受けた味方を風化状態にする。",
         "SP": 10.0,
         "Elem": "Wind"
     },
     "802401204": {
         "Key": "Skill04",
         "Name": "Propagation",
-        "Desc": "Spawns True Stings.",
+        "Desc": "真蟄虫の群れを増やす。",
         "SP": 0
     },
     "802401211": {
         "Key": "Skill10",
         "Name": "Propagation",
-        "Desc": "Spawns True Stings.",
+        "Desc": "真蟄虫の群れを増やす。",
         "SP": 0
     },
     "802401205": {
         "Key": "Skill05",
         "Name": "Ready Order",
-        "Desc": "Enters the Charge state. Uses Swarm Onslaught for the next action.",
+        "Desc": "チャージ状態に入り、次の行動で「スウォーム強襲」を発動する。",
         "SP": 0
     },
     "802401206": {
         "Key": "Skill06",
         "Name": "Swarm Onslaught",
-        "Desc": "Dispels all Crowd Control debuffs and Weakness Breaks affecting True Stings on the field. Deals Wind DMG to the target, and causes the target to have a high chance of being inflicted with 1 stack of Wind Shear every time they get attacked.",
+        "Desc": "フィールド上のすべての真蟄虫の群れの行動制限系デバフと弱点撃破状態を解除し、味方に風属性ダメージを与え、攻撃を受けるたびに1層の風化状態に陥るようにする。",
         "SP": 10.0,
         "Elem": "Wind",
         "Threat": true
@@ -8837,34 +8837,34 @@ var _monsterskill = {
     "802401207": {
         "Key": "Skill07",
         "Name": "Swarm Onslaught",
-        "Desc": "Dispels all Crowd Control debuffs and Weakness Breaks affecting True Stings on the field. Deals Wind DMG to the target, and causes the target to have a high chance of being inflicted with 1 stack of Wind Shear every time they get attacked.",
+        "Desc": "フィールド上のすべての真蟄虫の群れの行動制限系デバフと弱点撃破状態を解除し、味方に風属性ダメージを与え、攻撃を受けるたびに1層の風化状態に陥るようにする。",
         "SP": 10.0,
         "Elem": "Wind"
     },
     "802401208": {
         "Key": "PassiveSkill01",
         "Name": "Transmission Pheromone",
-        "Desc": "For every True Stings propagated on the field, all True Stings gain 1 stack of DMG Boost. Only 1 Transmission Pheromone can take effect in battle at a time.",
+        "Desc": "フィールド上に真蟄虫の群れが1つ増えるごとに、すべての真蟄虫の群れがダメージアップを1層獲得する。フィールド上では1つの「継承フェロモン」のみが効果を発揮する。",
         "SP": 0
     },
     "802401209": {
         "Key": "PassiveSkill02",
         "Name": "Entomon Eulogy",
-        "Desc": "When receiving a killing blow, deals Wind DMG to all friendly units, with a high chance to slightly increase their DMG received.",
+        "Desc": "HPが0になる攻撃を受けた時、敵全体に風属性ダメージを与え、高い確率で攻撃を受けた敵の被ダメージを少しアップさせる。",
         "SP": 0,
         "Elem": "Wind"
     },
     "302401106": {
         "Key": "Skill06",
         "Name": "Sin and Absolution",
-        "Desc": "Casts the Souls of Beauty from all statues. Causes the ability of the Soulfreed statue to be enhanced.",
+        "Desc": "すべての彫刻の中の純美の魂を昇華する。魂を昇華された彫刻のスキル効果が強化される。",
         "SP": 0,
         "Threat": true
     },
     "302401108": {
         "Key": "Skill08",
         "Name": "Knights",
-        "Desc": "Summons 4 Speartips. If statues are currently present on the field, heal their HP back to full.",
+        "Desc": "「槍先」を4体召喚する。フィールド上にすでに彫刻がある場合、そのHPを全回復する。",
         "SP": 0
     },
     "302401109": {
@@ -8877,7 +8877,7 @@ var _monsterskill = {
     "100201502": {
         "Key": "SkillP01",
         "Name": "Frigid Gaze",
-        "Desc": "Locks on to a target. Some of Cocolia (Illusion)'s abilities will be released for one more time on the locked-on target until Ice Edge (Illusion) had their Weakness Broken or defeated.",
+        "Desc": "ターゲットを1体ロックオンする。「カカリア（幻像）」の一部スキルはロックオンされたターゲットに追加で発動する。効果は氷刃（幻像）が弱点撃破されるか倒されるまで続く。",
         "SP": 0,
         "Elem": "Ice",
         "Threat": true
@@ -8885,7 +8885,7 @@ var _monsterskill = {
     "100201602": {
         "Key": "SkillP01",
         "Name": "Frigid Gaze",
-        "Desc": "Locks on to a target. Some of Cocolia (Illusion)'s abilities will be released for one more time on the locked-on target until Ice Edge (Illusion) had their Weakness Broken or defeated.",
+        "Desc": "ターゲットを1体ロックオンする。「カカリア（幻像）」の一部スキルはロックオンされたターゲットに追加で発動する。効果は氷刃（幻像）が弱点撃破されるか倒されるまで続く。",
         "SP": 0,
         "Elem": "Ice",
         "Threat": true
@@ -8893,7 +8893,7 @@ var _monsterskill = {
     "100201702": {
         "Key": "SkillP01",
         "Name": "Subzero Pursuit",
-        "Desc": "Locks on to a target. Some of Cocolia, Mother of Deception (Illusion)'s abilities will be released for one more time on the locked-on target until Lance of the Eternal Freeze (Illusion) had their Weakness Broken or defeated.",
+        "Desc": "ターゲットを1体ロックオンする。「カカリア・虚妄の母（幻像）」の一部スキルはロックオンされたターゲットに追加で発動する。効果は無尽なる冬の槊（幻像）が弱点撃破されるか倒されるまで続く。",
         "SP": 0,
         "Elem": "Ice",
         "Threat": true
@@ -8901,7 +8901,7 @@ var _monsterskill = {
     "100201802": {
         "Key": "SkillP01",
         "Name": "Subzero Pursuit",
-        "Desc": "Locks on to a target. Some of Cocolia, Mother of Deception (Illusion)'s abilities will be released for one more time on the locked-on target until Lance of the Eternal Freeze (Illusion) had their Weakness Broken or defeated.",
+        "Desc": "ターゲットを1体ロックオンする。「カカリア・虚妄の母（幻像）」の一部スキルはロックオンされたターゲットに追加で発動する。効果は無尽なる冬の槊（幻像）が弱点撃破されるか倒されるまで続く。",
         "SP": 0,
         "Elem": "Ice",
         "Threat": true
@@ -8909,20 +8909,20 @@ var _monsterskill = {
     "100401301": {
         "Key": "Skill01",
         "Name": "Chill of Bone-Piercing Coagulation",
-        "Desc": "Deals Ice DMG to a single target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice"
     },
     "100401302": {
         "Key": "Skill02",
         "Name": "Omen of Everlasting Freeze",
-        "Desc": "Summons Ice Edges (Illusion)",
+        "Desc": "「氷刃（幻像）」を召喚する。",
         "SP": 0
     },
     "100401303": {
         "Key": "Skill03",
         "Name": "Punishment of Endless Winter",
-        "Desc": "Deals massive Ice DMG to all targets.",
+        "Desc": "味方全体に大量の氷属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Ice",
         "Threat": true
@@ -8930,7 +8930,7 @@ var _monsterskill = {
     "100401304": {
         "Key": "Skill04",
         "Name": "Hoarfrost of Eternal Isolation",
-        "Desc": "Deals Ice DMG to a single target, with a high chance to Freeze the target. This ability will be additionally released on targets locked-on by Ice Edge (Illusion).",
+        "Desc": "指定した味方単体に氷属性ダメージを与え、高確率で攻撃を受けた味方を凍結状態にする。スキルは「氷刃（幻像）」がロックオンしているターゲットに対して追加で発動する。",
         "SP": 10.0,
         "Elem": "Ice",
         "Threat": true
@@ -8938,20 +8938,20 @@ var _monsterskill = {
     "100401305": {
         "Key": "Skill05",
         "Name": "Wrath of Winterland Saints",
-        "Desc": "Enters the Charge state. In the next action, use \"Punishment of Endless Winter\" on all targets.",
+        "Desc": "チャージ状態に入り、次の行動の時に味方全体に「無尽なる冬の絶罰」を発動。",
         "SP": 0
     },
     "100401306": {
         "Key": "Skill07",
         "Name": "Reverberating Ice",
-        "Desc": "Deals Ice DMG to Frozen targets and their adjacent units. This also removes the main target's Frozen state. If the adjacent units are frozen, then this ability is used again on the main target.",
+        "Desc": "凍結状態の味方および隣接するターゲットに氷属性ダメージを与え、メインターゲットの凍結状態を解除する。隣接する味方が凍結状態の場合、メインターゲットにこのスキルをもう一度発動する。",
         "SP": 10.0,
         "Elem": "Ice"
     },
     "100401307": {
         "Key": "PassiveSkill01",
         "Name": "Intensifying Cold",
-        "Desc": "This unit and all its summoned objects gain increased DMG for each Frozen target on the opposing team.",
+        "Desc": "凍結状態の味方単体1人につき、自身及び召喚物の与ダメージがアップする。",
         "SP": 0
     },
     "100401308": {
@@ -8963,27 +8963,27 @@ var _monsterskill = {
     "100401309": {
         "Key": "SkillP02",
         "Name": "Shield of the Winterlands",
-        "Desc": "In the second phase, Gepard joins the battle.",
+        "Desc": "第二段階。ジェパードが戦闘に参加する。",
         "SP": 0
     },
     "100402401": {
         "Key": "Skill01",
         "Name": "Fist of Conviction",
-        "Desc": "Deals minor Ice DMG to a single target.",
+        "Desc": "指定した味方単体に少量の氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice"
     },
     "100402402": {
         "Key": "Skill02",
         "Name": "Smite of Frost",
-        "Desc": "Deals Ice DMG to a single target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Ice"
     },
     "100402403": {
         "Key": "Skill03",
         "Name": "Garrison Aura Field",
-        "Desc": "Unleashes Shield for All and absorbs DMG taken by all friendly units, as well as preventing all friendly units from receiving damage to their Toughness.",
+        "Desc": "「全体バリア」を発動し、敵全体のダメージを防ぐ、さらに敵全体の靭性がダメージを受けなくなる。",
         "SP": 0
     },
     "100402404": {
@@ -9010,7 +9010,7 @@ var _monsterskill = {
     "100402408": {
         "Key": "Skill08",
         "Name": "Tit for Tat",
-        "Desc": "Goes into the Counter state for 1 turn. If attacked by a target while in this state, immediately use \"Smite of Frost\" on the attacker.",
+        "Desc": "カウンター状態に入り、1ターン継続。この状態の時に攻撃を受けると、攻撃者に「霜の処罰」を発動。",
         "SP": 0
     },
     "100402409": {
@@ -9046,20 +9046,20 @@ var _monsterskill = {
     "100501301": {
         "Key": "Skill01",
         "Name": "Bone-Shattering Cold",
-        "Desc": "Deals Ice DMG to a single target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice"
     },
     "100501302": {
         "Key": "Skill10",
         "Name": "Harbinger of Annihilation",
-        "Desc": "Locks Onto a single target. In the next action, use \"Soulrend Coldstream.\"",
+        "Desc": "指定した味方単体をロックオンし、次の行動でこのターゲットに「裂魂の寒流」を発動する。",
         "SP": 0
     },
     "100501303": {
         "Key": "Skill06",
         "Name": "Soulrend Coldstream",
-        "Desc": "Deals massive Ice DMG to a single target, with a high chance to Freeze the target. This ability will be additionally released on targets locked-on by Lance of the Eternal Freeze (Illusion).",
+        "Desc": "指定した味方単体に大量の氷属性ダメージを与え、高確率で攻撃を受けた味方を凍結状態にする。スキルは「無尽なる冬の槊（幻像）」がロックオンしているターゲットに対して追加で発動する。",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true
@@ -9074,20 +9074,20 @@ var _monsterskill = {
     "100501305": {
         "Key": "Skill02",
         "Name": "Heartless Annihilator Call",
-        "Desc": "Summons Lances of the Eternal Freeze (Illusion).",
+        "Desc": "「無尽なる冬の槊（幻像）」を召喚する。",
         "SP": 0
     },
     "100501306": {
         "Key": "Skill11",
         "Name": "Creator's Resolve",
-        "Desc": "Converts to Imaginary-Type, increases SPD and DMG dealt, and removes the Toughness Protection state.",
+        "Desc": "虚数属性に変わり、速度がアップ。更に攻撃の与ダメージをアップさせ、靭性保護状態を解除する。",
         "SP": 0,
         "Elem": "Imaginary"
     },
     "100501307": {
         "Key": "Skill07",
         "Name": "Genesis Chord",
-        "Desc": "Deals Imaginary DMG to a single target, with a high chance to Imprison the target. This ability will be additionally released on targets locked-on by Lance of the Eternal Freeze (Illusion).",
+        "Desc": "指定した味方単体に虚数属性ダメージを与え、高確率で攻撃を受けた味方を禁錮状態にする。スキルは「無尽なる冬の槊（幻像）」がロックオンしているターゲットに対して追加で発動する。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "Threat": true
@@ -9095,13 +9095,13 @@ var _monsterskill = {
     "100501308": {
         "Key": "Skill08",
         "Name": "The Creation's Prelude",
-        "Desc": "Enters the Charge state. The next action uses \"Last Choir of Genesis\" on all targets.",
+        "Desc": "チャージ状態に入り、次の行動で味方全体に「創世の絶唱」を発動。",
         "SP": 0
     },
     "100501309": {
         "Key": "Skill09",
         "Name": "Last Choir of Genesis",
-        "Desc": "Deals massive Imaginary DMG to all targets.",
+        "Desc": "味方全体に大量の虚数属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Imaginary",
         "Threat": true
@@ -9116,7 +9116,7 @@ var _monsterskill = {
     "100501311": {
         "Key": "SkillP01",
         "Name": "Blizzardous Crisis",
-        "Desc": "This unit and all its summoned objects gain increased DMG for each Frozen or Imprisoned target on the opposing team.",
+        "Desc": "凍結または禁錮状態の味方1人につき、自身及び召喚物の与ダメージがアップする。",
         "SP": 0
     },
     "100501312": {
@@ -9129,28 +9129,28 @@ var _monsterskill = {
     "200401301": {
         "Key": "Skill01",
         "Name": "Midnight Tumult",
-        "Desc": "Deals Lightning DMG to a single target, with a chance to Shock the target.",
+        "Desc": "指定した味方単体に雷属性ダメージを与え、確率で攻撃を受けた味方を感電状態にする。",
         "SP": 10.0,
         "Elem": "Elec"
     },
     "200401302": {
         "Key": "Skill02",
         "Name": "Caressing Moonlight",
-        "Desc": "Deals Lightning DMG to a single target and any adjacent targets. If the main target is Shocked, inflicts Shock on the adjacent targets.",
+        "Desc": "指定した味方単体および隣接する味方に雷属性ダメージを与える、メインターゲットが感電状態の場合、サブターゲットを感電状態にする。",
         "SP": 10.0,
         "Elem": "Elec"
     },
     "200401303": {
         "Key": "Skill03",
         "Name": "Silent and Sharp Mockery",
-        "Desc": "Deals Lightning DMG to all targets.",
+        "Desc": "味方全体に雷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Elec"
     },
     "200401304": {
         "Key": "Skill05",
         "Name": "Spirit Whisper",
-        "Desc": "Has a high chance of Dominating a single target and Advancing their action forward to immediately use their Basic ATK on a random ally of theirs.",
+        "Desc": "高確率で指定した味方単体を「支配」状態にし、行動順を早め、他の味方1名をランダムに攻撃させる。",
         "SP": 15.0,
         "Threat": true
     },
@@ -9164,86 +9164,86 @@ var _monsterskill = {
     "200401306": {
         "Key": "PassiveSkill01",
         "Name": "Oppression",
-        "Desc": "Attaches Outsourcing to the action bar. Every time Outsourcing takes action, summons  2.0  IPC Workers. Up to  2.0  IPC Workers can exist on the battlefield at one time.",
+        "Desc": "アクションバーに「派遣」を追加する。「派遣」が行動する時、スターピースカンパニー社員を 2.0 名召喚する。フィールド上に同時存在できる社員は最大 2.0 名まで。",
         "SP": 0
     },
     "200401307": {
         "Key": "Skill07",
         "Name": "Psychological Suggestion",
-        "Desc": "Applies Psychological Suggestion to multiple targets, and adds Revelation onto the action bar. The next time Revelation takes action, any targets with Psychological Suggestion will become Dominated.",
+        "Desc": "複数の味方を「心理暗示」状態にし、アクションバーに「公開」を追加する。次に「公開」が行動する時、「心理暗示」にかかった味方は「支配」状態になる。",
         "SP": 0,
         "Threat": true
     },
     "200401308": {
         "Key": "PassiveSkill03",
         "Name": "Tremble",
-        "Desc": "If the target is currently Shocked, immediately cause Shock DMG 1 time.",
+        "Desc": "攻撃を受けたターゲットが感電状態の場合、感電ダメージを1回与える、このダメージは感電状態によるものとみなす。",
         "SP": 0
     },
     "200401309": {
         "Key": "Skill06",
         "Name": "Cruelty",
-        "Desc": "When friendly units (apart from Kafka) or Dominated targets attack the Shocked main target, unleash an extra Lightning attack.",
+        "Desc": "カフカ以外の敵、または「支配」状態の味方が感電状態の味方をメインターゲットとして攻撃した時、さらに雷属性攻撃を1回行う。",
         "SP": 10.0,
         "Elem": "Elec"
     },
     "200401310": {
         "Key": "PassiveSkill02",
         "Name": "Griever",
-        "Desc": "Every time a target becomes afflicted with Shock, Kafka's DMG increases.",
+        "Desc": "味方が感電状態を触発した時、カフカ自身の与ダメージがアップする。",
         "SP": 0
     },
     "200401311": {
         "Key": "PassiveSkill04",
         "Name": "Oppression",
-        "Desc": "Attaches Outsourcing to the action bar. Every time Outsourcing takes action, summons  4.0  IPC Workers. Up to  4.0  IPC Workers can exist on the battlefield at one time.",
+        "Desc": "アクションバーに「派遣」を追加する。「派遣」が行動する時、スターピースカンパニー社員を 4.0 名召喚する。フィールド上に同時存在できる社員は最大 4.0 名まで。",
         "SP": 0
     },
     "200401312": {
         "Key": "Skill08",
         "Name": "Deprivation",
-        "Desc": "When Kafka acts, if any IPC Workers possess Performance Points, Kafka will seize the points and cast Caressing Moonlight. Seized Performance Points can greatly increase the DMG Kafka deals in this attack.",
+        "Desc": "カフカが行動する時、フィールド上のスターピースカンパニー社員にKPIがある場合、すべてのKPIを奪い、即座に「月明かりが撫でる連綿」を発動する。KPIはカフカのその回の攻撃ダメージを大幅にアップする。",
         "SP": 0,
         "Threat": true
     },
     "200402301": {
         "Key": "Skill01",
         "Name": "Rapturous Wind",
-        "Desc": "Deals Ice DMG to a single target, and causes all Flying Swords (Illusion) to carry out follow-up attacks that deal extra DMG.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。同時にすべての「飛剣（幻像）」に攻撃するよう命令し、追加ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice"
     },
     "200402302": {
         "Key": "Skill02",
         "Name": "Swallow Return",
-        "Desc": "Summons 4 Flying Swords (Illusion) and gains the Sword Formation effect that increases this unit's SPD. Flying Swords (Illusion) can only be destroyed once they are Weakness Broken, and their Weaknesses will be transferred to the remaining Flying Swords. After inflicting Weakness Break on all Flying Swords (Illusion), the Sword Formation effect will be dispelled.",
+        "Desc": "「飛剣（幻像）」を4本召喚して、「剣陣」効果を獲得し、自身の速度をアップさせる。「飛剣（幻像）」は弱点撃破されなければ倒すことはできず、弱点撃破された時は弱点をランダムな残っている飛剣に移す。すべての「飛剣（幻像）」が弱点撃破された時に「剣陣」が解除される。",
         "SP": 10.0,
         "Threat": true
     },
     "200402303": {
         "Key": "Skill03",
         "Name": "Ironthorn",
-        "Desc": "Deals Ice DMG to a single target, with a high chance to Freeze the target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与え、高確率で攻撃された味方を凍結状態にする。",
         "SP": 15.0,
         "Elem": "Ice"
     },
     "200402304": {
         "Key": "Skill04",
         "Name": "Ballad of Formation Breaker",
-        "Desc": "Deals Ice DMG to a single target and units adjacent to the target.",
+        "Desc": "指定した味方単体及び隣接する味方に氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice"
     },
     "200402305": {
         "Key": "Skill05",
         "Name": "Qi Advance",
-        "Desc": "Enters the Charge state. Cast Cascading Laceration on all targets in the next action.",
+        "Desc": "チャージ状態に入る。次の行動で味方全体に「天河瀉り」を発動する。",
         "SP": 10.0
     },
     "200402306": {
         "Key": "Skill06",
         "Name": "Cascading Laceration",
-        "Desc": "Deals massive Ice DMG to all targets.",
+        "Desc": "味方全体に大量の氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice",
         "Threat": true
@@ -9251,13 +9251,13 @@ var _monsterskill = {
     "200402307": {
         "Key": "Skill07",
         "Name": "Qi Converge",
-        "Desc": "Locks on to a single target. After 2 turns, use Aethereal Dreamflux on the target.",
+        "Desc": "味方単体をロックオンし、2ターン後にロックオンした味方に「風帰りて雲動き、天河瀉りし夢」を発動する。",
         "SP": 0
     },
     "200402308": {
         "Key": "Skill08",
         "Name": "Aethereal Dreamflux",
-        "Desc": "Continuously deals massive Ice DMG to a single target.",
+        "Desc": "指定した味方単体に連続で大量の氷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true
@@ -9265,7 +9265,7 @@ var _monsterskill = {
     "200402309": {
         "Key": "SkillP03",
         "Name": "Shadowless Sword Swirl",
-        "Desc": "All attacks from Yanqing and his Flying Swords (Illusion) inflict the Frostthorn state on the attacked targets, increasing Ice DMG received.",
+        "Desc": "彦卿と「飛剣（幻像）」のすべての攻撃は、攻撃を受けた味方を「霜刺」状態にし、氷属性の被ダメージをアップさせる。",
         "SP": 0
     },
     "202401301": {
@@ -9295,14 +9295,14 @@ var _monsterskill = {
     "202401305": {
         "Key": "Skill05",
         "Name": "Wavering Bleat",
-        "Desc": "Deals Lightning DMG to a single target.",
+        "Desc": "指定した味方単体に雷属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Elec"
     },
     "202401306": {
         "Key": "Skill06",
         "Name": "Caress of Wind",
-        "Desc": "Deals Wind DMG to all targets.",
+        "Desc": "味方全体に風属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Wind"
     },
@@ -9315,7 +9315,7 @@ var _monsterskill = {
     "202401308": {
         "Key": "Skill08",
         "Name": "Flamboyant Gore",
-        "Desc": "Uses this ability immediately when there are 2 Lavish Fruits on the field. Deals Lightning DMG to all targets. Deals more DMG for every Ambrosial Arbor Branch (Illusion) on the field. After the ability is used, removes all Twigs of Lavish Fruits (Illusion) on the field.",
+        "Desc": "フィールド上に「嘉実」が2つ存在する時、このスキルを発動し、味方全体に雷属性ダメージを与える。フィールド上の「建木の枝先（幻像）」の数が多いほど、与ダメージがアップする。スキル発動後、フィールド上の全ての「嘉実の梢（幻像）」を消す。",
         "SP": 20.0,
         "Elem": "Elec",
         "Threat": true
@@ -9329,19 +9329,19 @@ var _monsterskill = {
     "202401310": {
         "Key": "Skill10",
         "Name": "Pedicel: Fragrant Verdure",
-        "Desc": "Summons Ambrosial Arbor Branches: 2 Twigs of Marple Leaf (Illusion), 1 Twig of Glorious Blooms (Illusion), and 1 Twig of Wintry Wind (Illusion). When Abundant Ebon Deer's Weakness is broken, all the Ambrosial Arbor Branches will be eliminated.",
+        "Desc": "建木の枝先「黄葉の梢（幻像）」2体、「万花の梢（幻像）」1体、「厳風の梢（幻像）」1体を召喚する。豊穣の玄鹿が弱点撃破された時、フィールド上のすべての「建木の枝先」を消す。",
         "SP": 0
     },
     "202401311": {
         "Key": "Skill11",
         "Name": "Pedicel: Exuberant Shade",
-        "Desc": "Summons Ambrosial Arbor Branches: 2 Twigs of Marple Leaf (Illusion), 1 Twig of Lavish Fruits (Illusion), and 1 Twig of Wintry Wind (Illusion). When Abundant Ebon Deer's Weakness is broken, all the Ambrosial Arbor Branches will be eliminated.",
+        "Desc": "建木の枝先「黄葉の梢（幻像）」2体、「嘉実の梢（幻像）」1体、「厳風の梢（幻像）」1体を召喚する。豊穣の玄鹿が弱点撃破された時、フィールド上のすべての「建木の枝先」を消す。",
         "SP": 0
     },
     "202401312": {
         "Key": "Skill12",
         "Name": "Glorious Blooms",
-        "Desc": "Summons an Ambrosial Arbor Branch: Twig of Glorious Blooms (Illusion). Twig of Glorious Blooms (Illusion) prevents friendly units' Toughness from being depleted. This effect is removed when Ambrosial Arbor Branch: Twig of Glorious Blooms (Illusion) is defeated.",
+        "Desc": "建木の枝先「万花の抄本（幻像）」を1体召喚する。「万花の抄本（幻像）」は他の敵の靭性がダメージを受けないようにすることができる。「万花の抄本（幻像）」が倒されると、すべての靭性がダメージを受けない効果は解除される。",
         "SP": 0
     },
     "202401313": {
@@ -9353,13 +9353,124 @@ var _monsterskill = {
     "202401314": {
         "Key": "Skill14",
         "Name": "Vigor Overflow",
-        "Desc": "Every time the Abundant Ebon Deer gains a buff, DMG dealt by the Abundant Ebon Deer and all Ambrosial Arbor branches is slightly increased.",
+        "Desc": "豊穣の玄鹿がバフを獲得した時、豊穣の玄鹿とすべての建木の枝先のダメージが小幅アップする。",
+        "SP": 0
+    },
+    "302501001": {
+        "Key": "Skill01",
+        "Name": "Ability 1",
+        "Desc": "指定した味方単体に少量の虚数属性ダメージを与える。",
+        "SP": 10.0,
+        "Elem": "Imaginary"
+    },
+    "302501002": {
+        "Key": "Skill02",
+        "Name": "Ability 2",
+        "Desc": "味方全体に虚数属性ダメージを与える。",
+        "SP": 10.0,
+        "Elem": "Imaginary"
+    },
+    "302501003": {
+        "Key": "Skill03",
+        "Name": "Ability 3",
+        "Desc": "指定した味方単体を高確率で「異夢」状態にする。",
+        "SP": 0
+    },
+    "302501004": {
+        "Key": "Skill04",
+        "Name": "Ability 4",
+        "Desc": "チャージ状態に入り、次のターンで「スキル5」を発動する。",
+        "SP": 0
+    },
+    "302501005": {
+        "Key": "Skill042",
+        "Name": "Ability 8",
+        "Desc": "チャージ状態に入り、次のターンで「スキル6」を発動する。",
+        "SP": 0
+    },
+    "302501006": {
+        "Key": "Skill05",
+        "Name": "Ability 5",
+        "Desc": "行動可能なすべての召喚物が指定した味方単体に虚数属性ダメージを与える。スキル発動後、召喚物の靭性が回復する。",
+        "SP": 0,
+        "Threat": true
+    },
+    "302501007": {
+        "Key": "Skill052",
+        "Name": "Ability 5",
+        "Desc": "行動可能なすべての召喚物が指定した味方単体に虚数属性ダメージを与える。スキル発動後、召喚物の靭性が回復する。",
+        "SP": 0
+    },
+    "302501008": {
+        "Key": "Skill06",
+        "Name": "Ability 6",
+        "Desc": "味方全体に虚数属性ダメージを与え、さらに行動可能なすべての召喚物が味方全体に虚数属性ダメージを与える。スキル発動後、召喚物の靭性が回復する。",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "Threat": true
+    },
+    "302501009": {
+        "Key": "Skill07",
+        "Name": "Ability 7",
+        "Desc": "「強化状態」に入り、バリアを獲得する。与ダメージがアップし、被ダメージがダウン、さらに靭性はダメージを受けなくなる。",
+        "SP": 0
+    },
+    "302501010": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501011": {
+        "Key": "Skill09",
+        "Name": "Ability 9",
+        "Desc": "チャージ状態に入り、7ターン後に「スキル 10 」を発動する。",
+        "SP": 0
+    },
+    "302501012": {
+        "Key": "Skill10",
+        "Name": "Ability 10",
+        "Desc": "味方全体に大量の虚数属性ダメージを与える。このダメージはターゲットの防御力を 100% 無視する。",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "Threat": true
+    },
+    "302501013": {
+        "Key": "SkillP01",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501014": {
+        "Key": "SkillP02",
+        "Name": "Talent 1",
+        "Desc": "召喚物が受けるダメージはすべてピノコニーボスが負担する。自身と召喚物が弱点撃破された時、行動がさらに遅延する。さらに自身の靭性が1層撃破されるごとに、味方に「バリア状態」を付与する。",
+        "SP": 0
+    },
+    "302501101": {
+        "Key": "Skill01",
+        "Name": "Ability 1",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Imaginary"
+    },
+    "302501102": {
+        "Key": "Skill02",
+        "Name": "Ability 2",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Imaginary"
+    },
+    "302501103": {
+        "Key": "Skill03",
+        "Name": "Ability 3",
+        "Desc": "",
         "SP": 0
     },
     "202401315": {
         "Key": "Skill15",
         "Name": "Seeking Immortality",
-        "Desc": "Upon summoning Ambrosial Arbor Branch — Twig of Marple Leaf (Illusion), it gains \"Cultivation,\" greatly increasing its Retaliation DMG.",
+        "Desc": "建木の枝先「黄葉の梢（幻像）」を召喚する時、「培植」状態を獲得し、「復元」によるダメージがアップする。",
         "SP": 0
     },
     "200401313": {
@@ -9368,30 +9479,43 @@ var _monsterskill = {
         "Desc": "",
         "SP": 0
     },
+    "302201001": {
+        "Key": "Skill01",
+        "Name": "Ability 1",
+        "Desc": "味方単体に少量の虚数属性ダメージを与え、行動を少し遅延させる。",
+        "SP": 10.0,
+        "Elem": "Imaginary"
+    },
+    "302201002": {
+        "Key": "SkillP01",
+        "Name": "Talent 1",
+        "Desc": "受けたダメージがすべてピノコニーボスが受けたダメージだと見なされる。",
+        "SP": 0
+    },
     "100402501": {
         "Key": "Skill01",
         "Name": "Fist of Conviction",
-        "Desc": "Deals minor Ice DMG to a single target.",
+        "Desc": "指定した味方単体に少量の氷属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Ice"
     },
     "100402502": {
         "Key": "Skill02",
         "Name": "Smite of Frost",
-        "Desc": "Deals Ice DMG to a single target.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Ice"
     },
     "100402503": {
         "Key": "Skill03",
         "Name": "Garrison Aura Field",
-        "Desc": "Grants a Barrier to another friendly unit. The Barrier nullifies all DMG received except for DoT until after the friendly unit is attacked.",
+        "Desc": "自身以外の敵にバリアを付与する。バリアがある敵は持続ダメージ以外のすべてのダメージを防ぐ。この効果は攻撃を受けた後に解除される。",
         "SP": 0
     },
     "100402504": {
         "Key": "Skill04",
         "Name": "Frigid Waterfall",
-        "Desc": "Deals Ice DMG to all targets.",
+        "Desc": "味方全体に氷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true
@@ -9399,7 +9523,7 @@ var _monsterskill = {
     "100402513": {
         "Key": "Skill04Insert",
         "Name": "Frigid Waterfall",
-        "Desc": "Deals Ice DMG to all targets.",
+        "Desc": "味方全体に氷属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true
@@ -9427,20 +9551,20 @@ var _monsterskill = {
     "100402508": {
         "Key": "Skill12",
         "Name": "Siege Support",
-        "Desc": "Summons Silvermane Cannoneers and locks onto a single target. All friend units will attack this locked target.",
+        "Desc": "「シルバーメイン・砲兵」を召喚し、味方単体をロックオンして敵全体が集中攻撃するよう命じる。",
         "SP": 0
     },
     "100402509": {
         "Key": "SkillP04",
         "Name": "Will of Steel",
-        "Desc": "Slightly increases Gepard's SPD and ATK at the start of Gepard's turn. This effect is stackable, but is dispelled when Gepard's Weakness is broken.",
+        "Desc": "ジェパードのターンが回ってきた時、自身の速度と攻撃力をわずかにアップする。この効果は累積できる。この効果はジェパードが弱点撃破された時に解除される。",
         "SP": 15.0,
         "Elem": "Wind"
     },
     "100402510": {
         "Key": "SkillP01",
         "Name": "Thick and Thin",
-        "Desc": "When Bronya is downed, Gepard immediately takes action again and becomes Enhanced, increasing his SPD. When in this state, Frigid Waterfall has a slight chance to Freeze the attacked target.",
+        "Desc": "ブローニャが戦闘不能状態になった時、即座に行動し、強化状態に入り、自身の速度をアップする。この状態の時「極寒の激流」は低確率で攻撃を受けた敵を凍結状態にする。",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true
@@ -9448,39 +9572,39 @@ var _monsterskill = {
     "100402511": {
         "Key": "SkillP02",
         "Name": "Balanced Warfare",
-        "Desc": "Gepard and Bronya take turns switching between the Main Attacker and Support state. When in the Main Attacker state, their Toughness Protection is removed and they take normal actions. When in Support state, their SPD is reduced, they gain Toughness Protection, and they can only use Siege Support.",
+        "Desc": "ブローニャとジェパードは交互にメインアタック状態とサポート状態に入る。メインアタック状態の時は、自身の靭性保護を解除し通常通りに攻撃する。サポート状態に入ると、自身の速度をダウンさせ、靭性保護を獲得し「包囲攻撃」を発動する。",
         "SP": 15.0,
         "Elem": "Wind"
     },
     "100402512": {
         "Key": "SkillP03",
         "Name": "Balanced Warfare",
-        "Desc": "Gepard and Bronya take turns switching between the Main Attacker and Support state. When in the Main Attacker state, their Toughness Protection is removed and they take normal actions. When in Support state, their SPD is reduced, they gain Toughness Protection, and they can only use Garrison Aura Field and Siege Support.",
+        "Desc": "ブローニャとジェパードは交互にメインアタック状態とサポート状態に入る。メインアタック状態の時は、自身の靭性保護を解除し通常通りに攻撃する。サポート状態に入ると、自身の速度をダウンさせ、靭性保護を獲得し「戍衛のオーラ」と「包囲攻撃」を発動する。",
         "SP": 0
     },
     "100403201": {
         "Key": "Skill01",
         "Name": "Windrider Bullet",
-        "Desc": "Deals Wind DMG to a single target.",
+        "Desc": "指定した味方単体に風属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Wind"
     },
     "100403202": {
         "Key": "Skill02",
         "Name": "Combat Redeployment",
-        "Desc": "Dispels all debuffs on a friendly unit except Bronya, and causes this unit to take action immediately.",
+        "Desc": "ブローニャ以外の指定した敵単体のすべてのデバフを解除し、即座に行動させる。",
         "SP": 0
     },
     "100403203": {
         "Key": "Skill03",
         "Name": "Coordinated Reinforcement",
-        "Desc": "Summons Silvermane Cannoneers.",
+        "Desc": "「シルバーメイン・砲兵」を召喚する。",
         "SP": 0
     },
     "100403204": {
         "Key": "Skill04",
         "Name": "Suppressive Fire",
-        "Desc": "Deals Wind DMG to a single target and delays their action.",
+        "Desc": "指定した味方単体に風属性ダメージを与え、攻撃を受けた味方の行動順を遅らす。",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true
@@ -9488,20 +9612,20 @@ var _monsterskill = {
     "100403205": {
         "Key": "Skill05",
         "Name": "Marching Orders",
-        "Desc": "Increases SPD of all friendly units.",
+        "Desc": "敵全体の速度をアップ。",
         "SP": 0
     },
     "100403206": {
         "Key": "SkillP04",
         "Name": "Carried By Inertia",
-        "Desc": "Slightly increases Bronya's SPD and ATK at the start of her turn. This effect is stackable, but is dispelled when Bronya's Weakness is broken.",
+        "Desc": "ブローニャのターンが回ってきた時、自身の速度と攻撃力をわずかにアップする。この効果は累積できる。この効果はブローニャが撃破された時に解除される。",
         "SP": 15.0,
         "Elem": "Wind"
     },
     "100403207": {
         "Key": "SkillP01",
         "Name": "Shared Hatred",
-        "Desc": "When Gepard is downed, Bronya immediately takes action again and becomes Enhanced, increasing her SPD. When in this state, Bronya will summon even more Silvermane Cannoneers.",
+        "Desc": "ジェパードが戦闘不能状態になった時、即座に行動し、強化状態に入り、自身の速度をアップする。この状態の時、ブローニャはより多くの「シルバーメイン・砲兵」を召喚する。",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true
@@ -9509,7 +9633,7 @@ var _monsterskill = {
     "100403208": {
         "Key": "SkillP02",
         "Name": "Tacit Teamwork",
-        "Desc": "Gepard and Bronya take turns switching between the Main Attacker and Support state. When in the Main Attacker state, their Toughness Protection is removed and they take normal actions. When in Support state, their SPD is reduced, they gain Toughness Protection, and they can only use Coordinated Reinforcement and Combat Redeployment.",
+        "Desc": "ブローニャとジェパードは交互にメインアタック状態とサポート状態に入る。メインアタック状態の時は、自身の靭性保護を解除し通常通りに攻撃する。サポート状態に入ると、自身の速度をダウンさせ、靭性保護を獲得し「増援協力」または「作戦再展開」を発動する。",
         "SP": 15.0,
         "Elem": "Wind"
     },
@@ -9522,7 +9646,7 @@ var _monsterskill = {
     "301201001": {
         "Key": "Skill01",
         "Name": "Mirror Cognition",
-        "Desc": "Shapeshift into other friendly units and copies their abilities. After shapeshifting, this unit's Base Stats are inherited.",
+        "Desc": "他の敵に変身し、変身対象のスキルをコピーする。変身後、自身の基礎ステータスを継承する。",
         "SP": 0
     },
     "301201002": {
@@ -9534,40 +9658,40 @@ var _monsterskill = {
     "302401110": {
         "Key": "SkillP01",
         "Name": "Martyrdom of Grandiosity",
-        "Desc": "After every use of Hymn of Gorgeous Courage, increases DMG. This effect is stackable.",
+        "Desc": "「純美の勇気賛歌」を発動するたびに、自身の与ダメージがアップする。与ダメージアップ効果は累積できる。",
         "SP": 0
     },
     "302401201": {
         "Key": "Skill01",
         "Name": "Piety",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 15.0,
         "Elem": "Phys"
     },
     "302401202": {
         "Key": "Skill02",
         "Name": "Imbue Devotion",
-        "Desc": "Deals Physical DMG to a single target and units adjacent to the target.",
+        "Desc": "指定した味方単体および隣接する味方に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys"
     },
     "302401203": {
         "Key": "Skill03",
         "Name": "Spear & Shield",
-        "Desc": "Randomly summons statues of \"Speartip,\" \"The Shield,\" and \"The Honored.\"",
+        "Desc": "ランダムで「槍先」、「盾」、「叙勲」の彫刻を召喚する。",
         "SP": 0
     },
     "302401204": {
         "Key": "Skill04",
         "Name": "Soul of Tenacity",
-        "Desc": "Casts a Soul of Beauty from one of the statues and causes the ability of the Soulfreed statue to be enhanced.",
+        "Desc": "彫刻の中の純美の魂を1つ解放する。魂を解放された彫刻のスキル効果が強化される。",
         "SP": 0,
         "Threat": true
     },
     "302401205": {
         "Key": "Skill05",
         "Name": "Hymn of Gorgeous Courage",
-        "Desc": "Deals Physical DMG to all targets.",
+        "Desc": "味方全体に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "Threat": true
@@ -9575,13 +9699,13 @@ var _monsterskill = {
     "302401207": {
         "Key": "Skill07",
         "Name": "Spear & Shield",
-        "Desc": "Randomly summons statues of \"Speartip,\" \"The Shield,\" and \"The Honored.\"",
+        "Desc": "ランダムで「槍先」、「盾」、「叙勲」の彫刻を召喚する。",
         "SP": 0
     },
     "301101001": {
         "Key": "Skill01",
         "Name": "Glare of the Other",
-        "Desc": "Deals minor Quantum DMG to a single target and delays the attacked target's action.",
+        "Desc": "指定した味方単体に少量の量子属性ダメージを与え、攻撃を受けた味方の行動順を遅延させる。",
         "SP": 10.0,
         "Elem": "Quantum",
         "DMG": [
@@ -9591,7 +9715,7 @@ var _monsterskill = {
     "201302004": {
         "Key": "Skill04",
         "Name": "Heaven's Fall",
-        "Desc": "Deals massive Physical DMG to a single ally. If the target is afflicted with Strong Reverberation, they additionally take Physical DMG, and Strong Reverberation is then dispelled.",
+        "Desc": "指定した味方単体に大量の物理ダメージを与える。その味方が「強烈震とう」状態の場合、さらに物理ダメージを与え、「強烈震とう」状態を解除させる。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -9606,7 +9730,7 @@ var _monsterskill = {
     "201302006": {
         "Key": "Skill06",
         "Name": "Heaven's Fall",
-        "Desc": "Deals massive Physical DMG to a single ally. If the target is afflicted with Strong Reverberation, they additionally take Physical DMG, and Strong Reverberation is then dispelled.",
+        "Desc": "指定した味方単体に大量の物理ダメージを与える。その味方が「強烈震とう」状態の場合、さらに物理ダメージを与え、「強烈震とう」状態を解除させる。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -9620,7 +9744,7 @@ var _monsterskill = {
     "201302104": {
         "Key": "Skill04",
         "Name": "Heaven's Fall",
-        "Desc": "Deals Physical DMG to a single ally. If the target is afflicted with Strong Reverberation, they additionally take Physical DMG, and Strong Reverberation is then dispelled.",
+        "Desc": "指定した味方単体に物理ダメージを与える。その味方が「強烈震とう」状態の場合、さらに物理ダメージを与え、「強烈震とう」状態を解除させる。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -9635,7 +9759,7 @@ var _monsterskill = {
     "201302107": {
         "Key": "Skill06",
         "Name": "Heaven's Fall",
-        "Desc": "Deals Physical DMG to a single ally. If the target is afflicted with Strong Reverberation, they additionally take Physical DMG, and Strong Reverberation is then dispelled.",
+        "Desc": "指定した味方単体に物理ダメージを与える。その味方が「強烈震とう」状態の場合、さらに物理ダメージを与え、「強烈震とう」状態を解除させる。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -9649,20 +9773,20 @@ var _monsterskill = {
     "803301201": {
         "Key": "Skill01",
         "Name": "Disciplined",
-        "Desc": "Deals minor Physical DMG to a single target.",
+        "Desc": "指定した味方単体に少量の物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys"
     },
     "803301203": {
         "Key": "Skill02",
         "Name": "In Training...",
-        "Desc": "Enters the Charge state. Uses Work Culture Shock in the next action.",
+        "Desc": "チャージ状態に入り、次の行動で「企業カルチャーショック」を発動する。",
         "SP": 0
     },
     "803301204": {
         "Key": "Skill03",
         "Name": "Work Culture Shock",
-        "Desc": "Deals Physical DMG to all targets.",
+        "Desc": "味方全体に物理ダメージを与える。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true
@@ -9670,57 +9794,236 @@ var _monsterskill = {
     "803301205": {
         "Key": "Skill04",
         "Name": "720-Degree Review",
-        "Desc": "Seizes all Performance Points from all Grunt: Field Personnel and Grunt: Security Personnel.",
+        "Desc": "すべての「平社員・外勤」と「平社員・警備」の「KPI」を奪う。",
         "SP": 0
     },
     "803301206": {
         "Key": "Skill05",
         "Name": "Team Building",
-        "Desc": "Summons Grunt: Field Personnel or Grunt: Security Personnel, then cause all Grunts: Field Personnel and Grunts: Security Personnel to acquire 1 Performance Point.",
+        "Desc": "「平社員・外勤」または「平社員・警備」を召喚する。すべての「平社員・外勤」と「平社員・警備」が「KPI」を1獲得する。",
         "SP": 0
     },
     "803301202": {
         "Key": "Skill06",
         "Name": "Cost Reduction",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 15.0,
         "Elem": "Phys"
     },
     "803301207": {
         "Key": "PassiveSkillInitiate",
         "Name": "Performance Boost",
-        "Desc": "Receives 1 Performance Point after unleashing an attack. Performance Points can be seized by the attacker when this unit's Weakness is Broken or this unit receives a killing blow.",
+        "Desc": "攻撃を行うたびに「KPI」を1獲得する。自身が弱点撃破された時、またはHPが0になる攻撃を受けた時、攻撃者が「KPI」を奪う。",
         "SP": 0
     },
     "202401316": {
         "Key": "Skill16",
         "Name": "Surrounded Protection",
-        "Desc": "When there are 4 Ambrosial Arbor branches on the field, the Toughness of the Abundant Ebon Deer cannot be depleted. The effect expires when any Ambrosial Arbor branch is defeated.",
+        "Desc": "フィールドに建木の枝先が4つある場合、豊穣の玄鹿の靭性はダメージを受けない。任意の建木の枝先を倒すとこの効果は解除される。",
         "SP": 0
+    },
+    "300303001": {
+        "Key": "Skill01",
+        "Name": "Cleansing Flagellation",
+        "Desc": "指定する味方1体に物理ダメージを与え、攻撃された味方の行動がわずかに遅くなる。",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "300303002": {
+        "Key": "Skill03",
+        "Name": "Admonishment of the Masses",
+        "Desc": "指定する味方1体および隣り合うキャラに少量の物理ダメージを与え、攻撃された味方の行動がわずかに遅くなる。",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "300303003": {
+        "Key": "Skill04",
+        "Name": "Shackle-Bearing Messenger",
+        "Desc": "対象1体をロックオンしてチャージ状態にし、次の行動で【籠の中の福音】を発動する。チャージ中に攻撃されると、攻撃を発動した味方チームを同時にロックオンする。",
+        "SP": 0,
+        "Elem": "Phys"
+    },
+    "300303004": {
+        "Key": "Skill05",
+        "Name": "Desmios Evangelion",
+        "Desc": "大量の物理ダメージを与え、ロックオンされている味方キャラにダメージを分担する。",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "Threat": true
+    },
+    "300303005": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "300303006": {
+        "Key": "Skill06",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "300303007": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "Threat": true
+    },
+    "300304001": {
+        "Key": "Skill01",
+        "Name": "All Is Bright",
+        "Desc": "指定する味方1人に虚数属性のダメージを与える。",
+        "SP": 5.0,
+        "Elem": "Imaginary"
+    },
+    "300304002": {
+        "Key": "Skill02",
+        "Name": "All Is Calm",
+        "Desc": "高確率で味方1人を【異夢】状態にする。",
+        "SP": 10.0
+    },
+    "300304003": {
+        "Key": "Skill03",
+        "Name": "Redeeming Grace",
+        "Desc": "指定する味方1人に虚数属性のダメージを与える。",
+        "SP": 15.0,
+        "Elem": "Imaginary"
+    },
+    "300304004": {
+        "Key": "Skill04",
+        "Name": "Holy Night",
+        "Desc": "チャージ状態となり、次の行動で【安らかな眠りの享受】を発動する。",
+        "SP": 10.0
+    },
+    "300304005": {
+        "Key": "Skill05",
+        "Name": "Sleep In Heavenly Peace",
+        "Desc": "高確率で味方全員を【異夢】状態にする。",
+        "SP": 15.0,
+        "Threat": true
+    },
+    "300304006": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "",
+        "Desc": "",
+        "SP": 0,
+        "Elem": "Imaginary"
+    },
+    "300304007": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "Threat": true
+    },
+    "300305001": {
+        "Key": "Skill01",
+        "Name": "Precious Blood Shed For You",
+        "Desc": "指定する味方1体を高確率で【盲目の宴】または【宴の罪】状態にする。",
+        "SP": 5.0,
+        "Elem": "Wind"
+    },
+    "300305002": {
+        "Key": "Skill02",
+        "Name": "Feast That Is Set For You",
+        "Desc": "指定する味方全員を高確率で【宴荒らしの罪】または【宴の罪】状態にする。",
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "300305003": {
+        "Key": "Skill03",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Wind"
+    },
+    "300305004": {
+        "Key": "Skill04",
+        "Name": "A Cup Runneth Over For You",
+        "Desc": "チャージ状態になり、味方全員を高確率で【宴荒らしの罪】または【宴の罪】状態にする。次の行動で【君がため一切の罪をすすぐ】を発動する。",
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "300305005": {
+        "Key": "Skill05",
+        "Name": "Wash Away All Sins For You",
+        "Desc": "味方全員の現在受けているすべての持続ダメージを即時発生させ、持続ダメージ系デバフが解除される。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Threat": true
+    },
+    "300305006": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "",
+        "Desc": "",
+        "SP": 0,
+        "Elem": "Wind"
+    },
+    "300305007": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Threat": true
     },
     "200402310": {
         "Key": "Skill02_Extra",
         "Name": "Swallow Return",
-        "Desc": "Summons 4 Flying Swords (Illusion) and gains the Sword Formation effect that increases this unit's SPD. The Flying Swords' Weaknesses will be hidden initially and are revealed once they are attacked by the correct DMG type. Flying Swords (Illusion) can only be destroyed once they are Weakness Broken, and their Weaknesses will be transferred to the remaining Flying Swords. After inflicting Weakness Break on all Flying Swords (Illusion), the Sword Formation effect will be dispelled.",
+        "Desc": "「飛剣（幻像）」を4本召喚して、「剣陣」効果を獲得し、自身の速度をアップさせる。最初「飛剣（幻像）」の弱点属性は隠されているが、弱点属性に合致する攻撃を受けた後に、この効果は解除される。「飛剣（幻像）」は弱点撃破されなければ倒すことはできず、弱点撃破された時は弱点をランダムな残っている飛剣に移す。すべての「飛剣（幻像）」が弱点撃破された時に「剣陣」が解除される。",
         "SP": 10.0,
         "Threat": true
+    },
+    "300202001": {
+        "Key": "Skill04",
+        "Name": "Hotluck",
+        "Desc": "味方単体に物理ダメージを与える。",
+        "SP": 15.0,
+        "Elem": "Phys"
+    },
+    "300202002": {
+        "Key": "PassiveSkill02",
+        "Name": "Dreamjolt Prizepool",
+        "Desc": "指定されたタイプの攻撃で致命攻撃を受けると、攻撃タイプに応じて異なる効果が発動する。",
+        "SP": 0
+    },
+    "300202003": {
+        "Key": "Skill01",
+        "Name": "You Lose!",
+        "Desc": "通常攻撃で致命攻撃を受けた時、味方のSPを回復する。",
+        "SP": 0
+    },
+    "300202004": {
+        "Key": "Skill02",
+        "Name": "Guaranteed!",
+        "Desc": "戦闘スキルまたは追加攻撃で致命攻撃を受けた時、味方全体のEPを回復する。",
+        "SP": 0
+    },
+    "300202005": {
+        "Key": "Skill03",
+        "Name": "Here Come the Goods!",
+        "Desc": "必殺技で致命攻撃を受けた時、味方全体のEPを回復する。",
+        "SP": 0
     },
     "301203101": {
         "Key": "Skill01",
         "Name": "Slumber Awakening",
-        "Desc": "After Sombrous Sepulcher receives a killing blow, dispels Morbid Dream from the corresponding target, restoring their HP and regenerating Energy.",
+        "Desc": "永眠の墓碑がHPが0になる攻撃を受けた後、対応する味方の「夢死」状態を解除し、そのHPとEPを回復する。",
         "SP": 0
     },
     "301203102": {
         "Key": "Skill02",
         "Name": "Temporal Departure",
-        "Desc": "Sombrous Sepulcher will not take action.",
+        "Desc": "永眠の墓碑は行動しない。",
         "SP": 0
     },
     "301203103": {
         "Key": "SkillP01",
         "Name": "Eternal Continuation",
-        "Desc": "Sombrous Sepulcher has a fixed amount of HP bars. Each time it is attacked, Weakness Broken, or receives DMG from DoT, 1 bar of HP will be depleted.",
+        "Desc": "永眠の墓碑は固定のマス数を持つ「回数HP」を持っている。攻撃を受ける、弱点撃破される、または持続ダメージを受ける時、HPが1マス減る。",
         "SP": 0
     },
     "301203104": {
@@ -9730,10 +10033,28 @@ var _monsterskill = {
         "SP": 0,
         "Elem": "Phys"
     },
+    "301204001": {
+        "Key": "Skill01",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "301204002": {
+        "Key": "Skill02",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "301204003": {
+        "Key": "SkillP01",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
     "300301101": {
         "Key": "Skill01",
         "Name": "Ladle Swirl",
-        "Desc": "Deals Fire DMG to a single target.",
+        "Desc": "味方単体に炎属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Fire",
         "DMG": [
@@ -9743,7 +10064,7 @@ var _monsterskill = {
     "300301102": {
         "Key": "Skill02",
         "Name": "Tornado Toss",
-        "Desc": "Deals minor Fire DMG to a single target and adjacent targets.",
+        "Desc": "味方単体および隣接する味方に少量の炎属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Fire",
         "DMG": [
@@ -9754,14 +10075,14 @@ var _monsterskill = {
     "300301103": {
         "Key": "Skill06",
         "Name": "Ignite Stove",
-        "Desc": "Enters the Charge state. Uses Flaming Stir-Fry for the next action.",
+        "Desc": "チャージ状態に入り、次の行動で「爆裂炒め」を発動。",
         "SP": 0,
         "Elem": "Fire"
     },
     "300301104": {
         "Key": "Skill04",
         "Name": "Flaming Stir-Fry",
-        "Desc": "Deals massive Fire DMG to all targets.",
+        "Desc": "味方全体に大量の炎属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Fire",
         "Threat": true,
@@ -9772,20 +10093,20 @@ var _monsterskill = {
     "300301105": {
         "Key": "Skill05",
         "Name": "Kitchen Mishap",
-        "Desc": "After entering the Charge state, deals massive Fire DMG to all friendly units and decreases this unit's DEF once Stove Heating has a certain number of stacks. Then, regenerate Energy to all allies.",
+        "Desc": "チャージ状態に入った後、「コンロ加熱」が一定層数に達した時、敵全体に大量の炎属性ダメージを与え、自身の防御力をダウンさせ、味方全体のEPを回復する。",
         "SP": 0,
         "Elem": "Fire"
     },
     "300301106": {
         "Key": "Skill03",
         "Name": "Flame-Forged Feast",
-        "Desc": "While not under the Charge state, immediately takes action when Stove Heating reaches a certain number of stacks, and uses Ignite Stove.",
+        "Desc": "チャージ状態に入ってない場合、「コンロ加熱」が一定層数に達した時、即座に行動し、「コンロ点火」を発動する。",
         "SP": 0
     },
     "300301107": {
         "Key": "PassiveSkillInitiate",
         "Name": "Inferno Stove",
-        "Desc": "When attacking, this unit has a chance to Slow the target. When this unit is attacked or takes DoT, gains 1 stack of Stove Heating.",
+        "Desc": "自身が攻撃を行う時、確率で味方に減速状態を付与する。自身が攻撃を受ける、または持続ダメージを受ける時、「コンロ加熱」を1層獲得する。",
         "SP": 0,
         "Status": [
             230030104,
@@ -9795,19 +10116,19 @@ var _monsterskill = {
     "300302103": {
         "Key": "Skill03",
         "Name": "SoulGlad Party",
-        "Desc": "Summons 2 Bubble Hounds.",
+        "Desc": "「ソーダドッグ」を2体召喚する。",
         "SP": 0
     },
     "300302104": {
         "Key": "Skill04",
         "Name": "Celebration Fountain",
-        "Desc": "Enters the Charge state and gains Toughness Protection. When taking action the next time, uses Unlimited Free Drinks. At the same time, marks a random target for Monitoring. Any target that uses their Skill will become the new Monitored target. While in this state, this unit's action will be Advanced Forward when attacked.",
+        "Desc": "チャージ状態に入り、靭性保護を獲得する。次の行動で「フリードリンク（飲み放題）」を発動する。同時にランダムな味方単体を警戒ターゲットとしてマークする。味方が戦闘スキルを発動した時、マークする対象が最後に戦闘スキルを発動した味方に変わる。この状態では、攻撃を受けるたびに自身の行動順が早まる。",
         "SP": 0
     },
     "302402101": {
         "Key": "Skill01",
         "Name": "BHF: Fiery Advance",
-        "Desc": "Deals minor Fire DMG to a single target.",
+        "Desc": "指定した味方単体に少量の炎属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Fire",
         "DMG": [
@@ -9817,7 +10138,7 @@ var _monsterskill = {
     "302402102": {
         "Key": "Skill02",
         "Name": "BHF: Heavenly Fire",
-        "Desc": "Deals minor Fire DMG to a single target and any adjacent targets.",
+        "Desc": "指定した味方単体および隣接する味方に少量の炎属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Fire",
         "DMG": [
@@ -9828,7 +10149,7 @@ var _monsterskill = {
     "302402103": {
         "Key": "Skill03",
         "Name": "BBHF: Scorched Earth",
-        "Desc": "Deals minor Fire DMG to all targets.",
+        "Desc": "味方全体に少量の炎属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Fire",
         "DMG": [
@@ -9838,14 +10159,14 @@ var _monsterskill = {
     "302402104": {
         "Key": "Skill04",
         "Name": "DHGDR: Secondary Combustion",
-        "Desc": "Consumes HP to enter the Secondary Combustion state and dispels the Weakness Protected effect. Becomes significantly more powerful in this state, but all attacks consume HP.",
+        "Desc": "自身のHPを消費し、「二次燃焼」に入り「弱点無効」を解除する。「二次燃焼」に入ると自身を大幅に強化するが、攻撃を行うたびに自身のHPを消費する。",
         "SP": 0,
         "Threat": true
     },
     "302402105": {
         "Key": "Skill05",
         "Name": "DHGDR: Supernova Overload",
-        "Desc": "Deals Fire DMG to all targets, with a high chance to Burn them.",
+        "Desc": "味方全体に炎属性ダメージを与え、高確率で攻撃を受けた味方を燃焼状態にする。",
         "SP": 20.0,
         "Elem": "Fire",
         "Threat": true,
@@ -9857,7 +10178,7 @@ var _monsterskill = {
     "302402106": {
         "Key": "PassiveSkill01",
         "Name": "SGE: Molten Core",
-        "Desc": "After entering Secondary Combustion, Combusts the area and targets' Skill Points. When consuming Combusted Skill Points, targets lose HP and additionally deal a set amount of Fire DMG equal to a certain percentage of the original DMG. When they receive healing from other characters, the amount of HP restored is massively reduced.",
+        "Desc": "「二次燃焼」状態に入った後、フィールドと味方のSPを燃やす。味方が燃えるSPを消費するとHPを消費し、さらに敵に本来のダメージ一定割合分の炎属性固定ダメージを与える。他の味方に治癒される時の回復量が大幅にダウンする。",
         "SP": 0,
         "DMG": [
             2.4
@@ -9866,51 +10187,51 @@ var _monsterskill = {
     "202401401": {
         "Key": "Skill01",
         "Name": "Pedicel: Wintry Wind",
-        "Desc": "Summons Ambrosial Arbor branch \"Twig of Wintry Wind\"",
+        "Desc": "建木の枝先「厳風の梢」を召喚する。",
         "SP": 0
     },
     "202401402": {
         "Key": "Skill02",
         "Name": "Pedicel: Marple Leaf",
-        "Desc": "Summons Ambrosial Arbor branch \"Twig of Marple Leaf\"",
+        "Desc": "建木の枝先「黄葉の梢」を召喚する。",
         "SP": 0
     },
     "202401403": {
         "Key": "Skill03",
         "Name": "Pedicel: Glorious Blooms",
-        "Desc": "Summons Ambrosial Arbor branch \"Twig of Glorious Blooms\"",
+        "Desc": "建木の枝先「万花の梢」を召喚する。",
         "SP": 0
     },
     "202401404": {
         "Key": "Skill04",
         "Name": "Pedicel: Lavish Fruits",
-        "Desc": "Summons Ambrosial Arbor branch \"Twig of Lavish Fruits.\"",
+        "Desc": "建木の枝先「嘉実の梢」を召喚する。",
         "SP": 0
     },
     "202401405": {
         "Key": "Skill05",
         "Name": "Wavering Bleat",
-        "Desc": "Deals Lightning DMG to a single target.",
+        "Desc": "指定した味方単体に雷属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Elec"
     },
     "202401406": {
         "Key": "Skill06",
         "Name": "Caress of Wind",
-        "Desc": "Deals minor Wind DMG to all targets.",
+        "Desc": "味方全体に少量の風属性ダメージを与える。",
         "SP": 15.0,
         "Elem": "Wind"
     },
     "202401407": {
         "Key": "Skill07",
         "Name": "Hardy Leaf Sheath",
-        "Desc": "Increases DEF. Toughness cannot be reduced.",
+        "Desc": "防御力をアップし、靭性がダメージを受けなくなる。",
         "SP": 0
     },
     "202401408": {
         "Key": "Skill08",
         "Name": "Flamboyant Gore",
-        "Desc": "Uses this ability immediately when there are 2 Lavish Fruits on the field. Deals Lightning DMG to all targets. Deals more damage for every \"Ambrosial Arbor Branches\" on the field. After the ability is used, remove all \"Ambrosial Arbor Branches\" on the field.",
+        "Desc": "フィールド上に「嘉実」が2つ存在する時、このスキルを発動し、味方全体に雷属性ダメージを与える。フィールド上の「建木の枝先」の数が多いほど、与ダメージがアップする。スキル発動後、フィールド上のすべての「建木の枝先」を消す。",
         "SP": 20.0,
         "Elem": "Elec",
         "Threat": true
@@ -9924,7 +10245,7 @@ var _monsterskill = {
     "300205101": {
         "Key": "Skill01",
         "Name": "The Can's Trials",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "味方単体に物理ダメージを与える。",
         "SP": 0,
         "Elem": "Phys",
         "DMG": [
@@ -9934,19 +10255,19 @@ var _monsterskill = {
     "300205102": {
         "Key": "Skill02",
         "Name": "The Can's Tribulations",
-        "Desc": "Increases this unit's ATK. This effect is stackable and unremoveable.",
+        "Desc": "自身の攻撃力をアップする。この効果は累積でき、解除されない。",
         "SP": 0
     },
     "300205103": {
         "Key": "SkillP01",
         "Name": "The Can's Creed",
-        "Desc": "When this unit's Weakness is Broken, Weakness will be Broken for all friendly units except Lordly Trashcan (Projection). At the same time, this unit will exit the battle. When attacked, Weaknesses corresponding to the attack's Type will be implanted.",
+        "Desc": "自身が弱点撃破されると、「王のゴミ箱（投影）」を除くすべての敵が弱点撃破され、自身は戦闘を離脱する。味方の攻撃を受ける時、その回の攻撃に対応する属性を弱点として付与される。",
         "SP": 0
     },
     "301402101": {
         "Key": "Skill01",
         "Name": "Funereal Kiss",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -9956,7 +10277,7 @@ var _monsterskill = {
     "301402102": {
         "Key": "Skill02",
         "Name": "Sunken Rain",
-        "Desc": "Deals Physical DMG to all targets.",
+        "Desc": "味方全体に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -9966,7 +10287,7 @@ var _monsterskill = {
     "301402103": {
         "Key": "Skill03",
         "Name": "Biting Obituary",
-        "Desc": "Greatly increases DMG dealt for 1 turn. This effect is removed when this unit becomes Weakness Broken.",
+        "Desc": "自身の与ダメージを大幅アップする、1ターン継続。この効果は弱点撃破された後に解除される。",
         "SP": 0,
         "Status": [
             230140207
@@ -9975,7 +10296,7 @@ var _monsterskill = {
     "301402104": {
         "Key": "Skill04",
         "Name": "Fading Radiance",
-        "Desc": "Enters the Sunset state. Gains 1 stack each time a character uses Basic ATK, Skill, or Ultimate. When Sunset reaches 3 stacks, immediately use Losing Eventide Light on the last-acting target. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken.",
+        "Desc": "「日没」状態に入る。味方が通常攻撃、戦闘スキル、または必殺技を発動するたびに「日没」を1層獲得する。「日没」が3層に達した時、一つ前に行動した味方に対して「黄昏に色褪せて」を発動する。「黄昏に色褪せて」を1回発動した後、または弱点撃破された後に、この状態は解除される。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -9985,7 +10306,7 @@ var _monsterskill = {
     "301402105": {
         "Key": "Skill05",
         "Name": "Losing Eventide Light",
-        "Desc": "Immediately launches a killing blow on the last-acting target who used Basic ATK, Skill, or Ultimate, and inflicts Morbid Dream on them.",
+        "Desc": "最後に通常攻撃、戦闘スキル、または必殺技を発動した味方に致命攻撃を行い、その味方を「夢死」状態にする。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -9995,7 +10316,7 @@ var _monsterskill = {
     "301402106": {
         "Key": "Skill06",
         "Name": "Go Into That Good Night",
-        "Desc": "Enters the Nightfall state and locks onto the 2 targets who are due to act next. Uses Watery Dissolution in the next action.",
+        "Desc": "「夜の到来」状態に入り、味方全体のEPを回復する。「夜の降臨」状態の間で最初に行動した味方2名をロックオンする。次の行動で「水が水に消え逝くように」を発動する。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -10005,7 +10326,7 @@ var _monsterskill = {
     "301402107": {
         "Key": "Skill07",
         "Name": "Watery Dissolution",
-        "Desc": "Immediately launches a killing blow on all locked-on targets and inflicts Morbid Dream on them. If there are no locked-on targets, launch a killing blow on 2 random targets and inflict Morbid Dream on them.",
+        "Desc": "ロックオンされたすべての味方に致命攻撃を行い、「夢死」状態にする。ロックオンされた味方がない場合、ランダムな味方2名に致命攻撃を行い、「夢死」状態にする。",
         "SP": 0,
         "Threat": true
     },
@@ -10018,13 +10339,13 @@ var _monsterskill = {
     "301402109": {
         "Key": "PassiveSkill02",
         "Name": "Sad True Lover Never Find My Grave",
-        "Desc": "Whenever a target gets inflicted with Morbid Dream, summons a corresponding Sombrous Sepulcher. When all targets get inflicted with Morbid Dream or are knocked down, this battle will be considered a defeat.",
+        "Desc": "味方が「夢死」状態になった時、対応する「永眠の墓碑」を1体召喚する。味方全体が「夢死」状態になる、または戦闘不能状態になると、戦闘失敗になる。",
         "SP": 0
     },
     "301301001": {
         "Key": "Skill01",
         "Name": "Grudging Courtesy",
-        "Desc": "Deals Quantum DMG to a single target and gains 1 stack of Obscure Blaze.",
+        "Desc": "指定した味方単体に量子属性のダメージを与える。さらに自身が「怒りの炎」を1層獲得する。",
         "SP": 10.0,
         "Elem": "Quantum",
         "DMG": [
@@ -10037,7 +10358,7 @@ var _monsterskill = {
     "301301002": {
         "Key": "Skill04",
         "Name": "Roar of Furious Thunder",
-        "Desc": "Gains 3 stacks of Obscure Blaze.",
+        "Desc": "自身に「怒りの炎」を3層付与する。",
         "SP": 0,
         "Status": [
             230130101
@@ -10046,7 +10367,7 @@ var _monsterskill = {
     "301301003": {
         "Key": "Skill06",
         "Name": "Tide of Enduring Grudges",
-        "Desc": "Deals minor Quantum DMG to all targets and gains 1 stack of Obscure Blaze.",
+        "Desc": "味方全体に少量の量子属性のダメージを与える。さらに自身が「怒りの炎」を1層獲得する。",
         "SP": 10.0,
         "Elem": "Quantum",
         "DMG": [
@@ -10059,7 +10380,7 @@ var _monsterskill = {
     "301301004": {
         "Key": "Skill07",
         "Name": "Bonepiercing Odium",
-        "Desc": "Deals minor successive Quantum DMG to a random target. Each stack of Obscure Blaze additionally deals DMG 1 time.",
+        "Desc": "ランダムな味方単体に少量の量子属性のダメージを連続して与える。「怒りの炎」1層につき、追加で1回ダメージを与える。",
         "SP": 5.0,
         "Elem": "Quantum",
         "Threat": true,
@@ -10073,41 +10394,13 @@ var _monsterskill = {
     "301301005": {
         "Key": "SkillP01",
         "Name": "Disembodied Shell",
-        "Desc": "Enters the Safeguard state. When not Weakness Broken, reduces DMG received. Once Weakness is Broken, action will be additionally delayed. After Weakness is Broken, increases DMG received.",
+        "Desc": "「守備」状態に入る。弱点撃破状態でない時の被ダメージがダウンする。弱点撃破された時の行動順遅延量がアップし、弱点撃破状態の時の被ダメージがアップする。",
         "SP": 0
-    },
-    "301301006": {
-        "Key": "Skill06",
-        "Name": "",
-        "Desc": "",
-        "SP": 10.0,
-        "Elem": "Fire"
-    },
-    "301301007": {
-        "Key": "Skill07",
-        "Name": "",
-        "Desc": "",
-        "SP": 5.0,
-        "Elem": "Fire",
-        "Threat": true
-    },
-    "301301008": {
-        "Key": "SkillP01",
-        "Name": "",
-        "Desc": "",
-        "SP": 0
-    },
-    "102302201": {
-        "Key": "Skill01",
-        "Name": "",
-        "Desc": "",
-        "SP": 10.0,
-        "Elem": "Ice"
     },
     "302402007": {
         "Key": "Skill06",
         "Name": "SGE: Molten Engine",
-        "Desc": "While in Secondary Combustion, Sam possesses Molten Energy. A corresponding amount of Molten Energy can be depleted upon being attacked with Skills using Skill Points. When Molten Energy is depleted or the unit is Weakness Broken, dispels Secondary Combustion. When Secondary Combustion is dispelled, Sam receives increased DMG, and recovers Skill Points back to full for the targets.",
+        "Desc": "「二次燃焼」のサムは「熔火エネルギー」を持つ。サムが燃えるSPを消費する攻撃を受ける時、対応する数の「熔火エネルギー」が減り、「熔火エネルギー」が尽きる、または弱点を撃破されたとき、「二次燃焼」が解除される。「二次燃焼」を解除した時、サムの被ダメージがアップし、味方のSPがすべて回復する。",
         "SP": 0,
         "Status": [
             230240201,
@@ -10119,7 +10412,7 @@ var _monsterskill = {
     "302402107": {
         "Key": "Skill06",
         "Name": "SGE: Molten Engine",
-        "Desc": "While in Secondary Combustion, Sam possesses Molten Energy. A corresponding amount of Molten Energy can be depleted upon being attacked with Skills using Skill Points. When Molten Energy is depleted or the unit is Weakness Broken, dispels Secondary Combustion. When Secondary Combustion is dispelled, Sam receives increased DMG, and recovers Skill Points back to full for the targets.",
+        "Desc": "「二次燃焼」のサムは「熔火エネルギー」を持つ。サムが燃えるSPを消費する攻撃を受ける時、対応する数の「熔火エネルギー」が減り、「熔火エネルギー」が尽きる、または弱点を撃破されたとき、「二次燃焼」が解除される。「二次燃焼」を解除した時、サムの被ダメージがアップし、味方のSPがすべて回復する。",
         "SP": 0,
         "Status": [
             230240201,
@@ -10128,169 +10421,183 @@ var _monsterskill = {
             230240204
         ]
     },
-    "100301401": {
+    "300303101": {
         "Key": "Skill01",
-        "Name": "Assault",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Name": "Cleansing Flagellation",
+        "Desc": "指定する味方1体に物理ダメージを与え、攻撃された味方の行動がわずかに遅くなる。",
         "SP": 10.0,
         "Elem": "Phys"
     },
-    "100301402": {
-        "Key": "Skill06",
-        "Name": "Pierce",
-        "Desc": "Deals massive Physical DMG to a single target.",
-        "SP": 20.0,
-        "Elem": "Phys"
-    },
-    "100301403": {
-        "Key": "Skill07",
-        "Name": "Shield Reflect",
-        "Desc": "Goes into the Counter state. When attacked by a single character, gains 1 extra turn and deals Physical DMG to the target.",
-        "SP": 0
-    },
-    "100301404": {
-        "Key": "Skill08",
-        "Name": "Reinforcement",
-        "Desc": "Summons Silvermane Soldiers or Silvermane Gunners",
-        "SP": 0
-    },
-    "100301405": {
-        "Key": "Skill09",
-        "Name": "Rallying",
-        "Desc": "Increases ATK for all friendly units except Silvermane Lieutenant (Error) and causes them to act immediately.",
-        "SP": 0,
-        "Threat": true
-    },
-    "803301301": {
-        "Key": "Skill01",
-        "Name": "",
-        "Desc": "",
-        "SP": 10.0,
-        "Elem": "Phys"
-    },
-    "803301303": {
-        "Key": "Skill02",
-        "Name": "",
-        "Desc": "",
-        "SP": 0
-    },
-    "803301304": {
+    "300303102": {
         "Key": "Skill03",
-        "Name": "",
-        "Desc": "",
-        "SP": 20.0,
+        "Name": "Admonishment of the Masses",
+        "Desc": "指定する味方1体および隣り合うキャラに少量の物理ダメージを与え、攻撃された味方の行動がわずかに遅くなる。",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "300303103": {
+        "Key": "Skill04",
+        "Name": "Shackle-Bearing Messenger",
+        "Desc": "対象1体をロックオンしてチャージ状態にし、次の行動で【籠の中の福音】を発動する。チャージ中に攻撃されると、攻撃を発動した味方チームを同時にロックオンする。",
+        "SP": 0,
+        "Elem": "Phys"
+    },
+    "300303104": {
+        "Key": "Skill05",
+        "Name": "Desmios Evangelion",
+        "Desc": "大量の物理ダメージを与え、ロックオンされている味方キャラにダメージを分担する。",
+        "SP": 15.0,
         "Elem": "Phys",
         "Threat": true
     },
-    "803301305": {
-        "Key": "Skill04",
-        "Name": "",
-        "Desc": "",
-        "SP": 0
-    },
-    "803301306": {
-        "Key": "Skill05",
-        "Name": "",
-        "Desc": "",
-        "SP": 0
-    },
-    "803301302": {
-        "Key": "Skill06",
-        "Name": "",
-        "Desc": "",
-        "SP": 15.0,
-        "Elem": "Phys"
-    },
-    "803301307": {
-        "Key": "Skill07",
-        "Name": "",
-        "Desc": "",
-        "SP": 0
-    },
-    "803301308": {
+    "300303105": {
         "Key": "PassiveSkillInitiate",
         "Name": "",
         "Desc": "",
         "SP": 0
     },
-    "802401301": {
-        "Key": "Skill01",
-        "Name": "Time to Battle",
-        "Desc": "Deals minor Wind DMG to a single target, with a high chance to inflict 2 stacks of Wind Shear.",
-        "SP": 10.0,
-        "Elem": "Wind"
-    },
-    "802401310": {
-        "Key": "Skill08",
+    "300303106": {
+        "Key": "Skill06",
         "Name": "",
         "Desc": "",
-        "SP": 10.0,
-        "Elem": "Wind"
+        "SP": 0
     },
-    "802401302": {
+    "300303107": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "Threat": true
+    },
+    "300304101": {
+        "Key": "Skill01",
+        "Name": "All Is Bright",
+        "Desc": "指定する味方1人に虚数属性のダメージを与える。",
+        "SP": 5.0,
+        "Elem": "Imaginary"
+    },
+    "300304102": {
         "Key": "Skill02",
-        "Name": "War Gear",
-        "Desc": "Deals minor Wind DMG to a single target. If the target is currently suffering from Wind Shear, Wind Shear immediately causes DMG 1 time.",
-        "SP": 20.0,
-        "Elem": "Wind"
+        "Name": "All Is Calm",
+        "Desc": "高確率で味方1人を【異夢】状態にする。",
+        "SP": 10.0
     },
-    "802401303": {
+    "300304103": {
         "Key": "Skill03",
-        "Name": "Cyclonic Swarm",
-        "Desc": "Deals Wind DMG to all targets, with a high chance to cause Wind Shear.",
+        "Name": "Redeeming Grace",
+        "Desc": "指定する味方1人に虚数属性のダメージを与える。",
+        "SP": 15.0,
+        "Elem": "Imaginary"
+    },
+    "300304104": {
+        "Key": "Skill04",
+        "Name": "Holy Night",
+        "Desc": "チャージ状態となり、次の行動で【安らかな眠りの享受】を発動する。",
+        "SP": 10.0
+    },
+    "300304105": {
+        "Key": "Skill05",
+        "Name": "Sleep In Heavenly Peace",
+        "Desc": "高確率で味方全員を【異夢】状態にする。",
+        "SP": 15.0,
+        "Threat": true
+    },
+    "300304106": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "",
+        "Desc": "",
+        "SP": 0,
+        "Elem": "Imaginary"
+    },
+    "300304107": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "Threat": true
+    },
+    "300305101": {
+        "Key": "Skill01",
+        "Name": "Precious Blood Shed For You",
+        "Desc": "指定する味方1体を高確率で【盲目の宴】または【宴の罪】状態にする。",
+        "SP": 5.0,
+        "Elem": "Wind"
+    },
+    "300305102": {
+        "Key": "Skill02",
+        "Name": "Feast That Is Set For You",
+        "Desc": "指定する味方全員を高確率で【宴荒らしの罪】または【宴の罪】状態にする。",
         "SP": 10.0,
         "Elem": "Wind"
     },
-    "802401304": {
+    "300305103": {
+        "Key": "Skill03",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Wind"
+    },
+    "300305104": {
         "Key": "Skill04",
-        "Name": "Propagation",
-        "Desc": "Spawns True Stings.",
-        "SP": 0
-    },
-    "802401311": {
-        "Key": "Skill10",
-        "Name": "Propagation",
-        "Desc": "Spawns True Stings.",
-        "SP": 0
-    },
-    "802401305": {
-        "Key": "Skill05",
-        "Name": "Ready Order",
-        "Desc": "Enters the Charge state. Uses Swarm Onslaught for the next action.",
-        "SP": 0
-    },
-    "802401306": {
-        "Key": "Skill06",
-        "Name": "Swarm Onslaught",
-        "Desc": "Dispels all Crowd Control debuffs and Weakness Break affecting True Stings. Deals Wind DMG to the target, and causes the target to have a high chance of being inflicted with 1 stack of Wind Shear every time they take DMG.",
+        "Name": "A Cup Runneth Over For You",
+        "Desc": "チャージ状態になり、味方全員を高確率で【宴荒らしの罪】または【宴の罪】状態にする。次の行動で【君がため一切の罪をすすぐ】を発動する。",
         "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "300305105": {
+        "Key": "Skill05",
+        "Name": "Wash Away All Sins For You",
+        "Desc": "味方全員の現在受けているすべての持続ダメージを即時発生させ、持続ダメージ系デバフが解除される。",
+        "SP": 15.0,
         "Elem": "Wind",
         "Threat": true
     },
-    "802401307": {
-        "Key": "Skill07",
-        "Name": "Swarm Onslaught",
-        "Desc": "Dispels all Crowd Control debuffs and Weakness Break affecting True Stings. Deals Wind DMG to the target, and causes the target to have a high chance of being inflicted with 1 stack of Wind Shear every time they take DMG.",
-        "SP": 10.0,
-        "Elem": "Wind"
-    },
-    "802401308": {
-        "Key": "PassiveSkill01",
-        "Name": "Transmission Pheromone",
-        "Desc": "Each time a True Sting is spawned, increases all True Stings' DMG dealt by 1 stack. Only 1 Transmission Pheromone effect can exist in battle at once.",
-        "SP": 0
-    },
-    "802401309": {
-        "Key": "PassiveSkill02",
-        "Name": "Entomon Eulogy",
-        "Desc": "When receiving a killing blow, deals Wind DMG to all friendly units, with a high chance to slightly increase their DMG received.",
+    "300305106": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "",
+        "Desc": "",
         "SP": 0,
         "Elem": "Wind"
+    },
+    "300305107": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Threat": true
+    },
+    "302501104": {
+        "Key": "Skill04",
+        "Name": "Ability 4",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501105": {
+        "Key": "Skill05",
+        "Name": "Ability 5",
+        "Desc": "",
+        "SP": 0,
+        "Threat": true
+    },
+    "302501106": {
+        "Key": "Skill052",
+        "Name": "Ability 5",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501107": {
+        "Key": "SkillP02",
+        "Name": "Talent 1",
+        "Desc": "",
+        "SP": 0
     },
     "300302001": {
         "Key": "Skill01",
         "Name": "Limited Free Drinks",
-        "Desc": "Deals Ice DMG to a single target. If the target has Shield, additionally deal Ice DMG to this unit with a high chance to decrease this unit's DEF.",
+        "Desc": "指定した味方単体に氷属性ダメージを与える。ターゲットにバリアがある場合、ダメージを与えた後、自身も氷属性ダメージを受け、高確率で自身の防御力がダウンする。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -10300,7 +10607,7 @@ var _monsterskill = {
     "300302002": {
         "Key": "Skill02",
         "Name": "Unlimited Free Drinks",
-        "Desc": "Deals 4 hits of Ice DMG to one random target. If the target has Shield, additionally deal Ice DMG to self with a high chance to decrease this unit's DEF.",
+        "Desc": "ランダムな味方単体に氷属性ダメージを4回与える。ターゲットにバリアがある場合、ダメージを与えた後、自身も氷属性ダメージを受け、高確率で自身の防御力がダウンする。",
         "SP": 10.0,
         "Elem": "Ice",
         "Threat": true,
@@ -10311,7 +10618,7 @@ var _monsterskill = {
     "300302101": {
         "Key": "Skill01",
         "Name": "Limited Free Drinks",
-        "Desc": "Deals Ice DMG to a single target and Advances the target's action Forward. If the target has Shield, additionally deal Ice DMG to this unit with a high chance to decrease this unit's DEF.",
+        "Desc": "指定した味方単体に氷属性ダメージを与え、その味方の行動順を早める。ターゲットにバリアがある場合、ダメージを与えた後、自身も氷属性ダメージを受け、高確率で自身の防御力がダウンする。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -10321,7 +10628,7 @@ var _monsterskill = {
     "300302102": {
         "Key": "Skill02",
         "Name": "Unlimited Free Drinks",
-        "Desc": "Deals 4 hits of Ice DMG to one Monitored target and Advances the target's action Forward. If the target has Shield, additionally deal Ice DMG to a random friendly unit with a high chance to decrease the affected unit's DEF.",
+        "Desc": "警戒ターゲットとしてマークした味方単体に氷属性ダメージを4回与え、その味方の行動順を早める。ターゲットにバリアがある場合、ダメージを与えた後、ランダムな敵単体に氷属性ダメージを与え、高確率でダメージを受けた敵単体の防御力をダウンさせる。",
         "SP": 10.0,
         "Elem": "Ice",
         "Threat": true,
@@ -10338,7 +10645,7 @@ var _monsterskill = {
     "301402201": {
         "Key": "Skill01",
         "Name": "Funereal Kiss",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "指定した味方単体に物理ダメージを与える。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -10348,7 +10655,7 @@ var _monsterskill = {
     "301402202": {
         "Key": "Skill02",
         "Name": "Sunken Rain",
-        "Desc": "Deals Physical DMG to all targets.",
+        "Desc": "味方全体に物理ダメージを与える。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -10358,34 +10665,34 @@ var _monsterskill = {
     "301402203": {
         "Key": "Skill03",
         "Name": "Harrowing Obituary",
-        "Desc": "Increases DMG dealt for 1 turn. This effect is removed when this unit becomes Weakness Broken. Every time this ability is used, gains 1 stack of DMG Boost, and increases the HP of any subsequently summoned Sombrous Sepulcher by 1 bar.",
+        "Desc": "自身の与ダメージをアップする、1ターン継続。この効果は弱点撃破された後に解除される。毎回本スキル発動後に1層の与ダメージアップを獲得し、その後に召喚される「永眠の墓碑」のHPを1マス増やす。",
         "SP": 0
     },
     "301402204": {
         "Key": "Skill04",
         "Name": "Fading Radiance",
-        "Desc": "Enters the Sunset state. Gains 1 stack each time a character uses Basic ATK, Skill, or Ultimate. When Sunset reaches 3 stacks, immediately use Losing Eventide Light on the last-acting target. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken.",
+        "Desc": "「日没」状態に入る。味方が通常攻撃、戦闘スキル、または必殺技を発動するたびに「日没」を1層獲得する。「日没」が3層に達した時、一つ前に行動した味方に対して「黄昏に色褪せて」を発動する。「黄昏に色褪せて」を1回発動した後、または弱点撃破された後に、この状態は解除される。",
         "SP": 0,
         "Threat": true
     },
     "301402205": {
         "Key": "Skill05",
         "Name": "Losing Eventide Light",
-        "Desc": "Immediately launches a killing blow on the last-acting target who used Basic ATK, Skill, or Ultimate, and inflicts Morbid Dream on them.",
+        "Desc": "最後に通常攻撃、戦闘スキル、または必殺技を発動した味方に致命攻撃を行い、その味方を「夢死」状態にする。",
         "SP": 0,
         "Threat": true
     },
     "301402206": {
         "Key": "Skill06",
         "Name": "Go Into That Good Night",
-        "Desc": "Enters the Nightfall state and obtain the Weakness Protected effect. Locks onto the 2 targets who are due to act next. Uses Watery Dissolution in the next action.",
+        "Desc": "「夜の到来」状態に入り、「弱点無効」を獲得し、味方全体のEPを回復する。「夜の降臨」状態の間で最初に行動した味方2名をロックオンする。次の行動で「水が水に消え逝くように」を発動する。",
         "SP": 0,
         "Threat": true
     },
     "301402207": {
         "Key": "Skill07",
         "Name": "Watery Dissolution",
-        "Desc": "Immediately launches a killing blow on all locked-on targets and inflicts Morbid Dream on them. If there are no locked-on targets, launch a killing blow on 2 random targets and inflict Morbid Dream on them.",
+        "Desc": "ロックオンされたすべての味方に致命攻撃を行い、「夢死」状態にする。ロックオンされた味方がない場合、ランダムな味方2名に致命攻撃を行い、「夢死」状態にする。",
         "SP": 0,
         "Threat": true
     },
@@ -10398,34 +10705,34 @@ var _monsterskill = {
     "301402209": {
         "Key": "PassiveSkill02",
         "Name": "Sad True Lover Never Find My Grave",
-        "Desc": "Whenever a target gets inflicted with Morbid Dream, summons a corresponding Sombrous Sepulcher. When all targets get inflicted with Morbid Dream or are knocked down, this battle will be considered a defeat.",
+        "Desc": "味方が「夢死」状態になった時、対応する「永眠の墓碑」を1体召喚する。味方全体が「夢死」状態になる、または戦闘不能状態になると、戦闘失敗になる。",
         "SP": 0
     },
     "300301201": {
         "Key": "Skill01",
         "Name": "Ladle Swirl",
-        "Desc": "Deals Fire DMG to a single target.",
+        "Desc": "味方単体に炎属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Fire"
     },
     "300301202": {
         "Key": "Skill02",
         "Name": "Tornado Toss",
-        "Desc": "Deals minor Fire DMG to a single target and adjacent targets.",
+        "Desc": "味方単体および隣接する味方に少量の炎属性ダメージを与える。",
         "SP": 10.0,
         "Elem": "Fire"
     },
     "300301203": {
         "Key": "Skill06",
-        "Name": "Stov Detonation",
-        "Desc": "Enters the Charge state and increases SPD. Until Stove Heating has reached a certain number of stacks, this unit will use Flaming Stir-Fry at every turn.",
+        "Name": "Stove Detonation",
+        "Desc": "チャージ状態に入り、速度が上昇する。「かまど加温」を一定数累積するまで、行動するごとに「強炎炒め」を発動する。",
         "SP": 0,
         "Elem": "Fire"
     },
     "300301204": {
         "Key": "Skill04",
         "Name": "Flaming Stir-Fry",
-        "Desc": "Deals massive Fire DMG to all targets.",
+        "Desc": "味方全体に大量の炎属性ダメージを与える。",
         "SP": 20.0,
         "Elem": "Fire",
         "Threat": true
@@ -10433,26 +10740,26 @@ var _monsterskill = {
     "300301205": {
         "Key": "Skill05",
         "Name": "Kitchen Mishap",
-        "Desc": "After entering the Charge state, deals massive Fire DMG to all friendly units and decreases this unit's DEF if Stove Heating has a certain number of stacks. Then, clears all Stove Heating stacks.",
+        "Desc": "チャージ状態に入った後、「コンロ加熱」が一定層数に達した時、敵全体に大量の炎属性ダメージを与え、自身の防御力をダウンさせ、「コンロ加熱」の層数を全部リセットする。",
         "SP": 0,
         "Elem": "Fire"
     },
     "300301206": {
         "Key": "Skill03",
         "Name": "Flame-Forged Feast",
-        "Desc": "While not under the Charge state, immediately takes action when Stove Heating reaches a certain number of stacks, and uses Stov Detonation.",
+        "Desc": "チャージ状態でないとき、「かまど加温」を一定数まで累積するとただちに行動し、「かまど爆発」を発動する。",
         "SP": 0
     },
     "300301207": {
         "Key": "PassiveSkillInitiate",
         "Name": "Inferno Stove",
-        "Desc": "When attacking, this unit has a high chance to Slow the target. When this unit is attacked or takes DoT, gains 1 stack of Stove Heating.",
+        "Desc": "自身が攻撃を行う時、高確率で味方に減速状態を付与する。自身が攻撃を受ける、または持続ダメージを受ける時、「コンロ加熱」を1層獲得する。",
         "SP": 0
     },
     "300302201": {
         "Key": "Skill01",
         "Name": "Limitless Free Drinks",
-        "Desc": "Deals Ice DMG to a single target, with a small chance of applying Freeze to the attacked target if it does not have a Shield. If the target has a Shield, additionally deal Ice DMG to this unit with a high chance to decrease this unit's DEF.",
+        "Desc": "指定した味方1人に氷属性のダメージを与え、攻撃を受けたバリアを持っていないターゲットを低確率で凍結状態にする。相手がバリアを持っている場合、ダメージを与えた後、自身に氷属性のダメージを与え、高確率で自身の防御力を低下させる。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -10462,7 +10769,7 @@ var _monsterskill = {
     "300302202": {
         "Key": "Skill02",
         "Name": "Frenzied Free Drinks",
-        "Desc": "Deals Ice DMG 4 times to a random single target, with a high chance of applying Freeze to the attacked target if it does not have a Shield. If the target has a Shield, additionally deal Ice DMG to this unit with a high chance to decrease this unit's DEF.",
+        "Desc": "味方1人にランダムで氷属性のダメージを4回与え、攻撃を受けたバリアを持っていないターゲットを高確率で凍結状態にする。相手がバリアを持っている場合、ダメージを与えた後、自身に氷属性のダメージを与え、高確率で自身の防御力を低下させる。",
         "SP": 10.0,
         "Elem": "Ice",
         "Threat": true,
@@ -10473,19 +10780,19 @@ var _monsterskill = {
     "300302203": {
         "Key": "Skill03",
         "Name": "SoulGlad Party",
-        "Desc": "Summons 2 Bubble Hounds.",
+        "Desc": "「ソーダドッグ」を2体召喚する。",
         "SP": 0
     },
     "300302204": {
         "Key": "Skill04",
         "Name": "Celebration Fountain",
-        "Desc": "Enters the Charge state and gains Toughness Protection. Uses Frenzied Free Drinks during the next action.",
+        "Desc": "チャージ状態になり、靭性保護を獲得し、次の行動時に「狂気の飲み放題」を発動する。",
         "SP": 0
     },
     "301301101": {
         "Key": "Skill01",
         "Name": "Grudging Courtesy",
-        "Desc": "Deals Quantum DMG to a single target and gains 1 stack of Obscure Blaze.",
+        "Desc": "指定した味方単体に量子属性のダメージを与える。さらに自身が「怒りの炎」を1層獲得する。",
         "SP": 10.0,
         "Elem": "Quantum",
         "DMG": [
@@ -10498,7 +10805,7 @@ var _monsterskill = {
     "301301102": {
         "Key": "Skill04",
         "Name": "Roar of Furious Thunder",
-        "Desc": "Gains 3 stacks of Obscure Blaze.",
+        "Desc": "自身に「怒りの炎」を3層付与する。",
         "SP": 0,
         "Status": [
             230130101
@@ -10507,7 +10814,7 @@ var _monsterskill = {
     "301301103": {
         "Key": "Skill06",
         "Name": "Tide of Enduring Grudges",
-        "Desc": "Deals minor Quantum DMG to all targets and gains 1 stack of Obscure Blaze.",
+        "Desc": "味方全体に少量の量子属性のダメージを与える。さらに自身が「怒りの炎」を1層獲得する。",
         "SP": 10.0,
         "Elem": "Quantum",
         "DMG": [
@@ -10520,7 +10827,7 @@ var _monsterskill = {
     "301301104": {
         "Key": "Skill07",
         "Name": "Bonepiercing Odium",
-        "Desc": "Deals minor successive Quantum DMG to a random target. Each stack of Obscure Blaze additionally deals DMG 1 time.",
+        "Desc": "ランダムな味方単体に少量の量子属性のダメージを連続して与える。「怒りの炎」1層につき、追加で1回ダメージを与える。",
         "SP": 5.0,
         "Elem": "Quantum",
         "Threat": true,
@@ -10534,8 +10841,312 @@ var _monsterskill = {
     "301301105": {
         "Key": "SkillP01",
         "Name": "Disembodied Shell",
-        "Desc": "Enters the Safeguard state. When not Weakness Broken, reduces DMG received. Once Weakness is Broken, action will be additionally delayed. After Weakness is Broken, increases DMG received.",
+        "Desc": "「守備」状態に入る。弱点撃破状態でない時の被ダメージがダウンする。弱点撃破された時の行動順遅延量がアップし、弱点撃破状態の時の被ダメージがアップする。",
         "SP": 0
+    },
+    "302501201": {
+        "Key": "Skill01",
+        "Name": "Ability 1",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Imaginary"
+    },
+    "302501202": {
+        "Key": "Skill02",
+        "Name": "Ability 2",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Imaginary"
+    },
+    "302501203": {
+        "Key": "Skill03",
+        "Name": "Ability 3",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501204": {
+        "Key": "Skill04",
+        "Name": "Ability 4",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501205": {
+        "Key": "Skill042",
+        "Name": "Ability 8",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501206": {
+        "Key": "Skill05",
+        "Name": "Ability 5",
+        "Desc": "",
+        "SP": 0,
+        "Threat": true
+    },
+    "302501207": {
+        "Key": "Skill052",
+        "Name": "Ability 5",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501208": {
+        "Key": "Skill06",
+        "Name": "Ability 6",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "Threat": true
+    },
+    "302501209": {
+        "Key": "Skill07",
+        "Name": "Ability 7",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501210": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501211": {
+        "Key": "Skill09",
+        "Name": "Ability 9",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501212": {
+        "Key": "Skill10",
+        "Name": "Ability 10",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "Threat": true
+    },
+    "302501213": {
+        "Key": "SkillP01",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "302501214": {
+        "Key": "SkillP02",
+        "Name": "Talent 1",
+        "Desc": "",
+        "SP": 0
+    },
+    "300401002": {
+        "Key": "Skill01",
+        "Name": "Rise, By Divine Grace",
+        "Desc": "戦闘に入る時、味方を1体選んで「司律」にする。「司律」はターンごとに再行動でき、速度が小幅アップする。「司律」が弱点撃破された時、そのターゲットの行動順を遅らせ、再度「秩序の傀儡」を選んで「司律」にする。すべての「秩序の傀儡」が弱点撃破状態になった時、自身にダメージを与え、すべての「秩序の傀儡」の行動順をさらに遅らせ、被ダメージをアップさせる。任意の「秩序の傀儡」が弱点撃破状態から回復した時、再び「司律」に選ばれる。",
+        "SP": 0
+    },
+    "300401004": {
+        "Key": "Skill02",
+        "Name": "Rise, Heed Thy Command",
+        "Desc": "アクションバーに「戒め」を追加する。「戒め」が行動するたび、フィールド上のすべての「秩序の傀儡」の行動制限系デバフと弱点撃破状態を解除し、「宴に酔いしれる現在」を即座に行動させ、「旋律に捧ぐ舞」を発動する。「秩序の傀儡」が1体弱点撃破されるたび、「戒め」の行動が小幅遅延される。",
+        "SP": 0
+    },
+    "300401003": {
+        "Key": "Skill03",
+        "Name": "Fall, By the People's Voice",
+        "Desc": "すべての「秩序の傀儡」を「司律」にする。「司律」はターンごとに再行動でき、速度が小幅アップする。「司律」が弱点撃破された時、そのターゲットの行動順を遅らせる。すべての「秩序の傀儡」が弱点撃破状態になった時、自身にダメージを与え、すべての「秩序の傀儡」の行動順をさらに遅らせ、被ダメージをアップさせる。「秩序の傀儡」が弱点撃破状態から回復した時、再び「司律」に選ばれる。",
+        "SP": 0
+    },
+    "300401001": {
+        "Key": "Skill04",
+        "Name": "Unify, Become One",
+        "Desc": "今回の戦闘において、「過去、今、そして永遠に在る演目」は全ての「秩序の傀儡」とHPを共有する。",
+        "SP": 0
+    },
+    "102302201": {
+        "Key": "Skill01",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "302402201": {
+        "Key": "Skill01",
+        "Name": "BHF: Fiery Advance",
+        "Desc": "指定した味方単体に少量の炎属性ダメージを与える。",
+        "SP": 10.0,
+        "Elem": "Fire"
+    },
+    "302402202": {
+        "Key": "Skill02",
+        "Name": "BHF: Heavenly Fire",
+        "Desc": "指定した味方単体および隣接する味方に少量の炎属性ダメージを与える。",
+        "SP": 10.0,
+        "Elem": "Fire"
+    },
+    "302402203": {
+        "Key": "Skill03",
+        "Name": "BBHF: Scorched Earth",
+        "Desc": "味方全体に少量の炎属性ダメージを与える。",
+        "SP": 15.0,
+        "Elem": "Fire"
+    },
+    "302402204": {
+        "Key": "Skill04",
+        "Name": "DHGDR: Secondary Combustion",
+        "Desc": "自身のHPを消費し、「二次燃焼」に入り「弱点無効」を解除する。「二次燃焼」に入ると自身を大幅に強化するが、攻撃を行うたびに自身のHPを消費する。",
+        "SP": 0,
+        "Threat": true
+    },
+    "302402205": {
+        "Key": "Skill05",
+        "Name": "DHGDR: Supernova Overload",
+        "Desc": "味方全体に炎属性ダメージを与え、高確率で攻撃を受けた味方を燃焼状態にする。",
+        "SP": 20.0,
+        "Elem": "Fire",
+        "Threat": true
+    },
+    "302402206": {
+        "Key": "PassiveSkill01",
+        "Name": "SGE: Molten Core",
+        "Desc": "「二次燃焼」状態に入った後、フィールドと味方のSPを燃やす。味方が燃えるSPを消費するとHPを消費し、さらに敵に本来のダメージ一定割合分の炎属性固定ダメージを与える。他の味方に治癒される時の回復量が大幅にダウンする。",
+        "SP": 0
+    },
+    "302402207": {
+        "Key": "Skill06",
+        "Name": "SGE: Molten Engine",
+        "Desc": "「二次燃焼」のサムは「熔火エネルギー」を持つ。サムが燃えるSPを消費する攻撃を受ける時、対応する数の「熔火エネルギー」が減り、「熔火エネルギー」が尽きる、または弱点を撃破されたとき、「二次燃焼」が解除される。「二次燃焼」を解除した時、サムの被ダメージがアップし、味方のSPがすべて回復する。",
+        "SP": 0
+    },
+    "300401005": {
+        "Key": "Skill05",
+        "Name": "",
+        "Desc": "",
+        "SP": 0,
+        "Threat": true
+    },
+    "100402701": {
+        "Key": "Skill01",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "100402702": {
+        "Key": "Skill02",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Ice"
+    },
+    "100402703": {
+        "Key": "Skill03",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "100402704": {
+        "Key": "Skill04",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "100402705": {
+        "Key": "Skill05",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "100402707": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "100402708": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "",
+        "SP": 0,
+        "Elem": "Ice"
+    },
+    "100402709": {
+        "Key": "SkillP01",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "100402710": {
+        "Key": "SkillP01",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "100402711": {
+        "Key": "SkillP01",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "200402401": {
+        "Key": "Skill01",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "200402402": {
+        "Key": "Skill02",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0
+    },
+    "200402403": {
+        "Key": "Skill03",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Ice"
+    },
+    "200402404": {
+        "Key": "Skill04",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "200402405": {
+        "Key": "Skill05",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0
+    },
+    "200402406": {
+        "Key": "Skill06",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "200402407": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "200402408": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "200402409": {
+        "Key": "SkillP01",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0
     },
     "104201": {
         "Name": "Yunlai Swordsmanship",

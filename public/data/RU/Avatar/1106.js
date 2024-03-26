@@ -458,24 +458,192 @@ var _story_ = {
 var _voice_ = {
     "1106": [
         {
-            "_id": 1,
-            "Story": "The meticulous Intelligence Officer of the Silvermane Guards. While young, she is undeniably brilliant.<br>Whether it relates to maneuvering troops, distributing supplies, or the analyzing terrain, Pela can answer any problems with calm certainty.<br>As for her phone case... \"It has nothing to do with work, captain.\""
+            "Title": "First Meeting",
+            "Voice": "Pelageya Sergeyevna, Silvermane Guards Intelligence Officer, at your service. You can call me Pela."
         },
         {
-            "_id": 2,
-            "Story": "The following is an excerpt from page 102 of the Silvermane Guards Recruitment Records: Intelligence Department — Vol. 24:<br><br>Basic information about the candidate —<br><br><i>\"My name is Pelageya Sergeyevna, but you can call me Pela.\"<br>\"I graduated from the Faculty of Social Sciences and the Faculty of Science from the Belobog Cadet School, with a double honorary degree in Military Studies and Cryptography.\"<br>\"My hobbies? Pardon me, I need a minute to collect myself...\"<br>\"...My hobby is studying prehistoric Belobog music. That's it.\"<br>\"No, no, I have no other hobbies... Really... Please trust me.\"</i>"
+            "Title": "Greeting",
+            "Voice": "You ready? Let's start the records for the day."
         },
         {
-            "_id": 3,
-            "Story": "The following is an excerpt from page 103 of the Silvermane Guards Recruitment Records: Intelligence Department — Vol. 24:<br><br>As for what is an honorary degree —<br><br><i>\"Please allow me to recite from the Belobog Sergeant Education and Degree Awarding Regulations Version 3, Chapter 5, Section 23, Article 1, Paragraph 7...:\"<br>\"An Honorary Bachelor's degree will be conferred to students who have not met the minimum age requirement but have earned enough credits from courses of corresponding majors.\"<br>\"That's right. I currently have no plans for postgraduate study, and never will.\"<br>\"I find practice far better than theory, Madam.\"</i>"
+            "Title": "Parting",
+            "Voice": "The reports look pretty normal today. You can go have some rest."
         },
         {
-            "_id": 4,
-            "Story": "One snowy Belobog evening, underneath the massive stopped clock, the laughter of girls spilled out from a warmly-lit window.<br><br><i>\"Studying prehistoric Belobog music!? That's just ridiculous! Didn't Cocolia bother to ask about that?\"</i> The slightly older woman rocks back and forth with laughter.<br><br><i>\"Please address her as Madam Cocolia, Serval.\"</i> A petite girl pouts as she take off her steamed-up round glasses. <i>\"She has to know that I'm playing in your band.\"</i><br><br>The girl in the cat ears hat — she is reluctant to take it off even when inside — chimes in. <i>\"...You really are a piece of work. Does Madam Cocolia know what your other hobbies are?\"</i><br><br><i>\"Ha. No way.\"</i> The woman named Serval gets up from her bedding on the floor. <i>\"I've lived with her for so long and never seen her pick up a novel — she says they're a complete waste of time...\"</i><br><br><i>\"Okay. Pela, Lynx — We need to go to the </i>Tale of the Winterlands<i> fan meet tomorrow. Let's get some rest.\"</i>"
+            "Title": "About Self",
+            "Voice": "I'm good at documenting information and coming up with my analysis. Acting on that analysis is the captain's job."
         },
         {
-            "_id": 5,
-            "Story": "If you're familiar with the street gossip of Belobog, then there's no way you could miss the <i>Tale of the Winterlands</i>. And if you're an avid Tale fan, then you'll definitely have heard of the fan meet. Its time and location are a secret, and attendance is by special invite only.<br><br>Attendants are split into only two categories: content creators, and the consumers who love the created content. They all have a genuine love for the <i>Tale of the Winterlands</i>, and do their bit to support this monumental masterpiece of Belobog literature.<br><br>Among them, a new legend is born — It is said that she is a petite woman. It is said she never missed a single meet. It is said she always wore a mask. It is said she once spent a small fortune on a limited-edition artbook. It is said that when ever she creates something, her work would cause a huge sensation among the dedicated fan base...<br><br><i>\"That's a whole lot of rumors, yet none of them are related to the Silvermane Guards...\"<br>\"Looks like... My skills of disguise really are fantastic after all. Teehee!\"</i>"
+            "Title": "Chat: Role in the Band",
+            "Voice": "People don't usually notice the drummer, but if you miss a beat, everyone feels it. I like the challenge."
+        },
+        {
+            "Title": "Hobbies",
+            "Voice": "I like to go to the library on the weekend and take out some... literature. Then when we're finished reading, me and my friends meet up to discuss it."
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "*sigh* Sometimes I practice over a dozen times before reporting to my superiors, but I still can't get it right..."
+        },
+        {
+            "Title": "Something to Share",
+            "Voice": "There are 32 versions of my full name circulating among the troops. How do I know? I'm an intelligence officer after all."
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "*gasp* A new edition of the fanbook \"Tale of the Winterlands?\" That's one of the most sought-after series out there... H—How many copies should I get... Ten? Is ten enough...?"
+        },
+        {
+            "Title": "About Bronya",
+            "Voice": "In all of Belobog, you won't find anyone who speaks more elegantly or acts more like a leader than Lady Bronya."
+        },
+        {
+            "Title": "About Serval",
+            "Voice": "*sigh* Serval's rule is: no rules."
+        },
+        {
+            "Title": "About Gepard",
+            "Voice": "Captain Gepard is an honorable man and very reliable. But when it comes to his horticultural skills... all I can say is I respect his effort and wish him the best of luck."
+        },
+        {
+            "Title": "About Lynx",
+            "Voice": "Lynxy is one of my... Uh, Lynx is one of my... Ahem! Lynx is... one of Belobog's number one researchers, and... one of my best besties!"
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "Stay focused, push forward."
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "Mm, there's still room for improvement."
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "Finally, all contingencies covered."
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "Mm, this is valuable intel."
+        },
+        {
+            "Title": "Added to Team With Gepard",
+            "Voice": "Glad to be of service, Captain Gepard."
+        },
+        {
+            "Title": "Added to Team With Serval",
+            "Voice": "Remember, Serval — don't rush the beat."
+        },
+        {
+            "Title": "Added to Team With Lynx",
+            "Voice": "Let's do this, Lynxy!"
+        },
+        {
+            "Title": "Added to Team With Bronya",
+            "Voice": "Expect a decisive victory, Lady Bronya."
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "We have the upper hand."
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "Do we still have the upper hand?"
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "Commencing support."
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "Enemy targets detected."
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "Time to make a decision."
+        },
+        {
+            "Title": "Basic Attack 1",
+            "Voice": "Enough."
+        },
+        {
+            "Title": "Basic Attack 2",
+            "Voice": "Ready for another?"
+        },
+        {
+            "Title": "Basic Attack 3",
+            "Voice": "I'll contain them!"
+        },
+        {
+            "Title": "Skill 1",
+            "Voice": "This... that... Oh!"
+        },
+        {
+            "Title": "Skill 2",
+            "Voice": "Inputting commands... Oh!"
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "Ouch."
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "Eek ...Not good."
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "Enemy data secured."
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "Net markers activated — time for a good old counterattack."
+        },
+        {
+            "Title": "Downed 1",
+            "Voice": "I miscalculated..."
+        },
+        {
+            "Title": "Downed 2",
+            "Voice": "Run..."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "I won't make the same mistake twice."
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "Thanks for the support."
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "The combat report will be ready soon."
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "Inventory complete."
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "It's received."
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "All in order — leave nothing behind."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "Wowwww... *clears throat*"
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "...That did the trick!"
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "Analyze the targets before you make a plan of action."
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "Do you need me to formulate the next plan?"
         }
     ]
 }

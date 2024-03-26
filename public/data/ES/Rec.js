@@ -2,6 +2,180 @@
 
 var _rec = [
     {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
         "Name": "Citizen Hanunue",
         "Desc": "Dear Mikhail: You provide prose poetry, and I'll provide warfare.",
         "Unlock": "Obtained from completing Trailblaze Mission \"A Walk Among the Tombstones\"",

@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "24000": "It began with a flash of light.<br>One by one, THEY fell as the threat of expiration loomed over THEM.<br>THEY had to stop self-replicating and rushed to embrace each other,<br>trying to offer the right to reproduce in exchange for a possibility of survival.<br>THEY held hands in a show of unprecedented unity.<br>...But the Paths met an abrupt end,<br>and THEY were headed to a true death."
+    "24000": "한 줄기의 빛에서 시작되어,<br>그들은 추락하고, 멸망의 위협이 고조되고 있다.<br>그들은 어쩔 수 없이 자가 복제를 멈추고, 앞을 다투어 서로 껴안아,<br>번식할 권리를 대가로 생존의 가능성을 바꾸고자 했다.<br>그들은 손을 맞잡았다, 이렇게 단결해 본 적이 없음에도<br>——운명의 길은 끊기고,<br>그들은 진정한 죽음을 향해 갔다"
 }
 
 var _weaponskill_ = {

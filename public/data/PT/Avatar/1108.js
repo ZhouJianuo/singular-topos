@@ -502,24 +502,192 @@ var _story_ = {
 var _voice_ = {
     "1108": [
         {
-            "_id": 1,
-            "Story": "A silver-tongued salesman. Where there is profit to be made, you can be sure Sampo is nearby.<br>The information that only Sampo possesses makes it hard not to approach him for help, but becoming his \"customer\" is not necessarily a good thing.<br>After all, \"customers\" can quickly turn into \"commodities\" for the right price."
+            "Title": "First Meeting",
+            "Voice": "Hey, Trailblazer! Y'know, with Sampo Koski by your side, you've got a businessman, chaperone, and problem-solving conversationalist, all rolled into one! Pretty sweet deal, huh?"
         },
         {
-            "_id": 2,
-            "Story": "<i>\"Hello everyone! This is Brughel Poisson from the Crystal Daily, and I'm here at Fountain Plaza in the Administrative District. Standing next to me is someone who calls themselves a member of the Dark-Blue Scam Victims' Association, and I am about to conduct a short interview with him.\"<br><br>\"Hello there, sir. Could you please tell me and the audience about your experience of getting scammed?\"<br><br>\"Oh... I'm so utterly enraged! That blue-haired punk... I hope he dies!\"<br><br>\"Sir, we're live right now... please calm down.\"<br><br>\"Ahem... Fine. The Crystal Daily, right? That's it. You should report more on the suffering of everyday people and pay less attention to gossip about the Architects...\"<br><br>\"I'm telling you, that blue-haired punk has slipped off into the Administrative District again! Yesterday he pinched three catties of rye bread spices from my store — three whole catties! Do you know how long those will last for the dignitaries? Next thing, he'll be robbing a spice factory!\"<br><br>\"Please calm down, sir! We sympathize deeply with your plight. Now then, you just mentioned the Belobog spice factory, didn't you?\"<br><br>\"Err... Sure, I mentioned it. Was that important?\"<br><br>\"This factory... are you able to tell me its exact location?\"<br><br>\"Err... Why?\"<br><br>\"Well you see, as journalists, we want to contribute to social justice causes — and only by knowing the exact location can our Silvermane Guards and righteous citizens reduce burglaries. Wouldn't you agree?\"<br><br>\"Err... That makes sense. Then listen up, the address of the factory is...\"</i>"
+            "Title": "Greeting",
+            "Voice": "So, what's the job this time around? If you've got the cash, I've got the... No cash? N—Not a problem! Haha, just say the word, pal..."
         },
         {
-            "_id": 3,
-            "Story": "<i>\"Name.\"<br><br>\"Alexey. Alexey Bulger.\"<br><br>\"Rank.\"<br><br>\"Private First-Class.\"<br><br>\"Hello, Private First-Class Alexey. I'm Brughel Poisson, senior human resources specialist for the Silvermane Guards. Captain Gepard asked me to approve your application for personal leave.\"<br><br>\"It's a pleasure to meet you, Madam Brughel.\"<br><br>\"Let's see... It says here that you were wounded four months ago during a defensive operation, with a total of five fractures... Yet despite all this, you have continued to carry out your duties right up until now. Admirable!\"<br><br>\"Thank you, Madam Brughel.\"<br><br>\"You guard the... 3rd Arsenal at the Silvermane Guard Restricted Zone, yes? Terrific! As far as I know, that's an extremely important military zone where the most expensive... Ahem, the most valuable Silvermane military resources are stored.\"<br><br>\"You're right, ma'am.\"<br><br>\"Let me see... Hmm, no problem. Private First-Class Alexey, at this stage you are cleared to go home next Tuesday.\"<br><br>\"...What? So soon? As far as I know, this kind of high-level guard duty usually takes at least a month to process handovers —\"<br><br>\"...Don't worry, Private First-Class. I appreciate your determination to the cause, but nothing is more important to me than protecting the physical and mental well-being of one of our best Silvermane Guards! Don't worry. I've already picked out someone to fill in for you, so everything's taken care of.\"<br><br>\"...I understand. Thank you very much, ma'am.\"<br><br>\"That's the one! Remember, next Tuesday — I want you and your luggage out of the restricted zone before 20:17!\"</i>"
+            "Title": "Parting",
+            "Voice": "Come on, get some rest already! What's the matter? I'm not going anywhere."
         },
         {
-            "_id": 4,
-            "Story": "<i>\"Yo, my man.\"<br><br>\"Yo, you're here working for Poisson, too?\"<br><br>\"Yeah. Are you in charge of demolitions?\"<br><br>\"Yup. Are you the lockpick?\"<br><br>\"Uh-huh.\"<br><br>\"Nice. Then we're ready. Let's get to work.\"<br><br>\"Unh... Unh... Done. Now let's just wait.\"<br><br>\"That doesn't look very reliable... Can this tiny thing blow through this steel door?\"<br><br>\"I didn't doubt your professionalism. Why are you doubting me? Trust me. I've bombed mine shafts more times than you've had hot dinners.\"<br><br>\"Err... okay. Getting back on topic, what did that girl tell you again?\"<br><br>\"The factory's abandoned, as it's completely unguarded. Just take what you want. I've never heard of such an easy job.\"<br><br>\"Mmm, yeah that's what she told me too. But something seems kinda off to me...\"<br><br>\"Money's money. Don't ask so many questions. Come on, plug up your ears. It's fireworks time!\"<br><br>\"...\"<br><br>\"...Holy moly! That's too much, man... Just spectacular!\"<br><br>\"I told you already. Don't question my professionalism. Let's go. It's over to you now.\"<br><br>\"Shh! Don't say anything. Can't you hear? I can hear voices inside!\"<br><br>\"What? N—No way, she said there were no guards.\"<br><br>\"It's the Silvermane Guards. The Silvermane Guards! It's the end of the line for us, bro. Scram!\"<br><br>\"Darn it. Poisson must've set us up! That piece of scum. This isn't finished yet!\"</i>"
+            "Title": "About Self",
+            "Voice": "Me? I'm just an easygoing fella that looks out for the little guy — free of charge I might add — who somehow gets pulled into everyone else's business with nothing to show for it! Tsk, like I say, I'm an easygoing fella."
         },
         {
-            "_id": 5,
-            "Story": "<i>\"Good morning, ma'am, I hope I haven't disturbed you.\"<br><br>\"...Who are you? Why are the Silvermane Guards knocking on my door first thing in the morning?\"<br><br>\"I'm sorry, ma'am. We're just carrying out building-to-building searches as ordered by the Architects.\"<br><br>\"Uh... searches? What are you searching for? I don't have anything...\"<br><br>\"Please calm down, ma'am — we are not targeting you. Everyone in the city is subject to questioning.\"<br><br>\"Has something... something big happened?\"<br><br>\"Please trust us. Everything will turn out fine if you cooperate with us. I just have one question: Do you have any wigs at home?\"<br><br>\"What... Wigs? No, I don't have any. As you can see, my hair is great... Why are you asking about that?\"<br><br>\"Are you sure? Please think again. The Silvermane Guards have been ordered to gather up all the wigs in Belobog City. Refusal to submit may result in serious consequences...\"<br><br>\"No, I'm sure. I don't have any of those at home — if you don't believe me, come inside and have a look.\"<br><br>\"Ah, that won't be necessary. I'm sure you have nothing to hide. Goodbye, ma'—\"<br><br>\"...Hold on a minute, can I ask what happened?\"<br><br>\"Oh, there's no harm in telling you. Recently, a male thief disguised as a woman has stowed away up here into the Overworld and is swindling everyone. This person is extremely slippery and changes appearance often. The Silvermane Guards have not been able to locate him. Apparently, the Minister of Security was absolutely furious at yesterday's briefing, and ordered the confiscation of all wigs in the city...\"<br><br>\"...Is that so? How outrageous!\"<br><br>\"I'll level with you. We all feel the same way as you do. We need to keep up our search, so I won't bother you any longer... Wishing you a good day, Madam Poisson.\"</i>"
+            "Title": "Chat: Intel",
+            "Voice": "If you package it right, you can sell the same piece of intel to different people! That, my friend, is called \"maximizing your profit.\""
+        },
+        {
+            "Title": "Hobbies",
+            "Voice": "I'm a firm believer in \"small talk brings big clients.\""
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "I sell things that buyers want to buy — and they call me a con man! It's outrageous!"
+        },
+        {
+            "Title": "Something to Share",
+            "Voice": "You'd think in a place as isolated as Belobog, people would be more willing to share what they have. Well, it's the exact opposite. And I'm more than happy to make up the shortfall."
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "Come on, how did you guys end up in the middle of the Snow Plains? UFO? Let me guess, you took a train, haha. Seriously though."
+        },
+        {
+            "Title": "About Natasha",
+            "Voice": "Back when I first arrived in the Underworld, I used to bring Natasha the medicines she needed. I did that for a while, and before long it was medicines and intel. You know how these things work."
+        },
+        {
+            "Title": "About Svarog",
+            "Voice": "If anyone out there ever managed to strike a deal with Svarog, they'd earn my heartfelt admiration!"
+        },
+        {
+            "Title": "About Clara",
+            "Voice": "Our little girl in red is truly impressive. How did she get that giant tinhead to listen to her?"
+        },
+        {
+            "Title": "About Seele",
+            "Voice": "If she had it her way, Miss Seele would spend less time yelling at me and more time actively trying to hit me. Can someone explain what I did to deserve her?"
+        },
+        {
+            "Title": "About Gepard",
+            "Voice": "Ah, we see each other pretty often — usually it's me running away and him running after me. Gotta say, I'm gradually beginning to enjoy the attention, hehe."
+        },
+        {
+            "Title": "About Serval",
+            "Voice": "We used to be good pals, but now... Let's just say her brother put in a bad word for me."
+        },
+        {
+            "Title": "About Bronya",
+            "Voice": "My only wish is to get acquainted with the supreme guardian-to-be. Any introduction will do — even a painful one!"
+        },
+        {
+            "Title": "About Luka",
+            "Voice": "Have you seen him compete? A lot of Underworlders made a lot of money off that kid! *sigh* Your pal Sampo here wasn't one of them..."
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "Everyone has a colorful past, wouldn't you say...?"
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "Double the pay, double the service!"
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "That's it? *sigh* I was just getting started..."
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "Smart decision! I won't disappoint you, friend."
+        },
+        {
+            "Title": "Added to Team With Natasha",
+            "Voice": "Miss Natasha! I thought I owed you a favor..."
+        },
+        {
+            "Title": "Added to Team With Hook",
+            "Voice": "Hook...? *sigh* Looks like we're playing hard ball."
+        },
+        {
+            "Title": "Added to Team With Seele",
+            "Voice": "Don't worry, Miss Seele! I'll watch your back!"
+        },
+        {
+            "Title": "Added to Team With Trailblazer",
+            "Voice": "Ha! Always an honor to have the Trailblazer by my side!"
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "We're just having fun."
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "Good! The stronger the better."
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "Sampo Koski always takes care of his friends."
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "Sounds like more business knocking."
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "Can we bring out the big guns already?"
+        },
+        {
+            "Title": "Skill",
+            "Voice": "Try this on for size?"
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "Ooh, ouch..."
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "Hey! W—Watch the face!"
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "What are you waiting for?"
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "The customer is king, and for me to betray the king, well... You gotta make it worth my while."
+        },
+        {
+            "Title": "Downed",
+            "Voice": "This price was too steep..."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "One good turn deserves another!"
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "I owe you one~"
+        },
+        {
+            "Title": "Technique",
+            "Voice": "Heehee~"
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "How're you gonna win if you don't take any risks?"
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "No cash?"
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "You like it? It's yours for the taking!"
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "Whoa. That's good stuff! Let me take a look."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "Hey now! Pretty good."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "Solving people's problems is my specialty⁓!"
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "I dunno — this one looks kinda tough..."
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "Wherever there is business, there is Sampo."
         }
     ]
 }

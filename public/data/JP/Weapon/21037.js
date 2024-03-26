@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21037": "<i>\"You don't believe me?\"</i><br>He provocatively looks at the man before him, then draws out a revolver, empties its cylinder, and leaves a single shot in the chamber.<br><br><i>\"Seems like I'll need to get you up to speed on how I do things if our cooperation were to remain amicable.\"</i><br>He pushes the gun into his opponent's hand, spins the cylinder, and points the barrel to his own chest.<br><br>He pulls the trigger repeatedly, and the smile on his face remains the same after three empty clicks.<br><i>\"Life is a grand gamble, and I'll always be the final victor.\"</i>"
+    "21037": "<i>「僕が信じられないのかい？」</i><br>彼は挑発的な顔で目の前の男を見つめると、銃を取り出した。そして虚空に向け、弾が最後の1発になるまで引き金を引く。<br><br><i>「どうやら協力関係を築くためには、僕のやり方を見せないといけないらしい」</i><br>彼は銃を相手に握らせてからシリンダーを回し、そのまま銃口を自分に向けた。<br><br>そして引き金を連続で引くと、カチッという音が3回鳴った後、彼は笑みをこぼした。<br><i>「人生とは壮大なギャンブルであり、最後の勝者はいつだってこの僕なんだ」</i>"
 }
 
 var _weaponskill_ = {

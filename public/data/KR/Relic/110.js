@@ -3,27 +3,27 @@
 var _relicitem_ = {
     "110": [
         {
-            "Name": "Eagle's Beaked Helmet",
-            "Desc": "An aerodynamic helmet used in high-speed flights. It is shaped like the beak of a skyfish eagle.",
-            "Story": "Every day at dawn, Salsotto's skyfishers would depart from the moving city's skyport, soaring in the air with their winged suits, hunting for phlogiston jellyfish that flew out of the sand.<br><br>Phlogiston, an essential component of the Phase Flame, was the blood of the colossal moving city. Phlogiston must be sufficiently captured and gathered to ensure that the whole city could always stay ahead before the twilight zone that divided day and night.<br><br>If any skyfishers died from exhaustion or were attacked by giant birds, Salsottians would spare no effort in bringing back their remains and would bury their winged suits and eagle helmets with them in the dark land. According to the traditional Salsottian rituals, \"landing\" equals death and is a symbol of eternal rest.<br><br>The flight must never stop, just like how the city must never stop moving.<br><br>This eagle helmet has a short condolence message carved on its beak: \"Landing is not the eagles' shackle, wings are, because of which you have to fly.\"",
+            "Name": "매의 부리 헬멧",
+            "Desc": "고속 비행에 사용되는 유체 헬멧. 공어매(空漁鷹)처럼 부리가 있다",
+            "Story": "살소토의 공어부(空漁夫)들은 매일 새벽 이동 도시의 「공중 부두」에서 출발해 공중에 날개옷을 펼치고 모래에서 튀어나오는 플로지스톤 해파리를 사냥한다.<br><br>「위상의 불꽃」을 구성하는 플로지스톤은 거대한 이동 도시를 움직이는 도시의 혈액과 같은 물질이다. 매일 충분한 양을 확보해야 도시의 밤낮이 바뀌는 주야 경계선에 뒤쳐지지 않는다.<br><br>누군가가 도중에 힘이 다하거나 거대한 새의 공격으로 죽게 되면 살소토 사람은 최선을 다해 그 사람의 시신을 찾아내 날개옷과 매의 헬멧을 함께 어두운 땅에 묻는다. 살소토의 전통 의식에서 「착지」는 곧 죽음이며 영원한 안식을 의미한다.<br><br>비행은 멈출 수 없고, 도시 역시 멈출 수 없다.<br><br>매의 헬멧의 부리에는 추도사가 새겨져 있다. 「대지가 아닌 날개야말로 매의 족쇄이다. 그것 때문에 반드시 날아야 하니까」",
             "Icon": "IconRelic_110_1.png"
         },
         {
-            "Name": "Eagle's Soaring Ring",
-            "Desc": "A ring worn by an outstanding skyfisher master, with a pair of skyfish eagle's wings holding tight the wearer's finger.",
-            "Story": "Only the most skilled, respected, and reliable skyfisher captains would receive a Soaring Ring. They blew their fishing whistles in the sky and seamlessly coordinated with one another, like they were the most sharp-eyed hunting eagles.<br><br>For the duration of each flight, each team member was lonely and vulnerable. All they could rely on were the 124 types of whistles that could be performed by their team captain.<br><br>Hence, there had long been a saying in Salsotto — \"Skyfishers entrusted one-third of their lives to the rigorously developed technology, one-third to their ingeniously refined equipment, and one-third to their reliable lead skyfisher captain.\"<br><br>Being asked by so many families to take care of their skyfisher children, the team captain constantly felt the burden of this little ring he wore.<br><br>This Soaring Ring's etching was mottled, with one word engraved on the inner side of the ring: \"Responsibility.\"",
+            "Name": "매의 활공 반지",
+            "Desc": "탁월한 공어부(空漁夫) 대가가 착용한 반지 공어매(空漁鷹)의 두 날개가 손가락을 감싸고 있다",
+            "Story": "가장 뛰어난 기술을 가지고 있고 존경 받을 만한 공어 어렵 대장만이 「매의 반지」를 받는다. 이들은 피리로 공중에서 빈틈없는 연계를 이뤄내는 가장 민첩한 사냥매다.<br><br>고독한 비행 중에 들려오는 대장의 124가지 「피리 소리」는 대원들에게 큰 위안이 된다.<br><br>이 때문에 살소토에는 이러한 속담이 전해 내려온다. 「공어부들은 목숨 중 3분의 1은 숙련된 기술에, 3분의 1은 정교한 장비에, 나머지 3분의 1은 신뢰하는 대장에게 달려있다」<br><br>수많은 가정을 책임지고 있는 대장은 단 한시도 이 조그만 반지의 무게를 잊을 수 없다.<br><br>반지 표면에 새겨졌던 세공은 지워진 지 오래지만, 안쪽에 새겨져 있는 「책임」이라는 단어는 아직도 선명하게 남아있다",
             "Icon": "IconRelic_110_2.png"
         },
         {
-            "Name": "Eagle's Winged Suit Harness",
-            "Desc": "A belt harness that connects the winged suit with metal supports embedded in thick linen. Soft and tight-fitting.",
-            "Story": "It was no easy feat for Salsotto's skyfishers to entrap and hunt phlogiston jellyfish that flew out of the sand. During turbulent flights, the seemingly tender and soft safety harness was the thread of life for a skyfisher.<br><br>Hunting phlogiston jellyfish was never easy. From trick moves to intense chasing, from precise blocking to the final capturing act, one wrong move in any one of these links in the chain could mean mortal danger.<br><br>It was customary for a young skyfisher to get one strand of hair from each parent and weave them into the harness with metal supports, while a married one should get one from their spouse. In this manner, the harness would be blessed by the power of \"home\" and ensure that the skyfisher always returned safely.<br><br>In this cruel world where all fought hard for survival, \"home\" was the only place that could offer comfort and support for a skyfisher.<br><br>The hair inside this harness was still intact, with a faint white at the root. It came from a female.",
+            "Name": "매의 날개 장비 벨트",
+            "Desc": "날개 장비를 연결하는 벨트. 금속 지지대는 벨트에 숨겨졌으며 부드럽고 몸에 감긴다",
+            "Story": "살소투의 공어부(空漁夫)들에게도 모래 속에서 튀어나오는 플로지스톤 해파리를 잡는 것은 쉬운 일이 아니다. 비행 중 난기류에 휩쓸릴 때 외부 공역으로 날아가버리지 않게 그들을 잡아주는 생명줄은 오직 가느다랗고 연약해 보이는 안전띠뿐이다.<br><br>게다가 사냥 도중에 이루어지는 속임수 동작 역시 쉽지 않다. 추적, 차단술에서 최종 포획에 이르기까지 모든 과정에서 단 한 번의 실수라도 일어날 경우, 치명적인 결과로 이어질 수 있다.<br><br>미성년 공어부의 경우 부모로부터 머리카락 한 올씩을 뽑아서 금속 지지대에 묶고, 결혼을 했을 경우에는 배우자의 머리카락을 사용한다. 이렇게 하면 날개 장비에 「가족」의 축복이 깃들어서 공어부를 무사히 집으로 돌아갈 수 있게 해준다고 한다.<br><br>잔혹산 생존의 세계에서 공어부들의 등을 받쳐주는 곳은 오직 「가족」뿐이다.<br><br>이 벨트에 묶여 있는 머리카락은 여성의 것으로 보이며, 끝부분은 약간 하얗다",
             "Icon": "IconRelic_110_3.png"
         },
         {
-            "Name": "Eagle's Quilted Puttees",
-            "Desc": "Puttees to keep the legs warm during flights, decorated with a skyfish eagle's bristle feathers.",
-            "Story": "Hunting phlogiston jellyfish was a long survival game for skyfishers from Salsotto. Legs, being far from the heart, can only maintain their temperature when tightly strapped in fluffy feather puttees.<br><br>Only at the end of the long and highly stressful hunt would an exhausted skyfisher begin to feel pain and fatigue.<br><br>For those unprepared, it would be too late to discover their partial necrosis caused by severe frostbite. Therefore, skyfishers would check if they had tightened their puttees many times before taking off. After all, they wouldn't get another chance to do so in high-speed flight.<br><br>They knew what the wind would take away as they stepped into the sky.<br><br>Traces of lime powder and aluminum powder were found in the metal shell embedded in the puttee, which seemed to be a means of emergency heating.",
+            "Name": "매의 깃털 붕대",
+            "Desc": "비행 중 다리를 따뜻하게 해주는 붕대. 공어매(空漁鷹)의 깃털이 장식되어 있다",
+            "Story": "살소토의 공어부(空渔人)가 플로지스톤 해파리를 사냥하는 과정은 생존을 건 전투와 같다. 심장에서 가장 멀리 떨어져 있는 두 다리는 깃털 보온 붕대로 단단히 감싸야만 체온을 유지할 수 있다.<br><br>길고 고된 사냥이 끝나면 극한까지 몰린 신체는 그제서야 피로와 통증을 느끼기 시작한다.<br><br>이때 철저하게 준비하지 않은 공어부는 심각한 동상으로 인해 신체 일부가 괴사하는 일이 발생하기도 한다. 이 때문에 공어부들은 출발하기 전에 깃털 보온 붕대를 단단히 조였는지 거듭 확인한다. 빠른 속도로 비행하는 도중에는 다시 조일 수 없기 때문이다.<br><br>그들은 하늘에 발을 내딛는 순간부터 돌풍이 무엇을 앗아갈 수 있는지 정확히 알고 있다.<br><br>이 붕대의 내부에 장착되어 있는 금속 케이스에는 약간의 석회나 알루미늄 분말을 태운 흔적이 남아있다. 비상 난방 수단으로 사용한 것 같다",
             "Icon": "IconRelic_110_4.png"
         }
     ]

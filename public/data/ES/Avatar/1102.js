@@ -440,24 +440,192 @@ var _story_ = {
 var _voice_ = {
     "1102": [
         {
-            "_id": 1,
-            "Story": "A spirited and valiant member of Wildfire who grew up in the perilous Underworld of Belobog. She is accustomed to being on her own.<br>The protectors and the protected, the oppressors and the oppressed... The world Seele grew up knowing was just a simple dichotomy...<br>That is, until \"that girl\" appeared."
+            "Title": "First Meeting",
+            "Voice": "Hey, I'm Seele. I'm a member of Wildfire down here in the Underworld. Wanna help me forge a future for the people?"
         },
         {
-            "_id": 2,
-            "Story": "Seele's first fight in her life was for herself.<br><br>Back then, she would wander aimlessly through the alleyways each day. When she was thirsty, she'd beg for water at the orphanage. When she was hungry, she'd swap scraps she found with the merchants for biscuits. Everyone in the dark side of Rivet Town knew that fearless homeless girl, and everyone was keen to avoid this wild, stubborn little rascal.<br><br>One hot evening, she felt very thirsty from too much playing. She arrived at the orphanage to discover the bucket containing water from the well is almost empty. Another shriveled homeless man was also there trying to get a drink — and after a power struggle which involved fists and even teeth, the man fled and Seele earned the right to slake her thirst alone.<br><br>Seele saw the man three days later. Through the window of the clinic, she saw that wizened figure at death's door, lying on a stretcher.<br><br>Ever since then, she's always left a little water in the bucket for the people coming later."
+            "Title": "Greeting",
+            "Voice": "Right on time — let's start the patrol."
         },
         {
-            "_id": 3,
-            "Story": "As a child, Seele only ever went up to the Overworld once. That was after she'd met Oleg — who at the time was still captain of the Underworld's Silvermane Guards. Oleg hid Seele in his supply bag one day and took her up to the Overworld by cable car to give her a peek at the city she yearned for.<br><br>Seele followed Oleg around the sights of Belobog, eating delicious foods and dressing up in splendid clothes beyond her wildest imagination. She scared off a group of kids with her uncouth miner slang, which caused Oleg to burst out into laughter. Those two short days were full of joy and laughter.<br><br>Before leaving that evening, they sat on a bench in the Administrative District Plaza as Seele stared at the restaurant opposite them.<br><br><i>\"Was the Overworld fun, Seele? Wanna come back again later?\"<br>\"Can I ask you something?\"<br>\"...What's up? Ask away.\"<br>\"Those Overworlders are only eating half their meal, and threw the rest away.\"<br>\"...\"<br>\"Do they know that people down below haven't got enough food to eat?\"<br>\"...\"</i><br><br>Oleg saw how a look of gloom passed over her tender face.<br><br><i>\"Let's go back, Oleg. I don't want to come back here again.\"</i>"
+            "Title": "Parting",
+            "Voice": "Hey, you're about to fall asleep on your feet. Don't push yourself — I got this. Go get some rest."
         },
         {
-            "_id": 4,
-            "Story": "Lying on the clinic's bed, Seele is finally able to calm herself down as she silently thought over her experiences since becoming a member of Wildfire.<br><br>Injuries and blood are routine occurrences for her. Seele has a better-than-average tolerance for pain, which allows her to fully unleash herself in combat — ignoring any lingering bumps and bruises.<br><br>Wounds will always heal, just as the threat of the Fragmentum will always grow. Just as people always return to their boring lives once rescued. Sometimes, a misconception would pop up in Seele's mind, as if time in the Underworld had come to a standstill... It somehow seems that all the efforts she and Wildfire had made are all in vain.<br><br>The doctor comes over and gently asks about her injury. Seele struggles to organize words, and conveys her confusion to the doctor.<br><br><i>\"What's more important than miracles, Seele,\"</i> the doctor says with a smile as she places her palm lightly on Seele's forehead, <i>\"is to protect people's hopes for miracles.\"</i>"
+            "Title": "About Self: Childhood",
+            "Voice": "Me as a child? Hook times ten."
         },
         {
-            "_id": 5,
-            "Story": "The Administrative District Plaza is a crowded place, and it's where almost half the residents of Belobog are now gathering. Suppressing her disdain for bustling crowds, Seele scans across the faces in the Plaza with her careful gaze.<br><br>Her hard work pays off, and she soon locks onto a target. A man wearing a gray hat, his hands in his pockets, is scuttling back and forth through the crowds while slyly looking from side to side with a sharp expression. After confirming that nobody is watching — at least, so he thinks — the man reaches out to grab the satchel of the woman beside him.<br><br>But before his fingers could reach the bag's zip, a slender but forceful hand quickly grabs his wrist. He nearly cries out with the pain, but Seele clasps her other hand over his mouth.<br><br><i>\"Not a peep from you.\"</i><br><br>The majestic cry of horns resounds throughout the skies, and the bustling crowd falls silent immediately. A man in a comical outfit rushes to the podium, and shouts in a piercing voice —<br><br><i>\"Ladies and gentlemen! For the ribbon-cutting part of this ceremony, please welcome to the stage — the Supreme Guardian herself, Madam Bronya Rand!\"</i><br><br>Deafening cheers erupt from the plaza. Seele quietly pulls the pickpocket out of the crowd during the ruckus, and escorts him to the Silvermane Guards on duty. She turns to look back at the distant stage, and briefly locks eyes with the woman in the white dress. The Supreme Guardian flashes her an ever-so-brief smile, and Seele nods slightly in response.<br><br>And then, they go their separate ways — one stepping into the light, the other into the shadows.<br>— One day, they will finally meet again."
+            "Title": "Chat: Life Underground",
+            "Voice": "We may live underground, but we won't be buried by this city."
+        },
+        {
+            "Title": "Hobbies",
+            "Voice": "I like to keep my scythe sharp so I can get a good night's sleep on it."
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "I'm over it now, but... when I was young, I used to keep my favorite comic books in the clinic. Then the other kids started borrowing them... permanently."
+        },
+        {
+            "Title": "Something to Share",
+            "Voice": "The chief's right — sometimes a sharp blade is the only way to get people to come to their senses."
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "Hmm... Can I see this Pom-Pom? Sounds like a talking teddy bear to me."
+        },
+        {
+            "Title": "About Natasha",
+            "Voice": "I learned when I was a kid that temper tantrums won't get you anywhere with Nat... Let's just say she knew how to give you a taste of your own medicine."
+        },
+        {
+            "Title": "About Clara",
+            "Voice": "That girl doesn't talk much, but... I know she doesn't see us as her enemy."
+        },
+        {
+            "Title": "About Svarog",
+            "Voice": "Heh, Svarog's always going on about \"humanity's endless conflicts,\" but you don't get peace by offering everything up on a silver platter."
+        },
+        {
+            "Title": "About Sampo",
+            "Voice": "If you need something done, he might be your man. But if you feel like befriending him, do yourself a favor: don't."
+        },
+        {
+            "Title": "About Hook",
+            "Voice": "Don't let her appetite for chaos fool you — I think that kid's going places."
+        },
+        {
+            "Title": "About Oleg",
+            "Voice": "I probably owe my life to the chief."
+        },
+        {
+            "Title": "About Bronya",
+            "Voice": "It was the first time both of us had seen Belobog's real sky... the same sky."
+        },
+        {
+            "Title": "About Luka",
+            "Voice": "You think I'm too competitive? Ha, guess you haven't met Luka."
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "Where there's hope, there's the will to fight."
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "Good news...? I'll take it."
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "Ha, try standing in my way now."
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "Aha, that'll come in handy."
+        },
+        {
+            "Title": "Added to Team With Hook",
+            "Voice": "Hook? Shouldn't you be in... *sigh* Fine, just stay close."
+        },
+        {
+            "Title": "Added to Team With Bronya",
+            "Voice": "I'll take the front line. Stay safe, Bronya."
+        },
+        {
+            "Title": "Added to Team With Natasha",
+            "Voice": "Managed to grab some sleep, Nat? Don't burn yourself out."
+        },
+        {
+            "Title": "Added to Team With Luka",
+            "Voice": "Pair up with him? *sigh* Alright, Luka, let's do this."
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "So you are afraid of me."
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "*sigh* Great."
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "What a headache."
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "Don't mess with me."
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "Come on, I wanna try something out."
+        },
+        {
+            "Title": "Basic ATK",
+            "Voice": "Who's next?"
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "Ahhh."
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "Argh, only a scratch."
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "I'll free you from your chains."
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "Disappear among the sea of butterflies, illusions of the past!"
+        },
+        {
+            "Title": "Talent",
+            "Voice": "Let me end your misery."
+        },
+        {
+            "Title": "Downed",
+            "Voice": "I can still fight..."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "It's not over yet."
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "Thanks."
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "A sharp scythe needs targets."
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "Time well spent."
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "Mm-hmm, not bad."
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "Hey! Pretty generous."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "Not bad at all."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "That was unnecessarily difficult..."
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "Enemies ahead... up for a scrap?"
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "Let's take it in turns. You rest, I'll stand guard."
         }
     ]
 }

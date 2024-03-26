@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "20004": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br><br><i>\"He stared into the void, hanging high like the dark sun at the end of all matter, or a mouth that answered all questions. It said: ███ █ ███ ██ The answer couldn't be expressed in any human language, but could be understood by all.\"</i>"
+    "20004": "세월에서 추출한 희박한 힘. 보잘것없는 찰나의 순간들이 모여 엮어진 장렬한 운명.<br><br><i>「그는 공허를 응시했다. 마치 만물의 종말에서 높이 걸린 검은 태양처럼, 또 마치 모든 의문에 해답을 내놓는 입처럼. 그 입이 말하길: ███ █ ███ ██ 이 대답은 인간의 어떤 언어로도 설명할 수 없었으나 모두가 이를 이해할 수 있었다」</i>"
 }
 
 var _weaponskill_ = {

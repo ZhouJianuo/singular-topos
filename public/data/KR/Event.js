@@ -27,15 +27,70 @@ var _event = [
         ]
     },
     {
-        "_id": 50010,
-        "Icon": "BtnQuestFeverTime.png",
-        "Name": "Tides of War",
-        "Desc": "A researcher from the Maintenance Department unexpectedly made a fighting game inside the Memory Bubble. He invites you to come and play...",
-        "Story": "◆ Introduction ◆<br>A researcher from the Maintenance Department is your \"Fanboy.\" He used Memory Bubbles to recreate his favorite childhood game. He specifically asked someone to invite you to play it, even preparing a \"support function\" for you. It really is too kind to refuse...<br><br>◆ Event Rules ◆<br>● In this event, 6 combat stages will be unlocked one by one.<br>● When the Trailblazer increases their Equilibrium Level, enemies will correspondingly increase in strength.<br>● Trailblazers can select trial characters to take part in the challenge.<br>● In combat, you must defeat 3 waves of Boss Enemies within 6 Cycles. Non-boss enemies will also constantly appear.<br>● A higher rating can be achieved if there are Cycles remaining when the stage is cleared.<br>● Energy regenerated when an ally defeats an enemy is equal to 50% of that of normal combat.<br><br>◆ Gameplay Overview ◆<br>● Each stage has its own Grit Mechanics. Trigger it to quickly accumulate and increase Grit Value, increase your Grit Phase, and obtain more buffs.<br>● After entering Grit Phase 4: Might Unleashed, you will obtain powerful Stage Buffs to defeat enemies!<br><br>◆ Grit Value ◆<br>● Grit Value is accumulated each time Grit Mechanics are triggered during battle.<br>● Characters can accumulate a small amount of Grit Value each time they take action.<br>● Once your Grit Value reaches the target value, you can raise your Grit Phase.<br>● The amount of Grit Value required to raise your Grit Phase in each stage is different. You can check it in the stage.<br><br>◆ Grit Phase ◆<br>● There are 4 Grit Phases. Every time you reach the next phase, you can activate an additional support function to obtain more Stage Buffs.<br>● Enter Grit Phase 4: Might Unleashed to gain powerful buffs. The support function active in this phase is the core buff for this stage and is added by default and cannot be selected.<br>● For each stage, the support functions in Grit Phase 2 and Grit Phase 3 need to be selected before entering battle.<br>● Grit Phase 4: Might Unleashed will end within a certain amount of action value and combat will return to Grit Phase 3 when this ends.<br>● During Grit Phase 4: Might Unleashed, each attack against an enemy accumulates Limit-Broken Attack. Based on the number of Limit-Broken Attacks accumulated, a certain amount of Grit Value will be returned when you return to Grit Phase 3, helping you to quickly re-enter Grit Phase 4: Might Unleashed.<br><br>◆ Event Rewards ◆<br>● During the event, increase Grit Phase to a certain Phase in each stage and defeat the stage boss to claim stage rewards from \"Limited-Time Rewards.\"<br>● Challenge all stages and defeat the first wave of bosses in all stages to claim Bob's Offering.",
+        "_id": 50013,
+        "Icon": "SpriteOutput/UI/Quest/ExpeditionAboutBoothill/ImgExpeditionAboutBoothillBanner.png",
+        "Name": "부트힐에 관한 모든 것…",
+        "Desc": "관리과 연구원 지드가 우주정거장을 돌아다니며 당신을 찾고 있다. 그녀는 기밀 사항을 알려주며 이 모든 이야기는 어느 시끌벅적한 「우주 카우보이」부터 시작된다고 하는데……",
+        "Story": "◆ Introduction ◆<br>◆ The researchers at the space station have brought in several assignments from the IPC and handed them over to you. It seems that all of this is related to a certain rambunctious \"interstellar cowboy\"...<br><br>◆ Event Rules ◆<br>◆ When the event begins, 24 assignments will be released. Up to 4 assignments can be accepted at a time.<br>◆ Each assignment requires at least two characters to complete. Assignments will be given ratings in the following descending order: S, A, or B, based on the assignment's rating. Using recommended Paths or higher-level characters can increase the assignment's rating and earn additional bonus rewards.<br>◆ Event assignments do not count toward the regular assignment limit or use up characters from regular assignments. Trailblazers can assign 1 Friend's Support Character to each event assignment.<br><br>◆ Event Rewards ◆<br>◆ During the event, Trailblazers can obtain rewards by assigning characters to complete the event assignments.",
         "Reward": [
+            1,
+            213,
+            233,
+            2
+        ],
+        "Ver": "2.2"
+    },
+    {
+        "_id": 50012,
+        "Icon": "BtnClockPark.png",
+        "Name": "≪시계 소년: 좋은꿈의 과거≫",
+        "Desc": "Clock Studios, the production company behind the \"Clockie\" animation series, is facing a crisis. The theme park has been damaged, Clockie's copyright has expired, and The Family is stirring up trouble... Under immense pressure, they are preparing to step up the production of a series of films titled \"Dreamjoy Memoir.\" However, the director of the film is currently missing...",
+        "Story": "◆ 소개 ◆<br>「시계공」의 실종으로 클락 스튜디오는 운영 중단의 위기에 빠졌습니다. 어서 그들을 도와 시계 소년 영화 ≪좋은꿈의 과거≫의 편집 작업을 마치세요!<br><br>◆ 영화 편집 ◆<br>● 모험 임무 「아주 먼 옛날, 좋은꿈 마을에…」를 완료하면 ≪좋은꿈의 과거≫를 편집할 수 있습니다.<br>● 영화 편집 과정 중, ≪좋은꿈의 과거≫의 편집 진도는 스튜디오 테마파크가 자원을 지원받을 수 있도록 해주며, 100%에 도달하면 스튜디오 테마파크를 부흥시킬 개봉 이벤트를 개최할 수 있습니다. 시사회 완료 후 획득하는 자금 지원은 스튜디오 테마파크의 파괴된 스크린을 수리하는 데 사용됩니다.<br>● 편집 진도가 상승함에 따라, 제작팀은 「광고 영상」을 촬영할 기회를 얻게 됩니다. 광고 영상 임무를 완료하면 보상을 획득할 수 있습니다.<br>● ≪좋은꿈의 과거≫의 편집 진도에 따라 더 많은 「광고 영상」이 개방됩니다.<br><br>◆ 영화 편집 ◆<br> 영화 편집의 핵심은 시간 주사위를 적절히 사용하는 것입니다. 시간 주사위를 여러 플롯 장치에 분배하면, 해당하는 플롯 장치의 샷 수량이 증가합니다. 동시에 여러 관객의 피드백을 받을 수 있으며, 영화의 스릴, 즐거움, 감동 감정에 변화가 생깁니다. 이 세 가지 관객 감정은 영화 흥패의 관건입니다.<br>● 영화가 완료되기 전, 내부 시사회가 먼저 진행됩니다. 영화마다 각기 다른 시사 기준이 있으며, 특정 조건을 달성해야만 내부 심사회를 통과할 수 있습니다.<br>● 시사회 단계를 통과하지 못한 영화는 편집 실패로 간주합니다. 이와 동시에, 만약 영화의 세 가지 관객 감정 중 0이 된 감정이 있으면 내용에 문제가 있음을 나타내며, 편집 실패로 판정됩니다.<br><br>◆ 외전 스토리 ◆<br>● 영화 편집 과정 중, 영화 편집을 성공적으로 마치면 조연들의 외전 필름을 얻을 수 있고, 외전 예고편이 포함된 장면을 성공적으로 촬영하면 해당하는 외전 영화를 개방할 수 있습니다. 테마파크 스튜디오 곳곳에 있는 애니메이터들을 도와 조연들의 스토리를 완료하세요!<br><br>◆ 상시 보상 ◆<br>● 편집 과정 중, 다른 장면을 시도하여 기존과 완전히 다른 엔딩에 다다를 수 있습니다. 편집을 통해 각각의 엔딩을 달성할 때마다 시계 영화 보수에서 해당하는 보상을 획득할 수 있습니다.",
+        "Reward": [
+            236,
+            241,
+            1,
+            22002,
+            220005,
+            213,
+            223,
+            233,
+            110232,
+            2
+        ],
+        "Ver": "2.2"
+    },
+    {
+        "_id": 50011,
+        "Icon": "BtnEvolveBuild.png",
+        "Name": "은하 방망이 협객 전설",
+        "Desc": "",
+        "Story": "",
+        "Reward": [
+            236,
             241,
             1,
             235,
+            213,
+            223,
+            233,
+            110192,
+            2
+        ],
+        "Ver": "2.2"
+    },
+    {
+        "_id": 50010,
+        "Icon": "BtnQuestTelevision.png",
+        "Name": "전의의 파도",
+        "Desc": "정비과의 어느 연구원이 기억 거품을 이용해 전투 게임을 만들었다. 그는 당신을 게임에 초대하는데……",
+        "Story": "◆ 소개 ◆<br>정비과에 당신의 「팬」인 한 연구원이 있습니다. 그는 기억 거품을 이용해 자신이 어린 시절 가장 좋아했던 게임을 재현했습니다. 그는 특별히 사람을 보내 당신을 게임에 초대했고, 친절하게 [서포트 기능]까지 준비했습니다. 이 호의를 거절하긴 어려워 보입니다……. <br><br>◆ 이벤트 규칙 ◆<br>● 이번 이벤트에선 6개의 전투 스테이지가 매일 순차적으로 개방됩니다.<br>● 전투 중 6 라운드 내에 3 웨이브의 보스를 처치해야 합니다. 보스가 아닌 적은 끊임없이 리스폰됩니다.<br>● 클리어 시 남은 라운드가 있을 경우 더 높은 등급을 획득할 수 있습니다.<br>● 아군 캐릭터가 적 처치 시 회복하는 에너지는 일반 전투의 50%입니다.<br>● 체험 캐릭터를 선택해 도전에 참여할 수 있습니다.<br>● 「균형 레벨」을 올리면 적의 강도도 함께 증가합니다.<br><br>◆ 콘텐츠 개요 ◆<br>● 스테이지마다 「전의 메커니즘」이 존재합니다. 이를 발동하면 빠르게 「전의 수치」를 누적해 「전의 단계」를 올려 더 많은 버프를 획득할 수 있습니다.<br>● 「전의 4단계: 힘의 각성」에 진입하면 강력한 스테이지 버프를 획득해 적을 처치할 수 있습니다!<br><br>◆ 전의 수치 ◆<br>● 전투 중 「전의 메커니즘」이 발동될 때마다 대량의 「전의 수치」를 누적할 수 있습니다.<br>● 캐릭터가 행동할 때마다 소량의 「전의 수치」를 누적할 수 있습니다.<br>● 「전의 수치」가 목표치에 도달하면 「전의 단계」를 올릴 수 있습니다.<br>● 「전의 단계」를 올리기 위해 필요한 「전의 수치」는 각 스테이지마다 다르며, 이는 스테이지 내에서 확인할 수 있습니다.<br><br>◆ 전의 단계 ◆<br>● 「전의 단계」는 총 4단계로 나뉘며, 각 단계에 도달할 때마다 추가로 「서포트 기능」을 1개 활성화하여 더 많은 스테이지 버프를 획득할 수 있습니다.<br>● [전의 4단계: 힘의 각성] 진입 시 강력한 버프를 획득할 수 있습니다. 해당 단계에 적용되는 [서포트 기능]은 해당 스테이지의 핵심 버프로, 기본적으로 추가되며 선택할 수 없습니다.<br>● 각 스테이지의 「전의 2단계」, 「전의 3단계」에서 적용되는 「서포트 기능」은 전투에 진입하기 전에 선택해야 합니다.<br>● 「전의 4단계: 힘의 각성」은 일정 행동 수치 내에 종료되며, 종료 후 「전의 3단계」로 돌아가게 됩니다.<br>● 「전의 4단계: 힘의 각성」 단계 동안 적을 공격할 때마다 「각성 공격」을 누적할 수 있습니다. 단계가 종료되어 「전의 3단계」로 돌아갈 때, 「각성 공격」의 누적 횟수에 따라 「전의 수치」가 일정량 반환되어 더 빠르게 「전의 4단계: 힘의 각성」에 재진입할 수 있습니다.<br><br>◆ 이벤트 보상 ◆<br>● 이벤트 기간 동안 스테이지에서 「전의 단계」를 지정된 단계까지 올리고 스테이지 보스를 처치하면, 「한정 보상」에서 스테이지 보상을 수령할 수 있습니다.<br>● 모든 스테이지에 도전하고 모든 스테이지의 1차 웨이브 보스를 처치하면 답례품을 받을 수 있습니다.",
+        "Reward": [
+            236,
+            241,
+            1,
+            22002,
+            220004,
             213,
             223,
             233,
@@ -73,9 +128,9 @@ var _event = [
     {
         "_id": 50009,
         "Icon": "BtnQuestDrinkMaker.png",
-        "Name": "Vignettes in a Cup",
-        "Desc": "The manager of the Dreamjolt Hostelry is away and has entrusted you to take over the role of the drinksmith. However, the patrons of the bar are not ordinary customers...",
-        "Story": "◆ Introduction ◆<br>The manager of the Dreamjolt Hostelry is away and has entrusted you to take over the role of the drinksmith. However, the patrons of the bar are not ordinary customers...<br><br>◆ Event Rules ◆<br>● In the Vignettes in a Cup event, the Trailblazer will play the role of the drinksmith, conversing with members of the Dreamjolt Troupe and crafting drinks that meet their needs to gain their trust and address their emotional troubles.<br><br>◆ Permanent Rewards ◆<br>● After serving customers, you will receive Tips. If you meet their needs, you will receive extra Tips.<br>● Tips can be exchanged for rewards in the Revenue Statistics.<br><br>◆ Limited-time Rewards ◆<br>● During the limited-time event, completing specified missions will earn you corresponding rewards.<br><br>◆ Event Reminders ◆<br>After the Vignettes in a Cup limited-time event ends, Trailblazers will no longer be able to obtain the limited-time rewards, but they can still visit the Drink Lounge in the Dreamjolt Hostelry map to experience and obtain permanent rewards.",
+        "Name": "잔 속의 에피소드",
+        "Desc": "「나쁜꿈 바」의 관리자는 외출할 일이 있어 당신에게 음료 제조가 일을 의뢰하게 된다. 하지만 뜻밖에도 바에 오는 손님들은 평범한 손님들이 아니었는데……",
+        "Story": "◆ 소개 ◆<br>「나쁜꿈 바」의 관리자는 외출할 일이 있어 당신에게 음료 제조가 일을 의뢰하게 됩니다. 하지만 뜻밖에도 바에 오는 손님들은 평범한 손님들이 아니었는데…….<br><br>◆ 이벤트 규칙 ◆<br>「잔 속의 에피소드」 이벤트에서 개척자는 음료 제조가가 되어 「나쁜꿈 극단」의 단원들과 이야기를 나누고, 그들이 원하는 음료를 만들어 신뢰를 얻어 그들의 감정 문제를 해결하게 됩니다.<br><br>◆ 상시 보상 ◆<br>● 손님을 접대하면 「손님의 팁」을 획득할 수 있습니다. 그들의 요구를 충족시키면 「손님의 팁」을 더 많이 획득할 수 있습니다.<br>● 「손님의 팁」은 「매출 통계」에서 보상으로 교환할 수 있습니다.<br><br>◆ 한정 보상 ◆<br>● 한정 이벤트 기간에 지정 임무 목표를 완료하면 대응하는 보상을 획득할 수 있습니다.<br><br>◆ 이벤트 알림 ◆<br>「잔 속의 에피소드」 한정 이벤트가 종료된 후에는 이벤트 기간의 한정 보상을 획득할 수 없으나, 필드 「나쁜꿈 바」의 「음료 제조대」를 체험하여 상시 보상을 획득할 수 있습니다.",
         "Reward": [
             236,
             241,
@@ -92,9 +147,9 @@ var _event = [
     {
         "_id": 50008,
         "Icon": "BtnQuestMonopoly.png",
-        "Name": "Cosmodyssey",
-        "Desc": "The Astral Express received a package from a Nameless. Pom-Pom is waiting for you to return to the Express to open it together and see what's inside...",
-        "Story": "◆ Introduction ◆<br>The Astral Express received a package from a Nameless. Pom-Pom is waiting for you to return to the Express to open it together and see what's inside...<br><br>◆ Event Goal ◆<br>● Trailblazers need to continuously acquire \"Trailblaze Funds\" to unlock server-wide and individual rewards.<br>● During the event, continuously contribute Trailblaze Funds to accumulate Individual Contribution and unlock corresponding rewards.<br>● Individual Contribution will also boost Cosmic Contribution Progress. When Cosmic Contribution Progress reaches specific milestones, you will unlock milestone rewards.<br><br>◆ Event Rules ◆<br>● Login daily to earn dice. Rolling dice allows players to advance on the map and earn Trailblaze Funds through various gameplay modes. When the dice are depleted, Trailblazers can contribute the accumulated Trailblaze Funds.<br>● Once the Cosmic Contribution Progress reaches 100%, there will be no limit on the number of dice players can use.<br><br>◆ Trailblaze Affinity Test ◆<br>● Trailblazers can experience testing gameplay during the event.<br>● By completing a certain number of test questions, Trailblazers will unlock a test report and receive corresponding rewards.<br><br>◆ Event Tips ◆<br>● If no contribution is made on a given day, the Trailblaze Fund will be automatically contributed the next time you enter the event.",
+        "Name": "성간 여행",
+        "Desc": "은하열차에 무명객이 보낸 소포가 도착했다. 폼폼은 당신이 열차로 돌아와 함께 내용물을 확인하길 기다리고 있는데……",
+        "Story": "◆ 소개 ◆<br>은하열차에 무명객이 보낸 소포가 도착했습니다. 폼폼은 당신이 열차로 돌아와 함께 내용물을 확인하길 기다리고 있습니다…….<br><br>◆ 이벤트 목표 ◆<br>● 전 서버 보상 및 개인 보상을 개방하기 위해 계속해서 「개척 크레딧」을 획득해야 합니다.<br>● 이벤트 기간 동안 지속적으로 「개척 크레딧」을 공헌하면 [개인 공헌]을 누적해 상응하는 보상을 개방할 수 있습니다.<br>● 개인 공헌 진도는 [은하 공헌 진도]를 높여줍니다. [은하 공헌 진도]가 특정 지점에 도달하면 상응하는 보상이 개방됩니다.<br><br>◆ 이벤트 규칙 ◆<br>● 매일 로그인하면 주사위를 획득할 수 있습니다. 주사위를 던지면 맵에서 전진할 수 있으며, 다양한 콘텐츠에서 「개척 크레딧」을 획득할 수 있습니다. 주사위가 소진되면 누적된 「개척 크레딧」을 공헌할 수 있습니다.<br>● [은하 공헌 진도]가 100%에 도달하면 사용 가능한 주사위 수량에 제한이 없어집니다.<br><br>◆ 개척 성향 테스트 ◆<br>● 이벤트에서 테스트 콘텐츠를 체험할 수 있습니다.<br>● 일정 수량의 테스트 문제를 완료하면, 테스트 보고서를 개방해 상응하는 보상을 획득할 수 있습니다.<br><br>◆ 이벤트 알림 ◆<br>● 당일에 공헌을 하지 않았다면, 다음번 이벤트 진입 시 자동으로 「개척 크레딧」을 공헌합니다.",
         "Reward": [
             236,
             241,
@@ -118,9 +173,9 @@ var _event = [
     {
         "_id": 30010,
         "Icon": "BtnQuestPenaconyActivityTimeLimit.png",
-        "Name": "<i>Dreamchaser Bulletin</i>",
-        "Desc": "On your way to Penacony, you receive a tabloid in your inbox. It may be worth examining to see if there is any noteworthy news.",
-        "Story": "◆ Introduction ◆<br>On your way to Penacony, you receive a tabloid in your inbox. It may be worth examining to see if there is any noteworthy news.<br><br>◆ Event Rules ◆<br>During the event, Trailblazers will have access to all news pieces on the page.<br>Trailblazers will receive rewards by completing the required news pieces in Penacony.<br><br>◆ Event Rewards ◆<br>Rewards for each news piece can only be obtained once.",
+        "Name": "≪꿈을 좇는 여행객 뉴스≫",
+        "Desc": "페나코니로 향하던 도중 당신의 우편함에 가십지 하나가 도착했다. 흥미로운 소식이 있을지도 모르니 한번 살펴보자.",
+        "Story": "◆ 소개 ◆<br>페나코니로 향하던 도중 우편함에 가십지 하나가 도착했습니다. 흥미로운 소식이 있을지도 모르니 한번 확인해 보세요.<br><br>◆ 이벤트 규칙 ◆<br>이벤트 기간 동안 이벤트 페이지에서 모든 뉴스를 확인할 수 있습니다.<br>페나코니에서 지정된 뉴스를 완료하면 상응하는 화면에서 보상을 수령할 수 있습니다.<br><br>◆ 이벤트 보상 ◆<br>이벤트 기간 동안 각 뉴스를 완료한 후 상응하는 보상은 한 번만 수령할 수 있습니다.",
         "Reward": [
             1,
             201,
@@ -134,9 +189,9 @@ var _event = [
     {
         "_id": 40005,
         "Icon": "BtnQuestTelevision.png",
-        "Name": "Dreamjolt TV",
-        "Desc": "The signal of the Penacony TV Station has been hijacked by an unknown party, resulting in the airing of peculiar programs. Intrigued by what these rogue programs are, you decide to uncover the truth behind it all...",
-        "Story": "◆ Overview ◆<br>Some screens in Penacony suddenly started to air strange programs. Uma, a presenter from the TV station, wants to chat about this incident with you. Who knows what kind of secretive stories are hidden behind it...<br><br>◆ Event Rules ◆<br>● There are 5 TV screens with their signals hijacked in this event. Trailblazers need to find the corresponding TV screens on different maps and defeat the mastermind after entering battle.<br>● The 5 combat stages will be unlocked daily, and the fifth stage will only be unlocked after you have scored in the first four stages.<br>● When Trailblazers increase their Equilibrium Level, the enemies will increase in power correspondingly.<br>● Trailblazers can select trial characters to participate in the challenge.<br><br>◆ The Big Four TV channels ◆<br>● There are four major TV channels in Penacony TV Station (corresponding to stages 1–4). Each stage features a key enemy that possesses a Mutation Mechanic.<br>● Targeting the enemy's Mutation Mechanic is an efficient way to defeat the enemy. Triggering Mutation Mechanic in combat can raise your Stage Buff rank.<br>● Stage Buff rank means cumulative buffs that can be gained within stages. Accumulating a higher Stage Buff rank will increase characters' combat prowess.<br>● Stages 1–4 are composed of 2 phases, Buff Buildup and Final Showdown.<br>● In the Buff Buildup phase, there is a countdown of 4 Cycles where the enemies will continuously refresh. In this phase, you need to exploit key enemies' Mutation Mechanic to raise the Stage Buff rank as much as possible.<br>● In the Final Showdown phase, the Stage Buff rank can no longer be increased. Defeat as many waves of enemies as possible within 6 Cycles to receive a higher score. If you have leftover Cycles when you pass the stage, you will receive extra scores.<br><br>◆ Live Studio ◆<br>● Live Studio is stage 5, the final boss fight. You can inherit the highest Stage Buff rank you've historically obtained in each of the previous stages (1–4).<br>● Before you enter the stage, select any 2 accumulated Stage Buff from stages 1–4 and use them for the final boss fight.<br>● Defeat as many waves of enemies as possible within 6 Cycles to receive a higher score. If you have leftover Cycles when you pass the stage, you will receive extra scores.<br><br>◆ Event Rewards ◆<br>● During the event, you can claim stage rewards from Limited-Time rewards by raising Stage Buff to specific ranks in the stage and by obtaining specific stage scores.<br>● Challenge all stages and obtain specific scores to receive the Dreamjolt Prize.",
+        "Name": "나쁜꿈 방송국",
+        "Desc": "누군가가 페나코니 방송국의 전파를 납치해 이상한 프로그램이 방영되기 시작했다. 이게 무슨 프로그램인지 궁금했던 당신은 배후의 진상을 조사하기로 결심하는데……",
+        "Story": "◆ 소개 ◆<br>페나코니의 일부 스크린에서 갑자기 이상한 프로그램이 방영되기 시작했습니다. 방송국의 뉴스 진행자 우마는 당신에게 내막을 이야기하고 싶어 합니다. 그 뒤에는 어떤 비밀이 숨겨져 있을까요……<br><br>◆ 이벤트 규칙 ◆<br>● 이번 이벤트에는 전파가 납치된 텔레비전 화면이 총 5개가 있으며, 각 필드에서 상응하는 텔레비전 화면을 찾아 전투에 진입해 배후의 흑막을 쓰러트려야 합니다.<br>● 5개의 전투 스테이지는 매일 순차적으로 개방되며, 5번째 스테이지는 4개의 선행 스테이지에서 점수를 획득해야 개방됩니다.<br>● 「균형 레벨」이 증가하면 적의 강도 역시 상승합니다.<br>● 체험 캐릭터를 선택하여 도전에 참여할 수 있습니다.<br><br>◆ 4대 채널 ◆<br>● 페나코니 방송국엔 총 4개의 채널(1~4 스테이지)이 있습니다. 스테이지마다 주요 적이 존재하며, 해당 적은 스테이지에서 「변이 메커니즘」을 보유하고 있습니다.<br>● 적의 「변이 메커니즘」을 이용하면 적을 효율적으로 처치할 수 있습니다. 전투 중 「변이 메커니즘」을 발동하면, 「스테이지 버프」 랭크가 상승합니다.<br>● 「스테이지 버프」 랭크는 스테이지 내에서 누적 강화할 수 있는 버프 효과입니다. 누적된 「스테이지 버프」 랭크가 높을수록 캐릭터의 전투 능력이 증가합니다.<br>● 1~4 스테이지 모두 「버프 누적」과 「최종 도전」 두 단계로 구성되어 있습니다.<br>● 「버프 누적」 단계에는 4라운드의 카운트다운이 있으며, 적이 끊임없이 리스폰됩니다. 해당 단계에서는 주요 적의 「변이 메커니즘」을 이용해 「스테이지 버프」 랭크를 최대한 많이 올려야 합니다.<br>● 「최종 도전」 단계에서는 「스테이지 버프」 랭크를 더 이상 올릴 수 없습니다. 6라운드 동안 더 많은 웨이브의 적을 처치할수록 더 높은 점수를 획득하며, 클리어 시 남은 라운드가 있으면 추가 점수를 획득할 수 있습니다.<br><br>◆ 라이브 스튜디오 ◆<br>● 라이브 스튜디오는 5 스테이지로, 최종 보스 도전입니다. 해당 스테이지는 1~4 스테이지 중 각 스테이지의 역대 최고 「스테이지 버프」 랭크를 계승합니다.<br>● 스테이지 진입 전, 1~4 스테이지 중 누적된 「스테이지 버프」 2개를 임의로 선택하여 최종 보스 도전에 사용할 수 있습니다.<br>● 6라운드 동안 더 많은 웨이브의 적을 처치할수록 더 높은 점수를 획득하며, 클리어 시 남은 라운드가 있으면 추가 점수를 획득할 수 있습니다.<br><br>◆ 이벤트 보상 ◆<br>● 이벤트 기간에 스테이지 내에서 「스테이지 버프」를 지정된 랭크까지 올리고 지정된 스테이지 점수를 획득하면, 「한정 보상」에서 스테이지 보상을 수령할 수 있습니다.<br>● 모든 스테이지에 도전해 지정된 점수를 획득하면 방송국 답례품을 수령할 수 있습니다.",
         "Reward": [
             241,
             1,
@@ -151,9 +206,9 @@ var _event = [
     {
         "_id": 50007,
         "Icon": "BtnQuestMiniGame.png",
-        "Name": "Hanu's Prison Break",
-        "Desc": "Dr. Edward has created a new dream bubble with a unique theme, receiving rave reviews from customers who have experienced it. What makes it so exciting? Talk to Dr. Edward and try it yourself.",
-        "Story": "◆ Introduction ◆<br>Dr. Edward has created a new dream bubble with a unique theme, receiving rave reviews from customers who have experienced it. What makes it so exciting? Talk to Dr. Edward and try it yourself.<br><br>◆ Event Rules ◆<br>● After the event starts, the \"Bubble Pinball\" stage in the Shallow Dreamscape will unlock. Completing the dream bubble stage unlocks the next one.<br>● Once you have completed the dream bubbles in the Shallow Dreamscape, new dream bubble chapters in the Deep Dreamscape will unlock.<br>● Among them, Bubble Pinball contain 5 stages, Dream Ticker contains 5 stages, Hanu's Adventure contains 2 stages, and Dreamwalker contains 2 stages.<br><br>◆ Event Rewards ◆<br>● If you achieve the specified event objective during the limited-time event, you're entitled to claim 1 character reward in the \"Character Selection\" section.<br>● If you achieve the specified event objective during the limited-time event, you're entitled to claim event rewards in the \"Limited-Time Rewards\" section.<br>● After this event ends, Trailblazers will no longer be able to claim limited-time event rewards. However, they can still visit Dr. Edward to experience the event content and claim regular rewards.<br><br>",
+        "Name": "하누 형제 탈옥기",
+        "Desc": "Dr. 에드워드가 특이한 소재의 꿈방울을 새로 출시했는데, 체험해 본 손님들 모두 호평 일색이다. 대체 무슨 내용이길래 이렇게 인기가 많은 것일까? 직접 체험해 봐야 알 수 있을 것이다. 아직 늦지 않았으니, 지금 바로 Dr. 에드워드를 찾아가 확인해 보자",
+        "Story": "◆ 이벤트 소개 ◆<br>● Dr. 에드워드가 특이한 소재의 꿈방울을 새로 출시했는데, 체험해 본 손님들 모두 호평 일색입니다. 대체 무슨 내용이길래 이렇게 인기가 많은지는 직접 체험해 봐야 알 수 있을 듯합니다. 아직 늦지 않았으니, 지금 바로 Dr. 에드워드를 찾아가 확인해 보세요.<br><br>◆ 이벤트 규칙 ◆<br>● 이벤트 오픈 후 「얕은 꿈세계」의 「버블 핀볼」 스테이지가 개방되며, 해당 꿈방울 스테이지를 클리어하면 다음 꿈방울이 개방됩니다.<br>● 「얕은 꿈세계」의 꿈방울을 클리어하면 「깊은 꿈세계」의 꿈방울 챕터가 개방됩니다.<br>● 그중 「버블 핀볼」은 5개, 「꿈세계 시계」는 5개, 「꼬마 하누의 작전」은 2개, 「꿈꾸는 자의 산책」은 2개의 스테이지가 있습니다.<br><br>◆ 이벤트 보상 ◆<br>● 한정 이벤트 기간에 지정된 이벤트 목표를 달성하면, 「캐릭터 선택」에서 캐릭터 보상을 수령할 수 있습니다.<br>● 한정 이벤트 기간에 지정된 이벤트 목표를 달성하면, 「한정 보상」에서 이벤트 보상을 수령할 수 있습니다.<br>● 이벤트 기간이 종료되면 한정 이벤트 보상을 획득할 수 없지만, 「Dr. 에드워드」에게 가서 이벤트 내용을 체험하고 상시 보상을 획득할 수 있습니다.<br><br>",
         "Reward": [
             236,
             241,
@@ -170,9 +225,9 @@ var _event = [
     {
         "_id": 30009,
         "Icon": "BtnQuestPenaconyGift.png",
-        "Name": "Penacony Food Fest",
-        "Desc": "\"Twelve Hours Commercial District is joining forces to host the annual celebration!\" Participate in the event at the Clock Diner to get delicacies and share Penacony specialties with your friends from other star systems!",
-        "Story": "◆ Introduction ◆<br>The Commercial District in Penacony is hosting its annual food festival. By submitting specific ingredients, you can obtain Dreamy Cuisine dishes and share them with your friends outside of Penacony!<br><br>◆ Event Rules ◆<br>◆ During the event, Jay will release 1 Dreamy Cuisine dish and its required ingredients each day, totaling seven different dishes.<br>Trailblazers can collect and submit the ingredients to receive the daily cuisine dish and rewards.<br><br>◆ Event Rewards ◆<br>◆ After Trailblazers submit the required ingredients, the diner will mail out the corresponding Dreamy Cuisine dish, and Trailblazers will receive a reply from a corresponding friend.<br>◆ As the event progresses, Trailblazers will also receive a celebration gift for the Crew on the final day, along with a special letter from their friends!",
+        "Name": "페나코니 미식 축제",
+        "Desc": "「열두 순간 연합 개최, 올해의 고객 감사제!」 시계 식당으로 가서 이벤트에 참여하면 요리를 교환할 수 있다. 우주 곳곳의 친구에게 페나코니 특산 요리를 선물해 보자!",
+        "Story": "◆ 이벤트 소개 ◆<br>◆ 페나코니 상업 구역에서 「올해의 미식 축제」가 진행 중입니다. 지정된 재료를 제출하면 꿈세계 속 요리를 실체화하고 페나코니 밖 동료에게 꿈세계 특산 요리를 선물할 수 있습니다!<br><br>◆ 이벤트 규칙 ◆<br>◆ 이벤트 오픈 후 제이가 매일 새로운 「꿈세계 요리」 한 가지와 요리에 필요한 「요리 재료」를 공개합니다. 요리는 총 7가지입니다.<br>◆ 당일의 요리에 필요한 「요리 재료」를 수집해 제출하면 당일의 요리와 보상을 획득할 수 있습니다.<br><br>◆ 이벤트 보상 ◆<br>◆ 「요리 재료」를 제출하면 음식점에서 상응하는 「꿈세계 요리」를 보내주며, 이후 상응하는 친구의 회신을 받을 수 있습니다.<br>◆ 미식 축제 마지막 날에는 열차팀 동료에게 보내는 축제 선물과 동료로부터 온 특별 회신도 받을 수 있습니다!",
         "Reward": [
             1,
             213,
@@ -190,9 +245,9 @@ var _event = [
     {
         "_id": 30008,
         "Icon": "BtnQuestSpaceZoo.png",
-        "Name": "Critter Pick",
-        "Desc": "Ruan Mei's creations aboard the space station actually developed their own civilization! Asta and Screwllum task you with finding out everything about it...",
-        "Story": "◆ Introduction ◆<br>In an unexpected turn of events, Ruan Mei's creations in the seclusion zone have spontaneously developed their own social civilization! Intrigued by this phenomenon, Asta has entrusted you with the task of investigating the nurturing principles. She and Screwllum have even prepared a \"Lifeform Oven\" and a \"Helper Robot\" for you...<br><br>◆ Event Rules ◆<br>● During the Critter Pick event, Trailblazers can nurture their own desired creations via combination and pairing.<br>● Mutations may occur during the nurturing process, leading to new creation traits or even rare creations.<br>● Basic creation traits can be obtained from completing the Adventure Mission \"Critter Pick\" and exploring the Seclusion Zone.<br><br>◆ Regular Rewards ◆<br>● You can raise your Research Level via a variety of means, such as obtaining new creation traits and nurturing rare creations.<br>● Raising your Research Level earns you the corresponding rewards.<br><br>◆ Limited-Time Rewards ◆<br>● During the limited-time event, you can fulfill nurturing targets and earn the corresponding rewards.<br><br>◆ Event Notes ◆<br>Once the limited-time event \"Critter Pick\" has concluded, Trailblazers can no longer obtain the limited-time rewards. However, they can still participate in this feature through the Lifeform Oven in the seclusion zone and obtain regular rewards at any time.",
+        "Name": "이색 펫 연구",
+        "Desc": "우주정거장의 「완•매」의 창조물들이 스스로 문명을 이루다니! 아스타와 스크루룸은 당신에게 조사를 의뢰했다……",
+        "Story": "◆ 소개 ◆<br>뜻밖에도 폐쇄된 캐빈에 있는 「완•매」의 창조물들이 자체적으로 문명을 만들어 냈습니다! 아스타는 이에 큰 관심을 보이며 창조물들의 육성 원리를 조사해 달라며 의뢰했습니다. 심지어 아스타와 스크루룸은 당신을 위해 「생명 오븐」과 「보모 로봇」도 준비해 놨습니다……<br><br>◆ 이벤트 규칙 ◆<br>● 「이색 펫 연구」 이벤트에서는 조합 및 매칭을 통해 마음에 드는 「완•매」의 창조물을 육성할 수 있습니다.<br>● 육성 과정에서 일정 확률로 돌연변이가 발생할 수 있으며, 새로운 창조물 특징 또는 「희귀 창조물」을 획득할 수 있습니다.<br>● 모험 임무 「이색 펫 연구」를 완료하거나 「폐쇄된 캐빈」을 자유 탐사해 기본적인 창조물 특징을 획득할 수 있습니다.<br><br>◆ 상시 보상 ◆<br>● 신규 창조물 특징 획득, 「희귀 창조물」 육성 등의 방식을 통해 연구 레벨을 높일 수 있습니다.<br>● 연구 레벨을 높이면 대응하는 보상을 획득할 수 있습니다.<br><br>◆ 한정 보상 ◆<br>● 한정 이벤트 기간에 지정된 육성 목표 달성 시 대응하는 보상을 획득할 수 있습니다.<br><br>◆ 이벤트 알림 ◆<br>「이색 펫 연구」 한정 이벤트가 종료된 후에는 이벤트 기간의 한정 보상을 획득할 수 없으나, 맵 「폐쇄된 캐빈」의 「생명 오븐」을 체험하여 상시 보상을 획득할 수 있습니다.",
         "Reward": [
             241,
             1,
@@ -208,9 +263,9 @@ var _event = [
     {
         "_id": 40004,
         "Icon": "BtnQuestActivityStrongChallenge.png",
-        "Name": "Virtual Scentventure",
-        "Desc": "The Department of Ecology's \"Unknown Lifeform Smell-Induced Perceptions and Hallucinations\" special test has begun. You have been specially invited as a qualified tester...",
-        "Story": "◆ Summary ◆<br>The Department of Ecology is spinning far too many plates: On the eve of the geniuses arriving, they started dedicated testing for the \"Unknown Lifeform Smell-Induced Perceptions and Hallucinations\" project, during which special scent plug-ins can be activated to trigger a change in perception, causing illusions to be seen. You have been commissioned to assist in this test. Please assist the Department of Ecology in gathering critical data by boldly facing down and defeating these illusions.<br><br>◆ Event Note ◆<br>● Once the event begins, Virtual Scentventure (Normal Mode) is unlocked first. Clear all stages in Normal Mode and talk to Cloudbot to unlock Despair Mode stages.<br>● Trailblazers cannot claim limited-time awards after limited-time events are finished. <br><br>◆ Virtual Scentventure ◆<br>● Illusions simulated from scent stimulation are different from normal boss enemies. Please familiar yourself with their special traits prior to entering combat. <br>● Unlock the next challenge by reaching a certain score.<br>● Normal Mode enemies scale with difficulty based on your Equilibrium Level. Despair Mode enemy levels are fixed.<br>● Use different scent plug-ins during the event to gain different ability bonuses in combat.",
+        "Name": "가상세계 후각 탐험",
+        "Desc": "생태과의 「미지 생명체의 후각 유도를 통한 인지와 환각」 특별 테스트가 시작됐다. 그리고 당신은 이미 초대를 받아 특별 테스트 자격을 얻은 상태인데…",
+        "Story": "◆ 소개 ◆<br>생태과 전체가 매우 바쁘게 움직이고 있습니다. 천재가 방문하려는 가운데, 그들은 「미지 생명체의 후각 유도를 통한 인지와 환각」 특별 테스트를 시작했습니다. 해당 테스트에서 특정 냄새 플러그인을 활성화하면 피실험자의 감지 변화를 일으키고, 그들이 각종 환상을 보게 할 수 있습니다. 테스트를 도와달라는 부탁을 받았으니 환상을 용감하게 극복하고 생태과의 핵심 데이터 수집을 도와주세요.<br><br>◆ 이벤트 알림 ◆<br>● 이벤트 시작 후 「가상세계 후각 탐험」의 「일반 모드」가 먼저 오픈됩니다. 「일반 모드」의 모든 스테이지를 클리어한 후 클라우드 로봇과 대화하면 「절망 모드」 스테이지를 오픈할 수 있습니다.<br>● 한정 이벤트 종료 후에는 이벤트 한정 보상을 획득할 수 없습니다.<br><br>◆ 가상세계 후각 탐험 ◆<br>● 냄새 자극으로 인한 환상은 기존 보스 적과 일정한 차이가 있습니다. 전투 시작 시 환상의 특성에 대한 설명을 읽어주세요.<br>● 이전 스테이지에서 일정 점수에 도달해야 다음 스테이지 도전을 오픈할 수 있습니다.<br>● 일반 모드의 적은 균형 레벨의 변화에 따라 난이도가 높아지지만, 절망 모드의 적 레벨은 난이도가 고정되어 있습니다.<br>● 이벤트 중 다양한 냄새 플러그인을 사용해 전투 중 추가 능력을 획득할 수 있습니다.",
         "Reward": [
             241,
             1,
@@ -225,9 +280,9 @@ var _event = [
     {
         "_id": 140007,
         "Icon": "BtnBoxingClubResonance.png",
-        "Name": "Boulder Town Super League",
+        "Name": "볼더 타운 슈퍼리그",
         "Desc": "",
-        "Story": "◆ Introduction ◆<br>The Fight Club is opening up for all sorts of boxing matches — Get in touch with Dr. Dig for more details.<br><br>◆ Gameplay Rules ◆<br>The Trailblazer can participate in different tournaments to obtain the corresponding rewards in the Score Ranking Tournament.<br>After selecting a tournament, the Trailblazer will fight randomly selected opponents and gain different buffs after defeating them.<br>After random selection begins, your team lineup will be locked, and characters in the team cannot be swapped.<br>At the start of every battle, all characters' HP and Energy will be reset.<br>When the Trailblazer increases their Equilibrium Level, enemy strength will increase with it.<br>In each match of the tournament, the minimum number of cycles is 1.<br>In the Martial Exhibition, Trailblazers can participate in different events to win corresponding rewards.<br>Upon selecting an event to participate in, Trailblazers will obtain the core martialism of the current school. After defeating the opponent, they can choose one of the two types of enhanced martialism for the current school.<br>After the battle begins, the team lineup will be locked, and Trailblazers cannot switch out characters. At the start of each battle, all characters' HP and Energy will be reset.<br>When Trailblazers increase their Equilibrium Level, the enemy's strength will also increase accordingly.<br>If the number of challenge cycles is no more than 5, a perfect knockout rating will be achieved.<br>Upon completing all challenges, players will receive a mysterious prize from Dr. Dig.<br>The minimum number of cycles for each battle in the tournament is 1.",
+        "Story": "◆ 소개 ◆<br>현재 격투 클럽에서 격투선수들이 도전할 수 있는 각종 격투 시합을 열고 있습니다——자세한 내용은 Dr. 파고파고에게 물어보세요.<br><br>◆ 콘텐츠 규칙 ◆<br>「점수 랭킹 토너먼트」에서는 각각의 시합에 도전해 상응하는 시합 보상을 획득할 수 있습니다.<br>시합에 참가하면 추첨 방식으로 상대 라인업이 확정됩니다. 상대를 쓰러뜨리면 여러 가지 버프를 획득할 수 있습니다.<br>추첨 시작 후 캐릭터 라인업은 고정되며, 출전 캐릭터를 변경할 수 없습니다.<br>매 전투가 시작될 때마다 모든 캐릭터의 HP와 에너지가 초기화됩니다.<br>「균형 레벨」이 올라가면, 적의 강도도 같이 증가합니다.<br>시합 내 모든 전투의 라운드 수는 최소 1입니다.◆<br>「격투 기술 시범 경기」에서는 각각의 시합에 도전하여 상응하는 시합 보상을 획득할 수 있습니다.<br>시합에 참가하면, 해당 유파의 핵심 격투 기술을 획득하게 되며, 상대를 쓰러뜨리면 해당 유파의 강화 격투 기술 두 개 중 한 개를 선택해 획득할 수 있습니다.<br>전투가 시작되면 캐릭터 라인업이 고정되며, 출전 캐릭터를 변경할 수 없습니다.<br>전투가 시작될 때마다 모든 캐릭터의 HP와 에너지가 초기화됩니다.<br>「균형 레벨」이 올라가면, 적의 강도도 같이 증가합니다.<br>도전한 라운드가 5라운드 이하면 퍼펙트 녹다운 평가를 획득하게 됩니다.<br>모든 도전을 완료하면 Dr. 파고파고가 수여하는 「신비한 상품」을 획득할 수 있습니다.<br>시합 내 모든 전투의 라운드 수는 최소 1입니다.",
         "Reward": [
             1,
             213,
@@ -240,9 +295,9 @@ var _event = [
     {
         "_id": 40003,
         "Icon": "BtnBoxingClubResonance.png",
-        "Name": "Boulder Town Martial Exhibition",
-        "Desc": "Take part in the Martial Exhibition and feel the charm of ancient Belobogian martial arts.",
-        "Story": "◆ Introduction ◆<br>Boulder Town Martial Exhibition has kicked off in the Fight Club — Get in touch with Dr. Dig for more details.<br><br>◆ Gameplay Rules ◆<br>In the Martial Exhibition, Trailblazers can participate in different events to win corresponding rewards.<br>Upon selecting an event to participate in, Trailblazers will obtain the core martialism of the current school. After defeating the opponent, they can choose one of the two types of enhanced martialism for the current school.<br>After the battle begins, the team lineup will be locked, and Trailblazers cannot switch out characters. At the start of each battle, all characters' HP and Energy will be reset.<br>When Trailblazers increase their Equilibrium Level, the enemy's strength will also increase accordingly.<br>If the number of challenge cycles is no more than 5, a perfect knockout rating will be achieved.<br>Upon completing all challenges, players will receive a mysterious prize from Dr. Dig.<br>The minimum number of cycles for each battle in the tournament is 1.",
+        "Name": "볼더 타운 격투 기술 시범 경기",
+        "Desc": "격투 기술 시범 경기에 참가해 벨로보그 고대 무술의 무한한 매력을 느껴보자",
+        "Story": "◆ 소개 ◆<br>「볼더 타운 격투 기술 시범 경기」가 격투 클럽에서 정식으로 개최되었습니다——자세한 내용은 Dr. 파고파고에게 물어보세요.<br><br>◆ 콘텐츠 규칙 ◆<br>「격투 기술 시범 경기」에서는 각각의 시합에 도전하여 상응하는 시합 보상을 획득할 수 있습니다.<br>시합에 참가하면, 해당 유파의 핵심 격투 기술을 획득하게 되며, 상대를 쓰러뜨리면 해당 유파의 강화 격투 기술 두 개 중 한 개를 선택해 획득할 수 있습니다.<br>전투가 시작되면 캐릭터 라인업이 고정되며, 출전 캐릭터를 변경할 수 없습니다.<br>전투가 시작될 때마다 모든 캐릭터의 HP와 에너지가 초기화됩니다.<br>「균형 레벨」이 올라가면, 적의 강도도 같이 증가합니다.<br>도전한 라운드가 5라운드 이하면 퍼펙트 녹다운 평가를 획득하게 됩니다.<br>모든 도전을 완료하면 Dr. 파고파고가 수여하는 「신비한 상품」을 획득할 수 있습니다.<br>시합 내 모든 전투의 라운드 수는 최소 1입니다.",
         "Reward": [
             241,
             1,
@@ -259,9 +314,9 @@ var _event = [
     {
         "_id": 50006,
         "Icon": "BtnQuesHeliobus.png",
-        "Name": "A Foxian Tale of the Haunted",
-        "Desc": "With the Creation Furnace having burst apart, the heliobi sealed within have gone loose. The Ten-Lords Commission is commanded to eradicate these demons, and you are about to experience an otherworldly tale with the judges.",
-        "Story": "◆ Introduction ◆<br>With the Creation Furnace having burst apart, the heliobi sealed within have gone loose. The Ten-Lords Commission is commanded to eradicate these demons, and you are about to experience an otherworldly tale with the judges.<br><br>◆ Participation Requirements ◆<br>● After the Trailblazer has completed \"Sojourners' Ghastly Reverie,\" the event will become available. The Trailblazer can undertake investigative assignments in the \"Ghostly Grove\" and participate in stage challenges in the \"Exorcismal Chronicle.\"<br>● After the limited-time event \"A Foxian Tale of the Haunted\" concludes, Trailblazers will no longer be able to obtain the time-limited rewards from the event. However, you can still play through the storylines of \"A Foxian Tale of the Haunted\" and visit Fyxestroll Garden in the Xianzhou Luofu to partake in the Ghostly Grove and Exorcismal Chronicle, and claim regular rewards.<br><br>◆ Ghostly Grove ◆<br>● Trailblazers jointly manage the \"LilGuiGuinevere\" influencer account with the Ghost-Hunting Squad in Ghostly Grove, increasing the account's popularity level through gaining fans.<br>● In Ghostly Grove, Trailblazers can take on investigative missions. Upon completing these missions, they can edit and publish \"Ghost-Hunting Squad\" posts to attract comments from netizens, gain fans, and receive gratuity points.<br>● Accumulating fans enhances the account's popularity phase in Ghostly Grove. Advancing to new popularity phases unlocks new Foxian Tale of the Haunted Trailblaze Continuance stories, the completion of which will unlock more investigative missions.<br>● In addition to accepting investigative missions, Trailblazers can also reply to comments from netizens on Ghostly Grove and earn gratuity points.<br><br>◆ Exorcismal Chronicle ◆<br>● Completing the Trailblaze Continuance \"A Foxian Tale of the Haunted\" will unlock various Suppression Towers in Fyxestroll Garden, along with their associated challenges in the Exorcismal Chronicle. Each Suppression Tower consists of stages with four difficulty levels.<br>● Clearing stages in the Exorcismal Chronicle yields gratuity points. By cumulative completion of challenges in these stages, you can obtain rewards in Exorcism Rewards.<br>● After completing \"Foxian Dream,\" the \"Begone, Evil\" becomes accessible in the Exorcismal Chronicle. This includes four \"Warring Expedition\" stages, each of which will only unlock after completing all difficulty levels of Exorcismal Chronicle stages in the Suppression Tower.<br>● All challenges in the Exorcismal Chronicle require the use of Exorcismics obtained in \"A Foxian Tale of the Haunted.\"<br><br>◆ Regular Rewards ◆<br>● Completing investigative missions in Ghostly Grove and stages in the Exorcismal Chronicle will earn gratuity points.<br>● Submit gratuity points in the \"Subscription Plan\" system to elevate your subscription level and claim subscription rewards.<br><br>◆ Limited-Time Rewards ◆<br>● During the Limited-Time Event, complete Sojourners' Ghastly Reverie to receive a reward Light Cone, and elevate your popularity in Ghostly Grove to receive Light Cone Superimposition material rewards.<br>● During the Limited-Time Event, you can claim rewards from Limited-Time Rewards by completing investigation missions in Ghostly Grove, completing challenges in Exorcismal Chronicle, and the gameplays in Fyxestroll Garden map.",
+        "Name": "호재지이",
+        "Desc": "창조 용광로가 파괴되면서 안에 갇혀있던 요괴 「세양」이 탈출했다. 시왕사의 명으로 요괴를 제거하던 중 판관과 함께 뜻밖의 사건을 겪게 된다",
+        "Story": "◆ 소개 ◆<br>창조 용광로가 파괴되면서 안에 갇혀있던 요괴 「세양」이 탈출했습니다. 시왕사의 명으로 요괴를 제거하던 중 판관과 함께 뜻밖의 사건을 겪게 됩니다.<br><br>◆ 참여 조건 ◆<br>● 개척 후문 「유원경몽」 완료 후, 즉시 이벤트에 참여할 수 있습니다. 「나부기담」에서 조사 의뢰를 진행하거나 「요괴 진압록」에서 스테이지에 도전할 수 있습니다.<br>● 「호재지이」 한정 이벤트 종료 후, 이벤트 기간의 한정 보상을 획득할 수 없지만, 「호재지이」 개척 후문 스토리를 체험하고 선주 나부 「유원」으로 이동해 「나부기담」과 「요괴 진압록」을 체험하여 상시 보상을 획득할 수 있습니다.<br><br>◆ 나부기담 ◆<br>● 「나부기담」에서 요괴 퇴치팀과 함께 「네비니Guinevere」 블로거 계정을 운영하게 됩니다. 팔로워를 획득하면 계정의 인기 등급이 상승합니다.<br>● 「나부기담」에서 조사 의뢰를 수락할 수 있습니다. 조사 의뢰 완료 후 「요괴 퇴치팀」 게시글을 편집하고 게시해 네티즌들이 댓글을 작성하도록 유도하고 대량의 팔로워와 후원 포인트를 획득할 수 있습니다.<br>● 팔로워가 누적되면 계정의 「나부기담」 인기 단계가 상승합니다. 새로운 인기 단계에 진입하면 「호재지이」의 새로운 개척 후문 스토리가 개방됩니다. 스토리를 완료하면 더 많은 조사 의뢰를 개방할 수 있습니다.<br>● 「나부기담」에서는 조사 의뢰를 수령할 수 있을 뿐만 아니라, 네티즌의 댓글에 회신해 후원 포인트를 획득할 수 있습니다.<br><br>◆ 요괴 진압록 ◆<br>● 개척 후문 「호재지이」를 완료하고 「유원」 각지의 진요탑을 개방하면 해당 진요탑의 요괴 진압록 도전이 개방됩니다. 각 진요탑에는 4개 난이도의 스테이지가 포함되어 있습니다.<br>● 「요괴 진압록」의 스테이지를 클리어하면 후원 포인트를 획득할 수 있습니다. 스테이지 도전을 누적 완료하면 요괴 진압 보상에서 보상을 수령할 수 있습니다.<br>● 개척 후문 「호몽」을 완료하면 「악의 정화」가 개방됩니다. 원정 전투 스테이지 4개가 포함되어 있으며, 각 진요탑의 모든 난이도 요괴 진압록 스테이지 완료 시 개방됩니다.<br>● 요괴 진압록의 모든 도전은 「호재지이」에서 획득한 퇴마술을 선택해 진행해야 합니다.<br><br>◆ 상시 보상 ◆<br>● 「나부기담」에서 조사 의뢰를 완료하거나 「요괴 진압록」에서 스테이지를 완료하면 후원 포인트를 획득할 수 있습니다.<br>● 「구독 플랜」 시스템에서 후원 포인트를 제출해 구독 레벨을 올리면 구독 보상을 수령할 수 있습니다.<br><br>◆ 한정 보상 ◆<br>● 한정 이벤트 기간 동안 「유원경몽」을 완료하면 광추 보상을 획득할 수 있습니다. 「나부기담」의 인기 등급을 올리면 중첩 재료 보상을 획득할 수 있습니다.<br>● 한정 이벤트 기간 동안 「나부기담」의 조사 의뢰, 「요괴 진압록」의 스테이지 도전, 「유원」 맵의 콘텐츠를 완료하면 「한정 보상」에서 보상을 수령할 수 있습니다.",
         "Reward": [
             236,
             241,
@@ -281,9 +336,9 @@ var _event = [
     {
         "_id": 60008,
         "Icon": "BtnRogueM9.png",
-        "Name": "Simulated Universe: World 9",
-        "Desc": "In the Immersion Device of Simulated Universe: World 9, Trailblazers can exchange for Planar Ornaments \"Izumo Gensei and Takama Divine Realm\" and \"Sigonia, the Unclaimed Desolation\"",
-        "Story": "◆ Gameplay Rules ◆<br>I, Herta, hereby explain the rules of the Simulated Universe.<br>● As you fight your way through the Simulated Universe, you may encounter powerful Blessings from different Paths, random Occurrences, or special Curios.<br>● In the Simulated Universe game mode, you can experience randomly-generated maze combinations, enhanced Elite Enemies, and boss enemies.<br><br>◆ Gameplay Rewards ◆<br>● There are currently multiple worlds in the Simulated Universe. New worlds will be gradually unlocked as you progress through the Simulated Universe and Trailblaze Missions, providing new stages, content, and rewards.<br>● Clearing every world in the Simulated Universe for the first time will grant rewards, including the 4-star character Herta (Erudition: Ice), Stellar Jades, and Star Rail Passes.<br>● Complete the Simulated Universe to receive points and get rewards by accumulating points. The Point Rewards will be reset every Monday at 04:00 (server time).<br>● Unlock Blessings and Curios in the Simulated Universe Index to receive Stellar Jades.<br>● Defeating an enemy in Simulated Universe's \"Domain — Elite\" or \"Domain — Boss\" will earn extra drops.<br>● Complete the Simulated Universe to receive Ability Points. These are used in the Ability Tree to activate powerful abilities and aid in your exploration of the Simulated Universe.<br>● Starting from Simulated Universe — World 3, Planar Ornament exchange will be available after you defeat Elite or Boss enemies.",
+        "Name": "시뮬레이션 우주•제9세계",
+        "Desc": "「시뮬레이션 우주•제9세계」 몰입 장치에서 차원 장신구 「이즈모 현세와 타카마 신국」과 「주인 없는 황폐한 별 츠가냐」를 교환할 수 있습니다",
+        "Story": "◆ 콘텐츠 규칙 ◆<br>나, 헤르타가 「시뮬레이션 우주」의 규칙에 대해 설명해줄게.<br>● 「시뮬레이션 우주」에서 전투하는 과정에서 여러 운명의 길이 가져다주는 강력한 축복, 랜덤 사건, 특수한 기물을 얻을 수 있을 거야.<br>● 「시뮬레이션 우주」에서는 랜덤으로 나타나는 미궁 조합, 강화된 정예 몬스터와 보스 적을 체험할 수 있어.<br><br>◆ 콘텐츠 보상 ◆<br>● 현재 「시뮬레이션 우주」에는 여러 세계가 있어. 새로운 세계 콘텐츠는 시뮬레이션 우주와 개척 임무의 진도에 따라 순차적으로 개방되고, 그에 따라 새로운 스테이지, 내용, 보상이 갱신되지.<br>● 「시뮬레이션 우주」의 각 세계를 처음으로 클리어하면 ★4 캐릭터 「헤르타(지식•얼음)」와 성옥, 별의 궤도 티켓 등의 보상을 획득할 수 있어.<br>● 「시뮬레이션 우주」를 완료하면 점수를 획득할 수 있고 누적된 점수로 보상을 교환할 수 있어. 점수 보상은 매주 월요일 04:00 (서버 시간)에 갱신돼.<br>● 「시뮬레이션 우주」 도감에서 축복과 기물을 개방하면 성옥을 획득할 수 있어.<br>● 「시뮬레이션 우주」의 「구역 - 정예」 또는 「구역 - 보스」에서 적을 처치하면 추가 드랍 보상을 획득할 수 있지.<br>● 「시뮬레이션 우주」를 완료하면 스킬 포인트를 획득해 스킬트리에서 강력한 효과를 활성화할 수 있어. 「시뮬레이션 우주」 콘텐츠의 탐사에 도움이 될 거야.<br>● 「시뮬레이션 우주•제3세계」에서부터는 정예 혹은 우두머리를 처치하면 「차원 장신구」 보상 교환이 개방돼.",
         "Reward": [
             1,
             503,
@@ -296,9 +351,9 @@ var _event = [
     {
         "_id": 60007,
         "Icon": "BtnQuestRogueNous.png",
-        "Name": "Simulated Universe: Gold and Gears",
+        "Name": "시뮬레이션 우주: 황금과 기계",
         "Desc": "",
-        "Story": "◆ Summary ◆<br>Herta, Ruan Mei, Screwllum, and Stephen have joined forces to bring about the Simulated Universe's second major update! They're not only bringing in brand-new Blessings, Curios, and random Occurrences, but also introducing all-new Adventure Missions. <br><br>◆ Gameplay Goal ◆<br>Gather all Trailblaze Secrets in Simulated Universe: Gold and Gears to learn more about the IPC and ultimately unlock all Aeon Secrets.<br><br>◆ Gameplay Content ◆<br>● Custom Dice: The updated version now allows for free assembly and customization of its dice faces. Collect dice faces with various abilities and strategically combine these varied Custom Dice to get more Blessings and Curios.<br>● Resonance Extrapolation: In the boss fight in the deepest level of the Third Plane, the overflowing Path energy from Erudition will interfere with the Simulated Universe system and extrapolate Path Resonances for different Paths, thereby presenting new challenges for the team.<br>● Moreover, Simulated Universe: Gold and Gears has updated Blessings, Curios, random Occurrences, and brand-new Path Resonances.<br><br>◆ Gameplay Rewards ◆<br>● Collect \"Simulated Universe: Gold and Gears\" Secrets to earn collection rewards.<br>● Complete \"Tests\" and \"Conundrums\" to earn challenge rewards.<br>● Clear each difficulty for the first time to earn the first-time clearance rewards.<br><br>◆ Attention ◆<br>● Simulated Universe: Gold and Gears has 5 difficulties in total, with the fifth one being the most difficult and challenging. Trailblazers can challenge these difficulties based on their preferences.<br>● Collect all the Secrets in Gold and Gears and complete the Adventure Mission \"Gold and Gears: Finale\" to unlock the brand-new Path of Erudition inside the Simulated Universe.",
+        "Story": "◆ 소개 ◆<br>헤르타와 완•매, 스크루룸, 스티븐이 함께 시뮬레이션 우주의 2차 대형 업데이트를 진행했습니다! 축복, 기물, 랜덤 사건뿐만 아니라 모험 사건도 새롭게 추가되었습니다.<br><br>◆ 콘텐츠 목표 ◆<br>「시뮬레이션 우주: 황금과 기계」 콘텐츠에서는 「개척 비화」를 수집하고, 스타피스 컴퍼니의 이야기를 파고들며, 모든 에이언즈 비화를 개방해야 합니다!<br><br>◆ 콘텐츠 내용 ◆<br>● 「사용자 정의 주사위」: 개선된 「사용자 정의 주사위」는 주사위 면을 자유롭게 조립할 수 있습니다. 다양한 능력을 가진 주사위 면을 수집하고 「사용자 정의 주사위」에 그 능력을 적절히 조합하면 더 많은 축복과 기물을 획득할 수 있습니다.<br>● 「메아리 연역」: 제3차원의 가장 깊은 곳의 보스전에서는 흘러넘친 「지식」 운명의 길의 힘이 「시뮬레이션 우주」 시스템을 방해해 각 운명의 길의 운명의 길 메아리를 연역하고 새로운 도전을 제공합니다.<br>● 이외에도 이번 「시뮬레이션 우주: 황금과 기계」에는 축복, 기물, 랜덤 사건 그리고 새로운 운명의 길 메아리가 업데이트되었습니다.<br><br>◆ 콘텐츠 보상 ◆<br>● 「시뮬레이션 우주: 황금과 기계」의 비화를 수집하면 수집 보상을 획득할 수 있습니다.<br>● 「테스트」와 「난제」를 완료하면 도전 보상을 획득할 수 있습니다.<br>● 각 난이도를 처음으로 클리어하면 첫 클리어 보상을 획득할 수 있습니다.<br><br>◆ 주의사항 ◆<br>● 「시뮬레이션 우주: 황금과 기계」에는 총 5가지 난이도가 있습니다. 그중 난이도 V 스테이지는 난이도가 높고 도전적입니다. 자신의 상황에 따라 적절한 난이도를 선택해 도전하세요.<br>● 「황금과 기계」의 모든 비화를 수집하고 모험 임무 「황금과 기계: 결말」을 완료하면 시뮬레이션 우주에 새로운 「지식」 운명의 길이 개방됩니다.",
         "Reward": [
             1,
             236,
@@ -315,8 +370,8 @@ var _event = [
     {
         "_id": 60006,
         "Icon": "BtnRogueReward.png",
-        "Name": "Planar Infinity",
-        "Desc": "This time, Herta and three other members of the Genius Society made some, uh, crazy tweaks to the Simulated Universe, but unexpectedly, they messed up a bit — all the codes got scrambled, and the universe started expanding infinitely!<br>Now it's up to you to fix this insane universe!",
+        "Name": "무한의 차원",
+        "Desc": "이번에는 헤르타와 지니어스 클럽의 세 회원이 시뮬레이션 우주에… 어… 소소한 개조를 진행했다. 하지만 모두 조금씩 실수를 저지른 탓에 코드에 문제가 발생했고, 시뮬레이션 우주가 끊임없이 팽창하기 시작한다!<br>이제는 이 광기에 찬 우주를 해결할 사람은 당신뿐이다!",
         "Story": "",
         "Reward": [
             1,
@@ -333,9 +388,9 @@ var _event = [
     {
         "_id": 60003,
         "Icon": "BtnRogueDlcQuestBannerSmall1.png",
-        "Name": "Simulated Universe:<br>Swarm Disaster",
+        "Name": "시뮬레이션 우주: 곤충 떼 재난",
         "Desc": "",
-        "Story": "◆ Introduction ◆<br>● Herta, Ruan Mei, Screwllum, and Stephen have joined forces to bring about the Simulated Universe's first major update!<br>They're not only bringing in brand-new Blessings, Curios, and random Occurrences, but also the new Audience Journey map and the mysterious Audience Dice and Communing Device!<br><br>◆ Gameplay Goal ◆<br>In Simulated Universe: Swarm Disaster game mode, Trailblazers need to conduct Trail of Pathstrider challenges, raise Communing Trail points, and ultimately unlock all main story chapters.<br><br>◆ Gameplay Content ◆<br>● Audience Journey: Travel and plot your route across a \"map\" formed of various domains to arrive at your destination.<br>● Audience Dice: Use the Communing Device to toss out Audience Dice. Each Path's Audience Die offers varied effects. Using these effects optimally will allow you to gain more Blessings and Curios.<br>● Communing Trail: Increasing your Communing Trail points can let you unlock various special buffs (Note: The buffs are only active in Simulated Universe: Swarm Disaster).<br>● Swarm: True Sting — In the depths of the third plane, you can challenge the new boss Swarm: True Sting.<br>● Additionally, Simulated Universe: Swarm Disaster has been updated with a huge number of new Blessings, Curios, and random Occurrences, while also welcoming brand-new Path Resonances.<br><br>◆ Gameplay Rewards ◆<br>● Collect all the Swarm Disaster chapters to earn chapter collection rewards.<br>● Complete Trail of Pathstrider to get the corresponding rewards.<br>● Clearing each difficulty for the first time will earn you first-time completion rewards.<br><br>◆ Attention ◆<br>● Simulated Universe: Swarm Disaster has 5 difficulties in total, with Difficulty V offering high-level obstacles and challenges. Trailblazers can challenge these difficulties based on their preferences.<br>● Collect all chapters of Swarm Disaster and complete the Adventure Mission Swarm Disaster: The End to unlock the all-new Path of Propagation in Simulated Universe.",
+        "Story": "◆ 소개 ◆<br>● 헤르타와 완•매, 스크루룸, 스티븐이 함께 시뮬레이션 우주의 1차 대형 업데이트를 진행했습니다!<br>신규 축복, 기물, 랜덤 사건뿐만 아니라 신규 「알현의 여정」 맵, 신비로운 「알현 주사위」와 「알현 장치」도 추가되었습니다!<br><br>◆ 목표 ◆<br>● 「시뮬레이션 우주: 곤충 떼 재난」에서 「행자의 길」 도전을 진행하여 「알현의 행적」 포인트를 올리고 모든 메인 스토리 챕터를 오픈하세요!<br><br>◆ 콘텐츠 내용 ◆<br>● 「알현의 여정」: 여러 유형의 구역으로 구성된 「맵」에서 이동하고 경로를 계획하여 종점에 도달해보세요.<br>● 「알현 주사위」: 「알현 장치」를 사용하여 「알현 주사위」를 던질 수 있습니다. 운명의 길에 따라 「알현 주사위」 효과가 다릅니다. 「알현 주사위」의 주사위 면 효과를 알맞게 사용하여 더 많은 축복과 기물을 획득해보세요.<br>● 「알현의 행적」: 「알현의 행적」 포인트를 올리면 다양한 특수 버프 효과를 획득할 수 있습니다.(주의사항: 버프 효과는 「시뮬레이션 우주•곤충 떼 재난」에서만 적용됩니다)<br>● 「곤충 떼•완전체 칩충」: 제3차원 가장 깊은 곳에서 신규 보스 「곤충 떼•완전체 칩충」에 도전할 수 있습니다.<br>● 또한 이번 「시뮬레이션 우주•곤충 떼 재난」에선 대량의 신규 축복, 기물 및 랜덤 사건이 업데이트되는 동시에 신규 운명의 길 메아리도 업데이트되었습니다.<br><br>◆ 콘텐츠 보상 ◆<br>● 「곤충 떼 재난」의 챕터를 수집하면 챕터 수집 보상을 획득할 수 있습니다.<br>● 「행자의 길」을 완료하면 상응하는 보상을 얻을 수 있습니다.<br>● 각 난이도를 첫 클리어하면 첫 클리어 보상을 획득할 수 있습니다.<br><br>◆ 주의사항 ◆<br>● 「시뮬레이션 우주•곤충 떼 재난」은 총 5개의 난이도가 있습니다. 난이도 V 스테이지는 높은 난이도의 도전 콘텐츠이며, 개척자는 자신의 상황에 따라 적합한 난이도를 선택해 도전할 수 있습니다.<br>● 「시뮬레이션 우주•곤충 떼 재난」의 모든 챕터를 수집하고 모험 임무 「곤충 떼 재난: 결말」을 완료하면 시뮬레이션 우주의 신규 운명의 길 「번식」이 개방됩니다.",
         "Reward": [
             1,
             236,
@@ -352,9 +407,9 @@ var _event = [
     {
         "_id": 60001,
         "Icon": "BtnRogueReward.png",
-        "Name": "Simulated Universe",
-        "Desc": "Pass each Simulated Universe world for the first time and unlock new Blessings and Curios in the Index to earn Stellar Jade rewards",
-        "Story": "◆ Gameplay Rules ◆<br>I, Herta, hereby explain the rules of the Simulated Universe.<br>● As you fight your way through the Simulated Universe, you may encounter powerful Blessings from different Paths, random Occurrences, or special Curios.<br>● In the Simulated Universe game mode, you can experience randomly-generated maze combinations, enhanced Elite Enemies, and boss enemies.<br><br>◆ Gameplay Rewards ◆<br>● There are currently multiple worlds in the Simulated Universe. New worlds will be gradually unlocked as you progress through the Simulated Universe and Trailblaze Missions, providing new stages, content, and rewards.<br>● Clearing every world in the Simulated Universe for the first time will grant rewards, including the 4-star character Herta (Erudition: Ice), Stellar Jades, and Star Rail Passes.<br>● Complete the Simulated Universe to receive points and get rewards by accumulating points. The Point Rewards will be reset every Monday at 04:00 (server time).<br>● Unlock Blessings and Curios in the Simulated Universe Index to receive Stellar Jades.<br>● Defeating an enemy in Simulated Universe's \"Domain — Elite\" or \"Domain — Boss\" will earn extra drops.<br>● Complete the Simulated Universe to receive Ability Points. These are used in the Ability Tree to activate powerful abilities and aid in your exploration of the Simulated Universe.<br>● Starting from Simulated Universe — World 3, Planar Ornament exchange will be available after you defeat Elite or Boss enemies.",
+        "Name": "시뮬레이션 우주",
+        "Desc": "「시뮬레이션 우주」의 각 세계를 최초로 클리어하고 도감에서 새로운 축복과 기물을 개방하면, 성옥 보상을 획득할 수 있습니다",
+        "Story": "◆ 콘텐츠 규칙 ◆<br>나, 헤르타가 「시뮬레이션 우주」의 규칙에 대해 설명해줄게.<br>● 「시뮬레이션 우주」에서 전투하는 과정에서 여러 운명의 길이 가져다주는 강력한 축복, 랜덤 사건, 특수한 기물을 얻을 수 있을 거야.<br>● 「시뮬레이션 우주」에서는 랜덤으로 나타나는 미궁 조합, 강화된 정예 몬스터와 보스 적을 체험할 수 있어.<br><br>◆ 콘텐츠 보상 ◆<br>● 현재 「시뮬레이션 우주」에는 여러 세계가 있어. 새로운 세계 콘텐츠는 시뮬레이션 우주와 개척 임무의 진도에 따라 순차적으로 개방되고, 그에 따라 새로운 스테이지, 내용, 보상이 갱신되지.<br>● 「시뮬레이션 우주」의 각 세계를 처음으로 클리어하면 ★4 캐릭터 「헤르타(지식•얼음)」와 성옥, 별의 궤도 티켓 등의 보상을 획득할 수 있어.<br>● 「시뮬레이션 우주」를 완료하면 점수를 획득할 수 있고 누적된 점수로 보상을 교환할 수 있어. 점수 보상은 매주 월요일 04:00 (서버 시간)에 갱신돼.<br>● 「시뮬레이션 우주」 도감에서 축복과 기물을 개방하면 성옥을 획득할 수 있어.<br>● 「시뮬레이션 우주」의 「구역 - 정예」 또는 「구역 - 보스」에서 적을 처치하면 추가 드랍 보상을 획득할 수 있지.<br>● 「시뮬레이션 우주」를 완료하면 스킬 포인트를 획득해 스킬트리에서 강력한 효과를 활성화할 수 있어. 「시뮬레이션 우주」 콘텐츠의 탐사에 도움이 될 거야.<br>● 「시뮬레이션 우주•제3세계」에서부터는 정예 혹은 우두머리를 처치하면 「차원 장신구」 보상 교환이 개방돼.",
         "Reward": [
             101,
             24000,
@@ -368,9 +423,9 @@ var _event = [
     {
         "_id": 40002,
         "Icon": "BtnFantasticStory.png",
-        "Name": "Tales of the Fantastic",
-        "Desc": "The crisis on the Luofu has subsided, and stories of the feats of the Nameless can be heard on every street corner of the Luofu. The storyteller, Mr. Xiyan of Starskiff Haven, seems to be interested in your adventure and wants to retell it in story form...",
-        "Story": "◆ Introduction ◆<br>Many on the Xianzhou are already speaking of the feats of the Nameless. The Xianzhou's storyteller also hopes the Trailblazer can help him to retell the stories of their trailblazing adventure.<br><br>◆ Event Rules ◆<br>● After the event starts, a new Hero's Journey will be unlocked every day, for a total of 3 Hero's Journeys. Upon completion of each Journey, some \"Legends Past and Present\" combat challenge will be unlocked.<br>● During the event, once Trailblazers complete a Hero's Journey, they will receive a Protagonist Model and gradually improve the abilities within it. These abilities can help to form a more riveting experience in Legends Past and Present.<br>● The Protagonist Model can provide various Plot Armor combinations that can be freely adjusted, and their effects will be active in Legends Past and Present.<br>● Good combinations of Plot Armor in the Protagonist Model will result in higher combat scores.<br>● Trailblazers can use trial characters in Legends Past and Present.<br>● During combat, enemies will continuously appear for a limited number of Cycles. Points will be awarded for dealing damage to and defeating enemies. At the end of each battle, the highest score will be updated based on the results of the current challenge.<br>● Raising the Equilibrium Level will also raise the enemy and trial character levels in the event.<br><br>◆ Event Rewards ◆<br>During the event, Trailblazers can claim challenge rewards from the Rewards List after reaching certain scores in Legends Past and Present. When at least 10,000 points have been scored for each Legends Past and Present, a new section of the Readable <i>Legend of the Trailblazer</i> will be unlocked that corresponds to this particular Legend Past and Present. The main characters in the Readable will change depending on the characters used by the Trailblazer in combat. After unlocking all sections of the Readable, Trailblazers can obtain the limited item \"Legend of the Trailblazer,\" which can be viewed at any time from the Mission Item panel in your Inventory. This limited item can only be obtained from this event.",
+        "Name": "진기한 이야기",
+        "Desc": "나부의 위기가 잠시 잠잠해지면서 무명객의 업적은 널리 퍼지게 된다. 별뗏목의 바다의 이야기꾼 서연 선생은 당신 일행의 모험에 흥미를 느끼고 그 모험기를 재미있는 이야기로 각색하고 싶어 하는데……",
+        "Story": "◆ 소개 ◆<br>선주에는 이미 무명객의 명성이 자자합니다. 이야기꾼 선생도 무명객에 관한 이야기를 쓰고 싶어서 개척자에게 도움을 요청합니다.<br><br>◆ 이벤트 규칙 ◆<br>● 이벤트 오픈 후 매일 새로운 영웅의 여정이 총 3회 개방되고, 1회 완료할 때마다 고금의 전설도 개방됩니다.<br>● 이벤트 기간 동안 영웅의 여정을 완료한 후 주인공 템플릿을 획득하고 그 안의 능력을 점차 채워가게 됩니다. 이런 능력을 사용하면 고금의 전설에서 더욱 강해질 수 있습니다.<br>● 주인공 템플릿은 다양한 종류의 주인공 아우라 조합을 제공하고, 이를 자유롭게 장착할 수 있습니다. 해당 효과는 고금의 전설에서 적용됩니다.<br>● 주인공 템플릿의 주인공 아우라 조합을 적절히 진행하면 전투에서 더 높은 점수를 획득합니다.<br>● 개척자님은 체험 캐릭터를 선택해 고금의 전설에 참여할 수 있습니다.<br>● 전투 과정에서 적이 제한된 턴에 계속 나타납니다. 적에게 피해를 가하고 적을 처치하면 점수를 획득할 수 있습니다. 매 전투가 종료된 후 이번 도전 상황에 따라 최고 점수가 갱신됩니다.<br>● 개척자가 「균형 레벨」을 올리면, 이벤트 중 적과 체험 캐릭터의 레벨도 같이 상승합니다.<br><br>◆ 이벤트 보상 ◆<br> 이벤트 기간에 고금의 전설에서 특정 점수에 도달하면 「보상 목록」에서 도전 보상을 수령할 수 있습니다. 고금의 전설 하나마다 최소 10,000점을 획득하면 해당 고금의 전설에 대응하는 ≪개척의협기≫의 문단을 개방할 수 있습니다. 사용한 캐릭터에 따라 문단의 주요 캐릭터도 달라집니다. 모든 문단 개방 후 한정 아이템 「개척의협기」를 수령할 수 있습니다. 배낭의 임무 아이템란에서 이야기를 반복 확인할 수 있으며, 한정 물품은 이번 이벤트에서만 획득할 수 있습니다.",
         "Reward": [
             241,
             1,
@@ -386,9 +441,9 @@ var _event = [
     {
         "_id": 50005,
         "Icon": "BtnQuestAetherDivide.png",
-        "Name": "Aetherium Wars",
-        "Desc": "The popular game, Aetherium Wars, is currently holding the \"Interastral Tournament Festival,\" where players are all set to show their strength...",
-        "Story": "◆ Introduction ◆<br> Developed by the Interastral Peace Corporation, \"Aetherium Wars\" is a trading card battle game that uses \"Aether Coins\" as its medium, and has taken the universe by storm since its release. In this game, any organism's data can be transformed into \"Aether Spirits\" for players to \"collect, battle, train, and upgrade.\" Currently, the IPC has decided to organize an \"Interastral Tournament Festival\" in Belobog, where Aetherium Wars players from all over the universe will compete for the title of \"Champion.\"<br><br>◆ Event Rules ◆<br>● The event will adopt special battle rules, and the Trailblazers will have to fight opponents using Aether Spirits.<br>● The goal of the event is to win the title of Champion in the Interastral Tournament Festival. Trailblazers will need to pass the trials of each of the four \"Victory Zones\" one by one and defeat the \"championship contender\" to earn \"Mastery Marks.\" Collecting four Mastery Marks will qualify you to enter the tournament.<br>● In the event's Challenge Mode, \"Hyperlink Match,\" Trailblazers can face off against other players in the universe in an Aether Spirit match, and see who from your past journeys you will come across.<br>● During the challenge, you can meet various players and Aether Spirits, and strengthen your Aether Spirit team by collecting, battling, training, and upgrading them.<br><br>◆ Rewards ◆<br>● In the Aetherium Wars event, you can increase your \"Victory Rating\" by challenging Victory Zones and Hyperlink Matches, and you can receive rating rewards after reaching different Victory Ratings.<br>● Achieve the set event goals during the limited-time event to claim the event rewards from \"Limited-Time Rewards.\"<br><br>◆ Event Tips ◆<br>● After the Aetherium Wars event has concluded, Trailblazers will not be able to claim the limited-time event rewards. However, you can still visit the Old Weapon Testing Ground in Belobog to experience the event's contents.",
+        "Name": "에테르 배틀",
+        "Desc": "우주를 휩쓴 게임 ≪에테르 배틀≫의 「스타피스 결승 축제」가 개최되고 있다. 유저들은 이곳에서 자신의 실력을 뽐내려고 하는데……",
+        "Story": "◆ 소개 ◆<br>스타피스 컴퍼니에서 연구 개발한 ≪에테르 배틀≫은 「에테르 코인」을 운반체로 한 TCG 게임으로, 출시되자마자 우주를 휩쓸었습니다. 이 게임에서 모든 생물 데이터는 「에테르 정령」이 될 수 있고, 유저들은 이를 「수집, 대전, 육성, 레벨업」할 수 있습니다. 현재 컴퍼니는 벨로보그에서 「스타피스 결승 축제」를 개최하기로 결정했습니다. 우주 각지의 ≪에테르 배틀≫ 유저들은 「우승자」 칭호를 두고 각축을 벌일 예정입니다.<br><br>◆ 이벤트 규칙 ◆<br>● 이벤트에는 특수한 전투 규칙이 적용됩니다. 개척자는 「에테르 정령」을 통해 배틀을 진행해야 합니다.<br>● 이벤트 목표는 「스타피스 결승 축제」의 「타이틀전」에서 「우승자」 칭호를 획득하는 것입니다. 개척자는 4곳의 「승리 낙원」에서 시련을 차례로 통과해 「우승 후보」를 꺾고 「자격 배지」를 획득해야 합니다. 자격 배지를 4개 수집하면 「타이틀전」 입장 자격을 획득할 수 있습니다.<br>● 이벤트 도전 모드 「하이퍼링크 대결」에서 개척자는 우주의 다른 유저와 「에테르 정령」 대결을 진행할 수 있습니다. 지난 여정에서 사귄 친구들을 대전 상대로 만날 수 있을지 살펴보세요.<br>● 이벤트 도전 중에 개척자는 다양한 유저와 「에테르 정령」을 만날 수 있습니다. 「수집, 대전, 육성, 레벨업」을 통해 자신의 「에테르 정령」 파티를 강화시키세요.<br><br>◆ 이벤트 보상 ◆<br>● 「에테르 배틀」 이벤트에서 「승리 낙원」과 「하이퍼링크 대결」 도전을 통과하면 「결승자 등급」을 향상시킬 수 있습니다. 각 「결승자 등급」을 달성하면 등급 보상을 수령할 수 있습니다.<br>● 한정 이벤트 기간에 지정된 이벤트 목표를 달성하면 「한정 보상」에서 이벤트 보상을 수령할 수 있습니다.<br><br>◆ 이벤트 알림 ◆<br>● 「에테르 배틀」의 이벤트 기간이 종료되면 한정 이벤트 보상을 획득할 수 없지만, 벨로보그의 「구 무기 시험장」으로 가서 이벤트 내용을 체험할 수 있습니다.",
         "Reward": [
             236,
             241,
@@ -408,18 +463,18 @@ var _event = [
     {
         "_id": 80005,
         "Icon": "BtnMainStory160.png",
-        "Name": "Crown of the<br>Mundane and Divine",
-        "Desc": "The mundanity and the genius, humanity and divinity. Sensed during a golden epoch, the struggles across life's years are nothing more than absurd instants...",
-        "Story": "Trailblaze Continuance Available",
+        "Name": "인간과 신의 면류관",
+        "Desc": "범인과 천재, 인성과 신성. 일생의 모든 투쟁은 우스꽝스러울 뿐이란 걸 황금 시대에 깨달았다…",
+        "Story": "개척 후문 오픈",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 80004,
         "Icon": "BtnSubStory140.png",
-        "Name": "Clouds Leave No Trace",
-        "Desc": "A letter was delivered to the Express, proposing a reunion of old acquaintances, but the intention was indeterminable...",
-        "Story": "Companion Mission Available",
+        "Name": "흔적을 남기지 않은 구름",
+        "Desc": "옛 친구와의 재회를 제안하는 편지 한 통이 열차에 도착했다. 하지만 그 의도는 밝혀지지 않았는데…",
+        "Story": "동행 임무 오픈",
         "Reward": [
             1,
             22,
@@ -434,36 +489,36 @@ var _event = [
     {
         "_id": 80003,
         "Icon": "BtnMainStory140.png",
-        "Name": "Future Market",
-        "Desc": "On the eve of the Solwarm Festival, a messenger from the Interastral Peace Corporation arrived at Belobog...",
-        "Story": "Trailblaze Continuance Available",
+        "Name": "미래 시장",
+        "Desc": "태양의 축제 전날 밤, 스타피스 컴퍼니의 전달자가 벨로보그에 도착하게 되는데…",
+        "Story": "개척 후문 오픈",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 80002,
         "Icon": "BtnMainStory130.png",
-        "Name": "Obsequies Performed, A Long Road Ahead",
-        "Desc": "With the banishment of Phantylia, the Xianzhou's crisis has found its respite, but a few stories have yet to find their endings...",
-        "Story": "Trailblaze Mission Available",
+        "Name": "위령제, 맑고 먼 하늘길",
+        "Desc": "팬틸리아를 물리친 이후, 선주에 잠깐의 평화가 찾아오지만, 아직 끝나지 않은 일들이 남아있는데…",
+        "Story": "개척 임무 오픈",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 80001,
         "Icon": "BtnQuestPrincipalLineBanner.png",
-        "Name": "Even Immortality Ends",
-        "Desc": "As the Ambrosial Arbor is rejuvenated, the sinister plots on the Luofu are about to emerge to the surface...",
-        "Story": "Trailblaze Mission Available",
+        "Name": "불멸의 끝",
+        "Desc": "불멸의 거목이 되살아나면서 나부의 음모도 곧 수면 위로 떠오른다…",
+        "Story": "개척 임무 오픈",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 50004,
         "Icon": "BtnTresureDungeon.png",
-        "Name": "Underground Treasure Hunt",
+        "Name": "지하 보물찾기",
         "Desc": "",
-        "Story": "◆ Introduction ◆<br>In Belobog, the ancient ruins from before the Eternal Freeze are once again seeing the light of day. Rare treasures and ancient relics are buried in the depths, waiting to be uncovered by adventurers...<br><br>◆ Event Rules ◆<br>● After the event starts, a new ruin will be unlocked every day, with a total of 5 ruins.<br>● During the event, treasure hunters can explore various areas of the ruins by consuming stamina. There are items, supplies, and even dangerous enemies lurking in the ruins, waiting to be found by treasure hunters.<br>● Planning your route and stamina use carefully, being resourceful with items unearthed in the ruins, and preparing to deal with a variety of enemies will make for a smoother treasure hunting expedition.<br>● Trailblazers can use trial characters in this event.<br>● The HP and Energy of all characters will be recorded at the end of each battle.<br>● Raising the Equilibrium Level will also raise the enemy and trial character levels in the event.<br><br>◆ Event Rewards ◆<br>Explore the ruins during the event and claim Treasure Hunt Rewards after reaching a certain level of exploration progress.",
+        "Story": "◆ 소개 ◆<br>벨로보그에 한파가 닥치기 전의 고대 유적이 다시 세상에 나타났습니다. 유적 깊은 곳에 숨은 진귀한 보물들과 고대 유물이 용감한 보물 사냥꾼의 탐사를 기다리고 있습니다….<br><br>◆ 이벤트 규칙 ◆<br>● 이벤트 오픈 후 매일 새로운 유적이 개방되며, 총 5곳이 개방됩니다.<br>● 이벤트 중에 보물 사냥꾼은 지구력을 소모해 유적의 각 구역을 탐사할 수 있습니다. 구역에 숨겨진 아이템과 보급 물자… 그리고 위험한 적들이 보물 사냥꾼의 탐사를 기다리고 있습니다.<br>● 행동 노선과 지구력을 적절히 조절하고 유적에서 발굴한 아이템을 합리적으로 이용해 여러 유형의 적을 상대하면 보물찾기 임무가 훨씬 순조로워집니다.<br>● 체험 캐릭터를 선택해 이벤트에 참여할 수 있습니다.<br>● 매 전투가 종료될 때마다 모든 캐릭터의 HP 및 에너지가 기록됩니다.<br>● 개척자가 「균형 레벨」을 올리면 이벤트 내의 적과 체험 캐릭터 레벨도 같이 올라갑니다.<br><br>◆ 이벤트 보상 ◆<br>이벤트 기간 동안 유적을 탐사해 특정 탐사 진도를 달성하면 「보물찾기 보상」에서 임무 보상을 수령할 수 있습니다.",
         "Reward": [
             236,
             241,
@@ -489,9 +544,9 @@ var _event = [
     {
         "_id": 50003,
         "Icon": "BtnQuesAlley.png",
-        "Name": "Aurum Alley's Hustle and Bustle",
-        "Desc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision...",
-        "Story": "◆ Introduction ◆<br>The declining Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the Interastral Peace Corporation, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision...<br><br>◆ Event Note ◆<br>● After the event starts, a new series of Adventure Missions, \"Back in Business,\" will become available. Complete Back in Business (I) to begin Aurum Alley Operations. There are a total of 4 phases.<br>● After the limited-time event, Aurum Alley's Hustle and Bustle, is over, Trailblazers will be unable to claim the event's limited-time rewards. However, Trailblazers can still access Aurum Alley's Hustle and Bustle to obtain Regular Rewards.<br>● During Aurum Alley Operations, earn \"Merchant Guild's funds\" to help the merchant guild solve the crisis. After achieving the Merchant Guild's funding goal of each phase and delivering it to the merchant guild, the subsequent mission storyline will be triggered and the landscape of Aurum Alley will change.<br>● During the operations period, you can also complete \"Merchant Events\" to establish collaborative relationships with stores. After which, you can advance the operations process and alter the store's landscape. Some stores, after establishing collaborations, will provide goods that can be sold.<br>● After advancing Aurum Alley's Operations Phase, more Merchant Events will be unlocked. <br><br>◆ Inventory Arrangement ◆<br>● During Aurum Alley's operations period, you can earn Merchant Guild's funds via Inventory Arrangement.<br>● After completing Merchant Events, you can add new orders and goods for Inventory Arrangement.<br>● After achieving Aurum Alley's Phase Goal, you will unlock the \"Custom Order\" of each store as a gameplay challenge.<br>● After advancing Aurum Alley's Operations Phase, a larger-capacity freight starskiff will become available, allowing for larger shipping revenue.<br><br>◆ Logistics Planning ◆<br>● During Aurum Alley Operations, you can plan routes in \"Logistics Planning\" and obtain corresponding rewards by achieving certain logistic score.<br>● After completing Merchant Events, you can unlock the corresponding stores in Logistics Planning and plan the logistics route from the store to the dock.<br>● After achieving Aurum Alley's Phase Goal, there will be \"Streetside Events.\" Complete them to obtain rewards and unlock the route advantages in Logistics Planning.<br>● After advancing Aurum Alley's Operations Phase, the Low-Level, Mid-Level, and High-Level logistics lanes will be opened in order to accommodate more stores.<br><br>◆ Regular Rewards ◆<br>● Obtain Prosperity Certificates through Logistics Planning, Merchant Events, Street Events, and Custom Orders.<br>● Exchange Prosperity Certificates for rewards via Guild Benefits.<br><br>◆ Limited-Time Rewards ◆<br>● During the limited-time activity period, if you complete gameplays such as Inventory Arrangement and Logistics Planning, you can claim Logistics Planning Rewards from the Limited-Time Rewards.<br>● During the limited-time activity period, if you complete events such as Merchant Events and Streetside Events, you can claim Revitalization Progress Rewards from the Limited-Time Rewards.",
+        "Name": "시끌벅적 금 조각상 옛 거리",
+        "Desc": "나날이 쇠락하던 금 조각상 거리에 또다시 봄을 맞이할 기회가 찾아왔다. 컴퍼니의 재투자를 노릴 것인가, 현지 상회의 도움을 받을 것인가? 당신은 그 사이에서 사람들의 선택을 좌우하게 된다……",
+        "Story": "◆ 소개 ◆<br>나날이 쇠락하던 금 조각상 거리에 또다시 봄을 맞이할 기회가 찾아왔다. 컴퍼니의 재투자를 노릴 것인가, 현지 상회의 도움을 받을 것인가? 당신은 그 사이에서 사람들의 선택을 좌우하게 된다…….<br><br>◆ 이벤트 알림 ◆<br>● 이벤트 오픈 후 매일 새로운 시리즈의 모험 임무 「다시 부흥하는 금빛」이 오픈됩니다. 「다시 부흥하는 금빛•1」을 완료하면 총 4단계의 금 조각상 거리 경영이 시작됩니다.<br>● 「시끌벅적 금 조각상 옛 거리」 한정 이벤트 종료 후 이벤트의 기간 한정 보상을 획득할 수는 없지만, 선주 「나부」 장낙천의 「시끌벅적 금 조각상 옛 거리」에서 콘텐츠를 체험하고 상시 보상을 획득할 수 있습니다.<br><br>◆ 금 조각상 거리 경영 ◆<br>● 금 조각상 거리 경영 기간에 「상회 예비금」을 벌어 상회의 위기를 해결할 수 있습니다. 매 단계의 예비금 목표를 달성해 상회에 납부하면 후속 임무 스토리가 발동되고 금 조각상 거리의 생태계를 바꿀 수 있습니다.<br>● 경영 기간에 「상점 사건」을 완료해 상점과 협력 관계를 맺고, 경영 프로세스를 추진해 상점의 생태계를 바꿀 수도 있습니다. 협력 관계를 맺은 상점은 판매 가능한 화물을 제공합니다.<br>● 금 조각상 거리 경영 단계가 올라가면 더 많은 「상점 사건」이 개방됩니다.<br><br>◆ 화물 적재 ◆<br>● 금 조각상 거리 경영 기간에 「화물 적재」를 통해 「상회 예비금」을 획득할 수 있습니다.<br>● 「상점 사건」을 완료하면 「화물 적재」를 위한 새로운 운송장과 화물이 증가합니다.<br>● 금 조각상 거리의 단계 목표를 달성하면, 도전 콘텐츠인 각 상점의 「맞춤 운송장」이 개방됩니다.<br>● 금 조각상 거리 경영 단계가 올라가면 더 큰 용량의 화물용 별뗏목이 개방되고 더 높은 운송 수익을 획득할 수 있습니다.<br><br>◆ 물류 계획 ◆<br>● 금 조각상 거리 운영 기간에 「물류 계획」에서 항로를 계획하고 일정 물류 평점을 달성하면, 대응하는 보상을 획득할 수 있습니다.<br>● 「상점 사건」을 완료하면, 물류 계획에서 지정 상점을 개방하고 상점과 부두의 물류 항로를 계획할 수 있습니다.<br>● 금 조각상 거리의 단계 목표를 달성하면 「골목 사건」이 나타납니다. 완료 후 보상을 획득하고 「물류 계획」의 노선 혜택을 개방할 수 있습니다.<br>● 금 조각상 거리 경영 단계가 올라가면 저층, 중층, 고층의 물류 항로가 차례로 개방돼 더 많은 상점을 수용할 수 있습니다. <br><br>◆ 상시 보상 ◆<br>● 「물류 계획」, 「상점 사건」, 「골목 사건」, 「맞춤 운송장」을 통해 상업 활력 증서를 획득할 수 있습니다.<br>● 「상회 혜택」시스템에서 상업 활력 증서를 제출해 보상으로 교환할 수 있습니다.<br><br>◆ 한정 보상 ◆<br>● 한정 이벤트 기간에 「화물 적재」, 「물류 계획」등의 콘텐츠를 진행해 「한정 보상」에서 관리 계획 보상을 수령할 수 있습니다.<br>● 한정 이벤트 기간에 「상점 사건」, 「골목 사건」을 완료하면 「한정 보상」의 부흥 진도 보상을 수령할 수 있습니다.",
         "Reward": [
             236,
             241,
@@ -508,9 +563,9 @@ var _event = [
     {
         "_id": 30007,
         "Icon": "BtnQuestMedicineAssignment.png",
-        "Name": "Space Station Task Force",
-        "Desc": "The space station's post-disaster recovery work can only be entrusted to the special commissioner!",
-        "Story": "◆ Summary ◆<br>The post-disaster recovery work of the space station can only be entrusted to the task force!<br><br>◆ Event Details ◆<br>During the event, Trailblazers can obtain rewards by assigning characters to complete the event assignments. For the first 6 days of the event, 4 assignments will be unlocked every day. A total of 24 assignments will be given.<br><br>◆ Event Rewards ◆<br>Assign characters to complete event assignments to obtain rewards. Using recommended Paths or high-level characters can improve assignment evaluation and result in additional rewards.",
+        "Name": "우주정거장 특파",
+        "Desc": "우주정거장의 재난 후 부흥 작업은 특파원에게 맡길 수밖에!",
+        "Story": "◆ 소개 ◆<br>우주정거장의 재난 후 부흥 작업은 특파원에게 맡길 수밖에!<br><br>◆ 이벤트 규칙 ◆<br>이벤트 기간 동안 캐릭터를 파견해 이벤트 의뢰를 완료하면 보상을 획득할 수 있습니다. 이벤트 시작 후 6일 동안 매일 의뢰 4건이 개방되며, 총 24건의 의뢰가 개방됩니다.<br><br>◆ 이벤트 보상 ◆<br>파견한 캐릭터가 이벤트 의뢰를 완료하면 보상을 획득할 수 있습니다. 추천 운명의 길이나 레벨이 높은 캐릭터를 사용하면 의뢰 평가를 높여 추가 보상을 획득할 수 있습니다.",
         "Reward": [
             1,
             213,
@@ -522,9 +577,9 @@ var _event = [
     {
         "_id": 30006,
         "Icon": "BtnQuestGuessTheSilhouetteTask.png",
-        "Name": "Stellar Shadowseeker",
-        "Desc": "In your trailblazing expedition, the peculiar and interesting things you encountered were captured by March 7th, but it seems there are some issues with these photos...",
-        "Story": "◆ Introduction ◆<br>During the trailblazing expedition, the peculiar sights and interesting events you encountered were captured by March 7th. However, there seems to be some issues with these photos...<br><br>◆ Event Rules ◆<br>During the event, there will be 2 photos covered by dark shadows that need to be re-taken by the Trailblazer each day. The Trailblazer can locate the photo subjects based on the shape of the shadow in the photo. Successfully taking the photo will allow you to claim the corresponding reward.<br><br>◆ Event Rewards ◆<br>Assist March 7th in taking photos to earn rewards.",
+        "Name": "그림자를 찾는 별의 여정",
+        "Desc": "개척 여정 중에 마주쳤던 기이한 풍경과 재미난 일들을 Mar. 7th가 모두 촬영했다. 그런데 이 사진들에 문제가 생긴 것 같다……",
+        "Story": "◆ 소개 ◆<br>Mar. 7th는 개척 여정 중에 마주쳤던 기이한 풍경과 재미난 일들을 모두 촬영했습니다. 그런데 이 사진들에 문제가 생긴 것 같습니다…….<br><br>◆ 이벤트 규칙 ◆<br>이벤트 기간 동안 매일 검은 그림자에 가려진 사진 2장이 제시됩니다. 사진 속 그림자의 형태에 따라 촬영 목표를 찾아보세요. 촬영에 성공하면 대응하는 보상을 수령할 수 있습니다.<br><br>◆ 이벤트 보상 ◆<br>Mar. 7th를 도와 사진을 촬영하면 보상을 획득할 수 있습니다.",
         "Reward": [
             1,
             241,
@@ -536,47 +591,56 @@ var _event = [
         "Ver": "1.x"
     },
     {
+        "_id": 20033,
+        "Icon": "BtnQuestRoleTrial19.png",
+        "Name": "솜씨 발휘",
+        "Desc": "",
+        "Story": "◆ 이벤트 규칙 ◆<br>캐릭터 체험 이벤트 「솜씨 발휘」 오픈 기간 동안 체험 캐릭터가 포함된 고정 파티를 사용해서 제한 횟수 없이 지정된 스테이지를 플레이할 수 있습니다.<br>이벤트 스테이지에서는 파티 편성 및 캐릭터 레벨, 캐릭터가 장착한 광추 및 유물을 변경할 수 없습니다.<br><br>◆ 이벤트 보상 ◆<br>스테이지 도전에 성공하면 이벤트 화면에서 체험 스테이지 보상을 수령할 수 있습니다. 이벤트 기간 동안 각 체험 스테이지 보상은 한 번만 수령할 수 있습니다.",
+        "Reward": [],
+        "Ver": "2.2"
+    },
+    {
         "_id": 20030,
         "Icon": "BtnQuestRoleTrial17.png",
-        "Name": "",
+        "Name": "솜씨 발휘",
         "Desc": "",
-        "Story": "",
+        "Story": "◆ 이벤트 규칙 ◆<br>캐릭터 체험 이벤트 「솜씨 발휘」 오픈 기간 동안 체험 캐릭터가 포함된 고정 파티를 사용해서 제한 횟수 없이 지정된 스테이지를 플레이할 수 있습니다.<br>이벤트 스테이지에서는 파티 편성 및 캐릭터 레벨, 캐릭터가 장착한 광추 및 유물을 변경할 수 없습니다.<br><br>◆ 이벤트 보상 ◆<br>스테이지 도전에 성공하면 이벤트 화면에서 체험 스테이지 보상을 수령할 수 있습니다. 이벤트 기간 동안 각 체험 스테이지 보상은 한 번만 수령할 수 있습니다.",
         "Reward": [],
         "Ver": "2.1"
     },
     {
         "_id": 20027,
         "Icon": "BtnQuestRoleTrial15.png",
-        "Name": "",
+        "Name": "솜씨 발휘",
         "Desc": "",
-        "Story": "",
+        "Story": "◆ 이벤트 규칙 ◆<br>캐릭터 체험 이벤트 「솜씨 발휘」 오픈 기간 동안 체험 캐릭터가 포함된 고정 파티를 사용해서 제한 횟수 없이 지정된 스테이지를 플레이할 수 있습니다.<br>이벤트 스테이지에서는 파티 편성 및 캐릭터 레벨, 캐릭터가 장착한 광추 및 유물을 변경할 수 없습니다.<br><br>◆ 이벤트 보상 ◆<br>스테이지 도전에 성공하면 이벤트 화면에서 체험 스테이지 보상을 수령할 수 있습니다. 이벤트 기간 동안 각 체험 스테이지 보상은 한 번만 수령할 수 있습니다.",
         "Reward": [],
         "Ver": "2.1"
     },
     {
         "_id": 20024,
         "Icon": "BtnQuestRoleTrial13.png",
-        "Name": "Aptitude Showcase",
+        "Name": "솜씨 발휘",
         "Desc": "",
-        "Story": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event.",
+        "Story": "◆ 이벤트 규칙 ◆<br>캐릭터 체험 이벤트 「솜씨 발휘」 오픈 기간 동안 체험 캐릭터가 포함된 고정 파티를 사용해서 제한 횟수 없이 지정된 스테이지를 플레이할 수 있습니다.<br>이벤트 스테이지에서는 파티 편성 및 캐릭터 레벨, 캐릭터가 장착한 광추 및 유물을 변경할 수 없습니다.<br><br>◆ 이벤트 보상 ◆<br>스테이지 도전에 성공하면 이벤트 화면에서 체험 스테이지 보상을 수령할 수 있습니다. 이벤트 기간 동안 각 체험 스테이지 보상은 한 번만 수령할 수 있습니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 20021,
         "Icon": "BtnQuestRoleTrial11.png",
-        "Name": "Aptitude Showcase",
+        "Name": "솜씨 발휘",
         "Desc": "",
-        "Story": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event.",
+        "Story": "◆ 이벤트 규칙 ◆<br>캐릭터 체험 이벤트 「솜씨 발휘」 오픈 기간 동안 체험 캐릭터가 포함된 고정 파티를 사용해서 제한 횟수 없이 지정된 스테이지를 플레이할 수 있습니다.<br>이벤트 스테이지에서는 파티 편성 및 캐릭터 레벨, 캐릭터가 장착한 광추 및 유물을 변경할 수 없습니다.<br><br>◆ 이벤트 보상 ◆<br>스테이지 도전에 성공하면 이벤트 화면에서 체험 스테이지 보상을 수령할 수 있습니다. 이벤트 기간 동안 각 체험 스테이지 보상은 한 번만 수령할 수 있습니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 20018,
         "Icon": "BtnQuestRoleTrial10.png",
-        "Name": "Aptitude Showcase",
+        "Name": "솜씨 발휘",
         "Desc": "",
-        "Story": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event.",
+        "Story": "◆ 이벤트 규칙 ◆<br>캐릭터 체험 이벤트 「솜씨 발휘」 오픈 기간 동안 체험 캐릭터가 포함된 고정 파티를 사용해서 제한 횟수 없이 지정된 스테이지를 플레이할 수 있습니다.<br>이벤트 스테이지에서는 파티 편성 및 캐릭터 레벨, 캐릭터가 장착한 광추 및 유물을 변경할 수 없습니다.<br><br>◆ 이벤트 보상 ◆<br>스테이지 도전에 성공하면 이벤트 화면에서 체험 스테이지 보상을 수령할 수 있습니다. 이벤트 기간 동안 각 체험 스테이지 보상은 한 번만 수령할 수 있습니다.",
         "Reward": [],
         "Ver": "1.x"
     },
@@ -592,63 +656,63 @@ var _event = [
     {
         "_id": 20012,
         "Icon": "BtnQuestRoleTrial8.png",
-        "Name": "Aptitude Showcase",
+        "Name": "솜씨 발휘",
         "Desc": "",
-        "Story": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event.",
+        "Story": "◆ 이벤트 규칙 ◆<br>캐릭터 체험 이벤트 「솜씨 발휘」 오픈 기간 동안 체험 캐릭터가 포함된 고정 파티를 사용해서 제한 횟수 없이 지정된 스테이지를 플레이할 수 있습니다.<br>이벤트 스테이지에서는 파티 편성 및 캐릭터 레벨, 캐릭터가 장착한 광추 및 유물을 변경할 수 없습니다.<br><br>◆ 이벤트 보상 ◆<br>스테이지 도전에 성공하면 이벤트 화면에서 체험 스테이지 보상을 수령할 수 있습니다. 이벤트 기간 동안 각 체험 스테이지 보상은 한 번만 수령할 수 있습니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 20011,
         "Icon": "BtnQuestRoleTrial7.png",
-        "Name": "Aptitude Showcase",
+        "Name": "솜씨 발휘",
         "Desc": "",
-        "Story": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event.",
+        "Story": "◆ 이벤트 규칙 ◆<br>캐릭터 체험 이벤트 「솜씨 발휘」 오픈 기간 동안 체험 캐릭터가 포함된 고정 파티를 사용해서 제한 횟수 없이 지정된 스테이지를 플레이할 수 있습니다.<br>이벤트 스테이지에서는 파티 편성 및 캐릭터 레벨, 캐릭터가 장착한 광추 및 유물을 변경할 수 없습니다.<br><br>◆ 이벤트 보상 ◆<br>스테이지 도전에 성공하면 이벤트 화면에서 체험 스테이지 보상을 수령할 수 있습니다. 이벤트 기간 동안 각 체험 스테이지 보상은 한 번만 수령할 수 있습니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 20009,
         "Icon": "BtnQuestRoleTrial6.png",
-        "Name": "Aptitude Showcase",
+        "Name": "솜씨 발휘",
         "Desc": "",
-        "Story": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event.",
+        "Story": "◆ 이벤트 규칙 ◆<br>캐릭터 체험 이벤트 「솜씨 발휘」 오픈 기간 동안 체험 캐릭터가 포함된 고정 파티를 사용해서 제한 횟수 없이 지정된 스테이지를 플레이할 수 있습니다.<br>이벤트 스테이지에서는 파티 편성 및 캐릭터 레벨, 캐릭터가 장착한 광추 및 유물을 변경할 수 없습니다.<br><br>◆ 이벤트 보상 ◆<br>스테이지 도전에 성공하면 이벤트 화면에서 체험 스테이지 보상을 수령할 수 있습니다. 이벤트 기간 동안 각 체험 스테이지 보상은 한 번만 수령할 수 있습니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 20008,
         "Icon": "BtnQuestRoleTrial5.png",
-        "Name": "Aptitude Showcase",
+        "Name": "솜씨 발휘",
         "Desc": "",
-        "Story": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event.",
+        "Story": "◆ 이벤트 규칙 ◆<br>캐릭터 체험 이벤트 「솜씨 발휘」 오픈 기간 동안 체험 캐릭터가 포함된 고정 파티를 사용해서 제한 횟수 없이 지정된 스테이지를 플레이할 수 있습니다.<br>이벤트 스테이지에서는 파티 편성 및 캐릭터 레벨, 캐릭터가 장착한 광추 및 유물을 변경할 수 없습니다.<br><br>◆ 이벤트 보상 ◆<br>스테이지 도전에 성공하면 이벤트 화면에서 체험 스테이지 보상을 수령할 수 있습니다. 이벤트 기간 동안 각 체험 스테이지 보상은 한 번만 수령할 수 있습니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 20006,
         "Icon": "BtnQuestRoleTrial4.png",
-        "Name": "Aptitude Showcase",
+        "Name": "솜씨 발휘",
         "Desc": "",
-        "Story": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event.",
+        "Story": "◆ 이벤트 규칙 ◆<br>캐릭터 체험 이벤트 「솜씨 발휘」 오픈 기간 동안 체험 캐릭터가 포함된 고정 파티를 사용해서 제한 횟수 없이 지정된 스테이지를 플레이할 수 있습니다.<br>이벤트 스테이지에서는 파티 편성 및 캐릭터 레벨, 캐릭터가 장착한 광추 및 유물을 변경할 수 없습니다.<br><br>◆ 이벤트 보상 ◆<br>스테이지 도전에 성공하면 이벤트 화면에서 체험 스테이지 보상을 수령할 수 있습니다. 이벤트 기간 동안 각 체험 스테이지 보상은 한 번만 수령할 수 있습니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 20005,
         "Icon": "BtnQuestRoleTrial3.png",
-        "Name": "Aptitude Showcase",
+        "Name": "솜씨 발휘",
         "Desc": "",
-        "Story": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event.",
+        "Story": "◆ 이벤트 규칙 ◆<br>캐릭터 체험 이벤트 「솜씨 발휘」 오픈 기간 동안 체험 캐릭터가 포함된 고정 파티를 사용해서 제한 횟수 없이 지정된 스테이지를 플레이할 수 있습니다.<br>이벤트 스테이지에서는 파티 편성 및 캐릭터 레벨, 캐릭터가 장착한 광추 및 유물을 변경할 수 없습니다.<br><br>◆ 이벤트 보상 ◆<br>스테이지 도전에 성공하면 이벤트 화면에서 체험 스테이지 보상을 수령할 수 있습니다. 이벤트 기간 동안 각 체험 스테이지 보상은 한 번만 수령할 수 있습니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 30005,
         "Icon": "BtnPocketMonster.png",
-        "Name": "Lab Assistants In Position",
-        "Desc": "There are 3 key aspects for experimental reports on the Herta Space Station: Be rigorous in experiments, be vigilant in reports, and be timely with submissions.",
-        "Story": "◆ Introduction ◆<br>Wen Shiling, a Department of Implement Arts Researcher from the Herta Space Station, is currently compiling the research reports needed for this quarter. However, the Antimatter Legion's invasion created lots of extra work for her, and she was unable to collect the material required for her research in a timely manner. Therefore, she would like to hire a research assistant.<br><br>◆ Event Rules ◆<br>Wen Shiling will announce one new \"research topic\" and its required \"experimental components\" every day during the event, for a total of seven topics.<br>By collecting and submitting today's required experimental components, the Trailblazer can obtain the day's research findings and rewards.<br><br>◆ Event Rewards ◆<br>The Trailblazer will also receive All Good Potions when they submit experimental components. As research progresses, Wen Shiling will gradually develop a better understanding of the principles behind producing the All Good Potion. She will give the All Good Potion recipe as a reward at the end of the final experiment.",
+        "Name": "실험 조수는 위치로",
+        "Desc": "우주정거장 「헤르타」의 실험 보고 3「요소」: 실험은 엄격하게, 보고는 신중하게, 제출 시간은 정확하게",
+        "Story": "◆ 소개 ◆<br>헤르타 정거장의 관리과 연구원 온세영은 이번 분기에 필요한 연구 보고를 종합하고 있다. 하지만 반물질 군단의 침입으로 다른 업무가 늘어 연구에 필요한 재료를 수집하기 위해 실험 조수를 특별 고용하게 된다.<br><br>◆ 이벤트 규칙 ◆<br>이벤트 오픈 후 온세영은 매일 1개의 새로운 「연구 과제」와 과제 완료에 필요한 「실험 소재」를 공개하며 과제는 총 7개입니다.<br>당일 과제에 필요한 「실험 소재」를 수집해 제출하면 일일 연구 결과 및 보상을 얻을 수 있습니다.<br><br>◆ 이벤트 보상 ◆<br>개척자가 「실험 소재」를 제출하면 추가로 「짱짱 포션」을 획득합니다. 실험이 진전됨에 따라 온세영의 「짱짱 포션」 제조 능력은 상승합니다. 실험이 최종적으로 완료되면 온세영은 「짱짱 포션」의 제조 레시피를 보상으로 선물합니다.",
         "Reward": [
             1,
             406017,
@@ -661,9 +725,9 @@ var _event = [
     {
         "_id": 30004,
         "Icon": "BtnQuestTreasureTrotter.png",
-        "Name": "Where Are You, Mystery Trotter?",
-        "Desc": "Where is the Mystery Trotter? Why not consult Regin's homemade sensor at the Goethe Hotel!",
-        "Story": "◆ Introduction ◆<br>Where is the Mystery Trotter? Why not consult Regin's homemade sensor at the Goethe Hotel!<br><br>◆ Event Rules ◆<br>During the event, the Trailblazer can help Regin conduct sensor experiments to look for Trotters. There are 7 clues for Trotters.<br><br>◆ Event Rewards ◆<br>The Trailblazer will receive rewards after completing the daily Search Missions, and receive extra rewards after completing all Search Missions.",
+        "Name": "신기한 저금통은 어디에?",
+        "Desc": "신기한 저금통은 어디에? 괴테 호텔로 가서 레긴이 제작한 신기한 감지기에 물어보자!",
+        "Story": "◆ 소개 ◆<br>신기한 저금통은 어디에? 괴테 호텔에 가서 레긴이 제작한 신기한 감지기에 물어보자!<br><br>◆ 이벤트 규칙 ◆<br>이벤트 오픈 후 개척자는 매일 「레긴」을 도와 감지기 실험을 진행해 저금통의 행방을 찾을 수 있습니다. 저금통의 단서는 총 7곳에 있습니다.<br><br>◆ 이벤트 보상 ◆<br>매일 찾기 임무를 완료하면 보상을 획득할 수 있습니다. 찾기 임무를 모두 마치면 추가 보상을 획득할 수 있습니다.",
         "Reward": [
             1,
             2,
@@ -678,9 +742,9 @@ var _event = [
     {
         "_id": 50002,
         "Icon": "BtnQuestMuseum.png",
-        "Name": "Everwinter City Museum<br>Ledger of Curiosities",
+        "Name": "겨울 성 박물관 진귀품 목록",
         "Desc": "",
-        "Story": "◆ Summary ◆<br>The Belobog History and Culture Museum has been fully renovated, and the Trailblazer will serve as the acting curator to lead the management and development of the museum, aiming to restore its popularity.<br><br>◆ Museum Management ◆<br>● Once this gameplay is unlocked, the \"Opportunity Makes the Thief\" Adventure Mission series will become available. Completing \"Opportunity Makes the Thief Part 1\" will allow Trailblazers to start managing the museum.<br>● There are five phases of museum management, and RevitaScore can be obtained through management. After achieving the cumulative objectives of each phase, Trailblazers can upgrade to the next phase and unlock new exhibition areas.<br>● During the day of operation, RevitaScore can be obtained by spending development fund to upgrade exhibition areas or by hiring assistants.<br><br>◆ Collection of Exhibits and Assistants ◆<br>● During museum management, Trailblazers will receive additional operational objectives or encounter random events. These objectives and events will provide clues to lost exhibits, which can be stored in the museum's collection.<br>● Guest assistants can be recruited by completing the \"Opportunity Makes the Thief\" Adventure Mission series or the guide recruitment mission series in random events.<br><br>◆ Event Rewards ◆<br>● Completion of each management phase will result in a management phase reward.<br>● Trailblazers can receive collection rewards in the Ledger of Curiosities after collecting new exhibits or after guest assistants are recruited.<br>● During the limited-time event, Trailblazers can receive rewards in the Limited-Time Rewards section by achieving operational and collection objectives.<br><br>◆ Event Reminder ◆<br>After the Everwinter City Museum Ledger of Curiosities limited-time event ends, Trailblazers will no longer be able to receive limited-time rewards from the event. However, it'll still be possible to visit the Belobog Administrative District's History and Culture Museum to experience the event.",
+        "Story": "◆ 소개 ◆<br>벨로보그 역사문화박물관 보수 작업이 완료되었습니다. 대리 관장으로서 운영과 발전을 주도해 박물관의 명성을 되찾아 보세요.<br><br>◆ 박물관 운영 ◆<br>● 콘텐츠가 개방되면 「견물생심」 시리즈 모험 임무가 오픈됩니다. 「견물생심•1」을 완료하면 즉시 박물관 운영을 시작할 수 있습니다.<br>● 박물관 운영은 총 5단계로, 운영을 통해 「진흥치」를 획득할 수 있습니다. 단계별 누적 목표 달성 후 즉시 단계가 상승하며 새로운 전시구역이 개방됩니다.<br>● 운영일이 오픈되면 발전 기금을 소모해 전시구역을 레벨업하거나 조수를 고용하는 방식으로 「진흥치」를 올릴 수 있습니다.<br><br>◆ 전시품과 조수 수집 ◆<br>● 박물관을 운영하는 과정 중에 개척자는 추가 운영 목표를 획득하거나 돌발 이벤트와 마주치게 됩니다. 운영 목표 및 사건은 분실된 전시품의 단서를 제공합니다. 완료하면 전시품을 박물관 소장으로 보관할 수 있습니다.<br>● 특별 초빙한 조수는 「견물생심」 시리즈 모험 임무를 완료하거나 돌발 이벤트의 안내원 모집 시리즈 임무를 통해 획득할 수 있습니다.<br><br>◆ 이벤트 보상 ◆<br>● 각 운영 단계 완료 시 운영 단계 보상을 획득합니다.<br>● 새로운 전시품을 수집하거나 특별 초빙 조수를 영입한 후 「진귀품 목록」에서 수집 보상을 수령할 수 있습니다.<br>● 한정 이벤트 기간 중에 운영과 수집 목표를 달성하면 「한정 보상」에서 보상을 수령할 수 있습니다.<br><br>◆ 이벤트 알림 ◆<br>「겨울 성 박물관 진귀품 목록」 한정 이벤트 종료 후 한정 이벤트 보상을 획득할 수 없지만, 벨로보그 행정구역 「역사문화박물관」에 가서 체험을 즐길 수 있습니다.",
         "Reward": [
             1,
             236,
@@ -695,7 +759,7 @@ var _event = [
     {
         "_id": 50001,
         "Icon": "BtnQuestGraffiti.png",
-        "Name": "Starhunt Game",
+        "Name": "별사냥 게임",
         "Desc": "",
         "Story": "",
         "Reward": [
@@ -712,9 +776,9 @@ var _event = [
     {
         "_id": 50000,
         "Icon": "BtnFistClubQuestMission.png",
-        "Name": "Boulder Town Super League",
+        "Name": "볼더 타운 슈퍼리그",
         "Desc": "",
-        "Story": "◆ Introduction ◆<br>Boulder Town Super League has kicked off in the Fight Club — Get in touch with Dr. Dig for more details.<br><br>◆ Event Rules ◆<br>The Trailblazer can participate in different tournaments to obtain the corresponding rewards in the Boulder Town Super League.<br>After selecting a tournament, the Trailblazer will fight randomly selected opponents and gain different buffs after defeating them.<br>After random selection begins, your team lineup will be locked, and characters in the team cannot be swapped.<br>At the start of every battle, all characters' HP and Energy will be reset.<br>When the Trailblazer increases their Equilibrium Level, enemy strength in the event will increase with it.<br><br>◆ Event Rewards ◆<br>Complete the Time-Limited Challenge during the event to obtain extra rewards. <br><br>◆ Event Note ◆<br>After the Boulder Town Super League limited-time event ends, Trailblazers can no longer claim the limited-time event rewards. But it will still be possible to go to the Fight Club and take part in tournaments.",
+        "Story": "◆ 소개 ◆<br>「볼더 타운 슈퍼리그」가 격투 클럽에서 정식으로 개최되었습니다——자세한 내용은 Dr. 파고파고에게 물어보세요.<br><br>◆ 이벤트 규칙 ◆<br>「볼더 타운 슈퍼리그」에서 개척자는 각각의 시합 도전에 통과해 대응하는 시합 보상을 획득할 수 있습니다.<br>시합 참여를 선택하면 무작위 추첨 방식으로 상대의 라인업을 확인하고, 상대를 쓰러트린 후 여러 가지 버프를 획득할 수 있습니다.<br>추첨 시작 후 캐릭터 라인업이 고정되며, 개척자는 출전 캐릭터를 변경할 수 없습니다.<br>매 전투가 시작될 때마다 모든 캐릭터의 HP와 에너지가 초기화됩니다.<br>개척자가 「균형 레벨」을 올리면, 이벤트 중 적의 강도도 같이 증가합니다.<br><br>◆ 이벤트 보상 ◆<br>이벤트 기간에 「한정 도전」을 완료하면 한정 추가 보상까지 획득할 수 있습니다.<br><br>◆ 이벤트 알림 ◆<br>「볼더 타운 슈퍼리그」 한정 이벤트 종료 후, 한정 이벤트 보상을 획득할 수 없지만 「격투 클럽」으로 가서 도전을 진행할 수 있습니다.",
         "Reward": [
             1,
             241,
@@ -728,9 +792,9 @@ var _event = [
     {
         "_id": 40001,
         "Icon": "BtnQuestStarBattle.png",
-        "Name": "Stellar Flare",
+        "Name": "스타라이트 전쟁의 서막",
         "Desc": "",
-        "Story": "◆ Introduction ◆<br>A researcher from the space station found a combat simulation program of unknown origins called Stellar Flare. Running it can take the user into a simulated battleground, where you can practice warfare against different opponents.<br>There are special combat rules within the simulation. Familiarize yourself with them and build strategies for a smooth victory.<br><br>◆ Event Rules ◆<br>After the event starts, a new challenge stage will be unlocked each day, for a total of 8 stages.<br>Each stage has 3 difficulties: Dwarf Star, Giant Star, and Supergiant Star, with ascending enemy strength and different gameplay. The Trailblazer can challenge the Giant Star difficulty straight away, and the Supergiant Star difficulty will be unlocked after completing the Giant Star difficulty.<br>The levels of enemies and any trial characters will be determined by the Trailblazer's current Equilibrium Level upon initiating the event for the first time. These levels will not be changed if your Equilibrium Level increases during the event.<br><br>◆ Event Rewards ◆<br>Complete a stage to claim its prize from the event screen. Completing higher difficulties will automatically grant rewards for the lower difficulties.<br>The Trailblazer can obtain Challenge Rewards after eliminating enemies in the third wave and sixth wave respectively in the Supergiant Star difficulty.",
+        "Story": "◆ 소개 ◆<br>우주정거장의 어느 연구원이 어디선가 「스타라이트 전쟁의 서막」이라는 작전 시뮬레이션 프로그램을 찾아냈습니다. 이 프로그램은 사용자를 가상 전투로 이끌어 다른 상대와 전투 연습을 할 수 있게 해줍니다.<br>시뮬레이션 프로그램의 전투에는 특별한 규칙이 부여됩니다. 규칙을 숙지하고 전략을 세워 적을 시원하게 무찌르세요.<br><br>◆ 이벤트 규칙 ◆<br>이벤트가 오픈되면 매일 새로운 도전 스테이지가 오픈되며, 스테이지는 총 8개 입니다.<br>모든 도전 스테이지는 「왜성」, 「거성」, 「초거성」 3가지 난이도가 있습니다. 난이도에 따라 적의 강도와 게임 모드가 달라집니다. 개척자는 바로 「거성」 난이도에 도전할 수 있으며, 「거성」 난이도 완료 후 「초거성」 난이도에 도전할 수 있습니다.<br>이벤트에 최초 진입 시 개척자의 「균형 레벨」이 이벤트의 적과 체험 캐릭터 레벨을 결정합니다. 개척자가 이벤트 기간에 「균형 레벨」을 올려도 적과 체험 캐릭터 레벨은 바뀌지 않습니다.<br><br>◆ 이벤트 보상 ◆<br>스테이지 도전에 성공하면 이벤트 화면에서 보상을 수령할 수 있습니다. 고난이도 도전을 달성하면 저난이도 도전 보상을 바로 수령할 수 있습니다.<br>개척자는 「초거성」 난이도 도전 시 3차 웨이브와 6차 웨이브의 적을 처치한 후 각각의 도전 보상을 수령할 수 있습니다.",
         "Reward": [
             1,
             241,
@@ -745,9 +809,9 @@ var _event = [
     {
         "_id": 30002,
         "Icon": "BtnAntiVirus.png",
-        "Name": "Cosmic Warfare",
-        "Desc": "Someone left a mysterious gift at the Herta Space Station, and the person who opened it is now in trouble...",
-        "Story": "◆ Introduction ◆<br>Scout out targets, attack them, and try to defeat them. Trailblazers can scout 3 times a day, refreshed daily at 4:00 AM server time.<br>Trailblazers will be awarded Stars of Honor based on their performance during attacks. More Stars of Honor gained means more rewards can be claimed.<br><br>◆ Participation Requirements ◆<br>Trailblaze Level must be 22 or higher.<br><br>◆ Attacks & United Attacks ◆<br>At least one Pixel Warhead is consumed to launch one attack. Consumed Pixel Warheads will be refreshed daily.<br>Trailblazers can also launch United Attacks by sharing targets they scouted with Friends and other Trailblazers to obtain assistance.<br>Assisting other players will grant extra Stars of Honor.<br><br>◆ Battle ◆<br>After launching an attack, Trailblazers will fight 7 Cycles with the target, and the battle will automatically finish at the end of Cycle 7.<br>Damage dealt to the target per battle are accumulated until the target is completely defeated.<br>Trailblazers can choose to consume 3 Pixel Warheads to increase the damage towards the target in one battle.<br><br>◆ Stars of Honor ◆<br>Scout out targets, participate in attacks, and defeat targets before they escape to gain Stars of Honor. The Trailblazer who discovered the target will receive extra Stars of Honor.<br>The more damage one deals to the target and the more dangerous the target is, the more Stars of Honor will be granted.<br>Completing daily Cosmic Warfare missions also grants Stars of Honor.<br>Claim battle rewards once sufficient Stars of Honor have been obtained.<br><br>◆ Combat History ◆<br>Trailblazers can review Combat History for each attack to re-live the process taken to defeat the enemy.<br>For United Attacks, the battle process for other Trailblazers can also be reviewed.",
+        "Name": "우주 대전쟁",
+        "Desc": "누군가가 우주정거장 「헤르타」에 신비로운 선물을 남겼다. 최초로 그 선물을 열어본 사람은 지금 곤경에 처해있다……",
+        "Story": "◆ 소개 ◆<br>정찰로 적을 발견해 공격하고 적을 격퇴시킬 수 있습니다. 개척자는 매일 정찰을 3회 진행할 수 있으며, 정찰 횟수는 4:00에 갱신됩니다.<br>활약에 따라 개척자는 명예의 별을 받습니다. 획득한 명예의 별이 많을수록 많은 보상을 획득할 수 있습니다.<br><br>◆ 참여 조건 ◆<br>개척자의 개척 레벨≥Lv.22.<br><br>◆ 공격&연합공격 ◆<br>공격에는 최소 1개의 픽셀 탄두가 소모됩니다. 소모된 탄두는 익일 회복됩니다.<br>연합공격도 가능하며, 정찰한 적을 친구나 다른 개척자들과 공유해 협조를 받을 수 있습니다.<br>다른 플레이어에게 협조하면 명예의 별을 추가로 획득할 수 있습니다.<br><br>◆ 작전 ◆<br>공격 시작 후, 개척자는 총 7개 라운드 전투를 펼치게 됩니다. 라운드가 소진되면 전투는 자동으로 종료됩니다.<br>매회 전투마다 목표에게 가하는 피해량은 목표가 격퇴되기까지 누적됩니다.<br><br>◆ 명예의 별 ◆<br>적을 정찰해 전투에 참여하고 적이 도망치기 전에 처치하면 명예의 별을 획득할 수 있습니다. 적을 발견한 플레이어는 명예의 별을 추가로 획득할 수 있습니다.<br>전투에서 가하는 피해가 높을수록 적의 위험 레벨이 증가하며 최종 획득하는 명예의 별도 많습니다.<br>또한 매일 우주 대전쟁•임무 완료를 통해서도 명예의 별을 획득할 수 있습니다.<br>명예의 별을 충분히 획득한 후에는 전투 보상을 받을 수 있습니다.<br><br>◆ 전투 기록 ◆<br>매일 공격한 전투 기록을 보고 적을 처치한 과정을 돌이켜 볼 수 있습니다.<br>연합공격의 경우 다른 개척자의 전투 과정을 볼 수 있습니다.",
         "Reward": [
             1,
             241,
@@ -761,36 +825,54 @@ var _event = [
     {
         "_id": 20002,
         "Icon": "BtnQuestRoleTrial2.png",
-        "Name": "Aptitude Showcase",
+        "Name": "솜씨 발휘",
         "Desc": "",
-        "Story": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event.",
+        "Story": "◆ 이벤트 규칙 ◆<br>캐릭터 체험 이벤트 「솜씨 발휘」 오픈 기간 동안 체험 캐릭터가 포함된 고정 파티를 사용해서 제한 횟수 없이 지정된 스테이지를 플레이할 수 있습니다.<br>이벤트 스테이지에서는 파티 편성 및 캐릭터 레벨, 캐릭터가 장착한 광추 및 유물을 변경할 수 없습니다.<br><br>◆ 이벤트 보상 ◆<br>스테이지 도전에 성공하면 이벤트 화면에서 체험 스테이지 보상을 수령할 수 있습니다. 이벤트 기간 동안 각 체험 스테이지 보상은 한 번만 수령할 수 있습니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 20001,
         "Icon": "BtnQuestRoleTrial.png",
-        "Name": "Aptitude Showcase",
+        "Name": "솜씨 발휘",
         "Desc": "",
-        "Story": "When logging into the game during the event period, Trailblazers can obtain rewards from the Travel Log: Star Rail Special Pass ×10",
+        "Story": "이벤트 기간에 로그인 시 「여정 기록」에서 별의 궤도 전용티켓*10개를 획득하실 수 있습니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
+        "_id": 10056,
+        "Icon": "BtnSevenDayVersion0220.png",
+        "Name": "별의 선물",
+        "Desc": "",
+        "Story": "◆ 이벤트 규칙 ◆<br>매일 게임에 접속하면 「여정 기록」에서 일일 보상을 수령할 수 있습니다.<br><br>◆ 이벤트 보상 ◆<br>보상은 누적 로그인 일수에 따라 개방되고, 일일 보상은 04:00(서버 시간)에 갱신됩니다.",
+        "Reward": [],
+        "Ver": "2.2"
+    },
+    {
+        "_id": 10047,
+        "Icon": "BtnSevenDayVersion0200.png",
+        "Name": "별의 선물",
+        "Desc": "",
+        "Story": "◆ 이벤트 규칙 ◆<br>매일 게임에 접속하면 「여정 기록」에서 일일 보상을 수령할 수 있습니다.<br><br>◆ 이벤트 보상 ◆<br>보상은 누적 로그인 일수에 따라 개방되고, 일일 보상은 04:00(서버 시간)에 갱신됩니다.",
+        "Reward": [],
+        "Ver": "2.0"
+    },
+    {
         "_id": 10043,
         "Icon": "BtnQuestRetrunRecall.png",
-        "Name": "Come With Me, Take the Journey",
-        "Desc": "Dear Trailblazer, your companions aboard the Express are waiting for you to take the journey by their side and re-embark on your cosmic adventure! Earn up to 480 Stellar Jades!",
-        "Story": "◆ Event Details ◆<br>● During the event, Trailblazers can obtain rewards such as Stellar Jades by inviting returning Trailblazers.<br>● Active Trailblazers can share their unique invitation codes with other eligible Trailblazers to encourage their return. By doing so, Trailblazers can earn Stellar Jade and event draw chances.<br>● After logging back into the game, returning Trailblazers can also share their invitation codes to invite other eligible Trailblazers to rejoin the game and participate in the web event.<br>※ There may be a brief delay in updating the status of returning Trailblazers. If so, please wait for 2 minutes and refresh the webpage to check your status again.<br><br>◆ Returning Trailblazer ◆<br>Trailblazers who are eligible for the Starlit Homecoming event are considered returning Trailblazers, and the eligibility requirements are as follows:<br>● Be at Trailblaze Level 10 or higher.<br>Complete the Trailblaze Mission \"Jarilo-VI — Long Wait for the Blade's Edge\"<br>● Has not logged into the game for at least 14 days in a row<br>● The last participation in the Starlit Homecoming was at least 40 days ago.<br>※ A returning Trailblazer's status shall last for the duration of the Starlit Homecoming event.",
+        "Name": "뭇별로 되돌아가는 여정",
+        "Desc": "안녕하세요, 개척자님. 열차의 동료들이 당신을 기다리고 있어요. 함께 여정을 떠나 다시 한번 은하 대모험을 떠나보세요! 최대 성옥*480을 획득할 수 있습니다!",
+        "Story": "◆ 이벤트 소개 ◆<br>● 이벤트 기간에 복귀 개척자를 초대하면 성옥 등 보상을 획득할 수 있습니다.<br>● 활동 중인 개척자는 개인 전용 초대 코드를 공유해 조건을 만족하는 다른 개척자를 초대하고 복귀시킴으로써 성옥 보상과 추첨 기회를 획득할 수 있습니다.<br>● 복귀 개척자는 게임에 로그인한 후 개인 전용 초대 코드를 공유해 조건을 만족하는 다른 개척자를 초대하고 복귀시킴으로써 웹 이벤트에 참여할 수 있습니다.<br>※ 복귀 개척자의 상태 갱신에는 약간의 딜레이가 있으니 2분 후 웹 페이지를 새로고침해주세요.<br><br>◆ 복귀 개척자 ◆<br>이벤트 「별이 돌아오는 길」에 참여할 수 있는 개척자는 「복귀 개척자」로 간주합니다. 「별이 돌아오는 길」 참여 조건은 다음과 같습니다.<br>● 개척 레벨≥Lv.10<br>● 개척 임무 「야릴로-VI」-「오래 기다려온 칼끝」 완료<br>● 게임 미접속 일수≥14일<br>● 지난번 「별이 돌아오는 길」 이벤트 참여로부터 40일 이상 경과<br>※ 복귀 개척자의 상태 지속 시간은 게임 내 「별이 돌아오는 길」 이벤트의 오픈 시간과 일치합니다.",
         "Reward": [],
         "Ver": "2.0"
     },
     {
         "_id": 10042,
         "Icon": "BtnAbyssAlternation.png",
-        "Name": "Feast of Deceits",
+        "Name": "속임수의 연회",
         "Desc": "",
-        "Story": "◆ Rules ◆<br>● After completing the mission \"Youci's Clever Decor,\" Pure Fiction stages will be unlocked.<br>● Pure Fiction stages and rewards are refreshed regularly. <br><br>◆ Refresh Rules ◆<br>● Pure Fiction and Memory of Chaos are updated alternatively every two weeks, with updates occurring at 04:00 on Mondays (server time).<br>● Each period of Pure Fiction will be open for 6 weeks.",
+        "Story": "◆ 콘텐츠 규칙 ◆<br>● 임무 「유사의 근거 없는 이야기」 완료 후 「허구 이야기」가 개방됩니다.<br>● 「허구 이야기」는 주기적으로 스테이지 내용과 보상이 갱신됩니다.<br><br>◆ 업데이트 규칙 ◆<br>● 「허구 이야기」와 「혼돈의 기억」은 2주마다 번갈아 가며 업데이트되며, 업데이트 시간은 해당 주 월요일 04:00(서버 시간)입니다.<br>● 매 회차 「허구 이야기」는 6주 동안 개방합니다.",
         "Reward": [
             1,
             262,
@@ -805,90 +887,90 @@ var _event = [
     {
         "_id": 10041,
         "Icon": "BtnChallengeStoryReward_1110.png",
-        "Name": "Camping in the Snow",
-        "Desc": "Complete the mission \"Youci's Clever Decor\" and clear Pure Fiction stage 2 during any phase to unlock the character Lynx",
-        "Story": "◆ Event Rules ◆<br>Clear specific stages to obtain event rewards.<br><br>◆ Event Requirement ◆<br>Unlocked after reaching Equilibrium Level 3 and completing the mission \"Youci's Clever Decor.\"<br><br>◆ Event Rewards ◆<br>Clear stage 2 for any phase of Pure Fiction to obtain the 4-star character Lynx (Abundance: Quantum).",
+        "Name": "설원 캠핑",
+        "Desc": "임무 「유사의 근거 없는 이야기」를 완료하고 임의 회차의 「허구 이야기」 두 번째 스테이지를 클리어하면 캐릭터 「링스」를 획득할 수 있습니다",
+        "Story": "◆ 이벤트 규칙 ◆<br>지정 스테이지를 클리어하면 이벤트 보상을 획득할 수 있습니다.<br><br>◆ 참여 조건 ◆<br>균형 레벨≥Lv.3 달성 후 임무 「유사의 근거 없는 이야기」를 완료하면 개방됩니다.<br><br>◆ 이벤트 보상 ◆<br>임의 회차의 「허구 이야기」 두 번째 스테이지를 클리어하면 ★4 캐릭터 「링스(풍요•양자)」를 획득할 수 있습니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 10040,
         "Icon": "BtnSevenDayVersion0160.png",
-        "Name": "Gift of Odyssey",
+        "Name": "별의 선물",
         "Desc": "",
-        "Story": "◆ Event Rules ◆<br>Trailblazers can receive daily rewards in the Travel Log after logging in to the game each day.<br><br>◆ Event Rewards ◆<br>The rewards will be unlocked in sequential order according to the Trailblazer's accrued login days. Daily rewards will be refreshed at 04:00 AM (server time) every day.",
+        "Story": "◆ 이벤트 규칙 ◆<br>매일 게임에 로그인하면 「여정 기록」에서 일일 보상을 수령할 수 있습니다.<br><br>◆ 이벤트 보상 ◆<br>보상은 누적 로그인 일수에 따라 개방되고, 일일 보상은 04:00 (서버 시간)에 갱신됩니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 10039,
         "Icon": "BtnSevenDayVersion0131.png",
-        "Name": "Gift of Radiance",
+        "Name": "빛의 선물",
         "Desc": "",
-        "Story": "◆ Event Rules ◆<br>Trailblazers can receive daily rewards in the Travel Log after logging in to the game each day.<br><br>◆ Event Rewards ◆<br>The rewards will be unlocked in sequential order according to the Trailblazer's accrued login days. Daily rewards will be refreshed at 04:00 AM (server time) every day.",
+        "Story": "◆ 이벤트 규칙 ◆<br>매일 게임에 접속하면 「여정 기록」에서 일일 보상을 수령할 수 있습니다.<br><br>◆ 이벤트 보상 ◆<br>보상은 누적 로그인 일수에 따라 개방되고, 일일 보상은 04:00(서버 시간)에 갱신됩니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 10035,
         "Icon": "BtnSevenDayVersion0150.png",
-        "Name": "Gift of Odyssey",
+        "Name": "별의 선물",
         "Desc": "",
-        "Story": "◆ Event Rules ◆<br>Trailblazers can receive daily rewards in the Travel Log after logging in to the game each day.<br><br>◆ Event Rewards ◆<br>The rewards will be unlocked in sequential order according to the Trailblazer's accrued login days. Daily rewards will be refreshed at 04:00 AM (server time) every day.",
+        "Story": "◆ 이벤트 규칙 ◆<br>매일 게임에 접속하면 「여정 기록」에서 일일 보상을 수령할 수 있습니다.<br><br>◆ 이벤트 보상 ◆<br>보상은 누적 로그인 일수에 따라 개방되고, 일일 보상은 04:00 (서버 시간)에 갱신됩니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 10032,
         "Icon": "BtnSevenDayVersion0140.png",
-        "Name": "Gift of Odyssey",
+        "Name": "별의 선물",
         "Desc": "",
-        "Story": "◆ Event Rules ◆<br>Trailblazers can receive daily rewards in the Travel Log after logging in to the game each day.<br><br>◆ Event Rewards ◆<br>The rewards will be unlocked in sequential order according to the Trailblazer's accrued login days. Daily rewards will be refreshed at 04:00 AM (server time) every day.",
+        "Story": "◆ 이벤트 규칙 ◆<br>매일 게임에 로그인해 「여정 기록」에서 일일 보상을 수령할 수 있습니다.<br><br>◆ 이벤트 보상 ◆<br>보상은 개척자의 누적 로그인 일수에 따라 개방되고, 일일 보상은 04:00 (서버 시간)에 갱신됩니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 10028,
         "Icon": "BtnSevenDayVersion0130.png",
-        "Name": "Gift of Odyssey",
+        "Name": "별의 선물",
         "Desc": "",
-        "Story": "◆ Event Rules ◆<br>Trailblazers can receive daily rewards in the Travel Log after logging in to the game each day.<br><br>◆ Event Rewards ◆<br>The rewards will be unlocked in sequential order according to the Trailblazer's accrued login days. Daily rewards will be refreshed at 04:00 AM (server time) every day.",
+        "Story": "◆ 이벤트 규칙 ◆<br>매일 게임에 접속하면 「여정 기록」에서 일일 보상을 수령할 수 있습니다.<br><br>◆ 이벤트 보상 ◆<br>보상은 누적 로그인 일수에 따라 개방되고, 일일 보상은 04:00 (서버 시간)에 갱신됩니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 10025,
         "Icon": "BtnAbyssReward_1207.png",
-        "Name": "To Retire Upon the Perch",
-        "Desc": "Complete Trailblaze Mission \"A Dragon Gallant, Its Ocean Distant\" and clear Forgotten Hall: Memory of Xianzhou Stage 1 to obtain the character Yukong",
-        "Story": "◆ Event Rules ◆<br>Clear specific stages to obtain event rewards.<br><br>◆ Participation Requirement ◆<br>Complete the Trailblaze Mission in \"Xianzhou Luofu - A Dragon Gallant, Its Ocean Distant\" to unlock new memories in the Forgotten Hall, \"The Voyage of Navis Astriger.\"<br><br>◆ Event Rewards ◆<br>Clear \"Forgotten Hall: Memory of Xianzhou Stage 1\" to obtain the 4-star character Yukong (Harmony: Imaginary).",
+        "Name": "깃을 거둔 휴식",
+        "Desc": "개척 임무 「고고한 용, 아득한 못」을 완료하고 「망각의 정원•선주 기억•1」을 클리어하면 캐릭터 「어공」을 획득할 수 있습니다",
+        "Story": "◆ 이벤트 규칙 ◆<br>지정 스테이지를 클리어하면 이벤트 보상을 획득할 수 있습니다.<br><br>◆ 참여 조건◆<br>개척 임무 「선주 『나부』」-「고고한 용, 아득한 못」 완료 후, 「망각의 정원」에서 새로운 기억 「불사의 약 원정기」가 오픈됩니다.<br><br>◆ 이벤트 보상 ◆<br>「망각의 정원•선주 기억•1」 클리어 후 ★4 캐릭터 「어공(화합•허수)」을 획득합니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 10024,
         "Icon": "BtnFarmMultipleDrop2Set.png",
-        "Name": "Planar Fissure",
-        "Desc": "During the event, successfully challenge Simulated Universe to earn double Planar Ornaments rewards.",
-        "Story": "◆ Event Rules ◆<br>During the event, Trailblazers can receive double Planar Ornament rewards via the immersion device by challenging Simulated Universe.<br>The number of daily double reward opportunities is limited and can be viewed on the Planar Fissure event page.<br>Double reward count resets daily at 04:00 (server time). Be sure to use these up in a timely manner, Trailblazers.<br>◆ Event Rewards ◆<br>By challenging Simulated Universe and obtaining Planar Ornaments, Trailblazers will automatically consume an event opportunity to receive double rewards.",
+        "Name": "차원 분열",
+        "Desc": "이벤트 기간에 「시뮬레이션 우주」 도전에 성공하면 차원 장신구 2배 보상을 획득할 수 있습니다",
+        "Story": "◆ 이벤트 규칙 ◆<br>이벤트 기간 동안 「시뮬레이션 우주」에 도전해 클리어하면 몰입 장치에서 2배의 차원 장신구 보상을 획득할 수 있습니다.<br>매일 받을 수 있는 2배 보상 횟수는 제한되어 있습니다. 남은 횟수와 최대 횟수는 「차원 분열」 이벤트 화면에서 확인할 수 있습니다.<br>2배 보상 횟수는 매일 04:00(서버 시간)에 리셋되니 잊지 말고 도전해주시길 바랍니다.<br>◆ 이벤트 보상 ◆<br>「시뮬레이션 우주」에 도전해 클리어하여 차원 장신구를 획득하면 자동으로 이벤트 횟수를 소모하여 2배 보상을 획득합니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 10023,
         "Icon": "BtnSevenDayRewardPanelVersion0120.png",
-        "Name": "Gift of Odyssey",
+        "Name": "별의 선물",
         "Desc": "",
-        "Story": "◆ Event Rules ◆<br>Trailblazers can receive daily rewards in the Travel Log after logging in to the game each day.<br><br>◆ Event Rewards ◆<br>The rewards will be unlocked in sequential order according to the Trailblazer's accrued login days. Daily rewards will be refreshed at 04:00 AM (server time) every day.",
+        "Story": "◆ 이벤트 규칙 ◆<br>매일 게임에 접속하면 「여정 기록」에서 일일 보상을 수령할 수 있습니다.<br><br>◆ 이벤트 보상 ◆<br>보상은 누적 로그인 일수에 따라 개방되고, 일일 보상은 04:00(서버 시간)에 갱신됩니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 10022,
         "Icon": "BtnAbyssAlternation.png",
-        "Name": "Chaos Resurgence",
+        "Name": "혼돈의 재현",
         "Desc": "",
-        "Story": "◆ Rules ◆<br>● After completing The Last Vestiges of Towering Citadel: Memory Stage 15, Memory of Chaos stages will be unlocked.<br>● Memory of Chaos stages and rewards are refreshed regularly. <br><br>◆ Refresh Rules ◆<br>● Memory of Chaos and Pure Fiction are updated alternatively every two weeks, with updates occurring at 04:00 on Mondays (server time).<br>● Each period of Memory of Chaos will be open for 6 weeks.",
+        "Story": "◆ 콘텐츠 규칙 ◆<br>● 영원의 도시에 남겨진 비밀•「기억•15」 완료 후 「혼돈의 기억」이 개방됩니다.<br>● 「혼돈의 기억」은 주기적으로 스테이지 내용과 보상이 갱신됩니다.<br><br>◆업데이트 규칙◆<br>● 「혼돈의 기억」과 「허구 이야기」는 2주마다 번갈아 가며 업데이트되며, 업데이트 시간은 해당 주 월요일 04:00(서버 시간)입니다.<br>● 매 회차 「혼돈의 기억」은 6주 동안 개방합니다.",
         "Reward": [
             1,
             262,
@@ -903,81 +985,81 @@ var _event = [
     {
         "_id": 10021,
         "Icon": "BtnFarmMultipleDrop.png",
-        "Name": "Realm of the Strange",
-        "Desc": "During the event, successfully challenge Caverns of Corrosion to earn double rewards.",
-        "Story": "◆ Event Rules ◆<br>During the event, Trailblazers can receive double rewards by challenging and completing Caverns of Corrosion.<br>You will get an additional reward on top of default drops after consuming an event double reward opportunity and Trailblaze Power.<br>The number of daily double reward opportunities is limited. The limits and attempts used so far can be viewed on the Realm of the Strange event page.<br>Double reward count resets daily at 04:00 (server time). Be sure to challenge them in a timely manner, Trailblazers.<br><br>◆ Event Rewards ◆<br>By completing Caverns of Corrosion and obtaining rewards, Trailblazers will automatically consume one remaining chance to receive the double rewards.",
+        "Name": "기묘한 영역",
+        "Desc": "이벤트 기간에 「침식된 터널」 도전 성공 시 2배 보상을 획득할 수 있습니다",
+        "Story": "◆ 이벤트 규칙 ◆<br>이벤트 기간 동안 「침식된 터널」을 클리어하면 2배 보상을 획득할 수 있습니다.<br>이벤트 2배 보상 횟수와 개척력을 소모하면 기존 보상 외에 추가로 보상을 1회 획득합니다.<br>일일 2배 보상 횟수는 제한되어 있으며, 남은 횟수와 최대 횟수는 「기묘한 영역」 이벤트 화면을 기준으로 합니다.<br>2배 보상 횟수는 매일 04:00 (서버 시간)에 갱신되니 잊지 말고 도전해주시길 바랍니다.<br><br>◆ 이벤트 보상 ◆<br>「침식된 터널」을 클리어해 보상을 획득하면 이벤트 횟수를 자동으로 소모해 2배 보상을 획득합니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 10020,
         "Icon": "BtnDoubleCocoon.png",
-        "Name": "Garden of Plenty",
-        "Desc": "During the event, challenge Calyx (Golden) and Calyx (Crimson) successfully to receive double rewards.",
-        "Story": "◆ Event Rules ◆<br>During the event period, players can receive double rewards by challenging and completing Calyx (Golden) and Calyx (Crimson).<br>You will get an additional reward on top of default drops after consuming an event double reward opportunity and Trailblaze Power.<br>The number of daily double reward opportunities is limited. The limits and attempts used so far can be viewed on the Garden of Plenty event page.<br>Double reward count resets daily at 04:00 (server time). Please be sure to challenge them in a timely manner. <br>If the double reward from both the Starlit Homecoming and Garden of Plenty events are active simultaneously, the Garden of Plenty event count will be prioritized for consumption when claiming rewards that fit the conditions for both events.<br><br>◆ Event Rewards ◆<br>By completing Calyx (Golden) and Calyx (Crimson) and obtaining EXP Materials, credits, and Trace Materials, players will automatically consume an attempt to receive double rewards.",
+        "Name": "꽃 피는 정원",
+        "Desc": "이벤트 기간에 「모조 꽃받침(금)」, 「모조 꽃받침(적)」 도전 성공 시 2배 보상을 획득할 수 있습니다",
+        "Story": "◆ 이벤트 규칙 ◆<br>이벤트 기간 동안 「모조 꽃받침(금)」, 「모조 꽃받침(적)」을 클리어하면 2배 보상을 획득할 수 있습니다.<br>이벤트 2배 보상 횟수와 개척력을 소모하면 기존 보상 외에 추가로 보상을 1회 획득합니다.<br>일일 2배 보상 횟수는 제한되어 있으며, 남은 횟수와 최대 횟수는 「꽃 피는 정원」 이벤트 화면을 기준으로 합니다.<br>2배 보상 횟수는 매일 04:00 (서버 시간)에 갱신되니 잊지 말고 도전해주시길 바랍니다.<br>「별이 돌아오는 길」과 「꽃 피는 정원」 이벤트의 2배 보상이 동시에 유효한 경우, 조건에 맞는 적합한 배수의 보상을 획득할 수 있으며 「꽃 피는 정원」의 이벤트 횟수를 먼저 소모합니다.<br><br>◆ 이벤트 보상 ◆<br>「모조 꽃받침(금)」, 「모조 꽃받침(적)」을 클리어해 경험치 재료, 신용 포인트 및 행적 재료를 획득하면 이벤트 횟수를 자동으로 소모해 2배 보상을 획득합니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 10019,
         "Icon": "BtnQuesPlayerReturn.png",
-        "Name": "Starlit Homecoming",
+        "Name": "별이 돌아오는 길",
         "Desc": "",
-        "Story": "◆ Rules ◆<br>During the event, returning Trailblazers can receive \"A Gift for Returners\" for one time only. Participate in and complete the 7-Day Check-In and the Path of Return events to receive their corresponding rewards. Challenging and passing Calyxes during the event will also provide double material drops from Double Rewards.<br><br>◆ 7-Day Check-In Rewards ◆<br>During the event, log into the game every day to receive rewards. The rewards are renewed every day at 04:00 server time. Daily log-in rewards can only be received once per day. A maximum of 7 days of rewards are provided.<br><br>◆ Path of Return Rewards ◆<br>During the event, complete specific missions to receive mission rewards and \"The Returning Trails.\" Accumulate sufficient \"The Returning Trails\" to receive rewards at specific milestones. Extra rewards at each milestone can only be claimed once.<br>Path of Return has 4 phases. Each phase will become available at 04:00 server time the next day.<br><br>◆ Double Rewards Extra Drops ◆<br>During the return period, Trailblazers will receive double drops for the first 42 times they complete Calyx challenges, capped at 6 times per day. After the double drops Calyx challenges are expended, gain an additional reward atop the original rewards already earned.<br>Daily double drop cap refreshes every day at 04:00 server time. Please conduct these challenges on time.<br>※ Should Garden of Plenty occur at the same time as Starlit Homecoming, the daily double drop for Garden of Plenty will be consumed first when Trailblazers complete Calyx challenges.<br><br>◆ Return Survey ◆<br>Complete the survey to earn rewards. The rewards will be sent via mail. The survey can only be filled in once. If you have already submitted the survey, you cannot fill in or modify it again.",
+        "Story": "◆ 규칙 설명 ◆<br>이벤트 기간 동안 복귀한 개척자는 「복귀 선물」을 1회 수령할 수 있습니다. 「7일 출석체크」와 「복귀 여정」 이벤트를 완료하면 상응하는 보상을 획득할 수 있습니다. 이벤트 기간 동안 모조 꽃받침을 클리어하면 「2중 우대」로 인한 2배 보상을 누릴 수 있습니다.<br><br>◆ 「7일 출석체크」 누적 로그인 보상 ◆<br>이벤트 기간 동안 매일 로그인하면 보상을 수령할 수 있습니다. 보상은 매일 04:00 (서버 시간)에 갱신됩니다. 매일 로그인 보상은 일일 1회, 최대 7일 수령할 수 있습니다.<br><br>◆ 「복귀 여정」 복귀 임무 보상 ◆<br>이벤트 기간 동안 지정 임무를 완료하면 임무 보상과 귀환 궤적을 획득할 수 있습니다. 귀환 궤적이 지정 수량에 도달하면 상응하는 이정표의 보상을 수령할 수 있습니다. 각 이정표마다 추가 보상은 1회만 수령할 수 있습니다.<br>「복귀 여정」은 4단계로 나뉘며, 매 단계는 매일 04:00 (서버 시간)에 차례로 개방됩니다.<br><br>◆ 「2중 우대」 추가 2배 보상 ◆<br>복귀 기간 동안 꽃받침 2배 보상 획득 기회를 매일 6회, 총 42회 획득하게 됩니다. 꽃받침 2배 보상 횟수와 개척력을 소모한 후, 기존 보상 외에 보상을 1회 추가로 획득하게 됩니다.<br>2배 보상 횟수는 매일 04:00 (서버 시간)에 갱신되니 잊지 말고 도전해주시길 바랍니다.<br>※ 「별이 돌아오는 길」 이벤트 기간 동안 「꽃 피는 정원」 이벤트가 동시 개방되어 「모조 꽃받침」에 도전해 클리어하면 「꽃 피는 정원」 이벤트의 2배 보상 횟수가 우선 소모됩니다.<br><br>◆ 「복귀 설문조사」 ◆<br>설문조사를 작성하시면 보상을 획득할 수 있습니다. 보상은 우편으로 발송됩니다. 설문조사는 1회만 작성할 수 있고, 제출이 완료되면 다시 작성하거나 수정할 수 없습니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 10018,
         "Icon": "BtnSevenDayVervionDH.png",
-        "Name": "Gift of Odyssey",
+        "Name": "별의 선물",
         "Desc": "",
-        "Story": "◆ Event Rules ◆<br>Trailblazers can receive daily rewards in the Travel Log after logging in to the game each day.<br><br>◆ Event Rewards ◆<br>The rewards will be unlocked in sequential order according to the Trailblazer's accrued login days. Daily rewards will be refreshed at 04:00 AM (server time) every day.",
+        "Story": "◆ 이벤트 규칙 ◆<br>매일 게임에 접속하면 「여정 기록」에서 일일 보상을 수령할 수 있습니다.<br><br>◆ 이벤트 보상 ◆<br>보상은 누적 로그인 일수에 따라 개방되고, 일일 보상은 04:00(서버 시간)에 갱신됩니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 10017,
         "Icon": "BtnImgSingleTask.png",
-        "Name": "Turquoise's Reverie",
+        "Name": "연속의 꿈",
         "Desc": "",
-        "Story": "◆ Event Rules ◆<br>Clear specific stages to obtain event rewards.<br><br>◆ Event Requirement ◆<br>Unlocked after reaching Trailblaze Level 21 and completing the mission \"Fleeting Lights.\"<br><br>◆ Event Rewards ◆<br>Clear the Forgotten Hall Memory Stage 3 to obtain the 4-star character Qingque (Erudition: Quantum).",
+        "Story": "◆ 이벤트 규칙 ◆<br>지정 스테이지를 클리어하면 이벤트 보상을 획득할 수 있습니다.<br><br>◆ 참여 조건 ◆<br>개척 레벨≥Lv.21 달성 후 임무 「세월의 빛」을 완료하면 개방됩니다.<br><br>◆ 이벤트 보상 ◆<br>「망각의 정원•기억•3」을 클리어하면 ★4 캐릭터 「청작(지식•양자)」을 획득할 수 있습니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 10016,
         "Icon": "BtnQuestNewbieMission.png",
-        "Name": "Starkissed Synchrony",
+        "Name": "별마차의 여정",
         "Desc": "",
-        "Story": "◆ Event Rules ◆<br>Trailblazers can obtain rewards by completing certain missions during the event.<br><br>◆ Event Rewards ◆<br>Complete certain missions or fulfill certain conditions to obtain event rewards. The rewards will be distributed automatically. Trailblazers can also obtain Trailblaze Level Rewards from Pom-Pom after increasing their Trailblaze Level.",
+        "Story": "◆ 이벤트 규칙 ◆<br>이벤트 기간 동안 특정 임무를 완료해 보상을 획득할 수 있습니다.<br><br>◆ 이벤트 보상 ◆<br>특정 임무를 완료하거나 조건을 달성하면 이벤트 보상이 자동적으로 발송됩니다. 개척 레벨을 올려 「폼폼」에게서 개척 레벨 보상도 수령할 수 있습니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 10015,
         "Icon": "BtnQuestExploitMission.png",
-        "Name": "Trailblazing Will",
+        "Name": "우주 개척의 뜻",
         "Desc": "",
-        "Story": "◆Event Rules◆<br>Reach corresponding Trailblaze Levels during the event to claim rewards.<br><br>◆Event Rewards◆<br>Total available rewards: Star Rail Pass ×40 and Stellar Jade ×1600.",
+        "Story": "◆ 이벤트 규칙 ◆<br>이벤트 기간 동안 대응하는 개척 레벨을 달성하면 보상을 수령할 수 있습니다.<br><br>◆ 이벤트 보상 ◆<br>총 수령 가능한 보상: 별의 궤도 티켓*40, 성옥*1600.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 10014,
         "Icon": "BtnSevenDayReward2.png",
-        "Name": "A World Beyond",
+        "Name": "천외 유람",
         "Desc": "",
-        "Story": "◆ Event Rules ◆<br>Trailblazers can receive daily rewards in the Travel Log after logging in to the game each day.<br><br>◆ Event Rewards ◆<br>The rewards will be unlocked in sequential order according to the Trailblazer's accrued login days. Daily rewards will be refreshed at 04:00 AM (server time) every day.",
+        "Story": "◆ 이벤트 규칙 ◆<br>매일 게임에 접속하면 「여정 기록」에서 일일 보상을 수령할 수 있습니다.<br><br>◆ 이벤트 보상 ◆<br>보상은 누적 로그인 일수에 따라 개방되고, 일일 보상은 04:00(서버 시간)에 갱신됩니다.",
         "Reward": [],
         "Ver": "1.x"
     },
     {
         "_id": 10012,
         "Icon": "ButtonChallengeQuest.png",
-        "Name": "Fight Club",
+        "Name": "격투 클럽",
         "Desc": "",
-        "Story": "*Beta content. Not indicative of final quality<br><br><color=#f29e38ff>◆Event Details◆</color><br>Event Rewards: Tracks of Destiny and Stellar Jade<br><br><color=#f29e38ff>◆Event Rules◆</color><br>1. This event contains seven stages, with one new stage becoming available every day during the event. Each challenge stage will provide Trailblazers with several trial characters, which can be freely added to your team.<br>2. The ratings for each stage will be divided into several levels according to your scores.<br>3. Each challenge stage has multiple stage bonus conditions. In addition to completing the stages, Trailblazers should try to complete as many of these conditions as possible to gain more challenge points. Stages can be challenged multiple times during the event.<br>4. The challenge points of all stages represent your total score, and Trailblazers can claim rewards on the event page based on this score.",
+        "Story": "* 테스트 기간의 콘텐츠는 최종 퀄리티가 아닙니다.<br><br><color=#f29e38ff>◆ 이벤트 안내 ◆</color><br>  이벤트 보상: 「운명의 발자취」, 「성옥」<br><br><color=#f29e38ff>◆ 이벤트 규칙 ◆</color><br> 1. 본 이벤트는 총 7개 스테이지가 있으며 이벤트 기간 동안 순차적으로 오픈됩니다. 도전 스테이지마다 개척자에게 여러 명의 체험 캐릭터를 제공하며 자체적으로 파티를 편성할 수 있습니다.<br> 2. 스테이지마다 달성한 평점에 따라 평가가 여러 등급으로 구분됩니다.<br> 3. 도전 스테이지에는 저마다의 「스테이지 조건」이 있으며, 더 높은 스테이지 「도전 점수」를 획득하기 위해서는 스테이지 도전 완료 시 최대한 많은 「스테이지 조건」에 달성해야 합니다. 이벤트 기간 동안 동일한 스테이지를 중복 도전할 수 있습니다.<br> 4. 이벤트 기간에 모든 스테이지의 「도전 점수」를 합산하여 「도전 총점」이 집계되며 개척자는 「도전 총점」에 따라 이벤트 페이지에서 해당하는 이벤트 보상을 수령할 수 있습니다.",
         "Reward": [],
         "Ver": "1.x"
     }
@@ -987,9 +1069,9 @@ var _item = {
     "401024": {
         "_id": 401024,
         "Rarity": 2,
-        "Name": "Hundred-Layer Sundae (Zero Calories)",
-        "Desc": "Upon use, the Max HP of all allies increases by 10% plus 210 Max HP for the next battle.",
-        "Story": "It is unlikely that any food would affect one's weight or health in the Dreamscape. Nevertheless, this dessert's form is truly stunning, and the merchant has even specifically labeled \"zero calories\" behind the item.<br><br><i>\"Body anxiety can transcend time and space.\"</i>",
+        "Name": "백 층 선디(제로칼로리)",
+        "Desc": "사용 후 다음번 전투에서 모든 아군의 HP 최대치가 10% 증가하고, 추가로 HP 최대치가 210pt 증가한다",
+        "Story": "현실적으로 꿈세계의 모든 음식은 고객의 건강과 체중에 해가 되지는 않지만——이 디저트의 깜짝 놀랄만한 비주얼 때문에 판매자가 특별히 상품명 뒤에 「제로칼로리」라고 표시까지 해두었다.<br><br><i>「몸매 걱정은 시간과 공간을 초월해」</i>",
         "Icon": "401024.png",
         "Pic": "401024.png",
         "Src": [
@@ -1001,9 +1083,9 @@ var _item = {
     "1": {
         "_id": 1,
         "Rarity": 5,
-        "Name": "Stellar Jade",
+        "Name": "성옥",
         "Desc": "",
-        "Story": "A fleeting gleam arrowing across the night sky. Catch it before it's gone. Maybe it can be used to barter?<br><br><i>\"Some say that the lights are wishes of sentient beings. While insignificant and elusive, they did light up the pocket of sky around them, right?\"</i>",
+        "Story": "유성처럼 밤하늘을 가르는 빛나는 돌. 꺼지기 전에 잡아서 물건을 교환하자?<br><br><i>「그것은 지혜로운 생명의 바람이 흐르는 빛이 되었다고 한다. 시간의 홍수 속에서 순식간에 꺼지긴 했지만, 잠시 나마 어둠을 밝혀주었죠?」</i>",
         "Icon": "900001.png",
         "Pic": "900001.png",
         "Link": 1
@@ -1011,9 +1093,9 @@ var _item = {
     "2": {
         "_id": 2,
         "Rarity": 3,
-        "Name": "Credit",
-        "Desc": "This currency, used by the Interastral Peace Corporation to settle accounts with its customers, is now widely accepted as the hard currency for space travel.",
-        "Story": "<i>\"People run around fighting and trading for numbers in a terminal, but the truly precious cannot be bought.\"</i>",
+        "Name": "신용 포인트",
+        "Desc": "스타피스 컴퍼니가 고객과 결산을 위해 사용하던 화폐. 오늘날 우주여행에 널리 쓰이는 경화가 되었다",
+        "Story": "<i>「사람들이 그저 단말 장치에 표시된 숫자를 위해 분주히 뛰고, 싸우고, 거래한다. 하지만 정작 정말로 소중한 것은 컴퍼니의 숫자로 살 수 없다」</i>",
         "Icon": "2.png",
         "Pic": "2.png",
         "Src": [
@@ -1029,9 +1111,9 @@ var _item = {
     "401026": {
         "_id": 401026,
         "Rarity": 2,
-        "Name": "\"Sour Dreams\" Soft Candy",
-        "Desc": "Upon use, immediately heals a single ally by 24% of their Max HP plus 300 extra Max HP.",
-        "Story": "A highly affordable snack that holds the same status as fried rice in reality. It is enjoyed by both the poor and the wealthy for its intensely sour flavor.<br><br><i>\"Caution: Its excessive acidity may awake you from your dream.\"</i>",
+        "Name": "「새콤한 꿈」 소프트 캔디",
+        "Desc": "사용 후 즉시 지정된 단일 아군의 HP를 자신의 HP 최대치 24%만큼 회복하고, 추가로 HP를 300pt 회복한다",
+        "Story": "저렴하고 쉽게 구할 수 있는 간식. 현실의 볶음밥과 같은 위치에 있다——가난하고 배고픈 사람도, 부유하고 배부른 사람도 먹는다. 그 과한 신맛은 늘 사람을 참을 수 없게 만든다.<br><br><i>「주의: 신맛이 너무 강해 꿈에서 깰 수 있습니다」</i>",
         "Icon": "401026.png",
         "Pic": "401026.png",
         "Src": [
@@ -1043,9 +1125,9 @@ var _item = {
     "401025": {
         "_id": 401025,
         "Rarity": 2,
-        "Name": "Classic SoulGlad",
-        "Desc": "Upon use, increases all allies' ATK by 10% plus 120 ATK for the next battle.",
-        "Story": "When it comes to SoulGlad, the term \"classic\" represents the best. Despite attempts to modify the formula three times, the company was compelled to return to the original recipe due to complaints from dissatisfied customers.<br><br><i>\"Our double-blind tests show that over 70% of customers failed to discern the difference between the new formula and the original one.\"</i>",
+        "Name": "클래식 솔글래드",
+        "Desc": "사용 후 다음번 전투에서 모든 아군의 공격력이 10% 증가하고, 추가로 공격력이 120pt 증가한다",
+        "Story": "솔글래드에 있어 클래식은 최고를 의미한다. 솔글래드 제조사는 세 번이나 레시피 변경을 시도했으나, 분노한 고객 때문에 세 번 모두 원래대로 돌아왔다.<br><br><i>「블라인드 테스트에 의하면, 70% 이상의 고객이 새로운 레시피와 기존 레시피의 차이를 구분하지 못했다」</i>",
         "Icon": "401025.png",
         "Pic": "401025.png",
         "Src": [
@@ -1057,9 +1139,9 @@ var _item = {
     "401027": {
         "_id": 401027,
         "Rarity": 2,
-        "Name": "\"Dreamlight\" Mixed Sweets",
-        "Desc": "Upon use, all allies may consume or restore Energy or HP at the beginning of each turn for the next battle.",
-        "Story": "A specialty candy of Penacony, each piece concealing a unique filling. Some compare it to life, as you will never know its taste until you try it yourself.<br><br><i>\"This one is spicy!\"</i>",
+        "Name": "「다채로운 꿈」 모둠 캔디",
+        "Desc": "사용 후 다음번 전투에서 턴 시작 시 모든 아군이 일정 확률로 에너지를 소모하거나 회복하며, HP를 소모하거나 회복한다",
+        "Story": "페나코니 특산품 캔디. 알마다 독특한 필링이 들어 있다. 직접 맛보기 전까지는 절대로 어떤 맛인지 알 수 없기에 마치 삶과 같다고 하는 이들도 있다.<br><br><i>「이건 매운 거네!」</i>",
         "Icon": "401027.png",
         "Pic": "401027.png",
         "Src": [
@@ -1071,18 +1153,18 @@ var _item = {
     "406017": {
         "_id": 406017,
         "Rarity": 3,
-        "Name": "Recipe: All Good Potion",
-        "Desc": "A simple equation. When entered into the Omni-Synthesizer, it will unlock a new recipe.",
-        "Story": "A recipe that Wen Shiling created by accident. Small amounts of experimental data shows this can consistently produce All Good Potions. This recipe is yet to be used in large-scale production.<br><br><i>\"This recipe is only to be used by Shiling and her friends. If anyone else were to use it, I am not accountable for the product's effects!\"</i>",
+        "Name": "제조 레시피: 짱짱 포션",
+        "Desc": "간결한 등식. 합성기에 입력하면 새로운 제작 레시피를 개방할 수 있다",
+        "Story": "온세영이 우여곡절 끝에 얻은 제조 레시피. 많지 않은 실험 데이터가 상대적으로 안정적인 짱짱 포션 제조를 증명하고 있다. 현재 대량 생산용으로 사용되고 있지 않다.<br><br><i>「해당 레시피는 온세영 및 온세영의 친구만 사용할 수 있습니다. 본 규정을 어긴 사용자의 제조 결과물 효과에 대해서 온세영은 일체 책임지지 않습니다!」</i>",
         "Icon": "406017.png",
         "Pic": "406017.png"
     },
     "262": {
         "_id": 262,
         "Rarity": 5,
-        "Name": "Jade Feather",
-        "Desc": "Used to exchange for rewards at the Jokes Come True shop.",
-        "Story": "In 2104 AE, Fomenko — a Candelagraphos scribe — obtained a mute parrot. She took great care of it, but it still only lived less than a decade. To commemorate her mute friend, Fomenko made quills out of the ten outermost feathers of the parrot's wings. One of these was for herself, while the other nine were stored in a vault.<br>She used her quills to annotate for an entire Amber Era, preserving vast swathes of ancient documents on the verge of being lost. At her funeral, her peers and students burst into tears because \"a lamp that illuminated our cosmic past had been snuffed out.\"<br>It wasn't until people went over Fomenko's legacy that they finally realized that the scribe had been writing nothing but lies with her quills.<br><br><i>\"Since the beginning of human history, the birds have been observing all the glory, folly, and glorious and foolish things humans have accomplished. The birds know. The birds take part. The birds remain silent.\"</i>",
+        "Name": "옥 깃털",
+        "Desc": "상점 「진실이 된 농담」에서 보상으로 교환할 수 있다",
+        "Story": "2104 앰버기원, 캔들 학파 필경사 포멘코는 과묵한 앵무새 한 마리를 얻었다. 그녀는 앵무새를 지극정성으로 돌봤지만 앵무새는 10년도 채 살지 못했다. 이 과묵한 친구를 기리기 위해 포멘코는 앵무새의 가장 바깥쪽 날개깃 열 개로 깃펜을 만들어 하나는 자신이 사용하고 나머지 아홉 자루는 금고에 보관했다.<br>그녀는 이 깃펜으로 한 앰버기원 내내 필사해 실전될 뻔한 방대한 양의 고대 문헌을 보존했다. 그녀의 장례식에 참석한 동료와 학생들은 「은하의 과거를 비추던 등불 하나가 꺼졌다」며 흐느꼈다.<br>하지만 사람들은 포멘코의 유품을 정리하던 중, 이 깃펜들로는 진실한 내용을 한 마디도 쓸 수 없다는 것을 발견했다.<br><br><i>「새들은 인류 역사의 기원부터 인류가 해낸 위대한 일, 어리석은 일, 혹은 위대하고 어리석은 일을 지켜봐 왔다. 새들은 알고 있다. 참여하고 있다. 말하지 않을 뿐이다」</i>",
         "Icon": "262.png",
         "Pic": "262.png",
         "Src": [
@@ -1094,9 +1176,9 @@ var _item = {
     "261": {
         "_id": 261,
         "Rarity": 4,
-        "Name": "Lucent Afterglow",
-        "Desc": "Used to exchange for rewards at the Light Cone Manifest shop.",
-        "Story": "An afterimage of bygone days, invaluable to the Garden of Recollection.<br><br><i>The Garden of Recollection has its own rules: Exchange time for time and memory for memory. The Garden of Recollection can even bring back to you a lost, irrevocable past for the right cost...</i>",
+        "Name": "빛의 잔재",
+        "Desc": "상점 「광추 박람」에서 보상으로 교환할 수 있다",
+        "Story": "흘러간 세월이 남긴 이미지. 기억의 정원에게 아주 소중한 자료다.<br><br><i>「기억의 정원에는 자신만의 법칙이 있어. 시간으로 시간을 교환하고, 기억으로 기억을 교환한다. 지불하는 대가만 충분하다면 기억의 정원은 돌이킬 수 없는 과거까지도 보여줄 거야……」</i>",
         "Icon": "261.png",
         "Pic": "261.png",
         "Src": [
@@ -1112,9 +1194,9 @@ var _item = {
     "300041": {
         "_id": 300041,
         "Rarity": 3,
-        "Name": "Supplies Material Box (Standard)",
-        "Desc": "The assistance provided by Herta to the Astral Express. Upon use, you can select one item to obtain from the following materials:<br>· Lifeless Blade<br>· Arrow of the Demon Slayer<br>· Key of Knowledge<br>· Oath of Steel<br>· Obsidian of Desolation<br>· Ancestral Hymn<br>· Sprout of Life",
-        "Story": "Materials provided to the Express in accordance with the mutual aid contract.<br><br><i>\"Since it's mutual aid, save your thanks.\"</i>",
+        "Name": "보급 재료상자•표준형",
+        "Desc": "헤르타가 열차에 제공하는 지원. 사용 후 다음 재료 중 1개를 임의로 선택할 수 있다<br>• 무생의 칼날<br>• 악마 사냥용 화살<br>• 계몽의 열쇠<br>• 한철의 맹세<br>• 허공의 흑요<br>• 가족의 찬가<br>• 생명의 새싹",
+        "Story": "우호 협의 내용에 따라 열차에 제공하는 재료<br><br><i>「우호 협의로 주는 거니까 사양하지 마」</i>",
         "Icon": "300041.png",
         "Pic": "300041.png",
         "Link": 1
@@ -1122,9 +1204,9 @@ var _item = {
     "309002": {
         "_id": 309002,
         "Rarity": 4,
-        "Name": "Fateful Crossings: Hanu's Prison Break",
-        "Desc": "A beautiful envelope containing a customized ticket. When used, you can choose one of the following 4-star characters:<br>Guinaifen, Sampo, Asta, or Yukong.",
-        "Story": "\"Meet new companions in your journeys.\"",
+        "Name": "여정에서의 만남: 「하누 형제 탈옥기」",
+        "Desc": "예쁜 편지 봉투. 맞춤 제작한 티켓이 들어있다. 사용하면 다음 ★4 캐릭터 중 하나를 임의로 선택할 수 있다:<br>[계네빈] [삼포] [아스타] [어공]",
+        "Story": "「여정에서 새로운 동료를 만나 봐」",
         "Icon": "309001.png",
         "Pic": "309001.png",
         "Link": 1
@@ -1132,9 +1214,9 @@ var _item = {
     "309003": {
         "_id": 309003,
         "Rarity": 4,
-        "Name": "Fateful Crossings: Vignettes in a Cup",
-        "Desc": "A beautiful envelope containing a customized ticket. When used, you can choose one of the following 4-star characters:<br>Gallagher, Misha, Xueyi, Hanya, Guinaifen, Luka, Lynx, or Yukong.",
-        "Story": "\"Meet new companions in your journeys.\"",
+        "Name": "여정에서의 만남: 「잔 속의 에피소드」",
+        "Desc": "예쁜 편지 봉투. 맞춤 제작한 티켓이 들어있다. 사용하면 다음 ★4 캐릭터 중 하나를 임의로 선택할 수 있다:<br>[갤러거] [미샤] [설의] [한아] [계네빈] [루카] [링스] [어공]",
+        "Story": "「여정에서 새로운 동료를 만나 봐」",
         "Icon": "309001.png",
         "Pic": "309001.png",
         "Link": 1
@@ -1142,9 +1224,9 @@ var _item = {
     "309001": {
         "_id": 309001,
         "Rarity": 4,
-        "Name": "Fateful Crossings: Aetherium Wars",
-        "Desc": "A beautiful envelope containing a customized ticket. When used, you can choose one of the following 4-star characters:<br>Serval, Hook, Pela, Luka",
-        "Story": "\"Meet new companions in your journeys.\"",
+        "Name": "여정에서의 만남: 「에테르 배틀」",
+        "Desc": "예쁜 편지 봉투. 맞춤 제작한 티켓이 들어있다. 사용하면 다음 ★4 캐릭터 중 하나를 임의로 선택할 수 있다:<br>[서벌] [페라] [후크] [루카]",
+        "Story": "「여정에서 새로운 동료를 만나 봐」",
         "Icon": "309001.png",
         "Pic": "309001.png",
         "Link": 1
@@ -1152,9 +1234,9 @@ var _item = {
     "110222": {
         "_id": 110222,
         "Rarity": 3,
-        "Name": "Starfire Essence",
-        "Desc": "A mature heliobus that ran away after the Flaming Catastrophe War. Used to level up Traces moderately for <color=#f29e38ff>Nihility</color> characters.",
-        "Story": "A mean and nasty heliobus that appears like a full flame.<br>The size of a heliobus's flame when it materializes indicates its strength. This torch-like heliobus has just tasted consciousness and is eager to devour its host's emotions and desires.<br><br><i>\"Absorb their emotions and sway their wills...\"</i>",
+        "Name": "불꽃의 정령",
+        "Desc": "「화겁대전」 후 도망 다니는 세차게 타오르는 세양. <color=#f29e38ff>공허</color> 캐릭터의 운명의 길 행적이 중폭 상승한다",
+        "Story": "화염덩이 형상을 한 교활하고 짓궂은 세양 불씨.<br>「화염」의 크기로 세양의 강함을 판별할 수 있다. 이 화염덩이 세양은 처음으로 지혜를 갖게 되고 나서 숙주의 모든 욕망과 감정을 집어삼키려 했다.<br><br><i>「기쁨과 슬픔을 흡수하고, 의지를 조종한다…」</i>",
         "Icon": "110222.png",
         "Pic": "110222.png",
         "Src": [
@@ -1169,9 +1251,9 @@ var _item = {
     "271": {
         "_id": 271,
         "Rarity": 5,
-        "Name": "Superimposer (Custom-made)",
-        "Desc": "A special gadget made by Herta. It can Superimpose special Light Cones obtained from the Simulated Universe.",
-        "Story": "A special gadget made by Herta. Its principles are not stated.<br><br><i>\"Be grateful, Trailblazer. I've prepared everything for you.\"</i>",
+        "Name": "중첩기(특제)",
+        "Desc": "헤르타가 특별 제조한 디바이스. 「시뮬레이션 우주」에서 획득한 특수 광추를 중첩할 수 있다",
+        "Story": "헤르타가 제조한 특수 장치, 원리는 이곳에서 생략한다.<br><br><i>「고맙지, {NICKNAME}? 내가 너를 위해 다 준비해뒀어」</i>",
         "Icon": "271.png",
         "Pic": "271.png",
         "Link": 1
@@ -1179,9 +1261,9 @@ var _item = {
     "140310": {
         "_id": 140310,
         "Rarity": 4,
-        "Name": "Legend of the Trailblazer",
+        "Name": "개척의협기",
         "Desc": "",
-        "Story": "Storytellers spin up tales all the time about heroes and heroines and legions and knights. Yet this tale goes beyond a storyteller's imagination — it draws inspiration from your extraordinary adventures.<br><br><i>To find out what happens next, please tune in next time.</i>",
+        "Story": "이야기꾼들이 입을 열자 영웅호걸과 천군만마 이야기가 펼쳐진다. 하지만 이것은 이야기꾼이 지어낸 것이 아니라, 당신의 멋진 모험을 바탕으로 탄생한 이야기이다.<br><br><i>「이어지는 내용이 궁금하면 다음 대목도 들어주세요」</i>",
         "Icon": "140303.png",
         "Pic": "140303.png",
         "Link": 1
@@ -1189,9 +1271,9 @@ var _item = {
     "22": {
         "_id": 22,
         "Rarity": 3,
-        "Name": "Trailblaze EXP",
-        "Desc": "A measure of your Trailblaze Progress. Accumulate Trailblaze EXP to increase Trailblaze Level.",
-        "Story": "<i>\"I came, I saw, I trailblazed.\"</i>",
+        "Name": "마일리지",
+        "Desc": "전진의 기록, 개척의 척도. 마일리지를 누적하면 개척 레벨을 올릴 수 있다",
+        "Story": "<i>「왔노라, 보았노라, 개척했노라」</i>",
         "Icon": "22.png",
         "Pic": "22.png",
         "Src": [
@@ -1200,11 +1282,28 @@ var _item = {
         ],
         "Link": 1
     },
+    "110232": {
+        "_id": 110232,
+        "Rarity": 3,
+        "Name": "천상의 소절",
+        "Desc": "하늘에서 떨어진 악구의 소절. <color=#f29e38ff>화합</color> 캐릭터의 운명의 길 행적이 중폭 상승한다",
+        "Story": "질서로부터 흩어진 음률. 마치 사막에 황사 한 움큼이 흩어지듯, 하늘에서 조용히 추락해 속세의 소란 속으로 떨어졌다.<br><br><i>「영감에 붙잡히기 전까지, 아무도 그것을 듣지 못했네……」</i>",
+        "Icon": "110232.png",
+        "Pic": "110232.png",
+        "Src": [
+            "Calyx: The Reverie (Dreamscape)",
+            "Calyx: The Reverie (Dreamscape)",
+            "Omni-Synthesizer — Material Synthesis",
+            "Embers Exchange",
+            "Omni-Synthesizer — Material Exchange"
+        ],
+        "Link": 1
+    },
     "405020": {
         "_id": 405020,
         "Rarity": 2,
-        "Name": "Recipe: Delicious Bean Cake",
-        "Desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "Name": "레시피: 맛있는 팥앙금 빵",
+        "Desc": "간결한 등식. 합성기에 입력하면 새로운 제작 레시피를 개방할 수 있다",
         "Story": "",
         "Icon": "404001.png",
         "Pic": "404001.png"
@@ -1212,9 +1311,9 @@ var _item = {
     "202016": {
         "_id": 202016,
         "Rarity": 4,
-        "Name": "One-Year Anniversary Commemoration",
-        "Desc": "Avatar obtainable by completing the \"Cosmodyssey\" event.",
-        "Story": "Pom-Pom holding a one-year-anniversary commemorative gold medal.<br><br><i>\"Ta-da! This commemorative medal is for you! Here's to the future expeditions we'll be experiencing together!\"</i>",
+        "Name": "1주년 기념",
+        "Desc": "「성간 여행」 이벤트 완료 프로필 보상",
+        "Story": "1주년 황금 기념 메달을 들고 있는 폼폼.<br><br><i>「짜잔——너한테 선물로 주는 기념 메달이야! 앞으로의 여정도 함께 개척해 보자고!」</i>",
         "Icon": "avatarhead/IconHead_202016.png",
         "Pic": "avatarhead/IconHead_202016.png",
         "Link": 1
@@ -1222,9 +1321,9 @@ var _item = {
     "110112": {
         "_id": 110112,
         "Rarity": 3,
-        "Name": "Lifeless Blade",
-        "Desc": "Weapon remnants left behind by members of the Antimatter Legion. Used to level up Traces moderately for <color=#f29e38ff>Destruction</color> characters.",
-        "Story": "This brand represents their rank and accomplishments in the name of Destruction.<br>The master of this weapon carries a strong hatred for all sentient beings. They relish in the lament of intelligent beings as sweet melodies and topple civilizations with millennia of history in the blink of an eye.<br><br><i>\"The bearer of this brand is tasked with stopping breath among the living.\"</i>",
+        "Name": "무생의 칼날",
+        "Desc": "반물질 군단이 분실한 무기 잔해. <color=#f29e38ff>파멸</color> 캐릭터의 운명의 길 행적이 중폭 상승한다",
+        "Story": "이 낙인은 계급과 「파멸」의 업적을 의미한다.<br>이 무기의 주인은 생각하는 모든 생령을 증오하고, 지혜로운 생물의 비명에 음악을 감상하듯이 귀를 기울인다. 그들은 수천 년 문명의 탑을 하루 사이에 파괴한다.<br><br><i>「이 낙인을 가진 자는 호흡을 모든 생명에게서 멀어지게 하라는 명을 받든다」</i>",
         "Icon": "110112.png",
         "Pic": "110112.png",
         "Src": [
@@ -1239,9 +1338,9 @@ var _item = {
     "110113": {
         "_id": 110113,
         "Rarity": 4,
-        "Name": "Worldbreaker Blade",
-        "Desc": "Broken weapon left behind by members of the Antimatter Legion. Used to level up Traces significantly for <color=#f29e38ff>Destruction</color> characters.",
-        "Story": "This weapon represents its owner's rank and accomplishments in the name of Destruction.<br>The owner of this weapon makes their appearance at the end of a war to fan the embers to consume the world. Regardless of the glories of the past or the blessing of its deities, this planet is destined to return to the ashes it came from, and to wither away in the depths of the starry sky.<br><br><i>The bearer of this brand is tasked with purifying the world.</i>",
+        "Name": "정화의 칼날",
+        "Desc": "반물질 군단이 파손한 무기. <color=#f29e38ff>파멸</color> 캐릭터의 운명의 길 행적이 대폭 상승한다",
+        "Story": "이 무기는 주인의 군대 계급과 「파괴」의 업적을 의미한다.<br>이 무기의 주인은 전쟁 막바지의 등장을 담당하며, 겁화를 연소해 세계를 소각한다. 어떤 신이 은총을 받든, 얼마나 찬란한 문명을 이루었든, 이 행성은 꺼지는 잿더미처럼 별하늘 깊숙이 죽어 간다.<br><br><i>「이 낙인을 가진 자는 세계 정화의 명을 받든다」</i>",
         "Icon": "110113.png",
         "Pic": "110113.png",
         "Src": [
@@ -1255,9 +1354,9 @@ var _item = {
     "110122": {
         "_id": 110122,
         "Rarity": 3,
-        "Name": "Arrow of the Demon Slayer",
-        "Desc": "An arrowhead forged with Stellaris Essence by the craftsmen of Xianzhou. Used to level up Traces moderately for <color=#f29e38ff>Hunt</color> characters.",
-        "Story": "An arrow narrower than a finger's width. It can be loaded into an electromagnetic crossbow or a thermal seeking bow as ammunition. Its power is enough to penetrate the tough shells of abominations with just one strike.<br><br><i>\"The celestial banished arrives from afar, great distances journeyed 'twixt oceans of stars. Like rain falls a cloudburst of arrows below, in a helmet reflected the bright lunar glow.\"</i>",
+        "Name": "악마 사냥용 화살",
+        "Desc": "선주 장인이 별의 천영으로 만든 화살. <color=#f29e38ff>수렵</color> 캐릭터의 운명의 길 행적 중폭 상승한다",
+        "Story": "손가락 하나 넓이보다 좁은 화살촉, 비살의 탄약으로 전자 석궁이나 열추적 활에 장착한다. 그 힘은 일격에 흉물의 돌처럼 단단한 몸을 관통할 수 있다.<br><br><i>「천상에서 선인이 내려와 뗏목을 타고 별바다를 누비니, 날아오는 화살은 큰비를 부르고, 빛나는 투구는 하얀 달을 비춘다」</i>",
         "Icon": "110122.png",
         "Pic": "110122.png",
         "Src": [
@@ -1272,9 +1371,9 @@ var _item = {
     "110123": {
         "_id": 110123,
         "Rarity": 4,
-        "Name": "Arrow of the Starchaser",
-        "Desc": "A shard of the Sky-Shattering Lux Arrow shot by the Reignbow Arbiter. Used to level up Traces significantly for <color=#f29e38ff>Hunt</color> characters.",
-        "Story": "The remains of a divine construct that ordinary humans can rarely behold. What kind of force can shatter stars that are light-years away? Humanity can only imagine the power of the Lux Arrow from the ashes it left behind.<br>Only the Furnace Master, chief of the Xianzhou artisans, has the rights to reforge the shards for those who are worthy.<br><br><i>\"The death of a star shall shine bright for ages to come.\"</i>",
+        "Name": "별 쫓는 화살",
+        "Desc": "천궁의 사명이 발사한 화살 비의 조각. <color=#f29e38ff>수렵</color> 캐릭터의 운명의 길 행적이 대폭 상승한다",
+        "Story": "신의 기적이 남긴 흔적. 쉽게 볼 수 없다. 광년의 시간을 초월해 하늘의 별을 격파했고, 사람들은 빛의 화살이 남긴 잔화를 통해 그 힘을 상상할 수밖에 없다.<br>선주의 장인 두목 백야만이 조각을 다시 주조해 큰 공을 세운 영웅에게 선사할 자격을 가지고 있다.<br><br><i>「별이 부서지고 하늘이 무너지나, 그 빛은 오래도록 빛나리라」</i>",
         "Icon": "110123.png",
         "Pic": "110123.png",
         "Src": [
@@ -1288,16 +1387,16 @@ var _item = {
     "1206": {
         "_id": 1206,
         "Rarity": 4,
-        "Name": "Sushang",
+        "Name": "소상",
         "Desc": "",
-        "Story": "Born on the Xianzhou Yaoqing, sent to the Cloud Knights of the Luofu for military training.<br>She wields her family sword, a gift from her mother, and longs for the future she will go on to write.",
+        "Story": "선주 「요청(曜青)」출생, 「나부」의 운기군을 찾아가 수련을 받은 신병<br>어머니가 주신 가문의 검을 몸에 지니고 앞으로의 미래를 동경하고 있다",
         "Icon": "SpriteOutput/AvatarIcon/1206.png",
         "Pic": "SpriteOutput/AvatarIcon/1206.png"
     },
     "83134": {
         "_id": 83134,
         "Rarity": 5,
-        "Name": "Sigonia, the Unclaimed Desolation",
+        "Name": "주인 없는 황폐한 별 츠가냐",
         "Desc": "",
         "Story": "",
         "Icon": "71030.png",
@@ -1309,45 +1408,45 @@ var _item = {
     "24000": {
         "_id": 24000,
         "Rarity": 5,
-        "Name": "On the Fall of an Aeon",
-        "Desc": "Light Cone for the Path of <color=#f29e38ff>Destruction</color>. The Light Cone ability is only effective for characters of this Path.",
-        "Story": "It began with a flash of light.<br>One by one, THEY fell as the threat of expiration loomed over THEM.<br>THEY had to stop self-replicating and rushed to embrace each other,<br>trying to offer the right to reproduce in exchange for a possibility of survival.<br>THEY held hands in a show of unprecedented unity.<br>...But the Paths met an abrupt end,<br>and THEY were headed to a true death.",
+        "Name": "어떤 에이언즈의 몰락",
+        "Desc": "<color=#f29e38ff>파멸</color> 운명의 길 전용 광추. 광추 스킬은 해당 운명의 길에만 적용된다",
+        "Story": "한 줄기의 빛에서 시작되어,<br>그들은 추락하고, 멸망의 위협이 고조되고 있다.<br>그들은 어쩔 수 없이 자가 복제를 멈추고, 앞을 다투어 서로 껴안아,<br>번식할 권리를 대가로 생존의 가능성을 바꾸고자 했다.<br>그들은 손을 맞잡았다, 이렇게 단결해 본 적이 없음에도<br>——운명의 길은 끊기고,<br>그들은 진정한 죽음을 향해 갔다",
         "Icon": "lightconeicons/24000.png",
         "Pic": "LightCone/24000.png"
     },
     "24001": {
         "_id": 24001,
         "Rarity": 5,
-        "Name": "Cruising in the Stellar Sea",
-        "Desc": "Light Cone for the Path of <color=#f29e38ff>The Hunt</color>. The Light Cone ability is only effective for characters of this Path.",
-        "Story": "Coursing 'tween the sea of stars,<br>THEY cruise with the speed of a rainbow's chromatic flash.<br>A journey of hunting undying abominations,<br>collecting cures and miracles,<br>and seeking deliverance.<br>Akin to a vow unbroken, THEIR voyage will be,<br>ad infinitum.",
+        "Name": "별바다 순항",
+        "Desc": "<color=#f29e38ff>수렵</color> 운명의 길 전용 광추. 광추 스킬은 해당 운명의 길에만 적용된다",
+        "Story": "별바다 사이를 오가는,<br>그의 속도는 빛처럼 빠르다.<br>불사의 흉물을 포위하고,<br>신비의 명약을 찾아내,<br>벗어날 길을 찾는다.<br>그의 항해는 깨지지 않는 서약처럼,<br>영원히 끝나지 않는다",
         "Icon": "lightconeicons/24001.png",
         "Pic": "LightCone/24001.png"
     },
     "24002": {
         "_id": 24002,
         "Rarity": 5,
-        "Name": "Texture of Memories",
-        "Desc": "Light Cone for the Path of <color=#f29e38ff>Preservation</color>. The Light Cone ability is only effective for characters of this Path.",
-        "Story": "The universe was like a badland filled with rubbish.<br>There were the occasional treasure that lies undiscovered.<br>THEY looked through the cracks of the past, choosing seeds of memory.<br>...If a new life was to be born, its seed has to be dead.<br>Precious stones of pink, blue, and white were brought forth,<br>twinkling gently in THEIR seed plot,<br>even though the universe held onto its enigmatic silence.",
+        "Name": "기억의 소재",
+        "Desc": "<color=#f29e38ff>보존</color> 운명의 길 전용 광추. 광추 스킬은 해당 운명의 길에만 적용된다",
+        "Story": "우주는 쓰레기가 가득 쌓인 미개척지같다.<br>가끔 귀한 물건이 있어도 주워갈 사람은 없다.<br>그는 지나간 날의 틈새를 넘겨보며, 기억의 씨앗을 골라낸다.<br>——새로운 생명이 새싹이라면, 그 씨앗은 죽어야만 한다.<br>분홍색, 파란색, 하얀색의 가져온 보석이,<br>그의 묘포에서 반짝인다,<br>그래도 우주는 여전히 적막하다",
         "Icon": "lightconeicons/24002.png",
         "Pic": "LightCone/24002.png"
     },
     "24003": {
         "_id": 24003,
         "Rarity": 5,
-        "Name": "Solitary Healing",
-        "Desc": "Light Cone for the Path of <color=#f29e38ff>Nihility</color>. The Light Cone ability is only effective for characters of this Path.",
-        "Story": "Things molded by the hands of secrecy are shapeless and incorporeal.<br>In the totality of emptiness, there yet exists a sudden dreaming.<br>Those that court destruction will reap ruinous fruit, while those that clamor to live will survive.<br>That which is extinguished may yet spark, and that which has dried may yet be filled anew.<br>In compassion for the salvation of chaos, the elixir nurtures the shadows.<br>With back faced to the darkness between the stars, the encapsulation of this vessel can only be done in vain.<br><br><i>\"Paradoxical these knowings are, in them shine the fullness of our pride.\"</i>",
+        "Name": "고독의 치유",
+        "Desc": "<color=#f29e38ff>공허</color> 운명의 길 전용 광추. 광추 스킬은 해당 운명의 길에만 적용된다",
+        "Story": "자연에서 탄생한 신비한 것으로 형태와 실체가 없다.<br>만물은 공허하며, 한순간의 꿈에 불과하다.<br>죽고자 하면 죽을 것이고, 살고자 하면 살 것이다.<br>꺼진 것은 다시 빛을 찾고, 마른 것은 다시 채워질 것이다.<br>혼돈의 구원을 불쌍히 여기고, 영약은 허영을 키운다.<br>별의 어두운 면을 등진 채, 병 속에 봉인되었다.<br><br><i>「이러한 역설을 우리는 오히려 영광으로 여기는 구나」</i>",
         "Icon": "lightconeicons/24003.png",
         "Pic": "LightCone/24003.png"
     },
     "110406": {
         "_id": 110406,
         "Rarity": 4,
-        "Name": "Void Cast Iron",
-        "Desc": "Horseshoe of a Voidranger: Trampler. Can be used for the Ascension of Quantum characters.",
-        "Story": "Rare horseshoe obtained when a Trampler of the Antimatter Legion is defeated. When no one is observing, it pops in and out of existence.<br><br><i>\"The name of the experiment? It's just called \"Horseshoe of the Trampler\"... \"</i>",
+        "Name": "환영의 무쇠",
+        "Desc": "허졸•유린자의 편자. 양자 속성 캐릭터의 승급 소재",
+        "Story": "반물질 군단의 유린자는 파괴될 때 극히 낮은 확률로 이러한 편자를 남긴다. 관측자가 없을 경우 존재하거나 존재하지 않는 두 가지 파동 형태를 보인다.<br><br><i>「이 실험의 이름? 유린자의 편자이려나……」</i>",
         "Icon": "110406.png",
         "Pic": "110406.png",
         "Src": [
@@ -1360,7 +1459,7 @@ var _item = {
     "83144": {
         "_id": 83144,
         "Rarity": 5,
-        "Name": "Izumo Gensei and Takama Divine Realm",
+        "Name": "이즈모 현세와 타카마 신국",
         "Desc": "",
         "Story": "",
         "Icon": "71031.png",
@@ -1372,9 +1471,9 @@ var _item = {
     "201": {
         "_id": 201,
         "Rarity": 4,
-        "Name": "Fuel",
-        "Desc": "Item used to replenish Trailblaze Power. Provides 60 Trailblaze Power.",
-        "Story": "Fuel canisters filled up with the dreams and courage of the Nameless.<br><br><i>\"Idealism? I prefer to call it the observer effect and human self-actualization.\"</i>",
+        "Name": "연료",
+        "Desc": "개척력을 보충하는 아이템. 개척력을 60pt 회복한다",
+        "Story": "무명객의 꿈과 용기로 채워진 연료통.<br><br><i>「유심론? 그것보다는 관측자 효과와 인류의 자아실현이라고 부르고 싶군」</i>",
         "Icon": "201.png",
         "Pic": "201.png",
         "Src": [
@@ -1385,9 +1484,9 @@ var _item = {
     "110153": {
         "_id": 110153,
         "Rarity": 4,
-        "Name": "Obsidian of Obsession",
-        "Desc": "A sizable piece of dark matter captured from the void. Used to level up Traces significantly for <color=#f29e38ff>Nihility</color> characters.",
-        "Story": "The weak-minded and soft-willed will spend their eternity in chaos from just a simple glance into the prism.<br><br><i>\"         \"</i>",
+        "Name": "타락의 흑요",
+        "Desc": "허공에서 얻은 검은 물질. <color=#f29e38ff>공허</color> 캐릭터의 운명의 길 행적이 대폭 상승한다",
+        "Story": "의지가 박약한 사람은 한 번 힐끗 보기만 해도 혼돈에 영원히 빠져버린다.<br><br><i>「         」</i>",
         "Icon": "110153.png",
         "Pic": "110153.png",
         "Src": [
@@ -1401,9 +1500,9 @@ var _item = {
     "140363": {
         "_id": 140363,
         "Rarity": 3,
-        "Name": "Fragmented Record of Belobog Ancient Martial Arts",
+        "Name": "벨로보그 고대 무술 잔본",
         "Desc": "",
-        "Story": "A ruined booklet. The pages are yellowish and fragile, and the notes written are extremely blurred. It is said that some of its text records some long-lost ancient Belobogian martial arts techniques.<br><br>\"I am almost certain that this booklet was made to look old by being fed to Funeral Worms before soaked in Moo-Moo urine... But the contents written upon its pages might very well be real, as certain contemporary texts can attest. Ah... Don't cry yet, let's get the appraisal fee settled first, thank you.\" — Balaway \"Miner's Lamp\"",
+        "Story": "너덜너덜한 책자. 종이는 누렇고 바스락거리며, 글자는 몹시 흐릿하다. 오랫동안 전승을 잃은 벨로보그 고대 무술의 초식이 기록되어 있다고 한다.<br><br>「장담하는데 이 책은 장례 벌레가 갉아먹게 한 다음 소 오줌에 적셔 오래돼 보이게 만든 겁니다…. 하지만 책에 적힌 내용은 진짜일 가능성이 높아요. 이 점은 동시대의 다른 문서들이 증명할 수 있습니다. 아… 일단 울지 마시고, 감정비 먼저 정산해주시죠. 감사합니다」——「마이너 램프」 발라웨이",
         "Icon": "140363.png",
         "Pic": "140363.png",
         "Link": 1
@@ -1411,9 +1510,9 @@ var _item = {
     "221003": {
         "_id": 221003,
         "Rarity": 4,
-        "Name": "...",
-        "Desc": "After obtaining Phone Wallpapers, they can be changed in the Phone function",
-        "Story": "<i>\"The previous host tasted so bitter, I couldn't bring myself to enjoy them...\"</i><br><i>\"I like bitter! Shall I trade my sweet one with you next time?\"</i>",
+        "Name": "…",
+        "Desc": "휴대폰 배경화면. 획득 후 휴대폰 기능에서 설정할 수 있다",
+        "Story": "<i>「지난 숙주는 맛이 너무 써서… 더는 못 먹겠더라고…」</i><br><i>「난 쓴맛 좋아하는데! 다음에 단맛이랑 바꾸지 않을래?」</i>",
         "Icon": "221003.png",
         "Pic": "221003.png",
         "Src": [
@@ -1423,21 +1522,21 @@ var _item = {
     "221005": {
         "_id": 221005,
         "Rarity": 4,
-        "Name": "Cosmodyssey",
-        "Desc": "After obtaining Phone wallpapers, they can be changed in the Phone function",
-        "Story": "<i>\"The 'trailblaze' will not end.\"</i><br><i>\"Let's seek the shimmering stars together!\"</i>",
+        "Name": "성간 여행",
+        "Desc": "휴대폰 배경화면. 획득 후 휴대폰 기능에서 설정할 수 있다",
+        "Story": "<i>「『개척』은 멈추지 않는다」</i><br><i>「함께 반짝이는 뭇별을 향해 나아가자!」</i>",
         "Icon": "221005.png",
         "Pic": "221005.png",
         "Src": [
-            ""
+            "Obtainable from the \"Cosmodyssey\" event."
         ]
     },
     "110152": {
         "_id": 110152,
         "Rarity": 3,
-        "Name": "Obsidian of Desolation",
-        "Desc": "A chunk of dark matter captured from the void. Used to level up Traces moderately for <color=#f29e38ff>Nihility</color> characters.",
-        "Story": "No reflections can be seen on the surface of the black prism. Not only does it suck in all the light, it seems to also absorb the wielder's emotions, leaving only a faint feeling of emptiness.<br><br><i>\"...\"</i>",
+        "Name": "허공의 흑요",
+        "Desc": "허공에서 얻은 검은 물질 덩어리. <color=#f29e38ff>공허</color> 캐릭터의 운명의 길 행적이 중폭 상승한다",
+        "Story": "칠흑 같은 표면엔 어떤 것도 비치지 않는다. 빛을 흡수할 뿐만 아니라 소유자의 감정 기복도 흡수해 잔잔한 공허함만 남기는 듯하다.<br><br><i>「……」</i>",
         "Icon": "110152.png",
         "Pic": "110152.png",
         "Src": [
@@ -1452,9 +1551,9 @@ var _item = {
     "221001": {
         "_id": 221001,
         "Rarity": 4,
-        "Name": "Ingenium Dreams",
-        "Desc": "After obtaining Phone wallpapers, they can be changed in the Phone function",
-        "Story": "<i>\"Where in Aurum Alley should we eat at today?\"</i><br><i>\"The wait for dine-in at Aurum Alley is too long. Let's just order a delivery from the cycranes!\"</i>",
+        "Name": "기나긴 기교의 꿈",
+        "Desc": "휴대폰 배경화면. 획득 후 휴대폰 기능에서 설정할 수 있다",
+        "Story": "<i>「오늘은 금 조각상 거리의 어느 가게에 들를 거야?」</i><br><i>「가게는 줄을 너무 오래 서야 하니까, 기계새의 배달을 기다리자!」</i>",
         "Icon": "221001.png",
         "Pic": "221001.png",
         "Src": [
@@ -1464,9 +1563,9 @@ var _item = {
     "213": {
         "_id": 213,
         "Rarity": 4,
-        "Name": "Traveler's Guide",
-        "Desc": "Experience material for characters. Provides 20,000 Character EXP.",
-        "Story": "Required reading for world exploration. Press the \"Read\" button to tune in to an attractive voice in a language you understand, telling you about the legendary encounters of renowned adventurers across different worlds as well as the precious wisdom and knowledge that they have gathered.<br><br><i>\"All-new series of the Traveler's Guide, </i>The Chef's Manual to Galactic Cuisine<i>, is now available for purchase.\"</i><br><i>\"For submissions, please connect to synesthesia beacon ERD-23θ to contact an Intelligentsia Guild representative. Method of payment can be arranged to your convenience.\"</i>",
+        "Name": "여행 가이드",
+        "Desc": "캐릭터 경험치 재료. 캐릭터 경험치를 20,000pt 획득한다",
+        "Story": "세계를 횡단할 때 반드시 구비해야 하는 모험 총서. 읽기 버튼을 누르면 매력적인 목소리가 독자의 언어로 유명 모험가들의 다양한 세계에서의 모험 전기와 각 행성에서 획득한 값진 지혜에 대해 들려준다.<br><br><i>「여행 가이드의 신규 시리즈 ≪우주 요리 가이드≫가 곧 출판됩니다. 많은 기대 바랍니다」</i><br><i>「투고는 지식학회 공감각 비콘 23θ 연락원에게 연락 바랍니다. 원고료는 원하시는 방식으로 지급합니다」</i>",
         "Icon": "213.png",
         "Pic": "213.png",
         "Src": [
@@ -1480,9 +1579,9 @@ var _item = {
     "110172": {
         "_id": 110172,
         "Rarity": 3,
-        "Name": "Sprout of Life",
-        "Desc": "A young sprout emerging from the Seed of Abundance. Used to level up Traces moderately for <color=#f29e38ff>Abundance</color> characters.",
-        "Story": "Radiating warmth, life and growth flourish around the place where it sinks its roots. Barren wastelands turn into luscious grass fields, withered plants rejuvenate and blossom, and springs burst through the ground to moisten the land.<br>As you get closer to it, your muscles and bones twitch and propagate with an unbearable itch.<br><br><i>\"Life is unfailing where the soul abounds.\"</i>",
+        "Name": "생명의 새싹",
+        "Desc": "풍요의 씨앗에서 돋아난 새싹. <color=#f29e38ff>풍요</color> 캐릭터의 운명의 길 행적이 중폭 상승한다",
+        "Story": "온기를 발산해 뿌리를 내리는 터, 주변에 푸른 수풀이 무성하다. 황폐한 땅이 기름진 토지가 되고, 말라 죽은 식물은 다시 싹을 틔우고 꽃을 피우며 샘물이 솟아나 세차게 흐른다.<br>가까이 가면 마치 피와 살이 스스로 살아있는 처럼 꿈틀거리며 증식해 참을 수 없이 가렵다.<br><br><i>「평범한 생명을 육성하니, 끊임없이 번성하리라」</i>",
         "Icon": "110172.png",
         "Pic": "110172.png",
         "Src": [
@@ -1497,9 +1596,9 @@ var _item = {
     "110173": {
         "_id": 110173,
         "Rarity": 4,
-        "Name": "Flower of Eternity",
-        "Desc": "A gorgeous flower blooming from the Sprout of Life. Used to level up Traces significantly for <color=#f29e38ff>Abundance</color> characters.",
-        "Story": "The stamen contains the concentrated power of the Path of Abundance, ensuring the flower's ever-lasting vitality. No fire, ice, or any harshness can hinder the growth of this magnificent life form.<br>Given time, its leaves shall feed upon starlight. Its roots shall burrow into the flesh of every being of this world, all-connected, never-perishing. Its fruits shall fulfill the promise of immortality.<br><br><i>\"There be giant ships, eclipsing mountains, drifting over the void. Upon them grows the undying tree. Its consumption grants immortality.\"</i>",
+        "Name": "영원의 꽃",
+        "Desc": "생명의 새싹에서 피어난 아름다운 꽃. <color=#f29e38ff>풍요</color> 캐릭터의 운명의 길 행적이 대폭 상승한다",
+        "Story": "꽃술에 풍요의 힘이 응축되어 영원히 지지 않는다. 화염이나 서리 같은 극악의 환경에서도 성장의 기세가 꺾이지 않는다.<br>시간이 더 흐르면 가지는 별빛을 양식으로 삼고, 뿌리는 중생의 피와 살을 흙으로 삼아 일체가 되어 불사불멸한다. 열매는 영생의 약속이 될 것이다.<br><br><i>「거대한 배가 산처럼 웅장한 기세로 허공을 가르니, 위로 불사의 나무가 있어, 이를 먹으면 장수를 얻으리라」</i>",
         "Icon": "110173.png",
         "Pic": "110173.png",
         "Src": [
@@ -1513,9 +1612,9 @@ var _item = {
     "222": {
         "_id": 222,
         "Rarity": 3,
-        "Name": "Condensed Aether",
-        "Desc": "Enhancement material for Light Cones, provides 2000 Light Cone EXP.",
-        "Story": "A can of Aether refined through special techniques.<br><br><i>\"Handle with care, do not drop or place pressure upon it. If damages and leaks occur, please refer to chapter II of the </i>Leak Disaster Response Manual<i> for emergency response.\"</i>",
+        "Name": "응축한 에테르",
+        "Desc": "광추 강화 재료. 광추 경험치를 2,000pt 획득한다",
+        "Story": "특수 기술로 정제한 에테르 한 병.<br><br><i>「취급 주의, 파손 주의. 파손 또는 유출 시 ≪누출 재난 대응 매뉴얼≫ 제2장의 지시에 따라 대처하세요」</i>",
         "Icon": "222.png",
         "Pic": "222.png",
         "Src": [
@@ -1529,9 +1628,9 @@ var _item = {
     "223": {
         "_id": 223,
         "Rarity": 4,
-        "Name": "Refined Aether",
-        "Desc": "Enhancement material for Light Cones, provides 6000 Light Cone EXP.",
-        "Story": "A canister of aether that has been extracted and distilled using special procedures.<br><br><i>\"The Garden looks forward to recreating a past glory, but it is a 'past glory' selected by them. Do you understand?\"</i>",
+        "Name": "정제한 에테르",
+        "Desc": "광추 강화 재료. 광추 경험치를 6,000pt 획득한다",
+        "Story": "특수한 기술로 정제된 에테르 한 통.<br><br><i>「기억의 정원은 과거의 영광을 재현하기를 간절히 바란다. 하지만 그것은 그들이 선택한 『과거의 영광』이다, 알겠는가?」</i>",
         "Icon": "223.png",
         "Pic": "223.png",
         "Src": [
@@ -1545,9 +1644,9 @@ var _item = {
     "220001": {
         "_id": 220001,
         "Rarity": 4,
-        "Name": "...",
-        "Desc": "...",
-        "Story": "...",
+        "Name": "…",
+        "Desc": "…",
+        "Story": "…",
         "Icon": "chatbubble/220001.png",
         "Pic": "chatbubble/220001.png",
         "Src": [
@@ -1558,8 +1657,8 @@ var _item = {
         "_id": 220002,
         "Rarity": 4,
         "Name": "{TEXTJOIN#54}",
-        "Desc": "Chat Box for Message and Chat. Once obtained, they can be used in the Message or Chat functions",
-        "Story": "\"Will {TEXTJOIN#54} dream of the Trailblazer?\"<br>\"...I don't know.\"<br>\"But I know we will be the best travel buddies even in dreams.\"",
+        "Desc": "문자 메시지와 채팅 대화창. 획득 후 문자 메시지나 채팅에서 변경할 수 있다",
+        "Story": "「{TEXTJOIN#54}은(는) 개척자의 꿈을 꿀까?」<br>「——모르지」<br>「하지만 꿈에서도 우리는 최고의 여행 동료일 거야」",
         "Icon": "chatbubble/220002.png",
         "Pic": "chatbubble/220002.png",
         "Src": [
@@ -1569,9 +1668,9 @@ var _item = {
     "220003": {
         "_id": 220003,
         "Rarity": 4,
-        "Name": "Celestial Incubator",
-        "Desc": "Chat Box for Message and Chat. Once obtained, they can be used in the Message or Chat functions",
-        "Story": "The common thread between the birth of simulated celestial bodies and the creation of delicate pastries lies in their shared focus on nurturing \"life.\"",
+        "Name": "천체 배양판",
+        "Desc": "문자 메시지와 채팅 대화창. 획득 후 문자 메시지나 채팅에서 변경할 수 있다",
+        "Story": "천체 시뮬레이션의 탄생과 디저트 창조물의 공통점은 아마도 이 둘 모두 「생명」의 육성과 관련이 있다는 점일 것이다",
         "Icon": "chatbubble/220003.png",
         "Pic": "chatbubble/220003.png",
         "Src": [
@@ -1581,21 +1680,33 @@ var _item = {
     "220004": {
         "_id": 220004,
         "Rarity": 4,
-        "Name": "Monster Tavern",
-        "Desc": "Chat Box for Message and Chat. Once obtained, they can be used in the Message or Chat functions",
-        "Story": "\"Wanna have a drink? You can even mix in your own ingredients!\"<br>\"Yes! Yes! Yes! I want a triple-sweet non-alcoholic mega-sized beverage! Mix in anything you want!\"",
+        "Name": "몬스터 술집",
+        "Desc": "문자 메시지와 채팅 대화창. 획득 후 문자 메시지나 채팅에서 변경할 수 있다",
+        "Story": "「한잔할래? 음료 재료 커스텀도 가능하다고~」<br>「마실래 마실래! 제일 큰 사이즈에 당도 3배의 무알코올 음료로 한 잔! 재료는 상관없어!」",
         "Icon": "chatbubble/220004.png",
         "Pic": "chatbubble/220004.png",
         "Src": [
             "Obtained from Vignettes in a Cup"
         ]
     },
+    "220005": {
+        "_id": 220005,
+        "Rarity": 4,
+        "Name": "스튜디오 테마파크 꿈을 좇는 여행기",
+        "Desc": "문자 메시지와 채팅 대화창. 획득 후 문자 메시지나 채팅에서 변경할 수 있다",
+        "Story": "「작업하신 햄스터볼 기사 애니메이션 이미지가 정말 훌륭하다고 생각해요!」<br>「『좋은꿈의 과거』 애니메이션 제작진에 합류하신 걸 환영합니다!」",
+        "Icon": "chatbubble/220005.png",
+        "Pic": "chatbubble/220005.png",
+        "Src": [
+            "Obtained from the <i>Clockie: Dreamjoy Memoir</i> event"
+        ]
+    },
     "101": {
         "_id": 101,
         "Rarity": 5,
-        "Name": "Star Rail Pass",
+        "Name": "별의 궤도 티켓",
         "Desc": "",
-        "Story": "Astral Express Universal Pass. Travel as far as the Star Rail stretches.<br><br><i>\"Map worlds, meet people, make memories.\"</i>",
+        "Story": "은하열차의 통행 티켓. 별의 궤도를 따라 세계를 돌아다닌다.<br><br><i>「가고 싶은 곳 어디든 마음대로 가보고, 보고 싶은 사람을 만나고, 원하는 추억을 남길 수 있다」</i>",
         "Icon": "101.png",
         "Pic": "101.png",
         "Link": 1
@@ -1603,9 +1714,9 @@ var _item = {
     "402017": {
         "_id": 402017,
         "Rarity": 3,
-        "Name": "All Good Potion",
-        "Desc": "Upon use, immediately regenerates 50% of Max Energy for a single ally.",
-        "Story": "A surprise side product obtained during the Department of Implement Arts' experiments. Research has proven it to be harmless to humans. Most researchers indicate they \"feel all good\" after using this liquid, therefore giving this item the non-official name of \"All Good Potion.\"<br><br><i>\"Note: Caution! Side effects from this liquid remains unknown!\"</i>",
+        "Name": "짱짱 포션",
+        "Desc": "사용 후 즉시 지정된 단일 아군의 에너지를 자신의 에너지 최대치의 50%만큼 회복한다",
+        "Story": "관리과의 과제 실험 중 뜻밖에 획득한 부산물, 연구를 통해 인체에 무해하다는 것이 증명되었다. 대다수의 연구원은 이 액체를 사용한 후 「짱인데!?」라고 소감을 보여 「짱짱 포션」이라는 비공식적인 이름을 얻었다.<br><br><i>「주의: 해당 포션 사용 후 부작용이 아직 알려지지 않았으므로 사용에 신중을 기하자!」</i>",
         "Icon": "402017.png",
         "Pic": "402017.png",
         "Src": [
@@ -1616,9 +1727,9 @@ var _item = {
     "232": {
         "_id": 232,
         "Rarity": 3,
-        "Name": "Lost Gold Fragment",
-        "Desc": "Enhancement material for Relics. Provides 500 Relic EXP.",
-        "Story": "Carefully collected Fragmentum dust with irregular shapes. Under the right conditions, they can express specific forms of relics.<br><br><i>When the stars return to the right position... Ha! Just kidding.</i>",
+        "Name": "유실된 황금 파편",
+        "Desc": "유물 강화 재료. 유물 경험치를 500pt 획득한다",
+        "Story": "치밀하게 수집된 열계의 먼지. 불규칙한 외형을 가지고 있다. 조건이 맞으면 특정한 유물 형태로 표현된다.<br><br><i>「별들이 올바른 위치로 돌아간다면… 하, 농담이야」</i>",
         "Icon": "232.png",
         "Pic": "232.png",
         "Src": [
@@ -1631,9 +1742,9 @@ var _item = {
     "233": {
         "_id": 233,
         "Rarity": 4,
-        "Name": "Lost Crystal",
-        "Desc": "Enhancement material for Relics. Provides 1000 Relic EXP.",
-        "Story": "A Fragmentum dust crystal that had densified after being reduced to its original form.<br><br><i>\"This must not be placed together with the ores offered to the Amber Lord. This is a creation of the Stellaron and goes against the will of Preservation.\"</i>",
+        "Name": "유실된 수정덩이",
+        "Desc": "유물 강화 재료. 유물 경험치를 1,000pt 획득한다",
+        "Story": "환원된 후 치밀해진 열계의 먼지 결정.<br><br><i>「이걸 앰버 로드에게 바치는 광석과 함께 두면 안 돼. 이건 스텔라론의 창조물이야. 이건 보존의 의지와 어긋나」</i>",
         "Icon": "233.png",
         "Pic": "233.png",
         "Src": [
@@ -1644,9 +1755,9 @@ var _item = {
     "235": {
         "_id": 235,
         "Rarity": 5,
-        "Name": "Relic Remains",
-        "Desc": "Material salvaged from Relics.",
-        "Story": "Broken parts of a relic that are one step away from decomposing into the Lightdust floating in the Fragmentum.<br><br><i>\"Don't take them for mere scraps. I can restore them to their original state.\"</i>",
+        "Name": "유물 잔해",
+        "Desc": "유물 분해 후 획득하는 물질",
+        "Story": "깨진 유물의 부속품. 금방이라도 라이트더스트로 분해되어 열계에 흩날릴 것 같다.<br><br><i>「이 고물들을 우습게 보지 마. 난 이걸 복원할 수 있다고」</i>",
         "Icon": "235.png",
         "Pic": "235.png",
         "Src": [
@@ -1657,9 +1768,9 @@ var _item = {
     "236": {
         "_id": 236,
         "Rarity": 5,
-        "Name": "Self-Modeling Resin",
-        "Desc": "Rare material used to custom-make Relics. It can model itself according to expectations.",
-        "Story": "This unknown resin is as smooth to the touch as finely-grained dust. It seems to be from the Fragmentum, and has been shaped into the form of a wish by an invisible hand.<br><br><i>\"Based on the Guild's research, the Self-Modeling Resin may be the basis of the Fragmentum's capacity to replicate entities...\"</i>",
+        "Name": "자가 변형성 레진",
+        "Desc": "유물을 만드는데 쓰는 희귀한 재료. 소망에 따라 자가 형상화할 수 있다",
+        "Story": "가는 먼지처럼 고운 이름 모를 레진. 열계에서 온 듯하다. 보이지 않는 손에 의해 소망하는 형상으로 만들어졌다.<br><br><i>「학회의 연구에 따르면, 자가 변형성 레진은 열계 복제의 기초일 가능성이 매우 높아……」</i>",
         "Icon": "236.png",
         "Pic": "236.png",
         "Src": [
@@ -1667,21 +1778,29 @@ var _item = {
         ],
         "Link": 1
     },
-    "22000": {
-        "_id": 22000,
-        "Rarity": 4,
-        "Name": "Before the Tutorial Mission Starts",
-        "Desc": "Light Cone for the Path of <color=#f29e38ff>Nihility</color>. Light Cone ability is only effective for characters of this Path.",
-        "Story": "<i>How much longer until the action starts?<br>You have the nerve to ask a question like that... is something wrong with the new recruit?<br>No.<br>Elio didn't choose her because she was good at field work, but she has to at least survive this rookie assignment.<br>She's cruising.<br>Then I'm relieved. It seems that Bladie has proved to be a reliable operative as well.<br>...</i>",
-        "Icon": "lightconeicons/22000.png",
-        "Pic": "LightCone/22000.png"
+    "110192": {
+        "_id": 110192,
+        "Rarity": 3,
+        "Name": "숙명적인 사인",
+        "Desc": "죽은 자의 미간에 박혀 물체의 틈새를 관통한다. 이 탄환은 언제나 총알구멍이 있어야 할 곳에 있다. <color=#f29e38ff>수렵</color> 캐릭터의 운명의 길 행적이 중폭 증가한다",
+        "Story": "수많은 군인 사이의 구불구불한 틈새를 지나, 견고한 헬멧의 가장 연약한 부분을 뚫어 기고만장한 폭군의 두개골 중심에 머물며 속삭이는 듯한 한숨을 내쉰다. 그곳에 나타나는 건 마치 치명적인 우연인 듯이, 그곳에 나타나는 건 마치 모두가 종점에 도달하는 듯이.<br><br><i>「때론 총알구멍의 존재가 탄도를 앞선다」</i>",
+        "Icon": "110192.png",
+        "Pic": "110192.png",
+        "Src": [
+            "Calyx: SoulGlad™ Scorchsand Audition Venue",
+            "Calyx: SoulGlad™ Scorchsand Audition Venue",
+            "Omni-Synthesizer — Material Synthesis",
+            "Embers Exchange",
+            "Omni-Synthesizer — Material Exchange"
+        ],
+        "Link": 1
     },
     "241": {
         "_id": 241,
         "Rarity": 5,
-        "Name": "Tracks of Destiny",
-        "Desc": "Advanced level-up material for Traces.",
-        "Story": "Your victory is secured by countless failures, and the small steps you have taken led you to the turning point of fate.",
+        "Name": "운명의 발자취",
+        "Desc": "행적 레벨업의 고급 소재",
+        "Story": "거듭되는 패배가 당신에게 승리를 가져다주었고, 한 걸음 한 걸음의 전진이 당신을 운명의 전환점으로 이끌었다",
         "Icon": "241.png",
         "Pic": "241.png",
         "Src": [
@@ -1693,29 +1812,47 @@ var _item = {
         ],
         "Link": 1
     },
+    "22002": {
+        "_id": 22002,
+        "Rarity": 4,
+        "Name": "내일의 여정을 위해",
+        "Desc": "<color=#f29e38ff>화합</color> 운명의 길 전용 광추. 광추 스킬은 해당 운명의 길에만 적용된다",
+        "Story": "나침반의 바늘이 끊임없이 회전하며 결국 꿈의 순간을 가리킨다.<br>차창밖, 기억 물질이 넘쳐나는 아스다나 은하계는 몽롱한 빛을 뿜고 있으며, 그곳에 위치한 변방 감옥은 전쟁의 불길이 끊이지 않는다.<br><br><i>「있잖아, 꿈속 세계는 어떤 모습일까? 완전한 지도를 꼼꼼하게 그려야겠어!」</i><br>소녀는 측정기를 거두고, 손에 닿을 수 있는 새로운 세계를 동경하며 바라봤다.<br><i>「그곳은 엉망이야. 너희 둘, 도착하면 함부로 돌아다니지 마. 또 저번처럼 납치당하면 난……」 </i><br>카우보이 차림의 남자는 무기를 닦고는 음료 한 잔을 들고 소파로 걸어갔고, 어쩔 수 없다는 듯 고개를 저었다.<br><i>「꿈의 땅에는 무한한 가능성이 존재해. 우린 반드시 일을 해낼 거야…. 차장, 우리가 이곳에 반해버려서 돌아오지 않으면 우리를 보고 싶어 할 거야?」 </i><br>신사적인 차림의 무명객이 폼폼을 향해 눈을 깜빡이며 미소 짓는다.<br><i>「차장을 함부로 놀리면 안 돼! 차장, 네가 하고 싶은 말이 이거지?」</i>소녀가 교활한 미소를 지었다.<br><i>「젠장! 너희들!」</i><br>탄산 기포가 음료 속에서 떠오르고, 열차 안은 웃음소리로 가득하다.<br>……<br><br>젊은 무명객의 뒷모습이 점차 기억 물질에 삼켜진다.<br><i>「조심히 가……」</i><br>뒤를 돌아봤을 때 열차 칸은 텅 비어 있었다.<br>그는 멍하니 있었다…. 그는 이런 광경을 이미 무수히 겪은 듯 했다",
+        "Icon": "lightconeicons/22002.png",
+        "Pic": "LightCone/22002.png"
+    },
     "22001": {
         "_id": 22001,
         "Rarity": 4,
-        "Name": "Hey, Over Here",
-        "Desc": "Light Cone for the Path of <color=#f29e38ff>Abundance</color>. The Light Cone ability is only effective for characters of this Path.",
-        "Story": "Three girls stroll in the darkness, and the surroundings seem to gain a hint of eeriness.<br>\"Huohuo, hurry up, or we won't wait for you!\"<br>She steps forward confidently with her phone clutched in her hand, seemingly unaffected by the paranormal ambiance.<br>\"I—I'm over here!\"<br>The girl standing ahead responds timidly.<br>\"Huh? So you were in the front all along, then who is following Shangshang and me...\"<br><br>The perfect end for this scene would definitely be a girlish scream.",
+        "Name": "저기, 나 여기 있어",
+        "Desc": "<color=#f29e38ff>풍요</color> 운명의 길 전용 광추. 광추 스킬은 해당 운명의 길에만 적용된다",
+        "Story": "세 소녀가 어두운 밤 속을 걷는다. 주변 풍경은 오싹한 분위기가 더해지고 있다.<br>「곽향 님, 어서 따라오세요, 안 그럼 저희 안 기다려요!」<br>그녀는 으스스한 분위기에 영향을 받지 않은 듯 휴대폰을 들고 앞으로 성큼성큼 나아간다.<br>「저… 저 여기 있어요!」<br>앞에 서 있는 소녀가 쭈뼛쭈뼛 대답한다.<br>「응? 앞쪽에 계셨어요? 그럼, 저랑 쏘쏘 뒤에 있는 건……」<br><br>이 장면에 가장 걸맞은 종지부는 분명 소녀의 비명일 것이다",
         "Icon": "lightconeicons/22001.png",
         "Pic": "LightCone/22001.png"
+    },
+    "22000": {
+        "_id": 22000,
+        "Rarity": 4,
+        "Name": "초보자 임무 시작 전",
+        "Desc": "<color=#f29e38ff>공허</color> 운명의 길 전용 광추. 광추 스킬은 해당 운명의 길에만 적용된다",
+        "Story": "<i>「얼마나 더 있어야 시작할 수 있지?」<br>「나한테 그런 걸 묻다니…. 신입한테 무슨 일이 생겼나 봐?」<br>「아니」<br>「엘리오께서 그녀를 부른 건 다른 이유 때문이지만, 그래도 초보자 임무에서는 살아남아야 할 텐데」<br>「그녀는 괜찮아」<br>「그렇다면 안심이야. 블레이디도 믿을 수 있는 선배가 된 모양이네」<br>「……」</i>",
+        "Icon": "lightconeicons/22000.png",
+        "Pic": "LightCone/22000.png"
     },
     "1013": {
         "_id": 1013,
         "Rarity": 4,
-        "Name": "Herta",
+        "Name": "헤르타",
         "Desc": "",
-        "Story": "Member 83 of the Genius Society. The real master of the space station.<br>An incredibly intelligent yet unsympathetic scientist.",
+        "Story": "「지니어스 클럽」 #83 회원, 우주정거장의 진짜 주인.<br>지혜롭지만 공감 능력이 전혀 없는 과학자다",
         "Icon": "SpriteOutput/AvatarIcon/1013.png",
         "Pic": "SpriteOutput/AvatarIcon/1013.png"
     },
     "503": {
         "_id": 503,
         "Rarity": 5,
-        "Name": "Herta Bond",
-        "Desc": "A reward from the Simulated Universe. Can be used to buy items from Herta's Store.",
+        "Name": "헤르타 채권",
+        "Desc": "「시뮬레이션 우주」 보상. 헤르타 상점에서 아이템을 구매할 수 있다",
         "Story": "",
         "Icon": "503.png",
         "Pic": "503.png",
@@ -1727,9 +1864,9 @@ var _item = {
     "401021": {
         "_id": 401021,
         "Rarity": 2,
-        "Name": "Clockie Pizza (Single Slice)",
-        "Desc": "Upon use, increases all allies' DMG by 24% and reduces their SPD by 5% for the next battle.",
-        "Story": "A pizza shaped like a clock, originally designed for sharing at parties, but is now also available in single slices for those who don't have many friends.<br><br><i>\"What is the meaning of its unique shape? Some see it as a tribute to a mysterious wealthy individual, while others see it as a reminder to cherish each passing moment.\"</i>",
+        "Name": "시계 피자(한 조각)",
+        "Desc": "사용 후 다음번 전투에서 모든 아군이 가하는 피해가 24% 증가하고, 속도가 5% 감소한다",
+        "Story": "시계 모양의 피자. 나누어 먹는 파티 음식이지만, 동료가 없는 고독한 사람을 위해 조각으로 출시되었다.<br><br><i>「이 음식의 독특한 모양에는 무슨 의미가 있는 걸까? 어떤 사람은 어느 신비한 부자를 기리기 위해서라고 하고, 어떤 사람은 사람들에게 현재를 소중히 여기라고 알려주기 위해서라고 한다」</i>",
         "Icon": "401021.png",
         "Pic": "401021.png",
         "Src": [
@@ -1741,9 +1878,9 @@ var _item = {
     "401022": {
         "_id": 401022,
         "Rarity": 2,
-        "Name": "Sliced Cake Stargazer",
-        "Desc": "Upon use, the target ally immediately regenerates 30% of their Energy.",
-        "Story": "One of the most renowned snacks in Penacony. Outsiders often recall its distinctive shape but hesitate to taste its flavor.<br><br><i>\"These fish heads gazing up the stars are trying to urge us to explore...\"</i><br><i>\"If you don't want to eat it, just say it.\"</i>",
+        "Name": "조각 케이크 「스타게이지」",
+        "Desc": "사용 후 즉시 지정된 단일 아군의 에너지를 30% 회복한다",
+        "Story": "페나코니의 유명한 간식 중 하나. 외부인은 그 독특한 모양만 기억할 뿐, 맛을 볼 용기는 내지 못한다.<br><br><i>「물고기가 밤하늘을 바라보며 늘 우리에게 탐험을 재촉하는군…」</i><br><i>「먹기 싫으면 싫다고 말해」</i>",
         "Icon": "401022.png",
         "Pic": "401022.png",
         "Src": [
@@ -1755,9 +1892,9 @@ var _item = {
     "401023": {
         "_id": 401023,
         "Rarity": 2,
-        "Name": "Mr. Herring's Lemon Tart",
-        "Desc": "Increase DEF of all allies by 25% in the next battle.",
-        "Story": "A sweet and tangy dessert made of lemon juice and red caviar.<br>The original recipe included a herring, which emitted a pungent odor disliked by the public. The negative feedback resulted in the current version containing only red caviar.<br><br><i>\"They never said it was a canned herring!\"</i>",
+        "Name": "「청어 씨」 레몬 타르트",
+        "Desc": "사용 후 다음번 전투에서 모든 아군의 방어력이 25% 증가한다",
+        "Story": "레몬즙과 연어알로 만든 디저트. 새콤달콤하고 맛있다.<br>예전에는 이 제품에 진짜로 청어가 끼워져 있었는데——대중들이 그 냄새를 싫어해서 지금의 연어알 버전만 남았다.<br><br><i>「이게 통조림 청어라고는 말해주지 않았잖아!」</i>",
         "Icon": "401023.png",
         "Pic": "401023.png",
         "Src": [
@@ -1770,191 +1907,191 @@ var _item = {
 
 var _tut = {
     "811001": {
-        "Desc": "In Cosmodyssey, you need to <color=#f29e38ff>roll dice</color> to advance on the map. Trailblazers can obtain <color=#f29e38ff>Trailblaze Funds</color> through a variety of game modes within.",
+        "Desc": "「은하 오디세이」에서는 <color=#f29e38ff>주사위를 던져</color> 맵에서 전진하고, 다양한 콘텐츠를 통해 <color=#f29e38ff>개척 크레딧</color>을 획득할 수 있습니다",
         "Img": "TutorialPage_811001.png"
     },
     "811002": {
-        "Desc": "Different board tiles will trigger different effects and Trailblaze Funds can be obtained from them.",
-        "Img": "TutorialPage_811001.png"
+        "Desc": "",
+        "Img": ""
     },
     "811003": {
-        "Desc": "Trailblazers can contribute their <color=#f29e38ff>Trailblaze Funds</color> to Pom-Pom. The more <color=#f29e38ff>funds</color> they contribute, the more <color=#f29e38ff>personal rewards</color> they unlock.<br>Contributions from all Trailblazers will gradually unlock Cosmic Contribution rewards.",
+        "Desc": "자신의 <color=#f29e38ff>개척 크레딧</color>을 폼폼에게 공헌하세요. 공헌한 <color=#f29e38ff>개척 크레딧</color>이 많을수록 더 많은 <color=#f29e38ff>개인 보상</color>이 개방됩니다.<br>모든 개척자의 공헌도에 따라 은하 공헌 보상이 순차적으로 개방됩니다",
         "Img": "TutorialPage_811003.png"
     },
     "811004": {
-        "Desc": "Contribute Trailblaze Funds and progress to specific nodes to obtain Node Rewards.",
-        "Img": "TutorialPage_811003.png"
+        "Desc": "",
+        "Img": ""
     },
     "810001": {
-        "Desc": "Accumulating <color=#f29e38ff>Grit Value</color> during battle can increase your <color=#f29e38ff>Grit Phase</color>.<br>When entering <color=#f29e38ff>\"Grit Phase 4: Might Unleashed\"</color>, you can obtain powerful stage buffs and significantly improve your combat effectiveness.",
+        "Desc": "전투 중 <color=#f29e38ff>「전의 수치」</color>를 누적하면 <color=#f29e38ff>「전의 단계」</color>를 올릴 수 있습니다.<br><color=#f29e38ff>「전의 4단계: 힘의 각성」 단계</color> 진입 시 강력한 스테이지 버프를 획득할 수 있고, 전투 효율이 크게 증가합니다",
         "Img": "TutorialPage_810001.png"
     },
     "810002": {
-        "Desc": "There are a total of <color=#f29e38ff>4</color> Grit Phases. With each higher phase you reach, you can additionally unlock 1 <color=#f29e38ff>Support Function</color> and obtain powerful stage buffs.<br>Before entering combat, you can choose to add different Support Functions for each stage.",
+        "Desc": "「전의 단계」는 총 <color=#f29e38ff>4</color>단계입니다. 더 높은 단계로 오를 때마다 <color=#f29e38ff>「서포트 기능」</color>을 1개 추가로 활성화하고 강력한 스테이지 버프를 획득할 수 있습니다.<br>전투 진입 전 스테이지마다 다른 「서포트 기능」을 선택하여 추가할 수 있습니다",
         "Img": "TutorialPage_810002.png"
     },
     "810003": {
-        "Desc": "Every time a character <color=#f29e38ff>takes action</color> in combat, Grit Value will be accumulated.<br>Every stage will have unique <color=#f29e38ff>Grit Mechanics</color>, and triggering them will greatly increase Grit Value, thus allowing you to quickly elevate your Grit Phase.",
+        "Desc": "전투 중 캐릭터가 <color=#f29e38ff>행동</color>할 때마다 「전의 수치」가 누적됩니다.<br>각 스테이지에는 독특한 <color=#f29e38ff>「전의 메커니즘」</color>이 마련되어 있습니다. 「전의 메커니즘」을 발동하면 「전의 수치」가 대폭 증가하고, 「전의 단계」를 빠르게 올릴 수 있습니다",
         "Img": "TutorialPage_810003.png"
     },
     "810101": {
-        "Desc": "Select a non-boss enemy with <color=#f29e38ff>low HP</color> and use <color=#f29e38ff>single-target DMG</color> ability on it.<br>After defeating the enemy, deals single-target DMG with <color=#f29e38ff>huge multipliers</color> to the <color=#f29e38ff>boss</color> based on the <color=#f29e38ff>Overflow DMG</color> dealt to the defeated unit.",
+        "Desc": "보스가 아닌 적 중에 <color=#f29e38ff>HP가 낮은</color> 적을 선택하여 <color=#f29e38ff>단일 공격</color> 스킬을 사용하세요.<br>적 처치 후 이번 공격으로 가한 <color=#f29e38ff>초과 피해</color>에 따라 적 <color=#f29e38ff>보스</color>에게 <color=#f29e38ff>높은 배율</color>의 단일 피해를 가합니다",
         "Img": "TutorialPage_810101.png"
     },
     "810102": {
-        "Desc": "During \"Grit Phase 4: Might Unleashed\", non-boss enemies will have their HP drastically reduced after entering battle.<br>Attention: The boss's HP for this current stage is extremely high. You can use the <color=#f29e38ff>Overflow DMG</color> dealt when defeating <color=#f29e38ff>non-boss enemies</color> to deal high amounts of DMG to the boss.",
+        "Desc": "「전의 4단계: 힘의 각성」 동안, 보스가 아닌 적은 전투 진입 후 HP가 대폭 감소합니다.<br>주의: 해당 스테이지의 적 보스는 HP가 매우 높습니다. <color=#f29e38ff>보스가 아닌 적</color>을 처치하여 발생되는 <color=#f29e38ff>초과 피해</color>를 이용해 적 보스에게 높은 피해를 가할 수 있습니다",
         "Img": "TutorialPage_810102.png"
     },
     "810201": {
-        "Desc": "Use <color=#f29e38ff>AoE</color> abilities to attack enemies.<br>After defeating a non-boss enemy, deals DMG with huge multipliers to the <color=#f29e38ff>boss</color> based on the <color=#f29e38ff>Overflow DMG</color> dealt in this attack.",
+        "Desc": "<color=#f29e38ff>단체 공격</color> 스킬로 적을 공격하세요.<br>보스가 아닌 적을 처치하면 이번 공격으로 발생된 <color=#f29e38ff>초과 피해</color>에 따라 적 <color=#f29e38ff>보스</color>에게 높은 배율의 피해를 가하게 됩니다",
         "Img": "TutorialPage_810201.png"
     },
     "810202": {
-        "Desc": "During \"Grit Phase 4: Might Unleashed\", non-boss enemies will have their HP drastically reduced after entering battle.<br>Attention: The boss's HP for this current stage is extremely high. You can use the <color=#f29e38ff>Overflow DMG</color> dealt when defeating <color=#f29e38ff>non-boss enemies</color> to deal high amounts of DMG to the boss.",
+        "Desc": "「전의 4단계: 힘의 각성」 동안, 보스가 아닌 적은 전투 진입 후 HP가 대폭 감소합니다.<br>주의: 해당 스테이지의 적 보스는 HP가 매우 높습니다. <color=#f29e38ff>보스가 아닌 적</color>을 처치하여 발생되는 <color=#f29e38ff>초과 피해</color>를 이용해 적 보스에게 높은 피해를 가할 수 있습니다",
         "Img": "TutorialPage_810202.png"
     },
     "810301": {
-        "Desc": "Do your best to make the <color=#f29e38ff>same character</color> perform consecutive actions.<br>You will accumulate a large amount of Grit Value after the same character performs <color=#f29e38ff>consecutive actions</color>",
+        "Desc": "아군의 <color=#f29e38ff>동일한 캐릭터</color>로 최대한 많이 연속 행동하세요.<br>동일한 캐릭터가 <color=#f29e38ff>연속 행동</color>하면 대량의 「전의 수치」를 누적할 수 있습니다",
         "Img": "TutorialPage_810301.png"
     },
     "810302": {
-        "Desc": "After characters cast their <color=#f29e38ff>Ultimates</color>, their actions are Advanced Forward by <color=#f29e38ff>100%</color>.<br>You can use Ultimates to make the same character act consecutively.",
+        "Desc": "캐릭터는 <color=#f29e38ff>필살기</color> 발동 후 행동 게이지가 <color=#f29e38ff>100%</color> 증가합니다.<br>필살기를 사용해 동일한 캐릭터로 연속 행동할 수 있습니다",
         "Img": "TutorialPage_810301.png"
     },
     "810401": {
-        "Desc": "After any ally performs <color=#f29e38ff>consecutive actions</color>, a large amount of Grit Value can be obtained.<br>Defeating enemies or <color=#f29e38ff>stopping enemy actions</color> are all viable means to have allies continue to take action.",
+        "Desc": "임의의 아군이 <color=#f29e38ff>연속 행동</color>하면 대량의 「전의 수치」를 누적할 수 있습니다.<br>적을 처치하거나 <color=#f29e38ff>적의 행동을 저지</color>하여 아군 캐릭터의 행동을 유지할 수 있습니다",
         "Img": "TutorialPage_810401.png"
     },
     "810402": {
-        "Desc": "After characters cast their <color=#f29e38ff>Ultimates</color>, their actions are Advanced Forward by <color=#f29e38ff>100%</color>.<br>You can use Ultimates to make the same character act consecutively.",
+        "Desc": "캐릭터는 <color=#f29e38ff>필살기</color> 발동 후 행동 게이지가 <color=#f29e38ff>100%</color> 증가합니다.<br>필살기를 사용해 동일한 캐릭터로 연속 행동할 수 있습니다",
         "Img": "TutorialPage_810401.png"
     },
     "810501": {
-        "Desc": "Defeat the <color=#f29e38ff>Trotters</color> in this stage to obtain a large amount of Grit Value.<br>You need to defeat the Trotter before it escapes.",
+        "Desc": "이번 스테이지에서 <color=#f29e38ff>저금통</color>을 처치하면 대량의 「전의 수치」를 누적할 수 있습니다.<br>저금통이 도망치기 전에 빠르게 처치하세요",
         "Img": "TutorialPage_810501.png"
     },
     "810502": {
-        "Desc": "Every <color=#f29e38ff>Trotter</color> defeated will inflict all enemies with the <color=#f29e38ff>Vulnerability debuff</color>.<br>Make good use of the debuffs applied by defeating Trotters to quickly take down the boss during \"Grit Phase 4: Might Unleashed\".",
+        "Desc": "<color=#f29e38ff>저금통</color>을 1마리 처치할 때마다 해당 저금통은 모든 적에게 <color=#f29e38ff>디버프 상태: 취약</color>을 부여합니다.<br>「전의 4단계: 힘의 각성」 동안 저금통 처치 후 획득한 디버프로 빠르게 보스를 처치하세요",
         "Img": "TutorialPage_810502.png"
     },
     "810601": {
-        "Desc": "Defeat the <color=#f29e38ff>Trotters</color> in this stage to obtain a large amount of Grit Value.<br>You need to defeat the Trotter before it escapes.",
+        "Desc": "이번 스테이지에서 <color=#f29e38ff>저금통</color>을 처치하면 대량의 「전의 수치」를 누적할 수 있습니다.<br>저금통이 도망치기 전에 빠르게 처치하세요",
         "Img": "TutorialPage_810501.png"
     },
     "810602": {
-        "Desc": "Every <color=#f29e38ff>Trotter</color> defeated will inflict all enemies with random <color=#f29e38ff>DoTs</color>.<br>Make good use of the DoTs applied by defeating Trotters to quickly take down the boss during \"Grit Phase 4: Might Unleashed\".",
+        "Desc": "<color=#f29e38ff>저금통</color>을 1마리 처치할 때마다 해당 저금통은 모든 적에게 랜덤 <color=#f29e38ff>지속 피해</color>를 부여합니다.<br>「전의 4단계: 힘의 각성」 동안 저금통 처치 후 적에게 부여하는 지속 피해로 빠르게 보스를 처치하세요",
         "Img": "TutorialPage_810502.png"
     },
     "810701": {
-        "Desc": "Grit Value accumulates when allies' HP <color=#f29e38ff>increases</color> or <color=#f29e38ff>decreases</color>.",
+        "Desc": "아군 캐릭터의 HP가 <color=#f29e38ff>증가</color> 또는 <color=#f29e38ff>감소</color>하면 「전의 수치」를 누적하게 됩니다",
         "Img": "TutorialPage_810701.png"
     },
     "810702": {
-        "Desc": "During \"Grit Phase 4: Might Unleashed\", every <color=#f29e38ff>1500</color> of HP increase or decrease grants 1 stack of buffs, up to 99 stacks.",
+        "Desc": "「전의 4단계: 힘의 각성」 동안, HP가 <color=#f29e38ff>1,500</color>pt 증가 또는 감소할 때마다 버프 1스택을 획득할 수 있습니다. 최대 중첩수: 99스택",
         "Img": "TutorialPage_810702.png"
     },
     "810801": {
-        "Desc": "Break the enemy's <color=#f29e38ff>Weakness</color> or attack <color=#f29e38ff>Weakness Broken</color> enemies to accumulate Grit Value.",
+        "Desc": "적의 <color=#f29e38ff>약점</color>을 격파하거나 <color=#f29e38ff>약점 격파</color> 상태의 적을 공격하면 「전의 수치」를 누적할 수 있습니다",
         "Img": "TutorialPage_810801.png"
     },
     "810802": {
-        "Desc": "Weakness Breaking <color=#f29e38ff>non-boss enemies</color> can remove the boss's <color=#f29e38ff>Weakness Protection</color>.<br>During \"Grit Phase 4: Might Unleashed\", the enemy Boss will not have Weakness Protection. Attacking enemies in the <color=#f29e38ff>Weakness Broken state</color> will provide immense buffs.",
+        "Desc": "<color=#f29e38ff>보스가 아닌 적</color>의 약점을 격파하면 적 보스의 <color=#f29e38ff>약점 보호</color>를 해제할 수 있습니다.<br>「전의 4단계: 힘의 각성」 동안 적 보스는 약점 보호가 없으며, <color=#f29e38ff>약점 격파 상태</color>의 적을 공격하면 대량의 버프를 획득합니다",
         "Img": "TutorialPage_810802.png"
     },
     "810901": {
-        "Desc": "Break the enemy's <color=#f29e38ff>Weakness</color> or attack <color=#f29e38ff>Weakness Broken</color> enemies to accumulate Grit Value.",
+        "Desc": "적의 <color=#f29e38ff>약점</color>을 격파하거나 <color=#f29e38ff>약점 격파</color> 상태의 적을 공격하면 「전의 수치」를 누적할 수 있습니다",
         "Img": "TutorialPage_810801.png"
     },
     "810902": {
-        "Desc": "Breaking an enemy's Weakness can inflict <color=#f29e38ff>Toughness reduction</color> on all enemies.<br>During \"Grit Phase 4: Might Unleashed\", the enemy Boss will not have Weakness Protection. Attacking enemies in the <color=#f29e38ff>Weakness Broken state</color> will provide immense buffs.",
-        "Img": "TutorialPage_810802.png"
+        "Desc": "적의 약점을 격파하면 모든 적에게 <color=#f29e38ff>강인성 소모</color>를 가할 수 있습니다.<br>「전의 4단계: 힘의 각성」 동안 적 보스는 약점 보호가 없으며, <color=#f29e38ff>약점 격파 상태</color>의 적을 공격하면 대량의 버프를 획득합니다",
+        "Img": "TutorialPage_810902.png"
     },
     "811101": {
-        "Desc": "When <color=#f29e38ff>the ally positioned first</color> in the Team Setup uses their <color=#f29e38ff>Ultimate</color>, accumulates Grit Value.",
+        "Desc": "아군 파티 편성의 <color=#f29e38ff>첫 번째 캐릭터</color>가 <color=#f29e38ff>필살기</color>를 발동하면 「전의 수치」를 누적할 수 있습니다",
         "Img": "TutorialPage_811101.png"
     },
     "811102": {
-        "Desc": "After <color=#f29e38ff>the ally positioned second</color> in the Team Setup uses their Ultimate, <color=#f29e38ff>charges Energy</color> for the ally positioned first, and increases the DMG dealt by the next attack from the ally positioned first.",
+        "Desc": "아군 파티 편성의 <color=#f29e38ff>두 번째 캐릭터</color>는 필살기 발동 후 첫 번째 캐릭터의 <color=#f29e38ff>에너지를 회복</color>시키고, 다음번 공격의 피해를 증가시킵니다",
         "Img": "TutorialPage_811102.png"
     },
     "811201": {
-        "Desc": "When <color=#f29e38ff>the ally positioned first</color> in the Team Setup uses their <color=#f29e38ff>Ultimate</color>, accumulates Grit Value.",
+        "Desc": "아군 파티 편성의 <color=#f29e38ff>첫 번째 캐릭터</color>가 <color=#f29e38ff>필살기</color>를 발동하면 「전의 수치」를 누적할 수 있습니다",
         "Img": "TutorialPage_811101.png"
     },
     "811202": {
-        "Desc": "The ally positioned first in the Team Setup <color=#f29e38ff>gains Energy</color> when <color=#f29e38ff>other allies</color> use their Ultimates, and there is a chance that the ally positioned first will have their next attack's DMG increased.",
+        "Desc": "아군 파티 편성의 첫 번째 캐릭터는 <color=#f29e38ff>다른 캐릭터</color>가 필살기를 발동하면 <color=#f29e38ff>에너지를 회복</color>하고, 일정 확률로 자신의 다음번 공격 피해가 증가합니다",
         "Img": "TutorialPage_811202.png"
     },
     "709001": {
-        "Desc": "If you want to temporarily exit the game or end the transformation, you can interact with the shrinking machine again or teleport using the Map.",
+        "Desc": "게임에서 나가거나 변신 상태를 해제하고 싶다면, 작아지는 기계와 다시 상호작용하거나 맵을 열어 텔레포트 하세요",
         "Img": "TutorialPage_709001.png"
     },
     "709101": {
-        "Desc": "Boss Stone's minions will experience true calamity when Hanu fires his missile! After taking aim at an enemy, hitting the fire button will unleash the Hanu Missile and consume ammunition.",
+        "Desc": "하누 형제가 하누 로켓포를 손에 놓은 이상, 스톤 보스의 부하들은 위험에 빠진 것이나 다름없습니다! 적을 조준하고 공격 버튼을 누르면 「하누 미사일」을 사용할 수 있습니다. 탄약을 소모해 적을 처치하세요",
         "Img": "TutorialPage_709101.png"
     },
     "709102": {
-        "Desc": "Enemies will drop ammo after being defeated. If one round of ammo hits multiple enemies, more ammo is dropped at once.",
+        "Desc": "적을 처치하면 탄약이 드랍됩니다. 한 발로 여러 명의 적을 명중하면 한 번에 대량의 탄약이 드랍됩니다",
         "Img": "TutorialPage_709102.png"
     },
     "709103": {
-        "Desc": "If Brother Hanu has no more ammo left, you can return to Hanu Launcher's position to unlock the Hanu Missile again and replenish 1 ammo.",
+        "Desc": "하누 형제가 사용할 수 있는 탄약이 없으면 하누 로켓포가 있던 곳으로 돌아가 「하누 미사일」을 다시 개방하여 탄약을 한 발 보충할 수 있습니다",
         "Img": "TutorialPage_709103.png"
     },
     "709201": {
-        "Desc": "If you use the Hanu Missile to ignite the fireworks, it will trigger an explosion that defeats enemies, and is even capable of destroying walls.",
+        "Desc": "「하누 미사일」로 폭죽을 터트리면 더 넓은 범위의 폭발을 일으켜 적을 처치할 수 있고, 벽도 부술 수 있습니다",
         "Img": "TutorialPage_709201.png"
     },
     "609501": {
-        "Desc": "The Clockie's Extras filming experience event now has more available activities. Guests are welcome to try them out!",
+        "Desc": "≪시계 소년≫ 외전의 촬영 체험 이벤트에 더 많은 프로그램이 개방되었습니다. 어서 와서 체험해 보세요!",
         "Img": "TutorialPage_609501.png"
     },
     "610301": {
-        "Desc": "When you face obstacles coming from both sides, <color=#f29e38ff>press and hold the Flip button</color> to stay in the middle of the Spheroid lane and pass them safely.",
+        "Desc": "위아래에서 동시에 장애물이 나타날 때 <color=#f29e38ff>뒤집기 키를 길게 {LAYOUT_MOBILE#터치하면}{LAYOUT_CONTROLLER#누르면}{LAYOUT_KEYBOARD#클릭하면}</color> 스페로이드 궤도를 안전하게 통과할 수 있습니다",
         "Img": "TutorialPage_610301.png"
     },
     "610401": {
-        "Desc": "In Sequel Mode, the tracks will continue <color=#f29e38ff>endlessly</color>. Challenge yourself and create your <color=#f29e38ff>highest all-time score</color>!",
+        "Desc": "속편 모드에서는 궤도가 <color=#f29e38ff>무한으로</color> 이어집니다. 자신의 한계에 도전하고 <color=#f29e38ff>역대 최고 평점</color>을 달성하세요!",
         "Img": "TutorialPage_610401.png"
     },
     "605201": {
-        "Desc": "{LAYOUT_MOBILE#Tap}{LAYOUT_CONTROLLER#Press}{LAYOUT_KEYBOARD#Click} the Flip button to dodge obstacles and opponents. If you dodge right before you're about to crash into a roadblock, you will trigger <color=#f29e38ff>Turbo Dash</color> and experience a short period of invulnerability.",
+        "Desc": "뒤집기 키를 {LAYOUT_MOBILE#터치하면}{LAYOUT_CONTROLLER#누르면}{LAYOUT_KEYBOARD#클릭하면} 상대와 장애물을 피할 수 있습니다. 부딪히기 직전에 피하면 <color=#f29e38ff>「터보 대시」</color>를 발동하고, 짧은 무적 상태에 진입합니다",
         "Img": "TutorialPage_605201.png"
     },
     "605202": {
-        "Desc": "Energy can be accumulated by triggering Turbo Dash and picking up supplies. When energy is full, you will enter <color=#f29e38ff>Nutty Blitz</color> and experience a long period of invulnerability.",
+        "Desc": "터보 대시를 발동하거나 보급 아이템을 주우면 에너지가 누적됩니다. 에너지가 가득 차면 <color=#f29e38ff>「견과 질주」</color>에 진입해 한동안 무적 상태가 됩니다",
         "Img": "TutorialPage_605202.png"
     },
     "605203": {
-        "Desc": "The film's length is limited in Movie Mode. The progress bar below indicates <color=#f29e38ff>the filming progress</color>.",
+        "Desc": "영화 모드에선 영화 길이에 제한이 있습니다. 하측의 게이지는 <color=#f29e38ff>촬영 진도</color>를 나타냅니다",
         "Img": "TutorialPage_605203.png"
     },
     "605204": {
-        "Desc": "<color=#f29e38ff>Audience Score</color> will be accumulated by conducting Turbo Dash, picking up supplies, or slamming into opponents or obstacles while invulnerable. Trigger the events above as many times as you can to achieve the <color=#f29e38ff>target Audience Score</color>!",
+        "Desc": "리미트 슈퍼카 또는 보급 아이템 줍기는 <color=#f29e38ff>관객 평점</color>을 누적할 수 있습니다. 견과 질주를 최대한 많이 발동하고 <color=#f29e38ff>목표 관객 평점</color>을 달성하세요!",
         "Img": "TutorialPage_605204.png"
     },
     "605301": {
-        "Desc": "When you face obstacles coming from both sides, <color=#f29e38ff>press and hold the Flip button</color> to stay in the middle of the Spheroid lane and pass them safely.",
+        "Desc": "위아래에서 동시에 장애물이 나타날 때 <color=#f29e38ff>뒤집기 키를 길게 {LAYOUT_MOBILE#터치하면}{LAYOUT_CONTROLLER#누르면}{LAYOUT_KEYBOARD#클릭하면}</color> 스페로이드 궤도를 안전하게 통과할 수 있습니다",
         "Img": "TutorialPage_605301.png"
     },
     "605401": {
-        "Desc": "Select the Fire button and Hanu will fire toward the other side of the tracks. If the attack hits an opponent or an obstacle, it will trigger an <color=#f29e38ff>Action Scene</color> and you will enter a short period of invulnerability.",
+        "Desc": "발사 키를 {LAYOUT_MOBILE#터치하면}{LAYOUT_CONTROLLER#누르면}{LAYOUT_KEYBOARD#클릭하면} 하누 형제가 궤도 반대편을 향해 공격합니다. 적 또는 장애물을 명중하면 <color=#f29e38ff>「액션신」</color>을 발동하고, 잠시 무적 상태에 진입합니다",
         "Img": "TutorialPage_605401.png"
     },
     "605402": {
-        "Desc": "Energy can be accumulated by conducting Action Scenes and picking up supplies. When energy is full, you will trigger <color=#f29e38ff>Hanu Time</color> and enter a long period of invulnerability.",
+        "Desc": "액션신을 발동하거나, 보급 아이템을 주우면 에너지가 누적됩니다. 에너지가 가득 차면 <color=#f29e38ff>「하누 타임」</color>에 진입하고, 한동안 무적 상태가 되며 자동으로 발사합니다",
         "Img": "TutorialPage_605402.png"
     },
     "605403": {
-        "Desc": "The film's length is limited in Movie Mode. The progress bar below indicates <color=#f29e38ff>the filming progress</color>.",
+        "Desc": "영화 모드에선 영화 길이에 제한이 있습니다. 하측의 게이지는 <color=#f29e38ff>촬영 진도</color>를 나타냅니다",
         "Img": "TutorialPage_605403.png"
     },
     "605404": {
-        "Desc": "<color=#f29e38ff>Audience Score</color> will be accumulated by conducting Action Scenes, picking up supplies, or slamming into opponents or obstacles while invulnerable. Trigger the events above as many times as you can to achieve the <color=#f29e38ff>target Audience Score</color>!",
+        "Desc": "액션신을 발동하거나, 보급 아이템을 줍거나, 무적 상태에서 상대 또는 장애물에 부딪히면 <color=#f29e38ff>관객 평점</color>이 누적됩니다. 앞서 언급한 행동을 최대한 많이 발동해서 <color=#f29e38ff>목표 관객 평점</color>을 달성하세요!",
         "Img": "TutorialPage_605404.png"
     },
     "605501": {
-        "Desc": "In Sequel Mode, the tracks will continue <color=#f29e38ff>endlessly</color>. Challenge yourself and create your <color=#f29e38ff>highest all-time score</color>!",
+        "Desc": "속편 모드에서는 궤도가 <color=#f29e38ff>무한으로</color> 이어집니다. 자신의 한계에 도전하고 <color=#f29e38ff>역대 최고 평점</color>을 달성하세요!",
         "Img": "TutorialPage_605501.png"
     }
 }
@@ -1962,5 +2099,6 @@ var _tut = {
 var _ver = [
     "1.x",
     "2.0",
-    "2.1"
+    "2.1",
+    "2.2"
 ]

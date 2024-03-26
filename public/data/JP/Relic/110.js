@@ -3,27 +3,27 @@
 var _relicitem_ = {
     "110": [
         {
-            "Name": "Eagle's Beaked Helmet",
-            "Desc": "An aerodynamic helmet used in high-speed flights. It is shaped like the beak of a skyfish eagle.",
-            "Story": "Every day at dawn, Salsotto's skyfishers would depart from the moving city's skyport, soaring in the air with their winged suits, hunting for phlogiston jellyfish that flew out of the sand.<br><br>Phlogiston, an essential component of the Phase Flame, was the blood of the colossal moving city. Phlogiston must be sufficiently captured and gathered to ensure that the whole city could always stay ahead before the twilight zone that divided day and night.<br><br>If any skyfishers died from exhaustion or were attacked by giant birds, Salsottians would spare no effort in bringing back their remains and would bury their winged suits and eagle helmets with them in the dark land. According to the traditional Salsottian rituals, \"landing\" equals death and is a symbol of eternal rest.<br><br>The flight must never stop, just like how the city must never stop moving.<br><br>This eagle helmet has a short condolence message carved on its beak: \"Landing is not the eagles' shackle, wings are, because of which you have to fly.\"",
+            "Name": "{RUBY_B#そらと}空飛{RUBY_E#}ぶ{RUBY_B#たか}鷹{RUBY_E#}の{RUBY_B#ちょうし}長嘴{RUBY_E#}ヘルメット",
+            "Desc": "高速飛行に使われるヘルメット。鷹の嘴に似ている。",
+            "Story": "サルソットの空漁人は、毎日夜明けに移動都市の「エアーポート」から出発し、滑空スーツを着て空を飛び、砂から飛び出す燃素クラゲを狩る。<br><br>「位相霊火」で構成された燃素クラゲは巨大な移動都市を駆動する血液、十分な量を捕獲しなければ、都市は明暗境界線に追いつかれてしまう。<br><br>もし誰かが力尽きたり、巨大な鳥に襲われ命を落とした場合、サルソット人はあらゆる手段を講じてその遺骸を持ち帰り、滑空スーツとヘルメットを亡骸と共に暗黒の大地に埋葬する。サルソットの伝統儀式の中で、「地に落ちる」とは死であり、永遠の休息である。<br><br>飛翔を止めてはいけない、都市も止めてはいけない。<br><br>鷹の嘴型のヘルメットの先の部分には、辞世の句が刻まれている。「大地は鷹を縛る鎖ではない、翼こそが鎖なのだ。翼があるから、お前は飛び続ける」",
             "Icon": "IconRelic_110_1.png"
         },
         {
-            "Name": "Eagle's Soaring Ring",
-            "Desc": "A ring worn by an outstanding skyfisher master, with a pair of skyfish eagle's wings holding tight the wearer's finger.",
-            "Story": "Only the most skilled, respected, and reliable skyfisher captains would receive a Soaring Ring. They blew their fishing whistles in the sky and seamlessly coordinated with one another, like they were the most sharp-eyed hunting eagles.<br><br>For the duration of each flight, each team member was lonely and vulnerable. All they could rely on were the 124 types of whistles that could be performed by their team captain.<br><br>Hence, there had long been a saying in Salsotto — \"Skyfishers entrusted one-third of their lives to the rigorously developed technology, one-third to their ingeniously refined equipment, and one-third to their reliable lead skyfisher captain.\"<br><br>Being asked by so many families to take care of their skyfisher children, the team captain constantly felt the burden of this little ring he wore.<br><br>This Soaring Ring's etching was mottled, with one word engraved on the inner side of the ring: \"Responsibility.\"",
+            "Name": "{RUBY_B#そらと}空飛{RUBY_E#}ぶ{RUBY_B#たか}鷹{RUBY_E#}の{RUBY_B#そうよくゆびわ}双翼指輪{RUBY_E#}",
+            "Desc": "卓越したベテラン空漁人が付けている指輪、空漁鷹の翼を模っている。",
+            "Story": "技術が最も卓越していて、最も尊敬され、頼りにされる空漁隊長だけが「双翼指輪」を授与される。彼らは最も鋭い鷹、空中で笛を鳴らし、隙のない連携を組む。<br><br>孤独で脆い飛行の中、隊長から伝わる 124 種の「音色」だけが、隊員たちの頼りになる。<br><br>そのため、サルソットではとある諺がある：「空漁人はその命の3分の1を熟練の技に、3分の1を巧みな道具に託している。そして最後の3分の1を信頼できるリーダーに託している」<br><br>多くの家庭から子を託された隊長は、その小さな指輪の重さを切実に感じる。<br><br>この指輪のエッチングは既に劣化している、内側には「責任」という単語が刻まれている。",
             "Icon": "IconRelic_110_2.png"
         },
         {
-            "Name": "Eagle's Winged Suit Harness",
-            "Desc": "A belt harness that connects the winged suit with metal supports embedded in thick linen. Soft and tight-fitting.",
-            "Story": "It was no easy feat for Salsotto's skyfishers to entrap and hunt phlogiston jellyfish that flew out of the sand. During turbulent flights, the seemingly tender and soft safety harness was the thread of life for a skyfisher.<br><br>Hunting phlogiston jellyfish was never easy. From trick moves to intense chasing, from precise blocking to the final capturing act, one wrong move in any one of these links in the chain could mean mortal danger.<br><br>It was customary for a young skyfisher to get one strand of hair from each parent and weave them into the harness with metal supports, while a married one should get one from their spouse. In this manner, the harness would be blessed by the power of \"home\" and ensure that the skyfisher always returned safely.<br><br>In this cruel world where all fought hard for survival, \"home\" was the only place that could offer comfort and support for a skyfisher.<br><br>The hair inside this harness was still intact, with a faint white at the root. It came from a female.",
+            "Name": "{RUBY_B#そらと}空飛{RUBY_E#}ぶ{RUBY_B#たか}鷹{RUBY_E#}の{RUBY_B#よくそう}翼装{RUBY_E#}ベルト",
+            "Desc": "滑空スーツの翼を繋ぐベルト、金属支柱は厚手の麻束の中に隠されており、柔らかく体にフィットする。",
+            "Story": "サルソットの空漁人にとって、砂の中から飛んでくる燃素クラゲを捕らえるのは容易ではない。乱気流の中で、一見柔らかくか細いベルトは、都市の外の空域を吹き抜ける強風の中では空漁人の命綱となるのだ。<br><br>砂から飛び出る燃素クラゲを捕まえるのは非常に難しい。フェイント、追い込み、獲物の確保、どの作業も常に命の危険が伴う。<br><br>未成年の空漁人は、両親の髪をそれぞれ1本ずつ支柱に編み込むが、結婚している場合は配偶者が用意することになっている。そのようにして出来たベルトは、「家」の祝福の下、空漁人が無事に家に帰れるように守ってくれる。<br><br>残酷な世界で空漁人を優しく支えてくれるのは、「家」だけだ。<br><br>このベルトに編み込まれた髪は女性のもののようである、根本は少し白い。",
             "Icon": "IconRelic_110_3.png"
         },
         {
-            "Name": "Eagle's Quilted Puttees",
-            "Desc": "Puttees to keep the legs warm during flights, decorated with a skyfish eagle's bristle feathers.",
-            "Story": "Hunting phlogiston jellyfish was a long survival game for skyfishers from Salsotto. Legs, being far from the heart, can only maintain their temperature when tightly strapped in fluffy feather puttees.<br><br>Only at the end of the long and highly stressful hunt would an exhausted skyfisher begin to feel pain and fatigue.<br><br>For those unprepared, it would be too late to discover their partial necrosis caused by severe frostbite. Therefore, skyfishers would check if they had tightened their puttees many times before taking off. After all, they wouldn't get another chance to do so in high-speed flight.<br><br>They knew what the wind would take away as they stepped into the sky.<br><br>Traces of lime powder and aluminum powder were found in the metal shell embedded in the puttee, which seemed to be a means of emergency heating.",
+            "Name": "{RUBY_B#そらと}空飛{RUBY_E#}ぶ{RUBY_B#たか}鷹{RUBY_E#}の{RUBY_B#うもう}羽毛{RUBY_E#}バンド",
+            "Desc": "飛行中に足の温度を維持するバンド、空漁鷹の羽があしらわれている。",
+            "Story": "サルソットの空漁人が燃素クラゲを狩る過程は生存をかけた長い戦いである。心臓から離れた両脚は、羽毛バンドで包み温度を保つ必要がある。<br><br>限界を迎えた肉体に痛みや疲れが現れ始めるのは、いつも長時間の激しい狩りの後。<br><br>対策が不十分だった空漁人は、その時やっと重度の凍傷による局所的な壊死に気付く。そのため、空漁人は出発する前に何度もバンドの状態を確認する、高速飛行の間に二次調整のチャンスはないからだ。<br><br>彼らは天空に足を踏み入れたその時から分かっている、疾風が何を持っていくかを。<br><br>このバンドに内蔵された金属製のケースには、石灰やアルミの粉末が使われていた痕跡がわずかに残っており、非常用の加熱手段として使われていたようだ。",
             "Icon": "IconRelic_110_4.png"
         }
     ]

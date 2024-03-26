@@ -999,24 +999,184 @@ var _story_ = {
 var _voice_ = {
     "1306": [
         {
-            "_id": 1,
-            "Story": "A member of the Masked Fools. Inscrutable and unscrupulous.<br>A dangerous maestro of theatrics, utterly engrossed in the art of performance. Adorned with innumerable masks, she is the hero with a thousand faces.<br>Wealth, status, power... None of those matters to Sparkle. The only thing that can get her attention is \"amusement.\""
+            "Title": "First Meeting",
+            "Voice": "Hey hey, I'm Sparkle! Got any cool, daring quests or risky biz? Just hit me up! If it piques my interest we can talk money. The main thing is about having a riot of a time, right?"
         },
         {
-            "_id": 2,
-            "Story": "The girl, an abandoned orphan, lived without knowledge of her origins or destination until she encountered a passing troupe. From a distance, she watched a black-haired lady with a double ponytail, gracefully moving across the stage like a fish. Despite donning various masks, they did not hinder her laughs and cries during her performance, captivating the audience even from afar. The fish leaped in front of her, then dove back down, creating ripples in the surface of the water.<br><br>Gradually, she realized she was watching the performance from beneath the stage.<br><br>Intrigued, she continued to watch the performances for countless days, but she remained an audience member, never stepping into the spotlight. After one of the shows ended, she went backstage, where the black-haired lady handed her a mask.<br><i>\"Can I perform, too?\"<br>\"Why not? If others believe you are 'Sparkle,' then you are. Go, it's time for your show.\"</i><br><br>As the curtain, serving as the fourth wall, was drawn, the stage remained dimly lit, revealing an unsettling black void. Though wearing a mask, she knew the audience could see and hear her. She kept recalling Sparkle's performance, imitating her movements, voice, and demeanor.<br><br><i>\"You've done very well for your first time.\"<br>\"But my imitation... Was not perfect.\"<br>\"That is a minor hiccup, but not a problem as long as nobody notices the difference... By the way, we are leaving tomorrow, so for as long as you want, you are the true Sparkle here, and you can make her whoever you want her to be.\"</i><br>Sparkle wanted to say something, but the lady affectionately rubbed her head.<br><i>\"Not many people come to see us, except for you. We're just a small troupe, and we don't have grand aspirations of becoming famous in the cosmos... It brings me joy to meet someone like you who will remember an insignificant character named Sparkle... Don't cry, you can keep this mask. Now it's yours.\"</i><br>Sparkle nodded.<br><i>\"When you don this mask, you have the power to become anyone and no one... If you truly aspire to be an actor, don't limit yourself to this small stage. Set your sights on the larger world and explore new horizons.\"</i>"
+            "Title": "Greeting",
+            "Voice": "Oh wow, we seem to be crossing paths a lot lately... Where could I have seen you before? Can you figure it out?"
         },
         {
-            "_id": 3,
-            "Story": "As the last descendant of the Puppet Clan, the girl lacked the freedom to choose. She was bound to live her life according to the dictates of the mask, as puppets were mere vessels for the masks.<br><br>According to their legend, the longer a puppet dons a mask, the higher the chances of the puppet acquiring a soul, resembling a true human. However, in human folklore, masks were depicted as tools used for resurrecting the deceased, thus leading to the dwindling numbers of her people.<br><br>However, as she had no interest in becoming human, being a doll was not an unfavorable choice for her. She dutifully obeyed the commands of the mask, despite the risk of attracting pursuers, as defying the mask proved to be challenging.<br><br>Movement was a crucial aspect.<br>By the will of the mask, she needed to smile sweetly when happy, hold her forehead while crying, grit her teeth when angry, narrow her eyes when jealous, and make a scene when in despair. There were also signature gestures, such as raising her eyebrows slightly to face others with the left side of her face, and raising her hand to express love, although she had to lower it later, as slightly biting her lower lip was the way to convey her true desires.<br><br>Voice was another aspect.<br>Depending on the situation, her voice needed to be cheerful when happy, mellifluous when expressing lyrical emotions, calm and assertive when making statements, strained when harboring hatred, and sorrowful when filled with grief.<br><br>Remarkably, she managed to sustain this way of life for years, seamlessly blending into her surroundings and even becoming a playwright. Nobody ever suspected that she wore a mask. However, she couldn't help but wonder if there existed another type of \"mask\" in the world — perhaps someone wearing such a mask would laugh when seeking revenge, shed tears when smiling, remain silent when raging... And speak the most sarcastic remarks with the utmost calmness.<br><br>Naturally, she couldn't do this due to the will of the mask, but as a playwright, making her characters on stage act like this was easy for her.<br><br>One morning, the doorbell rang, but it wasn't her usual delivery person at the door.<br><i>\"Dear Miss Sparkle, I wonder if we could have a chat?\"<br>\"We have read your latest work, and we're curious if you know anything about the 'Mask'...\"</i><br>"
+            "Title": "Parting",
+            "Voice": "See you around, Nameless~ Try to stay out of trouble, especially... the next time we meet!"
         },
         {
-            "_id": 4,
-            "Story": "The faceless girl realized that she must be under some kind of curse. Why else couldn't she feel any stimuli? Her sense of pain, taste, and smell were all intact, yet she was unable to react to them. Naturally, she couldn't experience joy, anger, sadness, or a range of emotions. She could only strive to observe others' reactions in various situations to understand their feelings.<br><br><i>\"...How would you feel if you were drinking a cup of bitter tea? How would you drink it?\"</i><br>Although tied to the chair and immobilized, the homeless man on the left made an appreciative gesture and nodded. The girl in the middle immediately cried and shook her head in denial, while the madam on the right wrinkled her nose in disgust.<br><br><i>\"What if you were in an extremely cold hut, with only this cup of tea at hand?\"</i><br>Naturally, the man nodded. The girl cried for a while and then reluctantly accepted, while the lady still reacted in disgust.<br><br>She continued to change her scenarios and ask questions day and night until her interviewees passed out. She would send them home and seek out new targets for her \"interviews.\"<br><br>During that time, the town's inhabitants all had the same nightmare. They found themselves trapped in a place where a blurred-faced young girl politely asked them questions, and they had no choice but to answer. They could only provide responses repeatedly until the young girl meticulously recorded every detail on paper masks, one after another. Whenever a mask was filled, it was replaced by another.<br><br>This nightmare was soon replaced by another, as residents claimed to see paper masks flying through the air in the middle of the night. The masks would talk to each other, faintly glowing before eventually fading out, resembling sparklers in the night sky. They appeared every night, as if they were residents living in the shadow of the town.<br><br>In a dark basement, a young lady remained unaware of this nightmare. She had gathered enough information about people's nuanced emotions and their perceptions of different things... To make more paper masks. She firmly believed that although she possessed no emotions, the masks she created had flesh and blood. She even believed that one day, they would become real beings."
+            "Title": "About Self: Name",
+            "Voice": "Me, I'm happy being a side character in the background, cheering on those who have the limelight, then, at the climax of the performance, I'll suddenly shoot into the sky— bang! Sparkling like fireworks into brilliant colors— You think the leading character would dare do this?"
         },
         {
-            "_id": 5,
-            "Story": "<i>\"There are a few versions that are particularly popular.\"</i> When Sparkle arrived at Fool's Tavern, she admitted her deeds. <i>\"Liking and believing are two different things, but people are more likely to believe in their favorite stories.\"</i><br><br><i>\"Lies? Come on, I'm not trying to tell a grand story or fabricate an eye-catching experience... I'm wholeheartedly exercising my imagination for my own sake. I imagine various lives, seek excitement, and then recreate them as best I can, and pump the brakes on my imaginative balloon just a second before it bursts.\"<br><br>\"Seriously, having a script is far from enough. First and foremost, I must wholeheartedly believe that the character I'm portraying truly exists. Then, I need to imagine the other stories where the character would appear. I always need extra information to make their motivation logical and emotional.\"<br><br>\"And only then will I feel I can grasp the essence of the character without being influenced by others. After all, I might encounter other Fools, and I won't know what they want until I know who they are. Sometimes, you simply like the appearance of a character, and sometimes, you just want to experience it for fun. I do that sometimes, too.\"<br><br>\"And of course, there are those who play solely for the sake of gain or to be regarded in that way, hoping for unimaginable wealth, status, or power... Anyway, what I'm trying to convey is that in such an environment, who but myself can guarantee that I won't stray from my intended path and become a character in someone else's story? Nobody! That's why I have to tirelessly imagine and immerse myself in the act.\"<br><br>\"No, I'm not denying it... It's truly addictive to me. The more I imagine, the more I get absorbed in those characters, the wonderful and tragic situations I create for them, and the emotions they experience in those circumstances...\"<br><br>\"Sure, I used to think about that kind of life... Joining a troupe, becoming an actor, traveling to unknown planets for performances, creating a character with my own name on it... But then, one day, I had a sudden realization!\"<br><br>\"If you want to perform, is there a stage more captivating than your own life?\"</i>"
+            "Title": "About Self: Dream",
+            "Voice": "I'm not one with many talents, and having a dream isn't really my thing. But my latest goal is... getting into the Genius Society! Yes, I wanna impersonate a genius! Ha, I'm itching to try. Think anyone will fall for it?"
+        },
+        {
+            "Title": "About Self: Past",
+            "Voice": "An abandoned orphan, a cursed little girl, the last descendant of the puppet clan... I can tailor it to the tastes of the individual⁓"
+        },
+        {
+            "Title": "Chat: Masked Fools",
+            "Voice": "This world's just like a big non-stop circus showcasing beasts brawling all day and night: bears on unicycles, lions leaping through fire hoops, monkeys juggling bowls... The only thing that sets us \"Fools\" apart from the rest of you is we're already in on the act."
+        },
+        {
+            "Title": "Hobbies",
+            "Voice": "I dig jokes — there's just too much sorrow and resentment in the world. Sure, jokes won't make the world any better, but they don't make it any worse either."
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "Rules, societal dos and don'ts, all these made-up human moral codes — I've given it my all, but I just can't seem to shirk them!"
+        },
+        {
+            "Title": "Something to Share",
+            "Voice": "So, we've got this arrogant Aeon named \"Nanook\" out there in the cosmos, and they genuinely believe that, without them, the entire universe <i>wouldn't</i> be headed straight for \"Destruction!\" Not funny? Okay, wanna hear my \"Preservation\" version?"
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "The big shots think they know how this world ticks, so they're out here making all the rules, judging what's legal, what's moral... they even want a say in what jokes make the cut! To me, that's the real joke."
+        },
+        {
+            "Title": "About Sampo",
+            "Voice": "He's quite the entertaining one, and dependable when it comes to handling matters. The only thing with this guy is... he's got a line he won't cross... having limitations always kills the vibe!"
+        },
+        {
+            "Title": "About Black Swan",
+            "Voice": "Graceful, entertaining, distinguished, yet dangerous... I'm just itching to bring someone like that down, but hey, her wrecking me... is totally on the table too!"
+        },
+        {
+            "Title": "About Aventurine",
+            "Voice": "Seriously, who'd ditch an invite to our \"tavern\" to go rub shoulders with the corporation's drones? Still, if he'd simply become a friend, our relationship with him today would be far less interesting..."
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "A foolish sage or a wise fool... Who will I become next?"
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "Let's push the envelope further, shall we?"
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "Having fun? That's all that matters!"
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "Rules, are made to be broken~"
+        },
+        {
+            "Title": "Added to Team With Trailblazer",
+            "Voice": "I promise you won't be bored with me. Can you say the same?"
+        },
+        {
+            "Title": "Added to Team With Black Swan",
+            "Voice": "My dear Memokeeper, are you bold enough to let me guard your back?"
+        },
+        {
+            "Title": "Added to Team With Sampo",
+            "Voice": "Shouldn't the \"Fool\" introduce himself to everyone?"
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "Oops, did that hurt?"
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "The~ Game~ Is~ On~"
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "Why don't you stay and play for a while?"
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "Don't worry, I'll go easy."
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "You have 10 seconds — 10, 9...1!"
+        },
+        {
+            "Title": "Basic ATK",
+            "Voice": "I'll play the bad guy~"
+        },
+        {
+            "Title": "Skill 1",
+            "Voice": "Don't move, okay?"
+        },
+        {
+            "Title": "Skill 2",
+            "Voice": "Let's kick it up a notch."
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "Ouch ouch ouch."
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "Like that, huh?"
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "Let's play hide and seek."
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "A thousand faces in a thousand places... can you find the answer?"
+        },
+        {
+            "Title": "Downed",
+            "Voice": "Done playing for today..."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "Can I finish my nap first?"
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "There's no power like team power~"
+        },
+        {
+            "Title": "Technique",
+            "Voice": "Watch this~"
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "That's what I call a good day~"
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "That's it? Guess it'll have to do."
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "Aw, isn't there more?"
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "That's more like it!"
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "Everyone likes a clever girl, right?"
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "Not too shabby — wanna teach me next time?"
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "Better surrender while you have the chance~"
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "Wonder where I'm needed this time?"
         }
     ]
 }

@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21010": "Looking rather skeptical, the girl thrust the small sword at her imaginary enemy in an attempt to convince herself that this thing was useful.<br>How can something so feeble compete with my two-handed sword? Do enemies even notice when they get stabbed?<br><br>The owner of the sword did not seem to care about its size.<br>After all, enemies are defeated by strategy, not swords.<br>It doesn't matter whether the sword is heavy or light, as long as you use the pointy end."
+    "21010": "少女は納得できないといった顔で、手にした細い剣を振る。<br>自分の剣は、両手でやっと振り回せるものだ。それなのに、この剣は剣と言えるのだろうか？そんな剣で敵を倒せるのだろうか？<br><br>しかし剣の主は、それを気にしていない、何しろ――<br>敵を殺めるのは剣ではなく、その心であるからだ。<br>重かろうと細かろうと、何の変わりもない。"
 }
 
 var _weaponskill_ = {

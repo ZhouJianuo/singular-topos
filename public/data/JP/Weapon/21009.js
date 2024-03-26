@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21009": "<i>\"Did you not hear me? Don't go there ever again! What could you possibly be learning from those commoners!\"<br>\"But I've never heard any of the stories they tell about Belobog before...\"</i><br><br>She pulled her brother behind her, denying him the chance to talk back.<br><i>\"You are both Landaus! One day, you'll face hard choices. Especially you, Serval.\"</i><br><br>She knew that her brother did nothing wrong, but she couldn't think of a rebuttal.<br>She went to bed angry after the argument, vowing to herself:<br><i>\"I will be a grown-up one day. And when that day comes, I will make choices...\"<br>\"My own choices...\"</i>"
+    "21009": "<i>「いいこと？明日からは行ってはいけません！平民と一緒に居ても良くないことを学ぶだけ！」<br>「でも、みんなが話してたベロブルグのお話、僕、聞いたことない…」</i><br><br>彼女はまだ何か言おうとする弟を自分の後ろに庇った。<br><i>「あなたたちはランドゥーの者よ。特にセーバル、あなたもいずれ選択をしなければいけない」</i><br><br>弟は悪くない、彼女はそれを知りながらも、どう言い返すか分からなかった。<br>そして1日中怒りを抱えながら、彼女はひっそりと決意した。<br><i>「私も大人になって、いつの日か選択をするんだ……」<br>「自分だけの選択を」</i>"
 }
 
 var _weaponskill_ = {

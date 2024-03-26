@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21008": "In reality, most prey don't realize when danger is encroaching.<br>This one's no exception.<br>The sniper's scope slowly centers on a man throwing banknotes stack after stack, who seems completely oblivious to his impending demise.<br><i>\"So that's what greed looks like. That amount is equal to several of my contracts already... No wonder someone wants him dead.\"</i><br><br>As if these thoughts were broadcasted out loud, the man in the scope turns his head, looking straight into the eyes of the sniper. <br><i>\"I've been waiting for you. Would this much be enough for you to hear me out?\"</i>"
+    "21008": "事実上、獲物の大多数は自分の置かれている状況に気づけない。<br>目の前の獲物もそうだ。<br>照準器はゆっくりと動く、男は相変わらず束になった金をぶちまけている。<br><i>「欲深いあの姿を見ろ、あの金で商売をいくつやれるか…消そうとするヤツがいる訳だ」</i><br><br>彼の心を読んだかのように、男は顔をこちらに向けた。<br><i>「待ってました、ここにある金なら、僕の条件を聞いてから事を決める気になるかな？」</i>"
 }
 
 var _weaponskill_ = {

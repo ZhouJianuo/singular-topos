@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23014": "The blade shattered, plunging into the bone-chilling cold.<br>All earthly instruments are mere futilities, their worth discernible with a single glance.<br><i>\"What use do I have of swords?\"</i><br>She holds no attachment, nor does her gaze accommodate anything within.<br><br><i>\"From now on, I shall be my own sword.\"</i><br>To transcend perceived precipices and achieve unprecedented breakthroughs,<br>one must regard themselves as \"kindling\" to fuel their own fire."
+    "23014": "剣身が砕け、骨刺す極寒の中に落ちてゆく。<br>凡鉄、俗器は皆無用の物。その限界は一目で見通せる。<br><i>「剣など必要か？」</i><br>彼女は躊躇わなかった。その目にはいかなる物も入っていなかった。<br><br><i>「これからは、この身が剣だ」</i><br>極限を超えるには、前人未到の域を突破するには<br>——己さえも「薪」にするしかない。"
 }
 
 var _weaponskill_ = {

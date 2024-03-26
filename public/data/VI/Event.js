@@ -27,15 +27,70 @@ var _event = [
         ]
     },
     {
-        "_id": 50010,
-        "Icon": "BtnQuestFeverTime.png",
-        "Name": "Tides of War",
-        "Desc": "A researcher from the Maintenance Department unexpectedly made a fighting game inside the Memory Bubble. He invites you to come and play...",
-        "Story": "◆ Introduction ◆<br>A researcher from the Maintenance Department is your \"Fanboy.\" He used Memory Bubbles to recreate his favorite childhood game. He specifically asked someone to invite you to play it, even preparing a \"support function\" for you. It really is too kind to refuse...<br><br>◆ Event Rules ◆<br>● In this event, 6 combat stages will be unlocked one by one.<br>● When the Trailblazer increases their Equilibrium Level, enemies will correspondingly increase in strength.<br>● Trailblazers can select trial characters to take part in the challenge.<br>● In combat, you must defeat 3 waves of Boss Enemies within 6 Cycles. Non-boss enemies will also constantly appear.<br>● A higher rating can be achieved if there are Cycles remaining when the stage is cleared.<br>● Energy regenerated when an ally defeats an enemy is equal to 50% of that of normal combat.<br><br>◆ Gameplay Overview ◆<br>● Each stage has its own Grit Mechanics. Trigger it to quickly accumulate and increase Grit Value, increase your Grit Phase, and obtain more buffs.<br>● After entering Grit Phase 4: Might Unleashed, you will obtain powerful Stage Buffs to defeat enemies!<br><br>◆ Grit Value ◆<br>● Grit Value is accumulated each time Grit Mechanics are triggered during battle.<br>● Characters can accumulate a small amount of Grit Value each time they take action.<br>● Once your Grit Value reaches the target value, you can raise your Grit Phase.<br>● The amount of Grit Value required to raise your Grit Phase in each stage is different. You can check it in the stage.<br><br>◆ Grit Phase ◆<br>● There are 4 Grit Phases. Every time you reach the next phase, you can activate an additional support function to obtain more Stage Buffs.<br>● Enter Grit Phase 4: Might Unleashed to gain powerful buffs. The support function active in this phase is the core buff for this stage and is added by default and cannot be selected.<br>● For each stage, the support functions in Grit Phase 2 and Grit Phase 3 need to be selected before entering battle.<br>● Grit Phase 4: Might Unleashed will end within a certain amount of action value and combat will return to Grit Phase 3 when this ends.<br>● During Grit Phase 4: Might Unleashed, each attack against an enemy accumulates Limit-Broken Attack. Based on the number of Limit-Broken Attacks accumulated, a certain amount of Grit Value will be returned when you return to Grit Phase 3, helping you to quickly re-enter Grit Phase 4: Might Unleashed.<br><br>◆ Event Rewards ◆<br>● During the event, increase Grit Phase to a certain Phase in each stage and defeat the stage boss to claim stage rewards from \"Limited-Time Rewards.\"<br>● Challenge all stages and defeat the first wave of bosses in all stages to claim Bob's Offering.",
+        "_id": 50013,
+        "Icon": "SpriteOutput/UI/Quest/ExpeditionAboutBoothill/ImgExpeditionAboutBoothillBanner.png",
+        "Name": "All About Boothill...",
+        "Desc": "Geed, a Department of Implement Arts researcher, was looking everywhere for you in the space station and had something to ask. She revealed confidential information having to do with a certain rowdy \"Space Cowboy\"...",
+        "Story": "◆ Introduction ◆<br>◆ The researchers at the space station have brought in several assignments from the IPC and handed them over to you. It seems that all of this is related to a certain rambunctious \"interstellar cowboy\"...<br><br>◆ Event Rules ◆<br>◆ When the event begins, 24 assignments will be released. Up to 4 assignments can be accepted at a time.<br>◆ Each assignment requires at least two characters to complete. Assignments will be given ratings in the following descending order: S, A, or B, based on the assignment's rating. Using recommended Paths or higher-level characters can increase the assignment's rating and earn additional bonus rewards.<br>◆ Event assignments do not count toward the regular assignment limit or use up characters from regular assignments. Trailblazers can assign 1 Friend's Support Character to each event assignment.<br><br>◆ Event Rewards ◆<br>◆ During the event, Trailblazers can obtain rewards by assigning characters to complete the event assignments.",
         "Reward": [
+            1,
+            213,
+            233,
+            2
+        ],
+        "Ver": "2.2"
+    },
+    {
+        "_id": 50012,
+        "Icon": "BtnClockPark.png",
+        "Name": "<i>Clockie: Dreamjoy Memoir</i>",
+        "Desc": "Clock Studios, the production company behind the \"Clockie\" animation series, is facing a crisis. The theme park has been damaged, Clockie's copyright has expired, and The Family is stirring up trouble... Under immense pressure, they are preparing to step up the production of a series of films titled \"Dreamjoy Memoir.\" However, the director of the film is currently missing...",
+        "Story": "◆ Introduction ◆<br>Due to the disappearance of the Watchmaker, Clock Studios is facing a production crisis. Quickly help them complete the editing work of the Clockie blockbuster <i>Dreamjoy Memoir</i>!<br><br>◆ Film Editing ◆<br>● Complete the Adventure Mission \"Once Upon a Time in Dreamville...\" to start editing the film of <i>Dreamjoy Memoir</i>.<br>● Pushing the editing progress will help earn sponsorship. Upon reaching 100%, you can hold a premiere event to revive the theme park. The sponsorship obtained after a successful screening will be used to repair the damaged screens in the theme park.<br>● As the film editing progresses, the crew will also get opportunities to shoot \"Commercials.\" Complete Commercial Missions to earn rewards.<br>● Push the editing progress of <i>Dreamjoy Memoir</i> to unlock more Commercials.<br><br>◆ Film Editing ◆<br>● The crux of film editing lies in the ability to use Time Dice wisely. Allocating Time Dice to different tropes will result in more shots in the corresponding tropes and different audience reactions, thus bring changes to the thrilling, comedic, and dramatic emotions of the film. These three audience emotions are crucial to the success of the film.<br>● Before completion, the film will undergo an internal screening, and different films have varying screening criteria. Only when specific requirements are met can the film be deemed passable during the internal screening.<br>● Any film that fails to meet the criteria during the internal screening stage will be deemed an editing failure. Additionally, if any of the three audience emotions for the film reaches 0, the film's content will be deemed problematic, which also counts as an editing failure.<br><br>◆ Extra Story ◆<br>● During the film's editing process, successful completion of the film editing will earn you the film reel of supporting characters' extra stories. Successfully shooting story snippets that contain previews for extra stories will unlock the corresponding extra stories' film and help animators throughout the cinema complete the stories of the supporting characters!<br><br>◆ Regular Rewards ◆<br>● During editing, there are also opportunities to try different plot developments, which may result in completely different endings from the original storyline. Complete different endings to earn corresponding rewards in Clockie Paycheck.",
+        "Reward": [
+            236,
+            241,
+            1,
+            22002,
+            220005,
+            213,
+            223,
+            233,
+            110232,
+            2
+        ],
+        "Ver": "2.2"
+    },
+    {
+        "_id": 50011,
+        "Icon": "BtnEvolveBuild.png",
+        "Name": "The Legend of the Galactic Baseballer",
+        "Desc": "",
+        "Story": "",
+        "Reward": [
+            236,
             241,
             1,
             235,
+            213,
+            223,
+            233,
+            110192,
+            2
+        ],
+        "Ver": "2.2"
+    },
+    {
+        "_id": 50010,
+        "Icon": "BtnQuestTelevision.png",
+        "Name": "Tides of War",
+        "Desc": "A researcher from the Maintenance Department unexpectedly made a fighting game inside the Memory Bubble. He invites you to come and play...",
+        "Story": "◆ Introduction ◆<br>A researcher from the Maintenance Department is apparently your \"fanboy.\" He used Memory Bubbles to recreate his favorite childhood game. He specifically asked someone to invite you to play it, even preparing a \"Support Function\" for you. This really is too kind to refuse...<br><br>◆ Event Rules ◆<br>● In this event, 6 combat stages will be unlocked one by one.<br>● In combat, you must defeat 3 waves of Boss Enemies within 6 Cycles. Non-boss enemies will also constantly appear.<br>● A higher rating can be achieved if there are Cycles remaining when a stage is cleared.<br>● When an ally defeats an enemy, the Energy regenerated is only 50% of what would be generated in regular combat.<br>● Trailblazers can select trial characters to take part in the challenge.<br>When the Trailblazer increases their Equilibrium Level, enemies will correspondingly increase in strength.<br><br>◆ Gameplay Overview ◆<br>● Each stage has its own Grit Mechanics. Trigger it to quickly accumulate and increase Grit Value, elevate your Grit Phase, and obtain more buffs.<br>● After entering \"Grit Phase 4: Power Awoken\", you will obtain powerful Stage Buffs to defeat enemies!<br><br>◆ Grit Value ◆<br>● Grit Value is accumulated each time Grit Mechanics are triggered during battle.<br>● Characters can accumulate a small amount of Grit Value each time they take action.<br>● Once your Grit Value reaches the target value, you can elevate your Grit Phase.<br>● The amount of Grit Value required to elevate your Grit Phase in each stage is different. You can check it in the stage.<br><br>◆ Grit Phase ◆<br>● There are 4 Grit Phases. Every time you reach the next phase, you can activate an additional Support Function to obtain more Stage Buffs.<br>● Enter \"Grit Phase 4: Power Awoken\" to gain powerful buffs. The Support Function active in this phase is the core buff for this stage and is added by default and cannot be selected.<br>● For each stage, the Support Functions in Grit Phase 2 and Grit Phase 3 need to be selected before entering battle.<br>● \"Grit Phase 4: Power Awoken\" will end within a certain amount of action value. And when it ends, combat will return to Grit Phase 3.<br>● During \"Grit Phase 4: Power Awoken\", each attack against an enemy accumulates Waken Attacks. Based on the number of Waken Attacks accumulated, a certain amount of Grit Value will be returned when you return to Grit Phase 3, helping you to quickly re-enter \"Grit Phase 4: Power Awoken\".<br><br>◆ Event Rewards ◆<br>● During the event, elevate Grit Phase to the target level in the stage and defeat the stage boss to claim stage rewards from \"Limited-Time Rewards.\"<br>● Challenge all stages and defeat the first wave's boss enemy in all stages to claim the offering.",
+        "Reward": [
+            236,
+            241,
+            1,
+            22002,
+            220004,
             213,
             223,
             233,
@@ -74,8 +129,8 @@ var _event = [
         "_id": 50009,
         "Icon": "BtnQuestDrinkMaker.png",
         "Name": "Vignettes in a Cup",
-        "Desc": "The manager of the Dreamjolt Hostelry is away and has entrusted you to take over the role of the drinksmith. However, the patrons of the bar are not ordinary customers...",
-        "Story": "◆ Introduction ◆<br>The manager of the Dreamjolt Hostelry is away and has entrusted you to take over the role of the drinksmith. However, the patrons of the bar are not ordinary customers...<br><br>◆ Event Rules ◆<br>● In the Vignettes in a Cup event, the Trailblazer will play the role of the drinksmith, conversing with members of the Dreamjolt Troupe and crafting drinks that meet their needs to gain their trust and address their emotional troubles.<br><br>◆ Permanent Rewards ◆<br>● After serving customers, you will receive Tips. If you meet their needs, you will receive extra Tips.<br>● Tips can be exchanged for rewards in the Revenue Statistics.<br><br>◆ Limited-time Rewards ◆<br>● During the limited-time event, completing specified missions will earn you corresponding rewards.<br><br>◆ Event Reminders ◆<br>After the Vignettes in a Cup limited-time event ends, Trailblazers will no longer be able to obtain the limited-time rewards, but they can still visit the Drink Lounge in the Dreamjolt Hostelry map to experience and obtain permanent rewards.",
+        "Desc": "The manager of the Dreamjolt Hostelry is away and has entrusted you to take over the role of the drinksmith. However, the patrons of the lounge are not ordinary customers...",
+        "Story": "◆ Introduction ◆<br>The manager of the Dreamjolt Hostelry is away and has entrusted you to take over the role of the drinksmith. However, the patrons of the lounge are not ordinary customers...<br><br>◆ Event Rules ◆<br>● In the Vignettes in a Cup event, the Trailblazer will play the role of the drinksmith, conversing with members of the Dreamjolt Troupe and crafting drinks that meet their needs to gain their trust and address their emotional troubles.<br><br>◆ Permanent Rewards ◆<br>● After serving customers, you will receive Tips. If you meet their needs, you will receive extra Tips.<br>● Tips can be exchanged for rewards in the Revenue Statistics.<br><br>◆ Limited-time Rewards ◆<br>● During the limited-time event, completing specified missions will earn you corresponding rewards.<br><br>◆ Event Reminders ◆<br>After the Vignettes in a Cup limited-time event ends, Trailblazers will no longer be able to obtain the limited-time rewards, but they can still visit the Drink Lounge in the Dreamjolt Hostelry map to experience and obtain permanent rewards.",
         "Reward": [
             236,
             241,
@@ -94,7 +149,7 @@ var _event = [
         "Icon": "BtnQuestMonopoly.png",
         "Name": "Cosmodyssey",
         "Desc": "The Astral Express received a package from a Nameless. Pom-Pom is waiting for you to return to the Express to open it together and see what's inside...",
-        "Story": "◆ Introduction ◆<br>The Astral Express received a package from a Nameless. Pom-Pom is waiting for you to return to the Express to open it together and see what's inside...<br><br>◆ Event Goal ◆<br>● Trailblazers need to continuously acquire \"Trailblaze Funds\" to unlock server-wide and individual rewards.<br>● During the event, continuously contribute Trailblaze Funds to accumulate Individual Contribution and unlock corresponding rewards.<br>● Individual Contribution will also boost Cosmic Contribution Progress. When Cosmic Contribution Progress reaches specific milestones, you will unlock milestone rewards.<br><br>◆ Event Rules ◆<br>● Login daily to earn dice. Rolling dice allows players to advance on the map and earn Trailblaze Funds through various gameplay modes. When the dice are depleted, Trailblazers can contribute the accumulated Trailblaze Funds.<br>● Once the Cosmic Contribution Progress reaches 100%, there will be no limit on the number of dice players can use.<br><br>◆ Trailblaze Affinity Test ◆<br>● Trailblazers can experience testing gameplay during the event.<br>● By completing a certain number of test questions, Trailblazers will unlock a test report and receive corresponding rewards.<br><br>◆ Event Tips ◆<br>● If no contribution is made on a given day, the Trailblaze Fund will be automatically contributed the next time you enter the event.",
+        "Story": "◆ Introduction ◆<br>The Astral Express received a package from a Nameless. Pom-Pom is waiting for you to return to the Express to open it together and see what's inside...<br><br>◆ Event Goal ◆<br>● Trailblazers need to continuously acquire \"Trailblaze Funds\" to unlock server-wide rewards and personal rewards.<br>● During the event, continuously contribute Trailblaze Funds to accumulate Individual Contribution and unlock corresponding rewards.<br>● Individual Contribution will also boost Cosmic Contribution Progress. When Cosmic Contribution Progress reaches specific milestones, you will unlock milestone rewards.<br><br>◆ Event Rules ◆<br>● Login daily to earn dice. Rolling dice allows players to advance on the map and earn Trailblaze Funds through various gameplay modes. When the dice are depleted, Trailblazers can contribute the accumulated Trailblaze Funds.<br>● Once the Cosmic Contribution Progress reaches 100%, there will be no limit on the number of dice players can use.<br><br>◆ Trailblaze Affinity Test ◆<br>● Trailblazers can experience the test gameplay during the event.<br>● By completing a certain number of test questions, Trailblazers will unlock a test report and receive corresponding rewards.<br><br>◆ Event Tips ◆<br>● If no contribution is made on a given day, the Trailblaze Funds will be automatically contributed the next time you enter the event.",
         "Reward": [
             236,
             241,
@@ -536,20 +591,29 @@ var _event = [
         "Ver": "1.x"
     },
     {
+        "_id": 20033,
+        "Icon": "BtnQuestRoleTrial19.png",
+        "Name": "Aptitude Showcase",
+        "Desc": "",
+        "Story": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event.",
+        "Reward": [],
+        "Ver": "2.2"
+    },
+    {
         "_id": 20030,
         "Icon": "BtnQuestRoleTrial17.png",
-        "Name": "",
+        "Name": "Aptitude Showcase",
         "Desc": "",
-        "Story": "",
+        "Story": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event.",
         "Reward": [],
         "Ver": "2.1"
     },
     {
         "_id": 20027,
         "Icon": "BtnQuestRoleTrial15.png",
-        "Name": "",
+        "Name": "Aptitude Showcase",
         "Desc": "",
-        "Story": "",
+        "Story": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event.",
         "Reward": [],
         "Ver": "2.1"
     },
@@ -775,6 +839,24 @@ var _event = [
         "Story": "When logging into the game during the event period, Trailblazers can obtain rewards from the Travel Log: Star Rail Special Pass ×10",
         "Reward": [],
         "Ver": "1.x"
+    },
+    {
+        "_id": 10056,
+        "Icon": "BtnSevenDayVersion0220.png",
+        "Name": "Gift of Odyssey",
+        "Desc": "",
+        "Story": "◆ Event Rules ◆<br>Trailblazers can receive daily rewards in the Travel Log after logging in to the game each day.<br><br>◆ Event Rewards ◆<br>The rewards will be unlocked in sequential order according to the Trailblazer's accrued login days. Daily rewards will be refreshed at 04:00 AM (server time) every day.",
+        "Reward": [],
+        "Ver": "2.2"
+    },
+    {
+        "_id": 10047,
+        "Icon": "BtnSevenDayVersion0200.png",
+        "Name": "Gift of Odyssey",
+        "Desc": "",
+        "Story": "◆ Event Rules ◆<br>Trailblazers can receive daily rewards in the Travel Log after logging in to the game each day.<br><br>◆ Event Rewards ◆<br>The rewards will be unlocked in sequential order according to the Trailblazer's accrued login days. Daily rewards will be refreshed at 04:00 AM (server time) every day.",
+        "Reward": [],
+        "Ver": "2.0"
     },
     {
         "_id": 10043,
@@ -1200,6 +1282,23 @@ var _item = {
         ],
         "Link": 1
     },
+    "110232": {
+        "_id": 110232,
+        "Rarity": 3,
+        "Name": "Celestial Section",
+        "Desc": "Melodious section fallen from the heavens. Used to level up Traces moderately for <color=#f29e38ff>Harmony</color> characters.",
+        "Story": "A musical section scattered from order. Falling silently from the edge of the heavens, it blends into the cacophony, like grains of sand scattered in the desert.<br><br><i>\"No one notices it until it ignites a spark of inspiration...\"</i>",
+        "Icon": "110232.png",
+        "Pic": "110232.png",
+        "Src": [
+            "Calyx: The Reverie (Dreamscape)",
+            "Calyx: The Reverie (Dreamscape)",
+            "Omni-Synthesizer — Material Synthesis",
+            "Embers Exchange",
+            "Omni-Synthesizer — Material Exchange"
+        ],
+        "Link": 1
+    },
     "405020": {
         "_id": 405020,
         "Rarity": 2,
@@ -1425,11 +1524,11 @@ var _item = {
         "Rarity": 4,
         "Name": "Cosmodyssey",
         "Desc": "After obtaining Phone wallpapers, they can be changed in the Phone function",
-        "Story": "<i>\"The 'trailblaze' will not end.\"</i><br><i>\"Let's seek the shimmering stars together!\"</i>",
+        "Story": "<i>\"The 'Trailblaze' will not end.\"</i><br><i>\"Let's head toward the shimmering stars together!\"</i>",
         "Icon": "221005.png",
         "Pic": "221005.png",
         "Src": [
-            ""
+            "Obtainable from the \"Cosmodyssey\" event."
         ]
     },
     "110152": {
@@ -1590,6 +1689,18 @@ var _item = {
             "Obtained from Vignettes in a Cup"
         ]
     },
+    "220005": {
+        "_id": 220005,
+        "Rarity": 4,
+        "Name": "Theme Park Dreamchase",
+        "Desc": "Chat Box for Message and Chat. Once obtained, they can be used in the Message or Chat functions",
+        "Story": "\"Your portrayal of Hamster Ball Knight's animation character is absolutely delightful!\"<br>\"Welcome to join the Dreamjoy Memoir animation crew!\"",
+        "Icon": "chatbubble/220005.png",
+        "Pic": "chatbubble/220005.png",
+        "Src": [
+            "Obtained from the <i>Clockie: Dreamjoy Memoir</i> event"
+        ]
+    },
     "101": {
         "_id": 101,
         "Rarity": 5,
@@ -1667,14 +1778,22 @@ var _item = {
         ],
         "Link": 1
     },
-    "22000": {
-        "_id": 22000,
-        "Rarity": 4,
-        "Name": "Before the Tutorial Mission Starts",
-        "Desc": "Light Cone for the Path of <color=#f29e38ff>Nihility</color>. Light Cone ability is only effective for characters of this Path.",
-        "Story": "<i>How much longer until the action starts?<br>You have the nerve to ask a question like that... is something wrong with the new recruit?<br>No.<br>Elio didn't choose her because she was good at field work, but she has to at least survive this rookie assignment.<br>She's cruising.<br>Then I'm relieved. It seems that Bladie has proved to be a reliable operative as well.<br>...</i>",
-        "Icon": "lightconeicons/22000.png",
-        "Pic": "LightCone/22000.png"
+    "110192": {
+        "_id": 110192,
+        "Rarity": 3,
+        "Name": "Destined Expiration",
+        "Desc": "Embedded in the deceased's brow, piercing through the crevice of matter, this bullet forever resides where its bullet hole should be. Used to moderately level up Traces for <color=#f29e38ff>Hunt</color> characters.",
+        "Story": "It traversed the winding paths amidst legions of soldiers, pierced through the weakest point of the stoutest helmets, and finally came to rest at the center of the skull of the invincible tyrant, emitting a whisper-like sigh. Its arrival came like a fatal coincidence. Its arrival was an endpoint that all were fated to meet.<br><br><i>\"Sometimes, the bullet hole precedes the trajectory.\"</i>",
+        "Icon": "110192.png",
+        "Pic": "110192.png",
+        "Src": [
+            "Calyx: SoulGlad™ Scorchsand Audition Venue",
+            "Calyx: SoulGlad™ Scorchsand Audition Venue",
+            "Omni-Synthesizer — Material Synthesis",
+            "Embers Exchange",
+            "Omni-Synthesizer — Material Exchange"
+        ],
+        "Link": 1
     },
     "241": {
         "_id": 241,
@@ -1693,6 +1812,15 @@ var _item = {
         ],
         "Link": 1
     },
+    "22002": {
+        "_id": 22002,
+        "Rarity": 4,
+        "Name": "For Tomorrow's Journey",
+        "Desc": "Light Cone for the Path of <color=#f29e38ff>Harmony</color>. The Light Cone ability is only effective for characters of this Path.",
+        "Story": "The hands of the compass keep turning until they point to the moment of dreams.<br>The Asdana system, overflowing with memoria, glows with a soft light outside the train's windows. The frontier prison within is currently engulfed in the fires of war.<br><br><i>\"Hey, what do you think the world within the dream would be like? I need to record a thorough and complete map of it!</i><br>The girl puts the surveying instruments away and looks with longing at the new world within their reach.<br><i>\"That place is a mess. You two, don't run off once we get there. If you get kidnapped like the last time, I...\"</i><br>The man dressed like a cowboy finishes polishing his weapon. He holds a glass of beverage and walks to the sofa, then helplessly shakes his head.<br><i>\"The Land of the Dreams has infinite possibilities. We'll definitely make a big name for ourselves... Conductor, will you miss us if we fall in love with this place and never come back?</i><br>The Nameless dressed like a gentleman blinks at Pom-Pom and smiles.<br><i>\"'You can't joke at the conductor's expense like this!' Is that what you want to say, conductor?\" </i>The girl grins mischievously.<br><i>\"You are! So! Mean!\"</i><br>Bubbles drift up and down in the glass as the car fills up with their laughter.<br>...<br>The retreating figures of these young Nameless are gradually swallowed by memoria.<br><i>\"Have a... safe... trip...\"</i><br>When the conductor turns their head, the car is already empty.<br>They freeze in their steps... It feels as if they have experienced such a scene countless times.",
+        "Icon": "lightconeicons/22002.png",
+        "Pic": "LightCone/22002.png"
+    },
     "22001": {
         "_id": 22001,
         "Rarity": 4,
@@ -1701,6 +1829,15 @@ var _item = {
         "Story": "Three girls stroll in the darkness, and the surroundings seem to gain a hint of eeriness.<br>\"Huohuo, hurry up, or we won't wait for you!\"<br>She steps forward confidently with her phone clutched in her hand, seemingly unaffected by the paranormal ambiance.<br>\"I—I'm over here!\"<br>The girl standing ahead responds timidly.<br>\"Huh? So you were in the front all along, then who is following Shangshang and me...\"<br><br>The perfect end for this scene would definitely be a girlish scream.",
         "Icon": "lightconeicons/22001.png",
         "Pic": "LightCone/22001.png"
+    },
+    "22000": {
+        "_id": 22000,
+        "Rarity": 4,
+        "Name": "Before the Tutorial Mission Starts",
+        "Desc": "Light Cone for the Path of <color=#f29e38ff>Nihility</color>. Light Cone ability is only effective for characters of this Path.",
+        "Story": "<i>How much longer until the action starts?<br>You have the nerve to ask a question like that... is something wrong with the new recruit?<br>No.<br>Elio didn't choose her because she was good at field work, but she has to at least survive this rookie assignment.<br>She's cruising.<br>Then I'm relieved. It seems that Bladie has proved to be a reliable operative as well.<br>...</i>",
+        "Icon": "lightconeicons/22000.png",
+        "Pic": "LightCone/22000.png"
     },
     "1013": {
         "_id": 1013,
@@ -1770,23 +1907,23 @@ var _item = {
 
 var _tut = {
     "811001": {
-        "Desc": "In Cosmodyssey, you need to <color=#f29e38ff>roll dice</color> to advance on the map. Trailblazers can obtain <color=#f29e38ff>Trailblaze Funds</color> through a variety of game modes within.",
+        "Desc": "In Cosmodyssey, you need to <color=#f29e38ff>roll dice</color> to advance on the map. Trailblazers can obtain <color=#f29e38ff>Trailblaze Funds</color> through a variety of game modes.",
         "Img": "TutorialPage_811001.png"
     },
     "811002": {
-        "Desc": "Different board tiles will trigger different effects and Trailblaze Funds can be obtained from them.",
-        "Img": "TutorialPage_811001.png"
+        "Desc": "",
+        "Img": ""
     },
     "811003": {
         "Desc": "Trailblazers can contribute their <color=#f29e38ff>Trailblaze Funds</color> to Pom-Pom. The more <color=#f29e38ff>funds</color> they contribute, the more <color=#f29e38ff>personal rewards</color> they unlock.<br>Contributions from all Trailblazers will gradually unlock Cosmic Contribution rewards.",
         "Img": "TutorialPage_811003.png"
     },
     "811004": {
-        "Desc": "Contribute Trailblaze Funds and progress to specific nodes to obtain Node Rewards.",
-        "Img": "TutorialPage_811003.png"
+        "Desc": "",
+        "Img": ""
     },
     "810001": {
-        "Desc": "Accumulating <color=#f29e38ff>Grit Value</color> during battle can increase your <color=#f29e38ff>Grit Phase</color>.<br>When entering <color=#f29e38ff>\"Grit Phase 4: Might Unleashed\"</color>, you can obtain powerful stage buffs and significantly improve your combat effectiveness.",
+        "Desc": "Accumulating <color=#f29e38ff>Grit Value</color> during battle can elevate your <color=#f29e38ff>Grit Phase</color>.<br>When entering <color=#f29e38ff>\"Grit Phase 4: Power Awoken\"</color>, you can obtain powerful stage buffs and significantly improve your combat effectiveness.",
         "Img": "TutorialPage_810001.png"
     },
     "810002": {
@@ -1802,7 +1939,7 @@ var _tut = {
         "Img": "TutorialPage_810101.png"
     },
     "810102": {
-        "Desc": "During \"Grit Phase 4: Might Unleashed\", non-boss enemies will have their HP drastically reduced after entering battle.<br>Attention: The boss's HP for this current stage is extremely high. You can use the <color=#f29e38ff>Overflow DMG</color> dealt when defeating <color=#f29e38ff>non-boss enemies</color> to deal high amounts of DMG to the boss.",
+        "Desc": "During \"Grit Phase 4: Power Awoken\", non-boss enemies will have their HP drastically reduced after entering battle.<br>Attention: The boss's HP for this current stage is extremely high. You can use the <color=#f29e38ff>Overflow DMG</color> dealt when defeating <color=#f29e38ff>non-boss enemies</color> to deal high amounts of DMG to the boss.",
         "Img": "TutorialPage_810102.png"
     },
     "810201": {
@@ -1810,7 +1947,7 @@ var _tut = {
         "Img": "TutorialPage_810201.png"
     },
     "810202": {
-        "Desc": "During \"Grit Phase 4: Might Unleashed\", non-boss enemies will have their HP drastically reduced after entering battle.<br>Attention: The boss's HP for this current stage is extremely high. You can use the <color=#f29e38ff>Overflow DMG</color> dealt when defeating <color=#f29e38ff>non-boss enemies</color> to deal high amounts of DMG to the boss.",
+        "Desc": "During \"Grit Phase 4: Power Awoken\", non-boss enemies will have their HP drastically reduced after entering battle.<br>Attention: The boss's HP for this current stage is extremely high. You can use the <color=#f29e38ff>Overflow DMG</color> dealt when defeating <color=#f29e38ff>non-boss enemies</color> to deal high amounts of DMG to the boss.",
         "Img": "TutorialPage_810202.png"
     },
     "810301": {
@@ -1834,7 +1971,7 @@ var _tut = {
         "Img": "TutorialPage_810501.png"
     },
     "810502": {
-        "Desc": "Every <color=#f29e38ff>Trotter</color> defeated will inflict all enemies with the <color=#f29e38ff>Vulnerability debuff</color>.<br>Make good use of the debuffs applied by defeating Trotters to quickly take down the boss during \"Grit Phase 4: Might Unleashed\".",
+        "Desc": "Every <color=#f29e38ff>Trotter</color> defeated will inflict all enemies with the <color=#f29e38ff>Vulnerability debuff</color>.<br>Make good use of the debuffs applied by defeating Trotters to quickly take down the boss during \"Grit Phase 4: Power Awoken\".",
         "Img": "TutorialPage_810502.png"
     },
     "810601": {
@@ -1842,7 +1979,7 @@ var _tut = {
         "Img": "TutorialPage_810501.png"
     },
     "810602": {
-        "Desc": "Every <color=#f29e38ff>Trotter</color> defeated will inflict all enemies with random <color=#f29e38ff>DoTs</color>.<br>Make good use of the DoTs applied by defeating Trotters to quickly take down the boss during \"Grit Phase 4: Might Unleashed\".",
+        "Desc": "Every <color=#f29e38ff>Trotter</color> defeated will inflict all enemies with random <color=#f29e38ff>DoTs</color>.<br>Make good use of the DoTs applied by defeating Trotters to quickly take down the boss during \"Grit Phase 4: Power Awoken\".",
         "Img": "TutorialPage_810502.png"
     },
     "810701": {
@@ -1850,7 +1987,7 @@ var _tut = {
         "Img": "TutorialPage_810701.png"
     },
     "810702": {
-        "Desc": "During \"Grit Phase 4: Might Unleashed\", every <color=#f29e38ff>1500</color> of HP increase or decrease grants 1 stack of buffs, up to 99 stacks.",
+        "Desc": "During \"Grit Phase 4: Power Awoken\", every <color=#f29e38ff>1500</color> of HP increase or decrease grants 1 stack of buffs, up to 99 stacks.",
         "Img": "TutorialPage_810702.png"
     },
     "810801": {
@@ -1858,7 +1995,7 @@ var _tut = {
         "Img": "TutorialPage_810801.png"
     },
     "810802": {
-        "Desc": "Weakness Breaking <color=#f29e38ff>non-boss enemies</color> can remove the boss's <color=#f29e38ff>Weakness Protection</color>.<br>During \"Grit Phase 4: Might Unleashed\", the enemy Boss will not have Weakness Protection. Attacking enemies in the <color=#f29e38ff>Weakness Broken state</color> will provide immense buffs.",
+        "Desc": "Weakness Breaking <color=#f29e38ff>non-boss enemies</color> can remove the boss's <color=#f29e38ff>Weakness Protection</color>.<br>During \"Grit Phase 4: Power Awoken\", the enemy Boss will not have Weakness Protection. Attacking enemies in the <color=#f29e38ff>Weakness Broken state</color> will provide immense buffs.",
         "Img": "TutorialPage_810802.png"
     },
     "810901": {
@@ -1866,15 +2003,15 @@ var _tut = {
         "Img": "TutorialPage_810801.png"
     },
     "810902": {
-        "Desc": "Breaking an enemy's Weakness can inflict <color=#f29e38ff>Toughness reduction</color> on all enemies.<br>During \"Grit Phase 4: Might Unleashed\", the enemy Boss will not have Weakness Protection. Attacking enemies in the <color=#f29e38ff>Weakness Broken state</color> will provide immense buffs.",
-        "Img": "TutorialPage_810802.png"
+        "Desc": "Breaking an enemy's Weakness can inflict <color=#f29e38ff>Toughness reduction</color> on all enemies.<br>During \"Grit Phase 4: Power Awoken\", the enemy Boss will not have Weakness Protection. Attacking enemies in the <color=#f29e38ff>Weakness Broken state</color> will provide immense buffs.",
+        "Img": "TutorialPage_810902.png"
     },
     "811101": {
         "Desc": "When <color=#f29e38ff>the ally positioned first</color> in the Team Setup uses their <color=#f29e38ff>Ultimate</color>, accumulates Grit Value.",
         "Img": "TutorialPage_811101.png"
     },
     "811102": {
-        "Desc": "After <color=#f29e38ff>the ally positioned second</color> in the Team Setup uses their Ultimate, <color=#f29e38ff>charges Energy</color> for the ally positioned first, and increases the DMG dealt by the next attack from the ally positioned first.",
+        "Desc": "After <color=#f29e38ff>the ally positioned second</color> in the Team Setup uses their Ultimate, <color=#f29e38ff>regenerates Energy</color> for the ally positioned first, and increases their next attack's DMG.",
         "Img": "TutorialPage_811102.png"
     },
     "811201": {
@@ -1890,7 +2027,7 @@ var _tut = {
         "Img": "TutorialPage_709001.png"
     },
     "709101": {
-        "Desc": "Boss Stone's minions will experience true calamity when Hanu fires his missile! After taking aim at an enemy, hitting the fire button will unleash the Hanu Missile and consume ammunition.",
+        "Desc": "Boss Stone's minions will experience true calamity when Hanu gets his Hanu Launcher! After taking aim at an enemy, hitting the fire button will unleash the Hanu Rocket and consume ammunition.",
         "Img": "TutorialPage_709101.png"
     },
     "709102": {
@@ -1898,11 +2035,11 @@ var _tut = {
         "Img": "TutorialPage_709102.png"
     },
     "709103": {
-        "Desc": "If Brother Hanu has no more ammo left, you can return to Hanu Launcher's position to unlock the Hanu Missile again and replenish 1 ammo.",
+        "Desc": "If Brother Hanu has no more ammo left, you can return to Hanu Launcher's position to unlock the Hanu Rocket again and replenish 1 ammo.",
         "Img": "TutorialPage_709103.png"
     },
     "709201": {
-        "Desc": "If you use the Hanu Missile to ignite the fireworks, it will trigger an explosion that defeats enemies, and is even capable of destroying walls.",
+        "Desc": "If you use the Hanu Rocket to ignite the fireworks, it will trigger an explosion that defeats enemies, and is even capable of destroying walls.",
         "Img": "TutorialPage_709201.png"
     },
     "609501": {
@@ -1910,11 +2047,11 @@ var _tut = {
         "Img": "TutorialPage_609501.png"
     },
     "610301": {
-        "Desc": "When you face obstacles coming from both sides, <color=#f29e38ff>press and hold the Flip button</color> to stay in the middle of the Spheroid lane and pass them safely.",
+        "Desc": "When you face obstacles coming from both sides, <color=#f29e38ff>{LAYOUT_MOBILE#tap}{LAYOUT_CONTROLLER#press}{LAYOUT_KEYBOARD#click} and hold the Flip button</color> to stay in the middle of the Spheroid lane and pass them safely.",
         "Img": "TutorialPage_610301.png"
     },
     "610401": {
-        "Desc": "In Sequel Mode, the tracks will continue <color=#f29e38ff>endlessly</color>. Challenge yourself and create your <color=#f29e38ff>highest all-time score</color>!",
+        "Desc": "In Sequel Mode, the tracks will continue <color=#f29e38ff>endlessly</color>. Challenge yourself and achieve your <color=#f29e38ff>highest all-time score</color>!",
         "Img": "TutorialPage_610401.png"
     },
     "605201": {
@@ -1930,11 +2067,11 @@ var _tut = {
         "Img": "TutorialPage_605203.png"
     },
     "605204": {
-        "Desc": "<color=#f29e38ff>Audience Score</color> will be accumulated by conducting Turbo Dash, picking up supplies, or slamming into opponents or obstacles while invulnerable. Trigger the events above as many times as you can to achieve the <color=#f29e38ff>target Audience Score</color>!",
+        "Desc": "<color=#f29e38ff>Audience Score</color> will be accumulated by conducting Last-Minute Overtake and picking up supplies. Trigger Nut Dash as many times as you can to achieve the <color=#f29e38ff>target Audience Score</color>!",
         "Img": "TutorialPage_605204.png"
     },
     "605301": {
-        "Desc": "When you face obstacles coming from both sides, <color=#f29e38ff>press and hold the Flip button</color> to stay in the middle of the Spheroid lane and pass them safely.",
+        "Desc": "When you face obstacles coming from both sides, <color=#f29e38ff>{LAYOUT_MOBILE#tap}{LAYOUT_CONTROLLER#press}{LAYOUT_KEYBOARD#click} and hold the Flip button</color> to stay in the middle of the Spheroid lane and pass them safely.",
         "Img": "TutorialPage_605301.png"
     },
     "605401": {
@@ -1954,7 +2091,7 @@ var _tut = {
         "Img": "TutorialPage_605404.png"
     },
     "605501": {
-        "Desc": "In Sequel Mode, the tracks will continue <color=#f29e38ff>endlessly</color>. Challenge yourself and create your <color=#f29e38ff>highest all-time score</color>!",
+        "Desc": "In Sequel Mode, the tracks will continue <color=#f29e38ff>endlessly</color>. Challenge yourself and achieve your <color=#f29e38ff>highest all-time score</color>!",
         "Img": "TutorialPage_605501.png"
     }
 }
@@ -1962,5 +2099,6 @@ var _tut = {
 var _ver = [
     "1.x",
     "2.0",
-    "2.1"
+    "2.1",
+    "2.2"
 ]

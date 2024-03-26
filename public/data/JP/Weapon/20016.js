@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "20016": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br><br><i>\"How does one make perfect the past of a planet? Now — immediately — rend the planet asunder.\"</i>"
+    "20016": "凝縮された時間から得られる希薄な力。一瞬にも満たない刹那が、壮絶な運命を織りなす。<br><br><i>「どうすれば星の過去がより完璧になる？今、すぐ、その星を砕け」</i>"
 }
 
 var _weaponskill_ = {

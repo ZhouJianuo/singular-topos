@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21007": "When the doctor found the wounded girl, she was clinging to a machine that had stopped working, with all sorts of parts filling her pocket.<br>She took the girl back to her clinic and treated the wounds.<br>Drops of sweat slowly rolled down the girl's cheek, but she remained silent and her hands didn't stop fiddling the machine.<br>To the doctor, the way the girl was attached to the machine was very much like how she was attached to her patients who needed help.<br>So the doctor did not try to comfort the girl nor did she nag her about being more careful; but rather, she sat down with her to give her a moment of peace."
+    "21007": "医者が女の子を見つけた時、彼女は傷つきながらも停止した機械を抱きしめていた、そのポケットには漁ってきた色んなパーツが詰められていた。<br>彼女は急いで女の子を診療所に連れ帰り、傷口を処理した。<br>汗粒が頬を流れ落ちる。女の子は声を上げず、ただ手を動かす。<br>医者は分かっている、今女の子の目にはあの機械しかない、自分が治療を待つ患者を見る時のように。<br>だから彼女は慰めることもなければ、今後注意するよう言い聞かせることもしなかった。ただ女の子の隣で静かに付き添ってあげた。"
 }
 
 var _weaponskill_ = {

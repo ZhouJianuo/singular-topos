@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21030": "The girl could rock any outfit she chooses, but she was unsatisfied, judging by the dozen sets of clothing piled up behind her.<br><br><i>\"Will this be the last outfit for today?\"</i><br><br>She thought silently to herself and looked at the girl in the mirror. She looked extra happy on this day.<br><br><i>\"Okay! This is me!\"</i>"
+    "21030": "소녀는 뭘 입어도 잘 어울리지만, 소녀는 만족스럽지 않은 모양이다. 등 뒤에 열 벌도 넘는 옷이 쌓여있다.<br><br><i>「오늘이 마지막이려나?」</i><br><br>그녀는 조용히 생각했다. 올려다보니 거울 속의 소녀는 오늘 특별히 기뻐 보인다.<br><br><i>「됐어! 이게 바로 나야!」</i>"
 }
 
 var _weaponskill_ = {

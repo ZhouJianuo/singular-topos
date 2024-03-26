@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21005": "<i>\"Moles, moles,\"<br>\"Leaving our holes,\"<br>\"Smart moles fear naught foes,\"<br>\"Moles, moles,\"<br>\"Bite your toes!\"</i>"
+    "21005": "<i>「モグラ党、モグラ党」<br>「いざ出発」<br>「かしこいモグラは怖くない」<br>「モグラ党、モグラ党」<br>「モグラ党は冒険する！」</i>"
 }
 
 var _weaponskill_ = {

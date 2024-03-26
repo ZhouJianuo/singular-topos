@@ -481,24 +481,244 @@ var _story_ = {
 var _voice_ = {
     "1201": [
         {
-            "_id": 1,
-            "Story": "An ordinary diviner at the Divination Commission. She would never slack off in slacking off.<br>Following her parents' wishes, Qingque qualified for the Divination Commission, but the relaxing post she was expecting was in fact a brutal, high-intensity workplace.<br>After several years of work, Qingque has honed her skills — no matter which department she's transferred to, she's still the lowest-leveled diviner.<br>She would browse books and play ancient tile games to wile away the hours... What more could one ask for than a life like this?"
+            "Title": "First Meeting",
+            "Voice": "I'm Qingque, a diviner from the Divination Commission. You wanna play Celestial Jade? Okay, come back during my work hours."
         },
         {
-            "_id": 2,
-            "Story": "The legend of Qingque begins at the lyceum.<br><br>From the time of Qingque's freshman year right through to her graduation, whenever exam grades were announced, the word Qingque was always followed by a number written out in full: 60, with no exception.<br><br>At first, her tutors thought that Qingque was just an average talent unsuitable for academia, so they didn't really look into things. However, as the same number kept turning up in the examination records, her tutors began to suspect that this wasn't a coincidence at all.<br><br>Very soon, having long conversations with the tutors became a common occurrence for Qingque. Anyone familiar with this kind of sophistry will recognize that handful of sayings: at first, she's <i>\"quiet and well-behaved,\"</i> or <i>\"gifted.\"</i> Then, later on the tone will shift to blame, <i>\"A pity that big brain of yours is going to waste,\"</i> before the grand finale:<i>\"If only you could dedicate such ingenuity to your studies, then blah blah blah...\"</i><br><br>But Qingque knew the kind of life she wanted far better than her tutors do. She kept repeating <i>\"Oh, yes yes yes,\"</i> and <i>\"Mmm sure sure sure,\"</i> before turning straight around to fall asleep at her desk, and just scraping by during the next exam — this was how Qingque responded to the coercion and threats of her tutors.<br><br>They finally ran out of patience with her. In the end, they could only leave behind a resentful message in her yearbook:<br><br><i>\"It'd be difficult for her to achieve greatness\"</i>"
+            "Title": "Greeting",
+            "Voice": "You're here this early again? So diligent..."
         },
         {
-            "_id": 3,
-            "Story": "During the ten-plus years at the Divination Commission, Qingque kept a low-key existence like a harmless little sparrow.<br><br>Following her parents' expectations and holding down a steady job, Qingque thought she could breathe a sigh of relief. However, she didn't realize that the Divination Commission — which is in charge of gathering, collecting, and sorting information — is an endless sea of misery for slackers, with no end to the effort it demands. This high-intensity work drove Qingque into torment, from which she could not escape.<br><br>However, as the saying goes, \"what doesn't kill you only makes you stronger.\" Struggling through the endless days of being a lifelong \"professional,\" Qingque became a seasoned slacker and learned more than a few slick tricks to loaf on the job. She's transferred throughout the departments and worked under several bosses. Every time, she's always the lowest-leveled diviner, with her numbers threatening to go even lower. It can be said that this has been... pleasing.<br><br>However, there are two things that still trouble her. One is visiting her parents during New Year for an annual catch-up, talking about life and her plans for the future — because she doesn't have any plans at all. The other is that pesky boss of hers who's more accurate than a jade abacus at piling new work on her whenever she's busted slacking off.<br><br>Qingque is determined to keep improving her time management skills and escape the terror of being pursued by her superior in the Divination Commission. What a shame that Qingque fails to understand fate supersedes her. Her every thought is well within the purview of the omniscia."
+            "Title": "Parting",
+            "Voice": "Let's go, let's go, time to play. Are you... thinking of working overtime!?"
         },
         {
-            "_id": 4,
-            "Story": "The game of Celestial Jade is supposed to have been around since the days of the Primeval Imperium, but was lost during the Xianzhou Alliance's period of long interstellar drift. Thanks to an anonymous diviner at the Divination Commission, the rules have been collated and brought back to modern-day Xianzhou, where the people are fortunate enough to have access to this mind-boggling tile game based on astrophysics and celestial phenomena.<br><br>Of course, rules alone are not enough. That's why the diviner used blueprints from her repository as bait to lure in close colleagues from the Artisanship Commission into crafting Celestial Jade tiles plus a board to play on. The auto-shuffling function is integrated into these boards, and quickly began to catch on in the Quatraboard Games Parlor (which is owned by the Artisanship colleague).<br><br>Nowadays, Celestial Jade is one of the most popular games aboard the Xianzhou Luofu. The diviner would joke about this in letters sometimes with her artisan friend. She'd originally wanted to use this game for nothing more than her own leisure, not to capture the hearts of millions of Xianzhou people. Now that's a completely unintended outcome.<br><br><i>\"Well, it's not a bad thing...\"<br>\"After all... If I can use this leisurely brain game to slack off out in the open, then why not go for it?\"</i>"
+            "Title": "About Self: Work Attitude",
+            "Voice": "Work is not about increasing value. It just pays your bills. The trick is to increase value for yourself at your employer's expense."
         },
         {
-            "_id": 5,
-            "Story": "<i>\"Being happy at work is an artform.\"<br><br>\"First, never overdo any task. Higher-ups want to see their tasks progressing at a consistent pace before the deadline, so never turn in anything early.\"<br><br>\"Second, never take the initiative. If higher-ups don't personally tell you what they want you to do, that is not your problem.\"<br><br>\"Third, don't work hard by yourself, and never fight for clout. If you can, try and drag someone in to suffering together with you. Whatever you do, never work alone for the sake of trying to demonstrate any kind of ability.\"<br><br>\"Afterward, you can give credit to your peers, both as an easy hat-tip or simple investment into your future. But also as a shield against the possibility of higher-ups promoting you — a promotion means even more work.\"<br><br>\"The point is, there are three basic principles for happiness at work – do not be proactive, do not say no, and do not be responsible. Did you get it?\"</i>"
+            "Title": "Chat: Divination Commission",
+            "Voice": "My Mom said I could relax in a secure job once I passed the Divination Commission entrance exam. Now that I'm in, I feel like I should be doing more..."
+        },
+        {
+            "Title": "Hobbies",
+            "Voice": "Told off by my manager? Go play some Celestial Jade. Too much work? Go play some Celestial Jade. Ahhhh, Celestial Jade is my savior!"
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "I can't play Celestial Jade on my own. How come Celestial Jade isn't omnipotent..."
+        },
+        {
+            "Title": "Something to Share",
+            "Voice": "There are three basic principles for happiness at work – do not be proactive, do not say no, and do not be responsible. You should give it a try~"
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "Fun number one, knowing there are books for leisure on the Xianzhou. Fun number two, browsing these books in the Spare Time Bookshop. Fun number three — the greatest fun — reading those books at work."
+        },
+        {
+            "Title": "About Jing Yuan",
+            "Voice": "I heard the general often listens to music with his eyes closed. Can we promote that in the Divination Commission? Thank you, general."
+        },
+        {
+            "Title": "About Yanqing",
+            "Voice": "I've heard his name. A genius boy, and working every day at such a young age? Sounds exhausting."
+        },
+        {
+            "Title": "About Fu Xuan",
+            "Voice": "As soon as I have free time, the master diviner immediately appears and gives me mundane jobs to do... It looks like I need to work on time management more..."
+        },
+        {
+            "Title": "About Yukong",
+            "Voice": "She's a big shot from the Sky-Faring Commission who can't rest even after retiring from the front lines. It's hard being a powerful official."
+        },
+        {
+            "Title": "About Tingyun",
+            "Voice": "I saw Tingyun stopping in front of the games parlor once, so I invited her to play a round. Tingyun is pretty and her play is entertaining. People crowded around the game table that day and the mood was on fire. The owner lost all his money — it was great to watch."
+        },
+        {
+            "Title": "About Luocha",
+            "Voice": "Who? That sounds like an outsider... We've got a lot of outsiders. You'll come across them a lot in The Looking Bronze. He's probably here to seek success in \"Seeking Immortality\" for himself... Yes, I did say \"seek\" twice."
+        },
+        {
+            "Title": "About Sushang",
+            "Voice": "A newcomer with the Cloud Knights? *sigh* Just go back to where she's from. Everything is so competitive here in the Luofu. You can't get promoted."
+        },
+        {
+            "Title": "About Bailu",
+            "Voice": "I got a bit too excited playing Celestial Jade once and sprained my wrist — a friend recommended her to me. I had my doubts at first, but as soon as she'd written out my prescription, she took out a Celestial Jade set. She told me to practice stacking the tiles to improve wrist flexibility. Naturally, I instantly respected her."
+        },
+        {
+            "Title": "About Guinaifen",
+            "Voice": "Guinaifen... Oh, you mean Little Gui! Every time I lose at celestial jade, I go watch her acrobatics performance to cheer me up. It's just... I never have enough strale to give her a tip..."
+        },
+        {
+            "Title": "About Huohuo",
+            "Voice": "Every time I spot that kid, I can't help but feel this intense need to teach her how to play Celestial Jade. I've got to teach her the ins and outs..."
+        },
+        {
+            "Title": "About Xueyi",
+            "Voice": "You know that book \"An Unsuitable Job for A Puppet?\" I didn't just read it, I even scribbled down some notes. Shame, though, I still don't have a clue who wrote it..."
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "Life's just like a game of tiles, you never know what's gonna come up next~"
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "When life's all go, the trick is to \"steal\" a bit of downtime, right?"
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "You're bound to draw the tile you want sooner or later, right?"
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "When it comes to Celestial Jade, it's all about synergy and luck."
+        },
+        {
+            "Title": "Added to Team With Trailblazer",
+            "Voice": "Hey... Trailblazer, you're here, too! Let's get this game going~"
+        },
+        {
+            "Title": "Added to Team With Fu Xuan",
+            "Voice": "Weird, how'd the Master Diviner figure out I'd be here?"
+        },
+        {
+            "Title": "Added to Team With Guinaifen",
+            "Voice": "A free performance by Little Gui? There's no way I'm missing that~"
+        },
+        {
+            "Title": "Added to Team With Yanqing",
+            "Voice": "Awesome, with a genius like Yanqing around, I can take it easy for a while!"
+        },
+        {
+            "Title": "Added to Team With Huohuo",
+            "Voice": "No need to worry, Huohuo, the workday zips by when you're having fun~"
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "Play hard, win big, keep quiet~"
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "When the odds are against you, cut your losses~"
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "Wait for the tiles before you start counting~"
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "Fights are like gambling — you have to choose when to strike!"
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "Don't rush — the game is always changing~"
+        },
+        {
+            "Title": "Basic ATK",
+            "Voice": "Don't need this tile~"
+        },
+        {
+            "Title": "Enhanced Basic Attack",
+            "Voice": "Time for the payout."
+        },
+        {
+            "Title": "Skill 1",
+            "Voice": "Gotcha!"
+        },
+        {
+            "Title": "Skill 2",
+            "Voice": "Stay calm~"
+        },
+        {
+            "Title": "Skill 3",
+            "Voice": "Come onnnn~"
+        },
+        {
+            "Title": "Skill 4",
+            "Voice": "Ooh~"
+        },
+        {
+            "Title": "Skill 5",
+            "Voice": "Wow~"
+        },
+        {
+            "Title": "Skill S",
+            "Voice": "This hand sucks..."
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "Fluke."
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "Sore loser!"
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "Luck of the draw...!"
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "Please, please, please, please, please... ah! Looks like... victory!"
+        },
+        {
+            "Title": "Talent 1",
+            "Voice": "Better late than never!"
+        },
+        {
+            "Title": "Talent 2",
+            "Voice": "That's a set!"
+        },
+        {
+            "Title": "Downed",
+            "Voice": "Time for a... day off..."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "Need an extra player?"
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "Tasty."
+        },
+        {
+            "Title": "Technique",
+            "Voice": "Feeling lucky~"
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "We're on a roll, hehe~"
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "We're in the money~"
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "I could use some of your luck~"
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "Jackpot!"
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "Just another walk in the park~"
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "Done! No need for overtime!"
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "Time for another round — let's get them~"
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "Just thinking about work gives me a full-body migraine..."
         }
     ]
 }

@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "24002": "The universe was like a badland filled with rubbish.<br>There were the occasional treasure that lies undiscovered.<br>THEY looked through the cracks of the past, choosing seeds of memory.<br>...If a new life was to be born, its seed has to be dead.<br>Precious stones of pink, blue, and white were brought forth,<br>twinkling gently in THEIR seed plot,<br>even though the universe held onto its enigmatic silence."
+    "24002": "우주는 쓰레기가 가득 쌓인 미개척지같다.<br>가끔 귀한 물건이 있어도 주워갈 사람은 없다.<br>그는 지나간 날의 틈새를 넘겨보며, 기억의 씨앗을 골라낸다.<br>——새로운 생명이 새싹이라면, 그 씨앗은 죽어야만 한다.<br>분홍색, 파란색, 하얀색의 가져온 보석이,<br>그의 묘포에서 반짝인다,<br>그래도 우주는 여전히 적막하다"
 }
 
 var _weaponskill_ = {

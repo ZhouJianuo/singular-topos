@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "24002": "The universe was like a badland filled with rubbish.<br>There were the occasional treasure that lies undiscovered.<br>THEY looked through the cracks of the past, choosing seeds of memory.<br>...If a new life was to be born, its seed has to be dead.<br>Precious stones of pink, blue, and white were brought forth,<br>twinkling gently in THEIR seed plot,<br>even though the universe held onto its enigmatic silence."
+    "24002": "宇宙はまるでゴミが山積みの荒地。<br>たまに琳琅があっても、拾う人がいない。<br>其は、過去の隙間を捲り、記憶の種を選ぶ。<br>——新しい命が芽吹いたら、その種は死んでいなければならない。<br>ピンク、青、白の宝石が持ってこられ、<br>其の苗圃の中で軽やかに瞬く。<br>しかし、宇宙は依然として謎のように沈黙している。"
 }
 
 var _weaponskill_ = {

@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21010": "Looking rather skeptical, the girl thrust the small sword at her imaginary enemy in an attempt to convince herself that this thing was useful.<br>How can something so feeble compete with my two-handed sword? Do enemies even notice when they get stabbed?<br><br>The owner of the sword did not seem to care about its size.<br>After all, enemies are defeated by strategy, not swords.<br>It doesn't matter whether the sword is heavy or light, as long as you use the pointy end."
+    "21010": "소녀는 이해할 수 없다는 듯 손에 든 얇은 검을 바라봤다.<br>검은 양손으로 휘둘러야 제맛인 데, 이런 검도 검이라고 할 수 있을까? 이런 검으로 정말 적을 무찌를 수는 있는 걸까?<br><br>하지만 검의 주인은 이 점을 전혀 신경 쓰지 않는 것 같다.<br>적을 처치하는 건 검의 성능에 달린 게 아니라 마음에 달렸다.<br>검이 무겁든 가볍든 무슨 차이가 있을까"
 }
 
 var _weaponskill_ = {

@@ -659,24 +659,216 @@ var _story_ = {
 var _voice_ = {
     "1205": [
         {
-            "_id": 1,
-            "Story": "A swordsman who abandoned his body to become a blade. Birth name unknown.<br>He pledges loyalty to \"Destiny's Slave,\" and possesses a terrifying self-healing ability.<br>Blade wields an ancient sword riddled with cracks, just like his body and his mind."
+            "Title": "First Meeting",
+            "Voice": "Trailblazer... I don't know you. Consider that a good thing."
         },
         {
-            "_id": 2,
-            "Story": "The only thing he could sense was a splotch of crimson in his sight and the taste of iron in his mouth. His limbs were unresponsive.<br>— He must have died.<br><br><i>\"Do you remember?\"</i><br>He opened his mouth, lost, his voice as coarse as a savage beast's.<br>The sound from his throat stopped abruptly as the cold, hard object penetrated his torso.<br>Again and again, this repeated for thousands of times.<br><br>How marvelous. When his muscle fibers tore open, he could hear the tiny sounds of tendons bridging and reconnecting.<br>How marvelous. The monster in his body was being nourished, but he would let it grow into a massive beast.<br>How marvelous. He had already lost all will to live, but his body regenerated without any consideration for his preferences.<br>How marvelous.<br><br>Before the sword pierced his body once more, he grabbed it with his bare hands and slowly stood up.<br><i>\"Do you remember now?\"</i><br>He met the woman's blood-red eyes, his mind still empty.<br>— He was run through by the sword once again.<br><i>\"Remember the feeling of death, and bring it to them.\"</i><br><br>Crimson resurfaced in his vision. He stared at the sword that killed him. The blade was broken in half and lying on the ground.<br><i>\"Rise, and let me kill you once more.\"<br></i>"
+            "Title": "Greeting",
+            "Voice": "Back again...? The fate of those I remember is never a good one."
         },
         {
-            "_id": 3,
-            "Story": "The only thing he could sense was a splotch of crimson in his sight and the taste of iron in his mouth. His limbs were unresponsive.<br>— He must have died.<br><br>The black-haired young man shivered violently all over, but still clutched onto the spear in his hands.<br>He had no dragon horns, and his reaction was slightly less mature than he remembered...<br>But he would never forget this spear, these eyes, and how cruelty burst out from beneath the mirror-like emerald calmness.<br>His wounds began to heal. His irises flickered and fixed their gaze at the boy once more.<br>Without hesitation, the boy made another flourish with the spear...<br><br><i>\"That's it.\"</i><br>The one who showed no mercy to enemies - was you.<br>The one who single-handedly buried the beloved - was you.<br>The one who almost led the place called home to its destruction - was also you.<br><br>He fell down again.<br>The teen pressed his hand against his own wounds and retreated, until he was no longer in the man's sight.<br><i>\"Before I witness your death in person, we will meet again, ███.\"</i>"
+            "Title": "Parting",
+            "Voice": "Go. When the mara strikes, you don't want to be next to me."
         },
         {
-            "_id": 4,
-            "Story": "The only thing he could sense was a splotch of crimson in his sight and the taste of iron in his mouth. His limbs were unresponsive.<br>— He must have died.<br><br>The monster swallowed him again, but this time, his enemy is not another person.<br>The imposing armor stayed quiet. He was grappled and imprisoned within those pair of arms. The speaker was the woman with sunglasses.<br><br><i>\"<u>Listen</u>, I can always kill you again, otherwise I can't bring you back.\"</i><br>Her voice was very gentle, and even the monster inside his body stayed silent to listen to her.<br><i>\"But I don't want to.\"</i><br>The woman leaned down and whispered in his ear. It was a deal he couldn't refuse. <br><i>\"What do you people want?\"<br>\"Is there anything more satisfying than seeing how the undying die? That's what 'he' said.\"</i><br><br>The giant armor loosened its arms. \"Destiny\" was ahead, and he will be leaving with them.<br><i>\"<u>Listen</u>, Bladie, loosen up.\"<br>\"<u>Listen</u>, don't think about anything at all.\"</i> He nodded. The woman walked to his side, smiling. Yet he thought her smile looked very sad.<br><i>\"Maybe someone left her before they could listen to everything she had to say,\"</i> he thought."
+            "Title": "About Self: Name",
+            "Voice": "To whittle oneself away, to tear your enemies apart — that is the power of a blade."
         },
         {
-            "_id": 5,
-            "Story": "He could no longer see anything.<br><br>He remembered that, decades ago, he came to the Xianzhou with a merchant vessel and was impressed by the superb craftsmanship of this place. <br>The young man was obsessed to the point of forgetting to eat or drink, and spent his inspiration like he was running out of time. He forged hundreds of marvels, four of which were the most famous.<br><br>The sword named Shard Sword was flawless in its make, its inky body glimmered with a sheen of sanguine. Only the strongest swordmaster on the Xianzhou could demonstrate the true meaning of this blade.<br>The Foxian girl once loosened three arrows simultaneously with her recurve bow in a dire situation, while still continuing to navigate the starskiff and laughing with the others.<br>The black-haired man with dragon horns used his water manipulation abilities to rejuvenate his allies, and in the next moment he bound the water upon his spear and used it to run his enemies through.<br>There was also the boy who kept bickering with him. Yet the moment the youth saw the Devastator Glaive, he grabbed it and never wished to part with it.<br><br>Now, ██ had died. His first — and only — death.<br>However, he was still here, his youth-like brain churning and thinking - thinking for all eternity.<br>He thought about his hands that were no longer dexterous. The hands that could no longer forge another weapon.<br>— But none of this mattered to him.<br>From this moment on, that body will be the one and only \"Blade.\""
+            "Title": "About Self: Mara-struck",
+            "Voice": "We are all mara-stricken in different ways, but my situation is unusual. Although the mara haunts me, memories of it seldom cross my mind, be they of remorse, hatred, fear, or reflection."
+        },
+        {
+            "Title": "About Self: Demons",
+            "Voice": "When the mara strikes... I become something else."
+        },
+        {
+            "Title": "Chat: Stellaron Hunters",
+            "Voice": "By banding together, we reach our goals."
+        },
+        {
+            "Title": "Chat: Immortality",
+            "Voice": "The hope that \"this will be the last time\" always vanishes in bitter healing of the flesh."
+        },
+        {
+            "Title": "Chat: Sacrifice",
+            "Voice": "Of five people, three must pay a price... These words are carved into my every wound..."
+        },
+        {
+            "Title": "Blade's Hobbies",
+            "Voice": "Only in the brief moments of its wielding can a blade truly disappear."
+        },
+        {
+            "Title": "Blade's Annoyances",
+            "Voice": "When will death come for me? My patience is wearing thin."
+        },
+        {
+            "Title": "Something to Share",
+            "Voice": "There are countless weapons sharper than mine, but after a thousand clashes, what does it matter?"
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "The dead know no fear."
+        },
+        {
+            "Title": "About Kafka",
+            "Voice": "The mara's tether is firmly in her grasp. She will not pull upon it before the designated time, but nor shall she relinquish it."
+        },
+        {
+            "Title": "About Silver Wolf",
+            "Voice": "Within that world she calls a \"game,\" she will never give up, nor yield to death."
+        },
+        {
+            "Title": "About Jing Yuan",
+            "Voice": "He always... He always understood the price better than any of us, yet he never spoke up — never did anything!"
+        },
+        {
+            "Title": "About Dan Heng",
+            "Voice": "Imbibitor Lunae... When will our retribution come? How can our debt be repaid?"
+        },
+        {
+            "Title": "About Jingliu",
+            "Voice": "As she brandished her sword, phantom pain surged through every part of my body... all because of her!"
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "Life itself is punishment."
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "There is no shortcut to destruction."
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "...Tell me this is the end."
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "One of the lesser sufferings I've endured."
+        },
+        {
+            "Title": "Added to Team With Kafka",
+            "Voice": "Those who can't bury us, are waiting to be buried, Kafka."
+        },
+        {
+            "Title": "Added to Team With Silver Wolf",
+            "Voice": "I don't understand your games and tricks, but suit yourself."
+        },
+        {
+            "Title": "Added to Team With Jingliu",
+            "Voice": "Jingliu... witness my every move, my suffering."
+        },
+        {
+            "Title": "Added to Team With Jing Yuan",
+            "Voice": "Your new-found enthusiasm is amusing, Jing Yuan."
+        },
+        {
+            "Title": "Added to Team With Dan Heng",
+            "Voice": "Need me to watch your back?"
+        },
+        {
+            "Title": "Added to Team With Dan Heng • Imbibitor Lunae",
+            "Voice": "Need me to watch your back?"
+        },
+        {
+            "Title": "About Sam",
+            "Voice": "I live in an eternal purgatory. And Sam — he is good at creating purgatory."
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "You impede me."
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "What surprises do you hold?"
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "I will dispatch you by my sword."
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "A blade's edge knows no mercy."
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "Waiting drains one's vigor."
+        },
+        {
+            "Title": "Enhanced Basic Attack",
+            "Voice": "Make good... the loss!"
+        },
+        {
+            "Title": "Skill 1",
+            "Voice": "The fight... is set!"
+        },
+        {
+            "Title": "Skill 2",
+            "Voice": "Your end... approaches!"
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "Too little..."
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "Well timed."
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "That paradise may be unreachable for me ..."
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "Savor it in my place... Hmph!"
+        },
+        {
+            "Title": "Talent",
+            "Voice": "A vale... to send you!"
+        },
+        {
+            "Title": "Downed",
+            "Voice": "Is there a chance...?"
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "I live? *sigh*"
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "Unnecessary."
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "This sword needs sharpening."
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "That's all."
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "Hmph."
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "Take them."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "Done."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "As expected."
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "We can get closer."
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "Are there other matters?"
         }
     ]
 }

@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23019": "She once loved to seal the moment when plum blossoms were on the verge of wilting and keep them close to her.<br>It has been many years since then. Many lifeforms — rambunctious, sweet, and everything in between — have bloomed from her hands, but the plum blossoms still wilt at their preordained times.<br>It has been many years since then. Her visage in the mirror seems untouched by time. But, in the grand scheme of the cosmos, is she too destined to last for but a fleeting moment?<br><br><i>\"If all is set for eventual demise, what purpose, then, does creation serve?\"</i><br>After a silence that seems to stretch to eternity, the winds blow, the petals fall, and the reflection in the mirror tenders the same answer as always.<br><i>\"For the day when plum blossoms are no longer kept.\"</i><br>She deftly caresses the icy surface of the mirror. Such soliloquies have happened too many times for her to count."
+    "23019": "彼女は梅の花が散りそうになった時、その瞬間を封印して傍に置いておくのが好きだった。<br>それから何年も経ち、騒々しいもの、甘いもの、様々な生命が彼女の手によって生み出されたが、梅の花だけは相変わらず決まった時期に散ってしまう。<br>何年経っても、鏡に映る姿は変わらない。しかし宇宙の尺度でいえば、彼女も短い時間しか生きられないということになるのだろうか？<br><br><i>「すべてが死から逃れられないのなら、創造に何の意味があるのでしょう？」</i><br>永遠に続くかと思われた沈黙の後、風が吹き花が散る中で、鏡の中の人物は昔と同じように答えた。<br><br><i>「梅の花を留める必要のない未来のために」</i><br>こうして冷たい鏡面を撫でながら呟くのは、もう何度目になるのだろうか。"
 }
 
 var _weaponskill_ = {

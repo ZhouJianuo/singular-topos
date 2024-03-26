@@ -2,11 +2,2517 @@
 
 var _chaos_2 = [
     {
-        "_id": 1009,
-        "Name": "Enigma in Deep Space",
+        "_id": 1011,
+        "Name": "애틋한 꿈세계",
         "Buff": {
-            "Name": "Memory Turbulence",
-            "Desc": "After an ally Breaks enemies' Weaknesses or attacks Weakness Broken enemies, add <color style='color:#f29e38;'>1.0</color> Hit(s) Per Action to Memory Turbulence, up to <color style='color:#f29e38;'>10.0</color> extra hits.<br>At the start of every Cycle, every hit will deal DMG based on the enemy targets' respective Max HP to random enemy targets 1 time."
+            "Name": "기억의 와류",
+            "Desc": "모든 아군의 일반 공격과 전투 스킬이 가하는 피해가 <color style='color:#f29e38;'>50.0%</color> 증가하며, 전투 스킬 포인트를 1pt 소모할 때마다 [기억의 와류]의 공격 단수가 <color style='color:#f29e38;'>1.0</color>단 증가한다. (최대 <color style='color:#f29e38;'>10.0</color>단 증가)<br>라운드 시작 시 공격 단수마다 임의의 적에게 목표 HP 최대치에 따른 피해를 1회 가한다"
+        },
+        "Floors": [
+            {
+                "Floor": 1,
+                "ElemUpper": [
+                    "Wind",
+                    "Imaginary"
+                ],
+                "ElemLower": [
+                    "Phys",
+                    "Quantum"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 59714,
+                "HPMulti": 36215,
+                "Upper": [
+                    {
+                        "Level": 68,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 2022110,
+                                    "HP": 16095,
+                                    "SPD": 110,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 2023010,
+                                    "HP": 96573,
+                                    "SPD": 132,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 2022110,
+                                    "HP": 16095,
+                                    "SPD": 110,
+                                    "Stance": 3
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 2023010,
+                                    "HP": 96573,
+                                    "SPD": 132,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 8013010,
+                                    "HP": 88525,
+                                    "SPD": 110,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 68,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 1002030,
+                                    "HP": 16900,
+                                    "SPD": 110,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 1003010,
+                                    "HP": 80477,
+                                    "SPD": 132,
+                                    "Stance": 8
+                                },
+                                {
+                                    "ID": 1002030,
+                                    "HP": 16900,
+                                    "SPD": 110,
+                                    "Stance": 3
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 8003030,
+                                    "HP": 88525,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 1003010,
+                                    "HP": 80477,
+                                    "SPD": 132,
+                                    "Stance": 8
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 2,
+                "ElemUpper": [
+                    "Fire",
+                    "Elec",
+                    "Wind"
+                ],
+                "ElemLower": [
+                    "Ice",
+                    "Imaginary"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 91342,
+                "HPMulti": 73321,
+                "Upper": [
+                    {
+                        "Level": 70,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 3002010,
+                                    "HP": 24293,
+                                    "SPD": 110,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 3003010,
+                                    "HP": 159009,
+                                    "SPD": 110,
+                                    "Stance": 16
+                                },
+                                {
+                                    "ID": 3002030,
+                                    "HP": 19876,
+                                    "SPD": 110,
+                                    "Stance": 3
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 3003010,
+                                    "HP": 159009,
+                                    "SPD": 110,
+                                    "Stance": 16
+                                },
+                                {
+                                    "ID": 8003040,
+                                    "HP": 88338,
+                                    "SPD": 189,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 70,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 8022010,
+                                    "HP": 19876,
+                                    "SPD": 158,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 8003050,
+                                    "HP": 97172,
+                                    "SPD": 110,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 8022020,
+                                    "HP": 27826,
+                                    "SPD": 158,
+                                    "Stance": 4
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 8024011,
+                                    "HP": 159009,
+                                    "HPCount": 2,
+                                    "SPD": 158,
+                                    "Stance": 16
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 3,
+                "ElemUpper": [
+                    "Ice",
+                    "Elec"
+                ],
+                "ElemLower": [
+                    "Fire"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 93146,
+                "HPMulti": 61223,
+                "Upper": [
+                    {
+                        "Level": 73,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 2022060,
+                                    "HP": 24052,
+                                    "SPD": 91,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 2023030,
+                                    "HP": 120259,
+                                    "SPD": 132,
+                                    "Stance": 14
+                                },
+                                {
+                                    "ID": 2022040,
+                                    "HP": 17492,
+                                    "SPD": 130,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 2022060,
+                                    "HP": 24052,
+                                    "SPD": 91,
+                                    "Stance": 3
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 2023030,
+                                    "HP": 120259,
+                                    "SPD": 132,
+                                    "Stance": 14
+                                },
+                                {
+                                    "ID": 1013010,
+                                    "HP": 142124,
+                                    "SPD": 132,
+                                    "Stance": 14
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 73,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 8032020,
+                                    "HP": 24052,
+                                    "SPD": 110,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 8033010,
+                                    "HP": 174922,
+                                    "SPD": 132,
+                                    "Stance": 12
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 8033010,
+                                    "HP": 174922,
+                                    "SPD": 132,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 8003010,
+                                    "HP": 109326,
+                                    "SPD": 110,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 4,
+                "ElemUpper": [
+                    "Wind",
+                    "Imaginary"
+                ],
+                "ElemLower": [
+                    "Quantum"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 95140,
+                "HPMulti": 57959,
+                "Upper": [
+                    {
+                        "Level": 75,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 2022020,
+                                    "HP": 14798,
+                                    "SPD": 110,
+                                    "Stance": 2
+                                },
+                                {
+                                    "ID": 2023010,
+                                    "HP": 147982,
+                                    "SPD": 132,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 2022020,
+                                    "HP": 14798,
+                                    "SPD": 110,
+                                    "Stance": 2
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 2023010,
+                                    "HP": 147982,
+                                    "SPD": 132,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 8013010,
+                                    "HP": 135650,
+                                    "SPD": 110,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 75,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 3002010,
+                                    "HP": 33912,
+                                    "SPD": 110,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 8003030,
+                                    "HP": 135650,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 1022010,
+                                    "HP": 18498,
+                                    "SPD": 110,
+                                    "Stance": 2
+                                },
+                                {
+                                    "ID": 1022010,
+                                    "HP": 18498,
+                                    "SPD": 110,
+                                    "Stance": 2
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 1023020,
+                                    "HP": 147982,
+                                    "SPD": 110,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 8003030,
+                                    "HP": 135650,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 5,
+                "ElemUpper": [
+                    "Elec",
+                    "Wind"
+                ],
+                "ElemLower": [
+                    "Phys",
+                    "Imaginary"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 160540,
+                "HPMulti": 106786,
+                "Upper": [
+                    {
+                        "Level": 78,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 3001010,
+                                    "HP": 14431,
+                                    "SPD": 100,
+                                    "Stance": 1
+                                },
+                                {
+                                    "ID": 3003010,
+                                    "HP": 259751,
+                                    "SPD": 120,
+                                    "Stance": 16
+                                },
+                                {
+                                    "ID": 3002030,
+                                    "HP": 32469,
+                                    "SPD": 120,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 3001010,
+                                    "HP": 14431,
+                                    "SPD": 100,
+                                    "Stance": 1
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 3003010,
+                                    "HP": 259751,
+                                    "SPD": 120,
+                                    "Stance": 16
+                                },
+                                {
+                                    "ID": 2013010,
+                                    "HP": 144306,
+                                    "SPD": 120,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 78,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 3002030,
+                                    "HP": 32469,
+                                    "SPD": 120,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 3003020,
+                                    "HP": 259751,
+                                    "SPD": 173,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 3002010,
+                                    "HP": 39684,
+                                    "SPD": 120,
+                                    "Stance": 3
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 3003020,
+                                    "HP": 259751,
+                                    "SPD": 173,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 200401004,
+                                    "HP": 288612,
+                                    "SPD": 143,
+                                    "Stance": 15
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 6,
+                "ElemUpper": [
+                    "Wind",
+                    "Imaginary"
+                ],
+                "ElemLower": [
+                    "Phys",
+                    "Quantum"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 117457,
+                "HPMulti": 71234,
+                "Upper": [
+                    {
+                        "Level": 80,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 2022110,
+                                    "HP": 31660,
+                                    "SPD": 120,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 2023010,
+                                    "HP": 189957,
+                                    "SPD": 144,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 2022110,
+                                    "HP": 31660,
+                                    "SPD": 120,
+                                    "Stance": 3
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 2023010,
+                                    "HP": 189957,
+                                    "SPD": 144,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 8013010,
+                                    "HP": 174128,
+                                    "SPD": 120,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 80,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 1002030,
+                                    "HP": 33243,
+                                    "SPD": 120,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 1003010,
+                                    "HP": 158298,
+                                    "SPD": 144,
+                                    "Stance": 8
+                                },
+                                {
+                                    "ID": 1002030,
+                                    "HP": 33243,
+                                    "SPD": 120,
+                                    "Stance": 3
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 8003030,
+                                    "HP": 174128,
+                                    "SPD": 144,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 1003010,
+                                    "HP": 158298,
+                                    "SPD": 144,
+                                    "Stance": 8
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 7,
+                "ElemUpper": [
+                    "Fire",
+                    "Elec",
+                    "Wind"
+                ],
+                "ElemLower": [
+                    "Ice",
+                    "Imaginary"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 182428,
+                "HPMulti": 146437,
+                "Upper": [
+                    {
+                        "Level": 82,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 3002010,
+                                    "HP": 48518,
+                                    "SPD": 120,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 3003010,
+                                    "HP": 317574,
+                                    "SPD": 120,
+                                    "Stance": 16
+                                },
+                                {
+                                    "ID": 3002030,
+                                    "HP": 39697,
+                                    "SPD": 120,
+                                    "Stance": 3
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 3003010,
+                                    "HP": 317574,
+                                    "SPD": 120,
+                                    "Stance": 16
+                                },
+                                {
+                                    "ID": 8003040,
+                                    "HP": 176430,
+                                    "SPD": 206,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 82,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 8022010,
+                                    "HP": 39697,
+                                    "SPD": 173,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 8003050,
+                                    "HP": 194073,
+                                    "SPD": 120,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 8022020,
+                                    "HP": 55575,
+                                    "SPD": 173,
+                                    "Stance": 4
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 8024011,
+                                    "HP": 317574,
+                                    "HPCount": 2,
+                                    "SPD": 173,
+                                    "Stance": 16
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 8,
+                "ElemUpper": [
+                    "Ice",
+                    "Elec"
+                ],
+                "ElemLower": [
+                    "Fire"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 176510,
+                "HPMulti": 116016,
+                "Upper": [
+                    {
+                        "Level": 85,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 2022060,
+                                    "HP": 45578,
+                                    "SPD": 100,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 2023030,
+                                    "HP": 227889,
+                                    "SPD": 144,
+                                    "Stance": 14
+                                },
+                                {
+                                    "ID": 2022040,
+                                    "HP": 33147,
+                                    "SPD": 142,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 2022060,
+                                    "HP": 45578,
+                                    "SPD": 100,
+                                    "Stance": 3
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 2023030,
+                                    "HP": 227889,
+                                    "SPD": 144,
+                                    "Stance": 14
+                                },
+                                {
+                                    "ID": 1013010,
+                                    "HP": 269323,
+                                    "SPD": 144,
+                                    "Stance": 14
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 85,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 8032020,
+                                    "HP": 45578,
+                                    "SPD": 120,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 8033010,
+                                    "HP": 331474,
+                                    "SPD": 144,
+                                    "Stance": 12
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 8033010,
+                                    "HP": 331474,
+                                    "SPD": 144,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 8003010,
+                                    "HP": 207171,
+                                    "SPD": 120,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 9,
+                "ElemUpper": [
+                    "Wind",
+                    "Imaginary"
+                ],
+                "ElemLower": [
+                    "Quantum"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 187288,
+                "HPMulti": 114097,
+                "Upper": [
+                    {
+                        "Level": 88,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 2022020,
+                                    "HP": 29131,
+                                    "SPD": 132,
+                                    "Stance": 2
+                                },
+                                {
+                                    "ID": 2023010,
+                                    "HP": 291310,
+                                    "SPD": 158,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 2022020,
+                                    "HP": 29131,
+                                    "SPD": 132,
+                                    "Stance": 2
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 2023010,
+                                    "HP": 291310,
+                                    "SPD": 158,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 8013010,
+                                    "HP": 267034,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 88,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 3002010,
+                                    "HP": 66759,
+                                    "SPD": 132,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 8003030,
+                                    "HP": 267034,
+                                    "SPD": 158,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 1022010,
+                                    "HP": 36414,
+                                    "SPD": 132,
+                                    "Stance": 2
+                                },
+                                {
+                                    "ID": 1022010,
+                                    "HP": 36414,
+                                    "SPD": 132,
+                                    "Stance": 2
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 1023020,
+                                    "HP": 291310,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 8003030,
+                                    "HP": 267034,
+                                    "SPD": 158,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 10,
+                "ElemUpper": [
+                    "Elec",
+                    "Wind"
+                ],
+                "ElemLower": [
+                    "Phys",
+                    "Imaginary"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 299872,
+                "HPMulti": 199465,
+                "Upper": [
+                    {
+                        "Level": 90,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 3001010,
+                                    "HP": 26955,
+                                    "SPD": 110,
+                                    "Stance": 1
+                                },
+                                {
+                                    "ID": 3003010,
+                                    "HP": 485186,
+                                    "SPD": 132,
+                                    "Stance": 16
+                                },
+                                {
+                                    "ID": 3002030,
+                                    "HP": 60648,
+                                    "SPD": 132,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 3001010,
+                                    "HP": 26955,
+                                    "SPD": 110,
+                                    "Stance": 1
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 3003010,
+                                    "HP": 485186,
+                                    "SPD": 132,
+                                    "Stance": 16
+                                },
+                                {
+                                    "ID": 2013010,
+                                    "HP": 269548,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 90,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 3002030,
+                                    "HP": 60648,
+                                    "SPD": 132,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 3003020,
+                                    "HP": 485186,
+                                    "SPD": 190,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 3002010,
+                                    "HP": 74126,
+                                    "SPD": 132,
+                                    "Stance": 3
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 3003020,
+                                    "HP": 485186,
+                                    "SPD": 190,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 200401004,
+                                    "HP": 539096,
+                                    "SPD": 157,
+                                    "Stance": 15
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 11,
+                "ElemUpper": [
+                    "Fire",
+                    "Elec",
+                    "Wind"
+                ],
+                "ElemLower": [
+                    "Imaginary"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 451260,
+                "HPMulti": 297438,
+                "Upper": [
+                    {
+                        "Level": 92,
+                        "HardLevelGroup": 3,
+                        "EliteGroup": {
+                            "ID": 221,
+                            "HP": 0.975
+                        },
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 3003010,
+                                    "HP": 524891,
+                                    "SPD": 132,
+                                    "Stance": 16
+                                },
+                                {
+                                    "ID": 8003040,
+                                    "HP": 291606,
+                                    "SPD": 227,
+                                    "Stance": 10
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 101401009,
+                                    "HP": 670694,
+                                    "SPD": 158,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 3003010,
+                                    "HP": 524891,
+                                    "SPD": 132,
+                                    "Stance": 16
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 92,
+                        "HardLevelGroup": 3,
+                        "EliteGroup": {
+                            "ID": 221,
+                            "HP": 0.975
+                        },
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 1013020,
+                                    "HP": 320767,
+                                    "SPD": 190,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 8003050,
+                                    "HP": 320767,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 3002010,
+                                    "HP": 80192,
+                                    "SPD": 132,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 3024020,
+                                    "HP": 1458030,
+                                    "SPD": 158,
+                                    "Stance": 20
+                                },
+                                {
+                                    "ID": 1013020,
+                                    "HP": 320767,
+                                    "SPD": 190,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 12,
+                "ElemUpper": [
+                    "Elec"
+                ],
+                "ElemLower": [
+                    "Wind",
+                    "Imaginary"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 385187,
+                "HPMulti": 272469,
+                "Upper": [
+                    {
+                        "Level": 95,
+                        "HardLevelGroup": 3,
+                        "EliteGroup": {
+                            "ID": 222,
+                            "HP": 0.929
+                        },
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 3002010,
+                                    "HP": 89201,
+                                    "SPD": 132,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 2013010,
+                                    "HP": 324368,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 1023010,
+                                    "HP": 356804,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 1023010,
+                                    "HP": 356804,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 100402005,
+                                    "HP": 551425,
+                                    "SPD": 158,
+                                    "Stance": 12
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 95,
+                        "HardLevelGroup": 3,
+                        "EliteGroup": {
+                            "ID": 222,
+                            "HP": 0.929
+                        },
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 2023010,
+                                    "HP": 389241,
+                                    "SPD": 158,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 8013010,
+                                    "HP": 356804,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 3014020,
+                                    "HP": 713609,
+                                    "HPCount": 2,
+                                    "SPD": 190,
+                                    "Stance": 24
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": 1010,
+        "Name": "다시 빛나는 불꽃",
+        "Buff": {
+            "Name": "기억의 와류",
+            "Desc": "웨이브 또는 라운드가 시작될 때마다 랜덤으로 모든 적에게 다음 디버프 효과를 <color style='color:#f29e38;'>10.0</color>회 부여한다: 공격력 <color style='color:#f29e38;'>8.0%</color> 감소, 방어력 <color style='color:#f29e38;'>8.0%</color> 감소, 속도 <color style='color:#f29e38;'>8.0%</color> 감소, 효과 저항 <color style='color:#f29e38;'>8.0%</color> 감소, 받는 추가 공격 피해 <color style='color:#f29e38;'>20.0%</color> 증가. 각 효과의 최대 중첩수: <color style='color:#f29e38;'>3.0</color>스택, 지속 시간: <color style='color:#f29e38;'>3.0</color>턴. 또한, 아군의 「수렵」 혹은 「파멸」 운명의 길 목표 1명을 즉시 행동하게 한다"
+        },
+        "Floors": [
+            {
+                "Floor": 1,
+                "ElemUpper": [
+                    "Wind",
+                    "Imaginary"
+                ],
+                "ElemLower": [
+                    "Ice",
+                    "Elec"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 63496,
+                "HPMulti": 39434,
+                "Upper": [
+                    {
+                        "Level": 68,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 8012010,
+                                    "HP": 12072,
+                                    "SPD": 110,
+                                    "Stance": 2
+                                },
+                                {
+                                    "ID": 8013010,
+                                    "HP": 88525,
+                                    "SPD": 110,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 8012020,
+                                    "HP": 14486,
+                                    "SPD": 132,
+                                    "Stance": 2
+                                },
+                                {
+                                    "ID": 8012020,
+                                    "HP": 14486,
+                                    "SPD": 132,
+                                    "Stance": 2
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 8013010,
+                                    "HP": 88525,
+                                    "SPD": 110,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 2023010,
+                                    "HP": 96573,
+                                    "SPD": 132,
+                                    "Stance": 12
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 68,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 1012030,
+                                    "HP": 11267,
+                                    "SPD": 110,
+                                    "Stance": 2
+                                },
+                                {
+                                    "ID": 1013010,
+                                    "HP": 104620,
+                                    "SPD": 132,
+                                    "Stance": 14
+                                },
+                                {
+                                    "ID": 1012030,
+                                    "HP": 11267,
+                                    "SPD": 110,
+                                    "Stance": 2
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 1013010,
+                                    "HP": 104620,
+                                    "SPD": 132,
+                                    "Stance": 14
+                                },
+                                {
+                                    "ID": 2023030,
+                                    "HP": 88525,
+                                    "SPD": 132,
+                                    "Stance": 14
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 2,
+                "ElemUpper": [
+                    "Quantum"
+                ],
+                "ElemLower": [
+                    "Fire",
+                    "Wind"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 67049,
+                "HPMulti": 40636,
+                "Upper": [
+                    {
+                        "Level": 70,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 8002010,
+                                    "HP": 16784,
+                                    "SPD": 132,
+                                    "Stance": 2
+                                },
+                                {
+                                    "ID": 1023020,
+                                    "HP": 106006,
+                                    "SPD": 110,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 8002010,
+                                    "HP": 16784,
+                                    "SPD": 132,
+                                    "Stance": 2
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 1023020,
+                                    "HP": 106006,
+                                    "SPD": 110,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 8003020,
+                                    "HP": 88338,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 70,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 1022020,
+                                    "HP": 13251,
+                                    "SPD": 110,
+                                    "Stance": 2
+                                },
+                                {
+                                    "ID": 8003010,
+                                    "HP": 88338,
+                                    "SPD": 110,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 1022020,
+                                    "HP": 13251,
+                                    "SPD": 110,
+                                    "Stance": 2
+                                },
+                                {
+                                    "ID": 1022010,
+                                    "HP": 13251,
+                                    "SPD": 110,
+                                    "Stance": 2
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 2022040,
+                                    "HP": 14134,
+                                    "SPD": 130,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 2023020,
+                                    "HP": 106006,
+                                    "SPD": 158,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 8003010,
+                                    "HP": 88338,
+                                    "SPD": 110,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 3,
+                "ElemUpper": [
+                    "Imaginary"
+                ],
+                "ElemLower": [
+                    "Elec",
+                    "Wind"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 81448,
+                "HPMulti": 53570,
+                "Upper": [
+                    {
+                        "Level": 73,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 2002030,
+                                    "HP": 16399,
+                                    "SPD": 132,
+                                    "Stance": 2
+                                },
+                                {
+                                    "ID": 2013020,
+                                    "HP": 131191,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 2012010,
+                                    "HP": 16399,
+                                    "SPD": 110,
+                                    "Stance": 2
+                                },
+                                {
+                                    "ID": 2002030,
+                                    "HP": 16399,
+                                    "SPD": 132,
+                                    "Stance": 2
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 8003050,
+                                    "HP": 120259,
+                                    "SPD": 110,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 2013020,
+                                    "HP": 131191,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 73,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 8003040,
+                                    "HP": 109326,
+                                    "SPD": 189,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 8003040,
+                                    "HP": 109326,
+                                    "SPD": 189,
+                                    "Stance": 10
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 2004020,
+                                    "HP": 163989,
+                                    "SPD": 132,
+                                    "Stance": 16
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 4,
+                "ElemUpper": [
+                    "Wind"
+                ],
+                "ElemLower": [
+                    "Ice",
+                    "Imaginary"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 103094,
+                "HPMulti": 69058,
+                "Upper": [
+                    {
+                        "Level": 75,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 2022110,
+                                    "HP": 24664,
+                                    "SPD": 110,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 2023010,
+                                    "HP": 147982,
+                                    "SPD": 132,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 2022110,
+                                    "HP": 24664,
+                                    "SPD": 110,
+                                    "Stance": 3
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 2023010,
+                                    "HP": 147982,
+                                    "SPD": 132,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 8003030,
+                                    "HP": 135650,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 75,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 8033010,
+                                    "HP": 197309,
+                                    "SPD": 132,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 8032010,
+                                    "HP": 19731,
+                                    "SPD": 130,
+                                    "Stance": 2
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 8033010,
+                                    "HP": 197309,
+                                    "SPD": 132,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 1013020,
+                                    "HP": 135650,
+                                    "SPD": 158,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 5,
+                "ElemUpper": [
+                    "Elec"
+                ],
+                "ElemLower": [
+                    "Ice",
+                    "Imaginary"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 137956,
+                "HPMulti": 99571,
+                "Upper": [
+                    {
+                        "Level": 78,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 2022060,
+                                    "HP": 31747,
+                                    "SPD": 100,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 2023030,
+                                    "HP": 158736,
+                                    "SPD": 144,
+                                    "Stance": 14
+                                },
+                                {
+                                    "ID": 2022060,
+                                    "HP": 31747,
+                                    "SPD": 100,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 2022020,
+                                    "HP": 17317,
+                                    "SPD": 120,
+                                    "Stance": 2
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 2023030,
+                                    "HP": 158736,
+                                    "SPD": 144,
+                                    "Stance": 14
+                                },
+                                {
+                                    "ID": 2013010,
+                                    "HP": 144306,
+                                    "SPD": 120,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 78,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 1023010,
+                                    "HP": 158736,
+                                    "SPD": 120,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 1023010,
+                                    "HP": 158736,
+                                    "SPD": 120,
+                                    "Stance": 10
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 8024011,
+                                    "HP": 259751,
+                                    "HPCount": 2,
+                                    "SPD": 173,
+                                    "Stance": 16
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 6,
+                "ElemUpper": [
+                    "Wind",
+                    "Imaginary"
+                ],
+                "ElemLower": [
+                    "Ice",
+                    "Elec"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 124897,
+                "HPMulti": 77566,
+                "Upper": [
+                    {
+                        "Level": 80,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 8012010,
+                                    "HP": 23745,
+                                    "SPD": 120,
+                                    "Stance": 2
+                                },
+                                {
+                                    "ID": 8013010,
+                                    "HP": 174128,
+                                    "SPD": 120,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 8012020,
+                                    "HP": 28494,
+                                    "SPD": 144,
+                                    "Stance": 2
+                                },
+                                {
+                                    "ID": 8012020,
+                                    "HP": 28494,
+                                    "SPD": 144,
+                                    "Stance": 2
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 8013010,
+                                    "HP": 174128,
+                                    "SPD": 120,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 2023010,
+                                    "HP": 189957,
+                                    "SPD": 144,
+                                    "Stance": 12
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 80,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 1012030,
+                                    "HP": 22162,
+                                    "SPD": 120,
+                                    "Stance": 2
+                                },
+                                {
+                                    "ID": 1013010,
+                                    "HP": 205787,
+                                    "SPD": 144,
+                                    "Stance": 14
+                                },
+                                {
+                                    "ID": 1012030,
+                                    "HP": 22162,
+                                    "SPD": 120,
+                                    "Stance": 2
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 1013010,
+                                    "HP": 205787,
+                                    "SPD": 144,
+                                    "Stance": 14
+                                },
+                                {
+                                    "ID": 2023030,
+                                    "HP": 174128,
+                                    "SPD": 144,
+                                    "Stance": 14
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 7,
+                "ElemUpper": [
+                    "Quantum"
+                ],
+                "ElemLower": [
+                    "Fire",
+                    "Wind"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 141312,
+                "HPMulti": 85643,
+                "Upper": [
+                    {
+                        "Level": 83,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 8002010,
+                                    "HP": 35374,
+                                    "SPD": 144,
+                                    "Stance": 2
+                                },
+                                {
+                                    "ID": 1023020,
+                                    "HP": 223418,
+                                    "SPD": 120,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 8002010,
+                                    "HP": 35374,
+                                    "SPD": 144,
+                                    "Stance": 2
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 1023020,
+                                    "HP": 223418,
+                                    "SPD": 120,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 8003020,
+                                    "HP": 186181,
+                                    "SPD": 144,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 83,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 1022020,
+                                    "HP": 27927,
+                                    "SPD": 120,
+                                    "Stance": 2
+                                },
+                                {
+                                    "ID": 8003010,
+                                    "HP": 186181,
+                                    "SPD": 120,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 1022020,
+                                    "HP": 27927,
+                                    "SPD": 120,
+                                    "Stance": 2
+                                },
+                                {
+                                    "ID": 1022010,
+                                    "HP": 27927,
+                                    "SPD": 120,
+                                    "Stance": 2
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 2022040,
+                                    "HP": 29789,
+                                    "SPD": 142,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 2023020,
+                                    "HP": 223418,
+                                    "SPD": 173,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 8003010,
+                                    "HP": 186181,
+                                    "SPD": 120,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 8,
+                "ElemUpper": [
+                    "Imaginary"
+                ],
+                "ElemLower": [
+                    "Elec",
+                    "Wind"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 154343,
+                "HPMulti": 101514,
+                "Upper": [
+                    {
+                        "Level": 85,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 2002030,
+                                    "HP": 31076,
+                                    "SPD": 144,
+                                    "Stance": 2
+                                },
+                                {
+                                    "ID": 2013020,
+                                    "HP": 248606,
+                                    "SPD": 144,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 2012010,
+                                    "HP": 31076,
+                                    "SPD": 120,
+                                    "Stance": 2
+                                },
+                                {
+                                    "ID": 2002030,
+                                    "HP": 31076,
+                                    "SPD": 144,
+                                    "Stance": 2
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 8003050,
+                                    "HP": 227889,
+                                    "SPD": 120,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 2013020,
+                                    "HP": 248606,
+                                    "SPD": 144,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 85,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 8003040,
+                                    "HP": 207171,
+                                    "SPD": 206,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 8003040,
+                                    "HP": 207171,
+                                    "SPD": 206,
+                                    "Stance": 10
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 2004020,
+                                    "HP": 310757,
+                                    "SPD": 144,
+                                    "Stance": 16
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 9,
+                "ElemUpper": [
+                    "Wind"
+                ],
+                "ElemLower": [
+                    "Ice",
+                    "Imaginary"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 202946,
+                "HPMulti": 135945,
+                "Upper": [
+                    {
+                        "Level": 88,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 2022110,
+                                    "HP": 48552,
+                                    "SPD": 132,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 2023010,
+                                    "HP": 291310,
+                                    "SPD": 158,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 2022110,
+                                    "HP": 48552,
+                                    "SPD": 132,
+                                    "Stance": 3
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 2023010,
+                                    "HP": 291310,
+                                    "SPD": 158,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 8003030,
+                                    "HP": 267034,
+                                    "SPD": 158,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 88,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 8033010,
+                                    "HP": 388414,
+                                    "SPD": 158,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 8032010,
+                                    "HP": 38841,
+                                    "SPD": 156,
+                                    "Stance": 2
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 8033010,
+                                    "HP": 388414,
+                                    "SPD": 158,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 1013020,
+                                    "HP": 267034,
+                                    "SPD": 190,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 10,
+                "ElemUpper": [
+                    "Elec"
+                ],
+                "ElemLower": [
+                    "Ice",
+                    "Imaginary"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 257688,
+                "HPMulti": 185988,
+                "Upper": [
+                    {
+                        "Level": 90,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 2022060,
+                                    "HP": 59301,
+                                    "SPD": 110,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 2023030,
+                                    "HP": 296503,
+                                    "SPD": 158,
+                                    "Stance": 14
+                                },
+                                {
+                                    "ID": 2022060,
+                                    "HP": 59301,
+                                    "SPD": 110,
+                                    "Stance": 3
+                                },
+                                {
+                                    "ID": 2022020,
+                                    "HP": 32346,
+                                    "SPD": 132,
+                                    "Stance": 2
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 2023030,
+                                    "HP": 296503,
+                                    "SPD": 158,
+                                    "Stance": 14
+                                },
+                                {
+                                    "ID": 2013010,
+                                    "HP": 269548,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 90,
+                        "HardLevelGroup": 3,
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 1023010,
+                                    "HP": 296503,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 1023010,
+                                    "HP": 296503,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 8024011,
+                                    "HP": 485186,
+                                    "HPCount": 2,
+                                    "SPD": 190,
+                                    "Stance": 16
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 11,
+                "ElemUpper": [
+                    "Phys",
+                    "Imaginary"
+                ],
+                "ElemLower": [
+                    "Fire",
+                    "Wind"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 271194,
+                "HPMulti": 145803,
+                "Upper": [
+                    {
+                        "Level": 92,
+                        "HardLevelGroup": 3,
+                        "EliteGroup": {
+                            "ID": 221,
+                            "HP": 0.975
+                        },
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 2013020,
+                                    "HP": 349927,
+                                    "SPD": 158,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 8013010,
+                                    "HP": 320767,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 2013020,
+                                    "HP": 349927,
+                                    "SPD": 158,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 1004030,
+                                    "HP": 349927,
+                                    "SPD": 158,
+                                    "Stance": 7
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 92,
+                        "HardLevelGroup": 3,
+                        "EliteGroup": {
+                            "ID": 221,
+                            "HP": 0.975
+                        },
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 8003010,
+                                    "HP": 291606,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 2013010,
+                                    "HP": 291606,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 1014010,
+                                    "HP": 466570,
+                                    "SPD": 158,
+                                    "Stance": 12
+                                },
+                                {
+                                    "ID": 2013010,
+                                    "HP": 291606,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 12,
+                "ElemUpper": [
+                    "Fire",
+                    "Ice"
+                ],
+                "ElemLower": [
+                    "Imaginary"
+                ],
+                "TurnNum": 30,
+                "PerfectTurnNum": 10,
+                "Targets": [
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
+                ],
+                "HPSingle": 324368,
+                "HPMulti": 214083,
+                "Upper": [
+                    {
+                        "Level": 95,
+                        "HardLevelGroup": 3,
+                        "EliteGroup": {
+                            "ID": 222,
+                            "HP": 0.929
+                        },
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 2023030,
+                                    "HP": 356804,
+                                    "SPD": 158,
+                                    "Stance": 14
+                                },
+                                {
+                                    "ID": 2023020,
+                                    "HP": 389241,
+                                    "SPD": 190,
+                                    "Stance": 12
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 2024010,
+                                    "HP": 356804,
+                                    "HPCount": 2,
+                                    "SPD": 152,
+                                    "Stance": 14
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 95,
+                        "HardLevelGroup": 3,
+                        "EliteGroup": {
+                            "ID": 222,
+                            "HP": 0.929
+                        },
+                        "Monsters": [
+                            [
+                                {
+                                    "ID": 8003050,
+                                    "HP": 356804,
+                                    "SPD": 132,
+                                    "Stance": 10
+                                },
+                                {
+                                    "ID": 2013020,
+                                    "HP": 389241,
+                                    "SPD": 158,
+                                    "Stance": 10
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 200401004,
+                                    "HP": 648735,
+                                    "SPD": 157,
+                                    "Stance": 15
+                                },
+                                {
+                                    "ID": 2013020,
+                                    "HP": 389241,
+                                    "SPD": 158,
+                                    "Stance": 10
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": 1009,
+        "Name": "심우주에 숨겨진 비밀",
+        "Buff": {
+            "Name": "기억의 와류",
+            "Desc": "아군이 적의 약점을 격파하거나 약점 격파 상태의 적 공격 후, [기억의 와류]의 공격 단수가 <color style='color:#f29e38;'>1.0</color>단 추가된다. 최대 중첩수: <color style='color:#f29e38;'>10.0</color>단<br>라운드가 시작될 때마다 임의의 적에게 공격 단수당 목표 HP 최대치에 따른 피해를 1회 가한다"
         },
         "Floors": [
             {
@@ -22,9 +2528,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 65669,
                 "HPMulti": 37019,
@@ -144,9 +2650,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 65547,
                 "HPMulti": 38869,
@@ -259,9 +2765,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 89319,
                 "HPMulti": 55756,
@@ -369,9 +2875,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 104450,
                 "HPMulti": 64125,
@@ -485,9 +2991,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 128721,
                 "HPMulti": 89470,
@@ -590,9 +3096,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 129171,
                 "HPMulti": 72817,
@@ -712,9 +3218,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 138147,
                 "HPMulti": 81920,
@@ -827,9 +3333,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 169259,
                 "HPMulti": 105657,
@@ -937,9 +3443,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 205617,
                 "HPMulti": 126234,
@@ -1053,9 +3559,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 240437,
                 "HPMulti": 167120,
@@ -1158,9 +3664,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 279942,
                 "HPMulti": 180796,
@@ -1252,9 +3758,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 363292,
                 "HPMulti": 256250,
@@ -1338,10 +3844,10 @@ var _chaos_2 = [
     },
     {
         "_id": 1008,
-        "Name": "Sedition of Imbibitor Lunae",
+        "Name": "음월의 난",
         "Buff": {
-            "Name": "Memory Turbulence",
-            "Desc": "When an ally uses their Ultimate, obtain Memory Imprint. This effect stacks up to <color style='color:#f29e38;'>10.0</color> time(s). At the start of every Cycle, regenerate Energy to all allies based on the number of Memory Imprint stacks (Each stack regenerates <color style='color:#f29e38;'>10.0</color> Energy). Energy obtained in this way can exceed allies' Max Energy."
+            "Name": "기억의 와류",
+            "Desc": "아군이 필살기 발동 시 [기억의 표식]을 획득한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>10.0</color>스택.<br>라운드가 시작될 때마다 [기억의 표식] 스택 수에 따라 모든 아군의 에너지를 회복시킨다(스택마다 에너지 <color style='color:#f29e38;'>10.0</color>pt 회복). 해당 효과로 회복하는 에너지는 목표의 에너지 최대치를 초과할 수 있다"
         },
         "Floors": [
             {
@@ -1357,9 +3863,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 62531,
                 "HPMulti": 37019,
@@ -1473,9 +3979,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 68550,
                 "HPMulti": 42402,
@@ -1578,9 +4084,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 87133,
                 "HPMulti": 54663,
@@ -1688,9 +4194,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 103710,
                 "HPMulti": 69058,
@@ -1793,9 +4299,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 126989,
                 "HPMulti": 88027,
@@ -1898,9 +4404,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 122997,
                 "HPMulti": 72817,
@@ -2014,9 +4520,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 144477,
                 "HPMulti": 89367,
@@ -2119,9 +4625,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 165116,
                 "HPMulti": 103586,
@@ -2229,9 +4735,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 204160,
                 "HPMulti": 135945,
@@ -2333,9 +4839,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 237202,
                 "HPMulti": 164424,
@@ -2429,10 +4935,10 @@ var _chaos_2 = [
     },
     {
         "_id": 1007,
-        "Name": "Oath of Eternal Alliance",
+        "Name": "영원한 맹세",
         "Buff": {
-            "Name": "Memory Turbulence",
-            "Desc": "After an ally uses their Skill or Ultimate to attack, add <color style='color:#f29e38;'>1.0</color> Hit(s) Per Action to Memory Turbulence, up to <color style='color:#f29e38;'>10.0</color> extra hits.<br>At the start of every Cycle, every hit will deal DMG based on the enemy targets' respective Max HP to random enemy targets 1 time."
+            "Name": "기억의 와류",
+            "Desc": "아군이 전투 스킬 또는 필살기를 발동해 공격 후, [기억의 와류]의 공격 단수가 <color style='color:#f29e38;'>1.0</color>단 추가된다. 최대 중첩수: <color style='color:#f29e38;'>10.0</color>단.<br>매 라운드가 시작될 때, 공격 단수마다 임의의 적에게 목표 HP 최대치에 따른 피해를 1회 준다"
         },
         "Floors": [
             {
@@ -2448,9 +4954,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 62531,
                 "HPMulti": 37019,
@@ -2564,9 +5070,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 68550,
                 "HPMulti": 42402,
@@ -2669,9 +5175,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 87133,
                 "HPMulti": 54663,
@@ -2779,9 +5285,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 103710,
                 "HPMulti": 69058,
@@ -2883,9 +5389,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 135647,
                 "HPMulti": 96685,
@@ -2988,9 +5494,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 122997,
                 "HPMulti": 72817,
@@ -3104,9 +5610,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 144477,
                 "HPMulti": 89367,
@@ -3209,9 +5715,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 165116,
                 "HPMulti": 103586,
@@ -3319,9 +5825,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 204160,
                 "HPMulti": 135945,
@@ -3423,9 +5929,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 260922,
                 "HPMulti": 183293,
@@ -3525,10 +6031,10 @@ var _chaos_2 = [
     },
     {
         "_id": 1006,
-        "Name": "Divine Root Subdual",
+        "Name": "현근 제압",
         "Buff": {
-            "Name": "Memory Turbulence",
-            "Desc": "After a character unleashes an Ultimate or a follow-up attack, deals Additional DMG equal to <color style='color:#f29e38;'>60.0%</color> of the attacking character's ATK to the attacked enemy target for <color style='color:#f29e38;'>4.0</color> times."
+            "Name": "기억의 와류",
+            "Desc": "아군이 필살기 또는 추가 공격을 발동하면, 공격을 받은 적에게 캐릭터 공격력의 <color style='color:#f29e38;'>60.0%</color>만큼 추가 피해를 <color style='color:#f29e38;'>4.0</color>회 가한다"
         },
         "Floors": [
             {
@@ -3544,9 +6050,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 41580,
                 "HPMulti": 34203,
@@ -3656,9 +6162,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 41298,
                 "HPMulti": 32391,
@@ -3786,9 +6292,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 53628,
                 "HPMulti": 42112,
@@ -3921,9 +6427,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 53107,
                 "HPMulti": 39548,
@@ -4057,9 +6563,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 72307,
                 "HPMulti": 58569,
@@ -4181,9 +6687,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 80624,
                 "HPMulti": 51127,
@@ -4283,9 +6789,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 81238,
                 "HPMulti": 48925,
@@ -4392,9 +6898,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 103425,
                 "HPMulti": 71285,
@@ -4488,9 +6994,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 131105,
                 "HPMulti": 91902,
@@ -4585,9 +7091,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 149270,
                 "HPMulti": 111560,
@@ -4673,10 +7179,10 @@ var _chaos_2 = [
     },
     {
         "_id": 1005,
-        "Name": "Ambrosial Arbor's Arrival",
+        "Name": "불멸의 거목 강림",
         "Buff": {
-            "Name": "Memory Turbulence",
-            "Desc": "At the start of every Wave or Cycle, apply Memory Imprint to an enemy target of elite level or higher. When targets with Memory Imprint receive DMG, other enemy targets receive DMG equal to <color style='color:#f29e38;'>30.0%</color> of the original DMG. This effect lasts until the start of the next Cycle."
+            "Name": "기억의 와류",
+            "Desc": "웨이브 혹은 라운드가 시작될 때마다 정예 레벨 이상의 적 1기가 [기억의 표식]을 획득한다. [기억의 표식]을 보유한 목표가 피해를 받을 시, 다른 적이 기존 피해 <color style='color:#f29e38;'>30.0%</color>만큼의 피해를 받는다. 해당 효과는 다음 라운드가 시작될 때까지 지속된다"
         },
         "Floors": [
             {
@@ -4692,9 +7198,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 41580,
                 "HPMulti": 34203,
@@ -4804,9 +7310,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 41298,
                 "HPMulti": 32391,
@@ -4934,9 +7440,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 53628,
                 "HPMulti": 42112,
@@ -5069,9 +7575,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 53107,
                 "HPMulti": 39548,
@@ -5205,9 +7711,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 72307,
                 "HPMulti": 58569,
@@ -5329,9 +7835,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 80624,
                 "HPMulti": 51127,
@@ -5431,9 +7937,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 81238,
                 "HPMulti": 48925,
@@ -5540,9 +8046,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 103425,
                 "HPMulti": 71285,
@@ -5636,9 +8142,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 131105,
                 "HPMulti": 91902,
@@ -5733,9 +8239,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 149270,
                 "HPMulti": 111560,
@@ -5821,10 +8327,10 @@ var _chaos_2 = [
     },
     {
         "_id": 1004,
-        "Name": "Living and Flaming Catastrophes",
+        "Name": "생겁과 화겁",
         "Buff": {
-            "Name": "Memory Turbulence",
-            "Desc": "When the same ally acts consecutively, they receive 1 stack of Memory Imprint. When allies with Memory Imprint attack, every Memory Imprint stack has a <color style='color:#f29e38;'>40.0%</color> fixed chance to inflict the target with Dissociation that lasts for 1 turn. Allies with Memory Imprint deal <color style='color:#f29e38;'>40.0%</color> more DMG. This effect cannot be stacked. When a different ally acts, remove all Memory Imprint stacks on the field.<br>Dissociation: This state is considered as the Freeze state. Affected units cannot take action. When this state is removed, the affected target receives Additional Ice DMG equal to <color style='color:#f29e38;'>15.0%</color> of their respective Max HP."
+            "Name": "기억의 와류",
+            "Desc": "동일한 아군이 연속으로 행동 시, [기억의 표식]을 1스택 획득한다. [기억의 표식] 보유자가 공격을 발동하면 [기억의 표식] 스택마다 <color style='color:#f29e38;'>40.0%</color>의 고정 확률로 목표를 [해리] 상태에 빠트린다. 지속 시간: 1턴. [기억의 표식]을 보유한 목표가 가하는 피해가 <color style='color:#f29e38;'>40.0%</color> 증가한다. 해당 효과는 중첩할 수 없다. 행동하는 목표가 바뀌면 필드 위의 모든 [기억의 표식]이 해제된다.<br>[해리]는 빙결 상태로 간주되며, 지속되는 동안 행동할 수 없다. 해당 상태 해제 시, 목표가 HP 최대치 <color style='color:#f29e38;'>15.0%</color>만큼의 얼음 속성 추가 피해를 받는다"
         },
         "Floors": [
             {
@@ -5840,9 +8346,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 41580,
                 "HPMulti": 34203,
@@ -5952,9 +8458,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 41298,
                 "HPMulti": 32391,
@@ -6082,9 +8588,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 53628,
                 "HPMulti": 42112,
@@ -6217,9 +8723,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 53107,
                 "HPMulti": 39548,
@@ -6353,9 +8859,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 72307,
                 "HPMulti": 58569,
@@ -6477,9 +8983,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 80624,
                 "HPMulti": 51127,
@@ -6579,9 +9085,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 81238,
                 "HPMulti": 48925,
@@ -6688,9 +9194,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 103425,
                 "HPMulti": 71285,
@@ -6784,9 +9290,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 131105,
                 "HPMulti": 91902,
@@ -6881,9 +9387,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 149270,
                 "HPMulti": 111560,
@@ -6969,10 +9475,10 @@ var _chaos_2 = [
     },
     {
         "_id": 1003,
-        "Name": "Mara and Null",
+        "Name": "마각의 공겁",
         "Buff": {
-            "Name": "Memory Turbulence",
-            "Desc": "Summons a Trotter at the beginning of each Wave and each Cycle. The Trotter takes <color style='color:#f29e38;'>200.0%</color> more DMG from Skills and Ultimates. When defeated, it inflicts Vulnerability on all enemies, making them take <color style='color:#f29e38;'>30.0%</color> more DMG for <color style='color:#f29e38;'>2.0</color> turns. This effect stacks up to <color style='color:#f29e38;'>2.0</color> times."
+            "Name": "기억의 와류",
+            "Desc": "웨이브 혹은 라운드가 시작될 때마다 저금통 1기를 필드 위에 소환한다. 해당 저금통이 받는 전투 스킬과 필살기 피해가 <color style='color:#f29e38;'>200.0%</color> 증가하며, 저금통을 처치하면 모든 적이 취약 상태에 빠지고 받는 피해가 <color style='color:#f29e38;'>30.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>2.0</color>스택"
         },
         "Floors": [
             {
@@ -6988,9 +9494,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 37824,
                 "HPMulti": 30179,
@@ -7112,9 +9618,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 40488,
                 "HPMulti": 32391,
@@ -7243,9 +9749,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 47097,
                 "HPMulti": 36096,
@@ -7367,9 +9873,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 55838,
                 "HPMulti": 42373,
@@ -7495,9 +10001,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 63148,
                 "HPMulti": 47920,
@@ -7631,9 +10137,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 74036,
                 "HPMulti": 42278,
@@ -7751,9 +10257,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 82490,
                 "HPMulti": 50063,
@@ -7859,9 +10365,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 88043,
                 "HPMulti": 55027,
@@ -7961,9 +10467,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 6 Cycle(s) left",
-                    "Win with at least 14 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 6 이상",
+                    "승리 시 남은 라운드 14 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 96749,
                 "HPMulti": 62824,
@@ -8057,9 +10563,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 6 Cycle(s) left",
-                    "Win with at least 14 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 6 이상",
+                    "승리 시 남은 라운드 14 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 113976,
                 "HPMulti": 76305,
@@ -8156,10 +10662,10 @@ var _chaos_2 = [
     },
     {
         "_id": 1002,
-        "Name": "A Shot From the Sky",
+        "Name": "하늘을 가르는 화살",
         "Buff": {
-            "Name": "Memory Turbulence",
-            "Desc": "Summons a Trotter at the beginning of each Wave or each Cycle. The Trotter takes <color style='color:#f29e38;'>200.0%</color> more DMG from Basic ATKs and Ultimates. When defeated, it deals a set amount of DMG to all enemies."
+            "Name": "기억의 와류",
+            "Desc": "웨이브 혹은 라운드가 시작될 때마다 저금통 1기를 필드 위에 소환한다. 해당 저금통이 받는 일반 공격과 필살기 피해가 <color style='color:#f29e38;'>200.0%</color> 증가하며, 저금통을 처치하면 모든 적에게 고정 수치의 피해를 1회 가한다"
         },
         "Floors": [
             {
@@ -8175,9 +10681,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 37824,
                 "HPMulti": 30179,
@@ -8299,9 +10805,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 40488,
                 "HPMulti": 32391,
@@ -8430,9 +10936,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 47097,
                 "HPMulti": 36096,
@@ -8554,9 +11060,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 55838,
                 "HPMulti": 42373,
@@ -8682,9 +11188,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 63148,
                 "HPMulti": 47920,
@@ -8818,9 +11324,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 74036,
                 "HPMulti": 42278,
@@ -8938,9 +11444,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 82490,
                 "HPMulti": 50063,
@@ -9046,9 +11552,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 88043,
                 "HPMulti": 55027,
@@ -9148,9 +11654,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 6 Cycle(s) left",
-                    "Win with at least 14 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 6 이상",
+                    "승리 시 남은 라운드 14 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 96749,
                 "HPMulti": 62824,
@@ -9244,9 +11750,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 6 Cycle(s) left",
-                    "Win with at least 14 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 6 이상",
+                    "승리 시 남은 라운드 14 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 113976,
                 "HPMulti": 76305,
@@ -9343,10 +11849,10 @@ var _chaos_2 = [
     },
     {
         "_id": 1001,
-        "Name": "Ethereal Shipcraft",
+        "Name": "공상으로 만든 배",
         "Buff": {
-            "Name": "Memory Turbulence",
-            "Desc": "Summons a Trotter at the beginning of each Wave or each Cycle. The Trotter takes <color style='color:#f29e38;'>200.0%</color> more DMG from Basic ATKs and DoT effects. When defeated, recovers <color style='color:#f29e38;'>2.0</color> Skill Points for all allies."
+            "Name": "기억의 와류",
+            "Desc": "웨이브 혹은 라운드가 시작될 때마다 저금통 1기를 필드 위에 소환한다. 해당 저금통이 받는 일반 공격과 지속 피해가 <color style='color:#f29e38;'>200.0%</color> 증가하며, 저금통을 처치하면 아군의 전투 스킬 포인트가 <color style='color:#f29e38;'>2.0pt</color> 회복된다"
         },
         "Floors": [
             {
@@ -9362,9 +11868,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 37824,
                 "HPMulti": 30179,
@@ -9486,9 +11992,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 40488,
                 "HPMulti": 32391,
@@ -9617,9 +12123,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 47097,
                 "HPMulti": 36096,
@@ -9741,9 +12247,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 55838,
                 "HPMulti": 42373,
@@ -9869,9 +12375,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 63148,
                 "HPMulti": 47920,
@@ -10005,9 +12511,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 74036,
                 "HPMulti": 42278,
@@ -10125,9 +12631,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 82490,
                 "HPMulti": 50063,
@@ -10233,9 +12739,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 14,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 16 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 16 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 88043,
                 "HPMulti": 55027,
@@ -10335,9 +12841,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 6 Cycle(s) left",
-                    "Win with at least 14 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 6 이상",
+                    "승리 시 남은 라운드 14 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 96749,
                 "HPMulti": 62824,
@@ -10431,9 +12937,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 6 Cycle(s) left",
-                    "Win with at least 14 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 6 이상",
+                    "승리 시 남은 라운드 14 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 113976,
                 "HPMulti": 76305,
@@ -10530,10 +13036,10 @@ var _chaos_2 = [
     },
     {
         "_id": 115,
-        "Name": "Traces of Sanctus Medicus",
+        "Name": "약왕의 화신",
         "Buff": {
-            "Name": "Memory Turbulence",
-            "Desc": "At the start of each Cycle, all enemies currently inflicted with DoT are immediately dealt DMG equal to <color style='color:#f29e38;'>200.0%</color> of the original DMG from all their DoT effects."
+            "Name": "기억의 와류",
+            "Desc": "라운드가 시작될 때마다 모든 적이 현재 받는 모든 지속 피해에 원래 피해의 <color style='color:#f29e38;'>200.0%</color>만큼의 피해가 생성된다"
         },
         "Floors": [
             {
@@ -10549,9 +13055,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 39300,
                 "HPMulti": 30179,
@@ -10680,9 +13186,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 43433,
                 "HPMulti": 31654,
@@ -10827,9 +13333,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 47612,
                 "HPMulti": 37815,
@@ -10952,9 +13458,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 51412,
                 "HPMulti": 41431,
@@ -11098,9 +13604,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 59315,
                 "HPMulti": 45791,
@@ -11228,9 +13734,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 16 Cycle(s) left",
-                    "Win with at least 24 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 16 이상",
+                    "승리 시 남은 라운드 24 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 74847,
                 "HPMulti": 46113,
@@ -11357,9 +13863,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 16 Cycle(s) left",
-                    "Win with at least 24 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 16 이상",
+                    "승리 시 남은 라운드 24 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 85519,
                 "HPMulti": 51371,
@@ -11505,9 +14011,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 16 Cycle(s) left",
-                    "Win with at least 24 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 16 이상",
+                    "승리 시 남은 라운드 24 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 88637,
                 "HPMulti": 53073,
@@ -11652,9 +14158,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 20,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 88758,
                 "HPMulti": 54883,
@@ -11806,9 +14312,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 20,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 96240,
                 "HPMulti": 57304,
@@ -11951,10 +14457,10 @@ var _chaos_2 = [
     },
     {
         "_id": 114,
-        "Name": "Raintear Strife",
+        "Name": "눈물의 전쟁",
         "Buff": {
-            "Name": "Memory Turbulence",
-            "Desc": "After an ally uses a follow-up attack, the All-Type RES of the attacked enemy target reduces by <color style='color:#f29e38;'>30.0%</color> for <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "Name": "기억의 와류",
+            "Desc": "아군 캐릭터가 추가 공격 발동 후 피격된 적의 모든 속성 저항이 <color style='color:#f29e38;'>30.0%</color> 감소한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         },
         "Floors": [
             {
@@ -11970,9 +14476,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 39300,
                 "HPMulti": 30179,
@@ -12101,9 +14607,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 43433,
                 "HPMulti": 31654,
@@ -12248,9 +14754,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 47612,
                 "HPMulti": 37815,
@@ -12373,9 +14879,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 51412,
                 "HPMulti": 41431,
@@ -12519,9 +15025,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 59315,
                 "HPMulti": 45791,
@@ -12649,9 +15155,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 16 Cycle(s) left",
-                    "Win with at least 24 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 16 이상",
+                    "승리 시 남은 라운드 24 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 74847,
                 "HPMulti": 46113,
@@ -12778,9 +15284,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 16 Cycle(s) left",
-                    "Win with at least 24 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 16 이상",
+                    "승리 시 남은 라운드 24 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 85519,
                 "HPMulti": 51371,
@@ -12926,9 +15432,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 16 Cycle(s) left",
-                    "Win with at least 24 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 16 이상",
+                    "승리 시 남은 라운드 24 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 88637,
                 "HPMulti": 53073,
@@ -13073,9 +15579,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 20,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 88758,
                 "HPMulti": 54883,
@@ -13227,9 +15733,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 20,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 96240,
                 "HPMulti": 57304,
@@ -13372,10 +15878,10 @@ var _chaos_2 = [
     },
     {
         "_id": 113,
-        "Name": "Adrift in Astral Seas",
+        "Name": "고독한 천공 항행",
         "Buff": {
-            "Name": "Memory Turbulence",
-            "Desc": "When an ally is hit or consumes their own HP, gain 1 stack of Memory Imprint. Each stack of Memory Imprint reduces DMG taken by the target by <color style='color:#f29e38;'>12.0%</color>, up to <color style='color:#f29e38;'>3.0</color> stack(s).<br>At the start of each Cycle, deals a set amount of DMG to all enemies based on the highest Memory Imprint stack count on an ally. Then, remove all Memory Imprint stacks from all allies."
+            "Name": "기억의 와류",
+            "Desc": "아군이 피격되거나 HP가 소모되면 [기억의 표식]을 1스택 획득한다. [기억의 표식] 스택마다 목표가 받는 피해가 <color style='color:#f29e38;'>12.0%</color> 감소한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>3.0</color>스택.<br>라운드가 시작될 때마다 아군의 현재 최고 [기억의 표식] 스택 수에 따라 모든 적에게 고정 수치의 피해를 가하고, 모든 아군의 [기억의 표식]을 전부 해제한다"
         },
         "Floors": [
             {
@@ -13391,9 +15897,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 39300,
                 "HPMulti": 30179,
@@ -13522,9 +16028,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 43433,
                 "HPMulti": 31654,
@@ -13669,9 +16175,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 47612,
                 "HPMulti": 37815,
@@ -13794,9 +16300,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 51412,
                 "HPMulti": 41431,
@@ -13940,9 +16446,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 59315,
                 "HPMulti": 45791,
@@ -14070,9 +16576,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 16 Cycle(s) left",
-                    "Win with at least 24 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 16 이상",
+                    "승리 시 남은 라운드 24 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 74847,
                 "HPMulti": 46113,
@@ -14199,9 +16705,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 16 Cycle(s) left",
-                    "Win with at least 24 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 16 이상",
+                    "승리 시 남은 라운드 24 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 85519,
                 "HPMulti": 51371,
@@ -14347,9 +16853,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 16 Cycle(s) left",
-                    "Win with at least 24 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 16 이상",
+                    "승리 시 남은 라운드 24 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 88637,
                 "HPMulti": 53073,
@@ -14494,9 +17000,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 20,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 88758,
                 "HPMulti": 54883,
@@ -14648,9 +17154,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 20,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 96240,
                 "HPMulti": 57304,
@@ -14793,10 +17299,10 @@ var _chaos_2 = [
     },
     {
         "_id": 112,
-        "Name": "Stormquell",
+        "Name": "잦아든 폭풍",
         "Buff": {
-            "Name": "Memory Turbulence",
-            "Desc": "At the start of every Cycle, allies whose current HP percentage is greater than <color style='color:#f29e38;'>80.0%</color> increase their ATK by <color style='color:#f29e38;'>50.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s)."
+            "Name": "기억의 와류",
+            "Desc": "라운드가 시작될 때마다 현재 HP 백분율이 <color style='color:#f29e38;'>80.0%</color>보다 높은 아군의 공격력이 <color style='color:#f29e38;'>50.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴"
         },
         "Floors": [
             {
@@ -14812,9 +17318,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 38428,
                 "HPMulti": 29508,
@@ -14942,9 +17448,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 44611,
                 "HPMulti": 33127,
@@ -15078,9 +17584,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 46495,
                 "HPMulti": 38674,
@@ -15214,9 +17720,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 53296,
                 "HPMulti": 42373,
@@ -15363,9 +17869,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 57930,
                 "HPMulti": 45791,
@@ -15481,9 +17987,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 16 Cycle(s) left",
-                    "Win with at least 24 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 16 이상",
+                    "승리 시 남은 라운드 24 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 67879,
                 "HPMulti": 49468,
@@ -15612,9 +18118,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 16 Cycle(s) left",
-                    "Win with at least 24 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 16 이상",
+                    "승리 시 남은 라운드 24 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 79496,
                 "HPMulti": 47787,
@@ -15766,9 +18272,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 16 Cycle(s) left",
-                    "Win with at least 24 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 16 이상",
+                    "승리 시 남은 라운드 24 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 85135,
                 "HPMulti": 50665,
@@ -15926,9 +18432,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 20,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 87652,
                 "HPMulti": 54883,
@@ -16080,9 +18586,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 20,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 83041,
                 "HPMulti": 55104,
@@ -16243,10 +18749,10 @@ var _chaos_2 = [
     },
     {
         "_id": 111,
-        "Name": "Hyperborean Search for Warmth",
+        "Name": "불을 찾는 얼음",
         "Buff": {
-            "Name": "Memory Turbulence",
-            "Desc": "Apply Memory Imprint to all enemies at the beginning of each Cycle. For each other debuff currently on the enemy, apply 1 extra stack of Memory Imprint to that enemy. Each stack reduces the target's DEF by <color style='color:#f29e38;'>6.0%</color> for a maximum of <color style='color:#f29e38;'>5.0</color> stacks. This effect lasts until the start of the next Cycle."
+            "Name": "기억의 와류",
+            "Desc": "라운드가 시작될 때마다 모든 적에게 [기억 표식]을 발동한다. 적이 보유한 디버프 효과 1개마다 추가로 [기억 표식]을 1스택 중첩한다. 스택마다 목표의 방어력을 <color style='color:#f29e38;'>6.0%</color> 감소시킨다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>5.0</color>스택. 해당 효과는 다음 라운드 시작까지 지속된다"
         },
         "Floors": [
             {
@@ -16262,9 +18768,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 38428,
                 "HPMulti": 29508,
@@ -16392,9 +18898,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 44611,
                 "HPMulti": 33127,
@@ -16528,9 +19034,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 46495,
                 "HPMulti": 38674,
@@ -16664,9 +19170,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 53296,
                 "HPMulti": 42373,
@@ -16813,9 +19319,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 57930,
                 "HPMulti": 45791,
@@ -16931,9 +19437,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 16 Cycle(s) left",
-                    "Win with at least 24 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 16 이상",
+                    "승리 시 남은 라운드 24 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 67879,
                 "HPMulti": 49468,
@@ -17062,9 +19568,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 16 Cycle(s) left",
-                    "Win with at least 24 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 16 이상",
+                    "승리 시 남은 라운드 24 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 79496,
                 "HPMulti": 47787,
@@ -17216,9 +19722,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 16 Cycle(s) left",
-                    "Win with at least 24 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 16 이상",
+                    "승리 시 남은 라운드 24 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 85135,
                 "HPMulti": 50665,
@@ -17376,9 +19882,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 20,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 87652,
                 "HPMulti": 54883,
@@ -17530,9 +20036,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 20,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 83041,
                 "HPMulti": 55104,
@@ -17693,10 +20199,10 @@ var _chaos_2 = [
     },
     {
         "_id": 110,
-        "Name": "Coldiron Tribulation",
+        "Name": "한철 연마",
         "Buff": {
-            "Name": "Memory Turbulence",
-            "Desc": "Apply Memory Imprint to all enemies at the beginning of each Cycle. For each other debuff currently on the enemy, apply 1 extra stack of Memory Imprint to that enemy. Each stack reduces the target's DMG dealt by <color style='color:#f29e38;'>4.0%</color> for a maximum of <color style='color:#f29e38;'>5.0</color> stacks. This effect lasts until the start of the next Cycle."
+            "Name": "기억의 와류",
+            "Desc": "라운드가 시작될 때마다 모든 적에게 [기억 표식]을 발동한다. 적이 보유한 디버프 효과 1개마다 추가로 [기억 표식]을 1스택 중첩한다. 스택마다 목표에게 가하는 피해가 <color style='color:#f29e38;'>4.0%</color> 감소한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>5.0</color>스택. 해당 효과는 다음 라운드 시작까지 지속된다"
         },
         "Floors": [
             {
@@ -17712,9 +20218,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 38428,
                 "HPMulti": 29508,
@@ -17842,9 +20348,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 44611,
                 "HPMulti": 33127,
@@ -17978,9 +20484,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 46495,
                 "HPMulti": 38674,
@@ -18114,9 +20620,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 53296,
                 "HPMulti": 42373,
@@ -18263,9 +20769,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 20 Cycle(s) left",
-                    "Win with at least 28 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 20 이상",
+                    "승리 시 남은 라운드 28 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 57930,
                 "HPMulti": 45791,
@@ -18381,9 +20887,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 16 Cycle(s) left",
-                    "Win with at least 24 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 16 이상",
+                    "승리 시 남은 라운드 24 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 67879,
                 "HPMulti": 49468,
@@ -18512,9 +21018,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 16 Cycle(s) left",
-                    "Win with at least 24 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 16 이상",
+                    "승리 시 남은 라운드 24 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 79496,
                 "HPMulti": 47787,
@@ -18666,9 +21172,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 16,
                 "Targets": [
-                    "Win with at least 16 Cycle(s) left",
-                    "Win with at least 24 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 16 이상",
+                    "승리 시 남은 라운드 24 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 85135,
                 "HPMulti": 50665,
@@ -18826,9 +21332,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 20,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 87652,
                 "HPMulti": 54883,
@@ -18980,9 +21486,9 @@ var _chaos_2 = [
                 "TurnNum": 40,
                 "PerfectTurnNum": 20,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 20 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 20 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 83041,
                 "HPMulti": 55104,
@@ -19143,7 +21649,7 @@ var _chaos_2 = [
     },
     {
         "_id": 900,
-        "Name": "The Voyage of Navis Astriger",
+        "Name": "불사의 약 원정기",
         "Floors": [
             {
                 "Floor": 21,
@@ -19159,9 +21665,9 @@ var _chaos_2 = [
                 "TurnNum": 20,
                 "PerfectTurnNum": 8,
                 "Targets": [
-                    "Win with at least 6 Cycle(s) left",
-                    "Win with at least 12 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 6 이상",
+                    "승리 시 남은 라운드 12 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 16634,
                 "HPMulti": 4854,
@@ -19338,8 +21844,8 @@ var _chaos_2 = [
                     }
                 ],
                 "Buff": {
-                    "Name": "Memory Turbulence",
-                    "Desc": "DMG dealt to enemy targets are <color style='color:#f29e38;'>shared between all enemies</color>. When allies use <color style='color:#f29e38;'>AoE or Blast ATK abilities</color>, increases DMG dealt by <color style='color:#f29e38;'>50.0%</color>."
+                    "Name": "기억의 와류",
+                    "Desc": "적이 받는 피해를 <color style='color:#f29e38;'>모든 적이 분담</color>한다. 아군이 <color style='color:#f29e38;'>범위 공격 혹은 확산 스킬</color> 발동 시 가하는 피해가 <color style='color:#f29e38;'>50.0%</color> 증가한다"
                 }
             },
             {
@@ -19357,9 +21863,9 @@ var _chaos_2 = [
                 "TurnNum": 20,
                 "PerfectTurnNum": 8,
                 "Targets": [
-                    "Win with at least 6 Cycle(s) left",
-                    "Win with at least 12 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 6 이상",
+                    "승리 시 남은 라운드 12 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 43395,
                 "HPMulti": 26478,
@@ -19454,8 +21960,8 @@ var _chaos_2 = [
                     }
                 ],
                 "Buff": {
-                    "Name": "Memory Turbulence",
-                    "Desc": "All enemies receive increased <color style='color:#f29e38;'>DoT</color> by <color style='color:#f29e38;'>50.0%</color>.<br>At the start of every Cycle, there is a high chance of inflicting <color style='color:#f29e38;'>Bleed</color>, <color style='color:#f29e38;'>Shock</color>, <color style='color:#f29e38;'>Burn</color>, and <color style='color:#f29e38;'>Wind Shear</color> on all enemies. Status inflicted in this way will last for <color style='color:#f29e38;'>2.0</color> turn(s)."
+                    "Name": "기억의 와류",
+                    "Desc": "모든 적이 받는 <color style='color:#f29e38;'>지속 피해</color>가 <color style='color:#f29e38;'>50.0%</color> 증가한다.<br>라운드가 시작될 때마다 높은 확률로 적에게 <color style='color:#f29e38;'>열상</color>, <color style='color:#f29e38;'>감전</color>, <color style='color:#f29e38;'>연소</color>, <color style='color:#f29e38;'>풍화</color> 상태를 부여한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
                 }
             },
             {
@@ -19471,9 +21977,9 @@ var _chaos_2 = [
                 "TurnNum": 20,
                 "PerfectTurnNum": 8,
                 "Targets": [
-                    "Win with at least 6 Cycle(s) left",
-                    "Win with at least 12 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 6 이상",
+                    "승리 시 남은 라운드 12 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 53776,
                 "HPMulti": 34783,
@@ -19560,8 +22066,8 @@ var _chaos_2 = [
                     }
                 ],
                 "Buff": {
-                    "Name": "Memory Turbulence",
-                    "Desc": "After an ally uses <color style='color:#f29e38;'>Basic ATK</color>, increases DMG dealt by them and adjacent allies by <color style='color:#f29e38;'>50.0%</color> and reduces their DMG received by <color style='color:#f29e38;'>50.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s)."
+                    "Name": "기억의 와류",
+                    "Desc": "아군이 <color style='color:#f29e38;'>일반 공격</color> 발동 후 자신 및 인접한 아군이 가하는 피해가 <color style='color:#f29e38;'>50.0%</color> 증가하고, 받는 피해가 <color style='color:#f29e38;'>50.0%</color> 감소한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴"
                 }
             },
             {
@@ -19577,9 +22083,9 @@ var _chaos_2 = [
                 "TurnNum": 20,
                 "PerfectTurnNum": 8,
                 "Targets": [
-                    "Win with at least 6 Cycle(s) left",
-                    "Win with at least 12 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 6 이상",
+                    "승리 시 남은 라운드 12 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 136910,
                 "HPMulti": 75174,
@@ -19719,8 +22225,8 @@ var _chaos_2 = [
                     }
                 ],
                 "Buff": {
-                    "Name": "Memory Turbulence",
-                    "Desc": "After an ally uses their <color style='color:#f29e38;'>Ultimate</color> or launches a <color style='color:#f29e38;'>follow-up attack</color>, additionally deals a <color style='color:#f29e38;'>set amount of DMG</color> to the attacked enemy target."
+                    "Name": "기억의 와류",
+                    "Desc": "아군이 <color style='color:#f29e38;'>필살기</color>나 <color style='color:#f29e38;'>추가 공격</color> 발동 후, 피격된 적에게 <color style='color:#f29e38;'>고정 수치의 피해</color>를 추가로 가한다"
                 }
             },
             {
@@ -19738,9 +22244,9 @@ var _chaos_2 = [
                 "TurnNum": 20,
                 "PerfectTurnNum": 8,
                 "Targets": [
-                    "Win with at least 6 Cycle(s) left",
-                    "Win with at least 12 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 6 이상",
+                    "승리 시 남은 라운드 12 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 79664,
                 "HPMulti": 59529,
@@ -19827,8 +22333,8 @@ var _chaos_2 = [
                     }
                 ],
                 "Buff": {
-                    "Name": "Memory Turbulence",
-                    "Desc": "At the start of every Cycle, summon 2 <color style='color:#f29e38;'>Mara-Struck Soldiers</color> or <color style='color:#f29e38;'>Abundance Sprite: Golden Hounds</color>.<br>After an enemy target is defeated, deals a <color style='color:#f29e38;'>set amount of DMG</color> to all enemies."
+                    "Name": "기억의 와류",
+                    "Desc": "라운드가 시작될 때마다 <color style='color:#f29e38;'>마각의 몸 병사</color> 또는 <color style='color:#f29e38;'>풍요의 요수•누금</color> 2명을 소환한다.<br>적이 처치된 후 모든 적에게 <color style='color:#f29e38;'>고정 수치의 피해</color>를 가한다"
                 }
             },
             {
@@ -19846,9 +22352,9 @@ var _chaos_2 = [
                 "TurnNum": 20,
                 "PerfectTurnNum": 8,
                 "Targets": [
-                    "Win with at least 6 Cycle(s) left",
-                    "Win with at least 12 Cycle(s) left",
-                    "No more than 0 downed character(s)"
+                    "승리 시 남은 라운드 6 이상",
+                    "승리 시 남은 라운드 12 이상",
+                    "전투 불능 캐릭터 0명 이하"
                 ],
                 "HPSingle": 388370,
                 "HPMulti": 191710,
@@ -19967,15 +22473,15 @@ var _chaos_2 = [
                     }
                 ],
                 "Buff": {
-                    "Name": "Memory Turbulence",
-                    "Desc": "After an ally <color style='color:#f29e38;'>uses their Skill</color> on any ally (including on themselves), dispels 1 <color style='color:#f29e38;'>debuff</color> on the ally which the Skill was used on. For each <color style='color:#f29e38;'>debuff</color> dispelled, increases the DMG dealt by all allies by <color style='color:#f29e38;'>20.0%</color>. This effect can stack up to <color style='color:#f29e38;'>10.0</color> stacks.<br>Defeating the <color style='color:#f29e38;'>Elite or stronger enemy</color> in the final wave will immediately result in victory."
+                    "Name": "기억의 와류",
+                    "Desc": "아군이 아군 임의의 목표에게 <color style='color:#f29e38;'>전투 스킬 발동</color> 후 해당 목표의 <color style='color:#f29e38;'>디버프 효과</color> 1개가 해제된다. 아군의 <color style='color:#f29e38;'>디버프 효과</color>가 1개 해제될 때마다 모든 아군이 가하는 피해가 <color style='color:#f29e38;'>20.0%</color> 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>10.0</color>스택<br>최종 웨이브에서 <color style='color:#f29e38;'>정예 수준 이상의 적</color>을 처치하면 바로 승리한다"
                 }
             }
         ]
     },
     {
         "_id": 100,
-        "Name": "The Last Vestiges of Towering Citadel",
+        "Name": "영원의 도시에 남겨진 비밀",
         "Floors": [
             {
                 "Floor": 1,
@@ -19988,9 +22494,9 @@ var _chaos_2 = [
                 "TurnNum": 20,
                 "PerfectTurnNum": 6,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 14 Cycle(s) left",
-                    "No more than 1 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 14 이상",
+                    "전투 불능 캐릭터 1명 이하"
                 ],
                 "HPSingle": 1947,
                 "HPMulti": 1210,
@@ -20061,8 +22567,8 @@ var _chaos_2 = [
                 ],
                 "Lower": [],
                 "Buff": {
-                    "Name": "Memory Turbulence",
-                    "Desc": "Increases the Wind DMG of all allies by <color style='color:#f29e38;'>50.0%</color>."
+                    "Name": "기억의 와류",
+                    "Desc": "모든 아군의 바람 속성이 <color style='color:#f29e38;'>50.0%</color> 증가한다"
                 }
             },
             {
@@ -20076,9 +22582,9 @@ var _chaos_2 = [
                 "TurnNum": 20,
                 "PerfectTurnNum": 6,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 14 Cycle(s) left",
-                    "No more than 1 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 14 이상",
+                    "전투 불능 캐릭터 1명 이하"
                 ],
                 "HPSingle": 2367,
                 "HPMulti": 1501,
@@ -20143,8 +22649,8 @@ var _chaos_2 = [
                 ],
                 "Lower": [],
                 "Buff": {
-                    "Name": "Memory Turbulence",
-                    "Desc": "Increases the Ice DMG of all allies by <color style='color:#f29e38;'>50.0%</color>."
+                    "Name": "기억의 와류",
+                    "Desc": "모든 아군의 얼음 속성 피해가 <color style='color:#f29e38;'>50.0%</color> 증가한다"
                 }
             },
             {
@@ -20158,9 +22664,9 @@ var _chaos_2 = [
                 "TurnNum": 20,
                 "PerfectTurnNum": 6,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 14 Cycle(s) left",
-                    "No more than 1 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 14 이상",
+                    "전투 불능 캐릭터 1명 이하"
                 ],
                 "HPSingle": 2171,
                 "HPMulti": 1621,
@@ -20219,8 +22725,8 @@ var _chaos_2 = [
                 ],
                 "Lower": [],
                 "Buff": {
-                    "Name": "Memory Turbulence",
-                    "Desc": "Increases the Fire DMG of all allies by <color style='color:#f29e38;'>50.0%</color>."
+                    "Name": "기억의 와류",
+                    "Desc": "모든 아군의 화염 속성이 <color style='color:#f29e38;'>50.0%</color> 증가한다"
                 }
             },
             {
@@ -20234,9 +22740,9 @@ var _chaos_2 = [
                 "TurnNum": 20,
                 "PerfectTurnNum": 6,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 14 Cycle(s) left",
-                    "No more than 1 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 14 이상",
+                    "전투 불능 캐릭터 1명 이하"
                 ],
                 "HPSingle": 3399,
                 "HPMulti": 2502,
@@ -20289,8 +22795,8 @@ var _chaos_2 = [
                 ],
                 "Lower": [],
                 "Buff": {
-                    "Name": "Memory Turbulence",
-                    "Desc": "Increases the Physical DMG of all allies by <color style='color:#f29e38;'>50.0%</color>."
+                    "Name": "기억의 와류",
+                    "Desc": "모든 아군의 물리 속성이 <color style='color:#f29e38;'>50.0%</color> 증가한다"
                 }
             },
             {
@@ -20304,9 +22810,9 @@ var _chaos_2 = [
                 "TurnNum": 20,
                 "PerfectTurnNum": 6,
                 "Targets": [
-                    "Win with at least 10 Cycle(s) left",
-                    "Win with at least 14 Cycle(s) left",
-                    "No more than 1 downed character(s)"
+                    "승리 시 남은 라운드 10 이상",
+                    "승리 시 남은 라운드 14 이상",
+                    "전투 불능 캐릭터 1명 이하"
                 ],
                 "HPSingle": 4223,
                 "HPMulti": 3252,
@@ -20359,8 +22865,8 @@ var _chaos_2 = [
                 ],
                 "Lower": [],
                 "Buff": {
-                    "Name": "Memory Turbulence",
-                    "Desc": "Increases the Lightning DMG of all allies by <color style='color:#f29e38;'>50.0%</color>."
+                    "Name": "기억의 와류",
+                    "Desc": "모든 아군의 번개 속성 피해가 <color style='color:#f29e38;'>50.0%</color> 증가한다"
                 }
             },
             {
@@ -20372,9 +22878,9 @@ var _chaos_2 = [
                 "TurnNum": 20,
                 "PerfectTurnNum": 8,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 12 Cycle(s) left",
-                    "No more than 1 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 12 이상",
+                    "전투 불능 캐릭터 1명 이하"
                 ],
                 "HPSingle": 4638,
                 "HPMulti": 3865,
@@ -20432,8 +22938,8 @@ var _chaos_2 = [
                 ],
                 "Lower": [],
                 "Buff": {
-                    "Name": "Memory Turbulence",
-                    "Desc": "Increases DMG dealt by all allies' Skill by <color style='color:#f29e38;'>25.0%</color>. At the beginning of each Cycle, regenerates <color style='color:#f29e38;'>2.0</color> Skill Point(s)."
+                    "Name": "기억의 와류",
+                    "Desc": "모든 아군의 전투 스킬로 가하는 피해가 <color style='color:#f29e38;'>25.0%</color> 증가한다. 라운드가 시작될 때마다 모든 아군은 전투 스킬 포인트를 <color style='color:#f29e38;'>2.0</color>pt 회복한다"
                 }
             },
             {
@@ -20446,9 +22952,9 @@ var _chaos_2 = [
                 "TurnNum": 20,
                 "PerfectTurnNum": 8,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 12 Cycle(s) left",
-                    "No more than 1 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 12 이상",
+                    "전투 불능 캐릭터 1명 이하"
                 ],
                 "HPSingle": 5804,
                 "HPMulti": 4481,
@@ -20506,8 +23012,8 @@ var _chaos_2 = [
                 ],
                 "Lower": [],
                 "Buff": {
-                    "Name": "Memory Turbulence",
-                    "Desc": "Increases DMG dealt by all allies' Ultimate by <color style='color:#f29e38;'>25.0%</color>. At the beginning of each Cycle, all allies regenerate <color style='color:#f29e38;'>20.0</color> Energy."
+                    "Name": "기억의 와류",
+                    "Desc": "모든 아군의 필살기로 가하는 피해가 <color style='color:#f29e38;'>25.0%</color> 증가한다. 라운드가 시작될 때마다 모든 아군은 에너지를 <color style='color:#f29e38;'>20.0</color>pt 회복한다"
                 }
             },
             {
@@ -20520,9 +23026,9 @@ var _chaos_2 = [
                 "TurnNum": 20,
                 "PerfectTurnNum": 8,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 12 Cycle(s) left",
-                    "No more than 1 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 12 이상",
+                    "전투 불능 캐릭터 1명 이하"
                 ],
                 "HPSingle": 7618,
                 "HPMulti": 6177,
@@ -20580,8 +23086,8 @@ var _chaos_2 = [
                 ],
                 "Lower": [],
                 "Buff": {
-                    "Name": "Memory Turbulence",
-                    "Desc": "At the beginning of each Cycle, increases the DMG dealt by the ally with the highest ATK by <color style='color:#f29e38;'>60.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s)."
+                    "Name": "기억의 와류",
+                    "Desc": "라운드가 시작될 때마다 현재 공격력이 가장 높은 아군이 가하는 피해가 <color style='color:#f29e38;'>60.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴"
                 }
             },
             {
@@ -20593,9 +23099,9 @@ var _chaos_2 = [
                 "TurnNum": 20,
                 "PerfectTurnNum": 8,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 12 Cycle(s) left",
-                    "No more than 1 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 12 이상",
+                    "전투 불능 캐릭터 1명 이하"
                 ],
                 "HPSingle": 9690,
                 "HPMulti": 6898,
@@ -20659,8 +23165,8 @@ var _chaos_2 = [
                 ],
                 "Lower": [],
                 "Buff": {
-                    "Name": "Memory Turbulence",
-                    "Desc": "At the beginning of each Cycle, increases the Weakness Break efficiency of each ally's next attack by <color style='color:#f29e38;'>50.0%</color>."
+                    "Name": "기억의 와류",
+                    "Desc": "라운드가 시작될 때마다 모든 아군이 가하는 다음번 공격의 약점 격파 효율이 <color style='color:#f29e38;'>50.0%</color> 증가한다"
                 }
             },
             {
@@ -20673,9 +23179,9 @@ var _chaos_2 = [
                 "TurnNum": 20,
                 "PerfectTurnNum": 8,
                 "Targets": [
-                    "Win with at least 8 Cycle(s) left",
-                    "Win with at least 12 Cycle(s) left",
-                    "No more than 1 downed character(s)"
+                    "승리 시 남은 라운드 8 이상",
+                    "승리 시 남은 라운드 12 이상",
+                    "전투 불능 캐릭터 1명 이하"
                 ],
                 "HPSingle": 12507,
                 "HPMulti": 8791,
@@ -20745,8 +23251,8 @@ var _chaos_2 = [
                 ],
                 "Lower": [],
                 "Buff": {
-                    "Name": "Memory Turbulence",
-                    "Desc": "At the beginning of each Cycle, increases all allies' CRIT Rate by <color style='color:#f29e38;'>8.0%</color>. This effect can stack up to <color style='color:#f29e38;'>5.0</color> time(s)."
+                    "Name": "기억의 와류",
+                    "Desc": "라운드가 시작될 때마다 모든 아군의 치명타 확률이 <color style='color:#f29e38;'>8.0%</color> 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>5.0</color>스택"
                 }
             },
             {
@@ -20764,9 +23270,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 12 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 1 downed character(s)"
+                    "승리 시 남은 라운드 12 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 1명 이하"
                 ],
                 "HPSingle": 9515,
                 "HPMulti": 6991,
@@ -20883,8 +23389,8 @@ var _chaos_2 = [
                     }
                 ],
                 "Buff": {
-                    "Name": "Memory Turbulence",
-                    "Desc": "At the beginning of each Cycle, restores HP for the ally with the lowest HP by <color style='color:#f29e38;'>60.0%</color> of their Max HP."
+                    "Name": "기억의 와류",
+                    "Desc": "라운드가 시작될 때마다 현재 HP가 가장 낮은 아군이 해당 목표의 HP 최대치 <color style='color:#f29e38;'>60.0%</color>만큼의 HP를 회복한다"
                 }
             },
             {
@@ -20902,9 +23408,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 12 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 1 downed character(s)"
+                    "승리 시 남은 라운드 12 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 1명 이하"
                 ],
                 "HPSingle": 12420,
                 "HPMulti": 8303,
@@ -21015,8 +23521,8 @@ var _chaos_2 = [
                     }
                 ],
                 "Buff": {
-                    "Name": "Memory Turbulence",
-                    "Desc": "At the beginning of each Cycle, increases the DMG of every ally's next attack by <color style='color:#f29e38;'>50.0%</color>."
+                    "Name": "기억의 와류",
+                    "Desc": "라운드가 시작될 때마다 모든 아군이 다음 공격으로 가하는 피해가 <color style='color:#f29e38;'>50.0%</color> 증가한다"
                 }
             },
             {
@@ -21034,9 +23540,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 12 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 1 downed character(s)"
+                    "승리 시 남은 라운드 12 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 1명 이하"
                 ],
                 "HPSingle": 15670,
                 "HPMulti": 10787,
@@ -21147,8 +23653,8 @@ var _chaos_2 = [
                     }
                 ],
                 "Buff": {
-                    "Name": "Memory Turbulence",
-                    "Desc": "At the beginning of each Cycle, provide a Shield to all allies that can absorb DMG equal to <color style='color:#f29e38;'>25.0%</color> of their respective Max HP."
+                    "Name": "기억의 와류",
+                    "Desc": "라운드가 시작될 때마다 모든 아군에게 실드량이 각자 HP 최대치 <color style='color:#f29e38;'>25.0%</color>만큼인 실드를 제공한다"
                 }
             },
             {
@@ -21166,9 +23672,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 12 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 1 downed character(s)"
+                    "승리 시 남은 라운드 12 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 1명 이하"
                 ],
                 "HPSingle": 20528,
                 "HPMulti": 15967,
@@ -21261,8 +23767,8 @@ var _chaos_2 = [
                     }
                 ],
                 "Buff": {
-                    "Name": "Memory Turbulence",
-                    "Desc": "At the beginning of each Cycle, increases CRIT Rate by <color style='color:#f29e38;'>20.0%</color> and CRIT DMG by <color style='color:#f29e38;'>40.0%</color> for allies with current HP higher than <color style='color:#f29e38;'>80.0%</color> of their Max HP for <color style='color:#f29e38;'>2.0</color> turn(s)."
+                    "Name": "기억의 와류",
+                    "Desc": "라운드가 시작될 때마다 현재 HP 백분율이 <color style='color:#f29e38;'>80.0%</color>보다 높은 아군의 치명타 확률이 <color style='color:#f29e38;'>20.0%</color>, 치명타 피해가 <color style='color:#f29e38;'>40.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
                 }
             },
             {
@@ -21280,9 +23786,9 @@ var _chaos_2 = [
                 "TurnNum": 30,
                 "PerfectTurnNum": 12,
                 "Targets": [
-                    "Win with at least 12 Cycle(s) left",
-                    "Win with at least 18 Cycle(s) left",
-                    "No more than 1 downed character(s)"
+                    "승리 시 남은 라운드 12 이상",
+                    "승리 시 남은 라운드 18 이상",
+                    "전투 불능 캐릭터 1명 이하"
                 ],
                 "HPSingle": 24498,
                 "HPMulti": 18373,
@@ -21375,8 +23881,8 @@ var _chaos_2 = [
                     }
                 ],
                 "Buff": {
-                    "Name": "Memory Turbulence",
-                    "Desc": "At the beginning of each Cycle, increases the DMG taken by all enemies by <color style='color:#f29e38;'>35.0%</color>, lasting until the enemies' next action begins."
+                    "Name": "기억의 와류",
+                    "Desc": "라운드가 시작될 때마다 모든 적이 받는 피해가 <color style='color:#f29e38;'>35.0%</color> 증가한다. 해당 효과는 적이 다음 행동을 할 때까지 지속된다"
                 }
             }
         ]

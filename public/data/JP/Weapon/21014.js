@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21014": "On a bustling street, he walks and walks. The sunlight closely follows his footsteps.<br>He makes a stop and picks up an umbrella to shade himself from the sun<br>...and from that prying gaze."
+    "21014": "賑やかな町。彼は歩き、日の光が後をついて行く。<br>彼は足を止め、紙傘を選び、涼を取る<br>——同時に、その視線も遮った。"
 }
 
 var _weaponskill_ = {

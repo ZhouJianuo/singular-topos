@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21030": "The girl could rock any outfit she chooses, but she was unsatisfied, judging by the dozen sets of clothing piled up behind her.<br><br><i>\"Will this be the last outfit for today?\"</i><br><br>She thought silently to herself and looked at the girl in the mirror. She looked extra happy on this day.<br><br><i>\"Okay! This is me!\"</i>"
+    "21030": "少女は何を着ても可愛いが、満足できていないようだ。その背後には十数着はあるだろう服が積み上げられている。<br><br><i>「今日が最後だったりするのかな？」</i><br><br>そう静かに考えながら、少女は鏡の中の自分を見る。今日の少女は一際嬉しそうにしている。<br><br><i>「よし！これがウチだよ！」</i>"
 }
 
 var _weaponskill_ = {

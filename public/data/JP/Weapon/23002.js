@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23002": "<i>\"Should a day come when even I'm not here anymore, please look after this database, Svarog.\"</i><br>(Who is this... Why is this message in my records...)<br><i>\"Do you have something that's irreplaceable, Svarog?\"</i><br>(Irreplaceable... broken parts... can simply be replaced...)<br><i>\"You'll definitely find it one day, Svarog.\"</i><br>(Such things... will only cause trouble...)<br><br><i>\"When that time comes... You should leave this place behind.\"</i>"
+    "23002": "<i>「スヴァローグ、もし私がいなくなったら、このデータベースは君に任せよう」</i><br>（誰だ……なぜ私の記録にこのようなボイスメッセージが……）<br><i>「スヴァローグ、君にとって、かけがえのないものは何だい？」</i><br>（かけがえのない……破損したパーツは……取り替えればいい……）<br><i>「スヴァローグ、いつか君にも見つかる……」</i><br>（そういうものは……面倒なだけだ……）<br><br><i>「その時は、ここを離れるといい」</i>"
 }
 
 var _weaponskill_ = {

@@ -4,8 +4,8 @@ var _monster_2 = {
     "100201101": {
         "_id": 100201101,
         "Key": "Monster_W1_CocoliaP1_01_Config",
-        "Name": "Ice Edge",
-        "Desc": "A giant lance of ice created by the guardian. It can unleash a piercing frost wind that sweeps across the field.",
+        "Name": "氷刃",
+        "Desc": "守護者が創造した巨大な氷の矛。フィールドを圧倒する冷たい風を吹かす。",
         "Stats": {
             "HP": 0.2,
             "ATK": 18.0,
@@ -48,8 +48,8 @@ var _monster_2 = {
     "100201201": {
         "_id": 100201201,
         "Key": "Monster_W1_CocoliaP1_02_Config",
-        "Name": "Ice Edge",
-        "Desc": "A giant lance of ice created by the guardian. It can unleash a piercing frost wind that sweeps across the field.",
+        "Name": "氷刃",
+        "Desc": "守護者が創造した巨大な氷の矛。フィールドを圧倒する冷たい風を吹かす。",
         "Stats": {
             "HP": 0.2,
             "ATK": 18.0,
@@ -92,8 +92,8 @@ var _monster_2 = {
     "100201501": {
         "_id": 100201501,
         "Key": "Monster_W1_CocoliaP1_00_Weapon01_Config_RL",
-        "Name": "Ice Edge (Illusion)",
-        "Desc": "A giant lance of ice created by the guardian. It can unleash a piercing frost wind that sweeps across the entire field. This entity is a phantom borne from your memories.",
+        "Name": "氷刃（幻像）",
+        "Desc": "守護者が創造した巨大な氷の矛。フィールドを圧倒する冷たい風を吹かす。ここに現れたのはあなたの記憶をもとにシミュレートされた幻である。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -142,8 +142,8 @@ var _monster_2 = {
     "100201601": {
         "_id": 100201601,
         "Key": "Monster_W1_CocoliaP1_00_Weapon02_Config_RL",
-        "Name": "Ice Edge (Illusion)",
-        "Desc": "A giant lance of ice created by the guardian. It can unleash a piercing frost wind that sweeps across the entire field. This entity is a phantom borne from your memories.",
+        "Name": "氷刃（幻像）",
+        "Desc": "守護者が創造した巨大な氷の矛。フィールドを圧倒する冷たい風を吹かす。ここに現れたのはあなたの記憶をもとにシミュレートされた幻である。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -192,8 +192,8 @@ var _monster_2 = {
     "100201702": {
         "_id": 100201702,
         "Key": "Monster_W1_CocoliaP2_04_Config",
-        "Name": "Lance of the Eternal Freeze (Illusion)",
-        "Desc": "A giant lance of ice summon by Cocolia. It's surrounded by an icy cold current that can tear through flesh like a blade. This entity is a phantom borne from your memories.",
+        "Name": "無尽なる冬の槊（幻像）",
+        "Desc": "カカリアが召喚した巨大な氷の矛、刃の如く鋭い極寒の気流を纏っている。ここに現れたのはあなたの記憶をもとにシミュレートされた幻である。",
         "Stats": {
             "HP": 2.25,
             "ATK": 18.0,
@@ -243,8 +243,8 @@ var _monster_2 = {
     "100201802": {
         "_id": 100201802,
         "Key": "Monster_W1_CocoliaP2_05_Config",
-        "Name": "Lance of the Eternal Freeze (Illusion)",
-        "Desc": "A giant lance of ice summon by Cocolia. It's surrounded by an icy cold current that can tear through flesh like a blade. This entity is a phantom borne from your memories.",
+        "Name": "無尽なる冬の槊（幻像）",
+        "Desc": "カカリアが召喚した巨大な氷の矛、刃の如く鋭い極寒の気流を纏っている。ここに現れたのはあなたの記憶をもとにシミュレートされた幻である。",
         "Stats": {
             "HP": 2.25,
             "ATK": 18.0,
@@ -294,8 +294,8 @@ var _monster_2 = {
     "100202001": {
         "_id": 100202001,
         "Key": "Monster_W1_Soldier01_03_Config",
-        "Name": "Vagrant",
-        "Desc": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper.",
+        "Name": "{RUBY_B#るろうしゃ}流浪者{RUBY_E#}",
+        "Desc": "下層部に閉じ込められた人々は、生計のために危険な裂界で使えそうな物資を探すことが多い。その途中で掘り出した古代機械は彼らの良き「助っ人」となっている。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -340,8 +340,8 @@ var _monster_2 = {
     "100202002": {
         "_id": 100202002,
         "Key": "Monster_W1_Soldier01_03_Config",
-        "Name": "Vagrant",
-        "Desc": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper.",
+        "Name": "{RUBY_B#るろうしゃ}流浪者{RUBY_E#}",
+        "Desc": "下層部に閉じ込められた人々は、生計のために危険な裂界で使えそうな物資を探すことが多い。その途中で掘り出した古代機械は彼らの良き「助っ人」となっている。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -386,8 +386,8 @@ var _monster_2 = {
     "100202003": {
         "_id": 100202003,
         "Key": "Monster_W1_Soldier01_03_Config",
-        "Name": "Vagrant",
-        "Desc": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper.",
+        "Name": "{RUBY_B#るろうしゃ}流浪者{RUBY_E#}",
+        "Desc": "下層部に閉じ込められた人々は、生計のために危険な裂界で使えそうな物資を探すことが多い。その途中で掘り出した古代機械は彼らの良き「助っ人」となっている。",
         "Stats": {
             "HP": 2.55,
             "ATK": 14.4,
@@ -432,8 +432,8 @@ var _monster_2 = {
     "100202004": {
         "_id": 100202004,
         "Key": "Monster_W1_Soldier01_03_Config",
-        "Name": "Ash",
-        "Desc": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper.",
+        "Name": "アッシュ",
+        "Desc": "下層部に閉じ込められた人々は、生計のために危険な裂界で使えそうな物資を探すことが多い。その途中で掘り出した古代機械は彼らの良き「助っ人」となっている。",
         "Stats": {
             "HP": 3.0,
             "ATK": 18.0,
@@ -478,8 +478,8 @@ var _monster_2 = {
     "100202005": {
         "_id": 100202005,
         "Key": "Monster_W1_Soldier01_03_Config",
-        "Name": "Mechanical Fighting Style: Domon",
-        "Desc": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper.",
+        "Name": "「機械格闘流」トモン",
+        "Desc": "下層部に閉じ込められた人々は、生計のために危険な裂界で使えそうな物資を探すことが多い。その途中で掘り出した古代機械は彼らの良き「助っ人」となっている。",
         "Stats": {
             "HP": 3.0,
             "ATK": 18.0,
@@ -527,8 +527,8 @@ var _monster_2 = {
     "100202006": {
         "_id": 100202006,
         "Key": "Monster_W1_Soldier01_03_Config",
-        "Name": "Vagrant",
-        "Desc": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper.",
+        "Name": "{RUBY_B#るろうしゃ}流浪者{RUBY_E#}",
+        "Desc": "下層部に閉じ込められた人々は、生計のために危険な裂界で使えそうな物資を探すことが多い。その途中で掘り出した古代機械は彼らの良き「助っ人」となっている。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -573,8 +573,8 @@ var _monster_2 = {
     "100202007": {
         "_id": 100202007,
         "Key": "Monster_W1_Soldier01_03_Config",
-        "Name": "Vagrant",
-        "Desc": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper.",
+        "Name": "{RUBY_B#るろうしゃ}流浪者{RUBY_E#}",
+        "Desc": "下層部に閉じ込められた人々は、生計のために危険な裂界で使えそうな物資を探すことが多い。その途中で掘り出した古代機械は彼らの良き「助っ人」となっている。",
         "Stats": {
             "HP": 1.5,
             "ATK": 30.00006,
@@ -619,8 +619,8 @@ var _monster_2 = {
     "100202008": {
         "_id": 100202008,
         "Key": "Monster_W1_Soldier01_03_Config",
-        "Name": "Vagrant",
-        "Desc": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper.",
+        "Name": "{RUBY_B#るろうしゃ}流浪者{RUBY_E#}",
+        "Desc": "下層部に閉じ込められた人々は、生計のために危険な裂界で使えそうな物資を探すことが多い。その途中で掘り出した古代機械は彼らの良き「助っ人」となっている。",
         "Stats": {
             "HP": 2.5,
             "ATK": 30.00006,
@@ -665,8 +665,8 @@ var _monster_2 = {
     "100202009": {
         "_id": 100202009,
         "Key": "Monster_W1_Soldier01_03_Config",
-        "Name": "Vagrant",
-        "Desc": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper.",
+        "Name": "{RUBY_B#るろうしゃ}流浪者{RUBY_E#}",
+        "Desc": "下層部に閉じ込められた人々は、生計のために危険な裂界で使えそうな物資を探すことが多い。その途中で掘り出した古代機械は彼らの良き「助っ人」となっている。",
         "Stats": {
             "HP": 1.5,
             "ATK": 9.0,
@@ -711,8 +711,8 @@ var _monster_2 = {
     "100202010": {
         "_id": 100202010,
         "Key": "Monster_W1_Soldier01_03_Config",
-        "Name": "Vagrant",
-        "Desc": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper.",
+        "Name": "{RUBY_B#るろうしゃ}流浪者{RUBY_E#}",
+        "Desc": "下層部に閉じ込められた人々は、生計のために危険な裂界で使えそうな物資を探すことが多い。その途中で掘り出した古代機械は彼らの良き「助っ人」となっている。",
         "Stats": {
             "HP": 2.0,
             "ATK": 19.99998,
@@ -760,8 +760,8 @@ var _monster_2 = {
     "100202011": {
         "_id": 100202011,
         "Key": "Monster_W1_Soldier01_03_Config",
-        "Name": "Vagrant",
-        "Desc": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper.",
+        "Name": "{RUBY_B#るろうしゃ}流浪者{RUBY_E#}",
+        "Desc": "下層部に閉じ込められた人々は、生計のために危険な裂界で使えそうな物資を探すことが多い。その途中で掘り出した古代機械は彼らの良き「助っ人」となっている。",
         "Stats": {
             "HP": 1.5,
             "ATK": 9.0,
@@ -806,8 +806,8 @@ var _monster_2 = {
     "100202012": {
         "_id": 100202012,
         "Key": "Monster_W1_Soldier01_03_Config",
-        "Name": "Vagrant",
-        "Desc": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper.",
+        "Name": "{RUBY_B#るろうしゃ}流浪者{RUBY_E#}",
+        "Desc": "下層部に閉じ込められた人々は、生計のために危険な裂界で使えそうな物資を探すことが多い。その途中で掘り出した古代機械は彼らの良き「助っ人」となっている。",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -852,8 +852,8 @@ var _monster_2 = {
     "100202013": {
         "_id": 100202013,
         "Key": "Monster_W1_Soldier01_03_Config",
-        "Name": "Vagrant",
-        "Desc": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper.",
+        "Name": "{RUBY_B#るろうしゃ}流浪者{RUBY_E#}",
+        "Desc": "下層部に閉じ込められた人々は、生計のために危険な裂界で使えそうな物資を探すことが多い。その途中で掘り出した古代機械は彼らの良き「助っ人」となっている。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -898,8 +898,8 @@ var _monster_2 = {
     "100202014": {
         "_id": 100202014,
         "Key": "Monster_W1_Soldier01_03_Config",
-        "Name": "Vagrant",
-        "Desc": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper.",
+        "Name": "{RUBY_B#るろうしゃ}流浪者{RUBY_E#}",
+        "Desc": "下層部に閉じ込められた人々は、生計のために危険な裂界で使えそうな物資を探すことが多い。その途中で掘り出した古代機械は彼らの良き「助っ人」となっている。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -947,8 +947,8 @@ var _monster_2 = {
     "100202015": {
         "_id": 100202015,
         "Key": "Monster_W1_Soldier01_03_Config",
-        "Name": "Vagrant",
-        "Desc": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper.",
+        "Name": "{RUBY_B#るろうしゃ}流浪者{RUBY_E#}",
+        "Desc": "下層部に閉じ込められた人々は、生計のために危険な裂界で使えそうな物資を探すことが多い。その途中で掘り出した古代機械は彼らの良き「助っ人」となっている。",
         "Stats": {
             "HP": 1.5,
             "ATK": 8.18172,
@@ -993,8 +993,8 @@ var _monster_2 = {
     "100202016": {
         "_id": 100202016,
         "Key": "Monster_W1_Soldier01_03_Config",
-        "Name": "Vagrant",
-        "Desc": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper.",
+        "Name": "{RUBY_B#るろうしゃ}流浪者{RUBY_E#}",
+        "Desc": "下層部に閉じ込められた人々は、生計のために危険な裂界で使えそうな物資を探すことが多い。その途中で掘り出した古代機械は彼らの良き「助っ人」となっている。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -1039,8 +1039,8 @@ var _monster_2 = {
     "100202017": {
         "_id": 100202017,
         "Key": "Monster_W1_Soldier01_03_Config",
-        "Name": "Vagrant",
-        "Desc": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper.",
+        "Name": "{RUBY_B#るろうしゃ}流浪者{RUBY_E#}",
+        "Desc": "下層部に閉じ込められた人々は、生計のために危険な裂界で使えそうな物資を探すことが多い。その途中で掘り出した古代機械は彼らの良き「助っ人」となっている。",
         "Stats": {
             "HP": 2.0,
             "ATK": 22.5,
@@ -1088,8 +1088,8 @@ var _monster_2 = {
     "100202019": {
         "_id": 100202019,
         "Key": "Monster_W1_Soldier01_03_Config",
-        "Name": "Vagrant",
-        "Desc": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper.",
+        "Name": "{RUBY_B#るろうしゃ}流浪者{RUBY_E#}",
+        "Desc": "下層部に閉じ込められた人々は、生計のために危険な裂界で使えそうな物資を探すことが多い。その途中で掘り出した古代機械は彼らの良き「助っ人」となっている。",
         "Stats": {
             "HP": 4.0,
             "ATK": 18.0,
@@ -1134,11 +1134,57 @@ var _monster_2 = {
         ],
         "Csxylic": "SCJarilo-VI/1002020"
     },
+    "100202020": {
+        "_id": 100202020,
+        "Key": "Monster_W1_Soldier01_03_Config",
+        "Name": "{RUBY_B#るろうしゃ}流浪者{RUBY_E#}",
+        "Desc": "下層部に閉じ込められた人々は、生計のために危険な裂界で使えそうな物資を探すことが多い。その途中で掘り出した古代機械は彼らの良き「助っ人」となっている。",
+        "Stats": {
+            "HP": 1.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Fire",
+            "Phys",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100202001,
+                    100202002
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
+        "Status": [
+            210020201
+        ],
+        "AllSkills": [
+            100202001,
+            100202002
+        ],
+        "Csxylic": "SCJarilo-VI/1002020"
+    },
     "100202101": {
         "_id": 100202101,
         "Key": "Monster_W1_Soldier01_03_Config",
-        "Name": "Vagrant",
-        "Desc": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper.",
+        "Name": "流浪者",
+        "Desc": "下層部に閉じ込められた人々は、生計のために危険な裂界で使えそうな物資を探すことが多い。その途中で掘り出した古代機械は彼らの良き「助っ人」となっている。",
         "Stats": {
             "HP": 0.65,
             "ATK": 3.6,
@@ -1182,8 +1228,8 @@ var _monster_2 = {
     "100203001": {
         "_id": 100203001,
         "Key": "Monster_W1_Soldier04_00_Config",
-        "Name": "Silvermane Cannoneer",
-        "Desc": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies.",
+        "Name": "シルバーメイン・{RUBY_B#ほうへい}砲兵{RUBY_E#}",
+        "Desc": "シルバーメインの砲兵、持っているハンドキャノンで戦闘を行う。<br> 戦闘中、シルバーメイン砲兵は他の目標と猛烈な連携攻撃を発動する。",
         "Stats": {
             "HP": 2.1,
             "ATK": 19.99998,
@@ -1235,8 +1281,8 @@ var _monster_2 = {
     "100203002": {
         "_id": 100203002,
         "Key": "Monster_W1_Soldier04_00_Config",
-        "Name": "Silvermane Cannoneer",
-        "Desc": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies.",
+        "Name": "シルバーメイン・{RUBY_B#ほうへい}砲兵{RUBY_E#}",
+        "Desc": "シルバーメインの砲兵、持っているハンドキャノンで戦闘を行う。<br> 戦闘中、シルバーメイン砲兵は他の目標と猛烈な連携攻撃を発動する。",
         "Stats": {
             "HP": 2.1,
             "ATK": 19.99998,
@@ -1288,8 +1334,8 @@ var _monster_2 = {
     "100203003": {
         "_id": 100203003,
         "Key": "Monster_W1_Soldier04_00_Config",
-        "Name": "Silvermane Cannoneer",
-        "Desc": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies.",
+        "Name": "シルバーメイン・{RUBY_B#ほうへい}砲兵{RUBY_E#}",
+        "Desc": "シルバーメインの砲兵、持っているハンドキャノンで戦闘を行う。<br> 戦闘中、シルバーメイン砲兵は他の目標と猛烈な連携攻撃を発動する。",
         "Stats": {
             "HP": 2.1,
             "ATK": 12.00006,
@@ -1341,8 +1387,8 @@ var _monster_2 = {
     "100203004": {
         "_id": 100203004,
         "Key": "Monster_W1_Soldier04_00_Config",
-        "Name": "Silvermane Cannoneer",
-        "Desc": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies.",
+        "Name": "シルバーメイン・{RUBY_B#ほうへい}砲兵{RUBY_E#}",
+        "Desc": "シルバーメインの砲兵、持っているハンドキャノンで戦闘を行う。<br> 戦闘中、シルバーメイン砲兵は他の目標と猛烈な連携攻撃を発動する。",
         "Stats": {
             "HP": 1.0,
             "ATK": 14.99994,
@@ -1397,8 +1443,8 @@ var _monster_2 = {
     "100203005": {
         "_id": 100203005,
         "Key": "Monster_W1_Soldier04_00_Config",
-        "Name": "Silvermane Cannoneer",
-        "Desc": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies.",
+        "Name": "シルバーメイン・{RUBY_B#ほうへい}砲兵{RUBY_E#}",
+        "Desc": "シルバーメインの砲兵、持っているハンドキャノンで戦闘を行う。<br> 戦闘中、シルバーメイン砲兵は他の目標と猛烈な連携攻撃を発動する。",
         "Stats": {
             "HP": 1.4,
             "ATK": 30.00006,
@@ -1450,8 +1496,8 @@ var _monster_2 = {
     "100203006": {
         "_id": 100203006,
         "Key": "Monster_W1_Soldier04_00_Config",
-        "Name": "Silvermane Cannoneer",
-        "Desc": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies.",
+        "Name": "シルバーメイン・{RUBY_B#ほうへい}砲兵{RUBY_E#}",
+        "Desc": "シルバーメインの砲兵、持っているハンドキャノンで戦闘を行う。<br> 戦闘中、シルバーメイン砲兵は他の目標と猛烈な連携攻撃を発動する。",
         "Stats": {
             "HP": 2.1,
             "ATK": 30.00006,
@@ -1503,8 +1549,8 @@ var _monster_2 = {
     "100203007": {
         "_id": 100203007,
         "Key": "Monster_W1_Soldier04_00_Config",
-        "Name": "Silvermane Cannoneer",
-        "Desc": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies.",
+        "Name": "シルバーメイン・{RUBY_B#ほうへい}砲兵{RUBY_E#}",
+        "Desc": "シルバーメインの砲兵、持っているハンドキャノンで戦闘を行う。<br> 戦闘中、シルバーメイン砲兵は他の目標と猛烈な連携攻撃を発動する。",
         "Stats": {
             "HP": 0.55,
             "ATK": 14.99994,
@@ -1559,8 +1605,8 @@ var _monster_2 = {
     "100203008": {
         "_id": 100203008,
         "Key": "Monster_W1_Soldier04_00_Config",
-        "Name": "Silvermane Cannoneer",
-        "Desc": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies.",
+        "Name": "シルバーメイン・{RUBY_B#ほうへい}砲兵{RUBY_E#}",
+        "Desc": "シルバーメインの砲兵、持っているハンドキャノンで戦闘を行う。<br> 戦闘中、シルバーメイン砲兵は他の目標と猛烈な連携攻撃を発動する。",
         "Stats": {
             "HP": 2.5,
             "ATK": 9.0,
@@ -1612,8 +1658,8 @@ var _monster_2 = {
     "100203009": {
         "_id": 100203009,
         "Key": "Monster_W1_Soldier04_00_Config",
-        "Name": "Silvermane Cannoneer",
-        "Desc": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies.",
+        "Name": "シルバーメイン・{RUBY_B#ほうへい}砲兵{RUBY_E#}",
+        "Desc": "シルバーメインの砲兵、持っているハンドキャノンで戦闘を行う。<br> 戦闘中、シルバーメイン砲兵は他の目標と猛烈な連携攻撃を発動する。",
         "Stats": {
             "HP": 2.1,
             "ATK": 18.0,
@@ -1668,8 +1714,8 @@ var _monster_2 = {
     "100203010": {
         "_id": 100203010,
         "Key": "Monster_W1_Soldier04_00_Config",
-        "Name": "Silvermane Cannoneer",
-        "Desc": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies.",
+        "Name": "シルバーメイン・{RUBY_B#ほうへい}砲兵{RUBY_E#}",
+        "Desc": "シルバーメインの砲兵、持っているハンドキャノンで戦闘を行う。<br> 戦闘中、シルバーメイン砲兵は他の目標と猛烈な連携攻撃を発動する。",
         "Stats": {
             "HP": 6.0,
             "ATK": 100.00008,
@@ -1724,8 +1770,8 @@ var _monster_2 = {
     "100203011": {
         "_id": 100203011,
         "Key": "Monster_W1_Soldier04_00_Config",
-        "Name": "Silvermane Cannoneer",
-        "Desc": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies.",
+        "Name": "シルバーメイン・{RUBY_B#ほうへい}砲兵{RUBY_E#}",
+        "Desc": "シルバーメインの砲兵、持っているハンドキャノンで戦闘を行う。<br> 戦闘中、シルバーメイン砲兵は他の目標と猛烈な連携攻撃を発動する。",
         "Stats": {
             "HP": 6.0,
             "ATK": 100.00008,
@@ -1780,8 +1826,8 @@ var _monster_2 = {
     "100203012": {
         "_id": 100203012,
         "Key": "Monster_W1_Soldier04_00_Config",
-        "Name": "Silvermane Cannoneer (Illusion)",
-        "Desc": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies. This entity is a phantom borne from your memories.",
+        "Name": "シルバーメイン・砲兵（幻像）",
+        "Desc": "シルバーメインの砲兵、持っているハンドキャノンで戦闘を行う。<br> 戦闘中、シルバーメイン砲兵は他の目標と猛烈な連携攻撃を発動する。ここに現れたのはあなたの記憶をもとにシミュレートされた幻である。",
         "Stats": {
             "HP": 2.1,
             "ATK": 18.0,
@@ -1834,8 +1880,8 @@ var _monster_2 = {
     "100203013": {
         "_id": 100203013,
         "Key": "Monster_W1_Soldier04_00_Config",
-        "Name": "Silvermane Cannoneer",
-        "Desc": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies.",
+        "Name": "シルバーメイン・{RUBY_B#ほうへい}砲兵{RUBY_E#}",
+        "Desc": "シルバーメインの砲兵、持っているハンドキャノンで戦闘を行う。<br> 戦闘中、シルバーメイン砲兵は他の目標と猛烈な連携攻撃を発動する。",
         "Stats": {
             "HP": 0.66,
             "ATK": 18.0,
@@ -1890,8 +1936,8 @@ var _monster_2 = {
     "100203016": {
         "_id": 100203016,
         "Key": "Monster_W1_Soldier04_00_Config",
-        "Name": "Silvermane Cannoneer",
-        "Desc": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies.",
+        "Name": "シルバーメイン・{RUBY_B#ほうへい}砲兵{RUBY_E#}",
+        "Desc": "シルバーメインの砲兵、持っているハンドキャノンで戦闘を行う。<br> 戦闘中、シルバーメイン砲兵は他の目標と猛烈な連携攻撃を発動する。",
         "Stats": {
             "HP": 2.1,
             "ATK": 18.0,
@@ -1943,8 +1989,8 @@ var _monster_2 = {
     "100203017": {
         "_id": 100203017,
         "Key": "Monster_W1_Soldier04_00_Config",
-        "Name": "Silvermane Cannoneer",
-        "Desc": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies.",
+        "Name": "シルバーメイン・{RUBY_B#ほうへい}砲兵{RUBY_E#}",
+        "Desc": "シルバーメインの砲兵、持っているハンドキャノンで戦闘を行う。<br> 戦闘中、シルバーメイン砲兵は他の目標と猛烈な連携攻撃を発動する。",
         "Stats": {
             "HP": 2.75,
             "ATK": 18.0,
@@ -1996,11 +2042,63 @@ var _monster_2 = {
         ],
         "Csxylic": "SCJarilo-VI/1002030"
     },
+    "100203019": {
+        "_id": 100203019,
+        "Key": "Monster_W1_Soldier04_00_Config",
+        "Name": "シルバーメイン・{RUBY_B#ほうへい}砲兵{RUBY_E#}",
+        "Desc": "シルバーメインの砲兵、持っているハンドキャノンで戦闘を行う。<br> 戦闘中、シルバーメイン砲兵は他の目標と猛烈な連携攻撃を発動する。",
+        "Stats": {
+            "HP": 2.1,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100203001,
+                    100203002
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    100203003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1002030.png",
+        "Figure": "monsterfigure/Monster_1002030.png",
+        "Status": [
+            210020301,
+            210020302
+        ],
+        "AllSkills": [
+            100203001,
+            100203002
+        ],
+        "Csxylic": "SCJarilo-VI/1002030"
+    },
     "100204001": {
         "_id": 100204001,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 1.3,
             "ATK": 18.0,
@@ -2046,8 +2144,8 @@ var _monster_2 = {
     "100204002": {
         "_id": 100204002,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 0.35,
             "ATK": 9.0,
@@ -2090,8 +2188,8 @@ var _monster_2 = {
     "100204003": {
         "_id": 100204003,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier - Sampi",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・近衛「サンピ」",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 1.3,
             "ATK": 18.0,
@@ -2135,7 +2233,7 @@ var _monster_2 = {
         "_id": 100204004,
         "Key": "Monster_W1_Soldier01_00_Config",
         "Name": "",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 1.3,
             "ATK": 18.0,
@@ -2178,8 +2276,8 @@ var _monster_2 = {
     "100204005": {
         "_id": 100204005,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 1.3,
             "ATK": 18.0,
@@ -2222,8 +2320,8 @@ var _monster_2 = {
     "100204006": {
         "_id": 100204006,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 1.3,
             "ATK": 18.0,
@@ -2266,8 +2364,8 @@ var _monster_2 = {
     "100204007": {
         "_id": 100204007,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 2.21,
             "ATK": 14.4,
@@ -2310,8 +2408,8 @@ var _monster_2 = {
     "100204008": {
         "_id": 100204008,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 1.3,
             "ATK": 12.00006,
@@ -2348,8 +2446,8 @@ var _monster_2 = {
     "100204009": {
         "_id": 100204009,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 2.25,
             "ATK": 5.9999400000000005,
@@ -2389,8 +2487,8 @@ var _monster_2 = {
     "100204010": {
         "_id": 100204010,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 1.4,
             "ATK": 4.5,
@@ -2430,8 +2528,8 @@ var _monster_2 = {
     "100204011": {
         "_id": 100204011,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 1.3,
             "ATK": 23.99994,
@@ -2468,8 +2566,8 @@ var _monster_2 = {
     "100204012": {
         "_id": 100204012,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 0.8,
             "ATK": 14.99994,
@@ -2515,8 +2613,8 @@ var _monster_2 = {
     "100204013": {
         "_id": 100204013,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 1.5,
             "ATK": 30.00006,
@@ -2559,8 +2657,8 @@ var _monster_2 = {
     "100204014": {
         "_id": 100204014,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 1.8,
             "ATK": 30.00006,
@@ -2603,8 +2701,8 @@ var _monster_2 = {
     "100204015": {
         "_id": 100204015,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 0.5,
             "ATK": 14.99994,
@@ -2650,8 +2748,8 @@ var _monster_2 = {
     "100204016": {
         "_id": 100204016,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 2.25,
             "ATK": 5.9999400000000005,
@@ -2688,8 +2786,8 @@ var _monster_2 = {
     "100204017": {
         "_id": 100204017,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 2.7,
             "ATK": 5.9999400000000005,
@@ -2770,8 +2868,8 @@ var _monster_2 = {
     "100204019": {
         "_id": 100204019,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 0.5,
             "ATK": 14.99994,
@@ -2817,8 +2915,8 @@ var _monster_2 = {
     "100204020": {
         "_id": 100204020,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 1.3,
             "ATK": 18.0,
@@ -2864,8 +2962,8 @@ var _monster_2 = {
     "100204021": {
         "_id": 100204021,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 1.3,
             "ATK": 12.00006,
@@ -2902,8 +3000,8 @@ var _monster_2 = {
     "100204022": {
         "_id": 100204022,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 2.1,
             "ATK": 12.00006,
@@ -2943,8 +3041,8 @@ var _monster_2 = {
     "100204023": {
         "_id": 100204023,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 1.3,
             "ATK": 18.0,
@@ -2987,8 +3085,8 @@ var _monster_2 = {
     "100204024": {
         "_id": 100204024,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -3028,11 +3126,55 @@ var _monster_2 = {
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
+    "100204025": {
+        "_id": 100204025,
+        "Key": "Monster_W1_Soldier01_00_Config",
+        "Name": "シルバーメイン・{RUBY_B#このえ}近衛{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
+        "Stats": {
+            "HP": 1.3,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Phys",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100204001
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
+        "Status": [
+            210010101
+        ],
+        "AllSkills": [
+            100204001
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
+    },
     "100204101": {
         "_id": 100204101,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "シルバーメイン・近衛",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の近衛戦士、敵の陣地に突入する役割を果たしている。<br>戦闘中、シルバーメイン・近衛の攻撃は味方の防御力をダウンさせる。",
         "Stats": {
             "HP": 2.0,
             "ATK": 13.84614,
@@ -3074,8 +3216,8 @@ var _monster_2 = {
     "100205001": {
         "_id": 100205001,
         "Key": "Monster_W1_Soldier02_00_Config",
-        "Name": "Silvermane Gunner",
-        "Desc": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat.",
+        "Name": "シルバーメイン・{RUBY_B#そげきしゅ}狙撃手{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の狙撃手、狙撃の役割を果たしている。<br>戦闘中、シルバーメイン・狙撃手の射撃は味方に裂創を与える。",
         "Stats": {
             "HP": 1.1,
             "ATK": 18.0,
@@ -3118,8 +3260,8 @@ var _monster_2 = {
     "100205002": {
         "_id": 100205002,
         "Key": "Monster_W1_Soldier02_00_Config",
-        "Name": "Silvermane Gunner",
-        "Desc": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat.",
+        "Name": "シルバーメイン・{RUBY_B#そげきしゅ}狙撃手{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の狙撃手、狙撃の役割を果たしている。<br>戦闘中、シルバーメイン・狙撃手の射撃は味方に裂創を与える。",
         "Stats": {
             "HP": 1.1,
             "ATK": 18.0,
@@ -3162,8 +3304,8 @@ var _monster_2 = {
     "100205003": {
         "_id": 100205003,
         "Key": "Monster_W1_Soldier02_00_Config",
-        "Name": "Silvermane Gunner",
-        "Desc": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat.",
+        "Name": "シルバーメイン・{RUBY_B#そげきしゅ}狙撃手{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の狙撃手、狙撃の役割を果たしている。<br>戦闘中、シルバーメイン・狙撃手の射撃は味方に裂創を与える。",
         "Stats": {
             "HP": 0.35,
             "ATK": 9.0,
@@ -3206,8 +3348,8 @@ var _monster_2 = {
     "100205004": {
         "_id": 100205004,
         "Key": "Monster_W1_Soldier02_00_Config",
-        "Name": "Silvermane Gunner",
-        "Desc": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat.",
+        "Name": "シルバーメイン・{RUBY_B#そげきしゅ}狙撃手{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の狙撃手、狙撃の役割を果たしている。<br>戦闘中、シルバーメイン・狙撃手の射撃は味方に裂創を与える。",
         "Stats": {
             "HP": 1.1,
             "ATK": 18.0,
@@ -3250,8 +3392,8 @@ var _monster_2 = {
     "100205005": {
         "_id": 100205005,
         "Key": "Monster_W1_Soldier02_00_Config",
-        "Name": "Silvermane Gunner",
-        "Desc": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat.",
+        "Name": "シルバーメイン・{RUBY_B#そげきしゅ}狙撃手{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の狙撃手、狙撃の役割を果たしている。<br>戦闘中、シルバーメイン・狙撃手の射撃は味方に裂創を与える。",
         "Stats": {
             "HP": 1.1,
             "ATK": 18.0,
@@ -3294,8 +3436,8 @@ var _monster_2 = {
     "100205006": {
         "_id": 100205006,
         "Key": "Monster_W1_Soldier02_00_Config",
-        "Name": "Silvermane Gunner",
-        "Desc": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat.",
+        "Name": "シルバーメイン・{RUBY_B#そげきしゅ}狙撃手{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の狙撃手、狙撃の役割を果たしている。<br>戦闘中、シルバーメイン・狙撃手の射撃は味方に裂創を与える。",
         "Stats": {
             "HP": 1.87,
             "ATK": 14.4,
@@ -3338,8 +3480,8 @@ var _monster_2 = {
     "100205007": {
         "_id": 100205007,
         "Key": "Monster_W1_Soldier02_00_Config",
-        "Name": "Silvermane Gunner",
-        "Desc": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat.",
+        "Name": "シルバーメイン・{RUBY_B#そげきしゅ}狙撃手{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の狙撃手、狙撃の役割を果たしている。<br>戦闘中、シルバーメイン・狙撃手の射撃は味方に裂創を与える。",
         "Stats": {
             "HP": 1.75,
             "ATK": 7.2,
@@ -3376,8 +3518,8 @@ var _monster_2 = {
     "100205008": {
         "_id": 100205008,
         "Key": "Monster_W1_Soldier02_00_Config",
-        "Name": "Silvermane Gunner",
-        "Desc": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat.",
+        "Name": "シルバーメイン・{RUBY_B#そげきしゅ}狙撃手{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の狙撃手、狙撃の役割を果たしている。<br>戦闘中、シルバーメイン・狙撃手の射撃は味方に裂創を与える。",
         "Stats": {
             "HP": 1.1,
             "ATK": 12.00006,
@@ -3414,8 +3556,8 @@ var _monster_2 = {
     "100205009": {
         "_id": 100205009,
         "Key": "Monster_W1_Soldier02_00_Config",
-        "Name": "Silvermane Gunner",
-        "Desc": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat.",
+        "Name": "シルバーメイン・{RUBY_B#そげきしゅ}狙撃手{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の狙撃手、狙撃の役割を果たしている。<br>戦闘中、シルバーメイン・狙撃手の射撃は味方に裂創を与える。",
         "Stats": {
             "HP": 0.8,
             "ATK": 14.99994,
@@ -3461,8 +3603,8 @@ var _monster_2 = {
     "100205010": {
         "_id": 100205010,
         "Key": "Monster_W1_Soldier02_00_Config",
-        "Name": "Silvermane Gunner",
-        "Desc": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat.",
+        "Name": "シルバーメイン・{RUBY_B#そげきしゅ}狙撃手{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の狙撃手、狙撃の役割を果たしている。<br>戦闘中、シルバーメイン・狙撃手の射撃は味方に裂創を与える。",
         "Stats": {
             "HP": 1.3,
             "ATK": 30.00006,
@@ -3505,8 +3647,8 @@ var _monster_2 = {
     "100205011": {
         "_id": 100205011,
         "Key": "Monster_W1_Soldier02_00_Config",
-        "Name": "Silvermane Gunner",
-        "Desc": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat.",
+        "Name": "シルバーメイン・{RUBY_B#そげきしゅ}狙撃手{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の狙撃手、狙撃の役割を果たしている。<br>戦闘中、シルバーメイン・狙撃手の射撃は味方に裂創を与える。",
         "Stats": {
             "HP": 1.65,
             "ATK": 30.00006,
@@ -3549,8 +3691,8 @@ var _monster_2 = {
     "100205012": {
         "_id": 100205012,
         "Key": "Monster_W1_Soldier02_00_Config",
-        "Name": "Silvermane Gunner",
-        "Desc": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat.",
+        "Name": "シルバーメイン・{RUBY_B#そげきしゅ}狙撃手{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の狙撃手、狙撃の役割を果たしている。<br>戦闘中、シルバーメイン・狙撃手の射撃は味方に裂創を与える。",
         "Stats": {
             "HP": 0.45,
             "ATK": 14.99994,
@@ -3596,8 +3738,8 @@ var _monster_2 = {
     "100205013": {
         "_id": 100205013,
         "Key": "Monster_W1_Soldier02_00_Config",
-        "Name": "Silvermane Gunner",
-        "Desc": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat.",
+        "Name": "シルバーメイン・{RUBY_B#そげきしゅ}狙撃手{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の狙撃手、狙撃の役割を果たしている。<br>戦闘中、シルバーメイン・狙撃手の射撃は味方に裂創を与える。",
         "Stats": {
             "HP": 499.5,
             "ATK": 9.0,
@@ -3687,8 +3829,8 @@ var _monster_2 = {
     "100205015": {
         "_id": 100205015,
         "Key": "Monster_W1_Soldier02_00_Config",
-        "Name": "Silvermane Gunner",
-        "Desc": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat.",
+        "Name": "シルバーメイン・{RUBY_B#そげきしゅ}狙撃手{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の狙撃手、狙撃の役割を果たしている。<br>戦闘中、シルバーメイン・狙撃手の射撃は味方に裂創を与える。",
         "Stats": {
             "HP": 0.45,
             "ATK": 14.99994,
@@ -3734,8 +3876,8 @@ var _monster_2 = {
     "100205016": {
         "_id": 100205016,
         "Key": "Monster_W1_Soldier02_00_Config",
-        "Name": "Silvermane Gunner",
-        "Desc": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat.",
+        "Name": "シルバーメイン・{RUBY_B#そげきしゅ}狙撃手{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の狙撃手、狙撃の役割を果たしている。<br>戦闘中、シルバーメイン・狙撃手の射撃は味方に裂創を与える。",
         "Stats": {
             "HP": 1.1,
             "ATK": 18.0,
@@ -3781,8 +3923,8 @@ var _monster_2 = {
     "100205017": {
         "_id": 100205017,
         "Key": "Monster_W1_Soldier02_00_Config",
-        "Name": "Silvermane Gunner",
-        "Desc": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat.",
+        "Name": "シルバーメイン・{RUBY_B#そげきしゅ}狙撃手{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の狙撃手、狙撃の役割を果たしている。<br>戦闘中、シルバーメイン・狙撃手の射撃は味方に裂創を与える。",
         "Stats": {
             "HP": 0.75,
             "ATK": 12.00006,
@@ -3825,8 +3967,8 @@ var _monster_2 = {
     "100205018": {
         "_id": 100205018,
         "Key": "Monster_W1_Soldier02_00_Config",
-        "Name": "Silvermane Gunner",
-        "Desc": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat.",
+        "Name": "シルバーメイン・{RUBY_B#そげきしゅ}狙撃手{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の狙撃手、狙撃の役割を果たしている。<br>戦闘中、シルバーメイン・狙撃手の射撃は味方に裂創を与える。",
         "Stats": {
             "HP": 1.1,
             "ATK": 12.00006,
@@ -3869,8 +4011,8 @@ var _monster_2 = {
     "100205019": {
         "_id": 100205019,
         "Key": "Monster_W1_Soldier02_00_Config",
-        "Name": "Silvermane Gunner",
-        "Desc": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat.",
+        "Name": "シルバーメイン・{RUBY_B#そげきしゅ}狙撃手{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の狙撃手、狙撃の役割を果たしている。<br>戦闘中、シルバーメイン・狙撃手の射撃は味方に裂創を与える。",
         "Stats": {
             "HP": 1.0,
             "ATK": 18.0,
@@ -3913,8 +4055,8 @@ var _monster_2 = {
     "100205020": {
         "_id": 100205020,
         "Key": "Monster_W1_Soldier02_00_Config",
-        "Name": "Silvermane Gunner",
-        "Desc": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat.",
+        "Name": "シルバーメイン・{RUBY_B#そげきしゅ}狙撃手{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の狙撃手、狙撃の役割を果たしている。<br>戦闘中、シルバーメイン・狙撃手の射撃は味方に裂創を与える。",
         "Stats": {
             "HP": 0.5,
             "ATK": 18.0,
@@ -3957,11 +4099,55 @@ var _monster_2 = {
         ],
         "Csxylic": "SCJarilo-VI/1002050"
     },
+    "100205021": {
+        "_id": 100205021,
+        "Key": "Monster_W1_Soldier02_00_Config",
+        "Name": "シルバーメイン・{RUBY_B#そげきしゅ}狙撃手{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の狙撃手、狙撃の役割を果たしている。<br>戦闘中、シルバーメイン・狙撃手の射撃は味方に裂創を与える。",
+        "Stats": {
+            "HP": 3.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Phys",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100205001
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
+        "Status": [
+            30020005
+        ],
+        "AllSkills": [
+            100205001
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
+    },
     "100301001": {
         "_id": 100301001,
         "Key": "Monster_W1_Soldier03_00_Config",
-        "Name": "Silvermane Officer Dunn",
-        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Name": "シルバーメイン・尉官「ダン」",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
         "Stats": {
             "HP": 9.0,
             "ATK": 18.0,
@@ -4010,8 +4196,8 @@ var _monster_2 = {
     "100301002": {
         "_id": 100301002,
         "Key": "Monster_W1_Soldier03_00_Config",
-        "Name": "Silvermane Officer Dunn",
-        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Name": "シルバーメイン・尉官「ダン」",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -4060,8 +4246,8 @@ var _monster_2 = {
     "100301003": {
         "_id": 100301003,
         "Key": "Monster_W1_Soldier03_00_Config",
-        "Name": "Silvermane Lieutenant",
-        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Name": "シルバーメイン・{RUBY_B#いかん}尉官{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -4110,8 +4296,8 @@ var _monster_2 = {
     "100301004": {
         "_id": 100301004,
         "Key": "Monster_W1_Soldier03_00_Config",
-        "Name": "Silvermane Lieutenant",
-        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Name": "シルバーメイン・{RUBY_B#いかん}尉官{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
         "Stats": {
             "HP": 40.0,
             "ATK": 18.0,
@@ -4163,8 +4349,8 @@ var _monster_2 = {
     "100301005": {
         "_id": 100301005,
         "Key": "Monster_W1_Soldier03_00_Config",
-        "Name": "Silvermane Lieutenant",
-        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Name": "シルバーメイン・{RUBY_B#いかん}尉官{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
         "Stats": {
             "HP": 4.0,
             "ATK": 14.99994,
@@ -4217,8 +4403,8 @@ var _monster_2 = {
     "100301006": {
         "_id": 100301006,
         "Key": "Monster_W1_Soldier03_00_Config",
-        "Name": "Silvermane Lieutenant",
-        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Name": "シルバーメイン・{RUBY_B#いかん}尉官{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
         "Stats": {
             "HP": 1.6,
             "ATK": 30.00006,
@@ -4270,8 +4456,8 @@ var _monster_2 = {
     "100301007": {
         "_id": 100301007,
         "Key": "Monster_W1_Soldier03_00_Config",
-        "Name": "Silvermane Lieutenant",
-        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Name": "シルバーメイン・{RUBY_B#いかん}尉官{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
         "Stats": {
             "HP": 6.5,
             "ATK": 30.00006,
@@ -4320,8 +4506,8 @@ var _monster_2 = {
     "100301008": {
         "_id": 100301008,
         "Key": "Monster_W1_Soldier03_00_Config",
-        "Name": "Silvermane Lieutenant",
-        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Name": "シルバーメイン・{RUBY_B#いかん}尉官{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -4370,8 +4556,8 @@ var _monster_2 = {
     "100301009": {
         "_id": 100301009,
         "Key": "Monster_W1_Soldier03_00_Config",
-        "Name": "Silvermane Lieutenant",
-        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Name": "シルバーメイン・{RUBY_B#いかん}尉官{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
         "Stats": {
             "HP": 4.1,
             "ATK": 12.85722,
@@ -4424,8 +4610,8 @@ var _monster_2 = {
     "100301010": {
         "_id": 100301010,
         "Key": "Monster_W1_Soldier03_00_Config",
-        "Name": "Silvermane Lieutenant",
-        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Name": "シルバーメイン・{RUBY_B#いかん}尉官{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -4477,8 +4663,8 @@ var _monster_2 = {
     "100301011": {
         "_id": 100301011,
         "Key": "Monster_W1_Soldier03_00_Config",
-        "Name": "Silvermane Lieutenant",
-        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Name": "シルバーメイン・{RUBY_B#いかん}尉官{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -4530,8 +4716,8 @@ var _monster_2 = {
     "100301012": {
         "_id": 100301012,
         "Key": "Monster_W1_Soldier03_00_Config",
-        "Name": "Silvermane Lieutenant",
-        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Name": "シルバーメイン・{RUBY_B#いかん}尉官{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -4583,8 +4769,8 @@ var _monster_2 = {
     "100301013": {
         "_id": 100301013,
         "Key": "Monster_W1_Soldier03_00_Config",
-        "Name": "Silvermane Lieutenant",
-        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Name": "シルバーメイン・{RUBY_B#いかん}尉官{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
         "Stats": {
             "HP": 6.0,
             "ATK": 12.00006,
@@ -4636,8 +4822,8 @@ var _monster_2 = {
     "100301014": {
         "_id": 100301014,
         "Key": "Monster_W1_Soldier03_00_Config",
-        "Name": "Silvermane Lieutenant",
-        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Name": "シルバーメイン・{RUBY_B#いかん}尉官{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
         "Stats": {
             "HP": 10.0,
             "ATK": 11.25,
@@ -4690,8 +4876,8 @@ var _monster_2 = {
     "100301015": {
         "_id": 100301015,
         "Key": "Monster_W1_Soldier03_00_Config",
-        "Name": "Silvermane Lieutenant",
-        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Name": "シルバーメイン・{RUBY_B#いかん}尉官{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
         "Stats": {
             "HP": 7.0,
             "ATK": 18.0,
@@ -4743,8 +4929,8 @@ var _monster_2 = {
     "100301016": {
         "_id": 100301016,
         "Key": "Monster_W1_Soldier03_00_Config",
-        "Name": "Silvermane Lieutenant",
-        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Name": "シルバーメイン・{RUBY_B#いかん}尉官{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -4793,8 +4979,8 @@ var _monster_2 = {
     "100301017": {
         "_id": 100301017,
         "Key": "Monster_W1_Soldier03_00_Config",
-        "Name": "Silvermane Lieutenant",
-        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Name": "シルバーメイン・{RUBY_B#いかん}尉官{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -4843,8 +5029,8 @@ var _monster_2 = {
     "100301018": {
         "_id": 100301018,
         "Key": "Monster_W1_Soldier03_00_Config",
-        "Name": "Silvermane Lieutenant",
-        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Name": "シルバーメイン・{RUBY_B#いかん}尉官{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -4896,8 +5082,8 @@ var _monster_2 = {
     "100301019": {
         "_id": 100301019,
         "Key": "Monster_W1_Soldier03_00_Config",
-        "Name": "Silvermane Lieutenant",
-        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Name": "シルバーメイン・{RUBY_B#いかん}尉官{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
         "Stats": {
             "HP": 5.5,
             "ATK": 18.0,
@@ -4949,8 +5135,8 @@ var _monster_2 = {
     "100301020": {
         "_id": 100301020,
         "Key": "Monster_W1_Soldier03_00_Config",
-        "Name": "Silvermane Lieutenant",
-        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Name": "シルバーメイン・{RUBY_B#いかん}尉官{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
         "Stats": {
             "HP": 10.0,
             "ATK": 13.84614,
@@ -5000,11 +5186,164 @@ var _monster_2 = {
         ],
         "Csxylic": "SCJarilo-VI/1003010"
     },
+    "100301021": {
+        "_id": 100301021,
+        "Key": "Monster_W1_Soldier03_00_Config",
+        "Name": "シルバーメイン・{RUBY_B#いかん}尉官{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
+        "Stats": {
+            "HP": 10.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 8.0
+        },
+        "Weak": [
+            "Phys",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100301001,
+                    100301002,
+                    100301003,
+                    100301004
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
+        "Status": [
+            210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
+    },
+    "100301022": {
+        "_id": 100301022,
+        "Key": "Monster_W1_Soldier03_00_Config",
+        "Name": "シルバーメイン・{RUBY_B#いかん}尉官{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
+        "Stats": {
+            "HP": 15.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 8.0
+        },
+        "StatsExtra": {
+            "SPD": -10.0
+        },
+        "Weak": [
+            "Phys",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100301001,
+                    100301002,
+                    100301003,
+                    100301004
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
+        "Status": [
+            210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
+    },
+    "100301023": {
+        "_id": 100301023,
+        "Key": "Monster_W1_Soldier03_00_Config",
+        "Name": "シルバーメイン・{RUBY_B#いかん}尉官{RUBY_E#}",
+        "Desc": "ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官。<br>戦闘中、シルバーメイン・尉官は巨大なシールドを立て自分を強化する。シールド状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
+        "Stats": {
+            "HP": 17.5,
+            "ATK": 9.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 8.0
+        },
+        "Weak": [
+            "Phys",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100301001,
+                    100301002,
+                    100301003,
+                    100301004
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
+        "Status": [
+            210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
+    },
     "100301101": {
         "_id": 100301101,
         "Key": "Monster_W1_Soldier03_00_Config_A",
-        "Name": "Silvermane Lieutenant (Bug)",
-        "Desc": "A false projection produced by compromised codes. The original reference entity is the leader of a squad of Belobog's Silvermane Guards.<br>As long as there are remaining friendly units, Silvermane Lieutenants will persistently raise a giant shield during combat. Attacking a Silvermane Lieutenant with their shield raised will result in a fierce counterattack.",
+        "Name": "シルバーメイン・尉官（バグ）",
+        "Desc": "コードが影響を受けた後、バグってしまった投影。ベロブルグの戍衛部隊である「シルバーメイン」の分隊指揮官を参照にしている。<br>戦闘中、敵と味方がいる限り、シルバーメイン・尉官は巨大なシールドを立てている。その状態のシルバーメイン・尉官を攻撃すると、強力なカウンターを受ける。",
         "Stats": {
             "HP": 16.0,
             "ATK": 18.0,
@@ -5059,8 +5398,8 @@ var _monster_2 = {
     "100401001": {
         "_id": 100401001,
         "Key": "Monster_W1_CocoliaP1_00_Config",
-        "Name": "Cocolia",
-        "Desc": "The Guardian of Belobog, and the indisputable ruler of the Towering Citadel, Belobog.<br>Cocolia possesses the divine authority passed down through the generations of Guardians, giving her command over ice and snow to freeze her enemies in battle.",
+        "Name": "カカリア",
+        "Desc": "ベロブルグの守護者、永屹の城・ベロブルグの最高統治者。<br>カカリアは歴代の守護者より神の権能を引き継がれ、戦闘中に氷雪を召喚し敵を凍結することができる。",
         "Stats": {
             "HP": 13.5,
             "ATK": 14.99994,
@@ -5125,8 +5464,8 @@ var _monster_2 = {
     "100401002": {
         "_id": 100401002,
         "Key": "Monster_W1_CocoliaP1_00_Config",
-        "Name": "Cocolia",
-        "Desc": "The Guardian of Belobog, and the indisputable ruler of the Towering Citadel, Belobog.<br>Cocolia possesses the divine authority passed down through the generations of Guardians, giving her command over ice and snow to freeze her enemies in battle.",
+        "Name": "カカリア",
+        "Desc": "ベロブルグの守護者、永屹の城・ベロブルグの最高統治者。<br>カカリアは歴代の守護者より神の権能を引き継がれ、戦闘中に氷雪を召喚し敵を凍結することができる。",
         "Stats": {
             "HP": 87.5,
             "ATK": 18.0,
@@ -5191,8 +5530,8 @@ var _monster_2 = {
     "100401003": {
         "_id": 100401003,
         "Key": "Monster_W1_CocoliaP1_00_Config",
-        "Name": "Cocolia",
-        "Desc": "The Guardian of Belobog, and the indisputable ruler of the Towering Citadel, Belobog.<br>Cocolia possesses the divine authority passed down through the generations of Guardians, giving her command over ice and snow to freeze her enemies in battle.",
+        "Name": "カカリア",
+        "Desc": "ベロブルグの守護者、永屹の城・ベロブルグの最高統治者。<br>カカリアは歴代の守護者より神の権能を引き継がれ、戦闘中に氷雪を召喚し敵を凍結することができる。",
         "Stats": {
             "HP": 40.0,
             "ATK": 18.0,
@@ -5254,8 +5593,8 @@ var _monster_2 = {
     "100401004": {
         "_id": 100401004,
         "Key": "Monster_W1_CocoliaP1_00_Config",
-        "Name": "Cocolia",
-        "Desc": "The Guardian of Belobog, and the indisputable ruler of the Towering Citadel, Belobog.<br>Cocolia possesses the divine authority passed down through the generations of Guardians, giving her command over ice and snow to freeze her enemies in battle.",
+        "Name": "カカリア",
+        "Desc": "ベロブルグの守護者、永屹の城・ベロブルグの最高統治者。<br>カカリアは歴代の守護者より神の権能を引き継がれ、戦闘中に氷雪を召喚し敵を凍結することができる。",
         "Stats": {
             "HP": 20.0,
             "ATK": 18.0,
@@ -5320,10 +5659,10 @@ var _monster_2 = {
     "100401005": {
         "_id": 100401005,
         "Key": "Monster_W1_CocoliaP1_00_Config",
-        "Name": "Cocolia",
-        "Desc": "The Guardian of Belobog, and the indisputable ruler of the Towering Citadel, Belobog.<br>Cocolia possesses the divine authority passed down through the generations of Guardians, giving her command over ice and snow to freeze her enemies in battle.",
+        "Name": "カカリア",
+        "Desc": "ベロブルグの守護者、永屹の城・ベロブルグの最高統治者。<br>カカリアは歴代の守護者より神の権能を引き継がれ、戦闘中に氷雪を召喚し敵を凍結することができる。",
         "Stats": {
-            "HP": 20.0,
+            "HP": 17.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
@@ -5383,10 +5722,10 @@ var _monster_2 = {
     "100401006": {
         "_id": 100401006,
         "Key": "Monster_W1_CocoliaP1_00_Config",
-        "Name": "Cocolia",
-        "Desc": "The Guardian of Belobog, and the indisputable ruler of the Towering Citadel, Belobog.<br>Cocolia possesses the divine authority passed down through the generations of Guardians, giving her command over ice and snow to freeze her enemies in battle.",
+        "Name": "カカリア",
+        "Desc": "ベロブルグの守護者、永屹の城・ベロブルグの最高統治者。<br>カカリアは歴代の守護者より神の権能を引き継がれ、戦闘中に氷雪を召喚し敵を凍結することができる。",
         "Stats": {
-            "HP": 81.5,
+            "HP": 89.5,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
@@ -5447,11 +5786,78 @@ var _monster_2 = {
         ],
         "Csxylic": "SCJarilo-VI/1004010"
     },
+    "100401007": {
+        "_id": 100401007,
+        "Key": "Monster_W1_CocoliaP1_00_Config",
+        "Name": "カカリア",
+        "Desc": "ベロブルグの守護者、永屹の城・ベロブルグの最高統治者。<br>カカリアは歴代の守護者より神の権能を引き継がれ、戦闘中に氷雪を召喚し敵を凍結することができる。",
+        "Stats": {
+            "HP": 80.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "SPD": 120.0,
+            "Stance": 6.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.4,
+            "Ice": 0.2,
+            "Wind": 0.4,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5,
+            "Frozen": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100401001,
+                    100401002,
+                    100401003,
+                    100401004,
+                    100401005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    100401006
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1004010.png",
+        "Figure": "monsterfigure/Monster_1004010.png",
+        "Status": [
+            30020012,
+            210040114
+        ],
+        "AllSkills": [
+            100401001,
+            100401002,
+            100401003,
+            100401004,
+            100401005
+        ],
+        "Csxylic": "SCJarilo-VI/1004010"
+    },
     "100402001": {
         "_id": 100402001,
         "Key": "Monster_W1_Gepard_00_Config",
-        "Name": "Gepard",
-        "Desc": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack.",
+        "Name": "ジェパード",
+        "Desc": "シルバーメインの戍衛官。<br>ジェパードは麾下の兵士が集中攻撃を仕掛けるよう命令する。同時に、兵士に攻撃を1回無効化できるバリアを付与する。",
         "Stats": {
             "HP": 11.0,
             "ATK": 14.99994,
@@ -5509,8 +5915,8 @@ var _monster_2 = {
     "100402002": {
         "_id": 100402002,
         "Key": "Monster_W1_Gepard_00_Config",
-        "Name": "Gepard",
-        "Desc": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack.",
+        "Name": "ジェパード",
+        "Desc": "シルバーメインの戍衛官。<br>ジェパードは麾下の兵士が集中攻撃を仕掛けるよう命令する。同時に、兵士に攻撃を1回無効化できるバリアを付与する。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -5568,8 +5974,8 @@ var _monster_2 = {
     "100402003": {
         "_id": 100402003,
         "Key": "Monster_W1_Gepard_00_Config",
-        "Name": "Gepard",
-        "Desc": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack.",
+        "Name": "ジェパード",
+        "Desc": "シルバーメインの戍衛官。<br>ジェパードは麾下の兵士が集中攻撃を仕掛けるよう命令する。同時に、兵士に攻撃を1回無効化できるバリアを付与する。",
         "Stats": {
             "HP": 14.0,
             "ATK": 18.0,
@@ -5634,8 +6040,8 @@ var _monster_2 = {
     "100402004": {
         "_id": 100402004,
         "Key": "Monster_W1_Gepard_00_Config",
-        "Name": "Gepard",
-        "Desc": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack.",
+        "Name": "ジェパード",
+        "Desc": "シルバーメインの戍衛官。<br>ジェパードは麾下の兵士が集中攻撃を仕掛けるよう命令する。同時に、兵士に攻撃を1回無効化できるバリアを付与する。",
         "Stats": {
             "HP": 27.5,
             "ATK": 18.0,
@@ -5690,8 +6096,8 @@ var _monster_2 = {
     "100402005": {
         "_id": 100402005,
         "Key": "Monster_W1_Gepard_00_Config",
-        "Name": "Gepard",
-        "Desc": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack.",
+        "Name": "ジェパード",
+        "Desc": "シルバーメインの戍衛官。<br>ジェパードは麾下の兵士が集中攻撃を仕掛けるよう命令する。同時に、兵士に攻撃を1回無効化できるバリアを付与する。",
         "Stats": {
             "HP": 17.0,
             "ATK": 18.0,
@@ -5749,10 +6155,10 @@ var _monster_2 = {
     "100402006": {
         "_id": 100402006,
         "Key": "Monster_W1_Gepard_00_Config",
-        "Name": "Gepard",
-        "Desc": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack.",
+        "Name": "ジェパード",
+        "Desc": "シルバーメインの戍衛官。<br>ジェパードは麾下の兵士が集中攻撃を仕掛けるよう命令する。同時に、兵士に攻撃を1回無効化できるバリアを付与する。",
         "Stats": {
-            "HP": 20.0,
+            "HP": 17.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
@@ -5805,8 +6211,8 @@ var _monster_2 = {
     "100402007": {
         "_id": 100402007,
         "Key": "Monster_W1_Gepard_00_Config",
-        "Name": "Gepard",
-        "Desc": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack.",
+        "Name": "ジェパード",
+        "Desc": "シルバーメインの戍衛官。<br>ジェパードは麾下の兵士が集中攻撃を仕掛けるよう命令する。同時に、兵士に攻撃を1回無効化できるバリアを付与する。",
         "Stats": {
             "HP": 122.5,
             "ATK": 18.0,
@@ -5859,11 +6265,390 @@ var _monster_2 = {
         ],
         "Csxylic": "SCJarilo-VI/1004020"
     },
+    "100402008": {
+        "_id": 100402008,
+        "Key": "Monster_W1_Gepard_00_Config",
+        "Name": "ジェパード",
+        "Desc": "シルバーメインの戍衛官。<br>ジェパードは麾下の兵士が集中攻撃を仕掛けるよう命令する。同時に、兵士に攻撃を1回無効化できるバリアを付与する。",
+        "Stats": {
+            "HP": 11.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "SPD": 120.0,
+            "Stance": 40.0
+        },
+        "Weak": [
+            "Phys",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Elec": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100402001,
+                    100402002,
+                    100402003,
+                    100402004,
+                    100402005
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
+        "Status": [
+            210030201,
+            210030204
+        ],
+        "AllSkills": [
+            100402001,
+            100402002,
+            100402003,
+            100402004,
+            100402005
+        ],
+        "Csxylic": "SCJarilo-VI/1004020"
+    },
+    "100402009": {
+        "_id": 100402009,
+        "Key": "Monster_W1_Gepard_00_Config",
+        "Name": "ジェパード",
+        "Desc": "シルバーメインの戍衛官。<br>ジェパードは麾下の兵士が集中攻撃を仕掛けるよう命令する。同時に、兵士に攻撃を1回無効化できるバリアを付与する。",
+        "Stats": {
+            "HP": 75.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "SPD": 120.0,
+            "Stance": 40.0
+        },
+        "Weak": [
+            "Phys",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Elec": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100402001,
+                    100402002,
+                    100402003,
+                    100402004,
+                    100402005
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
+        "Status": [
+            210030201,
+            210030204
+        ],
+        "AllSkills": [
+            100402001,
+            100402002,
+            100402003,
+            100402004,
+            100402005
+        ],
+        "Csxylic": "SCJarilo-VI/1004020"
+    },
+    "100402201": {
+        "_id": 100402201,
+        "Key": "Monster_W1_Gepard_00_Config_RL",
+        "Name": "ジェパード（スペック）",
+        "Desc": "コードが影響を受けた後の正常な投影。シルバーメインの戍衛官を参考にしている。<br>ジェパード（スペック）は麾下の兵士が集中攻撃を仕掛けるよう命令し、兵士にダメージを防げるバリアを付与する。",
+        "Stats": {
+            "HP": 20.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "SPD": 96.0,
+            "Stance": 20.0
+        },
+        "Weak": [
+            "Phys",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Elec": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Frozen": 0.75,
+            "Confine": 0.75,
+            "Entangle": 0.75
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100402201,
+                    100402202,
+                    100402204,
+                    100402205,
+                    100402208,
+                    100402209
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    100402201,
+                    100402202,
+                    100402203,
+                    100402204,
+                    100402205,
+                    100402208,
+                    100402210
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    100402201,
+                    100402202,
+                    100402203,
+                    100402204,
+                    100402205,
+                    100402208,
+                    100402211
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    100402207
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
+        "Status": [
+            210030201,
+            210040221,
+            210040222,
+            210040223,
+            210040224
+        ],
+        "AllSkills": [
+            100402201,
+            100402202,
+            100402204,
+            100402205,
+            100402208,
+            100402209,
+            100402203,
+            100402210,
+            100402211
+        ],
+        "IsComplete": 1
+    },
+    "100402701": {
+        "_id": 100402701,
+        "Key": "Monster_W1_Gepard_01_Config",
+        "Name": "",
+        "Desc": "",
+        "Stats": {
+            "HP": 11.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "SPD": 120.0,
+            "Stance": 40.0
+        },
+        "Weak": [
+            "Phys",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Elec": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100402701,
+                    100402702,
+                    100402704,
+                    100402705,
+                    100402708,
+                    100402709
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    100402701,
+                    100402702,
+                    100402703,
+                    100402704,
+                    100402705,
+                    100402708,
+                    100402710
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    100402707,
+                    100402711
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
+        "AllSkills": [
+            100402701,
+            100402702,
+            100402704,
+            100402705,
+            100402708,
+            100402709,
+            100402703,
+            100402710
+        ]
+    },
+    "100402702": {
+        "_id": 100402702,
+        "Key": "Monster_W1_Gepard_01_Config",
+        "Name": "",
+        "Desc": "",
+        "Stats": {
+            "HP": 75.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "SPD": 120.0,
+            "Stance": 40.0
+        },
+        "Weak": [
+            "Phys",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Elec": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100402701,
+                    100402702,
+                    100402704,
+                    100402705,
+                    100402708,
+                    100402709
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    100402701,
+                    100402702,
+                    100402703,
+                    100402704,
+                    100402705,
+                    100402708,
+                    100402710
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    100402707,
+                    100402711
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
+        "AllSkills": [
+            100402701,
+            100402702,
+            100402704,
+            100402705,
+            100402708,
+            100402709,
+            100402703,
+            100402710
+        ]
+    },
     "100403001": {
         "_id": 100403001,
         "Key": "Monster_W1_Bronya_00_Config",
-        "Name": "Bronya",
-        "Desc": "Successor to Belobog's Guardian, and commander of the Silvermane Guards.<br>Bronya can use various tactics to attack her enemies, and greatly enhance the battle prowess of all allies.",
+        "Name": "ブローニャ",
+        "Desc": "ベロブルグ守護者の後継者、シルバーメインの最高司令官。<br>ブローニャは多様な戦略で敵を攻撃し、味方の作戦能力を大幅にアップする。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -5915,8 +6700,8 @@ var _monster_2 = {
     "100403002": {
         "_id": 100403002,
         "Key": "Monster_W1_Bronya_00_Config",
-        "Name": "Bronya",
-        "Desc": "Successor to Belobog's Guardian, and commander of the Silvermane Guards.<br>Bronya can use various tactics to attack her enemies, and greatly enhance the battle prowess of all allies.",
+        "Name": "ブローニャ",
+        "Desc": "ベロブルグ守護者の後継者、シルバーメインの最高司令官。<br>ブローニャは多様な戦略で敵を攻撃し、味方の作戦能力を大幅にアップする。",
         "Stats": {
             "HP": 17.0,
             "ATK": 18.0,
@@ -5968,8 +6753,8 @@ var _monster_2 = {
     "100403003": {
         "_id": 100403003,
         "Key": "Monster_W1_Bronya_00_Config",
-        "Name": "Bronya",
-        "Desc": "Successor to Belobog's Guardian, and commander of the Silvermane Guards.<br>Bronya can use various tactics to attack her enemies, and greatly enhance the battle prowess of all allies.",
+        "Name": "ブローニャ",
+        "Desc": "ベロブルグ守護者の後継者、シルバーメインの最高司令官。<br>ブローニャは多様な戦略で敵を攻撃し、味方の作戦能力を大幅にアップする。",
         "Stats": {
             "HP": 21.0,
             "ATK": 18.0,
@@ -6022,10 +6807,10 @@ var _monster_2 = {
     "100403004": {
         "_id": 100403004,
         "Key": "Monster_W1_Bronya_00_Config",
-        "Name": "Bronya",
-        "Desc": "Successor to Belobog's Guardian, and commander of the Silvermane Guards.<br>Bronya can use various tactics to attack her enemies, and greatly enhance the battle prowess of all allies.",
+        "Name": "ブローニャ",
+        "Desc": "ベロブルグ守護者の後継者、シルバーメインの最高司令官。<br>ブローニャは多様な戦略で敵を攻撃し、味方の作戦能力を大幅にアップする。",
         "Stats": {
-            "HP": 20.0,
+            "HP": 17.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
@@ -6069,11 +6854,65 @@ var _monster_2 = {
         ],
         "Csxylic": "SCJarilo-VI/1004030"
     },
+    "100403005": {
+        "_id": 100403005,
+        "Key": "Monster_W1_Bronya_00_Config",
+        "Name": "ブローニャ",
+        "Desc": "ベロブルグ守護者の後継者、シルバーメインの最高司令官。<br>ブローニャは多様な戦略で敵を攻撃し、味方の作戦能力を大幅にアップする。",
+        "Stats": {
+            "HP": 50.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 7.0
+        },
+        "StatsExtra": {
+            "SPD": 120.0,
+            "Stance": 11.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100403001,
+                    100403002,
+                    100403003,
+                    100403004
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1004030.png",
+        "Figure": "monsterfigure/Monster_1004030.png",
+        "AllSkills": [
+            100403001,
+            100403002,
+            100403003,
+            100403004
+        ],
+        "Csxylic": "SCJarilo-VI/1004030"
+    },
     "100403101": {
         "_id": 100403101,
         "Key": "Monster_W1_Bronya_00_Config_RL",
-        "Name": "Bronya (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The original reference entity is Belobog's Guardian successor and commander of the Silvermane Guards.<br>Bronya (complete) can use various tactics to attack her enemies, and greatly enhance the battle prowess of all allies.",
+        "Name": "ブローニャ（スペック）",
+        "Desc": "コードが影響を受けた後の正常な投影。ベロブルグ守護者の後継者、シルバーメイン（スペック）の最高司令官を参考にしている。<br>ブローニャは多様な戦略で敵を攻撃し、味方の作戦能力を大幅にアップする。",
         "Stats": {
             "HP": 25.0,
             "ATK": 18.0,
@@ -6129,8 +6968,8 @@ var _monster_2 = {
     "101201001": {
         "_id": 101201001,
         "Key": "Monster_W1_Mecha02_00_Config",
-        "Name": "Automaton Hound",
-        "Desc": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・サバーカ",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、乗り物の形をしているが、人たちはとっくにこの用途を忘れているだろう。<br>戦闘中、自動機兵「サバーカ」は味方のHPを回復できる。",
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -6172,8 +7011,8 @@ var _monster_2 = {
     "101201002": {
         "_id": 101201002,
         "Key": "Monster_W1_Mecha02_00_Config",
-        "Name": "Automaton Hound",
-        "Desc": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・サバーカ",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、乗り物の形をしているが、人たちはとっくにこの用途を忘れているだろう。<br>戦闘中、自動機兵「サバーカ」は味方のHPを回復できる。",
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -6215,8 +7054,8 @@ var _monster_2 = {
     "101201003": {
         "_id": 101201003,
         "Key": "Monster_W1_Mecha02_00_Config",
-        "Name": "Automaton Hound",
-        "Desc": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・サバーカ",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、乗り物の形をしているが、人たちはとっくにこの用途を忘れているだろう。<br>戦闘中、自動機兵「サバーカ」は味方のHPを回復できる。",
         "Stats": {
             "HP": 2.38,
             "ATK": 14.4,
@@ -6258,8 +7097,8 @@ var _monster_2 = {
     "101201004": {
         "_id": 101201004,
         "Key": "Monster_W1_Mecha02_00_Config",
-        "Name": "Automaton Hound",
-        "Desc": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・サバーカ",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、乗り物の形をしているが、人たちはとっくにこの用途を忘れているだろう。<br>戦闘中、自動機兵「サバーカ」は味方のHPを回復できる。",
         "Stats": {
             "HP": 1.75,
             "ATK": 12.00006,
@@ -6301,8 +7140,8 @@ var _monster_2 = {
     "101201005": {
         "_id": 101201005,
         "Key": "Monster_W1_Mecha02_00_Config",
-        "Name": "Automaton Hound",
-        "Desc": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・サバーカ",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、乗り物の形をしているが、人たちはとっくにこの用途を忘れているだろう。<br>戦闘中、自動機兵「サバーカ」は味方のHPを回復できる。",
         "Stats": {
             "HP": 1.1,
             "ATK": 30.00006,
@@ -6344,8 +7183,8 @@ var _monster_2 = {
     "101201006": {
         "_id": 101201006,
         "Key": "Monster_W1_Mecha02_00_Config",
-        "Name": "Automaton Hound",
-        "Desc": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・サバーカ",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、乗り物の形をしているが、人たちはとっくにこの用途を忘れているだろう。<br>戦闘中、自動機兵「サバーカ」は味方のHPを回復できる。",
         "Stats": {
             "HP": 0.5,
             "ATK": 14.99994,
@@ -6387,8 +7226,8 @@ var _monster_2 = {
     "101201007": {
         "_id": 101201007,
         "Key": "Monster_W1_Mecha02_00_Config",
-        "Name": "Automaton Hound",
-        "Desc": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・サバーカ",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、乗り物の形をしているが、人たちはとっくにこの用途を忘れているだろう。<br>戦闘中、自動機兵「サバーカ」は味方のHPを回復できる。",
         "Stats": {
             "HP": 0.4,
             "ATK": 18.0,
@@ -6430,8 +7269,8 @@ var _monster_2 = {
     "101201008": {
         "_id": 101201008,
         "Key": "Monster_W1_Mecha02_00_Config",
-        "Name": "Distortion",
-        "Desc": "\"Memory\" is similar to \"photographs\". Even though it appears to record \"reality,\" it actually invades, alienates, and alters \"reality.\" Perhaps removing the \"distortion\" will make it reliable, or perhaps not.",
+        "Name": "歪み",
+        "Desc": "「記憶」と「写真」はとても似ている。それは「真実」を記録しているように見えるが、「真実」に侵入し、「真実」を変化させ、改ざんしているのだ。もしその中の「歪み」を消すことができれば信頼できるものになるかもしれない、ならないかもしれない。",
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -6473,8 +7312,8 @@ var _monster_2 = {
     "101201009": {
         "_id": 101201009,
         "Key": "Monster_W1_Mecha02_00_Config",
-        "Name": "Automaton Hound",
-        "Desc": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・サバーカ",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、乗り物の形をしているが、人たちはとっくにこの用途を忘れているだろう。<br>戦闘中、自動機兵「サバーカ」は味方のHPを回復できる。",
         "Stats": {
             "HP": 1.4,
             "ATK": 8.18172,
@@ -6516,8 +7355,8 @@ var _monster_2 = {
     "101201010": {
         "_id": 101201010,
         "Key": "Monster_W1_Mecha02_00_Config",
-        "Name": "Automaton Hound",
-        "Desc": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・サバーカ",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、乗り物の形をしているが、人たちはとっくにこの用途を忘れているだろう。<br>戦闘中、自動機兵「サバーカ」は味方のHPを回復できる。",
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -6562,8 +7401,8 @@ var _monster_2 = {
     "101201011": {
         "_id": 101201011,
         "Key": "Monster_W1_Mecha02_00_Config",
-        "Name": "Automaton Hound",
-        "Desc": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・サバーカ",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、乗り物の形をしているが、人たちはとっくにこの用途を忘れているだろう。<br>戦闘中、自動機兵「サバーカ」は味方のHPを回復できる。",
         "Stats": {
             "HP": 3.5,
             "ATK": 12.00006,
@@ -6605,8 +7444,8 @@ var _monster_2 = {
     "101201012": {
         "_id": 101201012,
         "Key": "Monster_W1_Mecha02_00_Config",
-        "Name": "Automaton Hound",
-        "Desc": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・サバーカ",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、乗り物の形をしているが、人たちはとっくにこの用途を忘れているだろう。<br>戦闘中、自動機兵「サバーカ」は味方のHPを回復できる。",
         "Stats": {
             "HP": 0.65,
             "ATK": 3.6,
@@ -6651,8 +7490,8 @@ var _monster_2 = {
     "101201013": {
         "_id": 101201013,
         "Key": "Monster_W1_Mecha02_00_Config",
-        "Name": "Automaton Hound",
-        "Desc": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・サバーカ",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、乗り物の形をしているが、人たちはとっくにこの用途を忘れているだろう。<br>戦闘中、自動機兵「サバーカ」は味方のHPを回復できる。",
         "Stats": {
             "HP": 2.1,
             "ATK": 18.0,
@@ -6697,8 +7536,8 @@ var _monster_2 = {
     "101201014": {
         "_id": 101201014,
         "Key": "Monster_W1_Mecha02_00_Config",
-        "Name": "Automaton Hound",
-        "Desc": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・サバーカ",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、乗り物の形をしているが、人たちはとっくにこの用途を忘れているだろう。<br>戦闘中、自動機兵「サバーカ」は味方のHPを回復できる。",
         "Stats": {
             "HP": 0.65,
             "ATK": 3.6,
@@ -6743,8 +7582,8 @@ var _monster_2 = {
     "101201015": {
         "_id": 101201015,
         "Key": "Monster_W1_Mecha02_00_Config",
-        "Name": "Automaton Hound",
-        "Desc": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・サバーカ",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、乗り物の形をしているが、人たちはとっくにこの用途を忘れているだろう。<br>戦闘中、自動機兵「サバーカ」は味方のHPを回復できる。",
         "Stats": {
             "HP": 1.65,
             "ATK": 18.0,
@@ -6786,8 +7625,8 @@ var _monster_2 = {
     "101201016": {
         "_id": 101201016,
         "Key": "Monster_W1_Mecha02_00_Config",
-        "Name": "Automaton Hound",
-        "Desc": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・サバーカ",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、乗り物の形をしているが、人たちはとっくにこの用途を忘れているだろう。<br>戦闘中、自動機兵「サバーカ」は味方のHPを回復できる。",
         "Stats": {
             "HP": 2.1,
             "ATK": 18.0,
@@ -6829,8 +7668,8 @@ var _monster_2 = {
     "101201017": {
         "_id": 101201017,
         "Key": "Monster_W1_Mecha02_00_Config",
-        "Name": "Automaton Hound",
-        "Desc": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・サバーカ",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、乗り物の形をしているが、人たちはとっくにこの用途を忘れているだろう。<br>戦闘中、自動機兵「サバーカ」は味方のHPを回復できる。",
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -6872,8 +7711,8 @@ var _monster_2 = {
     "101202001": {
         "_id": 101202001,
         "Key": "Monster_W1_Mecha01_00_Config",
-        "Name": "Rookie Buster: Silo",
-        "Desc": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged.",
+        "Name": "「ルーキーキラー」ヒーロ",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、人類の代わりに基礎的な体力労働を担っている。<br>戦闘中、自動機兵「パウーク」の動力は非常に不安定で、故障時自爆事故が発生する可能性が高い。",
         "Stats": {
             "HP": 3.5,
             "ATK": 30.00006,
@@ -6928,8 +7767,8 @@ var _monster_2 = {
     "101202002": {
         "_id": 101202002,
         "Key": "Monster_W1_Mecha01_00_Config",
-        "Name": "Rookie Buster: Yur",
-        "Desc": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged.",
+        "Name": "「ルーキーキラー」ユール",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、人類の代わりに基礎的な体力労働を担っている。<br>戦闘中、自動機兵「パウーク」の動力は非常に不安定で、故障時自爆事故が発生する可能性が高い。",
         "Stats": {
             "HP": 3.5,
             "ATK": 30.00006,
@@ -6984,8 +7823,8 @@ var _monster_2 = {
     "101202003": {
         "_id": 101202003,
         "Key": "Monster_W1_Mecha01_00_Config",
-        "Name": "Gear-Stealing Robot",
-        "Desc": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged.",
+        "Name": "パーツを盗んだロボット",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、人類の代わりに基礎的な体力労働を担っている。<br>戦闘中、自動機兵「パウーク」の動力は非常に不安定で、故障時自爆事故が発生する可能性が高い。",
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -7037,8 +7876,8 @@ var _monster_2 = {
     "101202101": {
         "_id": 101202101,
         "Key": "Monster_W1_Mecha01_00_Config",
-        "Name": "Automaton Spider",
-        "Desc": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged.",
+        "Name": "自動機兵・パウーク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、人類の代わりに基礎的な体力労働を担っている。<br>戦闘中、自動機兵「パウーク」の動力は非常に不安定で、故障時自爆事故が発生する可能性が高い。",
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -7087,8 +7926,8 @@ var _monster_2 = {
     "101202102": {
         "_id": 101202102,
         "Key": "Monster_W1_Mecha01_00_Config",
-        "Name": "Remote Support System: Light Cavalry",
-        "Desc": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged.",
+        "Name": "「リモートサポートシステム・軽騎兵」",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、人類の代わりに基礎的な体力労働を担っている。<br>戦闘中、自動機兵「パウーク」の動力は非常に不安定で、故障時自爆事故が発生する可能性が高い。",
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -7137,8 +7976,8 @@ var _monster_2 = {
     "101202103": {
         "_id": 101202103,
         "Key": "Monster_W1_Mecha01_00_Config",
-        "Name": "Automaton Spider",
-        "Desc": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged.",
+        "Name": "自動機兵・パウーク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、人類の代わりに基礎的な体力労働を担っている。<br>戦闘中、自動機兵「パウーク」の動力は非常に不安定で、故障時自爆事故が発生する可能性が高い。",
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -7187,8 +8026,8 @@ var _monster_2 = {
     "101202104": {
         "_id": 101202104,
         "Key": "Monster_W1_Mecha01_00_Config",
-        "Name": "Automaton Spider",
-        "Desc": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged.",
+        "Name": "自動機兵・パウーク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、人類の代わりに基礎的な体力労働を担っている。<br>戦闘中、自動機兵「パウーク」の動力は非常に不安定で、故障時自爆事故が発生する可能性が高い。",
         "Stats": {
             "HP": 1.4,
             "ATK": 14.99994,
@@ -7241,8 +8080,8 @@ var _monster_2 = {
     "101202105": {
         "_id": 101202105,
         "Key": "Monster_W1_Mecha01_00_Config",
-        "Name": "Automaton Spider",
-        "Desc": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged.",
+        "Name": "自動機兵・パウーク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、人類の代わりに基礎的な体力労働を担っている。<br>戦闘中、自動機兵「パウーク」の動力は非常に不安定で、故障時自爆事故が発生する可能性が高い。",
         "Stats": {
             "HP": 0.75,
             "ATK": 30.00006,
@@ -7291,8 +8130,8 @@ var _monster_2 = {
     "101202106": {
         "_id": 101202106,
         "Key": "Monster_W1_Mecha01_00_Config",
-        "Name": "Automaton Spider",
-        "Desc": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged.",
+        "Name": "自動機兵・パウーク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、人類の代わりに基礎的な体力労働を担っている。<br>戦闘中、自動機兵「パウーク」の動力は非常に不安定で、故障時自爆事故が発生する可能性が高い。",
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -7341,8 +8180,8 @@ var _monster_2 = {
     "101202107": {
         "_id": 101202107,
         "Key": "Monster_W1_Mecha01_00_Config",
-        "Name": "Automaton Spider",
-        "Desc": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged.",
+        "Name": "自動機兵・パウーク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、人類の代わりに基礎的な体力労働を担っている。<br>戦闘中、自動機兵「パウーク」の動力は非常に不安定で、故障時自爆事故が発生する可能性が高い。",
         "Stats": {
             "HP": 0.81,
             "ATK": 13.84614,
@@ -7395,8 +8234,8 @@ var _monster_2 = {
     "101202108": {
         "_id": 101202108,
         "Key": "Monster_W1_Mecha01_00_Config",
-        "Name": "Automaton Spider",
-        "Desc": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged.",
+        "Name": "自動機兵・パウーク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、人類の代わりに基礎的な体力労働を担っている。<br>戦闘中、自動機兵「パウーク」の動力は非常に不安定で、故障時自爆事故が発生する可能性が高い。",
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -7445,8 +8284,8 @@ var _monster_2 = {
     "101202109": {
         "_id": 101202109,
         "Key": "Monster_W1_Mecha01_00_Config",
-        "Name": "Automaton Spider",
-        "Desc": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged.",
+        "Name": "自動機兵・パウーク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、人類の代わりに基礎的な体力労働を担っている。<br>戦闘中、自動機兵「パウーク」の動力は非常に不安定で、故障時自爆事故が発生する可能性が高い。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -7495,8 +8334,8 @@ var _monster_2 = {
     "101202110": {
         "_id": 101202110,
         "Key": "Monster_W1_Mecha01_00_Config",
-        "Name": "Automaton Spider",
-        "Desc": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged.",
+        "Name": "自動機兵・パウーク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、人類の代わりに基礎的な体力労働を担っている。<br>戦闘中、自動機兵「パウーク」の動力は非常に不安定で、故障時自爆事故が発生する可能性が高い。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -7545,8 +8384,8 @@ var _monster_2 = {
     "101202111": {
         "_id": 101202111,
         "Key": "Monster_W1_Mecha01_00_Config",
-        "Name": "Automaton Spider",
-        "Desc": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged.",
+        "Name": "自動機兵・パウーク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、人類の代わりに基礎的な体力労働を担っている。<br>戦闘中、自動機兵「パウーク」の動力は非常に不安定で、故障時自爆事故が発生する可能性が高い。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -7595,8 +8434,8 @@ var _monster_2 = {
     "101203001": {
         "_id": 101203001,
         "Key": "Monster_W1_Mecha01_01_Config",
-        "Name": "Automaton Beetle",
-        "Desc": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ジューク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、移動用の手足に何かしらの信号灯が付いている、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ジューク」は力場バリアを創り自身を保護する。",
         "Stats": {
             "HP": 1.4,
             "ATK": 14.99994,
@@ -7643,8 +8482,8 @@ var _monster_2 = {
     "101203002": {
         "_id": 101203002,
         "Key": "Monster_W1_Mecha01_01_Config",
-        "Name": "Automaton Beetle",
-        "Desc": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ジューク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、移動用の手足に何かしらの信号灯が付いている、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ジューク」は力場バリアを創り自身を保護する。",
         "Stats": {
             "HP": 2.38,
             "ATK": 14.4,
@@ -7691,8 +8530,8 @@ var _monster_2 = {
     "101203003": {
         "_id": 101203003,
         "Key": "Monster_W1_Mecha01_01_Config",
-        "Name": "Beet-Ka-Choo",
-        "Desc": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves.",
+        "Name": "「ビ・カ・チュ」",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、移動用の手足に何かしらの信号灯が付いている、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ジューク」は力場バリアを創り自身を保護する。",
         "Stats": {
             "HP": 5.0,
             "ATK": 18.0,
@@ -7735,8 +8574,8 @@ var _monster_2 = {
     "101203004": {
         "_id": 101203004,
         "Key": "Monster_W1_Mecha01_01_Config",
-        "Name": "Gear-Stealing Robot",
-        "Desc": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves.",
+        "Name": "パーツを盗んだロボット",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、移動用の手足に何かしらの信号灯が付いている、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ジューク」は力場バリアを創り自身を保護する。",
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -7776,8 +8615,8 @@ var _monster_2 = {
     "101203005": {
         "_id": 101203005,
         "Key": "Monster_W1_Mecha01_01_Config",
-        "Name": "Automaton Beetle",
-        "Desc": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ジューク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、移動用の手足に何かしらの信号灯が付いている、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ジューク」は力場バリアを創り自身を保護する。",
         "Stats": {
             "HP": 0.7,
             "ATK": 18.0,
@@ -7817,8 +8656,8 @@ var _monster_2 = {
     "101203006": {
         "_id": 101203006,
         "Key": "Monster_W1_Mecha01_01_Config",
-        "Name": "Automaton Beetle",
-        "Desc": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ジューク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、移動用の手足に何かしらの信号灯が付いている、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ジューク」は力場バリアを創り自身を保護する。",
         "Stats": {
             "HP": 1.1,
             "ATK": 8.18172,
@@ -7858,8 +8697,8 @@ var _monster_2 = {
     "101203007": {
         "_id": 101203007,
         "Key": "Monster_W1_Mecha01_01_Config",
-        "Name": "Automaton Beetle",
-        "Desc": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ジューク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、移動用の手足に何かしらの信号灯が付いている、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ジューク」は力場バリアを創り自身を保護する。",
         "Stats": {
             "HP": 1.0,
             "ATK": 30.00006,
@@ -7899,8 +8738,8 @@ var _monster_2 = {
     "101203008": {
         "_id": 101203008,
         "Key": "Monster_W1_Mecha01_01_Config",
-        "Name": "Automaton Beetle",
-        "Desc": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ジューク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、移動用の手足に何かしらの信号灯が付いている、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ジューク」は力場バリアを創り自身を保護する。",
         "Stats": {
             "HP": 0.55,
             "ATK": 14.99994,
@@ -7940,8 +8779,8 @@ var _monster_2 = {
     "101203009": {
         "_id": 101203009,
         "Key": "Monster_W1_Mecha01_01_Config",
-        "Name": "Automaton Beetle",
-        "Desc": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ジューク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、移動用の手足に何かしらの信号灯が付いている、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ジューク」は力場バリアを創り自身を保護する。",
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -7981,8 +8820,8 @@ var _monster_2 = {
     "101203010": {
         "_id": 101203010,
         "Key": "Monster_W1_Mecha01_01_Config",
-        "Name": "Automaton Beetle",
-        "Desc": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ジューク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、移動用の手足に何かしらの信号灯が付いている、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ジューク」は力場バリアを創り自身を保護する。",
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -8022,8 +8861,8 @@ var _monster_2 = {
     "101203011": {
         "_id": 101203011,
         "Key": "Monster_W1_Mecha01_01_Config",
-        "Name": "Automaton Beetle",
-        "Desc": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ジューク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、移動用の手足に何かしらの信号灯が付いている、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ジューク」は力場バリアを創り自身を保護する。",
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -8063,8 +8902,8 @@ var _monster_2 = {
     "101203012": {
         "_id": 101203012,
         "Key": "Monster_W1_Mecha01_01_Config",
-        "Name": "Distortion",
-        "Desc": "\"Memory\" is similar to \"photographs\". Even though it appears to record \"reality,\" it actually invades, alienates, and alters \"reality.\" Perhaps removing the \"distortion\" will make it reliable, or perhaps not.",
+        "Name": "歪み",
+        "Desc": "「記憶」と「写真」はとても似ている。それは「真実」を記録しているように見えるが、「真実」に侵入し、「真実」を変化させ、改ざんしているのだ。もしその中の「歪み」を消すことができれば信頼できるものになるかもしれない、ならないかもしれない。",
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -8104,8 +8943,8 @@ var _monster_2 = {
     "101203013": {
         "_id": 101203013,
         "Key": "Monster_W1_Mecha01_01_Config",
-        "Name": "Automaton Beetle",
-        "Desc": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ジューク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、移動用の手足に何かしらの信号灯が付いている、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ジューク」は力場バリアを創り自身を保護する。",
         "Stats": {
             "HP": 1.1,
             "ATK": 8.18172,
@@ -8145,8 +8984,8 @@ var _monster_2 = {
     "101203014": {
         "_id": 101203014,
         "Key": "Monster_W1_Mecha01_01_Config",
-        "Name": "Automaton Beetle",
-        "Desc": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ジューク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、移動用の手足に何かしらの信号灯が付いている、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ジューク」は力場バリアを創り自身を保護する。",
         "Stats": {
             "HP": 3.5,
             "ATK": 8.18172,
@@ -8186,8 +9025,8 @@ var _monster_2 = {
     "101203015": {
         "_id": 101203015,
         "Key": "Monster_W1_Mecha01_01_Config",
-        "Name": "Automaton Beetle",
-        "Desc": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ジューク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、移動用の手足に何かしらの信号灯が付いている、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ジューク」は力場バリアを創り自身を保護する。",
         "Stats": {
             "HP": 4.5,
             "ATK": 18.0,
@@ -8224,11 +9063,52 @@ var _monster_2 = {
         ],
         "Csxylic": "SCJarilo-VI/1012030"
     },
+    "101203016": {
+        "_id": 101203016,
+        "Key": "Monster_W1_Mecha01_01_Config",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ジューク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、移動用の手足に何かしらの信号灯が付いている、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ジューク」は力場バリアを創り自身を保護する。",
+        "Stats": {
+            "HP": 1.4,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind",
+            "Phys"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101203001
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1012030.png",
+        "Figure": "monsterfigure/Monster_1012030.png",
+        "AllSkills": [
+            101203001
+        ],
+        "Csxylic": "SCJarilo-VI/1012030"
+    },
     "101301001": {
         "_id": 101301001,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 13.0,
             "ATK": 14.99994,
@@ -8295,8 +9175,8 @@ var _monster_2 = {
     "101301002": {
         "_id": 101301002,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 12.0,
             "ATK": 14.99994,
@@ -8356,8 +9236,8 @@ var _monster_2 = {
     "101301003": {
         "_id": 101301003,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 13.0,
             "ATK": 18.0,
@@ -8414,8 +9294,8 @@ var _monster_2 = {
     "101301004": {
         "_id": 101301004,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 20.0,
             "ATK": 18.0,
@@ -8482,8 +9362,8 @@ var _monster_2 = {
     "101301005": {
         "_id": 101301005,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Grayback Whale",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "「コククジラ」",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -8540,8 +9420,8 @@ var _monster_2 = {
     "101301006": {
         "_id": 101301006,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 13.0,
             "ATK": 18.0,
@@ -8598,8 +9478,8 @@ var _monster_2 = {
     "101301007": {
         "_id": 101301007,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 13.0,
             "ATK": 18.0,
@@ -8656,8 +9536,8 @@ var _monster_2 = {
     "101301008": {
         "_id": 101301008,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 60.0,
             "ATK": 18.0,
@@ -8714,8 +9594,8 @@ var _monster_2 = {
     "101301009": {
         "_id": 101301009,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 13.0,
             "ATK": 14.99994,
@@ -8775,8 +9655,8 @@ var _monster_2 = {
     "101301010": {
         "_id": 101301010,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 6.3,
             "ATK": 18.0,
@@ -8836,8 +9716,8 @@ var _monster_2 = {
     "101301011": {
         "_id": 101301011,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -8894,8 +9774,8 @@ var _monster_2 = {
     "101301012": {
         "_id": 101301012,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 13.0,
             "ATK": 18.0,
@@ -8952,8 +9832,8 @@ var _monster_2 = {
     "101301013": {
         "_id": 101301013,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 22.5,
             "ATK": 25.71426,
@@ -9013,8 +9893,8 @@ var _monster_2 = {
     "101301014": {
         "_id": 101301014,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 6.7,
             "ATK": 18.0,
@@ -9071,8 +9951,8 @@ var _monster_2 = {
     "101301015": {
         "_id": 101301015,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 13.0,
             "ATK": 12.85722,
@@ -9132,8 +10012,8 @@ var _monster_2 = {
     "101301016": {
         "_id": 101301016,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 9.0,
             "ATK": 12.00006,
@@ -9193,8 +10073,8 @@ var _monster_2 = {
     "101301017": {
         "_id": 101301017,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 13.0,
             "ATK": 12.00006,
@@ -9254,8 +10134,8 @@ var _monster_2 = {
     "101301018": {
         "_id": 101301018,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -9312,8 +10192,8 @@ var _monster_2 = {
     "101301019": {
         "_id": 101301019,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 15.0,
             "ATK": 12.00006,
@@ -9373,8 +10253,8 @@ var _monster_2 = {
     "101301020": {
         "_id": 101301020,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 13.0,
             "ATK": 18.0,
@@ -9431,8 +10311,8 @@ var _monster_2 = {
     "101301021": {
         "_id": 101301021,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 9.5,
             "ATK": 18.0,
@@ -9492,8 +10372,8 @@ var _monster_2 = {
     "101301022": {
         "_id": 101301022,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -9553,8 +10433,8 @@ var _monster_2 = {
     "101301023": {
         "_id": 101301023,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
         "Stats": {
             "HP": 5.5,
             "ATK": 18.0,
@@ -9611,11 +10491,69 @@ var _monster_2 = {
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
+    "101301024": {
+        "_id": 101301024,
+        "Key": "Monster_W1_Mecha03_00_Config",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・グリズリー",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」は「パウーク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な一撃を繰り出す。",
+        "Stats": {
+            "HP": 12.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 14.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101301001,
+                    101301002,
+                    101301003,
+                    101301004,
+                    101301009
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    101301005
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
+        "Status": [
+            30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
+    },
     "101301101": {
         "_id": 101301101,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly (Bug)",
-        "Desc": "A false projection produced by compromised codes. The original reference entity is an automaton pieced together with Old World technology. It's been reinforced with durable armor to charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlies (Bug) will send out a signal to summon Automaton Spiders and Beatles, and at the same time unleash powerful charged attacks.",
+        "Name": "自動機兵・グリズリー（バグ）",
+        "Desc": "コードが影響を受けた後、バグってしまった投影。旧世界が残した技術で作られた機械ユニットを参考にしている。分厚い鎧を着せられ、敵陣を陥れシルバーメインを保護する役割を果たす。<br>戦闘中、自動機兵「グリズリー」（バグ）は「パウーク」と「ジューク」を召喚し共同作戦を行う、同時に、エネルギーをチャージし強力な攻撃を繰り出す。",
         "Stats": {
             "HP": 18.0,
             "ATK": 18.0,
@@ -9676,8 +10614,8 @@ var _monster_2 = {
     "101302001": {
         "_id": 101302001,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 9.0,
             "ATK": 14.99994,
@@ -9730,8 +10668,8 @@ var _monster_2 = {
     "101302002": {
         "_id": 101302002,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 2.0,
             "ATK": 14.99994,
@@ -9785,8 +10723,8 @@ var _monster_2 = {
     "101302003": {
         "_id": 101302003,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Mechanical Fighting Style: Master",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "「機械格闘流」マスター",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 12.0,
             "ATK": 22.5,
@@ -9840,8 +10778,8 @@ var _monster_2 = {
     "101302004": {
         "_id": 101302004,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Remote Support System: Dragon Rider",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "「リモートサポートシステム・竜騎兵」",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 7.0,
             "ATK": 18.0,
@@ -9891,8 +10829,8 @@ var _monster_2 = {
     "101302005": {
         "_id": 101302005,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Almost scrapped Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "壊れかけの「自動機兵・ヴォルク」",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -9942,8 +10880,8 @@ var _monster_2 = {
     "101302006": {
         "_id": 101302006,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 40.0,
             "ATK": 18.0,
@@ -9996,8 +10934,8 @@ var _monster_2 = {
     "101302007": {
         "_id": 101302007,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 11.0,
             "ATK": 14.99994,
@@ -10051,8 +10989,8 @@ var _monster_2 = {
     "101302008": {
         "_id": 101302008,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 5.1,
             "ATK": 14.99994,
@@ -10105,8 +11043,8 @@ var _monster_2 = {
     "101302009": {
         "_id": 101302009,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -10166,8 +11104,8 @@ var _monster_2 = {
     "101302010": {
         "_id": 101302010,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 9.0,
             "ATK": 18.0,
@@ -10217,8 +11155,8 @@ var _monster_2 = {
     "101302011": {
         "_id": 101302011,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 21.5,
             "ATK": 18.0,
@@ -10268,8 +11206,8 @@ var _monster_2 = {
     "101302012": {
         "_id": 101302012,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -10319,8 +11257,8 @@ var _monster_2 = {
     "101302013": {
         "_id": 101302013,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -10370,8 +11308,8 @@ var _monster_2 = {
     "101302014": {
         "_id": 101302014,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 4.7,
             "ATK": 18.0,
@@ -10421,8 +11359,8 @@ var _monster_2 = {
     "101302015": {
         "_id": 101302015,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 14.0,
             "ATK": 9.0,
@@ -10476,8 +11414,8 @@ var _monster_2 = {
     "101302020": {
         "_id": 101302020,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 7.8,
             "ATK": 59.99994,
@@ -10531,8 +11469,8 @@ var _monster_2 = {
     "101302021": {
         "_id": 101302021,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 11.0,
             "ATK": 12.00006,
@@ -10585,8 +11523,8 @@ var _monster_2 = {
     "101302022": {
         "_id": 101302022,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 11.0,
             "ATK": 12.00006,
@@ -10639,8 +11577,8 @@ var _monster_2 = {
     "101302023": {
         "_id": 101302023,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 13.75,
             "ATK": 18.0,
@@ -10690,8 +11628,8 @@ var _monster_2 = {
     "101302024": {
         "_id": 101302024,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 12.5,
             "ATK": 7.2,
@@ -10744,8 +11682,8 @@ var _monster_2 = {
     "101302025": {
         "_id": 101302025,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 30.0,
             "ATK": 18.0,
@@ -10795,8 +11733,8 @@ var _monster_2 = {
     "101302026": {
         "_id": 101302026,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 4.5,
             "ATK": 14.99994,
@@ -10850,8 +11788,8 @@ var _monster_2 = {
     "101302027": {
         "_id": 101302027,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -10904,8 +11842,8 @@ var _monster_2 = {
     "101302028": {
         "_id": 101302028,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
         "Stats": {
             "HP": 5.5,
             "ATK": 18.0,
@@ -10955,11 +11893,65 @@ var _monster_2 = {
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
+    "101302029": {
+        "_id": 101302029,
+        "Key": "Monster_W1_Mecha04_00_Config",
+        "Name": "{RUBY_B#じどうきへい}自動機兵{RUBY_E#}・ヴォルク",
+        "Desc": "旧世界が残した技術で作られた機械ユニット、あまり見れない人型の機械、右腕の一部にチェーンソーが付いていて、採集や建造の作業を担っていたらしい。<br>戦闘中、自動機兵「ヴォルク」のチェーンソーは裂創を与え、相手のHPを継続的に減らす。",
+        "Stats": {
+            "HP": 11.0,
+            "ATK": 12.00006,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": -3.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101302001,
+                    101302002,
+                    101302003,
+                    101302004
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
+    },
     "101401001": {
         "_id": 101401001,
         "Key": "Monster_W1_Svarog_00_Config",
-        "Name": "Svarog",
-        "Desc": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks.",
+        "Name": "スヴァローグ",
+        "Desc": "旧世界の古い遺物、地髄開拓団の時代に残した自動コントロールユニット、知能を持たない大半のロボットと違って、スヴァローグは複雑な思考能力を持っている。<br>戦闘中、スヴァローグはマニピュレーターを呼び出して敵を制御し、重い一撃を与える。",
         "Stats": {
             "HP": 16.0,
             "ATK": 19.99998,
@@ -11025,8 +12017,8 @@ var _monster_2 = {
     "101401002": {
         "_id": 101401002,
         "Key": "Monster_W1_Svarog_00_Config",
-        "Name": "Svarog",
-        "Desc": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks.",
+        "Name": "スヴァローグ",
+        "Desc": "旧世界の古い遺物、地髄開拓団の時代に残した自動コントロールユニット、知能を持たない大半のロボットと違って、スヴァローグは複雑な思考能力を持っている。<br>戦闘中、スヴァローグはマニピュレーターを呼び出して敵を制御し、重い一撃を与える。",
         "Stats": {
             "HP": 87.5,
             "ATK": 18.0,
@@ -11095,8 +12087,8 @@ var _monster_2 = {
     "101401003": {
         "_id": 101401003,
         "Key": "Monster_W1_Svarog_00_Config",
-        "Name": "Svarog",
-        "Desc": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks.",
+        "Name": "スヴァローグ",
+        "Desc": "旧世界の古い遺物、地髄開拓団の時代に残した自動コントロールユニット、知能を持たない大半のロボットと違って、スヴァローグは複雑な思考能力を持っている。<br>戦闘中、スヴァローグはマニピュレーターを呼び出して敵を制御し、重い一撃を与える。",
         "Stats": {
             "HP": 16.0,
             "ATK": 18.0,
@@ -11162,8 +12154,8 @@ var _monster_2 = {
     "101401004": {
         "_id": 101401004,
         "Key": "Monster_W1_Svarog_00_Config",
-        "Name": "Svarog",
-        "Desc": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks.",
+        "Name": "スヴァローグ",
+        "Desc": "旧世界の古い遺物、地髄開拓団の時代に残した自動コントロールユニット、知能を持たない大半のロボットと違って、スヴァローグは複雑な思考能力を持っている。<br>戦闘中、スヴァローグはマニピュレーターを呼び出して敵を制御し、重い一撃を与える。",
         "Stats": {
             "HP": 16.0,
             "ATK": 19.99998,
@@ -11229,8 +12221,8 @@ var _monster_2 = {
     "101401005": {
         "_id": 101401005,
         "Key": "Monster_W1_Svarog_00_Config",
-        "Name": "Svarog",
-        "Desc": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks.",
+        "Name": "スヴァローグ",
+        "Desc": "旧世界の古い遺物、地髄開拓団の時代に残した自動コントロールユニット、知能を持たない大半のロボットと違って、スヴァローグは複雑な思考能力を持っている。<br>戦闘中、スヴァローグはマニピュレーターを呼び出して敵を制御し、重い一撃を与える。",
         "Stats": {
             "HP": 62.5,
             "ATK": 25.71426,
@@ -11299,8 +12291,8 @@ var _monster_2 = {
     "101401006": {
         "_id": 101401006,
         "Key": "Monster_W1_Svarog_00_Config",
-        "Name": "Monitoring Automaton Prototype 2",
-        "Desc": "An ancient relic from the Old World, an automated control unit left behind by the Geomarrow Development Group. Unlike the vast majority of machines that lack intellect and can only act on command, \"monitoring automaton\" is capable of much more complex thinking.<br>In battle, \"monitoring automaton\" can summon various machines as well as a robot arm unit to grab and control enemies while unleashing devastating strikes.",
+        "Name": "「監督ロボット」プロトモデル2号",
+        "Desc": "旧世界の古い遺物、地髄開拓団の時代に残した自動コントロールユニット、知能を持たない大半のロボットと違って、「監督ロボット」は複雑な思考能力を持っている。<br>戦闘中、「監督ロボット」はいろんな機械ユニットとマニピュレーターを呼び出して敵を制御し、重い一撃を与える。",
         "Stats": {
             "HP": 22.0,
             "ATK": 18.0,
@@ -11369,8 +12361,8 @@ var _monster_2 = {
     "101401007": {
         "_id": 101401007,
         "Key": "Monster_W1_Svarog_00_Config",
-        "Name": "Svarog",
-        "Desc": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks.",
+        "Name": "スヴァローグ",
+        "Desc": "旧世界の古い遺物、地髄開拓団の時代に残した自動コントロールユニット、知能を持たない大半のロボットと違って、スヴァローグは複雑な思考能力を持っている。<br>戦闘中、スヴァローグはマニピュレーターを呼び出して敵を制御し、重い一撃を与える。",
         "Stats": {
             "HP": 12.0,
             "ATK": 12.00006,
@@ -11436,8 +12428,8 @@ var _monster_2 = {
     "101401008": {
         "_id": 101401008,
         "Key": "Monster_W1_Svarog_00_Config",
-        "Name": "Svarog",
-        "Desc": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks.",
+        "Name": "スヴァローグ",
+        "Desc": "旧世界の古い遺物、地髄開拓団の時代に残した自動コントロールユニット、知能を持たない大半のロボットと違って、スヴァローグは複雑な思考能力を持っている。<br>戦闘中、スヴァローグはマニピュレーターを呼び出して敵を制御し、重い一撃を与える。",
         "Stats": {
             "HP": 27.5,
             "ATK": 18.0,
@@ -11503,8 +12495,8 @@ var _monster_2 = {
     "101401009": {
         "_id": 101401009,
         "Key": "Monster_W1_Svarog_00_Config",
-        "Name": "Svarog",
-        "Desc": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks.",
+        "Name": "スヴァローグ",
+        "Desc": "旧世界の古い遺物、地髄開拓団の時代に残した自動コントロールユニット、知能を持たない大半のロボットと違って、スヴァローグは複雑な思考能力を持っている。<br>戦闘中、スヴァローグはマニピュレーターを呼び出して敵を制御し、重い一撃を与える。",
         "Stats": {
             "HP": 23.0,
             "ATK": 18.0,
@@ -11567,11 +12559,432 @@ var _monster_2 = {
         ],
         "Csxylic": "SCJarilo-VI/1014010"
     },
+    "101401010": {
+        "_id": 101401010,
+        "Key": "Monster_W1_Svarog_00_Config",
+        "Name": "スヴァローグ",
+        "Desc": "旧世界の古い遺物、地髄開拓団の時代に残した自動コントロールユニット、知能を持たない大半のロボットと違って、スヴァローグは複雑な思考能力を持っている。<br>戦闘中、スヴァローグはマニピュレーターを呼び出して敵を制御し、重い一撃を与える。",
+        "Stats": {
+            "HP": 80.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "SPD": 120.0,
+            "Stance": 6.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101401001,
+                    101401002,
+                    101401004,
+                    101401007
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    101401003,
+                    101401005,
+                    101401006,
+                    101401008,
+                    101401009,
+                    101401010,
+                    101401011
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
+        "Status": [
+            30010006,
+            210040204,
+            210120401
+        ],
+        "AllSkills": [
+            101401001,
+            101401002,
+            101401004,
+            101401007
+        ],
+        "Csxylic": "SCJarilo-VI/1014010"
+    },
+    "101401011": {
+        "_id": 101401011,
+        "Key": "Monster_W1_Svarog_00_Config",
+        "Name": "スヴァローグ",
+        "Desc": "旧世界の古い遺物、地髄開拓団の時代に残した自動コントロールユニット、知能を持たない大半のロボットと違って、スヴァローグは複雑な思考能力を持っている。<br>戦闘中、スヴァローグはマニピュレーターを呼び出して敵を制御し、重い一撃を与える。",
+        "Stats": {
+            "HP": 17.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 12.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101401001,
+                    101401002,
+                    101401004,
+                    101401007
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    101401003,
+                    101401005,
+                    101401006,
+                    101401008,
+                    101401009,
+                    101401010,
+                    101401011
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
+        "Status": [
+            30010006,
+            210040204,
+            210120401
+        ],
+        "AllSkills": [
+            101401001,
+            101401002,
+            101401004,
+            101401007
+        ],
+        "Csxylic": "SCJarilo-VI/1014010"
+    },
+    "101401201": {
+        "_id": 101401201,
+        "Key": "Monster_W1_Svarog_00_Config_RL",
+        "Name": "スヴァローグ（スペック）",
+        "Desc": "コードが影響を受けた後の正常な投影。旧世界の古い遺物、地髄開拓団の時代に残した自動コントロールユニットを参考にしている。知能を持たない大半のロボットと違って、スヴァローグは複雑な思考能力を持っている。<br>戦闘中、スヴァローグ（スペック）はいろんな機械ユニットとマニピュレーターを呼び出して敵を制御し、重い一撃を与える。",
+        "Stats": {
+            "HP": 7.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Ice"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.75,
+            "Confine": 0.75,
+            "Entangle": 0.75
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101401201,
+                    101401202,
+                    101401212,
+                    101401213
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    101401201,
+                    101401202,
+                    101401204,
+                    101401212,
+                    101401214
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    101401201,
+                    101401202,
+                    101401204,
+                    101401207,
+                    101401212
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    101401203,
+                    101401205,
+                    101401206,
+                    101401208,
+                    101401209,
+                    101401210,
+                    101401211
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
+        "Status": [
+            30010006,
+            210040113,
+            210120411
+        ],
+        "AllSkills": [
+            101401201,
+            101401202,
+            101401212,
+            101401213,
+            101401204,
+            101401214,
+            101401207
+        ],
+        "IsComplete": 1
+    },
+    "101401301": {
+        "_id": 101401301,
+        "Key": "Monster_W1_Svarog_00_Config_Fever",
+        "Name": "スヴァローグ",
+        "Desc": "コードが影響を受けた後の正常な投影。旧世界の古い遺物、地髄開拓団の時代に残した自動コントロールユニットを参考にしている。知能を持たない大半のロボットと違って、スヴァローグは複雑な思考能力を持っている。<br>戦闘中、スヴァローグ（スペック）はいろんな機械ユニットとマニピュレーターを呼び出して敵を制御し、重い一撃を与える。",
+        "Stats": {
+            "HP": 25.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "SPD": 76.0,
+            "Stance": 38.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.75,
+            "Confine": 0.75,
+            "Entangle": 0.75
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101401101,
+                    101401102,
+                    101401112,
+                    101401113
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    101401101,
+                    101401102,
+                    101401104,
+                    101401112,
+                    101401114
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    101401101,
+                    101401102,
+                    101401104,
+                    101401107
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    101401103,
+                    101401105,
+                    101401106,
+                    101401108,
+                    101401109,
+                    101401110,
+                    101401111
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
+        "Status": [
+            30010006,
+            210040113,
+            210120411
+        ],
+        "AllSkills": [
+            101401101,
+            101401102,
+            101401112,
+            101401113,
+            101401104,
+            101401114,
+            101401107
+        ]
+    },
+    "101401302": {
+        "_id": 101401302,
+        "Key": "Monster_W1_Svarog_00_Config_Fever",
+        "Name": "スヴァローグ",
+        "Desc": "コードが影響を受けた後の正常な投影。旧世界の古い遺物、地髄開拓団の時代に残した自動コントロールユニットを参考にしている。知能を持たない大半のロボットと違って、スヴァローグは複雑な思考能力を持っている。<br>戦闘中、スヴァローグ（スペック）はいろんな機械ユニットとマニピュレーターを呼び出して敵を制御し、重い一撃を与える。",
+        "Stats": {
+            "HP": 75.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "SPD": 76.0,
+            "Stance": 38.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.75,
+            "Confine": 0.75,
+            "Entangle": 0.75
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101401101,
+                    101401102,
+                    101401112,
+                    101401113
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    101401101,
+                    101401102,
+                    101401104,
+                    101401112,
+                    101401114
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    101401101,
+                    101401102,
+                    101401104,
+                    101401107
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    101401103,
+                    101401105,
+                    101401106,
+                    101401108,
+                    101401109,
+                    101401110,
+                    101401111
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
+        "Status": [
+            30010006,
+            210040113,
+            210120411
+        ],
+        "AllSkills": [
+            101401101,
+            101401102,
+            101401112,
+            101401113,
+            101401104,
+            101401114,
+            101401107
+        ]
+    },
     "102201001": {
         "_id": 102201001,
         "Key": "Monster_W1_Soldier01_02_Config",
-        "Name": "Everwinter Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle.",
+        "Name": "{RUBY_B#えいとう}永冬{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない氷でできている。<br>戦闘中、永冬の災影は氷の斧を振るい、敵の行動を緩める。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -11614,8 +13027,8 @@ var _monster_2 = {
     "102201002": {
         "_id": 102201002,
         "Key": "Monster_W1_Soldier01_02_Config",
-        "Name": "Everwinter Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle.",
+        "Name": "{RUBY_B#えいとう}永冬{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない氷でできている。<br>戦闘中、永冬の災影は氷の斧を振るい、敵の行動を緩める。",
         "Stats": {
             "HP": 0.9,
             "ATK": 14.99994,
@@ -11658,8 +13071,8 @@ var _monster_2 = {
     "102201003": {
         "_id": 102201003,
         "Key": "Monster_W1_Soldier01_02_Config",
-        "Name": "Everwinter Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle.",
+        "Name": "{RUBY_B#えいとう}永冬{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない氷でできている。<br>戦闘中、永冬の災影は氷の斧を振るい、敵の行動を緩める。",
         "Stats": {
             "HP": 2.9,
             "ATK": 14.99994,
@@ -11705,8 +13118,8 @@ var _monster_2 = {
     "102201004": {
         "_id": 102201004,
         "Key": "Monster_W1_Soldier01_02_Config",
-        "Name": "Everwinter Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle.",
+        "Name": "{RUBY_B#えいとう}永冬{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない氷でできている。<br>戦闘中、永冬の災影は氷の斧を振るい、敵の行動を緩める。",
         "Stats": {
             "HP": 2.1,
             "ATK": 30.00006,
@@ -11749,8 +13162,8 @@ var _monster_2 = {
     "102201005": {
         "_id": 102201005,
         "Key": "Monster_W1_Soldier01_02_Config",
-        "Name": "Everwinter Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle.",
+        "Name": "{RUBY_B#えいとう}永冬{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない氷でできている。<br>戦闘中、永冬の災影は氷の斧を振るい、敵の行動を緩める。",
         "Stats": {
             "HP": 1.95,
             "ATK": 18.0,
@@ -11793,8 +13206,8 @@ var _monster_2 = {
     "102201006": {
         "_id": 102201006,
         "Key": "Monster_W1_Soldier01_02_Config",
-        "Name": "Everwinter Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle.",
+        "Name": "{RUBY_B#えいとう}永冬{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない氷でできている。<br>戦闘中、永冬の災影は氷の斧を振るい、敵の行動を緩める。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -11840,8 +13253,8 @@ var _monster_2 = {
     "102201007": {
         "_id": 102201007,
         "Key": "Monster_W1_Soldier01_02_Config",
-        "Name": "Everwinter Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle.",
+        "Name": "{RUBY_B#えいとう}永冬{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない氷でできている。<br>戦闘中、永冬の災影は氷の斧を振るい、敵の行動を緩める。",
         "Stats": {
             "HP": 2.25,
             "ATK": 18.0,
@@ -11884,8 +13297,8 @@ var _monster_2 = {
     "102201008": {
         "_id": 102201008,
         "Key": "Monster_W1_Soldier01_02_Config",
-        "Name": "Everwinter Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle.",
+        "Name": "{RUBY_B#えいとう}永冬{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない氷でできている。<br>戦闘中、永冬の災影は氷の斧を振るい、敵の行動を緩める。",
         "Stats": {
             "HP": 1.5,
             "ATK": 14.4,
@@ -11928,8 +13341,8 @@ var _monster_2 = {
     "102201009": {
         "_id": 102201009,
         "Key": "Monster_W1_Soldier01_02_Config",
-        "Name": "Everwinter Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle.",
+        "Name": "{RUBY_B#えいとう}永冬{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない氷でできている。<br>戦闘中、永冬の災影は氷の斧を振るい、敵の行動を緩める。",
         "Stats": {
             "HP": 2.4,
             "ATK": 18.0,
@@ -11972,8 +13385,8 @@ var _monster_2 = {
     "102201010": {
         "_id": 102201010,
         "Key": "Monster_W1_Soldier01_02_Config",
-        "Name": "Everwinter Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle.",
+        "Name": "{RUBY_B#えいとう}永冬{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない氷でできている。<br>戦闘中、永冬の災影は氷の斧を振るい、敵の行動を緩める。",
         "Stats": {
             "HP": 1.775,
             "ATK": 4.5,
@@ -12016,8 +13429,8 @@ var _monster_2 = {
     "102201011": {
         "_id": 102201011,
         "Key": "Monster_W1_Soldier01_02_Config",
-        "Name": "Everwinter Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle.",
+        "Name": "{RUBY_B#えいとう}永冬{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない氷でできている。<br>戦闘中、永冬の災影は氷の斧を振るい、敵の行動を緩める。",
         "Stats": {
             "HP": 1.75,
             "ATK": 36.0,
@@ -12060,8 +13473,8 @@ var _monster_2 = {
     "102201012": {
         "_id": 102201012,
         "Key": "Monster_W1_Soldier01_02_Config",
-        "Name": "Everwinter Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle.",
+        "Name": "{RUBY_B#えいとう}永冬{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない氷でできている。<br>戦闘中、永冬の災影は氷の斧を振るい、敵の行動を緩める。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -12104,8 +13517,8 @@ var _monster_2 = {
     "102201013": {
         "_id": 102201013,
         "Key": "Monster_W1_Soldier01_02_Config",
-        "Name": "Everwinter Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle.",
+        "Name": "{RUBY_B#えいとう}永冬{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない氷でできている。<br>戦闘中、永冬の災影は氷の斧を振るい、敵の行動を緩める。",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -12148,8 +13561,8 @@ var _monster_2 = {
     "102202001": {
         "_id": 102202001,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -12195,8 +13608,8 @@ var _monster_2 = {
     "102202002": {
         "_id": 102202002,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 1.5,
             "ATK": 12.00006,
@@ -12242,8 +13655,8 @@ var _monster_2 = {
     "102202003": {
         "_id": 102202003,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 2.9,
             "ATK": 14.99994,
@@ -12292,8 +13705,8 @@ var _monster_2 = {
     "102202004": {
         "_id": 102202004,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 2.25,
             "ATK": 30.00006,
@@ -12339,8 +13752,8 @@ var _monster_2 = {
     "102202005": {
         "_id": 102202005,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 2.1,
             "ATK": 30.00006,
@@ -12386,8 +13799,8 @@ var _monster_2 = {
     "102202006": {
         "_id": 102202006,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -12433,8 +13846,8 @@ var _monster_2 = {
     "102202007": {
         "_id": 102202007,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -12483,8 +13896,8 @@ var _monster_2 = {
     "102202008": {
         "_id": 102202008,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 2.5,
             "ATK": 18.0,
@@ -12530,8 +13943,8 @@ var _monster_2 = {
     "102202009": {
         "_id": 102202009,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -12577,8 +13990,8 @@ var _monster_2 = {
     "102202010": {
         "_id": 102202010,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 0.75,
             "ATK": 13.84614,
@@ -12624,8 +14037,8 @@ var _monster_2 = {
     "102202011": {
         "_id": 102202011,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 0.75,
             "ATK": 13.84614,
@@ -12671,8 +14084,8 @@ var _monster_2 = {
     "102202012": {
         "_id": 102202012,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 3.0,
             "ATK": 18.0,
@@ -12718,8 +14131,8 @@ var _monster_2 = {
     "102202013": {
         "_id": 102202013,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -12765,8 +14178,8 @@ var _monster_2 = {
     "102202014": {
         "_id": 102202014,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -12812,8 +14225,8 @@ var _monster_2 = {
     "102202015": {
         "_id": 102202015,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 0.56,
             "ATK": 12.00006,
@@ -12859,8 +14272,8 @@ var _monster_2 = {
     "102202016": {
         "_id": 102202016,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 1.775,
             "ATK": 4.5,
@@ -12906,8 +14319,8 @@ var _monster_2 = {
     "102202017": {
         "_id": 102202017,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 0.56,
             "ATK": 12.00006,
@@ -12953,8 +14366,8 @@ var _monster_2 = {
     "102202018": {
         "_id": 102202018,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 1.075,
             "ATK": 36.0,
@@ -13000,8 +14413,8 @@ var _monster_2 = {
     "102202019": {
         "_id": 102202019,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 1.5,
             "ATK": 12.00006,
@@ -13047,8 +14460,8 @@ var _monster_2 = {
     "102202020": {
         "_id": 102202020,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 1.5,
             "ATK": 12.00006,
@@ -13094,8 +14507,8 @@ var _monster_2 = {
     "102202021": {
         "_id": 102202021,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -13141,8 +14554,8 @@ var _monster_2 = {
     "102202022": {
         "_id": 102202022,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -13188,8 +14601,8 @@ var _monster_2 = {
     "102202023": {
         "_id": 102202023,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 0.75,
             "ATK": 7.2,
@@ -13235,8 +14648,8 @@ var _monster_2 = {
     "102202024": {
         "_id": 102202024,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -13282,8 +14695,8 @@ var _monster_2 = {
     "102202025": {
         "_id": 102202025,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "{RUBY_B#ふんか}焚火{RUBY_E#}の{RUBY_B#さいえい}災影{RUBY_E#}",
+        "Desc": "寒波が訪れた後、裂界を彷徨う影。それは歪んだ形でシルバーメインの外見を模倣し、甲冑はベロブルグの戦士と変わりないが、頭は目鼻立ちのない炎でできている。<br>戦闘中、焚火の災影は炎を斧を振る舞い敵を燃やす。",
         "Stats": {
             "HP": 0.4,
             "ATK": 18.0,
@@ -13329,8 +14742,8 @@ var _monster_2 = {
     "102301001": {
         "_id": 102301001,
         "Key": "Monster_W1_Mecha04_01_Config",
-        "Name": "Searing Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn.",
+        "Name": "{RUBY_B#しゃくえんはいかいしゃ}灼焔徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>灼焔徘徊者の攻撃は燃焼状態の敵に対して追加ダメージを与える。",
         "Stats": {
             "HP": 4.04998,
             "ATK": 18.0,
@@ -13390,8 +14803,8 @@ var _monster_2 = {
     "102301002": {
         "_id": 102301002,
         "Key": "Monster_W1_Mecha04_01_Config",
-        "Name": "Searing Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn.",
+        "Name": "{RUBY_B#しゃくえんはいかいしゃ}灼焔徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>灼焔徘徊者の攻撃は燃焼状態の敵に対して追加ダメージを与える。",
         "Stats": {
             "HP": 3.85,
             "ATK": 13.84614,
@@ -13451,8 +14864,8 @@ var _monster_2 = {
     "102301003": {
         "_id": 102301003,
         "Key": "Monster_W1_Mecha04_01_Config",
-        "Name": "Searing Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn.",
+        "Name": "{RUBY_B#しゃくえんはいかいしゃ}灼焔徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>灼焔徘徊者の攻撃は燃焼状態の敵に対して追加ダメージを与える。",
         "Stats": {
             "HP": 6.5,
             "ATK": 30.00006,
@@ -13508,8 +14921,8 @@ var _monster_2 = {
     "102301004": {
         "_id": 102301004,
         "Key": "Monster_W1_Mecha04_01_Config",
-        "Name": "Searing Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn.",
+        "Name": "{RUBY_B#しゃくえんはいかいしゃ}灼焔徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>灼焔徘徊者の攻撃は燃焼状態の敵に対して追加ダメージを与える。",
         "Stats": {
             "HP": 24.5,
             "ATK": 18.0,
@@ -13565,8 +14978,8 @@ var _monster_2 = {
     "102301005": {
         "_id": 102301005,
         "Key": "Monster_W1_Mecha04_01_Config",
-        "Name": "Searing Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn.",
+        "Name": "{RUBY_B#しゃくえんはいかいしゃ}灼焔徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>灼焔徘徊者の攻撃は燃焼状態の敵に対して追加ダメージを与える。",
         "Stats": {
             "HP": 2.65001,
             "ATK": 18.0,
@@ -13626,8 +15039,8 @@ var _monster_2 = {
     "102301006": {
         "_id": 102301006,
         "Key": "Monster_W1_Mecha04_01_Config",
-        "Name": "Searing Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn.",
+        "Name": "{RUBY_B#しゃくえんはいかいしゃ}灼焔徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>灼焔徘徊者の攻撃は燃焼状態の敵に対して追加ダメージを与える。",
         "Stats": {
             "HP": 2.65001,
             "ATK": 18.0,
@@ -13687,8 +15100,8 @@ var _monster_2 = {
     "102301007": {
         "_id": 102301007,
         "Key": "Monster_W1_Mecha04_01_Config",
-        "Name": "Searing Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn.",
+        "Name": "{RUBY_B#しゃくえんはいかいしゃ}灼焔徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>灼焔徘徊者の攻撃は燃焼状態の敵に対して追加ダメージを与える。",
         "Stats": {
             "HP": 11.0,
             "ATK": 12.00006,
@@ -13748,8 +15161,8 @@ var _monster_2 = {
     "102301008": {
         "_id": 102301008,
         "Key": "Monster_W1_Mecha04_01_Config",
-        "Name": "Searing Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn.",
+        "Name": "{RUBY_B#しゃくえんはいかいしゃ}灼焔徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>灼焔徘徊者の攻撃は燃焼状態の敵に対して追加ダメージを与える。",
         "Stats": {
             "HP": 8.0,
             "ATK": 13.84614,
@@ -13805,8 +15218,8 @@ var _monster_2 = {
     "102301009": {
         "_id": 102301009,
         "Key": "Monster_W1_Mecha04_01_Config",
-        "Name": "Searing Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn.",
+        "Name": "{RUBY_B#しゃくえんはいかいしゃ}灼焔徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>灼焔徘徊者の攻撃は燃焼状態の敵に対して追加ダメージを与える。",
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -13862,8 +15275,8 @@ var _monster_2 = {
     "102301010": {
         "_id": 102301010,
         "Key": "Monster_W1_Mecha04_01_Config",
-        "Name": "Searing Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn.",
+        "Name": "{RUBY_B#しゃくえんはいかいしゃ}灼焔徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>灼焔徘徊者の攻撃は燃焼状態の敵に対して追加ダメージを与える。",
         "Stats": {
             "HP": 12.5,
             "ATK": 18.0,
@@ -13922,8 +15335,8 @@ var _monster_2 = {
     "102301011": {
         "_id": 102301011,
         "Key": "Monster_W1_Mecha04_01_Config",
-        "Name": "Searing Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn.",
+        "Name": "{RUBY_B#しゃくえんはいかいしゃ}灼焔徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>灼焔徘徊者の攻撃は燃焼状態の敵に対して追加ダメージを与える。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -13979,8 +15392,8 @@ var _monster_2 = {
     "102301012": {
         "_id": 102301012,
         "Key": "Monster_W1_Mecha04_01_Config",
-        "Name": "Searing Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn.",
+        "Name": "{RUBY_B#しゃくえんはいかいしゃ}灼焔徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>灼焔徘徊者の攻撃は燃焼状態の敵に対して追加ダメージを与える。",
         "Stats": {
             "HP": 11.0,
             "ATK": 12.00006,
@@ -14036,8 +15449,8 @@ var _monster_2 = {
     "102301013": {
         "_id": 102301013,
         "Key": "Monster_W1_Mecha04_01_Config",
-        "Name": "Searing Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn.",
+        "Name": "{RUBY_B#しゃくえんはいかいしゃ}灼焔徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>灼焔徘徊者の攻撃は燃焼状態の敵に対して追加ダメージを与える。",
         "Stats": {
             "HP": 11.0,
             "ATK": 12.00006,
@@ -14096,8 +15509,8 @@ var _monster_2 = {
     "102301014": {
         "_id": 102301014,
         "Key": "Monster_W1_Mecha04_01_Config",
-        "Name": "Searing Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn.",
+        "Name": "{RUBY_B#しゃくえんはいかいしゃ}灼焔徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>灼焔徘徊者の攻撃は燃焼状態の敵に対して追加ダメージを与える。",
         "Stats": {
             "HP": 6.0,
             "ATK": 12.00006,
@@ -14156,8 +15569,8 @@ var _monster_2 = {
     "102301015": {
         "_id": 102301015,
         "Key": "Monster_W1_Mecha04_01_Config",
-        "Name": "Searing Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn.",
+        "Name": "{RUBY_B#しゃくえんはいかいしゃ}灼焔徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>灼焔徘徊者の攻撃は燃焼状態の敵に対して追加ダメージを与える。",
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -14217,8 +15630,8 @@ var _monster_2 = {
     "102301016": {
         "_id": 102301016,
         "Key": "Monster_W1_Mecha04_01_Config",
-        "Name": "Searing Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn.",
+        "Name": "{RUBY_B#しゃくえんはいかいしゃ}灼焔徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>灼焔徘徊者の攻撃は燃焼状態の敵に対して追加ダメージを与える。",
         "Stats": {
             "HP": 6.5,
             "ATK": 18.0,
@@ -14277,8 +15690,8 @@ var _monster_2 = {
     "102301017": {
         "_id": 102301017,
         "Key": "Monster_W1_Mecha04_01_Config",
-        "Name": "Searing Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn.",
+        "Name": "{RUBY_B#しゃくえんはいかいしゃ}灼焔徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>灼焔徘徊者の攻撃は燃焼状態の敵に対して追加ダメージを与える。",
         "Stats": {
             "HP": 5.5,
             "ATK": 18.0,
@@ -14337,8 +15750,8 @@ var _monster_2 = {
     "102302001": {
         "_id": 102302001,
         "Key": "Monster_W1_Mecha03_01_Config",
-        "Name": "Frigid Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Frigid Prowlers will attract Everwinter Shadewalkers and reduce its enemy's SPD and Ice RES.",
+        "Name": "{RUBY_B#れいかんはいかいしゃ}冷寒徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>冷寒徘徊者は永冬の災影を引き寄せる、同時に味方の速度と氷属性耐性をダウンさせる。",
         "Stats": {
             "HP": 6.5,
             "ATK": 30.00006,
@@ -14402,8 +15815,8 @@ var _monster_2 = {
     "102302002": {
         "_id": 102302002,
         "Key": "Monster_W1_Mecha03_01_Config",
-        "Name": "Frigid Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Frigid Prowlers will attract Everwinter Shadewalkers and reduce its enemy's SPD and Ice RES.",
+        "Name": "{RUBY_B#れいかんはいかいしゃ}冷寒徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>冷寒徘徊者は永冬の災影を引き寄せる、同時に味方の速度と氷属性耐性をダウンさせる。",
         "Stats": {
             "HP": 26.5,
             "ATK": 18.0,
@@ -14467,8 +15880,8 @@ var _monster_2 = {
     "102302003": {
         "_id": 102302003,
         "Key": "Monster_W1_Mecha03_01_Config",
-        "Name": "Frigid Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Frigid Prowlers will attract Everwinter Shadewalkers and reduce its enemy's SPD and Ice RES.",
+        "Name": "{RUBY_B#れいかんはいかいしゃ}冷寒徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>冷寒徘徊者は永冬の災影を引き寄せる、同時に味方の速度と氷属性耐性をダウンさせる。",
         "Stats": {
             "HP": 4.0,
             "ATK": 12.85722,
@@ -14535,8 +15948,8 @@ var _monster_2 = {
     "102302004": {
         "_id": 102302004,
         "Key": "Monster_W1_Mecha03_01_Config",
-        "Name": "Frigid Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Frigid Prowlers will attract Everwinter Shadewalkers and reduce its enemy's SPD and Ice RES.",
+        "Name": "{RUBY_B#れいかんはいかいしゃ}冷寒徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>冷寒徘徊者は永冬の災影を引き寄せる、同時に味方の速度と氷属性耐性をダウンさせる。",
         "Stats": {
             "HP": 12.0,
             "ATK": 9.0,
@@ -14604,8 +16017,8 @@ var _monster_2 = {
     "102302005": {
         "_id": 102302005,
         "Key": "Monster_W1_Mecha03_01_Config",
-        "Name": "Frigid Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Frigid Prowlers will attract Everwinter Shadewalkers and reduce its enemy's SPD and Ice RES.",
+        "Name": "{RUBY_B#れいかんはいかいしゃ}冷寒徘徊者{RUBY_E#}",
+        "Desc": "裂界を彷徨う機械ユニット、だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>冷寒徘徊者は永冬の災影を引き寄せる、同時に味方の速度と氷属性耐性をダウンさせる。",
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -14669,8 +16082,8 @@ var _monster_2 = {
     "102302101": {
         "_id": 102302101,
         "Key": "Monster_W1_Mecha03_01_Config_A",
-        "Name": "Frigid Prowler (Bug)",
-        "Desc": "A false projection produced by compromised codes. The referenced entity is a machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Frigid Prowler (Bug) will attract Everwinter Shadewalker and reduce its opponents' SPD and Ice RES.",
+        "Name": "冷寒徘徊者（バグ）",
+        "Desc": "コードが影響を受けた後、バグってしまった投影。裂界を彷徨う機械ユニットを参考にしている。だが紛れもなくこれは人間の造物ではない、裂界の歪んだ力が模倣して作った化け物だ。<br>冷寒徘徊者（バグ）は永冬の災影を引き寄せる、同時に味方の速度と氷属性耐性をダウンさせる。",
         "Stats": {
             "HP": 25.0,
             "ATK": 18.0,
@@ -14739,8 +16152,8 @@ var _monster_2 = {
     "200201001": {
         "_id": 200201001,
         "Key": "Monster_W2_Knight01_00_Config",
-        "Name": "Distortion",
-        "Desc": "\"Memory\" is similar to \"photographs\". Even though it appears to record \"reality,\" it actually invades, alienates, and alters \"reality.\" Perhaps removing the \"distortion\" will make it reliable, or perhaps not.",
+        "Name": "歪み",
+        "Desc": "「記憶」と「写真」はとても似ている。それは「真実」を記録しているように見えるが、「真実」に侵入し、「真実」を変化させ、改ざんしているのだ。もしその中の「歪み」を消すことができれば信頼できるものになるかもしれない、ならないかもしれない。",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -14791,8 +16204,8 @@ var _monster_2 = {
     "200201002": {
         "_id": 200201002,
         "Key": "Monster_W2_Knight01_00_Config",
-        "Name": "Cloud Knights Patroller",
-        "Desc": "Member of the ground patrol division of the Xianzhou Luofu Cloud Knights. Wearing a light set of silver armor and with a Devastator Glaive in hand, they are in charge of maintaining order in every delve.",
+        "Name": "{RUBY_B#うんきぐん}雲騎軍{RUBY_E#}・{RUBY_B#みまわりへいし}見廻兵士{RUBY_E#}",
+        "Desc": "羅浮仙舟、雲騎軍の地上見廻部隊の兵士、陣刀を持ち、軽銀でできた甲冑を身にまとい、各洞天の秩序を維持する。",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -14846,8 +16259,8 @@ var _monster_2 = {
     "200201003": {
         "_id": 200201003,
         "Key": "Monster_W2_Knight01_00_Config",
-        "Name": "Cloud Knights Patroller",
-        "Desc": "Member of the ground patrol division of the Xianzhou Luofu Cloud Knights. Wearing a light set of silver armor and with a Devastator Glaive in hand, they are in charge of maintaining order in every delve.",
+        "Name": "{RUBY_B#うんきぐん}雲騎軍{RUBY_E#}・{RUBY_B#みまわりへいし}見廻兵士{RUBY_E#}",
+        "Desc": "羅浮仙舟、雲騎軍の地上見廻部隊の兵士、陣刀を持ち、軽銀でできた甲冑を身にまとい、各洞天の秩序を維持する。",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -14898,8 +16311,8 @@ var _monster_2 = {
     "200201004": {
         "_id": 200201004,
         "Key": "Monster_W2_Knight01_00_Config",
-        "Name": "Cloud Knights Patroller",
-        "Desc": "Member of the ground patrol division of the Xianzhou Luofu Cloud Knights. Wearing a light set of silver armor and with a Devastator Glaive in hand, they are in charge of maintaining order in every delve.",
+        "Name": "{RUBY_B#うんきぐん}雲騎軍{RUBY_E#}・{RUBY_B#みまわりへいし}見廻兵士{RUBY_E#}",
+        "Desc": "羅浮仙舟、雲騎軍の地上見廻部隊の兵士、陣刀を持ち、軽銀でできた甲冑を身にまとい、各洞天の秩序を維持する。",
         "Stats": {
             "HP": 2.5,
             "ATK": 18.0,
@@ -14953,8 +16366,8 @@ var _monster_2 = {
     "200201005": {
         "_id": 200201005,
         "Key": "Monster_W2_Knight01_00_Config",
-        "Name": "Delirious Cloud Knight",
-        "Desc": "Member of the ground patrol division of the Xianzhou Luofu Cloud Knights. Wearing a light set of silver armor and with a Devastator Glaive in hand, they are in charge of maintaining order in every delve.",
+        "Name": "意識が混乱している雲騎軍",
+        "Desc": "羅浮仙舟、雲騎軍の地上見廻部隊の兵士、陣刀を持ち、軽銀でできた甲冑を身にまとい、各洞天の秩序を維持する。",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -15005,8 +16418,8 @@ var _monster_2 = {
     "200201006": {
         "_id": 200201006,
         "Key": "Monster_W2_Knight01_00_Config",
-        "Name": "Cloud Knights Patroller",
-        "Desc": "Member of the ground patrol division of the Xianzhou Luofu Cloud Knights. Wearing a light set of silver armor and with a Devastator Glaive in hand, they are in charge of maintaining order in every delve.",
+        "Name": "{RUBY_B#うんきぐん}雲騎軍{RUBY_E#}・{RUBY_B#みまわりへいし}見廻兵士{RUBY_E#}",
+        "Desc": "羅浮仙舟、雲騎軍の地上見廻部隊の兵士、陣刀を持ち、軽銀でできた甲冑を身にまとい、各洞天の秩序を維持する。",
         "Stats": {
             "HP": 6.4,
             "ATK": 18.0,
@@ -15060,8 +16473,8 @@ var _monster_2 = {
     "200202001": {
         "_id": 200202001,
         "Key": "Monster_W2_Yanqing_01_Config",
-        "Name": "Flying Sword",
-        "Desc": "Qi-controlled hovering attack unit, also named \"Flying Sword.\" Closely connected to the wielder's psyche and can be used as an extension of its wielder's will.",
+        "Name": "飛剣",
+        "Desc": "真気で操る浮遊攻撃ユニット、「飛剣」とも呼ばれる武器。御剣の者と心が繋がっていて、己が腕の如く操ることができる。",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -15104,8 +16517,8 @@ var _monster_2 = {
     "200202002": {
         "_id": 200202002,
         "Key": "Monster_W2_Yanqing_01_Config",
-        "Name": "Flying Sword",
-        "Desc": "Qi-controlled hovering attack unit, also named \"Flying Sword.\" Closely connected to the wielder's psyche and can be used as an extension of its wielder's will.",
+        "Name": "飛剣",
+        "Desc": "真気で操る浮遊攻撃ユニット、「飛剣」とも呼ばれる武器。御剣の者と心が繋がっていて、己が腕の如く操ることができる。",
         "Stats": {
             "HP": 3.0,
             "ATK": 19.99998,
@@ -15148,8 +16561,8 @@ var _monster_2 = {
     "200202003": {
         "_id": 200202003,
         "Key": "Monster_W2_Yanqing_01_Config",
-        "Name": "Flying Sword (Illusion)",
-        "Desc": "Qi-controlled hovering attack unit, also named \"Flying Sword.\" Closely connected to the wielder's psyche and can be used as an extension of its wielder's will. This entity is a phantom borne from your memories.",
+        "Name": "飛剣（幻像）",
+        "Desc": "真気で操る浮遊攻撃ユニット、「飛剣」とも呼ばれる武器。御剣の者と心が繋がっていて、己が腕の如く操ることができる。ここに現れたのはあなたの記憶をもとにシミュレートされた幻である。",
         "Stats": {
             "HP": 30.0,
             "ATK": 19.99998,
@@ -15196,8 +16609,8 @@ var _monster_2 = {
     "200202101": {
         "_id": 200202101,
         "Key": "Monster_W2_Yanqing_02_Config",
-        "Name": "Flying Sword",
-        "Desc": "Qi-controlled hovering attack unit, also named \"Flying Sword.\" Closely connected to the wielder's psyche and can be used as an extension of its wielder's will.",
+        "Name": "飛剣",
+        "Desc": "真気で操る浮遊攻撃ユニット、「飛剣」とも呼ばれる武器。御剣の者と心が繋がっていて、己が腕の如く操ることができる。",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -15239,8 +16652,8 @@ var _monster_2 = {
     "200202102": {
         "_id": 200202102,
         "Key": "Monster_W2_Yanqing_02_Config",
-        "Name": "Flying Sword",
-        "Desc": "Qi-controlled hovering attack unit, also named \"Flying Sword.\" Closely connected to the wielder's psyche and can be used as an extension of its wielder's will.",
+        "Name": "飛剣",
+        "Desc": "真気で操る浮遊攻撃ユニット、「飛剣」とも呼ばれる武器。御剣の者と心が繋がっていて、己が腕の如く操ることができる。",
         "Stats": {
             "HP": 3.0,
             "ATK": 19.99998,
@@ -15282,8 +16695,8 @@ var _monster_2 = {
     "200202103": {
         "_id": 200202103,
         "Key": "Monster_W2_Yanqing_02_Config",
-        "Name": "Flying Sword (Illusion)",
-        "Desc": "Qi-controlled hovering attack unit, also named \"Flying Sword.\" Closely connected to the wielder's psyche and can be used as an extension of its wielder's will. This entity is a phantom borne from your memories.",
+        "Name": "飛剣（幻像）",
+        "Desc": "真気で操る浮遊攻撃ユニット、「飛剣」とも呼ばれる武器。御剣の者と心が繋がっていて、己が腕の如く操ることができる。ここに現れたのはあなたの記憶をもとにシミュレートされた幻である。",
         "Stats": {
             "HP": 30.0,
             "ATK": 19.99998,
@@ -15329,8 +16742,8 @@ var _monster_2 = {
     "200203001": {
         "_id": 200203001,
         "Key": "Monster_W2_Valkyrie01_00_Config",
-        "Name": "Wraith Warden",
-        "Desc": "A somber warrior that accompanies the Judges of the Ten-Lords Commission to execute missions.<br>Adorned with the black and white mask that symbolizes the netherworld envoy, they wield a guillotine blade, their strikes echoing the weighty and unyielding duty of the Ten-Lords Commission.",
+        "Name": "{RUBY_B#ゆうふぶべん}幽府武弁{RUBY_E#}",
+        "Desc": "十王司判官に追従して任務を執行する武衛。<br>冥界の使者を象徴する白黒仮面をつけ、鍘刀を持つ。その攻撃は十王司の使命のように重く、逆らうことを許さない。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -15374,8 +16787,8 @@ var _monster_2 = {
     "200203002": {
         "_id": 200203002,
         "Key": "Monster_W2_Valkyrie01_00_Config",
-        "Name": "Wraith Warden",
-        "Desc": "A somber warrior that accompanies the Judges of the Ten-Lords Commission to execute missions.<br>Adorned with the black and white mask that symbolizes the netherworld envoy, they wield a guillotine blade, their strikes echoing the weighty and unyielding duty of the Ten-Lords Commission.",
+        "Name": "{RUBY_B#ゆうふぶべん}幽府武弁{RUBY_E#}",
+        "Desc": "十王司判官に追従して任務を執行する武衛。<br>冥界の使者を象徴する白黒仮面をつけ、鍘刀を持つ。その攻撃は十王司の使命のように重く、逆らうことを許さない。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -15419,8 +16832,8 @@ var _monster_2 = {
     "200203003": {
         "_id": 200203003,
         "Key": "Monster_W2_Valkyrie01_00_Config",
-        "Name": "Delirious Wraith Warden",
-        "Desc": "A somber warrior that accompanies the Judges of the Ten-Lords Commission to execute missions.<br>Adorned with the black and white mask that symbolizes the netherworld envoy, they wield a guillotine blade, their strikes echoing the weighty and unyielding duty of the Ten-Lords Commission.",
+        "Name": "意識が混乱している幽府武弁",
+        "Desc": "十王司判官に追従して任務を執行する武衛。<br>冥界の使者を象徴する白黒仮面をつけ、鍘刀を持つ。その攻撃は十王司の使命のように重く、逆らうことを許さない。",
         "Stats": {
             "HP": 3.0,
             "ATK": 18.0,
@@ -15464,8 +16877,8 @@ var _monster_2 = {
     "200203004": {
         "_id": 200203004,
         "Key": "Monster_W2_Valkyrie01_00_Config",
-        "Name": "Wraith Warden",
-        "Desc": "A somber warrior that accompanies the Judges of the Ten-Lords Commission to execute missions.<br>Adorned with the black and white mask that symbolizes the netherworld envoy, they wield a guillotine blade, their strikes echoing the weighty and unyielding duty of the Ten-Lords Commission.",
+        "Name": "{RUBY_B#ゆうふぶべん}幽府武弁{RUBY_E#}",
+        "Desc": "十王司判官に追従して任務を執行する武衛。<br>冥界の使者を象徴する白黒仮面をつけ、鍘刀を持つ。その攻撃は十王司の使命のように重く、逆らうことを許さない。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -15509,8 +16922,8 @@ var _monster_2 = {
     "200203201": {
         "_id": 200203201,
         "Key": "Monster_W2_Valkyrie01_00_Config_RLSummon",
-        "Name": "Wraith Warden",
-        "Desc": "A somber warrior that accompanies the Judges of the Ten-Lords Commission to execute missions.<br>Adorned with the black and white mask that symbolizes the netherworld envoy, they wield a guillotine blade, their strikes echoing the weighty and unyielding duty of the Ten-Lords Commission.",
+        "Name": "幽府武弁",
+        "Desc": "十王司判官に追従して任務を執行する武衛。<br>冥界の使者を象徴する白黒仮面をつけ、鍘刀を持つ。その攻撃は十王司の使命のように重く、逆らうことを許さない。",
         "Stats": {
             "HP": 3.0,
             "ATK": 18.0,
@@ -15553,8 +16966,8 @@ var _monster_2 = {
     "200203202": {
         "_id": 200203202,
         "Key": "Monster_W2_Valkyrie01_00_Config_RLSummon",
-        "Name": "Wraith Warden",
-        "Desc": "A somber warrior that accompanies the Judges of the Ten-Lords Commission to execute missions.<br>Adorned with the black and white mask that symbolizes the netherworld envoy, they wield a guillotine blade, their strikes echoing the weighty and unyielding duty of the Ten-Lords Commission.",
+        "Name": "幽府武弁",
+        "Desc": "十王司判官に追従して任務を執行する武衛。<br>冥界の使者を象徴する白黒仮面をつけ、鍘刀を持つ。その攻撃は十王司の使命のように重く、逆らうことを許さない。",
         "Stats": {
             "HP": 3.0,
             "ATK": 18.0,
@@ -15597,8 +17010,8 @@ var _monster_2 = {
     "200401001": {
         "_id": 200401001,
         "Key": "Monster_W2_Kafka_00_Config",
-        "Name": "Stellaron Hunter: Kafka",
-        "Desc": "One of the Stellaron Hunters. A beautiful assassin wearing an enigmatic smile, she excels in manipulation and various weaponry. It was by her design that the Astral Express was led here, all of which was simply part of a certain plan...",
+        "Name": "「{RUBY_B#せいかく}星核{RUBY_E#}ハンター」カフカ",
+        "Desc": "「星核ハンター」の一員。掴みどころのない笑みを浮かべる美しい殺し屋で、様々な武器の扱いとマインドコントロールに長けている。星穹列車をここまで誘導したのも、ある計画を実現するためである……",
         "Stats": {
             "HP": 11.0,
             "ATK": 12.85722,
@@ -15658,8 +17071,8 @@ var _monster_2 = {
     "200401002": {
         "_id": 200401002,
         "Key": "Monster_W2_Kafka_00_Config",
-        "Name": "Stellaron Hunter: Kafka",
-        "Desc": "One of the Stellaron Hunters. A beautiful assassin wearing an enigmatic smile, she excels in manipulation and various weaponry. It was by her design that the Astral Express was led here, all of which was simply part of a certain plan...",
+        "Name": "「{RUBY_B#せいかく}星核{RUBY_E#}ハンター」カフカ",
+        "Desc": "「星核ハンター」の一員。掴みどころのない笑みを浮かべる美しい殺し屋で、様々な武器の扱いとマインドコントロールに長けている。星穹列車をここまで誘導したのも、ある計画を実現するためである……",
         "Stats": {
             "HP": 14.0,
             "ATK": 18.0,
@@ -15716,8 +17129,8 @@ var _monster_2 = {
     "200401003": {
         "_id": 200401003,
         "Key": "Monster_W2_Kafka_00_Config",
-        "Name": "Stellaron Hunter: Kafka",
-        "Desc": "One of the Stellaron Hunters. A beautiful assassin wearing an enigmatic smile, she excels in manipulation and various weaponry. It was by her design that the Astral Express was led here, all of which was simply part of a certain plan...",
+        "Name": "「{RUBY_B#せいかく}星核{RUBY_E#}ハンター」カフカ",
+        "Desc": "「星核ハンター」の一員。掴みどころのない笑みを浮かべる美しい殺し屋で、様々な武器の扱いとマインドコントロールに長けている。星穹列車をここまで誘導したのも、ある計画を実現するためである……",
         "Stats": {
             "HP": 22.5,
             "ATK": 18.0,
@@ -15774,8 +17187,8 @@ var _monster_2 = {
     "200401004": {
         "_id": 200401004,
         "Key": "Monster_W2_Kafka_00_Config",
-        "Name": "Stellaron Hunter: Kafka",
-        "Desc": "One of the Stellaron Hunters. A beautiful assassin wearing an enigmatic smile, she excels in manipulation and various weaponry. It was by her design that the Astral Express was led here, all of which was simply part of a certain plan...",
+        "Name": "「{RUBY_B#せいかく}星核{RUBY_E#}ハンター」カフカ",
+        "Desc": "「星核ハンター」の一員。掴みどころのない笑みを浮かべる美しい殺し屋で、様々な武器の扱いとマインドコントロールに長けている。星穹列車をここまで誘導したのも、ある計画を実現するためである……",
         "Stats": {
             "HP": 20.0,
             "ATK": 18.0,
@@ -15832,8 +17245,8 @@ var _monster_2 = {
     "200401005": {
         "_id": 200401005,
         "Key": "Monster_W2_Kafka_00_Config",
-        "Name": "Stellaron Hunter: Kafka",
-        "Desc": "One of the Stellaron Hunters. A beautiful assassin wearing an enigmatic smile, she excels in manipulation and various weaponry. It was by her design that the Astral Express was led here, all of which was simply part of a certain plan...",
+        "Name": "「{RUBY_B#せいかく}星核{RUBY_E#}ハンター」カフカ",
+        "Desc": "「星核ハンター」の一員。掴みどころのない笑みを浮かべる美しい殺し屋で、様々な武器の扱いとマインドコントロールに長けている。星穹列車をここまで誘導したのも、ある計画を実現するためである……",
         "Stats": {
             "HP": 30.0,
             "ATK": 18.0,
@@ -15890,10 +17303,68 @@ var _monster_2 = {
         ],
         "Csxylic": "SCStellaronHunters/2004010"
     },
+    "200401006": {
+        "_id": 200401006,
+        "Key": "Monster_W2_Kafka_00_Config",
+        "Name": "「{RUBY_B#せいかく}星核{RUBY_E#}ハンター」カフカ",
+        "Desc": "「星核ハンター」の一員。掴みどころのない笑みを浮かべる美しい殺し屋で、様々な武器の扱いとマインドコントロールに長けている。星穹列車をここまで誘導したのも、ある計画を実現するためである……",
+        "Stats": {
+            "HP": 17.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 119.0,
+            "Stance": 15.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Frozen": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    200401001,
+                    200401002,
+                    200401003,
+                    200401004,
+                    200401005,
+                    200401006
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 5,
+        "Icon": "mostericon/Monster_2004010.png",
+        "Figure": "monsterfigure/Monster_2004010.png",
+        "Status": [
+            30020004,
+            30020028
+        ],
+        "AllSkills": [
+            200401001,
+            200401002,
+            200401003,
+            200401004,
+            200401005,
+            200401006
+        ],
+        "Csxylic": "SCStellaronHunters/2004010"
+    },
     "200402001": {
         "_id": 200402001,
         "Key": "Monster_W2_Yanqing_00_Config",
-        "Name": "Cloud Knight Lieutenant: Yanqing",
+        "Name": "{RUBY_B#うんきぎょうえい}雲騎驍衛{RUBY_E#}・{RUBY_B#げんきょう}彦卿{RUBY_E#}",
         "Desc": "...",
         "Stats": {
             "HP": 6.5,
@@ -15963,7 +17434,7 @@ var _monster_2 = {
     "200402002": {
         "_id": 200402002,
         "Key": "Monster_W2_Yanqing_00_Config",
-        "Name": "Cloud Knight Lieutenant: Yanqing",
+        "Name": "{RUBY_B#うんきぎょうえい}雲騎驍衛{RUBY_E#}・{RUBY_B#げんきょう}彦卿{RUBY_E#}",
         "Desc": "...",
         "Stats": {
             "HP": 22.5,
@@ -16029,8 +17500,8 @@ var _monster_2 = {
     "200402003": {
         "_id": 200402003,
         "Key": "Monster_W2_Yanqing_00_Config",
-        "Name": "Heliobus-Possessed Yanqing",
-        "Desc": "Swordmaster Yanqing possessed by the heliobus, Apyra.",
+        "Name": "歳陽に取り憑かれた彦卿",
+        "Desc": "歳陽熔炬に取り憑かれた剣士彦卿。",
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -16095,8 +17566,8 @@ var _monster_2 = {
     "200402004": {
         "_id": 200402004,
         "Key": "Monster_W2_Yanqing_00_Config",
-        "Name": "Apyra's Illusion",
-        "Desc": "An illusion modeled on Yanqing's swordplay by the heliobus, Apyra.",
+        "Name": "熔炬の幻影",
+        "Desc": "歳陽熔炬が彦卿の剣法を真似て形作った幻影。",
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -16161,7 +17632,7 @@ var _monster_2 = {
     "200402005": {
         "_id": 200402005,
         "Key": "Monster_W2_Yanqing_00_Config",
-        "Name": "Cloud Knight Lieutenant: Yanqing",
+        "Name": "{RUBY_B#うんきぎょうえい}雲騎驍衛{RUBY_E#}・{RUBY_B#げんきょう}彦卿{RUBY_E#}",
         "Desc": "...",
         "Stats": {
             "HP": 35.0,
@@ -16227,7 +17698,7 @@ var _monster_2 = {
     "200402006": {
         "_id": 200402006,
         "Key": "Monster_W2_Yanqing_00_Config",
-        "Name": "Cloud Knight Lieutenant: Yanqing",
+        "Name": "{RUBY_B#うんきぎょうえい}雲騎驍衛{RUBY_E#}・{RUBY_B#げんきょう}彦卿{RUBY_E#}",
         "Desc": "...",
         "Stats": {
             "HP": 25.0,
@@ -16290,11 +17761,81 @@ var _monster_2 = {
         ],
         "Csxylic": "SCTheXianzhouLuofu/2004020"
     },
+    "200402007": {
+        "_id": 200402007,
+        "Key": "Monster_W2_Yanqing_00_Config",
+        "Name": "{RUBY_B#うんきぎょうえい}雲騎驍衛{RUBY_E#}・{RUBY_B#げんきょう}彦卿{RUBY_E#}",
+        "Desc": "...",
+        "Stats": {
+            "HP": 75.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 16.0
+        },
+        "StatsExtra": {
+            "SPD": 240.0,
+            "Stance": 34.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Confine": 0.5,
+            "Entangle": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    200402001,
+                    200402002,
+                    200402003,
+                    200402004,
+                    200402005,
+                    200402006
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    200402007
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2004020.png",
+        "Figure": "monsterfigure/Monster_2004020.png",
+        "Status": [
+            220040201,
+            220040204
+        ],
+        "AllSkills": [
+            200402001,
+            200402002,
+            200402003,
+            200402004,
+            200402005,
+            200402006
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2004020"
+    },
     "200402201": {
         "_id": 200402201,
         "Key": "Monster_W2_Yanqing_00_Config_RL",
-        "Name": "Cloud Knight Lieutenant: Yanqing (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is General Jing Yuan's retainer, a gifted swordsman who hasn't even come of age.",
+        "Name": "雲騎驍衛・彦卿（スペック）",
+        "Desc": "コードが影響を受けた後の正常な投影。将軍景元の護衛であり、まだ総角の歳に過ぎない剣の天才。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -16378,11 +17919,181 @@ var _monster_2 = {
         ],
         "IsComplete": 1
     },
+    "200402202": {
+        "_id": 200402202,
+        "Key": "Monster_W2_Yanqing_00_Config_RL",
+        "Name": "雲騎驍衛・彦卿（スペック）",
+        "Desc": "コードが影響を受けた後の正常な投影。将軍景元の護衛であり、まだ総角の歳に過ぎない剣の天才。",
+        "Stats": {
+            "HP": 25.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "SPD": 96.0,
+            "Stance": 38.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.75,
+            "Confine": 0.75,
+            "Entangle": 0.75
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    200402201,
+                    200402203,
+                    200402204,
+                    200402205,
+                    200402206
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    200402201,
+                    200402202,
+                    200402203,
+                    200402204,
+                    200402205,
+                    200402206
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    200402201,
+                    200402202,
+                    200402203,
+                    200402204,
+                    200402205,
+                    200402206,
+                    200402207,
+                    200402208
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    200402209
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_2004020.png",
+        "Figure": "monsterfigure/Monster_2004020.png",
+        "AllSkills": [
+            200402201,
+            200402203,
+            200402204,
+            200402205,
+            200402206,
+            200402202,
+            200402207,
+            200402208
+        ],
+        "IsComplete": 1
+    },
+    "200402401": {
+        "_id": 200402401,
+        "Key": "Monster_W2_Yanqing_03_Config",
+        "Name": "",
+        "Desc": "",
+        "Stats": {
+            "HP": 75.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "SPD": 216.0,
+            "Stance": 38.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.75,
+            "Confine": 0.75,
+            "Entangle": 0.75
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    200402401,
+                    200402403,
+                    200402404,
+                    200402405,
+                    200402406
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    200402401,
+                    200402402,
+                    200402403,
+                    200402404,
+                    200402405,
+                    200402406
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    200402407,
+                    200402408,
+                    200402409
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_2004020.png",
+        "Figure": "monsterfigure/Monster_2004020.png",
+        "AllSkills": [
+            200402401,
+            200402403,
+            200402404,
+            200402405,
+            200402406,
+            200402402
+        ]
+    },
     "201101001": {
         "_id": 201101001,
         "Key": "Monster_W2_Mecha01_00_Config",
-        "Name": "Entranced Ingenium: Obedient Dracolion",
-        "Desc": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate alarm bell used for warnings, but now it has been given a short-lived \"life\" due to certain mutations.",
+        "Name": "{RUBY_B#にゅうまきこう}入魔機巧{RUBY_E#}・{RUBY_B#とうそつさんげい}統率狻猊{RUBY_E#}",
+        "Desc": "工造司の匠が片手間に作り上げた発明品。元は知能を持たないただの警報機だったが、とある異変により短い「命」を付与された。",
         "Stats": {
             "HP": 25.0,
             "ATK": 18.0,
@@ -16429,8 +18140,8 @@ var _monster_2 = {
     "201101002": {
         "_id": 201101002,
         "Key": "Monster_W2_Mecha01_00_Config",
-        "Name": "Entranced Ingenium: Obedient Dracolion",
-        "Desc": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate alarm bell used for warnings, but now it has been given a short-lived \"life\" due to certain mutations.",
+        "Name": "{RUBY_B#にゅうまきこう}入魔機巧{RUBY_E#}・{RUBY_B#とうそつさんげい}統率狻猊{RUBY_E#}",
+        "Desc": "工造司の匠が片手間に作り上げた発明品。元は知能を持たないただの警報機だったが、とある異変により短い「命」を付与された。",
         "Stats": {
             "HP": 0.9,
             "ATK": 18.0,
@@ -16476,8 +18187,8 @@ var _monster_2 = {
     "201101003": {
         "_id": 201101003,
         "Key": "Monster_W2_Mecha01_00_Config",
-        "Name": "Entranced Ingenium: Obedient Dracolion",
-        "Desc": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate alarm bell used for warnings, but now it has been given a short-lived \"life\" due to certain mutations.",
+        "Name": "{RUBY_B#にゅうまきこう}入魔機巧{RUBY_E#}・{RUBY_B#とうそつさんげい}統率狻猊{RUBY_E#}",
+        "Desc": "工造司の匠が片手間に作り上げた発明品。元は知能を持たないただの警報機だったが、とある異変により短い「命」を付与された。",
         "Stats": {
             "HP": 0.9,
             "ATK": 18.0,
@@ -16520,8 +18231,8 @@ var _monster_2 = {
     "201102001": {
         "_id": 201102001,
         "Key": "Monster_W2_Mecha01_01_Config",
-        "Name": "Entranced Ingenium: Golden Cloud Toad",
-        "Desc": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate burner used for purifying the air, but now it has been given a short-lived \"life\" due to certain mutations.",
+        "Name": "{RUBY_B#にゅうまきこう}入魔機巧{RUBY_E#}・{RUBY_B#こくうんきん}黒雲金{RUBY_E#}ガマ",
+        "Desc": "工造司の匠が片手間に作り上げた発明品。元は知能を持たない空気を浄化するただの香炉だったが、とある異変により短い「命」を付与された。",
         "Stats": {
             "HP": 25.0,
             "ATK": 18.0,
@@ -16568,8 +18279,8 @@ var _monster_2 = {
     "201102002": {
         "_id": 201102002,
         "Key": "Monster_W2_Mecha01_01_Config",
-        "Name": "Entranced Ingenium: Golden Cloud Toad",
-        "Desc": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate burner used for purifying the air, but now it has been given a short-lived \"life\" due to certain mutations.",
+        "Name": "{RUBY_B#にゅうまきこう}入魔機巧{RUBY_E#}・{RUBY_B#こくうんきん}黒雲金{RUBY_E#}ガマ",
+        "Desc": "工造司の匠が片手間に作り上げた発明品。元は知能を持たない空気を浄化するただの香炉だったが、とある異変により短い「命」を付与された。",
         "Stats": {
             "HP": 0.9,
             "ATK": 18.0,
@@ -16615,8 +18326,8 @@ var _monster_2 = {
     "201102003": {
         "_id": 201102003,
         "Key": "Monster_W2_Mecha01_01_Config",
-        "Name": "Entranced Ingenium: Golden Cloud Toad",
-        "Desc": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate burner used for purifying the air, but now it has been given a short-lived \"life\" due to certain mutations.",
+        "Name": "{RUBY_B#にゅうまきこう}入魔機巧{RUBY_E#}・{RUBY_B#こくうんきん}黒雲金{RUBY_E#}ガマ",
+        "Desc": "工造司の匠が片手間に作り上げた発明品。元は知能を持たない空気を浄化するただの香炉だったが、とある異変により短い「命」を付与された。",
         "Stats": {
             "HP": 0.9,
             "ATK": 18.0,
@@ -16659,8 +18370,8 @@ var _monster_2 = {
     "201201001": {
         "_id": 201201001,
         "Key": "Monster_W2_Mecha02_00_Config",
-        "Name": "Metrical Poet",
-        "Desc": "A Metrical Poet created by Cong.<br>Its built-in \"Inspo Jade Abacus\" collects data such as poetry forms, rhythmic patterns, and so on, to aid in the creation of metrical poems.",
+        "Name": "格律詩人",
+        "Desc": "聡が作った「格律詩人」。<br>「着想玉兆」が搭載されている。詩の格式、韻律などの素材をかき集め、「格律詩」の創作に使う。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -16705,8 +18416,8 @@ var _monster_2 = {
     "201201002": {
         "_id": 201201002,
         "Key": "Monster_W2_Mecha02_00_Config",
-        "Name": "Entranced Ingenium: Illumination Dragonfish",
-        "Desc": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate illuminator used for casting light upon darkness, but now it has been given a short-lived \"life\" due to certain mutations.",
+        "Name": "{RUBY_B#にゅうまきこう}入魔機巧{RUBY_E#}・{RUBY_B#とうかりゅうぎょ}灯火龍魚{RUBY_E#}",
+        "Desc": "工造司の匠が片手間に作り上げた発明品。元は知能を持たない暗闇を照らすただの灯具だったが、とある異変により短い「命」を付与された。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -16754,8 +18465,8 @@ var _monster_2 = {
     "201201003": {
         "_id": 201201003,
         "Key": "Monster_W2_Mecha02_00_Config",
-        "Name": "Entranced Ingenium: Illumination Dragonfish",
-        "Desc": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate illuminator used for casting light upon darkness, but now it has been given a short-lived \"life\" due to certain mutations.",
+        "Name": "{RUBY_B#にゅうまきこう}入魔機巧{RUBY_E#}・{RUBY_B#とうかりゅうぎょ}灯火龍魚{RUBY_E#}",
+        "Desc": "工造司の匠が片手間に作り上げた発明品。元は知能を持たない暗闇を照らすただの灯具だったが、とある異変により短い「命」を付与された。",
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -16800,8 +18511,8 @@ var _monster_2 = {
     "201201004": {
         "_id": 201201004,
         "Key": "Monster_W2_Mecha02_00_Config",
-        "Name": "Entranced Ingenium: Illumination Dragonfish",
-        "Desc": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate illuminator used for casting light upon darkness, but now it has been given a short-lived \"life\" due to certain mutations.",
+        "Name": "{RUBY_B#にゅうまきこう}入魔機巧{RUBY_E#}・{RUBY_B#とうかりゅうぎょ}灯火龍魚{RUBY_E#}",
+        "Desc": "工造司の匠が片手間に作り上げた発明品。元は知能を持たない暗闇を照らすただの灯具だったが、とある異変により短い「命」を付与された。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -16846,8 +18557,8 @@ var _monster_2 = {
     "201201005": {
         "_id": 201201005,
         "Key": "Monster_W2_Mecha02_00_Config",
-        "Name": "Entranced Ingenium: Illumination Dragonfish",
-        "Desc": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate illuminator used for casting light upon darkness, but now it has been given a short-lived \"life\" due to certain mutations.",
+        "Name": "{RUBY_B#にゅうまきこう}入魔機巧{RUBY_E#}・{RUBY_B#とうかりゅうぎょ}灯火龍魚{RUBY_E#}",
+        "Desc": "工造司の匠が片手間に作り上げた発明品。元は知能を持たない暗闇を照らすただの灯具だったが、とある異変により短い「命」を付与された。",
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -16892,8 +18603,8 @@ var _monster_2 = {
     "201201006": {
         "_id": 201201006,
         "Key": "Monster_W2_Mecha02_00_Config",
-        "Name": "Entranced Ingenium: Illumination Dragonfish",
-        "Desc": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate illuminator used for casting light upon darkness, but now it has been given a short-lived \"life\" due to certain mutations.",
+        "Name": "{RUBY_B#にゅうまきこう}入魔機巧{RUBY_E#}・{RUBY_B#とうかりゅうぎょ}灯火龍魚{RUBY_E#}",
+        "Desc": "工造司の匠が片手間に作り上げた発明品。元は知能を持たない暗闇を照らすただの灯具だったが、とある異変により短い「命」を付与された。",
         "Stats": {
             "HP": 3.0,
             "ATK": 18.0,
@@ -16941,8 +18652,8 @@ var _monster_2 = {
     "201201007": {
         "_id": 201201007,
         "Key": "Monster_W2_Mecha02_00_Config",
-        "Name": "Entranced Ingenium: Illumination Dragonfish",
-        "Desc": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate illuminator used for casting light upon darkness, but now it has been given a short-lived \"life\" due to certain mutations.",
+        "Name": "{RUBY_B#にゅうまきこう}入魔機巧{RUBY_E#}・{RUBY_B#とうかりゅうぎょ}灯火龍魚{RUBY_E#}",
+        "Desc": "工造司の匠が片手間に作り上げた発明品。元は知能を持たない暗闇を照らすただの灯具だったが、とある異変により短い「命」を付与された。",
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -16990,8 +18701,8 @@ var _monster_2 = {
     "201201008": {
         "_id": 201201008,
         "Key": "Monster_W2_Mecha02_00_Config",
-        "Name": "Entranced Ingenium: Illumination Dragonfish",
-        "Desc": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate illuminator used for casting light upon darkness, but now it has been given a short-lived \"life\" due to certain mutations.",
+        "Name": "{RUBY_B#にゅうまきこう}入魔機巧{RUBY_E#}・{RUBY_B#とうかりゅうぎょ}灯火龍魚{RUBY_E#}",
+        "Desc": "工造司の匠が片手間に作り上げた発明品。元は知能を持たない暗闇を照らすただの灯具だったが、とある異変により短い「命」を付与された。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -17036,8 +18747,8 @@ var _monster_2 = {
     "201301001": {
         "_id": 201301001,
         "Key": "Monster_W2_Mecha03_00_Config",
-        "Name": "Borderland Poet",
-        "Desc": "A Borderland Poet created by Cong.<br>Its built-in \"Inspo Jade Abacus\" collects data such as military careers, lofty aspirations, and so on, to create \"borderland poems.\"",
+        "Name": "辺塞詩人",
+        "Desc": "聡が作った「辺塞詩人」。<br>「着想玉兆」が搭載されている。軍隊生活、豪気、壮志などの素材をかき集め、「辺塞詩」の創作に使う。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -17087,8 +18798,8 @@ var _monster_2 = {
     "201301002": {
         "_id": 201301002,
         "Key": "Monster_W2_Mecha03_00_Config",
-        "Name": "Aurumaton Gatekeeper",
-        "Desc": "Garrison aurumaton created with ancient ingenium technology.<br>Countless years ago, the aurumatons set sail with the Xianzhou to seek divine recipes of immortality, and were tasked to oversee humanity and to aid humankind during warfare. However, after countless rebellions, they were finally overpowered by the Xianzhou natives.<br>Now, all aurumatons are strictly controlled with talismans, and are employed to guard important places.",
+        "Name": "{RUBY_B#きんじん}金人{RUBY_E#}・{RUBY_B#もんばん}門番{RUBY_E#}",
+        "Desc": "古い機巧術で鋳造された金人。<br>太古の昔、金人は仙舟と共に仙方を求める旅に出た。当時の金人は人間を監視し、戦いを補助する立場であったが、反乱を経て最終的に仙舟人に降伏した。<br>今日に至っては、すべての金人は呪符によって厳重に牽制されており、要地を守るために使われている。",
         "Stats": {
             "HP": 17.0,
             "ATK": 18.0,
@@ -17138,8 +18849,8 @@ var _monster_2 = {
     "201301003": {
         "_id": 201301003,
         "Key": "Monster_W2_Mecha03_00_Config",
-        "Name": "Aurumaton Gatekeeper",
-        "Desc": "Garrison aurumaton created with ancient ingenium technology.<br>Countless years ago, the aurumatons set sail with the Xianzhou to seek divine recipes of immortality, and were tasked to oversee humanity and to aid humankind during warfare. However, after countless rebellions, they were finally overpowered by the Xianzhou natives.<br>Now, all aurumatons are strictly controlled with talismans, and are employed to guard important places.",
+        "Name": "{RUBY_B#きんじん}金人{RUBY_E#}・{RUBY_B#もんばん}門番{RUBY_E#}",
+        "Desc": "古い機巧術で鋳造された金人。<br>太古の昔、金人は仙舟と共に仙方を求める旅に出た。当時の金人は人間を監視し、戦いを補助する立場であったが、反乱を経て最終的に仙舟人に降伏した。<br>今日に至っては、すべての金人は呪符によって厳重に牽制されており、要地を守るために使われている。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -17192,8 +18903,8 @@ var _monster_2 = {
     "201301004": {
         "_id": 201301004,
         "Key": "Monster_W2_Mecha03_00_Config",
-        "Name": "Aurumaton Gatekeeper",
-        "Desc": "Garrison aurumaton created with ancient ingenium technology.<br>Countless years ago, the aurumatons set sail with the Xianzhou to seek divine recipes of immortality, and were tasked to oversee humanity and to aid humankind during warfare. However, after countless rebellions, they were finally overpowered by the Xianzhou natives.<br>Now, all aurumatons are strictly controlled with talismans, and are employed to guard important places.",
+        "Name": "{RUBY_B#きんじん}金人{RUBY_E#}・{RUBY_B#もんばん}門番{RUBY_E#}",
+        "Desc": "古い機巧術で鋳造された金人。<br>太古の昔、金人は仙舟と共に仙方を求める旅に出た。当時の金人は人間を監視し、戦いを補助する立場であったが、反乱を経て最終的に仙舟人に降伏した。<br>今日に至っては、すべての金人は呪符によって厳重に牽制されており、要地を守るために使われている。",
         "Stats": {
             "HP": 5.0,
             "ATK": 18.0,
@@ -17243,8 +18954,8 @@ var _monster_2 = {
     "201301005": {
         "_id": 201301005,
         "Key": "Monster_W2_Mecha03_00_Config",
-        "Name": "Aurumaton Gatekeeper",
-        "Desc": "Garrison aurumaton created with ancient ingenium technology.<br>Countless years ago, the aurumatons set sail with the Xianzhou to seek divine recipes of immortality, and were tasked to oversee humanity and to aid humankind during warfare. However, after countless rebellions, they were finally overpowered by the Xianzhou natives.<br>Now, all aurumatons are strictly controlled with talismans, and are employed to guard important places.",
+        "Name": "{RUBY_B#きんじん}金人{RUBY_E#}・{RUBY_B#もんばん}門番{RUBY_E#}",
+        "Desc": "古い機巧術で鋳造された金人。<br>太古の昔、金人は仙舟と共に仙方を求める旅に出た。当時の金人は人間を監視し、戦いを補助する立場であったが、反乱を経て最終的に仙舟人に降伏した。<br>今日に至っては、すべての金人は呪符によって厳重に牽制されており、要地を守るために使われている。",
         "Stats": {
             "HP": 8.0,
             "ATK": 18.0,
@@ -17294,8 +19005,8 @@ var _monster_2 = {
     "201301006": {
         "_id": 201301006,
         "Key": "Monster_W2_Mecha03_00_Config",
-        "Name": "Aurumaton Gatekeeper",
-        "Desc": "Garrison aurumaton created with ancient ingenium technology.<br>Countless years ago, the aurumatons set sail with the Xianzhou to seek divine recipes of immortality, and were tasked to oversee humanity and to aid humankind during warfare. However, after countless rebellions, they were finally overpowered by the Xianzhou natives.<br>Now, all aurumatons are strictly controlled with talismans, and are employed to guard important places.",
+        "Name": "{RUBY_B#きんじん}金人{RUBY_E#}・{RUBY_B#もんばん}門番{RUBY_E#}",
+        "Desc": "古い機巧術で鋳造された金人。<br>太古の昔、金人は仙舟と共に仙方を求める旅に出た。当時の金人は人間を監視し、戦いを補助する立場であったが、反乱を経て最終的に仙舟人に降伏した。<br>今日に至っては、すべての金人は呪符によって厳重に牽制されており、要地を守るために使われている。",
         "Stats": {
             "HP": 8.0,
             "ATK": 18.0,
@@ -17345,8 +19056,8 @@ var _monster_2 = {
     "201301007": {
         "_id": 201301007,
         "Key": "Monster_W2_Mecha03_00_Config",
-        "Name": "Aurumaton Gatekeeper",
-        "Desc": "Garrison aurumaton created with ancient ingenium technology.<br>Countless years ago, the aurumatons set sail with the Xianzhou to seek divine recipes of immortality, and were tasked to oversee humanity and to aid humankind during warfare. However, after countless rebellions, they were finally overpowered by the Xianzhou natives.<br>Now, all aurumatons are strictly controlled with talismans, and are employed to guard important places.",
+        "Name": "{RUBY_B#きんじん}金人{RUBY_E#}・{RUBY_B#もんばん}門番{RUBY_E#}",
+        "Desc": "古い機巧術で鋳造された金人。<br>太古の昔、金人は仙舟と共に仙方を求める旅に出た。当時の金人は人間を監視し、戦いを補助する立場であったが、反乱を経て最終的に仙舟人に降伏した。<br>今日に至っては、すべての金人は呪符によって厳重に牽制されており、要地を守るために使われている。",
         "Stats": {
             "HP": 10.0,
             "ATK": 13.84614,
@@ -17396,8 +19107,8 @@ var _monster_2 = {
     "201302001": {
         "_id": 201302001,
         "Key": "Monster_W2_Valkyrie02_00_Config",
-        "Name": "Aurumaton Spectral Envoy",
-        "Desc": "A law-enforcing aurumaton engraved with the Ten-Lords Martial Scriptures and taking orders from the Ten-Lords Commission.<br>Living beings are susceptible to the corporeal and mental existence of the self, but gold and metal will never be swayed and will unwaveringly follow the Ten-Lords' edicts.<br>These aurumaton law enforcers use their strength to subdue evils that have strayed from the natural order of life, and bring them to the Netherworld to meet their sentence. Its authority is sometimes even greater than that of a judge.",
+        "Name": "{RUBY_B#きんじん}金人{RUBY_E#}・{RUBY_B#こうこん}勾魂{RUBY_E#}",
+        "Desc": "『十王武経』を記録しており、十王司の命に従い、法を執行する金人。<br>血肉は五陰の苦に囚われやすいが、金鉄の心は揺るがずに十王の勅令を執行できる。<br>この金人執行者は生命の秩序から逸脱した邪悪を力でねじ伏せ、幽府に連行して判決を下す。その権限は時に判官すらを凌駕する。",
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -17455,8 +19166,8 @@ var _monster_2 = {
     "201302002": {
         "_id": 201302002,
         "Key": "Monster_W2_Valkyrie02_00_Config",
-        "Name": "Aurumaton Spectral Envoy",
-        "Desc": "A law-enforcing aurumaton engraved with the Ten-Lords Martial Scriptures and taking orders from the Ten-Lords Commission.<br>Living beings are susceptible to the corporeal and mental existence of the self, but gold and metal will never be swayed and will unwaveringly follow the Ten-Lords' edicts.<br>These aurumaton law enforcers use their strength to subdue evils that have strayed from the natural order of life, and bring them to the Netherworld to meet their sentence. Its authority is sometimes even greater than that of a judge.",
+        "Name": "{RUBY_B#きんじん}金人{RUBY_E#}・{RUBY_B#こうこん}勾魂{RUBY_E#}",
+        "Desc": "『十王武経』を記録しており、十王司の命に従い、法を執行する金人。<br>血肉は五陰の苦に囚われやすいが、金鉄の心は揺るがずに十王の勅令を執行できる。<br>この金人執行者は生命の秩序から逸脱した邪悪を力でねじ伏せ、幽府に連行して判決を下す。その権限は時に判官すらを凌駕する。",
         "Stats": {
             "HP": 12.0,
             "ATK": 16.363619999999997,
@@ -17514,8 +19225,8 @@ var _monster_2 = {
     "201302003": {
         "_id": 201302003,
         "Key": "Monster_W2_Valkyrie02_00_Config",
-        "Name": "Aurumaton Spectral Envoy",
-        "Desc": "A law-enforcing aurumaton engraved with the Ten-Lords Martial Scriptures and taking orders from the Ten-Lords Commission.<br>Living beings are susceptible to the corporeal and mental existence of the self, but gold and metal will never be swayed and will unwaveringly follow the Ten-Lords' edicts.<br>These aurumaton law enforcers use their strength to subdue evils that have strayed from the natural order of life, and bring them to the Netherworld to meet their sentence. Its authority is sometimes even greater than that of a judge.",
+        "Name": "{RUBY_B#きんじん}金人{RUBY_E#}・{RUBY_B#こうこん}勾魂{RUBY_E#}",
+        "Desc": "『十王武経』を記録しており、十王司の命に従い、法を執行する金人。<br>血肉は五陰の苦に囚われやすいが、金鉄の心は揺るがずに十王の勅令を執行できる。<br>この金人執行者は生命の秩序から逸脱した邪悪を力でねじ伏せ、幽府に連行して判決を下す。その権限は時に判官すらを凌駕する。",
         "Stats": {
             "HP": 6.0,
             "ATK": 16.363619999999997,
@@ -17573,8 +19284,8 @@ var _monster_2 = {
     "201302004": {
         "_id": 201302004,
         "Key": "Monster_W2_Valkyrie02_00_Config",
-        "Name": "Aurumaton Spectral Envoy",
-        "Desc": "A law-enforcing aurumaton engraved with the Ten-Lords Martial Scriptures and taking orders from the Ten-Lords Commission.<br>Living beings are susceptible to the corporeal and mental existence of the self, but gold and metal will never be swayed and will unwaveringly follow the Ten-Lords' edicts.<br>These aurumaton law enforcers use their strength to subdue evils that have strayed from the natural order of life, and bring them to the Netherworld to meet their sentence. Its authority is sometimes even greater than that of a judge.",
+        "Name": "{RUBY_B#きんじん}金人{RUBY_E#}・{RUBY_B#こうこん}勾魂{RUBY_E#}",
+        "Desc": "『十王武経』を記録しており、十王司の命に従い、法を執行する金人。<br>血肉は五陰の苦に囚われやすいが、金鉄の心は揺るがずに十王の勅令を執行できる。<br>この金人執行者は生命の秩序から逸脱した邪悪を力でねじ伏せ、幽府に連行して判決を下す。その権限は時に判官すらを凌駕する。",
         "Stats": {
             "HP": 9.0,
             "ATK": 10.588140000000001,
@@ -17632,8 +19343,8 @@ var _monster_2 = {
     "201302006": {
         "_id": 201302006,
         "Key": "Monster_W2_Valkyrie02_00_Config",
-        "Name": "Aurumaton Spectral Envoy",
-        "Desc": "A law-enforcing aurumaton engraved with the Ten-Lords Martial Scriptures and taking orders from the Ten-Lords Commission.<br>Living beings are susceptible to the corporeal and mental existence of the self, but gold and metal will never be swayed and will unwaveringly follow the Ten-Lords' edicts.<br>These aurumaton law enforcers use their strength to subdue evils that have strayed from the natural order of life, and bring them to the Netherworld to meet their sentence. Its authority is sometimes even greater than that of a judge.",
+        "Name": "{RUBY_B#きんじん}金人{RUBY_E#}・{RUBY_B#こうこん}勾魂{RUBY_E#}",
+        "Desc": "『十王武経』を記録しており、十王司の命に従い、法を執行する金人。<br>血肉は五陰の苦に囚われやすいが、金鉄の心は揺るがずに十王の勅令を執行できる。<br>この金人執行者は生命の秩序から逸脱した邪悪を力でねじ伏せ、幽府に連行して判決を下す。その権限は時に判官すらを凌駕する。",
         "Stats": {
             "HP": 5.0,
             "ATK": 18.0,
@@ -17694,8 +19405,8 @@ var _monster_2 = {
     "201302007": {
         "_id": 201302007,
         "Key": "Monster_W2_Valkyrie02_00_Config",
-        "Name": "Aurumaton Spectral Envoy",
-        "Desc": "A law-enforcing aurumaton engraved with the Ten-Lords Martial Scriptures and taking orders from the Ten-Lords Commission.<br>Living beings are susceptible to the corporeal and mental existence of the self, but gold and metal will never be swayed and will unwaveringly follow the Ten-Lords' edicts.<br>These aurumaton law enforcers use their strength to subdue evils that have strayed from the natural order of life, and bring them to the Netherworld to meet their sentence. Its authority is sometimes even greater than that of a judge.",
+        "Name": "{RUBY_B#きんじん}金人{RUBY_E#}・{RUBY_B#こうこん}勾魂{RUBY_E#}",
+        "Desc": "『十王武経』を記録しており、十王司の命に従い、法を執行する金人。<br>血肉は五陰の苦に囚われやすいが、金鉄の心は揺るがずに十王の勅令を執行できる。<br>この金人執行者は生命の秩序から逸脱した邪悪を力でねじ伏せ、幽府に連行して判決を下す。その権限は時に判官すらを凌駕する。",
         "Stats": {
             "HP": 18.5,
             "ATK": 18.0,
@@ -17756,8 +19467,8 @@ var _monster_2 = {
     "202201001": {
         "_id": 202201001,
         "Key": "Monster_W2_Abomi01_00_Config",
-        "Name": "Mara-Struck Soldier",
-        "Desc": "Soldiers of the Xianzhou who somehow fell into madness. Their bodies continue to grow and mutate and have long lost their humanoid form. It is said that the long-lived Xianzhou natives would eventually be stricken with mara.",
+        "Name": "{RUBY_B#まおん}魔陰{RUBY_E#}の{RUBY_B#み}身{RUBY_E#}・{RUBY_B#へいそつ}兵卒{RUBY_E#}",
+        "Desc": "何らかの理由により狂乱に陥った仙舟の兵士。もう人としての原形を保てておらず、増殖と変異を無限に繰り返すだけとなっている。無尽の命の中、仙舟人は「魔陰の身」と呼ばれる状態に堕ちると言われている。",
         "Stats": {
             "HP": 1.8,
             "ATK": 14.99994,
@@ -17810,8 +19521,8 @@ var _monster_2 = {
     "202201002": {
         "_id": 202201002,
         "Key": "Monster_W2_Abomi01_00_Config",
-        "Name": "Mara-Struck Soldier",
-        "Desc": "Soldiers of the Xianzhou who somehow fell into madness. Their bodies continue to grow and mutate and have long lost their humanoid form. It is said that the long-lived Xianzhou natives would eventually be stricken with mara.",
+        "Name": "{RUBY_B#まおん}魔陰{RUBY_E#}の{RUBY_B#み}身{RUBY_E#}・{RUBY_B#へいそつ}兵卒{RUBY_E#}",
+        "Desc": "何らかの理由により狂乱に陥った仙舟の兵士。もう人としての原形を保てておらず、増殖と変異を無限に繰り返すだけとなっている。無尽の命の中、仙舟人は「魔陰の身」と呼ばれる状態に堕ちると言われている。",
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -17867,8 +19578,8 @@ var _monster_2 = {
     "202201003": {
         "_id": 202201003,
         "Key": "Monster_W2_Abomi01_00_Config",
-        "Name": "Furtive Assassin",
-        "Desc": "An assassin who conceals their presence using the Cloudhymn technique. It is unclear by whom they are sent.",
+        "Name": "隠密な刺客",
+        "Desc": "雲吟の術で姿を隠した刺客。誰が差し向けたのか不明である。",
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -17921,8 +19632,8 @@ var _monster_2 = {
     "202201004": {
         "_id": 202201004,
         "Key": "Monster_W2_Abomi01_00_Config",
-        "Name": "Distortion",
-        "Desc": "\"Memory\" is similar to \"photographs\". Even though it appears to record \"reality,\" it actually invades, alienates, and alters \"reality.\" Perhaps removing the \"distortion\" will make it reliable, or perhaps not.",
+        "Name": "歪み",
+        "Desc": "「記憶」と「写真」はとても似ている。それは「真実」を記録しているように見えるが、「真実」に侵入し、「真実」を変化させ、改ざんしているのだ。もしその中の「歪み」を消すことができれば信頼できるものになるかもしれない、ならないかもしれない。",
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -17975,8 +19686,8 @@ var _monster_2 = {
     "202201005": {
         "_id": 202201005,
         "Key": "Monster_W2_Abomi01_00_Config",
-        "Name": "Furtive Assassin",
-        "Desc": "An assassin who conceals their presence using the Cloudhymn technique. It is unclear by whom they are sent.",
+        "Name": "隠密な刺客",
+        "Desc": "雲吟の術で姿を隠した刺客。誰が差し向けたのか不明である。",
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -18029,8 +19740,8 @@ var _monster_2 = {
     "202201006": {
         "_id": 202201006,
         "Key": "Monster_W2_Abomi01_00_Config",
-        "Name": "Mara-Struck Soldier",
-        "Desc": "Soldiers of the Xianzhou who somehow fell into madness. Their bodies continue to grow and mutate and have long lost their humanoid form. It is said that the long-lived Xianzhou natives would eventually be stricken with mara.",
+        "Name": "{RUBY_B#まおん}魔陰{RUBY_E#}の{RUBY_B#み}身{RUBY_E#}・{RUBY_B#へいそつ}兵卒{RUBY_E#}",
+        "Desc": "何らかの理由により狂乱に陥った仙舟の兵士。もう人としての原形を保てておらず、増殖と変異を無限に繰り返すだけとなっている。無尽の命の中、仙舟人は「魔陰の身」と呼ばれる状態に堕ちると言われている。",
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -18083,8 +19794,8 @@ var _monster_2 = {
     "202201007": {
         "_id": 202201007,
         "Key": "Monster_W2_Abomi01_00_Config",
-        "Name": "Mara-Struck Soldier",
-        "Desc": "Soldiers of the Xianzhou who somehow fell into madness. Their bodies continue to grow and mutate and have long lost their humanoid form. It is said that the long-lived Xianzhou natives would eventually be stricken with mara.",
+        "Name": "{RUBY_B#まおん}魔陰{RUBY_E#}の{RUBY_B#み}身{RUBY_E#}・{RUBY_B#へいそつ}兵卒{RUBY_E#}",
+        "Desc": "何らかの理由により狂乱に陥った仙舟の兵士。もう人としての原形を保てておらず、増殖と変異を無限に繰り返すだけとなっている。無尽の命の中、仙舟人は「魔陰の身」と呼ばれる状態に堕ちると言われている。",
         "Stats": {
             "HP": 0.8,
             "ATK": 10.00008,
@@ -18137,8 +19848,8 @@ var _monster_2 = {
     "202201008": {
         "_id": 202201008,
         "Key": "Monster_W2_Abomi01_00_Config",
-        "Name": "Mara-Struck Soldier",
-        "Desc": "Soldiers of the Xianzhou who somehow fell into madness. Their bodies continue to grow and mutate and have long lost their humanoid form. It is said that the long-lived Xianzhou natives would eventually be stricken with mara.",
+        "Name": "{RUBY_B#まおん}魔陰{RUBY_E#}の{RUBY_B#み}身{RUBY_E#}・{RUBY_B#へいそつ}兵卒{RUBY_E#}",
+        "Desc": "何らかの理由により狂乱に陥った仙舟の兵士。もう人としての原形を保てておらず、増殖と変異を無限に繰り返すだけとなっている。無尽の命の中、仙舟人は「魔陰の身」と呼ばれる状態に堕ちると言われている。",
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -18191,8 +19902,8 @@ var _monster_2 = {
     "202201009": {
         "_id": 202201009,
         "Key": "Monster_W2_Abomi01_00_Config",
-        "Name": "Mara-Struck Soldier",
-        "Desc": "Soldiers of the Xianzhou who somehow fell into madness. Their bodies continue to grow and mutate and have long lost their humanoid form. It is said that the long-lived Xianzhou natives would eventually be stricken with mara.",
+        "Name": "{RUBY_B#まおん}魔陰{RUBY_E#}の{RUBY_B#み}身{RUBY_E#}・{RUBY_B#へいそつ}兵卒{RUBY_E#}",
+        "Desc": "何らかの理由により狂乱に陥った仙舟の兵士。もう人としての原形を保てておらず、増殖と変異を無限に繰り返すだけとなっている。無尽の命の中、仙舟人は「魔陰の身」と呼ばれる状態に堕ちると言われている。",
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -18245,8 +19956,8 @@ var _monster_2 = {
     "202201010": {
         "_id": 202201010,
         "Key": "Monster_W2_Abomi01_00_Config",
-        "Name": "Mara-Struck Soldier",
-        "Desc": "Soldiers of the Xianzhou who somehow fell into madness. Their bodies continue to grow and mutate and have long lost their humanoid form. It is said that the long-lived Xianzhou natives would eventually be stricken with mara.",
+        "Name": "{RUBY_B#まおん}魔陰{RUBY_E#}の{RUBY_B#み}身{RUBY_E#}・{RUBY_B#へいそつ}兵卒{RUBY_E#}",
+        "Desc": "何らかの理由により狂乱に陥った仙舟の兵士。もう人としての原形を保てておらず、増殖と変異を無限に繰り返すだけとなっている。無尽の命の中、仙舟人は「魔陰の身」と呼ばれる状態に堕ちると言われている。",
         "Stats": {
             "HP": 0.9,
             "ATK": 18.0,
@@ -18299,8 +20010,8 @@ var _monster_2 = {
     "202201011": {
         "_id": 202201011,
         "Key": "Monster_W2_Abomi01_00_Config",
-        "Name": "Mara-Struck Soldier",
-        "Desc": "Soldiers of the Xianzhou who somehow fell into madness. Their bodies continue to grow and mutate and have long lost their humanoid form. It is said that the long-lived Xianzhou natives would eventually be stricken with mara.",
+        "Name": "{RUBY_B#まおん}魔陰{RUBY_E#}の{RUBY_B#み}身{RUBY_E#}・{RUBY_B#へいそつ}兵卒{RUBY_E#}",
+        "Desc": "何らかの理由により狂乱に陥った仙舟の兵士。もう人としての原形を保てておらず、増殖と変異を無限に繰り返すだけとなっている。無尽の命の中、仙舟人は「魔陰の身」と呼ばれる状態に堕ちると言われている。",
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -18353,8 +20064,8 @@ var _monster_2 = {
     "202202001": {
         "_id": 202202001,
         "Key": "Monster_W2_Abomi02_00_Config",
-        "Name": "Seat of Divine Foresight Guard",
-        "Desc": "A member of the Disciples of Sanctus Medicus, the secret sect that hid within the Xianzhou Luofu. <br>With medicine, purify the heart. With elixir, transform one's body. They long to revive the ancient mysteries of Abundance, hoping to spur Xianzhou natives towards their next stage of evolution.",
+        "Name": "神策府護衛",
+        "Desc": "仙舟羅浮に潜む「薬王秘伝」のメンバー。<br>薬を得て心を鍛え、丹を結し己を鍛える。彼らは古い豊穣の秘密を復興し、仙舟人を次の進化に導くことを渇望している。",
         "Stats": {
             "HP": 1.2,
             "ATK": 14.99994,
@@ -18402,8 +20113,8 @@ var _monster_2 = {
     "202202002": {
         "_id": 202202002,
         "Key": "Monster_W2_Abomi02_00_Config",
-        "Name": "Furtive Assassin",
-        "Desc": "An assassin who conceals their presence using the Cloudhymn technique. It is unclear by whom they are sent.",
+        "Name": "隠密な刺客",
+        "Desc": "雲吟の術で姿を隠した刺客。誰が差し向けたのか不明である。",
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -18451,8 +20162,8 @@ var _monster_2 = {
     "202202003": {
         "_id": 202202003,
         "Key": "Monster_W2_Abomi02_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Internal Alchemist",
-        "Desc": "A member of the Disciples of Sanctus Medicus, the secret sect that hid within the Xianzhou Luofu. <br>With medicine, purify the heart. With elixir, transform one's body. They long to revive the ancient mysteries of Abundance, hoping to spur Xianzhou natives towards their next stage of evolution.",
+        "Name": "{RUBY_B#やくおうひでん}薬王秘伝{RUBY_E#}・{RUBY_B#ないたんし}内丹士{RUBY_E#}",
+        "Desc": "仙舟羅浮に潜む「薬王秘伝」のメンバー。<br>薬を得て心を鍛え、丹を結し己を鍛える。彼らは古い豊穣の秘密を復興し、仙舟人を次の進化に導くことを渇望している。",
         "Stats": {
             "HP": 1.4,
             "ATK": 45.0,
@@ -18504,8 +20215,8 @@ var _monster_2 = {
     "202202004": {
         "_id": 202202004,
         "Key": "Monster_W2_Abomi02_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Internal Alchemist",
-        "Desc": "A member of the Disciples of Sanctus Medicus, the secret sect that hid within the Xianzhou Luofu. <br>With medicine, purify the heart. With elixir, transform one's body. They long to revive the ancient mysteries of Abundance, hoping to spur Xianzhou natives towards their next stage of evolution.",
+        "Name": "{RUBY_B#やくおうひでん}薬王秘伝{RUBY_E#}・{RUBY_B#ないたんし}内丹士{RUBY_E#}",
+        "Desc": "仙舟羅浮に潜む「薬王秘伝」のメンバー。<br>薬を得て心を鍛え、丹を結し己を鍛える。彼らは古い豊穣の秘密を復興し、仙舟人を次の進化に導くことを渇望している。",
         "Stats": {
             "HP": 0.8,
             "ATK": 22.5,
@@ -18553,8 +20264,8 @@ var _monster_2 = {
     "202202005": {
         "_id": 202202005,
         "Key": "Monster_W2_Abomi02_00_Config",
-        "Name": "Unsought Guest",
-        "Desc": "A malevolent intruder. Seeks to assassinate Dan Heng in order to eliminate the reincarnation of Dan Feng.",
+        "Name": "闖入者",
+        "Desc": "悪意を抱いている来者。丹楓の生まれ変わりを排除するという名目で、丹恒を殺しに来た。",
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -18602,8 +20313,8 @@ var _monster_2 = {
     "202202006": {
         "_id": 202202006,
         "Key": "Monster_W2_Abomi02_00_Config",
-        "Name": "Furtive Assassin",
-        "Desc": "An assassin who conceals their presence using the Cloudhymn technique. It is unclear by whom they are sent.",
+        "Name": "隠密な刺客",
+        "Desc": "雲吟の術で姿を隠した刺客。誰が差し向けたのか不明である。",
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -18651,8 +20362,8 @@ var _monster_2 = {
     "202202007": {
         "_id": 202202007,
         "Key": "Monster_W2_Abomi02_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Internal Alchemist",
-        "Desc": "A member of the Disciples of Sanctus Medicus, the secret sect that hid within the Xianzhou Luofu. <br>With medicine, purify the heart. With elixir, transform one's body. They long to revive the ancient mysteries of Abundance, hoping to spur Xianzhou natives towards their next stage of evolution.",
+        "Name": "{RUBY_B#やくおうひでん}薬王秘伝{RUBY_E#}・{RUBY_B#ないたんし}内丹士{RUBY_E#}",
+        "Desc": "仙舟羅浮に潜む「薬王秘伝」のメンバー。<br>薬を得て心を鍛え、丹を結し己を鍛える。彼らは古い豊穣の秘密を復興し、仙舟人を次の進化に導くことを渇望している。",
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -18700,8 +20411,8 @@ var _monster_2 = {
     "202202008": {
         "_id": 202202008,
         "Key": "Monster_W2_Abomi02_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Internal Alchemist",
-        "Desc": "A member of the Disciples of Sanctus Medicus, the secret sect that hid within the Xianzhou Luofu. <br>With medicine, purify the heart. With elixir, transform one's body. They long to revive the ancient mysteries of Abundance, hoping to spur Xianzhou natives towards their next stage of evolution.",
+        "Name": "{RUBY_B#やくおうひでん}薬王秘伝{RUBY_E#}・{RUBY_B#ないたんし}内丹士{RUBY_E#}",
+        "Desc": "仙舟羅浮に潜む「薬王秘伝」のメンバー。<br>薬を得て心を鍛え、丹を結し己を鍛える。彼らは古い豊穣の秘密を復興し、仙舟人を次の進化に導くことを渇望している。",
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -18749,8 +20460,8 @@ var _monster_2 = {
     "202202009": {
         "_id": 202202009,
         "Key": "Monster_W2_Abomi02_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Internal Alchemist",
-        "Desc": "A member of the Disciples of Sanctus Medicus, the secret sect that hid within the Xianzhou Luofu. <br>With medicine, purify the heart. With elixir, transform one's body. They long to revive the ancient mysteries of Abundance, hoping to spur Xianzhou natives towards their next stage of evolution.",
+        "Name": "{RUBY_B#やくおうひでん}薬王秘伝{RUBY_E#}・{RUBY_B#ないたんし}内丹士{RUBY_E#}",
+        "Desc": "仙舟羅浮に潜む「薬王秘伝」のメンバー。<br>薬を得て心を鍛え、丹を結し己を鍛える。彼らは古い豊穣の秘密を復興し、仙舟人を次の進化に導くことを渇望している。",
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -18798,8 +20509,8 @@ var _monster_2 = {
     "202204001": {
         "_id": 202204001,
         "Key": "Monster_W2_Beast01_00_Config",
-        "Name": "Distortion",
-        "Desc": "\"Memory\" is similar to \"photographs\". Even though it appears to record \"reality,\" it actually invades, alienates, and alters \"reality.\" Perhaps removing the \"distortion\" will make it reliable, or perhaps not.",
+        "Name": "歪み",
+        "Desc": "「記憶」と「写真」はとても似ている。それは「真実」を記録しているように見えるが、「真実」に侵入し、「真実」を変化させ、改ざんしているのだ。もしその中の「歪み」を消すことができれば信頼できるものになるかもしれない、ならないかもしれない。",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -18841,8 +20552,8 @@ var _monster_2 = {
     "202204002": {
         "_id": 202204002,
         "Key": "Monster_W2_Beast01_00_Config",
-        "Name": "Abundance Sprite: Golden Hound",
-        "Desc": "A gilded hunting hound that moves with grace and speed.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Golden Hounds were one of the war beasts that walked alongside the army.",
+        "Name": "{RUBY_B#ほうじょう}豊穣{RUBY_E#}の{RUBY_B#れいじゅう}霊獣{RUBY_E#}・{RUBY_B#ろうきん}婁金{RUBY_E#}",
+        "Desc": "金の糸を飾った狩り犬、動きが優雅で素早い。<br>前回「建木」が佇立した時、仙舟人は奇術で数多の珍獣を育種した。その中で、婁金は従軍する戦獣の1つである。",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -18884,8 +20595,8 @@ var _monster_2 = {
     "202204003": {
         "_id": 202204003,
         "Key": "Monster_W2_Beast01_00_Config",
-        "Name": "Abundance Sprite: Golden Hound",
-        "Desc": "A gilded hunting hound that moves with grace and speed.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Golden Hounds were one of the war beasts that walked alongside the army.",
+        "Name": "{RUBY_B#ほうじょう}豊穣{RUBY_E#}の{RUBY_B#れいじゅう}霊獣{RUBY_E#}・{RUBY_B#ろうきん}婁金{RUBY_E#}",
+        "Desc": "金の糸を飾った狩り犬、動きが優雅で素早い。<br>前回「建木」が佇立した時、仙舟人は奇術で数多の珍獣を育種した。その中で、婁金は従軍する戦獣の1つである。",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -18927,8 +20638,8 @@ var _monster_2 = {
     "202204004": {
         "_id": 202204004,
         "Key": "Monster_W2_Beast01_00_Config",
-        "Name": "Abundance Sprite: Golden Hound",
-        "Desc": "A gilded hunting hound that moves with grace and speed.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Golden Hounds were one of the war beasts that walked alongside the army.",
+        "Name": "{RUBY_B#ほうじょう}豊穣{RUBY_E#}の{RUBY_B#れいじゅう}霊獣{RUBY_E#}・{RUBY_B#ろうきん}婁金{RUBY_E#}",
+        "Desc": "金の糸を飾った狩り犬、動きが優雅で素早い。<br>前回「建木」が佇立した時、仙舟人は奇術で数多の珍獣を育種した。その中で、婁金は従軍する戦獣の1つである。",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -18970,8 +20681,8 @@ var _monster_2 = {
     "202205001": {
         "_id": 202205001,
         "Key": "Monster_W2_Beast01_01_Config",
-        "Name": "Abundance Sprite: Wooden Lupus",
-        "Desc": "A wolf surrounded with haze, its movement is elusive and unexpected.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Wooden Lupuses were one of the war beasts that walked alongside the army.",
+        "Name": "{RUBY_B#ほうじょう}豊穣{RUBY_E#}の{RUBY_B#れいじゅう}霊獣{RUBY_E#}・{RUBY_B#けいぼく}奎木{RUBY_E#}",
+        "Desc": "煙霧を纏う奔狼、ふらふらと動き見通しがつかない。<br>前回「建木」が佇立した時、仙舟人は奇術で数多の珍獣を育種した。その中で、奎木は従軍する戦獣の1つである。",
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -19022,8 +20733,8 @@ var _monster_2 = {
     "202205002": {
         "_id": 202205002,
         "Key": "Monster_W2_Beast01_01_Config",
-        "Name": "Abundance Sprite: Wooden Lupus",
-        "Desc": "A wolf surrounded with haze, its movement is elusive and unexpected.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Wooden Lupuses were one of the war beasts that walked alongside the army.",
+        "Name": "{RUBY_B#ほうじょう}豊穣{RUBY_E#}の{RUBY_B#れいじゅう}霊獣{RUBY_E#}・{RUBY_B#けいぼく}奎木{RUBY_E#}",
+        "Desc": "煙霧を纏う奔狼、ふらふらと動き見通しがつかない。<br>前回「建木」が佇立した時、仙舟人は奇術で数多の珍獣を育種した。その中で、奎木は従軍する戦獣の1つである。",
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -19074,8 +20785,8 @@ var _monster_2 = {
     "202205003": {
         "_id": 202205003,
         "Key": "Monster_W2_Beast01_01_Config",
-        "Name": "Abundance Sprite: Wooden Lupus",
-        "Desc": "A wolf surrounded with haze, its movement is elusive and unexpected.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Wooden Lupuses were one of the war beasts that walked alongside the army.",
+        "Name": "{RUBY_B#ほうじょう}豊穣{RUBY_E#}の{RUBY_B#れいじゅう}霊獣{RUBY_E#}・{RUBY_B#けいぼく}奎木{RUBY_E#}",
+        "Desc": "煙霧を纏う奔狼、ふらふらと動き見通しがつかない。<br>前回「建木」が佇立した時、仙舟人は奇術で数多の珍獣を育種した。その中で、奎木は従軍する戦獣の1つである。",
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -19126,8 +20837,8 @@ var _monster_2 = {
     "202205004": {
         "_id": 202205004,
         "Key": "Monster_W2_Beast01_01_Config",
-        "Name": "Abundance Sprite: Wooden Lupus",
-        "Desc": "A wolf surrounded with haze, its movement is elusive and unexpected.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Wooden Lupuses were one of the war beasts that walked alongside the army.",
+        "Name": "{RUBY_B#ほうじょう}豊穣{RUBY_E#}の{RUBY_B#れいじゅう}霊獣{RUBY_E#}・{RUBY_B#けいぼく}奎木{RUBY_E#}",
+        "Desc": "煙霧を纏う奔狼、ふらふらと動き見通しがつかない。<br>前回「建木」が佇立した時、仙舟人は奇術で数多の珍獣を育種した。その中で、奎木は従軍する戦獣の1つである。",
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -19178,8 +20889,8 @@ var _monster_2 = {
     "202206001": {
         "_id": 202206001,
         "Key": "Monster_W2_Abomi03_00_Config",
-        "Name": "Furtive Assassin",
-        "Desc": "An assassin who conceals their presence using the Cloudhymn technique. It is unclear by whom they are sent.",
+        "Name": "隠密な刺客",
+        "Desc": "雲吟の術で姿を隠した刺客。誰が差し向けたのか不明である。",
         "Stats": {
             "HP": 2.2,
             "ATK": 18.0,
@@ -19219,8 +20930,8 @@ var _monster_2 = {
     "202206002": {
         "_id": 202206002,
         "Key": "Monster_W2_Abomi03_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Ballistarius",
-        "Desc": "A member of the Disciples of Sanctus Medicus, the secret organization that had lain hidden in the Xianzhou Luofu.<br>They pursue cultivation using tools and merge with them. They long to revive the lost secrets of Abundance, hoping to spur Xianzhou natives toward their next stage of evolution.",
+        "Name": "{RUBY_B#やくおうひでん}薬王秘伝{RUBY_E#}・{RUBY_B#きげんし}器元士{RUBY_E#}",
+        "Desc": "仙舟羅浮に潜む「薬王秘伝」のメンバー。<br>器を借りて修道し、それと一体になる。彼らは古い豊穣の秘密を復興し、仙舟人を次の進化に導くことを渇望している。",
         "Stats": {
             "HP": 2.2,
             "ATK": 18.0,
@@ -19260,8 +20971,8 @@ var _monster_2 = {
     "202206003": {
         "_id": 202206003,
         "Key": "Monster_W2_Abomi03_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Ballistarius",
-        "Desc": "A member of the Disciples of Sanctus Medicus, the secret organization that had lain hidden in the Xianzhou Luofu.<br>They pursue cultivation using tools and merge with them. They long to revive the lost secrets of Abundance, hoping to spur Xianzhou natives toward their next stage of evolution.",
+        "Name": "{RUBY_B#やくおうひでん}薬王秘伝{RUBY_E#}・{RUBY_B#きげんし}器元士{RUBY_E#}",
+        "Desc": "仙舟羅浮に潜む「薬王秘伝」のメンバー。<br>器を借りて修道し、それと一体になる。彼らは古い豊穣の秘密を復興し、仙舟人を次の進化に導くことを渇望している。",
         "Stats": {
             "HP": 2.2,
             "ATK": 18.0,
@@ -19301,8 +21012,8 @@ var _monster_2 = {
     "202206004": {
         "_id": 202206004,
         "Key": "Monster_W2_Abomi03_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Ballistarius",
-        "Desc": "A member of the Disciples of Sanctus Medicus, the secret organization that had lain hidden in the Xianzhou Luofu.<br>They pursue cultivation using tools and merge with them. They long to revive the lost secrets of Abundance, hoping to spur Xianzhou natives toward their next stage of evolution.",
+        "Name": "{RUBY_B#やくおうひでん}薬王秘伝{RUBY_E#}・{RUBY_B#きげんし}器元士{RUBY_E#}",
+        "Desc": "仙舟羅浮に潜む「薬王秘伝」のメンバー。<br>器を借りて修道し、それと一体になる。彼らは古い豊穣の秘密を復興し、仙舟人を次の進化に導くことを渇望している。",
         "Stats": {
             "HP": 2.2,
             "ATK": 18.0,
@@ -19342,8 +21053,8 @@ var _monster_2 = {
     "202206005": {
         "_id": 202206005,
         "Key": "Monster_W2_Abomi03_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Ballistarius",
-        "Desc": "A member of the Disciples of Sanctus Medicus, the secret organization that had lain hidden in the Xianzhou Luofu.<br>They pursue cultivation using tools and merge with them. They long to revive the lost secrets of Abundance, hoping to spur Xianzhou natives toward their next stage of evolution.",
+        "Name": "{RUBY_B#やくおうひでん}薬王秘伝{RUBY_E#}・{RUBY_B#きげんし}器元士{RUBY_E#}",
+        "Desc": "仙舟羅浮に潜む「薬王秘伝」のメンバー。<br>器を借りて修道し、それと一体になる。彼らは古い豊穣の秘密を復興し、仙舟人を次の進化に導くことを渇望している。",
         "Stats": {
             "HP": 2.2,
             "ATK": 18.0,
@@ -19383,8 +21094,8 @@ var _monster_2 = {
     "202206006": {
         "_id": 202206006,
         "Key": "Monster_W2_Abomi03_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Ballistarius",
-        "Desc": "A member of the Disciples of Sanctus Medicus, the secret organization that had lain hidden in the Xianzhou Luofu.<br>They pursue cultivation using tools and merge with them. They long to revive the lost secrets of Abundance, hoping to spur Xianzhou natives toward their next stage of evolution.",
+        "Name": "{RUBY_B#やくおうひでん}薬王秘伝{RUBY_E#}・{RUBY_B#きげんし}器元士{RUBY_E#}",
+        "Desc": "仙舟羅浮に潜む「薬王秘伝」のメンバー。<br>器を借りて修道し、それと一体になる。彼らは古い豊穣の秘密を復興し、仙舟人を次の進化に導くことを渇望している。",
         "Stats": {
             "HP": 2.2,
             "ATK": 18.0,
@@ -19424,8 +21135,8 @@ var _monster_2 = {
     "202207001": {
         "_id": 202207001,
         "Key": "Monster_W2_Xuanlu_01_Config",
-        "Name": "Twig of Wintry Wind",
-        "Desc": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint",
+        "Name": "厳風の梢",
+        "Desc": "玄鹿の足跡に生える建木の枝先。",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -19468,8 +21179,8 @@ var _monster_2 = {
     "202207101": {
         "_id": 202207101,
         "Key": "Monster_W2_Xuanlu_01_Config_RL",
-        "Name": "Twig of Wintry Wind (Illusion)",
-        "Desc": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint. This entity is a phantom borne from your memories.",
+        "Name": "厳風の梢（幻像）",
+        "Desc": "玄鹿の足跡に生える建木の枝先。ここに現れたのはあなたの記憶をもとにシミュレートされた幻である。",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -19513,8 +21224,8 @@ var _monster_2 = {
     "202208001": {
         "_id": 202208001,
         "Key": "Monster_W2_Xuanlu_02_Config",
-        "Name": "Twig of Marple Leaf",
-        "Desc": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint",
+        "Name": "黄葉の梢",
+        "Desc": "玄鹿の足跡に生える建木の枝先。",
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -19562,8 +21273,8 @@ var _monster_2 = {
     "202208101": {
         "_id": 202208101,
         "Key": "Monster_W2_Xuanlu_02_Config_RL",
-        "Name": "Twig of Marple Leaf (Illusion)",
-        "Desc": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint. This entity is a phantom borne from your memories.",
+        "Name": "黄葉の梢（幻像）",
+        "Desc": "玄鹿の足跡に生える建木の枝先。ここに現れたのはあなたの記憶をもとにシミュレートされた幻である。",
         "Stats": {
             "HP": 3.75,
             "ATK": 18.0,
@@ -19615,8 +21326,8 @@ var _monster_2 = {
     "202209101": {
         "_id": 202209101,
         "Key": "Monster_W2_Xuanlu_03_Config",
-        "Name": "Twig of Glorious Blooms (Illusion)",
-        "Desc": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint. This entity is a phantom borne from your memories.",
+        "Name": "万花の梢（幻像）",
+        "Desc": "玄鹿の足跡に生える建木の枝先。ここに現れたのはあなたの記憶をもとにシミュレートされた幻である。",
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -19656,8 +21367,8 @@ var _monster_2 = {
     "202210101": {
         "_id": 202210101,
         "Key": "Monster_W2_Xuanlu_04_Config",
-        "Name": "Twig of Lavish Fruits (Illusion)",
-        "Desc": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint. This entity is a phantom borne from your memories.",
+        "Name": "嘉実の梢（幻像）",
+        "Desc": "玄鹿の足跡に生える建木の枝先。ここに現れたのはあなたの記憶をもとにシミュレートされた幻である。",
         "Stats": {
             "HP": 2.4,
             "ATK": 18.0,
@@ -19702,8 +21413,8 @@ var _monster_2 = {
     "202211001": {
         "_id": 202211001,
         "Key": "Monster_W2_Valkyrie01_01_Config",
-        "Name": "Mara-Struck Warden",
-        "Desc": "A Ten-Lords Commission soldier that has fallen to mara.<br>As long as they are still mortals of flesh and blood, the people of Xianzhou will never be able to escape their fate.",
+        "Name": "{RUBY_B#まおんぶべん}魔陰武弁{RUBY_E#}",
+        "Desc": "魔陰の身に堕ちた十王司武衛。<br>血肉の身である以上、仙舟人は宿命を断じられない。",
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -19750,8 +21461,8 @@ var _monster_2 = {
     "202211002": {
         "_id": 202211002,
         "Key": "Monster_W2_Valkyrie01_01_Config",
-        "Name": "Ruoxi's Illusion",
-        "Desc": "An illusion created by the heliobus, Ruoxi.",
+        "Name": "若昔の化形",
+        "Desc": "歳陽「若昔」による幻影。",
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -19798,8 +21509,8 @@ var _monster_2 = {
     "202211003": {
         "_id": 202211003,
         "Key": "Monster_W2_Valkyrie01_01_Config",
-        "Name": "Bizarre Wraith Warden",
-        "Desc": "A mara-struck soldier seemingly possessed by a heliobus, but not controlled by it.",
+        "Name": "風変わりな幽府武弁",
+        "Desc": "歳陽に取り憑かれたのに、歳陽には支配されていない魔陰の身の兵士。",
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -19846,8 +21557,8 @@ var _monster_2 = {
     "202211004": {
         "_id": 202211004,
         "Key": "Monster_W2_Valkyrie01_01_Config",
-        "Name": "Mara-Struck Warden",
-        "Desc": "A Ten-Lords Commission soldier that has fallen to mara.<br>As long as they are still mortals of flesh and blood, the people of Xianzhou will never be able to escape their fate.",
+        "Name": "{RUBY_B#まおんぶべん}魔陰武弁{RUBY_E#}",
+        "Desc": "魔陰の身に堕ちた十王司武衛。<br>血肉の身である以上、仙舟人は宿命を断じられない。",
         "Stats": {
             "HP": 0.4,
             "ATK": 18.0,
@@ -19894,8 +21605,8 @@ var _monster_2 = {
     "202301001": {
         "_id": 202301001,
         "Key": "Monster_W2_Abomi04_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Shape Shifter",
-        "Desc": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality.",
+        "Name": "{RUBY_B#やくおうひでん}薬王秘伝{RUBY_E#}・{RUBY_B#たんれんしゃ}鍛錬者{RUBY_E#}",
+        "Desc": "古の豊穣の秘儀を復活させ、仙舟人が再び解脱登仙の道へと入るのを渇望する鍛錬者。<br>そして今、彼らの願いは成就した。古の神跡の力を授かり、それを甲冑や武具とし、彼らは長生不死の秘密に触れた。",
         "Stats": {
             "HP": 7.0,
             "ATK": 18.0,
@@ -19950,8 +21661,8 @@ var _monster_2 = {
     "202301002": {
         "_id": 202301002,
         "Key": "Monster_W2_Abomi04_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Shape Shifter",
-        "Desc": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality.",
+        "Name": "{RUBY_B#やくおうひでん}薬王秘伝{RUBY_E#}・{RUBY_B#たんれんしゃ}鍛錬者{RUBY_E#}",
+        "Desc": "古の豊穣の秘儀を復活させ、仙舟人が再び解脱登仙の道へと入るのを渇望する鍛錬者。<br>そして今、彼らの願いは成就した。古の神跡の力を授かり、それを甲冑や武具とし、彼らは長生不死の秘密に触れた。",
         "Stats": {
             "HP": 7.0,
             "ATK": 18.0,
@@ -20006,8 +21717,8 @@ var _monster_2 = {
     "202301003": {
         "_id": 202301003,
         "Key": "Monster_W2_Abomi04_00_Config",
-        "Name": "Differently Appearing Enemy",
-        "Desc": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality.",
+        "Name": "異相を持った敵",
+        "Desc": "古の豊穣の秘儀を復活させ、仙舟人が再び解脱登仙の道へと入るのを渇望する鍛錬者。<br>そして今、彼らの願いは成就した。古の神跡の力を授かり、それを甲冑や武具とし、彼らは長生不死の秘密に触れた。",
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -20059,8 +21770,8 @@ var _monster_2 = {
     "202301004": {
         "_id": 202301004,
         "Key": "Monster_W2_Abomi04_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Shape Shifter",
-        "Desc": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality.",
+        "Name": "{RUBY_B#やくおうひでん}薬王秘伝{RUBY_E#}・{RUBY_B#たんれんしゃ}鍛錬者{RUBY_E#}",
+        "Desc": "古の豊穣の秘儀を復活させ、仙舟人が再び解脱登仙の道へと入るのを渇望する鍛錬者。<br>そして今、彼らの願いは成就した。古の神跡の力を授かり、それを甲冑や武具とし、彼らは長生不死の秘密に触れた。",
         "Stats": {
             "HP": 5.0,
             "ATK": 18.0,
@@ -20115,8 +21826,8 @@ var _monster_2 = {
     "202301005": {
         "_id": 202301005,
         "Key": "Monster_W2_Abomi04_00_Config",
-        "Name": "Yutie",
-        "Desc": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality.",
+        "Name": "浴鉄",
+        "Desc": "古の豊穣の秘儀を復活させ、仙舟人が再び解脱登仙の道へと入るのを渇望する鍛錬者。<br>そして今、彼らの願いは成就した。古の神跡の力を授かり、それを甲冑や武具とし、彼らは長生不死の秘密に触れた。",
         "Stats": {
             "HP": 9.0,
             "ATK": 18.0,
@@ -20171,8 +21882,8 @@ var _monster_2 = {
     "202301006": {
         "_id": 202301006,
         "Key": "Monster_W2_Abomi04_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Shape Shifter",
-        "Desc": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality.",
+        "Name": "{RUBY_B#やくおうひでん}薬王秘伝{RUBY_E#}・{RUBY_B#たんれんしゃ}鍛錬者{RUBY_E#}",
+        "Desc": "古の豊穣の秘儀を復活させ、仙舟人が再び解脱登仙の道へと入るのを渇望する鍛錬者。<br>そして今、彼らの願いは成就した。古の神跡の力を授かり、それを甲冑や武具とし、彼らは長生不死の秘密に触れた。",
         "Stats": {
             "HP": 6.0,
             "ATK": 14.99994,
@@ -20227,8 +21938,8 @@ var _monster_2 = {
     "202301007": {
         "_id": 202301007,
         "Key": "Monster_W2_Abomi04_00_Config",
-        "Name": "Furtive Assassin",
-        "Desc": "An assassin who conceals their presence using the Cloudhymn technique. It is unclear by whom they are sent.",
+        "Name": "隠密な刺客",
+        "Desc": "雲吟の術で姿を隠した刺客。誰が差し向けたのか不明である。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -20280,8 +21991,8 @@ var _monster_2 = {
     "202301008": {
         "_id": 202301008,
         "Key": "Monster_W2_Abomi04_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Shape Shifter",
-        "Desc": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality.",
+        "Name": "{RUBY_B#やくおうひでん}薬王秘伝{RUBY_E#}・{RUBY_B#たんれんしゃ}鍛錬者{RUBY_E#}",
+        "Desc": "古の豊穣の秘儀を復活させ、仙舟人が再び解脱登仙の道へと入るのを渇望する鍛錬者。<br>そして今、彼らの願いは成就した。古の神跡の力を授かり、それを甲冑や武具とし、彼らは長生不死の秘密に触れた。",
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -20333,8 +22044,8 @@ var _monster_2 = {
     "202301009": {
         "_id": 202301009,
         "Key": "Monster_W2_Abomi04_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Shape Shifter",
-        "Desc": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality.",
+        "Name": "{RUBY_B#やくおうひでん}薬王秘伝{RUBY_E#}・{RUBY_B#たんれんしゃ}鍛錬者{RUBY_E#}",
+        "Desc": "古の豊穣の秘儀を復活させ、仙舟人が再び解脱登仙の道へと入るのを渇望する鍛錬者。<br>そして今、彼らの願いは成就した。古の神跡の力を授かり、それを甲冑や武具とし、彼らは長生不死の秘密に触れた。",
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -20386,8 +22097,8 @@ var _monster_2 = {
     "202301010": {
         "_id": 202301010,
         "Key": "Monster_W2_Abomi04_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Shape Shifter",
-        "Desc": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality.",
+        "Name": "{RUBY_B#やくおうひでん}薬王秘伝{RUBY_E#}・{RUBY_B#たんれんしゃ}鍛錬者{RUBY_E#}",
+        "Desc": "古の豊穣の秘儀を復活させ、仙舟人が再び解脱登仙の道へと入るのを渇望する鍛錬者。<br>そして今、彼らの願いは成就した。古の神跡の力を授かり、それを甲冑や武具とし、彼らは長生不死の秘密に触れた。",
         "Stats": {
             "HP": 9.6,
             "ATK": 18.0,
@@ -20439,8 +22150,8 @@ var _monster_2 = {
     "202301011": {
         "_id": 202301011,
         "Key": "Monster_W2_Abomi04_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Shape Shifter",
-        "Desc": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality.",
+        "Name": "{RUBY_B#やくおうひでん}薬王秘伝{RUBY_E#}・{RUBY_B#たんれんしゃ}鍛錬者{RUBY_E#}",
+        "Desc": "古の豊穣の秘儀を復活させ、仙舟人が再び解脱登仙の道へと入るのを渇望する鍛錬者。<br>そして今、彼らの願いは成就した。古の神跡の力を授かり、それを甲冑や武具とし、彼らは長生不死の秘密に触れた。",
         "Stats": {
             "HP": 12.0,
             "ATK": 10.00008,
@@ -20492,8 +22203,8 @@ var _monster_2 = {
     "202301012": {
         "_id": 202301012,
         "Key": "Monster_W2_Abomi04_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Shape Shifter",
-        "Desc": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality.",
+        "Name": "{RUBY_B#やくおうひでん}薬王秘伝{RUBY_E#}・{RUBY_B#たんれんしゃ}鍛錬者{RUBY_E#}",
+        "Desc": "古の豊穣の秘儀を復活させ、仙舟人が再び解脱登仙の道へと入るのを渇望する鍛錬者。<br>そして今、彼らの願いは成就した。古の神跡の力を授かり、それを甲冑や武具とし、彼らは長生不死の秘密に触れた。",
         "Stats": {
             "HP": 11.5,
             "ATK": 18.0,
@@ -20545,8 +22256,8 @@ var _monster_2 = {
     "202301101": {
         "_id": 202301101,
         "Key": "Monster_W2_Abomi04_00_Config_RLElite",
-        "Name": "Disciples of Sanctus Medicus: Shape Shifter (Bug)",
-        "Desc": "A false projection produced by compromised codes. The original referent entity is a cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality.",
+        "Name": "薬王秘伝・鍛錬者（バグ）",
+        "Desc": "コードが影響を受けた後、バグってしまった投影。古の豊穣の秘儀を復活させ、仙舟人が再び解脱登仙の道へと入るのを渇望する鍛錬者を参照している。<br>そして今、彼らの願いは成就した。古の神跡の力を授かり、それを甲冑や武具とし、彼らは長生不死の秘密に触れた。",
         "Stats": {
             "HP": 17.0,
             "ATK": 18.0,
@@ -20604,8 +22315,8 @@ var _monster_2 = {
     "202302001": {
         "_id": 202302001,
         "Key": "Monster_W2_Beast02_00_Config",
-        "Name": "Abundance Sprite: Malefic Ape",
-        "Desc": "An ape as tall as mountainous boulders with terrifying might.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with their esoteric techniques. Malefic Apes were one of the war beasts that walked alongside the army.",
+        "Name": "{RUBY_B#ほうじょう}豊穣{RUBY_E#}の{RUBY_B#れいじゅう}霊獣{RUBY_E#}・{RUBY_B#ちょうゆう}長右{RUBY_E#}",
+        "Desc": "岩のように大きな蒼猿、凄まじい破壊力を持つ。<br>前回「建木」が佇立した時、仙舟人は奇術で数多の珍獣を育種した。その中で、長右は従軍する戦獣の1つである。",
         "Stats": {
             "HP": 9.0,
             "ATK": 22.5,
@@ -20665,8 +22376,8 @@ var _monster_2 = {
     "202302002": {
         "_id": 202302002,
         "Key": "Monster_W2_Beast02_00_Config",
-        "Name": "Phantylia",
-        "Desc": "The form craved by the members of Disciples of Sanctus Medicus, a secret organization that worships Abundance. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses.",
+        "Name": "幻朧",
+        "Desc": "豊穣を信仰・崇拝する秘密組織。「薬王秘伝」の信徒が渇望する形態、人間性の重荷を捨て、仙道で再構築した真体。<br>太古の時代、求道者たちは建木を通して玄旨を悟り、「仙人」を自称した。「仙人」たちは自在に振舞い、血肉と衆生を泥土のように塑形する。数え切れないほどの変化を経て、やがて自身の本来の姿を忘れてしまった。",
         "Stats": {
             "HP": 9.0,
             "ATK": 18.0,
@@ -20723,8 +22434,8 @@ var _monster_2 = {
     "202302003": {
         "_id": 202302003,
         "Key": "Monster_W2_Beast02_00_Config",
-        "Name": "Abundance Sprite: Malefic Ape",
-        "Desc": "An ape as tall as mountainous boulders with terrifying might.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with their esoteric techniques. Malefic Apes were one of the war beasts that walked alongside the army.",
+        "Name": "{RUBY_B#ほうじょう}豊穣{RUBY_E#}の{RUBY_B#れいじゅう}霊獣{RUBY_E#}・{RUBY_B#ちょうゆう}長右{RUBY_E#}",
+        "Desc": "岩のように大きな蒼猿、凄まじい破壊力を持つ。<br>前回「建木」が佇立した時、仙舟人は奇術で数多の珍獣を育種した。その中で、長右は従軍する戦獣の1つである。",
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -20781,8 +22492,8 @@ var _monster_2 = {
     "202302004": {
         "_id": 202302004,
         "Key": "Monster_W2_Beast02_00_Config",
-        "Name": "Abundance Sprite: Malefic Ape",
-        "Desc": "An ape as tall as mountainous boulders with terrifying might.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with their esoteric techniques. Malefic Apes were one of the war beasts that walked alongside the army.",
+        "Name": "{RUBY_B#ほうじょう}豊穣{RUBY_E#}の{RUBY_B#れいじゅう}霊獣{RUBY_E#}・{RUBY_B#ちょうゆう}長右{RUBY_E#}",
+        "Desc": "岩のように大きな蒼猿、凄まじい破壊力を持つ。<br>前回「建木」が佇立した時、仙舟人は奇術で数多の珍獣を育種した。その中で、長右は従軍する戦獣の1つである。",
         "Stats": {
             "HP": 9.6,
             "ATK": 18.0,
@@ -20839,8 +22550,8 @@ var _monster_2 = {
     "202302005": {
         "_id": 202302005,
         "Key": "Monster_W2_Beast02_00_Config",
-        "Name": "Abundance Sprite: Malefic Ape",
-        "Desc": "An ape as tall as mountainous boulders with terrifying might.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with their esoteric techniques. Malefic Apes were one of the war beasts that walked alongside the army.",
+        "Name": "{RUBY_B#ほうじょう}豊穣{RUBY_E#}の{RUBY_B#れいじゅう}霊獣{RUBY_E#}・{RUBY_B#ちょうゆう}長右{RUBY_E#}",
+        "Desc": "岩のように大きな蒼猿、凄まじい破壊力を持つ。<br>前回「建木」が佇立した時、仙舟人は奇術で数多の珍獣を育種した。その中で、長右は従軍する戦獣の1つである。",
         "Stats": {
             "HP": 10.0,
             "ATK": 12.00006,
@@ -20897,8 +22608,8 @@ var _monster_2 = {
     "202302006": {
         "_id": 202302006,
         "Key": "Monster_W2_Beast02_00_Config",
-        "Name": "Abundance Sprite: Malefic Ape",
-        "Desc": "An ape as tall as mountainous boulders with terrifying might.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with their esoteric techniques. Malefic Apes were one of the war beasts that walked alongside the army.",
+        "Name": "{RUBY_B#ほうじょう}豊穣{RUBY_E#}の{RUBY_B#れいじゅう}霊獣{RUBY_E#}・{RUBY_B#ちょうゆう}長右{RUBY_E#}",
+        "Desc": "岩のように大きな蒼猿、凄まじい破壊力を持つ。<br>前回「建木」が佇立した時、仙舟人は奇術で数多の珍獣を育種した。その中で、長右は従軍する戦獣の1つである。",
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -20955,8 +22666,8 @@ var _monster_2 = {
     "202302007": {
         "_id": 202302007,
         "Key": "Monster_W2_Beast02_00_Config",
-        "Name": "Abundance Sprite: Malefic Ape",
-        "Desc": "An ape as tall as mountainous boulders with terrifying might.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with their esoteric techniques. Malefic Apes were one of the war beasts that walked alongside the army.",
+        "Name": "{RUBY_B#ほうじょう}豊穣{RUBY_E#}の{RUBY_B#れいじゅう}霊獣{RUBY_E#}・{RUBY_B#ちょうゆう}長右{RUBY_E#}",
+        "Desc": "岩のように大きな蒼猿、凄まじい破壊力を持つ。<br>前回「建木」が佇立した時、仙舟人は奇術で数多の珍獣を育種した。その中で、長右は従軍する戦獣の1つである。",
         "Stats": {
             "HP": 12.5,
             "ATK": 18.0,
@@ -21016,8 +22727,8 @@ var _monster_2 = {
     "202302008": {
         "_id": 202302008,
         "Key": "Monster_W2_Beast02_00_Config",
-        "Name": "Abundance Sprite: Malefic Ape",
-        "Desc": "An ape as tall as mountainous boulders with terrifying might.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with their esoteric techniques. Malefic Apes were one of the war beasts that walked alongside the army.",
+        "Name": "{RUBY_B#ほうじょう}豊穣{RUBY_E#}の{RUBY_B#れいじゅう}霊獣{RUBY_E#}・{RUBY_B#ちょうゆう}長右{RUBY_E#}",
+        "Desc": "岩のように大きな蒼猿、凄まじい破壊力を持つ。<br>前回「建木」が佇立した時、仙舟人は奇術で数多の珍獣を育種した。その中で、長右は従軍する戦獣の1つである。",
         "Stats": {
             "HP": 5.5,
             "ATK": 18.0,
@@ -21077,8 +22788,8 @@ var _monster_2 = {
     "202303001": {
         "_id": 202303001,
         "Key": "Monster_XP_Elite02_02_Config",
-        "Name": "The Ascended",
-        "Desc": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses.",
+        "Name": "{RUBY_B#しょうろてんにん}承露天人{RUBY_E#}",
+        "Desc": "「薬王秘伝」の信徒が渇望する形態、人間性の重荷を捨て、仙道で再構築した真体。<br>太古の時代、求道者たちは建木を通して玄旨を悟り、「仙人」を自称した。「仙人」たちは自在に振舞い、血肉と衆生を泥土のように塑形する。数え切れないほどの変化を経て、やがて自身の本来の姿を忘れてしまった。",
         "Stats": {
             "HP": 30.0,
             "ATK": 18.0,
@@ -21131,8 +22842,8 @@ var _monster_2 = {
     "202303002": {
         "_id": 202303002,
         "Key": "Monster_XP_Elite02_02_Config",
-        "Name": "Master of the Disciples of Sanctus Medicus",
-        "Desc": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses.",
+        "Name": "薬王秘伝・魁首",
+        "Desc": "「薬王秘伝」の信徒が渇望する形態、人間性の重荷を捨て、仙道で再構築した真体。<br>太古の時代、求道者たちは建木を通して玄旨を悟り、「仙人」を自称した。「仙人」たちは自在に振舞い、血肉と衆生を泥土のように塑形する。数え切れないほどの変化を経て、やがて自身の本来の姿を忘れてしまった。",
         "Stats": {
             "HP": 11.0,
             "ATK": 14.99994,
@@ -21188,8 +22899,8 @@ var _monster_2 = {
     "202303003": {
         "_id": 202303003,
         "Key": "Monster_XP_Elite02_02_Config",
-        "Name": "Phantylia",
-        "Desc": "The form craved by the members of Disciples of Sanctus Medicus, a secret organization that worships Abundance. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses.",
+        "Name": "幻朧",
+        "Desc": "豊穣を信仰・崇拝する秘密組織。「薬王秘伝」の信徒が渇望する形態、人間性の重荷を捨て、仙道で再構築した真体。<br>太古の時代、求道者たちは建木を通して玄旨を悟り、「仙人」を自称した。「仙人」たちは自在に振舞い、血肉と衆生を泥土のように塑形する。数え切れないほどの変化を経て、やがて自身の本来の姿を忘れてしまった。",
         "Stats": {
             "HP": 9.0,
             "ATK": 18.0,
@@ -21242,8 +22953,8 @@ var _monster_2 = {
     "202303004": {
         "_id": 202303004,
         "Key": "Monster_XP_Elite02_02_Config",
-        "Name": "Master of the Disciples of Sanctus Medicus",
-        "Desc": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses.",
+        "Name": "薬王秘伝・魁首",
+        "Desc": "「薬王秘伝」の信徒が渇望する形態、人間性の重荷を捨て、仙道で再構築した真体。<br>太古の時代、求道者たちは建木を通して玄旨を悟り、「仙人」を自称した。「仙人」たちは自在に振舞い、血肉と衆生を泥土のように塑形する。数え切れないほどの変化を経て、やがて自身の本来の姿を忘れてしまった。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -21296,8 +23007,8 @@ var _monster_2 = {
     "202303005": {
         "_id": 202303005,
         "Key": "Monster_XP_Elite02_02_Config",
-        "Name": "The Ascended",
-        "Desc": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses.",
+        "Name": "{RUBY_B#しょうろてんにん}承露天人{RUBY_E#}",
+        "Desc": "「薬王秘伝」の信徒が渇望する形態、人間性の重荷を捨て、仙道で再構築した真体。<br>太古の時代、求道者たちは建木を通して玄旨を悟り、「仙人」を自称した。「仙人」たちは自在に振舞い、血肉と衆生を泥土のように塑形する。数え切れないほどの変化を経て、やがて自身の本来の姿を忘れてしまった。",
         "Stats": {
             "HP": 5.5,
             "ATK": 18.0,
@@ -21350,8 +23061,8 @@ var _monster_2 = {
     "202303006": {
         "_id": 202303006,
         "Key": "Monster_XP_Elite02_02_Config",
-        "Name": "The Ascended",
-        "Desc": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses.",
+        "Name": "{RUBY_B#しょうろてんにん}承露天人{RUBY_E#}",
+        "Desc": "「薬王秘伝」の信徒が渇望する形態、人間性の重荷を捨て、仙道で再構築した真体。<br>太古の時代、求道者たちは建木を通して玄旨を悟り、「仙人」を自称した。「仙人」たちは自在に振舞い、血肉と衆生を泥土のように塑形する。数え切れないほどの変化を経て、やがて自身の本来の姿を忘れてしまった。",
         "Stats": {
             "HP": 8.0,
             "ATK": 18.0,
@@ -21404,8 +23115,8 @@ var _monster_2 = {
     "202303007": {
         "_id": 202303007,
         "Key": "Monster_XP_Elite02_02_Config",
-        "Name": "The Ascended",
-        "Desc": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses.",
+        "Name": "{RUBY_B#しょうろてんにん}承露天人{RUBY_E#}",
+        "Desc": "「薬王秘伝」の信徒が渇望する形態、人間性の重荷を捨て、仙道で再構築した真体。<br>太古の時代、求道者たちは建木を通して玄旨を悟り、「仙人」を自称した。「仙人」たちは自在に振舞い、血肉と衆生を泥土のように塑形する。数え切れないほどの変化を経て、やがて自身の本来の姿を忘れてしまった。",
         "Stats": {
             "HP": 35.0,
             "ATK": 14.99994,
@@ -21458,8 +23169,8 @@ var _monster_2 = {
     "202303008": {
         "_id": 202303008,
         "Key": "Monster_XP_Elite02_02_Config",
-        "Name": "The Ascended",
-        "Desc": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses.",
+        "Name": "{RUBY_B#しょうろてんにん}承露天人{RUBY_E#}",
+        "Desc": "「薬王秘伝」の信徒が渇望する形態、人間性の重荷を捨て、仙道で再構築した真体。<br>太古の時代、求道者たちは建木を通して玄旨を悟り、「仙人」を自称した。「仙人」たちは自在に振舞い、血肉と衆生を泥土のように塑形する。数え切れないほどの変化を経て、やがて自身の本来の姿を忘れてしまった。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -21512,8 +23223,8 @@ var _monster_2 = {
     "202303009": {
         "_id": 202303009,
         "Key": "Monster_XP_Elite02_02_Config",
-        "Name": "The Ascended",
-        "Desc": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses.",
+        "Name": "{RUBY_B#しょうろてんにん}承露天人{RUBY_E#}",
+        "Desc": "「薬王秘伝」の信徒が渇望する形態、人間性の重荷を捨て、仙道で再構築した真体。<br>太古の時代、求道者たちは建木を通して玄旨を悟り、「仙人」を自称した。「仙人」たちは自在に振舞い、血肉と衆生を泥土のように塑形する。数え切れないほどの変化を経て、やがて自身の本来の姿を忘れてしまった。",
         "Stats": {
             "HP": 5.5,
             "ATK": 18.0,
@@ -21569,8 +23280,8 @@ var _monster_2 = {
     "202303010": {
         "_id": 202303010,
         "Key": "Monster_XP_Elite02_02_Config",
-        "Name": "The Ascended",
-        "Desc": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses.",
+        "Name": "{RUBY_B#しょうろてんにん}承露天人{RUBY_E#}",
+        "Desc": "「薬王秘伝」の信徒が渇望する形態、人間性の重荷を捨て、仙道で再構築した真体。<br>太古の時代、求道者たちは建木を通して玄旨を悟り、「仙人」を自称した。「仙人」たちは自在に振舞い、血肉と衆生を泥土のように塑形する。数え切れないほどの変化を経て、やがて自身の本来の姿を忘れてしまった。",
         "Stats": {
             "HP": 7.0,
             "ATK": 18.0,
@@ -21626,8 +23337,8 @@ var _monster_2 = {
     "202303011": {
         "_id": 202303011,
         "Key": "Monster_XP_Elite02_02_Config",
-        "Name": "The Ascended",
-        "Desc": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses.",
+        "Name": "{RUBY_B#しょうろてんにん}承露天人{RUBY_E#}",
+        "Desc": "「薬王秘伝」の信徒が渇望する形態、人間性の重荷を捨て、仙道で再構築した真体。<br>太古の時代、求道者たちは建木を通して玄旨を悟り、「仙人」を自称した。「仙人」たちは自在に振舞い、血肉と衆生を泥土のように塑形する。数え切れないほどの変化を経て、やがて自身の本来の姿を忘れてしまった。",
         "Stats": {
             "HP": 19.5,
             "ATK": 18.0,
@@ -21680,8 +23391,8 @@ var _monster_2 = {
     "202401001": {
         "_id": 202401001,
         "Key": "Monster_W2_Xuanlu_00_Config",
-        "Name": "Abundant Ebon Deer",
-        "Desc": "An auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again.",
+        "Name": "{RUBY_B#ほうじょう}豊穣{RUBY_E#}の{RUBY_B#げんろく}玄鹿{RUBY_E#}",
+        "Desc": "「建木」から生まれ、その根を守る霊瑞の獣。足跡は、潤いに満ち、梢が生い茂る。<br>自ら滅びた太古の時代の戦争のあと、「建木」は星核による修復で再度成長を始めた。当時、仙人たちが創った奇妙な獣たちが昔の夢から目覚めたように往来する。",
         "Stats": {
             "HP": 11.0,
             "ATK": 14.99994,
@@ -21759,8 +23470,8 @@ var _monster_2 = {
     "202401002": {
         "_id": 202401002,
         "Key": "Monster_W2_Xuanlu_00_Config",
-        "Name": "Abundant Ebon Deer",
-        "Desc": "An auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again.",
+        "Name": "{RUBY_B#ほうじょう}豊穣{RUBY_E#}の{RUBY_B#げんろく}玄鹿{RUBY_E#}",
+        "Desc": "「建木」から生まれ、その根を守る霊瑞の獣。足跡は、潤いに満ち、梢が生い茂る。<br>自ら滅びた太古の時代の戦争のあと、「建木」は星核による修復で再度成長を始めた。当時、仙人たちが創った奇妙な獣たちが昔の夢から目覚めたように往来する。",
         "Stats": {
             "HP": 11.0,
             "ATK": 14.99994,
@@ -21835,11 +23546,276 @@ var _monster_2 = {
         ],
         "Csxylic": "SCTheXianzhouLuofu/2024010"
     },
+    "202401005": {
+        "_id": 202401005,
+        "Key": "Monster_W2_Xuanlu_00_Config",
+        "Name": "{RUBY_B#ほうじょう}豊穣{RUBY_E#}の{RUBY_B#げんろく}玄鹿{RUBY_E#}",
+        "Desc": "「建木」から生まれ、その根を守る霊瑞の獣。足跡は、潤いに満ち、梢が生い茂る。<br>自ら滅びた太古の時代の戦争のあと、「建木」は星核による修復で再度成長を始めた。当時、仙人たちが創った奇妙な獣たちが昔の夢から目覚めたように往来する。",
+        "Stats": {
+            "HP": 90.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 115.0,
+            "Stance": 14.0
+        },
+        "StatsExtra": {
+            "SPD": 125.0,
+            "Stance": 36.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.4,
+            "Wind": 0.4,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Confine": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202401001,
+                    202401002,
+                    202401005,
+                    202401006
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    202401001,
+                    202401002,
+                    202401003,
+                    202401004,
+                    202401005,
+                    202401006,
+                    202401007,
+                    202401008
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    202401009
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2024010.png",
+        "Figure": "monsterfigure/Monster_2024010.png",
+        "Status": [
+            220221001,
+            220240101
+        ],
+        "AllSkills": [
+            202401001,
+            202401002,
+            202401005,
+            202401006,
+            202401003,
+            202401004,
+            202401007,
+            202401008
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2024010"
+    },
+    "202401006": {
+        "_id": 202401006,
+        "Key": "Monster_W2_Xuanlu_00_Config",
+        "Name": "{RUBY_B#ほうじょう}豊穣{RUBY_E#}の{RUBY_B#げんろく}玄鹿{RUBY_E#}",
+        "Desc": "「建木」から生まれ、その根を守る霊瑞の獣。足跡は、潤いに満ち、梢が生い茂る。<br>自ら滅びた太古の時代の戦争のあと、「建木」は星核による修復で再度成長を始めた。当時、仙人たちが創った奇妙な獣たちが昔の夢から目覚めたように往来する。",
+        "Stats": {
+            "HP": 75.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 115.0,
+            "Stance": 14.0
+        },
+        "StatsExtra": {
+            "SPD": 125.0,
+            "Stance": 36.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.4,
+            "Wind": 0.4,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Confine": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202401001,
+                    202401002,
+                    202401005,
+                    202401006
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    202401001,
+                    202401002,
+                    202401003,
+                    202401004,
+                    202401005,
+                    202401006,
+                    202401007,
+                    202401008
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    202401009
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2024010.png",
+        "Figure": "monsterfigure/Monster_2024010.png",
+        "Status": [
+            220221001,
+            220240101
+        ],
+        "AllSkills": [
+            202401001,
+            202401002,
+            202401005,
+            202401006,
+            202401003,
+            202401004,
+            202401007,
+            202401008
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2024010"
+    },
+    "202401201": {
+        "_id": 202401201,
+        "Key": "Monster_W2_Xuanlu_10_Config_RL",
+        "Name": "豊穣の玄鹿（スペック）",
+        "Desc": "コードが影響を受けた後の正常な投影。「建木」から生まれ、その根を守る霊瑞の獣を参照にしている。足跡は、潤いに満ち、梢が生い茂る。<br>自ら滅びた太古の時代の戦争のあと、「建木」は星核による修復で再度成長を始めた。当時、仙人たちが創った奇妙な獣たちが昔の夢から目覚めたように往来する。",
+        "Stats": {
+            "HP": 20.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 14.0
+        },
+        "StatsExtra": {
+            "SPD": 96.0,
+            "Stance": 36.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Confine": 0.5
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202401205,
+                    202401206,
+                    202401210,
+                    202401211,
+                    202401214
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    202401205,
+                    202401206,
+                    202401209,
+                    202401212,
+                    202401214
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    202401205,
+                    202401206,
+                    202401207,
+                    202401208,
+                    202401213,
+                    202401214
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    202401201,
+                    202401202,
+                    202401203,
+                    202401204
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2024010.png",
+        "Figure": "monsterfigure/Monster_2024010.png",
+        "Status": [
+            220221001,
+            220240101,
+            220240111,
+            220240112
+        ],
+        "AllSkills": [
+            202401205,
+            202401206,
+            202401210,
+            202401211,
+            202401214,
+            202401209,
+            202401212,
+            202401207,
+            202401208,
+            202401213
+        ],
+        "IsComplete": 1
+    },
     "202401401": {
         "_id": 202401401,
         "Key": "Monster_W2_Xuanlu_00_Config_Pingshu",
-        "Name": "Abundant Ebon Deer",
-        "Desc": "An auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again.",
+        "Name": "豊穣の玄鹿",
+        "Desc": "「建木」から生まれ、その根を守る霊瑞の獣。足跡は、潤いに満ち、梢が生い茂る。<br>自ら滅びた太古の時代の戦争のあと、「建木」は星核による修復で再度成長を始めた。当時、仙人たちが創った奇妙な獣たちが昔の夢から目覚めたように往来する。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -21899,11 +23875,147 @@ var _monster_2 = {
             202401408
         ]
     },
+    "202401403": {
+        "_id": 202401403,
+        "Key": "Monster_W2_Xuanlu_00_Config_Pingshu",
+        "Name": "豊穣の玄鹿",
+        "Desc": "「建木」から生まれ、その根を守る霊瑞の獣。足跡は、潤いに満ち、梢が生い茂る。<br>自ら滅びた太古の時代の戦争のあと、「建木」は星核による修復で再度成長を始めた。当時、仙人たちが創った奇妙な獣たちが昔の夢から目覚めたように往来する。",
+        "Stats": {
+            "HP": 90.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 115.0,
+            "Stance": 14.0
+        },
+        "StatsExtra": {
+            "SPD": 125.0,
+            "Stance": 36.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.4,
+            "Wind": 0.4,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Confine": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202401401,
+                    202401402,
+                    202401403,
+                    202401404,
+                    202401405,
+                    202401406,
+                    202401407,
+                    202401408
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    202401409
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_2024010.png",
+        "Figure": "monsterfigure/Monster_2024010.png",
+        "AllSkills": [
+            202401401,
+            202401402,
+            202401403,
+            202401404,
+            202401405,
+            202401406,
+            202401407,
+            202401408
+        ]
+    },
+    "202401404": {
+        "_id": 202401404,
+        "Key": "Monster_W2_Xuanlu_00_Config_Pingshu",
+        "Name": "豊穣の玄鹿",
+        "Desc": "「建木」から生まれ、その根を守る霊瑞の獣。足跡は、潤いに満ち、梢が生い茂る。<br>自ら滅びた太古の時代の戦争のあと、「建木」は星核による修復で再度成長を始めた。当時、仙人たちが創った奇妙な獣たちが昔の夢から目覚めたように往来する。",
+        "Stats": {
+            "HP": 75.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 115.0,
+            "Stance": 14.0
+        },
+        "StatsExtra": {
+            "SPD": 125.0,
+            "Stance": 36.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.4,
+            "Wind": 0.4,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Confine": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202401401,
+                    202401402,
+                    202401403,
+                    202401404,
+                    202401405,
+                    202401406,
+                    202401407,
+                    202401408
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    202401409
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_2024010.png",
+        "Figure": "monsterfigure/Monster_2024010.png",
+        "AllSkills": [
+            202401401,
+            202401402,
+            202401403,
+            202401404,
+            202401405,
+            202401406,
+            202401407,
+            202401408
+        ]
+    },
     "202402001": {
         "_id": 202402001,
         "Key": "Monster_W2_Fuyan_00_Config",
-        "Name": "Cirrus",
-        "Desc": "A fragment of the great heliobus, Ignamar. Gather the numerous fragments of the heliobus to recreate Ignamar's spirit.",
+        "Name": "{RUBY_B#ふえん}浮煙{RUBY_E#}",
+        "Desc": "大歳陽「燎原」の欠片。多くの歳陽の欠片を融合し、「燎原」の気迫をこの世に再現しようとしている。",
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -21944,8 +24056,8 @@ var _monster_2 = {
     "202402002": {
         "_id": 202402002,
         "Key": "Monster_W2_Fuyan_00_Config",
-        "Name": "Cirrus",
-        "Desc": "A fragment of the great heliobus, Ignamar. Gather the numerous fragments of the heliobus to recreate Ignamar's spirit.",
+        "Name": "{RUBY_B#ふえん}浮煙{RUBY_E#}",
+        "Desc": "大歳陽「燎原」の欠片。多くの歳陽の欠片を融合し、「燎原」の気迫をこの世に再現しようとしている。",
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -21983,8 +24095,8 @@ var _monster_2 = {
     "202402003": {
         "_id": 202402003,
         "Key": "Monster_W2_Fuyan_00_Config",
-        "Name": "Cirrus",
-        "Desc": "A fragment of the great heliobus, Ignamar. Gather the numerous fragments of the heliobus to recreate Ignamar's spirit.",
+        "Name": "{RUBY_B#ふえん}浮煙{RUBY_E#}",
+        "Desc": "大歳陽「燎原」の欠片。多くの歳陽の欠片を融合し、「燎原」の気迫をこの世に再現しようとしている。",
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -22022,8 +24134,8 @@ var _monster_2 = {
     "202402004": {
         "_id": 202402004,
         "Key": "Monster_W2_Fuyan_00_Config",
-        "Name": "Cirrus",
-        "Desc": "A fragment of the great heliobus, Ignamar. Gather the numerous fragments of the heliobus to recreate Ignamar's spirit.",
+        "Name": "{RUBY_B#ふえん}浮煙{RUBY_E#}",
+        "Desc": "大歳陽「燎原」の欠片。多くの歳陽の欠片を融合し、「燎原」の気迫をこの世に再現しようとしている。",
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -22058,11 +24170,92 @@ var _monster_2 = {
         ],
         "Csxylic": "SCTheXianzhouLuofu/2024020"
     },
+    "202402005": {
+        "_id": 202402005,
+        "Key": "Monster_W2_Fuyan_00_Config",
+        "Name": "{RUBY_B#ふえん}浮煙{RUBY_E#}",
+        "Desc": "大歳陽「燎原」の欠片。多くの歳陽の欠片を融合し、「燎原」の気迫をこの世に再現しようとしている。",
+        "Stats": {
+            "HP": 15.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 0.0
+        },
+        "Weak": [],
+        "RESBase": {},
+        "StatusRESBase": 1.0,
+        "DebuffRES": {
+            "CTRL": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202402001,
+                    202402002,
+                    202402003
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2024020.png",
+        "Figure": "monsterfigure/Monster_2024020.png",
+        "AllSkills": [
+            202402001,
+            202402002,
+            202402003
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2024020"
+    },
+    "202402006": {
+        "_id": 202402006,
+        "Key": "Monster_W2_Fuyan_00_Config",
+        "Name": "{RUBY_B#ふえん}浮煙{RUBY_E#}",
+        "Desc": "大歳陽「燎原」の欠片。多くの歳陽の欠片を融合し、「燎原」の気迫をこの世に再現しようとしている。",
+        "Stats": {
+            "HP": 15.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 0.0
+        },
+        "StatsExtra": {
+            "SPD": 200.0
+        },
+        "Weak": [],
+        "RESBase": {},
+        "StatusRESBase": 1.0,
+        "DebuffRES": {
+            "CTRL": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202402001,
+                    202402002,
+                    202402003
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2024020.png",
+        "Figure": "monsterfigure/Monster_2024020.png",
+        "AllSkills": [
+            202402001,
+            202402002,
+            202402003
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2024020"
+    },
     "300101001": {
         "_id": 300101001,
         "Key": "Monster_W2_Mecha01_02_Config",
-        "Name": "Cocona's Kindness",
-        "Desc": "A kind heart that once believed that everyone is good by nature.",
+        "Name": "ココナの善良",
+        "Desc": "善良な心。かつて人の性は生まれながらに善であると信じていた。",
         "Stats": {
             "HP": 1.0,
             "ATK": 18.0,
@@ -22105,8 +24298,8 @@ var _monster_2 = {
     "300101002": {
         "_id": 300101002,
         "Key": "Monster_W2_Mecha01_02_Config",
-        "Name": "Dreamjolt Troupe's Spring Loader",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a tool for entertainment on the card table, it is still shaking the dice in its hands after losing control, continuing the game in a crude manner.",
+        "Name": "ナイトメア{RUBY_B#げきだん}劇団{RUBY_E#}・スプリングディーラー",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来はテーブルの上の娯楽道具だった。暴走した後もサイコロを振り続け、荒々しくゲームを続けている。",
         "Stats": {
             "HP": 1.5,
             "ATK": 14.99994,
@@ -22152,8 +24345,8 @@ var _monster_2 = {
     "300101003": {
         "_id": 300101003,
         "Key": "Monster_W2_Mecha01_02_Config",
-        "Name": "Dreamjolt Troupe's Spring Loader",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a tool for entertainment on the card table, it is still shaking the dice in its hands after losing control, continuing the game in a crude manner.",
+        "Name": "ナイトメア{RUBY_B#げきだん}劇団{RUBY_E#}・スプリングディーラー",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来はテーブルの上の娯楽道具だった。暴走した後もサイコロを振り続け、荒々しくゲームを続けている。",
         "Stats": {
             "HP": 3.25,
             "ATK": 18.0,
@@ -22199,8 +24392,8 @@ var _monster_2 = {
     "300101004": {
         "_id": 300101004,
         "Key": "Monster_W2_Mecha01_02_Config",
-        "Name": "Dreamjolt Troupe's Spring Loader",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a tool for entertainment on the card table, it is still shaking the dice in its hands after losing control, continuing the game in a crude manner.",
+        "Name": "ナイトメア{RUBY_B#げきだん}劇団{RUBY_E#}・スプリングディーラー",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来はテーブルの上の娯楽道具だった。暴走した後もサイコロを振り続け、荒々しくゲームを続けている。",
         "Stats": {
             "HP": 0.5,
             "ATK": 18.0,
@@ -22246,8 +24439,8 @@ var _monster_2 = {
     "300102001": {
         "_id": 300102001,
         "Key": "Monster_XP_Minion01_04_Config",
-        "Name": "Cocona's Honesty",
-        "Desc": "A soul of honesty, who that once believed that sincerity given would be sincerity returned.",
+        "Name": "ココナの誠実",
+        "Desc": "誠実な心。かつて誠実を以って他人に接すれば、他人も誠実を以って返事するであろうと信じていた。",
         "Stats": {
             "HP": 1.0,
             "ATK": 18.0,
@@ -22287,8 +24480,8 @@ var _monster_2 = {
     "300102002": {
         "_id": 300102002,
         "Key": "Monster_XP_Minion01_04_Config",
-        "Name": "Dreamjolt Troupe's Birdskull",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a prop in the theater, it is still performing the farce on the stage after losing control, bringing cacophonic dance steps to every direction.",
+        "Name": "ナイトメア{RUBY_B#げきだん}劇団{RUBY_E#}・{RUBY_B#おど}踊{RUBY_E#}る{RUBY_B#かめん}仮面{RUBY_E#}の{RUBY_B#とり}鳥{RUBY_E#}",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来は劇中の演出道具だった。暴走した後も舞台の上で茶番劇を演じ、至る所でその混乱のステップを踏んでいる。",
         "Stats": {
             "HP": 1.5,
             "ATK": 14.99994,
@@ -22328,8 +24521,8 @@ var _monster_2 = {
     "300102003": {
         "_id": 300102003,
         "Key": "Monster_XP_Minion01_04_Config",
-        "Name": "Dreamjolt Troupe's Birdskull",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a prop in the theater, it is still performing the farce on the stage after losing control, bringing cacophonic dance steps to every direction.",
+        "Name": "ナイトメア{RUBY_B#げきだん}劇団{RUBY_E#}・{RUBY_B#おど}踊{RUBY_E#}る{RUBY_B#かめん}仮面{RUBY_E#}の{RUBY_B#とり}鳥{RUBY_E#}",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来は劇中の演出道具だった。暴走した後も舞台の上で茶番劇を演じ、至る所でその混乱のステップを踏んでいる。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -22369,8 +24562,8 @@ var _monster_2 = {
     "300102004": {
         "_id": 300102004,
         "Key": "Monster_XP_Minion01_04_Config",
-        "Name": "Dreamjolt Troupe's Birdskull",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a prop in the theater, it is still performing the farce on the stage after losing control, bringing cacophonic dance steps to every direction.",
+        "Name": "ナイトメア{RUBY_B#げきだん}劇団{RUBY_E#}・{RUBY_B#おど}踊{RUBY_E#}る{RUBY_B#かめん}仮面{RUBY_E#}の{RUBY_B#とり}鳥{RUBY_E#}",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来は劇中の演出道具だった。暴走した後も舞台の上で茶番劇を演じ、至る所でその混乱のステップを踏んでいる。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -22410,8 +24603,8 @@ var _monster_2 = {
     "300201001": {
         "_id": 300201001,
         "Key": "Monster_W3_TV_00_Config",
-        "Name": "Dreamjolt Troupe's Mr. Domescreen (Projection)",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally an entertainer in TV shows, it is still portraying its ever-changing roles after losing control and continues to bring surprises or scares to the audience.",
+        "Name": "ナイトメア劇団・Mr.円幕（投影）",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来はテレビ番組の中のエンターテイナーだった。暴走した後も千変万化な役を演じ、観客に思わぬ喜びまたは恐怖をもたらしている。",
         "Stats": {
             "HP": 100.0,
             "ATK": 5.9999400000000005,
@@ -22467,8 +24660,8 @@ var _monster_2 = {
     "300201002": {
         "_id": 300201002,
         "Key": "Monster_W3_TV_00_Config",
-        "Name": "Dreamjolt Troupe's Mr. Domescreen (Projection)",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally an entertainer in TV shows, it is still portraying its ever-changing roles after losing control and continues to bring surprises or scares to the audience.",
+        "Name": "ナイトメア劇団・Mr.円幕（投影）",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来はテレビ番組の中のエンターテイナーだった。暴走した後も千変万化な役を演じ、観客に思わぬ喜びまたは恐怖をもたらしている。",
         "Stats": {
             "HP": 100.0,
             "ATK": 5.9999400000000005,
@@ -22524,8 +24717,8 @@ var _monster_2 = {
     "300201003": {
         "_id": 300201003,
         "Key": "Monster_W3_TV_00_Config",
-        "Name": "Cocona's Purity",
-        "Desc": "A kind heart that once believed that no matter how much suffering was in this world, the ending would always be a happy one.",
+        "Name": "ココナの純真",
+        "Desc": "純真な心。かつてこの世に苦難がいくら存在しようと、必ずいい結末を迎えられるのだと信じていた。",
         "Stats": {
             "HP": 2.75,
             "ATK": 18.0,
@@ -22575,8 +24768,8 @@ var _monster_2 = {
     "300201004": {
         "_id": 300201004,
         "Key": "Monster_W3_TV_00_Config",
-        "Name": "Dreamjolt Troupe's Mr. Domescreen",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally an entertainer in TV shows, it is still portraying its ever-changing roles after losing control and continues to bring surprises or scares to the audience.",
+        "Name": "ナイトメア{RUBY_B#げきだん}劇団{RUBY_E#}・Mr.{RUBY_B#えんまく}円幕{RUBY_E#}",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来はテレビ番組の中のエンターテイナーだった。暴走した後も千変万化な役を演じ、観客に思わぬ喜びまたは恐怖をもたらしている。",
         "Stats": {
             "HP": 1.24998,
             "ATK": 18.0,
@@ -22626,8 +24819,8 @@ var _monster_2 = {
     "300203001": {
         "_id": 300203001,
         "Key": "Monster_W2_Beast01_03_Config",
-        "Name": "Dreamjolt Troupe's Bubble Hound",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a delivery robot of SoulGlad, it is still dispensing sweetness after losing control, inviting everyone to taste this delicacy.",
+        "Name": "ナイトメア{RUBY_B#げきだん}劇団{RUBY_E#}・ソーダドッグ",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来は「スラーダ」の配達員だった。暴走した後も甘い幸せを撒き散らし、人々にこの芳しいドリンクを味わってもらおうとしている。",
         "Stats": {
             "HP": 2.25,
             "ATK": 18.0,
@@ -22674,8 +24867,8 @@ var _monster_2 = {
     "300203002": {
         "_id": 300203002,
         "Key": "Monster_W2_Beast01_03_Config",
-        "Name": "Cocona's Principle",
-        "Desc": "A firm heart that once believed there were lines that could not be crossed.",
+        "Name": "ココナの原則",
+        "Desc": "揺るぎない心。かつて超えてはならない一線があると信じていた。",
         "Stats": {
             "HP": 2.25,
             "ATK": 18.0,
@@ -22722,8 +24915,8 @@ var _monster_2 = {
     "300203003": {
         "_id": 300203003,
         "Key": "Monster_W2_Beast01_03_Config",
-        "Name": "Dreamjolt Troupe's Bubble Hound",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a delivery robot of SoulGlad, it is still dispensing sweetness after losing control, inviting everyone to taste this delicacy.",
+        "Name": "ナイトメア{RUBY_B#げきだん}劇団{RUBY_E#}・ソーダドッグ",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来は「スラーダ」の配達員だった。暴走した後も甘い幸せを撒き散らし、人々にこの芳しいドリンクを味わってもらおうとしている。",
         "Stats": {
             "HP": 0.62501,
             "ATK": 18.0,
@@ -22773,8 +24966,8 @@ var _monster_2 = {
     "300203004": {
         "_id": 300203004,
         "Key": "Monster_W2_Beast01_03_Config",
-        "Name": "Dreamjolt Troupe's Bubble Hound",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a delivery robot of SoulGlad, it is still dispensing sweetness after losing control, inviting everyone to taste this delicacy.",
+        "Name": "ナイトメア{RUBY_B#げきだん}劇団{RUBY_E#}・ソーダドッグ",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来は「スラーダ」の配達員だった。暴走した後も甘い幸せを撒き散らし、人々にこの芳しいドリンクを味わってもらおうとしている。",
         "Stats": {
             "HP": 2.75,
             "ATK": 18.0,
@@ -22821,8 +25014,8 @@ var _monster_2 = {
     "300203005": {
         "_id": 300203005,
         "Key": "Monster_W2_Beast01_03_Config",
-        "Name": "Dreamjolt Troupe's Bubble Hound",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a delivery robot of SoulGlad, it is still dispensing sweetness after losing control, inviting everyone to taste this delicacy.",
+        "Name": "ナイトメア{RUBY_B#げきだん}劇団{RUBY_E#}・ソーダドッグ",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来は「スラーダ」の配達員だった。暴走した後も甘い幸せを撒き散らし、人々にこの芳しいドリンクを味わってもらおうとしている。",
         "Stats": {
             "HP": 1.8,
             "ATK": 14.99994,
@@ -22869,8 +25062,8 @@ var _monster_2 = {
     "300203006": {
         "_id": 300203006,
         "Key": "Monster_W2_Beast01_03_Config",
-        "Name": "Dreamjolt Troupe's Bubble Hound",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a delivery robot of SoulGlad, it is still dispensing sweetness after losing control, inviting everyone to taste this delicacy.",
+        "Name": "ナイトメア{RUBY_B#げきだん}劇団{RUBY_E#}・ソーダドッグ",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来は「スラーダ」の配達員だった。暴走した後も甘い幸せを撒き散らし、人々にこの芳しいドリンクを味わってもらおうとしている。",
         "Stats": {
             "HP": 3.5,
             "ATK": 18.0,
@@ -22917,8 +25110,8 @@ var _monster_2 = {
     "300204001": {
         "_id": 300204001,
         "Key": "Monster_W3_Clock_00_Config",
-        "Name": "Dreamjolt Troupe's Winder Goon",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a waiter in The Reverie, it is still performing its duty of announcing the time after losing control, jolting dreamers awake in the most crude manner.",
+        "Name": "ナイトメア{RUBY_B#げきだん}劇団{RUBY_E#}・ゼンマイ{RUBY_B#ぼうと}暴徒{RUBY_E#}",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来はホテル・レバリーの従業員だった。暴走した後も時間知らせの職務を全うしており、一番ストレートな方法で人々を夢から覚ます。",
         "Stats": {
             "HP": 3.5,
             "ATK": 14.99994,
@@ -22961,8 +25154,8 @@ var _monster_2 = {
     "300205002": {
         "_id": 300205002,
         "Key": "Monster_W3_Junk_00_Config",
-        "Name": "Cocona's Honesty",
-        "Desc": "A soul of honesty, who that once believed that sincerity given would be sincerity returned.",
+        "Name": "ココナの誠実",
+        "Desc": "誠実な心。かつて誠実を以って他人に接すれば、他人も誠実を以って返事するであろうと信じていた。",
         "Stats": {
             "HP": 2.25,
             "ATK": 18.0,
@@ -23000,8 +25193,8 @@ var _monster_2 = {
     "300301001": {
         "_id": 300301001,
         "Key": "Monster_W3_Dinosaur_00_Config",
-        "Name": "Dreamjolt Troupe's Beyond Overcooked",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a culinary robot, it is still breathing fire for grilling ingredients after losing control, intending to burn the diners to crisps.",
+        "Name": "ナイトメア{RUBY_B#げきだん}劇団{RUBY_E#}・エクセスウェルダン",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来は料理ロボットだった。暴走した後も食材を炙るために炎を吐き続け、客人さえも黒焦げにしようと企んでいる。",
         "Stats": {
             "HP": 51.5,
             "ATK": 14.99994,
@@ -23057,8 +25250,8 @@ var _monster_2 = {
     "300301002": {
         "_id": 300301002,
         "Key": "Monster_W3_Dinosaur_00_Config",
-        "Name": "Dreamjolt Troupe's Beyond Overcooked",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a culinary robot, it is still breathing fire for grilling ingredients after losing control, intending to burn the diners to crisps.",
+        "Name": "ナイトメア{RUBY_B#げきだん}劇団{RUBY_E#}・エクセスウェルダン",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来は料理ロボットだった。暴走した後も食材を炙るために炎を吐き続け、客人さえも黒焦げにしようと企んでいる。",
         "Stats": {
             "HP": 10.0,
             "ATK": 12.00006,
@@ -23114,11 +25307,131 @@ var _monster_2 = {
         ],
         "Csxylic": "SCDreamjoltTroupe/3003010"
     },
+    "300301003": {
+        "_id": 300301003,
+        "Key": "Monster_W3_Dinosaur_00_Config",
+        "Name": "ナイトメア{RUBY_B#げきだん}劇団{RUBY_E#}・エクセスウェルダン",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来は料理ロボットだった。暴走した後も食材を炙るために炎を吐き続け、客人さえも黒焦げにしようと企んでいる。",
+        "Stats": {
+            "HP": 18.0,
+            "ATK": 16.363619999999997,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 16.0
+        },
+        "StatsExtra": {
+            "Stance": -2.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300301001,
+                    300301002,
+                    300301003,
+                    300301004,
+                    300301005,
+                    300301006,
+                    300301007
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3003010.png",
+        "Figure": "monsterfigure/Monster_3003010.png",
+        "Status": [
+            230030104,
+            230030105
+        ],
+        "AllSkills": [
+            300301001,
+            300301002,
+            300301003,
+            300301004,
+            300301005,
+            300301006,
+            300301007
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3003010"
+    },
+    "300301004": {
+        "_id": 300301004,
+        "Key": "Monster_W3_Dinosaur_00_Config",
+        "Name": "ナイトメア{RUBY_B#げきだん}劇団{RUBY_E#}・エクセスウェルダン",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来は料理ロボットだった。暴走した後も食材を炙るために炎を吐き続け、客人さえも黒焦げにしようと企んでいる。",
+        "Stats": {
+            "HP": 6.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 16.0
+        },
+        "StatsExtra": {
+            "Stance": -8.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300301001,
+                    300301002,
+                    300301003,
+                    300301004,
+                    300301005,
+                    300301006,
+                    300301007
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3003010.png",
+        "Figure": "monsterfigure/Monster_3003010.png",
+        "Status": [
+            230030104,
+            230030105
+        ],
+        "AllSkills": [
+            300301001,
+            300301002,
+            300301003,
+            300301004,
+            300301005,
+            300301006,
+            300301007
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3003010"
+    },
     "300301101": {
         "_id": 300301101,
         "Key": "Monster_W3_Dinosaur_00_Config_ActivityTelevision",
-        "Name": "Dreamjolt Troupe's Beyond Overcooked (Projection)",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a culinary robot, it is still breathing fire for grilling ingredients after losing control, intending to burn the diners to crisps.",
+        "Name": "ナイトメア劇団・エクセスウェルダン（投影）",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来は料理ロボットだった。暴走した後も食材を炙るために炎を吐き続け、客人さえも黒焦げにしようと企んでいる。",
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -23168,8 +25481,8 @@ var _monster_2 = {
     "300302001": {
         "_id": 300302001,
         "Key": "Monster_W2_Beast02_01_Config",
-        "Name": "Dreamjolt Troupe's Sweet Gorilla",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a transport robot of SoulGlad, it is still carrying the burden of the delicacy after losing control while launching its gift to guests passing by.",
+        "Name": "ナイトメア{RUBY_B#げきだん}劇団{RUBY_E#}・スウィート・ゴリラ",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来は「スラーダ」の搬送員だった。暴走した後も職務を放棄せず、来客たちにプレゼントを投げ捨てている。",
         "Stats": {
             "HP": 18.0,
             "ATK": 18.0,
@@ -23215,8 +25528,8 @@ var _monster_2 = {
     "300302002": {
         "_id": 300302002,
         "Key": "Monster_W2_Beast02_01_Config",
-        "Name": "Dreamjolt Troupe's Sweet Gorilla",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a transport robot of SoulGlad, it is still carrying the burden of the delicacy after losing control while launching its gift to guests passing by.",
+        "Name": "ナイトメア{RUBY_B#げきだん}劇団{RUBY_E#}・スウィート・ゴリラ",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来は「スラーダ」の搬送員だった。暴走した後も職務を放棄せず、来客たちにプレゼントを投げ捨てている。",
         "Stats": {
             "HP": 80.0,
             "ATK": 14.99994,
@@ -23266,8 +25579,8 @@ var _monster_2 = {
     "300302003": {
         "_id": 300302003,
         "Key": "Monster_W2_Beast02_01_Config",
-        "Name": "Dreamjolt Troupe's Sweet Gorilla",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a transport robot of SoulGlad, it is still carrying the burden of the delicacy after losing control while launching its gift to guests passing by.",
+        "Name": "ナイトメア{RUBY_B#げきだん}劇団{RUBY_E#}・スウィート・ゴリラ",
+        "Desc": "ピノコニーのサービスロボット。夢境での感情の干渉により、暴走してしまった。<br>本来は「スラーダ」の搬送員だった。暴走した後も職務を放棄せず、来客たちにプレゼントを投げ捨てている。",
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -23313,11 +25626,112 @@ var _monster_2 = {
         ],
         "Csxylic": "SCDreamjoltTroupe/3003020"
     },
+    "300305001": {
+        "_id": 300305001,
+        "Key": "Monster_W3_Figure_01_Config",
+        "Name": "「宴に酔いしれる現在」",
+        "Desc": "スウィート・ドリーム劇団でゲストの歓心を買うソムリエ。本来は「調和セレモニー」でお酒を奉げるはずだったが、今では「秩序」に縛られ「現在」に関する演目が上演されている。今この時とは夜通しの宴であり、愉悦への渇望がグラスの中でゆらりと揺れ、祝宴の主には美酒が奉げられる。",
+        "Stats": {
+            "HP": 6.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": -4.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300305001,
+                    300305002,
+                    300305004,
+                    300305005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    300305003,
+                    300305006,
+                    300305007
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3003050.png",
+        "AllSkills": [
+            300305001,
+            300305002,
+            300305004,
+            300305005
+        ]
+    },
+    "300401001": {
+        "_id": 300401001,
+        "Key": "Monster_W3_FigureBoss_00_Config",
+        "Name": "過去、今、そして永遠に在る演目",
+        "Desc": "スウィート・ドリーム劇団の役者たちは「秩序」の恩典を受け、掟を宣明する傀儡となった。彼らは至高なる戒めのもと、楽園を迎える演目を披露する。",
+        "Stats": {
+            "HP": 67.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 0.0,
+            "Stance": 0.0
+        },
+        "Weak": [],
+        "RESBase": {},
+        "StatusRESBase": 0.2,
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300401001,
+                    300401002
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    300401001,
+                    300401003,
+                    300401004,
+                    300401005
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 10,
+        "Icon": "mostericon/BattleEvent_Marionette.png",
+        "AllSkills": [
+            300401001,
+            300401002,
+            300401003,
+            300401004,
+            300401005
+        ]
+    },
     "301201001": {
         "_id": 301201001,
         "Key": "Monster_W3_TV_01_Config",
-        "Name": "Memory Zone Meme \"Something In The Mirror\"",
-        "Desc": "A manifestation containing specific cognitions, accumulated from the subconscious fragments in the Memory Zone.<br>Life forms use mirrors to understand the world and build their self-cognition. The shapeless memetic entity reflects in the mirror, leaving behind ever-shifting mirages.",
+        "Name": "{RUBY_B#きおくいき}記憶域{RUBY_E#}ミーム「{RUBY_B#かがみ}鏡{RUBY_E#}に{RUBY_B#ひそ}潜{RUBY_E#}むのは{RUBY_B#なにもの}何物{RUBY_E#}」",
+        "Desc": "特定の認識を含む実体で、記憶域の潜在意識の欠片が積み重なって構成されている。<br>命は鏡像を通じて世界を認識し、自我認識を構築する。目に見えないミームは鏡の中で映し出され、多様に変化する謎の影を残す。",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -23362,8 +25776,8 @@ var _monster_2 = {
     "301202001": {
         "_id": 301202001,
         "Key": "Monster_W3_Clock_01_Config",
-        "Name": "Memory Zone Meme \"Heartbreaker\"",
-        "Desc": "An entity that bears certain cognitions formed from an accruement of subconscious fragments in the Memory Zone.<br>Life is parceled in impenetrable barriers, obstructing the intrusion of the alien. But beneath that ironclad shell, there is a region both nameless and fragile.",
+        "Name": "{RUBY_B#きおくいき}記憶域{RUBY_E#}ミーム「{RUBY_B#くだ}砕{RUBY_E#}け{RUBY_B#ち}散{RUBY_E#}った{RUBY_B#こころ}心{RUBY_E#}」",
+        "Desc": "特定の認識を持つ実体。記憶域にある潜在意識の欠片が積み重なってできたもの。<br>堅牢な障壁が命を包み込み、異分子を阻む。しかしその頑強な体躯の内側は脆い無名地帯だ。",
         "Stats": {
             "HP": 1.1,
             "ATK": 18.0,
@@ -23408,8 +25822,8 @@ var _monster_2 = {
     "301301001": {
         "_id": 301301001,
         "Key": "Monster_W3_Dinosaur_01_Config",
-        "Name": "Memory Zone Meme \"Shell of Faded Rage\"",
-        "Desc": "Entities imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>Memories of anguish burn like flames, scorching the heart. When the suffering fades away, the life born from resentment will rise from the ashes, accumulating boundless fury.",
+        "Name": "{RUBY_B#きおくいき}記憶域{RUBY_E#}ミーム「{RUBY_B#いか}怒{RUBY_E#}りの{RUBY_B#ぬ}抜{RUBY_E#}け{RUBY_B#がら}殻{RUBY_E#}」",
+        "Desc": "特定の認識を持つ実体。記憶域にある潜在意識の欠片が積み重なってできたもの。<br>悲しみと苦しみの記憶は業火のように心を焼く。苦難が過ぎた後、無限なる怒りを携えて、恨みが化した生命が灰燼の中から誕生する。",
         "Stats": {
             "HP": 4.0,
             "ATK": 18.0,
@@ -23418,7 +25832,7 @@ var _monster_2 = {
             "Stance": 12.0
         },
         "StatsExtra": {
-            "Stance": -6.0
+            "Stance": -7.0
         },
         "Weak": [
             "Elec",
@@ -23462,8 +25876,8 @@ var _monster_2 = {
     "301402001": {
         "_id": 301402001,
         "Key": "Monster_W3_Death_00_Config",
-        "Name": "Memory Zone Meme \"Something Unto Death\"",
-        "Desc": "Entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams.",
+        "Name": "{RUBY_B#きおくいき}記憶域{RUBY_E#}ミーム「{RUBY_B#し}死{RUBY_E#}へ{RUBY_B#む}向{RUBY_E#}かうのは{RUBY_B#なにもの}何物{RUBY_E#}」",
+        "Desc": "特定の認識を持つ実体。記憶域にある潜在意識の欠片が積み重なってできたもの。<br>神秘的で危険な記憶域ミーム。夢の中では存在しないはずの「死亡」と見なされている。それは十二の刻を彷徨い、鋭い刃で悪夢を散布し、死の影で美しき夢を覆う。この記憶域ミームが至るところには、必ず災禍が降りかかる。",
         "Stats": {
             "HP": 20.0,
             "ATK": 18.0,
@@ -23543,8 +25957,8 @@ var _monster_2 = {
     "301402002": {
         "_id": 301402002,
         "Key": "Monster_W3_Death_00_Config",
-        "Name": "Memory Zone Meme \"Something Unto Death\"",
-        "Desc": "Entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams.",
+        "Name": "{RUBY_B#きおくいき}記憶域{RUBY_E#}ミーム「{RUBY_B#し}死{RUBY_E#}へ{RUBY_B#む}向{RUBY_E#}かうのは{RUBY_B#なにもの}何物{RUBY_E#}」",
+        "Desc": "特定の認識を持つ実体。記憶域にある潜在意識の欠片が積み重なってできたもの。<br>神秘的で危険な記憶域ミーム。夢の中では存在しないはずの「死亡」と見なされている。それは十二の刻を彷徨い、鋭い刃で悪夢を散布し、死の影で美しき夢を覆う。この記憶域ミームが至るところには、必ず災禍が降りかかる。",
         "Stats": {
             "HP": 25.0,
             "ATK": 18.0,
@@ -23624,8 +26038,8 @@ var _monster_2 = {
     "301402003": {
         "_id": 301402003,
         "Key": "Monster_W3_Death_00_Config",
-        "Name": "Memory Zone Meme \"Something Unto Death\"",
-        "Desc": "Entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams.",
+        "Name": "{RUBY_B#きおくいき}記憶域{RUBY_E#}ミーム「{RUBY_B#し}死{RUBY_E#}へ{RUBY_B#む}向{RUBY_E#}かうのは{RUBY_B#なにもの}何物{RUBY_E#}」",
+        "Desc": "特定の認識を持つ実体。記憶域にある潜在意識の欠片が積み重なってできたもの。<br>神秘的で危険な記憶域ミーム。夢の中では存在しないはずの「死亡」と見なされている。それは十二の刻を彷徨い、鋭い刃で悪夢を散布し、死の影で美しき夢を覆う。この記憶域ミームが至るところには、必ず災禍が降りかかる。",
         "Stats": {
             "HP": 22.0,
             "ATK": 18.0,
@@ -23702,11 +26116,404 @@ var _monster_2 = {
         ],
         "Csxylic": "SCMemoryZoneMeme/3014020"
     },
+    "301402004": {
+        "_id": 301402004,
+        "Key": "Monster_W3_Death_00_Config",
+        "Name": "{RUBY_B#きおくいき}記憶域{RUBY_E#}ミーム「{RUBY_B#し}死{RUBY_E#}へ{RUBY_B#む}向{RUBY_E#}かうのは{RUBY_B#なにもの}何物{RUBY_E#}」",
+        "Desc": "特定の認識を持つ実体。記憶域にある潜在意識の欠片が積み重なってできたもの。<br>神秘的で危険な記憶域ミーム。夢の中では存在しないはずの「死亡」と見なされている。それは十二の刻を彷徨い、鋭い刃で悪夢を散布し、死の影で美しき夢を覆う。この記憶域ミームが至るところには、必ず災禍が降りかかる。",
+        "Stats": {
+            "HP": 30.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 24.0
+        },
+        "StatsExtra": {
+            "SPD": 216.0,
+            "Stance": 50.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Entangle": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301402001,
+                    301402002,
+                    301402003,
+                    301402004,
+                    301402005,
+                    301402009
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    301402001,
+                    301402002,
+                    301402003,
+                    301402006,
+                    301402007,
+                    301402009
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    301402008
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 11,
+        "Icon": "mostericon/Monster_3014020.png",
+        "Figure": "monsterfigure/Monster_3014020.png",
+        "Status": [
+            230140201,
+            230140202,
+            230140204,
+            230140207
+        ],
+        "AllSkills": [
+            301402001,
+            301402002,
+            301402003,
+            301402004,
+            301402005,
+            301402009,
+            301402006,
+            301402007
+        ],
+        "Csxylic": "SCMemoryZoneMeme/3014020"
+    },
+    "301402005": {
+        "_id": 301402005,
+        "Key": "Monster_W3_Death_00_Config",
+        "Name": "{RUBY_B#きおくいき}記憶域{RUBY_E#}ミーム「{RUBY_B#し}死{RUBY_E#}へ{RUBY_B#む}向{RUBY_E#}かうのは{RUBY_B#なにもの}何物{RUBY_E#}」",
+        "Desc": "特定の認識を持つ実体。記憶域にある潜在意識の欠片が積み重なってできたもの。<br>神秘的で危険な記憶域ミーム。夢の中では存在しないはずの「死亡」と見なされている。それは十二の刻を彷徨い、鋭い刃で悪夢を散布し、死の影で美しき夢を覆う。この記憶域ミームが至るところには、必ず災禍が降りかかる。",
+        "Stats": {
+            "HP": 28.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 24.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Entangle": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301402001,
+                    301402002,
+                    301402003,
+                    301402004,
+                    301402005,
+                    301402009
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    301402001,
+                    301402002,
+                    301402003,
+                    301402006,
+                    301402007,
+                    301402009
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    301402008
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 11,
+        "Icon": "mostericon/Monster_3014020.png",
+        "Figure": "monsterfigure/Monster_3014020.png",
+        "Status": [
+            230140201,
+            230140202,
+            230140204,
+            230140207
+        ],
+        "AllSkills": [
+            301402001,
+            301402002,
+            301402003,
+            301402004,
+            301402005,
+            301402009,
+            301402006,
+            301402007
+        ],
+        "Csxylic": "SCMemoryZoneMeme/3014020"
+    },
+    "301402201": {
+        "_id": 301402201,
+        "Key": "Monster_W3_Death_00_Config_RLBoss",
+        "Name": "記憶域ミーム「死へ向かうのは何物」（スペック）",
+        "Desc": "コードが影響を受けた後の正常な投影。記憶域にある潜在意識の欠片が積み重なってできた、特定の認識を持つ実体を参照にしている。<br>神秘的で危険な記憶域ミーム。夢の中では存在しないはずの「死亡」と見なされている。それは十二の刻を彷徨い、鋭い刃で悪夢を散布し、死の影で美しき夢を覆う。この記憶域ミームが至るところには、必ず災禍が降りかかる。",
+        "Stats": {
+            "HP": 30.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 24.0
+        },
+        "StatsExtra": {
+            "SPD": 216.0,
+            "Stance": 70.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Entangle": 0.5
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301402201,
+                    301402202,
+                    301402203,
+                    301402204,
+                    301402205,
+                    301402209
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    301402201,
+                    301402202,
+                    301402203,
+                    301402206,
+                    301402207,
+                    301402209
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    301402201,
+                    301402202,
+                    301402203,
+                    301402204,
+                    301402205,
+                    301402206,
+                    301402207,
+                    301402209
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    301402208
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3014020.png",
+        "Figure": "monsterfigure/Monster_3014020.png",
+        "AllSkills": [
+            301402201,
+            301402202,
+            301402203,
+            301402204,
+            301402205,
+            301402209,
+            301402206,
+            301402207
+        ],
+        "IsComplete": 1
+    },
+    "302102001": {
+        "_id": 302102001,
+        "Key": "Monster_W2_ArgentiTotem_01_Config",
+        "Name": "「叙勲」",
+        "Desc": "「叙勲」の彫刻。伝説によると、かつて女神に口づけされた1本のバラが存在して、その美しさは永遠に朽ちない。",
+        "Stats": {
+            "HP": 2.75,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Ice"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302102001,
+                    302102002
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3021020.png",
+        "Figure": "monsterfigure/Monster_3021020.png",
+        "Status": [
+            230240102
+        ],
+        "AllSkills": [
+            302102001,
+            302102002
+        ],
+        "Csxylic": "SCNonCategorized/3021020"
+    },
+    "302103001": {
+        "_id": 302103001,
+        "Key": "Monster_W2_ArgentiTotem_00_Config",
+        "Name": "「槍先」",
+        "Desc": "「槍」の彫刻。純美の魂がまとわりついており、槍と盾が寄り添っている。槍は暗闇を打ち破る勇気である。",
+        "Stats": {
+            "HP": 1.6,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302103001,
+                    302103002
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3021030.png",
+        "Figure": "monsterfigure/Monster_3021030.png",
+        "AllSkills": [
+            302103001,
+            302103002
+        ],
+        "Csxylic": "SCNonCategorized/3021030"
+    },
+    "302104001": {
+        "_id": 302104001,
+        "Key": "Monster_W2_ArgentiTotem_02_Config",
+        "Name": "「盾」",
+        "Desc": "「盾」の彫刻。純美の魂がまとわりついており、槍と盾が寄り添っている。盾は命あるものを守る決心である。",
+        "Stats": {
+            "HP": 1.9,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302104001,
+                    302104002
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3021040.png",
+        "Figure": "monsterfigure/Monster_3021040.png",
+        "Status": [
+            220230203
+        ],
+        "AllSkills": [
+            302104001,
+            302104002
+        ],
+        "Csxylic": "SCNonCategorized/3021040"
+    },
     "302401001": {
         "_id": 302401001,
         "Key": "Monster_W2_Argenti_00_Config",
-        "Name": "Argenti",
-        "Desc": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"<br>Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name.",
+        "Name": "アルジェンティ",
+        "Desc": "「純美の騎士団」の古典的な騎士。行方不明になっている「純美」の星神イドリラを敬虔に慕っていた。<br>正直で、堂々とした性格の人。宇宙を漫遊し、イドリラの名を広めている。",
         "Stats": {
             "HP": 15.0,
             "ATK": 16.363619999999997,
@@ -23777,8 +26584,8 @@ var _monster_2 = {
     "302401002": {
         "_id": 302401002,
         "Key": "Monster_W2_Argenti_00_Config",
-        "Name": "Argenti",
-        "Desc": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"<br>Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name.",
+        "Name": "アルジェンティ",
+        "Desc": "「純美の騎士団」の古典的な騎士。行方不明になっている「純美」の星神イドリラを敬虔に慕っていた。<br>正直で、堂々とした性格の人。宇宙を漫遊し、イドリラの名を広めている。",
         "Stats": {
             "HP": 20.0,
             "ATK": 18.0,
@@ -23849,8 +26656,8 @@ var _monster_2 = {
     "302401003": {
         "_id": 302401003,
         "Key": "Monster_W2_Argenti_00_Config",
-        "Name": "Argenti",
-        "Desc": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"<br>Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name.",
+        "Name": "アルジェンティ",
+        "Desc": "「純美の騎士団」の古典的な騎士。行方不明になっている「純美」の星神イドリラを敬虔に慕っていた。<br>正直で、堂々とした性格の人。宇宙を漫遊し、イドリラの名を広めている。",
         "Stats": {
             "HP": 12.5,
             "ATK": 16.363619999999997,
@@ -23918,13 +26725,324 @@ var _monster_2 = {
         ],
         "Csxylic": "SCCosmos/3024010"
     },
+    "302401004": {
+        "_id": 302401004,
+        "Key": "Monster_W2_Argenti_00_Config",
+        "Name": "アルジェンティ",
+        "Desc": "「純美の騎士団」の古典的な騎士。行方不明になっている「純美」の星神イドリラを敬虔に慕っていた。<br>正直で、堂々とした性格の人。宇宙を漫遊し、イドリラの名を広めている。",
+        "Stats": {
+            "HP": 15.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 16.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302401001,
+                    302401002,
+                    302401003,
+                    302401004,
+                    302401005
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    302401001,
+                    302401002,
+                    302401003,
+                    302401004,
+                    302401005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    302401007
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 7,
+        "Icon": "mostericon/Monster_3024010.png",
+        "Figure": "monsterfigure/Monster_3024010.png",
+        "Status": [
+            230240101
+        ],
+        "AllSkills": [
+            302401001,
+            302401002,
+            302401003,
+            302401004,
+            302401005
+        ],
+        "Csxylic": "SCCosmos/3024010"
+    },
+    "302401007": {
+        "_id": 302401007,
+        "Key": "Monster_W2_Argenti_00_Config",
+        "Name": "アルジェンティ",
+        "Desc": "「純美の騎士団」の古典的な騎士。行方不明になっている「純美」の星神イドリラを敬虔に慕っていた。<br>正直で、堂々とした性格の人。宇宙を漫遊し、イドリラの名を広めている。",
+        "Stats": {
+            "HP": 22.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 16.0
+        },
+        "StatsExtra": {
+            "SPD": 216.0,
+            "Stance": 34.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302401001,
+                    302401002,
+                    302401003,
+                    302401004,
+                    302401005
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    302401001,
+                    302401002,
+                    302401003,
+                    302401004,
+                    302401005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    302401007
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 7,
+        "Icon": "mostericon/Monster_3024010.png",
+        "Figure": "monsterfigure/Monster_3024010.png",
+        "Status": [
+            230240101
+        ],
+        "AllSkills": [
+            302401001,
+            302401002,
+            302401003,
+            302401004,
+            302401005
+        ],
+        "Csxylic": "SCCosmos/3024010"
+    },
+    "302401008": {
+        "_id": 302401008,
+        "Key": "Monster_W2_Argenti_00_Config",
+        "Name": "アルジェンティ",
+        "Desc": "「純美の騎士団」の古典的な騎士。行方不明になっている「純美」の星神イドリラを敬虔に慕っていた。<br>正直で、堂々とした性格の人。宇宙を漫遊し、イドリラの名を広めている。",
+        "Stats": {
+            "HP": 75.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 16.0
+        },
+        "StatsExtra": {
+            "SPD": 216.0,
+            "Stance": 34.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302401001,
+                    302401002,
+                    302401003,
+                    302401004,
+                    302401005
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    302401001,
+                    302401002,
+                    302401003,
+                    302401004,
+                    302401005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    302401007
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 7,
+        "Icon": "mostericon/Monster_3024010.png",
+        "Figure": "monsterfigure/Monster_3024010.png",
+        "Status": [
+            230240101
+        ],
+        "AllSkills": [
+            302401001,
+            302401002,
+            302401003,
+            302401004,
+            302401005
+        ],
+        "Csxylic": "SCCosmos/3024010"
+    },
+    "302401101": {
+        "_id": 302401101,
+        "Key": "Monster_W2_Argenti_00_Config_RL",
+        "Name": "アルジェンティ（スペック）",
+        "Desc": "コードが影響を受けた後の正常な投影。「純美の騎士団」の古典的な騎士を参照にしている。",
+        "Stats": {
+            "HP": 15.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 16.0
+        },
+        "StatsExtra": {
+            "SPD": 156.0,
+            "Stance": 34.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.75
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302401101,
+                    302401102,
+                    302401103,
+                    302401104
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    302401101,
+                    302401102,
+                    302401103,
+                    302401104,
+                    302401105,
+                    302401110
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    302401101,
+                    302401102,
+                    302401105,
+                    302401106,
+                    302401108,
+                    302401110
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    302401107
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3024010.png",
+        "Figure": "monsterfigure/Monster_3024010.png",
+        "AllSkills": [
+            302401101,
+            302401102,
+            302401103,
+            302401104,
+            302401105,
+            302401110,
+            302401106,
+            302401108
+        ],
+        "IsComplete": 1
+    },
     "302401201": {
         "_id": 302401201,
         "Key": "Monster_W2_Argenti_00_Config_Pingshu",
-        "Name": "Argenti",
-        "Desc": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"<br>Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name.",
+        "Name": "アルジェンティ",
+        "Desc": "「純美の騎士団」の古典的な騎士。行方不明になっている「純美」の星神イドリラを敬虔に慕っていた。<br>正直で、堂々とした性格の人。宇宙を漫遊し、イドリラの名を広めている。",
         "Stats": {
-            "HP": 40.0,
+            "HP": 41.5,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 144.0,
@@ -23975,13 +27093,74 @@ var _monster_2 = {
             302401205
         ]
     },
+    "302401202": {
+        "_id": 302401202,
+        "Key": "Monster_W2_Argenti_00_Config_Pingshu",
+        "Name": "アルジェンティ",
+        "Desc": "「純美の騎士団」の古典的な騎士。行方不明になっている「純美」の星神イドリラを敬虔に慕っていた。<br>正直で、堂々とした性格の人。宇宙を漫遊し、イドリラの名を広めている。",
+        "Stats": {
+            "HP": 22.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 16.0
+        },
+        "StatsExtra": {
+            "SPD": 216.0,
+            "Stance": 34.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302401201,
+                    302401202,
+                    302401203,
+                    302401204,
+                    302401205
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    302401207
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3024010.png",
+        "Figure": "monsterfigure/Monster_3024010.png",
+        "AllSkills": [
+            302401201,
+            302401202,
+            302401203,
+            302401204,
+            302401205
+        ]
+    },
     "302402001": {
         "_id": 302402001,
         "Key": "Monster_W3_Sam_00_Config",
-        "Name": "Stellaron Hunter: Sam",
-        "Desc": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor.<br>The mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames.",
+        "Name": "「{RUBY_B#せいかく}星核{RUBY_E#}ハンター」サム",
+        "Desc": "星核ハンターのメンバー、重装甲をまとった謎の戦士。彼の鉄甲は灼熱の炎を放って戦場を火の海にし、烈火の如く攻撃をしかける。",
         "Stats": {
-            "HP": 22.5,
+            "HP": 18.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
@@ -24040,8 +27219,8 @@ var _monster_2 = {
     "302402002": {
         "_id": 302402002,
         "Key": "Monster_W3_Sam_00_Config",
-        "Name": "Stellaron Hunter: Sam",
-        "Desc": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor.<br>The mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames.",
+        "Name": "「{RUBY_B#せいかく}星核{RUBY_E#}ハンター」サム",
+        "Desc": "星核ハンターのメンバー、重装甲をまとった謎の戦士。彼の鉄甲は灼熱の炎を放って戦場を火の海にし、烈火の如く攻撃をしかける。",
         "Stats": {
             "HP": 73.0,
             "ATK": 14.99994,
@@ -24099,11 +27278,169 @@ var _monster_2 = {
         ],
         "Csxylic": "SCStellaronHunters/3024020"
     },
+    "302402201": {
+        "_id": 302402201,
+        "Key": "Monster_W3_Sam_00_Config_SP",
+        "Name": "「星核ハンター」サム",
+        "Desc": "「星核ハンター」のメンバー、重装甲をまとった謎の戦士。彼の鉄甲は灼熱の炎を放って戦場を火の海にし、烈火の如く攻撃をしかける。",
+        "Stats": {
+            "HP": 90.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 18.0
+        },
+        "StatsExtra": {
+            "SPD": 80.0,
+            "Stance": 32.0
+        },
+        "Weak": [
+            "Elec",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302402201,
+                    302402202,
+                    302402203,
+                    302402204,
+                    302402205,
+                    302402206,
+                    302402207
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    302402201,
+                    302402202,
+                    302402203,
+                    302402204,
+                    302402205,
+                    302402206,
+                    302402207
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3024020.png",
+        "Figure": "monsterfigure/Monster_3024020.png",
+        "AllSkills": [
+            302402201,
+            302402202,
+            302402203,
+            302402204,
+            302402205,
+            302402206,
+            302402207
+        ]
+    },
+    "302501001": {
+        "_id": 302501001,
+        "Key": "Monster_W3_Sunday_00_Config",
+        "Name": "",
+        "Desc": "...",
+        "Stats": {
+            "HP": 60.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 6.0
+        },
+        "Weak": [
+            "Elec",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 1.0
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302501001,
+                    302501002,
+                    302501003,
+                    302501004,
+                    302501006,
+                    302501014
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    302501001,
+                    302501002,
+                    302501003,
+                    302501005,
+                    302501008,
+                    302501009,
+                    302501014
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    302501011,
+                    302501012,
+                    302501014
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    302501007,
+                    302501010,
+                    302501013
+                ]
+            }
+        ],
+        "Rank": "BigBoss",
+        "Camp": 5,
+        "Icon": "mostericon/Monster_3025010.png",
+        "AllSkills": [
+            302501001,
+            302501002,
+            302501003,
+            302501004,
+            302501006,
+            302501014,
+            302501005,
+            302501008,
+            302501009,
+            302501011,
+            302501012
+        ]
+    },
     "800101001": {
         "_id": 800101001,
         "Key": "Monster_XP_Minion01_00_Config",
-        "Name": "Flamespawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path.",
+        "Name": "{RUBY_B#ほのお}炎{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで高い熱量を発散する、激しく燃え盛る鳥のようだ。",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -24146,8 +27483,8 @@ var _monster_2 = {
     "800101002": {
         "_id": 800101002,
         "Key": "Monster_XP_Minion01_00_Config",
-        "Name": "Flamespawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path.",
+        "Name": "{RUBY_B#ほのお}炎{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで高い熱量を発散する、激しく燃え盛る鳥のようだ。",
         "Stats": {
             "HP": 0.4,
             "ATK": 18.0,
@@ -24193,8 +27530,8 @@ var _monster_2 = {
     "800101003": {
         "_id": 800101003,
         "Key": "Monster_XP_Minion01_00_Config",
-        "Name": "Flamespawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path.",
+        "Name": "{RUBY_B#ほのお}炎{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで高い熱量を発散する、激しく燃え盛る鳥のようだ。",
         "Stats": {
             "HP": 0.9,
             "ATK": 30.00006,
@@ -24237,8 +27574,8 @@ var _monster_2 = {
     "800101004": {
         "_id": 800101004,
         "Key": "Monster_XP_Minion01_00_Config",
-        "Name": "Flamespawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path.",
+        "Name": "{RUBY_B#ほのお}炎{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで高い熱量を発散する、激しく燃え盛る鳥のようだ。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -24284,8 +27621,8 @@ var _monster_2 = {
     "800101005": {
         "_id": 800101005,
         "Key": "Monster_XP_Minion01_00_Config",
-        "Name": "Flamespawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path.",
+        "Name": "{RUBY_B#ほのお}炎{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで高い熱量を発散する、激しく燃え盛る鳥のようだ。",
         "Stats": {
             "HP": 0.4,
             "ATK": 18.0,
@@ -24331,8 +27668,8 @@ var _monster_2 = {
     "800101006": {
         "_id": 800101006,
         "Key": "Monster_XP_Minion01_00_Config",
-        "Name": "Flamespawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path.",
+        "Name": "{RUBY_B#ほのお}炎{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで高い熱量を発散する、激しく燃え盛る鳥のようだ。",
         "Stats": {
             "HP": 1.65,
             "ATK": 18.0,
@@ -24378,8 +27715,8 @@ var _monster_2 = {
     "800101007": {
         "_id": 800101007,
         "Key": "Monster_XP_Minion01_00_Config",
-        "Name": "Flamespawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path.",
+        "Name": "{RUBY_B#ほのお}炎{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで高い熱量を発散する、激しく燃え盛る鳥のようだ。",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -24425,8 +27762,8 @@ var _monster_2 = {
     "800101008": {
         "_id": 800101008,
         "Key": "Monster_XP_Minion01_00_Config",
-        "Name": "Flamespawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path.",
+        "Name": "{RUBY_B#ほのお}炎{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで高い熱量を発散する、激しく燃え盛る鳥のようだ。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -24469,8 +27806,8 @@ var _monster_2 = {
     "800101009": {
         "_id": 800101009,
         "Key": "Monster_XP_Minion01_00_Config",
-        "Name": "Flamespawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path.",
+        "Name": "{RUBY_B#ほのお}炎{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで高い熱量を発散する、激しく燃え盛る鳥のようだ。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -24513,8 +27850,8 @@ var _monster_2 = {
     "800101010": {
         "_id": 800101010,
         "Key": "Monster_XP_Minion01_00_Config",
-        "Name": "Flamespawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path.",
+        "Name": "{RUBY_B#ほのお}炎{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで高い熱量を発散する、激しく燃え盛る鳥のようだ。",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -24557,8 +27894,8 @@ var _monster_2 = {
     "800101011": {
         "_id": 800101011,
         "Key": "Monster_XP_Minion01_00_Config",
-        "Name": "Flamespawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path.",
+        "Name": "{RUBY_B#ほのお}炎{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで高い熱量を発散する、激しく燃え盛る鳥のようだ。",
         "Stats": {
             "HP": 1.0,
             "ATK": 18.0,
@@ -24601,8 +27938,8 @@ var _monster_2 = {
     "800101012": {
         "_id": 800101012,
         "Key": "Monster_XP_Minion01_00_Config",
-        "Name": "Flamespawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path.",
+        "Name": "{RUBY_B#ほのお}炎{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで高い熱量を発散する、激しく燃え盛る鳥のようだ。",
         "Stats": {
             "HP": 4.5,
             "ATK": 7.2,
@@ -24645,8 +27982,8 @@ var _monster_2 = {
     "800101013": {
         "_id": 800101013,
         "Key": "Monster_XP_Minion01_00_Config",
-        "Name": "Flamespawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path.",
+        "Name": "{RUBY_B#ほのお}炎{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで高い熱量を発散する、激しく燃え盛る鳥のようだ。",
         "Stats": {
             "HP": 1.0,
             "ATK": 18.0,
@@ -24689,8 +28026,8 @@ var _monster_2 = {
     "800101014": {
         "_id": 800101014,
         "Key": "Monster_XP_Minion01_00_Config",
-        "Name": "Flamespawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path.",
+        "Name": "{RUBY_B#ほのお}炎{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで高い熱量を発散する、激しく燃え盛る鳥のようだ。",
         "Stats": {
             "HP": 4.5,
             "ATK": 7.2,
@@ -24736,8 +28073,8 @@ var _monster_2 = {
     "800101015": {
         "_id": 800101015,
         "Key": "Monster_XP_Minion01_00_Config",
-        "Name": "Flamespawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path.",
+        "Name": "{RUBY_B#ほのお}炎{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで高い熱量を発散する、激しく燃え盛る鳥のようだ。",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -24780,8 +28117,8 @@ var _monster_2 = {
     "800101016": {
         "_id": 800101016,
         "Key": "Monster_XP_Minion01_00_Config",
-        "Name": "Flamespawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path.",
+        "Name": "{RUBY_B#ほのお}炎{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで高い熱量を発散する、激しく燃え盛る鳥のようだ。",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -24824,8 +28161,8 @@ var _monster_2 = {
     "800101017": {
         "_id": 800101017,
         "Key": "Monster_XP_Minion01_00_Config",
-        "Name": "Flamespawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path.",
+        "Name": "{RUBY_B#ほのお}炎{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで高い熱量を発散する、激しく燃え盛る鳥のようだ。",
         "Stats": {
             "HP": 0.9,
             "ATK": 18.0,
@@ -24868,8 +28205,8 @@ var _monster_2 = {
     "800101018": {
         "_id": 800101018,
         "Key": "Monster_XP_Minion01_00_Config",
-        "Name": "Flamespawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path.",
+        "Name": "{RUBY_B#ほのお}炎{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで高い熱量を発散する、激しく燃え盛る鳥のようだ。",
         "Stats": {
             "HP": 0.25,
             "ATK": 18.0,
@@ -24912,8 +28249,8 @@ var _monster_2 = {
     "800102001": {
         "_id": 800102001,
         "Key": "Monster_XP_Minion01_01_Config",
-        "Name": "Frostspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it.",
+        "Name": "{RUBY_B#しも}霜{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで低温を発散する、すべてを凍らせる鳥のようだ。",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -24956,8 +28293,8 @@ var _monster_2 = {
     "800102002": {
         "_id": 800102002,
         "Key": "Monster_XP_Minion01_01_Config",
-        "Name": "Frostspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it.",
+        "Name": "{RUBY_B#しも}霜{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで低温を発散する、すべてを凍らせる鳥のようだ。",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -25003,8 +28340,8 @@ var _monster_2 = {
     "800102003": {
         "_id": 800102003,
         "Key": "Monster_XP_Minion01_01_Config",
-        "Name": "Frostspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it.",
+        "Name": "{RUBY_B#しも}霜{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで低温を発散する、すべてを凍らせる鳥のようだ。",
         "Stats": {
             "HP": 0.4,
             "ATK": 18.0,
@@ -25050,8 +28387,8 @@ var _monster_2 = {
     "800102004": {
         "_id": 800102004,
         "Key": "Monster_XP_Minion01_01_Config",
-        "Name": "Frostspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it.",
+        "Name": "{RUBY_B#しも}霜{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで低温を発散する、すべてを凍らせる鳥のようだ。",
         "Stats": {
             "HP": 1.1,
             "ATK": 30.00006,
@@ -25094,8 +28431,8 @@ var _monster_2 = {
     "800102005": {
         "_id": 800102005,
         "Key": "Monster_XP_Minion01_01_Config",
-        "Name": "Frostspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it.",
+        "Name": "{RUBY_B#しも}霜{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで低温を発散する、すべてを凍らせる鳥のようだ。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -25141,8 +28478,8 @@ var _monster_2 = {
     "800102006": {
         "_id": 800102006,
         "Key": "Monster_XP_Minion01_01_Config",
-        "Name": "Frostspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it.",
+        "Name": "{RUBY_B#しも}霜{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで低温を発散する、すべてを凍らせる鳥のようだ。",
         "Stats": {
             "HP": 0.4,
             "ATK": 18.0,
@@ -25188,8 +28525,8 @@ var _monster_2 = {
     "800102007": {
         "_id": 800102007,
         "Key": "Monster_XP_Minion01_01_Config",
-        "Name": "Frostspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it.",
+        "Name": "{RUBY_B#しも}霜{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで低温を発散する、すべてを凍らせる鳥のようだ。",
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -25232,8 +28569,8 @@ var _monster_2 = {
     "800102008": {
         "_id": 800102008,
         "Key": "Monster_XP_Minion01_01_Config",
-        "Name": "Frostspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it.",
+        "Name": "{RUBY_B#しも}霜{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで低温を発散する、すべてを凍らせる鳥のようだ。",
         "Stats": {
             "HP": 1.65,
             "ATK": 18.0,
@@ -25279,8 +28616,8 @@ var _monster_2 = {
     "800102009": {
         "_id": 800102009,
         "Key": "Monster_XP_Minion01_01_Config",
-        "Name": "Frostspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it.",
+        "Name": "{RUBY_B#しも}霜{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで低温を発散する、すべてを凍らせる鳥のようだ。",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -25326,8 +28663,8 @@ var _monster_2 = {
     "800102010": {
         "_id": 800102010,
         "Key": "Monster_XP_Minion01_01_Config",
-        "Name": "Frostspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it.",
+        "Name": "{RUBY_B#しも}霜{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで低温を発散する、すべてを凍らせる鳥のようだ。",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -25370,8 +28707,8 @@ var _monster_2 = {
     "800102011": {
         "_id": 800102011,
         "Key": "Monster_XP_Minion01_01_Config",
-        "Name": "Frostspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it.",
+        "Name": "{RUBY_B#しも}霜{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで低温を発散する、すべてを凍らせる鳥のようだ。",
         "Stats": {
             "HP": 1.0,
             "ATK": 18.0,
@@ -25414,8 +28751,8 @@ var _monster_2 = {
     "800102012": {
         "_id": 800102012,
         "Key": "Monster_XP_Minion01_01_Config",
-        "Name": "Frostspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it.",
+        "Name": "{RUBY_B#しも}霜{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで低温を発散する、すべてを凍らせる鳥のようだ。",
         "Stats": {
             "HP": 2.75,
             "ATK": 12.00006,
@@ -25461,8 +28798,8 @@ var _monster_2 = {
     "800102013": {
         "_id": 800102013,
         "Key": "Monster_XP_Minion01_01_Config",
-        "Name": "Frostspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it.",
+        "Name": "{RUBY_B#しも}霜{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで低温を発散する、すべてを凍らせる鳥のようだ。",
         "Stats": {
             "HP": 0.9,
             "ATK": 10.00008,
@@ -25505,8 +28842,8 @@ var _monster_2 = {
     "800102014": {
         "_id": 800102014,
         "Key": "Monster_XP_Minion01_01_Config",
-        "Name": "Frostspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it.",
+        "Name": "{RUBY_B#しも}霜{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで低温を発散する、すべてを凍らせる鳥のようだ。",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -25549,8 +28886,8 @@ var _monster_2 = {
     "800102015": {
         "_id": 800102015,
         "Key": "Monster_XP_Minion01_01_Config",
-        "Name": "Frostspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it.",
+        "Name": "{RUBY_B#しも}霜{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで低温を発散する、すべてを凍らせる鳥のようだ。",
         "Stats": {
             "HP": 0.9,
             "ATK": 18.0,
@@ -25593,8 +28930,8 @@ var _monster_2 = {
     "800102016": {
         "_id": 800102016,
         "Key": "Monster_XP_Minion01_01_Config",
-        "Name": "Frostspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it.",
+        "Name": "{RUBY_B#しも}霜{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで低温を発散する、すべてを凍らせる鳥のようだ。",
         "Stats": {
             "HP": 1.0,
             "ATK": 18.0,
@@ -25637,8 +28974,8 @@ var _monster_2 = {
     "800103001": {
         "_id": 800103001,
         "Key": "Monster_XP_Minion03_00_Config",
-        "Name": "Mask of No Thought",
-        "Desc": "Victims of Fragmentum corrosion pieced together into one bizarre creature, their numb faces forming a sphere without thought or emotion. Any part that was once human has since vanished.",
+        "Name": "{RUBY_B#むそうかめん}無想仮面{RUBY_E#}",
+        "Desc": "裂界に侵蝕された被害者たちで繋ぎ合わされた怪奇な造物。朴訥な顔が羅列されており、思想もなく、情緒もなく、かつて人と呼ばれた部分は全て消え去った。",
         "Stats": {
             "HP": 1.0,
             "ATK": 18.0,
@@ -25688,8 +29025,8 @@ var _monster_2 = {
     "800103002": {
         "_id": 800103002,
         "Key": "Monster_XP_Minion03_00_Config",
-        "Name": "Mask of No Thought",
-        "Desc": "Victims of Fragmentum corrosion pieced together into one bizarre creature, their numb faces forming a sphere without thought or emotion. Any part that was once human has since vanished.",
+        "Name": "{RUBY_B#むそうかめん}無想仮面{RUBY_E#}",
+        "Desc": "裂界に侵蝕された被害者たちで繋ぎ合わされた怪奇な造物。朴訥な顔が羅列されており、思想もなく、情緒もなく、かつて人と呼ばれた部分は全て消え去った。",
         "Stats": {
             "HP": 0.375,
             "ATK": 18.0,
@@ -25739,8 +29076,8 @@ var _monster_2 = {
     "800103003": {
         "_id": 800103003,
         "Key": "Monster_XP_Minion03_00_Config",
-        "Name": "Mask of No Thought",
-        "Desc": "Victims of Fragmentum corrosion pieced together into one bizarre creature, their numb faces forming a sphere without thought or emotion. Any part that was once human has since vanished.",
+        "Name": "{RUBY_B#むそうかめん}無想仮面{RUBY_E#}",
+        "Desc": "裂界に侵蝕された被害者たちで繋ぎ合わされた怪奇な造物。朴訥な顔が羅列されており、思想もなく、情緒もなく、かつて人と呼ばれた部分は全て消え去った。",
         "Stats": {
             "HP": 0.375,
             "ATK": 18.0,
@@ -25787,8 +29124,8 @@ var _monster_2 = {
     "800103004": {
         "_id": 800103004,
         "Key": "Monster_XP_Minion03_00_Config",
-        "Name": "Mask of No Thought",
-        "Desc": "Victims of Fragmentum corrosion pieced together into one bizarre creature, their numb faces forming a sphere without thought or emotion. Any part that was once human has since vanished.",
+        "Name": "{RUBY_B#むそうかめん}無想仮面{RUBY_E#}",
+        "Desc": "裂界に侵蝕された被害者たちで繋ぎ合わされた怪奇な造物。朴訥な顔が羅列されており、思想もなく、情緒もなく、かつて人と呼ばれた部分は全て消え去った。",
         "Stats": {
             "HP": 0.4,
             "ATK": 18.0,
@@ -25835,8 +29172,8 @@ var _monster_2 = {
     "800103005": {
         "_id": 800103005,
         "Key": "Monster_XP_Minion03_00_Config",
-        "Name": "Mask of No Thought",
-        "Desc": "Victims of Fragmentum corrosion pieced together into one bizarre creature, their numb faces forming a sphere without thought or emotion. Any part that was once human has since vanished.",
+        "Name": "{RUBY_B#むそうかめん}無想仮面{RUBY_E#}",
+        "Desc": "裂界に侵蝕された被害者たちで繋ぎ合わされた怪奇な造物。朴訥な顔が羅列されており、思想もなく、情緒もなく、かつて人と呼ばれた部分は全て消え去った。",
         "Stats": {
             "HP": 0.05,
             "ATK": 18.0,
@@ -25883,8 +29220,8 @@ var _monster_2 = {
     "800103006": {
         "_id": 800103006,
         "Key": "Monster_XP_Minion03_00_Config",
-        "Name": "Mask of No Thought",
-        "Desc": "Victims of Fragmentum corrosion pieced together into one bizarre creature, their numb faces forming a sphere without thought or emotion. Any part that was once human has since vanished.",
+        "Name": "{RUBY_B#むそうかめん}無想仮面{RUBY_E#}",
+        "Desc": "裂界に侵蝕された被害者たちで繋ぎ合わされた怪奇な造物。朴訥な顔が羅列されており、思想もなく、情緒もなく、かつて人と呼ばれた部分は全て消え去った。",
         "Stats": {
             "HP": 0.05,
             "ATK": 18.0,
@@ -25931,8 +29268,8 @@ var _monster_2 = {
     "800103007": {
         "_id": 800103007,
         "Key": "Monster_XP_Minion03_00_Config",
-        "Name": "Mask of No Thought",
-        "Desc": "Victims of Fragmentum corrosion pieced together into one bizarre creature, their numb faces forming a sphere without thought or emotion. Any part that was once human has since vanished.",
+        "Name": "{RUBY_B#むそうかめん}無想仮面{RUBY_E#}",
+        "Desc": "裂界に侵蝕された被害者たちで繋ぎ合わされた怪奇な造物。朴訥な顔が羅列されており、思想もなく、情緒もなく、かつて人と呼ばれた部分は全て消え去った。",
         "Stats": {
             "HP": 0.05,
             "ATK": 18.0,
@@ -25979,8 +29316,8 @@ var _monster_2 = {
     "800103008": {
         "_id": 800103008,
         "Key": "Monster_XP_Minion03_00_Config",
-        "Name": "Mask of No Thought",
-        "Desc": "Victims of Fragmentum corrosion pieced together into one bizarre creature, their numb faces forming a sphere without thought or emotion. Any part that was once human has since vanished.",
+        "Name": "{RUBY_B#むそうかめん}無想仮面{RUBY_E#}",
+        "Desc": "裂界に侵蝕された被害者たちで繋ぎ合わされた怪奇な造物。朴訥な顔が羅列されており、思想もなく、情緒もなく、かつて人と呼ばれた部分は全て消え去った。",
         "Stats": {
             "HP": 0.05,
             "ATK": 18.0,
@@ -26027,8 +29364,8 @@ var _monster_2 = {
     "800104001": {
         "_id": 800104001,
         "Key": "Monster_XP_Minion01_03_Config",
-        "Name": "Thunderspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird brimming with electricity, releasing thunderclaps in all directions.",
+        "Name": "{RUBY_B#かみなり}雷{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで電気を纏い、稲妻を噴き出す鳥のようだ。",
         "Stats": {
             "HP": 1.65,
             "ATK": 18.0,
@@ -26077,8 +29414,8 @@ var _monster_2 = {
     "800104002": {
         "_id": 800104002,
         "Key": "Monster_XP_Minion01_03_Config",
-        "Name": "Thunderspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird brimming with electricity, releasing thunderclaps in all directions.",
+        "Name": "{RUBY_B#かみなり}雷{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで電気を纏い、稲妻を噴き出す鳥のようだ。",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -26127,8 +29464,8 @@ var _monster_2 = {
     "800104003": {
         "_id": 800104003,
         "Key": "Monster_XP_Minion01_03_Config",
-        "Name": "Thunderspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird brimming with electricity, releasing thunderclaps in all directions.",
+        "Name": "{RUBY_B#かみなり}雷{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで電気を纏い、稲妻を噴き出す鳥のようだ。",
         "Stats": {
             "HP": 0.9,
             "ATK": 10.00008,
@@ -26174,8 +29511,8 @@ var _monster_2 = {
     "800105001": {
         "_id": 800105001,
         "Key": "Monster_XP_Minion01_02_Config",
-        "Name": "Windspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird engulfed in twisting winds, raging on like a tornado.",
+        "Name": "{RUBY_B#かぜ}風{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで気流を纏い、疾風を翔ける鳥のようだ。",
         "Stats": {
             "HP": 1.65,
             "ATK": 18.0,
@@ -26224,8 +29561,8 @@ var _monster_2 = {
     "800105002": {
         "_id": 800105002,
         "Key": "Monster_XP_Minion01_02_Config",
-        "Name": "Windspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird engulfed in twisting winds, raging on like a tornado.",
+        "Name": "{RUBY_B#かぜ}風{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで気流を纏い、疾風を翔ける鳥のようだ。",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -26274,8 +29611,8 @@ var _monster_2 = {
     "800105003": {
         "_id": 800105003,
         "Key": "Monster_XP_Minion01_02_Config",
-        "Name": "Windspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird engulfed in twisting winds, raging on like a tornado.",
+        "Name": "{RUBY_B#かぜ}風{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで気流を纏い、疾風を翔ける鳥のようだ。",
         "Stats": {
             "HP": 0.9,
             "ATK": 10.00008,
@@ -26321,8 +29658,8 @@ var _monster_2 = {
     "800105004": {
         "_id": 800105004,
         "Key": "Monster_XP_Minion01_02_Config",
-        "Name": "Windspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird engulfed in twisting winds, raging on like a tornado.",
+        "Name": "{RUBY_B#かぜ}風{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで気流を纏い、疾風を翔ける鳥のようだ。",
         "Stats": {
             "HP": 0.25,
             "ATK": 18.0,
@@ -26371,8 +29708,8 @@ var _monster_2 = {
     "800105005": {
         "_id": 800105005,
         "Key": "Monster_XP_Minion01_02_Config",
-        "Name": "Windspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird engulfed in twisting winds, raging on like a tornado.",
+        "Name": "{RUBY_B#かぜ}風{RUBY_E#}の{RUBY_B#ぞうぶつ}造物{RUBY_E#}",
+        "Desc": "裂界を彷徨う結晶体の元素、簡単な知能しか持っていない。その形はまるで気流を纏い、疾風を翔ける鳥のようだ。",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -26421,8 +29758,8 @@ var _monster_2 = {
     "800201001": {
         "_id": 800201001,
         "Key": "Monster_XP_Minion02_00_Config",
-        "Name": "Imaginary Weaver",
-        "Desc": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will.",
+        "Name": "{RUBY_B#きょすう}虚数{RUBY_E#}の{RUBY_B#は}葉{RUBY_E#}を{RUBY_B#お}織{RUBY_E#}る{RUBY_B#もの}者{RUBY_E#}",
+        "Desc": "この世に属さない怪異な生命体、黯淡な星空の彼方より、幾重もの帷幕を超えてやって来た。その身体はまるで病に患った枝葉が現実に突き出したように、虚数の力で現実を意のままに書き換える。",
         "Stats": {
             "HP": 1.5,
             "ATK": 12.00006,
@@ -26475,8 +29812,8 @@ var _monster_2 = {
     "800201002": {
         "_id": 800201002,
         "Key": "Monster_XP_Minion02_00_Config",
-        "Name": "Imaginary Weaver",
-        "Desc": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will.",
+        "Name": "{RUBY_B#きょすう}虚数{RUBY_E#}の{RUBY_B#は}葉{RUBY_E#}を{RUBY_B#お}織{RUBY_E#}る{RUBY_B#もの}者{RUBY_E#}",
+        "Desc": "この世に属さない怪異な生命体、黯淡な星空の彼方より、幾重もの帷幕を超えてやって来た。その身体はまるで病に患った枝葉が現実に突き出したように、虚数の力で現実を意のままに書き換える。",
         "Stats": {
             "HP": 1.9,
             "ATK": 12.00006,
@@ -26529,8 +29866,8 @@ var _monster_2 = {
     "800201003": {
         "_id": 800201003,
         "Key": "Monster_XP_Minion02_00_Config",
-        "Name": "Imaginary Weaver",
-        "Desc": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will.",
+        "Name": "{RUBY_B#きょすう}虚数{RUBY_E#}の{RUBY_B#は}葉{RUBY_E#}を{RUBY_B#お}織{RUBY_E#}る{RUBY_B#もの}者{RUBY_E#}",
+        "Desc": "この世に属さない怪異な生命体、黯淡な星空の彼方より、幾重もの帷幕を超えてやって来た。その身体はまるで病に患った枝葉が現実に突き出したように、虚数の力で現実を意のままに書き換える。",
         "Stats": {
             "HP": 1.9,
             "ATK": 18.0,
@@ -26585,8 +29922,8 @@ var _monster_2 = {
     "800201004": {
         "_id": 800201004,
         "Key": "Monster_XP_Minion02_00_Config",
-        "Name": "Imaginary Weaver",
-        "Desc": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will.",
+        "Name": "{RUBY_B#きょすう}虚数{RUBY_E#}の{RUBY_B#は}葉{RUBY_E#}を{RUBY_B#お}織{RUBY_E#}る{RUBY_B#もの}者{RUBY_E#}",
+        "Desc": "この世に属さない怪異な生命体、黯淡な星空の彼方より、幾重もの帷幕を超えてやって来た。その身体はまるで病に患った枝葉が現実に突き出したように、虚数の力で現実を意のままに書き換える。",
         "Stats": {
             "HP": 1.9,
             "ATK": 18.0,
@@ -26641,8 +29978,8 @@ var _monster_2 = {
     "800201005": {
         "_id": 800201005,
         "Key": "Monster_XP_Minion02_00_Config",
-        "Name": "Imaginary Weaver",
-        "Desc": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will.",
+        "Name": "{RUBY_B#きょすう}虚数{RUBY_E#}の{RUBY_B#は}葉{RUBY_E#}を{RUBY_B#お}織{RUBY_E#}る{RUBY_B#もの}者{RUBY_E#}",
+        "Desc": "この世に属さない怪異な生命体、黯淡な星空の彼方より、幾重もの帷幕を超えてやって来た。その身体はまるで病に患った枝葉が現実に突き出したように、虚数の力で現実を意のままに書き換える。",
         "Stats": {
             "HP": 2.4,
             "ATK": 23.99994,
@@ -26698,8 +30035,8 @@ var _monster_2 = {
     "800201006": {
         "_id": 800201006,
         "Key": "Monster_XP_Minion02_00_Config",
-        "Name": "Imaginary Weaver",
-        "Desc": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will.",
+        "Name": "{RUBY_B#きょすう}虚数{RUBY_E#}の{RUBY_B#は}葉{RUBY_E#}を{RUBY_B#お}織{RUBY_E#}る{RUBY_B#もの}者{RUBY_E#}",
+        "Desc": "この世に属さない怪異な生命体、黯淡な星空の彼方より、幾重もの帷幕を超えてやって来た。その身体はまるで病に患った枝葉が現実に突き出したように、虚数の力で現実を意のままに書き換える。",
         "Stats": {
             "HP": 1.9,
             "ATK": 18.0,
@@ -26752,8 +30089,8 @@ var _monster_2 = {
     "800201007": {
         "_id": 800201007,
         "Key": "Monster_XP_Minion02_00_Config",
-        "Name": "Imaginary Weaver",
-        "Desc": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will.",
+        "Name": "{RUBY_B#きょすう}虚数{RUBY_E#}の{RUBY_B#は}葉{RUBY_E#}を{RUBY_B#お}織{RUBY_E#}る{RUBY_B#もの}者{RUBY_E#}",
+        "Desc": "この世に属さない怪異な生命体、黯淡な星空の彼方より、幾重もの帷幕を超えてやって来た。その身体はまるで病に患った枝葉が現実に突き出したように、虚数の力で現実を意のままに書き換える。",
         "Stats": {
             "HP": 1.9,
             "ATK": 18.0,
@@ -26806,8 +30143,8 @@ var _monster_2 = {
     "800201008": {
         "_id": 800201008,
         "Key": "Monster_XP_Minion02_00_Config",
-        "Name": "Imaginary Weaver",
-        "Desc": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will.",
+        "Name": "{RUBY_B#きょすう}虚数{RUBY_E#}の{RUBY_B#は}葉{RUBY_E#}を{RUBY_B#お}織{RUBY_E#}る{RUBY_B#もの}者{RUBY_E#}",
+        "Desc": "この世に属さない怪異な生命体、黯淡な星空の彼方より、幾重もの帷幕を超えてやって来た。その身体はまるで病に患った枝葉が現実に突き出したように、虚数の力で現実を意のままに書き換える。",
         "Stats": {
             "HP": 1.9,
             "ATK": 12.00006,
@@ -26860,8 +30197,8 @@ var _monster_2 = {
     "800201009": {
         "_id": 800201009,
         "Key": "Monster_XP_Minion02_00_Config",
-        "Name": "Imaginary Weaver",
-        "Desc": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will.",
+        "Name": "{RUBY_B#きょすう}虚数{RUBY_E#}の{RUBY_B#は}葉{RUBY_E#}を{RUBY_B#お}織{RUBY_E#}る{RUBY_B#もの}者{RUBY_E#}",
+        "Desc": "この世に属さない怪異な生命体、黯淡な星空の彼方より、幾重もの帷幕を超えてやって来た。その身体はまるで病に患った枝葉が現実に突き出したように、虚数の力で現実を意のままに書き換える。",
         "Stats": {
             "HP": 2.5,
             "ATK": 18.0,
@@ -26917,8 +30254,8 @@ var _monster_2 = {
     "800201012": {
         "_id": 800201012,
         "Key": "Monster_XP_Minion02_00_Config",
-        "Name": "Imaginary Weaver",
-        "Desc": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will.",
+        "Name": "{RUBY_B#きょすう}虚数{RUBY_E#}の{RUBY_B#は}葉{RUBY_E#}を{RUBY_B#お}織{RUBY_E#}る{RUBY_B#もの}者{RUBY_E#}",
+        "Desc": "この世に属さない怪異な生命体、黯淡な星空の彼方より、幾重もの帷幕を超えてやって来た。その身体はまるで病に患った枝葉が現実に突き出したように、虚数の力で現実を意のままに書き換える。",
         "Stats": {
             "HP": 1.9,
             "ATK": 10.00008,
@@ -26971,11 +30308,65 @@ var _monster_2 = {
         ],
         "Csxylic": "SCFragmentumMonsters/8002010"
     },
+    "800201015": {
+        "_id": 800201015,
+        "Key": "Monster_XP_Minion02_00_Config",
+        "Name": "{RUBY_B#きょすう}虚数{RUBY_E#}の{RUBY_B#は}葉{RUBY_E#}を{RUBY_B#お}織{RUBY_E#}る{RUBY_B#もの}者{RUBY_E#}",
+        "Desc": "この世に属さない怪異な生命体、黯淡な星空の彼方より、幾重もの帷幕を超えてやって来た。その身体はまるで病に患った枝葉が現実に突き出したように、虚数の力で現実を意のままに書き換える。",
+        "Stats": {
+            "HP": 1.9,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800201001,
+                    800201002,
+                    800201003
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800201004
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8002010.png",
+        "Figure": "monsterfigure/Monster_8002010.png",
+        "Status": [
+            280020102
+        ],
+        "AllSkills": [
+            800201001,
+            800201002,
+            800201003
+        ],
+        "Csxylic": "SCFragmentumMonsters/8002010"
+    },
     "800201016": {
         "_id": 800201016,
         "Key": "Monster_XP_Minion02_00_Config",
-        "Name": "Imaginary Weaver",
-        "Desc": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will.",
+        "Name": "{RUBY_B#きょすう}虚数{RUBY_E#}の{RUBY_B#は}葉{RUBY_E#}を{RUBY_B#お}織{RUBY_E#}る{RUBY_B#もの}者{RUBY_E#}",
+        "Desc": "この世に属さない怪異な生命体、黯淡な星空の彼方より、幾重もの帷幕を超えてやって来た。その身体はまるで病に患った枝葉が現実に突き出したように、虚数の力で現実を意のままに書き換える。",
         "Stats": {
             "HP": 1.9,
             "ATK": 18.0,
@@ -27028,8 +30419,8 @@ var _monster_2 = {
     "800204001": {
         "_id": 800204001,
         "Key": "Monster_XP_Minion04_00_Config",
-        "Name": "Warp Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じげん}次元{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -27076,8 +30467,8 @@ var _monster_2 = {
     "800204002": {
         "_id": 800204002,
         "Key": "Monster_XP_Minion04_00_Config",
-        "Name": "Warp Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じげん}次元{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -27124,8 +30515,8 @@ var _monster_2 = {
     "800204003": {
         "_id": 800204003,
         "Key": "Monster_XP_Minion04_00_Config",
-        "Name": "Warp Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じげん}次元{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 4.0,
             "ATK": 18.0,
@@ -27169,8 +30560,8 @@ var _monster_2 = {
     "800204004": {
         "_id": 800204004,
         "Key": "Monster_XP_Minion04_00_Config",
-        "Name": "Warp Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じげん}次元{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -27214,8 +30605,8 @@ var _monster_2 = {
     "800205001": {
         "_id": 800205001,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -27262,8 +30653,8 @@ var _monster_2 = {
     "800205002": {
         "_id": 800205002,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 1.68001,
             "ATK": 18.0,
@@ -27311,8 +30702,8 @@ var _monster_2 = {
     "800205003": {
         "_id": 800205003,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -27359,8 +30750,8 @@ var _monster_2 = {
     "800205004": {
         "_id": 800205004,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -27407,8 +30798,8 @@ var _monster_2 = {
     "800205005": {
         "_id": 800205005,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -27455,8 +30846,8 @@ var _monster_2 = {
     "800205006": {
         "_id": 800205006,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -27503,8 +30894,8 @@ var _monster_2 = {
     "800205007": {
         "_id": 800205007,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -27551,8 +30942,8 @@ var _monster_2 = {
     "800205008": {
         "_id": 800205008,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -27599,8 +30990,8 @@ var _monster_2 = {
     "800205009": {
         "_id": 800205009,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -27647,8 +31038,8 @@ var _monster_2 = {
     "800205010": {
         "_id": 800205010,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -27695,8 +31086,8 @@ var _monster_2 = {
     "800205011": {
         "_id": 800205011,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 4.8,
             "ATK": 18.0,
@@ -27743,8 +31134,8 @@ var _monster_2 = {
     "800205012": {
         "_id": 800205012,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -27791,8 +31182,8 @@ var _monster_2 = {
     "800205013": {
         "_id": 800205013,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -27839,8 +31230,8 @@ var _monster_2 = {
     "800205014": {
         "_id": 800205014,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -27887,8 +31278,8 @@ var _monster_2 = {
     "800205015": {
         "_id": 800205015,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -27935,8 +31326,8 @@ var _monster_2 = {
     "800205016": {
         "_id": 800205016,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -27983,8 +31374,8 @@ var _monster_2 = {
     "800205017": {
         "_id": 800205017,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -28031,8 +31422,8 @@ var _monster_2 = {
     "800205018": {
         "_id": 800205018,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -28079,8 +31470,8 @@ var _monster_2 = {
     "800205019": {
         "_id": 800205019,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -28127,8 +31518,8 @@ var _monster_2 = {
     "800205020": {
         "_id": 800205020,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -28175,8 +31566,8 @@ var _monster_2 = {
     "800205021": {
         "_id": 800205021,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -28223,8 +31614,8 @@ var _monster_2 = {
     "800205022": {
         "_id": 800205022,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -28271,8 +31662,8 @@ var _monster_2 = {
     "800205023": {
         "_id": 800205023,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -28319,8 +31710,8 @@ var _monster_2 = {
     "800205024": {
         "_id": 800205024,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -28367,8 +31758,8 @@ var _monster_2 = {
     "800205025": {
         "_id": 800205025,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -28415,8 +31806,8 @@ var _monster_2 = {
     "800205026": {
         "_id": 800205026,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -28463,8 +31854,8 @@ var _monster_2 = {
     "800205027": {
         "_id": 800205027,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -28511,8 +31902,8 @@ var _monster_2 = {
     "800205028": {
         "_id": 800205028,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 2.8,
             "ATK": 18.0,
@@ -28559,8 +31950,8 @@ var _monster_2 = {
     "800205029": {
         "_id": 800205029,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 2.8,
             "ATK": 18.0,
@@ -28607,8 +31998,8 @@ var _monster_2 = {
     "800205030": {
         "_id": 800205030,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 2.8,
             "ATK": 18.0,
@@ -28655,8 +32046,8 @@ var _monster_2 = {
     "800205031": {
         "_id": 800205031,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 2.8,
             "ATK": 18.0,
@@ -28703,8 +32094,8 @@ var _monster_2 = {
     "800205032": {
         "_id": 800205032,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 2.8,
             "ATK": 18.0,
@@ -28751,8 +32142,8 @@ var _monster_2 = {
     "800205033": {
         "_id": 800205033,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 2.8,
             "ATK": 18.0,
@@ -28799,8 +32190,8 @@ var _monster_2 = {
     "800205034": {
         "_id": 800205034,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 2.8,
             "ATK": 18.0,
@@ -28847,8 +32238,8 @@ var _monster_2 = {
     "800205035": {
         "_id": 800205035,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 2.8,
             "ATK": 18.0,
@@ -28895,8 +32286,8 @@ var _monster_2 = {
     "800205036": {
         "_id": 800205036,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 2.8,
             "ATK": 18.0,
@@ -28943,8 +32334,8 @@ var _monster_2 = {
     "800205037": {
         "_id": 800205037,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 2.8,
             "ATK": 18.0,
@@ -28991,8 +32382,8 @@ var _monster_2 = {
     "800205038": {
         "_id": 800205038,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 2.8,
             "ATK": 18.0,
@@ -29039,8 +32430,8 @@ var _monster_2 = {
     "800205039": {
         "_id": 800205039,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 2.8,
             "ATK": 18.0,
@@ -29087,8 +32478,8 @@ var _monster_2 = {
     "800205040": {
         "_id": 800205040,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 2.8,
             "ATK": 18.0,
@@ -29135,8 +32526,8 @@ var _monster_2 = {
     "800205041": {
         "_id": 800205041,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 2.8,
             "ATK": 18.0,
@@ -29183,8 +32574,8 @@ var _monster_2 = {
     "800205042": {
         "_id": 800205042,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 2.8,
             "ATK": 18.0,
@@ -29231,8 +32622,8 @@ var _monster_2 = {
     "800205043": {
         "_id": 800205043,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 2.8,
             "ATK": 18.0,
@@ -29279,8 +32670,8 @@ var _monster_2 = {
     "800205044": {
         "_id": 800205044,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 2.4,
             "ATK": 18.0,
@@ -29325,11 +32716,899 @@ var _monster_2 = {
         ],
         "Csxylic": "SCCosmos/8002050"
     },
+    "800205045": {
+        "_id": 800205045,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205046": {
+        "_id": 800205046,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Ice",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205047": {
+        "_id": 800205047,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205048": {
+        "_id": 800205048,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205049": {
+        "_id": 800205049,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205050": {
+        "_id": 800205050,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205051": {
+        "_id": 800205051,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205052": {
+        "_id": 800205052,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205053": {
+        "_id": 800205053,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 67.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205054": {
+        "_id": 800205054,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 67.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205055": {
+        "_id": 800205055,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
+        "Stats": {
+            "HP": 4.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 67.0
+        },
+        "Weak": [
+            "Phys",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205056": {
+        "_id": 800205056,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205057": {
+        "_id": 800205057,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205058": {
+        "_id": 800205058,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Fire",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205059": {
+        "_id": 800205059,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205060": {
+        "_id": 800205060,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205061": {
+        "_id": 800205061,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205062": {
+        "_id": 800205062,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    "800205063": {
+        "_id": 800205063,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": "{RUBY_B#じょれつ}序列{RUBY_E#}プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
     "800208101": {
         "_id": 800208101,
         "Key": "Monster_XP_Minion04_04_Config",
-        "Name": "Trotter of Preservation",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "存護プーマン",
+        "Desc": "群星に迷い込んだ異空間の生物。温かく、甘い、食べられない。生命の大半を、食べることと逃げることに費やす。出会うことは旅人の間で吉兆とされている。",
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -29380,8 +33659,8 @@ var _monster_2 = {
     "800301001": {
         "_id": 800301001,
         "Key": "Monster_XP_Elite01_01_Config",
-        "Name": "Ice Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#こおり}氷{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には暗き星空が映っている。<br>戦闘中、宇宙からの氷は容易に敵を凍結できる。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -29441,8 +33720,8 @@ var _monster_2 = {
     "800301002": {
         "_id": 800301002,
         "Key": "Monster_XP_Elite01_01_Config",
-        "Name": "Ice Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#こおり}氷{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には暗き星空が映っている。<br>戦闘中、宇宙からの氷は容易に敵を凍結できる。",
         "Stats": {
             "HP": 8.0,
             "ATK": 30.00006,
@@ -29501,8 +33780,8 @@ var _monster_2 = {
     "800301003": {
         "_id": 800301003,
         "Key": "Monster_XP_Elite01_01_Config",
-        "Name": "Ice Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#こおり}氷{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には暗き星空が映っている。<br>戦闘中、宇宙からの氷は容易に敵を凍結できる。",
         "Stats": {
             "HP": 16.5,
             "ATK": 18.0,
@@ -29559,8 +33838,8 @@ var _monster_2 = {
     "800301004": {
         "_id": 800301004,
         "Key": "Monster_XP_Elite01_01_Config",
-        "Name": "Ice Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#こおり}氷{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には暗き星空が映っている。<br>戦闘中、宇宙からの氷は容易に敵を凍結できる。",
         "Stats": {
             "HP": 36.0,
             "ATK": 19.99998,
@@ -29617,8 +33896,8 @@ var _monster_2 = {
     "800301005": {
         "_id": 800301005,
         "Key": "Monster_XP_Elite01_01_Config",
-        "Name": "Ice Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#こおり}氷{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には暗き星空が映っている。<br>戦闘中、宇宙からの氷は容易に敵を凍結できる。",
         "Stats": {
             "HP": 40.0,
             "ATK": 18.0,
@@ -29675,8 +33954,8 @@ var _monster_2 = {
     "800301006": {
         "_id": 800301006,
         "Key": "Monster_XP_Elite01_01_Config",
-        "Name": "Ice Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#こおり}氷{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には暗き星空が映っている。<br>戦闘中、宇宙からの氷は容易に敵を凍結できる。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -29736,8 +34015,8 @@ var _monster_2 = {
     "800301007": {
         "_id": 800301007,
         "Key": "Monster_XP_Elite01_01_Config",
-        "Name": "Ice Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#こおり}氷{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には暗き星空が映っている。<br>戦闘中、宇宙からの氷は容易に敵を凍結できる。",
         "Stats": {
             "HP": 4.5,
             "ATK": 14.4,
@@ -29797,8 +34076,8 @@ var _monster_2 = {
     "800301008": {
         "_id": 800301008,
         "Key": "Monster_XP_Elite01_01_Config",
-        "Name": "Ice Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#こおり}氷{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には暗き星空が映っている。<br>戦闘中、宇宙からの氷は容易に敵を凍結できる。",
         "Stats": {
             "HP": 5.0,
             "ATK": 14.99994,
@@ -29859,17 +34138,14 @@ var _monster_2 = {
     "800301009": {
         "_id": 800301009,
         "Key": "Monster_XP_Elite01_01_Config",
-        "Name": "Ice Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#こおり}氷{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には暗き星空が映っている。<br>戦闘中、宇宙からの氷は容易に敵を凍結できる。",
         "Stats": {
-            "HP": 10.0,
+            "HP": 12.0,
             "ATK": 14.4,
             "DEF": 1.0,
             "SPD": 100.0,
             "Stance": 10.0
-        },
-        "StatsExtra": {
-            "Stance": -2.0
         },
         "Weak": [
             "Fire",
@@ -29920,8 +34196,8 @@ var _monster_2 = {
     "800301010": {
         "_id": 800301010,
         "Key": "Monster_XP_Elite01_01_Config",
-        "Name": "Ice Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#こおり}氷{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には暗き星空が映っている。<br>戦闘中、宇宙からの氷は容易に敵を凍結できる。",
         "Stats": {
             "HP": 7.5,
             "ATK": 14.4,
@@ -29981,8 +34257,8 @@ var _monster_2 = {
     "800301011": {
         "_id": 800301011,
         "Key": "Monster_XP_Elite01_01_Config",
-        "Name": "Ice Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#こおり}氷{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には暗き星空が映っている。<br>戦闘中、宇宙からの氷は容易に敵を凍結できる。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -30043,8 +34319,8 @@ var _monster_2 = {
     "800301012": {
         "_id": 800301012,
         "Key": "Monster_XP_Elite01_01_Config",
-        "Name": "Ice Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#こおり}氷{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には暗き星空が映っている。<br>戦闘中、宇宙からの氷は容易に敵を凍結できる。",
         "Stats": {
             "HP": 10.0,
             "ATK": 11.25,
@@ -30105,8 +34381,8 @@ var _monster_2 = {
     "800301013": {
         "_id": 800301013,
         "Key": "Monster_XP_Elite01_01_Config",
-        "Name": "Ice Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#こおり}氷{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には暗き星空が映っている。<br>戦闘中、宇宙からの氷は容易に敵を凍結できる。",
         "Stats": {
             "HP": 16.0,
             "ATK": 18.0,
@@ -30166,8 +34442,8 @@ var _monster_2 = {
     "800301014": {
         "_id": 800301014,
         "Key": "Monster_XP_Elite01_01_Config",
-        "Name": "Ice Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#こおり}氷{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には暗き星空が映っている。<br>戦闘中、宇宙からの氷は容易に敵を凍結できる。",
         "Stats": {
             "HP": 85.0,
             "ATK": 18.0,
@@ -30224,8 +34500,8 @@ var _monster_2 = {
     "800301015": {
         "_id": 800301015,
         "Key": "Monster_XP_Elite01_01_Config",
-        "Name": "Ice Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#こおり}氷{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には暗き星空が映っている。<br>戦闘中、宇宙からの氷は容易に敵を凍結できる。",
         "Stats": {
             "HP": 7.5,
             "ATK": 30.00006,
@@ -30286,8 +34562,8 @@ var _monster_2 = {
     "800301016": {
         "_id": 800301016,
         "Key": "Monster_XP_Elite01_01_Config",
-        "Name": "Ice Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#こおり}氷{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には暗き星空が映っている。<br>戦闘中、宇宙からの氷は容易に敵を凍結できる。",
         "Stats": {
             "HP": 7.0,
             "ATK": 18.0,
@@ -30348,8 +34624,8 @@ var _monster_2 = {
     "800302001": {
         "_id": 800302001,
         "Key": "Monster_XP_Elite01_00_Config",
-        "Name": "Blaze Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#ほのお}炎{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には星のコアが燃える様が映っている。<br>戦闘中、宇宙からの炎は容易に敵を灰に燃やせる。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -30405,8 +34681,8 @@ var _monster_2 = {
     "800302002": {
         "_id": 800302002,
         "Key": "Monster_XP_Elite01_00_Config",
-        "Name": "Blaze Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#ほのお}炎{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には星のコアが燃える様が映っている。<br>戦闘中、宇宙からの炎は容易に敵を灰に燃やせる。",
         "Stats": {
             "HP": 3.75,
             "ATK": 30.00006,
@@ -30462,8 +34738,8 @@ var _monster_2 = {
     "800302003": {
         "_id": 800302003,
         "Key": "Monster_XP_Elite01_00_Config",
-        "Name": "Blaze Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#ほのお}炎{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には星のコアが燃える様が映っている。<br>戦闘中、宇宙からの炎は容易に敵を灰に燃やせる。",
         "Stats": {
             "HP": 10.5,
             "ATK": 30.00006,
@@ -30516,8 +34792,8 @@ var _monster_2 = {
     "800302004": {
         "_id": 800302004,
         "Key": "Monster_XP_Elite01_00_Config",
-        "Name": "Blaze Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#ほのお}炎{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には星のコアが燃える様が映っている。<br>戦闘中、宇宙からの炎は容易に敵を灰に燃やせる。",
         "Stats": {
             "HP": 40.0,
             "ATK": 18.0,
@@ -30570,8 +34846,8 @@ var _monster_2 = {
     "800302005": {
         "_id": 800302005,
         "Key": "Monster_XP_Elite01_00_Config",
-        "Name": "Blaze Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#ほのお}炎{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には星のコアが燃える様が映っている。<br>戦闘中、宇宙からの炎は容易に敵を灰に燃やせる。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -30624,8 +34900,8 @@ var _monster_2 = {
     "800302006": {
         "_id": 800302006,
         "Key": "Monster_XP_Elite01_00_Config",
-        "Name": "Blaze Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#ほのお}炎{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には星のコアが燃える様が映っている。<br>戦闘中、宇宙からの炎は容易に敵を灰に燃やせる。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -30678,8 +34954,8 @@ var _monster_2 = {
     "800302007": {
         "_id": 800302007,
         "Key": "Monster_XP_Elite01_00_Config",
-        "Name": "Blaze Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#ほのお}炎{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には星のコアが燃える様が映っている。<br>戦闘中、宇宙からの炎は容易に敵を灰に燃やせる。",
         "Stats": {
             "HP": 10.0,
             "ATK": 12.00006,
@@ -30735,8 +35011,8 @@ var _monster_2 = {
     "800302008": {
         "_id": 800302008,
         "Key": "Monster_XP_Elite01_00_Config",
-        "Name": "Blaze Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#ほのお}炎{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には星のコアが燃える様が映っている。<br>戦闘中、宇宙からの炎は容易に敵を灰に燃やせる。",
         "Stats": {
             "HP": 6.75,
             "ATK": 18.0,
@@ -30789,8 +35065,8 @@ var _monster_2 = {
     "800302009": {
         "_id": 800302009,
         "Key": "Monster_XP_Elite01_00_Config",
-        "Name": "Blaze Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#ほのお}炎{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には星のコアが燃える様が映っている。<br>戦闘中、宇宙からの炎は容易に敵を灰に燃やせる。",
         "Stats": {
             "HP": 4.0,
             "ATK": 30.00006,
@@ -30846,8 +35122,8 @@ var _monster_2 = {
     "800302010": {
         "_id": 800302010,
         "Key": "Monster_XP_Elite01_00_Config",
-        "Name": "Blaze Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#ほのお}炎{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には星のコアが燃える様が映っている。<br>戦闘中、宇宙からの炎は容易に敵を灰に燃やせる。",
         "Stats": {
             "HP": 8.5,
             "ATK": 7.2,
@@ -30903,8 +35179,8 @@ var _monster_2 = {
     "800302011": {
         "_id": 800302011,
         "Key": "Monster_XP_Elite01_00_Config",
-        "Name": "Blaze Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#ほのお}炎{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には星のコアが燃える様が映っている。<br>戦闘中、宇宙からの炎は容易に敵を灰に燃やせる。",
         "Stats": {
             "HP": 15.0,
             "ATK": 12.00006,
@@ -30960,8 +35236,8 @@ var _monster_2 = {
     "800302012": {
         "_id": 800302012,
         "Key": "Monster_XP_Elite01_00_Config",
-        "Name": "Blaze Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#ほのお}炎{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には星のコアが燃える様が映っている。<br>戦闘中、宇宙からの炎は容易に敵を灰に燃やせる。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -31017,8 +35293,8 @@ var _monster_2 = {
     "800302013": {
         "_id": 800302013,
         "Key": "Monster_XP_Elite01_00_Config",
-        "Name": "Blaze Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#ほのお}炎{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には星のコアが燃える様が映っている。<br>戦闘中、宇宙からの炎は容易に敵を灰に燃やせる。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -31074,8 +35350,8 @@ var _monster_2 = {
     "800302014": {
         "_id": 800302014,
         "Key": "Monster_XP_Elite01_00_Config",
-        "Name": "Blaze Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#ほのお}炎{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には星のコアが燃える様が映っている。<br>戦闘中、宇宙からの炎は容易に敵を灰に燃やせる。",
         "Stats": {
             "HP": 10.0,
             "ATK": 12.00006,
@@ -31128,8 +35404,8 @@ var _monster_2 = {
     "800302015": {
         "_id": 800302015,
         "Key": "Monster_XP_Elite01_00_Config",
-        "Name": "Blaze Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#ほのお}炎{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には星のコアが燃える様が映っている。<br>戦闘中、宇宙からの炎は容易に敵を灰に燃やせる。",
         "Stats": {
             "HP": 2.0,
             "ATK": 12.00006,
@@ -31185,8 +35461,8 @@ var _monster_2 = {
     "800302016": {
         "_id": 800302016,
         "Key": "Monster_XP_Elite01_00_Config",
-        "Name": "Blaze Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#ほのお}炎{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には星のコアが燃える様が映っている。<br>戦闘中、宇宙からの炎は容易に敵を灰に燃やせる。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -31243,8 +35519,8 @@ var _monster_2 = {
     "800302017": {
         "_id": 800302017,
         "Key": "Monster_XP_Elite01_00_Config",
-        "Name": "Blaze Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#ほのお}炎{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には星のコアが燃える様が映っている。<br>戦闘中、宇宙からの炎は容易に敵を灰に燃やせる。",
         "Stats": {
             "HP": 10.0,
             "ATK": 12.00006,
@@ -31297,8 +35573,8 @@ var _monster_2 = {
     "800302019": {
         "_id": 800302019,
         "Key": "Monster_XP_Elite01_00_Config",
-        "Name": "Blaze Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches.",
+        "Name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}からの{RUBY_B#ほのお}炎{RUBY_E#}",
+        "Desc": "この世界に属さない怪異なる生命体、星核がもたらした裂界より生まれ、世界の根に寄生しエネルギーを吸収する。その甲冑には星のコアが燃える様が映っている。<br>戦闘中、宇宙からの炎は容易に敵を灰に燃やせる。",
         "Stats": {
             "HP": 13.0,
             "ATK": 14.99994,
@@ -31354,8 +35630,8 @@ var _monster_2 = {
     "800303001": {
         "_id": 800303001,
         "Key": "Monster_XP_Elite02_00_Config",
-        "Name": "Guardian Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master.",
+        "Name": "{RUBY_B#しゅごしゃ}守護者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。この力は、当てもなく辺りを彷徨い、主の意志を感じた時にやっとそれに従い行動する。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -31423,8 +35699,8 @@ var _monster_2 = {
     "800303002": {
         "_id": 800303002,
         "Key": "Monster_XP_Elite02_00_Config",
-        "Name": "Guardian Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master.",
+        "Name": "{RUBY_B#しゅごしゃ}守護者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。この力は、当てもなく辺りを彷徨い、主の意志を感じた時にやっとそれに従い行動する。",
         "Stats": {
             "HP": 6.0,
             "ATK": 12.00006,
@@ -31492,8 +35768,8 @@ var _monster_2 = {
     "800303003": {
         "_id": 800303003,
         "Key": "Monster_XP_Elite02_00_Config",
-        "Name": "Guardian Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master.",
+        "Name": "{RUBY_B#しゅごしゃ}守護者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。この力は、当てもなく辺りを彷徨い、主の意志を感じた時にやっとそれに従い行動する。",
         "Stats": {
             "HP": 60.0,
             "ATK": 18.0,
@@ -31561,8 +35837,8 @@ var _monster_2 = {
     "800303004": {
         "_id": 800303004,
         "Key": "Monster_XP_Elite02_00_Config",
-        "Name": "Cyrille",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master.",
+        "Name": "セリル",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。この力は、当てもなく辺りを彷徨い、主の意志を感じた時にやっとそれに従い行動する。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -31627,8 +35903,8 @@ var _monster_2 = {
     "800303005": {
         "_id": 800303005,
         "Key": "Monster_XP_Elite02_00_Config",
-        "Name": "Guardian Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master.",
+        "Name": "{RUBY_B#しゅごしゃ}守護者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。この力は、当てもなく辺りを彷徨い、主の意志を感じた時にやっとそれに従い行動する。",
         "Stats": {
             "HP": 21.0,
             "ATK": 19.99998,
@@ -31693,8 +35969,8 @@ var _monster_2 = {
     "800303006": {
         "_id": 800303006,
         "Key": "Monster_XP_Elite02_00_Config",
-        "Name": "Guardian Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master.",
+        "Name": "{RUBY_B#しゅごしゃ}守護者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。この力は、当てもなく辺りを彷徨い、主の意志を感じた時にやっとそれに従い行動する。",
         "Stats": {
             "HP": 38.0,
             "ATK": 19.99998,
@@ -31759,8 +36035,8 @@ var _monster_2 = {
     "800303007": {
         "_id": 800303007,
         "Key": "Monster_XP_Elite02_00_Config",
-        "Name": "Guardian Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master.",
+        "Name": "{RUBY_B#しゅごしゃ}守護者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。この力は、当てもなく辺りを彷徨い、主の意志を感じた時にやっとそれに従い行動する。",
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -31828,8 +36104,8 @@ var _monster_2 = {
     "800303008": {
         "_id": 800303008,
         "Key": "Monster_XP_Elite02_00_Config",
-        "Name": "Guardian Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master.",
+        "Name": "{RUBY_B#しゅごしゃ}守護者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。この力は、当てもなく辺りを彷徨い、主の意志を感じた時にやっとそれに従い行動する。",
         "Stats": {
             "HP": 6.75004,
             "ATK": 18.0,
@@ -31897,8 +36173,8 @@ var _monster_2 = {
     "800303009": {
         "_id": 800303009,
         "Key": "Monster_XP_Elite02_00_Config",
-        "Name": "Guardian Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master.",
+        "Name": "{RUBY_B#しゅごしゃ}守護者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。この力は、当てもなく辺りを彷徨い、主の意志を感じた時にやっとそれに従い行動する。",
         "Stats": {
             "HP": 4.8,
             "ATK": 23.99994,
@@ -31963,8 +36239,8 @@ var _monster_2 = {
     "800303010": {
         "_id": 800303010,
         "Key": "Monster_XP_Elite02_00_Config",
-        "Name": "Guardian Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master.",
+        "Name": "{RUBY_B#しゅごしゃ}守護者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。この力は、当てもなく辺りを彷徨い、主の意志を感じた時にやっとそれに従い行動する。",
         "Stats": {
             "HP": 11.0,
             "ATK": 12.00006,
@@ -32029,8 +36305,8 @@ var _monster_2 = {
     "800303011": {
         "_id": 800303011,
         "Key": "Monster_XP_Elite02_00_Config",
-        "Name": "Guardian Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master.",
+        "Name": "{RUBY_B#しゅごしゃ}守護者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。この力は、当てもなく辺りを彷徨い、主の意志を感じた時にやっとそれに従い行動する。",
         "Stats": {
             "HP": 11.0,
             "ATK": 12.00006,
@@ -32099,8 +36375,8 @@ var _monster_2 = {
     "800303012": {
         "_id": 800303012,
         "Key": "Monster_XP_Elite02_00_Config",
-        "Name": "Guardian Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master.",
+        "Name": "{RUBY_B#しゅごしゃ}守護者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。この力は、当てもなく辺りを彷徨い、主の意志を感じた時にやっとそれに従い行動する。",
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -32165,11 +36441,80 @@ var _monster_2 = {
         ],
         "Csxylic": "SCFragmentumMonsters/8003030"
     },
+    "800303014": {
+        "_id": 800303014,
+        "Key": "Monster_XP_Elite02_00_Config",
+        "Name": "{RUBY_B#しゅごしゃ}守護者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。この力は、当てもなく辺りを彷徨い、主の意志を感じた時にやっとそれに従い行動する。",
+        "Stats": {
+            "HP": 11.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": 5.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800303001,
+                    800303002,
+                    800303003,
+                    800303004,
+                    800303005,
+                    800303006,
+                    800303007
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800303008
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8003030.png",
+        "Figure": "monsterfigure/Monster_8003030.png",
+        "Status": [
+            30020004,
+            280030301,
+            280030302,
+            280030303,
+            280030306
+        ],
+        "AllSkills": [
+            800303001,
+            800303002,
+            800303003,
+            800303004,
+            800303005,
+            800303006,
+            800303007
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003030"
+    },
     "800303015": {
         "_id": 800303015,
         "Key": "Monster_XP_Elite02_00_Config",
-        "Name": "Guardian Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master.",
+        "Name": "{RUBY_B#しゅごしゃ}守護者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。この力は、当てもなく辺りを彷徨い、主の意志を感じた時にやっとそれに従い行動する。",
         "Stats": {
             "HP": 5.5,
             "ATK": 18.0,
@@ -32237,8 +36582,8 @@ var _monster_2 = {
     "800303016": {
         "_id": 800303016,
         "Key": "Monster_XP_Elite02_00_Config",
-        "Name": "Guardian Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master.",
+        "Name": "{RUBY_B#しゅごしゃ}守護者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。この力は、当てもなく辺りを彷徨い、主の意志を感じた時にやっとそれに従い行動する。",
         "Stats": {
             "HP": 13.0,
             "ATK": 18.0,
@@ -32306,8 +36651,8 @@ var _monster_2 = {
     "800303017": {
         "_id": 800303017,
         "Key": "Monster_XP_Elite02_00_Config",
-        "Name": "Guardian Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master.",
+        "Name": "{RUBY_B#しゅごしゃ}守護者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。この力は、当てもなく辺りを彷徨い、主の意志を感じた時にやっとそれに従い行動する。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -32369,11 +36714,79 @@ var _monster_2 = {
         ],
         "Csxylic": "SCFragmentumMonsters/8003030"
     },
+    "800303101": {
+        "_id": 800303101,
+        "Key": "Monster_XP_Elite02_00_Config",
+        "Name": "守護者の影（バグ）",
+        "Desc": "コードが影響を受けた後、バグってしまった投影。星核の力によって生み出された虚影を参考にしている。裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。この力は、当てもなく辺りを彷徨い、主の意志を感じた時にやっとそれに従い行動する。",
+        "Stats": {
+            "HP": 13.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "Stance": 6.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800303101,
+                    800303102,
+                    800303103,
+                    800303104,
+                    800303105,
+                    800303106,
+                    800303107
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800303108
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_8003030.png",
+        "Figure": "monsterfigure/Monster_8003030.png",
+        "Status": [
+            30020004,
+            280030301,
+            280030302,
+            280030303
+        ],
+        "AllSkills": [
+            800303101,
+            800303102,
+            800303103,
+            800303104,
+            800303105,
+            800303106,
+            800303107
+        ],
+        "IsBug": 1
+    },
     "800304001": {
         "_id": 800304001,
         "Key": "Monster_XP_Elite02_01_Config",
-        "Name": "Decaying Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted.",
+        "Name": "{RUBY_B#さんしょくしゃ}蚕食者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。それの原動力となる欲望はとっくに、歪み、ぼやけている。",
         "Stats": {
             "HP": 6.0,
             "ATK": 12.00006,
@@ -32435,8 +36848,8 @@ var _monster_2 = {
     "800304002": {
         "_id": 800304002,
         "Key": "Monster_XP_Elite02_01_Config",
-        "Name": "Decaying Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted.",
+        "Name": "{RUBY_B#さんしょくしゃ}蚕食者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。それの原動力となる欲望はとっくに、歪み、ぼやけている。",
         "Stats": {
             "HP": 5.1,
             "ATK": 14.99994,
@@ -32498,8 +36911,8 @@ var _monster_2 = {
     "800304003": {
         "_id": 800304003,
         "Key": "Monster_XP_Elite02_01_Config",
-        "Name": "Decaying Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted.",
+        "Name": "{RUBY_B#さんしょくしゃ}蚕食者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。それの原動力となる欲望はとっくに、歪み、ぼやけている。",
         "Stats": {
             "HP": 28.0,
             "ATK": 25.71426,
@@ -32561,8 +36974,8 @@ var _monster_2 = {
     "800304004": {
         "_id": 800304004,
         "Key": "Monster_XP_Elite02_01_Config",
-        "Name": "Decaying Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted.",
+        "Name": "{RUBY_B#さんしょくしゃ}蚕食者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。それの原動力となる欲望はとっくに、歪み、ぼやけている。",
         "Stats": {
             "HP": 24.5,
             "ATK": 18.0,
@@ -32621,8 +37034,8 @@ var _monster_2 = {
     "800304005": {
         "_id": 800304005,
         "Key": "Monster_XP_Elite02_01_Config",
-        "Name": "Decaying Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted.",
+        "Name": "{RUBY_B#さんしょくしゃ}蚕食者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。それの原動力となる欲望はとっくに、歪み、ぼやけている。",
         "Stats": {
             "HP": 20.0,
             "ATK": 19.99998,
@@ -32684,8 +37097,8 @@ var _monster_2 = {
     "800304006": {
         "_id": 800304006,
         "Key": "Monster_XP_Elite02_01_Config",
-        "Name": "Decaying Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted.",
+        "Name": "{RUBY_B#さんしょくしゃ}蚕食者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。それの原動力となる欲望はとっくに、歪み、ぼやけている。",
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -32747,8 +37160,8 @@ var _monster_2 = {
     "800304007": {
         "_id": 800304007,
         "Key": "Monster_XP_Elite02_01_Config",
-        "Name": "Decaying Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted.",
+        "Name": "{RUBY_B#さんしょくしゃ}蚕食者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。それの原動力となる欲望はとっくに、歪み、ぼやけている。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -32810,8 +37223,8 @@ var _monster_2 = {
     "800304008": {
         "_id": 800304008,
         "Key": "Monster_XP_Elite02_01_Config",
-        "Name": "Decaying Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted.",
+        "Name": "{RUBY_B#さんしょくしゃ}蚕食者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。それの原動力となる欲望はとっくに、歪み、ぼやけている。",
         "Stats": {
             "HP": 7.7,
             "ATK": 12.00006,
@@ -32873,8 +37286,8 @@ var _monster_2 = {
     "800304009": {
         "_id": 800304009,
         "Key": "Monster_XP_Elite02_01_Config",
-        "Name": "Decaying Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted.",
+        "Name": "{RUBY_B#さんしょくしゃ}蚕食者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。それの原動力となる欲望はとっくに、歪み、ぼやけている。",
         "Stats": {
             "HP": 10.0,
             "ATK": 11.25,
@@ -32937,8 +37350,8 @@ var _monster_2 = {
     "800304010": {
         "_id": 800304010,
         "Key": "Monster_XP_Elite02_01_Config",
-        "Name": "Decaying Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted.",
+        "Name": "{RUBY_B#さんしょくしゃ}蚕食者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。それの原動力となる欲望はとっくに、歪み、ぼやけている。",
         "Stats": {
             "HP": 5.0,
             "ATK": 18.0,
@@ -33001,8 +37414,8 @@ var _monster_2 = {
     "800304011": {
         "_id": 800304011,
         "Key": "Monster_XP_Elite02_01_Config",
-        "Name": "Decaying Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted.",
+        "Name": "{RUBY_B#さんしょくしゃ}蚕食者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。それの原動力となる欲望はとっくに、歪み、ぼやけている。",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -33058,11 +37471,74 @@ var _monster_2 = {
         ],
         "Csxylic": "SCFragmentumMonsters/8003040"
     },
+    "800304012": {
+        "_id": 800304012,
+        "Key": "Monster_XP_Elite02_01_Config",
+        "Name": "{RUBY_B#さんしょくしゃ}蚕食者{RUBY_E#}の{RUBY_B#かげ}影{RUBY_E#}",
+        "Desc": "星核の力によって生み出された虚影、裂界の絶えず拡張する意思を執行している。<br>知的生命の欲求が裂界の中に投影され形成された生命エネルギー。まるで1粒の沙が貝の中で真珠となったようである。それの原動力となる欲望はとっくに、歪み、ぼやけている。",
+        "Stats": {
+            "HP": 20.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 172.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": 5.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800304002,
+                    800304003,
+                    800304004,
+                    800304005,
+                    800304006
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800304001,
+                    800304007
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8003040.png",
+        "Figure": "monsterfigure/Monster_8003040.png",
+        "Status": [
+            30020013,
+            280030405
+        ],
+        "AllSkills": [
+            800304002,
+            800304003,
+            800304004,
+            800304005,
+            800304006
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003040"
+    },
     "800305001": {
         "_id": 800305001,
         "Key": "Monster_AML_Elite01_01_Config",
-        "Name": "Stormbringer",
-        "Desc": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly.",
+        "Name": "ストーム",
+        "Desc": "裂界拡大の途中で侵蝕されたモンスター、力の源が変異した後、より柔軟な戦闘スタイルを得た。<br>ストームは風の力を利用して戦いを有利に進め、追い風に乗った迅速な矢を放つ。",
         "Stats": {
             "HP": 60.0,
             "ATK": 18.0,
@@ -33124,8 +37600,8 @@ var _monster_2 = {
     "800305002": {
         "_id": 800305002,
         "Key": "Monster_AML_Elite01_01_Config",
-        "Name": "Stormbringer",
-        "Desc": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly.",
+        "Name": "ストーム",
+        "Desc": "裂界拡大の途中で侵蝕されたモンスター、力の源が変異した後、より柔軟な戦闘スタイルを得た。<br>ストームは風の力を利用して戦いを有利に進め、追い風に乗った迅速な矢を放つ。",
         "Stats": {
             "HP": 6.3,
             "ATK": 18.0,
@@ -33187,8 +37663,8 @@ var _monster_2 = {
     "800305003": {
         "_id": 800305003,
         "Key": "Monster_AML_Elite01_01_Config",
-        "Name": "Stormbringer",
-        "Desc": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly.",
+        "Name": "ストーム",
+        "Desc": "裂界拡大の途中で侵蝕されたモンスター、力の源が変異した後、より柔軟な戦闘スタイルを得た。<br>ストームは風の力を利用して戦いを有利に進め、追い風に乗った迅速な矢を放つ。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -33250,8 +37726,8 @@ var _monster_2 = {
     "800305004": {
         "_id": 800305004,
         "Key": "Monster_AML_Elite01_01_Config",
-        "Name": "Stormbringer",
-        "Desc": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly.",
+        "Name": "ストーム",
+        "Desc": "裂界拡大の途中で侵蝕されたモンスター、力の源が変異した後、より柔軟な戦闘スタイルを得た。<br>ストームは風の力を利用して戦いを有利に進め、追い風に乗った迅速な矢を放つ。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -33312,8 +37788,8 @@ var _monster_2 = {
     "800305005": {
         "_id": 800305005,
         "Key": "Monster_AML_Elite01_01_Config",
-        "Name": "Stormbringer",
-        "Desc": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly.",
+        "Name": "ストーム",
+        "Desc": "裂界拡大の途中で侵蝕されたモンスター、力の源が変異した後、より柔軟な戦闘スタイルを得た。<br>ストームは風の力を利用して戦いを有利に進め、追い風に乗った迅速な矢を放つ。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -33374,8 +37850,8 @@ var _monster_2 = {
     "800305006": {
         "_id": 800305006,
         "Key": "Monster_AML_Elite01_01_Config",
-        "Name": "Stormbringer",
-        "Desc": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly.",
+        "Name": "ストーム",
+        "Desc": "裂界拡大の途中で侵蝕されたモンスター、力の源が変異した後、より柔軟な戦闘スタイルを得た。<br>ストームは風の力を利用して戦いを有利に進め、追い風に乗った迅速な矢を放つ。",
         "Stats": {
             "HP": 7.5,
             "ATK": 12.00006,
@@ -33437,8 +37913,8 @@ var _monster_2 = {
     "800305007": {
         "_id": 800305007,
         "Key": "Monster_AML_Elite01_01_Config",
-        "Name": "Stormbringer",
-        "Desc": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly.",
+        "Name": "ストーム",
+        "Desc": "裂界拡大の途中で侵蝕されたモンスター、力の源が変異した後、より柔軟な戦闘スタイルを得た。<br>ストームは風の力を利用して戦いを有利に進め、追い風に乗った迅速な矢を放つ。",
         "Stats": {
             "HP": 5.5,
             "ATK": 18.0,
@@ -33497,8 +37973,8 @@ var _monster_2 = {
     "800305008": {
         "_id": 800305008,
         "Key": "Monster_AML_Elite01_01_Config",
-        "Name": "Stormbringer",
-        "Desc": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly.",
+        "Name": "ストーム",
+        "Desc": "裂界拡大の途中で侵蝕されたモンスター、力の源が変異した後、より柔軟な戦闘スタイルを得た。<br>ストームは風の力を利用して戦いを有利に進め、追い風に乗った迅速な矢を放つ。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -33560,8 +38036,8 @@ var _monster_2 = {
     "800305009": {
         "_id": 800305009,
         "Key": "Monster_AML_Elite01_01_Config",
-        "Name": "Stormbringer",
-        "Desc": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly.",
+        "Name": "ストーム",
+        "Desc": "裂界拡大の途中で侵蝕されたモンスター、力の源が変異した後、より柔軟な戦闘スタイルを得た。<br>ストームは風の力を利用して戦いを有利に進め、追い風に乗った迅速な矢を放つ。",
         "Stats": {
             "HP": 11.0,
             "ATK": 10.00008,
@@ -33624,8 +38100,8 @@ var _monster_2 = {
     "800305010": {
         "_id": 800305010,
         "Key": "Monster_AML_Elite01_01_Config",
-        "Name": "Stormbringer",
-        "Desc": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly.",
+        "Name": "ストーム",
+        "Desc": "裂界拡大の途中で侵蝕されたモンスター、力の源が変異した後、より柔軟な戦闘スタイルを得た。<br>ストームは風の力を利用して戦いを有利に進め、追い風に乗った迅速な矢を放つ。",
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -33684,11 +38160,74 @@ var _monster_2 = {
         ],
         "Csxylic": "SCFragmentumMonsters/8003050"
     },
+    "800305011": {
+        "_id": 800305011,
+        "Key": "Monster_AML_Elite01_01_Config",
+        "Name": "ストーム",
+        "Desc": "裂界拡大の途中で侵蝕されたモンスター、力の源が変異した後、より柔軟な戦闘スタイルを得た。<br>ストームは風の力を利用して戦いを有利に進め、追い風に乗った迅速な矢を放つ。",
+        "Stats": {
+            "HP": 11.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": 8.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.4,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800305001,
+                    800305002,
+                    800305003,
+                    800305004,
+                    800305005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800305006
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8003050.png",
+        "Figure": "monsterfigure/Monster_8003050.png",
+        "Status": [
+            30020003,
+            280130201,
+            280130202
+        ],
+        "AllSkills": [
+            800305001,
+            800305002,
+            800305003,
+            800305004,
+            800305005
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003050"
+    },
     "800305012": {
         "_id": 800305012,
         "Key": "Monster_AML_Elite01_01_Config",
-        "Name": "Stormbringer",
-        "Desc": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly.",
+        "Name": "ストーム",
+        "Desc": "裂界拡大の途中で侵蝕されたモンスター、力の源が変異した後、より柔軟な戦闘スタイルを得た。<br>ストームは風の力を利用して戦いを有利に進め、追い風に乗った迅速な矢を放つ。",
         "Stats": {
             "HP": 5.24997,
             "ATK": 18.0,
@@ -33747,11 +38286,134 @@ var _monster_2 = {
         ],
         "Csxylic": "SCFragmentumMonsters/8003050"
     },
+    "800305015": {
+        "_id": 800305015,
+        "Key": "Monster_AML_Elite01_01_Config",
+        "Name": "ストーム",
+        "Desc": "裂界拡大の途中で侵蝕されたモンスター、力の源が変異した後、より柔軟な戦闘スタイルを得た。<br>ストームは風の力を利用して戦いを有利に進め、追い風に乗った迅速な矢を放つ。",
+        "Stats": {
+            "HP": 11.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Elec": 0.2,
+            "Wind": 0.4,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800305001,
+                    800305002,
+                    800305003,
+                    800305004,
+                    800305005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800305006
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8003050.png",
+        "Figure": "monsterfigure/Monster_8003050.png",
+        "Status": [
+            30020003,
+            280130201,
+            280130202
+        ],
+        "AllSkills": [
+            800305001,
+            800305002,
+            800305003,
+            800305004,
+            800305005
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003050"
+    },
+    "800305017": {
+        "_id": 800305017,
+        "Key": "Monster_AML_Elite01_01_Config",
+        "Name": "ストーム",
+        "Desc": "裂界拡大の途中で侵蝕されたモンスター、力の源が変異した後、より柔軟な戦闘スタイルを得た。<br>ストームは風の力を利用して戦いを有利に進め、追い風に乗った迅速な矢を放つ。",
+        "Stats": {
+            "HP": 5.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": -4.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.4,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800305001,
+                    800305002,
+                    800305003,
+                    800305004,
+                    800305005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800305006
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8003050.png",
+        "Figure": "monsterfigure/Monster_8003050.png",
+        "Status": [
+            30020003,
+            280130201,
+            280130202
+        ],
+        "AllSkills": [
+            800305001,
+            800305002,
+            800305003,
+            800305004,
+            800305005
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003050"
+    },
     "801101001": {
         "_id": 801101001,
         "Key": "Monster_AML_Minion01_00_Config",
-        "Name": "Baryon",
-        "Desc": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Baryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield.",
+        "Name": "バリオン",
+        "Desc": "「反物質レギオン」が反粒子消散による対消滅を防ぐために、作った「バリオン」と「反バリオン」と呼ばれる持ち運び型の小型イオントラップ。<br>「バリオン」は基本的な知能を有し、戦場では「ヴォイドレンジャー」の意志と召喚に反応でき、道を切り開く。",
         "Stats": {
             "HP": 0.46,
             "ATK": 10.00008,
@@ -33791,8 +38453,8 @@ var _monster_2 = {
     "801101002": {
         "_id": 801101002,
         "Key": "Monster_AML_Minion01_00_Config",
-        "Name": "Baryon",
-        "Desc": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Baryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield.",
+        "Name": "バリオン",
+        "Desc": "「反物質レギオン」が反粒子消散による対消滅を防ぐために、作った「バリオン」と「反バリオン」と呼ばれる持ち運び型の小型イオントラップ。<br>「バリオン」は基本的な知能を有し、戦場では「ヴォイドレンジャー」の意志と召喚に反応でき、道を切り開く。",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -33832,8 +38494,8 @@ var _monster_2 = {
     "801101003": {
         "_id": 801101003,
         "Key": "Monster_AML_Minion01_00_Config",
-        "Name": "Baryon",
-        "Desc": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Baryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield.",
+        "Name": "バリオン",
+        "Desc": "「反物質レギオン」が反粒子消散による対消滅を防ぐために、作った「バリオン」と「反バリオン」と呼ばれる持ち運び型の小型イオントラップ。<br>「バリオン」は基本的な知能を有し、戦場では「ヴォイドレンジャー」の意志と召喚に反応でき、道を切り開く。",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -33873,8 +38535,8 @@ var _monster_2 = {
     "801101004": {
         "_id": 801101004,
         "Key": "Monster_AML_Minion01_00_Config",
-        "Name": "Baryon",
-        "Desc": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Baryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield.",
+        "Name": "バリオン",
+        "Desc": "「反物質レギオン」が反粒子消散による対消滅を防ぐために、作った「バリオン」と「反バリオン」と呼ばれる持ち運び型の小型イオントラップ。<br>「バリオン」は基本的な知能を有し、戦場では「ヴォイドレンジャー」の意志と召喚に反応でき、道を切り開く。",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -33914,8 +38576,8 @@ var _monster_2 = {
     "801101005": {
         "_id": 801101005,
         "Key": "Monster_AML_Minion01_00_Config",
-        "Name": "Baryon",
-        "Desc": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Baryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield.",
+        "Name": "バリオン",
+        "Desc": "「反物質レギオン」が反粒子消散による対消滅を防ぐために、作った「バリオン」と「反バリオン」と呼ばれる持ち運び型の小型イオントラップ。<br>「バリオン」は基本的な知能を有し、戦場では「ヴォイドレンジャー」の意志と召喚に反応でき、道を切り開く。",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -33958,8 +38620,8 @@ var _monster_2 = {
     "801101006": {
         "_id": 801101006,
         "Key": "Monster_AML_Minion01_00_Config",
-        "Name": "Baryon",
-        "Desc": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Baryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield.",
+        "Name": "バリオン",
+        "Desc": "「反物質レギオン」が反粒子消散による対消滅を防ぐために、作った「バリオン」と「反バリオン」と呼ばれる持ち運び型の小型イオントラップ。<br>「バリオン」は基本的な知能を有し、戦場では「ヴォイドレンジャー」の意志と召喚に反応でき、道を切り開く。",
         "Stats": {
             "HP": 1.75,
             "ATK": 12.00006,
@@ -33999,8 +38661,8 @@ var _monster_2 = {
     "801101007": {
         "_id": 801101007,
         "Key": "Monster_AML_Minion01_00_Config",
-        "Name": "Baryon",
-        "Desc": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Baryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield.",
+        "Name": "バリオン",
+        "Desc": "「反物質レギオン」が反粒子消散による対消滅を防ぐために、作った「バリオン」と「反バリオン」と呼ばれる持ち運び型の小型イオントラップ。<br>「バリオン」は基本的な知能を有し、戦場では「ヴォイドレンジャー」の意志と召喚に反応でき、道を切り開く。",
         "Stats": {
             "HP": 0.5,
             "ATK": 8.18172,
@@ -34040,8 +38702,8 @@ var _monster_2 = {
     "801101008": {
         "_id": 801101008,
         "Key": "Monster_AML_Minion01_00_Config",
-        "Name": "Baryon",
-        "Desc": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Baryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield.",
+        "Name": "バリオン",
+        "Desc": "「反物質レギオン」が反粒子消散による対消滅を防ぐために、作った「バリオン」と「反バリオン」と呼ばれる持ち運び型の小型イオントラップ。<br>「バリオン」は基本的な知能を有し、戦場では「ヴォイドレンジャー」の意志と召喚に反応でき、道を切り開く。",
         "Stats": {
             "HP": 0.39,
             "ATK": 10.00008,
@@ -34081,8 +38743,8 @@ var _monster_2 = {
     "801101009": {
         "_id": 801101009,
         "Key": "Monster_AML_Minion01_00_Config",
-        "Name": "Baryon",
-        "Desc": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Baryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield.",
+        "Name": "バリオン",
+        "Desc": "「反物質レギオン」が反粒子消散による対消滅を防ぐために、作った「バリオン」と「反バリオン」と呼ばれる持ち運び型の小型イオントラップ。<br>「バリオン」は基本的な知能を有し、戦場では「ヴォイドレンジャー」の意志と召喚に反応でき、道を切り開く。",
         "Stats": {
             "HP": 0.7,
             "ATK": 18.0,
@@ -34122,8 +38784,8 @@ var _monster_2 = {
     "801102001": {
         "_id": 801102001,
         "Key": "Monster_AML_Minion01_01_Config",
-        "Name": "Antibaryon",
-        "Desc": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Antibaryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield.",
+        "Name": "{RUBY_B#はん}反{RUBY_E#}バリオン",
+        "Desc": "「反物質レギオン」が反粒子消散による対消滅を防ぐために、作った「バリオン」と「反バリオン」と呼ばれる持ち運び型の小型イオントラップ。<br>「反バリオン」は基本的な知能を有し、戦場では「ヴォイドレンジャー」の意志と召喚に反応でき、道を切り開く。",
         "Stats": {
             "HP": 0.46,
             "ATK": 10.00008,
@@ -34163,8 +38825,8 @@ var _monster_2 = {
     "801102002": {
         "_id": 801102002,
         "Key": "Monster_AML_Minion01_01_Config",
-        "Name": "Antibaryon",
-        "Desc": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Antibaryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield.",
+        "Name": "{RUBY_B#はん}反{RUBY_E#}バリオン",
+        "Desc": "「反物質レギオン」が反粒子消散による対消滅を防ぐために、作った「バリオン」と「反バリオン」と呼ばれる持ち運び型の小型イオントラップ。<br>「反バリオン」は基本的な知能を有し、戦場では「ヴォイドレンジャー」の意志と召喚に反応でき、道を切り開く。",
         "Stats": {
             "HP": 0.5,
             "ATK": 18.0,
@@ -34207,8 +38869,8 @@ var _monster_2 = {
     "801102003": {
         "_id": 801102003,
         "Key": "Monster_AML_Minion01_01_Config",
-        "Name": "Antibaryon",
-        "Desc": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Antibaryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield.",
+        "Name": "{RUBY_B#はん}反{RUBY_E#}バリオン",
+        "Desc": "「反物質レギオン」が反粒子消散による対消滅を防ぐために、作った「バリオン」と「反バリオン」と呼ばれる持ち運び型の小型イオントラップ。<br>「反バリオン」は基本的な知能を有し、戦場では「ヴォイドレンジャー」の意志と召喚に反応でき、道を切り開く。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -34248,8 +38910,8 @@ var _monster_2 = {
     "801102004": {
         "_id": 801102004,
         "Key": "Monster_AML_Minion01_01_Config",
-        "Name": "Antibaryon",
-        "Desc": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Antibaryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield.",
+        "Name": "{RUBY_B#はん}反{RUBY_E#}バリオン",
+        "Desc": "「反物質レギオン」が反粒子消散による対消滅を防ぐために、作った「バリオン」と「反バリオン」と呼ばれる持ち運び型の小型イオントラップ。<br>「反バリオン」は基本的な知能を有し、戦場では「ヴォイドレンジャー」の意志と召喚に反応でき、道を切り開く。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -34289,8 +38951,8 @@ var _monster_2 = {
     "801102005": {
         "_id": 801102005,
         "Key": "Monster_AML_Minion01_01_Config",
-        "Name": "Antibaryon",
-        "Desc": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Antibaryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield.",
+        "Name": "{RUBY_B#はん}反{RUBY_E#}バリオン",
+        "Desc": "「反物質レギオン」が反粒子消散による対消滅を防ぐために、作った「バリオン」と「反バリオン」と呼ばれる持ち運び型の小型イオントラップ。<br>「反バリオン」は基本的な知能を有し、戦場では「ヴォイドレンジャー」の意志と召喚に反応でき、道を切り開く。",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -34333,8 +38995,8 @@ var _monster_2 = {
     "801102007": {
         "_id": 801102007,
         "Key": "Monster_AML_Minion01_01_Config",
-        "Name": "Antibaryon",
-        "Desc": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Antibaryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield.",
+        "Name": "{RUBY_B#はん}反{RUBY_E#}バリオン",
+        "Desc": "「反物質レギオン」が反粒子消散による対消滅を防ぐために、作った「バリオン」と「反バリオン」と呼ばれる持ち運び型の小型イオントラップ。<br>「反バリオン」は基本的な知能を有し、戦場では「ヴォイドレンジャー」の意志と召喚に反応でき、道を切り開く。",
         "Stats": {
             "HP": 0.305,
             "ATK": 18.0,
@@ -34374,8 +39036,8 @@ var _monster_2 = {
     "801102008": {
         "_id": 801102008,
         "Key": "Monster_AML_Minion01_01_Config",
-        "Name": "Antibaryon",
-        "Desc": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Antibaryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield.",
+        "Name": "{RUBY_B#はん}反{RUBY_E#}バリオン",
+        "Desc": "「反物質レギオン」が反粒子消散による対消滅を防ぐために、作った「バリオン」と「反バリオン」と呼ばれる持ち運び型の小型イオントラップ。<br>「反バリオン」は基本的な知能を有し、戦場では「ヴォイドレンジャー」の意志と召喚に反応でき、道を切り開く。",
         "Stats": {
             "HP": 0.4,
             "ATK": 18.0,
@@ -34412,11 +39074,51 @@ var _monster_2 = {
         ],
         "Csxylic": "SCAntimatterRegion/8011020"
     },
+    "801102009": {
+        "_id": 801102009,
+        "Key": "Monster_AML_Minion01_01_Config",
+        "Name": "{RUBY_B#はん}反{RUBY_E#}バリオン",
+        "Desc": "「反物質レギオン」が反粒子消散による対消滅を防ぐために、作った「バリオン」と「反バリオン」と呼ばれる持ち運び型の小型イオントラップ。<br>「反バリオン」は基本的な知能を有し、戦場では「ヴォイドレンジャー」の意志と召喚に反応でき、道を切り開く。",
+        "Stats": {
+            "HP": 0.6,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Fire",
+            "Phys"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    801102001
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 6,
+        "Icon": "mostericon/Monster_8011020.png",
+        "Figure": "monsterfigure/Monster_8011020.png",
+        "AllSkills": [
+            801102001
+        ],
+        "Csxylic": "SCAntimatterRegion/8011020"
+    },
     "801201001": {
         "_id": 801201001,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -34467,8 +39169,8 @@ var _monster_2 = {
     "801201002": {
         "_id": 801201002,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 2.07499,
             "ATK": 10.00008,
@@ -34519,8 +39221,8 @@ var _monster_2 = {
     "801201003": {
         "_id": 801201003,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 2.07499,
             "ATK": 10.00008,
@@ -34571,8 +39273,8 @@ var _monster_2 = {
     "801201004": {
         "_id": 801201004,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -34623,8 +39325,8 @@ var _monster_2 = {
     "801201005": {
         "_id": 801201005,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -34679,8 +39381,8 @@ var _monster_2 = {
     "801201006": {
         "_id": 801201006,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 1.6,
             "ATK": 5.14278,
@@ -34731,8 +39433,8 @@ var _monster_2 = {
     "801201007": {
         "_id": 801201007,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 1.5,
             "ATK": 7.2,
@@ -34786,8 +39488,8 @@ var _monster_2 = {
     "801201008": {
         "_id": 801201008,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 1.5,
             "ATK": 12.00006,
@@ -34838,8 +39540,8 @@ var _monster_2 = {
     "801201009": {
         "_id": 801201009,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -34890,8 +39592,8 @@ var _monster_2 = {
     "801201010": {
         "_id": 801201010,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 2.5,
             "ATK": 9.0,
@@ -34945,8 +39647,8 @@ var _monster_2 = {
     "801201011": {
         "_id": 801201011,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 0.6,
             "ATK": 14.99994,
@@ -34997,8 +39699,8 @@ var _monster_2 = {
     "801201012": {
         "_id": 801201012,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -35049,8 +39751,8 @@ var _monster_2 = {
     "801201013": {
         "_id": 801201013,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -35101,8 +39803,8 @@ var _monster_2 = {
     "801201014": {
         "_id": 801201014,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -35156,8 +39858,8 @@ var _monster_2 = {
     "801201015": {
         "_id": 801201015,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 1.5,
             "ATK": 12.00006,
@@ -35211,8 +39913,8 @@ var _monster_2 = {
     "801201016": {
         "_id": 801201016,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 2.5,
             "ATK": 9.0,
@@ -35266,8 +39968,8 @@ var _monster_2 = {
     "801201017": {
         "_id": 801201017,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 1.5,
             "ATK": 9.0,
@@ -35321,8 +40023,8 @@ var _monster_2 = {
     "801201018": {
         "_id": 801201018,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -35373,8 +40075,8 @@ var _monster_2 = {
     "801201019": {
         "_id": 801201019,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 1.25,
             "ATK": 12.00006,
@@ -35425,8 +40127,8 @@ var _monster_2 = {
     "801201020": {
         "_id": 801201020,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 3.5,
             "ATK": 12.00006,
@@ -35477,8 +40179,8 @@ var _monster_2 = {
     "801201021": {
         "_id": 801201021,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -35529,8 +40231,8 @@ var _monster_2 = {
     "801201023": {
         "_id": 801201023,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -35581,8 +40283,8 @@ var _monster_2 = {
     "801201024": {
         "_id": 801201024,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 0.86,
             "ATK": 10.00008,
@@ -35633,8 +40335,8 @@ var _monster_2 = {
     "801201025": {
         "_id": 801201025,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 0.61,
             "ATK": 12.00006,
@@ -35685,8 +40387,8 @@ var _monster_2 = {
     "801201026": {
         "_id": 801201026,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -35737,11 +40439,63 @@ var _monster_2 = {
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
+    "801201027": {
+        "_id": 801201027,
+        "Key": "Monster_AML_Minion02_00_Config",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
+        "Stats": {
+            "HP": 1.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    801201001,
+                    801201002
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    801201003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 6,
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
+        "Status": [
+            280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
+    },
     "801201028": {
         "_id": 801201028,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 1.75,
             "ATK": 18.0,
@@ -35792,8 +40546,8 @@ var _monster_2 = {
     "801201029": {
         "_id": 801201029,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#りゃくだつ}略奪{RUBY_E#}",
+        "Desc": "未だ死に絶えていない戦士が「戦争洪炉」の再鋳造によって「壊滅」という名の力を獲得した姿。反物質は彼らの残躯を満たし、負粒子がその体内で震えている。<br>「反物質レギオン」の基本作戦ユニット、「壊滅」の意志の具現化。破壊的な本能のままに行動し、強烈な攻撃性を持つ。",
         "Stats": {
             "HP": 1.75,
             "ATK": 18.0,
@@ -35845,8 +40599,8 @@ var _monster_2 = {
     "801202001": {
         "_id": 801202001,
         "Key": "Monster_AML_Minion03_00_Config",
-        "Name": "Voidranger: Distorter",
-        "Desc": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#かい}改{RUBY_E#}ざん",
+        "Desc": "対消滅の反応を耐え抜いた「ヴォイドレンジャー」、プラスとマイナスの粒子が奇妙な形態で体内にて短時間の均衡を保ち、「略奪者」以上の特殊な力を持つ。<br>「反物質レギオン」の基本作戦ユニット、知性を有し、狭い範囲で「略奪者」の行動を制御できる。",
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -35891,8 +40645,8 @@ var _monster_2 = {
     "801202002": {
         "_id": 801202002,
         "Key": "Monster_AML_Minion03_00_Config",
-        "Name": "Voidranger: Distorter",
-        "Desc": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#かい}改{RUBY_E#}ざん",
+        "Desc": "対消滅の反応を耐え抜いた「ヴォイドレンジャー」、プラスとマイナスの粒子が奇妙な形態で体内にて短時間の均衡を保ち、「略奪者」以上の特殊な力を持つ。<br>「反物質レギオン」の基本作戦ユニット、知性を有し、狭い範囲で「略奪者」の行動を制御できる。",
         "Stats": {
             "HP": 0.69,
             "ATK": 10.00008,
@@ -35937,8 +40691,8 @@ var _monster_2 = {
     "801202003": {
         "_id": 801202003,
         "Key": "Monster_AML_Minion03_00_Config",
-        "Name": "Voidranger: Distorter",
-        "Desc": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#かい}改{RUBY_E#}ざん",
+        "Desc": "対消滅の反応を耐え抜いた「ヴォイドレンジャー」、プラスとマイナスの粒子が奇妙な形態で体内にて短時間の均衡を保ち、「略奪者」以上の特殊な力を持つ。<br>「反物質レギオン」の基本作戦ユニット、知性を有し、狭い範囲で「略奪者」の行動を制御できる。",
         "Stats": {
             "HP": 1.8,
             "ATK": 22.5,
@@ -35983,8 +40737,8 @@ var _monster_2 = {
     "801202004": {
         "_id": 801202004,
         "Key": "Monster_AML_Minion03_00_Config",
-        "Name": "Voidranger: Distorter",
-        "Desc": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#かい}改{RUBY_E#}ざん",
+        "Desc": "対消滅の反応を耐え抜いた「ヴォイドレンジャー」、プラスとマイナスの粒子が奇妙な形態で体内にて短時間の均衡を保ち、「略奪者」以上の特殊な力を持つ。<br>「反物質レギオン」の基本作戦ユニット、知性を有し、狭い範囲で「略奪者」の行動を制御できる。",
         "Stats": {
             "HP": 1.8,
             "ATK": 5.9999400000000005,
@@ -36029,8 +40783,8 @@ var _monster_2 = {
     "801202005": {
         "_id": 801202005,
         "Key": "Monster_AML_Minion03_00_Config",
-        "Name": "Distortion",
-        "Desc": "\"Memory\" is similar to \"photographs\". Even though it appears to record \"reality,\" it actually invades, alienates, and alters \"reality.\" Perhaps removing the \"distortion\" will make it reliable, or perhaps not.",
+        "Name": "歪み",
+        "Desc": "「記憶」と「写真」はとても似ている。それは「真実」を記録しているように見えるが、「真実」に侵入し、「真実」を変化させ、改ざんしているのだ。もしその中の「歪み」を消すことができれば信頼できるものになるかもしれない、ならないかもしれない。",
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -36075,8 +40829,8 @@ var _monster_2 = {
     "801202006": {
         "_id": 801202006,
         "Key": "Monster_AML_Minion03_00_Config",
-        "Name": "Voidranger: Distorter",
-        "Desc": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#かい}改{RUBY_E#}ざん",
+        "Desc": "対消滅の反応を耐え抜いた「ヴォイドレンジャー」、プラスとマイナスの粒子が奇妙な形態で体内にて短時間の均衡を保ち、「略奪者」以上の特殊な力を持つ。<br>「反物質レギオン」の基本作戦ユニット、知性を有し、狭い範囲で「略奪者」の行動を制御できる。",
         "Stats": {
             "HP": 1.8,
             "ATK": 12.00006,
@@ -36121,8 +40875,8 @@ var _monster_2 = {
     "801202007": {
         "_id": 801202007,
         "Key": "Monster_AML_Minion03_00_Config",
-        "Name": "Voidranger: Distorter",
-        "Desc": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#かい}改{RUBY_E#}ざん",
+        "Desc": "対消滅の反応を耐え抜いた「ヴォイドレンジャー」、プラスとマイナスの粒子が奇妙な形態で体内にて短時間の均衡を保ち、「略奪者」以上の特殊な力を持つ。<br>「反物質レギオン」の基本作戦ユニット、知性を有し、狭い範囲で「略奪者」の行動を制御できる。",
         "Stats": {
             "HP": 2.5,
             "ATK": 14.99994,
@@ -36170,8 +40924,8 @@ var _monster_2 = {
     "801202008": {
         "_id": 801202008,
         "Key": "Monster_AML_Minion03_00_Config",
-        "Name": "Voidranger: Distorter",
-        "Desc": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#かい}改{RUBY_E#}ざん",
+        "Desc": "対消滅の反応を耐え抜いた「ヴォイドレンジャー」、プラスとマイナスの粒子が奇妙な形態で体内にて短時間の均衡を保ち、「略奪者」以上の特殊な力を持つ。<br>「反物質レギオン」の基本作戦ユニット、知性を有し、狭い範囲で「略奪者」の行動を制御できる。",
         "Stats": {
             "HP": 2.0,
             "ATK": 9.0,
@@ -36219,8 +40973,8 @@ var _monster_2 = {
     "801202009": {
         "_id": 801202009,
         "Key": "Monster_AML_Minion03_00_Config",
-        "Name": "Voidranger: Distorter",
-        "Desc": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#かい}改{RUBY_E#}ざん",
+        "Desc": "対消滅の反応を耐え抜いた「ヴォイドレンジャー」、プラスとマイナスの粒子が奇妙な形態で体内にて短時間の均衡を保ち、「略奪者」以上の特殊な力を持つ。<br>「反物質レギオン」の基本作戦ユニット、知性を有し、狭い範囲で「略奪者」の行動を制御できる。",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -36265,8 +41019,8 @@ var _monster_2 = {
     "801202010": {
         "_id": 801202010,
         "Key": "Monster_AML_Minion03_00_Config",
-        "Name": "Voidranger: Distorter",
-        "Desc": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#かい}改{RUBY_E#}ざん",
+        "Desc": "対消滅の反応を耐え抜いた「ヴォイドレンジャー」、プラスとマイナスの粒子が奇妙な形態で体内にて短時間の均衡を保ち、「略奪者」以上の特殊な力を持つ。<br>「反物質レギオン」の基本作戦ユニット、知性を有し、狭い範囲で「略奪者」の行動を制御できる。",
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -36314,8 +41068,8 @@ var _monster_2 = {
     "801202011": {
         "_id": 801202011,
         "Key": "Monster_AML_Minion03_00_Config",
-        "Name": "Voidranger: Distorter",
-        "Desc": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#かい}改{RUBY_E#}ざん",
+        "Desc": "対消滅の反応を耐え抜いた「ヴォイドレンジャー」、プラスとマイナスの粒子が奇妙な形態で体内にて短時間の均衡を保ち、「略奪者」以上の特殊な力を持つ。<br>「反物質レギオン」の基本作戦ユニット、知性を有し、狭い範囲で「略奪者」の行動を制御できる。",
         "Stats": {
             "HP": 3.0,
             "ATK": 12.00006,
@@ -36360,8 +41114,8 @@ var _monster_2 = {
     "801202012": {
         "_id": 801202012,
         "Key": "Monster_AML_Minion03_00_Config",
-        "Name": "Voidranger: Distorter",
-        "Desc": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#かい}改{RUBY_E#}ざん",
+        "Desc": "対消滅の反応を耐え抜いた「ヴォイドレンジャー」、プラスとマイナスの粒子が奇妙な形態で体内にて短時間の均衡を保ち、「略奪者」以上の特殊な力を持つ。<br>「反物質レギオン」の基本作戦ユニット、知性を有し、狭い範囲で「略奪者」の行動を制御できる。",
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -36406,8 +41160,8 @@ var _monster_2 = {
     "801202013": {
         "_id": 801202013,
         "Key": "Monster_AML_Minion03_00_Config",
-        "Name": "Voidranger: Distorter",
-        "Desc": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#かい}改{RUBY_E#}ざん",
+        "Desc": "対消滅の反応を耐え抜いた「ヴォイドレンジャー」、プラスとマイナスの粒子が奇妙な形態で体内にて短時間の均衡を保ち、「略奪者」以上の特殊な力を持つ。<br>「反物質レギオン」の基本作戦ユニット、知性を有し、狭い範囲で「略奪者」の行動を制御できる。",
         "Stats": {
             "HP": 1.8,
             "ATK": 12.00006,
@@ -36452,8 +41206,8 @@ var _monster_2 = {
     "801202101": {
         "_id": 801202101,
         "Key": "Monster_AML_Minion03_00_Config",
-        "Name": "Voidranger: Distorter",
-        "Desc": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area.",
+        "Name": "ヴォイドレンジャー・改ざん",
+        "Desc": "対消滅の反応を耐え抜いた「ヴォイドレンジャー」、プラスとマイナスの粒子が奇妙な形態で体内にて短時間の均衡を保ち、「略奪者」以上の特殊な力を持つ。<br>「反物質レギオン」の基本作戦ユニット、知性を有し、狭い範囲で「略奪者」の行動を制御できる。",
         "Stats": {
             "HP": 0.69,
             "ATK": 10.00008,
@@ -36500,8 +41254,8 @@ var _monster_2 = {
     "801202102": {
         "_id": 801202102,
         "Key": "Monster_AML_Minion03_00_Config",
-        "Name": "Voidranger: Distorter",
-        "Desc": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area.",
+        "Name": "ヴォイドレンジャー・改ざん",
+        "Desc": "対消滅の反応を耐え抜いた「ヴォイドレンジャー」、プラスとマイナスの粒子が奇妙な形態で体内にて短時間の均衡を保ち、「略奪者」以上の特殊な力を持つ。<br>「反物質レギオン」の基本作戦ユニット、知性を有し、狭い範囲で「略奪者」の行動を制御できる。",
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -36545,11 +41299,56 @@ var _monster_2 = {
             801202102
         ]
     },
+    "801202103": {
+        "_id": 801202103,
+        "Key": "Monster_AML_Minion03_00_Config",
+        "Name": "ヴォイドレンジャー・改ざん",
+        "Desc": "対消滅の反応を耐え抜いた「ヴォイドレンジャー」、プラスとマイナスの粒子が奇妙な形態で体内にて短時間の均衡を保ち、「略奪者」以上の特殊な力を持つ。<br>「反物質レギオン」の基本作戦ユニット、知性を有し、狭い範囲で「略奪者」の行動を制御できる。",
+        "Stats": {
+            "HP": 1.8,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    801202101,
+                    801202102
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_8012020.png",
+        "Figure": "monsterfigure/Monster_8012020.png",
+        "Status": [
+            280120201
+        ],
+        "AllSkills": [
+            801202101,
+            801202102
+        ]
+    },
     "801203001": {
         "_id": 801203001,
         "Key": "Monster_AML_Minion04_00_Config",
-        "Name": "Voidranger: Eliminator",
-        "Desc": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#まっしょう}抹消{RUBY_E#}",
+        "Desc": "死亡後、裂界に侵蝕された亡骸、異質なバイタルサインを発しているが、生前と変わらず抹消命令を執行している。<br>ヴォイドレンジャー・抹消は攻撃が命中した味方をマークする、マークされたターゲットは攻撃されるとさらにダメージを受ける。",
         "Stats": {
             "HP": 3.6,
             "ATK": 9.0,
@@ -36595,8 +41394,8 @@ var _monster_2 = {
     "801203002": {
         "_id": 801203002,
         "Key": "Monster_AML_Minion04_00_Config",
-        "Name": "Voidranger: Eliminator",
-        "Desc": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#まっしょう}抹消{RUBY_E#}",
+        "Desc": "死亡後、裂界に侵蝕された亡骸、異質なバイタルサインを発しているが、生前と変わらず抹消命令を執行している。<br>ヴォイドレンジャー・抹消は攻撃が命中した味方をマークする、マークされたターゲットは攻撃されるとさらにダメージを受ける。",
         "Stats": {
             "HP": 3.6,
             "ATK": 9.0,
@@ -36642,8 +41441,8 @@ var _monster_2 = {
     "801203003": {
         "_id": 801203003,
         "Key": "Monster_AML_Minion04_00_Config",
-        "Name": "Voidranger: Eliminator",
-        "Desc": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#まっしょう}抹消{RUBY_E#}",
+        "Desc": "死亡後、裂界に侵蝕された亡骸、異質なバイタルサインを発しているが、生前と変わらず抹消命令を執行している。<br>ヴォイドレンジャー・抹消は攻撃が命中した味方をマークする、マークされたターゲットは攻撃されるとさらにダメージを受ける。",
         "Stats": {
             "HP": 2.1,
             "ATK": 7.2,
@@ -36692,8 +41491,8 @@ var _monster_2 = {
     "801203004": {
         "_id": 801203004,
         "Key": "Monster_AML_Minion04_00_Config",
-        "Name": "Distortion",
-        "Desc": "\"Memory\" is similar to \"photographs\". Even though it appears to record \"reality,\" it actually invades, alienates, and alters \"reality.\" Perhaps removing the \"distortion\" will make it reliable, or perhaps not.",
+        "Name": "歪み",
+        "Desc": "「記憶」と「写真」はとても似ている。それは「真実」を記録しているように見えるが、「真実」に侵入し、「真実」を変化させ、改ざんしているのだ。もしその中の「歪み」を消すことができれば信頼できるものになるかもしれない、ならないかもしれない。",
         "Stats": {
             "HP": 2.1,
             "ATK": 18.0,
@@ -36739,8 +41538,8 @@ var _monster_2 = {
     "801203005": {
         "_id": 801203005,
         "Key": "Monster_AML_Minion04_00_Config",
-        "Name": "Voidranger: Eliminator",
-        "Desc": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#まっしょう}抹消{RUBY_E#}",
+        "Desc": "死亡後、裂界に侵蝕された亡骸、異質なバイタルサインを発しているが、生前と変わらず抹消命令を執行している。<br>ヴォイドレンジャー・抹消は攻撃が命中した味方をマークする、マークされたターゲットは攻撃されるとさらにダメージを受ける。",
         "Stats": {
             "HP": 2.1,
             "ATK": 12.00006,
@@ -36786,8 +41585,8 @@ var _monster_2 = {
     "801203006": {
         "_id": 801203006,
         "Key": "Monster_AML_Minion04_00_Config",
-        "Name": "Voidranger: Eliminator",
-        "Desc": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#まっしょう}抹消{RUBY_E#}",
+        "Desc": "死亡後、裂界に侵蝕された亡骸、異質なバイタルサインを発しているが、生前と変わらず抹消命令を執行している。<br>ヴォイドレンジャー・抹消は攻撃が命中した味方をマークする、マークされたターゲットは攻撃されるとさらにダメージを受ける。",
         "Stats": {
             "HP": 1.75,
             "ATK": 18.0,
@@ -36836,8 +41635,8 @@ var _monster_2 = {
     "801203007": {
         "_id": 801203007,
         "Key": "Monster_AML_Minion04_00_Config",
-        "Name": "Voidranger: Eliminator",
-        "Desc": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#まっしょう}抹消{RUBY_E#}",
+        "Desc": "死亡後、裂界に侵蝕された亡骸、異質なバイタルサインを発しているが、生前と変わらず抹消命令を執行している。<br>ヴォイドレンジャー・抹消は攻撃が命中した味方をマークする、マークされたターゲットは攻撃されるとさらにダメージを受ける。",
         "Stats": {
             "HP": 2.1,
             "ATK": 18.0,
@@ -36880,11 +41679,61 @@ var _monster_2 = {
         ],
         "Csxylic": "SCAntimatterRegion/8012030"
     },
+    "801203008": {
+        "_id": 801203008,
+        "Key": "Monster_AML_Minion04_00_Config",
+        "Name": "ヴォイドレンジャー・{RUBY_B#まっしょう}抹消{RUBY_E#}",
+        "Desc": "死亡後、裂界に侵蝕された亡骸、異質なバイタルサインを発しているが、生前と変わらず抹消命令を執行している。<br>ヴォイドレンジャー・抹消は攻撃が命中した味方をマークする、マークされたターゲットは攻撃されるとさらにダメージを受ける。",
+        "Stats": {
+            "HP": 1.4,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 10.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    801203001,
+                    801203002
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 6,
+        "Icon": "mostericon/Monster_8012030.png",
+        "Figure": "monsterfigure/Monster_8012030.png",
+        "Status": [
+            280120301,
+            280120302
+        ],
+        "AllSkills": [
+            801203001,
+            801203002
+        ],
+        "Csxylic": "SCAntimatterRegion/8012030"
+    },
     "801301001": {
         "_id": 801301001,
         "Key": "Monster_AML_Elite01_00_Config",
-        "Name": "Voidranger: Trampler",
-        "Desc": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#じゅうりん}蹂躙{RUBY_E#}",
+        "Desc": "「反物質レギオン」が「戦争洪炉」で戦士と古獣の残片を鋳造して融合させた産物。<br> 数は比較的少ないが、戦士の知性と古獣の強さと機動力を併せ持ち、そのいななきは大量のヴォイドレンジャーを呼び寄せることができる。",
         "Stats": {
             "HP": 9.0,
             "ATK": 18.0,
@@ -36936,8 +41785,8 @@ var _monster_2 = {
     "801301002": {
         "_id": 801301002,
         "Key": "Monster_AML_Elite01_00_Config",
-        "Name": "Voidranger: Trampler",
-        "Desc": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#じゅうりん}蹂躙{RUBY_E#}",
+        "Desc": "「反物質レギオン」が「戦争洪炉」で戦士と古獣の残片を鋳造して融合させた産物。<br> 数は比較的少ないが、戦士の知性と古獣の強さと機動力を併せ持ち、そのいななきは大量のヴォイドレンジャーを呼び寄せることができる。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -36989,8 +41838,8 @@ var _monster_2 = {
     "801301003": {
         "_id": 801301003,
         "Key": "Monster_AML_Elite01_00_Config",
-        "Name": "Voidranger: Trampler",
-        "Desc": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#じゅうりん}蹂躙{RUBY_E#}",
+        "Desc": "「反物質レギオン」が「戦争洪炉」で戦士と古獣の残片を鋳造して融合させた産物。<br> 数は比較的少ないが、戦士の知性と古獣の強さと機動力を併せ持ち、そのいななきは大量のヴォイドレンジャーを呼び寄せることができる。",
         "Stats": {
             "HP": 60.0,
             "ATK": 18.0,
@@ -37042,8 +41891,8 @@ var _monster_2 = {
     "801301004": {
         "_id": 801301004,
         "Key": "Monster_AML_Elite01_00_Config",
-        "Name": "Voidranger: Trampler",
-        "Desc": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#じゅうりん}蹂躙{RUBY_E#}",
+        "Desc": "「反物質レギオン」が「戦争洪炉」で戦士と古獣の残片を鋳造して融合させた産物。<br> 数は比較的少ないが、戦士の知性と古獣の強さと機動力を併せ持ち、そのいななきは大量のヴォイドレンジャーを呼び寄せることができる。",
         "Stats": {
             "HP": 3.25006,
             "ATK": 18.0,
@@ -37095,8 +41944,8 @@ var _monster_2 = {
     "801301005": {
         "_id": 801301005,
         "Key": "Monster_AML_Elite01_00_Config",
-        "Name": "Voidranger: Trampler",
-        "Desc": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#じゅうりん}蹂躙{RUBY_E#}",
+        "Desc": "「反物質レギオン」が「戦争洪炉」で戦士と古獣の残片を鋳造して融合させた産物。<br> 数は比較的少ないが、戦士の知性と古獣の強さと機動力を併せ持ち、そのいななきは大量のヴォイドレンジャーを呼び寄せることができる。",
         "Stats": {
             "HP": 5.0,
             "ATK": 8.18172,
@@ -37148,8 +41997,8 @@ var _monster_2 = {
     "801301006": {
         "_id": 801301006,
         "Key": "Monster_AML_Elite01_00_Config",
-        "Name": "Voidranger: Trampler",
-        "Desc": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#じゅうりん}蹂躙{RUBY_E#}",
+        "Desc": "「反物質レギオン」が「戦争洪炉」で戦士と古獣の残片を鋳造して融合させた産物。<br> 数は比較的少ないが、戦士の知性と古獣の強さと機動力を併せ持ち、そのいななきは大量のヴォイドレンジャーを呼び寄せることができる。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -37201,8 +42050,8 @@ var _monster_2 = {
     "801301007": {
         "_id": 801301007,
         "Key": "Monster_AML_Elite01_00_Config",
-        "Name": "Voidranger: Trampler",
-        "Desc": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#じゅうりん}蹂躙{RUBY_E#}",
+        "Desc": "「反物質レギオン」が「戦争洪炉」で戦士と古獣の残片を鋳造して融合させた産物。<br> 数は比較的少ないが、戦士の知性と古獣の強さと機動力を併せ持ち、そのいななきは大量のヴォイドレンジャーを呼び寄せることができる。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -37254,8 +42103,8 @@ var _monster_2 = {
     "801301008": {
         "_id": 801301008,
         "Key": "Monster_AML_Elite01_00_Config",
-        "Name": "Distortion",
-        "Desc": "\"Memory\" is similar to \"photographs\". Even though it appears to record \"reality,\" it actually invades, alienates, and alters \"reality.\" Perhaps removing the \"distortion\" will make it reliable, or perhaps not.",
+        "Name": "歪み",
+        "Desc": "「記憶」と「写真」はとても似ている。それは「真実」を記録しているように見えるが、「真実」に侵入し、「真実」を変化させ、改ざんしているのだ。もしその中の「歪み」を消すことができれば信頼できるものになるかもしれない、ならないかもしれない。",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -37307,8 +42156,8 @@ var _monster_2 = {
     "801301009": {
         "_id": 801301009,
         "Key": "Monster_AML_Elite01_00_Config",
-        "Name": "Voidranger: Trampler",
-        "Desc": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#じゅうりん}蹂躙{RUBY_E#}",
+        "Desc": "「反物質レギオン」が「戦争洪炉」で戦士と古獣の残片を鋳造して融合させた産物。<br> 数は比較的少ないが、戦士の知性と古獣の強さと機動力を併せ持ち、そのいななきは大量のヴォイドレンジャーを呼び寄せることができる。",
         "Stats": {
             "HP": 8.0,
             "ATK": 8.18172,
@@ -37360,8 +42209,8 @@ var _monster_2 = {
     "801301010": {
         "_id": 801301010,
         "Key": "Monster_AML_Elite01_00_Config",
-        "Name": "Voidranger: Trampler",
-        "Desc": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#じゅうりん}蹂躙{RUBY_E#}",
+        "Desc": "「反物質レギオン」が「戦争洪炉」で戦士と古獣の残片を鋳造して融合させた産物。<br> 数は比較的少ないが、戦士の知性と古獣の強さと機動力を併せ持ち、そのいななきは大量のヴォイドレンジャーを呼び寄せることができる。",
         "Stats": {
             "HP": 5.24997,
             "ATK": 12.00006,
@@ -37413,8 +42262,8 @@ var _monster_2 = {
     "801301011": {
         "_id": 801301011,
         "Key": "Monster_AML_Elite01_00_Config",
-        "Name": "Voidranger: Trampler",
-        "Desc": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#じゅうりん}蹂躙{RUBY_E#}",
+        "Desc": "「反物質レギオン」が「戦争洪炉」で戦士と古獣の残片を鋳造して融合させた産物。<br> 数は比較的少ないが、戦士の知性と古獣の強さと機動力を併せ持ち、そのいななきは大量のヴォイドレンジャーを呼び寄せることができる。",
         "Stats": {
             "HP": 22.5,
             "ATK": 12.00006,
@@ -37470,8 +42319,8 @@ var _monster_2 = {
     "801301012": {
         "_id": 801301012,
         "Key": "Monster_AML_Elite01_00_Config",
-        "Name": "Voidranger: Trampler",
-        "Desc": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#じゅうりん}蹂躙{RUBY_E#}",
+        "Desc": "「反物質レギオン」が「戦争洪炉」で戦士と古獣の残片を鋳造して融合させた産物。<br> 数は比較的少ないが、戦士の知性と古獣の強さと機動力を併せ持ち、そのいななきは大量のヴォイドレンジャーを呼び寄せることができる。",
         "Stats": {
             "HP": 22.5,
             "ATK": 12.00006,
@@ -37526,8 +42375,8 @@ var _monster_2 = {
     "801301013": {
         "_id": 801301013,
         "Key": "Monster_AML_Elite01_00_Config",
-        "Name": "Voidranger: Trampler",
-        "Desc": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#じゅうりん}蹂躙{RUBY_E#}",
+        "Desc": "「反物質レギオン」が「戦争洪炉」で戦士と古獣の残片を鋳造して融合させた産物。<br> 数は比較的少ないが、戦士の知性と古獣の強さと機動力を併せ持ち、そのいななきは大量のヴォイドレンジャーを呼び寄せることができる。",
         "Stats": {
             "HP": 11.0,
             "ATK": 12.00006,
@@ -37583,8 +42432,8 @@ var _monster_2 = {
     "801301014": {
         "_id": 801301014,
         "Key": "Monster_AML_Elite01_00_Config",
-        "Name": "Voidranger: Trampler",
-        "Desc": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#じゅうりん}蹂躙{RUBY_E#}",
+        "Desc": "「反物質レギオン」が「戦争洪炉」で戦士と古獣の残片を鋳造して融合させた産物。<br> 数は比較的少ないが、戦士の知性と古獣の強さと機動力を併せ持ち、そのいななきは大量のヴォイドレンジャーを呼び寄せることができる。",
         "Stats": {
             "HP": 11.0,
             "ATK": 10.00008,
@@ -37640,8 +42489,8 @@ var _monster_2 = {
     "801301015": {
         "_id": 801301015,
         "Key": "Monster_AML_Elite01_00_Config",
-        "Name": "Voidranger: Trampler",
-        "Desc": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#じゅうりん}蹂躙{RUBY_E#}",
+        "Desc": "「反物質レギオン」が「戦争洪炉」で戦士と古獣の残片を鋳造して融合させた産物。<br> 数は比較的少ないが、戦士の知性と古獣の強さと機動力を併せ持ち、そのいななきは大量のヴォイドレンジャーを呼び寄せることができる。",
         "Stats": {
             "HP": 7.5,
             "ATK": 12.00006,
@@ -37693,11 +42542,67 @@ var _monster_2 = {
         ],
         "Csxylic": "SCAntimatterRegion/8013010"
     },
+    "801301017": {
+        "_id": 801301017,
+        "Key": "Monster_AML_Elite01_00_Config",
+        "Name": "ヴォイドレンジャー・{RUBY_B#じゅうりん}蹂躙{RUBY_E#}",
+        "Desc": "「反物質レギオン」が「戦争洪炉」で戦士と古獣の残片を鋳造して融合させた産物。<br> 数は比較的少ないが、戦士の知性と古獣の強さと機動力を併せ持ち、そのいななきは大量のヴォイドレンジャーを呼び寄せることができる。",
+        "Stats": {
+            "HP": 11.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": 8.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    801301001,
+                    801301002,
+                    801301003,
+                    801301004,
+                    801301005
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 6,
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ],
+        "AllSkills": [
+            801301001,
+            801301002,
+            801301003,
+            801301004,
+            801301005
+        ],
+        "Csxylic": "SCAntimatterRegion/8013010"
+    },
     "801301018": {
         "_id": 801301018,
         "Key": "Monster_AML_Elite01_00_Config",
-        "Name": "Voidranger: Trampler",
-        "Desc": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#じゅうりん}蹂躙{RUBY_E#}",
+        "Desc": "「反物質レギオン」が「戦争洪炉」で戦士と古獣の残片を鋳造して融合させた産物。<br> 数は比較的少ないが、戦士の知性と古獣の強さと機動力を併せ持ち、そのいななきは大量のヴォイドレンジャーを呼び寄せることができる。",
         "Stats": {
             "HP": 24.5,
             "ATK": 18.0,
@@ -37749,8 +42654,8 @@ var _monster_2 = {
     "801301019": {
         "_id": 801301019,
         "Key": "Monster_AML_Elite01_00_Config",
-        "Name": "Voidranger: Trampler",
-        "Desc": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#じゅうりん}蹂躙{RUBY_E#}",
+        "Desc": "「反物質レギオン」が「戦争洪炉」で戦士と古獣の残片を鋳造して融合させた産物。<br> 数は比較的少ないが、戦士の知性と古獣の強さと機動力を併せ持ち、そのいななきは大量のヴォイドレンジャーを呼び寄せることができる。",
         "Stats": {
             "HP": 5.5,
             "ATK": 18.0,
@@ -37805,8 +42710,8 @@ var _monster_2 = {
     "801301021": {
         "_id": 801301021,
         "Key": "Monster_AML_Elite01_00_Config",
-        "Name": "Voidranger: Trampler",
-        "Desc": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers.",
+        "Name": "ヴォイドレンジャー・{RUBY_B#じゅうりん}蹂躙{RUBY_E#}",
+        "Desc": "「反物質レギオン」が「戦争洪炉」で戦士と古獣の残片を鋳造して融合させた産物。<br> 数は比較的少ないが、戦士の知性と古獣の強さと機動力を併せ持ち、そのいななきは大量のヴォイドレンジャーを呼び寄せることができる。",
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -37861,8 +42766,8 @@ var _monster_2 = {
     "802201001": {
         "_id": 802201001,
         "Key": "Monster_SW_Minion01_00_Config",
-        "Name": "Juvenile Sting",
-        "Desc": "The youngling of a True Sting. Based on their growth stage, young True Stings can be further divided into Juvenile Stings and Lesser Stings.",
+        "Name": "{RUBY_B#ようちっちゅう}幼蟄虫{RUBY_E#}",
+        "Desc": "真蟄虫の幼体。「真蟄虫」の幼体は成長の程度によって「幼蟄虫」と「次蟄虫」に分けられる。",
         "Stats": {
             "HP": 0.2,
             "ATK": 18.0,
@@ -37918,8 +42823,8 @@ var _monster_2 = {
     "802202001": {
         "_id": 802202001,
         "Key": "Monster_SW_Minion01_01_Config",
-        "Name": "Lesser Sting",
-        "Desc": "The youngling of a True Sting. Based on their growth stage, young True Stings can be further divided into Juvenile Stings and Lesser Stings.",
+        "Name": "{RUBY_B#じちっちゅう}次蟄虫{RUBY_E#}",
+        "Desc": "真蟄虫の幼体。「真蟄虫」の幼体は成長の程度によって「幼蟄虫」と「次蟄虫」に分けられる。",
         "Stats": {
             "HP": 3.15,
             "ATK": 18.0,
@@ -37979,8 +42884,8 @@ var _monster_2 = {
     "802202002": {
         "_id": 802202002,
         "Key": "Monster_SW_Minion01_01_Config",
-        "Name": "Lesser Sting",
-        "Desc": "The youngling of a True Sting. Based on their growth stage, young True Stings can be further divided into Juvenile Stings and Lesser Stings.",
+        "Name": "{RUBY_B#じちっちゅう}次蟄虫{RUBY_E#}",
+        "Desc": "真蟄虫の幼体。「真蟄虫」の幼体は成長の程度によって「幼蟄虫」と「次蟄虫」に分けられる。",
         "Stats": {
             "HP": 2.5,
             "ATK": 18.0,
@@ -38037,8 +42942,8 @@ var _monster_2 = {
     "802202003": {
         "_id": 802202003,
         "Key": "Monster_SW_Minion01_01_Config",
-        "Name": "Lesser Sting",
-        "Desc": "The youngling of a True Sting. Based on their growth stage, young True Stings can be further divided into Juvenile Stings and Lesser Stings.",
+        "Name": "{RUBY_B#じちっちゅう}次蟄虫{RUBY_E#}",
+        "Desc": "真蟄虫の幼体。「真蟄虫」の幼体は成長の程度によって「幼蟄虫」と「次蟄虫」に分けられる。",
         "Stats": {
             "HP": 0.5,
             "ATK": 18.0,
@@ -38095,8 +43000,8 @@ var _monster_2 = {
     "802401101": {
         "_id": 802401101,
         "Key": "Monster_SW_Boss_00_Normal_Config",
-        "Name": "Swarm: True Sting",
-        "Desc": "Mature True Sting. Sir Duroy, a member of the Intelligentsia Guild, explored the starry seas and authored the thirty-volume of the <i>Chronicles of Interdimensional Insects</i>. The book provides detailed records of over a dozen confirmed species of lepisma and countless subspecies spanning across the stars.",
+        "Name": "スウォーム・{RUBY_B#しんちっちゅう}真蟄虫{RUBY_E#}",
+        "Desc": "成熟体の真蟄虫。博識学会のデュロワ士爵は星海を漫遊し、 30 巻からなる『諸界異虫記』を書いた。これまで確認された十数種類の物を食い荒らす虫の種類および星系間に存在する数えきれないほどの亜種が記されている。",
         "Stats": {
             "HP": 18.0,
             "ATK": 18.0,
@@ -38172,8 +43077,8 @@ var _monster_2 = {
     "802501001": {
         "_id": 802501001,
         "Key": "Monster_SW_Boss_01_Config",
-        "Name": "Starcrusher Swarm King: Skaracabaz (Synthetic)",
-        "Desc": "The replica of the Emanator of Propagation cultivated by Ruan Mei, briefly manifesting in the world in an incomplete form. Its original form is a giant lepisma that inherited the mandibles of the Imperator Insectorum. It can collect in its mouthparts the death ray that fragmented celestial bodies, and make shattered stars incubators for procreating offspring. It was once one of the nightmares across multiple worlds during the Swarm Disaster.",
+        "Name": "{RUBY_B#さいせいおうちゅう}砕星王虫{RUBY_E#}・スキャラカバズ（{RUBY_B#もぞう}模造{RUBY_E#}）",
+        "Desc": "ルアン・メェイが育てた「繁殖」の使令の複製体。欠けた姿でこの世界にしばし出現した。原型は蟲の王の顎を継承した巨大な蟲。口器に天体を引き裂く死の光を集め、砕いた星を子孫を育てる温床とする。かつては宇宙の蝗害における諸界の悪夢の1つであった。",
         "Stats": {
             "HP": 18.0,
             "ATK": 16.363619999999997,
@@ -38242,8 +43147,8 @@ var _monster_2 = {
     "803201001": {
         "_id": 803201001,
         "Key": "Monster_W1_Soldier02_01_Config",
-        "Name": "Grunt: Field Personnel",
-        "Desc": "An Interastral Peace Corporation grunt worker whose job mainly deals with shady \"business oversights.\" With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships.",
+        "Name": "{RUBY_B#ひらしゃいん}平社員{RUBY_E#}・{RUBY_B#がいきん}外勤{RUBY_E#}",
+        "Desc": "「スターピースカンパニー」の平社員。主に表に出ない「業務の漏れ」を処理するのが仕事である。給料は高くないため、カンパニー傘下の企業艦でシェアハウスするしかない。",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -38294,8 +43199,8 @@ var _monster_2 = {
     "803201002": {
         "_id": 803201002,
         "Key": "Monster_W1_Soldier02_01_Config",
-        "Name": "Grunt: Field Personnel",
-        "Desc": "An Interastral Peace Corporation grunt worker whose job mainly deals with shady \"business oversights.\" With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships.",
+        "Name": "{RUBY_B#ひらしゃいん}平社員{RUBY_E#}・{RUBY_B#がいきん}外勤{RUBY_E#}",
+        "Desc": "「スターピースカンパニー」の平社員。主に表に出ない「業務の漏れ」を処理するのが仕事である。給料は高くないため、カンパニー傘下の企業艦でシェアハウスするしかない。",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -38346,8 +43251,8 @@ var _monster_2 = {
     "803201003": {
         "_id": 803201003,
         "Key": "Monster_W1_Soldier02_01_Config",
-        "Name": "Grunt: Field Personnel (Illusion)",
-        "Desc": "An Interastral Peace Corporation grunt worker whose job mainly deals with shady \"business oversights.\" With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships. The version appearing here is a phantom simulated from your memories.",
+        "Name": "平社員・外勤（幻像）",
+        "Desc": "「スターピースカンパニー」の平社員。主に表に出ない「業務の漏れ」を処理するのが仕事である。給料は高くないため、カンパニー傘下の企業艦でシェアハウスするしかない。ここに現れたのはあなたの記憶をもとにシミュレートされた幻である。",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -38399,8 +43304,8 @@ var _monster_2 = {
     "803201004": {
         "_id": 803201004,
         "Key": "Monster_W1_Soldier02_01_Config",
-        "Name": "Grunt: Field Personnel (Illusion)",
-        "Desc": "An Interastral Peace Corporation grunt worker whose job mainly deals with shady \"business oversights.\" With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships. The version appearing here is a phantom simulated from your memories.",
+        "Name": "平社員・外勤（幻像）",
+        "Desc": "「スターピースカンパニー」の平社員。主に表に出ない「業務の漏れ」を処理するのが仕事である。給料は高くないため、カンパニー傘下の企業艦でシェアハウスするしかない。ここに現れたのはあなたの記憶をもとにシミュレートされた幻である。",
         "Stats": {
             "HP": 0.7,
             "ATK": 18.0,
@@ -38452,8 +43357,8 @@ var _monster_2 = {
     "803201005": {
         "_id": 803201005,
         "Key": "Monster_W1_Soldier02_01_Config",
-        "Name": "Grunt: Field Personnel",
-        "Desc": "An Interastral Peace Corporation grunt worker whose job mainly deals with shady \"business oversights.\" With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships.",
+        "Name": "{RUBY_B#ひらしゃいん}平社員{RUBY_E#}・{RUBY_B#がいきん}外勤{RUBY_E#}",
+        "Desc": "「スターピースカンパニー」の平社員。主に表に出ない「業務の漏れ」を処理するのが仕事である。給料は高くないため、カンパニー傘下の企業艦でシェアハウスするしかない。",
         "Stats": {
             "HP": 2.0,
             "ATK": 14.99994,
@@ -38505,11 +43410,63 @@ var _monster_2 = {
         ],
         "Csxylic": "SCInterastralPeaceCorporation/8032010"
     },
+    "803201006": {
+        "_id": 803201006,
+        "Key": "Monster_W1_Soldier02_01_Config",
+        "Name": "{RUBY_B#ひらしゃいん}平社員{RUBY_E#}・{RUBY_B#がいきん}外勤{RUBY_E#}",
+        "Desc": "「スターピースカンパニー」の平社員。主に表に出ない「業務の漏れ」を処理するのが仕事である。給料は高くないため、カンパニー傘下の企業艦でシェアハウスするしかない。",
+        "Stats": {
+            "HP": 1.6,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 118.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Wind",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    803201001,
+                    803201002
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    803201003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 9,
+        "Icon": "mostericon/Monster_8032010.png",
+        "Figure": "monsterfigure/Monster_8032010.png",
+        "Status": [
+            280330101
+        ],
+        "AllSkills": [
+            803201001,
+            803201002
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8032010"
+    },
     "803202001": {
         "_id": 803202001,
         "Key": "Monster_W1_Soldier01_04_Config",
-        "Name": "Grunt: Security Personnel",
-        "Desc": "An Interastral Peace Corporation grunt worker whose job mainly involves maintaining order in locations ruled by the IPC. With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships.",
+        "Name": "{RUBY_B#ひらしゃいん}平社員{RUBY_E#}・{RUBY_B#けいび}警備{RUBY_E#}",
+        "Desc": "「スターピースカンパニー」の平社員。主にカンパニーの管轄地域の治安や秩序を維持するのが仕事である。給料は高くないため、カンパニー傘下の企業艦でシェアハウスするしかない。",
         "Stats": {
             "HP": 2.2,
             "ATK": 18.0,
@@ -38560,8 +43517,8 @@ var _monster_2 = {
     "803202002": {
         "_id": 803202002,
         "Key": "Monster_W1_Soldier01_04_Config",
-        "Name": "Grunt: Security Personnel",
-        "Desc": "An Interastral Peace Corporation grunt worker whose job mainly involves maintaining order in locations ruled by the IPC. With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships.",
+        "Name": "{RUBY_B#ひらしゃいん}平社員{RUBY_E#}・{RUBY_B#けいび}警備{RUBY_E#}",
+        "Desc": "「スターピースカンパニー」の平社員。主にカンパニーの管轄地域の治安や秩序を維持するのが仕事である。給料は高くないため、カンパニー傘下の企業艦でシェアハウスするしかない。",
         "Stats": {
             "HP": 2.2,
             "ATK": 18.0,
@@ -38612,8 +43569,8 @@ var _monster_2 = {
     "803202003": {
         "_id": 803202003,
         "Key": "Monster_W1_Soldier01_04_Config",
-        "Name": "Grunt: Security Personnel (Illusion)",
-        "Desc": "An Interastral Peace Corporation grunt worker whose job mainly involves maintaining order in locations ruled by the IPC. With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships. The version appearing here is a phantom simulated from your memories.",
+        "Name": "平社員・警備（幻像）",
+        "Desc": "「スターピースカンパニー」の平社員。主にカンパニーの管轄地域の治安や秩序を維持するのが仕事である。給料は高くないため、カンパニー傘下の企業艦でシェアハウスするしかない。ここに現れたのはあなたの記憶をもとにシミュレートされた幻である。",
         "Stats": {
             "HP": 2.2,
             "ATK": 18.0,
@@ -38665,8 +43622,8 @@ var _monster_2 = {
     "803202004": {
         "_id": 803202004,
         "Key": "Monster_W1_Soldier01_04_Config",
-        "Name": "Grunt: Security Personnel",
-        "Desc": "An Interastral Peace Corporation grunt worker whose job mainly involves maintaining order in locations ruled by the IPC. With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships.",
+        "Name": "{RUBY_B#ひらしゃいん}平社員{RUBY_E#}・{RUBY_B#けいび}警備{RUBY_E#}",
+        "Desc": "「スターピースカンパニー」の平社員。主にカンパニーの管轄地域の治安や秩序を維持するのが仕事である。給料は高くないため、カンパニー傘下の企業艦でシェアハウスするしかない。",
         "Stats": {
             "HP": 0.8,
             "ATK": 18.0,
@@ -38717,8 +43674,8 @@ var _monster_2 = {
     "803202005": {
         "_id": 803202005,
         "Key": "Monster_W1_Soldier01_04_Config",
-        "Name": "Grunt: Security Personnel",
-        "Desc": "An Interastral Peace Corporation grunt worker whose job mainly involves maintaining order in locations ruled by the IPC. With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships.",
+        "Name": "{RUBY_B#ひらしゃいん}平社員{RUBY_E#}・{RUBY_B#けいび}警備{RUBY_E#}",
+        "Desc": "「スターピースカンパニー」の平社員。主にカンパニーの管轄地域の治安や秩序を維持するのが仕事である。給料は高くないため、カンパニー傘下の企業艦でシェアハウスするしかない。",
         "Stats": {
             "HP": 2.0,
             "ATK": 14.99994,
@@ -38769,11 +43726,63 @@ var _monster_2 = {
         ],
         "Csxylic": "SCInterastralPeaceCorporation/8032020"
     },
+    "803202006": {
+        "_id": 803202006,
+        "Key": "Monster_W1_Soldier01_04_Config",
+        "Name": "{RUBY_B#ひらしゃいん}平社員{RUBY_E#}・{RUBY_B#けいび}警備{RUBY_E#}",
+        "Desc": "「スターピースカンパニー」の平社員。主にカンパニーの管轄地域の治安や秩序を維持するのが仕事である。給料は高くないため、カンパニー傘下の企業艦でシェアハウスするしかない。",
+        "Stats": {
+            "HP": 2.2,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Wind",
+            "Elec"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    803202001,
+                    803202002
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    803202003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 9,
+        "Icon": "mostericon/Monster_8032020.png",
+        "Figure": "monsterfigure/Monster_8032020.png",
+        "Status": [
+            280330101
+        ],
+        "AllSkills": [
+            803202001,
+            803202002
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8032020"
+    },
     "803301001": {
         "_id": 803301001,
         "Key": "Monster_W1_Mecha03_02_Config",
-        "Name": "Senior Staff: Team Leader",
-        "Desc": "An Interastral Peace Corporation senior staff member with a minimal rank of project team leader. The mech they drive belongs to the IPC. If damaged, its repair fees have to be paid out-of-pocket. With a half-decent salary, they can at least afford to rent a one-bedroom apartment on one of the IPC's enterprise ships.",
+        "Name": "ベテラン{RUBY_B#しゃいん}社員{RUBY_E#}・チームリーダー",
+        "Desc": "「スターピースカンパニー」のベテラン社員。階級は少なくともプロジェクトチームのリーダー程度はある。操縦しているメカは公有財産で、壊したら自費で弁償しなければならない。給料はまあまあで、カンパニー傘下の企業艦に1LDKの物件を借りられる。",
         "Stats": {
             "HP": 14.0,
             "ATK": 18.0,
@@ -38828,8 +43837,8 @@ var _monster_2 = {
     "803301002": {
         "_id": 803301002,
         "Key": "Monster_W1_Mecha03_02_Config",
-        "Name": "Senior Staff: Team Leader (Illusion)",
-        "Desc": "An Interastral Peace Corporation senior staff member with a minimal rank of project team leader. The mech they drive belongs to the IPC. If damaged, its repair fees have to be paid out-of-pocket. With a half-decent salary, they can at least afford to rent a one-bedroom apartment on one of the IPC's enterprise ships. The version appearing here is a phantom simulated from your memories.",
+        "Name": "ベテラン社員・チームリーダー（幻像）",
+        "Desc": "「スターピースカンパニー」のベテラン社員。階級は少なくともプロジェクトチームのリーダー程度はある。操縦しているメカは公有財産で、壊したら自費で弁償しなければならない。給料はまあまあで、カンパニー傘下の企業艦に1LDKの物件を借りられる。ここに現れたのはあなたの記憶をもとにシミュレートされた幻である。",
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -38888,8 +43897,8 @@ var _monster_2 = {
     "803301003": {
         "_id": 803301003,
         "Key": "Monster_W1_Mecha03_02_Config",
-        "Name": "Senior Staff: Team Leader",
-        "Desc": "An Interastral Peace Corporation senior staff member with a minimal rank of project team leader. The mech they drive belongs to the IPC. If damaged, its repair fees have to be paid out-of-pocket. With a half-decent salary, they can at least afford to rent a one-bedroom apartment on one of the IPC's enterprise ships.",
+        "Name": "ベテラン{RUBY_B#しゃいん}社員{RUBY_E#}・チームリーダー",
+        "Desc": "「スターピースカンパニー」のベテラン社員。階級は少なくともプロジェクトチームのリーダー程度はある。操縦しているメカは公有財産で、壊したら自費で弁償しなければならない。給料はまあまあで、カンパニー傘下の企業艦に1LDKの物件を借りられる。",
         "Stats": {
             "HP": 20.0,
             "ATK": 18.0,
@@ -38947,8 +43956,8 @@ var _monster_2 = {
     "803301004": {
         "_id": 803301004,
         "Key": "Monster_W1_Mecha03_02_Config",
-        "Name": "Senior Staff: Team Leader",
-        "Desc": "An Interastral Peace Corporation senior staff member with a minimal rank of project team leader. The mech they drive belongs to the IPC. If damaged, its repair fees have to be paid out-of-pocket. With a half-decent salary, they can at least afford to rent a one-bedroom apartment on one of the IPC's enterprise ships.",
+        "Name": "ベテラン{RUBY_B#しゃいん}社員{RUBY_E#}・チームリーダー",
+        "Desc": "「スターピースカンパニー」のベテラン社員。階級は少なくともプロジェクトチームのリーダー程度はある。操縦しているメカは公有財産で、壊したら自費で弁償しなければならない。給料はまあまあで、カンパニー傘下の企業艦に1LDKの物件を借りられる。",
         "Stats": {
             "HP": 7.5,
             "ATK": 14.99994,
@@ -39004,11 +44013,67 @@ var _monster_2 = {
         ],
         "Csxylic": "SCInterastralPeaceCorporation/8033010"
     },
+    "803301005": {
+        "_id": 803301005,
+        "Key": "Monster_W1_Mecha03_02_Config",
+        "Name": "ベテラン{RUBY_B#しゃいん}社員{RUBY_E#}・チームリーダー",
+        "Desc": "「スターピースカンパニー」のベテラン社員。階級は少なくともプロジェクトチームのリーダー程度はある。操縦しているメカは公有財産で、壊したら自費で弁償しなければならない。給料はまあまあで、カンパニー傘下の企業艦に1LDKの物件を借りられる。",
+        "Stats": {
+            "HP": 16.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 12.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    803301001,
+                    803301002,
+                    803301003,
+                    803301004,
+                    803301005,
+                    803301006,
+                    803301007
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 9,
+        "Icon": "mostericon/Monster_8033010.png",
+        "Figure": "monsterfigure/Monster_8033010.png",
+        "Status": [
+            280330101
+        ],
+        "AllSkills": [
+            803301001,
+            803301002,
+            803301003,
+            803301004,
+            803301005,
+            803301006,
+            803301007
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8033010"
+    },
     "803301101": {
         "_id": 803301101,
         "Key": "Monster_W1_Mecha03_02_Config_RLElite",
-        "Name": "Senior Staff: Team Leader (Bug)",
-        "Desc": "A false projection produced by compromised codes. The original reference entity is an Interastral Peace Corporation senior staff member with a minimal rank of project team leader. The mech they drive belongs to the IPC. If damaged, its repair fees have to be paid out-of-pocket. With a half-decent salary, they can at least afford to rent a one-bedroom apartment on one of the IPC's enterprise ships.",
+        "Name": "ベテラン社員・チームリーダー（バグ）",
+        "Desc": "コードが影響を受けた後、バグってしまった投影。「スターピースカンパニー」のベテラン社員を参考にしており。階級は少なくともプロジェクトチームのリーダー程度はある。操縦しているメカは公有財産で、壊したら自費で弁償しなければならない。給料はまあまあで、カンパニー傘下の企業艦に1LDKの物件を借りられる。",
         "Stats": {
             "HP": 19.0,
             "ATK": 18.0,
@@ -39072,8 +44137,8 @@ var _monster_2 = {
     "803301202": {
         "_id": 803301202,
         "Key": "Monster_W1_Mecha03_IF_02_Config",
-        "Name": "Senior Staff: Team Leader (Illusion)",
-        "Desc": "An Interastral Peace Corporation senior staff member with a minimal rank of project team leader. The mech they drive belongs to the IPC. If damaged, its repair fees have to be paid out-of-pocket. With a half-decent salary, they can at least afford to rent a one-bedroom apartment on one of the IPC's enterprise ships. The version appearing here is a phantom simulated from your memories.",
+        "Name": "ベテラン社員・チームリーダー（幻像）",
+        "Desc": "「スターピースカンパニー」のベテラン社員。階級は少なくともプロジェクトチームのリーダー程度はある。操縦しているメカは公有財産で、壊したら自費で弁償しなければならない。給料はまあまあで、カンパニー傘下の企業艦に1LDKの物件を借りられる。ここに現れたのはあなたの記憶をもとにシミュレートされた幻である。",
         "Stats": {
             "HP": 14.0,
             "ATK": 18.0,
@@ -39132,8 +44197,8 @@ var _monster_2 = {
     "803401001": {
         "_id": 803401001,
         "Key": "Monster_W3_Aventurine_00_Config",
-        "Name": "Ten Stonehearts: Aventurine of Stratagems",
-        "Desc": "A senior manager in the IPC Strategic Investment Department and one of the Ten Stonehearts. Using his Cornerstone, he obtained a share of the authority of an Emanator of Preservation. He throws his own body into the game as a die, ready to face death in order to walk away alive.",
+        "Name": "「{RUBY_B#じゅう}十{RUBY_E#}の{RUBY_B#せきしん}石心{RUBY_E#}」{RUBY_B#はくぎ}博戯{RUBY_E#}の{RUBY_B#さきんせき}砂金石{RUBY_E#}",
+        "Desc": "スターピースカンパニー「戦略投資部」の高級幹部であり、「十の石心」の1人。基石を通して「存護」の使令の権能を手に入れた。その身をダイスとして、死地に立ちながら生を手にする。",
         "Stats": {
             "HP": 36.0,
             "ATK": 21.68676,
@@ -39147,7 +44212,162 @@ var _monster_2 = {
             "Elec"
         ],
         "RESBase": {
+            "Fire": 0.2,
             "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.4
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    803401001,
+                    803401002,
+                    803401003,
+                    803401004,
+                    803401006,
+                    803401008
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    803401001,
+                    803401002,
+                    803401003,
+                    803401005,
+                    803401007,
+                    803401008
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    803401009
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 9,
+        "Icon": "mostericon/Monster_8034010.png",
+        "Figure": "monsterfigure/Monster_8034010.png",
+        "AllSkills": [
+            803401001,
+            803401002,
+            803401003,
+            803401004,
+            803401006,
+            803401008,
+            803401005,
+            803401007
+        ]
+    },
+    "803401002": {
+        "_id": 803401002,
+        "Key": "Monster_W3_Aventurine_00_Config",
+        "Name": "「{RUBY_B#じゅう}十{RUBY_E#}の{RUBY_B#せきしん}石心{RUBY_E#}」{RUBY_B#はくぎ}博戯{RUBY_E#}の{RUBY_B#さきんせき}砂金石{RUBY_E#}",
+        "Desc": "スターピースカンパニー「戦略投資部」の高級幹部であり、「十の石心」の1人。基石を通して「存護」の使令の権能を手に入れた。その身をダイスとして、死地に立ちながら生を手にする。",
+        "Stats": {
+            "HP": 25.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 15.0
+        },
+        "StatsExtra": {
+            "SPD": 120.0,
+            "Stance": 35.0
+        },
+        "Weak": [
+            "Phys",
+            "Wind",
+            "Elec"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.4
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    803401001,
+                    803401002,
+                    803401003,
+                    803401004,
+                    803401006,
+                    803401008
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    803401001,
+                    803401002,
+                    803401003,
+                    803401005,
+                    803401007,
+                    803401008
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    803401009
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 9,
+        "Icon": "mostericon/Monster_8034010.png",
+        "Figure": "monsterfigure/Monster_8034010.png",
+        "AllSkills": [
+            803401001,
+            803401002,
+            803401003,
+            803401004,
+            803401006,
+            803401008,
+            803401005,
+            803401007
+        ]
+    },
+    "803401003": {
+        "_id": 803401003,
+        "Key": "Monster_W3_Aventurine_00_Config",
+        "Name": "「{RUBY_B#じゅう}十{RUBY_E#}の{RUBY_B#せきしん}石心{RUBY_E#}」{RUBY_B#はくぎ}博戯{RUBY_E#}の{RUBY_B#さきんせき}砂金石{RUBY_E#}",
+        "Desc": "スターピースカンパニー「戦略投資部」の高級幹部であり、「十の石心」の1人。基石を通して「存護」の使令の権能を手に入れた。その身をダイスとして、死地に立ちながら生を手にする。",
+        "Stats": {
+            "HP": 75.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 15.0
+        },
+        "StatsExtra": {
+            "SPD": 120.0,
+            "Stance": 35.0
+        },
+        "Weak": [
+            "Phys",
+            "Wind",
+            "Elec"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
             "Quantum": 0.2,
             "Imaginary": 0.4
         },

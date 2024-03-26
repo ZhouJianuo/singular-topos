@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21038": "<i>\"Package secured. I'll leave covering our retreat to you.\"</i><br>Their comrade's voice comes through the communicator.<br><br>They glance around the surroundings, watching as the savaged remnants of their enemies continue to pass through the complex architecture inside the vast and abandoned structure. They are drawing ever closer.<br><i>\"Please hold.\"</i><br><br>After a beat of quietude, a series of apocalyptic explosions rocketed up into the sky. Waves of displaced air cast clouds of dust high across the battlefield, and smoke scattered in all directions, the blinding white cleaving light into the night.<br><i>\"You know they purposely planted loads of gunpowder in there, right?\"</i><br><br>With a rustle, they flung open the cape as if they just finished a leisurely stroll.<br><i>\"Of course.\"</i><br><i>\"So, let's light it up. All I need to do is play the part of the match.\"</i>"
+    "21038": "<i>「目的の物を手に入れた。撤退するから援護を頼む」</i><br>通信機から仲間の声が聞こえた。<br><br>彼は周囲を観察する。残党が廃棄された大型建築物の複雑な構造を進み、彼に近づいてきた。<br><i>「少し時間が必要です」</i><br><br>一瞬の静寂の後、大災害のような激しい爆発が起こった。衝撃波で砂塵が舞い煙が立ち込め、眩い光が夜空を昼と同じくらいに明るくした。<br><i>「そこらじゅう、あいつらの仕掛けた爆薬まみれだとわかっていたよな？」</i><br><br>マントを風になびかせる姿は、散歩でもしてきたかのようだった。<br><i>「当然」</i><br><i>「ですから、私が火をつけるマッチになればよいと」</i>"
 }
 
 var _weaponskill_ = {

@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21028": "Lighting a light, she glanced at her friend beside her while holding a mug of warm chocolate.<br>Watching her read the books and notes she gifted her.<br>Watching her expressing a rare smile.<br><br>In cold nights like this, even the tiniest bit of bliss can chase away the chills."
+    "21028": "불을 켜고 핫초코 한 잔을 들고 옆에 있는 친구를 바라본다.<br>그녀가 자신이 보낸 책과 노트를 읽는 모습을 바라본다.<br>그녀가 평소에 좀처럼 내비치지 않는 웃음을 짓는 걸 바라본다.<br><br>추운 밤, 아주 작은 행복만으로도 한기를 날려버릴 수 있다."
 }
 
 var _weaponskill_ = {

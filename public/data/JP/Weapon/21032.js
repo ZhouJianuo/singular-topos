@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21032": "He immediately falls in love with the golden vessel and is about to buy it,<br>but the Foxian girl drags him aside and whispers:<br><i>\"Please return at night, Mr. Benefactor, and make up your mind then.\"</i><br><br>As promised, he returns at night.<br>The same Foxian girl opens the door and smiles at him.<br><i>\"Please follow me, Mr. Benefactor.\"</i><br><br>A ray of moonlight shines onto the base of the etched plate.<br>The artisan had traced the petals with lines of various depths, and he would not be able to see such details without the moonlight.<br><br>He finally recalls why this item is called \"Carve the Moon, Weave the Clouds.\""
+    "21032": "彼は一目でその金器を気に入った、それを買い取ろうとしたその時、<br>狐族の少女が彼を店の隅に引きずり、呟いた。<br><i>「お客さん、夜になったらまた弊店にいらっしゃってください、その時に決めても遅くありませんよ」</i><br><br>その夜、彼は約束通り店に来た。<br>門を開けたのはあの狐族の少女、彼女は微笑みながら案内する。<br><i>「お客さん、こちらです」</i><br><br>一縷の月光が、皿の底に彫りつけられた花模様に刻み込む。<br>職人は線の深さで花弁の深浅を引いたのだ、月明かりの下でなければ、この一毫一厘は見出せない。<br><br>これを見て、彼は思い出す、この器物が「彫月裁雲」と呼ばれる所以を。"
 }
 
 var _weaponskill_ = {

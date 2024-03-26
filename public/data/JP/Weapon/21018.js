@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21018": "<i>\"Why couldn't Hook do a spinning dance move, just like how Clara does?\"</i><br>She clenched her tiny fists and pouted her cute lips, her chubby little face looking redder than ever under her signature felt hat.<br><i>\"Please, Mr. Svarog, can you please help Hook with this?\"</i><br>Without saying any words, Mr. Svarog began to hold out his robotic arm.<br><br><i>\"I'm g—gonna be sick!!! Put me down now! Please!\"</i>"
+    "21018": "<i>「なんであたしはクラーラみたいにクルクル回れないの…」</i><br>彼女はこぶしを握り締め、ふくれっ面をする。まん丸な頬は防寒帽子の暖かさで赤くつやつやとしている。<br><i>「ねぇスヴァローグ、手伝ってくれる？」</i><br>謹厳なロボットは声を出さず、ただ手を差し伸べた。<br><br><i>「め、目が回る！！うあぁ…早くあたしを降ろせ！」</i>"
 }
 
 var _weaponskill_ = {

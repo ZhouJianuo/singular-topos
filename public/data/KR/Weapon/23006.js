@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23006": "<i>\"Could it be that there's something you haven't told me?\"<br><br></i>She watches as their neck stiffens, as if a lump is blocking their throat.<br>She knows she is feared, and that no further step is needed.<br>At this point, it no longer mattered what she said.<br>Any word she utters radiates horror...<br>They stand no chance against her, and have no choice but to blurt out what she wants to hear.<br><br>Like a spider waiting in its web, patience is all she needs."
+    "23006": "<i>「혹시 나한테 숨기는 게 더 있는 거야?」<br><br></i>상대방의 잔뜩 움츠린 목과, 침을 삼키는 소리에 그녀가 물어본다.<br>두려움에 떠는 사람에게 그녀는 능력을 사용하지 않아도 된다.<br>사실 그녀가 무엇을 말하든 결과는 변함없다.<br>입밖으로 나온 그녀의 말로 인해 공포심은 점점 더 부풀어 오르게 되고…….<br>상대방은 당황해서 그녀가 듣고 싶어 하는 모든 걸 털어놓게 될 것이다.<br><br>그녀에게 필요한 건 기다림뿐이다. 그물을 치고 사냥감을 기다리는 거미처럼"
 }
 
 var _weaponskill_ = {

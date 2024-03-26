@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21013": "She stood on the stage, waving at her audience, encouraging them to make their voice heard.<br>Songs, shouts, or laments — anything that makes a sound.<br>Voice your thoughts, so others can come to help.<br><br><i>\"Don't make your heart as cold as this concrete jungle.\"</i><br><br>— Make the world clamor."
+    "21013": "みんなが自分と一緒に声をあげるようと願いながら、彼女は舞台で手を振る。<br>唄であれ、叫びであれ、嘆きであれ、どんな形でも構わない。<br>声をあげて、人に聞かせてこそ、仲間が増える。<br><br><i>「心までこの町のように冷めたらダメだよ」</i><br><br>——この世界に喧噪を。"
 }
 
 var _weaponskill_ = {

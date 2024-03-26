@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "20011": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate. <br><br><i>\"Those running away from the past think no one understands their despair. When they finally take a breather, they'll find their future selves staring right at them with bloodshot eyes.\"</i>"
+    "20011": "凝縮された時間から得られる希薄な力。一瞬にも満たない刹那が、壮絶な運命を織りなす。<br><br><i>「逃亡者は過去の幻影から逃れようとする、この苦しさは誰にも分からないものである、と彼は思う。だが面を上げると、未来の自分が怖ろしい目を開いていた」</i>"
 }
 
 var _weaponskill_ = {

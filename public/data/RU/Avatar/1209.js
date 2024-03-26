@@ -502,24 +502,216 @@ var _story_ = {
 var _voice_ = {
     "1209": [
         {
-            "_id": 1,
-            "Story": "The spirited lieutenant of the Xianzhou Luofu, and also its most proficient swordsman.<br>He was born for the sword and is obsessed with it. Whenever a sword rests in Yanqing's hand, none would dare underestimate this genius still in the early days of his youth.<br>Perhaps the only thing capable of dulling his treasured blade's sharp edge is time."
+            "Title": "First Meeting",
+            "Voice": "Yanqing, lieutenant of the Luofu Cloud Knights, reporting in! If you have some free time, Trailblazer, would you mind sparring with me? Don't worry, I won't go easy on you."
         },
         {
-            "_id": 2,
-            "Story": "Youngest lieutenant in the history of the Cloud Knights. Retainer to General Jing Yuan. Collector of antique swords from the Artisanship Commission... With all these auspicious titles and street gossip swirling around this one wunderkind, it's scarcely believable that he is still a child.<br><br>Ever since he could remember, Yanqing would follow Jing Yuan around like a shadow, helping the Seat of Divine Foresight resolve problems. And Jing Yuan in return taught him the art of swordplay — and the art of war. After years of training, Yanqing's mind is as quick and sharp as the spotless sword he keeps.<br><br>Cloud Knight combat drills attest that controlling six simultaneous flying daggers is something even Cloud Knight chief drillmasters can't master in a century. The phrase agreed among the Xianzhou people to describe the combat talents of Yanqing is \"A gifted swordsman born to fight.\""
+            "Title": "Greeting",
+            "Voice": "What kind of sword training will you do today? Do you wish for me to accompany you?"
         },
         {
-            "_id": 3,
-            "Story": "It's recorded in the military annals of the Cloud Knights how Jing Yuan came to discover the young boy, stood his ground against public opinion, and incorporated him into the armed forces. However, in the family lineage column, Yanqing's lineage was relegated to the category of unknown.<br><br>Most talented officers display military talent from childhood. For millennia, several talented unicorns have emerged ahead of the pack during the hunt. However, Yanqing earned a military commission before he even reached the age of majority. Some would criticize that \"the general is absurd\" on this matter.<br><br>However, this genius' debut on the battlefield was even more explosive, and any critical voices soon fell silent.<br><br>When hunting near a distant star, the monstrously huge mechabeast Windguard created by the Denizens of Abundance was pulverizing defense forces as though they were ants. But this young boy met against it face-to-face, claiming its head and routing the enemy to the point of collapse.<br><br>As for subsequent victories: He broke the borisin's Devouring Wolf formation with Jing Yuan, beheading three Brood Lords. He also fought viciously against the wingweavers, ultimately sinking their almighty Cloudseizer Fleet... These are just a small footnote in the annals of his courageous swordplay."
+            "Title": "Parting",
+            "Voice": "The sword needs to return to its scabbard... See you tomorrow, Teacher!"
         },
         {
-            "_id": 4,
-            "Story": "If you ask Yanqing what other interests he has besides sword fighting, you'll be met with a simple answer —<br><br><i>\"Interests would only affect the speed of my sword!\"</i><br><br>Like a child infatuated with toys, he spares no expense in buying most of the blades manufactured by the Artisanship Commission — flying swords controlled by qi, daggers for close combat, flexible swords that can bend and adjust... He knows different sword's spec and function like the back of his mind. He'll even buy an extra copy — one to use in combat, and one for his collection. This leaves his finances in a sorrowful situation at the end of each month, where he could only beg the general for food and daily necessities.<br><br>It's completely natural for teenage boys to love swords, but a specific dream flickers and dances among the Xianzhou swords in his collection.<br><br>To become the best on the Luofu — no, the best across all the Xianzhou ships. To take the title of Sword Champion on the Luofu, and even take the title of Sword Preeminence across the Alliance.<br><br>Since the Sedition of Imbibitor Lunae, the title of Sword Champion among the Luofu Cloud Knights has remained vacant for centuries. Not that nobody wants to claim it, but for a rather more embarrassing reason:<br><br>The previous Sword Champion, a legendary swordmaster with 13 outstanding accolades, violated the laws of heaven and resulting in her name being wiped from the face of the cosmos. Even the prestigious title that she bore became a sore spot for others.<br><br>But for this vastly impressive teen, it's now time to turn over a new page in the annals of history and write another chapter."
+            "Title": "About Self: Opponents",
+            "Voice": "There are no more fitting opponents for me on the Luofu, but out there among the stars... there may be someone yet."
         },
         {
-            "_id": 5,
-            "Story": "<i>\"Bout #123: Yanqing, Jing Yuan.\"<br>\"General, let's call it a day! I'm exhausted...\"<br>\"Didn't you say you have the confidence to remain undefeated as long as you hold a sword? Why are you acting so weak?\"<br>\"What kind of retainer would take up arms against the person they vowed to protect? What if I accidentally hurt...\"<br>\"If your sword is half as quick as you mouth, I'd already have lost. I'll keep one hand behind my back. Now, be quick!\"<br>\"No no, two hands please! Or maybe you can consider not using the Lightning-Lord, general?\"<br>\"You think is like the Sky-Faring Commission's business, where you can barter your way out? Hmm, let me see...\"<br>\"Aha — a weakness! Watch this!\"<br>\"I knew you'd do that. Counter!\"<br>\"Ow-ow-ow, darn it! I'd been waiting for ages for my shot.\"<br>\"All's equal in war, and sneak attacks are a good idea. It's too bad your sword is so focused on the flourish and can't conceal its form. Is this what they call youthful vigor?\"<br>\"General, let's go again! This time I'll try to be as inconspicuous as possible...\"</i><br><br>Jing Yuan spent much time and energy in raising Yanqing. Some speculated that he was cultivating an heir, others claimed he only kept him around just to use this kid as a secret weapon. Jing Yuan never offered a response.<br><br>Yanqing became an unrivaled fighter aboard the Xianzhou Luofu as his skills grew more and more advanced. Jing Yuan gradually began thinking about ways to restrain Yanqing's edge, to take him down a peg without curbing his confidence.<br><br>Too solid and it can shatter. Too sharp and it can blunt. More than just a sharp edge — a sword also needs a scabbard that can restrain it. In Jing Yuan's view, Yanqing has grown up exceedingly fast — beyond expectations. What Yanqing needs right now is not more strength, but the ability and experience of curbing that strength — something that can only manifest by the passage of time."
+            "Title": "Chat: Swords from the Artisanship Commission",
+            "Voice": "I can talk all day about swords made by the Artisanship Commission. I always buy two swords per model: one for the battlefield and one for my collection... Buuut my allowances might run a bit short by the end of the month. I'm sure the general will buy me food and things if I nag him a bit..."
+        },
+        {
+            "Title": "Chat: Sword Champion",
+            "Voice": "Not having the title of Sword Champion just means my skill still needs sharpening, but the general said I don't need more skills, just more time... *sigh* How exactly am I worse than that Sword Champion..."
+        },
+        {
+            "Title": "Hobbies",
+            "Voice": "After buying a new sword, I would spend even more effort on the scabbard. Should the body be made of black pear wood, or silk? Should the locket and the carrying ring be dragon- or tiger-shaped? And the chape, the decorative plaque... It's great fun deciding on each piece!"
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "Sometimes I find multiple good sheaths for a new sword, and I end up buying them all. And yet, one sword can only use one sheath..."
+        },
+        {
+            "Title": "Something to Share",
+            "Voice": "\"What can one do after one has made history?\" I once asked the general this question, but he said he can't answer it because he never wanted to be a general, and that I should try to answer it myself. Um..."
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "Like the other Xianzhou ships, the Luofu also holds the Stellar Martial Competition to test the strength of the Cloud Knights, and whoever wins the sword competition receives the title of Sword Champion!"
+        },
+        {
+            "Title": "About Jing Yuan",
+            "Voice": "The general has no need to show his martial prowess with me around. Since he acknowledges my strength, I need to help shoulder his burdens that much more!"
+        },
+        {
+            "Title": "About Tingyun",
+            "Voice": "Tingyun would ask me to write introductory pieces for blades when her Codex on Goods contains a section on them."
+        },
+        {
+            "Title": "About Sushang",
+            "Voice": "Sushang has a good sword, but a good sword is not always an easy-to-use sword. One needs to apply ten times more power to make it perform just one-tenth better."
+        },
+        {
+            "Title": "About Yukong",
+            "Voice": "I visited the Sky-Faring Commission once and saw Madam Yukong staring alone at the leather target for a long time. She didn't fire a single arrow that day, but perhaps she did shoot thousands in her mind."
+        },
+        {
+            "Title": "About Fu Xuan",
+            "Voice": "So, Diviner Fu wants to be the general... Well, firstly, she needs to fix the issue where everyone just wants to nap as soon as she starts to talk."
+        },
+        {
+            "Title": "About Luocha",
+            "Voice": "At first, I thought he always fights using that sword casket. That thing looks really strange... I need to figure out a way to fight him and get him to use his skills for real..."
+        },
+        {
+            "Title": "About Jingliu",
+            "Voice": "I used to think there was only one way to become a true swordmaster... but General, Jingliu, and even myself... we all ended up on different paths."
+        },
+        {
+            "Title": "About Dan Heng",
+            "Voice": "When I fought Dan Heng, his spear mastery was almost perfect... but he was completely detached from it as an art. Maybe for him it's just a means to an end?"
+        },
+        {
+            "Title": "About Blade",
+            "Voice": "He can detect any swing of the sword before it lands... Would I be able to defeat him with my swordplay alone?"
+        },
+        {
+            "Title": "About Guinaifen",
+            "Voice": "I remember her... One time she was carrying a beautiful sword, so I thought I'd strike up a conversation. But then she swallowed the sword down her throat! To this day I still haven't figured out which sword-fighting style that technique is from..."
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "It feels like the stars just got brighter..."
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "How many battles lie between me and my dreams?"
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "My swordplay is ready. Time to put it to the test."
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "\"He's got a bright future.\" If I had a strale for every time I heard that one..."
+        },
+        {
+            "Title": "Added to Team With Jing Yuan",
+            "Voice": "Orders received, General."
+        },
+        {
+            "Title": "Added to Team With Fu Xuan",
+            "Voice": "What's your outlook for the coming battle, Master Diviner?"
+        },
+        {
+            "Title": "Added to Team With Sushang",
+            "Voice": "Cloud Knights assemble!"
+        },
+        {
+            "Title": "Added to Team With Dan Heng",
+            "Voice": "Is my swordplay good enough to learn from a master like him?"
+        },
+        {
+            "Title": "Added to Team With Dan Heng • Imbibitor Lunae",
+            "Voice": "Is my swordplay good enough to learn from a master like him?"
+        },
+        {
+            "Title": "Added to Team With Blade",
+            "Voice": "The general let you off the hook. Consider yourself lucky."
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "Hmph, a one-time enemy."
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "A strong adversary. Help me improve!"
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "So, how many of my moves can you block?"
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "Time for some swordplay!"
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "The sword is like water, it cannot remain still."
+        },
+        {
+            "Title": "Skill 1",
+            "Voice": "Blade, in flight."
+        },
+        {
+            "Title": "Skill 2",
+            "Voice": "Strike... with heart!"
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "How...?"
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "Impressive."
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "Practice is over."
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "Swords, descend!"
+        },
+        {
+            "Title": "Downed",
+            "Voice": "I've dishonored... the blade..."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "I won't underestimate the enemy twice."
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "I can breathe easy again."
+        },
+        {
+            "Title": "Technique",
+            "Voice": "Shift the balance."
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "Victory by the blade~"
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "This can go towards my allowance."
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "A few more like this and I can buy a new sword!"
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "No need to pester the general for a while!"
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "Cooool."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "It worked! Save the next one for me too!"
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "Let's go say hi!"
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "Wonder if I'll discover any rare swords..."
         }
     ]
 }

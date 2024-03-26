@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23017": "The girl hides behind the door and dares not move one step closer. <br>Perhaps due to the fact that tonight's objective is already within her reach, her heart is actually beating faster.<br>\"I'm not scared, not scared, not scared...\"<br>In darkness, silence lets out a piercing scream.<br><br>The girl is shivering and grasps the \"weapon\" in her hands tight, but still does not dare to approach the \"target.\"<br>\"There is nothing to be s—s—scared of!\"<br><br>The tail behind her has finally had enough and suddenly lights up.<br>\"Hurry up. You're just picking up a delivery!\""
+    "23017": "少女は門の後ろに隠れ、一歩も前に進めないまま震えている。<br>今夜のターゲットが目の前にあるせいか、彼女の心拍数は上がる一方だ。<br>「怖くない怖くない、怖くない……」<br>暗闇の中、沈黙が悲鳴を上げる。<br><br>少女は震えながら手にしている「武器」を握り締めるが、やはり「ターゲット」には一歩も近付けない。<br>「何も怖いことなんてない…うう、こ…怖いよ！」<br><br>とうとう痺れを切らしたシッポが光った。<br>「いい加減にしろ、ただ宅配便を取るだけだろうが！」"
 }
 
 var _weaponskill_ = {

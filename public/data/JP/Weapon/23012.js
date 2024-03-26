@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23012": "The boy is still tightly grasping the sword even when fast asleep against the general's shoulder.<br>The general gently taps the boy's cheek, and the boy mutters in his sleep.<br><i>\"General... I finally... won.\"</i><br><br>The general pauses. He suddenly realizes that, compared to the boy trying to improve every day,<br>he himself has endured too many years and is used to stagnation.<br><br><i>\"You will soon be better than everyone, and that will only be the beginning...\"</i>"
+    "23012": "将軍の肩で眠りについても、男の子の手は剣を握りしめて離さなかった。<br>彼は男の子の頬を軽く叩いた、すると呟きが聞こえてくる。<br><i>「将軍…ようやく…勝ったよ……」</i><br><br>彼は突然呆気にとられた、そして気付く。毎日努力して成長し続ける男の子と比べると、<br>長い歳月を生きてきた自分は、もう「不変」に慣れてしまっている。<br><br><i>「じきに、君は全ての人に勝つだろう。だが、それからが始まりだ……」</i>"
 }
 
 var _weaponskill_ = {

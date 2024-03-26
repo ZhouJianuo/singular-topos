@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23007": "She leaves the cover of the awning, opens her umbrella, and dives into an alley while humming a lighthearted tune.<br>The rain stops a little while after.<br><br>She scratches her head and swipes her screen open. After a few taps, raindrops begin to fall in an area no wider than her umbrella.<br>The pitter-patter sound of raindrops on the umbrella mixes with music from the game. All was calm and relaxing.<br><i>\"Gaming and rain totally go together.\"</i>"
+    "23007": "그녀는 처마 밑에서 우산을 쓰고 콧노래를 부르며 골목으로 들어간다.<br>얼마 지나지 않아 비가 그쳤다.<br><br>그녀는 머리를 긁적이며 화면을 닦았고, 머리 위 작은 공간에서 빗줄기가 다시 미끄러진다.<br>우산 위로 떨어지는 빗소리와 게임 소리가 들리자, 그녀는 한껏 들뜬다.<br><i>「역시 비가 오는 날에는 게임이 최고야」</i>"
 }
 
 var _weaponskill_ = {

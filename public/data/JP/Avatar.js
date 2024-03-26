@@ -2,10 +2,211 @@
 
 var _avatar = [
     {
+        "_id": 1309,
+        "Ver": "2.2v1",
+        "Name": "ロビン",
+        "Desc": "銀河で有名なピノコニー出身の天環族の歌手。優雅で落ち着いた雰囲気の少女。<br>今回はファミリーの招待を受け、故郷に戻り「調和セレモニー」で歌を披露することになった。<br>「調和」の力で歌声を届け、ファンだけでなく世界中の生命に「共感」を与えることができる。",
+        "Rarity": 5,
+        "Element": "Phys",
+        "Path": "Harmony",
+        "SP": 160.0,
+        "Skills": [
+            130901,
+            130902,
+            130903,
+            130904,
+            130906,
+            130907
+        ],
+        "Ranks": [
+            130901,
+            130902,
+            130903,
+            130904,
+            130905,
+            130906
+        ],
+        "Icon": "avatarshopicon/1309",
+        "Pic": "avatardrawcard/1309.png",
+        "Mat": [
+            114003,
+            110421,
+            110233,
+            110504
+        ],
+        "Stats": {
+            "HP": 1280.664,
+            "ATK": 640.332,
+            "DEF": 485.1,
+            "SPD": 102.0,
+            "Aggro": 100.0
+        },
+        "CV": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Camp": 0,
+        "ISN": "",
+        "ISD": ""
+    },
+    {
+        "_id": 1315,
+        "Ver": "2.2v1",
+        "Name": "ブートヒル",
+        "Desc": "宇宙を放浪するサイボーグカウボーイ。かなり楽観的で、自由奔放。<br>「巡海レンジャー」の一員で、悪を懲らしめるためなら手段を選ばない——<br>その派手な行動は、復讐の対象である「スターピースカンパニー」の注意を引くためである。",
+        "Rarity": 5,
+        "Element": "Phys",
+        "Path": "Hunt",
+        "SP": 120.0,
+        "Skills": [
+            131501,
+            131502,
+            131503,
+            131504,
+            131506,
+            131507,
+            131508
+        ],
+        "Ranks": [
+            131501,
+            131502,
+            131503,
+            131504,
+            131505,
+            131506
+        ],
+        "Icon": "avatarshopicon/1315",
+        "Pic": "avatardrawcard/1315.png",
+        "Mat": [
+            114013,
+            110421,
+            110193,
+            110505
+        ],
+        "Stats": {
+            "HP": 1203.048,
+            "ATK": 620.928,
+            "DEF": 436.59,
+            "SPD": 107.0,
+            "Aggro": 75.0
+        },
+        "CV": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Camp": 0,
+        "ISN": "",
+        "ISD": ""
+    },
+    {
+        "_id": 8005,
+        "Ver": "2.2v1",
+        "Name": "{NICKNAME}",
+        "Desc": "星穹列車に乗車した{F#少女}{M#少年}。<br>星核がもたらす危機を回避するため、星穹列車に同行することを選択した。",
+        "Rarity": 5,
+        "Element": "Imaginary",
+        "Path": "Harmony",
+        "SP": 140.0,
+        "Skills": [
+            800501,
+            800502,
+            800503,
+            800504,
+            800506,
+            800507
+        ],
+        "Ranks": [
+            800501,
+            800502,
+            800503,
+            800504,
+            800505,
+            800506
+        ],
+        "Icon": "avatarshopicon/8005",
+        "Pic": "avatardrawcard/8005.png",
+        "Mat": [
+            111013,
+            110400,
+            110233,
+            110504
+        ],
+        "Stats": {
+            "HP": 1086.624,
+            "ATK": 446.292,
+            "DEF": 679.14,
+            "SPD": 105.0,
+            "Aggro": 100.0
+        },
+        "CV": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Camp": 0,
+        "ISN": "",
+        "ISD": ""
+    },
+    {
+        "_id": 8006,
+        "Ver": "2.2v1",
+        "Name": "{NICKNAME}",
+        "Desc": "星穹列車に乗車した{F#少女}{M#少年}。<br>星核がもたらす危機を回避するため、星穹列車に同行することを選択した。",
+        "Rarity": 5,
+        "Element": "Imaginary",
+        "Path": "Harmony",
+        "SP": 140.0,
+        "Skills": [
+            800601,
+            800602,
+            800603,
+            800604,
+            800606,
+            800607
+        ],
+        "Ranks": [
+            800601,
+            800602,
+            800603,
+            800604,
+            800605,
+            800606
+        ],
+        "Icon": "avatarshopicon/8006",
+        "Pic": "avatardrawcard/8006.png",
+        "Mat": [
+            111013,
+            110400,
+            110233,
+            110504
+        ],
+        "Stats": {
+            "HP": 1086.624,
+            "ATK": 446.292,
+            "DEF": 679.14,
+            "SPD": 105.0,
+            "Aggro": 100.0
+        },
+        "CV": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Camp": 0,
+        "ISN": "",
+        "ISD": ""
+    },
+    {
         "_id": 1301,
         "Ver": "2.1v4",
-        "Name": "Gallagher",
-        "Desc": "The current head of the Bloodhound Family at Penacony. He is always courteous toward guests but keeps his vigilance about him. He seems to be a character with a complicated past, yet never actively mentions any details.",
+        "Name": "ギャラガー",
+        "Desc": "ピノコニーのハウンド家の保安官。来賓には礼儀正しく接しているが、常に警戒心を持っている。何やら複雑な過去があるようだが、自分からそれについて言及することはない。",
         "Rarity": 4,
         "Element": "Fire",
         "Path": "Abundance",
@@ -55,8 +256,8 @@ var _avatar = [
     {
         "_id": 1304,
         "Ver": "2.1v4",
-        "Name": "Aventurine",
-        "Desc": "A high-ranking executive of the IPC's Strategic Investment Department.<br>A risk-taker, his constant smile makes it difficult for people to discern his true feelings.",
+        "Name": "アベンチュリン",
+        "Desc": "スターピースカンパニー「戦略投資部」の幹部。<br>リスクを好む性格で、常に笑顔を絶やさないが、その本心を人に見せることはない。",
         "Rarity": 5,
         "Element": "Imaginary",
         "Path": "Preservation",
@@ -105,8 +306,8 @@ var _avatar = [
     {
         "_id": 1308,
         "Ver": "2.1v4",
-        "Name": "Acheron",
-        "Desc": "A drifter claiming to be a Galaxy Ranger. Her true name is unknown.<br>She walks the cosmos alone, carrying with her a long sword.",
+        "Name": "{RUBY_B#よみ}黄泉{RUBY_E#}",
+        "Desc": "「巡海レンジャー」を自称する旅人、本名は不明。<br>長い刀を携え、1人で銀河を旅している。",
         "Rarity": 5,
         "Element": "Elec",
         "Path": "Nihility",
@@ -162,8 +363,8 @@ var _avatar = [
     {
         "_id": 1306,
         "Ver": "2.0",
-        "Name": "Sparkle",
-        "Desc": "A member of the Masked Fools. Inscrutable and unscrupulous.<br>A dangerous maestro of theatrics, utterly engrossed in the art of performance. Adorned with innumerable masks, she is the hero with a thousand faces.<br>Wealth, status, power... None of those matters to Sparkle. The only thing that can get her attention is \"amusement.\"",
+        "Name": "{RUBY_B#はなび}花火{RUBY_E#}",
+        "Desc": "「仮面の愚者」の1人。つかみどころがなく、手段を選ばない人物。<br>危険な演劇のマスターで、役作りに夢中になっている。千の仮面を持ち、万の顔を演じることができる。<br>富、地位、権力…これらは花火にとって重要ではない。彼女を動かせるのは「愉しいこと」だけである。",
         "Rarity": 5,
         "Element": "Quantum",
         "Path": "Harmony",
@@ -212,8 +413,8 @@ var _avatar = [
     {
         "_id": 1307,
         "Ver": "2.0",
-        "Name": "Black Swan",
-        "Desc": "A Memokeeper of the Garden of Recollection. An indolent and mysterious soothsayer.<br>\"Remembrance\" of men are hers to heed, threads of fate are hers to tug.",
+        "Name": "ブラックスワン",
+        "Desc": "「ガーデン・オブ・リコレクション」のメモキーパーで、気だるげで謎めいた雰囲気の占い師。<br>他人の「記憶」に辛抱強く耳を傾け、その運命をすべて掌握している。",
         "Rarity": 5,
         "Element": "Wind",
         "Path": "Nihility",
@@ -262,8 +463,8 @@ var _avatar = [
     {
         "_id": 1312,
         "Ver": "2.0",
-        "Name": "Misha",
-        "Desc": "A well-behaved young man serving as a hotel bellboy in Penacony.<br>Misha has a great longing for the Nameless and dreams of one day embarking on a journey of his own.",
+        "Name": "ミーシャ",
+        "Desc": "ピノコニーのホテルのドアボーイ。行儀の良い男の子。<br>ナナシビトに憧れており、いつの日か旅に出ることを夢見ている。",
         "Rarity": 4,
         "Element": "Ice",
         "Path": "Destruction",
@@ -312,8 +513,8 @@ var _avatar = [
     {
         "_id": 1214,
         "Ver": "1.6",
-        "Name": "Xueyi",
-        "Desc": "Judge of the Ten-Lords Commission, which presides over the jurisdiction of life and death on the Luofu.<br>For years after her death, she inhabited a puppet body and returned to the world to fulfill her mission.",
+        "Name": "{RUBY_B#セツイ}雪衣{RUBY_E#}",
+        "Desc": "仙舟「羅浮」で生死を監察する機構「十王司」の判官。<br>その身が死んでから長い時が経つが、人形の体を借りて「還陽」し、使命を全うする。",
         "Rarity": 4,
         "Element": "Quantum",
         "Path": "Destruction",
@@ -362,8 +563,8 @@ var _avatar = [
     {
         "_id": 1303,
         "Ver": "1.6",
-        "Name": "Ruan Mei",
-        "Desc": "A member of the Genius Society and an expert in life sciences. She teamed up with Herta and others to develop the Simulated Universe.",
+        "Name": "ルアン・メェイ",
+        "Desc": "天才クラブのメンバー、生命科学の専門家。ヘルタたちと協力して模擬宇宙を開発した。",
         "Rarity": 5,
         "Element": "Ice",
         "Path": "Harmony",
@@ -412,8 +613,8 @@ var _avatar = [
     {
         "_id": 1305,
         "Ver": "1.6",
-        "Name": "Dr. Ratio",
-        "Desc": "Member of the Intelligentsia Guild.<br>Eccentric temperament, sharp-tongued but with an elegant demeanor.<br>The face under the strange alabaster head sculpture is apparently unexpectedly handsome.",
+        "Name": "Dr.レイシオ",
+        "Desc": "博識学会の学者。<br><br>変わった性格をしていて、毒舌だが立ち振る舞いはエレガントである。<br>奇異な石膏頭の下の容貌は意外にも美しい。",
         "Rarity": 5,
         "Element": "Imaginary",
         "Path": "Hunt",
@@ -462,8 +663,8 @@ var _avatar = [
     {
         "_id": 1215,
         "Ver": "1.5",
-        "Name": "Hanya",
-        "Desc": "One of the judges of the Xianzhou Luofu's Ten-Lords Commission.<br>Ordained by the Ten-Lords and wielding the authority of the Oracle Brush, she reads the multitudes of human sins and transgressions, then issues punishments and karmic retribution.",
+        "Name": "{RUBY_B#カンア}寒鴉{RUBY_E#}",
+        "Desc": "仙舟「羅浮」十王司の判官の一人。<br>十王の命を受け、冥兆天筆を使って様々な罪業を読み取り、判決を下す。",
         "Rarity": 4,
         "Element": "Phys",
         "Path": "Harmony",
@@ -512,8 +713,8 @@ var _avatar = [
     {
         "_id": 1217,
         "Ver": "1.5",
-        "Name": "Huohuo",
-        "Desc": "A trainee Ten-Lords Commission Judge of the Xianzhou Luofu, she is a young Foxian girl possessed by a heliobus.<br>She is a timid and weak girl who is afraid of all kinds of strange things, but is responsible for luring and subduing evil spirits.",
+        "Name": "フォフォ",
+        "Desc": "仙舟「羅浮」の十王司見習い判官。歳陽に取り憑かれた狐族の少女。<br>怪異を恐れる臆病で不憫な女の子だが、邪悪なるものを捕える責任を担っている。",
         "Rarity": 5,
         "Element": "Wind",
         "Path": "Abundance",
@@ -562,8 +763,8 @@ var _avatar = [
     {
         "_id": 1302,
         "Ver": "1.5",
-        "Name": "Argenti",
-        "Desc": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"<br>Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name.",
+        "Name": "アルジェンティ",
+        "Desc": "「純美の騎士団」の古典的な騎士。行方不明になっている「純美」の星神イドリラを敬虔に慕っていた。<br>正直で、堂々とした性格の人。宇宙を漫遊し、イドリラの名を広めている。",
         "Rarity": 5,
         "Element": "Phys",
         "Path": "Erudition",
@@ -613,8 +814,8 @@ var _avatar = [
     {
         "_id": 1112,
         "Ver": "1.4",
-        "Name": "Topaz & Numby",
-        "Desc": "Topaz is the Leader of the Special Debts Picket Team and high-level manager of the Strategic Investment Department under the Interastral Peace Corporation.<br>A member of the \"Ten Stonehearts\" at a young age, Topaz's foundational expertise is \"debt retrieval.\"<br>Her partner, the Warp Trotter \"Numby,\" is also capable of keenly perceiving where \"riches\" are located, ensuring that jobs based in security, debt collection, and actuarial varieties are of no great challenge.<br>At presently they are traveling the cosmos together, seeking all manner of liability disputes that might be affecting the stable progression of the IPC's businesses.",
+        "Name": "トパーズ&カブ",
+        "Desc": "スターピースカンパニー「戦略投資部」の高級幹部であるトパーズは、特殊債務ピケ部隊を率いている。<br>若くして「十の石心」の一員となった彼女は、「徴収の黄玉」という基石を所持している。<br>相棒の次元プーマン「カブ」は富の在処を鋭く感知することができるだけでなく、警備、債権回収、保険数理などの仕事も容易にこなせる。<br>現在、彼女たちは銀河を巡りながら、カンパニーの事業拡大に影響を及ぼす様々な債権トラブルを調査している。",
         "Rarity": 5,
         "Element": "Fire",
         "Path": "Hunt",
@@ -663,8 +864,8 @@ var _avatar = [
     {
         "_id": 1210,
         "Ver": "1.4",
-        "Name": "Guinaifen",
-        "Desc": "A performance artist visiting the Xianzhou Luofu — in other words, a street performer.<br>She's chasing a new life on the Luofu when not concerned with food and shelter.",
+        "Name": "{RUBY_B#ケイナイフン}桂乃芬{RUBY_E#}",
+        "Desc": "仙舟「羅浮」に滞在するパフォーマンスアーティスト——あるいは、大道芸人。<br>衣食住を賄うついでに、羅浮での新生活を送っている。",
         "Rarity": 4,
         "Element": "Fire",
         "Path": "Nihility",
@@ -713,8 +914,8 @@ var _avatar = [
     {
         "_id": 1212,
         "Ver": "1.4",
-        "Name": "Jingliu",
-        "Desc": "Former Sword Champion of the Luofu, and the creator of the Cloud Knights' legends of undefeated might.<br>Now, her name has been wiped from the records, and she is a traitor of the Xianzhou walking on the fine line between sanity and mara-struck.",
+        "Name": "{RUBY_B#ケイリュウ}鏡流{RUBY_E#}",
+        "Desc": "かつての羅浮の剣首、雲騎常勝の伝説を築いた者。<br>しかし今、その名は抹消され、魔陰の境を歩く仙舟の裏切り者となっている。",
         "Rarity": 5,
         "Element": "Ice",
         "Path": "Destruction",
@@ -764,8 +965,8 @@ var _avatar = [
     {
         "_id": 1110,
         "Ver": "1.3",
-        "Name": "Lynx",
-        "Desc": "A Belobogian Snow Plains Explorer, and the youngest of the Landau siblings.<br>Calm and collected, with a strong drive for action. Often embarks on solo adventures to explore the snowy wilderness.",
+        "Name": "リンクス",
+        "Desc": "ベロブルグの雪原探検家、ランドゥー家の末っ子。<br>落ち着いた性格で、極めて強い行動力の持ち主。よく単身で雪原を探険する。",
         "Rarity": 4,
         "Element": "Quantum",
         "Path": "Abundance",
@@ -814,8 +1015,8 @@ var _avatar = [
     {
         "_id": 1208,
         "Ver": "1.3",
-        "Name": "Fu Xuan",
-        "Desc": "Head of the Divination Commission on the Luofu.<br>The person who uses the third eye and Matrix of Prescience to foretell the route of Xianzhou and the outcomes of events.",
+        "Name": "{RUBY_B#フゲン}符玄{RUBY_E#}",
+        "Desc": "仙舟「羅浮」太卜司の長。<br>第三の目と窮観の陣を用いて、仙舟の航路を占い、物事の吉凶を予見する。",
         "Rarity": 5,
         "Element": "Quantum",
         "Path": "Preservation",
@@ -864,8 +1065,8 @@ var _avatar = [
     {
         "_id": 1213,
         "Ver": "1.3",
-        "Name": "Dan Heng • Imbibitor Lunae",
-        "Desc": "Dan Heng's true form from his Vidyadhara lineage carries the residual power left behind by his past incarnation, the Imbibitor Lunae.<br>Upon accepting the majestic horns atop his crown, he must accept all the merits and faults attributed to that sinner.",
+        "Name": "{RUBY_B#タンコウ}丹恒{RUBY_E#}・{RUBY_B#インゲツ}飲月{RUBY_E#}",
+        "Desc": "持明族としての丹恒の本相、その前世である「飲月君」が残した力。<br>崢嶸たる角冠を受け継いだ以上、咎人の功罪をすべて受け継がなければならない。",
         "Rarity": 5,
         "Element": "Imaginary",
         "Path": "Destruction",
@@ -918,8 +1119,8 @@ var _avatar = [
     {
         "_id": 1005,
         "Ver": "1.2",
-        "Name": "Kafka",
-        "Desc": "A member of the Stellaron Hunters. A dashing, collected, and professional beauty.<br>Used the enchantment of Spirit Whisper to set up Trailblazer to absorb the Stellaron.<br>Her hobby is shopping for and organizing her collection of coats.",
+        "Name": "カフカ",
+        "Desc": "「星核ハンター」のメンバーで、どこか余裕のある颯爽とした麗人。<br>言霊を使い、{NICKNAME}が星核を取り込むよう仕向けた。<br>趣味はコートを買ったり整理したりすること。",
         "Rarity": 5,
         "Element": "Elec",
         "Path": "Nihility",
@@ -968,8 +1169,8 @@ var _avatar = [
     {
         "_id": 1111,
         "Ver": "1.2",
-        "Name": "Luka",
-        "Desc": "The boxing champion in Belobog's Underworld, and one of Wildfire's most capable fighters.<br>The consecutive reigning champion of the Fight Club, whose enthusiasm inspires children of the Underworld to dream big.",
+        "Name": "ルカ",
+        "Desc": "ベロブルグ下層部のボクシングチャンピオン、「地炎」の中堅メンバーの一人。<br>ファイトクラブの王座保持者。その熱情で下層部の夢ある子どもたちを励ましてきた。",
         "Rarity": 4,
         "Element": "Phys",
         "Path": "Nihility",
@@ -1019,8 +1220,8 @@ var _avatar = [
     {
         "_id": 1205,
         "Ver": "1.2",
-        "Name": "Blade",
-        "Desc": "A member of the Stellaron Hunters, and a swordsman who abandoned his body to become a blade.<br>Pledges loyalty to \"Destiny's Slave,\" and possesses a terrifying self-healing ability.",
+        "Name": "{RUBY_B#ジン}刃{RUBY_E#}",
+        "Desc": "「星核ハンター」のメンバー。己が身を顧みず、刃にさらす剣客。<br>「運命の奴隷」に仕え、怖ろしい自己回復力を持つ。",
         "Rarity": 5,
         "Element": "Wind",
         "Path": "Destruction",
@@ -1070,8 +1271,8 @@ var _avatar = [
     {
         "_id": 1006,
         "Ver": "1.1",
-        "Name": "Silver Wolf",
-        "Desc": "A member of the Stellaron Hunters and a genius hacker.<br>She sees the universe as a massive immersive simulation game and has fun with it.<br>She's mastered the skill known as \"aether editing,\" which can be used to tamper with the data of reality.",
+        "Name": "{RUBY_B#ぎんろう}銀狼{RUBY_E#}",
+        "Desc": "「星核ハンター」のメンバーで、凄腕のハッカー。<br>宇宙を大きなシミュレーションゲームと見なして楽しんでいる。<br>リアルデータを修正できる「エーテル編集」を習得している。",
         "Rarity": 5,
         "Element": "Quantum",
         "Path": "Nihility",
@@ -1120,8 +1321,8 @@ var _avatar = [
     {
         "_id": 1203,
         "Ver": "1.1",
-        "Name": "Luocha",
-        "Desc": "Carrying a coffin wherever he goes, he is a foreign trader who came from beyond the stellar seas.<br>Has excellent medical skills.",
+        "Name": "{RUBY_B#ラセツ}羅刹{RUBY_E#}",
+        "Desc": "棺を肌身離さず持ち歩いている、空の彼方からやってきた殊俗の行商人。<br>優れた医療技術を持つ。",
         "Rarity": 5,
         "Element": "Imaginary",
         "Path": "Abundance",
@@ -1170,8 +1371,8 @@ var _avatar = [
     {
         "_id": 1207,
         "Ver": "1.1",
-        "Name": "Yukong",
-        "Desc": "Head of the Sky-Faring Commission on the Xianzhou Luofu. Yukong was a seasoned pilot and a deadshot.<br>Since heading up the commission, she's been buried under mountains of paperwork.",
+        "Name": "{RUBY_B#ギョクウ}御空{RUBY_E#}",
+        "Desc": "仙舟「羅浮」の天舶司のリーダー。百戦錬磨の飛行士で弓の使い手。<br>だが今は膨大な公務に追われ、忙しくしている。",
         "Rarity": 4,
         "Element": "Imaginary",
         "Path": "Harmony",
@@ -1220,8 +1421,8 @@ var _avatar = [
     {
         "_id": 1001,
         "Ver": "1.0",
-        "Name": "March 7th",
-        "Desc": "A girl who once slumbered in eternal ice and knows nothing about her past.<br>To find out the truth about her origins, she decided to travel with the Astral Express.<br>As of right now, she has prepared about 67 different versions of her life story for herself.",
+        "Name": "{RUBY_B#みつき}三月{RUBY_E#}なのか",
+        "Desc": "かつて恒氷の中で眠っていた少女。すべての記憶を失っている。<br>本当の自分を見つけるために、列車に乗って旅をすることを決めた。<br>約 67 種の「身の上話」を用意しているらしい。",
         "Rarity": 4,
         "Element": "Ice",
         "Path": "Preservation",
@@ -1270,8 +1471,8 @@ var _avatar = [
     {
         "_id": 1002,
         "Ver": "1.0",
-        "Name": "Dan Heng",
-        "Desc": "A cold and reserved young man who is reticent about his past.<br>To avoid his kin, he decided to travel with the Astral Express.",
+        "Name": "{RUBY_B#タンコウ}丹恒{RUBY_E#}",
+        "Desc": "自分の過去をひた隠しにしている、凛とした無口な青年。<br>同族を避けるため、星穹列車に同行することを決めた。",
         "Rarity": 4,
         "Element": "Wind",
         "Path": "Hunt",
@@ -1320,8 +1521,8 @@ var _avatar = [
     {
         "_id": 1003,
         "Ver": "1.0",
-        "Name": "Himeko",
-        "Desc": "The one who repaired the Astral Express.<br>To witness the vast starry sky, she decided to travel with the Astral Express.<br>Her hobby is brewing hand-made coffee.",
+        "Name": "{RUBY_B#ひめこ}姫子{RUBY_E#}",
+        "Desc": "星穹列車の修復者。<br>広い星空を見るため、星穹列車に乗ることを決めた。<br>趣味は自分で豆を挽いてコーヒーを淹れること。",
         "Rarity": 5,
         "Element": "Fire",
         "Path": "Erudition",
@@ -1370,8 +1571,8 @@ var _avatar = [
     {
         "_id": 1004,
         "Ver": "1.0",
-        "Name": "Welt",
-        "Desc": "A seasoned member of the Express Crew.<br>The passion buried in his heart burns anew as he enjoys this fresh adventure.<br>Occasionally, he would sketch the experiences in a notebook.",
+        "Name": "ヴェルト",
+        "Desc": "経験豊富で頼れる列車組の先輩。<br>久しぶりの冒険を楽しんでいるうちに、心の中の情熱が再燃した。<br>たまに冒険で経験したことを絵にしてノートにまとめている。",
         "Rarity": 5,
         "Element": "Imaginary",
         "Path": "Nihility",
@@ -1420,8 +1621,8 @@ var _avatar = [
     {
         "_id": 1008,
         "Ver": "1.0",
-        "Name": "Arlan",
-        "Desc": "The head of Herta Space Station's Security Department.<br>This quiet boy hopes to protect the researchers who value their pursuit of knowledge, and to help them to complete their work.",
+        "Name": "アーラン",
+        "Desc": "宇宙ステーション「ヘルタ」の防衛課責任者。<br>口下手だが、研究を大切にしているスタッフたちがそれぞれの研究を成し遂げられるよう、彼らを命懸けで守ろうとしている。",
         "Rarity": 4,
         "Element": "Elec",
         "Path": "Destruction",
@@ -1470,8 +1671,8 @@ var _avatar = [
     {
         "_id": 1009,
         "Ver": "1.0",
-        "Name": "Asta",
-        "Desc": "The lead researcher of Herta Space Station and a lady from a renowned family.<br>She's an astronomer overflowing with curiosity, and excels at managing the disparate staff of the space station.",
+        "Name": "アスター",
+        "Desc": "宇宙ステーション「ヘルタ」の所長を務める、名門出身のお嬢様。<br>好奇心旺盛な天文学者で、癖のある宇宙ステーションのスタッフたちをまとめるのが得意。",
         "Rarity": 4,
         "Element": "Fire",
         "Path": "Harmony",
@@ -1520,8 +1721,8 @@ var _avatar = [
     {
         "_id": 1013,
         "Ver": "1.0",
-        "Name": "Herta",
-        "Desc": "Member 83 of the Genius Society. The real master of the space station.<br>An incredibly intelligent yet unsympathetic scientist.",
+        "Name": "ヘルタ",
+        "Desc": "「天才クラブ」#83、宇宙ステーションの真の主。<br>人に勝る知恵を持つが、まったく共感力がない大科学者。",
         "Rarity": 4,
         "Element": "Ice",
         "Path": "Erudition",
@@ -1570,8 +1771,8 @@ var _avatar = [
     {
         "_id": 1101,
         "Ver": "1.0",
-        "Name": "Bronya",
-        "Desc": "Heir apparent to the Supreme Guardian of Belobog.<br>She possesses pride befitting of a princess, but also the determination and integrity of a soldier.",
+        "Name": "ブローニャ",
+        "Desc": "ベロブルグの「大守護者」の継承者。<br>姫としての高貴さと、軍人としての堅実さを兼ね備えている。",
         "Rarity": 5,
         "Element": "Wind",
         "Path": "Harmony",
@@ -1620,8 +1821,8 @@ var _avatar = [
     {
         "_id": 1102,
         "Ver": "1.0",
-        "Name": "Seele",
-        "Desc": "A resident of the Underworld and the backbone of Wildfire. She goes by the alias \"Babochka.\"<br>She has a frank personality, but there is a delicate and sensitive hidden side to her deep in her heart.",
+        "Name": "ゼーレ",
+        "Desc": "地下反抗組織「地炎」の中堅、通称「バーブチカ」。<br>さっぱりした性格だが、繊細で敏感な一面もある。",
         "Rarity": 5,
         "Element": "Quantum",
         "Path": "Hunt",
@@ -1670,8 +1871,8 @@ var _avatar = [
     {
         "_id": 1103,
         "Ver": "1.0",
-        "Name": "Serval",
-        "Desc": "A Belobog mechanic who used to be a researcher for the Technology Division of the Architects.<br>As Gepard Landau's elder sister, her personality stands in stark contrast to her brother's.<br>She loves an ancient form of music known as \"rock 'n' roll\" that was popular before the Eternal Freeze.",
+        "Name": "セーバル",
+        "Desc": "ベロブルグの機械工、前職は建創者の技術部門の研究員。<br>ジェパード・ランドゥーの姉だが、弟とはまったく異なる性格をしている。<br>大寒波が訪れる前に存在した「ロック」という古典音楽を熱愛している。",
         "Rarity": 4,
         "Element": "Elec",
         "Path": "Erudition",
@@ -1720,8 +1921,8 @@ var _avatar = [
     {
         "_id": 1104,
         "Ver": "1.0",
-        "Name": "Gepard",
-        "Desc": "A captain in the Silvermane Guards and an outstanding warrior of Belobog.<br>He is meticulous and vigilant to the core and is always true to himself.",
+        "Name": "ジェパード",
+        "Desc": "シルバーメインの戍衛官、ベロブルグで指折りの戦士。<br>裏表がなく、几帳面で、仕事を怠けたことがない。",
         "Rarity": 5,
         "Element": "Ice",
         "Path": "Preservation",
@@ -1770,8 +1971,8 @@ var _avatar = [
     {
         "_id": 1105,
         "Ver": "1.0",
-        "Name": "Natasha",
-        "Desc": "A doctor from the Underworld and a caregiver of children.<br>Alongside her kindness and caring, she also has a hidden dangerous side.",
+        "Name": "ナターシャ",
+        "Desc": "べロブルグ下層部の医者、子供たちの面倒を見ている。<br>穏やかで親しみやすい性格だが、怖い一面もある。",
         "Rarity": 4,
         "Element": "Phys",
         "Path": "Abundance",
@@ -1820,8 +2021,8 @@ var _avatar = [
     {
         "_id": 1106,
         "Ver": "1.0",
-        "Name": "Pela",
-        "Desc": "An intelligence officer for the Silvermane Guards.<br>She has a serious personality and is revered by other members of the Silvermane Guards.",
+        "Name": "ペラ",
+        "Desc": "シルバーメインの情報官。<br>真面目な性格で、シルバーメインのメンバーたちから尊敬されている。",
         "Rarity": 4,
         "Element": "Ice",
         "Path": "Nihility",
@@ -1870,8 +2071,8 @@ var _avatar = [
     {
         "_id": 1107,
         "Ver": "1.0",
-        "Name": "Clara",
-        "Desc": "A vagrant girl who lives with robots.<br>She is introverted, gentle, and has a pure heart.<br>She wishes for all Underworlders to become a family.",
+        "Name": "クラーラ",
+        "Desc": "機械と一緒に暮らしている流浪の少女。<br>内向的で優しく、純粋な心を持っている。<br>下層部の人々が互いの「家族」になることを願っている。",
         "Rarity": 5,
         "Element": "Phys",
         "Path": "Destruction",
@@ -1920,8 +2121,8 @@ var _avatar = [
     {
         "_id": 1108,
         "Ver": "1.0",
-        "Name": "Sampo",
-        "Desc": "A merchant who freely travels between the Overworld and the Underworld.<br>He acts like he is everyone's friend, is enthusiastically humorous, and is good at bantering.",
+        "Name": "サンポ",
+        "Desc": "地上と地下を行き来する商人。<br>馴れ馴れしく、情熱的でユーモアがあり、いつも道化を演じている。",
         "Rarity": 4,
         "Element": "Wind",
         "Path": "Nihility",
@@ -1970,8 +2171,8 @@ var _avatar = [
     {
         "_id": 1109,
         "Ver": "1.0",
-        "Name": "Hook",
-        "Desc": "Boss (self-proclaimed) of an Underworld adventure squad, The Moles.<br>She loves freedom and sees life as a series of adventures.",
+        "Name": "フック",
+        "Desc": "地下冒険団「モグラ党」の親分（自称）。<br>自由を愛する彼女は、日々の生活を冒険の一幕だと考えている。",
         "Rarity": 4,
         "Element": "Fire",
         "Path": "Destruction",
@@ -2021,8 +2222,8 @@ var _avatar = [
     {
         "_id": 1201,
         "Ver": "1.0",
-        "Name": "Qingque",
-        "Desc": "Diviner of the Divination Commission on the Xianzhou Luofu, and a librarian.<br>Always slacks off and is about to be demoted to a \"door guardian.\"",
+        "Name": "{RUBY_B#セイジャク}青雀{RUBY_E#}",
+        "Desc": "仙舟「羅浮」の太卜司の卜者、兼書庫の管理員。<br>普段から仕事をサボっているため、これ以上降格の余地がなく、じきに「門番」になる予定。",
         "Rarity": 4,
         "Element": "Quantum",
         "Path": "Erudition",
@@ -2072,8 +2273,8 @@ var _avatar = [
     {
         "_id": 1202,
         "Ver": "1.0",
-        "Name": "Tingyun",
-        "Desc": "Amicassador of the Sky-Faring Commission of the Xianzhou Luofu.<br>She travels with business delegates, forging trade relationships and alliances with many worlds.",
+        "Name": "{RUBY_B#テイウン}停雲{RUBY_E#}",
+        "Desc": "仙舟「羅浮」の天舶司の接渡使。<br>商団と共に多くの世界に足を運び、貿易関係や同盟を結んでいる。",
         "Rarity": 4,
         "Element": "Elec",
         "Path": "Harmony",
@@ -2122,8 +2323,8 @@ var _avatar = [
     {
         "_id": 1204,
         "Ver": "1.0",
-        "Name": "Jing Yuan",
-        "Desc": "The Divine Foresight, one of the Seven Arbiter-Generals of the Xianzhou Alliance, leads the Cloud Knights of the Xianzhou Luofu.<br>A student of the Luofu's previous Sword Champion, though not known for his martial prowess.",
+        "Name": "{RUBY_B#ケイゲン}景元{RUBY_E#}",
+        "Desc": "仙舟同盟帝弓七天将の1人。仙舟「羅浮」の雲騎軍を率いる「神策将軍」。<br>先代の「羅浮」剣首に師事していたが、武力で名をはせてはいない。",
         "Rarity": 5,
         "Element": "Elec",
         "Path": "Erudition",
@@ -2172,8 +2373,8 @@ var _avatar = [
     {
         "_id": 1206,
         "Ver": "1.0",
-        "Name": "Sushang",
-        "Desc": "Born on the Xianzhou Yaoqing, sent to the Cloud Knights of the Luofu for military training.<br>She wields her family sword, a gift from her mother, and longs for the future she will go on to write.",
+        "Name": "{RUBY_B#スショウ}素裳{RUBY_E#}",
+        "Desc": "仙舟「曜青」で生まれ、「羅浮」の雲騎軍で訓練を受けている新兵。<br>彼女は母から贈られた家伝の剣を手に、これから訪れる未来に期待を膨らませている。",
         "Rarity": 4,
         "Element": "Phys",
         "Path": "Hunt",
@@ -2222,8 +2423,8 @@ var _avatar = [
     {
         "_id": 1209,
         "Ver": "1.0",
-        "Name": "Yanqing",
-        "Desc": "General Jing Yuan's retainer. A gifted swordsman who hasn't even come of age.<br>No one can best Yanqing when he holds a sword in hand.",
+        "Name": "{RUBY_B#ゲンキョウ}彦卿{RUBY_E#}",
+        "Desc": "将軍景元の護衛であり、まだ総角の歳に過ぎない剣の天才。<br>剣を手にすれば無敵である。",
         "Rarity": 5,
         "Element": "Ice",
         "Path": "Hunt",
@@ -2272,8 +2473,8 @@ var _avatar = [
     {
         "_id": 1211,
         "Ver": "1.0",
-        "Name": "Bailu",
-        "Desc": "The High Elder of the Vidyadhara, who is also known as the \"Healer Lady\" on the Luofu.<br>She uses her unique medical science and the medical treatment that can only be provided by the Vidyadhara dragon race to save lives.",
+        "Name": "{RUBY_B#ビャクロ}白露{RUBY_E#}",
+        "Desc": "仙舟「羅浮」の持明族の尊長、「啣薬の龍女」と称される医士。<br>彼女は独自の医療知識と、龍脈を持つ者にしか行えない「医療手段」で人々の傷や病を治している。",
         "Rarity": 5,
         "Element": "Elec",
         "Path": "Abundance",
@@ -2322,8 +2523,8 @@ var _avatar = [
     {
         "_id": 8001,
         "Ver": "1.0",
-        "Name": "Trailblazer",
-        "Desc": "A {F#girl}{M#boy} who boarded the Astral Express.<br>They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.",
+        "Name": "{NICKNAME}",
+        "Desc": "星穹列車に乗車した{F#少女}{M#少年}。<br>星核がもたらす危機を回避するため、星穹列車に同行することを選択した。",
         "Rarity": 5,
         "Element": "Phys",
         "Path": "Destruction",
@@ -2374,8 +2575,8 @@ var _avatar = [
     {
         "_id": 8002,
         "Ver": "1.0",
-        "Name": "Trailblazer",
-        "Desc": "A {F#girl}{M#boy} who boarded the Astral Express.<br>They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.",
+        "Name": "{NICKNAME}",
+        "Desc": "星穹列車に乗車した{F#少女}{M#少年}。<br>星核がもたらす危機を回避するため、星穹列車に同行することを選択した。",
         "Rarity": 5,
         "Element": "Phys",
         "Path": "Destruction",
@@ -2426,8 +2627,8 @@ var _avatar = [
     {
         "_id": 8003,
         "Ver": "1.0",
-        "Name": "Trailblazer",
-        "Desc": "A {F#girl}{M#boy} who boarded the Astral Express.<br>They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.",
+        "Name": "{NICKNAME}",
+        "Desc": "星穹列車に乗車した{F#少女}{M#少年}。<br>星核がもたらす危機を回避するため、星穹列車に同行することを選択した。",
         "Rarity": 5,
         "Element": "Fire",
         "Path": "Preservation",
@@ -2477,8 +2678,8 @@ var _avatar = [
     {
         "_id": 8004,
         "Ver": "1.0",
-        "Name": "Trailblazer",
-        "Desc": "A {F#girl}{M#boy} who boarded the Astral Express.<br>They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.",
+        "Name": "{NICKNAME}",
+        "Desc": "星穹列車に乗車した{F#少女}{M#少年}。<br>星核がもたらす危機を回避するため、星穹列車に同行することを選択した。",
         "Rarity": 5,
         "Element": "Fire",
         "Path": "Preservation",
@@ -2528,333 +2729,357 @@ var _avatar = [
 ]
 
 var _item = {
+    "1": {
+        "Name": "星玉",
+        "Icon": "itemicon/900001.png"
+    },
     "110111": {
-        "Name": "Shattered Blade",
+        "Name": "破砕の刃切",
         "Icon": "itemicon/110111.png"
     },
     "110112": {
-        "Name": "Lifeless Blade",
+        "Name": "無生の刃切",
         "Icon": "itemicon/110112.png"
     },
     "110113": {
-        "Name": "Worldbreaker Blade",
+        "Name": "浄世の刃切",
         "Icon": "itemicon/110113.png"
     },
     "110121": {
-        "Name": "Arrow of the Beast Hunter",
+        "Name": "狩獣の矢",
         "Icon": "itemicon/110121.png"
     },
     "110122": {
-        "Name": "Arrow of the Demon Slayer",
+        "Name": "屠魔の矢",
         "Icon": "itemicon/110122.png"
     },
     "110123": {
-        "Name": "Arrow of the Starchaser",
+        "Name": "逐星の矢",
         "Icon": "itemicon/110123.png"
     },
     "110131": {
-        "Name": "Key of Inspiration",
+        "Name": "着想のカギ",
         "Icon": "itemicon/110131.png"
     },
     "110132": {
-        "Name": "Key of Knowledge",
+        "Name": "啓発のカギ",
         "Icon": "itemicon/110132.png"
     },
     "110133": {
-        "Name": "Key of Wisdom",
+        "Name": "叡智のカギ",
         "Icon": "itemicon/110133.png"
     },
     "110141": {
-        "Name": "Endurance of Bronze",
+        "Name": "青銅の執着",
         "Icon": "itemicon/110141.png"
     },
     "110142": {
-        "Name": "Oath of Steel",
+        "Name": "寒鉄の誓い",
         "Icon": "itemicon/110142.png"
     },
     "110143": {
-        "Name": "Safeguard of Amber",
+        "Name": "琥珀の堅守",
         "Icon": "itemicon/110143.png"
     },
     "110151": {
-        "Name": "Obsidian of Dread",
+        "Name": "黯淡な黒曜",
         "Icon": "itemicon/110151.png"
     },
     "110152": {
-        "Name": "Obsidian of Desolation",
+        "Name": "虚空の黒曜",
         "Icon": "itemicon/110152.png"
     },
     "110153": {
-        "Name": "Obsidian of Obsession",
+        "Name": "沈淪せし黒曜",
         "Icon": "itemicon/110153.png"
     },
     "110161": {
-        "Name": "Harmonic Tune",
+        "Name": "調和のハーモニー",
         "Icon": "itemicon/110161.png"
     },
     "110162": {
-        "Name": "Ancestral Hymn",
+        "Name": "ファミリー賛歌",
         "Icon": "itemicon/110162.png"
     },
     "110163": {
-        "Name": "Stellaris Symphony",
+        "Name": "群星の楽章",
         "Icon": "itemicon/110163.png"
     },
     "110171": {
-        "Name": "Seed of Abundance",
+        "Name": "豊穣の種",
         "Icon": "itemicon/110171.png"
     },
     "110172": {
-        "Name": "Sprout of Life",
+        "Name": "生命の芽",
         "Icon": "itemicon/110172.png"
     },
     "110173": {
-        "Name": "Flower of Eternity",
+        "Name": "永久の花",
         "Icon": "itemicon/110173.png"
     },
     "110181": {
-        "Name": "Borisin Teeth",
+        "Name": "歩離の犬牙",
         "Icon": "itemicon/110181.png"
     },
     "110182": {
-        "Name": "Lupitoxin Sawteeth",
+        "Name": "狼毒の牙",
         "Icon": "itemicon/110182.png"
     },
     "110183": {
-        "Name": "Moon Madness Fang",
+        "Name": "月狂いの凶牙",
         "Icon": "itemicon/110183.png"
     },
+    "110191": {
+        "Name": "隕鉄の弾丸",
+        "Icon": "itemicon/110191.png"
+    },
+    "110192": {
+        "Name": "定められた死因",
+        "Icon": "itemicon/110192.png"
+    },
+    "110193": {
+        "Name": "時に逆らう一撃",
+        "Icon": "itemicon/110193.png"
+    },
     "110211": {
-        "Name": "Scattered Stardust",
+        "Name": "散らばった星の砂",
         "Icon": "itemicon/110211.png"
     },
     "110212": {
-        "Name": "Crystal Meteorites",
+        "Name": "流星プリズム",
         "Icon": "itemicon/110212.png"
     },
     "110213": {
-        "Name": "Divine Amber",
+        "Name": "聖なる琥珀",
         "Icon": "itemicon/110213.png"
     },
     "110221": {
-        "Name": "Fiery Spirit",
+        "Name": "熾烈の霊",
         "Icon": "itemicon/110221.png"
     },
     "110222": {
-        "Name": "Starfire Essence",
+        "Name": "星火の精",
         "Icon": "itemicon/110222.png"
     },
     "110223": {
-        "Name": "Heaven Incinerator",
+        "Name": "焼天の魔",
         "Icon": "itemicon/110223.png"
     },
     "110231": {
-        "Name": "Firmament Note",
+        "Name": "雲端の音符",
         "Icon": "itemicon/110231.png"
     },
     "110232": {
-        "Name": "Celestial Section",
+        "Name": "空際の小節",
         "Icon": "itemicon/110232.png"
     },
     "110233": {
-        "Name": "Heavenly Melody",
+        "Name": "天外の楽章",
         "Icon": "itemicon/110233.png"
     },
     "110241": {
-        "Name": "Alien Tree Seed",
+        "Name": "珍木の種",
         "Icon": "itemicon/110241.png"
     },
     "110242": {
-        "Name": "Nourishing Honey",
+        "Name": "育みの蜜",
         "Icon": "itemicon/110242.png"
     },
     "110243": {
-        "Name": "Myriad Fruit",
+        "Name": "森羅の果実",
         "Icon": "itemicon/110243.png"
     },
     "110400": {
-        "Name": "Enigmatic Ectostella",
+        "Name": "深邃な星外物質",
         "Icon": "itemicon/110400.png"
     },
     "110401": {
-        "Name": "Broken Teeth of Iron Wolf",
+        "Name": "鉄狼の砕けた刃",
         "Icon": "itemicon/110401.png"
     },
     "110402": {
-        "Name": "Endotherm Chitin",
+        "Name": "恒温晶殻",
         "Icon": "itemicon/110402.png"
     },
     "110403": {
-        "Name": "Horn of Snow",
+        "Name": "吹雪の角",
         "Icon": "itemicon/110403.png"
     },
     "110404": {
-        "Name": "Lightning Crown of the Past Shadow",
+        "Name": "過去の影の雷冠",
         "Icon": "itemicon/110404.png"
     },
     "110405": {
-        "Name": "Storm Eye",
+        "Name": "暴風の眼",
         "Icon": "itemicon/110405.png"
     },
     "110406": {
-        "Name": "Void Cast Iron",
+        "Name": "虚幻鋳鉄",
         "Icon": "itemicon/110406.png"
     },
     "110407": {
-        "Name": "Golden Crown of the Past Shadow",
+        "Name": "過去の影の金装飾",
         "Icon": "itemicon/110407.png"
     },
     "110411": {
-        "Name": "Netherworld Token",
+        "Name": "幽府通令",
         "Icon": "itemicon/110411.png"
     },
     "110412": {
-        "Name": "Searing Steel Blade",
+        "Name": "灼熱の鋼刃",
         "Icon": "itemicon/110412.png"
     },
     "110413": {
-        "Name": "Gelid Chitin",
+        "Name": "苦寒晶殻",
         "Icon": "itemicon/110413.png"
     },
     "110414": {
-        "Name": "Shape Shifter's Lightning Staff",
+        "Name": "鍛錬者の雷枝",
         "Icon": "itemicon/110414.png"
     },
     "110415": {
-        "Name": "Ascendant Debris",
+        "Name": "天人の残穢",
         "Icon": "itemicon/110415.png"
     },
     "110416": {
-        "Name": "Nail of the Ape",
+        "Name": "蒼猿の釘",
         "Icon": "itemicon/110416.png"
     },
     "110417": {
-        "Name": "Suppressing Edict",
+        "Name": "霊鎮めの勅符",
         "Icon": "itemicon/110417.png"
     },
     "114002": {
-        "Name": "Dream Flow Valve",
+        "Name": "ドリームフローバルブ",
         "Icon": "itemicon/114002.png"
     },
     "114003": {
-        "Name": "Dream Making Engine",
+        "Name": "ドリームメイキングモーター",
         "Icon": "itemicon/114003.png"
     },
     "114001": {
-        "Name": "Dream Collection Component",
+        "Name": "ドリームコレクションパーツ",
         "Icon": "itemicon/114001.png"
     },
+    "110421": {
+        "Name": "スターピース社員証",
+        "Icon": "itemicon/110421.png"
+    },
     "110422": {
-        "Name": "Raging Heart",
+        "Name": "憤怒の心",
         "Icon": "itemicon/110422.png"
     },
     "110423": {
-        "Name": "Dream Fridge",
+        "Name": "夢の冷蔵庫",
         "Icon": "itemicon/110423.png"
     },
     "110426": {
-        "Name": "Dream Flamer",
+        "Name": "夢を炙るトーチバーナー",
         "Icon": "itemicon/110426.png"
     },
     "114011": {
-        "Name": "Tatters of Thought",
+        "Name": "思考の粉末",
         "Icon": "itemicon/114011.png"
     },
     "114012": {
-        "Name": "Fragments of Impression",
+        "Name": "印象の残晶",
         "Icon": "itemicon/114012.png"
     },
     "114013": {
-        "Name": "Shards of Desires",
+        "Name": "砕けた欲望の鏡",
         "Icon": "itemicon/114013.png"
     },
     "113001": {
-        "Name": "Immortal Scionette",
+        "Name": "永寿の萌芽",
         "Icon": "itemicon/113001.png"
     },
     "113002": {
-        "Name": "Immortal Aeroblossom",
+        "Name": "永寿の天華",
         "Icon": "itemicon/113002.png"
     },
     "113003": {
-        "Name": "Immortal Lumintwig",
+        "Name": "永寿の栄枝",
         "Icon": "itemicon/113003.png"
     },
     "113011": {
-        "Name": "Artifex's Module",
+        "Name": "工造機関",
         "Icon": "itemicon/113011.png"
     },
     "113012": {
-        "Name": "Artifex's Cogwheel",
+        "Name": "工造迴輪",
         "Icon": "itemicon/113012.png"
     },
     "113013": {
-        "Name": "Artifex's Gyreheart",
+        "Name": "工造渾心",
         "Icon": "itemicon/113013.png"
     },
     "112001": {
-        "Name": "Silvermane Badge",
+        "Name": "シルバーメインの釦",
         "Icon": "itemicon/112001.png"
     },
     "112002": {
-        "Name": "Silvermane Insignia",
+        "Name": "シルバーメインの記章",
         "Icon": "itemicon/112002.png"
     },
     "112003": {
-        "Name": "Silvermane Medal",
+        "Name": "シルバーメインの勲章",
         "Icon": "itemicon/112003.png"
     },
     "112011": {
-        "Name": "Ancient Part",
+        "Name": "古代パーツ",
         "Icon": "itemicon/112011.png"
     },
     "112012": {
-        "Name": "Ancient Spindle",
+        "Name": "古代シャフト",
         "Icon": "itemicon/112012.png"
     },
     "112013": {
-        "Name": "Ancient Engine",
+        "Name": "古代エンジン",
         "Icon": "itemicon/112013.png"
     },
     "111001": {
-        "Name": "Extinguished Core",
+        "Name": "消滅した原核",
         "Icon": "itemicon/111001.png"
     },
     "111002": {
-        "Name": "Glimmering Core",
+        "Name": "微かに光る原核",
         "Icon": "itemicon/111002.png"
     },
     "111003": {
-        "Name": "Squirming Core",
+        "Name": "脈動する原核",
         "Icon": "itemicon/111003.png"
     },
     "111011": {
-        "Name": "Thief's Instinct",
+        "Name": "略奪の本能",
         "Icon": "itemicon/111011.png"
     },
     "111012": {
-        "Name": "Usurper's Scheme",
+        "Name": "改ざんの野心",
         "Icon": "itemicon/111012.png"
     },
     "110501": {
-        "Name": "Destroyer's Final Road",
+        "Name": "壊滅者の末路",
         "Icon": "itemicon/110501.png"
     },
     "111013": {
-        "Name": "Conqueror's Will",
+        "Name": "踏みにじる意志",
         "Icon": "itemicon/111013.png"
     },
     "110503": {
-        "Name": "Regret of Infinite Ochema",
+        "Name": "無窮なる仮身の遺恨",
         "Icon": "itemicon/110503.png"
     },
     "110502": {
-        "Name": "Guardian's Lament",
+        "Name": "守護者の悲願",
         "Icon": "itemicon/110502.png"
     },
     "110504": {
-        "Name": "Past Evils of the Borehole Planet Disaster",
+        "Name": "星を蝕む古の悪",
         "Icon": "itemicon/110504.png"
+    },
+    "110505": {
+        "Name": "ボス素材",
+        "Icon": "itemicon/110505.png"
     }
 }
 
@@ -2878,476 +3103,496 @@ var _propiconname = {
 }
 
 var _propname = {
-    "IceAddedRatio": "DMG Boost: Ice",
-    "DefenceAddedRatio": "DEF Boost",
-    "StatusResistanceBase": "Effect RES Boost",
-    "WindAddedRatio": "DMG Boost: Wind",
-    "AttackAddedRatio": "ATK Boost",
-    "FireAddedRatio": "DMG Boost: Fire",
-    "ImaginaryAddedRatio": "DMG Boost: Imaginary",
-    "StatusProbabilityBase": "Effect Hit Rate Boost",
-    "HPAddedRatio": "HP Boost",
-    "QuantumAddedRatio": "DMG Boost: Quantum",
-    "CriticalChanceBase": "CRIT Rate Boost",
-    "CriticalDamageBase": "CRIT DMG Boost",
-    "PhysicalAddedRatio": "DMG Boost: Physical",
-    "ThunderAddedRatio": "DMG Boost: Lightning",
-    "BreakDamageAddedRatioBase": "Break Enhance",
-    "SpeedDelta": "SPD Boost"
+    "IceAddedRatio": "ダメージ強化・氷",
+    "DefenceAddedRatio": "防御強化",
+    "StatusResistanceBase": "効果抵抗強化",
+    "WindAddedRatio": "ダメージ強化・風",
+    "AttackAddedRatio": "攻撃強化",
+    "FireAddedRatio": "ダメージ強化・炎",
+    "ImaginaryAddedRatio": "ダメージ強化・虚数",
+    "StatusProbabilityBase": "効果命中強化",
+    "HPAddedRatio": "HP強化",
+    "QuantumAddedRatio": "ダメージ強化・量子",
+    "CriticalChanceBase": "会心率強化",
+    "CriticalDamageBase": "会心ダメージ強化",
+    "PhysicalAddedRatio": "ダメージ強化・物理",
+    "ThunderAddedRatio": "ダメージ強化・雷",
+    "BreakDamageAddedRatioBase": "撃破強化",
+    "SpeedDelta": "速度強化"
 }
 
 var _camp = {
-    "100": "Astral Express",
-    "101": "Stellaron Hunters",
-    "102": "Herta Space Station",
-    "103": "Belobog",
-    "104": "The Xianzhou Luofu",
-    "105": "Interastral Peace Corporation",
-    "106": "The Knights of Beauty",
-    "107": "Intelligentsia Guild",
-    "108": "Penacony",
-    "109": "Garden of Recollection",
-    "110": "Masked Fools",
-    "111": "Galaxy Ranger",
-    "112": "Self-Annihilator"
+    "100": "星穹列車",
+    "101": "星核ハンター",
+    "102": "宇宙ステーション「ヘルタ」",
+    "103": "ベロブルグ",
+    "104": "仙舟「羅浮」",
+    "105": "スターピースカンパニー",
+    "106": "純美の騎士団",
+    "107": "博識学会",
+    "108": "ピノコニー",
+    "109": "ガーデン・オブ・リコレクション",
+    "110": "仮面の愚者",
+    "111": "巡海レンジャー",
+    "112": "自滅者"
 }
 
 var _search_avatar = {
-    "1301": 0,
-    "加拉赫": 0,
-    "GALLAGHER": 0,
-    "1304": 1,
-    "砂金": 1,
-    "AVENTURINE": 1,
-    "1308": 2,
-    "黄泉": 2,
-    "ACHERON": 2,
-    "1306": 3,
-    "花火": 3,
-    "SPARKLE": 3,
-    "1307": 4,
-    "黑天鹅": 4,
-    "BLACKSWAN": 4,
-    "1312": 5,
-    "米沙": 5,
-    "MISHA": 5,
-    "1214": 6,
-    "雪衣": 6,
-    "XUEYI": 6,
-    "1303": 7,
-    "阮·梅": 7,
-    "RUANMEI": 7,
-    "1305": 8,
-    "真理医生": 8,
-    "DR.RATIO": 8,
-    "1215": 9,
-    "寒鸦": 9,
-    "HANYA": 9,
-    "1217": 10,
-    "藿藿": 10,
-    "HUOHUO": 10,
-    "1302": 11,
-    "银枝": 11,
-    "ARGENTI": 11,
-    "1112": 12,
-    "托帕&账账": 12,
-    "TOPAZ&NUMBY": 12,
-    "1210": 13,
-    "桂乃芬": 13,
-    "GUINAIFEN": 13,
-    "1212": 14,
-    "镜流": 14,
-    "JINGLIU": 14,
-    "1110": 15,
-    "玲可": 15,
-    "LYNX": 15,
-    "1208": 16,
-    "符玄": 16,
-    "FUXUAN": 16,
-    "1213": 17,
-    "丹恒·饮月": 17,
-    "DANHENG•IMBIBITORLUNAE": 17,
-    "1005": 18,
-    "卡芙卡": 18,
-    "KAFKA": 18,
-    "1111": 19,
-    "卢卡": 19,
-    "LUKA": 19,
-    "1205": 20,
-    "刃": 20,
-    "BLADE": 20,
-    "1006": 21,
-    "银狼": 21,
-    "SILVERWOLF": 21,
-    "1203": 22,
-    "罗刹": 22,
-    "LUOCHA": 22,
-    "1207": 23,
-    "驭空": 23,
-    "YUKONG": 23,
-    "1001": 24,
-    "三月七": 24,
-    "MARCH7TH": 24,
-    "1002": 25,
-    "丹恒": 25,
-    "DANHENG": 25,
-    "1003": 26,
-    "姬子": 26,
-    "HIMEKO": 26,
-    "1004": 27,
-    "瓦尔特": 27,
-    "WELT": 27,
-    "1008": 28,
-    "阿兰": 28,
-    "ARLAN": 28,
-    "1009": 29,
-    "艾丝妲": 29,
-    "ASTA": 29,
-    "1013": 30,
-    "黑塔": 30,
-    "HERTA": 30,
-    "1101": 31,
-    "布洛妮娅": 31,
-    "BRONYA": 31,
-    "1102": 32,
-    "希儿": 32,
-    "SEELE": 32,
-    "1103": 33,
-    "希露瓦": 33,
-    "SERVAL": 33,
-    "1104": 34,
-    "杰帕德": 34,
-    "GEPARD": 34,
-    "1105": 35,
-    "娜塔莎": 35,
-    "NATASHA": 35,
-    "1106": 36,
-    "佩拉": 36,
-    "PELA": 36,
-    "1107": 37,
-    "克拉拉": 37,
-    "CLARA": 37,
-    "1108": 38,
-    "桑博": 38,
-    "SAMPO": 38,
-    "1109": 39,
-    "虎克": 39,
-    "HOOK": 39,
-    "1201": 40,
-    "青雀": 40,
-    "QINGQUE": 40,
-    "1202": 41,
-    "停云": 41,
-    "TINGYUN": 41,
-    "1204": 42,
-    "景元": 42,
-    "JINGYUAN": 42,
-    "1206": 43,
-    "素裳": 43,
-    "SUSHANG": 43,
-    "1209": 44,
-    "彦卿": 44,
-    "YANQING": 44,
-    "1211": 45,
-    "白露": 45,
-    "BAILU": 45,
-    "8001": 46,
-    "开拓者": 49,
-    "TRAILBLAZER": 49,
-    "8002": 47,
-    "8003": 48,
-    "8004": 49
+    "1309": 0,
+    "知更鸟": 0,
+    "ROBIN": 0,
+    "1315": 1,
+    "波提欧": 1,
+    "BOOTHILL": 1,
+    "8005": 2,
+    "开拓者": 53,
+    "TRAILBLAZER": 53,
+    "8006": 3,
+    "1301": 4,
+    "加拉赫": 4,
+    "GALLAGHER": 4,
+    "1304": 5,
+    "砂金": 5,
+    "AVENTURINE": 5,
+    "1308": 6,
+    "黄泉": 6,
+    "ACHERON": 6,
+    "1306": 7,
+    "花火": 7,
+    "SPARKLE": 7,
+    "1307": 8,
+    "黑天鹅": 8,
+    "BLACKSWAN": 8,
+    "1312": 9,
+    "米沙": 9,
+    "MISHA": 9,
+    "1214": 10,
+    "雪衣": 10,
+    "XUEYI": 10,
+    "1303": 11,
+    "阮·梅": 11,
+    "RUANMEI": 11,
+    "1305": 12,
+    "真理医生": 12,
+    "DR.RATIO": 12,
+    "1215": 13,
+    "寒鸦": 13,
+    "HANYA": 13,
+    "1217": 14,
+    "藿藿": 14,
+    "HUOHUO": 14,
+    "1302": 15,
+    "银枝": 15,
+    "ARGENTI": 15,
+    "1112": 16,
+    "托帕&账账": 16,
+    "TOPAZ&NUMBY": 16,
+    "1210": 17,
+    "桂乃芬": 17,
+    "GUINAIFEN": 17,
+    "1212": 18,
+    "镜流": 18,
+    "JINGLIU": 18,
+    "1110": 19,
+    "玲可": 19,
+    "LYNX": 19,
+    "1208": 20,
+    "符玄": 20,
+    "FUXUAN": 20,
+    "1213": 21,
+    "丹恒·饮月": 21,
+    "DANHENG•IMBIBITORLUNAE": 21,
+    "1005": 22,
+    "卡芙卡": 22,
+    "KAFKA": 22,
+    "1111": 23,
+    "卢卡": 23,
+    "LUKA": 23,
+    "1205": 24,
+    "刃": 24,
+    "BLADE": 24,
+    "1006": 25,
+    "银狼": 25,
+    "SILVERWOLF": 25,
+    "1203": 26,
+    "罗刹": 26,
+    "LUOCHA": 26,
+    "1207": 27,
+    "驭空": 27,
+    "YUKONG": 27,
+    "1001": 28,
+    "三月七": 28,
+    "MARCH7TH": 28,
+    "1002": 29,
+    "丹恒": 29,
+    "DANHENG": 29,
+    "1003": 30,
+    "姬子": 30,
+    "HIMEKO": 30,
+    "1004": 31,
+    "瓦尔特": 31,
+    "WELT": 31,
+    "1008": 32,
+    "阿兰": 32,
+    "ARLAN": 32,
+    "1009": 33,
+    "艾丝妲": 33,
+    "ASTA": 33,
+    "1013": 34,
+    "黑塔": 34,
+    "HERTA": 34,
+    "1101": 35,
+    "布洛妮娅": 35,
+    "BRONYA": 35,
+    "1102": 36,
+    "希儿": 36,
+    "SEELE": 36,
+    "1103": 37,
+    "希露瓦": 37,
+    "SERVAL": 37,
+    "1104": 38,
+    "杰帕德": 38,
+    "GEPARD": 38,
+    "1105": 39,
+    "娜塔莎": 39,
+    "NATASHA": 39,
+    "1106": 40,
+    "佩拉": 40,
+    "PELA": 40,
+    "1107": 41,
+    "克拉拉": 41,
+    "CLARA": 41,
+    "1108": 42,
+    "桑博": 42,
+    "SAMPO": 42,
+    "1109": 43,
+    "虎克": 43,
+    "HOOK": 43,
+    "1201": 44,
+    "青雀": 44,
+    "QINGQUE": 44,
+    "1202": 45,
+    "停云": 45,
+    "TINGYUN": 45,
+    "1204": 46,
+    "景元": 46,
+    "JINGYUAN": 46,
+    "1206": 47,
+    "素裳": 47,
+    "SUSHANG": 47,
+    "1209": 48,
+    "彦卿": 48,
+    "YANQING": 48,
+    "1211": 49,
+    "白露": 49,
+    "BAILU": 49,
+    "8001": 50,
+    "8002": 51,
+    "8003": 52,
+    "8004": 53
 }
 
 var _search_weapon = {
-    "23024": 0,
-    "行于流逝的岸": 0,
-    "ALONGTHEPASSINGSHORE": 0,
-    "23023": 1,
-    "命运从未公平": 1,
-    "INHERENTLYUNJUSTDESTINY": 1,
-    "23022": 2,
-    "重塑时光之忆": 2,
-    "REFORGEDREMEMBRANCE": 2,
-    "23021": 3,
-    "游戏尘寰": 3,
-    "EARTHLYESCAPADE": 3,
-    "23020": 4,
-    "纯粹思维的洗礼": 4,
-    "BAPTISMOFPURETHOUGHT": 4,
-    "23019": 5,
-    "镜中故我": 5,
-    "PASTSELFINMIRROR": 5,
-    "23018": 6,
-    "片刻，留在眼底": 6,
-    "ANINSTANTBEFOREAGAZE": 6,
-    "23017": 7,
-    "惊魂夜": 7,
-    "NIGHTOFFRIGHT": 7,
-    "23016": 8,
-    "烦恼着，幸福着": 8,
-    "WORRISOME,BLISSFUL": 8,
-    "23015": 9,
-    "比阳光更明亮的": 9,
-    "BRIGHTERTHANTHESUN": 9,
-    "23014": 10,
-    "此身为剑": 10,
-    "ISHALLBEMYOWNSWORD": 10,
-    "23013": 11,
-    "时节不居": 11,
-    "TIMEWAITSFORNOONE": 11,
-    "23012": 12,
-    "如泥酣眠": 12,
-    "SLEEPLIKETHEDEAD": 12,
-    "23011": 13,
-    "她已闭上双眼": 13,
-    "SHEALREADYSHUTHEREYES": 13,
-    "23010": 14,
-    "拂晓之前": 14,
-    "BEFOREDAWN": 14,
-    "23009": 15,
-    "到不了的彼岸": 15,
-    "THEUNREACHABLESIDE": 15,
-    "23008": 16,
-    "棺的回响": 16,
-    "ECHOESOFTHECOFFIN": 16,
-    "23007": 17,
-    "雨一直下": 17,
-    "INCESSANTRAIN": 17,
-    "23006": 18,
-    "只需等待": 18,
-    "PATIENCEISALLYOUNEED": 18,
-    "23005": 19,
-    "制胜的瞬间": 19,
-    "MOMENTOFVICTORY": 19,
-    "23004": 20,
-    "以世界之名": 20,
-    "INTHENAMEOFTHEWORLD": 20,
-    "23003": 21,
-    "但战斗还未结束": 21,
-    "BUTTHEBATTLEISNTOVER": 21,
-    "23002": 22,
-    "无可取代的东西": 22,
-    "SOMETHINGIRREPLACEABLE": 22,
-    "23001": 23,
-    "于夜色中": 23,
-    "INTHENIGHT": 23,
-    "23000": 24,
-    "银河铁道之夜": 24,
-    "NIGHTONTHEMILKYWAY": 24,
-    "24003": 25,
-    "孤独的疗愈": 25,
-    "SOLITARYHEALING": 25,
-    "24002": 26,
-    "记忆的质料": 26,
-    "TEXTUREOFMEMORIES": 26,
-    "24001": 27,
-    "星海巡航": 27,
-    "CRUISINGINTHESTELLARSEA": 27,
-    "24000": 28,
-    "记一位星神的陨落": 28,
-    "ONTHEFALLOFANAEON": 28,
-    "22001": 29,
-    "嘿，我在这儿": 29,
-    "HEY,OVERHERE": 29,
-    "22000": 30,
-    "新手任务开始前": 30,
-    "BEFORETHETUTORIALMISSIONSTARTS": 30,
-    "21043": 31,
-    "两个人的演唱会": 31,
-    "CONCERTFORTWO": 31,
-    "21042": 32,
-    "铭记于心的约定": 32,
-    "INDELIBLEPROMISE": 32,
-    "21041": 33,
-    "好戏开演": 33,
-    "ITSSHOWTIME": 33,
-    "21040": 34,
-    "银河沦陷日": 34,
-    "THEDAYTHECOSMOSFELL": 34,
-    "21039": 35,
-    "织造命运之线": 35,
-    "DESTINYSTHREADSFOREWOVEN": 35,
-    "21038": 36,
-    "在火的远处": 36,
-    "FLAMESAFAR": 36,
-    "21037": 37,
-    "最后的赢家": 37,
-    "FINALVICTOR": 37,
-    "21036": 38,
-    "美梦小镇大冒险": 38,
-    "DREAMVILLEADVENTURE": 38,
-    "21035": 39,
-    "何物为真": 39,
-    "WHATISREAL?": 39,
-    "21034": 40,
-    "今日亦是和平的一日": 40,
-    "TODAYISANOTHERPEACEFULDAY": 40,
-    "21033": 41,
-    "无处可逃": 41,
-    "NOWHERETORUN": 41,
-    "21032": 42,
-    "镂月裁云之意": 42,
-    "CARVETHEMOON,WEAVETHECLOUDS": 42,
-    "21031": 43,
-    "重返幽冥": 43,
-    "RETURNTODARKNESS": 43,
-    "21030": 44,
-    "这就是我啦！": 44,
-    "THISISME!": 44,
-    "21029": 45,
-    "后会有期": 45,
-    "WEWILLMEETAGAIN": 45,
-    "21028": 46,
-    "暖夜不会漫长": 46,
-    "WARMTHSHORTENSCOLDNIGHTS": 46,
-    "21027": 47,
-    "早餐的仪式感": 47,
-    "THESERIOUSNESSOFBREAKFAST": 47,
-    "21026": 48,
-    "汪！散步时间！": 48,
-    "WOOF!WALKTIME!": 48,
-    "21025": 49,
-    "过往未来": 49,
-    "PASTANDFUTURE": 49,
-    "21024": 50,
-    "春水初生": 50,
-    "RIVERFLOWSINSPRING": 50,
-    "21023": 51,
-    "我们是地火": 51,
-    "WEAREWILDFIRE": 51,
-    "21022": 52,
-    "延长记号": 52,
-    "FERMATA": 52,
-    "21021": 53,
-    "等价交换": 53,
-    "QUIDPROQUO": 53,
-    "21020": 54,
-    "天才们的休憩": 54,
-    "GENIUSESREPOSE": 54,
-    "21019": 55,
-    "在蓝天下": 55,
-    "UNDERTHEBLUESKY": 55,
-    "21018": 56,
-    "舞！舞！舞！": 56,
-    "DANCE!DANCE!DANCE!": 56,
-    "21017": 57,
-    "点个关注吧！": 57,
-    "SUBSCRIBEFORMORE!": 57,
-    "21016": 58,
-    "宇宙市场趋势": 58,
-    "TRENDOFTHEUNIVERSALMARKET": 58,
-    "21015": 59,
-    "决心如汗珠般闪耀": 59,
-    "RESOLUTIONSHINESASPEARLSOFSWEAT": 59,
-    "21014": 60,
-    "此时恰好": 60,
-    "PERFECTTIMING": 60,
-    "21013": 61,
-    "别让世界静下来": 61,
-    "MAKETHEWORLDCLAMOR": 61,
-    "21012": 62,
-    "秘密誓心": 62,
-    "ASECRETVOW": 62,
-    "21011": 63,
-    "与行星相会": 63,
-    "PLANETARYRENDEZVOUS": 63,
-    "21010": 64,
-    "论剑": 64,
-    "SWORDPLAY": 64,
-    "21009": 65,
-    "朗道的选择": 65,
-    "LANDAUSCHOICE": 65,
-    "21008": 66,
-    "猎物的视线": 66,
-    "EYESOFTHEPREY": 66,
-    "21007": 67,
-    "同一种心情": 67,
-    "SHAREDFEELING": 67,
-    "21006": 68,
-    "「我」的诞生": 68,
-    "THEBIRTHOFTHESELF": 68,
-    "21005": 69,
-    "鼹鼠党欢迎你": 69,
-    "THEMOLESWELCOMEYOU": 69,
-    "21004": 70,
-    "记忆中的模样": 70,
-    "MEMORIESOFTHEPAST": 70,
-    "21003": 71,
-    "唯有沉默": 71,
-    "ONLYSILENCEREMAINS": 71,
-    "21002": 72,
-    "余生的第一天": 72,
-    "DAYONEOFMYNEWLIFE": 72,
-    "21001": 73,
-    "晚安与睡颜": 73,
-    "GOODNIGHTANDSLEEPWELL": 73,
-    "21000": 74,
-    "一场术后对话": 74,
-    "POSTOPCONVERSATION": 74,
-    "20020": 75,
-    "睿见": 75,
-    "SAGACITY": 75,
-    "20019": 76,
-    "调和": 76,
-    "MEDIATION": 76,
-    "20018": 77,
-    "匿影": 77,
-    "HIDDENSHADOW": 77,
-    "20017": 78,
-    "开疆": 78,
-    "PIONEERING": 78,
-    "20016": 79,
-    "俱殁": 79,
-    "MUTUALDEMISE": 79,
-    "20015": 80,
-    "蕃息": 80,
-    "MULTIPLICATION": 80,
-    "20014": 81,
-    "相抗": 81,
-    "ADVERSARIAL": 81,
-    "20013": 82,
-    "灵钥": 82,
-    "PASSKEY": 82,
-    "20012": 83,
-    "轮契": 83,
-    "MESHINGCOGS": 83,
-    "20011": 84,
-    "渊环": 84,
-    "LOOP": 84,
-    "20010": 85,
-    "戍御": 85,
-    "DEFENSE": 85,
-    "20009": 86,
-    "乐圮": 86,
-    "SHATTEREDHOME": 86,
-    "20008": 87,
-    "嘉果": 87,
-    "FINEFRUIT": 87,
-    "20007": 88,
-    "离弦": 88,
-    "DARTINGARROW": 88,
-    "20006": 89,
-    "智库": 89,
-    "DATABANK": 89,
-    "20005": 90,
-    "齐颂": 90,
-    "CHORUS": 90,
-    "20004": 91,
-    "幽邃": 91,
-    "VOID": 91,
-    "20003": 92,
-    "琥珀": 92,
-    "AMBER": 92,
-    "20002": 93,
-    "天倾": 93,
-    "COLLAPSINGSKY": 93,
-    "20001": 94,
-    "物穰": 94,
-    "CORNUCOPIA": 94,
-    "20000": 95,
-    "锋镝": 95,
-    "ARROWS": 95
+    "23027": 0,
+    "驶向第二次生命": 0,
+    "SAILINGTOWARDSASECONDLIFE": 0,
+    "23026": 1,
+    "夜色流光溢彩": 1,
+    "FLOWINGNIGHTGLOW": 1,
+    "23024": 2,
+    "行于流逝的岸": 2,
+    "ALONGTHEPASSINGSHORE": 2,
+    "23023": 3,
+    "命运从未公平": 3,
+    "INHERENTLYUNJUSTDESTINY": 3,
+    "23022": 4,
+    "重塑时光之忆": 4,
+    "REFORGEDREMEMBRANCE": 4,
+    "23021": 5,
+    "游戏尘寰": 5,
+    "EARTHLYESCAPADE": 5,
+    "23020": 6,
+    "纯粹思维的洗礼": 6,
+    "BAPTISMOFPURETHOUGHT": 6,
+    "23019": 7,
+    "镜中故我": 7,
+    "PASTSELFINMIRROR": 7,
+    "23018": 8,
+    "片刻，留在眼底": 8,
+    "ANINSTANTBEFOREAGAZE": 8,
+    "23017": 9,
+    "惊魂夜": 9,
+    "NIGHTOFFRIGHT": 9,
+    "23016": 10,
+    "烦恼着，幸福着": 10,
+    "WORRISOME,BLISSFUL": 10,
+    "23015": 11,
+    "比阳光更明亮的": 11,
+    "BRIGHTERTHANTHESUN": 11,
+    "23014": 12,
+    "此身为剑": 12,
+    "ISHALLBEMYOWNSWORD": 12,
+    "23013": 13,
+    "时节不居": 13,
+    "TIMEWAITSFORNOONE": 13,
+    "23012": 14,
+    "如泥酣眠": 14,
+    "SLEEPLIKETHEDEAD": 14,
+    "23011": 15,
+    "她已闭上双眼": 15,
+    "SHEALREADYSHUTHEREYES": 15,
+    "23010": 16,
+    "拂晓之前": 16,
+    "BEFOREDAWN": 16,
+    "23009": 17,
+    "到不了的彼岸": 17,
+    "THEUNREACHABLESIDE": 17,
+    "23008": 18,
+    "棺的回响": 18,
+    "ECHOESOFTHECOFFIN": 18,
+    "23007": 19,
+    "雨一直下": 19,
+    "INCESSANTRAIN": 19,
+    "23006": 20,
+    "只需等待": 20,
+    "PATIENCEISALLYOUNEED": 20,
+    "23005": 21,
+    "制胜的瞬间": 21,
+    "MOMENTOFVICTORY": 21,
+    "23004": 22,
+    "以世界之名": 22,
+    "INTHENAMEOFTHEWORLD": 22,
+    "23003": 23,
+    "但战斗还未结束": 23,
+    "BUTTHEBATTLEISNTOVER": 23,
+    "23002": 24,
+    "无可取代的东西": 24,
+    "SOMETHINGIRREPLACEABLE": 24,
+    "23001": 25,
+    "于夜色中": 25,
+    "INTHENIGHT": 25,
+    "23000": 26,
+    "银河铁道之夜": 26,
+    "NIGHTONTHEMILKYWAY": 26,
+    "24003": 27,
+    "孤独的疗愈": 27,
+    "SOLITARYHEALING": 27,
+    "24002": 28,
+    "记忆的质料": 28,
+    "TEXTUREOFMEMORIES": 28,
+    "24001": 29,
+    "星海巡航": 29,
+    "CRUISINGINTHESTELLARSEA": 29,
+    "24000": 30,
+    "记一位星神的陨落": 30,
+    "ONTHEFALLOFANAEON": 30,
+    "22002": 31,
+    "为了明日的旅途": 31,
+    "FORTOMORROWSJOURNEY": 31,
+    "22001": 32,
+    "嘿，我在这儿": 32,
+    "HEY,OVERHERE": 32,
+    "22000": 33,
+    "新手任务开始前": 33,
+    "BEFORETHETUTORIALMISSIONSTARTS": 33,
+    "21044": 34,
+    "无边曼舞": 34,
+    "BOUNDLESSCHOREO": 34,
+    "21043": 35,
+    "两个人的演唱会": 35,
+    "CONCERTFORTWO": 35,
+    "21042": 36,
+    "铭记于心的约定": 36,
+    "INDELIBLEPROMISE": 36,
+    "21041": 37,
+    "好戏开演": 37,
+    "ITSSHOWTIME": 37,
+    "21040": 38,
+    "银河沦陷日": 38,
+    "THEDAYTHECOSMOSFELL": 38,
+    "21039": 39,
+    "织造命运之线": 39,
+    "DESTINYSTHREADSFOREWOVEN": 39,
+    "21038": 40,
+    "在火的远处": 40,
+    "FLAMESAFAR": 40,
+    "21037": 41,
+    "最后的赢家": 41,
+    "FINALVICTOR": 41,
+    "21036": 42,
+    "美梦小镇大冒险": 42,
+    "DREAMVILLEADVENTURE": 42,
+    "21035": 43,
+    "何物为真": 43,
+    "WHATISREAL?": 43,
+    "21034": 44,
+    "今日亦是和平的一日": 44,
+    "TODAYISANOTHERPEACEFULDAY": 44,
+    "21033": 45,
+    "无处可逃": 45,
+    "NOWHERETORUN": 45,
+    "21032": 46,
+    "镂月裁云之意": 46,
+    "CARVETHEMOON,WEAVETHECLOUDS": 46,
+    "21031": 47,
+    "重返幽冥": 47,
+    "RETURNTODARKNESS": 47,
+    "21030": 48,
+    "这就是我啦！": 48,
+    "THISISME!": 48,
+    "21029": 49,
+    "后会有期": 49,
+    "WEWILLMEETAGAIN": 49,
+    "21028": 50,
+    "暖夜不会漫长": 50,
+    "WARMTHSHORTENSCOLDNIGHTS": 50,
+    "21027": 51,
+    "早餐的仪式感": 51,
+    "THESERIOUSNESSOFBREAKFAST": 51,
+    "21026": 52,
+    "汪！散步时间！": 52,
+    "WOOF!WALKTIME!": 52,
+    "21025": 53,
+    "过往未来": 53,
+    "PASTANDFUTURE": 53,
+    "21024": 54,
+    "春水初生": 54,
+    "RIVERFLOWSINSPRING": 54,
+    "21023": 55,
+    "我们是地火": 55,
+    "WEAREWILDFIRE": 55,
+    "21022": 56,
+    "延长记号": 56,
+    "FERMATA": 56,
+    "21021": 57,
+    "等价交换": 57,
+    "QUIDPROQUO": 57,
+    "21020": 58,
+    "天才们的休憩": 58,
+    "GENIUSESREPOSE": 58,
+    "21019": 59,
+    "在蓝天下": 59,
+    "UNDERTHEBLUESKY": 59,
+    "21018": 60,
+    "舞！舞！舞！": 60,
+    "DANCE!DANCE!DANCE!": 60,
+    "21017": 61,
+    "点个关注吧！": 61,
+    "SUBSCRIBEFORMORE!": 61,
+    "21016": 62,
+    "宇宙市场趋势": 62,
+    "TRENDOFTHEUNIVERSALMARKET": 62,
+    "21015": 63,
+    "决心如汗珠般闪耀": 63,
+    "RESOLUTIONSHINESASPEARLSOFSWEAT": 63,
+    "21014": 64,
+    "此时恰好": 64,
+    "PERFECTTIMING": 64,
+    "21013": 65,
+    "别让世界静下来": 65,
+    "MAKETHEWORLDCLAMOR": 65,
+    "21012": 66,
+    "秘密誓心": 66,
+    "ASECRETVOW": 66,
+    "21011": 67,
+    "与行星相会": 67,
+    "PLANETARYRENDEZVOUS": 67,
+    "21010": 68,
+    "论剑": 68,
+    "SWORDPLAY": 68,
+    "21009": 69,
+    "朗道的选择": 69,
+    "LANDAUSCHOICE": 69,
+    "21008": 70,
+    "猎物的视线": 70,
+    "EYESOFTHEPREY": 70,
+    "21007": 71,
+    "同一种心情": 71,
+    "SHAREDFEELING": 71,
+    "21006": 72,
+    "「我」的诞生": 72,
+    "THEBIRTHOFTHESELF": 72,
+    "21005": 73,
+    "鼹鼠党欢迎你": 73,
+    "THEMOLESWELCOMEYOU": 73,
+    "21004": 74,
+    "记忆中的模样": 74,
+    "MEMORIESOFTHEPAST": 74,
+    "21003": 75,
+    "唯有沉默": 75,
+    "ONLYSILENCEREMAINS": 75,
+    "21002": 76,
+    "余生的第一天": 76,
+    "DAYONEOFMYNEWLIFE": 76,
+    "21001": 77,
+    "晚安与睡颜": 77,
+    "GOODNIGHTANDSLEEPWELL": 77,
+    "21000": 78,
+    "一场术后对话": 78,
+    "POSTOPCONVERSATION": 78,
+    "20020": 79,
+    "睿见": 79,
+    "SAGACITY": 79,
+    "20019": 80,
+    "调和": 80,
+    "MEDIATION": 80,
+    "20018": 81,
+    "匿影": 81,
+    "HIDDENSHADOW": 81,
+    "20017": 82,
+    "开疆": 82,
+    "PIONEERING": 82,
+    "20016": 83,
+    "俱殁": 83,
+    "MUTUALDEMISE": 83,
+    "20015": 84,
+    "蕃息": 84,
+    "MULTIPLICATION": 84,
+    "20014": 85,
+    "相抗": 85,
+    "ADVERSARIAL": 85,
+    "20013": 86,
+    "灵钥": 86,
+    "PASSKEY": 86,
+    "20012": 87,
+    "轮契": 87,
+    "MESHINGCOGS": 87,
+    "20011": 88,
+    "渊环": 88,
+    "LOOP": 88,
+    "20010": 89,
+    "戍御": 89,
+    "DEFENSE": 89,
+    "20009": 90,
+    "乐圮": 90,
+    "SHATTEREDHOME": 90,
+    "20008": 91,
+    "嘉果": 91,
+    "FINEFRUIT": 91,
+    "20007": 92,
+    "离弦": 92,
+    "DARTINGARROW": 92,
+    "20006": 93,
+    "智库": 93,
+    "DATABANK": 93,
+    "20005": 94,
+    "齐颂": 94,
+    "CHORUS": 94,
+    "20004": 95,
+    "幽邃": 95,
+    "VOID": 95,
+    "20003": 96,
+    "琥珀": 96,
+    "AMBER": 96,
+    "20002": 97,
+    "天倾": 97,
+    "COLLAPSINGSKY": 97,
+    "20001": 98,
+    "物穰": 98,
+    "CORNUCOPIA": 98,
+    "20000": 99,
+    "锋镝": 99,
+    "ARROWS": 99
 }
 
 var _search_relic = {
@@ -3978,8 +4223,42 @@ var cl_select = {
 
 var _weapon = [
     {
+        "_id": 23027,
+        "Name": "二度目の命に向かって",
+        "Rarity": 5,
+        "Path": "Hunt",
+        "Skill": 23027,
+        "Pic": "23027.png",
+        "Mat": [
+            114013,
+            110193
+        ],
+        "Stats": {
+            "HP": 1058.4,
+            "ATK": 582.12,
+            "DEF": 463.05
+        }
+    },
+    {
+        "_id": 23026,
+        "Name": "光あふれる夜",
+        "Rarity": 5,
+        "Path": "Harmony",
+        "Skill": 23026,
+        "Pic": "23026.png",
+        "Mat": [
+            114003,
+            110233
+        ],
+        "Stats": {
+            "HP": 952.56,
+            "ATK": 635.04,
+            "DEF": 463.05
+        }
+    },
+    {
         "_id": 23024,
-        "Name": "Along the Passing Shore",
+        "Name": "{RUBY_B#なが}流{RUBY_E#}れ{RUBY_B#ゆ}逝{RUBY_E#}く{RUBY_B#きし}岸{RUBY_E#}を{RUBY_B#ある}歩{RUBY_E#}いて",
         "Rarity": 5,
         "Path": "Nihility",
         "Skill": 23024,
@@ -3996,7 +4275,7 @@ var _weapon = [
     },
     {
         "_id": 23023,
-        "Name": "Inherently Unjust Destiny",
+        "Name": "{RUBY_B#うんめい}運命{RUBY_E#}は{RUBY_B#つね}常{RUBY_E#}に{RUBY_B#ふこうへい}不公平{RUBY_E#}",
         "Rarity": 5,
         "Path": "Preservation",
         "Skill": 23023,
@@ -4013,7 +4292,7 @@ var _weapon = [
     },
     {
         "_id": 23022,
-        "Name": "Reforged Remembrance",
+        "Name": "{RUBY_B#とき}時間{RUBY_E#}の{RUBY_B#きおく}記憶{RUBY_E#}を{RUBY_B#さいこうちく}再構築{RUBY_E#}して",
         "Rarity": 5,
         "Path": "Nihility",
         "Skill": 23022,
@@ -4030,7 +4309,7 @@ var _weapon = [
     },
     {
         "_id": 23021,
-        "Name": "Earthly Escapade",
+        "Name": "{RUBY_B#じんせい}人生{RUBY_E#}は{RUBY_B#あそ}遊{RUBY_E#}び",
         "Rarity": 5,
         "Path": "Harmony",
         "Skill": 23021,
@@ -4047,7 +4326,7 @@ var _weapon = [
     },
     {
         "_id": 23020,
-        "Name": "Baptism of Pure Thought",
+        "Name": "{RUBY_B#じゅんすい}純粋{RUBY_E#}なる{RUBY_B#しい}思惟{RUBY_E#}の{RUBY_B#せんれい}洗礼{RUBY_E#}",
         "Rarity": 5,
         "Path": "Hunt",
         "Skill": 23020,
@@ -4064,7 +4343,7 @@ var _weapon = [
     },
     {
         "_id": 23019,
-        "Name": "Past Self in Mirror",
+        "Name": "{RUBY_B#かがみ}鏡{RUBY_E#}の{RUBY_B#なか}中{RUBY_E#}の{RUBY_B#わたし}私{RUBY_E#}",
         "Rarity": 5,
         "Path": "Harmony",
         "Skill": 23019,
@@ -4081,7 +4360,7 @@ var _weapon = [
     },
     {
         "_id": 23018,
-        "Name": "An Instant Before A Gaze",
+        "Name": "その{RUBY_B#いっこく}一刻{RUBY_E#}、{RUBY_B#め}目{RUBY_E#}に{RUBY_B#や}焼{RUBY_E#}き{RUBY_B#つ}付{RUBY_E#}けて",
         "Rarity": 5,
         "Path": "Erudition",
         "Skill": 23018,
@@ -4098,7 +4377,7 @@ var _weapon = [
     },
     {
         "_id": 23017,
-        "Name": "Night of Fright",
+        "Name": "{RUBY_B#きょうこん}驚魂{RUBY_E#}の{RUBY_B#よる}夜{RUBY_E#}",
         "Rarity": 5,
         "Path": "Abundance",
         "Skill": 23017,
@@ -4115,7 +4394,7 @@ var _weapon = [
     },
     {
         "_id": 23016,
-        "Name": "Worrisome, Blissful",
+        "Name": "{RUBY_B#なや}悩{RUBY_E#}んで{RUBY_B#わら}笑{RUBY_E#}って",
         "Rarity": 5,
         "Path": "Hunt",
         "Skill": 23016,
@@ -4132,7 +4411,7 @@ var _weapon = [
     },
     {
         "_id": 23015,
-        "Name": "Brighter Than the Sun",
+        "Name": "{RUBY_B#ようこう}陽光{RUBY_E#}より{RUBY_B#かがや}輝{RUBY_E#}くもの",
         "Rarity": 5,
         "Path": "Destruction",
         "Skill": 23015,
@@ -4149,7 +4428,7 @@ var _weapon = [
     },
     {
         "_id": 23014,
-        "Name": "I Shall Be My Own Sword",
+        "Name": "この{RUBY_B#み}身{RUBY_E#}は{RUBY_B#けん}剣{RUBY_E#}なり",
         "Rarity": 5,
         "Path": "Destruction",
         "Skill": 23014,
@@ -4166,7 +4445,7 @@ var _weapon = [
     },
     {
         "_id": 23013,
-        "Name": "Time Waits for No One",
+        "Name": "{RUBY_B#じせつ}時節{RUBY_E#}は{RUBY_B#お}居{RUBY_E#}らず",
         "Rarity": 5,
         "Path": "Abundance",
         "Skill": 23013,
@@ -4183,7 +4462,7 @@ var _weapon = [
     },
     {
         "_id": 23012,
-        "Name": "Sleep Like the Dead",
+        "Name": "{RUBY_B#どろ}泥{RUBY_E#}の{RUBY_B#ごと}如{RUBY_E#}き{RUBY_B#ねむ}眠{RUBY_E#}り",
         "Rarity": 5,
         "Path": "Hunt",
         "Skill": 23012,
@@ -4200,7 +4479,7 @@ var _weapon = [
     },
     {
         "_id": 23011,
-        "Name": "She Already Shut Her Eyes",
+        "Name": "{RUBY_B#と}閉{RUBY_E#}ざした{RUBY_B#ひとみ}瞳{RUBY_E#}",
         "Rarity": 5,
         "Path": "Preservation",
         "Skill": 23011,
@@ -4217,7 +4496,7 @@ var _weapon = [
     },
     {
         "_id": 23010,
-        "Name": "Before Dawn",
+        "Name": "{RUBY_B#よあ}夜明{RUBY_E#}け{RUBY_B#まえ}前{RUBY_E#}",
         "Rarity": 5,
         "Path": "Erudition",
         "Skill": 23010,
@@ -4234,7 +4513,7 @@ var _weapon = [
     },
     {
         "_id": 23009,
-        "Name": "The Unreachable Side",
+        "Name": "{RUBY_B#つ}着{RUBY_E#}かない{RUBY_B#ひがん}彼岸{RUBY_E#}",
         "Rarity": 5,
         "Path": "Destruction",
         "Skill": 23009,
@@ -4251,7 +4530,7 @@ var _weapon = [
     },
     {
         "_id": 23008,
-        "Name": "Echoes of the Coffin",
+        "Name": "{RUBY_B#ひつぎ}棺{RUBY_E#}のこだま",
         "Rarity": 5,
         "Path": "Abundance",
         "Skill": 23008,
@@ -4268,7 +4547,7 @@ var _weapon = [
     },
     {
         "_id": 23007,
-        "Name": "Incessant Rain",
+        "Name": "{RUBY_B#ふ}降{RUBY_E#}りやまぬ{RUBY_B#あめ}雨{RUBY_E#}",
         "Rarity": 5,
         "Path": "Nihility",
         "Skill": 23007,
@@ -4285,7 +4564,7 @@ var _weapon = [
     },
     {
         "_id": 23006,
-        "Name": "Patience Is All You Need",
+        "Name": "{RUBY_B#ま}待{RUBY_E#}つのみ",
         "Rarity": 5,
         "Path": "Nihility",
         "Skill": 23006,
@@ -4302,7 +4581,7 @@ var _weapon = [
     },
     {
         "_id": 23005,
-        "Name": "Moment of Victory",
+        "Name": "{RUBY_B#しょうり}勝利{RUBY_E#}の{RUBY_B#せつな}刹那{RUBY_E#}",
         "Rarity": 5,
         "Path": "Preservation",
         "Skill": 23005,
@@ -4319,7 +4598,7 @@ var _weapon = [
     },
     {
         "_id": 23004,
-        "Name": "In the Name of the World",
+        "Name": "{RUBY_B#せかい}世界{RUBY_E#}の{RUBY_B#な}名{RUBY_E#}を{RUBY_B#もっ}以{RUBY_E#}て",
         "Rarity": 5,
         "Path": "Nihility",
         "Skill": 23004,
@@ -4336,7 +4615,7 @@ var _weapon = [
     },
     {
         "_id": 23003,
-        "Name": "But the Battle Isn't Over",
+        "Name": "だが{RUBY_B#せんそう}戦争{RUBY_E#}は{RUBY_B#お}終{RUBY_E#}わらない",
         "Rarity": 5,
         "Path": "Harmony",
         "Skill": 23003,
@@ -4353,7 +4632,7 @@ var _weapon = [
     },
     {
         "_id": 23002,
-        "Name": "Something Irreplaceable",
+        "Name": "かけがえのないもの",
         "Rarity": 5,
         "Path": "Destruction",
         "Skill": 23002,
@@ -4370,7 +4649,7 @@ var _weapon = [
     },
     {
         "_id": 23001,
-        "Name": "In the Night",
+        "Name": "{RUBY_B#よる}夜{RUBY_E#}の{RUBY_B#とばり}帳{RUBY_E#}の{RUBY_B#なか}中{RUBY_E#}で",
         "Rarity": 5,
         "Path": "Hunt",
         "Skill": 23001,
@@ -4387,7 +4666,7 @@ var _weapon = [
     },
     {
         "_id": 23000,
-        "Name": "Night on the Milky Way",
+        "Name": "{RUBY_B#ぎんがてつどう}銀河鉄道{RUBY_E#}の{RUBY_B#よる}夜{RUBY_E#}",
         "Rarity": 5,
         "Path": "Erudition",
         "Skill": 23000,
@@ -4404,7 +4683,7 @@ var _weapon = [
     },
     {
         "_id": 24003,
-        "Name": "Solitary Healing",
+        "Name": "{RUBY_B#こどく}孤独{RUBY_E#}の{RUBY_B#いや}癒{RUBY_E#}やし",
         "Rarity": 5,
         "Path": "Nihility",
         "Skill": 24003,
@@ -4421,7 +4700,7 @@ var _weapon = [
     },
     {
         "_id": 24002,
-        "Name": "Texture of Memories",
+        "Name": "{RUBY_B#きおく}記憶{RUBY_E#}の{RUBY_B#そざい}素材{RUBY_E#}",
         "Rarity": 5,
         "Path": "Preservation",
         "Skill": 24002,
@@ -4438,7 +4717,7 @@ var _weapon = [
     },
     {
         "_id": 24001,
-        "Name": "Cruising in the Stellar Sea",
+        "Name": "{RUBY_B#せいかいじゅんこう}星海巡航{RUBY_E#}",
         "Rarity": 5,
         "Path": "Hunt",
         "Skill": 24001,
@@ -4455,7 +4734,7 @@ var _weapon = [
     },
     {
         "_id": 24000,
-        "Name": "On the Fall of an Aeon",
+        "Name": "とある{RUBY_B#アイオーン}星神{RUBY_E#}の{RUBY_B#うんらく}殞落{RUBY_E#}を{RUBY_B#しる}記{RUBY_E#}す",
         "Rarity": 5,
         "Path": "Destruction",
         "Skill": 24000,
@@ -4471,8 +4750,25 @@ var _weapon = [
         }
     },
     {
+        "_id": 22002,
+        "Name": "明日の旅のために",
+        "Rarity": 4,
+        "Path": "Harmony",
+        "Skill": 22002,
+        "Pic": "22002.png",
+        "Mat": [
+            114003,
+            110233
+        ],
+        "Stats": {
+            "HP": 952.56,
+            "ATK": 476.28,
+            "DEF": 330.75
+        }
+    },
+    {
         "_id": 22001,
-        "Name": "Hey, Over Here",
+        "Name": "よぉ、ここにいるぜ",
         "Rarity": 4,
         "Path": "Abundance",
         "Skill": 22001,
@@ -4489,7 +4785,7 @@ var _weapon = [
     },
     {
         "_id": 22000,
-        "Name": "Before the Tutorial Mission Starts",
+        "Name": "{RUBY_B#はじ}初{RUBY_E#}めてのクエストの{RUBY_B#まえ}前{RUBY_E#}に",
         "Rarity": 4,
         "Path": "Nihility",
         "Skill": 22000,
@@ -4505,8 +4801,25 @@ var _weapon = [
         }
     },
     {
+        "_id": 21044,
+        "Name": "限りなき舞踏",
+        "Rarity": 4,
+        "Path": "Nihility",
+        "Skill": 21044,
+        "Pic": "21044.png",
+        "Mat": [
+            1,
+            110223
+        ],
+        "Stats": {
+            "HP": 952.56,
+            "ATK": 476.28,
+            "DEF": 330.75
+        }
+    },
+    {
         "_id": 21043,
-        "Name": "Concert for Two",
+        "Name": "{RUBY_B#ふたり}二人{RUBY_E#}だけのコンサート",
         "Rarity": 4,
         "Path": "Preservation",
         "Skill": 21043,
@@ -4523,7 +4836,7 @@ var _weapon = [
     },
     {
         "_id": 21042,
-        "Name": "Indelible Promise",
+        "Name": "{RUBY_B#こころ}心{RUBY_E#}に{RUBY_B#きざ}刻{RUBY_E#}まれた{RUBY_B#やくそく}約束{RUBY_E#}",
         "Rarity": 4,
         "Path": "Destruction",
         "Skill": 21042,
@@ -4540,7 +4853,7 @@ var _weapon = [
     },
     {
         "_id": 21041,
-        "Name": "It's Showtime",
+        "Name": "ショーの{RUBY_B#はじ}始{RUBY_E#}まり",
         "Rarity": 4,
         "Path": "Nihility",
         "Skill": 21041,
@@ -4557,7 +4870,7 @@ var _weapon = [
     },
     {
         "_id": 21040,
-        "Name": "The Day The Cosmos Fell",
+        "Name": "{RUBY_B#ぎんが}銀河{RUBY_E#}が{RUBY_B#かんらく}陥落{RUBY_E#}した{RUBY_B#ひ}日{RUBY_E#}",
         "Rarity": 4,
         "Path": "Erudition",
         "Skill": 21040,
@@ -4574,7 +4887,7 @@ var _weapon = [
     },
     {
         "_id": 21039,
-        "Name": "Destiny's Threads Forewoven",
+        "Name": "{RUBY_B#うんめい}運命{RUBY_E#}を{RUBY_B#つむ}紡{RUBY_E#}ぐ{RUBY_B#いと}糸{RUBY_E#}",
         "Rarity": 4,
         "Path": "Preservation",
         "Skill": 21039,
@@ -4591,7 +4904,7 @@ var _weapon = [
     },
     {
         "_id": 21038,
-        "Name": "Flames Afar",
+        "Name": "{RUBY_B#れっか}烈火{RUBY_E#}の{RUBY_B#かなた}彼方{RUBY_E#}",
         "Rarity": 4,
         "Path": "Destruction",
         "Skill": 21038,
@@ -4608,7 +4921,7 @@ var _weapon = [
     },
     {
         "_id": 21037,
-        "Name": "Final Victor",
+        "Name": "{RUBY_B#さいご}最後{RUBY_E#}の{RUBY_B#しょうしゃ}勝者{RUBY_E#}",
         "Rarity": 4,
         "Path": "Hunt",
         "Skill": 21037,
@@ -4625,7 +4938,7 @@ var _weapon = [
     },
     {
         "_id": 21036,
-        "Name": "Dreamville Adventure",
+        "Name": "ドリームタウンの{RUBY_B#だいぼうけん}大冒険{RUBY_E#}",
         "Rarity": 4,
         "Path": "Harmony",
         "Skill": 21036,
@@ -4642,7 +4955,7 @@ var _weapon = [
     },
     {
         "_id": 21035,
-        "Name": "What Is Real?",
+        "Name": "{RUBY_B#なに}何{RUBY_E#}が{RUBY_B#まこと}真{RUBY_E#}か",
         "Rarity": 4,
         "Path": "Abundance",
         "Skill": 21035,
@@ -4659,7 +4972,7 @@ var _weapon = [
     },
     {
         "_id": 21034,
-        "Name": "Today Is Another Peaceful Day",
+        "Name": "{RUBY_B#きょう}今日{RUBY_E#}も{RUBY_B#へいわ}平和{RUBY_E#}な{RUBY_B#いちにち}一日{RUBY_E#}",
         "Rarity": 4,
         "Path": "Erudition",
         "Skill": 21034,
@@ -4676,7 +4989,7 @@ var _weapon = [
     },
     {
         "_id": 21033,
-        "Name": "Nowhere to Run",
+        "Name": "{RUBY_B#に}逃{RUBY_E#}げ{RUBY_B#ば}場{RUBY_E#}なし",
         "Rarity": 4,
         "Path": "Destruction",
         "Skill": 21033,
@@ -4693,7 +5006,7 @@ var _weapon = [
     },
     {
         "_id": 21032,
-        "Name": "Carve the Moon, Weave the Clouds",
+        "Name": "{RUBY_B#ちょうげつさいうん}彫月裁雲{RUBY_E#}の{RUBY_B#い}意{RUBY_E#}",
         "Rarity": 4,
         "Path": "Harmony",
         "Skill": 21032,
@@ -4710,7 +5023,7 @@ var _weapon = [
     },
     {
         "_id": 21031,
-        "Name": "Return to Darkness",
+        "Name": "{RUBY_B#ゆうめい}幽冥{RUBY_E#}に{RUBY_B#き}帰{RUBY_E#}す",
         "Rarity": 4,
         "Path": "Hunt",
         "Skill": 21031,
@@ -4727,7 +5040,7 @@ var _weapon = [
     },
     {
         "_id": 21030,
-        "Name": "This Is Me!",
+        "Name": "これがウチだよ！",
         "Rarity": 4,
         "Path": "Preservation",
         "Skill": 21030,
@@ -4744,7 +5057,7 @@ var _weapon = [
     },
     {
         "_id": 21029,
-        "Name": "We Will Meet Again",
+        "Name": "またお{RUBY_B#あ}会{RUBY_E#}いしましょう",
         "Rarity": 4,
         "Path": "Nihility",
         "Skill": 21029,
@@ -4761,7 +5074,7 @@ var _weapon = [
     },
     {
         "_id": 21028,
-        "Name": "Warmth Shortens Cold Nights",
+        "Name": "{RUBY_B#あたた}暖{RUBY_E#}かい{RUBY_B#よる}夜{RUBY_E#}は{RUBY_B#なが}長{RUBY_E#}くない",
         "Rarity": 4,
         "Path": "Abundance",
         "Skill": 21028,
@@ -4778,7 +5091,7 @@ var _weapon = [
     },
     {
         "_id": 21027,
-        "Name": "The Seriousness of Breakfast",
+        "Name": "{RUBY_B#ちょうしょく}朝食{RUBY_E#}の{RUBY_B#ぎしきかん}儀式感{RUBY_E#}",
         "Rarity": 4,
         "Path": "Erudition",
         "Skill": 21027,
@@ -4795,7 +5108,7 @@ var _weapon = [
     },
     {
         "_id": 21026,
-        "Name": "Woof! Walk Time!",
+        "Name": "ワン！{RUBY_B#さんぽ}散歩{RUBY_E#}の{RUBY_B#じかん}時間{RUBY_E#}！",
         "Rarity": 4,
         "Path": "Destruction",
         "Skill": 21026,
@@ -4812,7 +5125,7 @@ var _weapon = [
     },
     {
         "_id": 21025,
-        "Name": "Past and Future",
+        "Name": "{RUBY_B#かこ}過去{RUBY_E#}と{RUBY_B#みらい}未来{RUBY_E#}",
         "Rarity": 4,
         "Path": "Harmony",
         "Skill": 21025,
@@ -4829,7 +5142,7 @@ var _weapon = [
     },
     {
         "_id": 21024,
-        "Name": "River Flows in Spring",
+        "Name": "{RUBY_B#しゅんすい}春水{RUBY_E#}に{RUBY_B#しょせい}初生{RUBY_E#}する",
         "Rarity": 4,
         "Path": "Hunt",
         "Skill": 21024,
@@ -4846,7 +5159,7 @@ var _weapon = [
     },
     {
         "_id": 21023,
-        "Name": "We Are Wildfire",
+        "Name": "{RUBY_B#われ}我{RUBY_E#}ら{RUBY_B#ちえん}地炎{RUBY_E#}",
         "Rarity": 4,
         "Path": "Preservation",
         "Skill": 21023,
@@ -4863,7 +5176,7 @@ var _weapon = [
     },
     {
         "_id": 21022,
-        "Name": "Fermata",
+        "Name": "フェルマータ",
         "Rarity": 4,
         "Path": "Nihility",
         "Skill": 21022,
@@ -4880,7 +5193,7 @@ var _weapon = [
     },
     {
         "_id": 21021,
-        "Name": "Quid Pro Quo",
+        "Name": "{RUBY_B#とうかこうかん}等価交換{RUBY_E#}",
         "Rarity": 4,
         "Path": "Abundance",
         "Skill": 21021,
@@ -4897,7 +5210,7 @@ var _weapon = [
     },
     {
         "_id": 21020,
-        "Name": "Geniuses' Repose",
+        "Name": "{RUBY_B#てんさい}天才{RUBY_E#}たちの{RUBY_B#きゅうそく}休息{RUBY_E#}",
         "Rarity": 4,
         "Path": "Erudition",
         "Skill": 21020,
@@ -4914,7 +5227,7 @@ var _weapon = [
     },
     {
         "_id": 21019,
-        "Name": "Under the Blue Sky",
+        "Name": "{RUBY_B#あおぞら}青空{RUBY_E#}の{RUBY_B#した}下{RUBY_E#}で",
         "Rarity": 4,
         "Path": "Destruction",
         "Skill": 21019,
@@ -4931,7 +5244,7 @@ var _weapon = [
     },
     {
         "_id": 21018,
-        "Name": "Dance! Dance! Dance!",
+        "Name": "ダンス！ダンス！ダンス！",
         "Rarity": 4,
         "Path": "Harmony",
         "Skill": 21018,
@@ -4948,7 +5261,7 @@ var _weapon = [
     },
     {
         "_id": 21017,
-        "Name": "Subscribe for More!",
+        "Name": "フォローして！",
         "Rarity": 4,
         "Path": "Hunt",
         "Skill": 21017,
@@ -4965,7 +5278,7 @@ var _weapon = [
     },
     {
         "_id": 21016,
-        "Name": "Trend of the Universal Market",
+        "Name": "{RUBY_B#せいかんいちば}星間市場{RUBY_E#}のトレンド",
         "Rarity": 4,
         "Path": "Preservation",
         "Skill": 21016,
@@ -4982,7 +5295,7 @@ var _weapon = [
     },
     {
         "_id": 21015,
-        "Name": "Resolution Shines As Pearls of Sweat",
+        "Name": "{RUBY_B#けつい}決意{RUBY_E#}は{RUBY_B#あせ}汗{RUBY_E#}のように{RUBY_B#かがや}輝{RUBY_E#}く",
         "Rarity": 4,
         "Path": "Nihility",
         "Skill": 21015,
@@ -4999,7 +5312,7 @@ var _weapon = [
     },
     {
         "_id": 21014,
-        "Name": "Perfect Timing",
+        "Name": "{RUBY_B#いま}今{RUBY_E#}が{RUBY_B#ちょうど}丁度{RUBY_E#}",
         "Rarity": 4,
         "Path": "Abundance",
         "Skill": 21014,
@@ -5016,7 +5329,7 @@ var _weapon = [
     },
     {
         "_id": 21013,
-        "Name": "Make the World Clamor",
+        "Name": "この{RUBY_B#せかい}世界{RUBY_E#}に{RUBY_B#けんそう}喧噪{RUBY_E#}を",
         "Rarity": 4,
         "Path": "Erudition",
         "Skill": 21013,
@@ -5033,7 +5346,7 @@ var _weapon = [
     },
     {
         "_id": 21012,
-        "Name": "A Secret Vow",
+        "Name": "{RUBY_B#ひみつ}秘密{RUBY_E#}の{RUBY_B#ちか}誓{RUBY_E#}い",
         "Rarity": 4,
         "Path": "Destruction",
         "Skill": 21012,
@@ -5050,7 +5363,7 @@ var _weapon = [
     },
     {
         "_id": 21011,
-        "Name": "Planetary Rendezvous",
+        "Name": "{RUBY_B#わくせい}惑星{RUBY_E#}との{RUBY_B#であ}出会{RUBY_E#}い",
         "Rarity": 4,
         "Path": "Harmony",
         "Skill": 21011,
@@ -5067,7 +5380,7 @@ var _weapon = [
     },
     {
         "_id": 21010,
-        "Name": "Swordplay",
+        "Name": "{RUBY_B#ろんけん}論剣{RUBY_E#}",
         "Rarity": 4,
         "Path": "Hunt",
         "Skill": 21010,
@@ -5084,7 +5397,7 @@ var _weapon = [
     },
     {
         "_id": 21009,
-        "Name": "Landau's Choice",
+        "Name": "ランドゥーの{RUBY_B#せんたく}選択{RUBY_E#}",
         "Rarity": 4,
         "Path": "Preservation",
         "Skill": 21009,
@@ -5101,7 +5414,7 @@ var _weapon = [
     },
     {
         "_id": 21008,
-        "Name": "Eyes of the Prey",
+        "Name": "{RUBY_B#えもの}獲物{RUBY_E#}の{RUBY_B#しせん}視線{RUBY_E#}",
         "Rarity": 4,
         "Path": "Nihility",
         "Skill": 21008,
@@ -5118,7 +5431,7 @@ var _weapon = [
     },
     {
         "_id": 21007,
-        "Name": "Shared Feeling",
+        "Name": "{RUBY_B#おな}同{RUBY_E#}じ{RUBY_B#きも}気持{RUBY_E#}ち",
         "Rarity": 4,
         "Path": "Abundance",
         "Skill": 21007,
@@ -5135,7 +5448,7 @@ var _weapon = [
     },
     {
         "_id": 21006,
-        "Name": "The Birth of the Self",
+        "Name": "「{RUBY_B#わたし}私{RUBY_E#}」の{RUBY_B#たんじょう}誕生{RUBY_E#}",
         "Rarity": 4,
         "Path": "Erudition",
         "Skill": 21006,
@@ -5152,7 +5465,7 @@ var _weapon = [
     },
     {
         "_id": 21005,
-        "Name": "The Moles Welcome You",
+        "Name": "モグラ{RUBY_B#とう}党{RUBY_E#}へようこそ",
         "Rarity": 4,
         "Path": "Destruction",
         "Skill": 21005,
@@ -5169,7 +5482,7 @@ var _weapon = [
     },
     {
         "_id": 21004,
-        "Name": "Memories of the Past",
+        "Name": "{RUBY_B#きおく}記憶{RUBY_E#}の{RUBY_B#なか}中{RUBY_E#}の{RUBY_B#すがた}姿{RUBY_E#}",
         "Rarity": 4,
         "Path": "Harmony",
         "Skill": 21004,
@@ -5186,7 +5499,7 @@ var _weapon = [
     },
     {
         "_id": 21003,
-        "Name": "Only Silence Remains",
+        "Name": "{RUBY_B#ちんもく}沈黙{RUBY_E#}のみ",
         "Rarity": 4,
         "Path": "Hunt",
         "Skill": 21003,
@@ -5203,7 +5516,7 @@ var _weapon = [
     },
     {
         "_id": 21002,
-        "Name": "Day One of My New Life",
+        "Name": "{RUBY_B#よせい}余生{RUBY_E#}の{RUBY_B#しょにち}初日{RUBY_E#}",
         "Rarity": 4,
         "Path": "Preservation",
         "Skill": 21002,
@@ -5220,7 +5533,7 @@ var _weapon = [
     },
     {
         "_id": 21001,
-        "Name": "Good Night and Sleep Well",
+        "Name": "おやすみなさいと{RUBY_B#ねがお}寝顔{RUBY_E#}",
         "Rarity": 4,
         "Path": "Nihility",
         "Skill": 21001,
@@ -5237,7 +5550,7 @@ var _weapon = [
     },
     {
         "_id": 21000,
-        "Name": "Post-Op Conversation",
+        "Name": "{RUBY_B#しゅじゅつご}手術後{RUBY_E#}の{RUBY_B#かいわ}会話{RUBY_E#}",
         "Rarity": 4,
         "Path": "Abundance",
         "Skill": 21000,
@@ -5254,7 +5567,7 @@ var _weapon = [
     },
     {
         "_id": 20020,
-        "Name": "Sagacity",
+        "Name": "{RUBY_B#けんしき}見識{RUBY_E#}",
         "Rarity": 3,
         "Path": "Erudition",
         "Skill": 20020,
@@ -5271,7 +5584,7 @@ var _weapon = [
     },
     {
         "_id": 20019,
-        "Name": "Mediation",
+        "Name": "{RUBY_B#どうちょう}同調{RUBY_E#}",
         "Rarity": 3,
         "Path": "Harmony",
         "Skill": 20019,
@@ -5288,7 +5601,7 @@ var _weapon = [
     },
     {
         "_id": 20018,
-        "Name": "Hidden Shadow",
+        "Name": "{RUBY_B#とくえい}匿影{RUBY_E#}",
         "Rarity": 3,
         "Path": "Nihility",
         "Skill": 20018,
@@ -5305,7 +5618,7 @@ var _weapon = [
     },
     {
         "_id": 20017,
-        "Name": "Pioneering",
+        "Name": "{RUBY_B#しんてんち}新天地{RUBY_E#}",
         "Rarity": 3,
         "Path": "Preservation",
         "Skill": 20017,
@@ -5322,7 +5635,7 @@ var _weapon = [
     },
     {
         "_id": 20016,
-        "Name": "Mutual Demise",
+        "Name": "{RUBY_B#くぼつ}倶歿{RUBY_E#}",
         "Rarity": 3,
         "Path": "Destruction",
         "Skill": 20016,
@@ -5339,7 +5652,7 @@ var _weapon = [
     },
     {
         "_id": 20015,
-        "Name": "Multiplication",
+        "Name": "{RUBY_B#はんしょく}蕃殖{RUBY_E#}",
         "Rarity": 3,
         "Path": "Abundance",
         "Skill": 20015,
@@ -5356,7 +5669,7 @@ var _weapon = [
     },
     {
         "_id": 20014,
-        "Name": "Adversarial",
+        "Name": "{RUBY_B#そうこう}相抗{RUBY_E#}",
         "Rarity": 3,
         "Path": "Hunt",
         "Skill": 20014,
@@ -5373,7 +5686,7 @@ var _weapon = [
     },
     {
         "_id": 20013,
-        "Name": "Passkey",
+        "Name": "{RUBY_B#れいけん}霊鍵{RUBY_E#}",
         "Rarity": 3,
         "Path": "Erudition",
         "Skill": 20013,
@@ -5390,7 +5703,7 @@ var _weapon = [
     },
     {
         "_id": 20012,
-        "Name": "Meshing Cogs",
+        "Name": "{RUBY_B#りんけい}輪契{RUBY_E#}",
         "Rarity": 3,
         "Path": "Harmony",
         "Skill": 20012,
@@ -5407,7 +5720,7 @@ var _weapon = [
     },
     {
         "_id": 20011,
-        "Name": "Loop",
+        "Name": "{RUBY_B#えんかん}淵環{RUBY_E#}",
         "Rarity": 3,
         "Path": "Nihility",
         "Skill": 20011,
@@ -5424,7 +5737,7 @@ var _weapon = [
     },
     {
         "_id": 20010,
-        "Name": "Defense",
+        "Name": "{RUBY_B#ぼうえい}防衛{RUBY_E#}",
         "Rarity": 3,
         "Path": "Preservation",
         "Skill": 20010,
@@ -5441,7 +5754,7 @@ var _weapon = [
     },
     {
         "_id": 20009,
-        "Name": "Shattered Home",
+        "Name": "{RUBY_B#らくかい}楽壊{RUBY_E#}",
         "Rarity": 3,
         "Path": "Destruction",
         "Skill": 20009,
@@ -5458,7 +5771,7 @@ var _weapon = [
     },
     {
         "_id": 20008,
-        "Name": "Fine Fruit",
+        "Name": "{RUBY_B#かか}嘉果{RUBY_E#}",
         "Rarity": 3,
         "Path": "Abundance",
         "Skill": 20008,
@@ -5475,7 +5788,7 @@ var _weapon = [
     },
     {
         "_id": 20007,
-        "Name": "Darting Arrow",
+        "Name": "{RUBY_B#りげん}離弦{RUBY_E#}",
         "Rarity": 3,
         "Path": "Hunt",
         "Skill": 20007,
@@ -5492,7 +5805,7 @@ var _weapon = [
     },
     {
         "_id": 20006,
-        "Name": "Data Bank",
+        "Name": "アーカイブ",
         "Rarity": 3,
         "Path": "Erudition",
         "Skill": 20006,
@@ -5509,7 +5822,7 @@ var _weapon = [
     },
     {
         "_id": 20005,
-        "Name": "Chorus",
+        "Name": "{RUBY_B#せいしょう}斉頌{RUBY_E#}",
         "Rarity": 3,
         "Path": "Harmony",
         "Skill": 20005,
@@ -5526,7 +5839,7 @@ var _weapon = [
     },
     {
         "_id": 20004,
-        "Name": "Void",
+        "Name": "{RUBY_B#ゆうすい}幽邃{RUBY_E#}",
         "Rarity": 3,
         "Path": "Nihility",
         "Skill": 20004,
@@ -5543,7 +5856,7 @@ var _weapon = [
     },
     {
         "_id": 20003,
-        "Name": "Amber",
+        "Name": "{RUBY_B#こはく}琥珀{RUBY_E#}",
         "Rarity": 3,
         "Path": "Preservation",
         "Skill": 20003,
@@ -5560,7 +5873,7 @@ var _weapon = [
     },
     {
         "_id": 20002,
-        "Name": "Collapsing Sky",
+        "Name": "{RUBY_B#てんけい}天傾{RUBY_E#}",
         "Rarity": 3,
         "Path": "Destruction",
         "Skill": 20002,
@@ -5577,7 +5890,7 @@ var _weapon = [
     },
     {
         "_id": 20001,
-        "Name": "Cornucopia",
+        "Name": "{RUBY_B#ぶつじょう}物穣{RUBY_E#}",
         "Rarity": 3,
         "Path": "Abundance",
         "Skill": 20001,
@@ -5594,7 +5907,7 @@ var _weapon = [
     },
     {
         "_id": 20000,
-        "Name": "Arrows",
+        "Name": "{RUBY_B#や}矢{RUBY_E#}じり",
         "Rarity": 3,
         "Path": "Hunt",
         "Skill": 20000,
@@ -5614,276 +5927,276 @@ var _weapon = [
 var _relic = [
     {
         "_id": 314,
-        "Name": "Izumo Gensei and Takama Divine Realm",
+        "Name": "{RUBY_B#けんせ}顕世{RUBY_E#}の{RUBY_B#いずも}出雲{RUBY_E#}と{RUBY_B#たかま}高天{RUBY_E#}の{RUBY_B#しんこく}神国{RUBY_E#}",
         "Icon": "71031.png",
         "Skills": [
-            "Increases the wearer's ATK by  <b>12.0%</b> . When entering battle, if at least one other ally follows the same Path as the wearer, then the wearer's CRIT Rate increases by  <b>12.0%</b> ."
+            "装備キャラの攻撃力+ <b>12.0%</b> 。戦闘に入る時、装備キャラと同じ運命のキャラが他に存在する場合、装備キャラの会心率+ <b>12.0%</b> 。"
         ]
     },
     {
         "_id": 313,
-        "Name": "Sigonia, the Unclaimed Desolation",
+        "Name": "{RUBY_B#こうりょう}荒涼{RUBY_E#}の{RUBY_B#わくせい}惑星{RUBY_E#}ツガンニヤ",
         "Icon": "71030.png",
         "Skills": [
-            "Increases the wearer's CRIT Rate by  <b>4.0%</b> . When enemies are defeated, the wearer's CRIT DMG increases by  <b>4.0%</b> , up to  <b>10.0</b>  stack(s)."
+            "装備キャラの会心率+ <b>4.0%</b> 。敵が倒された時、装備キャラの会心ダメージ+ <b>4.0%</b> 、最大で <b>10.0</b> 回累積できる。"
         ]
     },
     {
         "_id": 312,
-        "Name": "Penacony, Land of the Dreams",
+        "Name": "夢の地ピノコニー",
         "Icon": "71027.png",
         "Skills": [
-            "Increases wearer's Energy Regeneration Rate by  <b>5.0%</b> . Increases DMG by  <b>10.0%</b>  for all other allies that are of the same Type as the wearer."
+            "装備キャラのEP回復効率+ <b>5.0%</b> 。パーティ中の装備キャラと同じ属性の味方の与ダメージ+ <b>10.0%</b> 。"
         ]
     },
     {
         "_id": 311,
-        "Name": "Firmament Frontline: Glamoth",
+        "Name": "蒼穹戦線グラモス",
         "Icon": "71026.png",
         "Skills": [
-            "Increases the wearer's ATK by  <b>12.0%</b> . When the wearer's SPD is equal to or higher than  <b>135.0</b> / <b>160.0</b> , the wearer deals  <b>12.0%</b> / <b>18.0%</b>  more DMG."
+            "装備キャラの攻撃力+ <b>12.0%</b> 。装備キャラの速度が <b>135.0</b> / <b>160.0</b> 以上の時、装備キャラの与ダメージ+ <b>12.0%</b> / <b>18.0%</b> 。"
         ]
     },
     {
         "_id": 310,
-        "Name": "Broken Keel",
+        "Name": "折れた竜骨",
         "Icon": "71023.png",
         "Skills": [
-            "Increases the wearer's Effect RES by  <b>10.0%</b> . When the wearer's Effect RES is at  <b>30.0%</b>  or higher, all allies' CRIT DMG increases by  <b>10.0%</b> ."
+            "装備キャラの効果抵抗+ <b>10.0%</b> 。装備キャラの効果抵抗が <b>30.0%</b> 以上の時、味方全体の会心ダメージ+ <b>10.0%</b> 。"
         ]
     },
     {
         "_id": 309,
-        "Name": "Rutilant Arena",
+        "Name": "星々の競技場",
         "Icon": "71022.png",
         "Skills": [
-            "Increases the wearer's CRIT Rate by  <b>8.0%</b> . When the wearer's current CRIT Rate reaches  <b>70.0%</b>  or higher, the wearer's Basic ATK and Skill DMG increase by  <b>20.0%</b> ."
+            "装備キャラの会心率+ <b>8.0%</b> 。装備キャラの会心率が <b>70.0%</b> 以上の時、通常攻撃と戦闘スキルの与ダメージ+ <b>20.0%</b> 。"
         ]
     },
     {
         "_id": 308,
-        "Name": "Sprightly Vonwacq",
+        "Name": "生命のウェンワーク",
         "Icon": "71019.png",
         "Skills": [
-            "Increases the wearer's Energy Regeneration Rate by  <b>5.0%</b> . When the wearer's SPD reaches  <b>120.0</b>  or higher, the wearer's action is Advanced Forward by  <b>40.0%</b>  immediately upon entering battle."
+            "装備キャラのEP回復効率+ <b>5.0%</b> 。装備キャラの速度が <b>120.0</b> 以上の場合、戦闘に入る時、行動順が <b>40.0%</b> 早まる。"
         ]
     },
     {
         "_id": 307,
-        "Name": "Talia: Kingdom of Banditry",
+        "Name": "盗賊公国タリア",
         "Icon": "71018.png",
         "Skills": [
-            "Increases the wearer's Break Effect by  <b>16.0%</b> . When the wearer's SPD reaches  <b>145.0</b>  or higher, the wearer's Break Effect increases by an extra  <b>20.0%</b> ."
+            "装備キャラの撃破特効+ <b>16.0%</b> 。装備キャラの速度が <b>145.0</b> 以上の場合、さらに撃破特効+ <b>20.0%</b> 。"
         ]
     },
     {
         "_id": 306,
-        "Name": "Inert Salsotto",
+        "Name": "自転が止まったサルソット",
         "Icon": "71017.png",
         "Skills": [
-            "Increases the wearer's CRIT Rate by  <b>8.0%</b> . When the wearer's current CRIT Rate reaches  <b>50.0%</b>  or higher, the wearer's Ultimate and follow-up attack DMG increases by  <b>15.0%</b> ."
+            "装備キャラの会心率+ <b>8.0%</b> 。装備キャラの会心率が <b>50.0%</b> 以上の場合、必殺技と追加攻撃の与ダメージ+ <b>15.0%</b> 。"
         ]
     },
     {
         "_id": 305,
-        "Name": "Celestial Differentiator",
+        "Name": "天体階差機関",
         "Icon": "71016.png",
         "Skills": [
-            "Increases the wearer's CRIT DMG by  <b>16.0%</b> . When the wearer's current CRIT DMG reaches  <b>120.0%</b>  or higher, after entering battle, the wearer's CRIT Rate increases by  <b>60.0%</b>  until the end of their first attack."
+            "装備キャラの会心ダメージ+ <b>16.0%</b> 。装備キャラの会心ダメージが <b>120.0%</b> 以上の場合、戦闘に入った後、装備キャラの会心率+ <b>60.0%</b> 、初回の攻撃が終了するまで継続。"
         ]
     },
     {
         "_id": 304,
-        "Name": "Belobog of the Architects",
+        "Name": "建創者のベロブルグ",
         "Icon": "71015.png",
         "Skills": [
-            "Increases the wearer's DEF by  <b>15.0%</b> . When the wearer's Effect Hit Rate is  <b>50.0%</b>  or higher, the wearer gains an extra  <b>15.0%</b>  DEF."
+            "装備キャラの防御力+ <b>15.0%</b> 。装備キャラの効果命中が <b>50.0%</b> 以上の場合、さらに防御力+ <b>15.0%</b> 。"
         ]
     },
     {
         "_id": 303,
-        "Name": "Pan-Cosmic Commercial Enterprise",
+        "Name": "汎銀河商事会社",
         "Icon": "71014.png",
         "Skills": [
-            "Increases the wearer's Effect Hit Rate by  <b>10.0%</b> . Meanwhile, the wearer's ATK increases by an amount that is equal to  <b>25.0%</b>  of the current Effect Hit Rate, up to a maximum of  <b>25.0%</b> ."
+            "装備キャラの効果命中+ <b>10.0%</b> 。装備キャラの攻撃力が、現在の効果命中 <b>25.0%</b> 分アップ、最大で+ <b>25.0%</b> 。"
         ]
     },
     {
         "_id": 302,
-        "Name": "Fleet of the Ageless",
+        "Name": "老いぬ者の仙舟",
         "Icon": "71013.png",
         "Skills": [
-            "Increases the wearer's Max HP by  <b>12.0%</b> . When the wearer's SPD reaches  <b>120.0</b>  or higher, all allies' ATK increases by  <b>8.0%</b> ."
+            "装備キャラの最大HP+ <b>12.0%</b> 。装備キャラの速度が <b>120.0</b> 以上の場合、味方全体の攻撃力+ <b>8.0%</b> 。"
         ]
     },
     {
         "_id": 301,
-        "Name": "Space Sealing Station",
+        "Name": "宇宙封印ステーション",
         "Icon": "71012.png",
         "Skills": [
-            "Increases the wearer's ATK by  <b>12.0%</b> . When the wearer's SPD reaches  <b>120.0</b>  or higher, the wearer's ATK increases by an extra  <b>12.0%</b> ."
+            "装備キャラの攻撃力+ <b>12.0%</b> 。装備キャラの速度が <b>120.0</b> 以上の場合、さらに攻撃力+ <b>12.0%</b> 。"
         ]
     },
     {
         "_id": 118,
-        "Name": "Watchmaker, Master of Dream Machinations",
+        "Name": "夢を弄ぶ時計屋",
         "Icon": "71029.png",
         "Skills": [
-            "Increases Break Effect by  <b>16.0%</b> .",
-            "When the wearer uses their Ultimate on an ally, all allies' Break Effect increases by  <b>30.0%</b>  for  <b>2.0</b>  turn(s). This effect cannot be stacked."
+            "撃破特効+ <b>16.0%</b> 。",
+            "装備キャラが味方に対して必殺技を発動する時、味方全体の撃破特効+ <b>30.0%</b> 、 <b>2.0</b> ターン継続。この効果は累積できない。"
         ]
     },
     {
         "_id": 117,
-        "Name": "Pioneer Diver of Dead Waters",
+        "Name": "死水に潜る先駆者",
         "Icon": "71028.png",
         "Skills": [
-            "Increases DMG dealt to enemies with debuffs by  <b>12.0%</b> .",
-            "Increases CRIT Rate by  <b>4.0%</b> . The wearer deals  <b>8.0%</b> / <b>12.0%</b>  increased CRIT DMG to enemies with at least  <b>2.0</b> / <b>3.0</b>  debuffs. After the wearer inflicts a debuff on enemy targets, the aforementioned effects increase by  <b>100%</b> , lasting for  <b>1.0</b>  turn(s)."
+            "デバフの影響を受けている敵への与ダメージ+ <b>12.0%</b> 。",
+            "会心率+ <b>4.0%</b> 。デバフを <b>2.0</b> / <b>3.0</b> つ以上付与されている敵に対する、装備キャラの会心ダメージ+ <b>8.0%</b> / <b>12.0%</b> 。装備キャラが敵にデバフを付与した後、上記の効果が2倍になる、 <b>1.0</b> ターン継続。"
         ]
     },
     {
         "_id": 116,
-        "Name": "Prisoner in Deep Confinement",
+        "Name": "深い牢獄の囚人",
         "Icon": "71025.png",
         "Skills": [
-            "ATK increases by  <b>12.0%</b> .",
-            "For every DoT the target enemy is afflicted with, the wearer will ignore  <b>6.0%</b>  of its DEF when dealing DMG to it. This effect is valid for a max of  <b>3.0</b>  DoTs."
+            "攻撃力+ <b>12.0%</b> 。",
+            "敵に付与された持続ダメージ系デバフが1つにつき、装備キャラがその敵にダメージを与える時に防御力を <b>6.0%</b> 無視する。持続ダメージ系デバフは最大で <b>3.0</b> つまでカウントされる。"
         ]
     },
     {
         "_id": 115,
-        "Name": "The Ashblazing Grand Duke",
+        "Name": "灰燼を燃やし尽くす大公",
         "Icon": "71024.png",
         "Skills": [
-            "Increases the DMG dealt by follow-up attacks by  <b>20.0%</b> .",
-            "When the wearer uses follow-up attacks, increases the wearer's ATK by  <b>6.0%</b>  for every time the follow-up attack deals DMG. This effect can stack up to  <b>8.0</b>  time(s) and lasts for  <b>3.0</b>  turn(s). This effect is removed the next time the wearer uses a follow-up attack."
+            "追加攻撃の与ダメージ+ <b>20.0%</b> 。",
+            "装備キャラが追加攻撃を行った時、追加攻撃のヒット数に応じて、ダメージを与えるたびに装備者の攻撃力+ <b>6.0%</b> 、最大 <b>8.0</b> 回まで累積でき、 <b>3.0</b> ターン継続。この効果は、装備キャラが次の追加攻撃を行った時に解除される。"
         ]
     },
     {
         "_id": 114,
-        "Name": "Messenger Traversing Hackerspace",
+        "Name": "仮想空間を漫遊するメッセンジャー",
         "Icon": "71021.png",
         "Skills": [
-            "Increases SPD by  <b>6.0%</b> .",
-            "When the wearer uses their Ultimate on an ally, SPD for all allies increases by  <b>12.0%</b>  for  <b>1.0</b>  turn(s). This effect cannot be stacked."
+            "速度+ <b>6.0%</b> 。",
+            "装備キャラが味方に対して必殺技を発動した時、味方全体の速度+ <b>12.0%</b> 、 <b>1.0</b> ターン継続。この効果は累積できない。"
         ]
     },
     {
         "_id": 113,
-        "Name": "Longevous Disciple",
+        "Name": "宝命長存の蒔者",
         "Icon": "71020.png",
         "Skills": [
-            "Increases Max HP by  <b>12.0%</b> .",
-            "When the wearer is hit or has their HP consumed by an ally or themselves, their CRIT Rate increases by  <b>8.0%</b>  for  <b>2.0</b>  turn(s) and up to  <b>2.0</b>  stacks."
+            "最大HP+ <b>12.0%</b> 。",
+            "装備キャラが攻撃を受ける、または味方によってHPを消費させられた後、会心率+ <b>8.0%</b> 、 <b>2.0</b> ターン継続。この効果は最大で <b>2.0</b> 層累積できる。"
         ]
     },
     {
         "_id": 112,
-        "Name": "Wastelander of Banditry Desert",
+        "Name": "荒地で盗みを働く廃土客",
         "Icon": "71011.png",
         "Skills": [
-            "Increases Imaginary DMG by  <b>10.0%</b> .",
-            "When attacking debuffed enemies, the wearer's CRIT Rate increases by  <b>10.0%</b> , and their CRIT DMG increases by  <b>20.0%</b>  against Imprisoned enemies."
+            "虚数属性ダメージ+ <b>10.0%</b> 。",
+            "デバフ状態の敵にダメージを与えた時、装備キャラの会心率+ <b>10.0%</b> 。禁錮状態の敵にダメージを与えた時、会心ダメージ+ <b>20.0%</b> 。"
         ]
     },
     {
         "_id": 111,
-        "Name": "Thief of Shooting Meteor",
+        "Name": "流星の跡を追う怪盗",
         "Icon": "71010.png",
         "Skills": [
-            "Increases Break Effect by  <b>16.0%</b> .",
-            "Increases the wearer's Break Effect by  <b>16.0%</b> . After the wearer inflicts Weakness Break on an enemy, regenerates  <b>3.0</b>  Energy."
+            "撃破特効+ <b>16.0%</b> 。",
+            "装備キャラの撃破特効+ <b>16.0%</b> 。装備キャラが敵を弱点撃破した後、EPを <b>3.0</b> 回復する。"
         ]
     },
     {
         "_id": 110,
-        "Name": "Eagle of Twilight Line",
+        "Name": "昼夜の狭間を翔ける鷹",
         "Icon": "71009.png",
         "Skills": [
-            "Increases Wind DMG by  <b>10.0%</b> .",
-            "After the wearer uses their Ultimate, their action is Advanced Forward by  <b>25.0%</b> ."
+            "風属性ダメージ+ <b>10.0%</b> 。",
+            "装備キャラが必殺技を発動した後、行動順が <b>25.0%</b> 早まる。"
         ]
     },
     {
         "_id": 109,
-        "Name": "Band of Sizzling Thunder",
+        "Name": "雷鳴轟くバンド",
         "Icon": "71008.png",
         "Skills": [
-            "Increases Lightning DMG by  <b>10.0%</b> .",
-            "When the wearer uses their Skill, increases the wearer's ATK by  <b>20.0%</b>  for  <b>1.0</b>  turn(s)."
+            "雷属性ダメージ+ <b>10.0%</b> 。",
+            "装備キャラが戦闘スキルを発動した時、装備キャラの攻撃力+ <b>20.0%</b> 、 <b>1.0</b> ターン継続。"
         ]
     },
     {
         "_id": 108,
-        "Name": "Genius of Brilliant Stars",
+        "Name": "星の如く輝く天才",
         "Icon": "71007.png",
         "Skills": [
-            "Increases Quantum DMG by  <b>10.0%</b> .",
-            "When the wearer deals DMG to the target enemy, ignores  <b>10.0%</b>  DEF. If the target enemy has Quantum Weakness, the wearer additionally ignores  <b>10.0%</b>  DEF."
+            "量子属性ダメージ+ <b>10.0%</b> 。",
+            "装備キャラが敵にダメージを与えた時、敵の防御力を <b>10.0%</b> 無視する。敵に量子属性の弱点がある場合、さらに防御力を <b>10.0%</b> 無視する。"
         ]
     },
     {
         "_id": 107,
-        "Name": "Firesmith of Lava-Forging",
+        "Name": "溶岩で鍛造する火匠",
         "Icon": "71006.png",
         "Skills": [
-            "Increases Fire DMG by  <b>10.0%</b> .",
-            "Increases the wearer's Skill DMG by  <b>12.0%</b> . After unleashing Ultimate, increases the wearer's Fire DMG by  <b>12.0%</b>  for the next attack."
+            "炎属性ダメージ+ <b>10.0%</b> 。",
+            "装備キャラの戦闘スキルの与ダメージ+ <b>12.0%</b> 。必殺技を発動した後、次の攻撃の炎属性与ダメージ+ <b>12.0%</b> 。"
         ]
     },
     {
         "_id": 106,
-        "Name": "Guard of Wuthering Snow",
+        "Name": "吹雪と対峙する兵士",
         "Icon": "71005.png",
         "Skills": [
-            "Reduces DMG taken by  <b>8.0%</b> .",
-            "At the beginning of the turn, if the wearer's HP is equal to or less than  <b>50.0%</b> , restores HP equal to  <b>8.0%</b>  of their Max HP and regenerates  <b>5.0</b>  Energy."
+            "被ダメージ- <b>8.0%</b> 。",
+            "ターンが回ってきた時、装備キャラの残りHPが <b>50.0%</b> 以下の場合、HPを最大HP <b>8.0%</b> 分回復し、EPを <b>5.0</b> 回復する。"
         ]
     },
     {
         "_id": 105,
-        "Name": "Champion of Streetwise Boxing",
+        "Name": "成り上がりチャンピオン",
         "Icon": "71004.png",
         "Skills": [
-            "Increases Physical DMG by  <b>10.0%</b> .",
-            "After the wearer attacks or is hit, their ATK increases by  <b>5.0%</b>  for the rest of the battle. This effect can stack up to  <b>5.0</b>  time(s)."
+            "物理ダメージ+ <b>10.0%</b> 。",
+            "装備キャラが攻撃を行う、または攻撃を受けた後、今回の戦闘中の攻撃力+ <b>5.0%</b> 、最大で <b>5.0</b> 層累積できる。"
         ]
     },
     {
         "_id": 104,
-        "Name": "Hunter of Glacial Forest",
+        "Name": "雪の密林の狩人",
         "Icon": "71003.png",
         "Skills": [
-            "Increases Ice DMG by  <b>10.0%</b> .",
-            "After the wearer uses their Ultimate, their CRIT DMG increases by  <b>25.0%</b>  for  <b>2.0</b>  turn(s)."
+            "氷属性ダメージ+ <b>10.0%</b> 。",
+            "装備キャラが必殺技を発動した時、会心ダメージ+ <b>25.0%</b> 、 <b>2.0</b> ターン継続。"
         ]
     },
     {
         "_id": 103,
-        "Name": "Knight of Purity Palace",
+        "Name": "純庭教会の聖騎士",
         "Icon": "71002.png",
         "Skills": [
-            "Increases DEF by  <b>15.0%</b> .",
-            "Increases the max DMG that can be absorbed by the Shield created by the wearer by  <b>20.0%</b> ."
+            "防御力+ <b>15.0%</b> 。",
+            "装備キャラが付与するバリアの耐久値+ <b>20.0%</b> 。"
         ]
     },
     {
         "_id": 102,
-        "Name": "Musketeer of Wild Wheat",
+        "Name": "草の穂ガンマン",
         "Icon": "71001.png",
         "Skills": [
-            "ATK increases by  <b>12.0%</b> .",
-            "The wearer's SPD increases by  <b>6.0%</b>  and Basic ATK DMG increases by  <b>10.0%</b> ."
+            "攻撃力+ <b>12.0%</b> 。",
+            "装備キャラの速度+ <b>6.0%</b> 、通常攻撃の与ダメージ+ <b>10.0%</b> 。"
         ]
     },
     {
         "_id": 101,
-        "Name": "Passerby of Wandering Cloud",
+        "Name": "流雲無痕の過客",
         "Icon": "71000.png",
         "Skills": [
-            "Increases Outgoing Healing by  <b>10.0%</b> .",
-            "At the start of the battle, immediately regenerates 1 Skill Point."
+            "治癒量+ <b>10.0%</b> 。",
+            "戦闘開始時、SPを1回復する。"
         ]
     }
 ]

@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21002": "<i>\"So happy I got to see Pom-Pom in new clothes today! I like it~\"<br>\"Today's my birthday! I'm still as cute as ever.\"<br>\"Today, I finally finally finally have a junior! Isn't that right, Trailblazer?\"</i><br><br>We click the shutter many times without thinking.<br>Do we do that to capture the happiness at that moment?<br>Or to capture ourselves at that moment?"
+    "21002": "<i>「今日パムが新しい服に着替えたんだよ、嬉しい～スキ～」<br>「今日は誕生日なんだ、今年のウチも可愛い」<br>「今日、ウチにもついに後輩ができたんだ！でしょ、{NICKNAME}？」</i><br><br>何度も何度も、何も考えずにシャッターを押すのは、<br>その瞬間の楽しさを掴むため？<br>それとも、その瞬間の自分を掴むため？"
 }
 
 var _weaponskill_ = {

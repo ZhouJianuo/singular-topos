@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23020": "The afternoon sunshine is just right, and the floral scents fill the air.<br>Though he tries to keep his thoughts pure, cognitive stagnancy inevitably attracts particulates of mind like gathered dust.<br><br><i>\"Healing one's thoughts is just as vital as the maintenance of one's health.\"</i><br>The fools' clamoring fades alongside fatigue as he sinks into the water, letting all thoughts loose, his mind elucidated and ordered.<br><br><i>\"Truth eludes all filths, accepting only those of pure thoughts.\"</i>"
+    "23020": "오후의 햇살이 기분 좋게 내리쬐고, 향긋한 꽃향기가 퍼져 나온다.<br>그는 항상 청결에 신경을 썼지만, 생각은 둔해지면 먼지가 쌓이기 마련이다.<br><br><i>「생각의 힐링은 건강을 유지하는 것만큼 중요하다」</i><br>어리석은 자의 소란은 피곤과 함께 멀어졌고, 물에 잠겨 생각이 흐르도록 놔두자 마음이 점점 맑아졌다.<br><br><i>「진리는 불결을 멀리하며, 순수한 자만이 진리에 다가갈 수 있다」</i>"
 }
 
 var _weaponskill_ = {

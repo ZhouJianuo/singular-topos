@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21041": "—Who witnessed his death?<br>—Me! I spied it with my little eyes!<br>—Who took his blood?<br>—Me! I used my little saucer!<br>—Who dug his grave?<br>—Me! Using my chisel and shovel!<br><br>The wise uses all techniques in their arsenal, the sovereign soothes their heart with power, the hero views themselves to be righteous, and the Fool laughs ceaselessly—<br>\"Now, let us welcome Ms. Sparkle to bring us the performance of the year — Penacony's Night of Fright!\""
+    "21041": "——그의 죽음을 목격한 자는 누구일까?<br>——나야, 내 작은 눈으로 봤어!<br>——그의 피를 가져간 사람은 누구지?<br>——나야, 내 접시를 썼지!<br>——그의 무덤을 판 사람은 누구지?<br>——나야, 내 끌과 삽으로 무덤을 팠어!<br><br>현인(賢人)은 온갖 계책을 쓰고, 왕은 권세욕에 빠지고, 영웅은 독선적이나 우인은 웃음을 멈추지 않네——<br>「이제 올해 최고의 쇼 『페나코니의 섬뜩한 밤』을 선사해 주실 스파클 씨를 소개합니다!」"
 }
 
 var _weaponskill_ = {

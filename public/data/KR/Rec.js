@@ -2,483 +2,657 @@
 
 var _rec = [
     {
-        "Name": "Citizen Hanunue",
-        "Desc": "Dear Mikhail: You provide prose poetry, and I'll provide warfare.",
-        "Unlock": "Obtained from completing Trailblaze Mission \"A Walk Among the Tombstones\"",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "On The Disintegration of Evermemoria",
-        "Desc": "Hell is a place where pleasure persists and morality does not exist.",
-        "Unlock": "Obtained from completing Trailblaze Mission \"All the Sad Tales\"",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "Stranger Than Paradise",
-        "Desc": "A whole new world, where everything remains the same.",
-        "Unlock": "Obtained from completing Trailblaze Mission \"The Tell-Tale Heart\"",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "If One Wakes at Midnight",
-        "Desc": "The puzzled robin, the gloomy tree — far better than the frozen dawn.",
-        "Unlock": "Obtained from completing the Trailblaze Mission \"Why Do the Heathen Rage?\"",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "The Midnight Special",
-        "Desc": "Let this midnight train take me to the land of honey.",
-        "Unlock": "Obtained from completing Trailblaze Mission \"Heaven is a Place on Earth\"",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "Hi, Dolly!",
-        "Desc": "Don't you ever leave again, Dolly!",
-        "Unlock": "Obtainable from completing the Trailblaze Mission \"When the Sacred Ginmill Closes\"",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "Spellbound",
-        "Desc": "Every psychoanalyst must first have someone else diagnose them.",
-        "Unlock": "Obtained from completing Trailblaze Mission \"Double Indemnity\"",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "City Upon a Hill",
-        "Desc": "The city is built on the mountain, and no shadow can cover it.",
-        "Unlock": "Obtained from completing Trailblaze Mission \"Lost Generation\"",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "Stade du Miroir",
-        "Desc": "When, where, and from whence was the existence named \"me\" born?",
-        "Unlock": "Obtainable from exploring A Child's Dream in Penacony",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "Chaîne Signifiante",
-        "Desc": "Please piece together the fragmented existence into a portrait of the world.",
-        "Unlock": "Obtainable from completing the Trailblaze Mission \"Through a Glass Darkly\"",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "If I Can Stop One Heart From Breaking",
-        "Desc": "Easing the suffering of a life, soothing a kind of mordancy, helping a fainted bird return to its nest.",
-        "Unlock": "Obtainable from completing the Trailblaze Mission \"Gentleness, the Name of Nocturne\"",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "Halfway House",
-        "Desc": "The long journey to the unconscious.",
-        "Unlock": "Obtainable from exploring the Dream's Edge",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "Lustprinzip",
-        "Desc": "O, cast away all pain. Once you fall asleep, it is time to join the endless carnival.",
-        "Unlock": "Obtainable from exploring The Reverie (Reality) in Penacony",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "Realitätsprinzip",
-        "Desc": "Bid farewell to all rules. Once you fall asleep, you no longer need them.",
-        "Unlock": "Obtainable from completing the Trailblaze Mission \"The Youths Who Chase Dreams\"",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "The Big Sleep",
-        "Desc": "If the dreamscape is so beautiful, who would want to wake up?",
-        "Unlock": "Obtainable from completing the Trailblaze Mission \"Should One Awaken at Midnight\"",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "Ace in the Hole",
-        "Desc": "The greatest entertainment often comes with the greatest risks.",
-        "Unlock": "Obtained from exploring the Golden Hour in Penacony",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "Golden Land",
-        "Desc": "In the largest money sink in the cosmos, \"Consumerism\" is the number one religion.",
-        "Unlock": "Purchasable from Penacony Partygoer Dancy",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "This Side of Paradise",
-        "Desc": "Imagine a dreamscape where you have total control over yourself and can obtain every wonder imaginable.",
-        "Unlock": "Obtainable from completing the Trailblaze Mission \"Sleepless Night\"",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "Nevermore",
-        "Desc": "Quoth the raven, \"Nevermore!\"",
-        "Unlock": "Obtainable from completing Trailblaze Mission \"Whodunit\"",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "Return of None",
-        "Desc": "Welcome to the realm of nightmares.",
-        "Unlock": "Obtainable from completing the Trailblaze Mission \"Through a Glass Darkly\"",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "Fair Play",
-        "Desc": "...First, it is necessary to present all clues clearly and fairly to the protagonist...",
-        "Unlock": "Obtained from exploring The Reverie (Dreamscape) in Penacony",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "The Player on The Other Side",
-        "Desc": "You're not the only player in this grand celebration.",
-        "Unlock": "Purchasable from Penacony Partygoer Dancy",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "Challenge to the Reader",
-        "Desc": "All the clues are in motion — happy hunting!",
-        "Unlock": "Obtained by completing the Companion Mission \"Masquerade Duet\"",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "Against The Day",
-        "Desc": "The sound of a heartbeat follows like a shadow, accompanied by occasional clashes like metal striking against stone.",
-        "Unlock": "Purchasable from Penacony Partygoer Dancy",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
         "Group": 4
     },
     {
-        "Name": "Nesting Avians",
-        "Desc": "The gulls sleep and the herons slumber. All is cloaked in utter silence.",
-        "Unlock": "Obtained from completing the Adventure Mission \"Ghost-Hunting Squad: Gold Medallion\"",
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "",
+        "Desc": "",
+        "Unlock": "",
+        "Group": 4
+    },
+    {
+        "Name": "시민 하누누",
+        "Desc": "친애하는 미하일에게: 너는 산문시를 준비해. 나는 전쟁을 제공하지",
+        "Unlock": "개척 임무 「무덤으로 향하다」 완료 시 획득",
+        "Group": 4
+    },
+    {
+        "Name": "영원한 기억의 분석에 관해",
+        "Desc": "지옥은 즐거움이 영원한 곳이며, 그곳엔 도덕이 존재하지 않는다",
+        "Unlock": "개척 임무 「모든 슬픈 이야기」 완료 시 획득",
+        "Group": 4
+    },
+    {
+        "Name": "낙원의 낯선 그림자",
+        "Desc": "완전히 새로운 세상, 모든 것이 변함없는 세상",
+        "Unlock": "개척 임무 「고자질하는 심장」 완료 시 획득",
+        "Group": 4
+    },
+    {
+        "Name": "한밤중 깨어난다면",
+        "Desc": "의문을 품은 로빈, 울적한 숲——얼어붙은 여명보다 훨씬 낫다",
+        "Unlock": "개척 임무 「어찌하여 이방 나라들이 분노하는가?」 완료 시 획득",
+        "Group": 4
+    },
+    {
+        "Name": "자정 특급",
+        "Desc": "이 자정 열차가 나를 달콤한 곳으로 데려다줄 것이다",
+        "Unlock": "개척 임무 「지상 낙원」 완료 시 획득",
+        "Group": 4
+    },
+    {
+        "Name": "안녕, 돌리!",
+        "Desc": "돌리, 다시는 떠나지 마!",
+        "Unlock": "개척 임무 「성스러운 바가 문을 닫을 때」 완료 시 획득",
+        "Group": 4
+    },
+    {
+        "Name": "의지와 감정의 혼란",
+        "Desc": "모든 정신과 의사는 먼저 다른 사람에게 진단받아 보도록 해야 한다",
+        "Unlock": "개척 임무 「이중 배상」 완료 시 획득",
+        "Group": 4
+    },
+    {
+        "Name": "산꼭대기의 도시",
+        "Desc": "산 위에 세워진 도시, 그 어떤 그림자도 이를 가릴 수 없다",
+        "Unlock": "개척 임무 「잃어버린 세대」 완료 시 획득",
+        "Group": 4
+    },
+    {
+        "Name": "거울단계",
+        "Desc": "「나」라는 이름의 존재는 대체 언제, 어디서 탄생한 것인가?",
+        "Unlock": "페나코니 어린아이의 꿈 탐사로 획득",
+        "Group": 4
+    },
+    {
+        "Name": "의미화 연쇄",
+        "Desc": "산산조각난 존재를 연결해 세계의 경관이 되게 하라",
+        "Unlock": "개척 임무 「거울을 통해 어렴풋이」 완료 시 획득",
+        "Group": 4
+    },
+    {
+        "Name": "애타는 한 가슴을 달랠 수 있다면",
+        "Desc": "한 생명의 고통을 없애고, 어떤 괴로움을 잠재우고, 의식을 잃은 새를 둥지로 돌려보내리",
+        "Unlock": "개척 임무 「부드러움이라는 이름의 밤」 완료 시 획득",
+        "Group": 4
+    },
+    {
+        "Name": "중간의 집",
+        "Desc": "무의식으로 향하는 기나긴 여정",
+        "Unlock": "꿈 건축 경계 탐사로 획득",
+        "Group": 4
+    },
+    {
+        "Name": "쾌락원칙",
+        "Desc": "모든 슬픔과 고통을 버려라. 잠이 들면 당신은 끝없는 축제에 합류할 것이다",
+        "Unlock": "페나코니 「레버리」 호텔-현실 탐사로 획득",
+        "Group": 4
+    },
+    {
+        "Name": "현실원칙",
+        "Desc": "모든 규칙과 작별하라. 꿈에 들어가면 더 이상 그것들이 필요하지 않을 것이다",
+        "Unlock": "개척 임무 「꿈을 좇는 젊은이들」 완료 시 획득",
+        "Group": 4
+    },
+    {
+        "Name": "빅 슬립",
+        "Desc": "꿈이 이렇게 아름답다면, 그 누가 깨려 하겠는가?",
+        "Unlock": "개척 임무 「자정에 잠에서 깨면」 완료 시 획득",
+        "Group": 4
+    },
+    {
+        "Name": "비장의 술수",
+        "Desc": "최고의 즐거움에는 항상 최대의 위험이 동반하기 마련이다",
+        "Unlock": "페나코니 황금의 순간 탐사로 획득",
+        "Group": 4
+    },
+    {
+        "Name": "황금의 땅",
+        "Desc": "은하 최대의 유흥과 소비의 소굴에서 「소비주의」는 현지 제일의 종교이다",
+        "Unlock": "페나코니의 파티 마니아 댄시로부터 구매하여 획득",
+        "Group": 4
+    },
+    {
+        "Name": "속세의 낙원",
+        "Desc": "이런 꿈세계를 상상해 보자: 당신은 스스로를 완전히 제어할 수 있고, 자신이 생각한 모든 아름다운 것들을 얻을 수 있다",
+        "Unlock": "개척 임무 「잠 못 이루는 밤」 완료 시 획득",
+        "Group": 4
+    },
+    {
+        "Name": "결코 더는",
+        "Desc": "까마귀가 말했네. 「결코 더는」",
+        "Unlock": "개척 임무 「누가 살해했는가…」 완료 시 획득",
+        "Group": 4
+    },
+    {
+        "Name": "그리고 아무도 없었다",
+        "Desc": "악몽의 세계에 오신 걸 환영합니다",
+        "Unlock": "개척 임무 「거울을 통해 어렴풋이」 완료 시 획득",
+        "Group": 4
+    },
+    {
+        "Name": "페어플레이",
+        "Desc": "…첫 번째, 모든 단서는 반드시 명확하고 공정하게 주인공에게 드러나야 한다……",
+        "Unlock": "페나코니 「레버리」 호텔-꿈세계 탐사로 획득",
+        "Group": 4
+    },
+    {
+        "Name": "또 다른 플레이어",
+        "Desc": "이 성대한 축제에서, 당신은 유일한 플레이어가 아니다",
+        "Unlock": "페나코니의 파티 마니아 댄시로부터 구매하여 획득",
+        "Group": 4
+    },
+    {
+        "Name": "독자에 대한 도전",
+        "Desc": "모든 단서가 모였다. 즐거운 사냥 되시길",
+        "Unlock": "동행 임무 「가면의 듀엣」 완료 시 획득",
+        "Group": 4
+    },
+    {
+        "Name": "대낮에 대한 저항",
+        "Desc": "심장 소리는 마치 그림자처럼 따라다니고, 때때로 단단한 금속과 돌이 부딪치는 소리가 들려온다",
+        "Unlock": "페나코니의 파티 마니아 댄시로부터 구매하여 획득",
+        "Group": 4
+    },
+    {
+        "Name": "잠자는 갈매기와 해오라기",
+        "Desc": "잠자는 갈매기와 해오라기, 소리 없이 고요하구나",
+        "Unlock": "모험 임무 「요괴 퇴치팀•골드 메달」 완료 시 획득",
         "Group": 3
     },
     {
-        "Name": "Dancing Fantasms",
-        "Desc": "I shall strike a melody, to which the troupe of phantoms shall dance.",
-        "Unlock": "Obtained from completing the Trailblaze Continuance \"Sojourners' Ghastly Reverie\"",
+        "Name": "춤추는 귀신들",
+        "Desc": "돌을 쳐서 박자를 맞추니, 귀신들이 춤을 추네",
+        "Unlock": "개척 후문 임무 「유원경몽」 완료 시 획득",
         "Group": 3
     },
     {
-        "Name": "Paean of Indulgence",
-        "Desc": "When the clouds stir and melodies arise, poetry weaves, enchanted by the pen's guise.",
-        "Unlock": "Obtained from completing the Adventure Mission \"Back in Business (IV)\"",
+        "Name": "술에 담긴 노래",
+        "Desc": "구름 따라 노래를 부르니, 시도 취흥에 겨워 비틀거리는구나",
+        "Unlock": "모험 임무 「다시 부흥하는 금빛•4」 완료 시 획득",
         "Group": 3
     },
     {
-        "Name": "Pedujara: Demiseless Existence",
-        "Desc": "Dawn after dark, tranquil after turmoil.",
-        "Unlock": "Obtained from completing Trailblaze Mission \"A Dragon Gallant, Its Ocean Distant\"",
+        "Name": "매미의 노래•끊임없는 생",
+        "Desc": "재난이 지나니 하늘은 그늘이 없고 기운이 맑도다",
+        "Unlock": "개척 임무 「고고한 용, 아득한 못」 완료 시 획득",
         "Group": 3
     },
     {
-        "Name": "Pedujara: Even Immortality Ends",
-        "Desc": "O, the days are painful and fleeting! O, spirit and soul rot and fall! O, the Sun and Moon are disturbed in their cycle! O, the weak candlelights rekindle!",
-        "Unlock": "Obtained from completing Trailblaze Mission \"A Dragon Gallant, Its Ocean Distant\"",
+        "Name": "매미의 노래•불멸의 끝",
+        "Desc": "명암은 고단하고 혼백은 흩어진다. 세월은 혼란하고 촛불은 다시 타오른다",
+        "Unlock": "개척 임무 「고고한 용, 아득한 못」 완료 시 획득",
         "Group": 3
     },
     {
-        "Name": "Pedujara: Ephemeral Cycle",
-        "Desc": "Prosper in dawn, perish by dusk. So much sorrow in so little time, such is a mayfly's life paradigm.",
-        "Unlock": "Can be purchased at Spare Time Book Shop on the Xianzhou Luofu after completing the Trailblaze Mission \"A Dragon Gallant, Its Ocean Distant\"",
+        "Name": "매미의 노래•짧은 빛과 어둠",
+        "Desc": "아침엔 무성하고 저녁엔 초췌하네. 덧없는 하루살이 인생은 고단하구나",
+        "Unlock": "개척 임무 「고고한 용, 아득한 못」 완료 후 선주 「나부」 「삼여책방」에서 구매로 획득",
         "Group": 3
     },
     {
-        "Name": "Arteria Inceptionis",
-        "Desc": "Verdurous arbor, sprout again from shriveled bough. Old immortal dreams, wake then regress to slumber.",
-        "Unlock": "Can be purchased at Spare Time Book Shop on the Xianzhou Luofu after completing the Trailblaze Mission \"A Dragon Gallant, Its Ocean Distant\"",
+        "Name": "현빈지문, 만물의 근원",
+        "Desc": "무성한 나무는 부활하고, 불사의 오랜 꿈은 다시 잠드네",
+        "Unlock": "개척 임무 「고고한 용, 아득한 못」 완료 후 선주 「나부」 「삼여책방」에서 구매로 획득",
         "Group": 3
     },
     {
-        "Name": "Obscured Pearls",
-        "Desc": "Enigmatic, these waves and smoke, never restored even after a thousand lifetimes. Lacrimal, these seabound pearls, and all souls unite in lament and grief and sorrow.",
-        "Unlock": "Obtained by completing the Adventure Mission \"Bestial Ferocity: The End\"",
+        "Name": "진주를 품은 바다",
+        "Desc": "안개 자욱한 수면은 수수께끼 같고, 세월은 돌아오지 않네. 연못의 진주는 눈물이 되어, 모든 생령이 슬퍼하네",
+        "Unlock": "모험 임무 「동물은 사나워•종막」 완료 시 획득",
         "Group": 3
     },
     {
-        "Name": "Samudrartha",
-        "Desc": "The heavenly depths roar, to which ancient tides swell.",
-        "Unlock": "Obtained after completing the Companion Mission \"The Dragon Returns Home\"",
+        "Name": "수룡음(水龍吟)",
+        "Desc": "하늘의 연못이 우니 만고의 파도가 요동치네",
+        "Unlock": "동행 임무 「용의 귀향」 완료 시 획득",
         "Group": 3
     },
     {
-        "Name": "Erstwhile Resonance",
-        "Desc": "The dragon returns home, but its house is nowhere to be found.",
-        "Unlock": "Obtained by completing the Adventure Mission \"Todd Riordan's Academic Research: The Three Draconic Transformations\"",
+        "Name": "고해 궁터",
+        "Desc": "용이 귀향하니 거처가 묘연하구나",
+        "Unlock": "모험 임무 「토드•리오단의 학술 연구: 삼변하는 용」 완료 시 획득",
         "Group": 3
     },
     {
-        "Name": "Evanescent Dreams",
-        "Desc": "Life is but an illusion, inevitably dissipating into emptiness.",
-        "Unlock": "Can be purchased at Spare Time Book Shop on the Xianzhou Luofu after completing the Trailblaze Mission \"A Dragon Gallant, Its Ocean Distant\"",
+        "Name": "안개와 노을처럼 사라지는 꿈",
+        "Desc": "인생은 결국 허무로 돌아간다네",
+        "Unlock": "개척 임무 「고고한 용, 아득한 못」 완료 후 선주 「나부」 「삼여책방」에서 구매로 획득",
         "Group": 3
     },
     {
-        "Name": "Gleaming Clash",
-        "Desc": "Gallant as a hero goes the young man, born with courage enough for ten thousand.",
-        "Unlock": "Can be purchased at Spare Time Book Shop on the Xianzhou Luofu after completing the Trailblaze Mission \"A Dragon Gallant, Its Ocean Distant\"",
+        "Name": "검광에 비친 용 그림자",
+        "Desc": "소년은 패기 넘치고 용감한 의협이 되고 싶다네",
+        "Unlock": "개척 임무 「고고한 용, 아득한 못」 완료 후 선주 「나부」 「삼여책방」에서 구매로 획득",
         "Group": 3
     },
     {
-        "Name": "Mokshasatya",
-        "Desc": "Like a stagnant illusion, life has always been a dream. Dispel the delusions and reveal the truth — return to the way of Sanctus Medicus.",
-        "Unlock": "Can be purchased at Spare Time Book Shop on the Xianzhou Luofu after completing the Trailblaze Mission \"A Dragon Gallant, Its Ocean Distant\"",
+        "Name": "해탈의 진리",
+        "Desc": "환상처럼 인간사 덧없는 꿈이로다. 허상이 깨지며 진실이 드러나니, 약왕의 도로 돌아오네",
+        "Unlock": "개척 임무 「고고한 용, 아득한 못」 완료 후 선주 「나부」 「삼여책방」에서 구매로 획득",
         "Group": 3
     },
     {
-        "Name": "Sanctus Medicus Dharani",
-        "Desc": "The mercy of Sanctus Medicus, the Ambrosial Arbor's new growth. Disciples shall attain enlightenment together.",
-        "Unlock": "Obtained from completing the Trailblaze Mission \"Desolate Depths of Despair\"",
+        "Name": "약왕구세다라니",
+        "Desc": "약왕의 자애로운 마음에 불멸의 거목이 자라나니 한마음으로 극락의 기쁨을 누리리",
+        "Unlock": "개척 임무「연단로와 거목, 절망의 나락」 완료 시 획득",
         "Group": 3
     },
     {
-        "Name": "Into the Breach",
-        "Desc": "A calm heart repels a hundred spears, and a serene soul quells the battlefield.",
-        "Unlock": "Obtained after completing the Companion Mission \"Evanesce Like the Morning Dew\"",
+        "Name": "전장의 자유",
+        "Desc": "고요한 마음이 백 개의 창을 물리치고, 고요한 영혼이 전장을 잠재운다",
+        "Unlock": "동행 임무 「아침 이슬처럼」 완료 시 획득",
         "Group": 3
     },
     {
-        "Name": "Hunter's Intuition",
-        "Desc": "To have true discernment is to have the eye of a hunter.",
-        "Unlock": "Obtained by completing Companion Mission \"Letter from a Strange Woman\"",
+        "Name": "사냥꾼의 직감",
+        "Desc": "그 사냥꾼 눈도 참 밝구나",
+        "Unlock": "동행 임무 「낯선 여인의 편지」 완료 시 획득",
         "Group": 3
     },
     {
-        "Name": "Thundering Chariot",
-        "Desc": "Thunder roars and rumbles, after lightning flashes and tears the skyfall.",
-        "Unlock": "Obtained from exploring the Central Starskiff Haven in the Xianzhou Luofu",
+        "Name": "대지를 흔드는 우뢰",
+        "Desc": "천둥이 끊이지 않고, 번개가 힘차게 흐른다",
+        "Unlock": "선주 「나부」 별뗏목의 바다 심장부 탐사로 획득",
         "Group": 3
     },
     {
-        "Name": "Fabulous Foresight",
-        "Desc": "Though everything may change in a flash, my strategies can keep things under control.",
-        "Unlock": "Obtained from exploring the Seat of Divine Foresight in the Xianzhou Luofu",
+        "Name": "제압 묘책",
+        "Desc": "모든 것이 순식간에 바뀌더라도, 오직 전략만으로 승부한다",
+        "Unlock": "선주 「나부」 신책부 탐사로 획득",
         "Group": 3
     },
     {
-        "Name": "Lustrous Moonlight",
-        "Desc": "Stainless is the clear night. The moon is silver bright. Fill my cup, and make sure it brims up.",
-        "Unlock": "Obtained from completing Trailblaze Mission \"Omniscient Inquiry of Arcana\"",
+        "Name": "달빛의 연회",
+        "Desc": "먼지 한 톨 없는 맑은 밤. 달은 은빛으로 빛난다. 술잔을 가득 채워야 한다",
+        "Unlock": "개척 임무 「궁극의 탐구, 역사의 장관」 완료 시 획득",
         "Group": 3
     },
     {
-        "Name": "Deerstalker",
-        "Desc": "A desperate deer will resort to any means to escape.",
-        "Unlock": "Obtained from completing Trailblaze Mission \"Humming Antlers, Entwined Horns\"",
+        "Name": "사슴 사냥",
+        "Desc": "필사적인 사슴은 도망치기 위해 숨을 곳을 가리지 않는다",
+        "Unlock": "개척 임무 「사슴의 울음, 뿔의 얽힘」 완료 시 획득",
         "Group": 3
     },
     {
-        "Name": "Blade Abracadabra",
-        "Desc": "Blade dancing amongst the willow, light streaking out of the sheath.",
-        "Unlock": "Obtained after completing the Companion Mission \"Frosty Blade's Trial\"",
+        "Name": "분주한 칼날",
+        "Desc": "버드나무 사이에서 춤추는 칼날, 칼집에서 뿜어져 나오는 빛",
+        "Unlock": "동행 임무 「서늘한 칼날의 시련」 완료 시 획득",
         "Group": 3
     },
     {
-        "Name": "Into the Desolate",
-        "Desc": "The wind blows and the waves roar, the leaves quake, and valleys echo.",
-        "Unlock": "Obtained after completing the Companion Mission \"A Knight Stranger\"",
+        "Name": "두루미 울음",
+        "Desc": "바람이 파도를 일으키니 초목이 울리고 산골짜기가 응답한다",
+        "Unlock": "동행 임무 「이방 기사」 완료 시 획득",
         "Group": 3
     },
     {
-        "Name": "Warden of Jade",
-        "Desc": "The night sky envelopes the world in a curtain of swirling stars.",
-        "Unlock": "Obtain by Completing the Companion Mission \"I Already Touched the Sky\"",
+        "Name": "가슴 속 옥계",
+        "Desc": "별들이 소용돌이치며 세상에 장막을 드리우네",
+        "Unlock": "동행 임무 「난 하늘을 느껴버렸거든」 완료 시 획득",
         "Group": 3
     },
     {
-        "Name": "Anthropic Domain",
-        "Desc": "The sun rises and sets, the moon waxes and wanes. The days turn, the seasons pass. The land thrives, the people prosper. As the cosmos stretches overhead.",
-        "Unlock": "Purchased from the Grocery Stand in the Xianzhou Luofu",
+        "Name": "천하 흥성",
+        "Desc": "해와 달이 차오르고 지고, 은하수가 빛난다. 겨울과 여름이 오고 가고, 천하가 흥성한다",
+        "Unlock": "선주 「나부」 「잡화 노점」에서 구매로 획득",
         "Group": 3
     },
     {
-        "Name": "Exquisite Ingenuity",
-        "Desc": "By measuring, the load-bearing of starskiffs derived. By examination, the quality of material determined. Meticulously, detailed blueprints drafted. Meticulously followed, exquisite delves constructed.",
-        "Unlock": "Obtained from completing Trailblaze Mission \"Omniscient Inquiry of Arcana\"",
+        "Name": "정교한 기교",
+        "Desc": "뗏목의 부피를 측정해 적재량을 도출한다. 정밀한 설계를 세심하게 따라 제작한다. 그 미세한 차이를 계산하며 동천을 건설한다",
+        "Unlock": "개척 임무 「궁극의 탐구, 역사의 장관」 완료 시 획득",
         "Group": 3
     },
     {
-        "Name": "Upon the Firmament",
-        "Desc": "Gaze up, and study the laws of astronomy. Look down, and observe the features of geography. Only then would the formation of night and day be clear in your mind.",
-        "Unlock": "Obtained from completing Trailblaze Mission \"Wood Sprouts Anew, Fate Tilts Askew\"",
+        "Name": "궁관부앙",
+        "Desc": "위로는 천문을 바라보고, 밑으로는 지리를 탐구하면 낮과 밤의 이치가 마음속에 자리 잡을 것이다",
+        "Unlock": "개척 임무 「움트는 신목, 기울어진 운명」 완료 시 획득",
         "Group": 3
     },
     {
-        "Name": "Ave Astra et Viator",
-        "Desc": "The traveler's spirit wanders on, showered in starlight evermore.",
-        "Unlock": "Obtained from completing Trailblaze Mission \"Stars Spun, Prescience Sprung\"",
+        "Name": "별이 비추는 여혼",
+        "Desc": "길을 따라가면 별빛이 떠도는 영혼을 비춘다",
+        "Unlock": "개척 임무 「별의 선회, 미래 예견」 완료 시 획득",
         "Group": 3
     },
     {
-        "Name": "Cumulus Formations",
-        "Desc": "Clear skies, soothed darkness, yet a quick shower followed by sun. Appearing clouds, fading clouds, enigmatic as life itself.",
-        "Unlock": "Obtained from completing Trailblaze Mission \"Devising Stratagems\"",
+        "Name": "운진사합",
+        "Desc": "하늘은 높고 안개가 걷히는데, 맑은 하늘에 비가 이리 빨리 올 줄 어찌 알았으랴. 구름은 생겨났다 사라지고, 세상만사가 수수께끼와 같도다",
+        "Unlock": "개척 임무 「알현, 장군의 전략」 완료 시 획득",
         "Group": 3
     },
     {
-        "Name": "Sleep Tight",
-        "Desc": "Dreams wind deep into the snowstorm, where the departed whisper softly.",
-        "Unlock": "Explore the Belobog History and Culture Museum",
+        "Name": "단잠",
+        "Desc": "꿈은 눈보라 속으로 굽이치고 죽은 자는 속삭인다",
+        "Unlock": "벨로보그 역사문화박물관 구역 탐사로 획득",
         "Group": 2
     },
     {
-        "Name": "Streets Abuzz",
-        "Desc": "Only by igniting the dancing bonfire can these people not be forgotten by this frigid planet.",
-        "Unlock": "Obtained from completing the Trailblaze Mission \"In the Dangerous Muddy Swamp\"",
+        "Name": "시끌벅적",
+        "Desc": "춤추는 모닥불이 피어나야지만 이 차가운 행성이 인간을 잊지 않는다",
+        "Unlock": "개척 임무 「위기와 진창의 늪에서」 완료 시 획득",
         "Group": 2
     },
     {
-        "Name": "Warm Sun",
-        "Desc": "Enjoyable moments are like the warm winter sun. They are fragile and brief, but their momentary warmth soothes the difficulty of the long years.",
-        "Unlock": "Obtained from exploring the Eversummer Florist of Belobog",
+        "Name": "따스한 태양",
+        "Desc": "즐거운 한때는 마치 겨울날의 따스한 햇빛과도 같다. 그것은 찰나에 불과하지만, 그 순간의 따스함은 기나긴 세월의 고단함을 어루만진다",
+        "Unlock": "벨로보그 꽃집 「에버 썸머」 구역 탐사로 획득",
         "Group": 2
     },
     {
-        "Name": "Hearthfire",
-        "Desc": "Happiness is just having a crackling fire and friends and family by one's side.",
-        "Unlock": "Purchasable from the Belobog Food Stall",
+        "Name": "화롯불",
+        "Desc": "행복이란 사실 간단한 것이다. 화롯불이 탁탁 타오르는 소리와 친구가 곁에 있기만 하면 된다",
+        "Unlock": "벨로보그 「포장마차」에서 구매로 획득",
         "Group": 2
     },
     {
-        "Name": "Embers",
-        "Desc": "It is even a luxury for some people to pass a peaceful day before warm embers.",
-        "Unlock": "Obtained from exploring the Golden Theater of Belobog",
+        "Name": "잔화",
+        "Desc": "따스한 잔화 옆에서 보내는 하루는 어떤 사람에게는 한낱 사치일 뿐이다",
+        "Unlock": "벨로보그 골든 극장 구역 탐사로 획득",
         "Group": 2
     },
     {
-        "Name": "Fate",
-        "Desc": "The moment of choice is here. The road to the future is so near, yet so far.",
-        "Unlock": "Obtained from completing Trailblaze Mission \"The Return\"",
+        "Name": "운명의 길",
+        "Desc": "선택의 순간이 다가왔다. 미래로 향하는 길은 이토록 가깝지만, 또한 너무나도 멀다",
+        "Unlock": "개척 임무 「복귀」 완료 시 획득",
         "Group": 2
     },
     {
-        "Name": "Everwinter",
-        "Desc": "Humanity's living space grows ever smaller in the ceaseless Eternal Freeze.",
-        "Unlock": "Obtained from completing Trailblaze Mission \"The Return\"",
+        "Name": "영원한 겨울",
+        "Desc": "한파가 계속되는 한, 인류의 생존 공간은 계속해서 좁아질 뿐이다",
+        "Unlock": "개척 임무 「복귀」 완료 시 획득",
         "Group": 2
     },
     {
-        "Name": "Ghost From the Past",
-        "Desc": "The shadow of destruction still wanders outside Belobog.",
-        "Unlock": "Obtained from completing Trailblaze Mission \"The Past Will Return as an Avalanche\"",
+        "Name": "과거의 그림자",
+        "Desc": "파괴의 그림자가 시종일관 벨로보그 성밖을 배회한다",
+        "Unlock": "개척 임무 「눈사태처럼 돌아오는 떠난 이」 완료 시 획득",
         "Group": 2
     },
     {
-        "Name": "Faded Sun",
-        "Desc": "There are no major differences between the Belobog of today and the past. The only difference might be the ever-colder nights.",
-        "Unlock": "Obtained from completing Trailblaze Mission \"Ones Fallen Into the Abyss\"",
+        "Name": "식어가는 태양",
+        "Desc": "벨로보그의 과거와 현재는 크게 다르지 않다. 유일한 차이는 갈수록 추워지는 밤뿐일지도",
+        "Unlock": "개척 임무 「심연으로 추락한 자들」 완료 시 획득",
         "Group": 2
     },
     {
-        "Name": "Wildfire",
-        "Desc": "You must break the old to build the new.",
-        "Unlock": "Obtained from completing the Trailblaze Mission \"Silent Galaxy\"",
+        "Name": "들불",
+        "Desc": "「옛것을 타파하지 않고선 새것을 세울 수 없다」",
+        "Unlock": "개척 임무 「고요한 은하」 완료 시 획득",
         "Group": 2
     },
     {
-        "Name": "A Trap With No Return",
-        "Desc": "THEIR power is with me... You are but cinders of the Old World soon to become ashes!",
-        "Unlock": "Obtained from completing the Trailblaze Mission \"Silent Galaxy\"",
+        "Name": "임전무퇴",
+        "Desc": "「그분의 힘이 나와 함께 한다… 너희가 하고 있는 건 구세계가 붕괴하기 전 최후의 발악일 뿐이지!」",
+        "Unlock": "개척 임무 「고요한 은하」 완료 시 획득",
         "Group": 2
     },
     {
-        "Name": "Frozen March",
-        "Desc": "Why, when faced with irrefutable strength, is our first thought always to resist, to cover our ears, instead of hearing the call?",
-        "Unlock": "Obtained from completing Companion Mission \"Only A Child\"",
+        "Name": "혹한 행군",
+        "Desc": "「왜 항변할 수 없는 힘과 마주했을 때, 우리는 왜 늘 요구를 들어보려 하지도 않은 채 우선 대항하고 귀를 막을까?」",
+        "Unlock": "동행 임무 「그저 아이일 뿐」 완료 시 획득",
         "Group": 2
     },
     {
-        "Name": "Godfather",
-        "Desc": "Everything he did using his power was to protect his family.",
-        "Unlock": "Obtained from completing the Companion Mission \"Rarely Affectionate (Part 1)\"",
+        "Name": "대부",
+        "Desc": "그의 힘으로 한 모든 일은 그저 가족을 지키기 위함이었다",
+        "Unlock": "동행 임무 「귀한 애정•1」 완료 시 획득",
         "Group": 2
     },
     {
-        "Name": "Underground",
-        "Desc": "People are still defending their homes even in the underground world.",
-        "Unlock": "Obtained from completing the Companion Mission \"Hook's Gift\"",
+        "Name": "지하",
+        "Desc": "지표면 아래의 세계에도 삶의 터전을 지키려는 사람들이 있다",
+        "Unlock": "동행 임무 「후크의 선물」 완료 시 획득",
         "Group": 2
     },
     {
-        "Name": "Kindling",
-        "Desc": "The blizzard cannot put out all warmth. The final kindling rises from below the earth.",
-        "Unlock": "Obtained from completing the Companion Mission \"Blizzard Immunity\"",
+        "Name": "불씨",
+        "Desc": "눈보라조차도 모든 온기를 꺼버릴 수는 없다. 최후의 불씨는 지하에서 솟아오른다",
+        "Unlock": "동행 임무 「눈보라 면역」 완료 시 획득",
         "Group": 2
     },
     {
-        "Name": "Order",
-        "Desc": "Like the tall walls blocking the blizzard, an order was erected by the Architects themselves.",
-        "Unlock": "Purchasable from the Belobog Administrative District Shop",
+        "Name": "질서",
+        "Desc": "눈보라를 막아주는 장벽처럼, 질서 역시 축성가들에 의해 세워졌다",
+        "Unlock": "벨로보그 「행정구역 상점」에서 구매로 획득",
         "Group": 2
     },
     {
-        "Name": "A Gentleman's Fantasy",
-        "Desc": "Here is the golden age of the Cosmos where faith and pain intertwine. The only thing he left behind was a pure innocence that became madder by the day.",
-        "Unlock": "Obtained after completing the Companion Mission \"Night of Universal Hallucinations\"",
+        "Name": "비범한 신사",
+        "Desc": "여기는 신앙과 통각이 뒤엉킨 은하의 황금 시대, 그는 나날이 더해가는 광기의 순진함만을 남겼다",
+        "Unlock": "동행 임무 「우주 환각의 밤」 완료 시 획득",
         "Group": 1
     },
     {
-        "Name": "Cosmic Sacrifice for Love",
-        "Desc": "As though fireworks were set off upon the skies, love and death bloom simultaneously.",
-        "Unlock": "Obtained after completing the Companion Mission \"Night of Universal Hallucinations\"",
+        "Name": "우주가 사랑을 위해 목숨을 바칠 때",
+        "Desc": "갑작스럽게 하늘에서 터지는 폭죽처럼, 사랑과 죽음이 함께 피어난다",
+        "Unlock": "동행 임무 「우주 환각의 밤」 완료 시 획득",
         "Group": 1
     },
     {
-        "Name": "Flashpoint",
-        "Desc": "I forgot to even breathe the moment when the explosion happened.",
-        "Unlock": "Obtained from completing the Companion Mission \"You Already Know Me\"",
+        "Name": "일촉즉발",
+        "Desc": "압력이 폭발하는 순간, 숨을 쉬는 것조차 잊어버리게 되었다",
+        "Unlock": "동행 임무 「무명인사」 완료 시 획득",
         "Group": 1
     },
     {
-        "Name": "Crises",
-        "Desc": "If one can predict future crises and dangers... Pity there is no \"if only.\"",
-        "Unlock": "Obtained from exploring Herta Space Station's master control zone",
+        "Name": "위기 감지",
+        "Desc": "만약 미래의 위기와 위험을 예지할 수 있다면… 하지만 아쉽게도 「만약」이라는 것은 없다",
+        "Unlock": "우주정거장 「헤르타」 메인 컨트롤 캐빈 탐사로 획득",
         "Group": 1
     },
     {
-        "Name": "Take the Journey",
-        "Desc": "No one knows what awaits them ahead on the journey, so just taking this first step can be daunting.",
-        "Unlock": "Unlocked by Default",
+        "Name": "여정을 떠나요",
+        "Desc": "여정의 길에 무엇이 기다리고 있을지 아는 사람은 아무도 없기에, 한 발자국만 내딛어도 두렵다",
+        "Unlock": "기본 개방",
         "Group": 1
     },
     {
-        "Name": "Salty Moon",
-        "Desc": "Recipe: Wildfire-soaked maguey, a lemon slice charged with murder, and a handful of salt fermented from the tears of stars.",
-        "Unlock": "Unlocked by Default",
+        "Name": "솔티 문",
+        "Desc": "레시피: 불에 데친 용설란, 살인 사건을 등에 지고 있는 레몬 슬라이스, 별빛 눈물로 빚어낸 소금",
+        "Unlock": "기본 개방",
         "Group": 1
     },
     {
-        "Name": "Space Walk",
-        "Desc": "Step outside and enter the sky, transcend the light years, and roam the stars.",
-        "Unlock": "Default Unlock",
+        "Name": "우주 유영",
+        "Desc": "한 걸음 내디디면 그곳은 하늘의 경계. 광년을 초월해 별들 사이를 거닌다",
+        "Unlock": "기본 개방",
         "Group": 1
     },
     {
-        "Name": "Science Fiction",
-        "Desc": "While fantasy longs to lead the world astray, science had steadily and soberly chosen its path.",
-        "Unlock": "Unlocked by Default",
+        "Name": "SF소설",
+        "Desc": "판타지가 세계를 미로에 빠트리고 싶어하는 한편, 과학은 천천히 그리고 분명하게 가야 할 길을 골랐다",
+        "Unlock": "기본 개방",
         "Group": 1
     },
     {
-        "Name": "fReeStyLE",
-        "Desc": "Life is like a play, and everyone lives by their ability to perform. Even the most honest person will have days when they need to improv.",
-        "Unlock": "Obtained from completing the Companion Mission \"An Unexpected Turn of Events\"",
+        "Name": "프리스타일",
+        "Desc": "인생은 연극과도 같아서 연기하기 나름이다. 아무리 정직한 사람이라도 프리스타일이 필요할 때가 있다",
+        "Unlock": "동행 임무 「우연한 사고」 완료 시 획득",
         "Group": 1
     },
     {
-        "Name": "The Game Is On",
-        "Desc": "Bubble gum, potato chips, and iced soda. All is ready and Silver Wolf's favorite show is about to start.",
-        "Unlock": "Default Unlock",
+        "Name": "쇼타임",
+        "Desc": "풍선껌과 감자칩, 그리고 차가운 탄산음료. 모든 것이 준비되었다. 이제 곧 은랑이 가장 좋아하는 프로가 상영된다",
+        "Unlock": "기본 개방",
         "Group": 1
     },
     {
-        "Name": "Dawn of Disaster",
-        "Desc": "After the disaster, very few people were willing to investigate whether it was an accidental calamity or a calculated plot.",
-        "Unlock": "Obtained from exploring Herta Space Station's base zone",
+        "Name": "재난의 여명",
+        "Desc": "재난이 휩쓸고 간 후, 소수의 사람들만이 그것이 불의의 재난인지, 아니면 누군가의 계략인지 알아내려 한다",
+        "Unlock": "우주정거장 「헤르타」 베이스 캐빈 탐사로 획득",
         "Group": 1
     },
     {
-        "Name": "Timeline",
-        "Desc": "Once upon a time, you set foot on your journey from here.",
-        "Unlock": "Default Unlock",
+        "Name": "타임라인",
+        "Desc": "모든 것의 시작, 여행은 여기서 출발한다",
+        "Unlock": "기본 개방",
         "Group": 1
     }
 ]
@@ -486,19 +660,19 @@ var _rec = [
 var _recgroup = [
     {
         "_id": 1,
-        "Name": "<i>Out of Control</i>"
+        "Name": "통제 불능"
     },
     {
         "_id": 2,
-        "Name": "<i>Of Snow and Ember</i>"
+        "Name": "잿더미에 녹아내린 눈"
     },
     {
         "_id": 3,
-        "Name": "<i>Svah Sanishyu</i>"
+        "Name": "긴 생의 짧은 꿈"
     },
     {
         "_id": 4,
-        "Name": "The Flapper Sinthome"
+        "Name": "플래퍼 생톰"
     }
 ]
 

@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23009": "He would come to this place every year, bringing new swords with him each time.<br>He had seen all the owners of the swords draw their last breath.<br>Every time he leaves, he would sorrowfully ponder...<br><br>When would his own blade be brought here by someone else?"
+    "23009": "그는 매년 이곳에 새로운 검들을 가지고 온다.<br>검의 주인들, 그는 그들의 마지막 모습을 보았다.<br>그는 떠날 때마다 아쉬움에 잠긴다…….<br><br>자신의 검은 언제쯤 누가 이곳으로 가져와줄까…."
 }
 
 var _weaponskill_ = {

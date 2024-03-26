@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21040": "<i>\"Molten Cheese Tart! You are in charge of disarming the planet's lookouts with your charm!\"</i><br><i>\"Gray Bean Paste! You will be in charge of breaching the planet's line of defense!\"</i><br><i>\"Salty Rimeplume! Bring us the head of the planet's leader!\"</i><br><i>\"My lord, what are you going to do!\"</i><br><i>\"I shall pretend to be an adorable kitten to befuddle these stupid humans!\"</i><br><br>That day, the Cosmos remembered... the terror of being ruled by them."
+    "21040": "<i>「チーズフォンデュケーキ！お前は星の守備隊を混乱させろ！」</i><br><i>「アズキアッシュ！お前は星の兵士たちを攻め落とせ！」</i><br><i>「梅干し！お前は星の首脳陣を倒せ！」</i><br><i>「キング、どこへ行かれるのですか！」</i><br><i>「私は可愛い猫を装って、愚かな人類を誘惑してくる！」</i><br><br>その日、銀河のあらゆる文明は思い出した。彼らに支配されていた恐怖を……"
 }
 
 var _weaponskill_ = {

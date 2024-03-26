@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23000": "If you are concerned for the road, just look up again.<br>When the stars look gently down, the heart would already be soaring.<br>Every thought and every whisper,<br>becomes a life experience that would never leave."
+    "23000": "발밑이 걱정된다면 다시 한번 하늘을 올려다 보라.<br>별들이 보내주는 부드러운 시선을 느끼면 마음은 바람을 타고 날아오를 테니까.<br>떠오르는 생각과 들려오는 속삭임은<br>모두 언제까지나 삶의 버팀목이 되어줄 것이다"
 }
 
 var _weaponskill_ = {

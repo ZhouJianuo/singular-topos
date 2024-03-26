@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21011": "She had no idea what to expect when she first started out on this journey.<br>All she knew was that she could at long last be rid of the judgmental eyes and petty bickering of her family.<br>She felt she finally understood what the poet was trying to say.<br><i>\"One day, we would grow wings and forget what it was like to walk.\"</i><br><br>The light in her eyes became the glittering stars."
+    "21011": "出立する時、彼女はまだこの旅に対して何も知らなかった。<br>ただ、家のつまらない話から逃れ、所々から向けられる悪意や陰謀を避けられるとしか思っていなかった。<br>そして彼女が窓の外を眺めた時、ようやくあの詩の意味を知った。<br><i>「ある時がすぎたら、私たちは歩くのではなく、飛んでいた」</i><br><br>彼女の目に輝く光は、正しく惑星の倒影であった。"
 }
 
 var _weaponskill_ = {

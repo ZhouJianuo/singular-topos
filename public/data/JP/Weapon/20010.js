@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "20010": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate. <br><br><i>\"If you ever doubt these walls will lead us to victory, just look at these brave souls standing atop them.\"</i>"
+    "20010": "凝縮された時間から得られる希薄な力。一瞬にも満たない刹那が、壮絶な運命を織りなす。<br><br><i>「城壁の後ろにいる頑強な民たちは、防御も勝利に至る術の1つであることを証明した」</i>"
 }
 
 var _weaponskill_ = {

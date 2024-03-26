@@ -3,27 +3,27 @@
 var _relicitem_ = {
     "103": [
         {
-            "Name": "Knight's Forgiving Casque",
-            "Desc": "A casque that resembles the religious stone statues of the Goddess of Forgiveness. It was used to hide the wearer's appearance.",
-            "Story": "The Solemn Knight had never taken off her hard and heavy casque before anybody. Safina's religious solemnity and silence projected an unbearable air of intimidation.<br><br>Haughty devils and mad clergy all instinctively cowered in fear before her solemn presence.<br><br>Only few of the clergy knew that Safina's devilish origins were concealed behind that casque of religiosity. The church both feared and craved for the devils' powers, which was how the conflicted result came to be... The church captured a newborn devil, trained her to become a valiant Solemn Knight, yet forbid her to ever reveal her true appearance, molded her to always obey the pontiff's order, and eventually made her the Maiden's silent knight.<br><br>Maiden Vanira was of a similar age to Safina, and she was the one who guided Safina to learn the scriptures. To this day, Maiden Vanira could still remember the devil's profile in candlelight.<br><br>\"My dear Safina, I have seen your face. I will remember it, always.\" Maiden Vanira gradually lost her eyesight after reaching adulthood.",
+            "Name": "팔라딘의 용서 가면",
+            "Desc": "용서의 여신 종교 석상 형상의 가면 투구. 자신의 모습을 감추는 데 사용된다",
+            "Story": "정숙 기사는 사람들 앞에서 무거운 가면을 벗은 적이 없으며 엄숙한 종교적 얼굴과 사피나의 침묵이 아우러져 숨 막히는 위압감을 조성한다.<br><br>안하무인의 악마든 광기에 빠진 프리스트든 모두 엄숙한 위압에 본능적으로 두려움을 보인다.<br><br>소수의 프리스트만이 그 가면 속에 사피나가 악마를 숨겼다는 것을 안다. 교황청은 악마를 두려워하면서도 악마의 힘을 갈망해 모순된 결과를 낳았다… 어린 악마를 잡아 정숙 기사로 키워내어 그녀는 교황의 명령에 복종하는 성녀의 침묵 기사가 되었다.<br><br>또래의 성녀 바니라는 직접 사피나에게 경전을 가르쳤고, 그녀는 촛불 속 악마의 옆모습을 아직도 기억하고 있다.<br><br>「사랑하는 사피나여, 너의 얼굴을 본 적이 있고 항상 기억하고 있다」 성녀 바니라는 성인이 된 후 점차 실명했다",
             "Icon": "IconRelic_103_1.png"
         },
         {
-            "Name": "Knight's Silent Oath Ring",
-            "Desc": "A silver ring decorated with an ecclesiastical pattern, embedded with a rather cloudy gemstone.",
-            "Story": "Bit by bit, solemnity and decorum crumbled, and the Knights of the Church raised their swords against each other as the rings they swore to protect grew dim.<br><br>The power granted from the stellar seas gifted the Church the strength to punish devils, but also spread an insanity that ate away at human rationality.<br><br>Tormented by this madness, the Knights of the Church could no longer discern decorum and order, obsessed with expelling all devil-spawns for the salvation of the whole church. When these threats came for the Maiden, Safina had no time to hesitate. She cannot stay her hand even if her opponent was the Arch Knight of the Church of Purity Palace.<br><br>The Solemn Knight must always protect and defend the Maiden. Safina did not forget that creed.<br><br>\"My dear Safina, there is no need to feel guilty. This is the consequence of coveting the power of the Aeons.\" All there were left in the church were the last Maiden and her guardian knight.",
+            "Name": "팔라딘의 침묵 맹세 반지",
+            "Desc": "교회 문양으로 장식된 은반지. 약간 탁해 보이는 보석이 박혀있다",
+            "Story": "종교 기사 동료들이 칼을 휘두르고, 장엄함과 의례가 무너지면서 지키겠다고 다짐한 반지가 혼탁해지기 시작했다.<br><br>별바다가 내린 힘은 교회에 악마를 징벌하는 실력과 함께 인간성을 잃은 광기의 병도 퍼뜨렸다.<br><br>병에 시달린 종교 기사는 의례와 질서를 구분하지 못하고 모든 악마의 후예들을 몰아내고 교회를 구원하겠다고 떠들어댔다. 성녀에게 다가오는 위협에 직면한 사피나는 망설일 틈이 없었다. 비록 상대방이 정토 교회 기사장이라도, 그녀는 자비를 베풀 수 없었다.<br><br>정숙 기사는 반드시 성녀를 보호해야 한다는 걸 사피나는 잊지 않았다.<br><br>「사랑하는 사피나여, 죄책감을 가질 필요 없다, 이건 에이언즈 힘을 탐한 결과이고 당연한 거니까」 교회에는 최후의 성녀와 수호 기사만 남았다",
             "Icon": "IconRelic_103_2.png"
         },
         {
-            "Name": "Knight's Solemn Breastplate",
-            "Desc": "A heavy breastplate decorated with the distinctive symbols of the Church of Purity Palace. Even the joints are airtight.",
-            "Story": "The armor of the Solemn Knight must be blessed by Maiden Vanira, a ceremony where one makes a vow to become the guardian knight.<br><br>The Church once constrained the young devil's hands and feet in metal chains. Now, Safina appealed that her armor should be forged with metals from the land of devils, so that one day she may rest in peace alongside something from her homeland.<br><br>The Maiden of the Church of Purity Palace carefully washed the sins from the armor, recited reverent prayers to god, and sealed an ancient miracle on a point on the breastplate right above the heart. The Church did not believe in the loyalty of devils, but they were convinced that their doctrines could purify everything. Safina gazed in silence while this ancient ritual assigned the responsibility to her.<br><br>The Maiden did not believe that the ceremony had any purpose, or that there are any make-belief sins to be washed away.<br><br>\"My dear Safina, the knight must protect the Maiden well.\" Leaning against Safina's breastplate, Vanira could clearly hear the intense beating of Safina's heart.",
+            "Name": "기사의 엄숙 갑옷",
+            "Desc": "두꺼운 갑옷에 정토 교회의 부호가 선명하게 새겨져 있으며 관절 부위에도 바람이 통하지 않는다",
+            "Story": "정숙 기사의 갑옷은 성녀 바니라의 축복을 받아야 하며 이건 수호 기사의 서약을 맺는 의식이다.<br><br>교황청은 금속 사슬로 어린 악마의 손발을 묶곤 했다. 오늘날 사피나는 간청해 악마의 고향에서 온 금속으로 갑옷을 만들어 자신이 고향의 물건과 같이 안장되도록 했다.<br><br>정토 교회의 성녀는 갑옷의 죄악을 조심스럽게 닦아내며 경견하게 신의 기도사를 바쳐 영원한 기적을 갑옷의 심장 위치에 봉인했다. 교회는 악마의 충성심을 믿지 않았으면서도 교의가 가진 정화의 힘을 굳게 믿었다. 사피나는 침묵하며 복고의 의식이 자신에게 부여한 책임을 주시한다.<br><br>성녀는 있지도 않은 죄악을 씻겨낸다는 의식을 믿지 않았다.<br><br>「사랑하는 사피나여, 기사는 성녀를 잘 보호해야 한다」 바니라는 사피나의 갑옷에 기대어 격렬한 심장 박동 소리를 듣는다",
             "Icon": "IconRelic_103_3.png"
         },
         {
-            "Name": "Knight's Iron Boots of Order",
-            "Desc": "Standard boots distributed to the Knights of the Church of Purity Palace, with a simple word carved on their heels: Order.",
-            "Story": "After the collapse of the Church of Purity Palace, Safina took off the knight's iron boots and embarked with Maiden Vanira on a long journey to the land of devils.<br><br>At the request of the Maiden, Safina did not let any Knights of the Church carry the madness out of the Church. This secret was forever buried deep down in their hearts.<br><br>No one knew when this rumor started — a devil-spawn once banished by the Church had possessed the holy Solemn Knight, and an evil witch drove the Knight to break down the order of the pontiff... As time passed, rumors became truths. The devout followers of the Church blamed it all on the Solemn Knight, dumping all their desperation and madness onto her, deeming her as the source of all disasters.<br><br>After losing their place of refuge, the Maiden suggested that they should set forth for their homeland.<br><br>\"Henceforth, I will become a witch, and you will return to being a devil.\" Safina could not deny the validity of Vanira's statement.",
+            "Name": "팔라딘의 질서 철장화",
+            "Desc": "정토 교회 기사의 스탠다드 기사 장화. 뒤꿈치 부분에 「질서」라는 짧은 글자가 새겨져 있다",
+            "Story": "정토 교회는 무너졌고, 사피나는 기사의 신발을 벗고 성녀 바니라와 함께 악마의 고향으로 먼 길을 떠났다.<br><br>성녀의 간청에 따라 사피나는 그 어느 종교 기사도 광기의 병을 교황청 밖으로 내보내지 못하도록 했다. 비밀은 그들의 마음 속에 영원히 남겨질 것이다.<br><br>어느새 사람들은 소문을 들었다. 교회가 몰아낸 악마의 후예가 성결한 정숙 기사의 몸에 빙의되었고, 사악한 마녀가 이를 조종해 교황의 질서를 무너뜨렸다… 소문은 사실이 되었고, 독실한 신자들을 절망과 광기를 정숙 기사에게 쏟아내 모든 일의 원흉이 그녀라고 생각했다.<br><br>그리하여 갈 곳을 잃었고 성녀는 고향으로 돌아가자는 제안을 했다.<br><br>「이제 나는 마녀가 됐고 너는 악마가 되었어」 사피나는 바니라의 말에 부정할 수 없었다",
             "Icon": "IconRelic_103_4.png"
         }
     ]

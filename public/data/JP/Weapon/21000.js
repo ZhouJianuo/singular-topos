@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21000": "<i>\"You're awake... Thank you.\"<br>\"You... saved my life, Natasha. The one who should be saying thanks... is me.\"<br>\"No, I should be thanking you... for holding on until I finished the surgery.\"</i><br><br>The doctor and patient smiled wearily at each other and said nothing more."
+    "21000": "<i>「起きたのね……ありがとう」<br>「あ……あなたが私を助けてくれたのね……ナターシャ。感謝するのは私のほうよ」<br>「いいえ、君に感謝しているの……手術を乗り越えてくれてありがとう」</i><br><br>医者と患者は共に疲れたような笑顔を浮かべる。それ以上は何も言わなかった。"
 }
 
 var _weaponskill_ = {

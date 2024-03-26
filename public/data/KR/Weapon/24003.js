@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "24003": "Things molded by the hands of secrecy are shapeless and incorporeal.<br>In the totality of emptiness, there yet exists a sudden dreaming.<br>Those that court destruction will reap ruinous fruit, while those that clamor to live will survive.<br>That which is extinguished may yet spark, and that which has dried may yet be filled anew.<br>In compassion for the salvation of chaos, the elixir nurtures the shadows.<br>With back faced to the darkness between the stars, the encapsulation of this vessel can only be done in vain.<br><br><i>\"Paradoxical these knowings are, in them shine the fullness of our pride.\"</i>"
+    "24003": "자연에서 탄생한 신비한 것으로 형태와 실체가 없다.<br>만물은 공허하며, 한순간의 꿈에 불과하다.<br>죽고자 하면 죽을 것이고, 살고자 하면 살 것이다.<br>꺼진 것은 다시 빛을 찾고, 마른 것은 다시 채워질 것이다.<br>혼돈의 구원을 불쌍히 여기고, 영약은 허영을 키운다.<br>별의 어두운 면을 등진 채, 병 속에 봉인되었다.<br><br><i>「이러한 역설을 우리는 오히려 영광으로 여기는 구나」</i>"
 }
 
 var _weaponskill_ = {

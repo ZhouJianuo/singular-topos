@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "22001": "Three girls stroll in the darkness, and the surroundings seem to gain a hint of eeriness.<br>\"Huohuo, hurry up, or we won't wait for you!\"<br>She steps forward confidently with her phone clutched in her hand, seemingly unaffected by the paranormal ambiance.<br>\"I—I'm over here!\"<br>The girl standing ahead responds timidly.<br>\"Huh? So you were in the front all along, then who is following Shangshang and me...\"<br><br>The perfect end for this scene would definitely be a girlish scream."
+    "22001": "3人の少女は夜闇の中を歩いていた。周囲の景色が暗闇に幾分かの不気味さを添える。<br>「フォフォ、早く！じゃないと先に行っちゃうよ！」<br>スマホを掲げながらスタスタと前に進む彼女は、まったく恐怖を感じていないようだった。<br>「ア…アタシはこっちだよ！」<br>前に立っていた少女がおずおずと応える。<br>「あれ？あたしたちの前にいたの？じゃ、じゃあ、あたしとすーちゃんの後ろにいるのは……」<br><br>この場面に最も相応しい終止符は、少女の鋭い悲鳴に違いない。"
 }
 
 var _weaponskill_ = {

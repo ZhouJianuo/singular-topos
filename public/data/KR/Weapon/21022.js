@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21022": "The phonograph record is being played, spinning nonstop. Even the sounds of all those hoarse shrieks cannot escape the heatwave and are dampened by its tepidity.<br>She seemed unprepared and utterly enthralled by the fascinating melodies:<br><br>It started with sincerity and anticipation...<br>...followed by a passionate catharsis...<br>...with one climax after another...<br><br>...until the record's spinning came to a final stop and those hoarse shrieks were no longer audible.<br><i>\"Mission accomplished.\"</i>"
+    "21022": "레코드판이 돌고 돌아, 고함소리가 열기에 젖어든다.<br>그녀는 무방비해 보이는 상태로 황홀한 멜로디에 취한다:<br><br>도입부에서 기대감을 주고,<br>격렬하고 진지한 서사가 이어지고,<br>연이은 클라이맥스를 뛰어넘는다….<br><br>레코드판이 멈추고 나서야 고함소리가 사라진다.<br><i>「임무 종료」</i>"
 }
 
 var _weaponskill_ = {

@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "20014": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br><br><i>\"Freedom fighters will never die, as their stories will forever be told.\"</i>"
+    "20014": "凝縮された時間から得られる希薄な力。一瞬にも満たない刹那が、壮絶な運命を織りなす。<br><br><i>「自由のために戦った人は死なない、その物語は永遠に歌い継がれる」</i>"
 }
 
 var _weaponskill_ = {

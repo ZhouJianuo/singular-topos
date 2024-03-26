@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21026": "Pity that no one has seen it...<br>Seen it screw up its nose and sniff around and dive into an empty path.<br><br>Pity that no one has seen it...<br>Seen it retract its claws, enter the password, and leap into the embraces of freedom.<br><br>Has nobody seen it still...?<br>A grown dog can now walk itself in space!"
+    "21026": "残念ながら、まだ誰も気づいていない…<br>彼が鼻を鳴らしながらあちこちを嗅ぎまわり、人のいない路地に入り込んでいったのを。<br><br>残念ながら、まだ誰も気づいていない…<br>彼が爪を収めパスワードを入力し、自由を抱くところを。<br><br>まだ誰も気づいていないのだろうか…<br>成長した子犬は宇宙を散歩できるのだ！"
 }
 
 var _weaponskill_ = {

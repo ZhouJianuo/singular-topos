@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21033": "This isn't the first time he's seen this man.<br>This man had become his own inseparable shadow.<br>No matter how many times he runs this man through with his spear, the man always comes back.<br><br>He can neither lose to this man, nor truly win.<br>Though he wants to run away, there is nowhere to run."
+    "21033": "この男は初対面ではない。<br>いつからか、この男は彼の後ろに伸びる影のようになっていた。<br>槍で何度貫いても、再び這い寄ってくるのだ。<br><br>彼は負けない、だが勝つこともない。<br>逃げたくても、どこにも逃げられない。"
 }
 
 var _weaponskill_ = {

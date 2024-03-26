@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21039": "Destiny always tows the masses onward without reason, and she lurks within the darkness, waiting to inscribe the most crucial of instants.<br><br>Sorting, matching, shuffling, drawing... She simulates fate's hand in how it manipulates all variables for the masses, seeking the trajectory of truth beneath the visage of a disorderly exterior.<br><br>Finally, when all the characters are in their place, she brushes over the card faces that are in stasis and assembles the unfathomable truth.<br><i>\"Still missing a card... So, I'll add one in.\"</i>"
+    "21039": "運命はいつも理由なく人々を牽引する。そして彼女は陰に隠れ、最も重要な瞬間を刻み込む。<br><br>並び替え、組み合わせ、シャッフルし、そしてカードを引く…彼女は、見えざる運命の手が人々を操る様々な可能性をシミュレートし、混沌とした表面の下に隠された本当の軌跡を探る。<br><br>ようやく、すべての人物がそれぞれの適切な場所に配置された。彼女は凝固したカードの表面を磨き、深淵の真相を繋ぎ合わせる。<br><i>「まだ1枚足りないようね…なら、私がその場所を補いましょう」</i>"
 }
 
 var _weaponskill_ = {

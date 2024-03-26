@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21025": "The wings of the paper kite in her hands were broken, brutally reminding her of her beloved's tragic passing.<br>She kneeled next to the fire of war, eyes full of sorrow.<br><br><i>\"If you are the only one left to do this, then our sacrifice would...\"</i><br><br>Gunfire raged on, painting the sky red without dampening its majesty.<br>She looked up at the sky, eyes full of fury."
+    "21025": "손에 든 종이 연의 두 날개가 부러져 마치 가장 소중한 사람의 추락처럼 떨어진다.<br>그녀는 불길에 무릎을 꿇고 앉아 슬픔으로 가득 차 있다.<br><br><i>「당신에게만 구원받을 수 있다면, 그럼 우리의 희생은…」</i><br><br>포화가 하늘을 붉게 물들였고, 창공은 여전히 웅장했다.<br>그녀는 고개를 들어 하늘을 올려다보며 분노로 가득 찼다"
 }
 
 var _weaponskill_ = {

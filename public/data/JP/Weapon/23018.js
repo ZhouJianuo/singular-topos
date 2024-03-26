@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23018": "He once heard a ballad, singing in praise of that sliver of light:<br>Rose blooms, to answer THEIR smile.<br>Dawn shines, to illuminate THEIR visage.<br>Melody plays, to banish THEIR fatigue.<br><br>But, light, once gone, never returns. Yet, he still gallops to the far beyond.<br>All that is needed is to wait for, to believe in, and to preach about everything that is of the Beauty in this cosmos.<br>Even if everything is but a fleeting instant before a gaze, he has already found the answer he sought."
+    "23018": "かつて彼は歌を聴き、その光を歌い広めた。<br>バラが咲き誇るのは、其の笑顔に応えるため。<br>朝日が輝くのは、其の尊顔を照らすため。<br>音楽が奏でられるのは、其の眠気を覚ますため。<br><br>しかし、その光が帰ってくることはなかった。それでも、彼は彼方を求めて走る。<br>——ただ待つのみ、ただ信じるのみ、ただ純美のすべてを宇宙に広めるのみ。<br>たとえすべてが一瞬の出来事であろうとも、彼は己が求める答えをそこから得たのである。"
 }
 
 var _weaponskill_ = {

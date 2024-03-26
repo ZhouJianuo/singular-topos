@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "24001": "Coursing 'tween the sea of stars,<br>THEY cruise with the speed of a rainbow's chromatic flash.<br>A journey of hunting undying abominations,<br>collecting cures and miracles,<br>and seeking deliverance.<br>Akin to a vow unbroken, THEIR voyage will be,<br>ad infinitum."
+    "24001": "별바다 사이를 오가는,<br>그의 속도는 빛처럼 빠르다.<br>불사의 흉물을 포위하고,<br>신비의 명약을 찾아내,<br>벗어날 길을 찾는다.<br>그의 항해는 깨지지 않는 서약처럼,<br>영원히 끝나지 않는다"
 }
 
 var _weaponskill_ = {

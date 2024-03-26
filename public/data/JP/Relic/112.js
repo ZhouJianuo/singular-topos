@@ -3,27 +3,27 @@
 var _relicitem_ = {
     "112": [
         {
-            "Name": "Wastelander's Breathing Mask",
-            "Desc": "A breathing mask able to filter sand and radiation out from the air. It seems like it was made from a discarded respirator.",
-            "Story": "The Wastelanders of Talia must wear a mask at all times to protect themselves from the ever-present threats of residual radiation and sandstorms. Nobody knew if any scientific principles were even taken into account when such wild re-modifications of the ventilator mask were made. Perhaps it was all just a placebo effect.<br><br>\"Haven't you heard? That old fool across the valley plugged water tubes into his mask! I definitely couldn't take that, if it were me.\"<br><br>The Wastelanders seldom complain about the extremely harsh climate in Talia. For one thing, ever since the nuclear blast filled the atmosphere with sand and dust, nothing could be done about it. Another reason, however, was that when red sand filled the air and blocked out the sun, it provided them with a prime opportunity to ambush the encampments of other bandit groups, as they could put on breathing masks and pop up out of nowhere among the sweeping sandstorms.<br><br>A cohort of prepared bandits attacking another cohort of unprepared bandits — such is the law of survival in Talia.<br><br>This sandstorm mask looks like a hassle to put on and remove. It has a \"Nailscrap Town\" anti-fraud production mark on it.",
+            "Name": "{RUBY_B#はいどきゃく}廃土客{RUBY_E#}の{RUBY_B#こきゅう}呼吸{RUBY_E#}マスク",
+            "Desc": "ホコリと放射能をカットできるマスク。廃棄された人工呼吸器を改造したように見える。",
+            "Story": "残留放射能と砂嵐はここの日常だ、タリアの廃土客たちは、常にマスクを用意しておかなければならない。原理も分からずに弄ってできたマスクは使えるのか？いや、むなしい慰めにしかならない。<br><br>「聞いたか？マスクにパイプを挿してる奴がいるんだぜ、俺だったらあんなの我慢できねぇよ」<br><br>廃土客たちはタリアの極端気象に対して不満をたらす事は少ない。第一に、彼らでは現状を変えられない、核爆発以来、ここは砂と埃に覆われている。第二に、彼らは楽観的だから、赤い砂が空を覆った時、彼らは手製の防塵マスクをして、風埃と共に他の賊の巣窟に突入し、黄泉の国の幽霊のように姿を現す。<br><br>準備をした賊が準備をしていない賊から奪う、それがタリアの生存法則だ。<br><br>着脱が難しそうな防塵マスク。「ネイルシェル」の偽造防止マークがある。",
             "Icon": "IconRelic_112_1.png"
         },
         {
-            "Name": "Wastelander's Desert Terminal",
-            "Desc": "Multi-functional trash that can detect ionizing radiation in the air. It can also trash-talk.",
-            "Story": "Before Talia became the \"Kingdom of Banditry,\" it was notoriously reviled as the \"Junkyard of the Cosmos.\" Discarded junk of old technology from other planets became another man's treasure here.<br><br>\"Don't ever ask me if I enjoy wearing a mobile device heavier than shackles. It came in handy and was more powerful than a hammer in the most decisive moments.\"<br><br>After Nailscrap Town was established, the most unconventional of Talian wasteland engineers finally had a safe and secure location to exhibit their outrageous idea, creating Talia's unique \"Sensory Technology.\" By combining a cesium dust counter and a cheeky-AI mobile device, they gave birth to the Desert Terminal, a multi-functional invention from wasteland junk.<br><br>The core idea for the so-called \"Sensory Technology\" is — Don't ask how, don't ask why, nobody cares.<br><br>\"You attached that piece of junk to me? You rump-fed, scurvy sewer rat...\" The AI terminal speaks with a tone of honesty and earnestness.",
+            "Name": "{RUBY_B#はいどきゃく}廃土客{RUBY_E#}の{RUBY_B#こうりょうたんまつ}荒涼端末{RUBY_E#}",
+            "Desc": "電離放射性ガスを検知し、トラッシュトークも喋られる汎用性の高いガラクタ。",
+            "Story": "タリアが盗賊公国になる前は、「星々のゴミ捨て場」として広く知られており、様々な世界の技術廃棄物はここで2度目の春を迎える。<br><br>「手鎖より重い腕部端末を付けるのが好きなわけじゃねぇ！こいつぁ肝心な時じゃハンマーよりすげぇんだよ」<br><br>ネイルシェルタウンができてから、タリアで最も常識外れな廃棄物工学専門家たちはついに安全な場所を見つけ、そこでタリア独自の「勘科学」を創造した。セシウム測定器と、暴言を吐くスマート端末を組み合わせば、廃土特有の多機能なゴミ「荒廃端末」が完成する。<br><br>いわゆる「勘科学」の指導思想とは：原理を聞くな、目的を聞くな、誰もそんなもん気にしてない。<br><br>「よくもゴミと一つにしやがったな、てめえらは肥溜めに住むドブネズミだ」スマート端末の声は、親切で切実だった。",
             "Icon": "IconRelic_112_2.png"
         },
         {
-            "Name": "Wastelander's Friar Robe",
-            "Desc": "A baggy robe adapted from a missionary's attire.",
-            "Story": "Most of the gangsters in Talia have never expected salvation, nor do they know about friars. All they knew was that their robes looked useful enough as cleaning rags.<br><br>\"'Ignorance is still king'? What a load of nonsense!\"<br><br>Wastelanders found a monastery that had long since lain desolate and discovered some ancient volumes from an old civilization. Their gut feeling was that the recordings were precious. After hypocritically feigning appreciation, they happily burned those books to ashes, only taking along the robes left by the friars. After all, the other things wouldn't be worth a penny in Nailscrap Town.<br><br>Most Wastelanders were illiterate. No amount of records of civilization would be more useful to them than a hot meal. And they were not the ones to blame.<br><br>At least, the robes of friars remained, contributing to the continued existence of a long-forgotten civilization.",
+            "Name": "{RUBY_B#はいどきゃく}廃土客{RUBY_E#}の{RUBY_B#しゅうどうふく}修道服{RUBY_E#}",
+            "Desc": "ゆったりとしたローブ、伝道師スタイルを改造している。",
+            "Story": "タリアのならず者たちは救済など期待してないし、それが何なのかも知らない、修道士がどんな存在だなんて尚更だ。彼らの目には、掃除に使えそうなローブの実用性しか映らなかった。<br><br>「『無知が統治する時代はまだ終わってない』？んだこのくそみたいな文章は？」<br><br>廃土客たちは長い間放置されていた修道院を発見し、さらに旧文明の正典まで見つけた。彼らは、文明の記録の貴重さをほとんど直感的に感じ取り、上辺の感傷に浸った後、それらを愉快に焼却した。廃土客たちが持ち去ったのは修道士のローブだけ、それ以外のガラクタはネイルシェルでは無価値だ。<br><br>ほぼ全ての廃土客は教養がない、文明に関する資料がいくらあっても腹を満たすメシには比べられない、これもしょうがない事だ、彼らを責めるべきではない。<br><br>少なくとも修道士のローブは残された、これもまた、文明が存在する形式の一つである。",
             "Icon": "IconRelic_112_3.png"
         },
         {
-            "Name": "Wastelander's Powered Greaves",
-            "Desc": "The leg part of powered armor, an exoskeleton made from scrap metals and old wires.",
-            "Story": "Nailscrap Town's bandits needed some means to defend their hard-earned water sources and junks, which was how the subpar banditry technology came to be. The powered armor was needlessly flamboyant, with its leg parts being the only functional section<br><br>\"I need a whole set of fully powered armor, and now you are telling me all the sections above were all blown up!? Ask yourself if you dared to wear this set of greaves yourself!\"<br><br>The defenses of Nailscrap Town that happened every now and then boosted the wartime development of Sensory Technology. Once, a random idea hit the engineers. With some materials of unknown source, they produced a set of powered armor. Unfortunately, only the leg part of the first generation of that cheap powered armor has survived. Even after being greatly simplified, the greaves still allow their wearer to take off like a rocket — a mechanism that confuses engineers nowadays.<br><br>According to the engineers, the design was completed in the limbo between dreams and reality. It was a once-in-a-lifetime masterpiece of sheer ingenuity.<br><br>A useful piece of junk is a good piece of junk, be it recyclable or hazardous.",
+            "Name": "{RUBY_B#はいどきゃく}廃土客{RUBY_E#}の{RUBY_B#どうりょくたいこう}動力腿甲{RUBY_E#}",
+            "Desc": "動力甲冑の足の部分。廃鉄と古い電線で外骨格が作られている。",
+            "Story": "ネイルシェルタウンの盗賊たちは貴重な水源と苦労して集めたゴミを守る手段が必要だ。ないよりマシの盗賊技術はこのようにして誕生した。見かけ倒しのパワーアーマーは脚部だけ正常に作動できる。<br><br>「俺が必要なのは完全なパワーアーマーなんだよ、そんで上の部分は爆発したって？逆に聞くぞ、てめぇにこの脚部アーマーを使う度胸はあんのか？」<br><br>しょっちゅう勃発するネイルシェルの防衛戦は、「印象科学」の発展を促進させ、出所不明の材料と即席の技術で、盗賊たちはパワーアーマーまで作れるようになった。残念ながら、初代の鉄くずパワーアーマーは脚部しか残っておらず、大幅に簡略化しても操縦者をロケットのように発射してしまう。理由はエンジニアにもよくわからない。<br><br>デザイナーが言うには、それは半分寝ぼけた状態で設計されたもので、一生に一度だけの閃きだった。<br><br>資源ゴミでも有害ゴミでも、使えるならそれはいいゴミだ。",
             "Icon": "IconRelic_112_4.png"
         }
     ]

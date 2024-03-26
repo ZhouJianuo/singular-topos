@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21015": "The limelight cast on the boxing ring is bright, but no brighter than all those beads of sweat running down his back.<br><br>He has long been determined to use his two fists to protect those he cherishes the most.<br>After all, they are the ones who ignited his determination in the first place.<br>They are the ones who have always been there for him, be it inside or outside the boxing ring."
+    "21015": "リングは輝く、<br>でも流れ落ちる汗の輝きの方が勝る。<br><br>彼はその拳で大切な人たちを守ると誓った。<br>そして彼に決意を与えたのも、彼ら<br>——リングに上がっても、降りても、いつでも彼の後ろに立っている人たち。"
 }
 
 var _weaponskill_ = {

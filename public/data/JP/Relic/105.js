@@ -3,27 +3,27 @@
 var _relicitem_ = {
     "105": [
         {
-            "Name": "Champion's Headgear",
-            "Desc": "Boxing headgear that provides excellent protection. It perfectly fits the shape of the owner's face.",
-            "Story": "Having grown up on the streets, Lindsay had never thought of boxing in official matches for she never believed she could be defeated by anyone, let alone someone who already has a foot in the grave.<br><br>The old lady calling herself a boxing coach provided Lindsay with a full set of protective gear and challenged the young girl to a bout, demanding Lindsay to train under her if the old lady managed a win.<br><br>Lindsay was too proud to use the complicated protective gears and tossed them all aside. She thought she could rely on her quick reactions for an easy win, but the old lady got near her in three strides and landed a blow straight to her face. When Lindsay regained consciousness, she picked up the boxing headgear she had tossed aside. Through the narrow opening of the headgear, she saw a brand-new world.<br><br>\"So, these are the fists of a true boxer, huh? Interesting. If you want teach me, then train me to be the strongest boxer that ever lived.\"<br><br>Though a bit begrudgingly, Lindsay accepted that she had lost the bet. Now, wearing protective equipment for the first time, she officially stepped into the world of boxing.",
+            "Name": "チャンピオンの{RUBY_B#おうかん}王冠{RUBY_E#}ヘッドギア",
+            "Desc": "防衛効果絶大なヘッドギア、持ち主の頭に完璧にフィットする。",
+            "Story": "路上で暮らしていたリンジーは、公式試合のオファーが来るだなんて考えもしていなかった。自分に勝てる相手がいるとは思わなかった、ましてやそれが 50 歳を超えた老人だなんて。<br><br>ボクシングコーチを名乗る老人は、勝ったら弟子になれと言い、リンジーに挑んできた。<br><br>リンジーは、動きづらい衣服を嫌がり、老人から渡された防具も捨てた。反射神経で圧倒するつもりだったが、三歩も動かないうちに老人に接近され、正面から拳を食らった。しばらく気絶した後、リンジーはヘッドギアを拾い上げ頭に付けた。さっきまでは無用の長物と思っていたヘッドギアだが、その狭い視野からは新たな景色が見えていた。<br><br>「これがボクサーの拳か？面白い、教えてくれるってんなら、アタシを最強にしろ」<br><br>文句を言いながらも、リンジーは負けを認めた。彼女は防具を身につけ、正式にボクシングの世界に足を踏み入れた。",
             "Icon": "IconRelic_105_1.png"
         },
         {
-            "Name": "Champion's Heavy Gloves",
-            "Desc": "A pair of boxing gloves kept in excellent condition. Some slight wear doesn't hinder their effectiveness.",
-            "Story": "When Lindsay first entered the boxing ring, her fighting style was utterly unbalanced, for she only knew how to attack but never how to defend. <br><br>All her years of street fighting were inadequate to prepare her for the fight in the ring. The match arranged by Ekaterina put Linsay into her place.<br><br>A series of successive defeats in local fights shattered Linsay's arrogance and deeply humbled her, forcing her to reflect on the balanced offensive and defensive rhythm that Ekaterina was teaching her. As if kissed by the goddess of combat, this once-stubborn street fighter gradually came to understand the significance and joy of balancing offense with defense. The next thing she knew, her hand wraps were torn and her gloves soaked with sweat and blood.<br><br>\"Never let yourself fall into your opponent's traps. Remember your own rhythm.\" <br><br>Now Linsay finally came to appreciate Ekat's words and her loving gaze. The usually stern Ekat had long loved Lindsay like she would her own child.",
+            "Name": "チャンピオンの{RUBY_B#じゅうほう}重砲{RUBY_E#}グローブ",
+            "Desc": "よく手入れされたボクシンググローブ、細かな摩耗は試合に影響はしない。",
+            "Story": "リングに上がったばかりのリンジーのスタイルは尖っていて、攻撃するしか知らず、防御はほとんどしなかった。<br><br>縄で囲まれたリングの上では、路上喧嘩の経験は活かせない、イカトリーナがマッチした試合はリンジーの高慢を砕いた。<br><br>地元大会での挫折をきっかけに、それまでの傲慢と自信が崩れ、リンジーはイカトリーナから教わった攻防のリズムを真剣に考えるようになる。パンチの打ち方しか知らなかったリンジーは、戦いの女神の接吻を受けたかのように、攻防の切り替えの面白さを次第に理解していった。気づいた時には、ゲルの指サポーターは折れ、手袋は血と汗で汚れていた。<br><br>「相手の罠に嵌まらないように、自分のリズムを掴みなさい」<br><br>その瞬間、リンジーはイカトリーナのこの言葉を理解した、自分を見る優しい眼差しは、我が子を見守るようだった。",
             "Icon": "IconRelic_105_2.png"
         },
         {
-            "Name": "Champion's Chest Guard",
-            "Desc": "A boxer's professional-level chest guard. The outer and inner padding is designed to provide protection while not hindering movement.",
-            "Story": "The scene in the training gym on the night before the championship fight was like the old days. The sounds of quick and heavy punches on the sandbag echoed throughout the gym.<br><br>Sweat soaked through her chest guard and the scorching steam detached Lindsay from reality, making her crave to escape it all.<br><br>Lindsay tried her best to control her emotions as her face glimmered with sweat and tears. Late into the night, she finally took off her chest guard and wrote the name \"Ekat\" on the inside. She wants to swear she would achieve victory for this name. This was a key match in Lindsay's path to becoming the boxing champion, and her first fight without her coach by her side. Before Lindsay stepped into the ring, she held out her chest proudly to the camera.<br><br>\"Lindsay.. I couldn't believe you share the same name with my daughter. I always thought I was done with the world for good when she passed, until I finally met you. Thank you, Lindsay.\"<br><br>\"Protect me, Ekat.\" The most important name was right by her heart.",
+            "Name": "チャンピオンのチェストガード",
+            "Desc": "ボクサーのチェストガード、ガードとインナーを組み合わせることで、技の性能を損なうことなく安全性を保証している。",
+            "Story": "タイトルマッチ前夜のジム、いつもと同じように素早く、重いパンチがサンドバッグにぶつけられていた。<br><br>汗がチェストガードに浸透する、灼熱の空気はリンジーと現実を隔てた、彼女は逃げ出したい。<br><br>汗と涙が混じった顔にキラキラと光を反射させながら、リンジーは必死に感情を抑えた。深夜、彼女はチェストガードを外し、内側に「イカ」との名前を書き、この名の下に勝利を誓った。これはチャンピオンへの道のりで重要な1戦であり、リンジーにとっては初めてのコーチ不在の試合となる。リングに上がる前、リンジーはカメラに向かって堂々と胸を張った。<br><br>「リンジー…あなたは私の娘と同じ名前を持っている。娘が離れてしまった時は、世界が壊れたとさえ思っていたわ、でも私はあなたに出会った。ありがとうね、リンジー」 <br><br>「私を守って、イカ」大切な名前は、胸にある。",
             "Icon": "IconRelic_105_3.png"
         },
         {
-            "Name": "Champion's Fleetfoot Boots",
-            "Desc": "Intricately crafted from leather and mesh, the combination of a thick insole and thin outsole ensures the wearer can be agile on their feet.",
-            "Story": "With a rather petite figure, Lindsay became famous for her fast punches and nimble footwork that allowed her to dance in the ring like a fluttering butterfly amidst flowers.<br><br>Regardless of how fast her opponents could throw a punch, all their strikes could never hit Lindsay. Such was the power of what was known as Lindsay's Dance.<br><br>To train Lindsay's unique footwork, Ekaterina took the street urchin to a high-society ball, where they danced hand in hand, spin after spin... Though clumsy at first, Lindsay eventually got the hang of the refined dance steps. She realized that there was more to this old boxing coach than met the eye. Among the flowing sea of dancers, a soft spot in Lindsay's heart was suddenly struck by a magical feeling.<br><br>\"One more dance?\"<br><br>Lindsay's upbringing on the street did not at all prepare her for such experiences. Seeing the twinkle in Ekaterina's eyes, how could Lindsay refuse?",
+            "Name": "チャンピオンの{RUBY_B#こほ}弧歩{RUBY_E#}シューズ",
+            "Desc": "レザーとネットを巧みに組み合わせ、厚みのあるインソールと薄いソールで柔軟なステップを可能にする。",
+            "Story": "小柄なリンジーは、花に移る蝶のように軽やかなステップで、素早く俊敏にパンチを繰り出すスタイルで定評を得た。<br><br>相手の拳は雨のように止まらず襲い掛かるが、リンジーにはかすりさえしない、これこそ彼女が誇る「リンジーステップ」である。<br><br>リンジーの独特なステップを鍛えるため、イカトリーナはかつて路上で暮らしていた少女を上流階級の舞踏会に連れていった。手を繋いで、回る回る……リンジーは、つまずきながらも徐々についていけるようになり、ボクシングコーチを名乗るこの老人が、単なるコーチ以上の存在であることに気づいた。恍惚としたダンスフロアの中で、リンジーの心のどこかにある柔い場所に突然、奇妙な感覚が訪れる。<br><br>「もう1曲踊りたいの？」<br><br>路上で暮らしていたリンジーはこのような体験をできるだなんて想像したこともない、イカトリーナの澄んだ瞳を見た彼女は、拒むことができなかった。",
             "Icon": "IconRelic_105_4.png"
         }
     ]

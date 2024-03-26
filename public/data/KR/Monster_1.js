@@ -3,7 +3,7 @@
 var _kingdoms = [
     {
         "_id": 9999,
-        "Name": "<b>New in 2.1</b>"
+        "Name": "<b>New in 2.2</b>"
     },
     {
         "_id": 1000,
@@ -23,51 +23,51 @@ var _kingdoms = [
     },
     {
         "_id": 6,
-        "Name": "Antimatter Legion"
+        "Name": "반물질 군단"
     },
     {
         "_id": 3,
-        "Name": "Fragmentum Monsters"
+        "Name": "열계 창조물"
     },
     {
         "_id": 1,
-        "Name": "Jarilo-VI"
+        "Name": "야릴로-Ⅵ"
     },
     {
         "_id": 2,
-        "Name": "The Xianzhou Luofu"
+        "Name": "선주 「나부」"
     },
     {
         "_id": 4,
-        "Name": "Simulated Universe"
+        "Name": "시뮬레이션 우주"
     },
     {
         "_id": 5,
-        "Name": "Stellaron Hunters"
+        "Name": "스텔라론 헌터"
     },
     {
         "_id": 8,
-        "Name": "The Swarm"
+        "Name": "곤충 떼"
     },
     {
         "_id": 9,
-        "Name": "Interastral Peace Corporation"
+        "Name": "스타피스 컴퍼니"
     },
     {
         "_id": 10,
-        "Name": "Dreamjolt Troupe"
+        "Name": "나쁜꿈 극단"
     },
     {
         "_id": 11,
-        "Name": "Memory Zone Meme"
+        "Name": "기억의 영역 밈"
     },
     {
         "_id": 7,
-        "Name": "Cosmos"
+        "Name": "은하"
     },
     {
         "_id": 99,
-        "Name": "Other"
+        "Name": "기타"
     },
     {
         "_id": 7000,
@@ -153,8 +153,8 @@ var _monster = {
     "1002011": {
         "_id": 1002011,
         "Key": "Monster_W1_CocoliaP1_01_Config",
-        "Name": "Ice Edge",
-        "Desc": "A giant lance of ice created by the guardian. It can unleash a piercing frost wind that sweeps across the field.",
+        "Name": "얼음 서슬",
+        "Desc": "수호자가 창조한 거대한 얼음창. 전장을 휩쓸어버리는 차가운 서리 바람을 발동할 수 있다",
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -197,8 +197,8 @@ var _monster = {
     "1002012": {
         "_id": 1002012,
         "Key": "Monster_W1_CocoliaP1_02_Config",
-        "Name": "Ice Edge",
-        "Desc": "A giant lance of ice created by the guardian. It can unleash a piercing frost wind that sweeps across the field.",
+        "Name": "얼음 서슬",
+        "Desc": "수호자가 창조한 거대한 얼음창. 전장을 휩쓸어버리는 차가운 서리 바람을 발동할 수 있다",
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -241,8 +241,8 @@ var _monster = {
     "1002013": {
         "_id": 1002013,
         "Key": "Monster_W1_CocoliaP2_01_Config",
-        "Name": "Lance of the Eternal Freeze",
-        "Desc": "A giant lance of ice summon by Cocolia. It's surrounded by an icy cold current that can tear through flesh like a blade.",
+        "Name": "끝없는 혹한의 창",
+        "Desc": "쿠쿠리아가 소환한 거대 얼음 창. 칼날처럼 살갗을 찢는 극한 기류가 감돈다",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -284,8 +284,8 @@ var _monster = {
     "1002014": {
         "_id": 1002014,
         "Key": "Monster_W1_CocoliaP2_02_Config",
-        "Name": "Lance of the Eternal Freeze",
-        "Desc": "A giant lance of ice summon by Cocolia. It's surrounded by an icy cold current that can tear through flesh like a blade.",
+        "Name": "끝없는 혹한의 창",
+        "Desc": "쿠쿠리아가 소환한 거대 얼음 창. 칼날처럼 살갗을 찢는 극한 기류가 감돈다",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -327,8 +327,8 @@ var _monster = {
     "1002015": {
         "_id": 1002015,
         "Key": "Monster_W1_CocoliaP1_00_Weapon01_Config_RL",
-        "Name": "Ice Edge",
-        "Desc": "A giant lance of ice created by the guardian. It can unleash a piercing frost wind that sweeps across the field.",
+        "Name": "얼음 서슬",
+        "Desc": "수호자가 창조한 거대한 얼음창, 전장을 휩쓸어버리는 차가운 서리 바람을 발동할 수 있다",
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -376,8 +376,8 @@ var _monster = {
     "1002016": {
         "_id": 1002016,
         "Key": "Monster_W1_CocoliaP1_00_Weapon02_Config_RL",
-        "Name": "Ice Edge",
-        "Desc": "A giant lance of ice created by the guardian. It can unleash a piercing frost wind that sweeps across the field.",
+        "Name": "얼음 서슬",
+        "Desc": "수호자가 창조한 거대한 얼음창, 전장을 휩쓸어버리는 차가운 서리 바람을 발동할 수 있다",
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -425,8 +425,8 @@ var _monster = {
     "1002017": {
         "_id": 1002017,
         "Key": "Monster_W1_CocoliaP2_04_Config",
-        "Name": "Lance of the Eternal Freeze",
-        "Desc": "A giant lance of ice summon by Cocolia. It's surrounded by an icy cold current that can tear through flesh like a blade.",
+        "Name": "끝없는 혹한의 창",
+        "Desc": "쿠쿠리아가 소환한 거대 얼음 창. 칼날처럼 살갗을 찢는 극한 기류가 감돈다",
         "Stats": {
             "HP": 2.25,
             "ATK": 18.0,
@@ -475,8 +475,8 @@ var _monster = {
     "1002018": {
         "_id": 1002018,
         "Key": "Monster_W1_CocoliaP2_05_Config",
-        "Name": "Lance of the Eternal Freeze",
-        "Desc": "A giant lance of ice summon by Cocolia. It's surrounded by an icy cold current that can tear through flesh like a blade.",
+        "Name": "끝없는 혹한의 창",
+        "Desc": "쿠쿠리아가 소환한 거대 얼음 창. 칼날처럼 살갗을 찢는 극한 기류가 감돈다",
         "Stats": {
             "HP": 2.25,
             "ATK": 18.0,
@@ -525,8 +525,8 @@ var _monster = {
     "1002020": {
         "_id": 1002020,
         "Key": "Monster_W1_Soldier01_03_Config",
-        "Name": "Vagrant",
-        "Desc": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper.",
+        "Name": "방랑자",
+        "Desc": "하층 구역에 갇힌 사람들은 생존을 위해 위험을 무릅쓰고 열계에 들어가 쓸만한 물자를 찾는다. 그러던 중 발굴한 고대 로봇이 그들의 뛰어난 조수가 되었다",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -571,8 +571,8 @@ var _monster = {
     "1002030": {
         "_id": 1002030,
         "Key": "Monster_W1_Soldier04_00_Config",
-        "Name": "Silvermane Cannoneer",
-        "Desc": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies.",
+        "Name": "실버메인 포격병",
+        "Desc": "실버메인 철위대의 포격병. 휴대용 핸드 캐넌으로 전투를 진행한다.<br>전투 중 실버메인 포격병은 다른 목표와 함께 맹렬한 연속 공격을 가한다",
         "Stats": {
             "HP": 2.1,
             "ATK": 18.0,
@@ -624,8 +624,8 @@ var _monster = {
     "1002040": {
         "_id": 1002040,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "실버메인 근위병",
+        "Desc": "벨로보그 방위부대 「실버메인 철위대」의 근위 전사로 돌격 담당이다.<br>전투 중 실버메인 근위병의 공격은 아군의 방어력을 감소시킨다",
         "Stats": {
             "HP": 1.3,
             "ATK": 18.0,
@@ -668,8 +668,8 @@ var _monster = {
     "1002041": {
         "_id": 1002041,
         "Key": "Monster_W1_Soldier01_00_Config",
-        "Name": "Silvermane Soldier",
-        "Desc": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat.",
+        "Name": "실버메인 근위병",
+        "Desc": "벨로보그 방위부대 「실버메인 철위대」의 근위 전사로 돌격 담당이다.<br>전투 중 실버메인 근위병의 공격은 아군의 방어력을 감소시킨다",
         "Stats": {
             "HP": 1.3,
             "ATK": 18.0,
@@ -711,8 +711,8 @@ var _monster = {
     "1002050": {
         "_id": 1002050,
         "Key": "Monster_W1_Soldier02_00_Config",
-        "Name": "Silvermane Gunner",
-        "Desc": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat.",
+        "Name": "실버메인 사격병",
+        "Desc": "벨로보그 방위부대 「실버메인 철위대」의 사격병으로 저격 담당이다.<br>전투 중 실버메인 사격병의 사격은 아군에게 열상을 입힌다",
         "Stats": {
             "HP": 1.1,
             "ATK": 18.0,
@@ -755,8 +755,8 @@ var _monster = {
     "1003010": {
         "_id": 1003010,
         "Key": "Monster_W1_Soldier03_00_Config",
-        "Name": "Silvermane Lieutenant",
-        "Desc": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter.",
+        "Name": "실버메인 사관",
+        "Desc": "벨로보그 방위부대 「실버메인 철위대」 분대의 리더<br>전투에서 실버메인 사관은 거대한 방패를 사용하며 자신을 강화한다. 가드 상태의 실버메인 사관을 공격하면 즉시 강력한 반격을 받는다",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -805,8 +805,8 @@ var _monster = {
     "1003011": {
         "_id": 1003011,
         "Key": "Monster_W1_Soldier03_00_Config_A",
-        "Name": "Silvermane Lieutenant (Bug)",
-        "Desc": "A false projection produced by compromised codes. The original reference entity is the leader of a squad of Belobog's Silvermane Guards.<br>As long as there are remaining friendly units, Silvermane Lieutenants will persistently raise a giant shield during combat. Attacking a Silvermane Lieutenant with their shield raised will result in a fierce counterattack.",
+        "Name": "실버메인 사관(오류)",
+        "Desc": "코드가 영향을 받아 오류가 난 홀로그램. 원본 레퍼런스는 벨로보그 방위부대 「실버메인 철위대」 분대의 리더.<br>동료만 있다면 전투에서 실버메인 사관은 계속 거대한 방패를 세워 놓는다. 가드 상태의 실버메인 사관을 공격하면 즉시 강력한 반격을 받는다",
         "Stats": {
             "HP": 16.0,
             "ATK": 18.0,
@@ -858,8 +858,8 @@ var _monster = {
     "1003012": {
         "_id": 1003012,
         "Key": "Monster_W1_Soldier03_00_Config_RL",
-        "Name": "Silvermane Lieutenant (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The original reference entity is the leader of a squad of Belobog's Silvermane Guards.",
+        "Name": "실버메인 사관(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 벨로보그 방위부대 「실버메인 철위대」 분대의 리더",
         "Stats": {
             "HP": 4.5,
             "ATK": 19.99998,
@@ -908,8 +908,8 @@ var _monster = {
     "1003013": {
         "_id": 1003013,
         "Key": "Monster_W1_Soldier03_00_Config_RL",
-        "Name": "Silvermane Lieutenant (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is the leader of a squad of Belobog's Silvermane Guards.",
+        "Name": "실버메인 사관(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 벨로보그 방위부대 「실버메인 철위대」 분대의 리더",
         "Stats": {
             "HP": 4.5,
             "ATK": 19.99998,
@@ -958,63 +958,11 @@ var _monster = {
         ],
         "IsComplete": 1
     },
-    "1003014": {
-        "_id": 1003014,
-        "Key": "Monster_W1_Soldier03_00_Config_A_Fever",
-        "Name": "",
-        "Desc": "",
-        "Stats": {
-            "HP": 16.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 120.0,
-            "Stance": 12.0
-        },
-        "StatsExtra": {
-            "Stance": 6.0
-        },
-        "Weak": [
-            "Fire",
-            "Ice",
-            "Wind"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Elec": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.2,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    100301401,
-                    100301402,
-                    100301403,
-                    100301404,
-                    100301405
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_1003010.png",
-        "Figure": "monsterfigure/Monster_1003010.png",
-        "AllSkills": [
-            100301401,
-            100301402,
-            100301403,
-            100301404,
-            100301405
-        ],
-        "IsBug": 1
-    },
     "1004010": {
         "_id": 1004010,
         "Key": "Monster_W1_CocoliaP1_00_Config",
-        "Name": "Cocolia",
-        "Desc": "The Guardian of Belobog, and the indisputable ruler of the Towering Citadel, Belobog.<br>Cocolia possesses the divine authority passed down through the generations of Guardians, giving her command over ice and snow to freeze her enemies in battle.",
+        "Name": "쿠쿠리아",
+        "Desc": "벨로보그의 수호자. 영원의 도시 벨로보그의 권위적인 통치자.<br>쿠쿠리아는 역대 수호자의 기적과 권능을 물려받아 전투에서 눈과 얼음의 힘을 호령하며 적을 빙결한다",
         "Stats": {
             "HP": 17.5,
             "ATK": 18.0,
@@ -1076,8 +1024,8 @@ var _monster = {
     "1004011": {
         "_id": 1004011,
         "Key": "Monster_W1_CocoliaP1_00_Config_RL",
-        "Name": "Cocolia (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is the Guardian of Belobog, the indisputable ruler of the Towering Citadel of Belobog.<br>As the Guardian, Cocolia (Complete) has inherited divine powers, giving her absolute command over the power of ice to freeze her enemies in battle.",
+        "Name": "쿠쿠리아(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 벨로보그의 수호자. 영원의 도시 벨로보그의 권위적인 통치자.<br>쿠쿠리아(완벽)는 역대 수호자의 기적과 권능을 물려받아 전투에서 눈과 얼음의 힘을 호령하며 적을 빙결한다",
         "Stats": {
             "HP": 8.0,
             "ATK": 18.0,
@@ -1160,8 +1108,8 @@ var _monster = {
     "1004012": {
         "_id": 1004012,
         "Key": "Monster_W1_CocoliaP1_00_Config_RL",
-        "Name": "Cocolia (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is the Guardian of Belobog, the indisputable ruler of the Towering Citadel of Belobog.<br>As the Guardian, Cocolia (Complete) has inherited divine powers, giving her absolute command over the power of ice to freeze her enemies in battle.",
+        "Name": "쿠쿠리아(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 벨로보그의 수호자. 영원의 도시 벨로보그의 권위적인 통치자.<br>쿠쿠리아(완벽)는 역대 수호자의 기적과 권능을 물려받아 전투에서 눈과 얼음의 힘을 호령하며 적을 빙결한다",
         "Stats": {
             "HP": 8.0,
             "ATK": 18.0,
@@ -1244,8 +1192,8 @@ var _monster = {
     "1004013": {
         "_id": 1004013,
         "Key": "Monster_W1_CocoliaP1_00_IF_Config",
-        "Name": "Cocolia (Illusion)",
-        "Desc": "The Guardian of Belobog, and the ruler of the Towering Citadel of Belobog.<br>As the Guardian, Cocolia has inherited divine powers, giving her absolute command over the ice to freeze her enemies in battle. This entity is a phantom borne from your memories.",
+        "Name": "쿠쿠리아(환상)",
+        "Desc": "벨로보그의 수호자. 영원의 도시 벨로보그의 권위적인 통치자.<br>쿠쿠리아는 역대 수호자의 기적과 권능을 물려받아 전투에서 눈과 얼음의 힘을 호령하며 적을 빙결한다. 이곳에 나타난 건 당신의 기억을 바탕으로 시뮬레이션한 환영이다",
         "Stats": {
             "HP": 48.0,
             "ATK": 18.0,
@@ -1321,8 +1269,8 @@ var _monster = {
     "1004020": {
         "_id": 1004020,
         "Key": "Monster_W1_Gepard_00_Config",
-        "Name": "Gepard",
-        "Desc": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack.",
+        "Name": "게파드",
+        "Desc": "실버메인 철위대의 방위관.<br>게파드는 휘하의 병사들을 지휘해 집중 공격을 가하고, 병사에게 공격을 면역할 수 있는 배리어를 1회 제공한다",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -1377,8 +1325,8 @@ var _monster = {
     "1004021": {
         "_id": 1004021,
         "Key": "Monster_W1_Gepard_00_Config",
-        "Name": "Gepard",
-        "Desc": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack.",
+        "Name": "게파드",
+        "Desc": "실버메인 철위대의 방위관.<br>게파드는 휘하의 병사들을 지휘해 집중 공격을 가하고, 병사에게 공격을 면역할 수 있는 배리어를 1회 제공한다",
         "Stats": {
             "HP": 8.0,
             "ATK": 14.99994,
@@ -1433,8 +1381,8 @@ var _monster = {
     "1004022": {
         "_id": 1004022,
         "Key": "Monster_W1_Gepard_00_Config_RL",
-        "Name": "Gepard (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is the leader of the Silvermane Guards.<br>Gepard (Complete) can command his soldiers to focus their attacks and offer soldiers a shield to block attacks.",
+        "Name": "게파드(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 실버메인 철위대의 방위관.<br>게파드(완벽)는 휘하의 병사들을 지휘해 집중 공격을 가하고, 병사에게 공격 피해를 차단하는 실드를 제공한다",
         "Stats": {
             "HP": 6.5,
             "ATK": 14.99994,
@@ -1530,8 +1478,8 @@ var _monster = {
     "1004023": {
         "_id": 1004023,
         "Key": "Monster_W1_Gepard_00_Config_SPRL",
-        "Name": "Gepard (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is the leader of the Silvermane Guards.<br>Gepard (Complete) can command his soldiers to focus their attacks and offer soldiers a shield to block attacks.",
+        "Name": "게파드(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 실버메인 철위대의 방위관.<br>게파드(완벽)는 휘하의 병사들을 지휘해 집중 공격을 가하고, 병사에게 공격 피해를 차단하는 실드를 제공한다",
         "Stats": {
             "HP": 6.5,
             "ATK": 14.99994,
@@ -1629,8 +1577,8 @@ var _monster = {
     "1004024": {
         "_id": 1004024,
         "Key": "Monster_W1_Gepard_00_IF_02_Config",
-        "Name": "Gepard (Illusion)",
-        "Desc": "Captain of the Silvermane Guards.<br>Gepard will provide soldiers with a shield that can block DMG taken. What you see here is a simulated illusion based on your own memories.",
+        "Name": "게파드(환상)",
+        "Desc": "실버메인 철위대의 방위관.<br>게파드는 병사에게 공격을 막아줄 수 있는 실드를 제공한다. 이곳에 나타난 건 당신의 기억을 바탕으로 시뮬레이션한 환영이다",
         "Stats": {
             "HP": 25.0,
             "ATK": 18.0,
@@ -1694,8 +1642,8 @@ var _monster = {
     "1004025": {
         "_id": 1004025,
         "Key": "Monster_W1_Gepard_00_Config_IF_03",
-        "Name": "Gepard (Illusion)",
-        "Desc": "Leader of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and offer a barrier to immune any attack once. This entity is a phantom borne from your memories.",
+        "Name": "게파드(환상)",
+        "Desc": "실버메인 철위대의 방위관.<br>게파드는 휘하의 병사들을 지휘해 집중 공격을 가하고, 병사에게 공격을 면역할 수 있는 배리어를 1회 제공한다. 이곳에 나타난 건 당신의 기억을 바탕으로 시뮬레이션한 환영이다",
         "Stats": {
             "HP": 42.5,
             "ATK": 18.0,
@@ -1774,11 +1722,86 @@ var _monster = {
         ],
         "IsIllusion": 1
     },
+    "1004027": {
+        "_id": 1004027,
+        "Key": "Monster_W1_Gepard_01_Config",
+        "Name": "",
+        "Desc": "",
+        "Stats": {
+            "HP": 11.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100402701,
+                    100402702,
+                    100402704,
+                    100402705,
+                    100402708,
+                    100402709
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    100402701,
+                    100402702,
+                    100402703,
+                    100402704,
+                    100402705,
+                    100402708,
+                    100402710
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    100402707,
+                    100402711
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
+        "AllSkills": [
+            100402701,
+            100402702,
+            100402704,
+            100402705,
+            100402708,
+            100402709,
+            100402703,
+            100402710
+        ]
+    },
     "1004030": {
         "_id": 1004030,
         "Key": "Monster_W1_Bronya_00_Config",
-        "Name": "Bronya",
-        "Desc": "Successor to Belobog's Guardian, and commander of the Silvermane Guards.<br>Bronya can use various tactics to attack her enemies, and greatly enhance the battle prowess of all allies.",
+        "Name": "브로냐",
+        "Desc": "벨로보그 수호자의 계승자. 실버메인 철위대의 통솔자.<br>브로냐는 다양한 전술로 적을 공격하며, 아군의 작전 능력을 대폭 증가시킨다",
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -1827,8 +1850,8 @@ var _monster = {
     "1004031": {
         "_id": 1004031,
         "Key": "Monster_W1_Bronya_00_Config_RL",
-        "Name": "Bronya (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The original reference entity is Belobog's Guardian successor and commander of the Silvermane Guards.<br>Bronya (complete) can use various tactics to attack her enemies, and greatly enhance the battle prowess of all allies.",
+        "Name": "브로냐(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 벨로보그 수호자의 계승자. 실버메인 철위대의 통솔자.<br>브로냐(완벽)는 다양한 전술로 적을 공격하며, 아군의 작전 능력을 대폭 증가시킨다",
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -1881,8 +1904,8 @@ var _monster = {
     "1004032": {
         "_id": 1004032,
         "Key": "Monster_W1_Bronya_00_Config_IF_02",
-        "Name": "Bronya (Illusion)",
-        "Desc": "Successor to Belobog's Guardian, and commander of the Silvermane Guards.<br>Bronya can use various tactics to attack her enemies, and greatly enhance the battle prowess of friendly units. This entity is a phantom borne from your memories.",
+        "Name": "브로냐(환상)",
+        "Desc": "벨로보그 수호자의 계승자. 실버메인 철위대의 통솔자.<br>브로냐는 다양한 전술로 적을 공격하며, 아군의 작전 능력을 대폭 증가시킨다. 이곳에 나타난 건 당신의 기억을 바탕으로 시뮬레이션한 환영이다",
         "Stats": {
             "HP": 42.5,
             "ATK": 18.0,
@@ -1958,8 +1981,8 @@ var _monster = {
     "1005010": {
         "_id": 1005010,
         "Key": "Monster_W1_CocoliaP2_00_Config",
-        "Name": "Cocolia, Mother of Deception",
-        "Desc": "After being assimilated by the overflowing Fragmentum energy of the Stellaron, the Supreme Guardian transforms into a singer able to control Imaginary Energy and the mouthpiece of its promised \"new world.\"",
+        "Name": "쿠쿠리아, 허망의 어머니",
+        "Desc": "「스텔라론」의 넘치는 열계 에너지에 동화된 후 수호자는 약속된 「새로운 세계」의 대변인이자 허수 에너지를 조종하는 자로 변한다",
         "Stats": {
             "HP": 19.0,
             "ATK": 18.0,
@@ -2034,8 +2057,8 @@ var _monster = {
     "1005011": {
         "_id": 1005011,
         "Key": "Monster_W1_CocoliaP2_00_Config_A",
-        "Name": "Cocolia, Mother of Deception",
-        "Desc": "After being assimilated by the overflowing Fragmentum energy of the Stellaron, the Supreme Guardian transforms into a singer able to control Imaginary Energy and the mouthpiece of its promised \"new world.\"",
+        "Name": "쿠쿠리아, 허망의 어머니",
+        "Desc": "「스텔라론」의 넘치는 열계 에너지에 동화된 후 수호자는 약속된 「새로운 세계」의 대변인이자 허수 에너지를 조종하는 자로 변한다",
         "Stats": {
             "HP": 19.0,
             "ATK": 18.0,
@@ -2100,8 +2123,8 @@ var _monster = {
     "1005012": {
         "_id": 1005012,
         "Key": "Monster_W1_CocoliaP2_03_Config",
-        "Name": "Cocolia, Mother of Deception",
-        "Desc": "After being assimilated by the overflowing Fragmentum energy of the Stellaron, the Supreme Guardian transforms into a chantress able to control Imaginary Energy and the mouthpiece of the Stellaron's promised \"new world.\"",
+        "Name": "쿠쿠리아, 허망의 어머니",
+        "Desc": "「스텔라론」의 넘치는 열계 에너지에 동화된 후 수호자는 약속된 「새로운 세계」의 대변인이자 허수 에너지를 조종하는 자로 변한다",
         "Stats": {
             "HP": 19.0,
             "ATK": 18.0,
@@ -2176,8 +2199,8 @@ var _monster = {
     "1005013": {
         "_id": 1005013,
         "Key": "Monster_W1_CocoliaP2_00_IF_Config",
-        "Name": "Cocolia, Mother of Deception (Illusion)",
-        "Desc": "After being assimilated by the overflowing Fragmentum energy of the Stellaron, the Supreme Guardian transforms into a singer able to control Imaginary Energy and the mouthpiece of its promised \"new world.\" This entity is a phantom borne from your memories.",
+        "Name": "쿠쿠리아, 허망의 어머니(환상)",
+        "Desc": "「스텔라론」의 넘치는 열계 에너지에 동화된 후 수호자는 약속된 「새로운 세계」의 대변인이자 허수 에너지를 조종하는 자로 변한다. 이곳에 나타난 건 당신의 기억을 바탕으로 시뮬레이션한 환영이다",
         "Stats": {
             "HP": 52.5,
             "ATK": 18.0,
@@ -2244,8 +2267,8 @@ var _monster = {
     "1012010": {
         "_id": 1012010,
         "Key": "Monster_W1_Mecha02_00_Config",
-        "Name": "Automaton Hound",
-        "Desc": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies.",
+        "Name": "자동 기갑병•워하운드",
+        "Desc": "구세계가 남긴 과학 기술을 조각조각 이어 붙여 만든 자동 로봇 유닛. 운송수단처럼 보이지만 사람들은 이 용도를 잊어버린 듯하다.<br>전투 시 자동 기갑병 「워하운드」는 지원을 제공하고 전우의 HP를 회복한다",
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -2287,8 +2310,8 @@ var _monster = {
     "1012011": {
         "_id": 1012011,
         "Key": "Monster_W1_Mecha02_00_Config",
-        "Name": "Automaton Hound",
-        "Desc": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies.",
+        "Name": "자동 기갑병•워하운드",
+        "Desc": "구세계가 남긴 과학 기술을 조각조각 이어 붙여 만든 자동 로봇 유닛. 운송수단처럼 보이지만 사람들은 이 용도를 잊어버린 듯하다.<br>전투 시 자동 기갑병 「워하운드」는 지원을 제공하고 전우의 HP를 회복한다",
         "Stats": {
             "HP": 0.7,
             "ATK": 18.0,
@@ -2333,8 +2356,8 @@ var _monster = {
     "1012020": {
         "_id": 1012020,
         "Key": "Monster_W1_Mecha01_00_Config",
-        "Name": "Automaton Spider",
-        "Desc": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged.",
+        "Name": "자동 기갑병•스파이더",
+        "Desc": "구세계가 남긴 과학 기술을 조각조각 이어 붙여 만든 자동 로봇 유닛. 인간의 가장 기본적인 육체 노동을 대신한다.<br>전투 시 자동 기갑병 「스파이더」의 동력은 매우 불안정하며 망가지면 폭발사고가 발생하기 쉽다",
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -2386,8 +2409,8 @@ var _monster = {
     "1012021": {
         "_id": 1012021,
         "Key": "Monster_W1_Mecha01_00_Config",
-        "Name": "Automaton Spider",
-        "Desc": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged.",
+        "Name": "자동 기갑병•스파이더",
+        "Desc": "구세계가 남긴 과학 기술을 조각조각 이어 붙여 만든 자동 로봇 유닛. 인간의 가장 기본적인 육체 노동을 대신한다.<br>전투 시 자동 기갑병 「스파이더」의 동력은 매우 불안정하며 망가지면 폭발사고가 발생하기 쉽다",
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -2436,8 +2459,8 @@ var _monster = {
     "1012030": {
         "_id": 1012030,
         "Key": "Monster_W1_Mecha01_01_Config",
-        "Name": "Automaton Beetle",
-        "Desc": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves.",
+        "Name": "자동 기갑병•비틀",
+        "Desc": "구세계가 남긴 과학 기술을 조각조각 이어 붙여 만든 자동 로봇 유닛. 이동을 담당하는 부품에 신호등이 설치돼 있으며 채집이나 건축 작업에 사용되는 것 같다.<br>전투 시 자동 기갑병 「비틀」은 역장 실드를 생성해 자신을 보호한다",
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -2477,8 +2500,8 @@ var _monster = {
     "1012040": {
         "_id": 1012040,
         "Key": "Monster_W1_SvarogPart_00_Config",
-        "Name": "Auxiliary Robot Arm Unit",
-        "Desc": "A mechanical device controlled by Svarog.<br>When active on battlefield for certain turns, it will ruthlessly attack its enemies.",
+        "Name": "보조 기계팔 유닛",
+        "Desc": "스바로그가 조종하는 기계 장치.<br>기계팔이 필드 위에 일정 턴 존재하면 아군에게 맹렬히 공격을 가한다",
         "Stats": {
             "HP": 3.5,
             "ATK": 18.0,
@@ -2540,8 +2563,8 @@ var _monster = {
     "1012041": {
         "_id": 1012041,
         "Key": "Monster_W1_SvarogPart_00_Config_RL",
-        "Name": "Auxiliary Robot Arm Unit",
-        "Desc": "A mechanical device controlled by Svarog.<br>When active on battlefield for certain turns, it will ruthlessly attack its enemies.",
+        "Name": "보조 기계팔 유닛",
+        "Desc": "스바로그가 조종하는 기계 장치.<br>기계팔이 필드 위에 일정 턴 존재하면 아군에게 맹렬히 공격을 가한다",
         "Stats": {
             "HP": 1.75,
             "ATK": 18.0,
@@ -2604,8 +2627,8 @@ var _monster = {
     "1012042": {
         "_id": 1012042,
         "Key": "Monster_W1_SvarogPart_00_Config_RL",
-        "Name": "Auxiliary Robot Arm Unit",
-        "Desc": "A mechanical device controlled by Svarog.<br>After being active on the battlefield for a certain number of turns, this robot arm will ruthlessly attack its targets.",
+        "Name": "보조 기계팔 유닛",
+        "Desc": "스바로그가 조종하는 기계 장치.<br>기계팔이 필드 위에 일정 턴 존재하면 아군에게 맹렬히 공격을 가한다",
         "Stats": {
             "HP": 1.75,
             "ATK": 18.0,
@@ -2668,8 +2691,8 @@ var _monster = {
     "1013010": {
         "_id": 1013010,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly",
-        "Desc": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack.",
+        "Name": "자동 기갑병•그리즐리",
+        "Desc": "구세계가 남긴 과학 기술을 조각조각 이어 붙여 만든 자동 로봇 유닛. 두꺼운 갑옷을 장착하고 돌격하며 실버메인 철위대를 보호한다.<br>전투 시 자동 기갑병 「그리즐리」는 「스파이더」에게 신호를 보내 함께 싸우며 동력 에너지를 모아 강력한 일격을 발동한다",
         "Stats": {
             "HP": 13.0,
             "ATK": 18.0,
@@ -2726,8 +2749,8 @@ var _monster = {
     "1013011": {
         "_id": 1013011,
         "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": "Automaton Grizzly (Bug)",
-        "Desc": "A false projection produced by compromised codes. The original reference entity is an automaton pieced together with Old World technology. It's been reinforced with durable armor to charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlies (Bug) will send out a signal to summon Automaton Spiders and Beatles, and at the same time unleash powerful charged attacks.",
+        "Name": "자동 기갑병•그리즐리(오류)",
+        "Desc": "코드가 영향을 받아 오류가 난 홀로그램. 원본 레퍼런스는 구세계가 남긴 과학 기술을 조각조각 이어 붙여 만든 자동 로봇 유닛. 두꺼운 갑옷을 장착하고 돌격하며 실버메인 철위대를 보호한다.<br>전투 시 자동 기갑병 「그리즐리」(오류)는 「스파이더」과 「비틀」에게 신호를 보내 함께 싸우며 동력 에너지를 모아 강력한 공격을 일으킨다",
         "Stats": {
             "HP": 18.0,
             "ATK": 18.0,
@@ -2785,8 +2808,8 @@ var _monster = {
     "1013012": {
         "_id": 1013012,
         "Key": "Monster_W1_Mecha03_00_Config_RL",
-        "Name": "Automaton Grizzly (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The original reference entity is an automaton pieced together with Old World technology. It's been reinforced with durable armor so that it could charge into battle and offer protection for the Silvermane Guards.<br>In combat, Automaton Grizzly (Complete) will send out a signal to summon Automaton Spiders, and at the same time unleash powerful charged attacks.",
+        "Name": "자동 기갑병•그리즐리(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 구세계가 남긴 과학 기술을 조각조각 이어 붙여 만든 자동 로봇 유닛. 두꺼운 갑옷을 장착하고 돌격하며 실버메인 철위대를 보호한다.<br>전투 시 자동 기갑병 「그리즐리」(완벽)는 「스파이더」에게 신호를 보내 함께 싸우며 동력 에너지를 모아 강력한 일격을 일으킨다",
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -2873,8 +2896,8 @@ var _monster = {
     "1013013": {
         "_id": 1013013,
         "Key": "Monster_W1_Mecha03_00_Config_RL_A",
-        "Name": "Automaton Grizzly (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is an automaton pieced together with Old World technology. It's been reinforced with durable armor so that it could charge into battle and offer protection for the Silvermane Guards.<br>In combat, Automaton Grizzly (Complete) will send out a signal to summon Automaton Spiders, and at the same time unleash powerful charged attacks.",
+        "Name": "자동 기갑병•그리즐리(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 구세계가 남긴 과학 기술을 조각조각 이어 붙여 만든 자동 로봇 유닛. 두꺼운 갑옷을 장착하고 돌격하며 실버메인 철위대를 보호한다.<br>전투 시 자동 기갑병 「그리즐리」(완벽)는 「스파이더」에게 신호를 보내 함께 싸우며 동력 에너지를 모아 강력한 일격을 일으킨다",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -2951,8 +2974,8 @@ var _monster = {
     "1013014": {
         "_id": 1013014,
         "Key": "Monster_W1_Mecha03_00_Config_RL",
-        "Name": "Automaton Grizzly (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is an automaton pieced together with Old World technology. It's been reinforced with durable armor so that it could charge into battle and offer protection for the Silvermane Guards.<br>In combat, Automaton Grizzly (Complete) will send out a signal to summon Automaton Spiders, and at the same time unleash powerful charged attacks.",
+        "Name": "자동 기갑병•그리즐리(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 구세계가 남긴 과학 기술을 조각조각 이어 붙여 만든 자동 로봇 유닛. 두꺼운 갑옷을 장착하고 돌격하며 실버메인 철위대를 보호한다.<br>전투 시 자동 기갑병 「그리즐리」(완벽)는 「스파이더」에게 신호를 보내 함께 싸우며 동력 에너지를 모아 강력한 일격을 일으킨다",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -3036,8 +3059,8 @@ var _monster = {
     "1013020": {
         "_id": 1013020,
         "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": "Automaton Direwolf",
-        "Desc": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "자동 기갑병•다이어울프",
+        "Desc": "구세계가 남긴 과학 기술을 조각조각 이어 붙여 만든 자동 로봇 유닛. 보기 드문 인간형 기계이며, 오른팔에는 모두 체인톱이 장착되어 있어 채집이나 건축 작업에 사용됐던 것처럼 보인다.<br>전투 시 자동 기갑병 「다이어울프」의 체인톱은 적에게 열상을 입혀 적의 HP를 지속해서 감소시킨다",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -3087,8 +3110,8 @@ var _monster = {
     "1013021": {
         "_id": 1013021,
         "Key": "Monster_W1_Mecha04_00_Config_A",
-        "Name": "Automaton Direwolf (Bug)",
-        "Desc": "A false projection produced by compromised codes. The referenced entity is an automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolf will use its chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "자동 기갑병•다이어울프(오류)",
+        "Desc": "코드가 영향을 받아 오류가 난 홀로그램. 원본 레퍼런스는 구세계가 남긴 과학 기술로 이어 붙여 만든 자동 로봇 유닛. 보기 드문 인간형 기계이며, 오른팔에는 모두 체인톱이 장착되어 있어 채집과 건축 작업에 사용됐던 것처럼 보인다.<br>전투 시 자동 기갑병 「다이어울프」의 체인톱은 적에게 열상을 입혀 적의 HP를 지속해서 감소시킨다",
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -3143,8 +3166,8 @@ var _monster = {
     "1013022": {
         "_id": 1013022,
         "Key": "Monster_W1_Mecha04_00_Config_RL",
-        "Name": "Automaton Direwolf (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is an automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolf (Complete) will use its chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "자동 기갑병•다이어울프(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 구세계가 남긴 과학 기술을 조각조각 이어 붙여 만든 자동 로봇 유닛. 보기 드문 인간형 기계이며, 오른팔에는 모두 체인톱이 장착되어 있어 채집이나 건축 작업에 사용됐던 것처럼 보인다.<br>전투 시 자동 기갑병 「다이어울프」(완벽)의 체인톱은 적에게 열상을 입혀 적의 HP를 지속적으로 감소시킨다",
         "Stats": {
             "HP": 4.75,
             "ATK": 18.0,
@@ -3228,8 +3251,8 @@ var _monster = {
     "1013023": {
         "_id": 1013023,
         "Key": "Monster_W1_Mecha04_00_Config_RL_A",
-        "Name": "Automaton Direwolf (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is an automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolf (Complete) will use its chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "자동 기갑병•다이어울프(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 구세계가 남긴 과학 기술을 조각조각 이어 붙여 만든 자동 로봇 유닛. 보기 드문 인간형 기계이며, 오른팔에는 모두 체인톱이 장착되어 있어 채집이나 건축 작업에 사용됐던 것처럼 보인다.<br>전투 시 자동 기갑병 「다이어울프」(완벽)의 체인톱은 적에게 열상을 입혀 적의 HP를 지속적으로 감소시킨다",
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -3305,8 +3328,8 @@ var _monster = {
     "1013024": {
         "_id": 1013024,
         "Key": "Monster_W1_Mecha04_00_Config_RL",
-        "Name": "Automaton Direwolf (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is an automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolf (Complete) will use its chainsaw to Bleed enemies, dealing DoT.",
+        "Name": "자동 기갑병•다이어울프(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 구세계가 남긴 과학 기술을 조각조각 이어 붙여 만든 자동 로봇 유닛. 보기 드문 인간형 기계이며, 오른팔에는 모두 체인톱이 장착되어 있어 채집이나 건축 작업에 사용됐던 것처럼 보인다.<br>전투 시 자동 기갑병 「다이어울프」(완벽)의 체인톱은 적에게 열상을 입혀 적의 HP를 지속적으로 감소시킨다",
         "Stats": {
             "HP": 5.0,
             "ATK": 18.0,
@@ -3385,8 +3408,8 @@ var _monster = {
     "1014010": {
         "_id": 1014010,
         "Key": "Monster_W1_Svarog_00_Config",
-        "Name": "Svarog",
-        "Desc": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks.",
+        "Name": "스바로그",
+        "Desc": "구세계의 고대 유물. 지오매로우 개척단 시대가 남긴 자동 제어 유닛. 무지하고 명령만 따르는 대부분의 로봇과 달리 스바로그는 복잡한 사고 능력을 갖추고 있다.<br>전투 중 스바로그는 기계팔을 소환해 적을 포획하고 제어하며, 목표에 큰 타격을 준다",
         "Stats": {
             "HP": 16.0,
             "ATK": 18.0,
@@ -3452,8 +3475,8 @@ var _monster = {
     "1014011": {
         "_id": 1014011,
         "Key": "Monster_W1_Svarog_00_Config_RL",
-        "Name": "Svarog (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is an ancient relic from the Old World, that was originally used as an automated control unit by the Geomarrow Development Group. Unlike the vast majority of machines that lack intellect and can only act on command, Svarog is capable of much more complex thinking.<br>In battle, Svarog (Complete) can summon various machines as well as a robot arm unit to grab and control enemies while unleashing devastating strikes.",
+        "Name": "스바로그(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 구세계의 고대 유물. 지오매로우 개척단 시대가 남긴 자동 제어 유닛. 무지하고 명령만 따르는 대부분의 로봇과 달리 스바로그는 복잡한 사고 능력을 갖추고 있다.<br>스바로그(완벽)는 전투에서 여러 유형의 로봇을 소환하고 기계팔을 조종해 적을 포획 및 제어하며, 목표에 큰 타격을 준다",
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -3544,8 +3567,8 @@ var _monster = {
     "1014012": {
         "_id": 1014012,
         "Key": "Monster_W1_Svarog_00_Config_RL",
-        "Name": "Svarog (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is an ancient relic from the Old World, that was originally used as an automated control unit by the Geomarrow Development Group. Unlike the vast majority of machines that lack intellect and can only act on command, Svarog is capable of much more complex thinking.<br>In battle, Svarog (Complete) can summon various machines as well as a robot arm unit to grab and control enemies while unleashing devastating strikes.",
+        "Name": "스바로그(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 구세계의 고대 유물. 지오매로우 개척단 시대가 남긴 자동 제어 유닛. 무지하고 명령만 따르는 대부분의 로봇과 달리 스바로그는 복잡한 사고 능력을 갖추고 있다.<br>스바로그(완벽)는 전투에서 여러 유형의 로봇을 소환하고 기계팔을 조종해 적을 포획 및 제어하며, 목표에 큰 타격을 준다",
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -3637,8 +3660,8 @@ var _monster = {
     "1014013": {
         "_id": 1014013,
         "Key": "Monster_W1_Svarog_00_Config_Fever",
-        "Name": "Svarog",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is an ancient relic from the Old World, that was originally used as an automated control unit by the Geomarrow Development Group. Unlike the vast majority of machines that lack intellect and can only act on command, Svarog is capable of much more complex thinking.<br>In battle, Svarog (Complete) can summon various machines as well as a robot arm unit to grab and control enemies while unleashing devastating strikes.",
+        "Name": "스바로그",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 구세계의 고대 유물. 지오매로우 개척단 시대가 남긴 자동 제어 유닛. 무지하고 명령만 따르는 대부분의 로봇과 달리 스바로그는 복잡한 사고 능력을 갖추고 있다.<br>스바로그(완벽)는 전투에서 여러 유형의 로봇을 소환하고 기계팔을 조종해 적을 포획 및 제어하며, 목표에 큰 타격을 준다",
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -3728,8 +3751,8 @@ var _monster = {
     "1022010": {
         "_id": 1022010,
         "Key": "Monster_W1_Soldier01_02_Config",
-        "Name": "Everwinter Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle.",
+        "Name": "영원한 겨울의 재난",
+        "Desc": "한파 강림 후 열계를 떠도는 허영. 실버메인 철위대의 모습을 뒤틀리게 모방했다. 장착한 갑옷은 벨로보그의 전사와 똑같이 단정하지만, 머리는 이목구비가 없는 고드름으로 바뀌었다.<br>전투에서 영원한 겨울의 재난은 얼음 도끼를 휘두르며 적의 행동을 늦춘다",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -3772,8 +3795,8 @@ var _monster = {
     "1022020": {
         "_id": 1022020,
         "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": "Incineration Shadewalker",
-        "Desc": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle.",
+        "Name": "불의 재난",
+        "Desc": "한파 강림 후, 열계를 떠도는 허영. 실버메인 철위대의 모습을 왜곡되게 모방했다. 장착한 갑옷은 벨로보그의 전사와 똑같이 정연하지만, 머리는 이목구비가 없는 재로 대신했다.<br>전투에서 불의 재난은 타오르는 도끼를 휘두르며 적을 연소시킨다",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -3819,8 +3842,8 @@ var _monster = {
     "1023010": {
         "_id": 1023010,
         "Key": "Monster_W1_Mecha04_01_Config",
-        "Name": "Searing Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn.",
+        "Name": "화염의 부랑자",
+        "Desc": "열계를 배회하는 기계 유닛. 하지만 인간 기술의 산물이 아니며 열계의 뒤틀린 힘이 모방한 괴물이 분명하다.<br>화염의 부랑자의 공격은 연소 상태의 적에게 추가 효과를 준다",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -3876,8 +3899,8 @@ var _monster = {
     "1023011": {
         "_id": 1023011,
         "Key": "Monster_W1_Mecha04_01_Config_A",
-        "Name": "Searing Prowler (Bug)",
-        "Desc": "A false projection produced by compromised codes. The referenced entity is a machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>The attacks of Searing Prowler (Bug) will deal extra damage against Burned enemies.",
+        "Name": "화염의 부랑자(오류)",
+        "Desc": "코드가 영향을 받아 오류가 난 홀로그램. 원본 레퍼런스는 열계를 배회하는 기계 유닛. 하지만 인간 기술의 산물이 아니며 열계의 뒤틀린 힘이 모방한 괴물이 분명하다.<br>화염의 부랑자(오류)의 공격은 연소 상태의 적에게 추가 효과를 준다",
         "Stats": {
             "HP": 14.0,
             "ATK": 18.0,
@@ -3937,8 +3960,8 @@ var _monster = {
     "1023020": {
         "_id": 1023020,
         "Key": "Monster_W1_Mecha03_01_Config",
-        "Name": "Frigid Prowler",
-        "Desc": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Frigid Prowlers will attract Everwinter Shadewalkers and reduce its enemy's SPD and Ice RES.",
+        "Name": "혹한의 부랑자",
+        "Desc": "열계를 배회하는 기계 유닛. 하지만 인간 기술의 산물이 아니며 열계의 뒤틀린 힘이 모방한 괴물이 분명하다.<br>혹한의 부랑자는 영원한 겨울의 재난을 불러오고 동시에 아군의 속도와 얼음 속성 저항을 감소시킨다",
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -4002,8 +4025,8 @@ var _monster = {
     "1023021": {
         "_id": 1023021,
         "Key": "Monster_W1_Mecha03_01_Config_A",
-        "Name": "Frigid Prowler (Bug)",
-        "Desc": "A false projection produced by compromised codes. The referenced entity is a machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Frigid Prowler (Bug) will attract Everwinter Shadewalker and reduce its opponents' SPD and Ice RES.",
+        "Name": "혹한의 부랑자(오류)",
+        "Desc": "코드가 영향을 받아 오류가 난 홀로그램. 원본 레퍼런스는 열계를 배회하는 기계 유닛. 하지만 인간 기술의 산물이 아니며 열계의 뒤틀린 힘이 모방한 괴물이 분명하다.<br>혹한의 부랑자는 영원한 겨울의 재난(오류)을 불러오고 동시에 아군의 속도와 얼음 속성 저항을 감소시킨다",
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -4071,15 +4094,15 @@ var _monster = {
         "Name": "",
         "Desc": "",
         "Stats": {
-            "HP": 50.0,
+            "HP": 75.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 100.0,
             "Stance": 10.0
         },
         "StatsExtra": {
-            "SPD": 140.0,
-            "Stance": -4.0
+            "SPD": 300.0,
+            "Stance": 6.0
         },
         "Weak": [
             "Fire",
@@ -4115,8 +4138,8 @@ var _monster = {
     "2002010": {
         "_id": 2002010,
         "Key": "Monster_W2_Knight01_00_Config",
-        "Name": "Cloud Knights Patroller",
-        "Desc": "Member of the ground patrol division of the Xianzhou Luofu Cloud Knights. Wearing a light set of silver armor and with a Devastator Glaive in hand, they are in charge of maintaining order in every delve.",
+        "Name": "운기군 순찰병",
+        "Desc": "선주 나부의 운기군 소속 순찰대원이다. 진도와 은 경갑으로 무장하고 있다. 동천의 질서를 유지하는 임무를 맡고 있다",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -4167,8 +4190,8 @@ var _monster = {
     "2002020": {
         "_id": 2002020,
         "Key": "Monster_W2_Yanqing_01_Config",
-        "Name": "Flying Sword",
-        "Desc": "Qi-controlled hovering attack unit, also named \"Flying Sword.\" Closely connected to the wielder's psyche and can be used as an extension of its wielder's will.",
+        "Name": "비검",
+        "Desc": "기로 움직이는 허공의 공격 유닛으로 별명이 「비검」인 무기. 주인과 텔레파시가 통해서 수족처럼 움직인다",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -4211,8 +4234,8 @@ var _monster = {
     "2002021": {
         "_id": 2002021,
         "Key": "Monster_W2_Yanqing_02_Config",
-        "Name": "Flying Sword",
-        "Desc": "Qi-controlled hovering attack unit, also named \"Flying Sword.\" Closely connected to the wielder's psyche and can be used as an extension of its wielder's will.",
+        "Name": "비검",
+        "Desc": "기로 움직이는 허공의 공격 유닛으로 별명이 「비검」인 무기. 주인과 텔레파시가 통해서 수족처럼 움직인다",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -4254,8 +4277,8 @@ var _monster = {
     "2002030": {
         "_id": 2002030,
         "Key": "Monster_W2_Valkyrie01_00_Config",
-        "Name": "Wraith Warden",
-        "Desc": "A somber warrior that accompanies the Judges of the Ten-Lords Commission to execute missions.<br>Adorned with the black and white mask that symbolizes the netherworld envoy, they wield a guillotine blade, their strikes echoing the weighty and unyielding duty of the Ten-Lords Commission.",
+        "Name": "명부 무관",
+        "Desc": "시왕사 판관의 뜻대로 임무를 수행하는 무위(武衛).<br>명계에서 온 사자를 상징하는 검은색과 흰색의 가면을 쓰고 있으며, 작두를 들고 있다. 그 공격은 시왕사의 사명이 지닌 무게만큼 무거워 절대 거스를 수 없다",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -4299,8 +4322,8 @@ var _monster = {
     "2002031": {
         "_id": 2002031,
         "Key": "Monster_W2_Valkyrie01_00_Config",
-        "Name": "Wraith Warden",
-        "Desc": "A somber warrior that accompanies the Judges of the Ten-Lords Commission to execute missions.<br>Adorned with the black and white mask that symbolizes the netherworld envoy, they wield a guillotine blade, their strikes echoing the weighty and unyielding duty of the Ten-Lords Commission.",
+        "Name": "명부 무관",
+        "Desc": "시왕사 판관의 뜻대로 임무를 수행하는 무위(武衛).<br>명계에서 온 사자를 상징하는 검은색과 흰색의 가면을 쓰고 있으며, 작두를 들고 있다. 그 공격은 시왕사의 사명이 지닌 무게만큼 무거워 절대 거스를 수 없다",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -4339,8 +4362,8 @@ var _monster = {
     "2004010": {
         "_id": 2004010,
         "Key": "Monster_W2_Kafka_00_Config",
-        "Name": "Stellaron Hunter: Kafka",
-        "Desc": "One of the Stellaron Hunters. A beautiful assassin wearing an enigmatic smile, she excels in manipulation and various weaponry. It was by her design that the Astral Express was led here, all of which was simply part of a certain plan...",
+        "Name": "「스텔라론 헌터」 카프카",
+        "Desc": "「스텔라론 헌터」의 일원. 알 수 없는 미소를 가진 미모의 킬러. 다양한 무기를 활용하고 남을 조종하는 데 능하다. 그녀는 어떤 계획을 실현하기 위해 은하열차를 이곳으로 이끌었다",
         "Stats": {
             "HP": 14.0,
             "ATK": 18.0,
@@ -4397,8 +4420,8 @@ var _monster = {
     "2004011": {
         "_id": 2004011,
         "Key": "Monster_W2_Kafka_00_Config_RL",
-        "Name": "Stellaron Hunter: Kafka (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is one of the Stellaron Hunters. A beautiful assassin wearing an enigmatic smile, she excels in manipulation and weaponry of various kinds. It was by her design that the Astral Express was led where it is now, all of which was simply part of a certain unknown plan...",
+        "Name": "「스텔라론 헌터」 카프카(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 「스텔라론 헌터」의 일원. 알 수 없는 미소를 가진 미모의 킬러. 다양한 무기를 활용하고 남을 조종하는 데 능하다. 그녀는 어떤 계획을 실현하기 위해 은하열차를 이곳으로 이끌었다……",
         "Stats": {
             "HP": 9.0,
             "ATK": 18.0,
@@ -4486,8 +4509,8 @@ var _monster = {
     "2004012": {
         "_id": 2004012,
         "Key": "Monster_W2_Kafka_00_Config_RL",
-        "Name": "Stellaron Hunter: Kafka (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is one of the Stellaron Hunters. A beautiful assassin wearing an enigmatic smile, she excels in manipulation and weaponry of various kinds. It was by her design that the Astral Express was led where it is now, all of which was simply part of a certain unknown plan...",
+        "Name": "「스텔라론 헌터」 카프카(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 「스텔라론 헌터」의 일원. 알 수 없는 미소를 가진 미모의 킬러. 다양한 무기를 활용하고 남을 조종하는 데 능하다. 그녀는 어떤 계획을 실현하기 위해 은하열차를 이곳으로 이끌었다……",
         "Stats": {
             "HP": 9.0,
             "ATK": 18.0,
@@ -4575,8 +4598,8 @@ var _monster = {
     "2004013": {
         "_id": 2004013,
         "Key": "Monster_W2_Kafka_00_IF02_Config",
-        "Name": "Stellaron Hunter: Kafka (Illusion)",
-        "Desc": "One of the Stellaron Hunters. A beautiful assassin wearing an enigmatic smile, she excels in manipulation and various weaponry. It was by her design that the Astral Express was led here, all of which was simply part of a certain plan... This entity is a phantom borne from your memories.",
+        "Name": "「스텔라론 헌터」 카프카(환상)",
+        "Desc": "「스텔라론 헌터」의 일원. 알 수 없는 미소를 가진 미모의 킬러. 다양한 무기를 활용하고 남을 조종하는 데 능하다. 그녀는 어떤 계획을 실현하기 위해 은하열차를 이곳으로 이끌었다…… 이곳에 나타난 건 당신의 기억을 바탕으로 시뮬레이션한 환영이다",
         "Stats": {
             "HP": 70.0,
             "ATK": 18.0,
@@ -4659,8 +4682,8 @@ var _monster = {
     "2004020": {
         "_id": 2004020,
         "Key": "Monster_W2_Yanqing_00_Config",
-        "Name": "Cloud Knight Lieutenant: Yanqing",
-        "Desc": "...",
+        "Name": "운기 효위(驍衛)•연경",
+        "Desc": "…",
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -4725,7 +4748,7 @@ var _monster = {
     "2004021": {
         "_id": 2004021,
         "Key": "Monster_W2_Yanqing_00_Config_RL",
-        "Name": "Cloud Knight Lieutenant: Yanqing (Complete)",
+        "Name": "운기군 효위•연경(완벽)",
         "Desc": "…",
         "Stats": {
             "HP": 10.0,
@@ -4819,8 +4842,8 @@ var _monster = {
     "2004022": {
         "_id": 2004022,
         "Key": "Monster_W2_Yanqing_00_Config_RL",
-        "Name": "Cloud Knight Lieutenant: Yanqing (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is General Jing Yuan's retainer, a gifted swordsman who hasn't even come of age.",
+        "Name": "운기군 효위•연경(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 어린 나이임에도 검을 다루는 천재라 불리는 경원 장군의 호위무사이다",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -4907,8 +4930,8 @@ var _monster = {
     "2004023": {
         "_id": 2004023,
         "Key": "Monster_W2_Yanqing_00_IF_Config",
-        "Name": "Cloud Knight Lieutenant: Yanqing (Illusion)",
-        "Desc": "General Jing Yuan's retainer. A gifted swordsman who hasn't even come of age. This entity is a phantom borne from your memories.",
+        "Name": "운기군 효위•연경(환상)",
+        "Desc": "경원 장군의 호위무사이다. 어린 나이임에도 불구하고 천재라 불릴 정도로 뛰어난 검술을 지니고 있다. 이곳에 나타난 건 당신의 기억을 바탕으로 시뮬레이션한 환영이다",
         "Stats": {
             "HP": 70.0,
             "ATK": 18.0,
@@ -4979,11 +5002,85 @@ var _monster = {
         ],
         "IsIllusion": 1
     },
+    "2004024": {
+        "_id": 2004024,
+        "Key": "Monster_W2_Yanqing_03_Config",
+        "Name": "",
+        "Desc": "",
+        "Stats": {
+            "HP": 10.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.75,
+            "Confine": 0.75,
+            "Entangle": 0.75
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    200402401,
+                    200402403,
+                    200402404,
+                    200402405,
+                    200402406
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    200402401,
+                    200402402,
+                    200402403,
+                    200402404,
+                    200402405,
+                    200402406
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    200402407,
+                    200402408,
+                    200402409
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_2004020.png",
+        "Figure": "monsterfigure/Monster_2004020.png",
+        "AllSkills": [
+            200402401,
+            200402403,
+            200402404,
+            200402405,
+            200402406,
+            200402402
+        ]
+    },
     "2011010": {
         "_id": 2011010,
         "Key": "Monster_W2_Mecha01_00_Config",
-        "Name": "Entranced Ingenium: Obedient Dracolion",
-        "Desc": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate alarm bell used for warnings, but now it has been given a short-lived \"life\" due to certain mutations.",
+        "Name": "신들린 기교 • 온순한 산예",
+        "Desc": "공조사 장인이 만든 기발한 발명품. 원래 지능이 없고 사람들에게 경보를 알리는 경적으로 쓰였지만, 어떠한 변이로 인해 잠시 「생명」이 부여되었다",
         "Stats": {
             "HP": 0.9,
             "ATK": 18.0,
@@ -5026,8 +5123,8 @@ var _monster = {
     "2011020": {
         "_id": 2011020,
         "Key": "Monster_W2_Mecha01_01_Config",
-        "Name": "Entranced Ingenium: Golden Cloud Toad",
-        "Desc": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate burner used for purifying the air, but now it has been given a short-lived \"life\" due to certain mutations.",
+        "Name": "신들린 기교 • 구름 금두꺼비",
+        "Desc": "공조사 장인이 만든 기발한 발명품. 원래 지능이 없고 공기를 정화하는 향로로 쓰였지만, 어떠한 변이로 인해 잠시 「생명」이 부여되었다",
         "Stats": {
             "HP": 0.9,
             "ATK": 18.0,
@@ -5070,8 +5167,8 @@ var _monster = {
     "2012010": {
         "_id": 2012010,
         "Key": "Monster_W2_Mecha02_00_Config",
-        "Name": "Entranced Ingenium: Illumination Dragonfish",
-        "Desc": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate illuminator used for casting light upon darkness, but now it has been given a short-lived \"life\" due to certain mutations.",
+        "Name": "신들린 기교 • 불빛 용물고기",
+        "Desc": "공조사 장인이 만든 기발한 발명품. 원래 지능이 없고 어둠을 밝히는 조명으로 쓰였지만, 어떠한 변이로 인해 잠시 「생명」이 부여되었다",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -5116,8 +5213,8 @@ var _monster = {
     "2013010": {
         "_id": 2013010,
         "Key": "Monster_W2_Mecha03_00_Config",
-        "Name": "Aurumaton Gatekeeper",
-        "Desc": "Garrison aurumaton created with ancient ingenium technology.<br>Countless years ago, the aurumatons set sail with the Xianzhou to seek divine recipes of immortality, and were tasked to oversee humanity and to aid humankind during warfare. However, after countless rebellions, they were finally overpowered by the Xianzhou natives.<br>Now, all aurumatons are strictly controlled with talismans, and are employed to guard important places.",
+        "Name": "문지기 금 조각상",
+        "Desc": "고대의 기교술로 주조된 금 조각상.<br>오래 전 금 조각상은 신비의 영약을 구하기 위해 선주를 따라 출항했다. 당시 금 조각상은 전쟁에서 인류를 감독하고 도왔지만, 반란을 겪으며 결국 선주 사람에게 항복하고 만다.<br>오늘날 모든 금 조각상은 부적으로 엄격하게 통제되며, 요충지를 지키는 데 쓰인다",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -5167,8 +5264,8 @@ var _monster = {
     "2013011": {
         "_id": 2013011,
         "Key": "Monster_W2_Mecha03_00_Config_RLElite",
-        "Name": "Aurumaton Gatekeeper (Bug)",
-        "Desc": "A false projection produced by compromised codes. The original referent entity is the garrison aurumatons created with ancient ingenium technology.<br>Countless years ago, the aurumatons set sail with the Xianzhou to seek divine recipes of immortality, and were tasked to oversee humanity and to aid humankind during warfare. However, after countless rebellions, they were finally overpowered by the Xianzhou natives.<br>Now, all aurumatons are strictly controlled with talismans, and are employed to guard important places.",
+        "Name": "문지기 금 조각상(오류)",
+        "Desc": "코드가 영향을 받아 오류가 난 홀로그램. 원본 레퍼런스는 고대의 기교술로 주조된 금 조각상.<br>오래 전 금 조각상은 신비의 영약을 구하기 위해 선주를 따라 출항했다. 당시 금 조각상은 전쟁에서 인류를 감독하고 도왔지만, 반란을 겪으며 결국 선주 사람에게 항복하고 만다.<br>오늘날 모든 금 조각상은 부적으로 엄격하게 통제되며, 요충지를 지키는 데 쓰인다",
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -5224,8 +5321,8 @@ var _monster = {
     "2013012": {
         "_id": 2013012,
         "Key": "Monster_W2_Mecha03_00_Config",
-        "Name": "Aurumaton Gatekeeper",
-        "Desc": "Garrison aurumaton created with ancient ingenium technology.<br>Countless years ago, the aurumatons set sail with the Xianzhou to seek divine recipes of immortality, and were tasked with overseeing humanity and aiding humankind during warfare. However, after countless rebellions, they were finally overpowered by the Xianzhou natives.<br>Now, all aurumatons are strictly controlled with talismans and are employed to guard important places.",
+        "Name": "문지기 금 조각상",
+        "Desc": "고대의 기교술로 주조된 금 조각상.<br>오래 전 금 조각상은 신비의 영약을 구하기 위해 선주를 따라 출항했다. 당시 금 조각상은 전쟁에서 인류를 감독하고 도왔지만, 반란을 겪으며 결국 선주 사람에게 항복하고 만다.<br>오늘날 모든 금 조각상은 부적에 의해 엄격하게 통제되어 요충지를 지키는 데 쓰이고 있다",
         "Stats": {
             "HP": 10.0,
             "ATK": 12.00006,
@@ -5274,8 +5371,8 @@ var _monster = {
     "2013020": {
         "_id": 2013020,
         "Key": "Monster_W2_Valkyrie02_00_Config",
-        "Name": "Aurumaton Spectral Envoy",
-        "Desc": "A law-enforcing aurumaton engraved with the Ten-Lords Martial Scriptures and taking orders from the Ten-Lords Commission.<br>Living beings are susceptible to the corporeal and mental existence of the self, but gold and metal will never be swayed and will unwaveringly follow the Ten-Lords' edicts.<br>These aurumaton law enforcers use their strength to subdue evils that have strayed from the natural order of life, and bring them to the Netherworld to meet their sentence. Its authority is sometimes even greater than that of a judge.",
+        "Name": "금 조각상•저승사자",
+        "Desc": "≪시왕무경≫을 기록하고 시왕사의 명령을 따르는 집법 금 조각상.<br>피와 살은 오음의 고통에 사로잡혀 있으며, 강철 같은 마음은 흔들리지 않고 시왕의 칙령을 시행한다.<br>이러한 금 조각상 집법관은 생명 질서에 벗어난 사악한 것들을 힘으로 굴복시키고 이를 명부로 데려가 심판을 받게 하는데, 때로는 그 권한이 판관을 능가한다",
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -5333,8 +5430,8 @@ var _monster = {
     "2013021": {
         "_id": 2013021,
         "Key": "Monster_W2_Valkyrie02_00_Config_RLElite",
-        "Name": "Aurumaton Spectral Envoy (Bug)",
-        "Desc": "A false projection produced by compromised codes. The original reference entity is a law-enforcing aurumaton engraved with the Ten-Lords Martial Scriptures and taking orders from the Ten-Lords Commission.<br>Living beings are susceptible to the corporeal and mental existence of the self, but gold and metal will never be swayed and will unwaveringly follow the Ten-Lords' edicts.<br>These aurumaton law enforcers use their strength to subdue evils that have strayed from the natural order of life, and bring them to the Netherworld to meet their sentence. Its authority is sometimes even greater than that of a judge.",
+        "Name": "금 조각상•저승사자(오류)",
+        "Desc": "코드가 영향을 받아 오류가 난 홀로그램. 원본 레퍼런스는 ≪시왕무경≫을 기록하고 시왕사의 명령을 따르는 집법 금 조각상.<br>피와 살은 오음의 고통에 사로잡혀 있으며, 강철 같은 마음은 흔들리지 않고 시왕의 칙령을 시행한다.<br>이러한 금 조각상 집법관은 생명 질서에 벗어난 사악한 것들을 힘으로 굴복시키고 이를 명부로 데려가 심판을 받게 하는데, 때로는 그 권한이 판관을 능가한다",
         "Stats": {
             "HP": 17.0,
             "ATK": 18.0,
@@ -5395,8 +5492,8 @@ var _monster = {
     "2022010": {
         "_id": 2022010,
         "Key": "Monster_W2_Abomi01_00_Config",
-        "Name": "Mara-Struck Soldier",
-        "Desc": "Soldiers of the Xianzhou who somehow fell into madness. Their bodies continue to grow and mutate and have long lost their humanoid form. It is said that the long-lived Xianzhou natives would eventually be stricken with mara.",
+        "Name": "마각의 몸 병사",
+        "Desc": "알 수 없는 광란에 빠진 선주 병사. 사람의 형체가 사라지고 변이만이 끊임없이 증식하고 있다. 전설에 따르면 선주 사람은 무한한 수명 속에서 「마각의 몸」 상태에 빠진다고 한다",
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -5449,8 +5546,8 @@ var _monster = {
     "2022020": {
         "_id": 2022020,
         "Key": "Monster_W2_Abomi02_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Internal Alchemist",
-        "Desc": "A member of the Disciples of Sanctus Medicus, the secret sect that hid within the Xianzhou Luofu. <br>With medicine, purify the heart. With elixir, transform one's body. They long to revive the ancient mysteries of Abundance, hoping to spur Xianzhou natives towards their next stage of evolution.",
+        "Name": "「약왕의 비전」 내단사",
+        "Desc": "선주 나부에 잠복한 비밀 세력 「약왕의 비전」의 구성원.<br>약으로 깨달음을 구한다. 그들은 선주 사람들이 다음 단계의 진화를 밟게끔 옛날 풍요의 비밀을 다시 부흥시키고자 한다",
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -5498,8 +5595,8 @@ var _monster = {
     "2022040": {
         "_id": 2022040,
         "Key": "Monster_W2_Beast01_00_Config",
-        "Name": "Abundance Sprite: Golden Hound",
-        "Desc": "A gilded hunting hound that moves with grace and speed.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Golden Hounds were one of the war beasts that walked alongside the army.",
+        "Name": "풍요의 요수•누금",
+        "Desc": "금실로 꾸민 사냥개, 행동이 우아하고 재빠르다.<br>지난번 「불멸의 거목」이 서있었을 때 선주 사람이 기괴한 기술로 여러 진귀한 요수를 번식시켰다. 누금은 군대를 따라 행진하는 전투 요수 중 하나이다",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -5541,8 +5638,8 @@ var _monster = {
     "2022050": {
         "_id": 2022050,
         "Key": "Monster_W2_Beast01_01_Config",
-        "Name": "Abundance Sprite: Wooden Lupus",
-        "Desc": "A wolf surrounded with haze, its movement is elusive and unexpected.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Wooden Lupuses were one of the war beasts that walked alongside the army.",
+        "Name": "풍요의 요수•규목",
+        "Desc": "안개에 싸인 늑대. 행동을 종잡을 수 없다.<br>지난번 「불멸의 거목」이 서 있었을 때 선주 사람이 기괴한 기술로 여러 진귀한 요수들을 번식시켰다. 규목은 군대를 따라 행진하는 전투 요수 중 하나이다",
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -5593,8 +5690,8 @@ var _monster = {
     "2022051": {
         "_id": 2022051,
         "Key": "Monster_W2_Beast01_02_Config",
-        "Name": "Shadow Jackhyena",
-        "Desc": "Illusion formed by a Wooden Lupus.",
+        "Name": "그림자 이리",
+        "Desc": "규목이 응집된 환영",
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -5637,8 +5734,8 @@ var _monster = {
     "2022060": {
         "_id": 2022060,
         "Key": "Monster_W2_Abomi03_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Ballistarius",
-        "Desc": "A member of the Disciples of Sanctus Medicus, the secret organization that had lain hidden in the Xianzhou Luofu.<br>They pursue cultivation using tools and merge with them. They long to revive the lost secrets of Abundance, hoping to spur Xianzhou natives toward their next stage of evolution.",
+        "Name": "「약왕의 비전」 기원사",
+        "Desc": "선주 나부에 잠복한 비밀 세력 「약왕의 비전」의 구성원.<br>도구를 빌어 도를 닦고 이와 한 몸이 된다. 그들은 선주 사람들이 다음 단계의 진화를 밟게끔 옛날 풍요의 비밀을 다시 부흥시키고자 한다",
         "Stats": {
             "HP": 2.2,
             "ATK": 18.0,
@@ -5678,8 +5775,8 @@ var _monster = {
     "2022070": {
         "_id": 2022070,
         "Key": "Monster_W2_Xuanlu_01_Config",
-        "Name": "Twig of Wintry Wind",
-        "Desc": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint",
+        "Name": "소슬바람의 가지",
+        "Desc": "현록의 자취를 따라 생긴 불멸의 거목 우듬지",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -5722,8 +5819,8 @@ var _monster = {
     "2022071": {
         "_id": 2022071,
         "Key": "Monster_W2_Xuanlu_01_Config_RL",
-        "Name": "Twig of Wintry Wind",
-        "Desc": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint",
+        "Name": "소슬바람의 가지",
+        "Desc": "현록의 자취를 따라 생긴 불멸의 거목 우듬지",
         "Stats": {
             "HP": 1.3,
             "ATK": 18.0,
@@ -5766,8 +5863,8 @@ var _monster = {
     "2022080": {
         "_id": 2022080,
         "Key": "Monster_W2_Xuanlu_02_Config",
-        "Name": "Twig of Marple Leaf",
-        "Desc": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint",
+        "Name": "담황색 잎의 가지",
+        "Desc": "현록의 자취를 따라 생긴 불멸의 거목 우듬지",
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -5815,8 +5912,8 @@ var _monster = {
     "2022081": {
         "_id": 2022081,
         "Key": "Monster_W2_Xuanlu_02_Config_RL",
-        "Name": "Twig of Marple Leaf",
-        "Desc": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint.",
+        "Name": "담황색 잎의 가지",
+        "Desc": "현록의 자취를 따라 생긴 불멸의 거목 우듬지",
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -5864,8 +5961,8 @@ var _monster = {
     "2022090": {
         "_id": 2022090,
         "Key": "Monster_W2_Xuanlu_03_Config",
-        "Name": "Twig of Glorious Blooms",
-        "Desc": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint",
+        "Name": "무성한 꽃의 가지",
+        "Desc": "현록의 자취를 따라 생긴 불멸의 거목 우듬지",
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -5905,8 +6002,8 @@ var _monster = {
     "2022091": {
         "_id": 2022091,
         "Key": "Monster_W2_Xuanlu_03_Config",
-        "Name": "Twig of Glorious Blooms",
-        "Desc": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint.",
+        "Name": "무성한 꽃의 가지",
+        "Desc": "현록의 자취를 따라 생긴 불멸의 거목 우듬지",
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -5945,8 +6042,8 @@ var _monster = {
     "2022100": {
         "_id": 2022100,
         "Key": "Monster_W2_Xuanlu_04_Config",
-        "Name": "Twig of Lavish Fruits",
-        "Desc": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint",
+        "Name": "탐스러운 과실의 가지",
+        "Desc": "현록의 자취를 따라 생긴 불멸의 거목 우듬지",
         "Stats": {
             "HP": 2.4,
             "ATK": 18.0,
@@ -5991,8 +6088,8 @@ var _monster = {
     "2022101": {
         "_id": 2022101,
         "Key": "Monster_W2_Xuanlu_04_Config",
-        "Name": "Twig of Lavish Fruits",
-        "Desc": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint.",
+        "Name": "탐스러운 과실의 가지",
+        "Desc": "현록의 자취를 따라 생긴 불멸의 거목 우듬지",
         "Stats": {
             "HP": 3.0,
             "ATK": 18.0,
@@ -6036,8 +6133,8 @@ var _monster = {
     "2022110": {
         "_id": 2022110,
         "Key": "Monster_W2_Valkyrie01_01_Config",
-        "Name": "Mara-Struck Warden",
-        "Desc": "A Ten-Lords Commission soldier that has fallen to mara.<br>As long as they are still mortals of flesh and blood, the people of Xianzhou will never be able to escape their fate.",
+        "Name": "마각 무관",
+        "Desc": "마각의 몸에 빠진 시왕사 무위(武衛).<br>피와 살로 태어난 선주 사람이라면 이 운명을 거스를 순 없다",
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -6084,8 +6181,8 @@ var _monster = {
     "2023010": {
         "_id": 2023010,
         "Key": "Monster_W2_Abomi04_00_Config",
-        "Name": "Disciples of Sanctus Medicus: Shape Shifter",
-        "Desc": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality.",
+        "Name": "「약왕의 비전」 조형자",
+        "Desc": "고대 풍요의 비밀을 부활시켜 선주 사람들을 등선의 길로 이끌길 갈망하는 수련자.<br>이제 그들의 소원은 이루어졌다. 그들은 고대의 영험한 힘을 얻어 갑옷과 무기로 삼았고 장생불사의 비밀도 접하게 됐다",
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -6137,8 +6234,8 @@ var _monster = {
     "2023011": {
         "_id": 2023011,
         "Key": "Monster_W2_Abomi04_00_Config_RLElite",
-        "Name": "Disciples of Sanctus Medicus: Shape Shifter (Bug)",
-        "Desc": "A false projection produced by compromised codes. The original referent entity is a cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality.",
+        "Name": "「약왕의 비전」 조형자(오류)",
+        "Desc": "코드가 영향을 받아 오류가 난 홀로그램. 원본 레퍼런스는 고대 풍요의 비밀을 부활시켜 선주 사람들을 등선의 길로 이끌길 갈망하는 수련자<br>이제 그들의 소원은 이루어졌다. 그들은 고대의 영험한 힘을 얻어 갑옷과 무기로 삼았고 장생불사의 비밀도 접하게 됐다",
         "Stats": {
             "HP": 17.0,
             "ATK": 18.0,
@@ -6196,8 +6293,8 @@ var _monster = {
     "2023020": {
         "_id": 2023020,
         "Key": "Monster_W2_Beast02_00_Config",
-        "Name": "Abundance Sprite: Malefic Ape",
-        "Desc": "An ape as tall as mountainous boulders with terrifying might.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with their esoteric techniques. Malefic Apes were one of the war beasts that walked alongside the army.",
+        "Name": "풍요의 요수•장우",
+        "Desc": "산바위 같은 강력한 파괴력을 가진 괴수.<br>지난번 「불멸의 거목」이 서 있었을 때 선주 사람이 기괴한 기술로 여러 요수를 번식시켰다. 장우는 군대를 따라 행진하는 전투 요수 중 하나이다",
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -6254,8 +6351,8 @@ var _monster = {
     "2023021": {
         "_id": 2023021,
         "Key": "Monster_W2_Beast02_00_Config_RLElite",
-        "Name": "Abundance Sprite: Malefic Ape (Bug)",
-        "Desc": "A false projection produced by compromised codes. The referenced entity is an ape as tall as mountainous boulders with terrifying might.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with their esoteric techniques. Malefic Apes were one of the war beasts that walked alongside the army.",
+        "Name": "풍요의 요수•장우(오류)",
+        "Desc": "코드가 영향을 받아 오류가 난 홀로그램. 원본 레퍼런스는 산바위 같은 강력한 파괴력을 가진 괴수.<br>지난번 「불멸의 거목」이 서 있었을 때 선주 사람이 기괴한 기술로 여러 요수를 번식시켰다. 장우는 군대를 따라 행진하는 전투 요수 중 하나이다",
         "Stats": {
             "HP": 18.0,
             "ATK": 18.0,
@@ -6310,8 +6407,8 @@ var _monster = {
     "2023030": {
         "_id": 2023030,
         "Key": "Monster_XP_Elite02_02_Config",
-        "Name": "The Ascended",
-        "Desc": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses.",
+        "Name": "승로천인",
+        "Desc": "「약왕의 비전」 신도가 갈구하는 형태. 인간이라는 무게를 벗어던지고 선도에서 다시 태어난 참된 몸.<br>태고 시대, 구도자들은 불멸의 거목에서 심오한 도를 깨닫고 스스로를 「선인」이라 불렀다. 그들은 구속받지 않고, 육신을 찰흙처럼 마음대로 빚었다. 무수한 변화 속에 그들은 자신의 본래 모습을 잊어버렸다",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -6364,8 +6461,8 @@ var _monster = {
     "2023031": {
         "_id": 2023031,
         "Key": "Monster_XP_Elite02_02_Config_RLElite",
-        "Name": "The Ascended (Bug)",
-        "Desc": "A false projection produced by compromised codes. The referenced entity is the form that the Disciples of Sanctus Medicus crave. A true shape that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints, and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses.",
+        "Name": "승로천인(오류)",
+        "Desc": "코드가 영향을 받아 오류가 난 홀로그램. 원본 레퍼런스는 「약왕의 비전」 신도가 갈구하는 형태. 인간이라는 무게를 벗어던지고 선도에서 다시 태어난 참된 몸.<br>태고 시대, 구도자들은 불멸의 거목에서 심오한 도를 깨닫고 스스로를 「선인」이라 불렀다. 그들은 구속받지 않고, 육신을 찰흙처럼 마음대로 빚었다. 무수한 변화 속에 그들은 자신의 본래 모습을 잊어버렸다",
         "Stats": {
             "HP": 16.5,
             "ATK": 18.0,
@@ -6417,8 +6514,8 @@ var _monster = {
     "2024010": {
         "_id": 2024010,
         "Key": "Monster_W2_Xuanlu_00_Config",
-        "Name": "Abundant Ebon Deer",
-        "Desc": "An auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again.",
+        "Name": "풍요 현록",
+        "Desc": "「불멸의 거목」에서 탄생해 그 뿌리를 지키는 상서로운 동물, 이들은 물에 의존에 생존하고 가지와 잎을 무성하게 한다<br>태고 시대의 전쟁에서 자멸한 후 「불멸의 거목」은 마침내 스텔라론의 보수를 받고 다시 자란다. 이때 선인들이 만든 진기한 동물들은 옛꿈을 다시 찾듯 속속들이 찾아온다",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -6496,8 +6593,8 @@ var _monster = {
     "2024011": {
         "_id": 2024011,
         "Key": "Monster_W2_Xuanlu_10_Config_RL",
-        "Name": "Abundant Ebon Deer (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is an auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again.",
+        "Name": "풍요 현록(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 「불멸의 거목」에서 탄생해 그 뿌리를 지키는 상서로운 동물로 물에 의존해 생존하고 가지와 잎이 무성하다.<br>태고 시대의 전쟁에서 자멸한 후 「불멸의 거목」은 마침내 스텔라론의 힘으로 복원돼서 다시 자라났다. 이때 선인들이 창조한 진기한 동물들이 옛꿈처럼 속속들이 다시 찾아온다",
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -6591,8 +6688,8 @@ var _monster = {
     "2024012": {
         "_id": 2024012,
         "Key": "Monster_W2_Xuanlu_10_Config_RL",
-        "Name": "Abundant Ebon Deer (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is an auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again.",
+        "Name": "풍요 현록(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 「불멸의 거목」에서 탄생해 그 뿌리를 지키는 상서로운 동물로 물에 의존해 생존하고 가지와 잎이 무성하다.<br>태고 시대의 전쟁에서 자멸한 후 「불멸의 거목」은 마침내 스텔라론의 힘으로 복원돼서 다시 자라났다. 이때 선인들이 창조한 진기한 동물들이 옛꿈처럼 속속들이 다시 찾아온다",
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -6686,8 +6783,8 @@ var _monster = {
     "2024013": {
         "_id": 2024013,
         "Key": "Monster_W2_Xuanlu_00_IF_Config",
-        "Name": "Abundant Ebon Deer (Illusion)",
-        "Desc": "An auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again. This entity is a phantom borne from your memories.",
+        "Name": "풍요 현록(환상)",
+        "Desc": "「불멸의 거목」에서 탄생해 그 뿌리를 지키는 상서로운 동물로 물에 의존해 생존하고 가지와 잎이 무성하다.<br>태고 시대의 전쟁에서 자멸한 후 「불멸의 거목」은 마침내 스텔라론의 힘으로 복원돼서 다시 자라났다. 이때 선인들이 창조한 진기한 동물들이 옛꿈처럼 속속들이 다시 찾아온다. 이곳에 나타난 건 당신의 기억을 바탕으로 시뮬레이션한 환영이다",
         "Stats": {
             "HP": 52.5,
             "ATK": 18.0,
@@ -6769,8 +6866,8 @@ var _monster = {
     "2024014": {
         "_id": 2024014,
         "Key": "Monster_W2_Xuanlu_00_Config_Pingshu",
-        "Name": "Abundant Ebon Deer",
-        "Desc": "An auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again.",
+        "Name": "풍요 현록",
+        "Desc": "「불멸의 거목」에서 탄생해 그 뿌리를 지키는 상서로운 동물, 이들은 물에 의존에 생존하고 가지와 잎을 무성하게 한다<br>태고 시대의 전쟁에서 자멸한 후 「불멸의 거목」은 마침내 스텔라론의 보수를 받고 다시 자란다. 이때 선인들이 만든 진기한 동물들은 옛꿈을 다시 찾듯 속속들이 찾아온다",
         "Stats": {
             "HP": 27.5,
             "ATK": 18.0,
@@ -6833,8 +6930,8 @@ var _monster = {
     "2024020": {
         "_id": 2024020,
         "Key": "Monster_W2_Fuyan_00_Config",
-        "Name": "Cirrus",
-        "Desc": "A fragment of the great heliobus, Ignamar. Gather the numerous fragments of the heliobus to recreate Ignamar's spirit.",
+        "Name": "부연",
+        "Desc": "대세양 「요원」의 조각. 수많은 세양 조각이 모여 「요원」의 기백을 재현하려 한다",
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -6872,8 +6969,8 @@ var _monster = {
     "3001010": {
         "_id": 3001010,
         "Key": "Monster_W2_Mecha01_02_Config",
-        "Name": "Dreamjolt Troupe's Spring Loader",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a tool for entertainment on the card table, it is still shaking the dice in its hands after losing control, continuing the game in a crude manner.",
+        "Name": "나쁜꿈 극단의 스프링 딜러",
+        "Desc": "페나코니의 서비스 기계. 꿈세계의 감정 교란으로 인해 통제 불능에 빠졌다.<br>원래 테이블 위의 오락 도구였다. 통제를 잃은 후에도 여전히 손에 있는 주사위를 흔들며 거친 방식으로 게임을 진행하고 있다",
         "Stats": {
             "HP": 1.0,
             "ATK": 18.0,
@@ -6916,8 +7013,8 @@ var _monster = {
     "3001020": {
         "_id": 3001020,
         "Key": "Monster_XP_Minion01_04_Config",
-        "Name": "Dreamjolt Troupe's Birdskull",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a prop in the theater, it is still performing the farce on the stage after losing control, bringing cacophonic dance steps to every direction.",
+        "Name": "나쁜꿈 극단의 버드 스컬",
+        "Desc": "페나코니의 서비스 기계. 꿈세계 속 감정 교란으로 인해 통제 불능에 빠졌다.<br>원래 극장의 연출 도구였다. 통제를 잃은 후에도 여전히 무대 위에서 촌극을 펼치며 곳곳에 혼란의 춤사위를 선보인다",
         "Stats": {
             "HP": 1.0,
             "ATK": 18.0,
@@ -6957,8 +7054,8 @@ var _monster = {
     "3002010": {
         "_id": 3002010,
         "Key": "Monster_W3_TV_00_Config",
-        "Name": "Dreamjolt Troupe's Mr. Domescreen",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally an entertainer in TV shows, it is still portraying its ever-changing roles after losing control and continues to bring surprises or scares to the audience.",
+        "Name": "나쁜꿈 극단의 Mr. 라운드 스크린",
+        "Desc": "페나코니의 서비스 기계. 꿈세계의 감정 교란으로 인해 통제 불능에 빠졌다.<br>원래는 TV 프로그램에 나오는 엔터테이너였다. 통제 불능에 빠진 후에도 여전히 자신의 변화무쌍한 신분을 연기하고 있으며 관객들에게 놀라움과 경악을 선사한다",
         "Stats": {
             "HP": 2.75,
             "ATK": 18.0,
@@ -7005,11 +7102,58 @@ var _monster = {
         ],
         "Csxylic": "SCDreamjoltTroupe/3002010"
     },
+    "3002020": {
+        "_id": 3002020,
+        "Key": "Monster_W1_Mecha01_02_Config",
+        "Name": "나쁜꿈 극단의 럭키 세일즈맨",
+        "Desc": "페나코니의 서비스 기계. 꿈세계의 감정 교란으로 인해 통제 불능에 빠졌다.<br>원래는 손님들에게 서프라이즈를 선사하는 추첨 기계였다. 통제 불능에 빠진 후에도 여전히 각종 선물을 준비하고 있으며, 스스로를 희생해 손님들의 행운을 증명하려 한다",
+        "Stats": {
+            "HP": 2.25,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300202001,
+                    300202002,
+                    300202003,
+                    300202004,
+                    300202005
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3002020.png",
+        "AllSkills": [
+            300202001,
+            300202002,
+            300202003,
+            300202004,
+            300202005
+        ]
+    },
     "3002030": {
         "_id": 3002030,
         "Key": "Monster_W2_Beast01_03_Config",
-        "Name": "Dreamjolt Troupe's Bubble Hound",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a delivery robot of SoulGlad, it is still dispensing sweetness after losing control, inviting everyone to taste this delicacy.",
+        "Name": "나쁜꿈 극단의 버블 도그",
+        "Desc": "페나코니의 서비스 기계. 꿈세계의 감정 교란으로 인해 통제 불능에 빠졌다.<br>원래는 「솔글래드」 소다수 배달원이었다. 통제 불능에 빠진 후에도 여전히 곳곳에 달콤함을 뿌리면서 모두가 맛있는 음료를 맛볼 수 있게 하고 있다",
         "Stats": {
             "HP": 2.25,
             "ATK": 18.0,
@@ -7056,8 +7200,8 @@ var _monster = {
     "3002040": {
         "_id": 3002040,
         "Key": "Monster_W3_Clock_00_Config",
-        "Name": "Dreamjolt Troupe's Winder Goon",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a waiter in The Reverie, it is still performing its duty of announcing the time after losing control, jolting dreamers awake in the most crude manner.",
+        "Name": "나쁜꿈 극단의 태엽 폭도",
+        "Desc": "페나코니의 서비스 기계. 꿈세계의 감정 교란으로 인해 통제 불능에 빠졌다.<br>원래는 「레버리」 호텔의 직원이었다. 통제 불능에 빠진 후에도 여전히 시간을 알리는 직책을 이행하며 가장 직접적인 방식으로 꿈을 깨운다",
         "Stats": {
             "HP": 1.75,
             "ATK": 18.0,
@@ -7101,8 +7245,8 @@ var _monster = {
     "3002050": {
         "_id": 3002050,
         "Key": "Monster_W3_Junk_00_Config",
-        "Name": "Lordly Trashcan",
-        "Desc": "A peculiar entity born within the realm of fiction, its story documented in the nameless chronicles: a lone and valiant trashcan bearing the mission of the Garbage King to seek formidable warriors to eliminate all waste that threatens the world.",
+        "Name": "왕의 쓰레기통",
+        "Desc": "허구에서 탄생한 기괴한 존재. 그의 이야기는 이름 없는 역사책에 기록되어 있다——쓰레기의 왕의 사명을 짊어지고 있는 고고하고 용감한 통은 강력한 전사를 찾고, 세상에 해를 끼치는 폐자재를 제거한다",
         "Stats": {
             "HP": 50.0,
             "ATK": 18.0,
@@ -7137,8 +7281,8 @@ var _monster = {
     "3002051": {
         "_id": 3002051,
         "Key": "Monster_W3_Junk_00_Config_ActivityTelevision",
-        "Name": "Lordly Trashcan (Projection)",
-        "Desc": "A peculiar entity born within the realm of fiction, its story documented in the nameless chronicles: a lone and valiant trashcan bearing the mission of the Garbage King to seek formidable warriors to eliminate all waste that threatens the world.",
+        "Name": "왕의 쓰레기통(투영)",
+        "Desc": "허구에서 탄생한 기괴한 존재. 그의 이야기는 이름 없는 역사책에 기록되어 있다——쓰레기의 왕의 사명을 짊어지고 있는 고고하고 용감한 통은 강력한 전사를 찾고, 세상에 해를 끼치는 폐자재를 제거한다",
         "Stats": {
             "HP": 100.0,
             "ATK": 18.0,
@@ -7214,8 +7358,8 @@ var _monster = {
     "3003010": {
         "_id": 3003010,
         "Key": "Monster_W3_Dinosaur_00_Config",
-        "Name": "Dreamjolt Troupe's Beyond Overcooked",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a culinary robot, it is still breathing fire for grilling ingredients after losing control, intending to burn the diners to crisps.",
+        "Name": "나쁜꿈 극단의 오버쿡",
+        "Desc": "페나코니의 서비스 기계. 꿈세계의 감정 교란으로 인해 통제 불능에 빠졌다.<br>원래는 음식을 조리하는 요리 기계였다. 통제 불능에 빠진 후에도 여전히 식자재를 가열하기 위한 맹렬한 화염을 내뿜으며, 식객도 함께 재로 만들어 버리려고 한다",
         "Stats": {
             "HP": 18.0,
             "ATK": 18.0,
@@ -7271,8 +7415,8 @@ var _monster = {
     "3003011": {
         "_id": 3003011,
         "Key": "Monster_W3_Dinosaur_00_Config_ActivityTelevision",
-        "Name": "Dreamjolt Troupe's Beyond Overcooked (Projection)",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a culinary robot, it is still breathing fire for grilling ingredients after losing control, intending to burn the diners to crisps.",
+        "Name": "나쁜꿈 극단의 오버쿡(투영)",
+        "Desc": "페나코니의 서비스 기계. 꿈세계의 감정 교란으로 인해 통제 불능에 빠졌다.<br>원래는 음식을 조리하는 요리 기계였다. 통제 불능에 빠진 후에도 여전히 식자재를 가열하기 위한 맹렬한 화염을 내뿜으며, 식객도 함께 재로 만들어 버리려고 한다",
         "Stats": {
             "HP": 125.0,
             "ATK": 18.0,
@@ -7322,8 +7466,8 @@ var _monster = {
     "3003012": {
         "_id": 3003012,
         "Key": "Monster_W3_Dinosaur_00_Config_RLElite",
-        "Name": "Dreamjolt Troupe's Beyond Overcooked (Bug)",
-        "Desc": "A false projection produced by compromised codes. The referenced entity is Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a culinary robot, it is still breathing fire for grilling ingredients after losing control, intending to burn the diners to crisps.",
+        "Name": "나쁜꿈 극단의 오버쿡(오류)",
+        "Desc": "코드가 영향을 받아 오류가 난 홀로그램. 원본 레퍼런스는 페나코니의 서비스 기계. 꿈세계의 감정 교란으로 인해 통제 불능에 빠졌다.<br>원래는 음식을 조리하는 요리 기계였다. 통제 불능에 빠진 후에도 여전히 식자재를 가열하기 위한 맹렬한 화염을 내뿜으며, 식객도 함께 재로 만들어 버리려고 한다",
         "Stats": {
             "HP": 27.0,
             "ATK": 18.0,
@@ -7376,8 +7520,8 @@ var _monster = {
     "3003020": {
         "_id": 3003020,
         "Key": "Monster_W2_Beast02_01_Config",
-        "Name": "Dreamjolt Troupe's Sweet Gorilla",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a transport robot of SoulGlad, it is still carrying the burden of the delicacy after losing control while launching its gift to guests passing by.",
+        "Name": "나쁜꿈 극단의 스위트 고릴라",
+        "Desc": "페나코니의 서비스 기계. 꿈세계의 감정 교란으로 인해 통제 불능에 빠졌다.<br>원래는 「솔글래드」 소다수 배달원이었다. 통제 불능에 빠진 후에도 여전히 등에 메고 있는 맛있는 음료를 나눠주고 있으며, 지나가는 손님들에게 선물을 던진다",
         "Stats": {
             "HP": 18.0,
             "ATK": 18.0,
@@ -7423,8 +7567,8 @@ var _monster = {
     "3003021": {
         "_id": 3003021,
         "Key": "Monster_W2_Beast02_01_Config_ActivityTelevision",
-        "Name": "Dreamjolt Troupe's Sweet Gorilla (Projection)",
-        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a transport robot of SoulGlad, it is still carrying the burden of the delicacy after losing control while launching its gift to guests passing by.",
+        "Name": "나쁜꿈 극단의 스위트 고릴라(투영)",
+        "Desc": "페나코니의 서비스 기계. 꿈세계의 감정 교란으로 인해 통제 불능에 빠졌다.<br>원래는 「솔글래드」 소다수 배달원이었다. 통제 불능에 빠진 후에도 여전히 등에 메고 있는 맛있는 음료를 나눠주고 있으며, 지나가는 손님들에게 선물을 던진다",
         "Stats": {
             "HP": 150.0,
             "ATK": 18.0,
@@ -7476,8 +7620,8 @@ var _monster = {
     "3003022": {
         "_id": 3003022,
         "Key": "Monster_W2_Beast02_01_Config_RLElite",
-        "Name": "Dreamjolt Troupe's Sweet Gorilla (Bug)",
-        "Desc": "A false projection produced by compromised codes. The referenced entity is Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a transport robot of SoulGlad, it is still carrying the burden of the delicacy after losing control while launching its gift to guests passing by.",
+        "Name": "나쁜꿈 극단의 스위트 고릴라(오류)",
+        "Desc": "코드가 영향을 받아 오류가 난 홀로그램. 원본 레퍼런스는 페나코니의 서비스 기계. 꿈세계의 감정 교란으로 인해 통제 불능에 빠졌다.<br>원래는 「솔글래드」 소다수 배달원이었다. 통제 불능에 빠진 후에도 여전히 등에 메고 있는 맛있는 음료를 나눠주고 있으며, 지나가는 손님들에게 선물을 던진다",
         "Stats": {
             "HP": 21.0,
             "ATK": 18.0,
@@ -7521,11 +7665,376 @@ var _monster = {
         "New": true,
         "IsBug": 1
     },
+    "3003030": {
+        "_id": 3003030,
+        "Key": "Monster_W3_Figure_02_Config",
+        "Name": "「새장에 갇힌 과거」",
+        "Desc": "좋은꿈 극단에서 죄수로 분장한 엔터테이너. 원래 「조화의 축제」에서 공연해야 하지만 「질서」에 속박되어 「과거」에 관한 연극을 하고 있다. 과거는 불멸의 쇠사슬이다. 평온한 불씨를 켜고 촛불로 감옥의 권신을 부른다",
+        "Stats": {
+            "HP": 12.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300303001,
+                    300303002,
+                    300303003,
+                    300303004
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    300303005,
+                    300303006,
+                    300303007
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3003030.png",
+        "AllSkills": [
+            300303001,
+            300303002,
+            300303003,
+            300303004
+        ]
+    },
+    "3003031": {
+        "_id": 3003031,
+        "Key": "Monster_W3_Figure_02_Config",
+        "Name": "「새장에 갇힌 과거」",
+        "Desc": "좋은꿈 극단에서 죄수로 분장한 엔터테이너. 원래 「조화의 축제」에서 공연해야 하지만 「질서」에 속박되어 「과거」에 관한 연극을 하고 있다. 과거는 불멸의 쇠사슬이다. 평온한 불씨를 켜고 촛불로 감옥의 권신을 부른다",
+        "Stats": {
+            "HP": 12.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 7.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300303101,
+                    300303102,
+                    300303103,
+                    300303104
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    300303105,
+                    300303106,
+                    300303107
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3003030.png",
+        "AllSkills": [
+            300303101,
+            300303102,
+            300303103,
+            300303104
+        ]
+    },
+    "3003040": {
+        "_id": 3003040,
+        "Key": "Monster_W3_Figure_00_Config",
+        "Name": "「같은 음률의 미래」",
+        "Desc": "좋은꿈 극단에서 조화로운 노래를 연주하는 반주자. 원래 「조화의 축제」에서 연주해야 하지만 「질서」에 속박되어 「미래」에 관한 연극을 하고 있다. 미래는 영원의 긴 노래다. 행복한 염원은 현으로 모이고 연주 소리로 작곡의 군왕을 부른다",
+        "Stats": {
+            "HP": 12.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Elec"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300304001,
+                    300304002,
+                    300304003,
+                    300304004,
+                    300304005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    300304006,
+                    300304007
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3003040.png",
+        "AllSkills": [
+            300304001,
+            300304002,
+            300304003,
+            300304004,
+            300304005
+        ]
+    },
+    "3003041": {
+        "_id": 3003041,
+        "Key": "Monster_W3_Figure_00_Config",
+        "Name": "「같은 음률의 미래」",
+        "Desc": "좋은꿈 극단에서 조화로운 노래를 연주하는 반주자. 원래 「조화의 축제」에서 연주해야 하지만 「질서」에 속박되어 「미래」에 관한 연극을 하고 있다. 미래는 영원의 긴 노래다. 행복한 염원은 현으로 모이고 연주 소리로 작곡의 군왕을 부른다",
+        "Stats": {
+            "HP": 12.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 8.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Elec"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300304101,
+                    300304102,
+                    300304103,
+                    300304104,
+                    300304105
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    300304106,
+                    300304107
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3003040.png",
+        "AllSkills": [
+            300304101,
+            300304102,
+            300304103,
+            300304104,
+            300304105
+        ]
+    },
+    "3003050": {
+        "_id": 3003050,
+        "Key": "Monster_W3_Figure_01_Config",
+        "Name": "「축제에 취한 현재」",
+        "Desc": "좋은꿈 극단에서 손님의 환심을 사는 바텐더. 원래 「조화의 축제」에서 잔을 올려야 하지만 「질서」에 속박되어 「지금」에 관한 연극을 하고 있다. 지금은 새벽의 연회다. 환락의 갈망은 잔 속에서 흔들리고 좋은 술을 연회의 주인에게 바친다",
+        "Stats": {
+            "HP": 12.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300305001,
+                    300305002,
+                    300305004,
+                    300305005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    300305003,
+                    300305006,
+                    300305007
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3003050.png",
+        "AllSkills": [
+            300305001,
+            300305002,
+            300305004,
+            300305005
+        ]
+    },
+    "3003051": {
+        "_id": 3003051,
+        "Key": "Monster_W3_Figure_01_Config",
+        "Name": "「축제에 취한 현재」",
+        "Desc": "좋은꿈 극단에서 손님의 환심을 사는 바텐더. 원래 「조화의 축제」에서 잔을 올려야 하지만 「질서」에 속박되어 「지금」에 관한 연극을 하고 있다. 지금은 새벽의 연회다. 환락의 갈망은 잔 속에서 흔들리고 좋은 술을 연회의 주인에게 바친다",
+        "Stats": {
+            "HP": 12.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 7.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300305101,
+                    300305102,
+                    300305104,
+                    300305105
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    300305103,
+                    300305106,
+                    300305107
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3003050.png",
+        "AllSkills": [
+            300305101,
+            300305102,
+            300305104,
+            300305105
+        ]
+    },
+    "3004010": {
+        "_id": 3004010,
+        "Key": "Monster_W3_FigureBoss_00_Config",
+        "Name": "과거, 현재, 영원히 존재하는 연극",
+        "Desc": "좋은꿈 극단의 배우들은 「질서」의 은혜를 받아 법도를 널리 알리는 꼭두각시가 되었다. 그들은 지고의 명령 아래 춤을 추며 낙원을 맞이하는 연극을 펼쳤다",
+        "Stats": {
+            "HP": 36.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 0.0,
+            "Stance": 0.0
+        },
+        "Weak": [],
+        "RESBase": {},
+        "StatusRESBase": 0.2,
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300401001,
+                    300401002
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    300401001,
+                    300401003,
+                    300401004,
+                    300401005
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 10,
+        "Icon": "mostericon/BattleEvent_Marionette.png",
+        "AllSkills": [
+            300401001,
+            300401002,
+            300401003,
+            300401004,
+            300401005
+        ]
+    },
     "3011010": {
         "_id": 3011010,
         "Key": "Monster_AML_Minion01_02_Config",
-        "Name": "Memory Zone Meme \"Allseer\"",
-        "Desc": "An entity infused with a certain cognition, constructed from fragments of subconsciousness in the Memory Zone.<br>Observation, retrospection, inspection... In the pursuit of preservation and existential understanding of the self, the memories of \"seeing\" and \"looking\" go hand-in-hand, eventually becoming an integral part of life itself.",
+        "Name": "기억의 영역 밈 「어디에나 존재하는 시선」",
+        "Desc": "특정 인지가 있는 실체로, 기억의 영역 속 잠재의식 조각이 쌓여서 만들어졌다.<br>주목, 회고, 관찰… 생명의 생존 행위와 자신의 생존에 대한 깨달음 속에서 「눈으로 본」 기억들은 그림자처럼 따라다니며 결국 생명 그 자체가 된다",
         "Stats": {
             "HP": 1.0,
             "ATK": 18.0,
@@ -7565,8 +8074,8 @@ var _monster = {
     "3012010": {
         "_id": 3012010,
         "Key": "Monster_W3_TV_01_Config",
-        "Name": "Memory Zone Meme \"Something In The Mirror\"",
-        "Desc": "A manifestation containing specific cognitions, accumulated from the subconscious fragments in the Memory Zone.<br>Life forms use mirrors to understand the world and build their self-cognition. The shapeless memetic entity reflects in the mirror, leaving behind ever-shifting mirages.",
+        "Name": "기억의 영역 밈 「무엇이 거울 속에 숨어 있는가」",
+        "Desc": "특정 인지가 있는 실체로, 기억의 영역 속 잠재의식 조각이 쌓여서 만들어졌다.<br>생명은 거울상을 통해 세계를 인지하고 자아를 인지한다. 무형의 밈은 거울에 비치고, 끊임없이 변화하는 그림자를 남긴다",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -7612,8 +8121,8 @@ var _monster = {
     "3012020": {
         "_id": 3012020,
         "Key": "Monster_W3_Clock_01_Config",
-        "Name": "Memory Zone Meme \"Heartbreaker\"",
-        "Desc": "An entity that bears certain cognitions formed from an accruement of subconscious fragments in the Memory Zone.<br>Life is parceled in impenetrable barriers, obstructing the intrusion of the alien. But beneath that ironclad shell, there is a region both nameless and fragile.",
+        "Name": "기억의 영역 밈 「산산조각난 내 마음」",
+        "Desc": "특정 인지가 있는 실체로, 기억의 영역 속 잠재의식 조각이 쌓여서 만들어졌다.<br>견고한 벽이 생명을 감싸고 적을 막는다. 하지만 단단한 육체 속에는 연약하기 그지없는 무명 지대가 있다",
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -7658,8 +8167,8 @@ var _monster = {
     "3012030": {
         "_id": 3012030,
         "Key": "Monster_W3_DeathPart_00_Config",
-        "Name": "Sombrous Sepulcher",
-        "Desc": "Shattered existences serve as symbols of ultimate closure. Across the ethereal expanse, spirits cast their gaze upon the mortal realm, their eyes reflecting the etchings of oblivion and separation.<br>Innocent souls slumber within the Sombrous Sepulcher. Defeat the Tomb to awaken them.",
+        "Name": "영면의 묘비",
+        "Desc": "부서진 생명이 모여 종말의 상징이 되었다. 건너편의 영혼은 여전히 이곳을 바라보고 있으며, 그 눈에는 망각과 이별의 비문이 비친다 .<br>무고한 영혼은 영면의 묘비에서 잠들었다. 영면의 묘비를 처치하면 그들을 깨울 수 있다",
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -7711,8 +8220,8 @@ var _monster = {
     "3012031": {
         "_id": 3012031,
         "Key": "Monster_W3_DeathPart_00_Config_Main2",
-        "Name": "Sombrous Sepulcher",
-        "Desc": "Shattered existences serve as symbols of ultimate closure. Across the ethereal expanse, spirits cast their gaze upon the mortal realm, their eyes reflecting the etchings of oblivion and separation.<br>Innocent souls slumber within the Sombrous Sepulcher. Defeat the Tomb to awaken them.",
+        "Name": "영면의 묘비",
+        "Desc": "부서진 생명이 모여 종말의 상징이 되었다. 건너편의 영혼은 여전히 이곳을 바라보고 있으며, 그 눈에는 망각과 이별의 비문이 비친다 .<br>무고한 영혼은 영면의 묘비에서 잠들었다. 영면의 묘비를 처치하면 그들을 깨울 수 있다",
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -7760,11 +8269,58 @@ var _monster = {
             301203103
         ]
     },
+    "3012040": {
+        "_id": 3012040,
+        "Key": "Monster_W3_Ghost_00_Config",
+        "Name": "",
+        "Desc": "",
+        "Stats": {
+            "HP": 1.25,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 150.0,
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301204001,
+                    301204003
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    301204002
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 11,
+        "Icon": "mostericon/Monster_3012040.png",
+        "AllSkills": [
+            301204001,
+            301204003
+        ]
+    },
     "3013010": {
         "_id": 3013010,
         "Key": "Monster_W3_Dinosaur_01_Config",
-        "Name": "Memory Zone Meme \"Shell of Faded Rage\"",
-        "Desc": "Entities imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>Memories of anguish burn like flames, scorching the heart. When the suffering fades away, the life born from resentment will rise from the ashes, accumulating boundless fury.",
+        "Name": "기억의 영역 밈 「사그라진 분노의 껍데기」",
+        "Desc": "특정 인지가 있는 실체로, 기억의 영역 속 잠재의식 조각이 쌓여서 만들어졌다.<br>괴로운 기억은 맹렬한 불꽃처럼 마음을 불태우고, 고난이 사라지면 원한으로 만들어진 생명이 잿더미 속에서 탄생하여 끝없는 분노를 축적한다",
         "Stats": {
             "HP": 14.0,
             "ATK": 18.0,
@@ -7815,8 +8371,8 @@ var _monster = {
     "3013011": {
         "_id": 3013011,
         "Key": "Monster_W3_Dinosaur_01_Config",
-        "Name": "Memory Zone Meme \"Shell of Faded Rage\"",
-        "Desc": "Entities imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>Memories of anguish burn like flames, scorching the heart. When the suffering fades away, the life born from resentment will rise from the ashes, accumulating boundless fury.",
+        "Name": "기억의 영역 밈 「사그라진 분노의 껍데기」",
+        "Desc": "특정 인지가 있는 실체로, 기억의 영역 속 잠재의식 조각이 쌓여서 만들어졌다.<br>괴로운 기억은 맹렬한 불꽃처럼 마음을 불태우고, 고난이 사라지면 원한으로 만들어진 생명이 잿더미 속에서 탄생하여 끝없는 분노를 축적한다",
         "Stats": {
             "HP": 18.0,
             "ATK": 18.0,
@@ -7870,8 +8426,8 @@ var _monster = {
     "3014020": {
         "_id": 3014020,
         "Key": "Monster_W3_Death_00_Config",
-        "Name": "Memory Zone Meme \"Something Unto Death\"",
-        "Desc": "Entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams.",
+        "Name": "기억의 영역 밈 「무엇이 죽음으로 향하는가」",
+        "Desc": "특정 인지가 있는 실체로, 기억의 영역 속 잠재의식 조각이 쌓여서 만들어졌다.<br>신비하고 위험한 기억의 영역 밈이며, 꿈에서 존재해선 안 되는 「죽음」으로 여겨진다. 그것의 사악한 그림자는 열두 순간에서 배회하며, 그것이 다다른 곳은 예측 불가한 재앙이 반드시 발생한다. 날카로운 칼날로 흉보를 퍼뜨리고, 죽음의 그림자로 좋은꿈을 뒤덮는다",
         "Stats": {
             "HP": 22.0,
             "ATK": 18.0,
@@ -7951,8 +8507,8 @@ var _monster = {
     "3014021": {
         "_id": 3014021,
         "Key": "Monster_W3_Death_00_Config",
-        "Name": "Memory Zone Meme \"Something Unto Death\" (Projection)",
-        "Desc": "Entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams.",
+        "Name": "기억의 영역 밈 「무엇이 죽음으로 향하는가」(투영)",
+        "Desc": "특정 인지가 있는 실체로, 기억의 영역 속 잠재의식 조각이 쌓여서 만들어졌다.<br>신비하고 위험한 기억의 영역 밈이며, 꿈에서 존재해선 안 되는 「죽음」으로 여겨진다. 그것의 사악한 그림자는 열두 순간에서 배회하며, 그것이 다다른 곳은 예측 불가한 재앙이 반드시 발생한다. 날카로운 칼날로 흉보를 퍼뜨리고, 죽음의 그림자로 좋은꿈을 뒤덮는다",
         "Stats": {
             "HP": 22.0,
             "ATK": 18.0,
@@ -8031,8 +8587,8 @@ var _monster = {
     "3014022": {
         "_id": 3014022,
         "Key": "Monster_W3_Death_00_Config_RLBoss",
-        "Name": "Memory Zone Meme \"Something Unto Death\" (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is an entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"Death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams.",
+        "Name": "기억의 영역 밈 「무엇이 죽음으로 향하는가」(완벽)",
+        "Desc": "코드가 영향을 받아 오류가 난 홀로그램. 원본 레퍼런스는 특정 인지가 있는 실체로, 기억의 영역 속 잠재의식 조각이 쌓여서 만들어졌다.<br>신비하고 위험한 기억의 영역 밈이며, 꿈에서 존재해선 안 되는 「죽음」으로 여겨진다. 그것의 사악한 그림자는 열두 순간에서 배회하며, 그것이 다다른 곳은 예측 불가한 재앙이 반드시 발생한다. 날카로운 칼날로 흉보를 퍼뜨리고, 죽음의 그림자로 좋은꿈을 뒤덮는다",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -8120,8 +8676,8 @@ var _monster = {
     "3021020": {
         "_id": 3021020,
         "Key": "Monster_W2_ArgentiTotem_01_Config",
-        "Name": "\"The Honored\"",
-        "Desc": "A statue of \"The Honored.\" Legend has it that there was once a rose kissed by the Beauty, imbuing it with everlasting appeal.",
+        "Name": "「수훈」",
+        "Desc": "「수훈」의 조각상. 여신이 입맞춤했다고 전해지는 장미. 아름다움이 영원히 시들지 않는다고 한다",
         "Stats": {
             "HP": 2.75,
             "ATK": 18.0,
@@ -8166,8 +8722,8 @@ var _monster = {
     "3021021": {
         "_id": 3021021,
         "Key": "Monster_W2_ArgentiTotem_01_Config_RL",
-        "Name": "\"The Honored\"",
-        "Desc": "A statue of \"The Honored.\" Legend has it that there was once a rose kissed by the goddess, imbuing it with everlasting appeal.",
+        "Name": "「수훈」",
+        "Desc": "「수훈」의 조각상. 여신이 입맞춤했다고 전해지는 장미. 아름다움이 영원히 시들지 않는다고 한다",
         "Stats": {
             "HP": 6.25,
             "ATK": 18.0,
@@ -8208,8 +8764,8 @@ var _monster = {
     "3021030": {
         "_id": 3021030,
         "Key": "Monster_W2_ArgentiTotem_00_Config",
-        "Name": "\"Speartip\"",
-        "Desc": "A statue of \"The Spear.\" Encircling the Soul of the Beauty, the Spear and Shield are interdependent, and the Spear stands for the courage to pierce through the darkness.",
+        "Name": "「창끝」",
+        "Desc": "「창」의 조각상. 미(美)의 영혼을 에워싸고 있으며, 창과 방패는 서로 붙어있다. 창은 어둠을 깨는 용기이다",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -8251,8 +8807,8 @@ var _monster = {
     "3021031": {
         "_id": 3021031,
         "Key": "Monster_W2_ArgentiTotem_00_Config_RL",
-        "Name": "\"Speartip\"",
-        "Desc": "A statue of \"The Spear.\" Encircling the Soul of the Beauty, the Spear and Shield are interdependent, and the Spear stands for the courage to pierce through the darkness.",
+        "Name": "「창끝」",
+        "Desc": "「창」의 조각상. 미(美)의 영혼을 에워싸고 있으며, 창과 방패는 서로 붙어있다. 창은 어둠을 깨는 용기이다",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -8293,8 +8849,8 @@ var _monster = {
     "3021040": {
         "_id": 3021040,
         "Key": "Monster_W2_ArgentiTotem_02_Config",
-        "Name": "\"The Shield\"",
-        "Desc": "A statue of \"The Shield.\" Encircling the Soul of the Beauty, the Spear and Shield are interdependent, and the Shield stands for the determination to defend the living.",
+        "Name": "「방패」",
+        "Desc": "「방패」의 조각상. 미(美)의 영혼을 에워싸고 있으며, 창과 방패는 서로 붙어있다. 방패는 생령을 지키는 결심이다",
         "Stats": {
             "HP": 1.9,
             "ATK": 18.0,
@@ -8339,8 +8895,8 @@ var _monster = {
     "3021041": {
         "_id": 3021041,
         "Key": "Monster_W2_ArgentiTotem_02_Config_RL",
-        "Name": "\"The Shield\"",
-        "Desc": "A statue of \"The Shield.\" Encircling the Soul of the Beauty, the Spear and Shield are interdependent, and the Shield stands for the determination to defend the living.",
+        "Name": "「방패」",
+        "Desc": "「방패」의 조각상. 미(美)의 영혼을 에워싸고 있으며, 창과 방패는 서로 붙어있다. 방패는 생령을 지키는 결심이다",
         "Stats": {
             "HP": 4.5,
             "ATK": 18.0,
@@ -8378,11 +8934,52 @@ var _monster = {
             302104102
         ]
     },
+    "3022010": {
+        "_id": 3022010,
+        "Key": "Monster_W3_SundayPart_00_Config",
+        "Name": "페나코니 BOSS의 소환물",
+        "Desc": "……",
+        "Stats": {
+            "HP": 3.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Elec",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302201001,
+                    302201002
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3022010.png",
+        "AllSkills": [
+            302201001,
+            302201002
+        ]
+    },
     "3024010": {
         "_id": 3024010,
         "Key": "Monster_W2_Argenti_00_Config",
-        "Name": "Argenti",
-        "Desc": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"<br>Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name.",
+        "Name": "아젠티",
+        "Desc": "「미의 기사단」의 고전적인 기사. 실종된 「미(美)」의 에이언즈 이드릴라를 경건한 마음으로 흠모하고 있다.<br>정직하고 당당하며, 우주를 유람하면서 이드릴라의 명성을 널리 알린다",
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -8453,8 +9050,8 @@ var _monster = {
     "3024011": {
         "_id": 3024011,
         "Key": "Monster_W2_Argenti_00_Config_RL",
-        "Name": "Argenti (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is a paragon among the Knights of Beauty.",
+        "Name": "아젠티(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 「미(美)의 기사단」의 고전적인 기사",
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -8536,8 +9133,8 @@ var _monster = {
     "3024012": {
         "_id": 3024012,
         "Key": "Monster_W2_Argenti_00_Config_Pingshu",
-        "Name": "Argenti",
-        "Desc": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"<br>Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name.",
+        "Name": "아젠티",
+        "Desc": "「미의 기사단」의 고전적인 기사. 실종된 「미(美)」의 에이언즈 이드릴라를 경건한 마음으로 흠모하고 있다.<br>정직하고 당당하며, 우주를 유람하면서 이드릴라의 명성을 널리 알린다",
         "Stats": {
             "HP": 35.0,
             "ATK": 18.0,
@@ -8593,8 +9190,8 @@ var _monster = {
     "3024020": {
         "_id": 3024020,
         "Key": "Monster_W3_Sam_00_Config",
-        "Name": "Stellaron Hunter: Sam",
-        "Desc": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor.<br>The mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames.",
+        "Name": "「스텔라론 헌터」 샘",
+        "Desc": "스텔라론 헌터 멤버로, 무거운 장갑을 장착한 신비한 전사다. 그의 철갑은 화염을 내뿜어 전장을 불태우고 열화와 같은 공격을 퍼부을 수 있다",
         "Stats": {
             "HP": 50.0,
             "ATK": 18.0,
@@ -8655,8 +9252,8 @@ var _monster = {
     "3024021": {
         "_id": 3024021,
         "Key": "Monster_W3_Sam_00_Config_Main",
-        "Name": "Stellaron Hunter: Sam",
-        "Desc": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor.<br>The mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames.",
+        "Name": "「스텔라론 헌터」 샘",
+        "Desc": "스텔라론 헌터 멤버로, 무거운 장갑을 장착한 신비한 전사다. 그의 철갑은 화염을 내뿜어 전장을 불태우고 열화와 같은 공격을 퍼부을 수 있다",
         "Stats": {
             "HP": 77.5,
             "ATK": 18.0,
@@ -8713,11 +9310,309 @@ var _monster = {
             302402107
         ]
     },
+    "3024022": {
+        "_id": 3024022,
+        "Key": "Monster_W3_Sam_00_Config_SP",
+        "Name": "「스텔라론 헌터」 샘",
+        "Desc": "「스텔라론 헌터」 멤버로, 무거운 장갑을 장착한 신비한 전사다. 그의 철갑은 화염을 내뿜어 전장을 불태우고 열화와 같은 공격을 퍼부을 수 있다",
+        "Stats": {
+            "HP": 77.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 18.0
+        },
+        "Weak": [
+            "Elec",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302402201,
+                    302402202,
+                    302402203,
+                    302402204,
+                    302402205,
+                    302402206,
+                    302402207
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    302402201,
+                    302402202,
+                    302402203,
+                    302402204,
+                    302402205,
+                    302402206,
+                    302402207
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3024020.png",
+        "Figure": "monsterfigure/Monster_3024020.png",
+        "AllSkills": [
+            302402201,
+            302402202,
+            302402203,
+            302402204,
+            302402205,
+            302402206,
+            302402207
+        ]
+    },
+    "3025010": {
+        "_id": 3025010,
+        "Key": "Monster_W3_Sunday_00_Config",
+        "Name": "페나코니 BOSS",
+        "Desc": "……",
+        "Stats": {
+            "HP": 60.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 6.0
+        },
+        "Weak": [
+            "Elec",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 1.0
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302501001,
+                    302501002,
+                    302501003,
+                    302501004,
+                    302501006,
+                    302501014
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    302501001,
+                    302501002,
+                    302501003,
+                    302501005,
+                    302501008,
+                    302501009,
+                    302501014
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    302501011,
+                    302501012,
+                    302501014
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    302501007,
+                    302501010,
+                    302501013
+                ]
+            }
+        ],
+        "Rank": "BigBoss",
+        "Camp": 5,
+        "Icon": "mostericon/Monster_3025010.png",
+        "AllSkills": [
+            302501001,
+            302501002,
+            302501003,
+            302501004,
+            302501006,
+            302501014,
+            302501005,
+            302501008,
+            302501009,
+            302501011,
+            302501012
+        ]
+    },
+    "3025011": {
+        "_id": 3025011,
+        "Key": "Monster_W3_Sunday_01_Config",
+        "Name": "페나코니 BOSS",
+        "Desc": "……",
+        "Stats": {
+            "HP": 60.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 6.0
+        },
+        "Weak": [
+            "Elec",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302501101,
+                    302501102,
+                    302501103,
+                    302501104,
+                    302501105,
+                    302501107
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    302501106
+                ]
+            }
+        ],
+        "Rank": "BigBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3025010.png",
+        "AllSkills": [
+            302501101,
+            302501102,
+            302501103,
+            302501104,
+            302501105,
+            302501107
+        ]
+    },
+    "3025012": {
+        "_id": 3025012,
+        "Key": "Monster_W3_Sunday_02_Config",
+        "Name": "페나코니 BOSS",
+        "Desc": "……",
+        "Stats": {
+            "HP": 60.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 8.0
+        },
+        "Weak": [
+            "Elec",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 1.0
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302501201,
+                    302501202,
+                    302501203,
+                    302501204,
+                    302501206,
+                    302501214
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    302501201,
+                    302501202,
+                    302501203,
+                    302501205,
+                    302501208,
+                    302501209,
+                    302501214
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    302501211,
+                    302501212,
+                    302501214
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    302501207,
+                    302501210,
+                    302501213
+                ]
+            }
+        ],
+        "Rank": "BigBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3025010.png",
+        "AllSkills": [
+            302501201,
+            302501202,
+            302501203,
+            302501204,
+            302501206,
+            302501214,
+            302501205,
+            302501208,
+            302501209,
+            302501211,
+            302501212
+        ]
+    },
     "8001010": {
         "_id": 8001010,
         "Key": "Monster_XP_Minion01_00_Config",
-        "Name": "Flamespawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path.",
+        "Name": "염화 조물",
+        "Desc": "열계를 떠도는 결정체 원소. 가장 단순한 지능만을 지녔으며, 고열을 방출하며 맹렬하게 타오르는 조류 같은 형태를 띠고 있다",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -8760,8 +9655,8 @@ var _monster = {
     "8001020": {
         "_id": 8001020,
         "Key": "Monster_XP_Minion01_01_Config",
-        "Name": "Frostspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it.",
+        "Name": "서리 조물",
+        "Desc": "열계를 떠도는 결정체 원소. 가장 단순한 지능을 지녔으며, 저온을 이끌고 주위를 얼어붙게 만드는 조류 같은 형태를 띠고 있다",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -8804,8 +9699,8 @@ var _monster = {
     "8001030": {
         "_id": 8001030,
         "Key": "Monster_XP_Minion03_00_Config",
-        "Name": "Mask of No Thought",
-        "Desc": "Victims of Fragmentum corrosion pieced together into one bizarre creature, their numb faces forming a sphere without thought or emotion. Any part that was once human has since vanished.",
+        "Name": "무상의 가면",
+        "Desc": "열계 침식의 희생자들을 이어 붙인 기괴한 조물. 생각과 감정이 결여된 뒤틀린 얼굴이 나열되어 있다. 한 때 인간이었던 어떤 부분도 사라졌다",
         "Stats": {
             "HP": 1.0,
             "ATK": 18.0,
@@ -8852,8 +9747,8 @@ var _monster = {
     "8001040": {
         "_id": 8001040,
         "Key": "Monster_XP_Minion01_03_Config",
-        "Name": "Thunderspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird brimming with electricity, releasing thunderclaps in all directions.",
+        "Name": "우레 조물",
+        "Desc": "열계를 떠도는 결정체 원소. 가장 단순한 지능만을 지녔으며, 마치 전류를 휘감은 채로 번개를 흩뿌리는 새처럼 생겼다",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -8899,8 +9794,8 @@ var _monster = {
     "8001050": {
         "_id": 8001050,
         "Key": "Monster_XP_Minion01_02_Config",
-        "Name": "Windspawn",
-        "Desc": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird engulfed in twisting winds, raging on like a tornado.",
+        "Name": "바람 조물",
+        "Desc": "열계를 떠도는 결정체 원소. 가장 단순한 지능만을 지녔으며, 마치 기류를 휘감은 채로 질풍처럼 질주하는 새처럼 생겼다",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -8946,8 +9841,8 @@ var _monster = {
     "8002010": {
         "_id": 8002010,
         "Key": "Monster_XP_Minion02_00_Config",
-        "Name": "Imaginary Weaver",
-        "Desc": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will.",
+        "Name": "허수 방직꾼",
+        "Desc": "이 세상에 속하지 않는 괴이한 생명. 어두운 별 하늘 건너 편에서 겹겹의 베일을 통과해왔다. 그들의 몸은 마치 현실을 마음대로 뒤틀기 위해 허수 에너지를 사용하는 병든 나뭇가지와 같다",
         "Stats": {
             "HP": 1.9,
             "ATK": 18.0,
@@ -9000,8 +9895,8 @@ var _monster = {
     "8002040": {
         "_id": 8002040,
         "Key": "Monster_XP_Minion04_00_Config",
-        "Name": "Warp Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "차원 저금통",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -9091,8 +9986,8 @@ var _monster = {
     "8002050": {
         "_id": 8002050,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "서열 저금통",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -9136,8 +10031,8 @@ var _monster = {
     "8002051": {
         "_id": 8002051,
         "Key": "Monster_XP_Minion04_05_Config",
-        "Name": "Trot Prime",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "일꿀이",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -9181,8 +10076,8 @@ var _monster = {
     "8002052": {
         "_id": 8002052,
         "Key": "Monster_XP_Minion04_06_Config",
-        "Name": "Trot Deuce",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "이꿀이",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -9226,8 +10121,8 @@ var _monster = {
     "8002053": {
         "_id": 8002053,
         "Key": "Monster_XP_Minion04_07_Config",
-        "Name": "Trot Tri",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "삼꿀이",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -9271,8 +10166,8 @@ var _monster = {
     "8002054": {
         "_id": 8002054,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "서열 저금통",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -9315,8 +10210,8 @@ var _monster = {
     "8002055": {
         "_id": 8002055,
         "Key": "Monster_XP_Minion04_05_Config",
-        "Name": "Trot Prime",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "일꿀이",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -9359,8 +10254,8 @@ var _monster = {
     "8002056": {
         "_id": 8002056,
         "Key": "Monster_XP_Minion04_06_Config",
-        "Name": "Trot Deuce",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "이꿀이",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -9403,8 +10298,8 @@ var _monster = {
     "8002057": {
         "_id": 8002057,
         "Key": "Monster_XP_Minion04_07_Config",
-        "Name": "Trot Tri",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "삼꿀이",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -9447,8 +10342,8 @@ var _monster = {
     "8002058": {
         "_id": 8002058,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "서열 저금통",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -9491,8 +10386,8 @@ var _monster = {
     "8002059": {
         "_id": 8002059,
         "Key": "Monster_XP_Minion04_01_Config",
-        "Name": "Sequence Trotter (Rare)",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "서열 저금통(희귀)",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -9535,8 +10430,8 @@ var _monster = {
     "8002060": {
         "_id": 8002060,
         "Key": "Monster_XP_Minion04_02_Config",
-        "Name": "Trotter of Destruction",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "파멸 저금통",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -9585,8 +10480,8 @@ var _monster = {
     "8002061": {
         "_id": 8002061,
         "Key": "Monster_XP_Minion04_02_Config",
-        "Name": "Trotter of Destruction",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "파멸 저금통",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -9631,8 +10526,8 @@ var _monster = {
     "8002070": {
         "_id": 8002070,
         "Key": "Monster_XP_Minion04_03_Config",
-        "Name": "Trotter of Abundance",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "풍요 저금통",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -9681,8 +10576,8 @@ var _monster = {
     "8002071": {
         "_id": 8002071,
         "Key": "Monster_XP_Minion04_03_Config",
-        "Name": "Trotter of Abundance",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "풍요 저금통",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -9727,8 +10622,8 @@ var _monster = {
     "8002080": {
         "_id": 8002080,
         "Key": "Monster_XP_Minion04_04_Config",
-        "Name": "Trotter of Preservation",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "보존 저금통",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -9777,8 +10672,8 @@ var _monster = {
     "8002081": {
         "_id": 8002081,
         "Key": "Monster_XP_Minion04_04_Config",
-        "Name": "Trotter of Preservation",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "보존 저금통",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -9829,8 +10724,8 @@ var _monster = {
     "8002082": {
         "_id": 8002082,
         "Key": "Monster_XP_Minion04_04_Config",
-        "Name": "Trotter of Preservation",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "보존 저금통",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -9875,8 +10770,8 @@ var _monster = {
     "8002090": {
         "_id": 8002090,
         "Key": "Monster_XP_Minion04_08_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "서열 저금통",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -9919,8 +10814,8 @@ var _monster = {
     "8002091": {
         "_id": 8002091,
         "Key": "Monster_XP_Minion04_09_Config",
-        "Name": "Sequence Trotter",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "서열 저금통",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -9963,8 +10858,8 @@ var _monster = {
     "8002100": {
         "_id": 8002100,
         "Key": "Monster_XP_Minion04_05_Config",
-        "Name": "Trot Prime",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "일꿀이",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -10007,8 +10902,8 @@ var _monster = {
     "8002101": {
         "_id": 8002101,
         "Key": "Monster_XP_Minion04_06_Config",
-        "Name": "Trot Deuce",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "이꿀이",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -10051,8 +10946,8 @@ var _monster = {
     "8002102": {
         "_id": 8002102,
         "Key": "Monster_XP_Minion04_07_Config",
-        "Name": "Trot Tri",
-        "Desc": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.",
+        "Name": "삼꿀이",
+        "Desc": "뭇별 속에서 길을 잃은 다른 차원의 생물. 성격이 온순하고 단맛이 나며, 식용할 수 없다. 일생에서 대부분의 시간을 음식 섭취와 도주에 사용한다. 종종 이를 우연히 만난 여행자들은 길조로 여기곤 한다",
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -10095,8 +10990,8 @@ var _monster = {
     "8003010": {
         "_id": 8003010,
         "Key": "Monster_XP_Elite01_01_Config",
-        "Name": "Ice Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches.",
+        "Name": "외우주의 얼음",
+        "Desc": "이 세계에 속하지 않는 괴이한 생명. 스텔라론이 가져온 열계에서 성장해 세계의 기반으로부터 에너지를 흡수했다. 갑옷 겉면에는 어두운 별하늘이 비춘다.<br>전투에서 외우주의 얼음은 적을 쉽게 빙결시킨다",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -10153,8 +11048,8 @@ var _monster = {
     "8003011": {
         "_id": 8003011,
         "Key": "Monster_XP_Elite01_01_Config_A",
-        "Name": "Ice Out of Space (Bug)",
-        "Desc": "A false projection produced by compromised codes. The original referent entity is an alien life form that was born out of the Fragmentum brought by a Stellaron and feeds on this world's energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space (Bug) will freeze targets it touches and delay their actions.",
+        "Name": "외우주의 얼음(오류)",
+        "Desc": "코드가 영향을 받아 오류가 난 홀로그램. 원본 레퍼런스는 이 세계에 속하지 않는 괴이한 생명. 스텔라론이 가져온 열계에서 성장해 세계의 기반으로부터 에너지를 흡수했다. 갑옷 겉면에는 어두운 별하늘을 비춘다.<br>전투에서 외우주의 얼음은 적을 쉽게 빙결시키고 행동을 지연시킨다",
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -10214,8 +11109,8 @@ var _monster = {
     "8003020": {
         "_id": 8003020,
         "Key": "Monster_XP_Elite01_00_Config",
-        "Name": "Blaze Out of Space",
-        "Desc": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches.",
+        "Name": "외우주의 화염",
+        "Desc": "이 세계에 속하지 않는 괴이한 생명. 스텔라론이 가져온 열계에서 성장해 세계의 기반으로부터 에너지를 흡수했다. 갑옷 겉면에는 별 내핵의 화염이 타오른다.<br>전투에서 외우주의 화염은 적을 쉽게 소각시킨다",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -10268,8 +11163,8 @@ var _monster = {
     "8003021": {
         "_id": 8003021,
         "Key": "Monster_XP_Elite01_00_Config_A",
-        "Name": "Blaze Out of Space (Bug)",
-        "Desc": "A false projection produced by compromised codes. The original referent entity is an alien life form that was born out of the Fragmentum brought by a Stellaron and feeds on this world's energy. Its armor carries the flames taken from the core of a star.<br>In combat, the Blaze Out of Space (Bug) will incinerate anything it touches.",
+        "Name": "외우주의 화염(오류)",
+        "Desc": "코드가 영향을 받아 오류가 난 홀로그램. 원본 레퍼런스는 이 세계에 속하지 않는 괴이한 생명. 스텔라론이 가져온 열계에서 성장해 세계의 기반으로부터 에너지를 흡수했다. 갑옷 겉면에는 별 내핵의 화염이 타오른다.<br>전투에서 외우주의 화염(오류)은 적을 쉽게 소각시킨다",
         "Stats": {
             "HP": 16.0,
             "ATK": 18.0,
@@ -10326,8 +11221,8 @@ var _monster = {
     "8003030": {
         "_id": 8003030,
         "Key": "Monster_XP_Elite02_00_Config",
-        "Name": "Guardian Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master.",
+        "Name": "수호자의 그림자",
+        "Desc": "스텔라론의 힘으로 만들어진 허영은 열계를 끊임없이 확장하려는 의지를 행하고 있다.<br>지적 생명의 욕구가 열계에 투영되어 만들어진 생체 에너지는 모래 알갱이가 조개껍데기에 맺혀 형성된 진주와도 같다. 그 힘은 목적 없이 사방을 헤매다가 주인의 의지가 느껴지면 명령에 따라 움직인다",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -10392,8 +11287,8 @@ var _monster = {
     "8003031": {
         "_id": 8003031,
         "Key": "Monster_XP_Elite02_00_Config",
-        "Name": "Guardian Shadow (Bug)",
-        "Desc": "A false projection produced by compromised codes. The original referent entity is a shadow manifested by the power of Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A physical manifestation of the desires of intelligent life in the Fragmentum, like a pearl created from a single grain of sand. This force wanders around aimlessly, acting only when executing the will of its master.",
+        "Name": "수호자의 그림자(오류)",
+        "Desc": "코드가 영향을 받아 오류가 난 홀로그램. 원본 레퍼런스는 스텔라론의 힘으로 만들어진, 열계를 끊임없이 확장하려는 의지를 행하는 허영.<br>지적 생명의 욕구가 열계에 투영되어 만들어진 생체 에너지는 모래 알갱이가 조개껍데기에 맺혀 형성된 진주와도 같다. 그 힘은 목적 없이 사방을 헤매다가 주인의 의지가 느껴지면 명령에 따라 움직인다",
         "Stats": {
             "HP": 13.0,
             "ATK": 18.0,
@@ -10457,8 +11352,8 @@ var _monster = {
     "8003040": {
         "_id": 8003040,
         "Key": "Monster_XP_Elite02_01_Config",
-        "Name": "Decaying Shadow",
-        "Desc": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted.",
+        "Name": "잠식자의 그림자",
+        "Desc": "스텔라론의 힘으로 만들어진 허영은 열계를 끊임없이 확장하려는 의지를 행하고 있다.<br>지적 생명의 욕구가 열계에 투영되어 만들어진 생체 에너지는 모래 알갱이가 조개껍데기에 맺혀 형성된 진주와도 같다. 하지만 그것을 이끄는 욕망은 오래전에 뒤틀리고 희미해졌다",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -10517,8 +11412,8 @@ var _monster = {
     "8003041": {
         "_id": 8003041,
         "Key": "Monster_XP_Elite02_01_Config_A",
-        "Name": "Decaying Shadow (Bug)",
-        "Desc": "A false projection produced by compromised codes. The original referent entity is a shadow manifested by the power of Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A physical embodiment of the desires of intelligent life in the Fragmentum, like a pearl created from a single grain of sand. However, its purpose has long since been twisted and distorted.",
+        "Name": "잠식자의 그림자(오류)",
+        "Desc": "코드가 영향을 받아 오류가 난 홀로그램. 원본 레퍼런스는 스텔라론의 힘으로 만들어진, 열계를 끊임없이 확장하려는 의지를 행하는 허영.<br>지적 생명의 욕구가 열계에 투영되어 만들어진 생체 에너지는 모래 알갱이가 조개껍데기에 맺혀 형성된 진주와도 같다. 하지만 그것을 이끄는 욕망은 오래전에 뒤틀리고 희미해졌다",
         "Stats": {
             "HP": 13.0,
             "ATK": 18.0,
@@ -10579,8 +11474,8 @@ var _monster = {
     "8003042": {
         "_id": 8003042,
         "Key": "Monster_XP_Elite02_01_Config",
-        "Name": "Decaying Shadow",
-        "Desc": "A shadow manifested by the power of Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A physical embodiment of the desires of intelligent life in the Fragmentum, like a pearl created from a single grain of sand. However, its purpose has long been twisted and distorted.",
+        "Name": "잠식자의 그림자",
+        "Desc": "스텔라론의 힘으로 만들어진 허영은 열계를 끊임없이 확장하려는 의지를 행하고 있다.<br>지적 생명의 욕구가 열계에 투영되어 만들어진 생체 에너지는 모래 알갱이가 조개껍데기에 맺혀 형성된 진주와도 같다. 하지만 그것을 이끄는 욕망은 오래전에 뒤틀리고 희미해졌다",
         "Stats": {
             "HP": 8.0,
             "ATK": 18.0,
@@ -10641,8 +11536,8 @@ var _monster = {
     "8003050": {
         "_id": 8003050,
         "Key": "Monster_AML_Elite01_01_Config",
-        "Name": "Stormbringer",
-        "Desc": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly.",
+        "Name": "바람 소환사",
+        "Desc": "열계가 펼쳐지는 중 침식된 괴물. 힘의 근원이 일그러진 후 더욱 유연한 전투 방식을 갖게 되었다.<br>바람 소환사는 풍향을 이용하여 더 사나운 화살을 발사한다",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -10701,8 +11596,8 @@ var _monster = {
     "8003051": {
         "_id": 8003051,
         "Key": "Monster_AML_Elite01_01_Config_A",
-        "Name": "Stormbringer (Bug)",
-        "Desc": "A false projection produced by compromised codes. The referenced entity is a monster that underwent corrosion in the expanse of the Fragmentum. It has developed a more agile fighting style ever since its original form became distorted.<br>The Stormbringer utilizes the power of the wind to its advantage in battle, enabling it to fire arrows more rapidly. It can also summon Windspawn to aid in combat.",
+        "Name": "바람 소환사(오류)",
+        "Desc": "코드가 영향을 받아 오류가 난 홀로그램. 원본 레퍼런스는 열계가 펼쳐지는 중 침식된 괴물. 힘의 근원이 일그러진 후 더욱 유연한 전투 방식을 갖게 되었다.<br>바람 소환사는 풍향을 이용하여 더 사나운 화살을 발사하며 전투 중 자신과 협력해 전투하는 바람 조물을 소환한다",
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -10764,8 +11659,8 @@ var _monster = {
     "8003052": {
         "_id": 8003052,
         "Key": "Monster_AML_Elite01_01_Tutorial_Config",
-        "Name": "Stormbringer",
-        "Desc": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly.",
+        "Name": "바람 소환사",
+        "Desc": "열계가 펼쳐지는 중 침식된 괴물. 힘의 근원이 일그러진 후 더욱 유연한 전투 방식을 갖게 되었다.<br>바람 소환사는 풍향을 이용하여 더 사나운 화살을 발사한다",
         "Stats": {
             "HP": 9.5,
             "ATK": 18.0,
@@ -10822,8 +11717,8 @@ var _monster = {
     "8011010": {
         "_id": 8011010,
         "Key": "Monster_AML_Minion01_00_Config",
-        "Name": "Baryon",
-        "Desc": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Baryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield.",
+        "Name": "중입자",
+        "Desc": "「반물질 군단」은 반입자가 새어나와 소멸을 초래하는 걸 방지하기 위해 2가지 유형의 수송용 소형 이온 트랩을 만들었고 「중입자」 와 「반중입자」로 통칭한다.<br>「중입자」는 기본적인 지능을 갖고 있으며 전장에서 「허졸」의 의지와 부름에 응답하고 길을 열어준다",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -10863,8 +11758,8 @@ var _monster = {
     "8011020": {
         "_id": 8011020,
         "Key": "Monster_AML_Minion01_01_Config",
-        "Name": "Antibaryon",
-        "Desc": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Antibaryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield.",
+        "Name": "반중입자",
+        "Desc": "「반물질 군단」은 반입자가 새어나와 소멸을 초래하는 걸 방지하기 위해 2가지 유형의 수송용 소형 이온 트랩을 만들었고 「중입자」 와 「반중입자」로 통칭한다.<br>「반중입자」는 기본적인 지능을 갖고 있으며 전장에서 「허졸」의 의지와 부름에 응답하고 길을 열어준다",
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -10904,8 +11799,8 @@ var _monster = {
     "8012010": {
         "_id": 8012010,
         "Key": "Monster_AML_Minion02_00_Config",
-        "Name": "Voidranger: Reaver",
-        "Desc": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts.",
+        "Name": "허졸•약탈자",
+        "Desc": "아직 죽지 않은 전사는 「전쟁 용광로」의 재주조를 통해 「파멸」의 힘을 얻으며 반물질이 그들의 잔해를 보충하고 음의 입자가 몸에서 진동한다.<br>「반물질 군단」의 기본 작전 유닛은 「파멸」 의지의 실현이다. 군단은 파괴 본능에 따라 행동하며 강한 공격성을 가지고 있다",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -10956,8 +11851,8 @@ var _monster = {
     "8012020": {
         "_id": 8012020,
         "Key": "Monster_AML_Minion03_00_Config",
-        "Name": "Voidranger: Distorter",
-        "Desc": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area.",
+        "Name": "허졸•변조자",
+        "Desc": "인멸 효과를 성공적으로 이겨낸 「허졸」의 정반입자는 괴이한 형태로 단기 균형에 도달했으며 「약탈자」보다 더 특별한 힘을 가졌다.<br>「반물질 군단」의 기본 작전 유닛은 지능을 가지고 있으며 작은 범위 내에서 「약탈자」의 행동을 제어할 수 있다",
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -11002,8 +11897,8 @@ var _monster = {
     "8012021": {
         "_id": 8012021,
         "Key": "Monster_AML_Minion03_00_Config",
-        "Name": "Voidranger: Distorter",
-        "Desc": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area.",
+        "Name": "허졸•변조자",
+        "Desc": "인멸 효과를 성공적으로 이겨낸 「허졸」의 정반입자는 괴이한 형태로 단기 균형에 도달했으며 「약탈자」보다 더 특별한 힘을 가졌다.<br>「반물질 군단」의 기본 작전 유닛은 지능을 가지고 있으며 작은 범위 내에서 「약탈자」의 행동을 제어할 수 있다",
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -11047,8 +11942,8 @@ var _monster = {
     "8012030": {
         "_id": 8012030,
         "Key": "Monster_AML_Minion04_00_Config",
-        "Name": "Voidranger: Eliminator",
-        "Desc": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked.",
+        "Name": "허졸•말살자",
+        "Desc": "사후에 열계에 침식된 몸통의 잔해. 그 생명의 징후는 바뀌었지만, 여전히 말소 지령을 수행하고 있다.<br>허졸•말살자는 공격 중에 추가적인 피해를 입힐 수 있도록 명중한 적에게 표식을 붙인다",
         "Stats": {
             "HP": 2.1,
             "ATK": 18.0,
@@ -11094,8 +11989,8 @@ var _monster = {
     "8012140": {
         "_id": 8012140,
         "Key": "Monster_AML_Boss_00_Part1_Config",
-        "Name": "Disaster's Right Hand",
-        "Desc": "Only the echoes of pain remain on the devastated earth — the march of the end times.<br>Disaster's Right Hand is adept at drawing upon Imaginary power to create large-scale attacks.",
+        "Name": "재해의 오른손",
+        "Desc": "황폐한 대지 위, 종말의 행진에는 고통의 메아리만이 남았다.<br>재해의 오른손은 허수 속성의 힘을 활용해 대규모 공격을 가하는 데 능숙하다",
         "Stats": {
             "HP": 5.0,
             "ATK": 18.0,
@@ -11152,8 +12047,8 @@ var _monster = {
     "8012142": {
         "_id": 8012142,
         "Key": "Monster_AML_Boss_00_Part3_Config",
-        "Name": "Dawn's Left Hand",
-        "Desc": "At the last dawn before the end, even the bright and clear morning sun will tremble and cower away.<br>Dawn's Left Hand is adept at drawing upon Quantum power to launch attacks at single targets.",
+        "Name": "여명의 왼손",
+        "Desc": "종말의 마지막 새벽, 밝은 아침 햇살조차도 떨면서 뒷걸음치고 있다.<br>여명의 왼손은 양자 속성의 힘을 이용한 단일 대상 공격에 능하다",
         "Stats": {
             "HP": 5.0,
             "ATK": 18.0,
@@ -11209,8 +12104,8 @@ var _monster = {
     "8012143": {
         "_id": 8012143,
         "Key": "Monster_AML_Boss_00_Part1_Config",
-        "Name": "Disaster's Right Hand",
-        "Desc": "Only the echoes of pain remain on the devastated earth — the march of the end times.<br>Disaster's Right Hand is adept at drawing upon Imaginary power to create large-scale attacks.",
+        "Name": "재해의 오른손",
+        "Desc": "황폐한 대지 위, 종말의 행진에는 고통의 메아리만이 남았다.<br>재해의 오른손은 허수 속성의 힘을 활용해 대규모 공격을 가하는 데 능숙하다",
         "Stats": {
             "HP": 4.0,
             "ATK": 14.4,
@@ -11258,8 +12153,8 @@ var _monster = {
     "8012145": {
         "_id": 8012145,
         "Key": "Monster_AML_Boss_00_Part3_Config",
-        "Name": "Dawn's Left Hand",
-        "Desc": "At the last dawn before the end, even the bright and clear morning sun will tremble and cower away.<br>Dawn's Left Hand is adept at drawing upon Quantum power to launch attacks at single targets.",
+        "Name": "여명의 왼손",
+        "Desc": "종말의 마지막 새벽, 밝은 아침 햇살 조차도 떨면서 뒷걸음치고 있다.<br>여명의 왼손은 양자 속성의 힘을 이용하여 단일 대상을 향해 공격을 개시하는 데 능숙하다",
         "Stats": {
             "HP": 4.0,
             "ATK": 14.4,
@@ -11307,8 +12202,8 @@ var _monster = {
     "8012200": {
         "_id": 8012200,
         "Key": "Monster_W2_HuanlongPart_00_Config",
-        "Name": "Abundance Lotus",
-        "Desc": "A phantom flower that blooms without roots and forms out of thin air. Phantylia used the Ambrosial Arbor as her host to forge a physical body and to touch upon Abundance's authority.",
+        "Name": "풍요의 현련",
+        "Desc": "뿌리 없이 스스로 피는, 느닷없이 피는 환상의 꽃. 팬틸리아가 「불멸의 거목」을 빌려 육신을 만들고 풍요의 권능을 건드렸다",
         "Stats": {
             "HP": 1.35,
             "ATK": 18.0,
@@ -11354,8 +12249,8 @@ var _monster = {
     "8012201": {
         "_id": 8012201,
         "Key": "Monster_W2_HuanlongPart_02_Config",
-        "Name": "Abundance Lotus",
-        "Desc": "A phantom flower that blooms without roots and forms out of thin air. Phantylia used the Ambrosial Arbor as her host to forge a physical body and to touch upon Abundance's authority.",
+        "Name": "풍요의 현련",
+        "Desc": "뿌리 없이 스스로 피는, 느닷없이 피는 환상의 꽃. 팬틸리아가 「불멸의 거목」을 빌려 육신을 만들고 풍요의 권능을 건드렸다",
         "Stats": {
             "HP": 1.35,
             "ATK": 18.0,
@@ -11401,8 +12296,8 @@ var _monster = {
     "8012202": {
         "_id": 8012202,
         "Key": "Monster_W2_HuanlongPart_00_Config",
-        "Name": "Abundance Lotus",
-        "Desc": "A phantom flower that blooms without roots and forms out of thin air. Phantylia used the Ambrosial Arbor as her host to forge a physical body and to touch upon Abundance's authority.",
+        "Name": "풍요의 현련",
+        "Desc": "뿌리 없이 스스로 피는, 느닷없이 피는 환상의 꽃. 팬틸리아가 「불멸의 거목」을 빌려 육신을 만들고 풍요의 권능을 건드렸다",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -11449,8 +12344,8 @@ var _monster = {
     "8012203": {
         "_id": 8012203,
         "Key": "Monster_W2_HuanlongPart_02_Config",
-        "Name": "Abundance Lotus",
-        "Desc": "A phantom flower that blooms without roots and forms out of thin air. Phantylia used the Ambrosial Arbor as her host to forge a physical body and to touch upon Abundance's authority.",
+        "Name": "풍요의 현련",
+        "Desc": "뿌리 없이 스스로 피는, 느닷없이 피는 환상의 꽃. 팬틸리아가 「불멸의 거목」을 빌려 육신을 만들고 풍요의 권능을 건드렸다",
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -11497,8 +12392,8 @@ var _monster = {
     "8012210": {
         "_id": 8012210,
         "Key": "Monster_W2_HuanlongPart_01_Config",
-        "Name": "Destruction Lotus",
-        "Desc": "A phantom flower that blooms without root and forms out of thin air. Phantylia used the Ambrosial Arbor as her host to forge a physical body, yet never let go of Destruction's authority.",
+        "Name": "파멸의 현련",
+        "Desc": "뿌리 없이 스스로 피는, 느닷없이 피는 환상의 꽃. 팬틸리아가 「불멸의 거목」을 빌려 육신을 만들었지만 파멸의 권능을 내려놓지 않았다",
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -11559,8 +12454,8 @@ var _monster = {
     "8012211": {
         "_id": 8012211,
         "Key": "Monster_W2_HuanlongPart_03_Config",
-        "Name": "Destruction Lotus",
-        "Desc": "A phantom flower that blooms without root and forms out of thin air. Phantylia used the Ambrosial Arbor as her host to forge a physical body, yet never let go of Destruction's authority.",
+        "Name": "파멸의 현련",
+        "Desc": "뿌리 없이 스스로 피는, 느닷없이 피는 환상의 꽃. 팬틸리아가 「불멸의 거목」을 빌려 육신을 만들었지만 파멸의 권능을 내려놓지 않았다",
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -11621,8 +12516,8 @@ var _monster = {
     "8012212": {
         "_id": 8012212,
         "Key": "Monster_W2_HuanlongPart_01_Config",
-        "Name": "Destruction Lotus",
-        "Desc": "A phantom flower that blooms without root and forms out of thin air. Phantylia used the Ambrosial Arbor as her host to forge a physical body, yet never let go of Destruction's authority.",
+        "Name": "파멸의 현련",
+        "Desc": "뿌리 없이 스스로 피는, 느닷없이 피는 환상의 꽃. 팬틸리아가 「불멸의 거목」을 빌려 육신을 만들었지만 파멸의 권능을 내려놓지 않았다",
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -11684,8 +12579,8 @@ var _monster = {
     "8012213": {
         "_id": 8012213,
         "Key": "Monster_W2_HuanlongPart_03_Config",
-        "Name": "Destruction Lotus",
-        "Desc": "A phantom flower that blooms without root and forms out of thin air. Phantylia used the Ambrosial Arbor as her host to forge a physical body, yet never let go of Destruction's authority.",
+        "Name": "파멸의 현련",
+        "Desc": "뿌리 없이 스스로 피는, 느닷없이 피는 환상의 꽃. 팬틸리아가 「불멸의 거목」을 빌려 육신을 만들었지만 파멸의 권능을 내려놓지 않았다",
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -11747,8 +12642,8 @@ var _monster = {
     "8013010": {
         "_id": 8013010,
         "Key": "Monster_AML_Elite01_00_Config",
-        "Name": "Voidranger: Trampler",
-        "Desc": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers.",
+        "Name": "허졸•유린자",
+        "Desc": "「반물질 군단」은 「전쟁 용광로」를 사용해 전사와 고대 괴수의 파편을 융합하여 재주조한 산물이다.<br>상대적으로 수는 적지만 전사의 지능과 고대 괴수의 힘과 기동성을 겸비하였으며 울부짖음으로 대량의 허졸을 소환할 수 있다",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -11800,8 +12695,8 @@ var _monster = {
     "8013011": {
         "_id": 8013011,
         "Key": "Monster_AML_Elite01_00_Config",
-        "Name": "Voidranger: Trampler (Bug)",
-        "Desc": "A false projection produced by compromised codes. The referenced entity is a product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon many Voidrangers.",
+        "Name": "허졸•유린자(오류)",
+        "Desc": "코드가 영향을 받아 오류가 난 홀로그램. 원본 레퍼런스는 「반물질 군단」이 「전쟁 용광로」를 사용하여 전사와 고대 괴수의 파편을 융합하여 재주조한 산물.<br>상대적으로 수는 적지만 전사의 지능과 고대 괴수의 힘과 기동성을 겸비하였으며 울부짖음으로 대량의 허졸을 소환할 수 있다",
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -11853,8 +12748,8 @@ var _monster = {
     "8013012": {
         "_id": 8013012,
         "Key": "Monster_AML_Elite01_00_Config_N2",
-        "Name": "Voidranger: Trampler",
-        "Desc": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers.",
+        "Name": "허졸•유린자",
+        "Desc": "「반물질 군단」은 「전쟁 용광로」를 사용해 전사와 고대 괴수의 파편을 융합하여 재주조한 산물이다.<br>상대적으로 수는 적지만 전사의 지능과 고대 괴수의 힘과 기동성을 겸비하였으며 울부짖음으로 대량의 허졸을 소환할 수 있다",
         "Stats": {
             "HP": 9.0,
             "ATK": 18.0,
@@ -11904,8 +12799,8 @@ var _monster = {
     "8013013": {
         "_id": 8013013,
         "Key": "Monster_AML_Elite01_00_Tutorial_Config",
-        "Name": "Voidranger: Trampler",
-        "Desc": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers.",
+        "Name": "허졸•유린자",
+        "Desc": "「반물질 군단」은 「전쟁 용광로」를 사용해 전사와 고대 괴수의 파편을 융합하여 재주조한 산물이다.<br>상대적으로 수는 적지만 전사의 지능과 고대 괴수의 힘과 기동성을 겸비하였으며 울부짖음으로 대량의 허졸을 소환할 수 있다",
         "Stats": {
             "HP": 9.64997,
             "ATK": 18.0,
@@ -11956,8 +12851,8 @@ var _monster = {
     "8013141": {
         "_id": 8013141,
         "Key": "Monster_AML_Boss_00_Part2_Config",
-        "Name": "Antimatter Engine",
-        "Desc": "The ultimate embodiment of power. The form of the energy that accumulates behind it remains unknown.<br>The Antimatter Engine will grant energy to other enemies and enhance their abilities.",
+        "Name": "반물질 엔진",
+        "Desc": "힘의 궁극적인 구현, 그 뒤에 축적되는 힘의 형태는 알려지지 않은 채로 남아 있다.<br>반물질 엔진은 다른 적들에게 에너지를 제공하고 그 능력을 강화해준다",
         "Stats": {
             "HP": 9.4,
             "ATK": 18.0,
@@ -12026,8 +12921,8 @@ var _monster = {
     "8013144": {
         "_id": 8013144,
         "Key": "Monster_AML_Boss_00_Part2_Config",
-        "Name": "Antimatter Engine",
-        "Desc": "The ultimate embodiment of power. The form of the energy that accumulates behind it remains unknown.<br>The Antimatter Engine will grant energy to other enemies and enhance their abilities.",
+        "Name": "반물질 엔진",
+        "Desc": "힘의 궁극적인 구현, 그 뒤에 축적되는 힘의 형태는 알려지지 않은 채로 남아 있다.<br>반물질 엔진은 다른 적들에게 에너지를 제공하고 그 능력을 강화해준다",
         "Stats": {
             "HP": 6.75,
             "ATK": 14.4,
@@ -12092,8 +12987,8 @@ var _monster = {
     "8015010": {
         "_id": 8015010,
         "Key": "Monster_AML_Boss_00_Config",
-        "Name": "Doomsday Beast",
-        "Desc": "Using fragments of the Dusk Leviathan as the foundation, and the weeping bones of thousands of the dead in the Warforge as the agent, the Antimatter Legion cast the Doomsday Beast. The resentful spirits' senseless obsession turns into a tangible hand, and the shadow of the old disaster conceals the heavens. The Doomsday Beast detains the will of all beings that are not at ease and have yet to die. Anger, mourning, or delusional joy — all is revealed, and all evil eagerly throb. The Doomsday Beast's core is a dark matter engine.",
+        "Name": "종말 괴수",
+        "Desc": "「반물질 군단」이 황혼 고대 괴수의 잔해를 기반으로 「전쟁 용광로」에 수많은 유해의 애원을 담아 주조한 「종말 괴수」 중 하나. 원혼의 미련이 유형의 손이 되고, 지난날 재난의 그림자가 온 하늘을 가린다. 「종말 괴수」는 미련을 버리지 못했거나 소멸하지 않은 중생들의 의지를 구속하고 있다. 분노, 또는 비애, 방자한 희열——숨겨진 진상이 곧 드러나고 온갖 사악함이 기승을 부린다. 「종말 괴수」의 코어는 암흑 물질로 구동되는 엔진이다",
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -12141,8 +13036,8 @@ var _monster = {
     "8015011": {
         "_id": 8015011,
         "Key": "Monster_AML_Boss_00_Config",
-        "Name": "Doomsday Beast",
-        "Desc": "Using fragments of the Dusk Leviathan as the foundation, and the weeping bones of thousands of the dead in the Warforge as the agent, the Antimatter Legion cast the Doomsday Beast. The resentful spirits' senseless obsession turns into a tangible hand, and the shadow of the old disaster conceals the heavens. The Doomsday Beast detains the will of all beings that are not at ease and have yet to die. Anger, mourning, or delusional joy — all is revealed, and all evil eagerly throb. The Doomsday Beast's core is a dark matter engine.",
+        "Name": "종말 괴수",
+        "Desc": "「반물질 군단」이 황혼 고대 괴수의 잔해를 기반으로 「전쟁 용광로」에 수많은 유해의 애원을 담아 주조한 「종말 괴수」 중 하나. 원혼의 미련이 유형의 손이 되고, 지난날 재난의 그림자가 온 하늘을 가린다. 「종말 괴수」는 미련을 버리지 못했거나 소멸하지 않은 중생들의 의지를 구속하고 있다. 분노, 또는 비애, 방자한 희열——숨겨진 진상이 곧 드러나고 온갖 사악함이 기승을 부린다. 「종말 괴수」의 코어는 암흑 물질로 구동되는 엔진이다",
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -12191,8 +13086,8 @@ var _monster = {
     "8015020": {
         "_id": 8015020,
         "Key": "Monster_W2_Huanlong_00_Config_A",
-        "Name": "Phantylia the Undying",
-        "Desc": "...",
+        "Name": "불사의 열매•팬틸리아",
+        "Desc": "…",
         "Stats": {
             "HP": 13.0,
             "ATK": 14.99994,
@@ -12281,8 +13176,8 @@ var _monster = {
     "8015021": {
         "_id": 8015021,
         "Key": "Monster_W2_Huanlong_00_Config",
-        "Name": "Phantylia the Undying",
-        "Desc": "...",
+        "Name": "불사의 열매•팬틸리아",
+        "Desc": "…",
         "Stats": {
             "HP": 13.0,
             "ATK": 18.0,
@@ -12370,8 +13265,8 @@ var _monster = {
     "8022010": {
         "_id": 8022010,
         "Key": "Monster_SW_Minion01_00_Config",
-        "Name": "Juvenile Sting",
-        "Desc": "The youngling of a True Sting. Based on their growth stage, young True Stings can be further divided into Juvenile Stings and Lesser Stings.",
+        "Name": "미성숙 칩충",
+        "Desc": "완전체 칩충 유체: 「완전체 칩충」 유체는 성장 단계에 따라 「미성숙 칩충」과 「불완전 칩충」으로 나눌 수 있다",
         "Stats": {
             "HP": 2.25,
             "ATK": 18.0,
@@ -12427,8 +13322,8 @@ var _monster = {
     "8022020": {
         "_id": 8022020,
         "Key": "Monster_SW_Minion01_01_Config",
-        "Name": "Lesser Sting",
-        "Desc": "The youngling of a True Sting. Based on their growth stage, young True Stings can be further divided into Juvenile Stings and Lesser Stings.",
+        "Name": "불완전 칩충",
+        "Desc": "완전체 칩충 유체: 「완전체 칩충」 유체는 성장 단계에 따라 「미성숙 칩충」과 「불완전 칩충」으로 나눌 수 있다",
         "Stats": {
             "HP": 3.15,
             "ATK": 18.0,
@@ -12485,8 +13380,8 @@ var _monster = {
     "8022030": {
         "_id": 8022030,
         "Key": "Monster_SW_Minion01_02_Config",
-        "Name": "Gnaw Sting",
-        "Desc": "A subspecies of Stings that underwent mutations during reproduction, adept at using quantum toxins in their mandibles to corrode away the bodies of their prey.",
+        "Name": "침식 칩충",
+        "Desc": "번식 중에 돌연변이를 일으킨 칩충 아종. 양자 독소를 품은 턱으로 먹잇감을 능숙히 잠식한다",
         "Stats": {
             "HP": 2.25,
             "ATK": 18.0,
@@ -12528,8 +13423,8 @@ var _monster = {
     "8024010": {
         "_id": 8024010,
         "Key": "Monster_SW_Boss_00_Config",
-        "Name": "Swarm: True Sting (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is a mature True Sting. Sir Duroy, a member of the Intelligentsia Guild, explored the starry seas and authored the thirty-volume of the <i>Chronicles of Interdimensional Insects</i>. The book provides detailed records of over a dozen confirmed species of lepisma and countless subspecies spanning across the stars.",
+        "Name": "곤충 떼•완전체 칩충(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 성숙체의 완전체 칩충. 지식학회의 듀로이 기사는 별바다를 여행하며 ≪세계 곤충 기록≫를 집필했다. 책에는 지금까지 확인된 10여 종의 좀벌레 종류와 은하계의 수없이 많은 아종이 상세히 기록되어 있다",
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -12622,8 +13517,8 @@ var _monster = {
     "8024011": {
         "_id": 8024011,
         "Key": "Monster_SW_Boss_00_Normal_Config",
-        "Name": "Swarm: True Sting",
-        "Desc": "Mature True Sting. Sir Duroy, a member of the Intelligentsia Guild, explored the starry seas and authored the thirty-volume of the <i>Chronicles of Interdimensional Insects</i>. The book provides detailed records of over a dozen confirmed species of lepisma and countless subspecies spanning across the stars.",
+        "Name": "곤충 떼•완전체 칩충",
+        "Desc": "성숙체의 완전체 칩충. 지식학회의 듀로이 기사는 별바다를 여행하며 ≪세계 곤충 기록≫를 집필했다. 책에는 지금까지 확인된 10여 종의 좀벌레 종류와 은하계의 수없이 많은 아종이 상세히 기록되어 있다",
         "Stats": {
             "HP": 18.0,
             "ATK": 18.0,
@@ -12699,8 +13594,8 @@ var _monster = {
     "8024012": {
         "_id": 8024012,
         "Key": "Monster_SW_Boss_00_Config",
-        "Name": "Swarm: True Sting (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is a mature True Sting. Sir Duroy, a member of the Intelligentsia Guild, explored the starry seas and authored the thirty-volume of the <i>Chronicles of Interdimensional Insects</i>. The book provides detailed records of over a dozen confirmed species of lepisma and countless subspecies spanning across the stars.",
+        "Name": "곤충 떼•완전체 칩충(완벽)",
+        "Desc": "코드가 영향을 받은 완벽한 홀로그램. 원본 레퍼런스는 성숙체의 완전체 칩충. 지식학회의 듀로이 기사는 별바다를 여행하며 ≪세계 곤충 기록≫를 집필했다. 책에는 지금까지 확인된 10여 종의 좀벌레 종류와 은하계의 수없이 많은 아종이 상세히 기록되어 있다",
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -12785,85 +13680,11 @@ var _monster = {
         ],
         "IsComplete": 1
     },
-    "8024013": {
-        "_id": 8024013,
-        "Key": "Monster_SW_Boss_00_Normal_Config_Fever",
-        "Name": "",
-        "Desc": "",
-        "Stats": {
-            "HP": 21.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 144.0,
-            "Stance": 16.0
-        },
-        "StatsExtra": {
-            "Stance": 4.0
-        },
-        "Weak": [
-            "Ice",
-            "Wind",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.2,
-            "Elec": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.3,
-        "HPCount": 2,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    802401301,
-                    802401302,
-                    802401303,
-                    802401304
-                ]
-            },
-            {
-                "Phase": 2,
-                "Skills": [
-                    802401301,
-                    802401302,
-                    802401303,
-                    802401304,
-                    802401305,
-                    802401306,
-                    802401309
-                ]
-            },
-            {
-                "Phase": 0,
-                "Skills": [
-                    802401307,
-                    802401308,
-                    802401310,
-                    802401311
-                ]
-            }
-        ],
-        "Rank": "LittleBoss",
-        "Camp": 8,
-        "Icon": "mostericon/Monster_8024010.png",
-        "Figure": "monsterfigure/Monster_8024010.png",
-        "AllSkills": [
-            802401301,
-            802401302,
-            802401303,
-            802401304,
-            802401305,
-            802401306,
-            802401309
-        ]
-    },
     "8025010": {
         "_id": 8025010,
         "Key": "Monster_SW_Boss_01_Config",
-        "Name": "Starcrusher Swarm King: Skaracabaz (Synthetic)",
-        "Desc": "The replica of the Emanator of Propagation cultivated by Ruan Mei, briefly manifesting in the world in an incomplete form. Its original form is a giant lepisma that inherited the mandibles of the Imperator Insectorum. It can collect in its mouthparts the death ray that fragmented celestial bodies, and make shattered stars incubators for procreating offspring. It was once one of the nightmares across multiple worlds during the Swarm Disaster.",
+        "Name": "쇄성의 왕충•스카라카바즈(모조)",
+        "Desc": "완•매가 육성한 「번식」의 사도 복제 개체. 불완전한 모습으로 세상에 잠시 나타났다. 원형은 충황의 턱을 물려받은 거대 좀이다. 입에 천체도 찢는 광선을 모을 수 있으며, 부서진 뭇별을 번식의 온상으로 삼는다. 곤충 떼 재난 중에 각 행성이 겪은 악몽 중 하나였다",
         "Stats": {
             "HP": 24.0,
             "ATK": 18.0,
@@ -12932,8 +13753,8 @@ var _monster = {
     "8032010": {
         "_id": 8032010,
         "Key": "Monster_W1_Soldier02_01_Config",
-        "Name": "Grunt: Field Personnel",
-        "Desc": "An Interastral Peace Corporation grunt worker whose job mainly deals with shady \"business oversights.\" With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships.",
+        "Name": "일반 직원•현장 요원",
+        "Desc": "「스타피스 컴퍼니」의 일반 직원. 외부에 알려져서는 안 되는 「업무 누락」을 처리하는 일을 주로 맡고 있다. 급여가 높지 않기 때문에 컴퍼니 산하 기업 함선의 셰어하우스에서 생활할 수밖에 없다",
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -12984,8 +13805,8 @@ var _monster = {
     "8032020": {
         "_id": 8032020,
         "Key": "Monster_W1_Soldier01_04_Config",
-        "Name": "Grunt: Security Personnel",
-        "Desc": "An Interastral Peace Corporation grunt worker whose job mainly involves maintaining order in locations ruled by the IPC. With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships.",
+        "Name": "일반 직원•보안 요원",
+        "Desc": "「스타피스 컴퍼니」의 일반 직원. 컴퍼니 관할 지역의 치안과 질서를 유지하는 일을 주로 맡고 있다. 급여가 높지 않기 때문에 컴퍼니 산하 기업 함선의 셰어하우스에서 생활할 수밖에 없다",
         "Stats": {
             "HP": 2.2,
             "ATK": 18.0,
@@ -13036,8 +13857,8 @@ var _monster = {
     "8032030": {
         "_id": 8032030,
         "Key": "Monster_W3_AventurinePart_00_Config",
-        "Name": "\"All or Nothing\"",
-        "Desc": "A game die metamorphosed from the \"Aventurine of Stratagems,\" which shall decide the gamblers' destiny in a wager.",
+        "Name": "「모 아니면 도」",
+        "Desc": "「모략의 사금」으로 만들어 진 게임 주사위. 게임 중 도박꾼들의 운명을 결정한다",
         "Stats": {
             "HP": 0.5,
             "ATK": 18.0,
@@ -13068,8 +13889,8 @@ var _monster = {
     "8033010": {
         "_id": 8033010,
         "Key": "Monster_W1_Mecha03_02_Config",
-        "Name": "Senior Staff: Team Leader",
-        "Desc": "An Interastral Peace Corporation senior staff member with a minimal rank of project team leader. The mech they drive belongs to the IPC. If damaged, its repair fees have to be paid out-of-pocket. With a half-decent salary, they can at least afford to rent a one-bedroom apartment on one of the IPC's enterprise ships.",
+        "Name": "베테랑 직원•팀장",
+        "Desc": "「스타피스 컴퍼니」의 베테랑 직원. 직급은 최소 프로젝트 팀의 팀장이다. 탑승하고 있는 기갑은 공공 재산이므로 망가지면 자비로 배상해야 한다. 월급은 그럭저럭 괜찮아서 컴퍼니 산하 기업 함선에서 1.5룸 정도의 방을 임차할 수 있다",
         "Stats": {
             "HP": 16.0,
             "ATK": 18.0,
@@ -13124,8 +13945,8 @@ var _monster = {
     "8033011": {
         "_id": 8033011,
         "Key": "Monster_W1_Mecha03_02_Config_RLElite",
-        "Name": "Senior Staff: Team Leader (Bug)",
-        "Desc": "A false projection produced by compromised codes. The original reference entity is an Interastral Peace Corporation senior staff member with a minimal rank of project team leader. The mech they drive belongs to the IPC. If damaged, its repair fees have to be paid out-of-pocket. With a half-decent salary, they can at least afford to rent a one-bedroom apartment on one of the IPC's enterprise ships.",
+        "Name": "베테랑 직원•팀장(오류)",
+        "Desc": "코드가 영향을 받아 오류가 난 홀로그램. 원본 레퍼런스는 「스타피스 컴퍼니」의 베테랑 직원. 직급은 최소 프로젝트 팀의 팀장이다. 탑승하고 있는 기갑은 공공 재산이므로 망가지면 자비로 배상해야 한다. 월급은 그럭저럭 괜찮아서 컴퍼니 산하 기업 함선에서 1.5룸 정도의 방을 임차할 수 있다",
         "Stats": {
             "HP": 19.0,
             "ATK": 18.0,
@@ -13183,74 +14004,11 @@ var _monster = {
         ],
         "IsBug": 1
     },
-    "8033013": {
-        "_id": 8033013,
-        "Key": "Monster_W1_Mecha03_02_Config_RLElite_Fever",
-        "Name": "",
-        "Desc": "",
-        "Stats": {
-            "HP": 19.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 144.0,
-            "Stance": 12.0
-        },
-        "StatsExtra": {
-            "SPD": -44.0,
-            "Stance": 8.0
-        },
-        "Weak": [
-            "Fire",
-            "Ice",
-            "Wind"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Elec": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.2,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    803301301,
-                    803301302,
-                    803301303,
-                    803301304,
-                    803301305,
-                    803301306,
-                    803301308
-                ]
-            },
-            {
-                "Phase": 0,
-                "Skills": [
-                    803301307
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_8033010.png",
-        "Figure": "monsterfigure/Monster_8033010.png",
-        "AllSkills": [
-            803301301,
-            803301302,
-            803301303,
-            803301304,
-            803301305,
-            803301306,
-            803301308
-        ],
-        "IsBug": 1
-    },
     "8034010": {
         "_id": 8034010,
         "Key": "Monster_W3_Aventurine_00_Config",
-        "Name": "Ten Stonehearts: Aventurine of Stratagems",
-        "Desc": "A senior manager in the IPC Strategic Investment Department and one of the Ten Stonehearts. Using his Cornerstone, he obtained a share of the authority of an Emanator of Preservation. He throws his own body into the game as a die, ready to face death in order to walk away alive.",
+        "Name": "「10인의 스톤하트」 모략의 사금",
+        "Desc": "스타피스 컴퍼니 「전략투자부」의 고위 간부. 「10인의 스톤하트」 중 한 명이다. 초석을 통해 「보존」 사도의 권능을 나눠 받았으며, 자신의 몸을 주사위로 삼고 전장에 뛰어들어 극단적인 승리를 만들어 낸다",
         "Stats": {
             "HP": 24.0,
             "ATK": 18.0,
@@ -13264,6 +14022,7 @@ var _monster = {
             "Elec"
         ],
         "RESBase": {
+            "Fire": 0.2,
             "Wind": 0.2,
             "Quantum": 0.2,
             "Imaginary": 0.4
@@ -13365,6 +14124,7 @@ var _monsterlist = [
     100202016,
     100202017,
     100202019,
+    100202020,
     100202101,
     1002030,
     100203001,
@@ -13382,6 +14142,7 @@ var _monsterlist = [
     100203013,
     100203016,
     100203017,
+    100203019,
     1002040,
     100204001,
     100204002,
@@ -13407,6 +14168,7 @@ var _monsterlist = [
     100204022,
     100204023,
     100204024,
+    100204025,
     1002041,
     100204101,
     1002050,
@@ -13430,6 +14192,7 @@ var _monsterlist = [
     100205018,
     100205019,
     100205020,
+    100205021,
     1003010,
     100301001,
     100301002,
@@ -13451,11 +14214,13 @@ var _monsterlist = [
     100301018,
     100301019,
     100301020,
+    100301021,
+    100301022,
+    100301023,
     1003011,
     100301101,
     1003012,
     1003013,
-    1003014,
     1004010,
     100401001,
     100401002,
@@ -13463,6 +14228,7 @@ var _monsterlist = [
     100401004,
     100401005,
     100401006,
+    100401007,
     1004011,
     1004012,
     1004013,
@@ -13474,16 +14240,23 @@ var _monsterlist = [
     100402005,
     100402006,
     100402007,
+    100402008,
+    100402009,
     1004021,
     1004022,
+    100402201,
     1004023,
     1004024,
     1004025,
+    1004027,
+    100402701,
+    100402702,
     1004030,
     100403001,
     100403002,
     100403003,
     100403004,
+    100403005,
     1004031,
     100403101,
     1004032,
@@ -13542,6 +14315,7 @@ var _monsterlist = [
     101203013,
     101203014,
     101203015,
+    101203016,
     1012040,
     1012041,
     1012042,
@@ -13569,6 +14343,7 @@ var _monsterlist = [
     101301021,
     101301022,
     101301023,
+    101301024,
     1013011,
     101301101,
     1013012,
@@ -13599,6 +14374,7 @@ var _monsterlist = [
     101302026,
     101302027,
     101302028,
+    101302029,
     1013021,
     1013022,
     1013023,
@@ -13613,9 +14389,14 @@ var _monsterlist = [
     101401007,
     101401008,
     101401009,
+    101401010,
+    101401011,
     1014011,
     1014012,
+    101401201,
     1014013,
+    101401301,
+    101401302,
     1022010,
     102201001,
     102201002,
@@ -13713,6 +14494,7 @@ var _monsterlist = [
     200401003,
     200401004,
     200401005,
+    200401006,
     2004011,
     2004012,
     2004013,
@@ -13723,10 +14505,14 @@ var _monsterlist = [
     200402004,
     200402005,
     200402006,
+    200402007,
     2004021,
     2004022,
     200402201,
+    200402202,
     2004023,
+    2004024,
+    200402401,
     2011010,
     201101001,
     201101002,
@@ -13862,16 +14648,23 @@ var _monsterlist = [
     2024010,
     202401001,
     202401002,
+    202401005,
+    202401006,
     2024011,
     2024012,
+    202401201,
     2024013,
     2024014,
     202401401,
+    202401403,
+    202401404,
     2024020,
     202402001,
     202402002,
     202402003,
     202402004,
+    202402005,
+    202402006,
     3001010,
     300101001,
     300101002,
@@ -13887,6 +14680,7 @@ var _monsterlist = [
     300201002,
     300201003,
     300201004,
+    3002020,
     3002030,
     300203001,
     300203002,
@@ -13902,6 +14696,8 @@ var _monsterlist = [
     3003010,
     300301001,
     300301002,
+    300301003,
+    300301004,
     3003011,
     300301101,
     3003020,
@@ -13909,35 +14705,63 @@ var _monsterlist = [
     300302002,
     300302003,
     3003021,
+    3003030,
+    3003031,
+    3003040,
+    3003041,
+    3003050,
+    300305001,
+    3003051,
+    3004010,
+    300401001,
     3011010,
     301201001,
     3012020,
     301202001,
     3012030,
     3012031,
+    3012040,
     301301001,
     3014020,
     301402001,
     301402002,
     301402003,
+    301402004,
+    301402005,
     3014021,
+    301402201,
     3021020,
+    302102001,
     3021021,
     3021030,
+    302103001,
     3021031,
     3021040,
+    302104001,
     3021041,
+    3022010,
     3024010,
     302401001,
     302401002,
     302401003,
+    302401004,
+    302401007,
+    302401008,
     3024011,
+    302401101,
     3024012,
     302401201,
+    302401202,
     3024020,
     302402001,
     302402002,
     3024021,
+    3024022,
+    302402201,
+    3025010,
+    302501001,
+    3025011,
+    3025012,
     8001010,
     800101001,
     800101002,
@@ -14004,6 +14828,7 @@ var _monsterlist = [
     800201008,
     800201009,
     800201012,
+    800201015,
     800201016,
     8002040,
     800204001,
@@ -14056,6 +14881,25 @@ var _monsterlist = [
     800205042,
     800205043,
     800205044,
+    800205045,
+    800205046,
+    800205047,
+    800205048,
+    800205049,
+    800205050,
+    800205051,
+    800205052,
+    800205053,
+    800205054,
+    800205055,
+    800205056,
+    800205057,
+    800205058,
+    800205059,
+    800205060,
+    800205061,
+    800205062,
+    800205063,
     8002051,
     8002052,
     8002053,
@@ -14129,10 +14973,12 @@ var _monsterlist = [
     800303010,
     800303011,
     800303012,
+    800303014,
     800303015,
     800303016,
     800303017,
     8003031,
+    800303101,
     8003040,
     800304001,
     800304002,
@@ -14145,6 +14991,7 @@ var _monsterlist = [
     800304009,
     800304010,
     800304011,
+    800304012,
     8003041,
     8003042,
     8003050,
@@ -14158,7 +15005,10 @@ var _monsterlist = [
     800305008,
     800305009,
     800305010,
+    800305011,
     800305012,
+    800305015,
+    800305017,
     8003051,
     8003052,
     8011010,
@@ -14179,6 +15029,7 @@ var _monsterlist = [
     801102005,
     801102007,
     801102008,
+    801102009,
     8012010,
     801201001,
     801201002,
@@ -14205,6 +15056,7 @@ var _monsterlist = [
     801201024,
     801201025,
     801201026,
+    801201027,
     801201028,
     801201029,
     8012020,
@@ -14224,6 +15076,7 @@ var _monsterlist = [
     8012021,
     801202101,
     801202102,
+    801202103,
     8012030,
     801203001,
     801203002,
@@ -14232,6 +15085,7 @@ var _monsterlist = [
     801203005,
     801203006,
     801203007,
+    801203008,
     8012140,
     8012142,
     8012143,
@@ -14260,6 +15114,7 @@ var _monsterlist = [
     801301013,
     801301014,
     801301015,
+    801301017,
     801301018,
     801301019,
     801301021,
@@ -14283,7 +15138,6 @@ var _monsterlist = [
     8024011,
     802401101,
     8024012,
-    8024013,
     8025010,
     802501001,
     8032010,
@@ -14292,674 +15146,678 @@ var _monsterlist = [
     803201003,
     803201004,
     803201005,
+    803201006,
     8032020,
     803202001,
     803202002,
     803202003,
     803202004,
     803202005,
+    803202006,
     8033010,
     803301001,
     803301002,
     803301003,
     803301004,
+    803301005,
     8033011,
     803301101,
     803301202,
-    8033013,
-    803401001
+    803401001,
+    803401002,
+    803401003
 ]
 
 var _status = {
     "30010006": {
-        "Name": "DEF Reduction",
+        "Name": "방어력 감소",
         "Modifier": "MCommon_DefenceRatioDown",
-        "Desc": "DEF -<color style='color:#f29e38;'>[MDF_PropertyValue]</color>.",
+        "Desc": "방어력이 <color style='color:#f29e38;'>[MDF_PropertyValue]</color> 감소한다",
         "Type": "Debuff"
     },
     "30010017": {
-        "Name": "Weaken",
+        "Name": "허약",
         "Modifier": "MCommon_FatigueRatio",
-        "Desc": "DMG dealt -<color style='color:#f29e38;'>[MDF_PropertyValue]</color>.",
+        "Desc": "가하는 피해가 <color style='color:#f29e38;'>[MDF_PropertyValue]</color> 감소한다",
         "Type": "Debuff"
     },
     "30010041": {
-        "Name": "Vulnerability",
+        "Name": "취약",
         "Modifier": "MCommon_AllDamageTypeTakenRatio",
-        "Desc": "Increases DMG taken by <color style='color:#f29e38;'>[MDF_PropertyValue]</color>.",
+        "Desc": "받는 피해가 <color style='color:#f29e38;'>[MDF_PropertyValue]</color> 증가한다",
         "Type": "Debuff"
     },
     "30010067": {
-        "Name": "Speed Reduction",
+        "Name": "속도 감소",
         "Modifier": "MCommon_SpeedDown",
-        "Desc": "SPD -<color style='color:#f29e38;'>[MDF_PropertyValue]</color>.",
+        "Desc": "속도가 <color style='color:#f29e38;'>[MDF_PropertyValue]</color> 감소한다",
         "Type": "Debuff"
     },
     "30020002": {
-        "Name": "Burn",
+        "Name": "연소",
         "Modifier": "MCommon_DOT_Burn",
-        "Desc": "Takes Fire DMG at the start of each turn for a certain number of turns.",
+        "Desc": "일정 턴 동안 턴이 시작될 때마다 화염 속성 피해를 받는다",
         "Type": "Debuff"
     },
     "30020003": {
-        "Name": "Wind Shear",
+        "Name": "풍화",
         "Modifier": "MCommon_DOT_Poison",
-        "Desc": "Takes Wind DMG at the start of each turn for a certain number of turns.",
+        "Desc": "일정 턴 동안 턴이 시작될 때마다 바람 속성 피해를 받는다",
         "Type": "Debuff"
     },
     "30020004": {
-        "Name": "Shock",
+        "Name": "감전",
         "Modifier": "MCommon_DOT_Electric",
-        "Desc": "Takes Lightning DMG at the start of each turn for a certain number of turns.",
+        "Desc": "일정 턴 동안 턴이 시작될 때마다 번개 속성 피해를 받는다",
         "Type": "Debuff"
     },
     "30020005": {
-        "Name": "Bleed",
+        "Name": "열상",
         "Modifier": "MCommon_DOT_Tear",
-        "Desc": "Takes Physical DMG at the start of each turn for a certain number of turns.",
+        "Desc": "일정 턴 동안 턴이 시작될 때마다 물리 속성 피해를 받는다",
         "Type": "Debuff"
     },
     "30020010": {
-        "Name": "Taunt",
+        "Name": "도발",
         "Modifier": "MCommon_CTRL_Taunt",
-        "Desc": "Can only select <color style='color:#f29e38;'>%CasterName</color> as the target to attack.",
+        "Desc": "<color style='color:#f29e38;'>%CasterName</color>만을 공격 대상으로 정할 수 있다",
         "Type": "Debuff"
     },
     "30020012": {
-        "Name": "Frozen",
+        "Name": "빙결",
         "Modifier": "MCommon_CTRL_Frozen",
-        "Desc": "Cannot take action for a certain number of turns and takes Additional Ice DMG at the beginning of each turn.",
+        "Desc": "일정 턴 동안 행동이 불가하며, 턴이 시작될 때마다 얼음 속성 추가 피해를 받는다",
         "Type": "Debuff"
     },
     "30020013": {
-        "Name": "Imprisonment",
+        "Name": "속박",
         "Modifier": "MCommon_Confine",
-        "Desc": "Action is delayed and SPD is reduced.",
+        "Desc": "행동 게이지가 감소하는 동시에 속도가 감소한다",
         "Type": "Debuff"
     },
     "30020027": {
-        "Name": "Entanglement",
+        "Name": "얽힘",
         "Modifier": "MCommon_Entangle",
-        "Desc": "Action delayed and receives Additional Quantum DMG at the start of the next turn.<br>This Additional DMG is increased when Entangled enemies are attacked. This effect can stack up to 5 times.",
+        "Desc": "행동 게이지가 감소하며 다음 턴 시작 시 양자 속성 추가 피해를 받는다.<br>얽힘 상태의 목표는 피격 후마다 해당 추가 피해가 증가한다. 해당 효과 최대 중첩수: 5스택",
         "Type": "Debuff"
     },
     "30020028": {
-        "Name": "Dominated",
+        "Name": "지배",
         "Modifier": "MCommon_MindControl",
-        "Desc": "Makes a single target unable to take action. Target will use Basic ATK to attack a random ally of theirs. If an ability is cast on the target to remove a debuff, the Dominated status will be removed first.",
+        "Desc": "단일 아군이 행동하지 못하게 하며 임의의 다른 아군 1명을 공격한다. 해당 대상이 스킬 발동에 의해 디버프 효과가 해제된 경우, [지배] 상태가 우선적으로 해제된다",
         "Type": "Debuff"
     },
     "30020030": {
-        "Name": "Prana-Siphoned",
+        "Name": "영혼 흡취",
         "Modifier": "MCommon_BlackBlood",
-        "Desc": "Decreases Maximum Recoverable HP by <color style='color:#f29e38;'>[MDF_DirtyHPRatio]</color>.",
+        "Desc": "회복 가능한 HP 최대치가 <color style='color:#f29e38;'>[MDF_DirtyHPRatio]</color> 감소한다",
         "Type": "Debuff"
     },
     "30020029": {
-        "Name": "Outrage",
+        "Name": "노발대발",
         "Modifier": "MCommon_CTRL_Crazy",
-        "Desc": "Cannot be controlled. Automatically attacks a random enemy target. If the target is about to have any debuff removed by an ability, then the Outrage state will be prioritized for removal.",
+        "Desc": "조종 불가, 랜덤으로 적을 자동 공격한다. 해당 목표가 스킬 발동에 의해 디버프 효과가 해제된 경우, [노발대발] 상태가 우선적으로 해제된다",
         "Type": "Debuff"
     },
     "210010101": {
-        "Name": "DEF Reduction",
+        "Name": "방어력 감소",
         "Modifier": "Monster_W1_Soldier01_00_DefenceRatioDown",
-        "Desc": "DEF -<color style='color:#f29e38;'>[MDF_PropertyValue]</color>.",
+        "Desc": "방어력이 <color style='color:#f29e38;'>[MDF_PropertyValue]</color> 감소한다",
         "Type": "Debuff"
     },
     "210020201": {
-        "Name": "ATK Boost",
+        "Name": "공격력 증가",
         "Modifier": "Monster_W1_Soldier01_03_Buff",
-        "Desc": "ATK +<color style='color:#f29e38;'>[Modifier_AttackAddedRatio]</color>.",
+        "Desc": "공격력이 <color style='color:#f29e38;'>[Modifier_AttackAddedRatio]</color> 증가한다",
         "Type": "Buff"
     },
     "210020301": {
-        "Name": "Support",
+        "Name": "지원",
         "Modifier": "MMonster_W1_Soldier04_00_SkillP01_Supporting",
-        "Desc": "When a Supported friendly unit attacks any target, this unit will immediately launch a follow-up attack on the target.",
+        "Desc": "자신이 지원하는 단일 적이 아군에게 발동하는 공격을 받은 후, 자신은 즉시 피격된 해당 목표에게 추가 공격을 1회 발동한다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "210020302": {
-        "Name": "Reinforced",
+        "Name": "지원군",
         "Modifier": "MMonster_W1_Soldier04_00_SkillP01_Supported",
-        "Desc": "Receives Support from <color style='color:#f29e38;'>%CasterName</color>.",
+        "Desc": "<color style='color:#f29e38;'>%CasterName</color>의 지원을 받는다",
         "CanNotDispel": true
     },
     "210030102": {
-        "Name": "Counter",
+        "Name": "반격",
         "Modifier": "MMonster_W1_Soldier03_00_ListenBeingAttacked",
-        "Desc": "Uses a Powerful Counter on the attacker after being attacked.",
+        "Desc": "피격 후 즉시 공격자에게 강력한 반격을 발동한다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "210030201": {
-        "Name": "Aggravate",
+        "Name": "집중 공격",
         "Modifier": "Monster_Gepard_Attack_Sign",
-        "Desc": "Silvermane Guards will focus their attacks on this target.",
+        "Desc": "모든 실버메인 철위대의 공격 대상으로 고정 된다",
         "Type": "Debuff"
     },
     "210030204": {
-        "Name": "Barrier",
+        "Name": "배리어",
         "Modifier": "MMonster_W1_Gepard_00_BlockDamage",
-        "Desc": "Nullifies all DMG received except for DoT until after being attacked.",
+        "Desc": "지속 피해를 제외한 모든 피해에 저항하며, 피격 후 해제된다",
         "Type": "Buff"
     },
     "210040111": {
-        "Name": "DMG Boost",
+        "Name": "피해 증가",
         "Modifier": "Monster_W1_CocoliaP1_00_RL_DamageUp",
-        "Desc": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect can stack.",
+        "Desc": "가하는 피해가 <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color> 증가하며, 해당 효과는 중첩 가능하다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "210040113": {
-        "Name": "Restrain",
+        "Name": "구속",
         "Modifier": "Monster_W1_Svarog_00_RL_Control_Modifier",
-        "Desc": "Restrained. Cannot take action.",
+        "Desc": "[구속] 상태의 목표는 행동할 수 없다",
         "Type": "Debuff",
         "CanNotDispel": true
     },
     "210040114": {
-        "Name": "DMG Boost",
+        "Name": "피해 증가",
         "Modifier": "Monster_W1_CocoliaP1_00_RL_Skill05_Buff",
-        "Desc": "Increases DMG dealt by <color style='color:#f29e38;'>[ModifierDamageUpValue]</color>.",
+        "Desc": "가하는 피해가 <color style='color:#f29e38;'>[ModifierDamageUpValue]</color> 증가한다",
         "Type": "Buff"
     },
     "210040204": {
-        "Name": "Restrain",
+        "Name": "구속",
         "Modifier": "Svarog_Control_Modifier",
-        "Desc": "Restrained. Cannot take action.",
+        "Desc": "[구속] 상태의 목표는 행동할 수 없다",
         "Type": "Debuff",
         "CanNotDispel": true
     },
     "210040221": {
-        "Name": "DMG Boost",
+        "Name": "피해 증가",
         "Modifier": "Monster_W1_Gepard_00_RL_DamageUP",
-        "Desc": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color>.",
+        "Desc": "가하는 피해가 <color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color> 증가한다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "210040222": {
-        "Name": "Counter",
+        "Name": "반격",
         "Modifier": "MMonster_W1_Gepard_00_RL_ListenBeingAttacked",
-        "Desc": "Uses a Powerful Counter on the attacker after being attacked.",
+        "Desc": "피격 후 즉시 공격자에게 강력한 반격을 발동한다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "210040223": {
-        "Name": "Shield for All",
+        "Name": "전체 실드",
         "Modifier": "MAvatar_Gepard_00_RL_ShieldIcon",
-        "Desc": "A Shield that absorbs DMG taken by all enemies. While the Shield persists, allies' attacks will not reduce the Shielded enemies' HP.",
+        "Desc": "모든 적이 받는 피해를 상쇄할 수 있는 실드를 획득한다. 실드 소진 혹은 효과가 사라지기 전까지 아군의 공격은 실드를 보유한 적의 HP를 감소시킬 수 없다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "210040224": {
-        "Name": "Weakness Protected",
+        "Name": "약점 무효",
         "Modifier": "MAvatar_Gepard_00_RL_ShieldIcon2",
-        "Desc": "Before Shield for All ends, enemy targets' Toughness cannot be depleted.",
+        "Desc": "[전체 실드]가 사라지기 전, 적의 강인성은 피해를 받지 않는다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "210050101": {
-        "Name": "Harbinger of Annihilation",
+        "Name": "절멸기의 전조",
         "Modifier": "MMonster_W1_CocoliaP2_00_Skill10_TargetLock",
-        "Desc": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target.",
+        "Desc": "<color style='color:#f29e38;'>%CasterName</color>의 공격 대상으로 고정된다",
         "CanNotDispel": true
     },
     "210050105": {
-        "Name": "The Creation's Prelude",
+        "Name": "창세기의 서막",
         "Modifier": "MMonster_W1_CocoliaP2_00_Skill08_Charge",
-        "Desc": "The next attack will cause Last Choir of Genesis to all targets.",
+        "Desc": "다음 공격은 모든 아군에게 [창세의 마지막 노래]를 발동한다",
         "CanNotDispel": true
     },
     "210120401": {
-        "Name": "Overload Countdown",
+        "Name": "과부하 시간제한",
         "Modifier": "Monster_W1_SvarogPart_00_CountDown",
-        "Desc": "Auxiliary Robot Arm Unit initiates Overload countdown. After the countdown ends, cast Overload Warning.",
+        "Desc": "보조 기계팔 유닛은 과부하 카운트다운에 진입한다. 카운트다운 종료 시 [과부하 경고]를 발동한다",
         "CanNotDispel": true
     },
     "210120402": {
-        "Name": "Overload",
+        "Name": "과부하",
         "Modifier": "Monster_W1_SvarogPart_00_Overload",
-        "Desc": "Casts Controlled Blasting in the next action.",
+        "Desc": "다음 행동에 [제어장 폭발]을 발동한다",
         "CanNotDispel": true
     },
     "210120411": {
-        "Name": "Overload Countdown",
+        "Name": "과부하 시간제한",
         "Modifier": "Monster_W1_SvarogPart_00_RL_CountDown",
-        "Desc": "Auxiliary Robot Arm Unit initiates Overload countdown. After the countdown ends, cast Overload Warning.",
+        "Desc": "보조 기계팔 유닛은 과부하 카운트다운에 진입한다. 카운트다운 종료 시 [과부하 경고]를 발동한다",
         "CanNotDispel": true
     },
     "210130101": {
-        "Name": "Charge",
+        "Name": "차지",
         "Modifier": "W1_Mecha02_AttackBuff",
-        "Desc": "Increases DMG dealt by <color style='color:#f29e38;'>[ModifierDamageUpValue]</color>.",
+        "Desc": "아군에게 가하는 피해가 <color style='color:#f29e38;'>[ModifierDamageUpValue]</color> 증가한다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "210130122": {
-        "Name": "DMG Boost",
+        "Name": "피해 증가",
         "Modifier": "Monster_W1_Mecha03_00_RL_Skill03_DamageUp",
-        "Desc": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect can stack.",
+        "Desc": "가하는 피해가 <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color> 증가한다. 해당 효과는 중첩 가능하다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "210130201": {
-        "Name": "Lock On",
+        "Name": "고정",
         "Modifier": "Sign_W1_Mecha02",
-        "Desc": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target.",
+        "Desc": "<color style='color:#f29e38;'>%CasterName</color>의 공격 대상으로 고정된다",
         "CanNotDispel": true
     },
     "210130202": {
-        "Name": "Bleed",
+        "Name": "열상",
         "Modifier": "W1_Mecha02_ThunderDOT",
-        "Desc": "For a certain number of turns, receive Physical DMG based on Max HP at the beginning of each turn, stacking up to <color style='color:#f29e38;'>[MDF_MaxLayer]</color> time(s).",
+        "Desc": "일정 턴 동안, 턴이 시작될 때마다 HP 최대치에 기반해 물리 피해를 받는다. 최대 중첩수: <color style='color:#f29e38;'>[MDF_MaxLayer]</color>회",
         "Type": "Debuff"
     },
     "210130221": {
-        "Name": "Combat Speed-Up",
+        "Name": "작전 가속",
         "Modifier": "Monster_W1_Mecha04_00_RL_Phase3Passive",
-        "Desc": "Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedAddedRatio]</color>. SPD increases further every time Teamwork Order is used.",
+        "Desc": "속도가 <color style='color:#f29e38;'>[MDF_SpeedAddedRatio]</color> 증가한다. [협력 지령]을 발동할 때마다 자신의 속도가 한 단계 상승한다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "210130222": {
-        "Name": "SPD Boost",
+        "Name": "가속",
         "Modifier": "Monster_W1_Mecha04_00_RL_Skill12_SpeedUp",
-        "Desc": "Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedAddedRatio_PerLayer]</color>. This effect can stack.",
+        "Desc": "속도가 <color style='color:#f29e38;'>[MDF_SpeedAddedRatio_PerLayer]</color> 증가하며, 해당 효과는 중첩 가능하다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "210230101": {
-        "Name": "Out of Control",
+        "Name": "통제 불능",
         "Modifier": "Monster_W1_Mecha_Fire_Passive",
-        "Desc": "Increases DMG dealt by <color style='color:#f29e38;'>[ModifierCriticalChanceRatio]</color>. Stack up to 5 times.",
+        "Desc": "가하는 피해가 <color style='color:#f29e38;'>[ModifierCriticalChanceRatio]</color> 증가한다. 최대 중첩수: 5스택",
         "Type": "Buff"
     },
     "210230102": {
-        "Name": "Mania",
+        "Name": "열광",
         "Modifier": "Monster_W1_Mecha_Fire_Burning",
-        "Desc": "Increases ATK by <color style='color:#f29e38;'>[Modifier_AttackAddedRatio]</color> and SPD by <color style='color:#f29e38;'>[Modifier_SpeedDelta]</color> pts.",
+        "Desc": "공격력이 <color style='color:#f29e38;'>[Modifier_AttackAddedRatio]</color> 증가하고, 속도가 <color style='color:#f29e38;'>[Modifier_SpeedDelta]</color>pt 증가한다",
         "Type": "Buff"
     },
     "210230202": {
-        "Name": "Deep Freeze",
+        "Name": "혹한",
         "Modifier": "Monster_W1_Mecha03_01_Frozen",
-        "Desc": "Reduces Ice RES by <color style='color:#f29e38;'>[MDF_IceResistanceRatio_PerLayer]</color> and SPD by <color style='color:#f29e38;'>[MDF_SpeedAddedDelta_PerLayer]</color>. Can stack up to <color style='color:#f29e38;'>[MDF_MaxLayer]</color> time(s).",
+        "Desc": "얼음 속성 저항이 <color style='color:#f29e38;'>[MDF_IceResistanceRatio_PerLayer]</color> 감소하고 속도가 <color style='color:#f29e38;'>[MDF_SpeedAddedDelta_PerLayer]</color> 감소한다. 최대 중첩수: <color style='color:#f29e38;'>[MDF_MaxLayer]</color>스택",
         "Type": "Debuff"
     },
     "210230203": {
-        "Name": "DEF Reduction",
+        "Name": "방어력 감소",
         "Modifier": "Monster_W1_Mecha03_01_Overheat",
-        "Desc": "DEF -<color style='color:#f29e38;'>[MDF_DefenceAddedRatio]</color>.",
+        "Desc": "방어력이 <color style='color:#f29e38;'>[MDF_DefenceAddedRatio]</color> 감소한다",
         "Type": "Debuff"
     },
     "210230207": {
-        "Name": "Surpass",
+        "Name": "한도 초과",
         "Modifier": "Monster_W1_Mecha03_01_Rage",
-        "Desc": "ATK +<color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color>.",
+        "Desc": "공격력이 <color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color> 증가한다",
         "Type": "Buff"
     },
     "210230208": {
-        "Name": "Lock On",
+        "Name": "고정",
         "Modifier": "Monster_W1_Mecha03_01_Sign",
-        "Desc": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target.",
+        "Desc": "<color style='color:#f29e38;'>%CasterName</color>의 공격 대상으로 고정된다",
         "CanNotDispel": true
     },
     "220020301": {
-        "Name": "Reverberation",
+        "Name": "진탕",
         "Modifier": "MCommon_Unstable",
-        "Desc": "After receiving an attack, enters Strong Reverberation, then dispels Reverberation.",
+        "Desc": "피격 후 [강렬한 진탕] 상태에 빠지고 [진탕] 상태를 해제한다",
         "Type": "Debuff"
     },
     "220040111": {
-        "Name": "DMG Boost",
+        "Name": "피해 증가",
         "Modifier": "Monster_W2_Kafka_00_RL_DamageUp",
-        "Desc": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect can stack.",
+        "Desc": "가하는 피해가 <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color> 증가하며, 해당 효과는 중첩 가능하다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "220040112": {
-        "Name": "Psychological Suggestion",
+        "Name": "심리 암시",
         "Modifier": "Monster_W2_Kafka_00_RL_MindControl_True",
-        "Desc": "Triggered at the next Revelation. Can be removed before that action.",
+        "Desc": "다음 [제시] 시 발동됩니다. 우선적으로 해제할 수 있습니다",
         "Type": "Debuff"
     },
     "220040201": {
-        "Name": "Formation Core",
+        "Name": "진안",
         "Modifier": "MMonster_W2_Yanqing_00_Skill02_UnknownWeakPoint_01",
-        "Desc": "The Weakness of the target enemy is one of the following: Wind, Lightning, Imaginary. Use attacks of the corresponding Types to figure out the real Weakness Type. Inflict Weakness Break on the target to destroy the enemy.",
+        "Desc": "해당 적의 약점 속성은 바람, 번개, 허수 중 하나이며, 적에게 올바른 속성 공격을 발동하면 적의 진짜 약점 속성을 파악할 수 있다. 적에게 약점 격파를 가하면 해당 적을 바로 처치할 수 있다",
         "CanNotDispel": true
     },
     "220040204": {
-        "Name": "Sword Formation",
+        "Name": "검진",
         "Modifier": "MMonster_W2_Yanqing_00_Skill02_UnknownWeakPoint_Core",
-        "Desc": "Yanqing's Toughness cannot be depleted, and his SPD increases by <color style='color:#f29e38;'>[MDF_SpeedDelta]</color>. Destroy all of Yanqing's Flying Swords to dispel that effect and cause DMG to Yanqing.",
+        "Desc": "연경의 강인성이 피해를 받지 않으며 속도가 <color style='color:#f29e38;'>[MDF_SpeedDelta]</color>pt 증가한다. 모든 [비검]이 소멸되면 해당 효과를 해제하고 연경에게 피해를 가할 수 있다",
         "CanNotDispel": true
     },
     "220040211": {
-        "Name": "Sword Formation",
+        "Name": "검진",
         "Modifier": "MMonster_W2_Yanqing_00_Skill02_UnknownWeakPoint_Core_RL",
-        "Desc": "Yanqing's Toughness cannot be depleted, and his SPD increases by <color style='color:#f29e38;'>[MDF_SpeedDelta]</color>. Destroy all of Yanqing's Flying Swords to dispel this effect and cause DMG to Yanqing.",
+        "Desc": "연경의 강인성이 피해를 받지 않으며 속도가 <color style='color:#f29e38;'>[MDF_SpeedDelta]</color>pt 증가한다. 모든 [비검]이 소멸되면 해당 효과를 해제하고 연경에게 피해를 가할 수 있다",
         "CanNotDispel": true
     },
     "220040212": {
-        "Name": "Ordeal",
+        "Name": "연마",
         "Modifier": "MMonster_W2_Yanqing_00_SwordPowerUp",
-        "Desc": "This summon receives an enhancement and increases Max Toughness. After attacking, there is a high chance of Freezing the target.",
+        "Desc": "해당 소환물이 강화되고, 강인성 최대치가 증가한다. 공격 발동 후 높은 확률로 목표를 빙결 상태에 빠트린다",
         "CanNotDispel": true
     },
     "220040215": {
-        "Name": "Chilling Light",
+        "Name": "서늘한 빛",
         "Modifier": "MMonster_W2_Yanqing_00_Common_Overdrive",
-        "Desc": "DMG dealt increases by <color style='color:#f29e38;'>[MDF_AllDamageTypeAddedRatio]</color>. This effect can stack.",
+        "Desc": "가하는 피해가 <color style='color:#f29e38;'>[MDF_AllDamageTypeAddedRatio]</color> 증가한다. 해당 효과는 중첩 가능하다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "220130102": {
-        "Name": "Sanction Mode",
+        "Name": "처벌 모드",
         "Modifier": "MMonster_W2_Mecha03_00_Overdrive_On",
-        "Desc": "The Aurumaton Gatekeeper's Toughness cannot be damaged. Its SPD increases by <color style='color:#f29e38;'>[MDF_SpeedAddedValue]</color> and it activates the abilities Restraint and Enchainment.",
+        "Desc": "문지기 금 조각상의 강인성이 피해를 받지 않고 속도가 <color style='color:#f29e38;'>[MDF_SpeedAddedValue]</color>pt 증가하며 저지와 포박 스킬이 활성화된다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "220130111": {
-        "Name": "Lock On",
+        "Name": "고정",
         "Modifier": "Monster_W2_Mecha03_00_Sign",
-        "Desc": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target.",
+        "Desc": "<color style='color:#f29e38;'>%CasterName</color>의 공격 대상으로 고정된다",
         "CanNotDispel": true
     },
     "220130112": {
-        "Name": "Sanction Mode: Punisher",
+        "Name": "처벌 모드•형벌",
         "Modifier": "Monster_W2_Mecha03_00_Overdrive_On_RLElite",
-        "Desc": "The Aurumaton Gatekeeper's Toughness cannot be damaged. Its SPD increases by <color style='color:#f29e38;'>[MDF_SpeedUpRatio]</color>, and it activates the ability Track Down.",
+        "Desc": "문지기 금 조각상의 강인성이 피해를 받지 않고 속도가 <color style='color:#f29e38;'>[MDF_SpeedUpRatio]</color> 증가하며 체포 스킬이 활성화된다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "220220101": {
-        "Name": "Rebirth",
+        "Name": "부활",
         "Modifier": "Monster_W2_Abomi01_00_Revive",
-        "Desc": "Upon receiving a killing blow, restores a certain amount of HP.",
+        "Desc": "치명적인 공격을 받을 시 일정 HP를 즉시 회복한다",
         "Type": "Buff"
     },
     "220220102": {
-        "Name": "SPD Boost",
+        "Name": "가속",
         "Modifier": "Monster_W2_Abomi01_00_Accelerate",
-        "Desc": "SPD Increased.",
+        "Desc": "속도가 증가한다",
         "Type": "Buff"
     },
     "220220203": {
-        "Name": "Spur of Thunderwoe",
+        "Name": "천둥 인도",
         "Modifier": "Monster_W2_Abomi02_00_Mark",
-        "Desc": "Upon receiving a killing blow, the Disciples of Sanctus Medicus: Internal Alchemist deals DMG 1 time to targets that are inflicted with Spur of Thunderwoe by them.",
+        "Desc": "「약왕의 비전」 내단사는 치명적인 공격을 받을 시, 대상이 부여한 [천둥 인도] 상태에 빠진 아군에게 1회 피해를 가한다",
         "Type": "Debuff"
     },
     "220220204": {
-        "Name": "Core Formation",
+        "Name": "결단인(結丹者)",
         "Modifier": "Monster_W2_Abomi02_00_TargetList",
-        "Desc": "Upon receiving a killing blow, the unit deals DMG 1 time to targets that are afflicted with Spur of Thunderwoe by them.<br>The current targets who have Spur of Thunderwoe on them are: <color style='color:#f29e38;'>%DynamicTargetName</color>.",
+        "Desc": "치명적인 공격을 받을 시 자신이 부여한 [천둥 인도] 상태에 빠진 모든 아군에게 1회 피해를 가한다.<br>현재 [천둥 인도]에 빠진 아군은 다음과 같다: <color style='color:#f29e38;'>%DynamicTargetName</color>",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "220220801": {
-        "Name": "Retaliation",
+        "Name": "복원",
         "Modifier": "MMonster_W2_Xuanlu_02_Counter",
-        "Desc": "When attacked by an enemy, deals DMG to that enemy.",
+        "Desc": "피격 후 공격자에게 피해를 가한다",
         "Type": "Buff"
     },
     "220220802": {
-        "Name": "Engender",
+        "Name": "번창",
         "Modifier": "MMonster_W2_Xuanlu_02_Buff",
-        "Desc": "Increases ATK.",
+        "Desc": "공격력이 증가한다",
         "Type": "Buff"
     },
     "220221001": {
-        "Name": "Lavish Fruit",
+        "Name": "탐스러운 과실",
         "Modifier": "MMonster_W2_Xuanlu_04_Charge",
-        "Desc": "When there are 2 Lavish Fruits on the field, the Abundant Ebon Deer will immediately use Flamboyant Gore.",
+        "Desc": "필드 위에 [탐스러운 과실]이 2개 존재할 시 풍요 현록이 즉시 [반룡촉]을 발동한다",
         "CanNotDispel": true
     },
     "220221101": {
-        "Name": "Maddened",
+        "Name": "진에",
         "Modifier": "MMonster_W2_Valkyrie01_01_SkillP01_ComboAttack",
-        "Desc": "Attack changes to Sawing Evil: Sever.",
+        "Desc": "공격이 [거악(鋸惡)•참]으로 변경된다",
         "Type": "Buff"
     },
     "220230101": {
-        "Name": "Draining Hit",
+        "Name": "명중 회복",
         "Modifier": "MMonster_W2_Abomi04_00_HitToHeal",
-        "Desc": "When there are other enemy targets with \"Rebirth\" remaining on the field, Disciples of Sanctus Medicus: Shape Shifter will have the following effect — restores its HP when its attack hits.",
+        "Desc": "필드 위 다른 적이 [부활] 효과 보유 시 「약왕의 비전」 조형자는 다음 효과를 얻는다: 아군을 명중 후 자신의 HP를 회복한다",
         "Type": "Buff"
     },
     "220230201": {
-        "Name": "Gusto",
+        "Name": "원기",
         "Modifier": "Monster_W2_Beast02_00_Bullet",
-        "Desc": "Malefic Ape's current Gusto amount.",
+        "Desc": "[장우]가 현재 보유한 [원기]",
         "CanNotDispel": true
     },
     "220230203": {
-        "Name": "Barrier",
+        "Name": "배리어",
         "Modifier": "MMonster_W2_Beast02_00_BlockDamage",
-        "Desc": "Nullifies all DMG received except DoTs. This status is dispelled after being attacked.",
+        "Desc": "지속 피해를 제외한 모든 피해에 저항하며, 피격 후 해제된다",
         "Type": "Buff"
     },
     "220230204": {
-        "Name": "Monitor",
+        "Name": "감시",
         "Modifier": "Monster_Beast02_Attack_Sign",
-        "Desc": "Marked by <color style='color:#f29e38;'>%CasterName</color> for Monitoring.",
+        "Desc": "<color style='color:#f29e38;'>%CasterName</color>의 감시 대상으로 표시된다",
         "CanNotDispel": true
     },
     "220230205": {
-        "Name": "DMG Boost",
+        "Name": "피해 증가",
         "Modifier": "Monster_Common_Layer_DamageUP",
-        "Desc": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color> for up to <color style='color:#f29e38;'>[MDF_MaxLayer]</color> stacks.",
+        "Desc": "가하는 피해가 <color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color> 증가한다. 최대 중첩수: <color style='color:#f29e38;'>[MDF_MaxLayer]</color>스택",
         "Type": "Buff"
     },
     "220230211": {
-        "Name": "Gather Courage",
+        "Name": "용기 고취",
         "Modifier": "MMonster_W2_Beast02_00_RLElite_GennkiMark",
-        "Desc": "<color style='color:#f29e38;'>[MDF_PropertyValue]</color> stacks of Gusto accumulated.",
+        "Desc": "원기 <color style='color:#f29e38;'>[MDF_PropertyValue]</color>스택 축적 완료",
         "CanNotDispel": true
     },
     "220230212": {
-        "Name": "Monitor",
+        "Name": "감시",
         "Modifier": "Monster_W2_Beast02_00_RLElite_Attack_Sign",
-        "Desc": "Marked by <color style='color:#f29e38;'>%CasterName</color> for Monitoring.",
+        "Desc": "<color style='color:#f29e38;'>%CasterName</color>의 감시 대상으로 표시된다",
         "CanNotDispel": true
     },
     "220240101": {
-        "Name": "Hardy Leaf Sheath",
+        "Name": "교란",
         "Modifier": "MMonster_W2_Xuanlu_00_Skill07_NoWeakness",
-        "Desc": "Increases DEF. Toughness cannot be reduced.",
+        "Desc": "방어력이 증가한다. 강인성이 피해를 받지 않는다",
         "Type": "Buff"
     },
     "220240111": {
-        "Name": "Synwood Renewal",
+        "Name": "신수 환생",
         "Modifier": "MMonster_W2_Xuanlu_10_EnergyDrain",
-        "Desc": "In every turn, restores HP equal to <color style='color:#f29e38;'>[MMonster_W2_Xuanlu_10_EnergyDrain_TurnHealRatio]</color> of the unit's Max HP.",
+        "Desc": "턴마다 캐릭터가 자신 HP 최대치 <color style='color:#f29e38;'>[MMonster_W2_Xuanlu_10_EnergyDrain_TurnHealRatio]</color>만큼의 HP를 회복한다",
         "Type": "Buff"
     },
     "220240112": {
-        "Name": "Vigor Overflow",
+        "Name": "생기 충만",
         "Modifier": "MMonster_W2_Xuanlu_10_RL_DamageUp",
-        "Desc": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect is stackable.",
+        "Desc": "가하는 피해가 <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color> 증가하며, 해당 효과는 중첩 가능하다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "230010101": {
         "Name": "",
         "Modifier": "Monster_W2_Mecha01_02_ResistanceDown",
-        "Desc": "Effect RES reduces by <color style='color:#f29e38;'>[MDF_PropertyValue]</color>.",
+        "Desc": "",
         "Type": "Debuff"
     },
     "230020101": {
-        "Name": "Surprise Channel",
+        "Name": "서프라이즈 채널",
         "Modifier": "MModifier_Monster_W3_TV_00_Side1",
-        "Desc": "Mr. Domescreen can use the \"Surprise Variety Show\" ability. After it has been attacked, switches to the Fright Channel state.",
+        "Desc": "Mr. 라운드 스크린이 [서프라이즈 예능] 스킬을 사용할 수 있다. 피격되면 [호러 채널] 상태로 변경된다",
         "CanNotDispel": true
     },
     "230020102": {
-        "Name": "Fright Channel",
+        "Name": "호러 채널",
         "Modifier": "MModifier_Monster_W3_TV_00_Side2",
-        "Desc": "Mr. Domescreen can use the \"Startling Broadcast\" ability. After it has been attacked, switches to the Surprise Channel state.",
+        "Desc": "Mr. 라운드 스크린이 [호러 방송] 스킬을 사용할 수 있다. 피격되면 [서프라이즈 채널] 상태로 변경된다",
         "CanNotDispel": true
     },
     "230020301": {
-        "Name": "SoulGlad Revel",
+        "Name": "황홀한 솔글래드",
         "Modifier": "Monster_W2_Beast01_03_LayerCount",
-        "Desc": "Enhances ability effects, stacking up to <color style='color:#f29e38;'>[MDF_ShowValue]</color> times.",
+        "Desc": "스킬 효과가 강화된다. 최대 중첩수: <color style='color:#f29e38;'>[MDF_ShowValue]</color>스택",
         "CanNotDispel": true
     },
     "230030104": {
-        "Name": "Simmer",
+        "Name": "약불",
         "Modifier": "MModifier_Monster_W3_Dinosaur_00_Calm",
-        "Desc": "When this unit is attacked or takes DoT, gain 1 stack of Stove Heating.",
+        "Desc": "자신이 피격되거나 지속 피해를 받을 시 [화로 가열]이 1스택 중첩된다",
         "CanNotDispel": true
     },
     "230030105": {
-        "Name": "Boil",
+        "Name": "급화",
         "Modifier": "MModifier_Monster_W3_Dinosaur_00_Fury",
-        "Desc": "When this unit is attacked or takes DoT, gain 1 stack of Stove Heating.",
+        "Desc": "자신이 피격되거나 지속 피해를 받을 시 [화로 가열]이 1스택 중첩된다",
         "CanNotDispel": true
     },
     "230120201": {
-        "Name": "Safeguard",
+        "Name": "방비",
         "Modifier": "MCommon_SuperArmor",
-        "Desc": "DMG taken decreases. This effect is removed when Weakness is Broken. This unit's action will be delayed further when it is Weakness Broken and also takes increased DMG.",
+        "Desc": "받는 피해가 감소하고 약점이 격파되면 해제된다. 약점이 격파되면 행동 게이지가 추가로 감소하고, 격파 후 받는 피해가 증가한다",
         "CanNotDispel": true
     },
     "230130101": {
-        "Name": "Obscure Blaze",
+        "Name": "불같은 분노",
         "Modifier": "MMonster_W3_Dinosaur_01_Common_Growth",
-        "Desc": "Each stack causes Bonepiercing Odium to deal DMG 1 additional time, up to 5 times. This effect is removed when its Weakness is Broken.",
+        "Desc": "스택마다 [뼈를 찌르는 고통]이 추가로 피해를 1회 가한다. 최대 스택수: 5스택. 약점 격파 시 해제된다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "230140201": {
-        "Name": "Morbid Dream",
+        "Name": "꿈의 죽음",
         "Modifier": "M_Death_CTRL",
-        "Desc": "Cannot be selected, cannot take action.",
+        "Desc": "선택될 수 없으며, 행동할 수 없다",
         "CanNotDispel": true
     },
     "230140202": {
-        "Name": "Nightfall",
+        "Name": "드리워진 밤의 장막",
         "Modifier": "Modifier_W3_Death_00_ChargeShoot",
-        "Desc": "Locks on to the next 2 characters who either use their Basic ATK, Skill, or Ultimate.",
+        "Desc": "다음에 일반 공격, 전투 스킬, 필살기를 사용하는 2명의 아군을 고정한다",
         "CanNotDispel": true
     },
     "230140204": {
-        "Name": "Sunset",
+        "Name": "일몰",
         "Modifier": "Modifier_W3_Death_00_HuntingMode1",
-        "Desc": "Gained 1 stack of Sunset.",
+        "Desc": "[일몰] 중첩수: 1스택",
         "CanNotDispel": true
     },
     "230140207": {
-        "Name": "Biting Obituary",
+        "Name": "날카로운 추도사",
         "Modifier": "Monster_W3_Death_00_AllDamageUp",
-        "Desc": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_ShowValue1]</color>. This effect is removed when this unit becomes Weakness Broken.",
+        "Desc": "가하는 피해가 <color style='color:#f29e38;'>[MDF_ShowValue1]</color> 증가한다. 해당 효과는 약점 격파 상태에 빠지면 해제된다",
         "Type": "Buff"
     },
     "230240101": {
-        "Name": "Soulfreed",
+        "Name": "영혼 해방",
         "Modifier": "MMonster_W2_Argenti_00_Power",
-        "Desc": "The knight's prayers bid the liberation of souls. Abilities have been enhanced.",
+        "Desc": "기사의 기도로 영혼이 해방되고, 스킬이 강화된다",
         "Type": "Buff"
     },
     "230240102": {
-        "Name": "DMG Boost",
+        "Name": "피해 증가",
         "Modifier": "MMonster_Argenti_DamageUP",
-        "Desc": "DMG dealt increases by <color style='color:#f29e38;'>[MDF_ShowValue1]</color>.",
+        "Desc": "가하는 피해가 <color style='color:#f29e38;'>[MDF_ShowValue1]</color> 증가한다",
         "Type": "Buff"
     },
     "230240201": {
-        "Name": "Secondary Combustion",
+        "Name": "2차 연소",
         "Modifier": "Monster_W3_Sam_00_Enhance",
-        "Desc": "All attacks consume HP. Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedUpRatio]</color> and gains an additional action. When only <color style='color:#f29e38;'>[MDF_CurrentPoint]</color> points of Molten Energy remain, the Secondary Combustion state expires.",
+        "Desc": "공격 시 HP를 소모하고 속도가 <color style='color:#f29e38;'>[MDF_SpeedUpRatio]</color> 증가하며, 추가로 행동을 1회 획득한다. [2차 연소]가 해제될 때까지 남은 [용암 에너지]: <color style='color:#f29e38;'>[MDF_CurrentPoint]</color>pt",
         "CanNotDispel": true
     },
     "230240202": {
-        "Name": "Weakness Protected",
+        "Name": "약점 무효",
         "Modifier": "Monster_W3_Sam_00_WeakPointProtected",
-        "Desc": "Sam cannot lose Toughness before entering the Secondary Combustion state.",
+        "Desc": "[2차 연소] 진입 전, 샘의 강인성은 피해를 받지 않는다",
         "CanNotDispel": true
     },
     "230240203": {
-        "Name": "Molten Core",
+        "Name": "용암 코어",
         "Modifier": "Monster_W3_Sam_00_BurningBP",
-        "Desc": "When consuming Combusted Skill Points, the attacking ally loses HP and additionally deals a set amount of Fire DMG equal to <color style='color:#f29e38;'>[MDF_DamageUpRatio]</color> of the original DMG. When they receive healing from other characters, the amount of HP restored is massively reduced.",
+        "Desc": "아군이 연소하는 전투 스킬 포인트를 소모하면 HP를 소모하고 기존 피해의 <color style='color:#f29e38;'>[MDF_DamageUpRatio]</color>만큼 고정 수치의 화염 속성 피해를 추가로 가하며, 다른 캐릭터의 치유를 받을 때 HP 회복량이 대폭 감소한다",
         "CanNotDispel": true
     },
     "230240204": {
-        "Name": "Vulnerability",
+        "Name": "취약",
         "Modifier": "Monster_W3_Sam_00_TakenDamage",
-        "Desc": "Takes <color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color> more DMG. This effect expires when Sam recovers from Weakness Break state.",
+        "Desc": "받는 피해가 <color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color> 증가한다. 해당 효과는 샘이 약점 격파 상태에서 회복될 때 사라진다",
         "Type": "Debuff"
     },
     "280010301": {
-        "Name": "ATK Boost",
+        "Name": "공격력 증가",
         "Modifier": "Monster_XP_Minion03_00_Attack",
-        "Desc": "ATK +<color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color>.",
+        "Desc": "공격력이 <color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color> 증가한다",
         "Type": "Buff"
     },
     "280020102": {
-        "Name": "Defensive Position",
+        "Name": "후공",
         "Modifier": "XP_Minion02_00_Attack",
-        "Desc": "Uses Carolburst during the next action and increases DMG dealt to targets by <color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color>.",
+        "Desc": "다음번 행동 시 [송가 폭발]을 발동하고, 아군에게 가하는 피해가 <color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color> 증가한다",
         "Type": "Buff"
     },
     "280020601": {
-        "Name": "T—Taking Revenge",
+        "Name": "보… 복수해줄게",
         "Modifier": "MMonster_XP_Minion04_02_Introduce",
-        "Desc": "When a friendly unit is attacked, Trotter of Destruction will attack all targets. The attack count is equal to the number of the targets attacked.",
+        "Desc": "아군이 적 공격 후 [파멸 저금통]이 모든 아군을 공격한다. 공격 횟수는 이번 공격이 명중한 적의 수만큼이다",
         "CanNotDispel": true
     },
     "280020701": {
-        "Name": "C—Cure You",
+        "Name": "SpriteOutput/BuffIcon/Buff_RitaC4CDAttack.png",
         "Modifier": "MMonster_XP_Minion04_03_Introduce",
-        "Desc": "When a friendly unit is attacked by a target, Trotter of Abundance consumes its own HP to heal the attacked friendly unit.",
+        "Desc": "[풍요 저금통]은 동료가 아군의 공격을 받은 후 자신의 현재 HP를 소모해 공격받은 적의 HP를 회복한다",
         "CanNotDispel": true
     },
     "280020801": {
-        "Name": "P—Protect You",
+        "Name": "지… 지켜줄게",
         "Modifier": "MMonster_XP_Minion04_02_Cunhu_Buff",
-        "Desc": "Each stack of P—Protect You can absorb DMG from 1 incoming hit. P—Protect You stacks are shared across the team.",
+        "Desc": "[지… 지켜줄게] 스택마다 피해를 1회 저항할 수 있다. 모든 적은 [지… 지켜줄게] 스택 수를 공유한다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "280030101": {
-        "Name": "Freezing Point",
+        "Name": "빙점",
         "Modifier": "XP_Ice_Elite_Powerful_Modifier",
-        "Desc": "Ice Out of Space's attack mode is enhanced.",
+        "Desc": "외우주의 얼음의 공격 모드가 강화된다",
         "CanNotDispel": true
     },
     "280030202": {
-        "Name": "Spontaneous Combustion",
+        "Name": "자연 발화",
         "Modifier": "XP_Fire_Elite_Burning_Modifier_2",
-        "Desc": "Blaze Out of Space's attack mode is enhanced.",
+        "Desc": "외우주의 화염의 공격 모드가 강화된다",
         "CanNotDispel": true
     },
     "280030203": {
-        "Name": "Enkindle",
+        "Name": "소각",
         "Modifier": "MMonster_XP_Elite01_00_Burn",
-        "Desc": "Takes Fire DMG at the beginning of each turn for a certain number of turns.",
+        "Desc": "일정 턴 동안 턴이 시작될 때마다 화염 속성 피해를 받는다",
         "Type": "Debuff"
     },
     "280030301": {
-        "Name": "Ban",
+        "Name": "금지령",
         "Modifier": "Monster_XP_Elite02_00_Edict01",
-        "Desc": "Whoever attacks <color style='color:#f29e38;'>%CasterName</color> will be attacked 1 time.",
+        "Desc": "<color style='color:#f29e38;'>%CasterName</color> 공격 시 즉시 공격 1회를 받는다",
         "Type": "Debuff"
     },
     "280030302": {
-        "Name": "Ban",
+        "Name": "금지령",
         "Modifier": "Monster_XP_Elite02_00_Edict02",
-        "Desc": "Whoever uses Basic ATK will be attacked 1 time.",
+        "Desc": "일반 공격을 발동하면 즉시 1회 공격을 받는다",
         "Type": "Debuff"
     },
     "280030303": {
-        "Name": "Ban",
+        "Name": "금지령",
         "Modifier": "Monster_XP_Elite02_00_Edict03",
-        "Desc": "Whoever uses Skills will be attacked 1 time.",
+        "Desc": "전투 스킬을 발동하면 즉시 1회 공격을 받는다",
         "Type": "Debuff"
     },
     "280030306": {
@@ -14970,165 +15828,165 @@ var _status = {
         "CanNotDispel": true
     },
     "280030405": {
-        "Name": "Gauge Recollection",
+        "Name": "추억의 깊이",
         "Modifier": "Monster_XP_Elite02_01_EnergyLayer",
-        "Desc": "Current stacks of Gauge Recollection: <color style='color:#f29e38;'>[ModifierLayers]</color>. Loses 1 stack of Gauge Recollection after being hit.",
+        "Desc": "[추억의 눈금]을 <color style='color:#f29e38;'>[ModifierLayers]</color>스택 보유하고 있습니다. 피격 후마다 [추억의 눈금]을 1스택 잃습니다",
         "CanNotDispel": true
     },
     "280030603": {
-        "Name": "Japa",
+        "Name": "저주들림",
         "Modifier": "Monster_XP_Elite02_02_ChargeEffect",
-        "Desc": "Uses Black Prana's Snare on all targets during the next action.",
+        "Desc": "다음번 행동은 모든 아군에게 [현기서신]을 발동한다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "280120101": {
-        "Name": "SPD Boost",
+        "Name": "속도 증가",
         "Modifier": "Monster_AML_Minion02_00_SpeedUp",
-        "Desc": "Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedAddedRatio_PerLayer]</color>. Can stack up to <color style='color:#f29e38;'>[MDF_MaxLayer]</color> time(s).",
+        "Desc": "속도가 <color style='color:#f29e38;'>[MDF_SpeedAddedRatio_PerLayer]</color> 증가한다. 최대 중첩수: <color style='color:#f29e38;'>[MDF_MaxLayer]</color>스택",
         "Type": "Buff"
     },
     "280120201": {
-        "Name": "Lock On",
+        "Name": "고정",
         "Modifier": "MMonster_AML_Minion03_00_Target",
-        "Desc": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target.",
+        "Desc": "<color style='color:#f29e38;'>%CasterName</color>의 공격 대상으로 고정된다",
         "CanNotDispel": true
     },
     "280120301": {
-        "Name": "Detonated",
+        "Name": "폭발",
         "Modifier": "MMonster_AML_Minion04_00_Mark",
-        "Desc": "Has been attached a detonator by <color style='color:#f29e38;'>Voidranger: Eliminator</color>. Takes Additional DMG after being attacked.",
+        "Desc": "<color style='color:#f29e38;'>허졸•말살자</color>에 의해 기폭물이 부착되면, 피격 후 추가 피해를 추가로 1회 받는다",
         "Type": "Debuff"
     },
     "280120302": {
-        "Name": "Overloaded",
+        "Name": "과열",
         "Modifier": "MMonster_AML_Minion04_00_Overheat",
-        "Desc": "Temporarily unable to attack due to Energy overload.",
+        "Desc": "에너지가 부하를 초과해 잠시 동안 공격을 발동할 수 없습니다",
         "Type": "Debuff",
         "CanNotDispel": true
     },
     "280130101": {
-        "Name": "Lock On",
+        "Name": "고정",
         "Modifier": "MMonster_AML_Elite01_00_Aim",
-        "Desc": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target.",
+        "Desc": "<color style='color:#f29e38;'>%CasterName</color>의 공격 대상으로 고정된다",
         "CanNotDispel": true
     },
     "280130201": {
-        "Name": "Lock On",
+        "Name": "고정",
         "Modifier": "MMonster_AML_Elite01_01_DOTAim",
-        "Desc": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target.",
+        "Desc": "<color style='color:#f29e38;'>%CasterName</color>의 공격 대상으로 고정된다",
         "CanNotDispel": true
     },
     "280130202": {
-        "Name": "ATK Boost",
+        "Name": "공격력 증가",
         "Modifier": "MMonster_AML_Elite01_01_AttackAdd",
-        "Desc": "Increases ATK by <color style='color:#f29e38;'>[ModifierAttackAddedRatio]</color>, stacking up to <color style='color:#f29e38;'>[ModifierMaxLayer]</color> time(s).",
+        "Desc": "공격력이 <color style='color:#f29e38;'>[ModifierAttackAddedRatio]</color> 증가한다. 최대 중첩수: <color style='color:#f29e38;'>[ModifierMaxLayer]</color>스택",
         "Type": "Buff"
     },
     "280150102": {
-        "Name": "Lingering Power",
+        "Name": "여세",
         "Modifier": "MMonster_WMonster_W0_Boss_00_Unselectable",
-        "Desc": "Cannot be targeted until Disaster's Right Hand, Dawn's Left Hand, and Antimatter Engine have all been destroyed.",
+        "Desc": "[재해의 오른손], [여명의 왼손], [반물질 엔진]이 전부 격파당하기 전까지 공격 목표로 지정할 수 없다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "280150103": {
-        "Name": "Buff",
+        "Name": "증폭",
         "Modifier": "MMonster_W0_Boss_00_Part2_AttackUp",
-        "Desc": "ATK +<color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color>. Abilities are enhanced.",
+        "Desc": "공격력이 <color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color> 증가하며, 스킬이 강화된다",
         "Type": "Buff"
     },
     "280150104": {
-        "Name": "Ascend",
+        "Name": "승격",
         "Modifier": "MMonster_WMonster_W0_Boss_00_Part2_Skill07",
-        "Desc": "Toughness fully regenerates and Weakness Type changes.",
+        "Desc": "강인성을 완전히 회복하고 약점이 변경된다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "280150105": {
-        "Name": "Burst",
+        "Name": "폭발",
         "Modifier": "MMonster_W0_Boss_00_Part2_OnPhase3SpeedUp",
-        "Desc": "Speed increased.",
+        "Desc": "속도가 증가한다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "280150202": {
-        "Name": "Lock On",
+        "Name": "고정",
         "Modifier": "Monster_W2_Huanlong_00_Sign",
-        "Desc": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target.",
+        "Desc": "<color style='color:#f29e38;'>%CasterName</color>의 공격 대상으로 고정된다",
         "CanNotDispel": true
     },
     "280150203": {
-        "Name": "Vigor",
+        "Name": "치유",
         "Modifier": "Monster_W2_HuanlongPart_00_Heal",
-        "Desc": "Every action taken restores <color style='color:#f29e38;'>[MDF_HealRatio]</color> HP.",
+        "Desc": "행동할 때마다 <color style='color:#f29e38;'>[MDF_HealRatio]</color>만큼의 HP를 회복한다",
         "Type": "Buff"
     },
     "280150204": {
-        "Name": "Bloom",
+        "Name": "개화",
         "Modifier": "Monster_W2_HuanlongPart_01_Activity",
-        "Desc": "Will use Havoc during the next action. This status can be dispelled by abilities.",
+        "Desc": "다음 행동이 [파멸]을 발동하고, 해당 상태는 스킬에 의해 해제된다",
         "Type": "Buff"
     },
     "280150205": {
-        "Name": "Vulnerability",
+        "Name": "취약",
         "Modifier": "Monster_W2_HuanlongPart_01_Success",
-        "Desc": "Increases DMG received by <color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color>. This effect is stackable.",
+        "Desc": "받는 피해가 <color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color> 증가하고, 중첩 가능하다",
         "Type": "Debuff"
     },
     "280150206": {
-        "Name": "Repose",
+        "Name": "휴면",
         "Modifier": "Monster_W2_HuanlongPart_01_Dormancy",
-        "Desc": "In Repose.",
+        "Desc": "[휴면] 상태가 된다",
         "CanNotDispel": true
     },
     "280150208": {
-        "Name": "Weakness Protected",
+        "Name": "약점 무효",
         "Modifier": "Monster_W2_HuanlongPart_01_WeakControl",
-        "Desc": "When Destruction Lotus is not in Bloom, its Toughness cannot be reduced.",
+        "Desc": "[파멸의 현련]이 [개화] 상태가 아니면 자신의 강인성이 피해를 받지 않는다",
         "CanNotDispel": true
     },
     "280240101": {
-        "Name": "Wind Shear",
+        "Name": "풍화",
         "Modifier": "Monster_SW_Boss_00_DOT_Poison",
-        "Desc": "Takes Wind DMG at the start of each turn for a certain number of turns.",
+        "Desc": "일정 턴 동안 턴이 시작될 때마다 바람 속성 피해를 받는다",
         "Type": "Debuff"
     },
     "280240102": {
-        "Name": "DMG Boost",
+        "Name": "피해 증가",
         "Modifier": "Monster_SW_Boss_00_DamageUp",
-        "Desc": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect is stackable.",
+        "Desc": "가하는 피해가 <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color> 증가하며, 해당 효과는 중첩 가능하다",
         "Type": "Buff",
         "CanNotDispel": true
     },
     "280240103": {
-        "Name": "Vulnerability",
+        "Name": "취약",
         "Modifier": "Monster_SW_Boss_00_DamageTakenUp",
-        "Desc": "Increases DMG received by <color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color>. This effect is stackable.",
+        "Desc": "받는 피해가 <color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color> 증가한다. 해당 효과는 중첩 가능하다",
         "Type": "Debuff"
     },
     "280240104": {
-        "Name": "Mitosis: Warning",
+        "Name": "분열•경보",
         "Modifier": "Monster_SW_Minion01_00_Split",
-        "Desc": "Propagate after <color style='color:#f29e38;'>[Modifier_TurnCount]</color> turn(s). Cannot propagate during the turn in which this unit recovers from Weakness Break.",
+        "Desc": "<color style='color:#f29e38;'>[Modifier_TurnCount]</color>턴 후 증식을 진행한다. 약점 격파 효과가 회복되는 턴에는 증식을 진행할 수 없다",
         "CanNotDispel": true
     },
     "280240105": {
-        "Name": "Propagation",
+        "Name": "증식",
         "Modifier": "Monster_SW_Minion01_00_SplitEffect",
-        "Desc": "Propagate in the next turn.",
+        "Desc": "다음 턴에 증식을 진행한다",
         "CanNotDispel": true
     },
     "280330101": {
-        "Name": "Performance Points",
+        "Name": "성과 점수",
         "Modifier": "Monster_Company_Coin",
-        "Desc": "Interastral Peace Corporation's employee Performance Points. Each stack increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio]</color>, stacking up to <color style='color:#f29e38;'>[MaxLayer]</color> time(s). All Performance Points are consumed when this unit uses an attack. Performance Points can be seized by the attacker when this unit's Weakness is Broken or this unit receives a killing blow.",
+        "Desc": "스타피스 컴퍼니 직원의 [성과 점수]. 스택마다 보유자가 가하는 피해가 <color style='color:#f29e38;'>[MDF_DamageUpRatio]</color> 증가한다. 최대 중첩수: <color style='color:#f29e38;'>[MaxLayer]</color>스택. 공격 시 모든 [성과 점수]를 소모한다. 자신의 약점이 격파될 때 또는 치명적인 공격을 받을 때 공격자에게 빼앗길 수 있다",
         "Type": "Buff"
     },
     "220020302": {
-        "Name": "Strong Reverberation",
+        "Name": "강렬한 진탕",
         "Modifier": "MCommon_Shake",
-        "Desc": "Action delayed. Cannot take actions for a certain number of turns.",
+        "Desc": "행동 게이지가 감소하고, 일정 턴 동안 행동할 수 없다",
         "Type": "Debuff"
     }
 }

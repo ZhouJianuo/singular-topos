@@ -3,27 +3,27 @@
 var _relicitem_ = {
     "111": [
         {
-            "Name": "Thief's Myriad-Faced Mask",
-            "Desc": "A mask used to change one's facial appearance. Coupled with evocative acting skills, it can help you deceive anyone.",
-            "Story": "Meteor Thief Leblanc saw heists as participating in a masquerade ball, and hiding his identity was part of the etiquette.<br><br>\"How could a mask change a person's height and voice? Hahaha, it's a patented secret. Completely confidential.\"<br><br>Wearing a mask, Leblanc disguised himself as an ordinary staff member, sneaked into the IPC's security meeting, and offered advice on their \"thief prevention measures.\" It was not until half a month after the theft that the security team recalled that they didn't know that \"colleague\" at the meeting.<br><br>Thieves had to lead a double life, requiring various means of disguise. Such was the tradition of the world of thievery.<br><br>\"Can your writers make the thief wear the mask throughout the film?\" The marketing team of the IPC's Radio, Film, and Television Department said to the producer. \"I am once again stressing the need for this mask as merchandise. Affordability and popularity are equally important.\"",
+            "Name": "괴도의 천인 가면",
+            "Desc": "외모를 바꾸는 가면. 뛰어난 연기력까지 더하면 거짓을 진실로 만들 수 있다",
+            "Story": "유성 괴도 르블랑은 도둑질은 가면무도회에 참가하는 것과 마찬가지로 신분을 숨기는 것을 에티켓의 일부로 여겼다.<br><br>「가면이 어떻게 키나 목소리까지 변조해주는 거냐고? 하하하, 그건 비밀이야. 내 특허 기술이라서 말이지」<br><br>괴도는 가면을 사용해서 평범한 직원으로 위장한 다음, 컴퍼니의 보안 회의로 들어가 「괴도 방지 대책」에 대해 조언했다. 보안 부서는 이 사건이 일어난 이후로 보름이 지나서야 지금까지 누구도 그런 「동료」를 본 적이 없다는 것을 눈치챘다.<br><br>도둑은 이중생활을 해야 하므로 남의 눈을 속일 수 있는 수단이 반드시 필요하다. 이건 괴도 업계의 전통이기도 하다.<br><br>「당신네 작가에게 도둑이 작품 내내 가면을 쓰고 있게 해 달라고 요청할 수 있습니까?」 컴퍼니의 영상 마케팅 담당자가 제작사 측에 말했다. 「다시 한번 강조하지만 이 가면 굿즈의 수요는 어마어마합니다. 가격은 싼데 인기는 엄청나니까요」",
             "Icon": "IconRelic_111_1.png"
         },
         {
-            "Name": "Thief's Gloves With Prints",
-            "Desc": "A pair of special gloves interlaced with nanomaterials. The prints on its surface can change in real time.",
-            "Story": "Meteor Thief Leblanc was never a neat freak. He didn't care about leaving traces. He would always leave misleading clues, serving the right amount of provocation.<br><br>\"How could these people in the IPC have been fooled so many times? Perhaps the fault should lie with the IPC, not me.\"<br><br>His gloves could generate all sorts of prints, which always made a fool of the IPC's fingerprint detection devices, leaving them with a bunch of harmless so-called \"thief's flaws.\" The security team found hundreds of prints in their secret treasure storage room, including those of prehistoric pterosaurs, interstellar ladybugs, labradors... Needless to say, none of them belonged to the thief.<br><br>Vanishing without a trace was tedious and served only to group one alongside those timid little thieves who've got absolutely no style.<br><br>\"Fiction should never outright contradict reality. Who still uses fingerprint systems these days?\" The IPC's security team complained. \"Do these writers have any common sense at all?\"",
+            "Name": "괴도의 무늬 장갑",
+            "Desc": "나노소재로 만든 특수장갑. 실시간으로 장갑 표면 문양을 만들 수 있다",
+            "Story": "유성 괴도 르블랑에게 절대 흔적을 남기지 않는 결벽증 따위는 없었다. 그는 과하지 않은 수준의 도발을 위해 항상 혼동을 일으킬 수 있는 단서를 남겼다.<br><br>「왜 컴퍼니 사람들이 항상 가짜 지문에 계속 속아 넘어가느냐고? 그건 내가 아니라 그쪽 사람들한테 물어봐야 할 문제지」<br><br>그의 장갑에는 각종 지문을 만들어 낼 수 있는 기능이 있다. 이것 때문에 컴퍼니의 지문 탐지 장치는 무용지물이 되어버렸고 별로 치명적이지 않은 엄청난 수의 「괴도의 흔적」이 남게 되었다. 보안팀은 비밀 창고에서 수백 개에 달하는 지문을 발견했는데, 그중에는 선사 시대의 익룡과 우주 무당벌레, 래브라도 리트리버의 것도 포함되어 있었다. 당연한 이야기이지만 그의 지문은 남아있지 않았다.<br><br>흔적도 없이 사라지는 건 겁쟁이 좀도둑들이나 하는 짓이다.<br><br>「아무리 픽션이라고 해도 현실과 완전히 동떨어져서는 안 되지. 요즘 세상에 지문 인식 시스템을 사용하는 곳이 어디 있어?」 컴퍼니 보안팀이 불평했다. 「작가라는 작자가 상식도 없는 거야?」",
             "Icon": "IconRelic_111_2.png"
         },
         {
-            "Name": "Thief's Steel Grappling Hook",
-            "Desc": "A steel cable disguised as a woven belt, with hooks and pulleys hidden in its buckle.",
-            "Story": "A well-prepared thief can always escape safely from desperate situations with a life-saving grappling hook equipped under his belt at all times.<br><br>\"How to throw the grappling hook at the right target... Could you explain how you made all those moves?\"<br><br>The secret treasure storage room was full of lethal mechanisms, but the thief danced around them using the grappling hook at his waist as if he were performing a waltz in mid-air. In a split second from when he reached for his belt, Leblanc threw the grappling hook to a wall tens of meters high, and the pulley then rolled and instantly sent the thief to the \"Star of Leo.\"<br><br>To come and go anywhere one so desires, with just the steel grappling hook equipped under one's belt, is the basic qualification required of a professional thief.<br><br>\"You know, we could just let the stunt double play his part in the sequel. That'll save us a lot of money,\" the action choreographer quipped. \"The audience wouldn't know who was under the mask anyway.\"",
+            "Name": "괴도의 쇠갈고리",
+            "Desc": "편직 벨트로 위장한 강철 케이블. 벨트 버클에 갈고리와 도르래가 숨겨져 있다",
+            "Story": "주도면밀한 괴도는 절망적인 상황에서도 무사히 탈출할 수 있도록 언제나 허리춤에 비상탈출용 와이어를 준비해둔다.<br><br>「허리에 달려있는 와이어를 어떻게 조준하는 거냐고… 당신은 본인이 어떻게 걷는지 설명할 수 있나?」<br><br>보물이 보관되어 있는 밀실은 위험한 함정으로 가득 차 있다. 하지만 괴도는 와이어 장치를 사용해서 허공에서 왈츠를 추듯 움직인다. 갈고리는 발사되고 나면 0.3초 만에 수십 미터 높이의 벽 위에 걸리고, 도르래가 회전함하면서 괴도는 순식간에 「사자자리 별」 앞에 나타나게 된다.<br><br>허리춤의 와이어를 사용해서 날아다니는 것은 괴도로서 갖추어야 할 기본 소양이다.<br><br>「속편에서는 그냥 스턴트맨을 주연으로 하자고. 그러면 예산을 아낄 수 있을 테니까」 무술 감독이 빈정대는 투로 말했다. 「어차피 가면을 쓰고 있으니까 누가 누군지도 모를 거 아냐」",
             "Icon": "IconRelic_111_3.png"
         },
         {
-            "Name": "Thief's Meteor Boots",
-            "Desc": "A pair of boots that enhances any human's physical prowess. It helps the Meteor Thief stride between buildings.",
-            "Story": "Leblanc would deliberately leave a beam of dazzling light behind him when jumping from roof to roof, earning him the title of the \"Meteor Thief.\"<br><br>\"How would one escape if there were no skyscrapers? Hahahaha, spare me these ignorant questions.\"<br><br>He had sneaked away from countless chases, and it made him a master of escape. No one could catch up with his Meteor Boots in the city unless someone knew where his base of operations was. To Leblanc's surprise, a detective with messy hair was sitting inside with his coffee cup, having waited for Leblanc for a long time.<br><br>The story of the thief is over. Now is the time for the legend of the detective.<br><br>\"Many people don't believe we would write like this, which is exactly why we do so.\" An anonymous writer explained the controversial end of the Meteor Thief.",
+            "Name": "괴도의 유성 부츠",
+            "Desc": "인체 기능 향상에 도움이 되는 부츠. 괴도가 건물 사이를 활보하는 걸 도와준다",
+            "Story": "괴도는 일부러 눈에 띄는 흔적을 남기면서 거리 위를 빠른 속도로 날아다닌다. 「유성」이란 이름은 이 때문에 붙은 것이다.<br><br>「고층 빌딩이 없으면 어떻게 도망갈 거냐고? 하하하, 그런 한심한 질문은 삼가줬으면 좋겠는데」<br><br>그는 지금까지 수없이 많은 추적을 떨쳐냈다. 그의 근거지를 알아내지 못하는 한, 괴도의 유성 부츠를 따라잡을 방도는 없었다. 하지만 뜻밖에도 헝클어진 머리의 탐정이 커피잔을 든 채 르블랑의 의자에 앉아 그를 기다리고 있었다.<br><br>이것으로 괴도의 이야기는 끝났다. 이제부터는 탐정의 이야기가 이어질 것이다.<br><br>「많은 사람들이 우리가 이런 식으로 이야기를 전개할 거라고는 생각하지 못하죠. 그것이 바로 우리가 이렇게 글을 쓴 이유입니다」 익명을 요구한 한 작가는 유성 괴도의 최후를 이렇게 설명했다",
             "Icon": "IconRelic_111_4.png"
         }
     ]

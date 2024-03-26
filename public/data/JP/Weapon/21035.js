@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21035": "<i>\"If all the clocks are displaying the wrong time...\"</i><br><i>\"If those bound to promises fulfilled their vows through betrayal...\"</i><br><i>\"If those who sink into the realm of dreams never truly fell asleep...\"</i><br><i>\"If the dead return to life, only to discover their names have been stripped...\"</i><br><br><i>\"If... if...\"</i><br>He blows out the flame, and in darkness, there is but the eternal ticking of the timepiece."
+    "21035": "<i>「もしすべての時計が間違った時刻を告げているとしたら……」</i><br><i>「もし約束をした人が誓いを破ることで契りを守ったとしたら……」</i><br><i>「もし夢の中に落ちた人が眠りについていなかったとしたら……」</i><br><i>「もし死者が生きて戻ってきて、名前を奪われていることに気づいたとしたら……」</i><br><br><i>「もし…もし……」</i><br>彼は火を吹き消す。暗闇の中、ただ時計だけがチクタクと音を鳴らしている。"
 }
 
 var _weaponskill_ = {

@@ -473,24 +473,196 @@ var _story_ = {
 var _voice_ = {
     "1103": [
         {
-            "_id": 1,
-            "Story": "The free and rebellious eldest daughter of the Landau family. Once a close friend of Cocolia's, she is now a mechanic purely because she likes this job.<br>In the Everwinter-stricken Belobog, she opened a workshop called \"Neverwinter\" that puts business on hold from time to time for outdoor rock 'n' roll performances.<br>And should anyone ask her about the workshop's profits... \"This is just a hobby, dear. I'm not short on money.\""
+            "Title": "First Meeting",
+            "Voice": "Hi Trailblazer, the name's Serval Landau, I'm a Belobog mechanic. Of course, that's really just what I do on the side — rock 'n' roll is my main occupation."
         },
         {
-            "_id": 2,
-            "Story": "This is the most talented mechanic in all of Belobog and rock star. Did we mention she's also the sister of Captain Gepard Landau of the Silvermane Guards?<br><br><i>\"Stop. Stop that. Keep the first part, and leave out the second part.\"<br>\"I'd like you not to gloss over my identity like that... I, Serval Landau, am no one's accessory.\"<br><br>\"...Oh, there's nothing else afterward? Okay. Let me chip in then: If something's broken, drop into the Neverwinter Workshop in the Administrative District to see me, any time.\"<br>\"What's that, you wanna hear some rock'n'roll? Well, that's even better — drop into our Neverwinter Workshop in the Administrative District to rock this city — with Mechanical Fever!\"</i>"
+            "Title": "Greeting",
+            "Voice": "Huh? You start work this early?"
         },
         {
-            "_id": 3,
-            "Story": "Serval Landau owns a piece of land in the heart of Belobog's Administrative District — the Neverwinter Workshop — where she in theory makes a living from her mechanical repairs.<br><br>But to be more precise, almost all of this genius mechanic's time is spent repairing and making improvements to various musical instruments...<br><br><i>\"Tsk, don't pay any attention to that magazine! I'm a reputable business owner...\"<br>\"From geomarrow radiators to car engines — or even a Silvermane automaton — it's no trouble at all. As well as maintenance and renovations of ordinary appliances, I also provide a modding service.\"<br>\"Like fitting an external drill bit to a snowplow, or a ballistic trajectory calculator to a toaster... That kinda stuff.\"<br><br>\"Ah? You want to know how's business going? Hey, don't ask so many questions — you know I like to fool around with music in my spare time.\"<br>\"Anyway, I never planned on making a fortune... Life's too short. Why not plunge yourself into your hobbies?\"</i>"
+            "Title": "Parting",
+            "Voice": "Signing off now! Time to get some songwriting going~"
         },
         {
-            "_id": 4,
-            "Story": "Serval was able to rekindle her passion for music after cutting off all connections with her family.<br><br>This led to her prestigious workshop becoming a base for her to rock out — despite suffering constant complaints, this cutting-edge art style from before the Eternal Freeze is still sought out by hordes of hipster kids...<br><br><i>\"Oh, I give up! Can you trashy tabloids and your so-called \"music critics\" focus on what's important, please? 'Suffering constant complaints'... 'hipster kids'... My fans and I would dispute that!\"<br>\"But I suppose it's true that Mechanical Fever is popular with youths — at that age, kids are either full of enthusiasm or are underappreciated...\"<br>\"No matter what your mood is, you always have to vent sometimes. And rocking out with me just so happens to be the best way of doing that!\"<br><br>\"...Just like what I did back in the day.\"<br>\"Ahh, it's fine! Don't worry. I was just suddenly reminiscing about the past...\"</i>"
+            "Title": "About Self: Landau",
+            "Voice": "If we Landaus have one thing in common, it's that we're all stubborn in our own way."
         },
         {
-            "_id": 5,
-            "Story": "In days gone by, everyone knew that Serval Landau was the smartest out of all the Silvermane Guards — 80% of the rumors about the talented elder daughter of the Landaus are based around this fact.<br><br>However those rumors were almost instantly replaced by a new piece of gossip a few years ago. Why was she, who had always been close with the Supreme Guardian, being fired from the armed forces with no prior warning? Does Serval hold a grudge about it? Everyone has their own theory.<br><br><i>\"The answer to the first question is simple: 'No comment.' This is the Silvermane Guards's top secret. I hope you understand.\"<br>\"And as for the second question...\"<br><br>\"I... I don't give two hoots. Think about it. Is there anything better than living out a justifiably leisurely life? I prefer to say that woman helped me out — I really owe her a debt!\"<br>\"In this world, it's better to enjoy the present moment... No, who am I kidding.\"<br><br>\"If our ends are already doomed, there will be no such thing as true joy.\"</i>"
+            "Title": "Chat: Working as a Mechanic",
+            "Voice": "If you wanna make sure you don't burn yourself out or stifle your creativity, then don't push yourself too hard at work~"
+        },
+        {
+            "Title": "Chat: Band",
+            "Voice": "Pela's got a lot on her plate — plus she also does volunteer work on the weekends sometimes. That's why we usually schedule Mechanical Fever's rehearsals at night."
+        },
+        {
+            "Title": "Hobbies",
+            "Voice": "Since I do rock 'n' roll full-time, I'd say my hobby is... work? What's wrong with that?"
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "I always get people asking me how my workshop makes money when it's not trading. Use your brain! It doesn't!"
+        },
+        {
+            "Title": "Something to Share",
+            "Voice": "Mechanics, research, and music are all things I'm pretty good at, wouldn't you say? But I guess making money's not on the list..."
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "When Bronya becomes the supreme guardian, do you reckon she'll let me perform at Golden Theater? I'll re-arrange that \"Supreme Guardian\" stage show and make it a rock 'n' roll musical!"
+        },
+        {
+            "Title": "About Gepard",
+            "Voice": "If he paid more attention to his affairs, it'd save me a lot of headaches... I guess I do create a few headaches for him too... Maybe we're even."
+        },
+        {
+            "Title": "About Pela",
+            "Voice": "She's a flower-growing drummer and a great report writer. Name a more reliable girl. I'll wait."
+        },
+        {
+            "Title": "About Bronya",
+            "Voice": "Bronya's a good kid — you can tell she learned a lot from Cocolia. *sigh* It's been a while since we saw each other. I miss her."
+        },
+        {
+            "Title": "About Cocolia",
+            "Voice": "The Cocolia I knew would sit on the roof and listen to my songs, but... not the supreme guardian."
+        },
+        {
+            "Title": "About Sampo",
+            "Voice": "Hah, that guy. One of these days he's gonna get busted by my brother."
+        },
+        {
+            "Title": "About Lynx",
+            "Voice": "Lynxy? ...She's more like me. Ah, don't tell my brother that, he hates hearing it."
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "Rock 'n' roll might be my only true companion..."
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "Nice! I should write this into my next song..."
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "That's it? I've peaked already?"
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "Ta-da! Another one off the to-do list."
+        },
+        {
+            "Title": "Added to Team With Pela",
+            "Voice": "Just like being on stage, right Pela? I'll follow your rhythm."
+        },
+        {
+            "Title": "Added to Team With Gepard",
+            "Voice": "*sigh* You again, Geppie? Leave some fun for me this time."
+        },
+        {
+            "Title": "Added to Team With Lynx",
+            "Voice": "Ready, Lynxy? Let's rock!"
+        },
+        {
+            "Title": "Added to Team With Bronya",
+            "Voice": "*sigh* Your mother would be proud of you, Bronya."
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "Time for the main event."
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "Here to crash the party?"
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "Pretty good crowd today."
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "This song's just for you~"
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "The audience is waiting!"
+        },
+        {
+            "Title": "Basic ATK",
+            "Voice": "Let's rock!"
+        },
+        {
+            "Title": "Skill 1",
+            "Voice": "Keep up with my tempo!"
+        },
+        {
+            "Title": "Skill 2",
+            "Voice": "Turn up the volume!"
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "That's it?"
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "Not bad."
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "Ready to lose yourself?"
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "Fight it or rock with it... my music conquers all!"
+        },
+        {
+            "Title": "Downed",
+            "Voice": "The show... must go on..."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "Time for an encore~"
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "Ah~ Ready to jam~"
+        },
+        {
+            "Title": "Technique",
+            "Voice": "Can't stop the rock!"
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "The best is yet to come!"
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "Wow, good stuff."
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "Wow!"
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "Never expected to find this here!"
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "I'm getting the hang of this."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "Wish I had time to examine its inner workings!"
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "Huh, these targets will make for good practice~"
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "There's inspiration in every glance and every breeze."
         }
     ]
 }

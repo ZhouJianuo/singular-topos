@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "20006": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br><br><i>\"Human extinction is inevitable, but the library will live on: lonely, immobile, and hidden from the public. Its vast collection is useless, yet pure from corruption.\"</i>"
+    "20006": "凝縮された時間から得られる希薄な力。一瞬にも満たない刹那が、壮絶な運命を織りなす。<br><br><i>「人類はもうすぐ滅びる。しかし図書館は永遠に存在し続ける。青いランプがただ輝き、何も動かず、貴重な蔵書がそこにあり続け、静かで、いつまでも読まれず、そして壊れることもない」</i>"
 }
 
 var _weaponskill_ = {

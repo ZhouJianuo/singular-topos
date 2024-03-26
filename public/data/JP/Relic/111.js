@@ -3,27 +3,27 @@
 var _relicitem_ = {
     "111": [
         {
-            "Name": "Thief's Myriad-Faced Mask",
-            "Desc": "A mask used to change one's facial appearance. Coupled with evocative acting skills, it can help you deceive anyone.",
-            "Story": "Meteor Thief Leblanc saw heists as participating in a masquerade ball, and hiding his identity was part of the etiquette.<br><br>\"How could a mask change a person's height and voice? Hahaha, it's a patented secret. Completely confidential.\"<br><br>Wearing a mask, Leblanc disguised himself as an ordinary staff member, sneaked into the IPC's security meeting, and offered advice on their \"thief prevention measures.\" It was not until half a month after the theft that the security team recalled that they didn't know that \"colleague\" at the meeting.<br><br>Thieves had to lead a double life, requiring various means of disguise. Such was the tradition of the world of thievery.<br><br>\"Can your writers make the thief wear the mask throughout the film?\" The marketing team of the IPC's Radio, Film, and Television Department said to the producer. \"I am once again stressing the need for this mask as merchandise. Affordability and popularity are equally important.\"",
+            "Name": "{RUBY_B#かいとう}怪盗{RUBY_E#}の{RUBY_B#せんにんかめん}千人仮面{RUBY_E#}",
+            "Desc": "変装用の仮面、卓越した演技力と相まって、本物と見紛うばかりの出来栄えである。",
+            "Story": "流星怪盗ルブランは、盗みと仮面舞踏会への参加を同じものだと考えている、身分を隠すことはマナーの1つ。<br><br>「何故仮面は身長や声まで変えられるのか？ハハハハ、それは私の特許技術、秘密だ」<br><br>怪盗は仮面を使い、社員に変装してカンパニーのセキュリティ会議に潜入し、「怪盗対策」をアドバイスする。この「同僚」に会ったことがないことをセキュリティ部門が思い出したのは、盗難から半月後のことだった。<br><br>盗賊は二重生活を送っているため、人の目を欺ける手段は必須、これは怪盗界の伝統だ。<br><br>「ライターに何とかしてもらって、怪盗にずっと仮面を着けてもらえないか？」同社の映画・テレビ部門のマーケティング担当者は、プロデューサーにこう言った、「もう一度この仮面のニーズを強調しよう、廉価で大人気だ」",
             "Icon": "IconRelic_111_1.png"
         },
         {
-            "Name": "Thief's Gloves With Prints",
-            "Desc": "A pair of special gloves interlaced with nanomaterials. The prints on its surface can change in real time.",
-            "Story": "Meteor Thief Leblanc was never a neat freak. He didn't care about leaving traces. He would always leave misleading clues, serving the right amount of provocation.<br><br>\"How could these people in the IPC have been fooled so many times? Perhaps the fault should lie with the IPC, not me.\"<br><br>His gloves could generate all sorts of prints, which always made a fool of the IPC's fingerprint detection devices, leaving them with a bunch of harmless so-called \"thief's flaws.\" The security team found hundreds of prints in their secret treasure storage room, including those of prehistoric pterosaurs, interstellar ladybugs, labradors... Needless to say, none of them belonged to the thief.<br><br>Vanishing without a trace was tedious and served only to group one alongside those timid little thieves who've got absolutely no style.<br><br>\"Fiction should never outright contradict reality. Who still uses fingerprint systems these days?\" The IPC's security team complained. \"Do these writers have any common sense at all?\"",
+            "Name": "{RUBY_B#かいとう}怪盗{RUBY_E#}の{RUBY_B#もんようてぶくろ}紋様手袋{RUBY_E#}",
+            "Desc": "ナノ素材を編み込んだ特殊な手袋、どんな指紋でも瞬時に再現する。",
+            "Story": "流星怪盗ルブランは、痕跡を残さないような潔癖は持ち合わせていない。彼はいつもミスリードする手がかりや、度をわきまえた挑発を残す。<br><br>「なんでカンパニーの人たちは偽の指紋に何度も弄ばれるのか？そうだな、この問題は、私ではなくカンパニーに聞くべきだ」<br><br>彼の手袋はあらゆる指紋を生成できる、その機能はカンパニーの指紋検出技術を役立たずにしただけでなく、大した手がかりにならない「盗賊の綻び」を大量に残した。セキュリティ部門は、お宝が保管されていた密室で、先史時代の翼竜、星間テントウ虫、ラブラドールなど、何百種もの指紋を発見した……もちろん彼の指紋は1つもなかった。<br><br>完全に身を潜めるのは実につまらない、それでは警察ごときに怯えるコソ泥と大差ないではないか。<br><br>「冗談だとしても、今時指紋認証システムなんて使ってる奴なんていないぞ」カンパニーのセキュリティ部門からクレームが入った、「脚本を書いた奴ら、生活の常識もないのか？」",
             "Icon": "IconRelic_111_2.png"
         },
         {
-            "Name": "Thief's Steel Grappling Hook",
-            "Desc": "A steel cable disguised as a woven belt, with hooks and pulleys hidden in its buckle.",
-            "Story": "A well-prepared thief can always escape safely from desperate situations with a life-saving grappling hook equipped under his belt at all times.<br><br>\"How to throw the grappling hook at the right target... Could you explain how you made all those moves?\"<br><br>The secret treasure storage room was full of lethal mechanisms, but the thief danced around them using the grappling hook at his waist as if he were performing a waltz in mid-air. In a split second from when he reached for his belt, Leblanc threw the grappling hook to a wall tens of meters high, and the pulley then rolled and instantly sent the thief to the \"Star of Leo.\"<br><br>To come and go anywhere one so desires, with just the steel grappling hook equipped under one's belt, is the basic qualification required of a professional thief.<br><br>\"You know, we could just let the stunt double play his part in the sequel. That'll save us a lot of money,\" the action choreographer quipped. \"The audience wouldn't know who was under the mask anyway.\"",
+            "Name": "{RUBY_B#かいとう}怪盗{RUBY_E#}のワイヤーかぎ{RUBY_B#つめ}爪{RUBY_E#}",
+            "Desc": "ベルト風のワイヤー、バックルにフックと滑車が隠されている。",
+            "Story": "準備周到な怪盗は救命のワイヤーを常備し、いつも絶望的な状況から無事に脱出できる。<br><br>「腰部のワイヤーはどうやって照準しているのか…君は自分がどうやって歩くのかを説明するのか？」<br><br>お宝を保管する密室には危険な仕掛けが沢山あるが、怪盗は見事なワイヤーさばきでワルツを踊るように宙を舞う。かぎ爪は発射後1/3秒で数十メートルある壁に取り付き、滑車が回転し始める、すると怪盗は瞬く間に「獅子座の星」の前に出現した。<br><br>腰部のワイヤーで飛び回る、それは怪盗の基本である。<br><br>「続編でスタントマンを主演にしたら、予算を節約できるな」アクション監督は皮肉を言った、「どうせ仮面をつけてるんだ、誰も分からないさ」",
             "Icon": "IconRelic_111_3.png"
         },
         {
-            "Name": "Thief's Meteor Boots",
-            "Desc": "A pair of boots that enhances any human's physical prowess. It helps the Meteor Thief stride between buildings.",
-            "Story": "Leblanc would deliberately leave a beam of dazzling light behind him when jumping from roof to roof, earning him the title of the \"Meteor Thief.\"<br><br>\"How would one escape if there were no skyscrapers? Hahahaha, spare me these ignorant questions.\"<br><br>He had sneaked away from countless chases, and it made him a master of escape. No one could catch up with his Meteor Boots in the city unless someone knew where his base of operations was. To Leblanc's surprise, a detective with messy hair was sitting inside with his coffee cup, having waited for Leblanc for a long time.<br><br>The story of the thief is over. Now is the time for the legend of the detective.<br><br>\"Many people don't believe we would write like this, which is exactly why we do so.\" An anonymous writer explained the controversial end of the Meteor Thief.",
+            "Name": "{RUBY_B#かいとう}怪盗{RUBY_E#}の{RUBY_B#りゅうせい}流星{RUBY_E#}ブーツ",
+            "Desc": "人体機能を補強する靴。怪盗がビルの間をすたすた歩くのを可能にしている。",
+            "Story": "怪盗は、わざと眩しい軌道を残しながら街の上を高速で飛び去る。それが「流星」の由来である。<br><br>「高層ビルがなかったらどうやって逃げる？ハハハハ、そんなつまらない問題はもうよしてくれよ」<br><br>怪盗は、繰り返される間一髪の脱走には慣れていた。彼の拠点を知っている者がいない限り、怪盗の流星ブーツに追いつける人はいない。意外な事に、ボサボサ頭の探偵はコーヒーカップを持ち、ルブランの椅子に座って彼を待っていた。<br><br>怪盗の物語はここで終わり、これからは探偵の物語だ。<br><br>「誰も私がそう書くとは思わないから、こう書いてやったのさ！」賛否両論の結末を、脚本家（匿名）が解説した。",
             "Icon": "IconRelic_111_4.png"
         }
     ]

@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "20019": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate. <br><br><i>\"What can be more joyous than purging disharmony?\"</i>"
+    "20019": "凝縮された時間から得られる希薄な力。一瞬にも満たない刹那が、壮絶な運命を織りなす。<br><br><i>「不協和音を排除することほど、愉快なことがあるのだろうか？」</i>"
 }
 
 var _weaponskill_ = {

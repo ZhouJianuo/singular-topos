@@ -3,27 +3,27 @@
 var _relicitem_ = {
     "115": [
         {
-            "Name": "Grand Duke's Crown of Netherflame",
-            "Desc": "A crown of unceasing flame, with its burning ambition serving as its inexhaustible fuel.",
-            "Story": "The elegant fire demon was born in the most fiery of all fires, and believes Destruction to be the supreme glory bestowed upon Fetora.<br><br>\"I, born on the eve of destruction, am the sinful belief of Fetora. I am the furious flames of Nanook.\"<br><br>Nanook destroyed Fetora by THEIR own hands, and the White Star's flames coalesced with the power of Destruction to birth a plasmic lifeforms. The elegant fire demon saw its birth as a revelation. \"Today, the Lord of Destruction conquered Fetora. THEY honored it with blazing flames. The frivolous and meaningless glory evaporate with the solar flare, but concrete and heavy glory shall mark my coronation.\" Ifrit has been obsessed with destruction and slaughter since birth.<br><br>\"The laurels of honor in this world are all woven of thorns. The only laurel that surpasses these thorns is my supreme crown of netherflame.\"<br><br>The embers left behind from the Aeon of Destruction's annihilation of a star were clasped in Ifrit's own hands, molded into the shape of Fetora's crown, and worn to this day.",
+            "Name": "{RUBY_B#たいこう}大公{RUBY_E#}の{RUBY_B#めいえん}冥焔{RUBY_E#}の{RUBY_B#かんむり}冠{RUBY_E#}",
+            "Desc": "燃え続ける炎の冠。烈々たる野心は尽きることのない燃料である。",
+            "Story": "優雅な炎魔は燃え盛る炎の中から生まれ、壊滅こそがトフェトに与えられた至高の冠であると信じている。<br><br>「私、壊滅の際に生まれし者、トフェトの罪悪の信仰。私こそ、ナヌークの憤怒の炎である」<br><br>ナヌークは自らの手でトフェトを滅ぼし、白星の烈火と壊滅の力がプラズマ生命体を育んだ。優雅な炎魔は己の誕生を天啓だと見なしている——「壊滅の君主は今日トフェトを征服し、それに燃え盛る炎を与えた。軽薄で空虚な栄誉は紅炎と共に散り、重厚な栄誉は私に冠を授けるだろう」アフリートは生まれた時から破壊と殺戮に溺れている。<br><br>「世の中のすべての冠はイバラで編まれている。イバラの冠に勝るものは、私の冥焔の冠だけだ」<br><br>壊滅の星神が星を滅ぼした余燼は、アフリートによってトフェトの王冠の形に整えられ、今でも身に付けられている。",
             "Icon": "IconRelic_115_1.png"
         },
         {
-            "Name": "Grand Duke's Gloves of Fieryfur",
-            "Desc": "Pure white gloves with flames as its fur, hiding its brutality under smooth silk.",
-            "Story": "Ifrit orchestrated countless crises bent on annihilating lives. The Grand Duke fancied themselves as a conductor, and must wear gloves to hold the conductor's baton covered in thorns.<br><br>\"I come with Destruction's revelation. One hand giveth, and the other taketh away.\"<br><br>Firmly believing that \"the preciousness of something can only be appreciated in its eradication,\" Duke Inferno torched the history and culture of the planet Lisalit, scorching the brilliant silks of the aristocracy, incinerating the long scrolls of the poets, razing the vivid murals of the painters to ash... \"Civilization is like a larva. It will only be reborn in a burning execution, when it turns into a black butterfly that flutters away in the wind.\" Like an undertaker who lowers their head to monitor the crematorium's furnace, Ifrit guides civilizations into their swansong.<br><br>\"Through my efforts, imagination, and direction... the synchronization, number of performances, tone, and tempo of the different catastrophes... all fuse into a brilliant masterpiece of destructive performance.\"<br><br>After the end of a satisfying destruction, Ifrit wipes the blood off their hands and dons pristine white gloves again, as if they were an aristocrat attending a banquet.",
+            "Name": "{RUBY_B#たいこう}大公{RUBY_E#}の{RUBY_B#ほのお}炎{RUBY_E#}の{RUBY_B#てぶくろ}手袋{RUBY_E#}",
+            "Desc": "炎を羽毛にした純白の手袋。すべての暴虐をシルクの下に隠している。",
+            "Story": "アフリートは無数の生命を滅する危機を企てた。大公自ら指揮を執り、手袋をはめてこそ、棘のある指揮棒を握ることができる。<br><br>「私は壊滅の天啓に奉じるために来た。片手は奪うため、もう一方の手は与えるためにある」<br><br>「物事の尊さは、その滅びの中にある」と信じてやまない冥火大公は、リサリット星の歴史と文化を滅ぼし、貴族の煌びやかな絹織物を焼き払い、詩人の贅沢な長い巻物を燃やし尽くし、画家の優れた壁画を灰燼に帰した…「文明は若虫と同じ。燃え尽きて黒い蝶のように舞うことでこそ、生まれ変わることができる」アフリートは火葬炉の監視をする葬儀屋のように、頭を低くして文明の絶唱を導いている。<br><br>「私の努力、想像、指揮によって、演奏の順序、音調、速度が融合して素晴らしい壊滅のショーとなった」<br><br>アフリートは満足のいく壊滅が終わった後、血に塗れた手を拭い、宴会に参加する裕福な客がつけるような純白の手袋をはめた。",
             "Icon": "IconRelic_115_2.png"
         },
         {
-            "Name": "Grand Duke's Robe of Grace",
-            "Desc": "A gorgeous robe that emphasizes the dignity and elegance of its owner.",
-            "Story": "The elegant fire demon admires their image in the dressing mirror after an inhumane massacre. An audience with a monarch always requires appropriate finery.<br><br> \"The purpose of clothing is not to adorn one's appearance, but to display one's true essence — just as the essence of flame is to destroy.\"<br><br>The ever-burning clan of fire demons regards Nanook as their emperor and savior, but the Aeon had never glimpsed at them. Ifrit's destruction is laced with flaunts, power, conquest, and motivation, and the rivalry between the Ever-Flame Mansion and the Jepella Brotherhood was even more sordid. \"Impure destruction stains the most magnificent garments more easily than dirt.\" Regarding purity, Ifrit has never been able to grasp its essence from the start.<br><br>\"The value of destruction lies in the value of the thing destroyed. Our value lies in our practice of Destruction until our emperor takes notice.\"<br><br>Ifrit, with piety in their heart, wears brocaded garments woven with velvet-red flames, and waits for the summon of the Destruction.",
+            "Name": "{RUBY_B#たいこう}大公{RUBY_E#}の{RUBY_B#おんけい}恩恵{RUBY_E#}のロングジャケット",
+            "Desc": "華やかで美しいジャケット。その持ち主の品格が窺える。",
+            "Story": "優雅な炎魔は非人道的な虐殺を行った後、姿見に映る自分の姿を鑑賞する。君主に謁見するには適切な装いをする必要があるからだ。<br><br>「衣服は着飾るためでなく、本質を表現するためにある。烈焔の本質が壊滅にあるのと同じように」<br><br>永遠に燃え続ける炎魔一族は、ナヌークを皇帝と見なし恩主と称したが、星神の一瞥を受けたことはない。アフリートの壊滅は誇示と権利、征服と動機が入り混じったもので、「永火官邸」と「ヤペラー ブラザーフッド」の争いはさらに醜いものだった。「不純な壊滅は汚れよりも華やかな服を汚しやすい」純粋という概念について、アフリートは終始要領を得なかった。<br><br>「壊滅の価値は壊滅されるモノの価値にある。私たちの価値は君主の一瞥を得るまで壊滅を実践することである」<br><br>アフリートは信心深く、ビロード色の炎で織られた華やかな服を身に纏い、壊滅の招待を待っている。",
             "Icon": "IconRelic_115_3.png"
         },
         {
-            "Name": "Grand Duke's Ceremonial Boots",
-            "Desc": "A pair of classic and comfortable boots in pristine condition, with a sleek design and flattering style.",
-            "Story": "Wherever the elegant fire demon's trail wound, the smoldered civilizations silently wailed. Ifrit never paid them any attention —<br><br>\"Those who have no roads left to walk on don't need boots. Why must these civilizations at their end whinge at me?\"<br><br>Duke Inferno, with the crown of fire on their head, is considered by many civilizations as an otherworldly demon, yet receives an invitation from the planet of festivities. Ifrit is happy to attend in full ceremonial garb. \"I will prepare a courteous and thoughtful destruction, and not a single bone will be left behind.\" The elegant fire demon assembles a party of cosmic evil, and plans the grandiose scene of offering a mountain of corpses and a sea of blood for the banquet... Those destroyed civilizations are but mere stops on the pilgrimage to Destruction, and Penacony will just be another pitstop along the way.<br><br> \"Your destruction is nothing personal. It is just for the purpose of earning THEIR gaze.\"<br><br>At the sound of the distant banquet calling, Ifrit cheerfully embarks on the long journey to the feast.",
+            "Name": "{RUBY_B#たいこう}大公{RUBY_E#}の{RUBY_B#ゆうが}優雅{RUBY_E#}なブーツ",
+            "Desc": "クラシックで履き心地のいいブーツ。完璧に手入れされている。",
+            "Story": "優雅な炎魔の足跡がくねくねと続く場所では、焼かれた文明がいつも静かに泣きながら訴えている。しかし、アフリートがそれを気にすることはない——<br><br>「歩む道がない者に靴など不要だ。終わりに到達した文明が私に訴えて何になる？」<br><br>焔の冠を被った「冥火大公」は、多くの文明から天外の悪魔とされているのだが、なぜか宴の星から招待を受け、嬉々として盛装して宴に出席した。「礼儀作法に則った壊滅を用意した。骨の一片も残せると思うな」優雅な炎魔は星間の悪党たちを集め、宴で死体の山と血の海を築こうとしている…滅ぼされた文明は、壊滅への巡礼の道でしかなく、ピノコニーも通過点に過ぎない。<br><br>「お前たちを滅ぼしても、お前たちには関係ない。これは其の目を引くためだ」<br><br>遠くから聞こえる宴会の声に誘われ、アフリートは嬉しそうに長い旅に出た。",
             "Icon": "IconRelic_115_4.png"
         }
     ]

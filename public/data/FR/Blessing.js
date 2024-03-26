@@ -1153,7 +1153,7 @@ var _blessing = [
         "Name": "Catastrophic Constellation",
         "Desc": [
             "At the end of a character's turn, their next action is Advanced Forward by <color style='color:#f29e38;'>8.0%</color>.",
-            "At the end of a character's turn, their next action is Advanced Forward by <color style='color:#f29e38;'>12.0%</color>."
+            ""
         ],
         "SimpleDesc": [
             "When a character's turn ends, their action is Advanced Forward.",
@@ -3802,10 +3802,6 @@ var _blessingextra = {
         "Name": "Debuff",
         "Desc": "Debuffs are negative status effects that render units weaker. Unless otherwise specified, debuffs can be dispelled."
     },
-    "10000011": {
-        "Name": "Crowd Control debuff",
-        "Desc": "Frozen, Entanglement, Imprisonment, Dominated, Outrage, and Strong Reverberation"
-    },
     "10000012": {
         "Name": "DoT Debuff",
         "Desc": "Bleed, Burn, Shock, Wind Shear."
@@ -4205,5 +4201,41 @@ var _blessingextra = {
     "70000208": {
         "Name": "Blood Rage",
         "Desc": "Each stack of Blood Rage increases the CRIT Rate and CRIT DMG of the affected unit."
+    },
+    "70000210": {
+        "Name": "Summon",
+        "Desc": "Weapons of this type will be added to the action bar, and the corresponding effects will be triggered when they take action."
+    },
+    "70000211": {
+        "Name": "Area of Effect",
+        "Desc": "Weapons of this type will conduct AoE DMG to multiple adjacent targets."
+    },
+    "70000212": {
+        "Name": "Focus",
+        "Desc": "Weapons of this type will deal extra DMG against Elite and Boss targets."
+    },
+    "70000213": {
+        "Name": "Launch",
+        "Desc": "Weapons of this type will launch multiple attacks and apply corresponding effects on enemy targets"
+    },
+    "10000014": {
+        "Name": "Break DMG",
+        "Desc": "Damage type that is not affected by any stat aside from Break Effect. The higher the character level and the target's max Toughness, the higher the Break DMG."
+    },
+    "23025011": {
+        "Name": "Alien Dream",
+        "Desc": "Cannot take action. Regenerate a minor amount of HP and Energy every turn. When attacked, greatly increases the amount of DMG received, then dispels the Alien Dream state."
+    },
+    "10000011": {
+        "Name": "Crowd Control debuff",
+        "Desc": "Freeze, Entanglement, Imprisonment, Dominated, Outrage, Strong Reverberation, and Alien Dream"
+    },
+    "23003051": {
+        "Name": "",
+        "Desc": ""
+    },
+    "23003052": {
+        "Name": "",
+        "Desc": ""
     }
 }

@@ -6,14 +6,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/IconRogueKnight01.png",
-        "Name": "Divine Construct: Resonance Transfer",
+        "Name": "{RUBY_B#しんせいこうちく}神性構築{RUBY_E#}・{RUBY_B#きょうめいでんたつ}共鳴伝達{RUBY_E#}",
         "Desc": [
-            "After a character launches an attack, deals <u class='infou'>Quake</u> DMG equal to <color style='color:#f29e38;'> 100.0% </color> of the character's current Shield to the hit enemies.",
-            "After a character launches an attack, deals <u class='infou'>Quake</u> DMG equal to <color style='color:#f29e38;'> 100.0% </color> of the character's current Shield effect plus <color style='color:#f29e38;'> 20.0% </color> of the total Shield effect of the character's allies to the hit enemies."
+            "キャラが攻撃を行った後、攻撃を受けた敵にキャラのバリア耐久値<color style='color:#f29e38;'> 100.0% </color>分の「<u class='infou'>反震</u>」ダメージを与える。",
+            "キャラが攻撃を行った後、攻撃を受けた敵にキャラのバリア耐久値<color style='color:#f29e38;'> 100.0% </color>+パーティの総バリア耐久値<color style='color:#f29e38;'> 20.0% </color>分の「<u class='infou'>反震</u>」ダメージを与える。"
         ],
         "SimpleDesc": [
-            "After attacking enemies, the attacking character deals <u class='infou'>Quake</u> DMG based on the current Shield effect on the character.",
-            "After attacking enemies, the attacking character deals <u class='infou'>Quake</u> DMG based on the current total Shield effect on the ally team."
+            "キャラが敵を攻撃した後、自身のバリア耐久値に応じた「<u class='infou'>反震</u>」ダメージを与える。",
+            "キャラが敵を攻撃した後、味方全体のバリア耐久値に応じた「<u class='infou'>反震</u>」ダメージを与える。"
         ],
         "Effects": [
             60000001
@@ -24,14 +24,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/IconRogueKnight01.png",
-        "Name": "Divine Construct: Metastatic Field",
+        "Name": "{RUBY_B#しんせいこうちく}神性構築{RUBY_E#}・{RUBY_B#ふせいていこうぞう}不静定構造{RUBY_E#}",
         "Desc": [
-            "After a character is hit, deals <u class='infou'>Quake</u> DMG to the attacker, equal to <color style='color:#f29e38;'> 340.0% </color> of the character's current Shield effect. This DMG cannot defeat the enemy.",
-            "After a character is attacked, deals <u class='infou'>Quake</u> DMG to the attacker, equal to <color style='color:#f29e38;'> 420.0% </color> of the character's Shield effect just before the attack. This DMG cannot defeat the enemy."
+            "キャラが攻撃を受けた後、攻撃者に対して、自身のバリア耐久値<color style='color:#f29e38;'> 340.0% </color>分の「<u class='infou'>反震</u>」ダメージを与える。このダメージで敵を倒すことはできない。",
+            "キャラが攻撃を受けた後、攻撃者に対して、攻撃を受ける前の自身のバリア耐久値<color style='color:#f29e38;'> 420.0% </color>分の「<u class='infou'>反震</u>」ダメージを与える。このダメージで敵を倒すことはできない。"
         ],
         "SimpleDesc": [
-            "After a character is hit by an attack, deals <u class='infou'>Quake</u> DMG based on the current Shield effect on the attacked character.",
-            "After a character is hit by an attack, deals <u class='infou'>Quake</u> DMG on the attacking enemy based on the total Shield effect on the character before they were hit."
+            "キャラが攻撃を受けた後、自身のバリア耐久値に応じた「<u class='infou'>反震</u>」ダメージを与える。",
+            "キャラが攻撃を受けた後、攻撃を受ける前のバリア耐久値に応じた「<u class='infou'>反震</u>」ダメージを与える。"
         ],
         "Effects": [
             60000001
@@ -42,14 +42,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Divine Construct: Macrosegregation",
+        "Name": "{RUBY_B#しんせいこうちく}神性構築{RUBY_E#}・マクロ{RUBY_B#へんせき}偏析{RUBY_E#}",
         "Desc": [
-            "At the start of the battle, characters gain a special Shield that can absorb DMG equal to <color style='color:#f29e38;'> 1.0% </color> of their Max HP. Whenever another Shield is gained, this special Shield will also strengthen in equal value. For every <color style='color:#f29e38;'> 2.0 </color> turn(s), this will be removed, and then this special Shield can be regained.",
-            "At the start of the battle, characters gain a special Shield that can absorb DMG equal to <color style='color:#f29e38;'> 10.0% </color> of their Max HP. Whenever another Shield is gained, this special Shield will also strengthen by <color style='color:#f29e38;'> 130.0% </color>. For every <color style='color:#f29e38;'> 2.0 </color> turn(s), this will be removed, and then this special Shield can be regained."
+            "戦闘開始時、キャラは最大HP<color style='color:#f29e38;'> 1.0% </color>分の耐久力を持つ特殊バリアを獲得する。他のバリアを獲得した時、この特殊バリアは同量の耐久値をアップする。この特殊バリアは<color style='color:#f29e38;'> 2.0 </color>ターンごとに解除され、その後再度獲得する。",
+            "戦闘開始時、キャラは最大HP<color style='color:#f29e38;'> 10.0% </color>分の耐久力を持つ特殊バリアを獲得する。他のバリアを獲得した時、この特殊バリアは、獲得したバリアの耐久値<color style='color:#f29e38;'> 130.0% </color>分の耐久値をアップする。この特殊バリアは<color style='color:#f29e38;'> 2.0 </color>ターンごとに解除され、その後再度獲得する。"
         ],
         "SimpleDesc": [
-            "When entering battle, characters gain a stackable special Shield. This Shield is reset every <color style='color:#f29e38;'> 2.0 </color> turn(s).",
-            "When entering battle, characters gain a stackable special Shield. This Shield is reset every <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "戦闘開始時、キャラは累積できる特殊バリアを1つ獲得する、このバリアは<color style='color:#f29e38;'> 2.0 </color>ターンごとにリセットされる。",
+            "戦闘開始時、キャラは累積できる特殊バリアを1つ獲得する、このバリアは<color style='color:#f29e38;'> 2.0 </color>ターンごとにリセットされる。"
         ],
         "Effects": []
     },
@@ -58,14 +58,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 2,
         "Icon": "/IconRogueKnight01.png",
-        "Name": "Interstellar Construct: Shear Structure",
+        "Name": "{RUBY_B#せいかんこうちく}星間構築{RUBY_E#}・{RUBY_B#せんだんこうぞう}剪断構造{RUBY_E#}",
         "Desc": [
-            "Characters deal <color style='color:#f29e38;'> 10.0% </color> increased <u class='infou'>Quake</u> DMG to their target enemy, and enemies adjacent to it also take <u class='infou'>Quake</u> DMG equal to <color style='color:#f29e38;'> 25.0% </color> of DMG dealt to the target enemy.",
-            "Characters deal <color style='color:#f29e38;'> 15.0% </color> increased <u class='infou'>Quake</u> DMG to their target, and other targets also take <u class='infou'>Quake</u> DMG equal to <color style='color:#f29e38;'> 30.0% </color> of DMG dealt to the target enemy."
+            "キャラが敵に与える「<u class='infou'>反震</u>」ダメージ+<color style='color:#f29e38;'> 10.0% </color>、隣接する敵にもメインターゲットに対する<color style='color:#f29e38;'> 25.0% </color>分の「<u class='infou'>反震</u>」ダメージを与える。",
+            "キャラが敵に与える「<u class='infou'>反震</u>」ダメージ+<color style='color:#f29e38;'> 15.0% </color>、他の敵にもメインターゲットに対する<color style='color:#f29e38;'> 30.0% </color>分の「<u class='infou'>反震</u>」ダメージを与える。"
         ],
         "SimpleDesc": [
-            "<u class='infou'>Quake</u> DMG increases and affects enemies adjacent to the target enemy.",
-            "<u class='infou'>Quake</u> DMG increases and is Blasted to all enemies."
+            "「<u class='infou'>反震</u>」の与ダメージアップ、隣接する敵に拡散する。",
+            "「<u class='infou'>反震</u>」の与ダメージアップ、敵全体に拡散する。"
         ],
         "Effects": [
             60000001
@@ -76,14 +76,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 2,
         "Icon": "/IconRogueKnight01.png",
-        "Name": "Interstellar Construct: Burst Lattice",
+        "Name": "{RUBY_B#せいかんこうちく}星間構築{RUBY_E#}・{RUBY_B#こうしけっかん}格子欠陥{RUBY_E#}",
         "Desc": [
-            "When a character deals <u class='infou'>Quake</u> DMG to an enemy target, there is a <color style='color:#f29e38;'> 65.0% </color> base chance to cause the target to Bleed.",
-            "When a character deals <u class='infou'>Quake</u> DMG to an enemy target, there is a <color style='color:#f29e38;'> 100.0% </color> base chance to cause the target to Bleed."
+            "キャラが敵に「<u class='infou'>反震</u>」ダメージを与えた時、<color style='color:#f29e38;'> 65.0% </color>の基礎確率でその敵を裂創状態にする。",
+            "キャラが敵に「<u class='infou'>反震</u>」ダメージを与えた時、<color style='color:#f29e38;'> 100.0% </color>の基礎確率でその敵を裂創状態にする。"
         ],
         "SimpleDesc": [
-            "<u class='infou'>Quake</u> has a chance of applying Bleed on the enemy.",
-            "<u class='infou'>Quake</u> has a high chance of applying Bleed to enemies."
+            "「<u class='infou'>反震</u>」は確率で敵を裂創状態にする。",
+            "「<u class='infou'>反震</u>」は高確率で敵を裂創状態にする。"
         ],
         "Effects": [
             60000001
@@ -94,14 +94,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 2,
         "Icon": "/IconRogueKnight01.png",
-        "Name": "Interstellar Construct: Solid Solution",
+        "Name": "{RUBY_B#せいかんこうちく}星間構築{RUBY_E#}・{RUBY_B#こようきょうか}固溶強化{RUBY_E#}",
         "Desc": [
-            "Deals increased <u class='infou'>Quake</u> DMG to enemies. The amount of DMG increased is equal to <color style='color:#f29e38;'> 80.0% </color> of the character's current DEF.",
-            "Deals increased <u class='infou'>Quake</u> DMG to enemies. The amount of DMG increased is equal to <color style='color:#f29e38;'> 120.0% </color> of the character's current DEF."
+            "キャラが「<u class='infou'>反震</u>」で敵に与えるダメージが、キャラの現在の防御力<color style='color:#f29e38;'> 80.0% </color>分アップする。",
+            "キャラが「<u class='infou'>反震</u>」で敵に与えるダメージが、キャラの現在の防御力<color style='color:#f29e38;'> 120.0% </color>分アップする。"
         ],
         "SimpleDesc": [
-            "The DMG <u class='infou'>Quake</u> deals increases with the character's DEF.",
-            "The DMG <u class='infou'>Quake</u> deals increases with the character's DEF."
+            "キャラの防御力に応じて、「<u class='infou'>反震</u>」ダメージがアップする。",
+            "キャラの防御力に応じて、「<u class='infou'>反震</u>」ダメージがアップする。"
         ],
         "Effects": [
             60000001
@@ -112,14 +112,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 2,
         "Icon": "/IconRogueKnight01.png",
-        "Name": "Interstellar Construct: Safe Load",
+        "Name": "{RUBY_B#せいかんこうちく}星間構築{RUBY_E#}・{RUBY_B#あんぜんかじゅう}安全荷重{RUBY_E#}",
         "Desc": [
-            "Shielded characters increase their ATK by <color style='color:#f29e38;'> 40.0% </color> of the Shield effect on them, up to a maximum of <color style='color:#f29e38;'> 120.0% </color> of their Base ATK.",
-            "Shielded characters increase their ATK by <color style='color:#f29e38;'> 60.0% </color> of the Shield effect on them, up to a maximum of <color style='color:#f29e38;'> 160.0% </color> of their Base ATK."
+            "バリアを持つキャラの攻撃力が、自身のバリア耐久値<color style='color:#f29e38;'> 40.0% </color>分アップする。最大で基礎攻撃力の<color style='color:#f29e38;'> 120.0% </color>までアップできる。",
+            "バリアを持つキャラの攻撃力が、自身のバリア耐久値<color style='color:#f29e38;'> 60.0% </color>分アップする。最大で基礎攻撃力の<color style='color:#f29e38;'> 160.0% </color>までアップできる。"
         ],
         "SimpleDesc": [
-            "Shielded characters increase their ATK based on the max DMG that can be absorbed by their current Shields.",
-            "Shielded characters increase their ATK based on the max DMG that can be absorbed by their current Shields."
+            "自身のバリア耐久値に応じて、キャラの攻撃力がアップする。",
+            "自身のバリア耐久値に応じて、キャラの攻撃力がアップする。"
         ],
         "Effects": []
     },
@@ -128,14 +128,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 2,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Interstellar Construct: Sanctuary",
+        "Name": "{RUBY_B#せいかんこうちく}星間構築{RUBY_E#}・{RUBY_B#はんさようひご}反作用庇護{RUBY_E#}",
         "Desc": [
-            "At the end of the turn, there is <color style='color:#f29e38;'> 80.0% </color> fixed chance for characters to gain a Shield equal to <color style='color:#f29e38;'> 12.0% </color> of their Max HP, lasting for <color style='color:#f29e38;'> 1.0 </color> turn(s).",
-            "At the end of the turn, characters gain a special Shield that can absorb DMG equal to <color style='color:#f29e38;'> 15.0% </color> of their Max HP, lasting for <color style='color:#f29e38;'> 1.0 </color> turn(s)."
+            "ターン終了時、キャラは<color style='color:#f29e38;'> 80.0% </color>の固定確率で自身の最大HP<color style='color:#f29e38;'> 12.0% </color>分の耐久値を持つバリアを獲得する、<color style='color:#f29e38;'> 1.0 </color>ターン継続。",
+            "ターン終了時、キャラは自身の最大HP<color style='color:#f29e38;'> 15.0% </color>分の耐久値を持つバリアを獲得する、<color style='color:#f29e38;'> 1.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "Characters have a high chance of receiving a Shield at the end of the turn.",
-            "Characters receive a Shield at the end of the turn."
+            "ターン終了時、キャラは高確率でバリアを獲得する。",
+            "ターン終了時、キャラはバリアを獲得する。"
         ],
         "Effects": []
     },
@@ -144,14 +144,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 2,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Interstellar Construct: Quadrangular Pyramid",
+        "Name": "{RUBY_B#せいかんこうちく}星間構築{RUBY_E#}・{RUBY_B#しかくすい}四角錐{RUBY_E#}",
         "Desc": [
-            "Increase the max DMG that can be absorbed by Shields created by characters by <color style='color:#f29e38;'> 30.0% </color>.",
-            "When characters' gain a Shield, increases the max DMG that can be absorbed by the Shield by <color style='color:#f29e38;'> 35.0% </color>."
+            "キャラが付与するバリアの耐久値+<color style='color:#f29e38;'> 30.0% </color>。",
+            "バリアを獲得した時、キャラが獲得するバリアの耐久値+<color style='color:#f29e38;'> 35.0% </color>。"
         ],
         "SimpleDesc": [
-            "Increases the max DMG that can be absorbed by Shields created by characters.",
-            "When a character receives a Shield, increases the max DMG that can be absorbed by the Shield."
+            "キャラが付与するバリアの耐久値がアップする。",
+            "バリアを獲得した時、キャラのバリア耐久値がアップする。"
         ],
         "Effects": []
     },
@@ -160,14 +160,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 2,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Interstellar Construct: Hypoeutectoid",
+        "Name": "{RUBY_B#せいかんこうちく}星間構築{RUBY_E#}・{RUBY_B#あきょうしょう}亜共晶{RUBY_E#}",
         "Desc": [
-            "When a character provides Shields to allies, this character gains a Shield that can absorb DMG equal to <color style='color:#f29e38;'> 24.0% </color> of the provided Shield for <color style='color:#f29e38;'> 2.0 </color> turn(s).",
-            "When a character provides Shields to allies, this character gains a Shield that can absorb DMG equal to <color style='color:#f29e38;'> 36.0% </color> of the provided Shield for <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "キャラが味方にバリアを付与した時、自身もそのバリアの耐久値<color style='color:#f29e38;'> 24.0% </color>分のバリアを獲得する、<color style='color:#f29e38;'> 2.0 </color>ターン継続。",
+            "キャラが味方にバリアを付与した時、自身もそのバリアの耐久値<color style='color:#f29e38;'> 36.0% </color>分のバリアを獲得する、<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "Characters also receive a Shield when creating Shield(s) for allied targets.",
-            "Characters also receive a Shield when creating Shield(s) for allied targets."
+            "キャラが味方にバリアを付与した時、自身もバリアを獲得する。",
+            "キャラが味方にバリアを付与した時、自身もバリアを獲得する。"
         ],
         "Effects": []
     },
@@ -176,14 +176,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 1,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Construct: Assemble",
+        "Name": "{RUBY_B#こうちく}構築{RUBY_E#}・{RUBY_B#しゅうそ}集塑{RUBY_E#}",
         "Desc": [
-            "Characters gain a <color style='color:#f29e38;'> 6.0% </color> DEF increase for each Preservation Blessing, stacking up to a max of <color style='color:#f29e38;'> 6.0 </color> time(s).",
-            "Characters gain a <color style='color:#f29e38;'> 8.0% </color> DEF increase for each Preservation Blessing, stacking up to a max of <color style='color:#f29e38;'> 9.0 </color> time(s)."
+            "所持する「存護」の祝福1個につき、キャラの防御力+<color style='color:#f29e38;'> 6.0% </color>、最大で<color style='color:#f29e38;'> 6.0 </color>層累積できる。",
+            "所持する「存護」の祝福1個につき、キャラの防御力+<color style='color:#f29e38;'> 8.0% </color>、最大で<color style='color:#f29e38;'> 9.0 </color>層累積できる。"
         ],
         "SimpleDesc": [
-            "The more Blessings of Preservation the team has, the higher the characters' DEF becomes.",
-            "The more Blessings of Preservation the team has, the higher the characters' DEF becomes."
+            "「存護」の祝福の数が多いほど、キャラの防御力がアップする。",
+            "「存護」の祝福の数が多いほど、キャラの防御力がアップする。"
         ],
         "Effects": []
     },
@@ -192,14 +192,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 1,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Construct: Sentinel",
+        "Name": "{RUBY_B#こうちく}構築{RUBY_E#}・{RUBY_B#しょうかい}哨戒{RUBY_E#}",
         "Desc": [
-            "Upon entering battle, characters gain a Shield equal to <color style='color:#f29e38;'> 16.0% </color> of their Max HP, lasting for <color style='color:#f29e38;'> 2.0 </color> turn(s).",
-            "Upon entering battle, characters gain a Shield equal to <color style='color:#f29e38;'> 24.0% </color> of their Max HP, lasting for <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "戦闘に入る時、キャラは最大HP<color style='color:#f29e38;'> 16.0% </color>分の耐久値を持つバリアを獲得する、<color style='color:#f29e38;'> 2.0 </color>ターン継続。",
+            "戦闘に入る時、キャラは最大HP<color style='color:#f29e38;'> 24.0% </color>分の耐久値を持つバリアを獲得する、<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "When entering battle, all characters gain a Shield.",
-            "Upon entering battle, all characters gain a Shield."
+            "戦闘に入る時、味方全体がバリアを獲得する。",
+            "戦闘に入る時、味方全体がバリアを獲得する。"
         ],
         "Effects": []
     },
@@ -208,14 +208,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 1,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Construct: Patch",
+        "Name": "{RUBY_B#こうちく}構築{RUBY_E#}・{RUBY_B#ようちゃく}溶着{RUBY_E#}",
         "Desc": [
-            "After a character is attacked, they gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'> 18.0% </color> of the HP lost during this attack, lasting for <color style='color:#f29e38;'> 1.0 </color> turn(s).",
-            "After a character is attacked, they gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'> 18.0% </color> of the HP lost during this attack, lasting for <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "キャラが攻撃を受けた後、その回の攻撃で失ったHP<color style='color:#f29e38;'> 18.0% </color>分の耐久値を持つバリアを獲得する、<color style='color:#f29e38;'> 1.0 </color>ターン継続。",
+            "キャラが攻撃を受けた後、その回の攻撃で失ったHP<color style='color:#f29e38;'> 18.0% </color>分の耐久値を持つバリアを獲得する、<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "After being hit, characters gain a Shield based on the HP lost in this attack.",
-            "After being hit, characters gain a Shield based on the HP lost in this attack."
+            "キャラが攻撃を受けた後、その回の攻撃により失ったHPの量に応じて、バリアを獲得する。",
+            "キャラが攻撃を受けた後、その回の攻撃により失ったHPの量に応じて、バリアを獲得する。"
         ],
         "Effects": []
     },
@@ -224,14 +224,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 1,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Construct: Compensation",
+        "Name": "{RUBY_B#こうちく}構築{RUBY_E#}・{RUBY_B#ほてん}補填{RUBY_E#}",
         "Desc": [
-            "After a character inflicts Weakness Break on an enemy, characters gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'> 14.0% </color> of their Max HP, lasting for <color style='color:#f29e38;'> 2.0 </color> turn(s).",
-            "After a character inflicts Weakness Break on an enemy, characters gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'> 18.0% </color> of their Max HP, lasting for <color style='color:#f29e38;'> 3.0 </color> turn(s)."
+            "キャラが敵を弱点撃破した後、最大HP<color style='color:#f29e38;'> 14.0% </color>分の耐久値を持つバリアを獲得する、<color style='color:#f29e38;'> 2.0 </color>ターン継続。",
+            "キャラが敵を弱点撃破した後、最大HP<color style='color:#f29e38;'> 18.0% </color>分の耐久値を持つバリアを獲得する、<color style='color:#f29e38;'> 3.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "When a character inflicts Weakness Break on a target, the character gains a Shield.",
-            "When a character inflicts Weakness Break on a target, the character gains a Shield."
+            "キャラが敵を弱点撃破した後、バリアを獲得する。",
+            "キャラが敵を弱点撃破した後、バリアを獲得する。"
         ],
         "Effects": []
     },
@@ -240,14 +240,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 1,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Construct: Firmness",
+        "Name": "{RUBY_B#こうちく}構築{RUBY_E#}・{RUBY_B#かっこ}確固{RUBY_E#}",
         "Desc": [
-            "Shielded characters take <color style='color:#f29e38;'> 16.0% </color> less DMG.",
-            "Shielded characters take <color style='color:#f29e38;'> 24.0% </color> less DMG."
+            "バリアを持つキャラの被ダメージ-<color style='color:#f29e38;'> 16.0% </color>。",
+            "バリアを持つキャラの被ダメージ-<color style='color:#f29e38;'> 24.0% </color>。"
         ],
         "SimpleDesc": [
-            "Shielded Characters receive reduced DMG.",
-            "Shielded Characters receive reduced DMG."
+            "バリアを持つキャラの被ダメージダウン。",
+            "バリアを持つキャラの被ダメージダウン。"
         ],
         "Effects": []
     },
@@ -256,14 +256,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 1,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Construct: Rotation",
+        "Name": "{RUBY_B#こうちく}構築{RUBY_E#}・{RUBY_B#かいてん}回転{RUBY_E#}",
         "Desc": [
-            "When a character gains a Shield, there is a <color style='color:#f29e38;'> 20.0% </color> fixed chance to dispel 1 debuff that is currently placed on the character.",
-            "When a character gains a Shield, there is a <color style='color:#f29e38;'> 30.0% </color> fixed chance to dispel 1 debuff that is currently placed on the character."
+            "キャラがバリアを獲得した時、<color style='color:#f29e38;'> 20.0% </color>の固定確率で自身のデバフを1つ解除する。",
+            "キャラがバリアを獲得した時、<color style='color:#f29e38;'> 30.0% </color>の固定確率で自身のデバフを1つ解除する。"
         ],
         "SimpleDesc": [
-            "When a character receives a shield, there is a small chance of removing a debuff currently on them.",
-            "When a character receives a Shield, there is a small chance of removing a debuff currently on them."
+            "キャラがバリアを獲得した時、低確率でデバフを1つ解除する。",
+            "キャラがバリアを獲得した時、低確率でデバフを1つ解除する。"
         ],
         "Effects": []
     },
@@ -272,14 +272,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 1,
         "Icon": "/IconRogueKnight01.png",
-        "Name": "Construct: Burst",
+        "Name": "{RUBY_B#こうちく}構築{RUBY_E#}・{RUBY_B#ぼっぱつ}勃発{RUBY_E#}",
         "Desc": [
-            "Increases the CRIT DMG of Shielded characters by <color style='color:#f29e38;'> 30.0% </color>.",
-            "Increases the CRIT DMG of Shielded characters by <color style='color:#f29e38;'> 45.0% </color>."
+            "バリアを持つキャラの会心ダメージ+<color style='color:#f29e38;'> 30.0% </color>。",
+            "バリアを持つキャラの会心ダメージ+<color style='color:#f29e38;'> 45.0% </color>。"
         ],
         "SimpleDesc": [
-            "Shielded Characters have increased CRIT DMG.",
-            "Shielded Characters have increased CRIT DMG."
+            "バリアを持つキャラの会心ダメージアップ。",
+            "バリアを持つキャラの会心ダメージアップ。"
         ],
         "Effects": []
     },
@@ -288,14 +288,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 1,
         "Icon": "/IconRogueKnight01.png",
-        "Name": "Construct: Concentration",
+        "Name": "{RUBY_B#こうちく}構築{RUBY_E#}・{RUBY_B#せんねん}専念{RUBY_E#}",
         "Desc": [
-            "Increases the CRIT Rate of Shielded characters by <color style='color:#f29e38;'> 16.0% </color>.",
-            "Increases the CRIT Rate of Shielded characters by <color style='color:#f29e38;'> 24.0% </color>."
+            "バリアを持つキャラの会心率+<color style='color:#f29e38;'> 16.0% </color>。",
+            "バリアを持つキャラの会心率+<color style='color:#f29e38;'> 24.0% </color>。"
         ],
         "SimpleDesc": [
-            "Shielded Characters have increased CRIT Rate.",
-            "Shielded Characters have increased CRIT Rate."
+            "バリアを持つキャラの会心率アップ。",
+            "バリアを持つキャラの会心率アップ。"
         ],
         "Effects": []
     },
@@ -304,14 +304,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "Funeral of Sensory Pursuivant",
+        "Name": "{RUBY_B#かんかくついほうしゃ}感覚追奉者{RUBY_E#}の{RUBY_B#そうしき}葬式{RUBY_E#}",
         "Desc": [
-            "Every time an enemy takes DMG from a DoT, applies <color style='color:#f29e38;'> 1.0 </color> stack(s) of <u class='infou'>Suspicion</u>.",
-            "Every time an enemy receives DoT, apply <color style='color:#f29e38;'> 1.0 </color> stack(s) of <u class='infou'>Suspicion</u>. <u class='infou'>Suspicion</u> stacks will not be reduced."
+            "敵は持続ダメージを1回受けるたびに、「<u class='infou'>懐疑</u>」効果を<color style='color:#f29e38;'> 1.0 </color>層付与される。",
+            "敵は持続ダメージを1回受けるたびに、「<u class='infou'>懐疑</u>」効果を<color style='color:#f29e38;'> 1.0 </color>層付与される。「<u class='infou'>懐疑</u>」効果の層数が減少しなくなる。"
         ],
         "SimpleDesc": [
-            "Every time an enemy takes DMG from a DoT, apply <color style='color:#f29e38;'> 1.0 </color> stack(s) of <u class='infou'>Suspicion</u> on them.",
-            "Every time an enemy takes DMG from a DoT, applies <color style='color:#f29e38;'> 1.0 </color> stack(s) of <u class='infou'>Suspicion</u> on the enemy. <u class='infou'>Suspicion</u> stacks cannot be reduced."
+            "敵は持続ダメージを1回受けるたび、「<u class='infou'>懐疑</u>」を<color style='color:#f29e38;'> 1.0 </color>層付与される。",
+            "敵は持続ダメージを1回受けるたび、「<u class='infou'>懐疑</u>」を<color style='color:#f29e38;'> 1.0 </color>層付与される。「<u class='infou'>懐疑</u>」の層数が減少しなくなる。"
         ],
         "Effects": [
             60000012
@@ -322,14 +322,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "The Man in the Cover",
+        "Name": "{RUBY_B#はこ}箱{RUBY_E#}に{RUBY_B#はい}入{RUBY_E#}った{RUBY_B#ひと}人{RUBY_E#}",
         "Desc": [
-            "Every time an enemy is afflicted with a DoT, apply <color style='color:#f29e38;'> 3.0 </color> stack(s) of <u class='infou'>Suspicion</u>.",
-            "Every time an enemy is afflicted with a DoT, apply <color style='color:#f29e38;'> 3.0 </color> stack(s) of <u class='infou'>Suspicion</u>. Every time the DoT refreshes, apply <color style='color:#f29e38;'> 1.0 </color> stack(s) of <u class='infou'>Suspicion</u>."
+            "敵は持続ダメージ系デバフを付与されるたびに、「<u class='infou'>懐疑</u>」効果を<color style='color:#f29e38;'> 3.0 </color>層付与される。",
+            "敵は持続ダメージ系デバフを付与されるたびに、「<u class='infou'>懐疑</u>」効果を<color style='color:#f29e38;'> 3.0 </color>層付与される。敵に付与された持続ダメージ系デバフが更新された時、「<u class='infou'>懐疑</u>」効果を<color style='color:#f29e38;'> 1.0 </color>層付与される。"
         ],
         "SimpleDesc": [
-            "Every time an enemy is afflicted with a DoT state, apply <color style='color:#f29e38;'> 3.0 </color> stack(s) of <u class='infou'>Suspicion</u> on them.",
-            "Every time an enemy is afflicted with a DoT state, apply <color style='color:#f29e38;'> 3.0 </color> stack(s) of <u class='infou'>Suspicion</u> on them. Every time the DoT countdown timer refreshes, apply <color style='color:#f29e38;'> 1.0 </color> stack(s) of <u class='infou'>Suspicion</u> on them."
+            "敵は持続ダメージ系デバフを付与されるたび、「<u class='infou'>懐疑</u>」を<color style='color:#f29e38;'> 3.0 </color>層付与される。",
+            "敵は持続ダメージ系デバフを付与されるたび、「<u class='infou'>懐疑</u>」を<color style='color:#f29e38;'> 3.0 </color>層付与される。更新された時、「<u class='infou'>懐疑</u>」を<color style='color:#f29e38;'> 1.0 </color>層付与される。"
         ],
         "Effects": [
             60000012
@@ -340,14 +340,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "Why Hasn't Everything Already Disappeared?",
+        "Name": "なぜすべては{RUBY_B#き}消{RUBY_E#}えぬか",
         "Desc": [
-            "At the beginning of an enemy's turn, trigger extra DoT <color style='color:#f29e38;'> 1.0 </color> times, dealing DMG equal to <color style='color:#f29e38;'> 90.0% </color> of the original DoT.",
-            "At the beginning of an enemy's turn, trigger extra DoT <color style='color:#f29e38;'> 1.0 </color> times, dealing DMG equal to <color style='color:#f29e38;'> 135.0% </color> of the original DoT."
+            "敵のターンが回ってきた時、持続ダメージをさらに<color style='color:#f29e38;'> 1.0 </color>回発生させ、その敵に付与された持続ダメージ系デバフが、本来のダメージ<color style='color:#f29e38;'> 90.0% </color>分のダメージを発生する。",
+            "敵のターンが回ってきた時、持続ダメージをさらに<color style='color:#f29e38;'> 1.0 </color>回発生させ、その敵に付与された持続ダメージ系デバフが、本来のダメージ<color style='color:#f29e38;'> 135.0% </color>分のダメージを発生する。"
         ],
         "SimpleDesc": [
-            "At the start of an enemy's turn, all DoT sources on it are triggered <color style='color:#f29e38;'> 1.0 </color> extra time(s).",
-            "At the start of an enemy's turn, all DoT sources on it are triggered <color style='color:#f29e38;'> 1.0 </color> extra time(s)."
+            "敵のターンが回ってきた時、持続ダメージがさらに<color style='color:#f29e38;'> 1.0 </color>回発生する。",
+            "敵のターンが回ってきた時、持続ダメージがさらに<color style='color:#f29e38;'> 1.0 </color>回発生する。"
         ],
         "Effects": []
     },
@@ -356,14 +356,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 2,
         "Icon": "/IconRogueWarlock05.png",
-        "Name": "Beginning and End",
+        "Name": "{RUBY_B#ほったん}発端{RUBY_E#}と{RUBY_B#けつまつ}結末{RUBY_E#}",
         "Desc": [
-            "When an enemy inflicted with <u class='infou'>Suspicion</u> is defeated, inflicts the same number of stacks of <u class='infou'>Suspicion</u> the defeated enemy has on <color style='color:#f29e38;'> 1.0 </color> random enemy target(s).",
-            "When an enemy inflicted with <u class='infou'>Suspicion</u> is defeated, inflicts the same number of stacks of <u class='infou'>Suspicion</u> the defeated enemy has on <color style='color:#f29e38;'> 2.0 </color> random enemy target(s)."
+            "「<u class='infou'>懐疑</u>」効果を付与された敵が倒された時、それ以外のランダム<color style='color:#f29e38;'> 1.0 </color>体の敵は、倒された敵と同じ層数の「<u class='infou'>懐疑</u>」効果を付与される。",
+            "「<u class='infou'>懐疑</u>」効果を付与された敵が倒された時、それ以外のランダム<color style='color:#f29e38;'> 2.0 </color>体の敵は、倒された敵と同じ層数の「<u class='infou'>懐疑</u>」効果を付与される。"
         ],
         "SimpleDesc": [
-            "When an enemy afflicted with <u class='infou'>Suspicion</u> is defeated, transfers the defeated enemy's <u class='infou'>Suspicion</u> stacks to <color style='color:#f29e38;'> 1.0 </color> random enemy target(s).",
-            "When an enemy afflicted with <u class='infou'>Suspicion</u> is defeated, transfers the defeated enemy's <u class='infou'>Suspicion</u> stacks to <color style='color:#f29e38;'> 2.0 </color> random enemy target(s)."
+            "「<u class='infou'>懐疑</u>」効果を受けた敵が倒された時、「<u class='infou'>懐疑</u>」の層数をランダムな敵<color style='color:#f29e38;'> 1.0 </color>体に移す。",
+            "「<u class='infou'>懐疑</u>」効果を受けた敵が倒された時、「<u class='infou'>懐疑</u>」の層数をランダムな敵<color style='color:#f29e38;'> 2.0 </color>体に移す。"
         ],
         "Effects": [
             60000012
@@ -374,14 +374,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 2,
         "Icon": "/IconRogueWarlock05.png",
-        "Name": "Café Self-Deceit",
+        "Name": "{RUBY_B#じこぎまん}自己欺瞞{RUBY_E#}カフェ",
         "Desc": [
-            "When an enemy has <u class='infou'>Suspicion</u> on them, inflicts <color style='color:#f29e38;'> 1.0 </color> extra stack(s) of <u class='infou'>Suspicion</u>.",
-            "When an enemy is inflicted with <u class='infou'>Suspicion</u>, the stacks it gains are doubled."
+            "敵は「<u class='infou'>懐疑</u>」効果を付与される時、さらに<color style='color:#f29e38;'> 1.0 </color>層の「<u class='infou'>懐疑</u>」効果を付与される。",
+            "敵は「<u class='infou'>懐疑</u>」効果を付与される時、倍の層数の「<u class='infou'>懐疑</u>」効果を付与される。"
         ],
         "SimpleDesc": [
-            "When an enemy becomes afflicted with <u class='infou'>Suspicion</u>, apply <color style='color:#f29e38;'> 1.0 </color> extra stack(s) of <u class='infou'>Suspicion</u> on them.",
-            "When an enemy is afflicted with <u class='infou'>Suspicion</u>, the stacks they gains is doubled."
+            "敵は「<u class='infou'>懐疑</u>」状態を付与される時、さらに<color style='color:#f29e38;'> 1.0 </color>層付与される。",
+            "敵は「<u class='infou'>懐疑</u>」を付与される時、倍の層数の「<u class='infou'>懐疑</u>」を付与される。"
         ],
         "Effects": [
             60000012
@@ -392,14 +392,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 2,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "Call of the Wilderness",
+        "Name": "{RUBY_B#こうや}広野{RUBY_E#}の{RUBY_B#よ}呼{RUBY_E#}び{RUBY_B#ごえ}声{RUBY_E#}",
         "Desc": [
-            "For every stack of <u class='infou'>Suspicion</u> the enemies have, reduces their ATK by <color style='color:#f29e38;'> 0.3% </color>, up to a max of <color style='color:#f29e38;'> 30.0% </color>.",
-            "For every stack of <u class='infou'>Suspicion</u> the enemies have, reduces their ATK by <color style='color:#f29e38;'> 0.4% </color>, up to a max of <color style='color:#f29e38;'> 30.0% </color>, and reduces their Effect RES by <color style='color:#f29e38;'> 0.4% </color>, up to a max of <color style='color:#f29e38;'> 30.0% </color>."
+            "敵全体にある「<u class='infou'>懐疑</u>」効果1層につき、攻撃力-<color style='color:#f29e38;'> 0.3% </color>、最大で-<color style='color:#f29e38;'> 30.0% </color>。",
+            "敵全体にある「<u class='infou'>懐疑</u>」効果1層につき、攻撃力-<color style='color:#f29e38;'> 0.4% </color>、最大で-<color style='color:#f29e38;'> 30.0% </color>。効果抵抗-<color style='color:#f29e38;'> 0.4% </color>、最大で-<color style='color:#f29e38;'> 30.0% </color>。"
         ],
         "SimpleDesc": [
-            "Decreases the target enemy's ATK based on the total stacks of <u class='infou'>Suspicion</u> on the enemy team.",
-            "Decreases the target enemy's ATK and Effect RES based on the total stacks of <u class='infou'>Suspicion</u> on the enemy team."
+            "敵全体の「<u class='infou'>懐疑</u>」の総層数に応じて、攻撃力がダウンする。",
+            "敵全体の「<u class='infou'>懐疑</u>」の総層数に応じて、攻撃力と効果抵抗がダウンする。"
         ],
         "Effects": [
             60000012
@@ -410,14 +410,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 2,
         "Icon": "/IconRogueWarlock03.png",
-        "Name": "Night Beyond Pyre",
+        "Name": "{RUBY_B#たきび}焚火{RUBY_E#}の{RUBY_B#そと}外{RUBY_E#}の{RUBY_B#よる}夜{RUBY_E#}",
         "Desc": [
-            "Increases Weakness Break efficiency by <color style='color:#f29e38;'> 30.0% </color>.",
-            "Increases Weakness Break efficiency by <color style='color:#f29e38;'> 45.0% </color>."
+            "キャラの弱点撃破効率+<color style='color:#f29e38;'> 30.0% </color>。",
+            "キャラの弱点撃破効率+<color style='color:#f29e38;'> 45.0% </color>。"
         ],
         "SimpleDesc": [
-            "Characters' Weakness Break efficiency increases.",
-            "Characters' Weakness Break efficiency increases."
+            "キャラの弱点撃破効率アップ。",
+            "キャラの弱点撃破効率アップ。"
         ],
         "Effects": []
     },
@@ -426,14 +426,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 2,
         "Icon": "/IconRogueWarlock05.png",
-        "Name": "Hell is Other People",
+        "Name": "{RUBY_B#たにん}他人{RUBY_E#}は{RUBY_B#じごく}地獄{RUBY_E#}",
         "Desc": [
-            "When a character inflicts Weakness Break on an enemy, the same type of Weakness Break effect is applied to enemies adjacent to it.",
-            "When a character inflicts Weakness Break on an enemy, the same type of Weakness Break effect is applied to all enemies."
+            "キャラが敵を弱点撃破した時、隣接する敵にも同じ属性の弱点撃破効果を触発させる。",
+            "キャラが敵を弱点撃破した時、敵全体にも同じ属性の弱点撃破効果を触発させる。"
         ],
         "SimpleDesc": [
-            "When a character Breaks an enemy's Weakness, enemies adjacent to it will also have their Weaknesses Broken.",
-            "When a character Breaks an enemy's Weakness, all enemies will also have their Weaknesses Broken."
+            "キャラが敵を弱点撃破した時、隣接する敵も弱点撃破の効果を受ける。",
+            "キャラが敵を弱点撃破した時、敵全体が弱点撃破の効果を受ける。"
         ],
         "Effects": []
     },
@@ -442,14 +442,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 2,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "Twilight of Existence",
+        "Name": "{RUBY_B#そんざい}存在{RUBY_E#}の{RUBY_B#たそがれ}黄昏{RUBY_E#}",
         "Desc": [
-            "When hitting a Weakness Broken enemy, there is a <color style='color:#f29e38;'> 75.0% </color> base chance to apply Burn, Shock, Bleed, or Wind Shear on the enemy for <color style='color:#f29e38;'> 2.0 </color> turn(s).",
-            "When hitting a Weakness Broken enemy, there is a <color style='color:#f29e38;'> 75.0% </color> base chance to inflict Burn, Shock, Bleed, or Wind Shear on the enemy for <color style='color:#f29e38;'> 2.0 </color> turn(s), and dispels 1 debuff currently on the attacker."
+            "敵が攻撃を受けた後、弱点撃破状態にある場合、<color style='color:#f29e38;'> 75.0% </color>の基礎確率で燃焼、感電、裂創、風化状態の内1つを付与される、<color style='color:#f29e38;'> 2.0 </color>ターン継続。",
+            "敵が攻撃を受けた後、弱点撃破状態にある場合、<color style='color:#f29e38;'> 75.0% </color>の基礎確率で燃焼、感電、裂創、風化状態の内1つを付与される、<color style='color:#f29e38;'> 2.0 </color>ターン継続。そして、攻撃者のデバフを1つ解除する。"
         ],
         "SimpleDesc": [
-            "If an enemy's Weakness is Broken after receiving an attack, there is a chance for them to be inflicted with a random DoT.",
-            "When hitting a Weakness Broken enemy, there's a chance of inflicting a random DoT and at the same time 1 debuff will be removed from the attacker."
+            "敵が攻撃を受けた後、弱点撃破状態にある場合、確率でランダムな持続ダメージ系デバフを付与される。",
+            "敵が攻撃を受けた後、弱点撃破状態にある場合、確率でランダムな持続ダメージ系デバフを付与され、攻撃者のデバフを1つ解除する。"
         ],
         "Effects": []
     },
@@ -458,14 +458,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 2,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "All Things are Possible",
+        "Name": "{RUBY_B#こんきょ}根拠{RUBY_E#}なき{RUBY_B#さんか}賛歌{RUBY_E#}",
         "Desc": [
-            "If an enemy is attacked while under any DoT statuses, a random DoT will be triggered, dealing DMG equal to <color style='color:#f29e38;'> 100.0% </color> of the DoT.",
-            "If an enemy is attacked while under any DoT statuses, a random DoT will be triggered, dealing DMG equal to <color style='color:#f29e38;'> 150.0% </color> of the DoT."
+            "敵が攻撃を受けた後、持続ダメージ系デバフがある場合、ランダムな持続ダメージ系デバフ1つが、本来のダメージ<color style='color:#f29e38;'> 100.0% </color>分のダメージを発生する。",
+            "敵が攻撃を受けた後、持続ダメージ系デバフがある場合、ランダムな持続ダメージ系デバフ1つが、本来のダメージ<color style='color:#f29e38;'> 150.0% </color>分のダメージを発生する。"
         ],
         "SimpleDesc": [
-            "If an enemy is under any DoT status when receiving an attack, they will take DMG from a random DoT on them.",
-            "If an enemy is under any DoT status when receiving an attack, they will take DMG from a random DoT on them."
+            "敵が攻撃を受けた後、持続ダメージ系デバフにある場合、ランダムに持続ダメージが1つ発生する。",
+            "敵が攻撃を受けた後、持続ダメージ系デバフにある場合、ランダムに持続ダメージが1つ発生する。"
         ],
         "Effects": []
     },
@@ -474,14 +474,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 1,
         "Icon": "/IconRogueWarlock01.png",
-        "Name": "Ignosticism",
+        "Name": "{RUBY_B#ばくししゅぎ}漠視主義{RUBY_E#}",
         "Desc": [
-            "Gains a <color style='color:#f29e38;'> 6.0% </color> DoT increase for each Nihility Blessing. This effect can stack up to a max of <color style='color:#f29e38;'> 6.0 </color> time(s).",
-            "Gains a <color style='color:#f29e38;'> 8.0% </color> DoT increase for each Nihility Blessing. This effect can stack up to a max of <color style='color:#f29e38;'> 9.0 </color> time(s)."
+            "所持する「虚無」の祝福1個につき、キャラの持続与ダメージ+<color style='color:#f29e38;'> 6.0% </color>、この効果は最大で<color style='color:#f29e38;'> 6.0 </color>層累積できる。",
+            "所持する「虚無」の祝福1個につき、キャラの持続与ダメージ+<color style='color:#f29e38;'> 8.0% </color>、この効果は最大で<color style='color:#f29e38;'> 9.0 </color>層累積できる。"
         ],
         "SimpleDesc": [
-            "The more Blessings of Nihility the team has, the higher the characters' DoT becomes.",
-            "The more Blessings of Nihility the team has, the higher the characters' DoT becomes."
+            "「虚無」の祝福の数が多いほど、キャラの持続与ダメージがアップする。",
+            "「虚無」の祝福の数が多いほど、キャラの持続与ダメージがアップする。"
         ],
         "Effects": []
     },
@@ -490,14 +490,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 1,
         "Icon": "/IconRogueWarlock03.png",
-        "Name": "Questioning of Purpose",
+        "Name": "{RUBY_B#いぎ}意義{RUBY_E#}への{RUBY_B#きつもん}詰問{RUBY_E#}",
         "Desc": [
-            "Increases characters' Break Effect by <color style='color:#f29e38;'> 50.0% </color>.",
-            "Increases characters' Break Effect by <color style='color:#f29e38;'> 75.0% </color>."
+            "キャラの撃破特効+<color style='color:#f29e38;'> 50.0% </color>。",
+            "キャラの撃破特効+<color style='color:#f29e38;'> 75.0% </color>。"
         ],
         "SimpleDesc": [
-            "Increases Break Effect.",
-            "Increases Break Effect."
+            "キャラの撃破特効アップ。",
+            "キャラの撃破特効アップ。"
         ],
         "Effects": []
     },
@@ -506,14 +506,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 1,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "Blind Vision",
+        "Name": "{RUBY_B#もうもく}盲目{RUBY_E#}の{RUBY_B#しかい}視界{RUBY_E#}",
         "Desc": [
-            "Reduces enemies' Effect RES by <color style='color:#f29e38;'> 12.0% </color>.",
-            "Reduces enemies' Effect RES by <color style='color:#f29e38;'> 18.0% </color>."
+            "敵の効果抵抗-<color style='color:#f29e38;'> 12.0% </color>。",
+            "敵の効果抵抗-<color style='color:#f29e38;'> 18.0% </color>。"
         ],
         "SimpleDesc": [
-            "Reduces target enemy's Effect RES.",
-            "Reduces target enemy's Effect RES."
+            "敵の効果抵抗ダウン。",
+            "敵の効果抵抗ダウン。"
         ],
         "Effects": []
     },
@@ -522,14 +522,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 1,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "Tragic Lecture",
+        "Name": "{RUBY_B#ひげきこうざ}悲劇講座{RUBY_E#}",
         "Desc": [
-            "Increases DoT taken by enemies by <color style='color:#f29e38;'> 10.0% </color>.",
-            "Increases DoT taken by enemies by <color style='color:#f29e38;'> 15.0% </color>."
+            "敵の持続被ダメージ+<color style='color:#f29e38;'> 10.0% </color>。",
+            "敵の持続被ダメージ+<color style='color:#f29e38;'> 15.0% </color>。"
         ],
         "SimpleDesc": [
-            "Enemies take increased DMG from DoTs.",
-            "Enemies take increased DMG from DoTs."
+            "敵の持続被ダメージアップ。",
+            "敵の持続被ダメージアップ。"
         ],
         "Effects": []
     },
@@ -538,14 +538,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 1,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "Sensory Labyrinth",
+        "Name": "{RUBY_B#ちかく}知覚{RUBY_E#}の{RUBY_B#かべ}壁{RUBY_E#}",
         "Desc": [
-            "Extends the duration of Wind Shear, Bleed, Shock, and Burn on enemies by <color style='color:#f29e38;'> 1.0 </color> turn(s).",
-            "Extends the duration of Wind Shear, Bleed, Shock, and Burn on enemies by <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "敵が受ける風化/裂創/感電/燃焼状態の継続時間+<color style='color:#f29e38;'> 1.0 </color>ターン。",
+            "敵が受ける風化/裂創/感電/燃焼状態の継続時間+<color style='color:#f29e38;'> 2.0 </color>ターン。"
         ],
         "SimpleDesc": [
-            "Extends the duration of Wind Shear, Bleed, Shock, and Burn on enemies by <color style='color:#f29e38;'> 1.0 </color> turn(s).",
-            "Extends the duration of Wind Shear, Bleed, Shock, and Burn on enemies by <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "敵が受ける風化/裂創/感電/燃焼状態の継続時間+<color style='color:#f29e38;'> 1.0 </color>ターン。",
+            "敵が受ける風化/裂創/感電/燃焼状態の継続時間+<color style='color:#f29e38;'> 2.0 </color>ターン。"
         ],
         "Effects": []
     },
@@ -554,14 +554,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 1,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "Emotional Decluttering",
+        "Name": "{RUBY_B#じょうちょしゃり}情緒捨離{RUBY_E#}",
         "Desc": [
-            "Every time an enemy target is afflicted with a DoT status, the DMG taken by them increases by <color style='color:#f29e38;'> 3.0% </color>. This effect can stack up to <color style='color:#f29e38;'> 4.0 </color> time(s).",
-            "Every time an enemy target is afflicted with a DoT status, the DMG taken by them increases by <color style='color:#f29e38;'> 4.0% </color>. This effect can stack up to <color style='color:#f29e38;'> 5.0 </color> time(s)."
+            "敵に付与された持続ダメージ系デバフが1つにつき、被ダメージ+<color style='color:#f29e38;'> 3.0% </color>、この効果は最大で<color style='color:#f29e38;'> 4.0 </color>層累積できる。",
+            "敵に付与された持続ダメージ系デバフが1つにつき、被ダメージ+<color style='color:#f29e38;'> 4.0% </color>、この効果は最大で<color style='color:#f29e38;'> 5.0 </color>層累積できる。"
         ],
         "SimpleDesc": [
-            "The more DoTs the enemy has, the more DMG they will receive from all sources.",
-            "The more DoTs the enemy has, the more DMG they will receive from all sources."
+            "敵にある持続ダメージ系デバフが多いほど、被ダメージがアップする。",
+            "敵にある持続ダメージ系デバフが多いほど、被ダメージがアップする。"
         ],
         "Effects": []
     },
@@ -570,14 +570,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 1,
         "Icon": "/IconRogueWarlock02.png",
-        "Name": "Offerings of Deception",
+        "Name": "{RUBY_B#きょもう}虚妄{RUBY_E#}の{RUBY_B#くもつ}供物{RUBY_E#}",
         "Desc": [
-            "Every time an enemy takes DMG from a DoT, all allies restore HP equal to <color style='color:#f29e38;'> 1.0% </color> of their respective Max HP.",
-            "Every time an enemy takes DMG from a DoT, all allies restore HP equal to <color style='color:#f29e38;'> 1.5% </color> of their respective Max HP."
+            "敵が持続ダメージを受けるたびに、味方全体のHPをそれぞれの最大HP<color style='color:#f29e38;'> 1.0% </color>分回復する。",
+            "敵が持続ダメージを受けるたびに、味方全体のHPをそれぞれの最大HP<color style='color:#f29e38;'> 1.5% </color>分回復する。"
         ],
         "SimpleDesc": [
-            "Every time an enemy takes DMG from a DoT, all characters restore HP.",
-            "Every time an enemy takes DMG from a DoT, all characters restore HP."
+            "敵が持続ダメージを受けるたび、味方全体はHPを回復する。",
+            "敵が持続ダメージを受けるたび、味方全体はHPを回復する。"
         ],
         "Effects": []
     },
@@ -586,14 +586,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 1,
         "Icon": "/IconRogueWarlock03.png",
-        "Name": "Before Sunrise",
+        "Name": "{RUBY_B#ひ}日{RUBY_E#}の{RUBY_B#で}出{RUBY_E#}{RUBY_B#まえ}前{RUBY_E#}",
         "Desc": [
-            "Every time an enemy receives a DoT, <color style='color:#f29e38;'> 2.0 </color> Energy is regenerated for a random ally.",
-            "Every time an enemy receives a DoT, <color style='color:#f29e38;'> 3.0 </color> Energy is regenerated for a random ally."
+            "敵が持続ダメージを受けるたびに、ランダムな味方はEPを<color style='color:#f29e38;'> 2.0 </color>回復する。",
+            "敵が持続ダメージを受けるたびに、ランダムな味方はEPを<color style='color:#f29e38;'> 3.0 </color>回復する。"
         ],
         "SimpleDesc": [
-            "Every time an enemy takes DMG from a DoT, a random ally regenerates Energy.",
-            "Every time an enemy takes DMG from a DoT, a random ally regenerates Energy."
+            "敵が持続ダメージを受けるたび、ランダムな味方はEPを回復する。",
+            "敵が持続ダメージを受けるたび、ランダムな味方はEPを回復する。"
         ],
         "Effects": []
     },
@@ -602,14 +602,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/IconRoguePirest01.png",
-        "Name": "Prosperity, Longevity",
+        "Name": "{RUBY_B#か}彼{RUBY_E#}の{RUBY_B#かれい}遐齢{RUBY_E#}を{RUBY_B#のば}延{RUBY_E#}さん",
         "Desc": [
-            "Charges <u class='infou'>Dewdrop</u> when a character's HP is restored. The Charge value is equal to <color style='color:#f29e38;'> 100.0% </color> of the amount of healing received.",
-            "Charges <u class='infou'>Dewdrop</u> when a character's HP is restored. The Charge value is equal to <color style='color:#f29e38;'> 100.0% </color> of the amount of healing received, and increases the DMG of <u class='infou'>Dewdrop</u> by <color style='color:#f29e38;'> 40.0% </color>."
+            "キャラが治癒を受けた時、「<u class='infou'>珠露</u>」をチャージする。チャージ量は回復量の<color style='color:#f29e38;'> 100.0% </color>。",
+            "キャラが治癒を受けた時、「<u class='infou'>珠露</u>」をチャージする。チャージ量は回復量の<color style='color:#f29e38;'> 100.0% </color>。「<u class='infou'>珠露</u>」の与ダメージ+<color style='color:#f29e38;'> 40.0% </color>。"
         ],
         "SimpleDesc": [
-            "When a character's HP is restored, <u class='infou'>Dewdrop</u> is Charged according to the amount of healing received.",
-            "When a character's HP is restored, <u class='infou'>Dewdrop</u> is Charged according to the amount of healing received, and DMG done by <u class='infou'>Dewdrop</u> is increased."
+            "キャラが治癒を受けた時、回復量に応じて「<u class='infou'>珠露</u>」をチャージする。",
+            "キャラが治癒を受けた時、回復量に応じて「<u class='infou'>珠露</u>」をチャージする。「<u class='infou'>珠露</u>」の与ダメージがアップする。"
         ],
         "Effects": [
             60000013
@@ -620,14 +620,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/IconRoguePirest01.png",
-        "Name": "Mudra of Blessing",
+        "Name": "{RUBY_B#なんじ}若{RUBY_E#}の{RUBY_B#ざいふく}罪福{RUBY_E#}、{RUBY_B#みな}皆{RUBY_E#}に{RUBY_B#しがん}施願{RUBY_E#}を",
         "Desc": [
-            "Charges <u class='infou'>Dewdrop</u> at the beginning of a character's turn. The Charge value is equal to <color style='color:#f29e38;'> 60.0% </color> of their current HP.",
-            "Charges <u class='infou'>Dewdrop</u> at the beginning of a character's turn. The Charge value is equal to <color style='color:#f29e38;'> 70.0% </color> of their Max HP."
+            "キャラのターンが回ってきた時、「<u class='infou'>珠露</u>」をチャージする。チャージ量は、キャラの残りHPの<color style='color:#f29e38;'> 60.0% </color>。",
+            "キャラのターンが回ってきた時、「<u class='infou'>珠露</u>」をチャージする。チャージ量は、キャラの最大HPの<color style='color:#f29e38;'> 70.0% </color>。"
         ],
         "SimpleDesc": [
-            "When a character's turn begins, <u class='infou'>Dewdrop</u> is Charged based on the character's current HP.",
-            "When a character's turn begins, <u class='infou'>Dewdrop</u> is Charged based on the character's Max HP."
+            "キャラのターンが回ってきた時、残りHPに応じて「<u class='infou'>珠露</u>」をチャージする。",
+            "キャラのターンが回ってきた時、最大HPに応じて「<u class='infou'>珠露</u>」をチャージする。"
         ],
         "Effects": [
             60000013
@@ -638,14 +638,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Being of Abundance, Becoming One Mind",
+        "Name": "{RUBY_B#しゅじょう}衆生{RUBY_E#}に{RUBY_B#ほうじょう}豊穣{RUBY_E#}を",
         "Desc": [
-            "When a character provides healing, allies other than the healed target will also gain HP equal to <color style='color:#f29e38;'> 30.0% </color> of the Outgoing Healing.",
-            "When a character provides healing, allies other than the healed target will also restore HP equal to <color style='color:#f29e38;'> 30.0% </color> of the amount healed. Increases the ATK of all allies by <color style='color:#f29e38;'> 15.0% </color> of the amount healed, stacking up to no more than <color style='color:#f29e38;'> 80.0% </color> of each ally's respective Base ATK and lasts until the end of the next turn."
+            "キャラが治癒を行う時、治癒対象以外の味方も回復量<color style='color:#f29e38;'> 30.0% </color>分のHPを回復する。",
+            "キャラが治癒を行う時、治癒対象以外の味方も回復量<color style='color:#f29e38;'> 30.0% </color>分のHPを回復する。味方全体の攻撃力が、回復量<color style='color:#f29e38;'> 15.0% </color>分アップする、この効果は累積できるが、最大でそれぞれの基礎攻撃力の<color style='color:#f29e38;'> 80.0% </color>を超えない、次のターン終了まで継続。"
         ],
         "SimpleDesc": [
-            "Healing effects provided by characters can be Blasted to all allies.",
-            "Healing effects provided by characters can be Blasted to all allies and increase ATK based on HP restored."
+            "キャラの治癒効果が味方全体に拡散する。",
+            "キャラの治癒効果が味方全体に拡散し、回復量に応じて攻撃力がアップする。"
         ],
         "Effects": []
     },
@@ -654,14 +654,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 2,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Good Deeds Come After Old Sins",
+        "Name": "{RUBY_B#めつざいしょうぜん}滅罪生善{RUBY_E#}",
         "Desc": [
-            "Restores HP to the character equal to <color style='color:#f29e38;'> 20.0% </color> of the Charge value when <u class='infou'>Dewdrop</u> ruptures, up to <color style='color:#f29e38;'> 18.0% </color> of the character's Max HP.",
-            "Restores HP equal to <color style='color:#f29e38;'> 20.0% </color> of the Charge value when <u class='infou'>Dewdrop</u> ruptures, up to <color style='color:#f29e38;'> 24.0% </color> of the character's Max HP and no less than <color style='color:#f29e38;'> 12.0% </color> of their Max HP."
+            "「<u class='infou'>珠露</u>」が破裂した時、キャラのHPをチャージ値<color style='color:#f29e38;'> 20.0% </color>分回復する。回復量はキャラの最大HPの<color style='color:#f29e38;'> 18.0% </color>を超えない。",
+            "「<u class='infou'>珠露</u>」が破裂した時、キャラのHPをチャージ値<color style='color:#f29e38;'> 20.0% </color>分回復する。回復量はキャラの最大HPの<color style='color:#f29e38;'> 24.0% </color>を超えず、キャラの最大HPの<color style='color:#f29e38;'> 12.0% </color>を下回らない。"
         ],
         "SimpleDesc": [
-            "Restores the character's HP when <u class='infou'>Dewdrop</u> breaks.",
-            "Restores the character's HP to above a minimum value when <u class='infou'>Dewdrop</u> breaks."
+            "「<u class='infou'>珠露</u>」が破裂した時、キャラのHPを回復する。",
+            "「<u class='infou'>珠露</u>」が破裂した時、キャラのHPを回復する。最低回復量が設けられる。"
         ],
         "Effects": [
             60000013
@@ -672,14 +672,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 2,
         "Icon": "/IconRoguePirest05.png",
-        "Name": "Mortals of the Buddha-Field",
+        "Name": "{RUBY_B#てんにんふどうしゅ}天人不動衆{RUBY_E#}",
         "Desc": [
-            "When a character's HP is full, increases the Charging Efficiency for <u class='infou'>Dewdrop</u> by <color style='color:#f29e38;'> 80.0% </color>.",
-            "When a character's HP is full, increases the Charging Efficiency for <u class='infou'>Dewdrop</u> by <color style='color:#f29e38;'> 120.0% </color>."
+            "キャラのHPが満タンの時、「<u class='infou'>珠露</u>」のチャージ効率+<color style='color:#f29e38;'> 80.0% </color>。",
+            "キャラのHPが満タンの時、「<u class='infou'>珠露</u>」のチャージ効率+<color style='color:#f29e38;'> 120.0% </color>。"
         ],
         "SimpleDesc": [
-            "When a character's HP is full, <u class='infou'>Dewdrop</u>'s Charging Efficiency increases.",
-            "When a character's HP is full, <u class='infou'>Dewdrop</u>'s Charging Efficiency increases."
+            "キャラのHPが満タンの場合、「<u class='infou'>珠露</u>」のチャージ効率アップ。",
+            "キャラのHPが満タンの場合、「<u class='infou'>珠露</u>」のチャージ効率アップ。"
         ],
         "Effects": [
             60000013
@@ -690,14 +690,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 2,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Salvation From Damnation",
+        "Name": "{RUBY_B#えかい}慧海{RUBY_E#}を{RUBY_B#わた}渡{RUBY_E#}る{RUBY_B#じこう}慈航{RUBY_E#}",
         "Desc": [
-            "When a <u class='infou'>Dewdrop</u> breaks, there is a <color style='color:#f29e38;'> 65.0% </color> fixed chance to remove 1 debuff on the character.",
-            "When a <u class='infou'>Dewdrop</u> breaks, there is a <color style='color:#f29e38;'> 100.0% </color> fixed chance to remove 1 debuff on the character."
+            "「<u class='infou'>珠露</u>」が1つ破裂するたびに、<color style='color:#f29e38;'> 65.0% </color>の固定確率で自身のデバフを1つ解除する。",
+            "「<u class='infou'>珠露</u>」が1つ破裂するたびに、<color style='color:#f29e38;'> 100.0% </color>の固定確率で自身のデバフを1つ解除する。"
         ],
         "SimpleDesc": [
-            "There is a chance of removing 1 debuff when <u class='infou'>Dewdrop</u> breaks.",
-            "Removes 1 debuff when <u class='infou'>Dewdrop</u> breaks."
+            "「<u class='infou'>珠露</u>」が破裂した時、確率でデバフを1つ解除する。",
+            "「<u class='infou'>珠露</u>」が破裂した時、デバフを1つ解除する。"
         ],
         "Effects": [
             60000013
@@ -708,14 +708,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 2,
         "Icon": "/IconRoguePirest01.png",
-        "Name": "Precious Moon-Like Candlelight",
+        "Name": "{RUBY_B#じつげつ}日月{RUBY_E#}を{RUBY_B#て}燭{RUBY_E#}らす{RUBY_B#ほうこう}宝光{RUBY_E#}",
         "Desc": [
-            "When a character provides healing to allies, increases the ATK of both units by <color style='color:#f29e38;'> 50.0% </color> for <color style='color:#f29e38;'> 1.0 </color> turn(s).",
-            "When a character provides healing to allies, increases the ATK of all allies by <color style='color:#f29e38;'> 50.0% </color> for <color style='color:#f29e38;'> 1.0 </color> turn(s)."
+            "キャラが味方に治癒を行う時、自身と治癒対象の攻撃力+<color style='color:#f29e38;'> 50.0% </color>、<color style='color:#f29e38;'> 1.0 </color>ターン継続。",
+            "キャラが味方に治癒を行う時、味方全体の攻撃力+<color style='color:#f29e38;'> 50.0% </color>、<color style='color:#f29e38;'> 1.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "When a character restores an ally's HP, both units' ATK increases.",
-            "When a character restores an ally's HP, all allies' ATK increases."
+            "キャラが味方に治癒を行う時、自身と治癒対象の攻撃力アップ。",
+            "キャラが味方に治癒を行う時、味方全体の攻撃力アップ。"
         ],
         "Effects": []
     },
@@ -724,14 +724,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 2,
         "Icon": "/IconRoguePirest01.png",
-        "Name": "Aversion to Suffering",
+        "Name": "{RUBY_B#じゃすい}邪穢{RUBY_E#}の{RUBY_B#く}苦{RUBY_E#}を{RUBY_B#えんり}厭離{RUBY_E#}す",
         "Desc": [
-            "After launching attacks, characters deal Additional DMG equal to <color style='color:#f29e38;'> 36.0% </color> of their current HP.",
-            "Whenever a character attacks, deals Additional DMG to the enemy equal to <color style='color:#f29e38;'> 42.0% </color> of the character's Max HP."
+            "キャラが攻撃を行った後、攻撃を受けた敵に、自身の残りHP<color style='color:#f29e38;'> 36.0% </color>分の付加ダメージを与える。",
+            "キャラが攻撃を行った後、攻撃を受けた敵に、自身の最大HP<color style='color:#f29e38;'> 42.0% </color>分の付加ダメージを与える。"
         ],
         "SimpleDesc": [
-            "After a character uses an attack, they deal Additional DMG based on their current HP.",
-            "After a character uses an attack, they deal Additional DMG based on their Max HP."
+            "キャラが攻撃を行った後、自身の残りHPに応じて付加ダメージを与える。",
+            "キャラが攻撃を行った後、自身の最大HPに応じて付加ダメージを与える。"
         ],
         "Effects": []
     },
@@ -740,14 +740,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 2,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Clear Lucite Body",
+        "Name": "{RUBY_B#めいちょうるり}明澄琉璃{RUBY_E#}の{RUBY_B#み}身{RUBY_E#}",
         "Desc": [
-            "When a character's HP is full, reduces their DMG taken by <color style='color:#f29e38;'> 36.0% </color>.",
-            "When a character's HP is full, reduces their DMG taken by <color style='color:#f29e38;'> 36.0% </color>, and increases their Effect RES by <color style='color:#f29e38;'> 27.0% </color>."
+            "キャラのHPが満タンの時、被ダメージ-<color style='color:#f29e38;'> 36.0% </color>。",
+            "キャラのHPが満タンの時、被ダメージ-<color style='color:#f29e38;'> 36.0% </color>、効果抵抗+<color style='color:#f29e38;'> 27.0% </color>。"
         ],
         "SimpleDesc": [
-            "When a character's HP is full, their DMG received is reduced.",
-            "When a character's HP is full, their DMG received is reduced and Effect RES is increased."
+            "キャラのHPが満タンの場合、被ダメージダウン。",
+            "キャラのHPが満タンの場合、被ダメージダウン、効果抵抗アップ。"
         ],
         "Effects": []
     },
@@ -756,14 +756,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 2,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Prajna Boat",
+        "Name": "{RUBY_B#たいがん}大愿{RUBY_E#}、{RUBY_B#はんにゃ}般若{RUBY_E#}の{RUBY_B#ふね}船{RUBY_E#}",
         "Desc": [
-            "When being healed by an ally, characters restore extra HP equal to <color style='color:#f29e38;'> 30.0% </color> of the amount of HP healed.",
-            "When being healed by an ally, characters restore extra HP equal to <color style='color:#f29e38;'> 45.0% </color> of the amount of HP healed."
+            "キャラが味方の治癒を受けた後、さらに回復量<color style='color:#f29e38;'> 30.0% </color>分のHPを回復する。",
+            "キャラが味方の治癒を受けた後、さらに回復量<color style='color:#f29e38;'> 45.0% </color>分のHPを回復する。"
         ],
         "SimpleDesc": [
-            "Characters that have their HP restored by an ally also restore extra HP.",
-            "Characters that have their HP restored by an ally also restore extra HP."
+            "キャラが味方の治癒を受けた後、さらにHPを回復する。",
+            "キャラが味方の治癒を受けた後、さらにHPを回復する。"
         ],
         "Effects": []
     },
@@ -772,14 +772,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 1,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Rain of Truth",
+        "Name": "{RUBY_B#ほうう}法雨{RUBY_E#}",
         "Desc": [
-            "For each Abundance Blessing, increase allies' respective Max HP by <color style='color:#f29e38;'> 5.0% </color>. This effect can stack up to a max of <color style='color:#f29e38;'> 6.0 </color> time(s).",
-            "For each Abundance Blessing, increase allies' respective Max HP by <color style='color:#f29e38;'> 7.0% </color>. This effect can stack up to a max of <color style='color:#f29e38;'> 9.0 </color> time(s)."
+            "所持する「豊穣」の祝福1個につき、キャラの最大HP+<color style='color:#f29e38;'> 5.0% </color>、この効果は最大で<color style='color:#f29e38;'> 6.0 </color>層累積できる。",
+            "所持する「豊穣」の祝福1個につき、キャラの最大HP+<color style='color:#f29e38;'> 7.0% </color>、この効果は最大で<color style='color:#f29e38;'> 9.0 </color>層累積できる。"
         ],
         "SimpleDesc": [
-            "The more Blessings of Abundance the team has, the higher the characters' Max HP becomes.",
-            "The more Blessings of Abundance the team has, the higher the characters' Max HP becomes."
+            "「豊穣」の祝福の数が多いほど、キャラの最大HPがアップする。",
+            "「豊穣」の祝福の数が多いほど、キャラの最大HPがアップする。"
         ],
         "Effects": []
     },
@@ -788,14 +788,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 1,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Sweet Dew",
+        "Name": "{RUBY_B#かんろ}甘露{RUBY_E#}",
         "Desc": [
-            "Increases Incoming Healing by <color style='color:#f29e38;'> 12.0% </color>.",
-            "Increases Incoming Healing by <color style='color:#f29e38;'> 18.0% </color>."
+            "キャラのHP回復量+<color style='color:#f29e38;'> 12.0% </color>。",
+            "キャラのHP回復量+<color style='color:#f29e38;'> 18.0% </color>。"
         ],
         "SimpleDesc": [
-            "Increases the amount of HP restored by characters.",
-            "Increases the amount of HP restored by characters."
+            "キャラのHP回復量アップ。",
+            "キャラのHP回復量アップ。"
         ],
         "Effects": []
     },
@@ -804,14 +804,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 1,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Extended Life",
+        "Name": "{RUBY_B#えんじゅ}延寿{RUBY_E#}",
         "Desc": [
-            "Upon entering battle, characters restore HP equal to <color style='color:#f29e38;'> 24.0% </color> of their Max HP.",
-            "Upon entering battle, characters restore HP equal to <color style='color:#f29e38;'> 36.0% </color> of their Max HP."
+            "戦闘に入る時、キャラのHPを最大HP<color style='color:#f29e38;'> 24.0% </color>分回復する。",
+            "戦闘に入る時、キャラのHPを最大HP<color style='color:#f29e38;'> 36.0% </color>分回復する。"
         ],
         "SimpleDesc": [
-            "When entering battle, all characters restore HP.",
-            "When entering battle, all characters restore HP."
+            "戦闘に入る時、キャラのHPを回復する。",
+            "戦闘に入る時、キャラのHPを回復する。"
         ],
         "Effects": []
     },
@@ -820,14 +820,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 1,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Seal",
+        "Name": "{RUBY_B#がんいん}願印{RUBY_E#}",
         "Desc": [
-            "After a character inflicts Weakness Break on an enemy, restores HP to the character equal to <color style='color:#f29e38;'> 16.0% </color> of their Max HP.",
-            "After a character inflicts Weakness Break on an enemy, restores HP to the character equal to <color style='color:#f29e38;'> 24.0% </color> of their Max HP."
+            "キャラが敵を弱点撃破した後、HPを最大HP<color style='color:#f29e38;'> 16.0% </color>分回復する。",
+            "キャラが敵を弱点撃破した後、HPを最大HP<color style='color:#f29e38;'> 24.0% </color>分回復する。"
         ],
         "SimpleDesc": [
-            "Characters restore HP after inflicting Weakness Break on enemies.",
-            "Characters restore HP after inflicting Weakness Break on enemies."
+            "キャラが敵を弱点撃破した後、HPを回復する。",
+            "キャラが敵を弱点撃破した後、HPを回復する。"
         ],
         "Effects": []
     },
@@ -836,14 +836,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 1,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Dispel Disaster",
+        "Name": "{RUBY_B#やくばら}厄払{RUBY_E#}い",
         "Desc": [
-            "After a character is healed, increases their DEF by <color style='color:#f29e38;'> 24.0% </color> for <color style='color:#f29e38;'> 1.0 </color> turn(s).",
-            "After a character is healed, increases their DEF by <color style='color:#f29e38;'> 36.0% </color> for <color style='color:#f29e38;'> 1.0 </color> turn(s)."
+            "キャラが治癒を受けた後、防御力+<color style='color:#f29e38;'> 24.0% </color>、<color style='color:#f29e38;'> 1.0 </color>ターン継続。",
+            "キャラが治癒を受けた後、防御力+<color style='color:#f29e38;'> 36.0% </color>、<color style='color:#f29e38;'> 1.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "After having their HP restored, the character's DEF increases.",
-            "After having their HP restored, the character's DEF increases."
+            "キャラが治癒を受けた後、防御力アップ。",
+            "キャラが治癒を受けた後、防御力アップ。"
         ],
         "Effects": []
     },
@@ -852,14 +852,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 1,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Rebirth",
+        "Name": "{RUBY_B#かいせい}回生{RUBY_E#}",
         "Desc": [
-            "After a character provides healing, they restore HP equal to <color style='color:#f29e38;'> 12.0% </color> of their Max HP. This effect can only trigger once per action.",
-            "After a character provides healing, they restore HP equal to <color style='color:#f29e38;'> 18.0% </color> of their Max HP. This effect can only trigger once per action."
+            "キャラが治癒を行った後、HPを最大HP<color style='color:#f29e38;'> 12.0% </color>分回復する、この効果は1回の行動で1回まで発動できる。",
+            "キャラが治癒を行った後、HPを最大HP<color style='color:#f29e38;'> 18.0% </color>回復する、この効果は1回の行動で1回まで発動できる。"
         ],
         "SimpleDesc": [
-            "After restoring an ally's HP, the healer character also restores HP.",
-            "After restoring an ally's HP, the healer character also restores HP."
+            "キャラが治癒を行った後、自身のHPを回復する。",
+            "キャラが治癒を行った後、自身のHPを回復する。"
         ],
         "Effects": []
     },
@@ -868,14 +868,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 1,
         "Icon": "/IconRoguePirest03.png",
-        "Name": "Victorious Force",
+        "Name": "{RUBY_B#しょうぐん}勝軍{RUBY_E#}",
         "Desc": [
-            "After a character is healed, increases their SPD by <color style='color:#f29e38;'> 10.0% </color> for <color style='color:#f29e38;'> 1.0 </color> turn(s).",
-            "After a character is healed, increases their SPD by <color style='color:#f29e38;'> 15.0% </color> for <color style='color:#f29e38;'> 1.0 </color> turn(s)."
+            "キャラが治癒を受けた後、速度+<color style='color:#f29e38;'> 10.0% </color>、<color style='color:#f29e38;'> 1.0 </color>ターン継続。",
+            "キャラが治癒を受けた後、速度+<color style='color:#f29e38;'> 15.0% </color>、<color style='color:#f29e38;'> 1.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "After having their HP restored, the character's SPD increases.",
-            "After having their HP restored, the character's SPD increases."
+            "キャラが治癒を受けた後、速度アップ。",
+            "キャラが治癒を受けた後、速度アップ。"
         ],
         "Effects": []
     },
@@ -884,14 +884,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 1,
         "Icon": "/IconRoguePirest03.png",
-        "Name": "Blessing",
+        "Name": "{RUBY_B#かじ}加持{RUBY_E#}",
         "Desc": [
-            "After a character provides healing, there is a <color style='color:#f29e38;'> 30.0% </color> fixed chance to recover 1 Skill Point. This effect can only trigger once per action.",
-            "After a character provides healing, there is a <color style='color:#f29e38;'> 45.0% </color> fixed chance to recover 1 Skill Point. This effect can only trigger once per action."
+            "キャラが治癒を行った後、<color style='color:#f29e38;'> 30.0% </color>の固定確率でSPを1回復する、この効果は1回の行動で1回まで発動できる。",
+            "キャラが治癒を行った後、<color style='color:#f29e38;'> 45.0% </color>の固定確率でSPを1回復する、この効果は1回の行動で1回まで発動できる。"
         ],
         "SimpleDesc": [
-            "After restoring an ally's HP, there is a small chance of recovering a Skill Point.",
-            "After restoring an ally's HP, there is a small chance of recovering a Skill Point."
+            "キャラが治癒を行った後、低確率でSPを回復する。",
+            "キャラが治癒を行った後、低確率でSPを回復する。"
         ],
         "Effects": []
     },
@@ -900,14 +900,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Imperial Reign",
+        "Name": "{RUBY_B#ていせい}帝星{RUBY_E#}{RUBY_B#のぞ}臨{RUBY_E#}めば{RUBY_B#きゅうそう}穹桑{RUBY_E#}を{RUBY_B#せい}制{RUBY_E#}す",
         "Desc": [
-            "When a character's turn begins, they gain <color style='color:#f29e38;'> 1.0 </color> stack(s) of <u class='infou'>Critical Boost</u>.",
-            "When a character's turn begins, they gain <color style='color:#f29e38;'> 1.0 </color> stack(s) of <u class='infou'>Critical Boost</u> and increases the stack limit of <u class='infou'>Critical Boost</u> to <color style='color:#f29e38;'> 12.0 </color>."
+            "キャラのターンが回ってきた時、「<u class='infou'>会心</u>」を<color style='color:#f29e38;'> 1.0 </color>層獲得する。",
+            "キャラのターンが回ってきた時、「<u class='infou'>会心</u>」を<color style='color:#f29e38;'> 1.0 </color>層獲得する。「<u class='infou'>会心</u>」の累積上限が<color style='color:#f29e38;'> 12.0 </color>になる。"
         ],
         "SimpleDesc": [
-            "When a character's turn begins, they gain <color style='color:#f29e38;'> 1.0 </color> stack(s) of <u class='infou'>Critical Boost</u>.",
-            "When a character's turn begins, they gain <color style='color:#f29e38;'> 1.0 </color> stack(s) of <u class='infou'>Critical Boost</u> and raises the stack limit of <u class='infou'>Critical Boost</u>."
+            "キャラのターンが回ってきた時、「<u class='infou'>会心</u>」を<color style='color:#f29e38;'> 1.0 </color>層獲得する。",
+            "キャラのターンが回ってきた時、「<u class='infou'>会心</u>」を<color style='color:#f29e38;'> 1.0 </color>層獲得し、「<u class='infou'>会心</u>」の上限がアップする。"
         ],
         "Effects": [
             60000004
@@ -918,14 +918,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Imperishable Victory",
+        "Name": "{RUBY_B#ひかりこ}光越{RUBY_E#}す{RUBY_B#せいしょう}制勝{RUBY_E#}の{RUBY_B#ていしゃ}帝車{RUBY_E#}",
         "Desc": [
-            "After a character defeats an enemy, their action is Advanced Forward by  100% . At the beginning of the next turn, they gain <color style='color:#f29e38;'> 4.0 </color> stack(s) of <u class='infou'>Critical Boost</u>.",
-            "After a character defeats an enemy, their action is Advanced Forward by  100% . At the beginning of the next turn, they gain <color style='color:#f29e38;'> 7.0 </color> stack(s) of <u class='infou'>Critical Boost</u>."
+            "キャラが敵を倒した後、自身の行動順が 100% 早まり、次のターンが回ってきた時に「<u class='infou'>会心</u>」効果を<color style='color:#f29e38;'> 4.0 </color>層獲得する。",
+            "キャラが敵を倒した後、自身の行動順が 100% 早まり、次のターンが回ってきた時に「<u class='infou'>会心</u>」効果を<color style='color:#f29e38;'> 7.0 </color>層獲得する。"
         ],
         "SimpleDesc": [
-            "After defeating an enemy, the character's action is Advanced Forward by  100% . At the beginning of the next turn, they gain <color style='color:#f29e38;'> 4.0 </color> stack(s) of <u class='infou'>Critical Boost</u>.",
-            "After defeating an enemy, the character's action is Advanced Forward by  100% . At the beginning of the next turn, they gain <color style='color:#f29e38;'> 7.0 </color> stack(s) of <u class='infou'>Critical Boost</u>."
+            "キャラが敵を倒した後、行動順が 100% 早まり、次のターンが回ってきた時に「<u class='infou'>会心</u>」を<color style='color:#f29e38;'> 4.0 </color>層獲得する。",
+            "キャラが敵を倒した後、行動順が 100% 早まり、次のターンが回ってきた時に「<u class='infou'>会心</u>」を<color style='color:#f29e38;'> 7.0 </color>層獲得する。"
         ],
         "Effects": [
             60000004
@@ -936,14 +936,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Celestial Annihilation",
+        "Name": "{RUBY_B#たいせい}太清{RUBY_E#}を{RUBY_B#とお}徹{RUBY_E#}す{RUBY_B#だんくう}断空{RUBY_E#}の{RUBY_B#ていきゅう}帝弓{RUBY_E#}",
         "Desc": [
-            "After a character inflicts Weakness Break on an enemy, their action Advances Forward by  100%  and increases the DMG dealt by their next attack by <color style='color:#f29e38;'> 50.0% </color>.",
-            "After a character inflicts Weakness Break on an enemy, their action Advances Forward by  100%  and increases the DMG dealt by their next attack by <color style='color:#f29e38;'> 75.0% </color>. If the Weakness Broken enemy is an Elite Enemy, then Action Advances for all allies."
+            "キャラが敵を弱点撃破した後、自身の行動順が 100% 早まり、次の攻撃の与ダメージ+<color style='color:#f29e38;'> 50.0% </color>。",
+            "キャラが敵を弱点撃破した後、自身の行動順が 100% 早まり、次の攻撃の与ダメージ+<color style='color:#f29e38;'> 75.0% </color>。その敵が精鋭エネミーの場合、味方全体の行動順が 100% 早まる。"
         ],
         "SimpleDesc": [
-            "After a character inflicts Weakness Break on an enemy, their action Advances Forward by  100%  and increases the DMG dealt by their next attack.",
-            "After a character inflicts Weakness Break on an enemy, their action Advances Forward by  100% , and the DMG dealt by their next attack increases. When an Elite Enemy's Weakness is Broken, the Advance Forward effect applies to all allies."
+            "キャラが敵を弱点撃破した後、行動順が 100% 早まり、次の攻撃の与ダメージアップ。",
+            "キャラが敵を弱点撃破した後、行動順が 100% 早まり、次の攻撃の与ダメージアップ。精鋭エネミーを弱点撃破した時、味方全体の行動順が早まる。"
         ],
         "Effects": []
     },
@@ -952,14 +952,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 2,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Battle Against the Old Foe",
+        "Name": "{RUBY_B#しゅくてきおさ}夙敵繳{RUBY_E#}める{RUBY_B#てんしゅう}天舟{RUBY_E#}",
         "Desc": [
-            "If a character has higher than  100%  CRIT Rate and currently has <u class='infou'>Critical Boost</u>, for every 1% CRIT Rate that exceeds  100% , CRIT DMG increases by <color style='color:#f29e38;'> 3.0% </color>. CRIT DMG can be increased this way by up to <color style='color:#f29e38;'> 150.0% </color>.",
-            "If a character has higher than  100%  CRIT Rate and currently has <u class='infou'>Critical Boost</u>, for every 1% CRIT Rate that exceeds  100% , CRIT DMG increases by <color style='color:#f29e38;'> 3.0% </color>. For every stack of <u class='infou'>Critical Boost</u>, CRIT DMG increases by an extra <color style='color:#f29e38;'> 0.2% </color>. CRIT DMG can be increased this way by up to <color style='color:#f29e38;'> 200.0% </color>."
+            "キャラの会心率が 100% を超えた時、自身に「<u class='infou'>会心</u>」がある場合、1%超過するにつき、会心ダメージ+<color style='color:#f29e38;'> 3.0% </color>、最大で+<color style='color:#f29e38;'> 150.0% </color>。",
+            "キャラの会心率が 100% を超えた時、自身に「<u class='infou'>会心</u>」がある場合、1%超過するにつき、会心ダメージ+<color style='color:#f29e38;'> 3.0% </color>、さらに「<u class='infou'>会心</u>」1層につき会心ダメージ+<color style='color:#f29e38;'> 0.2% </color>、最大で+<color style='color:#f29e38;'> 200.0% </color>。"
         ],
         "SimpleDesc": [
-            "When a character has <u class='infou'>Critical Boost</u>, their excess CRIT Rate turns into CRIT DMG.",
-            "When a character has <u class='infou'>Critical Boost</u>, convert excess CRIT Rate into CRIT DMG based on the number of <u class='infou'>Critical Boost</u> stacks."
+            "キャラに「<u class='infou'>会心</u>」がある時、 100% を超えた部分の会心率を会心ダメージに転換する。",
+            "キャラに「<u class='infou'>会心</u>」がある時、「<u class='infou'>会心</u>」の層数に応じて、 100% を超えた部分の会心率を会心ダメージに転換する。"
         ],
         "Effects": [
             60000004
@@ -970,14 +970,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 2,
         "Icon": "/IconRogueRogue02.png",
-        "Name": "Archery Duel",
+        "Name": "{RUBY_B#しゃぎょ}射御{RUBY_E#}を{RUBY_B#けっ}決{RUBY_E#}する{RUBY_B#はくや}白矢{RUBY_E#}",
         "Desc": [
-            "When a character's turn begins, every stack of <u class='infou'>Critical Boost</u> restores the character's HP equal to <color style='color:#f29e38;'> 5.0% </color> of their Max HP.",
-            "When a character's turn begins, or after they used their Ultimate, restores the character's HP equal to <color style='color:#f29e38;'> 5.0% </color> of their Max HP for every stack of <u class='infou'>Critical Boost</u>."
+            "キャラのターンが回ってきた時、「<u class='infou'>会心</u>」1層につき、HPを最大HP<color style='color:#f29e38;'> 5.0% </color>分回復する。",
+            "キャラのターンが回ってきた時、または必殺技を発動した後、「<u class='infou'>会心</u>」1層につき、HPを最大HP<color style='color:#f29e38;'> 5.0% </color>分回復する。"
         ],
         "SimpleDesc": [
-            "When a character's turn begins, their HP is restored based on the number of <u class='infou'>Critical Boost</u> stacks they have.",
-            "When a character's turn begins, or after they use their Ultimate, they restore HP based on the number of <u class='infou'>Critical Boost</u> stacks they have."
+            "キャラのターンが回ってきた時、「<u class='infou'>会心</u>」の層数に応じてHPを回復する。",
+            "キャラのターンが回ってきた時、または必殺技を発動した後、「<u class='infou'>会心</u>」の層数に応じてHPを回復する。"
         ],
         "Effects": [
             60000004
@@ -988,14 +988,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 2,
         "Icon": "/IconRogueRogue05.png",
-        "Name": "Adept's Bow",
+        "Name": "{RUBY_B#ちいのゆみ}遅彝弓{RUBY_E#}を{RUBY_B#と}執{RUBY_E#}る{RUBY_B#じょし}序師{RUBY_E#}",
         "Desc": [
-            "When any ally uses their Ultimate, they can inherit <u class='infou'>Critical Boost</u>, and the number of <u class='infou'>Critical Boost</u> stacks increases by <color style='color:#f29e38;'> 1.0 </color>.",
-            "When any ally uses their Ultimate or performs a follow-up attack, they can inherit <u class='infou'>Critical Boost</u>, and the number of <u class='infou'>Critical Boost</u> stacks increases by <color style='color:#f29e38;'> 1.0 </color>."
+            "味方キャラが必殺技を発動した時、そのキャラは「<u class='infou'>会心</u>」効果を受け継ぎ、「<u class='infou'>会心</u>」の層数+<color style='color:#f29e38;'> 1.0 </color>。",
+            "味方キャラが追加攻撃または必殺技を発動した時、そのキャラは「<u class='infou'>会心</u>」効果を受け継ぎ、「<u class='infou'>会心</u>」の層数+<color style='color:#f29e38;'> 1.0 </color>。"
         ],
         "SimpleDesc": [
-            "Ultimates can inherit and increase <u class='infou'>Critical Boost</u> stacks.",
-            "Follow-up attacks and Ultimates can inherit and increase <u class='infou'>Critical Boost</u> stacks."
+            "必殺技で「<u class='infou'>会心</u>」を受け継ぎ、層数をアップする。",
+            "追加攻撃または必殺技で「<u class='infou'>会心</u>」を受け継ぎ、層数をアップする。"
         ],
         "Effects": [
             60000004
@@ -1006,14 +1006,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 2,
         "Icon": "/IconRogueRogue01.png",
-        "Name": "Flowing Mist",
+        "Name": "{RUBY_B#い}忌{RUBY_E#}み{RUBY_B#もの}物{RUBY_E#}を{RUBY_B#お}追{RUBY_E#}う{RUBY_B#りゅうらん}流嵐{RUBY_E#}",
         "Desc": [
-            "When the same character acts consecutively, their ATK increases by <color style='color:#f29e38;'> 40.0% </color>. This effect can stack up to <color style='color:#f29e38;'> 2.0 </color> time(s).",
-            "When the same character acts consecutively, their ATK increases by <color style='color:#f29e38;'> 40.0% </color>. This effect can stack up to <color style='color:#f29e38;'> 2.0 </color> times and gives a <color style='color:#f29e38;'> 50.0% </color> fixed chance to recover 1 Skill Point. This effect cannot be triggered repeatedly."
+            "同じキャラが連続で行動した時、攻撃力+<color style='color:#f29e38;'> 40.0% </color>、この効果は最大で<color style='color:#f29e38;'> 2.0 </color>層累積できる。",
+            "同じキャラが連続で行動した時、攻撃力+<color style='color:#f29e38;'> 40.0% </color>、最大で<color style='color:#f29e38;'> 2.0 </color>層累積できる。さらに<color style='color:#f29e38;'> 50.0% </color>の固定確率でSPを1回復する、この効果は重複して発動できない。"
         ],
         "SimpleDesc": [
-            "When the same character acts consecutively, their ATK increases.",
-            "When the same character acts consecutively, their ATK increases, and there's a chance of recovering a Skill Point."
+            "同じキャラが連続で行動した時、攻撃力がアップする。",
+            "同じキャラが連続で行動した時、攻撃力がアップする。そして確率でSPを回復する。"
         ],
         "Effects": []
     },
@@ -1022,14 +1022,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 2,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Auspicious Star",
+        "Name": "{RUBY_B#しゅげつ}狩月{RUBY_E#}を{RUBY_B#たす}助{RUBY_E#}ける{RUBY_B#けいせい}景星{RUBY_E#}",
         "Desc": [
-            "When a character defeats an enemy, regenerates Energy equal to <color style='color:#f29e38;'> 60.0% </color> of the character's Max Energy.",
-            "When a character defeats an enemy, regenerates Energy equal to <color style='color:#f29e38;'> 100.0% </color> of the character's Max Energy."
+            "キャラが敵を倒した後、EPを<color style='color:#f29e38;'> 60.0% </color>回復する。",
+            "キャラが敵を倒した後、EPを<color style='color:#f29e38;'> 100.0% </color>回復する。"
         ],
         "SimpleDesc": [
-            "After a character defeats an enemy, they regenerate a massive amount of Energy.",
-            "After a character defeats an enemy, they regenerate Energy to Max Energy."
+            "敵を倒した後、大量のEPを回復する。",
+            "敵を倒した後、EPを最大まで回復する。"
         ],
         "Effects": []
     },
@@ -1038,14 +1038,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 2,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Ejecting the Borisin",
+        "Name": "{RUBY_B#ほり}歩離{RUBY_E#}を{RUBY_B#くちく}駆逐{RUBY_E#}せし{RUBY_B#うんてき}雲鏑{RUBY_E#}",
         "Desc": [
-            "After every <color style='color:#f29e38;'> 6.0 </color> turn(s) conducted by all allies, the current character's action is Advanced Forward by  100% . The effect cannot be triggered repeatedly by the same character.",
-            "After every <color style='color:#f29e38;'> 6.0 </color> turn(s) conducted by all allies, the current character's action is Advanced Forward by  100% . The effect cannot be triggered repeatedly by the same character. Upon entering battle, <color style='color:#f29e38;'> 5.0 </color> turn(s) are considered to have already passed."
+            "味方全体で<color style='color:#f29e38;'> 6.0 </color>ターン経過するたびに、カウントの<color style='color:#f29e38;'> 6.0 </color>ターン目に行動したキャラは、行動終了後に行動順が 100% 早まる。この効果を同じキャラが連続して発動することはできない。",
+            "味方全体で<color style='color:#f29e38;'> 6.0 </color>ターン経過するたびに、カウントの<color style='color:#f29e38;'> 6.0 </color>ターン目に行動したキャラは、行動終了後に行動順が 100% 早まる。この効果を同じキャラが連続して発動することはできない。戦闘に入る時、既に<color style='color:#f29e38;'> 5.0 </color>ターン経過していると見なされる。"
         ],
         "SimpleDesc": [
-            "Every time a certain number of turns had passed, the current character's action is Advanced Forward by  100% .",
-            "Every time a certain number of turns had passed, the current character's action is Advanced Forward by  100% . Upon entering a battle, a certain number of turns is considered to have already passed."
+            "味方全体で一定ターン経過するたびに、現在のキャラの行動順が 100% 早まる。",
+            "味方全体で一定ターン経過するたびに、現在のキャラの行動順が 100% 早まる。戦闘に入る時、既に一定ターン経過したと見なされる。"
         ],
         "Effects": []
     },
@@ -1054,14 +1054,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 2,
         "Icon": "/IconRogueRogue02.png",
-        "Name": "Monster-Expelling Rainbow",
+        "Name": "{RUBY_B#さくし}鑿齒{RUBY_E#}を{RUBY_B#う}誅{RUBY_E#}つ{RUBY_B#ひこう}飛虹{RUBY_E#}",
         "Desc": [
-            "When a character defeats an enemy, restores their HP equal to <color style='color:#f29e38;'> 48.0% </color> of their Max HP.",
-            "After a character inflicts Weakness Break on an enemy, restores HP equal to <color style='color:#f29e38;'> 18.0% </color> of their Max HP. When a character defeats an enemy, restores HP equal to <color style='color:#f29e38;'> 48.0% </color> of their Max HP."
+            "キャラが敵を倒した後、HPを最大HP<color style='color:#f29e38;'> 48.0% </color>分回復する。",
+            "キャラが敵を弱点撃破した後、HPを最大HP<color style='color:#f29e38;'> 18.0% </color>分回復する。キャラが敵を倒した後、HPを最大HP<color style='color:#f29e38;'> 48.0% </color>分回復する。"
         ],
         "SimpleDesc": [
-            "After a character defeats a target enemy, restore the character's HP.",
-            "After a character Breaks the Weakness of an enemy or defeats an enemy, restores the character's HP."
+            "キャラが敵を倒した後、HPを回復する。",
+            "キャラが敵を倒す、または弱点撃破した後、HPを回復する。"
         ],
         "Effects": []
     },
@@ -1070,14 +1070,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 1,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Vermeil Bow and White Arrow",
+        "Name": "{RUBY_B#ひきゅうすや}緋弓素矢{RUBY_E#}",
         "Desc": [
-            "For every Blessing from The Hunt, increases SPD by <color style='color:#f29e38;'> 3.0% </color>. This effect can stack up to a max of <color style='color:#f29e38;'> 6.0 </color> time(s).",
-            "For every Blessing from The Hunt, increases SPD by <color style='color:#f29e38;'> 4.0% </color>. This effect can stack up to a max of <color style='color:#f29e38;'> 9.0 </color> time(s)."
+            "所持する「巡狩」の祝福1個につき、キャラの速度+<color style='color:#f29e38;'> 3.0% </color>、この効果は最大で<color style='color:#f29e38;'> 6.0 </color>層累積できる。",
+            "所持する「巡狩」の祝福1個につき、キャラの速度+<color style='color:#f29e38;'> 4.0% </color>、この効果は最大で<color style='color:#f29e38;'> 9.0 </color>層累積できる。"
         ],
         "SimpleDesc": [
-            "The more Blessings of The Hunt the team has, the higher the characters' SPD becomes.",
-            "The more Blessings of The Hunt the team has, the higher the characters' SPD becomes."
+            "「巡狩」の祝福の数が多いほど、キャラの速度がアップする。",
+            "「巡狩」の祝福の数が多いほど、キャラの速度がアップする。"
         ],
         "Effects": []
     },
@@ -1086,14 +1086,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 1,
         "Icon": "/IconRogueRogue01.png",
-        "Name": "Skirting Life and Death",
+        "Name": "{RUBY_B#はいせいげきし}背生撃死{RUBY_E#}",
         "Desc": [
-            "Increases CRIT Rate by <color style='color:#f29e38;'> 11.0% </color>.",
-            "Increases CRIT Rate by <color style='color:#f29e38;'> 16.0% </color>."
+            "キャラの会心率+<color style='color:#f29e38;'> 11.0% </color>。",
+            "キャラの会心率+<color style='color:#f29e38;'> 16.0% </color>。"
         ],
         "SimpleDesc": [
-            "Increases CRIT Rate.",
-            "Increases CRIT Rate."
+            "キャラ会心率アップ。",
+            "キャラ会心率アップ。"
         ],
         "Effects": []
     },
@@ -1102,14 +1102,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 1,
         "Icon": "/IconRogueRogue01.png",
-        "Name": "Shrewd Arrangement",
+        "Name": "{RUBY_B#はいこげききょ}背孤撃虚{RUBY_E#}",
         "Desc": [
-            "Increases CRIT DMG by <color style='color:#f29e38;'> 20.0% </color>.",
-            "Increases CRIT DMG by <color style='color:#f29e38;'> 30.0% </color>."
+            "キャラの会心ダメージ+<color style='color:#f29e38;'> 20.0% </color>。",
+            "キャラの会心ダメージ+<color style='color:#f29e38;'> 30.0% </color>。"
         ],
         "SimpleDesc": [
-            "Increases CRIT DMG.",
-            "Increases CRIT DMG."
+            "キャラの会心ダメージアップ。",
+            "キャラの会心ダメージアップ。"
         ],
         "Effects": []
     },
@@ -1118,14 +1118,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 1,
         "Icon": "/IconRogueRogue04.png",
-        "Name": "Thundering Chariot",
+        "Name": "{RUBY_B#らいしゃどうち}雷車動地{RUBY_E#}",
         "Desc": [
-            "After a character inflicts Weakness Break on an enemy, delays the enemy's action by <color style='color:#f29e38;'> 20.0% </color>.",
-            "After a character inflicts Weakness Break on an enemy, delays the enemy's action by <color style='color:#f29e38;'> 30.0% </color>."
+            "キャラが敵を弱点撃破した後、敵の行動順が<color style='color:#f29e38;'> 20.0% </color>遅延される。",
+            "キャラが敵を弱点撃破した後、敵の行動順が<color style='color:#f29e38;'> 30.0% </color>遅延される。"
         ],
         "SimpleDesc": [
-            "After a character inflicts Weakness Break on an enemy, the enemy's action is delayed.",
-            "After a character inflicts Weakness Break on an enemy, the enemy's action is delayed."
+            "キャラが敵を弱点撃破した後、敵の行動順を遅延させる。",
+            "キャラが敵を弱点撃破した後、敵の行動順を遅延させる。"
         ],
         "Effects": []
     },
@@ -1134,14 +1134,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 1,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Constellation Surge",
+        "Name": "{RUBY_B#ぎゅうと}牛斗{RUBY_E#}{RUBY_B#い}射{RUBY_E#}る{RUBY_B#しでん}紫電{RUBY_E#}",
         "Desc": [
-            "Upon entering battle, characters' SPD increases by <color style='color:#f29e38;'> 30.0% </color> until they are attacked.",
-            "Upon entering battle, characters' SPD increases by <color style='color:#f29e38;'> 45.0% </color> until they are attacked."
+            "戦闘に入る時、キャラの速度+<color style='color:#f29e38;'> 30.0% </color>、効果はそれぞれのキャラが攻撃を受けるまで継続。",
+            "戦闘に入る時、キャラの速度+<color style='color:#f29e38;'> 45.0% </color>、効果はそれぞれのキャラが攻撃を受けるまで継続。"
         ],
         "SimpleDesc": [
-            "Upon entering battle, characters' SPD is increased until they are attacked.",
-            "Upon entering battle, characters' SPD is increased until they are attacked."
+            "戦闘に入る時、キャラの速度アップ、キャラが攻撃を受けるまで継続。",
+            "戦闘に入る時、キャラの速度アップ、キャラが攻撃を受けるまで継続。"
         ],
         "Effects": []
     },
@@ -1150,14 +1150,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 1,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Catastrophic Constellation",
+        "Name": "{RUBY_B#ききゅう}危宮{RUBY_E#}へ{RUBY_B#あゆ}歩{RUBY_E#}む{RUBY_B#てんほう}天棓{RUBY_E#}",
         "Desc": [
-            "At the end of a character's turn, their next action is Advanced Forward by <color style='color:#f29e38;'> 8.0% </color>.",
-            "At the end of a character's turn, their next action is Advanced Forward by <color style='color:#f29e38;'> 12.0% </color>."
+            "キャラのターン終了時、行動順が<color style='color:#f29e38;'> 8.0% </color>早まる。",
+            ""
         ],
         "SimpleDesc": [
-            "When a character's turn ends, their action is Advanced Forward.",
-            "When a character's turn ends, their action is Advanced Forward."
+            "キャラのターン終了時、行動順が早まる。",
+            "キャラのターン終了時、行動順が早まる。"
         ],
         "Effects": []
     },
@@ -1166,14 +1166,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 1,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Vaulting Ambition",
+        "Name": "{RUBY_B#そうこほうし}桑弧蓬矢{RUBY_E#}",
         "Desc": [
-            "At the beginning of a character's turn, they regenerate <color style='color:#f29e38;'> 4.0 </color> Energy.",
-            "At the beginning of a character's turn, they regenerate <color style='color:#f29e38;'> 6.0 </color> Energy."
+            "キャラのターンが回ってきた時、EPを<color style='color:#f29e38;'> 4.0 </color>回復する。",
+            "キャラのターンが回ってきた時、EPを<color style='color:#f29e38;'> 6.0 </color>回復する。"
         ],
         "SimpleDesc": [
-            "When a character's turn begins, regenerate their Energy.",
-            "When a character's turn begins, regenerate their Energy."
+            "キャラのターンが回ってきた時、EPを回復する。",
+            "キャラのターンが回ってきた時、EPを回復する。"
         ],
         "Effects": []
     },
@@ -1182,14 +1182,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 1,
         "Icon": "/IconRogueRogue01.png",
-        "Name": "Blessed Bow and Arrow",
+        "Name": "{RUBY_B#おごうきせん}烏号綦箭{RUBY_E#}",
         "Desc": [
-            "At the beginning of a character's turn, receives an ATK boost equal to <color style='color:#f29e38;'> 10.0% </color> of the last-acting ally's ATK. This will last until the next turn starts.",
-            "At the beginning of a character's turn, receives an ATK boost equal to <color style='color:#f29e38;'> 15.0% </color> of the last-acting ally's ATK. This will last until the next turn starts."
+            "キャラのターンが回ってきた時、自身の攻撃力が、一つ前に行動した味方の攻撃力<color style='color:#f29e38;'> 10.0% </color>分アップする、この効果は次のターンが回ってくるまで継続。",
+            "キャラのターンが回ってきた時、自身の攻撃力が、一つ前に行動した味方の攻撃力<color style='color:#f29e38;'> 15.0% </color>分アップする、この効果は次のターンが回ってくるまで継続。"
         ],
         "SimpleDesc": [
-            "When a character's turn begins after an ally has completed their turn, increase ATK based on the previous ally who had acted.",
-            "When a character's turn begins after an ally has completed their turn, increase ATK based on the previous ally who had acted."
+            "キャラのターンが回ってきた時、一つ前に行動した味方キャラの攻撃力に応じて、攻撃力がアップする。",
+            "キャラのターンが回ってきた時、一つ前に行動した味方キャラの攻撃力に応じて、攻撃力がアップする。"
         ],
         "Effects": []
     },
@@ -1198,14 +1198,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/IconRogueWarrior03.png",
-        "Name": "Non-Inverse Antimatter Equation",
+        "Name": "{RUBY_B#はんぶっしつひかぎゃくほうていしき}反物質非可逆方程式{RUBY_E#}",
         "Desc": [
-            "If a character's current HP is below <color style='color:#f29e38;'> 50.0% </color>, they are considered to have <color style='color:#f29e38;'> 16.0 </color> extra stacks of <u class='infou'>Fighting Spirit</u>.",
-            "If a character's current HP is below <color style='color:#f29e38;'> 50.0% </color>, they are considered to have <color style='color:#f29e38;'> 20.0 </color> extra stacks of <u class='infou'>Fighting Spirit</u>. For every <color style='color:#f29e38;'> 10.0% </color> further HP lost, gains <color style='color:#f29e38;'> 2.0 </color> extra stack(s) of <u class='infou'>Fighting Spirit</u>."
+            "キャラの残りHPが<color style='color:#f29e38;'> 50.0% </color>未満の時、追加で<color style='color:#f29e38;'> 16.0 </color>層の「<u class='infou'>戦意</u>」効果があると見なされる。",
+            "キャラの残りHPが<color style='color:#f29e38;'> 50.0% </color>未満の時、追加で<color style='color:#f29e38;'> 20.0 </color>層の「<u class='infou'>戦意</u>」効果があると見なされる。HPがさらに<color style='color:#f29e38;'> 10.0% </color>減少するにつき、さらに追加で<color style='color:#f29e38;'> 2.0 </color>層の「<u class='infou'>戦意</u>」効果があると見なされる。"
         ],
         "SimpleDesc": [
-            "If a character's current HP is below <color style='color:#f29e38;'> 50.0% </color>, they are considered to have extra stacks of <u class='infou'>Fighting Spirit</u>.",
-            "If a character's current HP is below <color style='color:#f29e38;'> 50.0% </color>, they are considered to have extra stacks of <u class='infou'>Fighting Spirit</u>. The lower the character's HP is, the higher the stack becomes."
+            "キャラの残りHPが<color style='color:#f29e38;'> 50.0% </color>未満の時、追加の「<u class='infou'>戦意</u>」層数を所持していると見なされる。",
+            "キャラの残りHPが<color style='color:#f29e38;'> 50.0% </color>未満の時、追加の「<u class='infou'>戦意</u>」層数を所持していると見なされる。キャラのHPが低いほど、みなし所持数が増える。"
         ],
         "Effects": [
             60000005
@@ -1216,14 +1216,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/IconRogueWarrior03.png",
-        "Name": "Universal Heat Death Characteristic",
+        "Name": "{RUBY_B#ねつてきし}熱的死{RUBY_E#}の{RUBY_B#こゆうち}固有値{RUBY_E#}",
         "Desc": [
-            "When characters are hit or are losing HP, they gain <color style='color:#f29e38;'> 4.0 </color> stack(s) of <u class='infou'>Fighting Spirit</u>. When the turn ends, the character loses <color style='color:#f29e38;'> 4.0 </color> stack(s) of <u class='infou'>Fighting Spirit</u>.",
-            "When characters are hit or are losing HP, the character gains <color style='color:#f29e38;'> 4.0 </color> stacks of <u class='infou'>Fighting Spirit</u>, and adjacent allies gain <color style='color:#f29e38;'> 1.0 </color> stacks of <u class='infou'>Fighting Spirit</u>. When the turn ends, the character loses <color style='color:#f29e38;'> 4.0 </color> stacks of <u class='infou'>Fighting Spirit</u>."
+            "キャラが攻撃を受ける、またはHPを消費した後、「<u class='infou'>戦意</u>」効果を<color style='color:#f29e38;'> 4.0 </color>層獲得する。ターン終了時、キャラは「<u class='infou'>戦意</u>」効果を<color style='color:#f29e38;'> 4.0 </color>層失う。",
+            "キャラが攻撃を受ける、またはHPを消費した後、「<u class='infou'>戦意</u>」効果を<color style='color:#f29e38;'> 4.0 </color>層獲得し、隣接する味方キャラは「<u class='infou'>戦意</u>」効果を<color style='color:#f29e38;'> 1.0 </color>層獲得する。ターン終了時、キャラは「<u class='infou'>戦意</u>」効果を<color style='color:#f29e38;'> 4.0 </color>層失う。"
         ],
         "SimpleDesc": [
-            "When a character is hit or have their HP lowered, they gain <color style='color:#f29e38;'> 4.0 </color> stack(s) of <u class='infou'>Fighting Spirit</u>.",
-            "When a character is hit or have their HP lowered, they gain <color style='color:#f29e38;'> 4.0 </color> stack(s) of <u class='infou'>Fighting Spirit</u>, and any adjacent characters gain <color style='color:#f29e38;'> 1.0 </color> stack(s) of <u class='infou'>Fighting Spirit</u>."
+            "キャラが攻撃を受ける、またはHPを消費した後、「<u class='infou'>戦意</u>」を<color style='color:#f29e38;'> 4.0 </color>層獲得する。",
+            "キャラが攻撃を受ける、またはHPを消費した後、「<u class='infou'>戦意</u>」を<color style='color:#f29e38;'> 4.0 </color>層獲得する。隣接するキャラも「<u class='infou'>戦意</u>」を<color style='color:#f29e38;'> 1.0 </color>層獲得する。"
         ],
         "Effects": [
             60000005
@@ -1234,14 +1234,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/IconRogueWarrior02.png",
-        "Name": "Regression Inequality of Annihilation",
+        "Name": "{RUBY_B#ついしょうめつかいきふとうしき}対消滅回帰不等式{RUBY_E#}",
         "Desc": [
-            "When player characters are hit, DMG taken by the characters is equally distributed among all allies.",
-            "Receives <color style='color:#f29e38;'> 15.0% </color> less DMG. When player characters are hit, DMG taken by the characters is equally distributed among all allies."
+            "キャラが攻撃を受けた時、ダメージを味方全体で分担する。",
+            "キャラの被ダメージ-<color style='color:#f29e38;'> 15.0% </color>。キャラが攻撃を受けた時、ダメージを味方全体で分担する。"
         ],
         "SimpleDesc": [
-            "All allies split incoming DMG.",
-            "All allies split incoming DMG, and reduces the DMG taken by targeted character."
+            "味方全体でダメージを分担する。",
+            "味方全体でダメージを分担する。味方全体の被ダメージダウン。"
         ],
         "Effects": []
     },
@@ -1250,14 +1250,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 2,
         "Icon": "/IconRogueWarrior01.png",
-        "Name": "Incremental Doomsday",
+        "Name": "{RUBY_B#ていぞうてきしゅうまつ}逓増的終末{RUBY_E#}",
         "Desc": [
-            "After being hit, for each stack of <u class='infou'>Fighting Spirit</u> the character has, the character deals Additional DMG equal to <color style='color:#f29e38;'> 4.0% </color> of their ATK to the attacker. This DMG will not be able to defeat the enemy.",
-            "After being hit, for each stack of <u class='infou'>Fighting Spirit</u> the character has, the character deals Additional DMG equal to <color style='color:#f29e38;'> 4.0% </color> of their ATK plus <color style='color:#f29e38;'> 2.0% </color> of the current HP loss to the attacker. This DMG will not be able to defeat the enemy."
+            "キャラが攻撃を受けた後、「<u class='infou'>戦意</u>」効果1層につき、攻撃者にキャラの攻撃力<color style='color:#f29e38;'> 4.0% </color>分の付加ダメージを与える。このダメージで敵を倒すことはできない。",
+            "キャラが攻撃を受けた後、「<u class='infou'>戦意</u>」効果1層につき、攻撃者にキャラの攻撃力<color style='color:#f29e38;'> 4.0% </color>+失ったHP<color style='color:#f29e38;'> 2.0% </color>分の付加ダメージを与える。このダメージで敵を倒すことはできない。"
         ],
         "SimpleDesc": [
-            "After a character is hit, deal Additional DMG to the attacker based on their <u class='infou'>Fighting Spirit</u> stack.",
-            "After a character is hit, deal Additional DMG to the attacker based on their <u class='infou'>Fighting Spirit</u> stack, and the HP difference between the character's Max HP and current HP."
+            "キャラが攻撃を受けた後、「<u class='infou'>戦意</u>」の層数に応じて、敵に付加ダメージを与える。",
+            "キャラが攻撃を受けた後、「<u class='infou'>戦意</u>」の層数と失ったHPに応じて、敵に付加ダメージを与える。"
         ],
         "Effects": [
             60000005
@@ -1268,14 +1268,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 2,
         "Icon": "/IconRogueWarrior01.png",
-        "Name": "Catastrophic Resonance",
+        "Name": "{RUBY_B#さいなんてききょうしん}災難的共振{RUBY_E#}",
         "Desc": [
-            "If a character attacks while having <u class='infou'>Fighting Spirit</u>, consumes HP equal to <color style='color:#f29e38;'> 10.0% </color> of current HP and deals Additional DMG equal to <color style='color:#f29e38;'> 60.0% </color> of the HP lost.",
-            "If a character attacks while having <u class='infou'>Fighting Spirit</u>, consumes HP equal to <color style='color:#f29e38;'> 10.0% </color> of current HP and deals Additional DMG equal to <color style='color:#f29e38;'> 60.0% </color> of the HP lost. For each stack of <u class='infou'>Fighting Spirit</u>, deals Additional DMG equal to <color style='color:#f29e38;'> 1.0% </color> of the HP lost."
+            "キャラが攻撃を行った後、「<u class='infou'>戦意</u>」効果がある場合、残りHPを<color style='color:#f29e38;'> 10.0% </color>消費して、ターゲットに失ったHP<color style='color:#f29e38;'> 60.0% </color>分の付加ダメージを与える。",
+            "キャラが攻撃を行った後、「<u class='infou'>戦意</u>」効果がある場合、残りHPを<color style='color:#f29e38;'> 10.0% </color>消費して、ターゲットに失ったHP<color style='color:#f29e38;'> 60.0% </color>分の付加ダメージを与える。「<u class='infou'>戦意</u>」効果1層につき、さらに失ったHP<color style='color:#f29e38;'> 1.0% </color>分の付加ダメージを与える。"
         ],
         "SimpleDesc": [
-            "After a character attacks, consume their own HP to deal Additional DMG based on the HP difference between the character's Max HP and current HP.",
-            "After a character attacks, consume their own HP and deal Additional DMG based on the <u class='infou'>Fighting Spirit</u> stack, and the HP difference between the character's Max HP and current HP."
+            "キャラが攻撃を行った後、HPを消費し、失ったHPに応じて付加ダメージを与える。",
+            "キャラが攻撃を行った後、HPを消費し、「<u class='infou'>戦意</u>」の層数と失ったHPに応じて付加ダメージを与える。"
         ],
         "Effects": [
             60000005
@@ -1286,14 +1286,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 2,
         "Icon": "/IconRogueWarrior02.png",
-        "Name": "Indicative Depth of Field",
+        "Name": "{RUBY_B#よちょうてきひしゃかいしんど}予兆的被写界深度{RUBY_E#}",
         "Desc": [
-            "For each stack of <u class='infou'>Fighting Spirit</u>, reduces the DMG taken by the character by <color style='color:#f29e38;'> 0.8% </color>.",
-            "For each stack of <u class='infou'>Fighting Spirit</u>, reduces the DMG taken by characters by <color style='color:#f29e38;'> 0.8% </color>. <u class='infou'>Fighting Spirit</u> can stack up to <color style='color:#f29e38;'> 45.0 </color> time(s)."
+            "「<u class='infou'>戦意</u>」効果1層につき、キャラの被ダメージ-<color style='color:#f29e38;'> 0.8% </color>。",
+            "「<u class='infou'>戦意</u>」効果1層につき、キャラの被ダメージ-<color style='color:#f29e38;'> 0.8% </color>。「<u class='infou'>戦意</u>」効果が最大で<color style='color:#f29e38;'> 45.0 </color>層累積できるようになる。"
         ],
         "SimpleDesc": [
-            "The higher the <u class='infou'>Fighting Spirit</u> stacks are, the less DMG the character takes.",
-            "The higher the <u class='infou'>Fighting Spirit</u> stacks are, the less DMG the character takes. <u class='infou'>Fighting Spirit</u> stack limit also increases."
+            "「<u class='infou'>戦意</u>」の層数が高いほど、キャラの被ダメージダウン。",
+            "「<u class='infou'>戦意</u>」の層数が高いほど、キャラの被ダメージダウン。「<u class='infou'>戦意</u>」の累積上限がアップする。"
         ],
         "Effects": [
             60000005
@@ -1304,14 +1304,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 2,
         "Icon": "/IconRogueWarrior01.png",
-        "Name": "Devastating Accretion",
+        "Name": "{RUBY_B#かいめつてきこうちゃく}壊滅的降着{RUBY_E#}",
         "Desc": [
-            "For every 1% of the difference between a character's Max HP and current HP, their ATK increases by <color style='color:#f29e38;'> 0.8% </color>.",
-            "For every 1% of a character's Max HP that is lost, their ATK increases by <color style='color:#f29e38;'> 0.8% </color> and DEF by <color style='color:#f29e38;'> 0.5% </color>."
+            "キャラはHPを1%失うごとに、攻撃力+<color style='color:#f29e38;'> 0.8% </color>。",
+            "キャラはHPを1%失うごとに、攻撃力+<color style='color:#f29e38;'> 0.8% </color>、防御力+<color style='color:#f29e38;'> 0.5% </color>。"
         ],
         "SimpleDesc": [
-            "The lower a character's current HP is, the higher their ATK becomes.",
-            "The lower a character's current HP is, the higher their ATK and DEF become."
+            "キャラの残りHPが低いほど、攻撃力アップ。",
+            "キャラの残りHPが低いほど、攻撃力と防御力アップ。"
         ],
         "Effects": []
     },
@@ -1320,14 +1320,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 2,
         "Icon": "/IconRogueWarrior01.png",
-        "Name": "Destructive Flare",
+        "Name": "{RUBY_B#はかいてき}破壊的{RUBY_E#}フレア",
         "Desc": [
-            "When a character's HP is lower than <color style='color:#f29e38;'> 50.0% </color>, deals <color style='color:#f29e38;'> 40.0% </color> increased DMG.",
-            "When a character's HP is lower than <color style='color:#f29e38;'> 50.0% </color>, deals <color style='color:#f29e38;'> 50.0% </color> increased DMG. When HP's lower than <color style='color:#f29e38;'> 35.0% </color>, DMG dealt further increases by <color style='color:#f29e38;'> 20.0% </color>."
+            "キャラの残りHPが<color style='color:#f29e38;'> 50.0% </color>未満の時、与ダメージ+<color style='color:#f29e38;'> 40.0% </color>。",
+            "キャラの残りHPが<color style='color:#f29e38;'> 50.0% </color>未満の時、与ダメージ+<color style='color:#f29e38;'> 50.0% </color>。<color style='color:#f29e38;'> 35.0% </color>未満の時、さらに与ダメージ+<color style='color:#f29e38;'> 20.0% </color>。"
         ],
         "SimpleDesc": [
-            "When a character's HP percentage is lower than <color style='color:#f29e38;'> 50.0% </color>, they deal increased DMG.",
-            "When a character's current HP percentage is lower than <color style='color:#f29e38;'> 50.0% </color>, they deal increased DMG. When their HP is lower than <color style='color:#f29e38;'> 35.0% </color>, they deal further increased DMG."
+            "キャラの残りHPが<color style='color:#f29e38;'> 50.0% </color>未満の時、与ダメージアップ。",
+            "キャラの残りHPが<color style='color:#f29e38;'> 50.0% </color>未満の時、与ダメージアップ。<color style='color:#f29e38;'> 35.0% </color>未満の時、さらに与ダメージアップ。"
         ],
         "Effects": []
     },
@@ -1336,14 +1336,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 2,
         "Icon": "/IconRogueWarrior02.png",
-        "Name": "Disciplinary Flicker",
+        "Name": "{RUBY_B#かいりつてき}戒律的{RUBY_E#}フラッシュ",
         "Desc": [
-            "If a character's HP is lower than <color style='color:#f29e38;'> 35.0% </color> after being attacked or losing HP, restores their HP by <color style='color:#f29e38;'> 12.0% </color> of their Max HP.",
-            "If a character's HP is lower than <color style='color:#f29e38;'> 35.0% </color> after being attacked or losing HP, restores their HP by <color style='color:#f29e38;'> 12.0% </color> of their Max HP. The lower the current HP is, the more HP will be restored this way, but no more than <color style='color:#f29e38;'> 20.0% </color>."
+            "キャラが攻撃を受ける、またはHPを消費した後、残りHPが<color style='color:#f29e38;'> 35.0% </color>未満の場合、HPを最大HP<color style='color:#f29e38;'> 12.0% </color>分回復する。",
+            "キャラが攻撃を受ける、またはHPを消費した後、残りHPが<color style='color:#f29e38;'> 35.0% </color>未満の場合、HPを最大HP<color style='color:#f29e38;'> 12.0% </color>分回復する。残りHPの割合が低いほど回復量がアップする、最大で<color style='color:#f29e38;'> 20.0% </color>まで。"
         ],
         "SimpleDesc": [
-            "When a character is hit or have their HP lowered, their HP is restored if their current HP percentage is lower than <color style='color:#f29e38;'> 35.0% </color>.",
-            "When a character is hit or have their HP lowered, their HP is restored if their current HP is lower than <color style='color:#f29e38;'> 35.0% </color>. The lower their HP is, the more HP is restored."
+            "キャラが攻撃を受ける、またはHPを消費した後、残りHPが<color style='color:#f29e38;'> 35.0% </color>未満の場合、HPを回復する。",
+            "キャラが攻撃を受ける、またはHPを消費した後、残りHPが<color style='color:#f29e38;'> 35.0% </color>未満の場合、HPを回復する。HPが低いほど、回復量アップ。"
         ],
         "Effects": []
     },
@@ -1352,14 +1352,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 2,
         "Icon": "/IconRogueWarrior02.png",
-        "Name": "Hazardous Lucent Residue",
+        "Name": "{RUBY_B#きがいてきよこう}危害的余光{RUBY_E#}",
         "Desc": [
-            "After a character uses their Ultimate, they gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'> 25.0% </color> of the HP difference between their Max HP and current HP, lasting for <color style='color:#f29e38;'> 2.0 </color> turn(s).",
-            "After a character uses their Ultimate, they gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'> 25.0% </color> of the HP difference between their Max HP and current HP, plus <color style='color:#f29e38;'> 7.0% </color> of their Max HP, lasting for <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "キャラが必殺技を発動した後、失ったHP<color style='color:#f29e38;'> 25.0% </color>分の耐久値を持つバリアを獲得する、<color style='color:#f29e38;'> 2.0 </color>ターン継続。",
+            "キャラが必殺技を発動した後、失ったHP<color style='color:#f29e38;'> 25.0% </color>+最大HP<color style='color:#f29e38;'> 7.0% </color>分の耐久値を持つバリアを獲得する、<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "After using their Ultimate, characters gain a Shield based on the HP difference between their Max HP and current HP.",
-            "After a character uses their Ultimate, they gain a Shield based on the HP difference between their Max HP and current HP."
+            "キャラが必殺技を発動した後、失ったHPに応じてバリアを獲得する。",
+            "キャラが必殺技を発動した後、失ったHPと最大HPに応じてバリアを獲得する。"
         ],
         "Effects": []
     },
@@ -1368,14 +1368,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 1,
         "Icon": "/IconRogueWarrior01.png",
-        "Name": "Primordial Black Hole",
+        "Name": "{RUBY_B#げんし}原始{RUBY_E#}ブラックホール",
         "Desc": [
-            "Characters gain a <color style='color:#f29e38;'> 5.0% </color> ATK increase for each Destruction Blessing. This effect can stack up to a max of <color style='color:#f29e38;'> 6.0 </color> time(s).",
-            "Characters gain a <color style='color:#f29e38;'> 7.0% </color> ATK increase for each Destruction Blessing. This effect can stack up to a max of <color style='color:#f29e38;'> 9.0 </color> time(s)."
+            "所持する「壊滅」の祝福1個につき、キャラの攻撃力+<color style='color:#f29e38;'> 5.0% </color>、この効果は最大で<color style='color:#f29e38;'> 6.0 </color>層累積できる。",
+            "所持する「壊滅」の祝福1個につき、キャラの攻撃力+<color style='color:#f29e38;'> 7.0% </color>、この効果は最大で<color style='color:#f29e38;'> 9.0 </color>層累積できる。"
         ],
         "SimpleDesc": [
-            "The more Blessings of Destruction the team has, the higher the characters' ATK becomes.",
-            "The more Blessings of Destruction the team has, the higher the characters' ATK becomes."
+            "「壊滅」の祝福の数が多いほど、キャラの攻撃力アップ。",
+            "「壊滅」の祝福の数が多いほど、キャラの攻撃力アップ。"
         ],
         "Effects": []
     },
@@ -1384,14 +1384,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 1,
         "Icon": "/IconRogueWarrior02.png",
-        "Name": "Reflection",
+        "Name": "{RUBY_B#ひかりかいへん}光壊変{RUBY_E#}",
         "Desc": [
-            "When struck with a killing blow, instead of becoming downed, characters immediately restore HP by <color style='color:#f29e38;'> 1.0% </color> of their Max HP. The allied team can only trigger this effect <color style='color:#f29e38;'> 1.0 </color> time(s) per battle.",
-            "When struck with a killing blow, instead of becoming downed, characters immediately restore HP by <color style='color:#f29e38;'> 30.0% </color> of their Max HP. The allied team can only trigger this effect <color style='color:#f29e38;'> 1.0 </color> time(s) per battle."
+            "味方はHPが0になる攻撃を受けた時、戦闘不能状態にならず、HPを<color style='color:#f29e38;'> 1.0% </color>まで回復する。この効果は味方全体で、一度の戦闘で<color style='color:#f29e38;'> 1.0 </color>回まで発動できる。",
+            "味方はHPが0になる攻撃を受けた時、戦闘不能状態にならず、HPを<color style='color:#f29e38;'> 30.0% </color>まで回復する。この効果は味方全体で、一度の戦闘で<color style='color:#f29e38;'> 1.0 </color>回まで発動できる。"
         ],
         "SimpleDesc": [
-            "Characters can resist fatal attacks and restore their own HP. This can take effect a limited number of times among all allies.",
-            "Characters can resist fatal attacks and restore their own HP. This can take effect a limited number of times among all allies."
+            "キャラは戦闘不能状態を防ぎ、HPを回復できる。この効果の発動回数は味方全体で共有される。",
+            "キャラは戦闘不能状態を防ぎ、HPを回復できる。この効果の発動回数は味方全体で共有される。"
         ],
         "Effects": []
     },
@@ -1400,14 +1400,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 1,
         "Icon": "/IconRogueWarrior02.png",
-        "Name": "Orbital Redshift",
+        "Name": "{RUBY_B#きどうせきほうへんい}軌道赤方偏移{RUBY_E#}",
         "Desc": [
-            "Increases Max HP by <color style='color:#f29e38;'> 16.0% </color>.",
-            "Increases Max HP by <color style='color:#f29e38;'> 24.0% </color>."
+            "キャラの最大HP+<color style='color:#f29e38;'> 16.0% </color>。",
+            "キャラの最大HP+<color style='color:#f29e38;'> 24.0% </color>。"
         ],
         "SimpleDesc": [
-            "Increases Max HP.",
-            "Increases Max HP."
+            "キャラの最大HPアップ。",
+            "キャラの最大HPアップ。"
         ],
         "Effects": []
     },
@@ -1416,14 +1416,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 1,
         "Icon": "/IconRogueWarrior03.png",
-        "Name": "Instability Strip",
+        "Name": "{RUBY_B#ふあんていたい}不安定帯{RUBY_E#}",
         "Desc": [
-            "When characters are hit or have lost HP, <color style='color:#f29e38;'> 4.0 </color> Energy is regenerated.",
-            "When characters are hit or have lost HP, <color style='color:#f29e38;'> 6.0 </color> Energy is regenerated."
+            "キャラが攻撃を受ける、またはHPを消費した後、EPを<color style='color:#f29e38;'> 4.0 </color>回復する。",
+            "キャラが攻撃を受ける、またはHPを消費した後、EPを<color style='color:#f29e38;'> 6.0 </color>回復する。"
         ],
         "SimpleDesc": [
-            "When characters are hit or are losing HP, their Energy is regenerated.",
-            "When characters are hit or are losing HP, their Energy is regenerated."
+            "キャラが攻撃を受ける、またはHPを消費した後、EPを回復する。",
+            "キャラが攻撃を受ける、またはHPを消費した後、EPを回復する。"
         ],
         "Effects": []
     },
@@ -1432,14 +1432,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 1,
         "Icon": "/IconRogueWarrior02.png",
-        "Name": "Metric Reservation",
+        "Name": "{RUBY_B#びちくけいりょう}備蓄計量{RUBY_E#}",
         "Desc": [
-            "Upon entering battle, characters gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'> 36.0% </color> the HP difference between the character's Max HP and current HP, lasting for <color style='color:#f29e38;'> 2.0 </color> turn(s).",
-            "Upon entering battle, characters gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'> 54.0% </color> the HP difference between the character's Max HP and current HP, lasting for <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "戦闘に入る時、自身が失ったHP<color style='color:#f29e38;'> 36.0% </color>分の耐久値を持つバリアを獲得する、<color style='color:#f29e38;'> 2.0 </color>ターン継続。",
+            "戦闘に入る時、自身が失ったHP<color style='color:#f29e38;'> 54.0% </color>分の耐久値を持つバリアを獲得する、<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "Upon entering battle, characters gain a Shield based on the HP difference between the character's Max HP and current HP.",
-            "Upon entering battle, characters gain a Shield based on the HP difference between the character's Max HP and current HP."
+            "戦闘に入る時、失ったHPの量に応じて、バリアを獲得する。",
+            "戦闘に入る時、失ったHPの量に応じて、バリアを獲得する。"
         ],
         "Effects": []
     },
@@ -1448,14 +1448,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 1,
         "Icon": "/IconRogueWarrior02.png",
-        "Name": "Sentinel Satellite",
+        "Name": "{RUBY_B#しょうかいえいせい}哨戒衛星{RUBY_E#}",
         "Desc": [
-            "When a character's HP is lower than <color style='color:#f29e38;'> 50.0% </color>, they gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'> 20.0% </color> of their Max HP for <color style='color:#f29e38;'> 2.0 </color> turn(s). This effect can only be triggered <color style='color:#f29e38;'> 1.0 </color> time(s) by each character per battle.",
-            "When a character's HP is lower than <color style='color:#f29e38;'> 50.0% </color>, they gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'> 30.0% </color> of their Max HP for <color style='color:#f29e38;'> 2.0 </color> turn(s). This effect can only be triggered <color style='color:#f29e38;'> 1.0 </color> time(s) by each character per battle."
+            "キャラの残りHPが<color style='color:#f29e38;'> 50.0% </color>未満の時、最大HP<color style='color:#f29e38;'> 20.0% </color>分の耐久値を持つバリアを獲得する、<color style='color:#f29e38;'> 2.0 </color>ターン継続。この効果はキャラ1人につき、一度の戦闘で<color style='color:#f29e38;'> 1.0 </color>回まで発動できる。",
+            "キャラの残りHPが<color style='color:#f29e38;'> 50.0% </color>未満の時、最大HP<color style='color:#f29e38;'> 30.0% </color>分の耐久値を持つバリアを獲得する、<color style='color:#f29e38;'> 2.0 </color>ターン継続。この効果はキャラ1人につき、一度の戦闘で<color style='color:#f29e38;'> 1.0 </color>回まで発動できる。"
         ],
         "SimpleDesc": [
-            "When a character's current HP percentage is lower than <color style='color:#f29e38;'> 50.0% </color>, they receive a Shield. This buff can only be triggered a limited number of times.",
-            "When a character's current HP percentage is lower than <color style='color:#f29e38;'> 50.0% </color>, they receive a Shield. This buff can only be triggered a limited number of times."
+            "キャラの残りHPが<color style='color:#f29e38;'> 50.0% </color>未満の時、バリアを獲得する。発動回数に制限あり。",
+            "キャラの残りHPが<color style='color:#f29e38;'> 50.0% </color>未満の時、バリアを獲得する。発動回数に制限あり。"
         ],
         "Effects": []
     },
@@ -1464,14 +1464,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 1,
         "Icon": "/IconRogueWarrior02.png",
-        "Name": "Polarization Receptor",
+        "Name": "{RUBY_B#へんこうじゅようたい}偏光受容体{RUBY_E#}",
         "Desc": [
-            "For every 1% of HP lost by a character, their DEF increases by <color style='color:#f29e38;'> 0.4% </color>.",
-            "For every 1% of HP lost by a character, their DEF increases by <color style='color:#f29e38;'> 0.6% </color>."
+            "キャラはHPを1%失うごとに、防御力+<color style='color:#f29e38;'> 0.4% </color>。",
+            "キャラはHPを1%失うごとに、防御力+<color style='color:#f29e38;'> 0.6% </color>。"
         ],
         "SimpleDesc": [
-            "The lower a character's current HP is, the higher their DEF becomes.",
-            "The lower a character's current HP is, the higher their DEF becomes."
+            "キャラの残りHPが低いほど、防御力アップ。",
+            "キャラの残りHPが低いほど、防御力アップ。"
         ],
         "Effects": []
     },
@@ -1480,14 +1480,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 1,
         "Icon": "/IconRogueWarrior03.png",
-        "Name": "Eternally Collapsing Object",
+        "Name": "{RUBY_B#えいきゅうほうかいてんたい}永久崩壊天体{RUBY_E#}",
         "Desc": [
-            "For every 1% of HP lost by a character, their Effect RES increases by <color style='color:#f29e38;'> 0.3% </color>.",
-            "For every 1% of HP lost by a character, their Effect RES increases by <color style='color:#f29e38;'> 0.45% </color>."
+            "キャラはHPを1%失うごとに、効果抵抗+<color style='color:#f29e38;'> 0.3% </color>。",
+            "キャラはHPを1%失うごとに、効果抵抗+<color style='color:#f29e38;'> 0.45% </color>。"
         ],
         "SimpleDesc": [
-            "The lower a character's current HP is, the higher their Effect RES becomes.",
-            "The lower a character's current HP is, the higher their Effect RES becomes."
+            "キャラの残りHPが低いほど、効果抵抗アップ。",
+            "キャラの残りHPが低いほど、効果抵抗アップ。"
         ],
         "Effects": []
     },
@@ -1496,14 +1496,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Perfect Experience: Fuli",
+        "Name": "{RUBY_B#かんぺきたいけん}完璧体験{RUBY_E#}：{RUBY_B#ふり}浮黎{RUBY_E#}",
         "Desc": [
-            "When attacking Frozen enemies, there is a <color style='color:#f29e38;'> 100.0% </color> base chance to inflict <u class='infou'>Dissociation</u> for <color style='color:#f29e38;'> 1.0 </color> turn(s).",
-            "When attacking Frozen enemies, there is a <color style='color:#f29e38;'> 100.0% </color> base chance to apply <u class='infou'>Dissociation</u> to the enemy for <color style='color:#f29e38;'> 1.0 </color> turn(s). DMG dealt when <u class='infou'>Dissociation</u> is removed +<color style='color:#f29e38;'> 20.0% </color>."
+            "キャラが凍結状態の敵に攻撃を行った後、<color style='color:#f29e38;'> 100.0% </color>の基礎確率で敵を「<u class='infou'>離神</u>」状態にする。<color style='color:#f29e38;'> 1.0 </color>ターン継続。",
+            "キャラが凍結状態の敵に攻撃を行った後、<color style='color:#f29e38;'> 100.0% </color>の基礎確率で敵を「<u class='infou'>離神</u>」状態にする、<color style='color:#f29e38;'> 1.0 </color>ターン継続。さらに「<u class='infou'>離神</u>」状態解除時のダメージ<color style='color:#f29e38;'> 20.0% </color>分のダメージを与える。"
         ],
         "SimpleDesc": [
-            "After attacking a Frozen enemy, apply <u class='infou'>Dissociation</u> on them.",
-            "After attacking a Frozen enemy, apply <u class='infou'>Dissociation</u> on them and deal extra DMG."
+            "キャラが凍結状態の敵に攻撃を行った後、敵を「<u class='infou'>離神</u>」状態にする。",
+            "キャラが凍結状態の敵に攻撃を行った後、敵を「<u class='infou'>離神</u>」状態にし、さらにダメージを与える。"
         ],
         "Effects": [
             60000002
@@ -1514,14 +1514,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Perfect Experience: Innocence",
+        "Name": "{RUBY_B#かんぺきたいけん}完璧体験{RUBY_E#}：{RUBY_B#じゅんしん}純真{RUBY_E#}",
         "Desc": [
-            "After a character inflicts Weakness Break on an enemy, there is a <color style='color:#f29e38;'> 100.0% </color> base chance to apply <u class='infou'>Dissociation</u> on the enemy for <color style='color:#f29e38;'> 1.0 </color> turn(s).",
-            "After a character inflicts Weakness Break on an enemy, there is a <color style='color:#f29e38;'> 100.0% </color> base chance to apply <u class='infou'>Dissociation</u> on the enemy for <color style='color:#f29e38;'> 1.0 </color> turn(s). This effect ignores enemies' chance to resist Frozen."
+            "キャラが敵を弱点撃破した後、<color style='color:#f29e38;'> 100.0% </color>の基礎確率で敵を「<u class='infou'>離神</u>」状態にする、<color style='color:#f29e38;'> 1.0 </color>ターン継続。",
+            "キャラが敵を弱点撃破した後、<color style='color:#f29e38;'> 100.0% </color>の基礎確率で敵を「<u class='infou'>離神</u>」状態にする、<color style='color:#f29e38;'> 1.0 </color>ターン継続。この効果は敵が凍結状態を抵抗する確率を無視する。"
         ],
         "SimpleDesc": [
-            "After a character inflicts Weakness Break on an enemy, apply <u class='infou'>Dissociation</u> on them.",
-            "After a character inflicts Weakness Break on an enemy, ignore the enemy's Freeze RES and apply <u class='infou'>Dissociation</u> on them."
+            "キャラが敵を弱点撃破した後、敵に「<u class='infou'>離神</u>」状態を付与する。",
+            "キャラが敵を弱点撃破した後、敵の凍結状態耐性を無視して「<u class='infou'>離神</u>」状態を付与する。"
         ],
         "Effects": [
             60000002
@@ -1532,14 +1532,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Perfect Experience: Reticence",
+        "Name": "{RUBY_B#かんぺきたいけん}完璧体験{RUBY_E#}：{RUBY_B#ちんもく}沈黙{RUBY_E#}",
         "Desc": [
-            "After an enemy is attacked <color style='color:#f29e38;'> 6.0 </color> time(s), they have a <color style='color:#f29e38;'> 120.0% </color> base chance to become Frozen for <color style='color:#f29e38;'> 1.0 </color> turn(s).",
-            "After an enemy is attacked <color style='color:#f29e38;'> 5.0 </color> time(s), they have a <color style='color:#f29e38;'> 150.0% </color> base chance to become Frozen for <color style='color:#f29e38;'> 1.0 </color> turn(s)."
+            "敵は攻撃を<color style='color:#f29e38;'> 6.0 </color>回受けた後、<color style='color:#f29e38;'> 120.0% </color>の基礎確率で凍結状態になる、<color style='color:#f29e38;'> 1.0 </color>ターン継続。",
+            "敵は攻撃を<color style='color:#f29e38;'> 5.0 </color>回受けた後、<color style='color:#f29e38;'> 150.0% </color>の基礎確率で凍結状態になる、<color style='color:#f29e38;'> 1.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "The enemy has a high chance to become Frozen for every <color style='color:#f29e38;'> 6.0 </color> attack(s) it receives.",
-            "The enemy has a high chance to become Frozen for every <color style='color:#f29e38;'> 5.0 </color> attack(s) it receives."
+            "敵は攻撃を<color style='color:#f29e38;'> 6.0 </color>回受けるたび、高確率で凍結状態になる。",
+            "敵は攻撃を<color style='color:#f29e38;'> 5.0 </color>回受けるたび、高確率で凍結状態になる。"
         ],
         "Effects": []
     },
@@ -1548,14 +1548,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 2,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Ultimate Experience: Melancholia",
+        "Name": "{RUBY_B#きょくたんたいけん}極端体験{RUBY_E#}：{RUBY_B#ぼうぜんじしつ}茫然自失{RUBY_E#}",
         "Desc": [
-            "Attacking an enemy with <u class='infou'>Dissociation</u> will remove <u class='infou'>Dissociation</u>, and deal DMG equal to <color style='color:#f29e38;'> 150.0% </color> of the <u class='infou'>Dissociation</u> removal DMG.",
-            "Attacking an enemy with <u class='infou'>Dissociation</u> will remove <u class='infou'>Dissociation</u>, and deal DMG equal to <color style='color:#f29e38;'> 200.0% </color> of the <u class='infou'>Dissociation</u> removal DMG."
+            "キャラが「<u class='infou'>離神</u>」状態の敵を攻撃した後、敵の「<u class='infou'>離神</u>」状態を解除する。同時に、「<u class='infou'>離神</u>」状態解除時のダメージが、本来のダメージの<color style='color:#f29e38;'> 150.0% </color>になる。",
+            "キャラが「<u class='infou'>離神</u>」状態の敵を攻撃した後、敵の「<u class='infou'>離神</u>」状態を解除する。同時に、「<u class='infou'>離神</u>」状態解除時のダメージが、本来のダメージの<color style='color:#f29e38;'> 200.0% </color>になる。"
         ],
         "SimpleDesc": [
-            "When a character attacks an enemy with <u class='infou'>Dissociation</u>, remove <u class='infou'>Dissociation</u> from the enemy and increase the DMG received when this status is removed.",
-            "When a character attacks an enemy with <u class='infou'>Dissociation</u>, remove <u class='infou'>Dissociation</u> from the enemy and increase the DMG received when this status is removed."
+            "キャラが「<u class='infou'>離神</u>」状態の敵を攻撃した後、「<u class='infou'>離神</u>」状態を解除し、解除時のダメージをアップする。",
+            "キャラが「<u class='infou'>離神</u>」状態の敵を攻撃した後、「<u class='infou'>離神</u>」状態を解除し、解除時のダメージをアップする。"
         ],
         "Effects": [
             60000002
@@ -1566,14 +1566,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 2,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Ultimate Experience: Dizziness",
+        "Name": "{RUBY_B#きょくたんたいけん}極端体験{RUBY_E#}：{RUBY_B#めまい}眩暈{RUBY_E#}",
         "Desc": [
-            "Increases the DMG taken by enemies with <u class='infou'>Dissociation</u> by <color style='color:#f29e38;'> 36.0% </color>. This effect will remain for 1 turn after <u class='infou'>Dissociation</u> is removed.",
-            "Increases the DMG taken by enemies with <u class='infou'>Dissociation</u> by <color style='color:#f29e38;'> 54.0% </color>. This effect will remain for 1 turn after <u class='infou'>Dissociation</u> is removed."
+            "「<u class='infou'>離神</u>」状態の敵の被ダメージ+<color style='color:#f29e38;'> 36.0% </color>。この効果は「<u class='infou'>離神</u>」状態が解除された後も1ターン継続する。",
+            "「<u class='infou'>離神</u>」状態の敵の被ダメージ+<color style='color:#f29e38;'> 54.0% </color>。この効果は「<u class='infou'>離神</u>」状態が解除された後も1ターン継続する。"
         ],
         "SimpleDesc": [
-            "Enemies with <u class='infou'>Dissociation</u> take increased DMG.",
-            "Enemies with <u class='infou'>Dissociation</u> take increased DMG."
+            "「<u class='infou'>離神</u>」状態の敵の被ダメージアップ。",
+            "「<u class='infou'>離神</u>」状態の敵の被ダメージアップ。"
         ],
         "Effects": [
             60000002
@@ -1584,14 +1584,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 2,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Ultimate Experience: Insensitivity",
+        "Name": "{RUBY_B#きょくたんたいけん}極端体験{RUBY_E#}：{RUBY_B#むかんかく}無感覚{RUBY_E#}",
         "Desc": [
-            "After <u class='infou'>Dissociation</u> is removed from an enemy, there is a <color style='color:#f29e38;'> 50.0% </color> base chance to Freeze the enemy for <color style='color:#f29e38;'> 1.0 </color> turn(s).",
-            "After <u class='infou'>Dissociation</u> is removed from an enemy, there is a <color style='color:#f29e38;'> 75.0% </color> base chance to Freeze the enemy for <color style='color:#f29e38;'> 1.0 </color> turn(s)."
+            "敵の「<u class='infou'>離神</u>」状態が解除された後、敵は<color style='color:#f29e38;'> 50.0% </color>の基礎確率で凍結状態になる。<color style='color:#f29e38;'> 1.0 </color>ターン継続。",
+            "敵の「<u class='infou'>離神</u>」状態が解除された後、敵は<color style='color:#f29e38;'> 75.0% </color>の基礎確率で凍結状態になる。<color style='color:#f29e38;'> 1.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "When <u class='infou'>Dissociation</u> is removed from an enemy, there is a chance for them to become Frozen.",
-            "After <u class='infou'>Dissociation</u> is removed from an enemy, there is a high chance for them to become Frozen."
+            "敵の「<u class='infou'>離神</u>」状態が解除された後、確率で凍結状態になる。",
+            "敵の「<u class='infou'>離神</u>」状態が解除された後、高確率で凍結状態になる。"
         ],
         "Effects": [
             60000002
@@ -1602,14 +1602,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 2,
         "Icon": "/IconRogueMemory01.png",
-        "Name": "Ultimate Experience: Sentimentality",
+        "Name": "{RUBY_B#きょくたんたいけん}極端体験{RUBY_E#}：{RUBY_B#たかん}多感{RUBY_E#}",
         "Desc": [
-            "After an enemy receives Ice DMG, enemies adjacent to it also receive DMG equal to <color style='color:#f29e38;'> 20.0% </color> of the DMG taken by the target enemy.",
-            "After an enemy receives Ice DMG, all other enemies also receive DMG equal to <color style='color:#f29e38;'> 24.0% </color> of the DMG taken by the target enemy."
+            "敵が氷属性ダメージを受けた後、隣接する敵も本来のダメージ<color style='color:#f29e38;'> 20.0% </color>分のダメージを受ける。",
+            "敵が氷属性ダメージを受けた後、他の敵も本来のダメージ<color style='color:#f29e38;'> 24.0% </color>分のダメージを受ける。"
         ],
         "SimpleDesc": [
-            "Ice DMG taken by enemies can affect enemies adjacent to the target enemy.",
-            "Ice DMG dealt to an enemy can be Blasted to all enemies."
+            "敵が受ける氷属性ダメージが、隣接する敵に拡散する。",
+            "敵が受ける氷属性ダメージが、敵全体に拡散する。"
         ],
         "Effects": []
     },
@@ -1618,14 +1618,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 2,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Ultimate Experience: Indelibility",
+        "Name": "{RUBY_B#きょくたんたいけん}極端体験{RUBY_E#}：{RUBY_B#かんめい}感銘{RUBY_E#}",
         "Desc": [
-            "When a character deals DMG to an enemy, there's a <color style='color:#f29e38;'> 2.0% </color> base chance to Freeze the hit enemy for <color style='color:#f29e38;'> 1.0 </color> turn(s).",
-            "Enemies' chance to resist Frozen decreases by <color style='color:#f29e38;'> 20.0% </color>. When a character deals DMG to an enemy, there is a <color style='color:#f29e38;'> 2.5% </color> base chance to Freeze the hit enemy for <color style='color:#f29e38;'> 1.0 </color> turn(s)."
+            "キャラが敵にダメージを与えた時、<color style='color:#f29e38;'> 2.0% </color>の基礎確率で敵を凍結状態にする、<color style='color:#f29e38;'> 1.0 </color>ターン継続。",
+            "敵が凍結状態を抵抗する確率-<color style='color:#f29e38;'> 20.0% </color>。キャラが敵にダメージを与えた時、<color style='color:#f29e38;'> 2.5% </color>の基礎確率で敵を凍結状態にする、<color style='color:#f29e38;'> 1.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "When characters deal DMG to enemies, there is a small chance to Freeze the enemy.",
-            "Reduce the enemy's Freeze RES. When characters deal DMG to enemies, there is a small chance to Freeze the enemy."
+            "キャラがダメージを与えた時、低確率で敵を凍結状態にする。",
+            "敵の凍結状態耐性ダウン。キャラがダメージを与えた時、低確率で敵を凍結状態にする。"
         ],
         "Effects": []
     },
@@ -1634,14 +1634,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 2,
         "Icon": "/IconRogueMemory05.png",
-        "Name": "Ultimate Experience: Shudder",
+        "Name": "{RUBY_B#きょくたんたいけん}極端体験{RUBY_E#}：{RUBY_B#せんりつ}戦慄{RUBY_E#}",
         "Desc": [
-            "After a character uses their Ultimate, there is a <color style='color:#f29e38;'> 70.0% </color> base chance to apply Ice Weakness to a random enemy for <color style='color:#f29e38;'> 2.0 </color> turn(s).",
-            "After a character uses their Ultimate, there is a <color style='color:#f29e38;'> 70.0% </color> base chance to apply Ice Weakness to a random enemy who has no Ice Weakness for <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "キャラが必殺技を発動した後、<color style='color:#f29e38;'> 70.0% </color>の基礎確率で氷属性を弱点として、ランダムな敵単体に付与する、<color style='color:#f29e38;'> 2.0 </color>ターン継続。",
+            "キャラが必殺技を発動した後、<color style='color:#f29e38;'> 70.0% </color>の基礎確率で氷属性を弱点として、氷属性弱点がないランダムな敵単体に付与する、<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "After a character uses their Ultimate, a random enemy gains Ice Weakness.",
-            "After a character uses their Ultimate, a random enemy without Ice Weakness gains Ice Weakness."
+            "キャラが必殺技を発動した後、氷属性を弱点としてランダムな敵単体に付与する。",
+            "キャラが必殺技を発動した後、氷属性を弱点として、氷属性弱点がないランダムな敵単体に付与する。"
         ],
         "Effects": []
     },
@@ -1650,14 +1650,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 2,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Ultimate Experience: Maverick",
+        "Name": "{RUBY_B#きょくたんたいけん}極端体験{RUBY_E#}：{RUBY_B#いたんじ}異端児{RUBY_E#}",
         "Desc": [
-            "Upon entering battle, there is a <color style='color:#f29e38;'> 150.0% </color> base chance for all enemies to become Frozen for <color style='color:#f29e38;'> 1.0 </color> turn(s).",
-            "Upon entering battle, there is a <color style='color:#f29e38;'> 150.0% </color> base chance for all enemies to become Frozen and have their SPD reduced by <color style='color:#f29e38;'> 30.0% </color>, lasting for <color style='color:#f29e38;'> 1.0 </color> turn(s)."
+            "戦闘に入る時、敵単体それぞれが<color style='color:#f29e38;'> 150.0% </color>の基礎確率で凍結状態になる、<color style='color:#f29e38;'> 1.0 </color>ターン継続。",
+            "戦闘に入る時、敵単体それぞれが<color style='color:#f29e38;'> 150.0% </color>の基礎確率で凍結状態になり、速度-<color style='color:#f29e38;'> 30.0% </color>、<color style='color:#f29e38;'> 1.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "Upon entering battle, there is a high chance of inflicting Freeze on all enemies.",
-            "Upon entering battle, there is a high chance of inflicting Freeze on all enemy units, as well as lowering their SPD."
+            "戦闘に入る時、高確率で敵全体を凍結状態にする。",
+            "戦闘に入る時、高確率で敵全体を凍結状態にし、速度をダウンさせる。"
         ],
         "Effects": []
     },
@@ -1666,14 +1666,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 1,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Experience: Unspeakable Shame",
+        "Name": "{RUBY_B#たいけん}体験{RUBY_E#}：{RUBY_B#い}言{RUBY_E#}えない{RUBY_B#はじ}恥{RUBY_E#}",
         "Desc": [
-            "For every Blessing of Remembrance the team has, enemies' chance to resist Frozen decreases by <color style='color:#f29e38;'> 6.0% </color>, stacking up to <color style='color:#f29e38;'> 6.0 </color> time(s).",
-            "For every Blessing of Remembrance the team has, enemies' chance to resist Frozen decreases by <color style='color:#f29e38;'> 8.0% </color>, stacking up to <color style='color:#f29e38;'> 9.0 </color> time(s)."
+            "所持する「記憶」の祝福1個につき、敵が凍結状態を抵抗する確率-<color style='color:#f29e38;'> 6.0% </color>、最大で<color style='color:#f29e38;'> 6.0 </color>層累積できる。",
+            "所持する「記憶」の祝福1個につき、敵が凍結状態を抵抗する確率-<color style='color:#f29e38;'> 8.0% </color>、最大で<color style='color:#f29e38;'> 9.0 </color>層累積できる。"
         ],
         "SimpleDesc": [
-            "The more Blessings of Remembrance the team has, the lower the enemy's Freeze RES become.",
-            "The more Blessings of Remembrance the team has, the lower the enemy's Freeze RES become."
+            "「記憶」の祝福の数が多いほど、敵の凍結状態耐性がダウンする。",
+            "「記憶」の祝福の数が多いほど、敵の凍結状態耐性がダウンする。"
         ],
         "Effects": []
     },
@@ -1682,14 +1682,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 1,
         "Icon": "/IconRogueMemory03.png",
-        "Name": "Experience: The Torment of Alienation",
+        "Name": "{RUBY_B#たいけん}体験{RUBY_E#}：{RUBY_B#そえん}疎遠{RUBY_E#}の{RUBY_B#くる}苦{RUBY_E#}しみ",
         "Desc": [
-            "Characters' Effect Hit Rate increases by <color style='color:#f29e38;'> 16.0% </color>.",
-            "Characters' Effect Hit Rate increases by <color style='color:#f29e38;'> 24.0% </color>."
+            "キャラの効果命中+<color style='color:#f29e38;'> 16.0% </color>。",
+            "キャラの効果命中+<color style='color:#f29e38;'> 24.0% </color>。"
         ],
         "SimpleDesc": [
-            "Increases Effect Hit Rate.",
-            "Increases Effect Hit Rate."
+            "キャラ効果命中アップ。",
+            "キャラ効果命中アップ。"
         ],
         "Effects": []
     },
@@ -1698,14 +1698,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 1,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Experience: Lost Memory",
+        "Name": "{RUBY_B#たいけん}体験{RUBY_E#}：{RUBY_B#うしな}失{RUBY_E#}われた{RUBY_B#きおく}記憶{RUBY_E#}",
         "Desc": [
-            "When attacks reduce an enemy's HP to a point that is lower than <color style='color:#f29e38;'> 50.0% </color> for the first time in this battle, there's a <color style='color:#f29e38;'> 70.0% </color> base chance to Freeze the enemy for <color style='color:#f29e38;'> 1.0 </color> turn(s).",
-            "When attacks reduce an enemy's HP to a point that is lower than <color style='color:#f29e38;'> 50.0% </color> for the first time in this battle, there's a <color style='color:#f29e38;'> 100.0% </color> base chance to Freeze the enemy for <color style='color:#f29e38;'> 1.0 </color> turn(s)."
+            "キャラが攻撃を行った後、攻撃を受けた敵の残りHPが初めて<color style='color:#f29e38;'> 50.0% </color>を下回った場合、<color style='color:#f29e38;'> 70.0% </color>の基礎確率でその敵を凍結状態にする、<color style='color:#f29e38;'> 1.0 </color>ターン継続。",
+            "キャラが攻撃を行った後、攻撃を受けた敵の残りHPが初めて<color style='color:#f29e38;'> 50.0% </color>を下回った場合、<color style='color:#f29e38;'> 100.0% </color>の基礎確率でその敵を凍結状態にする、<color style='color:#f29e38;'> 1.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "Enemies have a chance of becoming Frozen when they fall to low health from characters' attacks.",
-            "Enemies have a high chance of becoming Frozen when they fall to low HP from allies' attacks."
+            "キャラの攻撃で敵の残りHP割合が一定値を下回った後、確率で敵を凍結状態にする。",
+            "キャラの攻撃で敵の残りHP割合が一定値を下回った後、高確率で敵を凍結状態にする。"
         ],
         "Effects": []
     },
@@ -1714,14 +1714,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 1,
         "Icon": "/IconRogueMemory01.png",
-        "Name": "Experience: Stone Cold Hatred",
+        "Name": "{RUBY_B#たいけん}体験{RUBY_E#}：{RUBY_B#せいれつ}凄烈{RUBY_E#}な{RUBY_B#ぞうお}憎悪{RUBY_E#}",
         "Desc": [
-            "When a character uses their Skill or Ultimate to attack a Frozen enemy, DMG for this attack increases by <color style='color:#f29e38;'> 36.0% </color>.",
-            "When a character uses their Skill or Ultimate to attack a Frozen enemy, DMG for this attack increases by <color style='color:#f29e38;'> 54.0% </color>."
+            "キャラが凍結状態の敵に戦闘スキル、または必殺技を発動した時、与ダメージ+<color style='color:#f29e38;'> 36.0% </color>。",
+            "キャラが凍結状態の敵に戦闘スキル、または必殺技を発動した時、与ダメージ+<color style='color:#f29e38;'> 54.0% </color>。"
         ],
         "SimpleDesc": [
-            "Characters' Skill and Ultimate deal increased DMG against Frozen enemies.",
-            "Characters' Skill and Ultimate deal increased DMG against Frozen enemies."
+            "キャラが戦闘スキル、必殺技を発動した時、凍結状態の敵に対して与ダメージアップ。",
+            "キャラが戦闘スキル、必殺技を発動した時、凍結状態の敵に対して与ダメージアップ。"
         ],
         "Effects": []
     },
@@ -1730,14 +1730,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 1,
         "Icon": "/IconRogueMemory01.png",
-        "Name": "Experience: Pain & Suffering",
+        "Name": "{RUBY_B#たいけん}体験{RUBY_E#}：{RUBY_B#やまい}病{RUBY_E#}の{RUBY_B#さいな}苛{RUBY_E#}み",
         "Desc": [
-            "Right after an enemy is Frozen, the next <color style='color:#f29e38;'> 1.0 </color> attack(s) launched against the said enemy will have  100%  increased CRIT Rate. This effect is dispelled when the Frozen state is removed.",
-            "Right after an enemy is Frozen, the next <color style='color:#f29e38;'> 2.0 </color> attack(s) launched against the said enemy will have  100%  increased CRIT Rate. This effect is dispelled when the Frozen state is removed."
+            "敵が凍結状態になった後、その後に受ける攻撃の会心率+ 100% 、最大で<color style='color:#f29e38;'> 1.0 </color>回まで発動する。この効果は凍結状態が解除されると失効する。",
+            "敵が凍結状態になった後、その後に受ける攻撃の会心率+ 100% 、最大で<color style='color:#f29e38;'> 2.0 </color>回まで発動する。この効果は凍結状態が解除されると失効する。"
         ],
         "SimpleDesc": [
-            "After an enemy is Frozen, the next <color style='color:#f29e38;'> 1.0 </color> attack(s) they receive are guaranteed to CRIT.",
-            "After an enemy is Frozen, the next <color style='color:#f29e38;'> 2.0 </color> attack(s) they receive are guaranteed to CRIT."
+            "敵が凍結状態になった後、その後に受ける<color style='color:#f29e38;'> 1.0 </color>回の攻撃は必ず会心が発生する。",
+            "敵が凍結状態になった後、その後に受ける<color style='color:#f29e38;'> 2.0 </color>回の攻撃は必ず会心が発生する。"
         ],
         "Effects": []
     },
@@ -1746,14 +1746,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 1,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Experience: Primordial Hardship",
+        "Name": "{RUBY_B#たいけん}体験{RUBY_E#}：{RUBY_B#げんしょ}原初{RUBY_E#}の{RUBY_B#くちゅう}苦衷{RUBY_E#}",
         "Desc": [
-            "Increases the DMG taken by Frozen enemies by <color style='color:#f29e38;'> 16.0% </color>.",
-            "Increases the DMG taken by Frozen enemies by <color style='color:#f29e38;'> 24.0% </color>."
+            "凍結状態の敵の被ダメージ+<color style='color:#f29e38;'> 16.0% </color>。",
+            "凍結状態の敵の被ダメージ+<color style='color:#f29e38;'> 24.0% </color>。"
         ],
         "SimpleDesc": [
-            "DMG taken by Frozen enemies increases.",
-            "DMG taken by Frozen enemies increases."
+            "凍結状態の敵の被ダメージアップ。",
+            "凍結状態の敵の被ダメージアップ。"
         ],
         "Effects": []
     },
@@ -1762,14 +1762,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 1,
         "Icon": "/IconRogueMemory03.png",
-        "Name": "Experience: Thrill of Escalation",
+        "Name": "{RUBY_B#たいけん}体験{RUBY_E#}：{RUBY_B#じょうしょう}上昇{RUBY_E#}の{RUBY_B#しげき}刺激{RUBY_E#}",
         "Desc": [
-            "When a character Freezes an enemy, regenerates <color style='color:#f29e38;'> 8.0 </color> Energy. This effect may only trigger once per action.",
-            "When a character Freezes an enemy, regenerates <color style='color:#f29e38;'> 12.0 </color> Energy. This effect may only trigger once per action."
+            "キャラが敵に凍結状態を付与した後、自身のEPを<color style='color:#f29e38;'> 8.0 </color>回復する。この効果は1回の行動で1回まで発動できる。",
+            "キャラが敵に凍結状態を付与した後、自身のEPを<color style='color:#f29e38;'> 12.0 </color>回復する。この効果は1回の行動で1回まで発動できる。"
         ],
         "SimpleDesc": [
-            "Characters regenerate Energy when they apply Freeze on enemies.",
-            "Characters regenerate Energy when they apply Freeze on enemies."
+            "キャラが敵に凍結状態を付与した後、EPを回復する。",
+            "キャラが敵に凍結状態を付与した後、EPを回復する。"
         ],
         "Effects": []
     },
@@ -1778,14 +1778,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 1,
         "Icon": "/IconRogueMemory02.png",
-        "Name": "Experience: Responsive Excitement",
+        "Name": "{RUBY_B#たいけん}体験{RUBY_E#}：{RUBY_B#はんきょう}反響{RUBY_E#}の{RUBY_B#こうふん}興奮{RUBY_E#}",
         "Desc": [
-            "When a character applies Freeze to an enemy, the character gains a Shield that can absorb DMG equal to <color style='color:#f29e38;'> 16.0% </color> of their Max HP for <color style='color:#f29e38;'> 3.0 </color> turn(s).",
-            "When a character applies Freeze to an enemy, the character gains a Shield that can absorb DMG equal to <color style='color:#f29e38;'> 24.0% </color> of their Max HP for <color style='color:#f29e38;'> 3.0 </color> turn(s)."
+            "キャラが敵に凍結状態を付与した後、自身の最大HP<color style='color:#f29e38;'> 16.0% </color>分の耐久値を持つバリアを獲得する、<color style='color:#f29e38;'> 3.0 </color>ターン継続。",
+            "キャラが敵に凍結状態を付与した後、自身の最大HP<color style='color:#f29e38;'> 24.0% </color>分の耐久値を持つバリアを獲得する、<color style='color:#f29e38;'> 3.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "Characters gain a Shield when they apply Freeze on enemies.",
-            "Characters gain a Shield when they apply Freeze on enemies."
+            "キャラが敵に凍結状態を付与した後、バリアを獲得する。",
+            "キャラが敵に凍結状態を付与した後、バリアを獲得する。"
         ],
         "Effects": []
     },
@@ -1794,14 +1794,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/IconRogueJoy01.png",
-        "Name": "<i>Auto-Harmonica: Whitest Night</i>",
+        "Name": "『{RUBY_B#じどう}自動{RUBY_E#}ハーモニカ・{RUBY_B#ぼうぼう}茫々{RUBY_E#}たる{RUBY_B#びゃくや}白夜{RUBY_E#}』",
         "Desc": [
-            "After a character launches a follow-up attack, they deal <u class='infou'>Aftertaste</u> DMG equal to <color style='color:#f29e38;'> 55.0% </color> of their ATK for <color style='color:#f29e38;'> 1.0 </color> to <color style='color:#f29e38;'> 3.0 </color> time(s).",
-            "After a character launches a follow-up attack, they deal <u class='infou'>Aftertaste</u> DMG equal to <color style='color:#f29e38;'> 60.0% </color> of their ATK for <color style='color:#f29e38;'> 1.0 </color> – <color style='color:#f29e38;'> 3.0 </color> time(s). And increases <u class='infou'>Aftertaste</u> DMG by <color style='color:#f29e38;'> 35.0% </color>."
+            "キャラが追加攻撃を行った後、攻撃を受けた敵に、自身の攻撃力<color style='color:#f29e38;'> 55.0% </color>分の「<u class='infou'>後味</u>」ダメージを<color style='color:#f29e38;'> 1.0 </color>～<color style='color:#f29e38;'> 3.0 </color>回与える。",
+            "キャラが追加攻撃を行った後、攻撃を受けた敵に、自身の攻撃力<color style='color:#f29e38;'> 60.0% </color>分の「<u class='infou'>後味</u>」ダメージを<color style='color:#f29e38;'> 1.0 </color>～<color style='color:#f29e38;'> 3.0 </color>回与える。「<u class='infou'>後味</u>」の与ダメージ+<color style='color:#f29e38;'> 35.0% </color>。"
         ],
         "SimpleDesc": [
-            "After characters launch follow-up attacks, deal <u class='infou'>Aftertaste</u> DMG <color style='color:#f29e38;'> 1.0 </color> — <color style='color:#f29e38;'> 3.0 </color> time(s).",
-            "After characters launch follow-up attacks, deal <u class='infou'>Aftertaste</u> DMG <color style='color:#f29e38;'> 1.0 </color> — <color style='color:#f29e38;'> 3.0 </color> time(s) and increase <u class='infou'>Aftertaste</u> DMG."
+            "キャラが追加攻撃を行った後、<color style='color:#f29e38;'> 1.0 </color>～<color style='color:#f29e38;'> 3.0 </color>回の「<u class='infou'>後味</u>」ダメージを与える。",
+            "キャラが追加攻撃を行った後、<color style='color:#f29e38;'> 1.0 </color>～<color style='color:#f29e38;'> 3.0 </color>回の「<u class='infou'>後味</u>」ダメージを与える。「<u class='infou'>後味</u>」の与ダメージアップ。"
         ],
         "Effects": [
             60000003
@@ -1812,14 +1812,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/IconRogueJoy01.png",
-        "Name": "<i>Slaughterhouse No. 4: Rest in Peace</i>",
+        "Name": "『{RUBY_B#よんばんとちくじょう}四番屠畜場{RUBY_E#}・{RUBY_B#みな}皆{RUBY_E#}{RUBY_B#ねむ}眠{RUBY_E#}りて』",
         "Desc": [
-            "When characters launch follow-up attacks to an enemy, deals <u class='infou'>Aftertaste</u> DMG equal to <color style='color:#f29e38;'> 80.0% </color> of their ATK to the enemy being hit. If the enemy also has their Weakness Broken, then deals DMG for <color style='color:#f29e38;'> 1.0 </color> extra time(s).",
-            "When characters launch follow-up attacks to an enemy, deals <u class='infou'>Aftertaste</u> DMG equal to <color style='color:#f29e38;'> 80.0% </color> of their ATK to the enemy being hit. If the enemy also has their Weakness Broken, then deals DMG for <color style='color:#f29e38;'> 2.0 </color> extra time(s)."
+            "キャラが追加攻撃を行った後、攻撃を受けた敵に、自身の攻撃力<color style='color:#f29e38;'> 80.0% </color>分の「<u class='infou'>後味</u>」ダメージを1回与える。敵が弱点撃破状態の場合、さらにダメージを<color style='color:#f29e38;'> 1.0 </color>回与える。",
+            "キャラが追加攻撃を行った後、攻撃を受けた敵に、自身の攻撃力<color style='color:#f29e38;'> 80.0% </color>分の「<u class='infou'>後味</u>」ダメージを1回与える。敵が弱点撃破状態の場合、さらにダメージを<color style='color:#f29e38;'> 2.0 </color>回与える。"
         ],
         "SimpleDesc": [
-            "After characters launch follow-up attacks, deals <u class='infou'>Aftertaste</u> DMG 1 time. If the enemy currently has their Weakness Broken, then deal this DMG <color style='color:#f29e38;'> 1.0 </color> extra time(s).",
-            "After characters launch follow-up attacks, deals <u class='infou'>Aftertaste</u> DMG 1 time. If the enemy currently has their Weakness Broken, then deal this DMG <color style='color:#f29e38;'> 2.0 </color> extra time(s)."
+            "キャラが追加攻撃を行った後、「<u class='infou'>後味</u>」ダメージを1回与える。敵が弱点撃破状態の場合、さらに<color style='color:#f29e38;'> 1.0 </color>回与える。",
+            "キャラが追加攻撃を行った後、「<u class='infou'>後味</u>」ダメージを1回与える。敵が弱点撃破状態の場合、さらに<color style='color:#f29e38;'> 2.0 </color>回与える。"
         ],
         "Effects": [
             60000003
@@ -1830,14 +1830,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/IconRogueJoy01.png",
-        "Name": "<i>Champion's Dinner: Cat's Cradle</i>",
+        "Name": "『チャンピオンのディナー・{RUBY_B#ねこ}猫{RUBY_E#}のゆりかご』",
         "Desc": [
-            "When characters deal DMG to an enemy with their Ultimate, this attack is considered a follow-up attack. Increases the DMG of follow-up attacks by <color style='color:#f29e38;'> 15.0% </color>.",
-            "When characters deal DMG to an enemy with their Ultimate, this attack is considered a follow-up attack. Increases the DMG of follow-up attacks by <color style='color:#f29e38;'> 55.0% </color>."
+            "キャラの必殺技が敵にダメージを与えた後、追加攻撃が発動したと見なされる。追加攻撃の与ダメージ+<color style='color:#f29e38;'> 15.0% </color>。",
+            "キャラの必殺技が敵にダメージを与えた後、追加攻撃が発動したと見なされる。追加攻撃の与ダメージ+<color style='color:#f29e38;'> 55.0% </color>。"
         ],
         "SimpleDesc": [
-            "Characters' Ultimates are considered as a follow-up attack. Follow-up attacks deal increased DMG.",
-            "Characters' Ultimates are considered as a follow-up attack. Follow-up attacks deal increased DMG."
+            "必殺技発動を、追加攻撃が発動したと見なされる。追加攻撃の与ダメージアップ。",
+            "必殺技発動を、追加攻撃が発動したと見なされる。追加攻撃の与ダメージアップ。"
         ],
         "Effects": []
     },
@@ -1846,14 +1846,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 2,
         "Icon": "/IconRogueJoy01.png",
-        "Name": "<i>Portrait of A Man On Fire</i>",
+        "Name": "『{RUBY_B#も}燃{RUBY_E#}ゆる{RUBY_B#おとこ}男{RUBY_E#}の{RUBY_B#しょうぞう}肖像{RUBY_E#}』",
         "Desc": [
-            "When causing <u class='infou'>Aftertaste</u> DMG to an enemy, characters deal additional <u class='infou'>Aftertaste</u> DMG of different Types for <color style='color:#f29e38;'> 1.0 </color> time(s), at DMG values equal to <color style='color:#f29e38;'> 60.0% </color> of the original DMG.",
-            "When causing <u class='infou'>Aftertaste</u> DMG to an enemy, characters deal extra <u class='infou'>Aftertaste</u> DMG of different Types for <color style='color:#f29e38;'> 1.0 </color> time(s), at DMG values equal to <color style='color:#f29e38;'> 90.0% </color> of the original DMG."
+            "キャラが敵に「<u class='infou'>後味</u>」ダメージを与えた時、本来のダメージ<color style='color:#f29e38;'> 60.0% </color>分の、異なる属性の「<u class='infou'>後味</u>」ダメージを<color style='color:#f29e38;'> 1.0 </color>回与える。",
+            "キャラが敵に「<u class='infou'>後味</u>」ダメージを与えた時、本来のダメージ<color style='color:#f29e38;'> 90.0% </color>分の、異なる属性の「<u class='infou'>後味</u>」ダメージを<color style='color:#f29e38;'> 1.0 </color>回与える。"
         ],
         "SimpleDesc": [
-            "Every time enemies receive <u class='infou'>Aftertaste</u> DMG, they also receive extra <u class='infou'>Aftertaste</u> DMG <color style='color:#f29e38;'> 1.0 </color> time(s).",
-            "Every time enemies receive <u class='infou'>Aftertaste</u> DMG, they also receive extra <u class='infou'>Aftertaste</u> DMG <color style='color:#f29e38;'> 1.0 </color> time(s)."
+            "敵が「<u class='infou'>後味</u>」ダメージを受ける時、さらに「<u class='infou'>後味</u>」ダメージを<color style='color:#f29e38;'> 1.0 </color>回受ける。",
+            "敵が「<u class='infou'>後味</u>」ダメージを受ける時、さらに「<u class='infou'>後味</u>」ダメージを<color style='color:#f29e38;'> 1.0 </color>回受ける。"
         ],
         "Effects": [
             60000003
@@ -1864,14 +1864,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 2,
         "Icon": "/IconRogueJoy04.png",
-        "Name": "<i>Just Keep on Crying!</i>",
+        "Name": "『{RUBY_B#なが}流{RUBY_E#}れよ{RUBY_B#なんじ}汝{RUBY_E#}が{RUBY_B#なみだ}涙{RUBY_E#}』",
         "Desc": [
-            "For every 1 Type of <u class='infou'>Aftertaste</u> DMG the enemy received, increases the DMG taken by them by <color style='color:#f29e38;'> 8.0% </color> until the end of their next action.",
-            "For every 1 Type of <u class='infou'>Aftertaste</u> DMG the enemy received, increases the DMG taken by them by <color style='color:#f29e38;'> 12.0% </color> until the end of their next action."
+            "敵が異なる属性の「<u class='infou'>後味</u>」ダメージを受けるごとに、被ダメージ+<color style='color:#f29e38;'> 8.0% </color>、次の行動終了まで継続。",
+            "敵が異なる属性の「<u class='infou'>後味</u>」ダメージを受けるごとに、被ダメージ+<color style='color:#f29e38;'> 12.0% </color>、次の行動終了まで継続。"
         ],
         "SimpleDesc": [
-            "The more DMG Types an enemy receives from <u class='infou'>Aftertaste</u>, the more DMG they receive.",
-            "The more DMG Types an enemy receives from <u class='infou'>Aftertaste</u>, the more DMG they receive."
+            "敵が受ける「<u class='infou'>後味</u>」ダメージの属性の種類が多いほど、被ダメージアップ。",
+            "敵が受ける「<u class='infou'>後味</u>」ダメージの属性の種類が多いほど、被ダメージアップ。"
         ],
         "Effects": [
             60000003
@@ -1882,14 +1882,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 2,
         "Icon": "/IconRogueJoy04.png",
-        "Name": "<i>The Hourglass Kindergarten</i>",
+        "Name": "『{RUBY_B#すなどけい}砂時計{RUBY_E#}の{RUBY_B#ようちえん}幼稚園{RUBY_E#}』",
         "Desc": [
-            "For every 1 Type of <u class='infou'>Aftertaste</u> DMG the enemy received, reduces their ATK by <color style='color:#f29e38;'> 4.0% </color> until the end of their next action.",
-            "For every 1 Type of <u class='infou'>Aftertaste</u> DMG the enemy received, reduces their ATK by <color style='color:#f29e38;'> 6.0% </color> until the end of their next action."
+            "敵が異なる属性の「<u class='infou'>後味</u>」ダメージを受けるごとに、攻撃力-<color style='color:#f29e38;'> 4.0% </color>、次の行動終了まで継続。",
+            "敵が異なる属性の「<u class='infou'>後味</u>」ダメージを受けるごとに、攻撃力-<color style='color:#f29e38;'> 6.0% </color>、次の行動終了まで継続。"
         ],
         "SimpleDesc": [
-            "The more DMG Types an enemy receives from <u class='infou'>Aftertaste</u>, the more their ATK is reduced.",
-            "The more DMG Types an enemy receives from <u class='infou'>Aftertaste</u>, the more their ATK is reduced."
+            "敵が受ける「<u class='infou'>後味</u>」ダメージの属性の種類が多いほど、攻撃力ダウン。",
+            "敵が受ける「<u class='infou'>後味</u>」ダメージの属性の種類が多いほど、攻撃力ダウン。"
         ],
         "Effects": [
             60000003
@@ -1900,14 +1900,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 2,
         "Icon": "/IconRogueJoy01.png",
-        "Name": "<i>The Painted Albatross</i>",
+        "Name": "『{RUBY_B#よご}汚{RUBY_E#}されたアホウドリ』",
         "Desc": [
-            "For each enemy hit by a character's follow-up attack, the character deals Additional DMG equal to <color style='color:#f29e38;'> 24.0% </color> of their ATK to all enemies hit.",
-            "For each enemy hit by a character's follow-up attack, the character deals Additional DMG equal to <color style='color:#f29e38;'> 36.0% </color> of their ATK to all enemies hit."
+            "キャラが追加攻撃を行った後、1体の敵に攻撃が命中するにつき、攻撃が命中したすべての敵にキャラの攻撃力<color style='color:#f29e38;'> 24.0% </color>分の付加ダメージを1回与える。",
+            "キャラが追加攻撃を行った後、1体の敵に攻撃が命中するにつき、攻撃が命中したすべての敵にキャラの攻撃力<color style='color:#f29e38;'> 36.0% </color>分の付加ダメージを1回与える。"
         ],
         "SimpleDesc": [
-            "Deals Additional DMG based on the number of enemies hit by follow-up attacks.",
-            "Deals Additional DMG based on the number of enemies hit by follow-up attacks."
+            "追加攻撃が命中した敵の数に応じて、さらに付加ダメージを与える。",
+            "追加攻撃が命中した敵の数に応じて、さらに付加ダメージを与える。"
         ],
         "Effects": []
     },
@@ -1916,14 +1916,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 2,
         "Icon": "/IconRogueJoy01.png",
-        "Name": " 12  Monkeys and Angry Men",
+        "Name": "『{RUBY_B#じゅうに}十二{RUBY_E#}のサルと{RUBY_B#いか}怒{RUBY_E#}れる{RUBY_B#おとこ}男{RUBY_E#}』",
         "Desc": [
-            "When a character deals DMG to an enemy with a follow-up attack, DMG for this follow-up attack increases by <color style='color:#f29e38;'> 4.0% </color>.",
-            "When a character deals DMG to an enemy with a follow-up attack, DMG for this follow-up attack increases by <color style='color:#f29e38;'> 6.0% </color>."
+            "キャラが敵に追加攻撃ダメージを与えた時、その回の攻撃の追加攻撃の与ダメージ+<color style='color:#f29e38;'> 4.0% </color>。",
+            "キャラが敵に追加攻撃ダメージを与えた時、その回の攻撃の追加攻撃の与ダメージ+<color style='color:#f29e38;'> 6.0% </color>。"
         ],
         "SimpleDesc": [
-            "The DMG dealt by characters within a single follow-up attack increases gradually.",
-            "The DMG dealt by characters within a single follow-up attack increases gradually."
+            "キャラの1回の追加攻撃で、与ダメージが段々とアップする。",
+            "キャラの1回の追加攻撃で、与ダメージが段々とアップする。"
         ],
         "Effects": []
     },
@@ -1932,14 +1932,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 2,
         "Icon": "/IconRogueJoy04.png",
-        "Name": "<i>Aiden Gravitational Rainbow</i>",
+        "Name": "『リルタ{RUBY_B#じゅうりょく}重力{RUBY_E#}の{RUBY_B#にじ}虹{RUBY_E#}』",
         "Desc": [
-            "When a character launches follow-up attacks on enemies, the enemies' action is delayed by <color style='color:#f29e38;'> 12.0% </color>.",
-            "When characters launch follow-up attacks on enemies, the attacked enemies' actions are delayed by <color style='color:#f29e38;'> 12.0% </color>, and there is a <color style='color:#f29e38;'> 10.0% </color> base chance to cause Imprisonment on the enemies, lasting for <color style='color:#f29e38;'> 1.0 </color> turn(s)."
+            "キャラが敵に追加攻撃を行った後、敵の行動順を<color style='color:#f29e38;'> 12.0% </color>遅延させる。",
+            "キャラが敵に追加攻撃を行った後、敵の行動順を<color style='color:#f29e38;'> 12.0% </color>遅延させ、<color style='color:#f29e38;'> 10.0% </color>の基礎確率で敵を禁錮状態にする、<color style='color:#f29e38;'> 1.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "After a character launches follow-up attacks, the enemy's action is delayed.",
-            "After characters launch follow-up attacks, the target enemy's action is delayed, and there is a low chance of applying Imprisonment on them."
+            "キャラが追加攻撃を行った後、敵の行動順を遅延させる。",
+            "キャラが追加攻撃を行った後、敵の行動順を遅延させ、低確率で禁錮状態にする。"
         ],
         "Effects": []
     },
@@ -1948,14 +1948,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 2,
         "Icon": "/IconRogueJoy03.png",
-        "Name": "<i>Twenty-First Military Rule</i>",
+        "Name": "『キャッチ= 21 』",
         "Desc": [
-            "After a character launches follow-up attacks, there is a <color style='color:#f29e38;'> 65.0% </color> fixed chance to recover 1 Skill Point.",
-            "After a character launches follow-up attacks, there is a <color style='color:#f29e38;'> 100.0% </color> fixed chance to recover 1 Skill Point."
+            "キャラが追加攻撃を行った後、<color style='color:#f29e38;'> 65.0% </color>の固定確率でSPを1回復する。",
+            "キャラが追加攻撃を行った後、<color style='color:#f29e38;'> 100.0% </color>の固定確率でSPを1回復する。"
         ],
         "SimpleDesc": [
-            "After a character launches follow-up attacks, there is a chance of recovering a Skill Point.",
-            "When a character launches a follow-up attack, Skill Point recovery is guaranteed."
+            "キャラが追加攻撃を行った後、確率でSPを回復する。",
+            "キャラが追加攻撃を行った後、SPを回復する。"
         ],
         "Effects": []
     },
@@ -1964,14 +1964,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 1,
         "Icon": "/IconRogueJoy01.png",
-        "Name": "<i>Exemplary Conduct</i>",
+        "Name": "『{RUBY_B#そこうまんてん}素行満点{RUBY_E#}』",
         "Desc": [
-            "Increases the DMG of follow-up attacks by <color style='color:#f29e38;'> 9.0% </color> for each Elation Blessing. This effect can stack up to a max of <color style='color:#f29e38;'> 6.0 </color> time(s).",
-            "Increases the DMG of follow-up attacks by <color style='color:#f29e38;'> 12.0% </color> for each Elation Blessing. This effect can stack up to a max of <color style='color:#f29e38;'> 9.0 </color> time(s)."
+            "所持する「愉悦」の祝福1個につき、キャラの追加攻撃の与ダメージ+<color style='color:#f29e38;'> 9.0% </color>、この効果は最大で<color style='color:#f29e38;'> 6.0 </color>層累積できる。",
+            "所持する「愉悦」の祝福1個につき、キャラの追加攻撃の与ダメージ+<color style='color:#f29e38;'> 12.0% </color>、この効果は最大で<color style='color:#f29e38;'> 9.0 </color>層累積できる。"
         ],
         "SimpleDesc": [
-            "The more Blessings of Elation the team has, the higher follow-up attack DMG becomes.",
-            "The more Blessings of Elation the team has, the higher follow-up attack DMG becomes."
+            "「愉悦」の祝福の数が多いほど、追加攻撃の与ダメージアップ。",
+            "「愉悦」の祝福の数が多いほど、追加攻撃の与ダメージアップ。"
         ],
         "Effects": []
     },
@@ -1980,14 +1980,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 1,
         "Icon": "/IconRogueJoy03.png",
-        "Name": "<i>Mostly Harmful</i>",
+        "Name": "『ほとんど{RUBY_B#ゆうがい}有害{RUBY_E#}』",
         "Desc": [
-            "Increases the Weakness Break efficiency of follow-up attacks by <color style='color:#f29e38;'> 35.0% </color>.",
-            "Increases the Weakness Break efficiency of follow-up attacks by <color style='color:#f29e38;'> 50.0% </color>."
+            "キャラの追加攻撃がダメージを与えた時、弱点撃破効率+<color style='color:#f29e38;'> 35.0% </color>。",
+            "キャラの追加攻撃がダメージを与えた時、弱点撃破効率+<color style='color:#f29e38;'> 50.0% </color>。"
         ],
         "SimpleDesc": [
-            "Follow-up attacks' Weakness Break efficiency increases.",
-            "Follow-up attacks' Weakness Break efficiency increases."
+            "追加攻撃の弱点撃破効率アップ。",
+            "追加攻撃の弱点撃破効率アップ。"
         ],
         "Effects": []
     },
@@ -1996,14 +1996,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 1,
         "Icon": "/IconRogueJoy01.png",
-        "Name": "<i>Suspiria</i>",
+        "Name": "『サスペンス』",
         "Desc": [
-            "Increases the DMG of follow-up attacks by <color style='color:#f29e38;'> 26.0% </color>.",
-            "Increases the DMG of follow-up attacks by <color style='color:#f29e38;'> 39.0% </color>."
+            "キャラの追加攻撃の与ダメージ+<color style='color:#f29e38;'> 26.0% </color>。",
+            "キャラの追加攻撃の与ダメージ+<color style='color:#f29e38;'> 39.0% </color>。"
         ],
         "SimpleDesc": [
-            "Follow-up attack DMG increases.",
-            "Follow-up attack DMG increases."
+            "追加攻撃の与ダメージアップ。",
+            "追加攻撃の与ダメージアップ。"
         ],
         "Effects": []
     },
@@ -2012,14 +2012,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 1,
         "Icon": "/IconRogueJoy01.png",
-        "Name": "<i>Pale Fire</i>",
+        "Name": "『{RUBY_B#ほのぐら}仄暗{RUBY_E#}い{RUBY_B#ほのお}炎{RUBY_E#}』",
         "Desc": [
-            "Increases the CRIT Rate of follow-up attacks by <color style='color:#f29e38;'> 26.0% </color>.",
-            "Increases the CRIT Rate of follow-up attacks by <color style='color:#f29e38;'> 39.0% </color>."
+            "キャラの追加攻撃の会心率+<color style='color:#f29e38;'> 26.0% </color>。",
+            "キャラの追加攻撃の会心率+<color style='color:#f29e38;'> 39.0% </color>。"
         ],
         "SimpleDesc": [
-            "Follow-up attack CRIT Rate increases.",
-            "Follow-up attack CRIT Rate increases."
+            "追加攻撃の会心率アップ。",
+            "追加攻撃の会心率アップ。"
         ],
         "Effects": []
     },
@@ -2028,14 +2028,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 1,
         "Icon": "/IconRogueJoy03.png",
-        "Name": "<i>Back to the Lighthouse</i>",
+        "Name": "『{RUBY_B#とうだい}灯台{RUBY_E#}へ{RUBY_B#もど}戻{RUBY_E#}ろう』",
         "Desc": [
-            "When a character deals DMG to an enemy with a follow-up attack, increases their Energy Regeneration Rate by <color style='color:#f29e38;'> 24.0% </color>.",
-            "When a character deals DMG to an enemy with a follow-up attack, increases their Energy Regeneration Rate by <color style='color:#f29e38;'> 36.0% </color>."
+            "キャラの追加攻撃がダメージを与えた時、自身のEP回復効率+<color style='color:#f29e38;'> 24.0% </color>。",
+            "キャラの追加攻撃がダメージを与えた時、自身のEP回復効率+<color style='color:#f29e38;'> 36.0% </color>。"
         ],
         "SimpleDesc": [
-            "When a character launches a follow-up attack, their Energy Regeneration Rate increases.",
-            "When a character launches a follow-up attack, their Energy Regeneration Rate increases."
+            "追加攻撃を行った時、キャラのEP回復効率アップ。",
+            "追加攻撃を行った時、キャラのEP回復効率アップ。"
         ],
         "Effects": []
     },
@@ -2044,14 +2044,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 1,
         "Icon": "/IconRogueJoy02.png",
-        "Name": "<i>Doctor of Love</i>",
+        "Name": "『{RUBY_B#いしゃ}医者{RUBY_E#}の{RUBY_B#いじょう}異常{RUBY_E#}な{RUBY_B#あいじょう}愛情{RUBY_E#}』",
         "Desc": [
-            "After a character launches a follow-up attack, restores their HP by <color style='color:#f29e38;'> 10.0% </color> of their Max HP.",
-            "After a character launches a follow-up attack, restores their HP by <color style='color:#f29e38;'> 15.0% </color> of their Max HP."
+            "キャラが追加攻撃を行った後、HPを最大HP<color style='color:#f29e38;'> 10.0% </color>分回復する。",
+            "キャラが追加攻撃を行った後、HPを最大HP<color style='color:#f29e38;'> 15.0% </color>分回復する。"
         ],
         "SimpleDesc": [
-            "When a character launches a follow-up attack, they restore HP.",
-            "When a character launches a follow-up attack, they restore HP."
+            "キャラが追加攻撃を行った後、HPを回復する。",
+            "キャラが追加攻撃を行った後、HPを回復する。"
         ],
         "Effects": []
     },
@@ -2060,14 +2060,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 1,
         "Icon": "/IconRogueJoy02.png",
-        "Name": "<i>Platinum Age</i>",
+        "Name": "『{RUBY_B#はっきんじだい}白金時代{RUBY_E#}』",
         "Desc": [
-            "After characters launch follow-up attacks, increase their DEF by <color style='color:#f29e38;'> 40.0% </color> for <color style='color:#f29e38;'> 1.0 </color> turn(s).",
-            "After characters launch follow-up attacks, increase their DEF by <color style='color:#f29e38;'> 40.0% </color> for <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "キャラが追加攻撃を行った後、防御力+<color style='color:#f29e38;'> 40.0% </color>、<color style='color:#f29e38;'> 1.0 </color>ターン継続。",
+            "キャラが追加攻撃を行った後、防御力+<color style='color:#f29e38;'> 40.0% </color>、<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "When a character launches a follow-up attack, their DEF increases.",
-            "When a character launches a follow-up attack, their DEF increases."
+            "キャラが追加攻撃を行った後、防御力アップ。",
+            "キャラが追加攻撃を行った後、防御力アップ。"
         ],
         "Effects": []
     },
@@ -2076,14 +2076,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 1,
         "Icon": "/IconRogueJoy03.png",
-        "Name": "<i>Clockwork Apple</i>",
+        "Name": "『{RUBY_B#とけいじか}時計仕掛{RUBY_E#}けのリンゴ』",
         "Desc": [
-            "After characters launch follow-up attacks, increases SPD by <color style='color:#f29e38;'> 16.0% </color> for <color style='color:#f29e38;'> 1.0 </color> turn(s).",
-            "After characters launch follow-up attacks, increases SPD by <color style='color:#f29e38;'> 16.0% </color> for <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "キャラが追加攻撃を行った後、速度+<color style='color:#f29e38;'> 16.0% </color>、<color style='color:#f29e38;'> 1.0 </color>ターン継続。",
+            "キャラが追加攻撃を行った後、速度+<color style='color:#f29e38;'> 16.0% </color>、<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "When a character launches a follow-up attack, their SPD increases.",
-            "When a character launches a follow-up attack, their SPD increases."
+            "キャラが追加攻撃を行った後、速度アップ。",
+            "キャラが追加攻撃を行った後、速度アップ。"
         ],
         "Effects": []
     },
@@ -2092,12 +2092,12 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/BgPathsKnight.png",
-        "Name": "Path Resonance: Preservation",
+        "Name": "{RUBY_B#うんめい}運命{RUBY_E#}の{RUBY_B#はんきょう}反響{RUBY_E#}：「{RUBY_B#そんご}存護{RUBY_E#}」",
         "Desc": [
-            "Spend  100  points of Energy to use this ability and resonate with the Path of Preservation, dealing Physical DMG to all enemies based on the total Shield between all allies."
+            "RPを 100 消費してスキルを発動できる。「存護」の運命と共鳴し、味方全体の総バリア耐久値に応じて、敵全体に物理ダメージを与える。"
         ],
         "SimpleDesc": [
-            "After using the Path Resonance, deals Physical DMG to all enemies based on the max DMG that can be absorbed by Shields on all allies."
+            "運命の反響を発動すると、味方全体の総バリア耐久値に応じて、敵全体に物理ダメージを与える。"
         ],
         "Effects": []
     },
@@ -2106,12 +2106,12 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/IconRogueKnight01.png",
-        "Name": "Resonance Formation: Zero-Dimensional Reinforcement",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#せきしゅつこうか}析出硬化{RUBY_E#}",
         "Desc": [
-            "The attacks of Path Resonance: Preservation become CRIT Hits. For every Shielded character on the team, the CRIT DMG increases by <color style='color:#f29e38;'> 15.0% </color>."
+            "運命の反響「存護」による攻撃は必ず会心が発生する。パーティ内のバリアを持つキャラ1名につき、会心ダメージ+<color style='color:#f29e38;'> 15.0% </color>。"
         ],
         "SimpleDesc": [
-            "The attacks of Path Resonance: Preservation are guaranteed to CRIT. The more characters there are with Shields, the higher the CRIT DMG."
+            "運命の反響「存護」の攻撃は必ず会心が発生する。バリアを持つ味方キャラが多いほど、会心ダメージアップ。"
         ],
         "Effects": []
     },
@@ -2120,12 +2120,12 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Resonance Formation: Eutectic Reaction",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#きょうしょうはんのう}共晶反応{RUBY_E#}",
         "Desc": [
-            "When Path Resonance is used, all allies gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'> 1.0% </color> of their respective Max HP, for 2 turns, and <u class='infou'>Amber</u> is applied to all allies at the same time."
+            "運命の反響を発動した時、味方全体にそれぞれの最大HP<color style='color:#f29e38;'> 1.0% </color>分の耐久値を持つバリアを付与する、2ターン継続。同時に味方全体に「<u class='infou'>琥珀</u>」状態を付与する。"
         ],
         "SimpleDesc": [
-            "Applies a Shield and <u class='infou'>Amber</u> to all characters after using a Path Resonance."
+            "運命の反響を発動した時、味方全体にバリアを付与し、「<u class='infou'>琥珀</u>」状態を付与する。"
         ],
         "Effects": [
             60000006
@@ -2136,12 +2136,12 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/IconRogueKnight05.png",
-        "Name": "Resonance Formation: Isomorphous Reaction",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#ぜんりつこようたい}全率固溶体{RUBY_E#}",
         "Desc": [
-            "When entering battle, Path Resonance regenerates <color style='color:#f29e38;'> 40.0% </color> Energy. When an ally gains a Shield, Path Resonance additionally regenerates <color style='color:#f29e38;'> 3.0% </color> Energy."
+            "戦闘に入る時、運命の反響のRPを<color style='color:#f29e38;'> 40.0% </color>回復する。味方がバリアを獲得した時、さらにRPを<color style='color:#f29e38;'> 3.0% </color>回復する。"
         ],
         "SimpleDesc": [
-            "When entering battle, Path Resonance regenerates Energy. When a character gains Shield, Path Resonance regenerates Energy."
+            "戦闘に入る時、RPを回復する。味方キャラがバリアを獲得した時、RPを回復する。"
         ],
         "Effects": []
     },
@@ -2150,12 +2150,12 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/BgPathsWarlock.png",
-        "Name": "Path Resonance: Nihility",
+        "Name": "{RUBY_B#うんめい}運命{RUBY_E#}の{RUBY_B#はんきょう}反響{RUBY_E#}：「{RUBY_B#きょむ}虚無{RUBY_E#}」",
         "Desc": [
-            "Spend  100  points of Energy to use this ability and resonate with the Path of Nihility, with a <color style='color:#f29e38;'> 80.0% </color> base chance to apply Burn, Shock, Bleed, and 2 stacks of Wind Shear on all enemies for <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "RPを 100 消費してスキルを発動できる。「虚無」の運命と共鳴し、<color style='color:#f29e38;'> 80.0% </color>の基礎確率で敵全体を燃焼、感電、裂創と2層の風化状態にする、<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "After using a Path Resonance, there is a high chance of applying Burn, Shock, Bleed, and Wind Shear on all enemies."
+            "運命の反響を発動すると、高確率で敵全体を燃焼、感電、裂創、風化状態にする。"
         ],
         "Effects": []
     },
@@ -2164,12 +2164,12 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/IconRogueWarlock05.png",
-        "Name": "Resonance Formation: The Doubtful Fourfold Root",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#うたが}疑{RUBY_E#}いの{RUBY_B#よっ}四{RUBY_E#}つの{RUBY_B#ね}根{RUBY_E#}",
         "Desc": [
-            "When using Path Resonance, increases the base chance of applying statuses by  100%  and the duration of statuses by 1 turn, and adds 1 stack to all stackable statuses."
+            "運命の反響を発動した時、デバフを付与する基礎確率+ 100% 、継続時間+1ターン。累積できるデバフの付与層数+1。"
         ],
         "SimpleDesc": [
-            "When using the Path Resonance, increases the base chance of inflicting status effects, extends the duration of these status effects, and adds to their stacks."
+            "運命の反響で状態を付与する基礎確率アップ、状態の継続時間アップ、累積上限アップ。"
         ],
         "Effects": []
     },
@@ -2178,12 +2178,12 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "Resonance Formation: Suffering and Sunshine",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#くなん}苦難{RUBY_E#}と{RUBY_B#ようこう}陽光{RUBY_E#}",
         "Desc": [
-            "The attacks of Path Resonance: Nihility have a  100%  base chance to inflict 2 stacks of <u class='infou'>Confusion</u> and 2 stacks of <u class='infou'>Devoid</u> on all enemies for <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "運命の反響「虚無」の攻撃は、 100% の基礎確率で敵全体に2層の「<u class='infou'>戸惑い</u>」効果と2層の「<u class='infou'>空虚</u>」効果を付与する。<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "The attacks of Path Resonance: Nihility have a high chance to apply <u class='infou'>Confusion</u> and <u class='infou'>Devoid</u>."
+            "運命の反響「虚無」の攻撃は、高確率で「<u class='infou'>戸惑い</u>」と「<u class='infou'>空虚</u>」状態を付与する。"
         ],
         "Effects": [
             60000007,
@@ -2195,12 +2195,12 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/IconRogueWarlock05.png",
-        "Name": "Resonance Formation: Outsider",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#いほうじん}異邦人{RUBY_E#}",
         "Desc": [
-            "When entering battle, Path Resonance regenerates <color style='color:#f29e38;'> 40.0% </color> Energy. When an enemy receives DoT, Path Resonance additionally regenerates <color style='color:#f29e38;'> 2.0% </color> Energy."
+            "戦闘に入る時、運命の反響のRPを<color style='color:#f29e38;'> 40.0% </color>回復する。敵が持続ダメージを受けた時、さらにRPを<color style='color:#f29e38;'> 2.0% </color>回復する。"
         ],
         "SimpleDesc": [
-            "When entering battle, Path Resonance regenerates Energy. When an enemy receives DoT, Path Resonance regenerates Energy."
+            "戦闘に入る時、RPを回復する。敵が持続ダメージを受けた時、RPを回復する。"
         ],
         "Effects": []
     },
@@ -2209,12 +2209,12 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/BgPathsPirest.png",
-        "Name": "Path Resonance: Abundance",
+        "Name": "{RUBY_B#うんめい}運命{RUBY_E#}の{RUBY_B#はんきょう}反響{RUBY_E#}：「{RUBY_B#ほうじょう}豊穣{RUBY_E#}」",
         "Desc": [
-            "Spend  100  points of Energy to use this ability and resonate with the Path of Abundance, restore HP for all allies by <color style='color:#f29e38;'> 50.0% </color> of their respective Max HP, and increases their respective Max HP by <color style='color:#f29e38;'> 15.0% </color> for <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "RPを 100 消費してスキルを発動できる。「豊穣」の運命と共鳴し、味方全体のHPをそれぞれの最大HP<color style='color:#f29e38;'> 50.0% </color>分回復し、最大HP+<color style='color:#f29e38;'> 15.0% </color>、<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "After using Path Resonance, restores all allies' HP and increases their respective Max HP."
+            "運命の反響を発動した後、味方全体のHPを回復し、最大HPアップ。"
         ],
         "Effects": []
     },
@@ -2223,12 +2223,12 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Resonance Formation: Terminal Nirvana",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#むよねはん}無余涅槃{RUBY_E#}",
         "Desc": [
-            "When any ally receives lethal DMG, the Resonance of Path of Abundance prevents them from being knocked down and automatically consumes all Energy to release Path Resonance. This effect can trigger up to <color style='color:#f29e38;'> 1.0 </color> time(s) per battle."
+            "味方がHPが0になる攻撃を受けた時、「豊穣」の反響によって戦闘不能状態になるのを防ぎ、すべてのRPを消費して自動的に運命の反響を発動する。この効果は一度の戦闘で<color style='color:#f29e38;'> 1.0 </color>回まで発動できる。"
         ],
         "SimpleDesc": [
-            "When characters receive lethal DMG, they will not be knocked down and will automatically activate Path Resonance (consuming all Energy) instead. This effect can be triggered a limited amount of times per battle."
+            "味方はHPが0になる攻撃を受けても戦闘不能状態にならず、RPを消費して自動的に運命の反響を発動する、発動回数の制限あり。"
         ],
         "Effects": []
     },
@@ -2237,12 +2237,12 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/IconRoguePirest05.png",
-        "Name": "Resonance Formation: Anicca",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#しょぎょうむじょう}諸行無常{RUBY_E#}",
         "Desc": [
-            "After releasing a Path Resonance, removes all characters' debuffs and applies <color style='color:#f29e38;'> 1.0 </color> stack(s) of <u class='infou'>Subduing Evils</u> for <color style='color:#f29e38;'> 1.0 </color> turn(s)."
+            "運命の反響を発動した後、すべてのキャラのデバフを解除し、「<u class='infou'>諸厄調伏</u>」状態を<color style='color:#f29e38;'> 1.0 </color>層付与する、<color style='color:#f29e38;'> 1.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "After using the Path Resonance, remove debuffs from all characters and apply <u class='infou'>Subduing Evils</u>."
+            "運命の反響を発動した後、全てのキャラのデバフを解除し、「<u class='infou'>諸厄調伏</u>」状態を付与する。"
         ],
         "Effects": [
             60000009
@@ -2253,12 +2253,12 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/IconRoguePirest05.png",
-        "Name": "Resonance Formation: Anatta",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#しょほうむが}諸法無我{RUBY_E#}",
         "Desc": [
-            "After Path Resonance Energy is consumed for the first time in battle for the use of Path Resonance, the Path Resonance for Abundance will appear on the action order. The Outgoing Healing provided by this Resonance decreases by <color style='color:#f29e38;'> 30.0% </color>. When this Resonance takes action, it will automatically release Path Resonance to heal allies."
+            "戦闘内で初めてRPを消費し、運命の反響を発動した後、アクションバーに「豊穣」の反響が現れる。その反響の治癒量-<color style='color:#f29e38;'> 30.0% </color>、ターンが回ってきた時に自動で運命の反響を1回発動し、味方を治癒する。"
         ],
         "SimpleDesc": [
-            "After using Path Resonance for the first time in a battle, Path Resonance: Abundance will appear on the action order."
+            "戦闘内で初めて運命の反響を発動した後、アクションバーに「豊穣」の反響が出現する。"
         ],
         "Effects": []
     },
@@ -2267,12 +2267,12 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/BgPathsRogue.png",
-        "Name": "Path Resonance: The Hunt",
+        "Name": "{RUBY_B#うんめい}運命{RUBY_E#}の{RUBY_B#はんきょう}反響{RUBY_E#}：「{RUBY_B#じゅんしゅ}巡狩{RUBY_E#}」",
         "Desc": [
-            "Spend  100  points of Energy to use this ability and resonate with the Path of The Hunt, dealing Wind DMG to all enemies based on the current ATK of the character currently with the highest ATK."
+            "RPを 100 消費してスキルを発動できる。「巡狩」の運命と共鳴し、現在攻撃力が最も高い味方キャラの現在の攻撃力に応じて、敵全体に風属性ダメージを与える。"
         ],
         "SimpleDesc": [
-            "After using the Path Resonance, deals Wind DMG to all enemy units based on the ATK of the character with the highest ATK on the team."
+            "運命の反響を発動すると、攻撃力が最も高い味方キャラの攻撃力に応じて、敵全体に風属性ダメージを与える。"
         ],
         "Effects": []
     },
@@ -2281,12 +2281,12 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Resonance Formation: Star Hunter",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#ほし}星{RUBY_E#}を{RUBY_B#か}狩{RUBY_E#}りて{RUBY_B#ひ}日{RUBY_E#}を{RUBY_B#めぐ}巡{RUBY_E#}る",
         "Desc": [
-            "When using Path Resonance, the ally with the highest ATK will be given a turn instantly and be granted <u class='infou'>Light-Hunting Celestial Arrow</u>, lasting until this ally uses any ability."
+            "運命の反響を発動した後、攻撃力が最も高い味方キャラを即座に行動させ、そのキャラに「<u class='infou'>光巡の天矢</u>」状態を付与する、効果は当該キャラが戦闘スキルを発動した後まで継続する。"
         ],
         "SimpleDesc": [
-            "When using the Path Resonance, the character with the highest ATK will instantly act and become <u class='infou'>Light-Hunting Celestial Arrow</u>."
+            "運命の反響を発動すると、攻撃力が最も高い味方キャラが即座行動し、そのキャラに「<u class='infou'>光巡の天矢</u>」状態を付与する。"
         ],
         "Effects": [
             60000010
@@ -2297,12 +2297,12 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/IconRogueRogue01.png",
-        "Name": "Resonance Formation: Bow and Arrow",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#つみゆみ}柘弓{RUBY_E#}に{RUBY_B#しつや}疾矢{RUBY_E#}",
         "Desc": [
-            "When <color style='color:#f29e38;'>Path Resonance: The Hunt</color> deals damage, enemies whose HP is lower than <color style='color:#f29e38;'> 50.0% </color> are guaranteed to receive CRIT Hits, with the CRIT DMG at <color style='color:#f29e38;'> 50.0% </color>. When the enemy is defeated, regenerates <color style='color:#f29e38;'> 50.0% </color> Energy."
+            "運命の反響「巡狩」が攻撃を行う時、残りHPが<color style='color:#f29e38;'> 50.0% </color>未満の敵に対して必ず会心が発生する、会心ダメージは<color style='color:#f29e38;'> 50.0% </color>。運命の反響「巡狩」で敵を倒した後、RPを<color style='color:#f29e38;'> 50.0% </color>回復する。"
         ],
         "SimpleDesc": [
-            "Attacks from Path Resonance: The Hunt are guaranteed to CRIT against enemies with HP lower than <color style='color:#f29e38;'> 50.0% </color>. Path Resonance: The Hunt regenerates energy if it defeats an enemy."
+            "運命の反響「巡狩」が攻撃を行う時、残りHPが<color style='color:#f29e38;'> 50.0% </color>未満の敵に対して必ず会心が発生する。敵を倒すとRPを回復する。"
         ],
         "Effects": []
     },
@@ -2311,12 +2311,12 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/IconRogueRogue05.png",
-        "Name": "Resonance Formation: Perfect Aim",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#しゃ}射{RUBY_E#}は{RUBY_B#かわ}皮{RUBY_E#}を{RUBY_B#おも}主{RUBY_E#}とせず",
         "Desc": [
-            "Increase the Energy limit of Path Resonance from  100  to  200  points. When an ally's turn starts, additionally regenerates <color style='color:#f29e38;'> 3.0% </color> Energy for Path Resonance."
+            "最大RPが 100 から 200 に増加する。味方キャラのターンが回ってきた時、さらにRPを<color style='color:#f29e38;'> 3.0% </color>回復する。"
         ],
         "SimpleDesc": [
-            "Doubles the Energy limit of Path Resonance. Path Resonance regenerates Energy at the start of every character's turn."
+            "運命の反響の最大RPが倍になる。キャラのターンが回ってきた時、RPを回復する。"
         ],
         "Effects": []
     },
@@ -2325,12 +2325,12 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/BgPathsWarrior.png",
-        "Name": "Path Resonance: Destruction",
+        "Name": "{RUBY_B#うんめい}運命{RUBY_E#}の{RUBY_B#はんきょう}反響{RUBY_E#}：「{RUBY_B#かいめつ}壊滅{RUBY_E#}」",
         "Desc": [
-            "Spend  100  points of Energy to use this ability and resonate with the Path of Destruction, dealing Fire DMG to all enemies based on the current HP difference between Max HP and current HP for all allies combined."
+            "RPを 100 消費してスキルを発動できる。「壊滅」の運命と共鳴し、味方全体の失ったHPの総量に応じて、敵全体に炎属性ダメージを与える。"
         ],
         "SimpleDesc": [
-            "After using the Path Resonance, deals Fire DMG to all enemies based on the HP difference between all allies' Max HP and their current HP."
+            "運命の反響を発動すると、味方全体の失ったHPに応じて、敵全体に炎属性ダメージを与える。"
         ],
         "Effects": []
     },
@@ -2339,12 +2339,12 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/IconRogueWarrior01.png",
-        "Name": "Resonance Formation: Cataclysmic Variable",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#げきへんせい}激変星{RUBY_E#}",
         "Desc": [
-            "Using a Path Resonance will consume HP from all allies up to <color style='color:#f29e38;'> 40.0% </color> of their respective Max HP, increasing the DMG of Path Resonance: Destruction by <color style='color:#f29e38;'> 20.0% </color>. The amount of HP consumed will be converted into a Shield lasting for <color style='color:#f29e38;'> 2.0 </color> turn(s), with the same Shield value as the HP lost."
+            "運命の反響を発動すると、味方全体のHPをそれぞれの最大HPの<color style='color:#f29e38;'> 40.0% </color>まで消費し、運命の反響「壊滅」の与ダメージ+<color style='color:#f29e38;'> 20.0% </color>。消費したHPは同等の耐久値を持つバリアに転換される、<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "After using the Path Resonance, consume characters' HP and turn the value into Shields. The DMG of Path Resonance: Destruction increases."
+            "運命の反響を発動すると、味方キャラのHPを消費してバリアに転換する。運命の反響「壊滅」の与ダメージアップ。"
         ],
         "Effects": []
     },
@@ -2353,12 +2353,12 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/IconRogueWarrior04.png",
-        "Name": "Resonance Formation: Extreme Helium Flash",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：ヘリウムフラッシュ",
         "Desc": [
-            "The attacks of Path Resonance: Destruction have a  150%  base chance to inflict <u class='infou'>Entropic Retribution</u> on the enemy target for <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "運命の反響「壊滅」の攻撃は、 150% の基礎確率で敵を「<u class='infou'>破滅の笞罪</u>」状態にする、<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "The attacks of Path Resonance: Destruction have a high chance to apply <u class='infou'>Entropic Retribution</u> on enemies."
+            "運命の反響「壊滅」の攻撃は、高確率で敵に「<u class='infou'>破滅の笞罪</u>」状態にする。"
         ],
         "Effects": [
             60000011
@@ -2369,12 +2369,12 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/IconRogueWarrior05.png",
-        "Name": "Resonance Formation: Event Horizon",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#じしょう}事象{RUBY_E#}の{RUBY_B#ちへいせん}地平線{RUBY_E#}",
         "Desc": [
-            "When an ally whose current HP is below <color style='color:#f29e38;'> 35.0% </color> gets attacked, automatically releases 1 Path Resonance without consuming Energy. This effect can be triggered up to a max of <color style='color:#f29e38;'> 2.0 </color> time(s) in a single battle and cannot be triggered multiple times by the same attack."
+            "味方キャラが攻撃を受けた後、残りHPが<color style='color:#f29e38;'> 35.0% </color>未満の場合、RPを消費せず、自動で運命の反響を1回発動する。この効果は一度の戦闘で<color style='color:#f29e38;'> 2.0 </color>回まで発動できる、そして1回の攻撃では複数回発動できない。"
         ],
         "SimpleDesc": [
-            "When a character is hit and their HP is lower than <color style='color:#f29e38;'> 35.0% </color> of their Max HP, Path Resonance will be used 1 time at no cost."
+            "キャラが攻撃を受けた後、残りHPが<color style='color:#f29e38;'> 35.0% </color>未満の場合、自動で運命の反響を1回発動する、RPは消費しない。"
         ],
         "Effects": []
     },
@@ -2383,12 +2383,12 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/BgPathsMemory.png",
-        "Name": "Path Resonance: Remembrance",
+        "Name": "{RUBY_B#うんめい}運命{RUBY_E#}の{RUBY_B#はんきょう}反響{RUBY_E#}：「{RUBY_B#きおく}記憶{RUBY_E#}」",
         "Desc": [
-            "Spend  100  points of Energy to use this ability and resonate with the Path of Remembrance, dealing Ice DMG to all enemies with a <color style='color:#f29e38;'> 120.0% </color> base chance to Freeze all enemies for <color style='color:#f29e38;'> 1.0 </color> turn(s)."
+            "RPを 100 消費してスキルを発動できる。「記憶」の運命と共鳴し、敵全体に氷属性ダメージを与え、<color style='color:#f29e38;'> 120.0% </color>の基礎確率で敵全体を凍結状態にする、<color style='color:#f29e38;'> 1.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "After using Path Resonance, deals Ice DMG to all enemies with a high chance of Freezing them."
+            "運命の反響を発動した後、敵全体に氷属性ダメージを与え、高確率で凍結状態にする。"
         ],
         "Effects": []
     },
@@ -2397,12 +2397,12 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Resonance Formation: Total Recall",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#ぜんめんついおく}全面追憶{RUBY_E#}",
         "Desc": [
-            "When Path Resonance is used, there is a  150%  base chance to decrease enemies' chance to resist Frozen by  100%  for <color style='color:#f29e38;'> 1.0 </color> turn(s)."
+            "運命の反響を発動した時、 150% の基礎確率で敵が凍結状態を抵抗する確率 -100% 、<color style='color:#f29e38;'> 1.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "When using Path Resonance, there is a high chance of reducing all enemies' Freeze RES."
+            "運命の反響を発動すると、高確率で敵全体の凍結状態耐性ダウン。"
         ],
         "Effects": []
     },
@@ -2411,12 +2411,12 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Resonance Formation: Rich Experience",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#たいけん}体験{RUBY_E#}の{RUBY_B#ふごう}富豪{RUBY_E#}",
         "Desc": [
-            "When using Path Resonance, there is a  150%  base chance to apply <u class='infou'>Eonian River</u> to all enemies for 1 turn."
+            "運命の反響を発動した時、 150% の基礎確率で敵全体を「<u class='infou'>永久の河</u>」状態にする、1ターン継続。"
         ],
         "SimpleDesc": [
-            "After using Path Resonance, there is a high chance to apply <u class='infou'>Eonian River</u> to all enemies."
+            "運命の反響を発動した後、高確率で敵全体を「<u class='infou'>永久の河</u>」状態にする。"
         ],
         "Effects": [
             60000015
@@ -2427,12 +2427,12 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/IconRogueMemory05.png",
-        "Name": "Resonance Formation: First Love Once More",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#にどめ}二度目{RUBY_E#}の{RUBY_B#はつこい}初恋{RUBY_E#}",
         "Desc": [
-            "Upon battle entrance, Path Resonance regenerates <color style='color:#f29e38;'> 40.0% </color> Energy. When an enemy becomes Frozen, Path Resonance additionally regenerates <color style='color:#f29e38;'> 5.0% </color> Energy."
+            "戦闘に入る時、運命の反響のRPを<color style='color:#f29e38;'> 40.0% </color>回復する。敵が凍結状態になった時、さらにRPを<color style='color:#f29e38;'> 5.0% </color>回復する。"
         ],
         "SimpleDesc": [
-            "When entering battle, Path Resonance regenerates Energy. When an enemy becomes Frozen, Path Resonance regenerates Energy."
+            "戦闘開始時、RPを回復する。敵が凍結状態になると、RPを回復する。"
         ],
         "Effects": []
     },
@@ -2441,12 +2441,12 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/BgPathsJoy.png",
-        "Name": "Path Resonance: Elation",
+        "Name": "{RUBY_B#うんめい}運命{RUBY_E#}の{RUBY_B#はんきょう}反響{RUBY_E#}：「{RUBY_B#ゆえつ}愉悦{RUBY_E#}」",
         "Desc": [
-            "Spend  100  points of Energy to use this ability and resonate with the Path of Elation, dealing follow-up attacks of a random Type to all enemies for <color style='color:#f29e38;'> 3.0 </color> – <color style='color:#f29e38;'> 5.0 </color> time(s)."
+            "RPを 100 消費してスキルを発動できる。「愉悦」の運命と共鳴し、敵全体に<color style='color:#f29e38;'> 3.0 </color>～<color style='color:#f29e38;'> 5.0 </color>回、ランダムな属性の追加攻撃ダメージを与える。"
         ],
         "SimpleDesc": [
-            "After using Path Resonance, deals a random number of follow-up attacks of random Types to all enemies."
+            "運命の反響を発動すると、敵全体にランダムな属性の追加攻撃ダメージを数回与える。"
         ],
         "Effects": []
     },
@@ -2455,12 +2455,12 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/IconRogueJoy04.png",
-        "Name": "Resonance Formation: Doomsday Carnival",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#しゅうまつ}終末{RUBY_E#}の{RUBY_B#きょうえん}狂宴{RUBY_E#}",
         "Desc": [
-            "When Path Resonance: Elation deals DMG, there is a  150%  base chance to apply <u class='infou'>Sensory Pursuit</u> to enemies for 1 turn."
+            "運命の反響「愉悦」がダメージを与えた時、 150% の基礎確率で敵を「<u class='infou'>感覚追猟</u>」状態にする、1ターン継続。"
         ],
         "SimpleDesc": [
-            "Every time Path Resonance deals DMG, there is a high chance to apply <u class='infou'>Sensory Pursuit</u> to the target enemy."
+            "運命の反響がダメージを与えるたびに、高確率で敵を「<u class='infou'>感覚追猟</u>」状態にする。"
         ],
         "Effects": [
             60000014
@@ -2471,12 +2471,12 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/IconRogueJoy01.png",
-        "Name": "Resonance Formation: Dance of Growth",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#なえぎ}苗木{RUBY_E#}が{RUBY_B#そだ}育{RUBY_E#}つ{RUBY_B#おど}踊{RUBY_E#}り",
         "Desc": [
-            "Increase the Energy limit of Path Resonance from  100  to  200  points. Using abilities to resonate with a Path will consume all Energy. For every <color style='color:#f29e38;'> 20.0% </color> Energy consumed that exceeds the original limit, attacks will deal DMG for 1 extra time."
+            "最大RPが 100 から 200 に増加する。スキルを発動して運命と共鳴した時、RPを全部消費する。本来の最大RP<color style='color:#f29e38;'> 20.0% </color>分のRPを追加で消費するごとに、攻撃のヒット数+1。"
         ],
         "SimpleDesc": [
-            "Doubles the Energy limit of Path Resonance. When using Path Resonance, consume all Energy to increase the number of damaging hits from the Resonance."
+            "運命の反響の最大RPが倍になる。運命の反響を発動すると、RPを全部消費してヒット数アップ。"
         ],
         "Effects": []
     },
@@ -2485,12 +2485,12 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/IconRogueJoy05.png",
-        "Name": "Resonance Formation: Instant Win",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：もう{RUBY_B#いっぽん}1本{RUBY_E#}",
         "Desc": [
-            "When entering battle, Path Resonance regenerates <color style='color:#f29e38;'> 40.0% </color> Energy. When a character launches a follow-up attack, Path Resonance additionally regenerates <color style='color:#f29e38;'> 5.0% </color> Energy."
+            "戦闘に入る時、運命の反響のRPを<color style='color:#f29e38;'> 40.0% </color>回復する。キャラが追加攻撃を行った後、さらにRPを<color style='color:#f29e38;'> 5.0% </color>回復する。"
         ],
         "SimpleDesc": [
-            "When entering battle, Path Resonances regenerates energy. When characters launch follow-up attacks, Path Resonances regenerates energy."
+            "戦闘開始時、RPを回復する。キャラが追加攻撃を行うと、RPを回復する。"
         ],
         "Effects": []
     },
@@ -2499,12 +2499,12 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/BgPathsPropagation.png",
-        "Name": "Path Resonance: Propagation",
+        "Name": "{RUBY_B#うんめい}運命{RUBY_E#}の{RUBY_B#はんきょう}反響{RUBY_E#}：「{RUBY_B#はんしょく}繁殖{RUBY_E#}」",
         "Desc": [
-            "Consumes  100  Energy to resonate with the Path of Propagation and allows a target ally to immediately take action, recover <color style='color:#f29e38;'> 2.0 </color> Skill Point(s) and become affected by <u class='infou'>Metamorphosis</u>. <u class='infou'>Metamorphosis</u> lasts for 1 turn and only takes effect on the latest target."
+            "RPを 100 消費してスキルを発動できる。「繁殖」の運命と共鳴し、指定した味方単体を即座に行動させ、SPを<color style='color:#f29e38;'> 2.0 </color>回復し、「<u class='infou'>変成</u>」効果を獲得する。「<u class='infou'>変成</u>」効果は1ターン継続し、最後のターゲットにのみ効果を発揮する。"
         ],
         "SimpleDesc": [
-            "After using a Path Resonance, a target ally immediately takes action, recovering <color style='color:#f29e38;'> 2.0 </color> Skill Point(s) and activating <u class='infou'>Metamorphosis</u>."
+            "運命の反響を発動した後、指定した味方を即座に行動させ、SPを<color style='color:#f29e38;'> 2.0 </color>回復して「<u class='infou'>変成</u>」効果を付与する。"
         ],
         "Effects": [
             60000016
@@ -2515,12 +2515,12 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Resonance Formation: Proboscis",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#きゅうしゅうこうき}吸収口器{RUBY_E#}",
         "Desc": [
-            "Extends the duration of <u class='infou'>Metamorphosis</u> for 1 turn. After a character with <u class='infou'>Metamorphosis</u> defeats an enemy, Path Resonance regenerates <color style='color:#f29e38;'> 20.0% </color> Energy."
+            "「<u class='infou'>変成</u>」効果の継続時間+1ターン。「<u class='infou'>変成</u>」効果を持つキャラが敵を倒した後、運命の反響のRPを<color style='color:#f29e38;'> 20.0% </color>回復する。"
         ],
         "SimpleDesc": [
-            "The duration of <u class='infou'>Metamorphosis</u> is extended for 1 turn. After a character with <u class='infou'>Metamorphosis</u> defeats an enemy, Path Resonance regenerates Energy."
+            "「<u class='infou'>変成</u>」効果の継続時間+1ターン。「<u class='infou'>変成</u>」効果を持つキャラが敵を倒した後、RPを回復する。"
         ],
         "Effects": [
             60000016
@@ -2531,12 +2531,12 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Resonance Formation: Phenol Compounds",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：フェノール{RUBY_B#るい}類{RUBY_E#}",
         "Desc": [
-            "Increase the Energy limit of Path Resonance from  100  to  200  points. After a character consumes or recovers Skill Points, additionally regenerates <color style='color:#f29e38;'> 1.0% </color> Energy for Path Resonance."
+            "最大RPが 100 から 200 に増加する。キャラがSPを消耗または回復した後、さらに運命の反響のRPを<color style='color:#f29e38;'> 1.0% </color>回復する。"
         ],
         "SimpleDesc": [
-            "Path Resonance's Energy limit is doubled. After a character consumes or recovers Skill Points, Path Resonance regenerates energy."
+            "運命の反響の最大RPが倍になる。キャラがSPを消費または回復した後、RPを回復する。"
         ],
         "Effects": []
     },
@@ -2545,12 +2545,12 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/IconRoguePropagation01.png",
-        "Name": "Resonance Formation: Crystal Pincers",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#けっしょうどくばり}結晶毒針{RUBY_E#}",
         "Desc": [
-            "<u class='infou'>Metamorphosis</u> additionally increases DMG dealt by a character by <color style='color:#f29e38;'> 40.0% </color>. Only when a character is under the <u class='infou'>Metamorphosis</u> effect can they cause <u class='infou'>Spores</u> to burst. Every time a character causes a <u class='infou'>Spore</u> to burst, additionally deal Basic ATK DMG equal to <color style='color:#f29e38;'> 80.0% </color> of the character's ATK. This effect can trigger up to <color style='color:#f29e38;'> 3.0 </color> time(s) on the same target."
+            "「<u class='infou'>変成</u>」効果はさらにキャラの与ダメージを<color style='color:#f29e38;'> 40.0% </color>アップする。キャラが「<u class='infou'>変成</u>」効果を持つ時のみ、「<u class='infou'>胞子</u>」を破裂させることができる。キャラが「<u class='infou'>胞子</u>」を1つ破裂させるたびに、さらにキャラの攻撃力<color style='color:#f29e38;'> 80.0% </color>分の通常攻撃ダメージを与える。この効果は同じターゲットに最大で<color style='color:#f29e38;'> 3.0 </color>回発動できる。"
         ],
         "SimpleDesc": [
-            "Increases DMG dealt by characters with <u class='infou'>Metamorphosis</u>. Only this type of character can cause <u class='infou'>Spores</u> to burst, dealing additional DMG after bursting."
+            "「<u class='infou'>変成</u>」効果を持つキャラの与ダメージがアップする。「<u class='infou'>変成</u>」を持つキャラのみが「<u class='infou'>胞子</u>」を破裂させられ、破裂後にさらにダメージを与える。"
         ],
         "Effects": [
             60000016,
@@ -2562,14 +2562,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Spore Discharge",
+        "Name": "{RUBY_B#しのうほうしゅつ}子嚢放出{RUBY_E#}",
         "Desc": [
-            "For each Skill Point a character consumes, all enemies will gain <color style='color:#f29e38;'> 1.0 </color> <u class='infou'>Spore(s)</u>.",
-            "For each Skill Point a character consumes, all enemies will gain <color style='color:#f29e38;'> 1.0 </color> <u class='infou'>Spores</u>. When all Skill Points are consumed, the SPD of the character who consumed the last Skill Point increases by <color style='color:#f29e38;'> 20.0% </color> for <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "キャラがSPを1消費するたびに、敵全体が「<u class='infou'>胞子</u>」を<color style='color:#f29e38;'> 1.0 </color>個獲得する。",
+            "キャラがSPを1消費するたびに、敵全体が「<u class='infou'>胞子</u>」を<color style='color:#f29e38;'> 1.0 </color>個獲得する。SPを0まで消費した場合、最後にSPを消費したキャラの速度+<color style='color:#f29e38;'> 20.0% </color>、<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "When a character consumes Skill Points, causes all enemies to receive <u class='infou'>Spores</u>.",
-            "When a character consumes Skill Points, causes all enemies to receive <u class='infou'>Spores</u>. If Skill Points are consumed to 0, increases the character's SPD."
+            "キャラがSPを消費した時、敵全体に「<u class='infou'>胞子</u>」を付与する。",
+            "キャラがSPを消費した時、敵全体に「<u class='infou'>胞子</u>」を付与する。SPを0まで消費した場合、そのキャラの速度をアップする。"
         ],
         "Effects": [
             60000017
@@ -2580,14 +2580,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Fungal Pustule",
+        "Name": "{RUBY_B#のうきん}膿菌{RUBY_E#}",
         "Desc": [
-            "For each Skill Point recovered, apply 1 <u class='infou'>Spore</u> to <color style='color:#f29e38;'> 2.0 </color> random enemy target(s).",
-            "For each Skill Point recovered, apply 1 <u class='infou'>Spore</u> to <color style='color:#f29e38;'> 2.0 </color> random enemy target(s). The max number of <u class='infou'>Spores</u> that can be possessed increases to <color style='color:#f29e38;'> 9.0 </color>."
+            "キャラがSPを1回復するたびに、ランダムな敵<color style='color:#f29e38;'> 2.0 </color>体が「<u class='infou'>胞子</u>」を1つ獲得する。",
+            "キャラがSPを1回復するたびに、ランダムな敵<color style='color:#f29e38;'> 2.0 </color>体が「<u class='infou'>胞子</u>」を1個獲得する。「<u class='infou'>胞子</u>」の最大所持数が<color style='color:#f29e38;'> 9.0 </color>個になる。"
         ],
         "SimpleDesc": [
-            "When a character recovers Skill Points, causes a random enemy to receive <u class='infou'>Spores</u>.",
-            "When a character recovers Skill Points, causes a random enemy to receive <u class='infou'>Spores</u>. Increases the number of <u class='infou'>Spores</u> they can bear."
+            "キャラがSPを回復した時、ランダムな敵に「<u class='infou'>胞子</u>」を付与する。",
+            "キャラがSPを回復した時、ランダムな敵に「<u class='infou'>胞子</u>」を付与する。「<u class='infou'>胞子</u>」の所持上限がアップする。"
         ],
         "Effects": [
             60000017
@@ -2598,14 +2598,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/IconRoguePropagation01.png",
-        "Name": "Scythe Limbs",
+        "Name": "{RUBY_B#かまじょうふぞくし}鎌状付属肢{RUBY_E#}",
         "Desc": [
-            "After a character uses their Ultimate, the next time they consume Skill Points, it will be considered as 1 additional Skill Point being consumed. For each Skill Point consumed, the character's CRIT DMG increases by <color style='color:#f29e38;'> 40.0% </color>. This effect can stack up to <color style='color:#f29e38;'> 2.0 </color> time(s), lasting until the character uses an attack.",
-            "After a character uses their Ultimate, the next time they consume or recover Skill Points, it will be considered as 1 additional Skill Point being consumed or recovered. For each Skill Point consumed, the character's CRIT DMG increases by <color style='color:#f29e38;'> 45.0% </color>. This effect can stack up to <color style='color:#f29e38;'> 2.0 </color> time(s), lasting until the character uses an attack."
+            "キャラが必殺技を発動した後、次にSPを消費する時に、追加でSPを1消費したと見なされる。SPを1消費するたびに、キャラの会心ダメージ+<color style='color:#f29e38;'> 40.0% </color>、この効果は最大で<color style='color:#f29e38;'> 2.0 </color>層累積でき、そのキャラが攻撃を行った後まで継続する。",
+            "キャラが必殺技を発動した後、次にSPを消費または回復する時に、追加でSPを消費または回復したと見なされる。SPを1消費するたびに、キャラの会心ダメージ+<color style='color:#f29e38;'> 45.0% </color>、この効果は最大で<color style='color:#f29e38;'> 2.0 </color>層累積でき、そのキャラが攻撃を行った後まで継続する。"
         ],
         "SimpleDesc": [
-            "After a character uses an Ultimate, when a Skill Point is consumed, it is considered as additionally consuming 1 Skill Point. The more Skill Points a character consumes, the higher their CRIT DMG.",
-            "After a character uses an Ultimate, when a Skill Point is consumed or recovered, it is considered as additionally consuming or recovering 1 Skill Point. The more Skill Points a character consumes, the higher their CRIT DMG."
+            "キャラが必殺技を発動した後、SPを消費する時に追加でSPを1消費したと見なされる。キャラが消費したSPが多いほど、会心ダメージがアップする。",
+            "キャラが必殺技を発動した後、SPを消費/回復する時に追加でSPを1消費/回復したと見なされる。キャラが消費したSPが多いほど、会心ダメージがアップする。"
         ],
         "Effects": []
     },
@@ -2614,14 +2614,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 2,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Putrefaction Ulcer",
+        "Name": "{RUBY_B#ふしょくしゅ}腐植腫{RUBY_E#}",
         "Desc": [
-            "Changes the number of times <u class='infou'>Spores</u> can spread after bursting to <color style='color:#f29e38;'> 2.0 </color> times. Can also spread to the original bearer of <u class='infou'>Spores</u>.",
-            "Changes the number of times <u class='infou'>Spores</u> can spread after bursting to <color style='color:#f29e38;'> 3.0 </color> times. Can also spread to the original bearer of <u class='infou'>Spores</u>."
+            "「<u class='infou'>胞子</u>」が破裂した後の伝播回数が<color style='color:#f29e38;'> 2.0 </color>回になり、「<u class='infou'>胞子</u>」を持つ敵にも伝播できるようになる。",
+            "「<u class='infou'>胞子</u>」が破裂した後の伝播回数が<color style='color:#f29e38;'> 3.0 </color>回になり、「<u class='infou'>胞子</u>」を持つ敵にも伝播できるようになる。"
         ],
         "SimpleDesc": [
-            "The number of times <u class='infou'>Spores</u> can spread after bursting increases. Can also spread to the original bearer.",
-            "The number of times <u class='infou'>Spores</u> can spread after bursting increases. Can also spread to the original bearer."
+            "「<u class='infou'>胞子</u>」が破裂した後の伝播回数がアップし、自身にも伝播できるようになる。",
+            "「<u class='infou'>胞子</u>」が破裂した後の伝播回数がアップし、自身にも伝播できるようになる。"
         ],
         "Effects": [
             60000017
@@ -2632,14 +2632,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 2,
         "Icon": "/IconRoguePropagation01.png",
-        "Name": "Lytic Enzyme",
+        "Name": "{RUBY_B#ぶんかいこうそ}分解酵素{RUBY_E#}",
         "Desc": [
-            "Increases the DMG caused by <u class='infou'>Spores</u> bursting. The DMG increased is equal to <color style='color:#f29e38;'> 35.0% </color> of the original DMG. After the target enemy was defeated, the <u class='infou'>Spores</u> they were carrying will spread to targets adjacent to them.",
-            "Increases the DMG caused by <u class='infou'>Spores</u> bursting. The DMG increased is equal to <color style='color:#f29e38;'> 50.0% </color> of the original DMG. After the target enemy was defeated, the <u class='infou'>Spores</u> they were carrying will spread to other enemy targets."
+            "「<u class='infou'>胞子</u>」の破裂による与ダメージが、本来のダメージ<color style='color:#f29e38;'> 35.0% </color>分アップする。敵が倒された後、攻撃を受ける前に持っていた「<u class='infou'>胞子</u>」を隣接する敵に伝播する。",
+            "「<u class='infou'>胞子</u>」の破裂による与ダメージが、本来のダメージ<color style='color:#f29e38;'> 50.0% </color>分アップする。敵が倒された後、攻撃を受ける前に持っていた「<u class='infou'>胞子</u>」を他の敵に伝播する。"
         ],
         "SimpleDesc": [
-            "Increases DMG dealt by <u class='infou'>Spores</u>. After an enemy is defeated, enemies adjacent to it will receive its <u class='infou'>Spores</u>.",
-            "Increases DMG dealt by <u class='infou'>Spores</u>. After an enemy is defeated, other enemies will receive its <u class='infou'>Spores</u>."
+            "「<u class='infou'>胞子</u>」の与ダメージがアップする。敵が倒された後、「<u class='infou'>胞子</u>」が隣接する敵に伝播する。",
+            "「<u class='infou'>胞子</u>」の与ダメージがアップする。敵が倒された後、「<u class='infou'>胞子</u>」が他の敵に伝播する。"
         ],
         "Effects": [
             60000017
@@ -2650,14 +2650,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 2,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Metabolic Cavity",
+        "Name": "{RUBY_B#たいしゃこう}代謝腔{RUBY_E#}",
         "Desc": [
-            "For each <u class='infou'>Spore</u> that bursts, heals the character with the lowest HP by <color style='color:#f29e38;'> 10.0% </color> of their Max HP.",
-            "For each <u class='infou'>Spore</u> possessed by all enemies, reduces the DMG received by all allies by <color style='color:#f29e38;'> 0.8% </color>, After the <u class='infou'>Spores</u> burst, heals the ally with the lowest HP by <color style='color:#f29e38;'> 12.0% </color> of their Max HP."
+            "「<u class='infou'>胞子</u>」が1つ破裂するたびに、残りHP割合が最も低いキャラが自身の最大HP<color style='color:#f29e38;'> 10.0% </color>分のHPを回復する。",
+            "敵全体にある「<u class='infou'>胞子</u>」1つにつき、味方キャラの被ダメージ-<color style='color:#f29e38;'> 0.8% </color>。「<u class='infou'>胞子</u>」が破裂した後、残りHP割合が最も低いキャラが自身の最大HP<color style='color:#f29e38;'> 12.0% </color>分のHPを回復する。"
         ],
         "SimpleDesc": [
-            "After <u class='infou'>Spores</u> burst, restores the HP of the character with the lowest HP percentage.",
-            "Based on the total number of <u class='infou'>Spores</u> on enemies, lowers DMG received by a character. After <u class='infou'>Spores</u> burst, restores the HP of the character with the lowest HP percentage."
+            "「<u class='infou'>胞子</u>」が破裂した後、残りHP割合が最も低いキャラのHPを回復する。",
+            "敵全体の「<u class='infou'>胞子</u>」総数に応じて、キャラの被ダメージをダウンする。「<u class='infou'>胞子</u>」が破裂した後、残りHP割合が最も低いキャラのHPを回復する。"
         ],
         "Effects": [
             60000017
@@ -2668,14 +2668,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 2,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Excitatory Gland",
+        "Name": "{RUBY_B#こうふんせん}興奮腺{RUBY_E#}",
         "Desc": [
-            "If the team has 0 Skill Point when an ally uses their Basic ATK, additionally recovers 1 Skill Point.",
-            "If the Skill Point is 0 when using Basic ATK, additionally recovers 1 Skill Point and has a <color style='color:#f29e38;'> 50.0% </color> fixed chance of further recovering 1 Skill Point."
+            "通常攻撃を行った時、SPが0の場合、追加でSPを1回復する。",
+            "通常攻撃を行った時、SPが0の場合、追加でSPを1回復し、<color style='color:#f29e38;'> 50.0% </color>の固定確率でさらに1回復する。"
         ],
         "SimpleDesc": [
-            "If the team has 0 Skill Point when an ally uses their Basic ATK, additionally recovers 1 Skill Point.",
-            "Upon using a Basic ATK, should your Skill Points be 0, you will additionally recover 1 Skill Point and have a random chance to recover another 1 thereafter."
+            "通常攻撃を行った時、SPが0の場合、追加でSPを1回復する。",
+            "通常攻撃を行った時、SPが0の場合、追加でSPを1回復する。確率でさらにSPを1回復できる。"
         ],
         "Effects": []
     },
@@ -2684,14 +2684,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 2,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Exposed Brain Matter",
+        "Name": "{RUBY_B#らのうしつ}裸脳質{RUBY_E#}",
         "Desc": [
-            "The DMG dealt by Basic ATK will deal DMG equal to <color style='color:#f29e38;'> 30.0% </color> of the original DMG to a random adjacent target.",
-            "The DMG dealt by Basic ATK will deal DMG equal to <color style='color:#f29e38;'> 35.0% </color> of the original DMG to adjacent targets."
+            "通常攻撃のダメージが隣接するランダムな敵単体に、本来のダメージ<color style='color:#f29e38;'> 30.0% </color>分のダメージを与える。",
+            "通常攻撃のダメージが隣接する敵に、本来のダメージ<color style='color:#f29e38;'> 35.0% </color>分のダメージを与える。"
         ],
         "SimpleDesc": [
-            "Basic ATKs will Blast a single random adjacent enemy.",
-            "Basic ATKs will Blast adjacent targets."
+            "通常攻撃のダメージが隣接するランダムな敵単体に拡散する。",
+            "通常攻撃ダメージが隣接する敵に拡散する。"
         ],
         "Effects": []
     },
@@ -2700,14 +2700,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 2,
         "Icon": "/IconRoguePropagation02.png",
-        "Name": "Intersegmental Membrane",
+        "Name": "{RUBY_B#せつかんまく}節関膜{RUBY_E#}",
         "Desc": [
-            "For each Skill Point a character consumes, the DMG received by them reduces by <color style='color:#f29e38;'> 8.0% </color> for <color style='color:#f29e38;'> 1.0 </color> turn(s). This effect can be stacked up to <color style='color:#f29e38;'> 2.0 </color> time(s).",
-            "For each Skill Point a character consumes, the DMG received by them reduces by <color style='color:#f29e38;'> 8.0% </color> for <color style='color:#f29e38;'> 1.0 </color> turn(s). This effect can be stacked up to <color style='color:#f29e38;'> 3.0 </color> time(s)."
+            "キャラがSPを1消費するごとに、被ダメージ-<color style='color:#f29e38;'> 8.0% </color>、<color style='color:#f29e38;'> 1.0 </color>ターン持続。この効果は最大で<color style='color:#f29e38;'> 2.0 </color>層累積できる。",
+            "キャラがSPを1消費するごとに、被ダメージ-<color style='color:#f29e38;'> 8.0% </color>、<color style='color:#f29e38;'> 1.0 </color>ターン持続。この効果は最大で<color style='color:#f29e38;'> 3.0 </color>層累積できる。"
         ],
         "SimpleDesc": [
-            "The more Skill Points a character consumes, the lower the DMG they receive.",
-            "The more Skill Points a character consumes, the lower the DMG they receive."
+            "キャラが消費したSPが多いほど、被ダメージがダウンする。",
+            "キャラが消費したSPが多いほど、被ダメージがダウンする。"
         ],
         "Effects": []
     },
@@ -2716,14 +2716,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 2,
         "Icon": "/IconRoguePropagation01.png",
-        "Name": "Catalyst",
+        "Name": "{RUBY_B#しょくばい}触媒{RUBY_E#}",
         "Desc": [
-            "After a character uses their Skill and if the Skill did not unleash an attack, all allies' DMG dealt increases by <color style='color:#f29e38;'> 20.0% </color> for <color style='color:#f29e38;'> 1.0 </color> turn(s). This effect can be stacked up to <color style='color:#f29e38;'> 3.0 </color> time(s).",
-            "After a character uses their Skill and if the Skill did not unleash an attack, all allies' DMG dealt increases by <color style='color:#f29e38;'> 30.0% </color> for <color style='color:#f29e38;'> 1.0 </color> turn(s). This effect can be stacked up to <color style='color:#f29e38;'> 3.0 </color> time(s)."
+            "キャラが戦闘スキルを発動した後、その戦闘スキルで攻撃を行わなかった場合、味方全体の与ダメージ+<color style='color:#f29e38;'> 20.0% </color>、<color style='color:#f29e38;'> 1.0 </color>ターン継続。この効果は最大で<color style='color:#f29e38;'> 3.0 </color>回累積できる。",
+            "キャラが戦闘スキルを発動した後、その戦闘スキルで攻撃を行わなかった場合、味方全体の与ダメージ+<color style='color:#f29e38;'> 30.0% </color>、<color style='color:#f29e38;'> 1.0 </color>ターン継続。この効果は最大で<color style='color:#f29e38;'> 3.0 </color>回累積できる。"
         ],
         "SimpleDesc": [
-            "If, after a character uses their Skill, the Skill does not initiate an attack, increases the DMG of all allies.",
-            "If, after a character uses their Skill, the Skill does not initiate an attack, increases the DMG of all allies."
+            "キャラが戦闘スキルを発動した後、その戦闘スキルで攻撃を行わなかった場合、味方全体の与ダメージをアップする。",
+            "キャラが戦闘スキルを発動した後、その戦闘スキルで攻撃を行わなかった場合、味方全体の与ダメージをアップする。"
         ],
         "Effects": []
     },
@@ -2732,14 +2732,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 1,
         "Icon": "/IconRoguePropagation01.png",
-        "Name": "Osseus Blade",
+        "Name": "{RUBY_B#こじん}骨刃{RUBY_E#}",
         "Desc": [
-            "For each Blessing of Propagation in possession, increases all characters' Basic ATK DMG by <color style='color:#f29e38;'> 9.0% </color>. This effect can stacked up to <color style='color:#f29e38;'> 6.0 </color> time(s).",
-            "For each Blessing of Propagation in possession, increases all characters' Basic ATK DMG by <color style='color:#f29e38;'> 12.0% </color>. This effect can stacked up to <color style='color:#f29e38;'> 9.0 </color> time(s)."
+            "所持する「繁殖」の祝福1個につき、キャラの通常攻撃の与ダメージ+<color style='color:#f29e38;'> 9.0% </color>、この効果は最大で<color style='color:#f29e38;'> 6.0 </color>層累積できる。",
+            "所持する「繁殖」の祝福1個につき、キャラの通常攻撃の与ダメージ+<color style='color:#f29e38;'> 12.0% </color>、この効果は最大で<color style='color:#f29e38;'> 9.0 </color>層累積できる。"
         ],
         "SimpleDesc": [
-            "The more Blessings of Propagation the team has, the higher Basic ATK DMG becomes.",
-            "The more Blessings of Propagation the team has, the higher Basic ATK DMG becomes."
+            "「繁殖」の祝福の数が多いほど、通常攻撃の与ダメージアップ。",
+            "「繁殖」の祝福の数が多いほど、通常攻撃の与ダメージアップ。"
         ],
         "Effects": []
     },
@@ -2748,14 +2748,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 1,
         "Icon": "/IconRoguePropagation01.png",
-        "Name": "Spinal Spur",
+        "Name": "{RUBY_B#せきし}脊刺{RUBY_E#}",
         "Desc": [
-            "Characters' Basic ATK CRIT Rate increases by <color style='color:#f29e38;'> 24.0% </color>.",
-            "Characters' Basic ATK CRIT Rate increases by <color style='color:#f29e38;'> 36.0% </color>."
+            "キャラの通常攻撃の会心率+<color style='color:#f29e38;'> 24.0% </color>。",
+            "キャラの通常攻撃の会心率+<color style='color:#f29e38;'> 36.0% </color>。"
         ],
         "SimpleDesc": [
-            "Increases the CRIT Rate of Characters' Basic ATK.",
-            "Increases the CRIT Rate of Characters' Basic ATK."
+            "キャラの通常攻撃の会心率アップ。",
+            "キャラの通常攻撃の会心率アップ。"
         ],
         "Effects": []
     },
@@ -2764,14 +2764,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 1,
         "Icon": "/IconRoguePropagation01.png",
-        "Name": "Channeled Needle",
+        "Name": "{RUBY_B#こうしん}口針{RUBY_E#}",
         "Desc": [
-            "Characters' Basic ATK CRIT DMG increases by <color style='color:#f29e38;'> 40.0% </color>.",
-            "Characters' Basic ATK CRIT DMG increases by <color style='color:#f29e38;'> 60.0% </color>."
+            "キャラの通常攻撃の会心ダメージ+<color style='color:#f29e38;'> 40.0% </color>。",
+            "キャラの通常攻撃の会心ダメージ+<color style='color:#f29e38;'> 60.0% </color>。"
         ],
         "SimpleDesc": [
-            "Increases the CRIT DMG of Characters' Basic ATK",
-            "Increases the CRIT DMG of Characters' Basic ATK"
+            "キャラの通常攻撃の会心ダメージアップ。",
+            "キャラの通常攻撃の会心ダメージアップ。"
         ],
         "Effects": []
     },
@@ -2780,14 +2780,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 1,
         "Icon": "/IconRoguePropagation02.png",
-        "Name": "Conjunctiva",
+        "Name": "{RUBY_B#けつまく}結膜{RUBY_E#}",
         "Desc": [
-            "After characters use Basic ATKs, their DEF increases by <color style='color:#f29e38;'> 40.0% </color> for <color style='color:#f29e38;'> 1.0 </color> turn(s).",
-            "After characters use Basic ATKs, their DEF increases by <color style='color:#f29e38;'> 40.0% </color> for <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "キャラが通常攻撃を行った後、防御力+<color style='color:#f29e38;'> 40.0% </color>、<color style='color:#f29e38;'> 1.0 </color>ターン継続。",
+            "キャラが通常攻撃を行った後、防御力+<color style='color:#f29e38;'> 40.0% </color>、<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "When a character uses a Basic ATK, their DEF increases.",
-            "When a character uses a Basic ATK, their DEF increases."
+            "キャラが通常攻撃を行った後、防御力がアップする。",
+            "キャラが通常攻撃を行った後、防御力がアップする。"
         ],
         "Effects": []
     },
@@ -2796,14 +2796,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 1,
         "Icon": "/IconRoguePropagation03.png",
-        "Name": "Scaled Wing",
+        "Name": "{RUBY_B#りんし}鱗翅{RUBY_E#}",
         "Desc": [
-            "After characters use Basic ATKs, their SPD increases by <color style='color:#f29e38;'> 16.0% </color> for <color style='color:#f29e38;'> 1.0 </color> turn(s).",
-            "After characters use Basic ATKs, their SPD increases by <color style='color:#f29e38;'> 16.0% </color> for <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "キャラが通常攻撃を行った後、速度+<color style='color:#f29e38;'> 16.0% </color>、<color style='color:#f29e38;'> 1.0 </color>ターン継続。",
+            "キャラが通常攻撃を行った後、速度+<color style='color:#f29e38;'> 16.0% </color>、<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "When a character launches a Basic ATK, their SPD increases.",
-            "When a character launches a Basic ATK, their SPD increases."
+            "キャラが通常攻撃を行った後、速度がアップする。",
+            "キャラが通常攻撃を行った後、速度がアップする。"
         ],
         "Effects": []
     },
@@ -2812,14 +2812,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 1,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Compound Eye",
+        "Name": "{RUBY_B#ふくがん}複眼{RUBY_E#}",
         "Desc": [
-            "After entering battle, recovers 1 Skill Point after each ally's turn. This effect can be triggered up to <color style='color:#f29e38;'> 3.0 </color> time(s) across all allies.",
-            "After entering battle, recovers 1 Skill Point after each ally's turn. This effect can be triggered up to <color style='color:#f29e38;'> 5.0 </color> time(s) across all allies."
+            "戦闘に入った後、味方単体が行動した後にSPを1回復する。この効果は味方全体で<color style='color:#f29e38;'> 3.0 </color>回まで発動できる。",
+            "戦闘に入った後、味方単体が行動した後にSPを1回復する。この効果は味方全体で<color style='color:#f29e38;'> 5.0 </color>回まで発動できる。"
         ],
         "SimpleDesc": [
-            "After entering battle, allies will recover Skill Points during the first <color style='color:#f29e38;'> 3.0 </color> actions.",
-            "After entering battle, allies will recover Skill Points during the first <color style='color:#f29e38;'> 5.0 </color> actions."
+            "戦闘に入った後、味方の<color style='color:#f29e38;'> 3.0 </color>回目までの行動の後にSPを回復する。",
+            "戦闘に入った後、味方の<color style='color:#f29e38;'> 5.0 </color>回目までの行動の後にSPを回復する。"
         ],
         "Effects": []
     },
@@ -2828,14 +2828,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 1,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Sporangium",
+        "Name": "{RUBY_B#ほうしのう}胞子嚢{RUBY_E#}",
         "Desc": [
-            "For each Skill Point a character consumes, the character regenerates <color style='color:#f29e38;'> 3.0 </color> extra Energy.",
-            "For each Skill Point a character consumes, the character regenerates <color style='color:#f29e38;'> 4.0 </color> extra Energy."
+            "キャラがSPを1消費するたびに、さらにEPを<color style='color:#f29e38;'> 3.0 </color>回復する。",
+            "キャラがSPを1消費するたびに、さらにEPを<color style='color:#f29e38;'> 4.0 </color>回復する。"
         ],
         "SimpleDesc": [
-            "Characters regenerate Energy when consuming Skill Points.",
-            "Characters regenerate Energy when consuming Skill Points."
+            "キャラがSPを消費した時、EPを回復する。",
+            "キャラがSPを消費した時、EPを回復する。"
         ],
         "Effects": []
     },
@@ -2844,14 +2844,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 1,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Vesicle",
+        "Name": "{RUBY_B#えきのう}液嚢{RUBY_E#}",
         "Desc": [
-            "For each Skill Point a character consumes, the character restores HP equal to <color style='color:#f29e38;'> 10.0% </color> of their Max HP.",
-            "For each Skill Point a character consumes, the character restores HP equal to <color style='color:#f29e38;'> 15.0% </color> of their Max HP."
+            "キャラがSPを1消費するたびに、最大HP<color style='color:#f29e38;'> 10.0% </color>分のHPを回復する。",
+            "キャラがSPを1消費するたびに、最大HP<color style='color:#f29e38;'> 15.0% </color>分のHPを回復する。"
         ],
         "SimpleDesc": [
-            "Characters restore HP when consuming Skill Points",
-            "Characters restore HP when consuming Skill Points"
+            "キャラがSPを消費した時、HPを回復する。",
+            "キャラがSPを消費した時、HPを回復する。"
         ],
         "Effects": []
     },
@@ -2860,12 +2860,12 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/IconRogueKnight06.png",
-        "Name": "Resonance Interplay: Spiked Armor",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：トリミング{RUBY_B#かこう}加工{RUBY_E#}",
         "Desc": [
-            "There is a  150%  base chance for Path Resonance: Preservation to inflict Bleed on the attacked target for <color style='color:#f29e38;'> 2.0 </color> turn(s). Bleeding enemies will take Physical DoT equal to <color style='color:#f29e38;'> 12.0% </color> of their Max HP at the start of each turn. This DMG cannot exceed <color style='color:#f29e38;'> 250.0% </color> of the total amount of Shield effect currently active on all allies."
+            "運命の反響「存護」は 150% の基礎確率でターゲットを裂創状態にする、<color style='color:#f29e38;'> 2.0 </color>ターン継続。裂創状態の敵はターンが回ってくるたびに、自身の最大HP<color style='color:#f29e38;'> 12.0% </color>分の物理持続ダメージを受ける。この持続ダメージは味方全体の総バリア耐久値の<color style='color:#f29e38;'> 250.0% </color>を超えない。"
         ],
         "SimpleDesc": [
-            "After using a Path Resonance, there is a high chance of applying Bleed to the enemy. DMG dealt is based on the total Shield on all allies."
+            "運命の反響を発動した後、高確率で敵を裂創状態にする。裂創ダメージは味方全体の総バリア耐久値の一定割合を超えない。"
         ],
         "Effects": []
     },
@@ -2874,12 +2874,12 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/IconRogueKnight07.png",
-        "Name": "Resonance Interplay: Cold Snap",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#ていおんぜいせい}低温脆性{RUBY_E#}",
         "Desc": [
-            "When attacking Frozen enemy targets with Path Resonance: Preservation, the DMG dealt increases by <color style='color:#f29e38;'> 80.0% </color> and the Freeze status on the enemy targets is removed. <u class='infou'>Dissociation</u> will not be removed by this effect."
+            "運命の反響「存護」が凍結状態の敵を攻撃した時、与ダメージ+<color style='color:#f29e38;'> 80.0% </color>。さらに敵の凍結状態を解除する。「<u class='infou'>離神</u>」状態は解除されない。"
         ],
         "SimpleDesc": [
-            "Increases DMG dealt by Path Resonance: Preservation to Frozen enemies and dispels their Freeze status."
+            "凍結状態の敵に対する運命の反響「存護」の与ダメージがアップし、その凍結状態を解除する。"
         ],
         "Effects": [
             60000002
@@ -2890,12 +2890,12 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/IconRogueMemory07.png",
-        "Name": "Resonance Interplay: Faces Places",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#かお}顔{RUBY_E#}、{RUBY_B#むら}村{RUBY_E#}",
         "Desc": [
-            "When the Freeze effect caused by Path Resonance is dispelled or resisted by enemy targets, there is a  150%  base chance of lowering the target's All-Type RES by <color style='color:#f29e38;'> 15.0% </color> for <color style='color:#f29e38;'> 2.0 </color> turn(s). For every 1% HP that each ally has lost, the target's All-Type RES is additionally lowered by <color style='color:#f29e38;'> 0.0% </color>."
+            "運命の反響による凍結状態が敵に解除または抵抗された時、 150% の基礎確率でターゲットの全耐性-<color style='color:#f29e38;'> 15.0% </color>、<color style='color:#f29e38;'> 2.0 </color>ターン継続。味方それぞれがHPを1%を失うごとに、さらにターゲットの全耐性-<color style='color:#f29e38;'> 0.0% </color>。"
         ],
         "SimpleDesc": [
-            "When the Freeze effect of a Path Resonance is dispelled or resisted, reduces the enemy target(s)' All-Type RES based on the total lost HP of all team members."
+            "運命の反響の凍結状態が解除、または抵抗された時、味方全体の失ったHPに応じて敵の全耐性をダウンする。"
         ],
         "Effects": []
     },
@@ -2904,12 +2904,12 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/IconRogueMemory06.png",
-        "Name": "Resonance Interplay: Landscape in the Mist",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#きり}霧{RUBY_E#}の{RUBY_B#なか}中{RUBY_E#}の{RUBY_B#ふうけい}風景{RUBY_E#}",
         "Desc": [
-            "When the Freeze effect caused by Path Resonance is dispelled or resisted by enemy targets, there is a  150%  base chance of decreasing the target's SPD by <color style='color:#f29e38;'> 15.0% </color> for <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "運命の反響による凍結状態が敵に解除または抵抗された時、 150% の基礎確率でターゲットの速度-<color style='color:#f29e38;'> 15.0% </color>、<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "When the Freeze effect of a Path Resonance is dispelled or resisted, there is a high chance of reducing the enemy's SPD."
+            "運命の反響の凍結状態が解除、または抵抗された時、高確率で敵の速度をダウンする。"
         ],
         "Effects": []
     },
@@ -2918,12 +2918,12 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/IconRogueWarlock06.png",
-        "Name": "Resonance Interplay: Off the Beaten Track",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#もり}森{RUBY_E#}の{RUBY_B#なか}中{RUBY_E#}の{RUBY_B#みち}道{RUBY_E#}",
         "Desc": [
-            "After using a Path Resonance, for every type of debuff (out of Burn, Shock, Bleed, and Wind Shear) the enemy target is currently inflicted with, Advance Forward all allies' actions by <color style='color:#f29e38;'> 4.0% </color>."
+            "運命の反響を発動した後、敵にある燃焼/感電/裂創/風化状態の内1種につき、味方全体の行動順が<color style='color:#f29e38;'> 4.0% </color>早まる。"
         ],
         "SimpleDesc": [
-            "After using a Path Resonance, for every type of debuff (out of Burn, Shock, Bleed, and Wind Shear) the enemy target is currently inflicted with, Advance Forward all allies' actions."
+            "運命の反響を発動した後、敵にある燃焼/感電/裂創/風化状態の内1種につき、味方全体の行動順を早める。"
         ],
         "Effects": []
     },
@@ -2932,12 +2932,12 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/IconRogueWarlock07.png",
-        "Name": "Resonance Interplay: White Nights",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#びゃくや}白夜{RUBY_E#}",
         "Desc": [
-            "A character's Basic ATK can cause all DoTs currently applied on the target via Path Resonance: Nihility to immediately deal DMG equivalent to <color style='color:#f29e38;'> 40.0% </color> of these statuses' original DMG."
+            "キャラが通常攻撃を行った後、攻撃した敵が現在受けている、運命の反響「虚無」が付与したすべての持続ダメージ系デバフが、本来のダメージ<color style='color:#f29e38;'> 40.0% </color>分のダメージを発生する。"
         ],
         "SimpleDesc": [
-            "Basic ATK can additionally trigger the DoT of Path Resonance: Nihility."
+            "通常攻撃によって、運命の反響「虚無」が付与した持続ダメージ系デバフがダメージを発生する。"
         ],
         "Effects": []
     },
@@ -2946,12 +2946,12 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/IconRoguePirest07.png",
-        "Name": "Resonance Interplay: Mountain High",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#さき}先{RUBY_E#}に{RUBY_B#やま}山{RUBY_E#}を{RUBY_B#て}照{RUBY_E#}らす",
         "Desc": [
-            "After a character has their HP restored via Path Resonance and if the healing amount exceeds the maximum HP, recover 1 Skill Point. This effect can only trigger 1 time per Path Resonance use. After triggering this effect, all DMG dealt by all allies is increased by <color style='color:#f29e38;'> 30.0% </color> for <color style='color:#f29e38;'> 2.0 </color> turns. This effect can stack up to <color style='color:#f29e38;'> 2.0 </color> time(s)."
+            "キャラが運命の反響による治癒を受けた後、治癒量が超過した場合、SPを1回復する。この効果は運命の反響を発動するたびに1回まで発動できる。効果を発動した後、味方全体の与ダメージ+<color style='color:#f29e38;'> 30.0% </color>、<color style='color:#f29e38;'> 2.0 </color>ターン継続。この効果は最大で<color style='color:#f29e38;'> 2.0 </color>回累積できる。"
         ],
         "SimpleDesc": [
-            "When a Path Resonance overheals, recovers 1 Skill Point and increases all allies' DMG."
+            "運命の反響の治癒量が超過した場合、SPを1回復し、味方全体の与ダメージをアップする。"
         ],
         "Effects": []
     },
@@ -2960,12 +2960,12 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/IconRoguePirest06.png",
-        "Name": "Resonance Interplay: Nullifying Ardor",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：センダンの{RUBY_B#たきぎつ}薪尽{RUBY_E#}きる",
         "Desc": [
-            "After using Path Resonance, all allies' Weakness Break Efficiency increases by <color style='color:#f29e38;'> 15.0% </color> and Break Effect increases by <color style='color:#f29e38;'> 50.0% </color>. This effect lasts for <color style='color:#f29e38;'> 2.0 </color> turn(s) and stacks up to <color style='color:#f29e38;'> 2.0 </color> time(s)."
+            "運命の反響を発動した後、味方全体の弱点撃破効率+<color style='color:#f29e38;'> 15.0% </color>、撃破特効+<color style='color:#f29e38;'> 50.0% </color>、<color style='color:#f29e38;'> 2.0 </color>ターン継続。この効果は最大で<color style='color:#f29e38;'> 2.0 </color>回累積できる。"
         ],
         "SimpleDesc": [
-            "After using a Path Resonance, increases all allies' Weakness Break efficiency and Break Effect."
+            "運命の反響を発動した後、味方全体の弱点撃破効率と撃破特効をアップする。"
         ],
         "Effects": []
     },
@@ -2974,12 +2974,12 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/IconRogueRogue07.png",
-        "Name": "Resonance Interplay: Startling Breeze",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#あしもと}足元{RUBY_E#}の{RUBY_B#とっぷう}突風{RUBY_E#}",
         "Desc": [
-            "After using Path Resonance, all allies' SPD increases by <color style='color:#f29e38;'> 25.0 </color> for <color style='color:#f29e38;'> 2.0 </color> turn(s). This effect also applies to units summoned by allies."
+            "運命の反響を発動した後、味方全体の速度+<color style='color:#f29e38;'> 25.0 </color>、この効果はキャラが召喚したターゲットにも有効、<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "After using a Path Resonance, increases all allies' SPD. This effect also applies to units summoned by allies."
+            "運命の反響を発動した後、味方全体の速度をアップする。この効果はキャラが召喚したターゲットにも有効。"
         ],
         "Effects": []
     },
@@ -2988,12 +2988,12 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/IconRogueRogue06.png",
-        "Name": "Resonance Interplay: Shooting Starfire",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#こうせい}恒星{RUBY_E#}ストリーム",
         "Desc": [
-            "After enemy target(s) are defeated by a Path Resonance, restores all allies' HP equal to <color style='color:#f29e38;'> 50.0% </color> of their respective Max HP."
+            "運命の反響が敵を倒した後、味方全体のHPをそれぞれの最大HP<color style='color:#f29e38;'> 50.0% </color>分回復する。"
         ],
         "SimpleDesc": [
-            "After a Path Resonance defeats an enemy, restores all allies' HP."
+            "運命の反響で敵を倒した後、味方全体のHPを回復する。"
         ],
         "Effects": []
     },
@@ -3002,12 +3002,12 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/IconRogueWarrior07.png",
-        "Name": "Resonance Interplay: Substellar Belt",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#じゅんわくせいたい}準惑星帯{RUBY_E#}",
         "Desc": [
-            "Using Path Resonance will cause any character with current HP percentage lower than <color style='color:#f29e38;'> 50.0% </color> to gain a Shield equal to <color style='color:#f29e38;'> 40.0% </color> of their Max HP, lasting for <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "運命の反響を発動すると、残りHPが<color style='color:#f29e38;'> 50.0% </color>未満のキャラに対して、そのキャラの最大HP<color style='color:#f29e38;'> 40.0% </color>分の耐久値を持つバリアを付与する、<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "After using a Path Resonance, grants a Shield to a character with current HP percentage lower than <color style='color:#f29e38;'> 50.0% </color>."
+            "運命の反響を発動した後、残りHPが<color style='color:#f29e38;'> 50.0% </color>未満の味方にバリアを付与する。"
         ],
         "Effects": []
     },
@@ -3016,12 +3016,12 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/IconRogueWarrior06.png",
-        "Name": "Resonance Interplay: Zero Age Main Sequence",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#れいさいしゅけいれつ}零歳主系列{RUBY_E#}",
         "Desc": [
-            "When a character launches a follow-up attack, regenerates <color style='color:#f29e38;'> 5.0% </color> Energy for Path Resonance. If the character's current HP percentage is lower than <color style='color:#f29e38;'> 50.0% </color>, additionally regenerates <color style='color:#f29e38;'> 5.0% </color> Energy for Path Resonance."
+            "キャラが追加攻撃を行った後、運命の残響のRPを<color style='color:#f29e38;'> 5.0% </color>回復する。キャラの残りHPが<color style='color:#f29e38;'> 50.0% </color>未満の場合、さらに運命の反響のRPを<color style='color:#f29e38;'> 5.0% </color>回復する。"
         ],
         "SimpleDesc": [
-            "When a character launches a follow-up attack, Path Resonance regenerates Energy. If the character's HP is lower than <color style='color:#f29e38;'> 50.0% </color>, increases the amount of Energy regenerated."
+            "キャラが追加攻撃を行った時、RPを回復する。そのキャラの残りHPが<color style='color:#f29e38;'> 50.0% </color>未満の場合、RP回復量がアップする。"
         ],
         "Effects": []
     },
@@ -3030,12 +3030,12 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/IconRogueJoy07.png",
-        "Name": "Resonance Interplay: The Taste of Anglerfish",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：アンコウの{RUBY_B#あじ}味{RUBY_E#}",
         "Desc": [
-            "When Path Resonance: Elation deals DMG, randomly dispels 1 debuff on 1 ally."
+            "運命の反響「愉悦」がダメージを与えた時、ランダムな味方1名のデバフを1つ解除する。"
         ],
         "SimpleDesc": [
-            "When Path Resonance: Elation deals DMG, randomly dispels the debuffs on a character."
+            "運命の反響「愉悦」がダメージを与えた時、ランダムキャラのデバフを解除する。"
         ],
         "Effects": []
     },
@@ -3044,12 +3044,12 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/IconRogueJoy06.png",
-        "Name": "Resonance Interplay: Guinea Pig in Ice Coffin",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#こおり}氷{RUBY_E#}の{RUBY_B#ひつぎ}棺{RUBY_E#}とモルモット",
         "Desc": [
-            "When Path Resonance: Elation deals Ice DMG, there is a  150%  base chance to Freeze the enemy target for <color style='color:#f29e38;'> 1.0 </color> turn(s)."
+            "運命の反響「愉悦」が氷属性ダメージを与えた時、 150% の基礎確率で敵を凍結状態にする、<color style='color:#f29e38;'> 1.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "When Path Resonance: Elation deals Ice DMG, there is a high chance to Freeze the enemy."
+            "運命の反響「愉悦」が氷属性ダメージを与えた時、高確率で敵を凍結状態にする。"
         ],
         "Effects": []
     },
@@ -3058,12 +3058,12 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/IconRoguePropagation07.png",
-        "Name": "Resonance Interplay: Superposition Eye",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#ちょうふくぞうがん}重複像眼{RUBY_E#}",
         "Desc": [
-            "After using Path Resonance, nullifies all DMG received by a single target ally except DoT. This status is dispelled after being attacked. If the target ally's current HP percentage is lower than <color style='color:#f29e38;'> 50.0% </color> when Path Resonance is used, it will additionally recover <color style='color:#f29e38;'> 1.0 </color> Skill Point(s)."
+            "運命の反響を発動した後、指定した味方単体は持続ダメージ以外のすべてのダメージを防ぐ。この効果は攻撃を受けた後に解除される。その味方の残りHPが<color style='color:#f29e38;'> 50.0% </color>未満の場合、運命の反響と共鳴した時に追加でSPを<color style='color:#f29e38;'> 1.0 </color>回復する。"
         ],
         "SimpleDesc": [
-            "After using a Path Resonance, make a target ally able to Block 1 attack. If that ally's HP is lower than <color style='color:#f29e38;'> 50.0% </color>, recover <color style='color:#f29e38;'> 1.0 </color> Skill Point(s)."
+            "運命の反響を発動した後、指定した味方単体が攻撃を1回防げるようになる。その味方の残りHPが<color style='color:#f29e38;'> 50.0% </color>未満の場合、SPを<color style='color:#f29e38;'> 1.0 </color>回復する。"
         ],
         "Effects": []
     },
@@ -3072,12 +3072,12 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/IconRoguePropagation06.png",
-        "Name": "Resonance Interplay: Adherent Microbial Mat",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#きんまくふちゃく}菌膜付着{RUBY_E#}",
         "Desc": [
-            "When using Path Resonance, a single target ally gain a Shield equal to <color style='color:#f29e38;'> 60.0% </color> of Max HP, lasting for <color style='color:#f29e38;'> 3.0 </color> turn(s)."
+            "運命の反響を発動した時、指定した味方単体が自身の最大HP<color style='color:#f29e38;'> 60.0% </color>分の耐久値を持つバリアを獲得する、<color style='color:#f29e38;'> 3.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "When using a Path Resonance, grants Shield to a target ally."
+            "運命の反響を発動した時、指定した味方単体にバリアを付与する。"
         ],
         "Effects": []
     },
@@ -3086,12 +3086,12 @@ var _blessing = [
         "Path": 128,
         "Rarity": 3,
         "Icon": "/BgPathsnMage.png",
-        "Name": "Path Resonance: \"Erudition\"",
+        "Name": "{RUBY_B#うんめい}運命{RUBY_E#}の{RUBY_B#はんきょう}反響{RUBY_E#}：「{RUBY_B#ちえ}知恵{RUBY_E#}」",
         "Desc": [
-            "Consume  100  Energy to resonate with the Path of Erudition. Path Resonance links the enemy with the highest Max HP with other enemies, inflicting <u class='infou'>Synapse Resonance</u> on all enemies and dealing Imaginary DMG to them."
+            "RPを 100 消費してスキルを発動できる。「知恵」の運命と共鳴し、最大HPが最も高い敵を他の敵と接続し、敵全体を「<u class='infou'>シナプス共鳴</u>」状態にする。敵全体に虚数属性ダメージを与える。"
         ],
         "SimpleDesc": [
-            "Path Resonance inflicts <u class='infou'>Synapse Resonance</u> on all enemies and deal Imaginary DMG to them."
+            "運命の反響を発動した後、敵全体を「<u class='infou'>シナプス共鳴</u>」状態にし、敵全体に虚数属性ダメージを与える。"
         ],
         "Effects": [
             61000043
@@ -3102,12 +3102,12 @@ var _blessing = [
         "Path": 128,
         "Rarity": 3,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Resonance Formation: Melt Core",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：メルトダウン",
         "Desc": [
-            "When an enemy target with <u class='infou'>Synapse Resonance</u> is attacked by Ultimate, the enemy target with the highest Max HP takes increased DMG equal to <color style='color:#f29e38;'> 50.0% </color> of the attacking character's ATK."
+            "「<u class='infou'>シナプス共鳴</u>」状態の敵が必殺技を受けた後、最大HPが最も高い敵に対するダメージ基礎値が、キャラの攻撃力<color style='color:#f29e38;'> 50.0% </color>分アップする。"
         ],
         "SimpleDesc": [
-            "When <u class='infou'>Synapse Resonance</u> is triggered by an Ultimate, it will deal more DMG to the enemy with the highest Max HP."
+            "「<u class='infou'>シナプス共鳴</u>」が必殺技によって触発された時、最大HPが最も高い敵に対するダメージ基礎値がアップする。"
         ],
         "Effects": [
             61000043
@@ -3118,12 +3118,12 @@ var _blessing = [
         "Path": 128,
         "Rarity": 3,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Resonance Formation: Chain Contagion",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：{RUBY_B#れんたいでんせん}連帯伝染{RUBY_E#}",
         "Desc": [
-            "When characters defeat an enemy with <u class='infou'>Synapse Resonance</u>, the effect is additionally triggered for <color style='color:#f29e38;'> 2.0 </color> time(s)."
+            "「<u class='infou'>シナプス共鳴</u>」状態の敵が倒された後、さらに効果を<color style='color:#f29e38;'> 2.0 </color>回発動する。"
         ],
         "SimpleDesc": [
-            "When characters defeat an enemy with <u class='infou'>Synapse Resonance</u>, the effect is additionally triggered for <color style='color:#f29e38;'> 2.0 </color> time(s)."
+            "「<u class='infou'>シナプス共鳴</u>」状態の敵が倒された後、さらに効果を<color style='color:#f29e38;'> 2.0 </color>回発動する。"
         ],
         "Effects": [
             61000043
@@ -3134,12 +3134,12 @@ var _blessing = [
         "Path": 128,
         "Rarity": 3,
         "Icon": "/IconRogueMage03.png",
-        "Name": "Resonance Formation: Memetic Inversion",
+        "Name": "{RUBY_B#はんきょうこうおん}反響構音{RUBY_E#}：ミーム{RUBY_B#そきゅう}遡及{RUBY_E#}",
         "Desc": [
-            "When an enemy target appears, regenerates Path Resonance Energy equal to <color style='color:#f29e38;'> 5.0% </color> of the combined Max Energy of all characters."
+            "敵が出現した時、運命の反響のRPを、各キャラの最大EPの合計<color style='color:#f29e38;'> 5.0% </color>分回復する。"
         ],
         "SimpleDesc": [
-            "Regenerates Path Resonance Energy upon encountering enemies."
+            "敵が出現した時、運命の反響のRPを回復する。"
         ],
         "Effects": []
     },
@@ -3148,14 +3148,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 3,
         "Icon": "/IconRogueMage03.png",
-        "Name": "BCI -34  Gray Matter",
+        "Name": "BCI -34 {RUBY_B#がた}型{RUBY_E#}{RUBY_B#かいはくしつ}灰白質{RUBY_E#}",
         "Desc": [
-            "When entering battle, charges the <u class='infou'>Brain in a Vat</u> by <color style='color:#f29e38;'> 65.0% </color>. Breaking an enemy's Weakness charges the <u class='infou'>Brain in a Vat</u> by <color style='color:#f29e38;'> 35.0% </color>.",
-            "When entering battle, charges <u class='infou'>Brain in a Vat</u> by <color style='color:#f29e38;'> 100.0% </color>. Breaking an enemy's Weakness or attacking Weakness Broken enemies will charge <u class='infou'>Brain in a Vat</u> by <color style='color:#f29e38;'> 40.0% </color> or <color style='color:#f29e38;'> 5.0% </color> respectively. This effect can only be triggered once by each enemy during each attack."
+            "戦闘に入る時、「<u class='infou'>缶詰の脳</u>」を<color style='color:#f29e38;'> 65.0% </color>チャージする。キャラが敵を弱点撃破した後、「<u class='infou'>缶詰の脳</u>」を<color style='color:#f29e38;'> 35.0% </color>チャージする。",
+            "戦闘に入る時、「<u class='infou'>缶詰の脳</u>」を<color style='color:#f29e38;'> 100.0% </color>チャージする。キャラが敵を弱点撃破した時、「<u class='infou'>缶詰の脳</u>」を<color style='color:#f29e38;'> 40.0% </color>チャージする。キャラが弱点撃破状態の敵に攻撃を行う時、「<u class='infou'>缶詰の脳</u>」を<color style='color:#f29e38;'> 5.0% </color>チャージする。この効果は1回の攻撃で、敵それぞれにつき1回まで発動できる。"
         ],
         "SimpleDesc": [
-            "When entering battle, charges the <u class='infou'>Brain in a Vat</u>. Breaking an enemy's Weakness charges the <u class='infou'>Brain in a Vat</u>.",
-            "When entering battle, charges the <u class='infou'>Brain in a Vat</u>. Breaking an enemy's Weakness or attacking Weakness Broken enemies charges the <u class='infou'>Brain in a Vat</u>."
+            "戦闘に入る時、「<u class='infou'>缶詰の脳</u>」をチャージする。キャラが敵を弱点撃破した後、「<u class='infou'>缶詰の脳</u>」をチャージする。",
+            "戦闘に入る時、「<u class='infou'>缶詰の脳</u>」をチャージする。キャラが敵を弱点撃破、または弱点撃破状態の敵に攻撃を行う時、「<u class='infou'>缶詰の脳</u>」をチャージする。"
         ],
         "Effects": [
             61000044
@@ -3166,14 +3166,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 3,
         "Icon": "/IconRogueMage03.png",
-        "Name": "SMR-2 Amygdala",
+        "Name": "SMR-2{RUBY_B#がた}型{RUBY_E#}{RUBY_B#へんとうたい}扁桃体{RUBY_E#}",
         "Desc": [
-            "Dealing fatal DMG to enemies will charge the <u class='infou'>Brain in a Vat</u> by <color style='color:#f29e38;'> 50.0% </color>.",
-            "Dealing fatal DMG to enemies charges the <u class='infou'>Brain in a Vat</u> by <color style='color:#f29e38;'> 50.0% </color>. When the <u class='infou'>Brain in a Vat</u> is fully charged, characters' SPD increases by <color style='color:#f29e38;'> 20.0% </color> for <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "キャラが敵にHPが0になる攻撃を与えた時、「<u class='infou'>缶詰の脳</u>」を<color style='color:#f29e38;'> 50.0% </color>チャージする。",
+            "キャラが敵にHPが0になる攻撃を与えた時、「<u class='infou'>缶詰の脳</u>」を<color style='color:#f29e38;'> 50.0% </color>チャージする。「<u class='infou'>缶詰の脳</u>」のチャージが満タンになるたびに、キャラの速度+<color style='color:#f29e38;'> 20.0% </color>、<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "Dealing fatal DMG to enemies charges the <u class='infou'>Brain in a Vat</u>.",
-            "Dealing fatal DMG to enemies charges the <u class='infou'>Brain in a Vat</u>. Every time the <u class='infou'>Brain in a Vat</u> is fully charged, gains a SPD bonus."
+            "キャラが敵にHPが0になる攻撃を与えた時、「<u class='infou'>缶詰の脳</u>」をチャージする。",
+            "キャラが敵にHPが0になる攻撃を与えた時、「<u class='infou'>缶詰の脳</u>」をチャージする。「<u class='infou'>缶詰の脳</u>」のチャージが満タンになるたびに、速度がアップする。"
         ],
         "Effects": [
             61000044
@@ -3184,14 +3184,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 3,
         "Icon": "/IconRogueMage01.png",
-        "Name": "VEP -18  Occipital Lobe",
+        "Name": "VEP -18 {RUBY_B#がた}型{RUBY_E#}{RUBY_B#こうとうよう}後頭葉{RUBY_E#}",
         "Desc": [
-            "The All-Type RES PEN for characters' Ultimate DMG increases by <color style='color:#f29e38;'> 20.0% </color>. When Ultimate is used, for every hit enemy target, the All-Type RES PEN for the next Ultimate's DMG will additionally increase by <color style='color:#f29e38;'> 3.0% </color>.",
-            "The All-Type RES PEN for characters' Ultimate DMG increases by <color style='color:#f29e38;'> 25.0% </color>. For each enemy target hit by the Ultimate that achieves the highest number of enemy hits in a single attack in this battle, the All-Type RES PEN for the Ultimate DMG additionally increases by <color style='color:#f29e38;'> 3.0% </color>."
+            "キャラの必殺技の全耐性貫通+<color style='color:#f29e38;'> 20.0% </color>。必殺技を発動した後、攻撃を受けた敵1体につき、さらに次の必殺技の全耐性貫通+<color style='color:#f29e38;'> 3.0% </color>。",
+            "キャラの必殺技の全耐性貫通+<color style='color:#f29e38;'> 25.0% </color>。今回の戦闘で、1回の必殺技で攻撃した敵の数の最大数に応じて、1体につき、さらに必殺技の全耐性貫通+<color style='color:#f29e38;'> 3.0% </color>。"
         ],
         "SimpleDesc": [
-            "Ultimate gains a RES PEN bonus. The more enemies the Ultimate hits, the higher the RES PEN bonus for the next Ultimate.",
-            "Ultimate gains a RES PEN bonus. The higher the max number of enemies attacked during the battle, the higher the RES PEN bonus for the Ultimate DMG."
+            "キャラの必殺技の耐性貫通がアップする。必殺技で攻撃した敵の数が多いほど、次の必殺技の耐性貫通がさらにアップする。",
+            "キャラの必殺技の耐性貫通がアップする。今回の戦闘で、1回の攻撃で攻撃した敵の数の最大値が大きいほど、必殺技の耐性貫通がさらにアップする。"
         ],
         "Effects": []
     },
@@ -3200,14 +3200,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 2,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Attachment: Vestibular System",
+        "Name": "{RUBY_B#ふか}付加{RUBY_E#}：{RUBY_B#ぜんていきかん}前庭器官{RUBY_E#}",
         "Desc": [
-            "When characters use Ultimates via <u class='infou'>Brain in a Vat</u>, their CRIT DMG increases by <color style='color:#f29e38;'> 80.0% </color>, lasting until this ability ends.",
-            "When characters use Ultimates via <u class='infou'>Brain in a Vat</u>, their CRIT DMG increases by <color style='color:#f29e38;'> 90.0% </color>. This CRIT DMG increase lasts until the next attack ends."
+            "キャラが「<u class='infou'>缶詰の脳</u>」を使って必殺技を発動する時、会心ダメージ+<color style='color:#f29e38;'> 80.0% </color>。この効果は今回の攻撃が終わるまで継続。",
+            "キャラが「<u class='infou'>缶詰の脳</u>」を使って必殺技を発動する時、会心ダメージ+<color style='color:#f29e38;'> 90.0% </color>。この効果は次の攻撃が終わるまで継続。"
         ],
         "SimpleDesc": [
-            "Ultimate cast with the <u class='infou'>Brain in a Vat</u> deals more CRIT DMG.",
-            "Ultimates cast with the <u class='infou'>Brain in a Vat</u> deals more CRIT DMG. This CRIT DMG bonus lasts until the end of the next ATK."
+            "キャラが「<u class='infou'>缶詰の脳</u>」を使って必殺技を発動する時、会心ダメージがアップする。",
+            "キャラが「<u class='infou'>缶詰の脳</u>」を使って必殺技を発動する時、会心ダメージがアップする。この効果は次の攻撃が終わるまで継続。"
         ],
         "Effects": [
             61000044
@@ -3218,14 +3218,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 2,
         "Icon": "/IconRogueMage03.png",
-        "Name": "Imitation: Transmitter Synthesis",
+        "Name": "{RUBY_B#もほう}模倣{RUBY_E#}：{RUBY_B#しんけいでんたつぶっしつごうせい}神経伝達物質合成{RUBY_E#}",
         "Desc": [
-            "For every 1 Energy that exceeds the characters' Max Energy, charges <u class='infou'>Brain in a Vat</u> by <color style='color:#f29e38;'> 0.8% </color>.",
-            "For every 1 Energy that exceeds the characters' Max Energy, charges <u class='infou'>Brain in a Vat</u> by <color style='color:#f29e38;'> 1.2% </color>."
+            "キャラのEPが上限を超えた時、1超過するにつき、「<u class='infou'>缶詰の脳</u>」を<color style='color:#f29e38;'> 0.8% </color>チャージする。",
+            "キャラのEPが上限を超えた時、1超過するにつき、「<u class='infou'>缶詰の脳</u>」を<color style='color:#f29e38;'> 1.2% </color>チャージする。"
         ],
         "SimpleDesc": [
-            "When the character's Energy exceeds the limit, the exceeded Energy charges the <u class='infou'>Brain in a Vat</u>.",
-            "When the character's Energy exceeds the limit, the exceeded Energy charges the <u class='infou'>Brain in a Vat</u>."
+            "キャラのEPが上限を超えた時、「<u class='infou'>缶詰の脳</u>」をチャージする。",
+            "キャラのEPが上限を超えた時、「<u class='infou'>缶詰の脳</u>」をチャージする。"
         ],
         "Effects": [
             61000044
@@ -3236,14 +3236,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 2,
         "Icon": "/IconRogueMage02.png",
-        "Name": "Implant: Explicit Memory",
+        "Name": "インプラント：{RUBY_B#けんざいてききおく}顕在的記憶{RUBY_E#}",
         "Desc": [
-            "After characters use their Ultimate via <u class='infou'>Brain in a Vat</u>, they gain a Shield equal in strength to <color style='color:#f29e38;'> 36.0% </color> of their Max HP, lasting for <color style='color:#f29e38;'> 2.0 </color> turns.",
-            "After characters use their Ultimate via <u class='infou'>Brain in a Vat</u>, they gain a Shield equal in strength to <color style='color:#f29e38;'> 45.0% </color> of their Max HP, lasting for <color style='color:#f29e38;'> 3.0 </color> turns."
+            "キャラが「<u class='infou'>缶詰の脳</u>」を使って必殺技を発動した後、自身の最大HP<color style='color:#f29e38;'> 36.0% </color>分のバリアを獲得する、<color style='color:#f29e38;'> 2.0 </color>ターン継続。",
+            "キャラが「<u class='infou'>缶詰の脳</u>」を使って必殺技を発動した後、自身の最大HP<color style='color:#f29e38;'> 45.0% </color>分のバリアを獲得する、<color style='color:#f29e38;'> 3.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "Gains Shield when using an Ultimate via the <u class='infou'>Brain in a Vat</u>.",
-            "Gains Shield when using an Ultimate via the <u class='infou'>Brain in a Vat</u>."
+            "キャラが「<u class='infou'>缶詰の脳</u>」を使って必殺技を発動した後、バリアを獲得する。",
+            "キャラが「<u class='infou'>缶詰の脳</u>」を使って必殺技を発動した後、バリアを獲得する。"
         ],
         "Effects": [
             61000044
@@ -3254,14 +3254,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 2,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Mimesis: Tactile Pathway",
+        "Name": "{RUBY_B#ぎたい}擬態{RUBY_E#}：{RUBY_B#しんけいろ}神経路{RUBY_E#}",
         "Desc": [
-            "After characters use an attack, they deal Additional DMG to the attacked enemy target(s). For every enemy target that was attacked, increase Additional DMG by <color style='color:#f29e38;'> 15.0% </color> of the character's ATK.",
-            "After characters use an attack, they deal Additional DMG to the attacked enemy target(s). For every enemy target that was attacked, increase Additional DMG by <color style='color:#f29e38;'> 20.0% </color> of the character's ATK. Up to 5 enemies that have been defeated in the current battle will also be regarded as having been attacked."
+            "キャラが攻撃を行った後、攻撃を受けた敵に付加ダメージを与える。攻撃した敵1体につき、付加ダメージが、キャラの攻撃力<color style='color:#f29e38;'> 15.0% </color>分アップする。",
+            "キャラが攻撃を行った後、攻撃を受けた敵に付加ダメージを与える。攻撃した敵1体につき、付加ダメージが、キャラの攻撃力<color style='color:#f29e38;'> 20.0% </color>分アップする。今回の戦闘で倒した敵も攻撃を受けたと見なされる、最大で5体までカウントされる。"
         ],
         "SimpleDesc": [
-            "After characters use an attack, deal additional DMG based on the number of enemies attacked.",
-            "After characters use an attack, deal additional DMG based on the number of enemies attacked and the number of enemies defeated during the entire battle."
+            "キャラが攻撃を行った後、攻撃した敵の数に応じて付加ダメージを与える。",
+            "キャラが攻撃を行った後、攻撃した敵の数と今回の戦闘で倒した敵の数に応じて付加ダメージを与える。"
         ],
         "Effects": []
     },
@@ -3270,14 +3270,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 2,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Analysis: Subliminal Sensation",
+        "Name": "{RUBY_B#ぶんせき}分析{RUBY_E#}：サブリミナル{RUBY_B#こうか}効果{RUBY_E#}",
         "Desc": [
-            "Characters' Ultimate DMG increases by <color style='color:#f29e38;'> 50.0% </color>, lasting until the end of the first Ultimate they use in battle. After entering battle, characters regenerate energy equal to <color style='color:#f29e38;'> 60.0% </color> of their respective Max Energy.",
-            "Characters' Ultimate DMG increases by <color style='color:#f29e38;'> 50.0% </color>. After entering battle, regenerates energy equal to <color style='color:#f29e38;'> 100.0% </color> of the character's Max Energy."
+            "キャラの必殺技の与ダメージ+<color style='color:#f29e38;'> 50.0% </color>、初めて必殺技を発動した後まで継続。戦闘に入った後、最大EP<color style='color:#f29e38;'> 60.0% </color>分のEPを回復する。",
+            "キャラの必殺技の与ダメージ+<color style='color:#f29e38;'> 50.0% </color>。戦闘に入った後、最大EP<color style='color:#f29e38;'> 100.0% </color>分のEPを回復する。"
         ],
         "SimpleDesc": [
-            "The first Ultimate used by a character deals more DMG. Regenerates Energy upon entering battle.",
-            "Ultimates deal more DMG. Regenerates Energy upon entering battle."
+            "キャラの初回の必殺技の与ダメージがアップする。戦闘に入った後、EPを回復する。",
+            "キャラの必殺技の与ダメージがアップする。戦闘に入った後、EPを回復する。"
         ],
         "Effects": []
     },
@@ -3286,14 +3286,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 2,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Load: Striated Cortex",
+        "Name": "{RUBY_B#せきさい}積載{RUBY_E#}：{RUBY_B#ゆうせんひしつ}有線皮質{RUBY_E#}",
         "Desc": [
-            "If characters' <u class='infou'>AoE ATK</u> ability only attacks 1 enemy, this ATK will deal an additional set amount of DMG equal to <color style='color:#f29e38;'> 40.0% </color> of the original DMG to the attacked enemy target.",
-            "If characters' <u class='infou'>AoE ATK</u> ability only attacks 1 enemy, this ATK will deal an additional set amount of DMG equal to <color style='color:#f29e38;'> 60.0% </color> of the original DMG to the attacked enemy target."
+            "キャラの<u class='infou'>全体攻撃</u>スキルが1体の敵しか攻撃しなかった場合、攻撃を受けた敵に追加で本来のダメージ<color style='color:#f29e38;'> 40.0% </color>分の固定ダメージを与える。",
+            "キャラの<u class='infou'>全体攻撃</u>スキルが1体の敵しか攻撃しなかった場合、攻撃を受けた敵に追加で本来のダメージ<color style='color:#f29e38;'> 60.0% </color>分の固定ダメージを与える。"
         ],
         "SimpleDesc": [
-            "If characters' <u class='infou'>AoE</u> ability only attacks one enemy, the ability deals a set amount of extra DMG based on the original ability DMG.",
-            "If characters' <u class='infou'>AoE</u> ability only attacks one enemy, the ability deals a set amount of extra DMG based on the original ability DMG."
+            "キャラの<u class='infou'>全体攻撃</u>スキルが1体の敵しか攻撃しなかった場合、さらに本来のダメージに応じた固定ダメージを与える。",
+            "キャラの<u class='infou'>全体攻撃</u>スキルが1体の敵しか攻撃しなかった場合、さらに本来のダメージに応じた固定ダメージを与える。"
         ],
         "Effects": [
             61000045
@@ -3304,14 +3304,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 2,
         "Icon": "/IconRogueMage04.png",
-        "Name": "Stimulation: Saltatory Conduction",
+        "Name": "{RUBY_B#しげき}刺激{RUBY_E#}：{RUBY_B#ちょうやくでんどう}跳躍伝導{RUBY_E#}",
         "Desc": [
-            "When characters use their Ultimate to attack enemies that are Weakness Broken, delay the enemy's action by <color style='color:#f29e38;'> 16.0% </color>. Every time the enemy target becomes Weakness Broken, this effect can be triggered up to <color style='color:#f29e38;'> 3.0 </color> times.",
-            "When characters use their Ultimate to attack enemies that are Weakness Broken, delay the enemy's action by <color style='color:#f29e38;'> 24.0% </color>. Every time the enemy target becomes Weakness Broken, this effect can be triggered up to <color style='color:#f29e38;'> 3.0 </color> times."
+            "キャラが必殺技で弱点撃破状態の敵を攻撃した後、その敵の行動順を<color style='color:#f29e38;'> 16.0% </color>遅らせる。この効果は敵が弱点撃破状態に陥るたびに<color style='color:#f29e38;'> 3.0 </color>回まで発動できる。",
+            "キャラが必殺技で弱点撃破状態の敵を攻撃した後、その敵の行動順を<color style='color:#f29e38;'> 24.0% </color>遅らせる。この効果は敵が弱点撃破状態に陥るたびに<color style='color:#f29e38;'> 3.0 </color>回まで発動できる。"
         ],
         "SimpleDesc": [
-            "Ultimate attacks delay all Weakness Broken enemies' actions.",
-            "Ultimate attacks delay all Weakness Broken enemies' actions."
+            "キャラの必殺技が、弱点撃破状態の敵の行動順を遅らせる。",
+            "キャラの必殺技が、弱点撃破状態の敵の行動順を遅らせる。"
         ],
         "Effects": []
     },
@@ -3320,14 +3320,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 1,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Throne of Engaged Gears",
+        "Name": "{RUBY_B#はぐるま}歯車{RUBY_E#}が{RUBY_B#くみあ}組合{RUBY_E#}う{RUBY_B#おうざ}王座{RUBY_E#}",
         "Desc": [
-            "For every Blessing of Erudition currently in possession, characters' Ultimate DMG increases by <color style='color:#f29e38;'> 7.0% </color>, stacking up to <color style='color:#f29e38;'> 6.0 </color> times.",
-            "For every Blessing of Erudition currently in possession, characters' Ultimate DMG increases by <color style='color:#f29e38;'> 10.0% </color>, stacking up to <color style='color:#f29e38;'> 9.0 </color> times."
+            "「知恵」の祝福を1つ所持するごとに、キャラの必殺技の与ダメージ+<color style='color:#f29e38;'> 7.0% </color>、最大で<color style='color:#f29e38;'> 6.0 </color>回累積可能。",
+            "「知恵」の祝福を1つ所持するごとに、キャラの必殺技の与ダメージ+<color style='color:#f29e38;'> 10.0% </color>、最大で<color style='color:#f29e38;'> 9.0 </color>回累積可能。"
         ],
         "SimpleDesc": [
-            "Ultimate deals more DMG based on the number of Blessings of Erudition.",
-            "Ultimate deals more DMG based on the number of Blessings of Erudition."
+            "「知恵」の祝福の数が多いほど、キャラの必殺技の与ダメージがアップする。",
+            "「知恵」の祝福の数が多いほど、キャラの必殺技の与ダメージがアップする。"
         ],
         "Effects": []
     },
@@ -3336,14 +3336,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 1,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Ring of Bent Wires",
+        "Name": "{RUBY_B#どうせん}導線{RUBY_E#}が{RUBY_B#と}取{RUBY_E#}り{RUBY_B#ま}巻{RUBY_E#}く{RUBY_B#ゆびわ}指輪{RUBY_E#}",
         "Desc": [
-            "Characters' Ultimate CRIT Rate increases by <color style='color:#f29e38;'> 18.0% </color>.",
-            "Characters' Ultimate CRIT Rate increases by <color style='color:#f29e38;'> 27.0% </color>."
+            "キャラの必殺技の会心率+<color style='color:#f29e38;'> 18.0% </color>。",
+            "キャラの必殺技の会心率+<color style='color:#f29e38;'> 27.0% </color>。"
         ],
         "SimpleDesc": [
-            "Increases Ultimate CRIT Rate.",
-            "Increases Ultimate CRIT Rate."
+            "キャラの必殺技の会心率アップ。",
+            "キャラの必殺技の会心率アップ。"
         ],
         "Effects": []
     },
@@ -3352,14 +3352,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 1,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Scepter of Energy Torque",
+        "Name": "エネルギー{RUBY_B#うずま}渦巻{RUBY_E#}く{RUBY_B#おうしゃく}王笏{RUBY_E#}",
         "Desc": [
-            "Characters' Ultimate CRIT DMG increases by <color style='color:#f29e38;'> 30.0% </color>.",
-            "Characters' Ultimate CRIT DMG increases by <color style='color:#f29e38;'> 45.0% </color>."
+            "キャラの必殺技の会心ダメージ+<color style='color:#f29e38;'> 30.0% </color>。",
+            "キャラの必殺技の会心ダメージ+<color style='color:#f29e38;'> 45.0% </color>。"
         ],
         "SimpleDesc": [
-            "Increases Ultimate CRIT DMG.",
-            "Increases Ultimate CRIT DMG."
+            "キャラの必殺技の会心ダメージアップ。",
+            "キャラの必殺技の会心ダメージアップ。"
         ],
         "Effects": []
     },
@@ -3368,14 +3368,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 1,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Torch of Anti-Lag Ignition",
+        "Name": "アンチラグの{RUBY_B#きょか}炬火{RUBY_E#}",
         "Desc": [
-            "After characters use their Ultimate, their next attack will deal <color style='color:#f29e38;'> 50.0% </color> more DMG.",
-            "After characters use their Ultimate, their next attack will deal <color style='color:#f29e38;'> 75.0% </color> more DMG."
+            "キャラが必殺技を発動した後、次の攻撃の与ダメージ+<color style='color:#f29e38;'> 50.0% </color>。",
+            "キャラが必殺技を発動した後、次の攻撃の与ダメージ+<color style='color:#f29e38;'> 75.0% </color>。"
         ],
         "SimpleDesc": [
-            "Increases the DMG of the characters' next attack following their Ultimate.",
-            "Increases the DMG of the characters' next attack following their Ultimate."
+            "キャラが必殺技を発動した後、次の攻撃の与ダメージがアップする。",
+            "キャラが必殺技を発動した後、次の攻撃の与ダメージがアップする。"
         ],
         "Effects": []
     },
@@ -3384,14 +3384,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 1,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Candle of Delayed Diffraction",
+        "Name": "{RUBY_B#ちえんかいせつ}遅延回折{RUBY_E#}の{RUBY_B#しょっこう}燭光{RUBY_E#}",
         "Desc": [
-            "After characters use an <u class='infou'>AoE ATK</u> ability, their ATK increases by <color style='color:#f29e38;'> 30.0% </color>, lasting for <color style='color:#f29e38;'> 2.0 </color> turn(s).",
-            "After characters use an <u class='infou'>AoE ATK</u> ability, their ATK increases by <color style='color:#f29e38;'> 40.0% </color>, lasting for <color style='color:#f29e38;'> 3.0 </color> turn(s)."
+            "キャラが<u class='infou'>全体攻撃</u>スキルを発動した後、攻撃力+<color style='color:#f29e38;'> 30.0% </color>、<color style='color:#f29e38;'> 2.0 </color>ターン継続。",
+            "キャラが<u class='infou'>全体攻撃</u>スキルを発動した後、攻撃力+<color style='color:#f29e38;'> 40.0% </color>、<color style='color:#f29e38;'> 3.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "Characters' ATK increases after using an <u class='infou'>AoE ATK</u> ability.",
-            "Characters' ATK increases after using an <u class='infou'>AoE ATK</u> ability."
+            "キャラが<u class='infou'>全体攻撃</u>を発動した後、攻撃力がアップする。",
+            "キャラが<u class='infou'>全体攻撃</u>を発動した後、攻撃力がアップする。"
         ],
         "Effects": [
             61000045
@@ -3402,14 +3402,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 1,
         "Icon": "/IconRogueMage02.png",
-        "Name": "Canopy of Mottled Metal",
+        "Name": "{RUBY_B#ふる}古{RUBY_E#}びた{RUBY_B#きんぞく}金属{RUBY_E#}の{RUBY_B#かがい}華蓋{RUBY_E#}",
         "Desc": [
-            "After characters use an <u class='infou'>AoE ATK</u> ability, their DEF increases by <color style='color:#f29e38;'> 30.0% </color>, lasting for <color style='color:#f29e38;'> 2.0 </color> turn(s).",
-            "After characters use an <u class='infou'>AoE ATK</u> ability, their DEF increases by <color style='color:#f29e38;'> 40.0% </color>, lasting for <color style='color:#f29e38;'> 3.0 </color> turn(s)."
+            "キャラが<u class='infou'>全体攻撃</u>スキルを発動した後、防御力+<color style='color:#f29e38;'> 30.0% </color>、<color style='color:#f29e38;'> 2.0 </color>ターン継続。",
+            "キャラが<u class='infou'>全体攻撃</u>スキルを発動した後、防御力+<color style='color:#f29e38;'> 40.0% </color>、<color style='color:#f29e38;'> 3.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "Characters' DEF increases after using an <u class='infou'>AoE ATK</u> ability.",
-            "Characters' DEF increases after using an <u class='infou'>AoE ATK</u> ability."
+            "キャラが<u class='infou'>全体攻撃</u>を発動した後、防御力がアップする。",
+            "キャラが<u class='infou'>全体攻撃</u>を発動した後、防御力がアップする。"
         ],
         "Effects": [
             61000045
@@ -3420,14 +3420,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 1,
         "Icon": "/IconRogueMage02.png",
-        "Name": "Garment of Coiled Wires",
+        "Name": "コイルが{RUBY_B#お}織{RUBY_E#}りなす{RUBY_B#しょうぞく}装束{RUBY_E#}",
         "Desc": [
-            "After characters use their Ultimate, they restore HP equal to <color style='color:#f29e38;'> 16.0% </color> of their Max HP.",
-            "After characters use their Ultimate, they restore HP equal to <color style='color:#f29e38;'> 24.0% </color> of their Max HP."
+            "キャラが必殺技を発動した後、自身の最大HP<color style='color:#f29e38;'> 16.0% </color>分のHPを回復する。",
+            "キャラが必殺技を発動した後、自身の最大HP<color style='color:#f29e38;'> 24.0% </color>分のHPを回復する。"
         ],
         "SimpleDesc": [
-            "Characters restore HP after using their Ultimate.",
-            "Characters restore HP after using their Ultimate."
+            "キャラが必殺技を発動した後、HPを回復する。",
+            "キャラが必殺技を発動した後、HPを回復する。"
         ],
         "Effects": []
     },
@@ -3436,14 +3436,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 1,
         "Icon": "/IconRogueMage02.png",
-        "Name": "Wreath of Interlaced Pipes",
+        "Name": "{RUBY_B#こうさく}交錯{RUBY_E#}するパイプの{RUBY_B#かんむり}冠{RUBY_E#}",
         "Desc": [
-            "When struck with a killing blow, characters will not be knocked down and will instead consume all their Energy, then restore HP equal to <color style='color:#f29e38;'> 50.0% </color> of the consumed Energy. This effect can only be triggered once per battle for the whole team.",
-            "When struck with a killing blow, characters will not be knocked down and will instead consume all their Energy, then restore HP equal to <color style='color:#f29e38;'> 100.0% </color> of the consumed Energy. This effect can only be triggered once per battle for the whole team."
+            "キャラはHPが0になる攻撃を受けても戦闘不能状態にならず、自身の残りEPをすべて消費して、消費した残りEP割合<color style='color:#f29e38;'> 50.0% </color>分のHPを回復する。この効果は一度の戦闘で1回まで発動できる。",
+            "キャラはHPが0になる攻撃を受けても戦闘不能状態にならず、自身の残りEPをすべて消費して、消費した残りEP割合<color style='color:#f29e38;'> 100.0% </color>分のHPを回復する。この効果は一度の戦闘で1回まで発動できる。"
         ],
         "SimpleDesc": [
-            "Characters can resist fatal DMG and can consume Energy to restore their own HP. This can take effect a limited number of times among all allies.",
-            "Characters can resist fatal DMG and can consume Energy to restore their own HP. This can take effect a limited number of times among all allies."
+            "キャラは戦闘不能状態を防ぎ、EPを消費してHPを回復できる。この効果の発動回数は味方全体で共有される。",
+            "キャラは戦闘不能状態を防ぎ、EPを消費してHPを回復できる。この効果の発動回数は味方全体で共有される。"
         ],
         "Effects": []
     },
@@ -3452,12 +3452,12 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/IconRogueKnight08.png",
-        "Name": "Resonance Interplay: Reverse Quenching",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#さい}再{RUBY_E#}{RUBY_B#やきいれ}焼入{RUBY_E#}れ",
         "Desc": [
-            "When using Path Resonance, extends Shield duration by <color style='color:#f29e38;'> 2.0 </color> turn(s) on characters whose HP is below <color style='color:#f29e38;'> 50.0% </color> of their Max HP. For every character on which this takes effect, this current Path Resonance deals <color style='color:#f29e38;'> 20.0% </color> more DMG."
+            "運命の反響を発動する時、残りHPが<color style='color:#f29e38;'> 50.0% </color>未満のキャラのバリアの継続時間+<color style='color:#f29e38;'> 2.0 </color>ターン。キャラ1名に効果を発動するごとに、その回の運命の反響の与ダメージ+<color style='color:#f29e38;'> 20.0% </color>。"
         ],
         "SimpleDesc": [
-            "Casting the Path Resonance extends Shield duration for allies whose HP is below <color style='color:#f29e38;'> 50.0% </color> and enables the next Path Resonance to deal more DMG."
+            "運命の反響を発動する時、残りHPが<color style='color:#f29e38;'> 50.0% </color>未満のキャラのバリア継続時間を延長し、運命の反響の与ダメージをアップする。"
         ],
         "Effects": []
     },
@@ -3466,12 +3466,12 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/IconRogueKnight09.png",
-        "Name": "Resonance Interplay: Displaced Ascent",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#てんいじょうしょう}転位上昇{RUBY_E#}",
         "Desc": [
-            "Using the Ultimate increases the next Path Resonance's Physical RES PEN by <color style='color:#f29e38;'> 8.0% </color>, stacking up to <color style='color:#f29e38;'> 8.0 </color> time(s)."
+            "キャラが必殺技を発動した後、次の運命の反響の攻撃の物理耐性貫通+<color style='color:#f29e38;'> 8.0% </color>、最大で<color style='color:#f29e38;'> 8.0 </color>回累積できる。"
         ],
         "SimpleDesc": [
-            "Using an Ultimate increases the next Path Resonance's Physical PEN."
+            "キャラが必殺技を発動した後、次の運命の反響の攻撃の物理耐性貫通がアップする。"
         ],
         "Effects": []
     },
@@ -3480,12 +3480,12 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/IconRogueMemory08.png",
-        "Name": "Resonance Interplay: Roar and Rustle",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#さけ}叫{RUBY_E#}びとささやき",
         "Desc": [
-            "When the Freeze effect from the Path Resonance is dispelled or resisted, characters gain a Shield equal in strength to <color style='color:#f29e38;'> 40.0% </color> of their Max HP for <color style='color:#f29e38;'> 2.0 </color> turn(s). This effect can only be triggered once by each use of the Path Resonance."
+            "運命の反響による凍結状態が解除または抵抗された時、キャラが自身の最大HP<color style='color:#f29e38;'> 40.0% </color>分の耐久値を持つバリアを獲得する、<color style='color:#f29e38;'> 2.0 </color>ターン継続。この効果は運命の反響を発動するたびに、1回まで発動できる。"
         ],
         "SimpleDesc": [
-            "Gains a Shield when the Freeze effect from the Path Resonance is dispelled or resisted."
+            "運命の反響が付与した凍結状態が解除または抵抗された時、キャラにバリアを付与する。"
         ],
         "Effects": []
     },
@@ -3494,12 +3494,12 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/IconRogueMemory09.png",
-        "Name": "Resonance Interplay: Seemingly Mirrored",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#かがみ}鏡{RUBY_E#}の{RUBY_B#なか}中{RUBY_E#}にある{RUBY_B#ごと}如{RUBY_E#}く",
         "Desc": [
-            "Basic ATKs against enemies Frozen by the Path Resonance have a <color style='color:#f29e38;'> 100.0% </color> base chance to inflict <u class='infou'>Dissociation</u> on them for <color style='color:#f29e38;'> 1.0 </color> turn(s)."
+            "キャラが通常攻撃を行った後、ターゲットが運命の反響による凍結状態の場合、<color style='color:#f29e38;'> 100.0% </color>の基礎確率でターゲットに「<u class='infou'>離神</u>」状態を付与する、<color style='color:#f29e38;'> 1.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "Basic ATKs against enemies Frozen by the Path Resonance have a high chance to inflict <u class='infou'>Dissociation</u> on them."
+            "キャラが通常攻撃を行った後、ターゲットが運命の反響による凍結状態の場合、高確率でターゲットに「<u class='infou'>離神</u>」状態を付与する。"
         ],
         "Effects": [
             60000002
@@ -3510,12 +3510,12 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/IconRogueWarlock08.png",
-        "Name": "Resonance Interplay: Reign of Keys",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：カギの{RUBY_B#とうち}統治{RUBY_E#}",
         "Desc": [
-            "Path Resonance deals <color style='color:#f29e38;'> 30.0% </color> more DMG to Frozen enemies. When enemy targets become Frozen, DoTs applied by the Path Resonance extend their duration by <color style='color:#f29e38;'> 1.0 </color> turn(s)."
+            "凍結状態の敵に対する運命の反響の与ダメージ+<color style='color:#f29e38;'> 30.0% </color>。敵が凍結状態になった時、運命の反響による持続ダメージ系デバフの継続時間+<color style='color:#f29e38;'> 1.0 </color>ターン。"
         ],
         "SimpleDesc": [
-            "The DoT effects from the Path Resonance deal more DMG to Frozen enemies and have their duration extended."
+            "運命の反響が付与する持続ダメージ系デバフは、凍結状態の敵に対して与ダメージがアップし、敵に凍結状態を付与することで継続時間が延長される。"
         ],
         "Effects": []
     },
@@ -3524,12 +3524,12 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/IconRogueWarlock09.png",
-        "Name": "Resonance Interplay: Terror and Tremble",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#きょうふ}恐怖{RUBY_E#}と{RUBY_B#せんりつ}戦慄{RUBY_E#}",
         "Desc": [
-            "For each unique Type of non-DoT DMG the enemy target has taken, Path Resonance deals <color style='color:#f29e38;'> 6.0% </color> more DMG to it, lasting until the end of the turn."
+            "敵が持続ダメージ以外の属性ダメージを受ける時、属性1つにつき、その敵に対する運命の反響の与ダメージ+<color style='color:#f29e38;'> 6.0% </color>、ターン終了まで継続。"
         ],
         "SimpleDesc": [
-            "Path Resonance deals more DMG for each unique type of non-DoT DMG the target has taken."
+            "敵が持続ダメージ以外のダメージを受ける時、ダメージの属性が多いほど、運命の反響の与ダメージがアップする。"
         ],
         "Effects": []
     },
@@ -3538,12 +3538,12 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/IconRoguePirest08.png",
-        "Name": "Resonance Interplay: Fleeting Samadhi",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#はんじゅざんまい}般舟三昧{RUBY_E#}",
         "Desc": [
-            "For every 1% of healing from Path Resonance that exceeds a character's Max HP, the character's Ultimate deals <color style='color:#f29e38;'> 1.0% </color> more DMG. This effect is stackable, up to a maximum of <color style='color:#f29e38;'> 100.0% </color>, lasting for <color style='color:#f29e38;'> 2.0 </color> turn(s)."
+            "運命の反響の治癒量がキャラの最大HPを超えた時、1%超過するにつき、キャラの必殺技の与ダメージ+<color style='color:#f29e38;'> 1.0% </color>。この効果は累積でき、最大で必殺技の与ダメージ+<color style='color:#f29e38;'> 100.0% </color>、<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "Exceeded healing from Path Resonance increases characters' Ultimate DMG."
+            "運命の反響による最大HPを超過した治癒量は、キャラの必殺技の与ダメージをアップする。"
         ],
         "Effects": []
     },
@@ -3552,12 +3552,12 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/IconRoguePirest09.png",
-        "Name": "Resonance Interplay: Destined Death",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#しょうそくむしょう}生即無生{RUBY_E#}",
         "Desc": [
-            "Healing from Path Resonance that exceeds a character's Max HP is stored and will be released as automatic healing when the character's HP falls below <color style='color:#f29e38;'> 35.0% </color> of their Max HP. Up to <color style='color:#f29e38;'> 50.0% </color> of the character's Max HP (when the Path Resonance is used) can be stored."
+            "運命の反響の、キャラの最大HPを超えた分の治癒量は蓄えられ、キャラの残りHPが<color style='color:#f29e38;'> 35.0% </color>未満になった時に自動で回復に使われる。最大で、運命の反響を発動した時のキャラの最大HP<color style='color:#f29e38;'> 50.0% </color>分のHPを蓄えられる。"
         ],
         "SimpleDesc": [
-            "Exceeded healing from the Path Resonance is stored and will be released when the character's HP falls below <color style='color:#f29e38;'> 35.0% </color>."
+            "運命の反響による最大HPを超過した治癒量は蓄えられ、キャラの残りHPが<color style='color:#f29e38;'> 35.0% </color>未満になった時に自動で回復に使われる。"
         ],
         "Effects": []
     },
@@ -3566,12 +3566,12 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/IconRogueRogue08.png",
-        "Name": "Resonance Interplay: Solemn Snare",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#しゅくしゅく}粛々{RUBY_E#}たる{RUBY_B#らもう}羅網{RUBY_E#}",
         "Desc": [
-            "For every Skill Point recovered by allies, the next Path Resonance deals <color style='color:#f29e38;'> 20.0% </color> more DMG, stacking up to <color style='color:#f29e38;'> 8.0 </color> time(s)."
+            "キャラがSPを1獲得するたびに、次の運命の反響の与ダメージ+<color style='color:#f29e38;'> 20.0% </color>、最大で<color style='color:#f29e38;'> 8.0 </color>層累積できる。"
         ],
         "SimpleDesc": [
-            "Gaining Skill Points increases the DMG for Path Resonance's attack."
+            "キャラがSPを獲得した後、運命の反響の次の攻撃の与ダメージがアップする。"
         ],
         "Effects": []
     },
@@ -3580,12 +3580,12 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/IconRogueRogue09.png",
-        "Name": "Resonance Interplay: Waiting with Drawn Bow",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#ゆみは}弓張{RUBY_E#}り{RUBY_B#とき}時{RUBY_E#}を{RUBY_B#ま}待{RUBY_E#}つ",
         "Desc": [
-            "When using Path Resonance, allies' Shield duration extends by <color style='color:#f29e38;'> 5.0 </color> turn(s)."
+            "運命の反響を発動する時、キャラのバリアの継続時間+<color style='color:#f29e38;'> 5.0 </color>ターン。"
         ],
         "SimpleDesc": [
-            "When using Path Resonance, extends characters' Shield duration."
+            "運命の反響を発動する時、キャラのバリアの継続時間を延長する。"
         ],
         "Effects": []
     },
@@ -3594,12 +3594,12 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/IconRogueWarrior08.png",
-        "Name": "Resonance Interplay: Nuclear Implosion",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：コア{RUBY_B#ほうかい}崩壊{RUBY_E#}",
         "Desc": [
-            "When using Path Resonance to attack, additionally deals a set amount of DMG to all enemy targets whose HP is below <color style='color:#f29e38;'> 20.0% </color> of their Max HP, reducing these targets' HP to 1."
+            "運命の反響が攻撃を行う時、残りHPが<color style='color:#f29e38;'> 20.0% </color>未満の敵に、さらにその敵の残りHPが1になる固定ダメージを与える。"
         ],
         "SimpleDesc": [
-            "When using Path Resonance to attack, if an enemy's HP is lower than <color style='color:#f29e38;'> 20.0% </color> of their Max HP, their remaining HP is reduced to 1."
+            "運命の反響が攻撃を行う時、残りHPが<color style='color:#f29e38;'> 20.0% </color>未満の敵のHPを1にする。"
         ],
         "Effects": []
     },
@@ -3608,12 +3608,12 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/IconRogueWarrior09.png",
-        "Name": "Resonance Interplay: Protostar",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#こうせいはいたい}恒星胚胎{RUBY_E#}",
         "Desc": [
-            "After losing HP due to allies or Path Resonance effects, the characters gain Healing Over Time that lasts <color style='color:#f29e38;'> 2.0 </color> turn(s). At the start of every turn, restore HP equal to <color style='color:#f29e38;'> 30.0% </color> of the consumed HP."
+            "キャラが味方または運命の反響によってHPを消費させられた後、継続回復効果を獲得し、ターンが回ってくるたびに、消費したHP<color style='color:#f29e38;'> 30.0% </color>分のHPを回復する、<color style='color:#f29e38;'> 2.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "When characters lose HP due to allies or Path Resonance effects, they restore HP over time."
+            "キャラが味方または運命の反響によってHPを消費させられた後、継続回復効果を獲得する。"
         ],
         "Effects": []
     },
@@ -3622,12 +3622,12 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/IconRogueJoy08.png",
-        "Name": "Resonance Interplay: Unending Night",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：すべて{RUBY_B#まよなか}真夜中{RUBY_E#}",
         "Desc": [
-            "When Path Resonance deals Fire/Wind/Physical/Lightning DMG, there is a <color style='color:#f29e38;'> 50.0% </color> base chance to apply a DoT of the same Type, lasting for <color style='color:#f29e38;'> 1.0 </color> turns."
+            "運命の反響が炎/風/物理/雷属性ダメージを与えた時、<color style='color:#f29e38;'> 50.0% </color>の基礎確率で敵に対応する属性の持続ダメージ系デバフを付与する、<color style='color:#f29e38;'> 1.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "When the Path Resonance deals Fire, Wind, Physical or Lightning DMG, there is a chance inflict the DoT effect of the same type."
+            "運命の反響が炎/風/物理/雷属性ダメージを与えた時、確率で対応する属性の持続ダメージ系デバフを付与する。"
         ],
         "Effects": []
     },
@@ -3636,12 +3636,12 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/IconRogueJoy09.png",
-        "Name": "Resonance Interplay: Pit and Pendulum",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#お}落{RUBY_E#}とし{RUBY_B#あな}穴{RUBY_E#}と{RUBY_B#ふ}振{RUBY_E#}り{RUBY_B#こ}子{RUBY_E#}",
         "Desc": [
-            "When using the Path Resonance, for every <color style='color:#f29e38;'> 20.0 </color> Energy consumed, the ally with the highest ATK and all units summoned by allies will have their action Advanced Forward by <color style='color:#f29e38;'> 10.0% </color>."
+            "運命の反響を発動する時、消費するRP<color style='color:#f29e38;'> 20.0 </color>につき、現在の攻撃力が最も高いキャラと、すべてのキャラが召喚したユニットの行動順を<color style='color:#f29e38;'> 10.0% </color>早める。"
         ],
         "SimpleDesc": [
-            "Based on the amount of Energy used, Path Resonance advances the actions of the ally with the highest ATK and all units summoned by allies."
+            "運命の反響は消費したRPに応じて、攻撃力が最も高いキャラと、すべてのキャラが召喚したユニットの行動順を早める。"
         ],
         "Effects": []
     },
@@ -3650,12 +3650,12 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/IconRoguePropagation08.png",
-        "Name": "Resonance Interplay: Compounded Macrospore",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#ぞうだいほうし}増大胞子{RUBY_E#}",
         "Desc": [
-            "When using Path Resonance, heals the target ally for <color style='color:#f29e38;'> 50.0% </color> of their Max HP. <color style='color:#f29e38;'> 200.0% </color> of the healing that exceeds Max HP will be evenly distributed among other characters."
+            "運命の反響を発動する時、指定した味方単体のHPを最大HPの<color style='color:#f29e38;'> 50.0% </color>分回復する。最大HPを超えた治癒量の<color style='color:#f29e38;'> 200.0% </color>分で他のキャラを均等に治癒する。"
         ],
         "SimpleDesc": [
-            "When using Path Resonance, heals a target ally. Any exceeded Healing will be distributed to heal other allies."
+            "運命の反響を発動する時、指定した味方単体のHPを回復する。最大HPを超えた部分の治癒量は他のキャラを治癒する。"
         ],
         "Effects": []
     },
@@ -3664,12 +3664,12 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/IconRoguePropagation09.png",
-        "Name": "Resonance Interplay: Condensation Cavity",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：{RUBY_B#ぎょうしゅくこうたい}凝縮腔体{RUBY_E#}",
         "Desc": [
-            "Characters in the <u class='infou'>Metamorphosis</u> status deal <color style='color:#f29e38;'> 20.0% </color> more DMG to Frozen enemies. In addition, their attacks have a <color style='color:#f29e38;'> 10.0% </color> base chance to Freeze hit targets for <color style='color:#f29e38;'> 1.0 </color> turns."
+            "凍結状態の敵に対する、「<u class='infou'>変成</u>」状態のキャラの与ダメージ+<color style='color:#f29e38;'> 20.0% </color>。「<u class='infou'>変成</u>」状態のキャラの攻撃が敵に命中した後、<color style='color:#f29e38;'> 10.0% </color>の基礎確率でその敵を凍結状態にする、<color style='color:#f29e38;'> 1.0 </color>ターン継続。"
         ],
         "SimpleDesc": [
-            "Characters in the <u class='infou'>Metamorphosis</u> state deal more DMG to Frozen enemies. In addition, their attacks have a low chance of Freezing the target."
+            "凍結状態の敵に対する、「<u class='infou'>変成</u>」状態のキャラの与ダメージがアップする。「<u class='infou'>変成</u>」状態のキャラの攻撃が敵に命中した後、低確率でその敵を凍結状態にする。"
         ],
         "Effects": [
             60000016
@@ -3680,12 +3680,12 @@ var _blessing = [
         "Path": 128,
         "Rarity": 3,
         "Icon": "/IconRogueMage06.png",
-        "Name": "Resonance Interplay: Full Scan",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：フルスキャン",
         "Desc": [
-            "When enemies with <u class='infou'>Synapse Resonance</u> are attacked by follow-up attacks, the effect is additionally triggered 1 time and the available <u class='infou'>Synapse Resonance</u> count is not reduced."
+            "「<u class='infou'>シナプス共鳴</u>」状態の敵が追加攻撃を受ける時、さらに効果を1回発動する。この効果発動は「<u class='infou'>シナプス共鳴</u>」の回数を消費しない。"
         ],
         "SimpleDesc": [
-            "When enemies with <u class='infou'>Synapse Resonance</u> are attacked by follow-up attacks, the effect is additionally triggered once and its available count is not reduced."
+            "「<u class='infou'>シナプス共鳴</u>」状態の敵が追加攻撃を受ける時、さらに効果を1回発動する。この効果発動は回数を消費しない。"
         ],
         "Effects": [
             61000043
@@ -3696,12 +3696,12 @@ var _blessing = [
         "Path": 128,
         "Rarity": 3,
         "Icon": "/IconRogueMage07.png",
-        "Name": "Resonance Interplay: Data Reinforcement",
+        "Name": "{RUBY_B#はんきょうこうさく}反響交錯{RUBY_E#}：セキュリティ{RUBY_B#きょうか}強化{RUBY_E#}",
         "Desc": [
-            "Attacks against Weakness Broken enemies do not reduce the available <u class='infou'>Synapse Resonance</u> count."
+            "弱点撃破状態の敵は、攻撃を受けた後に「<u class='infou'>シナプス共鳴</u>」の回数を消費しない。"
         ],
         "SimpleDesc": [
-            "Attacks against Weakness Broken enemies do not reduce the available <u class='infou'>Synapse Resonance</u> count."
+            "弱点撃破状態の敵は、攻撃を受けた後に「<u class='infou'>シナプス共鳴</u>」の回数を消費しない。"
         ],
         "Effects": [
             61000043
@@ -3712,147 +3712,143 @@ var _blessing = [
 var _blessingtypes = [
     {
         "_id": 120,
-        "Name": "Preservation",
+        "Name": "「存護」",
         "Icon": "/IconProfessionKnightMiddle.png"
     },
     {
         "_id": 121,
-        "Name": "Remembrance",
+        "Name": "「記憶」",
         "Icon": "/IconProfessionMemoryMiddle.png"
     },
     {
         "_id": 122,
-        "Name": "Nihility",
+        "Name": "「虚無」",
         "Icon": "/IconProfessionWarlockMiddle.png"
     },
     {
         "_id": 123,
-        "Name": "Abundance",
+        "Name": "「豊穣」",
         "Icon": "/IconProfessionPirestMiddle.png"
     },
     {
         "_id": 124,
-        "Name": "The Hunt",
+        "Name": "「巡狩」",
         "Icon": "/IconProfessionRogueMiddle.png"
     },
     {
         "_id": 125,
-        "Name": "Destruction",
+        "Name": "「壊滅」",
         "Icon": "/IconProfessionWarriorMiddle.png"
     },
     {
         "_id": 126,
-        "Name": "Elation",
+        "Name": "「愉悦」",
         "Icon": "/IconProfessionJoyMiddle.png"
     },
     {
         "_id": 127,
-        "Name": "Propagation",
+        "Name": "「繁殖」",
         "Icon": "/IconProfessionPropagationMiddle.png"
     },
     {
         "_id": 128,
-        "Name": "Erudition",
+        "Name": "「知恵」",
         "Icon": "/IconProfessionMageMiddle.png"
     }
 ]
 
 var _blessingextra = {
     "10000000": {
-        "Name": "Extra Turn",
-        "Desc": "Gain 1 extra turn that won't expend your remaining turns when taking action. During this extra turn, no Ultimate can be used."
+        "Name": "追加ターン",
+        "Desc": "ターン数を消費しない追加ターンを1回獲得する。このターンでは、必殺技を発動できない。"
     },
     "10000001": {
-        "Name": "Action advanced",
-        "Desc": "Reduces the target's waiting interval before the next action."
+        "Name": "行動前倒し",
+        "Desc": "対象の次の行動までの間隔が短くなる。"
     },
     "10000002": {
-        "Name": "Action delayed",
-        "Desc": "Increases the target's waiting interval before the next action."
+        "Name": "行動遅延",
+        "Desc": "対象の次の行動までの間隔が長くなる。"
     },
     "10000003": {
-        "Name": "Counter",
-        "Desc": "An effect that automatically triggers when the target is attacked, which unleashes an extra attack on the attacker.<br>Counter is also considered a follow-up attack."
+        "Name": "カウンター",
+        "Desc": "対象が攻撃を受けた後に自動で効果を発動する。攻撃者に対し、さらに攻撃を1回行う。<br>カウンターも追加攻撃と見なされる。"
     },
     "10000004": {
-        "Name": "Follow-Up Attack",
-        "Desc": "Unleashes an extra attack on the target. This effect is triggered automatically when requirements are met."
+        "Name": "追加攻撃",
+        "Desc": "条件を満たした時に自動で発動し、さらにターゲットに攻撃を1回行う。"
     },
     "10000005": {
-        "Name": "Additional DMG",
-        "Desc": "Causes the target being hit to take extra DMG, which is not considered an attack."
+        "Name": "付加ダメージ",
+        "Desc": "攻撃を受けたターゲットがさらにダメージを1回受ける。このダメージは攻撃とは見なされない。"
     },
     "10000006": {
-        "Name": "Weakness Break State",
-        "Desc": "When enemy targets' Toughness is reduced to 0, they will enter the Weakness Break State, which delays their actions."
+        "Name": "弱点撃破状態",
+        "Desc": "敵の靭性が0まで削られた時に入る特殊状態。この状態になった敵は行動順が遅延される。"
     },
     "10000007": {
-        "Name": "Downed State",
-        "Desc": "An ally will be incapacitated once their HP is reduced to 0."
+        "Name": "戦闘不能状態",
+        "Desc": "味方の残りHPが0になるとこの特殊状態に入る。この状態のキャラは戦闘を続けることができない。"
     },
     "10000008": {
-        "Name": "Weakness Break Efficiency",
-        "Desc": "The higher the Weakness Break efficiency is, the more the DMG will be dealt to Toughness."
+        "Name": "弱点撃破効率",
+        "Desc": "弱点撃破効率が高いほど、靭性に対するダメージが上がる。"
     },
     "10000009": {
-        "Name": "Buff",
-        "Desc": "Can buff combat ability for a period of time, which can be dispelled unless otherwise specified."
+        "Name": "バフ",
+        "Desc": "戦闘に有益な効果をもたらす持続状態。特殊な説明がない限り解除可能。"
     },
     "10000010": {
-        "Name": "Debuff",
-        "Desc": "Debuffs are negative status effects that render units weaker. Unless otherwise specified, debuffs can be dispelled."
-    },
-    "10000011": {
-        "Name": "Crowd Control debuff",
-        "Desc": "Frozen, Entanglement, Imprisonment, Dominated, Outrage, and Strong Reverberation"
+        "Name": "デバフ",
+        "Desc": "戦闘に不利な効果をもたらす持続状態。特殊な説明がない限り解除可能。"
     },
     "10000012": {
-        "Name": "DoT Debuff",
-        "Desc": "Bleed, Burn, Shock, Wind Shear."
+        "Name": "持続ダメージ系デバフ",
+        "Desc": "裂創、燃焼、関電、風化。"
     },
     "10000013": {
-        "Name": "Distribute",
-        "Desc": "Before DMG is calculated, distribute a part of the attacking unit's DMG to another target (or multiple other targets), with the target hit by the attack taking the rest of the DMG. DMG distributed to other targets cannot be distributed again."
+        "Name": "分担",
+        "Desc": "ダメージが発生する前に、一部のダメージを他の1名、または複数名のターゲットに分け与え、攻撃を受けたターゲットが残りの部分を引き受ける。他のターゲットに分担したダメージを再度分担することはできない。"
     },
     "10013071": {
-        "Name": "Arcana",
-        "Desc": "Arcana is a debuff that deals DMG over time. This debuff cannot be dispelled.<br>While in the Arcana state, the unit is also considered to be in the Wind Shear state and takes Wind DoT at the start of each turn.<br>The infliction of Arcana ignores the target's Wind Shear RES, Bleed RES, Burn RES, and Shock RES."
+        "Name": "アルカナ",
+        "Desc": "「アルカナ」は一種の持続ダメージ系デバフ。このデバフは解除されない。<br>「アルカナ」状態の敵は風化状態にあると見なされる。「アルカナ」状態の敵はターンが回ってくるたびに風属性持続ダメージを受ける。<br>「アルカナ」を付与する時、ターゲットの風化抵抗、裂創抵抗、燃焼抵抗、感電抵抗を無視する。"
     },
     "30000001": {
-        "Name": "Base Chance",
-        "Desc": "The base chance of applying debuffs to targets hit. <br>The final probability is affected by the attacker's Effect Hit Rate and enemy targets' Effect RES."
+        "Name": "基礎確率",
+        "Desc": "攻撃を受けたターゲットにデバフを付与できる基礎確率。<br>最終的な確率は攻撃者の効果命中と敵の効果抵抗に影響される。"
     },
     "30000002": {
-        "Name": "Fixed Chance",
-        "Desc": "Fixed chance will not be affected by any factor."
+        "Name": "固定確率",
+        "Desc": "どのような要因にも左右されない、固定された確率。"
     },
     "30000003": {
-        "Name": "Effect RES",
-        "Desc": "Effect RES increases resistance against incoming debuffs from attackers. <br>A higher Effect RES will result in higher chances of successfully resisting a debuff."
+        "Name": "効果抵抗",
+        "Desc": "効果抵抗は、攻撃者が付与するデバフを抵抗できる。<br>この数値が高いほど、デバフを抵抗する確率が高くなる。"
     },
     "30000004": {
-        "Name": "Effect Hit Rate",
-        "Desc": "Effect Hit Rate increases the chance of applying debuffs to enemy targets. <br>A higher Effect Hit Rate will result in higher chances of successfully applying a debuff."
+        "Name": "効果命中",
+        "Desc": "効果命中は、敵にデバフを付与できる確率を高めることができる。<br>この数値が高いほど、デバフを付与する確率が高くなる。"
     },
     "30000005": {
-        "Name": "RES PEN",
-        "Desc": "When dealing DMG, ignore a part of the enemy target's resistance to the corresponding damage type."
+        "Name": "耐性貫通",
+        "Desc": "ダメージを与える時、敵の対応属性の耐性値を一部無視できる。"
     },
     "30000006": {
-        "Name": "Break Effect",
-        "Desc": "Break Effect enhances the various Weakness Break effects. <br>Such as the amount of DMG dealt upon Weakness Break, the amount of DMG dealt by DoTs per turn, and how far enemy actions are delayed."
+        "Name": "撃破特効",
+        "Desc": "撃破特効は、弱点撃破した時に発生する様々な効果をアップする。<br>弱点撃破時のダメージ、持続ダメージの威力、行動遅延の程度を含む。"
     },
     "30000007": {
-        "Name": "Energy Regeneration Rate",
-        "Desc": "Energy Regeneration Rate can boost the amount of Energy a character gains when performing actions such as using abilities, defeating enemies, or taking DMG.<br>A higher rate means faster Energy regeneration.<br>However, certain Energy-Regenerating effects won't be impacted by this rate."
+        "Name": "EP回復効率",
+        "Desc": "EP回復率はキャラクターのスキル発動、敵の殲滅、攻撃を受けた時に獲得するEPをアップさせることができる。<br>この数値が高いほど、キャラクターのEP回復がはやくなる。<br>一部の味方のEP回復効果によって回復したEPはEP回復率の影響を受けない。"
     },
     "30000008": {
-        "Name": "SPD",
-        "Desc": "SPD affects the interval between the target's actions. The faster the SPD, the shorter the interval.<br>At the same time, SPD will also affect the Action Order when entering combat."
+        "Name": "速度",
+        "Desc": "速度は、ユニットの2回の行動の間隔に影響する。速度値が高いほど、間隔は短くなる。<br>速度は、戦闘に入る時の行動順にも影響する。"
     },
     "30000009": {
-        "Name": "Max Energy",
-        "Desc": "Energy required for a character to unleash Ultimate."
+        "Name": "EP上限",
+        "Desc": "キャラが必殺技を1回発動するのに必要なEP。"
     },
     "30001010": {
         "Name": "",
@@ -3915,295 +3911,331 @@ var _blessingextra = {
         "Desc": ""
     },
     "60000001": {
-        "Name": "Quake",
-        "Desc": "Additional DMG dealt by specific Blessings of Preservation."
+        "Name": "反震",
+        "Desc": "特定の「存護」の運命の祝福が与える付加ダメージ。"
     },
     "60000002": {
-        "Name": "Dissociation",
-        "Desc": "Debuff caused by specific Blessings of Remembrance.<br>The enemy is considered Frozen and will be unable to act for a designated number of turns. After Freeze is removed, deals Additional Ice DMG equal to  30.0%  of the enemy's Max HP."
+        "Name": "離神",
+        "Desc": "特定の「記憶」の運命の祝福が付与するデバフ。<br>凍結状態と見なされ、数ターンの間、行動できなくなる。この状態が解除された時、敵の最大HP 30.0% 分の氷属性付加ダメージを与える。"
     },
     "60000003": {
-        "Name": "Aftertaste",
-        "Desc": "Follow-up attack of random DMG Types dealt by specific Blessings of Elation."
+        "Name": "後味",
+        "Desc": "特定の「愉悦」の運命の祝福が与えるランダム属性の追加攻撃ダメージ。"
     },
     "60000004": {
-        "Name": "Critical Boost",
-        "Desc": "Buff brought by certain Hunt Blessings.<br>For each stack, increases CRIT Rate by  6.0%  and CRIT DMG by  12.0% . Stacks up to  8.0  times. This buff can be transferred to allies when the next turn starts. Stacks reset when any ally is attacked."
+        "Name": "会心",
+        "Desc": "特定の「巡狩」の運命の祝福が付与するバフ。<br>1層につき、会心率+ 6.0% 、会心ダメージ+ 12.0% 、この効果は最大で 8.0 層累積できる。次にターンが回ってくる味方に引き継げる。任意の味方が攻撃を受けた後、層数がクリアされる。"
     },
     "60000005": {
-        "Name": "Fighting Spirit",
-        "Desc": "Buff brought by certain Destruction Blessings.<br>For each stack, increases ATK by  3.0%  and DEF by  3.0% . Stacks up to  35.0  times."
+        "Name": "戦意",
+        "Desc": "特定の「壊滅」の運命の祝福が付与するバフ。<br>1層につき、攻撃力+ 3.0% 、防御力+ 3.0% 、この効果は最大で 35.0 層累積できる。"
     },
     "60000006": {
-        "Name": "Amber",
-        "Desc": "When a character with a Shield receives DMG that exceeds the max DMG that can be absorbed by the Shield, the excess DMG becomes invalid. This effect is removed after 1 activation."
+        "Name": "琥珀",
+        "Desc": "バリアを持つキャラが、バリア耐久値が0になる攻撃を受けた時、耐久値を超えたダメージが無効になる。効果発揮後に消える。"
     },
     "60000007": {
-        "Name": "Confusion",
-        "Desc": "When enemies are Weakness Broken, every stack of Confusion will cause all DoTs currently on the enemy to immediately deal DMG equal to  30.0%  of their original DoT. Consumes 1 stack of Confusion. Confusion can stack up to 5 times."
+        "Name": "戸惑い",
+        "Desc": "弱点撃破状態になった時、「戸惑い」1層につき、付与された全持続ダメージ系デバフが、本来のダメージ 30.0% 分のダメージを発生する。その後、この状態が1層消費される。最大で5層累積できる。"
     },
     "60000008": {
-        "Name": "Devoid",
-        "Desc": "Each stack reduces Toughness regeneration by  10.0% , stacking up to 5 times."
+        "Name": "空虚",
+        "Desc": "1層につき、靭性の回復量- 10.0% 。最大で5層累積できる。"
     },
     "60000009": {
-        "Name": "Subduing Evils",
-        "Desc": "Can consume 1 stack of this state to resist a debuff once, and then restore HP equal to  10.0%  of the character's Max HP. This state can stack up to  5.0  time(s)."
+        "Name": "諸厄調伏",
+        "Desc": "1層消費してデバフを1回抵抗できる。抵抗した後にHPを最大HP 10.0% 分回復。最大で 5.0 層累積できる。"
     },
     "60000010": {
-        "Name": "Light-Hunting Celestial Arrow",
-        "Desc": "CRIT DMG increases by an amount equal to  80.0%  of CRIT Rate. Gains one extra turn after defeating the enemy. This effect cannot trigger repeatedly."
+        "Name": "光巡の天矢",
+        "Desc": "会心ダメージが、会心率 80.0% 分アップする。さらに、敵を倒した後に追加ターンを獲得する、この効果は重複して発動できない。"
     },
     "60000011": {
-        "Name": "Entropic Retribution",
-        "Desc": "DEF decreases by  20.0% . At the beginning of each turn, the unit receives Additional Fire DMG equal to  125.0%  of the HP difference between all allied characters' Max HP and their current HP."
+        "Name": "破滅の笞罪",
+        "Desc": "防御力- 20.0% 、ターンが回ってくるたびに、味方全体の失ったHP 125.0% 分の炎属性付加ダメージを受ける。"
     },
     "60000012": {
-        "Name": "Suspicion",
-        "Desc": "Debuff brought by certain Nihility Blessings.<br>Increases DoT taken by  1.0% . Stacks up to  99.0  times, but loses  2.0  stacks at the end of the turn."
+        "Name": "懐疑",
+        "Desc": "特定の「虚無」の運命の祝福が付与するデバフ。<br>1層につき、持続被ダメージ+ 1.0% 、この効果は最大で 99.0 層累積できる。ターン終了時に層数- 2.0 。"
     },
     "60000013": {
-        "Name": "Dewdrop",
-        "Desc": "An effect that can be charged up, formed by specific Blessings of Abundance.<br>The Charge cannot exceed  500.0%  of the character's Max HP. Dewdrop ruptures after the character attacks, dealing Additional DMG to the attacked enemy based on Charge value."
+        "Name": "珠露",
+        "Desc": "特定の「豊穣」の運命の祝福が作り出すチャージ効果。<br>チャージ値はキャラの最大HPの 500.0% を超えない。攻撃を行った後に破裂し、チャージ値に応じて、攻撃した敵に付加ダメージを与える。"
     },
     "60000014": {
-        "Name": "Sensory Pursuit",
-        "Desc": "Each stack increases the received follow-up attack DMG by  8.0% ."
+        "Name": "感覚追猟",
+        "Desc": "1層につき、追加攻撃に対する被ダメージ+ 8.0% 。"
     },
     "60000015": {
-        "Name": "Eonian River",
-        "Desc": "When debuffed, the duration of this debuff doubles."
+        "Name": "永久の河",
+        "Desc": "デバフを付与された時、そのデバフの継続時間が倍になる。"
     },
     "60000016": {
-        "Name": "Metamorphosis",
-        "Desc": "During an attack, for every skill point consumed or recovered, the attack can ignore  10.0%  of the target enemy's all-Type RES. This effect can stack up to  2.0  times."
+        "Name": "変成",
+        "Desc": "攻撃時、SPを1消費または回復するたびに、その攻撃は敵の全耐性を 10.0% 無視する。最大 2.0 層まで累積できる。"
     },
     "60000017": {
-        "Name": "Spores",
-        "Desc": "When the spore count is equal to or greater than  3.0 , it will burst upon being attacked by a character, causing Additional Wind DMG (unaffected by bonuses) to the target with the Spores. After the explosion, it will spread to a random adjacent target and cannot spread again. Each enemy target can hold a maximum of  6.0  spores."
+        "Name": "胞子",
+        "Desc": "所持数が 3.0 個以上の時、キャラクターの攻撃を受けた際に破裂し、所持ターゲットにバフの影響を受けない風属性付加ダメージを与える。破裂後は隣接するランダムなターゲットに伝播し、二次伝播はしない。最大で 6.0 個所持できる。"
     },
     "61000001": {
-        "Name": "Hounding Pursuit",
-        "Desc": "Domains with this effect will not swap positions with adjacent domains (Aside from Emergencies)"
+        "Name": "追猟",
+        "Desc": "この効果があるエリアは隣接するエリアと位置が入れ替わることはない（突発イベントは除く）"
     },
     "61000002": {
-        "Name": "Cornerstone",
-        "Desc": "Domains with this effect will not collapse"
+        "Name": "礎",
+        "Desc": "この効果があるエリアでは崩落は発生しない"
     },
     "61000003": {
-        "Name": "Mercy",
-        "Desc": "When entering domains with this effect applied, the countdown is not consumed and increases by 1 point.<br>(This effect will expire after triggering Planar Disarray.)"
+        "Name": "慈愛",
+        "Desc": "この効果があるエリアに入る時、カウントダウンが減少せず、1増加する。<br>（この効果は「次元界不安定！」が発動した後、発動できなくなる）"
     },
     "61000004": {
-        "Name": "Recollection",
-        "Desc": "Increases the Effect Hit Rate of all allies when entering any domains with this effect."
+        "Name": "追憶",
+        "Desc": "この効果があるエリアに入ると、味方全体の効果命中がアップする"
     },
     "61000005": {
-        "Name": "Enhance",
-        "Desc": "Enhance beacon. Enemies in domains with this beacon are enhanced. When selecting a Blessing after winning a battle, enhance all Blessings."
+        "Name": "強化",
+        "Desc": "強化ビーコン。このビーコンがあるエリアは、敵が強化される。戦闘に勝利して祝福を選択する時、すべての祝福は強化される。"
     },
     "61000006": {
-        "Name": "Mutation",
-        "Desc": "Mutation beacon. Enemies in the domains with this beacon will become \"Bugs.\" After winning a battle, receive additional Cosmic Fragments."
+        "Name": "異化",
+        "Desc": "異化ビーコン。このビーコンがあるエリアの敵は、「バグ」の敵になる。戦闘に勝利すると追加の宇宙の欠片を獲得できる。"
     },
     "61000007": {
-        "Name": "Blessing Trotter",
-        "Desc": "Blessing Trotter beacon. There will be a Trotter in domains with this beacon. Defeat it to obtain additional Blessings."
+        "Name": "祝福プーマン",
+        "Desc": "祝福プーマンのビーコン。このビーコンがあるエリア内での戦闘では、プーマンが出現する。プーマンを倒すと追加の祝福を獲得できる。"
     },
     "61000008": {
-        "Name": "Curio Trotter",
-        "Desc": "Curio Trotter beacon. There will be a Trotter in domains with this beacon. Defeat it to obtain additional Curios."
+        "Name": "奇物プーマン",
+        "Desc": "奇物プーマンのビーコン。このビーコンがあるエリアにはプーマンが出現する。プーマンを倒すと追加の奇物を獲得できる。"
     },
     "61000009": {
-        "Name": "Blank",
-        "Desc": "Blank Domain. Nothing will happen in this domain."
+        "Name": "空白",
+        "Desc": "空白エリア。このエリアでは何も起こらない。"
     },
     "61000010": {
-        "Name": "Respite",
-        "Desc": "Respite Domain. You can enhance Blessings, download characters, and reset characters in this domain."
+        "Name": "調整",
+        "Desc": "休憩エリア。このエリアでは祝福の強化、キャラクターのダウンロードとリセットが行える。"
     },
     "61000011": {
-        "Name": "Combat",
-        "Desc": "Combat Domain. Defeat enemies in this domain to receive Blessings."
+        "Name": "戦闘",
+        "Desc": "戦闘エリア。このエリアで敵を倒すと祝福を獲得できる。"
     },
     "61000012": {
-        "Name": "Combat: Swarm",
-        "Desc": "Special Combat Domain. Defeat Swarm enemies in this domain to receive Blessings of Propagation."
+        "Name": "戦闘・スウォーム",
+        "Desc": "特殊な戦闘エリア。このエリアでスウォームを倒すと「繁殖」の祝福を獲得できる。"
     },
     "61000013": {
-        "Name": "Elite",
-        "Desc": "Elite Domain. Defeat Elite Enemies in this domain for a chance to receive a 1-3 star Blessing."
+        "Name": "精鋭",
+        "Desc": "精鋭エネミーエリア。このエリアで精鋭エネミーを倒すと、★1～3の祝福を1個獲得できる。"
     },
     "61000014": {
-        "Name": "Adventure",
-        "Desc": "Adventure Domain. Complete the various challenges in this domain to obtain rewards."
+        "Name": "挑戦",
+        "Desc": "挑戦エリア。このエリアで様々な挑戦をクリアするとボーナスを獲得できる。"
     },
     "61000015": {
-        "Name": "Reward",
-        "Desc": "Reward Domain. Select from different rewards in this domain."
+        "Name": "ボーナス",
+        "Desc": "ボーナスエリア。このエリアでは、選択することで様々なボーナスを獲得できる。"
     },
     "61000016": {
-        "Name": "Occurrence",
-        "Desc": "Occurrence Domain. Different outcomes can be achieved in this domain based on your choices."
+        "Name": "イベント",
+        "Desc": "イベントエリア。このエリアでは、選択することで異なる結果が発生する。"
     },
     "61000017": {
-        "Name": "Occurrence: Swarm",
-        "Desc": "Special Occurrence Domain. The Swarm's alertness can be affected by the choices you make in this domain. The higher the Swarm's alertness, the more dangerous the Special Occurrence in the domain becomes."
+        "Name": "イベント・スウォーム",
+        "Desc": "特殊イベントエリア。このエリアでの選択はスウォームの警戒値を上げる。スウォームの警戒値が高いほど、このエリアでのイベントが危険なものになる。"
     },
     "61000018": {
-        "Name": "Boss",
-        "Desc": "Boss Domain. Defeat the Boss in this domain to pass this plane and receive Blessings and Curios."
+        "Name": "ボス",
+        "Desc": "ボスエリア。このエリアでボスエネミーを倒すと次元界をクリアし、祝福と奇物を獲得できる。"
     },
     "61000019": {
-        "Name": "Boss: Swarm",
-        "Desc": "Special Boss Domain. Defeating Swarm: True Sting (Complete) in this domain can clear this run of Simulated Universe."
+        "Name": "ボス・スウォーム",
+        "Desc": "特殊なボスエリア。このエリアでスウォーム・真蟄虫（スペック）を倒すと、模擬宇宙をクリアできる。"
     },
     "61000020": {
-        "Name": "Transaction",
-        "Desc": "Transaction Domain. Consume Cosmic Fragments in this domain to purchase Blessings and Curios."
+        "Name": "取引",
+        "Desc": "取引エリア。このエリア内では宇宙の欠片を消費して祝福や奇物を購入できる。"
     },
     "61000021": {
-        "Name": "Knowledge",
-        "Desc": "Domains marked by the dice's power will manifest different effects based on the different Passive Abilities chosen."
+        "Name": "知識",
+        "Desc": "サイコロの能力によってマークされたエリアは、選んだパッシブ能力の違いによって、異なる効果を発揮する。"
     },
     "61000022": {
-        "Name": "Path Boost",
-        "Desc": "After fulfilling the dice's passive effect requirements, different effect bonuses will be provided based on the chosen Path."
+        "Name": "運命強化",
+        "Desc": "サイコロのパッシブ効果の要求を満たした時、選んだ運命に応じて異なる効果のバフを提供する。"
     },
     "61000023": {
-        "Name": "Intra-Cognition",
-        "Desc": "Special Occurrence Domain. You can adjust your Intra-Cognition value in this domain and go to varied branches."
+        "Name": "自己認識",
+        "Desc": "特殊イベントエリア。このエリアでは自己認識の数値を調整し、異なる分岐に向かうことができる。"
     },
     "61000024": {
-        "Name": "Occurrence: Abnormal",
-        "Desc": "Special Occurrence Domain. You are more likely to encounter Occurrences with higher risks in this domain."
+        "Name": "イベント・異常",
+        "Desc": "特殊イベントエリア。このエリアでは比較的にリスクが大きいイベントに遭遇しやすくなる。"
     },
     "61000025": {
-        "Name": "Double",
-        "Desc": "Double Beacon. In Elite Domains with this beacon, the number of Elite Enemies are doubled. Occurrence, Reward, and Abnormal Domains with this beacon will also have the number of events in the domains doubled."
+        "Name": "2倍",
+        "Desc": "2倍ビーコン。このビーコンがある精鋭エリアでは、精鋭エネミーの数が倍になる。このビーコンがあるイベント、ボーナス、異常エリアのイベント数が2倍になる。"
     },
     "61000026": {
-        "Name": "Select",
-        "Desc": "Select Beacon. Domains with this beacon will have 3 Occurrences within them. After starting any of the Occurrences, the other 2 will disappear."
+        "Name": "選択",
+        "Desc": "選択ビーコン。このビーコンがあるエリアでは、イベントの数が3つになる。どれか1つのイベントを選ぶと、他の2つのイベントは消える。"
     },
     "61000031": {
-        "Name": "Resonance Extrapolation: \"The Hunt\"",
-        "Desc": "When Resonance Extrapolation: \"The Hunt\" takes action, it deals Wind DMG to all allies based on the boss' Type . All units' actions Advance Forward the Resonance's action."
+        "Name": "反響推演「巡狩」",
+        "Desc": "反響推演「巡狩」が行動する時、ボスエネミーの属性に応じて、味方全体に風属性ダメージを与える。任意のユニットが行動をする時、反響推演の行動順が早まる。"
     },
     "61000032": {
-        "Name": "Formation Extrapolation: Bow and Arrow",
-        "Desc": "When Resonance Extrapolation deals DMG to allies with HP below  50.0%  of their Max HP, its CRIT Rate increases by  100%  and CRIT DMG increases to  40.0% ."
+        "Name": "構音推演：柘弓に疾矢",
+        "Desc": "反響推演が残りHPが 50.0% 未満の味方にダメージを与える時、会心率+ 100% 、会心ダメージが 40.0% にアップする。"
     },
     "61000033": {
-        "Name": "Formation Extrapolation: Star Hunter",
-        "Desc": "The boss immediately acts after the Resonance Extrapolation's attack."
+        "Name": "構音推演：星を狩りて日を巡る",
+        "Desc": "反響推演が攻撃を行った後、ボスエネミーを即座に行動させる。"
     },
     "61000034": {
-        "Name": "Resonance Extrapolation: \"Destruction\"",
-        "Desc": "When Resonance Extrapolation: \"Destruction\" takes action, it deals Fire DMG to all allies. All units' actions Advance Forward the Resonance's action."
+        "Name": "反響推演「壊滅」",
+        "Desc": "反響推演「壊滅」が行動する時、味方全体に炎属性ダメージを与える。任意のユニットが行動をする時、反響推演の行動順が早まる。"
     },
     "61000035": {
-        "Name": "Formation Extrapolation: Extreme Helium Flash",
-        "Desc": "The Resonance Extrapolation's attacks reduce the target's DEF by  30.0%  for  2.0  turn(s)."
+        "Name": "構音推演：ヘリウムフラッシュ",
+        "Desc": "反響推演が攻撃を行った後、キャラクターの防御力を 30.0% ダウンさせる。 2.0 ターン継続。"
     },
     "61000036": {
-        "Name": "Formation Extrapolation: Zero Age Main Sequence",
-        "Desc": "After a target is defeated, Resonance Extrapolation's action will Advanced Forward by  50.0% ."
+        "Name": "構音推演：零歳主系列",
+        "Desc": "敵が倒された後、反響推演の行動が 50.0% 早まる。"
     },
     "61000037": {
-        "Name": "Resonance Extrapolation: \"Nihility\"",
-        "Desc": "When Resonance Extrapolation: \"Nihility\" takes action, it has a chance to inflict DoT effects on the characters. All units' actions Advance Forward the Resonance's action."
+        "Name": "反響推演「虚無」",
+        "Desc": "反響推演「虚無」が行動する時、確率で味方に持続ダメージ系デバフを付与する。任意のユニットが行動をする時、反響推演の行動順が早まる。"
     },
     "61000038": {
-        "Name": "Formation Extrapolation: The Doubtful Fourfold Root",
-        "Desc": "The Resonance Extrapolation has a higher chance of inflicting DoT effects for the next  1.0  turn(s)."
+        "Name": "構音推演：疑いの四つの根",
+        "Desc": "反響推演が持続ダメージ系デバフを付与する確率がアップし、持続ダメージ系デバフの継続時間+ 1.0 ターン。"
     },
     "61000039": {
-        "Name": "Formation Extrapolation: Outsider",
-        "Desc": "When allies receive DMG from a DoT effect, the Resonance Extrapolation's action is Advanced Forward."
+        "Name": "構音推演：異邦人",
+        "Desc": "味方が持続ダメージを受けるたび、反響推演の行動順が早まる。"
     },
     "61000040": {
-        "Name": "Resonance Extrapolation: \"Abundance\"",
-        "Desc": "When Resonance Extrapolation: \"Abundance\" takes action, it restores HP for all enemies. All units' actions Advance Forward the Resonance's action."
+        "Name": "反響推演「豊穣」",
+        "Desc": "反響推演「豊穣」が行動する時、敵全体のHPを回復する。任意のユニットが行動をする時、反響推演の行動順が早まる。"
     },
     "61000041": {
-        "Name": "Formation Extrapolation: Anicca",
-        "Desc": "When the Resonance Extrapolation acts, it removes  4.0  debuff(s) from each enemy."
+        "Name": "構音推演：諸行無常",
+        "Desc": "反響推演が行動する時、敵全体にあるデバフをそれぞれ 4.0 つ解除する。"
     },
     "61000042": {
-        "Name": "Formation Extrapolation: Mountain High",
-        "Desc": "When the Resonance Extrapolation acts, it increases all enemies' ATK by  30.0%  for  1.0  turn(s)."
+        "Name": "構音推演：先に山を照らす",
+        "Desc": "反響推演が行動する時、敵全体の攻撃力+ 30.0% 、 1.0 ターン継続。"
     },
     "61000043": {
-        "Name": "Synapse Resonance",
-        "Desc": "After receiving an attack from a character, this unit and the enemy target with the highest Max HP take Ultimate DMG equal to  70.0%  of the attacker's ATK one time. Then, 1 trigger count is consumed. This effect expires after being triggered  15.0  time(s) in total."
+        "Name": "シナプス共鳴",
+        "Desc": "キャラクターの攻撃を受けた後、自身および最大HPが最も高い敵に、攻撃者の攻撃力 70.0% 分の必殺技ダメージを1回与え、発動可能回数-1。この効果は敵全体で 15.0 回発動した後解除される。"
     },
     "61000044": {
-        "Name": "Brain in a Vat",
-        "Desc": "If the Enlightenment Charge of \"Brain in a Vat\" reaches  100% , when a character uses their Ultimate through a method other than \"Brain in a Vat,\" the Ultimate will be activated again, consuming  100%  of the Enlightenment Charge."
+        "Name": "缶詰の脳",
+        "Desc": "「缶詰の脳」の啓発チャージが 100% に達した後、キャラクターが「缶詰の脳」以外の方法で必殺技を発動すると、再度必殺技を発動できる。この方法で必殺技を発動すると啓発チャージを 100% 消費する。"
     },
     "61000045": {
-        "Name": "AoE ATK",
-        "Desc": "A kind of ability tag. Ability effects that are primarily AoE attacks will have this tag."
+        "Name": "全体攻撃",
+        "Desc": "スキルタグの一種。全体攻撃系のスキルは全部このタグが付く。"
     },
     "70000001": {
-        "Name": "Continuous Hook Kick",
-        "Desc": "Takes Wind DMG at the start of each turn for a certain number of turns. This status can be stacked."
+        "Name": "連続蹴り",
+        "Desc": "数ターンの間、ターンが回ってくるたびに風属性ダメージを受ける。この状態は累積できる。"
     },
     "70000002": {
-        "Name": "Thunderous Slap",
-        "Desc": "Receive Additional Lightning DMG after being attacked by Lightning-Type Ultimates."
+        "Name": "雷霆ビンタ",
+        "Desc": "雷属性の必殺技を受けた後、さらに雷属性付加ダメージを受ける。"
     },
     "70000003": {
-        "Name": "Spinning Back Fist",
-        "Desc": "Units that are both Weakness Broken and Burned will receive Additional Fire DMG when they are attacked."
+        "Name": "旋回裏拳",
+        "Desc": "同時に燃焼状態と弱点撃破状態にある敵は、攻撃を受けた後にさらに炎属性付加ダメージを受ける。"
     },
     "70000004": {
-        "Name": "Jawbreaker",
-        "Desc": "When Frozen enemies are attacked by allies, receive Additional Ice DMG based on the enemy's ATK."
+        "Name": "下顎粉砕",
+        "Desc": "凍結状態の時、味方の攻撃を受けた後、さらにその味方の攻撃力に応じた氷属性付加ダメージを受ける。"
     },
     "70000101": {
-        "Name": "Gloomfire",
-        "Desc": "For a certain number of turns, takes Fire DMG that is based on character ATK at the start of each turn."
+        "Name": "暗火",
+        "Desc": "数ターンの間、ターンが回ってくるたびにキャラの攻撃力に応じた炎属性ダメージを受ける。"
     },
     "70000102": {
-        "Name": "Quake",
-        "Desc": "Additional DMG caused by Stage Buff. If triggered during an attack, cannot defeat the enemy target."
+        "Name": "反震",
+        "Desc": "ステージバフが与える付加ダメージ。攻撃を受けた時に発動した場合、敵はこのダメージでは倒されない。"
     },
     "220020301": {
-        "Name": "Reverberation",
-        "Desc": "After receiving an attack, become afflicted with Strong Reverberation, then dispels Reverberation."
+        "Name": "震とう",
+        "Desc": "攻撃を受けた後、「強烈震とう」状態になり、「震とう」状態を解除する。"
     },
     "70000201": {
-        "Name": "Overflow DMG",
-        "Desc": "The DMG that this attack deals will exceed the target's current HP when they are defeated."
+        "Name": "超過ダメージ",
+        "Desc": "敵を倒した時、その回の攻撃のダメージ量が敵の残りHPを超えた部分。"
     },
     "70000202": {
-        "Name": "Detonate",
-        "Desc": "Every unit afflicted by this effect will additionally take a fixed amount of DMG on account of the Detonate stacks. The DMG will increase with the number of Detonate stacks. The effect is dispelled when the affected unit takes action."
+        "Name": "爆弾",
+        "Desc": "所持者は攻撃を受けるたびに、さらに「爆弾」層数に応じた固定ダメージを受ける。「爆弾」層数が高いほど、その固定ダメージがアップする。所持者が行動する時に「爆弾」層数がリセットされる。"
     },
     "70000203": {
-        "Name": "Galefury",
-        "Desc": "Characters with Galefury will consume one of its stacks at the end of their turn and have their Action Advanced forward by  100% ."
+        "Name": "風怒",
+        "Desc": "キャラクターが「風怒」を持つ時、ターン終了時に「風怒」を1層消費し、行動順を 100% 早める。"
     },
     "70000204": {
-        "Name": "Shudder",
-        "Desc": "The Trotter additionally takes DMG."
+        "Name": "戦慄",
+        "Desc": "プーマンがさらにダメージを受ける。"
     },
     "70000205": {
-        "Name": "Wind Shear",
-        "Desc": "Takes Wind DMG at the start of each turn for a certain number of turns. This status can be stacked."
+        "Name": "風化",
+        "Desc": "一定ターンの間、ターンが回ってくるたびに風属性ダメージを受ける。この状態は累積できる。"
     },
     "70000206": {
-        "Name": "Fatigued",
-        "Desc": "Each stack of Fatigue causes enemies to receive more DMG."
+        "Name": "疲労",
+        "Desc": "「疲労」1層につき、敵の被ダメージがアップする。"
     },
     "70000207": {
-        "Name": "Bellow",
-        "Desc": "Each stack of Bellow causes the unit with the effect to deal more DMG."
+        "Name": "叫び",
+        "Desc": "「叫び」1層につき、所持者の与ダメージがアップする。"
     },
     "70000208": {
-        "Name": "Blood Rage",
-        "Desc": "Each stack of Blood Rage increases the CRIT Rate and CRIT DMG of the affected unit."
+        "Name": "血狂い",
+        "Desc": "「血狂い」1層につき、所持者の会心率と会心ダメージがアップする。"
+    },
+    "70000210": {
+        "Name": "召喚",
+        "Desc": "このタイプの武器はアクションバーに出現し、行動する時に対応する効果を発動する。"
+    },
+    "70000211": {
+        "Name": "範囲",
+        "Desc": "このタイプの武器は隣接する複数の敵に範囲攻撃を行う。"
+    },
+    "70000212": {
+        "Name": "集中",
+        "Desc": "このタイプの武器は精鋭、ボスエネミーにさらにダメージを与える。"
+    },
+    "70000213": {
+        "Name": "発射",
+        "Desc": "このタイプの武器は敵に複数回の攻撃を行い、対応する効果を付与する。"
+    },
+    "10000014": {
+        "Name": "弱点撃破ダメージ",
+        "Desc": "撃破特効以外のステータスに左右されないダメージ。キャラクターレベルと敵の最大靭性が高いほど、与える弱点撃破ダメージはアップする。"
+    },
+    "23025011": {
+        "Name": "異夢",
+        "Desc": "行動不能。ターンが回って来るたび少量のHPとEPを回復する。攻撃を受けると被ダメージが大幅にアップし、その後【異夢】状態が解除される。"
+    },
+    "10000011": {
+        "Name": "行動制限系デバフ",
+        "Desc": "凍結、もつれ、禁錮、支配、怒噪、強烈震とう、異夢。"
+    },
+    "23003051": {
+        "Name": "",
+        "Desc": ""
+    },
+    "23003052": {
+        "Name": "",
+        "Desc": ""
     }
 }

@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "20000": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br><br><i>\"The hunter's eyes are the clearest when they pull back the bowstring with the arrow nocked.\"</i>"
+    "20000": "凝縮された時間から得られる希薄な力。一瞬にも満たない刹那が、壮絶な運命を織りなす。<br><br><i>「狩人の目が最も澄んでいるのは、矢が弦にかかり、鹿を仕留めるために弦を引く瞬間」</i>"
 }
 
 var _weaponskill_ = {

@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23011": "The ache in the middle of her forehead will accompany her for the rest of her life, but it is only a fraction of what she had experienced in the past.<br>She thought herself prescient until the departure of those for whom she cared.<br>She now \"sees\" the world ever-changing, the times ever-shifting...<br>But she already shut her eyes, because the future has already been determined<br>...inside \"the third eye.\""
+    "23011": "이마의 고통은 여생을 함께하겠지만 그것은 과거 고통의 만 분의 일도 안 된다.<br>그녀는 과거의 인연이 세상을 떠나기 전까지 자신이 모든 미래를 알고 있다고 자부했다.<br>지금의 그녀는 만상이 대체되고 시대가 변하는 것을 「지켜본다」….<br>하지만 그녀는 두 눈을 감았다.<br>미래는 「제3의 눈」에서 결정되었기에——"
 }
 
 var _weaponskill_ = {

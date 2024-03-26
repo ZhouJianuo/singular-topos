@@ -3,27 +3,27 @@
 var _relicitem_ = {
     "103": [
         {
-            "Name": "Knight's Forgiving Casque",
-            "Desc": "A casque that resembles the religious stone statues of the Goddess of Forgiveness. It was used to hide the wearer's appearance.",
-            "Story": "The Solemn Knight had never taken off her hard and heavy casque before anybody. Safina's religious solemnity and silence projected an unbearable air of intimidation.<br><br>Haughty devils and mad clergy all instinctively cowered in fear before her solemn presence.<br><br>Only few of the clergy knew that Safina's devilish origins were concealed behind that casque of religiosity. The church both feared and craved for the devils' powers, which was how the conflicted result came to be... The church captured a newborn devil, trained her to become a valiant Solemn Knight, yet forbid her to ever reveal her true appearance, molded her to always obey the pontiff's order, and eventually made her the Maiden's silent knight.<br><br>Maiden Vanira was of a similar age to Safina, and she was the one who guided Safina to learn the scriptures. To this day, Maiden Vanira could still remember the devil's profile in candlelight.<br><br>\"My dear Safina, I have seen your face. I will remember it, always.\" Maiden Vanira gradually lost her eyesight after reaching adulthood.",
+            "Name": "{RUBY_B#せいきし}聖騎士{RUBY_E#}の{RUBY_B#ゆる}赦{RUBY_E#}しのヘルム",
+            "Desc": "宗教彫刻の、赦しの女神を模ったヘルム、自分の顔を隠すためにある。",
+            "Story": "沈黙騎士は人前で硬く重いヘルムを外したことがない。その荘厳で宗教的なヘルムと、サフィナの沈黙が相まって、息苦しいほどの威圧感を醸し出している。<br><br>傲慢な悪魔も、狂気に囚われた聖職者も、荘厳な圧力のもとに本能的な恐怖をさらけ出すことしかできなくなる。<br><br>教皇庁でも少数の聖職者しか知らない、サフィナのその宗教的なヘルムの下に隠されているのは、悪魔としての出自。教皇庁は悪魔を恐れながらも、その力を欲していた、それが矛盾な結果を生んだ…幼年の悪魔を捕らえ、彼女を勇敢な沈黙騎士に鍛え上げた。だが彼女が人前で素顔をさらけ出すのは禁じられ、教皇の命に従い、聖女の沈黙騎士として従事する事だけが許された。<br><br>年の近い聖女バニラは自らサフィナに聖書の勉学を指導していた、彼女は今でも燭光に照らされる悪魔の横顔を覚えている。<br><br>「親愛なるサフィナ、私はあなたの顔を見たことがある。ずっと覚えているわ」聖女バニラは、大人になってから徐々に視力を失っていった。",
             "Icon": "IconRelic_103_1.png"
         },
         {
-            "Name": "Knight's Silent Oath Ring",
-            "Desc": "A silver ring decorated with an ecclesiastical pattern, embedded with a rather cloudy gemstone.",
-            "Story": "Bit by bit, solemnity and decorum crumbled, and the Knights of the Church raised their swords against each other as the rings they swore to protect grew dim.<br><br>The power granted from the stellar seas gifted the Church the strength to punish devils, but also spread an insanity that ate away at human rationality.<br><br>Tormented by this madness, the Knights of the Church could no longer discern decorum and order, obsessed with expelling all devil-spawns for the salvation of the whole church. When these threats came for the Maiden, Safina had no time to hesitate. She cannot stay her hand even if her opponent was the Arch Knight of the Church of Purity Palace.<br><br>The Solemn Knight must always protect and defend the Maiden. Safina did not forget that creed.<br><br>\"My dear Safina, there is no need to feel guilty. This is the consequence of coveting the power of the Aeons.\" All there were left in the church were the last Maiden and her guardian knight.",
+            "Name": "{RUBY_B#せいきし}聖騎士{RUBY_E#}の{RUBY_B#ちんもく}沈黙{RUBY_E#}の{RUBY_B#ちか}誓{RUBY_E#}いの{RUBY_B#ゆびわ}指輪{RUBY_E#}",
+            "Desc": "教会のシンボルを模った銀の指輪、少し濁った宝石がはめられている。",
+            "Story": "教皇庁の騎士達は仲間に剣を振るいかざした、純庭教会の厳粛さと典礼は次第に崩壊し、守護を誓った指輪は濁り、穢れていった。<br><br>星の海から降り注ぐ力は、教会に悪魔を罰する力を与えたが、一方で人間性を奪う疾病を蔓延させた。<br><br>疾病に苛まれる騎士達は既に典礼と秩序を認識できなくなり、悪魔の血を持つ者を一人残らず駆逐すると喚きたて、教会に救いをもたらすと叫ぶ。聖女に迫る脅威を前に、サフィナに躊躇している時間はない、たとえ相手が純庭教会の騎士長であっても、彼女は手加減できない。<br><br>サフィナは忘れていない、沈黙騎士は聖女を守るためにあると。<br><br>「親愛なるサフィナ、あなたが罪悪感を感じる必要はありません。これは星神の力を貪ろうとした、当然の結果よ」教会に残ったのは、最後の聖女と守護騎士のみである。",
             "Icon": "IconRelic_103_2.png"
         },
         {
-            "Name": "Knight's Solemn Breastplate",
-            "Desc": "A heavy breastplate decorated with the distinctive symbols of the Church of Purity Palace. Even the joints are airtight.",
-            "Story": "The armor of the Solemn Knight must be blessed by Maiden Vanira, a ceremony where one makes a vow to become the guardian knight.<br><br>The Church once constrained the young devil's hands and feet in metal chains. Now, Safina appealed that her armor should be forged with metals from the land of devils, so that one day she may rest in peace alongside something from her homeland.<br><br>The Maiden of the Church of Purity Palace carefully washed the sins from the armor, recited reverent prayers to god, and sealed an ancient miracle on a point on the breastplate right above the heart. The Church did not believe in the loyalty of devils, but they were convinced that their doctrines could purify everything. Safina gazed in silence while this ancient ritual assigned the responsibility to her.<br><br>The Maiden did not believe that the ceremony had any purpose, or that there are any make-belief sins to be washed away.<br><br>\"My dear Safina, the knight must protect the Maiden well.\" Leaning against Safina's breastplate, Vanira could clearly hear the intense beating of Safina's heart.",
+            "Name": "{RUBY_B#せいきし}聖騎士{RUBY_E#}の{RUBY_B#おごそ}厳{RUBY_E#}かな{RUBY_B#よろい}鎧{RUBY_E#}",
+            "Desc": "重厚な鎧には、純庭教会の特徴的なシンボルがあしらわれ、接合部は密封性が高い。",
+            "Story": "沈黙騎士の鎧は、バニラの祝福を受ける必要があり、それを以て守護騎士の誓いの儀式を完成させる。<br><br>純庭教会はかつて金属の鎖で幼き悪魔の手足を縛り拘束した。今、サフィナは悪魔の国からの金属で鎧を鋳造し、死ぬ時に故郷が傍に居れるよう懇願した。<br><br>純庭教会の聖女は鎧に付いた罪を丁寧に洗い流し、敬虔に神に祈りを捧げ、古の奇跡をプレートアーマーの心臓の位置に封印した。教会は悪魔の忠誠を信用しなかったが、教義は全てを浄化する力を持つと堅信していた。サフィナは静かに、古の儀式が己に責任を与える過程を注視した。<br><br>聖女は儀式そのものの目的を信じていない、在りもしない罪など洗いようがない。<br><br>「親愛なるサフィナ、騎士は聖女を守るのよ」バニラはサフィナの胸甲に寄りかかると、激しい鼓動が聞こえた。",
             "Icon": "IconRelic_103_3.png"
         },
         {
-            "Name": "Knight's Iron Boots of Order",
-            "Desc": "Standard boots distributed to the Knights of the Church of Purity Palace, with a simple word carved on their heels: Order.",
-            "Story": "After the collapse of the Church of Purity Palace, Safina took off the knight's iron boots and embarked with Maiden Vanira on a long journey to the land of devils.<br><br>At the request of the Maiden, Safina did not let any Knights of the Church carry the madness out of the Church. This secret was forever buried deep down in their hearts.<br><br>No one knew when this rumor started — a devil-spawn once banished by the Church had possessed the holy Solemn Knight, and an evil witch drove the Knight to break down the order of the pontiff... As time passed, rumors became truths. The devout followers of the Church blamed it all on the Solemn Knight, dumping all their desperation and madness onto her, deeming her as the source of all disasters.<br><br>After losing their place of refuge, the Maiden suggested that they should set forth for their homeland.<br><br>\"Henceforth, I will become a witch, and you will return to being a devil.\" Safina could not deny the validity of Vanira's statement.",
+            "Name": "{RUBY_B#せいきし}聖騎士{RUBY_E#}の{RUBY_B#ちつじょ}秩序{RUBY_E#}の{RUBY_B#てつくつ}鉄靴{RUBY_E#}",
+            "Desc": "純庭教会騎士団の制式騎士用靴。かかとには「秩序」という短い単語が刻まれている。",
+            "Story": "純庭教会は崩壊した、サフィナは騎士の鉄靴を脱ぎ棄て、聖女バニラと共に悪魔の国への長い旅に出た。<br><br>聖女の懇願の下、サフィナは全ての騎士と疾病を教会に残した、この秘密は彼女たちが永遠に守っていく事にした。<br><br>何時からか、人々はとある噂を聞いた。教会に駆逐された悪魔の血族は清潔なる沈黙騎士に憑依し、邪悪な魔女は騎士を操り教皇の秩序を破壊した…噂はやがて「真相」となり、敬虔な信徒たちは沈黙騎士を災いの元凶とし、絶望と狂気を彼女にぶつけた。<br><br>居場所をなくした後、聖女は里帰りを彼女に提案した。<br><br>「今から、私は魔女になり、あなたは悪魔に戻るの」サフィナはバニラの言葉を否定できなかった。",
             "Icon": "IconRelic_103_4.png"
         }
     ]

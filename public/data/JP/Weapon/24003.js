@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "24003": "Things molded by the hands of secrecy are shapeless and incorporeal.<br>In the totality of emptiness, there yet exists a sudden dreaming.<br>Those that court destruction will reap ruinous fruit, while those that clamor to live will survive.<br>That which is extinguished may yet spark, and that which has dried may yet be filled anew.<br>In compassion for the salvation of chaos, the elixir nurtures the shadows.<br>With back faced to the darkness between the stars, the encapsulation of this vessel can only be done in vain.<br><br><i>\"Paradoxical these knowings are, in them shine the fullness of our pride.\"</i>"
+    "24003": "神秘的な存在、無相にして無形。<br>万物は空虚であり、一瞬の夢にすぎない。<br>自ら滅するものは滅び、生きたい者は生きる。<br>消えゆくものが輝き、枯れるものが水を満たされる。<br>混沌の救済を悲しみ、霊薬は虚影を大きくする。<br>星の暗黒面に背を向け、いたずらに瓶に封印する。<br><br><i>「このような逆説に我らは誇りを感じる。」</i>"
 }
 
 var _weaponskill_ = {

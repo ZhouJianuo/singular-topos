@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23011": "The ache in the middle of her forehead will accompany her for the rest of her life, but it is only a fraction of what she had experienced in the past.<br>She thought herself prescient until the departure of those for whom she cared.<br>She now \"sees\" the world ever-changing, the times ever-shifting...<br>But she already shut her eyes, because the future has already been determined<br>...inside \"the third eye.\""
+    "23011": "額の痛みは一生付き纏うだろう。だが、それは過去に経験した苦痛の万分の一にも及ばない。<br>旧知の者が離れていくまで、彼女は神機妙算を自負していた。<br>そして今、彼女は変わり続ける万象、移り変わる時を「視る」…<br>しかし彼女は目を閉じた。なぜなら、未来はすでに定まっているからだ<br>——「第三の目」の中で。"
 }
 
 var _weaponskill_ = {

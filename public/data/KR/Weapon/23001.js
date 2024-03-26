@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23001": "A young girl smiles subtly.<br><i>\"How?\"<br>\"Right here, right now, I am alone...\"<br>\"But it feels... very lively.\"</i>"
+    "23001": "소녀가 희미한 미소를 짓는다.<br><i>「왜?」<br>「난 지금 분명 혼자인데…」<br>「왜… 혼자가 아닌 기분이 들까」</i>"
 }
 
 var _weaponskill_ = {

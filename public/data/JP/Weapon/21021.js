@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21021": "After enjoying an intense massage from the dragon girl,<br>the Foxian girl held out her hand and playfully pinched the dragon girl's little chubby cheeks.<br>The little girl then pouted her lips, clearly offended, only to elicit a gleeful giggle from the Foxian girl.<br><br><i>\"Now that's what I call a proper quid pro quo.\"</i>"
+    "21021": "龍女の雷勁按摩を堪能した後、<br>狐族の少女は手を伸ばし、彼女の頬をつねった。<br>ちっちゃな龍女の口をとがらせた顔を見て、彼女は艶やかに微笑んだ。<br><br><i>「等価交換ですよ」</i>"
 }
 
 var _weaponskill_ = {

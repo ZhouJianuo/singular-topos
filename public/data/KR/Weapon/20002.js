@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "20002": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br><br><i>\"The death of all things is as natural as their birth. Time erodes everything, turning all tangible entities to dust.\"</i>"
+    "20002": "세월에서 추출한 희박한 힘. 보잘것없는 찰나의 순간들이 모여 엮어진 장렬한 운명.<br><br><i>「만물의 소실은 탄생만큼이나 자연스럽다. 시간의 흐름 속에서 모든 유형의 것들은 소각되어 먼지가 된다」</i>"
 }
 
 var _weaponskill_ = {

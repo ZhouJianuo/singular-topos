@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21027": "Though the table is set...<br>Some people want a cup of tea first.<br>Some people want to take a picture first.<br>Some people want to read the newspaper first.<br>Some people want to write a page in their notebook first.<br>Some people want to play on their phone first.<br><br><i>\"All of you, eat while the food is hot!\"</i>"
+    "21027": "朝食の準備はすでにできているが…<br>ある者は先に紅茶を一杯。<br>ある者はまず写真を撮る。<br>ある者は先に新聞を読む。<br>ある者はまずノートを取る。<br>ある者はとりあえずスマホを弄る。パムの一言<br><br><i>「冷めないうちに食べるんじゃ！」</i>"
 }
 
 var _weaponskill_ = {

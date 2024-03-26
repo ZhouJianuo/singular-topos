@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23020": "The afternoon sunshine is just right, and the floral scents fill the air.<br>Though he tries to keep his thoughts pure, cognitive stagnancy inevitably attracts particulates of mind like gathered dust.<br><br><i>\"Healing one's thoughts is just as vital as the maintenance of one's health.\"</i><br>The fools' clamoring fades alongside fatigue as he sinks into the water, letting all thoughts loose, his mind elucidated and ordered.<br><br><i>\"Truth eludes all filths, accepting only those of pure thoughts.\"</i>"
+    "23020": "午後の日差しは心地よく、辺りには花の香りが満ちている。<br>彼は常に清潔であるよう気を配っているが、思考が滞ると必ず「汚れ」が発生してしまう。<br><br><i>「思想の治癒は健康の維持と同じくらい大切だ」</i><br>愚か者の喧騒が疲労と共に遠ざかっていく。彼は水の中に身を沈め、思考を浮かせ、心を澄ませた。<br><br><i>「真理は不浄を避ける。純粋な者だけが近づくことができるんだ」</i>"
 }
 
 var _weaponskill_ = {

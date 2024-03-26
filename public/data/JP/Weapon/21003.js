@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21003": "<i>\"Shouldn't we get off? It's our stop.\"</i><br>A chuckle came from above. His eyes moved, but he didn't look up.<br><br><i>\"To be clear, March always says you're expressionless, but I don't agree.\"<br>\"The train's data bank show traces of an update, but the results weren't saved.\"<br>\"So... which entry were you having trouble with?\"</i><br><br>He grasped his pen tighter as he looked at the bloody scene drawn in the notebook from memory.<br><br><i>\"I see. It was the one about you...\"</i>"
+    "21003": "<i>「駅に着いたのに降りないの？」</i><br>頭上から微かな笑い声が聞こえた。彼は目を動かすだけで、顔は上げなかった。<br><br><i>「念のために言っておくけど、三月ちゃんはいつもあなたを無表情だと言うけど、私はそうは思わない」<br>「列車のアーカイブに新規入力の痕跡があった……でも保存結果はなかった」<br>「つまり……どの項目に困ってるの？」</i><br><br>彼はペンを強く握り、イメージだけで書いたノートの悲惨な状況を見た。<br><br><i>「なるほど、あなた自身に関することね……」</i>"
 }
 
 var _weaponskill_ = {

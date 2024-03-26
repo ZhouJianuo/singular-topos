@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23013": "She had spent many days next to the window.<br><br>Flowers were blooming outside when she made gentle medicines with mint and nepeta.<br>Rain was falling outside when she made strong medicines with mosla and ginger.<br>Leaves were falling outside when she made sour medicines with peony roots and dry plums.<br>And snow was falling outside when she made bitter medicines with skullcaps and anemarrhena.<br><br>Time flows endlessly, but this window and the person sitting next to it remain forever the same."
+    "23013": "彼女は窓辺で四季の流れを幾度も見届けてきた。<br><br>薄荷、ケイガイなどの辛温の生薬を配合する時、窓から見えるのは咲く花。<br>コウジュ、生姜などの辛熱の生薬を配合する時、窓から見えるのは注ぐ雨。<br>シャクヤク、烏梅などの酸温の生薬を配合する時、窓から見えるのは漂う落ち葉。<br>オウゴン、知母などの苦寒の生薬を配合する時、窓から見えるのは降る雪。<br><br>時節は居らず、歳月は流れる。だがこの窓と、傍に座る者は変わらない。"
 }
 
 var _weaponskill_ = {

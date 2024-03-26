@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21018": "<i>\"Why couldn't Hook do a spinning dance move, just like how Clara does?\"</i><br>She clenched her tiny fists and pouted her cute lips, her chubby little face looking redder than ever under her signature felt hat.<br><i>\"Please, Mr. Svarog, can you please help Hook with this?\"</i><br>Without saying any words, Mr. Svarog began to hold out his robotic arm.<br><br><i>\"I'm g—gonna be sick!!! Put me down now! Please!\"</i>"
+    "21018": "<i>「후크는 왜 클라라처럼 빙글빙글 춤출 수 없는 거지…」</i><br>그녀는 주먹을 꽉 쥐었다. 입술을 중얼거리자, 동글동글한 뺨이 모자로 빨갛게 달아올랐다.<br><i>「스바로그 씨, 후크 좀 도와주실 수 있나요?」</i><br>로봇은 말없이 기계팔을 내밀었다.<br><br><i>「어, 어지러워!! 윽, 빨리 내려줘!」</i>"
 }
 
 var _weaponskill_ = {

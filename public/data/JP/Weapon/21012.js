@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21012": "The boy would always make sure that his gloves and elbow guards were in good shape before leaving.<br>He treasured his gloves more than anything because they were tight enough to hide secrets.<br>With this layer of protection, no one could see the bandages on his hand and the wound beneath them.<br>He would be treated as if he was normal, and he would be greeted just like everyone else.<br><br>That was all he asked for."
+    "21012": "出発する前、少年はいつも肘当てと手袋を細心にチェックする。<br>それは少年のお気に入りの手袋、ぴっちりで、たくさんの秘密を隠せる。<br>こうすると、誰も少年の手に巻いた包帯と、包帯の下にある傷口を見ることができないから。<br>みんな少年を普通の人と思い、普通に挨拶する。<br><br>それで十分だ。"
 }
 
 var _weaponskill_ = {

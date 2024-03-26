@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23016": "For a competent IPC professional, \"feeling overwhelmed\" is absolutely not allowed.<br>Stand tall and take on whatever comes your way, be it burnout or overwork! <br>Unless... it's being overwhelmed by \"them.\"<br><br><i>\"Oh, don't get so antsy! I only have two hands!\"</i><br>A girl who just returned home from working overtime is pinned down by a group of fluffy creatures.<br>They may not fully understand her words, simply nuzzling their round heads closer to her palm.<br>The feeling of exhaustion gradually fades from her body, replaced by the warmth and comfort brought by stroking their fur."
+    "23016": "적격한 컴퍼니 직원이라면 「압박에 무너지는」 것은 절대 용납할 수 없는 일이다.<br>스트레스나 피로에도 가슴을 펴고 맞서야 한다!<br>물론… 「그들」에게 무너지는 건 어쩔 수 없지만.<br><br><i>「아이참, 재촉하지 마! 내 손은 두 개뿐이라고!」</i><br>야근을 마치고 귀가한 소녀는 털이 보송보송한 생명체들에 눌려 바닥에 쓰러진다.<br>그들은 그녀의 말을 알아듣지 못했는지 동그란 머리를 그녀의 손에 대기 바쁘다.<br>피로가 점차 사라지면서 부드러운 털의 온기가 온몸으로 퍼진다"
 }
 
 var _weaponskill_ = {

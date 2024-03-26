@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21020": "She pointed at that green rice cake.<br><i>\"The experiment has ended. Time to take a break. I just can't miss this freshly made dessert.\"</i><br><br>She saw the puppet girl frowning in deep thought.<br><i>\"Well, in your current body, you can only look but not eat. I'll make you a box of new ones when the time comes.\"</i><br><br>She saw the mechanical aristocrat hesitating at his own cup.<br><i>\"Don't worry. It's only machine oil. Perfectly safe for you to consume.\"</i>"
+    "21020": "그녀는 청록색 경단을 주문했다.<br><i>「실험이 끝났으니 쉬어야 해. 막 나온 제철 간식을 놓칠 수 없지」</i><br><br>그녀는 인형 소녀를 보고 미간을 찌푸리며 생각에 잠겼다.<br><i>「이 몸으로 먼저 보고 계세요. 나중에 한 상자 가져다드리겠습니다」</i><br><br>그녀는 기계 귀족이 난색을 표하며 잔을 드는 걸 보았다.<br><i>「안심해, 엔진 오일이니까」</i>"
 }
 
 var _weaponskill_ = {

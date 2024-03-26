@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21041": "—Who witnessed his death?<br>—Me! I spied it with my little eyes!<br>—Who took his blood?<br>—Me! I used my little saucer!<br>—Who dug his grave?<br>—Me! Using my chisel and shovel!<br><br>The wise uses all techniques in their arsenal, the sovereign soothes their heart with power, the hero views themselves to be righteous, and the Fool laughs ceaselessly—<br>\"Now, let us welcome Ms. Sparkle to bring us the performance of the year — Penacony's Night of Fright!\""
+    "21041": "——彼の死を見届けたのは誰？<br>——花火だよ、この小さな目で見たんだ！<br>——彼の血を持ち去ったのは誰？<br>——花火だよ、このお皿を使ったんだ！<br>——彼のためにお墓を掘ったのは誰？<br>——花火だよ、このノミとスコップで！<br><br>賢者は狡猾に、王は権力に貪欲に、英雄は独善的に、愚者はただ笑っている——<br>「では、花火さんの今年一番の大舞台——『ピノコニー混乱の夜』を御覧ください！」"
 }
 
 var _weaponskill_ = {

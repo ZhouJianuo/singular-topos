@@ -2,10 +2,211 @@
 
 var _avatar = [
     {
+        "_id": 1309,
+        "Ver": "2.2v1",
+        "Name": "로빈",
+        "Desc": "페나코니에서 태어난 은하에서 유명한 헤일로족 가수. 차분하고 우아한 분위기의 소녀다.<br>이번에 가족의 초대를 받고 고향으로 돌아와 「조화의 축제」에서 손님들을 위해 노래를 부르게 되었다.<br>「화합」의 힘을 빌려 노랫소리를 전하고, 팬들뿐만 아니라 만계의 생령들에게 「공명」을 일으킬 수 있다",
+        "Rarity": 5,
+        "Element": "Phys",
+        "Path": "Harmony",
+        "SP": 160.0,
+        "Skills": [
+            130901,
+            130902,
+            130903,
+            130904,
+            130906,
+            130907
+        ],
+        "Ranks": [
+            130901,
+            130902,
+            130903,
+            130904,
+            130905,
+            130906
+        ],
+        "Icon": "avatarshopicon/1309",
+        "Pic": "avatardrawcard/1309.png",
+        "Mat": [
+            114003,
+            110421,
+            110233,
+            110504
+        ],
+        "Stats": {
+            "HP": 1280.664,
+            "ATK": 640.332,
+            "DEF": 485.1,
+            "SPD": 102.0,
+            "Aggro": 100.0
+        },
+        "CV": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Camp": 0,
+        "ISN": "",
+        "ISD": ""
+    },
+    {
+        "_id": 1315,
+        "Ver": "2.2v1",
+        "Name": "부트힐",
+        "Desc": "은하를 떠도는 개조 인간 카우보이. 극도로 낙관적이고 자유분방하다.<br>「갤럭시 레인저」의 일원으로, 악을 처단하기 위해서라면 무슨 짓이든 할 수 있다——<br>그의 대담한 행동은 복수의 대상인 「스타피스 컴퍼니」의 이목을 끌기 위함이다",
+        "Rarity": 5,
+        "Element": "Phys",
+        "Path": "Hunt",
+        "SP": 120.0,
+        "Skills": [
+            131501,
+            131502,
+            131503,
+            131504,
+            131506,
+            131507,
+            131508
+        ],
+        "Ranks": [
+            131501,
+            131502,
+            131503,
+            131504,
+            131505,
+            131506
+        ],
+        "Icon": "avatarshopicon/1315",
+        "Pic": "avatardrawcard/1315.png",
+        "Mat": [
+            114013,
+            110421,
+            110193,
+            110505
+        ],
+        "Stats": {
+            "HP": 1203.048,
+            "ATK": 620.928,
+            "DEF": 436.59,
+            "SPD": 107.0,
+            "Aggro": 75.0
+        },
+        "CV": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Camp": 0,
+        "ISN": "",
+        "ISD": ""
+    },
+    {
+        "_id": 8005,
+        "Ver": "2.2v1",
+        "Name": "{NICKNAME}",
+        "Desc": "은하열차에 탑승한 {F#소녀}{M#소년}<br>스텔라론이 가져온 위기를 해결하기 위해, 은하열차와의 동행을 선택한다",
+        "Rarity": 5,
+        "Element": "Imaginary",
+        "Path": "Harmony",
+        "SP": 140.0,
+        "Skills": [
+            800501,
+            800502,
+            800503,
+            800504,
+            800506,
+            800507
+        ],
+        "Ranks": [
+            800501,
+            800502,
+            800503,
+            800504,
+            800505,
+            800506
+        ],
+        "Icon": "avatarshopicon/8005",
+        "Pic": "avatardrawcard/8005.png",
+        "Mat": [
+            111013,
+            110400,
+            110233,
+            110504
+        ],
+        "Stats": {
+            "HP": 1086.624,
+            "ATK": 446.292,
+            "DEF": 679.14,
+            "SPD": 105.0,
+            "Aggro": 100.0
+        },
+        "CV": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Camp": 0,
+        "ISN": "",
+        "ISD": ""
+    },
+    {
+        "_id": 8006,
+        "Ver": "2.2v1",
+        "Name": "{NICKNAME}",
+        "Desc": "은하열차에 탑승한 {F#소녀}{M#소년}<br>스텔라론이 가져온 위기를 해결하기 위해, 은하열차와의 동행을 선택한다",
+        "Rarity": 5,
+        "Element": "Imaginary",
+        "Path": "Harmony",
+        "SP": 140.0,
+        "Skills": [
+            800601,
+            800602,
+            800603,
+            800604,
+            800606,
+            800607
+        ],
+        "Ranks": [
+            800601,
+            800602,
+            800603,
+            800604,
+            800605,
+            800606
+        ],
+        "Icon": "avatarshopicon/8006",
+        "Pic": "avatardrawcard/8006.png",
+        "Mat": [
+            111013,
+            110400,
+            110233,
+            110504
+        ],
+        "Stats": {
+            "HP": 1086.624,
+            "ATK": 446.292,
+            "DEF": 679.14,
+            "SPD": 105.0,
+            "Aggro": 100.0
+        },
+        "CV": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Camp": 0,
+        "ISN": "",
+        "ISD": ""
+    },
+    {
         "_id": 1301,
         "Ver": "2.1v4",
-        "Name": "Gallagher",
-        "Desc": "The current head of the Bloodhound Family at Penacony. He is always courteous toward guests but keeps his vigilance about him. He seems to be a character with a complicated past, yet never actively mentions any details.",
+        "Name": "갤러거",
+        "Desc": "페나코니 사냥개 가문의 보안관. 손님에게 예의를 차리지만 경계심이 있다. 복잡한 과거가 있는 것 같지만, 절대 먼저 이야기를 꺼내지 않는다",
         "Rarity": 4,
         "Element": "Fire",
         "Path": "Abundance",
@@ -55,8 +256,8 @@ var _avatar = [
     {
         "_id": 1304,
         "Ver": "2.1v4",
-        "Name": "Aventurine",
-        "Desc": "A high-ranking executive of the IPC's Strategic Investment Department.<br>A risk-taker, his constant smile makes it difficult for people to discern his true feelings.",
+        "Name": "어벤츄린",
+        "Desc": "스타피스 컴퍼니 「전략투자부」의 고위 간부.<br>리스크를 즐기며, 미소를 띠고 있지만 진심을 가늠하기 어렵다",
         "Rarity": 5,
         "Element": "Imaginary",
         "Path": "Preservation",
@@ -105,8 +306,8 @@ var _avatar = [
     {
         "_id": 1308,
         "Ver": "2.1v4",
-        "Name": "Acheron",
-        "Desc": "A drifter claiming to be a Galaxy Ranger. Her true name is unknown.<br>She walks the cosmos alone, carrying with her a long sword.",
+        "Name": "아케론",
+        "Desc": "「갤럭시 레인저」를 자칭하는 여행자. 본명은 알 수 없다.<br>긴 검 한 자루를 차고 홀로 은하를 항해하고 있다",
         "Rarity": 5,
         "Element": "Elec",
         "Path": "Nihility",
@@ -162,8 +363,8 @@ var _avatar = [
     {
         "_id": 1306,
         "Ver": "2.0",
-        "Name": "Sparkle",
-        "Desc": "A member of the Masked Fools. Inscrutable and unscrupulous.<br>A dangerous maestro of theatrics, utterly engrossed in the art of performance. Adorned with innumerable masks, she is the hero with a thousand faces.<br>Wealth, status, power... None of those matters to Sparkle. The only thing that can get her attention is \"amusement.\"",
+        "Name": "스파클",
+        "Desc": "「가면의 우인」 멤버 중 한 명, 종잡을 수 없으며 목적을 이루기 위해 수단과 방법을 가리지 않는다.<br>역할극에 심취한 위험한 연극 대가. 천의 얼굴을 지닌 그녀는 수많은 모습을 가지고 있다.<br>스파클에게 재물, 지위, 권력 따위는 중요하지 않다. 그녀를 움직일 수 있는 건 오직 「재미」 뿐이다",
         "Rarity": 5,
         "Element": "Quantum",
         "Path": "Harmony",
@@ -212,8 +413,8 @@ var _avatar = [
     {
         "_id": 1307,
         "Ver": "2.0",
-        "Name": "Black Swan",
-        "Desc": "A Memokeeper of the Garden of Recollection. An indolent and mysterious soothsayer.<br>\"Remembrance\" of men are hers to heed, threads of fate are hers to tug.",
+        "Name": "블랙 스완",
+        "Desc": "기억의 정원의 기억하는 자. 나른하고 신비로운 점술가.<br>인내심을 가지고 타인의 「기억」을 경청하여 운명을 읽는다",
         "Rarity": 5,
         "Element": "Wind",
         "Path": "Nihility",
@@ -262,8 +463,8 @@ var _avatar = [
     {
         "_id": 1312,
         "Ver": "2.0",
-        "Name": "Misha",
-        "Desc": "A well-behaved young man serving as a hotel bellboy in Penacony.<br>Misha has a great longing for the Nameless and dreams of one day embarking on a journey of his own.",
+        "Name": "미샤",
+        "Desc": "예의바른 페나코니 호텔의 벨보이.<br>무명객을 동경하며, 언젠가 자신만의 여행을 떠나는 걸 꿈꾼다",
         "Rarity": 4,
         "Element": "Ice",
         "Path": "Destruction",
@@ -312,8 +513,8 @@ var _avatar = [
     {
         "_id": 1214,
         "Ver": "1.6",
-        "Name": "Xueyi",
-        "Desc": "Judge of the Ten-Lords Commission, which presides over the jurisdiction of life and death on the Luofu.<br>For years after her death, she inhabited a puppet body and returned to the world to fulfill her mission.",
+        "Name": "설의",
+        "Desc": "선주 「나부」의 생사를 감찰하는 기관 「시왕사」의 판관.<br>이미 죽은 지 오래지만, 인형의 몸을 빌려 「환생」하여 사명을 이행한다",
         "Rarity": 4,
         "Element": "Quantum",
         "Path": "Destruction",
@@ -362,8 +563,8 @@ var _avatar = [
     {
         "_id": 1303,
         "Ver": "1.6",
-        "Name": "Ruan Mei",
-        "Desc": "A member of the Genius Society and an expert in life sciences. She teamed up with Herta and others to develop the Simulated Universe.",
+        "Name": "완•매",
+        "Desc": "지니어스 클럽 회원이자 생명과학 분야의 전문가로, 헤르타 일행과 함께 시뮬레이션 우주를 연구하고 있다",
         "Rarity": 5,
         "Element": "Ice",
         "Path": "Harmony",
@@ -412,8 +613,8 @@ var _avatar = [
     {
         "_id": 1305,
         "Ver": "1.6",
-        "Name": "Dr. Ratio",
-        "Desc": "Member of the Intelligentsia Guild.<br>Eccentric temperament, sharp-tongued but with an elegant demeanor.<br>The face under the strange alabaster head sculpture is apparently unexpectedly handsome.",
+        "Name": "Dr. 레이시오",
+        "Desc": "지식학회 학자.<br>성정이 괴팍하고 언사가 야박하지만 품위가 있다.<br>기이한 석고 마스크 아래의 용모는 의외로 준수하다",
         "Rarity": 5,
         "Element": "Imaginary",
         "Path": "Hunt",
@@ -462,8 +663,8 @@ var _avatar = [
     {
         "_id": 1215,
         "Ver": "1.5",
-        "Name": "Hanya",
-        "Desc": "One of the judges of the Xianzhou Luofu's Ten-Lords Commission.<br>Ordained by the Ten-Lords and wielding the authority of the Oracle Brush, she reads the multitudes of human sins and transgressions, then issues punishments and karmic retribution.",
+        "Name": "한아",
+        "Desc": "선주 「나부」 시왕사의 판관.<br>시왕의 명을 받아 명참천필을 관장하고 여러 가지 죄업을 판독하고 업보를 판결한다",
         "Rarity": 4,
         "Element": "Phys",
         "Path": "Harmony",
@@ -512,8 +713,8 @@ var _avatar = [
     {
         "_id": 1217,
         "Ver": "1.5",
-        "Name": "Huohuo",
-        "Desc": "A trainee Ten-Lords Commission Judge of the Xianzhou Luofu, she is a young Foxian girl possessed by a heliobus.<br>She is a timid and weak girl who is afraid of all kinds of strange things, but is responsible for luring and subduing evil spirits.",
+        "Name": "곽향",
+        "Desc": "선주 나부 시왕사의 견습 판관, 세양에게 빙의된 여우족 여자아이.<br>겁 많은 성격에 연약하고 여러 괴상한 일들을 두려워하지만, 악귀를 처리하는 직책을 맡고 있다",
         "Rarity": 5,
         "Element": "Wind",
         "Path": "Abundance",
@@ -562,8 +763,8 @@ var _avatar = [
     {
         "_id": 1302,
         "Ver": "1.5",
-        "Name": "Argenti",
-        "Desc": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"<br>Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name.",
+        "Name": "아젠티",
+        "Desc": "「미(美)의 기사단」의 고전적인 기사. 실종된 「미」의 에이언즈 이드릴라를 경건한 마음으로 흠모하고 있다.<br>정직하고 당당하며, 우주를 유람하면서 이드릴라의 명성을 널리 알린다",
         "Rarity": 5,
         "Element": "Phys",
         "Path": "Erudition",
@@ -613,8 +814,8 @@ var _avatar = [
     {
         "_id": 1112,
         "Ver": "1.4",
-        "Name": "Topaz & Numby",
-        "Desc": "Topaz is the Leader of the Special Debts Picket Team and high-level manager of the Strategic Investment Department under the Interastral Peace Corporation.<br>A member of the \"Ten Stonehearts\" at a young age, Topaz's foundational expertise is \"debt retrieval.\"<br>Her partner, the Warp Trotter \"Numby,\" is also capable of keenly perceiving where \"riches\" are located, ensuring that jobs based in security, debt collection, and actuarial varieties are of no great challenge.<br>At presently they are traveling the cosmos together, seeking all manner of liability disputes that might be affecting the stable progression of the IPC's businesses.",
+        "Name": "토파즈&복순이",
+        "Desc": "스타피스 컴퍼니 소속 「전략투자부」 고위 간부 토파즈. 특수채무규찰팀을 이끈다.<br>어린 나이에 「10인의 스톤하트」 중 한 명이 되었다. 초석은 「독촉의 황옥」이다.<br>파트너인 차원 저금통 「복순이」는 「부」가 있는 곳을 예민하게 감지할 수 있으며, 보안, 독촉, 계리 등 업무도 척척이다.<br>오늘날 그들은 함께 은하를 여행하며 컴퍼니 업무 전개에 영향을 주는 채무 분쟁을 규찰하고 있다",
         "Rarity": 5,
         "Element": "Fire",
         "Path": "Hunt",
@@ -663,8 +864,8 @@ var _avatar = [
     {
         "_id": 1210,
         "Ver": "1.4",
-        "Name": "Guinaifen",
-        "Desc": "A performance artist visiting the Xianzhou Luofu — in other words, a street performer.<br>She's chasing a new life on the Luofu when not concerned with food and shelter.",
+        "Name": "계네빈",
+        "Desc": "선주 「나부」에 방문한 행위 예술가——혹은 길거리 예술가<br>삼시세끼가 보장된 상황에서 자신의 새로운 삶을 나부에서 추구하고 있다",
         "Rarity": 4,
         "Element": "Fire",
         "Path": "Nihility",
@@ -713,8 +914,8 @@ var _avatar = [
     {
         "_id": 1212,
         "Ver": "1.4",
-        "Name": "Jingliu",
-        "Desc": "Former Sword Champion of the Luofu, and the creator of the Cloud Knights' legends of undefeated might.<br>Now, her name has been wiped from the records, and she is a traitor of the Xianzhou walking on the fine line between sanity and mara-struck.",
+        "Name": "경류",
+        "Desc": "과거 나부 검술의 일인자이자 운기군 불패신화의 창조자.<br>오늘날 그녀의 이름은 역사에서 지워졌고, 마각의 몸의 경계를 걷는 선주의 역적이 되었다",
         "Rarity": 5,
         "Element": "Ice",
         "Path": "Destruction",
@@ -764,8 +965,8 @@ var _avatar = [
     {
         "_id": 1110,
         "Ver": "1.3",
-        "Name": "Lynx",
-        "Desc": "A Belobogian Snow Plains Explorer, and the youngest of the Landau siblings.<br>Calm and collected, with a strong drive for action. Often embarks on solo adventures to explore the snowy wilderness.",
+        "Name": "링스",
+        "Desc": "벨로보그의 설원 탐험가, 랜도 가문의 막내 여동생.<br>담담한 성격에 행동력이 매우 강하다. 종종 홀로 설원을 탐험한다",
         "Rarity": 4,
         "Element": "Quantum",
         "Path": "Abundance",
@@ -814,8 +1015,8 @@ var _avatar = [
     {
         "_id": 1208,
         "Ver": "1.3",
-        "Name": "Fu Xuan",
-        "Desc": "Head of the Divination Commission on the Luofu.<br>The person who uses the third eye and Matrix of Prescience to foretell the route of Xianzhou and the outcomes of events.",
+        "Name": "부현",
+        "Desc": "선주 「나부」 태복사(太卜司)의 수뇌.<br>제3의 눈과 궁관진을 통해 선주의 항로와 일의 길흉을 점친다",
         "Rarity": 5,
         "Element": "Quantum",
         "Path": "Preservation",
@@ -864,8 +1065,8 @@ var _avatar = [
     {
         "_id": 1213,
         "Ver": "1.3",
-        "Name": "Dan Heng • Imbibitor Lunae",
-        "Desc": "Dan Heng's true form from his Vidyadhara lineage carries the residual power left behind by his past incarnation, the Imbibitor Lunae.<br>Upon accepting the majestic horns atop his crown, he must accept all the merits and faults attributed to that sinner.",
+        "Name": "단항•음월",
+        "Desc": "단항의 비디아다라족으로서의 본모습, 전생의 「음월군」이 남긴 힘.<br>이맛전의 각관을 받으면 그 죄인의 모든 공과를 이어받아야 한다",
         "Rarity": 5,
         "Element": "Imaginary",
         "Path": "Destruction",
@@ -918,8 +1119,8 @@ var _avatar = [
     {
         "_id": 1005,
         "Ver": "1.2",
-        "Name": "Kafka",
-        "Desc": "A member of the Stellaron Hunters. A dashing, collected, and professional beauty.<br>Used the enchantment of Spirit Whisper to set up Trailblazer to absorb the Stellaron.<br>Her hobby is shopping for and organizing her collection of coats.",
+        "Name": "카프카",
+        "Desc": "「스텔라론 헌터」의 멤버, 시크하고 차분한 분위기의 오피스룩 미녀.<br>언령술을 사용해 {NICKNAME}이(가) 스텔라론을 흡수할 수 있도록 계책을 꾸몄다.<br>취미는 코트 구매 및 정리하기",
         "Rarity": 5,
         "Element": "Elec",
         "Path": "Nihility",
@@ -968,8 +1169,8 @@ var _avatar = [
     {
         "_id": 1111,
         "Ver": "1.2",
-        "Name": "Luka",
-        "Desc": "The boxing champion in Belobog's Underworld, and one of Wildfire's most capable fighters.<br>The consecutive reigning champion of the Fight Club, whose enthusiasm inspires children of the Underworld to dream big.",
+        "Name": "루카",
+        "Desc": "벨로보그 하층 구역의 챔피언 격투선수, 「와일드 파이어」의 실력파 멤버 중 하나.<br>격투 클럽의 연속 디펜딩 챔피언, 자신의 열정으로 하층 구역의 꿈이 있는 아이들을 격려한다",
         "Rarity": 4,
         "Element": "Phys",
         "Path": "Nihility",
@@ -1019,8 +1220,8 @@ var _avatar = [
     {
         "_id": 1205,
         "Ver": "1.2",
-        "Name": "Blade",
-        "Desc": "A member of the Stellaron Hunters, and a swordsman who abandoned his body to become a blade.<br>Pledges loyalty to \"Destiny's Slave,\" and possesses a terrifying self-healing ability.",
+        "Name": "블레이드",
+        "Desc": "「스텔라론 헌터」의 멤버, 전장에 몸을 내던지는 검객<br>「운명의 노예」에 충성을 다하며 무서운 자가 치유 능력을 가지고 있다",
         "Rarity": 5,
         "Element": "Wind",
         "Path": "Destruction",
@@ -1070,8 +1271,8 @@ var _avatar = [
     {
         "_id": 1006,
         "Ver": "1.1",
-        "Name": "Silver Wolf",
-        "Desc": "A member of the Stellaron Hunters and a genius hacker.<br>She sees the universe as a massive immersive simulation game and has fun with it.<br>She's mastered the skill known as \"aether editing,\" which can be used to tamper with the data of reality.",
+        "Name": "은랑",
+        "Desc": "「스텔라론 헌터」의 멤버, 프로 해커.<br>우주를 몰입감 넘치는 대형 시뮬레이션 게임으로 여기며 즐기고 있다.<br>현실 데이터를 수정할 수 있는 「에테르 편집」을 마스터했다",
         "Rarity": 5,
         "Element": "Quantum",
         "Path": "Nihility",
@@ -1120,8 +1321,8 @@ var _avatar = [
     {
         "_id": 1203,
         "Ver": "1.1",
-        "Name": "Luocha",
-        "Desc": "Carrying a coffin wherever he goes, he is a foreign trader who came from beyond the stellar seas.<br>Has excellent medical skills.",
+        "Name": "나찰",
+        "Desc": "늘 관을 지니고 다니는 하늘 밖의 바다에서 온 의술이 뛰어난 화외 행상",
         "Rarity": 5,
         "Element": "Imaginary",
         "Path": "Abundance",
@@ -1170,8 +1371,8 @@ var _avatar = [
     {
         "_id": 1207,
         "Ver": "1.1",
-        "Name": "Yukong",
-        "Desc": "Head of the Sky-Faring Commission on the Xianzhou Luofu. Yukong was a seasoned pilot and a deadshot.<br>Since heading up the commission, she's been buried under mountains of paperwork.",
+        "Name": "어공",
+        "Desc": "선주「나부」 천박사(天舶司)의 수장이다. 수많은 전장을 거쳐온 노련한 비행사이자 궁수다.<br>지금은 쏟아져 내리는 공무 때문에 몸을 빼기 어려운 상태다.",
         "Rarity": 4,
         "Element": "Imaginary",
         "Path": "Harmony",
@@ -1220,8 +1421,8 @@ var _avatar = [
     {
         "_id": 1001,
         "Ver": "1.0",
-        "Name": "March 7th",
-        "Desc": "A girl who once slumbered in eternal ice and knows nothing about her past.<br>To find out the truth about her origins, she decided to travel with the Astral Express.<br>As of right now, she has prepared about 67 different versions of her life story for herself.",
+        "Name": "Mar. 7th",
+        "Desc": "얼음 속에 깊이 잠들어 있던 기억을 잃은 소녀<br>출생의 진실을 찾기 위해 은하열차에 올랐다<br>본인을 위해 약 67가지의 「출생 스토리」를 준비해뒀다",
         "Rarity": 4,
         "Element": "Ice",
         "Path": "Preservation",
@@ -1270,8 +1471,8 @@ var _avatar = [
     {
         "_id": 1002,
         "Ver": "1.0",
-        "Name": "Dan Heng",
-        "Desc": "A cold and reserved young man who is reticent about his past.<br>To avoid his kin, he decided to travel with the Astral Express.",
+        "Name": "단항",
+        "Desc": "자신의 과거를 깊이 숨긴, 차가운 분위기의 과묵한 청년<br>혈예 동족을 피하기 위해 은하열차에 올랐다",
         "Rarity": 4,
         "Element": "Wind",
         "Path": "Hunt",
@@ -1320,8 +1521,8 @@ var _avatar = [
     {
         "_id": 1003,
         "Ver": "1.0",
-        "Name": "Himeko",
-        "Desc": "The one who repaired the Astral Express.<br>To witness the vast starry sky, she decided to travel with the Astral Express.<br>Her hobby is brewing hand-made coffee.",
+        "Name": "히메코",
+        "Desc": "은하열차의 복원가<br>광활한 별하늘을 보기 위해 은하열차와 함께하는 것을 택했다<br>취미는 핸드메이드 커피 만들기",
         "Rarity": 5,
         "Element": "Fire",
         "Path": "Erudition",
@@ -1370,8 +1571,8 @@ var _avatar = [
     {
         "_id": 1004,
         "Ver": "1.0",
-        "Name": "Welt",
-        "Desc": "A seasoned member of the Express Crew.<br>The passion buried in his heart burns anew as he enjoys this fresh adventure.<br>Occasionally, he would sketch the experiences in a notebook.",
+        "Name": "웰트",
+        "Desc": "의젓하고 진중한 열차팀의 선배<br>오랜만의 모험을 즐기자 가슴 깊은 곳의 뜨거운 피가 다시금 끓어오른다<br>가끔 공책에 모험 여정을 그린다",
         "Rarity": 5,
         "Element": "Imaginary",
         "Path": "Nihility",
@@ -1420,8 +1621,8 @@ var _avatar = [
     {
         "_id": 1008,
         "Ver": "1.0",
-        "Name": "Arlan",
-        "Desc": "The head of Herta Space Station's Security Department.<br>This quiet boy hopes to protect the researchers who value their pursuit of knowledge, and to help them to complete their work.",
+        "Name": "아를란",
+        "Desc": "우주정거장 「헤르타」 방위과 책임자<br>말주변이 없으며, 연구를 사랑하는 사람들이 편히 연구할 수 있도록 보호하고자 한다",
         "Rarity": 4,
         "Element": "Elec",
         "Path": "Destruction",
@@ -1470,8 +1671,8 @@ var _avatar = [
     {
         "_id": 1009,
         "Ver": "1.0",
-        "Name": "Asta",
-        "Desc": "The lead researcher of Herta Space Station and a lady from a renowned family.<br>She's an astronomer overflowing with curiosity, and excels at managing the disparate staff of the space station.",
+        "Name": "아스타",
+        "Desc": "우주정거장 「헤르타」의 책임자, 명문가 출신의 아가씨<br>호기심 넘치는 천문학 연구자로 자기주장이 강한 연구원을 다루는데 능하다",
         "Rarity": 4,
         "Element": "Fire",
         "Path": "Harmony",
@@ -1520,8 +1721,8 @@ var _avatar = [
     {
         "_id": 1013,
         "Ver": "1.0",
-        "Name": "Herta",
-        "Desc": "Member 83 of the Genius Society. The real master of the space station.<br>An incredibly intelligent yet unsympathetic scientist.",
+        "Name": "헤르타",
+        "Desc": "「지니어스 클럽」 #83 회원, 우주정거장의 진짜 주인.<br>지혜롭지만 공감 능력이 전혀 없는 과학자다",
         "Rarity": 4,
         "Element": "Ice",
         "Path": "Erudition",
@@ -1570,8 +1771,8 @@ var _avatar = [
     {
         "_id": 1101,
         "Ver": "1.0",
-        "Name": "Bronya",
-        "Desc": "Heir apparent to the Supreme Guardian of Belobog.<br>She possesses pride befitting of a princess, but also the determination and integrity of a soldier.",
+        "Name": "브로냐",
+        "Desc": "벨로보그 「수호자」의 계승자.<br>공주의 고고함과 군인의 꿋꿋함이 공존한다",
         "Rarity": 5,
         "Element": "Wind",
         "Path": "Harmony",
@@ -1620,8 +1821,8 @@ var _avatar = [
     {
         "_id": 1102,
         "Ver": "1.0",
-        "Name": "Seele",
-        "Desc": "A resident of the Underworld and the backbone of Wildfire. She goes by the alias \"Babochka.\"<br>She has a frank personality, but there is a delicate and sensitive hidden side to her deep in her heart.",
+        "Name": "제레",
+        "Desc": "지하 대항 조직 「와일드 파이어」의 핵심 인물, 별칭 「나비」<br>솔직하고 시원시원하지만, 내면에 섬세함과 예리함을 숨기고 있다",
         "Rarity": 5,
         "Element": "Quantum",
         "Path": "Hunt",
@@ -1670,8 +1871,8 @@ var _avatar = [
     {
         "_id": 1103,
         "Ver": "1.0",
-        "Name": "Serval",
-        "Desc": "A Belobog mechanic who used to be a researcher for the Technology Division of the Architects.<br>As Gepard Landau's elder sister, her personality stands in stark contrast to her brother's.<br>She loves an ancient form of music known as \"rock 'n' roll\" that was popular before the Eternal Freeze.",
+        "Name": "서벌",
+        "Desc": "축성가 기술 부서의 연구원이었던 벨로보그의 엔지니어<br>게파드•랜도의 누나지만 남동생과 전혀 다른 성격을 가졌다<br>한파 이전에 있던 「로큰롤」이라는 고대 음악에 빠져있다",
         "Rarity": 4,
         "Element": "Elec",
         "Path": "Erudition",
@@ -1720,8 +1921,8 @@ var _avatar = [
     {
         "_id": 1104,
         "Ver": "1.0",
-        "Name": "Gepard",
-        "Desc": "A captain in the Silvermane Guards and an outstanding warrior of Belobog.<br>He is meticulous and vigilant to the core and is always true to himself.",
+        "Name": "게파드",
+        "Desc": "실버메인 철위대의 방위관, 벨로보그 최고의 전사 중 하나<br>겉과 속이 같고 빈틈없이 항상 성실하다",
         "Rarity": 5,
         "Element": "Ice",
         "Path": "Preservation",
@@ -1770,8 +1971,8 @@ var _avatar = [
     {
         "_id": 1105,
         "Ver": "1.0",
-        "Name": "Natasha",
-        "Desc": "A doctor from the Underworld and a caregiver of children.<br>Alongside her kindness and caring, she also has a hidden dangerous side.",
+        "Name": "나타샤",
+        "Desc": "벨로보그 하층 구역의 의사이자 아이들의 보호자<br>상냥하고 친근한 성격 이면에 위험한 모습도 숨겨져 있다",
         "Rarity": 4,
         "Element": "Phys",
         "Path": "Abundance",
@@ -1820,8 +2021,8 @@ var _avatar = [
     {
         "_id": 1106,
         "Ver": "1.0",
-        "Name": "Pela",
-        "Desc": "An intelligence officer for the Silvermane Guards.<br>She has a serious personality and is revered by other members of the Silvermane Guards.",
+        "Name": "페라",
+        "Desc": "실버메인 철위대의 정보관.<br>진중한 성격 덕에 철위대 멤버들에게 존경을 받고 있다",
         "Rarity": 4,
         "Element": "Ice",
         "Path": "Nihility",
@@ -1870,8 +2071,8 @@ var _avatar = [
     {
         "_id": 1107,
         "Ver": "1.0",
-        "Name": "Clara",
-        "Desc": "A vagrant girl who lives with robots.<br>She is introverted, gentle, and has a pure heart.<br>She wishes for all Underworlders to become a family.",
+        "Name": "클라라",
+        "Desc": "로봇과 함께 생활하는 방랑 소녀<br>내향적이고 상냥하며, 순수한 마음을 지녔다<br>하층 구역의 모든 사람들이 서로의 「가족」이 되기를 간절히 바란다",
         "Rarity": 5,
         "Element": "Phys",
         "Path": "Destruction",
@@ -1920,8 +2121,8 @@ var _avatar = [
     {
         "_id": 1108,
         "Ver": "1.0",
-        "Name": "Sampo",
-        "Desc": "A merchant who freely travels between the Overworld and the Underworld.<br>He acts like he is everyone's friend, is enthusiastically humorous, and is good at bantering.",
+        "Name": "삼포",
+        "Desc": "지상 지하를 자유롭게 넘나드는 밀수꾼<br>붙임성이 좋고 열정적이며, 유머러스한 성격으로 농담을 잘한다",
         "Rarity": 4,
         "Element": "Wind",
         "Path": "Nihility",
@@ -1970,8 +2171,8 @@ var _avatar = [
     {
         "_id": 1109,
         "Ver": "1.0",
-        "Name": "Hook",
-        "Desc": "Boss (self-proclaimed) of an Underworld adventure squad, The Moles.<br>She loves freedom and sees life as a series of adventures.",
+        "Name": "후크",
+        "Desc": "지하 모험단 「두더지파」의 대장(자칭)<br>자유를 사랑하며 인생을 끊이지 않는 모험이라고 생각한다",
         "Rarity": 4,
         "Element": "Fire",
         "Path": "Destruction",
@@ -2021,8 +2222,8 @@ var _avatar = [
     {
         "_id": 1201,
         "Ver": "1.0",
-        "Name": "Qingque",
-        "Desc": "Diviner of the Divination Commission on the Xianzhou Luofu, and a librarian.<br>Always slacks off and is about to be demoted to a \"door guardian.\"",
+        "Name": "청작",
+        "Desc": "선주 「나부」의 태복사 소속 점술가 겸 서고 관리자<br>업무를 너무 태만히 한 탓에 곧 「문지기」로 좌천될 예정이라고 한다",
         "Rarity": 4,
         "Element": "Quantum",
         "Path": "Erudition",
@@ -2072,8 +2273,8 @@ var _avatar = [
     {
         "_id": 1202,
         "Ver": "1.0",
-        "Name": "Tingyun",
-        "Desc": "Amicassador of the Sky-Faring Commission of the Xianzhou Luofu.<br>She travels with business delegates, forging trade relationships and alliances with many worlds.",
+        "Name": "정운",
+        "Desc": "선주 「나부」 천박사(天舶司)의 사절<br>상단을 따라 수많은 세계를 돌아다니며 무역과 연맹 관련 업무를 처리해왔다",
         "Rarity": 4,
         "Element": "Elec",
         "Path": "Harmony",
@@ -2122,8 +2323,8 @@ var _avatar = [
     {
         "_id": 1204,
         "Ver": "1.0",
-        "Name": "Jing Yuan",
-        "Desc": "The Divine Foresight, one of the Seven Arbiter-Generals of the Xianzhou Alliance, leads the Cloud Knights of the Xianzhou Luofu.<br>A student of the Luofu's previous Sword Champion, though not known for his martial prowess.",
+        "Name": "경원",
+        "Desc": "선주 연맹 천궁의 7대 장군 중 하나로 나부 운기군을 통솔하는 「신책 장군」<br>전대 「나부」 검술의 일인자를 스승으로 모셨으나, 무예로 이름을 날리지는 않았다",
         "Rarity": 5,
         "Element": "Elec",
         "Path": "Erudition",
@@ -2172,8 +2373,8 @@ var _avatar = [
     {
         "_id": 1206,
         "Ver": "1.0",
-        "Name": "Sushang",
-        "Desc": "Born on the Xianzhou Yaoqing, sent to the Cloud Knights of the Luofu for military training.<br>She wields her family sword, a gift from her mother, and longs for the future she will go on to write.",
+        "Name": "소상",
+        "Desc": "선주 「요청(曜青)」출생, 「나부」의 운기군을 찾아가 수련을 받은 신병<br>어머니가 주신 가문의 검을 몸에 지니고 앞으로의 미래를 동경하고 있다",
         "Rarity": 4,
         "Element": "Phys",
         "Path": "Hunt",
@@ -2222,8 +2423,8 @@ var _avatar = [
     {
         "_id": 1209,
         "Ver": "1.0",
-        "Name": "Yanqing",
-        "Desc": "General Jing Yuan's retainer. A gifted swordsman who hasn't even come of age.<br>No one can best Yanqing when he holds a sword in hand.",
+        "Name": "연경",
+        "Desc": "경원 장군의 호위무사이다. 어린 나이임에도 불구하고 천재라 불릴 정도로 뛰어난 검술을 지니고 있다.<br>검 한 자루만 있으면 누구에게도 지지 않는다.",
         "Rarity": 5,
         "Element": "Ice",
         "Path": "Hunt",
@@ -2272,8 +2473,8 @@ var _avatar = [
     {
         "_id": 1211,
         "Ver": "1.0",
-        "Name": "Bailu",
-        "Desc": "The High Elder of the Vidyadhara, who is also known as the \"Healer Lady\" on the Luofu.<br>She uses her unique medical science and the medical treatment that can only be provided by the Vidyadhara dragon race to save lives.",
+        "Name": "백로",
+        "Desc": "선주 「나부」 비디아다라족의 큰어른, 「약을 품은 용녀」라 불리는 의사<br>독자적인 의학 이론과 용맥만이 실행할 수 있는 「의료 수단」으로 생명을 구하고 치료한다",
         "Rarity": 5,
         "Element": "Elec",
         "Path": "Abundance",
@@ -2322,8 +2523,8 @@ var _avatar = [
     {
         "_id": 8001,
         "Ver": "1.0",
-        "Name": "Trailblazer",
-        "Desc": "A {F#girl}{M#boy} who boarded the Astral Express.<br>They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.",
+        "Name": "{NICKNAME}",
+        "Desc": "은하열차에 탑승한 {F#소녀}{M#소년}<br>스텔라론이 가져온 위기를 해결하기 위해, 은하열차와의 동행을 선택한다",
         "Rarity": 5,
         "Element": "Phys",
         "Path": "Destruction",
@@ -2374,8 +2575,8 @@ var _avatar = [
     {
         "_id": 8002,
         "Ver": "1.0",
-        "Name": "Trailblazer",
-        "Desc": "A {F#girl}{M#boy} who boarded the Astral Express.<br>They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.",
+        "Name": "{NICKNAME}",
+        "Desc": "은하열차에 탑승한 {F#소녀}{M#소년}<br>스텔라론이 가져온 위기를 해결하기 위해, 은하열차와의 동행을 선택한다",
         "Rarity": 5,
         "Element": "Phys",
         "Path": "Destruction",
@@ -2426,8 +2627,8 @@ var _avatar = [
     {
         "_id": 8003,
         "Ver": "1.0",
-        "Name": "Trailblazer",
-        "Desc": "A {F#girl}{M#boy} who boarded the Astral Express.<br>They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.",
+        "Name": "{NICKNAME}",
+        "Desc": "은하열차에 탑승한 {F#소녀}{M#소년}<br>스텔라론이 가져온 위기를 해결하기 위해, 은하열차와의 동행을 선택한다",
         "Rarity": 5,
         "Element": "Fire",
         "Path": "Preservation",
@@ -2477,8 +2678,8 @@ var _avatar = [
     {
         "_id": 8004,
         "Ver": "1.0",
-        "Name": "Trailblazer",
-        "Desc": "A {F#girl}{M#boy} who boarded the Astral Express.<br>They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.",
+        "Name": "{NICKNAME}",
+        "Desc": "은하열차에 탑승한 {F#소녀}{M#소년}<br>스텔라론이 가져온 위기를 해결하기 위해, 은하열차와의 동행을 선택한다",
         "Rarity": 5,
         "Element": "Fire",
         "Path": "Preservation",
@@ -2528,333 +2729,357 @@ var _avatar = [
 ]
 
 var _item = {
+    "1": {
+        "Name": "성옥",
+        "Icon": "itemicon/900001.png"
+    },
     "110111": {
-        "Name": "Shattered Blade",
+        "Name": "부서진 칼날",
         "Icon": "itemicon/110111.png"
     },
     "110112": {
-        "Name": "Lifeless Blade",
+        "Name": "무생의 칼날",
         "Icon": "itemicon/110112.png"
     },
     "110113": {
-        "Name": "Worldbreaker Blade",
+        "Name": "정화의 칼날",
         "Icon": "itemicon/110113.png"
     },
     "110121": {
-        "Name": "Arrow of the Beast Hunter",
+        "Name": "짐승 사냥용 화살",
         "Icon": "itemicon/110121.png"
     },
     "110122": {
-        "Name": "Arrow of the Demon Slayer",
+        "Name": "악마 사냥용 화살",
         "Icon": "itemicon/110122.png"
     },
     "110123": {
-        "Name": "Arrow of the Starchaser",
+        "Name": "별 쫓는 화살",
         "Icon": "itemicon/110123.png"
     },
     "110131": {
-        "Name": "Key of Inspiration",
+        "Name": "영감의 열쇠",
         "Icon": "itemicon/110131.png"
     },
     "110132": {
-        "Name": "Key of Knowledge",
+        "Name": "계몽의 열쇠",
         "Icon": "itemicon/110132.png"
     },
     "110133": {
-        "Name": "Key of Wisdom",
+        "Name": "지식의 열쇠",
         "Icon": "itemicon/110133.png"
     },
     "110141": {
-        "Name": "Endurance of Bronze",
+        "Name": "청동의 집념",
         "Icon": "itemicon/110141.png"
     },
     "110142": {
-        "Name": "Oath of Steel",
+        "Name": "한철의 맹세",
         "Icon": "itemicon/110142.png"
     },
     "110143": {
-        "Name": "Safeguard of Amber",
+        "Name": "앰버의 수호",
         "Icon": "itemicon/110143.png"
     },
     "110151": {
-        "Name": "Obsidian of Dread",
+        "Name": "어두운 흑요",
         "Icon": "itemicon/110151.png"
     },
     "110152": {
-        "Name": "Obsidian of Desolation",
+        "Name": "허공의 흑요",
         "Icon": "itemicon/110152.png"
     },
     "110153": {
-        "Name": "Obsidian of Obsession",
+        "Name": "타락의 흑요",
         "Icon": "itemicon/110153.png"
     },
     "110161": {
-        "Name": "Harmonic Tune",
+        "Name": "조화의 가락",
         "Icon": "itemicon/110161.png"
     },
     "110162": {
-        "Name": "Ancestral Hymn",
+        "Name": "가족의 찬가",
         "Icon": "itemicon/110162.png"
     },
     "110163": {
-        "Name": "Stellaris Symphony",
+        "Name": "별들의 악장",
         "Icon": "itemicon/110163.png"
     },
     "110171": {
-        "Name": "Seed of Abundance",
+        "Name": "풍요의 씨앗",
         "Icon": "itemicon/110171.png"
     },
     "110172": {
-        "Name": "Sprout of Life",
+        "Name": "생명의 새싹",
         "Icon": "itemicon/110172.png"
     },
     "110173": {
-        "Name": "Flower of Eternity",
+        "Name": "영원의 꽃",
         "Icon": "itemicon/110173.png"
     },
     "110181": {
-        "Name": "Borisin Teeth",
+        "Name": "보리인의 송곳니",
         "Icon": "itemicon/110181.png"
     },
     "110182": {
-        "Name": "Lupitoxin Sawteeth",
+        "Name": "늑대 독 송곳니",
         "Icon": "itemicon/110182.png"
     },
     "110183": {
-        "Name": "Moon Madness Fang",
+        "Name": "달의 광기 이빨",
         "Icon": "itemicon/110183.png"
     },
+    "110191": {
+        "Name": "운철 탄환",
+        "Icon": "itemicon/110191.png"
+    },
+    "110192": {
+        "Name": "숙명적인 사인",
+        "Icon": "itemicon/110192.png"
+    },
+    "110193": {
+        "Name": "시간을 역행하는 일격",
+        "Icon": "itemicon/110193.png"
+    },
     "110211": {
-        "Name": "Scattered Stardust",
+        "Name": "흩어진 별모래",
         "Icon": "itemicon/110211.png"
     },
     "110212": {
-        "Name": "Crystal Meteorites",
+        "Name": "유성 결정",
         "Icon": "itemicon/110212.png"
     },
     "110213": {
-        "Name": "Divine Amber",
+        "Name": "신성한 앰버",
         "Icon": "itemicon/110213.png"
     },
     "110221": {
-        "Name": "Fiery Spirit",
+        "Name": "열렬의 영혼",
         "Icon": "itemicon/110221.png"
     },
     "110222": {
-        "Name": "Starfire Essence",
+        "Name": "불꽃의 정령",
         "Icon": "itemicon/110222.png"
     },
     "110223": {
-        "Name": "Heaven Incinerator",
+        "Name": "천공을 불태우는 마귀",
         "Icon": "itemicon/110223.png"
     },
     "110231": {
-        "Name": "Firmament Note",
+        "Name": "구름 위 음표",
         "Icon": "itemicon/110231.png"
     },
     "110232": {
-        "Name": "Celestial Section",
+        "Name": "천상의 소절",
         "Icon": "itemicon/110232.png"
     },
     "110233": {
-        "Name": "Heavenly Melody",
+        "Name": "천외의 악장",
         "Icon": "itemicon/110233.png"
     },
     "110241": {
-        "Name": "Alien Tree Seed",
+        "Name": "이계 나무의 씨앗",
         "Icon": "itemicon/110241.png"
     },
     "110242": {
-        "Name": "Nourishing Honey",
+        "Name": "생장의 꽃꿀",
         "Icon": "itemicon/110242.png"
     },
     "110243": {
-        "Name": "Myriad Fruit",
+        "Name": "만상의 과실",
         "Icon": "itemicon/110243.png"
     },
     "110400": {
-        "Name": "Enigmatic Ectostella",
+        "Name": "깊은 별의 외형질",
         "Icon": "itemicon/110400.png"
     },
     "110401": {
-        "Name": "Broken Teeth of Iron Wolf",
+        "Name": "강철 늑대의 깨진 이빨",
         "Icon": "itemicon/110401.png"
     },
     "110402": {
-        "Name": "Endotherm Chitin",
+        "Name": "상온 갑각",
         "Icon": "itemicon/110402.png"
     },
     "110403": {
-        "Name": "Horn of Snow",
+        "Name": "눈보라의 뿔",
         "Icon": "itemicon/110403.png"
     },
     "110404": {
-        "Name": "Lightning Crown of the Past Shadow",
+        "Name": "과거 그림자의 번개 왕관",
         "Icon": "itemicon/110404.png"
     },
     "110405": {
-        "Name": "Storm Eye",
+        "Name": "폭풍의 눈",
         "Icon": "itemicon/110405.png"
     },
     "110406": {
-        "Name": "Void Cast Iron",
+        "Name": "환영의 무쇠",
         "Icon": "itemicon/110406.png"
     },
     "110407": {
-        "Name": "Golden Crown of the Past Shadow",
+        "Name": "과거 그림자의 황금 장식",
         "Icon": "itemicon/110407.png"
     },
     "110411": {
-        "Name": "Netherworld Token",
+        "Name": "명부 명령",
         "Icon": "itemicon/110411.png"
     },
     "110412": {
-        "Name": "Searing Steel Blade",
+        "Name": "과열된 강철 칼날",
         "Icon": "itemicon/110412.png"
     },
     "110413": {
-        "Name": "Gelid Chitin",
+        "Name": "혹한 갑각",
         "Icon": "itemicon/110413.png"
     },
     "110414": {
-        "Name": "Shape Shifter's Lightning Staff",
+        "Name": "조형자의 번개 지팡이",
         "Icon": "itemicon/110414.png"
     },
     "110415": {
-        "Name": "Ascendant Debris",
+        "Name": "천인의 유해",
         "Icon": "itemicon/110415.png"
     },
     "110416": {
-        "Name": "Nail of the Ape",
+        "Name": "괴수의 못",
         "Icon": "itemicon/110416.png"
     },
     "110417": {
-        "Name": "Suppressing Edict",
+        "Name": "진령칙부",
         "Icon": "itemicon/110417.png"
     },
     "114002": {
-        "Name": "Dream Flow Valve",
+        "Name": "꿈 흐름 밸브",
         "Icon": "itemicon/114002.png"
     },
     "114003": {
-        "Name": "Dream Making Engine",
+        "Name": "꿈 제조 모터",
         "Icon": "itemicon/114003.png"
     },
     "114001": {
-        "Name": "Dream Collection Component",
+        "Name": "꿈 저장 부품",
         "Icon": "itemicon/114001.png"
     },
+    "110421": {
+        "Name": "스타피스 사원증",
+        "Icon": "itemicon/110421.png"
+    },
     "110422": {
-        "Name": "Raging Heart",
+        "Name": "격분한 심장",
         "Icon": "itemicon/110422.png"
     },
     "110423": {
-        "Name": "Dream Fridge",
+        "Name": "꿈 아이스박스",
         "Icon": "itemicon/110423.png"
     },
     "110426": {
-        "Name": "Dream Flamer",
+        "Name": "꿈 토치",
         "Icon": "itemicon/110426.png"
     },
     "114011": {
-        "Name": "Tatters of Thought",
+        "Name": "생각의 가루",
         "Icon": "itemicon/114011.png"
     },
     "114012": {
-        "Name": "Fragments of Impression",
+        "Name": "인상의 파편",
         "Icon": "itemicon/114012.png"
     },
     "114013": {
-        "Name": "Shards of Desires",
+        "Name": "욕망의 거울 조각",
         "Icon": "itemicon/114013.png"
     },
     "113001": {
-        "Name": "Immortal Scionette",
+        "Name": "영생의 새싹",
         "Icon": "itemicon/113001.png"
     },
     "113002": {
-        "Name": "Immortal Aeroblossom",
+        "Name": "영생의 꽃",
         "Icon": "itemicon/113002.png"
     },
     "113003": {
-        "Name": "Immortal Lumintwig",
+        "Name": "영생의 가지",
         "Icon": "itemicon/113003.png"
     },
     "113011": {
-        "Name": "Artifex's Module",
+        "Name": "공조 기계 부품",
         "Icon": "itemicon/113011.png"
     },
     "113012": {
-        "Name": "Artifex's Cogwheel",
+        "Name": "공조 톱니바퀴",
         "Icon": "itemicon/113012.png"
     },
     "113013": {
-        "Name": "Artifex's Gyreheart",
+        "Name": "공조 환류 심장",
         "Icon": "itemicon/113013.png"
     },
     "112001": {
-        "Name": "Silvermane Badge",
+        "Name": "철위대 배지",
         "Icon": "itemicon/112001.png"
     },
     "112002": {
-        "Name": "Silvermane Insignia",
+        "Name": "철위대 표식",
         "Icon": "itemicon/112002.png"
     },
     "112003": {
-        "Name": "Silvermane Medal",
+        "Name": "철위대 훈장",
         "Icon": "itemicon/112003.png"
     },
     "112011": {
-        "Name": "Ancient Part",
+        "Name": "고대 부속품",
         "Icon": "itemicon/112011.png"
     },
     "112012": {
-        "Name": "Ancient Spindle",
+        "Name": "고대 전동축",
         "Icon": "itemicon/112012.png"
     },
     "112013": {
-        "Name": "Ancient Engine",
+        "Name": "고대 엔진",
         "Icon": "itemicon/112013.png"
     },
     "111001": {
-        "Name": "Extinguished Core",
+        "Name": "소멸된 코어",
         "Icon": "itemicon/111001.png"
     },
     "111002": {
-        "Name": "Glimmering Core",
+        "Name": "희미한 빛의 코어",
         "Icon": "itemicon/111002.png"
     },
     "111003": {
-        "Name": "Squirming Core",
+        "Name": "꿈틀대는 코어",
         "Icon": "itemicon/111003.png"
     },
     "111011": {
-        "Name": "Thief's Instinct",
+        "Name": "약탈의 본능",
         "Icon": "itemicon/111011.png"
     },
     "111012": {
-        "Name": "Usurper's Scheme",
+        "Name": "변조된 야망",
         "Icon": "itemicon/111012.png"
     },
     "110501": {
-        "Name": "Destroyer's Final Road",
+        "Name": "파멸자의 말로",
         "Icon": "itemicon/110501.png"
     },
     "111013": {
-        "Name": "Conqueror's Will",
+        "Name": "짓밟힌 의지",
         "Icon": "itemicon/111013.png"
     },
     "110503": {
-        "Name": "Regret of Infinite Ochema",
+        "Name": "무한한 가짜의 여한",
         "Icon": "itemicon/110503.png"
     },
     "110502": {
-        "Name": "Guardian's Lament",
+        "Name": "수호자의 비원(悲願)",
         "Icon": "itemicon/110502.png"
     },
     "110504": {
-        "Name": "Past Evils of the Borehole Planet Disaster",
+        "Name": "별을 갉아먹고 재앙을 낳는 구악",
         "Icon": "itemicon/110504.png"
+    },
+    "110505": {
+        "Name": "보스 재료",
+        "Icon": "itemicon/110505.png"
     }
 }
 
@@ -2878,476 +3103,496 @@ var _propiconname = {
 }
 
 var _propname = {
-    "IceAddedRatio": "DMG Boost: Ice",
-    "DefenceAddedRatio": "DEF Boost",
-    "StatusResistanceBase": "Effect RES Boost",
-    "WindAddedRatio": "DMG Boost: Wind",
-    "AttackAddedRatio": "ATK Boost",
-    "FireAddedRatio": "DMG Boost: Fire",
-    "ImaginaryAddedRatio": "DMG Boost: Imaginary",
-    "StatusProbabilityBase": "Effect Hit Rate Boost",
-    "HPAddedRatio": "HP Boost",
-    "QuantumAddedRatio": "DMG Boost: Quantum",
-    "CriticalChanceBase": "CRIT Rate Boost",
-    "CriticalDamageBase": "CRIT DMG Boost",
-    "PhysicalAddedRatio": "DMG Boost: Physical",
-    "ThunderAddedRatio": "DMG Boost: Lightning",
-    "BreakDamageAddedRatioBase": "Break Enhance",
-    "SpeedDelta": "SPD Boost"
+    "IceAddedRatio": "피해 강화•얼음",
+    "DefenceAddedRatio": "방어 강화",
+    "StatusResistanceBase": "효과 저항 강화",
+    "WindAddedRatio": "피해 강화•바람",
+    "AttackAddedRatio": "공격 강화",
+    "FireAddedRatio": "피해 강화•화염",
+    "ImaginaryAddedRatio": "피해 강화•허수",
+    "StatusProbabilityBase": "효과 명중 강화",
+    "HPAddedRatio": "HP 강화",
+    "QuantumAddedRatio": "피해 강화•양자",
+    "CriticalChanceBase": "치명타 확률 강화",
+    "CriticalDamageBase": "치명타 피해 강화",
+    "PhysicalAddedRatio": "피해 강화•물리",
+    "ThunderAddedRatio": "피해 강화•번개",
+    "BreakDamageAddedRatioBase": "격파 강화",
+    "SpeedDelta": "속도 강화"
 }
 
 var _camp = {
-    "100": "Astral Express",
-    "101": "Stellaron Hunters",
-    "102": "Herta Space Station",
-    "103": "Belobog",
-    "104": "The Xianzhou Luofu",
-    "105": "Interastral Peace Corporation",
-    "106": "The Knights of Beauty",
-    "107": "Intelligentsia Guild",
-    "108": "Penacony",
-    "109": "Garden of Recollection",
-    "110": "Masked Fools",
-    "111": "Galaxy Ranger",
-    "112": "Self-Annihilator"
+    "100": "은하열차",
+    "101": "스텔라론 헌터",
+    "102": "우주정거장 「헤르타」",
+    "103": "벨로보그",
+    "104": "선주 「나부」",
+    "105": "스타피스 컴퍼니",
+    "106": "미(美)의 기사단",
+    "107": "지식학회",
+    "108": "페나코니",
+    "109": "기억의 정원",
+    "110": "가면의 우인",
+    "111": "갤럭시 레인저",
+    "112": "자멸자"
 }
 
 var _search_avatar = {
-    "1301": 0,
-    "加拉赫": 0,
-    "GALLAGHER": 0,
-    "1304": 1,
-    "砂金": 1,
-    "AVENTURINE": 1,
-    "1308": 2,
-    "黄泉": 2,
-    "ACHERON": 2,
-    "1306": 3,
-    "花火": 3,
-    "SPARKLE": 3,
-    "1307": 4,
-    "黑天鹅": 4,
-    "BLACKSWAN": 4,
-    "1312": 5,
-    "米沙": 5,
-    "MISHA": 5,
-    "1214": 6,
-    "雪衣": 6,
-    "XUEYI": 6,
-    "1303": 7,
-    "阮·梅": 7,
-    "RUANMEI": 7,
-    "1305": 8,
-    "真理医生": 8,
-    "DR.RATIO": 8,
-    "1215": 9,
-    "寒鸦": 9,
-    "HANYA": 9,
-    "1217": 10,
-    "藿藿": 10,
-    "HUOHUO": 10,
-    "1302": 11,
-    "银枝": 11,
-    "ARGENTI": 11,
-    "1112": 12,
-    "托帕&账账": 12,
-    "TOPAZ&NUMBY": 12,
-    "1210": 13,
-    "桂乃芬": 13,
-    "GUINAIFEN": 13,
-    "1212": 14,
-    "镜流": 14,
-    "JINGLIU": 14,
-    "1110": 15,
-    "玲可": 15,
-    "LYNX": 15,
-    "1208": 16,
-    "符玄": 16,
-    "FUXUAN": 16,
-    "1213": 17,
-    "丹恒·饮月": 17,
-    "DANHENG•IMBIBITORLUNAE": 17,
-    "1005": 18,
-    "卡芙卡": 18,
-    "KAFKA": 18,
-    "1111": 19,
-    "卢卡": 19,
-    "LUKA": 19,
-    "1205": 20,
-    "刃": 20,
-    "BLADE": 20,
-    "1006": 21,
-    "银狼": 21,
-    "SILVERWOLF": 21,
-    "1203": 22,
-    "罗刹": 22,
-    "LUOCHA": 22,
-    "1207": 23,
-    "驭空": 23,
-    "YUKONG": 23,
-    "1001": 24,
-    "三月七": 24,
-    "MARCH7TH": 24,
-    "1002": 25,
-    "丹恒": 25,
-    "DANHENG": 25,
-    "1003": 26,
-    "姬子": 26,
-    "HIMEKO": 26,
-    "1004": 27,
-    "瓦尔特": 27,
-    "WELT": 27,
-    "1008": 28,
-    "阿兰": 28,
-    "ARLAN": 28,
-    "1009": 29,
-    "艾丝妲": 29,
-    "ASTA": 29,
-    "1013": 30,
-    "黑塔": 30,
-    "HERTA": 30,
-    "1101": 31,
-    "布洛妮娅": 31,
-    "BRONYA": 31,
-    "1102": 32,
-    "希儿": 32,
-    "SEELE": 32,
-    "1103": 33,
-    "希露瓦": 33,
-    "SERVAL": 33,
-    "1104": 34,
-    "杰帕德": 34,
-    "GEPARD": 34,
-    "1105": 35,
-    "娜塔莎": 35,
-    "NATASHA": 35,
-    "1106": 36,
-    "佩拉": 36,
-    "PELA": 36,
-    "1107": 37,
-    "克拉拉": 37,
-    "CLARA": 37,
-    "1108": 38,
-    "桑博": 38,
-    "SAMPO": 38,
-    "1109": 39,
-    "虎克": 39,
-    "HOOK": 39,
-    "1201": 40,
-    "青雀": 40,
-    "QINGQUE": 40,
-    "1202": 41,
-    "停云": 41,
-    "TINGYUN": 41,
-    "1204": 42,
-    "景元": 42,
-    "JINGYUAN": 42,
-    "1206": 43,
-    "素裳": 43,
-    "SUSHANG": 43,
-    "1209": 44,
-    "彦卿": 44,
-    "YANQING": 44,
-    "1211": 45,
-    "白露": 45,
-    "BAILU": 45,
-    "8001": 46,
-    "开拓者": 49,
-    "TRAILBLAZER": 49,
-    "8002": 47,
-    "8003": 48,
-    "8004": 49
+    "1309": 0,
+    "知更鸟": 0,
+    "ROBIN": 0,
+    "1315": 1,
+    "波提欧": 1,
+    "BOOTHILL": 1,
+    "8005": 2,
+    "开拓者": 53,
+    "TRAILBLAZER": 53,
+    "8006": 3,
+    "1301": 4,
+    "加拉赫": 4,
+    "GALLAGHER": 4,
+    "1304": 5,
+    "砂金": 5,
+    "AVENTURINE": 5,
+    "1308": 6,
+    "黄泉": 6,
+    "ACHERON": 6,
+    "1306": 7,
+    "花火": 7,
+    "SPARKLE": 7,
+    "1307": 8,
+    "黑天鹅": 8,
+    "BLACKSWAN": 8,
+    "1312": 9,
+    "米沙": 9,
+    "MISHA": 9,
+    "1214": 10,
+    "雪衣": 10,
+    "XUEYI": 10,
+    "1303": 11,
+    "阮·梅": 11,
+    "RUANMEI": 11,
+    "1305": 12,
+    "真理医生": 12,
+    "DR.RATIO": 12,
+    "1215": 13,
+    "寒鸦": 13,
+    "HANYA": 13,
+    "1217": 14,
+    "藿藿": 14,
+    "HUOHUO": 14,
+    "1302": 15,
+    "银枝": 15,
+    "ARGENTI": 15,
+    "1112": 16,
+    "托帕&账账": 16,
+    "TOPAZ&NUMBY": 16,
+    "1210": 17,
+    "桂乃芬": 17,
+    "GUINAIFEN": 17,
+    "1212": 18,
+    "镜流": 18,
+    "JINGLIU": 18,
+    "1110": 19,
+    "玲可": 19,
+    "LYNX": 19,
+    "1208": 20,
+    "符玄": 20,
+    "FUXUAN": 20,
+    "1213": 21,
+    "丹恒·饮月": 21,
+    "DANHENG•IMBIBITORLUNAE": 21,
+    "1005": 22,
+    "卡芙卡": 22,
+    "KAFKA": 22,
+    "1111": 23,
+    "卢卡": 23,
+    "LUKA": 23,
+    "1205": 24,
+    "刃": 24,
+    "BLADE": 24,
+    "1006": 25,
+    "银狼": 25,
+    "SILVERWOLF": 25,
+    "1203": 26,
+    "罗刹": 26,
+    "LUOCHA": 26,
+    "1207": 27,
+    "驭空": 27,
+    "YUKONG": 27,
+    "1001": 28,
+    "三月七": 28,
+    "MARCH7TH": 28,
+    "1002": 29,
+    "丹恒": 29,
+    "DANHENG": 29,
+    "1003": 30,
+    "姬子": 30,
+    "HIMEKO": 30,
+    "1004": 31,
+    "瓦尔特": 31,
+    "WELT": 31,
+    "1008": 32,
+    "阿兰": 32,
+    "ARLAN": 32,
+    "1009": 33,
+    "艾丝妲": 33,
+    "ASTA": 33,
+    "1013": 34,
+    "黑塔": 34,
+    "HERTA": 34,
+    "1101": 35,
+    "布洛妮娅": 35,
+    "BRONYA": 35,
+    "1102": 36,
+    "希儿": 36,
+    "SEELE": 36,
+    "1103": 37,
+    "希露瓦": 37,
+    "SERVAL": 37,
+    "1104": 38,
+    "杰帕德": 38,
+    "GEPARD": 38,
+    "1105": 39,
+    "娜塔莎": 39,
+    "NATASHA": 39,
+    "1106": 40,
+    "佩拉": 40,
+    "PELA": 40,
+    "1107": 41,
+    "克拉拉": 41,
+    "CLARA": 41,
+    "1108": 42,
+    "桑博": 42,
+    "SAMPO": 42,
+    "1109": 43,
+    "虎克": 43,
+    "HOOK": 43,
+    "1201": 44,
+    "青雀": 44,
+    "QINGQUE": 44,
+    "1202": 45,
+    "停云": 45,
+    "TINGYUN": 45,
+    "1204": 46,
+    "景元": 46,
+    "JINGYUAN": 46,
+    "1206": 47,
+    "素裳": 47,
+    "SUSHANG": 47,
+    "1209": 48,
+    "彦卿": 48,
+    "YANQING": 48,
+    "1211": 49,
+    "白露": 49,
+    "BAILU": 49,
+    "8001": 50,
+    "8002": 51,
+    "8003": 52,
+    "8004": 53
 }
 
 var _search_weapon = {
-    "23024": 0,
-    "行于流逝的岸": 0,
-    "ALONGTHEPASSINGSHORE": 0,
-    "23023": 1,
-    "命运从未公平": 1,
-    "INHERENTLYUNJUSTDESTINY": 1,
-    "23022": 2,
-    "重塑时光之忆": 2,
-    "REFORGEDREMEMBRANCE": 2,
-    "23021": 3,
-    "游戏尘寰": 3,
-    "EARTHLYESCAPADE": 3,
-    "23020": 4,
-    "纯粹思维的洗礼": 4,
-    "BAPTISMOFPURETHOUGHT": 4,
-    "23019": 5,
-    "镜中故我": 5,
-    "PASTSELFINMIRROR": 5,
-    "23018": 6,
-    "片刻，留在眼底": 6,
-    "ANINSTANTBEFOREAGAZE": 6,
-    "23017": 7,
-    "惊魂夜": 7,
-    "NIGHTOFFRIGHT": 7,
-    "23016": 8,
-    "烦恼着，幸福着": 8,
-    "WORRISOME,BLISSFUL": 8,
-    "23015": 9,
-    "比阳光更明亮的": 9,
-    "BRIGHTERTHANTHESUN": 9,
-    "23014": 10,
-    "此身为剑": 10,
-    "ISHALLBEMYOWNSWORD": 10,
-    "23013": 11,
-    "时节不居": 11,
-    "TIMEWAITSFORNOONE": 11,
-    "23012": 12,
-    "如泥酣眠": 12,
-    "SLEEPLIKETHEDEAD": 12,
-    "23011": 13,
-    "她已闭上双眼": 13,
-    "SHEALREADYSHUTHEREYES": 13,
-    "23010": 14,
-    "拂晓之前": 14,
-    "BEFOREDAWN": 14,
-    "23009": 15,
-    "到不了的彼岸": 15,
-    "THEUNREACHABLESIDE": 15,
-    "23008": 16,
-    "棺的回响": 16,
-    "ECHOESOFTHECOFFIN": 16,
-    "23007": 17,
-    "雨一直下": 17,
-    "INCESSANTRAIN": 17,
-    "23006": 18,
-    "只需等待": 18,
-    "PATIENCEISALLYOUNEED": 18,
-    "23005": 19,
-    "制胜的瞬间": 19,
-    "MOMENTOFVICTORY": 19,
-    "23004": 20,
-    "以世界之名": 20,
-    "INTHENAMEOFTHEWORLD": 20,
-    "23003": 21,
-    "但战斗还未结束": 21,
-    "BUTTHEBATTLEISNTOVER": 21,
-    "23002": 22,
-    "无可取代的东西": 22,
-    "SOMETHINGIRREPLACEABLE": 22,
-    "23001": 23,
-    "于夜色中": 23,
-    "INTHENIGHT": 23,
-    "23000": 24,
-    "银河铁道之夜": 24,
-    "NIGHTONTHEMILKYWAY": 24,
-    "24003": 25,
-    "孤独的疗愈": 25,
-    "SOLITARYHEALING": 25,
-    "24002": 26,
-    "记忆的质料": 26,
-    "TEXTUREOFMEMORIES": 26,
-    "24001": 27,
-    "星海巡航": 27,
-    "CRUISINGINTHESTELLARSEA": 27,
-    "24000": 28,
-    "记一位星神的陨落": 28,
-    "ONTHEFALLOFANAEON": 28,
-    "22001": 29,
-    "嘿，我在这儿": 29,
-    "HEY,OVERHERE": 29,
-    "22000": 30,
-    "新手任务开始前": 30,
-    "BEFORETHETUTORIALMISSIONSTARTS": 30,
-    "21043": 31,
-    "两个人的演唱会": 31,
-    "CONCERTFORTWO": 31,
-    "21042": 32,
-    "铭记于心的约定": 32,
-    "INDELIBLEPROMISE": 32,
-    "21041": 33,
-    "好戏开演": 33,
-    "ITSSHOWTIME": 33,
-    "21040": 34,
-    "银河沦陷日": 34,
-    "THEDAYTHECOSMOSFELL": 34,
-    "21039": 35,
-    "织造命运之线": 35,
-    "DESTINYSTHREADSFOREWOVEN": 35,
-    "21038": 36,
-    "在火的远处": 36,
-    "FLAMESAFAR": 36,
-    "21037": 37,
-    "最后的赢家": 37,
-    "FINALVICTOR": 37,
-    "21036": 38,
-    "美梦小镇大冒险": 38,
-    "DREAMVILLEADVENTURE": 38,
-    "21035": 39,
-    "何物为真": 39,
-    "WHATISREAL?": 39,
-    "21034": 40,
-    "今日亦是和平的一日": 40,
-    "TODAYISANOTHERPEACEFULDAY": 40,
-    "21033": 41,
-    "无处可逃": 41,
-    "NOWHERETORUN": 41,
-    "21032": 42,
-    "镂月裁云之意": 42,
-    "CARVETHEMOON,WEAVETHECLOUDS": 42,
-    "21031": 43,
-    "重返幽冥": 43,
-    "RETURNTODARKNESS": 43,
-    "21030": 44,
-    "这就是我啦！": 44,
-    "THISISME!": 44,
-    "21029": 45,
-    "后会有期": 45,
-    "WEWILLMEETAGAIN": 45,
-    "21028": 46,
-    "暖夜不会漫长": 46,
-    "WARMTHSHORTENSCOLDNIGHTS": 46,
-    "21027": 47,
-    "早餐的仪式感": 47,
-    "THESERIOUSNESSOFBREAKFAST": 47,
-    "21026": 48,
-    "汪！散步时间！": 48,
-    "WOOF!WALKTIME!": 48,
-    "21025": 49,
-    "过往未来": 49,
-    "PASTANDFUTURE": 49,
-    "21024": 50,
-    "春水初生": 50,
-    "RIVERFLOWSINSPRING": 50,
-    "21023": 51,
-    "我们是地火": 51,
-    "WEAREWILDFIRE": 51,
-    "21022": 52,
-    "延长记号": 52,
-    "FERMATA": 52,
-    "21021": 53,
-    "等价交换": 53,
-    "QUIDPROQUO": 53,
-    "21020": 54,
-    "天才们的休憩": 54,
-    "GENIUSESREPOSE": 54,
-    "21019": 55,
-    "在蓝天下": 55,
-    "UNDERTHEBLUESKY": 55,
-    "21018": 56,
-    "舞！舞！舞！": 56,
-    "DANCE!DANCE!DANCE!": 56,
-    "21017": 57,
-    "点个关注吧！": 57,
-    "SUBSCRIBEFORMORE!": 57,
-    "21016": 58,
-    "宇宙市场趋势": 58,
-    "TRENDOFTHEUNIVERSALMARKET": 58,
-    "21015": 59,
-    "决心如汗珠般闪耀": 59,
-    "RESOLUTIONSHINESASPEARLSOFSWEAT": 59,
-    "21014": 60,
-    "此时恰好": 60,
-    "PERFECTTIMING": 60,
-    "21013": 61,
-    "别让世界静下来": 61,
-    "MAKETHEWORLDCLAMOR": 61,
-    "21012": 62,
-    "秘密誓心": 62,
-    "ASECRETVOW": 62,
-    "21011": 63,
-    "与行星相会": 63,
-    "PLANETARYRENDEZVOUS": 63,
-    "21010": 64,
-    "论剑": 64,
-    "SWORDPLAY": 64,
-    "21009": 65,
-    "朗道的选择": 65,
-    "LANDAUSCHOICE": 65,
-    "21008": 66,
-    "猎物的视线": 66,
-    "EYESOFTHEPREY": 66,
-    "21007": 67,
-    "同一种心情": 67,
-    "SHAREDFEELING": 67,
-    "21006": 68,
-    "「我」的诞生": 68,
-    "THEBIRTHOFTHESELF": 68,
-    "21005": 69,
-    "鼹鼠党欢迎你": 69,
-    "THEMOLESWELCOMEYOU": 69,
-    "21004": 70,
-    "记忆中的模样": 70,
-    "MEMORIESOFTHEPAST": 70,
-    "21003": 71,
-    "唯有沉默": 71,
-    "ONLYSILENCEREMAINS": 71,
-    "21002": 72,
-    "余生的第一天": 72,
-    "DAYONEOFMYNEWLIFE": 72,
-    "21001": 73,
-    "晚安与睡颜": 73,
-    "GOODNIGHTANDSLEEPWELL": 73,
-    "21000": 74,
-    "一场术后对话": 74,
-    "POSTOPCONVERSATION": 74,
-    "20020": 75,
-    "睿见": 75,
-    "SAGACITY": 75,
-    "20019": 76,
-    "调和": 76,
-    "MEDIATION": 76,
-    "20018": 77,
-    "匿影": 77,
-    "HIDDENSHADOW": 77,
-    "20017": 78,
-    "开疆": 78,
-    "PIONEERING": 78,
-    "20016": 79,
-    "俱殁": 79,
-    "MUTUALDEMISE": 79,
-    "20015": 80,
-    "蕃息": 80,
-    "MULTIPLICATION": 80,
-    "20014": 81,
-    "相抗": 81,
-    "ADVERSARIAL": 81,
-    "20013": 82,
-    "灵钥": 82,
-    "PASSKEY": 82,
-    "20012": 83,
-    "轮契": 83,
-    "MESHINGCOGS": 83,
-    "20011": 84,
-    "渊环": 84,
-    "LOOP": 84,
-    "20010": 85,
-    "戍御": 85,
-    "DEFENSE": 85,
-    "20009": 86,
-    "乐圮": 86,
-    "SHATTEREDHOME": 86,
-    "20008": 87,
-    "嘉果": 87,
-    "FINEFRUIT": 87,
-    "20007": 88,
-    "离弦": 88,
-    "DARTINGARROW": 88,
-    "20006": 89,
-    "智库": 89,
-    "DATABANK": 89,
-    "20005": 90,
-    "齐颂": 90,
-    "CHORUS": 90,
-    "20004": 91,
-    "幽邃": 91,
-    "VOID": 91,
-    "20003": 92,
-    "琥珀": 92,
-    "AMBER": 92,
-    "20002": 93,
-    "天倾": 93,
-    "COLLAPSINGSKY": 93,
-    "20001": 94,
-    "物穰": 94,
-    "CORNUCOPIA": 94,
-    "20000": 95,
-    "锋镝": 95,
-    "ARROWS": 95
+    "23027": 0,
+    "驶向第二次生命": 0,
+    "SAILINGTOWARDSASECONDLIFE": 0,
+    "23026": 1,
+    "夜色流光溢彩": 1,
+    "FLOWINGNIGHTGLOW": 1,
+    "23024": 2,
+    "行于流逝的岸": 2,
+    "ALONGTHEPASSINGSHORE": 2,
+    "23023": 3,
+    "命运从未公平": 3,
+    "INHERENTLYUNJUSTDESTINY": 3,
+    "23022": 4,
+    "重塑时光之忆": 4,
+    "REFORGEDREMEMBRANCE": 4,
+    "23021": 5,
+    "游戏尘寰": 5,
+    "EARTHLYESCAPADE": 5,
+    "23020": 6,
+    "纯粹思维的洗礼": 6,
+    "BAPTISMOFPURETHOUGHT": 6,
+    "23019": 7,
+    "镜中故我": 7,
+    "PASTSELFINMIRROR": 7,
+    "23018": 8,
+    "片刻，留在眼底": 8,
+    "ANINSTANTBEFOREAGAZE": 8,
+    "23017": 9,
+    "惊魂夜": 9,
+    "NIGHTOFFRIGHT": 9,
+    "23016": 10,
+    "烦恼着，幸福着": 10,
+    "WORRISOME,BLISSFUL": 10,
+    "23015": 11,
+    "比阳光更明亮的": 11,
+    "BRIGHTERTHANTHESUN": 11,
+    "23014": 12,
+    "此身为剑": 12,
+    "ISHALLBEMYOWNSWORD": 12,
+    "23013": 13,
+    "时节不居": 13,
+    "TIMEWAITSFORNOONE": 13,
+    "23012": 14,
+    "如泥酣眠": 14,
+    "SLEEPLIKETHEDEAD": 14,
+    "23011": 15,
+    "她已闭上双眼": 15,
+    "SHEALREADYSHUTHEREYES": 15,
+    "23010": 16,
+    "拂晓之前": 16,
+    "BEFOREDAWN": 16,
+    "23009": 17,
+    "到不了的彼岸": 17,
+    "THEUNREACHABLESIDE": 17,
+    "23008": 18,
+    "棺的回响": 18,
+    "ECHOESOFTHECOFFIN": 18,
+    "23007": 19,
+    "雨一直下": 19,
+    "INCESSANTRAIN": 19,
+    "23006": 20,
+    "只需等待": 20,
+    "PATIENCEISALLYOUNEED": 20,
+    "23005": 21,
+    "制胜的瞬间": 21,
+    "MOMENTOFVICTORY": 21,
+    "23004": 22,
+    "以世界之名": 22,
+    "INTHENAMEOFTHEWORLD": 22,
+    "23003": 23,
+    "但战斗还未结束": 23,
+    "BUTTHEBATTLEISNTOVER": 23,
+    "23002": 24,
+    "无可取代的东西": 24,
+    "SOMETHINGIRREPLACEABLE": 24,
+    "23001": 25,
+    "于夜色中": 25,
+    "INTHENIGHT": 25,
+    "23000": 26,
+    "银河铁道之夜": 26,
+    "NIGHTONTHEMILKYWAY": 26,
+    "24003": 27,
+    "孤独的疗愈": 27,
+    "SOLITARYHEALING": 27,
+    "24002": 28,
+    "记忆的质料": 28,
+    "TEXTUREOFMEMORIES": 28,
+    "24001": 29,
+    "星海巡航": 29,
+    "CRUISINGINTHESTELLARSEA": 29,
+    "24000": 30,
+    "记一位星神的陨落": 30,
+    "ONTHEFALLOFANAEON": 30,
+    "22002": 31,
+    "为了明日的旅途": 31,
+    "FORTOMORROWSJOURNEY": 31,
+    "22001": 32,
+    "嘿，我在这儿": 32,
+    "HEY,OVERHERE": 32,
+    "22000": 33,
+    "新手任务开始前": 33,
+    "BEFORETHETUTORIALMISSIONSTARTS": 33,
+    "21044": 34,
+    "无边曼舞": 34,
+    "BOUNDLESSCHOREO": 34,
+    "21043": 35,
+    "两个人的演唱会": 35,
+    "CONCERTFORTWO": 35,
+    "21042": 36,
+    "铭记于心的约定": 36,
+    "INDELIBLEPROMISE": 36,
+    "21041": 37,
+    "好戏开演": 37,
+    "ITSSHOWTIME": 37,
+    "21040": 38,
+    "银河沦陷日": 38,
+    "THEDAYTHECOSMOSFELL": 38,
+    "21039": 39,
+    "织造命运之线": 39,
+    "DESTINYSTHREADSFOREWOVEN": 39,
+    "21038": 40,
+    "在火的远处": 40,
+    "FLAMESAFAR": 40,
+    "21037": 41,
+    "最后的赢家": 41,
+    "FINALVICTOR": 41,
+    "21036": 42,
+    "美梦小镇大冒险": 42,
+    "DREAMVILLEADVENTURE": 42,
+    "21035": 43,
+    "何物为真": 43,
+    "WHATISREAL?": 43,
+    "21034": 44,
+    "今日亦是和平的一日": 44,
+    "TODAYISANOTHERPEACEFULDAY": 44,
+    "21033": 45,
+    "无处可逃": 45,
+    "NOWHERETORUN": 45,
+    "21032": 46,
+    "镂月裁云之意": 46,
+    "CARVETHEMOON,WEAVETHECLOUDS": 46,
+    "21031": 47,
+    "重返幽冥": 47,
+    "RETURNTODARKNESS": 47,
+    "21030": 48,
+    "这就是我啦！": 48,
+    "THISISME!": 48,
+    "21029": 49,
+    "后会有期": 49,
+    "WEWILLMEETAGAIN": 49,
+    "21028": 50,
+    "暖夜不会漫长": 50,
+    "WARMTHSHORTENSCOLDNIGHTS": 50,
+    "21027": 51,
+    "早餐的仪式感": 51,
+    "THESERIOUSNESSOFBREAKFAST": 51,
+    "21026": 52,
+    "汪！散步时间！": 52,
+    "WOOF!WALKTIME!": 52,
+    "21025": 53,
+    "过往未来": 53,
+    "PASTANDFUTURE": 53,
+    "21024": 54,
+    "春水初生": 54,
+    "RIVERFLOWSINSPRING": 54,
+    "21023": 55,
+    "我们是地火": 55,
+    "WEAREWILDFIRE": 55,
+    "21022": 56,
+    "延长记号": 56,
+    "FERMATA": 56,
+    "21021": 57,
+    "等价交换": 57,
+    "QUIDPROQUO": 57,
+    "21020": 58,
+    "天才们的休憩": 58,
+    "GENIUSESREPOSE": 58,
+    "21019": 59,
+    "在蓝天下": 59,
+    "UNDERTHEBLUESKY": 59,
+    "21018": 60,
+    "舞！舞！舞！": 60,
+    "DANCE!DANCE!DANCE!": 60,
+    "21017": 61,
+    "点个关注吧！": 61,
+    "SUBSCRIBEFORMORE!": 61,
+    "21016": 62,
+    "宇宙市场趋势": 62,
+    "TRENDOFTHEUNIVERSALMARKET": 62,
+    "21015": 63,
+    "决心如汗珠般闪耀": 63,
+    "RESOLUTIONSHINESASPEARLSOFSWEAT": 63,
+    "21014": 64,
+    "此时恰好": 64,
+    "PERFECTTIMING": 64,
+    "21013": 65,
+    "别让世界静下来": 65,
+    "MAKETHEWORLDCLAMOR": 65,
+    "21012": 66,
+    "秘密誓心": 66,
+    "ASECRETVOW": 66,
+    "21011": 67,
+    "与行星相会": 67,
+    "PLANETARYRENDEZVOUS": 67,
+    "21010": 68,
+    "论剑": 68,
+    "SWORDPLAY": 68,
+    "21009": 69,
+    "朗道的选择": 69,
+    "LANDAUSCHOICE": 69,
+    "21008": 70,
+    "猎物的视线": 70,
+    "EYESOFTHEPREY": 70,
+    "21007": 71,
+    "同一种心情": 71,
+    "SHAREDFEELING": 71,
+    "21006": 72,
+    "「我」的诞生": 72,
+    "THEBIRTHOFTHESELF": 72,
+    "21005": 73,
+    "鼹鼠党欢迎你": 73,
+    "THEMOLESWELCOMEYOU": 73,
+    "21004": 74,
+    "记忆中的模样": 74,
+    "MEMORIESOFTHEPAST": 74,
+    "21003": 75,
+    "唯有沉默": 75,
+    "ONLYSILENCEREMAINS": 75,
+    "21002": 76,
+    "余生的第一天": 76,
+    "DAYONEOFMYNEWLIFE": 76,
+    "21001": 77,
+    "晚安与睡颜": 77,
+    "GOODNIGHTANDSLEEPWELL": 77,
+    "21000": 78,
+    "一场术后对话": 78,
+    "POSTOPCONVERSATION": 78,
+    "20020": 79,
+    "睿见": 79,
+    "SAGACITY": 79,
+    "20019": 80,
+    "调和": 80,
+    "MEDIATION": 80,
+    "20018": 81,
+    "匿影": 81,
+    "HIDDENSHADOW": 81,
+    "20017": 82,
+    "开疆": 82,
+    "PIONEERING": 82,
+    "20016": 83,
+    "俱殁": 83,
+    "MUTUALDEMISE": 83,
+    "20015": 84,
+    "蕃息": 84,
+    "MULTIPLICATION": 84,
+    "20014": 85,
+    "相抗": 85,
+    "ADVERSARIAL": 85,
+    "20013": 86,
+    "灵钥": 86,
+    "PASSKEY": 86,
+    "20012": 87,
+    "轮契": 87,
+    "MESHINGCOGS": 87,
+    "20011": 88,
+    "渊环": 88,
+    "LOOP": 88,
+    "20010": 89,
+    "戍御": 89,
+    "DEFENSE": 89,
+    "20009": 90,
+    "乐圮": 90,
+    "SHATTEREDHOME": 90,
+    "20008": 91,
+    "嘉果": 91,
+    "FINEFRUIT": 91,
+    "20007": 92,
+    "离弦": 92,
+    "DARTINGARROW": 92,
+    "20006": 93,
+    "智库": 93,
+    "DATABANK": 93,
+    "20005": 94,
+    "齐颂": 94,
+    "CHORUS": 94,
+    "20004": 95,
+    "幽邃": 95,
+    "VOID": 95,
+    "20003": 96,
+    "琥珀": 96,
+    "AMBER": 96,
+    "20002": 97,
+    "天倾": 97,
+    "COLLAPSINGSKY": 97,
+    "20001": 98,
+    "物穰": 98,
+    "CORNUCOPIA": 98,
+    "20000": 99,
+    "锋镝": 99,
+    "ARROWS": 99
 }
 
 var _search_relic = {
@@ -3978,8 +4223,42 @@ var cl_select = {
 
 var _weapon = [
     {
+        "_id": 23027,
+        "Name": "두 번째 생명을 향해",
+        "Rarity": 5,
+        "Path": "Hunt",
+        "Skill": 23027,
+        "Pic": "23027.png",
+        "Mat": [
+            114013,
+            110193
+        ],
+        "Stats": {
+            "HP": 1058.4,
+            "ATK": 582.12,
+            "DEF": 463.05
+        }
+    },
+    {
+        "_id": 23026,
+        "Name": "찬란하게 빛나는 밤",
+        "Rarity": 5,
+        "Path": "Harmony",
+        "Skill": 23026,
+        "Pic": "23026.png",
+        "Mat": [
+            114003,
+            110233
+        ],
+        "Stats": {
+            "HP": 952.56,
+            "ATK": 635.04,
+            "DEF": 463.05
+        }
+    },
+    {
         "_id": 23024,
-        "Name": "Along the Passing Shore",
+        "Name": "흘러가는 강가를 따라",
         "Rarity": 5,
         "Path": "Nihility",
         "Skill": 23024,
@@ -3996,7 +4275,7 @@ var _weapon = [
     },
     {
         "_id": 23023,
-        "Name": "Inherently Unjust Destiny",
+        "Name": "언제나 불공평한 운명",
         "Rarity": 5,
         "Path": "Preservation",
         "Skill": 23023,
@@ -4013,7 +4292,7 @@ var _weapon = [
     },
     {
         "_id": 23022,
-        "Name": "Reforged Remembrance",
+        "Name": "시간의 기억에 대한 재구성",
         "Rarity": 5,
         "Path": "Nihility",
         "Skill": 23022,
@@ -4030,7 +4309,7 @@ var _weapon = [
     },
     {
         "_id": 23021,
-        "Name": "Earthly Escapade",
+        "Name": "속세에서의 유희",
         "Rarity": 5,
         "Path": "Harmony",
         "Skill": 23021,
@@ -4047,7 +4326,7 @@ var _weapon = [
     },
     {
         "_id": 23020,
-        "Name": "Baptism of Pure Thought",
+        "Name": "순수 사유의 세례",
         "Rarity": 5,
         "Path": "Hunt",
         "Skill": 23020,
@@ -4064,7 +4343,7 @@ var _weapon = [
     },
     {
         "_id": 23019,
-        "Name": "Past Self in Mirror",
+        "Name": "거울 속 지난날의 나",
         "Rarity": 5,
         "Path": "Harmony",
         "Skill": 23019,
@@ -4081,7 +4360,7 @@ var _weapon = [
     },
     {
         "_id": 23018,
-        "Name": "An Instant Before A Gaze",
+        "Name": "눈에 담긴 순간",
         "Rarity": 5,
         "Path": "Erudition",
         "Skill": 23018,
@@ -4098,7 +4377,7 @@ var _weapon = [
     },
     {
         "_id": 23017,
-        "Name": "Night of Fright",
+        "Name": "섬뜩한 밤",
         "Rarity": 5,
         "Path": "Abundance",
         "Skill": 23017,
@@ -4115,7 +4394,7 @@ var _weapon = [
     },
     {
         "_id": 23016,
-        "Name": "Worrisome, Blissful",
+        "Name": "고민, 그리고 행복",
         "Rarity": 5,
         "Path": "Hunt",
         "Skill": 23016,
@@ -4132,7 +4411,7 @@ var _weapon = [
     },
     {
         "_id": 23015,
-        "Name": "Brighter Than the Sun",
+        "Name": "태양보다 밝게 빛나는 것",
         "Rarity": 5,
         "Path": "Destruction",
         "Skill": 23015,
@@ -4149,7 +4428,7 @@ var _weapon = [
     },
     {
         "_id": 23014,
-        "Name": "I Shall Be My Own Sword",
+        "Name": "이 몸이 검이니",
         "Rarity": 5,
         "Path": "Destruction",
         "Skill": 23014,
@@ -4166,7 +4445,7 @@ var _weapon = [
     },
     {
         "_id": 23013,
-        "Name": "Time Waits for No One",
+        "Name": "세월은 흐를 뿐",
         "Rarity": 5,
         "Path": "Abundance",
         "Skill": 23013,
@@ -4183,7 +4462,7 @@ var _weapon = [
     },
     {
         "_id": 23012,
-        "Name": "Sleep Like the Dead",
+        "Name": "깊게 든 단잠",
         "Rarity": 5,
         "Path": "Hunt",
         "Skill": 23012,
@@ -4200,7 +4479,7 @@ var _weapon = [
     },
     {
         "_id": 23011,
-        "Name": "She Already Shut Her Eyes",
+        "Name": "그녀는 두 눈을 감았네",
         "Rarity": 5,
         "Path": "Preservation",
         "Skill": 23011,
@@ -4217,7 +4496,7 @@ var _weapon = [
     },
     {
         "_id": 23010,
-        "Name": "Before Dawn",
+        "Name": "동트기 전",
         "Rarity": 5,
         "Path": "Erudition",
         "Skill": 23010,
@@ -4234,7 +4513,7 @@ var _weapon = [
     },
     {
         "_id": 23009,
-        "Name": "The Unreachable Side",
+        "Name": "닿을 수 없는 저편",
         "Rarity": 5,
         "Path": "Destruction",
         "Skill": 23009,
@@ -4251,7 +4530,7 @@ var _weapon = [
     },
     {
         "_id": 23008,
-        "Name": "Echoes of the Coffin",
+        "Name": "관의 울림",
         "Rarity": 5,
         "Path": "Abundance",
         "Skill": 23008,
@@ -4268,7 +4547,7 @@ var _weapon = [
     },
     {
         "_id": 23007,
-        "Name": "Incessant Rain",
+        "Name": "계속 내리는 비",
         "Rarity": 5,
         "Path": "Nihility",
         "Skill": 23007,
@@ -4285,7 +4564,7 @@ var _weapon = [
     },
     {
         "_id": 23006,
-        "Name": "Patience Is All You Need",
+        "Name": "필요한 건 기다림뿐",
         "Rarity": 5,
         "Path": "Nihility",
         "Skill": 23006,
@@ -4302,7 +4581,7 @@ var _weapon = [
     },
     {
         "_id": 23005,
-        "Name": "Moment of Victory",
+        "Name": "승리의 순간",
         "Rarity": 5,
         "Path": "Preservation",
         "Skill": 23005,
@@ -4319,7 +4598,7 @@ var _weapon = [
     },
     {
         "_id": 23004,
-        "Name": "In the Name of the World",
+        "Name": "세계의 이름으로",
         "Rarity": 5,
         "Path": "Nihility",
         "Skill": 23004,
@@ -4336,7 +4615,7 @@ var _weapon = [
     },
     {
         "_id": 23003,
-        "Name": "But the Battle Isn't Over",
+        "Name": "아직 전투는 끝나지 않았다",
         "Rarity": 5,
         "Path": "Harmony",
         "Skill": 23003,
@@ -4353,7 +4632,7 @@ var _weapon = [
     },
     {
         "_id": 23002,
-        "Name": "Something Irreplaceable",
+        "Name": "대체할 수 없는 것",
         "Rarity": 5,
         "Path": "Destruction",
         "Skill": 23002,
@@ -4370,7 +4649,7 @@ var _weapon = [
     },
     {
         "_id": 23001,
-        "Name": "In the Night",
+        "Name": "야경 속에서",
         "Rarity": 5,
         "Path": "Hunt",
         "Skill": 23001,
@@ -4387,7 +4666,7 @@ var _weapon = [
     },
     {
         "_id": 23000,
-        "Name": "Night on the Milky Way",
+        "Name": "은하철도의 밤",
         "Rarity": 5,
         "Path": "Erudition",
         "Skill": 23000,
@@ -4404,7 +4683,7 @@ var _weapon = [
     },
     {
         "_id": 24003,
-        "Name": "Solitary Healing",
+        "Name": "고독의 치유",
         "Rarity": 5,
         "Path": "Nihility",
         "Skill": 24003,
@@ -4421,7 +4700,7 @@ var _weapon = [
     },
     {
         "_id": 24002,
-        "Name": "Texture of Memories",
+        "Name": "기억의 소재",
         "Rarity": 5,
         "Path": "Preservation",
         "Skill": 24002,
@@ -4438,7 +4717,7 @@ var _weapon = [
     },
     {
         "_id": 24001,
-        "Name": "Cruising in the Stellar Sea",
+        "Name": "별바다 순항",
         "Rarity": 5,
         "Path": "Hunt",
         "Skill": 24001,
@@ -4455,7 +4734,7 @@ var _weapon = [
     },
     {
         "_id": 24000,
-        "Name": "On the Fall of an Aeon",
+        "Name": "어떤 에이언즈의 몰락",
         "Rarity": 5,
         "Path": "Destruction",
         "Skill": 24000,
@@ -4471,8 +4750,25 @@ var _weapon = [
         }
     },
     {
+        "_id": 22002,
+        "Name": "내일의 여정을 위해",
+        "Rarity": 4,
+        "Path": "Harmony",
+        "Skill": 22002,
+        "Pic": "22002.png",
+        "Mat": [
+            114003,
+            110233
+        ],
+        "Stats": {
+            "HP": 952.56,
+            "ATK": 476.28,
+            "DEF": 330.75
+        }
+    },
+    {
         "_id": 22001,
-        "Name": "Hey, Over Here",
+        "Name": "저기, 나 여기 있어",
         "Rarity": 4,
         "Path": "Abundance",
         "Skill": 22001,
@@ -4489,7 +4785,7 @@ var _weapon = [
     },
     {
         "_id": 22000,
-        "Name": "Before the Tutorial Mission Starts",
+        "Name": "초보자 임무 시작 전",
         "Rarity": 4,
         "Path": "Nihility",
         "Skill": 22000,
@@ -4505,8 +4801,25 @@ var _weapon = [
         }
     },
     {
+        "_id": 21044,
+        "Name": "끝없는 춤",
+        "Rarity": 4,
+        "Path": "Nihility",
+        "Skill": 21044,
+        "Pic": "21044.png",
+        "Mat": [
+            1,
+            110223
+        ],
+        "Stats": {
+            "HP": 952.56,
+            "ATK": 476.28,
+            "DEF": 330.75
+        }
+    },
+    {
         "_id": 21043,
-        "Name": "Concert for Two",
+        "Name": "두 사람의 콘서트",
         "Rarity": 4,
         "Path": "Preservation",
         "Skill": 21043,
@@ -4523,7 +4836,7 @@ var _weapon = [
     },
     {
         "_id": 21042,
-        "Name": "Indelible Promise",
+        "Name": "마음에 새긴 약속",
         "Rarity": 4,
         "Path": "Destruction",
         "Skill": 21042,
@@ -4540,7 +4853,7 @@ var _weapon = [
     },
     {
         "_id": 21041,
-        "Name": "It's Showtime",
+        "Name": "쇼타임",
         "Rarity": 4,
         "Path": "Nihility",
         "Skill": 21041,
@@ -4557,7 +4870,7 @@ var _weapon = [
     },
     {
         "_id": 21040,
-        "Name": "The Day The Cosmos Fell",
+        "Name": "은하 함락의 날",
         "Rarity": 4,
         "Path": "Erudition",
         "Skill": 21040,
@@ -4574,7 +4887,7 @@ var _weapon = [
     },
     {
         "_id": 21039,
-        "Name": "Destiny's Threads Forewoven",
+        "Name": "운명의 실을 엮다",
         "Rarity": 4,
         "Path": "Preservation",
         "Skill": 21039,
@@ -4591,7 +4904,7 @@ var _weapon = [
     },
     {
         "_id": 21038,
-        "Name": "Flames Afar",
+        "Name": "불의 먼 곳에서",
         "Rarity": 4,
         "Path": "Destruction",
         "Skill": 21038,
@@ -4608,7 +4921,7 @@ var _weapon = [
     },
     {
         "_id": 21037,
-        "Name": "Final Victor",
+        "Name": "최후의 승자",
         "Rarity": 4,
         "Path": "Hunt",
         "Skill": 21037,
@@ -4625,7 +4938,7 @@ var _weapon = [
     },
     {
         "_id": 21036,
-        "Name": "Dreamville Adventure",
+        "Name": "좋은꿈 마을 대모험",
         "Rarity": 4,
         "Path": "Harmony",
         "Skill": 21036,
@@ -4642,7 +4955,7 @@ var _weapon = [
     },
     {
         "_id": 21035,
-        "Name": "What Is Real?",
+        "Name": "무엇이 진실인가",
         "Rarity": 4,
         "Path": "Abundance",
         "Skill": 21035,
@@ -4659,7 +4972,7 @@ var _weapon = [
     },
     {
         "_id": 21034,
-        "Name": "Today Is Another Peaceful Day",
+        "Name": "오늘도 평화로운 하루",
         "Rarity": 4,
         "Path": "Erudition",
         "Skill": 21034,
@@ -4676,7 +4989,7 @@ var _weapon = [
     },
     {
         "_id": 21033,
-        "Name": "Nowhere to Run",
+        "Name": "도망칠 곳은 없다",
         "Rarity": 4,
         "Path": "Destruction",
         "Skill": 21033,
@@ -4693,7 +5006,7 @@ var _weapon = [
     },
     {
         "_id": 21032,
-        "Name": "Carve the Moon, Weave the Clouds",
+        "Name": "누월재운의 뜻",
         "Rarity": 4,
         "Path": "Harmony",
         "Skill": 21032,
@@ -4710,7 +5023,7 @@ var _weapon = [
     },
     {
         "_id": 21031,
-        "Name": "Return to Darkness",
+        "Name": "또다시 저승으로",
         "Rarity": 4,
         "Path": "Hunt",
         "Skill": 21031,
@@ -4727,7 +5040,7 @@ var _weapon = [
     },
     {
         "_id": 21030,
-        "Name": "This Is Me!",
+        "Name": "이게 바로 나야!",
         "Rarity": 4,
         "Path": "Preservation",
         "Skill": 21030,
@@ -4744,7 +5057,7 @@ var _weapon = [
     },
     {
         "_id": 21029,
-        "Name": "We Will Meet Again",
+        "Name": "훗날 기약",
         "Rarity": 4,
         "Path": "Nihility",
         "Skill": 21029,
@@ -4761,7 +5074,7 @@ var _weapon = [
     },
     {
         "_id": 21028,
-        "Name": "Warmth Shortens Cold Nights",
+        "Name": "따듯한 밤은 길지 않고",
         "Rarity": 4,
         "Path": "Abundance",
         "Skill": 21028,
@@ -4778,7 +5091,7 @@ var _weapon = [
     },
     {
         "_id": 21027,
-        "Name": "The Seriousness of Breakfast",
+        "Name": "느낌 있는 아침 식사 루틴",
         "Rarity": 4,
         "Path": "Erudition",
         "Skill": 21027,
@@ -4795,7 +5108,7 @@ var _weapon = [
     },
     {
         "_id": 21026,
-        "Name": "Woof! Walk Time!",
+        "Name": "멍! 산책 시간!",
         "Rarity": 4,
         "Path": "Destruction",
         "Skill": 21026,
@@ -4812,7 +5125,7 @@ var _weapon = [
     },
     {
         "_id": 21025,
-        "Name": "Past and Future",
+        "Name": "과거와 미래",
         "Rarity": 4,
         "Path": "Harmony",
         "Skill": 21025,
@@ -4829,7 +5142,7 @@ var _weapon = [
     },
     {
         "_id": 21024,
-        "Name": "River Flows in Spring",
+        "Name": "움트는 봄물",
         "Rarity": 4,
         "Path": "Hunt",
         "Skill": 21024,
@@ -4846,7 +5159,7 @@ var _weapon = [
     },
     {
         "_id": 21023,
-        "Name": "We Are Wildfire",
+        "Name": "우리는 와일드 파이어",
         "Rarity": 4,
         "Path": "Preservation",
         "Skill": 21023,
@@ -4863,7 +5176,7 @@ var _weapon = [
     },
     {
         "_id": 21022,
-        "Name": "Fermata",
+        "Name": "페르마타",
         "Rarity": 4,
         "Path": "Nihility",
         "Skill": 21022,
@@ -4880,7 +5193,7 @@ var _weapon = [
     },
     {
         "_id": 21021,
-        "Name": "Quid Pro Quo",
+        "Name": "등가교환",
         "Rarity": 4,
         "Path": "Abundance",
         "Skill": 21021,
@@ -4897,7 +5210,7 @@ var _weapon = [
     },
     {
         "_id": 21020,
-        "Name": "Geniuses' Repose",
+        "Name": "천재들의 휴식",
         "Rarity": 4,
         "Path": "Erudition",
         "Skill": 21020,
@@ -4914,7 +5227,7 @@ var _weapon = [
     },
     {
         "_id": 21019,
-        "Name": "Under the Blue Sky",
+        "Name": "푸른 하늘 아래",
         "Rarity": 4,
         "Path": "Destruction",
         "Skill": 21019,
@@ -4931,7 +5244,7 @@ var _weapon = [
     },
     {
         "_id": 21018,
-        "Name": "Dance! Dance! Dance!",
+        "Name": "댄스! 댄스! 댄스!",
         "Rarity": 4,
         "Path": "Harmony",
         "Skill": 21018,
@@ -4948,7 +5261,7 @@ var _weapon = [
     },
     {
         "_id": 21017,
-        "Name": "Subscribe for More!",
+        "Name": "팔로우를 부탁해!",
         "Rarity": 4,
         "Path": "Hunt",
         "Skill": 21017,
@@ -4965,7 +5278,7 @@ var _weapon = [
     },
     {
         "_id": 21016,
-        "Name": "Trend of the Universal Market",
+        "Name": "우주 시장 동향",
         "Rarity": 4,
         "Path": "Preservation",
         "Skill": 21016,
@@ -4982,7 +5295,7 @@ var _weapon = [
     },
     {
         "_id": 21015,
-        "Name": "Resolution Shines As Pearls of Sweat",
+        "Name": "땀방울처럼 빛나는 결심",
         "Rarity": 4,
         "Path": "Nihility",
         "Skill": 21015,
@@ -4999,7 +5312,7 @@ var _weapon = [
     },
     {
         "_id": 21014,
-        "Name": "Perfect Timing",
+        "Name": "알맞은 타이밍",
         "Rarity": 4,
         "Path": "Abundance",
         "Skill": 21014,
@@ -5016,7 +5329,7 @@ var _weapon = [
     },
     {
         "_id": 21013,
-        "Name": "Make the World Clamor",
+        "Name": "세상을 진정시키지 마",
         "Rarity": 4,
         "Path": "Erudition",
         "Skill": 21013,
@@ -5033,7 +5346,7 @@ var _weapon = [
     },
     {
         "_id": 21012,
-        "Name": "A Secret Vow",
+        "Name": "비밀 맹세",
         "Rarity": 4,
         "Path": "Destruction",
         "Skill": 21012,
@@ -5050,7 +5363,7 @@ var _weapon = [
     },
     {
         "_id": 21011,
-        "Name": "Planetary Rendezvous",
+        "Name": "행성과의 만남",
         "Rarity": 4,
         "Path": "Harmony",
         "Skill": 21011,
@@ -5067,7 +5380,7 @@ var _weapon = [
     },
     {
         "_id": 21010,
-        "Name": "Swordplay",
+        "Name": "논검",
         "Rarity": 4,
         "Path": "Hunt",
         "Skill": 21010,
@@ -5084,7 +5397,7 @@ var _weapon = [
     },
     {
         "_id": 21009,
-        "Name": "Landau's Choice",
+        "Name": "랜도의 선택",
         "Rarity": 4,
         "Path": "Preservation",
         "Skill": 21009,
@@ -5101,7 +5414,7 @@ var _weapon = [
     },
     {
         "_id": 21008,
-        "Name": "Eyes of the Prey",
+        "Name": "사냥감의 시선",
         "Rarity": 4,
         "Path": "Nihility",
         "Skill": 21008,
@@ -5118,7 +5431,7 @@ var _weapon = [
     },
     {
         "_id": 21007,
-        "Name": "Shared Feeling",
+        "Name": "같은 심정",
         "Rarity": 4,
         "Path": "Abundance",
         "Skill": 21007,
@@ -5135,7 +5448,7 @@ var _weapon = [
     },
     {
         "_id": 21006,
-        "Name": "The Birth of the Self",
+        "Name": "「나」의 탄생",
         "Rarity": 4,
         "Path": "Erudition",
         "Skill": 21006,
@@ -5152,7 +5465,7 @@ var _weapon = [
     },
     {
         "_id": 21005,
-        "Name": "The Moles Welcome You",
+        "Name": "두더지파가 환영해",
         "Rarity": 4,
         "Path": "Destruction",
         "Skill": 21005,
@@ -5169,7 +5482,7 @@ var _weapon = [
     },
     {
         "_id": 21004,
-        "Name": "Memories of the Past",
+        "Name": "기억 속 모습",
         "Rarity": 4,
         "Path": "Harmony",
         "Skill": 21004,
@@ -5186,7 +5499,7 @@ var _weapon = [
     },
     {
         "_id": 21003,
-        "Name": "Only Silence Remains",
+        "Name": "침묵만이",
         "Rarity": 4,
         "Path": "Hunt",
         "Skill": 21003,
@@ -5203,7 +5516,7 @@ var _weapon = [
     },
     {
         "_id": 21002,
-        "Name": "Day One of My New Life",
+        "Name": "여생의 첫날",
         "Rarity": 4,
         "Path": "Preservation",
         "Skill": 21002,
@@ -5220,7 +5533,7 @@ var _weapon = [
     },
     {
         "_id": 21001,
-        "Name": "Good Night and Sleep Well",
+        "Name": "밤 인사와 잠든 얼굴",
         "Rarity": 4,
         "Path": "Nihility",
         "Skill": 21001,
@@ -5237,7 +5550,7 @@ var _weapon = [
     },
     {
         "_id": 21000,
-        "Name": "Post-Op Conversation",
+        "Name": "수술 후의 대화",
         "Rarity": 4,
         "Path": "Abundance",
         "Skill": 21000,
@@ -5254,7 +5567,7 @@ var _weapon = [
     },
     {
         "_id": 20020,
-        "Name": "Sagacity",
+        "Name": "식견",
         "Rarity": 3,
         "Path": "Erudition",
         "Skill": 20020,
@@ -5271,7 +5584,7 @@ var _weapon = [
     },
     {
         "_id": 20019,
-        "Name": "Mediation",
+        "Name": "어울림",
         "Rarity": 3,
         "Path": "Harmony",
         "Skill": 20019,
@@ -5288,7 +5601,7 @@ var _weapon = [
     },
     {
         "_id": 20018,
-        "Name": "Hidden Shadow",
+        "Name": "숨은 그림자",
         "Rarity": 3,
         "Path": "Nihility",
         "Skill": 20018,
@@ -5305,7 +5618,7 @@ var _weapon = [
     },
     {
         "_id": 20017,
-        "Name": "Pioneering",
+        "Name": "강토 개척",
         "Rarity": 3,
         "Path": "Preservation",
         "Skill": 20017,
@@ -5322,7 +5635,7 @@ var _weapon = [
     },
     {
         "_id": 20016,
-        "Name": "Mutual Demise",
+        "Name": "전멸",
         "Rarity": 3,
         "Path": "Destruction",
         "Skill": 20016,
@@ -5339,7 +5652,7 @@ var _weapon = [
     },
     {
         "_id": 20015,
-        "Name": "Multiplication",
+        "Name": "증식",
         "Rarity": 3,
         "Path": "Abundance",
         "Skill": 20015,
@@ -5356,7 +5669,7 @@ var _weapon = [
     },
     {
         "_id": 20014,
-        "Name": "Adversarial",
+        "Name": "대립",
         "Rarity": 3,
         "Path": "Hunt",
         "Skill": 20014,
@@ -5373,7 +5686,7 @@ var _weapon = [
     },
     {
         "_id": 20013,
-        "Name": "Passkey",
+        "Name": "영험한 열쇠",
         "Rarity": 3,
         "Path": "Erudition",
         "Skill": 20013,
@@ -5390,7 +5703,7 @@ var _weapon = [
     },
     {
         "_id": 20012,
-        "Name": "Meshing Cogs",
+        "Name": "맞물린 톱니",
         "Rarity": 3,
         "Path": "Harmony",
         "Skill": 20012,
@@ -5407,7 +5720,7 @@ var _weapon = [
     },
     {
         "_id": 20011,
-        "Name": "Loop",
+        "Name": "심연의 고리",
         "Rarity": 3,
         "Path": "Nihility",
         "Skill": 20011,
@@ -5424,7 +5737,7 @@ var _weapon = [
     },
     {
         "_id": 20010,
-        "Name": "Defense",
+        "Name": "수비",
         "Rarity": 3,
         "Path": "Preservation",
         "Skill": 20010,
@@ -5441,7 +5754,7 @@ var _weapon = [
     },
     {
         "_id": 20009,
-        "Name": "Shattered Home",
+        "Name": "무너진 행복",
         "Rarity": 3,
         "Path": "Destruction",
         "Skill": 20009,
@@ -5458,7 +5771,7 @@ var _weapon = [
     },
     {
         "_id": 20008,
-        "Name": "Fine Fruit",
+        "Name": "알찬 열매",
         "Rarity": 3,
         "Path": "Abundance",
         "Skill": 20008,
@@ -5475,7 +5788,7 @@ var _weapon = [
     },
     {
         "_id": 20007,
-        "Name": "Darting Arrow",
+        "Name": "시위를 떠난 화살",
         "Rarity": 3,
         "Path": "Hunt",
         "Skill": 20007,
@@ -5492,7 +5805,7 @@ var _weapon = [
     },
     {
         "_id": 20006,
-        "Name": "Data Bank",
+        "Name": "아카이브",
         "Rarity": 3,
         "Path": "Erudition",
         "Skill": 20006,
@@ -5509,7 +5822,7 @@ var _weapon = [
     },
     {
         "_id": 20005,
-        "Name": "Chorus",
+        "Name": "합창",
         "Rarity": 3,
         "Path": "Harmony",
         "Skill": 20005,
@@ -5526,7 +5839,7 @@ var _weapon = [
     },
     {
         "_id": 20004,
-        "Name": "Void",
+        "Name": "그윽",
         "Rarity": 3,
         "Path": "Nihility",
         "Skill": 20004,
@@ -5543,7 +5856,7 @@ var _weapon = [
     },
     {
         "_id": 20003,
-        "Name": "Amber",
+        "Name": "앰버",
         "Rarity": 3,
         "Path": "Preservation",
         "Skill": 20003,
@@ -5560,7 +5873,7 @@ var _weapon = [
     },
     {
         "_id": 20002,
-        "Name": "Collapsing Sky",
+        "Name": "천경",
         "Rarity": 3,
         "Path": "Destruction",
         "Skill": 20002,
@@ -5577,7 +5890,7 @@ var _weapon = [
     },
     {
         "_id": 20001,
-        "Name": "Cornucopia",
+        "Name": "풍작",
         "Rarity": 3,
         "Path": "Abundance",
         "Skill": 20001,
@@ -5594,7 +5907,7 @@ var _weapon = [
     },
     {
         "_id": 20000,
-        "Name": "Arrows",
+        "Name": "화살촉",
         "Rarity": 3,
         "Path": "Hunt",
         "Skill": 20000,
@@ -5614,276 +5927,276 @@ var _weapon = [
 var _relic = [
     {
         "_id": 314,
-        "Name": "Izumo Gensei and Takama Divine Realm",
+        "Name": "이즈모 현세와 타카마 신국",
         "Icon": "71031.png",
         "Skills": [
-            "Increases the wearer's ATK by <b>12.0%</b>. When entering battle, if at least one other ally follows the same Path as the wearer, then the wearer's CRIT Rate increases by <b>12.0%</b>."
+            "장착한 캐릭터의 공격력이 <b>12.0%</b> 증가한다. 전투 진입 시 장착한 캐릭터와 운명의 길이 같은 동료가 최소 1명 존재할 경우, 장착한 캐릭터의 치명타 확률이 <b>12.0%</b> 증가한다"
         ]
     },
     {
         "_id": 313,
-        "Name": "Sigonia, the Unclaimed Desolation",
+        "Name": "주인 없는 황폐한 별 츠가냐",
         "Icon": "71030.png",
         "Skills": [
-            "Increases the wearer's CRIT Rate by <b>4.0%</b>. When enemies are defeated, the wearer's CRIT DMG increases by <b>4.0%</b>, up to <b>10.0</b> stack(s)."
+            "장착한 캐릭터의 치명타 확률이 <b>4.0%</b> 증가한다. 적이 처치될 시 장착한 캐릭터의 치명타 피해가 <b>4.0%</b> 증가한다. 최대 중첩수: <b>10.0</b>"
         ]
     },
     {
         "_id": 312,
-        "Name": "Penacony, Land of the Dreams",
+        "Name": "꿈의 땅 페나코니",
         "Icon": "71027.png",
         "Skills": [
-            "Increases wearer's Energy Regeneration Rate by <b>5.0%</b>. Increases DMG by <b>10.0%</b> for all other allies that are of the same Type as the wearer."
+            "장착한 캐릭터의 에너지 회복효율이 <b>5.0%</b> 증가한다. 장착한 캐릭터와 같은 속성의 파티 내 다른 아군 캐릭터가 주는 피해가 <b>10.0%</b> 증가한다"
         ]
     },
     {
         "_id": 311,
-        "Name": "Firmament Frontline: Glamoth",
+        "Name": "창공 전선 그라모스",
         "Icon": "71026.png",
         "Skills": [
-            "Increases the wearer's ATK by <b>12.0%</b>. When the wearer's SPD is equal to or higher than <b>135.0</b>/<b>160.0</b>, the wearer deals <b>12.0%</b>/<b>18.0%</b> more DMG."
+            "장착한 캐릭터의 공격력이 <b>12.0%</b> 증가한다. 장착한 캐릭터의 속도가 <b>135.0</b>/<b>160.0</b> 이상일 경우, 장착한 캐릭터가 가하는 피해가 <b>12.0%</b>/<b>18.0%</b> 증가한다"
         ]
     },
     {
         "_id": 310,
-        "Name": "Broken Keel",
+        "Name": "부러진 용골",
         "Icon": "71023.png",
         "Skills": [
-            "Increases the wearer's Effect RES by <b>10.0%</b>. When the wearer's Effect RES is at <b>30.0%</b> or higher, all allies' CRIT DMG increases by <b>10.0%</b>."
+            "장착한 캐릭터의 효과 저항이 <b>10.0%</b> 증가한다. 장착한 캐릭터의 효과 저항이 <b>30.0%</b> 이상일 경우 모든 아군의 치명타 피해가 <b>10.0%</b> 증가한다"
         ]
     },
     {
         "_id": 309,
-        "Name": "Rutilant Arena",
+        "Name": "뭇별 경기장",
         "Icon": "71022.png",
         "Skills": [
-            "Increases the wearer's CRIT Rate by <b>8.0%</b>. When the wearer's current CRIT Rate reaches <b>70.0%</b> or higher, the wearer's Basic ATK and Skill DMG increase by <b>20.0%</b>."
+            "장착한 캐릭터의 치명타 확률이 <b>8.0%</b> 증가한다. 장착한 캐릭터의 치명타 확률이 <b>70.0%</b> 이상일 경우, 일반 공격과 전투 스킬 발동이 가하는 피해가 <b>20.0%</b> 증가한다"
         ]
     },
     {
         "_id": 308,
-        "Name": "Sprightly Vonwacq",
+        "Name": "생명의 바커 공",
         "Icon": "71019.png",
         "Skills": [
-            "Increases the wearer's Energy Regeneration Rate by <b>5.0%</b>. When the wearer's SPD reaches <b>120.0</b> or higher, the wearer's action is Advanced Forward by <b>40.0%</b> immediately upon entering battle."
+            "장착한 캐릭터의 에너지 회복효율이 <b>5.0%</b> 증가한다. 장착한 캐릭터의 속도가 <b>120.0</b> 이상일 경우 전투 진입 시 즉시 행동 게이지가 <b>40.0%</b> 증가한다"
         ]
     },
     {
         "_id": 307,
-        "Name": "Talia: Kingdom of Banditry",
+        "Name": "도적국 탈리아",
         "Icon": "71018.png",
         "Skills": [
-            "Increases the wearer's Break Effect by <b>16.0%</b>. When the wearer's SPD reaches <b>145.0</b> or higher, the wearer's Break Effect increases by an extra <b>20.0%</b>."
+            "장착한 캐릭터의 격파 특수효과가 <b>16.0%</b> 증가한다. 장착한 캐릭터의 속도가 <b>145.0</b> 이상일 경우 격파 특수효과가 추가로 <b>20.0%</b> 증가한다"
         ]
     },
     {
         "_id": 306,
-        "Name": "Inert Salsotto",
+        "Name": "회전을 멈춘 살소토",
         "Icon": "71017.png",
         "Skills": [
-            "Increases the wearer's CRIT Rate by <b>8.0%</b>. When the wearer's current CRIT Rate reaches <b>50.0%</b> or higher, the wearer's Ultimate and follow-up attack DMG increases by <b>15.0%</b>."
+            "장착한 캐릭터의 치명타 확률이 <b>8.0%</b> 증가한다. 장착한 캐릭터의 치명타 확률이 <b>50.0%</b> 이상일 경우, 필살기와 추가 공격이 가하는 피해가 <b>15.0%</b> 증가한다"
         ]
     },
     {
         "_id": 305,
-        "Name": "Celestial Differentiator",
+        "Name": "천체 차분기관",
         "Icon": "71016.png",
         "Skills": [
-            "Increases the wearer's CRIT DMG by <b>16.0%</b>. When the wearer's current CRIT DMG reaches <b>120.0%</b> or higher, after entering battle, the wearer's CRIT Rate increases by <b>60.0%</b> until the end of their first attack."
+            "장착한 캐릭터의 치명타 피해가 <b>16.0%</b> 증가한다. 장착한 캐릭터의 치명타 피해가 <b>120.0%</b> 이상일 경우, 전투 진입 후 장착한 캐릭터의 치명타 확률이 <b>60.0%</b> 증가한다. 첫 공격 발동 후까지 지속하고 종료된다"
         ]
     },
     {
         "_id": 304,
-        "Name": "Belobog of the Architects",
+        "Name": "축성가의 벨로보그",
         "Icon": "71015.png",
         "Skills": [
-            "Increases the wearer's DEF by <b>15.0%</b>. When the wearer's Effect Hit Rate is <b>50.0%</b> or higher, the wearer gains an extra <b>15.0%</b> DEF."
+            "장착한 캐릭터의 방어력이 <b>15.0%</b> 증가한다. 장착한 캐릭터의 효과 명중이 <b>50.0%</b> 이상일 경우 방어력이 추가로 <b>15.0%</b> 증가한다"
         ]
     },
     {
         "_id": 303,
-        "Name": "Pan-Cosmic Commercial Enterprise",
+        "Name": "범은하 상사",
         "Icon": "71014.png",
         "Skills": [
-            "Increases the wearer's Effect Hit Rate by <b>10.0%</b>. Meanwhile, the wearer's ATK increases by an amount that is equal to <b>25.0%</b> of the current Effect Hit Rate, up to a maximum of <b>25.0%</b>."
+            "장착한 캐릭터의 효과 명중이 <b>10.0%</b> 증가한다. 동시에 장착한 캐릭터의 현재 효과 명중 <b>25.0%</b>만큼의 공격력이 증가하며 최대 <b>25.0%</b> 증가한다"
         ]
     },
     {
         "_id": 302,
-        "Name": "Fleet of the Ageless",
+        "Name": "불로인의 선주",
         "Icon": "71013.png",
         "Skills": [
-            "Increases the wearer's Max HP by <b>12.0%</b>. When the wearer's SPD reaches <b>120.0</b> or higher, all allies' ATK increases by <b>8.0%</b>."
+            "장착한 캐릭터의 HP 최대치가 <b>12.0%</b> 증가한다. 장착한 캐릭터의 속도가 <b>120.0</b> 이상일 경우 모든 아군의 공격력이 <b>8.0%</b> 증가한다"
         ]
     },
     {
         "_id": 301,
-        "Name": "Space Sealing Station",
+        "Name": "우주 봉인 정거장",
         "Icon": "71012.png",
         "Skills": [
-            "Increases the wearer's ATK by <b>12.0%</b>. When the wearer's SPD reaches <b>120.0</b> or higher, the wearer's ATK increases by an extra <b>12.0%</b>."
+            "장착한 캐릭터의 공격력이 <b>12.0%</b> 증가한다. 장착한 캐릭터의 속도가 <b>120.0</b> 이상일 경우 공격력이 추가로 <b>12.0%</b> 증가한다"
         ]
     },
     {
         "_id": 118,
-        "Name": "Watchmaker, Master of Dream Machinations",
+        "Name": "꿈을 조작하는 시계공",
         "Icon": "71029.png",
         "Skills": [
-            "Increases Break Effect by <b>16.0%</b>.",
-            "When the wearer uses their Ultimate on an ally, all allies' Break Effect increases by <b>30.0%</b> for <b>2.0</b> turn(s). This effect cannot be stacked."
+            "격파 특수효과 <b>16.0%</b> 증가",
+            "장착한 캐릭터가 아군에게 필살기 발동 시, 모든 아군의 격파 특수효과가 <b>30.0%</b> 증가한다. 지속 시간: <b>2.0</b>턴. 해당 효과는 중첩할 수 없다"
         ]
     },
     {
         "_id": 117,
-        "Name": "Pioneer Diver of Dead Waters",
+        "Name": "사수에 잠수한 선구자",
         "Icon": "71028.png",
         "Skills": [
-            "Increases DMG dealt to enemies with debuffs by <b>12.0%</b>.",
-            "Increases CRIT Rate by <b>4.0%</b>. The wearer deals <b>8.0%</b>/<b>12.0%</b> increased CRIT DMG to enemies with at least <b>2.0</b>/<b>3.0</b> debuffs. After the wearer inflicts a debuff on enemy targets, the aforementioned effects increase by <b>100%</b>, lasting for <b>1.0</b> turn(s)."
+            "디버프 상태의 영향을 받은 적에게 가하는 피해가 <b>12.0%</b> 증가한다",
+            "치명타 확률이 <b>4.0%</b> 증가하고 장착한 캐릭터가 <b>2.0</b>/<b>3.0</b>개 이상의 디버프 효과에 빠진 적에게 가하는 치명타 피해가 <b>8.0%</b>/<b>12.0%</b> 증가한다. 장착한 캐릭터가 적에게 디버프 효과 부여 시 상기 효과가 <b>100%</b> 증가한다, 지속 시간: <b>1.0</b>턴"
         ]
     },
     {
         "_id": 116,
-        "Name": "Prisoner in Deep Confinement",
+        "Name": "깊은 감옥에 수감된 죄수",
         "Icon": "71025.png",
         "Skills": [
-            "ATK increases by <b>12.0%</b>.",
-            "For every DoT the target enemy is afflicted with, the wearer will ignore <b>6.0%</b> of its DEF when dealing DMG to it. This effect is valid for a max of <b>3.0</b> DoTs."
+            "공격력 <b>12.0%</b> 증가",
+            "장착한 캐릭터가 적에게 피해를 가할 시 적이 받는 지속 피해 효과 1개마다 대상의 방어력을 <b>6.0%</b> 무시한다. 지속 피해 효과는 최대 <b>3.0</b>개까지 계산한다"
         ]
     },
     {
         "_id": 115,
-        "Name": "The Ashblazing Grand Duke",
+        "Name": "재와 뼈마저 불사르는 대공",
         "Icon": "71024.png",
         "Skills": [
-            "Increases the DMG dealt by follow-up attacks by <b>20.0%</b>.",
-            "When the wearer uses follow-up attacks, increases the wearer's ATK by <b>6.0%</b> for every time the follow-up attack deals DMG. This effect can stack up to <b>8.0</b> time(s) and lasts for <b>3.0</b> turn(s). This effect is removed the next time the wearer uses a follow-up attack."
+            "추가 공격으로 가하는 피해 <b>20.0%</b> 증가",
+            "장착한 캐릭터가 추가 공격을 가할 시, 추가 공격이 가한 피해 횟수에 따라 피해를 가할 때마다 장착한 캐릭터의 공격력이 <b>6.0%</b> 증가한다. 최대 중첩수: <b>8.0</b>회. 지속 시간: <b>3.0</b>턴. 해당 효과는 장착한 캐릭터가 다음 추가 공격 발동 시 해제된다"
         ]
     },
     {
         "_id": 114,
-        "Name": "Messenger Traversing Hackerspace",
+        "Name": "가상공간을 누비는 메신저",
         "Icon": "71021.png",
         "Skills": [
-            "Increases SPD by <b>6.0%</b>.",
-            "When the wearer uses their Ultimate on an ally, SPD for all allies increases by <b>12.0%</b> for <b>1.0</b> turn(s). This effect cannot be stacked."
+            "속도 <b>6.0%</b> 증가",
+            "장착한 캐릭터가 아군에게 필살기 발동 시 모든 아군의 속도가 <b>12.0%</b> 증가한다. 지속 시간: <b>1.0</b>턴. 해당 효과는 중첩되지 않는다"
         ]
     },
     {
         "_id": 113,
-        "Name": "Longevous Disciple",
+        "Name": "장수를 원하는 제자",
         "Icon": "71020.png",
         "Skills": [
-            "Increases Max HP by <b>12.0%</b>.",
-            "When the wearer is hit or has their HP consumed by an ally or themselves, their CRIT Rate increases by <b>8.0%</b> for <b>2.0</b> turn(s) and up to <b>2.0</b> stacks."
+            "HP 최대치 <b>12.0%</b> 증가",
+            "장착한 캐릭터가 피격되거나 아군에 의해 HP가 소모되면 치명타 확률이 <b>8.0%</b> 증가한다. 지속 시간: <b>2.0</b>턴. 해당 효과 최대 중첩수: <b>2.0</b>스택"
         ]
     },
     {
         "_id": 112,
-        "Name": "Wastelander of Banditry Desert",
+        "Name": "황무지의 도적, 황야인",
         "Icon": "71011.png",
         "Skills": [
-            "Increases Imaginary DMG by <b>10.0%</b>.",
-            "When attacking debuffed enemies, the wearer's CRIT Rate increases by <b>10.0%</b>, and their CRIT DMG increases by <b>20.0%</b> against Imprisoned enemies."
+            "허수 속성 피해 <b>10.0%</b> 증가",
+            "장착한 캐릭터가 디버프 효과에 빠진 적에게 피해를 가할 시 치명타 확률이 <b>10.0%</b> 증가한다. 속박 상태에 빠진 적에게 피해를 가할 시 치명타 피해가 <b>20.0%</b> 증가한다"
         ]
     },
     {
         "_id": 111,
-        "Name": "Thief of Shooting Meteor",
+        "Name": "유성을 쫓는 괴도",
         "Icon": "71010.png",
         "Skills": [
-            "Increases Break Effect by <b>16.0%</b>.",
-            "Increases the wearer's Break Effect by <b>16.0%</b>. After the wearer inflicts Weakness Break on an enemy, regenerates <b>3.0</b> Energy."
+            "격파 특수효과 <b>16.0%</b> 증가",
+            "장착한 캐릭터의 격파 특수효과가 <b>16.0%</b> 증가한다. 장착한 캐릭터는 적의 약점을 격파한 후 에너지를 <b>3.0</b>pt 회복한다"
         ]
     },
     {
         "_id": 110,
-        "Name": "Eagle of Twilight Line",
+        "Name": "밤낮의 경계를 나는 매",
         "Icon": "71009.png",
         "Skills": [
-            "Increases Wind DMG by <b>10.0%</b>.",
-            "After the wearer uses their Ultimate, their action is Advanced Forward by <b>25.0%</b>."
+            "바람 속성 피해 <b>10.0%</b> 증가",
+            "장착한 캐릭터는 필살기 발동 후 행동 게이지가 <b>25.0%</b> 증가한다"
         ]
     },
     {
         "_id": 109,
-        "Name": "Band of Sizzling Thunder",
+        "Name": "뇌전을 울리는 밴드",
         "Icon": "71008.png",
         "Skills": [
-            "Increases Lightning DMG by <b>10.0%</b>.",
-            "When the wearer uses their Skill, increases the wearer's ATK by <b>20.0%</b> for <b>1.0</b> turn(s)."
+            "번개 속성 피해 <b>10.0%</b> 증가",
+            "장착한 캐릭터는 전투 스킬 발동 시 공격력이 <b>20.0%</b> 증가한다. 지속 시간: <b>1.0</b>턴"
         ]
     },
     {
         "_id": 108,
-        "Name": "Genius of Brilliant Stars",
+        "Name": "별처럼 빛나는 천재",
         "Icon": "71007.png",
         "Skills": [
-            "Increases Quantum DMG by <b>10.0%</b>.",
-            "When the wearer deals DMG to the target enemy, ignores <b>10.0%</b> DEF. If the target enemy has Quantum Weakness, the wearer additionally ignores <b>10.0%</b> DEF."
+            "양자 속성 피해 <b>10.0%</b> 증가",
+            "장착한 캐릭터는 적에게 피해를 줄 때 <b>10.0%</b>의 방어력을 무시한다. 목표가 양자 속성 약점을 보유할 경우, 추가로 <b>10.0%</b>의 방어력을 무시한다"
         ]
     },
     {
         "_id": 107,
-        "Name": "Firesmith of Lava-Forging",
+        "Name": "용암 단조의 화장(火匠)",
         "Icon": "71006.png",
         "Skills": [
-            "Increases Fire DMG by <b>10.0%</b>.",
-            "Increases the wearer's Skill DMG by <b>12.0%</b>. After unleashing Ultimate, increases the wearer's Fire DMG by <b>12.0%</b> for the next attack."
+            "화염 속성 피해 <b>10.0%</b> 증가",
+            "장착한 캐릭터의 전투 스킬이 가하는 피해가 <b>12.0%</b> 증가하고, 필살기 발동 후 다음번 공격이 가하는 화염 속성 피해가 <b>12.0%</b> 증가한다"
         ]
     },
     {
         "_id": 106,
-        "Name": "Guard of Wuthering Snow",
+        "Name": "눈보라에 맞서는 철위대",
         "Icon": "71005.png",
         "Skills": [
-            "Reduces DMG taken by <b>8.0%</b>.",
-            "At the beginning of the turn, if the wearer's HP is equal to or less than <b>50.0%</b>, restores HP equal to <b>8.0%</b> of their Max HP and regenerates <b>5.0</b> Energy."
+            "받는 피해 <b>8.0%</b> 감소",
+            "턴 시작 시 장착한 캐릭터의 현재 HP 백분율이 <b>50.0%</b> 이하일 경우, 자신 HP 최대치 <b>8.0%</b>만큼의 HP를 회복하고 에너지를 <b>5.0</b>pt 회복한다"
         ]
     },
     {
         "_id": 105,
-        "Name": "Champion of Streetwise Boxing",
+        "Name": "스트리트 격투왕",
         "Icon": "71004.png",
         "Skills": [
-            "Increases Physical DMG by <b>10.0%</b>.",
-            "After the wearer attacks or is hit, their ATK increases by <b>5.0%</b> for the rest of the battle. This effect can stack up to <b>5.0</b> time(s)."
+            "물리 속성 피해 <b>10.0%</b> 증가",
+            "장착한 캐릭터는 공격 발동 혹은 피격 후 해당 전투에서 공격력이 <b>5.0%</b> 증가한다. 최대 중첩수: <b>5.0</b>스택"
         ]
     },
     {
         "_id": 104,
-        "Name": "Hunter of Glacial Forest",
+        "Name": "혹한 밀림의 사냥꾼",
         "Icon": "71003.png",
         "Skills": [
-            "Increases Ice DMG by <b>10.0%</b>.",
-            "After the wearer uses their Ultimate, their CRIT DMG increases by <b>25.0%</b> for <b>2.0</b> turn(s)."
+            "얼음 속성 피해 <b>10.0%</b> 증가",
+            "장착한 캐릭터는 필살기 발동 시 치명타 피해가 <b>25.0%</b> 증가한다. 지속 시간: <b>2.0</b>턴"
         ]
     },
     {
         "_id": 103,
-        "Name": "Knight of Purity Palace",
+        "Name": "정토 교황의 팔라딘",
         "Icon": "71002.png",
         "Skills": [
-            "Increases DEF by <b>15.0%</b>.",
-            "Increases the max DMG that can be absorbed by the Shield created by the wearer by <b>20.0%</b>."
+            "방어력 <b>15.0%</b> 증가",
+            "장착한 캐릭터가 제공하는 실드량이 <b>20.0%</b> 증가한다"
         ]
     },
     {
         "_id": 102,
-        "Name": "Musketeer of Wild Wheat",
+        "Name": "들이삭과 동행하는 거너",
         "Icon": "71001.png",
         "Skills": [
-            "ATK increases by <b>12.0%</b>.",
-            "The wearer's SPD increases by <b>6.0%</b> and Basic ATK DMG increases by <b>10.0%</b>."
+            "공격력 <b>12.0%</b> 증가",
+            "장착한 캐릭터의 속도가 <b>6.0%</b> 증가한다. 일반 공격이 가하는 피해가 <b>10.0%</b> 증가한다"
         ]
     },
     {
         "_id": 101,
-        "Name": "Passerby of Wandering Cloud",
+        "Name": "흔적을 남기지 않은 과객",
         "Icon": "71000.png",
         "Skills": [
-            "Increases Outgoing Healing by <b>10.0%</b>.",
-            "At the start of the battle, immediately regenerates 1 Skill Point."
+            "치유량 <b>10.0%</b> 증가",
+            "전투 시작 시 즉시 아군의 전투 스킬 포인트를 1pt 회복한다"
         ]
     }
 ]

@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21002": "<i>\"So happy I got to see Pom-Pom in new clothes today! I like it~\"<br>\"Today's my birthday! I'm still as cute as ever.\"<br>\"Today, I finally finally finally have a junior! Isn't that right, Trailblazer?\"</i><br><br>We click the shutter many times without thinking.<br>Do we do that to capture the happiness at that moment?<br>Or to capture ourselves at that moment?"
+    "21002": "<i>「오늘 폼폼이 새 옷으로 갈아입었어~ 좋아 좋아~」<br>「오늘은 내 생일이야. 난 올해도 귀여워」<br>「나도 드디어드디어드디어 후배가 생겼다네! 그렇지, {NICKNAME}?」</i><br><br>망설임 없이 셔터를 계속 누른다.<br>당시의 즐거움을 담기 위해서야?<br>아니면 그때의 자신을 담기 위해서야?"
 }
 
 var _weaponskill_ = {

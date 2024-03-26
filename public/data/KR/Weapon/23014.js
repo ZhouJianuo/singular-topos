@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23014": "The blade shattered, plunging into the bone-chilling cold.<br>All earthly instruments are mere futilities, their worth discernible with a single glance.<br><i>\"What use do I have of swords?\"</i><br>She holds no attachment, nor does her gaze accommodate anything within.<br><br><i>\"From now on, I shall be my own sword.\"</i><br>To transcend perceived precipices and achieve unprecedented breakthroughs,<br>one must regard themselves as \"kindling\" to fuel their own fire."
+    "23014": "검신이 파열되어 뼛속까지 스미는 추위 속으로 떨어진다.<br>평범한 도검과 무기는 무용지물이다. 그것들의 한계는 명확하다.<br><i>「내게 이제 검이 무슨 소용인가?」</i><br>그녀는 미련을 두지 않았고, 눈앞의 어느 것도 눈에 들어오지 않았다.<br><br><i>「지금부터, 이 몸이 검이다」</i><br>극한이라는 것을 뛰어넘으려면, 전인미답의 경지에 오르려면<br>——자신마저 「장작」으로 여기는 수밖에 없다"
 }
 
 var _weaponskill_ = {

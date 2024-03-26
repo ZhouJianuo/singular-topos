@@ -589,7 +589,7 @@ var _curio = [
         "_id": 119,
         "Name": "A Pinch of Bearded Gunpowder",
         "Desc": "Gains 1.0 cheat attempt(s) after obtaining this Curio.",
-        "Story": "Compared to currencies of stone, wood, gold, or supernium metals, the nomadic miners are more obsessed with the excavation of Aether. There was a period when they were infatuated with the sensation of digging vast quantities of Aether using their bare hands while in the mines, but these experiences brought calamity upon them. Several large-statured miners finally met their ends via exploding gunpowder in unknown areas, while only a short and small miner managed to survive. Its beard henceforth always flickered with a pinch of flame.",
+        "Story": "Compared to currencies of stone, wood, gold, or supernium metals, the nomadic miners are more obsessed with the excavation of Aether. There was a period when they were infatuated with the sensation of digging vast quantities of Aether using their bare hands while in the mines, but these experiences brought calamity upon them. Several large-stature miners finally met their ends via exploding gunpowder in unknown areas, while only a short and small miner managed to survive. Its beard henceforth always flickered with a pinch of flame.",
         "Icon": "1066.png",
         "Ver": "1.3"
     },

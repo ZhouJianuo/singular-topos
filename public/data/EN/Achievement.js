@@ -1,13 +1,14 @@
 // Auto Generated
 
 var _achievementdata = [
+    2.2,
+    837,
     2.1,
-    763,
-    2.0,
-    716
+    762
 ]
 
 var _achievementvers = [
+    "2.2",
     "2.1",
     "2.0",
     "1.6",
@@ -6021,14 +6022,6 @@ var _achievement = [
         "Reward": 5
     },
     {
-        "_id": 4053069,
-        "Ver": 2.1,
-        "Series": 5,
-        "Name": "Dreaming Back to the Xianzhou",
-        "Desc": "Mix Mung Bean Soda at the Dreamjolt Hostelry once",
-        "Reward": 5
-    },
-    {
         "_id": 4073011,
         "Ver": 2.1,
         "Series": 7,
@@ -6123,11 +6116,612 @@ var _achievement = [
         "Name": "<i>Pac-Man</i>",
         "Desc": "Smash all destructible objects in Clock Studios Theme Park's maze garden",
         "Reward": 5
+    },
+    {
+        "_id": 4033201,
+        "Ver": 2.2,
+        "Series": 3,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 10
+    },
+    {
+        "_id": 4033202,
+        "Ver": 2.2,
+        "Series": 3,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 10
+    },
+    {
+        "_id": 4033203,
+        "Ver": 2.2,
+        "Series": 3,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 10
+    },
+    {
+        "_id": 4033204,
+        "Ver": 2.2,
+        "Series": 3,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 20
+    },
+    {
+        "_id": 4033205,
+        "Ver": 2.2,
+        "Series": 3,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 10
+    },
+    {
+        "_id": 4033206,
+        "Ver": 2.2,
+        "Series": 3,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 10
+    },
+    {
+        "_id": 4043201,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4043202,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4043203,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4043205,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 10
+    },
+    {
+        "_id": 4043206,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4043207,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4043208,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4043209,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4043210,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4053201,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053202,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053203,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053204,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4043211,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4083202,
+        "Ver": 2.2,
+        "Series": 8,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4043212,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4043213,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4043214,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4043215,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4043216,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4043217,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4043218,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4043219,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4043220,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4043221,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4043222,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4053206,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053207,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053208,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4053209,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4053210,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4053211,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053212,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053213,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053214,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053215,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053216,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053217,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053218,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053219,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053220,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 10
+    },
+    {
+        "_id": 4053221,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053222,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053223,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053224,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053225,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053226,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053227,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4043224,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4043226,
+        "Ver": 2.2,
+        "Series": 4,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4083203,
+        "Ver": 2.2,
+        "Series": 8,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4073201,
+        "Ver": 2.2,
+        "Series": 7,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4073202,
+        "Ver": 2.2,
+        "Series": 7,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4073203,
+        "Ver": 2.2,
+        "Series": 7,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4073204,
+        "Ver": 2.2,
+        "Series": 7,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4073205,
+        "Ver": 2.2,
+        "Series": 7,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4073206,
+        "Ver": 2.2,
+        "Series": 7,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4073207,
+        "Ver": 2.2,
+        "Series": 7,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4073208,
+        "Ver": 2.2,
+        "Series": 7,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4073209,
+        "Ver": 2.2,
+        "Series": 7,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4073210,
+        "Ver": 2.2,
+        "Series": 7,
+        "Name": "",
+        "Desc": "",
+        "Reward": 5
+    },
+    {
+        "_id": 4073211,
+        "Ver": 2.2,
+        "Series": 7,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4073212,
+        "Ver": 2.2,
+        "Series": 7,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053228,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053229,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053230,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053231,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4053232,
+        "Ver": 2.2,
+        "Series": 5,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 5
+    },
+    {
+        "_id": 4013201,
+        "Ver": 2.2,
+        "Series": 1,
+        "Name": "...",
+        "Desc": "...",
+        "Reward": 20
     }
 ]
 
 var _option = [
     "All",
+    "2.2",
     "2.1",
     "2.0",
     "1.6",
@@ -6144,7 +6738,7 @@ var _achievementseries = [
         "_id": 1,
         "Name": "I, Trailblazer",
         "Icon": "CultivateAchievementIcon.png",
-        "Count": 22
+        "Count": 23
     },
     {
         "_id": 2,
@@ -6156,19 +6750,19 @@ var _achievementseries = [
         "_id": 3,
         "Name": "The Rail Unto the Stars",
         "Icon": "MainLineAchievementIcon.png",
-        "Count": 29
+        "Count": 35
     },
     {
         "_id": 4,
         "Name": "Fathom the Unfathomable",
         "Icon": "ExploreAchievementIcon.png",
-        "Count": 81
+        "Count": 104
     },
     {
         "_id": 5,
         "Name": "The Memories We Share",
         "Icon": "ReputationAchievementIcon.png",
-        "Count": 247
+        "Count": 277
     },
     {
         "_id": 6,
@@ -6180,13 +6774,13 @@ var _achievementseries = [
         "_id": 7,
         "Name": "Eager for Battle",
         "Icon": "BattleAchievementIcon.png",
-        "Count": 147
+        "Count": 159
     },
     {
         "_id": 8,
         "Name": "Moment of Joy",
         "Icon": "TrackAchievementIcon.png",
-        "Count": 73
+        "Count": 75
     },
     {
         "_id": 9,

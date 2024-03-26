@@ -583,24 +583,200 @@ var _story_ = {
 var _voice_ = {
     "1109": [
         {
-            "_id": 1,
-            "Story": "Head of the adventure squad \"The Moles,\" she calls herself Pitch-Dark Hook the Great.<br>She doesn't like to be called a \"kid\" and believes she can handle things herself without any help from adults.<br>Adults adventure into the Fragmentum, Mr. Sampo adventures on the surface, and patients take their risky adventure seeking treatment from Natasha... Under the leadership of Hook, children can also have their own adventures!"
+            "Title": "First Meeting",
+            "Voice": "Haha, the grown-ups in the Underworld listen to Wildfire and the kids listen to us Moles. I'm the leader of The Moles, by the way. You may call me Pitch-Dark Hook the Great!"
         },
         {
-            "_id": 2,
-            "Story": "<i>\"██/██/██  Weather: Fine  Mood: Very bad\"<br><br>\"Today, I broke one of the old witch's <s>Tesh Stubes</s> <s>Tech Tubes</s> Test Tubes, and got chewed out.\"<br><br>\"The old witch is terrible! She never lets us play together during lunch, and only lets us take a nap. I hate her!\"<br><br>\"We should rebel against her <s>tarany</s>— <s>terrany</s>— <s>tarreny</s>— tyranny! We can't let her <s>get away</s>— <s>gator way</s>— get her way!\"<br><br>\"I'm gonna make a gang called 'The Moles', and <s> grab </s> <s> kidnap </s> <s> envit </s> invite all the kids from the clinic! We'll take down the old witch together! And then, we can eat whatever we want and have fun — and nobody can stop us!\"<br><br>\"And I'll be the boss of The Moles! And the boss of the whole clinic, too! I'll give that old witch a nice talking-to every day, and make her do all of the <s>choars </s> <s> choors </s> chores! Muahaha!\"</i>"
+            "Title": "Greeting",
+            "Voice": "Moles, Moles, leaving our holes, brave Moles, charge as a whole!"
         },
         {
-            "_id": 3,
-            "Story": "<i>\"██/██/██  Weather: Freezing Mood: Very happy\"<br><br>\"Today I went to the machine <s> garv </s> <s> gravy </s> graveyard to find a suitable weapon. As the boss of The Moles, I've got to have a great weapon!\"<br><br>\"I met a girl there. She was a few years older than me (but I'm still the boss!) and was wearing a pretty red coat. But she had no shoes on. I don't know why she had no shoes on, since that's gotta be very cold! Maybe she wasn't feeling very cold though.\"<br><br>\"Her hair was white like snow, and it was pretty! I want white hair too. Long and white hair.\"<br><br>\"She was very shy, too shy to talk to me at first. But that's cool! I <s> super love talking and </s> super love making friends! I chatted with her for a long, long time. I know her name is Clara, and her dad is a super big robot!\"<br><br>\"Her dad is really cool, but not as cool as daddy Fersman! She is my friend now and she helped me find a really strong Diggertron! She's now an honorary member of The Moles!\"</i>"
+            "Title": "Parting",
+            "Voice": "Moles dismissed! Sleep well and see you tomorrow!"
         },
         {
-            "_id": 4,
-            "Story": "<i>\"██/██/██  Weather: Still freezing  Mood: <s> Bad </s> Normal\"<br><br>\"Today, Alina's mom and dad came to see her. Alina was very happy and seeing her like this made me happy too.\"<br><br>\"I thought of mom and dad. I haven't seen them for a very long time! Even though daddy Fersman is very, very kind to me, I still miss my mom and dad!\"<br><br>\"In the evening, daddy explained to me again the reason why mom and dad couldn't come back. But I actually remember anyway... Because daddy has told me so many times!\" \"I found that daddy is always forgetting things recently! I asked Natasha, and she said it's because daddy is getting too old now. Then I asked her if she can help fix daddy's sickness, but she said she can't, and even apologized.\"<br><br>\"I think the old witch is lying to me just because I've been a little bit naughty recently! She is the bestest doctor in our town, and can fix everything, so why can't she fix daddy?\"<br><br>\"Fine. I've decided that I'll write down anything that daddy said! Because I'm the big bad boss of The Moles!\"</i>"
+            "Title": "About Self: Diggertron",
+            "Voice": "Diggertron used to be a hard-working mining machine. After it retired, it heard my call and became the ruthless villain-smashing iron fist!"
         },
         {
-            "_id": 5,
-            "Story": "<i>\"██/██/██, Address: The clinic. Had a heart-to-heart conversation with Hook. The contents are as follows:\"<br><br>\"Daddy Fersman was once a very good friend of mom and dad's. Back then, we all lived in a small town in the north. One day, mom went into the Fragmentum, and never came out again. Mom loved eating stone-grilled olm. Dad missed her so much that he made me stone-grilled olm to eat every day.\"<br><br>\"Then one day when I came home, I saw dad lying on the bed looking very uncomfortable. I bursted into tears, and went to find daddy Fersman next door. He said dad was sick, and he took dad and me to see the town doctor.\"<br><br>\"We stayed with dad at the doctor's place for several days. In the end, we almost used up all our money. Dad secretly told me to save the money. He also told me that he was uncomfortable staying there, and wanted to go home. So I went to daddy and told him I wanted to go home with my dad. But when daddy and I went to see him, he stopped talking.\"<br><br>\"Daddy was on his knees and crying, but I didn't understand what was going on. Daddy explained to me that dad missed mom so much that he went to see her inside his dreams. I asked daddy, when will my dad wake up? Daddy just kept crying though and didn't answer me...\"<br><br>\"I didn't — didn't cry! No... Natasha, I don't need any tissues...\"<br><br>\"...Actually later I secretly asked the doctor something. I know that my dad is dead and won't come back forever, and mom is the same... I know that daddy doesn't want to make me sad, so he keeps on lying to me...\"<br><br>\"I know that daddy is the very best person in the whole world, and I like daddy the most...\"<br><br>\"So that's why I want to find lots of treasure with everyone, so we can build daddy a nice big house and help fix daddy!\"</i>"
+            "Title": "Chat: Members of The Moles",
+            "Voice": "Haha! Under my leadership, we recruited Julian of a Thousand Faces, Luka Strongarm, and Cunning Child! Everyone joins the cause!"
+        },
+        {
+            "Title": "Hobbies",
+            "Voice": "Expeditions in the mines, expeditions in the clinic, expeditions on the surface... e—expeditions in the unknown!"
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "People say if you worry too much, your head gets super heavy. Wouldn't that make it harder for me to get taller? Waaaah..."
+        },
+        {
+            "Title": "Something to Share",
+            "Voice": "Grown-ups always say things like \"you'll understand when you're older,\" but Hook heard you forget things when you're older! Don't believe me? Let's see who knows more stuff!"
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "Hook's interested in loads of things, like... lizards that carry Geomarrow on their backs, o—or olms that survive without eating food... Natasha told me that there are flowers on the surface that only bloom once a year. I really really wanna go see them..."
+        },
+        {
+            "Title": "About Natasha",
+            "Voice": "Old witch... Ahem. Natasha is beautiful and nice, but when she gets angry she, uhh... isn't so nice. B—But still beautiful..."
+        },
+        {
+            "Title": "About Clara",
+            "Voice": "Waaaah... Clara... when can you join The Moles...?"
+        },
+        {
+            "Title": "About Svarog",
+            "Voice": "Hook's Diggertron is mightier than Svarog's fist! Hmph!"
+        },
+        {
+            "Title": "About Sampo",
+            "Voice": "I run into Mr. Sampo almost everywhere. Does he like expeditions too?"
+        },
+        {
+            "Title": "About Seele",
+            "Voice": "Miss Seele talks loud, but sometimes Hook still beats her in an argument, hehe~"
+        },
+        {
+            "Title": "About Fersman",
+            "Voice": "Hook loves daddy! One day, Hook's gonna dig up a big treasure and build daddy a huge huge house!"
+        },
+        {
+            "Title": "About Luka",
+            "Voice": "Luka loves to eat meat — just like Hook! That's why we're such great friends!"
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "Hook's ready to find the next treasure!"
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "Watch out! The boss of The Moles is coming to get you!"
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "Hmph! Nobody's gonna look down on Pitch-Dark Hook the Great anymore!"
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "Get ready... Hook's got another pitch-dark trick up her sleeve!"
+        },
+        {
+            "Title": "Added to Team With Seele",
+            "Voice": "You won't beat Hook this time, Miss Seele!"
+        },
+        {
+            "Title": "Added to Team With Natasha",
+            "Voice": "Old witchy... M—Miss Natasha! I—I'll be good this time!"
+        },
+        {
+            "Title": "Added to Team With Clara",
+            "Voice": "Honorary member Clara! Ready for an adventure?"
+        },
+        {
+            "Title": "Added to Team With Sampo",
+            "Voice": "It's Mr. Blue Hair! Where are we going this time?"
+        },
+        {
+            "Title": "Added to Team With Luka",
+            "Voice": "Luka! Let's go beat up some bad guys..."
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "You've still got time to surrender!"
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "N—Nobody bullies Hook!"
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "Ha! Time to make some mischief!"
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "Form a line, villains!"
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "Hey! Don't ignore me!"
+        },
+        {
+            "Title": "Basic ATK",
+            "Voice": "Who are you calling small!?"
+        },
+        {
+            "Title": "Skill 1",
+            "Voice": "Eh—hehe... Didn't expect that, right?"
+        },
+        {
+            "Title": "Skill 2",
+            "Voice": "Now you see me... now you don't~"
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "You hit me!"
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "That huuuurt!"
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "Follow Hook if you wanna win!"
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "Pitch-Dark Hook the Great has arrived — make way, make way... Woo-hoo~ BANG!"
+        },
+        {
+            "Title": "Downed",
+            "Voice": "Wait til I tell my daddy on you..."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "Hmph, what would you do without Hook?"
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "You're a good person!"
+        },
+        {
+            "Title": "Technique",
+            "Voice": "Ehehehe~"
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "I hereby pronounce this expedition a success!"
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "Yay! Let's take it all!"
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "Is this for Hook?"
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "Wow... Daddy will love this!"
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "Huh? I wanna play again!"
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "Ha! Hook could do this blindfolded⁓"
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "*gasp* That one's a little scary."
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "First you go a-searching, then you go a-running, searching, running, jump jump jump!"
         }
     ]
 }

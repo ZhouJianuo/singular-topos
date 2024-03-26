@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "20005": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br><br><i>\"Fingers clutch to make a fist, strength is built via numbers. I give myself for something higher — the concept of us.\"</i>"
+    "20005": "세월에서 추출한 희박한 힘. 보잘것없는 찰나의 순간들이 모여 엮어진 장렬한 운명.<br><br><i>「손가락을 모으면 주먹이 되고, 한마음 한뜻으로 모이면 힘이 되리라. 나 자신을 바쳐 더 높은 존재인 우리를 얻으리라」</i>"
 }
 
 var _weaponskill_ = {

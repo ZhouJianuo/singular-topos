@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21029": "She had once thought it was some sort of program. How else would it never tire?<br>But a program would never actively discard the optimal solution and bypass her trap.<br><br><i>\"Seems like we'll have a war of attrition.\"</i><br>She yawns.<br><br><i>\"Time to sleep. Organic lifeforms should treasure rest.\"</i><br>The surroundings dim.<br><br>She suddenly bolts awake, but the residues of data are swept away and destroyed. It all seems like a dream<br>— but the taste of defeat is very real."
+    "21029": "一度はプログラムだと思った、でなければ疲れを知らずに攻撃続けることはできない。<br>でもプログラムが最適解を捨て、彼女のトラップを回避するだなんてあり得ない。<br><br><i>「どうやら持久戦になるみたいだ」</i><br>彼女はあくびをした。<br><br><i>「早く眠るのです。有機生命体は夢を大切にしないといけませんから」</i><br>周りがだんだん暗くなる。<br><br>彼女は飛び起きたが、データの残滓はすでに一掃され焼却されている、夢みたいに<br>——ただ、初めての失敗の味だけが鮮明に残る。"
 }
 
 var _weaponskill_ = {

@@ -441,24 +441,200 @@ var _story_ = {
 var _voice_ = {
     "1013": [
         {
-            "_id": 1,
-            "Story": "Herta space station's true master.<br>As the human with the highest IQ on the Blue, she only does what she's interested in, dropping projects the moment she loses interest — the best example being the space station.<br>She typically appears in the form of a remote-controlled puppet.<br>\"It's about seventy percent similar to how I looked as a child.\" — Herta"
+            "Title": "First Meeting",
+            "Voice": "This is Herta. I'm busy right now. This is my ranged puppet's automated-response mode: Hello everyone. Hope you have a wonderful day. Goodbye."
         },
         {
-            "_id": 2,
-            "Story": "Madam Herta's manuscripts are extremely valuable assets.<br><br>Its core rarity is not in how Madam Herta rarely pens to paper, but because to a genius like her, nothing is ever worth recording.<br><br>Scientific research that would take normal researchers ten years — or even a lifetime — to achieve may be able to shed light on an entirely new domain of research, but they are to Herta as ordinary as turning on a LED light. Who would waste time trying to systematically record such trivial matters?<br><br>It's not just Madam Herta — any documentation written by a Genius Society member is a priceless treasure. However, Herta is more generous and more understanding toward normal people like us. She leaves her handwritten drafts behind in random places around the space station with as much generosity as she allows researchers to study the Curios she collected.<br><br>Of course, we all firmly understand that Madam Herta isn't being lazy and just discarding incomplete drafts around the place. It's so she can claim to investors with plausible deniability that <i>\"I've finished writing that paper, but can't find it anywhere.\"</i>"
+            "Title": "Greeting",
+            "Voice": "Why not come around today and help me with my research? You'll be the subject, by the way."
         },
         {
-            "_id": 3,
-            "Story": "Everybody knows that qualifying as a researcher on the Herta space station is a cherished goal of the wider scientific community. Today, we're interviewing its owner, Madam Herta. First of all, can you please tell us what was your motivation for setting up a scientific research oasis like this?<br><br><i>\"I have so much stuff, and nowhere to put it.\"</i><br><br>Ah, truly an unforeseen outcome! Even unintentional acts from the brilliant Madam Herta can benefit millions of ordinary people. However, evil will always strive in vain to destroy such a wondrous place. Madam Herta, what are your thoughts about the Antimatter Legion's last invasion?<br><br><i>\"Don't come back.\"</i><br><br>Oh... such a severe warning. This must form an indispensable part of Madam Herta's illustrious achievements. The mere Antimatter Legion dares to invade this space station — but you don't even deserve Madam Herta's attention! Let's move on to the next question, then!"
+            "Title": "Parting",
+            "Voice": "*sigh* I've lost interest in your research potential for today. See you tomorrow."
         },
         {
-            "_id": 4,
-            "Story": "Recent research progress on the space station has been hampered by the impact of the accident. Several researchers have been blaming themselves for betraying Madam Herta's trust and preference. May I ask: Do you have anything you'd like to say to everyone?<br><br><i>\"Nope. Keep up the great work.\"</i><br><br>Everyone wishes to contribute to your scientific research, Madam Herta...<br><br><i>\"No thanks.\"</i><br><br>Indeed, no researcher could ever hope to match Madam Herta's scientific ability, which is why we're deeply impressed by your wisdom and insights. Could you please tell us, Madam Herta, whether you have any research recommendations for everyone? We'd love to learn from you!<br><br><i>\"No.\"</i><br><br>Madam Herta, your intellect and talents are obvious to all, but normal people like us could never hope to be like you... Could you please give us any pointers, such as in what domain we might devote our limited cognitive resources to?<br><br><i>\"You should go home and sleep.\"</i>"
+            "Title": "About Self: Puppet",
+            "Voice": "What do you make of it? It's about seventy percent similar to how I looked as a child."
         },
         {
-            "_id": 5,
-            "Story": "Madam Herta, you are so considerate. Indeed, the research that Genius Society members conduct are so complex that ordinary people may not even be able to understand the papers' titles. So, let's talk about something else: The space station is filled with your loyal supporters. Everyone is curious about your personal situation. For example, the manuscript that you're writing — when are you planning on publishing the latest chapter?<br><br><i>\"I don't think it really matters, but more importantly — Elias Salas once said that the most challenging thing of all is self-improvement. So, let's examine this question more carefully: When writing a paper, the key question is how to write that paper —\"</i><br><br>Um... err... I see. But Madam Herta, we all love your book <i>How I Joined the Genius Society</i>...<br><br><i>\"I don't think it really matters, but more importantly — Zandar once said that even those who have made it to the top still need to practice self-improvement. So, let's examine this question more carefully: When considering joining the Genius Society, the question is how does one go about joining the Genius Society —\"</i><br><br>Are you in... auto-answering mode?<br><br><i>\"I don't think it really matters, but more importantly — Yu Qingtu once said that being an academic is a matter of ambition. So, let's examine this question more carefully: When considering what is called auto-answering mode, the question is how to automate the answers —\"</i>"
+            "Title": "About Self: True Form",
+            "Voice": "Best not to ponder, you'll be scratching your chin all day."
+        },
+        {
+            "Title": "Chat: Genius Society",
+            "Voice": "The good thing about this club is that it doesn't ask me for anything. In fact, it doesn't even care if I'm a member."
+        },
+        {
+            "Title": "Chat: Visiting an Aeon",
+            "Voice": "Why do I get to visit an Aeon? I'm Herta, that's why."
+        },
+        {
+            "Title": "Hobbies",
+            "Voice": "If you're not solving problems or writing up contributions, then don't blame me if your life is boring."
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "I'm perfect enough already. What else do I need to prove? Of course, I could write a few more books... but what would I get out of that? Why should I bother?"
+        },
+        {
+            "Title": "Something to Share",
+            "Voice": "The Intelligentsia Guild is always able to find a way to support their case, writing enough \"scholarship\" in one night to fill a library... This is a problem."
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "The Lord of Silence erased the eyes from the portrait, but drew everyone's attention in the process."
+        },
+        {
+            "Title": "About Arlan",
+            "Voice": "Asta provided financial assistance to a few exceptional children — I assume Arlan was one of them."
+        },
+        {
+            "Title": "About Asta",
+            "Voice": "If my other collections had people like Asta watching over them, I could take a hands-off approach."
+        },
+        {
+            "Title": "About Himeko",
+            "Voice": "I give her the most boring things, and then she gives them back to me and they're suddenly interesting."
+        },
+        {
+            "Title": "About Ruan Mei",
+            "Voice": "Ruan Mei is a genius among geniuses — I won't deny that. I don't always get along with her, but I do admire her... Maybe the admiration is mutual."
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "Define inspiration? Tsk, it's only the several thousand ideas racing through my mind every minute."
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "You call that a build update?"
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "Finally. Clocking off. Bye."
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "Happy? Word of advice: Don't expect too much from a puppet."
+        },
+        {
+            "Title": "Added to Team With Trailblazer",
+            "Voice": "You better be good. My time is precious."
+        },
+        {
+            "Title": "Added to Team With Arlan",
+            "Voice": "Why the long face? I'm not going to eat you."
+        },
+        {
+            "Title": "Added to Team With Asta",
+            "Voice": "Asta! Here's the key. Gotta go now — bye."
+        },
+        {
+            "Title": "Added to Team With Himeko",
+            "Voice": "You know the drill — send me all your new toys, and I'll return them later."
+        },
+        {
+            "Title": "Added to Team With Ruan Mei",
+            "Voice": "I don't usually get to see you outside the Simulated Universe. Who do you want to experiment on this time?"
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "Oh, poor you..."
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "And you're supposed to be stronger?"
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "What are you looking at?"
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "You must be honored to meet me?"
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "Idle mode... *yawn* How boring."
+        },
+        {
+            "Title": "Basic ATK",
+            "Voice": "This is gonna hurt."
+        },
+        {
+            "Title": "Skill",
+            "Voice": "Maybe you can keep it down!?"
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "I won't break."
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "I'm breaking!"
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "Do you know who I am?"
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "Ever see a diamond this big? It's all yours~"
+        },
+        {
+            "Title": "Talent 1",
+            "Voice": "Time to twirl~"
+        },
+        {
+            "Title": "Talent 2",
+            "Voice": "Time to twirl!"
+        },
+        {
+            "Title": "Downed",
+            "Voice": "Connection... lost..."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "Rebooting..."
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "How appropriate."
+        },
+        {
+            "Title": "Technique",
+            "Voice": "Upgrade configured."
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "How am I gonna get that time back!"
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "That's it?"
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "Meh, acceptable quality."
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "Awesome. Cool. Can we go now?"
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "It took you that long?"
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "I can do this in my sleep."
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "Now, how should I dispose of you?"
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "Is there anything interesting here? I doubt it."
         }
     ]
 }

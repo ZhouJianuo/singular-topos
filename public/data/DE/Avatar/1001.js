@@ -517,24 +517,208 @@ var _story_ = {
 var _voice_ = {
     "1001": [
         {
-            "_id": 1,
-            "Story": "A spirited and quirky young girl who is into all the things girls her age are interested in, such as taking photos.<br>She was awakened from a piece of drifting eternal ice, only to find that she knows nothing about herself or her past. Though initially feeling dejected, she decided to name herself after the date of her rebirth.<br>And thus, on that day, March 7th was born."
+            "Title": "First Meeting",
+            "Voice": "Ahem! Hello, Trailblazer. Welcome aboard the Astral Express. My name is March 7th, I'm one of the passengers. We'll be working together. First, we need to take your induction photo... Did that scare you! Just a joke~"
         },
         {
-            "_id": 2,
-            "Story": "Why does March 7th take photos?<br><i>\"First of all, girls like me should like this kind of pastime.\"<br>\"Besides, I won't forget anything that I keep a photo of.\"</i><br><br>What has March 7th come to learn about photography?<br><i>\"Number one, when taking pictures of terrible cuisines, all the details must be clearly visible on the pictures because 'Taking pictures of food is equal to eating them. Every detail matters.'\"<br>\"Number two, as long as you take a picture with your eyes closed, you will be able to capture an expression of your subject with their eyes closed.\"</i><br><br>Why is March 7th always wearing her camera?<br><i>\"Because if anyone ever seals me away in ice again, at least I'll have my camera with me!\"</i><br><br>So why doesn't March 7th just use the camera on her phone?<br><i>\"Oh yeah, why not — hang on, it's because of that sense of formality!\"</i>"
+            "Title": "Greeting",
+            "Voice": "Ah! You're just in time — we haven't taken our selfie today."
         },
         {
-            "_id": 3,
-            "Story": "March 7th's ability is \"Six-Phased Ice,\" but she has always insisted that it is not ice but some kind of condensed crystal.<br><i>\"Come on, ice can't be this beautiful.\"</i><br><br>The bows and arrows March 7th uses in battle are also made of the Six-Phased Ice, but she is not satisfied with the fact that her weapon is a bow.<br><i>\"Great warriors never use bows!\"<br>\"Besides, if I use my ice arrow to attack my ice shield, nothing will happen at all!\"</i><br><br>March 7th has also worked hard to practice a unique skill called \"Star Crazing: Glass Greatsword,\" but she never succeeded.<br><i>\"March, judging by the name, it should be a greatsword, right?\"<br>\"Well, but it doesn't feel as good as an ice sculpture... smash.\"</i>"
+            "Title": "Parting",
+            "Voice": "I'm gonna get some rest after I've sorted these photos. Don't stay up all night playing video games again!"
         },
         {
-            "_id": 4,
-            "Story": "Compared to Pom-Pom the conductor, Himeko the pilot, Dan Heng the guard, and Welt the jack-of-all-trades, even March 7th has a hard time explaining her role aboard the Express despite calling herself a \"warrior.\"<br>But March 7th's every move affects the crew's course of action all the time.<br><br><i>\"Passenger March 7th slipped and fell...\"<br>\"March, watch out for the galena ball above your head.\"<br>\"March, have you taken pictures of the sights over there?\"<br>\"I believe March. If she said it's not delicious, then it's truly not delectable.\"</i><br><br>Rather than calling March 7th someone who constantly worries people, it would be better to say that she works her way into people's hearts.<br>March 7th, of course, is oblivious to this, and is struggling to think up the right role for Trailblazer."
+            "Title": "About Self: Name",
+            "Voice": "I came up with my name myself, but some people just call me March... Which do you prefer?"
         },
         {
-            "_id": 5,
-            "Story": "For March 7th, who has been drifting in space, the situation in which she awoke isn't too bad.<br>She woke up on a passing train, and the people on the train looked friendly.<br>The only problem is that even though she has a reasonable understanding of what's going on around her, she still doesn't know anything about herself.<br><br><i>\"Who am I? Where do I come from...\" </i><br><br>March 7th looks at herself in the mirror, imagining dozens of potential past lives for herself as she tries on the various outfits that Himeko had assembled for her.<br>But she can't be sure what her past was like, and what kind of past a girl like her should have...<br>The only thing March 7th can choose to be is her current self, and the only thing she can look forward to is the future.<br>She is both frightened and glad."
+            "Title": "About Self: Past",
+            "Voice": "Maybe my past isn't behind me, but in front of me. That's why I'm gonna keep going forward, one stop at a time... train or no train."
+        },
+        {
+            "Title": "Chat: Juice",
+            "Voice": "Ahh, juice... If I say the word, I get a craving. If I get a craving, I wanna drink some. And if I drink some... Ahh... I can't stop!"
+        },
+        {
+            "Title": "Chat: Photos",
+            "Voice": "Of course photos aren't reality, but if you have enough of them, doesn't reality come a little closer?"
+        },
+        {
+            "Title": "Hobbies",
+            "Voice": "Taking pictures. Writing in my diary. What else is there to say~?"
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "I get really bored when no one's talking to me. When we're on the Express, Himeko and Mr. Yang are pretty busy, but Dan Heng's usually free. He doesn't like chatting though..."
+        },
+        {
+            "Title": "Something to Share",
+            "Voice": "Every time I'm done sorting my album and look out the window, I always want to take another picture... Even though I've seen the view a thousand times, I still feel happy looking at the stars like this."
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "No matter how disgusting the dish, you gotta summon your trailblazing spirit and face it! Not gonna lie though, jellied eels and Himeko's coffee are pretty tough to stomach..."
+        },
+        {
+            "Title": "About Dan Heng",
+            "Voice": "...Dan Heng got on the train before me. He never mentioned his past... If you get the chance, why don't you ask him about it?"
+        },
+        {
+            "Title": "About Himeko",
+            "Voice": "Ahh, beautiful Himeko. She's sensible, reliable, and elegant. It's great to have her as the navigator... When I'm grown up, I'm gonna be just like her! I like the now me too though~"
+        },
+        {
+            "Title": "About Welt",
+            "Voice": "I heard Mr. Yang was once the leader of a secret organization and saved a whole planet! Not to mention he's been a teacher, and even a storyboard artist! *sigh* He must be an alien or something..."
+        },
+        {
+            "Title": "About Pom-Pom",
+            "Voice": "The conductor is the best!"
+        },
+        {
+            "Title": "About Dan Heng 2",
+            "Voice": "Even after we found out about his mysterious past, he's still the same Dan Heng we've always known!"
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "Hee-hee, my past is gradually coming to light."
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "Today me is even more awesome than yesterday me!"
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "I'm all grown up! My real journey starts now!"
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "That's right! I still have a few tricks up my sleeve~"
+        },
+        {
+            "Title": "Added to Team With Trailblazer",
+            "Voice": "You're coming with? Hmph, I'm keeping score."
+        },
+        {
+            "Title": "Added to Team With Dan Heng",
+            "Voice": "I'm gonna show them what I can really do... Huh? Why the weird face, Dan Heng?"
+        },
+        {
+            "Title": "Added to Team With Dan Heng • Imbibitor Lunae",
+            "Voice": "I'm gonna show them what I can really do... Huh? Dan Heng, you better believe in me!"
+        },
+        {
+            "Title": "Added to Team With Himeko",
+            "Voice": "If push comes to shove, I'm counting on you, Himeko!"
+        },
+        {
+            "Title": "Added to Team With Welt",
+            "Voice": "Mr Yang's here! Yeah! Did I just say that out loud?"
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "I told ya I could fight!"
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "Oh great, another walk in the park."
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "You have the worst luck running into me."
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "My turn~"
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "What's wrong? Afraid of what I might do?"
+        },
+        {
+            "Title": "Basic ATK",
+            "Voice": "Watch this!"
+        },
+        {
+            "Title": "Skill 1",
+            "Voice": "With me out here, how can we lose~"
+        },
+        {
+            "Title": "Skill 2",
+            "Voice": "Stay right there while I give you a present~"
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "You're annoying!"
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "Go away!"
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "Gotta try hard sometimes."
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "Check out this awesome move~"
+        },
+        {
+            "Title": "Talent 1",
+            "Voice": "You can't run!"
+        },
+        {
+            "Title": "Talent 2",
+            "Voice": "Try that again!"
+        },
+        {
+            "Title": "Downed",
+            "Voice": "I don't want to... be alone..."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "Alright... I'm done messing around!"
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "Thanks a lot!"
+        },
+        {
+            "Title": "Technique",
+            "Voice": "Freeze!"
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "You couldn't have done it without me!"
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "*gasp* Shiny! *bigger gasp* Sparkly!"
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "Finders keepers~"
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "Wow, there's so much!"
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "I deserve a nice pat on the back for that one!"
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "Done and dusted!"
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "Crush now or crush later?"
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "Wanna go take some pictures?"
         }
     ]
 }

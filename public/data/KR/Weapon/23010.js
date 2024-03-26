@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23010": "<i>\"Do not make this decision lightly, general... Think about how you will be remembered in history...\"</i><br>The general of the Cloud Knights listens to his subordinates' words with eyes half-closed.<br><i>\"History will make its own judgment, but I have no interest in my legacy.\"<br>\"If I succeed, history will state that I am currently supremely confident in my masterful strategy.\"<br>\"But if I fail, then history will state that I am currently neglecting my duties in wanton pleasure, preferring finches over my people.\"</i><br><br>A finch jumps down from his shoulder, and he extends his hand to catch the small creature.<br><i>\"I have simply made my own decision.\"</i>"
+    "23010": "<i>「장군님, 이 일은 신중해야 합니다… 앞으로의 역사는 장군님을 어떻게 평가할지…」</i><br>운기 장군은 두 눈을 반쯤 감고 부하의 보고를 듣는다.<br><i>「역사는 알아서 판단하겠지만, 나는 역사의 결론에 큰 관심이 없어」<br>「성사된다면, 난 당연히 자신만만하고 마음이 편해지겠지」<br>「성사되지 않으면, 난 절제를 모르고 작은 것을 위해 큰 걸 놓친 자가 될 거고」</i><br><br>참새 한 마리가 그의 어깨에서 뛰어내리자 그는 손으로 받아낸다.<br><i>「난 나의 판단을 내릴 뿐이야」</i>"
 }
 
 var _weaponskill_ = {

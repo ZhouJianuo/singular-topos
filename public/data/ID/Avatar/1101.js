@@ -486,24 +486,196 @@ var _story_ = {
 var _voice_ = {
     "1101": [
         {
-            "_id": 1,
-            "Story": "Heir to the Supreme Guardian of Belobog, she is the young and capable commander of the Silvermane Guards.<br>Bronya received a rigorous education from an early age, and as such, possesses the grace and affinity as expected of an heir.<br>However, after witnessing the abysmal conditions in the Underworld, seeds of doubt begin growing in the mind of Belobog's future leader. \"Can all the training I've received really help me lead the people to the lives they want?\""
+            "Title": "First Meeting",
+            "Voice": "My name is Bronya Rand, heir to Belobog's supreme guardian and acting commander of the Silvermane... Apologies, I'm used to introducing myself like that — you can call me Bronya."
         },
         {
-            "_id": 2,
-            "Story": "She learned to hide her thoughts from an early age. Every day, she'd walk the same paths with the other kids, play the same games, and gossip about the same hobbies. But she never felt taken over by the trivial and bland nature of life — she'd sit on a gray stone bench every time she was alone, looking up at the sky and imagining a perfect and complete sky unobstructed by that flat disc.<br><br>She could see the laborers dripping with sweat as they toil, the pressure of survival crushing their passion for life. Seeing the tired but earnest look in their eyes, she slipped into a quagmire of confusion: Is life really destined to be like this? Just as the vastness of the sky was dissected by that monstrous steel disc, perhaps the freedom she yearned for was also destined to be incomplete.<br><br>She struggled to break free from this quagmire, silently recording the ideals that she'd come to implement in her life on that dusty stone road.<br><br><i>\"Make the world a better place.\"</i>"
+            "Title": "Greeting",
+            "Voice": "I had a nightmare last night... S—Sorry, I'm not fully awake yet."
         },
         {
-            "_id": 3,
-            "Story": "Sitting on her mother's lap, cold arms wrapped around her neck, she felt an indescribable sense of security. Her mother's voice was gentle and deep as she told the girl an ancient folk tale — the ending of which is hardly satisfying, but nevertheless, the girl enjoyed it very much. Her mother knew what she liked, and those fairy tales with happy endings would just leave her feeling bored and arise far too many questions. Telling stories with bad endings is an excellent way to lure the girl into falling asleep at night.<br><br><i>\"Mother... Why can't Lord Grey live a happy life like Catherine?\"<br>\"Do you want him to be happy, Bronya?\"<br>\"Lord Grey is a kind man. Kind people deserve to live a happy life.\"</i><br><br>The conversation stopped there, but she remembered her mother's gentle smile. Years later, when she recalled that warm afternoon at Qlipoth Fort, she felt that her mother's smile might have hidden a sliver of regret."
+            "Title": "Parting",
+            "Voice": "I'd like to walk around a bit more... Don't worry, I won't go far. See you tomorrow."
         },
         {
-            "_id": 4,
-            "Story": "From the moment she donned her Silvermane Guard armor, she was already prepared. But the first funeral she ever attended was still far more heavy than she could ever have imagined.<br><br>It was her first time leading a campaign. In the northern ruins, the Silvermane Guards and Fragmentum monsters engaged in brutal combat. She led a crack squad of about a dozen soldiers deep behind enemy lines, fighting bravely until they ran out of ammo and food. As they made their way to the evac point, the terrifying Fragmentum creatures ambushed her — but the fatal attack was blocked by a brave private at the cost of his life. She didn't even have the time to see the face of her savior.<br><br>The prolonged wail of the funeral horn rang out. The young captain saw her grief, and came to her side.<br><br><i>\"The coffin's empty. I couldn't even manage to bring him back to Belobog...\"<br>\"Don't blame yourself, Miss Bronya. For you and the city... everyone here is willing to make the same sacrifice.\"<br>\"...I really wish I could swap places with him.\"<br>\"Learning to bear these heavy burdens is the only way to become a true leader.\"</i>"
+            "Title": "About Self",
+            "Voice": "Sometimes I feel like I don't represent myself... that I'm a symbol in human form, and anyone could have been given the title of \"heir to the supreme guardian.\" I don't know where the feeling comes from, but I hope it doesn't become the truth."
         },
         {
-            "_id": 5,
-            "Story": "The woman paces back and forth in the room, and a door separates her from the throngs of people. She is already very familiar with giving this kind of speeches, but the anxiety of the wait never abated despite the refinement of her oratory skills. Thinking back on the promise she is about to make and the words of consolation she'd crafted, she sinks into a child-like state of confusion and disbelief during those brief minutes.<br><br>A sudden breeze stirs the stale air in the room, brushing through her long hair. She turns around to see a familiar figure walking toward her — with delicate, quiet steps like a kaleidoscope of butterflies fluttering through the lifeless hall.<br><br><i>\"Over-thinking things again?\"</i><br><br>The woman looking like a butterfly asks, with a teasing smile on her face. She replies with an exasperation grin.<br><br><i>\"Same as always, you know — I'm nervous beforehand, but can play to my audience once on stage.\"<br>\"Hey, don't screw this up. Those old fossils want to play politics, and they're just waiting for an opportunity for you to slip up.\"<br>\"Haha... Then I'll have to ask you to keep an eye on them for me.\"<br>\"Hey, looks like time is up.\"</i><br><br>The dull sound of gears gnashing and turning echoes in the hall. She cast one last look back at the person beside her — who retreats into the shadows with a nod and a trusting smile.<br><br>The door creaks open and a beam of warm light shot into the hall, lighting up her face. What follows are deafening applause and cheers.<br><br><i>\"Let's go, Bronya.\"</i>"
+            "Title": "Chat: The Architects",
+            "Voice": "The Architects built us a fortress to keep the blizzards at bay, but we must never forget that those blizzards are still on the horizon."
+        },
+        {
+            "Title": "Hobbies",
+            "Voice": "The faint singing that emanates from Golden Theater, the sound of hurried footsteps in the early morning, the night-time tranquility of Qlipoth Fort... I know they might seem contradictory, but I like all of them."
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "You have to suppress your anger during an interrogation, or you might find yourself using... indelicate vocabulary."
+        },
+        {
+            "Title": "Something to Share",
+            "Voice": "When you've been on the front line for a while, you start to get an overwhelming urge to return to the guardian's residence and rest. But then as soon as you're lying in bed, all your worries about the front line come to the fore... Perhaps that's the \"responsibility\" that mother used to talk about."
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "I heard the Solwarm Festival was first established to celebrate the arrival of spring, but Belobog citizens these days just see it as a few days off... I want to bring the original meaning back again."
+        },
+        {
+            "Title": "About Gepard",
+            "Voice": "Captain Gepard...? I think he could accurately be described as Belobog's iron wall. In this city, it's more difficult to defend than go on the offensive."
+        },
+        {
+            "Title": "About Serval",
+            "Voice": "I remember I'd be there when mother and the rest of them would convene, and Serval would always patiently answer any questions I had... *sigh* I'm starting to feel like that was a long, long time ago."
+        },
+        {
+            "Title": "About Pela",
+            "Voice": "Whenever I praise her, she does her utmost to keep a straight face and hide any trace of happiness she might be feeling... I can tell, because I've practiced the same thing."
+        },
+        {
+            "Title": "About Cocolia",
+            "Voice": "I have deep respect for my mother, but she's no longer how I remember her. Perhaps I never realized who she truly was..."
+        },
+        {
+            "Title": "About Seele",
+            "Voice": "Our first encounter may have been a bit of a disaster, but it was also the start of a new future... Haha, if Seele heard this she'd probably say I was giving one of my Overworld princess speeches."
+        },
+        {
+            "Title": "About Lynx",
+            "Voice": "The third child of the Landau family, right? I've heard Gepard mention her before, but I've yet to meet her. From what I've heard, \"Lynxy\" — as they call her — is very smart for her age."
+        },
+        {
+            "Title": "About Topaz",
+            "Voice": "I'm sure Jarilo-VI won't be the only planet to have IPC visitors, but I bet not all of them will have a visitor like Topaz..."
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "The future of Belobog shines bright."
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "Feeling good. I must stay focused."
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "Thank you... I will stand firm for my people."
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "A brilliant strategy."
+        },
+        {
+            "Title": "Added to Team With Seele",
+            "Voice": "No showing off, Seele! Listen to my orders."
+        },
+        {
+            "Title": "Added to Team With Pela",
+            "Voice": "I'll be needing a combat report, Pela."
+        },
+        {
+            "Title": "Added to Team With Gepard",
+            "Voice": "Bring us another victory, Captain."
+        },
+        {
+            "Title": "Added to Team With Trailblazer",
+            "Voice": "I appreciate the help of the Astral Express."
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "There's always a weakness."
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "Powerful enemy, time to change tactics."
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "This battle is unavoidable."
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "You'll pay for this."
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "A decisive moment in the battle."
+        },
+        {
+            "Title": "Basic ATK",
+            "Voice": "Evildoer."
+        },
+        {
+            "Title": "Skill 1",
+            "Voice": "The time is now. Lend me your strength!"
+        },
+        {
+            "Title": "Skill 2",
+            "Voice": "It's now or never. Fight with me!"
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "How troublesome."
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "I mustn't fall..."
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "We've entered the storm."
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "To guard and defend, crush them!"
+        },
+        {
+            "Title": "Downed",
+            "Voice": "We must... protect..."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "I won't waste this chance."
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "Your assistance is timely."
+        },
+        {
+            "Title": "Technique",
+            "Voice": "Show your courage."
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "We shall take back what we lost."
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "Ample supplies."
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "This will keep us well-stocked."
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "First-rate supplies."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "The design is exquisite."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "Well done."
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "The enemy situation has changed."
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "If there's nothing pressing, let's take a walk."
         }
     ]
 }

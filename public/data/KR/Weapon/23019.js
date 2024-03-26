@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23019": "She once loved to seal the moment when plum blossoms were on the verge of wilting and keep them close to her.<br>It has been many years since then. Many lifeforms — rambunctious, sweet, and everything in between — have bloomed from her hands, but the plum blossoms still wilt at their preordained times.<br>It has been many years since then. Her visage in the mirror seems untouched by time. But, in the grand scheme of the cosmos, is she too destined to last for but a fleeting moment?<br><br><i>\"If all is set for eventual demise, what purpose, then, does creation serve?\"</i><br>After a silence that seems to stretch to eternity, the winds blow, the petals fall, and the reflection in the mirror tenders the same answer as always.<br><i>\"For the day when plum blossoms are no longer kept.\"</i><br>She deftly caresses the icy surface of the mirror. Such soliloquies have happened too many times for her to count."
+    "23019": "매화가 질 무렵이 되면 그녀는 그 순간을 봉인해 곁에 두곤 했다.<br>세월이 수없이 흘러 달콤하고 시끄러운 가지각색의 생명체들이 그녀의 손에서 태어났지만, 매화는 여전히 예정된 시기에 시든다.<br>세월이 수없이 흘러도 거울에 비친 모습은 변함이 없다. 하지만 우주의 척도로 보면 그녀의 싱그러움이 유지되는 것도 한순간에 불과하지 않을까?<br><br><i>「모든 게 죽음을 피해 갈 수 없다면 창조에 무슨 의미가 있지?」</i><br><br>오랜 침묵 끝에 바람이 불고 꽃잎이 져도 거울에 비친 사람의 대답은 한결같다.<br><i>「매화를 붙잡아 두지 않아도 되는 날을 위해」</i><br>그녀가 차가운 거울을 어루만지며 중얼거린 게 벌써 몇 번째인지는 알 수 없다"
 }
 
 var _weaponskill_ = {

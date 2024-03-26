@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23005": "<i>\"If you want to cry after your loss, Gepard, then cry.\"<br>\"But you need to stand back up even when you are crying, until you can defeat me... Even if it takes years.\"</i><br>A few years later, the boy no longer cried or lost to his sister.<br><br>Now on the battle field, the courageous Silvermane Guard captain will defend till the end no matter what<br>— all to find the moment to completely destroy the enemy."
+    "23005": "<i>「負けて泣きたい時は泣いてもいいよ、ジェパード」<br>「でも立ったまま泣くんだよ、私に勝てる日までね…5年かかろうとも、 10 年かかろうとも」</i><br>そして時が経ち、男の子は泣かなくなり、姉に負けなくなった。<br><br>今、戦場に立つのは勇猛果敢なシルバーメインの戍衛官、どんな戦場であろうと彼は最後まで守り抜く<br>——敵を徹底的に潰す瞬間を狙うために。"
 }
 
 var _weaponskill_ = {

@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23015": "From birth, all that ever lay before him was but a lightless dungeon.<br>To this darkness, irrelevant sins bound him... irrelevant memories engulfed him.<br>He writhed, gasping for breath with every fiber of his being,<br>attempting to clasp a sliver of light in this fathomless ocean.<br><br>Until the day the general stepped into the lightless depths of this prison,<br>he beheld a radiance shining brighter than the sun — the gaze of a young man."
+    "23015": "生まれた時から、彼の世界には光のない牢獄だけが存在した。<br>関わりのない罪が彼をこの地に縛り付け、関わりのない記憶が彼を沈める。<br>彼はもがき、力の限り呼吸し、<br>果てのない海中で一縷の光を掴もうとする。<br><br>光のない牢獄に将軍が足を踏み入れた時、<br>陽光よりも輝く少年の眼差しを見た。"
 }
 
 var _weaponskill_ = {

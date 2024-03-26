@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "20013": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate. <br><br><i>\"Knowledge is locked behind a gate, the key to which is hidden from those seeking answers from others, while made obvious for those determined to find it on their own.\"</i>"
+    "20013": "세월에서 추출한 희박한 힘. 보잘것없는 찰나의 순간들이 모여 엮어진 장렬한 운명.<br><br><i>「지식은 영원히 저 문 뒤에 있고 열쇠를 주는 이도 없다. 가장 원하는 사람이 손에 넣을 수 있을 뿐」</i>"
 }
 
 var _weaponskill_ = {

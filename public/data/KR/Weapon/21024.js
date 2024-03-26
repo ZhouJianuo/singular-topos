@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21024": "The young boy took a short break from his sword practice.<br>The sunlight was baking his already heated neck. He slowly got into the water, whose coldness touched his bare feet.<br>When the bell chimes and birds tweet, even the people far away would know that springtime had arrived."
+    "21024": "검을 연마하던 소년은 잠시 휴식을 취한다.<br>햇살이 그의 뜨거운 목덜미를 데우고 그는 천천히 물에 들어간다.<br>물이 발에 찰랑 거리자 차가웠지만,<br>종이 울리고, 새가 지저귄다.<br>먼 곳의 사람들은 봄이 온 것을 알아차린다"
 }
 
 var _weaponskill_ = {

@@ -515,26 +515,5 @@ var _story_ = {
 }
 
 var _voice_ = {
-    "1005": [
-        {
-            "_id": 1,
-            "Story": "On the Interastral Peace Corporation's wanted list, Kafka's record only shows her name and a note about her \"interest in collecting coats.\" Little is known about this Stellaron Hunter aside from her being one of \"Destiny's Slave\" Elio's most trusted members. In order to achieve Elio's envisioned future, Kafka gets to work."
-        },
-        {
-            "_id": 2,
-            "Story": "<i>\"Kafka, female human. Hails from New Babylon of Pteruges-V. Core member of the Stellaron Hunters, the next-in-command of 'Destiny's Slave.' Responsible for the following infractions: The Pier Point Incursion, two counts; The Pier Point Heist; The Trovys Disappearance; The Stellaron events of Jemorse, Bayjhana, Shilla-39C, Ulmora, 7-Midville, Loar-51, and Dro'a; Cyber attacks against Pier Point, four counts; Cyber attacks against Planet Screwllum; Cyber attacks against Herta Space Station; The Jepella Rebellion. Suspected to be related to the following infractions: The Stellaron events of Sich-Lala, Inupeis, Oun-G7, Zukov, Lidovia, Illily, Attouine, Buhayama.<br>Wanted Level: Highest. Dead or alive.\"</i><br><align=\"right\">— Wanted Order by the Interastral Peace Corporation</align>"
-        },
-        {
-            "_id": 3,
-            "Story": "<i>\"...Due to the investigation's needs, the suspect's basic information is published as follows: Suspect Kafka (Wanted Serial No.: L933012000020002010004), female, outworld individual, age unknown; height about 170 centimeters, average body size. She had been spotted draped with a black jacket and wearing a white collared shirt inside, a pair of tight-fitting dark shorts, purple pantyhose, and a pair of sunglasses on her head.<br>The suspect has been reported to be connected to multiple non-natural disasters occurring on the Luofu in the recent past. She is currently at large, and is now publicly wanted on the Luofu. Any department and unit who detected said suspect are encouraged to contact the local Cloud Knights. At the same time, we encourage the suspect to turn herself in and to not take any chances.\"</i><br><align=\"right\">— Luofu Wanted Order (revoked)</align>"
-        },
-        {
-            "_id": 4,
-            "Story": "<i>\"...This woman's name is Kafka, a new Hunter without any information on file, and belongs to no particular organization. She has an ability called Spirit Whisper that allows her to hypnotically manipulate others through language. Recently, she has appeared in Riverland, New Babylon. She was seen communicating with its overchief, Shilde, and absconded with him in witness of 143 people. She then made an appearance at a clothing store and stole a black jacket, two white shirts, and a red dress with 6 witnesses. After that, she was seen by 28 people at an old music record store where she purchased nothing. Before she emerged at the Riverland Guard Station to claim her rewards, she was spotted at the central park with 2695 citizens present. We want Kafka's head, as her lethal crimes cannot go unpunished.\"</i><br><align=\"right\">— Wanted Order by the Pteruges-V Devils</align>"
-        },
-        {
-            "_id": 5,
-            "Story": "<i>\"...Go to Pteruges-V and locate an abandoned building at coordinates 135:7372124, 271:6372711. Enter it. There is an untouched canned drink under the window sill on the first floor. Take it. Wait until 11:12 AM on Wednesday and place the can at the entrance of the building. Kafka will appear 2 minutes later. There is a chance she will stop to investigate the can. Then, take the chance to throw this ball at her feet. I will take over and converse with her from there.<br>There is also a chance that Kafka will ignore the can. In that case, just throw the ball away. You will die, but death will come for everyone. As for the future that you yearn for - I will realize it.\"</i><br><align=\"right\">— Wanted Order by Destiny's Slave</align>"
-        }
-    ]
+    "1005": []
 }

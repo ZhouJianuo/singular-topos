@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "22000": "<i>How much longer until the action starts?<br>You have the nerve to ask a question like that... is something wrong with the new recruit?<br>No.<br>Elio didn't choose her because she was good at field work, but she has to at least survive this rookie assignment.<br>She's cruising.<br>Then I'm relieved. It seems that Bladie has proved to be a reliable operative as well.<br>...</i>"
+    "22000": "<i>「얼마나 더 있어야 시작할 수 있지?」<br>「나한테 그런 걸 묻다니…. 신입한테 무슨 일이 생겼나 봐?」<br>「아니」<br>「엘리오께서 그녀를 부른 건 다른 이유 때문이지만, 그래도 초보자 임무에서는 살아남아야 할 텐데」<br>「그녀는 괜찮아」<br>「그렇다면 안심이야. 블레이디도 믿을 수 있는 선배가 된 모양이네」<br>「……」</i>"
 }
 
 var _weaponskill_ = {

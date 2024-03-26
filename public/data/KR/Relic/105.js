@@ -3,27 +3,27 @@
 var _relicitem_ = {
     "105": [
         {
-            "Name": "Champion's Headgear",
-            "Desc": "Boxing headgear that provides excellent protection. It perfectly fits the shape of the owner's face.",
-            "Story": "Having grown up on the streets, Lindsay had never thought of boxing in official matches for she never believed she could be defeated by anyone, let alone someone who already has a foot in the grave.<br><br>The old lady calling herself a boxing coach provided Lindsay with a full set of protective gear and challenged the young girl to a bout, demanding Lindsay to train under her if the old lady managed a win.<br><br>Lindsay was too proud to use the complicated protective gears and tossed them all aside. She thought she could rely on her quick reactions for an easy win, but the old lady got near her in three strides and landed a blow straight to her face. When Lindsay regained consciousness, she picked up the boxing headgear she had tossed aside. Through the narrow opening of the headgear, she saw a brand-new world.<br><br>\"So, these are the fists of a true boxer, huh? Interesting. If you want teach me, then train me to be the strongest boxer that ever lived.\"<br><br>Though a bit begrudgingly, Lindsay accepted that she had lost the bet. Now, wearing protective equipment for the first time, she officially stepped into the world of boxing.",
+            "Name": "격투왕의 챔피언 헤드 기어",
+            "Desc": "보호 효과가 뛰어난 헤드 기어. 주인의 얼굴에 딱 맞다",
+            "Story": "거리를 떠도는 린지는 정식 격투 시합의 초대에 응할 생각이 없었다. 그녀는 자신을 이길 수 있는 격투 선수가 없을 거라 여겼고, 그게 노인일 거라고는 더더욱 생각할 수 없었다.<br><br>격투 코치라 자칭하는 노인은 그녀에게 도전장을 내밀었고 린제이에게 도전에서 이기면 그녀의 제자가 될 것을 요구했다.<br><br>린지는 노인이 넘겨준 헤드 기어를 번거롭게 생각하고 한 쪽으로 던져버렸다. 자신의 빠른 반응 속도로 쉽게 이길 줄 알았던 린지는 세 걸음 안쪽으로 들어온 노인에게 안면을 정통으로 맞았다. 잠시 정신을 잃고 나서 린지는 헤드 기어를 주웠다. 가늘게 뜬 눈으로 그녀는 새로운 세상을 보았다.<br><br>「이게 격투가의 펀치인가? 재밌네, 나를 가르칠거면 날 최고로 만들어줘야 해」<br><br>투덜거리긴 했지만 린지는 패배를 인정하고 보호구를 착용하며 격투의 세계에 정식으로 입문한다",
             "Icon": "IconRelic_105_1.png"
         },
         {
-            "Name": "Champion's Heavy Gloves",
-            "Desc": "A pair of boxing gloves kept in excellent condition. Some slight wear doesn't hinder their effectiveness.",
-            "Story": "When Lindsay first entered the boxing ring, her fighting style was utterly unbalanced, for she only knew how to attack but never how to defend. <br><br>All her years of street fighting were inadequate to prepare her for the fight in the ring. The match arranged by Ekaterina put Linsay into her place.<br><br>A series of successive defeats in local fights shattered Linsay's arrogance and deeply humbled her, forcing her to reflect on the balanced offensive and defensive rhythm that Ekaterina was teaching her. As if kissed by the goddess of combat, this once-stubborn street fighter gradually came to understand the significance and joy of balancing offense with defense. The next thing she knew, her hand wraps were torn and her gloves soaked with sweat and blood.<br><br>\"Never let yourself fall into your opponent's traps. Remember your own rhythm.\" <br><br>Now Linsay finally came to appreciate Ekat's words and her loving gaze. The usually stern Ekat had long loved Lindsay like she would her own child.",
+            "Name": "격투왕의 대포 글러브",
+            "Desc": "잘 관리된 격투 글러브. 가벼운 손상 정도는 실사용에 지장을 주지 않는다",
+            "Story": "격투계에 처음 입문한 린지의 권법은 날카로웠지만 공격만 알고 수비를 몰랐다.<br><br>길거리에서의 경험은 링위에서는 그다지 유용하지 않았고, 예카테리나가 배정한 격투 시합으로 길바닥의 꼬맹이의 자부심은 산산이 부서졌다.<br><br>지역 대회에서 좌절한 후 위엄과 자신감이 땅에 떨어진 그녀는 예카테리나가 가르쳐준 공수 리듬에 대해 생각할 수밖에 없었다. 주먹질만 할 줄 알던 린지는 격투의 여신에게 입맞춤이라도 받은 듯 점차 공격과 방어 전환의 재미를 알게 됐다. 정신을 차리고 보니 응고된 손가락 보호대가 갈라지고 격투 글러브에 피와 땀으로 흠뻑 젖어 있는 것을 알아차렸다.<br><br>「자신만의 리듬을 찾아야 해. 상대의 함정에 빠지지 안 돼」<br><br>린지는 예카의 물처럼 따스한 눈빛과 좌우명을 순식간에 이해하게 되었다. 엄격한 예카는 그녀를 늘 자신의 아이처럼 바라봤다",
             "Icon": "IconRelic_105_2.png"
         },
         {
-            "Name": "Champion's Chest Guard",
-            "Desc": "A boxer's professional-level chest guard. The outer and inner padding is designed to provide protection while not hindering movement.",
-            "Story": "The scene in the training gym on the night before the championship fight was like the old days. The sounds of quick and heavy punches on the sandbag echoed throughout the gym.<br><br>Sweat soaked through her chest guard and the scorching steam detached Lindsay from reality, making her crave to escape it all.<br><br>Lindsay tried her best to control her emotions as her face glimmered with sweat and tears. Late into the night, she finally took off her chest guard and wrote the name \"Ekat\" on the inside. She wants to swear she would achieve victory for this name. This was a key match in Lindsay's path to becoming the boxing champion, and her first fight without her coach by her side. Before Lindsay stepped into the ring, she held out her chest proudly to the camera.<br><br>\"Lindsay.. I couldn't believe you share the same name with my daughter. I always thought I was done with the world for good when she passed, until I finally met you. Thank you, Lindsay.\"<br><br>\"Protect me, Ekat.\" The most important name was right by her heart.",
+            "Name": "격투왕의 가슴 보호대",
+            "Desc": "격투선수 전용 가슴 보호대. 겉의 커버와 안쪽에 안감이 처리되어 있어 안전하면서도 기술 발휘에 지장을 주지 않는다",
+            "Story": "격투 시합 전날 훈련장은 여느 때와 다름없이 주먹으로 빠르고 묵직하게 샌드백을 치는 소리가 울린다.<br><br>땀으로 몸에 달라붙은 가슴 보호대의 뜨거운 증기로 현실과 격리된 린지는 현실과 도망치려 했다.<br><br>린지는 감정을 억누르려고 최선을 다했다. 땀과 섞인 눈물이 얼굴에서 반짝거렸다. 늦은 밤 그녀는 격투 글러브와 가슴 보호대를 벗어 안쪽에 「예카」라는 이름을 적었다. 그녀는 이 이름에 대고 승리를 약속했다. 이번 시합은 격투왕으로 향하는 중요한 관문이자 코치 없이 임하는 첫 경기이기도 하다. 링에 오르기 전 린지는 카메라를 향해 자신 있게 가슴을 폈다.<br><br>「린지… 네가 내 딸과 이름이 같다니. 그 아이가 떠났을 때, 나는 내 세계가 무너진 줄 알았어. 그리고 너를 만났지. 고마워, 린지」<br><br>「나를 지켜줘, 예카」. 가장 중요한 이름은 심장에 붙어있다",
             "Icon": "IconRelic_105_3.png"
         },
         {
-            "Name": "Champion's Fleetfoot Boots",
-            "Desc": "Intricately crafted from leather and mesh, the combination of a thick insole and thin outsole ensures the wearer can be agile on their feet.",
-            "Story": "With a rather petite figure, Lindsay became famous for her fast punches and nimble footwork that allowed her to dance in the ring like a fluttering butterfly amidst flowers.<br><br>Regardless of how fast her opponents could throw a punch, all their strikes could never hit Lindsay. Such was the power of what was known as Lindsay's Dance.<br><br>To train Lindsay's unique footwork, Ekaterina took the street urchin to a high-society ball, where they danced hand in hand, spin after spin... Though clumsy at first, Lindsay eventually got the hang of the refined dance steps. She realized that there was more to this old boxing coach than met the eye. Among the flowing sea of dancers, a soft spot in Lindsay's heart was suddenly struck by a magical feeling.<br><br>\"One more dance?\"<br><br>Lindsay's upbringing on the street did not at all prepare her for such experiences. Seeing the twinkle in Ekaterina's eyes, how could Lindsay refuse?",
+            "Name": "격투왕의 휘어진 스텝 부츠",
+            "Desc": "가죽과 그물을 절묘하게 결합하였고 두꺼운 깔창과 얇은 밑창 디자인을 적용해 민첩한 스텝을 확보했다",
+            "Story": "몸집이 작은 린지는 빠르고 날렵한 펀치로 유명하다. 그녀의 가벼운 스텝은 꽃을 맴도는 나비 같다.<br><br>거친 비처럼 쏟아지는 상대의 주먹조차 린지의 어깨를 스칠 뿐이었다. 이것이 바로 유명한 「린지의 춤」이다.<br><br>린지에게 특별한 스텝을 훈련시키기 위해 예카테리나는 길거리 소녀를 상류층 무도회로 데려갔다. 그녀는 린지의 손을 잡고 턴을 거듭했다……. 처음엔 비틀거렸지만, 린지는 점차 스텝을 따라갔다. 그녀는 격투 코치라고 자칭하는 노인이 단순한 코치가 아니라는 걸 깨달았다. 흐릿한 무대에서 린제이는 마음속 어딘가 무른 곳이 갑자기 묘한 감정으로 욱신거리는 것을 느꼈다.<br><br>「나랑 다시 춤출래?」<br><br>이런 경험이 처음인 길거리 출신 린지는 예카테리나의 맑은 눈을 바라보며 거부할 수 없었다",
             "Icon": "IconRelic_105_4.png"
         }
     ]

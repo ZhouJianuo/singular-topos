@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "20020": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate. <br><br><i>\"Should Wise Ones be unable to abandon their identity as humans, they shall be abandoned by wisdom.\"</i>"
+    "20020": "세월에서 추출한 희박한 힘. 보잘것없는 찰나의 순간들이 모여 엮어진 장렬한 운명.<br><br><i>「지혜의 인간이 인간의 신분을 버리지 못한다면, 그는 지혜로부터 버림받을 것이다」</i>"
 }
 
 var _weaponskill_ = {

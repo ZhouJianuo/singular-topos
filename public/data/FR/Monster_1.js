@@ -3,7 +3,7 @@
 var _kingdoms = [
     {
         "_id": 9999,
-        "Name": "<b>New in 2.1</b>"
+        "Name": "<b>New in 2.2</b>"
     },
     {
         "_id": 1000,
@@ -958,58 +958,6 @@ var _monster = {
         ],
         "IsComplete": 1
     },
-    "1003014": {
-        "_id": 1003014,
-        "Key": "Monster_W1_Soldier03_00_Config_A_Fever",
-        "Name": "",
-        "Desc": "",
-        "Stats": {
-            "HP": 16.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 120.0,
-            "Stance": 12.0
-        },
-        "StatsExtra": {
-            "Stance": 6.0
-        },
-        "Weak": [
-            "Fire",
-            "Ice",
-            "Wind"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Elec": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.2,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    100301401,
-                    100301402,
-                    100301403,
-                    100301404,
-                    100301405
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_1003010.png",
-        "Figure": "monsterfigure/Monster_1003010.png",
-        "AllSkills": [
-            100301401,
-            100301402,
-            100301403,
-            100301404,
-            100301405
-        ],
-        "IsBug": 1
-    },
     "1004010": {
         "_id": 1004010,
         "Key": "Monster_W1_CocoliaP1_00_Config",
@@ -1773,6 +1721,81 @@ var _monster = {
             100402512
         ],
         "IsIllusion": 1
+    },
+    "1004027": {
+        "_id": 1004027,
+        "Key": "Monster_W1_Gepard_01_Config",
+        "Name": "",
+        "Desc": "",
+        "Stats": {
+            "HP": 11.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100402701,
+                    100402702,
+                    100402704,
+                    100402705,
+                    100402708,
+                    100402709
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    100402701,
+                    100402702,
+                    100402703,
+                    100402704,
+                    100402705,
+                    100402708,
+                    100402710
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    100402707,
+                    100402711
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
+        "AllSkills": [
+            100402701,
+            100402702,
+            100402704,
+            100402705,
+            100402708,
+            100402709,
+            100402703,
+            100402710
+        ]
     },
     "1004030": {
         "_id": 1004030,
@@ -4071,15 +4094,15 @@ var _monster = {
         "Name": "",
         "Desc": "",
         "Stats": {
-            "HP": 50.0,
+            "HP": 75.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 100.0,
             "Stance": 10.0
         },
         "StatsExtra": {
-            "SPD": 140.0,
-            "Stance": -4.0
+            "SPD": 300.0,
+            "Stance": 6.0
         },
         "Weak": [
             "Fire",
@@ -4726,7 +4749,7 @@ var _monster = {
         "_id": 2004021,
         "Key": "Monster_W2_Yanqing_00_Config_RL",
         "Name": "Cloud Knight Lieutenant: Yanqing (Complete)",
-        "Desc": "…",
+        "Desc": "...",
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -4978,6 +5001,80 @@ var _monster = {
             200402310
         ],
         "IsIllusion": 1
+    },
+    "2004024": {
+        "_id": 2004024,
+        "Key": "Monster_W2_Yanqing_03_Config",
+        "Name": "",
+        "Desc": "",
+        "Stats": {
+            "HP": 10.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.75,
+            "Confine": 0.75,
+            "Entangle": 0.75
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    200402401,
+                    200402403,
+                    200402404,
+                    200402405,
+                    200402406
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    200402401,
+                    200402402,
+                    200402403,
+                    200402404,
+                    200402405,
+                    200402406
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    200402407,
+                    200402408,
+                    200402409
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_2004020.png",
+        "Figure": "monsterfigure/Monster_2004020.png",
+        "AllSkills": [
+            200402401,
+            200402403,
+            200402404,
+            200402405,
+            200402406,
+            200402402
+        ]
     },
     "2011010": {
         "_id": 2011010,
@@ -7005,6 +7102,53 @@ var _monster = {
         ],
         "Csxylic": "SCDreamjoltTroupe/3002010"
     },
+    "3002020": {
+        "_id": 3002020,
+        "Key": "Monster_W1_Mecha01_02_Config",
+        "Name": "Dreamjolt Troupe's Lucky Salesperson",
+        "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a prize-drawing robot made to bring surprise to guests, it still bears all kinds of gifts even after losing control, and longs to sacrifice itself it means verifying the fortunes of those who come for it.",
+        "Stats": {
+            "HP": 2.25,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300202001,
+                    300202002,
+                    300202003,
+                    300202004,
+                    300202005
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3002020.png",
+        "AllSkills": [
+            300202001,
+            300202002,
+            300202003,
+            300202004,
+            300202005
+        ]
+    },
     "3002030": {
         "_id": 3002030,
         "Key": "Monster_W2_Beast01_03_Config",
@@ -7521,6 +7665,371 @@ var _monster = {
         "New": true,
         "IsBug": 1
     },
+    "3003030": {
+        "_id": 3003030,
+        "Key": "Monster_W3_Figure_02_Config",
+        "Name": "\"Past Confined and Caged\"",
+        "Desc": "An artist playing the role of the prisoner in the Sweet Dreams Troupe. It should be performing in the Charmony Festival, but it is now bound by Order and keeps performing scenes of the \"Past.\" The bygone days form endless chains that light calm flames within the cage, using the candlelight to attract the powerful ones who control the prison.",
+        "Stats": {
+            "HP": 12.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300303001,
+                    300303002,
+                    300303003,
+                    300303004
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    300303005,
+                    300303006,
+                    300303007
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3003030.png",
+        "AllSkills": [
+            300303001,
+            300303002,
+            300303003,
+            300303004
+        ]
+    },
+    "3003031": {
+        "_id": 3003031,
+        "Key": "Monster_W3_Figure_02_Config",
+        "Name": "\"Past Confined and Caged\"",
+        "Desc": "An artist playing the role of the prisoner in the Sweet Dreams Troupe. It should be performing in the Charmony Festival, but it is now bound by Order and keeps performing scenes of the \"Past.\" The bygone days form endless chains that light calm flames within the cage, using the candlelight to attract the powerful ones who control the prison.",
+        "Stats": {
+            "HP": 12.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 7.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300303101,
+                    300303102,
+                    300303103,
+                    300303104
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    300303105,
+                    300303106,
+                    300303107
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3003030.png",
+        "AllSkills": [
+            300303101,
+            300303102,
+            300303103,
+            300303104
+        ]
+    },
+    "3003040": {
+        "_id": 3003040,
+        "Key": "Monster_W3_Figure_00_Config",
+        "Name": "\"Tomorrow in Harmonious Chords\"",
+        "Desc": "A musician responsible for playing the harmonious tune in the Sweet Dreams Troupe. It should be playing in the Charmony Festival, but it is now bound by Order and keeps performing scenes of the \"Future.\" Posterity is an eternal song where hope for happiness forms on the string and uses the instrument's music to call for the sovereign who composed the song.",
+        "Stats": {
+            "HP": 12.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Elec"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300304001,
+                    300304002,
+                    300304003,
+                    300304004,
+                    300304005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    300304006,
+                    300304007
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3003040.png",
+        "AllSkills": [
+            300304001,
+            300304002,
+            300304003,
+            300304004,
+            300304005
+        ]
+    },
+    "3003041": {
+        "_id": 3003041,
+        "Key": "Monster_W3_Figure_00_Config",
+        "Name": "\"Tomorrow in Harmonious Chords\"",
+        "Desc": "A musician responsible for playing the harmonious tune in the Sweet Dreams Troupe. It should be playing in the Charmony Festival, but it is now bound by Order and keeps performing scenes of the \"Future.\" Posterity is an eternal song where hope for happiness forms on the string and uses the instrument's music to call for the sovereign who composed the song.",
+        "Stats": {
+            "HP": 12.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 8.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Elec"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300304101,
+                    300304102,
+                    300304103,
+                    300304104,
+                    300304105
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    300304106,
+                    300304107
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3003040.png",
+        "AllSkills": [
+            300304101,
+            300304102,
+            300304103,
+            300304104,
+            300304105
+        ]
+    },
+    "3003050": {
+        "_id": 3003050,
+        "Key": "Monster_W3_Figure_01_Config",
+        "Name": "\"Present Inebriated in Revelry\"",
+        "Desc": "A waiter responsible for entertaining the guests in the Sweet Dreams Troupe. It should be serving in the Charmony Festival, but it is now bound by Order and keeps performing scenes of the \"Present.\" The contemporaneous is an all-night revelry where longing for joy swirls in goblets and the finest wine is offered to the master who set up the feast.",
+        "Stats": {
+            "HP": 12.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300305001,
+                    300305002,
+                    300305004,
+                    300305005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    300305003,
+                    300305006,
+                    300305007
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3003050.png",
+        "AllSkills": [
+            300305001,
+            300305002,
+            300305004,
+            300305005
+        ]
+    },
+    "3003051": {
+        "_id": 3003051,
+        "Key": "Monster_W3_Figure_01_Config",
+        "Name": "\"Present Inebriated in Revelry\"",
+        "Desc": "A waiter responsible for entertaining the guests in the Sweet Dreams Troupe. It should be serving in the Charmony Festival, but it is now bound by Order and keeps performing scenes of the \"Present.\" The contemporaneous is an all-night revelry where longing for joy swirls in goblets and the finest wine is offered to the master who set up the feast.",
+        "Stats": {
+            "HP": 12.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 7.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300305101,
+                    300305102,
+                    300305104,
+                    300305105
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    300305103,
+                    300305106,
+                    300305107
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3003050.png",
+        "AllSkills": [
+            300305101,
+            300305102,
+            300305104,
+            300305105
+        ]
+    },
+    "3004010": {
+        "_id": 3004010,
+        "Key": "Monster_W3_FigureBoss_00_Config",
+        "Name": "The Past, Present, and Eternal Show",
+        "Desc": "The actors of the Sweet Dreams Troupe have accepted the grace of the Order and become law-marked puppets. They dance under the supreme commandments, beginning a show that will welcome the coming of paradise.",
+        "Stats": {
+            "HP": 36.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 0.0,
+            "Stance": 0.0
+        },
+        "Weak": [],
+        "RESBase": {},
+        "StatusRESBase": 0.2,
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300401001,
+                    300401002
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    300401001,
+                    300401003,
+                    300401004,
+                    300401005
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 10,
+        "Icon": "mostericon/BattleEvent_Marionette.png",
+        "AllSkills": [
+            300401001,
+            300401002,
+            300401003,
+            300401004,
+            300401005
+        ]
+    },
     "3011010": {
         "_id": 3011010,
         "Key": "Monster_AML_Minion01_02_Config",
@@ -7758,6 +8267,53 @@ var _monster = {
         "AllSkills": [
             301203101,
             301203103
+        ]
+    },
+    "3012040": {
+        "_id": 3012040,
+        "Key": "Monster_W3_Ghost_00_Config",
+        "Name": "",
+        "Desc": "",
+        "Stats": {
+            "HP": 1.25,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 150.0,
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301204001,
+                    301204003
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    301204002
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 11,
+        "Icon": "mostericon/Monster_3012040.png",
+        "AllSkills": [
+            301204001,
+            301204003
         ]
     },
     "3013010": {
@@ -8378,6 +8934,47 @@ var _monster = {
             302104102
         ]
     },
+    "3022010": {
+        "_id": 3022010,
+        "Key": "Monster_W3_SundayPart_00_Config",
+        "Name": "Penacony Boss's Summon",
+        "Desc": "...",
+        "Stats": {
+            "HP": 3.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Elec",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302201001,
+                    302201002
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3022010.png",
+        "AllSkills": [
+            302201001,
+            302201002
+        ]
+    },
     "3024010": {
         "_id": 3024010,
         "Key": "Monster_W2_Argenti_00_Config",
@@ -8711,6 +9308,304 @@ var _monster = {
             302402105,
             302402106,
             302402107
+        ]
+    },
+    "3024022": {
+        "_id": 3024022,
+        "Key": "Monster_W3_Sam_00_Config_SP",
+        "Name": "Stellaron Hunter: Sam",
+        "Desc": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor. The mech suit wields the power to unleash fiery onslaughts, engulfing the battlefield in flames.",
+        "Stats": {
+            "HP": 77.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 18.0
+        },
+        "Weak": [
+            "Elec",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302402201,
+                    302402202,
+                    302402203,
+                    302402204,
+                    302402205,
+                    302402206,
+                    302402207
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    302402201,
+                    302402202,
+                    302402203,
+                    302402204,
+                    302402205,
+                    302402206,
+                    302402207
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3024020.png",
+        "Figure": "monsterfigure/Monster_3024020.png",
+        "AllSkills": [
+            302402201,
+            302402202,
+            302402203,
+            302402204,
+            302402205,
+            302402206,
+            302402207
+        ]
+    },
+    "3025010": {
+        "_id": 3025010,
+        "Key": "Monster_W3_Sunday_00_Config",
+        "Name": "Penacony Boss",
+        "Desc": "...",
+        "Stats": {
+            "HP": 60.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 6.0
+        },
+        "Weak": [
+            "Elec",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 1.0
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302501001,
+                    302501002,
+                    302501003,
+                    302501004,
+                    302501006,
+                    302501014
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    302501001,
+                    302501002,
+                    302501003,
+                    302501005,
+                    302501008,
+                    302501009,
+                    302501014
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    302501011,
+                    302501012,
+                    302501014
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    302501007,
+                    302501010,
+                    302501013
+                ]
+            }
+        ],
+        "Rank": "BigBoss",
+        "Camp": 5,
+        "Icon": "mostericon/Monster_3025010.png",
+        "AllSkills": [
+            302501001,
+            302501002,
+            302501003,
+            302501004,
+            302501006,
+            302501014,
+            302501005,
+            302501008,
+            302501009,
+            302501011,
+            302501012
+        ]
+    },
+    "3025011": {
+        "_id": 3025011,
+        "Key": "Monster_W3_Sunday_01_Config",
+        "Name": "Penacony Boss",
+        "Desc": "...",
+        "Stats": {
+            "HP": 60.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 6.0
+        },
+        "Weak": [
+            "Elec",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302501101,
+                    302501102,
+                    302501103,
+                    302501104,
+                    302501105,
+                    302501107
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    302501106
+                ]
+            }
+        ],
+        "Rank": "BigBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3025010.png",
+        "AllSkills": [
+            302501101,
+            302501102,
+            302501103,
+            302501104,
+            302501105,
+            302501107
+        ]
+    },
+    "3025012": {
+        "_id": 3025012,
+        "Key": "Monster_W3_Sunday_02_Config",
+        "Name": "Penacony Boss",
+        "Desc": "...",
+        "Stats": {
+            "HP": 60.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 8.0
+        },
+        "Weak": [
+            "Elec",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 1.0
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302501201,
+                    302501202,
+                    302501203,
+                    302501204,
+                    302501206,
+                    302501214
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    302501201,
+                    302501202,
+                    302501203,
+                    302501205,
+                    302501208,
+                    302501209,
+                    302501214
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    302501211,
+                    302501212,
+                    302501214
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    302501207,
+                    302501210,
+                    302501213
+                ]
+            }
+        ],
+        "Rank": "BigBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3025010.png",
+        "AllSkills": [
+            302501201,
+            302501202,
+            302501203,
+            302501204,
+            302501206,
+            302501214,
+            302501205,
+            302501208,
+            302501209,
+            302501211,
+            302501212
         ]
     },
     "8001010": {
@@ -12785,80 +13680,6 @@ var _monster = {
         ],
         "IsComplete": 1
     },
-    "8024013": {
-        "_id": 8024013,
-        "Key": "Monster_SW_Boss_00_Normal_Config_Fever",
-        "Name": "",
-        "Desc": "",
-        "Stats": {
-            "HP": 21.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 144.0,
-            "Stance": 16.0
-        },
-        "StatsExtra": {
-            "Stance": 4.0
-        },
-        "Weak": [
-            "Ice",
-            "Wind",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.2,
-            "Elec": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.3,
-        "HPCount": 2,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    802401301,
-                    802401302,
-                    802401303,
-                    802401304
-                ]
-            },
-            {
-                "Phase": 2,
-                "Skills": [
-                    802401301,
-                    802401302,
-                    802401303,
-                    802401304,
-                    802401305,
-                    802401306,
-                    802401309
-                ]
-            },
-            {
-                "Phase": 0,
-                "Skills": [
-                    802401307,
-                    802401308,
-                    802401310,
-                    802401311
-                ]
-            }
-        ],
-        "Rank": "LittleBoss",
-        "Camp": 8,
-        "Icon": "mostericon/Monster_8024010.png",
-        "Figure": "monsterfigure/Monster_8024010.png",
-        "AllSkills": [
-            802401301,
-            802401302,
-            802401303,
-            802401304,
-            802401305,
-            802401306,
-            802401309
-        ]
-    },
     "8025010": {
         "_id": 8025010,
         "Key": "Monster_SW_Boss_01_Config",
@@ -13037,7 +13858,7 @@ var _monster = {
         "_id": 8032030,
         "Key": "Monster_W3_AventurinePart_00_Config",
         "Name": "\"All or Nothing\"",
-        "Desc": "A game die metamorphosed from the \"Aventurine of Stratagems,\" which shall decide the gamblers' destiny in a wager.",
+        "Desc": "A game die metamorphosed from the \"Aventurine of Stratagems,\" which shall decide the gamblers' destiny in the Gamble.",
         "Stats": {
             "HP": 0.5,
             "ATK": 18.0,
@@ -13183,69 +14004,6 @@ var _monster = {
         ],
         "IsBug": 1
     },
-    "8033013": {
-        "_id": 8033013,
-        "Key": "Monster_W1_Mecha03_02_Config_RLElite_Fever",
-        "Name": "",
-        "Desc": "",
-        "Stats": {
-            "HP": 19.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 144.0,
-            "Stance": 12.0
-        },
-        "StatsExtra": {
-            "SPD": -44.0,
-            "Stance": 8.0
-        },
-        "Weak": [
-            "Fire",
-            "Ice",
-            "Wind"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Elec": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.2,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    803301301,
-                    803301302,
-                    803301303,
-                    803301304,
-                    803301305,
-                    803301306,
-                    803301308
-                ]
-            },
-            {
-                "Phase": 0,
-                "Skills": [
-                    803301307
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_8033010.png",
-        "Figure": "monsterfigure/Monster_8033010.png",
-        "AllSkills": [
-            803301301,
-            803301302,
-            803301303,
-            803301304,
-            803301305,
-            803301306,
-            803301308
-        ],
-        "IsBug": 1
-    },
     "8034010": {
         "_id": 8034010,
         "Key": "Monster_W3_Aventurine_00_Config",
@@ -13264,6 +14022,7 @@ var _monster = {
             "Elec"
         ],
         "RESBase": {
+            "Fire": 0.2,
             "Wind": 0.2,
             "Quantum": 0.2,
             "Imaginary": 0.4
@@ -13365,6 +14124,7 @@ var _monsterlist = [
     100202016,
     100202017,
     100202019,
+    100202020,
     100202101,
     1002030,
     100203001,
@@ -13382,6 +14142,7 @@ var _monsterlist = [
     100203013,
     100203016,
     100203017,
+    100203019,
     1002040,
     100204001,
     100204002,
@@ -13407,6 +14168,7 @@ var _monsterlist = [
     100204022,
     100204023,
     100204024,
+    100204025,
     1002041,
     100204101,
     1002050,
@@ -13430,6 +14192,7 @@ var _monsterlist = [
     100205018,
     100205019,
     100205020,
+    100205021,
     1003010,
     100301001,
     100301002,
@@ -13451,11 +14214,13 @@ var _monsterlist = [
     100301018,
     100301019,
     100301020,
+    100301021,
+    100301022,
+    100301023,
     1003011,
     100301101,
     1003012,
     1003013,
-    1003014,
     1004010,
     100401001,
     100401002,
@@ -13463,6 +14228,7 @@ var _monsterlist = [
     100401004,
     100401005,
     100401006,
+    100401007,
     1004011,
     1004012,
     1004013,
@@ -13474,16 +14240,23 @@ var _monsterlist = [
     100402005,
     100402006,
     100402007,
+    100402008,
+    100402009,
     1004021,
     1004022,
+    100402201,
     1004023,
     1004024,
     1004025,
+    1004027,
+    100402701,
+    100402702,
     1004030,
     100403001,
     100403002,
     100403003,
     100403004,
+    100403005,
     1004031,
     100403101,
     1004032,
@@ -13542,6 +14315,7 @@ var _monsterlist = [
     101203013,
     101203014,
     101203015,
+    101203016,
     1012040,
     1012041,
     1012042,
@@ -13569,6 +14343,7 @@ var _monsterlist = [
     101301021,
     101301022,
     101301023,
+    101301024,
     1013011,
     101301101,
     1013012,
@@ -13599,6 +14374,7 @@ var _monsterlist = [
     101302026,
     101302027,
     101302028,
+    101302029,
     1013021,
     1013022,
     1013023,
@@ -13613,9 +14389,14 @@ var _monsterlist = [
     101401007,
     101401008,
     101401009,
+    101401010,
+    101401011,
     1014011,
     1014012,
+    101401201,
     1014013,
+    101401301,
+    101401302,
     1022010,
     102201001,
     102201002,
@@ -13713,6 +14494,7 @@ var _monsterlist = [
     200401003,
     200401004,
     200401005,
+    200401006,
     2004011,
     2004012,
     2004013,
@@ -13723,10 +14505,14 @@ var _monsterlist = [
     200402004,
     200402005,
     200402006,
+    200402007,
     2004021,
     2004022,
     200402201,
+    200402202,
     2004023,
+    2004024,
+    200402401,
     2011010,
     201101001,
     201101002,
@@ -13862,16 +14648,23 @@ var _monsterlist = [
     2024010,
     202401001,
     202401002,
+    202401005,
+    202401006,
     2024011,
     2024012,
+    202401201,
     2024013,
     2024014,
     202401401,
+    202401403,
+    202401404,
     2024020,
     202402001,
     202402002,
     202402003,
     202402004,
+    202402005,
+    202402006,
     3001010,
     300101001,
     300101002,
@@ -13887,6 +14680,7 @@ var _monsterlist = [
     300201002,
     300201003,
     300201004,
+    3002020,
     3002030,
     300203001,
     300203002,
@@ -13902,6 +14696,8 @@ var _monsterlist = [
     3003010,
     300301001,
     300301002,
+    300301003,
+    300301004,
     3003011,
     300301101,
     3003020,
@@ -13909,35 +14705,63 @@ var _monsterlist = [
     300302002,
     300302003,
     3003021,
+    3003030,
+    3003031,
+    3003040,
+    3003041,
+    3003050,
+    300305001,
+    3003051,
+    3004010,
+    300401001,
     3011010,
     301201001,
     3012020,
     301202001,
     3012030,
     3012031,
+    3012040,
     301301001,
     3014020,
     301402001,
     301402002,
     301402003,
+    301402004,
+    301402005,
     3014021,
+    301402201,
     3021020,
+    302102001,
     3021021,
     3021030,
+    302103001,
     3021031,
     3021040,
+    302104001,
     3021041,
+    3022010,
     3024010,
     302401001,
     302401002,
     302401003,
+    302401004,
+    302401007,
+    302401008,
     3024011,
+    302401101,
     3024012,
     302401201,
+    302401202,
     3024020,
     302402001,
     302402002,
     3024021,
+    3024022,
+    302402201,
+    3025010,
+    302501001,
+    3025011,
+    3025012,
     8001010,
     800101001,
     800101002,
@@ -14004,6 +14828,7 @@ var _monsterlist = [
     800201008,
     800201009,
     800201012,
+    800201015,
     800201016,
     8002040,
     800204001,
@@ -14056,6 +14881,25 @@ var _monsterlist = [
     800205042,
     800205043,
     800205044,
+    800205045,
+    800205046,
+    800205047,
+    800205048,
+    800205049,
+    800205050,
+    800205051,
+    800205052,
+    800205053,
+    800205054,
+    800205055,
+    800205056,
+    800205057,
+    800205058,
+    800205059,
+    800205060,
+    800205061,
+    800205062,
+    800205063,
     8002051,
     8002052,
     8002053,
@@ -14129,10 +14973,12 @@ var _monsterlist = [
     800303010,
     800303011,
     800303012,
+    800303014,
     800303015,
     800303016,
     800303017,
     8003031,
+    800303101,
     8003040,
     800304001,
     800304002,
@@ -14145,6 +14991,7 @@ var _monsterlist = [
     800304009,
     800304010,
     800304011,
+    800304012,
     8003041,
     8003042,
     8003050,
@@ -14158,7 +15005,10 @@ var _monsterlist = [
     800305008,
     800305009,
     800305010,
+    800305011,
     800305012,
+    800305015,
+    800305017,
     8003051,
     8003052,
     8011010,
@@ -14179,6 +15029,7 @@ var _monsterlist = [
     801102005,
     801102007,
     801102008,
+    801102009,
     8012010,
     801201001,
     801201002,
@@ -14205,6 +15056,7 @@ var _monsterlist = [
     801201024,
     801201025,
     801201026,
+    801201027,
     801201028,
     801201029,
     8012020,
@@ -14224,6 +15076,7 @@ var _monsterlist = [
     8012021,
     801202101,
     801202102,
+    801202103,
     8012030,
     801203001,
     801203002,
@@ -14232,6 +15085,7 @@ var _monsterlist = [
     801203005,
     801203006,
     801203007,
+    801203008,
     8012140,
     8012142,
     8012143,
@@ -14260,6 +15114,7 @@ var _monsterlist = [
     801301013,
     801301014,
     801301015,
+    801301017,
     801301018,
     801301019,
     801301021,
@@ -14283,7 +15138,6 @@ var _monsterlist = [
     8024011,
     802401101,
     8024012,
-    8024013,
     8025010,
     802501001,
     8032010,
@@ -14292,22 +15146,26 @@ var _monsterlist = [
     803201003,
     803201004,
     803201005,
+    803201006,
     8032020,
     803202001,
     803202002,
     803202003,
     803202004,
     803202005,
+    803202006,
     8033010,
     803301001,
     803301002,
     803301003,
     803301004,
+    803301005,
     8033011,
     803301101,
     803301202,
-    8033013,
-    803401001
+    803401001,
+    803401002,
+    803401003
 ]
 
 var _status = {
@@ -14789,7 +15647,7 @@ var _status = {
     "230010101": {
         "Name": "",
         "Modifier": "Monster_W2_Mecha01_02_ResistanceDown",
-        "Desc": "Effect RES reduces by <color style='color:#f29e38;'>[MDF_PropertyValue]</color>.",
+        "Desc": "",
         "Type": "Debuff"
     },
     "230020101": {
@@ -14874,7 +15732,7 @@ var _status = {
     "230240201": {
         "Name": "Secondary Combustion",
         "Modifier": "Monster_W3_Sam_00_Enhance",
-        "Desc": "All attacks consume HP. Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedUpRatio]</color> and gains an additional action. When only <color style='color:#f29e38;'>[MDF_CurrentPoint]</color> points of Molten Energy remain, the Secondary Combustion state expires.",
+        "Desc": "All attacks consume HP. Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedUpRatio]</color> and gains an additional action. When only <color style='color:#f29e38;'>[MDF_CurrentPoint]</color> point(s) of Molten Energy remain, the Secondary Combustion state expires.",
         "CanNotDispel": true
     },
     "230240202": {
@@ -14914,7 +15772,7 @@ var _status = {
         "CanNotDispel": true
     },
     "280020701": {
-        "Name": "C—Cure You",
+        "Name": "SpriteOutput/BuffIcon/Buff_RitaC4CDAttack.png",
         "Modifier": "MMonster_XP_Minion04_03_Introduce",
         "Desc": "When a friendly unit is attacked by a target, Trotter of Abundance consumes its own HP to heal the attacked friendly unit.",
         "CanNotDispel": true

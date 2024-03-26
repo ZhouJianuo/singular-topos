@@ -6,14 +6,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/IconRogueKnight01.png",
-        "Name": "Divine Construct: Resonance Transfer",
+        "Name": "신성 구축 • 공명 전달",
         "Desc": [
-            "After a character launches an attack, deals <u class='infou'>Quake</u> DMG equal to <color style='color:#f29e38;'>100.0%</color> of the character's current Shield to the hit enemies.",
-            "After a character launches an attack, deals <u class='infou'>Quake</u> DMG equal to <color style='color:#f29e38;'>100.0%</color> of the character's current Shield effect plus <color style='color:#f29e38;'>20.0%</color> of the total Shield effect of the character's allies to the hit enemies."
+            "캐릭터가 공격 발동 후 피격된 적에게 캐릭터 현재 실드량 <color style='color:#f29e38;'>100.0%</color>만큼의 [<u class='infou'>진동</u>] 피해를 가한다",
+            "캐릭터가 공격 발동 후 피격된 적에게 캐릭터 현재 실드량 <color style='color:#f29e38;'>100.0%</color>+파티원 현재 실드 총량의 <color style='color:#f29e38;'>20.0%</color>만큼의 [<u class='infou'>진동</u>] 피해를 가한다"
         ],
         "SimpleDesc": [
-            "After attacking enemies, the attacking character deals <u class='infou'>Quake</u> DMG based on the current Shield effect on the character.",
-            "After attacking enemies, the attacking character deals <u class='infou'>Quake</u> DMG based on the current total Shield effect on the ally team."
+            "캐릭터가 적 공격 후 현재 실드량에 따라 [<u class='infou'>진동</u>] 피해를 가한다",
+            "캐릭터가 적 공격 시 모든 아군의 현재 실드량에 따라 적에게 [<u class='infou'>진동</u>] 피해를 가한다"
         ],
         "Effects": [
             60000001
@@ -24,14 +24,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/IconRogueKnight01.png",
-        "Name": "Divine Construct: Metastatic Field",
+        "Name": "신성 구축 • 부정정 공간",
         "Desc": [
-            "After a character is hit, deals <u class='infou'>Quake</u> DMG to the attacker, equal to <color style='color:#f29e38;'>340.0%</color> of the character's current Shield effect. This DMG cannot defeat the enemy.",
-            "After a character is attacked, deals <u class='infou'>Quake</u> DMG to the attacker, equal to <color style='color:#f29e38;'>420.0%</color> of the character's Shield effect just before the attack. This DMG cannot defeat the enemy."
+            "캐릭터가 피격 후 공격자에게 자신 실드량 <color style='color:#f29e38;'>340.0%</color>만큼의 [<u class='infou'>진동</u>] 피해를 가한다. 해당 피해는 적을 처치할 수 없다",
+            "캐릭터가 피격 후 공격자에게 피격 전 실드량의 <color style='color:#f29e38;'>420.0%</color>만큼의 [<u class='infou'>진동</u>] 피해를 가한다. 해당 피해는 적을 처치할 수 없다"
         ],
         "SimpleDesc": [
-            "After a character is hit by an attack, deals <u class='infou'>Quake</u> DMG based on the current Shield effect on the attacked character.",
-            "After a character is hit by an attack, deals <u class='infou'>Quake</u> DMG on the attacking enemy based on the total Shield effect on the character before they were hit."
+            "캐릭터가 피격 후 현재 실드량에 따라 [<u class='infou'>진동</u>] 피해를 가한다",
+            "캐릭터가 피격 후 피격 전의 실드량에 따라 적에게 [<u class='infou'>진동</u>] 피해를 가한다"
         ],
         "Effects": [
             60000001
@@ -42,14 +42,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Divine Construct: Macrosegregation",
+        "Name": "신성 구축 • 거시적 편석",
         "Desc": [
-            "At the start of the battle, characters gain a special Shield that can absorb DMG equal to <color style='color:#f29e38;'>1.0%</color> of their Max HP. Whenever another Shield is gained, this special Shield will also strengthen in equal value. For every <color style='color:#f29e38;'>2.0</color> turn(s), this will be removed, and then this special Shield can be regained.",
-            "At the start of the battle, characters gain a special Shield that can absorb DMG equal to <color style='color:#f29e38;'>10.0%</color> of their Max HP. Whenever another Shield is gained, this special Shield will also strengthen by <color style='color:#f29e38;'>130.0%</color>. For every <color style='color:#f29e38;'>2.0</color> turn(s), this will be removed, and then this special Shield can be regained."
+            "전투 시작 시 캐릭터는 자신 HP 최대치 <color style='color:#f29e38;'>1.0%</color>만큼의 피해를 상쇄할 수 있는 특수 실드를 획득한다. 다른 실드 획득 시 해당 실드는 동등한 실드량이 증가한다. <color style='color:#f29e38;'>2.0</color>턴마다 해제되며 해제 후 해당 실드를 새로 획득한다",
+            "전투 시작 시 캐릭터는 자신 HP 최대치 <color style='color:#f29e38;'>10.0%</color>만큼의 피해를 상쇄할 수 있는 특수 실드를 획득한다. 다른 실드 획득 시 해당 실드는 획득 실드량 <color style='color:#f29e38;'>130.0%</color>의 실드량이 증가한다. <color style='color:#f29e38;'>2.0</color>턴마다 해제되며 해제 후 해당 실드를 다시 획득한다"
         ],
         "SimpleDesc": [
-            "When entering battle, characters gain a stackable special Shield. This Shield is reset every <color style='color:#f29e38;'>2.0</color> turn(s).",
-            "When entering battle, characters gain a stackable special Shield. This Shield is reset every <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "전투 시작 시 캐릭터는 중첩 가능한 특수 실드를 하나 획득한다. 해당 실드는 <color style='color:#f29e38;'>2.0</color>턴마다 리셋한다",
+            "전투 시작 시 캐릭터가 중첩 가능한 특수 실드를 하나 획득한다. 해당 실드는 <color style='color:#f29e38;'>2.0</color>턴마다 리셋된다"
         ],
         "Effects": []
     },
@@ -58,14 +58,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 2,
         "Icon": "/IconRogueKnight01.png",
-        "Name": "Interstellar Construct: Shear Structure",
+        "Name": "성간 구축 • 전단 구조",
         "Desc": [
-            "Characters deal <color style='color:#f29e38;'>10.0%</color> increased <u class='infou'>Quake</u> DMG to their target enemy, and enemies adjacent to it also take <u class='infou'>Quake</u> DMG equal to <color style='color:#f29e38;'>25.0%</color> of DMG dealt to the target enemy.",
-            "Characters deal <color style='color:#f29e38;'>15.0%</color> increased <u class='infou'>Quake</u> DMG to their target, and other targets also take <u class='infou'>Quake</u> DMG equal to <color style='color:#f29e38;'>30.0%</color> of DMG dealt to the target enemy."
+            "캐릭터가 적에게 가하는 [<u class='infou'>진동</u>] 피해가 <color style='color:#f29e38;'>10.0%</color> 증가하고, 동시에 인접한 적에게 주목표<color style='color:#f29e38;'>25.0%</color>만큼의 [<u class='infou'>회상</u>] 피해를 가한다",
+            "캐릭터가 적에게 가하는 [<u class='infou'>진동</u>] 피해가 <color style='color:#f29e38;'>15.0%</color> 증가하고, 동시에 다른 적에게 주목표<color style='color:#f29e38;'>30.0%</color>만큼의 [<u class='infou'>진동</u>] 피해를 가한다"
         ],
         "SimpleDesc": [
-            "<u class='infou'>Quake</u> DMG increases and affects enemies adjacent to the target enemy.",
-            "<u class='infou'>Quake</u> DMG increases and is Blasted to all enemies."
+            "[<u class='infou'>진동</u>]이 가하는 피해가 증가하고, 인접한 목표에게 확산된다",
+            "[<u class='infou'>진동</u>]이 가하는 피해가 증가하고, 모든 적에게 확산된다"
         ],
         "Effects": [
             60000001
@@ -76,14 +76,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 2,
         "Icon": "/IconRogueKnight01.png",
-        "Name": "Interstellar Construct: Burst Lattice",
+        "Name": "성간 구축 • 파열 격자",
         "Desc": [
-            "When a character deals <u class='infou'>Quake</u> DMG to an enemy target, there is a <color style='color:#f29e38;'>65.0%</color> base chance to cause the target to Bleed.",
-            "When a character deals <u class='infou'>Quake</u> DMG to an enemy target, there is a <color style='color:#f29e38;'>100.0%</color> base chance to cause the target to Bleed."
+            "캐릭터가 적에게 [<u class='infou'>진동</u>] 피해를 가할 시 <color style='color:#f29e38;'>65.0%</color>의 기본 확률로 해당 적을 열상 상태로 만든다",
+            "캐릭터가 적에게 [<u class='infou'>진동</u>] 피해를 가할 시 <color style='color:#f29e38;'>100.0%</color>의 기본 확률로 해당 적을 열상 상태로 만든다"
         ],
         "SimpleDesc": [
-            "<u class='infou'>Quake</u> has a chance of applying Bleed on the enemy.",
-            "<u class='infou'>Quake</u> has a high chance of applying Bleed to enemies."
+            "[<u class='infou'>진동</u>]은 일정 확률로 적을 열상 상태로 만든다",
+            "[<u class='infou'>진동</u>]은 높은 확률로 적을 열상 상태로 만든다"
         ],
         "Effects": [
             60000001
@@ -94,14 +94,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 2,
         "Icon": "/IconRogueKnight01.png",
-        "Name": "Interstellar Construct: Solid Solution",
+        "Name": "성간 구축 • 고용체 강화",
         "Desc": [
-            "Deals increased <u class='infou'>Quake</u> DMG to enemies. The amount of DMG increased is equal to <color style='color:#f29e38;'>80.0%</color> of the character's current DEF.",
-            "Deals increased <u class='infou'>Quake</u> DMG to enemies. The amount of DMG increased is equal to <color style='color:#f29e38;'>120.0%</color> of the character's current DEF."
+            "캐릭터가 적에게 [<u class='infou'>진동</u>]을 가하면 피해가 증가한다. 증가 수치는 캐릭터 현재 방어력의 <color style='color:#f29e38;'>80.0%</color>만큼이다",
+            "캐릭터가 적에게 [<u class='infou'>진동</u>]을 가하면 피해가 증가한다. 증가 수치는 캐릭터 현재 방어력의 <color style='color:#f29e38;'>120.0%</color>만큼이다"
         ],
         "SimpleDesc": [
-            "The DMG <u class='infou'>Quake</u> deals increases with the character's DEF.",
-            "The DMG <u class='infou'>Quake</u> deals increases with the character's DEF."
+            "[<u class='infou'>진동</u>]이 가하는 피해는 캐릭터의 방어력에 따라 증가한다",
+            "[<u class='infou'>진동</u>]이 가하는 피해는 캐릭터의 방어력에 따라 증가한다"
         ],
         "Effects": [
             60000001
@@ -112,14 +112,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 2,
         "Icon": "/IconRogueKnight01.png",
-        "Name": "Interstellar Construct: Safe Load",
+        "Name": "성간 구축 • 안전 하중",
         "Desc": [
-            "Shielded characters increase their ATK by <color style='color:#f29e38;'>40.0%</color> of the Shield effect on them, up to a maximum of <color style='color:#f29e38;'>120.0%</color> of their Base ATK.",
-            "Shielded characters increase their ATK by <color style='color:#f29e38;'>60.0%</color> of the Shield effect on them, up to a maximum of <color style='color:#f29e38;'>160.0%</color> of their Base ATK."
+            "실드를 보유한 캐릭터는 공격력이 자신 실드량 <color style='color:#f29e38;'>40.0%</color>만큼 증가한다. 단, 기초 공격력의 <color style='color:#f29e38;'>120.0%</color>를 초과하지 않는다",
+            "실드를 보유한 캐릭터는 공격력이 자신 실드량 <color style='color:#f29e38;'>60.0%</color>만큼 증가한다. 단, 기초 공격력의 <color style='color:#f29e38;'>160.0%</color>를 초과하지 않는다"
         ],
         "SimpleDesc": [
-            "Shielded characters increase their ATK based on the max DMG that can be absorbed by their current Shields.",
-            "Shielded characters increase their ATK based on the max DMG that can be absorbed by their current Shields."
+            "캐릭터의 현재 실드량에 따라 공격력이 증가한다",
+            "캐릭터의 현재 실드량에 따라 공격력이 증가한다"
         ],
         "Effects": []
     },
@@ -128,14 +128,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 2,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Interstellar Construct: Sanctuary",
+        "Name": "성간 구축 • 비호 보답",
         "Desc": [
-            "At the end of the turn, there is <color style='color:#f29e38;'>80.0%</color> fixed chance for characters to gain a Shield equal to <color style='color:#f29e38;'>12.0%</color> of their Max HP, lasting for <color style='color:#f29e38;'>1.0</color> turn(s).",
-            "At the end of the turn, characters gain a special Shield that can absorb DMG equal to <color style='color:#f29e38;'>15.0%</color> of their Max HP, lasting for <color style='color:#f29e38;'>1.0</color> turn(s)."
+            "턴 종료 시 캐릭터는 <color style='color:#f29e38;'>80.0%</color>의 고정 확률로 자신 HP 최대치 <color style='color:#f29e38;'>12.0%</color>만큼의 피해를 상쇄할 수 있는 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴",
+            "턴 종료 시 캐릭터는 자신 HP 최대치 <color style='color:#f29e38;'>15.0%</color>만큼의 피해를 상쇄할 수 있는 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴"
         ],
         "SimpleDesc": [
-            "Characters have a high chance of receiving a Shield at the end of the turn.",
-            "Characters receive a Shield at the end of the turn."
+            "턴 종료 시 캐릭터가 높은 확률로 실드를 획득한다",
+            "턴 종료 시 캐릭터가 실드를 획득한다"
         ],
         "Effects": []
     },
@@ -144,14 +144,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 2,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Interstellar Construct: Quadrangular Pyramid",
+        "Name": "성간 구축 • 사각뿔",
         "Desc": [
-            "Increase the max DMG that can be absorbed by Shields created by characters by <color style='color:#f29e38;'>30.0%</color>.",
-            "When characters' gain a Shield, increases the max DMG that can be absorbed by the Shield by <color style='color:#f29e38;'>35.0%</color>."
+            "캐릭터가 제공하는 실드량이 <color style='color:#f29e38;'>30.0%</color> 증가한다",
+            "실드 획득 시 캐릭터가 획득하는 실드량이 <color style='color:#f29e38;'>35.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Increases the max DMG that can be absorbed by Shields created by characters.",
-            "When a character receives a Shield, increases the max DMG that can be absorbed by the Shield."
+            "캐릭터가 제공하는 실드량이 증가한다",
+            "실드 획득 시 캐릭터가 획득하는 실드량이 증가한다"
         ],
         "Effects": []
     },
@@ -160,14 +160,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 2,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Interstellar Construct: Hypoeutectoid",
+        "Name": "성간 구축 • 아공정",
         "Desc": [
-            "When a character provides Shields to allies, this character gains a Shield that can absorb DMG equal to <color style='color:#f29e38;'>24.0%</color> of the provided Shield for <color style='color:#f29e38;'>2.0</color> turn(s).",
-            "When a character provides Shields to allies, this character gains a Shield that can absorb DMG equal to <color style='color:#f29e38;'>36.0%</color> of the provided Shield for <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "캐릭터가 아군에게 실드 제공 시 자신의 기존 실드량의 <color style='color:#f29e38;'>24.0%</color>만큼의 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴",
+            "캐릭터가 아군에게 실드 제공 시 자신의 기존 실드량의 <color style='color:#f29e38;'>36.0%</color>만큼의 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         ],
         "SimpleDesc": [
-            "Characters also receive a Shield when creating Shield(s) for allied targets.",
-            "Characters also receive a Shield when creating Shield(s) for allied targets."
+            "캐릭터가 아군에게 실드 제공 시 자신도 실드를 획득한다",
+            "캐릭터가 아군에게 실드 제공 시 자신도 실드를 획득한다"
         ],
         "Effects": []
     },
@@ -176,14 +176,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 1,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Construct: Assemble",
+        "Name": "구축 • 조립",
         "Desc": [
-            "Characters gain a <color style='color:#f29e38;'>6.0%</color> DEF increase for each Preservation Blessing, stacking up to a max of <color style='color:#f29e38;'>6.0</color> time(s).",
-            "Characters gain a <color style='color:#f29e38;'>8.0%</color> DEF increase for each Preservation Blessing, stacking up to a max of <color style='color:#f29e38;'>9.0</color> time(s)."
+            "「보존」의 축복을 1개 보유할 때마다 캐릭터의 방어력이 <color style='color:#f29e38;'>6.0%</color> 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>6.0</color>스택",
+            "「보존」의 축복을 1개 보유할 때마다 캐릭터의 방어력이 <color style='color:#f29e38;'>8.0%</color> 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>9.0</color>스택"
         ],
         "SimpleDesc": [
-            "The more Blessings of Preservation the team has, the higher the characters' DEF becomes.",
-            "The more Blessings of Preservation the team has, the higher the characters' DEF becomes."
+            "「보존」의 축복이 많을수록 캐릭터의 방어력이 증가한다",
+            "「보존」의 축복이 많을수록 캐릭터의 방어력이 증가한다"
         ],
         "Effects": []
     },
@@ -192,14 +192,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 1,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Construct: Sentinel",
+        "Name": "구축 • 경계",
         "Desc": [
-            "Upon entering battle, characters gain a Shield equal to <color style='color:#f29e38;'>16.0%</color> of their Max HP, lasting for <color style='color:#f29e38;'>2.0</color> turn(s).",
-            "Upon entering battle, characters gain a Shield equal to <color style='color:#f29e38;'>24.0%</color> of their Max HP, lasting for <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "전투 진입 시 캐릭터는 자신 HP 최대치 <color style='color:#f29e38;'>16.0%</color>만큼의 피해를 상쇄할 수 있는 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴",
+            "전투 진입 시 캐릭터는 자신 HP 최대치 <color style='color:#f29e38;'>24.0%</color>만큼의 피해를 상쇄할 수 있는 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         ],
         "SimpleDesc": [
-            "When entering battle, all characters gain a Shield.",
-            "Upon entering battle, all characters gain a Shield."
+            "전투 진입 시 모든 아군이 실드를 획득한다",
+            "전투 진입 시 모든 아군이 실드를 획득한다"
         ],
         "Effects": []
     },
@@ -208,14 +208,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 1,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Construct: Patch",
+        "Name": "구축 • 보충",
         "Desc": [
-            "After a character is attacked, they gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'>18.0%</color> of the HP lost during this attack, lasting for <color style='color:#f29e38;'>1.0</color> turn(s).",
-            "After a character is attacked, they gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'>18.0%</color> of the HP lost during this attack, lasting for <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "캐릭터가 피격 후 이번 공격 동안 잃은 HP의 <color style='color:#f29e38;'>18.0%</color>만큼 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴",
+            "캐릭터가 피격 후 이번 공격 동안 잃은 HP의 <color style='color:#f29e38;'>18.0%</color>만큼 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         ],
         "SimpleDesc": [
-            "After being hit, characters gain a Shield based on the HP lost in this attack.",
-            "After being hit, characters gain a Shield based on the HP lost in this attack."
+            "캐릭터가 피격 후 이번 공격으로 잃은 HP에 따라 실드를 획득한다",
+            "캐릭터가 피격 후 이번 공격으로 잃은 HP에 따라 실드를 획득한다"
         ],
         "Effects": []
     },
@@ -224,14 +224,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 1,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Construct: Compensation",
+        "Name": "구축 • 보상",
         "Desc": [
-            "After a character inflicts Weakness Break on an enemy, characters gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'>14.0%</color> of their Max HP, lasting for <color style='color:#f29e38;'>2.0</color> turn(s).",
-            "After a character inflicts Weakness Break on an enemy, characters gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'>18.0%</color> of their Max HP, lasting for <color style='color:#f29e38;'>3.0</color> turn(s)."
+            "캐릭터가 적 약점 격파 후 자신 HP 최대치 <color style='color:#f29e38;'>14.0%</color>만큼의 피해를 상쇄할 수 있는 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴",
+            "캐릭터가 적 약점 격파 후 자신 HP 최대치 <color style='color:#f29e38;'>18.0%</color>만큼의 피해를 상쇄할 수 있는 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>3.0</color>턴"
         ],
         "SimpleDesc": [
-            "When a character inflicts Weakness Break on a target, the character gains a Shield.",
-            "When a character inflicts Weakness Break on a target, the character gains a Shield."
+            "캐릭터가 적 약점 격파 시 실드를 획득한다",
+            "캐릭터가 적 약점 격파 시 실드를 획득한다"
         ],
         "Effects": []
     },
@@ -240,14 +240,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 1,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Construct: Firmness",
+        "Name": "구축 • 확고",
         "Desc": [
-            "Shielded characters take <color style='color:#f29e38;'>16.0%</color> less DMG.",
-            "Shielded characters take <color style='color:#f29e38;'>24.0%</color> less DMG."
+            "실드를 보유한 캐릭터가 받는 피해가 <color style='color:#f29e38;'>16.0%</color> 감소한다",
+            "실드를 보유한 캐릭터가 받는 피해가 <color style='color:#f29e38;'>24.0%</color> 감소한다"
         ],
         "SimpleDesc": [
-            "Shielded Characters receive reduced DMG.",
-            "Shielded Characters receive reduced DMG."
+            "실드를 보유한 캐릭터가 받는 피해가 감소한다",
+            "실드를 보유한 캐릭터가 받는 피해가 감소한다"
         ],
         "Effects": []
     },
@@ -256,14 +256,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 1,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Construct: Rotation",
+        "Name": "구축 • 회전",
         "Desc": [
-            "When a character gains a Shield, there is a <color style='color:#f29e38;'>20.0%</color> fixed chance to dispel 1 debuff that is currently placed on the character.",
-            "When a character gains a Shield, there is a <color style='color:#f29e38;'>30.0%</color> fixed chance to dispel 1 debuff that is currently placed on the character."
+            "캐릭터는 실드 획득 시 <color style='color:#f29e38;'>20.0%</color>의 고정 확률로 자신의 디버프 효과를 1개 해제한다",
+            "캐릭터는 실드 획득 시 <color style='color:#f29e38;'>30.0%</color>의 고정 확률로 자신의 디버프 효과를 1개 해제한다"
         ],
         "SimpleDesc": [
-            "When a character receives a shield, there is a small chance of removing a debuff currently on them.",
-            "When a character receives a Shield, there is a small chance of removing a debuff currently on them."
+            "캐릭터가 실드 획득 시 낮은 확률로 디버프 효과를 1개 해제한다",
+            "캐릭터가 실드 획득 시 낮은 확률로 디버프 효과를 1개 해제한다"
         ],
         "Effects": []
     },
@@ -272,14 +272,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 1,
         "Icon": "/IconRogueKnight01.png",
-        "Name": "Construct: Burst",
+        "Name": "구축 • 분출",
         "Desc": [
-            "Increases the CRIT DMG of Shielded characters by <color style='color:#f29e38;'>30.0%</color>.",
-            "Increases the CRIT DMG of Shielded characters by <color style='color:#f29e38;'>45.0%</color>."
+            "실드를 보유한 캐릭터의 치명타 피해가 <color style='color:#f29e38;'>30.0%</color> 증가한다",
+            "실드를 보유한 캐릭터의 치명타 피해가 <color style='color:#f29e38;'>45.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Shielded Characters have increased CRIT DMG.",
-            "Shielded Characters have increased CRIT DMG."
+            "실드를 보유한 캐릭터의 치명타 피해가 증가한다",
+            "실드를 보유한 캐릭터의 치명타 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -288,14 +288,14 @@ var _blessing = [
         "Path": 120,
         "Rarity": 1,
         "Icon": "/IconRogueKnight01.png",
-        "Name": "Construct: Concentration",
+        "Name": "구축 • 집중",
         "Desc": [
-            "Increases the CRIT Rate of Shielded characters by <color style='color:#f29e38;'>16.0%</color>.",
-            "Increases the CRIT Rate of Shielded characters by <color style='color:#f29e38;'>24.0%</color>."
+            "실드를 보유한 캐릭터의 치명타 확률이 <color style='color:#f29e38;'>16.0%</color> 증가한다",
+            "실드를 보유한 캐릭터의 치명타 확률이 <color style='color:#f29e38;'>24.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Shielded Characters have increased CRIT Rate.",
-            "Shielded Characters have increased CRIT Rate."
+            "실드를 보유한 캐릭터의 치명타 확률이 증가한다",
+            "실드를 보유한 캐릭터의 치명타 확률이 증가한다"
         ],
         "Effects": []
     },
@@ -304,14 +304,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "Funeral of Sensory Pursuivant",
+        "Name": "감각 추종자의 장례",
         "Desc": [
-            "Every time an enemy takes DMG from a DoT, applies <color style='color:#f29e38;'>1.0</color> stack(s) of <u class='infou'>Suspicion</u>.",
-            "Every time an enemy receives DoT, apply <color style='color:#f29e38;'>1.0</color> stack(s) of <u class='infou'>Suspicion</u>. <u class='infou'>Suspicion</u> stacks will not be reduced."
+            "적이 지속 피해를 1회 받을 때마다 <color style='color:#f29e38;'>1.0</color>스택 [<u class='infou'>의심</u>] 상태에 빠진다",
+            "적이 지속 피해를 1회 받을 때마다 <color style='color:#f29e38;'>1.0</color>스택 [<u class='infou'>의심</u>] 상태에 빠진다. [<u class='infou'>의심</u>]의 스택 수는 감소하지 않는다"
         ],
         "SimpleDesc": [
-            "Every time an enemy takes DMG from a DoT, apply <color style='color:#f29e38;'>1.0</color> stack(s) of <u class='infou'>Suspicion</u> on them.",
-            "Every time an enemy takes DMG from a DoT, applies <color style='color:#f29e38;'>1.0</color> stack(s) of <u class='infou'>Suspicion</u> on the enemy. <u class='infou'>Suspicion</u> stacks cannot be reduced."
+            "적이 지속 피해를 1회 받을 때마다 <color style='color:#f29e38;'>1.0</color>스택의 [<u class='infou'>의심</u>] 에 빠진다",
+            "적이 지속 피해를 1회 받을 때마다 <color style='color:#f29e38;'>1.0</color>스택의 [<u class='infou'>의심</u>]에 빠진다. [<u class='infou'>의심</u>]의 스택 수는 감소하지 않는다"
         ],
         "Effects": [
             60000012
@@ -322,14 +322,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "The Man in the Cover",
+        "Name": "상자에 갇힌 인간",
         "Desc": [
-            "Every time an enemy is afflicted with a DoT, apply <color style='color:#f29e38;'>3.0</color> stack(s) of <u class='infou'>Suspicion</u>.",
-            "Every time an enemy is afflicted with a DoT, apply <color style='color:#f29e38;'>3.0</color> stack(s) of <u class='infou'>Suspicion</u>. Every time the DoT refreshes, apply <color style='color:#f29e38;'>1.0</color> stack(s) of <u class='infou'>Suspicion</u>."
+            "적이 지속 피해에 빠질 때마다 <color style='color:#f29e38;'>3.0</color>스택 [<u class='infou'>의심</u>] 상태에 빠진다",
+            "적이 지속 피해에 빠질 때마다 <color style='color:#f29e38;'>3.0</color>스택 [<u class='infou'>의심</u>] 상태에 빠진다. 지속 피해가 갱신할 때마다 <color style='color:#f29e38;'>1.0</color>스택 [<u class='infou'>의심</u>] 상태에 빠진다"
         ],
         "SimpleDesc": [
-            "Every time an enemy is afflicted with a DoT state, apply <color style='color:#f29e38;'>3.0</color> stack(s) of <u class='infou'>Suspicion</u> on them.",
-            "Every time an enemy is afflicted with a DoT state, apply <color style='color:#f29e38;'>3.0</color> stack(s) of <u class='infou'>Suspicion</u> on them. Every time the DoT countdown timer refreshes, apply <color style='color:#f29e38;'>1.0</color> stack(s) of <u class='infou'>Suspicion</u> on them."
+            "적이 지속 피해에 빠질 때마다 <color style='color:#f29e38;'>3.0</color>스택의 [<u class='infou'>의심</u>]에 빠진다",
+            "적이 지속 피해에 빠질 때마다 <color style='color:#f29e38;'>3.0</color>스택의 [<u class='infou'>의심</u>]에 빠진다. 갱신 시 <color style='color:#f29e38;'>1.0</color>스택의 [<u class='infou'>의심</u>]에 빠진다"
         ],
         "Effects": [
             60000012
@@ -340,14 +340,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "Why Hasn't Everything Already Disappeared?",
+        "Name": "모든 것이 사라지지 않는 이유",
         "Desc": [
-            "At the beginning of an enemy's turn, trigger extra DoT <color style='color:#f29e38;'>1.0</color> times, dealing DMG equal to <color style='color:#f29e38;'>90.0%</color> of the original DoT.",
-            "At the beginning of an enemy's turn, trigger extra DoT <color style='color:#f29e38;'>1.0</color> times, dealing DMG equal to <color style='color:#f29e38;'>135.0%</color> of the original DoT."
+            "적의 턴 시작 시 추가로 지속 피해 정산을 <color style='color:#f29e38;'>1.0</color>회 발동해 현재 대상이 받고 있는 지속 상태가 즉시 기존 피해의 <color style='color:#f29e38;'>90.0%</color>만큼 피해를 생성하게 한다",
+            "적의 턴 시작 시 추가로 지속 피해 정산을 <color style='color:#f29e38;'>1.0</color>회 발동해 현재 대상이 받고 있는 지속 상태가 즉시 기존 피해의 <color style='color:#f29e38;'>135.0%</color>만큼 피해를 생성하게 한다"
         ],
         "SimpleDesc": [
-            "At the start of an enemy's turn, all DoT sources on it are triggered <color style='color:#f29e38;'>1.0</color> extra time(s).",
-            "At the start of an enemy's turn, all DoT sources on it are triggered <color style='color:#f29e38;'>1.0</color> extra time(s)."
+            "적이 턴을 시작하면 지속 피해가 추가로 <color style='color:#f29e38;'>1.0회</color> 발동된다",
+            "적이 턴을 시작하면 지속 피해가 추가로 <color style='color:#f29e38;'>1.0회</color> 발동된다"
         ],
         "Effects": []
     },
@@ -356,14 +356,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 2,
         "Icon": "/IconRogueWarlock05.png",
-        "Name": "Beginning and End",
+        "Name": "시작과 끝",
         "Desc": [
-            "When an enemy inflicted with <u class='infou'>Suspicion</u> is defeated, inflicts the same number of stacks of <u class='infou'>Suspicion</u> the defeated enemy has on <color style='color:#f29e38;'>1.0</color> random enemy target(s).",
-            "When an enemy inflicted with <u class='infou'>Suspicion</u> is defeated, inflicts the same number of stacks of <u class='infou'>Suspicion</u> the defeated enemy has on <color style='color:#f29e38;'>2.0</color> random enemy target(s)."
+            "[<u class='infou'>의심</u>] 효과를 보유한 적을 처치하면 임의의 적 <color style='color:#f29e38;'>1.0</color>기에게 처치된 적의 [<u class='infou'>의심</u>] 스택 수 만큼의 [<u class='infou'>의심</u>] 효과를 부여한다",
+            "[<u class='infou'>의심</u>] 효과를 보유한 적을 처치하면 임의의 적 <color style='color:#f29e38;'>2.0</color>기에게 처치된 적의 [<u class='infou'>의심</u>] 스택 수 만큼의 [<u class='infou'>의심</u>] 효과를 부여한다"
         ],
         "SimpleDesc": [
-            "When an enemy afflicted with <u class='infou'>Suspicion</u> is defeated, transfers the defeated enemy's <u class='infou'>Suspicion</u> stacks to <color style='color:#f29e38;'>1.0</color> random enemy target(s).",
-            "When an enemy afflicted with <u class='infou'>Suspicion</u> is defeated, transfers the defeated enemy's <u class='infou'>Suspicion</u> stacks to <color style='color:#f29e38;'>2.0</color> random enemy target(s)."
+            "[<u class='infou'>의심</u>] 효과를 보유한 적을 처치하면 해당 적의 스택이 임의의 적 <color style='color:#f29e38;'>1.0</color>기기에게 이전된다",
+            "[<u class='infou'>의심</u>] 효과를 보유한 적을 처치하면 해당 적의 스택이 임의의 적 <color style='color:#f29e38;'>2.0</color>기기에게 이전된다"
         ],
         "Effects": [
             60000012
@@ -374,14 +374,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 2,
         "Icon": "/IconRogueWarlock05.png",
-        "Name": "Café Self-Deceit",
+        "Name": "양심 없는 커피숍",
         "Desc": [
-            "When an enemy has <u class='infou'>Suspicion</u> on them, inflicts <color style='color:#f29e38;'>1.0</color> extra stack(s) of <u class='infou'>Suspicion</u>.",
-            "When an enemy is inflicted with <u class='infou'>Suspicion</u>, the stacks it gains are doubled."
+            "적은 [<u class='infou'>의심</u>] 효과에 빠질 시 추가로 <color style='color:#f29e38;'>1.0</color>스택 [<u class='infou'>의심</u>] 효과에 빠진다",
+            "적이 [<u class='infou'>의심</u>] 효과에 빠질 시 스택 수가 2배로 증가한다"
         ],
         "SimpleDesc": [
-            "When an enemy becomes afflicted with <u class='infou'>Suspicion</u>, apply <color style='color:#f29e38;'>1.0</color> extra stack(s) of <u class='infou'>Suspicion</u> on them.",
-            "When an enemy is afflicted with <u class='infou'>Suspicion</u>, the stacks they gains is doubled."
+            "적이 [<u class='infou'>의심</u>]에 빠지면 <color style='color:#f29e38;'>1.0</color>스택이 추가된다",
+            "적이 [<u class='infou'>의심</u>] 상태에 빠지면 스택 수가 2배로 증가한다"
         ],
         "Effects": [
             60000012
@@ -392,14 +392,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 2,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "Call of the Wilderness",
+        "Name": "광야의 부름",
         "Desc": [
-            "For every stack of <u class='infou'>Suspicion</u> the enemies have, reduces their ATK by <color style='color:#f29e38;'>0.3%</color>, up to a max of <color style='color:#f29e38;'>30.0%</color>.",
-            "For every stack of <u class='infou'>Suspicion</u> the enemies have, reduces their ATK by <color style='color:#f29e38;'>0.4%</color>, up to a max of <color style='color:#f29e38;'>30.0%</color>, and reduces their Effect RES by <color style='color:#f29e38;'>0.4%</color>, up to a max of <color style='color:#f29e38;'>30.0%</color>."
+            "모든 적은 [<u class='infou'>의심</u>] 효과 1스택마다 공격력이 <color style='color:#f29e38;'>0.3%</color>씩 감소한다. 최대 <color style='color:#f29e38;'>30.0%</color> 감소한다",
+            "모든 적이 보유한 [<u class='infou'>의심</u>] 효과 1스택마다 공격력이 <color style='color:#f29e38;'>0.4%</color> 감소하고 최대 <color style='color:#f29e38;'>30.0%</color> 감소한다. 또한, 효과 저항이 <color style='color:#f29e38;'>0.4%</color> 감소하고, 최대 <color style='color:#f29e38;'>30.0%</color> 감소한다"
         ],
         "SimpleDesc": [
-            "Decreases the target enemy's ATK based on the total stacks of <u class='infou'>Suspicion</u> on the enemy team.",
-            "Decreases the target enemy's ATK and Effect RES based on the total stacks of <u class='infou'>Suspicion</u> on the enemy team."
+            "모든 적의 [<u class='infou'>의심</u>] 상태 총 스택 수에 따라 해당 적의 공격력이 감소한다",
+            "모든 적의 [<u class='infou'>의심</u>] 상태 총 스택 수에 따라 해당 적의 공격력과 효과 저항이 감소한다"
         ],
         "Effects": [
             60000012
@@ -410,14 +410,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 2,
         "Icon": "/IconRogueWarlock03.png",
-        "Name": "Night Beyond Pyre",
+        "Name": "불더미 밖의 밤",
         "Desc": [
-            "Increases Weakness Break efficiency by <color style='color:#f29e38;'>30.0%</color>.",
-            "Increases Weakness Break efficiency by <color style='color:#f29e38;'>45.0%</color>."
+            "캐릭터의 약점 격파 효율이 <color style='color:#f29e38;'>30.0%</color> 증가한다",
+            "캐릭터의 약점 격파 효율이 <color style='color:#f29e38;'>45.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Characters' Weakness Break efficiency increases.",
-            "Characters' Weakness Break efficiency increases."
+            "캐릭터의 약점 격파 효율이 증가한다",
+            "캐릭터의 약점 격파 효율이 증가한다"
         ],
         "Effects": []
     },
@@ -426,14 +426,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 2,
         "Icon": "/IconRogueWarlock05.png",
-        "Name": "Hell is Other People",
+        "Name": "타인은 지옥",
         "Desc": [
-            "When a character inflicts Weakness Break on an enemy, the same type of Weakness Break effect is applied to enemies adjacent to it.",
-            "When a character inflicts Weakness Break on an enemy, the same type of Weakness Break effect is applied to all enemies."
+            "캐릭터가 적 약점 격파 시 추가로 인접한 목표에게 같은 속성의 약점 격파 효과를 부여한다",
+            "캐릭터가 적의 약점 격파 시 추가로 모든 적에게 같은 속성의 약점 격파 효과를 부여한다"
         ],
         "SimpleDesc": [
-            "When a character Breaks an enemy's Weakness, enemies adjacent to it will also have their Weaknesses Broken.",
-            "When a character Breaks an enemy's Weakness, all enemies will also have their Weaknesses Broken."
+            "캐릭터가 적 약점 격파 시 인접한 목표에게도 약점 격파 효과를 부여한다",
+            "캐릭터가 적 약점 격파 시 모든 적에게 약점 격파 효과를 부여한다"
         ],
         "Effects": []
     },
@@ -442,14 +442,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 2,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "Twilight of Existence",
+        "Name": "존재의 황혼",
         "Desc": [
-            "When hitting a Weakness Broken enemy, there is a <color style='color:#f29e38;'>75.0%</color> base chance to apply Burn, Shock, Bleed, or Wind Shear on the enemy for <color style='color:#f29e38;'>2.0</color> turn(s).",
-            "When hitting a Weakness Broken enemy, there is a <color style='color:#f29e38;'>75.0%</color> base chance to inflict Burn, Shock, Bleed, or Wind Shear on the enemy for <color style='color:#f29e38;'>2.0</color> turn(s), and dispels 1 debuff currently on the attacker."
+            "약점 격파 상태의 적은 피격 후 <color style='color:#f29e38;'>75.0%</color>의 기본 확률로 연소, 감전, 열상, 풍화 상태 중 하나에 빠진다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴",
+            "약점 격파 상태의 적은 피격 후 <color style='color:#f29e38;'>75.0%</color>의 기본 확률로 연소, 감전, 열상, 풍화 상태 중 하나에 빠진다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴. 공격자의 디버프 효과 1개를 해제한다"
         ],
         "SimpleDesc": [
-            "If an enemy's Weakness is Broken after receiving an attack, there is a chance for them to be inflicted with a random DoT.",
-            "When hitting a Weakness Broken enemy, there's a chance of inflicting a random DoT and at the same time 1 debuff will be removed from the attacker."
+            "피격된 적이 약점 격파 상태일 경우 일정 확률로 임의의 지속 피해에 빠진다",
+            "피격된 적이 약점 격파 상태일 경우 일정 확률로 임의의 지속 피해에 빠지고, 공격자의 디버프 효과를 1개 해제한다"
         ],
         "Effects": []
     },
@@ -458,14 +458,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 2,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "All Things are Possible",
+        "Name": "근거 없는 찬가",
         "Desc": [
-            "If an enemy is attacked while under any DoT statuses, a random DoT will be triggered, dealing DMG equal to <color style='color:#f29e38;'>100.0%</color> of the DoT.",
-            "If an enemy is attacked while under any DoT statuses, a random DoT will be triggered, dealing DMG equal to <color style='color:#f29e38;'>150.0%</color> of the DoT."
+            "지속 피해 상태의 적은 피격 후 랜덤으로 지속 피해를 1개 발동하여 해당 적에게 기존 지속 피해 <color style='color:#f29e38;'>100.0%</color>만큼의 피해를 준다",
+            "지속 피해 상태의 적은 피격 후 랜덤으로 지속 피해를 1개 발동하여 해당 적에게 기존 지속 피해 <color style='color:#f29e38;'>150.0%</color>만큼의 피해를 준다"
         ],
         "SimpleDesc": [
-            "If an enemy is under any DoT status when receiving an attack, they will take DMG from a random DoT on them.",
-            "If an enemy is under any DoT status when receiving an attack, they will take DMG from a random DoT on them."
+            "피격된 적이 지속 피해 상태일 시 랜덤으로 지속 피해 1개를 발동한다",
+            "피격된 적이 지속 피해 상태일 시 랜덤으로 지속 피해 1개를 발동한다"
         ],
         "Effects": []
     },
@@ -474,14 +474,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 1,
         "Icon": "/IconRogueWarlock01.png",
-        "Name": "Ignosticism",
+        "Name": "경시 주의",
         "Desc": [
-            "Gains a <color style='color:#f29e38;'>6.0%</color> DoT increase for each Nihility Blessing. This effect can stack up to a max of <color style='color:#f29e38;'>6.0</color> time(s).",
-            "Gains a <color style='color:#f29e38;'>8.0%</color> DoT increase for each Nihility Blessing. This effect can stack up to a max of <color style='color:#f29e38;'>9.0</color> time(s)."
+            "「공허」의 축복을 1개 보유할 때마다 캐릭터가 가하는 지속 피해가 <color style='color:#f29e38;'>6.0%</color>씩 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>6.0</color>스택",
+            "「공허」의 축복을 1개 보유할 때마다 캐릭터가 가하는 지속 피해가 <color style='color:#f29e38;'>8.0%</color>씩 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>9.0</color>스택"
         ],
         "SimpleDesc": [
-            "The more Blessings of Nihility the team has, the higher the characters' DoT becomes.",
-            "The more Blessings of Nihility the team has, the higher the characters' DoT becomes."
+            "「공허」의 축복이 많을수록 캐릭터가 가하는 지속 피해가 증가한다",
+            "「공허」의 축복이 많을수록 캐릭터가 가하는 지속 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -490,14 +490,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 1,
         "Icon": "/IconRogueWarlock03.png",
-        "Name": "Questioning of Purpose",
+        "Name": "의의 질문",
         "Desc": [
-            "Increases characters' Break Effect by <color style='color:#f29e38;'>50.0%</color>.",
-            "Increases characters' Break Effect by <color style='color:#f29e38;'>75.0%</color>."
+            "캐릭터의 격파 특수효과가 <color style='color:#f29e38;'>50.0%</color> 증가한다",
+            "캐릭터의 격파 특수효과가 <color style='color:#f29e38;'>75.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Increases Break Effect.",
-            "Increases Break Effect."
+            "캐릭터의 격파 특수효과가 증가한다",
+            "캐릭터의 격파 특수효과가 증가한다"
         ],
         "Effects": []
     },
@@ -506,14 +506,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 1,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "Blind Vision",
+        "Name": "맹목적 시야",
         "Desc": [
-            "Reduces enemies' Effect RES by <color style='color:#f29e38;'>12.0%</color>.",
-            "Reduces enemies' Effect RES by <color style='color:#f29e38;'>18.0%</color>."
+            "적의 효과 저항이 <color style='color:#f29e38;'>12.0%</color> 감소한다",
+            "적의 효과 저항이 <color style='color:#f29e38;'>18.0%</color> 감소한다"
         ],
         "SimpleDesc": [
-            "Reduces target enemy's Effect RES.",
-            "Reduces target enemy's Effect RES."
+            "적의 효과 저항이 감소한다",
+            "적의 효과 저항이 감소한다"
         ],
         "Effects": []
     },
@@ -522,14 +522,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 1,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "Tragic Lecture",
+        "Name": "비극 강좌",
         "Desc": [
-            "Increases DoT taken by enemies by <color style='color:#f29e38;'>10.0%</color>.",
-            "Increases DoT taken by enemies by <color style='color:#f29e38;'>15.0%</color>."
+            "적이 받는 지속 피해가 <color style='color:#f29e38;'>10.0%</color> 증가한다",
+            "적이 받는 지속 피해가 <color style='color:#f29e38;'>15.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Enemies take increased DMG from DoTs.",
-            "Enemies take increased DMG from DoTs."
+            "적이 받는 지속 피해가 증가한다",
+            "적이 받는 지속 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -538,14 +538,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 1,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "Sensory Labyrinth",
+        "Name": "지각의 장벽",
         "Desc": [
-            "Extends the duration of Wind Shear, Bleed, Shock, and Burn on enemies by <color style='color:#f29e38;'>1.0</color> turn(s).",
-            "Extends the duration of Wind Shear, Bleed, Shock, and Burn on enemies by <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "적의 풍화/열상/감전/연소 상태의 지속 시간이 <color style='color:#f29e38;'>1.0</color>턴 연장된다",
+            "적의 풍화/열상/감전/연소 상태의 지속 시간이 <color style='color:#f29e38;'>2.0</color>턴 연장된다"
         ],
         "SimpleDesc": [
-            "Extends the duration of Wind Shear, Bleed, Shock, and Burn on enemies by <color style='color:#f29e38;'>1.0</color> turn(s).",
-            "Extends the duration of Wind Shear, Bleed, Shock, and Burn on enemies by <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "적의 풍화/열상/감전/연소 상태의 지속 시간이 <color style='color:#f29e38;'>1.0</color>턴 연장된다",
+            "적의 풍화/열상/감전/연소 상태의 지속 시간이 <color style='color:#f29e38;'>2.0</color>턴 연장된다"
         ],
         "Effects": []
     },
@@ -554,14 +554,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 1,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "Emotional Decluttering",
+        "Name": "감정 쓰레기통",
         "Desc": [
-            "Every time an enemy target is afflicted with a DoT status, the DMG taken by them increases by <color style='color:#f29e38;'>3.0%</color>. This effect can stack up to <color style='color:#f29e38;'>4.0</color> time(s).",
-            "Every time an enemy target is afflicted with a DoT status, the DMG taken by them increases by <color style='color:#f29e38;'>4.0%</color>. This effect can stack up to <color style='color:#f29e38;'>5.0</color> time(s)."
+            "적이 1가지 지속 피해 상태에 빠질 때마다 해당 적이 받는 피해가 <color style='color:#f29e38;'>3.0%</color>씩 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>4.0</color>스택",
+            "적이 1가지 지속 피해 상태에 빠질 때마다 해당 적이 받는 피해가 <color style='color:#f29e38;'>4.0%</color>씩 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>5.0</color>스택"
         ],
         "SimpleDesc": [
-            "The more DoTs the enemy has, the more DMG they will receive from all sources.",
-            "The more DoTs the enemy has, the more DMG they will receive from all sources."
+            "적이 받는 지속 피해가 많을수록 받는 피해가 증가한다",
+            "적이 받는 지속 피해가 많을수록 받는 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -570,14 +570,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 1,
         "Icon": "/IconRogueWarlock02.png",
-        "Name": "Offerings of Deception",
+        "Name": "허망의 제물",
         "Desc": [
-            "Every time an enemy takes DMG from a DoT, all allies restore HP equal to <color style='color:#f29e38;'>1.0%</color> of their respective Max HP.",
-            "Every time an enemy takes DMG from a DoT, all allies restore HP equal to <color style='color:#f29e38;'>1.5%</color> of their respective Max HP."
+            "적이 지속 피해를 1회 받을 때마다 모든 아군의 HP가 각자 HP 최대치의 <color style='color:#f29e38;'>1.0%</color>만큼 회복한다",
+            "적이 지속 피해를 1회 받을 때마다 모든 아군의 HP가 각자 HP 최대치의 <color style='color:#f29e38;'>1.5%</color>만큼 회복한다"
         ],
         "SimpleDesc": [
-            "Every time an enemy takes DMG from a DoT, all characters restore HP.",
-            "Every time an enemy takes DMG from a DoT, all characters restore HP."
+            "적이 지속 피해를 받을 때마다 모든 아군의 HP가 회복된다",
+            "적이 지속 피해를 받을 때마다 모든 아군의 HP가 회복된다"
         ],
         "Effects": []
     },
@@ -586,14 +586,14 @@ var _blessing = [
         "Path": 122,
         "Rarity": 1,
         "Icon": "/IconRogueWarlock03.png",
-        "Name": "Before Sunrise",
+        "Name": "해 뜨기 전",
         "Desc": [
-            "Every time an enemy receives a DoT, <color style='color:#f29e38;'>2.0</color> Energy is regenerated for a random ally.",
-            "Every time an enemy receives a DoT, <color style='color:#f29e38;'>3.0</color> Energy is regenerated for a random ally."
+            "적이 지속 피해를 1회 받을 때마다 임의 아군의 에너지를 <color style='color:#f29e38;'>2.0</color>pt씩 회복한다",
+            "적이 지속 피해를 1회 받을 때마다 임의 아군의 에너지를 <color style='color:#f29e38;'>3.0</color>pt씩 회복한다"
         ],
         "SimpleDesc": [
-            "Every time an enemy takes DMG from a DoT, a random ally regenerates Energy.",
-            "Every time an enemy takes DMG from a DoT, a random ally regenerates Energy."
+            "적이 지속 피해를 받을 때마다 임의 아군의 에너지가 회복된다",
+            "적이 지속 피해를 받을 때마다 임의 아군의 에너지가 회복된다"
         ],
         "Effects": []
     },
@@ -602,14 +602,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/IconRoguePirest01.png",
-        "Name": "Prosperity, Longevity",
+        "Name": "꽃이 피고 질때까지 오랜 세월 장수한다",
         "Desc": [
-            "Charges <u class='infou'>Dewdrop</u> when a character's HP is restored. The Charge value is equal to <color style='color:#f29e38;'>100.0%</color> of the amount of healing received.",
-            "Charges <u class='infou'>Dewdrop</u> when a character's HP is restored. The Charge value is equal to <color style='color:#f29e38;'>100.0%</color> of the amount of healing received, and increases the DMG of <u class='infou'>Dewdrop</u> by <color style='color:#f29e38;'>40.0%</color>."
+            "캐릭터가 치유 받을 시 [<u class='infou'>이슬</u>]을 충전한다. 충전치는 회복량의 <color style='color:#f29e38;'>100.0%</color>이다",
+            "캐릭터가 치유 받을 시 [<u class='infou'>이슬</u>]을 충전한다. 충전치는 회복량의 <color style='color:#f29e38;'>100.0%</color>이며, [<u class='infou'>이슬</u>]이 가하는 피해가 <color style='color:#f29e38;'>40.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "When a character's HP is restored, <u class='infou'>Dewdrop</u> is Charged according to the amount of healing received.",
-            "When a character's HP is restored, <u class='infou'>Dewdrop</u> is Charged according to the amount of healing received, and DMG done by <u class='infou'>Dewdrop</u> is increased."
+            "캐릭터가 치유 받을 시 치유량에 따라 [<u class='infou'>이슬</u>]이 충전된다",
+            "캐릭터가 치유 받을 시 회복량에 따라 [<u class='infou'>이슬</u>]이 충전되며, [<u class='infou'>이슬</u>]이 가하는 피해가 증가한다"
         ],
         "Effects": [
             60000013
@@ -620,14 +620,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/IconRoguePirest01.png",
-        "Name": "Mudra of Blessing",
+        "Name": "죄악과 축복, 시원인",
         "Desc": [
-            "Charges <u class='infou'>Dewdrop</u> at the beginning of a character's turn. The Charge value is equal to <color style='color:#f29e38;'>60.0%</color> of their current HP.",
-            "Charges <u class='infou'>Dewdrop</u> at the beginning of a character's turn. The Charge value is equal to <color style='color:#f29e38;'>70.0%</color> of their Max HP."
+            "캐릭터 턴 시작 시 [<u class='infou'>이슬</u>]을 충전한다. 충전치는 현재 HP의 <color style='color:#f29e38;'>60.0%</color>이다",
+            "캐릭터 턴 시작 시 [<u class='infou'>이슬</u>]을 충전한다. 충전치는 현재 자신 HP 최대치의 <color style='color:#f29e38;'>70.0%</color>이다"
         ],
         "SimpleDesc": [
-            "When a character's turn begins, <u class='infou'>Dewdrop</u> is Charged based on the character's current HP.",
-            "When a character's turn begins, <u class='infou'>Dewdrop</u> is Charged based on the character's Max HP."
+            "캐릭터 턴 시작 시 현재 HP에 따라 [<u class='infou'>이슬</u>]이 충전된다",
+            "캐릭터 턴 시작 시 자신 HP 최대치에 따라 [<u class='infou'>이슬</u>]이 충전된다"
         ],
         "Effects": [
             60000013
@@ -638,14 +638,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Being of Abundance, Becoming One Mind",
+        "Name": "중생 풍요, 일법계의 마음",
         "Desc": [
-            "When a character provides healing, allies other than the healed target will also gain HP equal to <color style='color:#f29e38;'>30.0%</color> of the Outgoing Healing.",
-            "When a character provides healing, allies other than the healed target will also restore HP equal to <color style='color:#f29e38;'>30.0%</color> of the amount healed. Increases the ATK of all allies by <color style='color:#f29e38;'>15.0%</color> of the amount healed, stacking up to no more than <color style='color:#f29e38;'>80.0%</color> of each ally's respective Base ATK and lasts until the end of the next turn."
+            "캐릭터는 치유 제공 후 치유 받은 대상을 제외한 아군의 HP를 회복량의 <color style='color:#f29e38;'>30.0%</color>만큼 회복한다",
+            "캐릭터가 치유 제공 시 치유를 받는 목표 이외의 아군은 회복량 <color style='color:#f29e38;'>30.0%</color>만큼의 HP를 회복할 수 있으며, 모든 아군의 공격력이 증가한다. 증가 수치는 이번 회복량의 <color style='color:#f29e38;'>15.0%</color>만큼이다. 해당 효과는 중첩 가능하지만 각자 기초 공격력의 <color style='color:#f29e38;'>80.0%</color>를 넘지 않는다. 다음 턴 종료 시까지 지속된다"
         ],
         "SimpleDesc": [
-            "Healing effects provided by characters can be Blasted to all allies.",
-            "Healing effects provided by characters can be Blasted to all allies and increase ATK based on HP restored."
+            "캐릭터가 부여한 치유 효과는 모든 아군에게 확산된다",
+            "캐릭터가 부여한 치유 효과는 모든 아군에게 확산되며, 회복량에 따라 공격력이 증가한다"
         ],
         "Effects": []
     },
@@ -654,14 +654,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 2,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Good Deeds Come After Old Sins",
+        "Name": "멸죄생선",
         "Desc": [
-            "Restores HP to the character equal to <color style='color:#f29e38;'>20.0%</color> of the Charge value when <u class='infou'>Dewdrop</u> ruptures, up to <color style='color:#f29e38;'>18.0%</color> of the character's Max HP.",
-            "Restores HP equal to <color style='color:#f29e38;'>20.0%</color> of the Charge value when <u class='infou'>Dewdrop</u> ruptures, up to <color style='color:#f29e38;'>24.0%</color> of the character's Max HP and no less than <color style='color:#f29e38;'>12.0%</color> of their Max HP."
+            "[<u class='infou'>이슬</u>]이 터질 때 캐릭터의 HP를 충전치의 <color style='color:#f29e38;'>20.0%</color>만큼 회복하며, 최대 회복량은 캐릭터 HP 최대치의 <color style='color:#f29e38;'>18.0%</color>이다",
+            "[<u class='infou'>이슬</u>]이 터질 때 캐릭터의 HP를 충전치의 <color style='color:#f29e38;'>20.0%</color>만큼 회복하며, 최대 회복량은 캐릭터 HP 최대치의 <color style='color:#f29e38;'>24.0%</color>이고, 최소 회복량은 캐릭터 HP 최대치의 <color style='color:#f29e38;'>12.0%</color>이다"
         ],
         "SimpleDesc": [
-            "Restores the character's HP when <u class='infou'>Dewdrop</u> breaks.",
-            "Restores the character's HP to above a minimum value when <u class='infou'>Dewdrop</u> breaks."
+            "[<u class='infou'>이슬</u>]이 터질 때 캐릭터의 HP를 회복한다",
+            "[<u class='infou'>이슬</u>]이 터질 때 캐릭터의 HP를 회복하며, 최저 회복량이 있다"
         ],
         "Effects": [
             60000013
@@ -672,14 +672,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 2,
         "Icon": "/IconRoguePirest05.png",
-        "Name": "Mortals of the Buddha-Field",
+        "Name": "천인의 흔들리지 않는 무리",
         "Desc": [
-            "When a character's HP is full, increases the Charging Efficiency for <u class='infou'>Dewdrop</u> by <color style='color:#f29e38;'>80.0%</color>.",
-            "When a character's HP is full, increases the Charging Efficiency for <u class='infou'>Dewdrop</u> by <color style='color:#f29e38;'>120.0%</color>."
+            "캐릭터의 현재 HP가 자신 HP 최대치일 시 [<u class='infou'>이슬</u>]의 충전 효율이 <color style='color:#f29e38;'>80.0%</color> 증가한다",
+            "캐릭터의 현재 HP가 자신 HP 최대치일 시 [<u class='infou'>이슬</u>]의 충전 효율이 <color style='color:#f29e38;'>120.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "When a character's HP is full, <u class='infou'>Dewdrop</u>'s Charging Efficiency increases.",
-            "When a character's HP is full, <u class='infou'>Dewdrop</u>'s Charging Efficiency increases."
+            "캐릭터의 현재 HP가 자신 HP 최대치일 시 [<u class='infou'>이슬</u>]의 충전 효율이 증가한다",
+            "캐릭터의 현재 HP가 자신 HP 최대치일 시 [<u class='infou'>이슬</u>]의 충전 효율이 증가한다"
         ],
         "Effects": [
             60000013
@@ -690,14 +690,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 2,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Salvation From Damnation",
+        "Name": "중생을 제도하는 혜해",
         "Desc": [
-            "When a <u class='infou'>Dewdrop</u> breaks, there is a <color style='color:#f29e38;'>65.0%</color> fixed chance to remove 1 debuff on the character.",
-            "When a <u class='infou'>Dewdrop</u> breaks, there is a <color style='color:#f29e38;'>100.0%</color> fixed chance to remove 1 debuff on the character."
+            "[<u class='infou'>이슬</u>]이 1개 터질 때마다 <color style='color:#f29e38;'>65.0%</color>의 고정 확률로 자신의 디버프 효과를 1개 해제한다",
+            "[<u class='infou'>이슬</u>]이 1개 터질 때마다 <color style='color:#f29e38;'>100.0%</color>의 고정 확률로 자신의 디버프 효과를 1개 해제한다"
         ],
         "SimpleDesc": [
-            "There is a chance of removing 1 debuff when <u class='infou'>Dewdrop</u> breaks.",
-            "Removes 1 debuff when <u class='infou'>Dewdrop</u> breaks."
+            "[<u class='infou'>이슬</u>]이 터질 때 일정 확률로 디버프 효과를 1개 해제한다",
+            "[<u class='infou'>이슬</u>]이 터질 때 반드시 디버프 효과를 1개 해제한다"
         ],
         "Effects": [
             60000013
@@ -708,14 +708,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 2,
         "Icon": "/IconRoguePirest01.png",
-        "Name": "Precious Moon-Like Candlelight",
+        "Name": "보광촉일월",
         "Desc": [
-            "When a character provides healing to allies, increases the ATK of both units by <color style='color:#f29e38;'>50.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s).",
-            "When a character provides healing to allies, increases the ATK of all allies by <color style='color:#f29e38;'>50.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s)."
+            "캐릭터가 아군에게 치유 제공 시 양쪽 모두 공격력이 <color style='color:#f29e38;'>50.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴",
+            "캐릭터가 아군에게 치유 제공 시 모든 아군의 공격력이 <color style='color:#f29e38;'>50.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴"
         ],
         "SimpleDesc": [
-            "When a character restores an ally's HP, both units' ATK increases.",
-            "When a character restores an ally's HP, all allies' ATK increases."
+            "캐릭터가 아군에게 치유 제공 시 양쪽 모두 공격력이 증가한다",
+            "캐릭터가 아군에게 치유 제공 시 모든 아군의 공격력이 증가한다"
         ],
         "Effects": []
     },
@@ -724,14 +724,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 2,
         "Icon": "/IconRoguePirest01.png",
-        "Name": "Aversion to Suffering",
+        "Name": "괴로움을 증오하다",
         "Desc": [
-            "After launching attacks, characters deal Additional DMG equal to <color style='color:#f29e38;'>36.0%</color> of their current HP.",
-            "Whenever a character attacks, deals Additional DMG to the enemy equal to <color style='color:#f29e38;'>42.0%</color> of the character's Max HP."
+            "캐릭터가 공격 발동 후 피격된 적에게 현재 HP의 <color style='color:#f29e38;'>36.0%</color>만큼의 추가 피해를 준다",
+            "캐릭터가 공격 발동 후 피격된 적에게 자신 HP 최대치 <color style='color:#f29e38;'>42.0%</color>만큼의 추가 피해를 준다"
         ],
         "SimpleDesc": [
-            "After a character uses an attack, they deal Additional DMG based on their current HP.",
-            "After a character uses an attack, they deal Additional DMG based on their Max HP."
+            "캐릭터가 공격 발동 후 현재 HP에 따라 추가 피해를 가한다",
+            "캐릭터가 공격 발동 후 자신의 HP 최대치에 따라 추가 피해를 가한다"
         ],
         "Effects": []
     },
@@ -740,14 +740,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 2,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Clear Lucite Body",
+        "Name": "맑은 유리의 몸",
         "Desc": [
-            "When a character's HP is full, reduces their DMG taken by <color style='color:#f29e38;'>36.0%</color>.",
-            "When a character's HP is full, reduces their DMG taken by <color style='color:#f29e38;'>36.0%</color>, and increases their Effect RES by <color style='color:#f29e38;'>27.0%</color>."
+            "캐릭터의 현재 HP가 자신 HP 최대치일 시 받는 피해가 <color style='color:#f29e38;'>36.0%</color> 감소한다",
+            "캐릭터의 현재 HP가 자신 HP 최대치일 시 받는 피해가 <color style='color:#f29e38;'>36.0%</color> 감소하고, 효과 저항이 <color style='color:#f29e38;'>27.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "When a character's HP is full, their DMG received is reduced.",
-            "When a character's HP is full, their DMG received is reduced and Effect RES is increased."
+            "캐릭터의 현재 HP가 자신 HP 최대치일 시 받는 피해가 감소한다",
+            "캐릭터의 현재 HP가 자신 HP 최대치일 시 받는 피해가 감소하고 효과 저항이 증가한다"
         ],
         "Effects": []
     },
@@ -756,14 +756,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 2,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Prajna Boat",
+        "Name": "대원 반야선",
         "Desc": [
-            "When being healed by an ally, characters restore extra HP equal to <color style='color:#f29e38;'>30.0%</color> of the amount of HP healed.",
-            "When being healed by an ally, characters restore extra HP equal to <color style='color:#f29e38;'>45.0%</color> of the amount of HP healed."
+            "캐릭터가 아군에게 치유 받은 후 HP를 추가로 회복량의 <color style='color:#f29e38;'>30.0%</color>만큼 회복한다",
+            "캐릭터가 아군에게 치유 받은 후 HP를 추가로 회복량의 <color style='color:#f29e38;'>45.0%</color>만큼 회복한다"
         ],
         "SimpleDesc": [
-            "Characters that have their HP restored by an ally also restore extra HP.",
-            "Characters that have their HP restored by an ally also restore extra HP."
+            "캐릭터가 아군이 제공하는 치유 효과를 받은 후 추가로 HP를 회복한다",
+            "캐릭터가 아군이 제공하는 치유 효과를 받은 후 추가로 HP를 회복한다"
         ],
         "Effects": []
     },
@@ -772,14 +772,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 1,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Rain of Truth",
+        "Name": "법우",
         "Desc": [
-            "For each Abundance Blessing, increase allies' respective Max HP by <color style='color:#f29e38;'>5.0%</color>. This effect can stack up to a max of <color style='color:#f29e38;'>6.0</color> time(s).",
-            "For each Abundance Blessing, increase allies' respective Max HP by <color style='color:#f29e38;'>7.0%</color>. This effect can stack up to a max of <color style='color:#f29e38;'>9.0</color> time(s)."
+            "「풍요」의 축복을 1개 보유할 때마다 캐릭터의 HP 최대치가 <color style='color:#f29e38;'>5.0%</color>만큼 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>6.0</color>스택",
+            "「풍요」의 축복을 1개 보유할 때마다 캐릭터의 HP 최대치가 <color style='color:#f29e38;'>7.0%</color>만큼 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>9.0</color>스택"
         ],
         "SimpleDesc": [
-            "The more Blessings of Abundance the team has, the higher the characters' Max HP becomes.",
-            "The more Blessings of Abundance the team has, the higher the characters' Max HP becomes."
+            "「풍요」의 축복이 많을수록 캐릭터의 HP 최대치가 증가한다",
+            "「풍요」의 축복이 많을수록 캐릭터의 HP 최대치가 증가한다"
         ],
         "Effects": []
     },
@@ -788,14 +788,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 1,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Sweet Dew",
+        "Name": "감로",
         "Desc": [
-            "Increases Incoming Healing by <color style='color:#f29e38;'>12.0%</color>.",
-            "Increases Incoming Healing by <color style='color:#f29e38;'>18.0%</color>."
+            "캐릭터의 HP 회복량이 <color style='color:#f29e38;'>12.0%</color> 증가한다",
+            "캐릭터의 HP 회복량이 <color style='color:#f29e38;'>18.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Increases the amount of HP restored by characters.",
-            "Increases the amount of HP restored by characters."
+            "캐릭터의 HP 회복량이 증가한다",
+            "캐릭터의 HP 회복량이 증가한다"
         ],
         "Effects": []
     },
@@ -804,14 +804,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 1,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Extended Life",
+        "Name": "수명 연장",
         "Desc": [
-            "Upon entering battle, characters restore HP equal to <color style='color:#f29e38;'>24.0%</color> of their Max HP.",
-            "Upon entering battle, characters restore HP equal to <color style='color:#f29e38;'>36.0%</color> of their Max HP."
+            "전투 진입 시 캐릭터의 HP를 자신 HP 최대치의 <color style='color:#f29e38;'>24.0%</color>만큼 회복한다",
+            "전투 진입 시 캐릭터의 HP를 자신 HP 최대치의 <color style='color:#f29e38;'>36.0%</color>만큼 회복한다"
         ],
         "SimpleDesc": [
-            "When entering battle, all characters restore HP.",
-            "When entering battle, all characters restore HP."
+            "전투 진입 시 캐릭터의 HP를 회복한다",
+            "전투 진입 시 캐릭터의 HP를 회복한다"
         ],
         "Effects": []
     },
@@ -820,14 +820,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 1,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Seal",
+        "Name": "소망의 표식",
         "Desc": [
-            "After a character inflicts Weakness Break on an enemy, restores HP to the character equal to <color style='color:#f29e38;'>16.0%</color> of their Max HP.",
-            "After a character inflicts Weakness Break on an enemy, restores HP to the character equal to <color style='color:#f29e38;'>24.0%</color> of their Max HP."
+            "캐릭터가 적 약점 격파 후 HP를 HP 최대치의 <color style='color:#f29e38;'>16.0%</color>만큼 회복한다",
+            "캐릭터가 적 약점 격파 후 HP를 HP 최대치의 <color style='color:#f29e38;'>24.0%</color>만큼 회복한다"
         ],
         "SimpleDesc": [
-            "Characters restore HP after inflicting Weakness Break on enemies.",
-            "Characters restore HP after inflicting Weakness Break on enemies."
+            "캐릭터가 적 약점 격파 후 HP를 회복한다",
+            "캐릭터가 적 약점 격파 후 HP를 회복한다"
         ],
         "Effects": []
     },
@@ -836,14 +836,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 1,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Dispel Disaster",
+        "Name": "재난",
         "Desc": [
-            "After a character is healed, increases their DEF by <color style='color:#f29e38;'>24.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s).",
-            "After a character is healed, increases their DEF by <color style='color:#f29e38;'>36.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s)."
+            "캐릭터가 치유를 받은 후 방어력이 <color style='color:#f29e38;'>24.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴",
+            "캐릭터가 치유를 받은 후 방어력이 <color style='color:#f29e38;'>36.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴"
         ],
         "SimpleDesc": [
-            "After having their HP restored, the character's DEF increases.",
-            "After having their HP restored, the character's DEF increases."
+            "캐릭터가 치유 효과를 받은 후 방어력이 증가한다",
+            "캐릭터가 치유 효과를 받은 후 방어력이 증가한다"
         ],
         "Effects": []
     },
@@ -852,14 +852,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 1,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Rebirth",
+        "Name": "회생",
         "Desc": [
-            "After a character provides healing, they restore HP equal to <color style='color:#f29e38;'>12.0%</color> of their Max HP. This effect can only trigger once per action.",
-            "After a character provides healing, they restore HP equal to <color style='color:#f29e38;'>18.0%</color> of their Max HP. This effect can only trigger once per action."
+            "캐릭터는 치유 제공 후 HP를 자신 HP 최대치의 <color style='color:#f29e38;'>12.0%</color>만큼 회복한다. 해당 효과는 행동마다 1회만 발동할 수 있다",
+            "캐릭터는 치유 제공 후 HP를 자신 HP 최대치의 <color style='color:#f29e38;'>18.0%</color>만큼 회복한다. 해당 효과는 행동마다 1회만 발동할 수 있다"
         ],
         "SimpleDesc": [
-            "After restoring an ally's HP, the healer character also restores HP.",
-            "After restoring an ally's HP, the healer character also restores HP."
+            "캐릭터가 치유 제공 후 HP를 회복한다",
+            "캐릭터가 치유 제공 후 HP를 회복한다"
         ],
         "Effects": []
     },
@@ -868,14 +868,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 1,
         "Icon": "/IconRoguePirest03.png",
-        "Name": "Victorious Force",
+        "Name": "승리의 군",
         "Desc": [
-            "After a character is healed, increases their SPD by <color style='color:#f29e38;'>10.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s).",
-            "After a character is healed, increases their SPD by <color style='color:#f29e38;'>15.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s)."
+            "캐릭터가 치유를 받은 후 속도가 <color style='color:#f29e38;'>10.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴",
+            "캐릭터가 치유를 받은 후 속도가 <color style='color:#f29e38;'>15.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴"
         ],
         "SimpleDesc": [
-            "After having their HP restored, the character's SPD increases.",
-            "After having their HP restored, the character's SPD increases."
+            "캐릭터가 치유 효과를 받으면 속도가 증가한다",
+            "캐릭터가 치유 효과를 받으면 속도가 증가한다"
         ],
         "Effects": []
     },
@@ -884,14 +884,14 @@ var _blessing = [
         "Path": 123,
         "Rarity": 1,
         "Icon": "/IconRoguePirest03.png",
-        "Name": "Blessing",
+        "Name": "가담",
         "Desc": [
-            "After a character provides healing, there is a <color style='color:#f29e38;'>30.0%</color> fixed chance to recover 1 Skill Point. This effect can only trigger once per action.",
-            "After a character provides healing, there is a <color style='color:#f29e38;'>45.0%</color> fixed chance to recover 1 Skill Point. This effect can only trigger once per action."
+            "캐릭터는 치유 제공 후 <color style='color:#f29e38;'>30.0%</color>의 고정 확률로 전투 스킬 포인트를 1pt 회복한다. 해당 효과는 행동마다 1회만 발동할 수 있다",
+            "캐릭터는 치유 제공 후 <color style='color:#f29e38;'>45.0%</color>의 고정 확률로 전투 스킬 포인트를 1pt 회복한다. 해당 효과는 행동마다 1회만 발동할 수 있다"
         ],
         "SimpleDesc": [
-            "After restoring an ally's HP, there is a small chance of recovering a Skill Point.",
-            "After restoring an ally's HP, there is a small chance of recovering a Skill Point."
+            "캐릭터가 치유 제공 후 낮은 확률로 전투 스킬 포인트를 회복한다",
+            "캐릭터가 치유 제공 후 낮은 확률로 전투 스킬 포인트를 회복한다"
         ],
         "Effects": []
     },
@@ -900,14 +900,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Imperial Reign",
+        "Name": "제왕성의 출현",
         "Desc": [
-            "When a character's turn begins, they gain <color style='color:#f29e38;'>1.0</color> stack(s) of <u class='infou'>Critical Boost</u>.",
-            "When a character's turn begins, they gain <color style='color:#f29e38;'>1.0</color> stack(s) of <u class='infou'>Critical Boost</u> and increases the stack limit of <u class='infou'>Critical Boost</u> to <color style='color:#f29e38;'>12.0</color>."
+            "캐릭터 턴 시작 시 <color style='color:#f29e38;'>1.0</color>스택 [<u class='infou'>회심</u>]을 획득한다",
+            "캐릭터 턴 시작 시 <color style='color:#f29e38;'>1.0</color>스택 [<u class='infou'>회심</u>]을 획득한다. [<u class='infou'>회심</u>] 최대 중첩수: <color style='color:#f29e38;'>12.0</color>스택"
         ],
         "SimpleDesc": [
-            "When a character's turn begins, they gain <color style='color:#f29e38;'>1.0</color> stack(s) of <u class='infou'>Critical Boost</u>.",
-            "When a character's turn begins, they gain <color style='color:#f29e38;'>1.0</color> stack(s) of <u class='infou'>Critical Boost</u> and raises the stack limit of <u class='infou'>Critical Boost</u>."
+            "캐릭터 턴 시작 시 <color style='color:#f29e38;'>1.0</color>스택 [<u class='infou'>회심</u>]을 획득한다",
+            "캐릭터 턴 시작 시 <color style='color:#f29e38;'>1.0</color>스택의 [<u class='infou'>회심</u>]을 획득하고, [<u class='infou'>회심</u>]의 최대치가 증가한다"
         ],
         "Effects": [
             60000004
@@ -918,14 +918,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Imperishable Victory",
+        "Name": "광속의 제왕 수레",
         "Desc": [
-            "After a character defeats an enemy, their action is Advanced Forward by 100%. At the beginning of the next turn, they gain <color style='color:#f29e38;'>4.0</color> stack(s) of <u class='infou'>Critical Boost</u>.",
-            "After a character defeats an enemy, their action is Advanced Forward by 100%. At the beginning of the next turn, they gain <color style='color:#f29e38;'>7.0</color> stack(s) of <u class='infou'>Critical Boost</u>."
+            "캐릭터가 적 처치 후 자신의 행동 게이지가 100% 증가하고, 다음 턴 시작 시 <color style='color:#f29e38;'>4.0</color>스택의 [<u class='infou'>회심</u>] 효과를 획득한다",
+            "캐릭터가 적 처치 후 자신의 행동 게이지가 100% 증가하고, 다음 턴 시작 시 <color style='color:#f29e38;'>7.0</color>스택의 [<u class='infou'>회심</u>] 효과를 획득한다"
         ],
         "SimpleDesc": [
-            "After defeating an enemy, the character's action is Advanced Forward by 100%. At the beginning of the next turn, they gain <color style='color:#f29e38;'>4.0</color> stack(s) of <u class='infou'>Critical Boost</u>.",
-            "After defeating an enemy, the character's action is Advanced Forward by 100%. At the beginning of the next turn, they gain <color style='color:#f29e38;'>7.0</color> stack(s) of <u class='infou'>Critical Boost</u>."
+            "캐릭터가 적 처치 후 행동 게이지가 100% 증가하고, 다음 턴 시작 시 <color style='color:#f29e38;'>4.0</color> 스택의 [<u class='infou'>회심</u>]을 획득한다",
+            "캐릭터가 적 처치 후 행동 게이지가 100% 증가하고, 다음 턴 시작 시 <color style='color:#f29e38;'>7.0</color> 스택의 [<u class='infou'>회심</u>]을 획득한다"
         ],
         "Effects": [
             60000004
@@ -936,14 +936,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Celestial Annihilation",
+        "Name": "하늘을 관통한 부러진 제왕의 궁",
         "Desc": [
-            "After a character inflicts Weakness Break on an enemy, their action Advances Forward by 100% and increases the DMG dealt by their next attack by <color style='color:#f29e38;'>50.0%</color>.",
-            "After a character inflicts Weakness Break on an enemy, their action Advances Forward by 100% and increases the DMG dealt by their next attack by <color style='color:#f29e38;'>75.0%</color>. If the Weakness Broken enemy is an Elite Enemy, then Action Advances for all allies."
+            "캐릭터가 적 약점 격파 후 자신의 행동 게이지가 100% 증가하고, 다음 번 공격이 가하는 피해가 <color style='color:#f29e38;'>50.0%</color> 증가한다",
+            "캐릭터가 적 약점 격파 후 자신의 행동 게이지가 100% 증가하고, 다음 번 공격으로 가하는 피해가 <color style='color:#f29e38;'>75.0%</color> 증가한다. 적이 정예 몬스터일 경우 모든 아군의 행동 게이지가 100% 증가한다"
         ],
         "SimpleDesc": [
-            "After a character inflicts Weakness Break on an enemy, their action Advances Forward by 100% and increases the DMG dealt by their next attack.",
-            "After a character inflicts Weakness Break on an enemy, their action Advances Forward by 100%, and the DMG dealt by their next attack increases. When an Elite Enemy's Weakness is Broken, the Advance Forward effect applies to all allies."
+            "캐릭터가 적 약점 격파 후 행동 게이지가 100% 증가하고 다음 번 공격으로 가하는 피해가 증가한다",
+            "캐릭터가 적의 약점 격파 후 행동 게이지가 100% 증가하고 다음번 공격으로 가하는 피해가 증가한다. 정예 몬스터의 약점 격파 시 행동 게이지 증가 효과는 모든 아군에게 적용된다"
         ],
         "Effects": []
     },
@@ -952,14 +952,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 2,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Battle Against the Old Foe",
+        "Name": "천주를 타고 숙적 처단",
         "Desc": [
-            "If a character has higher than 100% CRIT Rate and currently has <u class='infou'>Critical Boost</u>, for every 1% CRIT Rate that exceeds 100%, CRIT DMG increases by <color style='color:#f29e38;'>3.0%</color>. CRIT DMG can be increased this way by up to <color style='color:#f29e38;'>150.0%</color>.",
-            "If a character has higher than 100% CRIT Rate and currently has <u class='infou'>Critical Boost</u>, for every 1% CRIT Rate that exceeds 100%, CRIT DMG increases by <color style='color:#f29e38;'>3.0%</color>. For every stack of <u class='infou'>Critical Boost</u>, CRIT DMG increases by an extra <color style='color:#f29e38;'>0.2%</color>. CRIT DMG can be increased this way by up to <color style='color:#f29e38;'>200.0%</color>."
+            "캐릭터의 치명타 확률이 100% 초과 시 [<u class='infou'>회심</u>] 효과를 적용할 경우 1% 초과할 때마다 치명타 피해가 <color style='color:#f29e38;'>3.0%</color>씩 증가한다. 치명타 피해는 최대 <color style='color:#f29e38;'>150.0%</color> 증가한다",
+            "캐릭터의 치명타 확률이 100% 초과 시 [<u class='infou'>회심</u>] 효과를 적용할 경우 1% 초과할 때마다 치명타 피해가 <color style='color:#f29e38;'>3.0%</color>씩 증가하며, [<u class='infou'>회심</u>] 효과가 1스택 중첩할 때마다 치명타 피해가 추가로 <color style='color:#f29e38;'>0.2%</color> 증가한다. 치명타 피해는 최대 <color style='color:#f29e38;'>200.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "When a character has <u class='infou'>Critical Boost</u>, their excess CRIT Rate turns into CRIT DMG.",
-            "When a character has <u class='infou'>Critical Boost</u>, convert excess CRIT Rate into CRIT DMG based on the number of <u class='infou'>Critical Boost</u> stacks."
+            "캐릭터가 [<u class='infou'>회심</u>] 효과를 받을 시 초과된 치명타 확률은 치명타 피해로 전환한다",
+            "캐릭터가 [<u class='infou'>회심</u>] 효과를 받을 시 [<u class='infou'>회심</u>]의 스택 수에 따라 초과된 치명타 확률을 치명타 피해로 전환한다"
         ],
         "Effects": [
             60000004
@@ -970,14 +970,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 2,
         "Icon": "/IconRogueRogue02.png",
-        "Name": "Archery Duel",
+        "Name": "말타고 활쏘기",
         "Desc": [
-            "When a character's turn begins, every stack of <u class='infou'>Critical Boost</u> restores the character's HP equal to <color style='color:#f29e38;'>5.0%</color> of their Max HP.",
-            "When a character's turn begins, or after they used their Ultimate, restores the character's HP equal to <color style='color:#f29e38;'>5.0%</color> of their Max HP for every stack of <u class='infou'>Critical Boost</u>."
+            "캐릭터 턴 시작 시 [<u class='infou'>회심</u>] 효과 1스택마다 HP를 자신 HP 최대치의 <color style='color:#f29e38;'>5.0%</color>만큼 회복한다",
+            "캐릭터 턴 시작 또는 필살기 발동 후 [<u class='infou'>회심</u>] 효과가 1스택 중첩할 때마다 HP를 자신 HP 최대치의 <color style='color:#f29e38;'>5.0%</color>만큼 회복한다"
         ],
         "SimpleDesc": [
-            "When a character's turn begins, their HP is restored based on the number of <u class='infou'>Critical Boost</u> stacks they have.",
-            "When a character's turn begins, or after they use their Ultimate, they restore HP based on the number of <u class='infou'>Critical Boost</u> stacks they have."
+            "캐릭터 턴 시작 시 [<u class='infou'>회심</u>]의 스택 수에 따라 HP를 회복한다",
+            "캐릭터 턴 시작 시 또는 필살기 발동 후 [<u class='infou'>회심</u>]의 스택 수에 따라 HP를 회복한다"
         ],
         "Effects": [
             60000004
@@ -988,14 +988,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 2,
         "Icon": "/IconRogueRogue05.png",
-        "Name": "Adept's Bow",
+        "Name": "숙련자의 활",
         "Desc": [
-            "When any ally uses their Ultimate, they can inherit <u class='infou'>Critical Boost</u>, and the number of <u class='infou'>Critical Boost</u> stacks increases by <color style='color:#f29e38;'>1.0</color>.",
-            "When any ally uses their Ultimate or performs a follow-up attack, they can inherit <u class='infou'>Critical Boost</u>, and the number of <u class='infou'>Critical Boost</u> stacks increases by <color style='color:#f29e38;'>1.0</color>."
+            "임의 아군이 필살기 발동 시 [<u class='infou'>회심</u>] 효과를 계승하고 [<u class='infou'>회심</u>]의 스택 수가 <color style='color:#f29e38;'>1.0</color>스택 증가한다",
+            "임의 아군이 추가 공격 또는 필살기 발동 시 [<u class='infou'>회심</u>] 효과를 계승하고 [<u class='infou'>회심</u>]의 스택 수가 <color style='color:#f29e38;'>1.0</color>스택 증가한다"
         ],
         "SimpleDesc": [
-            "Ultimates can inherit and increase <u class='infou'>Critical Boost</u> stacks.",
-            "Follow-up attacks and Ultimates can inherit and increase <u class='infou'>Critical Boost</u> stacks."
+            "필살기는 [<u class='infou'>회심</u>]의 스택 수를 계승하고 증가할 수 있다",
+            "추가 공격과 필살기는 [<u class='infou'>회심</u>]의 스택 수를 계승하고 증가할 수 있다"
         ],
         "Effects": [
             60000004
@@ -1006,14 +1006,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 2,
         "Icon": "/IconRogueRogue01.png",
-        "Name": "Flowing Mist",
+        "Name": "흉물을 쫓는 안개",
         "Desc": [
-            "When the same character acts consecutively, their ATK increases by <color style='color:#f29e38;'>40.0%</color>. This effect can stack up to <color style='color:#f29e38;'>2.0</color> time(s).",
-            "When the same character acts consecutively, their ATK increases by <color style='color:#f29e38;'>40.0%</color>. This effect can stack up to <color style='color:#f29e38;'>2.0</color> times and gives a <color style='color:#f29e38;'>50.0%</color> fixed chance to recover 1 Skill Point. This effect cannot be triggered repeatedly."
+            "동일한 캐릭터가 연속 행동 시, 공격력이 <color style='color:#f29e38;'>40.0%</color> 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>2.0</color>스택",
+            "동일한 캐릭터가 연속 행동 시 공격력이 <color style='color:#f29e38;'>40.0%</color> 증가한다. 최대 중첩수: <color style='color:#f29e38;'>2.0</color>스택. 또한, <color style='color:#f29e38;'>50.0%</color>의 고정 확률로 전투 스킬 포인트를 1pt 회복한다. 이 효과는 중복 발동할 수 없다."
         ],
         "SimpleDesc": [
-            "When the same character acts consecutively, their ATK increases.",
-            "When the same character acts consecutively, their ATK increases, and there's a chance of recovering a Skill Point."
+            "동일한 캐릭터가 연속 행동 시 공격력이 증가한다",
+            "동일한 캐릭터가 연속 행동 시, 공격력이 증가하고 일정 확률로 전투 스킬 포인트를 회복한다"
         ],
         "Effects": []
     },
@@ -1022,14 +1022,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 2,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Auspicious Star",
+        "Name": "달 사냥을 돕는 상서로운 별빛",
         "Desc": [
-            "When a character defeats an enemy, regenerates Energy equal to <color style='color:#f29e38;'>60.0%</color> of the character's Max Energy.",
-            "When a character defeats an enemy, regenerates Energy equal to <color style='color:#f29e38;'>100.0%</color> of the character's Max Energy."
+            "캐릭터가 적 처치 후 에너지를 자신 에너지 최대치의 <color style='color:#f29e38;'>60.0%</color>만큼 회복한다",
+            "캐릭터가 적 처치 후 에너지를 자신 에너지 최대치의 <color style='color:#f29e38;'>100.0%</color>만큼 회복한다"
         ],
         "SimpleDesc": [
-            "After a character defeats an enemy, they regenerate a massive amount of Energy.",
-            "After a character defeats an enemy, they regenerate Energy to Max Energy."
+            "적 처치 시 대량의 에너지를 회복한다",
+            "적 처치 시 자신의 에너지를 에너지 최대치까지 회복한다"
         ],
         "Effects": []
     },
@@ -1038,14 +1038,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 2,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Ejecting the Borisin",
+        "Name": "보리인을 쫓는 구름 화살",
         "Desc": [
-            "After every <color style='color:#f29e38;'>6.0</color> turn(s) conducted by all allies, the current character's action is Advanced Forward by 100%. The effect cannot be triggered repeatedly by the same character.",
-            "After every <color style='color:#f29e38;'>6.0</color> turn(s) conducted by all allies, the current character's action is Advanced Forward by 100%. The effect cannot be triggered repeatedly by the same character. Upon entering battle, <color style='color:#f29e38;'>5.0</color> turn(s) are considered to have already passed."
+            "모든 아군이 <color style='color:#f29e38;'>6.0</color>턴이 지날 때마다 현재 캐릭터의 행동 게이지가 100% 증가한다. 해당 효과는 동일한 캐릭터에게 연속 발동되지 않는다",
+            "모든 아군이 <color style='color:#f29e38;'>6.0</color>턴이 지날 때마다 현재 캐릭터의 행동 게이지가 100% 증가한다. 해당 효과는 동일한 캐릭터에게 연속 발동되지 않는다. 전투 진입 시 <color style='color:#f29e38;'>5.0</color>턴이 이미 지난 것으로 간주한다"
         ],
         "SimpleDesc": [
-            "Every time a certain number of turns had passed, the current character's action is Advanced Forward by 100%.",
-            "Every time a certain number of turns had passed, the current character's action is Advanced Forward by 100%. Upon entering a battle, a certain number of turns is considered to have already passed."
+            "모든 아군이 일정 턴을 지날 때마다 현재 캐릭터의 행동 게이지가 100% 증가한다",
+            "모든 아군이 일정 턴을 지날 때마다 현재 캐릭터의 행동 게이지가 100% 증가한다. 전투 진입 시 일정 턴이 경과된 것으로 간주한다"
         ],
         "Effects": []
     },
@@ -1054,14 +1054,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 2,
         "Icon": "/IconRogueRogue02.png",
-        "Name": "Monster-Expelling Rainbow",
+        "Name": "착치를 응징하는 무지개",
         "Desc": [
-            "When a character defeats an enemy, restores their HP equal to <color style='color:#f29e38;'>48.0%</color> of their Max HP.",
-            "After a character inflicts Weakness Break on an enemy, restores HP equal to <color style='color:#f29e38;'>18.0%</color> of their Max HP. When a character defeats an enemy, restores HP equal to <color style='color:#f29e38;'>48.0%</color> of their Max HP."
+            "캐릭터가 적 처치 후 HP를 자신 HP 최대치의 <color style='color:#f29e38;'>48.0%</color>만큼 회복한다",
+            "캐릭터가 적 약점 격파 후 HP를 자신 HP 최대치의 <color style='color:#f29e38;'>18.0%</color>만큼 회복한다. 캐릭터가 적 처치 후 HP를 자신 HP 최대치의 <color style='color:#f29e38;'>48.0%</color>만큼 회복한다"
         ],
         "SimpleDesc": [
-            "After a character defeats a target enemy, restore the character's HP.",
-            "After a character Breaks the Weakness of an enemy or defeats an enemy, restores the character's HP."
+            "캐릭터가 적 처치 후 자신의 HP를 회복한다",
+            "캐릭터가 적 약점 격파 또는 적 처치 후 HP를 회복한다"
         ],
         "Effects": []
     },
@@ -1070,14 +1070,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 1,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Vermeil Bow and White Arrow",
+        "Name": "동궁소증",
         "Desc": [
-            "For every Blessing from The Hunt, increases SPD by <color style='color:#f29e38;'>3.0%</color>. This effect can stack up to a max of <color style='color:#f29e38;'>6.0</color> time(s).",
-            "For every Blessing from The Hunt, increases SPD by <color style='color:#f29e38;'>4.0%</color>. This effect can stack up to a max of <color style='color:#f29e38;'>9.0</color> time(s)."
+            "「수렵」의 축복을 1개 보유할 때마다 캐릭터의 속도가 <color style='color:#f29e38;'>3.0%</color>씩 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>6.0</color>스택",
+            "「수렵」의 축복을 1개 보유할 때마다 캐릭터의 속도가 <color style='color:#f29e38;'>4.0%</color>씩 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>9.0</color>스택"
         ],
         "SimpleDesc": [
-            "The more Blessings of The Hunt the team has, the higher the characters' SPD becomes.",
-            "The more Blessings of The Hunt the team has, the higher the characters' SPD becomes."
+            "「수렵」의 축복이 많을수록 캐릭터의 속도가 증가한다",
+            "「수렵」의 축복이 많을수록 캐릭터의 속도가 증가한다"
         ],
         "Effects": []
     },
@@ -1086,14 +1086,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 1,
         "Icon": "/IconRogueRogue01.png",
-        "Name": "Skirting Life and Death",
+        "Name": "역효과",
         "Desc": [
-            "Increases CRIT Rate by <color style='color:#f29e38;'>11.0%</color>.",
-            "Increases CRIT Rate by <color style='color:#f29e38;'>16.0%</color>."
+            "캐릭터의 치명타 확률이 <color style='color:#f29e38;'>11.0%</color> 증가한다",
+            "캐릭터의 치명타 확률이 <color style='color:#f29e38;'>16.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Increases CRIT Rate.",
-            "Increases CRIT Rate."
+            "캐릭터의 치명타 확률이 증가한다",
+            "캐릭터의 치명타 확률이 증가한다"
         ],
         "Effects": []
     },
@@ -1102,14 +1102,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 1,
         "Icon": "/IconRogueRogue01.png",
-        "Name": "Shrewd Arrangement",
+        "Name": "배고격허",
         "Desc": [
-            "Increases CRIT DMG by <color style='color:#f29e38;'>20.0%</color>.",
-            "Increases CRIT DMG by <color style='color:#f29e38;'>30.0%</color>."
+            "캐릭터의 치명타 피해가 <color style='color:#f29e38;'>20.0%</color> 증가한다",
+            "캐릭터의 치명타 피해가 <color style='color:#f29e38;'>30.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Increases CRIT DMG.",
-            "Increases CRIT DMG."
+            "캐릭터의 치명타 피해가 증가한다",
+            "캐릭터의 치명타 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -1118,14 +1118,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 1,
         "Icon": "/IconRogueRogue04.png",
-        "Name": "Thundering Chariot",
+        "Name": "대지를 흔드는 우뢰",
         "Desc": [
-            "After a character inflicts Weakness Break on an enemy, delays the enemy's action by <color style='color:#f29e38;'>20.0%</color>.",
-            "After a character inflicts Weakness Break on an enemy, delays the enemy's action by <color style='color:#f29e38;'>30.0%</color>."
+            "캐릭터가 적 약점 격파 후 해당 적의 행동 게이지를 <color style='color:#f29e38;'>20.0%</color> 감소시킨다",
+            "캐릭터가 적 약점 격파 후 해당 적의 행동 게이지를 <color style='color:#f29e38;'>30.0%</color> 감소시킨다"
         ],
         "SimpleDesc": [
-            "After a character inflicts Weakness Break on an enemy, the enemy's action is delayed.",
-            "After a character inflicts Weakness Break on an enemy, the enemy's action is delayed."
+            "캐릭터가 적 약점 격파 후 해당 적의 행동 게이지가 감소한다",
+            "캐릭터가 적 약점 격파 후 해당 적의 행동 게이지가 감소한다"
         ],
         "Effects": []
     },
@@ -1134,14 +1134,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 1,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Constellation Surge",
+        "Name": "별자리를 가르는 번개",
         "Desc": [
-            "Upon entering battle, characters' SPD increases by <color style='color:#f29e38;'>30.0%</color> until they are attacked.",
-            "Upon entering battle, characters' SPD increases by <color style='color:#f29e38;'>45.0%</color> until they are attacked."
+            "전투 진입 시 피격 전까지 캐릭터의 속도가 <color style='color:#f29e38;'>30.0%</color> 증가한다. 효과는 자신이 피격될 때까지 지속된다",
+            "전투 진입 시 피격 전까지 캐릭터의 속도가 <color style='color:#f29e38;'>45.0%</color> 증가한다. 효과는 자신이 피격될 때까지 지속된다"
         ],
         "SimpleDesc": [
-            "Upon entering battle, characters' SPD is increased until they are attacked.",
-            "Upon entering battle, characters' SPD is increased until they are attacked."
+            "전투 진입 시 캐릭터는 피격될 때까지 속도가 증가한다",
+            "전투 진입 시 캐릭터는 피격될 때까지 속도가 증가한다"
         ],
         "Effects": []
     },
@@ -1150,14 +1150,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 1,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Catastrophic Constellation",
+        "Name": "위태로운 천봉성",
         "Desc": [
-            "At the end of a character's turn, their next action is Advanced Forward by <color style='color:#f29e38;'>8.0%</color>.",
-            "At the end of a character's turn, their next action is Advanced Forward by <color style='color:#f29e38;'>12.0%</color>."
+            "캐릭터 턴 종료 시 행동 게이지가 <color style='color:#f29e38;'>8.0%</color> 증가한다",
+            ""
         ],
         "SimpleDesc": [
-            "When a character's turn ends, their action is Advanced Forward.",
-            "When a character's turn ends, their action is Advanced Forward."
+            "캐릭터 턴 종료 시 행동 게이지가 증가한다",
+            "캐릭터 턴 종료 시 행동 게이지가 증가한다"
         ],
         "Effects": []
     },
@@ -1166,14 +1166,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 1,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Vaulting Ambition",
+        "Name": "상호봉시",
         "Desc": [
-            "At the beginning of a character's turn, they regenerate <color style='color:#f29e38;'>4.0</color> Energy.",
-            "At the beginning of a character's turn, they regenerate <color style='color:#f29e38;'>6.0</color> Energy."
+            "캐릭터 턴 시작 시 에너지를 <color style='color:#f29e38;'>4.0</color>pt 회복한다",
+            "캐릭터 턴 시작 시 에너지를 <color style='color:#f29e38;'>6.0</color>pt 회복한다"
         ],
         "SimpleDesc": [
-            "When a character's turn begins, regenerate their Energy.",
-            "When a character's turn begins, regenerate their Energy."
+            "캐릭터 턴 시작 시 에너지를 회복한다",
+            "캐릭터 턴 시작 시 에너지를 회복한다"
         ],
         "Effects": []
     },
@@ -1182,14 +1182,14 @@ var _blessing = [
         "Path": 124,
         "Rarity": 1,
         "Icon": "/IconRogueRogue01.png",
-        "Name": "Blessed Bow and Arrow",
+        "Name": "오궁화살",
         "Desc": [
-            "At the beginning of a character's turn, receives an ATK boost equal to <color style='color:#f29e38;'>10.0%</color> of the last-acting ally's ATK. This will last until the next turn starts.",
-            "At the beginning of a character's turn, receives an ATK boost equal to <color style='color:#f29e38;'>15.0%</color> of the last-acting ally's ATK. This will last until the next turn starts."
+            "캐릭터 턴 시작 시 마지막 행동한 아군 공격력 <color style='color:#f29e38;'>10.0%</color>만큼의 공격력이 증가한다. 다음 턴 시작 전까지 지속된다",
+            "캐릭터 턴 시작 시 마지막 행동한 아군 공격력 <color style='color:#f29e38;'>15.0%</color>만큼의 공격력이 증가한다. 다음 턴 시작 전까지 지속된다"
         ],
         "SimpleDesc": [
-            "When a character's turn begins after an ally has completed their turn, increase ATK based on the previous ally who had acted.",
-            "When a character's turn begins after an ally has completed their turn, increase ATK based on the previous ally who had acted."
+            "캐릭터 턴 시작 시 마지막 행동한 아군 캐릭터의 공격력에 따라 공격력이 증가한다",
+            "캐릭터 턴 시작 시 마지막 행동한 아군 캐릭터의 공격력에 따라 공격력이 증가한다"
         ],
         "Effects": []
     },
@@ -1198,14 +1198,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/IconRogueWarrior03.png",
-        "Name": "Non-Inverse Antimatter Equation",
+        "Name": "반물질 비역 방정식",
         "Desc": [
-            "If a character's current HP is below <color style='color:#f29e38;'>50.0%</color>, they are considered to have <color style='color:#f29e38;'>16.0</color> extra stacks of <u class='infou'>Fighting Spirit</u>.",
-            "If a character's current HP is below <color style='color:#f29e38;'>50.0%</color>, they are considered to have <color style='color:#f29e38;'>20.0</color> extra stacks of <u class='infou'>Fighting Spirit</u>. For every <color style='color:#f29e38;'>10.0%</color> further HP lost, gains <color style='color:#f29e38;'>2.0</color> extra stack(s) of <u class='infou'>Fighting Spirit</u>."
+            "캐릭터의 현재 HP 백분율이 <color style='color:#f29e38;'>50.0%</color> 미만일 시 추가로 <color style='color:#f29e38;'>16.0</color>스택의 [<u class='infou'>전의</u>] 효과를 보유한 것으로 간주한다",
+            "캐릭터의 현재 HP 백분율이 <color style='color:#f29e38;'>50.0%</color> 미만일 시 추가로 <color style='color:#f29e38;'>20.0</color>스택의 [<u class='infou'>전의</u>] 효과를 보유한 것으로 간주한다. 현재 HP가 추가로 <color style='color:#f29e38;'>10.0%</color> 감소할 때마다 추가로 <color style='color:#f29e38;'>2.0</color>스택의 [<u class='infou'>전의</u>] 효과를 보유한다"
         ],
         "SimpleDesc": [
-            "If a character's current HP is below <color style='color:#f29e38;'>50.0%</color>, they are considered to have extra stacks of <u class='infou'>Fighting Spirit</u>.",
-            "If a character's current HP is below <color style='color:#f29e38;'>50.0%</color>, they are considered to have extra stacks of <u class='infou'>Fighting Spirit</u>. The lower the character's HP is, the higher the stack becomes."
+            "캐릭터의 현재 HP가 <color style='color:#f29e38;'>50.0%</color> 미만일 시 [<u class='infou'>전의</u>] 스택 수를 추가로 보유한 것으로 간주한다",
+            "캐릭터의 현재 HP 백분율이 <color style='color:#f29e38;'>50.0%</color> 미만일 시 [<u class='infou'>전의</u>] 스택 수를 추가로 보유한 것으로 간주한다. 캐릭터의 현재 HP가 낮을수록 보유한 스택 수가 증가한다"
         ],
         "Effects": [
             60000005
@@ -1216,14 +1216,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/IconRogueWarrior03.png",
-        "Name": "Universal Heat Death Characteristic",
+        "Name": "우주의 열죽음 특성",
         "Desc": [
-            "When characters are hit or are losing HP, they gain <color style='color:#f29e38;'>4.0</color> stack(s) of <u class='infou'>Fighting Spirit</u>. When the turn ends, the character loses <color style='color:#f29e38;'>4.0</color> stack(s) of <u class='infou'>Fighting Spirit</u>.",
-            "When characters are hit or are losing HP, the character gains <color style='color:#f29e38;'>4.0</color> stacks of <u class='infou'>Fighting Spirit</u>, and adjacent allies gain <color style='color:#f29e38;'>1.0</color> stacks of <u class='infou'>Fighting Spirit</u>. When the turn ends, the character loses <color style='color:#f29e38;'>4.0</color> stacks of <u class='infou'>Fighting Spirit</u>."
+            "캐릭터가 피격 또는 HP 소모 후 <color style='color:#f29e38;'>4.0</color>스택의 [<u class='infou'>전의</u>] 효과를 획득한다. 턴 종료 시 캐릭터는 <color style='color:#f29e38;'>4.0</color>스택의 [<u class='infou'>전의</u>] 효과를 잃는다.",
+            "캐릭터가 피격 또는 HP 소모 후 <color style='color:#f29e38;'>4.0</color>스택의 [<u class='infou'>전의</u>] 효과를 획득한다. 아군 인접 캐릭터가 <color style='color:#f29e38;'>1.0</color>스택의 [<u class='infou'>전의</u>]효과를 획득한다. 턴 종료 시 캐릭터는 <color style='color:#f29e38;'>4.0</color>스택의 [<u class='infou'>전의</u>] 효과를 잃는다."
         ],
         "SimpleDesc": [
-            "When a character is hit or have their HP lowered, they gain <color style='color:#f29e38;'>4.0</color> stack(s) of <u class='infou'>Fighting Spirit</u>.",
-            "When a character is hit or have their HP lowered, they gain <color style='color:#f29e38;'>4.0</color> stack(s) of <u class='infou'>Fighting Spirit</u>, and any adjacent characters gain <color style='color:#f29e38;'>1.0</color> stack(s) of <u class='infou'>Fighting Spirit</u>."
+            "캐릭터는 피격 또는 HP 소모 시 <color style='color:#f29e38;'>4.0</color>스택 [<u class='infou'>전의</u>]를 획득한다",
+            "캐릭터가 피격 또는 HP 소모 시 <color style='color:#f29e38;'>4.0</color>스택의 [<u class='infou'>전의</u>]를 획득한다. 인접한 캐릭터는 <color style='color:#f29e38;'>1.0</color>스택의 [<u class='infou'>전의</u>]를 획득한다"
         ],
         "Effects": [
             60000005
@@ -1234,14 +1234,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/IconRogueWarrior02.png",
-        "Name": "Regression Inequality of Annihilation",
+        "Name": "인멸의 귀환 부등식",
         "Desc": [
-            "When player characters are hit, DMG taken by the characters is equally distributed among all allies.",
-            "Receives <color style='color:#f29e38;'>15.0%</color> less DMG. When player characters are hit, DMG taken by the characters is equally distributed among all allies."
+            "피격 시 캐릭터가 받는 피해를 모든 아군이 공통으로 분담한다",
+            "캐릭터가 받는 피해가 <color style='color:#f29e38;'>15.0%</color> 감소한다. 피격 시 캐릭터가 받는 피해를 모든 아군이 공통으로 분담한다"
         ],
         "SimpleDesc": [
-            "All allies split incoming DMG.",
-            "All allies split incoming DMG, and reduces the DMG taken by targeted character."
+            "모든 아군이 받는 피해를 공통으로 분담한다",
+            "모든 아군이 받는 피해를 공통으로 분담하고 캐릭터가 받는 피해를 감소한다"
         ],
         "Effects": []
     },
@@ -1250,14 +1250,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 2,
         "Icon": "/IconRogueWarrior01.png",
-        "Name": "Incremental Doomsday",
+        "Name": "점진적 종말",
         "Desc": [
-            "After being hit, for each stack of <u class='infou'>Fighting Spirit</u> the character has, the character deals Additional DMG equal to <color style='color:#f29e38;'>4.0%</color> of their ATK to the attacker. This DMG will not be able to defeat the enemy.",
-            "After being hit, for each stack of <u class='infou'>Fighting Spirit</u> the character has, the character deals Additional DMG equal to <color style='color:#f29e38;'>4.0%</color> of their ATK plus <color style='color:#f29e38;'>2.0%</color> of the current HP loss to the attacker. This DMG will not be able to defeat the enemy."
+            "캐릭터가 피격 후 [<u class='infou'>전의</u>] 효과 1스택마다 공격자에게 캐릭터 공격력 <color style='color:#f29e38;'>4.0%</color>만큼의 추가 피해를 가한다. 해당 피해는 적을 처치할 수 없다",
+            "캐릭터가 피격 후 [<u class='infou'>전의</u>] 효과 1스택마다 공격자에게 캐릭터 공격력 <color style='color:#f29e38;'>4.0%</color>+ 잃은 HP의 <color style='color:#f29e38;'>2.0%</color>만큼의 추가 피해를 가한다. 해당 피해는 적을 처치할 수 없다"
         ],
         "SimpleDesc": [
-            "After a character is hit, deal Additional DMG to the attacker based on their <u class='infou'>Fighting Spirit</u> stack.",
-            "After a character is hit, deal Additional DMG to the attacker based on their <u class='infou'>Fighting Spirit</u> stack, and the HP difference between the character's Max HP and current HP."
+            "캐릭터 피격 후 [<u class='infou'>전의</u>]의 스택 수에 따라 적에게 추가 피해를 가한다",
+            "캐릭터 피격 후 [<u class='infou'>전의</u>]의 스택 수 및 잃은 HP에 따라 적에게 추가 피해를 가한다"
         ],
         "Effects": [
             60000005
@@ -1268,14 +1268,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 2,
         "Icon": "/IconRogueWarrior01.png",
-        "Name": "Catastrophic Resonance",
+        "Name": "재난성 공진",
         "Desc": [
-            "If a character attacks while having <u class='infou'>Fighting Spirit</u>, consumes HP equal to <color style='color:#f29e38;'>10.0%</color> of current HP and deals Additional DMG equal to <color style='color:#f29e38;'>60.0%</color> of the HP lost.",
-            "If a character attacks while having <u class='infou'>Fighting Spirit</u>, consumes HP equal to <color style='color:#f29e38;'>10.0%</color> of current HP and deals Additional DMG equal to <color style='color:#f29e38;'>60.0%</color> of the HP lost. For each stack of <u class='infou'>Fighting Spirit</u>, deals Additional DMG equal to <color style='color:#f29e38;'>1.0%</color> of the HP lost."
+            "캐릭터가 공격 발동 후 [<u class='infou'>전의</u>] 효과를 보유할 경우, 현재 HP의 <color style='color:#f29e38;'>10.0%</color>만큼의 HP를 소모해 공격 목표에게 잃은 HP의 <color style='color:#f29e38;'>60.0%</color>만큼의 추가 피해를 가한다",
+            "캐릭터가 공격 발동 후 [<u class='infou'>전의</u>] 효과를 보유할 경우, 현재 HP <color style='color:#f29e38;'>10.0%</color>만큼의 HP를 소모해 공격 목표에게 잃은 HP <color style='color:#f29e38;'>60.0%</color>만큼의 추가 피해를 가한다. [<u class='infou'>전의</u>] 1스택마다 추가로 잃은 HP <color style='color:#f29e38;'>1.0%</color>만큼의 추가 피해를 가한다"
         ],
         "SimpleDesc": [
-            "After a character attacks, consume their own HP to deal Additional DMG based on the HP difference between the character's Max HP and current HP.",
-            "After a character attacks, consume their own HP and deal Additional DMG based on the <u class='infou'>Fighting Spirit</u> stack, and the HP difference between the character's Max HP and current HP."
+            "캐릭터가 공격 발동 후, HP 소모 및 현재 잃은 HP에 따라 추가 피해를 가한다",
+            "캐릭터가 공격 발동 후 자신의 현재 HP 소모 및 [<u class='infou'>전의</u>]의 스택 수와 현재 잃은 HP에 따라 추가 피해를 가한다"
         ],
         "Effects": [
             60000005
@@ -1286,14 +1286,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 2,
         "Icon": "/IconRogueWarrior02.png",
-        "Name": "Indicative Depth of Field",
+        "Name": "예측 피사계 심도",
         "Desc": [
-            "For each stack of <u class='infou'>Fighting Spirit</u>, reduces the DMG taken by the character by <color style='color:#f29e38;'>0.8%</color>.",
-            "For each stack of <u class='infou'>Fighting Spirit</u>, reduces the DMG taken by characters by <color style='color:#f29e38;'>0.8%</color>. <u class='infou'>Fighting Spirit</u> can stack up to <color style='color:#f29e38;'>45.0</color> time(s)."
+            "보유한 [<u class='infou'>전의</u>] 효과 1스택마다 캐릭터가 받는 피해가 <color style='color:#f29e38;'>0.8%</color>씩 감소한다",
+            "[<u class='infou'>전의</u>] 효과 1스택마다 캐릭터가 받는 피해가 <color style='color:#f29e38;'>0.8%</color>씩 감소한다. [<u class='infou'>전의</u>] 효과 최대 중첩수: <color style='color:#f29e38;'>45.0</color>스택"
         ],
         "SimpleDesc": [
-            "The higher the <u class='infou'>Fighting Spirit</u> stacks are, the less DMG the character takes.",
-            "The higher the <u class='infou'>Fighting Spirit</u> stacks are, the less DMG the character takes. <u class='infou'>Fighting Spirit</u> stack limit also increases."
+            "[<u class='infou'>전의</u>]의 스택 수가 높을수록 캐릭터가 받는 피해가 감소한다",
+            "[<u class='infou'>전의</u>]의 스택 수가 높을수록 캐릭터가 받는 피해가 감소하고 [<u class='infou'>전의</u>]의 스택 수를 증가한다"
         ],
         "Effects": [
             60000005
@@ -1304,14 +1304,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 2,
         "Icon": "/IconRogueWarrior01.png",
-        "Name": "Devastating Accretion",
+        "Name": "치명적 부착",
         "Desc": [
-            "For every 1% of the difference between a character's Max HP and current HP, their ATK increases by <color style='color:#f29e38;'>0.8%</color>.",
-            "For every 1% of a character's Max HP that is lost, their ATK increases by <color style='color:#f29e38;'>0.8%</color> and DEF by <color style='color:#f29e38;'>0.5%</color>."
+            "캐릭터가 HP를 1% 잃을 때마다 공격력이 <color style='color:#f29e38;'>0.8%</color>씩 증가한다",
+            "캐릭터가 HP를 1% 잃을 때마다 공격력이 <color style='color:#f29e38;'>0.8%</color>씩, 방어력이 <color style='color:#f29e38;'>0.5%</color>씩 증가한다"
         ],
         "SimpleDesc": [
-            "The lower a character's current HP is, the higher their ATK becomes.",
-            "The lower a character's current HP is, the higher their ATK and DEF become."
+            "캐릭터의 현재 HP가 낮을수록 공격력이 증가한다",
+            "캐릭터의 현재 HP가 낮을수록 공격력과 방어력이 증가한다"
         ],
         "Effects": []
     },
@@ -1320,14 +1320,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 2,
         "Icon": "/IconRogueWarrior01.png",
-        "Name": "Destructive Flare",
+        "Name": "파괴성 불길",
         "Desc": [
-            "When a character's HP is lower than <color style='color:#f29e38;'>50.0%</color>, deals <color style='color:#f29e38;'>40.0%</color> increased DMG.",
-            "When a character's HP is lower than <color style='color:#f29e38;'>50.0%</color>, deals <color style='color:#f29e38;'>50.0%</color> increased DMG. When HP's lower than <color style='color:#f29e38;'>35.0%</color>, DMG dealt further increases by <color style='color:#f29e38;'>20.0%</color>."
+            "캐릭터의 현재 HP 백분율이 <color style='color:#f29e38;'>50.0%</color> 미만일 시 가하는 피해가 <color style='color:#f29e38;'>40.0%</color> 증가한다",
+            "캐릭터의 현재 HP 백분율이 <color style='color:#f29e38;'>50.0%</color> 미만일 시 가하는 피해가 <color style='color:#f29e38;'>50.0%</color> 증가한다. <color style='color:#f29e38;'>35.0%</color> 미만일 시 가하는 피해가 추가로 <color style='color:#f29e38;'>20.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "When a character's HP percentage is lower than <color style='color:#f29e38;'>50.0%</color>, they deal increased DMG.",
-            "When a character's current HP percentage is lower than <color style='color:#f29e38;'>50.0%</color>, they deal increased DMG. When their HP is lower than <color style='color:#f29e38;'>35.0%</color>, they deal further increased DMG."
+            "캐릭터의 현재 HP 백분율이 <color style='color:#f29e38;'>50.0%</color> 미만일 시 가하는 피해가 증가한다",
+            "캐릭터의 현재 HP 백분율이 <color style='color:#f29e38;'>50.0%</color> 미만일 시 가하는 피해가 증가한다. <color style='color:#f29e38;'>35.0%</color> 미만일 시 가하는 피해가 추가로 증가한다"
         ],
         "Effects": []
     },
@@ -1336,14 +1336,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 2,
         "Icon": "/IconRogueWarrior02.png",
-        "Name": "Disciplinary Flicker",
+        "Name": "규칙적인 깜빡임",
         "Desc": [
-            "If a character's HP is lower than <color style='color:#f29e38;'>35.0%</color> after being attacked or losing HP, restores their HP by <color style='color:#f29e38;'>12.0%</color> of their Max HP.",
-            "If a character's HP is lower than <color style='color:#f29e38;'>35.0%</color> after being attacked or losing HP, restores their HP by <color style='color:#f29e38;'>12.0%</color> of their Max HP. The lower the current HP is, the more HP will be restored this way, but no more than <color style='color:#f29e38;'>20.0%</color>."
+            "캐릭터가 피격 또는 HP 소모 후, 현재 HP 백분율이 <color style='color:#f29e38;'>35.0%</color> 미만일 경우, HP를 HP 최대치의 <color style='color:#f29e38;'>12.0%</color>만큼 회복한다",
+            "캐릭터가 피격 또는 HP 소모 후 현재 HP 백분율이 <color style='color:#f29e38;'>35.0%</color> 미만일 시, HP를 HP 최대치의 <color style='color:#f29e38;'>12.0%</color>만큼 회복한다. 현재 HP가 낮을수록 회복량이 많으며, 최대 <color style='color:#f29e38;'>20.0%</color> 회복한다"
         ],
         "SimpleDesc": [
-            "When a character is hit or have their HP lowered, their HP is restored if their current HP percentage is lower than <color style='color:#f29e38;'>35.0%</color>.",
-            "When a character is hit or have their HP lowered, their HP is restored if their current HP is lower than <color style='color:#f29e38;'>35.0%</color>. The lower their HP is, the more HP is restored."
+            "캐릭터가 피격 또는 HP 소모 후 현재 HP 백분율이 <color style='color:#f29e38;'>35.0%</color> 미만일 경우 HP를 회복한다",
+            "캐릭터는 피격 또는 HP 소모 후 현재 HP 백분율이 <color style='color:#f29e38;'>35.0%</color> 미만일 경우 HP를 회복한다. HP가 낮을수록 회복량이 증가한다"
         ],
         "Effects": []
     },
@@ -1352,14 +1352,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 2,
         "Icon": "/IconRogueWarrior02.png",
-        "Name": "Hazardous Lucent Residue",
+        "Name": "유해성 여광",
         "Desc": [
-            "After a character uses their Ultimate, they gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'>25.0%</color> of the HP difference between their Max HP and current HP, lasting for <color style='color:#f29e38;'>2.0</color> turn(s).",
-            "After a character uses their Ultimate, they gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'>25.0%</color> of the HP difference between their Max HP and current HP, plus <color style='color:#f29e38;'>7.0%</color> of their Max HP, lasting for <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "캐릭터가 필살기를 발동하면 잃은 HP의 <color style='color:#f29e38;'>25.0%</color>만큼을 상쇄할 수 있는 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴",
+            "캐릭터가 필살기를 발동하면 잃은 HP의 <color style='color:#f29e38;'>25.0%</color>+HP 최대치의 <color style='color:#f29e38;'>7.0%</color>만큼 상쇄할 수 있는 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         ],
         "SimpleDesc": [
-            "After using their Ultimate, characters gain a Shield based on the HP difference between their Max HP and current HP.",
-            "After a character uses their Ultimate, they gain a Shield based on the HP difference between their Max HP and current HP."
+            "캐릭터가 필살기를 발동하면 잃은 HP에 따라 실드를 획득한다",
+            "필살기 발동 후 잃은 HP 및 HP 최대치에 따라 실드를 획득한다"
         ],
         "Effects": []
     },
@@ -1368,14 +1368,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 1,
         "Icon": "/IconRogueWarrior01.png",
-        "Name": "Primordial Black Hole",
+        "Name": "원생 블랙홀",
         "Desc": [
-            "Characters gain a <color style='color:#f29e38;'>5.0%</color> ATK increase for each Destruction Blessing. This effect can stack up to a max of <color style='color:#f29e38;'>6.0</color> time(s).",
-            "Characters gain a <color style='color:#f29e38;'>7.0%</color> ATK increase for each Destruction Blessing. This effect can stack up to a max of <color style='color:#f29e38;'>9.0</color> time(s)."
+            "「파멸」의 축복을 1개 보유할 때마다 캐릭터의 공격력이 <color style='color:#f29e38;'>5.0%</color> 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>6.0</color>스택",
+            "「파멸」의 축복을 1개 보유할 때마다 캐릭터의 공격력이 <color style='color:#f29e38;'>7.0%</color> 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>9.0</color>스택"
         ],
         "SimpleDesc": [
-            "The more Blessings of Destruction the team has, the higher the characters' ATK becomes.",
-            "The more Blessings of Destruction the team has, the higher the characters' ATK becomes."
+            "「파멸」의 축복이 많을수록 캐릭터의 공격력이 증가한다",
+            "「파멸」의 축복이 많을수록 캐릭터의 공격력이 증가한다"
         ],
         "Effects": []
     },
@@ -1384,14 +1384,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 1,
         "Icon": "/IconRogueWarrior02.png",
-        "Name": "Reflection",
+        "Name": "반사 효과",
         "Desc": [
-            "When struck with a killing blow, instead of becoming downed, characters immediately restore HP by <color style='color:#f29e38;'>1.0%</color> of their Max HP. The allied team can only trigger this effect <color style='color:#f29e38;'>1.0</color> time(s) per battle.",
-            "When struck with a killing blow, instead of becoming downed, characters immediately restore HP by <color style='color:#f29e38;'>30.0%</color> of their Max HP. The allied team can only trigger this effect <color style='color:#f29e38;'>1.0</color> time(s) per battle."
+            "캐릭터가 치명적인 공격을 받아도 전투 불능 상태에 빠지지 않으며, 현재 HP를 자신 HP 최대치의 <color style='color:#f29e38;'>1.0%</color>까지 즉시 회복한다. 해당 효과는 모든 아군의 단일 전투에서 <color style='color:#f29e38;'>1.0</color>회만 발동한다",
+            "캐릭터가 치명적인 공격을 받아도 전투 불능 상태에 빠지지 않으며, 현재 HP를 자신 HP 최대치의 <color style='color:#f29e38;'>30.0%</color>까지 즉시 회복한다. 해당 효과는 모든 아군의 단일 전투에서 <color style='color:#f29e38;'>1.0</color>회만 발동한다"
         ],
         "SimpleDesc": [
-            "Characters can resist fatal attacks and restore their own HP. This can take effect a limited number of times among all allies.",
-            "Characters can resist fatal attacks and restore their own HP. This can take effect a limited number of times among all allies."
+            "캐릭터가 치명적인 피해에 저항하고 자신의 HP를 회복한다. 해당 효과는 모든 아군의 적용 횟수가 제한된다",
+            "캐릭터가 치명적인 피해에 저항하고 자신의 HP를 회복한다. 해당 효과는 모든 아군의 적용 횟수가 제한된다"
         ],
         "Effects": []
     },
@@ -1400,14 +1400,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 1,
         "Icon": "/IconRogueWarrior02.png",
-        "Name": "Orbital Redshift",
+        "Name": "궤도 적색편이",
         "Desc": [
-            "Increases Max HP by <color style='color:#f29e38;'>16.0%</color>.",
-            "Increases Max HP by <color style='color:#f29e38;'>24.0%</color>."
+            "캐릭터의 HP 최대치가 <color style='color:#f29e38;'>16.0%</color> 증가한다",
+            "캐릭터의 HP 최대치가 <color style='color:#f29e38;'>24.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Increases Max HP.",
-            "Increases Max HP."
+            "캐릭터의 HP 최대치가 증가한다",
+            "캐릭터의 HP 최대치가 증가한다"
         ],
         "Effects": []
     },
@@ -1416,14 +1416,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 1,
         "Icon": "/IconRogueWarrior03.png",
-        "Name": "Instability Strip",
+        "Name": "불안정한 구역",
         "Desc": [
-            "When characters are hit or have lost HP, <color style='color:#f29e38;'>4.0</color> Energy is regenerated.",
-            "When characters are hit or have lost HP, <color style='color:#f29e38;'>6.0</color> Energy is regenerated."
+            "캐릭터는 피격 또는 HP 소모 후 에너지를 <color style='color:#f29e38;'>4.0</color>pt 회복한다",
+            "캐릭터는 피격 또는 HP 소모 후 에너지를 <color style='color:#f29e38;'>6.0</color>pt 회복한다"
         ],
         "SimpleDesc": [
-            "When characters are hit or are losing HP, their Energy is regenerated.",
-            "When characters are hit or are losing HP, their Energy is regenerated."
+            "캐릭터는 피격 또는 HP 소모 후 에너지를 회복한다",
+            "캐릭터는 피격 또는 HP 소모 후 에너지를 회복한다"
         ],
         "Effects": []
     },
@@ -1432,14 +1432,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 1,
         "Icon": "/IconRogueWarrior02.png",
-        "Name": "Metric Reservation",
+        "Name": "비축 게이지",
         "Desc": [
-            "Upon entering battle, characters gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'>36.0%</color> the HP difference between the character's Max HP and current HP, lasting for <color style='color:#f29e38;'>2.0</color> turn(s).",
-            "Upon entering battle, characters gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'>54.0%</color> the HP difference between the character's Max HP and current HP, lasting for <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "전투 진입 시 잃은 HP <color style='color:#f29e38;'>36.0%</color>만큼의 피해를 상쇄할 수 있는 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴",
+            "전투 진입 시 잃은 HP <color style='color:#f29e38;'>54.0%</color>만큼의 피해를 상쇄할 수 있는 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         ],
         "SimpleDesc": [
-            "Upon entering battle, characters gain a Shield based on the HP difference between the character's Max HP and current HP.",
-            "Upon entering battle, characters gain a Shield based on the HP difference between the character's Max HP and current HP."
+            "전투 진입 시 잃은 HP에 따라 실드를 획득한다",
+            "전투 진입 시 잃은 HP에 따라 실드를 획득한다"
         ],
         "Effects": []
     },
@@ -1448,14 +1448,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 1,
         "Icon": "/IconRogueWarrior02.png",
-        "Name": "Sentinel Satellite",
+        "Name": "초계 위성",
         "Desc": [
-            "When a character's HP is lower than <color style='color:#f29e38;'>50.0%</color>, they gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'>20.0%</color> of their Max HP for <color style='color:#f29e38;'>2.0</color> turn(s). This effect can only be triggered <color style='color:#f29e38;'>1.0</color> time(s) by each character per battle.",
-            "When a character's HP is lower than <color style='color:#f29e38;'>50.0%</color>, they gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'>30.0%</color> of their Max HP for <color style='color:#f29e38;'>2.0</color> turn(s). This effect can only be triggered <color style='color:#f29e38;'>1.0</color> time(s) by each character per battle."
+            "캐릭터의 현재 HP 백분율이 <color style='color:#f29e38;'>50.0%</color> 미만일 시 자신 HP 최대치 <color style='color:#f29e38;'>20.0%</color>만큼의 피해를 상쇄할 수 있는 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴. 해당 효과는 캐릭터당 단일 전투에서 <color style='color:#f29e38;'>1.0</color>회만 발동한다",
+            "캐릭터의 현재 HP 백분율이 <color style='color:#f29e38;'>50.0%</color> 미만일 시 자신 HP 최대치 <color style='color:#f29e38;'>30.0%</color>만큼의 피해를 상쇄할 수 있는 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴. 해당 효과는 캐릭터당 단일 전투에서 <color style='color:#f29e38;'>1.0</color>회만 발동한다"
         ],
         "SimpleDesc": [
-            "When a character's current HP percentage is lower than <color style='color:#f29e38;'>50.0%</color>, they receive a Shield. This buff can only be triggered a limited number of times.",
-            "When a character's current HP percentage is lower than <color style='color:#f29e38;'>50.0%</color>, they receive a Shield. This buff can only be triggered a limited number of times."
+            "캐릭터의 현재 HP 백분율이 <color style='color:#f29e38;'>50.0%</color> 미만일 시 실드를 획득한다. 적용 횟수는 제한된다",
+            "캐릭터의 현재 HP 백분율이 <color style='color:#f29e38;'>50.0%</color> 미만일 시 실드를 획득한다. 적용 횟수는 제한된다"
         ],
         "Effects": []
     },
@@ -1464,14 +1464,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 1,
         "Icon": "/IconRogueWarrior02.png",
-        "Name": "Polarization Receptor",
+        "Name": "편광 수용기",
         "Desc": [
-            "For every 1% of HP lost by a character, their DEF increases by <color style='color:#f29e38;'>0.4%</color>.",
-            "For every 1% of HP lost by a character, their DEF increases by <color style='color:#f29e38;'>0.6%</color>."
+            "캐릭터가 HP를 1% 잃을 때마다 방어력이 <color style='color:#f29e38;'>0.4%</color>씩 증가한다",
+            "캐릭터가 HP를 1% 잃을 때마다 방어력이 <color style='color:#f29e38;'>0.6%</color>씩 증가한다"
         ],
         "SimpleDesc": [
-            "The lower a character's current HP is, the higher their DEF becomes.",
-            "The lower a character's current HP is, the higher their DEF becomes."
+            "캐릭터의 현재 HP가 낮을수록 방어력이 증가한다",
+            "캐릭터의 현재 HP가 낮을수록 방어력이 증가한다"
         ],
         "Effects": []
     },
@@ -1480,14 +1480,14 @@ var _blessing = [
         "Path": 125,
         "Rarity": 1,
         "Icon": "/IconRogueWarrior03.png",
-        "Name": "Eternally Collapsing Object",
+        "Name": "영구 붕괴체",
         "Desc": [
-            "For every 1% of HP lost by a character, their Effect RES increases by <color style='color:#f29e38;'>0.3%</color>.",
-            "For every 1% of HP lost by a character, their Effect RES increases by <color style='color:#f29e38;'>0.45%</color>."
+            "캐릭터가 HP를 1% 잃을 때마다 효과 저항이 <color style='color:#f29e38;'>0.3%</color>씩 증가한다",
+            "캐릭터가 HP를 1% 잃을 때마다 효과 저항이 <color style='color:#f29e38;'>0.45%</color>씩 증가한다"
         ],
         "SimpleDesc": [
-            "The lower a character's current HP is, the higher their Effect RES becomes.",
-            "The lower a character's current HP is, the higher their Effect RES becomes."
+            "캐릭터의 현재 HP가 낮을수록 효과 저항이 증가한다",
+            "캐릭터의 현재 HP가 낮을수록 효과 저항이 증가한다"
         ],
         "Effects": []
     },
@@ -1496,14 +1496,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Perfect Experience: Fuli",
+        "Name": "완벽 체험: 후리",
         "Desc": [
-            "When attacking Frozen enemies, there is a <color style='color:#f29e38;'>100.0%</color> base chance to inflict <u class='infou'>Dissociation</u> for <color style='color:#f29e38;'>1.0</color> turn(s).",
-            "When attacking Frozen enemies, there is a <color style='color:#f29e38;'>100.0%</color> base chance to apply <u class='infou'>Dissociation</u> to the enemy for <color style='color:#f29e38;'>1.0</color> turn(s). DMG dealt when <u class='infou'>Dissociation</u> is removed +<color style='color:#f29e38;'>20.0%</color>."
+            "캐릭터는 빙결 상태의 적에게 공격 발동 후 <color style='color:#f29e38;'>100.0%</color>의 기본 확률로 적을 [<u class='infou'>해리</u>] 상태에 빠트린다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴",
+            "캐릭터는 빙결 상태의 적에게 공격 발동 후, <color style='color:#f29e38;'>100.0%</color>의 기본 확률로 적을 [<u class='infou'>해리</u>] 상태에 빠트린다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴. 추가로 [<u class='infou'>해리</u>] 해제 시의 <color style='color:#f29e38;'>20.0%</color>만큼 피해를 준다"
         ],
         "SimpleDesc": [
-            "After attacking a Frozen enemy, apply <u class='infou'>Dissociation</u> on them.",
-            "After attacking a Frozen enemy, apply <u class='infou'>Dissociation</u> on them and deal extra DMG."
+            "캐릭터는 빙결 상태의 적 공격 후 [<u class='infou'>해리</u>] 상태를 부여한다",
+            "캐릭터는 빙결 상태의 적 공격 후 [<u class='infou'>해리</u>] 상태를 부여하고 추가로 피해를 가한다"
         ],
         "Effects": [
             60000002
@@ -1514,14 +1514,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Perfect Experience: Innocence",
+        "Name": "완벽 체험: 순진",
         "Desc": [
-            "After a character inflicts Weakness Break on an enemy, there is a <color style='color:#f29e38;'>100.0%</color> base chance to apply <u class='infou'>Dissociation</u> on the enemy for <color style='color:#f29e38;'>1.0</color> turn(s).",
-            "After a character inflicts Weakness Break on an enemy, there is a <color style='color:#f29e38;'>100.0%</color> base chance to apply <u class='infou'>Dissociation</u> on the enemy for <color style='color:#f29e38;'>1.0</color> turn(s). This effect ignores enemies' chance to resist Frozen."
+            "캐릭터가 적 약점 격파 후 <color style='color:#f29e38;'>100.0%</color>의 기본 확률로 적을 [<u class='infou'>해리</u>] 상태로 만든다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴",
+            "캐릭터가 적 약점 격파 후, <color style='color:#f29e38;'>100.0%</color>의 기본 확률로 적을 [<u class='infou'>해리</u>] 상태로 만든다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴. 해당 효과는 적의 빙결 상태 저항 확률을 무시한다"
         ],
         "SimpleDesc": [
-            "After a character inflicts Weakness Break on an enemy, apply <u class='infou'>Dissociation</u> on them.",
-            "After a character inflicts Weakness Break on an enemy, ignore the enemy's Freeze RES and apply <u class='infou'>Dissociation</u> on them."
+            "캐릭터가 적 약점 격파 후 [<u class='infou'>해리</u>] 상태를 부여한다",
+            "캐릭터가 적 약점 격파 후 적의 빙결 저항을 무시하고 [<u class='infou'>해리</u>] 상태를 부여한다"
         ],
         "Effects": [
             60000002
@@ -1532,14 +1532,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Perfect Experience: Reticence",
+        "Name": "완벽 체험: 침묵",
         "Desc": [
-            "After an enemy is attacked <color style='color:#f29e38;'>6.0</color> time(s), they have a <color style='color:#f29e38;'>120.0%</color> base chance to become Frozen for <color style='color:#f29e38;'>1.0</color> turn(s).",
-            "After an enemy is attacked <color style='color:#f29e38;'>5.0</color> time(s), they have a <color style='color:#f29e38;'>150.0%</color> base chance to become Frozen for <color style='color:#f29e38;'>1.0</color> turn(s)."
+            "적은 <color style='color:#f29e38;'>6.0</color>회 피격 후 <color style='color:#f29e38;'>120.0%</color>의 기본 확률로 빙결 상태에 빠진다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴",
+            "적은 <color style='color:#f29e38;'>5.0</color>회 피격 후 <color style='color:#f29e38;'>150.0%</color>의 기본 확률로 빙결 상태에 빠진다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴"
         ],
         "SimpleDesc": [
-            "The enemy has a high chance to become Frozen for every <color style='color:#f29e38;'>6.0</color> attack(s) it receives.",
-            "The enemy has a high chance to become Frozen for every <color style='color:#f29e38;'>5.0</color> attack(s) it receives."
+            "적이 <color style='color:#f29e38;'>6.0</color>회 공격을 받을 때마다 높은 확률로 빙결 상태에 빠진다",
+            "적이 <color style='color:#f29e38;'>5.0</color>회 공격을 받을 때마다 높은 확률로 빙결 상태에 빠진다"
         ],
         "Effects": []
     },
@@ -1548,14 +1548,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 2,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Ultimate Experience: Melancholia",
+        "Name": "극단 체험: 망연자실",
         "Desc": [
-            "Attacking an enemy with <u class='infou'>Dissociation</u> will remove <u class='infou'>Dissociation</u>, and deal DMG equal to <color style='color:#f29e38;'>150.0%</color> of the <u class='infou'>Dissociation</u> removal DMG.",
-            "Attacking an enemy with <u class='infou'>Dissociation</u> will remove <u class='infou'>Dissociation</u>, and deal DMG equal to <color style='color:#f29e38;'>200.0%</color> of the <u class='infou'>Dissociation</u> removal DMG."
+            "캐릭터가 [<u class='infou'>해리</u>] 상태의 적 공격 후 해당 적의 [<u class='infou'>해리</u>] 상태를 해제하고, [<u class='infou'>해리</u>] 해제 시 기존 피해량 <color style='color:#f29e38;'>150.0%</color>만큼의 피해를 준다",
+            "캐릭터가 [<u class='infou'>해리</u>] 상태의 적 공격 후 해당 적의 [<u class='infou'>해리</u>] 상태를 해제하고, [<u class='infou'>해리</u>] 해제 시 기존 피해량 <color style='color:#f29e38;'>200.0%</color>만큼의 피해를 준다"
         ],
         "SimpleDesc": [
-            "When a character attacks an enemy with <u class='infou'>Dissociation</u>, remove <u class='infou'>Dissociation</u> from the enemy and increase the DMG received when this status is removed.",
-            "When a character attacks an enemy with <u class='infou'>Dissociation</u>, remove <u class='infou'>Dissociation</u> from the enemy and increase the DMG received when this status is removed."
+            "캐릭터는 [<u class='infou'>해리</u>] 상태의 적 공격 후 [<u class='infou'>해리</u>] 상태를 해제하고 해제 시의 피해가 증가한다",
+            "캐릭터는 [<u class='infou'>해리</u>] 상태의 적 공격 후 [<u class='infou'>해리</u>] 상태를 해제하고 해제 시의 피해가 증가한다"
         ],
         "Effects": [
             60000002
@@ -1566,14 +1566,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 2,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Ultimate Experience: Dizziness",
+        "Name": "극단 체험: 현기증",
         "Desc": [
-            "Increases the DMG taken by enemies with <u class='infou'>Dissociation</u> by <color style='color:#f29e38;'>36.0%</color>. This effect will remain for 1 turn after <u class='infou'>Dissociation</u> is removed.",
-            "Increases the DMG taken by enemies with <u class='infou'>Dissociation</u> by <color style='color:#f29e38;'>54.0%</color>. This effect will remain for 1 turn after <u class='infou'>Dissociation</u> is removed."
+            "[<u class='infou'>해리</u>] 상태의 적이 받는 피해가 <color style='color:#f29e38;'>36.0%</color> 증가한다. 해당 효과는 [<u class='infou'>해리</u>] 상태를 해제 후에도 1턴 지속된다",
+            "[<u class='infou'>해리</u>] 상태의 적이 받는 피해가 <color style='color:#f29e38;'>54.0%</color> 증가한다. 해당 효과는 [<u class='infou'>해리</u>] 상태를 해제 후에도 1턴 지속된다"
         ],
         "SimpleDesc": [
-            "Enemies with <u class='infou'>Dissociation</u> take increased DMG.",
-            "Enemies with <u class='infou'>Dissociation</u> take increased DMG."
+            "적이 [<u class='infou'>해리</u>] 상태에서 받는 피해가 증가한다",
+            "적이 [<u class='infou'>해리</u>] 상태에서 받는 피해가 증가한다"
         ],
         "Effects": [
             60000002
@@ -1584,14 +1584,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 2,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Ultimate Experience: Insensitivity",
+        "Name": "극단 체험: 무감각",
         "Desc": [
-            "After <u class='infou'>Dissociation</u> is removed from an enemy, there is a <color style='color:#f29e38;'>50.0%</color> base chance to Freeze the enemy for <color style='color:#f29e38;'>1.0</color> turn(s).",
-            "After <u class='infou'>Dissociation</u> is removed from an enemy, there is a <color style='color:#f29e38;'>75.0%</color> base chance to Freeze the enemy for <color style='color:#f29e38;'>1.0</color> turn(s)."
+            "적의 [<u class='infou'>해리</u>] 상태 해제 후 <color style='color:#f29e38;'>50.0%</color>의 기본 확률로 적은 빙결 상태에 빠진다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴",
+            "적의 [<u class='infou'>해리</u>] 상태 해제 후 <color style='color:#f29e38;'>75.0%</color>의 기본 확률로 적은 빙결 상태에 빠진다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴"
         ],
         "SimpleDesc": [
-            "When <u class='infou'>Dissociation</u> is removed from an enemy, there is a chance for them to become Frozen.",
-            "After <u class='infou'>Dissociation</u> is removed from an enemy, there is a high chance for them to become Frozen."
+            "적은 [<u class='infou'>해리</u>] 상태 해제 시 일정 확률로 빙결 상태에 빠진다",
+            "적의 [<u class='infou'>해리</u>] 상태 해제 시 높은 확률로 빙결 상태에 빠진다"
         ],
         "Effects": [
             60000002
@@ -1602,14 +1602,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 2,
         "Icon": "/IconRogueMemory01.png",
-        "Name": "Ultimate Experience: Sentimentality",
+        "Name": "극단 체험: 감성적",
         "Desc": [
-            "After an enemy receives Ice DMG, enemies adjacent to it also receive DMG equal to <color style='color:#f29e38;'>20.0%</color> of the DMG taken by the target enemy.",
-            "After an enemy receives Ice DMG, all other enemies also receive DMG equal to <color style='color:#f29e38;'>24.0%</color> of the DMG taken by the target enemy."
+            "적이 얼음 속성 피해를 받은 후 인접한 목표에게 기존 피해량 <color style='color:#f29e38;'>20.0%</color>만큼의 피해를 준다",
+            "적이 얼음 속성 피해를 받은 후 나머지 적도 기존 피해 <color style='color:#f29e38;'>24.0%</color>만큼의 피해를 받는다"
         ],
         "SimpleDesc": [
-            "Ice DMG taken by enemies can affect enemies adjacent to the target enemy.",
-            "Ice DMG dealt to an enemy can be Blasted to all enemies."
+            "적이 받는 얼음 속성 피해가 인접한 목표에게 확산된다",
+            "적이 받는 얼음 속성 피해가 모든 적에게 확산된다"
         ],
         "Effects": []
     },
@@ -1618,14 +1618,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 2,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Ultimate Experience: Indelibility",
+        "Name": "극단 체험: 감명",
         "Desc": [
-            "When a character deals DMG to an enemy, there's a <color style='color:#f29e38;'>2.0%</color> base chance to Freeze the hit enemy for <color style='color:#f29e38;'>1.0</color> turn(s).",
-            "Enemies' chance to resist Frozen decreases by <color style='color:#f29e38;'>20.0%</color>. When a character deals DMG to an enemy, there is a <color style='color:#f29e38;'>2.5%</color> base chance to Freeze the hit enemy for <color style='color:#f29e38;'>1.0</color> turn(s)."
+            "캐릭터가 적에게 피해를 가할 시 <color style='color:#f29e38;'>2.0%</color>의 기본 확률로 적을 빙결 상태에 빠지게 한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴",
+            "적의 빙결 상태 저항 확률이 <color style='color:#f29e38;'>20.0%</color> 감소한다. 캐릭터가 적에게 피해를 가할 시 <color style='color:#f29e38;'>2.5%</color>의 기본 확률로 해당 적을 빙결 상태에 빠트린다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴"
         ],
         "SimpleDesc": [
-            "When characters deal DMG to enemies, there is a small chance to Freeze the enemy.",
-            "Reduce the enemy's Freeze RES. When characters deal DMG to enemies, there is a small chance to Freeze the enemy."
+            "캐릭터가 피해를 가할 시 낮은 확률로 적을 빙결 상태에 빠트린다",
+            "적의 빙결 저항이 감소한다. 캐릭터가 피해를 가할 시 낮은 확률로 적을 빙결 상태에 빠트린다"
         ],
         "Effects": []
     },
@@ -1634,14 +1634,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 2,
         "Icon": "/IconRogueMemory05.png",
-        "Name": "Ultimate Experience: Shudder",
+        "Name": "극단 체험: 소름",
         "Desc": [
-            "After a character uses their Ultimate, there is a <color style='color:#f29e38;'>70.0%</color> base chance to apply Ice Weakness to a random enemy for <color style='color:#f29e38;'>2.0</color> turn(s).",
-            "After a character uses their Ultimate, there is a <color style='color:#f29e38;'>70.0%</color> base chance to apply Ice Weakness to a random enemy who has no Ice Weakness for <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "캐릭터가 필살기를 발동하면 <color style='color:#f29e38;'>70.0%</color>의 기본 확률로 임의 단일 적에게 얼음 속성 약점을 부여한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴",
+            "캐릭터가 필살기를 발동하면 <color style='color:#f29e38;'>70.0%</color>의 기본 확률로 얼음 속성 약점에 걸리지 않은 임의의 단일 적에게 얼음 속성 약점을 부여한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         ],
         "SimpleDesc": [
-            "After a character uses their Ultimate, a random enemy gains Ice Weakness.",
-            "After a character uses their Ultimate, a random enemy without Ice Weakness gains Ice Weakness."
+            "캐릭터가 필살기를 발동하면 임의 단일 적에게 얼음 속성 약점을 부여한다",
+            "캐릭터가 필살기를 발동하면 얼음 속성 약점이 없는 임의의 단일 적은 얼음 속성 약점을 획득한다"
         ],
         "Effects": []
     },
@@ -1650,14 +1650,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 2,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Ultimate Experience: Maverick",
+        "Name": "극단 체험: 독단적 행동",
         "Desc": [
-            "Upon entering battle, there is a <color style='color:#f29e38;'>150.0%</color> base chance for all enemies to become Frozen for <color style='color:#f29e38;'>1.0</color> turn(s).",
-            "Upon entering battle, there is a <color style='color:#f29e38;'>150.0%</color> base chance for all enemies to become Frozen and have their SPD reduced by <color style='color:#f29e38;'>30.0%</color>, lasting for <color style='color:#f29e38;'>1.0</color> turn(s)."
+            "전투 진입 시 모든 단일 적이 <color style='color:#f29e38;'>150.0%</color>의 기본 확률로 빙결 상태에 빠진다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴",
+            "전투 진입 시 모든 단일 적이 <color style='color:#f29e38;'>150.0%</color>의 기본 확률로 빙결 상태에 빠지고, 속도가 <color style='color:#f29e38;'>30.0%</color> 감소한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴"
         ],
         "SimpleDesc": [
-            "Upon entering battle, there is a high chance of inflicting Freeze on all enemies.",
-            "Upon entering battle, there is a high chance of inflicting Freeze on all enemy units, as well as lowering their SPD."
+            "전투 진입 시 높은 확률로 모든 적을 빙결 상태로 만든다",
+            "전투 진입 시 높은 확률로 모든 적을 빙결 상태로 만들고 속도를 감소시킨다"
         ],
         "Effects": []
     },
@@ -1666,14 +1666,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 1,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Experience: Unspeakable Shame",
+        "Name": "체험 : 말 못 할 치욕",
         "Desc": [
-            "For every Blessing of Remembrance the team has, enemies' chance to resist Frozen decreases by <color style='color:#f29e38;'>6.0%</color>, stacking up to <color style='color:#f29e38;'>6.0</color> time(s).",
-            "For every Blessing of Remembrance the team has, enemies' chance to resist Frozen decreases by <color style='color:#f29e38;'>8.0%</color>, stacking up to <color style='color:#f29e38;'>9.0</color> time(s)."
+            "「기억」의 축복을 1개 보유할 때마다 적의 빙결 상태에 대한 저항 확률이 <color style='color:#f29e38;'>6.0%</color>씩 감소한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>6.0</color>스택",
+            "「기억」의 축복을 1개 보유할 때마다 적의 빙결 상태에 대한 저항 확률이 <color style='color:#f29e38;'>8.0%</color>씩 감소한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>9.0</color>스택"
         ],
         "SimpleDesc": [
-            "The more Blessings of Remembrance the team has, the lower the enemy's Freeze RES become.",
-            "The more Blessings of Remembrance the team has, the lower the enemy's Freeze RES become."
+            "「기억」의 축복이 많을수록 적의 빙결 저항이 감소한다",
+            "「기억」의 축복이 많을수록 적의 빙결 저항이 감소한다"
         ],
         "Effects": []
     },
@@ -1682,14 +1682,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 1,
         "Icon": "/IconRogueMemory03.png",
-        "Name": "Experience: The Torment of Alienation",
+        "Name": "체험: 소외의 고통",
         "Desc": [
-            "Characters' Effect Hit Rate increases by <color style='color:#f29e38;'>16.0%</color>.",
-            "Characters' Effect Hit Rate increases by <color style='color:#f29e38;'>24.0%</color>."
+            "캐릭터의 효과 명중이 <color style='color:#f29e38;'>16.0%</color> 증가한다",
+            "캐릭터의 효과 명중이 <color style='color:#f29e38;'>24.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Increases Effect Hit Rate.",
-            "Increases Effect Hit Rate."
+            "캐릭터의 효과 명중이 증가한다",
+            "캐릭터의 효과 명중이 증가한다"
         ],
         "Effects": []
     },
@@ -1698,14 +1698,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 1,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Experience: Lost Memory",
+        "Name": "체험: 잃어버린 기억",
         "Desc": [
-            "When attacks reduce an enemy's HP to a point that is lower than <color style='color:#f29e38;'>50.0%</color> for the first time in this battle, there's a <color style='color:#f29e38;'>70.0%</color> base chance to Freeze the enemy for <color style='color:#f29e38;'>1.0</color> turn(s).",
-            "When attacks reduce an enemy's HP to a point that is lower than <color style='color:#f29e38;'>50.0%</color> for the first time in this battle, there's a <color style='color:#f29e38;'>100.0%</color> base chance to Freeze the enemy for <color style='color:#f29e38;'>1.0</color> turn(s)."
+            "캐릭터가 공격 발동 후 피격된 적의 현재 HP 백분율이 처음으로 <color style='color:#f29e38;'>50.0%</color> 미만일 시, <color style='color:#f29e38;'>70.0%</color> 기본 확률로 해당 적을 빙결 상태에 빠트린다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴",
+            "캐릭터가 공격 발동 후 피격된 적의 현재 HP 백분율이 처음으로 <color style='color:#f29e38;'>50.0%</color> 미만일 시, <color style='color:#f29e38;'>100.0%</color> 기본 확률로 해당 적을 빙결 상태에 빠트린다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴"
         ],
         "SimpleDesc": [
-            "Enemies have a chance of becoming Frozen when they fall to low health from characters' attacks.",
-            "Enemies have a high chance of becoming Frozen when they fall to low HP from allies' attacks."
+            "캐릭터가 적을 낮은 HP까지 공격 후 일정 확률로 해당 적을 빙결 상태로 만든다",
+            "캐릭터가 적을 낮은 HP까지 공격 후 높은 확률로 해당 적을 빙결 상태로 만든다"
         ],
         "Effects": []
     },
@@ -1714,14 +1714,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 1,
         "Icon": "/IconRogueMemory01.png",
-        "Name": "Experience: Stone Cold Hatred",
+        "Name": "체험: 단호한 원망",
         "Desc": [
-            "When a character uses their Skill or Ultimate to attack a Frozen enemy, DMG for this attack increases by <color style='color:#f29e38;'>36.0%</color>.",
-            "When a character uses their Skill or Ultimate to attack a Frozen enemy, DMG for this attack increases by <color style='color:#f29e38;'>54.0%</color>."
+            "캐릭터가 빙결 상태의 적에게 전투 스킬 또는 필살기 발동 시 가하는 피해가 <color style='color:#f29e38;'>36.0%</color> 증가한다",
+            "캐릭터가 빙결 상태의 적에게 전투 스킬 또는 필살기 발동 시 가하는 피해가 <color style='color:#f29e38;'>54.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Characters' Skill and Ultimate deal increased DMG against Frozen enemies.",
-            "Characters' Skill and Ultimate deal increased DMG against Frozen enemies."
+            "캐릭터가 전투 스킬 또는 필살기 발동 시 빙결 상태의 적에게 가하는 피해가 증가한다",
+            "캐릭터가 전투 스킬 또는 필살기 발동 시 빙결 상태의 적에게 가하는 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -1730,14 +1730,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 1,
         "Icon": "/IconRogueMemory01.png",
-        "Name": "Experience: Pain & Suffering",
+        "Name": "체험: 아픔의 고통",
         "Desc": [
-            "Right after an enemy is Frozen, the next <color style='color:#f29e38;'>1.0</color> attack(s) launched against the said enemy will have 100% increased CRIT Rate. This effect is dispelled when the Frozen state is removed.",
-            "Right after an enemy is Frozen, the next <color style='color:#f29e38;'>2.0</color> attack(s) launched against the said enemy will have 100% increased CRIT Rate. This effect is dispelled when the Frozen state is removed."
+            "적은 빙결 상태에 빠진 후 <color style='color:#f29e38;'>1.0</color>회 피격은 치명타 확률이 100% 증가한다. 빙결 상태 해제 시 효과는 사라진다",
+            "적은 빙결 상태에 빠진 후 <color style='color:#f29e38;'>2.0</color>회 피격은 치명타 확률이 100% 증가한다. 빙결 상태 해제 시 효과는 사라진다"
         ],
         "SimpleDesc": [
-            "After an enemy is Frozen, the next <color style='color:#f29e38;'>1.0</color> attack(s) they receive are guaranteed to CRIT.",
-            "After an enemy is Frozen, the next <color style='color:#f29e38;'>2.0</color> attack(s) they receive are guaranteed to CRIT."
+            "적이 빙결 상태에 빠진 후 <color style='color:#f29e38;'>1.0</color>회 피격은 반드시 치명타다",
+            "적이 빙결 상태에 빠진 후 <color style='color:#f29e38;'>2.0</color>회 피격은 반드시 치명타다"
         ],
         "Effects": []
     },
@@ -1746,14 +1746,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 1,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Experience: Primordial Hardship",
+        "Name": "체험: 원초적 고충",
         "Desc": [
-            "Increases the DMG taken by Frozen enemies by <color style='color:#f29e38;'>16.0%</color>.",
-            "Increases the DMG taken by Frozen enemies by <color style='color:#f29e38;'>24.0%</color>."
+            "빙결 상태의 적이 받는 피해가 <color style='color:#f29e38;'>16.0%</color> 증가한다",
+            "빙결 상태의 적이 받는 피해가 <color style='color:#f29e38;'>24.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "DMG taken by Frozen enemies increases.",
-            "DMG taken by Frozen enemies increases."
+            "적이 빙결 상태에서 받는 피해가 증가한다",
+            "적이 빙결 상태에서 받는 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -1762,14 +1762,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 1,
         "Icon": "/IconRogueMemory03.png",
-        "Name": "Experience: Thrill of Escalation",
+        "Name": "체험: 상승의 자극",
         "Desc": [
-            "When a character Freezes an enemy, regenerates <color style='color:#f29e38;'>8.0</color> Energy. This effect may only trigger once per action.",
-            "When a character Freezes an enemy, regenerates <color style='color:#f29e38;'>12.0</color> Energy. This effect may only trigger once per action."
+            "캐릭터가 적에게 빙결 상태 부여 후 자신의 에너지를 <color style='color:#f29e38;'>8.0</color>pt 회복한다. 이 효과는 행동할 때마다 1회만 발동한다.",
+            "캐릭터가 적에게 빙결 상태 부여 후 자신의 에너지를 <color style='color:#f29e38;'>12.0</color>pt 회복한다. 이 효과는 행동할 때마다 1회만 발동한다."
         ],
         "SimpleDesc": [
-            "Characters regenerate Energy when they apply Freeze on enemies.",
-            "Characters regenerate Energy when they apply Freeze on enemies."
+            "캐릭터가 적에게 빙결 상태 부여 후 에너지를 회복한다",
+            "캐릭터가 적에게 빙결 상태 부여 후 에너지를 회복한다"
         ],
         "Effects": []
     },
@@ -1778,14 +1778,14 @@ var _blessing = [
         "Path": 121,
         "Rarity": 1,
         "Icon": "/IconRogueMemory02.png",
-        "Name": "Experience: Responsive Excitement",
+        "Name": "체험: 호응의 감동",
         "Desc": [
-            "When a character applies Freeze to an enemy, the character gains a Shield that can absorb DMG equal to <color style='color:#f29e38;'>16.0%</color> of their Max HP for <color style='color:#f29e38;'>3.0</color> turn(s).",
-            "When a character applies Freeze to an enemy, the character gains a Shield that can absorb DMG equal to <color style='color:#f29e38;'>24.0%</color> of their Max HP for <color style='color:#f29e38;'>3.0</color> turn(s)."
+            "캐릭터가 적에게 빙결 상태 부여 후 자신 HP 최대치 <color style='color:#f29e38;'>16.0%</color>만큼의 피해를 상쇄할 수 있는 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>3.0</color>턴",
+            "캐릭터가 적에게 빙결 상태 부여 후 자신 HP 최대치 <color style='color:#f29e38;'>24.0%</color>만큼의 피해를 상쇄할 수 있는 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>3.0</color>턴"
         ],
         "SimpleDesc": [
-            "Characters gain a Shield when they apply Freeze on enemies.",
-            "Characters gain a Shield when they apply Freeze on enemies."
+            "캐릭터가 적에게 빙결 상태 부여 후 실드를 획득한다",
+            "캐릭터가 적에게 빙결 상태 부여 후 실드를 획득한다"
         ],
         "Effects": []
     },
@@ -1794,14 +1794,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/IconRogueJoy01.png",
-        "Name": "<i>Auto-Harmonica: Whitest Night</i>",
+        "Name": "≪오토 하모니카 • 망망백야≫",
         "Desc": [
-            "After a character launches a follow-up attack, they deal <u class='infou'>Aftertaste</u> DMG equal to <color style='color:#f29e38;'>55.0%</color> of their ATK for <color style='color:#f29e38;'>1.0</color> to <color style='color:#f29e38;'>3.0</color> time(s).",
-            "After a character launches a follow-up attack, they deal <u class='infou'>Aftertaste</u> DMG equal to <color style='color:#f29e38;'>60.0%</color> of their ATK for <color style='color:#f29e38;'>1.0</color> – <color style='color:#f29e38;'>3.0</color> time(s). And increases <u class='infou'>Aftertaste</u> DMG by <color style='color:#f29e38;'>35.0%</color>."
+            "캐릭터가 추가 공격 발동 후 피격된 적에게 캐릭터의 공격력 <color style='color:#f29e38;'>55.0%</color>만큼의 [<u class='infou'>음미</u>] 피해를 <color style='color:#f29e38;'>1.0</color>-<color style='color:#f29e38;'>3.0</color>회 가한다",
+            "캐릭터가 추가 공격 발동 후 피격된 적에게 캐릭터 공격력 <color style='color:#f29e38;'>60.0%</color>만큼의 [<u class='infou'>음미</u>] 피해를 <color style='color:#f29e38;'>1.0</color>~<color style='color:#f29e38;'>3.0</color>회 가하며, [<u class='infou'>음미</u>]가 가하는 피해가 <color style='color:#f29e38;'>35.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "After characters launch follow-up attacks, deal <u class='infou'>Aftertaste</u> DMG <color style='color:#f29e38;'>1.0</color> — <color style='color:#f29e38;'>3.0</color> time(s).",
-            "After characters launch follow-up attacks, deal <u class='infou'>Aftertaste</u> DMG <color style='color:#f29e38;'>1.0</color> — <color style='color:#f29e38;'>3.0</color> time(s) and increase <u class='infou'>Aftertaste</u> DMG."
+            "캐릭터가 추가 공격 발동 후 <color style='color:#f29e38;'>1.0</color>-<color style='color:#f29e38;'>3.0</color>회의 [<u class='infou'>음미</u>] 피해를 가한다",
+            "캐릭터가 추가 공격 발동 후 <color style='color:#f29e38;'>1.0</color>~<color style='color:#f29e38;'>3.0</color>회의 [<u class='infou'>음미</u>] 피해를 가하고, [<u class='infou'>음미</u>] 피해가 증가한다"
         ],
         "Effects": [
             60000003
@@ -1812,14 +1812,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/IconRogueJoy01.png",
-        "Name": "<i>Slaughterhouse No. 4: Rest in Peace</i>",
+        "Name": "≪4호 도살장 • 중생의 잠≫",
         "Desc": [
-            "When characters launch follow-up attacks to an enemy, deals <u class='infou'>Aftertaste</u> DMG equal to <color style='color:#f29e38;'>80.0%</color> of their ATK to the enemy being hit. If the enemy also has their Weakness Broken, then deals DMG for <color style='color:#f29e38;'>1.0</color> extra time(s).",
-            "When characters launch follow-up attacks to an enemy, deals <u class='infou'>Aftertaste</u> DMG equal to <color style='color:#f29e38;'>80.0%</color> of their ATK to the enemy being hit. If the enemy also has their Weakness Broken, then deals DMG for <color style='color:#f29e38;'>2.0</color> extra time(s)."
+            "캐릭터가 추가 공격 발동 후 피격된 적에게 캐릭터 공격력 <color style='color:#f29e38;'>80.0%</color>만큼의 [<u class='infou'>음미</u>] 피해를 1회 가한다. 대상 적이 약점 격파 상태일 경우 추가로 피해를 <color style='color:#f29e38;'>1.0</color>회 가한다",
+            "캐릭터가 추가 공격 발동 후 피격된 적에게 캐릭터 공격력 <color style='color:#f29e38;'>80.0%</color>만큼의 [<u class='infou'>음미</u>] 피해를 1회 가한다. 대상 적이 약점 격파 상태일 경우 추가로 피해를 <color style='color:#f29e38;'>2.0</color>회 가한다"
         ],
         "SimpleDesc": [
-            "After characters launch follow-up attacks, deals <u class='infou'>Aftertaste</u> DMG 1 time. If the enemy currently has their Weakness Broken, then deal this DMG <color style='color:#f29e38;'>1.0</color> extra time(s).",
-            "After characters launch follow-up attacks, deals <u class='infou'>Aftertaste</u> DMG 1 time. If the enemy currently has their Weakness Broken, then deal this DMG <color style='color:#f29e38;'>2.0</color> extra time(s)."
+            "캐릭터가 추가 공격 발동 후 1회의 [<u class='infou'>음미</u>] 피해를 가한다. 적이 약점 격파 상태일 경우 <color style='color:#f29e38;'>1.0</color>회를 추가로 가한다",
+            "캐릭터가 추가 공격 발동 후 1회의 [<u class='infou'>음미</u>] 피해를 가한다. 적이 약점 격파 상태일 경우 <color style='color:#f29e38;'>2.0</color>회를 추가로 가한다"
         ],
         "Effects": [
             60000003
@@ -1830,14 +1830,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/IconRogueJoy01.png",
-        "Name": "<i>Champion's Dinner: Cat's Cradle</i>",
+        "Name": "≪챔피언의 만찬 • 고양이의 요람≫",
         "Desc": [
-            "When characters deal DMG to an enemy with their Ultimate, this attack is considered a follow-up attack. Increases the DMG of follow-up attacks by <color style='color:#f29e38;'>15.0%</color>.",
-            "When characters deal DMG to an enemy with their Ultimate, this attack is considered a follow-up attack. Increases the DMG of follow-up attacks by <color style='color:#f29e38;'>55.0%</color>."
+            "캐릭터가 발동한 필살기가 적에게 피해를 입히면 추가 공격을 발동한 것으로 간주한다. 추가 공격으로 가하는 피해가 <color style='color:#f29e38;'>15.0%</color> 증가한다",
+            "캐릭터가 발동한 필살기가 적에게 피해를 입히면 추가 공격을 발동한 것으로 간주한다. 추가 공격으로 가하는 피해가 <color style='color:#f29e38;'>55.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Characters' Ultimates are considered as a follow-up attack. Follow-up attacks deal increased DMG.",
-            "Characters' Ultimates are considered as a follow-up attack. Follow-up attacks deal increased DMG."
+            "캐릭터가 발동한 필살기는 추가 공격으로 간주한다. 추가 공격으로 가하는 피해가 증가한다",
+            "캐릭터가 발동한 필살기는 추가 공격으로 간주한다. 추가 공격으로 가하는 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -1846,14 +1846,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 2,
         "Icon": "/IconRogueJoy01.png",
-        "Name": "<i>Portrait of A Man On Fire</i>",
+        "Name": "≪불타는 남자의 초상≫",
         "Desc": [
-            "When causing <u class='infou'>Aftertaste</u> DMG to an enemy, characters deal additional <u class='infou'>Aftertaste</u> DMG of different Types for <color style='color:#f29e38;'>1.0</color> time(s), at DMG values equal to <color style='color:#f29e38;'>60.0%</color> of the original DMG.",
-            "When causing <u class='infou'>Aftertaste</u> DMG to an enemy, characters deal extra <u class='infou'>Aftertaste</u> DMG of different Types for <color style='color:#f29e38;'>1.0</color> time(s), at DMG values equal to <color style='color:#f29e38;'>90.0%</color> of the original DMG."
+            "캐릭터가 적에게 [<u class='infou'>음미</u>] 피해 입힐 시 추가로 기존 피해량 <color style='color:#f29e38;'>60.0%</color>만큼의 각종 속성 [<u class='infou'>음미</u>] 피해를 <color style='color:#f29e38;'>1.0</color>회 준다",
+            "캐릭터가 적에게 [<u class='infou'>음미</u>] 피해 입힐 시 추가로 기존 피해량 <color style='color:#f29e38;'>90.0%</color>만큼의 각종 속성 [<u class='infou'>음미</u>] 피해를 <color style='color:#f29e38;'>1.0</color>회 준다"
         ],
         "SimpleDesc": [
-            "Every time enemies receive <u class='infou'>Aftertaste</u> DMG, they also receive extra <u class='infou'>Aftertaste</u> DMG <color style='color:#f29e38;'>1.0</color> time(s).",
-            "Every time enemies receive <u class='infou'>Aftertaste</u> DMG, they also receive extra <u class='infou'>Aftertaste</u> DMG <color style='color:#f29e38;'>1.0</color> time(s)."
+            "적은 [<u class='infou'>음미</u>] 피해를 받을 시 추가로 <color style='color:#f29e38;'>1.0</color>회의 [<u class='infou'>음미</u>] 피해를 받는다",
+            "적은 [<u class='infou'>음미</u>] 피해를 받을 시 추가로 <color style='color:#f29e38;'>1.0</color>회의 [<u class='infou'>음미</u>] 피해를 받는다"
         ],
         "Effects": [
             60000003
@@ -1864,14 +1864,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 2,
         "Icon": "/IconRogueJoy04.png",
-        "Name": "<i>Just Keep on Crying!</i>",
+        "Name": "≪흘려라 너의 눈물≫",
         "Desc": [
-            "For every 1 Type of <u class='infou'>Aftertaste</u> DMG the enemy received, increases the DMG taken by them by <color style='color:#f29e38;'>8.0%</color> until the end of their next action.",
-            "For every 1 Type of <u class='infou'>Aftertaste</u> DMG the enemy received, increases the DMG taken by them by <color style='color:#f29e38;'>12.0%</color> until the end of their next action."
+            "적이 1가지 속성의 [<u class='infou'>음미</u>] 피해를 받을 때마다 받는 피해가 <color style='color:#f29e38;'>8.0%</color>씩 증가한다. 다음 행동이 끝날 때까지 지속된다",
+            "적이 1가지 속성의 [<u class='infou'>음미</u>] 피해를 받을 때마다 받는 피해가 <color style='color:#f29e38;'>12.0%</color>씩 증가한다. 다음 행동이 끝날 때까지 지속된다"
         ],
         "SimpleDesc": [
-            "The more DMG Types an enemy receives from <u class='infou'>Aftertaste</u>, the more DMG they receive.",
-            "The more DMG Types an enemy receives from <u class='infou'>Aftertaste</u>, the more DMG they receive."
+            "적이 받은 [<u class='infou'>음미</u>] 피해의 속성 종류가 많을수록 받는 피해가 증가한다",
+            "적이 받은 [<u class='infou'>음미</u>] 피해의 속성 종류가 많을수록 받는 피해가 증가한다"
         ],
         "Effects": [
             60000003
@@ -1882,14 +1882,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 2,
         "Icon": "/IconRogueJoy04.png",
-        "Name": "<i>The Hourglass Kindergarten</i>",
+        "Name": "≪모래시계 아래의 유원≫",
         "Desc": [
-            "For every 1 Type of <u class='infou'>Aftertaste</u> DMG the enemy received, reduces their ATK by <color style='color:#f29e38;'>4.0%</color> until the end of their next action.",
-            "For every 1 Type of <u class='infou'>Aftertaste</u> DMG the enemy received, reduces their ATK by <color style='color:#f29e38;'>6.0%</color> until the end of their next action."
+            "적이 1가지 속성의 [<u class='infou'>음미</u>] 피해를 받을 때마다 공격력이 <color style='color:#f29e38;'>4.0%</color>씩 감소한다. 다음 행동이 끝날 때까지 지속된다",
+            "적이 1가지 속성의 [<u class='infou'>음미</u>] 피해를 받을 때마다 공격력이 <color style='color:#f29e38;'>6.0%</color>씩 감소한다. 다음 행동이 끝날 때까지 지속된다"
         ],
         "SimpleDesc": [
-            "The more DMG Types an enemy receives from <u class='infou'>Aftertaste</u>, the more their ATK is reduced.",
-            "The more DMG Types an enemy receives from <u class='infou'>Aftertaste</u>, the more their ATK is reduced."
+            "적이 받은 [<u class='infou'>음미</u>] 피해의 속성 종류가 많을수록 공격력이 감소한다",
+            "적이 받은 [<u class='infou'>음미</u>] 피해의 속성 종류가 많을수록 공격력이 감소한다"
         ],
         "Effects": [
             60000003
@@ -1900,14 +1900,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 2,
         "Icon": "/IconRogueJoy01.png",
-        "Name": "<i>The Painted Albatross</i>",
+        "Name": "≪얼룩진 신천옹≫",
         "Desc": [
-            "For each enemy hit by a character's follow-up attack, the character deals Additional DMG equal to <color style='color:#f29e38;'>24.0%</color> of their ATK to all enemies hit.",
-            "For each enemy hit by a character's follow-up attack, the character deals Additional DMG equal to <color style='color:#f29e38;'>36.0%</color> of their ATK to all enemies hit."
+            "캐릭터가 추가 공격 발동 후 적 1기를 명중할 때마다 각 명중한 적에게 캐릭터 공격력 <color style='color:#f29e38;'>24.0%</color>만큼의 추가 피해를 1회 준다",
+            "캐릭터가 추가 공격 발동 후 적 1기를 명중할 때마다 각 명중한 적에게 캐릭터 공격력 <color style='color:#f29e38;'>36.0%</color>만큼의 추가 피해를 1회 준다"
         ],
         "SimpleDesc": [
-            "Deals Additional DMG based on the number of enemies hit by follow-up attacks.",
-            "Deals Additional DMG based on the number of enemies hit by follow-up attacks."
+            "추가 공격이 명중한 목표 수량에 따라 추가 피해를 가한다",
+            "추가 공격이 명중한 목표 수량에 따라 추가 피해를 가한다"
         ],
         "Effects": []
     },
@@ -1916,14 +1916,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 2,
         "Icon": "/IconRogueJoy01.png",
-        "Name": "12 Monkeys and Angry Men",
+        "Name": "≪원숭이 12마리와 괴짜≫",
         "Desc": [
-            "When a character deals DMG to an enemy with a follow-up attack, DMG for this follow-up attack increases by <color style='color:#f29e38;'>4.0%</color>.",
-            "When a character deals DMG to an enemy with a follow-up attack, DMG for this follow-up attack increases by <color style='color:#f29e38;'>6.0%</color>."
+            "캐릭터가 적에게 추가 공격 피해를 가할 시 이번 공격 동안의 추가 공격 피해가 <color style='color:#f29e38;'>4.0%</color> 증가한다",
+            "캐릭터가 적에게 추가 공격 피해를 가할 시 이번 공격 동안의 추가 공격 피해가 <color style='color:#f29e38;'>6.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "The DMG dealt by characters within a single follow-up attack increases gradually.",
-            "The DMG dealt by characters within a single follow-up attack increases gradually."
+            "캐릭터가 단일 추가 공격 동안 가하는 피해가 점점 증가한다",
+            "캐릭터가 단일 추가 공격 동안 가하는 피해가 점점 증가한다"
         ],
         "Effects": []
     },
@@ -1932,14 +1932,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 2,
         "Icon": "/IconRogueJoy04.png",
-        "Name": "<i>Aiden Gravitational Rainbow</i>",
+        "Name": "≪에이든 중력의 무지개≫",
         "Desc": [
-            "When a character launches follow-up attacks on enemies, the enemies' action is delayed by <color style='color:#f29e38;'>12.0%</color>.",
-            "When characters launch follow-up attacks on enemies, the attacked enemies' actions are delayed by <color style='color:#f29e38;'>12.0%</color>, and there is a <color style='color:#f29e38;'>10.0%</color> base chance to cause Imprisonment on the enemies, lasting for <color style='color:#f29e38;'>1.0</color> turn(s)."
+            "캐릭터가 적에게 추가 공격 발동 후 해당 적의 행동 게이지가 <color style='color:#f29e38;'>12.0%</color> 감소한다",
+            "캐릭터가 적에게 추가 공격 발동 후 해당 적의 행동 게이지가 <color style='color:#f29e38;'>12.0%</color>감소하고, <color style='color:#f29e38;'>10.0%</color>의 기본 확률로 해당 적을 속박 상태로 만든다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴"
         ],
         "SimpleDesc": [
-            "After a character launches follow-up attacks, the enemy's action is delayed.",
-            "After characters launch follow-up attacks, the target enemy's action is delayed, and there is a low chance of applying Imprisonment on them."
+            "캐릭터가 추가 공격 발동 후 적의 행동 게이지가 감소한다",
+            "캐릭터는 추가 공격 발동 후 적의 행동 게이지를 감소시키고 낮은 확률로 대상을 속박 상태에 빠트린다"
         ],
         "Effects": []
     },
@@ -1948,14 +1948,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 2,
         "Icon": "/IconRogueJoy03.png",
-        "Name": "<i>Twenty-First Military Rule</i>",
+        "Name": "≪군칙 제21조≫",
         "Desc": [
-            "After a character launches follow-up attacks, there is a <color style='color:#f29e38;'>65.0%</color> fixed chance to recover 1 Skill Point.",
-            "After a character launches follow-up attacks, there is a <color style='color:#f29e38;'>100.0%</color> fixed chance to recover 1 Skill Point."
+            "캐릭터가 추가 공격 발동 후 <color style='color:#f29e38;'>65.0%</color>의 고정 확률로 전투 스킬 포인트를 1pt 회복한다",
+            "캐릭터가 추가 공격 발동 후 <color style='color:#f29e38;'>100.0%</color>의 고정 확률로 전투 스킬 포인트를 1pt 회복한다"
         ],
         "SimpleDesc": [
-            "After a character launches follow-up attacks, there is a chance of recovering a Skill Point.",
-            "When a character launches a follow-up attack, Skill Point recovery is guaranteed."
+            "캐릭터가 추가 공격 발동 후, 일정 확률로 전투 스킬 포인트를 회복한다",
+            "캐릭터가 추가 공격 발동 후 반드시 전투 스킬 포인트를 회복한다"
         ],
         "Effects": []
     },
@@ -1964,14 +1964,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 1,
         "Icon": "/IconRogueJoy01.png",
-        "Name": "<i>Exemplary Conduct</i>",
+        "Name": "≪품행 만점≫",
         "Desc": [
-            "Increases the DMG of follow-up attacks by <color style='color:#f29e38;'>9.0%</color> for each Elation Blessing. This effect can stack up to a max of <color style='color:#f29e38;'>6.0</color> time(s).",
-            "Increases the DMG of follow-up attacks by <color style='color:#f29e38;'>12.0%</color> for each Elation Blessing. This effect can stack up to a max of <color style='color:#f29e38;'>9.0</color> time(s)."
+            "「환락」의 축복을 1개 보유할 때마다 캐릭터가 가하는 추가 공격 피해가 <color style='color:#f29e38;'>9.0%</color>씩 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>6.0</color>스택",
+            "「환락」의 축복을 1개 보유할 때마다 캐릭터가 가하는 추가 공격 피해가 <color style='color:#f29e38;'>12.0%</color>씩 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>9.0</color>스택"
         ],
         "SimpleDesc": [
-            "The more Blessings of Elation the team has, the higher follow-up attack DMG becomes.",
-            "The more Blessings of Elation the team has, the higher follow-up attack DMG becomes."
+            "「환락」의 축복이 많을수록 추가 공격의 피해가 증가한다",
+            "「환락」의 축복이 많을수록 추가 공격의 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -1980,14 +1980,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 1,
         "Icon": "/IconRogueJoy03.png",
-        "Name": "<i>Mostly Harmful</i>",
+        "Name": "≪기본적으로 유해≫",
         "Desc": [
-            "Increases the Weakness Break efficiency of follow-up attacks by <color style='color:#f29e38;'>35.0%</color>.",
-            "Increases the Weakness Break efficiency of follow-up attacks by <color style='color:#f29e38;'>50.0%</color>."
+            "캐릭터가 추가 공격으로 피해를 가할 때의 약점 격파 효율이 <color style='color:#f29e38;'>35.0%</color> 증가한다",
+            "캐릭터가 추가 공격으로 피해를 가할 때의 약점 격파 효율이 <color style='color:#f29e38;'>50.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Follow-up attacks' Weakness Break efficiency increases.",
-            "Follow-up attacks' Weakness Break efficiency increases."
+            "추가 공격의 약점 격파 효율이 증가한다",
+            "추가 공격의 약점 격파 효율이 증가한다"
         ],
         "Effects": []
     },
@@ -1996,14 +1996,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 1,
         "Icon": "/IconRogueJoy01.png",
-        "Name": "<i>Suspiria</i>",
+        "Name": "≪음산한 바람≫",
         "Desc": [
-            "Increases the DMG of follow-up attacks by <color style='color:#f29e38;'>26.0%</color>.",
-            "Increases the DMG of follow-up attacks by <color style='color:#f29e38;'>39.0%</color>."
+            "캐릭터의 추가 공격이 가하는 피해가 <color style='color:#f29e38;'>26.0%</color> 증가한다",
+            "캐릭터의 추가 공격이 가하는 피해가 <color style='color:#f29e38;'>39.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Follow-up attack DMG increases.",
-            "Follow-up attack DMG increases."
+            "추가 공격의 피해가 증가한다",
+            "추가 공격의 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -2012,14 +2012,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 1,
         "Icon": "/IconRogueJoy01.png",
-        "Name": "<i>Pale Fire</i>",
+        "Name": "≪어두운 화염≫",
         "Desc": [
-            "Increases the CRIT Rate of follow-up attacks by <color style='color:#f29e38;'>26.0%</color>.",
-            "Increases the CRIT Rate of follow-up attacks by <color style='color:#f29e38;'>39.0%</color>."
+            "캐릭터의 추가 공격이 가하는 치명타 확률이 <color style='color:#f29e38;'>26.0%</color> 증가한다",
+            "캐릭터의 추가 공격이 가하는 치명타 확률이 <color style='color:#f29e38;'>39.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Follow-up attack CRIT Rate increases.",
-            "Follow-up attack CRIT Rate increases."
+            "추가 공격의 치명타 확률이 증가한다",
+            "추가 공격의 치명타 확률이 증가한다"
         ],
         "Effects": []
     },
@@ -2028,14 +2028,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 1,
         "Icon": "/IconRogueJoy03.png",
-        "Name": "<i>Back to the Lighthouse</i>",
+        "Name": "≪등대로 복귀≫",
         "Desc": [
-            "When a character deals DMG to an enemy with a follow-up attack, increases their Energy Regeneration Rate by <color style='color:#f29e38;'>24.0%</color>.",
-            "When a character deals DMG to an enemy with a follow-up attack, increases their Energy Regeneration Rate by <color style='color:#f29e38;'>36.0%</color>."
+            "캐릭터의 추가 공격이 피해를 입힐 시, 자신의 에너지 회복효율이 <color style='color:#f29e38;'>24.0%</color> 증가한다",
+            "캐릭터의 추가 공격이 피해를 입힐 시, 자신의 에너지 회복효율이 <color style='color:#f29e38;'>36.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "When a character launches a follow-up attack, their Energy Regeneration Rate increases.",
-            "When a character launches a follow-up attack, their Energy Regeneration Rate increases."
+            "추가 공격 발동 시 캐릭터의 에너지 회복효율이 증가한다",
+            "추가 공격 발동 시 캐릭터의 에너지 회복효율이 증가한다"
         ],
         "Effects": []
     },
@@ -2044,14 +2044,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 1,
         "Icon": "/IconRogueJoy02.png",
-        "Name": "<i>Doctor of Love</i>",
+        "Name": "≪의사의 기이한 사랑≫",
         "Desc": [
-            "After a character launches a follow-up attack, restores their HP by <color style='color:#f29e38;'>10.0%</color> of their Max HP.",
-            "After a character launches a follow-up attack, restores their HP by <color style='color:#f29e38;'>15.0%</color> of their Max HP."
+            "캐릭터가 추가 공격 발동 후 HP를 자신 HP 최대치의 <color style='color:#f29e38;'>10.0%</color>만큼 회복한다",
+            "캐릭터가 추가 공격 발동 후 HP를 자신 HP 최대치의 <color style='color:#f29e38;'>15.0%</color>만큼 회복한다"
         ],
         "SimpleDesc": [
-            "When a character launches a follow-up attack, they restore HP.",
-            "When a character launches a follow-up attack, they restore HP."
+            "캐릭터가 추가 공격 발동 후 HP를 회복한다",
+            "캐릭터가 추가 공격 발동 후 HP를 회복한다"
         ],
         "Effects": []
     },
@@ -2060,14 +2060,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 1,
         "Icon": "/IconRogueJoy02.png",
-        "Name": "<i>Platinum Age</i>",
+        "Name": "≪플래티넘 시대≫",
         "Desc": [
-            "After characters launch follow-up attacks, increase their DEF by <color style='color:#f29e38;'>40.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s).",
-            "After characters launch follow-up attacks, increase their DEF by <color style='color:#f29e38;'>40.0%</color> for <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "캐릭터가 추가 공격 발동 후 방어력이 <color style='color:#f29e38;'>40.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴",
+            "캐릭터가 추가 공격 발동 후 방어력이 <color style='color:#f29e38;'>40.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         ],
         "SimpleDesc": [
-            "When a character launches a follow-up attack, their DEF increases.",
-            "When a character launches a follow-up attack, their DEF increases."
+            "캐릭터가 추가 공격 발동 후 방어력이 증가한다",
+            "캐릭터가 추가 공격 발동 후 방어력이 증가한다"
         ],
         "Effects": []
     },
@@ -2076,14 +2076,14 @@ var _blessing = [
         "Path": 126,
         "Rarity": 1,
         "Icon": "/IconRogueJoy03.png",
-        "Name": "<i>Clockwork Apple</i>",
+        "Name": "≪시계태엽 사과≫",
         "Desc": [
-            "After characters launch follow-up attacks, increases SPD by <color style='color:#f29e38;'>16.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s).",
-            "After characters launch follow-up attacks, increases SPD by <color style='color:#f29e38;'>16.0%</color> for <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "캐릭터가 추가 공격 발동 후 속도가 <color style='color:#f29e38;'>16.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴",
+            "캐릭터가 추가 공격 발동 후 속도가 <color style='color:#f29e38;'>16.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         ],
         "SimpleDesc": [
-            "When a character launches a follow-up attack, their SPD increases.",
-            "When a character launches a follow-up attack, their SPD increases."
+            "캐릭터가 추가 공격 발동 후 속도가 증가한다",
+            "캐릭터는 추가 공격 발동 후 속도가 증가한다"
         ],
         "Effects": []
     },
@@ -2092,12 +2092,12 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/BgPathsKnight.png",
-        "Name": "Path Resonance: Preservation",
+        "Name": "운명의 길 메아리: 「보존」",
         "Desc": [
-            "Spend 100 points of Energy to use this ability and resonate with the Path of Preservation, dealing Physical DMG to all enemies based on the total Shield between all allies."
+            "운명의 길 메아리 에너지를 100pt 소모해 스킬을 발동하여 「보존」 운명의 길과 메아리 공명을 일으키고 모든 아군의 실드 총량에 따라 모든 적에게 물리 속성 피해를 준다"
         ],
         "SimpleDesc": [
-            "After using the Path Resonance, deals Physical DMG to all enemies based on the max DMG that can be absorbed by Shields on all allies."
+            "운명의 길 메아리 발동 후 모든 아군의 실드 총량에 따라 모든 적에게 물리 속성의 피해를 준다"
         ],
         "Effects": []
     },
@@ -2106,12 +2106,12 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/IconRogueKnight01.png",
-        "Name": "Resonance Formation: Zero-Dimensional Reinforcement",
+        "Name": "메아리 음률: 0차원 강화",
         "Desc": [
-            "The attacks of Path Resonance: Preservation become CRIT Hits. For every Shielded character on the team, the CRIT DMG increases by <color style='color:#f29e38;'>15.0%</color>."
+            "운명의 길 메아리 「보존」이 가하는 공격은 반드시 치명타를 가한다. 실드를 보유한 캐릭터가 파티에 1명 있을 때마다 가하는 치명타 피해가 <color style='color:#f29e38;'>15.0%</color>씩 증가한다"
         ],
         "SimpleDesc": [
-            "The attacks of Path Resonance: Preservation are guaranteed to CRIT. The more characters there are with Shields, the higher the CRIT DMG."
+            "운명의 길 메아리 「보존」으로 공격 시 반드시 치명타를 가한다. 아군에 실드를 보유한 캐릭터가 많을수록 치명타 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -2120,12 +2120,12 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/IconRogueKnight02.png",
-        "Name": "Resonance Formation: Eutectic Reaction",
+        "Name": "메아리 음률: 공정 반응",
         "Desc": [
-            "When Path Resonance is used, all allies gain a Shield that can absorb DMG equal to <color style='color:#f29e38;'>1.0%</color> of their respective Max HP, for 2 turns, and <u class='infou'>Amber</u> is applied to all allies at the same time."
+            "운명의 길 메아리 발동 시 모든 아군에게 각자의 HP 최대치 <color style='color:#f29e38;'>1.0%</color>만큼의 피해를 상쇄할 수 있는 실드를 제공한다. 지속 시간:2턴. 모든 아군에게 [<u class='infou'>앰버</u>] 상태를 부여한다"
         ],
         "SimpleDesc": [
-            "Applies a Shield and <u class='infou'>Amber</u> to all characters after using a Path Resonance."
+            "운명의 길 메아리 발동 시 모든 아군에게 실드를 제공하며 [<u class='infou'>앰버</u>] 상태를 부여한다"
         ],
         "Effects": [
             60000006
@@ -2136,12 +2136,12 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/IconRogueKnight05.png",
-        "Name": "Resonance Formation: Isomorphous Reaction",
+        "Name": "메아리 음률: 동형 치환",
         "Desc": [
-            "When entering battle, Path Resonance regenerates <color style='color:#f29e38;'>40.0%</color> Energy. When an ally gains a Shield, Path Resonance additionally regenerates <color style='color:#f29e38;'>3.0%</color> Energy."
+            "전투 진입 시 운명의 길 메아리의 에너지를 <color style='color:#f29e38;'>40.0%</color> 회복한다. 아군 캐릭터는 실드 획득 시 추가로 운명의 길 메아리의 에너지를 <color style='color:#f29e38;'>3.0%</color> 회복한다"
         ],
         "SimpleDesc": [
-            "When entering battle, Path Resonance regenerates Energy. When a character gains Shield, Path Resonance regenerates Energy."
+            "전투 진입 시 운명의 길 메아리의 에너지를 회복한다. 아군 캐릭터는 실드 획득 시 운명의 길 메아리의 에너지를 회복한다"
         ],
         "Effects": []
     },
@@ -2150,12 +2150,12 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/BgPathsWarlock.png",
-        "Name": "Path Resonance: Nihility",
+        "Name": "운명의 길 메아리: 「공허」",
         "Desc": [
-            "Spend 100 points of Energy to use this ability and resonate with the Path of Nihility, with a <color style='color:#f29e38;'>80.0%</color> base chance to apply Burn, Shock, Bleed, and 2 stacks of Wind Shear on all enemies for <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "운명의 길 메아리 에너지를 100pt 소모해 스킬을 발동하여 「공허」 운명의 길과 메아리 공명을 일으키고 <color style='color:#f29e38;'>80.0%</color>의 기본 확률로 모든 적을 연소, 감전, 열상과 2스택의 풍화 상태로 만든다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         ],
         "SimpleDesc": [
-            "After using a Path Resonance, there is a high chance of applying Burn, Shock, Bleed, and Wind Shear on all enemies."
+            "운명의 길 메아리 발동 후 높은 확률로 모든 적이 연소, 감전, 열상 및 풍화 상태에 빠진다"
         ],
         "Effects": []
     },
@@ -2164,12 +2164,12 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/IconRogueWarlock05.png",
-        "Name": "Resonance Formation: The Doubtful Fourfold Root",
+        "Name": "메아리 음률: 의혹의 4중근",
         "Desc": [
-            "When using Path Resonance, increases the base chance of applying statuses by 100% and the duration of statuses by 1 turn, and adds 1 stack to all stackable statuses."
+            "운명의 길 메아리 발동이 상태를 부여하는 기본 확률이 100% 증가하고, 지속 시간이 1턴 연장되며, 부여된 중첩 가능한 상태의 스택 수가 1스택 증가한다"
         ],
         "SimpleDesc": [
-            "When using the Path Resonance, increases the base chance of inflicting status effects, extends the duration of these status effects, and adds to their stacks."
+            "운명의 길 메아리 발동이 상태를 부여하는 기본 확률이 증가하고, 지속 시간이 연장되며, 중첩 스택 수가 증가한다"
         ],
         "Effects": []
     },
@@ -2178,12 +2178,12 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/IconRogueWarlock04.png",
-        "Name": "Resonance Formation: Suffering and Sunshine",
+        "Name": "메아리 음률: 고난과 햇빛",
         "Desc": [
-            "The attacks of Path Resonance: Nihility have a 100% base chance to inflict 2 stacks of <u class='infou'>Confusion</u> and 2 stacks of <u class='infou'>Devoid</u> on all enemies for <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "운명의 길 메아리 「공허」로 가하는 공격은 100%의 기본 확률로 모든 적에게 2스택의 [<u class='infou'>당혹</u>]과 2스택의 [<u class='infou'>결핍</u>] 효과를 부여한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         ],
         "SimpleDesc": [
-            "The attacks of Path Resonance: Nihility have a high chance to apply <u class='infou'>Confusion</u> and <u class='infou'>Devoid</u>."
+            "운명의 길 메아리 「공허」로 공격 시 높은 확률로 [<u class='infou'>당혹</u>] 및 [<u class='infou'>결핍</u>] 상태를 부여한다"
         ],
         "Effects": [
             60000007,
@@ -2195,12 +2195,12 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/IconRogueWarlock05.png",
-        "Name": "Resonance Formation: Outsider",
+        "Name": "메아리 음률: 이방인",
         "Desc": [
-            "When entering battle, Path Resonance regenerates <color style='color:#f29e38;'>40.0%</color> Energy. When an enemy receives DoT, Path Resonance additionally regenerates <color style='color:#f29e38;'>2.0%</color> Energy."
+            "전투 진입 시 운명의 길 메아리의 에너지를 <color style='color:#f29e38;'>40.0%</color> 회복한다. 적이 지속 피해를 받을 시 추가로 운명의 길 메아리의 에너지를 <color style='color:#f29e38;'>2.0%</color> 회복한다"
         ],
         "SimpleDesc": [
-            "When entering battle, Path Resonance regenerates Energy. When an enemy receives DoT, Path Resonance regenerates Energy."
+            "전투 진입 시 운명의 길 메아리의 에너지를 회복한다. 적이 지속 피해를 받을 시 운명의 길 메아리의 에너지를 회복한다"
         ],
         "Effects": []
     },
@@ -2209,12 +2209,12 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/BgPathsPirest.png",
-        "Name": "Path Resonance: Abundance",
+        "Name": "운명의 길 메아리: 「풍요」",
         "Desc": [
-            "Spend 100 points of Energy to use this ability and resonate with the Path of Abundance, restore HP for all allies by <color style='color:#f29e38;'>50.0%</color> of their respective Max HP, and increases their respective Max HP by <color style='color:#f29e38;'>15.0%</color> for <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "운명의 길 메아리 에너지를 100pt 소모해 스킬을 발동하여 「풍요」 운명의 길과 메아리 공명을 일으키고 모든 아군의 HP를 해당 캐릭터 HP 최대치의 <color style='color:#f29e38;'>50.0%</color>만큼 회복하고, 각자의 HP 최대치가 <color style='color:#f29e38;'>15.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         ],
         "SimpleDesc": [
-            "After using Path Resonance, restores all allies' HP and increases their respective Max HP."
+            "운명의 길 메아리 발동 후 모든 아군의 HP를 회복하고, 각자의 HP 최대치가 증가한다"
         ],
         "Effects": []
     },
@@ -2223,12 +2223,12 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/IconRoguePirest02.png",
-        "Name": "Resonance Formation: Terminal Nirvana",
+        "Name": "메아리 음률: 무여열반",
         "Desc": [
-            "When any ally receives lethal DMG, the Resonance of Path of Abundance prevents them from being knocked down and automatically consumes all Energy to release Path Resonance. This effect can trigger up to <color style='color:#f29e38;'>1.0</color> time(s) per battle."
+            "임의의 아군 캐릭터가 치명적인 피해를 받을 시 「풍요」 운명의 길의 메아리에 의해 전투 불능 상태에 빠지지 않으며, 모든 에너지를 소모하여 자동으로 운명의 길 메아리를 발동한다. 해당 효과 단일 전투 최대 발동수: <color style='color:#f29e38;'>1.0</color>회"
         ],
         "SimpleDesc": [
-            "When characters receive lethal DMG, they will not be knocked down and will automatically activate Path Resonance (consuming all Energy) instead. This effect can be triggered a limited amount of times per battle."
+            "아군 캐릭터가 치명적인 피해를 받을 시 전투 불능 상태에 빠지지 않으며, 에너지를 소모하여 자동으로 운명의 길 메아리를 발동한다. 발동 횟수는 제한된다"
         ],
         "Effects": []
     },
@@ -2237,12 +2237,12 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/IconRoguePirest05.png",
-        "Name": "Resonance Formation: Anicca",
+        "Name": "메아리 음률: 제행무상",
         "Desc": [
-            "After releasing a Path Resonance, removes all characters' debuffs and applies <color style='color:#f29e38;'>1.0</color> stack(s) of <u class='infou'>Subduing Evils</u> for <color style='color:#f29e38;'>1.0</color> turn(s)."
+            "운명의 길 메아리 발동 후 모든 캐릭터의 디버프 효과를 해제하고, <color style='color:#f29e38;'>1.0</color>스택 [<u class='infou'>액운 제압</u>] 상태를 부여한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴"
         ],
         "SimpleDesc": [
-            "After using the Path Resonance, remove debuffs from all characters and apply <u class='infou'>Subduing Evils</u>."
+            "운명의 길 메아리 발동 후 모든 캐릭터의 디버프 효과를 해제하고, [<u class='infou'>액운 제압</u>] 상태를 부여한다"
         ],
         "Effects": [
             60000009
@@ -2253,12 +2253,12 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/IconRoguePirest05.png",
-        "Name": "Resonance Formation: Anatta",
+        "Name": "메아리 음률: 제법무아",
         "Desc": [
-            "After Path Resonance Energy is consumed for the first time in battle for the use of Path Resonance, the Path Resonance for Abundance will appear on the action order. The Outgoing Healing provided by this Resonance decreases by <color style='color:#f29e38;'>30.0%</color>. When this Resonance takes action, it will automatically release Path Resonance to heal allies."
+            "전투 동안 처음으로 운명의 길 메아리 에너지를 소모하여 운명의 길 메아리를 발동 후, 「풍요」 운명의 길의 메아리가 행동 서열에 나타난다. 해당 운명의 길 메아리가 제공하는 치유량이 <color style='color:#f29e38;'>30.0%</color> 감소한다. 행동 시 자동으로 운명의 길 메아리를 1회 발동하여 아군 캐릭터에게 치유를 제공한다"
         ],
         "SimpleDesc": [
-            "After using Path Resonance for the first time in a battle, Path Resonance: Abundance will appear on the action order."
+            "전투에서 운명의 길 메아리 최초 발동 후 행동 서열에 운명의 길인 「풍요」의 메아리가 나타난다"
         ],
         "Effects": []
     },
@@ -2267,12 +2267,12 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/BgPathsRogue.png",
-        "Name": "Path Resonance: The Hunt",
+        "Name": "운명의 길 메아리: 「수렵」",
         "Desc": [
-            "Spend 100 points of Energy to use this ability and resonate with the Path of The Hunt, dealing Wind DMG to all enemies based on the current ATK of the character currently with the highest ATK."
+            "운명의 길 메아리 에너지를 100pt 소모해 스킬을 발동하여 운명의 길인 「수렵」과 메아리 공명을 일으키고 아군 중 공격력이 가장 높은 캐릭터의 공격력을 기반으로 모든 적에게 바람 속성 피해를 준다"
         ],
         "SimpleDesc": [
-            "After using the Path Resonance, deals Wind DMG to all enemy units based on the ATK of the character with the highest ATK on the team."
+            "운명의 길 메아리 발동 후 아군 캐릭터의 최고 공격력에 따라 모든 적에게 바람 속성의 피해를 가한다"
         ],
         "Effects": []
     },
@@ -2281,12 +2281,12 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/IconRogueRogue03.png",
-        "Name": "Resonance Formation: Star Hunter",
+        "Name": "메아리 음률: 별 사냥꾼",
         "Desc": [
-            "When using Path Resonance, the ally with the highest ATK will be given a turn instantly and be granted <u class='infou'>Light-Hunting Celestial Arrow</u>, lasting until this ally uses any ability."
+            "운명의 길 메아리 발동 후 공격력이 가장 높은 아군 캐릭터가 즉시 행동하고, [<u class='infou'>빛을 맴도는 화살</u>] 상태를 부여하며 해당 캐릭터가 스킬 발동할 때까지 지속된다"
         ],
         "SimpleDesc": [
-            "When using the Path Resonance, the character with the highest ATK will instantly act and become <u class='infou'>Light-Hunting Celestial Arrow</u>."
+            "운명의 길 메아리 발동 후 공격력이 가장 높은 아군 캐릭터가 즉시 행동하고, [<u class='infou'>빛을 맴도는 화살</u>] 상태를 부여한다"
         ],
         "Effects": [
             60000010
@@ -2297,12 +2297,12 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/IconRogueRogue01.png",
-        "Name": "Resonance Formation: Bow and Arrow",
+        "Name": "메아리 음률: 목궁과 화살",
         "Desc": [
-            "When <color style='color:#f29e38;'>Path Resonance: The Hunt</color> deals damage, enemies whose HP is lower than <color style='color:#f29e38;'>50.0%</color> are guaranteed to receive CRIT Hits, with the CRIT DMG at <color style='color:#f29e38;'>50.0%</color>. When the enemy is defeated, regenerates <color style='color:#f29e38;'>50.0%</color> Energy."
+            "운명의 길 메아리 「수렵」으로 공격 시 HP가 자신 HP 최대치의 <color style='color:#f29e38;'>50.0%</color> 미만인 적에게 반드시 치명타 피해를 가한다. 치명타 피해는 <color style='color:#f29e38;'>50.0%</color>이며, 적 처치 후 에너지를 <color style='color:#f29e38;'>50.0%</color> 회복한다"
         ],
         "SimpleDesc": [
-            "Attacks from Path Resonance: The Hunt are guaranteed to CRIT against enemies with HP lower than <color style='color:#f29e38;'>50.0%</color>. Path Resonance: The Hunt regenerates energy if it defeats an enemy."
+            "운명의 길 메아리 「수렵」으로 공격 시 HP가 <color style='color:#f29e38;'>50.0%</color> 미만인 적에게 반드시 치명타를 가한다. 적 처치 후 에너지를 회복한다"
         ],
         "Effects": []
     },
@@ -2311,12 +2311,12 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/IconRogueRogue05.png",
-        "Name": "Resonance Formation: Perfect Aim",
+        "Name": "메아리 음률: 사부주피",
         "Desc": [
-            "Increase the Energy limit of Path Resonance from 100 to 200 points. When an ally's turn starts, additionally regenerates <color style='color:#f29e38;'>3.0%</color> Energy for Path Resonance."
+            "운명의 길 메아리의 에너지 최대치가 100pt에서 200pt로 증가한다. 아군 캐릭터 턴 시작 시 운명의 길 메아리 에너지가 추가로 <color style='color:#f29e38;'>3.0%</color> 회복한다"
         ],
         "SimpleDesc": [
-            "Doubles the Energy limit of Path Resonance. Path Resonance regenerates Energy at the start of every character's turn."
+            "운명의 길 메아리의 에너지 최대치가 2배로 증가한다. 캐릭터 턴 시작 시 운명의 길 메아리 에너지를 회복한다"
         ],
         "Effects": []
     },
@@ -2325,12 +2325,12 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/BgPathsWarrior.png",
-        "Name": "Path Resonance: Destruction",
+        "Name": "운명의 길 메아리: 「파멸」",
         "Desc": [
-            "Spend 100 points of Energy to use this ability and resonate with the Path of Destruction, dealing Fire DMG to all enemies based on the current HP difference between Max HP and current HP for all allies combined."
+            "운명의 길 메아리 에너지를 100pt 소모해 스킬을 발동하여 「파멸」 운명의 길과 메아리 공명을 일으키고 모든 아군이 잃은 HP 총량을 기반으로 모든 적에게 화염 속성 피해를 준다"
         ],
         "SimpleDesc": [
-            "After using the Path Resonance, deals Fire DMG to all enemies based on the HP difference between all allies' Max HP and their current HP."
+            "운명의 길 메아리 발동 후 모든 아군이 잃은 HP에 따라 모든 적에게 화염 속성의 피해를 가한다"
         ],
         "Effects": []
     },
@@ -2339,12 +2339,12 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/IconRogueWarrior01.png",
-        "Name": "Resonance Formation: Cataclysmic Variable",
+        "Name": "메아리 음률: 격변 변광성",
         "Desc": [
-            "Using a Path Resonance will consume HP from all allies up to <color style='color:#f29e38;'>40.0%</color> of their respective Max HP, increasing the DMG of Path Resonance: Destruction by <color style='color:#f29e38;'>20.0%</color>. The amount of HP consumed will be converted into a Shield lasting for <color style='color:#f29e38;'>2.0</color> turn(s), with the same Shield value as the HP lost."
+            "운명의 길 메아리를 발동하면 모든 아군의 HP가 자신 HP 최대치의 <color style='color:#f29e38;'>40.0%</color>까지 소모된다. 운명의 길 메아리 「파멸」이 가하는 공격 피해가 <color style='color:#f29e38;'>20.0%</color> 증가하고, 소모한 HP만큼 실드로 전환된다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         ],
         "SimpleDesc": [
-            "After using the Path Resonance, consume characters' HP and turn the value into Shields. The DMG of Path Resonance: Destruction increases."
+            "운명의 길 메아리 발동 후 아군 캐릭터의 HP를 소모하여 실드로 전환한다. 운명의 길 메아리 「파멸」로 가하는 공격의 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -2353,12 +2353,12 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/IconRogueWarrior04.png",
-        "Name": "Resonance Formation: Extreme Helium Flash",
+        "Name": "메아리 음률: 극단의 헬륨섬광",
         "Desc": [
-            "The attacks of Path Resonance: Destruction have a 150% base chance to inflict <u class='infou'>Entropic Retribution</u> on the enemy target for <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "운명의 길 메아리 「파멸」로 가하는 공격은 150%의 기본 확률로 적을 [<u class='infou'>파멸의 징벌</u>] 상태에 빠지게 한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         ],
         "SimpleDesc": [
-            "The attacks of Path Resonance: Destruction have a high chance to apply <u class='infou'>Entropic Retribution</u> on enemies."
+            "운명의 길 메아리 「파멸」로 공격 시 높은 확률로 적을 [<u class='infou'>파멸의 징벌</u>] 상태로 만든다"
         ],
         "Effects": [
             60000011
@@ -2369,12 +2369,12 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/IconRogueWarrior05.png",
-        "Name": "Resonance Formation: Event Horizon",
+        "Name": "메아리 음률: 사건의 지평선",
         "Desc": [
-            "When an ally whose current HP is below <color style='color:#f29e38;'>35.0%</color> gets attacked, automatically releases 1 Path Resonance without consuming Energy. This effect can be triggered up to a max of <color style='color:#f29e38;'>2.0</color> time(s) in a single battle and cannot be triggered multiple times by the same attack."
+            "아군 캐릭터가 피격 후 현재 HP 백분율이 <color style='color:#f29e38;'>35.0%</color> 미만일 경우, 에너지를 소모하지 않는 운명의 길 메아리를 자동으로 1회 발동한다. 해당 효과는 단일 전투에서 최대 <color style='color:#f29e38;'>2.0</color>회 발동하며, 한 공격에서 여러 번 발동될 수 없다"
         ],
         "SimpleDesc": [
-            "When a character is hit and their HP is lower than <color style='color:#f29e38;'>35.0%</color> of their Max HP, Path Resonance will be used 1 time at no cost."
+            "캐릭터 피격 후 HP가 HP 최대치의 <color style='color:#f29e38;'>35.0%</color> 미만일 경우, 자동으로 소모 없이 운명의 길 메아리를 1회 발동한다"
         ],
         "Effects": []
     },
@@ -2383,12 +2383,12 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/BgPathsMemory.png",
-        "Name": "Path Resonance: Remembrance",
+        "Name": "운명의 길 메아리: 「기억」",
         "Desc": [
-            "Spend 100 points of Energy to use this ability and resonate with the Path of Remembrance, dealing Ice DMG to all enemies with a <color style='color:#f29e38;'>120.0%</color> base chance to Freeze all enemies for <color style='color:#f29e38;'>1.0</color> turn(s)."
+            "운명의 길 메아리 에너지를 100pt 소모해 스킬을 발동하여 「기억」 운명의 길과 메아리 공명을 일으키고 모든 적에게 얼음 속성 피해를 가한다. <color style='color:#f29e38;'>120.0%</color>의 기본 확률로 모든 적을 빙결 상태로 만든다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴"
         ],
         "SimpleDesc": [
-            "After using Path Resonance, deals Ice DMG to all enemies with a high chance of Freezing them."
+            "운명의 길 메아리 발동 후 모든 적에게 얼음 속성 피해를 가하고, 높은 확률로 빙결 상태에 빠트린다"
         ],
         "Effects": []
     },
@@ -2397,12 +2397,12 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Resonance Formation: Total Recall",
+        "Name": "메아리 음률: 전반적 회상",
         "Desc": [
-            "When Path Resonance is used, there is a 150% base chance to decrease enemies' chance to resist Frozen by 100% for <color style='color:#f29e38;'>1.0</color> turn(s)."
+            "운명의 길 메아리 발동 시 150%의 기본 확률로 적의 빙결 상태 저항 확률을 100% 감소시킨다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴"
         ],
         "SimpleDesc": [
-            "When using Path Resonance, there is a high chance of reducing all enemies' Freeze RES."
+            "운명의 길 메아리 발동 시 높은 확률로 모든 적의 빙결 저항이 감소한다"
         ],
         "Effects": []
     },
@@ -2411,12 +2411,12 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/IconRogueMemory04.png",
-        "Name": "Resonance Formation: Rich Experience",
+        "Name": "메아리 음률: 체험의 부자",
         "Desc": [
-            "When using Path Resonance, there is a 150% base chance to apply <u class='infou'>Eonian River</u> to all enemies for 1 turn."
+            "운명의 길 메아리 발동 시 150%의 기본 확률로 모든 적을 [<u class='infou'>영원의 강</u>] 상태에 빠트린다. 지속 시간: 1턴"
         ],
         "SimpleDesc": [
-            "After using Path Resonance, there is a high chance to apply <u class='infou'>Eonian River</u> to all enemies."
+            "운명의 길 메아리 발동 후 높은 확률로 모든 적을 [<u class='infou'>영원의 강</u>] 상태에 빠트린다"
         ],
         "Effects": [
             60000015
@@ -2427,12 +2427,12 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/IconRogueMemory05.png",
-        "Name": "Resonance Formation: First Love Once More",
+        "Name": "메아리 음률: 두 번째 첫사랑",
         "Desc": [
-            "Upon battle entrance, Path Resonance regenerates <color style='color:#f29e38;'>40.0%</color> Energy. When an enemy becomes Frozen, Path Resonance additionally regenerates <color style='color:#f29e38;'>5.0%</color> Energy."
+            "전투 진입 시 운명의 길 메아리의 에너지를 <color style='color:#f29e38;'>40.0%</color> 회복한다. 적이 빙결 상태에 빠질 시 추가로 운명의 길 메아리의 에너지를 <color style='color:#f29e38;'>5.0%</color> 회복한다"
         ],
         "SimpleDesc": [
-            "When entering battle, Path Resonance regenerates Energy. When an enemy becomes Frozen, Path Resonance regenerates Energy."
+            "전투 진입 시 운명의 길 메아리의 에너지를 회복한다. 적이 빙결 상태에 빠질 시 운명의 길 메아리의 에너지를 회복한다"
         ],
         "Effects": []
     },
@@ -2441,12 +2441,12 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/BgPathsJoy.png",
-        "Name": "Path Resonance: Elation",
+        "Name": "운명의 길 메아리: 「환락」",
         "Desc": [
-            "Spend 100 points of Energy to use this ability and resonate with the Path of Elation, dealing follow-up attacks of a random Type to all enemies for <color style='color:#f29e38;'>3.0</color> – <color style='color:#f29e38;'>5.0</color> time(s)."
+            "운명의 길 메아리 에너지를 100pt 소모해 스킬을 발동하여 「환락」 운명의 길과 메아리 공명을 일으키고 모든 적에게 <color style='color:#f29e38;'>3.0</color>~<color style='color:#f29e38;'>5.0</color>회의 랜덤 속성 추가 공격 피해를 가한다"
         ],
         "SimpleDesc": [
-            "After using Path Resonance, deals a random number of follow-up attacks of random Types to all enemies."
+            "운명의 길 메아리 발동 후 모든 적에게 랜덤 속성의 추가 공격 피해를 랜덤 횟수로 가한다"
         ],
         "Effects": []
     },
@@ -2455,12 +2455,12 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/IconRogueJoy04.png",
-        "Name": "Resonance Formation: Doomsday Carnival",
+        "Name": "메아리 음률: 종말의 축제",
         "Desc": [
-            "When Path Resonance: Elation deals DMG, there is a 150% base chance to apply <u class='infou'>Sensory Pursuit</u> to enemies for 1 turn."
+            "운명의 길 메아리 「환락」으로 피해를 가할 시 150%의 기본 확률로 모든 적을 [<u class='infou'>감각 추구</u>] 상태에 빠트린다. 지속 시간: 1턴"
         ],
         "SimpleDesc": [
-            "Every time Path Resonance deals DMG, there is a high chance to apply <u class='infou'>Sensory Pursuit</u> to the target enemy."
+            "운명의 길 메아리가 피해를 가할 때마다, 높은 확률로 적을 [<u class='infou'>감각 추구</u>] 상태에 빠트린다"
         ],
         "Effects": [
             60000014
@@ -2471,12 +2471,12 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/IconRogueJoy01.png",
-        "Name": "Resonance Formation: Dance of Growth",
+        "Name": "메아리 음률: 묘목이 자라는 춤",
         "Desc": [
-            "Increase the Energy limit of Path Resonance from 100 to 200 points. Using abilities to resonate with a Path will consume all Energy. For every <color style='color:#f29e38;'>20.0%</color> Energy consumed that exceeds the original limit, attacks will deal DMG for 1 extra time."
+            "운명의 길 메아리의 에너지 최대치가 100pt에서 200pt로 증가한다. 스킬을 발동하여 운명의 길 메아리를 발동하면 현재 모든 에너지를 소모한다. 기존 에너지 최대치 <color style='color:#f29e38;'>20.0%</color>의 에너지를 추가로 소모할 때마다 공격 시 추가로 1회 피해를 가한다"
         ],
         "SimpleDesc": [
-            "Doubles the Energy limit of Path Resonance. When using Path Resonance, consume all Energy to increase the number of damaging hits from the Resonance."
+            "운명의 길 메아리의 에너지 최대치가 2배로 증가한다. 운명의 길 메아리 발동 시 모든 에너지를 소모하고 가하는 피해의 횟수가 증가한다"
         ],
         "Effects": []
     },
@@ -2485,12 +2485,12 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/IconRogueJoy05.png",
-        "Name": "Resonance Formation: Instant Win",
+        "Name": "메아리 음률: 병뚜껑 이벤트",
         "Desc": [
-            "When entering battle, Path Resonance regenerates <color style='color:#f29e38;'>40.0%</color> Energy. When a character launches a follow-up attack, Path Resonance additionally regenerates <color style='color:#f29e38;'>5.0%</color> Energy."
+            "전투 진입 시 운명의 길 메아리의 에너지를 <color style='color:#f29e38;'>40.0%</color> 회복한다. 캐릭터가 추가 공격 발동 후 추가로 운명의 길 메아리의 에너지를 <color style='color:#f29e38;'>5.0%</color> 회복한다"
         ],
         "SimpleDesc": [
-            "When entering battle, Path Resonances regenerates energy. When characters launch follow-up attacks, Path Resonances regenerates energy."
+            "전투 진입 시 운명의 길 메아리의 에너지를 회복한다. 캐릭터는 추가 공격 발동 시 운명의 길 메아리는 에너지를 회복한다"
         ],
         "Effects": []
     },
@@ -2499,12 +2499,12 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/BgPathsPropagation.png",
-        "Name": "Path Resonance: Propagation",
+        "Name": "운명의 길 메아리: 「번식」",
         "Desc": [
-            "Consumes 100 Energy to resonate with the Path of Propagation and allows a target ally to immediately take action, recover <color style='color:#f29e38;'>2.0</color> Skill Point(s) and become affected by <u class='infou'>Metamorphosis</u>. <u class='infou'>Metamorphosis</u> lasts for 1 turn and only takes effect on the latest target."
+            "운명의 길 메아리 에너지를 100pt 소모해 스킬을 발동하여 「번식」 운명의 길과 메아리 공명을 일으키고 지정된 단일 아군을 즉시 행동하게 만들고, 전투 스킬 포인트를 <color style='color:#f29e38;'>2.0</color>pt 회복하고, [<u class='infou'>탈피</u>] 효과를 획득한다. [<u class='infou'>탈피</u>] 효과는 1턴 동안 지속되며, 가장 마지막에 발동한 목표에게만 적용된다"
         ],
         "SimpleDesc": [
-            "After using a Path Resonance, a target ally immediately takes action, recovering <color style='color:#f29e38;'>2.0</color> Skill Point(s) and activating <u class='infou'>Metamorphosis</u>."
+            "운명의 길 메아리 발동 후, 지정된 단일 아군이 즉시 행동하고 전투 스킬 포인트를 <color style='color:#f29e38;'>2.0</color>pt 회복하며 [<u class='infou'>탈피</u>] 효과를 획득한다"
         ],
         "Effects": [
             60000016
@@ -2515,12 +2515,12 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Resonance Formation: Proboscis",
+        "Name": "메아리 음률: 해충 박멸기",
         "Desc": [
-            "Extends the duration of <u class='infou'>Metamorphosis</u> for 1 turn. After a character with <u class='infou'>Metamorphosis</u> defeats an enemy, Path Resonance regenerates <color style='color:#f29e38;'>20.0%</color> Energy."
+            "[<u class='infou'>탈피</u>] 효과의 지속 시간이 1턴 연장된다. [<u class='infou'>탈피</u>] 효과를 보유한 캐릭터가 적을 처치한 후, 운명의 길 메아리 에너지가 <color style='color:#f29e38;'>20.0%</color> 회복된다"
         ],
         "SimpleDesc": [
-            "The duration of <u class='infou'>Metamorphosis</u> is extended for 1 turn. After a character with <u class='infou'>Metamorphosis</u> defeats an enemy, Path Resonance regenerates Energy."
+            "[<u class='infou'>탈피</u>] 효과의 지속 시간이 1턴 연장된다. [<u class='infou'>탈피</u>] 효과를 보유한 캐릭터가 적을 처치한 후, 운명의 길 메아리의 에너지가 회복된다"
         ],
         "Effects": [
             60000016
@@ -2531,12 +2531,12 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Resonance Formation: Phenol Compounds",
+        "Name": "메아리 음률: 페놀류 물질",
         "Desc": [
-            "Increase the Energy limit of Path Resonance from 100 to 200 points. After a character consumes or recovers Skill Points, additionally regenerates <color style='color:#f29e38;'>1.0%</color> Energy for Path Resonance."
+            "운명의 길 메아리의 에너지 최대치가 100pt에서 200pt로 증가하고, 캐릭터가 전투 스킬 포인트를 소모 혹은 회복하면 운명의 길 메아리 에너지가 <color style='color:#f29e38;'>1.0%</color> 추가 회복된다"
         ],
         "SimpleDesc": [
-            "Path Resonance's Energy limit is doubled. After a character consumes or recovers Skill Points, Path Resonance regenerates energy."
+            "운명의 길 메아리의 에너지 최대치가 2배로 증가한다. 캐릭터가 전투 스킬 포인트 소모 혹은 회복 후, 운명의 길 메아리 에너지가 회복된다"
         ],
         "Effects": []
     },
@@ -2545,12 +2545,12 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/IconRoguePropagation01.png",
-        "Name": "Resonance Formation: Crystal Pincers",
+        "Name": "메아리 음률: 결정 독침",
         "Desc": [
-            "<u class='infou'>Metamorphosis</u> additionally increases DMG dealt by a character by <color style='color:#f29e38;'>40.0%</color>. Only when a character is under the <u class='infou'>Metamorphosis</u> effect can they cause <u class='infou'>Spores</u> to burst. Every time a character causes a <u class='infou'>Spore</u> to burst, additionally deal Basic ATK DMG equal to <color style='color:#f29e38;'>80.0%</color> of the character's ATK. This effect can trigger up to <color style='color:#f29e38;'>3.0</color> time(s) on the same target."
+            "[<u class='infou'>탈피</u>] 효과는 캐릭터가 가하는 피해를 추가로 <color style='color:#f29e38;'>40.0%</color> 증가시킨다. 캐릭터가 [<u class='infou'>탈피</u>] 효과에 빠져있을 때만 [<u class='infou'>포자</u>]를 폭파할 수 있다. 캐릭터가 [<u class='infou'>포자</u>]를 1개 폭파할 때마다 캐릭터 공격력 <color style='color:#f29e38;'>80.0%</color>만큼의 일반 공격 피해를 추가로 가한다. 동일한 목표에게 최대 <color style='color:#f29e38;'>3.0</color>회 발동한다"
         ],
         "SimpleDesc": [
-            "Increases DMG dealt by characters with <u class='infou'>Metamorphosis</u>. Only this type of character can cause <u class='infou'>Spores</u> to burst, dealing additional DMG after bursting."
+            "[<u class='infou'>탈피</u>] 효과를 보유한 캐릭터가 가하는 피해가 증가하고, 해당 유형의 캐릭터만 [<u class='infou'>포자</u>]를 폭파할 수 있다. 폭파 후 피해를 추가로 가한다"
         ],
         "Effects": [
             60000016,
@@ -2562,14 +2562,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Spore Discharge",
+        "Name": "자낭 방출",
         "Desc": [
-            "For each Skill Point a character consumes, all enemies will gain <color style='color:#f29e38;'>1.0</color> <u class='infou'>Spore(s)</u>.",
-            "For each Skill Point a character consumes, all enemies will gain <color style='color:#f29e38;'>1.0</color> <u class='infou'>Spores</u>. When all Skill Points are consumed, the SPD of the character who consumed the last Skill Point increases by <color style='color:#f29e38;'>20.0%</color> for <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "캐릭터가 전투 스킬 포인트를 1pt 소모할 때마다 모든 적이 [<u class='infou'>포자</u>]를 <color style='color:#f29e38;'>1.0</color>개 획득한다",
+            "캐릭터가 전투 스킬 포인트를 1pt 소모할 때마다 모든 적이 [<u class='infou'>포자</u>]를 <color style='color:#f29e38;'>1.0</color>개 획득한다. 전투 스킬 포인트를 0까지 소모하면 마지막으로 전투 스킬 포인트를 소모한 캐릭터의 속도가 <color style='color:#f29e38;'>20.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         ],
         "SimpleDesc": [
-            "When a character consumes Skill Points, causes all enemies to receive <u class='infou'>Spores</u>.",
-            "When a character consumes Skill Points, causes all enemies to receive <u class='infou'>Spores</u>. If Skill Points are consumed to 0, increases the character's SPD."
+            "캐릭터가 전투 스킬 포인트 소모 시 모든 적이 [<u class='infou'>포자</u>]를 획득한다",
+            "캐릭터가 전투 스킬 포인트 소모 시 모든 적이 [<u class='infou'>포자</u>]를 획득한다. 전투 스킬 포인트를 0까지 소모하면 해당 캐릭터의 속도가 증가한다"
         ],
         "Effects": [
             60000017
@@ -2580,14 +2580,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Fungal Pustule",
+        "Name": "균종 농포",
         "Desc": [
-            "For each Skill Point recovered, apply 1 <u class='infou'>Spore</u> to <color style='color:#f29e38;'>2.0</color> random enemy target(s).",
-            "For each Skill Point recovered, apply 1 <u class='infou'>Spore</u> to <color style='color:#f29e38;'>2.0</color> random enemy target(s). The max number of <u class='infou'>Spores</u> that can be possessed increases to <color style='color:#f29e38;'>9.0</color>."
+            "캐릭터가 전투 스킬 포인트를 1pt 회복할 때마다 랜덤 적 <color style='color:#f29e38;'>2.0</color>기가 [<u class='infou'>포자</u>]를 1개 획득한다",
+            "캐릭터가 전투 스킬 포인트를 1pt 회복할 때마다 랜덤 적 <color style='color:#f29e38;'>2.0</color>기가 [<u class='infou'>포자</u>]를 1개 획득하고, [<u class='infou'>포자</u>] 보유 최대치가 <color style='color:#f29e38;'>9.0</color>개로 증가한다"
         ],
         "SimpleDesc": [
-            "When a character recovers Skill Points, causes a random enemy to receive <u class='infou'>Spores</u>.",
-            "When a character recovers Skill Points, causes a random enemy to receive <u class='infou'>Spores</u>. Increases the number of <u class='infou'>Spores</u> they can bear."
+            "캐릭터가 전투 스킬 포인트 회복 시 랜덤 적이 [<u class='infou'>포자</u>]를 획득한다",
+            "캐릭터가 전투 스킬 포인트 회복 시 임의의 적이 [<u class='infou'>포자</u>]를 획득하고, [<u class='infou'>포자</u>] 보유 최대치가 증가한다"
         ],
         "Effects": [
             60000017
@@ -2598,14 +2598,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/IconRoguePropagation01.png",
-        "Name": "Scythe Limbs",
+        "Name": "낫과 사지",
         "Desc": [
-            "After a character uses their Ultimate, the next time they consume Skill Points, it will be considered as 1 additional Skill Point being consumed. For each Skill Point consumed, the character's CRIT DMG increases by <color style='color:#f29e38;'>40.0%</color>. This effect can stack up to <color style='color:#f29e38;'>2.0</color> time(s), lasting until the character uses an attack.",
-            "After a character uses their Ultimate, the next time they consume or recover Skill Points, it will be considered as 1 additional Skill Point being consumed or recovered. For each Skill Point consumed, the character's CRIT DMG increases by <color style='color:#f29e38;'>45.0%</color>. This effect can stack up to <color style='color:#f29e38;'>2.0</color> time(s), lasting until the character uses an attack."
+            "캐릭터가 필살기를 발동하면 다음번 전투 스킬 포인트 소모 시 1pt를 추가 소모한 것으로 간주한다. 전투 스킬 포인트를 1pt 소모할 때마다 캐릭터의 치명타 피해가 <color style='color:#f29e38;'>40.0%</color> 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>2.0</color>스택. 해당 캐릭터가 공격을 발동할 때까지 지속된다",
+            "캐릭터가 필살기를 발동하면 다음번 전투 스킬 포인트 소모 혹은 회복 시 1pt를 추가 소모 혹은 회복한 것으로 간주한다. 전투 스킬 포인트를 1pt 소모할 때마다 캐릭터의 치명타 피해가 <color style='color:#f29e38;'>45.0%</color> 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>2.0</color>스택. 해당 캐릭터가 공격을 발동할 때까지 지속된다"
         ],
         "SimpleDesc": [
-            "After a character uses an Ultimate, when a Skill Point is consumed, it is considered as additionally consuming 1 Skill Point. The more Skill Points a character consumes, the higher their CRIT DMG.",
-            "After a character uses an Ultimate, when a Skill Point is consumed or recovered, it is considered as additionally consuming or recovering 1 Skill Point. The more Skill Points a character consumes, the higher their CRIT DMG."
+            "캐릭터가 필살기를 발동하면 전투 스킬 포인트 소모 시 1pt를 추가 소모한 것으로 간주한다. 캐릭터가 전투 스킬 포인트 많이 소모할수록 치명타 피해가 증가한다",
+            "캐릭터가 필살기를 발동하면 전투 스킬 포인트 소모 혹은 회복 시 1pt를 추가로 소모 혹은 회복한 것으로 간주한다. 캐릭터가 전투 스킬 포인트를 많이 소모할수록 치명타 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -2614,14 +2614,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 2,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Putrefaction Ulcer",
+        "Name": "썩어 문드러진 상처",
         "Desc": [
-            "Changes the number of times <u class='infou'>Spores</u> can spread after bursting to <color style='color:#f29e38;'>2.0</color> times. Can also spread to the original bearer of <u class='infou'>Spores</u>.",
-            "Changes the number of times <u class='infou'>Spores</u> can spread after bursting to <color style='color:#f29e38;'>3.0</color> times. Can also spread to the original bearer of <u class='infou'>Spores</u>."
+            "[<u class='infou'>포자</u>] 폭파 후의 전파 횟수가 <color style='color:#f29e38;'>2.0</color>회로 바뀌고, [<u class='infou'>포자</u>]를 보유한 적에게도 전파할 수 있다",
+            "[<u class='infou'>포자</u>] 폭파 후의 전파 횟수가 <color style='color:#f29e38;'>3.0</color>회로 바뀌고, [<u class='infou'>포자</u>]를 보유한 적에게도 전파할 수 있다"
         ],
         "SimpleDesc": [
-            "The number of times <u class='infou'>Spores</u> can spread after bursting increases. Can also spread to the original bearer.",
-            "The number of times <u class='infou'>Spores</u> can spread after bursting increases. Can also spread to the original bearer."
+            "[<u class='infou'>포자</u>] 폭발 후의 전파 가능 횟수가 증가하고 자신에게 전파할 수도 있다",
+            "[<u class='infou'>포자</u>] 폭발 후의 전파 가능 횟수가 증가하고 자신에게 전파할 수도 있다"
         ],
         "Effects": [
             60000017
@@ -2632,14 +2632,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 2,
         "Icon": "/IconRoguePropagation01.png",
-        "Name": "Lytic Enzyme",
+        "Name": "분해 효소",
         "Desc": [
-            "Increases the DMG caused by <u class='infou'>Spores</u> bursting. The DMG increased is equal to <color style='color:#f29e38;'>35.0%</color> of the original DMG. After the target enemy was defeated, the <u class='infou'>Spores</u> they were carrying will spread to targets adjacent to them.",
-            "Increases the DMG caused by <u class='infou'>Spores</u> bursting. The DMG increased is equal to <color style='color:#f29e38;'>50.0%</color> of the original DMG. After the target enemy was defeated, the <u class='infou'>Spores</u> they were carrying will spread to other enemy targets."
+            "[<u class='infou'>포자</u>] 폭파로 가하는 피해가 기존 피해의 <color style='color:#f29e38;'>35.0%</color>만큼 증가하고, 적 처치 후 피격되기 전에 보유한 [<u class='infou'>포자</u>]를 인접한 목표에게 전파한다",
+            "[<u class='infou'>포자</u>] 폭파로 가하는 피해가 기존 피해의 <color style='color:#f29e38;'>50.0%</color>만큼 증가하고, 적 처치 후 피격되기 전에 보유한 [<u class='infou'>포자</u>]를 다른 적에게 전파한다"
         ],
         "SimpleDesc": [
-            "Increases DMG dealt by <u class='infou'>Spores</u>. After an enemy is defeated, enemies adjacent to it will receive its <u class='infou'>Spores</u>.",
-            "Increases DMG dealt by <u class='infou'>Spores</u>. After an enemy is defeated, other enemies will receive its <u class='infou'>Spores</u>."
+            "[<u class='infou'>포자</u>]가 가하는 피해가 증가한다. 적이 소멸된 후 인접한 적이 해당 적이 보유한 [<u class='infou'>포자</u>]를 획득한다",
+            "[<u class='infou'>포자</u>]가 가하는 피해가 증가한다. 적이 소멸된 후 다른 적이 해당 적이 보유한 [<u class='infou'>포자</u>]를 획득한다"
         ],
         "Effects": [
             60000017
@@ -2650,14 +2650,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 2,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Metabolic Cavity",
+        "Name": "대사강(腔)",
         "Desc": [
-            "For each <u class='infou'>Spore</u> that bursts, heals the character with the lowest HP by <color style='color:#f29e38;'>10.0%</color> of their Max HP.",
-            "For each <u class='infou'>Spore</u> possessed by all enemies, reduces the DMG received by all allies by <color style='color:#f29e38;'>0.8%</color>, After the <u class='infou'>Spores</u> burst, heals the ally with the lowest HP by <color style='color:#f29e38;'>12.0%</color> of their Max HP."
+            "[<u class='infou'>포자</u>]를 1개 폭파할 때마다 현재 HP 백분율이 가장 낮은 캐릭터가 HP를 자신 HP 최대치의 <color style='color:#f29e38;'>10.0%</color>만큼 회복한다",
+            "모든 적이 [<u class='infou'>포자</u>]를 1개 보유할 때마다 아군이 받는 피해가 <color style='color:#f29e38;'>0.8%</color> 감소한다. [<u class='infou'>포자</u>] 폭파 후 현재 HP 백분율이 가장 낮은 캐릭터가 HP를 자신 HP 최대치의 <color style='color:#f29e38;'>12.0%</color>만큼 회복한다"
         ],
         "SimpleDesc": [
-            "After <u class='infou'>Spores</u> burst, restores the HP of the character with the lowest HP percentage.",
-            "Based on the total number of <u class='infou'>Spores</u> on enemies, lowers DMG received by a character. After <u class='infou'>Spores</u> burst, restores the HP of the character with the lowest HP percentage."
+            "[<u class='infou'>포자</u>] 폭발 후 현재 HP 백분율이 가장 낮은 캐릭터가 HP를 회복한다",
+            "모든 적의 [<u class='infou'>포자</u>] 총 수량에 따라 캐릭터가 받는 피해가 감소한다. [<u class='infou'>포자</u>] 폭발 후 현재 HP 백분율이 가장 낮은 캐릭터가 HP를 회복한다"
         ],
         "Effects": [
             60000017
@@ -2668,14 +2668,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 2,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Excitatory Gland",
+        "Name": "자극선",
         "Desc": [
-            "If the team has 0 Skill Point when an ally uses their Basic ATK, additionally recovers 1 Skill Point.",
-            "If the Skill Point is 0 when using Basic ATK, additionally recovers 1 Skill Point and has a <color style='color:#f29e38;'>50.0%</color> fixed chance of further recovering 1 Skill Point."
+            "일반 공격 발동 시 전투 스킬 포인트가 0pt이면 전투 스킬 포인트를 1pt 추가로 회복한다",
+            "일반 공격 발동 시 전투 스킬 포인트가 0pt이면 전투 스킬 포인트를 1pt 추가 회복하고, <color style='color:#f29e38;'>50.0%</color>의 고정 확률로 1pt 추가 회복한다"
         ],
         "SimpleDesc": [
-            "If the team has 0 Skill Point when an ally uses their Basic ATK, additionally recovers 1 Skill Point.",
-            "Upon using a Basic ATK, should your Skill Points be 0, you will additionally recover 1 Skill Point and have a random chance to recover another 1 thereafter."
+            "일반 공격 발동 시 전투 스킬 포인트가 0pt이면 전투 스킬 포인트를 1pt 추가로 회복한다",
+            "일반 공격 발동 시 전투 스킬 포인트가 0이면 전투 스킬 포인트를 1pt 추가로 회복하고, 일정 확률로 다시 1pt 회복한다"
         ],
         "Effects": []
     },
@@ -2684,14 +2684,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 2,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Exposed Brain Matter",
+        "Name": "노출된 대뇌피질",
         "Desc": [
-            "The DMG dealt by Basic ATK will deal DMG equal to <color style='color:#f29e38;'>30.0%</color> of the original DMG to a random adjacent target.",
-            "The DMG dealt by Basic ATK will deal DMG equal to <color style='color:#f29e38;'>35.0%</color> of the original DMG to adjacent targets."
+            "일반 공격으로 가한 피해가 랜덤 인접한 단일 목표에게 기존 피해 <color style='color:#f29e38;'>30.0%</color>만큼의 피해를 가한다",
+            "일반 공격으로 가한 피해가 인접한 목표에게 기존 피해 <color style='color:#f29e38;'>35.0%</color>만큼의 피해를 가한다"
         ],
         "SimpleDesc": [
-            "Basic ATKs will Blast a single random adjacent enemy.",
-            "Basic ATKs will Blast adjacent targets."
+            "일반 공격 피해가 인접한 랜덤 단일 목표까지 확산한다",
+            "일반 공격 피해가 인접한 목표까지 확산한다"
         ],
         "Effects": []
     },
@@ -2700,14 +2700,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 2,
         "Icon": "/IconRoguePropagation02.png",
-        "Name": "Intersegmental Membrane",
+        "Name": "절간막",
         "Desc": [
-            "For each Skill Point a character consumes, the DMG received by them reduces by <color style='color:#f29e38;'>8.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s). This effect can be stacked up to <color style='color:#f29e38;'>2.0</color> time(s).",
-            "For each Skill Point a character consumes, the DMG received by them reduces by <color style='color:#f29e38;'>8.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s). This effect can be stacked up to <color style='color:#f29e38;'>3.0</color> time(s)."
+            "캐릭터가 전투 스킬 포인트를 1pt 소모할 때마다 받는 피해가 <color style='color:#f29e38;'>8.0%</color> 감소한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>2.0</color>스택",
+            "캐릭터가 전투 스킬 포인트를 1pt 소모할 때마다 받는 피해가 <color style='color:#f29e38;'>8.0%</color> 감소한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>3.0</color>스택"
         ],
         "SimpleDesc": [
-            "The more Skill Points a character consumes, the lower the DMG they receive.",
-            "The more Skill Points a character consumes, the lower the DMG they receive."
+            "캐릭터가 소모하는 전투 스킬 포인트가 많을수록 받는 피해가 감소한다",
+            "캐릭터가 소모하는 전투 스킬 포인트가 많을수록 받는 피해가 감소한다"
         ],
         "Effects": []
     },
@@ -2716,14 +2716,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 2,
         "Icon": "/IconRoguePropagation01.png",
-        "Name": "Catalyst",
+        "Name": "촉매제",
         "Desc": [
-            "After a character uses their Skill and if the Skill did not unleash an attack, all allies' DMG dealt increases by <color style='color:#f29e38;'>20.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s). This effect can be stacked up to <color style='color:#f29e38;'>3.0</color> time(s).",
-            "After a character uses their Skill and if the Skill did not unleash an attack, all allies' DMG dealt increases by <color style='color:#f29e38;'>30.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s). This effect can be stacked up to <color style='color:#f29e38;'>3.0</color> time(s)."
+            "캐릭터가 전투 스킬 발동 후 해당 전투 스킬이 공격을 발동하지 않았으면, 모든 아군이 가하는 피해가 <color style='color:#f29e38;'>20.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴, 해당 효과 최대 중첩수: <color style='color:#f29e38;'>3.0</color>회",
+            "캐릭터가 전투 스킬 발동 후 해당 전투 스킬이 공격을 발동하지 않았으면, 모든 아군이 가하는 피해가 <color style='color:#f29e38;'>30.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴, 해당 효과 최대 중첩수: <color style='color:#f29e38;'>3.0</color>회"
         ],
         "SimpleDesc": [
-            "If, after a character uses their Skill, the Skill does not initiate an attack, increases the DMG of all allies.",
-            "If, after a character uses their Skill, the Skill does not initiate an attack, increases the DMG of all allies."
+            "캐릭터가 전투 스킬 발동 후 이번 전투 스킬로 공격이 발동되지 않았으면, 모든 아군이 가하는 피해가 증가한다",
+            "캐릭터가 전투 스킬 발동 후 이번 전투 스킬로 공격이 발동되지 않았으면, 모든 아군이 가하는 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -2732,14 +2732,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 1,
         "Icon": "/IconRoguePropagation01.png",
-        "Name": "Osseus Blade",
+        "Name": "뼈 칼날",
         "Desc": [
-            "For each Blessing of Propagation in possession, increases all characters' Basic ATK DMG by <color style='color:#f29e38;'>9.0%</color>. This effect can stacked up to <color style='color:#f29e38;'>6.0</color> time(s).",
-            "For each Blessing of Propagation in possession, increases all characters' Basic ATK DMG by <color style='color:#f29e38;'>12.0%</color>. This effect can stacked up to <color style='color:#f29e38;'>9.0</color> time(s)."
+            "「번식」의 축복을 1개 보유할 때마다 캐릭터가 가하는 일반 공격 피해가 <color style='color:#f29e38;'>9.0%</color> 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>6.0</color>스택",
+            "「번식」의 축복을 1개 보유할 때마다 캐릭터가 가하는 일반 공격 피해가 <color style='color:#f29e38;'>12.0%</color> 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>9.0</color>스택"
         ],
         "SimpleDesc": [
-            "The more Blessings of Propagation the team has, the higher Basic ATK DMG becomes.",
-            "The more Blessings of Propagation the team has, the higher Basic ATK DMG becomes."
+            "「번식」의 축복이 많을수록 일반 공격의 피해가 증가한다",
+            "「번식」의 축복이 많을수록 일반 공격의 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -2748,14 +2748,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 1,
         "Icon": "/IconRoguePropagation01.png",
-        "Name": "Spinal Spur",
+        "Name": "척추뼈",
         "Desc": [
-            "Characters' Basic ATK CRIT Rate increases by <color style='color:#f29e38;'>24.0%</color>.",
-            "Characters' Basic ATK CRIT Rate increases by <color style='color:#f29e38;'>36.0%</color>."
+            "캐릭터의 일반 공격이 가하는 치명타 확률이 <color style='color:#f29e38;'>24.0%</color> 증가한다",
+            "캐릭터의 일반 공격이 가하는 치명타 확률이 <color style='color:#f29e38;'>36.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Increases the CRIT Rate of Characters' Basic ATK.",
-            "Increases the CRIT Rate of Characters' Basic ATK."
+            "캐릭터 일반 공격의 치명타 확률이 증가한다",
+            "캐릭터 일반 공격의 치명타 확률이 증가한다"
         ],
         "Effects": []
     },
@@ -2764,14 +2764,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 1,
         "Icon": "/IconRoguePropagation01.png",
-        "Name": "Channeled Needle",
+        "Name": "바늘",
         "Desc": [
-            "Characters' Basic ATK CRIT DMG increases by <color style='color:#f29e38;'>40.0%</color>.",
-            "Characters' Basic ATK CRIT DMG increases by <color style='color:#f29e38;'>60.0%</color>."
+            "캐릭터의 일반 공격이 가하는 치명타 피해가 <color style='color:#f29e38;'>40.0%</color> 증가한다",
+            "캐릭터의 일반 공격이 가하는 치명타 피해가 <color style='color:#f29e38;'>60.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Increases the CRIT DMG of Characters' Basic ATK",
-            "Increases the CRIT DMG of Characters' Basic ATK"
+            "캐릭터 일반 공격의 치명타 피해가 증가한다",
+            "캐릭터 일반 공격의 치명타 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -2780,14 +2780,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 1,
         "Icon": "/IconRoguePropagation02.png",
-        "Name": "Conjunctiva",
+        "Name": "결막",
         "Desc": [
-            "After characters use Basic ATKs, their DEF increases by <color style='color:#f29e38;'>40.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s).",
-            "After characters use Basic ATKs, their DEF increases by <color style='color:#f29e38;'>40.0%</color> for <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "캐릭터가 일반 공격 발동 후 방어력이 <color style='color:#f29e38;'>40.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴",
+            "캐릭터가 일반 공격 발동 후 방어력이 <color style='color:#f29e38;'>40.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         ],
         "SimpleDesc": [
-            "When a character uses a Basic ATK, their DEF increases.",
-            "When a character uses a Basic ATK, their DEF increases."
+            "캐릭터가 일반 공격 발동 후 방어력이 증가한다",
+            "캐릭터가 일반 공격 발동 후 방어력이 증가한다"
         ],
         "Effects": []
     },
@@ -2796,14 +2796,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 1,
         "Icon": "/IconRoguePropagation03.png",
-        "Name": "Scaled Wing",
+        "Name": "나비목",
         "Desc": [
-            "After characters use Basic ATKs, their SPD increases by <color style='color:#f29e38;'>16.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s).",
-            "After characters use Basic ATKs, their SPD increases by <color style='color:#f29e38;'>16.0%</color> for <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "캐릭터가 일반 공격 발동 후 속도가 <color style='color:#f29e38;'>16.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴",
+            "캐릭터가 일반 공격 발동 후 속도가 <color style='color:#f29e38;'>16.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         ],
         "SimpleDesc": [
-            "When a character launches a Basic ATK, their SPD increases.",
-            "When a character launches a Basic ATK, their SPD increases."
+            "캐릭터가 일반 공격 발동 후 속도가 증가한다",
+            "캐릭터가 일반 공격 발동 후 속도가 증가한다"
         ],
         "Effects": []
     },
@@ -2812,14 +2812,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 1,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Compound Eye",
+        "Name": "복안",
         "Desc": [
-            "After entering battle, recovers 1 Skill Point after each ally's turn. This effect can be triggered up to <color style='color:#f29e38;'>3.0</color> time(s) across all allies.",
-            "After entering battle, recovers 1 Skill Point after each ally's turn. This effect can be triggered up to <color style='color:#f29e38;'>5.0</color> time(s) across all allies."
+            "전투 진입 후 단일 아군이 행동 후 전투 스킬 포인트를 1개 회복한다. 해당 효과는 모든 아군이 최대 <color style='color:#f29e38;'>3.0</color>회 발동한다",
+            "전투 진입 후 단일 아군이 행동 후 전투 스킬 포인트를 1개 회복한다. 해당 효과는 모든 아군이 최대 <color style='color:#f29e38;'>5.0</color>회 발동한다"
         ],
         "SimpleDesc": [
-            "After entering battle, allies will recover Skill Points during the first <color style='color:#f29e38;'>3.0</color> actions.",
-            "After entering battle, allies will recover Skill Points during the first <color style='color:#f29e38;'>5.0</color> actions."
+            "전투 진입 후 아군이 <color style='color:#f29e38;'>3.0</color>회 동안 행동 후 전투 스킬 포인트를 회복한다",
+            "전투 진입 후 아군이 <color style='color:#f29e38;'>5.0</color>회 동안 행동 후 전투 스킬 포인트를 회복한다"
         ],
         "Effects": []
     },
@@ -2828,14 +2828,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 1,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Sporangium",
+        "Name": "포자낭",
         "Desc": [
-            "For each Skill Point a character consumes, the character regenerates <color style='color:#f29e38;'>3.0</color> extra Energy.",
-            "For each Skill Point a character consumes, the character regenerates <color style='color:#f29e38;'>4.0</color> extra Energy."
+            "캐릭터가 전투 스킬 포인트를 1pt 소모할 때마다 해당 캐릭터가 에너지를 <color style='color:#f29e38;'>3.0</color>pt 추가 회복한다",
+            "캐릭터가 전투 스킬 포인트를 1pt 소모할 때마다 해당 캐릭터가 에너지를 <color style='color:#f29e38;'>4.0</color>pt 추가 회복한다"
         ],
         "SimpleDesc": [
-            "Characters regenerate Energy when consuming Skill Points.",
-            "Characters regenerate Energy when consuming Skill Points."
+            "캐릭터가 전투 스킬 포인트 소모 시 에너지를 회복한다",
+            "캐릭터가 전투 스킬 포인트 소모 시 에너지를 회복한다"
         ],
         "Effects": []
     },
@@ -2844,14 +2844,14 @@ var _blessing = [
         "Path": 127,
         "Rarity": 1,
         "Icon": "/IconRoguePropagation05.png",
-        "Name": "Vesicle",
+        "Name": "액체 주머니",
         "Desc": [
-            "For each Skill Point a character consumes, the character restores HP equal to <color style='color:#f29e38;'>10.0%</color> of their Max HP.",
-            "For each Skill Point a character consumes, the character restores HP equal to <color style='color:#f29e38;'>15.0%</color> of their Max HP."
+            "캐릭터가 전투 스킬 포인트를 1pt 소모할 때마다 HP를 HP 최대치 <color style='color:#f29e38;'>10.0%</color>만큼 회복한다",
+            "캐릭터가 전투 스킬 포인트를 1pt 소모할 때마다 HP를 HP 최대치 <color style='color:#f29e38;'>15.0%</color>만큼 회복한다"
         ],
         "SimpleDesc": [
-            "Characters restore HP when consuming Skill Points",
-            "Characters restore HP when consuming Skill Points"
+            "캐릭터가 전투 스킬 포인트 소모 시 HP를 회복한다",
+            "캐릭터가 전투 스킬 포인트 소모 시 HP를 회복한다"
         ],
         "Effects": []
     },
@@ -2860,12 +2860,12 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/IconRogueKnight06.png",
-        "Name": "Resonance Interplay: Spiked Armor",
+        "Name": "메아리 교차: 망토 효과",
         "Desc": [
-            "There is a 150% base chance for Path Resonance: Preservation to inflict Bleed on the attacked target for <color style='color:#f29e38;'>2.0</color> turn(s). Bleeding enemies will take Physical DoT equal to <color style='color:#f29e38;'>12.0%</color> of their Max HP at the start of each turn. This DMG cannot exceed <color style='color:#f29e38;'>250.0%</color> of the total amount of Shield effect currently active on all allies."
+            "운명의 길 메아리 「보존」은 150%의 기본 확률로 공격 목표를 열상 상태에 빠트린다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴. 열상 상태에서 적은 턴이 시작될 때마다 자신의 HP 최대치 <color style='color:#f29e38;'>12.0%</color>만큼의 물리 속성 지속 피해를 받고, 모든 아군이 보유한 실드량 총량의 <color style='color:#f29e38;'>250.0%</color>를 넘지 않는다"
         ],
         "SimpleDesc": [
-            "After using a Path Resonance, there is a high chance of applying Bleed to the enemy. DMG dealt is based on the total Shield on all allies."
+            "운명의 길 메아리 발동 후 높은 확률로 적을 열상 상태에 빠트리고, 받는 피해는 모든 아군의 실드 총량에 기반한다"
         ],
         "Effects": []
     },
@@ -2874,12 +2874,12 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/IconRogueKnight07.png",
-        "Name": "Resonance Interplay: Cold Snap",
+        "Name": "메아리 교차: 취성 현상",
         "Desc": [
-            "When attacking Frozen enemy targets with Path Resonance: Preservation, the DMG dealt increases by <color style='color:#f29e38;'>80.0%</color> and the Freeze status on the enemy targets is removed. <u class='infou'>Dissociation</u> will not be removed by this effect."
+            "운명의 길 메아리 「보존」이 빙결 상태의 적 공격 시, 가하는 피해가 <color style='color:#f29e38;'>80.0%</color> 증가하고 적의 빙결 상태를 해제한다. [<u class='infou'>해리</u>]는 해당 효과로 해제되지 않는다"
         ],
         "SimpleDesc": [
-            "Increases DMG dealt by Path Resonance: Preservation to Frozen enemies and dispels their Freeze status."
+            "운명의 길 메아리 「보존」이 빙결 상태의 적에게 가하는 피해가 증가하고, 해당 적의 빙결 상태를 해제한다"
         ],
         "Effects": [
             60000002
@@ -2890,12 +2890,12 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/IconRogueMemory07.png",
-        "Name": "Resonance Interplay: Faces Places",
+        "Name": "메아리 교차: 사랑한 얼굴들",
         "Desc": [
-            "When the Freeze effect caused by Path Resonance is dispelled or resisted by enemy targets, there is a 150% base chance of lowering the target's All-Type RES by <color style='color:#f29e38;'>15.0%</color> for <color style='color:#f29e38;'>2.0</color> turn(s). For every 1% HP that each ally has lost, the target's All-Type RES is additionally lowered by <color style='color:#f29e38;'>0.0%</color>."
+            "운명의 길 메아리가 가하는 빙결 상태를 적이 해제 혹은 저항 시, 150%의 기본 확률로 해당 목표의 모든 속성 저항이 <color style='color:#f29e38;'>15.0%</color> 감소한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴. 각 단일 아군이 각자의 HP를 1% 잃을 때마다 해당 목표의 모든 속성 저항이 <color style='color:#f29e38;'>0.0%</color> 추가로 감소한다"
         ],
         "SimpleDesc": [
-            "When the Freeze effect of a Path Resonance is dispelled or resisted, reduces the enemy target(s)' All-Type RES based on the total lost HP of all team members."
+            "운명의 길 메아리의 빙결 상태 해제 혹은 저항 시, 모든 아군이 잃은 HP 백분율에 따라 적의 모든 속성 저항이 감소한다"
         ],
         "Effects": []
     },
@@ -2904,12 +2904,12 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/IconRogueMemory06.png",
-        "Name": "Resonance Interplay: Landscape in the Mist",
+        "Name": "메아리 교차: 안갯속 풍경",
         "Desc": [
-            "When the Freeze effect caused by Path Resonance is dispelled or resisted by enemy targets, there is a 150% base chance of decreasing the target's SPD by <color style='color:#f29e38;'>15.0%</color> for <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "운명의 길 메아리가 가하는 빙결 상태를 적이 해제 혹은 저항 시, 150%의 기본 확률로 해당 목표의 속도가 <color style='color:#f29e38;'>15.0%</color> 감소한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         ],
         "SimpleDesc": [
-            "When the Freeze effect of a Path Resonance is dispelled or resisted, there is a high chance of reducing the enemy's SPD."
+            "운명의 길 메아리의 빙결 상태 해제 혹은 저항 시, 높은 확률로 적의 속도가 감소한다"
         ],
         "Effects": []
     },
@@ -2918,12 +2918,12 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/IconRogueWarlock06.png",
-        "Name": "Resonance Interplay: Off the Beaten Track",
+        "Name": "메아리 교차: 숲속의 길",
         "Desc": [
-            "After using a Path Resonance, for every type of debuff (out of Burn, Shock, Bleed, and Wind Shear) the enemy target is currently inflicted with, Advance Forward all allies' actions by <color style='color:#f29e38;'>4.0%</color>."
+            "운명의 길 메아리 발동 후 적이 현재 연소, 감전, 열상, 풍화 상태 중 1개에 빠질 때마다 모든 아군의 행동 게이지가 <color style='color:#f29e38;'>4.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "After using a Path Resonance, for every type of debuff (out of Burn, Shock, Bleed, and Wind Shear) the enemy target is currently inflicted with, Advance Forward all allies' actions."
+            "운명의 길 메아리 발동 후 적이 현재 연소, 감전, 열상, 풍화 상태 중 1개에 빠지면 모든 아군의 행동 게이지가 증가한다"
         ],
         "Effects": []
     },
@@ -2932,12 +2932,12 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/IconRogueWarlock07.png",
-        "Name": "Resonance Interplay: White Nights",
+        "Name": "메아리 교차: 백야",
         "Desc": [
-            "A character's Basic ATK can cause all DoTs currently applied on the target via Path Resonance: Nihility to immediately deal DMG equivalent to <color style='color:#f29e38;'>40.0%</color> of these statuses' original DMG."
+            "캐릭터의 일반 공격은 공격 목표가 현재 운명의 길 메아리 「공허」로 받은 모든 지속 피해가 즉시 원래 피해의 <color style='color:#f29e38;'>40.0%</color>만큼 피해를 생성하게 한다"
         ],
         "SimpleDesc": [
-            "Basic ATK can additionally trigger the DoT of Path Resonance: Nihility."
+            "일반 공격은 운명의 길 메아리 「공허」가 부여한 지속 피해를 추가 발동할 수 있다"
         ],
         "Effects": []
     },
@@ -2946,12 +2946,12 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/IconRoguePirest07.png",
-        "Name": "Resonance Interplay: Mountain High",
+        "Name": "메아리 교차: 고산에 드리우는 빛",
         "Desc": [
-            "After a character has their HP restored via Path Resonance and if the healing amount exceeds the maximum HP, recover 1 Skill Point. This effect can only trigger 1 time per Path Resonance use. After triggering this effect, all DMG dealt by all allies is increased by <color style='color:#f29e38;'>30.0%</color> for <color style='color:#f29e38;'>2.0</color> turns. This effect can stack up to <color style='color:#f29e38;'>2.0</color> time(s)."
+            "캐릭터가 운명의 길 메아리의 치유를 받은 후, 치유량이 초과하면 전투 스킬 포인트를 1pt 회복한다. 해당 효과는 운명의 길 메아리를 발동할 때마다 최대 1회만 발동한다. 해당 효과 발동 후 모든 아군이 가하는 피해가 <color style='color:#f29e38;'>30.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴, 해당 효과 최대 중첩수: <color style='color:#f29e38;'>2.0</color>스택"
         ],
         "SimpleDesc": [
-            "When a Path Resonance overheals, recovers 1 Skill Point and increases all allies' DMG."
+            "운명의 길 메아리의 치유량 초과 시 전투 스킬 포인트를 1pt 회복하고 모든 아군이 가하는 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -2960,12 +2960,12 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/IconRoguePirest06.png",
-        "Name": "Resonance Interplay: Nullifying Ardor",
+        "Name": "메아리 교차: 최고의 경지",
         "Desc": [
-            "After using Path Resonance, all allies' Weakness Break Efficiency increases by <color style='color:#f29e38;'>15.0%</color> and Break Effect increases by <color style='color:#f29e38;'>50.0%</color>. This effect lasts for <color style='color:#f29e38;'>2.0</color> turn(s) and stacks up to <color style='color:#f29e38;'>2.0</color> time(s)."
+            "운명의 길 메아리 발동 후 모든 아군의 약점 격파 효율이 <color style='color:#f29e38;'>15.0%</color> 증가하고, 격파 특수효과가 <color style='color:#f29e38;'>50.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>2.0</color>스택"
         ],
         "SimpleDesc": [
-            "After using a Path Resonance, increases all allies' Weakness Break efficiency and Break Effect."
+            "운명의 길 메아리 발동 후, 모든 아군의 약점 격파 효율과 격파 특수효과가 증가한다"
         ],
         "Effects": []
     },
@@ -2974,12 +2974,12 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/IconRogueRogue07.png",
-        "Name": "Resonance Interplay: Startling Breeze",
+        "Name": "메아리 교차: 폭풍처럼 빠른 걸음",
         "Desc": [
-            "After using Path Resonance, all allies' SPD increases by <color style='color:#f29e38;'>25.0</color> for <color style='color:#f29e38;'>2.0</color> turn(s). This effect also applies to units summoned by allies."
+            "운명의 길 메아리 발동 후 모든 아군의 속도가 <color style='color:#f29e38;'>25.0</color>pt 증가한다. 해당 효과는 캐릭터가 소환한 목표에도 적용된다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         ],
         "SimpleDesc": [
-            "After using a Path Resonance, increases all allies' SPD. This effect also applies to units summoned by allies."
+            "운명의 길 메아리 발동 후 모든 아군의 속도가 증가한다. 해당 효과는 캐릭터가 소환한 목표에도 적용된다"
         ],
         "Effects": []
     },
@@ -2988,12 +2988,12 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/IconRogueRogue06.png",
-        "Name": "Resonance Interplay: Shooting Starfire",
+        "Name": "메아리 교차: 유성과도 같은 불꽃",
         "Desc": [
-            "After enemy target(s) are defeated by a Path Resonance, restores all allies' HP equal to <color style='color:#f29e38;'>50.0%</color> of their respective Max HP."
+            "운명의 길 메아리가 적 처치 후 모든 아군이 HP를 각자 HP 최대치의 <color style='color:#f29e38;'>50.0%</color>만큼 회복한다"
         ],
         "SimpleDesc": [
-            "After a Path Resonance defeats an enemy, restores all allies' HP."
+            "운명의 길 메아리가 적 처치 후 모든 아군의 HP가 회복된다"
         ],
         "Effects": []
     },
@@ -3002,12 +3002,12 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/IconRogueWarrior07.png",
-        "Name": "Resonance Interplay: Substellar Belt",
+        "Name": "메아리 교차: 차행성대",
         "Desc": [
-            "Using Path Resonance will cause any character with current HP percentage lower than <color style='color:#f29e38;'>50.0%</color> to gain a Shield equal to <color style='color:#f29e38;'>40.0%</color> of their Max HP, lasting for <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "운명의 길 메아리를 발동하면 현재 HP 백분율이 <color style='color:#f29e38;'>50.0%</color> 미만의 캐릭터에게 HP 최대치 <color style='color:#f29e38;'>40.0%</color>만큼의 피해를 상쇄할 수 있는 실드를 제공한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         ],
         "SimpleDesc": [
-            "After using a Path Resonance, grants a Shield to a character with current HP percentage lower than <color style='color:#f29e38;'>50.0%</color>."
+            "운명의 길 메아리 발동 후, 현재 HP 백분율이 <color style='color:#f29e38;'>50.0%</color> 미만인 캐릭터가 실드를 획득한다"
         ],
         "Effects": []
     },
@@ -3016,12 +3016,12 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/IconRogueWarrior06.png",
-        "Name": "Resonance Interplay: Zero Age Main Sequence",
+        "Name": "메아리 교차: 영년주계열",
         "Desc": [
-            "When a character launches a follow-up attack, regenerates <color style='color:#f29e38;'>5.0%</color> Energy for Path Resonance. If the character's current HP percentage is lower than <color style='color:#f29e38;'>50.0%</color>, additionally regenerates <color style='color:#f29e38;'>5.0%</color> Energy for Path Resonance."
+            "캐릭터가 추가 공격 발동 후, 운명의 길 메아리가 에너지를 <color style='color:#f29e38;'>5.0%</color> 회복한다. 해당 캐릭터의 현재 HP 백분율이 <color style='color:#f29e38;'>50.0%</color> 미만이면, 운명의 길 메아리가 에너지를 <color style='color:#f29e38;'>5.0%</color> 추가 회복한다"
         ],
         "SimpleDesc": [
-            "When a character launches a follow-up attack, Path Resonance regenerates Energy. If the character's HP is lower than <color style='color:#f29e38;'>50.0%</color>, increases the amount of Energy regenerated."
+            "캐릭터가 추가 공격 발동 시 운명의 길 메아리의 에너지가 회복된다. 해당 캐릭터의 현재 HP 백분율이 <color style='color:#f29e38;'>50.0%</color> 미만이면 회복하는 에너지가 증가한다"
         ],
         "Effects": []
     },
@@ -3030,12 +3030,12 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/IconRogueJoy07.png",
-        "Name": "Resonance Interplay: The Taste of Anglerfish",
+        "Name": "메아리 교차: 아귀의 맛",
         "Desc": [
-            "When Path Resonance: Elation deals DMG, randomly dispels 1 debuff on 1 ally."
+            "운명의 길 메아리 「환락」이 피해를 가할 시 아군 캐릭터 랜덤 1명의 디버프 효과를 1개 해제한다"
         ],
         "SimpleDesc": [
-            "When Path Resonance: Elation deals DMG, randomly dispels the debuffs on a character."
+            "운명의 길 메아리 「환락」이 피해를 가할 시 캐릭터의 디버프 효과가 랜덤으로 해제된다"
         ],
         "Effects": []
     },
@@ -3044,12 +3044,12 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/IconRogueJoy06.png",
-        "Name": "Resonance Interplay: Guinea Pig in Ice Coffin",
+        "Name": "메아리 교차: 빙관과 기니피그",
         "Desc": [
-            "When Path Resonance: Elation deals Ice DMG, there is a 150% base chance to Freeze the enemy target for <color style='color:#f29e38;'>1.0</color> turn(s)."
+            "운명의 길 메아리 「환락」이 얼음 속성 피해를 가할 시, 150%의 기본 확률로 적을 빙결 상태에 빠트린다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴"
         ],
         "SimpleDesc": [
-            "When Path Resonance: Elation deals Ice DMG, there is a high chance to Freeze the enemy."
+            "운명의 길 메아리 「환락」이 얼음 속성 피해를 가할 시 높은 확률로 적을 빙결 상태에 빠트린다"
         ],
         "Effects": []
     },
@@ -3058,12 +3058,12 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/IconRoguePropagation07.png",
-        "Name": "Resonance Interplay: Superposition Eye",
+        "Name": "메아리 교차: 중복상안",
         "Desc": [
-            "After using Path Resonance, nullifies all DMG received by a single target ally except DoT. This status is dispelled after being attacked. If the target ally's current HP percentage is lower than <color style='color:#f29e38;'>50.0%</color> when Path Resonance is used, it will additionally recover <color style='color:#f29e38;'>1.0</color> Skill Point(s)."
+            "운명의 길 메아리 발동 후, 지정된 단일 아군이 지속 피해 이외의 모든 피해에 저항한다. 해당 효과는 피격될 시 해제된다. 해당 목표의 현재 HP 백분율이 <color style='color:#f29e38;'>50.0%</color> 미만이면 운명의 길 메아리와 공명 시 전투 스킬 포인트를 <color style='color:#f29e38;'>1.0</color>pt 추가 회복한다"
         ],
         "SimpleDesc": [
-            "After using a Path Resonance, make a target ally able to Block 1 attack. If that ally's HP is lower than <color style='color:#f29e38;'>50.0%</color>, recover <color style='color:#f29e38;'>1.0</color> Skill Point(s)."
+            "운명의 길 메아리 발동 후, 지정된 단일 아군이 공격 1회를 막을 수 있다. 해당 목표의 현재 HP 백분율이 <color style='color:#f29e38;'>50.0%</color> 미만이면 전투 스킬 포인트를 <color style='color:#f29e38;'>1.0</color>pt 회복한다"
         ],
         "Effects": []
     },
@@ -3072,12 +3072,12 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/IconRoguePropagation06.png",
-        "Name": "Resonance Interplay: Adherent Microbial Mat",
+        "Name": "메아리 교차: 균 군집체 부착",
         "Desc": [
-            "When using Path Resonance, a single target ally gain a Shield equal to <color style='color:#f29e38;'>60.0%</color> of Max HP, lasting for <color style='color:#f29e38;'>3.0</color> turn(s)."
+            "운명의 길 메아리 발동 시, 지정된 단일 아군은 자신 HP 최대치 <color style='color:#f29e38;'>60.0%</color>만큼의 피해를 막을 수 있는 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>3.0</color>턴"
         ],
         "SimpleDesc": [
-            "When using a Path Resonance, grants Shield to a target ally."
+            "운명의 길 메아리 발동 시 지정된 단일 아군이 실드를 획득한다"
         ],
         "Effects": []
     },
@@ -3086,12 +3086,12 @@ var _blessing = [
         "Path": 128,
         "Rarity": 3,
         "Icon": "/BgPathsnMage.png",
-        "Name": "Path Resonance: \"Erudition\"",
+        "Name": "운명의 길 메아리: 「지식」",
         "Desc": [
-            "Consume 100 Energy to resonate with the Path of Erudition. Path Resonance links the enemy with the highest Max HP with other enemies, inflicting <u class='infou'>Synapse Resonance</u> on all enemies and dealing Imaginary DMG to them."
+            "운명의 길 메아리 에너지를 100pt 소모해 스킬을 발동하여 「지식」 운명의 길과 메아리 공명을 일으키고 HP 최대치가 가장 높은 적과 다른 적을 연결해 모든 적을 [<u class='infou'>시냅스 공명</u>] 상태에 빠뜨리고 모든 적에게 허수 속성 피해를 가한다"
         ],
         "SimpleDesc": [
-            "Path Resonance inflicts <u class='infou'>Synapse Resonance</u> on all enemies and deal Imaginary DMG to them."
+            "운명의 길 메아리 발동 후 모든 적을 [<u class='infou'>시냅스 공명</u>] 상태에 빠트리고 모든 적에게 허수 속성 피해를 가한다"
         ],
         "Effects": [
             61000043
@@ -3102,12 +3102,12 @@ var _blessing = [
         "Path": 128,
         "Rarity": 3,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Resonance Formation: Melt Core",
+        "Name": "메아리 음률: 코어 멜트",
         "Desc": [
-            "When an enemy target with <u class='infou'>Synapse Resonance</u> is attacked by Ultimate, the enemy target with the highest Max HP takes increased DMG equal to <color style='color:#f29e38;'>50.0%</color> of the attacking character's ATK."
+            "[<u class='infou'>시냅스 공명</u>] 상태의 적이 필살기 공격을 받은 후 HP 최대치가 가장 높은 적에게 가하는 피해량이 증가한다. 증가량은 캐릭터 공격력의 <color style='color:#f29e38;'>50.0%</color>이다"
         ],
         "SimpleDesc": [
-            "When <u class='infou'>Synapse Resonance</u> is triggered by an Ultimate, it will deal more DMG to the enemy with the highest Max HP."
+            "필살기에 의해 [<u class='infou'>시냅스 공명</u>] 효과가 발동한 경우 HP 최대치가 가장 높은 적에게 가하는 피해량이 증가한다"
         ],
         "Effects": [
             61000043
@@ -3118,12 +3118,12 @@ var _blessing = [
         "Path": 128,
         "Rarity": 3,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Resonance Formation: Chain Contagion",
+        "Name": "메아리 음률: 연쇄 전염",
         "Desc": [
-            "When characters defeat an enemy with <u class='infou'>Synapse Resonance</u>, the effect is additionally triggered for <color style='color:#f29e38;'>2.0</color> time(s)."
+            "[<u class='infou'>시냅스 공명</u>] 상태의 적이 캐릭터에 의해 처치되면 효과를 추가로 <color style='color:#f29e38;'>2.0</color>회 발동한다"
         ],
         "SimpleDesc": [
-            "When characters defeat an enemy with <u class='infou'>Synapse Resonance</u>, the effect is additionally triggered for <color style='color:#f29e38;'>2.0</color> time(s)."
+            "[<u class='infou'>시냅스 공명</u>] 상태의 적이 캐릭터에 의해 처치되면 효과를 추가로 <color style='color:#f29e38;'>2.0</color>회 발동한다"
         ],
         "Effects": [
             61000043
@@ -3134,12 +3134,12 @@ var _blessing = [
         "Path": 128,
         "Rarity": 3,
         "Icon": "/IconRogueMage03.png",
-        "Name": "Resonance Formation: Memetic Inversion",
+        "Name": "메아리 음률: 밈 역추리",
         "Desc": [
-            "When an enemy target appears, regenerates Path Resonance Energy equal to <color style='color:#f29e38;'>5.0%</color> of the combined Max Energy of all characters."
+            "적이 나타나면 운명의 길 메아리 에너지를 캐릭터 에너지 최대치 총합의 <color style='color:#f29e38;'>5.0%</color>만큼 회복한다"
         ],
         "SimpleDesc": [
-            "Regenerates Path Resonance Energy upon encountering enemies."
+            "적이 나타나면 운명의 길 메아리 에너지가 회복된다"
         ],
         "Effects": []
     },
@@ -3148,14 +3148,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 3,
         "Icon": "/IconRogueMage03.png",
-        "Name": "BCI-34 Gray Matter",
+        "Name": "BCI-34형 회백질",
         "Desc": [
-            "When entering battle, charges the <u class='infou'>Brain in a Vat</u> by <color style='color:#f29e38;'>65.0%</color>. Breaking an enemy's Weakness charges the <u class='infou'>Brain in a Vat</u> by <color style='color:#f29e38;'>35.0%</color>.",
-            "When entering battle, charges <u class='infou'>Brain in a Vat</u> by <color style='color:#f29e38;'>100.0%</color>. Breaking an enemy's Weakness or attacking Weakness Broken enemies will charge <u class='infou'>Brain in a Vat</u> by <color style='color:#f29e38;'>40.0%</color> or <color style='color:#f29e38;'>5.0%</color> respectively. This effect can only be triggered once by each enemy during each attack."
+            "전투 진입 시 [<u class='infou'>통 속의 뇌</u>]를 <color style='color:#f29e38;'>65.0%</color> 충전한다. 캐릭터가 적의 약점을 격파하면 [<u class='infou'>통 속의 뇌</u>]를 <color style='color:#f29e38;'>35.0%</color> 충전한다",
+            "전투 진입 시 [<u class='infou'>통 속의 뇌</u>]를 <color style='color:#f29e38;'>100.0%</color> 충전한다. 캐릭터가 적의 약점을 격파하거나 약점 격파 상태의 적을 공격하면, [<u class='infou'>통 속의 뇌</u>]를 각각 <color style='color:#f29e38;'>40.0%</color>, <color style='color:#f29e38;'>5.0%</color> 충전한다. 해당 효과는 공격할 때마다 각 적에게 최대 1회 발동한다"
         ],
         "SimpleDesc": [
-            "When entering battle, charges the <u class='infou'>Brain in a Vat</u>. Breaking an enemy's Weakness charges the <u class='infou'>Brain in a Vat</u>.",
-            "When entering battle, charges the <u class='infou'>Brain in a Vat</u>. Breaking an enemy's Weakness or attacking Weakness Broken enemies charges the <u class='infou'>Brain in a Vat</u>."
+            "전투 진입 시 [<u class='infou'>통 속의 뇌</u>]를 충전한다. 캐릭터가 적의 약점을 격파하면 [<u class='infou'>통 속의 뇌</u>]를 충전한다",
+            "전투 진입 시 [<u class='infou'>통 속의 뇌</u>]를 충전한다. 캐릭터가 적의 약점을 격파하거나 약점 격파 상태의 적을 공격하면 [<u class='infou'>통 속의 뇌</u>]를 충전한다"
         ],
         "Effects": [
             61000044
@@ -3166,14 +3166,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 3,
         "Icon": "/IconRogueMage03.png",
-        "Name": "SMR-2 Amygdala",
+        "Name": "SMR-2형 편도체",
         "Desc": [
-            "Dealing fatal DMG to enemies will charge the <u class='infou'>Brain in a Vat</u> by <color style='color:#f29e38;'>50.0%</color>.",
-            "Dealing fatal DMG to enemies charges the <u class='infou'>Brain in a Vat</u> by <color style='color:#f29e38;'>50.0%</color>. When the <u class='infou'>Brain in a Vat</u> is fully charged, characters' SPD increases by <color style='color:#f29e38;'>20.0%</color> for <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "캐릭터가 적에게 치명적인 피해를 가할 시 [<u class='infou'>통 속의 뇌</u>]를 <color style='color:#f29e38;'>50.0%</color> 충전한다",
+            "캐릭터가 적에게 치명적인 피해를 가할 시 [<u class='infou'>통 속의 뇌</u>]를 <color style='color:#f29e38;'>50.0%</color> 충전한다. [<u class='infou'>통 속의 뇌</u>]를 100% 충전할 때마다 캐릭터의 속도가 <color style='color:#f29e38;'>20.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         ],
         "SimpleDesc": [
-            "Dealing fatal DMG to enemies charges the <u class='infou'>Brain in a Vat</u>.",
-            "Dealing fatal DMG to enemies charges the <u class='infou'>Brain in a Vat</u>. Every time the <u class='infou'>Brain in a Vat</u> is fully charged, gains a SPD bonus."
+            "캐릭터가 적에게 치명적인 피해를 가할 시 [<u class='infou'>통 속의 뇌</u>]를 충전한다",
+            "캐릭터가 적에게 치명적인 피해를 가할 시 [<u class='infou'>통 속의 뇌</u>]를 충전한다. [<u class='infou'>통 속의 뇌</u>]를 100% 충전할 때마다 속도가 증가한다"
         ],
         "Effects": [
             61000044
@@ -3184,14 +3184,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 3,
         "Icon": "/IconRogueMage01.png",
-        "Name": "VEP-18 Occipital Lobe",
+        "Name": "VEP-18형 후두엽",
         "Desc": [
-            "The All-Type RES PEN for characters' Ultimate DMG increases by <color style='color:#f29e38;'>20.0%</color>. When Ultimate is used, for every hit enemy target, the All-Type RES PEN for the next Ultimate's DMG will additionally increase by <color style='color:#f29e38;'>3.0%</color>.",
-            "The All-Type RES PEN for characters' Ultimate DMG increases by <color style='color:#f29e38;'>25.0%</color>. For each enemy target hit by the Ultimate that achieves the highest number of enemy hits in a single attack in this battle, the All-Type RES PEN for the Ultimate DMG additionally increases by <color style='color:#f29e38;'>3.0%</color>."
+            "캐릭터가 가하는 필살기 피해의 모든 속성 저항 관통이 <color style='color:#f29e38;'>20.0%</color> 증가한다. 필살기 발동 시 피격된 적 1기당 다음 필살기가 가하는 피해의 모든 속성 저항 관통이 추가로 <color style='color:#f29e38;'>3.0%</color> 증가한다",
+            "캐릭터가 가하는 필살기 피해의 모든 속성 저항 관통이 <color style='color:#f29e38;'>25.0%</color> 증가한다. 이번 전투에서 이미 발동한 필살기 단일 공격으로 공격한 적의 최대 수량에 따라 1기당 가하는 필살기 피해의 모든 속성 저항 관통이 추가로 <color style='color:#f29e38;'>3.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Ultimate gains a RES PEN bonus. The more enemies the Ultimate hits, the higher the RES PEN bonus for the next Ultimate.",
-            "Ultimate gains a RES PEN bonus. The higher the max number of enemies attacked during the battle, the higher the RES PEN bonus for the Ultimate DMG."
+            "캐릭터 필살기의 저항 관통이 증가한다. 공격한 적이 많을수록 다음 필살기의 저항 관통이 추가로 증가한다",
+            "캐릭터 필살기의 저항 관통이 증가한다. 이번 전투에서 공격한 적 최대 수가 높을수록 필살기 저항 관통이 추가로 증가한다"
         ],
         "Effects": []
     },
@@ -3200,14 +3200,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 2,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Attachment: Vestibular System",
+        "Name": "추가: 전정계",
         "Desc": [
-            "When characters use Ultimates via <u class='infou'>Brain in a Vat</u>, their CRIT DMG increases by <color style='color:#f29e38;'>80.0%</color>, lasting until this ability ends.",
-            "When characters use Ultimates via <u class='infou'>Brain in a Vat</u>, their CRIT DMG increases by <color style='color:#f29e38;'>90.0%</color>. This CRIT DMG increase lasts until the next attack ends."
+            "캐릭터가 [<u class='infou'>통 속의 뇌</u>]를 이용해 필살기를 발동하면 치명타 피해가 <color style='color:#f29e38;'>80.0%</color> 증가한다. 해당 효과는 이번 스킬이 종료될 때까지 지속된다",
+            "캐릭터가 [<u class='infou'>통 속의 뇌</u>]를 이용해 필살기를 발동하면 치명타 피해가 <color style='color:#f29e38;'>90.0%</color> 증가한다. 치명타 피해 증가 효과는 다음 공격이 종료될 때까지 지속된다"
         ],
         "SimpleDesc": [
-            "Ultimate cast with the <u class='infou'>Brain in a Vat</u> deals more CRIT DMG.",
-            "Ultimates cast with the <u class='infou'>Brain in a Vat</u> deals more CRIT DMG. This CRIT DMG bonus lasts until the end of the next ATK."
+            "캐릭터가 [<u class='infou'>통 속의 뇌</u>]를 이용해 필살기를 발동하면 치명타 피해가 증가한다",
+            "캐릭터가 [<u class='infou'>통 속의 뇌</u>]를 이용해 필살기를 발동하면 치명타 피해가 증가한다. 해당 효과는 다음 공격이 끝날 때까지 지속된다"
         ],
         "Effects": [
             61000044
@@ -3218,14 +3218,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 2,
         "Icon": "/IconRogueMage03.png",
-        "Name": "Imitation: Transmitter Synthesis",
+        "Name": "모방: 전달물질 합성",
         "Desc": [
-            "For every 1 Energy that exceeds the characters' Max Energy, charges <u class='infou'>Brain in a Vat</u> by <color style='color:#f29e38;'>0.8%</color>.",
-            "For every 1 Energy that exceeds the characters' Max Energy, charges <u class='infou'>Brain in a Vat</u> by <color style='color:#f29e38;'>1.2%</color>."
+            "캐릭터의 에너지가 1pt 초과할 때마다 [<u class='infou'>통 속의 뇌</u>]를 <color style='color:#f29e38;'>0.8%</color> 충전한다",
+            "캐릭터의 에너지가 1pt 초과할 때마다 [<u class='infou'>통 속의 뇌</u>]를 <color style='color:#f29e38;'>1.2%</color> 충전한다"
         ],
         "SimpleDesc": [
-            "When the character's Energy exceeds the limit, the exceeded Energy charges the <u class='infou'>Brain in a Vat</u>.",
-            "When the character's Energy exceeds the limit, the exceeded Energy charges the <u class='infou'>Brain in a Vat</u>."
+            "캐릭터의 에너지가 초과하면 [<u class='infou'>통 속의 뇌</u>]를 충전한다",
+            "캐릭터의 에너지가 초과하면 [<u class='infou'>통 속의 뇌</u>]를 충전한다"
         ],
         "Effects": [
             61000044
@@ -3236,14 +3236,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 2,
         "Icon": "/IconRogueMage02.png",
-        "Name": "Implant: Explicit Memory",
+        "Name": "이식: 외현 기억",
         "Desc": [
-            "After characters use their Ultimate via <u class='infou'>Brain in a Vat</u>, they gain a Shield equal in strength to <color style='color:#f29e38;'>36.0%</color> of their Max HP, lasting for <color style='color:#f29e38;'>2.0</color> turns.",
-            "After characters use their Ultimate via <u class='infou'>Brain in a Vat</u>, they gain a Shield equal in strength to <color style='color:#f29e38;'>45.0%</color> of their Max HP, lasting for <color style='color:#f29e38;'>3.0</color> turns."
+            "캐릭터가 [<u class='infou'>통 속의 뇌</u>]를 이용해 필살기를 발동한 후 HP 최대치의 <color style='color:#f29e38;'>36.0%</color>만큼 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴",
+            "캐릭터가 [<u class='infou'>통 속의 뇌</u>]를 이용해 필살기를 발동한 후 HP 최대치의 <color style='color:#f29e38;'>45.0%</color>만큼 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>3.0</color>턴"
         ],
         "SimpleDesc": [
-            "Gains Shield when using an Ultimate via the <u class='infou'>Brain in a Vat</u>.",
-            "Gains Shield when using an Ultimate via the <u class='infou'>Brain in a Vat</u>."
+            "캐릭터가 [<u class='infou'>통 속의 뇌</u>]를 이용해 필살기를 발동하면 실드를 획득한다",
+            "캐릭터가 [<u class='infou'>통 속의 뇌</u>]를 이용해 필살기를 발동하면 실드를 획득한다"
         ],
         "Effects": [
             61000044
@@ -3254,14 +3254,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 2,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Mimesis: Tactile Pathway",
+        "Name": "의태: 촉각 통로",
         "Desc": [
-            "After characters use an attack, they deal Additional DMG to the attacked enemy target(s). For every enemy target that was attacked, increase Additional DMG by <color style='color:#f29e38;'>15.0%</color> of the character's ATK.",
-            "After characters use an attack, they deal Additional DMG to the attacked enemy target(s). For every enemy target that was attacked, increase Additional DMG by <color style='color:#f29e38;'>20.0%</color> of the character's ATK. Up to 5 enemies that have been defeated in the current battle will also be regarded as having been attacked."
+            "캐릭터가 공격 발동 후 피격된 적에게 추가 피해를 가한다. 피격된 적 1기당 추가 피해량은 캐릭터 공격력의 <color style='color:#f29e38;'>15.0%</color>만큼 증가한다",
+            "캐릭터가 공격 발동 후 피격된 적에게 추가 피해를 가한다. 피격된 적 1기당 추가 피해량은 캐릭터 공격력의 <color style='color:#f29e38;'>20.0%</color>만큼 증가한다. 이번 전투에서 처치된 적 역시 피격된 것으로 간주하며, 최대 5기를 초과하지 않는다"
         ],
         "SimpleDesc": [
-            "After characters use an attack, deal additional DMG based on the number of enemies attacked.",
-            "After characters use an attack, deal additional DMG based on the number of enemies attacked and the number of enemies defeated during the entire battle."
+            "캐릭터가 공격 발동 후 공격 목표 수에 따라 추가 피해를 가한다",
+            "캐릭터가 공격 발동 후 공격 목표 수와 이번 전투에서 처치된 적 수에 따라 추가 피해를 가한다"
         ],
         "Effects": []
     },
@@ -3270,14 +3270,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 2,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Analysis: Subliminal Sensation",
+        "Name": "분석: 역하지각",
         "Desc": [
-            "Characters' Ultimate DMG increases by <color style='color:#f29e38;'>50.0%</color>, lasting until the end of the first Ultimate they use in battle. After entering battle, characters regenerate energy equal to <color style='color:#f29e38;'>60.0%</color> of their respective Max Energy.",
-            "Characters' Ultimate DMG increases by <color style='color:#f29e38;'>50.0%</color>. After entering battle, regenerates energy equal to <color style='color:#f29e38;'>100.0%</color> of the character's Max Energy."
+            "캐릭터가 가하는 필살기 피해가 <color style='color:#f29e38;'>50.0%</color> 증가하며, 필살기 첫 발동 후까지 지속된다. 전투 진입 후 에너지 최대치의 <color style='color:#f29e38;'>60.0%</color>만큼 에너지를 회복한다",
+            "캐릭터가 가하는 필살기 피해가 <color style='color:#f29e38;'>50.0%</color> 증가한다. 전투 진입 후 에너지 최대치 <color style='color:#f29e38;'>100.0%</color>만큼 에너지를 회복한다"
         ],
         "SimpleDesc": [
-            "The first Ultimate used by a character deals more DMG. Regenerates Energy upon entering battle.",
-            "Ultimates deal more DMG. Regenerates Energy upon entering battle."
+            "캐릭터가 처음 가하는 필살기 피해가 증가한다. 전투 진입 후 에너지를 회복한다",
+            "캐릭터가 가하는 필살기 피해가 증가한다. 전투 진입 후 에너지를 회복한다"
         ],
         "Effects": []
     },
@@ -3286,14 +3286,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 2,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Load: Striated Cortex",
+        "Name": "적재: 선조 피질",
         "Desc": [
-            "If characters' <u class='infou'>AoE ATK</u> ability only attacks 1 enemy, this ATK will deal an additional set amount of DMG equal to <color style='color:#f29e38;'>40.0%</color> of the original DMG to the attacked enemy target.",
-            "If characters' <u class='infou'>AoE ATK</u> ability only attacks 1 enemy, this ATK will deal an additional set amount of DMG equal to <color style='color:#f29e38;'>60.0%</color> of the original DMG to the attacked enemy target."
+            "캐릭터의 <u class='infou'>범위 공격</u> 스킬이 적을 1기만 공격하면 이번 공격에서 피격된 적에게 기존 피해의 <color style='color:#f29e38;'>40.0%</color>만큼 고정 수치 피해를 추가로 가한다",
+            "캐릭터의 <u class='infou'>범위 공격</u> 스킬이 적을 1기만 공격하면 이번 공격에서 피격된 적에게 기존 피해의 <color style='color:#f29e38;'>60.0%</color>만큼 고정 수치 피해를 추가로 가한다"
         ],
         "SimpleDesc": [
-            "If characters' <u class='infou'>AoE</u> ability only attacks one enemy, the ability deals a set amount of extra DMG based on the original ability DMG.",
-            "If characters' <u class='infou'>AoE</u> ability only attacks one enemy, the ability deals a set amount of extra DMG based on the original ability DMG."
+            "캐릭터의 <u class='infou'>범위 공격</u> 스킬이 적을 1기만 공격하면 기존 피해에 기반한 고정 수치의 피해를 추가로 가한다",
+            "캐릭터의 <u class='infou'>범위 공격</u> 스킬이 적을 1기만 공격하면 기존 피해에 기반한 고정 수치의 피해를 추가로 가한다"
         ],
         "Effects": [
             61000045
@@ -3304,14 +3304,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 2,
         "Icon": "/IconRogueMage04.png",
-        "Name": "Stimulation: Saltatory Conduction",
+        "Name": "자극: 도약 전도",
         "Desc": [
-            "When characters use their Ultimate to attack enemies that are Weakness Broken, delay the enemy's action by <color style='color:#f29e38;'>16.0%</color>. Every time the enemy target becomes Weakness Broken, this effect can be triggered up to <color style='color:#f29e38;'>3.0</color> times.",
-            "When characters use their Ultimate to attack enemies that are Weakness Broken, delay the enemy's action by <color style='color:#f29e38;'>24.0%</color>. Every time the enemy target becomes Weakness Broken, this effect can be triggered up to <color style='color:#f29e38;'>3.0</color> times."
+            "캐릭터가 필살기를 발동해 약점 격파 상태의 적을 공격하면 상대의 행동 게이지가 <color style='color:#f29e38;'>16.0%</color> 감소한다. 적이 약점 격파 상태에 빠질 때마다 해당 효과는 최대 <color style='color:#f29e38;'>3.0</color>회 발동한다",
+            "캐릭터가 필살기를 발동해 약점 격파 상태의 적을 공격하면 상대의 행동 게이지가 <color style='color:#f29e38;'>24.0%</color> 감소한다. 적이 약점 격파 상태에 빠질 때마다 해당 효과는 최대 <color style='color:#f29e38;'>3.0</color>회 발동한다"
         ],
         "SimpleDesc": [
-            "Ultimate attacks delay all Weakness Broken enemies' actions.",
-            "Ultimate attacks delay all Weakness Broken enemies' actions."
+            "캐릭터의 필살기 공격이 약점 격파 상태인 적의 행동 게이지를 감소시킨다",
+            "캐릭터의 필살기 공격이 약점 격파 상태인 적의 행동 게이지를 감소시킨다"
         ],
         "Effects": []
     },
@@ -3320,14 +3320,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 1,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Throne of Engaged Gears",
+        "Name": "맞물린 톱니바퀴의 왕좌",
         "Desc": [
-            "For every Blessing of Erudition currently in possession, characters' Ultimate DMG increases by <color style='color:#f29e38;'>7.0%</color>, stacking up to <color style='color:#f29e38;'>6.0</color> times.",
-            "For every Blessing of Erudition currently in possession, characters' Ultimate DMG increases by <color style='color:#f29e38;'>10.0%</color>, stacking up to <color style='color:#f29e38;'>9.0</color> times."
+            "「지식」의 축복을 1개 보유할 때마다 캐릭터가 가하는 필살기 피해가 <color style='color:#f29e38;'>7.0%</color> 증가한다. 최대 중첩수: <color style='color:#f29e38;'>6.0</color>회",
+            "「지식」의 축복을 1개 보유할 때마다 캐릭터가 가하는 필살기 피해가 <color style='color:#f29e38;'>10.0%</color> 증가한다. 최대 중첩수: <color style='color:#f29e38;'>9.0</color>회"
         ],
         "SimpleDesc": [
-            "Ultimate deals more DMG based on the number of Blessings of Erudition.",
-            "Ultimate deals more DMG based on the number of Blessings of Erudition."
+            "「지식」의 축복이 많을수록 캐릭터가 가하는 필살기 피해가 증가한다",
+            "「지식」의 축복이 많을수록 캐릭터가 가하는 필살기 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -3336,14 +3336,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 1,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Ring of Bent Wires",
+        "Name": "구불구불한 도선 반지",
         "Desc": [
-            "Characters' Ultimate CRIT Rate increases by <color style='color:#f29e38;'>18.0%</color>.",
-            "Characters' Ultimate CRIT Rate increases by <color style='color:#f29e38;'>27.0%</color>."
+            "캐릭터가 가하는 필살기 피해의 치명타 확률이 <color style='color:#f29e38;'>18.0%</color> 증가한다",
+            "캐릭터가 가하는 필살기 피해의 치명타 확률이 <color style='color:#f29e38;'>27.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Increases Ultimate CRIT Rate.",
-            "Increases Ultimate CRIT Rate."
+            "캐릭터의 필살기 치명타 확률이 증가한다",
+            "캐릭터의 필살기 치명타 확률이 증가한다"
         ],
         "Effects": []
     },
@@ -3352,14 +3352,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 1,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Scepter of Energy Torque",
+        "Name": "에너지 토크 변환 지팡이",
         "Desc": [
-            "Characters' Ultimate CRIT DMG increases by <color style='color:#f29e38;'>30.0%</color>.",
-            "Characters' Ultimate CRIT DMG increases by <color style='color:#f29e38;'>45.0%</color>."
+            "캐릭터가 가하는 필살기 피해의 치명타 피해가 <color style='color:#f29e38;'>30.0%</color> 증가한다",
+            "캐릭터가 가하는 필살기 피해의 치명타 피해가 <color style='color:#f29e38;'>45.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Increases Ultimate CRIT DMG.",
-            "Increases Ultimate CRIT DMG."
+            "캐릭터의 필살기 치명타 피해가 증가한다",
+            "캐릭터의 필살기 치명타 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -3368,14 +3368,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 1,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Torch of Anti-Lag Ignition",
+        "Name": "안티랙 횃불",
         "Desc": [
-            "After characters use their Ultimate, their next attack will deal <color style='color:#f29e38;'>50.0%</color> more DMG.",
-            "After characters use their Ultimate, their next attack will deal <color style='color:#f29e38;'>75.0%</color> more DMG."
+            "캐릭터가 필살기를 발동하면 다음 공격으로 가하는 피해가 <color style='color:#f29e38;'>50.0%</color> 증가한다",
+            "캐릭터가 필살기를 발동하면 다음 공격으로 가하는 피해가 <color style='color:#f29e38;'>75.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Increases the DMG of the characters' next attack following their Ultimate.",
-            "Increases the DMG of the characters' next attack following their Ultimate."
+            "캐릭터가 필살기를 발동하면 다음 공격으로 가하는 피해가 증가한다",
+            "캐릭터가 필살기를 발동하면 다음 공격으로 가하는 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -3384,14 +3384,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 1,
         "Icon": "/IconRogueMage01.png",
-        "Name": "Candle of Delayed Diffraction",
+        "Name": "회절 지연 촛불",
         "Desc": [
-            "After characters use an <u class='infou'>AoE ATK</u> ability, their ATK increases by <color style='color:#f29e38;'>30.0%</color>, lasting for <color style='color:#f29e38;'>2.0</color> turn(s).",
-            "After characters use an <u class='infou'>AoE ATK</u> ability, their ATK increases by <color style='color:#f29e38;'>40.0%</color>, lasting for <color style='color:#f29e38;'>3.0</color> turn(s)."
+            "캐릭터가 <u class='infou'>범위 공격</u> 스킬을 발동하면 공격력이 <color style='color:#f29e38;'>30.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴",
+            "캐릭터가 <u class='infou'>범위 공격</u> 스킬을 발동하면 공격력이 <color style='color:#f29e38;'>40.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>3.0</color>턴"
         ],
         "SimpleDesc": [
-            "Characters' ATK increases after using an <u class='infou'>AoE ATK</u> ability.",
-            "Characters' ATK increases after using an <u class='infou'>AoE ATK</u> ability."
+            "캐릭터가 <u class='infou'>범위 공격</u> 스킬을 발동하면 공격력이 증가한다",
+            "캐릭터가 <u class='infou'>범위 공격</u> 스킬을 발동하면 공격력이 증가한다"
         ],
         "Effects": [
             61000045
@@ -3402,14 +3402,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 1,
         "Icon": "/IconRogueMage02.png",
-        "Name": "Canopy of Mottled Metal",
+        "Name": "얼룩덜룩한 금속 일산",
         "Desc": [
-            "After characters use an <u class='infou'>AoE ATK</u> ability, their DEF increases by <color style='color:#f29e38;'>30.0%</color>, lasting for <color style='color:#f29e38;'>2.0</color> turn(s).",
-            "After characters use an <u class='infou'>AoE ATK</u> ability, their DEF increases by <color style='color:#f29e38;'>40.0%</color>, lasting for <color style='color:#f29e38;'>3.0</color> turn(s)."
+            "캐릭터가 <u class='infou'>범위 공격</u> 스킬을 발동하면 방어력이 <color style='color:#f29e38;'>30.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴",
+            "캐릭터가 <u class='infou'>범위 공격</u> 스킬을 발동하면 방어력이 <color style='color:#f29e38;'>40.0%</color> 증가한다. 지속 시간: <color style='color:#f29e38;'>3.0</color>턴"
         ],
         "SimpleDesc": [
-            "Characters' DEF increases after using an <u class='infou'>AoE ATK</u> ability.",
-            "Characters' DEF increases after using an <u class='infou'>AoE ATK</u> ability."
+            "캐릭터가 <u class='infou'>범위 공격</u> 스킬을 발동하면 방어력이 증가한다",
+            "캐릭터가 <u class='infou'>범위 공격</u> 스킬을 발동하면 방어력이 증가한다"
         ],
         "Effects": [
             61000045
@@ -3420,14 +3420,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 1,
         "Icon": "/IconRogueMage02.png",
-        "Name": "Garment of Coiled Wires",
+        "Name": "코일로 엮은 의복",
         "Desc": [
-            "After characters use their Ultimate, they restore HP equal to <color style='color:#f29e38;'>16.0%</color> of their Max HP.",
-            "After characters use their Ultimate, they restore HP equal to <color style='color:#f29e38;'>24.0%</color> of their Max HP."
+            "캐릭터가 필살기를 발동하면 HP 최대치의 <color style='color:#f29e38;'>16.0%</color>만큼 HP를 회복한다",
+            "캐릭터가 필살기를 발동하면 HP 최대치의 <color style='color:#f29e38;'>24.0%</color>만큼 HP를 회복한다"
         ],
         "SimpleDesc": [
-            "Characters restore HP after using their Ultimate.",
-            "Characters restore HP after using their Ultimate."
+            "캐릭터가 필살기를 발동하면 HP를 회복한다",
+            "캐릭터가 필살기를 발동하면 HP를 회복한다"
         ],
         "Effects": []
     },
@@ -3436,14 +3436,14 @@ var _blessing = [
         "Path": 128,
         "Rarity": 1,
         "Icon": "/IconRogueMage02.png",
-        "Name": "Wreath of Interlaced Pipes",
+        "Name": "뒤엉킨 파이프 계관",
         "Desc": [
-            "When struck with a killing blow, characters will not be knocked down and will instead consume all their Energy, then restore HP equal to <color style='color:#f29e38;'>50.0%</color> of the consumed Energy. This effect can only be triggered once per battle for the whole team.",
-            "When struck with a killing blow, characters will not be knocked down and will instead consume all their Energy, then restore HP equal to <color style='color:#f29e38;'>100.0%</color> of the consumed Energy. This effect can only be triggered once per battle for the whole team."
+            "캐릭터가 치명적인 공격을 받을 시 전투 불능 상태에 빠지지 않는다. 자신의 모든 에너지를 소모해 소모한 에너지 백분율의 <color style='color:#f29e38;'>50.0%</color>만큼 HP를 회복한다. 모든 파티원은 해당 효과를 전투마다 1회만 발동할 수 있다",
+            "캐릭터가 치명적인 공격을 받을 시 전투 불능 상태에 빠지지 않는다. 자신의 모든 에너지를 소모해 소모한 에너지 백분율의 <color style='color:#f29e38;'>100.0%</color>만큼 HP를 회복한다. 모든 파티원은 해당 효과를 전투마다 1회만 발동할 수 있다"
         ],
         "SimpleDesc": [
-            "Characters can resist fatal DMG and can consume Energy to restore their own HP. This can take effect a limited number of times among all allies.",
-            "Characters can resist fatal DMG and can consume Energy to restore their own HP. This can take effect a limited number of times among all allies."
+            "캐릭터가 치명적인 피해에 저항하고 에너지를 소모해 자신의 HP를 회복한다. 해당 효과는 모든 아군에게 횟수 제한이 적용된다",
+            "캐릭터가 치명적인 피해에 저항하고 에너지를 소모해 자신의 HP를 회복한다. 해당 효과는 모든 아군에게 횟수 제한이 적용된다"
         ],
         "Effects": []
     },
@@ -3452,12 +3452,12 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/IconRogueKnight08.png",
-        "Name": "Resonance Interplay: Reverse Quenching",
+        "Name": "메아리 교차: 역담금질",
         "Desc": [
-            "When using Path Resonance, extends Shield duration by <color style='color:#f29e38;'>2.0</color> turn(s) on characters whose HP is below <color style='color:#f29e38;'>50.0%</color> of their Max HP. For every character on which this takes effect, this current Path Resonance deals <color style='color:#f29e38;'>20.0%</color> more DMG."
+            "운명의 길 메아리 발동 시 현재 HP가 HP 최대치의 <color style='color:#f29e38;'>50.0%</color> 미만인 캐릭터가 보유한 실드 지속 시간이 <color style='color:#f29e38;'>2.0</color>턴 연장된다. 캐릭터 1명에게 적용될 때마다 이번 운명의 길 메아리가 가하는 피해가 <color style='color:#f29e38;'>20.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Casting the Path Resonance extends Shield duration for allies whose HP is below <color style='color:#f29e38;'>50.0%</color> and enables the next Path Resonance to deal more DMG."
+            "운명의 길 메아리 발동 시 현재 HP 백분율이 <color style='color:#f29e38;'>50.0%</color> 미만인 캐릭터의 실드 지속 시간이 연장되며, 운명의 길 메아리의 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -3466,12 +3466,12 @@ var _blessing = [
         "Path": 120,
         "Rarity": 3,
         "Icon": "/IconRogueKnight09.png",
-        "Name": "Resonance Interplay: Displaced Ascent",
+        "Name": "메아리 교차: 전위 상승",
         "Desc": [
-            "Using the Ultimate increases the next Path Resonance's Physical RES PEN by <color style='color:#f29e38;'>8.0%</color>, stacking up to <color style='color:#f29e38;'>8.0</color> time(s)."
+            "캐릭터가 필살기를 발동하면 다음 운명의 길 메아리 공격의 물리 속성 저항 관통이 <color style='color:#f29e38;'>8.0%</color> 증가한다. 최대 중첩수: <color style='color:#f29e38;'>8.0</color>회"
         ],
         "SimpleDesc": [
-            "Using an Ultimate increases the next Path Resonance's Physical PEN."
+            "캐릭터가 필살기를 발동하면 다음 운명의 길 메아리 공격의 물리 속성 저항 관통이 증가한다"
         ],
         "Effects": []
     },
@@ -3480,12 +3480,12 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/IconRogueMemory08.png",
-        "Name": "Resonance Interplay: Roar and Rustle",
+        "Name": "메아리 교차: 외침과 속삭임",
         "Desc": [
-            "When the Freeze effect from the Path Resonance is dispelled or resisted, characters gain a Shield equal in strength to <color style='color:#f29e38;'>40.0%</color> of their Max HP for <color style='color:#f29e38;'>2.0</color> turn(s). This effect can only be triggered once by each use of the Path Resonance."
+            "운명의 길 메아리가 가하는 빙결 상태가 해제되거나 저항될 시 캐릭터가 HP 최대치의 <color style='color:#f29e38;'>40.0%</color>만큼 피해를 상쇄할 수 있는 실드를 획득한다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴. 해당 효과는 운명의 길 메아리를 발동할 때마다 최대 1회 발동한다"
         ],
         "SimpleDesc": [
-            "Gains a Shield when the Freeze effect from the Path Resonance is dispelled or resisted."
+            "운명의 길 메아리의 빙결 상태가 해제되거나 저항될 시 캐릭터가 실드를 획득한다"
         ],
         "Effects": []
     },
@@ -3494,12 +3494,12 @@ var _blessing = [
         "Path": 121,
         "Rarity": 3,
         "Icon": "/IconRogueMemory09.png",
-        "Name": "Resonance Interplay: Seemingly Mirrored",
+        "Name": "메아리 교차: 거울을 통해 어렴풋이",
         "Desc": [
-            "Basic ATKs against enemies Frozen by the Path Resonance have a <color style='color:#f29e38;'>100.0%</color> base chance to inflict <u class='infou'>Dissociation</u> on them for <color style='color:#f29e38;'>1.0</color> turn(s)."
+            "캐릭터가 운명의 길 메아리로 인한 빙결 상태에 빠진 적에게 일반 공격을 가하면 <color style='color:#f29e38;'>100.0%</color>의 기본 확률로 해당 대상을 [<u class='infou'>해리</u>] 상태에 빠뜨린다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴"
         ],
         "SimpleDesc": [
-            "Basic ATKs against enemies Frozen by the Path Resonance have a high chance to inflict <u class='infou'>Dissociation</u> on them."
+            "캐릭터가 운명의 길 메아리로 인한 빙결 상태에 빠진 적에게 일반 공격을 가하면 높은 확률로 [<u class='infou'>해리</u>] 상태를 부여한다"
         ],
         "Effects": [
             60000002
@@ -3510,12 +3510,12 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/IconRogueWarlock08.png",
-        "Name": "Resonance Interplay: Reign of Keys",
+        "Name": "메아리 교차: 열쇠의 통치",
         "Desc": [
-            "Path Resonance deals <color style='color:#f29e38;'>30.0%</color> more DMG to Frozen enemies. When enemy targets become Frozen, DoTs applied by the Path Resonance extend their duration by <color style='color:#f29e38;'>1.0</color> turn(s)."
+            "운명의 길 메아리가 빙결 상태의 적에게 가하는 피해가 <color style='color:#f29e38;'>30.0%</color> 증가한다. 적이 빙결 상태에 빠질 시 운명의 길 메아리가 부여하는 지속 피해 상태의 지속 시간이 <color style='color:#f29e38;'>1.0</color>턴 연장된다"
         ],
         "SimpleDesc": [
-            "The DoT effects from the Path Resonance deal more DMG to Frozen enemies and have their duration extended."
+            "운명의 길 메아리의 지속 피해 상태가 빙결 상태의 적에게 가하는 피해가 증가한다. 적이 빙결 상태에 빠질 시 지속 시간이 연장된다"
         ],
         "Effects": []
     },
@@ -3524,12 +3524,12 @@ var _blessing = [
         "Path": 122,
         "Rarity": 3,
         "Icon": "/IconRogueWarlock09.png",
-        "Name": "Resonance Interplay: Terror and Tremble",
+        "Name": "메아리 교차: 공포와 전율",
         "Desc": [
-            "For each unique Type of non-DoT DMG the enemy target has taken, Path Resonance deals <color style='color:#f29e38;'>6.0%</color> more DMG to it, lasting until the end of the turn."
+            "적이 다양한 속성의 피해(지속 피해 제외)를 받을 때마다 운명의 길 메아리가 해당 적에게 가하는 피해가 <color style='color:#f29e38;'>6.0%</color> 증가한다. 해당 효과는 턴이 종료될 때까지 지속된다"
         ],
         "SimpleDesc": [
-            "Path Resonance deals more DMG for each unique type of non-DoT DMG the target has taken."
+            "적이 다양한 속성의 피해(지속 피해 제외)를 받을 때마다 운명의 길 메아리가 해당 적에게 가하는 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -3538,12 +3538,12 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/IconRoguePirest08.png",
-        "Name": "Resonance Interplay: Fleeting Samadhi",
+        "Name": "메아리 교차: 반주삼매",
         "Desc": [
-            "For every 1% of healing from Path Resonance that exceeds a character's Max HP, the character's Ultimate deals <color style='color:#f29e38;'>1.0%</color> more DMG. This effect is stackable, up to a maximum of <color style='color:#f29e38;'>100.0%</color>, lasting for <color style='color:#f29e38;'>2.0</color> turn(s)."
+            "운명의 길 메아리로 인해 HP 최대치의 1%만큼 치유량이 초과될 때마다 캐릭터가 가하는 필살기 피해가 <color style='color:#f29e38;'>1.0%</color> 증가한다. 해당 효과는 중첩 가능하며 최대 <color style='color:#f29e38;'>100.0%</color>를 초과할 수 없다. 지속 시간: <color style='color:#f29e38;'>2.0</color>턴"
         ],
         "SimpleDesc": [
-            "Exceeded healing from Path Resonance increases characters' Ultimate DMG."
+            "운명의 길 메아리로 인해 HP 최대치를 초과한 치유량에 따라 캐릭터가 가하는 필살기 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -3552,12 +3552,12 @@ var _blessing = [
         "Path": 123,
         "Rarity": 3,
         "Icon": "/IconRoguePirest09.png",
-        "Name": "Resonance Interplay: Destined Death",
+        "Name": "메아리 교차: 생즉무생",
         "Desc": [
-            "Healing from Path Resonance that exceeds a character's Max HP is stored and will be released as automatic healing when the character's HP falls below <color style='color:#f29e38;'>35.0%</color> of their Max HP. Up to <color style='color:#f29e38;'>50.0%</color> of the character's Max HP (when the Path Resonance is used) can be stored."
+            "운명의 길 메아리로 인해 초과된 치유량이 저장되며, 캐릭터의 현재 HP가 HP 최대치의 <color style='color:#f29e38;'>35.0%</color> 미만으로 감소했을 때 자동 회복된다. 최대 운명의 길 메아리 발동 시 캐릭터 HP 최대치의 <color style='color:#f29e38;'>50.0%</color>만큼 HP를 저장한다"
         ],
         "SimpleDesc": [
-            "Exceeded healing from the Path Resonance is stored and will be released when the character's HP falls below <color style='color:#f29e38;'>35.0%</color>."
+            "운명의 길 메아리로 인해 초과된 치유량이 저장되며, 캐릭터의 현재 HP 백분율이 <color style='color:#f29e38;'>35.0%</color> 미만일 경우 자동으로 회복된다"
         ],
         "Effects": []
     },
@@ -3566,12 +3566,12 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/IconRogueRogue08.png",
-        "Name": "Resonance Interplay: Solemn Snare",
+        "Name": "메아리 교차: 촘촘한 그물",
         "Desc": [
-            "For every Skill Point recovered by allies, the next Path Resonance deals <color style='color:#f29e38;'>20.0%</color> more DMG, stacking up to <color style='color:#f29e38;'>8.0</color> time(s)."
+            "캐릭터가 전투 스킬 포인트를 1pt 획득할 때마다 운명의 길 메아리의 다음 공격 피해가 <color style='color:#f29e38;'>20.0%</color> 증가한다. 해당 효과 최대 중첩수: <color style='color:#f29e38;'>8.0</color>스택"
         ],
         "SimpleDesc": [
-            "Gaining Skill Points increases the DMG for Path Resonance's attack."
+            "캐릭터가 전투 스킬 포인트를 획득하면 운명의 길 메아리의 다음 공격 피해가 증가한다"
         ],
         "Effects": []
     },
@@ -3580,12 +3580,12 @@ var _blessing = [
         "Path": 124,
         "Rarity": 3,
         "Icon": "/IconRogueRogue09.png",
-        "Name": "Resonance Interplay: Waiting with Drawn Bow",
+        "Name": "메아리 교차: 당겨진 활시위",
         "Desc": [
-            "When using Path Resonance, allies' Shield duration extends by <color style='color:#f29e38;'>5.0</color> turn(s)."
+            "운명의 길 메아리 발동 시 캐릭터가 보유한 실드 지속 시간이 <color style='color:#f29e38;'>5.0</color>턴 연장된다"
         ],
         "SimpleDesc": [
-            "When using Path Resonance, extends characters' Shield duration."
+            "운명의 길 메아리 발동 시 캐릭터의 실드 지속 시간이 연장된다"
         ],
         "Effects": []
     },
@@ -3594,12 +3594,12 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/IconRogueWarrior08.png",
-        "Name": "Resonance Interplay: Nuclear Implosion",
+        "Name": "메아리 교차: 핵심 붕괴",
         "Desc": [
-            "When using Path Resonance to attack, additionally deals a set amount of DMG to all enemy targets whose HP is below <color style='color:#f29e38;'>20.0%</color> of their Max HP, reducing these targets' HP to 1."
+            "운명의 길 메아리 공격 시, 현재 HP가 HP 최대치의 <color style='color:#f29e38;'>20.0%</color> 미만인 적에게 추가로 해당 목표의 현재 HP를 1pt까지 감소시킬 수 있는 고정 수치 피해를 가한다"
         ],
         "SimpleDesc": [
-            "When using Path Resonance to attack, if an enemy's HP is lower than <color style='color:#f29e38;'>20.0%</color> of their Max HP, their remaining HP is reduced to 1."
+            "운명의 길 메아리 공격 시, 현재 HP 백분율이 <color style='color:#f29e38;'>20.0%</color> 미만인 적의 HP가 1pt로 감소한다"
         ],
         "Effects": []
     },
@@ -3608,12 +3608,12 @@ var _blessing = [
         "Path": 125,
         "Rarity": 3,
         "Icon": "/IconRogueWarrior09.png",
-        "Name": "Resonance Interplay: Protostar",
+        "Name": "메아리 교차: 항성배아",
         "Desc": [
-            "After losing HP due to allies or Path Resonance effects, the characters gain Healing Over Time that lasts <color style='color:#f29e38;'>2.0</color> turn(s). At the start of every turn, restore HP equal to <color style='color:#f29e38;'>30.0%</color> of the consumed HP."
+            "캐릭터가 아군 또는 운명의 길 메아리로 인해 HP를 소모한 경우 <color style='color:#f29e38;'>2.0</color>턴간 지속 회복 효과를 획득한다. 턴 시작 시 소모한 HP의 <color style='color:#f29e38;'>30.0%</color>만큼 회복한다"
         ],
         "SimpleDesc": [
-            "When characters lose HP due to allies or Path Resonance effects, they restore HP over time."
+            "캐릭터가 아군 또는 운명의 길 메아리로 인해 HP를 소모한 경우 지속 회복 효과를 획득한다"
         ],
         "Effects": []
     },
@@ -3622,12 +3622,12 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/IconRogueJoy08.png",
-        "Name": "Resonance Interplay: Unending Night",
+        "Name": "메아리 교차: 끝나지 않는 밤",
         "Desc": [
-            "When Path Resonance deals Fire/Wind/Physical/Lightning DMG, there is a <color style='color:#f29e38;'>50.0%</color> base chance to apply a DoT of the same Type, lasting for <color style='color:#f29e38;'>1.0</color> turns."
+            "운명의 길 메아리가 화염/바람/물리/번개 속성 피해를 가할 시 <color style='color:#f29e38;'>50.0%</color>의 기본 확률로 대응하는 속성의 지속 피해 효과를 부여한다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴"
         ],
         "SimpleDesc": [
-            "When the Path Resonance deals Fire, Wind, Physical or Lightning DMG, there is a chance inflict the DoT effect of the same type."
+            "운명의 길 메아리가 화염/바람/물리/번개 속성 피해를 가할 시 일정 확률로 대응하는 속성의 지속 피해 효과를 부여한다"
         ],
         "Effects": []
     },
@@ -3636,12 +3636,12 @@ var _blessing = [
         "Path": 126,
         "Rarity": 3,
         "Icon": "/IconRogueJoy09.png",
-        "Name": "Resonance Interplay: Pit and Pendulum",
+        "Name": "메아리 교차: 함정과 진자",
         "Desc": [
-            "When using the Path Resonance, for every <color style='color:#f29e38;'>20.0</color> Energy consumed, the ally with the highest ATK and all units summoned by allies will have their action Advanced Forward by <color style='color:#f29e38;'>10.0%</color>."
+            "운명의 길 메아리 발동 시 에너지를 <color style='color:#f29e38;'>20.0</color>pt 소모할 때마다 현재 공격력이 가장 높은 캐릭터 및 모든 캐릭터가 소환한 유닛의 행동 게이지가 <color style='color:#f29e38;'>10.0%</color> 증가한다"
         ],
         "SimpleDesc": [
-            "Based on the amount of Energy used, Path Resonance advances the actions of the ally with the highest ATK and all units summoned by allies."
+            "운명의 길 메아리가 소모되는 에너지 수치를 기준으로, 공격력이 가장 높은 캐릭터 및 모든 캐릭터가 소환한 유닛의 행동 게이지가 증가한다"
         ],
         "Effects": []
     },
@@ -3650,12 +3650,12 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/IconRoguePropagation08.png",
-        "Name": "Resonance Interplay: Compounded Macrospore",
+        "Name": "메아리 교차: 증대포자",
         "Desc": [
-            "When using Path Resonance, heals the target ally for <color style='color:#f29e38;'>50.0%</color> of their Max HP. <color style='color:#f29e38;'>200.0%</color> of the healing that exceeds Max HP will be evenly distributed among other characters."
+            "운명의 길 메아리 발동 시 지정된 단일 아군이 HP 최대치의 <color style='color:#f29e38;'>50.0%</color>만큼 HP를 회복한다. 초과한 치유량의 <color style='color:#f29e38;'>200.0%</color>는 다른 캐릭터를 균등하게 회복시키는 데 사용된다"
         ],
         "SimpleDesc": [
-            "When using Path Resonance, heals a target ally. Any exceeded Healing will be distributed to heal other allies."
+            "운명의 길 메아리 발동 시 지정된 단일 아군의 HP를 회복시킨다. 초과한 치유량은 다른 캐릭터 치유에 사용된다"
         ],
         "Effects": []
     },
@@ -3664,12 +3664,12 @@ var _blessing = [
         "Path": 127,
         "Rarity": 3,
         "Icon": "/IconRoguePropagation09.png",
-        "Name": "Resonance Interplay: Condensation Cavity",
+        "Name": "메아리 교차: 응결공체",
         "Desc": [
-            "Characters in the <u class='infou'>Metamorphosis</u> status deal <color style='color:#f29e38;'>20.0%</color> more DMG to Frozen enemies. In addition, their attacks have a <color style='color:#f29e38;'>10.0%</color> base chance to Freeze hit targets for <color style='color:#f29e38;'>1.0</color> turns."
+            "[<u class='infou'>탈피</u>] 상태의 캐릭터가 빙결 상태인 적에게 가하는 피해가 <color style='color:#f29e38;'>20.0%</color> 증가한다. 적에게 명중한 후 <color style='color:#f29e38;'>10.0%</color>의 기본 확률로 해당 대상을 빙결 상태에 빠뜨린다. 지속 시간: <color style='color:#f29e38;'>1.0</color>턴"
         ],
         "SimpleDesc": [
-            "Characters in the <u class='infou'>Metamorphosis</u> state deal more DMG to Frozen enemies. In addition, their attacks have a low chance of Freezing the target."
+            "[<u class='infou'>탈피</u>] 상태의 캐릭터가 빙결 상태인 적에게 가하는 피해가 증가하고, 적 명중 후 낮은 확률로 빙결 상태에 빠뜨린다"
         ],
         "Effects": [
             60000016
@@ -3680,12 +3680,12 @@ var _blessing = [
         "Path": 128,
         "Rarity": 3,
         "Icon": "/IconRogueMage06.png",
-        "Name": "Resonance Interplay: Full Scan",
+        "Name": "메아리 교차: 전체 스캔",
         "Desc": [
-            "When enemies with <u class='infou'>Synapse Resonance</u> are attacked by follow-up attacks, the effect is additionally triggered 1 time and the available <u class='infou'>Synapse Resonance</u> count is not reduced."
+            "[<u class='infou'>시냅스 공명</u>] 상태의 적이 추가 공격을 받은 경우 효과가 1회 추가로 발동한다. 해당 효과 발동 시 [<u class='infou'>시냅스 공명</u>]의 횟수를 소모하지 않는다"
         ],
         "SimpleDesc": [
-            "When enemies with <u class='infou'>Synapse Resonance</u> are attacked by follow-up attacks, the effect is additionally triggered once and its available count is not reduced."
+            "[<u class='infou'>시냅스 공명</u>] 상태의 적이 추가 공격을 받으면 효과를 1회 추가로 발동하고, 횟수를 소모하지 않는다"
         ],
         "Effects": [
             61000043
@@ -3696,12 +3696,12 @@ var _blessing = [
         "Path": 128,
         "Rarity": 3,
         "Icon": "/IconRogueMage07.png",
-        "Name": "Resonance Interplay: Data Reinforcement",
+        "Name": "메아리 교차: 데이터 보강",
         "Desc": [
-            "Attacks against Weakness Broken enemies do not reduce the available <u class='infou'>Synapse Resonance</u> count."
+            "약점 격파 상태의 적은 공격을 받아도 [<u class='infou'>시냅스 공명</u>] 횟수를 소모하지 않는다"
         ],
         "SimpleDesc": [
-            "Attacks against Weakness Broken enemies do not reduce the available <u class='infou'>Synapse Resonance</u> count."
+            "약점 격파 상태의 적은 공격을 받아도 [<u class='infou'>시냅스 공명</u>] 횟수를 소모하지 않는다"
         ],
         "Effects": [
             61000043
@@ -3712,147 +3712,143 @@ var _blessing = [
 var _blessingtypes = [
     {
         "_id": 120,
-        "Name": "Preservation",
+        "Name": "「보존」",
         "Icon": "/IconProfessionKnightMiddle.png"
     },
     {
         "_id": 121,
-        "Name": "Remembrance",
+        "Name": "「기억」",
         "Icon": "/IconProfessionMemoryMiddle.png"
     },
     {
         "_id": 122,
-        "Name": "Nihility",
+        "Name": "「공허」",
         "Icon": "/IconProfessionWarlockMiddle.png"
     },
     {
         "_id": 123,
-        "Name": "Abundance",
+        "Name": "「풍요」",
         "Icon": "/IconProfessionPirestMiddle.png"
     },
     {
         "_id": 124,
-        "Name": "The Hunt",
+        "Name": "「수렵」",
         "Icon": "/IconProfessionRogueMiddle.png"
     },
     {
         "_id": 125,
-        "Name": "Destruction",
+        "Name": "「파멸」",
         "Icon": "/IconProfessionWarriorMiddle.png"
     },
     {
         "_id": 126,
-        "Name": "Elation",
+        "Name": "「환락」",
         "Icon": "/IconProfessionJoyMiddle.png"
     },
     {
         "_id": 127,
-        "Name": "Propagation",
+        "Name": "「번식」",
         "Icon": "/IconProfessionPropagationMiddle.png"
     },
     {
         "_id": 128,
-        "Name": "Erudition",
+        "Name": "「지식」",
         "Icon": "/IconProfessionMageMiddle.png"
     }
 ]
 
 var _blessingextra = {
     "10000000": {
-        "Name": "Extra Turn",
-        "Desc": "Gain 1 extra turn that won't expend your remaining turns when taking action. During this extra turn, no Ultimate can be used."
+        "Name": "보너스 턴",
+        "Desc": "턴 횟수를 소모하지 않는 보너스 턴 1회를 획득한다. 해당 턴에서는 필살기를 발동할 수 없다"
     },
     "10000001": {
-        "Name": "Action advanced",
-        "Desc": "Reduces the target's waiting interval before the next action."
+        "Name": "행동 게이지 증가",
+        "Desc": "목표의 다음 행동 전 대기 간격을 줄인다"
     },
     "10000002": {
-        "Name": "Action delayed",
-        "Desc": "Increases the target's waiting interval before the next action."
+        "Name": "행동 게이지 감소",
+        "Desc": "목표의 다음 행동 전 대기 간격을 연장한다"
     },
     "10000003": {
-        "Name": "Counter",
-        "Desc": "An effect that automatically triggers when the target is attacked, which unleashes an extra attack on the attacker.<br>Counter is also considered a follow-up attack."
+        "Name": "반격",
+        "Desc": "목표가 공격을 받으면 자동으로 발동되는 효과. 공격자에게 추가로 공격을 1회 발동한다.<br>반격은 추가 공격으로 간주한다"
     },
     "10000004": {
-        "Name": "Follow-Up Attack",
-        "Desc": "Unleashes an extra attack on the target. This effect is triggered automatically when requirements are met."
+        "Name": "추가 공격",
+        "Desc": "조건을 만족하면 자동으로 발동되는 효과. 목표에게 추가로 공격을 1회 발동한다"
     },
     "10000005": {
-        "Name": "Additional DMG",
-        "Desc": "Causes the target being hit to take extra DMG, which is not considered an attack."
+        "Name": "추가 피해",
+        "Desc": "피격자에게 추가로 1회 피해를 가한다. 이번 피해는 1회 공격을 가한 것으로 간주하지 않는다"
     },
     "10000006": {
-        "Name": "Weakness Break State",
-        "Desc": "When enemy targets' Toughness is reduced to 0, they will enter the Weakness Break State, which delays their actions."
+        "Name": "약점 격파 상태",
+        "Desc": "적의 강인성이 소모되어 0이 됐을 시 진입하는 특수한 상태. 해당 상태에 진입한 목표는 행동 게이지가 감소한다"
     },
     "10000007": {
-        "Name": "Downed State",
-        "Desc": "An ally will be incapacitated once their HP is reduced to 0."
+        "Name": "전투 불능 상태",
+        "Desc": "아군의 현재 HP가 소모되어 0이 됐을 시 진입하는 특수한 상태. 해당 상태에 있으면 목표는 전투를 계속할 수 없다"
     },
     "10000008": {
-        "Name": "Weakness Break Efficiency",
-        "Desc": "The higher the Weakness Break efficiency is, the more the DMG will be dealt to Toughness."
+        "Name": "약점 격파 효율",
+        "Desc": "약점 격파 효율이 높을수록 강인성에 가하는 피해가 높아진다"
     },
     "10000009": {
-        "Name": "Buff",
-        "Desc": "Can buff combat ability for a period of time, which can be dispelled unless otherwise specified."
+        "Name": "버프 효과",
+        "Desc": "전투에 버프 효과가 있는 모든 지속 상태. 특별 안내가 없다면 해제 가능하다"
     },
     "10000010": {
-        "Name": "Debuff",
-        "Desc": "Debuffs are negative status effects that render units weaker. Unless otherwise specified, debuffs can be dispelled."
-    },
-    "10000011": {
-        "Name": "Crowd Control debuff",
-        "Desc": "Frozen, Entanglement, Imprisonment, Dominated, Outrage, and Strong Reverberation"
+        "Name": "디버프 효과",
+        "Desc": "전투 중 디버프 효과가 있는 모든 지속 상태는 특별 설명이 없다면 해제할 수 있다"
     },
     "10000012": {
-        "Name": "DoT Debuff",
-        "Desc": "Bleed, Burn, Shock, Wind Shear."
+        "Name": "지속 피해류 디버프 상태",
+        "Desc": "열상, 연소, 감전, 풍화"
     },
     "10000013": {
-        "Name": "Distribute",
-        "Desc": "Before DMG is calculated, distribute a part of the attacking unit's DMG to another target (or multiple other targets), with the target hit by the attack taking the rest of the DMG. DMG distributed to other targets cannot be distributed again."
+        "Name": "분담",
+        "Desc": "피해 결산 전 공격자의 일부 피해를 다른 단일 또는 다중 목표에게 분담하며, 공격 대상은 남은 부분의 피해를 받는다. 다른 목표에게 분담한 피해는 더 이상 분담할 수 없다"
     },
     "10013071": {
-        "Name": "Arcana",
-        "Desc": "Arcana is a debuff that deals DMG over time. This debuff cannot be dispelled.<br>While in the Arcana state, the unit is also considered to be in the Wind Shear state and takes Wind DoT at the start of each turn.<br>The infliction of Arcana ignores the target's Wind Shear RES, Bleed RES, Burn RES, and Shock RES."
+        "Name": "아르카나",
+        "Desc": "[아르카나]는 지속 피해류 디버프 상태에 속하며, 해당 상태는 해제할 수 없다.<br>[아르카나] 상태일 시 풍화 상태에도 빠진 것으로 간주한다. [아르카나] 상태에서 목표는 턴이 시작될 때마다 바람 속성 지속 피해를 받는다.<br>[아르카나] 상태 부여 시 목표의 풍화 저항, 열상 저항, 연소 저항, 감전 저항을 무시한다"
     },
     "30000001": {
-        "Name": "Base Chance",
-        "Desc": "The base chance of applying debuffs to targets hit. <br>The final probability is affected by the attacker's Effect Hit Rate and enemy targets' Effect RES."
+        "Name": "기본 확률",
+        "Desc": "피격자에게 디버프 효과를 부여하는 기본 확률.<br>최종 확률은 공격자의 효과 명중과 적의 효과 저항의 영향을 받는다"
     },
     "30000002": {
-        "Name": "Fixed Chance",
-        "Desc": "Fixed chance will not be affected by any factor."
+        "Name": "고정 확률",
+        "Desc": "어떤 요인에도 영향을 받지 않는 고정 확률이다"
     },
     "30000003": {
-        "Name": "Effect RES",
-        "Desc": "Effect RES increases resistance against incoming debuffs from attackers. <br>A higher Effect RES will result in higher chances of successfully resisting a debuff."
+        "Name": "효과 저항",
+        "Desc": "효과 저항은 공격자가 가하는 디버프 효과를 저항할 수 있다.<br>해당 수치가 높을 수록 디버프 효과 저항에 성공할 확률이 높아진다"
     },
     "30000004": {
-        "Name": "Effect Hit Rate",
-        "Desc": "Effect Hit Rate increases the chance of applying debuffs to enemy targets. <br>A higher Effect Hit Rate will result in higher chances of successfully applying a debuff."
+        "Name": "효과 명중",
+        "Desc": "효과 명중은 적에게 디버프 효과를 가하는 확률을 높일 수 있다.<br>해당 수치가 높을수록 디버프 효과를 가하는 데 성공할 확률이 높아진다"
     },
     "30000005": {
-        "Name": "RES PEN",
-        "Desc": "When dealing DMG, ignore a part of the enemy target's resistance to the corresponding damage type."
+        "Name": "저항 관통",
+        "Desc": "피해를 가할 시 적의 일부 대응 피해 속성의 저항 수치를 무시한다"
     },
     "30000006": {
-        "Name": "Break Effect",
-        "Desc": "Break Effect enhances the various Weakness Break effects. <br>Such as the amount of DMG dealt upon Weakness Break, the amount of DMG dealt by DoTs per turn, and how far enemy actions are delayed."
+        "Name": "격파 특수효과",
+        "Desc": "격파 특수효과는 약점 격파 시 발생하는 각종 효과를 높일 수 있다.<br>여기에는 발동 시 가하는 피해, 지속 피해의 위력, 행동 지연의 폭이 포함된다"
     },
     "30000007": {
-        "Name": "Energy Regeneration Rate",
-        "Desc": "Energy Regeneration Rate can boost the amount of Energy a character gains when performing actions such as using abilities, defeating enemies, or taking DMG.<br>A higher rate means faster Energy regeneration.<br>However, certain Energy-Regenerating effects won't be impacted by this rate."
+        "Name": "에너지 회복효율",
+        "Desc": "에너지 회복효율은 캐릭터가 스킬 발동, 적 처치, 피격 시 획득하는 에너지를 증가시킬 수 있다.<br>이 수치가 높을수록 캐릭터 에너지 회복이 빨라진다.<br>아군의 에너지를 회복시키는 일부 효과로 회복한 에너지는 에너지 회복효율의 영향을 받지 않는다"
     },
     "30000008": {
-        "Name": "SPD",
-        "Desc": "SPD affects the interval between the target's actions. The faster the SPD, the shorter the interval.<br>At the same time, SPD will also affect the Action Order when entering combat."
+        "Name": "속도",
+        "Desc": "속도는 목표 행동 2회 사이의 간격에 영향을 주며, 속도가 빠를수록 간격이 짧아진다.<br>속도는 전투 진입 시 행동 서열에도 영향을 준다"
     },
     "30000009": {
-        "Name": "Max Energy",
-        "Desc": "Energy required for a character to unleash Ultimate."
+        "Name": "에너지 최대치",
+        "Desc": "캐릭터가 필살기를 1회 발동할 때 필요한 에너지 수치"
     },
     "30001010": {
         "Name": "",
@@ -3915,295 +3911,331 @@ var _blessingextra = {
         "Desc": ""
     },
     "60000001": {
-        "Name": "Quake",
-        "Desc": "Additional DMG dealt by specific Blessings of Preservation."
+        "Name": "진동",
+        "Desc": "특정 「보존」 운명의 길 축복이 가하는 추가 피해"
     },
     "60000002": {
-        "Name": "Dissociation",
-        "Desc": "Debuff caused by specific Blessings of Remembrance.<br>The enemy is considered Frozen and will be unable to act for a designated number of turns. After Freeze is removed, deals Additional Ice DMG equal to 30.0% of the enemy's Max HP."
+        "Name": "해리",
+        "Desc": "특정 「기억」 운명의 길 축복이 가하는 디버프 효과.<br>빙결 상태로 간주하며 일정 턴 동안 행동을 할 수 없다. 해당 상태 해제 시 적 HP 최대치 30.0%만큼의 얼음 속성 추가 피해를 준다"
     },
     "60000003": {
-        "Name": "Aftertaste",
-        "Desc": "Follow-up attack of random DMG Types dealt by specific Blessings of Elation."
+        "Name": "음미",
+        "Desc": "특정 「환락」 운명의 길 축복이 가하는 랜덤 속성 추가 공격의 피해"
     },
     "60000004": {
-        "Name": "Critical Boost",
-        "Desc": "Buff brought by certain Hunt Blessings.<br>For each stack, increases CRIT Rate by 6.0% and CRIT DMG by 12.0%. Stacks up to 8.0 times. This buff can be transferred to allies when the next turn starts. Stacks reset when any ally is attacked."
+        "Name": "회심",
+        "Desc": "특정 「수렵」 운명의 길 축복이 가하는 버프 효과.<br>스택마다 치명타 확률이 6.0% 증가하고 치명타 피해가 12.0% 증가한다. 해당 효과 최대 중첩수: 8.0스택. 다음 턴을 시작하는 아군에게 전달할 수 있다. 임의의 아군이 피격 후 스택이 0이 된다"
     },
     "60000005": {
-        "Name": "Fighting Spirit",
-        "Desc": "Buff brought by certain Destruction Blessings.<br>For each stack, increases ATK by 3.0% and DEF by 3.0%. Stacks up to 35.0 times."
+        "Name": "전의",
+        "Desc": "특정 「파멸」 운명의 길 축복이 가하는 버프 효과.<br>스택마다 공격력이 3.0% 증가하고 방어력이 3.0% 증가한다. 해당 효과 최대 중첩수: 35.0스택"
     },
     "60000006": {
-        "Name": "Amber",
-        "Desc": "When a character with a Shield receives DMG that exceeds the max DMG that can be absorbed by the Shield, the excess DMG becomes invalid. This effect is removed after 1 activation."
+        "Name": "앰버",
+        "Desc": "실드를 보유한 캐릭터가 실드를 소진하는 공격을 받을 경우 남은 피해는 무효로 처리된다. 해당 효과는 적용 후 해제된다"
     },
     "60000007": {
-        "Name": "Confusion",
-        "Desc": "When enemies are Weakness Broken, every stack of Confusion will cause all DoTs currently on the enemy to immediately deal DMG equal to 30.0% of their original DoT. Consumes 1 stack of Confusion. Confusion can stack up to 5 times."
+        "Name": "당혹",
+        "Desc": "약점 격파 상태에 빠질 경우 [당혹] 1스택마다 현재 받고 있는 모든 지속 피해에 즉시 기존 피해 30.0%만큼의 피해를 주고 1스택을 소모한다. 해당 상태 최대 중첩수: 5스택"
     },
     "60000008": {
-        "Name": "Devoid",
-        "Desc": "Each stack reduces Toughness regeneration by 10.0%, stacking up to 5 times."
+        "Name": "결핍",
+        "Desc": "스택마다 강인성 회복량이 10.0% 감소한다. 해당 상태 최대 중첩수: 5스택"
     },
     "60000009": {
-        "Name": "Subduing Evils",
-        "Desc": "Can consume 1 stack of this state to resist a debuff once, and then restore HP equal to 10.0% of the character's Max HP. This state can stack up to 5.0 time(s)."
+        "Name": "액운 제압",
+        "Desc": "1스택을 소모해 디버프 효과를 1회 저항할 수 있다. 저항 후 자신의 HP 최대치 10.0%만큼의 HP를 회복한다. 해당 상태 최대 중첩수: 5.0스택"
     },
     "60000010": {
-        "Name": "Light-Hunting Celestial Arrow",
-        "Desc": "CRIT DMG increases by an amount equal to 80.0% of CRIT Rate. Gains one extra turn after defeating the enemy. This effect cannot trigger repeatedly."
+        "Name": "빛을 맴도는 화살",
+        "Desc": "치명타 피해가 증가한다. 증가 수치는 치명타 확률의 80.0%만큼이다. 적을 처치한 후 추가 턴을 획득하며 해당 효과는 중복 발동할 수 없다"
     },
     "60000011": {
-        "Name": "Entropic Retribution",
-        "Desc": "DEF decreases by 20.0%. At the beginning of each turn, the unit receives Additional Fire DMG equal to 125.0% of the HP difference between all allied characters' Max HP and their current HP."
+        "Name": "파멸의 징벌",
+        "Desc": "방어력이 20.0% 감소하고 턴이 시작될 때마다 모든 아군이 잃은 HP 총량의 125.0%만큼 화염 속성 추가 피해를 받는다"
     },
     "60000012": {
-        "Name": "Suspicion",
-        "Desc": "Debuff brought by certain Nihility Blessings.<br>Increases DoT taken by 1.0%. Stacks up to 99.0 times, but loses 2.0 stacks at the end of the turn."
+        "Name": "의심",
+        "Desc": "특정 「공허」 운명의 길 축복이 가하는 디버프 효과.<br>스택마다 받는 지속 피해가 1.0% 증가하며 해당 효과 최대 중첩수: 99.0스택. 턴 종료 시 2.0스택을 잃는다"
     },
     "60000013": {
-        "Name": "Dewdrop",
-        "Desc": "An effect that can be charged up, formed by specific Blessings of Abundance.<br>The Charge cannot exceed 500.0% of the character's Max HP. Dewdrop ruptures after the character attacks, dealing Additional DMG to the attacked enemy based on Charge value."
+        "Name": "이슬",
+        "Desc": "특정 「풍요」 운명의 길 축복이 생성하는 충전 효과.<br>최대 충전치는 캐릭터 HP 최대치의 500.0%이다. 공격 발동 후 파열되어 충전치를 기준으로 피격된 적에게 추가 피해를 준다"
     },
     "60000014": {
-        "Name": "Sensory Pursuit",
-        "Desc": "Each stack increases the received follow-up attack DMG by 8.0%."
+        "Name": "감각 추구",
+        "Desc": "스택마다 받는 추가 공격 피해가 8.0% 증가한다"
     },
     "60000015": {
-        "Name": "Eonian River",
-        "Desc": "When debuffed, the duration of this debuff doubles."
+        "Name": "영원의 강",
+        "Desc": "디버프 효과에 빠질 시 해당 디버프 효과의 지속 시간이 배가된다"
     },
     "60000016": {
-        "Name": "Metamorphosis",
-        "Desc": "During an attack, for every skill point consumed or recovered, the attack can ignore 10.0% of the target enemy's all-Type RES. This effect can stack up to 2.0 times."
+        "Name": "탈피",
+        "Desc": "공격 시 전투 스킬 포인트를 1pt 소모 혹은 회복할 때마다 이번 공격은 적의 모든 속성 저항을 10.0% 무시할 수 있다. 해당 효과 최대 중첩수: 2.0스택"
     },
     "60000017": {
-        "Name": "Spores",
-        "Desc": "When the spore count is equal to or greater than 3.0, it will burst upon being attacked by a character, causing Additional Wind DMG (unaffected by bonuses) to the target with the Spores. After the explosion, it will spread to a random adjacent target and cannot spread again. Each enemy target can hold a maximum of 6.0 spores."
+        "Name": "포자",
+        "Desc": "보유 수량이 3.0개 이상일 경우, 캐릭터의 공격을 받으면 폭파하고, 보유 목표에 보너스의 영향을 받지 않는 바람 속성 추가 피해를 가한다. 폭파 후 랜덤 인접한 목표에 전파되며 다시 전파되지 않는다. 모든 적이 최대 6.0개 보유한다"
     },
     "61000001": {
-        "Name": "Hounding Pursuit",
-        "Desc": "Domains with this effect will not swap positions with adjacent domains (Aside from Emergencies)"
+        "Name": "추적",
+        "Desc": "해당 효과를 보유한 구역은 인접 구역과 위치가 바뀌지 않는다 (돌발 사태 제외)"
     },
     "61000002": {
-        "Name": "Cornerstone",
-        "Desc": "Domains with this effect will not collapse"
+        "Name": "초석",
+        "Desc": "해당 효과를 보유한 구역은 붕괴하지 않는다"
     },
     "61000003": {
-        "Name": "Mercy",
-        "Desc": "When entering domains with this effect applied, the countdown is not consumed and increases by 1 point.<br>(This effect will expire after triggering Planar Disarray.)"
+        "Name": "자애",
+        "Desc": "해당 효과를 보유한 구역에 진입할 시, 카운트다운이 소모되지 않으며 1pt 증가한다.<br>(해당 효과는 [차원 혼란!] 발동 후 더 이상 적용되지 않음)"
     },
     "61000004": {
-        "Name": "Recollection",
-        "Desc": "Increases the Effect Hit Rate of all allies when entering any domains with this effect."
+        "Name": "추억",
+        "Desc": "해당 효과를 보유한 구역에 진입할 시, 모든 아군 효과 명중이 증가한다"
     },
     "61000005": {
-        "Name": "Enhance",
-        "Desc": "Enhance beacon. Enemies in domains with this beacon are enhanced. When selecting a Blessing after winning a battle, enhance all Blessings."
+        "Name": "강화",
+        "Desc": "강화 비콘. 해당 비콘을 보유한 구역은 적이 강화된다. 전투 승리 후 축복 선택 시 모든 축복이 레벨업된다"
     },
     "61000006": {
-        "Name": "Mutation",
-        "Desc": "Mutation beacon. Enemies in the domains with this beacon will become \"Bugs.\" After winning a battle, receive additional Cosmic Fragments."
+        "Name": "이질화",
+        "Desc": "이질화 비콘. 해당 비콘을 보유한 구역의 적은 「오류」 상태가 되며 전투 승리 후 추가로 우주 조각을 획득할 수 있다"
     },
     "61000007": {
-        "Name": "Blessing Trotter",
-        "Desc": "Blessing Trotter beacon. There will be a Trotter in domains with this beacon. Defeat it to obtain additional Blessings."
+        "Name": "축복 저금통",
+        "Desc": "축복 저금통 비콘. 해당 비콘을 보유한 구역에서는 전투 중 저금통이 출현한다. 처치 후 추가 축복을 획득할 수 있다"
     },
     "61000008": {
-        "Name": "Curio Trotter",
-        "Desc": "Curio Trotter beacon. There will be a Trotter in domains with this beacon. Defeat it to obtain additional Curios."
+        "Name": "기물 저금통",
+        "Desc": "기물 저금통 비콘. 해당 비콘을 보유한 구역에서는 전투 중 저금통이 출현한다. 처치 후 추가 기물을 획득할 수 있다"
     },
     "61000009": {
-        "Name": "Blank",
-        "Desc": "Blank Domain. Nothing will happen in this domain."
+        "Name": "공백",
+        "Desc": "공백 구역. 이 구역에서는 어떤 사건도 일어나지 않는다"
     },
     "61000010": {
-        "Name": "Respite",
-        "Desc": "Respite Domain. You can enhance Blessings, download characters, and reset characters in this domain."
+        "Name": "정비",
+        "Desc": "정비 구역. 이 구역에서 축복 강화, 캐릭터 다운로드, 캐릭터 초기화를 진행할 수 있다"
     },
     "61000011": {
-        "Name": "Combat",
-        "Desc": "Combat Domain. Defeat enemies in this domain to receive Blessings."
+        "Name": "전투",
+        "Desc": "전투 구역. 이 구역에서 적에게 승리하면 축복을 획득할 수 있다"
     },
     "61000012": {
-        "Name": "Combat: Swarm",
-        "Desc": "Special Combat Domain. Defeat Swarm enemies in this domain to receive Blessings of Propagation."
+        "Name": "전투•곤충 떼",
+        "Desc": "특수 전투 구역. 이 구역에서 곤충 떼 적에게 승리하면 「번식」의 축복을 획득할 수 있다"
     },
     "61000013": {
-        "Name": "Elite",
-        "Desc": "Elite Domain. Defeat Elite Enemies in this domain for a chance to receive a 1-3 star Blessing."
+        "Name": "정예",
+        "Desc": "정예 구역. 이 구역에서 정예 몬스터에게 승리하면 ★1~3 축복을 1개 획득할 기회가 있다"
     },
     "61000014": {
-        "Name": "Adventure",
-        "Desc": "Adventure Domain. Complete the various challenges in this domain to obtain rewards."
+        "Name": "모험",
+        "Desc": "모험 구역. 이 구역에서 다양한 도전을 완료하면 보상을 획득할 수 있다"
     },
     "61000015": {
-        "Name": "Reward",
-        "Desc": "Reward Domain. Select from different rewards in this domain."
+        "Name": "보상",
+        "Desc": "보상 구역. 이 구역에서는 보상을 선택해 획득할 수 있다"
     },
     "61000016": {
-        "Name": "Occurrence",
-        "Desc": "Occurrence Domain. Different outcomes can be achieved in this domain based on your choices."
+        "Name": "사건",
+        "Desc": "사건 구역. 이 구역에서는 선택에 따라 다른 결과를 달성할 수 있다"
     },
     "61000017": {
-        "Name": "Occurrence: Swarm",
-        "Desc": "Special Occurrence Domain. The Swarm's alertness can be affected by the choices you make in this domain. The higher the Swarm's alertness, the more dangerous the Special Occurrence in the domain becomes."
+        "Name": "사건•곤충 떼",
+        "Desc": "특수 사건 구역. 이 구역에서의 선택은 곤충 떼 경계치를 증가시킨다. 곤충 떼 경계치가 높을수록 이 구역의 사건이 더욱 위험해진다"
     },
     "61000018": {
-        "Name": "Boss",
-        "Desc": "Boss Domain. Defeat the Boss in this domain to pass this plane and receive Blessings and Curios."
+        "Name": "보스",
+        "Desc": "보스 구역. 이 구역에서 보스에게 승리하면 이번 차원을 클리어하고 축복과 기물을 획득할 수 있다"
     },
     "61000019": {
-        "Name": "Boss: Swarm",
-        "Desc": "Special Boss Domain. Defeating Swarm: True Sting (Complete) in this domain can clear this run of Simulated Universe."
+        "Name": "보스•곤충 떼",
+        "Desc": "특수 보스 구역. 이 구역에서 곤충 떼•완전체 칩충(완벽)에게 승리하면 이번 시뮬레이션 우주를 클리어할 수 있다"
     },
     "61000020": {
-        "Name": "Transaction",
-        "Desc": "Transaction Domain. Consume Cosmic Fragments in this domain to purchase Blessings and Curios."
+        "Name": "거래",
+        "Desc": "거래 구역. 이 구역에서 우주 조각을 소모해 축복과 기물을 구매할 수 있다"
     },
     "61000021": {
-        "Name": "Knowledge",
-        "Desc": "Domains marked by the dice's power will manifest different effects based on the different Passive Abilities chosen."
+        "Name": "지식",
+        "Desc": "주사위 능력으로 표시된 구역은 선택한 패시브 능력에 따라 다양한 효과가 발동한다"
     },
     "61000022": {
-        "Name": "Path Boost",
-        "Desc": "After fulfilling the dice's passive effect requirements, different effect bonuses will be provided based on the chosen Path."
+        "Name": "운명의 길 강화",
+        "Desc": "주사위의 패시브 효과 조건을 충족하면 선택한 운명의 길에 따라 다양한 효과의 버프가 제공된다"
     },
     "61000023": {
-        "Name": "Intra-Cognition",
-        "Desc": "Special Occurrence Domain. You can adjust your Intra-Cognition value in this domain and go to varied branches."
+        "Name": "자아인지",
+        "Desc": "특수 사건 구역. 이 구역에서는 자아인지 수치를 조정하여 다른 분기로 이동할 수 있다"
     },
     "61000024": {
-        "Name": "Occurrence: Abnormal",
-        "Desc": "Special Occurrence Domain. You are more likely to encounter Occurrences with higher risks in this domain."
+        "Name": "사건•이상",
+        "Desc": "특수 사건 구역. 이 구역에서는 위험한 사건을 더 쉽게 만날 수 있다"
     },
     "61000025": {
-        "Name": "Double",
-        "Desc": "Double Beacon. In Elite Domains with this beacon, the number of Elite Enemies are doubled. Occurrence, Reward, and Abnormal Domains with this beacon will also have the number of events in the domains doubled."
+        "Name": "2배",
+        "Desc": "2배 비콘. 해당 비콘이 있는 정예 구역에서는 정예 몬스터 수가 2배가 되며, 해당 비콘이 있는 사건 구역, 보상 구역, 이상 구역에서는 사건의 수가 2배가 된다"
     },
     "61000026": {
-        "Name": "Select",
-        "Desc": "Select Beacon. Domains with this beacon will have 3 Occurrences within them. After starting any of the Occurrences, the other 2 will disappear."
+        "Name": "선택",
+        "Desc": "선택 비콘. 해당 비콘이 있는 구역에서는 사건의 수가 3개가 된다. 임의의 사건 개방 후 다른 2개의 사건은 사라진다"
     },
     "61000031": {
-        "Name": "Resonance Extrapolation: \"The Hunt\"",
-        "Desc": "When Resonance Extrapolation: \"The Hunt\" takes action, it deals Wind DMG to all allies based on the boss' Type . All units' actions Advance Forward the Resonance's action."
+        "Name": "메아리 연역: 「수렵」",
+        "Desc": "메아리 연역: 「수렵」 행동 시, 보스 적의 속성을 기반으로 모든 아군에게 바람 속성 피해를 가한다. 임의 유닛의 행동은 모두 메아리의 행동 게이지를 증가시킨다"
     },
     "61000032": {
-        "Name": "Formation Extrapolation: Bow and Arrow",
-        "Desc": "When Resonance Extrapolation deals DMG to allies with HP below 50.0% of their Max HP, its CRIT Rate increases by 100% and CRIT DMG increases to 40.0%."
+        "Name": "음률 연역: 목궁과 화살",
+        "Desc": "메아리 연역이 현재 HP가 HP 최대치의 50.0% 미만인 아군에게 피해를 가할 시 치명타 확률이 100% 증가하고, 치명타 피해가 40.0%까지 증가한다"
     },
     "61000033": {
-        "Name": "Formation Extrapolation: Star Hunter",
-        "Desc": "The boss immediately acts after the Resonance Extrapolation's attack."
+        "Name": "음률 연역: 별 사냥꾼",
+        "Desc": "메아리 연역 공격 후 보스 적이 즉시 행동한다"
     },
     "61000034": {
-        "Name": "Resonance Extrapolation: \"Destruction\"",
-        "Desc": "When Resonance Extrapolation: \"Destruction\" takes action, it deals Fire DMG to all allies. All units' actions Advance Forward the Resonance's action."
+        "Name": "메아리 연역: 「파멸」",
+        "Desc": "메아리 연역: 「파멸」 행동 시 모든 아군에게 화염 속성 피해를 가한다. 임의 유닛의 행동은 모두 메아리의 행동 게이지를 증가시킨다"
     },
     "61000035": {
-        "Name": "Formation Extrapolation: Extreme Helium Flash",
-        "Desc": "The Resonance Extrapolation's attacks reduce the target's DEF by 30.0% for 2.0 turn(s)."
+        "Name": "음률 연역: 극단의 헬륨섬광",
+        "Desc": "메아리 연역 공격 후 캐릭터의 방어력이 30.0% 감소한다. 지속 시간: 2.0턴"
     },
     "61000036": {
-        "Name": "Formation Extrapolation: Zero Age Main Sequence",
-        "Desc": "After a target is defeated, Resonance Extrapolation's action will Advanced Forward by 50.0%."
+        "Name": "음률 연역: 영년주계열",
+        "Desc": "적이 처치된 후 메아리 연역의 행동 게이지가 50.0% 증가한다"
     },
     "61000037": {
-        "Name": "Resonance Extrapolation: \"Nihility\"",
-        "Desc": "When Resonance Extrapolation: \"Nihility\" takes action, it has a chance to inflict DoT effects on the characters. All units' actions Advance Forward the Resonance's action."
+        "Name": "메아리 연역: 「공허」",
+        "Desc": "메아리 연역: 「공허」 행동 시 일정 확률로 플레이어에게 지속 피해를 부여한다. 임의 유닛의 행동은 모두 메아리의 행동 게이지를 증가시킨다"
     },
     "61000038": {
-        "Name": "Formation Extrapolation: The Doubtful Fourfold Root",
-        "Desc": "The Resonance Extrapolation has a higher chance of inflicting DoT effects for the next 1.0 turn(s)."
+        "Name": "음률 연역: 의혹의 4중근",
+        "Desc": "메아리 연역이 지속 피해 상태를 부여할 확률이 증가하고 지속 시간이 1.0턴 증가한다"
     },
     "61000039": {
-        "Name": "Formation Extrapolation: Outsider",
-        "Desc": "When allies receive DMG from a DoT effect, the Resonance Extrapolation's action is Advanced Forward."
+        "Name": "음률 연역: 이방인",
+        "Desc": "아군이 지속 피해를 받을 시 메아리 연역의 행동 게이지가 증가한다"
     },
     "61000040": {
-        "Name": "Resonance Extrapolation: \"Abundance\"",
-        "Desc": "When Resonance Extrapolation: \"Abundance\" takes action, it restores HP for all enemies. All units' actions Advance Forward the Resonance's action."
+        "Name": "메아리 연역: 「풍요」",
+        "Desc": "메아리 연역: 「풍요」 행동 시 모든 적의 HP를 회복시킨다. 임의 유닛의 행동은 모두 메아리의 행동 게이지를 증가시킨다"
     },
     "61000041": {
-        "Name": "Formation Extrapolation: Anicca",
-        "Desc": "When the Resonance Extrapolation acts, it removes 4.0 debuff(s) from each enemy."
+        "Name": "음률 연역: 제행무상",
+        "Desc": "메아리 연역 행동 시 모든 적의 디버프 상태를 각각 4.0개 해제한다"
     },
     "61000042": {
-        "Name": "Formation Extrapolation: Mountain High",
-        "Desc": "When the Resonance Extrapolation acts, it increases all enemies' ATK by 30.0% for 1.0 turn(s)."
+        "Name": "음률 연역: 고산에 드리우는 빛",
+        "Desc": "메아리 연역 행동 시 모든 적의 공격력이 30.0% 증가한다. 지속 시간: 1.0턴"
     },
     "61000043": {
-        "Name": "Synapse Resonance",
-        "Desc": "After receiving an attack from a character, this unit and the enemy target with the highest Max HP take Ultimate DMG equal to 70.0% of the attacker's ATK one time. Then, 1 trigger count is consumed. This effect expires after being triggered 15.0 time(s) in total."
+        "Name": "시냅스 공명",
+        "Desc": "캐릭터 공격을 받은 후 자신 및 HP 최대치가 가장 높은 적이 공격자 공격력의 70.0%만큼 필살기 피해를 받고 효과 발동 횟수를 1회 소모한다. 모든 적이 해당 효과를 15.0회 발동하면 해제된다"
     },
     "61000044": {
-        "Name": "Brain in a Vat",
-        "Desc": "If the Enlightenment Charge of \"Brain in a Vat\" reaches 100%, when a character uses their Ultimate through a method other than \"Brain in a Vat,\" the Ultimate will be activated again, consuming 100% of the Enlightenment Charge."
+        "Name": "통 속의 뇌",
+        "Desc": "[통 속의 뇌]의 계몽 에너지 충전 비율이 100%에 달하면 캐릭터가 [통 속의 뇌] 이외의 방식으로 필살기를 발동하고, 필살기를 다시 활성화한다. 해당 방식으로 필살기를 발동하면 계몽 에너지 충전을 100% 소모한다"
     },
     "61000045": {
-        "Name": "AoE ATK",
-        "Desc": "A kind of ability tag. Ability effects that are primarily AoE attacks will have this tag."
+        "Name": "범위 공격",
+        "Desc": "스킬 태그의 일종. 단체 공격이 주요 효과인 스킬은 해당 태그를 보유한다"
     },
     "70000001": {
-        "Name": "Continuous Hook Kick",
-        "Desc": "Takes Wind DMG at the start of each turn for a certain number of turns. This status can be stacked."
+        "Name": "연속 훅 킥",
+        "Desc": "일정 턴 동안 턴이 시작될 때마다 바람 속성 피해를 받는다. 해당 상태의 스택 수는 중첩할 수 있다"
     },
     "70000002": {
-        "Name": "Thunderous Slap",
-        "Desc": "Receive Additional Lightning DMG after being attacked by Lightning-Type Ultimates."
+        "Name": "번개 따귀",
+        "Desc": "번개 속성 필살기 공격을 받은 후, 추가로 번개 속성 추가 피해를 1회 받는다"
     },
     "70000003": {
-        "Name": "Spinning Back Fist",
-        "Desc": "Units that are both Weakness Broken and Burned will receive Additional Fire DMG when they are attacked."
+        "Name": "백스핀 블로우",
+        "Desc": "연소와 약점 격파 상태에 동시에 빠진 유닛은 공격을 받은 후 추가로 화염 속성 추가 피해를 받는다"
     },
     "70000004": {
-        "Name": "Jawbreaker",
-        "Desc": "When Frozen enemies are attacked by allies, receive Additional Ice DMG based on the enemy's ATK."
+        "Name": "턱 브레이크",
+        "Desc": "빙결 상태에 빠질 시, 아군의 공격을 받은 후 추가로 목표 공격력에 따라 얼음 속성 추가 피해를 받는다"
     },
     "70000101": {
-        "Name": "Gloomfire",
-        "Desc": "For a certain number of turns, takes Fire DMG that is based on character ATK at the start of each turn."
+        "Name": "암화",
+        "Desc": "일정 턴 동안 턴이 시작될 때마다 캐릭터 공격력에 기반한 화염 속성 피해를 받는다"
     },
     "70000102": {
-        "Name": "Quake",
-        "Desc": "Additional DMG caused by Stage Buff. If triggered during an attack, cannot defeat the enemy target."
+        "Name": "진동",
+        "Desc": "스테이지 버프로 가하는 추가 피해. 피격 시 발동하면 적을 처치할 수 없다"
     },
     "220020301": {
-        "Name": "Reverberation",
-        "Desc": "After receiving an attack, become afflicted with Strong Reverberation, then dispels Reverberation."
+        "Name": "진탕",
+        "Desc": "피격 후 [강렬한 진탕] 상태에 빠지고 [진탕] 상태를 해제한다"
     },
     "70000201": {
-        "Name": "Overflow DMG",
-        "Desc": "The DMG that this attack deals will exceed the target's current HP when they are defeated."
+        "Name": "초과 피해",
+        "Desc": "목표 처치 시 이번 공격으로 가하는 피해가 목표의 현재 HP를 초과한 피해량"
     },
     "70000202": {
-        "Name": "Detonate",
-        "Desc": "Every unit afflicted by this effect will additionally take a fixed amount of DMG on account of the Detonate stacks. The DMG will increase with the number of Detonate stacks. The effect is dispelled when the affected unit takes action."
+        "Name": "폭탄",
+        "Desc": "보유한 목표는 피격될 때마다 [폭탄] 스택 수에 따른 추가 고정 피해를 받고, 피해는 폭탄 중첩 스택 수에 따라 증가한다. 보유한 목표 행동 시 해제된다"
     },
     "70000203": {
-        "Name": "Galefury",
-        "Desc": "Characters with Galefury will consume one of its stacks at the end of their turn and have their Action Advanced forward by 100%."
+        "Name": "질풍의 분노",
+        "Desc": "캐릭터가 [질풍의 분노]를 보유했을 경우, 턴 종료 시 [질풍의 분노] 1스택을 소모하고 행동 게이지가 즉시 100% 증가한다"
     },
     "70000204": {
-        "Name": "Shudder",
-        "Desc": "The Trotter additionally takes DMG."
+        "Name": "몸서리",
+        "Desc": "저금통이 추가 피해를 받는다"
     },
     "70000205": {
-        "Name": "Wind Shear",
-        "Desc": "Takes Wind DMG at the start of each turn for a certain number of turns. This status can be stacked."
+        "Name": "풍화",
+        "Desc": "일정 턴 동안 턴이 시작될 때마다 바람 속성 피해를 받는다. 해당 상태의 스택 수는 중첩할 수 있다"
     },
     "70000206": {
-        "Name": "Fatigued",
-        "Desc": "Each stack of Fatigue causes enemies to receive more DMG."
+        "Name": "피곤",
+        "Desc": "[피곤] 스택마다 적이 받는 피해가 증가한다"
     },
     "70000207": {
-        "Name": "Bellow",
-        "Desc": "Each stack of Bellow causes the unit with the effect to deal more DMG."
+        "Name": "외침",
+        "Desc": "[외침] 스택마다 보유자에게 가하는 피해가 증가한다"
     },
     "70000208": {
-        "Name": "Blood Rage",
-        "Desc": "Each stack of Blood Rage increases the CRIT Rate and CRIT DMG of the affected unit."
+        "Name": "혈광",
+        "Desc": "[혈광] 스택마다 보유자의 치명타 확률과 치명타 피해가 증가한다"
+    },
+    "70000210": {
+        "Name": "소환",
+        "Desc": "해당 유형의 무기는 행동 게이지에 추가되어 행동시 대응하는 효과를 발동합니다"
+    },
+    "70000211": {
+        "Name": "범위",
+        "Desc": "해당 유형의 무기는 다수의 인접한 목표에게 범위 공격을 가합니다"
+    },
+    "70000212": {
+        "Name": "집중",
+        "Desc": "해당 유형의 무기는 정예 및 보스 목표에게 추가 피해를 가합니다"
+    },
+    "70000213": {
+        "Name": "발사",
+        "Desc": "해당 유형의 무기는 적에게 여러 번 공격을 발사하고 해당하는 효과를 부여한다"
+    },
+    "10000014": {
+        "Name": "격파 피해",
+        "Desc": "격파 특수효과를 제외한 자신의 기타 속성치 버프의 피해 유형을 받지 않는다. 캐릭터 레벨, 적 최대 강인성 수치가 높을수록 가하는 격파 피해도 증가한다"
+    },
+    "23025011": {
+        "Name": "이상한 꿈",
+        "Desc": "행동할 수 없다. 턴마다 소량의 HP와 에너지를 회복한다. 피격 시 받는 피해가 대폭 증가하고 [이상한 꿈] 상태가 해제된다"
+    },
+    "10000011": {
+        "Name": "제어류 디버프 상태",
+        "Desc": "빙결, 얽힘, 속박, 지배, 노발대발, 강렬한 진탕, 이몽"
+    },
+    "23003051": {
+        "Name": "",
+        "Desc": ""
+    },
+    "23003052": {
+        "Name": "",
+        "Desc": ""
     }
 }

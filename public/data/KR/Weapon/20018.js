@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "20018": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate. <br><br><i>\"The Nihility might find us, but there is a non-zero chance that they might not.\"</i>"
+    "20018": "세월에서 추출한 희박한 힘. 보잘것없는 찰나의 순간들이 모여 엮어진 장렬한 운명.<br><br><i>「공허가 우리를 찾아낼 수도 있지만, 못 찾아낼 가능성이 높습니다」</i>"
 }
 
 var _weaponskill_ = {

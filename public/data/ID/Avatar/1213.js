@@ -652,24 +652,200 @@ var _story_ = {
 var _voice_ = {
     "1213": [
         {
-            "_id": 1,
-            "Story": "Dan Heng's true Vidyadhara form, revealed after accepting the residual powers from the previous reincarnation of \"Imbibitor Lunae.\"<br>Upon accepting the majestic horned crown atop his forehead, he must accept all the merits and faults attributed to that person.<br>However, he was never himself."
+            "Title": "First Meeting",
+            "Voice": "This is my original appearance, that of the Vidyadhara... Don't worry, I'm still Dan Heng, a descendant of the Vidyadhara, and also a member of the Nameless."
         },
         {
-            "_id": 2,
-            "Story": "In the dim abyss devoid of light, he seemed to have returned to the insides of a Vidyadhara egg, being ceaselessly churned in tumultuous waves and elusive dreams.<br><br>He dreamed he was standing before a sacrificial altar, dancing and chanting. However, the songs and gestures were mere facades. The light emanating from his eyes and the storm roiling in his blood were the true forces at play. Casually, he wove the misty and foggy tide in Scalegorge Waterscape, sealing the maddened and frenzied \"dragon\" into the propagating giant tree. As the echoing roar streamed up into the heavens and dissipated, Scalegorge Waterscape will continue its peace for centuries more, and his duty was over.<br><br>The ceremony ended, and he turned to look behind him. In the blink of an eye, the stairs he had stepped down from had become full of standing dignitaries with draconic horns and dressed like royalty. As if they were mirages in a mirror, each of them turned and their sleeves swirled with the motion, ready to leave one after another in a meticulously calculated arrangement. Innumerable, they formed a staircase to the sky, stretching into the never-ending spatial void. The faces of all these people would greet him every morning in his dressing mirror — That was his face.<br><br>No, it was the face of the primordial, the original, the very first high elder. He smiled bitterly and covered his face with his palm, as if ascertaining whether he could tear off this mask and return it to its true owner.<br><br>He could not."
+            "Title": "Greeting",
+            "Voice": "As recorded in the data bank, it is customary among the Vidyadhara to place one's hand on one's forehead when greeting someone. But... we don't need to do that."
         },
         {
-            "_id": 3,
-            "Story": "In the dim abyss devoid of light, he seemed to have returned to the insides of a Vidyadhara egg, being ceaselessly churned in tumultuous waves and elusive dreams.<br><br>He dreamed he arrived at the battlefield like the descent of a god. He hovered with the clouds — the military formations below him were tiny as ants, and the airborne chariots and starskiffs were moths destined to die in a flame. Such were the lives of mortals... Was this the viewpoint of a dragon? A sliver of hubris rose up and plunged his heart into emotionless and icy detachment, and he hurriedly cast his gaze toward those with whom he had fought and shared liquor:<br><br>The pilot who zoomed past did not care whether the formation was orderly. She shot at will, letting the arrows filled with blazing fire fall on the storming borisin foot soldiers...<br><br>Along the direction pointed out by the starskiffs, a white-haired swordswoman spearheaded into the fray ahead of the entire army, dancing with her sharp blade. She dashed between flashes of metallic light, her actions too sharp to even let her allies come near, reducing them to merely supporting her from behind...<br><br>On the other hand, the Cloud Knight Lieutenant who used to chat and laugh with the dragon contained his languid indolence, holding his devastator glaive in hand as he stood with his men to repel the borisin pawns attacking from the battlefield's wings...<br><br>And behind the main host, the military engineers who marched with the army were adjusting and testing giant aurumatons... perhaps that exceedingly arrogant craftsman was now working at full speed, for these machines hundreds of feet tall are specialized weapons designed to counter the mechabeasts...<br><br>Then, he saw the general of yesteryear, Teng Xiao. He was enveloped in golden lightning like the avatar of the Reignbow, plowing through the enemies' rows of war beasts with his divine mirage...<br><br>The devastated borisins began to flee. He knew it was time to carry out the duty entrusted to him. So he let go — letting his consciousness disappear in storms and hails, letting thunder roar for him, letting tsunamis rage for him. He floated on top of clouds, watching the enemies getting swallowed by the watery abyss, and watching the land behind him. Many humans, Vidyadhara, and Foxians were eternally left there, unable to lay their eyes upon their home ever again.<br><br>The dragon heart told him that it was but a small speck of dust brushed away from the world. Wars come with a price, but life will always thrive once more — the Vidyadhara are not the only branch of Long's Scions. However, his human heart ached for those comrades who, like him, had warm flesh and blood, and for those mortals who might have lived longer but now could return home nevermore."
+            "Title": "Parting",
+            "Voice": "It's getting late, I won't be staying up much longer. Sleep well."
         },
         {
-            "_id": 4,
-            "Story": "In the dim abyss devoid of light, he seemed to have returned to the insides of a Vidyadhara egg, being ceaselessly churned in tumultuous waves and elusive dreams.<br><br>He dreamed that he parted the ocean's waters and came to the palace ruin depths, burying the remnants of his old friend's hallowed blood, or creating a new life that had not been seen for millennia — or, perhaps, those two actions were one and the same, an unattainable desire that could not be carried out for long years in the past, a final straw that broke the gargantuan dragon's back. The craftsman was covered in blood and wounds as he guarded the dragon with a sword in his hand. He urged himself to commit to the decision.<br><br><i>\"Shuhu is dead... we won, but how many more victories can we manage to achieve? How many more prices like this must we pay?\"<br>\"Look, the Ambrosial Arbor still stands. So long as it is alive, the monsters... they can come back again and again. The war of the Xianzhou natives, Foxians, and Vidyadhara against the abominations will never end.\"<br>\"Yes, none of us are special! Each of us has only one life, sacrificing for this, dying for that... it's all our own choices. Just like how she chose to save you and Jingliu... just like how she chose to let more people live on!\"</i><br><br>War, and the lives that expired in the war, were living beings just like him.<br>He shut his eyes wearily, remembering their faces, and made up his mind.<br><i>\"If there's a chance... we will also choose to let her and more people live on.<br>We, the Vidyadhara, have our own way of salvation. I can give it a try.\"</i><br><br>Like an out-of-body experience, like a dream within a dream, he returned to the moment before his sense of self disappeared. With a cold and emotionless mind, he observed himself turning into a dragon, entangled and fighting claw-and-fangs against that bulb of shapeshifting shadow of flesh and blood. In an illusion seen on the verge of death, the emissary of the god showed him an unsettling, beautiful scene — the stars pulsated and sang hymns like red blood cells, and the universe descended into an abyss of flesh and desires. The dragon heart beat to its limit, raising its fangs, breath, and fury — however, no matter how mighty it was, a \"lifeform\" cannot defy the true body of god of life's envoy.<br><br>...Until a starskiff ran everything through like an arrow shaft. He saw that girl crawling out of the ruins with great difficulty, lifting a \"sun\" of absolute darkness in her hand. In that fleeting eternity, he saw her hand disappear, saw her face disappear, and saw HER disappear — That item had ground everything around it into the finest dust and dragged them into a vortex of raw power, including that girl.<br><br>A tuft of hair and a few drops of blood fell to the floor as evidence of her existence. Those were the only traces she left."
+            "Title": "About Self: Previous Life",
+            "Voice": "My previous life is like a faint shadow — hardly visible yet following me wherever I go. It's hard to describe the feeling, but one thing is for certain — I am nobody's shadow."
         },
         {
-            "_id": 5,
-            "Story": "In the dim abyss devoid of light, he seemed to have returned to the insides of a Vidyadhara egg, being ceaselessly churned in tumultuous waves and elusive dreams.<br><br>He dreamed of the Dracocatena Nails being staked into his body, and chains of corallium winding around him to hang him in midair in the Shackling Prison. He dreamed the elders coming and going to interrogate him about the truth of the Arcanum and the whereabouts of the dragon heart. He did not speak.<br><br>He dreamed of the Judges coming before him to read their decision and wanting to sentence him to death. He did not speak.<br><br>He dreamed of the white-haired Cloud Knight Lieutenant coming to visit him and bringing him news of the Lieutenant's negotiations. The Vidyadhara did not permit him to die, nor did they permit him to leave. He did not speak.<br><br>He dreamed he was raising his cup to drink with the others again, that he molted off his scales, and that he returned to the egg, and became someone else.<br><br>He dreamed many, many things, like a never-ending immersia entitled \"Self.\"<br><br>Following the immersia was an even clearer but unreachable illusion.<br><br>He saw himself being exiled. He saw himself boarding an express. He saw himself running into the endless stars, never looking back."
+            "Title": "Chat: Banishment",
+            "Voice": "The eternal banishment decree was like a pardon for me... After all, I'm here now, aren't I?"
+        },
+        {
+            "Title": "Chat: Cloud-Piercer",
+            "Voice": "There is unfinished business between me and the maker of this weapon."
+        },
+        {
+            "Title": "Hobbies",
+            "Voice": "During my days in The Shackling Prison, reading books was my only respite from the long hours and the shadows of the past."
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "I have no interest in commenting on the deeds and sins of Imbibitor Lunae. Given the choice, I would like to cast his name aside... Even so, the consequences of his power will be borne by me alone."
+        },
+        {
+            "Title": "Something to Share",
+            "Voice": "The Vidyadhara that reside on the Xianzhou received a blessing from the Permanence — our dragon ancestor. On the Luofu, we wield a magic known as \"cloudhymn\" that allows us to manipulate water and control the rains."
+        },
+        {
+            "Title": "Knowledge",
+            "Voice": "The Ambrosial Arbor was severed long ago, but it is not dead. If there is any activity from the Denizens of Abundance, it will be connected to the Arbor."
+        },
+        {
+            "Title": "About Jing Yuan",
+            "Voice": "Sometimes the general treats me as a friend from the old days. Unfortunately, I am unable to return the sentiment."
+        },
+        {
+            "Title": "About Bailu",
+            "Voice": "The high elder succession was incomplete, causing her to become trapped in shallow waters... Fortunately, she has a vitality that does not bend to the will of others."
+        },
+        {
+            "Title": "About Yanqing",
+            "Voice": "That young swordmaster has a keen eye and a swift hand, but I have no desire to compete with anyone in a sword fight."
+        },
+        {
+            "Title": "About Blade",
+            "Voice": "What he seeks I am unable to provide."
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "One cannot pick and choose their recollections. My past is unalterable."
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "The unrest within me seeks an escape."
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "The future is unknowable... but I have a choice."
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "I will pay the price for this power."
+        },
+        {
+            "Title": "Added to Team With Trailblazer",
+            "Voice": "Trailblazer, proceed with caution. I've got your back."
+        },
+        {
+            "Title": "Added to Team With March 7th",
+            "Voice": "March, remember that— *sigh* Forget it, you never remember."
+        },
+        {
+            "Title": "Added to Team With Himeko",
+            "Voice": "As always, Himeko, I can handle it."
+        },
+        {
+            "Title": "Added to Team With Welt",
+            "Voice": "Mr. Yang, do you have any insight into this? Allow me to explain my thinking."
+        },
+        {
+            "Title": "Added to Team With Jing Yuan",
+            "Voice": "Good to see you, General."
+        },
+        {
+            "Title": "Added to Team With Blade",
+            "Voice": "This is your last warning. Stay away from my companions."
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "The times are changed beyond recognition."
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "Do not be afraid."
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "I sense a storm..."
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "I wish not to use this strength."
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "Conflict requires undivided focus."
+        },
+        {
+            "Title": "Enhanced Basic Attack 2",
+            "Voice": "You are flawed."
+        },
+        {
+            "Title": "Enhanced Basic Attack 3: Activation",
+            "Voice": "The heavens surge..."
+        },
+        {
+            "Title": "Enhanced Basic Attack 3: Unleash (I)",
+            "Voice": "Celestial dragon... Break!"
+        },
+        {
+            "Title": "Enhanced Basic Attack 3: Unleash (II)",
+            "Voice": "Cloud-faring dragon... rise!"
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "A graze."
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "Inevitable."
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "Awaken, dormant scales."
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "Delve-hidden moon, world-cleansing dragon!"
+        },
+        {
+            "Title": "Downed",
+            "Voice": "Not yet... not now."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "A dragon... will always return."
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "Do not fret."
+        },
+        {
+            "Title": "Technique",
+            "Voice": "Water heeds the cloud's song..."
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "The consequences are mine to bear."
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "It's all yours."
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "This could serve you well."
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "A fine piece."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "Good."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "All manner of mystic arts have their own distinctive merits."
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "Caution does not mean cowardice."
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "All remains as it did yesterday..."
         }
     ]
 }

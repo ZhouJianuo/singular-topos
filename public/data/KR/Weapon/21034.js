@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21034": "There is the new book borrowed for lunch and she just figured out a new way to play tiles.<br>If she works slowly, the rest of her job should last exactly till the end of day.<br>She ducks easily into a corner.<br><br>No one must disturb her in her wonderful off time<br>— not even diviner Fu.<br>Just on the off chance that she does show up...<br><br><i>\"Then I'll give this milk candy ball to Diviner Fu. She can't be angry after having sweets!\"</i>"
+    "21034": "새로운 놀이를 떠올린 그녀는 점심시간에 또 책을 빌려왔다.<br>손가락으로 헤아리면서 업무의 양을 계산해 본 그녀는 퇴근 시간에 딱 맞춰 끝날 정도의 속도로 느릿느릿 일했다.<br>그녀는 슬그머니 한쪽 구석으로 숨어 들어갔다.<br><br>즐거운 시간은 그 누구에게도 방해받아서는 안 되니까.<br>——그게 부 태복이라 해도 말이다.<br>하지만 만일의 경우에는……<br><br><i>「이 우유 사탕을 부 태복에게 주세요. 단것을 먹으면 화도 가라앉을 테니까!」</i>"
 }
 
 var _weaponskill_ = {

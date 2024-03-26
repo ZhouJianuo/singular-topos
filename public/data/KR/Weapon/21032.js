@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21032": "He immediately falls in love with the golden vessel and is about to buy it,<br>but the Foxian girl drags him aside and whispers:<br><i>\"Please return at night, Mr. Benefactor, and make up your mind then.\"</i><br><br>As promised, he returns at night.<br>The same Foxian girl opens the door and smiles at him.<br><i>\"Please follow me, Mr. Benefactor.\"</i><br><br>A ray of moonlight shines onto the base of the etched plate.<br>The artisan had traced the petals with lines of various depths, and he would not be able to see such details without the moonlight.<br><br>He finally recalls why this item is called \"Carve the Moon, Weave the Clouds.\""
+    "21032": "그 황금 식기를 보자마자 마음에 들었던 그는 바로 그것을 사려고 했다.<br>그런데 어떤 여우족 소녀가 나타나더니 그를 가게 구석으로 끌고 가서 속삭였다.<br><i>「손님, 밤이 되면 다시 가게로 찾아오세요. 그때 결정하셔도 늦지 않답니다」</i><br><br>그날 밤, 그는 약속대로 다시 가게를 찾았다.<br>문을 연 것은 그 여우족 소녀였다. 그녀는 미소를 지으며 그를 맞이했다.<br><i>「손님, 이쪽으로 오세요」</i><br><br>한 줄기 달빛이 꽃무늬가 새겨진 그릇의 바닥을 비추었다.<br>장인은 세밀한 솜씨로 선의 깊이를 조절하며 꽃잎을 조각했던 것이었다. 만약 달빛이 아니었다면 그것을 눈치챌 수 없었을 것이 분명했다.<br><br>그제야 그는 깨달았다. 그것이 왜 「누월재운(鏤月裁雲)」이라 불리는지를 말이다"
 }
 
 var _weaponskill_ = {

@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23003": "<i>\"Remember, the war with the monsters cannot be won by retreating.\"<br>\"We are the last defense, the final iron wall between them and Belobog...\"<br>\"We cannot retreat under any circumstances!\"</i><br><br>She looks up to see the frozen earth and endless winter ahead.<br>Business as usual.<br>Only that... the figure at which she had been gazing is gone."
+    "23003": "<i>「心に刻め。撤退しては、モンスター共との戦いに勝てない」<br>「私たちの背後がベロブルグ、私たちが最後の防衛線……」<br>「私たちだけは、何があっても、引くことは許されない！」</i><br><br>顔を上げると、目の前には冷たい空と凍てついた大地、そしてどこまでも続く吹雪が広がっていた。<br>全てがいつも通り。<br>ただ、彼女がいつも見つめていた後ろ姿だけが、いなかった。"
 }
 
 var _weaponskill_ = {

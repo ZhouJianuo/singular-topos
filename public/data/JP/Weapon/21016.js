@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "21016": "The planet is receiving a revaluation...<br><br><i>\"Will this project show that it's mutually beneficial to collect any outstanding debts?\"<br>\"But we only need to convey one message — our existence.\"</i><br><br>\"If it were to have a value of its own, then it must create value for the corporation.\""
+    "21016": "星の価値が再計算されている……<br><br><i>「このプロジェクトは、債権回収のメリットは相互的だ、ということを証明できるのかな？」<br>「だが、伝えるべきメッセージは一つだけ、私たちの存在を宣告することだ」</i><br><br>「それに価値があると言うのであれば、カンパニーのために価値を生み出すべき」"
 }
 
 var _weaponskill_ = {

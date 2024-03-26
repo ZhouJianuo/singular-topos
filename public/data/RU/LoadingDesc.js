@@ -1,6 +1,7 @@
 // Auto Generated
 
 var _loadvers = [
+    "2.2",
     "2.1",
     "2.0",
     "1.6",
@@ -122,24 +123,6 @@ var _loadingdesc = [
         "Desc": "Tayzzyronth, who amidst hatred and solitude ascended to become the Aeon of Propagation.<br>Then, a vast \"Swarm\" swept across the universe."
     },
     {
-        "_id": 10145,
-        "Ver": 2.0,
-        "Name": "Misha",
-        "Desc": "A doorman at The Reverie who takes a keen interest in the Path of Trailblaze upon which the Astral Express strides."
-    },
-    {
-        "_id": 10147,
-        "Ver": 2.0,
-        "Name": "Sunday",
-        "Desc": "The benevolent and revered leader of the Oak Family and Sweetdream Paradise.<br>This powerhouse garners great respect from the outside world and is Robin's elder brother."
-    },
-    {
-        "_id": 10148,
-        "Ver": 2.0,
-        "Name": "Robin",
-        "Desc": "A singer renowned across the cosmos, regarded as the superstar of the Starry Stage.<br>Her captivating voice serenades Harmony to audiences across the universe."
-    },
-    {
         "_id": 10149,
         "Ver": 2.0,
         "Name": "Aventurine",
@@ -236,6 +219,36 @@ var _loadingdesc = [
         "Desc": "A memento provided to all guests staying at The Reverie Hotel, featuring a range of functions."
     },
     {
+        "_id": 10175,
+        "Ver": 2.2,
+        "Name": "Robin",
+        "Desc": "A singer renowned across the cosmos, regarded as the superstar of the starry stage.<br>Her captivating voice serenades the name of Harmony to audiences across the universe."
+    },
+    {
+        "_id": 10182,
+        "Ver": 2.2,
+        "Name": "Dreamflux Reef",
+        "Desc": "The reflection of Penacony cast upon the deep. The \"Nightmare\" professed by The Family.<br>In reality, this primordial Memory Zone is the true form of the Dreamscape."
+    },
+    {
+        "_id": 10183,
+        "Ver": 2.2,
+        "Name": "SoulGlad™ Festivity Auditions",
+        "Desc": "The qualifier event leading up to the Charmony Festival.<br>People who dream of overnight fame engage in fierce competition here, aiming for the title of \"Festive Superstar\" and the VIP seats at the Charmony Festival."
+    },
+    {
+        "_id": 10184,
+        "Ver": 2.2,
+        "Name": "Moment of Scorchsand",
+        "Desc": "The moment when the wild wind brushes by. One of the twelve Dreamscapes of Penacony.<br>Railways, pastures, steeds, and vast plains were once destroyed by disasters.<br>After reconstruction, a branch venue of the \"Festivity Auditions\" was sponsored and established by SoulGlad Enterprise."
+    },
+    {
+        "_id": 10185,
+        "Ver": 2.2,
+        "Name": "Penacony Grand Theater",
+        "Desc": "The magnificent and opulent Grand Theater.<br>Built by The Family, it is a colossal structure designed after the ancient prisons, serving as the stage for the present-day Charmony Festival."
+    },
+    {
         "_id": 20014,
         "Ver": 2.1,
         "Name": "Jade",
@@ -269,6 +282,7 @@ var _loadingdesc = [
 
 var _option = [
     "All",
+    "2.2",
     "2.1",
     "2.0",
     "1.6",

@@ -1,7 +1,7 @@
 // Auto Generated
 
 var _weapondesc_ = {
-    "23021": "Just as fireworks can flicker, she too can shift between ten different colors in a minute.<br><br>When the light show nears its end, she sits high above, regarding the bustling masses beneath her feet with boredom.<br>Thoughts flow and vanish, and slyness circulates across myriad eyes like a dancing kaleidoscope.<br><i>\"I've made my decision. This is how we're going to have fun today!\"</i><br><br>Bouncing and hopping, she glides through the crowds, her golden-red tail flitting in and out of sight.<br><i>\"Keep up! The brightest fireworks are just about to begin!\"</i>"
+    "23021": "一瞬の花火のように、彼女も1分あれば数十種類の色に変幻できる。<br><br>花火大会が終わる頃、彼女は高いところに座り、足元で賑わう人々を退屈そうに眺めていた。<br>考えが次々と浮かび上がっては消え、狡猾な光が万華鏡のような瞳の中で駆け巡る。<br><i>「よし、今日はこれで遊ぼう！」</i><br><br>彼女は金色がかった赤い裾をなびかせ、飛び跳ねながら人ごみの中を進んでいく。<br><i>「ちゃんとついてきてね。いっちばんキレイな花火がこれから始まるんだから！」</i>"
 }
 
 var _weaponskill_ = {
