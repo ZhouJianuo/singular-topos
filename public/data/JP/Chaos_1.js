@@ -7126,7 +7126,7 @@ var _monster = {
         "4": "「{RUBY_B#じゅう}十{RUBY_E#}の{RUBY_B#せきしん}石心{RUBY_E#}」{RUBY_B#はくぎ}博戯{RUBY_E#}の{RUBY_B#さきんせき}砂金石{RUBY_E#}"
     },
     "3003050": {
-        "1": "mostericon/Monster_3003050.png",
+        "1": "monsterfigure/Monster_3003050.png",
         "2": [
             "Phys",
             "Fire",
@@ -7146,7 +7146,7 @@ var _monster = {
         "4": "{RUBY_B#きおくいき}記憶域{RUBY_E#}ミーム「{RUBY_B#かがみ}鏡{RUBY_E#}に{RUBY_B#ひそ}潜{RUBY_E#}むのは{RUBY_B#なにもの}何物{RUBY_E#}」"
     },
     "3003030": {
-        "1": "mostericon/Monster_3003030.png",
+        "1": "monsterfigure/Monster_3003030.png",
         "2": [
             "Fire",
             "Elec",
@@ -7156,7 +7156,7 @@ var _monster = {
         "4": "「囚われの身の過去」"
     },
     "3003040": {
-        "1": "mostericon/Monster_3003040.png",
+        "1": "monsterfigure/Monster_3003040.png",
         "2": [
             "Phys",
             "Fire",
@@ -7175,7 +7175,7 @@ var _monster = {
         "4": "{RUBY_B#きおくいき}記憶域{RUBY_E#}ミーム「{RUBY_B#へんざい}遍在{RUBY_E#}する{RUBY_B#しせん}視線{RUBY_E#}」"
     },
     "3012040": {
-        "1": "mostericon/Monster_3012040.png",
+        "1": "monsterfigure/Monster_3012040.png",
         "2": [
             "Phys",
             "Fire"
@@ -7194,13 +7194,13 @@ var _monster = {
         "4": "{RUBY_B#きおくいき}記憶域{RUBY_E#}ミーム「{RUBY_B#くだ}砕{RUBY_E#}け{RUBY_B#ち}散{RUBY_E#}った{RUBY_B#こころ}心{RUBY_E#}」"
     },
     "3004010": {
-        "1": "mostericon/BattleEvent_Marionette.png",
+        "1": "monsterfigure/Monster_Marionette.png",
         "2": [],
         "3": 2,
         "4": "過去、今、そして永遠に在る演目"
     },
     "3003051": {
-        "1": "mostericon/Monster_3003050.png",
+        "1": "monsterfigure/Monster_3003050.png",
         "2": [
             "Phys",
             "Fire",
@@ -7210,7 +7210,7 @@ var _monster = {
         "4": "「宴に酔いしれる現在」"
     },
     "3003041": {
-        "1": "mostericon/Monster_3003040.png",
+        "1": "monsterfigure/Monster_3003040.png",
         "2": [
             "Phys",
             "Fire",
@@ -7220,7 +7220,7 @@ var _monster = {
         "4": "「調律された未来」"
     },
     "3003031": {
-        "1": "mostericon/Monster_3003030.png",
+        "1": "monsterfigure/Monster_3003030.png",
         "2": [
             "Fire",
             "Elec",

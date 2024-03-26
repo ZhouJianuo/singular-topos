@@ -7126,7 +7126,7 @@ var _monster = {
         "4": "「10인의 스톤하트」 모략의 사금"
     },
     "3003050": {
-        "1": "mostericon/Monster_3003050.png",
+        "1": "monsterfigure/Monster_3003050.png",
         "2": [
             "Phys",
             "Fire",
@@ -7146,7 +7146,7 @@ var _monster = {
         "4": "기억의 영역 밈 「무엇이 거울 속에 숨어 있는가」"
     },
     "3003030": {
-        "1": "mostericon/Monster_3003030.png",
+        "1": "monsterfigure/Monster_3003030.png",
         "2": [
             "Fire",
             "Elec",
@@ -7156,7 +7156,7 @@ var _monster = {
         "4": "「새장에 갇힌 과거」"
     },
     "3003040": {
-        "1": "mostericon/Monster_3003040.png",
+        "1": "monsterfigure/Monster_3003040.png",
         "2": [
             "Phys",
             "Fire",
@@ -7175,7 +7175,7 @@ var _monster = {
         "4": "기억의 영역 밈 「어디에나 존재하는 시선」"
     },
     "3012040": {
-        "1": "mostericon/Monster_3012040.png",
+        "1": "monsterfigure/Monster_3012040.png",
         "2": [
             "Phys",
             "Fire"
@@ -7194,13 +7194,13 @@ var _monster = {
         "4": "기억의 영역 밈 「산산조각난 내 마음」"
     },
     "3004010": {
-        "1": "mostericon/BattleEvent_Marionette.png",
+        "1": "monsterfigure/Monster_Marionette.png",
         "2": [],
         "3": 2,
         "4": "과거, 현재, 영원히 존재하는 연극"
     },
     "3003051": {
-        "1": "mostericon/Monster_3003050.png",
+        "1": "monsterfigure/Monster_3003050.png",
         "2": [
             "Phys",
             "Fire",
@@ -7210,7 +7210,7 @@ var _monster = {
         "4": "「축제에 취한 현재」"
     },
     "3003041": {
-        "1": "mostericon/Monster_3003040.png",
+        "1": "monsterfigure/Monster_3003040.png",
         "2": [
             "Phys",
             "Fire",
@@ -7220,7 +7220,7 @@ var _monster = {
         "4": "「같은 음률의 미래」"
     },
     "3003031": {
-        "1": "mostericon/Monster_3003030.png",
+        "1": "monsterfigure/Monster_3003030.png",
         "2": [
             "Fire",
             "Elec",

@@ -7126,7 +7126,7 @@ var _monster = {
         "4": "Ten Stonehearts: Aventurine of Stratagems"
     },
     "3003050": {
-        "1": "mostericon/Monster_3003050.png",
+        "1": "monsterfigure/Monster_3003050.png",
         "2": [
             "Phys",
             "Fire",
@@ -7146,7 +7146,7 @@ var _monster = {
         "4": "Memory Zone Meme \"Something In The Mirror\""
     },
     "3003030": {
-        "1": "mostericon/Monster_3003030.png",
+        "1": "monsterfigure/Monster_3003030.png",
         "2": [
             "Fire",
             "Elec",
@@ -7156,7 +7156,7 @@ var _monster = {
         "4": "\"Past Confined and Caged\""
     },
     "3003040": {
-        "1": "mostericon/Monster_3003040.png",
+        "1": "monsterfigure/Monster_3003040.png",
         "2": [
             "Phys",
             "Fire",
@@ -7175,7 +7175,7 @@ var _monster = {
         "4": "Memory Zone Meme \"Allseer\""
     },
     "3012040": {
-        "1": "mostericon/Monster_3012040.png",
+        "1": "monsterfigure/Monster_3012040.png",
         "2": [
             "Phys",
             "Fire"
@@ -7194,13 +7194,13 @@ var _monster = {
         "4": "Memory Zone Meme \"Heartbreaker\""
     },
     "3004010": {
-        "1": "mostericon/BattleEvent_Marionette.png",
+        "1": "monsterfigure/Monster_Marionette.png",
         "2": [],
         "3": 2,
         "4": "The Past, Present, and Eternal Show"
     },
     "3003051": {
-        "1": "mostericon/Monster_3003050.png",
+        "1": "monsterfigure/Monster_3003050.png",
         "2": [
             "Phys",
             "Fire",
@@ -7210,7 +7210,7 @@ var _monster = {
         "4": "\"Present Inebriated in Revelry\""
     },
     "3003041": {
-        "1": "mostericon/Monster_3003040.png",
+        "1": "monsterfigure/Monster_3003040.png",
         "2": [
             "Phys",
             "Fire",
@@ -7220,7 +7220,7 @@ var _monster = {
         "4": "\"Tomorrow in Harmonious Chords\""
     },
     "3003031": {
-        "1": "mostericon/Monster_3003030.png",
+        "1": "monsterfigure/Monster_3003030.png",
         "2": [
             "Fire",
             "Elec",

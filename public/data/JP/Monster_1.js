@@ -7141,6 +7141,7 @@ var _monster = {
         "Rank": "MinionLv2",
         "Camp": 10,
         "Icon": "mostericon/Monster_3002020.png",
+        "Figure": "monsterfigure/Monster_3002020.png",
         "AllSkills": [
             300202001,
             300202002,
@@ -7709,6 +7710,7 @@ var _monster = {
         "Rank": "Elite",
         "Camp": 10,
         "Icon": "mostericon/Monster_3003030.png",
+        "Figure": "monsterfigure/Monster_3003030.png",
         "AllSkills": [
             300303001,
             300303002,
@@ -7763,6 +7765,7 @@ var _monster = {
         "Rank": "Elite",
         "Camp": 0,
         "Icon": "mostericon/Monster_3003030.png",
+        "Figure": "monsterfigure/Monster_3003030.png",
         "AllSkills": [
             300303101,
             300303102,
@@ -7816,6 +7819,7 @@ var _monster = {
         "Rank": "Elite",
         "Camp": 10,
         "Icon": "mostericon/Monster_3003040.png",
+        "Figure": "monsterfigure/Monster_3003040.png",
         "AllSkills": [
             300304001,
             300304002,
@@ -7871,6 +7875,7 @@ var _monster = {
         "Rank": "Elite",
         "Camp": 0,
         "Icon": "mostericon/Monster_3003040.png",
+        "Figure": "monsterfigure/Monster_3003040.png",
         "AllSkills": [
             300304101,
             300304102,
@@ -7925,6 +7930,7 @@ var _monster = {
         "Rank": "Elite",
         "Camp": 10,
         "Icon": "mostericon/Monster_3003050.png",
+        "Figure": "monsterfigure/Monster_3003050.png",
         "AllSkills": [
             300305001,
             300305002,
@@ -7979,6 +7985,7 @@ var _monster = {
         "Rank": "Elite",
         "Camp": 0,
         "Icon": "mostericon/Monster_3003050.png",
+        "Figure": "monsterfigure/Monster_3003050.png",
         "AllSkills": [
             300305101,
             300305102,
@@ -8023,6 +8030,7 @@ var _monster = {
         "Rank": "LittleBoss",
         "Camp": 10,
         "Icon": "mostericon/BattleEvent_Marionette.png",
+        "Figure": "monsterfigure/Monster_Marionette.png",
         "AllSkills": [
             300401001,
             300401002,
@@ -8316,6 +8324,7 @@ var _monster = {
         "Rank": "MinionLv2",
         "Camp": 11,
         "Icon": "mostericon/Monster_3012040.png",
+        "Figure": "monsterfigure/Monster_3012040.png",
         "AllSkills": [
             301204001,
             301204003
@@ -8973,6 +8982,7 @@ var _monster = {
         "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "mostericon/Monster_3022010.png",
+        "Figure": "monsterfigure/Monster_3022010.png",
         "AllSkills": [
             302201001,
             302201002
@@ -9454,6 +9464,7 @@ var _monster = {
         "Rank": "BigBoss",
         "Camp": 5,
         "Icon": "mostericon/Monster_3025010.png",
+        "Figure": "monsterfigure/Monster_3025010.png",
         "AllSkills": [
             302501001,
             302501002,
@@ -9518,6 +9529,7 @@ var _monster = {
         "Rank": "BigBoss",
         "Camp": 0,
         "Icon": "mostericon/Monster_3025010.png",
+        "Figure": "monsterfigure/Monster_3025010.png",
         "AllSkills": [
             302501101,
             302501102,
@@ -9525,7 +9537,8 @@ var _monster = {
             302501104,
             302501105,
             302501107
-        ]
+        ],
+        "New": true
     },
     "3025012": {
         "_id": 3025012,
@@ -9599,6 +9612,7 @@ var _monster = {
         "Rank": "BigBoss",
         "Camp": 0,
         "Icon": "mostericon/Monster_3025010.png",
+        "Figure": "monsterfigure/Monster_3025010.png",
         "AllSkills": [
             302501201,
             302501202,
@@ -14091,6 +14105,7 @@ var _monsterlist = [
     3002020,
     3012040,
     3025010,
+    3025011,
     3022010,
     1000042,
     1002011,
@@ -14761,7 +14776,6 @@ var _monsterlist = [
     3024022,
     302402201,
     302501001,
-    3025011,
     3025012,
     8001010,
     800101001,

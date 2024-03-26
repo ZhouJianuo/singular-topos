@@ -7126,7 +7126,7 @@ var _monster = {
         "4": "「石心十人」诡弈砂金"
     },
     "3003050": {
-        "1": "mostericon/Monster_3003050.png",
+        "1": "monsterfigure/Monster_3003050.png",
         "2": [
             "Phys",
             "Fire",
@@ -7146,7 +7146,7 @@ var _monster = {
         "4": "忆域迷因「何物藏于镜中」"
     },
     "3003030": {
-        "1": "mostericon/Monster_3003030.png",
+        "1": "monsterfigure/Monster_3003030.png",
         "2": [
             "Fire",
             "Elec",
@@ -7156,7 +7156,7 @@ var _monster = {
         "4": "「身陷樊笼的往昔」"
     },
     "3003040": {
-        "1": "mostericon/Monster_3003040.png",
+        "1": "monsterfigure/Monster_3003040.png",
         "2": [
             "Phys",
             "Fire",
@@ -7175,7 +7175,7 @@ var _monster = {
         "4": "忆域迷因「视线无处不在」"
     },
     "3012040": {
-        "1": "mostericon/Monster_3012040.png",
+        "1": "monsterfigure/Monster_3012040.png",
         "2": [
             "Phys",
             "Fire"
@@ -7194,13 +7194,13 @@ var _monster = {
         "4": "忆域迷因「我心支离破碎」"
     },
     "3004010": {
-        "1": "mostericon/BattleEvent_Marionette.png",
+        "1": "monsterfigure/Monster_Marionette.png",
         "2": [],
         "3": 2,
         "4": "昔在、今在、永在的剧目"
     },
     "3003051": {
-        "1": "mostericon/Monster_3003050.png",
+        "1": "monsterfigure/Monster_3003050.png",
         "2": [
             "Phys",
             "Fire",
@@ -7210,7 +7210,7 @@ var _monster = {
         "4": "「醉于盛会的此刻」"
     },
     "3003041": {
-        "1": "mostericon/Monster_3003040.png",
+        "1": "monsterfigure/Monster_3003040.png",
         "2": [
             "Phys",
             "Fire",
@@ -7220,7 +7220,7 @@ var _monster = {
         "4": "「同音共律的来日」"
     },
     "3003031": {
-        "1": "mostericon/Monster_3003030.png",
+        "1": "monsterfigure/Monster_3003030.png",
         "2": [
             "Fire",
             "Elec",

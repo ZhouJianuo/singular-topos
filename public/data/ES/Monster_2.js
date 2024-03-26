@@ -25675,6 +25675,7 @@ var _monster_2 = {
         "Rank": "Elite",
         "Camp": 10,
         "Icon": "mostericon/Monster_3003050.png",
+        "Figure": "monsterfigure/Monster_3003050.png",
         "AllSkills": [
             300305001,
             300305002,
@@ -25719,6 +25720,7 @@ var _monster_2 = {
         "Rank": "LittleBoss",
         "Camp": 10,
         "Icon": "mostericon/BattleEvent_Marionette.png",
+        "Figure": "monsterfigure/Monster_Marionette.png",
         "AllSkills": [
             300401001,
             300401002,
@@ -27422,6 +27424,7 @@ var _monster_2 = {
         "Rank": "BigBoss",
         "Camp": 5,
         "Icon": "mostericon/Monster_3025010.png",
+        "Figure": "monsterfigure/Monster_3025010.png",
         "AllSkills": [
             302501001,
             302501002,
