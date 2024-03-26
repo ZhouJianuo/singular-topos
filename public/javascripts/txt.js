@@ -21,7 +21,8 @@ var txt = {
         "CH": "<p><b>【切换页面】</b></p>",
         "EN": "<p><b>[ Pages ]</b></p>",
     },
-    "Home_Lang": "<a class='translate_' href='?lang=CH'><b>中文</b></a> | <a class='translate_' href='?lang=EN'><b>English</b></a> | <a class='translate_' href='?lang=JP'><b>日本語</b></a> | <a class='translate_' href='?lang=KR'><b>한국인</b></a> | <a class='translate_' href='?lang=RU'><b>Русский</b></a> | <a class='translate_' href='?lang=FR'><b>Français</b></a> | <a class='translate_' href='?lang=DE'><b>Deutsch</b></a> | <a class='translate_' href='?lang=ES'><b>Español</b></a> | <a class='translate_' href='?lang=PT'><b>Português</b></a> | <a class='translate_' href='?lang=ID'><b>Indonesia</b></a> | <a class='translate_' href='?lang=VI'><b>Tiếng Việt</b></a> | <a class='translate_' href='?lang=TH'><b>แบบไทย</b></a>",
+    "Home_Lang_": "<a class='translate_' href='?lang=CH'><b>中文</b></a> | <a class='translate_' href='?lang=EN'><b>English</b></a> | <a class='translate_' href='?lang=JP'><b>日本語</b></a> | <a class='translate_' href='?lang=KR'><b>한국인</b></a> | <a class='translate_' href='?lang=RU'><b>Русский</b></a> | <a class='translate_' href='?lang=FR'><b>Français</b></a> | <a class='translate_' href='?lang=DE'><b>Deutsch</b></a> | <a class='translate_' href='?lang=ES'><b>Español</b></a> | <a class='translate_' href='?lang=PT'><b>Português</b></a> | <a class='translate_' href='?lang=ID'><b>Indonesia</b></a> | <a class='translate_' href='?lang=VI'><b>Tiếng Việt</b></a> | <a class='translate_' href='?lang=TH'><b>แบบไทย</b></a>",
+    "Home_Lang": "<a class='translate_' href='?lang=CH'><b>中文</b></a> | <a class='translate_' href='?lang=EN'><b>English</b></a> | <a class='translate_' href='?lang=JP'><b>日本語</b></a> | <a class='translate_' href='?lang=KR'><b>한국인</b></a>",
     "Lang": {
         "CH": "<a href='?lang=EN'>Switch to English</a>",
         "EN": "<a href='?lang=CH'>切换至中文</a>"
