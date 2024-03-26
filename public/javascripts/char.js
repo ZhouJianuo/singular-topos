@@ -328,7 +328,7 @@ $(function () {
                                 },
                             },
                             {
-                                p: t.Date + '<br><b style="font-size:1em;color:#f29d38;">' + ((lang == 'CH') ? '玉衡杯数据库 ' : 'HomDGCat Wiki ') + ((lang == 'CH') ? t.Ver.replaceAll('Live', '正式服') : t.Ver) + '</b>',
+                                p: t.Date + '<br><color style="font-size:1em;color:#f29d38;">' + ((lang == 'CH') ? '玉衡杯数据库 <b>' : 'HomDGCat Wiki <b>') + ((lang == 'CH') ? t.Ver.replaceAll('Live', '正式服') : t.Ver) + '</b></color>',
                                 style: {
                                     'font-size': '0.7em',
                                     'font-weight': 'normal',
