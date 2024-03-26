@@ -3869,7 +3869,7 @@ var _hidden = [
         "Notes": [
             {
                 "Title": "Limited 5★",
-                "Desc": "When casting an Ultimate on an enemy, Break Effect and Crit Rate are increased, lasting for some turns."
+                "Desc": "(Updated) Before dealing Ultimate DMG to an enemy, Break Effect and Crit Rate are increased, lasting for some turns."
             },
             {
                 "Title": "Limited 5★",
