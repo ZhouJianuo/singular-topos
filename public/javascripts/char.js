@@ -2155,11 +2155,11 @@ $(function () {
                                                 {
                                                     img: imgpre + "images/" +(_item[mats[0] - 1] ? _item[mats[0]].Icon : 'itemicon/Icon_Testmaterial01.png'),
                                                     a: {
-                                                        'data-id': _item[mats[0] - 1] ? mats[0] : '???'
+                                                        'data-id': mats[0]
                                                     }
                                                 },
                                                 {
-                                                    p: _item[mats[0]].Name,
+                                                    p: _item[mats[0] - 1] ? _item[mats[0]].Name : '???',
                                                     style: {
                                                         'font-weight': 'bold'
                                                     }
