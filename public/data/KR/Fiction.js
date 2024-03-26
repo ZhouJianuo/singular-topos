@@ -7341,3 +7341,7 @@ var _monster = {
         "3": 1
     }
 }
+
+var _affix = {
+    "200401006": "Pure Fiction Adjusted Kafka: Weakness Changed"
+}

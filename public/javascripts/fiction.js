@@ -458,6 +458,7 @@ $(function () {
 
     function Wave(i, w, stage_lv, stage_hlg) {
         var monsters = []
+        var affix = []
         w.Monsters.forEach(function (t) {
             var me = _monster[t.ID]
             monsters.push({
@@ -524,6 +525,9 @@ $(function () {
                     'data-eg': w.EliteGroup ? w.EliteGroup.ID : 1
                 }
             })
+            if (_affix[t.ID]) {
+                affix.push(_affix[t.ID])
+            }
         })
         var temp = {
             div: [
@@ -534,6 +538,16 @@ $(function () {
                 {
                     div: monsters,
                     class: 'wave_monsters'
+                },
+                {
+                    p: `[[.]]`,
+                    style: {
+                        'text-align': 'center',
+                        'font-size': '0.8em',
+                        'font-weight': 'bold'
+                    },
+                    data: affix,
+                    when: affix.length,
                 }
             ],
             class: 'wave_wrap'
