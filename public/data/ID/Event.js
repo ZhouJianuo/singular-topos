@@ -14,7 +14,7 @@ var _event = [
     {
         "_id": 11451402201,
         "Name": "Fate's Atlas",
-        "DescText": "As the story unfolds, you will have the chance to progress the story from other characters' POV. ",
+        "Desc": "As the story unfolds, you will have the chance to progress the story from other characters' POV. ",
         "Ver": "2.2",
         "Tutorial": [
             321301,
