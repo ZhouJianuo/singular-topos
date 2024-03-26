@@ -48,7 +48,7 @@ $(function() {
         }
     ]);
 
-    $('h3 .lang').html(txt.Home_Lang)
+    $('h3 .lang').html(txt.Home_Lang_)
     $('.lang').hide()
 
     $('container').render({
@@ -271,7 +271,7 @@ $(function() {
                 renderAbout();
                 break;
         }
-        $('h3 .lang').html(txt.Home_Lang)
+        $('h3 .lang').html(txt.Home_Lang_)
     })
 
     $('body').on('click', '.didyouknow', function() {
