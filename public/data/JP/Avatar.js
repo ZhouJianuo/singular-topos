@@ -3837,12 +3837,7 @@ var _hidden = [
         "Date": "2024/03/26",
         "Ver": "2.2v1",
         "Hidden": true,
-        "Notes": [
-            {
-                "Title": "Phase 1",
-                "Desc": ""
-            }
-        ]
+        "Notes": []
     },
     {
         "Name": "2.3+ Relics",
@@ -3874,11 +3869,11 @@ var _hidden = [
         "Notes": [
             {
                 "Title": "Limited 5★",
-                "Desc": "Before Ultimate DMG hits an opponent, Break Effect and Crit Rate are increased, lasting for some turns."
+                "Desc": "When casting an Ultimate on an enemy, Break Effect and Crit Rate are increased, lasting for some turns."
             },
             {
                 "Title": "Limited 5★",
-                "Desc": "When the wearer performs a follow-up attack, for every Y of the wearer's ATK that exceeds X, this follow-up attack's DMG Boost is increased by Z.<br>Upon entering battle or after using a Basic ATK, the DMG dealt by the wearer's Ultimate and follow-up attacks will ignore some of the target's DEF, lasting for some turns."
+                "Desc": "When the wearer performs a follow-up attack, for every ``Y` of the wearer's ATK that exceeds ``X`, this follow-up attack's DMG dealt is increased by ``Z%`.<br>Upon entering battle or after using a Basic ATK, the DMG dealt by the wearer's Ultimate and follow-up attacks will ignore some of the target's DEF, lasting for some turns."
             },
             {
                 "Title": "Simulated Universe Shop 5★",
