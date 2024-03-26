@@ -488,7 +488,12 @@ $(function () {
                         },
                         {
                             img: no_skillicon.includes(t._id) ? (imgpre + `images/avatarshopicon/999.png`) : (imgpre + `images/${t.Icon}.png`),
-                            class: 'avatar-head'
+                            class: 'avatar-head',
+                            event: {
+                                error: function (d) {
+                                    $(d.sender).remove()
+                                }
+                            }
                         },
                         {
                             p: t.Name,
@@ -644,7 +649,12 @@ $(function () {
                         },
                         {
                             img: imgpre + `images/lightconemediumicon/${t.Pic}`,
-                            class: 'weapon-head'
+                            class: 'weapon-head',
+                            event: {
+                                error: function (d) {
+                                    $(d.sender).remove()
+                                }
+                            }
                         },
                         {
                             div: [
@@ -722,6 +732,11 @@ $(function () {
                 div: [
                     {
                         img: imgpre + 'images/itemfigures/' + t.Icon,
+                        event: {
+                            error: function (d) {
+                                $(d.sender).remove()
+                            }
+                        },
                         class: 'icon'
                     },
                     {
@@ -895,6 +910,11 @@ $(function () {
                                 {
                                     img: no_skillicon.includes(this_avatar._id) ? (imgpre + 'images/avatardrawcard/999.png') : (imgpre + 'images/' + this_avatar.Pic),
                                     class: 'gacha',
+                                    event: {
+                                        error: function (d) {
+                                            $(d.sender).remove()
+                                        }
+                                    }
                                 },
                                 {
                                     div: [
@@ -1845,15 +1865,15 @@ $(function () {
                                 img: imgpre + 'images/rank/_dependencies/textures/' + this_avatar._id + '/' + this_avatar._id + '_Rank_' + (i + 1) + '.png',
                                 style: {
                                     width: '100%'
+                                },
+                                event: {
+                                    error: function (d) {
+                                        $(d.sender).remove()
+                                    }
                                 }
                             },
                             class: 'rank_up',
-                            when: (this_avatar.Rarity != undefined) && !no_skillicon.includes(this_avatar._id),
-                            event: {
-                                error: function (d) {
-                                    $(d.sender).remove()
-                                }
-                            }
+                            when: (this_avatar.Rarity != undefined) && !no_skillicon.includes(this_avatar._id)
                         },
                         {
                             div: [
@@ -2024,6 +2044,11 @@ $(function () {
                                     {
                                         div: {
                                             img: imgpre + 'images/lightconemaxfigures/' + this_weapon.Pic,
+                                            event: {
+                                                error: function (d) {
+                                                    $(d.sender).remove()
+                                                }
+                                            }
                                         },
                                         class: 'weapon_left'
                                     },
@@ -2281,6 +2306,11 @@ $(function () {
                         div: [
                             {
                                 img: imgpre + 'images/relicfigures/' + t.Icon,
+                                event: {
+                                    error: function (d) {
+                                        $(d.sender).remove()
+                                    }
+                                },
                                 class: 'icon'
                             },
                             {
