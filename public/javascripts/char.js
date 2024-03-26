@@ -1,6 +1,6 @@
 $(function () {
 
-    var no_skillicon = [8005, 8006]
+    var no_skillicon = []
 
     var imgpre = $('#IMGPRE').val()
     var avid = $('#AVID').val()

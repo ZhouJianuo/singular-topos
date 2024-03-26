@@ -183,7 +183,12 @@ $(function () {
                             },
                             {
                                 img: imgpre + `images/${t.Figure}`,
-                                class: 'avatar-head'
+                                class: 'avatar-head',
+                                event: {
+                                    error: function (d) {
+                                        $(d.sender).remove()
+                                    }
+                                }
                             },
                             {
                                 div: [
@@ -375,6 +380,11 @@ $(function () {
                                     div: {
                                         img: imgpre + 'images/' + cur_mon.Figure,
                                         class: 'figure',
+                                        event: {
+                                            error: function (d) {
+                                                $(d.sender).remove()
+                                            }
+                                        },
                                     },
                                     when: cur_mon.Figure != undefined,
                                     style: {
@@ -387,6 +397,11 @@ $(function () {
                                     div: {
                                         img: imgpre + 'images/' + cur_mon.Icon,
                                         height: '80px',
+                                        event: {
+                                            error: function (d) {
+                                                $(d.sender).remove()
+                                            }
+                                        }
                                     },
                                     when: cur_mon.Figure == undefined,
                                     style: {
