@@ -14,6 +14,7 @@ app.get('/', (req, res) => {
     result.game = game;
     result.lang = lang;
     result.title = 'HomDGCat Wiki'
+    result.imgpre = ''
     res.render('home', result);
 });
 
@@ -23,6 +24,7 @@ app.get('/en', (req, res) => {
     result.game = game;
     result.lang = lang;
     result.title = 'HomDGCat Wiki'
+    result.imgpre = '../'
     res.render('home', result);
 });
 
@@ -32,6 +34,7 @@ app.get('/gi', (req, res) => {
     result.game = 'GI';
     result.lang = lang;
     result.title = 'HomDGCat Wiki'
+    result.imgpre = '../'
     res.render('home', result);
 });
 
@@ -41,6 +44,7 @@ app.get('/sr', (req, res) => {
     result.game = 'SR';
     result.lang = lang;
     result.title = 'HomDGCat Wiki'
+    result.imgpre = '../'
     res.render('home', result);
 });
 

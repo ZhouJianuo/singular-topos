@@ -30,7 +30,7 @@ var computer_ = {
             "EN": "<p style='margin-top:13px;color:#df903b;cursor:pointer;'><b>[ Pages ]</b></p>",
             "RU": "<p style='margin-top:13px;color:#df903b;cursor:pointer;'><b>[ На главную ]</b></p>"
         },
-        "Translate_": "<a class='translate_' href='?lang=CH'><b>中文</b></a> | <a class='translate_' href='?lang=EN'><b>English</b></a> | <a class='translate_' href='?lang=JP'><b>日本語</b></a> | <a class='translate_' href='?lang=KR'><b>한국인</b></a> | <a class='translate_' href='?lang=RU'><b>Русский</b></a> | <a class='translate_' href='?lang=FR'><b>Français</b></a> | <a class='translate_' href='?lang=DE'><b>Deutsch</b></a> | <a class='translate_' href='?lang=SP'><b>Español</b></a> | <a class='translate_' href='?lang=PT'><b>Português</b></a>",
+        "Translate_": "<a class='translate_' href='?lang=CH'><b>中文</b></a> | <a class='translate_' href='?lang=EN'><b>English</b></a> | <a class='translate_' href='?lang=JP'><b>日本語</b></a> | <a class='translate_' href='?lang=KR'><b>한국인</b></a> | <a class='translate_' href='?lang=RU'><b>Русский</b></a> | <a class='translate_' href='?lang=FR'><b>Français</b></a> | <a class='translate_' href='?lang=DE'><b>Deutsch</b></a> | <a class='translate_' href='?lang=ES'><b>Español</b></a> | <a class='translate_' href='?lang=PT'><b>Português</b></a>",
         "Abyss_Reminder": {
             "CH": "<color style='color:#0066FF;'>玉衡杯数据库 abyss.wiki</color>",
             "EN": "<color style='color:#0066FF;'>homdgcat.wiki | t.me/homdgcat</color>",

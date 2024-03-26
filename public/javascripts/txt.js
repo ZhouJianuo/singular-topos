@@ -21,7 +21,7 @@ var txt = {
         "CH": "<p><b>【切换页面】</b></p>",
         "EN": "<p><b>[ Pages ]</b></p>",
     },
-    "Home_Lang": "<a class='translate_' href='?lang=CH'><b>中文</b></a> | <a class='translate_' href='?lang=EN'><b>English</b></a> | <a class='translate_' href='?lang=JP'><b>日本語</b></a> | <a class='translate_' href='?lang=KR'><b>한국인</b></a> | <a class='translate_' href='?lang=RU'><b>Русский</b></a> | <a class='translate_' href='?lang=FR'><b>Français</b></a> | <a class='translate_' href='?lang=DE'><b>Deutsch</b></a> | <a class='translate_' href='?lang=SP'><b>Español</b></a> | <a class='translate_' href='?lang=PT'><b>Português</b></a>",
+    "Home_Lang": "<a class='translate_' href='?lang=CH'><b>中文</b></a> | <a class='translate_' href='?lang=EN'><b>English</b></a> | <a class='translate_' href='?lang=JP'><b>日本語</b></a> | <a class='translate_' href='?lang=KR'><b>한국인</b></a> | <a class='translate_' href='?lang=RU'><b>Русский</b></a> | <a class='translate_' href='?lang=FR'><b>Français</b></a> | <a class='translate_' href='?lang=DE'><b>Deutsch</b></a> | <a class='translate_' href='?lang=ES'><b>Español</b></a> | <a class='translate_' href='?lang=PT'><b>Português</b></a> | <a class='translate_' href='?lang=ID'><b>Indonesia</b></a> | <a class='translate_' href='?lang=VI'><b>Tiếng Việt</b></a> | <a class='translate_' href='?lang=TH'><b>แบบไทย</b></a>",
     "Lang": {
         "CH": "<a href='?lang=EN'>Switch to English</a>",
         "EN": "<a href='?lang=CH'>切换至中文</a>"
@@ -644,7 +644,7 @@ function popLinks(l) {
         width: '95%',
         template: [
             {
-                h3: txt.Title[l],
+                h3: txt.Title[l] ? txt.Title[l] : txt.Title['EN'],
                 style: {
                     color: '#27363E',
                     'margin-top': '15px',
@@ -653,7 +653,7 @@ function popLinks(l) {
                 }
             },
             {
-                p: txt.ChooseTitle[l],
+                p: txt.ChooseTitle[l] ? txt.ChooseTitle[l] : txt.ChooseTitle['EN'],
                 style: {
                     color: '#27363E',
                     'margin-top': '-28px',
@@ -672,7 +672,9 @@ function popLinks(l) {
                                     return d.data.Link + '?lang=' + l
                                 },
                                 t: {
-                                    span: `[[Name/${l}]]`,
+                                    span: function (j) {
+                                        return j.data.Name[l] ? j.data.Name[l] : j.data.Name.EN
+                                    },
                                     style: {
                                         'font-size': '19px',
                                         'margin': 'auto'

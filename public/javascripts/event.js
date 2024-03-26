@@ -10,7 +10,7 @@ $(function () {
 
     $('h3 .title').html(txt.Title[lang] + "<color style='font-size: 28px;'><br><b>" + VER_SR + "</b></color>")
     $('h3 .subtitle').html(txt.Subtitle[lang]);
-    $('h3 .lang').html(txt.Lang[lang])
+    $('h3 .lang').html(txt.Home_Lang)
     $('h3 .lang').hide()
     $('h3 .links').render([
         {
@@ -24,7 +24,7 @@ $(function () {
     ]);
 
     $('body').on('click', '._menu_', function () {
-        popLinks(lang)
+        popLinks(lang3)
     })
 
     $('body').on('click', '._subtitle', function () {
@@ -42,7 +42,7 @@ $(function () {
     })
 
     let script_computer = document.createElement('script')
-    script_computer.src = '/data/' + lang2 + '/Event.js'
+    script_computer.src = '/data/' + lang3 + '/Event.js'
     document.head.append(script_computer)
     script_computer.onload = begin
 

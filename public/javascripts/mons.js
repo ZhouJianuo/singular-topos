@@ -10,7 +10,7 @@ $(function () {
     $('h3 .title').html(txt.Title[lang] + "<color style='font-size: 28px;'><br><b>" + VER_SR + "</b></color>")
     $('h3 .title').attr('href', (lang == 'CH') ? '/?game=SR' : '/en?game=SR')
     $('h3 .subtitle').html(txt.Subtitle[lang]);
-    $('h3 .lang').html(txt.Lang[lang])
+    $('h3 .lang').html(txt.Home_Lang)
     $('h3 .lang').hide()
     $('h3 .links').render([
         {
@@ -24,7 +24,7 @@ $(function () {
     ]);
 
     $('body').on('click', '._menu_', function () {
-        popLinks(lang)
+        popLinks(lang3)
     })
 
     var EG = $('#EG').val() ? parseInt($('#EG').val()) : 1
@@ -44,21 +44,21 @@ $(function () {
     var m_s = 0
 
     let script_computer = document.createElement('script')
-    script_computer.src = '/data/' + lang2 + '/Monster_1.js'
+    script_computer.src = '/data/' + lang3 + '/Monster_1.js'
     document.head.append(script_computer)
     script_computer.onload = begin
 
     function begin() {
 
         let script_2 = document.createElement('script')
-        script_2.src = '/data/' + lang2 + '/MonsterSkill.js'
+        script_2.src = '/data/' + lang3 + '/MonsterSkill.js'
         document.head.append(script_2)
         script_2.onload = function () {
             m_s = 1
             if (cm != 114514) renderSkill(cm)
             
             let script_computer_2 = document.createElement('script')
-            script_computer_2.src = '/data/' + lang2 + '/Monster_2.js'
+            script_computer_2.src = '/data/' + lang3 + '/Monster_2.js'
             document.head.append(script_computer_2)
             script_computer_2.onload = function () {
                 has_2 = 1

@@ -4,10 +4,10 @@ document.cookie.split(";").forEach(function (c) {
         cookie_lang = c.substring(c.indexOf('lang=') + 5, c.indexOf('lang=') + 7)
     }
 });
-var AVAILABLE_LANG = ["CH", "EN", "RU", "JP", "KR", "DE", "FR", "SP", "PT"]
+var AVAILABLE_LANG = ["CH", "EN", "RU", "JP", "KR", "DE", "FR", "ES", "PT"]
 var is_ru = 0
 var param_lang = $('#LANG').val().toUpperCase()
-if (param_lang == "ES") param_lang = "SP"
+if (param_lang == "SP") param_lang = "ES"
 var store_lang = param_lang
 if (!AVAILABLE_LANG.includes(store_lang)) {
     store_lang = "EN"
@@ -24,3 +24,7 @@ var lang2 = lang3
 if ((lang2 != "CH") && (lang2 != "EN") && (lang2 != "RU")) lang2 = "EN"
 var lang = lang2
 if (lang == "RU") lang = "EN"
+
+// lang3 = actual language
+// lang2 = if not CH EN RU then set to EN
+// lang = if not CH EN then set to EN

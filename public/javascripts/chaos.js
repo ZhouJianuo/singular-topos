@@ -9,7 +9,7 @@ $(function () {
 
     $('h3 .title').html(txt.Title[lang] + "<color style='font-size: 28px;'><br><b>" + VER_SR + "</b></color>")
     $('h3 .subtitle').html(txt.Subtitle[lang]);
-    $('h3 .lang').html(txt.Lang[lang])
+    $('h3 .lang').html(txt.Home_Lang)
     $('h3 .lang').hide()
     $('h3 .links').render([
         {
@@ -23,7 +23,7 @@ $(function () {
     ]);
 
     $('body').on('click', '._menu_', function () {
-        popLinks(lang)
+        popLinks(lang3)
     })
 
     var EG = 1
@@ -38,14 +38,14 @@ $(function () {
     var has_2 = 0
 
     let script_computer = document.createElement('script')
-    script_computer.src = '/data/' + lang2 + '/Chaos_1.js'
+    script_computer.src = '/data/' + lang3 + '/Chaos_1.js'
     document.head.append(script_computer)
     script_computer.onload = begin
 
     function begin() {
 
         let script_computer_2 = document.createElement('script')
-        script_computer_2.src = '/data/' + lang2 + '/Chaos_2.js'
+        script_computer_2.src = '/data/' + lang3 + '/Chaos_2.js'
         document.head.append(script_computer_2)
         script_computer_2.onload = function () {
             has_2 = 1

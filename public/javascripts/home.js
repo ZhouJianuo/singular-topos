@@ -39,9 +39,17 @@ $(function() {
     var GAME = $('#GAME').val() ? $('#GAME').val() : 'GI'
     
     $('h3 .title').html(txt.Title[lang] + "<color style='font-size: 28px;'><br><b>" + VER_GI + " / " + VER_SR + "</b></color>")
+    
+    var imgpre = $('#IMGPRE').val()
+    $('h3 .links').render([
+        {
+            img: imgpre + 'images/translate.png',
+            class: '_translate_'
+        }
+    ]);
 
     $('h3 .lang').html(txt.Home_Lang)
-    $('h3 .lang').show()
+    $('.lang').hide()
 
     $('container').render({
         div: [
