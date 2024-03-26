@@ -181,51 +181,6 @@ var _avatarskill_ = {
                 0.0
             ],
             "Icon": "SkillIcon_1304_Normal"
-        },
-        "v5": {
-            "Name": "直观投注",
-            "MaxLevel": 9,
-            "Type": "普攻",
-            "Tag": "单攻",
-            "Desc": "对指定敌方单体造成等同于砂金<color style='color:#f29e38;'> <b>#1[p]</b> </color>防御力的虚数属性伤害。",
-            "Params": [
-                [
-                    0.5
-                ],
-                [
-                    0.6
-                ],
-                [
-                    0.7
-                ],
-                [
-                    0.8
-                ],
-                [
-                    0.9
-                ],
-                [
-                    1.0
-                ],
-                [
-                    1.1
-                ],
-                [
-                    1.2
-                ],
-                [
-                    1.3
-                ]
-            ],
-            "BP": 1,
-            "SPAdd": 20.0,
-            "AttackType": "Normal",
-            "Stance": [
-                1.0,
-                0.0,
-                0.0
-            ],
-            "Icon": "SkillIcon_1304_Normal"
         }
     },
     "130402": {
@@ -690,114 +645,6 @@ var _avatarskill_ = {
                 0.0
             ],
             "Icon": "SkillIcon_1304_BP"
-        },
-        "v5": {
-            "Name": "繁荣基石",
-            "MaxLevel": 15,
-            "Type": "战技",
-            "Tag": "防御",
-            "Desc": "为我方全体提供能够抵消等同于砂金<color style='color:#f29e38;'> <b>#1[p]</b> </color>防御力+<color style='color:#f29e38;'> <b>#2[f]</b> </color>伤害的护盾【坚垣筹码】，持续 <b>#3[f]</b> 回合。重复获得【坚垣筹码】时，护盾量可以叠加，最高不超过当前战技提供的护盾量的 <b>#4[p]</b> 。",
-            "Params": [
-                [
-                    0.16,
-                    80.0,
-                    3.0,
-                    2.0
-                ],
-                [
-                    0.17,
-                    128.0,
-                    3.0,
-                    2.0
-                ],
-                [
-                    0.18,
-                    164.0,
-                    3.0,
-                    2.0
-                ],
-                [
-                    0.19,
-                    200.0,
-                    3.0,
-                    2.0
-                ],
-                [
-                    0.2,
-                    224.0,
-                    3.0,
-                    2.0
-                ],
-                [
-                    0.208,
-                    248.0,
-                    3.0,
-                    2.0
-                ],
-                [
-                    0.216,
-                    266.0,
-                    3.0,
-                    2.0
-                ],
-                [
-                    0.224,
-                    284.0,
-                    3.0,
-                    2.0
-                ],
-                [
-                    0.232,
-                    302.0,
-                    3.0,
-                    2.0
-                ],
-                [
-                    0.24,
-                    320.0,
-                    3.0,
-                    2.0
-                ],
-                [
-                    0.248,
-                    338.0,
-                    3.0,
-                    2.0
-                ],
-                [
-                    0.256,
-                    356.0,
-                    3.0,
-                    2.0
-                ],
-                [
-                    0.264,
-                    374.0,
-                    3.0,
-                    2.0
-                ],
-                [
-                    0.272,
-                    392.0,
-                    3.0,
-                    2.0
-                ],
-                [
-                    0.28,
-                    410.0,
-                    3.0,
-                    2.0
-                ]
-            ],
-            "BP": -1,
-            "SPAdd": 30.0,
-            "AttackType": "BPSkill",
-            "Stance": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "Icon": "SkillIcon_1304_BP"
         }
     },
     "130403": {
@@ -1129,115 +976,6 @@ var _avatarskill_ = {
             "Icon": "SkillIcon_1304_Ultra"
         },
         "v4": {
-            "Name": "轮盘勋爵",
-            "MaxLevel": 15,
-            "Type": "终结技",
-            "Tag": "单攻",
-            "Desc": "随机获得1到 <b>#1[f]</b> 点【盲注】，随后使指定敌方单体陷入【惊惶】状态，持续 <b>#4[f]</b> 回合，并对指定敌方单体造成等同于砂金<color style='color:#f29e38;'> <b>#2[p]</b> </color>防御力的虚数属性伤害。我方目标击中【惊惶】状态下的敌方目标时，造成的暴击伤害提高<color style='color:#f29e38;'> <b>#3[p]</b> </color>。",
-            "Params": [
-                [
-                    7.0,
-                    1.62,
-                    0.09,
-                    3.0
-                ],
-                [
-                    7.0,
-                    1.728,
-                    0.096,
-                    3.0
-                ],
-                [
-                    7.0,
-                    1.836,
-                    0.102,
-                    3.0
-                ],
-                [
-                    7.0,
-                    1.944,
-                    0.108,
-                    3.0
-                ],
-                [
-                    7.0,
-                    2.052,
-                    0.114,
-                    3.0
-                ],
-                [
-                    7.0,
-                    2.16,
-                    0.12,
-                    3.0
-                ],
-                [
-                    7.0,
-                    2.295,
-                    0.1275,
-                    3.0
-                ],
-                [
-                    7.0,
-                    2.43,
-                    0.135,
-                    3.0
-                ],
-                [
-                    7.0,
-                    2.565,
-                    0.1425,
-                    3.0
-                ],
-                [
-                    7.0,
-                    2.7,
-                    0.15,
-                    3.0
-                ],
-                [
-                    7.0,
-                    2.808,
-                    0.156,
-                    3.0
-                ],
-                [
-                    7.0,
-                    2.916,
-                    0.162,
-                    3.0
-                ],
-                [
-                    7.0,
-                    3.024,
-                    0.168,
-                    3.0
-                ],
-                [
-                    7.0,
-                    3.132,
-                    0.174,
-                    3.0
-                ],
-                [
-                    7.0,
-                    3.24,
-                    0.18,
-                    3.0
-                ]
-            ],
-            "BP": 0,
-            "SPAdd": 5.0,
-            "SPNeed": 110.0,
-            "AttackType": "Ultra",
-            "Stance": [
-                3.0,
-                0.0,
-                0.0
-            ],
-            "Icon": "SkillIcon_1304_Ultra"
-        },
-        "v5": {
             "Name": "轮盘勋爵",
             "MaxLevel": 15,
             "Type": "终结技",
@@ -1835,128 +1573,6 @@ var _avatarskill_ = {
                 0.0
             ],
             "Icon": "SkillIcon_1304_Passive"
-        },
-        "v5": {
-            "Name": "枪口以右",
-            "MaxLevel": 15,
-            "Type": "天赋",
-            "Tag": "弹射",
-            "Desc": "持有【坚垣筹码】的我方单体效果抵抗提高<color style='color:#f29e38;'> <b>#4[p]</b> </color>，并在受到攻击后，使砂金获得1点【盲注】，砂金持有【坚垣筹码】时能抵抗<u>控制类负面状态</u>，该效果在 <b>#5[f]</b> 回合后可再次触发，并在受到攻击后额外获得 <b>#1[f]</b> 点【盲注】。【盲注】达到7点后，砂金消耗7点充能发动 <b>#2[f]</b> 段<u>追加攻击</u>，每段攻击对随机敌方单体造成等同于砂金<color style='color:#f29e38;'> <b>#3[p]</b> </color>防御力的虚数属性伤害，【盲注】上限 <b>10</b> 点。<br><br><color style='color:#f29e38;'><b>追加攻击</b></color><br>满足条件时自动触发的效果，对目标施放1次额外的攻击。<br><br><color style='color:#f29e38;'><b>控制类负面状态</b></color><br>冻结，纠缠，禁锢，支配，怒噪，强烈震荡。",
-            "Params": [
-                [
-                    1.0,
-                    7.0,
-                    0.125,
-                    0.25,
-                    2.0
-                ],
-                [
-                    1.0,
-                    7.0,
-                    0.1375,
-                    0.275,
-                    2.0
-                ],
-                [
-                    1.0,
-                    7.0,
-                    0.15,
-                    0.3,
-                    2.0
-                ],
-                [
-                    1.0,
-                    7.0,
-                    0.1625,
-                    0.325,
-                    2.0
-                ],
-                [
-                    1.0,
-                    7.0,
-                    0.175,
-                    0.35,
-                    2.0
-                ],
-                [
-                    1.0,
-                    7.0,
-                    0.1875,
-                    0.375,
-                    2.0
-                ],
-                [
-                    1.0,
-                    7.0,
-                    0.20312,
-                    0.40625,
-                    2.0
-                ],
-                [
-                    1.0,
-                    7.0,
-                    0.21875,
-                    0.4375,
-                    2.0
-                ],
-                [
-                    1.0,
-                    7.0,
-                    0.23438,
-                    0.46875,
-                    2.0
-                ],
-                [
-                    1.0,
-                    7.0,
-                    0.25,
-                    0.5,
-                    2.0
-                ],
-                [
-                    1.0,
-                    7.0,
-                    0.2625,
-                    0.525,
-                    2.0
-                ],
-                [
-                    1.0,
-                    7.0,
-                    0.275,
-                    0.55,
-                    2.0
-                ],
-                [
-                    1.0,
-                    7.0,
-                    0.2875,
-                    0.575,
-                    2.0
-                ],
-                [
-                    1.0,
-                    7.0,
-                    0.3,
-                    0.6,
-                    2.0
-                ],
-                [
-                    1.0,
-                    7.0,
-                    0.3125,
-                    0.625,
-                    2.0
-                ]
-            ],
-            "BP": 0,
-            "SPAdd": 1.0,
-            "Stance": [
-                0.33333,
-                0.0,
-                0.0
-            ],
-            "Icon": "SkillIcon_1304_Passive"
         }
     },
     "130406": {
@@ -2018,25 +1634,6 @@ var _avatarskill_ = {
             "Icon": "SkillIcon_1304_Normal"
         },
         "v4": {
-            "Name": "攻击",
-            "MaxLevel": 1,
-            "Type": "dev_连携",
-            "Tag": "",
-            "Desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
-            "Params": [
-                []
-            ],
-            "BP": 0,
-            "SPAdd": 0,
-            "AttackType": "MazeNormal",
-            "Stance": [
-                1.0,
-                0.0,
-                0.0
-            ],
-            "Icon": "SkillIcon_1304_Normal"
-        },
-        "v5": {
             "Name": "攻击",
             "MaxLevel": 1,
             "Type": "dev_连携",
@@ -2152,30 +1749,6 @@ var _avatarskill_ = {
                 0.0
             ],
             "Icon": "SkillIcon_1304_Maze"
-        },
-        "v5": {
-            "Name": "红黑之间",
-            "MaxLevel": 1,
-            "Type": "秘技",
-            "Tag": "防御",
-            "Desc": "使用秘技后获得以下1种效果：<br>一定概率获得防御力提高 <b>#1[p]</b> ；<br>大概率获得防御力提高 <b>#2[p]</b> ；<br>小概率获得防御力提高 <b>#3[p]</b> 。<br>重复使用时保留数值最高的效果。<br>下一次战斗开始时，使我方全体提高对应数值的防御力，持续 <b>#4[f]</b> 回合。",
-            "Params": [
-                [
-                    0.24,
-                    0.36,
-                    0.6,
-                    3.0
-                ]
-            ],
-            "BP": 0,
-            "SPAdd": 0,
-            "AttackType": "Maze",
-            "Stance": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "Icon": "SkillIcon_1304_Maze"
         }
     }
 }
@@ -2269,28 +1842,6 @@ var _avatarskilltree_ = {
                 "Desc": "持有【坚垣筹码】的队友发动追加攻击后，为砂金积攒1点【盲注】，该效果最多触发 <b><color style='color:#f29e38'>3.0</color></b> 次，当砂金回合开始时，重置该效果触发次数。砂金在发动天赋的追加攻击后，为我方全体提供能够抵消等同于砂金 <b><color style='color:#f29e38'>7.2%</color></b> 防御力+ <b><color style='color:#f29e38'>96.0</color></b> 伤害的【坚垣筹码】，并为护盾值最低的我方目标额外提供能够抵消等同于砂金 <b><color style='color:#f29e38'>7.2%</color></b> 防御力+ <b><color style='color:#f29e38'>96.0</color></b> 伤害的【坚垣筹码】，持续3回合。",
                 "Icon": "SkillIcon_1304_SkillTree3"
             }
-        },
-        "v5": {
-            "Add": {
-                "DefenceAddedRatio": 0.35,
-                "ImaginaryAddedRatio": 0.144,
-                "StatusResistanceBase": 0.1
-            },
-            "Tree1": {
-                "Name": "杠杆",
-                "Desc": "若砂金的防御力高于 <b><color style='color:#f29e38'>1600.0</color></b> 点，每超过 <b><color style='color:#f29e38'>100</color></b> 点防御力可使自身暴击率提高 <b><color style='color:#f29e38'>2.0%</color></b> ，最多提高 <b><color style='color:#f29e38'>48.0%</color></b> 。",
-                "Icon": "SkillIcon_1304_SkillTree1"
-            },
-            "Tree2": {
-                "Name": "热手",
-                "Desc": "战斗开始时，为我方全体提供护盾【坚垣筹码】，护盾量等同于战技提供的护盾量的 <b><color style='color:#f29e38'>100.0%</color></b> ，持续 <b><color style='color:#f29e38'>3.0</color></b> 回合。",
-                "Icon": "SkillIcon_1304_SkillTree2"
-            },
-            "Tree3": {
-                "Name": "宾果！",
-                "Desc": "持有【坚垣筹码】的队友发动追加攻击后，为砂金积攒1点【盲注】，该效果最多触发 <b><color style='color:#f29e38'>3.0</color></b> 次，当砂金回合开始时，重置该效果触发次数。砂金在发动天赋的追加攻击后，为我方全体提供能够抵消等同于砂金 <b><color style='color:#f29e38'>7.2%</color></b> 防御力+ <b><color style='color:#f29e38'>96.0</color></b> 伤害的【坚垣筹码】，并为护盾值最低的我方目标额外提供能够抵消等同于砂金 <b><color style='color:#f29e38'>7.2%</color></b> 防御力+ <b><color style='color:#f29e38'>96.0</color></b> 伤害的【坚垣筹码】，持续3回合。",
-                "Icon": "SkillIcon_1304_SkillTree3"
-            }
         }
     }
 }
@@ -2316,12 +1867,6 @@ var _avatarrank_ = {
             "Icon": "SkillIcon_1304_Rank1"
         },
         "v4": {
-            "Rank": 1,
-            "Name": "囚徒博弈",
-            "Desc": "持有【坚垣筹码】的我方目标暴击伤害提高 <b><color style='color:#f29e38'>20.0%</color></b> 。施放终结技后，为我方全体提供护盾【坚垣筹码】，护盾量等同于战技提供的护盾量的 <b><color style='color:#f29e38'>100.0%</color></b> ，持续 <b><color style='color:#f29e38'>3.0</color></b> 回合。",
-            "Icon": "SkillIcon_1304_Rank1"
-        },
-        "v5": {
             "Rank": 1,
             "Name": "囚徒博弈",
             "Desc": "持有【坚垣筹码】的我方目标暴击伤害提高 <b><color style='color:#f29e38'>20.0%</color></b> 。施放终结技后，为我方全体提供护盾【坚垣筹码】，护盾量等同于战技提供的护盾量的 <b><color style='color:#f29e38'>100.0%</color></b> ，持续 <b><color style='color:#f29e38'>3.0</color></b> 回合。",
@@ -2352,12 +1897,6 @@ var _avatarrank_ = {
             "Name": "有限理性",
             "Desc": "施放普攻时使目标的全属性抗性降低 <b><color style='color:#f29e38'>12.0%</color></b> ，持续 <b><color style='color:#f29e38'>3.0</color></b> 回合。<br><br>隐藏数值：1.2",
             "Icon": "SkillIcon_1304_Rank2"
-        },
-        "v5": {
-            "Rank": 2,
-            "Name": "有限理性",
-            "Desc": "施放普攻时使目标的全属性抗性降低 <b><color style='color:#f29e38'>12.0%</color></b> ，持续 <b><color style='color:#f29e38'>3.0</color></b> 回合。<br><br>隐藏数值：1.2",
-            "Icon": "SkillIcon_1304_Rank2"
         }
     },
     "130403": {
@@ -2380,12 +1919,6 @@ var _avatarrank_ = {
             "Icon": "SkillIcon_1304_Ultra"
         },
         "v4": {
-            "Rank": 3,
-            "Name": "最高倍率",
-            "Desc": "终结技等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级；普攻等级+1，最多不超过 <b><color style='color:#f29e38'>10</color></b> 级。",
-            "Icon": "SkillIcon_1304_Ultra"
-        },
-        "v5": {
             "Rank": 3,
             "Name": "最高倍率",
             "Desc": "终结技等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级；普攻等级+1，最多不超过 <b><color style='color:#f29e38'>10</color></b> 级。",
@@ -2416,12 +1949,6 @@ var _avatarrank_ = {
             "Name": "意外绞刑",
             "Desc": "触发天赋的追加攻击时，会先使砂金防御力提高 <b><color style='color:#f29e38'>40.0%</color></b> ，持续 <b><color style='color:#f29e38'>2.0</color></b> 回合，并使天赋的追加攻击额外增加 <b><color style='color:#f29e38'>3.0</color></b> 段攻击段数。",
             "Icon": "SkillIcon_1304_Rank4"
-        },
-        "v5": {
-            "Rank": 4,
-            "Name": "意外绞刑",
-            "Desc": "触发天赋的追加攻击时，会先使砂金防御力提高 <b><color style='color:#f29e38'>40.0%</color></b> ，持续 <b><color style='color:#f29e38'>2.0</color></b> 回合，并使天赋的追加攻击额外增加 <b><color style='color:#f29e38'>3.0</color></b> 段攻击段数。",
-            "Icon": "SkillIcon_1304_Rank4"
         }
     },
     "130405": {
@@ -2448,12 +1975,6 @@ var _avatarrank_ = {
             "Name": "模糊厌恶",
             "Desc": "战技等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级；天赋等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级。",
             "Icon": "SkillIcon_1304_BP"
-        },
-        "v5": {
-            "Rank": 5,
-            "Name": "模糊厌恶",
-            "Desc": "战技等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级；天赋等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级。",
-            "Icon": "SkillIcon_1304_BP"
         }
     },
     "130406": {
@@ -2476,12 +1997,6 @@ var _avatarrank_ = {
             "Icon": "SkillIcon_1304_Rank6"
         },
         "v4": {
-            "Rank": 6,
-            "Name": "猎鹿游戏",
-            "Desc": "每有1个队友持有护盾，砂金造成的伤害提高 <b><color style='color:#f29e38'>50.0%</color></b> ，最高不超过 <b><color style='color:#f29e38'>150.0%</color></b> 。",
-            "Icon": "SkillIcon_1304_Rank6"
-        },
-        "v5": {
             "Rank": 6,
             "Name": "猎鹿游戏",
             "Desc": "每有1个队友持有护盾，砂金造成的伤害提高 <b><color style='color:#f29e38'>50.0%</color></b> ，最高不超过 <b><color style='color:#f29e38'>150.0%</color></b> 。",

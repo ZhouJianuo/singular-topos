@@ -4,7 +4,7 @@ var _monsterskill = {
     "100204001": {
         "Key": "Skill01",
         "Name": "Tireless Charge",
-        "Desc": "Deals <1> Physical DMG to a single target, with <color style='color:#f29e38;'>100%</color> Base Chance to reduce the target's DEF by <color style='color:#f29e38;'>50%</color>. Lasts <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Deals <1> Physical DMG to a single target, with @100%# Base Chance to reduce the target's DEF by @50%#. Lasts @2# turns.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -17,7 +17,7 @@ var _monsterskill = {
     "100204101": {
         "Key": "Skill01",
         "Name": "Tireless Charge",
-        "Desc": "Deals <1> Physical DMG to a single target, with <color style='color:#f29e38;'>100%</color> Base Chance to reduce the target's DEF by <color style='color:#f29e38;'>50%</color>. Lasts <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Deals <1> Physical DMG to a single target, with @100%# Base Chance to reduce the target's DEF by @50%#. Lasts @2# turns.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -30,7 +30,7 @@ var _monsterskill = {
     "100205001": {
         "Key": "Skill02",
         "Name": "Piercing Grenade",
-        "Desc": "Deals <1> Physical DMG to a single target, with <color style='color:#f29e38;'>100%</color> Base Chance to cause <b>Bleed</b> to the target for <color style='color:#f29e38;'>2</color> turns. <br>Bleed DoT: <color style='color:#f29e38;'>15% Self Max HP</color> Physical DMG, max <color style='color:#f29e38;'>1</color> stack. <br>(If <color style='color:#f29e38;'>500% Attacker ATK</color> is lower, then Bleed deals DMG according to this instead)",
+        "Desc": "Deals <1> Physical DMG to a single target, with @100%# Base Chance to cause ``Bleed` to the target for @2# turns. \nBleed DoT: @15% Self Max HP# Physical DMG, max @1# stack. \n(If @500% Attacker ATK# is lower, then Bleed deals DMG according to this instead)",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -133,7 +133,7 @@ var _monsterskill = {
     "100202002": {
         "Key": "Skill02",
         "Name": "Inspire",
-        "Desc": "Causes a friendly unit to act immediately, and increase its ATK by <color style='color:#f29e38;'>30%</color> for <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Causes a friendly unit to act immediately, and increase its ATK by @30%# for @2# turns.",
         "SP": 0,
         "Status": [
             210020201
@@ -153,7 +153,7 @@ var _monsterskill = {
     "100203002": {
         "Key": "Skill02",
         "Name": "Covering Support",
-        "Desc": "Provides <color style='color:#f29e38;'>Reinforcement</color> to a friendly unit. When this unit attacks, it performs a follow-up attack that deals <1> Physical DMG to the attacked target and <2> Physical DMG to adjacent units.",
+        "Desc": "Provides @Reinforcement# to a friendly unit. When this unit attacks, it performs a follow-up attack that deals <1> Physical DMG to the attacked target and <2> Physical DMG to adjacent units.",
         "SP": 0,
         "Status": [
             210020301,
@@ -167,7 +167,7 @@ var _monsterskill = {
     "100203003": {
         "Key": "SkillP01",
         "Name": "Covering Support",
-        "Desc": "Provides <color style='color:#f29e38;'>Reinforcement</color> to a friendly unit. When this unit attacks, it performs a follow-up attack that deals minor Physical DMG to the attacked target and units adjacent to the target.",
+        "Desc": "Provides @Reinforcement# to a friendly unit. When this unit attacks, it performs a follow-up attack that deals minor Physical DMG to the attacked target and units adjacent to the target.",
         "SP": 12.0
     },
     "100301001": {
@@ -194,7 +194,7 @@ var _monsterskill = {
     "100301003": {
         "Key": "Skill07",
         "Name": "Shield Reflect",
-        "Desc": "Enters the <color style='color:#f29e38;'>Counter</color> state. When attacked by a single character, acts immediately and casts <color style='color:#f29e38;'>\"Pierce\"</color> on the attacker.",
+        "Desc": "Enters the @Counter# state. When attacked by a single character, acts immediately and casts @\"Pierce\"# on the attacker.",
         "SP": 0,
         "Prepare": [
             100301002
@@ -206,7 +206,7 @@ var _monsterskill = {
     "100301004": {
         "Key": "Skill08",
         "Name": "Reinforcement",
-        "Desc": "Summons <color style='color:#f29e38;'>Silvermane Soldier</color>.",
+        "Desc": "Summons @Silvermane Soldier#.",
         "SP": 0,
         "Summon": [
             1002040
@@ -235,7 +235,7 @@ var _monsterskill = {
     "100301103": {
         "Key": "Skill07",
         "Name": "Shield Reflect",
-        "Desc": "Goes into the <color style='color:#f29e38;'>Counter</color> state. When attacked by a character, gains 1 extra turn and deals <1> Physical DMG to the target.",
+        "Desc": "Goes into the @Counter# state. When attacked by a character, gains 1 extra turn and deals <1> Physical DMG to the target.",
         "SP": 0,
         "Status": [
             210030102
@@ -247,7 +247,7 @@ var _monsterskill = {
     "100301104": {
         "Key": "Skill08",
         "Name": "Reinforcement",
-        "Desc": "Summons <color style='color:#f29e38;'>Silvermane Soldier</color>.",
+        "Desc": "Summons @Silvermane Soldier#.",
         "SP": 0,
         "Summon": [
             1002040
@@ -256,7 +256,7 @@ var _monsterskill = {
     "100301105": {
         "Key": "Skill09",
         "Name": "Rallying",
-        "Desc": "Causes all friendly units except self to act immediately. Increase their ATK by <color style='color:#f29e38;'>50%</color> for <color style='color:#f29e38;'>1</color> turn.",
+        "Desc": "Causes all friendly units except self to act immediately. Increase their ATK by @50%# for @1# turn.",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -320,7 +320,7 @@ var _monsterskill = {
     "100301303": {
         "Key": "Skill07",
         "Name": "Shield Reflect",
-        "Desc": "Enters the <color style='color:#f29e38;'>Counter</color> state: When attacked, acts immediately and uses <color style='color:#f29e38;'>Pierce</color> on the attacker.",
+        "Desc": "Enters the @Counter# state: When attacked, acts immediately and uses @Pierce# on the attacker.",
         "SP": 0,
         "Prepare": [
             100301302
@@ -358,7 +358,7 @@ var _monsterskill = {
     "100402003": {
         "Key": "Skill03",
         "Name": "Garrison Aura Field",
-        "Desc": "Grants a <color style='color:#f29e38;'>Barrier</color> to another friendly unit. The Barrier nullifies all DMG received except for DoT until after the friendly unit is attacked.",
+        "Desc": "Grants a @Barrier# to another friendly unit. The Barrier nullifies all DMG received except for DoT until after the friendly unit is attacked.",
         "SP": 0,
         "Status": [
             210030204
@@ -378,7 +378,7 @@ var _monsterskill = {
     "100402005": {
         "Key": "Skill12",
         "Name": "Siege Support",
-        "Desc": "Summons <color style='color:#f29e38;'>Silvermane Gunners</color> or <color style='color:#f29e38;'>Silvermane Cannoneer</color> and <b>Locks Onto</b> a single target for all attacks.",
+        "Desc": "Summons @Silvermane Gunners# or @Silvermane Cannoneer# and ``Locks Onto` a single target for all attacks.",
         "SP": 0,
         "Status": [
             210030201
@@ -411,7 +411,7 @@ var _monsterskill = {
     "100402103": {
         "Key": "Skill03",
         "Name": "Garrison Aura Field",
-        "Desc": "Grants a <color style='color:#f29e38;'>Barrier</color> to another friendly unit. The Barrier nullifies all DMG received except for DoT until after the friendly unit is attacked.",
+        "Desc": "Grants a @Barrier# to another friendly unit. The Barrier nullifies all DMG received except for DoT until after the friendly unit is attacked.",
         "SP": 0,
         "Status": [
             210030204
@@ -431,7 +431,7 @@ var _monsterskill = {
     "100402105": {
         "Key": "Skill12",
         "Name": "Siege Support",
-        "Desc": "Summons <color style='color:#f29e38;'>Silvermane Gunners</color> and <b>Locks Onto</b> a single target for all attacks.",
+        "Desc": "Summons @Silvermane Gunners# and ``Locks Onto` a single target for all attacks.",
         "SP": 0,
         "Status": [
             210030201
@@ -464,7 +464,7 @@ var _monsterskill = {
     "100402203": {
         "Key": "Skill03",
         "Name": "Garrison Aura Field",
-        "Desc": "Unleashes <color style='color:#f29e38;'>Shield for All</color>: absorb DMG and lock Toughness for all allies. Base Shield Value is <color style='color:#f29e38;'>40% Max HP</color>; for every other summoned ally on field, Shield increases by <color style='color:#f29e38;'>40% Max HP</color>. When Shield is broken, Gepard and Elite Enemies suffer a <color style='color:#f29e38;'>30% Max HP</color> backfire, lower rank enemies suffer a <color style='color:#f29e38;'>50% Max HP</color> backfire",
+        "Desc": "Unleashes @Shield for All#: absorb DMG and lock Toughness for all allies. Base Shield Value is @40% Max HP#; for every other summoned ally on field, Shield increases by @40% Max HP#. When Shield is broken, Gepard and Elite Enemies suffer a @30% Max HP# backfire, lower rank enemies suffer a @50% Max HP# backfire",
         "SP": 0,
         "Status": [
             210040223,
@@ -474,7 +474,7 @@ var _monsterskill = {
     "100402204": {
         "Key": "Skill04",
         "Name": "Frigid Waterfall",
-        "Desc": "Deals <1> Ice DMG to all targets. Increases self DMG dealt by <color style='color:#f29e38;'>12%</color>, stackable.",
+        "Desc": "Deals <1> Ice DMG to all targets. Increases self DMG dealt by @12%#, stackable.",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true,
@@ -488,7 +488,7 @@ var _monsterskill = {
     "100402205": {
         "Key": "Skill05",
         "Name": "Besiege",
-        "Desc": "Gepard <b>Locks On</b> a single target, causing all friendly units to immediately launch coordinated attacks on the target.",
+        "Desc": "Gepard ``Locks On` a single target, causing all friendly units to immediately launch coordinated attacks on the target.",
         "SP": 0,
         "Status": [
             210030201
@@ -504,7 +504,7 @@ var _monsterskill = {
     "100402208": {
         "Key": "Skill08",
         "Name": "Tit for Tat",
-        "Desc": "Goes into the <color style='color:#f29e38;'>Counter</color> state for <color style='color:#f29e38;'>1</color> turn. If attacked by a target while in this state, immediately deal <1> Ice DMG to the attacker. This effect can only be triggered <color style='color:#f29e38;'>1</color> time.",
+        "Desc": "Goes into the @Counter# state for @1# turn. If attacked by a target while in this state, immediately deal <1> Ice DMG to the attacker. This effect can only be triggered @1# time.",
         "SP": 0,
         "Elem": "Ice",
         "Status": [
@@ -517,7 +517,7 @@ var _monsterskill = {
     "100402209": {
         "Key": "SkillP01",
         "Name": "Support",
-        "Desc": "When the phase starts, immediately summons <color style='color:#f29e38;'>Silvermane Soldier</color> or <color style='color:#f29e38;'>Silvermane Cannoneer</color>.",
+        "Desc": "When the phase starts, immediately summons @Silvermane Soldier# or @Silvermane Cannoneer#.",
         "SP": 0,
         "Summon": [
             1002041,
@@ -527,7 +527,7 @@ var _monsterskill = {
     "100402210": {
         "Key": "SkillP01",
         "Name": "Support",
-        "Desc": "When the phase starts, immediately summons <color style='color:#f29e38;'>Silvermane Cannoneer</color>.",
+        "Desc": "When the phase starts, immediately summons @Silvermane Cannoneer#.",
         "SP": 0,
         "Summon": [
             1002030
@@ -536,7 +536,7 @@ var _monsterskill = {
     "100402211": {
         "Key": "SkillP01",
         "Name": "Support",
-        "Desc": "When the phase starts, immediately summons <color style='color:#f29e38;'>Silvermane Lieutenant (Complete)</color>.",
+        "Desc": "When the phase starts, immediately summons @Silvermane Lieutenant (Complete)#.",
         "SP": 0,
         "Summon": [
             1003012
@@ -565,7 +565,7 @@ var _monsterskill = {
     "100402303": {
         "Key": "Skill03",
         "Name": "Garrison Aura Field",
-        "Desc": "Unleashes <color style='color:#f29e38;'>Shield for All</color>: absorb DMG and lock Toughness for all allies. Base Shield Value is <color style='color:#f29e38;'>44.33% Max HP</color> (Phases 1-2) or <color style='color:#f29e38;'>29.26% Max HP</color> (Phase 3); <br>For every other summoned ally on field, Shield increases by 1 Base Value. <br>When Shield is broken, Gepard and Elite Enemies suffer a <color style='color:#f29e38;'>30% Self Max HP</color> backfire, lower rank enemies suffer a <color style='color:#f29e38;'>50% Self Max HP</color> backfire",
+        "Desc": "Unleashes @Shield for All#: absorb DMG and lock Toughness for all allies. Base Shield Value is @44.33% Max HP# (Phases 1-2) or @29.26% Max HP# (Phase 3); \nFor every other summoned ally on field, Shield increases by 1 Base Value. \nWhen Shield is broken, Gepard and Elite Enemies suffer a @30% Self Max HP# backfire, lower rank enemies suffer a @50% Self Max HP# backfire",
         "SP": 0,
         "Status": [
             210040223,
@@ -575,7 +575,7 @@ var _monsterskill = {
     "100402304": {
         "Key": "Skill04",
         "Name": "Frigid Waterfall",
-        "Desc": "Deals <1> Ice DMG to all targets. Increases self DMG dealt by <color style='color:#f29e38;'>12%</color>, stackable.<br>Phase 3 Max HP becomes <color style='color:#f29e38;'>1.5</color> times the original.",
+        "Desc": "Deals <1> Ice DMG to all targets. Increases self DMG dealt by @12%#, stackable.\nPhase 3 Max HP becomes @1.5# times the original.",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true,
@@ -589,7 +589,7 @@ var _monsterskill = {
     "100402305": {
         "Key": "Skill05",
         "Name": "Besiege",
-        "Desc": "Gepard <b>Locks On</b> to a single target, causing all friendly units to immediately attack the target.",
+        "Desc": "Gepard ``Locks On` to a single target, causing all friendly units to immediately attack the target.",
         "SP": 0,
         "Status": [
             210030201
@@ -605,7 +605,7 @@ var _monsterskill = {
     "100402308": {
         "Key": "Skill08",
         "Name": "Tit for Tat",
-        "Desc": "Goes into the <color style='color:#f29e38;'>Counter</color> state for <color style='color:#f29e38;'>1</color> turn. If attacked by a target while in this state, immediately deal <1> Ice DMG to the attacker. This effect can only be triggered <color style='color:#f29e38;'>1</color> time.",
+        "Desc": "Goes into the @Counter# state for @1# turn. If attacked by a target while in this state, immediately deal <1> Ice DMG to the attacker. This effect can only be triggered @1# time.",
         "SP": 0,
         "Status": [
             210040222
@@ -617,7 +617,7 @@ var _monsterskill = {
     "100402309": {
         "Key": "SkillP01",
         "Name": "Support",
-        "Desc": "When the phase starts, immediately summons <color style='color:#f29e38;'>Silvermane Soldier</color> and <color style='color:#f29e38;'>Silvermane Cannoneer</color>.",
+        "Desc": "When the phase starts, immediately summons @Silvermane Soldier# and @Silvermane Cannoneer#.",
         "SP": 0,
         "Summon": [
             1002041,
@@ -627,7 +627,7 @@ var _monsterskill = {
     "100402310": {
         "Key": "SkillP02",
         "Name": "Support",
-        "Desc": "When the phase starts, immediately summons <color style='color:#f29e38;'>Silvermane Cannoneer</color>.",
+        "Desc": "When the phase starts, immediately summons @Silvermane Cannoneer#.",
         "SP": 0,
         "Summon": [
             1002030
@@ -636,7 +636,7 @@ var _monsterskill = {
     "100402311": {
         "Key": "SkillP03",
         "Name": "Support",
-        "Desc": "When the phase starts, immediately summons <color style='color:#f29e38;'>Silvermane Lieutenant (Complete) 1.2 New</color>.",
+        "Desc": "When the phase starts, immediately summons @Silvermane Lieutenant (Complete) 1.2 New#.",
         "SP": 0,
         "Summon": [
             1003013
@@ -667,7 +667,7 @@ var _monsterskill = {
     "100401002": {
         "Key": "Skill02",
         "Name": "Omen of Everlasting Freeze",
-        "Desc": "Summons <color style='color:#f29e38;'>Ice Edges</color>.",
+        "Desc": "Summons @Ice Edges#.",
         "SP": 0,
         "Summon": [
             1002011,
@@ -688,7 +688,7 @@ var _monsterskill = {
     "100401004": {
         "Key": "Skill04",
         "Name": "Hoarfrost of Eternal Isolation",
-        "Desc": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>2</color> turns. <br>Freeze Additional DMG: <2> Ice DMG.",
+        "Desc": "Deals <1> Ice DMG to a single target, with a @100%# Base Chance to ``Freeze` the target for @2# turns. \nFreeze Additional DMG: <2> Ice DMG.",
         "SP": 10.0,
         "Elem": "Ice",
         "Status": [
@@ -702,7 +702,7 @@ var _monsterskill = {
     "100401005": {
         "Key": "Skill05",
         "Name": "Wrath of Winterland Saints",
-        "Desc": "Enters the <color style='color:#f29e38;'>Charge</color> state: DMG dealt increased by <color style='color:#f29e38;'>25%</color> for <color style='color:#f29e38;'>1</color> turn. The next action casts <color style='color:#f29e38;'>\"Punishment of Endless Winter\"</color> on all targets.",
+        "Desc": "Enters the @Charge# state: DMG dealt increased by @25%# for @1# turn. The next action casts @\"Punishment of Endless Winter\"# on all targets.",
         "SP": 0,
         "Prepare": [
             100401003
@@ -730,7 +730,7 @@ var _monsterskill = {
     "100401102": {
         "Key": "Skill02",
         "Name": "Omen of Everlasting Freeze",
-        "Desc": "Summons <color style='color:#f29e38;'>Ice Edges</color>.",
+        "Desc": "Summons @Ice Edges#.",
         "SP": 0,
         "Summon": [
             1002015,
@@ -751,7 +751,7 @@ var _monsterskill = {
     "100401104": {
         "Key": "Skill04",
         "Name": "Hoarfrost of Eternal Isolation",
-        "Desc": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>1</color> turn. <br>Freeze Additional DMG: <2> Ice DMG.",
+        "Desc": "Deals <1> Ice DMG to a single target, with a @100%# Base Chance to ``Freeze` the target for @1# turn. \nFreeze Additional DMG: <2> Ice DMG.",
         "SP": 10.0,
         "Elem": "Ice",
         "Status": [
@@ -765,7 +765,7 @@ var _monsterskill = {
     "100401105": {
         "Key": "Skill05",
         "Name": "Wrath of Winterland Saints",
-        "Desc": "Enters the <color style='color:#f29e38;'>Charge</color> state: DMG dealt increased by <color style='color:#f29e38;'>30%</color> for <color style='color:#f29e38;'>1</color> turn. The next action casts <color style='color:#f29e38;'>\"Punishment of Endless Winter\"</color> on all targets.",
+        "Desc": "Enters the @Charge# state: DMG dealt increased by @30%# for @1# turn. The next action casts @\"Punishment of Endless Winter\"# on all targets.",
         "SP": 0,
         "Prepare": [
             100401103
@@ -788,7 +788,7 @@ var _monsterskill = {
     "100401107": {
         "Key": "PassiveSkill01",
         "Name": "Intensifying Cold",
-        "Desc": "Every time Cocolia successfully applies Frozen, DMG dealt by herself and summoned objects is increased by <color style='color:#f29e38;'>10%</color>. This DMG boosting effect is stackable.",
+        "Desc": "Every time Cocolia successfully applies Frozen, DMG dealt by herself and summoned objects is increased by @10%#. This DMG boosting effect is stackable.",
         "SP": 0,
         "Status": [
             210040111
@@ -807,7 +807,7 @@ var _monsterskill = {
     "100401202": {
         "Key": "Skill02",
         "Name": "Omen of Everlasting Freeze",
-        "Desc": "Summons <color style='color:#f29e38;'>Ice Edges</color>.",
+        "Desc": "Summons @Ice Edges#.",
         "SP": 0,
         "Summon": [
             1002015,
@@ -828,7 +828,7 @@ var _monsterskill = {
     "100401204": {
         "Key": "Skill04",
         "Name": "Hoarfrost of Eternal Isolation",
-        "Desc": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>1</color> turn. <br>Freeze Additional DMG: <2> Ice DMG.",
+        "Desc": "Deals <1> Ice DMG to a single target, with a @100%# Base Chance to ``Freeze` the target for @1# turn. \nFreeze Additional DMG: <2> Ice DMG.",
         "SP": 10.0,
         "Elem": "Ice",
         "Status": [
@@ -842,7 +842,7 @@ var _monsterskill = {
     "100401205": {
         "Key": "Skill05",
         "Name": "Wrath of Winterland Saints",
-        "Desc": "Enters the <color style='color:#f29e38;'>Charge</color> state: DMG dealt increased by <color style='color:#f29e38;'>30%</color> for <color style='color:#f29e38;'>1</color> turn. The next action casts <color style='color:#f29e38;'>\"Punishment of Endless Winter\"</color> on all targets.",
+        "Desc": "Enters the @Charge# state: DMG dealt increased by @30%# for @1# turn. The next action casts @\"Punishment of Endless Winter\"# on all targets.",
         "SP": 0,
         "Prepare": [
             100401203
@@ -865,7 +865,7 @@ var _monsterskill = {
     "100401207": {
         "Key": "PassiveSkill01",
         "Name": "Intensifying Cold",
-        "Desc": "Every time Cocolia successfully applies Frozen, DMG dealt by herself and summoned objects is increased by <color style='color:#f29e38;'>10%</color>. This DMG boosting effect is stackable.<br>Phase 3 Max HP becomes <color style='color:#f29e38;'>1.66</color> times the original.<br>When HP falls below <color style='color:#f29e38;'>50%</color> in Phase 3, blizzard engulfs the battlefield...",
+        "Desc": "Every time Cocolia successfully applies Frozen, DMG dealt by herself and summoned objects is increased by @10%#. This DMG boosting effect is stackable.\nPhase 3 Max HP becomes @1.66# times the original.\nWhen HP falls below @50%# in Phase 3, blizzard engulfs the battlefield...",
         "SP": 0,
         "Status": [
             210040111
@@ -890,7 +890,7 @@ var _monsterskill = {
     "100403003": {
         "Key": "Skill03",
         "Name": "Coordinated Reinforcement",
-        "Desc": "Summons <color style='color:#f29e38;'>Silvermane Soldier</color> or <color style='color:#f29e38;'>Silvermane Gunner</color>.",
+        "Desc": "Summons @Silvermane Soldier# or @Silvermane Gunner#.",
         "SP": 0,
         "Summon": [
             1002040,
@@ -900,7 +900,7 @@ var _monsterskill = {
     "100403004": {
         "Key": "Skill04",
         "Name": "Suppressive Fire",
-        "Desc": "Deals <1> Wind DMG to a single target and delays their action by <color style='color:#f29e38;'>50%</color>.",
+        "Desc": "Deals <1> Wind DMG to a single target and delays their action by @50%#.",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true,
@@ -921,7 +921,7 @@ var _monsterskill = {
     "100403102": {
         "Key": "Skill02",
         "Name": "Combat Redeployment",
-        "Desc": "Dispels all debuffs on an ally, causes them to take action immediately, and increasing their DMG dealt by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>1</color> turn. Cannot be used on herself.",
+        "Desc": "Dispels all debuffs on an ally, causes them to take action immediately, and increasing their DMG dealt by @20%# for @1# turn. Cannot be used on herself.",
         "SP": 0
     },
     "100403103": {
@@ -933,7 +933,7 @@ var _monsterskill = {
     "100403104": {
         "Key": "Skill04",
         "Name": "Suppressive Fire",
-        "Desc": "Deals <1> Wind DMG to a single target and delays their action by <color style='color:#f29e38;'>50%</color>.",
+        "Desc": "Deals <1> Wind DMG to a single target and delays their action by @50%#.",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true,
@@ -975,7 +975,7 @@ var _monsterskill = {
     "100501004": {
         "Key": "Skill02",
         "Name": "Heartless Annihilator Call",
-        "Desc": "Summons 2 <color style='color:#f29e38;'>Lances of the Eternal Freeze</color>. One of them action delayed by <color style='color:#f29e38;'>80%</color>.",
+        "Desc": "Summons 2 @Lances of the Eternal Freeze#. One of them action delayed by @80%#.",
         "SP": 0,
         "Summon": [
             1002013,
@@ -985,7 +985,7 @@ var _monsterskill = {
     "100501005": {
         "Key": "Skill07",
         "Name": "Genesis Chord",
-        "Desc": "Deals <1> Imaginary DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance of causing <b>Imprisonment</b>: Action delayed by <color style='color:#f29e38;'>50%</color> for <color style='color:#f29e38;'>1</color> turn.",
+        "Desc": "Deals <1> Imaginary DMG to a single target, with a @100%# Base Chance of causing ``Imprisonment`: Action delayed by @50%# for @1# turn.",
         "SP": 10.0,
         "Elem": "Imaginary",
         "Status": [
@@ -998,7 +998,7 @@ var _monsterskill = {
     "100501006": {
         "Key": "Skill08",
         "Name": "The Creation's Prelude",
-        "Desc": "Enters the <color style='color:#f29e38;'>Charge</color> state. The next action uses <color style='color:#f29e38;'>\"Last Choir of Genesis\"</color> on all targets.",
+        "Desc": "Enters the @Charge# state. The next action uses @\"Last Choir of Genesis\"# on all targets.",
         "SP": 0,
         "Prepare": [
             100501007
@@ -1021,7 +1021,7 @@ var _monsterskill = {
     "100501008": {
         "Key": "Skill10",
         "Name": "Harbinger of Annihilation",
-        "Desc": "<b>Locks Onto</b> a single target. The next action uses <color style='color:#f29e38;'>\"Soulrend Coldstream\"</color>.",
+        "Desc": "``Locks Onto` a single target. The next action uses @\"Soulrend Coldstream\"#.",
         "SP": 0,
         "Prepare": [
             100501002
@@ -1033,7 +1033,7 @@ var _monsterskill = {
     "100501009": {
         "Key": "SkillP01",
         "Name": "Creator's Resolve",
-        "Desc": "After changing phase, SPD increased by <color style='color:#f29e38;'>20</color>, Max HP changed to <color style='color:#f29e38;'>60%</color> of original, Toughness changed to <color style='color:#f29e38;'>88.8%</color> of original. Deals Imaginary DMG instead when attacking.",
+        "Desc": "After changing phase, SPD increased by @20#, Max HP changed to @60%# of original, Toughness changed to @88.8%# of original. Deals Imaginary DMG instead when attacking.",
         "SP": 0
     },
     "100501101": {
@@ -1070,7 +1070,7 @@ var _monsterskill = {
     "100501104": {
         "Key": "Skill02",
         "Name": "Heartless Annihilator Call",
-        "Desc": "Summons 2 <color style='color:#f29e38;'>Lances of the Eternal Freeze</color>. One of them action delayed by <color style='color:#f29e38;'>80%</color>.",
+        "Desc": "Summons 2 @Lances of the Eternal Freeze#. One of them action delayed by @80%#.",
         "SP": 0,
         "Summon": [
             1002013,
@@ -1080,7 +1080,7 @@ var _monsterskill = {
     "100501105": {
         "Key": "Skill07",
         "Name": "Genesis Chord",
-        "Desc": "Deals <1> Imaginary DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance of causing <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn. <br>Imprisonment: Cannot take action, action delayed by <color style='color:#f29e38;'>50%</color> .",
+        "Desc": "Deals <1> Imaginary DMG to a single target, with a @100%# Base Chance of causing ``Imprisonment` for @1# turn. \nImprisonment: Cannot take action, action delayed by @50%# .",
         "SP": 10.0,
         "Elem": "Imaginary",
         "Status": [
@@ -1093,7 +1093,7 @@ var _monsterskill = {
     "100501106": {
         "Key": "Skill08",
         "Name": "The Creation's Prelude",
-        "Desc": "Enters the <color style='color:#f29e38;'>Charge</color> state. The next action uses <color style='color:#f29e38;'>\"Last Choir of Genesis\"</color> on all targets.",
+        "Desc": "Enters the @Charge# state. The next action uses @\"Last Choir of Genesis\"# on all targets.",
         "SP": 0,
         "Prepare": [
             100501107
@@ -1116,7 +1116,7 @@ var _monsterskill = {
     "100501108": {
         "Key": "Skill10",
         "Name": "Harbinger of Annihilation",
-        "Desc": "<b>Locks Onto</b> a single target. The next action uses <color style='color:#f29e38;'>\"Soulrend Coldstream\"</color>.",
+        "Desc": "``Locks Onto` a single target. The next action uses @\"Soulrend Coldstream\"#.",
         "SP": 0,
         "Prepare": [
             100501102
@@ -1128,7 +1128,7 @@ var _monsterskill = {
     "100501109": {
         "Key": "SkillP01",
         "Name": "Creator's Resolve",
-        "Desc": "After changing phase, SPD increased by <color style='color:#f29e38;'>20</color>, Max HP changed to <color style='color:#f29e38;'>60%</color> of original, Toughness changed to <color style='color:#f29e38;'>88.8%</color> of original. Deals Imaginary DMG instead when attacking.",
+        "Desc": "After changing phase, SPD increased by @20#, Max HP changed to @60%# of original, Toughness changed to @88.8%# of original. Deals Imaginary DMG instead when attacking.",
         "SP": 0
     },
     "100501110": {
@@ -1150,7 +1150,7 @@ var _monsterskill = {
     "100501202": {
         "Key": "Skill06",
         "Name": "Soulrend Coldstream",
-        "Desc": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>1</color> turn. <br>Freeze Additional DMG: <2> Ice DMG.",
+        "Desc": "Deals <1> Ice DMG to a single target, with a @100%# Base Chance to ``Freeze` the target for @1# turn. \nFreeze Additional DMG: <2> Ice DMG.",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true,
@@ -1172,7 +1172,7 @@ var _monsterskill = {
     "100501204": {
         "Key": "Skill02",
         "Name": "Heartless Annihilator Call",
-        "Desc": "Summons 2 <color style='color:#f29e38;'>Lances of the Eternal Freeze</color>. Respective have action delayed by <color style='color:#f29e38;'>30%</color> and <color style='color:#f29e38;'>80%</color>.",
+        "Desc": "Summons 2 @Lances of the Eternal Freeze#. Respective have action delayed by @30%# and @80%#.",
         "SP": 0,
         "Summon": [
             1002017,
@@ -1182,7 +1182,7 @@ var _monsterskill = {
     "100501205": {
         "Key": "Skill07",
         "Name": "Genesis Chord",
-        "Desc": "Deals <1> Imaginary DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance of causing <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn. <br>Imprisonment: Cannot take action, action delayed by <color style='color:#f29e38;'>50%</color> .",
+        "Desc": "Deals <1> Imaginary DMG to a single target, with a @100%# Base Chance of causing ``Imprisonment` for @1# turn. \nImprisonment: Cannot take action, action delayed by @50%# .",
         "SP": 10.0,
         "Elem": "Imaginary",
         "Status": [
@@ -1195,7 +1195,7 @@ var _monsterskill = {
     "100501206": {
         "Key": "Skill08",
         "Name": "The Creation's Prelude",
-        "Desc": "Enters the <color style='color:#f29e38;'>Charge</color> state. The next action uses <color style='color:#f29e38;'>\"Last Choir of Genesis\"</color> on all targets.",
+        "Desc": "Enters the @Charge# state. The next action uses @\"Last Choir of Genesis\"# on all targets.",
         "SP": 0,
         "Prepare": [
             100501207
@@ -1218,7 +1218,7 @@ var _monsterskill = {
     "100501208": {
         "Key": "Skill10",
         "Name": "Harbinger of Annihilation",
-        "Desc": "<b>Locks Onto</b> a single target. The next action uses <color style='color:#f29e38;'>\"Soulrend Coldstream\"</color>.",
+        "Desc": "``Locks Onto` a single target. The next action uses @\"Soulrend Coldstream\"#.",
         "SP": 0,
         "Prepare": [
             100501202
@@ -1230,7 +1230,7 @@ var _monsterskill = {
     "100501209": {
         "Key": "SkillP02",
         "Name": "Harbinger's Resolve",
-        "Desc": "Using <color style='color:#f29e38;'>Soulrend Coldstream</color> has a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target.",
+        "Desc": "Using @Soulrend Coldstream# has a @100%# Base Chance to ``Freeze` the target.",
         "SP": 0,
         "Elem": "Ice",
         "Prepare": [
@@ -1240,7 +1240,7 @@ var _monsterskill = {
     "100501210": {
         "Key": "SkillP01",
         "Name": "Creator's Resolve",
-        "Desc": "After changing phase, SPD increased by <color style='color:#f29e38;'>40</color>, Max HP changed to <color style='color:#f29e38;'>75%</color> of original, Toughness changed to <color style='color:#f29e38;'>88.8%</color> of original. Deals Imaginary DMG instead when attacking.",
+        "Desc": "After changing phase, SPD increased by @40#, Max HP changed to @75%# of original, Toughness changed to @88.8%# of original. Deals Imaginary DMG instead when attacking.",
         "SP": 0
     },
     "101201001": {
@@ -1256,7 +1256,7 @@ var _monsterskill = {
     "101201002": {
         "Key": "Skill05",
         "Name": "Self-Healing Module",
-        "Desc": "Immediately recovers <color style='color:#f29e38;'>25% Max HP</color> for all friendly units.",
+        "Desc": "Immediately recovers @25% Max HP# for all friendly units.",
         "SP": 0
     },
     "101201101": {
@@ -1272,7 +1272,7 @@ var _monsterskill = {
     "101201102": {
         "Key": "Skill05",
         "Name": "Self-Healing Module",
-        "Desc": "Immediately recovers <color style='color:#f29e38;'>25% Max HP</color> for all friendly units.",
+        "Desc": "Immediately recovers @25% Max HP# for all friendly units.",
         "SP": 0
     },
     "101202001": {
@@ -1288,7 +1288,7 @@ var _monsterskill = {
     "101202002": {
         "Key": "Skill02",
         "Name": "Timed Module",
-        "Desc": "The next action uses <color style='color:#f29e38;'>Self-Exploding Module</color>.",
+        "Desc": "The next action uses @Self-Exploding Module#.",
         "SP": 0,
         "Prepare": [
             101202003
@@ -1308,7 +1308,7 @@ var _monsterskill = {
     "101202004": {
         "Key": "PassiveSkillInitiate",
         "Name": "Chains of Destruction",
-        "Desc": "Deals <color style='color:#f29e38;'>120% Self Max HP</color> Fire DMG and <color style='color:#f29e38;'>2.0</color> Fire Toughness DMG to adjacent units when suffering a killing blow.",
+        "Desc": "Deals @120% Self Max HP# Fire DMG and @2.0# Fire Toughness DMG to adjacent units when suffering a killing blow.",
         "SP": 0,
         "Elem": "Fire"
     },
@@ -1331,7 +1331,7 @@ var _monsterskill = {
     "101202102": {
         "Key": "Skill02",
         "Name": "Timed Module",
-        "Desc": "The next action uses <color style='color:#f29e38;'>Self-Exploding Module</color>.",
+        "Desc": "The next action uses @Self-Exploding Module#.",
         "SP": 0,
         "Prepare": [
             101202103
@@ -1351,7 +1351,7 @@ var _monsterskill = {
     "101202104": {
         "Key": "PassiveSkillInitiate",
         "Name": "Chains of Destruction",
-        "Desc": "Deals <color style='color:#f29e38;'>120% Self Max HP</color> Fire DMG and <color style='color:#f29e38;'>2.0</color> Fire Toughness DMG to adjacent units when suffering a killing blow.",
+        "Desc": "Deals @120% Self Max HP# Fire DMG and @2.0# Fire Toughness DMG to adjacent units when suffering a killing blow.",
         "SP": 0,
         "Elem": "Fire"
     },
@@ -1374,7 +1374,7 @@ var _monsterskill = {
     "101204002": {
         "Key": "PassiveSkill03",
         "Name": "Oppressive Embrace",
-        "Desc": "Deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG to <color style='color:#f29e38;'>Imprisoned</color> targets.",
+        "Desc": "Deals @50% Max HP# Physical DMG to @Imprisoned# targets.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1390,7 +1390,7 @@ var _monsterskill = {
     "101204004": {
         "Key": "Skill03",
         "Name": "Oppressive Embrace",
-        "Desc": "<color style='color:#f29e38;'>Imprisons</color> a single target, and deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG once. When this unit has their Weakness Broken, dispels the Imprison status from the target.",
+        "Desc": "@Imprisons# a single target, and deals @50% Max HP# Physical DMG once. When this unit has their Weakness Broken, dispels the Imprison status from the target.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1400,7 +1400,7 @@ var _monsterskill = {
     "101204005": {
         "Key": "Skill04",
         "Name": "Disabling Field",
-        "Desc": "Deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG to <color style='color:#f29e38;'>Imprisoned</color> targets.",
+        "Desc": "Deals @50% Max HP# Physical DMG to @Imprisoned# targets.",
         "SP": 10.0,
         "Status": [
             210040204
@@ -1420,7 +1420,7 @@ var _monsterskill = {
     "101204007": {
         "Key": "Skill06",
         "Name": "Overload Warning",
-        "Desc": "Auxiliary Robot Arm Unit enters <color style='color:#f29e38;'>Overload</color> mode and immediately removes Imprisonment from friendly units. <br>When entering this mode, Auxiliary Robot Arm Unit will cast <color style='color:#f29e38;'>Controlled Blasting</color> on its next action.",
+        "Desc": "Auxiliary Robot Arm Unit enters @Overload# mode and immediately removes Imprisonment from friendly units. \nWhen entering this mode, Auxiliary Robot Arm Unit will cast @Controlled Blasting# on its next action.",
         "SP": 0,
         "Prepare": [
             101204006
@@ -1439,7 +1439,7 @@ var _monsterskill = {
     "101204102": {
         "Key": "PassiveSkill03",
         "Name": "Oppressive Embrace",
-        "Desc": "Deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG to <color style='color:#f29e38;'>Imprisoned targets</color>.",
+        "Desc": "Deals @50% Max HP# Physical DMG to @Imprisoned targets#.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1455,7 +1455,7 @@ var _monsterskill = {
     "101204104": {
         "Key": "Skill03",
         "Name": "Oppressive Embrace",
-        "Desc": "<color style='color:#f29e38;'>Imprisons</color> a single target, and deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG once. When this unit has their Weakness Broken, or their HP falls below <color style='color:#f29e38;'>50%</color>, dispels the Imprison status from the target.",
+        "Desc": "@Imprisons# a single target, and deals @50% Max HP# Physical DMG once. When this unit has their Weakness Broken, or their HP falls below @50%#, dispels the Imprison status from the target.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1465,7 +1465,7 @@ var _monsterskill = {
     "101204105": {
         "Key": "Skill04",
         "Name": "Disabling Field",
-        "Desc": "Deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG to <color style='color:#f29e38;'>Imprisoned</color> targets.",
+        "Desc": "Deals @50% Max HP# Physical DMG to @Imprisoned# targets.",
         "SP": 10.0,
         "Status": [
             210040113
@@ -1485,7 +1485,7 @@ var _monsterskill = {
     "101204107": {
         "Key": "Skill06",
         "Name": "Overload Warning",
-        "Desc": "Auxiliary Robot Arm Unit enters <color style='color:#f29e38;'>Overload</color> mode and immediately removes Imprisonment from friendly units. When entering this mode, Auxiliary Robot Arm Unit will cast <color style='color:#f29e38;'>Controlled Blasting</color> on its next action.",
+        "Desc": "Auxiliary Robot Arm Unit enters @Overload# mode and immediately removes Imprisonment from friendly units. When entering this mode, Auxiliary Robot Arm Unit will cast @Controlled Blasting# on its next action.",
         "SP": 0,
         "Prepare": [
             101204106
@@ -1504,7 +1504,7 @@ var _monsterskill = {
     "101204202": {
         "Key": "PassiveSkill03",
         "Name": "Oppressive Embrace",
-        "Desc": "Deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG to Imprisoned targets.",
+        "Desc": "Deals @50% Max HP# Physical DMG to Imprisoned targets.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1520,7 +1520,7 @@ var _monsterskill = {
     "101204204": {
         "Key": "Skill03",
         "Name": "Oppressive Embrace",
-        "Desc": "<color style='color:#f29e38;'>Imprisons</color> a single target, and deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG once. When this unit has their Weakness Broken, or their HP falls below <color style='color:#f29e38;'>50%</color>, dispels the Imprison status from the target.",
+        "Desc": "@Imprisons# a single target, and deals @50% Max HP# Physical DMG once. When this unit has their Weakness Broken, or their HP falls below @50%#, dispels the Imprison status from the target.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1530,7 +1530,7 @@ var _monsterskill = {
     "101204205": {
         "Key": "Skill04",
         "Name": "Disabling Field",
-        "Desc": "Deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG to <color style='color:#f29e38;'>Imprisoned</color> targets.",
+        "Desc": "Deals @50% Max HP# Physical DMG to @Imprisoned# targets.",
         "SP": 10.0,
         "Status": [
             210040113
@@ -1550,7 +1550,7 @@ var _monsterskill = {
     "101204207": {
         "Key": "Skill06",
         "Name": "Overload Warning",
-        "Desc": "Auxiliary Robot Arm Unit enters <color style='color:#f29e38;'>Overload</color> mode and immediately removes Imprisonment from friendly units. When entering this mode, Auxiliary Robot Arm Unit will cast <color style='color:#f29e38;'>Controlled Blasting</color> on its next action.",
+        "Desc": "Auxiliary Robot Arm Unit enters @Overload# mode and immediately removes Imprisonment from friendly units. When entering this mode, Auxiliary Robot Arm Unit will cast @Controlled Blasting# on its next action.",
         "SP": 0,
         "Prepare": [
             101204206
@@ -1563,7 +1563,7 @@ var _monsterskill = {
     "101301001": {
         "Key": "Skill05",
         "Name": "Detonation Order",
-        "Desc": "Summons <color style='color:#f29e38;'>Automaton Spider</color>.",
+        "Desc": "Summons @Automaton Spider#.",
         "SP": 0,
         "Summon": [
             1012021
@@ -1572,7 +1572,7 @@ var _monsterskill = {
     "101301002": {
         "Key": "Skill04",
         "Name": "Enrage Order",
-        "Desc": "Has a <color style='color:#f29e38;'>50%</color> Base Chance to <b>Taunt</b> all targets for <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Has a @50%# Base Chance to ``Taunt` all targets for @2# turns.",
         "SP": 0,
         "Status": [
             30020010
@@ -1581,7 +1581,7 @@ var _monsterskill = {
     "101301003": {
         "Key": "Skill02",
         "Name": "Overcombust Order",
-        "Desc": "Enters the <color style='color:#f29e38;'>Charge</color> state. The next action uses <color style='color:#f29e38;'>\"Purge Order\"</color> on all targets.",
+        "Desc": "Enters the @Charge# state. The next action uses @\"Purge Order\"# on all targets.",
         "SP": 0,
         "Prepare": [
             101301004
@@ -1617,7 +1617,7 @@ var _monsterskill = {
     "101301101": {
         "Key": "Skill05",
         "Name": "Detonation Order",
-        "Desc": "Summons <color style='color:#f29e38;'>Automaton Spider</color> and <color style='color:#f29e38;'>Automaton Beetle</color>.",
+        "Desc": "Summons @Automaton Spider# and @Automaton Beetle#.",
         "SP": 0,
         "Summon": [
             1012021,
@@ -1627,7 +1627,7 @@ var _monsterskill = {
     "101301102": {
         "Key": "Skill04",
         "Name": "Enrage Order",
-        "Desc": "Has a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Taunt</b> all targets for <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Has a @100%# Base Chance to ``Taunt` all targets for @2# turns.",
         "SP": 0,
         "Status": [
             30020010
@@ -1636,7 +1636,7 @@ var _monsterskill = {
     "101301103": {
         "Key": "Skill02",
         "Name": "Overcombust Order",
-        "Desc": "Enters the <color style='color:#f29e38;'>Charge</color> state: DMG dealt increased by <color style='color:#f29e38;'>50%</color> for <color style='color:#f29e38;'>1</color> turn. The next action uses <color style='color:#f29e38;'>\"Purge Order\"</color> on all targets.",
+        "Desc": "Enters the @Charge# state: DMG dealt increased by @50%# for @1# turn. The next action uses @\"Purge Order\"# on all targets.",
         "SP": 0,
         "Prepare": [
             101301104
@@ -1684,7 +1684,7 @@ var _monsterskill = {
     "101301204": {
         "Key": "Skill04",
         "Name": "Enrage Order",
-        "Desc": "Has a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Taunt</b> all targets for <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Has a @100%# Base Chance to ``Taunt` all targets for @2# turns.",
         "SP": 0,
         "Status": [
             30020010
@@ -1693,7 +1693,7 @@ var _monsterskill = {
     "101301205": {
         "Key": "Skill02",
         "Name": "Overcombust Order",
-        "Desc": "Enters the <color style='color:#f29e38;'>Charge</color> state: DMG dealt increased by <color style='color:#f29e38;'>50%</color> for <color style='color:#f29e38;'>1</color> turn. The next action uses <color style='color:#f29e38;'>\"Purge Order\"</color> on all targets.",
+        "Desc": "Enters the @Charge# state: DMG dealt increased by @50%# for @1# turn. The next action uses @\"Purge Order\"# on all targets.",
         "SP": 0,
         "Prepare": [
             101301206
@@ -1739,7 +1739,7 @@ var _monsterskill = {
     "101301208": {
         "Key": "PassiveSkill01",
         "Name": "Obliteration Order",
-        "Desc": "Phase 3's Max HP changed to <color style='color:#f29e38;'>2.0</color> times the original. <br>Increases DMG dealt by another <color style='color:#f29e38;'>60%</color> every time Overcombust Order is unleashed, stackable.",
+        "Desc": "Phase 3's Max HP changed to @2.0# times the original. \nIncreases DMG dealt by another @60%# every time Overcombust Order is unleashed, stackable.",
         "SP": 0,
         "Prepare": [
             101301205
@@ -1751,7 +1751,7 @@ var _monsterskill = {
     "101301303": {
         "Key": "Skill05",
         "Name": "Detonation Order",
-        "Desc": "Summons <color style='color:#f29e38;'>Automaton Spider</color>.",
+        "Desc": "Summons @Automaton Spider#.",
         "SP": 0,
         "Summon": [
             1012020
@@ -1760,7 +1760,7 @@ var _monsterskill = {
     "101301304": {
         "Key": "Skill04",
         "Name": "Enrage Order",
-        "Desc": "Has a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Taunt</b> all targets for <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Has a @100%# Base Chance to ``Taunt` all targets for @2# turns.",
         "SP": 0,
         "Status": [
             30020010
@@ -1769,7 +1769,7 @@ var _monsterskill = {
     "101301305": {
         "Key": "Skill02",
         "Name": "Overcombust Order",
-        "Desc": "Enters the <color style='color:#f29e38;'>Charge</color> state: DMG dealt increased by <color style='color:#f29e38;'>50%</color> for <color style='color:#f29e38;'>1</color> turn. The next action uses <color style='color:#f29e38;'>\"Purge Order\"</color> on all targets.",
+        "Desc": "Enters the @Charge# state: DMG dealt increased by @50%# for @1# turn. The next action uses @\"Purge Order\"# on all targets.",
         "SP": 0,
         "Prepare": [
             101301306
@@ -1815,7 +1815,7 @@ var _monsterskill = {
     "101301308": {
         "Key": "PassiveSkill01",
         "Name": "Obliteration Order",
-        "Desc": "Phase 3's Max HP changed to <color style='color:#f29e38;'>1.5</color> times the original. <br>Increases DMG dealt by another <color style='color:#f29e38;'>50%</color> every time Overcombust Order is unleashed, stackable.",
+        "Desc": "Phase 3's Max HP changed to @1.5# times the original. \nIncreases DMG dealt by another @50%# every time Overcombust Order is unleashed, stackable.",
         "SP": 0,
         "Prepare": [
             101301305
@@ -1827,7 +1827,7 @@ var _monsterskill = {
     "101302001": {
         "Key": "Skill06",
         "Name": "Felling Order",
-        "Desc": "Deals <1> Physical DMG to a single target, and apply <b>Bleed</b> 10 times, each time has a <color style='color:#f29e38;'>50%</color> Base Chance to succeed. If the hit target is not Shielded, then a random ally of theirs suffers <color style='color:#f29e38;'>\"Dismantle\"</color> for 1 time.<br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers.",
+        "Desc": "Deals <1> Physical DMG to a single target, and apply ``Bleed` 10 times, each time has a @50%# Base Chance to succeed. If the hit target is not Shielded, then a random ally of theirs suffers @\"Dismantle\"# for 1 time.\nBleed DoT: Every layer deals <2> Physical DMG, lasts @2# turns, max 10 layers.",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -1845,7 +1845,7 @@ var _monsterskill = {
     "101302002": {
         "Key": "Skill07",
         "Name": "Lock On Target",
-        "Desc": "<b>Locks Onto</b> a single target. The next action on the target will cast <color style='color:#f29e38;'>\"Felling Order\"</color>.",
+        "Desc": "``Locks Onto` a single target. The next action on the target will cast @\"Felling Order\"#.",
         "SP": 0,
         "Prepare": [
             101302001
@@ -1857,7 +1857,7 @@ var _monsterskill = {
     "101302003": {
         "Key": "Skill09",
         "Name": "Disintegration Order",
-        "Desc": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers.",
+        "Desc": "Deals <1> Physical DMG to a single target, with a @100%# Base Chance to inflict 1 stack of ``Bleed`. \nBleed DoT: Every layer deals <2> Physical DMG, lasts @2# turns, max 10 layers.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1871,7 +1871,7 @@ var _monsterskill = {
     "101302004": {
         "Key": "Skill11",
         "Name": "Dismantle",
-        "Desc": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers.",
+        "Desc": "Deals <1> Physical DMG to a single target, with a @100%# Base Chance to inflict 1 stack of ``Bleed`. \nBleed DoT: Every layer deals <2> Physical DMG, lasts @2# turns, max 10 layers.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1885,7 +1885,7 @@ var _monsterskill = {
     "101302101": {
         "Key": "Skill06",
         "Name": "Felling Order",
-        "Desc": "Deals <1> Physical DMG to a single target, and apply <b>Bleed</b> 10 times, each time has a <color style='color:#f29e38;'>80%</color> Base Chance to succeed. If the hit target is not Shielded, then a random ally of theirs suffers <color style='color:#f29e38;'>\"Dismantle\"</color> for 1 time.<br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers.",
+        "Desc": "Deals <1> Physical DMG to a single target, and apply ``Bleed` 10 times, each time has a @80%# Base Chance to succeed. If the hit target is not Shielded, then a random ally of theirs suffers @\"Dismantle\"# for 1 time.\nBleed DoT: Every layer deals <2> Physical DMG, lasts @2# turns, max 10 layers.",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -1903,7 +1903,7 @@ var _monsterskill = {
     "101302102": {
         "Key": "Skill07",
         "Name": "Lock On Target",
-        "Desc": "<b>Locks Onto</b> a single target. The next action on the target will cast <color style='color:#f29e38;'>\"Felling Order.\"</color>",
+        "Desc": "``Locks Onto` a single target. The next action on the target will cast @\"Felling Order.\"#",
         "SP": 0,
         "Prepare": [
             101302101
@@ -1915,7 +1915,7 @@ var _monsterskill = {
     "101302103": {
         "Key": "Skill09",
         "Name": "Disintegration Order",
-        "Desc": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers.",
+        "Desc": "Deals <1> Physical DMG to a single target, with a @100%# Base Chance to inflict 1 stack of ``Bleed`. \nBleed DoT: Every layer deals <2> Physical DMG, lasts @2# turns, max 10 layers.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1929,7 +1929,7 @@ var _monsterskill = {
     "101302104": {
         "Key": "Skill11",
         "Name": "Dismantle",
-        "Desc": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers.",
+        "Desc": "Deals <1> Physical DMG to a single target, with a @100%# Base Chance to inflict 1 stack of ``Bleed`. \nBleed DoT: Every layer deals <2> Physical DMG, lasts @2# turns, max 10 layers.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1943,7 +1943,7 @@ var _monsterskill = {
     "101302105": {
         "Key": "Skill12",
         "Name": "Targeting Order",
-        "Desc": "<b>Locks On</b> to 2 targets and casts <color style='color:#f29e38;'>Felling Order</color> on them in the next action.",
+        "Desc": "``Locks On` to 2 targets and casts @Felling Order# on them in the next action.",
         "SP": 0,
         "Prepare": [
             101302101
@@ -1955,7 +1955,7 @@ var _monsterskill = {
     "101302201": {
         "Key": "Skill06",
         "Name": "Felling Order",
-        "Desc": "Deals <1> Physical DMG to a single target, and apply <b>Bleed</b> 10 times, each time has a <color style='color:#f29e38;'>80%</color> Base Chance to succeed. If the hit target is not Shielded, then a random ally of theirs suffers <color style='color:#f29e38;'>\"Dismantle\"</color> for 1 time.<br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers.",
+        "Desc": "Deals <1> Physical DMG to a single target, and apply ``Bleed` 10 times, each time has a @80%# Base Chance to succeed. If the hit target is not Shielded, then a random ally of theirs suffers @\"Dismantle\"# for 1 time.\nBleed DoT: Every layer deals <2> Physical DMG, lasts @2# turns, max 10 layers.",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -1973,7 +1973,7 @@ var _monsterskill = {
     "101302202": {
         "Key": "Skill07",
         "Name": "Lock On Target",
-        "Desc": "<b>Locks Onto</b> a single target. The next action on the target will cast <color style='color:#f29e38;'>\"Felling Order\"</color>.",
+        "Desc": "``Locks Onto` a single target. The next action on the target will cast @\"Felling Order\"#.",
         "SP": 0,
         "Prepare": [
             101302201
@@ -1985,7 +1985,7 @@ var _monsterskill = {
     "101302205": {
         "Key": "Skill09",
         "Name": "Disintegration Order",
-        "Desc": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers.",
+        "Desc": "Deals <1> Physical DMG to a single target, with a @100%# Base Chance to inflict 1 stack of ``Bleed`. \nBleed DoT: Every layer deals <2> Physical DMG, lasts @2# turns, max 10 layers.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1999,7 +1999,7 @@ var _monsterskill = {
     "101302206": {
         "Key": "Skill11",
         "Name": "Dismantle",
-        "Desc": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers.",
+        "Desc": "Deals <1> Physical DMG to a single target, with a @100%# Base Chance to inflict 1 stack of ``Bleed`. \nBleed DoT: Every layer deals <2> Physical DMG, lasts @2# turns, max 10 layers.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -2013,7 +2013,7 @@ var _monsterskill = {
     "101302203": {
         "Key": "Skill12",
         "Name": "Targeting Order",
-        "Desc": "<b>Locks On</b> to 2 targets and casts <color style='color:#f29e38;'>Felling Order</color> on them in the next action.",
+        "Desc": "``Locks On` to 2 targets and casts @Felling Order# on them in the next action.",
         "SP": 0,
         "Prepare": [
             101302201
@@ -2025,7 +2025,7 @@ var _monsterskill = {
     "101302204": {
         "Key": "Skill10",
         "Name": "Teamwork Order",
-        "Desc": "<b>Locks Onto</b> 2 targets and casts <color style='color:#f29e38;'>\"Felling Order\"</color> on them in the next action. At the same time, makes Automaton Grizzly enter the Charge state, which will cast <color style='color:#f29e38;'>\"Purge Order\"</color> on all targets in the next action.",
+        "Desc": "``Locks Onto` 2 targets and casts @\"Felling Order\"# on them in the next action. At the same time, makes Automaton Grizzly enter the Charge state, which will cast @\"Purge Order\"# on all targets in the next action.",
         "SP": 0,
         "Prepare": [
             101302201
@@ -2044,7 +2044,7 @@ var _monsterskill = {
     "101302208": {
         "Key": "PassiveSkill01",
         "Name": "Combat Speed-Up",
-        "Desc": "Phase 3's Max HP is changed to <color style='color:#f29e38;'>2.0</color> times the original. <br>Increases SPD by <color style='color:#f29e38;'>60%</color>. Every time Targeting Order is used, increase SPD by an extra <color style='color:#f29e38;'>20%</color>, stackable.",
+        "Desc": "Phase 3's Max HP is changed to @2.0# times the original. \nIncreases SPD by @60%#. Every time Targeting Order is used, increase SPD by an extra @20%#, stackable.",
         "SP": 0,
         "Status": [
             210130221,
@@ -2054,7 +2054,7 @@ var _monsterskill = {
     "101302301": {
         "Key": "Skill06",
         "Name": "Felling Order",
-        "Desc": "Deals <1> Physical DMG to a single target, and apply <b>Bleed</b> 10 times, each time has a <color style='color:#f29e38;'>50%</color> Base Chance to succeed. If the hit target is not Shielded, then a random ally of theirs suffers <color style='color:#f29e38;'>\"Dismantle\"</color> for 1 time.<br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers.",
+        "Desc": "Deals <1> Physical DMG to a single target, and apply ``Bleed` 10 times, each time has a @50%# Base Chance to succeed. If the hit target is not Shielded, then a random ally of theirs suffers @\"Dismantle\"# for 1 time.\nBleed DoT: Every layer deals <2> Physical DMG, lasts @2# turns, max 10 layers.",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -2072,7 +2072,7 @@ var _monsterskill = {
     "101302302": {
         "Key": "Skill07",
         "Name": "Lock On Target",
-        "Desc": "<b>Locks Onto</b> a single target. The next action on the target will cast <color style='color:#f29e38;'>\"Felling Order\"</color>.",
+        "Desc": "``Locks Onto` a single target. The next action on the target will cast @\"Felling Order\"#.",
         "SP": 0,
         "Prepare": [
             101302301
@@ -2084,7 +2084,7 @@ var _monsterskill = {
     "101302305": {
         "Key": "Skill09",
         "Name": "Disintegration Order",
-        "Desc": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers.",
+        "Desc": "Deals <1> Physical DMG to a single target, with a @100%# Base Chance to inflict 1 stack of ``Bleed`. \nBleed DoT: Every layer deals <2> Physical DMG, lasts @2# turns, max 10 layers.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -2098,7 +2098,7 @@ var _monsterskill = {
     "101302306": {
         "Key": "Skill11",
         "Name": "Dismantle",
-        "Desc": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers.",
+        "Desc": "Deals <1> Physical DMG to a single target, with a @100%# Base Chance to inflict 1 stack of ``Bleed`. \nBleed DoT: Every layer deals <2> Physical DMG, lasts @2# turns, max 10 layers.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -2112,7 +2112,7 @@ var _monsterskill = {
     "101302303": {
         "Key": "Skill12",
         "Name": "Targeting Order",
-        "Desc": "<b>Locks On</b> to 2 targets and casts <color style='color:#f29e38;'>Felling Order</color> on them in the next action.",
+        "Desc": "``Locks On` to 2 targets and casts @Felling Order# on them in the next action.",
         "SP": 0,
         "Prepare": [
             101302301
@@ -2124,7 +2124,7 @@ var _monsterskill = {
     "101302304": {
         "Key": "Skill10",
         "Name": "Teamwork Order",
-        "Desc": "<b>Locks On</b> to 2 targets and casts <color style='color:#f29e38;'>Felling Order</color> on them in the next action. At the same time, makes Automaton Grizzly enter the Charge state, which will cast <color style='color:#f29e38;'>Purge Order</color> on all targets in the next action.",
+        "Desc": "``Locks On` to 2 targets and casts @Felling Order# on them in the next action. At the same time, makes Automaton Grizzly enter the Charge state, which will cast @Purge Order# on all targets in the next action.",
         "SP": 0,
         "Prepare": [
             101302301
@@ -2143,7 +2143,7 @@ var _monsterskill = {
     "101302308": {
         "Key": "PassiveSkill01",
         "Name": "Combat Speed-Up",
-        "Desc": "Phase 3's Max HP is changed to <color style='color:#f29e38;'>2.0</color> times the original. <br>Increases SPD by <color style='color:#f29e38;'>60%</color>. Every time Targeting Order is used, increase SPD by an extra <color style='color:#f29e38;'>20%</color>, stackable.",
+        "Desc": "Phase 3's Max HP is changed to @2.0# times the original. \nIncreases SPD by @60%#. Every time Targeting Order is used, increase SPD by an extra @20%#, stackable.",
         "SP": 0,
         "Status": [
             210130221,
@@ -2163,7 +2163,7 @@ var _monsterskill = {
     "101401002": {
         "Key": "Skill02",
         "Name": "Burning Beam",
-        "Desc": "Deals <1> Physical DMG to a single target and delays their action by <color style='color:#f29e38;'>30%</color>.",
+        "Desc": "Deals <1> Physical DMG to a single target and delays their action by @30%#.",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -2173,7 +2173,7 @@ var _monsterskill = {
     "101401003": {
         "Key": "Skill03",
         "Name": "Oppressive Embrace",
-        "Desc": "<color style='color:#f29e38;'>Imprisons</color> a single target, preventing them from taking action or being targeted. At the start of every turn, they take <color style='color:#f29e38;'>50% Max HP</color> Physical DMG. The Imprisonment is dispelled if the Auxiliary Robot Arm Unit suffers Weakness Break.",
+        "Desc": "@Imprisons# a single target, preventing them from taking action or being targeted. At the start of every turn, they take @50% Max HP# Physical DMG. The Imprisonment is dispelled if the Auxiliary Robot Arm Unit suffers Weakness Break.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -2183,7 +2183,7 @@ var _monsterskill = {
     "101401004": {
         "Key": "Skill04",
         "Name": "Shrewd Bombing",
-        "Desc": "Deals <1> Physical DMG to all targets, with a high chance to reduce their DEF by <color style='color:#f29e38;'>30%</color> for <color style='color:#f29e38;'>2</color> turns, stackable.",
+        "Desc": "Deals <1> Physical DMG to all targets, with a high chance to reduce their DEF by @30%# for @2# turns, stackable.",
         "SP": 2.0,
         "Elem": "Phys",
         "Threat": true,
@@ -2207,7 +2207,7 @@ var _monsterskill = {
     "101401006": {
         "Key": "Skill06",
         "Name": "Overload Warning",
-        "Desc": "Auxiliary Robot Arm Unit enters <color style='color:#f29e38;'>Overload Countdown</color>, causing the next action to cast <color style='color:#f29e38;'>Controlled Blasting</color>.",
+        "Desc": "Auxiliary Robot Arm Unit enters @Overload Countdown#, causing the next action to cast @Controlled Blasting#.",
         "SP": 0,
         "Elem": "Phys",
         "Prepare": [
@@ -2220,7 +2220,7 @@ var _monsterskill = {
     "101401007": {
         "Key": "Skill07",
         "Name": "Boost Deployment",
-        "Desc": "Summons <color style='color:#f29e38;'>Auxiliary Robot Arm Unit</color>.",
+        "Desc": "Summons @Auxiliary Robot Arm Unit#.",
         "SP": 0,
         "Elem": "Phys",
         "Summon": [
@@ -2265,7 +2265,7 @@ var _monsterskill = {
     "101401102": {
         "Key": "Skill02",
         "Name": "Burning Beam",
-        "Desc": "Deals <1> Physical DMG to a single target and delays their action by <color style='color:#f29e38;'>50%</color>.",
+        "Desc": "Deals <1> Physical DMG to a single target and delays their action by @50%#.",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -2275,7 +2275,7 @@ var _monsterskill = {
     "101401103": {
         "Key": "Skill03",
         "Name": "Oppressive Embrace",
-        "Desc": "<color style='color:#f29e38;'>Imprisons</color> a single target, preventing them from taking action or being targeted. At the start of every turn, they take <color style='color:#f29e38;'>50% Max HP</color> Physical DMG. The Imprisonment is dispelled if the Auxiliary Robot Arm Unit suffers Weakness Break.",
+        "Desc": "@Imprisons# a single target, preventing them from taking action or being targeted. At the start of every turn, they take @50% Max HP# Physical DMG. The Imprisonment is dispelled if the Auxiliary Robot Arm Unit suffers Weakness Break.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -2285,7 +2285,7 @@ var _monsterskill = {
     "101401104": {
         "Key": "Skill04",
         "Name": "Oversaturated Bombardment",
-        "Desc": "Deals <1> Physical DMG to all targets, with a high chance to reduce their DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>3</color> turns, stackable.",
+        "Desc": "Deals <1> Physical DMG to all targets, with a high chance to reduce their DEF by @20%# for @3# turns, stackable.",
         "SP": 2.0,
         "Elem": "Phys",
         "Threat": true,
@@ -2309,7 +2309,7 @@ var _monsterskill = {
     "101401106": {
         "Key": "Skill06",
         "Name": "Overload Warning",
-        "Desc": "Auxiliary Robot Arm Unit enters <color style='color:#f29e38;'>Overload Countdown</color>, causing the next action to cast <color style='color:#f29e38;'>Controlled Blasting</color>.",
+        "Desc": "Auxiliary Robot Arm Unit enters @Overload Countdown#, causing the next action to cast @Controlled Blasting#.",
         "SP": 0,
         "Prepare": [
             101401105
@@ -2321,7 +2321,7 @@ var _monsterskill = {
     "101401107": {
         "Key": "Skill07",
         "Name": "Boost Deployment",
-        "Desc": "Summons <color style='color:#f29e38;'>Auxiliary Robot Arm Unit</color>.",
+        "Desc": "Summons @Auxiliary Robot Arm Unit#.",
         "SP": 0,
         "Summon": [
             1012041
@@ -2354,13 +2354,13 @@ var _monsterskill = {
     "101401112": {
         "Key": "Skill09",
         "Name": "Power Amplification",
-        "Desc": "Slightly increases the DMG dealt by all friendly units by <color style='color:#f29e38;'>15%</color>. This effect is stackable.",
+        "Desc": "Slightly increases the DMG dealt by all friendly units by @15%#. This effect is stackable.",
         "SP": 0
     },
     "101401113": {
         "Key": "Skill10",
         "Name": "Emergency Support",
-        "Desc": "Summons <color style='color:#f29e38;'>Automaton Beetle</color> and <color style='color:#f29e38;'>Automaton Hound</color> at random.",
+        "Desc": "Summons @Automaton Beetle# and @Automaton Hound# at random.",
         "SP": 0,
         "Summon": [
             1012011,
@@ -2370,7 +2370,7 @@ var _monsterskill = {
     "101401114": {
         "Key": "Skill11",
         "Name": "Tactical Support",
-        "Desc": "Summons <color style='color:#f29e38;'>Automaton Direwolf</color>.",
+        "Desc": "Summons @Automaton Direwolf#.",
         "SP": 0,
         "Summon": [
             101302002
@@ -2389,7 +2389,7 @@ var _monsterskill = {
     "101401202": {
         "Key": "Skill02",
         "Name": "Burning Beam",
-        "Desc": "Deals <1> Physical DMG to a single target and delays their action by <color style='color:#f29e38;'>50%</color>.",
+        "Desc": "Deals <1> Physical DMG to a single target and delays their action by @50%#.",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -2399,7 +2399,7 @@ var _monsterskill = {
     "101401203": {
         "Key": "Skill03",
         "Name": "Oppressive Embrace",
-        "Desc": "<color style='color:#f29e38;'>Imprisons</color> a single target, preventing them from taking action or being targeted. At the start of every turn, they take <color style='color:#f29e38;'>50% Max HP</color> Physical DMG. The Imprisonment is dispelled if the Auxiliary Robot Arm Unit suffers Weakness Break.",
+        "Desc": "@Imprisons# a single target, preventing them from taking action or being targeted. At the start of every turn, they take @50% Max HP# Physical DMG. The Imprisonment is dispelled if the Auxiliary Robot Arm Unit suffers Weakness Break.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -2409,7 +2409,7 @@ var _monsterskill = {
     "101401204": {
         "Key": "Skill04",
         "Name": "Oversaturated Bombardment",
-        "Desc": "Deals <1> Physical DMG to all targets, with a high chance to reduce their DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>3</color> turns, stackable.",
+        "Desc": "Deals <1> Physical DMG to all targets, with a high chance to reduce their DEF by @20%# for @3# turns, stackable.",
         "SP": 2.0,
         "Elem": "Phys",
         "Threat": true,
@@ -2433,7 +2433,7 @@ var _monsterskill = {
     "101401206": {
         "Key": "Skill06",
         "Name": "Overload Warning",
-        "Desc": "Auxiliary Robot Arm Unit enters <color style='color:#f29e38;'>Overload Countdown</color>, causing the next action to cast <color style='color:#f29e38;'>Controlled Blasting</color>.",
+        "Desc": "Auxiliary Robot Arm Unit enters @Overload Countdown#, causing the next action to cast @Controlled Blasting#.",
         "SP": 0,
         "Prepare": [
             101401105
@@ -2445,7 +2445,7 @@ var _monsterskill = {
     "101401207": {
         "Key": "Skill07",
         "Name": "Boost Deployment",
-        "Desc": "Summons <color style='color:#f29e38;'>Auxiliary Robot Arm Unit</color>.",
+        "Desc": "Summons @Auxiliary Robot Arm Unit#.",
         "SP": 0,
         "Summon": [
             1012041
@@ -2460,7 +2460,7 @@ var _monsterskill = {
     "101401209": {
         "Key": "PassiveSkill02",
         "Name": "",
-        "Desc": "Phase 3's Max HP changed to <color style='color:#f29e38;'>1.66</color> times the original.",
+        "Desc": "Phase 3's Max HP changed to @1.66# times the original.",
         "SP": 0
     },
     "101401210": {
@@ -2478,13 +2478,13 @@ var _monsterskill = {
     "101401212": {
         "Key": "Skill09",
         "Name": "Power Amplification",
-        "Desc": "Slightly increases the DMG dealt by all friendly units by <color style='color:#f29e38;'>15%</color>. This effect is stackable.<br>Phase 3's Max HP changed to <color style='color:#f29e38;'>1.66</color> times the original.",
+        "Desc": "Slightly increases the DMG dealt by all friendly units by @15%#. This effect is stackable.\nPhase 3's Max HP changed to @1.66# times the original.",
         "SP": 0
     },
     "101401213": {
         "Key": "Skill10",
         "Name": "Emergency Support",
-        "Desc": "Summons <color style='color:#f29e38;'>Automaton Beetle</color> and <color style='color:#f29e38;'>Automaton Hound</color> at random.",
+        "Desc": "Summons @Automaton Beetle# and @Automaton Hound# at random.",
         "SP": 0,
         "Summon": [
             1012011,
@@ -2494,7 +2494,7 @@ var _monsterskill = {
     "101401214": {
         "Key": "Skill11",
         "Name": "Tactical Support",
-        "Desc": "Summons <color style='color:#f29e38;'>Automaton Direwolf</color>.",
+        "Desc": "Summons @Automaton Direwolf#.",
         "SP": 0,
         "Summon": [
             101302002
@@ -2503,7 +2503,7 @@ var _monsterskill = {
     "102201001": {
         "Key": "Skill01",
         "Name": "Frost Crush",
-        "Desc": "Deals <1> Ice DMG to a single target and delays their action by <color style='color:#f29e38;'>50%</color>.",
+        "Desc": "Deals <1> Ice DMG to a single target and delays their action by @50%#.",
         "SP": 15.0,
         "Elem": "Ice",
         "DMG": [
@@ -2513,7 +2513,7 @@ var _monsterskill = {
     "102202001": {
         "Key": "Skill01",
         "Name": "Scorching Crush",
-        "Desc": "Deals <1> Fire DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Burn</b> the target.<br>Burn DoT: <2> Fire DMG, lasts <color style='color:#f29e38;'>3</color> turns.",
+        "Desc": "Deals <1> Fire DMG to a single target, with a @100%# Base Chance to ``Burn` the target.\nBurn DoT: <2> Fire DMG, lasts @3# turns.",
         "SP": 15.0,
         "Elem": "Fire",
         "Status": [
@@ -2527,7 +2527,7 @@ var _monsterskill = {
     "102301001": {
         "Key": "Skill06",
         "Name": "Crimson Blade",
-        "Desc": "Deals <1> Fire DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Burn</b> the target.<br>Burn DoT: <2> Fire DMG, lasts <color style='color:#f29e38;'>3</color> turns.",
+        "Desc": "Deals <1> Fire DMG to a single target, with a @100%# Base Chance to ``Burn` the target.\nBurn DoT: <2> Fire DMG, lasts @3# turns.",
         "SP": 10.0,
         "Elem": "Fire",
         "Status": [
@@ -2552,7 +2552,7 @@ var _monsterskill = {
     "102301003": {
         "Key": "PassiveSkillInitiate",
         "Name": "Melt",
-        "Desc": "After attacking a Burned target, receives <color style='color:#f29e38;'>6%</color> DMG increase for <color style='color:#f29e38;'>3</color> turns. Max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "After attacking a Burned target, receives @6%# DMG increase for @3# turns. Max @5# stacks.",
         "SP": 0,
         "Status": [
             210230101
@@ -2561,7 +2561,7 @@ var _monsterskill = {
     "102301004": {
         "Key": "Skill01",
         "Name": "High-Temperature Operation",
-        "Desc": "Increases ATK by <color style='color:#f29e38;'>20%</color> and increases SPD by <color style='color:#f29e38;'>100</color>. This buff is dispelled upon Weakness Break.",
+        "Desc": "Increases ATK by @20%# and increases SPD by @100#. This buff is dispelled upon Weakness Break.",
         "SP": 0,
         "Status": [
             210230102
@@ -2582,7 +2582,7 @@ var _monsterskill = {
     "102301101": {
         "Key": "Skill06",
         "Name": "Crimson Blade",
-        "Desc": "Deals <1> Fire DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Burn</b> the target.<br>Burn DoT: <2> Fire DMG, lasts <color style='color:#f29e38;'>3</color> turns.",
+        "Desc": "Deals <1> Fire DMG to a single target, with a @100%# Base Chance to ``Burn` the target.\nBurn DoT: <2> Fire DMG, lasts @3# turns.",
         "SP": 10.0,
         "Elem": "Fire",
         "Status": [
@@ -2607,7 +2607,7 @@ var _monsterskill = {
     "102301107": {
         "Key": "PassiveSkillInitiate",
         "Name": "Melt",
-        "Desc": "After attacking a Burned target, receives <color style='color:#f29e38;'>6%</color> DMG increase for <color style='color:#f29e38;'>3</color> turns. Max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "After attacking a Burned target, receives @6%# DMG increase for @3# turns. Max @5# stacks.",
         "SP": 0,
         "Status": [
             210230101
@@ -2616,7 +2616,7 @@ var _monsterskill = {
     "102301103": {
         "Key": "Skill01",
         "Name": "High-Temperature Operation",
-        "Desc": "Increases ATK by <color style='color:#f29e38;'>20%</color> and increases SPD by <color style='color:#f29e38;'>100</color>. This buff is dispelled upon Weakness Break.",
+        "Desc": "Increases ATK by @20%# and increases SPD by @100#. This buff is dispelled upon Weakness Break.",
         "SP": 0,
         "Status": [
             210230102
@@ -2650,7 +2650,7 @@ var _monsterskill = {
     "102301105": {
         "Key": "Skill09",
         "Name": "Augury of Fireburst",
-        "Desc": "The next action uses <color style='color:#f29e38;'>Scorching Burst</color>.",
+        "Desc": "The next action uses @Scorching Burst#.",
         "SP": 0,
         "Prepare": [
             102301106
@@ -2669,7 +2669,7 @@ var _monsterskill = {
     "102302005": {
         "Key": "Skill05",
         "Name": "Summon Otherling",
-        "Desc": "Summons <color style='color:#f29e38;'>2</color> <color style='color:#f29e38;'>Everwinter Shadewalkers</color>.",
+        "Desc": "Summons @2# @Everwinter Shadewalkers#.",
         "SP": 0,
         "Summon": [
             102201002
@@ -2678,7 +2678,7 @@ var _monsterskill = {
     "102302006": {
         "Key": "Skill06",
         "Name": "Frozen Storm",
-        "Desc": "Deals <1> Ice DMG to all targets, with a <color style='color:#f29e38;'>100%</color> Base Chance to <color style='color:#f29e38;'>Deep Freeze</color> the targets.<br>Deep Freeze: SPD <color style='color:#f29e38;'>-12%</color>, Ice DMG RES <color style='color:#f29e38;'>-20%</color>, max <color style='color:#f29e38;'>3</color> stacks, lasts forever.",
+        "Desc": "Deals <1> Ice DMG to all targets, with a @100%# Base Chance to @Deep Freeze# the targets.\nDeep Freeze: SPD @-12%#, Ice DMG RES @-20%#, max @3# stacks, lasts forever.",
         "SP": 5.0,
         "Elem": "Ice",
         "Status": [
@@ -2691,7 +2691,7 @@ var _monsterskill = {
     "102302007": {
         "Key": "Skill07",
         "Name": "Devour Otherling",
-        "Desc": "Devours 1 Everwinter Shadewalker to increase ATK by <color style='color:#f29e38;'>50%</color> and <b>Locks Onto</b> a single target. <br>If there are no Everwinter Shadewalkers on the field, DEF is decreased by <color style='color:#f29e38;'>50%</color>.",
+        "Desc": "Devours 1 Everwinter Shadewalker to increase ATK by @50%# and ``Locks Onto` a single target. \nIf there are no Everwinter Shadewalkers on the field, DEF is decreased by @50%#.",
         "SP": 0,
         "Status": [
             210230208
@@ -2700,7 +2700,7 @@ var _monsterskill = {
     "102302008": {
         "Key": "Skill08",
         "Name": "Devour Otherling",
-        "Desc": "Devours 1 Everwinter Shadewalker to increase ATK by <color style='color:#f29e38;'>50%</color> and <b>Locks Onto</b> a single target. <br>If there are no Everwinter Shadewalkers on the field, DEF is decreased by <color style='color:#f29e38;'>50%</color>.",
+        "Desc": "Devours 1 Everwinter Shadewalker to increase ATK by @50%# and ``Locks Onto` a single target. \nIf there are no Everwinter Shadewalkers on the field, DEF is decreased by @50%#.",
         "SP": 0,
         "Status": [
             210230208,
@@ -2711,7 +2711,7 @@ var _monsterskill = {
     "102302009": {
         "Key": "Skill09",
         "Name": "Ice Wheel Crusher",
-        "Desc": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>500%</color> Base Chance to <color style='color:#f29e38;'>Deep Freeze</color> the target.<br>Deep Freeze: SPD <color style='color:#f29e38;'>-12%</color>, Ice DMG RES <color style='color:#f29e38;'>-20%</color>, max <color style='color:#f29e38;'>3</color> stacks, lasts forever.",
+        "Desc": "Deals <1> Ice DMG to a single target, with a @500%# Base Chance to @Deep Freeze# the target.\nDeep Freeze: SPD @-12%#, Ice DMG RES @-20%#, max @3# stacks, lasts forever.",
         "SP": 20.0,
         "Elem": "Ice",
         "Threat": true,
@@ -2741,7 +2741,7 @@ var _monsterskill = {
     "102302105": {
         "Key": "Skill05",
         "Name": "Summon Otherling",
-        "Desc": "Summons <color style='color:#f29e38;'>4</color> Everwinter Shadewalkers.",
+        "Desc": "Summons @4# Everwinter Shadewalkers.",
         "SP": 0,
         "Summon": [
             102201002
@@ -2750,7 +2750,7 @@ var _monsterskill = {
     "102302106": {
         "Key": "Skill06",
         "Name": "Frozen Storm",
-        "Desc": "Deals <1> Ice DMG to all targets, with a <color style='color:#f29e38;'>100%</color> Base Chance to <color style='color:#f29e38;'>Deep Freeze</color> the targets.<br>Deep Freeze: SPD <color style='color:#f29e38;'>-12%</color>, Ice DMG RES <color style='color:#f29e38;'>-20%</color>, max <color style='color:#f29e38;'>3</color> stacks, lasts forever.",
+        "Desc": "Deals <1> Ice DMG to all targets, with a @100%# Base Chance to @Deep Freeze# the targets.\nDeep Freeze: SPD @-12%#, Ice DMG RES @-20%#, max @3# stacks, lasts forever.",
         "SP": 5.0,
         "Elem": "Ice",
         "Status": [
@@ -2775,7 +2775,7 @@ var _monsterskill = {
     "102302109": {
         "Key": "Skill09",
         "Name": "Ice Wheel Crusher",
-        "Desc": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>500%</color> Base Chance to <color style='color:#f29e38;'>Deep Freeze</color> the target.<br>Deep Freeze: SPD <color style='color:#f29e38;'>-12%</color>, Ice DMG RES <color style='color:#f29e38;'>-20%</color>, max <color style='color:#f29e38;'>3</color> stacks, lasts forever.",
+        "Desc": "Deals <1> Ice DMG to a single target, with a @500%# Base Chance to @Deep Freeze# the target.\nDeep Freeze: SPD @-12%#, Ice DMG RES @-20%#, max @3# stacks, lasts forever.",
         "SP": 20.0,
         "Elem": "Ice",
         "Status": [
@@ -2807,7 +2807,7 @@ var _monsterskill = {
     "102302111": {
         "Key": "Skill11",
         "Name": "Blazing Freeze",
-        "Desc": "According to the number of Everwinter Shadewalkers devoured, deal <color style='color:#f29e38;'>100%</color></color><color style='color:#f29e38;'>300%</color></color><color style='color:#f29e38;'>400%</color></color><1> Ice DMG to all targets.<br>Has a <color style='color:#f29e38;'>100%</color> Base Chance to <color style='color:#f29e38;'>Deep Freeze</color> the targets.<br>Deep Freeze: SPD <color style='color:#f29e38;'>-12%</color>, Ice DMG RES <color style='color:#f29e38;'>-20%</color>, max <color style='color:#f29e38;'>3</color> stacks, lasts forever.",
+        "Desc": "According to the number of Everwinter Shadewalkers devoured, deal @100%##@300%##@400%##<1> Ice DMG to all targets.\nHas a @100%# Base Chance to @Deep Freeze# the targets.\nDeep Freeze: SPD @-12%#, Ice DMG RES @-20%#, max @3# stacks, lasts forever.",
         "SP": 5.0,
         "Elem": "Ice",
         "Threat": true,
@@ -2821,7 +2821,7 @@ var _monsterskill = {
     "200201001": {
         "Key": "Skill01",
         "Name": "Cloud Edge",
-        "Desc": "Deals <1> Wind DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to increase the target's DMG taken by <color style='color:#f29e38;'>25%</color> for <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Deals <1> Wind DMG to a single target, with a @100%# Base Chance to increase the target's DMG taken by @25%# for @2# turns.",
         "SP": 15.0,
         "Elem": "Wind",
         "Status": [
@@ -2853,7 +2853,7 @@ var _monsterskill = {
     "200203001": {
         "Key": "Skill01",
         "Name": "Sawing Evil",
-        "Desc": "Deals <1> Physical DMG to a single target and has a <color style='color:#f29e38;'>35%</color> Base Chance to inflict <color style='color:#f29e38;'>Reverberation</color>, lasting <color style='color:#f29e38;'>2</color> turns. <br>After targets afflicted with Reverberation receive an attack, enters <color style='color:#f29e38;'>Strong Reverberation</color>, then dispel Reverberation. <br>Strong Reverberation delays action by <color style='color:#f29e38;'>70%</color>, and renders the character unable to act, lasting <color style='color:#f29e38;'>1</color> turn.",
+        "Desc": "Deals <1> Physical DMG to a single target and has a @35%# Base Chance to inflict @Reverberation#, lasting @2# turns. \nAfter targets afflicted with Reverberation receive an attack, enters @Strong Reverberation#, then dispel Reverberation. \nStrong Reverberation delays action by @70%#, and renders the character unable to act, lasting @1# turn.",
         "SP": 15.0,
         "Elem": "Phys",
         "Status": [
@@ -2867,7 +2867,7 @@ var _monsterskill = {
     "800104001": {
         "Key": "Skill01",
         "Name": "Thunderflash",
-        "Desc": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>1</color> stack.",
+        "Desc": "Deals <1> Lightning DMG to a single target, with a @100%# Base Chance to ``Shock` the target.\nShock DoT: <2> Lightning DMG, lasts @2# turns, max @1# stack.",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -2881,7 +2881,7 @@ var _monsterskill = {
     "800105001": {
         "Key": "Skill01",
         "Name": "Windpath",
-        "Desc": "Deals <1> Wind DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "Deals <1> Wind DMG to a single target, with a @100%# Base Chance to inflict ``Wind Shear`.\nWind Shear DoT: <2> Lightning DMG, lasts @2# turns, max @5# stacks.",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -2895,7 +2895,7 @@ var _monsterskill = {
     "202201001": {
         "Key": "Skill01",
         "Name": "Callous Tailwind",
-        "Desc": "Deals <1> Wind DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>2</color> stacks of <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "Deals <1> Wind DMG to a single target, with a @100%# Base Chance to inflict @2# stacks of ``Wind Shear`.\nWind Shear DoT: <2> Wind DMG, lasts @3# turns, max @5# stacks.",
         "SP": 15.0,
         "Elem": "Wind",
         "Status": [
@@ -2909,7 +2909,7 @@ var _monsterskill = {
     "202201002": {
         "Key": "PassiveSkill01",
         "Name": "Rejuvenate",
-        "Desc": "Upon receiving a killing blow, restores <color style='color:#f29e38;'>50% Max HP</color> and recieve <color style='color:#f29e38;'>50%</color> SPD increase. This effect can only trigger 1 time per battle.",
+        "Desc": "Upon receiving a killing blow, restores @50% Max HP# and recieve @50%# SPD increase. This effect can only trigger 1 time per battle.",
         "SP": 0,
         "Status": [
             220220101,
@@ -2919,7 +2919,7 @@ var _monsterskill = {
     "202201003": {
         "Key": "Skill02",
         "Name": "Callous Tailwind",
-        "Desc": "Deals <1> Wind DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>2</color> stacks of <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "Deals <1> Wind DMG to a single target, with a @100%# Base Chance to inflict @2# stacks of ``Wind Shear`.\nWind Shear DoT: <2> Wind DMG, lasts @3# turns, max @5# stacks.",
         "SP": 15.0,
         "Elem": "Wind",
         "Status": [
@@ -2933,7 +2933,7 @@ var _monsterskill = {
     "202202001": {
         "Key": "Skill01",
         "Name": "Seeding Core",
-        "Desc": "Inflicts a single target with <color style='color:#f29e38;'>Spur of Thunderwoe</color>.",
+        "Desc": "Inflicts a single target with @Spur of Thunderwoe#.",
         "SP": 0,
         "Status": [
             220220203
@@ -2985,7 +2985,7 @@ var _monsterskill = {
     "202211003": {
         "Key": "SkillP01",
         "Name": "Maddened",
-        "Desc": "Enters the <color style='color:#f29e38;'>Maddening</color> state at the start of battle. While in the Maddening state, uses Sawing Evil: Sever.",
+        "Desc": "Enters the @Maddening# state at the start of battle. While in the Maddening state, uses Sawing Evil: Sever.",
         "SP": 0,
         "Status": [
             220221101
@@ -3025,7 +3025,7 @@ var _monsterskill = {
     "202301004": {
         "Key": "Skill04",
         "Name": "Mara-Summon",
-        "Desc": "Consumes <color style='color:#f29e38;'>10% Max HP</color> to summon 2 <color style='color:#f29e38;'>Mara-Struck Soldiers</color>",
+        "Desc": "Consumes @10% Max HP# to summon 2 @Mara-Struck Soldiers#",
         "SP": 0,
         "Summon": [
             2022010
@@ -3034,7 +3034,7 @@ var _monsterskill = {
     "202301005": {
         "Key": "SkillP01",
         "Name": "Vigor Draining",
-        "Desc": "When there are other friendly units with <color style='color:#f29e38;'>Rebirth</color> on the field, they have <color style='color:#f29e38;'>Draining Hit</color>.<br><br>Draining Hit:<br>Thunder-Shock restores <color style='color:#f29e38;'>2.5% Max HP</color><br>Punishing Bolts restores <color style='color:#f29e38;'>7.5% Max HP</color><br>Thudding Calamity restores <color style='color:#f29e38;'>20% Max HP</color>",
+        "Desc": "When there are other friendly units with @Rebirth# on the field, they have @Draining Hit#.\n\nDraining Hit:\nThunder-Shock restores @2.5% Max HP#\nPunishing Bolts restores @7.5% Max HP#\nThudding Calamity restores @20% Max HP#",
         "SP": 0,
         "Status": [
             220220101,
@@ -3044,7 +3044,7 @@ var _monsterskill = {
     "201101001": {
         "Key": "Skill01",
         "Name": "Lion's Roar",
-        "Desc": "Deals <1> Fire DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Weaken</b> them.<br>Weaken: DMG dealt decreases by <color style='color:#f29e38;'>30%</color>, lasts <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Deals <1> Fire DMG to a single target, with a @100%# Base Chance to ``Weaken` them.\nWeaken: DMG dealt decreases by @30%#, lasts @2# turns.",
         "SP": 10.0,
         "Elem": "Fire",
         "Status": [
@@ -3057,7 +3057,7 @@ var _monsterskill = {
     "201102001": {
         "Key": "Skill01",
         "Name": "Dense Fog",
-        "Desc": "Deals <1> Imaginary DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to reduce the target's SPD by <color style='color:#f29e38;'>25%</color>, lasting <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Deals <1> Imaginary DMG to a single target, with a @100%# Base Chance to reduce the target's SPD by @25%#, lasting @2# turns.",
         "SP": 10.0,
         "Elem": "Imaginary",
         "Status": [
@@ -3070,7 +3070,7 @@ var _monsterskill = {
     "201201001": {
         "Key": "Skill01",
         "Name": "Nightly Luminosity",
-        "Desc": "Deals <1> Fire DMG to all targets.<br>If there are 3~4 alive characters, randomly choose a maximum of 2 characters whose DEF is not reduced by itself, and tries with a <color style='color:#f29e38;'>80%</color> Base Chance to reduce their DEF by <color style='color:#f29e38;'>30%</color>, lasting <color style='color:#f29e38;'>2</color> turns.<br>If there are 1~2 alive characters, randomly choose 1 character, and tries with a <color style='color:#f29e38;'>80%</color> Base Chance to reduce their DEF by <color style='color:#f29e38;'>30%</color>, lasting <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Deals <1> Fire DMG to all targets.\nIf there are 3~4 alive characters, randomly choose a maximum of 2 characters whose DEF is not reduced by itself, and tries with a @80%# Base Chance to reduce their DEF by @30%#, lasting @2# turns.\nIf there are 1~2 alive characters, randomly choose 1 character, and tries with a @80%# Base Chance to reduce their DEF by @30%#, lasting @2# turns.",
         "SP": 5.0,
         "Elem": "Fire",
         "Status": [
@@ -3083,7 +3083,7 @@ var _monsterskill = {
     "201201002": {
         "Key": "SkillP01",
         "Name": "Candle Flame",
-        "Desc": "When receiving a killing blow: Deal <color style='color:#f29e38;'>40% Self Max HP</color> Fire DMG and <color style='color:#f29e38;'>1.0</color> Fire Toughness DMG to all friendly units, with a <color style='color:#f29e38;'>100%</color> Base Chance to reduce their DEF by <color style='color:#f29e38;'>30%</color> for <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "When receiving a killing blow: Deal @40% Self Max HP# Fire DMG and @1.0# Fire Toughness DMG to all friendly units, with a @100%# Base Chance to reduce their DEF by @30%# for @2# turns.",
         "SP": 5.0,
         "Elem": "Fire",
         "Status": [
@@ -3093,7 +3093,7 @@ var _monsterskill = {
     "201301002": {
         "Key": "Skill01",
         "Name": "Dread",
-        "Desc": "Increases Sanction Rate level by <color style='color:#f29e38;'>33%</color> and deals <1> Imaginary DMG to all targets.<br>Has a <color style='color:#f29e38;'>60%</color> Base Chance to <b>Weaken</b> them.<br>Weaken: DMG dealt decreases by <color style='color:#f29e38;'>20%</color>, lasts <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Increases Sanction Rate level by @33%# and deals <1> Imaginary DMG to all targets.\nHas a @60%# Base Chance to ``Weaken` them.\nWeaken: DMG dealt decreases by @20%#, lasts @2# turns.",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Status": [
@@ -3116,7 +3116,7 @@ var _monsterskill = {
     "201301004": {
         "Key": "Skill03",
         "Name": "Enchainment",
-        "Desc": "Deals <1> Imaginary DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance of inflicting <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn.<br>Imprisonment: Cannot take action, action delayed by <color style='color:#f29e38;'>50%</color>.",
+        "Desc": "Deals <1> Imaginary DMG to a single target, with a @100%# Base Chance of inflicting ``Imprisonment` for @1# turn.\nImprisonment: Cannot take action, action delayed by @50%#.",
         "SP": 15.0,
         "Elem": "Imaginary",
         "Threat": true,
@@ -3127,7 +3127,7 @@ var _monsterskill = {
     "201301001": {
         "Key": "SkillP01",
         "Name": "Farewell Etiquette",
-        "Desc": "The Sanction Rate level increases by <color style='color:#f29e38;'>33%</color> when your team uses Skills or Ultimates. <br>When the Sanction Rate is full, enters Sanction mode, SPD increased by <color style='color:#f29e38;'>30</color>, starts using <color style='color:#f29e38;'>Restraint</color> and <color style='color:#f29e38;'>Enchainment</color>, and summons <color style='color:#f29e38;'>2</color> Entranced Ingenium: Illumination Dragonfish.",
+        "Desc": "The Sanction Rate level increases by @33%# when your team uses Skills or Ultimates. \nWhen the Sanction Rate is full, enters Sanction mode, SPD increased by @30#, starts using @Restraint# and @Enchainment#, and summons @2# Entranced Ingenium: Illumination Dragonfish.",
         "SP": 0,
         "Prepare": [
             201301003,
@@ -3153,7 +3153,7 @@ var _monsterskill = {
     "201302002": {
         "Key": "Skill02",
         "Name": "Subdue",
-        "Desc": "Deals <1> Physical DMG to a single target and has a <color style='color:#f29e38;'>70%</color> Base Chance to inflict <color style='color:#f29e38;'>Reverberation</color>, lasting <color style='color:#f29e38;'>2</color> turns. <br>After targets afflicted with Reverberation receive an attack, enters <color style='color:#f29e38;'>Strong Reverberation</color>, then dispel Reverberation. <br>Strong Reverberation delays action by <color style='color:#f29e38;'>70%</color>, and renders the character unable to act, lasting <color style='color:#f29e38;'>1</color> turn.",
+        "Desc": "Deals <1> Physical DMG to a single target and has a @70%# Base Chance to inflict @Reverberation#, lasting @2# turns. \nAfter targets afflicted with Reverberation receive an attack, enters @Strong Reverberation#, then dispel Reverberation. \nStrong Reverberation delays action by @70%#, and renders the character unable to act, lasting @1# turn.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -3167,7 +3167,7 @@ var _monsterskill = {
     "201302003": {
         "Key": "Skill03",
         "Name": "Revert Yin and Yang",
-        "Desc": "Deals <1> Physical DMG to all targets.<br>If there are at least 3 characters not Reverberated, then pick 2 such characters and inflict <color style='color:#f29e38;'>Reverberation</color> with a <color style='color:#f29e38;'>35%</color> Base Chance, lasting <color style='color:#f29e38;'>2</color> turns.<br>If there are at most 2 characters not Reverberated, then pick 1 such character and inflict <color style='color:#f29e38;'>Reverberation</color> with a <color style='color:#f29e38;'>35%</color> Base Chance, lasting <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Deals <1> Physical DMG to all targets.\nIf there are at least 3 characters not Reverberated, then pick 2 such characters and inflict @Reverberation# with a @35%# Base Chance, lasting @2# turns.\nIf there are at most 2 characters not Reverberated, then pick 1 such character and inflict @Reverberation# with a @35%# Base Chance, lasting @2# turns.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -3181,7 +3181,7 @@ var _monsterskill = {
     "201302005": {
         "Key": "SkillP01",
         "Name": "Soul Warrant",
-        "Desc": "When there are targets afflicted with <color style='color:#f29e38;'>Strong Reverberation</color> on the field, lock on to those targets and during the next action, use <color style='color:#f29e38;'>Heaven's Fall on them</color>",
+        "Desc": "When there are targets afflicted with @Strong Reverberation# on the field, lock on to those targets and during the next action, use @Heaven's Fall on them#",
         "SP": 0,
         "Elem": "Phys",
         "Status": [
@@ -3194,7 +3194,7 @@ var _monsterskill = {
     "200401001": {
         "Key": "Skill01",
         "Name": "Midnight Tumult",
-        "Desc": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>1</color> stack.",
+        "Desc": "Deals <1> Lightning DMG to a single target, with a @100%# Base Chance to ``Shock` the target.\nShock DoT: <2> Lightning DMG, lasts @3# turns, max @1# stack.",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3208,7 +3208,7 @@ var _monsterskill = {
     "200401002": {
         "Key": "Skill02",
         "Name": "Caressing Moonlight",
-        "Desc": "Deals <1> Lightning DMG to a single target and <2> Lightning DMG to adjacent units. <br>If the target is Shocked, inflicts <b>Shock</b> on the adjacent units.",
+        "Desc": "Deals <1> Lightning DMG to a single target and <2> Lightning DMG to adjacent units. \nIf the target is Shocked, inflicts ``Shock` on the adjacent units.",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3232,7 +3232,7 @@ var _monsterskill = {
     "200401004": {
         "Key": "Skill05",
         "Name": "Spirit Whisper",
-        "Desc": "Has a <color style='color:#f29e38;'>120%</color> Base Chance of <color style='color:#f29e38;'>Dominating</color> a single target for <color style='color:#f29e38;'>3</color> turns, making them attack a random ally of theirs.",
+        "Desc": "Has a @120%# Base Chance of @Dominating# a single target for @3# turns, making them attack a random ally of theirs.",
         "SP": 15.0,
         "Threat": true,
         "Status": [
@@ -3261,7 +3261,7 @@ var _monsterskill = {
     "200401101": {
         "Key": "Skill01",
         "Name": "Midnight Tumult",
-        "Desc": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>1</color> stack.",
+        "Desc": "Deals <1> Lightning DMG to a single target, with a @100%# Base Chance to ``Shock` the target.\nShock DoT: <2> Lightning DMG, lasts @3# turns, max @1# stack.",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3275,7 +3275,7 @@ var _monsterskill = {
     "200401102": {
         "Key": "Skill02",
         "Name": "Caressing Moonlight",
-        "Desc": "Deals <1> Lightning DMG to a single target and <2> Lightning DMG to adjacent units. <br>If the target is Shocked, inflicts <b>Shock</b> on the adjacent units.",
+        "Desc": "Deals <1> Lightning DMG to a single target and <2> Lightning DMG to adjacent units. \nIf the target is Shocked, inflicts ``Shock` on the adjacent units.",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3299,7 +3299,7 @@ var _monsterskill = {
     "200401104": {
         "Key": "Skill05",
         "Name": "Spirit Whisper",
-        "Desc": "Has a <color style='color:#f29e38;'>120%</color> Base Chance of <color style='color:#f29e38;'>Dominating</color> a single target for <color style='color:#f29e38;'>3</color> turns, making them attack a random ally of theirs.",
+        "Desc": "Has a @120%# Base Chance of @Dominating# a single target for @3# turns, making them attack a random ally of theirs.",
         "SP": 15.0,
         "Threat": true,
         "Status": [
@@ -3309,7 +3309,7 @@ var _monsterskill = {
     "200401105": {
         "Key": "Skill04",
         "Name": "Seething Whisper of the Fallen",
-        "Desc": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target. At the same time, deals <2> Lightning DMG to all other Shocked targets.<br>Shock DoT: <3> Lightning DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>1</color> stack.",
+        "Desc": "Deals <1> Lightning DMG to a single target, with a @100%# Base Chance to ``Shock` the target. At the same time, deals <2> Lightning DMG to all other Shocked targets.\nShock DoT: <3> Lightning DMG, lasts @3# turns, max @1# stack.",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3324,7 +3324,7 @@ var _monsterskill = {
     "200401106": {
         "Key": "Skill07",
         "Name": "Psychological Suggestion",
-        "Desc": "Has a <color style='color:#f29e38;'>120%</color> Base Chance to apply <color style='color:#f29e38;'>Psychological Suggestion</color> to multiple targets, lasting <color style='color:#f29e38;'>3</color> turns. <br>Adds <color style='color:#f29e38;'>Revelation</color> onto the action bar. The next time Revelation takes action, any targets with <color style='color:#f29e38;'>Psychological Suggestion</color> will become Dominated.",
+        "Desc": "Has a @120%# Base Chance to apply @Psychological Suggestion# to multiple targets, lasting @3# turns. \nAdds @Revelation# onto the action bar. The next time Revelation takes action, any targets with @Psychological Suggestion# will become Dominated.",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -3354,7 +3354,7 @@ var _monsterskill = {
     "200401109": {
         "Key": "PassiveSkill02",
         "Name": "Griever",
-        "Desc": "Every time a target triggers their own Shock state's self DoT, DMG dealt by Kafka increases by <color style='color:#f29e38;'>2%</color>, stackable.",
+        "Desc": "Every time a target triggers their own Shock state's self DoT, DMG dealt by Kafka increases by @2%#, stackable.",
         "SP": 0,
         "Status": [
             220040111
@@ -3363,7 +3363,7 @@ var _monsterskill = {
     "200401201": {
         "Key": "Skill01",
         "Name": "Midnight Tumult",
-        "Desc": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>1</color> stack.",
+        "Desc": "Deals <1> Lightning DMG to a single target, with a @100%# Base Chance to ``Shock` the target.\nShock DoT: <2> Lightning DMG, lasts @3# turns, max @1# stack.",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3377,7 +3377,7 @@ var _monsterskill = {
     "200401202": {
         "Key": "Skill02",
         "Name": "Caressing Moonlight",
-        "Desc": "Deals <1> Lightning DMG to a single target and <2> Lightning DMG to adjacent units. <br>If the target is Shocked, inflicts <b>Shock</b> on the adjacent units.",
+        "Desc": "Deals <1> Lightning DMG to a single target and <2> Lightning DMG to adjacent units. \nIf the target is Shocked, inflicts ``Shock` on the adjacent units.",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3401,7 +3401,7 @@ var _monsterskill = {
     "200401204": {
         "Key": "Skill05",
         "Name": "Spirit Whisper",
-        "Desc": "Has a <color style='color:#f29e38;'>120%</color> Base Chance of <color style='color:#f29e38;'>Dominating</color> a single target for <color style='color:#f29e38;'>3</color> turns, making them attack a random ally of theirs.",
+        "Desc": "Has a @120%# Base Chance of @Dominating# a single target for @3# turns, making them attack a random ally of theirs.",
         "SP": 15.0,
         "Threat": true,
         "Status": [
@@ -3411,7 +3411,7 @@ var _monsterskill = {
     "200401205": {
         "Key": "Skill04",
         "Name": "Seething Whisper of the Fallen",
-        "Desc": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target. At the same time, deals <2> Lightning DMG to all other Shocked targets.<br>Shock DoT: <3> Lightning DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>1</color> stack.",
+        "Desc": "Deals <1> Lightning DMG to a single target, with a @100%# Base Chance to ``Shock` the target. At the same time, deals <2> Lightning DMG to all other Shocked targets.\nShock DoT: <3> Lightning DMG, lasts @3# turns, max @1# stack.",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3426,7 +3426,7 @@ var _monsterskill = {
     "200401206": {
         "Key": "Skill07",
         "Name": "Psychological Suggestion",
-        "Desc": "Has a <color style='color:#f29e38;'>120%</color> Base Chance to apply <color style='color:#f29e38;'>Psychological Suggestion</color> to multiple targets, lasting <color style='color:#f29e38;'>3</color> turns. <br>Adds <color style='color:#f29e38;'>Revelation</color> onto the action bar. The next time Revelation takes action, any targets with <color style='color:#f29e38;'>Psychological Suggestion</color> will become Dominated.",
+        "Desc": "Has a @120%# Base Chance to apply @Psychological Suggestion# to multiple targets, lasting @3# turns. \nAdds @Revelation# onto the action bar. The next time Revelation takes action, any targets with @Psychological Suggestion# will become Dominated.",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -3456,7 +3456,7 @@ var _monsterskill = {
     "200401209": {
         "Key": "PassiveSkill02",
         "Name": "Griever",
-        "Desc": "Every time a target triggers their own Shock state's self DoT, DMG dealt by Kafka increases by <color style='color:#f29e38;'>2%</color>, stackable.<br>Phase 3's Max HP changed to <color style='color:#f29e38;'>1.66</color> times the original.<br>In Phase 3, when HP first falls below <color style='color:#f29e38;'>50%</color>, act immediately.",
+        "Desc": "Every time a target triggers their own Shock state's self DoT, DMG dealt by Kafka increases by @2%#, stackable.\nPhase 3's Max HP changed to @1.66# times the original.\nIn Phase 3, when HP first falls below @50%#, act immediately.",
         "SP": 0,
         "Status": [
             220040111
@@ -3475,7 +3475,7 @@ var _monsterskill = {
     "200402002": {
         "Key": "Skill02",
         "Name": "Swallow Return",
-        "Desc": "Summons 4 <color style='color:#f29e38;'>Flying Swords</color>, applies <color style='color:#f29e38;'>Formation Core</color> to the Flying Swords.<br>Yanqing gets <color style='color:#f29e38;'>Sword Formation</color>: SPD increased by <color style='color:#f29e38;'>50</color>. Destroying all Flying Swords will dispel this and cause Yanqing to lose <color style='color:#f29e38;'>10% Max HP</color>.",
+        "Desc": "Summons 4 @Flying Swords#, applies @Formation Core# to the Flying Swords.\nYanqing gets @Sword Formation#: SPD increased by @50#. Destroying all Flying Swords will dispel this and cause Yanqing to lose @10% Max HP#.",
         "SP": 10.0,
         "Status": [
             220040204,
@@ -3489,7 +3489,7 @@ var _monsterskill = {
     "200402003": {
         "Key": "Skill03",
         "Name": "Ironthorn",
-        "Desc": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>1</color> turn.<br>Freeze Additional DMG: <2> Ice DMG.",
+        "Desc": "Deals <1> Ice DMG to a single target, with a @100%# Base Chance to ``Freeze` the target for @1# turn.\nFreeze Additional DMG: <2> Ice DMG.",
         "SP": 15.0,
         "Elem": "Ice",
         "DMG": [
@@ -3511,7 +3511,7 @@ var _monsterskill = {
     "200402005": {
         "Key": "Skill05",
         "Name": "Qi Advance",
-        "Desc": "Enters the Charge state. Cast <color style='color:#f29e38;'>Cascading Laceration</color> on all targets in the next action.",
+        "Desc": "Enters the Charge state. Cast @Cascading Laceration# on all targets in the next action.",
         "SP": 0,
         "Prepare": [
             200402006
@@ -3551,7 +3551,7 @@ var _monsterskill = {
     "202401001": {
         "Key": "Skill01",
         "Name": "Pedicel: Wintry Wind",
-        "Desc": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Wintry Wind\"</color>",
+        "Desc": "Summons Ambrosial Arbor branch @\"Twig of Wintry Wind\"#",
         "SP": 0,
         "Summon": [
             2022070
@@ -3560,7 +3560,7 @@ var _monsterskill = {
     "202401002": {
         "Key": "Skill02",
         "Name": "Pedicel: Marple Leaf",
-        "Desc": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Marple Leaf\"</color>",
+        "Desc": "Summons Ambrosial Arbor branch @\"Twig of Marple Leaf\"#",
         "SP": 0,
         "Summon": [
             2022080
@@ -3569,7 +3569,7 @@ var _monsterskill = {
     "202401003": {
         "Key": "Skill03",
         "Name": "Pedicel: Glorious Blooms",
-        "Desc": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Glorious Blooms\"</color>",
+        "Desc": "Summons Ambrosial Arbor branch @\"Twig of Glorious Blooms\"#",
         "SP": 0,
         "Summon": [
             2022090
@@ -3578,7 +3578,7 @@ var _monsterskill = {
     "202401004": {
         "Key": "Skill04",
         "Name": "Pedicel: Lavish Fruits",
-        "Desc": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Lavish Fruits\"</color>",
+        "Desc": "Summons Ambrosial Arbor branch @\"Twig of Lavish Fruits\"#",
         "SP": 0,
         "Summon": [
             2022100
@@ -3607,7 +3607,7 @@ var _monsterskill = {
     "202401007": {
         "Key": "Skill07",
         "Name": "Hardy Leaf Sheath",
-        "Desc": "Enters <color style='color:#f29e38;'>Hardy Leaf Sheath</color> state: DEF increased by <color style='color:#f29e38;'>200%</color>, toughness cannot be reduced, lasts <color style='color:#f29e38;'>1</color> turn.",
+        "Desc": "Enters @Hardy Leaf Sheath# state: DEF increased by @200%#, toughness cannot be reduced, lasts @1# turn.",
         "SP": 0,
         "Status": [
             220240101
@@ -3616,7 +3616,7 @@ var _monsterskill = {
     "202401008": {
         "Key": "Skill08",
         "Name": "Flamboyant Gore",
-        "Desc": "Uses this ability immediately when there are 2 Lavish Fruits on the field: Deals <1> Lightning DMG to all targets.<br>For every \"Ambrosial Arbor Branches\" on the field, an extra <2> Lightning DMG is dealt.<br>After the ability is used, remove all \"Ambrosial Arbor Branches\" on the field.",
+        "Desc": "Uses this ability immediately when there are 2 Lavish Fruits on the field: Deals <1> Lightning DMG to all targets.\nFor every \"Ambrosial Arbor Branches\" on the field, an extra <2> Lightning DMG is dealt.\nAfter the ability is used, remove all \"Ambrosial Arbor Branches\" on the field.",
         "SP": 20.0,
         "Elem": "Elec",
         "Threat": true,
@@ -3637,7 +3637,7 @@ var _monsterskill = {
     "202401101": {
         "Key": "Skill01",
         "Name": "Pedicel: Wintry Wind",
-        "Desc": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Wintry Wind\"</color>",
+        "Desc": "Summons Ambrosial Arbor branch @\"Twig of Wintry Wind\"#",
         "SP": 0,
         "Summon": [
             2022071
@@ -3646,7 +3646,7 @@ var _monsterskill = {
     "202401102": {
         "Key": "Skill02",
         "Name": "Pedicel: Marple Leaf",
-        "Desc": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Marple Leaf\"</color>",
+        "Desc": "Summons Ambrosial Arbor branch @\"Twig of Marple Leaf\"#",
         "SP": 0,
         "Summon": [
             2022081
@@ -3655,7 +3655,7 @@ var _monsterskill = {
     "202401103": {
         "Key": "Skill03",
         "Name": "Pedicel: Glorious Blooms",
-        "Desc": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Glorious Blooms\"</color>",
+        "Desc": "Summons Ambrosial Arbor branch @\"Twig of Glorious Blooms\"#",
         "SP": 0,
         "Summon": [
             2022091
@@ -3664,7 +3664,7 @@ var _monsterskill = {
     "202401104": {
         "Key": "Skill04",
         "Name": "Pedicel: Lavish Fruits",
-        "Desc": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Lavish Fruits\"</color>",
+        "Desc": "Summons Ambrosial Arbor branch @\"Twig of Lavish Fruits\"#",
         "SP": 0,
         "Summon": [
             2022101
@@ -3693,7 +3693,7 @@ var _monsterskill = {
     "202401107": {
         "Key": "Skill07",
         "Name": "Hardy Leaf Sheath",
-        "Desc": "Enters <color style='color:#f29e38;'>Hardy Leaf Sheath</color> state: DEF increased by <color style='color:#f29e38;'>200%</color>, toughness cannot be reduced, lasts <color style='color:#f29e38;'>1</color> turn.",
+        "Desc": "Enters @Hardy Leaf Sheath# state: DEF increased by @200%#, toughness cannot be reduced, lasts @1# turn.",
         "SP": 0,
         "Status": [
             220240101
@@ -3702,7 +3702,7 @@ var _monsterskill = {
     "202401108": {
         "Key": "Skill08",
         "Name": "Flamboyant Gore",
-        "Desc": "Uses this ability immediately when there are 2 Lavish Fruits on the field: Deals <1> Lightning DMG to all targets.<br>For every \"Ambrosial Arbor Branches\" on the field, an extra <2> Lightning DMG is dealt.<br>After the ability is used, remove all <color style='color:#f29e38;'>Twigs of Lavish Fruits</color> on the field.",
+        "Desc": "Uses this ability immediately when there are 2 Lavish Fruits on the field: Deals <1> Lightning DMG to all targets.\nFor every \"Ambrosial Arbor Branches\" on the field, an extra <2> Lightning DMG is dealt.\nAfter the ability is used, remove all @Twigs of Lavish Fruits# on the field.",
         "SP": 20.0,
         "Elem": "Elec",
         "Threat": true,
@@ -3717,7 +3717,7 @@ var _monsterskill = {
     "202401109": {
         "Key": "Skill09",
         "Name": "Everlife",
-        "Desc": "Immediately restores <color style='color:#f29e38;'>10% Max HP</color> and gains <color style='color:#f29e38;'>1</color> stack of <color style='color:#f29e38;'>Synwood Renewal</color>.<br>Synwood Renewal: Restores <color style='color:#f29e38;'>4% Max HP</color> every turn. Max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "Immediately restores @10% Max HP# and gains @1# stack of @Synwood Renewal#.\nSynwood Renewal: Restores @4% Max HP# every turn. Max @5# stacks.",
         "SP": 0,
         "Status": [
             220240111
@@ -3726,7 +3726,7 @@ var _monsterskill = {
     "202401110": {
         "Key": "Skill10",
         "Name": "Pedicel: Ivy Allure",
-        "Desc": "Summons 2 Ambrosial Arbor Branch <color style='color:#f29e38;'>\"Twig of Wintry Wind.\"</color>",
+        "Desc": "Summons 2 Ambrosial Arbor Branch @\"Twig of Wintry Wind.\"#",
         "SP": 0,
         "Summon": [
             2022071
@@ -3735,7 +3735,7 @@ var _monsterskill = {
     "202401111": {
         "Key": "Skill11",
         "Name": "Pedicel: Willow Sprig",
-        "Desc": "Summons 2 Ambrosial Arbor Branch <color style='color:#f29e38;'>\"Twig of Marple Leaf.\"</color>",
+        "Desc": "Summons 2 Ambrosial Arbor Branch @\"Twig of Marple Leaf.\"#",
         "SP": 0,
         "Summon": [
             2022081
@@ -3744,7 +3744,7 @@ var _monsterskill = {
     "202401112": {
         "Key": "Skill12",
         "Name": "Pedicel: Hazel Lush",
-        "Desc": "Summons 2 <color style='color:#f29e38;'>\"Twig of Marple Leaf\"</color>, 1 <color style='color:#f29e38;'>\"Twig of Wintry Wind\"</color>, and 1 <color style='color:#f29e38;'>\"Twig of Glorious Blooms\"</color>.",
+        "Desc": "Summons 2 @\"Twig of Marple Leaf\"#, 1 @\"Twig of Wintry Wind\"#, and 1 @\"Twig of Glorious Blooms\"#.",
         "SP": 0,
         "Summon": [
             2022071,
@@ -3755,7 +3755,7 @@ var _monsterskill = {
     "202401113": {
         "Key": "Skill13",
         "Name": "Pedicel: Entwined Vines",
-        "Desc": "Summons 2 <color style='color:#f29e38;'>\"Twig of Lavish Fruits\"</color>, 1 <color style='color:#f29e38;'>\"Twig of Marple Leaf\"</color>, and 1 <color style='color:#f29e38;'>\"Twig of Wintry Wind\"</color>.",
+        "Desc": "Summons 2 @\"Twig of Lavish Fruits\"#, 1 @\"Twig of Marple Leaf\"#, and 1 @\"Twig of Wintry Wind\"#.",
         "SP": 0,
         "Summon": [
             2022071,
@@ -3766,7 +3766,7 @@ var _monsterskill = {
     "202401114": {
         "Key": "Skill14",
         "Name": "Vigor Overflow",
-        "Desc": "For every buff the Abundant Ebon Deer gains, the DMG dealt by the Abundant Ebon Deer and all Ambrosial Arbor Branches increases by <color style='color:#f29e38;'>15%</color>. This effect is stackable.",
+        "Desc": "For every buff the Abundant Ebon Deer gains, the DMG dealt by the Abundant Ebon Deer and all Ambrosial Arbor Branches increases by @15%#. This effect is stackable.",
         "SP": 0,
         "Status": [
             220240112
@@ -3775,7 +3775,7 @@ var _monsterskill = {
     "202207001": {
         "Key": "Skill01",
         "Name": "Outrage",
-        "Desc": "Deals <1> Wind DMG to a single target, and has a <color style='color:#f29e38;'>100% Base Chance to inflict <color style='color:#f29e38;'>Outrage</color> to the target. <br>Outrage: Cannot take action for <color style='color:#f29e38;'>2</color> turns and will use Basic ATK against a random enemy unit.",
+        "Desc": "Deals <1> Wind DMG to a single target, and has a @100% Base Chance to inflict @Outrage# to the target. \nOutrage: Cannot take action for @2# turns and will use Basic ATK against a random enemy unit.",
         "SP": 15.0,
         "Elem": "Wind",
         "Status": [
@@ -3788,7 +3788,7 @@ var _monsterskill = {
     "202208001": {
         "Key": "Skill01",
         "Name": "Engender",
-        "Desc": "Enhances the Abundant Ebon Deer: Increases its ATK by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Enhances the Abundant Ebon Deer: Increases its ATK by @20%# for @2# turns.",
         "SP": 0,
         "Status": [
             220220802
@@ -3797,7 +3797,7 @@ var _monsterskill = {
     "202208002": {
         "Key": "Skill02",
         "Name": "Retaliation",
-        "Desc": "Enters the <color style='color:#f29e38;'>Counter</color> state: When attacked, immediately uses \"Leaf Hinging\" on the attacker.",
+        "Desc": "Enters the @Counter# state: When attacked, immediately uses \"Leaf Hinging\" on the attacker.",
         "SP": 0,
         "Prepare": [
             202208003
@@ -3819,7 +3819,7 @@ var _monsterskill = {
     "202209001": {
         "Key": "Skill01",
         "Name": "Last Spring",
-        "Desc": "Immediately restores all allies' HP by <color style='color:#f29e38;'>25% Self Max HP</color>.",
+        "Desc": "Immediately restores all allies' HP by @25% Self Max HP#.",
         "SP": 0
     },
     "202210001": {
@@ -3843,7 +3843,7 @@ var _monsterskill = {
     "202207101": {
         "Key": "Skill01",
         "Name": "Outrage",
-        "Desc": "Deals <1> Wind DMG to a single target, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>Outrage</color>, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict Wind Shear. <br>Outrage: Cannot take action for <color style='color:#f29e38;'>2</color> turns and will use Basic ATK against a random enemy unit.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "Deals <1> Wind DMG to a single target, has a @100%# Base Chance to inflict @Outrage#, has a @100%# Base Chance to inflict Wind Shear. \nOutrage: Cannot take action for @2# turns and will use Basic ATK against a random enemy unit.\nWind Shear DoT: <2> Wind DMG, lasts @2# turns, max @5# stacks.",
         "SP": 15.0,
         "Elem": "Wind",
         "Status": [
@@ -3858,7 +3858,7 @@ var _monsterskill = {
     "202208101": {
         "Key": "Skill01",
         "Name": "Engender",
-        "Desc": "Enhances the Abundant Ebon Deer: Increases its ATK by <color style='color:#f29e38;'>30%</color> for <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Enhances the Abundant Ebon Deer: Increases its ATK by @30%# for @2# turns.",
         "SP": 0,
         "Status": [
             220220802
@@ -3867,7 +3867,7 @@ var _monsterskill = {
     "202208102": {
         "Key": "Skill02",
         "Name": "Retaliation",
-        "Desc": "Enters the <color style='color:#f29e38;'>Counter</color> state: When attacked, immediately uses \"Leaf Hinging\" on the attacker.",
+        "Desc": "Enters the @Counter# state: When attacked, immediately uses \"Leaf Hinging\" on the attacker.",
         "SP": 0,
         "Prepare": [
             202208103
@@ -3879,7 +3879,7 @@ var _monsterskill = {
     "202208103": {
         "Key": "Skill03",
         "Name": "Leaf Hinging",
-        "Desc": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>1</color> stack.",
+        "Desc": "Deals <1> Lightning DMG to a single target, with a @100%# Base Chance to ``Shock` the target.\nShock DoT: <2> Lightning DMG, lasts @2# turns, max @1# stack.",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3893,7 +3893,7 @@ var _monsterskill = {
     "202209101": {
         "Key": "Skill01",
         "Name": "Last Spring",
-        "Desc": "Immediately restores all allies' HP by <color style='color:#f29e38;'>25% Self Max HP</color>.",
+        "Desc": "Immediately restores all allies' HP by @25% Self Max HP#.",
         "SP": 0
     },
     "202210101": {
@@ -3947,7 +3947,7 @@ var _monsterskill = {
     "800103002": {
         "Key": "Skill02",
         "Name": "Focused Charge",
-        "Desc": "Increases the ATK of all friendly units by <color style='color:#f29e38;'>30%</color>, lasts <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Increases the ATK of all friendly units by @30%#, lasts @2# turns.",
         "SP": 0,
         "Status": [
             280010301
@@ -3956,7 +3956,7 @@ var _monsterskill = {
     "800103003": {
         "Key": "PassiveSkill01",
         "Name": "Energy Burst",
-        "Desc": "All characters gain <color style='color:#f29e38;'>15</color> Energy after this unit suffers a killing blow.",
+        "Desc": "All characters gain @15# Energy after this unit suffers a killing blow.",
         "SP": 0
     },
     "800201001": {
@@ -3982,7 +3982,7 @@ var _monsterskill = {
     "800201003": {
         "Key": "Skill03",
         "Name": "Reverberating Carol",
-        "Desc": "Deals <1> Imaginary DMG to a single target and adjacent units, and enters a <color style='color:#f29e38;'>Defensive Position</color>. <br>In the next turn, use <color style='color:#f29e38;'>Carolburst</color> and increase DMG dealt by <color style='color:#f29e38;'>100%</color>.",
+        "Desc": "Deals <1> Imaginary DMG to a single target and adjacent units, and enters a @Defensive Position#. \nIn the next turn, use @Carolburst# and increase DMG dealt by @100%#.",
         "SP": 10.0,
         "Elem": "Imaginary",
         "Prepare": [
@@ -4112,7 +4112,7 @@ var _monsterskill = {
     "800206004": {
         "Key": "SkillP01",
         "Name": "T—Taking Revenge",
-        "Desc": "When a friendly unit is attacked, this unit will attack all targets. <br>For every unit the character hits, the Trotter deals <color style='color:#f29e38;'>55%</color> DMG once to all characters.",
+        "Desc": "When a friendly unit is attacked, this unit will attack all targets. \nFor every unit the character hits, the Trotter deals @55%# DMG once to all characters.",
         "SP": 0,
         "Elem": "Fire",
         "Status": [
@@ -4167,7 +4167,7 @@ var _monsterskill = {
     "800208004": {
         "Key": "SkillP01",
         "Name": "P—Protect You",
-        "Desc": "When entering battle, applies <color style='color:#f29e38;'>30</color> stacks of <color style='color:#f29e38;'>\"P—Protect You\"</color> to all friendly units. <br>Each stack of \"P—Protect You\" can nullify all DMG received from 1 incoming hit except for DoT. \"P—Protect You\" stacks are shared across the team.",
+        "Desc": "When entering battle, applies @30# stacks of @\"P—Protect You\"# to all friendly units. \nEach stack of \"P—Protect You\" can nullify all DMG received from 1 incoming hit except for DoT. \"P—Protect You\" stacks are shared across the team.",
         "SP": 0,
         "Status": [
             280020801
@@ -4194,7 +4194,7 @@ var _monsterskill = {
     "800208104": {
         "Key": "SkillP01",
         "Name": "P—Protect You",
-        "Desc": "When entering battle, applies <color style='color:#f29e38;'>20</color> stacks of <color style='color:#f29e38;'>\"P—Protect You\"</color> to all friendly units. <br>Each stack of \"P—Protect You\" can nullify all DMG received from 1 incoming hit except for DoT. \"P—Protect You\" stacks are shared across the team.",
+        "Desc": "When entering battle, applies @20# stacks of @\"P—Protect You\"# to all friendly units. \nEach stack of \"P—Protect You\" can nullify all DMG received from 1 incoming hit except for DoT. \"P—Protect You\" stacks are shared across the team.",
         "SP": 0,
         "Status": [
             280020801
@@ -4221,7 +4221,7 @@ var _monsterskill = {
     "800301001": {
         "Key": "Skill01",
         "Name": "Chilling Lament",
-        "Desc": "Deals <1> Ice DMG to a single target. <br>Deals extra <2> Ice DMG to the target if the target is currently Frozen and this unit is in the <color style='color:#f29e38;'>Freezing Point</color> state.",
+        "Desc": "Deals <1> Ice DMG to a single target. \nDeals extra <2> Ice DMG to the target if the target is currently Frozen and this unit is in the @Freezing Point# state.",
         "SP": 10.0,
         "Elem": "Ice",
         "Status": [
@@ -4236,7 +4236,7 @@ var _monsterskill = {
     "800301002": {
         "Key": "Skill02",
         "Name": "Frosty Absorption",
-        "Desc": "Enters the <color style='color:#f29e38;'>Freezing Point</color> state. Unlocks the skill <color style='color:#f29e38;'>Everwinter Rain</color>.",
+        "Desc": "Enters the @Freezing Point# state. Unlocks the skill @Everwinter Rain#.",
         "SP": 0,
         "Elem": "Ice",
         "Prepare": [
@@ -4249,7 +4249,7 @@ var _monsterskill = {
     "800301003": {
         "Key": "Skill03",
         "Name": "Everwinter Rain",
-        "Desc": "Only available while in the <color style='color:#f29e38;'>Freezing Point</color> state. <br>Deals <1> Ice DMG to all targets. Choose a maximum of 2 characters currently not Frozen, and tries with <color style='color:#f29e38;'>60%</color> Base Chance to <b>Freeze</b> them for <color style='color:#f29e38;'>1</color> turn.<br>Freeze Additional DMG: <2> Ice DMG.",
+        "Desc": "Only available while in the @Freezing Point# state. \nDeals <1> Ice DMG to all targets. Choose a maximum of 2 characters currently not Frozen, and tries with @60%# Base Chance to ``Freeze` them for @1# turn.\nFreeze Additional DMG: <2> Ice DMG.",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true,
@@ -4272,7 +4272,7 @@ var _monsterskill = {
     "800301101": {
         "Key": "Skill01",
         "Name": "Chilling Lament",
-        "Desc": "Deals <1> Ice DMG to a single target. <br>Deals extra <2> Ice DMG to the target if the target is currently Frozen and this unit is in the <color style='color:#f29e38;'>Freezing Point</color> state.",
+        "Desc": "Deals <1> Ice DMG to a single target. \nDeals extra <2> Ice DMG to the target if the target is currently Frozen and this unit is in the @Freezing Point# state.",
         "SP": 10.0,
         "Elem": "Ice",
         "Status": [
@@ -4287,7 +4287,7 @@ var _monsterskill = {
     "800301102": {
         "Key": "Skill02",
         "Name": "Frosty Absorption",
-        "Desc": "Enters the <color style='color:#f29e38;'>Freezing Point</color> state. Unlocks the skill <color style='color:#f29e38;'>Everwinter Rain</color>.",
+        "Desc": "Enters the @Freezing Point# state. Unlocks the skill @Everwinter Rain#.",
         "SP": 0,
         "Elem": "Ice",
         "Prepare": [
@@ -4300,7 +4300,7 @@ var _monsterskill = {
     "800301103": {
         "Key": "Skill03",
         "Name": "Everwinter Rain",
-        "Desc": "Only available while in the <color style='color:#f29e38;'>Freezing Point</color> state. <br>Deals <1> Ice DMG to all targets. Choose a maximum of 2 characters currently not Frozen, and tries with <color style='color:#f29e38;'>80%</color> Base Chance to <b>Freeze</b> them and delay their action by <color style='color:#f29e38;'>100%</color>.<br>Freeze Additional DMG: <2> Ice DMG, lasts <color style='color:#f29e38;'>1</color> turn.",
+        "Desc": "Only available while in the @Freezing Point# state. \nDeals <1> Ice DMG to all targets. Choose a maximum of 2 characters currently not Frozen, and tries with @80%# Base Chance to ``Freeze` them and delay their action by @100%#.\nFreeze Additional DMG: <2> Ice DMG, lasts @1# turn.",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true,
@@ -4342,7 +4342,7 @@ var _monsterskill = {
     "800302001": {
         "Key": "Skill01",
         "Name": "Bellowing Inferno",
-        "Desc": "Deals <1> Fire DMG to a single target, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>Enkindle</color>.<br>Enkindle: Lasts <color style='color:#f29e38;'>2</color> turns; at the start of every turn, suffer <2> Fire DMG. This effect is stackable.",
+        "Desc": "Deals <1> Fire DMG to a single target, has a @100%# Base Chance to inflict @Enkindle#.\nEnkindle: Lasts @2# turns; at the start of every turn, suffer <2> Fire DMG. This effect is stackable.",
         "SP": 10.0,
         "Elem": "Fire",
         "Status": [
@@ -4356,7 +4356,7 @@ var _monsterskill = {
     "800302002": {
         "Key": "Skill03",
         "Name": "Blazing Absorption",
-        "Desc": "Enters the <color style='color:#f29e38;'>Spontaneous Combustion</color> state. Unlocks the skill <color style='color:#f29e38;'>Rain of Purifying Flames</color>.",
+        "Desc": "Enters the @Spontaneous Combustion# state. Unlocks the skill @Rain of Purifying Flames#.",
         "SP": 0,
         "Prepare": [
             800302003
@@ -4368,7 +4368,7 @@ var _monsterskill = {
     "800302003": {
         "Key": "Skill05",
         "Name": "Rain of Purifying Flames",
-        "Desc": "Repeat <color style='color:#f29e38;'>5</color> times: Deal <1> Fire DMG to a random single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>Enkindle</color>.<br>Enkindle: Lasts <color style='color:#f29e38;'>2</color> turns; at the start of every turn, suffer <2> Fire DMG. This effect is stackable.",
+        "Desc": "Repeat @5# times: Deal <1> Fire DMG to a random single target, with a @100%# Base Chance to inflict @Enkindle#.\nEnkindle: Lasts @2# turns; at the start of every turn, suffer <2> Fire DMG. This effect is stackable.",
         "SP": 10.0,
         "Elem": "Fire",
         "Threat": true,
@@ -4383,13 +4383,13 @@ var _monsterskill = {
     "800302004": {
         "Key": "Skill07",
         "Name": "Molten Fusion",
-        "Desc": "Gains <color style='color:#f29e38;'>30%</color> ATK increase. This buff is dispelled upon Weakness Break.",
+        "Desc": "Gains @30%# ATK increase. This buff is dispelled upon Weakness Break.",
         "SP": 0
     },
     "800302101": {
         "Key": "Skill01",
         "Name": "Bellowing Inferno",
-        "Desc": "Deals <1> Fire DMG to a single target, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>Enkindle</color>.<br>Enkindle: Lasts <color style='color:#f29e38;'>2</color> turns; at the start of every turn, suffer <2> Fire DMG. This effect is stackable.",
+        "Desc": "Deals <1> Fire DMG to a single target, has a @100%# Base Chance to inflict @Enkindle#.\nEnkindle: Lasts @2# turns; at the start of every turn, suffer <2> Fire DMG. This effect is stackable.",
         "SP": 10.0,
         "Elem": "Fire",
         "Status": [
@@ -4403,7 +4403,7 @@ var _monsterskill = {
     "800302102": {
         "Key": "Skill03",
         "Name": "Blazing Absorption",
-        "Desc": "Enters the <color style='color:#f29e38;'>Spontaneous Combustion</color> state. <color style='color:#f29e38;'>Rain of Purifying Flames</color> can be used in subsequent attacks.",
+        "Desc": "Enters the @Spontaneous Combustion# state. @Rain of Purifying Flames# can be used in subsequent attacks.",
         "SP": 0,
         "Prepare": [
             800302103
@@ -4415,7 +4415,7 @@ var _monsterskill = {
     "800302103": {
         "Key": "Skill05",
         "Name": "Rain of Purifying Flames",
-        "Desc": "Repeat <color style='color:#f29e38;'>5</color> times: Deal <1> Fire DMG to a random single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>Enkindle</color>.<br>Enkindle: Lasts <color style='color:#f29e38;'>2</color> turns; at the start of every turn, suffer <2> Fire DMG. This effect is stackable.",
+        "Desc": "Repeat @5# times: Deal <1> Fire DMG to a random single target, with a @100%# Base Chance to inflict @Enkindle#.\nEnkindle: Lasts @2# turns; at the start of every turn, suffer <2> Fire DMG. This effect is stackable.",
         "SP": 10.0,
         "Elem": "Fire",
         "Threat": true,
@@ -4430,13 +4430,13 @@ var _monsterskill = {
     "800302104": {
         "Key": "Skill07",
         "Name": "Molten Fusion",
-        "Desc": "Gains <color style='color:#f29e38;'>30%</color> ATK increase. This buff is dispelled upon Weakness Break.",
+        "Desc": "Gains @30%# ATK increase. This buff is dispelled upon Weakness Break.",
         "SP": 0
     },
     "800302105": {
         "Key": "Skill08",
         "Name": "Bomb Warning",
-        "Desc": "Absorbs all the <color style='color:#f29e38;'>Enkindle</color> statuses on all targets, and unleash <color style='color:#f29e38;'>Bomb en Masse</color> upon next action.",
+        "Desc": "Absorbs all the @Enkindle# statuses on all targets, and unleash @Bomb en Masse# upon next action.",
         "SP": 0,
         "Prepare": [
             800302106
@@ -4448,7 +4448,7 @@ var _monsterskill = {
     "800302106": {
         "Key": "Skill09",
         "Name": "Bomb en Masse",
-        "Desc": "Deals <1> Fire DMG to all targets, and has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>Enkindle</color> to all targets. ",
+        "Desc": "Deals <1> Fire DMG to all targets, and has a @100%# Base Chance to inflict @Enkindle# to all targets. ",
         "SP": 15.0,
         "Elem": "Fire",
         "Threat": true,
@@ -4483,7 +4483,7 @@ var _monsterskill = {
     "800303003": {
         "Key": "Skill03",
         "Name": "Tranquil Ban",
-        "Desc": "Your team is imposed with a ban on attacking the Guardian Shadow. Should anyone do so, they immediately receive <color style='color:#f29e38;'>Inevitable Punishment</color>.",
+        "Desc": "Your team is imposed with a ban on attacking the Guardian Shadow. Should anyone do so, they immediately receive @Inevitable Punishment#.",
         "SP": 0,
         "Prepare": [
             800303007
@@ -4495,7 +4495,7 @@ var _monsterskill = {
     "800303004": {
         "Key": "Skill04",
         "Name": "Disarm Ban",
-        "Desc": "Your team is imposed with a ban on using Basic ATK. Should anyone do so, they immediately receive <color style='color:#f29e38;'>Inevitable Punishment</color>.",
+        "Desc": "Your team is imposed with a ban on using Basic ATK. Should anyone do so, they immediately receive @Inevitable Punishment#.",
         "SP": 0,
         "Prepare": [
             800303007
@@ -4507,7 +4507,7 @@ var _monsterskill = {
     "800303005": {
         "Key": "Skill05",
         "Name": "Silent Ban",
-        "Desc": "Your team is imposed with a ban on using Skill. Should anyone do so, they immediately receive <color style='color:#f29e38;'>Inevitable Punishment</color>.",
+        "Desc": "Your team is imposed with a ban on using Skill. Should anyone do so, they immediately receive @Inevitable Punishment#.",
         "SP": 0,
         "Prepare": [
             800303007
@@ -4519,7 +4519,7 @@ var _monsterskill = {
     "800303006": {
         "Key": "Skill06",
         "Name": "Thunderstorm Condemnation",
-        "Desc": "Repeat <color style='color:#f29e38;'>8</color> times: Deal <1> Lightning DMG to a random target, with a <color style='color:#f29e38;'>50%</color> Base chance to inflict <b>Shock</b>.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>1</color> stack.",
+        "Desc": "Repeat @8# times: Deal <1> Lightning DMG to a random target, with a @50%# Base chance to inflict ``Shock`.\nShock DoT: <2> Lightning DMG, lasts @2# turns, max @1# stack.",
         "SP": 5.0,
         "Elem": "Elec",
         "Threat": true,
@@ -4574,7 +4574,7 @@ var _monsterskill = {
     "800303103": {
         "Key": "Skill03",
         "Name": "Tranquil Ban",
-        "Desc": "Your team is imposed with a ban on attacking the Guardian Shadow. Should anyone do so, they immediately receive <color style='color:#f29e38;'>Inevitable Punishment</color>.",
+        "Desc": "Your team is imposed with a ban on attacking the Guardian Shadow. Should anyone do so, they immediately receive @Inevitable Punishment#.",
         "SP": 0,
         "Prepare": [
             800303107
@@ -4586,7 +4586,7 @@ var _monsterskill = {
     "800303104": {
         "Key": "Skill04",
         "Name": "Disarm Ban",
-        "Desc": "Your team is imposed with a ban on using Basic ATK. Should anyone do so, they immediately receive <color style='color:#f29e38;'>Inevitable Punishment</color>.",
+        "Desc": "Your team is imposed with a ban on using Basic ATK. Should anyone do so, they immediately receive @Inevitable Punishment#.",
         "SP": 0,
         "Prepare": [
             800303107
@@ -4598,7 +4598,7 @@ var _monsterskill = {
     "800303105": {
         "Key": "Skill05",
         "Name": "Silent Ban",
-        "Desc": "Your team is imposed with a ban on using Skill. Should anyone do so, they immediately receive <color style='color:#f29e38;'>Inevitable Punishment</color>.",
+        "Desc": "Your team is imposed with a ban on using Skill. Should anyone do so, they immediately receive @Inevitable Punishment#.",
         "SP": 0,
         "Prepare": [
             800303107
@@ -4610,7 +4610,7 @@ var _monsterskill = {
     "800303106": {
         "Key": "Skill06",
         "Name": "Thunderstorm Condemnation",
-        "Desc": "Repeat <color style='color:#f29e38;'>8</color> times: Deal <1> Lightning DMG to a random target, with a <color style='color:#f29e38;'>50%</color> Base chance to inflict <b>Shock</b>.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>1</color> stack.",
+        "Desc": "Repeat @8# times: Deal <1> Lightning DMG to a random target, with a @50%# Base chance to inflict ``Shock`.\nShock DoT: <2> Lightning DMG, lasts @2# turns, max @1# stack.",
         "SP": 5.0,
         "Elem": "Elec",
         "Threat": true,
@@ -4668,7 +4668,7 @@ var _monsterskill = {
     "800304005": {
         "Key": "Skill04",
         "Name": "Liberation of the Golden Age",
-        "Desc": "For every stack of <color style='color:#f29e38;'>\"Gauge Recollection\"</color>, deal <1> Imaginary DMG to a random target, max <color style='color:#f29e38;'>9</color> stacks.<br>If there is no \"Gauge Recollection\", this ability will fail.",
+        "Desc": "For every stack of @\"Gauge Recollection\"#, deal <1> Imaginary DMG to a random target, max @9# stacks.\nIf there is no \"Gauge Recollection\", this ability will fail.",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Threat": true,
@@ -4682,7 +4682,7 @@ var _monsterskill = {
     "800304006": {
         "Key": "PassiveSkill01",
         "Name": "Fleeting Veil",
-        "Desc": "Reduces DMG received from Basic ATKs, Skills, Ultimates, and follow-up attacks by <color style='color:#f29e38;'>10%</color>.<br>After attacking a target, has <color style='color:#f29e38;'>20%</color> Base Chance to inflict <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn.<br>Imprisonment: Cannot take action, action delays by <color style='color:#f29e38;'>50%</color>.",
+        "Desc": "Reduces DMG received from Basic ATKs, Skills, Ultimates, and follow-up attacks by @10%#.\nAfter attacking a target, has @20%# Base Chance to inflict ``Imprisonment` for @1# turn.\nImprisonment: Cannot take action, action delays by @50%#.",
         "SP": 0,
         "Status": [
             30020013
@@ -4691,7 +4691,7 @@ var _monsterskill = {
     "800304004": {
         "Key": "Skill05",
         "Name": "Binding of the Golden Age",
-        "Desc": "Enters the Charge state and gains <color style='color:#f29e38;'>9</color> <color style='color:#f29e38;'>Gauge Recollection</color> stacks. Casts <color style='color:#f29e38;'>Liberation of the Golden Age</color> in the next action. Every time this unit is attacked, lose 1 stack of Gauge Recollection.",
+        "Desc": "Enters the Charge state and gains @9# @Gauge Recollection# stacks. Casts @Liberation of the Golden Age# in the next action. Every time this unit is attacked, lose 1 stack of Gauge Recollection.",
         "SP": 0,
         "Prepare": [
             800304005
@@ -4735,7 +4735,7 @@ var _monsterskill = {
     "800304108": {
         "Key": "Skill04",
         "Name": "Liberation of the Golden Age",
-        "Desc": "For every stack of <color style='color:#f29e38;'>\"Gauge Recollection\"</color>, deal <1> Imaginary DMG to a random target, max <color style='color:#f29e38;'>9</color> stacks.<br>If there is no \"Gauge Recollection\", this ability will fail.",
+        "Desc": "For every stack of @\"Gauge Recollection\"#, deal <1> Imaginary DMG to a random target, max @9# stacks.\nIf there is no \"Gauge Recollection\", this ability will fail.",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Status": [
@@ -4748,7 +4748,7 @@ var _monsterskill = {
     "800304106": {
         "Key": "PassiveSkill01",
         "Name": "Fleeting Veil",
-        "Desc": "Reduces DMG received from Basic ATKs, Skills, Ultimates, and follow-up attacks by <color style='color:#f29e38;'>10%</color>.<br>After attacking a target, has <color style='color:#f29e38;'>40%</color> Base Chance to inflict <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn.<br>Imprisonment: Cannot take action, action delays by <color style='color:#f29e38;'>50%</color>.",
+        "Desc": "Reduces DMG received from Basic ATKs, Skills, Ultimates, and follow-up attacks by @10%#.\nAfter attacking a target, has @40%# Base Chance to inflict ``Imprisonment` for @1# turn.\nImprisonment: Cannot take action, action delays by @50%#.",
         "SP": 0,
         "Status": [
             30020013
@@ -4757,7 +4757,7 @@ var _monsterskill = {
     "800304104": {
         "Key": "Skill05",
         "Name": "Binding of the Golden Age",
-        "Desc": "Enters the Charge state and gains <color style='color:#f29e38;'>9</color> <color style='color:#f29e38;'>Gauge Recollection</color> stacks. Casts <color style='color:#f29e38;'>Liberation of the Golden Age</color> in the next action. Every time this unit is attacked, lose 1 stack of Gauge Recollection.",
+        "Desc": "Enters the Charge state and gains @9# @Gauge Recollection# stacks. Casts @Liberation of the Golden Age# in the next action. Every time this unit is attacked, lose 1 stack of Gauge Recollection.",
         "SP": 0,
         "Prepare": [
             800304108
@@ -4830,7 +4830,7 @@ var _monsterskill = {
     "801201003": {
         "Key": "PassiveSkill01",
         "Name": "",
-        "Desc": "After attacking, increases SPD by <color style='color:#f29e38;'>35%</color> for <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>3</color> stacks.",
+        "Desc": "After attacking, increases SPD by @35%# for @2# turns, max @3# stacks.",
         "SP": 0,
         "Status": [
             280120101
@@ -4839,7 +4839,7 @@ var _monsterskill = {
     "801202001": {
         "Key": "Skill01",
         "Name": "Nihility's Command",
-        "Desc": "<b>Locks Onto</b> a random unit on your team, making them the target for incoming attacks from all of their enemies, and making all incoming DMG increase by <color style='color:#f29e38;'>10%</color>.",
+        "Desc": "``Locks Onto` a random unit on your team, making them the target for incoming attacks from all of their enemies, and making all incoming DMG increase by @10%#.",
         "SP": 0,
         "Elem": "Quantum",
         "Status": [
@@ -4859,7 +4859,7 @@ var _monsterskill = {
     "801202101": {
         "Key": "Skill01",
         "Name": "Nihility's Command",
-        "Desc": "<b>Locks Onto</b> a random unit on your team, making them the target for incoming attacks from all of their enemies, and making all incoming DMG increase by <color style='color:#f29e38;'>10%</color>.",
+        "Desc": "``Locks Onto` a random unit on your team, making them the target for incoming attacks from all of their enemies, and making all incoming DMG increase by @10%#.",
         "SP": 0,
         "Elem": "Quantum",
         "Status": [
@@ -4879,7 +4879,7 @@ var _monsterskill = {
     "801203001": {
         "Key": "Skill01",
         "Name": "Void Cannon",
-        "Desc": "Deals <1> Imaginary DMG to a single target, and gets itself <color style='color:#f29e38;'>Overloaded</color>.<br> Afflicts the target with <color style='color:#f29e38;'>Detonated</color>: When being hit, suffers from a Pursued Attack dealing <2> Imaginary DMG. This effect lasts <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Deals <1> Imaginary DMG to a single target, and gets itself @Overloaded#.\n Afflicts the target with @Detonated#: When being hit, suffers from a Pursued Attack dealing <2> Imaginary DMG. This effect lasts @2# turns.",
         "SP": 15.0,
         "Elem": "Imaginary",
         "Status": [
@@ -4894,7 +4894,7 @@ var _monsterskill = {
     "801203002": {
         "Key": "Skill02",
         "Name": "Thermal Barrier",
-        "Desc": "Dispels this unit's <color style='color:#f29e38;'>Overloaded</color> state.",
+        "Desc": "Dispels this unit's @Overloaded# state.",
         "SP": 0,
         "Status": [
             280120302
@@ -4933,7 +4933,7 @@ var _monsterskill = {
     "801301004": {
         "Key": "Skill04",
         "Name": "Spiral Arrow",
-        "Desc": "<b>Locks On</b> to a single target. Cast <color style='color:#f29e38;'>End of Bow</color> to this target in the next action.",
+        "Desc": "``Locks On` to a single target. Cast @End of Bow# to this target in the next action.",
         "SP": 0,
         "Elem": "Quantum",
         "Prepare": [
@@ -4946,7 +4946,7 @@ var _monsterskill = {
     "801301005": {
         "Key": "Skill05",
         "Name": "End of Bow",
-        "Desc": "Deals <1> Quantum DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Entanglement</b> for <color style='color:#f29e38;'>1</color> turn.<br>Entanglement Base DMG: <2> Quantum DMG, action delayed by <color style='color:#f29e38;'>50%</color>.",
+        "Desc": "Deals <1> Quantum DMG to a single target, with a @100%# Base Chance to inflict ``Entanglement` for @1# turn.\nEntanglement Base DMG: <2> Quantum DMG, action delayed by @50%#.",
         "SP": 25.0,
         "Elem": "Quantum",
         "Threat": true,
@@ -4991,7 +4991,7 @@ var _monsterskill = {
     "801301104": {
         "Key": "Skill04",
         "Name": "Spiral Arrow",
-        "Desc": "<b>Locks On</b> to a single target. Cast <color style='color:#f29e38;'>End of Bow</color> to this target in the next action.",
+        "Desc": "``Locks On` to a single target. Cast @End of Bow# to this target in the next action.",
         "SP": 0,
         "Elem": "Quantum",
         "Prepare": [
@@ -5004,7 +5004,7 @@ var _monsterskill = {
     "801301105": {
         "Key": "Skill05",
         "Name": "End of Bow",
-        "Desc": "Deals <1> Quantum DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Entanglement</b> for <color style='color:#f29e38;'>1</color> turn.<br>Entanglement Base DMG: <2> Quantum DMG, action delayed by <color style='color:#f29e38;'>100%</color>.",
+        "Desc": "Deals <1> Quantum DMG to a single target, with a @100%# Base Chance to inflict ``Entanglement` for @1# turn.\nEntanglement Base DMG: <2> Quantum DMG, action delayed by @100%#.",
         "SP": 25.0,
         "Elem": "Quantum",
         "Threat": true,
@@ -5049,7 +5049,7 @@ var _monsterskill = {
     "801301204": {
         "Key": "Skill04",
         "Name": "Spiral Arrow",
-        "Desc": "<b>Locks On</b> to a single target. Cast <color style='color:#f29e38;'>End of Bow</color> to this target in the next action.",
+        "Desc": "``Locks On` to a single target. Cast @End of Bow# to this target in the next action.",
         "SP": 0,
         "Elem": "Quantum",
         "Prepare": [
@@ -5093,7 +5093,7 @@ var _monsterskill = {
     "801502003": {
         "Key": "Skill03",
         "Name": "Weaving Roots",
-        "Desc": "Deals <1> Wind DMG to a single target and delays their actionby <color style='color:#f29e38;'>30%</color>.",
+        "Desc": "Deals <1> Wind DMG to a single target and delays their actionby @30%#.",
         "SP": 15.0,
         "Elem": "Wind",
         "DMG": [
@@ -5103,7 +5103,7 @@ var _monsterskill = {
     "801502004": {
         "Key": "Skill04",
         "Name": "Burgeoning Bloom",
-        "Desc": "Summons <color style='color:#f29e38;'>Abundance Lotus</color>.",
+        "Desc": "Summons @Abundance Lotus#.",
         "SP": 0,
         "Summon": [
             8012200
@@ -5133,7 +5133,7 @@ var _monsterskill = {
     "801502007": {
         "Key": "Skill07",
         "Name": "Kalpa Descend",
-        "Desc": "<b>Lock On</b> a target and cause Destruction Lotus to <color style='color:#f29e38;'>Bloom</color>. At the same time, dispel Destruction Lotus's <color style='color:#f29e38;'>Weakness Protected</color> effect. <br>Destruction Lotus's will use <color style='color:#f29e38;'>Havoc</color> during its next action.",
+        "Desc": "``Lock On` a target and cause Destruction Lotus to @Bloom#. At the same time, dispel Destruction Lotus's @Weakness Protected# effect. \nDestruction Lotus's will use @Havoc# during its next action.",
         "SP": 0,
         "Status": [
             280150202,
@@ -5176,7 +5176,7 @@ var _monsterskill = {
     "801502011": {
         "Key": "Skill11",
         "Name": "Weaving Roots",
-        "Desc": "Deals <1> Imaginary DMG to a single target and delays their action by <color style='color:#f29e38;'>30%.",
+        "Desc": "Deals <1> Imaginary DMG to a single target and delays their action by @30%.",
         "SP": 30.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -5186,7 +5186,7 @@ var _monsterskill = {
     "801502012": {
         "Key": "Skill12",
         "Name": "Burgeoning Bloom",
-        "Desc": "Summons <color style='color:#f29e38;'>Abundance Lotus</color>.",
+        "Desc": "Summons @Abundance Lotus#.",
         "SP": 0,
         "Summon": [
             8012201
@@ -5195,7 +5195,7 @@ var _monsterskill = {
     "801502013": {
         "Key": "Skill13",
         "Name": "Kalpa Descend",
-        "Desc": "<b>Lock On</b> a target and cause Destruction Lotus to <color style='color:#f29e38;'>Bloom</color>. At the same time, dispel Destruction Lotus's <color style='color:#f29e38;'>Weakness Protected</color> effect. <br>Destruction Lotus's will use <color style='color:#f29e38;'>Havoc</color> during its next action.",
+        "Desc": "``Lock On` a target and cause Destruction Lotus to @Bloom#. At the same time, dispel Destruction Lotus's @Weakness Protected# effect. \nDestruction Lotus's will use @Havoc# during its next action.",
         "SP": 0,
         "Status": [
             280150202,
@@ -5236,7 +5236,7 @@ var _monsterskill = {
     "801502103": {
         "Key": "Skill03",
         "Name": "Weaving Roots",
-        "Desc": "Deals <1> Wind DMG to a single target and delays their actionby <color style='color:#f29e38;'>30%</color>.",
+        "Desc": "Deals <1> Wind DMG to a single target and delays their actionby @30%#.",
         "SP": 15.0,
         "Elem": "Wind",
         "DMG": [
@@ -5246,7 +5246,7 @@ var _monsterskill = {
     "801502104": {
         "Key": "Skill04",
         "Name": "Burgeoning Bloom",
-        "Desc": "Summons <color style='color:#f29e38;'>Abundance Lotus</color>.",
+        "Desc": "Summons @Abundance Lotus#.",
         "SP": 0,
         "Summon": [
             8012200
@@ -5276,7 +5276,7 @@ var _monsterskill = {
     "801502107": {
         "Key": "Skill07",
         "Name": "Kalpa Descend",
-        "Desc": "<b>Lock On</b> a target and cause Destruction Lotus to <color style='color:#f29e38;'>Bloom</color>. At the same time, dispel Destruction Lotus's <color style='color:#f29e38;'>Weakness Protected</color> effect. <br>Destruction Lotus's will use <color style='color:#f29e38;'>Havoc</color> during its next action.",
+        "Desc": "``Lock On` a target and cause Destruction Lotus to @Bloom#. At the same time, dispel Destruction Lotus's @Weakness Protected# effect. \nDestruction Lotus's will use @Havoc# during its next action.",
         "SP": 0,
         "Status": [
             280150202,
@@ -5319,7 +5319,7 @@ var _monsterskill = {
     "801502111": {
         "Key": "Skill11",
         "Name": "Weaving Roots",
-        "Desc": "Deals <1> Imaginary DMG to a single target and delays their action by <color style='color:#f29e38;'>30%.",
+        "Desc": "Deals <1> Imaginary DMG to a single target and delays their action by @30%.",
         "SP": 30.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -5329,7 +5329,7 @@ var _monsterskill = {
     "801502112": {
         "Key": "Skill12",
         "Name": "Burgeoning Bloom",
-        "Desc": "Summons <color style='color:#f29e38;'>Abundance Lotus</color>.",
+        "Desc": "Summons @Abundance Lotus#.",
         "SP": 0,
         "Summon": [
             8012201
@@ -5338,7 +5338,7 @@ var _monsterskill = {
     "801502113": {
         "Key": "Skill13",
         "Name": "Kalpa Descend",
-        "Desc": "<b>Lock On</b> a target and cause Destruction Lotus to <color style='color:#f29e38;'>Bloom</color>. At the same time, dispel Destruction Lotus's <color style='color:#f29e38;'>Weakness Protected</color> effect. <br>Destruction Lotus's will use <color style='color:#f29e38;'>Havoc</color> during its next action.",
+        "Desc": "``Lock On` a target and cause Destruction Lotus to @Bloom#. At the same time, dispel Destruction Lotus's @Weakness Protected# effect. \nDestruction Lotus's will use @Havoc# during its next action.",
         "SP": 0,
         "Status": [
             280150202,
@@ -5359,19 +5359,19 @@ var _monsterskill = {
     "801220001": {
         "Key": "Skill01",
         "Name": "Samsara",
-        "Desc": "Reduces <color style='color:#f29e38;'>1</color> Skill Point of the target.",
+        "Desc": "Reduces @1# Skill Point of the target.",
         "SP": 0
     },
     "801220003": {
         "Key": "PassiveSkill01",
         "Name": "Moksha",
-        "Desc": "After suffering a killing blow, restores <color style='color:#f29e38;'>3</color> Skill Points of the target.",
+        "Desc": "After suffering a killing blow, restores @3# Skill Points of the target.",
         "SP": 0
     },
     "801220002": {
         "Key": "PassiveSkill02",
         "Name": "Mend",
-        "Desc": "At the start of each turn, restores <color style='color:#f29e38;'>50% Max HP</color>.",
+        "Desc": "At the start of each turn, restores @50% Max HP#.",
         "SP": 0,
         "Status": [
             280150203
@@ -5380,19 +5380,19 @@ var _monsterskill = {
     "801220101": {
         "Key": "Skill01",
         "Name": "Samsara",
-        "Desc": "Reduces <color style='color:#f29e38;'>1</color> Skill Point of the target.",
+        "Desc": "Reduces @1# Skill Point of the target.",
         "SP": 0
     },
     "801220103": {
         "Key": "PassiveSkill01",
         "Name": "Moksha",
-        "Desc": "After suffering a killing blow, restores <color style='color:#f29e38;'>3</color> Skill Points of the target.",
+        "Desc": "After suffering a killing blow, restores @3# Skill Points of the target.",
         "SP": 0
     },
     "801220102": {
         "Key": "PassiveSkill02",
         "Name": "Mend",
-        "Desc": "At the start of each turn, restores <color style='color:#f29e38;'>50% Max HP</color>.",
+        "Desc": "At the start of each turn, restores @50% Max HP#.",
         "SP": 0,
         "Status": [
             280150203
@@ -5401,19 +5401,19 @@ var _monsterskill = {
     "801220201": {
         "Key": "Skill01",
         "Name": "Samsara",
-        "Desc": "Reduces <color style='color:#f29e38;'>1</color> Skill Point of the target.",
+        "Desc": "Reduces @1# Skill Point of the target.",
         "SP": 0
     },
     "801220203": {
         "Key": "PassiveSkill01",
         "Name": "Moksha",
-        "Desc": "After suffering a killing blow, restores <color style='color:#f29e38;'>3</color> Skill Points of the target.",
+        "Desc": "After suffering a killing blow, restores @3# Skill Points of the target.",
         "SP": 0
     },
     "801220202": {
         "Key": "PassiveSkill02",
         "Name": "Mend",
-        "Desc": "At the start of each turn, restores <color style='color:#f29e38;'>50% Max HP</color>.",
+        "Desc": "At the start of each turn, restores @50% Max HP#.",
         "SP": 0,
         "Status": [
             280150203
@@ -5422,19 +5422,19 @@ var _monsterskill = {
     "801220301": {
         "Key": "Skill01",
         "Name": "Samsara",
-        "Desc": "Reduces <color style='color:#f29e38;'>1</color> Skill Point of the target.",
+        "Desc": "Reduces @1# Skill Point of the target.",
         "SP": 0
     },
     "801220303": {
         "Key": "PassiveSkill01",
         "Name": "Moksha",
-        "Desc": "After suffering a killing blow, restores <color style='color:#f29e38;'>3</color> Skill Points of the target.",
+        "Desc": "After suffering a killing blow, restores @3# Skill Points of the target.",
         "SP": 0
     },
     "801220302": {
         "Key": "PassiveSkill02",
         "Name": "Mend",
-        "Desc": "At the start of each turn, restores <color style='color:#f29e38;'>50% Max HP</color>.",
+        "Desc": "At the start of each turn, restores @50% Max HP#.",
         "SP": 0,
         "Status": [
             280150203
@@ -5443,7 +5443,7 @@ var _monsterskill = {
     "801221001": {
         "Key": "Skill03",
         "Name": "Black Prana's Snare",
-        "Desc": "Has <color style='color:#f29e38;'>100%</color> Base Chance of afflicting a target with <color style='color:#f29e38;'>Prana-Siphon</color> for <color style='color:#f29e38;'>2</color> turns.<br>Prana-Siphon: Decreases Maximum Recoverable HP by <color style='color:#f29e38;'>40%</color>.",
+        "Desc": "Has @100%# Base Chance of afflicting a target with @Prana-Siphon# for @2# turns.\nPrana-Siphon: Decreases Maximum Recoverable HP by @40%#.",
         "SP": 10.0,
         "Status": [
             30020030
@@ -5458,7 +5458,7 @@ var _monsterskill = {
     "801221003": {
         "Key": "Skill04",
         "Name": "Havoc",
-        "Desc": "Deals <color style='color:#f29e38;'>59% Target Max HP</color> Lightning DMG to a single target. This DMG <color style='color:#f29e38;'>ignores the target's DEF</color>.",
+        "Desc": "Deals @59% Target Max HP# Lightning DMG to a single target. This DMG @ignores the target's DEF#.",
         "SP": 20.0,
         "Elem": "Elec",
         "Threat": true
@@ -5466,7 +5466,7 @@ var _monsterskill = {
     "801221005": {
         "Key": "PassiveSkill01",
         "Name": "Repose",
-        "Desc": "After suffering a killing blow, enters <color style='color:#f29e38;'>Repose</color>.",
+        "Desc": "After suffering a killing blow, enters @Repose#.",
         "SP": 0,
         "Status": [
             280150206
@@ -5475,7 +5475,7 @@ var _monsterskill = {
     "801221004": {
         "Key": "PassiveSkill02",
         "Name": "Bloom",
-        "Desc": "When this unit is in the <color style='color:#f29e38;'>Bloom</color> status, it will use <color style='color:#f29e38;'>Havoc</color> in its next action. <br>When the Destruction Lotus is Weakness Broken, defeated, or having the Bloom dispelled while in Bloom, Phantylia the Undying receives <color style='color:#f29e38;'>Vulnerability</color>: Takes <color style='color:#f29e38;'>50%</color> increased DMG for <color style='color:#f29e38;'>1</color> turn and have their action delayed by <color style='color:#f29e38;'>50%</color>, max <color style='color:#f29e38;'>2</color> stacks.",
+        "Desc": "When this unit is in the @Bloom# status, it will use @Havoc# in its next action. \nWhen the Destruction Lotus is Weakness Broken, defeated, or having the Bloom dispelled while in Bloom, Phantylia the Undying receives @Vulnerability#: Takes @50%# increased DMG for @1# turn and have their action delayed by @50%#, max @2# stacks.",
         "SP": 0,
         "Status": [
             280150204,
@@ -5486,7 +5486,7 @@ var _monsterskill = {
     "801221101": {
         "Key": "Skill03",
         "Name": "Black Prana's Snare",
-        "Desc": "Has <color style='color:#f29e38;'>100%</color> Base Chance of afflicting a target with <color style='color:#f29e38;'>Prana-Siphon</color> for <color style='color:#f29e38;'>2</color> turns.<br>Prana-Siphon: Decreases Maximum Recoverable HP by <color style='color:#f29e38;'>40%</color>.",
+        "Desc": "Has @100%# Base Chance of afflicting a target with @Prana-Siphon# for @2# turns.\nPrana-Siphon: Decreases Maximum Recoverable HP by @40%#.",
         "SP": 20.0,
         "Status": [
             30020030
@@ -5501,7 +5501,7 @@ var _monsterskill = {
     "801221103": {
         "Key": "Skill04",
         "Name": "Havoc",
-        "Desc": "Deals <color style='color:#f29e38;'>59% Target Max HP</color> Imaginary DMG to a single target. This DMG <color style='color:#f29e38;'>ignores the target's DEF</color>.",
+        "Desc": "Deals @59% Target Max HP# Imaginary DMG to a single target. This DMG @ignores the target's DEF#.",
         "SP": 40.0,
         "Elem": "Imaginary",
         "Threat": true
@@ -5509,7 +5509,7 @@ var _monsterskill = {
     "801221105": {
         "Key": "PassiveSkill01",
         "Name": "Repose",
-        "Desc": "After suffering a killing blow, enters <color style='color:#f29e38;'>Repose</color>.",
+        "Desc": "After suffering a killing blow, enters @Repose#.",
         "SP": 0,
         "Status": [
             280150206
@@ -5518,7 +5518,7 @@ var _monsterskill = {
     "801221104": {
         "Key": "PassiveSkill02",
         "Name": "Bloom",
-        "Desc": "When this unit is in the <color style='color:#f29e38;'>Bloom</color> status, it will use <color style='color:#f29e38;'>Havoc</color> in its next action. <br>When the Destruction Lotus is Weakness Broken, defeated, or having the Bloom dispelled while in Bloom, Phantylia the Undying receives <color style='color:#f29e38;'>Vulnerability</color>: Takes <color style='color:#f29e38;'>50%</color> increased DMG for <color style='color:#f29e38;'>1</color> turn and have their action delayed by <color style='color:#f29e38;'>50%</color>, max <color style='color:#f29e38;'>2</color> stacks.",
+        "Desc": "When this unit is in the @Bloom# status, it will use @Havoc# in its next action. \nWhen the Destruction Lotus is Weakness Broken, defeated, or having the Bloom dispelled while in Bloom, Phantylia the Undying receives @Vulnerability#: Takes @50%# increased DMG for @1# turn and have their action delayed by @50%#, max @2# stacks.",
         "SP": 0,
         "Status": [
             280150204,
@@ -5529,7 +5529,7 @@ var _monsterskill = {
     "801221201": {
         "Key": "Skill03",
         "Name": "Black Prana's Snare",
-        "Desc": "Has <color style='color:#f29e38;'>100%</color> Base Chance of afflicting a target with <color style='color:#f29e38;'>Prana-Siphon</color> for <color style='color:#f29e38;'>2</color> turns.<br>Prana-Siphon: Decreases Maximum Recoverable HP by <color style='color:#f29e38;'>40%</color>.",
+        "Desc": "Has @100%# Base Chance of afflicting a target with @Prana-Siphon# for @2# turns.\nPrana-Siphon: Decreases Maximum Recoverable HP by @40%#.",
         "SP": 10.0,
         "Status": [
             30020030
@@ -5544,7 +5544,7 @@ var _monsterskill = {
     "801221203": {
         "Key": "Skill04",
         "Name": "Havoc",
-        "Desc": "Deals <color style='color:#f29e38;'>59% Target Max HP</color> Lightning DMG to a single target. This DMG <color style='color:#f29e38;'>ignores the target's DEF</color>.",
+        "Desc": "Deals @59% Target Max HP# Lightning DMG to a single target. This DMG @ignores the target's DEF#.",
         "SP": 20.0,
         "Elem": "Elec",
         "Threat": true
@@ -5552,7 +5552,7 @@ var _monsterskill = {
     "801221205": {
         "Key": "PassiveSkill01",
         "Name": "Repose",
-        "Desc": "After suffering a killing blow, enters <color style='color:#f29e38;'>Repose</color>.",
+        "Desc": "After suffering a killing blow, enters @Repose#.",
         "SP": 0,
         "Status": [
             280150206
@@ -5561,7 +5561,7 @@ var _monsterskill = {
     "801221204": {
         "Key": "PassiveSkill02",
         "Name": "Bloom",
-        "Desc": "When this unit is in the <color style='color:#f29e38;'>Bloom</color> status, it will use <color style='color:#f29e38;'>Havoc</color> in its next action. <br>When the Destruction Lotus is Weakness Broken, defeated, or having the Bloom dispelled while in Bloom, Phantylia the Undying receives <color style='color:#f29e38;'>Vulnerability</color>: Takes <color style='color:#f29e38;'>50%</color> increased DMG for <color style='color:#f29e38;'>1</color> turn and have their action delayed by <color style='color:#f29e38;'>50%</color>, max <color style='color:#f29e38;'>2</color> stacks.",
+        "Desc": "When this unit is in the @Bloom# status, it will use @Havoc# in its next action. \nWhen the Destruction Lotus is Weakness Broken, defeated, or having the Bloom dispelled while in Bloom, Phantylia the Undying receives @Vulnerability#: Takes @50%# increased DMG for @1# turn and have their action delayed by @50%#, max @2# stacks.",
         "SP": 0,
         "Status": [
             280150204,
@@ -5572,7 +5572,7 @@ var _monsterskill = {
     "801221301": {
         "Key": "Skill03",
         "Name": "Black Prana's Snare",
-        "Desc": "Has <color style='color:#f29e38;'>100%</color> Base Chance of afflicting a target with <color style='color:#f29e38;'>Prana-Siphon</color> for <color style='color:#f29e38;'>2</color> turns.<br>Prana-Siphon: Decreases Maximum Recoverable HP by <color style='color:#f29e38;'>40%</color>.",
+        "Desc": "Has @100%# Base Chance of afflicting a target with @Prana-Siphon# for @2# turns.\nPrana-Siphon: Decreases Maximum Recoverable HP by @40%#.",
         "SP": 20.0,
         "Status": [
             30020030
@@ -5587,7 +5587,7 @@ var _monsterskill = {
     "801221303": {
         "Key": "Skill04",
         "Name": "Havoc",
-        "Desc": "Deals <color style='color:#f29e38;'>59% Target Max HP</color> Imaginary DMG to a single target. This DMG <color style='color:#f29e38;'>ignores the target's DEF</color>.",
+        "Desc": "Deals @59% Target Max HP# Imaginary DMG to a single target. This DMG @ignores the target's DEF#.",
         "SP": 40.0,
         "Elem": "Imaginary",
         "Threat": true
@@ -5595,7 +5595,7 @@ var _monsterskill = {
     "801221305": {
         "Key": "PassiveSkill01",
         "Name": "Repose",
-        "Desc": "After suffering a killing blow, enters <color style='color:#f29e38;'>Repose</color>.",
+        "Desc": "After suffering a killing blow, enters @Repose#.",
         "SP": 0,
         "Status": [
             280150206
@@ -5604,7 +5604,7 @@ var _monsterskill = {
     "801221304": {
         "Key": "PassiveSkill02",
         "Name": "Bloom",
-        "Desc": "When this unit is in the <color style='color:#f29e38;'>Bloom</color> status, it will use <color style='color:#f29e38;'>Havoc</color> in its next action. <br>When the Destruction Lotus is Weakness Broken, defeated, or having the Bloom dispelled while in Bloom, Phantylia the Undying receives <color style='color:#f29e38;'>Vulnerability</color>: Takes <color style='color:#f29e38;'>50%</color> increased DMG for <color style='color:#f29e38;'>1</color> turn and have their action delayed by <color style='color:#f29e38;'>50%</color>, max <color style='color:#f29e38;'>2</color> stacks.",
+        "Desc": "When this unit is in the @Bloom# status, it will use @Havoc# in its next action. \nWhen the Destruction Lotus is Weakness Broken, defeated, or having the Bloom dispelled while in Bloom, Phantylia the Undying receives @Vulnerability#: Takes @50%# increased DMG for @1# turn and have their action delayed by @50%#, max @2# stacks.",
         "SP": 0,
         "Status": [
             280150204,
@@ -5615,7 +5615,7 @@ var _monsterskill = {
     "802201001": {
         "Key": "Skill01",
         "Name": "Wingflap",
-        "Desc": "Deals <1> Wind DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>1</color> stack of <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "Deals <1> Wind DMG to a single target, with a @100%# Base Chance to inflict @1# stack of ``Wind Shear`.\nWind Shear DoT: <2> Wind DMG, lasts @3# turns, max @5# stacks.",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -5649,7 +5649,7 @@ var _monsterskill = {
     "802201004": {
         "Key": "PassiveSkill01",
         "Name": "Entomon Eulogy",
-        "Desc": "When receiving a killing blow, deals <color style='color:#f29e38;'>50% Self Max HP</color> Wind DMG and <color style='color:#f29e38;'>1.0</color> Wind Toughness DMG to all friendly units, and inflict <b>Vulnerability</b>: DMG taken increased by <color style='color:#f29e38;'>10%</color> for <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>10</color> stacks.",
+        "Desc": "When receiving a killing blow, deals @50% Self Max HP# Wind DMG and @1.0# Wind Toughness DMG to all friendly units, and inflict ``Vulnerability`: DMG taken increased by @10%# for @3# turns, max @10# stacks.",
         "SP": 0,
         "Elem": "Wind",
         "Status": [
@@ -5659,7 +5659,7 @@ var _monsterskill = {
     "802202001": {
         "Key": "Skill01",
         "Name": "Prepare to Fight",
-        "Desc": "Enters the <color style='color:#f29e38;'>Charge</color> state. Uses <color style='color:#f29e38;'>Bursting Detonation</color> for the next action.",
+        "Desc": "Enters the @Charge# state. Uses @Bursting Detonation# for the next action.",
         "SP": 0,
         "Prepare": [
             802202002
@@ -5669,7 +5669,7 @@ var _monsterskill = {
     "802202002": {
         "Key": "Skill02",
         "Name": "Bursting Detonation",
-        "Desc": "Detonates self and deals <1> Wind DMG to a single target and its adjacent targets, with a <color style='color:#f29e38;'>100%</color> Base Chance to cause <color style='color:#f29e38;'>Outrage</color> to the attacked targets for <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Detonates self and deals <1> Wind DMG to a single target and its adjacent targets, with a @100%# Base Chance to cause @Outrage# to the attacked targets for @2# turns.",
         "SP": 10.0,
         "Elem": "Wind",
         "Threat": true,
@@ -5690,7 +5690,7 @@ var _monsterskill = {
     "802202004": {
         "Key": "PassiveSkill01",
         "Name": "Entomon Eulogy",
-        "Desc": "When receiving a killing blow, deals <color style='color:#f29e38;'>60% Self Max HP</color> Wind DMG and <color style='color:#f29e38;'>1.0</color> Wind Toughness DMG to all friendly units, and inflict <color style='color:#f29e38;'>2</color> layers of <b>Vulnerability</b>: DMG taken increased by <color style='color:#f29e38;'>10%</color> for <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>10</color> stacks.",
+        "Desc": "When receiving a killing blow, deals @60% Self Max HP# Wind DMG and @1.0# Wind Toughness DMG to all friendly units, and inflict @2# layers of ``Vulnerability`: DMG taken increased by @10%# for @3# turns, max @10# stacks.",
         "SP": 0,
         "Elem": "Wind",
         "Status": [
@@ -5700,7 +5700,7 @@ var _monsterskill = {
     "802401001": {
         "Key": "Skill01",
         "Name": "Time to Battle",
-        "Desc": "Deals <1> Wind DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>2</color> stacks of <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "Deals <1> Wind DMG to a single target, with a @100%# Base Chance to inflict @2# stacks of ``Wind Shear`.\nWind Shear DoT: <2> Wind DMG, lasts @3# turns, max @5# stacks.",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -5721,7 +5721,7 @@ var _monsterskill = {
     "802401002": {
         "Key": "Skill02",
         "Name": "War Gear",
-        "Desc": "Deals <1> Wind DMG to a single target. If the target is currently suffering from <color style='color:#f29e38;'>Wind Shear</color>, Wind Shear immediately causes DMG 1 time.",
+        "Desc": "Deals <1> Wind DMG to a single target. If the target is currently suffering from @Wind Shear#, Wind Shear immediately causes DMG 1 time.",
         "SP": 20.0,
         "Elem": "Wind",
         "Status": [
@@ -5734,7 +5734,7 @@ var _monsterskill = {
     "802401003": {
         "Key": "Skill03",
         "Name": "Cyclonic Swarm",
-        "Desc": "Deals <1> Wind DMG to a all targets, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>1</color> stack of <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "Deals <1> Wind DMG to a all targets, with a @100%# Base Chance to inflict @1# stack of ``Wind Shear`.\nWind Shear DoT: <2> Wind DMG, lasts @3# turns, max @5# stacks.",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -5748,7 +5748,7 @@ var _monsterskill = {
     "802401004": {
         "Key": "Skill04",
         "Name": "Propagation",
-        "Desc": "Spawns 2~3 <color style='color:#f29e38;'>Juvenile True Sting</color> or <color style='color:#f29e38;'>Lesser True Sting</color>.<br><br>In Phase 1, spawns 2 Juvenile True Stings.<br>In Phase 2, the first Propagation spawns an extra 1 Lesser True Sting, the next Propagations spawn an extra 1 Juvenile True Sting or Lesser True Sting randomly with 50% chance each.<br>In Phase 3, spawns an extra 1 Lesser True Sting.",
+        "Desc": "Spawns 2~3 @Juvenile True Sting# or @Lesser True Sting#.\n\nIn Phase 1, spawns 2 Juvenile True Stings.\nIn Phase 2, the first Propagation spawns an extra 1 Lesser True Sting, the next Propagations spawn an extra 1 Juvenile True Sting or Lesser True Sting randomly with 50% chance each.\nIn Phase 3, spawns an extra 1 Lesser True Sting.",
         "SP": 0,
         "Summon": [
             8022010,
@@ -5758,7 +5758,7 @@ var _monsterskill = {
     "802401005": {
         "Key": "Skill05",
         "Name": "Ready Order",
-        "Desc": "Enters the Charge state. Uses <color style='color:#f29e38;'>Swarm Onslaught</color> for the next action.",
+        "Desc": "Enters the Charge state. Uses @Swarm Onslaught# for the next action.",
         "SP": 0,
         "Prepare": [
             802401006
@@ -5767,7 +5767,7 @@ var _monsterskill = {
     "802401006": {
         "Key": "Skill06",
         "Name": "Swarm Onslaught",
-        "Desc": "Dispels all Crowd Control debuffs and Weakness Break affecting True Stings.<br>Deals <1> Wind DMG to all targets. When there are 0</color>1</color>2</color>3</color>4 other monsters on field, repeat 0</color>4</color>5</color>6</color>7 times: Deal <2> Wind DMG to a random target.<br>Every time a character takes DMG, there is a <color style='color:#f29e38;'>100%</color> Base Chance of being inflicted with <color style='color:#f29e38;'>1</color> stack of <b>Wind Shear</b>.<br>Revive <color style='color:#f29e38;'>5</color> energy for all characters",
+        "Desc": "Dispels all Crowd Control debuffs and Weakness Break affecting True Stings.\nDeals <1> Wind DMG to all targets. When there are 0#1#2#3#4 other monsters on field, repeat 0#4#5#6#7 times: Deal <2> Wind DMG to a random target.\nEvery time a character takes DMG, there is a @100%# Base Chance of being inflicted with @1# stack of ``Wind Shear`.\nRevive @5# energy for all characters",
         "SP": 10.0,
         "Elem": "Wind",
         "Threat": true,
@@ -5786,7 +5786,7 @@ var _monsterskill = {
     "802401008": {
         "Key": "PassiveSkill01",
         "Name": "Transmission Pheromone",
-        "Desc": "Each time a True Sting is spawned, all True Stings increase DMG dealt by <color style='color:#f29e38;'>8%</color>.<br>Only 1 Transmission Pheromone effect can exist in battle at once.",
+        "Desc": "Each time a True Sting is spawned, all True Stings increase DMG dealt by @8%#.\nOnly 1 Transmission Pheromone effect can exist in battle at once.",
         "SP": 0,
         "Status": [
             280240102
@@ -5795,7 +5795,7 @@ var _monsterskill = {
     "802401009": {
         "Key": "PassiveSkill02",
         "Name": "Entomon Eulogy",
-        "Desc": "When receiving a killing blow, deals <color style='color:#f29e38;'>20% Self Max HP</color> Wind DMG and <color style='color:#f29e38;'>1.0</color> Wind Toughness DMG to all friendly units, and inflict <color style='color:#f29e38;'>2</color> layers of <b>Vulnerability</b>: DMG taken increased by <color style='color:#f29e38;'>10%</color> for <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>10</color> stacks.",
+        "Desc": "When receiving a killing blow, deals @20% Self Max HP# Wind DMG and @1.0# Wind Toughness DMG to all friendly units, and inflict @2# layers of ``Vulnerability`: DMG taken increased by @10%# for @3# turns, max @10# stacks.",
         "SP": 0,
         "Elem": "Wind",
         "Status": [
@@ -5815,7 +5815,7 @@ var _monsterskill = {
     "803201002": {
         "Key": "PassiveSkill01",
         "Name": "Performance Boost",
-        "Desc": "Receives 1 <color style='color:#f29e38;'>Performance Point</color> after unleashing an attack, increasing DMG dealt by <color style='color:#f29e38;'>50%</color>.<br>Performance Points can be seized by the attacker when this unit's Weakness is Broken or is defeated.",
+        "Desc": "Receives 1 @Performance Point# after unleashing an attack, increasing DMG dealt by @50%#.\nPerformance Points can be seized by the attacker when this unit's Weakness is Broken or is defeated.",
         "SP": 0,
         "Status": [
             280330101
@@ -5841,7 +5841,7 @@ var _monsterskill = {
     "803202002": {
         "Key": "PassiveSkill01",
         "Name": "Performance Boost",
-        "Desc": "Receives 1 <color style='color:#f29e38;'>Performance Point</color> after unleashing an attack, increasing DMG dealt by <color style='color:#f29e38;'>50%</color>.<br>Performance Points can be seized by the attacker when this unit's Weakness is Broken or is defeated.",
+        "Desc": "Receives 1 @Performance Point# after unleashing an attack, increasing DMG dealt by @50%#.\nPerformance Points can be seized by the attacker when this unit's Weakness is Broken or is defeated.",
         "SP": 0,
         "Status": [
             280330101
@@ -5866,7 +5866,7 @@ var _monsterskill = {
     "803301003": {
         "Key": "Skill02",
         "Name": "In Training...",
-        "Desc": "Enters the Charge state. Uses <color style='color:#f29e38;'>Work Culture Shock</color> in the next action.",
+        "Desc": "Enters the Charge state. Uses @Work Culture Shock# in the next action.",
         "SP": 0,
         "Prepare": [
             803301004
@@ -5886,7 +5886,7 @@ var _monsterskill = {
     "803301005": {
         "Key": "Skill04",
         "Name": "720-Degree Review",
-        "Desc": "Seizes all <color style='color:#f29e38;'>Performance Points</color> from Grunt — Field Personnel and Grunt — Security Personnel.",
+        "Desc": "Seizes all @Performance Points# from Grunt — Field Personnel and Grunt — Security Personnel.",
         "SP": 0,
         "Status": [
             280330101
@@ -5895,7 +5895,7 @@ var _monsterskill = {
     "803301006": {
         "Key": "Skill05",
         "Name": "Team Building",
-        "Desc": "Summons Interastral Peace Corporation Employee, and gives a <color style='color:#f29e38;'>Performance Point</color> to all of them.",
+        "Desc": "Summons Interastral Peace Corporation Employee, and gives a @Performance Point# to all of them.",
         "SP": 0,
         "Summon": [
             8032010,
@@ -5915,7 +5915,7 @@ var _monsterskill = {
     "803301007": {
         "Key": "PassiveSkillInitiate",
         "Name": "Performance Boost",
-        "Desc": "Receives 1 <color style='color:#f29e38;'>Performance Point</color> after unleashing an attack, increasing DMG dealt by <color style='color:#f29e38;'>50%</color>.<br>Performance Points can be seized by the attacker when this unit's Weakness is Broken or is defeated.",
+        "Desc": "Receives 1 @Performance Point# after unleashing an attack, increasing DMG dealt by @50%#.\nPerformance Points can be seized by the attacker when this unit's Weakness is Broken or is defeated.",
         "SP": 0,
         "Status": [
             280330101
@@ -5924,7 +5924,7 @@ var _monsterskill = {
     "800305001": {
         "Key": "Skill01",
         "Name": "Watchful Meteor",
-        "Desc": "Deals <1> Wind DMG to a single target and has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "Deals <1> Wind DMG to a single target and has a @100%# Base Chance to inflict ``Wind Shear`.\nWind Shear DoT: <2> Wind DMG per stack. Lasts @2# turns, max @5# stacks.",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -5938,7 +5938,7 @@ var _monsterskill = {
     "800305002": {
         "Key": "Skill03",
         "Name": "Wind Walker",
-        "Desc": "Deals <1> Wind DMG to the target and adjacent units, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "Deals <1> Wind DMG to the target and adjacent units, has a @100%# Base Chance to inflict ``Wind Shear`.\nWind Shear DoT: <2> Wind DMG per stack. Lasts @2# turns, max @5# stacks.",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -5952,7 +5952,7 @@ var _monsterskill = {
     "800305003": {
         "Key": "Skill04",
         "Name": "Wind-Twisting Crossbow",
-        "Desc": "Enters the <color style='color:#f29e38;'>Charge</color> state and <b>Locks On</b> to all targets currently suffering <color style='color:#f29e38;'>Wind Shear</color>. Cast <color style='color:#f29e38;'>Windfall Storm</color> in the next action.",
+        "Desc": "Enters the @Charge# state and ``Locks On` to all targets currently suffering @Wind Shear#. Cast @Windfall Storm# in the next action.",
         "SP": 0,
         "Prepare": [
             800305004
@@ -5965,7 +5965,7 @@ var _monsterskill = {
     "800305004": {
         "Key": "Skill05",
         "Name": "Windfall Storm",
-        "Desc": "Deals <1> Wind DMG to targets afflicted with Wind Shear. <br>This ability fails if no one on the target team suffers Wind Shear.",
+        "Desc": "Deals <1> Wind DMG to targets afflicted with Wind Shear. \nThis ability fails if no one on the target team suffers Wind Shear.",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true,
@@ -5979,7 +5979,7 @@ var _monsterskill = {
     "800305005": {
         "Key": "PassiveSkillInitiate",
         "Name": "Storm Cyclone",
-        "Desc": "Increases <color style='color:#f29e38;'>8%</color> ATK after attacking a target afflicted with Wind Shear, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>5</color> stacks. <br>This buff is dispelled upon Weakness Break.",
+        "Desc": "Increases @8%# ATK after attacking a target afflicted with Wind Shear, lasts @2# turns, max @5# stacks. \nThis buff is dispelled upon Weakness Break.",
         "SP": 0,
         "Status": [
             280130202
@@ -5994,7 +5994,7 @@ var _monsterskill = {
     "800305101": {
         "Key": "Skill01",
         "Name": "Watchful Meteor",
-        "Desc": "Deals <1> Wind DMG to a single target and has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "Deals <1> Wind DMG to a single target and has a @100%# Base Chance to inflict ``Wind Shear`.\nWind Shear DoT: <2> Wind DMG per stack. Lasts @3# turns, max @5# stacks.",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -6008,7 +6008,7 @@ var _monsterskill = {
     "800305102": {
         "Key": "Skill03",
         "Name": "Wind Walker",
-        "Desc": "Deals <1> Wind DMG to the target and adjacent units, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "Deals <1> Wind DMG to the target and adjacent units, has a @100%# Base Chance to inflict ``Wind Shear`.\nWind Shear DoT: <2> Wind DMG per stack. Lasts @3# turns, max @5# stacks.",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -6022,7 +6022,7 @@ var _monsterskill = {
     "800305103": {
         "Key": "Skill04",
         "Name": "Wind-Twisting Crossbow",
-        "Desc": "Enters the <color style='color:#f29e38;'>Charge</color> state and locks on to all targets currently suffering Wind Shear. Cast <color style='color:#f29e38;'>Windfall Storm</color> in the next action.",
+        "Desc": "Enters the @Charge# state and locks on to all targets currently suffering Wind Shear. Cast @Windfall Storm# in the next action.",
         "SP": 0,
         "Prepare": [
             800305104
@@ -6035,7 +6035,7 @@ var _monsterskill = {
     "800305104": {
         "Key": "Skill05",
         "Name": "Windfall Storm",
-        "Desc": "Deals <1> Wind DMG to targets afflicted with <color style='color:#f29e38;'>Wind Shear</color>, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b> again. <br>This ability fails if no one on the target team suffers Wind Shear.",
+        "Desc": "Deals <1> Wind DMG to targets afflicted with @Wind Shear#, with a @100%# Base Chance to inflict ``Wind Shear` again. \nThis ability fails if no one on the target team suffers Wind Shear.",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true,
@@ -6049,7 +6049,7 @@ var _monsterskill = {
     "800305105": {
         "Key": "PassiveSkillInitiate",
         "Name": "Storm Cyclone",
-        "Desc": "Increases <color style='color:#f29e38;'>8%</color> ATK after attacking a target afflicted with Wind Shear, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>10</color> stacks. <br>This buff is dispelled upon Weakness Break.",
+        "Desc": "Increases @8%# ATK after attacking a target afflicted with Wind Shear, lasts @2# turns, max @10# stacks. \nThis buff is dispelled upon Weakness Break.",
         "SP": 0,
         "Status": [
             280130202
@@ -6077,7 +6077,7 @@ var _monsterskill = {
     "800305109": {
         "Key": "Skill09",
         "Name": "Willing Wind",
-        "Desc": "Summons <color style='color:#f29e38;'>4</color> <color style='color:#f29e38;'>Windspawns</color>.",
+        "Desc": "Summons @4# @Windspawns#.",
         "SP": 0,
         "Elem": "Wind",
         "Summon": [
@@ -6087,7 +6087,7 @@ var _monsterskill = {
     "202303001": {
         "Key": "Skill01",
         "Name": "Rite of Great Arbor Metamorphosis",
-        "Desc": "Continuously deal <1> Wind DMG to a random target, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "Continuously deal <1> Wind DMG to a random target, has a @100%# Base Chance to inflict ``Wind Shear`.\nWind Shear DoT: <2> Wind DMG per stack. Lasts @3# turns, max @5# stacks.",
         "SP": 5.0,
         "Elem": "Wind",
         "Status": [
@@ -6101,7 +6101,7 @@ var _monsterskill = {
     "202303002": {
         "Key": "Skill02",
         "Name": "Guiding Vulturnus",
-        "Desc": "Deals <1> Wind DMG to the targeted and adjacent allies, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "Deals <1> Wind DMG to the targeted and adjacent allies, has a @100%# Base Chance to inflict ``Wind Shear`.\nWind Shear DoT: <2> Wind DMG per stack. Lasts @3# turns, max @5# stacks.",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -6115,7 +6115,7 @@ var _monsterskill = {
     "202303003": {
         "Key": "Skill03",
         "Name": "Arboreal Thorns",
-        "Desc": "Deals <1> Wind DMG to a single target, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "Deals <1> Wind DMG to a single target, has a @100%# Base Chance to inflict ``Wind Shear`.\nWind Shear DoT: <2> Wind DMG per stack. Lasts @3# turns, max @5# stacks.",
         "SP": 15.0,
         "Elem": "Wind",
         "Status": [
@@ -6129,7 +6129,7 @@ var _monsterskill = {
     "202303004": {
         "Key": "Skill04",
         "Name": "Rite of Subduing Prana",
-        "Desc": "Enters <color style='color:#f29e38;'>Japa</color>. Cast <color style='color:#f29e38;'>\"Black Prana's Snare\"</color> on all targets during the next action.",
+        "Desc": "Enters @Japa#. Cast @\"Black Prana's Snare\"# on all targets during the next action.",
         "SP": 10.0,
         "Elem": "Wind",
         "Prepare": [
@@ -6142,7 +6142,7 @@ var _monsterskill = {
     "202303005": {
         "Key": "Skill05",
         "Name": "Black Prana's Snare",
-        "Desc": "Has <color style='color:#f29e38;'>100%</color> Base Chance of afflicting all targets with <color style='color:#f29e38;'>Prana-Siphon</color> for <color style='color:#f29e38;'>2</color> turns.<br>Prana-Siphon: Decreases Maximum Recoverable HP by <color style='color:#f29e38;'>30%</color>.",
+        "Desc": "Has @100%# Base Chance of afflicting all targets with @Prana-Siphon# for @2# turns.\nPrana-Siphon: Decreases Maximum Recoverable HP by @30%#.",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true,
@@ -6153,7 +6153,7 @@ var _monsterskill = {
     "801501001": {
         "Key": "PassiveSkill02",
         "Name": "Leviathan's Lingering Power",
-        "Desc": "The Doomsday Beast cannot be attacked until the Antimatter Engine, Disaster's Right Hand, and Dawn's Left Hand have all been destroyed.<br>While Weakened, damage taken is increased by <color style='color:#f29e38;'>900%</color>.",
+        "Desc": "The Doomsday Beast cannot be attacked until the Antimatter Engine, Disaster's Right Hand, and Dawn's Left Hand have all been destroyed.\nWhile Weakened, damage taken is increased by @900%#.",
         "SP": 0,
         "Elem": "Quantum",
         "Status": [
@@ -6178,7 +6178,7 @@ var _monsterskill = {
     "801214002": {
         "Key": "Skill02",
         "Name": "Tough Cuts",
-        "Desc": "Deals <1> Imaginary DMG to all targets, with a <color style='color:#f29e38;'>20% Base Chance to inflict <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn.<br>Imprisonment: Cannot take action, SPD decreased by <color style='color:#f29e38;'>30%</color>, action delayed by <color style='color:#f29e38;'>20%</color>.",
+        "Desc": "Deals <1> Imaginary DMG to all targets, with a @20% Base Chance to inflict ``Imprisonment` for @1# turn.\nImprisonment: Cannot take action, SPD decreased by @30%#, action delayed by @20%#.",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Status": [
@@ -6191,7 +6191,7 @@ var _monsterskill = {
     "801214003": {
         "Key": "Skill03",
         "Name": "The Breakdown of Tyranny",
-        "Desc": "Deals <1> Imaginary DMG to all targets, with a <color style='color:#f29e38;'>25% Base Chance to inflict <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn.<br>Imprisonment: Cannot take action, SPD decreased by <color style='color:#f29e38;'>30%</color>, action delayed by <color style='color:#f29e38;'>20%</color>.",
+        "Desc": "Deals <1> Imaginary DMG to all targets, with a @25% Base Chance to inflict ``Imprisonment` for @1# turn.\nImprisonment: Cannot take action, SPD decreased by @30%#, action delayed by @20%#.",
         "SP": 10.0,
         "Elem": "Imaginary",
         "Status": [
@@ -6204,7 +6204,7 @@ var _monsterskill = {
     "801314101": {
         "Key": "Skill07",
         "Name": "Void Fission",
-        "Desc": "<color style='color:#f29e38;'>Buff</color> Disaster's Right Hand, restoring Toughness and boosting ATK by <color style='color:#f29e38;'>60%</color> for <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "@Buff# Disaster's Right Hand, restoring Toughness and boosting ATK by @60%# for @2# turns.",
         "SP": 0,
         "Status": [
             280150103
@@ -6213,7 +6213,7 @@ var _monsterskill = {
     "801314102": {
         "Key": "Skill08",
         "Name": "Calamity Strike",
-        "Desc": "<color style='color:#f29e38;'>Buff</color> Dawn's Left Hand, restoring Toughness and boosting ATK by <color style='color:#f29e38;'>60%</color> for <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "@Buff# Dawn's Left Hand, restoring Toughness and boosting ATK by @60%# for @2# turns.",
         "SP": 0,
         "Status": [
             280150103
@@ -6222,7 +6222,7 @@ var _monsterskill = {
     "801314103": {
         "Key": "Skill09",
         "Name": "Engine Boost",
-        "Desc": "<color style='color:#f29e38;'>Buffs</color> all friendly units except the user, restoring Toughness and boosting ATK by <color style='color:#f29e38;'>60%</color> for <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "@Buffs# all friendly units except the user, restoring Toughness and boosting ATK by @60%# for @2# turns.",
         "SP": 0,
         "Status": [
             280150103
@@ -6241,7 +6241,7 @@ var _monsterskill = {
     "801314105": {
         "Key": "Skill11",
         "Name": "Cataclysm Precursor",
-        "Desc": "Enters the Charge state. The next action uses <color style='color:#f29e38;'>\"Impending Doom\"</color> on all targets.<br>Icreases ATK by <color style='color:#f29e38;'>60%</color> for <color style='color:#f29e38;'>1</color> turn.",
+        "Desc": "Enters the Charge state. The next action uses @\"Impending Doom\"# on all targets.\nIcreases ATK by @60%# for @1# turn.",
         "SP": 0,
         "Elem": "Quantum",
         "Prepare": [
@@ -6262,7 +6262,7 @@ var _monsterskill = {
     "801314107": {
         "Key": "PassiveSkill03",
         "Name": "Engine Slit",
-        "Desc": "The Antimatter Engine will change its Weakness Type every time it recovers from Weakness Break.<br>During Phase 2, SPD increased by <color style='color:#f29e38;'>40%</color>.",
+        "Desc": "The Antimatter Engine will change its Weakness Type every time it recovers from Weakness Break.\nDuring Phase 2, SPD increased by @40%#.",
         "SP": 0,
         "Elem": "Quantum",
         "Status": [
@@ -6283,7 +6283,7 @@ var _monsterskill = {
     "801214202": {
         "Key": "Skill05",
         "Name": "Fallen Star's Visit",
-        "Desc": "Deals <1> Quantum DMG to a single target, with a <color style='color:#f29e38;'>30%</color> Base Chance to inflict <b>Entanglement</b> for <color style='color:#f29e38;'>1</color> turn.<br>Entanglement Base DMG: <2> Quantum DMG, action delayed by <color style='color:#f29e38;'>30%</color>.",
+        "Desc": "Deals <1> Quantum DMG to a single target, with a @30%# Base Chance to inflict ``Entanglement` for @1# turn.\nEntanglement Base DMG: <2> Quantum DMG, action delayed by @30%#.",
         "SP": 10.0,
         "Elem": "Quantum",
         "Status": [
@@ -6297,7 +6297,7 @@ var _monsterskill = {
     "801214203": {
         "Key": "Skill06",
         "Name": "When the Dawn Is Dark",
-        "Desc": "Deals <1> Quantum DMG to a single target, with a <color style='color:#f29e38;'>50%</color> Base Chance to inflict <b>Entanglement</b> for <color style='color:#f29e38;'>1</color> turn.<br>Entanglement Base DMG: <2> Quantum DMG, action delayed by <color style='color:#f29e38;'>30%</color>.",
+        "Desc": "Deals <1> Quantum DMG to a single target, with a @50%# Base Chance to inflict ``Entanglement` for @1# turn.\nEntanglement Base DMG: <2> Quantum DMG, action delayed by @30%#.",
         "SP": 15.0,
         "Elem": "Quantum",
         "Status": [
@@ -6311,7 +6311,7 @@ var _monsterskill = {
     "801501101": {
         "Key": "PassiveSkill02",
         "Name": "Leviathan's Lingering Power",
-        "Desc": "The Doomsday Beast cannot be attacked until the Antimatter Engine, Disaster's Right Hand, and Dawn's Left Hand have all been destroyed.<br>While Weakened, damage taken is increased by <color style='color:#f29e38;'>900%</color>.",
+        "Desc": "The Doomsday Beast cannot be attacked until the Antimatter Engine, Disaster's Right Hand, and Dawn's Left Hand have all been destroyed.\nWhile Weakened, damage taken is increased by @900%#.",
         "SP": 0,
         "Elem": "Quantum",
         "Status": [
@@ -6356,7 +6356,7 @@ var _monsterskill = {
     "801314401": {
         "Key": "Skill07",
         "Name": "Void Fission",
-        "Desc": "<color style='color:#f29e38;'>Buff</color> Disaster's Right Hand, restoring Toughness and boosting ATK by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "@Buff# Disaster's Right Hand, restoring Toughness and boosting ATK by @20%# for @2# turns.",
         "SP": 0,
         "Status": [
             280150103
@@ -6365,7 +6365,7 @@ var _monsterskill = {
     "801314402": {
         "Key": "Skill08",
         "Name": "Calamity Strike",
-        "Desc": "<color style='color:#f29e38;'>Buff</color> Dawn's Left Hand, restoring Toughness and boosting ATK by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "@Buff# Dawn's Left Hand, restoring Toughness and boosting ATK by @20%# for @2# turns.",
         "SP": 0,
         "Status": [
             280150103
@@ -6374,7 +6374,7 @@ var _monsterskill = {
     "801314403": {
         "Key": "Skill09",
         "Name": "Engine Boost",
-        "Desc": "<color style='color:#f29e38;'>Buffs</color> all friendly units except the user, restoring Toughness and boosting ATK by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "@Buffs# all friendly units except the user, restoring Toughness and boosting ATK by @20%# for @2# turns.",
         "SP": 0,
         "Status": [
             280150103
@@ -6414,7 +6414,7 @@ var _monsterskill = {
     "801314407": {
         "Key": "PassiveSkill03",
         "Name": "Engine Slit",
-        "Desc": "The Antimatter Engine will change its Weakness Type every time it recovers from Weakness Break.<br>During Phase 2, SPD increased by <color style='color:#f29e38;'>50%</color>.",
+        "Desc": "The Antimatter Engine will change its Weakness Type every time it recovers from Weakness Break.\nDuring Phase 2, SPD increased by @50%#.",
         "SP": 0,
         "Elem": "Quantum",
         "Status": [
@@ -6471,7 +6471,7 @@ var _monsterskill = {
     "202205001": {
         "Key": "Skill01",
         "Name": "Wolf Predation",
-        "Desc": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>1</color> stack.",
+        "Desc": "Deals <1> Lightning DMG to a single target, with a @100%# Base Chance to ``Shock` the target.\nShock DoT: <2> Lightning DMG, lasts @3# turns, max @1# stack.",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -6485,7 +6485,7 @@ var _monsterskill = {
     "202205002": {
         "Key": "Skill02",
         "Name": "Rallying Howl",
-        "Desc": "Summons <color style='color:#f29e38;'>1</color> <color style='color:#f29e38;'>Shadow Jackhyena</color> with the same Current HP as itself.",
+        "Desc": "Summons @1# @Shadow Jackhyena# with the same Current HP as itself.",
         "SP": 0,
         "Summon": [
             2022051
@@ -6500,7 +6500,7 @@ var _monsterskill = {
     "202205101": {
         "Key": "Skill01",
         "Name": "Wolf Predation",
-        "Desc": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>1</color> stack.",
+        "Desc": "Deals <1> Lightning DMG to a single target, with a @100%# Base Chance to ``Shock` the target.\nShock DoT: <2> Lightning DMG, lasts @3# turns, max @1# stack.",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -6514,7 +6514,7 @@ var _monsterskill = {
     "202206001": {
         "Key": "Skill01",
         "Name": "Mounted Crossbow",
-        "Desc": "Repeat <color style='color:#f29e38;'>6</color> times: Deals <1> Lightning DMG to a random target.",
+        "Desc": "Repeat @6# times: Deals <1> Lightning DMG to a random target.",
         "SP": 15.0,
         "Elem": "Elec",
         "DMG": [
@@ -6524,7 +6524,7 @@ var _monsterskill = {
     "202302001": {
         "Key": "Skill01",
         "Name": "Simian Strike",
-        "Desc": "Consumes 1 stack of <color style='color:#f29e38;'>Gusto</color> and deals <1> Quantum DMG to a locked-on target.",
+        "Desc": "Consumes 1 stack of @Gusto# and deals <1> Quantum DMG to a locked-on target.",
         "SP": 15.0,
         "Elem": "Quantum",
         "Status": [
@@ -6537,7 +6537,7 @@ var _monsterskill = {
     "202302002": {
         "Key": "Skill02",
         "Name": "Simian Strike",
-        "Desc": "Consumes 1 stack of <color style='color:#f29e38;'>Gusto</color> and deals <1> Quantum DMG to a locked-on target.",
+        "Desc": "Consumes 1 stack of @Gusto# and deals <1> Quantum DMG to a locked-on target.",
         "SP": 15.0,
         "Elem": "Quantum",
         "Status": [
@@ -6550,7 +6550,7 @@ var _monsterskill = {
     "202302003": {
         "Key": "Skill03",
         "Name": "Fiery Majesty",
-        "Desc": "Increases DMG dealtby <color style='color:#f29e38;'>20% for <color style='color:#f29e38;'>2</color> turns. Max <color style='color:#f29e38;'>3</color> stacks.",
+        "Desc": "Increases DMG dealtby @20% for @2# turns. Max @3# stacks.",
         "SP": 0,
         "Status": [
             220230205
@@ -6559,7 +6559,7 @@ var _monsterskill = {
     "202302004": {
         "Key": "Skill04",
         "Name": "Wrathful Roar",
-        "Desc": "Gains <color style='color:#f29e38;'>3</color> stacks of <color style='color:#f29e38;'>Gusto</color> and marks a random target for <b>Monitoring</b>. Until Gusto is exhausted, any target that uses their Skill will become the new Monitored target.",
+        "Desc": "Gains @3# stacks of @Gusto# and marks a random target for ``Monitoring`. Until Gusto is exhausted, any target that uses their Skill will become the new Monitored target.",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -6582,7 +6582,7 @@ var _monsterskill = {
     "200402101": {
         "Key": "Skill01",
         "Name": "Rapturous Wind",
-        "Desc": "Deals <1> Ice DMG to a single target, and applies <color style='color:#f29e38;'>Chilling Light</color> to self and all Flying swords: increase DMG dealt by <color style='color:#f29e38;'>10%</color>, stackable, not dispelable.",
+        "Desc": "Deals <1> Ice DMG to a single target, and applies @Chilling Light# to self and all Flying swords: increase DMG dealt by @10%#, stackable, not dispelable.",
         "SP": 10.0,
         "Elem": "Ice",
         "Status": [
@@ -6595,7 +6595,7 @@ var _monsterskill = {
     "200402102": {
         "Key": "Skill02",
         "Name": "Swallow Return",
-        "Desc": "Summons 4 <color style='color:#f29e38;'>Flying Swords</color>, applies <color style='color:#f29e38;'>Formation Core</color> to the Flying Swords, and applies the <color style='color:#f29e38;'>Sword Formation</color> effect to self. <br>In Phase 3, additionally grant <color style='color:#f29e38;'>Ordeal</color> to one Flying Sword.<br><br>Sword Formation: Toughness locked, SPD increased by <color style='color:#f29e38;'>60%</color>. When all Flying Swords are destroyed, dispels this and lose <color style='color:#f29e38;'>20%</color> HP.<br>Ordeal: Toughness increased from 1 to 2. When attacking, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Freeze</b>. Freeze Additional DMG: <1> Ice DMG, lasts <color style='color:#f29e38;'>1</color> turn.",
+        "Desc": "Summons 4 @Flying Swords#, applies @Formation Core# to the Flying Swords, and applies the @Sword Formation# effect to self. \nIn Phase 3, additionally grant @Ordeal# to one Flying Sword.\n\nSword Formation: Toughness locked, SPD increased by @60%#. When all Flying Swords are destroyed, dispels this and lose @20%# HP.\nOrdeal: Toughness increased from 1 to 2. When attacking, has a @100%# Base Chance to inflict ``Freeze`. Freeze Additional DMG: <1> Ice DMG, lasts @1# turn.",
         "SP": 10.0,
         "Status": [
             220040211,
@@ -6613,7 +6613,7 @@ var _monsterskill = {
     "200402103": {
         "Key": "Skill03",
         "Name": "Ironthorn",
-        "Desc": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target. Freeze Additional DMG: <2> Ice DMG, lasts <color style='color:#f29e38;'>1</color> turn.",
+        "Desc": "Deals <1> Ice DMG to a single target, with a @100%# Base Chance to ``Freeze` the target. Freeze Additional DMG: <2> Ice DMG, lasts @1# turn.",
         "SP": 15.0,
         "Elem": "Ice",
         "DMG": [
@@ -6635,7 +6635,7 @@ var _monsterskill = {
     "200402105": {
         "Key": "Skill05",
         "Name": "Qi Advance",
-        "Desc": "Enters the Charge state. Cast <color style='color:#f29e38;'>Cascading Laceration</color> on all targets in the next action.",
+        "Desc": "Enters the Charge state. Cast @Cascading Laceration# on all targets in the next action.",
         "SP": 10.0,
         "Prepare": [
             200402106
@@ -6655,7 +6655,7 @@ var _monsterskill = {
     "200402107": {
         "Key": "Skill07",
         "Name": "Qi Converge",
-        "Desc": "Locks on to a single target. After 2 turns, use <color style='color:#f29e38;'>Aethereal Dreamflux</color> on the target.",
+        "Desc": "Locks on to a single target. After 2 turns, use @Aethereal Dreamflux# on the target.",
         "SP": 0,
         "Prepare": [
             200402108
@@ -6676,7 +6676,7 @@ var _monsterskill = {
     "200402109": {
         "Key": "SkillP01",
         "Name": "",
-        "Desc": "In Phase 3, Toughness becomes <color style='color:#f29e38;'>1.5</color> times the original, and SPD is increased by <color style='color:#f29e38;'>50</color>.",
+        "Desc": "In Phase 3, Toughness becomes @1.5# times the original, and SPD is increased by @50#.",
         "SP": 15.0
     },
     "800204101": {
@@ -6712,7 +6712,7 @@ var _monsterskill = {
     "300101001": {
         "Key": "Skill01",
         "Name": "Throw Die",
-        "Desc": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to Weaken them: Status RES decreased by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>1</color> turn.",
+        "Desc": "Deals <1> Physical DMG to a single target, with a @100%# Base Chance to Weaken them: Status RES decreased by @20%# for @1# turn.",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -6725,7 +6725,7 @@ var _monsterskill = {
     "300102001": {
         "Key": "Skill01",
         "Name": "Dance Invite",
-        "Desc": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>50%</color> Base Chance to inflict <b>Bleed</b> on them.<br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers.",
+        "Desc": "Deals <1> Physical DMG to a single target, with a @50%# Base Chance to inflict ``Bleed` on them.\nBleed DoT: Every layer deals <2> Physical DMG, lasts @2# turns, max 10 layers.",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -6736,7 +6736,7 @@ var _monsterskill = {
     "201301102": {
         "Key": "Skill01",
         "Name": "Dread",
-        "Desc": "Increases Sanction Rate level by <color style='color:#f29e38;'>33%</color> and deals <1> Imaginary DMG to all targets.<br>Has a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Weaken</b> them.<br>Weaken: DMG dealt decreases by <color style='color:#f29e38;'>30%</color>, lasts <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Increases Sanction Rate level by @33%# and deals <1> Imaginary DMG to all targets.\nHas a @100%# Base Chance to ``Weaken` them.\nWeaken: DMG dealt decreases by @30%#, lasts @2# turns.",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Status": [
@@ -6756,7 +6756,7 @@ var _monsterskill = {
     "201301104": {
         "Key": "Skill03",
         "Name": "Track Down",
-        "Desc": "Deals <1> Imaginary DMG to 1 locked on target and removes their Lock On state, with a <color style='color:#f29e38;'>100%</color> Base Chance of causing <b>Imprisonment</b>: Action delayed by <color style='color:#f29e38;'>60%</color> for <color style='color:#f29e38;'>1</color> turn.",
+        "Desc": "Deals <1> Imaginary DMG to 1 locked on target and removes their Lock On state, with a @100%# Base Chance of causing ``Imprisonment`: Action delayed by @60%# for @1# turn.",
         "SP": 15.0,
         "Elem": "Imaginary",
         "Threat": true,
@@ -6771,7 +6771,7 @@ var _monsterskill = {
     "201301101": {
         "Key": "SkillP01",
         "Name": "Penal Code",
-        "Desc": "Sanction Rate level increases by <color style='color:#f29e38;'>33%</color> when allies use Skills or Ultimates to attack. <br>When Sanction Rate is full, enters <color style='color:#f29e38;'>Sanction Mode: Punisher</color>, SPD increased by <color style='color:#f29e38;'>75%</color>, <b>Locks On</b> to <color style='color:#f29e38;'>3</color> targets, start using <color style='color:#f29e38;'>Track Down</color>, and summons <color style='color:#f29e38;'>2</color> <color style='color:#f29e38;'>Entranced Ingenium: Illumination Dragonfish</color>.",
+        "Desc": "Sanction Rate level increases by @33%# when allies use Skills or Ultimates to attack. \nWhen Sanction Rate is full, enters @Sanction Mode: Punisher#, SPD increased by @75%#, ``Locks On` to @3# targets, start using @Track Down#, and summons @2# @Entranced Ingenium: Illumination Dragonfish#.",
         "SP": 0,
         "Prepare": [
             201301104
@@ -6824,7 +6824,7 @@ var _monsterskill = {
     "202301105": {
         "Key": "Skill05",
         "Name": "Sympathicus",
-        "Desc": "Consumes <color style='color:#f29e38;'>15% Self Max HP</color> to summon<color style='color:#f29e38;'>2</color> Mara-Struck Soldiers and <color style='color:#f29e38;'>2</color> Disciples of Sanctus Medicus: Internal Alchemist. <br>At the same time, lock on to the target with the lowest current HP percentage and make all friendly units focus their attacks on this target.",
+        "Desc": "Consumes @15% Self Max HP# to summon@2# Mara-Struck Soldiers and @2# Disciples of Sanctus Medicus: Internal Alchemist. \nAt the same time, lock on to the target with the lowest current HP percentage and make all friendly units focus their attacks on this target.",
         "SP": 0,
         "Threat": true,
         "Summon": [
@@ -6835,7 +6835,7 @@ var _monsterskill = {
     "202301106": {
         "Key": "SkillP01",
         "Name": "Vigor Draining",
-        "Desc": "When there are other friendly units with <color style='color:#f29e38;'>Rebirth</color> on the field, they have <color style='color:#f29e38;'>Draining Hit</color>.<br><br>Draining Hit:<br>Thunder-Shock restores <color style='color:#f29e38;'>3% Max HP</color><br>Punishing Bolts restores <color style='color:#f29e38;'>9% Max HP</color><br>Thudding Calamity restores <color style='color:#f29e38;'>24% Max HP</color>",
+        "Desc": "When there are other friendly units with @Rebirth# on the field, they have @Draining Hit#.\n\nDraining Hit:\nThunder-Shock restores @3% Max HP#\nPunishing Bolts restores @9% Max HP#\nThudding Calamity restores @24% Max HP#",
         "SP": 0,
         "Status": [
             220220101,
@@ -7114,7 +7114,7 @@ var _monsterskill = {
     "300203002": {
         "Key": "Skill02",
         "Name": "Libation of Sweetness",
-        "Desc": "Upon taking fatal DMG, increases adjacent friendly units' SPD by <color style='color:#f29e38;'>30%</color>, but will deal <color style='color:#f29e38;'>1% Max HP</color> Physical DMG to them and inflict them with Bleed.",
+        "Desc": "Upon taking fatal DMG, increases adjacent friendly units' SPD by @30%#, but will deal @1% Max HP# Physical DMG to them and inflict them with Bleed.",
         "SP": 0
     },
     "800205801": {
@@ -7210,7 +7210,7 @@ var _monsterskill = {
     "300203003": {
         "Key": "SkillP01",
         "Name": "Hearty Revelry",
-        "Desc": "Upon being attacked or taking DMG from DoT effects, gains a stack of SoulGlad Revel: DMG dealt increases by <color style='color:#f29e38;'>50%</color>, max <color style='color:#f29e38;'>4</color> stacks.",
+        "Desc": "Upon being attacked or taking DMG from DoT effects, gains a stack of SoulGlad Revel: DMG dealt increases by @50%#, max @4# stacks.",
         "SP": 0,
         "Status": [
             230020301
@@ -7251,7 +7251,7 @@ var _monsterskill = {
     "302401004": {
         "Key": "Skill04",
         "Name": "Soul of Tenacity",
-        "Desc": "Casts a Soul of Beauty from one of the statues. The <color style='color:#f29e38;'>Soulfreed</color> statue's abilities are enhanced, lasting <color style='color:#f29e38;'>3</color> turns.",
+        "Desc": "Casts a Soul of Beauty from one of the statues. The @Soulfreed# statue's abilities are enhanced, lasting @3# turns.",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -7283,7 +7283,7 @@ var _monsterskill = {
     "202302101": {
         "Key": "Skill01",
         "Name": "Simian Strike",
-        "Desc": "Consumes all stacks of <color style='color:#f29e38;'>Gusto</color>, dealing <1> Quantum DMG to the <b>Monitored</b> target. For every stack of <color style='color:#f29e38;'>Gusto</color> consumed, deal an extra <2> Quantum DMG.",
+        "Desc": "Consumes all stacks of @Gusto#, dealing <1> Quantum DMG to the ``Monitored` target. For every stack of @Gusto# consumed, deal an extra <2> Quantum DMG.",
         "SP": 15.0,
         "Elem": "Quantum",
         "Threat": true,
@@ -7299,7 +7299,7 @@ var _monsterskill = {
     "202302102": {
         "Key": "Skill02",
         "Name": "Wrathful Roar",
-        "Desc": "Marks a random target for <b>Monitoring</b>. When a character uses their Skill, Monitoring will be moved to the newest Skill user, and the Ape gains 1 stack of <color style='color:#f29e38;'>Gusto</color>.<br>The next action uses <color style='color:#f29e38;'>Simian Strike</color>, consuming all stacks of Gusto.<br>Accumulated Gusto stacks will be cleared when this unit has its Weakness Broken.",
+        "Desc": "Marks a random target for ``Monitoring`. When a character uses their Skill, Monitoring will be moved to the newest Skill user, and the Ape gains 1 stack of @Gusto#.\nThe next action uses @Simian Strike#, consuming all stacks of Gusto.\nAccumulated Gusto stacks will be cleared when this unit has its Weakness Broken.",
         "SP": 0,
         "Threat": true,
         "Prepare": [
@@ -7335,7 +7335,7 @@ var _monsterskill = {
     "202303101": {
         "Key": "Skill01",
         "Name": "Rite of Great Arbor Metamorphosis",
-        "Desc": "Continuously deal <1> Wind DMG to a random target, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "Continuously deal <1> Wind DMG to a random target, has a @100%# Base Chance to inflict ``Wind Shear`.\nWind Shear DoT: <2> Wind DMG per stack. Lasts @3# turns, max @5# stacks.",
         "SP": 5.0,
         "Elem": "Wind",
         "Status": [
@@ -7349,7 +7349,7 @@ var _monsterskill = {
     "202303102": {
         "Key": "Skill02",
         "Name": "Guiding Vulturnus",
-        "Desc": "Deals <1> Wind DMG to the targeted and adjacent allies, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "Deals <1> Wind DMG to the targeted and adjacent allies, has a @100%# Base Chance to inflict ``Wind Shear`.\nWind Shear DoT: <2> Wind DMG per stack. Lasts @3# turns, max @5# stacks.",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -7363,7 +7363,7 @@ var _monsterskill = {
     "202303103": {
         "Key": "Skill03",
         "Name": "Arboreal Thorns",
-        "Desc": "Deals <1> Wind DMG to a single target, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "Deals <1> Wind DMG to a single target, has a @100%# Base Chance to inflict ``Wind Shear`.\nWind Shear DoT: <2> Wind DMG per stack. Lasts @3# turns, max @5# stacks.",
         "SP": 15.0,
         "Elem": "Wind",
         "Status": [
@@ -7377,7 +7377,7 @@ var _monsterskill = {
     "202303104": {
         "Key": "Skill05",
         "Name": "Black Prana's Snare",
-        "Desc": "Has <color style='color:#f29e38;'>100%</color> Base Chance of afflicting all targets with <color style='color:#f29e38;'>Stackable Prana-Siphon</color> for <color style='color:#f29e38;'>3</color> turns.<br>Stackable Prana-Siphon: Unrecoverable Black HP increases by <color style='color:#f29e38;'>20%</color> every stack, max <color style='color:#f29e38;'>50%</color>. Lasts <color style='color:#f29e38;'>3</color> turns.",
+        "Desc": "Has @100%# Base Chance of afflicting all targets with @Stackable Prana-Siphon# for @3# turns.\nStackable Prana-Siphon: Unrecoverable Black HP increases by @20%# every stack, max @50%#. Lasts @3# turns.",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true,
@@ -7388,7 +7388,7 @@ var _monsterskill = {
     "202303105": {
         "Key": "SkillP01",
         "Name": "Vitals Drained",
-        "Desc": "After attacking a target with <color style='color:#f29e38;'>Stackable Prana-Siphon</color>, the amount of HP lost in this attack will be added to the <color style='color:#f29e38;'>Stackable Prana-Siphon</color>'s black HP, and refreshes its duration.",
+        "Desc": "After attacking a target with @Stackable Prana-Siphon#, the amount of HP lost in this attack will be added to the @Stackable Prana-Siphon#'s black HP, and refreshes its duration.",
         "SP": 0,
         "Elem": "Wind",
         "Threat": true
@@ -7416,7 +7416,7 @@ var _monsterskill = {
     "301402003": {
         "Key": "Skill03",
         "Name": "Biting Obituary",
-        "Desc": "Increases DMG dealt by <color style='color:#f29e38;'>100%</color> for 1 turn. This effect is removed when this unit become Weakness Broken.",
+        "Desc": "Increases DMG dealt by @100%# for 1 turn. This effect is removed when this unit become Weakness Broken.",
         "SP": 0,
         "Status": [
             230140207
@@ -7425,7 +7425,7 @@ var _monsterskill = {
     "301402004": {
         "Key": "Skill04",
         "Name": "Fading Radiance",
-        "Desc": "Enters the <color style='color:#f29e38;'>Sunset</color> state. Gains 1 stack each time a character uses Basic ATK, Skill, or Ultimate. When 3 stacks are gained, immediately uses <color style='color:#f29e38;'>Losing Eventide Light</color> on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken.",
+        "Desc": "Enters the @Sunset# state. Gains 1 stack each time a character uses Basic ATK, Skill, or Ultimate. When 3 stacks are gained, immediately uses @Losing Eventide Light# on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken.",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -7435,7 +7435,7 @@ var _monsterskill = {
     "301402005": {
         "Key": "Skill05",
         "Name": "Losing Eventide Light",
-        "Desc": "Immediately launches a killing blow on the last-acting character who used Basic ATK, Skill, or Ultimate, and inflicts <color style='color:#f29e38;'>Morbid Dream</color> on them.",
+        "Desc": "Immediately launches a killing blow on the last-acting character who used Basic ATK, Skill, or Ultimate, and inflicts @Morbid Dream# on them.",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -7445,7 +7445,7 @@ var _monsterskill = {
     "301402006": {
         "Key": "Skill06",
         "Name": "Go Into That Good Night",
-        "Desc": "Revive all energy for all characters, and enters the <color style='color:#f29e38;'>Nightfall</color> state, locking onto the 2 characters who are due to act next. Uses <color style='color:#f29e38;'>Watery Dissolution</color> in the next action.",
+        "Desc": "Revive all energy for all characters, and enters the @Nightfall# state, locking onto the 2 characters who are due to act next. Uses @Watery Dissolution# in the next action.",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -7455,7 +7455,7 @@ var _monsterskill = {
     "301402007": {
         "Key": "Skill07",
         "Name": "Watery Dissolution",
-        "Desc": "Immediately deals killing blow to all locked-on targets, making them enter <color style='color:#f29e38;'>Morbid Dream</color>. If no targets are being locked on, randomly lock on to two targets.",
+        "Desc": "Immediately deals killing blow to all locked-on targets, making them enter @Morbid Dream#. If no targets are being locked on, randomly lock on to two targets.",
         "SP": 0,
         "Threat": true
     },
@@ -7468,7 +7468,7 @@ var _monsterskill = {
     "301402009": {
         "Key": "PassiveSkill02",
         "Name": "Sad True Lover Never Find My Grave",
-        "Desc": "Whenever a target enters the <color style='color:#f29e38;'>Morbid Dream</color> state, summons a corresponding <color style='color:#f29e38;'>Sombrous Sepulcher</color>. When all targets enter the Morbid Dream state or are knocked down, this battle will be considered a defeat.",
+        "Desc": "Whenever a target enters the @Morbid Dream# state, summons a corresponding @Sombrous Sepulcher#. When all targets enter the Morbid Dream state or are knocked down, this battle will be considered a defeat.",
         "SP": 0
     },
     "301402010": {
@@ -7520,7 +7520,7 @@ var _monsterskill = {
     "800304205": {
         "Key": "Skill04",
         "Name": "Liberation of the Golden Age",
-        "Desc": "For every stack of <color style='color:#f29e38;'>\"Gauge Recollection\"</color>, deal <1> Imaginary DMG to a random target, max <color style='color:#f29e38;'>9</color> stacks.<br>If there is no \"Gauge Recollection\", this ability will fail.",
+        "Desc": "For every stack of @\"Gauge Recollection\"#, deal <1> Imaginary DMG to a random target, max @9# stacks.\nIf there is no \"Gauge Recollection\", this ability will fail.",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Threat": true,
@@ -7534,7 +7534,7 @@ var _monsterskill = {
     "800304206": {
         "Key": "PassiveSkill01",
         "Name": "Fleeting Veil",
-        "Desc": "Reduces DMG received from Basic ATKs, Skills, Ultimates, and follow-up attacks by <color style='color:#f29e38;'>10%</color>.<br>After attacking a target, has <color style='color:#f29e38;'>1%</color> Base Chance to inflict <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn.<br>Imprisonment: Cannot take action, action delays by <color style='color:#f29e38;'>50%</color>.",
+        "Desc": "Reduces DMG received from Basic ATKs, Skills, Ultimates, and follow-up attacks by @10%#.\nAfter attacking a target, has @1%# Base Chance to inflict ``Imprisonment` for @1# turn.\nImprisonment: Cannot take action, action delays by @50%#.",
         "SP": 0,
         "Status": [
             30020013
@@ -7543,7 +7543,7 @@ var _monsterskill = {
     "800304204": {
         "Key": "Skill05",
         "Name": "Binding of the Golden Age",
-        "Desc": "Enters the Charge state and gains <color style='color:#f29e38;'>9</color> <color style='color:#f29e38;'>Gauge Recollection</color> stacks. Casts <color style='color:#f29e38;'>Liberation of the Golden Age</color> in the next action. Every time this unit is attacked, lose 1 stack of Gauge Recollection.",
+        "Desc": "Enters the Charge state and gains @9# @Gauge Recollection# stacks. Casts @Liberation of the Golden Age# in the next action. Every time this unit is attacked, lose 1 stack of Gauge Recollection.",
         "SP": 0,
         "Prepare": [
             800304205
@@ -7561,7 +7561,7 @@ var _monsterskill = {
     "200203002": {
         "Key": "Skill01",
         "Name": "Sawing Evil",
-        "Desc": "Deals <1> Physical DMG to a single target and has a <color style='color:#f29e38;'>0%</color> Base Chance to inflict Reverberation.",
+        "Desc": "Deals <1> Physical DMG to a single target and has a @0%# Base Chance to inflict Reverberation.",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -7581,7 +7581,7 @@ var _monsterskill = {
     "802401101": {
         "Key": "Skill01",
         "Name": "Time to Battle",
-        "Desc": "Deals <1> Wind DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>2</color> stacks of <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "Deals <1> Wind DMG to a single target, with a @100%# Base Chance to inflict @2# stacks of ``Wind Shear`.\nWind Shear DoT: <2> Wind DMG, lasts @3# turns, max @5# stacks.",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -7602,7 +7602,7 @@ var _monsterskill = {
     "802401102": {
         "Key": "Skill02",
         "Name": "War Gear",
-        "Desc": "Deals <1> Wind DMG to a single target. If the target is currently suffering from <color style='color:#f29e38;'>Wind Shear</color>, Wind Shear immediately causes DMG 1 time.",
+        "Desc": "Deals <1> Wind DMG to a single target. If the target is currently suffering from @Wind Shear#, Wind Shear immediately causes DMG 1 time.",
         "SP": 20.0,
         "Elem": "Wind",
         "Status": [
@@ -7615,7 +7615,7 @@ var _monsterskill = {
     "802401103": {
         "Key": "Skill03",
         "Name": "Cyclonic Swarm",
-        "Desc": "Deals <1> Wind DMG to a all targets, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>1</color> stack of <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "Deals <1> Wind DMG to a all targets, with a @100%# Base Chance to inflict @1# stack of ``Wind Shear`.\nWind Shear DoT: <2> Wind DMG, lasts @3# turns, max @5# stacks.",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -7629,7 +7629,7 @@ var _monsterskill = {
     "802401104": {
         "Key": "Skill04",
         "Name": "Propagation",
-        "Desc": "Spawns 2~3 <color style='color:#f29e38;'>Juvenile True Sting</color> or <color style='color:#f29e38;'>Lesser True Sting</color>.<br><br>In Phase 1, spawns 2 Juvenile True Stings.<br>In Phase 2, the first Propagation spawns an extra 1 Lesser True Sting, the next Propagations spawn an extra 1 Juvenile True Sting or Lesser True Sting randomly with 50% chance each.",
+        "Desc": "Spawns 2~3 @Juvenile True Sting# or @Lesser True Sting#.\n\nIn Phase 1, spawns 2 Juvenile True Stings.\nIn Phase 2, the first Propagation spawns an extra 1 Lesser True Sting, the next Propagations spawn an extra 1 Juvenile True Sting or Lesser True Sting randomly with 50% chance each.",
         "SP": 0,
         "Summon": [
             8022010,
@@ -7645,7 +7645,7 @@ var _monsterskill = {
     "802401105": {
         "Key": "Skill05",
         "Name": "Ready Order",
-        "Desc": "Enters the Charge state. Uses <color style='color:#f29e38;'>Swarm Onslaught</color> for the next action.",
+        "Desc": "Enters the Charge state. Uses @Swarm Onslaught# for the next action.",
         "SP": 0,
         "Prepare": [
             802401106
@@ -7654,7 +7654,7 @@ var _monsterskill = {
     "802401106": {
         "Key": "Skill06",
         "Name": "Swarm Onslaught",
-        "Desc": "Dispels all Crowd Control debuffs and Weakness Break affecting True Stings.<br>Deals <1> Wind DMG to all targets. When there are 0</color>1</color>2</color>3</color>4 other monsters on field, repeat 0</color>4</color>5</color>6</color>7 times: Deal <2> Wind DMG to a random target.<br>Every time a character takes DMG, there is a <color style='color:#f29e38;'>100%</color> Base Chance of being inflicted with <color style='color:#f29e38;'>1</color> stack of <b>Wind Shear</b>.<br>Revive <color style='color:#f29e38;'>5</color> energy for all characters",
+        "Desc": "Dispels all Crowd Control debuffs and Weakness Break affecting True Stings.\nDeals <1> Wind DMG to all targets. When there are 0#1#2#3#4 other monsters on field, repeat 0#4#5#6#7 times: Deal <2> Wind DMG to a random target.\nEvery time a character takes DMG, there is a @100%# Base Chance of being inflicted with @1# stack of ``Wind Shear`.\nRevive @5# energy for all characters",
         "SP": 10.0,
         "Elem": "Wind",
         "Threat": true,
@@ -7673,7 +7673,7 @@ var _monsterskill = {
     "802401108": {
         "Key": "PassiveSkill01",
         "Name": "Transmission Pheromone",
-        "Desc": "Each time a True Sting is spawned, all True Stings increase DMG dealt by <color style='color:#f29e38;'>8%</color>.<br>Only 1 Transmission Pheromone effect can exist in battle at once.",
+        "Desc": "Each time a True Sting is spawned, all True Stings increase DMG dealt by @8%#.\nOnly 1 Transmission Pheromone effect can exist in battle at once.",
         "SP": 0,
         "Status": [
             280240102
@@ -7682,7 +7682,7 @@ var _monsterskill = {
     "802401109": {
         "Key": "PassiveSkill02",
         "Name": "Entomon Eulogy",
-        "Desc": "When receiving a killing blow, deals <color style='color:#f29e38;'>40% Self Max HP</color> Wind DMG and <color style='color:#f29e38;'>1.0</color> Wind Toughness DMG to all friendly units, and inflict <color style='color:#f29e38;'>2</color> layers of <b>Vulnerability</b>: DMG taken increased by <color style='color:#f29e38;'>10%</color> for <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>10</color> stacks.",
+        "Desc": "When receiving a killing blow, deals @40% Self Max HP# Wind DMG and @1.0# Wind Toughness DMG to all friendly units, and inflict @2# layers of ``Vulnerability`: DMG taken increased by @10%# for @3# turns, max @10# stacks.",
         "SP": 0,
         "Elem": "Wind",
         "Status": [
@@ -7692,7 +7692,7 @@ var _monsterskill = {
     "301203001": {
         "Key": "Skill01",
         "Name": "Slumber Awakening",
-        "Desc": "After Sombrous Sepulcher receives a killing blow, the <color style='color:#f29e38;'>Morbid Dream</color> state on the corresponding character will be dispelled, and restores <color style='color:#f29e38;'>50% Max HP</color> and all Energy to this character.",
+        "Desc": "After Sombrous Sepulcher receives a killing blow, the @Morbid Dream# state on the corresponding character will be dispelled, and restores @50% Max HP# and all Energy to this character.",
         "SP": 0
     },
     "301203002": {
@@ -7704,7 +7704,7 @@ var _monsterskill = {
     "301203003": {
         "Key": "SkillP01",
         "Name": "Eternal Continuation",
-        "Desc": "Sombrous Sepulcher has <color style='color:#f29e38;'>5</color> HP bars. Each time it is attacked, Weakness Broken, or receives DMG from DoT, 1 bar of HP will be depleted.",
+        "Desc": "Sombrous Sepulcher has @5# HP bars. Each time it is attacked, Weakness Broken, or receives DMG from DoT, 1 bar of HP will be depleted.",
         "SP": 0
     },
     "301203004": {
@@ -7717,7 +7717,7 @@ var _monsterskill = {
     "302102001": {
         "Key": "Skill01",
         "Name": "Honors of the Red Queen",
-        "Desc": "Applies 1 stack of DMG Boost to enemy Argenti, increasing DMG dealt by <color style='color:#f29e38;'>12%</color>. <br>When in the Soulfreed state, applies 2 stacks instead.",
+        "Desc": "Applies 1 stack of DMG Boost to enemy Argenti, increasing DMG dealt by @12%#. \nWhen in the Soulfreed state, applies 2 stacks instead.",
         "SP": 0,
         "Status": [
             230240102
@@ -7726,13 +7726,13 @@ var _monsterskill = {
     "302102002": {
         "Key": "SkillP01",
         "Name": "Stone of Plummeting Foundation",
-        "Desc": "When receiving a killing blow, applies 1 stack of DMG Boost to the attacker, increasing DMG dealt by <color style='color:#f29e38;'>20%</color>. <br>When in the Soulfreed state, applies 2 stacks instead.",
+        "Desc": "When receiving a killing blow, applies 1 stack of DMG Boost to the attacker, increasing DMG dealt by @20%#. \nWhen in the Soulfreed state, applies 2 stacks instead.",
         "SP": 0
     },
     "302103001": {
         "Key": "Skill01",
         "Name": "So Cometh Beauty's Knight",
-        "Desc": "Deals <1> Physical DMG to all targets. <br>When in the Soulfreed state, deals <2> Physical DMG instead.",
+        "Desc": "Deals <1> Physical DMG to all targets. \nWhen in the Soulfreed state, deals <2> Physical DMG instead.",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -7743,7 +7743,7 @@ var _monsterskill = {
     "302103002": {
         "Key": "SkillP01",
         "Name": "Amor of Destined Death",
-        "Desc": "When receiving a killing blow, deals <color style='color:#f29e38;'>60% Self HP</color> Physical DMG and <color style='color:#f29e38;'>1.0</color> Physical Toughenss DMG to all friendly units. <br>When in the Soulfreed state, deals <color style='color:#f29e38;'>80% Self HP</color> Physical DMG and <color style='color:#f29e38;'>2.0</color> Physical Toughenss DMG instead.",
+        "Desc": "When receiving a killing blow, deals @60% Self HP# Physical DMG and @1.0# Physical Toughenss DMG to all friendly units. \nWhen in the Soulfreed state, deals @80% Self HP# Physical DMG and @2.0# Physical Toughenss DMG instead.",
         "SP": 0,
         "Elem": "Phys"
     },
@@ -7768,13 +7768,13 @@ var _monsterskill = {
     "300201001": {
         "Key": "Skill01",
         "Name": "Surprise Variety Show",
-        "Desc": "Regenerates <color style='color:#f29e38;'>50%</color> Energy for a single target. This ability can only be used while under the Surprise Channel state.",
+        "Desc": "Regenerates @50%# Energy for a single target. This ability can only be used while under the Surprise Channel state.",
         "SP": 0
     },
     "300201002": {
         "Key": "Skill02",
         "Name": "Startling Broadcast",
-        "Desc": "Deals <1> Quantum DMG to all targets and causes all targets to lose <color style='color:#f29e38;'>20%</color> Energy. This ability can only be used while under the Fright Channel state.",
+        "Desc": "Deals <1> Quantum DMG to all targets and causes all targets to lose @20%# Energy. This ability can only be used while under the Fright Channel state.",
         "SP": 0,
         "Elem": "Quantum",
         "DMG": [
@@ -7874,7 +7874,7 @@ var _monsterskill = {
     "202401201": {
         "Key": "Skill01",
         "Name": "Pedicel: Wintry Wind",
-        "Desc": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Wintry Wind\"</color>",
+        "Desc": "Summons Ambrosial Arbor branch @\"Twig of Wintry Wind\"#",
         "SP": 0,
         "Summon": [
             2022071
@@ -7883,7 +7883,7 @@ var _monsterskill = {
     "202401202": {
         "Key": "Skill02",
         "Name": "Pedicel: Marple Leaf",
-        "Desc": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Marple Leaf\"</color>",
+        "Desc": "Summons Ambrosial Arbor branch @\"Twig of Marple Leaf\"#",
         "SP": 0,
         "Summon": [
             2022081
@@ -7892,7 +7892,7 @@ var _monsterskill = {
     "202401203": {
         "Key": "Skill03",
         "Name": "Pedicel: Glorious Blooms",
-        "Desc": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Glorious Blooms\"</color>",
+        "Desc": "Summons Ambrosial Arbor branch @\"Twig of Glorious Blooms\"#",
         "SP": 0,
         "Summon": [
             2022091
@@ -7901,7 +7901,7 @@ var _monsterskill = {
     "202401204": {
         "Key": "Skill04",
         "Name": "Pedicel: Lavish Fruits",
-        "Desc": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Lavish Fruits\"</color>",
+        "Desc": "Summons Ambrosial Arbor branch @\"Twig of Lavish Fruits\"#",
         "SP": 0,
         "Summon": [
             2022101
@@ -7930,7 +7930,7 @@ var _monsterskill = {
     "202401207": {
         "Key": "Skill07",
         "Name": "Hardy Leaf Sheath",
-        "Desc": "Enters <color style='color:#f29e38;'>Hardy Leaf Sheath</color> state: DEF increased by <color style='color:#f29e38;'>200%</color>, toughness cannot be reduced, lasts <color style='color:#f29e38;'>1</color> turn.",
+        "Desc": "Enters @Hardy Leaf Sheath# state: DEF increased by @200%#, toughness cannot be reduced, lasts @1# turn.",
         "SP": 0,
         "Status": [
             220240101
@@ -7939,7 +7939,7 @@ var _monsterskill = {
     "202401208": {
         "Key": "Skill08",
         "Name": "Flamboyant Gore",
-        "Desc": "Uses this ability immediately when there are 2 Lavish Fruits on the field: Deals <1> Lightning DMG to all targets.<br>For every \"Ambrosial Arbor Branches\" on the field, an extra <2> Lightning DMG is dealt.<br>After the ability is used, remove all <color style='color:#f29e38;'>Twigs of Lavish Fruits</color> on the field.",
+        "Desc": "Uses this ability immediately when there are 2 Lavish Fruits on the field: Deals <1> Lightning DMG to all targets.\nFor every \"Ambrosial Arbor Branches\" on the field, an extra <2> Lightning DMG is dealt.\nAfter the ability is used, remove all @Twigs of Lavish Fruits# on the field.",
         "SP": 20.0,
         "Elem": "Elec",
         "Threat": true,
@@ -7954,7 +7954,7 @@ var _monsterskill = {
     "202401209": {
         "Key": "Skill09",
         "Name": "Everlife",
-        "Desc": "Immediately restores <color style='color:#f29e38;'>10% Max HP</color> and gains <color style='color:#f29e38;'>1</color> stack of <color style='color:#f29e38;'>Synwood Renewal</color>.<br>Synwood Renewal: Restores <color style='color:#f29e38;'>4% Max HP</color> every turn. Max <color style='color:#f29e38;'>5</color> stacks.",
+        "Desc": "Immediately restores @10% Max HP# and gains @1# stack of @Synwood Renewal#.\nSynwood Renewal: Restores @4% Max HP# every turn. Max @5# stacks.",
         "SP": 0,
         "Status": [
             220240111
@@ -7963,7 +7963,7 @@ var _monsterskill = {
     "202401210": {
         "Key": "Skill10",
         "Name": "Pedicel: Ivy Allure",
-        "Desc": "Summons 2 Ambrosial Arbor Branch <color style='color:#f29e38;'>\"Twig of Wintry Wind.\"</color>",
+        "Desc": "Summons 2 Ambrosial Arbor Branch @\"Twig of Wintry Wind.\"#",
         "SP": 0,
         "Summon": [
             2022071
@@ -7972,7 +7972,7 @@ var _monsterskill = {
     "202401211": {
         "Key": "Skill11",
         "Name": "Pedicel: Willow Sprig",
-        "Desc": "Summons 2 Ambrosial Arbor Branch <color style='color:#f29e38;'>\"Twig of Marple Leaf.\"</color>",
+        "Desc": "Summons 2 Ambrosial Arbor Branch @\"Twig of Marple Leaf.\"#",
         "SP": 0,
         "Summon": [
             2022081
@@ -7981,7 +7981,7 @@ var _monsterskill = {
     "202401212": {
         "Key": "Skill12",
         "Name": "Pedicel: Hazel Lush",
-        "Desc": "Summons 2 <color style='color:#f29e38;'>\"Twig of Marple Leaf\"</color>, 1 <color style='color:#f29e38;'>\"Twig of Wintry Wind\"</color>, and 1 <color style='color:#f29e38;'>\"Twig of Glorious Blooms\"</color>.",
+        "Desc": "Summons 2 @\"Twig of Marple Leaf\"#, 1 @\"Twig of Wintry Wind\"#, and 1 @\"Twig of Glorious Blooms\"#.",
         "SP": 0,
         "Summon": [
             2022071,
@@ -7992,7 +7992,7 @@ var _monsterskill = {
     "202401213": {
         "Key": "Skill13",
         "Name": "Pedicel: Entwined Vines",
-        "Desc": "Summons 2 <color style='color:#f29e38;'>\"Twig of Lavish Fruits\"</color>, 1 <color style='color:#f29e38;'>\"Twig of Marple Leaf\"</color>, and 1 <color style='color:#f29e38;'>\"Twig of Wintry Wind\"</color>.",
+        "Desc": "Summons 2 @\"Twig of Lavish Fruits\"#, 1 @\"Twig of Marple Leaf\"#, and 1 @\"Twig of Wintry Wind\"#.",
         "SP": 0,
         "Summon": [
             2022071,
@@ -8003,7 +8003,7 @@ var _monsterskill = {
     "202401214": {
         "Key": "Skill14",
         "Name": "Vigor Overflow",
-        "Desc": "For every buff the Abundant Ebon Deer gains, the DMG dealt by the Abundant Ebon Deer and all Ambrosial Arbor Branches increases by <color style='color:#f29e38;'>15%</color>. This effect is stackable.<br>Phase 3 Max HP becomes <color style='color:#f29e38;'>1.66</color> times the original.",
+        "Desc": "For every buff the Abundant Ebon Deer gains, the DMG dealt by the Abundant Ebon Deer and all Ambrosial Arbor Branches increases by @15%#. This effect is stackable.\nPhase 3 Max HP becomes @1.66# times the original.",
         "SP": 0,
         "Status": [
             220240112
@@ -8035,7 +8035,7 @@ var _monsterskill = {
     "201302102": {
         "Key": "Skill02",
         "Name": "Subdue",
-        "Desc": "Deals <1> Physical DMG to a single target and has a <color style='color:#f29e38;'>70%</color> Base Chance to inflict <color style='color:#f29e38;'>Reverberation</color>, lasting <color style='color:#f29e38;'>2</color> turns. <br>After targets suffering from Reverberation receive an attack, enters <color style='color:#f29e38;'>Strong Reverberation</color>, then dispel Reverberation. <br>Strong Reverberation delays action by <color style='color:#f29e38;'>70%</color>, and renders the character unable to act, lasting <color style='color:#f29e38;'>1</color> turn.",
+        "Desc": "Deals <1> Physical DMG to a single target and has a @70%# Base Chance to inflict @Reverberation#, lasting @2# turns. \nAfter targets suffering from Reverberation receive an attack, enters @Strong Reverberation#, then dispel Reverberation. \nStrong Reverberation delays action by @70%#, and renders the character unable to act, lasting @1# turn.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -8049,7 +8049,7 @@ var _monsterskill = {
     "201302103": {
         "Key": "Skill03",
         "Name": "Revert Yin and Yang",
-        "Desc": "Deals <1> Physical DMG to all targets.<br>If there are at least 3 characters not Reverberated, then pick 2 such characters and inflict <color style='color:#f29e38;'>Reverberation</color> with a <color style='color:#f29e38;'>35%</color> Base Chance, lasting <color style='color:#f29e38;'>2</color> turns.<br>If there are at most 2 characters not Reverberated, then pick 1 such character and inflict <color style='color:#f29e38;'>Reverberation</color> with a <color style='color:#f29e38;'>35%</color> Base Chance, lasting <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Deals <1> Physical DMG to all targets.\nIf there are at least 3 characters not Reverberated, then pick 2 such characters and inflict @Reverberation# with a @35%# Base Chance, lasting @2# turns.\nIf there are at most 2 characters not Reverberated, then pick 1 such character and inflict @Reverberation# with a @35%# Base Chance, lasting @2# turns.",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -8063,7 +8063,7 @@ var _monsterskill = {
     "201302105": {
         "Key": "SkillP01",
         "Name": "Soul Warrant",
-        "Desc": "When there are targets afflicted with <color style='color:#f29e38;'>Strong Reverberation</color> on the field, lock on to those targets and during the next action, use <color style='color:#f29e38;'>Heaven's Fall on them</color>",
+        "Desc": "When there are targets afflicted with @Strong Reverberation# on the field, lock on to those targets and during the next action, use @Heaven's Fall on them#",
         "SP": 0,
         "Elem": "Phys",
         "Status": [
@@ -8076,7 +8076,7 @@ var _monsterskill = {
     "201302106": {
         "Key": "Skill05",
         "Name": "Summons Prison Guard",
-        "Desc": "Summons <color style='color:#f29e38;'>Wraith Warden</color>",
+        "Desc": "Summons @Wraith Warden#",
         "SP": 10.0,
         "Elem": "Phys",
         "Summon": [
@@ -8096,7 +8096,7 @@ var _monsterskill = {
     "803301103": {
         "Key": "Skill02",
         "Name": "In Training...",
-        "Desc": "Enters the Charge state. Uses <color style='color:#f29e38;'>Work Culture Shock</color> in the next action.",
+        "Desc": "Enters the Charge state. Uses @Work Culture Shock# in the next action.",
         "SP": 0,
         "Prepare": [
             803301104
@@ -8116,7 +8116,7 @@ var _monsterskill = {
     "803301105": {
         "Key": "Skill04",
         "Name": "720-Degree Review",
-        "Desc": "Seizes all <color style='color:#f29e38;'>Performance Points</color> from Grunt — Field Personnel and Grunt — Security Personnel.",
+        "Desc": "Seizes all @Performance Points# from Grunt — Field Personnel and Grunt — Security Personnel.",
         "SP": 0,
         "Status": [
             280330101
@@ -8125,7 +8125,7 @@ var _monsterskill = {
     "803301106": {
         "Key": "Skill05",
         "Name": "Worst Performer Is Fired",
-        "Desc": "Eliminates an IPC Employee that has no Performance Points.<br>Summons IPC Employee, and gives a <color style='color:#f29e38;'>Performance Point</color> to all of them.",
+        "Desc": "Eliminates an IPC Employee that has no Performance Points.\nSummons IPC Employee, and gives a @Performance Point# to all of them.",
         "SP": 0,
         "Summon": []
     },
@@ -8142,14 +8142,14 @@ var _monsterskill = {
     "803301107": {
         "Key": "Skill07",
         "Name": "Worst Performer Is Fired",
-        "Desc": "Eliminates an IPC Employee that has no Performance Points.<br>Summons IPC Employee, and gives a <color style='color:#f29e38;'>Performance Point</color> to all of them.",
+        "Desc": "Eliminates an IPC Employee that has no Performance Points.\nSummons IPC Employee, and gives a @Performance Point# to all of them.",
         "SP": 0,
         "Summon": []
     },
     "201301202": {
         "Key": "Skill01",
         "Name": "Dread",
-        "Desc": "Increases Sanction Rate level by <color style='color:#f29e38;'>33%</color> and deals <1> Imaginary DMG to all targets.<br>Has a <color style='color:#f29e38;'>60%</color> Base Chance to <b>Weaken</b> them.<br>Weaken: DMG dealt decreases by <color style='color:#f29e38;'>20%</color>, lasts <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Increases Sanction Rate level by @33%# and deals <1> Imaginary DMG to all targets.\nHas a @60%# Base Chance to ``Weaken` them.\nWeaken: DMG dealt decreases by @20%#, lasts @2# turns.",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Status": [
@@ -8172,7 +8172,7 @@ var _monsterskill = {
     "201301204": {
         "Key": "Skill03",
         "Name": "Enchainment",
-        "Desc": "Deals <1> Imaginary DMG to a single target, with a <color style='color:#f29e38;'>10%</color> Base Chance of inflicting <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn.<br>Imprisonment: Cannot take action, action delayed by <color style='color:#f29e38;'>50%</color>.",
+        "Desc": "Deals <1> Imaginary DMG to a single target, with a @10%# Base Chance of inflicting ``Imprisonment` for @1# turn.\nImprisonment: Cannot take action, action delayed by @50%#.",
         "SP": 15.0,
         "Elem": "Imaginary",
         "Threat": true,
@@ -8183,7 +8183,7 @@ var _monsterskill = {
     "201301201": {
         "Key": "SkillP01",
         "Name": "Farewell Etiquette",
-        "Desc": "The Sanction Rate level increases by <color style='color:#f29e38;'>33%</color> when your team uses Skills or Ultimates. <br>When the Sanction Rate is full, enters Sanction mode, SPD increased by <color style='color:#f29e38;'>30</color>, starts using <color style='color:#f29e38;'>Restraint</color> and <color style='color:#f29e38;'>Enchainment</color>, and summons <color style='color:#f29e38;'>2</color> Entranced Ingenium: Illumination Dragonfish.",
+        "Desc": "The Sanction Rate level increases by @33%# when your team uses Skills or Ultimates. \nWhen the Sanction Rate is full, enters Sanction mode, SPD increased by @30#, starts using @Restraint# and @Enchainment#, and summons @2# Entranced Ingenium: Illumination Dragonfish.",
         "SP": 0,
         "Prepare": [
             201301203,
@@ -8199,13 +8199,13 @@ var _monsterskill = {
     "202402001": {
         "Key": "SkillP01",
         "Name": "Soulsplit",
-        "Desc": "Cannot be selected or attacked directly. Loses <color style='color:#f29e38;'>5%</color> HP for each other enemy eliminated.",
+        "Desc": "Cannot be selected or attacked directly. Loses @5%# HP for each other enemy eliminated.",
         "SP": 0
     },
     "202402002": {
         "Key": "Skill01",
         "Name": "Rapid Gambit",
-        "Desc": "Advances all targets' action by <color style='color:#f29e38;'>100%</color>.",
+        "Desc": "Advances all targets' action by @100%#.",
         "SP": 0
     },
     "202402003": {
@@ -8223,7 +8223,7 @@ var _monsterskill = {
     "300302004": {
         "Key": "Skill04",
         "Name": "Celebration Fountain",
-        "Desc": "Enters the Charge stage and gains <color style='color:#f29e38;'>Toughness Protection</color>. Uses <color style='color:#f29e38;'>Bottomless Free Drink</color> during the next action.",
+        "Desc": "Enters the Charge stage and gains @Toughness Protection#. Uses @Bottomless Free Drink# during the next action.",
         "SP": 0
     },
     "300302005": {
@@ -8245,7 +8245,7 @@ var _monsterskill = {
     "803401002": {
         "Key": "Skill02",
         "Name": "Distributed Investment",
-        "Desc": "Deals <color style='color:#f29e38;'>5</color> (Phase 1) or <color style='color:#f29e38;'>8</color> (Phase 2) instances of <1> Imaginary DMG to random targets.",
+        "Desc": "Deals @5# (Phase 1) or @8# (Phase 2) instances of <1> Imaginary DMG to random targets.",
         "SP": 5.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -8255,7 +8255,7 @@ var _monsterskill = {
     "803401003": {
         "Key": "Skill03",
         "Name": "Points Fountain",
-        "Desc": "Deals <1> Imaginary DMG to all targets and cause all targets to lose <color style='color:#f29e38;'>10</color> Energy.",
+        "Desc": "Deals <1> Imaginary DMG to all targets and cause all targets to lose @10# Energy.",
         "SP": 0,
         "Elem": "Imaginary",
         "DMG": [
@@ -8265,21 +8265,21 @@ var _monsterskill = {
     "803401004": {
         "Key": "Skill04",
         "Name": "Time For A Bet",
-        "Desc": "Summons <color style='color:#f29e38;'>2</color> <b>All or Nothing</b> and makes a single target enter the gamble, and chooses a random number for himself between 2 and 6.<br>During the gamble, Aventurine of Stratagems is unselectable. All or Nothing is always immune to all DMG.<br><br>When the gambling ally attacks All or Nothing, they will receive a random number between 1 and 6, which stacks when hitting multiple.<br><br>After the gambling target has finished their turn, the gamble finishes:<br>· If the gambling ally's number is lower than Aventurine of Stratagems, they lose the bet and will suffer from the skill <color style='color:#f29e38;'>The Loser's Time Is Over</color>.<br>· If the number is higher than Aventurine of Stratagems, they win the bet and their Ultimate is ready.<br><br><b><color style='color:#f29e38;'>Look, Don't Speak</color></b><br>Characters who have not taken part in the gamble will be inflicted with <b>Strong Reverberation</b> until the end of the Gamble, delaying their action by <color style='color:#f29e38;'>70%</color>. This effect cannot be immunized against or resisted.",
+        "Desc": "Summons @2# ``All or Nothing` and makes a single target enter the gamble, and chooses a random number for himself between 2 and 6.<br>During the gamble, Aventurine of Stratagems is unselectable. All or Nothing is always immune to all DMG.<br><br>When the gambling ally attacks All or Nothing, they will receive a random number between 1 and 6, which stacks when hitting multiple.<br><br>After the gambling target has finished their turn, the gamble finishes:<br>· If the gambling ally's number is lower than Aventurine of Stratagems, they lose the bet and will suffer from the skill @The Loser's Time Is Over#.<br>· If the number is higher than Aventurine of Stratagems, they win the bet and their Ultimate is ready.<br><br>``@Look, Don't Speak#`<br>Characters who have not taken part in the gamble will be inflicted with ``Strong Reverberation` until the end of the Gamble, delaying their action by @70%#. This effect cannot be immunized against or resisted.",
         "SP": 0,
         "Threat": true
     },
     "803401005": {
         "Key": "Skill05",
         "Name": "Big Spenders' Mad Party",
-        "Desc": "Summons <color style='color:#f29e38;'>4</color> <b>All or Nothing</b> and makes all targets enter the gamble, and chooses a random number for himself between 5 and 9.<br>During the gamble, Aventurine of Stratagems is unselectable. All or Nothing is always immune to all DMG.<br><br>When a gambling ally attacks All or Nothing, they will receive a random number between 1 and 6, which stacks when hitting multiple.<br><br>The next time Aventurine of Stratagems takes a turn, the gamble finishes:<br>· Targets with numbers lower than Aventurine of Stratagems will lose the bet and suffer from the skill <color style='color:#f29e38;'>The Winner Takes It All</color>.<br>· Targets with numbers higher than Aventurine of Stratagems win the bet and will have their Ultimate ready.",
+        "Desc": "Summons @4# ``All or Nothing` and makes all targets enter the gamble, and chooses a random number for himself between 5 and 9.<br>During the gamble, Aventurine of Stratagems is unselectable. All or Nothing is always immune to all DMG.<br><br>When a gambling ally attacks All or Nothing, they will receive a random number between 1 and 6, which stacks when hitting multiple.<br><br>The next time Aventurine of Stratagems takes a turn, the gamble finishes:<br>· Targets with numbers lower than Aventurine of Stratagems will lose the bet and suffer from the skill @The Winner Takes It All#.<br>· Targets with numbers higher than Aventurine of Stratagems win the bet and will have their Ultimate ready.",
         "SP": 0,
         "Threat": true
     },
     "803401006": {
         "Key": "Skill06",
         "Name": "The Loser's Time Is Over",
-        "Desc": "Deals <1> Imaginary DMG to a target that lost the gamble, with a <color style='color:#f29e38;'>100%</color> Base Chance of inflicting Imprisonment on the attacked target.<br><br>Imprisonment: Cannot take action, action delayed by <color style='color:#f29e38;'>30%</color>.",
+        "Desc": "Deals <1> Imaginary DMG to a target that lost the gamble, with a @100%# Base Chance of inflicting Imprisonment on the attacked target.<br><br>Imprisonment: Cannot take action, action delayed by @30%#.",
         "SP": 20.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -8289,7 +8289,7 @@ var _monsterskill = {
     "803401007": {
         "Key": "Skill07",
         "Name": "The Winner Takes It All",
-        "Desc": "Deals <1> Imaginary DMG to all targets that lost the gamble, with a <color style='color:#f29e38;'>100%</color> Base Chance of inflicting Imprisonment on the attacked targets.<br><br>Imprisonment: Cannot take action, action delayed by <color style='color:#f29e38;'>30%</color>.",
+        "Desc": "Deals <1> Imaginary DMG to all targets that lost the gamble, with a @100%# Base Chance of inflicting Imprisonment on the attacked targets.<br><br>Imprisonment: Cannot take action, action delayed by @30%#.",
         "SP": 20.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -8299,7 +8299,7 @@ var _monsterskill = {
     "803401008": {
         "Key": "Skill08",
         "Name": "Stratagems' Wagering",
-        "Desc": "Every time a target wins the gamble, they receive the <b>Favored by Fortune</b> effect: increases DMG dealt by <color style='color:#f29e38;'>50%</color>.<br>Every time a target loses the gamble, they receive the <b>Down on Your Luck</b> effect: increases DMG taken by <color style='color:#f29e38;'>20%</color>.",
+        "Desc": "Every time a target wins the gamble, they receive the ``Favored by Fortune` effect: increases DMG dealt by @50%#.<br>Every time a target loses the gamble, they receive the ``Down on Your Luck` effect: increases DMG taken by @20%#.",
         "SP": 0
     },
     "803203001": {
@@ -8311,7 +8311,7 @@ var _monsterskill = {
     "200203201": {
         "Key": "Skill01",
         "Name": "Sawing Evil",
-        "Desc": "Deals <1> Physical DMG to a single target and has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>Reverberation</color>, lasting <color style='color:#f29e38;'>2</color> turns. <br>After targets suffering from Reverberation receive an attack, enters <color style='color:#f29e38;'>Strong Reverberation</color>, then dispel Reverberation. <br>Strong Reverberation delays action by <color style='color:#f29e38;'>70%</color>, and renders the character unable to act, lasting <color style='color:#f29e38;'>1</color> turn.",
+        "Desc": "Deals <1> Physical DMG to a single target and has a @100%# Base Chance to inflict @Reverberation#, lasting @2# turns. \nAfter targets suffering from Reverberation receive an attack, enters @Strong Reverberation#, then dispel Reverberation. \nStrong Reverberation delays action by @70%#, and renders the character unable to act, lasting @1# turn.",
         "SP": 15.0,
         "Elem": "Phys",
         "Status": [
@@ -8332,7 +8332,7 @@ var _monsterskill = {
     "803301108": {
         "Key": "PassiveSkillInitiate",
         "Name": "Performance Boost",
-        "Desc": "Receives 1 <color style='color:#f29e38;'>Performance Point</color> after unleashing an attack, increasing DMG dealt by <color style='color:#f29e38;'>50%</color>.<br>Performance Points can be seized by the attacker when this unit's Weakness is Broken or is defeated.",
+        "Desc": "Receives 1 @Performance Point# after unleashing an attack, increasing DMG dealt by @50%#.\nPerformance Points can be seized by the attacker when this unit's Weakness is Broken or is defeated.",
         "SP": 0,
         "Status": [
             280330101
@@ -8362,7 +8362,7 @@ var _monsterskill = {
     "300301003": {
         "Key": "Skill06",
         "Name": "Ignite Stove",
-        "Desc": "Enters a Charge state. In the next action, uses <color style='color:#f29e38;'>Flaming Stir-Fry</color> if <color style='color:#f29e38;'>Stove Overheating</color> has not reached <color style='color:#f29e38;'>6</color> stacks, then clears all Stove Heating and Stove Overheating stacks.",
+        "Desc": "Enters a Charge state. In the next action, uses @Flaming Stir-Fry# if @Stove Overheating# has not reached @6# stacks, then clears all Stove Heating and Stove Overheating stacks.",
         "SP": 0,
         "Elem": "Fire"
     },
@@ -8380,20 +8380,20 @@ var _monsterskill = {
     "300301005": {
         "Key": "Skill05",
         "Name": "Kitchen Mishap",
-        "Desc": "After entering the Charge state, once <color style='color:#f29e38;'>Stove Overheating</color> has <color style='color:#f29e38;'>6</color> stacks, deals <color style='color:#f29e38;'>30% Max HP</color> Fire DMG and <color style='color:#f29e38;'>10</color> Fire Toughness DMG to self, deals <color style='color:#f29e38;'>5% Max HP</color> Fire DMG and <color style='color:#f29e38;'>3</color> Fire Toughness DMG to other friendly units, and decreases own DEF by <color style='color:#f29e38;'>50%</color>.<br>Then, clears all Stove Heating and Stove Overheating stacks.",
+        "Desc": "After entering the Charge state, once @Stove Overheating# has @6# stacks, deals @30% Max HP# Fire DMG and @10# Fire Toughness DMG to self, deals @5% Max HP# Fire DMG and @3# Fire Toughness DMG to other friendly units, and decreases own DEF by @50%#.\nThen, clears all Stove Heating and Stove Overheating stacks.",
         "SP": 0,
         "Elem": "Fire"
     },
     "300301006": {
         "Key": "Skill03",
         "Name": "Flame-Forged Feast",
-        "Desc": "Immediately takes action when <color style='color:#f29e38;'>Stove Heating</color> reaches <color style='color:#f29e38;'>6</color> stacks, and uses <color style='color:#f29e38;'>Ignite Stove</color>.",
+        "Desc": "Immediately takes action when @Stove Heating# reaches @6# stacks, and uses @Ignite Stove#.",
         "SP": 0
     },
     "300301007": {
         "Key": "PassiveSkillInitiate",
         "Name": "Inferno Stove",
-        "Desc": "When in the <b>Simmer</b> state, receiving attacks or DoT will increase <color style='color:#f29e38;'>Stove Heating</color> by 1 stack. When Stove Heating reaches <color style='color:#f29e38;'>6</color> stacks, enters the <b>Boil</b> state.<br>In <b>Boil</b> state, receiving attacks or DoT will instead increase <color style='color:#f29e38;'>Stove Overheating</color> by 1 stack, and has a <color style='color:#f29e38;'>50%</color> Base Chance to reduce the target's SPD by <color style='color:#f29e38;'>20%</color> when attacking, lasting <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "When in the ``Simmer` state, receiving attacks or DoT will increase @Stove Heating# by 1 stack. When Stove Heating reaches @6# stacks, enters the ``Boil` state.\nIn ``Boil` state, receiving attacks or DoT will instead increase @Stove Overheating# by 1 stack, and has a @50%# Base Chance to reduce the target's SPD by @20%# when attacking, lasting @2# turns.",
         "SP": 0,
         "Status": [
             230030104,
@@ -8403,7 +8403,7 @@ var _monsterskill = {
     "300204001": {
         "Key": "Skill01",
         "Name": "Set The Time",
-        "Desc": "Enters the Charge state. Uses <color style='color:#f29e38;'>Wake-Up Alarm</color> for the next action.",
+        "Desc": "Enters the Charge state. Uses @Wake-Up Alarm# for the next action.",
         "SP": 0
     },
     "300204002": {
@@ -8435,7 +8435,7 @@ var _monsterskill = {
     "301202002": {
         "Key": "SkillP01",
         "Name": "Aegis of the Unyielding",
-        "Desc": "Enters <color style='color:#f29e38;'>Safeguard</color> state, and reduces DMG received by <color style='color:#f29e38;'>60%</color> when not Weakness Broken. Once it is Weakness Broken, action will be delayed by an extra <color style='color:#f29e38;'>75%</color> and increases DMG received by <color style='color:#f29e38;'>50%</color>.",
+        "Desc": "Enters @Safeguard# state, and reduces DMG received by @60%# when not Weakness Broken. Once it is Weakness Broken, action will be delayed by an extra @75%# and increases DMG received by @50%#.",
         "SP": 0,
         "Status": [
             230120201
@@ -8475,14 +8475,14 @@ var _monsterskill = {
     "302402004": {
         "Key": "Skill04",
         "Name": "DHGDR: Secondary Combustion",
-        "Desc": "Initially has Weakness Protected. Consumes <color style='color:#f29e38;'>3% Max HP</color> to enter the <color style='color:#f29e38;'>Secondary Combustion</color> state, removes <color style='color:#f29e38;'>Weakness Protected</color> and increases SPD by <color style='color:#f29e38;'>50%</color>. All his subsequent attacks consume <color style='color:#f29e38;'>1% Max HP</color>.",
+        "Desc": "Initially has Weakness Protected. Consumes @3% Max HP# to enter the @Secondary Combustion# state, removes @Weakness Protected# and increases SPD by @50%#. All his subsequent attacks consume @1% Max HP#.",
         "SP": 0,
         "Threat": true
     },
     "302402005": {
         "Key": "Skill05",
         "Name": "DHGDR: Supernova Overload",
-        "Desc": "Deals <1> Fire DMG to all targets and has <color style='color:#f29e38;'>120%</color> Base Chance of inflicting <b>Burn</b>.<br>Burn DoT: <2> Fire DMG, lasing <color style='color:#f29e38;'>3</color> turns.",
+        "Desc": "Deals <1> Fire DMG to all targets and has @120%# Base Chance of inflicting ``Burn`.\nBurn DoT: <2> Fire DMG, lasing @3# turns.",
         "SP": 20.0,
         "Elem": "Fire",
         "Threat": true,
@@ -8494,7 +8494,7 @@ var _monsterskill = {
     "302402006": {
         "Key": "PassiveSkill01",
         "Name": "SGE: Molten Core",
-        "Desc": "After entering Secondary Combustion, Combusts the area and targets' Skill Points.<br>When consuming any number of Combusted Skill Points <color style='color:#f29e38;'>(excluding Alternative Skill Points)</color>, targets take a fixed <1> Fire DMG, but will additionally deal Fire DMG equal to <color style='color:#f29e38;'>30%</color> of the original DMG.<br>When receiving healing from other characters <color style='color:#f29e38;'>(excluding self and Lightcones)</color>, Healing Bonus is reduced by <color style='color:#f29e38;'>90%</color>.",
+        "Desc": "After entering Secondary Combustion, Combusts the area and targets' Skill Points.<br>When consuming any number of Combusted Skill Points @(excluding Alternative Skill Points)#, targets take a fixed <1> Fire DMG, but will additionally deal Fire DMG equal to @30%# of the original DMG.<br>When receiving healing from other characters @(excluding self and Lightcones)#, Healing Bonus is reduced by @90%#.",
         "SP": 0,
         "Elem": "Fire",
         "DMG": [
@@ -8654,7 +8654,7 @@ var _monsterskill = {
     "300205002": {
         "Key": "Skill02",
         "Name": "The Can's Tribulations",
-        "Desc": "Increases own ATK by <color style='color:#f29e38;'>2<sup>n</sup>×100%</color>. This effect is stackable and unremoveable.",
+        "Desc": "Increases own ATK by @2<sup>n</sup>×100%#. This effect is stackable and unremoveable.",
         "SP": 0
     },
     "300205003": {
@@ -9581,7 +9581,7 @@ var _monsterskill = {
     "301101001": {
         "Key": "Skill01",
         "Name": "Glare of the Other",
-        "Desc": "Deals <1> Quantum DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to delay their action by <color style='color:#f29e38;'>20%</color>.",
+        "Desc": "Deals <1> Quantum DMG to a single target, with a @100%# Base Chance to delay their action by @20%#.",
         "SP": 10.0,
         "Elem": "Quantum",
         "DMG": [
@@ -9708,7 +9708,7 @@ var _monsterskill = {
     "301203101": {
         "Key": "Skill01",
         "Name": "Slumber Awakening",
-        "Desc": "After Sombrous Sepulcher receives a killing blow, the <color style='color:#f29e38;'>Morbid Dream</color> state on the corresponding character will be dispelled, and restores <color style='color:#f29e38;'>50% Max HP</color> and all Energy to this character.",
+        "Desc": "After Sombrous Sepulcher receives a killing blow, the @Morbid Dream# state on the corresponding character will be dispelled, and restores @50% Max HP# and all Energy to this character.",
         "SP": 0
     },
     "301203102": {
@@ -9720,7 +9720,7 @@ var _monsterskill = {
     "301203103": {
         "Key": "SkillP01",
         "Name": "Eternal Continuation",
-        "Desc": "Sombrous Sepulcher has <color style='color:#f29e38;'>5</color> HP bars. Each time it is attacked, Weakness Broken, or receives DMG from DoT, 1 bar of HP will be depleted.",
+        "Desc": "Sombrous Sepulcher has @5# HP bars. Each time it is attacked, Weakness Broken, or receives DMG from DoT, 1 bar of HP will be depleted.",
         "SP": 0
     },
     "301203104": {
@@ -9754,7 +9754,7 @@ var _monsterskill = {
     "300301103": {
         "Key": "Skill06",
         "Name": "Ignite Stove",
-        "Desc": "Enters a Charge state. In the next action, uses <color style='color:#f29e38;'>Flaming Stir-Fry</color>, then clears all Stove Heating and Stove Overheating stacks.",
+        "Desc": "Enters a Charge state. In the next action, uses @Flaming Stir-Fry#, then clears all Stove Heating and Stove Overheating stacks.",
         "SP": 0,
         "Elem": "Fire"
     },
@@ -9772,20 +9772,20 @@ var _monsterskill = {
     "300301105": {
         "Key": "Skill05",
         "Name": "Kitchen Mishap",
-        "Desc": "After entering the Charge state, once Stove Overheating has <color style='color:#f29e38;'>9</color> stacks, deals <color style='color:#f29e38;'>33% Max HP</color> Fire DMG and <color style='color:#f29e38;'>10</color> Fire Toughness DMG to self, deals <color style='color:#f29e38;'>2.5% Max HP</color> Fire DMG and <color style='color:#f29e38;'>3</color> Fire Toughness DMG to other friendly units, and decreases own DEF by <color style='color:#f29e38;'>10%</color>, and revive <color style='color:#f29e38;'>50%</color> Energy for all characters.<br>Then, clears all Stove Heating and Stove Overheating stacks.",
+        "Desc": "After entering the Charge state, once Stove Overheating has @9# stacks, deals @33% Max HP# Fire DMG and @10# Fire Toughness DMG to self, deals @2.5% Max HP# Fire DMG and @3# Fire Toughness DMG to other friendly units, and decreases own DEF by @10%#, and revive @50%# Energy for all characters.<br>Then, clears all Stove Heating and Stove Overheating stacks.",
         "SP": 0,
         "Elem": "Fire"
     },
     "300301106": {
         "Key": "Skill03",
         "Name": "Flame-Forged Feast",
-        "Desc": "Immediately takes action when <color style='color:#f29e38;'>Stove Heating</color> reaches <color style='color:#f29e38;'>3</color> stacks, and uses <color style='color:#f29e38;'>Ignite Stove</color>.",
+        "Desc": "Immediately takes action when @Stove Heating# reaches @3# stacks, and uses @Ignite Stove#.",
         "SP": 0
     },
     "300301107": {
         "Key": "PassiveSkillInitiate",
         "Name": "Inferno Stove",
-        "Desc": "When in the <b>Simmer</b> state, receiving attacks or DoT will increase <color style='color:#f29e38;'>Stove Heating</color> by 1 stack. When Stove Heating reaches <color style='color:#f29e38;'>3</color> stacks, enters the <b>Boil</b> state. In <b>Boil</b> state, receiving attacks or DoT will increase <color style='color:#f29e38;'>Stove Overheating</color> by 1 stack, and has a <color style='color:#f29e38;'>50%</color> Base Chance to reduce the target's SPD by <color style='color:#f29e38;'>20%</color> when attacking, lasting <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "When in the ``Simmer` state, receiving attacks or DoT will increase @Stove Heating# by 1 stack. When Stove Heating reaches @3# stacks, enters the ``Boil` state. In ``Boil` state, receiving attacks or DoT will increase @Stove Overheating# by 1 stack, and has a @50%# Base Chance to reduce the target's SPD by @20%# when attacking, lasting @2# turns.",
         "SP": 0,
         "Status": [
             230030104,
@@ -9801,7 +9801,7 @@ var _monsterskill = {
     "300302104": {
         "Key": "Skill04",
         "Name": "Celebration Fountain",
-        "Desc": "Enters the Charge stage and gains <color style='color:#f29e38;'>Toughness Protection</color>. Uses <color style='color:#f29e38;'>Bottomless Free Drink</color> during the next action.<br>Will <color style='color:#f29e38;'>Mark</color> a random target. When a character uses their Skill, Mark will be moved to the new Skill user. When attacked, advances own action by <color style='color:#f29e38;'>10%</color>.",
+        "Desc": "Enters the Charge stage and gains @Toughness Protection#. Uses @Bottomless Free Drink# during the next action.<br>Will @Mark# a random target. When a character uses their Skill, Mark will be moved to the new Skill user. When attacked, advances own action by @10%#.",
         "SP": 0
     },
     "302402101": {
@@ -9838,14 +9838,14 @@ var _monsterskill = {
     "302402104": {
         "Key": "Skill04",
         "Name": "DHGDR: Secondary Combustion",
-        "Desc": "Initially has Weakness Protected. Consumes <color style='color:#f29e38;'>3% Max HP</color> to enter the <color style='color:#f29e38;'>Secondary Combustion</color> state, removes <color style='color:#f29e38;'>Weakness Protected</color> and increases SPD by <color style='color:#f29e38;'>50%</color>. All his subsequent attacks consume <color style='color:#f29e38;'>1% Max HP</color>.",
+        "Desc": "Initially has Weakness Protected. Consumes @3% Max HP# to enter the @Secondary Combustion# state, removes @Weakness Protected# and increases SPD by @50%#. All his subsequent attacks consume @1% Max HP#.",
         "SP": 0,
         "Threat": true
     },
     "302402105": {
         "Key": "Skill05",
         "Name": "DHGDR: Supernova Overload",
-        "Desc": "Deals <1> Fire DMG to all targets and has <color style='color:#f29e38;'>120%</color> Base Chance of inflicting <b>Burn</b>.<br>Burn DoT: <2> Fire DMG, lasing <color style='color:#f29e38;'>3</color> turns.",
+        "Desc": "Deals <1> Fire DMG to all targets and has @120%# Base Chance of inflicting ``Burn`.\nBurn DoT: <2> Fire DMG, lasing @3# turns.",
         "SP": 20.0,
         "Elem": "Fire",
         "Threat": true,
@@ -9857,7 +9857,7 @@ var _monsterskill = {
     "302402106": {
         "Key": "PassiveSkill01",
         "Name": "SGE: Molten Core",
-        "Desc": "After entering Secondary Combustion, Combusts the area and targets' Skill Points.<br>When consuming any number of Combusted Skill Points <color style='color:#f29e38;'>(excluding Alternative Skill Points)</color>, targets take a fixed <1> Fire DMG, but will additionally deal Fire DMG equal to <color style='color:#f29e38;'>30%</color> of the original DMG.<br>When receiving healing from other characters <color style='color:#f29e38;'>(excluding self and Lightcones)</color>, Healing Bonus is reduced by <color style='color:#f29e38;'>70%</color>.",
+        "Desc": "After entering Secondary Combustion, Combusts the area and targets' Skill Points.<br>When consuming any number of Combusted Skill Points @(excluding Alternative Skill Points)#, targets take a fixed <1> Fire DMG, but will additionally deal Fire DMG equal to @30%# of the original DMG.<br>When receiving healing from other characters @(excluding self and Lightcones)#, Healing Bonus is reduced by @70%#.",
         "SP": 0,
         "DMG": [
             2.4
@@ -9934,7 +9934,7 @@ var _monsterskill = {
     "300205102": {
         "Key": "Skill02",
         "Name": "The Can's Tribulations",
-        "Desc": "Increases own ATK by <color style='color:#f29e38;'>2<sup>n</sup>×30%</color>. This effect is stackable and unremoveable.",
+        "Desc": "Increases own ATK by @2<sup>n</sup>×30%#. This effect is stackable and unremoveable.",
         "SP": 0
     },
     "300205103": {
@@ -9966,7 +9966,7 @@ var _monsterskill = {
     "301402103": {
         "Key": "Skill03",
         "Name": "Biting Obituary",
-        "Desc": "Increases DMG dealt by <color style='color:#f29e38;'>100%</color> for 1 turn. This effect is removed when this unit become Weakness Broken.",
+        "Desc": "Increases DMG dealt by @100%# for 1 turn. This effect is removed when this unit become Weakness Broken.",
         "SP": 0,
         "Status": [
             230140207
@@ -9975,7 +9975,7 @@ var _monsterskill = {
     "301402104": {
         "Key": "Skill04",
         "Name": "Fading Radiance",
-        "Desc": "Enters the <color style='color:#f29e38;'>Sunset</color> state. Gains 1 stack each time a character uses Basic ATK, Skill, or Ultimate. When 3 stacks are gained, immediately uses <color style='color:#f29e38;'>Losing Eventide Light</color> on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken.",
+        "Desc": "Enters the @Sunset# state. Gains 1 stack each time a character uses Basic ATK, Skill, or Ultimate. When 3 stacks are gained, immediately uses @Losing Eventide Light# on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken.",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -9985,7 +9985,7 @@ var _monsterskill = {
     "301402105": {
         "Key": "Skill05",
         "Name": "Losing Eventide Light",
-        "Desc": "Immediately deals a killing blow to the character last used Basic ATK, Skill, or Ultimate, making them enter <color style='color:#f29e38;'>Morbid Dream</color>.",
+        "Desc": "Immediately deals a killing blow to the character last used Basic ATK, Skill, or Ultimate, making them enter @Morbid Dream#.",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -9995,7 +9995,7 @@ var _monsterskill = {
     "301402106": {
         "Key": "Skill06",
         "Name": "Go Into That Good Night",
-        "Desc": "Revive all energy for all characters, and enters the <color style='color:#f29e38;'>Nightfall</color> state, locking onto the 2 characters who are due to act next. Uses <color style='color:#f29e38;'>Watery Dissolution</color> in the next action.",
+        "Desc": "Revive all energy for all characters, and enters the @Nightfall# state, locking onto the 2 characters who are due to act next. Uses @Watery Dissolution# in the next action.",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -10005,7 +10005,7 @@ var _monsterskill = {
     "301402107": {
         "Key": "Skill07",
         "Name": "Watery Dissolution",
-        "Desc": "Immediately deals killing blow to all locked-on targets, making them enter <color style='color:#f29e38;'>Morbid Dream</color>. If no targets are being locked on, randomly lock on to two targets.",
+        "Desc": "Immediately deals killing blow to all locked-on targets, making them enter @Morbid Dream#. If no targets are being locked on, randomly lock on to two targets.",
         "SP": 0,
         "Threat": true
     },
@@ -10018,7 +10018,7 @@ var _monsterskill = {
     "301402109": {
         "Key": "PassiveSkill02",
         "Name": "Sad True Lover Never Find My Grave",
-        "Desc": "Whenever a target enters the <color style='color:#f29e38;'>Morbid Dream</color> state, summons a corresponding <color style='color:#f29e38;'>Sombrous Sepulcher</color>. When all targets enter the Morbid Dream state or are knocked down, this battle will be considered a defeat.",
+        "Desc": "Whenever a target enters the @Morbid Dream# state, summons a corresponding @Sombrous Sepulcher#. When all targets enter the Morbid Dream state or are knocked down, this battle will be considered a defeat.",
         "SP": 0
     },
     "301301001": {
@@ -10059,7 +10059,7 @@ var _monsterskill = {
     "301301004": {
         "Key": "Skill07",
         "Name": "Bonepiercing Odium",
-        "Desc": "Deals <1> Quantum DMG to a random target <color style='color:#f29e38;'>3</color> times. Each stack of Obscure Blaze additionally deals DMG <color style='color:#f29e38;'>1</color> time.",
+        "Desc": "Deals <1> Quantum DMG to a random target @3# times. Each stack of Obscure Blaze additionally deals DMG @1# time.",
         "SP": 5.0,
         "Elem": "Quantum",
         "Threat": true,
@@ -10073,7 +10073,7 @@ var _monsterskill = {
     "301301005": {
         "Key": "SkillP01",
         "Name": "Disembodied Shell",
-        "Desc": "When not Weakness Broken, has the <b>Safeguard</b> state: reduces DMG received by <color style='color:#f29e38;'>60%</color>. Once Weakness is Broken, action will be delayed by <color style='color:#f29e38;'>75%</color>. After Weakness is Broken, increases DMG received by <color style='color:#f29e38;'>50%</color>.",
+        "Desc": "When not Weakness Broken, has the ``Safeguard` state: reduces DMG received by @60%#. Once Weakness is Broken, action will be delayed by @75%#. After Weakness is Broken, increases DMG received by @50%#.",
         "SP": 0
     },
     "301301006": {
@@ -10107,7 +10107,7 @@ var _monsterskill = {
     "302402007": {
         "Key": "Skill06",
         "Name": "SGE: Molten Engine",
-        "Desc": "While in Secondary Combustion, Sam possesses <color style='color:#f29e38;'>5</color> Molten Energy. When Sam is hit by characters' skills that consumed Combusted Skill Points <color style='color:#f29e38;'>(including Alternative Skill Points)</color>, Molten Energy will be deducted according to the amount of Skill Points Consumed.<br>When Molten Energy is depleted, all Skill Points are regenerated for allies. Sam will exit Secondary Combustion and be automatically Weakness Broken, during which Sam receives <color style='color:#f29e38;'>50%</color> increased DMG.",
+        "Desc": "While in Secondary Combustion, Sam possesses @5# Molten Energy. When Sam is hit by characters' skills that consumed Combusted Skill Points @(including Alternative Skill Points)#, Molten Energy will be deducted according to the amount of Skill Points Consumed.<br>When Molten Energy is depleted, all Skill Points are regenerated for allies. Sam will exit Secondary Combustion and be automatically Weakness Broken, during which Sam receives @50%# increased DMG.",
         "SP": 0,
         "Status": [
             230240201,
@@ -10119,7 +10119,7 @@ var _monsterskill = {
     "302402107": {
         "Key": "Skill06",
         "Name": "SGE: Molten Engine",
-        "Desc": "While in Secondary Combustion, Sam possesses <color style='color:#f29e38;'>5</color> Molten Energy. When Sam is hit by characters' skills that consumed Combusted Skill Points <color style='color:#f29e38;'>(including Alternative Skill Points)</color>, Molten Energy will be deducted according to the amount of Skill Points Consumed.<br>When Molten Energy is depleted, all Skill Points are regenerated for allies. Sam will exit Secondary Combustion and be automatically Weakness Broken, during which Sam receives <color style='color:#f29e38;'>50%</color> increased DMG.",
+        "Desc": "While in Secondary Combustion, Sam possesses @5# Molten Energy. When Sam is hit by characters' skills that consumed Combusted Skill Points @(including Alternative Skill Points)#, Molten Energy will be deducted according to the amount of Skill Points Consumed.<br>When Molten Energy is depleted, all Skill Points are regenerated for allies. Sam will exit Secondary Combustion and be automatically Weakness Broken, during which Sam receives @50%# increased DMG.",
         "SP": 0,
         "Status": [
             230240201,
@@ -10290,7 +10290,7 @@ var _monsterskill = {
     "300302001": {
         "Key": "Skill01",
         "Name": "Limited Free Drinks",
-        "Desc": "Deals <1> Ice DMG to a single target. If the target has Shield, will deal <color style='color:#f29e38;'>8% Max HP</color> Ice DMG to self, and has a <color style='color:#f29e38;'>150%</color> Base Chance to decrease self DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Deals <1> Ice DMG to a single target. If the target has Shield, will deal @8% Max HP# Ice DMG to self, and has a @150%# Base Chance to decrease self DEF by @20%# for @2# turns.",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -10300,7 +10300,7 @@ var _monsterskill = {
     "300302002": {
         "Key": "Skill02",
         "Name": "Unlimited Free Drinks",
-        "Desc": "Randomly deals <1> Ice DMG 4 times to single targets. After every hit, if the target has Shield, will deal <color style='color:#f29e38;'>8% Max HP</color> Ice DMG to self, and has a <color style='color:#f29e38;'>150%</color> Base Chance to decrease self DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Randomly deals <1> Ice DMG 4 times to single targets. After every hit, if the target has Shield, will deal @8% Max HP# Ice DMG to self, and has a @150%# Base Chance to decrease self DEF by @20%# for @2# turns.",
         "SP": 10.0,
         "Elem": "Ice",
         "Threat": true,
@@ -10311,7 +10311,7 @@ var _monsterskill = {
     "300302101": {
         "Key": "Skill01",
         "Name": "Limited Free Drinks",
-        "Desc": "Deals <1> Ice DMG to a single target and advance their action by <color style='color:#f29e38;'>50%</color>.<br>If the target has Shield, will deal <color style='color:#f29e38;'>20% Max HP</color> Ice DMG to self, and has a <color style='color:#f29e38;'>150%</color> Base Chance to decrease self DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Deals <1> Ice DMG to a single target and advance their action by @50%#.\nIf the target has Shield, will deal @20% Max HP# Ice DMG to self, and has a @150%# Base Chance to decrease self DEF by @20%# for @2# turns.",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -10321,7 +10321,7 @@ var _monsterskill = {
     "300302102": {
         "Key": "Skill02",
         "Name": "Unlimited Free Drinks",
-        "Desc": "Deals <1> Ice DMG to the Marked target (in 4 hits) and advance their action by <color style='color:#f29e38;'>50%</color>.<br> After every hit, if the target has Shield, will deal <color style='color:#f29e38;'>20% Max HP</color> Ice DMG to self and <color style='color:#f29e38;'>1% Max HP</color> Ice DMG to a random ally, and has a <color style='color:#f29e38;'>150%</color> Base Chance to decrease self DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Deals <1> Ice DMG to the Marked target (in 4 hits) and advance their action by @50%#.\n After every hit, if the target has Shield, will deal @20% Max HP# Ice DMG to self and @1% Max HP# Ice DMG to a random ally, and has a @150%# Base Chance to decrease self DEF by @20%# for @2# turns.",
         "SP": 10.0,
         "Elem": "Ice",
         "Threat": true,
@@ -10358,13 +10358,13 @@ var _monsterskill = {
     "301402203": {
         "Key": "Skill03",
         "Name": "Harrowing Obituary",
-        "Desc": "Increases DMG dealt by <color style='color:#f29e38;'>50%</color> for 1 turn. This effect is removed when this unit becomes Weakness Broken.<br>Every time this ability is used, increases DMG dealt by an extra <color style='color:#f29e38;'>12%</color> (permanent and unremoveable), and increases the HP of any subsequently summoned <color style='color:#f29e38;'>Sombrous Sepulcher</color> by <color style='color:#f29e38;'>1</color> bar.",
+        "Desc": "Increases DMG dealt by @50%# for 1 turn. This effect is removed when this unit becomes Weakness Broken.<br>Every time this ability is used, increases DMG dealt by an extra @12%# (permanent and unremoveable), and increases the HP of any subsequently summoned @Sombrous Sepulcher# by @1# bar.",
         "SP": 0
     },
     "301402204": {
         "Key": "Skill04",
         "Name": "Fading Radiance",
-        "Desc": "Enters the <color style='color:#f29e38;'>Sunset</color> state. Gains 1 stack each time a character takes action. When 3 stacks are gained, immediately uses <color style='color:#f29e38;'>Losing Eventide Light</color> on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken.",
+        "Desc": "Enters the @Sunset# state. Gains 1 stack each time a character takes action. When 3 stacks are gained, immediately uses @Losing Eventide Light# on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken.",
         "SP": 0,
         "Threat": true
     },
@@ -10378,7 +10378,7 @@ var _monsterskill = {
     "301402206": {
         "Key": "Skill06",
         "Name": "Go Into That Good Night",
-        "Desc": "Restores <color style='color:#f29e38;'>200</color> energy for all characters.<br>Enters the <color style='color:#f29e38;'>Nightfall</color> state and gains <color style='color:#f29e38;'>Weakness Protected</color>. During this effect, lock on to 2 characters who are due to act next. Uses <color style='color:#f29e38;'>Watery Dissolution</color> in the next action.",
+        "Desc": "Restores @200# energy for all characters.<br>Enters the @Nightfall# state and gains @Weakness Protected#. During this effect, lock on to 2 characters who are due to act next. Uses @Watery Dissolution# in the next action.",
         "SP": 0,
         "Threat": true
     },
@@ -10398,7 +10398,7 @@ var _monsterskill = {
     "301402209": {
         "Key": "PassiveSkill02",
         "Name": "Sad True Lover Never Find My Grave",
-        "Desc": "Whenever a target gets inflicted with <color style='color:#f29e38;'>Morbid Dream</color>, summons a corresponding <color style='color:#f29e38;'>Sombrous Sepulcher</color>, starting at <color style='color:#f29e38;'>4</color> HP Points.<br>Every time <color style='color:#f29e38;'>Harrowing Obituary</color> is used, all Sombrous Sepulchers subsequently summoned have their <color style='color:#f29e38;'>Max HP +1</color>.<br>When all targets get inflicted with Morbid Dream or are knocked down, this battle will be considered a defeat.",
+        "Desc": "Whenever a target gets inflicted with @Morbid Dream#, summons a corresponding @Sombrous Sepulcher#, starting at @4# HP Points.<br>Every time @Harrowing Obituary# is used, all Sombrous Sepulchers subsequently summoned have their @Max HP +1#.<br>When all targets get inflicted with Morbid Dream or are knocked down, this battle will be considered a defeat.",
         "SP": 0
     },
     "300301201": {
@@ -10452,7 +10452,7 @@ var _monsterskill = {
     "300302201": {
         "Key": "Skill01",
         "Name": "Limitless Free Drinks",
-        "Desc": "Deals <1> Ice DMG to a single target.<br>If the target does not have a Shield, has <color style='color:#f29e38;'>50%</color> Base Chance of inflicting Freeze.<br>If the target has Shield, deals <color style='color:#f29e38;'>8% Max HP</color> Ice DMG to self, with an <color style='color:#f29e38;'>150%</color> Base Chance to reduce own DEF by <color style='color:#f29e38;'>20%</color>, lasting <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Deals <1> Ice DMG to a single target.<br>If the target does not have a Shield, has @50%# Base Chance of inflicting Freeze.<br>If the target has Shield, deals @8% Max HP# Ice DMG to self, with an @150%# Base Chance to reduce own DEF by @20%#, lasting @2# turns.",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -10462,7 +10462,7 @@ var _monsterskill = {
     "300302202": {
         "Key": "Skill02",
         "Name": "Frenzied Free Drinks",
-        "Desc": "Consecutively deals <1> Ice DMG to a random target <color style='color:#f29e38;'>4</color> times.<br>After every instance of DMG, if the target does not have a Shield, has <color style='color:#f29e38;'>120%</color> Base Chance of inflicting Freeze.<br>After every instance of DMG, if the target has Shield, deals <color style='color:#f29e38;'>8% Max HP</color> Ice DMG to self, with an <color style='color:#f29e38;'>150%</color> Base Chance to reduce own DEF by <color style='color:#f29e38;'>20%</color>, lasting <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Consecutively deals <1> Ice DMG to a random target @4# times.<br>After every instance of DMG, if the target does not have a Shield, has @120%# Base Chance of inflicting Freeze.<br>After every instance of DMG, if the target has Shield, deals @8% Max HP# Ice DMG to self, with an @150%# Base Chance to reduce own DEF by @20%#, lasting @2# turns.",
         "SP": 10.0,
         "Elem": "Ice",
         "Threat": true,
@@ -10479,7 +10479,7 @@ var _monsterskill = {
     "300302204": {
         "Key": "Skill04",
         "Name": "Celebration Fountain",
-        "Desc": "Enters the Charge state and gains <color style='color:#f29e38;'>Toughness Protection</color>. Uses <color style='color:#f29e38;'>Frenzied Free Drinks</color> during the next action.",
+        "Desc": "Enters the Charge state and gains @Toughness Protection#. Uses @Frenzied Free Drinks# during the next action.",
         "SP": 0
     },
     "301301101": {
@@ -10520,7 +10520,7 @@ var _monsterskill = {
     "301301104": {
         "Key": "Skill07",
         "Name": "Bonepiercing Odium",
-        "Desc": "Deals <1> Quantum DMG to a random target <color style='color:#f29e38;'>3</color> times. Each stack of Obscure Blaze additionally deals DMG <color style='color:#f29e38;'>1</color> time.",
+        "Desc": "Deals <1> Quantum DMG to a random target @3# times. Each stack of Obscure Blaze additionally deals DMG @1# time.",
         "SP": 5.0,
         "Elem": "Quantum",
         "Threat": true,
@@ -10534,7 +10534,7 @@ var _monsterskill = {
     "301301105": {
         "Key": "SkillP01",
         "Name": "Disembodied Shell",
-        "Desc": "When not Weakness Broken, has the <b>Safeguard</b> state: reduces DMG received by <color style='color:#f29e38;'>30%</color>. Once Weakness is Broken, action will be delayed by <color style='color:#f29e38;'>75%</color>. After Weakness is Broken, increases DMG received by <color style='color:#f29e38;'>50%</color>.",
+        "Desc": "When not Weakness Broken, has the ``Safeguard` state: reduces DMG received by @30%#. Once Weakness is Broken, action will be delayed by @75%#. After Weakness is Broken, increases DMG received by @50%#.",
         "SP": 0
     },
     "104201": {
@@ -10557,7 +10557,7 @@ var _monsterskill = {
     },
     "104203": {
         "Name": "Thundering Stiletto",
-        "Desc": "Deals <1> Thunder DMG to a single target, and <2> Thunder DMG to adjacent targets.<br>After this skill, Keqing's next action is delayed by <color style='color:#f29e38;'>25%</color>.",
+        "Desc": "Deals <1> Thunder DMG to a single target, and <2> Thunder DMG to adjacent targets.\nAfter this skill, Keqing's next action is delayed by @25%#.",
         "SP": 15.0,
         "Elem": "Elec",
         "DMG": [
@@ -10567,7 +10567,7 @@ var _monsterskill = {
     },
     "104204": {
         "Name": "Aristocratic Dignity",
-        "Desc": "Deals <1> Thunder DMG to a single target and enters the <color style='color:#f29e38;'>Piercing Thunderbolt</color> state.<br>Piercing Thunderbolt: After every cast of <color style='color:#f29e38;'>Thundering Stiletto</color>, will unleash an extra sword hit on every target, dealing <2> Thunder DMG.<br>In this state, Keqing will gain a second Toughness Bar equal to <color style='color:#f29e38;'>50%</color> of her original Toughness. Breaking this Toughness Bar will not trigger Weakness Broken, but will instead dispel the Piercing Thunderbolt state and cause her to lose <color style='color:#f29e38;'>13% Max HP</color>.",
+        "Desc": "Deals <1> Thunder DMG to a single target and enters the @Piercing Thunderbolt# state.<br>Piercing Thunderbolt: After every cast of @Thundering Stiletto#, will unleash an extra sword hit on every target, dealing <2> Thunder DMG.<br>In this state, Keqing will gain a second Toughness Bar equal to @50%# of her original Toughness. Breaking this Toughness Bar will not trigger Weakness Broken, but will instead dispel the Piercing Thunderbolt state and cause her to lose @13% Max HP#.",
         "SP": 10.0,
         "Elem": "Elec",
         "DMG": [
@@ -10577,12 +10577,12 @@ var _monsterskill = {
     },
     "104205": {
         "Name": "Foreseen Reformation",
-        "Desc": "Every time <color style='color:#f29e38;'>Yunlai Swordsmanship</color> is used or a <color style='color:#f29e38;'>Lightning Stiletto</color> is summoned, DMG dealt by Keqing and all Lightning Stilettos is increased by <color style='color:#f29e38;'>2%</color>. Max 99 stacks. Unremoveable.",
+        "Desc": "Every time @Yunlai Swordsmanship# is used or a @Lightning Stiletto# is summoned, DMG dealt by Keqing and all Lightning Stilettos is increased by @2%#. Max 99 stacks. Unremoveable.",
         "Elem": "Elec"
     },
     "104206": {
         "Name": "Stellar Restoration",
-        "Desc": "Deals <1> Thunder DMG to a single target, and summons 2 <color style='color:#f29e38;'>Lightning Stilettos</color> with <color style='color:#f29e38;'>6</color> HP points.<br>When a Lightning Stiletto is attacked, Keqing acts immediately and casts <color style='color:#f29e38;'>Thundering Stiletto</color> on the attacker, and orders the Lightning Stiletto to <b>Monitor</b> the attacker.",
+        "Desc": "Deals <1> Thunder DMG to a single target, and summons 2 @Lightning Stilettos# with @6# HP points.<br>When a Lightning Stiletto is attacked, Keqing acts immediately and casts @Thundering Stiletto# on the attacker, and orders the Lightning Stiletto to ``Monitor` the attacker.",
         "SP": 15.0,
         "Elem": "Elec",
         "DMG": [
@@ -10591,7 +10591,7 @@ var _monsterskill = {
     },
     "104207": {
         "Name": "Thundering Penance",
-        "Desc": "Summons 2 <color style='color:#f29e38;'>Lightning Stilettos</color> with <color style='color:#f29e38;'>4</color> HP points, and enters the Charge state. After 2 turns, casts <color style='color:#f29e38;'>Starward Sword</color>.",
+        "Desc": "Summons 2 @Lightning Stilettos# with @4# HP points, and enters the Charge state. After 2 turns, casts @Starward Sword#.",
         "Elem": "Elec",
         "DMG": [
             3.0
@@ -10599,7 +10599,7 @@ var _monsterskill = {
     },
     "104208": {
         "Name": "Starward Sword",
-        "Desc": "When there are <color style='color:#f29e38;'>0</color>/<color style='color:#f29e38;'>1</color>/<color style='color:#f29e38;'>2</color>/<color style='color:#f29e38;'>3</color>/<color style='color:#f29e38;'>4</color> Lightning Stilettos on the field, deals <1>/<2>/<3>/<4>/<5> Thunder DMG to a all targets.<br>If there are no Lightning Stilettos on the field, will automatically be Weakness Broken after casting this skill. During Weakness Broken, DMG taken is increased by <color style='color:#f29e38;'>150%</color> and action is delayed by an extra <color style='color:#f29e38;'>50%</color>.<br>After casting this skill, clear all Lightning Stilettos on the field.",
+        "Desc": "When there are @0#/@1#/@2#/@3#/@4# Lightning Stilettos on the field, deals <1>/<2>/<3>/<4>/<5> Thunder DMG to a all targets.<br>If there are no Lightning Stilettos on the field, will automatically be Weakness Broken after casting this skill. During Weakness Broken, DMG taken is increased by @150%# and action is delayed by an extra @50%#.<br>After casting this skill, clear all Lightning Stilettos on the field.",
         "SP": 20.0,
         "Elem": "Elec",
         "DMG": [
@@ -10612,12 +10612,12 @@ var _monsterskill = {
     },
     "104209": {
         "Name": "Tenacious Star",
-        "Desc": "Phase 3's Max HP changed to <color style='color:#f29e38;'>1.66</color> times the original, Toughness changed to <color style='color:#f29e38;'>1.33</color> times the original.<br>When HP first falls below <color style='color:#f29e38;'>50%</color> in Phase 3, Keqing acts immediately, but SPD is permanently decreased by <color style='color:#f29e38;'>10%</color>.",
+        "Desc": "Phase 3's Max HP changed to @1.66# times the original, Toughness changed to @1.33# times the original.<br>When HP first falls below @50%# in Phase 3, Keqing acts immediately, but SPD is permanently decreased by @10%#.",
         "Elem": "Elec"
     },
     "104210": {
         "Name": "Beckoning Stars",
-        "Desc": "<color style='color:#f29e38;'>Lightning Stilettos</color> will deal <1> Thunder DMG to Monitored targets.<br>Lightning Stilettos are immune to DMG. When they are attacked, they will lose <color style='color:#f29e38;'>1</color> HP Point. When they lose all HP Points, they will disperse.<br>When a Lightning Stiletto disperses, Keqing will <b>Lock On</b> the target that it Monitored. Lock On is considered as a Debuff and lasts <color style='color:#f29e38;'>2</color> turns. Keqing and all Lightning Stilettos will attack the Locked On target.",
+        "Desc": "@Lightning Stilettos# will deal <1> Thunder DMG to Monitored targets.<br>Lightning Stilettos are immune to DMG. When they are attacked, they will lose @1# HP Point. When they lose all HP Points, they will disperse.<br>When a Lightning Stiletto disperses, Keqing will ``Lock On` the target that it Monitored. Lock On is considered as a Debuff and lasts @2# turns. Keqing and all Lightning Stilettos will attack the Locked On target.",
         "SP": 10.0,
         "Elem": "Elec",
         "DMG": [
@@ -10626,7 +10626,7 @@ var _monsterskill = {
     },
     "104211": {
         "Name": "Trulla Cementarii",
-        "Desc": "When casting <color style='color:#f29e38;'>Starward Sword</color>, Keqing will deal an additional <1> Thunder DMG to the Locked On target.",
+        "Desc": "When casting @Starward Sword#, Keqing will deal an additional <1> Thunder DMG to the Locked On target.",
         "SP": 5.0,
         "Elem": "Elec",
         "DMG": [
@@ -10635,7 +10635,7 @@ var _monsterskill = {
     },
     "104212": {
         "Name": "Attunement",
-        "Desc": "Lightning Stiletto's attacks have an <color style='color:#f29e38;'>80%</color> Base Chance to inflict <color style='color:#f29e38;'>Distunement</color>: DMG taken increases by <color style='color:#f29e38;'>0.8%</color> and ATK decreases by <color style='color:#f29e38;'>1%</color>, lasting <color style='color:#f29e38;'>3</color> turns.<br>If Distunement stacks to 10 layers and is not dispelled, the target will lose <color style='color:#f29e38;'>74% Max HP</color> at the beginning of their next turn, and Distunement will be dispelled.",
+        "Desc": "Lightning Stiletto's attacks have an @80%# Base Chance to inflict @Distunement#: DMG taken increases by @0.8%# and ATK decreases by @1%#, lasting @3# turns.<br>If Distunement stacks to 10 layers and is not dispelled, the target will lose @74% Max HP# at the beginning of their next turn, and Distunement will be dispelled.",
         "Elem": "Elec"
     }
 }

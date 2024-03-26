@@ -685,7 +685,7 @@ $(function () {
                                     var s4 = '<color style="color:#' + COL +  ';"><b>' + (v4 * 100).toFixed(1).replace('.0', '') + '%</b></color>'
                                     var s5 = '<color style="color:#' + COL +  ';"><b>' + (v5 * 100).toFixed(1).replace('.0', '') + '%</b></color>'
                                 }
-                                return skill.Desc.replaceAll('<1>', s1).replaceAll('<2>', s2).replaceAll('<3>', s3).replaceAll('<4>', s4).replaceAll('<5>', s5)
+                                return skill.Desc.replaceAll("#", "</color>").replaceAll("@", "<color style='color:#f29e38;'>").replaceAll("``", "<b>").replaceAll("`", "</b>").replaceAll("\n", "<br>").replaceAll('<1>', s1).replaceAll('<2>', s2).replaceAll('<3>', s3).replaceAll('<4>', s4).replaceAll('<5>', s5)
                             },
                             class: 'a_section_content'
                         }

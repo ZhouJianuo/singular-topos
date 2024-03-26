@@ -29,12 +29,6 @@ var _weaponskill_ = {
             "Desc": [
                 "使装备者的防御力提高 <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>46.0%</color> / <color style='color:#f29e38;'>52.0%</color> / <color style='color:#f29e38;'>58.0%</color> / <color style='color:#f29e38;'>64.0%</color> ，当装备者为我方目标提供护盾时，使装备者的暴击伤害提高 <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>46.0%</color> / <color style='color:#f29e38;'>52.0%</color> / <color style='color:#f29e38;'>58.0%</color> / <color style='color:#f29e38;'>64.0%</color> ，持续 <b>2.0</b> 回合。当装备者发动追加攻击击中敌方目标时，有 <color style='color:#f29e38;'>100.0%</color> / <color style='color:#f29e38;'>115.0%</color> / <color style='color:#f29e38;'>130.0%</color> / <color style='color:#f29e38;'>145.0%</color> / <color style='color:#f29e38;'>160.0%</color> 的基础概率使受到攻击的敌方目标受到的伤害提高 <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.5%</color> / <color style='color:#f29e38;'>13.0%</color> / <color style='color:#f29e38;'>14.5%</color> / <color style='color:#f29e38;'>16.0%</color> ，持续 <b>2.0</b> 回合。"
             ]
-        },
-        "v5": {
-            "Name": "全下",
-            "Desc": [
-                "使装备者的防御力提高 <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>46.0%</color> / <color style='color:#f29e38;'>52.0%</color> / <color style='color:#f29e38;'>58.0%</color> / <color style='color:#f29e38;'>64.0%</color> ，当装备者为我方目标提供护盾时，使装备者的暴击伤害提高 <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>46.0%</color> / <color style='color:#f29e38;'>52.0%</color> / <color style='color:#f29e38;'>58.0%</color> / <color style='color:#f29e38;'>64.0%</color> ，持续 <b>2.0</b> 回合。当装备者发动追加攻击击中敌方目标时，有 <color style='color:#f29e38;'>100.0%</color> / <color style='color:#f29e38;'>115.0%</color> / <color style='color:#f29e38;'>130.0%</color> / <color style='color:#f29e38;'>145.0%</color> / <color style='color:#f29e38;'>160.0%</color> 的基础概率使受到攻击的敌方目标受到的伤害提高 <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.5%</color> / <color style='color:#f29e38;'>13.0%</color> / <color style='color:#f29e38;'>14.5%</color> / <color style='color:#f29e38;'>16.0%</color> ，持续 <b>2.0</b> 回合。"
-            ]
         }
     }
 }

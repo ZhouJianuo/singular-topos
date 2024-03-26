@@ -181,51 +181,6 @@ var _avatarskill_ = {
                 0.0
             ],
             "Icon": "SkillIcon_1308_Normal"
-        },
-        "v5": {
-            "Name": "Trilateral Wiltcross",
-            "MaxLevel": 9,
-            "Type": "Basic ATK",
-            "Tag": "Single Target",
-            "Desc": "Deals Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Acheron's ATK to a single target enemy.",
-            "Params": [
-                [
-                    0.5
-                ],
-                [
-                    0.6
-                ],
-                [
-                    0.7
-                ],
-                [
-                    0.8
-                ],
-                [
-                    0.9
-                ],
-                [
-                    1.0
-                ],
-                [
-                    1.1
-                ],
-                [
-                    1.2
-                ],
-                [
-                    1.3
-                ]
-            ],
-            "BP": 1,
-            "SPAdd": 0,
-            "AttackType": "Normal",
-            "Stance": [
-                1.0,
-                0.0,
-                0.0
-            ],
-            "Icon": "SkillIcon_1308_Normal"
         }
     },
     "130802": {
@@ -509,99 +464,6 @@ var _avatarskill_ = {
             "Icon": "SkillIcon_1308_BP"
         },
         "v4": {
-            "Name": "Octobolt Flash",
-            "MaxLevel": 15,
-            "Type": "Skill",
-            "Tag": "Blast",
-            "Desc": "Gains <b>#3[f]</b> point(s) of Slashed Dream. Inflicts <b>#3[f]</b> stack(s) of Crimson Knot on a single target enemy, dealing Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Acheron's ATK to this target, as well as Lightning DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Acheron's ATK to adjacent targets.",
-            "Params": [
-                [
-                    0.8,
-                    0.3,
-                    1.0
-                ],
-                [
-                    0.88,
-                    0.33,
-                    1.0
-                ],
-                [
-                    0.96,
-                    0.36,
-                    1.0
-                ],
-                [
-                    1.04,
-                    0.39,
-                    1.0
-                ],
-                [
-                    1.12,
-                    0.42,
-                    1.0
-                ],
-                [
-                    1.2,
-                    0.45,
-                    1.0
-                ],
-                [
-                    1.3,
-                    0.4875,
-                    1.0
-                ],
-                [
-                    1.4,
-                    0.525,
-                    1.0
-                ],
-                [
-                    1.5,
-                    0.5625,
-                    1.0
-                ],
-                [
-                    1.6,
-                    0.6,
-                    1.0
-                ],
-                [
-                    1.68,
-                    0.63,
-                    1.0
-                ],
-                [
-                    1.76,
-                    0.66,
-                    1.0
-                ],
-                [
-                    1.84,
-                    0.69,
-                    1.0
-                ],
-                [
-                    1.92,
-                    0.72,
-                    1.0
-                ],
-                [
-                    2.0,
-                    0.75,
-                    1.0
-                ]
-            ],
-            "BP": -1,
-            "SPAdd": 0,
-            "AttackType": "BPSkill",
-            "Stance": [
-                2.0,
-                0.0,
-                1.0
-            ],
-            "Icon": "SkillIcon_1308_BP"
-        },
-        "v5": {
             "Name": "Octobolt Flash",
             "MaxLevel": 15,
             "Type": "Skill",
@@ -1266,160 +1128,6 @@ var _avatarskill_ = {
                 0.0
             ],
             "Icon": "SkillIcon_1308_Ultra"
-        },
-        "v5": {
-            "Name": "Slashed Dream Cries in Red",
-            "MaxLevel": 15,
-            "Type": "Ultimate",
-            "Tag": "AoE",
-            "Desc": "Sequentially unleash Rainblade 3 times and Stygian Resurge 1 time, dealing Lightning DMG up to <color style='color:#f29e38;'><b>#6[p]</b></color> of Acheron's ATK to a single target enemy, as well as Lightning DMG up to <color style='color:#f29e38;'><b>#7[p]</b></color> of Acheron's ATK to other targets.<br><br>Rainblade: Deals Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Acheron's ATK to a single target enemy and removes up to 3 stacks of Crimson Knot from the target. When Crimson Knot is removed, immediately deals Lightning DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Acheron's ATK to all enemies. For every stack of Crimson Knot removed, the DMG Multiplier for this is additionally increased, up to a maximum of <color style='color:#f29e38;'><b>#5[p]</b></color>.<br><br>Stygian Resurge: Deals Lightning DMG equal to <color style='color:#f29e38;'><b>#3[p]</b></color> of Acheron's ATK to all enemies and remove all Crimson Knots.<br>Crimson Knot cannot be applied to enemies during the Ultimate.<br>Hidden Stat: #4[f]",
-            "Params": [
-                [
-                    0.144,
-                    0.09,
-                    0.72,
-                    9.0,
-                    0.36,
-                    2.232,
-                    1.8
-                ],
-                [
-                    0.1536,
-                    0.096,
-                    0.768,
-                    9.0,
-                    0.384,
-                    2.3808,
-                    1.92
-                ],
-                [
-                    0.1632,
-                    0.102,
-                    0.816,
-                    9.0,
-                    0.408,
-                    2.5296,
-                    2.04
-                ],
-                [
-                    0.1728,
-                    0.108,
-                    0.864,
-                    9.0,
-                    0.432,
-                    2.6784,
-                    2.16
-                ],
-                [
-                    0.1824,
-                    0.114,
-                    0.912,
-                    9.0,
-                    0.456,
-                    2.8272,
-                    2.28
-                ],
-                [
-                    0.192,
-                    0.12,
-                    0.96,
-                    9.0,
-                    0.48,
-                    2.976,
-                    2.4
-                ],
-                [
-                    0.204,
-                    0.1275,
-                    1.02,
-                    9.0,
-                    0.51,
-                    3.162,
-                    2.55
-                ],
-                [
-                    0.216,
-                    0.135,
-                    1.08,
-                    9.0,
-                    0.54,
-                    3.348,
-                    2.7
-                ],
-                [
-                    0.228,
-                    0.1425,
-                    1.14,
-                    9.0,
-                    0.57,
-                    3.534,
-                    2.85
-                ],
-                [
-                    0.24,
-                    0.15,
-                    1.2,
-                    9.0,
-                    0.6,
-                    3.72,
-                    3.0
-                ],
-                [
-                    0.2496,
-                    0.156,
-                    1.248,
-                    9.0,
-                    0.624,
-                    3.8688,
-                    3.12
-                ],
-                [
-                    0.2592,
-                    0.162,
-                    1.296,
-                    9.0,
-                    0.648,
-                    4.0176,
-                    3.24
-                ],
-                [
-                    0.2688,
-                    0.168,
-                    1.344,
-                    9.0,
-                    0.672,
-                    4.1664,
-                    3.36
-                ],
-                [
-                    0.2784,
-                    0.174,
-                    1.392,
-                    9.0,
-                    0.696,
-                    4.3152,
-                    3.48
-                ],
-                [
-                    0.288,
-                    0.18,
-                    1.44,
-                    9.0,
-                    0.72,
-                    4.464,
-                    3.6
-                ]
-            ],
-            "BP": 0,
-            "SPAdd": 0,
-            "SPNeed": 9.0,
-            "AttackType": "Ultra",
-            "Stance": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "Icon": "SkillIcon_1308_Ultra"
         }
     },
     "130804": {
@@ -1730,83 +1438,6 @@ var _avatarskill_ = {
                 0.0
             ],
             "Icon": "SkillIcon_1308_Passive"
-        },
-        "v5": {
-            "Name": "Atop Rainleaf Hangs Oneness",
-            "MaxLevel": 15,
-            "Type": "Talent",
-            "Tag": "Enhance",
-            "Desc": "When Slashed Dream reaches <b>#1[f]</b> point(s), the Ultimate can be activated. During the Ultimate, reduces enemies' Toughness regardless of Weakness Types and reduces all enemies' All-Type RES by <color style='color:#f29e38;'><b>#2[p]</b></color>, lasting until the end of the Ultimate.<br>When any unit inflicts debuffs on an enemy target while using their ability, Acheron gains 1 point of Slashed Dream and inflicts 1 stack of Crimson Knot on the target. If debuffs are inflicted on multiple targets, then the 1 stack of Crimson Knot will be inflicted on the enemy target with the most Crimson Knot stacks. This effect can only trigger once per every ability usage.<br>After an enemy target exits the field or gets defeated by any unit while Acheron is on the field, their Crimson Knot stacks will be transferred to the enemy target with the most Crimson Knot stacks on the whole field.",
-            "Params": [
-                [
-                    9.0,
-                    0.1
-                ],
-                [
-                    9.0,
-                    0.11
-                ],
-                [
-                    9.0,
-                    0.12
-                ],
-                [
-                    9.0,
-                    0.13
-                ],
-                [
-                    9.0,
-                    0.14
-                ],
-                [
-                    9.0,
-                    0.15
-                ],
-                [
-                    9.0,
-                    0.1625
-                ],
-                [
-                    9.0,
-                    0.175
-                ],
-                [
-                    9.0,
-                    0.1875
-                ],
-                [
-                    9.0,
-                    0.2
-                ],
-                [
-                    9.0,
-                    0.21
-                ],
-                [
-                    9.0,
-                    0.22
-                ],
-                [
-                    9.0,
-                    0.23
-                ],
-                [
-                    9.0,
-                    0.24
-                ],
-                [
-                    9.0,
-                    0.25
-                ]
-            ],
-            "BP": 0,
-            "SPAdd": 0,
-            "Stance": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "Icon": "SkillIcon_1308_Passive"
         }
     },
     "130806": {
@@ -1868,25 +1499,6 @@ var _avatarskill_ = {
             "Icon": "SkillIcon_1308_Normal"
         },
         "v4": {
-            "Name": "Attack",
-            "MaxLevel": 1,
-            "Type": "",
-            "Tag": "",
-            "Desc": "Attacks an enemy, and when the battle starts, reduces their Toughness of the corresponding Type.",
-            "Params": [
-                []
-            ],
-            "BP": 0,
-            "SPAdd": 0,
-            "AttackType": "MazeNormal",
-            "Stance": [
-                1.0,
-                0.0,
-                0.0
-            ],
-            "Icon": "SkillIcon_1308_Normal"
-        },
-        "v5": {
             "Name": "Attack",
             "MaxLevel": 1,
             "Type": "",
@@ -1974,28 +1586,6 @@ var _avatarskill_ = {
             "Icon": "SkillIcon_1308_Maze"
         },
         "v4": {
-            "Name": "Quadrivalent Ascendance",
-            "MaxLevel": 1,
-            "Type": "Technique",
-            "Tag": "",
-            "Desc": "Immediately attacks the enemy. At the start of each wave, gains Quadrivalent Ascendance, dealing Lightning DMG equal to <b>#1[p]</b> of Acheron's ATK to all enemies and reducing Toughness of all enemies irrespective of Weakness Types. When Weakness is broken, triggers the Lightning Weakness Break effect.<br>Quadrivalent Ascendance: After using the Ultimate, Acheron gains <b>#2[f]</b> point(s) of Slashed Dream and inflicts <b>#2[f]</b> stack(s) of Crimson Knot on a single random enemy.<br>If attacking a normal enemy, immediately defeats them without entering combat. When not hitting any enemies, no Technique Points are consumed.",
-            "Params": [
-                [
-                    2.0,
-                    1.0
-                ]
-            ],
-            "BP": 0,
-            "SPAdd": 0,
-            "AttackType": "Maze",
-            "Stance": [
-                2.0,
-                0.0,
-                0.0
-            ],
-            "Icon": "SkillIcon_1308_Maze"
-        },
-        "v5": {
             "Name": "Quadrivalent Ascendance",
             "MaxLevel": 1,
             "Type": "Technique",
@@ -2299,99 +1889,6 @@ var _avatarskill_ = {
             "Icon": "SkillIcon_1308_Ultra"
         },
         "v4": {
-            "Name": "Rainblade",
-            "MaxLevel": 15,
-            "Type": "Ultimate",
-            "Tag": "AoE",
-            "Desc": "<br>Hidden Stat: #1[f]<br>Hidden Stat: #2[f]<br>Hidden Stat: #3[f]",
-            "Params": [
-                [
-                    0.144,
-                    0.09,
-                    0.72
-                ],
-                [
-                    0.1536,
-                    0.096,
-                    0.768
-                ],
-                [
-                    0.1632,
-                    0.102,
-                    0.816
-                ],
-                [
-                    0.1728,
-                    0.108,
-                    0.864
-                ],
-                [
-                    0.1824,
-                    0.114,
-                    0.912
-                ],
-                [
-                    0.192,
-                    0.12,
-                    0.96
-                ],
-                [
-                    0.204,
-                    0.1275,
-                    1.02
-                ],
-                [
-                    0.216,
-                    0.135,
-                    1.08
-                ],
-                [
-                    0.228,
-                    0.1425,
-                    1.14
-                ],
-                [
-                    0.24,
-                    0.15,
-                    1.2
-                ],
-                [
-                    0.2496,
-                    0.156,
-                    1.248
-                ],
-                [
-                    0.2592,
-                    0.162,
-                    1.296
-                ],
-                [
-                    0.2688,
-                    0.168,
-                    1.344
-                ],
-                [
-                    0.2784,
-                    0.174,
-                    1.392
-                ],
-                [
-                    0.288,
-                    0.18,
-                    1.44
-                ]
-            ],
-            "BP": 0,
-            "SPAdd": 0,
-            "AttackType": "Ultra",
-            "Stance": [
-                0.5,
-                0.5,
-                0.0
-            ],
-            "Icon": "SkillIcon_1308_Ultra"
-        },
-        "v5": {
             "Name": "Rainblade",
             "MaxLevel": 15,
             "Type": "Ultimate",
@@ -2857,99 +2354,6 @@ var _avatarskill_ = {
                 0.0
             ],
             "Icon": "SkillIcon_1308_Ultra"
-        },
-        "v5": {
-            "Name": "Rainblade",
-            "MaxLevel": 15,
-            "Type": "Ultimate",
-            "Tag": "AoE",
-            "Desc": "<br>Hidden Stat: #1[f]<br>Hidden Stat: #2[f]<br>Hidden Stat: #3[f]",
-            "Params": [
-                [
-                    0.144,
-                    0.09,
-                    0.72
-                ],
-                [
-                    0.1536,
-                    0.096,
-                    0.768
-                ],
-                [
-                    0.1632,
-                    0.102,
-                    0.816
-                ],
-                [
-                    0.1728,
-                    0.108,
-                    0.864
-                ],
-                [
-                    0.1824,
-                    0.114,
-                    0.912
-                ],
-                [
-                    0.192,
-                    0.12,
-                    0.96
-                ],
-                [
-                    0.204,
-                    0.1275,
-                    1.02
-                ],
-                [
-                    0.216,
-                    0.135,
-                    1.08
-                ],
-                [
-                    0.228,
-                    0.1425,
-                    1.14
-                ],
-                [
-                    0.24,
-                    0.15,
-                    1.2
-                ],
-                [
-                    0.2496,
-                    0.156,
-                    1.248
-                ],
-                [
-                    0.2592,
-                    0.162,
-                    1.296
-                ],
-                [
-                    0.2688,
-                    0.168,
-                    1.344
-                ],
-                [
-                    0.2784,
-                    0.174,
-                    1.392
-                ],
-                [
-                    0.288,
-                    0.18,
-                    1.44
-                ]
-            ],
-            "BP": 0,
-            "SPAdd": 0,
-            "AttackType": "Ultra",
-            "Stance": [
-                0.5,
-                0.5,
-                0.0
-            ],
-            "Icon": "SkillIcon_1308_Ultra"
         }
     },
     "130816": {
@@ -3324,99 +2728,6 @@ var _avatarskill_ = {
                 0.0
             ],
             "Icon": "SkillIcon_1308_Ultra"
-        },
-        "v5": {
-            "Name": "Rainblade",
-            "MaxLevel": 15,
-            "Type": "Ultimate",
-            "Tag": "AoE",
-            "Desc": "<br>Hidden Stat: #1[f]<br>Hidden Stat: #2[f]<br>Hidden Stat: #3[f]",
-            "Params": [
-                [
-                    0.144,
-                    0.09,
-                    0.72
-                ],
-                [
-                    0.1536,
-                    0.096,
-                    0.768
-                ],
-                [
-                    0.1632,
-                    0.102,
-                    0.816
-                ],
-                [
-                    0.1728,
-                    0.108,
-                    0.864
-                ],
-                [
-                    0.1824,
-                    0.114,
-                    0.912
-                ],
-                [
-                    0.192,
-                    0.12,
-                    0.96
-                ],
-                [
-                    0.204,
-                    0.1275,
-                    1.02
-                ],
-                [
-                    0.216,
-                    0.135,
-                    1.08
-                ],
-                [
-                    0.228,
-                    0.1425,
-                    1.14
-                ],
-                [
-                    0.24,
-                    0.15,
-                    1.2
-                ],
-                [
-                    0.2496,
-                    0.156,
-                    1.248
-                ],
-                [
-                    0.2592,
-                    0.162,
-                    1.296
-                ],
-                [
-                    0.2688,
-                    0.168,
-                    1.344
-                ],
-                [
-                    0.2784,
-                    0.174,
-                    1.392
-                ],
-                [
-                    0.288,
-                    0.18,
-                    1.44
-                ]
-            ],
-            "BP": 0,
-            "SPAdd": 0,
-            "AttackType": "Ultra",
-            "Stance": [
-                0.5,
-                0.5,
-                0.0
-            ],
-            "Icon": "SkillIcon_1308_Ultra"
         }
     },
     "130817": {
@@ -3671,69 +2982,6 @@ var _avatarskill_ = {
                 0.0
             ],
             "Icon": "SkillIcon_1308_Ultra"
-        },
-        "v5": {
-            "Name": "Stygian Resurge",
-            "MaxLevel": 15,
-            "Type": "Ultimate",
-            "Tag": "AoE",
-            "Desc": "<br>Hidden Stat: #1[f]",
-            "Params": [
-                [
-                    0.72
-                ],
-                [
-                    0.768
-                ],
-                [
-                    0.816
-                ],
-                [
-                    0.864
-                ],
-                [
-                    0.912
-                ],
-                [
-                    0.96
-                ],
-                [
-                    1.02
-                ],
-                [
-                    1.08
-                ],
-                [
-                    1.14
-                ],
-                [
-                    1.2
-                ],
-                [
-                    1.248
-                ],
-                [
-                    1.296
-                ],
-                [
-                    1.344
-                ],
-                [
-                    1.392
-                ],
-                [
-                    1.44
-                ]
-            ],
-            "BP": 0,
-            "SPAdd": 0,
-            "AttackType": "Ultra",
-            "Stance": [
-                0.0,
-                0.5,
-                0.0
-            ],
-            "Icon": "SkillIcon_1308_Ultra"
         }
     }
 }
@@ -3841,28 +3089,6 @@ var _avatarskilltree_ = {
                 "Desc": "When the Rainblade from Acheron's Ultimate hits enemy targets with Crimson Knot, her DMG increases by <b><color style='color:#f29e38'>30.0%</color></b>, stacking up to <b><color style='color:#f29e38'>3.0</color></b> time(s) and lasting for <b><color style='color:#f29e38'>3.0</color></b> turn(s). And when Stygian Resurge triggers, additionally deals DMG for <b><color style='color:#f29e38'>6.0</color></b> times. Each time deals Lightning DMG equal to <b><color style='color:#f29e38'>25.0%</color></b> of Acheron's ATK to a single random enemy and is viewed as part of the Ultimate DMG.",
                 "Icon": "SkillIcon_1308_SkillTree3"
             }
-        },
-        "v5": {
-            "Add": {
-                "AttackAddedRatio": 0.28,
-                "CriticalDamageBase": 0.24,
-                "ThunderAddedRatio": 0.08
-            },
-            "Tree1": {
-                "Name": "Red Oni",
-                "Desc": "When battle starts, immediately gains <b><color style='color:#f29e38'>5.0</color></b> point(s) of Slashed Dream and applies <b><color style='color:#f29e38'>5.0</color></b> stack(s) of Crimson Knot to a random enemy. When Slashed Dream reaches its upper limit, for every point of Slashed Dream that exceeds the limit, gains 1 stack of Quadrivalent Ascendance. Increases the maximum stackable count for Quadrivalent Ascendance to <b><color style='color:#f29e38'>3.0</color></b>.",
-                "Icon": "SkillIcon_1308_SkillTree1"
-            },
-            "Tree2": {
-                "Name": "The Abyss",
-                "Desc": "When there are 1 or 2 Nihility characters other than Acheron in the team, the DMG dealt by Acheron's Basic ATK, Skill, and Ultimate increases to <b><color style='color:#f29e38'>115.0%</color></b> or <b><color style='color:#f29e38'>160.0%</color></b> of the original DMG respectively.",
-                "Icon": "SkillIcon_1308_SkillTree2"
-            },
-            "Tree3": {
-                "Name": "Thunder Core",
-                "Desc": "When the Rainblade from Acheron's Ultimate hits enemy targets with Crimson Knot, her DMG increases by <b><color style='color:#f29e38'>30.0%</color></b>, stacking up to <b><color style='color:#f29e38'>3.0</color></b> time(s) and lasting for <b><color style='color:#f29e38'>3.0</color></b> turn(s). And when Stygian Resurge triggers, additionally deals DMG for <b><color style='color:#f29e38'>6.0</color></b> times. Each time deals Lightning DMG equal to <b><color style='color:#f29e38'>25.0%</color></b> of Acheron's ATK to a single random enemy and is viewed as part of the Ultimate DMG.",
-                "Icon": "SkillIcon_1308_SkillTree3"
-            }
         }
     }
 }
@@ -3888,12 +3114,6 @@ var _avatarrank_ = {
             "Icon": "SkillIcon_1308_Rank1"
         },
         "v4": {
-            "Rank": 1,
-            "Name": "Silenced Sky Spake Sooth",
-            "Desc": "CRIT Rate increases by <b><color style='color:#f29e38'>18.0%</color></b> when dealing DMG to debuffed enemies.",
-            "Icon": "SkillIcon_1308_Rank1"
-        },
-        "v5": {
             "Rank": 1,
             "Name": "Silenced Sky Spake Sooth",
             "Desc": "CRIT Rate increases by <b><color style='color:#f29e38'>18.0%</color></b> when dealing DMG to debuffed enemies.",
@@ -3924,12 +3144,6 @@ var _avatarrank_ = {
             "Name": "Mute Thunder in Still Tempest",
             "Desc": "The number of Nihility characters required for the Trace \"The Abyss\" to achieve its highest possible effect is reduced by 1. When this unit's turn starts, gains 1 point of Slashed Dream and inflicts 1 stack of Crimson Knot on the enemy with the most Crimson Knot stacks.",
             "Icon": "SkillIcon_1308_Rank2"
-        },
-        "v5": {
-            "Rank": 2,
-            "Name": "Mute Thunder in Still Tempest",
-            "Desc": "The number of Nihility characters required for the Trace \"The Abyss\" to achieve its highest possible effect is reduced by 1. When this unit's turn starts, gains 1 point of Slashed Dream and inflicts 1 stack of Crimson Knot on the enemy with the most Crimson Knot stacks.",
-            "Icon": "SkillIcon_1308_Rank2"
         }
     },
     "130803": {
@@ -3952,12 +3166,6 @@ var _avatarrank_ = {
             "Icon": "SkillIcon_1308_Ultra"
         },
         "v4": {
-            "Rank": 3,
-            "Name": "Frost Bites in Death",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
-            "Icon": "SkillIcon_1308_Ultra"
-        },
-        "v5": {
             "Rank": 3,
             "Name": "Frost Bites in Death",
             "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
@@ -3988,12 +3196,6 @@ var _avatarrank_ = {
             "Name": "Shrined Fire for Mirrored Soul",
             "Desc": "When enemy targets enter combat, makes them Vulnerable to the Ultimate DMG, increasing the amount of DMG they take from the Ultimate by <b><color style='color:#f29e38'>8.0%</color></b>.",
             "Icon": "SkillIcon_1308_Rank4"
-        },
-        "v5": {
-            "Rank": 4,
-            "Name": "Shrined Fire for Mirrored Soul",
-            "Desc": "When enemy targets enter combat, makes them Vulnerable to the Ultimate DMG, increasing the amount of DMG they take from the Ultimate by <b><color style='color:#f29e38'>8.0%</color></b>.",
-            "Icon": "SkillIcon_1308_Rank4"
         }
     },
     "130805": {
@@ -4020,12 +3222,6 @@ var _avatarrank_ = {
             "Name": "Strewn Souls on Erased Earths",
             "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1308_BP"
-        },
-        "v5": {
-            "Rank": 5,
-            "Name": "Strewn Souls on Erased Earths",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
-            "Icon": "SkillIcon_1308_BP"
         }
     },
     "130806": {
@@ -4048,12 +3244,6 @@ var _avatarrank_ = {
             "Icon": "SkillIcon_1308_Rank6"
         },
         "v4": {
-            "Rank": 6,
-            "Name": "Apocalypse, the Emancipator",
-            "Desc": "Increases the All-Type RES PEN for the Ultimate DMG dealt by Acheron by <b><color style='color:#f29e38'>20.0%</color></b>. The DMG dealt by Basic ATK and Skill will also be considered as Ultimate DMG and can reduce enemy toughness regardless of Weakness Types. When Weakness is broken, triggers the Lightning Weakness Break effect.",
-            "Icon": "SkillIcon_1308_Rank6"
-        },
-        "v5": {
             "Rank": 6,
             "Name": "Apocalypse, the Emancipator",
             "Desc": "Increases the All-Type RES PEN for the Ultimate DMG dealt by Acheron by <b><color style='color:#f29e38'>20.0%</color></b>. The DMG dealt by Basic ATK and Skill will also be considered as Ultimate DMG and can reduce enemy toughness regardless of Weakness Types. When Weakness is broken, triggers the Lightning Weakness Break effect.",

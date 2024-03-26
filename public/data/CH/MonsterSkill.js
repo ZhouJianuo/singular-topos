@@ -4,7 +4,7 @@ var _monsterskill = {
     "100204001": {
         "Key": "Skill01",
         "Name": "奔袭",
-        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者防御力降低<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有@100%#基础概率使受击者防御力降低@50%#，持续@2#回合。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -17,7 +17,7 @@ var _monsterskill = {
     "100204101": {
         "Key": "Skill01",
         "Name": "奔袭",
-        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者防御力降低<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有@100%#基础概率使受击者防御力降低@50%#，持续@2#回合。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -30,7 +30,7 @@ var _monsterskill = {
     "100205001": {
         "Key": "Skill02",
         "Name": "破甲榴弹",
-        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者陷入<b>裂伤</b>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>裂伤持续伤害：<color style='color:#f29e38;'>15%自身生命值上限</color>，最多叠加<color style='color:#f29e38;'>1</color>层。<br>（如果<color style='color:#f29e38;'>500%施加者攻击力</color>的数值更低，则裂伤倍率改为这个）",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有@100%#基础概率使受击者陷入``裂伤`状态，持续@2#回合。\n裂伤持续伤害：@15%自身生命值上限#，最多叠加@1#层。\n（如果@500%施加者攻击力#的数值更低，则裂伤倍率改为这个）",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -133,7 +133,7 @@ var _monsterskill = {
     "100202002": {
         "Key": "Skill02",
         "Name": "鼓舞",
-        "Desc": "使指定敌方单体立即行动，且攻击力提高<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "使指定敌方单体立即行动，且攻击力提高@30%#，持续@2#回合。",
         "SP": 0,
         "Status": [
             210020201
@@ -153,7 +153,7 @@ var _monsterskill = {
     "100203002": {
         "Key": "Skill02",
         "Name": "掩护支援",
-        "Desc": "为指定敌方单体提供<color style='color:#f29e38;'>支援</color>，在被支援的敌方目标攻击我方目标后施放<color style='color:#f29e38;'>1</color>次追加攻击，对受到攻击的我方目标造成<1>物理伤害，对相邻目标造成<2>物理伤害。",
+        "Desc": "为指定敌方单体提供@支援#，在被支援的敌方目标攻击我方目标后施放@1#次追加攻击，对受到攻击的我方目标造成<1>物理伤害，对相邻目标造成<2>物理伤害。",
         "SP": 0,
         "Status": [
             210020301,
@@ -167,7 +167,7 @@ var _monsterskill = {
     "100203003": {
         "Key": "SkillP01",
         "Name": "掩护支援",
-        "Desc": "为指定敌方单体提供<color style='color:#f29e38;'>支援</color>，在被支援的敌方目标攻击我方目标后施放1次追加攻击，对受到攻击的我方目标及其相邻目标造成少量物理伤害。",
+        "Desc": "为指定敌方单体提供@支援#，在被支援的敌方目标攻击我方目标后施放1次追加攻击，对受到攻击的我方目标及其相邻目标造成少量物理伤害。",
         "SP": 12.0
     },
     "100301001": {
@@ -194,7 +194,7 @@ var _monsterskill = {
     "100301003": {
         "Key": "Skill07",
         "Name": "盾反",
-        "Desc": "进入<color style='color:#f29e38;'>【反击】</color>状态：在受到我方单体攻击后自身行动提前并立即对该目标施放<color style='color:#f29e38;'>【穿刺】</color>技能。",
+        "Desc": "进入@【反击】#状态：在受到我方单体攻击后自身行动提前并立即对该目标施放@【穿刺】#技能。",
         "SP": 0,
         "Prepare": [
             100301002
@@ -206,7 +206,7 @@ var _monsterskill = {
     "100301004": {
         "Key": "Skill08",
         "Name": "增援",
-        "Desc": "召唤<color style='color:#f29e38;'>【银鬃近卫】</color>。",
+        "Desc": "召唤@【银鬃近卫】#。",
         "SP": 0,
         "Summon": [
             1002040
@@ -235,7 +235,7 @@ var _monsterskill = {
     "100301103": {
         "Key": "Skill07",
         "Name": "盾反",
-        "Desc": "进入<color style='color:#f29e38;'>【反击】</color>状态，在受到我方单体攻击后获得1个额外回合，对该目标造成<1>物理伤害。",
+        "Desc": "进入@【反击】#状态，在受到我方单体攻击后获得1个额外回合，对该目标造成<1>物理伤害。",
         "SP": 0,
         "Status": [
             210030102
@@ -247,7 +247,7 @@ var _monsterskill = {
     "100301104": {
         "Key": "Skill08",
         "Name": "增援",
-        "Desc": "召唤<color style='color:#f29e38;'>【银鬃近卫】</color>。",
+        "Desc": "召唤@【银鬃近卫】#。",
         "SP": 0,
         "Summon": [
             1002040
@@ -256,7 +256,7 @@ var _monsterskill = {
     "100301105": {
         "Key": "Skill09",
         "Name": "鼓劲",
-        "Desc": "使除自身外的敌方全体立即行动，且攻击力提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+        "Desc": "使除自身外的敌方全体立即行动，且攻击力提高@50%#，持续@1#回合。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -320,7 +320,7 @@ var _monsterskill = {
     "100301303": {
         "Key": "Skill07",
         "Name": "盾反",
-        "Desc": "进入<color style='color:#f29e38;'>【反击】</color>状态，在被我方单体击中后自身行动提前并立即对该目标施放<color style='color:#f29e38;'>【穿刺】</color>技能。",
+        "Desc": "进入@【反击】#状态，在被我方单体击中后自身行动提前并立即对该目标施放@【穿刺】#技能。",
         "SP": 0,
         "Prepare": [
             100301302
@@ -358,7 +358,7 @@ var _monsterskill = {
     "100402003": {
         "Key": "Skill03",
         "Name": "戍卫气场",
-        "Desc": "为自身以外的敌方目标提供<color style='color:#f29e38;'>屏障</color>，屏障状态下的目标可抵抗除持续伤害外的所有伤害，受到攻击后解除。",
+        "Desc": "为自身以外的敌方目标提供@屏障#，屏障状态下的目标可抵抗除持续伤害外的所有伤害，受到攻击后解除。",
         "SP": 0,
         "Status": [
             210030204
@@ -378,7 +378,7 @@ var _monsterskill = {
     "100402005": {
         "Key": "Skill12",
         "Name": "围攻打援",
-        "Desc": "召唤<color style='color:#f29e38;'>【银鬃射手】</color>或<color style='color:#f29e38;'>【银鬃炮手】</color>，同时<b>锁定</b>我方单体，使敌方全体集中攻击该目标。",
+        "Desc": "召唤@【银鬃射手】#或@【银鬃炮手】#，同时``锁定`我方单体，使敌方全体集中攻击该目标。",
         "SP": 0,
         "Status": [
             210030201
@@ -411,7 +411,7 @@ var _monsterskill = {
     "100402103": {
         "Key": "Skill03",
         "Name": "戍卫气场",
-        "Desc": "为自身以外的敌方目标提供<color style='color:#f29e38;'>屏障</color>，屏障状态下的目标可抵抗除持续伤害外的所有伤害，受到攻击后解除。",
+        "Desc": "为自身以外的敌方目标提供@屏障#，屏障状态下的目标可抵抗除持续伤害外的所有伤害，受到攻击后解除。",
         "SP": 0,
         "Status": [
             210030204
@@ -431,7 +431,7 @@ var _monsterskill = {
     "100402105": {
         "Key": "Skill12",
         "Name": "围攻打援",
-        "Desc": "召唤<color style='color:#f29e38;'>【银鬃射手】</color>，同时<b>锁定</b>我方单体，使敌方全体集中攻击该目标。",
+        "Desc": "召唤@【银鬃射手】#，同时``锁定`我方单体，使敌方全体集中攻击该目标。",
         "SP": 0,
         "Status": [
             210030201
@@ -464,7 +464,7 @@ var _monsterskill = {
     "100402203": {
         "Key": "Skill03",
         "Name": "戍卫气场",
-        "Desc": "施放<color style='color:#f29e38;'>【全体护盾】</color>吸收伤害，锁定敌方全体的韧性。基础盾量为<color style='color:#f29e38;'>40%生命值上限</color>；场上每存在一个召唤友方，盾量额外提升<color style='color:#f29e38;'>40%生命值上限</color>。护盾破除后，自身和精英敌人受到<color style='color:#f29e38;'>自身30%生命值上限</color>的反噬伤害，低级敌人受到<color style='color:#f29e38;'>自身50%生命值上限</color>的反噬伤害",
+        "Desc": "施放@【全体护盾】#吸收伤害，锁定敌方全体的韧性。基础盾量为@40%生命值上限#；场上每存在一个召唤友方，盾量额外提升@40%生命值上限#。护盾破除后，自身和精英敌人受到@自身30%生命值上限#的反噬伤害，低级敌人受到@自身50%生命值上限#的反噬伤害",
         "SP": 0,
         "Status": [
             210040223,
@@ -474,7 +474,7 @@ var _monsterskill = {
     "100402204": {
         "Key": "Skill04",
         "Name": "极寒瀑流",
-        "Desc": "对我方全体造成<1>冰属性伤害。使自身造成的伤害提高<color style='color:#f29e38;'>12%</color>，可叠加。",
+        "Desc": "对我方全体造成<1>冰属性伤害。使自身造成的伤害提高@12%#，可叠加。",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true,
@@ -488,7 +488,7 @@ var _monsterskill = {
     "100402205": {
         "Key": "Skill05",
         "Name": "围攻",
-        "Desc": "杰帕德<b>锁定</b>指定我方单体，使敌方全体立即集中攻击该目标。",
+        "Desc": "杰帕德``锁定`指定我方单体，使敌方全体立即集中攻击该目标。",
         "SP": 0,
         "Status": [
             210030201
@@ -504,7 +504,7 @@ var _monsterskill = {
     "100402208": {
         "Key": "Skill08",
         "Name": "以牙还牙",
-        "Desc": "进入<color style='color:#f29e38;'>【反击】</color>状态，持续<color style='color:#f29e38;'>1</color>回合。在该状态下受到我方目标攻击后，立即对该目标造成<1>冰属性伤害。该效果最多触发<color style='color:#f29e38;'>1</color>次。",
+        "Desc": "进入@【反击】#状态，持续@1#回合。在该状态下受到我方目标攻击后，立即对该目标造成<1>冰属性伤害。该效果最多触发@1#次。",
         "SP": 0,
         "Elem": "Ice",
         "Status": [
@@ -517,7 +517,7 @@ var _monsterskill = {
     "100402209": {
         "Key": "SkillP01",
         "Name": "支援",
-        "Desc": "阶段开始时，立即召唤<color style='color:#f29e38;'>【银鬃近卫】</color>和<color style='color:#f29e38;'>【银鬃炮手】</color>。",
+        "Desc": "阶段开始时，立即召唤@【银鬃近卫】#和@【银鬃炮手】#。",
         "SP": 0,
         "Summon": [
             1002041,
@@ -527,7 +527,7 @@ var _monsterskill = {
     "100402210": {
         "Key": "SkillP01",
         "Name": "支援",
-        "Desc": "阶段开始时，立即召唤<color style='color:#f29e38;'>【银鬃炮手】</color>。",
+        "Desc": "阶段开始时，立即召唤@【银鬃炮手】#。",
         "SP": 0,
         "Summon": [
             1002030
@@ -536,7 +536,7 @@ var _monsterskill = {
     "100402211": {
         "Key": "SkillP01",
         "Name": "支援",
-        "Desc": "阶段开始时，立即召唤<color style='color:#f29e38;'>【银鬃尉官（完整）】</color>。",
+        "Desc": "阶段开始时，立即召唤@【银鬃尉官（完整）】#。",
         "SP": 0,
         "Summon": [
             1003012
@@ -565,7 +565,7 @@ var _monsterskill = {
     "100402303": {
         "Key": "Skill03",
         "Name": "戍卫气场",
-        "Desc": "施放<color style='color:#f29e38;'>【全体护盾】</color>吸收伤害，锁定敌方全体的韧性。基础盾量为<color style='color:#f29e38;'>44.33%生命值上限</color>（1-2阶段）或<color style='color:#f29e38;'>29.26%生命值上限</color>（3阶段）；<br>场上每存在一个召唤友方，盾量额外提升1个基础值。<br>护盾破除后，自身和精英敌人受到<color style='color:#f29e38;'>自身30%生命值上限</color>的反噬伤害，低级敌人受到<color style='color:#f29e38;'>自身50%生命值上限</color>的反噬伤害",
+        "Desc": "施放@【全体护盾】#吸收伤害，锁定敌方全体的韧性。基础盾量为@44.33%生命值上限#（1-2阶段）或@29.26%生命值上限#（3阶段）；\n场上每存在一个召唤友方，盾量额外提升1个基础值。\n护盾破除后，自身和精英敌人受到@自身30%生命值上限#的反噬伤害，低级敌人受到@自身50%生命值上限#的反噬伤害",
         "SP": 0,
         "Status": [
             210040223,
@@ -575,7 +575,7 @@ var _monsterskill = {
     "100402304": {
         "Key": "Skill04",
         "Name": "极寒瀑流",
-        "Desc": "对我方全体造成<1>冰属性伤害。使自身造成的伤害提高<color style='color:#f29e38;'>12%</color>，可叠加。<br>第三阶段的生命值变为原本的<color style='color:#f29e38;'>1.5</color>倍。",
+        "Desc": "对我方全体造成<1>冰属性伤害。使自身造成的伤害提高@12%#，可叠加。\n第三阶段的生命值变为原本的@1.5#倍。",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true,
@@ -589,7 +589,7 @@ var _monsterskill = {
     "100402305": {
         "Key": "Skill05",
         "Name": "围攻",
-        "Desc": "杰帕德<b>锁定</b>指定我方单体，使敌方全体立即集中攻击该目标。",
+        "Desc": "杰帕德``锁定`指定我方单体，使敌方全体立即集中攻击该目标。",
         "SP": 0,
         "Status": [
             210030201
@@ -605,7 +605,7 @@ var _monsterskill = {
     "100402308": {
         "Key": "Skill08",
         "Name": "以牙还牙",
-        "Desc": "进入<color style='color:#f29e38;'>【反击】</color>状态，持续<color style='color:#f29e38;'>1</color>回合。在该状态下受到我方目标攻击后，立即对该目标造成<1>冰属性伤害。该效果最多触发<color style='color:#f29e38;'>1</color>次。",
+        "Desc": "进入@【反击】#状态，持续@1#回合。在该状态下受到我方目标攻击后，立即对该目标造成<1>冰属性伤害。该效果最多触发@1#次。",
         "SP": 0,
         "Status": [
             210040222
@@ -617,7 +617,7 @@ var _monsterskill = {
     "100402309": {
         "Key": "SkillP01",
         "Name": "支援",
-        "Desc": "阶段开始时，立即召唤<color style='color:#f29e38;'>【银鬃近卫】</color>和<color style='color:#f29e38;'>【银鬃炮手】</color>。",
+        "Desc": "阶段开始时，立即召唤@【银鬃近卫】#和@【银鬃炮手】#。",
         "SP": 0,
         "Summon": [
             1002041,
@@ -627,7 +627,7 @@ var _monsterskill = {
     "100402310": {
         "Key": "SkillP02",
         "Name": "支援",
-        "Desc": "阶段开始时，立即召唤<color style='color:#f29e38;'>【银鬃炮手】</color>。",
+        "Desc": "阶段开始时，立即召唤@【银鬃炮手】#。",
         "SP": 0,
         "Summon": [
             1002030
@@ -636,7 +636,7 @@ var _monsterskill = {
     "100402311": {
         "Key": "SkillP03",
         "Name": "支援",
-        "Desc": "阶段开始时，立即召唤<color style='color:#f29e38;'>【银鬃尉官（完整）1.2新增】</color>。",
+        "Desc": "阶段开始时，立即召唤@【银鬃尉官（完整）1.2新增】#。",
         "SP": 0,
         "Summon": [
             1003013
@@ -667,7 +667,7 @@ var _monsterskill = {
     "100401002": {
         "Key": "Skill02",
         "Name": "漫长冰期的预兆",
-        "Desc": "召唤<color style='color:#f29e38;'>【冰锋】</color>。",
+        "Desc": "召唤@【冰锋】#。",
         "SP": 0,
         "Summon": [
             1002011,
@@ -688,7 +688,7 @@ var _monsterskill = {
     "100401004": {
         "Key": "Skill04",
         "Name": "永囚于此的白霜",
-        "Desc": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>冻结附加伤害：<2>冰属性伤害。",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入``冻结`状态，持续@2#回合。\n冻结附加伤害：<2>冰属性伤害。",
         "SP": 10.0,
         "Elem": "Ice",
         "Status": [
@@ -702,7 +702,7 @@ var _monsterskill = {
     "100401005": {
         "Key": "Skill05",
         "Name": "雪国圣徒的烈怒",
-        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态：造成的伤害提升<color style='color:#f29e38;'>25%</color>，持续<color style='color:#f29e38;'>1</color>回合。下次行动时对我方全体施放<color style='color:#f29e38;'>【无尽长冬的绝罚】</color>。",
+        "Desc": "进入@蓄力#状态：造成的伤害提升@25%#，持续@1#回合。下次行动时对我方全体施放@【无尽长冬的绝罚】#。",
         "SP": 0,
         "Prepare": [
             100401003
@@ -730,7 +730,7 @@ var _monsterskill = {
     "100401102": {
         "Key": "Skill02",
         "Name": "漫长冰期的预兆",
-        "Desc": "召唤<color style='color:#f29e38;'>【冰锋】</color>。",
+        "Desc": "召唤@【冰锋】#。",
         "SP": 0,
         "Summon": [
             1002015,
@@ -751,7 +751,7 @@ var _monsterskill = {
     "100401104": {
         "Key": "Skill04",
         "Name": "永囚于此的白霜",
-        "Desc": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>冻结附加伤害：<2>冰属性伤害。",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入``冻结`状态，持续@1#回合。\n冻结附加伤害：<2>冰属性伤害。",
         "SP": 10.0,
         "Elem": "Ice",
         "Status": [
@@ -765,7 +765,7 @@ var _monsterskill = {
     "100401105": {
         "Key": "Skill05",
         "Name": "雪国圣徒的烈怒",
-        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态：造成的伤害提升<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>1</color>回合。下次行动时对我方全体施放<color style='color:#f29e38;'>【无尽长冬的绝罚】</color>。",
+        "Desc": "进入@蓄力#状态：造成的伤害提升@30%#，持续@1#回合。下次行动时对我方全体施放@【无尽长冬的绝罚】#。",
         "SP": 0,
         "Prepare": [
             100401103
@@ -788,7 +788,7 @@ var _monsterskill = {
     "100401107": {
         "Key": "PassiveSkill01",
         "Name": "愈寒愈烈",
-        "Desc": "每成功触发一次冻结，自身及召唤物造成的伤害提高<color style='color:#f29e38;'>10%</color>，可叠加。",
+        "Desc": "每成功触发一次冻结，自身及召唤物造成的伤害提高@10%#，可叠加。",
         "SP": 0,
         "Status": [
             210040111
@@ -807,7 +807,7 @@ var _monsterskill = {
     "100401202": {
         "Key": "Skill02",
         "Name": "漫长冰期的预兆",
-        "Desc": "召唤<color style='color:#f29e38;'>【冰锋】</color>。",
+        "Desc": "召唤@【冰锋】#。",
         "SP": 0,
         "Summon": [
             1002015,
@@ -828,7 +828,7 @@ var _monsterskill = {
     "100401204": {
         "Key": "Skill04",
         "Name": "永囚于此的白霜",
-        "Desc": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>冻结附加伤害：<2>冰属性伤害。",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入``冻结`状态，持续@1#回合。\n冻结附加伤害：<2>冰属性伤害。",
         "SP": 10.0,
         "Elem": "Ice",
         "Status": [
@@ -842,7 +842,7 @@ var _monsterskill = {
     "100401205": {
         "Key": "Skill05",
         "Name": "雪国圣徒的烈怒",
-        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态：造成的伤害提升<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>1</color>回合。下次行动时对我方全体施放<color style='color:#f29e38;'>【无尽长冬的绝罚】</color>。",
+        "Desc": "进入@蓄力#状态：造成的伤害提升@30%#，持续@1#回合。下次行动时对我方全体施放@【无尽长冬的绝罚】#。",
         "SP": 0,
         "Prepare": [
             100401203
@@ -865,7 +865,7 @@ var _monsterskill = {
     "100401207": {
         "Key": "PassiveSkill01",
         "Name": "愈寒愈烈",
-        "Desc": "每成功触发一次冻结，自身及召唤物造成的伤害提高<color style='color:#f29e38;'>10%</color>，可叠加。<br>第三阶段的生命值变为原本的<color style='color:#f29e38;'>1.66</color>倍。<br>第三阶段生命值降低至<color style='color:#f29e38;'>50%</color>以下，暴风雪将席卷战场...",
+        "Desc": "每成功触发一次冻结，自身及召唤物造成的伤害提高@10%#，可叠加。\n第三阶段的生命值变为原本的@1.66#倍。\n第三阶段生命值降低至@50%#以下，暴风雪将席卷战场...",
         "SP": 0,
         "Status": [
             210040111
@@ -890,7 +890,7 @@ var _monsterskill = {
     "100403003": {
         "Key": "Skill03",
         "Name": "增援协同",
-        "Desc": "召唤<color style='color:#f29e38;'>【银鬃近卫】</color>或<color style='color:#f29e38;'>【银鬃射手】</color>。",
+        "Desc": "召唤@【银鬃近卫】#或@【银鬃射手】#。",
         "SP": 0,
         "Summon": [
             1002040,
@@ -900,7 +900,7 @@ var _monsterskill = {
     "100403004": {
         "Key": "Skill04",
         "Name": "压制射击",
-        "Desc": "对指定我方单体造成<1>风属性伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>50%</color>。",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并使受到攻击的我方目标行动延后@50%#。",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true,
@@ -921,7 +921,7 @@ var _monsterskill = {
     "100403102": {
         "Key": "Skill02",
         "Name": "作战再部署",
-        "Desc": "解除指定敌方单体的全部负面效果，并使该目标立即行动，且造成的伤害提高<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>1</color>回合。不可对自身释放。",
+        "Desc": "解除指定敌方单体的全部负面效果，并使该目标立即行动，且造成的伤害提高@20%#，持续@1#回合。不可对自身释放。",
         "SP": 0
     },
     "100403103": {
@@ -933,7 +933,7 @@ var _monsterskill = {
     "100403104": {
         "Key": "Skill04",
         "Name": "压制射击",
-        "Desc": "对指定我方单体造成<1>风属性伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>50%</color>。",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并使受到攻击的我方目标行动延后@50%#。",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true,
@@ -975,7 +975,7 @@ var _monsterskill = {
     "100501004": {
         "Key": "Skill02",
         "Name": "冷酷灭世者之唤",
-        "Desc": "召唤2个<color style='color:#f29e38;'>【无尽寒冬之槊】</color>。其中一个行动延后<color style='color:#f29e38;'>80%</color>。",
+        "Desc": "召唤2个@【无尽寒冬之槊】#。其中一个行动延后@80%#。",
         "SP": 0,
         "Summon": [
             1002013,
@@ -985,7 +985,7 @@ var _monsterskill = {
     "100501005": {
         "Key": "Skill07",
         "Name": "创世和弦",
-        "Desc": "对指定我方单体造成<1>虚数属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者陷入<b>禁锢</b>状态：行动延后<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害，并有@100%#基础概率使受击者陷入``禁锢`状态：行动延后@50%#，持续@1#回合。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "Status": [
@@ -998,7 +998,7 @@ var _monsterskill = {
     "100501006": {
         "Key": "Skill08",
         "Name": "创世纪的前奏",
-        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态。下次行动对我方全体施放<color style='color:#f29e38;'>【创世绝响】</color>。",
+        "Desc": "进入@蓄力#状态。下次行动对我方全体施放@【创世绝响】#。",
         "SP": 0,
         "Prepare": [
             100501007
@@ -1021,7 +1021,7 @@ var _monsterskill = {
     "100501008": {
         "Key": "Skill10",
         "Name": "灭世纪的预兆",
-        "Desc": "<b>锁定</b>我方单体，下次行动对该目标施放<color style='color:#f29e38;'>【裂魂寒流】</color>。",
+        "Desc": "``锁定`我方单体，下次行动对该目标施放@【裂魂寒流】#。",
         "SP": 0,
         "Prepare": [
             100501002
@@ -1033,7 +1033,7 @@ var _monsterskill = {
     "100501009": {
         "Key": "SkillP01",
         "Name": "创世者的决意",
-        "Desc": "阶段转换后速度提高<color style='color:#f29e38;'>20</color>，生命值上限改为原本的<color style='color:#f29e38;'>60%</color>，韧性改为原本的<color style='color:#f29e38;'>88.8%</color>。攻击造成的伤害转变为虚数属性。",
+        "Desc": "阶段转换后速度提高@20#，生命值上限改为原本的@60%#，韧性改为原本的@88.8%#。攻击造成的伤害转变为虚数属性。",
         "SP": 0
     },
     "100501101": {
@@ -1070,7 +1070,7 @@ var _monsterskill = {
     "100501104": {
         "Key": "Skill02",
         "Name": "冷酷灭世者之唤",
-        "Desc": "召唤2个<color style='color:#f29e38;'>【无尽寒冬之槊】</color>。其中一个行动延后<color style='color:#f29e38;'>80%</color>。",
+        "Desc": "召唤2个@【无尽寒冬之槊】#。其中一个行动延后@80%#。",
         "SP": 0,
         "Summon": [
             1002013,
@@ -1080,7 +1080,7 @@ var _monsterskill = {
     "100501105": {
         "Key": "Skill07",
         "Name": "创世和弦",
-        "Desc": "对指定我方单体造成<1>虚数属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者陷入<b>禁锢</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>50%</color>。",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害，并有@100%#基础概率使受击者陷入``禁锢`状态，持续@1#回合。\n禁锢：无法行动，行动延后@50%#。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "Status": [
@@ -1093,7 +1093,7 @@ var _monsterskill = {
     "100501106": {
         "Key": "Skill08",
         "Name": "创世纪的前奏",
-        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态。下次行动对我方全体施放<color style='color:#f29e38;'>【创世绝响】</color>。",
+        "Desc": "进入@蓄力#状态。下次行动对我方全体施放@【创世绝响】#。",
         "SP": 0,
         "Prepare": [
             100501107
@@ -1116,7 +1116,7 @@ var _monsterskill = {
     "100501108": {
         "Key": "Skill10",
         "Name": "灭世纪的预兆",
-        "Desc": "<b>锁定</b>我方单体，下次行动对该目标施放<color style='color:#f29e38;'>【裂魂寒流】</color>。",
+        "Desc": "``锁定`我方单体，下次行动对该目标施放@【裂魂寒流】#。",
         "SP": 0,
         "Prepare": [
             100501102
@@ -1128,7 +1128,7 @@ var _monsterskill = {
     "100501109": {
         "Key": "SkillP01",
         "Name": "创世者的决意",
-        "Desc": "阶段转换后速度提高<color style='color:#f29e38;'>20</color>，生命值上限改为原本的<color style='color:#f29e38;'>60%</color>，韧性改为原本的<color style='color:#f29e38;'>88.8%</color>。攻击造成的伤害转变为虚数属性。",
+        "Desc": "阶段转换后速度提高@20#，生命值上限改为原本的@60%#，韧性改为原本的@88.8%#。攻击造成的伤害转变为虚数属性。",
         "SP": 0
     },
     "100501110": {
@@ -1150,7 +1150,7 @@ var _monsterskill = {
     "100501202": {
         "Key": "Skill06",
         "Name": "裂魂寒流",
-        "Desc": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>冻结附加伤害：<2>冰属性伤害。",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，并有@100%#基础概率使受击者陷入``冻结`状态，持续@1#回合。\n冻结附加伤害：<2>冰属性伤害。",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true,
@@ -1172,7 +1172,7 @@ var _monsterskill = {
     "100501204": {
         "Key": "Skill02",
         "Name": "冷酷灭世者之唤",
-        "Desc": "召唤2个<color style='color:#f29e38;'>【无尽寒冬之槊】</color>。分别行动延后<color style='color:#f29e38;'>30%</color>和<color style='color:#f29e38;'>80%</color>。",
+        "Desc": "召唤2个@【无尽寒冬之槊】#。分别行动延后@30%#和@80%#。",
         "SP": 0,
         "Summon": [
             1002017,
@@ -1182,7 +1182,7 @@ var _monsterskill = {
     "100501205": {
         "Key": "Skill07",
         "Name": "创世和弦",
-        "Desc": "对指定我方单体造成<1>虚数属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者陷入<b>禁锢</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>50%</color>。",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害，并有@100%#基础概率使受击者陷入``禁锢`状态，持续@1#回合。\n禁锢：无法行动，行动延后@50%#。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "Status": [
@@ -1195,7 +1195,7 @@ var _monsterskill = {
     "100501206": {
         "Key": "Skill08",
         "Name": "创世纪的前奏",
-        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态。下次行动对我方全体施放<color style='color:#f29e38;'>【创世绝响】</color>。",
+        "Desc": "进入@蓄力#状态。下次行动对我方全体施放@【创世绝响】#。",
         "SP": 0,
         "Prepare": [
             100501207
@@ -1218,7 +1218,7 @@ var _monsterskill = {
     "100501208": {
         "Key": "Skill10",
         "Name": "灭世纪的预兆",
-        "Desc": "<b>锁定</b>我方单体，下次行动对该目标施放<color style='color:#f29e38;'>【裂魂寒流】</color>。",
+        "Desc": "``锁定`我方单体，下次行动对该目标施放@【裂魂寒流】#。",
         "SP": 0,
         "Prepare": [
             100501202
@@ -1230,7 +1230,7 @@ var _monsterskill = {
     "100501209": {
         "Key": "SkillP02",
         "Name": "灭世者的决意",
-        "Desc": "对指定我方单体施放<color style='color:#f29e38;'>【裂魂寒流】</color>有<color style='color:#f29e38;'>100%</color>基础概率使该目标陷入<b>冻结</b>状态。",
+        "Desc": "对指定我方单体施放@【裂魂寒流】#有@100%#基础概率使该目标陷入``冻结`状态。",
         "SP": 0,
         "Elem": "Ice",
         "Prepare": [
@@ -1240,7 +1240,7 @@ var _monsterskill = {
     "100501210": {
         "Key": "SkillP01",
         "Name": "创世者的决意",
-        "Desc": "阶段转换后速度提高<color style='color:#f29e38;'>40</color>，生命值上限改为原本的<color style='color:#f29e38;'>75%</color>，韧性改为原本的<color style='color:#f29e38;'>88.8%</color>。攻击造成的伤害转变为虚数属性。",
+        "Desc": "阶段转换后速度提高@40#，生命值上限改为原本的@75%#，韧性改为原本的@88.8%#。攻击造成的伤害转变为虚数属性。",
         "SP": 0
     },
     "101201001": {
@@ -1256,7 +1256,7 @@ var _monsterskill = {
     "101201002": {
         "Key": "Skill05",
         "Name": "自愈模块",
-        "Desc": "立即为敌方全体回复<color style='color:#f29e38;'>25%生命值上限</color>。",
+        "Desc": "立即为敌方全体回复@25%生命值上限#。",
         "SP": 0
     },
     "101201101": {
@@ -1272,7 +1272,7 @@ var _monsterskill = {
     "101201102": {
         "Key": "Skill05",
         "Name": "自愈模块",
-        "Desc": "立即为敌方全体回复<color style='color:#f29e38;'>25%生命值上限</color>。",
+        "Desc": "立即为敌方全体回复@25%生命值上限#。",
         "SP": 0
     },
     "101202001": {
@@ -1288,7 +1288,7 @@ var _monsterskill = {
     "101202002": {
         "Key": "Skill02",
         "Name": "定时模块",
-        "Desc": "下次行动施放<color style='color:#f29e38;'>【自爆模块】</color>。",
+        "Desc": "下次行动施放@【自爆模块】#。",
         "SP": 0,
         "Prepare": [
             101202003
@@ -1308,7 +1308,7 @@ var _monsterskill = {
     "101202004": {
         "Key": "PassiveSkillInitiate",
         "Name": "毁灭连锁",
-        "Desc": "受到致命攻击后，对相邻的敌方目标造成<color style='color:#f29e38;'>120%自身生命值上限</color>的火属性伤害，造成<color style='color:#f29e38;'>2.0</color>点火属性削韧。",
+        "Desc": "受到致命攻击后，对相邻的敌方目标造成@120%自身生命值上限#的火属性伤害，造成@2.0#点火属性削韧。",
         "SP": 0,
         "Elem": "Fire"
     },
@@ -1331,7 +1331,7 @@ var _monsterskill = {
     "101202102": {
         "Key": "Skill02",
         "Name": "定时模块",
-        "Desc": "下次行动施放<color style='color:#f29e38;'>【自爆模块】</color>。",
+        "Desc": "下次行动施放@【自爆模块】#。",
         "SP": 0,
         "Prepare": [
             101202103
@@ -1351,7 +1351,7 @@ var _monsterskill = {
     "101202104": {
         "Key": "PassiveSkillInitiate",
         "Name": "毁灭连锁",
-        "Desc": "受到致命攻击后，对相邻的敌方目标造成<color style='color:#f29e38;'>120%自身生命值上限</color>的火属性伤害，造成<color style='color:#f29e38;'>2.0</color>点火属性削韧。",
+        "Desc": "受到致命攻击后，对相邻的敌方目标造成@120%自身生命值上限#的火属性伤害，造成@2.0#点火属性削韧。",
         "SP": 0,
         "Elem": "Fire"
     },
@@ -1374,7 +1374,7 @@ var _monsterskill = {
     "101204002": {
         "Key": "PassiveSkill03",
         "Name": "巨掌之间",
-        "Desc": "对陷入<color style='color:#f29e38;'>【拘束】</color>状态的我方目标造成<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。",
+        "Desc": "对陷入@【拘束】#状态的我方目标造成@50%生命值上限#的物理伤害。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1390,7 +1390,7 @@ var _monsterskill = {
     "101204004": {
         "Key": "Skill03",
         "Name": "巨掌之间",
-        "Desc": "使指定我方单体陷入<color style='color:#f29e38;'>【拘束】</color>状态，并造成一次<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。当自身弱点被击破时，我方目标的【拘束】状态立即解除。",
+        "Desc": "使指定我方单体陷入@【拘束】#状态，并造成一次@50%生命值上限#的物理伤害。当自身弱点被击破时，我方目标的【拘束】状态立即解除。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1400,7 +1400,7 @@ var _monsterskill = {
     "101204005": {
         "Key": "Skill04",
         "Name": "失能电场",
-        "Desc": "对陷入<color style='color:#f29e38;'>【拘束】</color>状态的我方目标造成<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。",
+        "Desc": "对陷入@【拘束】#状态的我方目标造成@50%生命值上限#的物理伤害。",
         "SP": 10.0,
         "Status": [
             210040204
@@ -1420,7 +1420,7 @@ var _monsterskill = {
     "101204007": {
         "Key": "Skill06",
         "Name": "过载警告",
-        "Desc": "辅助机械臂单元进入<color style='color:#f29e38;'>【过载】</color>状态，并立即解除我方目标的【拘束】状态。<br>进入该状态后辅助机械臂单元下次行动施放<color style='color:#f29e38;'>【控场起爆】</color>。",
+        "Desc": "辅助机械臂单元进入@【过载】#状态，并立即解除我方目标的【拘束】状态。\n进入该状态后辅助机械臂单元下次行动施放@【控场起爆】#。",
         "SP": 0,
         "Prepare": [
             101204006
@@ -1439,7 +1439,7 @@ var _monsterskill = {
     "101204102": {
         "Key": "PassiveSkill03",
         "Name": "巨掌之间",
-        "Desc": "对陷入<color style='color:#f29e38;'>【拘束】</color>状态的我方目标造成<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。",
+        "Desc": "对陷入@【拘束】#状态的我方目标造成@50%生命值上限#的物理伤害。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1455,7 +1455,7 @@ var _monsterskill = {
     "101204104": {
         "Key": "Skill03",
         "Name": "巨掌之间",
-        "Desc": "使指定我方单体陷入<color style='color:#f29e38;'>【拘束】</color>状态，并造成一次<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。当自身弱点被击破，或生命值低于<color style='color:#f29e38;'>50%</color>时，我方目标的【拘束】状态立即解除。",
+        "Desc": "使指定我方单体陷入@【拘束】#状态，并造成一次@50%生命值上限#的物理伤害。当自身弱点被击破，或生命值低于@50%#时，我方目标的【拘束】状态立即解除。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1465,7 +1465,7 @@ var _monsterskill = {
     "101204105": {
         "Key": "Skill04",
         "Name": "失能电场",
-        "Desc": "对陷入<color style='color:#f29e38;'>【拘束】</color>状态的我方目标造成<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。",
+        "Desc": "对陷入@【拘束】#状态的我方目标造成@50%生命值上限#的物理伤害。",
         "SP": 10.0,
         "Status": [
             210040113
@@ -1485,7 +1485,7 @@ var _monsterskill = {
     "101204107": {
         "Key": "Skill06",
         "Name": "过载警告",
-        "Desc": "辅助机械臂单元进入<color style='color:#f29e38;'>【过载】</color>状态，并立即解除我方目标的【拘束】状态。进入该状态后辅助机械臂单元下次行动施放<color style='color:#f29e38;'>【控场起爆】</color>。",
+        "Desc": "辅助机械臂单元进入@【过载】#状态，并立即解除我方目标的【拘束】状态。进入该状态后辅助机械臂单元下次行动施放@【控场起爆】#。",
         "SP": 0,
         "Prepare": [
             101204106
@@ -1504,7 +1504,7 @@ var _monsterskill = {
     "101204202": {
         "Key": "PassiveSkill03",
         "Name": "巨掌之间",
-        "Desc": "对陷入【拘束】状态的我方目标造成<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。",
+        "Desc": "对陷入【拘束】状态的我方目标造成@50%生命值上限#的物理伤害。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1520,7 +1520,7 @@ var _monsterskill = {
     "101204204": {
         "Key": "Skill03",
         "Name": "巨掌之间",
-        "Desc": "使指定我方单体陷入<color style='color:#f29e38;'>【拘束】</color>状态，并造成一次<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。当自身弱点被击破，或生命值低于<color style='color:#f29e38;'>50%</color>时，我方目标的【拘束】状态立即解除。",
+        "Desc": "使指定我方单体陷入@【拘束】#状态，并造成一次@50%生命值上限#的物理伤害。当自身弱点被击破，或生命值低于@50%#时，我方目标的【拘束】状态立即解除。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1530,7 +1530,7 @@ var _monsterskill = {
     "101204205": {
         "Key": "Skill04",
         "Name": "失能电场",
-        "Desc": "对陷入<color style='color:#f29e38;'>【拘束】</color>状态的我方目标造成<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。",
+        "Desc": "对陷入@【拘束】#状态的我方目标造成@50%生命值上限#的物理伤害。",
         "SP": 10.0,
         "Status": [
             210040113
@@ -1550,7 +1550,7 @@ var _monsterskill = {
     "101204207": {
         "Key": "Skill06",
         "Name": "过载警告",
-        "Desc": "辅助机械臂单元进入<color style='color:#f29e38;'>【过载】</color>状态，并立即解除我方目标的【拘束】状态。进入该状态后辅助机械臂单元下次行动施放<color style='color:#f29e38;'>【控场起爆】</color>。",
+        "Desc": "辅助机械臂单元进入@【过载】#状态，并立即解除我方目标的【拘束】状态。进入该状态后辅助机械臂单元下次行动施放@【控场起爆】#。",
         "SP": 0,
         "Prepare": [
             101204206
@@ -1563,7 +1563,7 @@ var _monsterskill = {
     "101301001": {
         "Key": "Skill05",
         "Name": "爆裂指令",
-        "Desc": "召唤<color style='color:#f29e38;'>【自动机兵•蜘蛛】</color>。",
+        "Desc": "召唤@【自动机兵•蜘蛛】#。",
         "SP": 0,
         "Summon": [
             1012021
@@ -1572,7 +1572,7 @@ var _monsterskill = {
     "101301002": {
         "Key": "Skill04",
         "Name": "愤怒指令",
-        "Desc": "有<color style='color:#f29e38;'>50%</color>基础概率使我方全体陷入<b>嘲讽</b>状态，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "有@50%#基础概率使我方全体陷入``嘲讽`状态，持续@2#回合。",
         "SP": 0,
         "Status": [
             30020010
@@ -1581,7 +1581,7 @@ var _monsterskill = {
     "101301003": {
         "Key": "Skill02",
         "Name": "过载指令",
-        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态，下次行动对我方全体施放<color style='color:#f29e38;'>【剿灭指令】</color>。",
+        "Desc": "进入@蓄力#状态，下次行动对我方全体施放@【剿灭指令】#。",
         "SP": 0,
         "Prepare": [
             101301004
@@ -1617,7 +1617,7 @@ var _monsterskill = {
     "101301101": {
         "Key": "Skill05",
         "Name": "爆裂指令",
-        "Desc": "召唤<color style='color:#f29e38;'>【自动机兵•蜘蛛】</color>和<color style='color:#f29e38;'>【自动机兵•甲虫】</color>。",
+        "Desc": "召唤@【自动机兵•蜘蛛】#和@【自动机兵•甲虫】#。",
         "SP": 0,
         "Summon": [
             1012021,
@@ -1627,7 +1627,7 @@ var _monsterskill = {
     "101301102": {
         "Key": "Skill04",
         "Name": "愤怒指令",
-        "Desc": "有<color style='color:#f29e38;'>100%</color>基础概率使我方全体陷入<b>嘲讽</b>状态，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "有@100%#基础概率使我方全体陷入``嘲讽`状态，持续@2#回合。",
         "SP": 0,
         "Status": [
             30020010
@@ -1636,7 +1636,7 @@ var _monsterskill = {
     "101301103": {
         "Key": "Skill02",
         "Name": "过载指令",
-        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态：造成的伤害提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合。下次行动对我方全体施放<color style='color:#f29e38;'>【剿灭指令】</color>。",
+        "Desc": "进入@蓄力#状态：造成的伤害提高@50%#，持续@1#回合。下次行动对我方全体施放@【剿灭指令】#。",
         "SP": 0,
         "Prepare": [
             101301104
@@ -1675,7 +1675,7 @@ var _monsterskill = {
     "101301203": {
         "Key": "Skill05",
         "Name": "爆裂指令",
-        "Desc": "召唤<color style='color:#f29e38;'>【自动机兵•蜘蛛】</color>。",
+        "Desc": "召唤@【自动机兵•蜘蛛】#。",
         "SP": 0,
         "Summon": [
             1012020
@@ -1684,7 +1684,7 @@ var _monsterskill = {
     "101301204": {
         "Key": "Skill04",
         "Name": "愤怒指令",
-        "Desc": "有<color style='color:#f29e38;'>100%</color>基础概率使我方全体陷入<b>嘲讽</b>状态，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "有@100%#基础概率使我方全体陷入``嘲讽`状态，持续@2#回合。",
         "SP": 0,
         "Status": [
             30020010
@@ -1693,7 +1693,7 @@ var _monsterskill = {
     "101301205": {
         "Key": "Skill02",
         "Name": "过载指令",
-        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态：造成的伤害提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合。下次行动对我方全体施放<color style='color:#f29e38;'>【剿灭指令】</color>。",
+        "Desc": "进入@蓄力#状态：造成的伤害提高@50%#，持续@1#回合。下次行动对我方全体施放@【剿灭指令】#。",
         "SP": 0,
         "Prepare": [
             101301206
@@ -1739,7 +1739,7 @@ var _monsterskill = {
     "101301208": {
         "Key": "PassiveSkill01",
         "Name": "毁灭指令",
-        "Desc": "第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>2.0</color>倍。<br>每次施放【过载指令】时使自身造成的伤害额外提高<color style='color:#f29e38;'>60%</color>，可叠加。",
+        "Desc": "第三阶段的生命值上限改为原本的@2.0#倍。\n每次施放【过载指令】时使自身造成的伤害额外提高@60%#，可叠加。",
         "SP": 0,
         "Prepare": [
             101301205
@@ -1751,7 +1751,7 @@ var _monsterskill = {
     "101301303": {
         "Key": "Skill05",
         "Name": "爆裂指令",
-        "Desc": "召唤<color style='color:#f29e38;'>【自动机兵•蜘蛛】</color>。",
+        "Desc": "召唤@【自动机兵•蜘蛛】#。",
         "SP": 0,
         "Summon": [
             1012020
@@ -1760,7 +1760,7 @@ var _monsterskill = {
     "101301304": {
         "Key": "Skill04",
         "Name": "愤怒指令",
-        "Desc": "有<color style='color:#f29e38;'>100%</color>基础概率使我方全体陷入<b>嘲讽</b>状态，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "有@100%#基础概率使我方全体陷入``嘲讽`状态，持续@2#回合。",
         "SP": 0,
         "Status": [
             30020010
@@ -1769,7 +1769,7 @@ var _monsterskill = {
     "101301305": {
         "Key": "Skill02",
         "Name": "过载指令",
-        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态：造成的伤害提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合。下次行动对我方全体施放<color style='color:#f29e38;'>【剿灭指令】</color>。",
+        "Desc": "进入@蓄力#状态：造成的伤害提高@50%#，持续@1#回合。下次行动对我方全体施放@【剿灭指令】#。",
         "SP": 0,
         "Prepare": [
             101301306
@@ -1815,7 +1815,7 @@ var _monsterskill = {
     "101301308": {
         "Key": "PassiveSkill01",
         "Name": "毁灭指令",
-        "Desc": "第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>1.5</color>倍。<br>每次施放【过载指令】时使自身造成的伤害额外提高<color style='color:#f29e38;'>50%</color>，可叠加。",
+        "Desc": "第三阶段的生命值上限改为原本的@1.5#倍。\n每次施放【过载指令】时使自身造成的伤害额外提高@50%#，可叠加。",
         "SP": 0,
         "Prepare": [
             101301305
@@ -1827,7 +1827,7 @@ var _monsterskill = {
     "101302001": {
         "Key": "Skill06",
         "Name": "砍伐指令",
-        "Desc": "对指定我方单体造成<1>物理伤害，并施加10次<b>裂伤</b>，每次均有<color style='color:#f29e38;'>50%</color>基础概率成功。若施放本技能时该目标未持有护盾，则再对我方随机单体施放1次<color style='color:#f29e38;'>【解体拆除】</color>。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并施加10次``裂伤`，每次均有@50%#基础概率成功。若施放本技能时该目标未持有护盾，则再对我方随机单体施放1次@【解体拆除】#。\n裂伤持续伤害：每层<2>物理伤害，持续@2#回合，最多叠加@10#层。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -1845,7 +1845,7 @@ var _monsterskill = {
     "101302002": {
         "Key": "Skill07",
         "Name": "目标锁定",
-        "Desc": "<b>锁定</b>指定我方单体，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。",
+        "Desc": "``锁定`指定我方单体，下次行动对其施放@【砍伐指令】#。",
         "SP": 0,
         "Prepare": [
             101302001
@@ -1857,7 +1857,7 @@ var _monsterskill = {
     "101302003": {
         "Key": "Skill09",
         "Name": "解体指令",
-        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有@100%#基础概率对其增加1层``裂伤`状态。\n裂伤持续伤害：每层<2>物理伤害，持续@2#回合，最多叠加@10#层。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1871,7 +1871,7 @@ var _monsterskill = {
     "101302004": {
         "Key": "Skill11",
         "Name": "解体拆除",
-        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有@100%#基础概率对其增加1层``裂伤`状态。\n裂伤持续伤害：每层<2>物理伤害，持续@2#回合，最多叠加@10#层。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1885,7 +1885,7 @@ var _monsterskill = {
     "101302101": {
         "Key": "Skill06",
         "Name": "砍伐指令",
-        "Desc": "对指定我方单体造成<1>物理伤害，并施加10次<b>裂伤</b>，每次均有<color style='color:#f29e38;'>80%</color>基础概率成功。若施放本技能时该目标未持有护盾，则再对我方随机单体施放1次<color style='color:#f29e38;'>【解体拆除】</color>。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并施加10次``裂伤`，每次均有@80%#基础概率成功。若施放本技能时该目标未持有护盾，则再对我方随机单体施放1次@【解体拆除】#。\n裂伤持续伤害：每层<2>物理伤害，持续@2#回合，最多叠加@10#层。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -1903,7 +1903,7 @@ var _monsterskill = {
     "101302102": {
         "Key": "Skill07",
         "Name": "目标锁定",
-        "Desc": "<b>锁定</b>指定我方单体，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。",
+        "Desc": "``锁定`指定我方单体，下次行动对其施放@【砍伐指令】#。",
         "SP": 0,
         "Prepare": [
             101302101
@@ -1915,7 +1915,7 @@ var _monsterskill = {
     "101302103": {
         "Key": "Skill09",
         "Name": "解体指令",
-        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有@100%#基础概率对其增加1层``裂伤`状态。\n裂伤持续伤害：每层<2>物理伤害，持续@2#回合，最多叠加@10#层。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1929,7 +1929,7 @@ var _monsterskill = {
     "101302104": {
         "Key": "Skill11",
         "Name": "解体拆除",
-        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有@100%#基础概率对其增加1层``裂伤`状态。\n裂伤持续伤害：每层<2>物理伤害，持续@2#回合，最多叠加@10#层。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1943,7 +1943,7 @@ var _monsterskill = {
     "101302105": {
         "Key": "Skill12",
         "Name": "瞄准指令",
-        "Desc": "<b>锁定</b>2个我方目标，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。",
+        "Desc": "``锁定`2个我方目标，下次行动对其施放@【砍伐指令】#。",
         "SP": 0,
         "Prepare": [
             101302101
@@ -1955,7 +1955,7 @@ var _monsterskill = {
     "101302201": {
         "Key": "Skill06",
         "Name": "砍伐指令",
-        "Desc": "对指定我方单体造成<1>物理伤害，并施加10次<b>裂伤</b>，每次均有<color style='color:#f29e38;'>80%</color>基础概率成功。若施放本技能时该目标未持有护盾，则再对我方随机单体施放1次<color style='color:#f29e38;'>【解体拆除】</color>。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并施加10次``裂伤`，每次均有@80%#基础概率成功。若施放本技能时该目标未持有护盾，则再对我方随机单体施放1次@【解体拆除】#。\n裂伤持续伤害：每层<2>物理伤害，持续@2#回合，最多叠加@10#层。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -1973,7 +1973,7 @@ var _monsterskill = {
     "101302202": {
         "Key": "Skill07",
         "Name": "目标锁定",
-        "Desc": "<b>锁定</b>指定我方单体，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。",
+        "Desc": "``锁定`指定我方单体，下次行动对其施放@【砍伐指令】#。",
         "SP": 0,
         "Prepare": [
             101302201
@@ -1985,7 +1985,7 @@ var _monsterskill = {
     "101302205": {
         "Key": "Skill09",
         "Name": "解体指令",
-        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有@100%#基础概率对其增加1层``裂伤`状态。\n裂伤持续伤害：每层<2>物理伤害，持续@2#回合，最多叠加@10#层。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -1999,7 +1999,7 @@ var _monsterskill = {
     "101302206": {
         "Key": "Skill11",
         "Name": "解体拆除",
-        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有@100%#基础概率对其增加1层``裂伤`状态。\n裂伤持续伤害：每层<2>物理伤害，持续@2#回合，最多叠加@10#层。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -2013,7 +2013,7 @@ var _monsterskill = {
     "101302203": {
         "Key": "Skill12",
         "Name": "瞄准指令",
-        "Desc": "<b>锁定</b>2个我方目标，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。",
+        "Desc": "``锁定`2个我方目标，下次行动对其施放@【砍伐指令】#。",
         "SP": 0,
         "Prepare": [
             101302201
@@ -2025,7 +2025,7 @@ var _monsterskill = {
     "101302204": {
         "Key": "Skill10",
         "Name": "协力指令",
-        "Desc": "<b>锁定</b>2个我方单体，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。同时使【自动机兵·灰熊】进入蓄力状态，下次行动对我方全体施放<color style='color:#f29e38;'>【剿灭指令】</color>。",
+        "Desc": "``锁定`2个我方单体，下次行动对其施放@【砍伐指令】#。同时使【自动机兵·灰熊】进入蓄力状态，下次行动对我方全体施放@【剿灭指令】#。",
         "SP": 0,
         "Prepare": [
             101302201
@@ -2044,7 +2044,7 @@ var _monsterskill = {
     "101302208": {
         "Key": "PassiveSkill01",
         "Name": "作战加速",
-        "Desc": "第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>2.0</color>倍。<br>使自身速度提高<color style='color:#f29e38;'>60%</color>。每次施放【瞄准指令】时使自身速度额外提高<color style='color:#f29e38;'>20%</color>，可叠加。",
+        "Desc": "第三阶段的生命值上限改为原本的@2.0#倍。\n使自身速度提高@60%#。每次施放【瞄准指令】时使自身速度额外提高@20%#，可叠加。",
         "SP": 0,
         "Status": [
             210130221,
@@ -2054,7 +2054,7 @@ var _monsterskill = {
     "101302301": {
         "Key": "Skill06",
         "Name": "砍伐指令",
-        "Desc": "对指定我方单体造成<1>物理伤害，并施加10次<b>裂伤</b>，每次均有<color style='color:#f29e38;'>50%</color>基础概率成功。若施放本技能时该目标未持有护盾，则再对我方随机单体施放1次<color style='color:#f29e38;'>【解体拆除】</color>。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并施加10次``裂伤`，每次均有@50%#基础概率成功。若施放本技能时该目标未持有护盾，则再对我方随机单体施放1次@【解体拆除】#。\n裂伤持续伤害：每层<2>物理伤害，持续@2#回合，最多叠加@10#层。",
         "SP": 20.0,
         "Elem": "Phys",
         "Threat": true,
@@ -2072,7 +2072,7 @@ var _monsterskill = {
     "101302302": {
         "Key": "Skill07",
         "Name": "目标锁定",
-        "Desc": "<b>锁定</b>指定我方单体，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。",
+        "Desc": "``锁定`指定我方单体，下次行动对其施放@【砍伐指令】#。",
         "SP": 0,
         "Prepare": [
             101302301
@@ -2084,7 +2084,7 @@ var _monsterskill = {
     "101302305": {
         "Key": "Skill09",
         "Name": "解体指令",
-        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有@100%#基础概率对其增加1层``裂伤`状态。\n裂伤持续伤害：每层<2>物理伤害，持续@2#回合，最多叠加@10#层。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -2098,7 +2098,7 @@ var _monsterskill = {
     "101302306": {
         "Key": "Skill11",
         "Name": "解体拆除",
-        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有@100%#基础概率对其增加1层``裂伤`状态。\n裂伤持续伤害：每层<2>物理伤害，持续@2#回合，最多叠加@10#层。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -2112,7 +2112,7 @@ var _monsterskill = {
     "101302303": {
         "Key": "Skill12",
         "Name": "瞄准指令",
-        "Desc": "<b>锁定</b>2个我方目标，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。",
+        "Desc": "``锁定`2个我方目标，下次行动对其施放@【砍伐指令】#。",
         "SP": 0,
         "Prepare": [
             101302301
@@ -2124,7 +2124,7 @@ var _monsterskill = {
     "101302304": {
         "Key": "Skill10",
         "Name": "协力指令",
-        "Desc": "<b>锁定</b>2个我方单体，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。同时使【自动机兵·灰熊】进入蓄力状态，下次行动对我方全体施放<color style='color:#f29e38;'>【剿灭指令】</color>。",
+        "Desc": "``锁定`2个我方单体，下次行动对其施放@【砍伐指令】#。同时使【自动机兵·灰熊】进入蓄力状态，下次行动对我方全体施放@【剿灭指令】#。",
         "SP": 0,
         "Prepare": [
             101302301
@@ -2143,7 +2143,7 @@ var _monsterskill = {
     "101302308": {
         "Key": "PassiveSkill01",
         "Name": "作战加速",
-        "Desc": "第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>1.5</color>倍。<br>使自身速度提高<color style='color:#f29e38;'>60%</color>。每次施放【瞄准指令】时使自身速度额外提高<color style='color:#f29e38;'>10%</color>，可叠加。",
+        "Desc": "第三阶段的生命值上限改为原本的@1.5#倍。\n使自身速度提高@60%#。每次施放【瞄准指令】时使自身速度额外提高@10%#，可叠加。",
         "SP": 0,
         "Status": [
             210130221,
@@ -2163,7 +2163,7 @@ var _monsterskill = {
     "101401002": {
         "Key": "Skill02",
         "Name": "延烧光束",
-        "Desc": "对指定我方单体造成<1>物理伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>30%</color>。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并使受到攻击的我方目标行动延后@30%#。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -2173,7 +2173,7 @@ var _monsterskill = {
     "101401003": {
         "Key": "Skill03",
         "Name": "巨掌之间",
-        "Desc": "使指定我方单体陷入<color style='color:#f29e38;'>【拘束】</color>状态，【拘束】状态下无法行动也无法被指定为目标，每回合开始时受到<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。当辅助机械臂单元被弱点击破时我方目标的【拘束】状态立即解除。",
+        "Desc": "使指定我方单体陷入@【拘束】#状态，【拘束】状态下无法行动也无法被指定为目标，每回合开始时受到@50%生命值上限#的物理伤害。当辅助机械臂单元被弱点击破时我方目标的【拘束】状态立即解除。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -2183,7 +2183,7 @@ var _monsterskill = {
     "101401004": {
         "Key": "Skill04",
         "Name": "高效轰炸",
-        "Desc": "对我方全体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标防御力降低<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合，可叠加。",
+        "Desc": "对我方全体造成<1>物理伤害，并有@100%#基础概率使受到攻击的我方目标防御力降低@30%#，持续@2#回合，可叠加。",
         "SP": 2.0,
         "Elem": "Phys",
         "Threat": true,
@@ -2207,7 +2207,7 @@ var _monsterskill = {
     "101401006": {
         "Key": "Skill06",
         "Name": "过载警告",
-        "Desc": "辅助机械臂单元进入<color style='color:#f29e38;'>【过载时限】</color>状态，进入该状态后下次行动施放<color style='color:#f29e38;'>【控场起爆】</color>。",
+        "Desc": "辅助机械臂单元进入@【过载时限】#状态，进入该状态后下次行动施放@【控场起爆】#。",
         "SP": 0,
         "Elem": "Phys",
         "Prepare": [
@@ -2220,7 +2220,7 @@ var _monsterskill = {
     "101401007": {
         "Key": "Skill07",
         "Name": "增效部署",
-        "Desc": "召唤<color style='color:#f29e38;'>【辅助机械臂单元】</color>。",
+        "Desc": "召唤@【辅助机械臂单元】#。",
         "SP": 0,
         "Elem": "Phys",
         "Summon": [
@@ -2265,7 +2265,7 @@ var _monsterskill = {
     "101401102": {
         "Key": "Skill02",
         "Name": "延烧光束",
-        "Desc": "对指定我方单体造成<1>物理伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>50%</color>。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并使受到攻击的我方目标行动延后@50%#。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -2275,7 +2275,7 @@ var _monsterskill = {
     "101401103": {
         "Key": "Skill03",
         "Name": "巨掌之间",
-        "Desc": "使指定我方单体陷入<color style='color:#f29e38;'>【拘束】</color>状态，【拘束】状态下无法行动也无法被指定为目标，每回合开始时受到<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。当辅助机械臂单元被弱点击破时我方目标的【拘束】状态立即解除。",
+        "Desc": "使指定我方单体陷入@【拘束】#状态，【拘束】状态下无法行动也无法被指定为目标，每回合开始时受到@50%生命值上限#的物理伤害。当辅助机械臂单元被弱点击破时我方目标的【拘束】状态立即解除。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -2285,7 +2285,7 @@ var _monsterskill = {
     "101401104": {
         "Key": "Skill04",
         "Name": "过饱和轰炸",
-        "Desc": "对我方全体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>3</color>回合，可叠加。",
+        "Desc": "对我方全体造成<1>物理伤害，并有@100%#基础概率使受到攻击的我方目标防御力降低@20%#，持续@3#回合，可叠加。",
         "SP": 2.0,
         "Elem": "Phys",
         "Threat": true,
@@ -2309,7 +2309,7 @@ var _monsterskill = {
     "101401106": {
         "Key": "Skill06",
         "Name": "过载警告",
-        "Desc": "辅助机械臂单元进入<color style='color:#f29e38;'>【过载时限】</color>状态，进入该状态后下次行动施放<color style='color:#f29e38;'>【控场起爆】</color>。",
+        "Desc": "辅助机械臂单元进入@【过载时限】#状态，进入该状态后下次行动施放@【控场起爆】#。",
         "SP": 0,
         "Prepare": [
             101401105
@@ -2321,7 +2321,7 @@ var _monsterskill = {
     "101401107": {
         "Key": "Skill07",
         "Name": "增效部署",
-        "Desc": "召唤<color style='color:#f29e38;'>【辅助机械臂单元】</color>。",
+        "Desc": "召唤@【辅助机械臂单元】#。",
         "SP": 0,
         "Summon": [
             1012041
@@ -2354,13 +2354,13 @@ var _monsterskill = {
     "101401112": {
         "Key": "Skill09",
         "Name": "输出增幅",
-        "Desc": "使敌方全体造成的伤害提高<color style='color:#f29e38;'>15%</color>，可叠加。",
+        "Desc": "使敌方全体造成的伤害提高@15%#，可叠加。",
         "SP": 0
     },
     "101401113": {
         "Key": "Skill10",
         "Name": "应急支援",
-        "Desc": "随机召唤<color style='color:#f29e38;'>【自动机兵•甲虫】</color>和<color style='color:#f29e38;'>【自动机兵•战犬】</color>。",
+        "Desc": "随机召唤@【自动机兵•甲虫】#和@【自动机兵•战犬】#。",
         "SP": 0,
         "Summon": [
             1012011,
@@ -2370,7 +2370,7 @@ var _monsterskill = {
     "101401114": {
         "Key": "Skill11",
         "Name": "战术支援",
-        "Desc": "召唤<color style='color:#f29e38;'>【自动机兵•齿狼】</color>。",
+        "Desc": "召唤@【自动机兵•齿狼】#。",
         "SP": 0,
         "Summon": [
             101302002
@@ -2389,7 +2389,7 @@ var _monsterskill = {
     "101401202": {
         "Key": "Skill02",
         "Name": "延烧光束",
-        "Desc": "对指定我方单体造成<1>物理伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>50%</color>。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并使受到攻击的我方目标行动延后@50%#。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -2399,7 +2399,7 @@ var _monsterskill = {
     "101401203": {
         "Key": "Skill03",
         "Name": "巨掌之间",
-        "Desc": "使指定我方单体陷入<color style='color:#f29e38;'>【拘束】</color>状态，【拘束】状态下无法行动也无法被指定为目标，每回合开始时受到<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。当辅助机械臂单元被弱点击破时我方目标的【拘束】状态立即解除。",
+        "Desc": "使指定我方单体陷入@【拘束】#状态，【拘束】状态下无法行动也无法被指定为目标，每回合开始时受到@50%生命值上限#的物理伤害。当辅助机械臂单元被弱点击破时我方目标的【拘束】状态立即解除。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -2409,7 +2409,7 @@ var _monsterskill = {
     "101401204": {
         "Key": "Skill04",
         "Name": "过饱和轰炸",
-        "Desc": "对我方全体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>3</color>回合，可叠加。",
+        "Desc": "对我方全体造成<1>物理伤害，并有@100%#基础概率使受到攻击的我方目标防御力降低@20%#，持续@3#回合，可叠加。",
         "SP": 2.0,
         "Elem": "Phys",
         "Threat": true,
@@ -2433,7 +2433,7 @@ var _monsterskill = {
     "101401206": {
         "Key": "Skill06",
         "Name": "过载警告",
-        "Desc": "辅助机械臂单元进入<color style='color:#f29e38;'>【过载时限】</color>状态，进入该状态后下次行动施放<color style='color:#f29e38;'>【控场起爆】</color>。",
+        "Desc": "辅助机械臂单元进入@【过载时限】#状态，进入该状态后下次行动施放@【控场起爆】#。",
         "SP": 0,
         "Prepare": [
             101401105
@@ -2445,7 +2445,7 @@ var _monsterskill = {
     "101401207": {
         "Key": "Skill07",
         "Name": "增效部署",
-        "Desc": "召唤<color style='color:#f29e38;'>【辅助机械臂单元】</color>。",
+        "Desc": "召唤@【辅助机械臂单元】#。",
         "SP": 0,
         "Summon": [
             1012041
@@ -2460,7 +2460,7 @@ var _monsterskill = {
     "101401209": {
         "Key": "PassiveSkill02",
         "Name": "",
-        "Desc": "第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>1.6</color>倍。",
+        "Desc": "第三阶段的生命值上限改为原本的@1.6#倍。",
         "SP": 0
     },
     "101401210": {
@@ -2478,13 +2478,13 @@ var _monsterskill = {
     "101401212": {
         "Key": "Skill09",
         "Name": "输出增幅",
-        "Desc": "使敌方全体造成的伤害提高<color style='color:#f29e38;'>15%</color>，可叠加。<br>第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>1.6</color>倍。",
+        "Desc": "使敌方全体造成的伤害提高@15%#，可叠加。\n第三阶段的生命值上限改为原本的@1.6#倍。",
         "SP": 0
     },
     "101401213": {
         "Key": "Skill10",
         "Name": "应急支援",
-        "Desc": "随机召唤<color style='color:#f29e38;'>【自动机兵•甲虫】</color>和<color style='color:#f29e38;'>【自动机兵•战犬】</color>。",
+        "Desc": "随机召唤@【自动机兵•甲虫】#和@【自动机兵•战犬】#。",
         "SP": 0,
         "Summon": [
             1012011,
@@ -2494,7 +2494,7 @@ var _monsterskill = {
     "101401214": {
         "Key": "Skill11",
         "Name": "战术支援",
-        "Desc": "召唤<color style='color:#f29e38;'>【自动机兵•齿狼】</color>。",
+        "Desc": "召唤@【自动机兵•齿狼】#。",
         "SP": 0,
         "Summon": [
             101302002
@@ -2503,7 +2503,7 @@ var _monsterskill = {
     "102201001": {
         "Key": "Skill01",
         "Name": "霜冻重击",
-        "Desc": "对指定我方单体造成<1>冰属性伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>50%</color>。",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，并使受到攻击的我方目标行动延后@50%#。",
         "SP": 15.0,
         "Elem": "Ice",
         "DMG": [
@@ -2513,7 +2513,7 @@ var _monsterskill = {
     "102202001": {
         "Key": "Skill01",
         "Name": "灼炎重击",
-        "Desc": "对指定我方单体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>灼烧</b>状态。<br>灼烧持续伤害：<2>火属性伤害，持续<color style='color:#f29e38;'>3</color>回合。",
+        "Desc": "对指定我方单体造成<1>火属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入``灼烧`状态。\n灼烧持续伤害：<2>火属性伤害，持续@3#回合。",
         "SP": 15.0,
         "Elem": "Fire",
         "Status": [
@@ -2527,7 +2527,7 @@ var _monsterskill = {
     "102301001": {
         "Key": "Skill06",
         "Name": "赤红刀锋",
-        "Desc": "对指定我方单体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>灼烧</b>状态。<br>灼烧持续伤害：<2>火属性伤害，持续<color style='color:#f29e38;'>3</color>回合。",
+        "Desc": "对指定我方单体造成<1>火属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入``灼烧`状态。\n灼烧持续伤害：<2>火属性伤害，持续@3#回合。",
         "SP": 10.0,
         "Elem": "Fire",
         "Status": [
@@ -2552,7 +2552,7 @@ var _monsterskill = {
     "102301003": {
         "Key": "PassiveSkillInitiate",
         "Name": "熔解",
-        "Desc": "对陷入灼烧状态的我方单体施放攻击后，自身造成的伤害提高<color style='color:#f29e38;'>6%</color>，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "对陷入灼烧状态的我方单体施放攻击后，自身造成的伤害提高@6%#，持续@3#回合，最多叠加@5#层。",
         "SP": 0,
         "Status": [
             210230101
@@ -2561,7 +2561,7 @@ var _monsterskill = {
     "102301004": {
         "Key": "Skill01",
         "Name": "高温运转",
-        "Desc": "使自身攻击力提升<color style='color:#f29e38;'>20%</color>，速度提高<color style='color:#f29e38;'>100</color>点。弱点被击破后以上增益效果解除。",
+        "Desc": "使自身攻击力提升@20%#，速度提高@100#点。弱点被击破后以上增益效果解除。",
         "SP": 0,
         "Status": [
             210230102
@@ -2582,7 +2582,7 @@ var _monsterskill = {
     "102301101": {
         "Key": "Skill06",
         "Name": "赤红刀锋",
-        "Desc": "对指定我方单体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>灼烧</b>状态。<br>灼烧持续伤害：<2>火属性伤害，持续<color style='color:#f29e38;'>3</color>回合。",
+        "Desc": "对指定我方单体造成<1>火属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入``灼烧`状态。\n灼烧持续伤害：<2>火属性伤害，持续@3#回合。",
         "SP": 10.0,
         "Elem": "Fire",
         "Status": [
@@ -2607,7 +2607,7 @@ var _monsterskill = {
     "102301107": {
         "Key": "PassiveSkillInitiate",
         "Name": "熔解",
-        "Desc": "对陷入灼烧状态的我方单体施放攻击后，自身造成的伤害提高<color style='color:#f29e38;'>6%</color>，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "对陷入灼烧状态的我方单体施放攻击后，自身造成的伤害提高@6%#，持续@3#回合，最多叠加@5#层。",
         "SP": 0,
         "Status": [
             210230101
@@ -2616,7 +2616,7 @@ var _monsterskill = {
     "102301103": {
         "Key": "Skill01",
         "Name": "高温运转",
-        "Desc": "使自身攻击力提升<color style='color:#f29e38;'>20%</color>，速度提高<color style='color:#f29e38;'>100</color>点。弱点被击破后以上增益效果解除。",
+        "Desc": "使自身攻击力提升@20%#，速度提高@100#点。弱点被击破后以上增益效果解除。",
         "SP": 0,
         "Status": [
             210230102
@@ -2650,7 +2650,7 @@ var _monsterskill = {
     "102301105": {
         "Key": "Skill09",
         "Name": "爆裂前兆",
-        "Desc": "下次行动施放<color style='color:#f29e38;'>【爆裂缭灼】</color>。",
+        "Desc": "下次行动施放@【爆裂缭灼】#。",
         "SP": 0,
         "Prepare": [
             102301106
@@ -2669,7 +2669,7 @@ var _monsterskill = {
     "102302005": {
         "Key": "Skill05",
         "Name": "召来衍生物",
-        "Desc": "召唤<color style='color:#f29e38;'>2</color>个<color style='color:#f29e38;'>【永冬灾影】</color>。",
+        "Desc": "召唤@2#个@【永冬灾影】#。",
         "SP": 0,
         "Summon": [
             102201002
@@ -2678,7 +2678,7 @@ var _monsterskill = {
     "102302006": {
         "Key": "Skill06",
         "Name": "冻结风暴",
-        "Desc": "对我方全体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【深寒】</color>状态。<br>深寒：速度降低<color style='color:#f29e38;'>12%</color>，冰伤害抗性降低<color style='color:#f29e38;'>20%</color>，最多叠加<color style='color:#f29e38;'>3</color>层，永久持续。",
+        "Desc": "对我方全体造成<1>冰属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入@【深寒】#状态。\n深寒：速度降低@12%#，冰伤害抗性降低@20%#，最多叠加@3#层，永久持续。",
         "SP": 5.0,
         "Elem": "Ice",
         "Status": [
@@ -2691,7 +2691,7 @@ var _monsterskill = {
     "102302007": {
         "Key": "Skill07",
         "Name": "吞噬衍生物",
-        "Desc": "吞噬1个永冬灾影使自身攻击力提高<color style='color:#f29e38;'>50%</color>，同时<b>锁定</b>指定我方单体。<br>若场上没有永冬灾影，则自身防御力降低<color style='color:#f29e38;'>50%</color>。",
+        "Desc": "吞噬1个永冬灾影使自身攻击力提高@50%#，同时``锁定`指定我方单体。\n若场上没有永冬灾影，则自身防御力降低@50%#。",
         "SP": 0,
         "Status": [
             210230208
@@ -2700,7 +2700,7 @@ var _monsterskill = {
     "102302008": {
         "Key": "Skill08",
         "Name": "吞噬衍生物",
-        "Desc": "吞噬1个永冬灾影使自身攻击力提高<color style='color:#f29e38;'>50%</color>，同时<b>锁定</b>指定我方单体。<br>若场上没有永冬灾影，则自身防御力降低<color style='color:#f29e38;'>50%</color>。",
+        "Desc": "吞噬1个永冬灾影使自身攻击力提高@50%#，同时``锁定`指定我方单体。\n若场上没有永冬灾影，则自身防御力降低@50%#。",
         "SP": 0,
         "Status": [
             210230208,
@@ -2711,7 +2711,7 @@ var _monsterskill = {
     "102302009": {
         "Key": "Skill09",
         "Name": "冰轮碎碾",
-        "Desc": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【深寒】</color>状态。<br>深寒：速度降低<color style='color:#f29e38;'>12%</color>，冰伤害抗性降低<color style='color:#f29e38;'>20%</color>，最多叠加<color style='color:#f29e38;'>3</color>层，永久持续。",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入@【深寒】#状态。\n深寒：速度降低@12%#，冰伤害抗性降低@20%#，最多叠加@3#层，永久持续。",
         "SP": 20.0,
         "Elem": "Ice",
         "Threat": true,
@@ -2741,7 +2741,7 @@ var _monsterskill = {
     "102302105": {
         "Key": "Skill05",
         "Name": "召来衍生物",
-        "Desc": "召唤<color style='color:#f29e38;'>4</color>个<color style='color:#f29e38;'>【永冬灾影】</color>。",
+        "Desc": "召唤@4#个@【永冬灾影】#。",
         "SP": 0,
         "Summon": [
             102201002
@@ -2750,7 +2750,7 @@ var _monsterskill = {
     "102302106": {
         "Key": "Skill06",
         "Name": "冻结风暴",
-        "Desc": "对我方全体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【深寒】</color>状态。<br>深寒：速度降低<color style='color:#f29e38;'>12%</color>，冰伤害抗性降低<color style='color:#f29e38;'>20%</color>，最多叠加<color style='color:#f29e38;'>3</color>层，永久持续。",
+        "Desc": "对我方全体造成<1>冰属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入@【深寒】#状态。\n深寒：速度降低@12%#，冰伤害抗性降低@20%#，最多叠加@3#层，永久持续。",
         "SP": 5.0,
         "Elem": "Ice",
         "Status": [
@@ -2775,7 +2775,7 @@ var _monsterskill = {
     "102302109": {
         "Key": "Skill09",
         "Name": "冰轮碎碾",
-        "Desc": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【深寒】</color>状态。<br>深寒：速度降低<color style='color:#f29e38;'>12%</color>，冰伤害抗性降低<color style='color:#f29e38;'>20%</color>，最多叠加<color style='color:#f29e38;'>3</color>层，永久持续。",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入@【深寒】#状态。\n深寒：速度降低@12%#，冰伤害抗性降低@20%#，最多叠加@3#层，永久持续。",
         "SP": 20.0,
         "Elem": "Ice",
         "Status": [
@@ -2794,7 +2794,7 @@ var _monsterskill = {
     "102302110": {
         "Key": "Skill10",
         "Name": "吞噬衍生物",
-        "Desc": "吞噬所有永冬灾影，并使自身攻击力提高<color style='color:#f29e38;'>50%</color>，下次行动施放<color style='color:#f29e38;'>【苦寒过境】</color>。<br>若场上没有永冬灾影，则自身防御力降低<color style='color:#f29e38;'>50%</color>。",
+        "Desc": "吞噬所有永冬灾影，并使自身攻击力提高@50%#，下次行动施放@【苦寒过境】#。\n若场上没有永冬灾影，则自身防御力降低@50%#。",
         "SP": 0,
         "Prepare": [
             102302111
@@ -2807,7 +2807,7 @@ var _monsterskill = {
     "102302111": {
         "Key": "Skill11",
         "Name": "苦寒过境",
-        "Desc": "基于吞噬的永冬灾影的个数，对我方全体分别造成<color style='color:#f29e38;'>100%</color></color><color style='color:#f29e38;'>300%</color></color><color style='color:#f29e38;'>400%</color></color><1>冰属性伤害。<br>有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【深寒】</color>状态。<br>深寒：速度降低<color style='color:#f29e38;'>12%</color>，冰伤害抗性降低<color style='color:#f29e38;'>20%</color>，最多叠加<color style='color:#f29e38;'>3</color>层，永久持续。",
+        "Desc": "基于吞噬的永冬灾影的个数，对我方全体分别造成@100%##@300%##@400%##<1>冰属性伤害。\n有@100%#基础概率使受到攻击的我方目标陷入@【深寒】#状态。\n深寒：速度降低@12%#，冰伤害抗性降低@20%#，最多叠加@3#层，永久持续。",
         "SP": 5.0,
         "Elem": "Ice",
         "Threat": true,
@@ -2821,7 +2821,7 @@ var _monsterskill = {
     "200201001": {
         "Key": "Skill01",
         "Name": "云刃",
-        "Desc": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使目标受到的伤害提高<color style='color:#f29e38;'>25%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并有@100%#基础概率使目标受到的伤害提高@25%#，持续@2#回合。",
         "SP": 15.0,
         "Elem": "Wind",
         "Status": [
@@ -2853,7 +2853,7 @@ var _monsterskill = {
     "200203001": {
         "Key": "Skill01",
         "Name": "锯恶",
-        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>35%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>【震荡】状态下的目标受到攻击后，陷入<color style='color:#f29e38;'>【强烈震荡】</color>状态，然后解除【震荡】状态。<br>【强烈震荡】状态下的目标无法行动，且行动延后<color style='color:#f29e38;'>70%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有@35%#基础概率使受到攻击的我方目标陷入@【震荡】#状态，持续@2#回合。\n【震荡】状态下的目标受到攻击后，陷入@【强烈震荡】#状态，然后解除【震荡】状态。\n【强烈震荡】状态下的目标无法行动，且行动延后@70%#，持续@1#回合。",
         "SP": 15.0,
         "Elem": "Phys",
         "Status": [
@@ -2867,7 +2867,7 @@ var _monsterskill = {
     "800104001": {
         "Key": "Skill01",
         "Name": "雷腾",
-        "Desc": "对指定我方单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入``触电`状态。\n触电持续伤害：<2>雷属性伤害，持续@2#回合，最多叠加@1#层。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -2881,7 +2881,7 @@ var _monsterskill = {
     "800105001": {
         "Key": "Skill01",
         "Name": "风色",
-        "Desc": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入``风化`状态。\n风化持续伤害：<2>风属性伤害，持续@2#回合，最多叠加@5#层。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -2895,7 +2895,7 @@ var _monsterskill = {
     "202201001": {
         "Key": "Skill01",
         "Name": "梢杀",
-        "Desc": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>2</color>层<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入@2#层``风化`状态。\n风化持续伤害：<2>风属性伤害，持续@3#回合，最多叠加@5#层。",
         "SP": 15.0,
         "Elem": "Wind",
         "Status": [
@@ -2909,7 +2909,7 @@ var _monsterskill = {
     "202201002": {
         "Key": "PassiveSkill01",
         "Name": "复起",
-        "Desc": "受到致命攻击时回复<color style='color:#f29e38;'>50%生命值上限</color>，且速度提高<color style='color:#f29e38;'>50%</color>。单次战斗至多触发一次。",
+        "Desc": "受到致命攻击时回复@50%生命值上限#，且速度提高@50%#。单次战斗至多触发一次。",
         "SP": 0,
         "Status": [
             220220101,
@@ -2919,7 +2919,7 @@ var _monsterskill = {
     "202201003": {
         "Key": "Skill02",
         "Name": "梢杀",
-        "Desc": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>2</color>层<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入@2#层``风化`状态。\n风化持续伤害：<2>风属性伤害，持续@3#回合，最多叠加@5#层。",
         "SP": 15.0,
         "Elem": "Wind",
         "Status": [
@@ -2933,7 +2933,7 @@ var _monsterskill = {
     "202202001": {
         "Key": "Skill01",
         "Name": "种丹",
-        "Desc": "使指定我方单体陷入<color style='color:#f29e38;'>【引动雷劫】</color>状态。",
+        "Desc": "使指定我方单体陷入@【引动雷劫】#状态。",
         "SP": 0,
         "Status": [
             220220203
@@ -2985,7 +2985,7 @@ var _monsterskill = {
     "202211003": {
         "Key": "SkillP01",
         "Name": "嗔恚",
-        "Desc": "战斗开始时处于<color style='color:#f29e38;'>【嗔恚】</color>状态。处于【嗔恚】状态时，改为施放【锯恶•斩】。",
+        "Desc": "战斗开始时处于@【嗔恚】#状态。处于【嗔恚】状态时，改为施放【锯恶•斩】。",
         "SP": 0,
         "Status": [
             220221101
@@ -3025,7 +3025,7 @@ var _monsterskill = {
     "202301004": {
         "Key": "Skill04",
         "Name": "召遣",
-        "Desc": "消耗<color style='color:#f29e38;'>10%生命值上限</color>，召唤2个<color style='color:#f29e38;'>【魔阴身士卒】</color>。",
+        "Desc": "消耗@10%生命值上限#，召唤2个@【魔阴身士卒】#。",
         "SP": 0,
         "Summon": [
             2022010
@@ -3034,7 +3034,7 @@ var _monsterskill = {
     "202301005": {
         "Key": "SkillP01",
         "Name": "采气",
-        "Desc": "当场上其它敌方目标带有<color style='color:#f29e38;'>【重生】</color>时，其自身具有<color style='color:#f29e38;'>【击中回复】</color>。<br><br>击中回复：<br>【震击】回复<color style='color:#f29e38;'>2.5%生命值上限</color><br>【霆罚】回复<color style='color:#f29e38;'>7.5%生命值上限</color><br>【劫雷】回复<color style='color:#f29e38;'>20%生命值上限</color>",
+        "Desc": "当场上其它敌方目标带有@【重生】#时，其自身具有@【击中回复】#。\n\n击中回复：\n【震击】回复@2.5%生命值上限#\n【霆罚】回复@7.5%生命值上限#\n【劫雷】回复@20%生命值上限#",
         "SP": 0,
         "Status": [
             220220101,
@@ -3044,7 +3044,7 @@ var _monsterskill = {
     "201101001": {
         "Key": "Skill01",
         "Name": "狮子吼",
-        "Desc": "对指定我方单体造成少<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>虚弱</b>状态。<br>虚弱：造成的伤害降低<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "对指定我方单体造成少<1>火属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入``虚弱`状态。\n虚弱：造成的伤害降低@30%#，持续@2#回合。",
         "SP": 10.0,
         "Elem": "Fire",
         "Status": [
@@ -3057,7 +3057,7 @@ var _monsterskill = {
     "201102001": {
         "Key": "Skill01",
         "Name": "霏雾",
-        "Desc": "对指定我方单体造成<1>虚数属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标速度降低<color style='color:#f29e38;'>25%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害，并有@100%#基础概率使受到攻击的我方目标速度降低@25%#，持续@2#回合。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "Status": [
@@ -3070,7 +3070,7 @@ var _monsterskill = {
     "201201001": {
         "Key": "Skill01",
         "Name": "宵明",
-        "Desc": "对我方全体造成<1>火属性伤害。<br>如果场上有3~4个存活角色，则随机挑选至多2个未被自身减防的角色，以<color style='color:#f29e38;'>80%</color>基础概率使其防御力降低<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。<br>如果场上有1~2个存活角色，则随机挑选1个角色，以<color style='color:#f29e38;'>80%</color>基础概率使其防御力降低<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "对我方全体造成<1>火属性伤害。\n如果场上有3~4个存活角色，则随机挑选至多2个未被自身减防的角色，以@80%#基础概率使其防御力降低@30%#，持续@2#回合。\n如果场上有1~2个存活角色，则随机挑选1个角色，以@80%#基础概率使其防御力降低@30%#，持续@2#回合。",
         "SP": 5.0,
         "Elem": "Fire",
         "Status": [
@@ -3083,7 +3083,7 @@ var _monsterskill = {
     "201201002": {
         "Key": "SkillP01",
         "Name": "烛花",
-        "Desc": "受到致命攻击时：对敌方全体造成<color style='color:#f29e38;'>40%自身生命值上限</color>火属性伤害和<color style='color:#f29e38;'>1.0</color>火属性削韧，并有<color style='color:#f29e38;'>100%</color>基础概率使其防御力降低<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "受到致命攻击时：对敌方全体造成@40%自身生命值上限#火属性伤害和@1.0#火属性削韧，并有@100%#基础概率使其防御力降低@30%#，持续@2#回合。",
         "SP": 5.0,
         "Elem": "Fire",
         "Status": [
@@ -3093,7 +3093,7 @@ var _monsterskill = {
     "201301002": {
         "Key": "Skill01",
         "Name": "儆惧",
-        "Desc": "提高<color style='color:#f29e38;'>33%</color>【惩戒度】等级，并对我方全体造成<1>虚数属性伤害。<br>有<color style='color:#f29e38;'>60%</color>基础概率使我方目标陷入<b>虚弱</b>状态。<br>虚弱：造成的伤害降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "提高@33%#【惩戒度】等级，并对我方全体造成<1>虚数属性伤害。\n有@60%#基础概率使我方目标陷入``虚弱`状态。\n虚弱：造成的伤害降低@20%#，持续@2#回合。",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Status": [
@@ -3116,7 +3116,7 @@ var _monsterskill = {
     "201301004": {
         "Key": "Skill03",
         "Name": "缚束",
-        "Desc": "对指定我方单体造成<1>虚数属性伤害，同时有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>禁锢</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>50%</color>。",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害，同时有@100%#基础概率使受到攻击的我方目标陷入``禁锢`状态，持续@1#回合。\n禁锢：无法行动，行动延后@50%#。",
         "SP": 15.0,
         "Elem": "Imaginary",
         "Threat": true,
@@ -3127,7 +3127,7 @@ var _monsterskill = {
     "201301001": {
         "Key": "SkillP01",
         "Name": "奉辞罚罪",
-        "Desc": "当我方目标施放战技或终结技进行攻击时会积累<color style='color:#f29e38;'>33%</color>【惩戒度】等级。<br>当【惩戒度】等级满级时，立即进入【罚恶模式】：速度提升<color style='color:#f29e38;'>30</color>点，可以使用<color style='color:#f29e38;'>【戒退】</color>和<color style='color:#f29e38;'>【缚束】</color>，同时召唤<color style='color:#f29e38;'>2</color>个【入魔机巧 • 灯昼龙鱼】。",
+        "Desc": "当我方目标施放战技或终结技进行攻击时会积累@33%#【惩戒度】等级。\n当【惩戒度】等级满级时，立即进入【罚恶模式】：速度提升@30#点，可以使用@【戒退】#和@【缚束】#，同时召唤@2#个【入魔机巧 • 灯昼龙鱼】。",
         "SP": 0,
         "Prepare": [
             201301003,
@@ -3153,7 +3153,7 @@ var _monsterskill = {
     "201302002": {
         "Key": "Skill02",
         "Name": "镇魂",
-        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>70%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>【震荡】状态下的目标受到攻击后，陷入<color style='color:#f29e38;'>【强烈震荡】</color>状态，然后解除【震荡】状态。<br>【强烈震荡】状态下的目标无法行动，且行动延后<color style='color:#f29e38;'>70%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有@70%#基础概率使受到攻击的我方目标陷入@【震荡】#状态，持续@2#回合。\n【震荡】状态下的目标受到攻击后，陷入@【强烈震荡】#状态，然后解除【震荡】状态。\n【强烈震荡】状态下的目标无法行动，且行动延后@70%#，持续@1#回合。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -3167,7 +3167,7 @@ var _monsterskill = {
     "201302003": {
         "Key": "Skill03",
         "Name": "转阴阳",
-        "Desc": "对我方全体造成<1>物理伤害。<br>若我方有至少3名角色未处于【震荡】与【强烈震荡】状态，则从这些角色中选择2名，有<color style='color:#f29e38;'>35%</color>基础概率使其陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>若我方有至多2名角色未处于【震荡】与【强烈震荡】状态，则从这些角色中选择1名，有<color style='color:#f29e38;'>35%</color>基础概率使其陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "对我方全体造成<1>物理伤害。\n若我方有至少3名角色未处于【震荡】与【强烈震荡】状态，则从这些角色中选择2名，有@35%#基础概率使其陷入@【震荡】#状态，持续@2#回合。\n若我方有至多2名角色未处于【震荡】与【强烈震荡】状态，则从这些角色中选择1名，有@35%#基础概率使其陷入@【震荡】#状态，持续@2#回合。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -3181,7 +3181,7 @@ var _monsterskill = {
     "201302005": {
         "Key": "SkillP01",
         "Name": "拘魂令",
-        "Desc": "场上有我方目标陷入<color style='color:#f29e38;'>【强烈震荡】</color>状态时，锁定该目标，下次行动对其施放<color style='color:#f29e38;'>【天坠】</color>。",
+        "Desc": "场上有我方目标陷入@【强烈震荡】#状态时，锁定该目标，下次行动对其施放@【天坠】#。",
         "SP": 0,
         "Elem": "Phys",
         "Status": [
@@ -3194,7 +3194,7 @@ var _monsterskill = {
     "200401001": {
         "Key": "Skill01",
         "Name": "夜间喧嚣不止",
-        "Desc": "对指定我方单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入``触电`状态。\n触电持续伤害：<2>雷属性伤害，持续@3#回合，最多叠加@1#层。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3208,7 +3208,7 @@ var _monsterskill = {
     "200401002": {
         "Key": "Skill02",
         "Name": "月光摩挲连绵",
-        "Desc": "对指定我方单体造成<1>雷属性伤害，对相邻目标造成<2>雷属性伤害。<br>如主目标处于触电状态，则会使副目标也陷入<b>触电</b>状态。",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，对相邻目标造成<2>雷属性伤害。\n如主目标处于触电状态，则会使副目标也陷入``触电`状态。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3232,7 +3232,7 @@ var _monsterskill = {
     "200401004": {
         "Key": "Skill05",
         "Name": "言灵",
-        "Desc": "使指定我方单体<color style='color:#f29e38;'>120%</color>基础概率陷入<color style='color:#f29e38;'>【支配】</color>状态，持续<color style='color:#f29e38;'>3</color>回合，使其随机攻击1名我方其他目标。",
+        "Desc": "使指定我方单体@120%#基础概率陷入@【支配】#状态，持续@3#回合，使其随机攻击1名我方其他目标。",
         "SP": 15.0,
         "Threat": true,
         "Status": [
@@ -3261,7 +3261,7 @@ var _monsterskill = {
     "200401101": {
         "Key": "Skill01",
         "Name": "夜间喧嚣不止",
-        "Desc": "对指定我方单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入``触电`状态。\n触电持续伤害：<2>雷属性伤害，持续@3#回合，最多叠加@1#层。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3275,7 +3275,7 @@ var _monsterskill = {
     "200401102": {
         "Key": "Skill02",
         "Name": "月光摩挲连绵",
-        "Desc": "对指定我方单体造成<1>雷属性伤害，对相邻目标造成<2>雷属性伤害。<br>如主目标处于触电状态，则会使副目标也陷入<b>触电</b>状态。",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，对相邻目标造成<2>雷属性伤害。\n如主目标处于触电状态，则会使副目标也陷入``触电`状态。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3299,7 +3299,7 @@ var _monsterskill = {
     "200401104": {
         "Key": "Skill05",
         "Name": "言灵",
-        "Desc": "使指定我方单体<color style='color:#f29e38;'>120%</color>基础概率陷入<color style='color:#f29e38;'>【支配】</color>状态，持续<color style='color:#f29e38;'>3</color>回合，使其随机攻击1名我方其他目标。",
+        "Desc": "使指定我方单体@120%#基础概率陷入@【支配】#状态，持续@3#回合，使其随机攻击1名我方其他目标。",
         "SP": 15.0,
         "Threat": true,
         "Status": [
@@ -3309,7 +3309,7 @@ var _monsterskill = {
     "200401105": {
         "Key": "Skill04",
         "Name": "亡者切齿呢喃",
-        "Desc": "对指定我方单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>触电</b>状态。同时对所有处于触电状态的我方目标造成<2>雷属性伤害。<br>触电持续伤害：<3>雷属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入``触电`状态。同时对所有处于触电状态的我方目标造成<2>雷属性伤害。\n触电持续伤害：<3>雷属性伤害，持续@3#回合，最多叠加@1#层。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3324,7 +3324,7 @@ var _monsterskill = {
     "200401106": {
         "Key": "Skill07",
         "Name": "心理暗示",
-        "Desc": "有<color style='color:#f29e38;'>120%</color>基础概率使我方多名目标进入【心理暗示】状态，持续<color style='color:#f29e38;'>3</color>回合。<br>在行动条上添加<color style='color:#f29e38;'>【揭晓】</color>，下次【揭晓】行动时陷入【心理暗示】的角色陷入<color style='color:#f29e38;'>【支配】</color>状态。",
+        "Desc": "有@120%#基础概率使我方多名目标进入【心理暗示】状态，持续@3#回合。\n在行动条上添加@【揭晓】#，下次【揭晓】行动时陷入【心理暗示】的角色陷入@【支配】#状态。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -3354,7 +3354,7 @@ var _monsterskill = {
     "200401109": {
         "Key": "PassiveSkill02",
         "Name": "吊唁",
-        "Desc": "每当我方目标触发自身触电对自己的伤害时，卡芙卡自身造成的伤害提高<color style='color:#f29e38;'>2%</color>，可叠加。",
+        "Desc": "每当我方目标触发自身触电对自己的伤害时，卡芙卡自身造成的伤害提高@2%#，可叠加。",
         "SP": 0,
         "Status": [
             220040111
@@ -3363,7 +3363,7 @@ var _monsterskill = {
     "200401201": {
         "Key": "Skill01",
         "Name": "夜间喧嚣不止",
-        "Desc": "对指定我方单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入``触电`状态。\n触电持续伤害：<2>雷属性伤害，持续@3#回合，最多叠加@1#层。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3377,7 +3377,7 @@ var _monsterskill = {
     "200401202": {
         "Key": "Skill02",
         "Name": "月光摩挲连绵",
-        "Desc": "对指定我方单体造成<1>雷属性伤害，对相邻目标造成<2>雷属性伤害。<br>如主目标处于触电状态，则会使副目标也陷入<b>触电</b>状态。",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，对相邻目标造成<2>雷属性伤害。\n如主目标处于触电状态，则会使副目标也陷入``触电`状态。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3401,7 +3401,7 @@ var _monsterskill = {
     "200401204": {
         "Key": "Skill05",
         "Name": "言灵",
-        "Desc": "使指定我方单体<color style='color:#f29e38;'>120%</color>基础概率陷入<color style='color:#f29e38;'>【支配】</color>状态，持续<color style='color:#f29e38;'>3</color>回合，使其随机攻击1名我方其他目标。",
+        "Desc": "使指定我方单体@120%#基础概率陷入@【支配】#状态，持续@3#回合，使其随机攻击1名我方其他目标。",
         "SP": 15.0,
         "Threat": true,
         "Status": [
@@ -3411,7 +3411,7 @@ var _monsterskill = {
     "200401205": {
         "Key": "Skill04",
         "Name": "亡者切齿呢喃",
-        "Desc": "对指定我方单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>触电</b>状态。同时对所有处于触电状态的我方目标造成<2>雷属性伤害。<br>触电持续伤害：<3>雷属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入``触电`状态。同时对所有处于触电状态的我方目标造成<2>雷属性伤害。\n触电持续伤害：<3>雷属性伤害，持续@3#回合，最多叠加@1#层。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3426,7 +3426,7 @@ var _monsterskill = {
     "200401206": {
         "Key": "Skill07",
         "Name": "心理暗示",
-        "Desc": "有<color style='color:#f29e38;'>120%</color>基础概率使我方多名目标进入<color style='color:#f29e38;'>【心理暗示】</color>状态，持续<color style='color:#f29e38;'>3</color>回合。<br>在行动条上添加<color style='color:#f29e38;'>【揭晓】</color>，下次【揭晓】行动时陷入【心理暗示】的角色陷入<color style='color:#f29e38;'>【支配】</color>状态。",
+        "Desc": "有@120%#基础概率使我方多名目标进入@【心理暗示】#状态，持续@3#回合。\n在行动条上添加@【揭晓】#，下次【揭晓】行动时陷入【心理暗示】的角色陷入@【支配】#状态。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -3456,7 +3456,7 @@ var _monsterskill = {
     "200401209": {
         "Key": "PassiveSkill02",
         "Name": "吊唁",
-        "Desc": "每当我方目标触发自身触电对自己的伤害时，卡芙卡自身造成的伤害提高<color style='color:#f29e38;'>2%</color>，可叠加。<br>第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>1.66</color>倍。<br>第三阶段生命值首次低于<color style='color:#f29e38;'>50%</color>时，立即行动。",
+        "Desc": "每当我方目标触发自身触电对自己的伤害时，卡芙卡自身造成的伤害提高@2%#，可叠加。\n第三阶段的生命值上限改为原本的@1.66#倍。\n第三阶段生命值首次低于@50%#时，立即行动。",
         "SP": 0,
         "Status": [
             220040111
@@ -3475,7 +3475,7 @@ var _monsterskill = {
     "200402002": {
         "Key": "Skill02",
         "Name": "燕归来",
-        "Desc": "召唤4把<color style='color:#f29e38;'>【飞剑】</color>，使【飞剑】获得<color style='color:#f29e38;'>【阵眼】</color>。<br>彦卿获得<color style='color:#f29e38;'>【剑阵】</color>效果：速度提高<color style='color:#f29e38;'>50</color>，消灭所有【飞剑】可移除该效果并使彦卿流失<color style='color:#f29e38;'>10%生命值上限</color>。",
+        "Desc": "召唤4把@【飞剑】#，使【飞剑】获得@【阵眼】#。\n彦卿获得@【剑阵】#效果：速度提高@50#，消灭所有【飞剑】可移除该效果并使彦卿流失@10%生命值上限#。",
         "SP": 10.0,
         "Status": [
             220040204,
@@ -3489,7 +3489,7 @@ var _monsterskill = {
     "200402003": {
         "Key": "Skill03",
         "Name": "三尺水",
-        "Desc": "对指定我方单体造成<1>冰属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的目标陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>冻结附加伤害：<2>冰属性伤害。",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，有@100%#基础概率使受到攻击的目标陷入``冻结`状态，持续@1#回合。\n冻结附加伤害：<2>冰属性伤害。",
         "SP": 15.0,
         "Elem": "Ice",
         "DMG": [
@@ -3511,7 +3511,7 @@ var _monsterskill = {
     "200402005": {
         "Key": "Skill05",
         "Name": "剑气近",
-        "Desc": "进入蓄力状态。下次行动对我方全体施放<color style='color:#f29e38;'>【天河泻】</color>。",
+        "Desc": "进入蓄力状态。下次行动对我方全体施放@【天河泻】#。",
         "SP": 0,
         "Prepare": [
             200402006
@@ -3551,7 +3551,7 @@ var _monsterskill = {
     "202401001": {
         "Key": "Skill01",
         "Name": "衔枝 · 肃风",
-        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>。",
+        "Desc": "召唤建木枝梢@【肃风之杪】#。",
         "SP": 0,
         "Summon": [
             2022070
@@ -3560,7 +3560,7 @@ var _monsterskill = {
     "202401002": {
         "Key": "Skill02",
         "Name": "衔枝 · 缃叶",
-        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>。",
+        "Desc": "召唤建木枝梢@【缃叶之杪】#。",
         "SP": 0,
         "Summon": [
             2022080
@@ -3569,7 +3569,7 @@ var _monsterskill = {
     "202401003": {
         "Key": "Skill03",
         "Name": "衔枝 · 繁花",
-        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【繁花之杪】</color>。",
+        "Desc": "召唤建木枝梢@【繁花之杪】#。",
         "SP": 0,
         "Summon": [
             2022090
@@ -3578,7 +3578,7 @@ var _monsterskill = {
     "202401004": {
         "Key": "Skill04",
         "Name": "衔枝 · 嘉实",
-        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【嘉实之杪】</color>。",
+        "Desc": "召唤建木枝梢@【嘉实之杪】#。",
         "SP": 0,
         "Summon": [
             2022100
@@ -3607,7 +3607,7 @@ var _monsterskill = {
     "202401007": {
         "Key": "Skill07",
         "Name": "蕉覆",
-        "Desc": "进入<color style='color:#f29e38;'>【蕉覆】</color>状态：防御力提升<color style='color:#f29e38;'>200%</color>，且使自身韧性无法受到伤害，持续<color style='color:#f29e38;'>1</color>回合。",
+        "Desc": "进入@【蕉覆】#状态：防御力提升@200%#，且使自身韧性无法受到伤害，持续@1#回合。",
         "SP": 0,
         "Status": [
             220240101
@@ -3616,7 +3616,7 @@ var _monsterskill = {
     "202401008": {
         "Key": "Skill08",
         "Name": "斑龙触",
-        "Desc": "当场上存在2个【嘉实】时立即施放该技能，对我方全体造成<1>雷属性伤害。<br>场上每存在一个【建木枝梢】，则额外造成<2>雷属性伤害。<br>施放技能后，清除场上所有的【建木枝梢】。",
+        "Desc": "当场上存在2个【嘉实】时立即施放该技能，对我方全体造成<1>雷属性伤害。\n场上每存在一个【建木枝梢】，则额外造成<2>雷属性伤害。\n施放技能后，清除场上所有的【建木枝梢】。",
         "SP": 20.0,
         "Elem": "Elec",
         "Threat": true,
@@ -3637,7 +3637,7 @@ var _monsterskill = {
     "202401101": {
         "Key": "Skill01",
         "Name": "衔枝 · 肃风",
-        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>。",
+        "Desc": "召唤建木枝梢@【肃风之杪】#。",
         "SP": 0,
         "Summon": [
             2022071
@@ -3646,7 +3646,7 @@ var _monsterskill = {
     "202401102": {
         "Key": "Skill02",
         "Name": "衔枝 · 缃叶",
-        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>。",
+        "Desc": "召唤建木枝梢@【缃叶之杪】#。",
         "SP": 0,
         "Summon": [
             2022081
@@ -3655,7 +3655,7 @@ var _monsterskill = {
     "202401103": {
         "Key": "Skill03",
         "Name": "衔枝 · 繁花",
-        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【繁花之杪】</color>。",
+        "Desc": "召唤建木枝梢@【繁花之杪】#。",
         "SP": 0,
         "Summon": [
             2022091
@@ -3664,7 +3664,7 @@ var _monsterskill = {
     "202401104": {
         "Key": "Skill04",
         "Name": "衔枝 · 嘉实",
-        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【嘉实之杪】</color>。",
+        "Desc": "召唤建木枝梢@【嘉实之杪】#。",
         "SP": 0,
         "Summon": [
             2022101
@@ -3693,7 +3693,7 @@ var _monsterskill = {
     "202401107": {
         "Key": "Skill07",
         "Name": "蕉覆",
-        "Desc": "进入<color style='color:#f29e38;'>【蕉覆】</color>状态：防御力提升<color style='color:#f29e38;'>200%</color>，且使自身韧性无法受到伤害，持续<color style='color:#f29e38;'>1</color>回合。",
+        "Desc": "进入@【蕉覆】#状态：防御力提升@200%#，且使自身韧性无法受到伤害，持续@1#回合。",
         "SP": 0,
         "Status": [
             220240101
@@ -3702,7 +3702,7 @@ var _monsterskill = {
     "202401108": {
         "Key": "Skill08",
         "Name": "斑龙触",
-        "Desc": "当场上存在2个【嘉实】时立即施放该技能，对我方全体造成<1>雷属性伤害。<br>场上每存在一个【建木枝梢】，额外造成<2>雷属性伤害。<br>施放技能后，清除场上所有的<color style='color:#f29e38;'>【嘉实之杪】</color>。",
+        "Desc": "当场上存在2个【嘉实】时立即施放该技能，对我方全体造成<1>雷属性伤害。\n场上每存在一个【建木枝梢】，额外造成<2>雷属性伤害。\n施放技能后，清除场上所有的@【嘉实之杪】#。",
         "SP": 20.0,
         "Elem": "Elec",
         "Threat": true,
@@ -3717,7 +3717,7 @@ var _monsterskill = {
     "202401109": {
         "Key": "Skill09",
         "Name": "永寿",
-        "Desc": "立即回复<color style='color:#f29e38;'>10%生命值上限</color>，并获得<color style='color:#f29e38;'>1</color>层<color style='color:#f29e38;'>【若木化生】</color>。<br>若木化生：每回合回复<color style='color:#f29e38;'>4%生命值上限</color>。最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "立即回复@10%生命值上限#，并获得@1#层@【若木化生】#。\n若木化生：每回合回复@4%生命值上限#。最多叠加@5#层。",
         "SP": 0,
         "Status": [
             220240111
@@ -3726,7 +3726,7 @@ var _monsterskill = {
     "202401110": {
         "Key": "Skill10",
         "Name": "衔枝 · 引蔓",
-        "Desc": "召唤2个建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>。",
+        "Desc": "召唤2个建木枝梢@【肃风之杪】#。",
         "SP": 0,
         "Summon": [
             2022071
@@ -3735,7 +3735,7 @@ var _monsterskill = {
     "202401111": {
         "Key": "Skill11",
         "Name": "衔枝 · 垂枝",
-        "Desc": "召唤2个建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>。",
+        "Desc": "召唤2个建木枝梢@【缃叶之杪】#。",
         "SP": 0,
         "Summon": [
             2022081
@@ -3744,7 +3744,7 @@ var _monsterskill = {
     "202401112": {
         "Key": "Skill12",
         "Name": "衔枝 · 榛莽",
-        "Desc": "召唤2个建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【繁花之杪】</color>。",
+        "Desc": "召唤2个建木枝梢@【缃叶之杪】#，1个建木枝梢@【肃风之杪】#，1个建木枝梢@【繁花之杪】#。",
         "SP": 0,
         "Summon": [
             2022071,
@@ -3755,7 +3755,7 @@ var _monsterskill = {
     "202401113": {
         "Key": "Skill13",
         "Name": "衔枝 · 交藤",
-        "Desc": "召唤2个建木枝梢<color style='color:#f29e38;'>【嘉实之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>。",
+        "Desc": "召唤2个建木枝梢@【嘉实之杪】#，1个建木枝梢@【缃叶之杪】#，1个建木枝梢@【肃风之杪】#。",
         "SP": 0,
         "Summon": [
             2022071,
@@ -3766,7 +3766,7 @@ var _monsterskill = {
     "202401114": {
         "Key": "Skill14",
         "Name": "生机充盈",
-        "Desc": "每当丰饶玄鹿获得增益效果时，丰饶玄鹿和所有建木枝梢造成的伤害提高<color style='color:#f29e38;'>15%</color>，可叠加。",
+        "Desc": "每当丰饶玄鹿获得增益效果时，丰饶玄鹿和所有建木枝梢造成的伤害提高@15%#，可叠加。",
         "SP": 0,
         "Status": [
             220240112
@@ -3775,7 +3775,7 @@ var _monsterskill = {
     "202207001": {
         "Key": "Skill01",
         "Name": "怒噪",
-        "Desc": "对我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%基础概率使该目标陷入<color style='color:#f29e38;'>【怒噪】</color>状态。<br>怒噪：在<color style='color:#f29e38;'>2</color>内无法行动，且会施放普攻随机攻击敌方单体。",
+        "Desc": "对我方单体造成<1>风属性伤害，并有@100%基础概率使该目标陷入@【怒噪】#状态。\n怒噪：在@2#内无法行动，且会施放普攻随机攻击敌方单体。",
         "SP": 15.0,
         "Elem": "Wind",
         "Status": [
@@ -3788,7 +3788,7 @@ var _monsterskill = {
     "202208001": {
         "Key": "Skill01",
         "Name": "繁生",
-        "Desc": "强化【丰饶玄鹿】，使其攻击力提高<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "强化【丰饶玄鹿】，使其攻击力提高@20%#，持续@2#回合。",
         "SP": 0,
         "Status": [
             220220802
@@ -3797,7 +3797,7 @@ var _monsterskill = {
     "202208002": {
         "Key": "Skill02",
         "Name": "复还",
-        "Desc": "进入<color style='color:#f29e38;'>反击</color>状态，在被我方单体击中后立即对该目标施放<color style='color:#f29e38;'>【折叶】</color>技能。",
+        "Desc": "进入@反击#状态，在被我方单体击中后立即对该目标施放@【折叶】#技能。",
         "SP": 0,
         "Prepare": [
             202208003
@@ -3819,7 +3819,7 @@ var _monsterskill = {
     "202209001": {
         "Key": "Skill01",
         "Name": "驻春",
-        "Desc": "立即为敌方全体回复<color style='color:#f29e38;'>25%自身生命值上限</color>。",
+        "Desc": "立即为敌方全体回复@25%自身生命值上限#。",
         "SP": 0
     },
     "202210001": {
@@ -3843,7 +3843,7 @@ var _monsterskill = {
     "202207101": {
         "Key": "Skill01",
         "Name": "怒噪",
-        "Desc": "对我方单体造成<1>风属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<color style='color:#f29e38;'>【怒噪】</color>状态，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入风化状态。<br>怒噪：在<color style='color:#f29e38;'>2</color>内无法行动，且会施放普攻随机攻击敌方单体。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "对我方单体造成<1>风属性伤害，有@100%#基础概率使其陷入@【怒噪】#状态，有@100%#基础概率使其陷入风化状态。\n怒噪：在@2#内无法行动，且会施放普攻随机攻击敌方单体。\n风化持续伤害：<2>风属性伤害，持续@2#回合，最多叠加@5#层。",
         "SP": 15.0,
         "Elem": "Wind",
         "Status": [
@@ -3858,7 +3858,7 @@ var _monsterskill = {
     "202208101": {
         "Key": "Skill01",
         "Name": "繁生",
-        "Desc": "强化【丰饶玄鹿】，使其攻击力提高<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "强化【丰饶玄鹿】，使其攻击力提高@30%#，持续@2#回合。",
         "SP": 0,
         "Status": [
             220220802
@@ -3867,7 +3867,7 @@ var _monsterskill = {
     "202208102": {
         "Key": "Skill02",
         "Name": "复还",
-        "Desc": "进入<color style='color:#f29e38;'>反击</color>状态，在被我方单体击中后立即对该目标施放<color style='color:#f29e38;'>【折叶】</color>技能。",
+        "Desc": "进入@反击#状态，在被我方单体击中后立即对该目标施放@【折叶】#技能。",
         "SP": 0,
         "Prepare": [
             202208103
@@ -3879,7 +3879,7 @@ var _monsterskill = {
     "202208103": {
         "Key": "Skill03",
         "Name": "折叶",
-        "Desc": "对指定我方单体造成<1>雷属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，有@100%#基础概率使其陷入``触电`状态。\n触电持续伤害：<2>雷属性伤害，持续@2#回合，最多叠加@1#层。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -3893,7 +3893,7 @@ var _monsterskill = {
     "202209101": {
         "Key": "Skill01",
         "Name": "驻春",
-        "Desc": "立即为敌方全体回复<color style='color:#f29e38;'>25%自身生命值上限</color>。",
+        "Desc": "立即为敌方全体回复@25%自身生命值上限#。",
         "SP": 0
     },
     "202210101": {
@@ -3947,7 +3947,7 @@ var _monsterskill = {
     "800103002": {
         "Key": "Skill02",
         "Name": "聚焦充能",
-        "Desc": "使敌方全体攻击力提高<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "使敌方全体攻击力提高@30%#，持续@2#回合。",
         "SP": 0,
         "Status": [
             280010301
@@ -3956,7 +3956,7 @@ var _monsterskill = {
     "800103003": {
         "Key": "PassiveSkill01",
         "Name": "能量涌泄",
-        "Desc": "受到致命攻击后，使我方全体能量恢复<color style='color:#f29e38;'>15</color>点。",
+        "Desc": "受到致命攻击后，使我方全体能量恢复@15#点。",
         "SP": 0
     },
     "800201001": {
@@ -3982,7 +3982,7 @@ var _monsterskill = {
     "800201003": {
         "Key": "Skill03",
         "Name": "颂歌震荡",
-        "Desc": "对指定我方单体及其相邻目标造成<1>虚数属性伤害，并进入<color style='color:#f29e38;'>【后手】</color>状态。<br>下次行动时施放<color style='color:#f29e38;'>【颂歌爆发】</color>，且伤害提高<color style='color:#f29e38;'>100%</color>。",
+        "Desc": "对指定我方单体及其相邻目标造成<1>虚数属性伤害，并进入@【后手】#状态。\n下次行动时施放@【颂歌爆发】#，且伤害提高@100%#。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "Prepare": [
@@ -4112,7 +4112,7 @@ var _monsterskill = {
     "800206004": {
         "Key": "SkillP01",
         "Name": "报…报复你",
-        "Desc": "当我方目标攻击敌方目标后，对我方全体进行攻击。<br>我方每命中一个敌人，扑满对我方全体造成一次<color style='color:#f29e38;'>55%</color>伤害。",
+        "Desc": "当我方目标攻击敌方目标后，对我方全体进行攻击。\n我方每命中一个敌人，扑满对我方全体造成一次@55%#伤害。",
         "SP": 0,
         "Elem": "Fire",
         "Status": [
@@ -4167,7 +4167,7 @@ var _monsterskill = {
     "800208004": {
         "Key": "SkillP01",
         "Name": "保…保护你",
-        "Desc": "进入战斗时，为敌方全体提供<color style='color:#f29e38;'>30</color>层<color style='color:#f29e38;'>【保…保护你】</color>。<br>每层【保…保护你】可抵抗1次除持续伤害外的所有伤害。敌方全体共享【保…保护你】层数。",
+        "Desc": "进入战斗时，为敌方全体提供@30#层@【保…保护你】#。\n每层【保…保护你】可抵抗1次除持续伤害外的所有伤害。敌方全体共享【保…保护你】层数。",
         "SP": 0,
         "Status": [
             280020801
@@ -4194,7 +4194,7 @@ var _monsterskill = {
     "800208104": {
         "Key": "SkillP01",
         "Name": "保…保护你",
-        "Desc": "进入战斗时，为敌方全体提供<color style='color:#f29e38;'>20</color>层<color style='color:#f29e38;'>【保…保护你】</color>。<br>每层【保…保护你】可抵抗1次除持续伤害外的所有伤害。敌方全体共享【保…保护你】层数。",
+        "Desc": "进入战斗时，为敌方全体提供@20#层@【保…保护你】#。\n每层【保…保护你】可抵抗1次除持续伤害外的所有伤害。敌方全体共享【保…保护你】层数。",
         "SP": 0,
         "Status": [
             280020801
@@ -4221,7 +4221,7 @@ var _monsterskill = {
     "800301001": {
         "Key": "Skill01",
         "Name": "叹息之寒",
-        "Desc": "对指定我方单体造成<1>冰属性伤害。<br>若自身处于<color style='color:#f29e38;'>【冰点】</color>状态，且目标被冻结，则额外造成<2>冰属性伤害。",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。\n若自身处于@【冰点】#状态，且目标被冻结，则额外造成<2>冰属性伤害。",
         "SP": 10.0,
         "Elem": "Ice",
         "Status": [
@@ -4236,7 +4236,7 @@ var _monsterskill = {
     "800301002": {
         "Key": "Skill02",
         "Name": "汲取霜晶",
-        "Desc": "使自身进入<color style='color:#f29e38;'>【冰点】</color>状态，之后的攻击可以施放<color style='color:#f29e38;'>【永冬之雨】</color>。",
+        "Desc": "使自身进入@【冰点】#状态，之后的攻击可以施放@【永冬之雨】#。",
         "SP": 0,
         "Elem": "Ice",
         "Prepare": [
@@ -4249,7 +4249,7 @@ var _monsterskill = {
     "800301003": {
         "Key": "Skill03",
         "Name": "永冬之雨",
-        "Desc": "只有在<color style='color:#f29e38;'>【冰点】</color>状态下才会施放该技能。<br>对我方全体造成<1>冰属性伤害，并随机选择至多2名未被冻结的角色，以<color style='color:#f29e38;'>60%基础概率使其陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br><br>冻结附加伤害：<2>冰属性伤害。",
+        "Desc": "只有在@【冰点】#状态下才会施放该技能。\n对我方全体造成<1>冰属性伤害，并随机选择至多2名未被冻结的角色，以@60%基础概率使其陷入``冻结`状态，持续@1#回合。\n\n冻结附加伤害：<2>冰属性伤害。",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true,
@@ -4272,7 +4272,7 @@ var _monsterskill = {
     "800301101": {
         "Key": "Skill01",
         "Name": "叹息之寒",
-        "Desc": "对指定我方单体造成<1>冰属性伤害。<br>若自身处于<color style='color:#f29e38;'>【冰点】</color>状态，且目标被冻结，则额外造成<2>冰属性伤害。",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。\n若自身处于@【冰点】#状态，且目标被冻结，则额外造成<2>冰属性伤害。",
         "SP": 10.0,
         "Elem": "Ice",
         "Status": [
@@ -4287,7 +4287,7 @@ var _monsterskill = {
     "800301102": {
         "Key": "Skill02",
         "Name": "汲取霜晶",
-        "Desc": "使自身进入<color style='color:#f29e38;'>【冰点】</color>状态，之后的攻击可以施放<color style='color:#f29e38;'>【永冬之雨】</color>。",
+        "Desc": "使自身进入@【冰点】#状态，之后的攻击可以施放@【永冬之雨】#。",
         "SP": 0,
         "Elem": "Ice",
         "Prepare": [
@@ -4300,7 +4300,7 @@ var _monsterskill = {
     "800301103": {
         "Key": "Skill03",
         "Name": "永冬之雨",
-        "Desc": "只有在<color style='color:#f29e38;'>【冰点】</color>状态下才会施放该技能。<br>对我方全体造成<1>冰属性伤害，并随机选择至多2名未被冻结的角色，以<color style='color:#f29e38;'>80%基础概率使其陷入<b>冻结</b>状态，且行动延后<color style='color:#f29e38;'>100%</color>。<br><br>冻结附加伤害：<2>冰属性伤害，持续<color style='color:#f29e38;'>1</color>回合。",
+        "Desc": "只有在@【冰点】#状态下才会施放该技能。\n对我方全体造成<1>冰属性伤害，并随机选择至多2名未被冻结的角色，以@80%基础概率使其陷入``冻结`状态，且行动延后@100%#。\n\n冻结附加伤害：<2>冰属性伤害，持续@1#回合。",
         "SP": 15.0,
         "Elem": "Ice",
         "Threat": true,
@@ -4342,7 +4342,7 @@ var _monsterskill = {
     "800302001": {
         "Key": "Skill01",
         "Name": "咆哮之火",
-        "Desc": "对指定我方单体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【焚烧】</color>状态。<br>焚烧：持续<color style='color:#f29e38;'>2</color>回合，每回合开始时受到<2>火属性伤害，可叠加。",
+        "Desc": "对指定我方单体造成<1>火属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入@【焚烧】#状态。\n焚烧：持续@2#回合，每回合开始时受到<2>火属性伤害，可叠加。",
         "SP": 10.0,
         "Elem": "Fire",
         "Status": [
@@ -4356,7 +4356,7 @@ var _monsterskill = {
     "800302002": {
         "Key": "Skill03",
         "Name": "汲取炎华",
-        "Desc": "使自身进入<color style='color:#f29e38;'>【自燃】</color>状态，之后的攻击可以施放<color style='color:#f29e38;'>【净炎之雨】</color>。",
+        "Desc": "使自身进入@【自燃】#状态，之后的攻击可以施放@【净炎之雨】#。",
         "SP": 0,
         "Prepare": [
             800302003
@@ -4368,7 +4368,7 @@ var _monsterskill = {
     "800302003": {
         "Key": "Skill05",
         "Name": "净炎之雨",
-        "Desc": "连续<color style='color:#f29e38;'>5</color>次：对我方随机单体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【焚烧】</color>状态。<br>焚烧：持续<color style='color:#f29e38;'>2</color>回合，每回合开始时受到<2>火属性伤害，可叠加。",
+        "Desc": "连续@5#次：对我方随机单体造成<1>火属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入@【焚烧】#状态。\n焚烧：持续@2#回合，每回合开始时受到<2>火属性伤害，可叠加。",
         "SP": 10.0,
         "Elem": "Fire",
         "Threat": true,
@@ -4383,13 +4383,13 @@ var _monsterskill = {
     "800302004": {
         "Key": "Skill07",
         "Name": "熔聚",
-        "Desc": "使自身攻击力提高<color style='color:#f29e38;'>30%</color>，被弱点击破时该状态解除。",
+        "Desc": "使自身攻击力提高@30%#，被弱点击破时该状态解除。",
         "SP": 0
     },
     "800302101": {
         "Key": "Skill01",
         "Name": "咆哮之火",
-        "Desc": "对指定我方单体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【焚烧】</color>状态。<br>焚烧：持续<color style='color:#f29e38;'>2</color>回合，每回合开始时受到<2>火属性伤害，可叠加。",
+        "Desc": "对指定我方单体造成<1>火属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入@【焚烧】#状态。\n焚烧：持续@2#回合，每回合开始时受到<2>火属性伤害，可叠加。",
         "SP": 10.0,
         "Elem": "Fire",
         "Status": [
@@ -4403,7 +4403,7 @@ var _monsterskill = {
     "800302102": {
         "Key": "Skill03",
         "Name": "汲取炎华",
-        "Desc": "使自身进入<color style='color:#f29e38;'>【自燃】</color>状态，之后的攻击可以施放<color style='color:#f29e38;'>【净炎之雨】</color>。",
+        "Desc": "使自身进入@【自燃】#状态，之后的攻击可以施放@【净炎之雨】#。",
         "SP": 0,
         "Prepare": [
             800302103
@@ -4415,7 +4415,7 @@ var _monsterskill = {
     "800302103": {
         "Key": "Skill05",
         "Name": "净炎之雨",
-        "Desc": "连续<color style='color:#f29e38;'>5</color>次：对我方随机单体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【焚烧】</color>状态。<br>焚烧：持续<color style='color:#f29e38;'>2</color>回合，每回合开始时受到<2>火属性伤害，可叠加。",
+        "Desc": "连续@5#次：对我方随机单体造成<1>火属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入@【焚烧】#状态。\n焚烧：持续@2#回合，每回合开始时受到<2>火属性伤害，可叠加。",
         "SP": 10.0,
         "Elem": "Fire",
         "Threat": true,
@@ -4430,13 +4430,13 @@ var _monsterskill = {
     "800302104": {
         "Key": "Skill07",
         "Name": "熔聚",
-        "Desc": "使自身攻击力提高<color style='color:#f29e38;'>30%</color>，被弱点击破时该状态解除。",
+        "Desc": "使自身攻击力提高@30%#，被弱点击破时该状态解除。",
         "SP": 0
     },
     "800302105": {
         "Key": "Skill08",
         "Name": "轰炸前兆",
-        "Desc": "吸收所有我方全体持有的<color style='color:#f29e38;'>【焚烧】</color>状态，下一次行动释放<color style='color:#f29e38;'>【火炽轰炸】</color>。",
+        "Desc": "吸收所有我方全体持有的@【焚烧】#状态，下一次行动释放@【火炽轰炸】#。",
         "SP": 0,
         "Prepare": [
             800302106
@@ -4448,7 +4448,7 @@ var _monsterskill = {
     "800302106": {
         "Key": "Skill09",
         "Name": "火炽轰炸",
-        "Desc": "对我方全体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使我方全体陷入<color style='color:#f29e38;'>【焚烧】</color>状态。",
+        "Desc": "对我方全体造成<1>火属性伤害，并有@100%#基础概率使我方全体陷入@【焚烧】#状态。",
         "SP": 15.0,
         "Elem": "Fire",
         "Threat": true,
@@ -4483,7 +4483,7 @@ var _monsterskill = {
     "800303003": {
         "Key": "Skill03",
         "Name": "宁静禁令",
-        "Desc": "对我方全体设下不能攻击守护者之影的【禁令】，攻击守护者之影的我方目标将立即受到<color style='color:#f29e38;'>【不可违逆之责罚】</color>。",
+        "Desc": "对我方全体设下不能攻击守护者之影的【禁令】，攻击守护者之影的我方目标将立即受到@【不可违逆之责罚】#。",
         "SP": 0,
         "Prepare": [
             800303007
@@ -4495,7 +4495,7 @@ var _monsterskill = {
     "800303004": {
         "Key": "Skill04",
         "Name": "缴械禁令",
-        "Desc": "对我方全体设下不能施放普攻的【禁令】，施放普攻的我方目标将立即受到<color style='color:#f29e38;'>【不可违逆之责罚】</color>。",
+        "Desc": "对我方全体设下不能施放普攻的【禁令】，施放普攻的我方目标将立即受到@【不可违逆之责罚】#。",
         "SP": 0,
         "Prepare": [
             800303007
@@ -4507,7 +4507,7 @@ var _monsterskill = {
     "800303005": {
         "Key": "Skill05",
         "Name": "缄默禁令",
-        "Desc": "对我方全体设下不能施放战技的【禁令】，施放战技的我方目标将立即受到<color style='color:#f29e38;'>【不可违逆之责罚】</color>。",
+        "Desc": "对我方全体设下不能施放战技的【禁令】，施放战技的我方目标将立即受到@【不可违逆之责罚】#。",
         "SP": 0,
         "Prepare": [
             800303007
@@ -4519,7 +4519,7 @@ var _monsterskill = {
     "800303006": {
         "Key": "Skill06",
         "Name": "谴罚雷暴",
-        "Desc": "连续<color style='color:#f29e38;'>8</color>次：对我方随机单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>50%</color>基础概率使受到攻击的我方目标陷入<b>触电状态</b>。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "Desc": "连续@8#次：对我方随机单体造成<1>雷属性伤害，并有@50%#基础概率使受到攻击的我方目标陷入``触电状态`。\n触电持续伤害：<2>雷属性伤害，持续@2#回合，最多叠加@1#层。",
         "SP": 5.0,
         "Elem": "Elec",
         "Threat": true,
@@ -4574,7 +4574,7 @@ var _monsterskill = {
     "800303103": {
         "Key": "Skill03",
         "Name": "宁静禁令",
-        "Desc": "对我方全体设下不能攻击守护者之影的【禁令】，攻击守护者之影的我方目标将立即受到<color style='color:#f29e38;'>【不可违逆之责罚】</color>。",
+        "Desc": "对我方全体设下不能攻击守护者之影的【禁令】，攻击守护者之影的我方目标将立即受到@【不可违逆之责罚】#。",
         "SP": 0,
         "Prepare": [
             800303107
@@ -4586,7 +4586,7 @@ var _monsterskill = {
     "800303104": {
         "Key": "Skill04",
         "Name": "缴械禁令",
-        "Desc": "对我方全体设下不能施放普攻的【禁令】，施放普攻的我方目标将立即受到<color style='color:#f29e38;'>【不可违逆之责罚】</color>。",
+        "Desc": "对我方全体设下不能施放普攻的【禁令】，施放普攻的我方目标将立即受到@【不可违逆之责罚】#。",
         "SP": 0,
         "Prepare": [
             800303107
@@ -4598,7 +4598,7 @@ var _monsterskill = {
     "800303105": {
         "Key": "Skill05",
         "Name": "缄默禁令",
-        "Desc": "对我方全体设下不能施放战技的【禁令】，施放战技的我方目标将立即受到<color style='color:#f29e38;'>【不可违逆之责罚】</color>。",
+        "Desc": "对我方全体设下不能施放战技的【禁令】，施放战技的我方目标将立即受到@【不可违逆之责罚】#。",
         "SP": 0,
         "Prepare": [
             800303107
@@ -4610,7 +4610,7 @@ var _monsterskill = {
     "800303106": {
         "Key": "Skill06",
         "Name": "谴罚雷暴",
-        "Desc": "连续<color style='color:#f29e38;'>8</color>次：对我方随机单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>50%</color>基础概率使受到攻击的我方目标陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "Desc": "连续@8#次：对我方随机单体造成<1>雷属性伤害，并有@50%#基础概率使受到攻击的我方目标陷入``触电`状态。\n触电持续伤害：<2>雷属性伤害，持续@2#回合，最多叠加@1#层。",
         "SP": 5.0,
         "Elem": "Elec",
         "Threat": true,
@@ -4668,7 +4668,7 @@ var _monsterskill = {
     "800304005": {
         "Key": "Skill04",
         "Name": "黄金年代的解放",
-        "Desc": "每有一层<color style='color:#f29e38;'>【追忆刻度】</color>，对随机我方单体造成一次<1>虚数属性伤害，最多<color style='color:#f29e38;'>9</color>层。<br>若没有【追忆刻度】则本技能施放失败。",
+        "Desc": "每有一层@【追忆刻度】#，对随机我方单体造成一次<1>虚数属性伤害，最多@9#层。\n若没有【追忆刻度】则本技能施放失败。",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Threat": true,
@@ -4682,7 +4682,7 @@ var _monsterskill = {
     "800304006": {
         "Key": "PassiveSkill01",
         "Name": "流年盾纱",
-        "Desc": "自身受到的普攻、战技、终结技、追加攻击伤害降低<color style='color:#f29e38;'>10%</color>。<br>任意攻击命中我方后，有<color style='color:#f29e38;'>20%</color>基础概率施加<b>禁锢</b>，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>50%</color>。",
+        "Desc": "自身受到的普攻、战技、终结技、追加攻击伤害降低@10%#。\n任意攻击命中我方后，有@20%#基础概率施加``禁锢`，持续@1#回合。\n禁锢：无法行动，行动延后@50%#。",
         "SP": 0,
         "Status": [
             30020013
@@ -4691,7 +4691,7 @@ var _monsterskill = {
     "800304004": {
         "Key": "Skill05",
         "Name": "黄金年代的绸缪",
-        "Desc": "使自身进入蓄力状态并获得<color style='color:#f29e38;'>9</color>层<color style='color:#f29e38;'>【追忆刻度】</color>，下次行动施放<color style='color:#f29e38;'>【黄金年代的解放】</color>。每次受到攻击后失去1层【追忆刻度】。",
+        "Desc": "使自身进入蓄力状态并获得@9#层@【追忆刻度】#，下次行动施放@【黄金年代的解放】#。每次受到攻击后失去1层【追忆刻度】。",
         "SP": 0,
         "Prepare": [
             800304005
@@ -4735,7 +4735,7 @@ var _monsterskill = {
     "800304108": {
         "Key": "Skill04",
         "Name": "黄金年代的解放",
-        "Desc": "每有一层<color style='color:#f29e38;'>【追忆刻度】</color>，对随机我方单体造成一次<1>虚数属性伤害，最多<color style='color:#f29e38;'>9</color>层。<br>若没有【追忆刻度】则本技能施放失败。",
+        "Desc": "每有一层@【追忆刻度】#，对随机我方单体造成一次<1>虚数属性伤害，最多@9#层。\n若没有【追忆刻度】则本技能施放失败。",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Status": [
@@ -4748,7 +4748,7 @@ var _monsterskill = {
     "800304106": {
         "Key": "PassiveSkill01",
         "Name": "流年盾纱",
-        "Desc": "自身受到的普攻、战技、终结技、追加攻击伤害降低<color style='color:#f29e38;'>10%</color>。<br>任意攻击命中我方后，有<color style='color:#f29e38;'>40%</color>基础概率施加<b>禁锢</b>，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>50%</color>。",
+        "Desc": "自身受到的普攻、战技、终结技、追加攻击伤害降低@10%#。\n任意攻击命中我方后，有@40%#基础概率施加``禁锢`，持续@1#回合。\n禁锢：无法行动，行动延后@50%#。",
         "SP": 0,
         "Status": [
             30020013
@@ -4757,7 +4757,7 @@ var _monsterskill = {
     "800304104": {
         "Key": "Skill05",
         "Name": "黄金年代的绸缪",
-        "Desc": "使自身进入蓄力状态并获得<color style='color:#f29e38;'>9</color>层<color style='color:#f29e38;'>【追忆刻度】</color>，下次行动施放<color style='color:#f29e38;'>【黄金年代的解放】</color>。每次受到攻击后失去1层【追忆刻度】。",
+        "Desc": "使自身进入蓄力状态并获得@9#层@【追忆刻度】#，下次行动施放@【黄金年代的解放】#。每次受到攻击后失去1层【追忆刻度】。",
         "SP": 0,
         "Prepare": [
             800304108
@@ -4830,7 +4830,7 @@ var _monsterskill = {
     "801201003": {
         "Key": "PassiveSkill01",
         "Name": "dev_被动",
-        "Desc": "施放攻击后使自身速度提高<color style='color:#f29e38;'>35%</color>，持续<color style='color:#f29e38;'>2回合，最多叠加<color style='color:#f29e38;'>3</color>层。",
+        "Desc": "施放攻击后使自身速度提高@35%#，持续@2回合，最多叠加@3#层。",
         "SP": 0,
         "Status": [
             280120101
@@ -4839,7 +4839,7 @@ var _monsterskill = {
     "801202001": {
         "Key": "Skill01",
         "Name": "虚无命意",
-        "Desc": "<b>锁定</b>我方随机单体，使其成为敌方全体的攻击目标，且受到的伤害提升<color style='color:#f29e38;'>10%</color>。",
+        "Desc": "``锁定`我方随机单体，使其成为敌方全体的攻击目标，且受到的伤害提升@10%#。",
         "SP": 0,
         "Elem": "Quantum",
         "Status": [
@@ -4859,7 +4859,7 @@ var _monsterskill = {
     "801202101": {
         "Key": "Skill01",
         "Name": "虚无命意",
-        "Desc": "<b>锁定</b>我方随机单体，使其成为敌方全体的攻击目标，且受到的伤害提升<color style='color:#f29e38;'>10%</color>。",
+        "Desc": "``锁定`我方随机单体，使其成为敌方全体的攻击目标，且受到的伤害提升@10%#。",
         "SP": 0,
         "Elem": "Quantum",
         "Status": [
@@ -4879,7 +4879,7 @@ var _monsterskill = {
     "801203001": {
         "Key": "Skill01",
         "Name": "虚灼炮攻",
-        "Desc": "对指定我方单体造成<1>虚数属性伤害，同时自身陷入<color style='color:#f29e38;'>【超负荷】</color>状态。<br>受到攻击的我方陷入<color style='color:#f29e38;'>【起爆】</color>状态：受到攻击时，额外受到<2>虚数属性伤害的追加攻击，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害，同时自身陷入@【超负荷】#状态。\n受到攻击的我方陷入@【起爆】#状态：受到攻击时，额外受到<2>虚数属性伤害的追加攻击，持续@2#回合。",
         "SP": 15.0,
         "Elem": "Imaginary",
         "Status": [
@@ -4894,7 +4894,7 @@ var _monsterskill = {
     "801203002": {
         "Key": "Skill02",
         "Name": "热障阻塞",
-        "Desc": "解除自身的<color style='color:#f29e38;'>【超负荷】</color>状态。",
+        "Desc": "解除自身的@【超负荷】#状态。",
         "SP": 0,
         "Status": [
             280120302
@@ -4933,7 +4933,7 @@ var _monsterskill = {
     "801301004": {
         "Key": "Skill04",
         "Name": "螺旋的弓矢",
-        "Desc": "<b>锁定</b>我方单体，下次行动对该目标施放<color style='color:#f29e38;'>【强弩的终结】</color>。",
+        "Desc": "``锁定`我方单体，下次行动对该目标施放@【强弩的终结】#。",
         "SP": 0,
         "Elem": "Quantum",
         "Prepare": [
@@ -4946,7 +4946,7 @@ var _monsterskill = {
     "801301005": {
         "Key": "Skill05",
         "Name": "强弩的终结",
-        "Desc": "对指定我方单体造成<1>量子属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>纠缠</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>纠缠基础伤害：<2>量子属性伤害，行动延后<color style='color:#f29e38;'>50%</color>。",
+        "Desc": "对指定我方单体造成<1>量子属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入``纠缠`状态，持续@1#回合。\n纠缠基础伤害：<2>量子属性伤害，行动延后@50%#。",
         "SP": 25.0,
         "Elem": "Quantum",
         "Threat": true,
@@ -4991,7 +4991,7 @@ var _monsterskill = {
     "801301104": {
         "Key": "Skill04",
         "Name": "螺旋的弓矢",
-        "Desc": "<b>锁定</b>我方单体，下次行动对该目标施放<color style='color:#f29e38;'>【强弩的终结】</color>。",
+        "Desc": "``锁定`我方单体，下次行动对该目标施放@【强弩的终结】#。",
         "SP": 0,
         "Elem": "Quantum",
         "Prepare": [
@@ -5004,7 +5004,7 @@ var _monsterskill = {
     "801301105": {
         "Key": "Skill05",
         "Name": "强弩的终结",
-        "Desc": "对指定我方单体造成<1>量子属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>纠缠</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>纠缠基础伤害：<2>量子属性伤害，行动延后<color style='color:#f29e38;'>100%</color>。",
+        "Desc": "对指定我方单体造成<1>量子属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入``纠缠`状态，持续@1#回合。\n纠缠基础伤害：<2>量子属性伤害，行动延后@100%#。",
         "SP": 25.0,
         "Elem": "Quantum",
         "Threat": true,
@@ -5049,7 +5049,7 @@ var _monsterskill = {
     "801301204": {
         "Key": "Skill04",
         "Name": "螺旋的弓矢",
-        "Desc": "<b>锁定</b>我方单体，下次行动对该目标施放<color style='color:#f29e38;'>【强弩的终结】</color>。",
+        "Desc": "``锁定`我方单体，下次行动对该目标施放@【强弩的终结】#。",
         "SP": 0,
         "Elem": "Quantum",
         "Prepare": [
@@ -5093,7 +5093,7 @@ var _monsterskill = {
     "801502003": {
         "Key": "Skill03",
         "Name": "盘根",
-        "Desc": "对指定我方单体造成<1>风属性伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>30%</color>。",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并使受到攻击的我方目标行动延后@30%#。",
         "SP": 15.0,
         "Elem": "Wind",
         "DMG": [
@@ -5103,7 +5103,7 @@ var _monsterskill = {
     "801502004": {
         "Key": "Skill04",
         "Name": "生花",
-        "Desc": "召唤<color style='color:#f29e38;'>【丰饶玄莲】</color>。",
+        "Desc": "召唤@【丰饶玄莲】#。",
         "SP": 0,
         "Summon": [
             8012200
@@ -5133,7 +5133,7 @@ var _monsterskill = {
     "801502007": {
         "Key": "Skill07",
         "Name": "劫数将至",
-        "Desc": "<b>锁定</b>我方单体并使【破灭玄莲】进入<color style='color:#f29e38;'>【绽放】</color>状态，同时解除【破灭玄莲】的<color style='color:#f29e38;'>【弱点无效】</color>效果。<br>【破灭玄莲】下次行动施放<color style='color:#f29e38;'>【破灭】</color>。",
+        "Desc": "``锁定`我方单体并使【破灭玄莲】进入@【绽放】#状态，同时解除【破灭玄莲】的@【弱点无效】#效果。\n【破灭玄莲】下次行动施放@【破灭】#。",
         "SP": 0,
         "Status": [
             280150202,
@@ -5176,7 +5176,7 @@ var _monsterskill = {
     "801502011": {
         "Key": "Skill11",
         "Name": "盘根",
-        "Desc": "对指定我方单体造成<1>虚数属性伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>30%</color>。",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害，并使受到攻击的我方目标行动延后@30%#。",
         "SP": 30.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -5186,7 +5186,7 @@ var _monsterskill = {
     "801502012": {
         "Key": "Skill12",
         "Name": "生花",
-        "Desc": "召唤<color style='color:#f29e38;'>【丰饶玄莲】</color>。",
+        "Desc": "召唤@【丰饶玄莲】#。",
         "SP": 0,
         "Summon": [
             8012201
@@ -5195,7 +5195,7 @@ var _monsterskill = {
     "801502013": {
         "Key": "Skill13",
         "Name": "劫数将至",
-        "Desc": "<b>锁定</b>我方单体并使【破灭玄莲】进入<color style='color:#f29e38;'>【绽放】</color>状态，同时解除【破灭玄莲】的<color style='color:#f29e38;'>【弱点无效】</color>效果。<br>【破灭玄莲】下次行动施放<color style='color:#f29e38;'>【破灭】</color>。",
+        "Desc": "``锁定`我方单体并使【破灭玄莲】进入@【绽放】#状态，同时解除【破灭玄莲】的@【弱点无效】#效果。\n【破灭玄莲】下次行动施放@【破灭】#。",
         "SP": 0,
         "Status": [
             280150202,
@@ -5236,7 +5236,7 @@ var _monsterskill = {
     "801502103": {
         "Key": "Skill03",
         "Name": "盘根",
-        "Desc": "对指定我方单体造成<1>风属性伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>30%</color>。",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并使受到攻击的我方目标行动延后@30%#。",
         "SP": 15.0,
         "Elem": "Wind",
         "DMG": [
@@ -5246,7 +5246,7 @@ var _monsterskill = {
     "801502104": {
         "Key": "Skill04",
         "Name": "生花",
-        "Desc": "召唤<color style='color:#f29e38;'>【丰饶玄莲】</color>。",
+        "Desc": "召唤@【丰饶玄莲】#。",
         "SP": 0,
         "Summon": [
             8012200
@@ -5276,7 +5276,7 @@ var _monsterskill = {
     "801502107": {
         "Key": "Skill07",
         "Name": "劫数将至",
-        "Desc": "<b>锁定</b>我方单体并使【破灭玄莲】进入<color style='color:#f29e38;'>【绽放】</color>状态，同时解除【破灭玄莲】的<color style='color:#f29e38;'>【弱点无效】</color>效果。<br>【破灭玄莲】下次行动施放<color style='color:#f29e38;'>【破灭】</color>。",
+        "Desc": "``锁定`我方单体并使【破灭玄莲】进入@【绽放】#状态，同时解除【破灭玄莲】的@【弱点无效】#效果。\n【破灭玄莲】下次行动施放@【破灭】#。",
         "SP": 0,
         "Status": [
             280150202,
@@ -5319,7 +5319,7 @@ var _monsterskill = {
     "801502111": {
         "Key": "Skill11",
         "Name": "盘根",
-        "Desc": "对指定我方单体造成<1>虚数属性伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>30%</color>。",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害，并使受到攻击的我方目标行动延后@30%#。",
         "SP": 30.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -5329,7 +5329,7 @@ var _monsterskill = {
     "801502112": {
         "Key": "Skill12",
         "Name": "生花",
-        "Desc": "召唤<color style='color:#f29e38;'>【丰饶玄莲】</color>。",
+        "Desc": "召唤@【丰饶玄莲】#。",
         "SP": 0,
         "Summon": [
             8012201
@@ -5338,7 +5338,7 @@ var _monsterskill = {
     "801502113": {
         "Key": "Skill13",
         "Name": "劫数将至",
-        "Desc": "<b>锁定</b>我方单体并使【破灭玄莲】进入<color style='color:#f29e38;'>【绽放】</color>状态，同时解除【破灭玄莲】的<color style='color:#f29e38;'>【弱点无效】</color>效果。<br>【破灭玄莲】下次行动施放<color style='color:#f29e38;'>【破灭】</color>。",
+        "Desc": "``锁定`我方单体并使【破灭玄莲】进入@【绽放】#状态，同时解除【破灭玄莲】的@【弱点无效】#效果。\n【破灭玄莲】下次行动施放@【破灭】#。",
         "SP": 0,
         "Status": [
             280150202,
@@ -5359,19 +5359,19 @@ var _monsterskill = {
     "801220001": {
         "Key": "Skill01",
         "Name": "锁元",
-        "Desc": "使我方战技点减少<color style='color:#f29e38;'>1</color>个。",
+        "Desc": "使我方战技点减少@1#个。",
         "SP": 0
     },
     "801220003": {
         "Key": "PassiveSkill01",
         "Name": "归元",
-        "Desc": "受到致命攻击后使我方战技点恢复<color style='color:#f29e38;'>3</color>个。",
+        "Desc": "受到致命攻击后使我方战技点恢复@3#个。",
         "SP": 0
     },
     "801220002": {
         "Key": "PassiveSkill02",
         "Name": "疗愈",
-        "Desc": "每回合开始时，回复<color style='color:#f29e38;'>50%生命值上限</color>。",
+        "Desc": "每回合开始时，回复@50%生命值上限#。",
         "SP": 0,
         "Status": [
             280150203
@@ -5380,19 +5380,19 @@ var _monsterskill = {
     "801220101": {
         "Key": "Skill01",
         "Name": "锁元",
-        "Desc": "使我方战技点减少<color style='color:#f29e38;'>1</color>个。",
+        "Desc": "使我方战技点减少@1#个。",
         "SP": 0
     },
     "801220103": {
         "Key": "PassiveSkill01",
         "Name": "归元",
-        "Desc": "受到致命攻击后使我方战技点恢复<color style='color:#f29e38;'>3</color>个。",
+        "Desc": "受到致命攻击后使我方战技点恢复@3#个。",
         "SP": 0
     },
     "801220102": {
         "Key": "PassiveSkill02",
         "Name": "疗愈",
-        "Desc": "每回合开始时，回复<color style='color:#f29e38;'>50%生命值上限</color>。",
+        "Desc": "每回合开始时，回复@50%生命值上限#。",
         "SP": 0,
         "Status": [
             280150203
@@ -5401,19 +5401,19 @@ var _monsterskill = {
     "801220201": {
         "Key": "Skill01",
         "Name": "锁元",
-        "Desc": "使我方战技点减少<color style='color:#f29e38;'>1</color>个。",
+        "Desc": "使我方战技点减少@1#个。",
         "SP": 0
     },
     "801220203": {
         "Key": "PassiveSkill01",
         "Name": "归元",
-        "Desc": "受到致命攻击后使我方战技点恢复<color style='color:#f29e38;'>3</color>个。",
+        "Desc": "受到致命攻击后使我方战技点恢复@3#个。",
         "SP": 0
     },
     "801220202": {
         "Key": "PassiveSkill02",
         "Name": "疗愈",
-        "Desc": "每回合开始时，回复<color style='color:#f29e38;'>50%生命值上限</color>。",
+        "Desc": "每回合开始时，回复@50%生命值上限#。",
         "SP": 0,
         "Status": [
             280150203
@@ -5422,19 +5422,19 @@ var _monsterskill = {
     "801220301": {
         "Key": "Skill01",
         "Name": "锁元",
-        "Desc": "使我方战技点减少<color style='color:#f29e38;'>1</color>个。",
+        "Desc": "使我方战技点减少@1#个。",
         "SP": 0
     },
     "801220303": {
         "Key": "PassiveSkill01",
         "Name": "归元",
-        "Desc": "受到致命攻击后使我方战技点恢复<color style='color:#f29e38;'>3</color>个。",
+        "Desc": "受到致命攻击后使我方战技点恢复@3#个。",
         "SP": 0
     },
     "801220302": {
         "Key": "PassiveSkill02",
         "Name": "疗愈",
-        "Desc": "每回合开始时，回复<color style='color:#f29e38;'>50%生命值上限</color>。",
+        "Desc": "每回合开始时，回复@50%生命值上限#。",
         "SP": 0,
         "Status": [
             280150203
@@ -5443,7 +5443,7 @@ var _monsterskill = {
     "801221001": {
         "Key": "Skill03",
         "Name": "玄气噬身",
-        "Desc": "有<color style='color:#f29e38;'>100%</color>基础概率使指定我方单体陷入<color style='color:#f29e38;'>【噬命】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>噬命：可回复的生命值上限降低<color style='color:#f29e38;'>40%</color>。",
+        "Desc": "有@100%#基础概率使指定我方单体陷入@【噬命】#状态，持续@2#回合。\n噬命：可回复的生命值上限降低@40%#。",
         "SP": 10.0,
         "Status": [
             30020030
@@ -5458,7 +5458,7 @@ var _monsterskill = {
     "801221003": {
         "Key": "Skill04",
         "Name": "破灭",
-        "Desc": "对指定我方单体造成<color style='color:#f29e38;'>59%目标生命值上限</color>雷属性伤害，该伤害<color style='color:#f29e38;'>无视目标的防御力</color>。",
+        "Desc": "对指定我方单体造成@59%目标生命值上限#雷属性伤害，该伤害@无视目标的防御力#。",
         "SP": 20.0,
         "Elem": "Elec",
         "Threat": true
@@ -5466,7 +5466,7 @@ var _monsterskill = {
     "801221005": {
         "Key": "PassiveSkill01",
         "Name": "休眠",
-        "Desc": "受到致命攻击后进入<color style='color:#f29e38;'>【休眠】</color>状态。",
+        "Desc": "受到致命攻击后进入@【休眠】#状态。",
         "SP": 0,
         "Status": [
             280150206
@@ -5475,7 +5475,7 @@ var _monsterskill = {
     "801221004": {
         "Key": "PassiveSkill02",
         "Name": "绽放",
-        "Desc": "<color style='color:#f29e38;'>【绽放】</color>状态下，下次行动施放<color style='color:#f29e38;'>【破灭】</color>。<br>当【破灭玄莲】处于【绽放】状态下被弱点击破、消灭或【绽放】状态被解除时，【不死神实•幻胧】陷入<color style='color:#f29e38;'>易伤</color>：行动延后<color style='color:#f29e38;'>50%</color>，受到的伤害提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合，最多叠加<color style='color:#f29e38;'>2</color>层。",
+        "Desc": "@【绽放】#状态下，下次行动施放@【破灭】#。\n当【破灭玄莲】处于【绽放】状态下被弱点击破、消灭或【绽放】状态被解除时，【不死神实•幻胧】陷入@易伤#：行动延后@50%#，受到的伤害提高@50%#，持续@1#回合，最多叠加@2#层。",
         "SP": 0,
         "Status": [
             280150204,
@@ -5486,7 +5486,7 @@ var _monsterskill = {
     "801221101": {
         "Key": "Skill03",
         "Name": "玄气噬身",
-        "Desc": "有<color style='color:#f29e38;'>100%</color>基础概率使指定我方单体陷入<color style='color:#f29e38;'>【噬命】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>噬命：可回复的生命值上限降低<color style='color:#f29e38;'>40%</color>。",
+        "Desc": "有@100%#基础概率使指定我方单体陷入@【噬命】#状态，持续@2#回合。\n噬命：可回复的生命值上限降低@40%#。",
         "SP": 20.0,
         "Status": [
             30020030
@@ -5501,7 +5501,7 @@ var _monsterskill = {
     "801221103": {
         "Key": "Skill04",
         "Name": "破灭",
-        "Desc": "对指定我方单体造成<color style='color:#f29e38;'>59%目标生命值上限</color>虚数属性伤害，该伤害<color style='color:#f29e38;'>无视目标的防御力</color>。",
+        "Desc": "对指定我方单体造成@59%目标生命值上限#虚数属性伤害，该伤害@无视目标的防御力#。",
         "SP": 40.0,
         "Elem": "Imaginary",
         "Threat": true
@@ -5509,7 +5509,7 @@ var _monsterskill = {
     "801221105": {
         "Key": "PassiveSkill01",
         "Name": "休眠",
-        "Desc": "受到致命攻击后进入<color style='color:#f29e38;'>【休眠】</color>状态。",
+        "Desc": "受到致命攻击后进入@【休眠】#状态。",
         "SP": 0,
         "Status": [
             280150206
@@ -5518,7 +5518,7 @@ var _monsterskill = {
     "801221104": {
         "Key": "PassiveSkill02",
         "Name": "绽放",
-        "Desc": "<color style='color:#f29e38;'>【绽放】</color>状态下，下次行动施放<color style='color:#f29e38;'>【破灭】</color>。<br>当【破灭玄莲】处于【绽放】状态下被弱点击破、消灭或【绽放】状态被解除时，【不死神实•幻胧】陷入<color style='color:#f29e38;'>易伤</color>：行动延后<color style='color:#f29e38;'>50%</color>，受到的伤害提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合，最多叠加<color style='color:#f29e38;'>2</color>层。",
+        "Desc": "@【绽放】#状态下，下次行动施放@【破灭】#。\n当【破灭玄莲】处于【绽放】状态下被弱点击破、消灭或【绽放】状态被解除时，【不死神实•幻胧】陷入@易伤#：行动延后@50%#，受到的伤害提高@50%#，持续@1#回合，最多叠加@2#层。",
         "SP": 0,
         "Status": [
             280150204,
@@ -5529,7 +5529,7 @@ var _monsterskill = {
     "801221201": {
         "Key": "Skill03",
         "Name": "玄气噬身",
-        "Desc": "有<color style='color:#f29e38;'>100%</color>基础概率使指定我方单体陷入<color style='color:#f29e38;'>【噬命】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>噬命：可回复的生命值上限降低<color style='color:#f29e38;'>40%</color>。",
+        "Desc": "有@100%#基础概率使指定我方单体陷入@【噬命】#状态，持续@2#回合。\n噬命：可回复的生命值上限降低@40%#。",
         "SP": 10.0,
         "Status": [
             30020030
@@ -5544,7 +5544,7 @@ var _monsterskill = {
     "801221203": {
         "Key": "Skill04",
         "Name": "破灭",
-        "Desc": "对指定我方单体造成<color style='color:#f29e38;'>59%目标生命值上限</color>雷属性伤害，该伤害<color style='color:#f29e38;'>无视目标的防御力</color>。",
+        "Desc": "对指定我方单体造成@59%目标生命值上限#雷属性伤害，该伤害@无视目标的防御力#。",
         "SP": 20.0,
         "Elem": "Elec",
         "Threat": true
@@ -5552,7 +5552,7 @@ var _monsterskill = {
     "801221205": {
         "Key": "PassiveSkill01",
         "Name": "休眠",
-        "Desc": "受到致命攻击后进入<color style='color:#f29e38;'>【休眠】</color>状态。",
+        "Desc": "受到致命攻击后进入@【休眠】#状态。",
         "SP": 0,
         "Status": [
             280150206
@@ -5561,7 +5561,7 @@ var _monsterskill = {
     "801221204": {
         "Key": "PassiveSkill02",
         "Name": "绽放",
-        "Desc": "<color style='color:#f29e38;'>【绽放】</color>状态下，下次行动施放<color style='color:#f29e38;'>【破灭】</color>。<br>当【破灭玄莲】处于【绽放】状态下被弱点击破、消灭或【绽放】状态被解除时，【不死神实•幻胧】陷入<color style='color:#f29e38;'>易伤</color>：行动延后<color style='color:#f29e38;'>50%</color>，受到的伤害提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合，最多叠加<color style='color:#f29e38;'>2</color>层。",
+        "Desc": "@【绽放】#状态下，下次行动施放@【破灭】#。\n当【破灭玄莲】处于【绽放】状态下被弱点击破、消灭或【绽放】状态被解除时，【不死神实•幻胧】陷入@易伤#：行动延后@50%#，受到的伤害提高@50%#，持续@1#回合，最多叠加@2#层。",
         "SP": 0,
         "Status": [
             280150204,
@@ -5572,7 +5572,7 @@ var _monsterskill = {
     "801221301": {
         "Key": "Skill03",
         "Name": "玄气噬身",
-        "Desc": "有<color style='color:#f29e38;'>100%</color>基础概率使指定我方单体陷入<color style='color:#f29e38;'>【噬命】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>噬命：可回复的生命值上限降低<color style='color:#f29e38;'>40%</color>。",
+        "Desc": "有@100%#基础概率使指定我方单体陷入@【噬命】#状态，持续@2#回合。\n噬命：可回复的生命值上限降低@40%#。",
         "SP": 20.0,
         "Status": [
             30020030
@@ -5587,7 +5587,7 @@ var _monsterskill = {
     "801221303": {
         "Key": "Skill04",
         "Name": "破灭",
-        "Desc": "对指定我方单体造成<color style='color:#f29e38;'>59%目标生命值上限</color>虚数属性伤害，该伤害<color style='color:#f29e38;'>无视目标的防御力</color>。",
+        "Desc": "对指定我方单体造成@59%目标生命值上限#虚数属性伤害，该伤害@无视目标的防御力#。",
         "SP": 40.0,
         "Elem": "Imaginary",
         "Threat": true
@@ -5595,7 +5595,7 @@ var _monsterskill = {
     "801221305": {
         "Key": "PassiveSkill01",
         "Name": "休眠",
-        "Desc": "受到致命攻击后进入<color style='color:#f29e38;'>【休眠】</color>状态。",
+        "Desc": "受到致命攻击后进入@【休眠】#状态。",
         "SP": 0,
         "Status": [
             280150206
@@ -5604,7 +5604,7 @@ var _monsterskill = {
     "801221304": {
         "Key": "PassiveSkill02",
         "Name": "绽放",
-        "Desc": "<color style='color:#f29e38;'>【绽放】</color>状态下，下次行动施放<color style='color:#f29e38;'>【破灭】</color>。<br>当【破灭玄莲】处于【绽放】状态下被弱点击破、消灭或【绽放】状态被解除时，【不死神实•幻胧】陷入<color style='color:#f29e38;'>易伤</color>：行动延后<color style='color:#f29e38;'>50%</color>，受到的伤害提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合，最多叠加<color style='color:#f29e38;'>2</color>层。",
+        "Desc": "@【绽放】#状态下，下次行动施放@【破灭】#。\n当【破灭玄莲】处于【绽放】状态下被弱点击破、消灭或【绽放】状态被解除时，【不死神实•幻胧】陷入@易伤#：行动延后@50%#，受到的伤害提高@50%#，持续@1#回合，最多叠加@2#层。",
         "SP": 0,
         "Status": [
             280150204,
@@ -5615,7 +5615,7 @@ var _monsterskill = {
     "802201001": {
         "Key": "Skill01",
         "Name": "振翅",
-        "Desc": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>1</color>层<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入@1#层``风化`状态。\n风化持续伤害：<2>风属性伤害，持续@3#回合，最多叠加@5#层。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -5649,7 +5649,7 @@ var _monsterskill = {
     "802201004": {
         "Key": "PassiveSkill01",
         "Name": "蛰亡语",
-        "Desc": "受到致命攻击时，对敌方全体造成<color style='color:#f29e38;'>50%自身生命值上限</color>风属性伤害和<color style='color:#f29e38;'>1.0</color>风属性削韧，并为其施加<b>易伤</b>：受到的伤害提高<color style='color:#f29e38;'>10%</color>，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "Desc": "受到致命攻击时，对敌方全体造成@50%自身生命值上限#风属性伤害和@1.0#风属性削韧，并为其施加``易伤`：受到的伤害提高@10%#，持续@3#回合，最多叠加@10#层。",
         "SP": 0,
         "Elem": "Wind",
         "Status": [
@@ -5659,7 +5659,7 @@ var _monsterskill = {
     "802202001": {
         "Key": "Skill01",
         "Name": "预备兵器",
-        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态，下次行动施放<color style='color:#f29e38;'>【引爆扩散】</color>。",
+        "Desc": "进入@蓄力#状态，下次行动施放@【引爆扩散】#。",
         "SP": 0,
         "Prepare": [
             802202002
@@ -5669,7 +5669,7 @@ var _monsterskill = {
     "802202002": {
         "Key": "Skill02",
         "Name": "引爆扩散",
-        "Desc": "引爆自身，对指定我方单体及相邻目标造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【怒噪】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "引爆自身，对指定我方单体及相邻目标造成<1>风属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入@【怒噪】#状态，持续@2#回合。",
         "SP": 10.0,
         "Elem": "Wind",
         "Threat": true,
@@ -5690,7 +5690,7 @@ var _monsterskill = {
     "802202004": {
         "Key": "PassiveSkill01",
         "Name": "蛰亡语",
-        "Desc": "受到致命攻击时，对敌方全体造成<color style='color:#f29e38;'>60%自身生命值上限</color>风属性伤害和<color style='color:#f29e38;'>1.0</color>风属性削韧，并为其施加<color style='color:#f29e38;'>2</color>层<b>易伤</b>：受到的伤害提高<color style='color:#f29e38;'>10%</color>，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "Desc": "受到致命攻击时，对敌方全体造成@60%自身生命值上限#风属性伤害和@1.0#风属性削韧，并为其施加@2#层``易伤`：受到的伤害提高@10%#，持续@3#回合，最多叠加@10#层。",
         "SP": 0,
         "Elem": "Wind",
         "Status": [
@@ -5700,7 +5700,7 @@ var _monsterskill = {
     "802401001": {
         "Key": "Skill01",
         "Name": "作战时刻",
-        "Desc": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>2</color>层<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入@2#层``风化`状态。\n风化持续伤害：<2>风属性伤害，持续@3#回合，最多叠加@5#层。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -5721,7 +5721,7 @@ var _monsterskill = {
     "802401002": {
         "Key": "Skill02",
         "Name": "战争兵器",
-        "Desc": "对指定我方单体造成<1>风属性伤害。如受到攻击的目标正处于<color style='color:#f29e38;'>风化</color>状态，则直接造成1次风化伤害。",
+        "Desc": "对指定我方单体造成<1>风属性伤害。如受到攻击的目标正处于@风化#状态，则直接造成1次风化伤害。",
         "SP": 20.0,
         "Elem": "Wind",
         "Status": [
@@ -5734,7 +5734,7 @@ var _monsterskill = {
     "802401003": {
         "Key": "Skill03",
         "Name": "飓风",
-        "Desc": "对我方全体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>1</color>层<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "对我方全体造成<1>风属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入@1#层``风化`状态。\n风化持续伤害：<2>风属性伤害，持续@3#回合，最多叠加@5#层。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -5748,7 +5748,7 @@ var _monsterskill = {
     "802401004": {
         "Key": "Skill04",
         "Name": "繁殖",
-        "Desc": "繁殖2~3个<color style='color:#f29e38;'>幼蛰虫</color>或<color style='color:#f29e38;'>次蛰虫</color>。<br><br>如果为一阶段，则产生2个幼蛰虫。<br>如果为二阶段，则第一次繁殖时额外产生1个次蛰虫，后续繁殖时额外随机产生1个幼蛰虫或次蛰虫，各占50%概率。<br>如果为三阶段，则额外产生1个次蛰虫。",
+        "Desc": "繁殖2~3个@幼蛰虫#或@次蛰虫#。\n\n如果为一阶段，则产生2个幼蛰虫。\n如果为二阶段，则第一次繁殖时额外产生1个次蛰虫，后续繁殖时额外随机产生1个幼蛰虫或次蛰虫，各占50%概率。\n如果为三阶段，则额外产生1个次蛰虫。",
         "SP": 0,
         "Summon": [
             8022010,
@@ -5758,7 +5758,7 @@ var _monsterskill = {
     "802401005": {
         "Key": "Skill05",
         "Name": "指挥准备",
-        "Desc": "进入蓄力状态，下次行动施放<color style='color:#f29e38;'>【虫群突袭】</color>。",
+        "Desc": "进入蓄力状态，下次行动施放@【虫群突袭】#。",
         "SP": 0,
         "Prepare": [
             802401006
@@ -5767,7 +5767,7 @@ var _monsterskill = {
     "802401006": {
         "Key": "Skill06",
         "Name": "虫群突袭",
-        "Desc": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态。<br>对我方全体造成<1>风属性伤害。场上存在0</color>1</color>2</color>3</color>4个其他怪物时，连续0</color>4</color>5</color>6</color>7次对我方随机单体造成<2>风属性伤害。<br>我方每次受到伤害时，都有<color style='color:#f29e38;'>100%</color>基础概率陷入<color style='color:#f29e38;'>1</color>层<b>风化</b>状态。<br>为所有角色恢复<color style='color:#f29e38;'>5</color>能量",
+        "Desc": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态。\n对我方全体造成<1>风属性伤害。场上存在0#1#2#3#4个其他怪物时，连续0#4#5#6#7次对我方随机单体造成<2>风属性伤害。\n我方每次受到伤害时，都有@100%#基础概率陷入@1#层``风化`状态。\n为所有角色恢复@5#能量",
         "SP": 10.0,
         "Elem": "Wind",
         "Threat": true,
@@ -5786,7 +5786,7 @@ var _monsterskill = {
     "802401008": {
         "Key": "PassiveSkill01",
         "Name": "传衍信息素",
-        "Desc": "场上每繁殖出1个真蛰虫，所有真蛰虫群造成伤害提高<color style='color:#f29e38;'>8%</color>。<br>场上仅能有1个【传衍信息素】效果生效。",
+        "Desc": "场上每繁殖出1个真蛰虫，所有真蛰虫群造成伤害提高@8%#。\n场上仅能有1个【传衍信息素】效果生效。",
         "SP": 0,
         "Status": [
             280240102
@@ -5795,7 +5795,7 @@ var _monsterskill = {
     "802401009": {
         "Key": "PassiveSkill02",
         "Name": "蛰亡语",
-        "Desc": "受到致命攻击时，对敌方全体造成<color style='color:#f29e38;'>20%自身生命值上限</color>风属性伤害和<color style='color:#f29e38;'>1.0</color>风属性削韧，并为其施加<color style='color:#f29e38;'>2</color>层<b>易伤</b>：受到的伤害提高<color style='color:#f29e38;'>10%</color>，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "Desc": "受到致命攻击时，对敌方全体造成@20%自身生命值上限#风属性伤害和@1.0#风属性削韧，并为其施加@2#层``易伤`：受到的伤害提高@10%#，持续@3#回合，最多叠加@10#层。",
         "SP": 0,
         "Elem": "Wind",
         "Status": [
@@ -5815,7 +5815,7 @@ var _monsterskill = {
     "803201002": {
         "Key": "PassiveSkill01",
         "Name": "提升业绩",
-        "Desc": "每次施放攻击后获得1个【绩效点】：造成的伤害提升<color style='color:#f29e38;'>50%</color>。<br>【绩效点】可在自身弱点被击破时或自身被消灭时被攻击者夺取。",
+        "Desc": "每次施放攻击后获得1个【绩效点】：造成的伤害提升@50%#。\n【绩效点】可在自身弱点被击破时或自身被消灭时被攻击者夺取。",
         "SP": 0,
         "Status": [
             280330101
@@ -5841,7 +5841,7 @@ var _monsterskill = {
     "803202002": {
         "Key": "PassiveSkill01",
         "Name": "提升业绩",
-        "Desc": "每次施放攻击后获得1个【绩效点】：造成的伤害提升<color style='color:#f29e38;'>50%</color>。<br>【绩效点】可在自身弱点被击破时或自身被消灭时被攻击者夺取。",
+        "Desc": "每次施放攻击后获得1个【绩效点】：造成的伤害提升@50%#。\n【绩效点】可在自身弱点被击破时或自身被消灭时被攻击者夺取。",
         "SP": 0,
         "Status": [
             280330101
@@ -5866,7 +5866,7 @@ var _monsterskill = {
     "803301003": {
         "Key": "Skill02",
         "Name": "培训中…",
-        "Desc": "进入蓄力状态，下次行动施放<color style='color:#f29e38;'>【企业文化冲击】</color>。",
+        "Desc": "进入蓄力状态，下次行动施放@【企业文化冲击】#。",
         "SP": 0,
         "Prepare": [
             803301004
@@ -5886,7 +5886,7 @@ var _monsterskill = {
     "803301005": {
         "Key": "Skill04",
         "Name": " 720 度考核",
-        "Desc": "夺取所有【基层员工•外勤】和【基层员工•安保】的<color style='color:#f29e38;'>【绩效点】</color>。",
+        "Desc": "夺取所有【基层员工•外勤】和【基层员工•安保】的@【绩效点】#。",
         "SP": 0,
         "Status": [
             280330101
@@ -5895,7 +5895,7 @@ var _monsterskill = {
     "803301006": {
         "Key": "Skill05",
         "Name": "团建",
-        "Desc": "召唤【基层员工•外勤】或【基层员工•安保】，并使所有【基层员工•外勤】和【基层员工•安保】获得1个<color style='color:#f29e38;'>【绩效点】</color>。",
+        "Desc": "召唤【基层员工•外勤】或【基层员工•安保】，并使所有【基层员工•外勤】和【基层员工•安保】获得1个@【绩效点】#。",
         "SP": 0,
         "Summon": [
             8032010,
@@ -5915,7 +5915,7 @@ var _monsterskill = {
     "803301007": {
         "Key": "PassiveSkillInitiate",
         "Name": "提升业绩",
-        "Desc": "每次施放攻击后获得1个【绩效点】：造成的伤害提升<color style='color:#f29e38;'>50%</color>。<br>【绩效点】可在自身弱点被击破时或自身被消灭时被攻击者夺取。",
+        "Desc": "每次施放攻击后获得1个【绩效点】：造成的伤害提升@50%#。\n【绩效点】可在自身弱点被击破时或自身被消灭时被攻击者夺取。",
         "SP": 0,
         "Status": [
             280330101
@@ -5924,7 +5924,7 @@ var _monsterskill = {
     "800305001": {
         "Key": "Skill01",
         "Name": "巡风光陨",
-        "Desc": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并有@100%#基础概率使其陷入``风化`状态。\n风化持续伤害：每层<2>风属性伤害，持续@2#回合，最多叠加@5#层。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -5938,7 +5938,7 @@ var _monsterskill = {
     "800305002": {
         "Key": "Skill03",
         "Name": "踏风而行",
-        "Desc": "对指定我方单体及其相邻目标造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "对指定我方单体及其相邻目标造成<1>风属性伤害，并有@100%#基础概率使其陷入``风化`状态。\n风化持续伤害：每层<2>风属性伤害，持续@2#回合，最多叠加@5#层。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -5952,7 +5952,7 @@ var _monsterskill = {
     "800305003": {
         "Key": "Skill04",
         "Name": "拈风张弩",
-        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态，并<b>锁定</b>陷入<color style='color:#f29e38;'>风化</color>状态的所有我方目标，下次行动施放<color style='color:#f29e38;'>【风落暴矢】</color>。",
+        "Desc": "进入@蓄力#状态，并``锁定`陷入@风化#状态的所有我方目标，下次行动施放@【风落暴矢】#。",
         "SP": 0,
         "Prepare": [
             800305004
@@ -5965,7 +5965,7 @@ var _monsterskill = {
     "800305004": {
         "Key": "Skill05",
         "Name": "风落暴矢",
-        "Desc": "对处于风化状态的我方目标造成<1>风属性伤害。<br>若场上没有处于风化状态的我方目标，则本技能施放失败。",
+        "Desc": "对处于风化状态的我方目标造成<1>风属性伤害。\n若场上没有处于风化状态的我方目标，则本技能施放失败。",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true,
@@ -5979,7 +5979,7 @@ var _monsterskill = {
     "800305005": {
         "Key": "PassiveSkillInitiate",
         "Name": "风浪急旋",
-        "Desc": "攻击陷入风化状态的我方目标后，自身攻击力提高<color style='color:#f29e38;'>8%</color>，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。<br>当弱点被击破时，该效果解除。",
+        "Desc": "攻击陷入风化状态的我方目标后，自身攻击力提高@8%#，持续@2#回合，最多叠加@5#层。\n当弱点被击破时，该效果解除。",
         "SP": 0,
         "Status": [
             280130202
@@ -5994,7 +5994,7 @@ var _monsterskill = {
     "800305101": {
         "Key": "Skill01",
         "Name": "巡风光陨",
-        "Desc": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并有@100%#基础概率使其陷入``风化`状态。\n风化持续伤害：每层<2>风属性伤害，持续@3#回合，最多叠加@5#层。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -6008,7 +6008,7 @@ var _monsterskill = {
     "800305102": {
         "Key": "Skill03",
         "Name": "踏风而行",
-        "Desc": "对指定我方单体及其相邻目标造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "对指定我方单体及其相邻目标造成<1>风属性伤害，并有@100%#基础概率使其陷入``风化`状态。\n风化持续伤害：每层<2>风属性伤害，持续@3#回合，最多叠加@5#层。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -6022,7 +6022,7 @@ var _monsterskill = {
     "800305103": {
         "Key": "Skill04",
         "Name": "拈风张弩",
-        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态，并锁定陷入风化状态的所有我方目标，下次行动施放<color style='color:#f29e38;'>【风落暴矢】</color>。",
+        "Desc": "进入@蓄力#状态，并锁定陷入风化状态的所有我方目标，下次行动施放@【风落暴矢】#。",
         "SP": 0,
         "Prepare": [
             800305104
@@ -6035,7 +6035,7 @@ var _monsterskill = {
     "800305104": {
         "Key": "Skill05",
         "Name": "风落暴矢",
-        "Desc": "对处于<color style='color:#f29e38;'>风化</color>状态的我方目标造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标再次陷入<b>风化</b>状态。<br>若场上没有处于风化状态的我方目标，则本技能施放失败。",
+        "Desc": "对处于@风化#状态的我方目标造成<1>风属性伤害，并有@100%#基础概率使受到攻击的我方目标再次陷入``风化`状态。\n若场上没有处于风化状态的我方目标，则本技能施放失败。",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true,
@@ -6049,7 +6049,7 @@ var _monsterskill = {
     "800305105": {
         "Key": "PassiveSkillInitiate",
         "Name": "风浪急旋",
-        "Desc": "攻击陷入风化状态的我方目标后，自身攻击力提高<color style='color:#f29e38;'>8%</color>，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。<br>当弱点被击破时，该效果解除。",
+        "Desc": "攻击陷入风化状态的我方目标后，自身攻击力提高@8%#，持续@2#回合，最多叠加@10#层。\n当弱点被击破时，该效果解除。",
         "SP": 0,
         "Status": [
             280130202
@@ -6077,7 +6077,7 @@ var _monsterskill = {
     "800305109": {
         "Key": "Skill09",
         "Name": "即来之风",
-        "Desc": "召唤<color style='color:#f29e38;'>4</color>个<color style='color:#f29e38;'>【巽风造物】</color>。",
+        "Desc": "召唤@4#个@【巽风造物】#。",
         "SP": 0,
         "Elem": "Wind",
         "Summon": [
@@ -6087,7 +6087,7 @@ var _monsterskill = {
     "202303001": {
         "Key": "Skill01",
         "Name": "若木化生仪祷",
-        "Desc": "连续<color style='color:#f29e38;'>5</color>次：对我方随机单体造成<1>风属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "连续@5#次：对我方随机单体造成<1>风属性伤害，有@100%#基础概率使其陷入``风化`状态。\n风化持续伤害：每层<2>风属性伤害，持续@3#回合，最多叠加@5#层。",
         "SP": 5.0,
         "Elem": "Wind",
         "Status": [
@@ -6101,7 +6101,7 @@ var _monsterskill = {
     "202303002": {
         "Key": "Skill02",
         "Name": "导引巽风",
-        "Desc": "对指定我方单体及其相邻目标造成<1>风属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "对指定我方单体及其相邻目标造成<1>风属性伤害，有@100%#基础概率使其陷入``风化`状态。\n风化持续伤害：每层<2>风属性伤害，持续@3#回合，最多叠加@5#层。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -6115,7 +6115,7 @@ var _monsterskill = {
     "202303003": {
         "Key": "Skill03",
         "Name": "若木棘",
-        "Desc": "对指定我方单体造成<1>风属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "对指定我方单体造成<1>风属性伤害，有@100%#基础概率使其陷入``风化`状态。\n风化持续伤害：每层<2>风属性伤害，持续@3#回合，最多叠加@5#层。",
         "SP": 15.0,
         "Elem": "Wind",
         "Status": [
@@ -6129,7 +6129,7 @@ var _monsterskill = {
     "202303004": {
         "Key": "Skill04",
         "Name": "玄气咒厌法",
-        "Desc": "进入<color style='color:#f29e38;'>【持咒】</color>状态。下次行动对我方全体施放<color style='color:#f29e38;'>【玄气噬身】</color>。",
+        "Desc": "进入@【持咒】#状态。下次行动对我方全体施放@【玄气噬身】#。",
         "SP": 10.0,
         "Elem": "Wind",
         "Prepare": [
@@ -6142,7 +6142,7 @@ var _monsterskill = {
     "202303005": {
         "Key": "Skill05",
         "Name": "玄气噬身",
-        "Desc": "有<color style='color:#f29e38;'>100%</color>基础概率使我方全体陷入<color style='color:#f29e38;'>【噬命】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>噬命：可回复的生命值上限降低<color style='color:#f29e38;'>30%</color>。",
+        "Desc": "有@100%#基础概率使我方全体陷入@【噬命】#状态，持续@2#回合。\n噬命：可回复的生命值上限降低@30%#。",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true,
@@ -6153,7 +6153,7 @@ var _monsterskill = {
     "801501001": {
         "Key": "PassiveSkill02",
         "Name": "古兽余威",
-        "Desc": "当【反物质引擎】、【灾虐的右手】、【黎明的左手】未被全部击溃时，无法攻击末日兽。<br>瘫痪后，受到的伤害提升<color style='color:#f29e38;'>900%</color>。",
+        "Desc": "当【反物质引擎】、【灾虐的右手】、【黎明的左手】未被全部击溃时，无法攻击末日兽。\n瘫痪后，受到的伤害提升@900%#。",
         "SP": 0,
         "Elem": "Quantum",
         "Status": [
@@ -6178,7 +6178,7 @@ var _monsterskill = {
     "801214002": {
         "Key": "Skill02",
         "Name": "荒难的割扯",
-        "Desc": "对我方全体造成<1>虚数属性伤害，同时有<color style='color:#f29e38;'>20%</color>基础概率使我方目标陷入<b>禁锢</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，速度降低<color style='color:#f29e38;'>30%</color>，行动延后<color style='color:#f29e38;'>20%</color>。",
+        "Desc": "对我方全体造成<1>虚数属性伤害，同时有@20%#基础概率使我方目标陷入``禁锢`状态，持续@1#回合。\n禁锢：无法行动，速度降低@30%#，行动延后@20%#。",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Status": [
@@ -6191,7 +6191,7 @@ var _monsterskill = {
     "801214003": {
         "Key": "Skill03",
         "Name": "劫虐崩裂之时",
-        "Desc": "对我方全体造成<1>虚数属性伤害，同时有<color style='color:#f29e38;'>25%</color>基础概率使我方目标陷入<b>禁锢</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，速度降低<color style='color:#f29e38;'>30%</color>，行动延后<color style='color:#f29e38;'>20%</color>。",
+        "Desc": "对我方全体造成<1>虚数属性伤害，同时有@25%#基础概率使我方目标陷入``禁锢`状态，持续@1#回合。\n禁锢：无法行动，速度降低@30%#，行动延后@20%#。",
         "SP": 10.0,
         "Elem": "Imaginary",
         "Status": [
@@ -6204,7 +6204,7 @@ var _monsterskill = {
     "801314101": {
         "Key": "Skill07",
         "Name": "虚明裂变",
-        "Desc": "对敌方单体【灾虐的右手】施加<color style='color:#f29e38;'>【增幅】</color>状态：恢复其韧性，使其攻击力提高<color style='color:#f29e38;'>60%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "对敌方单体【灾虐的右手】施加@【增幅】#状态：恢复其韧性，使其攻击力提高@60%#，持续@2#回合。",
         "SP": 0,
         "Status": [
             280150103
@@ -6213,7 +6213,7 @@ var _monsterskill = {
     "801314102": {
         "Key": "Skill08",
         "Name": "灾厄侵袭",
-        "Desc": "对敌方单体【黎明的左手】施加<color style='color:#f29e38;'>【增幅】</color>状态：恢复其韧性，使其攻击力提高<color style='color:#f29e38;'>60%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "对敌方单体【黎明的左手】施加@【增幅】#状态：恢复其韧性，使其攻击力提高@60%#，持续@2#回合。",
         "SP": 0,
         "Status": [
             280150103
@@ -6222,7 +6222,7 @@ var _monsterskill = {
     "801314103": {
         "Key": "Skill09",
         "Name": "引擎升变",
-        "Desc": "对除自身外的敌方全体施加<color style='color:#f29e38;'>【增幅】</color>状态：恢复其韧性，使其攻击力提高<color style='color:#f29e38;'>60%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "对除自身外的敌方全体施加@【增幅】#状态：恢复其韧性，使其攻击力提高@60%#，持续@2#回合。",
         "SP": 0,
         "Status": [
             280150103
@@ -6241,7 +6241,7 @@ var _monsterskill = {
     "801314105": {
         "Key": "Skill11",
         "Name": "灾虐前兆",
-        "Desc": "进入蓄力状态，下次行动时对我方全体施放<color style='color:#f29e38;'>【末日临空】</color>。<br>攻击力提高<color style='color:#f29e38;'>60%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+        "Desc": "进入蓄力状态，下次行动时对我方全体施放@【末日临空】#。\n攻击力提高@60%#，持续@1#回合。",
         "SP": 0,
         "Elem": "Quantum",
         "Prepare": [
@@ -6262,7 +6262,7 @@ var _monsterskill = {
     "801314107": {
         "Key": "PassiveSkill03",
         "Name": "引擎狭缝",
-        "Desc": "每当【反物质引擎】从弱点击破状态恢复，其弱点属性会发生改变。<br>第二阶段期间，速度提升<color style='color:#f29e38;'>40%</color>。",
+        "Desc": "每当【反物质引擎】从弱点击破状态恢复，其弱点属性会发生改变。\n第二阶段期间，速度提升@40%#。",
         "SP": 0,
         "Elem": "Quantum",
         "Status": [
@@ -6283,7 +6283,7 @@ var _monsterskill = {
     "801214202": {
         "Key": "Skill05",
         "Name": "坠星的叩问",
-        "Desc": "对我方单体造成<1>量子属性伤害，同时有<color style='color:#f29e38;'>30%</color>基础概率使该目标陷入<b>纠缠</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>纠缠基础伤害：<2>量子属性伤害，行动延后<color style='color:#f29e38;'>30%</color>。",
+        "Desc": "对我方单体造成<1>量子属性伤害，同时有@30%#基础概率使该目标陷入``纠缠`状态，持续@1#回合。\n纠缠基础伤害：<2>量子属性伤害，行动延后@30%#。",
         "SP": 10.0,
         "Elem": "Quantum",
         "Status": [
@@ -6297,7 +6297,7 @@ var _monsterskill = {
     "801214203": {
         "Key": "Skill06",
         "Name": "曙光黯然之时",
-        "Desc": "对我方单体造成<1>量子属性伤害，同时有<color style='color:#f29e38;'>50%</color>基础概率使该目标陷入<b>纠缠</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>纠缠基础伤害：<2>量子属性伤害，行动延后<color style='color:#f29e38;'>30%</color>。",
+        "Desc": "对我方单体造成<1>量子属性伤害，同时有@50%#基础概率使该目标陷入``纠缠`状态，持续@1#回合。\n纠缠基础伤害：<2>量子属性伤害，行动延后@30%#。",
         "SP": 15.0,
         "Elem": "Quantum",
         "Status": [
@@ -6311,7 +6311,7 @@ var _monsterskill = {
     "801501101": {
         "Key": "PassiveSkill02",
         "Name": "古兽余威",
-        "Desc": "当【反物质引擎】、【灾虐的右手】、【黎明的左手】未被全部击溃时，无法攻击末日兽。<br>瘫痪后，受到的伤害提升<color style='color:#f29e38;'>900%</color>。",
+        "Desc": "当【反物质引擎】、【灾虐的右手】、【黎明的左手】未被全部击溃时，无法攻击末日兽。\n瘫痪后，受到的伤害提升@900%#。",
         "SP": 0,
         "Elem": "Quantum",
         "Status": [
@@ -6356,7 +6356,7 @@ var _monsterskill = {
     "801314401": {
         "Key": "Skill07",
         "Name": "虚明裂变",
-        "Desc": "对敌方单体【灾虐的右手】施加<color style='color:#f29e38;'>【增幅】</color>状态：恢复其韧性，使其攻击力提高<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "对敌方单体【灾虐的右手】施加@【增幅】#状态：恢复其韧性，使其攻击力提高@20%#，持续@2#回合。",
         "SP": 0,
         "Status": [
             280150103
@@ -6365,7 +6365,7 @@ var _monsterskill = {
     "801314402": {
         "Key": "Skill08",
         "Name": "灾厄侵袭",
-        "Desc": "对敌方单体【黎明的左手】施加<color style='color:#f29e38;'>【增幅】</color>状态：恢复其韧性，使其攻击力提高<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "对敌方单体【黎明的左手】施加@【增幅】#状态：恢复其韧性，使其攻击力提高@20%#，持续@2#回合。",
         "SP": 0,
         "Status": [
             280150103
@@ -6374,7 +6374,7 @@ var _monsterskill = {
     "801314403": {
         "Key": "Skill09",
         "Name": "引擎升变",
-        "Desc": "对除自身外的敌方全体施加<color style='color:#f29e38;'>【增幅】</color>状态：恢复其韧性，使其攻击力提高<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "对除自身外的敌方全体施加@【增幅】#状态：恢复其韧性，使其攻击力提高@20%#，持续@2#回合。",
         "SP": 0,
         "Status": [
             280150103
@@ -6414,7 +6414,7 @@ var _monsterskill = {
     "801314407": {
         "Key": "PassiveSkill03",
         "Name": "引擎狭缝",
-        "Desc": "每当【反物质引擎】从弱点击破状态恢复，其弱点属性会发生改变。<br>第二阶段期间，速度提升<color style='color:#f29e38;'>50%</color>。",
+        "Desc": "每当【反物质引擎】从弱点击破状态恢复，其弱点属性会发生改变。\n第二阶段期间，速度提升@50%#。",
         "SP": 0,
         "Elem": "Quantum",
         "Status": [
@@ -6471,7 +6471,7 @@ var _monsterskill = {
     "202205001": {
         "Key": "Skill01",
         "Name": "狼餐",
-        "Desc": "对指定我方单体造成<1>雷属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，有@100%#基础概率使其陷入``触电`状态。\n触电持续伤害：<2>雷属性伤害，持续@3#回合，最多叠加@1#层。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -6485,7 +6485,7 @@ var _monsterskill = {
     "202205002": {
         "Key": "Skill02",
         "Name": "啸聚",
-        "Desc": "召唤<color style='color:#f29e38;'>1</color>个当前生命值与自身相同的<color style='color:#f29e38;'>【狈影】</color>。",
+        "Desc": "召唤@1#个当前生命值与自身相同的@【狈影】#。",
         "SP": 0,
         "Summon": [
             2022051
@@ -6500,7 +6500,7 @@ var _monsterskill = {
     "202205101": {
         "Key": "Skill01",
         "Name": "狼餐",
-        "Desc": "对指定我方单体造成<1>雷属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，有@100%#基础概率使其陷入``触电`状态。\n触电持续伤害：<2>雷属性伤害，持续@3#回合，最多叠加@1#层。",
         "SP": 10.0,
         "Elem": "Elec",
         "Status": [
@@ -6514,7 +6514,7 @@ var _monsterskill = {
     "202206001": {
         "Key": "Skill01",
         "Name": "犀弩",
-        "Desc": "连续<color style='color:#f29e38;'>6</color>次：对我方随机单体造成<1>雷属性伤害。",
+        "Desc": "连续@6#次：对我方随机单体造成<1>雷属性伤害。",
         "SP": 15.0,
         "Elem": "Elec",
         "DMG": [
@@ -6524,7 +6524,7 @@ var _monsterskill = {
     "202302001": {
         "Key": "Skill01",
         "Name": "猱击",
-        "Desc": "消耗1层<color style='color:#f29e38;'>【元气】</color>，并对被标记为监视目标的我方单体造成<1>量子属性伤害。",
+        "Desc": "消耗1层@【元气】#，并对被标记为监视目标的我方单体造成<1>量子属性伤害。",
         "SP": 15.0,
         "Elem": "Quantum",
         "Status": [
@@ -6537,7 +6537,7 @@ var _monsterskill = {
     "202302002": {
         "Key": "Skill02",
         "Name": "猱击",
-        "Desc": "消耗1层<color style='color:#f29e38;'>【元气】</color>，并对被标记为监视目标的我方单体造成<1>量子属性伤害。",
+        "Desc": "消耗1层@【元气】#，并对被标记为监视目标的我方单体造成<1>量子属性伤害。",
         "SP": 15.0,
         "Elem": "Quantum",
         "Status": [
@@ -6550,7 +6550,7 @@ var _monsterskill = {
     "202302003": {
         "Key": "Skill03",
         "Name": "奋威",
-        "Desc": "使自身造成的伤害提高<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>3</color>层。",
+        "Desc": "使自身造成的伤害提高@20%#，持续@2#回合，最多叠加@3#层。",
         "SP": 0,
         "Status": [
             220230205
@@ -6559,7 +6559,7 @@ var _monsterskill = {
     "202302004": {
         "Key": "Skill04",
         "Name": "怒啸",
-        "Desc": "获得<color style='color:#f29e38;'>3</color>层<color style='color:#f29e38;'>【元气】</color>，将随机我方单体标记为<b>监视目标</b>。每当我方目标施放战技时，会转为标记最新施放战技的目标，直到【元气】耗尽。",
+        "Desc": "获得@3#层@【元气】#，将随机我方单体标记为``监视目标`。每当我方目标施放战技时，会转为标记最新施放战技的目标，直到【元气】耗尽。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -6582,7 +6582,7 @@ var _monsterskill = {
     "200402101": {
         "Key": "Skill01",
         "Name": "快哉风",
-        "Desc": "对指定我方单体造成<1>冰属性伤害，并使彦卿和所有飞剑获得1层<color style='color:#f29e38;'>【寒芒】</color>：造成的伤害提高<color style='color:#f29e38;'>10%</color>，可叠加，不可解除。",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，并使彦卿和所有飞剑获得1层@【寒芒】#：造成的伤害提高@10%#，可叠加，不可解除。",
         "SP": 10.0,
         "Elem": "Ice",
         "Status": [
@@ -6595,7 +6595,7 @@ var _monsterskill = {
     "200402102": {
         "Key": "Skill02",
         "Name": "燕归来",
-        "Desc": "召唤4把<color style='color:#f29e38;'>【飞剑】</color>，获得<color style='color:#f29e38;'>【剑阵】</color>效果提升速度，并使【飞剑】获得<color style='color:#f29e38;'>【阵眼】</color>。<br>第三阶段时额外使一支【飞剑】额外获得<color style='color:#f29e38;'>【砥砺】</color>。<br><br>剑阵：锁韧性，速度提升<color style='color:#f29e38;'>60</color>点。所有飞剑被消灭后解除，并流失<color style='color:#f29e38;'>20%</color>生命值。<br>砥砺：韧性从1变为2，攻击命中目标时，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>冻结</b>状态。冻结附加伤害：<1>冰属性伤害，持续<color style='color:#f29e38;'>1</color>回合。",
+        "Desc": "召唤4把@【飞剑】#，获得@【剑阵】#效果提升速度，并使【飞剑】获得@【阵眼】#。\n第三阶段时额外使一支【飞剑】额外获得@【砥砺】#。\n\n剑阵：锁韧性，速度提升@60#点。所有飞剑被消灭后解除，并流失@20%#生命值。\n砥砺：韧性从1变为2，攻击命中目标时，有@100%#基础概率使其陷入``冻结`状态。冻结附加伤害：<1>冰属性伤害，持续@1#回合。",
         "SP": 10.0,
         "Status": [
             220040211,
@@ -6613,7 +6613,7 @@ var _monsterskill = {
     "200402103": {
         "Key": "Skill03",
         "Name": "三尺水",
-        "Desc": "对指定我方单体造成<1>冰属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使目标陷入<b>冻结</b>状态。冻结附加伤害：<2>冰属性伤害，持续<color style='color:#f29e38;'>1</color>回合。",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，有@100%#基础概率使目标陷入``冻结`状态。冻结附加伤害：<2>冰属性伤害，持续@1#回合。",
         "SP": 15.0,
         "Elem": "Ice",
         "DMG": [
@@ -6635,7 +6635,7 @@ var _monsterskill = {
     "200402105": {
         "Key": "Skill05",
         "Name": "剑气近",
-        "Desc": "进入蓄力状态。下次行动对我方全体施放<color style='color:#f29e38;'>【天河泻】</color>。",
+        "Desc": "进入蓄力状态。下次行动对我方全体施放@【天河泻】#。",
         "SP": 10.0,
         "Prepare": [
             200402106
@@ -6655,7 +6655,7 @@ var _monsterskill = {
     "200402107": {
         "Key": "Skill07",
         "Name": "剑气凝",
-        "Desc": "锁定我方单体，两回合后对其施放<color style='color:#f29e38;'>【风归云动，天河泻梦】</color>。",
+        "Desc": "锁定我方单体，两回合后对其施放@【风归云动，天河泻梦】#。",
         "SP": 0,
         "Prepare": [
             200402108
@@ -6676,7 +6676,7 @@ var _monsterskill = {
     "200402109": {
         "Key": "SkillP01",
         "Name": "dev_被动技能（不显示）",
-        "Desc": "第三阶段韧性变为原本的<color style='color:#f29e38;'>1.5</color>倍，速度提高<color style='color:#f29e38;'>50</color>点。",
+        "Desc": "第三阶段韧性变为原本的@1.5#倍，速度提高@50#点。",
         "SP": 15.0
     },
     "800204101": {
@@ -6712,7 +6712,7 @@ var _monsterskill = {
     "300101001": {
         "Key": "Skill01",
         "Name": "掷点",
-        "Desc": "对指定我方单体造成<1>物理属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入虚弱状态：效果抵抗降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+        "Desc": "对指定我方单体造成<1>物理属性伤害，有@100%#基础概率使受到攻击的我方目标陷入虚弱状态：效果抵抗降低@20%#，持续@1#回合。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -6725,7 +6725,7 @@ var _monsterskill = {
     "300102001": {
         "Key": "Skill01",
         "Name": "邀舞",
-        "Desc": "对指定我方单体造成<1>物理属性伤害，有<color style='color:#f29e38;'>50%</color>基础概率使受到攻击的我方目标陷入<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "Desc": "对指定我方单体造成<1>物理属性伤害，有@50%#基础概率使受到攻击的我方目标陷入``裂伤`状态。\n裂伤持续伤害：每层<2>物理伤害，持续@2#回合，最多叠加@10#层。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -6736,7 +6736,7 @@ var _monsterskill = {
     "201301102": {
         "Key": "Skill01",
         "Name": "儆惧",
-        "Desc": "提高<color style='color:#f29e38;'>33%</color>【惩戒度】等级，并对我方全体造成<1>虚数属性伤害。<br>有<color style='color:#f29e38;'>100%</color>基础概率使我方目标陷入<b>虚弱</b>状态。<br>虚弱：造成的伤害降低<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "提高@33%#【惩戒度】等级，并对我方全体造成<1>虚数属性伤害。\n有@100%#基础概率使我方目标陷入``虚弱`状态。\n虚弱：造成的伤害降低@30%#，持续@2#回合。",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Status": [
@@ -6756,7 +6756,7 @@ var _monsterskill = {
     "201301104": {
         "Key": "Skill03",
         "Name": "追摄",
-        "Desc": "对1个被锁定的目标造成<1>虚数属性伤害，移除锁定状态，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者陷入<b>禁锢</b>状态：行动延后<color style='color:#f29e38;'>60%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+        "Desc": "对1个被锁定的目标造成<1>虚数属性伤害，移除锁定状态，并有@100%#基础概率使受击者陷入``禁锢`状态：行动延后@60%#，持续@1#回合。",
         "SP": 15.0,
         "Elem": "Imaginary",
         "Threat": true,
@@ -6771,7 +6771,7 @@ var _monsterskill = {
     "201301101": {
         "Key": "SkillP01",
         "Name": "明罚敕法",
-        "Desc": "当我方目标施放战技或终结技进行攻击时会积累<color style='color:#f29e38;'>33%</color>【惩戒度】等级。<br>当【惩戒度】等级满级时，立即进入<color style='color:#f29e38;'>【罚恶模式•慎刑】</color>：速度提升<color style='color:#f29e38;'>75%</color>，<b>锁定</b><color style='color:#f29e38;'>3</color>个我方目标，解锁技能<color style='color:#f29e38;'>【追摄】</color>，同时召唤<color style='color:#f29e38;'>2</color>个<color style='color:#f29e38;'>【入魔机巧 • 灯昼龙鱼】</color>。",
+        "Desc": "当我方目标施放战技或终结技进行攻击时会积累@33%#【惩戒度】等级。\n当【惩戒度】等级满级时，立即进入@【罚恶模式•慎刑】#：速度提升@75%#，``锁定`@3#个我方目标，解锁技能@【追摄】#，同时召唤@2#个@【入魔机巧 • 灯昼龙鱼】#。",
         "SP": 0,
         "Prepare": [
             201301104
@@ -6824,7 +6824,7 @@ var _monsterskill = {
     "202301105": {
         "Key": "Skill05",
         "Name": "交感",
-        "Desc": "消耗<color style='color:#f29e38;'>15%生命值上限</color>，召唤<color style='color:#f29e38;'>2</color>个【魔阴身士卒】和<color style='color:#f29e38;'>2</color>个【「药王秘传」内丹士】。<br>锁定我方当前生命值百分比最低的目标，使敌方全体集中攻击该目标。",
+        "Desc": "消耗@15%生命值上限#，召唤@2#个【魔阴身士卒】和@2#个【「药王秘传」内丹士】。\n锁定我方当前生命值百分比最低的目标，使敌方全体集中攻击该目标。",
         "SP": 0,
         "Threat": true,
         "Summon": [
@@ -6835,7 +6835,7 @@ var _monsterskill = {
     "202301106": {
         "Key": "SkillP01",
         "Name": "采气",
-        "Desc": "当场上其它敌方目标带有<color style='color:#f29e38;'>【重生】</color>时，其自身具有<color style='color:#f29e38;'>【击中回复】</color>。<br><br>击中回复：<br>【震击】回复<color style='color:#f29e38;'>3%生命值上限</color><br>【霆罚】回复<color style='color:#f29e38;'>9%生命值上限</color><br>【劫雷】回复<color style='color:#f29e38;'>24%生命值上限</color>",
+        "Desc": "当场上其它敌方目标带有@【重生】#时，其自身具有@【击中回复】#。\n\n击中回复：\n【震击】回复@3%生命值上限#\n【霆罚】回复@9%生命值上限#\n【劫雷】回复@24%生命值上限#",
         "SP": 0,
         "Status": [
             220220101,
@@ -7114,7 +7114,7 @@ var _monsterskill = {
     "300203002": {
         "Key": "Skill02",
         "Name": "泼洒甜蜜",
-        "Desc": "受到致命攻击时，使自身相邻的敌方目标速度提高<color style='color:#f29e38;'>30%</color>，但会对其造成<color style='color:#f29e38;'>1%生命值上限</color>的物理伤害，并使其陷入裂伤状态。",
+        "Desc": "受到致命攻击时，使自身相邻的敌方目标速度提高@30%#，但会对其造成@1%生命值上限#的物理伤害，并使其陷入裂伤状态。",
         "SP": 0
     },
     "800205801": {
@@ -7210,7 +7210,7 @@ var _monsterskill = {
     "300203003": {
         "Key": "SkillP01",
         "Name": "酣畅",
-        "Desc": "受到攻击或持续伤害时，获得1层可叠加的【苏乐达陶醉】：造成的伤害提高<color style='color:#f29e38;'>50%</color>，最多叠加<color style='color:#f29e38;'>4</color>层。",
+        "Desc": "受到攻击或持续伤害时，获得1层可叠加的【苏乐达陶醉】：造成的伤害提高@50%#，最多叠加@4#层。",
         "SP": 0,
         "Status": [
             230020301
@@ -7251,7 +7251,7 @@ var _monsterskill = {
     "302401004": {
         "Key": "Skill04",
         "Name": "坚韧灵魂",
-        "Desc": "释放一个雕塑中纯美的灵魂。<color style='color:#f29e38;'>【灵魂释放】</color>的雕塑技能效果增强，持续<color style='color:#f29e38;'>3</color>回合。",
+        "Desc": "释放一个雕塑中纯美的灵魂。@【灵魂释放】#的雕塑技能效果增强，持续@3#回合。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -7283,7 +7283,7 @@ var _monsterskill = {
     "202302101": {
         "Key": "Skill01",
         "Name": "猱击",
-        "Desc": "消耗所有<color style='color:#f29e38;'>【元气】</color>，对被<b>监视</b>的我方单体造成<1>量子属性伤害。每消耗一层元气，额外造成<2>量子属性伤害。",
+        "Desc": "消耗所有@【元气】#，对被``监视`的我方单体造成<1>量子属性伤害。每消耗一层元气，额外造成<2>量子属性伤害。",
         "SP": 15.0,
         "Elem": "Quantum",
         "Threat": true,
@@ -7299,7 +7299,7 @@ var _monsterskill = {
     "202302102": {
         "Key": "Skill02",
         "Name": "怒啸",
-        "Desc": "将随机我方单体标记为<b>监视目标</b>。每当我方目标施放战技时，会转为标记最新施放战技的目标，并获得一次<color style='color:#f29e38;'>【元气】</color>。<br>下次行动释放<color style='color:#f29e38;'>【猱击】</color>，并消耗所有元气。<br>当弱点被击破时，积累的【元气】将消失。",
+        "Desc": "将随机我方单体标记为``监视目标`。每当我方目标施放战技时，会转为标记最新施放战技的目标，并获得一次@【元气】#。\n下次行动释放@【猱击】#，并消耗所有元气。\n当弱点被击破时，积累的【元气】将消失。",
         "SP": 0,
         "Threat": true,
         "Prepare": [
@@ -7335,7 +7335,7 @@ var _monsterskill = {
     "202303101": {
         "Key": "Skill01",
         "Name": "若木化生仪祷",
-        "Desc": "连续<color style='color:#f29e38;'>5</color>次：对我方随机单体造成<1>风属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "连续@5#次：对我方随机单体造成<1>风属性伤害，有@100%#基础概率使其陷入``风化`状态。\n风化持续伤害：每层<2>风属性伤害，持续@3#回合，最多叠加@5#层。",
         "SP": 5.0,
         "Elem": "Wind",
         "Status": [
@@ -7349,7 +7349,7 @@ var _monsterskill = {
     "202303102": {
         "Key": "Skill02",
         "Name": "导引巽风",
-        "Desc": "对指定我方单体及其相邻目标造成<1>风属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "对指定我方单体及其相邻目标造成<1>风属性伤害，有@100%#基础概率使其陷入``风化`状态。\n风化持续伤害：每层<2>风属性伤害，持续@3#回合，最多叠加@5#层。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -7363,7 +7363,7 @@ var _monsterskill = {
     "202303103": {
         "Key": "Skill03",
         "Name": "若木棘",
-        "Desc": "对指定我方单体造成<1>风属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "对指定我方单体造成<1>风属性伤害，有@100%#基础概率使其陷入``风化`状态。\n风化持续伤害：每层<2>风属性伤害，持续@3#回合，最多叠加@5#层。",
         "SP": 15.0,
         "Elem": "Wind",
         "Status": [
@@ -7377,7 +7377,7 @@ var _monsterskill = {
     "202303104": {
         "Key": "Skill05",
         "Name": "玄气噬身",
-        "Desc": "有<color style='color:#f29e38;'>100%</color>基础概率使我方全体陷入<color style='color:#f29e38;'>【可叠加噬命】</color>状态，持续<color style='color:#f29e38;'>3</color>回合。<br>可叠加噬命：每次叠加时，不可回复的黑色生命值增加<color style='color:#f29e38;'>20%</color>，最多叠加<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>3</color>回合。",
+        "Desc": "有@100%#基础概率使我方全体陷入@【可叠加噬命】#状态，持续@3#回合。\n可叠加噬命：每次叠加时，不可回复的黑色生命值增加@20%#，最多叠加@50%#，持续@3#回合。",
         "SP": 15.0,
         "Elem": "Wind",
         "Threat": true,
@@ -7388,7 +7388,7 @@ var _monsterskill = {
     "202303105": {
         "Key": "SkillP01",
         "Name": "生机虚竭",
-        "Desc": "攻击命中带有<color style='color:#f29e38;'>【可叠加噬命】</color>的目标时，将此次攻击造成的生命值损失，叠加至<color style='color:#f29e38;'>【可叠加噬命】</color>的黑色生命值里，并刷新其持续时间。",
+        "Desc": "攻击命中带有@【可叠加噬命】#的目标时，将此次攻击造成的生命值损失，叠加至@【可叠加噬命】#的黑色生命值里，并刷新其持续时间。",
         "SP": 0,
         "Elem": "Wind",
         "Threat": true
@@ -7416,7 +7416,7 @@ var _monsterskill = {
     "301402003": {
         "Key": "Skill03",
         "Name": "锋锐悼词",
-        "Desc": "使自身造成的伤害提升<color style='color:#f29e38;'>100%</color>，持续1回合，陷入弱点击破状态后解除。",
+        "Desc": "使自身造成的伤害提升@100%#，持续1回合，陷入弱点击破状态后解除。",
         "SP": 0,
         "Status": [
             230140207
@@ -7425,7 +7425,7 @@ var _monsterskill = {
     "301402004": {
         "Key": "Skill04",
         "Name": "光明消歇",
-        "Desc": "进入<color style='color:#f29e38;'>【白日西沉】</color>状态。每当我方施放普攻、战技、终结技时叠加1层，当【白日西沉】叠加至3层时，立即对上一个行动的我方施放<color style='color:#f29e38;'>【已在黄昏失色】</color>。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
+        "Desc": "进入@【白日西沉】#状态。每当我方施放普攻、战技、终结技时叠加1层，当【白日西沉】叠加至3层时，立即对上一个行动的我方施放@【已在黄昏失色】#。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -7435,7 +7435,7 @@ var _monsterskill = {
     "301402005": {
         "Key": "Skill05",
         "Name": "已在黄昏失色",
-        "Desc": "立即对上一名施放普攻、战技、终结技的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
+        "Desc": "立即对上一名施放普攻、战技、终结技的我方目标发动致命攻击，使其陷入@【梦死】#状态。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -7445,7 +7445,7 @@ var _monsterskill = {
     "301402006": {
         "Key": "Skill06",
         "Name": "步入良夜",
-        "Desc": "恢复我方全体全部能量，并进入<color style='color:#f29e38;'>【夜幕降临】</color>状态：锁定2名最先行动的我方目标。下次行动时使用<color style='color:#f29e38;'>【如水逝于水中】</color>。",
+        "Desc": "恢复我方全体全部能量，并进入@【夜幕降临】#状态：锁定2名最先行动的我方目标。下次行动时使用@【如水逝于水中】#。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -7455,7 +7455,7 @@ var _monsterskill = {
     "301402007": {
         "Key": "Skill07",
         "Name": "如水逝于水中",
-        "Desc": "立即对所有被锁定的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
+        "Desc": "立即对所有被锁定的我方目标发动致命攻击，使其陷入@【梦死】#状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入@【梦死】#状态。",
         "SP": 0,
         "Threat": true
     },
@@ -7468,7 +7468,7 @@ var _monsterskill = {
     "301402009": {
         "Key": "PassiveSkill02",
         "Name": "无从凭吊的荒场",
-        "Desc": "每当我方目标陷入<color style='color:#f29e38;'>【梦死】</color>状态时，召唤一个对应的<color style='color:#f29e38;'>【永眠墓碣】</color>；当我方全体陷入【梦死】状态或无法战斗状态时，战斗失败。",
+        "Desc": "每当我方目标陷入@【梦死】#状态时，召唤一个对应的@【永眠墓碣】#；当我方全体陷入【梦死】状态或无法战斗状态时，战斗失败。",
         "SP": 0
     },
     "301402010": {
@@ -7520,7 +7520,7 @@ var _monsterskill = {
     "800304205": {
         "Key": "Skill04",
         "Name": "黄金年代的解放",
-        "Desc": "每有一层<color style='color:#f29e38;'>【追忆刻度】</color>，对随机我方单体造成一次<1>虚数属性伤害，最多<color style='color:#f29e38;'>9</color>层。<br>若没有【追忆刻度】则本技能施放失败。",
+        "Desc": "每有一层@【追忆刻度】#，对随机我方单体造成一次<1>虚数属性伤害，最多@9#层。\n若没有【追忆刻度】则本技能施放失败。",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Threat": true,
@@ -7534,7 +7534,7 @@ var _monsterskill = {
     "800304206": {
         "Key": "PassiveSkill01",
         "Name": "流年盾纱",
-        "Desc": "自身受到的普攻、战技、终结技、追加攻击伤害降低<color style='color:#f29e38;'>10%</color>。<br>任意攻击命中我方后，有<color style='color:#f29e38;'>1%</color>基础概率施加<b>禁锢</b>，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>50%</color>。",
+        "Desc": "自身受到的普攻、战技、终结技、追加攻击伤害降低@10%#。\n任意攻击命中我方后，有@1%#基础概率施加``禁锢`，持续@1#回合。\n禁锢：无法行动，行动延后@50%#。",
         "SP": 0,
         "Status": [
             30020013
@@ -7543,7 +7543,7 @@ var _monsterskill = {
     "800304204": {
         "Key": "Skill05",
         "Name": "黄金年代的绸缪",
-        "Desc": "使自身进入蓄力状态并获得<color style='color:#f29e38;'>9</color>层<color style='color:#f29e38;'>【追忆刻度】</color>，下次行动施放<color style='color:#f29e38;'>【黄金年代的解放】</color>。每次受到攻击后失去1层【追忆刻度】。",
+        "Desc": "使自身进入蓄力状态并获得@9#层@【追忆刻度】#，下次行动施放@【黄金年代的解放】#。每次受到攻击后失去1层【追忆刻度】。",
         "SP": 0,
         "Prepare": [
             800304205
@@ -7561,7 +7561,7 @@ var _monsterskill = {
     "200203002": {
         "Key": "Skill01",
         "Name": "锯恶",
-        "Desc": "对指定我方单体造成<1>物理伤害，并由<color style='color:#f29e38;'>0%</color>基础概率使受到攻击的我方目标陷入【震荡】状态。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并由@0%#基础概率使受到攻击的我方目标陷入【震荡】状态。",
         "SP": 15.0,
         "Elem": "Phys",
         "DMG": [
@@ -7581,7 +7581,7 @@ var _monsterskill = {
     "802401101": {
         "Key": "Skill01",
         "Name": "作战时刻",
-        "Desc": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>2</color>层<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入@2#层``风化`状态。\n风化持续伤害：<2>风属性伤害，持续@3#回合，最多叠加@5#层。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -7602,7 +7602,7 @@ var _monsterskill = {
     "802401102": {
         "Key": "Skill02",
         "Name": "战争兵器",
-        "Desc": "对指定我方单体造成<1>风属性伤害。如受到攻击的目标正处于<color style='color:#f29e38;'>风化</color>状态，则直接造成1次风化伤害。",
+        "Desc": "对指定我方单体造成<1>风属性伤害。如受到攻击的目标正处于@风化#状态，则直接造成1次风化伤害。",
         "SP": 20.0,
         "Elem": "Wind",
         "Status": [
@@ -7615,7 +7615,7 @@ var _monsterskill = {
     "802401103": {
         "Key": "Skill03",
         "Name": "飓风",
-        "Desc": "对我方全体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>1</color>层<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "对我方全体造成<1>风属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入@1#层``风化`状态。\n风化持续伤害：<2>风属性伤害，持续@3#回合，最多叠加@5#层。",
         "SP": 10.0,
         "Elem": "Wind",
         "Status": [
@@ -7629,7 +7629,7 @@ var _monsterskill = {
     "802401104": {
         "Key": "Skill04",
         "Name": "繁殖",
-        "Desc": "繁殖2~3个<color style='color:#f29e38;'>幼蛰虫</color>或<color style='color:#f29e38;'>次蛰虫</color>。<br><br>如果为一阶段，则产生2个幼蛰虫。<br>如果为二阶段，则第一次繁殖时额外产生1个次蛰虫，后续繁殖时额外随机产生1个幼蛰虫或次蛰虫，各占50%概率。",
+        "Desc": "繁殖2~3个@幼蛰虫#或@次蛰虫#。\n\n如果为一阶段，则产生2个幼蛰虫。\n如果为二阶段，则第一次繁殖时额外产生1个次蛰虫，后续繁殖时额外随机产生1个幼蛰虫或次蛰虫，各占50%概率。",
         "SP": 0,
         "Summon": [
             8022010,
@@ -7645,7 +7645,7 @@ var _monsterskill = {
     "802401105": {
         "Key": "Skill05",
         "Name": "指挥准备",
-        "Desc": "进入蓄力状态，下次行动施放<color style='color:#f29e38;'>【虫群突袭】</color>。",
+        "Desc": "进入蓄力状态，下次行动施放@【虫群突袭】#。",
         "SP": 0,
         "Prepare": [
             802401106
@@ -7654,7 +7654,7 @@ var _monsterskill = {
     "802401106": {
         "Key": "Skill06",
         "Name": "虫群突袭",
-        "Desc": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态。<br>对我方全体造成<1>风属性伤害。场上存在0</color>1</color>2</color>3</color>4个其他怪物时，连续0</color>4</color>5</color>6</color>7次对我方随机单体造成<2>风属性伤害。<br>我方每次受到伤害时，都有<color style='color:#f29e38;'>100%</color>基础概率陷入<color style='color:#f29e38;'>1</color>层<b>风化</b>状态。<br>为所有角色恢复<color style='color:#f29e38;'>5</color>能量",
+        "Desc": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态。\n对我方全体造成<1>风属性伤害。场上存在0#1#2#3#4个其他怪物时，连续0#4#5#6#7次对我方随机单体造成<2>风属性伤害。\n我方每次受到伤害时，都有@100%#基础概率陷入@1#层``风化`状态。\n为所有角色恢复@5#能量",
         "SP": 10.0,
         "Elem": "Wind",
         "Threat": true,
@@ -7673,7 +7673,7 @@ var _monsterskill = {
     "802401108": {
         "Key": "PassiveSkill01",
         "Name": "传衍信息素",
-        "Desc": "场上每繁殖出1个真蛰虫，所有真蛰虫群造成伤害提高<color style='color:#f29e38;'>8%</color>。<br>场上仅能有1个【传衍信息素】效果生效。",
+        "Desc": "场上每繁殖出1个真蛰虫，所有真蛰虫群造成伤害提高@8%#。\n场上仅能有1个【传衍信息素】效果生效。",
         "SP": 0,
         "Status": [
             280240102
@@ -7682,7 +7682,7 @@ var _monsterskill = {
     "802401109": {
         "Key": "PassiveSkill02",
         "Name": "蛰亡语",
-        "Desc": "受到致命攻击时，对敌方全体造成<color style='color:#f29e38;'>40%自身生命值上限</color>风属性伤害和<color style='color:#f29e38;'>1.0</color>风属性削韧，并为其施加<color style='color:#f29e38;'>2</color>层<b>易伤</b>：受到的伤害提高<color style='color:#f29e38;'>10%</color>，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "Desc": "受到致命攻击时，对敌方全体造成@40%自身生命值上限#风属性伤害和@1.0#风属性削韧，并为其施加@2#层``易伤`：受到的伤害提高@10%#，持续@3#回合，最多叠加@10#层。",
         "SP": 0,
         "Elem": "Wind",
         "Status": [
@@ -7692,7 +7692,7 @@ var _monsterskill = {
     "301203001": {
         "Key": "Skill01",
         "Name": "惊醒无声的长眠",
-        "Desc": "当永眠墓碣受到致命攻击后，对应我方目标将解除<color style='color:#f29e38;'>【梦死】</color>状态，回复<color style='color:#f29e38;'>50%生命值上限</color>和全部能量。",
+        "Desc": "当永眠墓碣受到致命攻击后，对应我方目标将解除@【梦死】#状态，回复@50%生命值上限#和全部能量。",
         "SP": 0
     },
     "301203002": {
@@ -7704,7 +7704,7 @@ var _monsterskill = {
     "301203003": {
         "Key": "SkillP01",
         "Name": "化入永恒的延续",
-        "Desc": "永眠墓碣拥有<color style='color:#f29e38;'>5</color>格生命值。每次受到攻击，弱点击破和持续伤害时，都会直接扣除自身1格生命值。",
+        "Desc": "永眠墓碣拥有@5#格生命值。每次受到攻击，弱点击破和持续伤害时，都会直接扣除自身1格生命值。",
         "SP": 0
     },
     "301203004": {
@@ -7717,7 +7717,7 @@ var _monsterskill = {
     "302102001": {
         "Key": "Skill01",
         "Name": "血色女皇授勋",
-        "Desc": "对敌方银枝施加1层强化效果，使造成的伤害提高<color style='color:#f29e38;'>12%</color>。<br>【灵魂释放】状态下，改为施加2层。",
+        "Desc": "对敌方银枝施加1层强化效果，使造成的伤害提高@12%#。\n【灵魂释放】状态下，改为施加2层。",
         "SP": 0,
         "Status": [
             230240102
@@ -7726,13 +7726,13 @@ var _monsterskill = {
     "302102002": {
         "Key": "SkillP01",
         "Name": "颠仆的星花阶石",
-        "Desc": "受到致命攻击时，对攻击者施加1层强化效果，使造成的伤害提高<color style='color:#f29e38;'>20%</color>。<br>【灵魂释放】状态下，改为施加2层。",
+        "Desc": "受到致命攻击时，对攻击者施加1层强化效果，使造成的伤害提高@20%#。\n【灵魂释放】状态下，改为施加2层。",
         "SP": 0
     },
     "302103001": {
         "Key": "Skill01",
         "Name": "纯美骑士之踵",
-        "Desc": "对我方全体造成<1>物理伤害。<br>【灵魂释放】状态下，改为造成<2>物理伤害。",
+        "Desc": "对我方全体造成<1>物理伤害。\n【灵魂释放】状态下，改为造成<2>物理伤害。",
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
@@ -7743,7 +7743,7 @@ var _monsterskill = {
     "302103002": {
         "Key": "SkillP01",
         "Name": "已死命运风情",
-        "Desc": "受到致命攻击时，对敌方全体造成<color style='color:#f29e38;'>60%自身生命值</color>物理伤害和<color style='color:#f29e38;'>1</color>点物理属性削韧。<br>【灵魂释放】状态下，改为造成<color style='color:#f29e38;'>80%自身生命值</color>物理伤害和<color style='color:#f29e38;'>2</color>点物理属性削韧。",
+        "Desc": "受到致命攻击时，对敌方全体造成@60%自身生命值#物理伤害和@1#点物理属性削韧。\n【灵魂释放】状态下，改为造成@80%自身生命值#物理伤害和@2#点物理属性削韧。",
         "SP": 0,
         "Elem": "Phys"
     },
@@ -7768,13 +7768,13 @@ var _monsterskill = {
     "300201001": {
         "Key": "Skill01",
         "Name": "惊喜综艺",
-        "Desc": "使指定我方单体恢复<color style='color:#f29e38;'>50%</color>能量。只能在【惊喜频道】状态下使用。",
+        "Desc": "使指定我方单体恢复@50%#能量。只能在【惊喜频道】状态下使用。",
         "SP": 0
     },
     "300201002": {
         "Key": "Skill02",
         "Name": "惊吓播报",
-        "Desc": "对我方全体造成<1>量子属性伤害，并使我方全体损失<color style='color:#f29e38;'>20%</color>能量。只能在【惊吓频道】状态下使用。",
+        "Desc": "对我方全体造成<1>量子属性伤害，并使我方全体损失@20%#能量。只能在【惊吓频道】状态下使用。",
         "SP": 0,
         "Elem": "Quantum",
         "DMG": [
@@ -7874,7 +7874,7 @@ var _monsterskill = {
     "202401201": {
         "Key": "Skill01",
         "Name": "衔枝 · 肃风",
-        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>。",
+        "Desc": "召唤建木枝梢@【肃风之杪】#。",
         "SP": 0,
         "Summon": [
             2022071
@@ -7883,7 +7883,7 @@ var _monsterskill = {
     "202401202": {
         "Key": "Skill02",
         "Name": "衔枝 · 缃叶",
-        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>。",
+        "Desc": "召唤建木枝梢@【缃叶之杪】#。",
         "SP": 0,
         "Summon": [
             2022081
@@ -7892,7 +7892,7 @@ var _monsterskill = {
     "202401203": {
         "Key": "Skill03",
         "Name": "衔枝 · 繁花",
-        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【繁花之杪】</color>。",
+        "Desc": "召唤建木枝梢@【繁花之杪】#。",
         "SP": 0,
         "Summon": [
             2022091
@@ -7901,7 +7901,7 @@ var _monsterskill = {
     "202401204": {
         "Key": "Skill04",
         "Name": "衔枝 · 嘉实",
-        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【嘉实之杪】</color>。",
+        "Desc": "召唤建木枝梢@【嘉实之杪】#。",
         "SP": 0,
         "Summon": [
             2022101
@@ -7930,7 +7930,7 @@ var _monsterskill = {
     "202401207": {
         "Key": "Skill07",
         "Name": "蕉覆",
-        "Desc": "进入<color style='color:#f29e38;'>【蕉覆】</color>状态：防御力提升<color style='color:#f29e38;'>200%</color>，且使自身韧性无法受到伤害，持续<color style='color:#f29e38;'>1</color>回合。",
+        "Desc": "进入@【蕉覆】#状态：防御力提升@200%#，且使自身韧性无法受到伤害，持续@1#回合。",
         "SP": 0,
         "Status": [
             220240101
@@ -7939,7 +7939,7 @@ var _monsterskill = {
     "202401208": {
         "Key": "Skill08",
         "Name": "斑龙触",
-        "Desc": "当场上存在2个【嘉实】时立即施放该技能，对我方全体造成<1>雷属性伤害。<br>场上每存在一个【建木枝梢】，额外造成<2>雷属性伤害。<br>施放技能后，清除场上所有的<color style='color:#f29e38;'>【嘉实之杪】</color>。",
+        "Desc": "当场上存在2个【嘉实】时立即施放该技能，对我方全体造成<1>雷属性伤害。\n场上每存在一个【建木枝梢】，额外造成<2>雷属性伤害。\n施放技能后，清除场上所有的@【嘉实之杪】#。",
         "SP": 20.0,
         "Elem": "Elec",
         "Threat": true,
@@ -7954,7 +7954,7 @@ var _monsterskill = {
     "202401209": {
         "Key": "Skill09",
         "Name": "永寿",
-        "Desc": "立即回复<color style='color:#f29e38;'>10%生命值上限</color>，并获得<color style='color:#f29e38;'>1</color>层<color style='color:#f29e38;'>【若木化生】</color>。<br>若木化生：每回合回复<color style='color:#f29e38;'>4%生命值上限</color>。最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "Desc": "立即回复@10%生命值上限#，并获得@1#层@【若木化生】#。\n若木化生：每回合回复@4%生命值上限#。最多叠加@5#层。",
         "SP": 0,
         "Status": [
             220240111
@@ -7963,7 +7963,7 @@ var _monsterskill = {
     "202401210": {
         "Key": "Skill10",
         "Name": "衔枝 · 引蔓",
-        "Desc": "召唤2个建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>。",
+        "Desc": "召唤2个建木枝梢@【肃风之杪】#。",
         "SP": 0,
         "Summon": [
             2022071
@@ -7972,7 +7972,7 @@ var _monsterskill = {
     "202401211": {
         "Key": "Skill11",
         "Name": "衔枝 · 垂枝",
-        "Desc": "召唤2个建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>。",
+        "Desc": "召唤2个建木枝梢@【缃叶之杪】#。",
         "SP": 0,
         "Summon": [
             2022081
@@ -7981,7 +7981,7 @@ var _monsterskill = {
     "202401212": {
         "Key": "Skill12",
         "Name": "衔枝 · 榛莽",
-        "Desc": "召唤2个建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【繁花之杪】</color>。",
+        "Desc": "召唤2个建木枝梢@【缃叶之杪】#，1个建木枝梢@【肃风之杪】#，1个建木枝梢@【繁花之杪】#。",
         "SP": 0,
         "Summon": [
             2022071,
@@ -7992,7 +7992,7 @@ var _monsterskill = {
     "202401213": {
         "Key": "Skill13",
         "Name": "衔枝 · 交藤",
-        "Desc": "召唤2个建木枝梢<color style='color:#f29e38;'>【嘉实之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>。",
+        "Desc": "召唤2个建木枝梢@【嘉实之杪】#，1个建木枝梢@【缃叶之杪】#，1个建木枝梢@【肃风之杪】#。",
         "SP": 0,
         "Summon": [
             2022071,
@@ -8003,7 +8003,7 @@ var _monsterskill = {
     "202401214": {
         "Key": "Skill14",
         "Name": "生机充盈",
-        "Desc": "每当丰饶玄鹿获得增益效果时，丰饶玄鹿和所有建木枝梢造成的伤害提高<color style='color:#f29e38;'>15%</color>，可叠加。<br>第三阶段的生命值变为原本的<color style='color:#f29e38;'>1.66</color>倍。",
+        "Desc": "每当丰饶玄鹿获得增益效果时，丰饶玄鹿和所有建木枝梢造成的伤害提高@15%#，可叠加。\n第三阶段的生命值变为原本的@1.66#倍。",
         "SP": 0,
         "Status": [
             220240112
@@ -8035,7 +8035,7 @@ var _monsterskill = {
     "201302102": {
         "Key": "Skill02",
         "Name": "镇魂",
-        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>70%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>【震荡】状态下的目标受到攻击后，陷入<color style='color:#f29e38;'>【强烈震荡】</color>状态，然后解除【震荡】状态。<br>【强烈震荡】状态下的目标无法行动，且行动延后<color style='color:#f29e38;'>70%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有@70%#基础概率使受到攻击的我方目标陷入@【震荡】#状态，持续@2#回合。\n【震荡】状态下的目标受到攻击后，陷入@【强烈震荡】#状态，然后解除【震荡】状态。\n【强烈震荡】状态下的目标无法行动，且行动延后@70%#，持续@1#回合。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -8049,7 +8049,7 @@ var _monsterskill = {
     "201302103": {
         "Key": "Skill03",
         "Name": "转阴阳",
-        "Desc": "对我方全体造成<1>物理伤害。<br>若我方有至少3名角色未处于【震荡】与【强烈震荡】状态，则从这些角色中选择2名，有<color style='color:#f29e38;'>35%</color>基础概率使其陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>若我方有至多2名角色未处于【震荡】与【强烈震荡】状态，则从这些角色中选择1名，有<color style='color:#f29e38;'>35%</color>基础概率使其陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "对我方全体造成<1>物理伤害。\n若我方有至少3名角色未处于【震荡】与【强烈震荡】状态，则从这些角色中选择2名，有@35%#基础概率使其陷入@【震荡】#状态，持续@2#回合。\n若我方有至多2名角色未处于【震荡】与【强烈震荡】状态，则从这些角色中选择1名，有@35%#基础概率使其陷入@【震荡】#状态，持续@2#回合。",
         "SP": 10.0,
         "Elem": "Phys",
         "Status": [
@@ -8063,7 +8063,7 @@ var _monsterskill = {
     "201302105": {
         "Key": "SkillP01",
         "Name": "拘魂令",
-        "Desc": "场上有我方目标陷入<color style='color:#f29e38;'>【强烈震荡】</color>状态时，锁定该目标，下次行动对其施放<color style='color:#f29e38;'>【天坠】</color>。",
+        "Desc": "场上有我方目标陷入@【强烈震荡】#状态时，锁定该目标，下次行动对其施放@【天坠】#。",
         "SP": 0,
         "Elem": "Phys",
         "Status": [
@@ -8076,7 +8076,7 @@ var _monsterskill = {
     "201302106": {
         "Key": "Skill05",
         "Name": "召取狱卒",
-        "Desc": "召唤<color style='color:#f29e38;'>【幽府武弁】</color>。",
+        "Desc": "召唤@【幽府武弁】#。",
         "SP": 10.0,
         "Elem": "Phys",
         "Summon": [
@@ -8096,7 +8096,7 @@ var _monsterskill = {
     "803301103": {
         "Key": "Skill02",
         "Name": "培训中…",
-        "Desc": "进入蓄力状态，下次行动施放<color style='color:#f29e38;'>【企业文化冲击】</color>。",
+        "Desc": "进入蓄力状态，下次行动施放@【企业文化冲击】#。",
         "SP": 0,
         "Prepare": [
             803301104
@@ -8116,7 +8116,7 @@ var _monsterskill = {
     "803301105": {
         "Key": "Skill04",
         "Name": " 720 度考核",
-        "Desc": "夺取所有【基层员工•外勤】和【基层员工•安保】的<color style='color:#f29e38;'>【绩效点】</color>。",
+        "Desc": "夺取所有【基层员工•外勤】和【基层员工•安保】的@【绩效点】#。",
         "SP": 0,
         "Status": [
             280330101
@@ -8125,7 +8125,7 @@ var _monsterskill = {
     "803301106": {
         "Key": "Skill05",
         "Name": "末位淘汰",
-        "Desc": "消灭一名没有绩效点的【基层员工•外勤】或【基层员工•安保】。<br>召唤【基层员工•外勤】或【基层员工•安保】，并使所有【基层员工•外勤】和【基层员工•安保】获得1个<color style='color:#f29e38;'>【绩效点】</color>。",
+        "Desc": "消灭一名没有绩效点的【基层员工•外勤】或【基层员工•安保】。\n召唤【基层员工•外勤】或【基层员工•安保】，并使所有【基层员工•外勤】和【基层员工•安保】获得1个@【绩效点】#。",
         "SP": 0,
         "Summon": []
     },
@@ -8142,14 +8142,14 @@ var _monsterskill = {
     "803301107": {
         "Key": "Skill07",
         "Name": "末位淘汰",
-        "Desc": "消灭一名没有绩效点的【基层员工•外勤】或【基层员工•安保】。<br>召唤【基层员工•外勤】或【基层员工•安保】，并使所有【基层员工•外勤】和【基层员工•安保】获得1个<color style='color:#f29e38;'>【绩效点】</color>。",
+        "Desc": "消灭一名没有绩效点的【基层员工•外勤】或【基层员工•安保】。\n召唤【基层员工•外勤】或【基层员工•安保】，并使所有【基层员工•外勤】和【基层员工•安保】获得1个@【绩效点】#。",
         "SP": 0,
         "Summon": []
     },
     "201301202": {
         "Key": "Skill01",
         "Name": "儆惧",
-        "Desc": "提高<color style='color:#f29e38;'>33%</color>【惩戒度】等级，并对我方全体造成<1>虚数属性伤害。<br>有<color style='color:#f29e38;'>60%</color>基础概率使我方目标陷入<b>虚弱</b>状态。<br>虚弱：造成的伤害降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "提高@33%#【惩戒度】等级，并对我方全体造成<1>虚数属性伤害。\n有@60%#基础概率使我方目标陷入``虚弱`状态。\n虚弱：造成的伤害降低@20%#，持续@2#回合。",
         "SP": 5.0,
         "Elem": "Imaginary",
         "Status": [
@@ -8172,7 +8172,7 @@ var _monsterskill = {
     "201301204": {
         "Key": "Skill03",
         "Name": "缚束",
-        "Desc": "对指定我方单体造成<1>虚数属性伤害，同时有<color style='color:#f29e38;'>10%</color>基础概率使受到攻击的我方目标陷入<b>禁锢</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>50%</color>。",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害，同时有@10%#基础概率使受到攻击的我方目标陷入``禁锢`状态，持续@1#回合。\n禁锢：无法行动，行动延后@50%#。",
         "SP": 15.0,
         "Elem": "Imaginary",
         "Threat": true,
@@ -8183,7 +8183,7 @@ var _monsterskill = {
     "201301201": {
         "Key": "SkillP01",
         "Name": "奉辞罚罪",
-        "Desc": "当我方目标施放战技或终结技进行攻击时会积累<color style='color:#f29e38;'>33%</color>【惩戒度】等级。<br>当【惩戒度】等级满级时，立即进入【罚恶模式】：速度提升<color style='color:#f29e38;'>30</color>点，可以使用<color style='color:#f29e38;'>【戒退】</color>和<color style='color:#f29e38;'>【缚束】</color>，同时召唤<color style='color:#f29e38;'>2</color>个【入魔机巧 • 灯昼龙鱼】。",
+        "Desc": "当我方目标施放战技或终结技进行攻击时会积累@33%#【惩戒度】等级。\n当【惩戒度】等级满级时，立即进入【罚恶模式】：速度提升@30#点，可以使用@【戒退】#和@【缚束】#，同时召唤@2#个【入魔机巧 • 灯昼龙鱼】。",
         "SP": 0,
         "Prepare": [
             201301203,
@@ -8199,13 +8199,13 @@ var _monsterskill = {
     "202402001": {
         "Key": "SkillP01",
         "Name": "分灵",
-        "Desc": "自身无法被选择和攻击，场上每有一个敌人被击杀，失去<color style='color:#f29e38;'>5%</color>生命值。",
+        "Desc": "自身无法被选择和攻击，场上每有一个敌人被击杀，失去@5%#生命值。",
         "SP": 0
     },
     "202402002": {
         "Key": "Skill01",
         "Name": "棋快一着",
-        "Desc": "使敌方全体行动提前<color style='color:#f29e38;'>100%</color>。",
+        "Desc": "使敌方全体行动提前@100%#。",
         "SP": 0
     },
     "202402003": {
@@ -8223,7 +8223,7 @@ var _monsterskill = {
     "300302004": {
         "Key": "Skill04",
         "Name": "酬宾喷泉",
-        "Desc": "进入蓄力状态，获得<color style='color:#f29e38;'>韧性保护</color>，下次行动时施放<color style='color:#f29e38;'>【无限畅饮】</color>。",
+        "Desc": "进入蓄力状态，获得@韧性保护#，下次行动时施放@【无限畅饮】#。",
         "SP": 0
     },
     "300302005": {
@@ -8245,7 +8245,7 @@ var _monsterskill = {
     "803401002": {
         "Key": "Skill02",
         "Name": "分散投资",
-        "Desc": "连续 <color style='color:#f29e38;'>5</color>（一阶段）或 <color style='color:#f29e38;'>8</color>（二阶段）对我方随机单体造成 <1> 虚数属性伤害。",
+        "Desc": "连续 @5#（一阶段）或 @8#（二阶段）对我方随机单体造成 <1> 虚数属性伤害。",
         "SP": 5.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -8255,7 +8255,7 @@ var _monsterskill = {
     "803401003": {
         "Key": "Skill03",
         "Name": "点数喷泉",
-        "Desc": "对我方全体造成 <1> 虚数属性伤害，并减少我方全体 <color style='color:#f29e38;'>10</color> 点能量。",
+        "Desc": "对我方全体造成 <1> 虚数属性伤害，并减少我方全体 @10# 点能量。",
         "SP": 0,
         "Elem": "Imaginary",
         "DMG": [
@@ -8265,21 +8265,21 @@ var _monsterskill = {
     "803401004": {
         "Key": "Skill04",
         "Name": "对赌时刻",
-        "Desc": "召唤 <color style='color:#f29e38;'>2</color> 个<b>「所有或一无所有」</b>并使我方单体进入赌局，同时自身获得一个随机 2~6 的点数。<br>赌局期间诡弈砂金无法被选中。「所有或一无所有」永久免疫一切伤害。<br><br>进入赌局的我方单体攻击「所有或一无所有」时，会获得一个随机 1~6 的点数，命中多个会叠加点数。<br><br>进入赌局的我方单体回合结束时，赌局进行结算：<br>· 点数低于诡弈砂金视为输掉赌局，并承受<color style='color:#f29e38;'>【败者退席】</color>技能。<br>· 点数高于诡弈砂金视为赢得赌局：终结技被激活。<br><br><b><color style='color:#f29e38;'>观局勿语</color></b><br>未参与赌局的角色会被施加<b>【强烈震荡】</b>状态，使其行动延后<color style='color:#f29e38;'>70%</color>，在赌局结束前无法行动。该效果无法被免疫或抵抗。",
+        "Desc": "召唤 @2# 个``「所有或一无所有」`并使我方单体进入赌局，同时自身获得一个随机 2~6 的点数。<br>赌局期间诡弈砂金无法被选中。「所有或一无所有」永久免疫一切伤害。<br><br>进入赌局的我方单体攻击「所有或一无所有」时，会获得一个随机 1~6 的点数，命中多个会叠加点数。<br><br>进入赌局的我方单体回合结束时，赌局进行结算：<br>· 点数低于诡弈砂金视为输掉赌局，并承受@【败者退席】#技能。<br>· 点数高于诡弈砂金视为赢得赌局：终结技被激活。<br><br>``@观局勿语#`<br>未参与赌局的角色会被施加``【强烈震荡】`状态，使其行动延后@70%#，在赌局结束前无法行动。该效果无法被免疫或抵抗。",
         "SP": 0,
         "Threat": true
     },
     "803401005": {
         "Key": "Skill05",
         "Name": "豪赌盛宴",
-        "Desc": "召唤 <color style='color:#f29e38;'>4</color> 个<b>「所有或一无所有」</b>并使我方全体进入赌局，同时自身获得一个随机 5~9 的点数。<br>赌局期间诡弈砂金无法被选中。「所有或一无所有」永久免疫一切伤害。<br><br>我方单体攻击「所有或一无所有」时，会获得一个随机 1~6 的点数，命中多个会叠加点数。<br><br>下次诡弈砂金行动时，赌局进行结算：<br>· 点数低于诡弈砂金的我方目标输掉赌局，并承受<color style='color:#f29e38;'>【胜者通杀】</color>技能。<br>· 点数高于诡弈砂金的我方目标赢得赌局：终结技被激活。",
+        "Desc": "召唤 @4# 个``「所有或一无所有」`并使我方全体进入赌局，同时自身获得一个随机 5~9 的点数。<br>赌局期间诡弈砂金无法被选中。「所有或一无所有」永久免疫一切伤害。<br><br>我方单体攻击「所有或一无所有」时，会获得一个随机 1~6 的点数，命中多个会叠加点数。<br><br>下次诡弈砂金行动时，赌局进行结算：<br>· 点数低于诡弈砂金的我方目标输掉赌局，并承受@【胜者通杀】#技能。<br>· 点数高于诡弈砂金的我方目标赢得赌局：终结技被激活。",
         "SP": 0,
         "Threat": true
     },
     "803401006": {
         "Key": "Skill06",
         "Name": "败者退席",
-        "Desc": "对输掉赌局的我方单体造成 <1> 虚数属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方单体陷入禁锢状态。<br><br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>30%</color>。",
+        "Desc": "对输掉赌局的我方单体造成 <1> 虚数属性伤害，并有@100%#基础概率使受到攻击的我方单体陷入禁锢状态。<br><br>禁锢：无法行动，行动延后@30%#。",
         "SP": 20.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -8289,7 +8289,7 @@ var _monsterskill = {
     "803401007": {
         "Key": "Skill07",
         "Name": "胜者通杀",
-        "Desc": "对所有输掉赌局的我方目标造成 <1> 虚数属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入禁锢状态。<br><br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>30%</color>。",
+        "Desc": "对所有输掉赌局的我方目标造成 <1> 虚数属性伤害，并有@100%#基础概率使受到攻击的我方目标陷入禁锢状态。<br><br>禁锢：无法行动，行动延后@30%#。",
         "SP": 20.0,
         "Elem": "Imaginary",
         "DMG": [
@@ -8299,7 +8299,7 @@ var _monsterskill = {
     "803401008": {
         "Key": "Skill08",
         "Name": "诡弈赌约",
-        "Desc": "每次赢得赌局的我方目标获得<b>【鸿运当头】</b>效果：造成的伤害提高 <color style='color:#f29e38;'>50%</color>。<br>每次输掉赌局的我方目标获得<b>【时运不济】</b>效果：受到的伤害提高 <color style='color:#f29e38;'>20%</color>。",
+        "Desc": "每次赢得赌局的我方目标获得``【鸿运当头】`效果：造成的伤害提高 @50%#。<br>每次输掉赌局的我方目标获得``【时运不济】`效果：受到的伤害提高 @20%#。",
         "SP": 0
     },
     "803203001": {
@@ -8311,7 +8311,7 @@ var _monsterskill = {
     "200203201": {
         "Key": "Skill01",
         "Name": "锯恶",
-        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>【震荡】状态下的目标受到攻击后，陷入<color style='color:#f29e38;'>【强烈震荡】</color>状态，然后解除【震荡】状态。<br>【强烈震荡】状态下的目标无法行动，且行动延后<color style='color:#f29e38;'>70%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有@100%#基础概率使受到攻击的我方目标陷入@【震荡】#状态，持续@2#回合。\n【震荡】状态下的目标受到攻击后，陷入@【强烈震荡】#状态，然后解除【震荡】状态。\n【强烈震荡】状态下的目标无法行动，且行动延后@70%#，持续@1#回合。",
         "SP": 15.0,
         "Elem": "Phys",
         "Status": [
@@ -8332,7 +8332,7 @@ var _monsterskill = {
     "803301108": {
         "Key": "PassiveSkillInitiate",
         "Name": "提升业绩",
-        "Desc": "每次施放攻击后获得1个【绩效点】：造成的伤害提升<color style='color:#f29e38;'>50%</color>。<br>【绩效点】可在自身弱点被击破时或自身被消灭时被攻击者夺取。",
+        "Desc": "每次施放攻击后获得1个【绩效点】：造成的伤害提升@50%#。\n【绩效点】可在自身弱点被击破时或自身被消灭时被攻击者夺取。",
         "SP": 0,
         "Status": [
             280330101
@@ -8362,7 +8362,7 @@ var _monsterskill = {
     "300301003": {
         "Key": "Skill06",
         "Name": "点燃炉灶",
-        "Desc": "进入蓄力状态。若在下次行动时未将<color style='color:#f29e38;'>【炉灶过热】</color>叠加至<color style='color:#f29e38;'>6</color>层，则释放<color style='color:#f29e38;'>【烈焰爆炒】</color>，并清除所有【炉灶过热】和【炉灶加温】层数。",
+        "Desc": "进入蓄力状态。若在下次行动时未将@【炉灶过热】#叠加至@6#层，则释放@【烈焰爆炒】#，并清除所有【炉灶过热】和【炉灶加温】层数。",
         "SP": 0,
         "Elem": "Fire"
     },
@@ -8380,20 +8380,20 @@ var _monsterskill = {
     "300301005": {
         "Key": "Skill05",
         "Name": "厨房事故",
-        "Desc": "进入蓄力状态后，当<color style='color:#f29e38;'>【炉灶过热】</color>叠加至<color style='color:#f29e38;'>6</color>层时，对自身造成<color style='color:#f29e38;'>30%生命值上限</color>的火属性伤害和<color style='color:#f29e38;'>10</color>点火属性削韧，对敌方其他目标造成<color style='color:#f29e38;'>5%生命值上限</color>的火属性伤害和<color style='color:#f29e38;'>3</color>点火属性削韧，并使自身防御降低<color style='color:#f29e38;'>50%</color>，同时清除所有【炉灶加温】和【炉灶过热】层数。",
+        "Desc": "进入蓄力状态后，当@【炉灶过热】#叠加至@6#层时，对自身造成@30%生命值上限#的火属性伤害和@10#点火属性削韧，对敌方其他目标造成@5%生命值上限#的火属性伤害和@3#点火属性削韧，并使自身防御降低@50%#，同时清除所有【炉灶加温】和【炉灶过热】层数。",
         "SP": 0,
         "Elem": "Fire"
     },
     "300301006": {
         "Key": "Skill03",
         "Name": "火炼佳肴",
-        "Desc": "当<color style='color:#f29e38;'>【炉灶加温】</color>叠加至<color style='color:#f29e38;'>6</color>层时立即行动，并释放<color style='color:#f29e38;'>【点燃炉灶】</color>。",
+        "Desc": "当@【炉灶加温】#叠加至@6#层时立即行动，并释放@【点燃炉灶】#。",
         "SP": 0
     },
     "300301007": {
         "Key": "PassiveSkillInitiate",
         "Name": "猛火炉灶",
-        "Desc": "在<b>【文火】</b>期间，受到攻击或持续伤害会积累1层【炉灶加温】。<br>积累<color style='color:#f29e38;'>6</color>层后进入<b>【急火】</b>状态，此时受到攻击或持续伤害会改为积累1层【炉灶过热】，攻击命中角色时有<color style='color:#f29e38;'>50%</color>基础概率使目标减速<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "在``【文火】`期间，受到攻击或持续伤害会积累1层【炉灶加温】。\n积累@6#层后进入``【急火】`状态，此时受到攻击或持续伤害会改为积累1层【炉灶过热】，攻击命中角色时有@50%#基础概率使目标减速@20%#，持续@2#回合。",
         "SP": 0,
         "Status": [
             230030104,
@@ -8403,7 +8403,7 @@ var _monsterskill = {
     "300204001": {
         "Key": "Skill01",
         "Name": "预定闹钟",
-        "Desc": "进入蓄力状态，下次行动时施放<color style='color:#f29e38;'>【起床铃声】</color>。",
+        "Desc": "进入蓄力状态，下次行动时施放@【起床铃声】#。",
         "SP": 0
     },
     "300204002": {
@@ -8435,7 +8435,7 @@ var _monsterskill = {
     "301202002": {
         "Key": "SkillP01",
         "Name": "刚愎盾甲",
-        "Desc": "进入<color style='color:#f29e38;'>【守备】</color>状态，弱点未被击破时受到的伤害降低<color style='color:#f29e38;'>60%</color>，被击破时行动额外延后<color style='color:#f29e38;'>75%</color>，被击破后受到的伤害提高<color style='color:#f29e38;'>50%</color>。",
+        "Desc": "进入@【守备】#状态，弱点未被击破时受到的伤害降低@60%#，被击破时行动额外延后@75%#，被击破后受到的伤害提高@50%#。",
         "SP": 0,
         "Status": [
             230120201
@@ -8475,14 +8475,14 @@ var _monsterskill = {
     "302402004": {
         "Key": "Skill04",
         "Name": "DHGDR-次级燃烧",
-        "Desc": "初始弱点无效。消耗<color style='color:#f29e38;'>3%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>状态：解除<color style='color:#f29e38;'>【弱点无效】</color>效果，且速度提升<color style='color:#f29e38;'>50%</color>。此后所有攻击都会消耗自身<color style='color:#f29e38;'>1%生命值上限</color>。",
+        "Desc": "初始弱点无效。消耗@3%生命值上限#，进入@【次级燃烧】#状态：解除@【弱点无效】#效果，且速度提升@50%#。此后所有攻击都会消耗自身@1%生命值上限#。",
         "SP": 0,
         "Threat": true
     },
     "302402005": {
         "Key": "Skill05",
         "Name": "DHGDR-超新星过载",
-        "Desc": "对我方全体造成<1>火属性伤害，并有<color style='color:#f29e38;'>120%</color>基础概率使受到攻击的我方目标陷入<b>灼烧</b>状态。<br>灼烧持续伤害：<2>火属性伤害，持续<color style='color:#f29e38;'>3</color>回合。",
+        "Desc": "对我方全体造成<1>火属性伤害，并有@120%#基础概率使受到攻击的我方目标陷入``灼烧`状态。\n灼烧持续伤害：<2>火属性伤害，持续@3#回合。",
         "SP": 20.0,
         "Elem": "Fire",
         "Threat": true,
@@ -8494,7 +8494,7 @@ var _monsterskill = {
     "302402006": {
         "Key": "PassiveSkill01",
         "Name": "SGE-熔火垓心",
-        "Desc": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点。<br>我方消耗任意数目的燃烧战技点<color style='color:#f29e38;'>（不包括替代战技点）</color>时，会受到固定的<1>火属性伤害，但会额外造成等同于原伤害数值的<color style='color:#f29e38;'>30%</color>的火属性伤害。<br>我方接受其他角色<color style='color:#f29e38;'>（不包括自身和光锥）</color>的治疗时，治疗加成降低<color style='color:#f29e38;'>90%</color>。",
+        "Desc": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点。<br>我方消耗任意数目的燃烧战技点@（不包括替代战技点）#时，会受到固定的<1>火属性伤害，但会额外造成等同于原伤害数值的@30%#的火属性伤害。<br>我方接受其他角色@（不包括自身和光锥）#的治疗时，治疗加成降低@90%#。",
         "SP": 0,
         "Elem": "Fire",
         "DMG": [
@@ -8654,7 +8654,7 @@ var _monsterskill = {
     "300205002": {
         "Key": "Skill02",
         "Name": "桶的磨砺",
-        "Desc": "使自身的攻击力提高<color style='color:#f29e38;'>2<sup>n</sup>×100%</color>。该效果可叠加，且不可被驱散。",
+        "Desc": "使自身的攻击力提高@2<sup>n</sup>×100%#。该效果可叠加，且不可被驱散。",
         "SP": 0
     },
     "300205003": {
@@ -9581,7 +9581,7 @@ var _monsterskill = {
     "301101001": {
         "Key": "Skill01",
         "Name": "他者凝视",
-        "Desc": "对指定我方单体造成<1>量子属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标行动延后<color style='color:#f29e38;'>20%</color>。",
+        "Desc": "对指定我方单体造成<1>量子属性伤害，并有@100%#基础概率使受到攻击的我方目标行动延后@20%#。",
         "SP": 10.0,
         "Elem": "Quantum",
         "DMG": [
@@ -9708,7 +9708,7 @@ var _monsterskill = {
     "301203101": {
         "Key": "Skill01",
         "Name": "惊醒无声的长眠",
-        "Desc": "当永眠墓碣受到致命攻击后，对应我方目标将解除<color style='color:#f29e38;'>【梦死】</color>状态，回复<color style='color:#f29e38;'>50%生命值上限</color>和全部能量。",
+        "Desc": "当永眠墓碣受到致命攻击后，对应我方目标将解除@【梦死】#状态，回复@50%生命值上限#和全部能量。",
         "SP": 0
     },
     "301203102": {
@@ -9720,7 +9720,7 @@ var _monsterskill = {
     "301203103": {
         "Key": "SkillP01",
         "Name": "化入永恒的延续",
-        "Desc": "永眠墓碣拥有<color style='color:#f29e38;'>5</color>格生命值。每次受到攻击，弱点击破和持续伤害时，都会直接扣除自身1格生命值。",
+        "Desc": "永眠墓碣拥有@5#格生命值。每次受到攻击，弱点击破和持续伤害时，都会直接扣除自身1格生命值。",
         "SP": 0
     },
     "301203104": {
@@ -9754,7 +9754,7 @@ var _monsterskill = {
     "300301103": {
         "Key": "Skill06",
         "Name": "点燃炉灶",
-        "Desc": "进入蓄力状态。下次行动释放<color style='color:#f29e38;'>【烈焰爆炒】</color>，并清除所有【炉灶过热】和【炉灶加温】层数。",
+        "Desc": "进入蓄力状态。下次行动释放@【烈焰爆炒】#，并清除所有【炉灶过热】和【炉灶加温】层数。",
         "SP": 0,
         "Elem": "Fire"
     },
@@ -9772,20 +9772,20 @@ var _monsterskill = {
     "300301105": {
         "Key": "Skill05",
         "Name": "厨房事故",
-        "Desc": "进入蓄力状态后，当【炉灶过热】叠加至<color style='color:#f29e38;'>9</color>层时，对自身造成<color style='color:#f29e38;'>33%生命值上限</color>的火属性伤害和<color style='color:#f29e38;'>10</color>点火属性削韧，对敌方其他目标造成<color style='color:#f29e38;'>2.5%生命值上限</color>的火属性伤害和<color style='color:#f29e38;'>3</color>点火属性削韧，并使自身防御降低<color style='color:#f29e38;'>10%</color>，为我方全部角色恢复<color style='color:#f29e38;'>50%</color>能量。<br>清除所有【炉灶加温】和【炉灶过热】层数。",
+        "Desc": "进入蓄力状态后，当【炉灶过热】叠加至@9#层时，对自身造成@33%生命值上限#的火属性伤害和@10#点火属性削韧，对敌方其他目标造成@2.5%生命值上限#的火属性伤害和@3#点火属性削韧，并使自身防御降低@10%#，为我方全部角色恢复@50%#能量。<br>清除所有【炉灶加温】和【炉灶过热】层数。",
         "SP": 0,
         "Elem": "Fire"
     },
     "300301106": {
         "Key": "Skill03",
         "Name": "火炼佳肴",
-        "Desc": "当<color style='color:#f29e38;'>【炉灶加温】</color>叠加至<color style='color:#f29e38;'>3</color>层时立即行动，并释放<color style='color:#f29e38;'>【点燃炉灶】</color>。",
+        "Desc": "当@【炉灶加温】#叠加至@3#层时立即行动，并释放@【点燃炉灶】#。",
         "SP": 0
     },
     "300301107": {
         "Key": "PassiveSkillInitiate",
         "Name": "猛火炉灶",
-        "Desc": "在<b>【文火】</b>期间，受到攻击或持续伤害会积累1层【炉灶加温】。积累<color style='color:#f29e38;'>3</color>层后进入<b>【急火】</b>状态，期间受到攻击或持续伤害会积累1层【炉灶过热】，攻击命中角色时有<color style='color:#f29e38;'>50%</color>基础概率使目标减速<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "在``【文火】`期间，受到攻击或持续伤害会积累1层【炉灶加温】。积累@3#层后进入``【急火】`状态，期间受到攻击或持续伤害会积累1层【炉灶过热】，攻击命中角色时有@50%#基础概率使目标减速@20%#，持续@2#回合。",
         "SP": 0,
         "Status": [
             230030104,
@@ -9801,7 +9801,7 @@ var _monsterskill = {
     "300302104": {
         "Key": "Skill04",
         "Name": "酬宾喷泉",
-        "Desc": "进入蓄力状态，获得<color style='color:#f29e38;'>韧性保护</color>，下次行动时施放<color style='color:#f29e38;'>【无限畅饮】</color>。<br>将随机我方单体标记为<color style='color:#f29e38;'>监视目标</color>。每当我方目标施放战技时，会转为标记最新施放战技的目标。此状态下，自身受到攻击时行动将会提前<color style='color:#f29e38;'>10%%</color>。",
+        "Desc": "进入蓄力状态，获得@韧性保护#，下次行动时施放@【无限畅饮】#。<br>将随机我方单体标记为@监视目标#。每当我方目标施放战技时，会转为标记最新施放战技的目标。此状态下，自身受到攻击时行动将会提前@10%%#。",
         "SP": 0
     },
     "302402101": {
@@ -9838,14 +9838,14 @@ var _monsterskill = {
     "302402104": {
         "Key": "Skill04",
         "Name": "DHGDR-次级燃烧",
-        "Desc": "初始弱点无效。消耗<color style='color:#f29e38;'>3%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>状态：解除<color style='color:#f29e38;'>【弱点无效】</color>效果，且速度提升<color style='color:#f29e38;'>50%</color>。此后所有攻击都会消耗自身<color style='color:#f29e38;'>1%生命值上限</color>。",
+        "Desc": "初始弱点无效。消耗@3%生命值上限#，进入@【次级燃烧】#状态：解除@【弱点无效】#效果，且速度提升@50%#。此后所有攻击都会消耗自身@1%生命值上限#。",
         "SP": 0,
         "Threat": true
     },
     "302402105": {
         "Key": "Skill05",
         "Name": "DHGDR-超新星过载",
-        "Desc": "对我方全体造成<1>火属性伤害，并有<color style='color:#f29e38;'>120%</color>基础概率使受到攻击的我方目标陷入<b>灼烧</b>状态。<br>灼烧持续伤害：<2>火属性伤害，持续<color style='color:#f29e38;'>3</color>回合。",
+        "Desc": "对我方全体造成<1>火属性伤害，并有@120%#基础概率使受到攻击的我方目标陷入``灼烧`状态。\n灼烧持续伤害：<2>火属性伤害，持续@3#回合。",
         "SP": 20.0,
         "Elem": "Fire",
         "Threat": true,
@@ -9857,7 +9857,7 @@ var _monsterskill = {
     "302402106": {
         "Key": "PassiveSkill01",
         "Name": "SGE-熔火垓心",
-        "Desc": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点。<br>我方消耗任意数目的燃烧战技点<color style='color:#f29e38;'>（不包括替代战技点）</color>时，会受到固定的<1>火属性伤害，但会额外造成等同于原伤害数值的<color style='color:#f29e38;'>30%</color>的火属性伤害。<br>我方接受其他角色<color style='color:#f29e38;'>（不包括自身和光锥）</color>的治疗时，治疗加成降低<color style='color:#f29e38;'>70%</color>。",
+        "Desc": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点。<br>我方消耗任意数目的燃烧战技点@（不包括替代战技点）#时，会受到固定的<1>火属性伤害，但会额外造成等同于原伤害数值的@30%#的火属性伤害。<br>我方接受其他角色@（不包括自身和光锥）#的治疗时，治疗加成降低@70%#。",
         "SP": 0,
         "DMG": [
             2.4
@@ -9934,7 +9934,7 @@ var _monsterskill = {
     "300205102": {
         "Key": "Skill02",
         "Name": "桶的磨砺",
-        "Desc": "使自身的攻击力提高<color style='color:#f29e38;'>2<sup>n</sup>×30%</color>。该效果可叠加，且不可被驱散。",
+        "Desc": "使自身的攻击力提高@2<sup>n</sup>×30%#。该效果可叠加，且不可被驱散。",
         "SP": 0
     },
     "300205103": {
@@ -9966,7 +9966,7 @@ var _monsterskill = {
     "301402103": {
         "Key": "Skill03",
         "Name": "锋锐悼词",
-        "Desc": "使自身造成的伤害提升<color style='color:#f29e38;'>100%</color>，持续1回合，陷入弱点击破状态后解除。",
+        "Desc": "使自身造成的伤害提升@100%#，持续1回合，陷入弱点击破状态后解除。",
         "SP": 0,
         "Status": [
             230140207
@@ -9975,7 +9975,7 @@ var _monsterskill = {
     "301402104": {
         "Key": "Skill04",
         "Name": "光明消歇",
-        "Desc": "进入<color style='color:#f29e38;'>【白日西沉】</color>状态。每当我方施放普攻、战技、终结技时叠加1层，当【白日西沉】叠加至3层时，立即对上一个行动的我方施放<color style='color:#f29e38;'>【已在黄昏失色】</color>。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
+        "Desc": "进入@【白日西沉】#状态。每当我方施放普攻、战技、终结技时叠加1层，当【白日西沉】叠加至3层时，立即对上一个行动的我方施放@【已在黄昏失色】#。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -9985,7 +9985,7 @@ var _monsterskill = {
     "301402105": {
         "Key": "Skill05",
         "Name": "已在黄昏失色",
-        "Desc": "立即对上一名施放普攻、战技、终结技的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
+        "Desc": "立即对上一名施放普攻、战技、终结技的我方目标发动致命攻击，使其陷入@【梦死】#状态。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -9995,7 +9995,7 @@ var _monsterskill = {
     "301402106": {
         "Key": "Skill06",
         "Name": "步入良夜",
-        "Desc": "恢复我方全体全部能量，并进入<color style='color:#f29e38;'>【夜幕降临】</color>状态：锁定2名最先行动的我方目标。下次行动时使用<color style='color:#f29e38;'>【如水逝于水中】</color>。",
+        "Desc": "恢复我方全体全部能量，并进入@【夜幕降临】#状态：锁定2名最先行动的我方目标。下次行动时使用@【如水逝于水中】#。",
         "SP": 0,
         "Threat": true,
         "Status": [
@@ -10005,7 +10005,7 @@ var _monsterskill = {
     "301402107": {
         "Key": "Skill07",
         "Name": "如水逝于水中",
-        "Desc": "立即对所有被锁定的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
+        "Desc": "立即对所有被锁定的我方目标发动致命攻击，使其陷入@【梦死】#状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入@【梦死】#状态。",
         "SP": 0,
         "Threat": true
     },
@@ -10018,7 +10018,7 @@ var _monsterskill = {
     "301402109": {
         "Key": "PassiveSkill02",
         "Name": "无从凭吊的荒场",
-        "Desc": "每当我方目标陷入<color style='color:#f29e38;'>【梦死】</color>状态时，召唤一个对应的<color style='color:#f29e38;'>【永眠墓碣】</color>；当我方全体陷入【梦死】状态或无法战斗状态时，战斗失败。",
+        "Desc": "每当我方目标陷入@【梦死】#状态时，召唤一个对应的@【永眠墓碣】#；当我方全体陷入【梦死】状态或无法战斗状态时，战斗失败。",
         "SP": 0
     },
     "301301001": {
@@ -10059,7 +10059,7 @@ var _monsterskill = {
     "301301004": {
         "Key": "Skill07",
         "Name": "痛恶如刺剔骨",
-        "Desc": "连续 <color style='color:#f29e38;'>3</color> 次对我方随机单体造成 <1> 量子属性伤害。每层【无明火】额外造成 <color style='color:#f29e38;'>1</color> 段伤害。",
+        "Desc": "连续 @3# 次对我方随机单体造成 <1> 量子属性伤害。每层【无明火】额外造成 @1# 段伤害。",
         "SP": 5.0,
         "Elem": "Quantum",
         "Threat": true,
@@ -10073,7 +10073,7 @@ var _monsterskill = {
     "301301005": {
         "Key": "SkillP01",
         "Name": "癔症身壳",
-        "Desc": "弱点未被击破时具有<b>【守备】</b>状态：受到的伤害降低 <color style='color:#f29e38;'>60%</color>。被击破时行动额外延后 <color style='color:#f29e38;'>75%</color>，被击破后受到的伤害提高 <color style='color:#f29e38;'>50%</color>。",
+        "Desc": "弱点未被击破时具有``【守备】`状态：受到的伤害降低 @60%#。被击破时行动额外延后 @75%#，被击破后受到的伤害提高 @50%#。",
         "SP": 0
     },
     "301301006": {
@@ -10107,7 +10107,7 @@ var _monsterskill = {
     "302402007": {
         "Key": "Skill06",
         "Name": "SGE-熔火引擎",
-        "Desc": "萨姆在【次级燃烧】下拥有<color style='color:#f29e38;'>5</color>点【熔火能量】。当萨姆被我方消耗了燃烧的战技点<color style='color:#f29e38;'>（包括替代战技点）</color>的攻击命中时，会依据消耗战技点的数目，扣除熔火能量。<br>【熔火能量】耗尽时解除【次级燃烧】，并恢复我方所有战技点。此时萨姆自动被弱点击破，且受到的伤害提高<color style='color:#f29e38;'>50%</color>，持续至韧性恢复。",
+        "Desc": "萨姆在【次级燃烧】下拥有@5#点【熔火能量】。当萨姆被我方消耗了燃烧的战技点@（包括替代战技点）#的攻击命中时，会依据消耗战技点的数目，扣除熔火能量。<br>【熔火能量】耗尽时解除【次级燃烧】，并恢复我方所有战技点。此时萨姆自动被弱点击破，且受到的伤害提高@50%#，持续至韧性恢复。",
         "SP": 0,
         "Status": [
             230240201,
@@ -10119,7 +10119,7 @@ var _monsterskill = {
     "302402107": {
         "Key": "Skill06",
         "Name": "SGE-熔火引擎",
-        "Desc": "萨姆在【次级燃烧】下拥有<color style='color:#f29e38;'>5</color>点【熔火能量】。当萨姆被我方消耗了燃烧的战技点<color style='color:#f29e38;'>（包括替代战技点）</color>的攻击命中时，会依据消耗战技点的数目，扣除熔火能量。<br>【熔火能量】耗尽时解除【次级燃烧】，并恢复我方所有战技点。此时萨姆自动被弱点击破，且受到的伤害提高<color style='color:#f29e38;'>50%</color>，持续至韧性恢复。",
+        "Desc": "萨姆在【次级燃烧】下拥有@5#点【熔火能量】。当萨姆被我方消耗了燃烧的战技点@（包括替代战技点）#的攻击命中时，会依据消耗战技点的数目，扣除熔火能量。<br>【熔火能量】耗尽时解除【次级燃烧】，并恢复我方所有战技点。此时萨姆自动被弱点击破，且受到的伤害提高@50%#，持续至韧性恢复。",
         "SP": 0,
         "Status": [
             230240201,
@@ -10290,7 +10290,7 @@ var _monsterskill = {
     "300302001": {
         "Key": "Skill01",
         "Name": "限量赠饮",
-        "Desc": "对指定我方单体造成<1>冰属性伤害，如果目标身上拥有护盾，则造成伤害后还会对自身造成<color style='color:#f29e38;'>8%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，如果目标身上拥有护盾，则造成伤害后还会对自身造成@8%生命值上限#的冰属性伤害，并有@150%#基础概率使自身防御力降低@20%#，持续@2#回合。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -10300,7 +10300,7 @@ var _monsterskill = {
     "300302002": {
         "Key": "Skill02",
         "Name": "无限畅饮",
-        "Desc": "随机对我方单体造成4次<1>冰属性伤害。每次造成伤害后，如果目标身上拥有护盾，则还会对自身造成<color style='color:#f29e38;'>8%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "随机对我方单体造成4次<1>冰属性伤害。每次造成伤害后，如果目标身上拥有护盾，则还会对自身造成@8%生命值上限#的冰属性伤害，并有@150%#基础概率使自身防御力降低@20%#，持续@2#回合。",
         "SP": 10.0,
         "Elem": "Ice",
         "Threat": true,
@@ -10311,7 +10311,7 @@ var _monsterskill = {
     "300302101": {
         "Key": "Skill01",
         "Name": "限量赠饮",
-        "Desc": "对指定我方单体造成<1>冰属性伤害，并使其行动提前<color style='color:#f29e38;'>50%</color>。<br>如果目标身上拥有护盾，则造成伤害后还会对自身造成<color style='color:#f29e38;'>20%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，并使其行动提前@50%#。\n如果目标身上拥有护盾，则造成伤害后还会对自身造成@20%生命值上限#的冰属性伤害，并有@150%#基础概率使自身防御力降低@20%#，持续@2#回合。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -10321,7 +10321,7 @@ var _monsterskill = {
     "300302102": {
         "Key": "Skill02",
         "Name": "无限畅饮",
-        "Desc": "对被监视的我方单体造成<1>冰属性伤害（分4次伤害），并使其行动提前<color style='color:#f29e38;'>50%</color>。<br>每次造成伤害后，如果目标身上拥有护盾，则会对自身造成<color style='color:#f29e38;'>20%生命值上限</color>的冰属性伤害，并对随机敌方造成<color style='color:#f29e38;'>1%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "Desc": "对被监视的我方单体造成<1>冰属性伤害（分4次伤害），并使其行动提前@50%#。\n每次造成伤害后，如果目标身上拥有护盾，则会对自身造成@20%生命值上限#的冰属性伤害，并对随机敌方造成@1%生命值上限#的冰属性伤害，并有@150%#基础概率使自身防御力降低@20%#，持续@2#回合。",
         "SP": 10.0,
         "Elem": "Ice",
         "Threat": true,
@@ -10358,13 +10358,13 @@ var _monsterskill = {
     "301402203": {
         "Key": "Skill03",
         "Name": "彻心悼词",
-        "Desc": "使自身造成的伤害提升 <color style='color:#f29e38;'>50%</color>，持续 1 回合，陷入弱点击破状态后解除。<br>每次释放时获得伤害额外提升 <color style='color:#f29e38;'>12%</color>（永久，不可解除），并使后续召唤的<color style='color:#f29e38;'>【永眠墓碣】</color>生命值增加 <color style='color:#f29e38;'>1</color> 格。",
+        "Desc": "使自身造成的伤害提升 @50%#，持续 1 回合，陷入弱点击破状态后解除。<br>每次释放时获得伤害额外提升 @12%#（永久，不可解除），并使后续召唤的@【永眠墓碣】#生命值增加 @1# 格。",
         "SP": 0
     },
     "301402204": {
         "Key": "Skill04",
         "Name": "光明消歇",
-        "Desc": "进入<color style='color:#f29e38;'>【白日西沉】</color>状态。每当有角色主动行动时叠加1层，当叠加3层时，立即对上一个行动的角色施放<color style='color:#f29e38;'>【已在黄昏失色】</color>。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
+        "Desc": "进入@【白日西沉】#状态。每当有角色主动行动时叠加1层，当叠加3层时，立即对上一个行动的角色施放@【已在黄昏失色】#。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
         "SP": 0,
         "Threat": true
     },
@@ -10378,7 +10378,7 @@ var _monsterskill = {
     "301402206": {
         "Key": "Skill06",
         "Name": "步入良夜",
-        "Desc": "为我方全体恢复 <color style='color:#f29e38;'>200</color> 点能量，并进入<color style='color:#f29e38;'>【夜幕降临】</color>状态并获得<color style='color:#f29e38;'>【弱点无效】</color>效果，期间会锁定我方优先行动的 <color style='color:#f29e38;'>2</color> 名角色。下次行动时使用<color style='color:#f29e38;'>【如水逝于水中】</color>。",
+        "Desc": "为我方全体恢复 @200# 点能量，并进入@【夜幕降临】#状态并获得@【弱点无效】#效果，期间会锁定我方优先行动的 @2# 名角色。下次行动时使用@【如水逝于水中】#。",
         "SP": 0,
         "Threat": true
     },
@@ -10398,7 +10398,7 @@ var _monsterskill = {
     "301402209": {
         "Key": "PassiveSkill02",
         "Name": "无从凭吊的荒场",
-        "Desc": "每当我方目标陷入<color style='color:#f29e38;'>【梦死】</color>状态时，召唤一个对应的<color style='color:#f29e38;'>【永眠墓碣】</color>，初始具有 <color style='color:#f29e38;'>4</color> 点生命值。<br>每次使用<color style='color:#f29e38;'>【彻心悼词】</color>时，后续召唤的永眠墓碣<color style='color:#f29e38;'>生命值+1</color>。<br>当我方全体陷入【梦死】状态或无法战斗状态时，战斗失败。",
+        "Desc": "每当我方目标陷入@【梦死】#状态时，召唤一个对应的@【永眠墓碣】#，初始具有 @4# 点生命值。<br>每次使用@【彻心悼词】#时，后续召唤的永眠墓碣@生命值+1#。<br>当我方全体陷入【梦死】状态或无法战斗状态时，战斗失败。",
         "SP": 0
     },
     "300301201": {
@@ -10452,7 +10452,7 @@ var _monsterskill = {
     "300302201": {
         "Key": "Skill01",
         "Name": "不限量赠饮",
-        "Desc": "对指定我方单体造成 <1> 冰属性伤害。<br>如果目标没有护盾，则有 <color style='color:#f29e38;'>50%</color> 基础概率施加冻结状态。<br>如果目标拥有护盾，则会对自身造成 <color style='color:#f29e38;'>8%生命值上限</color> 的冰属性伤害，并有 <color style='color:#f29e38;'>150%</color> 基础概率使自身防御力降低 <color style='color:#f29e38;'>20%</color>，持续 <color style='color:#f29e38;'>2</color> 回合。",
+        "Desc": "对指定我方单体造成 <1> 冰属性伤害。<br>如果目标没有护盾，则有 @50%# 基础概率施加冻结状态。<br>如果目标拥有护盾，则会对自身造成 @8%生命值上限# 的冰属性伤害，并有 @150%# 基础概率使自身防御力降低 @20%#，持续 @2# 回合。",
         "SP": 10.0,
         "Elem": "Ice",
         "DMG": [
@@ -10462,7 +10462,7 @@ var _monsterskill = {
     "300302202": {
         "Key": "Skill02",
         "Name": "疯狂畅饮",
-        "Desc": "连续对我方随机单体造成 <color style='color:#f29e38;'>4</color> 次 <1> 冰属性伤害。<br>每次造成伤害时，如果目标没有护盾，则有 <color style='color:#f29e38;'>120%</color> 基础概率施加冻结状态。<br>每次造成伤害时，如果目标拥有护盾，则会对自身造成 <color style='color:#f29e38;'>8%生命值上限</color> 的冰属性伤害，并有 <color style='color:#f29e38;'>150%</color> 基础概率使自身防御力降低 <color style='color:#f29e38;'>20%</color>，持续 <color style='color:#f29e38;'>2</color> 回合。",
+        "Desc": "连续对我方随机单体造成 @4# 次 <1> 冰属性伤害。<br>每次造成伤害时，如果目标没有护盾，则有 @120%# 基础概率施加冻结状态。<br>每次造成伤害时，如果目标拥有护盾，则会对自身造成 @8%生命值上限# 的冰属性伤害，并有 @150%# 基础概率使自身防御力降低 @20%#，持续 @2# 回合。",
         "SP": 10.0,
         "Elem": "Ice",
         "Threat": true,
@@ -10479,7 +10479,7 @@ var _monsterskill = {
     "300302204": {
         "Key": "Skill04",
         "Name": "酬宾喷泉",
-        "Desc": "进入蓄力状态，获得<color style='color:#f29e38;'>韧性保护</color>，下次行动时施放<color style='color:#f29e38;'>【疯狂畅饮】</color>。",
+        "Desc": "进入蓄力状态，获得@韧性保护#，下次行动时施放@【疯狂畅饮】#。",
         "SP": 0
     },
     "301301101": {
@@ -10520,7 +10520,7 @@ var _monsterskill = {
     "301301104": {
         "Key": "Skill07",
         "Name": "痛恶如刺剔骨",
-        "Desc": "连续 <color style='color:#f29e38;'>3</color> 次对我方随机单体造成 <1> 量子属性伤害。每层【无明火】额外造成 <color style='color:#f29e38;'>1</color> 段伤害。",
+        "Desc": "连续 @3# 次对我方随机单体造成 <1> 量子属性伤害。每层【无明火】额外造成 @1# 段伤害。",
         "SP": 5.0,
         "Elem": "Quantum",
         "Threat": true,
@@ -10534,7 +10534,7 @@ var _monsterskill = {
     "301301105": {
         "Key": "SkillP01",
         "Name": "癔症身壳",
-        "Desc": "弱点未被击破时具有<b>【守备】</b>状态：受到的伤害降低 <color style='color:#f29e38;'>30%</color>。被击破时行动额外延后 <color style='color:#f29e38;'>75%</color>，被击破后受到的伤害提高 <color style='color:#f29e38;'>50%</color>。",
+        "Desc": "弱点未被击破时具有``【守备】`状态：受到的伤害降低 @30%#。被击破时行动额外延后 @75%#，被击破后受到的伤害提高 @50%#。",
         "SP": 0
     },
     "104201": {
@@ -10557,7 +10557,7 @@ var _monsterskill = {
     },
     "104203": {
         "Name": "雷暴连斩",
-        "Desc": "对指定我方单体造成<1>雷属性伤害，对相邻目标造成<2>雷属性伤害。<br>释放后，刻晴的下一次行动延后<color style='color:#f29e38;'>25%</color>。",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，对相邻目标造成<2>雷属性伤害。\n释放后，刻晴的下一次行动延后@25%#。",
         "SP": 15.0,
         "Elem": "Elec",
         "DMG": [
@@ -10567,7 +10567,7 @@ var _monsterskill = {
     },
     "104204": {
         "Name": "玉衡之贵",
-        "Desc": "对指定我方单体造成<1>雷属性伤害，并进入<color style='color:#f29e38;'>【雷雳寰宇】</color>状态。<br>在【雷雳寰宇】状态下，每释放一次<color style='color:#f29e38;'>【雷暴连斩】</color>，都会对所有目标额外释放一次剑击，造成<2>雷属性伤害。<br>此状态下刻晴获得原韧性<color style='color:#f29e38;'>50%</color>的替代韧性条，击破此韧性条后，刻晴不会被弱点击破，但是会退出此状态并流失<color style='color:#f29e38;'>13%生命值上限</color>。",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，并进入@【雷雳寰宇】#状态。<br>在【雷雳寰宇】状态下，每释放一次@【雷暴连斩】#，都会对所有目标额外释放一次剑击，造成<2>雷属性伤害。<br>此状态下刻晴获得原韧性@50%#的替代韧性条，击破此韧性条后，刻晴不会被弱点击破，但是会退出此状态并流失@13%生命值上限#。",
         "SP": 10.0,
         "Elem": "Elec",
         "DMG": [
@@ -10577,12 +10577,12 @@ var _monsterskill = {
     },
     "104205": {
         "Name": "登楼",
-        "Desc": "每释放1次<color style='color:#f29e38;'>【云来剑法】</color>或召唤一枚<color style='color:#f29e38;'>【雷楔】</color>，刻晴和雷楔造成的伤害提升<color style='color:#f29e38;'>2%</color>。至多叠加99层，不可解除。",
+        "Desc": "每释放1次@【云来剑法】#或召唤一枚@【雷楔】#，刻晴和雷楔造成的伤害提升@2%#。至多叠加99层，不可解除。",
         "Elem": "Elec"
     },
     "104206": {
         "Name": "星斗归位",
-        "Desc": "对指定我方单体造成<1>雷属性伤害，并召唤2枚<color style='color:#f29e38;'>【雷楔】</color>，初始具有<color style='color:#f29e38;'>6</color>点耐久。<br>【雷楔】受到攻击时，刻晴会立即行动，对攻击者释放一次<color style='color:#f29e38;'>【雷暴连斩】</color>，并命令该雷楔<b>监视</b>本次攻击者。",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，并召唤2枚@【雷楔】#，初始具有@6#点耐久。<br>【雷楔】受到攻击时，刻晴会立即行动，对攻击者释放一次@【雷暴连斩】#，并命令该雷楔``监视`本次攻击者。",
         "SP": 15.0,
         "Elem": "Elec",
         "DMG": [
@@ -10591,7 +10591,7 @@ var _monsterskill = {
     },
     "104207": {
         "Name": "抵天雷罚",
-        "Desc": "召唤2枚<color style='color:#f29e38;'>【雷楔】</color>，初始具有<color style='color:#f29e38;'>4</color>点耐久，并进入蓄力状态，2回合后释放<color style='color:#f29e38;'>【天街巡游】</color>。<br>",
+        "Desc": "召唤2枚@【雷楔】#，初始具有@4#点耐久，并进入蓄力状态，2回合后释放@【天街巡游】#。<br>",
         "Elem": "Elec",
         "DMG": [
             3.0
@@ -10599,7 +10599,7 @@ var _monsterskill = {
     },
     "104208": {
         "Name": "天街巡游",
-        "Desc": "场上存在<color style='color:#f29e38;'>0</color>/<color style='color:#f29e38;'>1</color>/<color style='color:#f29e38;'>2</color>/<color style='color:#f29e38;'>3</color>/<color style='color:#f29e38;'>4</color>枚<color style='color:#f29e38;'>【雷楔】</color>时，对我方全体造成<1>/<2>/<3>/<4>/<5>雷属性伤害。<br>若释放时场上没有雷楔，则在释放完毕后自动被韧性击破，且行动额外延后<color style='color:#f29e38;'>50%</color>，击破期间受到的伤害提升<color style='color:#f29e38;'>150%</color>。<br>释放结束后，清除所有【雷楔】。",
+        "Desc": "场上存在@0#/@1#/@2#/@3#/@4#枚@【雷楔】#时，对我方全体造成<1>/<2>/<3>/<4>/<5>雷属性伤害。<br>若释放时场上没有雷楔，则在释放完毕后自动被韧性击破，且行动额外延后@50%#，击破期间受到的伤害提升@150%#。<br>释放结束后，清除所有【雷楔】。",
         "SP": 20.0,
         "Elem": "Elec",
         "DMG": [
@@ -10612,12 +10612,12 @@ var _monsterskill = {
     },
     "104209": {
         "Name": "廉贞",
-        "Desc": "第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>1.66</color>倍，韧性改为原本的<color style='color:#f29e38;'>1.33</color>倍。<br>第三阶段生命值首次低于<color style='color:#f29e38;'>50%</color>时，刻晴立即行动，但速度永久降低<color style='color:#f29e38;'>10%</color>。",
+        "Desc": "第三阶段的生命值上限改为原本的@1.66#倍，韧性改为原本的@1.33#倍。\n第三阶段生命值首次低于@50%#时，刻晴立即行动，但速度永久降低@10%#。",
         "Elem": "Elec"
     },
     "104210": {
         "Name": "移灯",
-        "Desc": "<color style='color:#f29e38;'>【雷楔】</color>会对被监视的单体造成<1>雷属性伤害。<br>雷楔不会受到伤害。在受到攻击或韧性被击破后，将流失<color style='color:#f29e38;'>1</color>点耐久。耐久耗尽时将消散。<br>雷楔消散后，刻晴会<b>锁定</b>该雷楔监视的单体。锁定视为负面效果，持续<color style='color:#f29e38;'>2</color>回合，被锁定的单体会成为刻晴和所有其他雷楔的目标。",
+        "Desc": "@【雷楔】#会对被监视的单体造成<1>雷属性伤害。<br>雷楔不会受到伤害。在受到攻击或韧性被击破后，将流失@1#点耐久。耐久耗尽时将消散。<br>雷楔消散后，刻晴会``锁定`该雷楔监视的单体。锁定视为负面效果，持续@2#回合，被锁定的单体会成为刻晴和所有其他雷楔的目标。",
         "SP": 10.0,
         "Elem": "Elec",
         "DMG": [
@@ -10626,7 +10626,7 @@ var _monsterskill = {
     },
     "104211": {
         "Name": "金紫定垂",
-        "Desc": "刻晴释放<color style='color:#f29e38;'>【天街巡游】</color>时，会对被锁定的目标额外造成<1>雷属性伤害。",
+        "Desc": "刻晴释放@【天街巡游】#时，会对被锁定的目标额外造成<1>雷属性伤害。",
         "SP": 5.0,
         "Elem": "Elec",
         "DMG": [
@@ -10635,7 +10635,7 @@ var _monsterskill = {
     },
     "104212": {
         "Name": "调律",
-        "Desc": "我方目标受到【雷楔】的攻击后，有<color style='color:#f29e38;'>80%</color>基础概率陷入<color style='color:#f29e38;'>【失律】</color>状态：受到的伤害提升<color style='color:#f29e38;'>0.8%</color>，攻击力降低<color style='color:#f29e38;'>1%</color>，持续<color style='color:#f29e38;'>3</color>回合。<br>若【失律】叠加至10层且没有被主动解除，目标会在下回合开始时流失<color style='color:#f29e38;'>74%生命值上限</color>，并解除【失律】状态。",
+        "Desc": "我方目标受到【雷楔】的攻击后，有@80%#基础概率陷入@【失律】#状态：受到的伤害提升@0.8%#，攻击力降低@1%#，持续@3#回合。<br>若【失律】叠加至10层且没有被主动解除，目标会在下回合开始时流失@74%生命值上限#，并解除【失律】状态。",
         "Elem": "Elec"
     }
 }
