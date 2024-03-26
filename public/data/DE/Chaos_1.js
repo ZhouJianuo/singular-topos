@@ -1130,8 +1130,8 @@ var _chaos = [
                     "Win with at least 20 Cycle(s) left",
                     "No more than 0 downed character(s)"
                 ],
-                "HPSingle": 470944,
-                "HPMulti": 272343,
+                "HPSingle": 621780,
+                "HPMulti": 322622,
                 "Upper": [
                     {
                         "Level": 95,
@@ -6164,7 +6164,7 @@ var _chaoshp = {
             433842,
             565636,
             477648,
-            470944
+            621780
         ],
         "Multi": [
             256250,
@@ -6173,7 +6173,7 @@ var _chaoshp = {
             317880,
             410610,
             255584,
-            272343
+            322622
         ],
         "Index": {
             "1009": 0,

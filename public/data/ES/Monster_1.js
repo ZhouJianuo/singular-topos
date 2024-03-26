@@ -8030,7 +8030,10 @@ var _monster = {
             300401004,
             300401005
         ],
-        "HPForTrend": 0,
+        "HPForTrend": [
+            18,
+            12
+        ],
         "New": true
     },
     "3011010": {
